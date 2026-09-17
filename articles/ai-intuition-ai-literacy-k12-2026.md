@@ -4,6 +4,9 @@ created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, k-12, generative-ai, experiential-learning, pedagogy, curriculum-design, critical-thinking, teacher-role]
+foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
+pedagogy: [experiential-learning, pedagogy]
+technology: [generative-ai]
 research_method: [position paper]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12]

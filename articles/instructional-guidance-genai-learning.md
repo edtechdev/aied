@@ -4,6 +4,9 @@ created: "2026-06-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, higher-ed, scaffolding, active-learning, personalized-learning, feedback]
+pedagogy: [active-learning, scaffolding]
+technology: [llm, personalized-learning]
+assessment: [feedback]
 research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/2606.05509.md']

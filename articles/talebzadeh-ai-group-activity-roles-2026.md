@@ -4,6 +4,9 @@ created: "2026-09-02T09:55:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['teacher-ai-competency', 'learning-design', 'teacher-role', 'human-ai-collaboration', 'personalized-learning', 'educational-development', 'generative-ai']
+foundations: [educational-development, human-ai-collaboration, learning-design, teacher-role]
+technology: [generative-ai, personalized-learning]
+stakeholders: [teacher-ai-competency]
 research_method: [qualitative]
 audience: [instructors, learning designers, researchers, faculty development]
 level: [k 12]

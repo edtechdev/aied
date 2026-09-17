@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-16T15:03:07-04:00"
 type: article
 tags: [educational-robotics, simulation, social-emotional-learning, k-12, self-efficacy]
+pedagogy: [self-efficacy, social-emotional-learning]
+technology: [educational-robotics, simulation]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [mixed methods, user study]
 level: [k 12]

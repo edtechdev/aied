@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, feedback, teacher-role, higher-ed, educational-development, scaffolding, human-in-the-loop-ai, rag]
+foundations: [educational-development, teacher-role]
+pedagogy: [scaffolding]
+technology: [generative-ai, human-in-the-loop-ai, rag]
+assessment: [feedback]
 connected_faqs: [ai-feedback-at-scale]
 research_method: [mixed methods, qualitative]
 audience: [instructors, faculty development]

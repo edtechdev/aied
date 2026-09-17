@@ -4,6 +4,11 @@ created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, generative-ai, k-12, technology-acceptance-model, educational-measurement, curriculum-design, equity-in-ai-education, adaptive-learning, teacher-role]
+foundations: [ai-literacy, curriculum-design, teacher-role]
+technology: [adaptive-learning, generative-ai]
+assessment: [educational-measurement]
+stakeholders: [technology-acceptance-model]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [instrument development, survey, quantitative, mixed methods]
 discipline: [stem education]

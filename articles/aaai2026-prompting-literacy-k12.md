@@ -4,6 +4,10 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:34:20-04:00"
 type: article
 tags: [ai-literacy, k-12, llm, ai-education, simulation, automated-assessment, student-experience, rag]
+foundations: [ai-education, ai-literacy]
+technology: [llm, rag, simulation]
+assessment: [automated-assessment]
+stakeholders: [student-experience]
 research_method: [system development, experiment]
 audience: [instructors, learners]
 level: [k 12]

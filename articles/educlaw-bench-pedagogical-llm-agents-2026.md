@@ -4,6 +4,9 @@ created: "2026-08-05T04:33:04-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, llm, agentic-ai, benchmark, knowledge-tracing, student-modeling, simulation, ai-ed-evaluation, curriculum-design]
+foundations: [agentic-ai, curriculum-design]
+technology: [intelligent-tutoring, knowledge-tracing, llm, simulation, student-modeling]
+assessment: [ai-ed-evaluation, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 category: [evaluation, curriculum design]

@@ -4,6 +4,10 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-08-24T10:15:00-04:00"
 type: article
 tags: [generative-ai, intelligent-tutoring, student-experience, student-engagement, curriculum-design, higher-ed, educational-nlp]
+foundations: [curriculum-design]
+pedagogy: [student-engagement]
+technology: [educational-nlp, generative-ai, intelligent-tutoring]
+stakeholders: [student-experience]
 research_method: [system development, user study]
 audience: [learners]
 level: [higher ed]

@@ -4,7 +4,11 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [generative-ai, prompt-engineering, rag, hallucination-risk, pedagogical-safety, intelligent-tutoring, automated-assessment, ai-literacy]
-
+foundations: [ai-literacy]
+technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
+assessment: [automated-assessment]
+stakeholders: [pedagogical-safety]
+ethics: [hallucination-risk]
 confidence: high
 ---
 

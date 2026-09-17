@@ -4,6 +4,8 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, ai-ed-evaluation, student-modeling, item-response-theory, intelligent-tutoring, rag]
+technology: [intelligent-tutoring, knowledge-tracing, rag, student-modeling]
+assessment: [ai-ed-evaluation, item-response-theory]
 audience: [software developers]
 research_method: [system development, benchmark]
 

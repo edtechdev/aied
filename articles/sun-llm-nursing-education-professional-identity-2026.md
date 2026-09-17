@@ -4,6 +4,10 @@ created: "2026-09-07T08:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, llm, medical-education, professional-training, learner-identity, curriculum-design, equity-in-ai-education]
+foundations: [curriculum-design, learner-identity]
+technology: [generative-ai, llm]
+stakeholders: [professional-training]
+ethics: [equity-in-ai-education]
 research_method: [systematic review]
 discipline: [nursing education]
 audience: [medical educators, educators, curriculum designers, researchers, policymakers]

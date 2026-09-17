@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-16"
 type: article
 tags: [ai-literacy, equity-in-ai-education, agency, ai-education, sociocultural-learning, constructivist, human-ai-collaboration]
+foundations: [agency, ai-education, ai-literacy, human-ai-collaboration]
+pedagogy: [constructivist, sociocultural-learning]
+ethics: [equity-in-ai-education]
 audience: [instructors]
 research_method: [theoretical analysis]
 sources: ['raw/papers/ojeda-ramirez-community-based-ai-learning.md']

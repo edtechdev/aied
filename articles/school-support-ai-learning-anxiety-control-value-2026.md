@@ -4,6 +4,8 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-anxiety-and-stress, self-efficacy, motivation, higher-ed, student-experience, technology-acceptance-model, well-being]
+pedagogy: [motivation, self-efficacy, well-being]
+stakeholders: [ai-anxiety-and-stress, student-experience, technology-acceptance-model]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors, administrators]
 research_method: [structural equation modeling, survey]

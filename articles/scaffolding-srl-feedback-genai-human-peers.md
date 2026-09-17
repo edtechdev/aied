@@ -4,6 +4,10 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [self-regulated-learning, ai-feedback-quality, feedback, formative-assessment, peer-assessment, scaffolding, ai-literacy, generative-ai, metacognition, cognitive-offloading, writing-education]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, feedback, formative-assessment, peer-assessment]
 connected_faqs: [ai-feedback-at-scale]
 audience: [learners, instructors]
 research_method: [mixed methods, quasi-experiment]

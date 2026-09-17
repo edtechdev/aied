@@ -4,6 +4,10 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, active-learning, student-experience, teacher-role, learning-analytics, llm, k-12]
+foundations: [teacher-role]
+pedagogy: [active-learning, scaffolding]
+technology: [intelligent-tutoring, learning-analytics, llm]
+stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
 level: [k 12]

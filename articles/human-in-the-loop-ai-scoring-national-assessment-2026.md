@@ -4,6 +4,8 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [automated-essay-scoring, human-in-the-loop-ai, assessment-validity, automated-assessment, writing-education, educational-measurement, psychometrically-aware-ai, llm]
+technology: [human-in-the-loop-ai, llm]
+assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, psychometrically-aware-ai]
 sources: ['raw/papers/2609.05143.md']
 confidence: high
 research_method: [benchmark, educational measurement, secondary analysis]

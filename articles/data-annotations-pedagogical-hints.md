@@ -4,6 +4,10 @@ created: "2026-07-23T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, cs-education, higher-ed, generative-ai, student-engagement, bias-mitigation, rag, scaffolding]
+foundations: [ai-literacy]
+pedagogy: [scaffolding, student-engagement]
+technology: [generative-ai, rag]
+ethics: [bias-mitigation]
 audience: [learners, instructors]
 research_method: [case study]
 discipline: [cs education]

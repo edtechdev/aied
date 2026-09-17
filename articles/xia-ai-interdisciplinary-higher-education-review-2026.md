@@ -4,6 +4,9 @@ created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [ai-education, higher-ed, meta-analysis-systematic-review, discipline-specific-aied, human-ai-collaboration, equity-in-ai-education, stem-education, ethics]
+foundations: [ai-education, human-ai-collaboration]
+assessment: [meta-analysis-systematic-review]
+ethics: [equity-in-ai-education, ethics]
 research_method: [systematic review]
 level: [higher ed]
 category: [synthesis, framework]

@@ -4,6 +4,10 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ["educational-measurement", "generative-ai", "teacher-role", "assessment-validity", "k-12", "teacher-ai-competency"]
+foundations: [teacher-role]
+technology: [generative-ai]
+assessment: [assessment-validity, educational-measurement]
+stakeholders: [teacher-ai-competency]
 research_method: [instrument development]
 audience: [researchers, teacher educators]
 level: [secondary]

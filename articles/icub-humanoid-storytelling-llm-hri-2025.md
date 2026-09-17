@@ -4,6 +4,9 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [educational-robotics, llm, storytelling-in-education, early-childhood-elementary-ai-education, usability-research]
+pedagogy: [storytelling-in-education]
+technology: [educational-robotics, llm]
+assessment: [usability-research]
 level: [early childhood]
 research_method: [user study]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']

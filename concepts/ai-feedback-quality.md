@@ -5,7 +5,9 @@ updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 tags: [ai-feedback-quality, formative-assessment, automated-assessment, feedback, generative-ai, ai-literacy]
-
+foundations: [ai-literacy]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, automated-assessment, feedback, formative-assessment]
 confidence: high
 ---
 

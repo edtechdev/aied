@@ -4,6 +4,10 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [educational-policy-ai, assessment-validity, educational-measurement, global-south, intelligent-tutoring, ai-ed-evaluation, equity-in-ai-education, research-methods-aied]
+technology: [intelligent-tutoring]
+assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, research-methods-aied]
+stakeholders: [educational-policy-ai]
+ethics: [equity-in-ai-education, global-south]
 sources: ['raw/papers/el-salvador-ai-tutoring-selection-claim-2026.md']
 confidence: high
 research_method: [secondary analysis, quantitative]

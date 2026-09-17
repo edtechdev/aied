@@ -4,6 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, teacher-education, teacher-role, tpack, k-12, generative-ai, learning-design]
+foundations: [learning-design, sustainability, teacher-role]
+technology: [generative-ai]
+stakeholders: [tpack]
 research_method: [survey]
 audience: [instructors]
 level: [k 12]

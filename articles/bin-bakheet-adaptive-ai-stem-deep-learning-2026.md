@@ -4,6 +4,9 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-08-22T05:12:36-04:00"
 type: article
 tags: [adaptive-learning, ai-education, stem-education, k-12, machine-learning, personalized-learning, feedback, science-education]
+foundations: [ai-education]
+technology: [adaptive-learning, machine-learning, personalized-learning]
+assessment: [feedback]
 research_method: [mixed methods, experiment]
 discipline: [stem education, science education]
 level: [k 12]

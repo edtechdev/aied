@@ -4,6 +4,8 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-nlp, english-education, multimodal, llm, machine-learning, k-12, curriculum-design, learning-analytics]
+foundations: [curriculum-design]
+technology: [educational-nlp, learning-analytics, llm, machine-learning, multimodal]
 sources: ['raw/papers/bird-multimodal-educational-literature-2026.md']
 confidence: high
 research_method: [benchmark, system development]

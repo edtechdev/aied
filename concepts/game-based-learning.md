@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [game-based-learning, student-engagement, educational-robotics, motivation, active-learning]
+pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
+technology: [educational-robotics]
 category: [engagement]
 confidence: high
 ---

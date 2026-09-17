@@ -4,6 +4,9 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: article
 tags: [feedback, ai-feedback-quality, llm, higher-ed, student-engagement, learning-gains, formative-assessment, generative-ai]
+pedagogy: [student-engagement]
+technology: [generative-ai, llm]
+assessment: [ai-feedback-quality, feedback, formative-assessment, learning-gains]
 sources: ['raw/papers/gpt4-feedback-student-activation-2026.md']
 confidence: high
 research_method: [experiment]

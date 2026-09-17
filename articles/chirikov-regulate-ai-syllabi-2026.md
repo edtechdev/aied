@@ -4,6 +4,10 @@ created: "2026-09-02T04:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [educational-policy-ai, regulation, governance, academic-integrity, generative-ai, higher-ed, teacher-role, assessment]
+foundations: [academic-integrity, teacher-role]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [educational-policy-ai, governance, regulation]
 connected_faqs: [course-ai-policy]
 research_method: [quantitative, longitudinal]
 audience: [instructors, administrators, policymakers, researchers]

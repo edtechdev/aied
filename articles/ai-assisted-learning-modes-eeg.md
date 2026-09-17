@@ -4,6 +4,10 @@ created: "2026-06-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, student-experience, llm, generative-ai, student-engagement, affective-computing, active-learning, ai-literacy, scaffolding]
+foundations: [ai-literacy]
+pedagogy: [active-learning, scaffolding, student-engagement]
+technology: [affective-computing, generative-ai, llm]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [k 12]

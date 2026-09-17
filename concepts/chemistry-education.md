@@ -4,6 +4,9 @@ created: "2026-08-19T12:55:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [chemistry-education, stem-education, higher-ed, k-12, generative-ai, teacher-education, ai-literacy, assessment, philosophy-of-ai-in-education]
+foundations: [ai-literacy, philosophy-of-ai-in-education]
+technology: [generative-ai]
+assessment: [assessment]
 discipline: [chemistry education, stem education]
 level: [higher ed, k 12]
 category: [assessment]

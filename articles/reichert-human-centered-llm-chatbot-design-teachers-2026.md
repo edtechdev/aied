@@ -4,6 +4,12 @@ created: "2026-09-14T06:10:00-04:00"
 updated: "2026-09-14T06:10:00-04:00"
 type: article
 tags: [generative-ai, llm, teacher-role, human-ai-collaboration, human-in-the-loop-ai, pedagogical-safety, guardrails, usability-research, student-ai-interaction]
+foundations: [human-ai-collaboration, teacher-role]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai, human-in-the-loop-ai, llm]
+assessment: [usability-research]
+stakeholders: [pedagogical-safety]
+ethics: [guardrails]
 research_method: [qualitative, thematic analysis, user study]
 discipline: [learning sciences]
 level: [secondary]

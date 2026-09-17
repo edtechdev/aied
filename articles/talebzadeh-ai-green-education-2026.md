@@ -4,6 +4,8 @@ created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-30T05:30:00-04:00"
 type: article
 tags: [generative-ai, teacher-role, learning-design, higher-ed, ai-education, sustainability, educational-development]
+foundations: [ai-education, educational-development, learning-design, sustainability, teacher-role]
+technology: [generative-ai]
 research_method: [quasi-experiment]
 audience: [instructors, faculty development]
 level: [teacher training]

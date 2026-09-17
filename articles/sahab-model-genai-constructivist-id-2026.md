@@ -4,6 +4,10 @@ created: "2026-08-25T09:52:34-04:00"
 updated: "2026-08-25T09:52:34-04:00"
 type: article
 tags: [teacher-education, constructivist, learning-design, generative-ai, teacher-ai-competency, adult-learning, cognitive-offloading, teacher-role]
+foundations: [cognitive-offloading, learning-design, teacher-role]
+pedagogy: [constructivist]
+technology: [generative-ai]
+stakeholders: [teacher-ai-competency]
 research_method: [mixed methods, quasi-experiment]
 audience: [instructors]
 category: [instructional design]

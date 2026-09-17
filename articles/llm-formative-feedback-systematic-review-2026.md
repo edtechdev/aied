@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [feedback, formative-assessment, llm, generative-ai, feedback-literacy, self-regulated-learning]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai, llm]
+assessment: [feedback, feedback-literacy, formative-assessment]
 research_method: [systematic review]
 sources: ['raw/papers/llm-formative-feedback-systematic-review-2026.md']
 confidence: high

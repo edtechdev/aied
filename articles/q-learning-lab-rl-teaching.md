@@ -4,6 +4,8 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [active-learning, higher-ed, reinforcement-learning, stem-education, self-regulated-learning, scaffolding, llm, visualization]
+pedagogy: [active-learning, scaffolding, self-regulated-learning]
+technology: [llm, reinforcement-learning, visualization]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]

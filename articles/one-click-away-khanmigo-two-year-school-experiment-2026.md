@@ -4,6 +4,11 @@ created: "2026-08-17T17:57:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, help-seeking, student-engagement, math-education, k-12, edtech-platform, adaptive-learning, learning-gains, equity-in-ai-education]
+pedagogy: [help-seeking, student-engagement]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
+assessment: [learning-gains]
+stakeholders: [edtech-platform]
+ethics: [equity-in-ai-education]
 research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]

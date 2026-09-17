@@ -4,7 +4,9 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [llm, prompt-engineering, rag, ai-literacy, intelligent-tutoring, cognitive-offloading, hallucination-risk]
-
+foundations: [ai-literacy, cognitive-offloading]
+technology: [intelligent-tutoring, llm, prompt-engineering, rag]
+ethics: [hallucination-risk]
 confidence: high
 ---
 

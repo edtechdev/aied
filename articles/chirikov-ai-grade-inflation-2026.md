@@ -4,6 +4,9 @@ created: "2026-09-02T04:31:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment-validity, academic-integrity, summative-assessment, generative-ai, higher-ed, automated-assessment, educational-measurement, assessment]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, summative-assessment]
 research_method: [quantitative, quasi-experiment]
 audience: [instructors, administrators, researchers, policymakers]
 level: [higher ed]

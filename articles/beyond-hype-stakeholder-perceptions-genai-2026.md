@@ -4,6 +4,9 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ["stakeholders", "generative-ai", "higher-ed", "governance", "educational-policy-ai", "educational-development", "professional-training"]
+foundations: [educational-development]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, governance, professional-training, stakeholders]
 research_method: [qualitative]
 audience: [administrators, instructors, researchers]
 level: [higher ed]

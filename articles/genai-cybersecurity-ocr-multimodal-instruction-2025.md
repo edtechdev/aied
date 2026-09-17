@@ -4,6 +4,8 @@ created: "2026-08-13T18:49:42-04:00"
 updated: "2026-08-13"
 type: article
 tags: [generative-ai, ai-technologies, llm, higher-ed, experiential-learning, pedagogical-agent, stem-education]
+pedagogy: [experiential-learning]
+technology: [ai-technologies, generative-ai, llm, pedagogical-agent]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]

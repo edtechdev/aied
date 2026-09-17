@@ -4,6 +4,9 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, educational-policy-ai, technology-acceptance-model, ai-education, writing-education]
+foundations: [ai-education, ai-literacy]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, technology-acceptance-model]
 audience: [learners]
 research_method: [survey]
 discipline: [writing education]

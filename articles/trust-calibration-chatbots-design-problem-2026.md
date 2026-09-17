@@ -4,6 +4,9 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [trust-calibration, trust, ai-literacy, conversational-ai, generative-ai, explainable-ai, hallucination-risk, llm]
+foundations: [ai-literacy]
+technology: [conversational-ai, generative-ai, llm]
+ethics: [explainable-ai, hallucination-risk, trust, trust-calibration]
 connected_faqs: [verify-ai-output]
 audience: [researchers, designers, instructors, policymakers]
 research_method: [theoretical analysis]

@@ -4,6 +4,9 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, writing-education, scaffolding, learning-theories, cognitive-offloading]
+foundations: [cognitive-offloading]
+pedagogy: [learning-theories, scaffolding]
+technology: [generative-ai]
 research_method: [theoretical analysis]
 discipline: [writing education]
 

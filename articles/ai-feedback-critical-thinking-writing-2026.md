@@ -4,6 +4,10 @@ created: "2026-08-10T09:10:02-04:00"
 updated: "2026-08-24T04:48:25-04:00"
 type: article
 tags: [generative-ai, critical-thinking, writing-education, feedback, k-12, automated-assessment, scaffolding, ai-education]
+foundations: [ai-education, critical-thinking]
+pedagogy: [scaffolding]
+technology: [generative-ai]
+assessment: [automated-assessment, feedback]
 research_method: [longitudinal, quantitative]
 level: [k 12]
 

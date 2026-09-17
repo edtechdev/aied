@@ -4,6 +4,11 @@ created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, generative-ai, benchmark, scaffolding, feedback, hallucination-risk, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [generative-ai, intelligent-tutoring, llm]
+assessment: [benchmark, feedback]
+ethics: [hallucination-risk]
 audience: [researchers, software developers]
 research_method: [benchmark]
 

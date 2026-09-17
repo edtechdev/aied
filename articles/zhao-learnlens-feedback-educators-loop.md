@@ -4,6 +4,9 @@ created: "2026-08-15T16:09:27-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, llm, generative-ai, stem-education, student-modeling, human-in-the-loop-ai, curriculum-design, teacher-role, educational-nlp]
+foundations: [curriculum-design, teacher-role]
+technology: [educational-nlp, generative-ai, human-in-the-loop-ai, llm, student-modeling]
+assessment: [ai-feedback-quality, feedback]
 research_method: [system development]
 discipline: [stem education]
 audience: [instructors]

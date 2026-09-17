@@ -4,6 +4,10 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, learning-theories, cognitive-offloading, student-experience, ai-literacy]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [learning-theories]
+technology: [generative-ai]
+stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [instructors, researchers]
 

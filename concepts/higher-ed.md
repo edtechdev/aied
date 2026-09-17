@@ -4,6 +4,9 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [higher-ed, ai-education, generative-ai, educational-development, student-experience, academic-integrity]
+foundations: [academic-integrity, ai-education, educational-development]
+technology: [generative-ai]
+stakeholders: [student-experience]
 audience: [learners, instructors, faculty development, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]

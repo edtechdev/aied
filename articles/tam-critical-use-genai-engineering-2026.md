@@ -4,6 +4,10 @@ created: "2026-08-18T14:55:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [technology-acceptance-model, generative-ai, higher-ed, student-experience, cs-education, engineering-education, ai-literacy, critical-thinking, ethics, cognitive-offloading]
+foundations: [ai-literacy, cognitive-offloading, critical-thinking]
+technology: [generative-ai]
+stakeholders: [student-experience, technology-acceptance-model]
+ethics: [ethics]
 research_method: [survey, structural equation modeling, quantitative]
 discipline: [cs education, engineering education]
 audience: [learners]

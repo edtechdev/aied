@@ -4,6 +4,10 @@ created: "2026-09-10T05:34:38-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [agency, group-work, assessment, academic-integrity, collaborative-learning, generative-ai, higher-ed, teacher-education]
+foundations: [academic-integrity, agency]
+pedagogy: [collaborative-learning]
+technology: [generative-ai]
+assessment: [assessment, group-work]
 connected_faqs: [group-work-ai]
 research_method: [qualitative, interviews, thematic analysis]
 level: [higher ed]

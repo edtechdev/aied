@@ -4,6 +4,9 @@ created: "2026-08-30T16:30:00-04:00"
 updated: "2026-08-30T16:30:00-04:00"
 type: article
 tags: ['cognitive-offloading', 'writing-education', 'self-regulated-learning', 'generative-ai', 'metacognition', 'transfer-of-learning', 'agency', 'higher-ed']
+foundations: [agency, cognitive-offloading]
+pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
+technology: [generative-ai]
 research_method: [quasi-experiment, quantitative]
 discipline: [writing education]
 level: [higher ed]

@@ -5,6 +5,8 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-information-extraction-undergraduate-thesis-2026.md"]
 tags: ["higher-ed", "stem-education", "inquiry-based-learning", "self-directed-learning", "knowledge-graph", "generative-ai"]
+pedagogy: [inquiry-based-learning, self-directed-learning]
+technology: [generative-ai, knowledge-graph]
 confidence: medium
 research_method: [system development, mixed methods, user study]
 discipline: [stem education]

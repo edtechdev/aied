@@ -4,6 +4,8 @@ created: "2026-08-24T12:35:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [prompt-engineering, higher-ed, engineering-education, generative-ai, student-ai-interaction, learning-analytics]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai, learning-analytics, prompt-engineering]
 research_method: [quantitative, learning analytics]
 discipline: [engineering education]
 level: [higher ed]

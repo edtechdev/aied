@@ -4,6 +4,9 @@ created: "2026-06-19T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, llm, k-12, personalized-learning, scaffolding, adaptive-learning, student-experience, prompt-engineering]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning, prompt-engineering]
+stakeholders: [student-experience]
 research_method: [system development, benchmark]
 audience: [learners, software developers]
 level: [k 12]

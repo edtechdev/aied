@@ -4,6 +4,10 @@ created: "2026-08-09T07:09:19-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [agentic-ai, pedagogical-safety, ai-ed-evaluation, llm, generative-ai, human-ai-collaboration, benchmark, ai-education]
+foundations: [agentic-ai, ai-education, human-ai-collaboration]
+technology: [generative-ai, llm]
+assessment: [ai-ed-evaluation, benchmark]
+stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
 category: [evaluation]

@@ -4,6 +4,9 @@ created: "2026-09-15T10:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, llm, cs-education, prompt-engineering, pedagogy, curriculum-design, higher-ed, experiential-learning, computational-thinking, teacher-education]
+foundations: [ai-literacy, computational-thinking, curriculum-design]
+pedagogy: [experiential-learning, pedagogy]
+technology: [llm, prompt-engineering]
 sources: ['raw/papers/llms-unplugged-teaching-resources-2026.md']
 confidence: high
 research_method: [system development, qualitative]

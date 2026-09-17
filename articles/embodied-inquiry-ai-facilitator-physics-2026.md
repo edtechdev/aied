@@ -4,6 +4,9 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, socratic-method, pedagogical-agent, generative-ai, higher-ed, professional-training, stem-education, science-education]
+pedagogy: [socratic-method]
+technology: [generative-ai, pedagogical-agent]
+stakeholders: [professional-training]
 research_method: [qualitative, case study]
 discipline: [physics education, stem education]
 level: [higher ed]

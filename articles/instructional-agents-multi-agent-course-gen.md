@@ -4,6 +4,10 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-08-26T15:35:00-04:00"
 type: article
 tags: [agentic-ai, llm, learning-design, edtech-platform, higher-ed, teacher-role, automated-assessment, educational-development]
+foundations: [agentic-ai, educational-development, learning-design, teacher-role]
+technology: [llm]
+assessment: [automated-assessment]
+stakeholders: [edtech-platform]
 research_method: [system development]
 audience: [instructors, faculty development, software developers]
 level: [higher ed]

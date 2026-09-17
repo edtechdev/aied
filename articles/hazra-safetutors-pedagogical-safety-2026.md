@@ -4,6 +4,9 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [pedagogical-safety, k-12, intelligent-tutoring, llm, scaffolding, regulation]
+pedagogy: [scaffolding]
+technology: [intelligent-tutoring, llm]
+stakeholders: [pedagogical-safety, regulation]
 audience: [software developers]
 research_method: [benchmark]
 level: [k 12]

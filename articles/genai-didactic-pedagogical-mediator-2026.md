@@ -4,6 +4,11 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, learning-design, higher-ed, teacher-role, ai-literacy, assessment, governance, agency]
+foundations: [agency, ai-literacy, learning-design, teacher-role]
+pedagogy: [pedagogy]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [governance]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]

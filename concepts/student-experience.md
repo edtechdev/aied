@@ -4,6 +4,10 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: concept
 tags: [generative-ai, llm, higher-ed, ai-literacy, cognitive-offloading, equity-in-ai-education, k-12, well-being]
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [well-being]
+technology: [generative-ai, llm]
+ethics: [equity-in-ai-education]
 level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high

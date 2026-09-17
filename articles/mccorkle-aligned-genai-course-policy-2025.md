@@ -4,6 +4,10 @@ created: "2026-09-10T15:08:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, educational-policy-ai, academic-integrity, assessment, curriculum-design, higher-ed, career-development-and-readiness, educational-development, framing-ai-use-for-students, authentic-assessment]
+foundations: [academic-integrity, curriculum-design, educational-development, framing-ai-use-for-students]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment]
+stakeholders: [career-development-and-readiness, educational-policy-ai]
 connected_faqs: [course-ai-policy]
 research_method: [design-based research]
 audience: [instructors, faculty development, instructional designers, curriculum designers]

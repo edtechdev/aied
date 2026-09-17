@@ -4,6 +4,10 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, intelligent-tutoring, automated-assessment, benchmark, feedback, adaptive-learning, student-experience, scaffolding]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, intelligent-tutoring, llm]
+assessment: [automated-assessment, benchmark, feedback]
+stakeholders: [student-experience]
 research_method: [benchmark]
 audience: [learners, software developers]
 

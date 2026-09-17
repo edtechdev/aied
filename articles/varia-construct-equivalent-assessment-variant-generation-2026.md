@@ -4,6 +4,9 @@ created: "2026-09-07T09:09:07-04:00"
 updated: "2026-09-07T09:09:07-04:00"
 type: article
 tags: [assessment-validity, automated-assessment, generative-ai, llm, academic-integrity, authentic-assessment]
+foundations: [academic-integrity]
+technology: [generative-ai, llm]
+assessment: [assessment-validity, authentic-assessment, automated-assessment]
 sources: ['raw/papers/varia-construct-equivalent-assessment-variant-generation-2026.md']
 confidence: high
 research_method: [benchmark]

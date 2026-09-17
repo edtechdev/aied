@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [ai-literacy, cognitive-offloading, trust-calibration, ai-education, higher-ed, language-learning, student-engagement]
+foundations: [ai-education, ai-literacy, cognitive-offloading]
+pedagogy: [student-engagement]
+ethics: [trust-calibration]
 connected_faqs: [verify-ai-output]
 audience: [learners, instructors]
 research_method: [experiment, mixed methods]

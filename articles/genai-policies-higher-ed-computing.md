@@ -4,6 +4,10 @@ created: "2026-07-15T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, educational-policy-ai, ai-literacy, equity-in-ai-education, change-management, governance, llm]
+foundations: [ai-literacy]
+technology: [generative-ai, llm]
+stakeholders: [change-management, educational-policy-ai, governance]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 audience: [administrators]
 research_method: [secondary analysis, policy analysis]

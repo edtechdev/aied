@@ -4,6 +4,7 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [student-modeling, knowledge-tracing, cognitive-diagnosis, simulating-students, adaptive-learning, personalized-learning, learning-analytics, intelligent-tutoring, llm]
+technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
 ---
 

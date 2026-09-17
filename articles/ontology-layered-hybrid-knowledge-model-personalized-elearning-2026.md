@@ -4,6 +4,9 @@ created: "2026-08-17T18:20:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [knowledge-graph, intelligent-tutoring, personalized-learning, adaptive-learning, student-modeling, learning-design, edtech-platform, learning-analytics, llm]
+foundations: [learning-design]
+technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, learning-analytics, llm, personalized-learning, student-modeling]
+stakeholders: [edtech-platform]
 research_method: [theoretical analysis]
 category: [instructional design]
 confidence: medium

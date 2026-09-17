@@ -4,6 +4,9 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, authentic-assessment, formative-assessment, summative-assessment, higher-ed, business-education, mastery-learning, academic-integrity, feedback]
+foundations: [academic-integrity]
+pedagogy: [mastery-learning]
+assessment: [assessment, authentic-assessment, feedback, formative-assessment, summative-assessment]
 sources: ['raw/papers/mesny-innovative-assessment-grading-management-2026.md']
 confidence: high
 research_method: [literature review]

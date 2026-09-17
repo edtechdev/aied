@@ -4,6 +4,11 @@ created: "2026-08-19T17:12:00-04:00"
 updated: "2026-09-16T15:13:06-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, reducing-ai-misuse, k-12, assessment, learning-gains, active-learning, rct, equity-in-ai-education]
+foundations: [cognitive-offloading, reducing-ai-misuse]
+pedagogy: [active-learning]
+technology: [generative-ai]
+assessment: [assessment, learning-gains, rct]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [quasi-experiment, secondary analysis]
 level: [k 12]

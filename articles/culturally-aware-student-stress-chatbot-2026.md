@@ -4,6 +4,10 @@ created: "2026-09-11T09:35:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [well-being, ai-anxiety-and-stress, conversational-ai, machine-learning, culturally-relevant-pedagogy, global-south, equity-in-ai-education, ethics, higher-ed]
+pedagogy: [well-being]
+technology: [conversational-ai, machine-learning]
+stakeholders: [ai-anxiety-and-stress]
+ethics: [culturally-relevant-pedagogy, equity-in-ai-education, ethics, global-south]
 connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium

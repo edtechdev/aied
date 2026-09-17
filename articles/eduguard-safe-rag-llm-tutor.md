@@ -4,6 +4,10 @@ created: "2026-07-20T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, generative-ai, intelligent-tutoring, stem-education, cognitive-offloading, hallucination-risk, feedback, benchmark, pedagogical-llm-training, rag]
+foundations: [cognitive-offloading]
+technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, rag]
+assessment: [benchmark, feedback]
+ethics: [hallucination-risk]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [stem education]

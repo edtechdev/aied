@@ -4,6 +4,11 @@ created: "2026-08-20T08:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, writing-education, assessment, ethics, higher-ed, experiential-learning, academic-integrity]
+foundations: [academic-integrity]
+pedagogy: [experiential-learning]
+technology: [generative-ai]
+assessment: [assessment]
+ethics: [ethics]
 research_method: [mixed methods, case study]
 level: [higher ed]
 category: [assessment]

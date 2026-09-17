@@ -4,6 +4,8 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 72
 tags: [pedagogy, learning-design, active-learning, scaffolding, reducing-ai-misuse]
+foundations: [learning-design, reducing-ai-misuse]
+pedagogy: [active-learning, pedagogy, scaffolding]
 category: [instructional design]
 ---
 

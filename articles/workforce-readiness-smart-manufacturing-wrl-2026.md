@@ -4,6 +4,9 @@ created: "2026-08-17T09:40:00-04:00"
 updated: "2026-08-24T20:50:00-04:00"
 type: article
 tags: [stem-education, professional-training, ai-literacy, human-ai-collaboration, higher-ed, curriculum-design, experiential-learning, mastery-learning]
+foundations: [ai-literacy, curriculum-design, human-ai-collaboration]
+pedagogy: [experiential-learning, mastery-learning]
+stakeholders: [professional-training]
 audience: [instructors, administrators]
 research_method: [case study]
 discipline: [stem education]

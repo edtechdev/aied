@@ -4,6 +4,7 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [personalized-learning, intelligent-tutoring, student-modeling, llm, affective-tutoring, rag, k-12]
+technology: [affective-tutoring, intelligent-tutoring, llm, personalized-learning, rag, student-modeling]
 audience: [software developers]
 research_method: [system development, benchmark]
 

@@ -4,6 +4,8 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ["self-determination-theory", "motivation", "self-regulated-learning", "generative-ai", "k-12", "student-engagement"]
+pedagogy: [motivation, self-determination-theory, self-regulated-learning, student-engagement]
+technology: [generative-ai]
 research_method: [survey, quantitative]
 audience: [teachers, researchers]
 level: [secondary]

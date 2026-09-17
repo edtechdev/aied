@@ -4,6 +4,8 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [professional-training, teacher-ai-competency, teacher-education, prompt-engineering, higher-ed]
+technology: [prompt-engineering]
+stakeholders: [professional-training, teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 audience: [faculty development, instructors, administrators, teacher educators, researchers]
 research_method: [mixed methods, quasi-experiment, survey]

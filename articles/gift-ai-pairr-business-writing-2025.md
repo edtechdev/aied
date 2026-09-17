@@ -4,6 +4,11 @@ created: "2026-08-13T17:57:54-04:00"
 updated: "2026-08-13"
 type: article
 tags: [ai-feedback-quality, writing-education, ai-literacy, student-experience, peer-assessment, multilingual-learning, self-regulated-learning, metacognition, equity-in-ai-education]
+foundations: [ai-literacy]
+pedagogy: [metacognition, self-regulated-learning]
+assessment: [ai-feedback-quality, peer-assessment]
+stakeholders: [student-experience]
+ethics: [equity-in-ai-education, multilingual-learning]
 research_method: [case study]
 discipline: [writing education]
 audience: [learners]

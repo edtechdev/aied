@@ -4,6 +4,9 @@ created: "2026-08-22T05:55:16-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [inquiry-based-learning, problem-based-learning, active-learning, critical-thinking, metacognition, self-regulated-learning, generative-ai, stem-education, scaffolding]
+foundations: [critical-thinking]
+pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
+technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 ---

@@ -4,6 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [automated-essay-scoring, assessment, llm, writing-education, language-learning, bias-mitigation]
+technology: [llm]
+assessment: [assessment, automated-essay-scoring]
+ethics: [bias-mitigation]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education, language learning]

@@ -4,6 +4,8 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, higher-ed, curriculum-design, learning-design, personalized-learning]
+foundations: [curriculum-design, learning-design]
+technology: [personalized-learning]
 audience: [institutions, instructors]
 research_method: design and evaluation study
 sources: [raw/papers/10.3389_fpsyg.2026.1790916.md]

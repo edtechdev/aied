@@ -4,6 +4,11 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, student-experience, learner-identity, student-ai-interaction, higher-ed, well-being, qualitative-research]
+foundations: [learner-identity]
+pedagogy: [pedagogical-partnerships, student-ai-interaction, well-being]
+technology: [generative-ai]
+assessment: [qualitative-research]
+stakeholders: [student-experience]
 sources: ['raw/papers/fawns-entangled-pedagogy-genai-students-2026.md']
 confidence: high
 research_method: [qualitative]

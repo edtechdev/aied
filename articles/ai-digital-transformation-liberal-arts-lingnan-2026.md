@@ -5,6 +5,9 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/ai-digital-transformation-liberal-arts-lingnan-2026.md"]
 tags: ["higher-ed", "generative-ai", "human-in-the-loop-ai", "humanities-education", "change-management", "curriculum-design"]
+foundations: [curriculum-design]
+technology: [generative-ai, human-in-the-loop-ai]
+stakeholders: [change-management]
 confidence: medium
 research_method: [position paper, case study]
 audience: [administrators, institutions, policymakers]

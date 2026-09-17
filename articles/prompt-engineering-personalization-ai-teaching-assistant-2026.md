@@ -4,6 +4,7 @@ created: "2026-09-07T09:09:07-04:00"
 updated: "2026-09-07T09:30:00-04:00"
 type: article
 tags: [intelligent-tutoring, personalized-learning, adaptive-learning, prompt-engineering, llm, rag]
+technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning, prompt-engineering, rag]
 sources: ['raw/papers/2609.03402.md']
 confidence: high
 research_method: [system development, user study]

@@ -5,6 +5,10 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 sources: ["raw/papers/ai-literacy-course-satisfaction-pbl-scale-2026.md"]
 tags: ["ai-literacy", "project-based-learning", "ethics", "educational-measurement", "student-engagement", "motivation"]
+foundations: [ai-literacy]
+pedagogy: [motivation, project-based-learning, student-engagement]
+assessment: [educational-measurement]
+ethics: [ethics]
 confidence: medium
 research_method: [instrument development, structural equation modeling, survey]
 audience: [instructional designers, educators, researchers]

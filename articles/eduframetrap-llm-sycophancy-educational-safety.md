@@ -4,6 +4,11 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, hallucination-risk, llm, generative-ai, benchmark, cognitive-offloading, rag, pedagogical-safety]
+foundations: [cognitive-offloading]
+technology: [generative-ai, intelligent-tutoring, llm, rag]
+assessment: [benchmark]
+stakeholders: [pedagogical-safety]
+ethics: [hallucination-risk]
 audience: [software developers]
 research_method: [benchmark]
 

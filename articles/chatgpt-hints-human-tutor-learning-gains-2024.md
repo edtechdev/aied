@@ -4,6 +4,10 @@ created: "2026-08-12T21:26:01-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [generative-ai, llm, intelligent-tutoring, scaffolding, math-education, learning-gains, hallucination-risk, adaptive-learning, feedback]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
+assessment: [feedback, learning-gains]
+ethics: [hallucination-risk]
 research_method: [randomized controlled trial]
 discipline: [math education]
 

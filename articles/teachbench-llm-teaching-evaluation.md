@@ -4,6 +4,9 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, benchmark, formative-assessment, personalized-learning, feedback, ai-literacy, agentic-ai]
+foundations: [agentic-ai, ai-literacy]
+technology: [llm, personalized-learning]
+assessment: [benchmark, feedback, formative-assessment]
 audience: [researchers, instructors, software developers]
 research_method: [benchmark]
 

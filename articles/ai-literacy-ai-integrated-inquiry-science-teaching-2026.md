@@ -4,6 +4,9 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, tpack, inquiry-based-learning, self-efficacy, science-education, teacher-ai-competency, teacher-education, teacher-role, pedagogy]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [inquiry-based-learning, pedagogy, self-efficacy]
+stakeholders: [teacher-ai-competency, tpack]
 audience: [researchers, teacher educators, teachers, policymakers]
 research_method: [structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1911909.md']

@@ -4,6 +4,10 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-14T09:12:54-04:00"
 type: article
 tags: [benchmark, ai-ed-evaluation, assessment-validity, physics-education, llm, hallucination-risk, educational-measurement, limitations-in-aied-research, science-education]
+foundations: [limitations-in-aied-research]
+technology: [llm]
+assessment: [ai-ed-evaluation, assessment-validity, benchmark, educational-measurement]
+ethics: [hallucination-risk]
 sources: ['raw/papers/frontier-models-physics-benchmark-audit-2026.md']
 confidence: high
 research_method: [benchmark]

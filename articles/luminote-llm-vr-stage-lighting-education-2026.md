@@ -2,6 +2,10 @@
 title: "LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education"
 type: article
 tags: [virtual-and-augmented-reality, generative-ai, llm, multimodal, teacher-role, human-in-the-loop-ai, learning-design, experiential-learning, professional-training]
+foundations: [learning-design, teacher-role]
+pedagogy: [experiential-learning]
+technology: [generative-ai, human-in-the-loop-ai, llm, multimodal, virtual-and-augmented-reality]
+stakeholders: [professional-training]
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 sources: ['raw/papers/luminote-llm-vr-stage-lighting-education-2026.md']

@@ -4,6 +4,7 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [feedback, ai-feedback-quality, feedback-literacy, formative-assessment, peer-assessment, automated-assessment, assessment]
+assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 category: [assessment]
 

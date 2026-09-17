@@ -4,6 +4,10 @@ created: "2026-07-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [personalized-learning, stem-education, learning-analytics, student-experience, adaptive-learning, k-12, higher-ed, knowledge-tracing, ai-literacy, formative-assessment]
+foundations: [ai-literacy]
+technology: [adaptive-learning, knowledge-tracing, learning-analytics, personalized-learning]
+assessment: [formative-assessment]
+stakeholders: [student-experience]
 research_method: [benchmark, quantitative, educational measurement]
 discipline: [math education, stem education]
 audience: [learners]

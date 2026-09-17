@@ -4,6 +4,9 @@ created: "2026-09-10T09:00:00-04:00"
 updated: "2026-09-10T09:00:00-04:00"
 type: article
 tags: [generative-ai, ai-education, cognitive-offloading, student-engagement, active-learning, prompt-engineering, critical-thinking, pedagogy, self-regulated-learning, teacher-role]
+foundations: [ai-education, cognitive-offloading, critical-thinking, teacher-role]
+pedagogy: [active-learning, pedagogy, self-regulated-learning, student-engagement]
+technology: [generative-ai, prompt-engineering]
 sources: ['raw/papers/2609.09856.md']
 confidence: high
 research_method: [position paper, theoretical analysis]

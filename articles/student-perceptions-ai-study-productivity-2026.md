@@ -4,6 +4,10 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [student-experience, generative-ai, higher-ed, self-report-measures, cognitive-offloading, critical-thinking, academic-integrity, learning-gains, ai-literacy]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
+technology: [generative-ai]
+assessment: [learning-gains, self-report-measures]
+stakeholders: [student-experience]
 sources: ['raw/papers/student-perceptions-ai-study-productivity-2026.md']
 confidence: high
 category: [engagement, ai foundations]

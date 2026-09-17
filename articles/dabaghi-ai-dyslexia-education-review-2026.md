@@ -4,6 +4,9 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [neurodiversity, special-education, inclusive-learning, assistive-technology, generative-ai, accessibility, meta-analysis-systematic-review, personalized-learning]
+technology: [generative-ai, personalized-learning]
+assessment: [meta-analysis-systematic-review]
+ethics: [accessibility, assistive-technology, inclusive-learning, neurodiversity]
 sources: ['raw/papers/dabaghi-ai-dyslexia-education-review-2026.md']
 confidence: high
 research_method: [systematic review]

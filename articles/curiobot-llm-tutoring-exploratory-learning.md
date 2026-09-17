@@ -4,6 +4,8 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [llm, intelligent-tutoring, metacognition, scaffolding, active-learning, self-regulated-learning]
+pedagogy: [active-learning, metacognition, scaffolding, self-regulated-learning]
+technology: [intelligent-tutoring, llm]
 research_method: [system development]
 sources: ['raw/papers/2606.22349.md']
 confidence: high

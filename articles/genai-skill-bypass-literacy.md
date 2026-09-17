@@ -4,6 +4,8 @@ created: "2026-07-09T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, cognitive-offloading, educational-development, rag, llm]
+foundations: [ai-literacy, cognitive-offloading, educational-development]
+technology: [generative-ai, llm, rag]
 research_method: [survey, educational measurement]
 audience: [faculty development]
 level: [higher ed]

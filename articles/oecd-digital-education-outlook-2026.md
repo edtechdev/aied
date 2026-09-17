@@ -4,6 +4,11 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, pedagogy, intelligent-tutoring, teacher-role, assessment, educational-policy-ai, higher-ed, k-12, ai-literacy]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [pedagogy]
+technology: [generative-ai, intelligent-tutoring]
+assessment: [assessment]
+stakeholders: [educational-policy-ai]
 research_method: [literature review, secondary analysis]
 audience: [instructors, administrators, researchers]
 level: [higher ed, k 12]

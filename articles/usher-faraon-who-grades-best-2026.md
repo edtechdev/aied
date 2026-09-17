@@ -4,6 +4,9 @@ created: "2026-09-01T10:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: ['assessment', 'automated-assessment', 'generative-ai', 'conversational-ai', 'higher-ed', 'student-experience']
+technology: [conversational-ai, generative-ai]
+assessment: [assessment, automated-assessment]
+stakeholders: [student-experience]
 research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]
 level: [higher ed]

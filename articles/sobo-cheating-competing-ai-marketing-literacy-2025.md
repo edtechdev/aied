@@ -4,6 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, higher-ed, academic-integrity, framing-ai-use-for-students, student-experience, ethics, ai-use-disclosure, critical-thinking]
+foundations: [academic-integrity, ai-literacy, critical-thinking, framing-ai-use-for-students]
+stakeholders: [student-experience]
+ethics: [ai-use-disclosure, ethics]
 research_method: [design-based research, mixed methods]
 audience: [learners]
 level: [higher ed]

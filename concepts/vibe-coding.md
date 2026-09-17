@@ -4,6 +4,8 @@ created: "2026-09-08T01:30:00-04:00"
 updated: "2026-09-08T03:05:00-04:00"
 type: concept
 tags: [generative-ai, llm, prompt-engineering, cs-education, computational-thinking, ai-literacy, writing-education, human-ai-collaboration, agentic-ai, teacher-role]
+foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
+technology: [generative-ai, llm, prompt-engineering]
 audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high

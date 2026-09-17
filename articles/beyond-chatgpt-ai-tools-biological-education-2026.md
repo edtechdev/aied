@@ -4,6 +4,8 @@ created: "2026-08-19T13:06:00-04:00"
 updated: "2026-08-19T13:06:00-04:00"
 type: article
 tags: [biology-education, generative-ai, ai-literacy, academic-integrity, machine-learning, higher-ed]
+foundations: [academic-integrity, ai-literacy]
+technology: [generative-ai, machine-learning]
 audience: [instructors]
 research_method: [literature review]
 discipline: [biology education]

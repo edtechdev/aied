@@ -4,6 +4,8 @@ created: "2026-08-19T17:30:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 tags: [summative-assessment, assessment, authentic-assessment, academic-integrity, higher-ed, k-12, ai-ed-evaluation]
+foundations: [academic-integrity]
+assessment: [ai-ed-evaluation, assessment, authentic-assessment, summative-assessment]
 research_method: [educational measurement]
 level: [higher ed, k 12]
 category: [assessment, evaluation]

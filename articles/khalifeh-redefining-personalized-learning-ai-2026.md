@@ -4,6 +4,8 @@ created: "2026-08-15T09:23:09-04:00"
 updated: "2026-08-15"
 type: article
 tags: [personalized-learning, adaptive-learning, intelligent-tutoring, llm, generative-ai, meta-analysis-systematic-review, learning-analytics, item-response-theory]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
+assessment: [item-response-theory, meta-analysis-systematic-review]
 research_method: [systematic review]
 sources: ['raw/papers/khalifeh-redefining-personalized-learning-ai-2026.md']
 confidence: high

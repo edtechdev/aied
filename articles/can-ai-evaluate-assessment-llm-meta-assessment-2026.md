@@ -4,6 +4,9 @@ created: "2026-08-21T13:10:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [assessment, automated-assessment, assessment-validity, llm, ai-feedback-quality, higher-ed, educational-measurement, human-in-the-loop-ai, hallucination-risk]
+technology: [human-in-the-loop-ai, llm]
+assessment: [ai-feedback-quality, assessment, assessment-validity, automated-assessment, educational-measurement]
+ethics: [hallucination-risk]
 research_method: [educational measurement]
 level: [higher ed]
 sources: ['raw/papers/can-ai-evaluate-assessment-llm-meta-assessment-2026.md']

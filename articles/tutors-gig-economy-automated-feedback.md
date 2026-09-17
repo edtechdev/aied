@@ -4,6 +4,9 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [feedback, higher-ed, intelligent-tutoring, language-learning, teacher-role]
+foundations: [teacher-role]
+technology: [intelligent-tutoring]
+assessment: [feedback]
 research_method: [survey]
 discipline: [language learning]
 audience: [instructors]

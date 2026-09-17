@@ -4,6 +4,9 @@ created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, k-12, higher-ed, qualitative-research, edtech-platform, student-experience, administrator, visualization]
+technology: [learning-analytics, visualization]
+assessment: [qualitative-research]
+stakeholders: [administrator, edtech-platform, student-experience]
 research_method: [qualitative]
 audience: [learners, administrators]
 level: [k 12, higher ed]

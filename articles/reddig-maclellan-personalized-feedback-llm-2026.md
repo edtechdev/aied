@@ -4,6 +4,8 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, intelligent-tutoring, feedback, personalized-learning, ai-feedback-quality, generative-ai]
+technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
+assessment: [ai-feedback-quality, feedback]
 sources: ['raw/papers/reddig-maclellan-personalized-feedback-llm-2026.md']
 confidence: high
 research_method: [benchmark, system development]

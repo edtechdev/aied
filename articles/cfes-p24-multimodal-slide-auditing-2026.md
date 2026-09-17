@@ -4,6 +4,9 @@ created: "2026-08-19T10:05:00-04:00"
 updated: "2026-08-20T03:14:48-04:00"
 type: article
 tags: [benchmark, llm, multimodal, learning-design, ai-ed-evaluation, assessment-validity, generative-ai]
+foundations: [learning-design]
+technology: [generative-ai, llm, multimodal]
+assessment: [ai-ed-evaluation, assessment-validity, benchmark]
 audience: [software developers]
 research_method: [benchmark]
 category: [instructional design, evaluation]

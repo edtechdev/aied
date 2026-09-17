@@ -4,6 +4,9 @@ created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [problem-solving, critical-thinking, generative-ai, cognitive-psychology]
+foundations: [critical-thinking]
+pedagogy: [cognitive-psychology, problem-solving]
+technology: [generative-ai]
 confidence: medium
 ---
 

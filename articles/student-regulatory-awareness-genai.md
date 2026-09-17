@@ -4,6 +4,9 @@ created: "2026-06-12T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, educational-policy-ai, regulation, academic-integrity, ai-literacy]
+foundations: [academic-integrity, ai-literacy]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, regulation, student-experience]
 research_method: [survey, quantitative]
 audience: [learners]
 level: [higher ed]

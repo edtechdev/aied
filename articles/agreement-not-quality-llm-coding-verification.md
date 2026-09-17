@@ -4,6 +4,10 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [llm, qualitative-research, k-12, teacher-role, ai-ed-evaluation, equity-in-ai-education, research-methods-aied, human-ai-collaboration, ai-literacy]
+foundations: [ai-literacy, human-ai-collaboration, teacher-role]
+technology: [llm]
+assessment: [ai-ed-evaluation, qualitative-research, research-methods-aied]
+ethics: [equity-in-ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [qualitative, research methods]
 audience: [instructors, researchers]

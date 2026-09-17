@@ -4,6 +4,9 @@ created: "2026-09-07T08:45:00-04:00"
 updated: "2026-09-13T12:55:00-04:00"
 type: article
 tags: [equity-in-ai-education, digital-divide, global-south, educational-policy-ai, governance, higher-ed, ai-education]
+foundations: [ai-education]
+stakeholders: [educational-policy-ai, governance]
+ethics: [digital-divide, equity-in-ai-education, global-south]
 research_method: [secondary analysis]
 audience: [policymakers, institutions, administrators, researchers]
 level: [higher ed]

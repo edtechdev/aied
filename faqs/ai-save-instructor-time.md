@@ -4,6 +4,8 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 weight: 78
 tags: [teacher-role, ai-feedback-quality, educational-development, ai-literacy]
+foundations: [ai-literacy, educational-development, teacher-role]
+assessment: [ai-feedback-quality]
 audience: [instructors, faculty development]
 ---
 

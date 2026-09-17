@@ -4,6 +4,10 @@ created: "2026-09-02T09:00:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [science-education, inquiry-based-learning, critical-thinking, generative-ai, assessment, situated-learning, student-engagement]
+foundations: [critical-thinking]
+pedagogy: [inquiry-based-learning, situated-learning, student-engagement]
+technology: [generative-ai]
+assessment: [assessment]
 sources: ['raw/papers/ai-assisted-inquiry-ssi-climate.md']
 confidence: high
 research_method: [quasi-experiment]

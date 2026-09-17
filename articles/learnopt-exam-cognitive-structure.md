@@ -4,6 +4,9 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [learning-analytics, llm, k-12, personalized-learning, assessment, student-experience, rag]
+technology: [learning-analytics, llm, personalized-learning, rag]
+assessment: [assessment]
+stakeholders: [student-experience]
 research_method: [benchmark, learning analytics]
 audience: [learners, software developers]
 level: [k 12]

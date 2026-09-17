@@ -4,6 +4,10 @@ type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 tags: [educational-robotics, digital-divide, k-12, equity-in-ai-education, learning-by-teaching, career-development-and-readiness, teacher-education, stem-education, cs-education]
+pedagogy: [learning-by-teaching]
+technology: [educational-robotics]
+stakeholders: [career-development-and-readiness]
+ethics: [digital-divide, equity-in-ai-education]
 sources: ['raw/papers/arc-hubs-k12-ai-robotics-rural-2026.md']
 confidence: high
 research_method: [design and evaluation study]

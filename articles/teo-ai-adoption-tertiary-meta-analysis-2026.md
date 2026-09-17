@@ -4,6 +4,9 @@ created: "2026-08-24T12:33:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [technology-acceptance-model, higher-ed, meta-analysis-systematic-review, student-experience, ai-technologies, change-management]
+technology: [ai-technologies]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [change-management, student-experience, technology-acceptance-model]
 research_method: [meta-analysis]
 audience: [learners]
 level: [higher ed]

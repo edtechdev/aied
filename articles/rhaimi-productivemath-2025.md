@@ -4,6 +4,9 @@ created: "2026-08-23T08:20:00-04:00"
 updated: "2026-08-23T09:30:00-04:00"
 type: article
 tags: [productive-failure, generative-ai, math-education, k-12, llm, teacher-role, learning-design]
+foundations: [learning-design, teacher-role]
+pedagogy: [productive-failure]
+technology: [generative-ai, llm]
 research_method: [mixed methods]
 discipline: [math education]
 audience: [instructors]

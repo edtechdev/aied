@@ -4,6 +4,10 @@ created: "2026-05-07T10:44:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [formative-assessment, assessment, automated-assessment, feedback, ai-feedback-quality, learning-analytics, personalized-learning, adaptive-learning, generative-ai, llm, human-in-the-loop-ai, scaffolding, ai-education]
+foundations: [ai-education]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, learning-analytics, llm, personalized-learning]
+assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
 category: [assessment]
 

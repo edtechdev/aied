@@ -4,6 +4,10 @@ created: "2026-09-01T16:00:00-04:00"
 updated: "2026-09-16T05:40:00-04:00"
 type: article
 tags: [generative-ai, k-12, meta-analysis-systematic-review, ai-literacy, teacher-education, ethics, personalized-learning, assessment]
+foundations: [ai-literacy]
+technology: [generative-ai, personalized-learning]
+assessment: [assessment, meta-analysis-systematic-review]
+ethics: [ethics]
 audience: [researchers, administrators, instructors]
 research_method: [systematic review]
 level: [k 12]

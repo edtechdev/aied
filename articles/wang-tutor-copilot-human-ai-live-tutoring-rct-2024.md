@@ -4,6 +4,9 @@ created: "2026-09-07T10:00:00-04:00"
 updated: "2026-09-07T10:00:00-04:00"
 type: article
 tags: [intelligent-tutoring, human-ai-collaboration, human-in-the-loop-ai, teacher-role, k-12, equity-in-ai-education]
+foundations: [human-ai-collaboration, teacher-role]
+technology: [human-in-the-loop-ai, intelligent-tutoring]
+ethics: [equity-in-ai-education]
 research_method: [randomized controlled trial]
 discipline: [learning sciences]
 audience: [researchers, edtech designers, policymakers, educators]

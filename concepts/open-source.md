@@ -4,6 +4,11 @@ created: "2026-07-28T10:44:35-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
 tags: [llm, open-source, intelligent-tutoring, adaptive-learning, edtech-platform, generative-ai, ai-education, curriculum-design, privacy, benchmark, agentic-ai, automated-assessment, writing-education]
+foundations: [agentic-ai, ai-education, curriculum-design]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
+assessment: [automated-assessment, benchmark]
+stakeholders: [edtech-platform, open-source]
+ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 category: [curriculum design]

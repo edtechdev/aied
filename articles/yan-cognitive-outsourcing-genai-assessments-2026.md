@@ -4,6 +4,10 @@ created: "2026-09-14T05:10:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [generative-ai, cognitive-offloading, metacognition, assessment, student-engagement, higher-ed, human-ai-collaboration, ai-literacy]
+foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
+pedagogy: [metacognition, student-engagement]
+technology: [generative-ai]
+assessment: [assessment]
 research_method: [qualitative, thematic analysis]
 level: [higher ed]
 category: [assessment, engagement]

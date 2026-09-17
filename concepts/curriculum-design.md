@@ -5,6 +5,9 @@ updated: "2026-09-17T02:27:38-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 tags: [curriculum-design, learning-design, ai-literacy, stem-education, higher-ed, generative-ai, scaffolding, teacher-role]
+foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
+pedagogy: [scaffolding]
+technology: [generative-ai]
 discipline: [stem education]
 audience: [instructors, faculty development]
 level: [higher ed]

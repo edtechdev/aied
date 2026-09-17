@@ -4,6 +4,9 @@ created: "2026-08-17T10:30:00-04:00"
 updated: "2026-08-24T17:45:00-04:00"
 type: article
 tags: [engineering-education, professional-training, ai-literacy, governance, curriculum-design, prompt-engineering, higher-ed, stem-education, cs-education]
+foundations: [ai-literacy, curriculum-design]
+technology: [prompt-engineering]
+stakeholders: [governance, professional-training]
 audience: [administrators, instructors]
 research_method: [systematic review, interviews]
 discipline: [engineering education, stem education, cs education]

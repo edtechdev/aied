@@ -4,6 +4,10 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [physics-education, generative-ai, assessment, assessment-validity, academic-integrity, cognitive-offloading, curriculum-design, higher-ed, problem-solving, transfer-of-learning]
+foundations: [academic-integrity, cognitive-offloading, curriculum-design]
+pedagogy: [problem-solving, transfer-of-learning]
+technology: [generative-ai]
+assessment: [assessment, assessment-validity]
 sources: ['raw/papers/2609.05719.md']
 confidence: high
 research_method: [case study, survey]

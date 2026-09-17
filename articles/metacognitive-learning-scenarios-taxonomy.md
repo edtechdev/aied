@@ -4,6 +4,9 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [metacognition, professional-training, adaptive-learning, lifelong-learning, scaffolding, self-regulated-learning, llm]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [adaptive-learning, llm]
+stakeholders: [lifelong-learning, professional-training]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2605.24142.md']
 confidence: high

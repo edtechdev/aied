@@ -4,6 +4,8 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-08-26T09:00:00-04:00"
 type: article
 tags: [game-based-learning, higher-ed, student-engagement, motivation, generative-ai]
+pedagogy: [game-based-learning, motivation, student-engagement]
+technology: [generative-ai]
 research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/ai-gamification-security-education-2026.md']

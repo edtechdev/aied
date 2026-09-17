@@ -4,6 +4,11 @@ created: "2026-08-25T07:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ai-anxiety-and-stress, generative-ai, well-being, privacy, ethics, ai-literacy, adult-learning, governance, regulation]
+foundations: [ai-literacy]
+pedagogy: [well-being]
+technology: [generative-ai]
+stakeholders: [ai-anxiety-and-stress, governance, regulation]
+ethics: [ethics, privacy]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors]
 research_method: [literature review]

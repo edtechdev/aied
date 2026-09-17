@@ -4,6 +4,8 @@ created: "2026-08-14T05:24:40-04:00"
 updated: "2026-09-16T14:48:35-04:00"
 type: concept
 tags: [meta-analysis-systematic-review, research-methods-aied, ai-education, ai-ed-evaluation]
+foundations: [ai-education]
+assessment: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [meta-analysis, systematic review, research methods, literature review]
 category: [evaluation]

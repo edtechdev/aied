@@ -4,6 +4,10 @@ created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [academic-integrity, hallucination-risk, llm, generative-ai, cs-education, peer-assessment, meta-analysis-systematic-review, quantitative-research]
+foundations: [academic-integrity]
+technology: [generative-ai, llm]
+assessment: [meta-analysis-systematic-review, peer-assessment, quantitative-research]
+ethics: [hallucination-risk]
 connected_faqs: [reporting-interpreting-aied-research, verify-ai-output]
 sources: ['raw/papers/citation-errors-hallucinations-computing-education-2026.md']
 confidence: high

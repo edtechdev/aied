@@ -4,6 +4,10 @@ created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ["generative-ai", "language-learning", "teacher-role", "teacher-education", "professional-training", "english-education", "teacher-ai-competency", "meta-analysis-systematic-review"]
+foundations: [teacher-role]
+technology: [generative-ai]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [professional-training, teacher-ai-competency]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
 research_method: [systematic review]

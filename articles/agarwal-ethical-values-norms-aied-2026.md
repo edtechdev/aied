@@ -4,6 +4,10 @@ created: "2026-09-03T14:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [ethics, ai-education, governance, educational-policy-ai, bias-mitigation, privacy, meta-analysis-systematic-review]
+foundations: [ai-education]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [educational-policy-ai, governance]
+ethics: [bias-mitigation, ethics, privacy]
 sources: ['raw/papers/agarwal-ethical-values-norms-aied-2026.md']
 confidence: high
 research_method: [systematic review]

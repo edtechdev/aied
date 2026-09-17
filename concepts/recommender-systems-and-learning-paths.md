@@ -4,6 +4,10 @@ created: "2026-09-16T14:29:36-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [personalized-learning, adaptive-learning, knowledge-graph, explainable-ai, learning-analytics, curriculum-design, lifelong-learning]
+foundations: [curriculum-design]
+technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
+stakeholders: [lifelong-learning]
+ethics: [explainable-ai]
 confidence: medium
 audience: [instructors, learners, researchers, learning designers, software developers]
 level: [higher ed, k 12]

@@ -4,6 +4,8 @@ created: "2026-08-12T22:10:30-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [simulation, student-modeling, knowledge-tracing, cognitive-diagnosis, agentic-ai, pedagogical-agent, intelligent-tutoring, generative-ai, llm, teacher-role]
+foundations: [agentic-ai, teacher-role]
+technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
 audience: [instructors]
 confidence: high
 ---

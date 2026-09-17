@@ -4,6 +4,10 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [cs-education, generative-ai, critical-thinking, personalized-learning, student-ai-interaction, misconceptions, trust-calibration, prior-knowledge, student-engagement]
+foundations: [critical-thinking, misconceptions]
+pedagogy: [prior-knowledge, student-ai-interaction, student-engagement]
+technology: [generative-ai, personalized-learning]
+ethics: [trust-calibration]
 sources: ['raw/papers/2609.06095.md']
 confidence: high
 research_method: [interviews, qualitative, thematic analysis]

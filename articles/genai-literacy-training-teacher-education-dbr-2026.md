@@ -4,6 +4,9 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-08-24T17:25:00-04:00"
 type: article
 tags: [ai-literacy, teacher-ai-competency, educational-development, pedagogical-llm-training, higher-ed, k-12]
+foundations: [ai-literacy, educational-development]
+technology: [pedagogical-llm-training]
+stakeholders: [teacher-ai-competency]
 research_method: [design-based research]
 audience: [faculty development]
 level: [higher ed, k 12]

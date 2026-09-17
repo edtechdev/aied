@@ -4,6 +4,9 @@ created: "2026-09-10T09:00:00-04:00"
 updated: "2026-09-10T09:00:00-04:00"
 type: article
 tags: [ai-literacy, ethics, governance, sustainability, ai-education, higher-ed, critical-thinking, curriculum-design, equity-in-ai-education]
+foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design, sustainability]
+stakeholders: [governance]
+ethics: [equity-in-ai-education, ethics]
 sources: ['raw/papers/2609.10489.md']
 confidence: high
 research_method: [survey, quantitative]

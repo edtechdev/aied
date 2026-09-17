@@ -4,6 +4,9 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [assessment, equity-in-ai-education, generative-ai, higher-ed, authentic-assessment]
+technology: [generative-ai]
+assessment: [assessment, authentic-assessment]
+ethics: [equity-in-ai-education]
 research_method: [theoretical analysis]
 level: [higher ed]
 category: [assessment]

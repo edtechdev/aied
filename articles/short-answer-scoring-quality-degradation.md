@@ -4,6 +4,9 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, formative-assessment, llm, benchmark, human-in-the-loop-ai, assessment-validity, open-source]
+technology: [human-in-the-loop-ai, llm]
+assessment: [assessment-validity, automated-assessment, benchmark, formative-assessment]
+stakeholders: [open-source]
 research_method: [benchmark, experiment]
 
 sources: ['raw/papers/2605.07647.md']

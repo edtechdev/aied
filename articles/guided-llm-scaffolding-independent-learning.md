@@ -4,6 +4,9 @@ created: "2026-06-02T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, scaffolding, higher-ed, metacognition, prompt-engineering, agentic-ai, ai-literacy, curriculum-design, llm]
+foundations: [agentic-ai, ai-literacy, curriculum-design]
+pedagogy: [metacognition, scaffolding]
+technology: [intelligent-tutoring, llm, prompt-engineering]
 audience: [learners, instructors]
 research_method: [quasi-experiment, quantitative]
 level: [higher ed]

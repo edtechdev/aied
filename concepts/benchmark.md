@@ -4,6 +4,8 @@ created: "2026-08-09T16:52:03-04:00"
 updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [ai-ed-evaluation, assessment, llm, generative-ai, benchmark]
+technology: [generative-ai, llm]
+assessment: [ai-ed-evaluation, assessment, benchmark]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [benchmark]
 category: [evaluation, assessment]

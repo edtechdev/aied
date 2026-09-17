@@ -4,6 +4,9 @@ created: "2026-06-30T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [affective-computing, feedback, llm, personalized-learning, student-experience, affective-tutoring]
+technology: [affective-computing, affective-tutoring, llm, personalized-learning]
+assessment: [feedback]
+stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 

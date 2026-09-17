@@ -4,6 +4,10 @@ created: "2026-05-08T10:44:35-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: concept
 tags: [equity-in-ai-education, inclusive-learning, culturally-relevant-pedagogy, digital-divide, bias-mitigation, ai-literacy, higher-ed, k-12, generative-ai, student-experience, teacher-role, intelligent-tutoring, language-learning, neurodiversity]
+foundations: [ai-literacy, teacher-role]
+technology: [generative-ai, intelligent-tutoring]
+stakeholders: [student-experience]
+ethics: [bias-mitigation, culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, inclusive-learning, neurodiversity]
 discipline: [language learning]
 audience: [learners, instructors]
 level: [higher ed, k 12]

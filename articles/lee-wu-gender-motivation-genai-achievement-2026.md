@@ -4,6 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [generative-ai, motivation, student-ai-interaction, personalized-learning, higher-ed, learning-gains, self-regulated-learning]
+pedagogy: [motivation, self-regulated-learning, student-ai-interaction]
+technology: [generative-ai, personalized-learning]
+assessment: [learning-gains]
 research_method: [learning analytics]
 level: [higher ed]
 sources: ['raw/papers/lee-wu-gender-motivation-genai-achievement-2026.md']

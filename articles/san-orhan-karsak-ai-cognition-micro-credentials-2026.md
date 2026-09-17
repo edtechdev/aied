@@ -4,6 +4,12 @@ created: "2026-09-06T08:10:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: article
 tags: [ai-literacy, higher-ed, generative-ai, ethics, governance, curriculum-design, assessment, metacognition, student-experience]
+foundations: [ai-literacy, curriculum-design]
+pedagogy: [metacognition]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [governance, student-experience]
+ethics: [ethics]
 sources: ['raw/papers/10.1186_s41239-026-00621-w.md']
 confidence: high
 research_method: [survey, learning analytics]

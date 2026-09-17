@@ -4,6 +4,8 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [knowledge-tracing, learning-analytics, intelligent-tutoring, student-experience]
+technology: [intelligent-tutoring, knowledge-tracing, learning-analytics]
+stakeholders: [student-experience]
 research_method: [system development, benchmark]
 audience: [learners]
 sources: ['raw/papers/2605.09369.md']

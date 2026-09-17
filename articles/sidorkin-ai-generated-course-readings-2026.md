@@ -4,6 +4,11 @@ created: "2026-09-14T11:10:12-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, personalized-learning, adaptive-learning, higher-ed, scaffolding, curriculum-design, hallucination-risk, trust-calibration, ai-literacy, student-experience]
+foundations: [ai-literacy, curriculum-design]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, generative-ai, personalized-learning]
+stakeholders: [student-experience]
+ethics: [hallucination-risk, trust-calibration]
 research_method: [case study, mixed methods, thematic analysis]
 level: [higher ed]
 category: [curriculum design]

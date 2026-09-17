@@ -5,6 +5,8 @@ updated: "2026-09-17T02:50:00-04:00"
 weight: 70
 type: faq
 tags: [feedback, ai-feedback-quality, feedback-literacy, automated-assessment, formative-assessment, human-in-the-loop-ai]
+technology: [human-in-the-loop-ai]
+assessment: [ai-feedback-quality, automated-assessment, feedback, feedback-literacy, formative-assessment]
 research_method: [experiment, mixed methods, systematic review]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]

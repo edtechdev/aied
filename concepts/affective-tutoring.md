@@ -4,6 +4,10 @@ created: "2026-05-07T10:44:35-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
 tags: [affective-computing, intelligent-tutoring, adaptive-learning, scaffolding, k-12, higher-ed, llm, generative-ai, student-experience, ai-literacy]
+foundations: [ai-literacy]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, affective-computing, generative-ai, intelligent-tutoring, llm]
+stakeholders: [student-experience]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium

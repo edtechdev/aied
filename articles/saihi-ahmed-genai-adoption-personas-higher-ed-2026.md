@@ -4,6 +4,10 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-08-23T14:00:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, technology-acceptance-model, trust, student-experience, conversational-ai, ai-literacy, ethics, human-ai-collaboration, change-management]
+foundations: [ai-literacy, human-ai-collaboration]
+technology: [conversational-ai, generative-ai]
+stakeholders: [change-management, student-experience, technology-acceptance-model]
+ethics: [ethics, trust]
 research_method: [survey]
 audience: [learners, instructors]
 level: [higher ed]

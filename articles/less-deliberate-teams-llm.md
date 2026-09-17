@@ -4,6 +4,9 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-16T17:12:13-04:00"
 type: article
 tags: [llm, student-experience, collaborative-learning, higher-ed, student-engagement, generative-ai, rag]
+pedagogy: [collaborative-learning, student-engagement]
+technology: [generative-ai, llm, rag]
+stakeholders: [student-experience]
 research_method: [learning analytics, longitudinal]
 audience: [learners]
 level: [higher ed]

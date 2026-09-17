@@ -4,6 +4,11 @@ created: "2026-08-27T09:16:00-04:00"
 updated: "2026-08-28T00:00:00-04:00"
 type: article
 tags: [assessment, generative-ai, academic-integrity, ai-detection, authentic-assessment, higher-ed, ethics, privacy, agency, desirable-difficulties]
+foundations: [academic-integrity, agency]
+pedagogy: [desirable-difficulties]
+technology: [generative-ai]
+assessment: [ai-detection, assessment, authentic-assessment]
+ethics: [ethics, privacy]
 research_method: [survey]
 level: [higher ed]
 category: [assessment]

@@ -4,6 +4,11 @@ created: "2026-05-12T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [adaptive-learning, assessment, student-engagement, learning-analytics, student-experience, computational-thinking]
+foundations: [computational-thinking]
+pedagogy: [student-engagement]
+technology: [adaptive-learning, learning-analytics]
+assessment: [assessment]
+stakeholders: [student-experience]
 research_method: [secondary analysis, educational measurement]
 audience: [learners]
 category: [assessment, engagement]

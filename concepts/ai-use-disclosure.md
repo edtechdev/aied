@@ -4,6 +4,11 @@ created: "2026-08-27T11:17:52-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 type: concept
 tags: [ai-use-disclosure, academic-integrity, ethics, trust, generative-ai, higher-ed, assessment, educational-policy-ai]
+foundations: [academic-integrity]
+technology: [generative-ai]
+assessment: [assessment]
+stakeholders: [educational-policy-ai]
+ethics: [ai-use-disclosure, ethics, trust]
 connected_faqs: [reporting-interpreting-aied-research, ai-guidance-children-under-13, course-ai-policy]
 level: [higher ed]
 category: [assessment]

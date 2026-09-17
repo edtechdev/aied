@@ -4,6 +4,9 @@ created: "2026-05-29T10:44:35-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: concept
 tags: [llm, assessment, benchmark, formative-assessment, teacher-role, generative-ai, human-in-the-loop-ai, higher-ed, assessment-validity, agentic-ai, educational-measurement]
+foundations: [agentic-ai, teacher-role]
+technology: [generative-ai, human-in-the-loop-ai, llm]
+assessment: [assessment, assessment-validity, benchmark, educational-measurement, formative-assessment]
 research_method: [benchmark, educational measurement]
 audience: [researchers, instructors, administrators]
 level: [higher ed]

@@ -5,6 +5,8 @@ updated: "2026-09-16T12:00:00-04:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 tags: [pedagogy, learning-design, ai-education, higher-ed, k-12]
+foundations: [ai-education, learning-design]
+pedagogy: [pedagogy]
 level: [higher ed, k 12]
 category: [instructional design]
 confidence: high

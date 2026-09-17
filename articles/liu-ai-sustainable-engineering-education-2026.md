@@ -4,6 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
 tags: [sustainability, engineering-education, higher-ed, human-ai-collaboration, learning-design, educational-policy-ai, personalized-learning]
+foundations: [human-ai-collaboration, learning-design, sustainability]
+technology: [personalized-learning]
+stakeholders: [educational-policy-ai]
 research_method: [system development]
 discipline: [engineering education]
 level: [higher ed]

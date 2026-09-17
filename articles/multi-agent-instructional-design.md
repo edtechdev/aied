@@ -4,6 +4,10 @@ created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [agentic-ai, ai-literacy, human-in-the-loop-ai, k-12, pedagogical-safety, educational-development, metacognition]
+foundations: [agentic-ai, ai-literacy, educational-development]
+pedagogy: [metacognition]
+technology: [human-in-the-loop-ai]
+stakeholders: [pedagogical-safety]
 research_method: [system development]
 audience: [faculty development]
 level: [k 12]

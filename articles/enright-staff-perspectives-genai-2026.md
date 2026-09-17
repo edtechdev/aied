@@ -4,6 +4,9 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [teacher-role, generative-ai, higher-ed, ai-literacy, student-ai-interaction]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai]
 research_method: [survey]
 audience: [instructors]
 level: [higher ed]

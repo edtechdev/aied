@@ -4,6 +4,10 @@ created: "2026-08-11T06:15:03-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [collaborative-learning, generative-ai, higher-ed, critical-thinking, problem-solving, meta-analysis-systematic-review, assessment]
+foundations: [critical-thinking]
+pedagogy: [collaborative-learning, problem-solving]
+technology: [generative-ai]
+assessment: [assessment, meta-analysis-systematic-review]
 connected_faqs: [group-work-ai]
 research_method: [systematic review]
 level: [higher ed]

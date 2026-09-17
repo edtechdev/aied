@@ -4,6 +4,11 @@ created: "2026-07-03T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, teacher-role, student-experience, ai-literacy, student-ai-interaction, automated-assessment, llm, scaffolding, learning-analytics]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [scaffolding, student-ai-interaction]
+technology: [learning-analytics, llm]
+assessment: [automated-assessment]
+stakeholders: [student-experience]
 research_method: [qualitative, user study]
 audience: [instructors, learners]
 level: [k 12]

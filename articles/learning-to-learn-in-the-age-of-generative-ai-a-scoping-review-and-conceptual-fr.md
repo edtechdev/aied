@@ -4,6 +4,10 @@ created: "2026-08-10T17:08:30-04:00"
 updated: "2026-08-24T16:30:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, self-regulated-learning, language-learning, meta-analysis-systematic-review, agency, ai-education, intelligent-tutoring]
+foundations: [agency, ai-education]
+pedagogy: [self-regulated-learning]
+technology: [generative-ai, intelligent-tutoring]
+assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [language learning]
 level: [higher ed]

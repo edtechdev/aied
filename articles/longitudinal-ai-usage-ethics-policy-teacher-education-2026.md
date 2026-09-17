@@ -4,6 +4,10 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ["generative-ai", "teacher-education", "ai-literacy", "ethics", "educational-policy-ai", "student-experience", "academic-integrity"]
+foundations: [academic-integrity, ai-literacy]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, student-experience]
+ethics: [ethics]
 research_method: [longitudinal survey]
 audience: [instructors, administrators]
 level: [higher ed]

@@ -4,6 +4,9 @@ created: "2026-08-15T15:53:50-04:00"
 updated: "2026-09-17T07:48:05-04:00"
 type: article
 tags: [desirable-difficulties, cognitive-offloading, self-regulated-learning, scaffolding, reducing-ai-misuse, k-12, learning-gains]
+foundations: [cognitive-offloading, reducing-ai-misuse]
+pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]
+assessment: [learning-gains]
 connected_faqs: [reducing-over-reliance, asynchronous-online-courses-ai]
 research_method: [learning analytics]
 level: [k 12]

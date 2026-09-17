@@ -4,6 +4,10 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [k-12, teacher-role, student-experience, student-engagement, adaptive-learning]
+foundations: [teacher-role]
+pedagogy: [student-engagement]
+technology: [adaptive-learning]
+stakeholders: [student-experience]
 research_method: [qualitative, thematic analysis]
 audience: [instructors, learners]
 level: [k 12]

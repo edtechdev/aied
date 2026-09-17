@@ -4,6 +4,11 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, feedback, higher-ed, ai-literacy, learning-theories, equity-in-ai-education, human-in-the-loop-ai, rag, ai-education]
+foundations: [ai-education, ai-literacy]
+pedagogy: [learning-theories]
+technology: [generative-ai, human-in-the-loop-ai, rag]
+assessment: [feedback]
+ethics: [equity-in-ai-education]
 connected_faqs: [ai-feedback-at-scale]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]

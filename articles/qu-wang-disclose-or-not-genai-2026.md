@@ -4,6 +4,10 @@ created: "2026-08-25T09:50:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, trust, learning-theories]
+foundations: [academic-integrity]
+pedagogy: [learning-theories]
+technology: [generative-ai]
+ethics: [trust]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [mixed methods, survey]
 level: [higher ed]

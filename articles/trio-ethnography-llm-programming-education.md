@@ -4,6 +4,10 @@ created: "2026-07-27T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, stem-education, teacher-role, student-experience, higher-ed, scaffolding, ai-literacy, llm, regulation]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [scaffolding]
+technology: [generative-ai, llm]
+stakeholders: [regulation, student-experience]
 research_method: [qualitative, thematic analysis]
 discipline: [stem education]
 audience: [instructors, learners]

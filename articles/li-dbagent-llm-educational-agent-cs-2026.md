@@ -4,6 +4,9 @@ created: "2026-08-22T05:20:54-04:00"
 updated: "2026-08-28T15:00:00-04:00"
 type: article
 tags: [llm, agentic-ai, cs-education, intelligent-tutoring, cognitive-diagnosis, cognitive-offloading, student-ai-interaction, higher-ed, learning-analytics]
+foundations: [agentic-ai, cognitive-offloading]
+pedagogy: [student-ai-interaction]
+technology: [cognitive-diagnosis, intelligent-tutoring, learning-analytics, llm]
 research_method: [system development, experiment]
 discipline: [cs education]
 level: [higher ed]

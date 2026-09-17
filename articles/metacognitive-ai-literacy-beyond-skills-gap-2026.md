@@ -4,6 +4,10 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, metacognition, critical-thinking, higher-ed, ethics, ai-education, teacher-role, governance]
+foundations: [ai-education, ai-literacy, critical-thinking, teacher-role]
+pedagogy: [metacognition]
+stakeholders: [governance]
+ethics: [ethics]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]

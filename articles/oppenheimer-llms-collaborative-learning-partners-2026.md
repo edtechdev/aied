@@ -4,6 +4,10 @@ created: "2026-09-03T14:12:57-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: ['llm', 'collaborative-learning', 'human-ai-collaboration', 'student-ai-interaction', 'conversational-ai', 'generative-ai', 'writing-education', 'learning-gains', 'higher-ed', 'prompt-engineering', 'self-efficacy']
+foundations: [human-ai-collaboration]
+pedagogy: [collaborative-learning, self-efficacy, student-ai-interaction]
+technology: [conversational-ai, generative-ai, llm, prompt-engineering]
+assessment: [learning-gains]
 sources: ['raw/papers/oppenheimer-llms-collaborative-learning-partners-2026.md']
 confidence: medium
 research_method: [quantitative, qualitative]

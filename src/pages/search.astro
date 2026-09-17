@@ -1,5 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Facet values that are concept slugs (the typed facet fields, plus a few
+// others like `benchmark`) read poorly in a filter dropdown as 'self-regulated-learning'.
+// Map them to their concept page titles for display. Values that are not concept
+// slugs ('higher ed', 'teachers') are left exactly as they are.
+const concepts = await getCollection('concepts');
+const facetLabels: Record<string, string> = {};
+for (const c of concepts) {
+  facetLabels[c.id.replace(/\.md$/, '')] = c.data.title;
+}
 ---
 
 <BaseLayout title="Search" hideHeaderSearch>
@@ -20,6 +31,12 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <pagefind-filter-dropdown filter="audience" label="Audience"></pagefind-filter-dropdown>
       <pagefind-filter-dropdown filter="category" label="Category"></pagefind-filter-dropdown>
       <pagefind-filter-dropdown filter="research_method" label="Research Method"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="pedagogy" label="Pedagogy"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="technology" label="Technology"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="assessment" label="Assessment"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="foundations" label="Foundations"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="stakeholders" label="People"></pagefind-filter-dropdown>
+      <pagefind-filter-dropdown filter="ethics" label="Ethics"></pagefind-filter-dropdown>
     </div>
     <pagefind-summary></pagefind-summary>
     <pagefind-results show-excerpt></pagefind-results>
@@ -27,6 +44,46 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 </BaseLayout>
 
 <link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
+
+<script is:inline define:vars={{ facetLabels }}>
+  // Pagefind's filter dropdowns render the raw filter value, so the typed facet
+  // values (concept slugs) would read as 'self-regulated-learning'. Rewrite any
+  // text node inside a dropdown's shadow DOM whose whole content is a known
+  // concept slug into that concept's page title. Everything else, and any
+  // dropdown whose internals change, is left untouched.
+  (() => {
+    const labels = facetLabels || {};
+    const walk = (node) => {
+      for (const child of node.childNodes || []) {
+        if (child.nodeType === 3) {
+          const key = child.nodeValue.trim();
+          if (key && labels[key]) child.nodeValue = child.nodeValue.replace(key, labels[key]);
+        } else if (child.nodeType === 1) {
+          if (child.shadowRoot) walk(child.shadowRoot);
+          if (child.childNodes && child.childNodes.length) walk(child);
+        }
+      }
+    };
+    const apply = () => {
+      document.querySelectorAll('.filter-bar pagefind-filter-dropdown').forEach((el) => {
+        walk(el);
+      });
+    };
+    // The dropdowns build their options after hydration and re-render them when
+    // opened, so re-apply on any childList change inside the filter bar. This
+    // cannot loop: our rewrite edits text nodes, which childList does not watch.
+    const bar = document.querySelector('.filter-bar');
+    if (bar) {
+      new MutationObserver(() => {
+        if (bar.__facetBusy) return;
+        bar.__facetBusy = true;
+        requestAnimationFrame(() => { apply(); bar.__facetBusy = false; });
+      }).observe(bar, { childList: true, subtree: true });
+    }
+    window.addEventListener('load', () => { apply(); setTimeout(apply, 400); });
+    document.addEventListener('pagefind-ui-loaded', apply);
+  })();
+</script>
 
 <style>
   .search-interface {

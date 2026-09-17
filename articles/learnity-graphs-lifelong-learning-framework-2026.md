@@ -4,6 +4,9 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [curriculum-design, lifelong-learning, higher-ed, knowledge-graph, personalized-learning, generative-ai, student-modeling, learning-design]
+foundations: [curriculum-design, learning-design]
+technology: [generative-ai, knowledge-graph, personalized-learning, student-modeling]
+stakeholders: [lifelong-learning]
 research_method: [theoretical analysis]
 level: [higher ed]
 category: [curriculum design, instructional design]

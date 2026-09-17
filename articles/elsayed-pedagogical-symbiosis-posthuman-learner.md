@@ -4,6 +4,8 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [learning-theories, philosophy-of-ai-in-education, human-ai-collaboration, agency, ai-education, higher-ed, embodied-learning]
+foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
+pedagogy: [embodied-learning, learning-theories]
 research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/elsayed-pedagogical-symbiosis-posthuman-learner.md']

@@ -4,6 +4,11 @@ created: "2026-08-26T05:58:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, ai-literacy, higher-ed, teacher-role, student-experience, cognitive-offloading, ethics, agency, critical-thinking, student-ai-interaction]
+foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai]
+stakeholders: [student-experience]
+ethics: [ethics]
 research_method: [design and evaluation study, thematic analysis]
 audience: [instructors, learners]
 level: [higher ed]

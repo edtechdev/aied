@@ -4,6 +4,8 @@ created: "2026-08-08T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [learning-analytics, metacognition, llm, higher-ed, student-engagement, self-regulated-learning, intelligent-tutoring, pedagogical-agent, cs-education, visualization]
+pedagogy: [metacognition, self-regulated-learning, student-engagement]
+technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent, visualization]
 research_method: [mixed methods, case study]
 discipline: [cs education]
 level: [higher ed]

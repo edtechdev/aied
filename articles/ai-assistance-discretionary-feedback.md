@@ -4,6 +4,10 @@ created: "2026-06-04T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [automated-assessment, feedback, higher-ed, llm, teacher-role, rct, scaffolding]
+foundations: [teacher-role]
+pedagogy: [scaffolding]
+technology: [llm]
+assessment: [automated-assessment, feedback, rct]
 research_method: [randomized controlled trial, experiment]
 audience: [instructors]
 level: [higher ed]

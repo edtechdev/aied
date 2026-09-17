@@ -4,6 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-literacy, k-12, computational-thinking, learning-design, machine-learning]
+foundations: [ai-literacy, computational-thinking, learning-design]
+technology: [machine-learning]
 audience: [instructors, learners]
 research_method: [mixed methods, design and evaluation study]
 level: [k 12]

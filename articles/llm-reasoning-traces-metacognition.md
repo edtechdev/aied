@@ -4,6 +4,10 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [llm, metacognition, student-experience, cognitive-offloading, self-regulated-learning, scaffolding]
+foundations: [cognitive-offloading]
+pedagogy: [metacognition, scaffolding, self-regulated-learning]
+technology: [llm]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 

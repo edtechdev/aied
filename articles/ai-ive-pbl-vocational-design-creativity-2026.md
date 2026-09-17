@@ -4,6 +4,10 @@ created: "2026-09-16T00:58:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [project-based-learning, virtual-and-augmented-reality, generative-ai, creativity, student-engagement, embodied-learning, design-thinking, professional-training, collaborative-learning, simulation, agentic-ai]
+foundations: [agentic-ai, design-thinking]
+pedagogy: [collaborative-learning, creativity, embodied-learning, project-based-learning, student-engagement]
+technology: [generative-ai, simulation, virtual-and-augmented-reality]
+stakeholders: [professional-training]
 sources: ['raw/papers/ai-ive-pbl-vocational-design-creativity-2026.md']
 confidence: high
 discipline: [vocational education]

@@ -26,6 +26,40 @@ REGISTRY = os.path.join(WIKI, 'concepts.registry.yaml')
 CONCEPT_INDEX = os.path.join(WIKI, 'tooling', 'concept-index.md')
 CONCEPT_INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 REDIRECTS_TS = os.path.join(WIKI, 'src', 'data', 'conceptRedirects.ts')
+FACET_VOCAB_TS = os.path.join(WIKI, 'src', 'data', 'facetVocab.ts')
+
+# Typed metadata facets, each derived from one registry section, so the allowed
+# values of a facet field can never drift from the concept taxonomy. A concept
+# added to a section extends that facet's vocabulary on the next build.
+# The registry section 'AI in the disciplines' is deliberately absent: it is
+# served by the hand-curated `discipline` field, whose values include school
+# subjects that have no concept page yet.
+FACET_SECTIONS = [
+    ('foundations', 'Foundations', 'Foundations of AI in education'),
+    ('pedagogy', 'Pedagogy and learning', 'Learning and instruction'),
+    ('technology', 'Technology', 'AI technologies and techniques'),
+    ('assessment', 'Assessment and measurement', 'Assessment, evaluation, and measurement'),
+    ('stakeholders', 'People', 'People: learners, teachers, and institutions'),
+    ('ethics', 'Ethics and equity', 'Equity, ethics, and responsible use'),
+]
+
+FACET_VOCAB_HEADER = """// Typed metadata facet vocabularies, derived from concepts.registry.yaml.
+//
+// Each facet mirrors one registry section: the allowed values of the matching
+// frontmatter field are exactly the concept slugs filed under that section, so
+// the vocabulary cannot drift from the concept taxonomy and a value of the
+// wrong kind (a technology slug in `pedagogy`) fails the build.
+//
+// GENERATED FILE - do not edit by hand.
+// Source: concepts.registry.yaml (`sections:` block)
+// Regenerate: python3 tooling/scripts/gen-concept-artifacts.py
+//
+// 'AI in the disciplines' is intentionally absent: it is served by the
+// hand-curated `discipline` field, which also covers school subjects that do
+// not have a concept page yet.
+
+export const FACET_VOCAB = {
+"""
 
 TS_HEADER = """// Shared concept index data for the site-wide navigation sidebar.
 // Every concept appears exactly once. Links only render for slugs that exist,
@@ -129,6 +163,33 @@ def render_redirects_ts(reg):
     return '\n'.join(out) + '\n'
 
 
+def render_facet_vocab_ts(reg):
+    by_section = {}
+    for section in reg.get('sections', []):
+        slugs = [s for g in section['groups'] for s in g['items']]
+        by_section[section['heading']] = sorted(set(slugs))
+    out = [FACET_VOCAB_HEADER]
+    labels = []
+    for field, label, section in FACET_SECTIONS:
+        slugs = by_section.get(section)
+        if slugs is None:
+            sys.exit(f"registry section not found for facet '{field}': {section!r}")
+        labels.append((field, label, section))
+        out.append(f"  // {label} ({len(slugs)} concepts) — registry section: {section}")
+        out.append(f"  {field}: [")
+        for s in slugs:
+            out.append(f"    {ts_str(s)},")
+        out.append("  ],")
+    out.append("} as const;")
+    out.append("")
+    out.append("export const FACET_FIELDS = [")
+    for field, label, _ in labels:
+        out.append(f"  {{ field: {ts_str(field)}, label: {ts_str(label)} }},")
+    out.append("] as const;")
+    out.append("")
+    return '\n'.join(out)
+
+
 def ts_str(s):
     # Preserve existing \uXXXX escapes in the source text verbatim (they are part
     # of the TS string literal); escape only real backslashes.
@@ -157,6 +218,7 @@ def main():
         CONCEPT_INDEX: render_index_md(reg),
         CONCEPT_INDEX_TS: render_concept_index_ts(reg),
         REDIRECTS_TS: render_redirects_ts(reg),
+        FACET_VOCAB_TS: render_facet_vocab_ts(reg),
     }
     stale = []
     for path, content in targets.items():

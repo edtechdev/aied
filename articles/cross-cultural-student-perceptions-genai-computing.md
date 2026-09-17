@@ -4,6 +4,8 @@ created: "2026-07-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [generative-ai, higher-ed, student-experience, cs-education, educational-policy-ai]
+technology: [generative-ai]
+stakeholders: [educational-policy-ai, student-experience]
 research_method: [survey]
 discipline: [cs education]
 audience: [learners]

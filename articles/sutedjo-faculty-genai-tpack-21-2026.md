@@ -4,6 +4,10 @@ created: "2026-09-09T02:58:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [tpack, higher-ed, generative-ai, educational-development, self-efficacy, teacher-role]
+foundations: [educational-development, teacher-role]
+pedagogy: [self-efficacy]
+technology: [generative-ai]
+stakeholders: [tpack]
 connected_faqs: [faculty-development-ai]
 research_method: [survey, quantitative]
 discipline: [learning sciences]

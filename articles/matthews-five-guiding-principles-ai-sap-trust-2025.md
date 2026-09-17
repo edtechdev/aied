@@ -4,6 +4,10 @@ created: "2026-08-31T09:45:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [pedagogical-partnerships, generative-ai, trust, ai-literacy, agency, ethics, teacher-role, higher-ed]
+foundations: [agency, ai-literacy, teacher-role]
+pedagogy: [pedagogical-partnerships]
+technology: [generative-ai]
+ethics: [ethics, trust]
 sources: ['raw/papers/matthews-five-guiding-principles-ai-sap-trust-2025.md']
 confidence: high
 research_method: [position paper]

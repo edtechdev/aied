@@ -4,6 +4,10 @@ created: "2026-08-15T19:02:13-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [ai-feedback-quality, feedback, self-regulated-learning, formative-assessment, writing-education, ai-literacy, metacognition, higher-ed, generative-ai]
+foundations: [ai-literacy]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
+assessment: [ai-feedback-quality, feedback, formative-assessment]
 audience: [learners, instructors]
 research_method: [experiment]
 discipline: [writing education]

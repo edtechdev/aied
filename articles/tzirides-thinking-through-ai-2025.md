@@ -4,6 +4,9 @@ created: "2026-08-09T08:44:33-04:00"
 updated: "2026-08-24T09:30:00-04:00"
 type: article
 tags: [ai-education, writing-education, k-12, ai-literacy, cognitive-offloading, intelligent-tutoring, collaborative-learning]
+foundations: [ai-education, ai-literacy, cognitive-offloading]
+pedagogy: [collaborative-learning]
+technology: [intelligent-tutoring]
 audience: [instructors, learners]
 research_method: [system development, qualitative]
 discipline: [writing education]

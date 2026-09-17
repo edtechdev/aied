@@ -4,6 +4,10 @@ created: "2026-08-25T09:50:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [academic-integrity, generative-ai, higher-ed, technology-acceptance-model, student-experience, conversational-ai, privacy]
+foundations: [academic-integrity]
+technology: [conversational-ai, generative-ai]
+stakeholders: [student-experience, technology-acceptance-model]
+ethics: [privacy]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

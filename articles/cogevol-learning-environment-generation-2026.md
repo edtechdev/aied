@@ -4,6 +4,9 @@ created: "2026-09-01T09:00:00-04:00"
 updated: "2026-09-01T09:00:00-04:00"
 type: article
 tags: [generative-ai, llm, curriculum-design, teacher-role, agentic-ai, multimodal, ai-education, automated-assessment]
+foundations: [agentic-ai, ai-education, curriculum-design, teacher-role]
+technology: [generative-ai, llm, multimodal]
+assessment: [automated-assessment]
 sources: ['raw/papers/cogevol-learning-environment-generation-2026.md']
 confidence: high
 research_method: [system development, benchmark]

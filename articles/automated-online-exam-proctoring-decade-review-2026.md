@@ -4,6 +4,11 @@ created: "2026-08-20T04:45:00-04:00"
 updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [remote-proctoring, academic-integrity, online-teaching-and-learning, higher-ed, meta-analysis-systematic-review, machine-learning, privacy]
+foundations: [academic-integrity]
+pedagogy: [online-teaching-and-learning]
+technology: [machine-learning]
+assessment: [meta-analysis-systematic-review, remote-proctoring]
+ethics: [privacy]
 research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']

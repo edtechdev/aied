@@ -4,6 +4,9 @@ created: "2026-09-07T09:09:07-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, self-regulated-learning, metacognition, academic-integrity, higher-ed, agency]
+foundations: [academic-integrity, agency]
+pedagogy: [metacognition, self-regulated-learning]
+technology: [generative-ai]
 sources: ['raw/papers/2609.03413.md']
 confidence: high
 research_method: [design-based research, theoretical analysis]

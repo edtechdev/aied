@@ -4,6 +4,9 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 tags: [philosophy-of-ai-in-education, theory-development-aied, ethics, critical-pedagogy, ai-literacy, human-ai-collaboration, critical-thinking, agency, well-being, learning-theories]
+foundations: [agency, ai-literacy, critical-thinking, human-ai-collaboration, philosophy-of-ai-in-education, theory-development-aied]
+pedagogy: [critical-pedagogy, learning-theories, well-being]
+ethics: [ethics]
 sources: ['raw/papers/2609.10842.md']
 confidence: high
 research_method: [theoretical analysis]

@@ -4,6 +4,11 @@ created: "2026-08-31T09:06:11-04:00"
 updated: "2026-08-31T09:06:11-04:00"
 type: article
 tags: [generative-ai, medical-education, sociocultural-learning, metacognition, cognitive-offloading, human-in-the-loop-ai, intelligent-tutoring, trust-calibration, ai-education, assessment]
+foundations: [ai-education, cognitive-offloading]
+pedagogy: [metacognition, sociocultural-learning]
+technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring]
+assessment: [assessment]
+ethics: [trust-calibration]
 sources: ['raw/papers/2608.28373.md']
 confidence: high
 research_method: [theoretical analysis]

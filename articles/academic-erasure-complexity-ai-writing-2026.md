@@ -4,6 +4,11 @@ created: "2026-08-26T05:52:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
 tags: [generative-ai, academic-integrity, writing-education, higher-ed, critical-thinking, cognitive-offloading, ai-detection, ethics, assessment, student-ai-interaction]
+foundations: [academic-integrity, cognitive-offloading, critical-thinking]
+pedagogy: [student-ai-interaction]
+technology: [generative-ai]
+assessment: [ai-detection, assessment]
+ethics: [ethics]
 research_method: [qualitative, thematic analysis]
 discipline: [writing education]
 level: [higher ed]

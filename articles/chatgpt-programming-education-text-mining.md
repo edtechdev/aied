@@ -4,6 +4,10 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [cognitive-offloading, academic-integrity, hallucination-risk, stem-education, feedback, student-experience, ai-education]
+foundations: [academic-integrity, ai-education, cognitive-offloading]
+assessment: [feedback]
+stakeholders: [student-experience]
+ethics: [hallucination-risk]
 research_method: [literature review, learning analytics]
 discipline: [stem education]
 audience: [learners]

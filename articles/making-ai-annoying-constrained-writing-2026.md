@@ -4,6 +4,10 @@ created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-01T09:11:26-04:00"
 type: article
 tags: ['writing-education', 'self-regulated-learning', 'generative-ai', 'learning-design', 'scaffolding', 'prompt-engineering', 'design-based-research']
+foundations: [learning-design]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [generative-ai, prompt-engineering]
+assessment: [design-based-research]
 research_method: [design-based research]
 audience: [teachers, instructional designers, researchers]
 level: [secondary]

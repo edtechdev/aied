@@ -4,6 +4,9 @@ created: "2026-09-08T09:07:05-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [qualitative-research, research-methods-aied, llm, generative-ai, trust-calibration, learning-analytics, ethics]
+technology: [generative-ai, learning-analytics, llm]
+assessment: [qualitative-research, research-methods-aied]
+ethics: [ethics, trust-calibration]
 research_method: [position paper]
 audience: [researchers]
 level: [higher ed]

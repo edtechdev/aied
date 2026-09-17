@@ -4,6 +4,9 @@ created: "2026-08-16T09:22:41-04:00"
 updated: "2026-08-22T01:30:41-04:00"
 type: article
 tags: [distributed-cognition, human-ai-collaboration, collaborative-learning, self-regulated-learning, learning-analytics, higher-ed, problem-solving]
+foundations: [human-ai-collaboration]
+pedagogy: [collaborative-learning, distributed-cognition, problem-solving, self-regulated-learning]
+technology: [learning-analytics]
 research_method: [mixed methods, survey]
 level: [higher ed]
 sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']

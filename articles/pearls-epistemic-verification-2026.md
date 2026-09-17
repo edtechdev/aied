@@ -4,6 +4,11 @@ created: "2026-08-31T09:06:11-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [generative-ai, higher-ed, ai-literacy, metacognition, trust-calibration, cognitive-offloading, assessment, critical-thinking, ethics, agency]
+foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking]
+pedagogy: [metacognition]
+technology: [generative-ai]
+assessment: [assessment]
+ethics: [ethics, trust-calibration]
 sources: ['raw/papers/pearls-epistemic-verification-2026.md']
 confidence: high
 research_method: [theoretical analysis]

@@ -4,6 +4,10 @@ created: "2026-09-05T12:30:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 tags: [medical-education, simulation, generative-ai, llm, self-efficacy, student-experience, meta-analysis-systematic-review]
+pedagogy: [self-efficacy]
+technology: [generative-ai, llm, simulation]
+assessment: [meta-analysis-systematic-review]
+stakeholders: [student-experience]
 sources: ['raw/papers/jiang-ai-powered-simulation-nursing-education-2026.md']
 confidence: high
 research_method: [systematic review, mixed methods]

@@ -4,6 +4,8 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-08-16"
 type: article
 tags: [teacher-education, ai-literacy, adult-learning, ethics, teacher-role]
+foundations: [ai-literacy, teacher-role]
+ethics: [ethics]
 research_method: [design-based research]
 audience: [instructors]
 sources: ['raw/papers/human-centered-ai-teacher-educators-2026.md']

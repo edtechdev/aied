@@ -4,6 +4,9 @@ created: "2026-08-21T19:02:00-04:00"
 updated: "2026-08-21T19:02:00-04:00"
 type: article
 tags: [generative-ai, teacher-role, learning-design, pedagogy, ai-education, human-in-the-loop-ai, agentic-ai, scaffolding]
+foundations: [agentic-ai, ai-education, learning-design, teacher-role]
+pedagogy: [pedagogy, scaffolding]
+technology: [generative-ai, human-in-the-loop-ai]
 research_method: [system development, user study]
 audience: [instructors]
 category: [instructional design]

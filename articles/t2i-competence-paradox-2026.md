@@ -4,6 +4,12 @@ created: "2026-08-13T05:23:56-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: article
 tags: [generative-ai, creativity, ai-literacy, student-experience, higher-ed, trust-calibration, assessment-validity, teacher-role]
+foundations: [ai-literacy, teacher-role]
+pedagogy: [creativity]
+technology: [generative-ai]
+assessment: [assessment-validity]
+stakeholders: [student-experience]
+ethics: [trust-calibration]
 research_method: [mixed methods, survey]
 audience: [learners, instructors]
 level: [higher ed]

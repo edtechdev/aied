@@ -4,6 +4,9 @@ created: "2026-08-24T09:10:00-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: article
 tags: [cognitive-offloading, trust-calibration, human-ai-collaboration, agentic-ai, llm, ai-education]
+foundations: [agentic-ai, ai-education, cognitive-offloading, human-ai-collaboration]
+technology: [llm]
+ethics: [trust-calibration]
 connected_faqs: [reducing-over-reliance]
 research_method: [process-outcome modeling, theoretical analysis]
 sources: ['raw/papers/ai-overreliance-complex-adaptive-system-2026.md']

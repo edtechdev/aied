@@ -4,6 +4,9 @@ created: "2026-08-20T08:10:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [eportfolio, automated-assessment, generative-ai, assessment, feedback, language-learning, student-engagement]
+pedagogy: [student-engagement]
+technology: [generative-ai]
+assessment: [assessment, automated-assessment, eportfolio, feedback]
 research_method: [qualitative, thematic analysis]
 discipline: [language learning]
 category: [assessment]

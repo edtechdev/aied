@@ -4,6 +4,10 @@ created: "2026-06-25T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 tags: [intelligent-tutoring, personalized-learning, scaffolding, adaptive-learning, professional-training, generative-ai, formative-assessment]
+pedagogy: [scaffolding]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, personalized-learning]
+assessment: [formative-assessment]
+stakeholders: [professional-training]
 research_method: [system development, experiment]
 sources: ['raw/papers/2606.25337.md']
 confidence: medium

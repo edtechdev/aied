@@ -4,6 +4,8 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 tags: [automated-essay-scoring, automated-assessment, assessment-validity, educational-measurement, llm, business-education, writing-education, feedback, simulation]
+technology: [llm, simulation]
+assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, feedback]
 sources: ['raw/papers/automated-scoring-marketing-posts-agreement-2026.md']
 confidence: high
 research_method: [benchmark, educational measurement]
