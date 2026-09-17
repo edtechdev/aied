@@ -55,7 +55,7 @@ Grades summarize student performance and signal skill to students, graduate prog
 ## Connected Articles
 
 - [[chirikov-regulate-ai-syllabi-2026]] — Companion paper: how instructors regulate AI across 31,000 syllabi (Chirikov 2026)
-- [[biology-grade-vulnerability-genai-2026]] — Vulnerability of course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[genai-availability-grades-satisfaction]] — GenAI availability and grade/satisfaction outcomes
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans
 - [[llm-reliance-types-undergrad]] — Types of LLM reliance among undergraduates

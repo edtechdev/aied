@@ -45,7 +45,7 @@ confidence: high
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
 - [[walton-bearman-assessment-judgement-2025]] — judgment in students' work with GenAI on assessment tasks (Walton et al. 2025)
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[biology-grade-vulnerability-genai-2026]] — vulnerability of biology course grades to AI-mediated dishonesty (Chan et al. 2026)
+- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 
 ## Citation
 

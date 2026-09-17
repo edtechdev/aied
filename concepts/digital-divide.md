@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-17T09:40:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 tags: [equity-in-ai-education, ai-literacy, accessibility, ai-education]
@@ -40,6 +40,8 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 **The divide operates at the institutional level too.** [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] show that in Nigeria's higher education system, AI integration capacity concentrates in older, South-West-region institutions and compounds through mutually reinforcing network ties (international collaborations × industry partnerships, r = 0.74) — meaning institutional "have-nots" (typically newer state universities) face structural barriers to entering the very networks that would help them catch up. Digital inequality is thus reproduced not only across individual learners but across the [[governance|institutional]] structures that shape who can participate in an AI-transformed knowledge economy.
 
+**The divide also has a geography, and mentorship is its mechanism.** [[arc-hubs-k12-ai-robotics-rural-2026|Jacobson et al. (2026)]] document a recovery asymmetry in Indiana FIRST LEGO League participation: both urban and rural participation fell in the 2020 remote season, but only urban participation recovered, and rural participation stayed near its post-2020 level through 2025–2026. The mechanism they name is access to technical mentorship — people with enough programming and robotics knowledge to start and sustain a team — which rural schools may lack even when students and teachers are interested, making it a precondition for the robotics and AI pathway rather than a feature of it. Their response is to engineer the propagation of that mentorship: college primary hubs train undergraduates and host workshops, mature school programs become secondary hubs that mentor nearby schools, and a spatial Markov simulation of Indiana's 1,925 public schools projects 992 programs after 40 years under moderate assumptions against 161 without ARC, including 341 rural programs against 60. Read alongside the institutional-network result above, the pattern is that divides persist through the *structure of who can supply expertise where*, and that supplying it deliberately — rather than assuming proximity to a university — is the policy lever.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -74,4 +76,5 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
+- [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
 

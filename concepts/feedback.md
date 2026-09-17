@@ -142,7 +142,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching feedback
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[gpt4-feedback-student-activation-2026]]

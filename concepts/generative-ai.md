@@ -117,7 +117,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
-- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work

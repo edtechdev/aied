@@ -50,7 +50,7 @@ The findings support treating students as partners in [[governance|AI governance
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[students-perceptions-ai-tools-study-2026]] — Students' Perceptions of AI Tools for Study Productivity
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 
 ## Citation
 Hingle, A., & Johri, A. (2026). [*A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies*](https://arxiv.org/abs/2608.28501). arXiv:2608.28501.

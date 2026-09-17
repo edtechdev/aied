@@ -1,7 +1,7 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [remote-proctoring, academic-integrity, summative-assessment, online-teaching-and-learning, privacy, equity-in-ai-education, higher-ed]
 level: [higher ed]
@@ -45,6 +45,7 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 
 - A decade-long systematic review of 80 peer-reviewed studies (2014–2024) finds advanced ML/DL proctoring detects cheating more reliably than traditional methods, but is limited by dataset gaps (35% did not fully disclose data), single-model evaluation (40%), reproducibility issues (30%), sparse ethical reporting (only 25%), and inconsistent metrics (20%). False positives/negatives — flagging normal behavior as suspicious or missing subtle cheating — undermine reliability and trust.([[automated-online-exam-proctoring-decade-review-2026]])
 - A companion review documents the cheating methods AI must counter (identity spoofing via photos/video, browser/device use, copy-paste) and the practical barriers: test-taker anxiety, proficiency gaps causing false accusations, and infrastructure (webcam, microphone, internet) that is not universally affordable or available. It reports ~37.8% of college and ~41.8% of high-school students admit to cheating — the motivation for monitoring.([[academic-dishonesty-automated-proctoring-ai-2026]])
+- **Instructors see no benefit from proctoring exams taken outside class.** [[biology-degree-integrity-genai-cheating-2026|Chan et al. (2026)]] surveyed 56 instructors (47% response rate) in one biology department after coding all 38 syllabi of its core required courses, and asked them to rate each graded category they use for vulnerability to academic dishonesty (0 = minimally to 4 = highly vulnerable). Proctored and unproctored outside-of-class exams were rated *identically* at a median of 3 (moderately vulnerable), while in-person proctored exams were the only category rated minimally vulnerable (median 0) and were significantly less vulnerable than every other category (p_adj < .01). Because lockdown browsers were available for outside-of-class exams, the result is a perception that the tools did not reduce exposure — consistent with the review evidence above that online proctoring is effective only unevenly, and with the documented anxiety, privacy, and false-accusation costs that make the trade-off contested. The stakes are visible in the same study's point accounting: outside-of-class exams carried a mean of 54.2% of the grade in the in-person courses that used them and 59.2% in online courses, where every offering relied on them.
 
 ## Recommended directions
 
@@ -77,4 +78,4 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
 
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-
+- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
