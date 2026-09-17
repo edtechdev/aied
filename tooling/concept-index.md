@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 200
+**Total concepts:** 201
 
 ## Foundations of AI in education
 
@@ -236,6 +236,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
 - **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge; tpack
+
+### Designers and developers
+
+- **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
 
 ### Institutions and systems
 
