@@ -160,7 +160,7 @@ export const FACET_VOCAB = {
     'summative-assessment',
     'usability-research',
   ],
-  // People (19 concepts) — registry section: People: learners, teachers, and institutions
+  // People (20 concepts) — registry section: People: learners, teachers, and institutions
   stakeholders: [
     'administrator',
     'ai-anxiety-and-stress',
@@ -168,6 +168,7 @@ export const FACET_VOCAB = {
     'change-management',
     'edtech-platform',
     'educational-policy-ai',
+    'educational-technology-developers',
     'governance',
     'lifelong-learning',
     'open-source',

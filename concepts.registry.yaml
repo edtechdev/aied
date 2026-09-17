@@ -54,6 +54,13 @@ concepts:
     - adaptive systems
     - adaptive testing
     - adaptivity
+  educational-technology-developers:
+    title: Educational Technology Developers
+    aliases:
+    - edtech designers
+    - edtech developers
+    - educational software developers
+    - edtech companies
   administrator:
     title: Administrators
     aliases:
@@ -2053,6 +2060,9 @@ sections:
     - tpack
     - samr-model
     - pedagogical-safety
+  - label: Designers and developers
+    items:
+    - educational-technology-developers
   - label: Institutions and systems
     items:
     - administrator

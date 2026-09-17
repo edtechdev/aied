@@ -1,7 +1,7 @@
 ---
 title: Recommender Systems and Learning Paths
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-17T15:19:42-04:00"
 type: concept
 tags: [personalized-learning, adaptive-learning, knowledge-graph, explainable-ai, learning-analytics, curriculum-design, lifelong-learning]
 foundations: [curriculum-design]
@@ -11,7 +11,7 @@ ethics: [explainable-ai]
 confidence: medium
 audience: [instructors, learners, researchers, learning designers, software developers]
 level: [higher ed, k 12]
-discipline: [cs education, learning analytics, learning sciences]
+discipline: [cs education, learning sciences]
 ---
 
 > **Recommender systems and learning paths** — the part of [[adaptive-learning|adaptive]] and [[personalized-learning]] technology that decides *what a learner should encounter next* and in what order: which resource, practice item, or course to rank toward them, and which sequence of concepts to walk through. Its two method [[parents-and-families|families]] are behavioral — [[machine-learning|collaborative filtering]] over interaction logs — and semantic — sequencing over a [[knowledge-graph|knowledge graph]] of concepts, resources, and prerequisite relations — increasingly fused into hybrid models. Because the output is a ranked list rather than a dialogue, the distinctive problems are selectivity and legitimacy: cold start and popularity bias under sparse data, the directional asymmetry of prerequisites, and whether a [[teacher-role|teacher]] or learner can understand, audit, and trust the list they are shown.
