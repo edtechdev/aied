@@ -1,10 +1,10 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [motivation, student-experience, student-engagement, affective-computing, self-determination-theory, ai-education]
-connected_faqs: [ai-anxiety-wellbeing]
+connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 category: [engagement]
 confidence: high

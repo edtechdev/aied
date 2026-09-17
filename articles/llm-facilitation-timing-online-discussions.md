@@ -1,7 +1,7 @@
 ---
 title: "To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [llm, collaborative-learning, student-ai-interaction, student-engagement, language-learning, human-in-the-loop-ai, higher-ed, learning-analytics, human-ai-collaboration]
 research_method: [benchmark]
@@ -9,6 +9,7 @@ level: [higher ed]
 category: [engagement]
 sources: ['raw/papers/2607.28643.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and [[llm]]-as-a-judge models.

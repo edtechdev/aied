@@ -1,10 +1,10 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [collaborative-learning, ai-education, student-experience, scaffolding, equity-in-ai-education, k-12, higher-ed]
-connected_faqs: [group-work-ai]
+connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high

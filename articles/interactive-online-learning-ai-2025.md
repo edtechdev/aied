@@ -1,13 +1,14 @@
 ---
 title: 'Interactive Online Learning Method for Students Based on Artificial Intelligence'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [online-teaching-and-learning, machine-learning, student-modeling, personalized-learning, adaptive-learning, ai-education]
 research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/interactive-online-learning-ai-2025.md']
 confidence: medium
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Li and Yin (2025) propose a hybrid **DMO-GRU** framework for AI-powered interactive online learning, combining the Dwarf Mongoose Optimization (DMO) algorithm with a Gated Recurrent Unit (GRU) neural network. DMO performs feature selection and automatic hyperparameter tuning, while GRU captures temporal patterns in sequential student data. Evaluated on classification and regression tasks against Linear Regression, Random Forest, SVR, and XGBoost, the model reports superior accuracy (91.2%), F1-score (90.8%), precision (90.1%), recall (92.5%), and the lowest error (MAE 2.70, RMSE 3.40, R² 0.92), while also supporting interactive audio, video, and one-to-one learning modes intended to boost engagement.

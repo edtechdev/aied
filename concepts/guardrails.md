@@ -1,11 +1,12 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-01T18:30:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [pedagogical-safety, prompt-engineering, rag, human-in-the-loop-ai, reinforcement-learning, bias-mitigation, ai-sycophancy, k-12, llm]
 level: [k 12]
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.

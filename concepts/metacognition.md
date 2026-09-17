@@ -1,10 +1,10 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T02:58:14-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [metacognition, self-regulated-learning, formative-assessment, k-12, higher-ed, scaffolding, generative-ai, llm, student-experience, ai-literacy]
-connected_faqs: [reducing-over-reliance, study-with-ai]
+connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high

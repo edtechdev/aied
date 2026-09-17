@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [community-of-inquiry, online-teaching-and-learning, metacognition, generative-ai, collaborative-learning, higher-ed]
 research_method: [theoretical analysis]
@@ -9,6 +9,7 @@ level: [higher ed]
 category: [framework]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** This conceptual article by the creators of the [[community-of-inquiry|Community of Inquiry]] (CoI) framework argues that generative AI adoption in education requires a coherent theoretical framework. Drawing on the CoI framework and its construct of [[metacognition|shared metacognition]], it shows how [[collaborative-learning|collaborative inquiry]] can integrate AI in ways that preserve human [[agency]] and sustain deep, meaningful learning. It warns that without critical, reflective inquiry, learners risk passivity, diminished authenticity, and overdependence on AI outputs. Shared [[metacognition]] — collective monitoring and management of thinking — offers a responsible pathway for engaging critically with AI-generated content.

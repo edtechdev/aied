@@ -1,13 +1,14 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: concept
 tags: [student-experience, motivation, higher-ed, self-regulated-learning, generative-ai, ai-education, learning-analytics, student-engagement]
 audience: [learners]
 level: [higher ed]
 category: [engagement]
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Student engagement** — the degree and quality of a learner's active involvement in the learning process, most often decomposed into behavioral, cognitive, and [[affective-computing|affective]] dimensions. In [[ai-education]] research, student engagement is both a key outcome (does an AI tool keep students engaged?) and a mechanism (does engagement mediate between AI design and learning?). It is conceptually distinct from learning itself — engagement is participation in learning, not proof of cognitive gain — and from the specific metrics used to measure it.

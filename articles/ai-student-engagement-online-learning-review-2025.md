@@ -1,13 +1,14 @@
 ---
 title: "Artificial Intelligence and Student Engagement in Online Learning: A Literature Review"
 created: "2026-08-20T05:30:00-04:00"
-updated: "2026-08-20T07:45:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: [online-teaching-and-learning, student-engagement, conversational-ai, affective-computing, learning-analytics, higher-ed]
 research_method: [literature review]
 level: [higher ed]
 sources: ['raw/papers/ai-student-engagement-online-learning-review-2025.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Zhou (2025) [[meta-analysis-systematic-review|systematically reviews]] 24 studies from the Web of Science database on how AI enhances [[student-engagement|student engagement]] in [[online-teaching-and-learning|online learning]]. Six key applications emerge: AI chatbots in [[learning-design|course design]], emotion/facial/voice recognition and eye tracking, [[reinforcement-learning|machine learning]] for data analysis, teacher–student interaction support, [[personalized-learning|personalized]] feedback and recommendations, and AI-powered bots in smart learning environments. Findings show that integrating diverse AI tools and data sources yields more accurate, real-time insight into cognitive, emotional, and behavioral engagement — while limitations include the single-database scope, the conflation of synchronous and asynchronous contexts, and an engagement-only focus.

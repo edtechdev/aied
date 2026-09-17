@@ -1,7 +1,7 @@
 ---
 title: "Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos"
 created: "2026-09-05T00:55:00-04:00"
-updated: "2026-09-05T00:55:00-04:00"
+updated: "2026-09-17T07:39:56-04:00"
 type: article
 tags: ['personalized-learning', 'generative-ai', 'online-teaching-and-learning', 'student-engagement', 'adaptive-learning', 'higher-ed', 'multimodal', 'video-education']
 research_method: [quantitative]
@@ -9,6 +9,7 @@ audience: [instructors, learning designers]
 level: [higher ed]
 sources: ['raw/papers/personalized-ai-generated-videos-preference-2026.md']
 confidence: high
+connected_faqs: [asynchronous-online-courses-ai]
 ---
 
 > **Synthesis:** Tomlinson, Black, Patterson, van der Hoek, Ferguson, and Bietz (2026) field-deploy personalized [[generative-ai|AI-generated]] [[video-education|educational videos]] as the primary instructional modality in a large online undergraduate course and ask students to rank four video types defined by two crossed dimensions — [[personalized-learning|personalization]] (personalized vs. non-personalized) and source (human-recorded vs. AI-generated). Across two offerings (493 respondents), **personalization outweighed human presence**: students preferred AI-generated personalized videos over non-personalized human-recorded videos (mean rank 2.26 vs. 2.69, p < .001), and 88.4% ranked some personalized video first versus 73.8% for human-recorded. Human-recorded personalized videos were ranked highest overall, but they were a hypothetical condition students never experienced. The authors read the results as a turning point: personalized relevance and conciseness now compensate for, and sometimes surpass, the missing human presenter — pointing toward a complementary model where human instructors provide expertise and social connection while [[generative-ai|generative AI]] supplies scalable personalization.
