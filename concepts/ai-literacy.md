@@ -203,7 +203,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[genai-literacy-training-teacher-education-dbr-2026]] — GenAI literacy teacher-education training
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy intervention effects
 

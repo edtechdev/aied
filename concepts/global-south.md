@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-14T06:55:00-04:00"
+updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [global-south, equity-in-ai-education, generative-ai, higher-ed, k-12, culturally-relevant-pedagogy, ai-literacy]
 level: [higher ed, k 12]
@@ -38,6 +38,8 @@ Mainstream AI and educational-technology research has historically been dominate
 
 Attending to Global South contexts requires moving beyond assuming Western models and benchmarks transfer directly. It calls for locally grounded datasets, culturally relevant [[pedagogy]], community-centered evaluation standards, and research that treats learners' lived and community epistemologies as authoritative — aligning with frameworks like community-based AI learning and [[technology-acceptance-model|technology-acceptance]] research adapted to local conditions.
 
+The scaling record is part of that picture, and it is sobering. Programmes that work at pilot scale frequently stop working when governments run them: the Kenyan programme that produced substantial gains under non-governmental implementation showed no detectable gain at government scale (Bold et al.), effect sizes tend to fall as programmes grow (Vivalt), and implementation quality dilutes as sites multiply (Al-Ubaydli, List & Suskind). Latin America's own precedent is the Peruvian One Laptop per Child programme — about 800,000 laptops distributed with no detectable effect on mathematics or reading — from which the lesson drawn was that access to technology is not instruction. [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales et al. (2026)]] add a reporting lesson to the scaling lesson: in the 2026 El Salvador episode an AI-tutoring pilot in 171 schools was announced as comparable to Germany and Sweden while the same country's representative PISA 2025 sample showed no movement in two of three subjects, and the pilot data were too thin (7.0 assessed students per school against 25.4 nationally) to exclude selection as the explanation. For Global South systems adopting AI at scale the implication is double: the evidence that a reform works is usually about the components it bundles rather than the technology in its headline, and a phased rollout designed before deployment identifies effects at almost no cost — which matters most where connectivity dictates the phasing anyway.
+
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
@@ -65,3 +67,4 @@ Attending to Global South contexts requires moving beyond assuming Western model
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
+- [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)

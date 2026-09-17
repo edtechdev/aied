@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-17T09:40:00-04:00"
 type: concept
 tags: [early-childhood-elementary-ai-education, k-12, ai-literacy, computational-thinking, ai-education, well-being]
 connected_faqs: [ai-guidance-children-under-13]
@@ -44,6 +44,8 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 - **AI-supported critical media literacy in the elementary years.** Demir and Akar (2026) evaluate an 18-hour, 5E-model critical media literacy program for fourth-grade students in a Turkish public primary school, embedding [[generative-ai|generative AI]] (ChatGPT, Grammarly, Canva AI, Padlet) phase-by-phase as a pedagogical agent rather than an isolated add-on, with activities aligned to the Turkish Language and Social Studies curricula. The AI-supported group showed large gains in media reading (+3.50), writing (+1.67), and total media literacy (+5.17, all p < .01) with between-group effect sizes of Cohen's *d* = 1.12–1.31, while the control group advanced only modestly. [[qualitative-research|Qualitative]] analysis of interviews, student artifacts (posters, drawings, slogans), and classroom observation surfaced six domains of critical media literacy growth — digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and misinformation awareness, online risk awareness, and media [[ethics]]/digital citizenship — offering a rare quasi-experimental, curriculum-aligned model of how AI can support critical [[ai-literacy|AI literacy]] and [[critical-thinking|critical thinking]] in the elementary grades.
 
+- **AI-rated observation of teacher–child interaction quality.** [[ai-rated-classroom-observation-scores-2026|Fong et al. (2026)]] benchmark an [[llm]] against trained human raters on the full CLASS Pre-K framework in Hong Kong kindergartens — 87 video-recorded observations from 38 classrooms across 30 kindergartens, rated from transcripts by GPT-5.0 and compared with eight trained raters. Agreement was moderate overall (weighted κ = 0.681) but conditional on the construct: convergence held for the Emotional Support domain and for Quality of Feedback — the dimension carried by explicit, exchange-based verbal support — while Classroom Organization diverged entirely and raters rated the emotional dimensions higher than the model did, at a very large gap on the reverse-scored Negative Climate dimension (d = 2.732; raters gave the maximum of 7 in 63 of 71 observations, AI clustered at 6). The early-childhood lesson is developmentally specific: quality that lives in nonverbal, spatial and routine behaviour — management, movement, warmth, tone — is invisible to a transcript-only pipeline, the model's error direction is construct-dependent rather than uniformly conservative, and the authors therefore position [[automated-assessment|AI scoring]] as a screening and reflection tool for [[teacher-role|teachers]] rather than a substitute for trained observers.
+
 ### Developmental and equity considerations
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide]] and [[equity-in-ai-education]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
@@ -84,3 +86,4 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: a framework for tailoring AI agents and robotics to early learning (Yang, Li & Lee 2025)
+- [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: AI-rated CLASS Pre-K scores versus trained human raters in Hong Kong kindergartens (Fong et al. 2026)

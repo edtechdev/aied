@@ -149,7 +149,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 
-- [[students-perceptions-ai-tools-study-2026]] — Students’ perceptions of AI tools for study
+- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 
