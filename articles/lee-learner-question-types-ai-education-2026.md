@@ -10,7 +10,7 @@ technology: [educational-nlp, generative-ai, human-in-the-loop-ai, personalized-
 research_method: [mixed methods, system development]
 discipline: [information technology]
 level: [higher ed]
-category: [assessment, framework, instructional design]
+page_kind: [framework]
 audience: [instructors, researchers, instructional designers]
 sources: ['raw/papers/lee-learner-question-types-ai-education-2026.md']
 confidence: high

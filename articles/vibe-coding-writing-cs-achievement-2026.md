@@ -11,7 +11,7 @@ research_method: [quantitative, experiment]
 discipline: [cs education]
 audience: [researchers, curriculum designers, instructors, software developers]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

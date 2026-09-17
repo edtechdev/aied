@@ -8,7 +8,7 @@ foundations: [ai-education]
 assessment: [ai-ed-evaluation, benchmark, educational-measurement, rct]
 research_method: [educational measurement, experiment, randomized controlled trial, benchmark, research methods]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 ---

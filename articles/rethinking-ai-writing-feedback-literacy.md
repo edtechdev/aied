@@ -15,7 +15,6 @@ level: [higher ed]
 
 sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves self-assessment accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.

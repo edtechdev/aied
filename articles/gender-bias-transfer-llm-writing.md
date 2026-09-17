@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.15914.md']
 confidence: high
-category: [equity, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** - In a controlled study with **N = 123 participants**, students wrote career plan essays for paired biographical profiles differing only in gender under three conditions: **no AI assistance, neutral [[llm]] assistance, or gender-biased LLM assistance**.

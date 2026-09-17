@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation, benchmark]
 stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.09548.md']
 confidence: high
 ---

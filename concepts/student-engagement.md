@@ -10,7 +10,6 @@ technology: [generative-ai, learning-analytics]
 stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 ---

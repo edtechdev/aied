@@ -12,7 +12,6 @@ connected_faqs: [course-ai-policy]
 audience: [instructors]
 research_method: [case study]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/2608.05175.md']
 confidence: high
 discipline: [cs education]

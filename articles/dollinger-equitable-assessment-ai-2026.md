@@ -9,7 +9,6 @@ assessment: [assessment, authentic-assessment]
 ethics: [equity-in-ai-education]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/dollinger-equitable-assessment-ai-2026.md']
 confidence: medium
 audience: [educators, institutions, assessment designers]

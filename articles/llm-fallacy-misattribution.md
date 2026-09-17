@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
 confidence: high
 audience: [educators, assessment designers, instructors]
-category: [ai foundations, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Three system properties enable the fallacy via two cognitive mediators:

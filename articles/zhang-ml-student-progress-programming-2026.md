@@ -12,7 +12,7 @@ research_method: [benchmark, learning analytics]
 discipline: [cs education]
 audience: [learning analytics designers, instructors, educators]
 level: [k 12]
-category: [evaluation, engagement]
+page_kind: [evaluation]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

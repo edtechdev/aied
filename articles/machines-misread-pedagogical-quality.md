@@ -9,8 +9,7 @@ technology: [llm]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, formative-assessment]
 research_method: [experiment]
 audience: [instructors]
-category: [evaluation, assessment]
-
+page_kind: [evaluation]
 sources: ['raw/papers/2606.23629.md']
 confidence: medium
 ---

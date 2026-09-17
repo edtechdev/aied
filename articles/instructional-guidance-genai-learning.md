@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.05509.md']
 confidence: high
 discipline: [engineering education]
 audience: [instructors, instructional designers]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Investigates how instructional guidance shapes [[student-ai-interaction|student-AI interaction]] in [[higher-ed|construction engineering education]]. Introduces a **five-step [[prompt-engineering|prompting]] framework** grounded in Generative [[learning-gains|Learning]] Theory (GLT) to guide learner interaction during review activities. Three conditions tested in a controlled experiment: slide-based learning, unprompted AI-supported learning, and prompted AI-supported learning.

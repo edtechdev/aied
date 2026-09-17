@@ -10,7 +10,6 @@ assessment: [automated-assessment, meta-analysis-systematic-review]
 ethics: [ethics]
 research_method: [systematic review]
 discipline: [nursing education]
-category: [curriculum design]
 sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
 audience: [medical educators, faculty development]

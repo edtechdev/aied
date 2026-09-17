@@ -13,7 +13,6 @@ level: [higher ed]
 
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high
-category: [ai foundations]
 ---
 
 > **Synthesis:** Misiejuk, López-Pernas, Kaliisa, and Saqr (2026) analyze 281 prompts from 122 student submissions across four assignments to examine how [[prompt-engineering|prompting]] strategies reveal cognitive offloading in student–AI collaboration. Using qualitatively coded prompts and Co-Occurrence Network Analysis (CNA), they found that high-quality submissions demonstrated cohesive prompting patterns integrating contextual details, instructions, and polite language — leading to fewer disagreements and more effective task guidance — while low-quality submissions were characterized by disagreement and direct instructions with limited contextualization. Notably, across both groups a convergence toward low-effort, direct instruction emerged, suggesting AI "leveled" achievement by encouraging cognitive laziness and reducing the incentive for deeper cognitive [[student-engagement|engagement]].

@@ -13,7 +13,7 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/chen-preservice-teachers-chatgpt-lpa-2026.md']
 confidence: high
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This person-centered latent profile analysis (LPA) of N = 128 Taiwanese pre-service teachers (68 [[stem-education|STEM]], 60 non-STEM) identifies four distinct ChatGPT-acceptance profiles — Pragmatic Evaluators (47.66%), Technology Pioneers (26.56%), Resistant Skeptics (14.06%), and Environmental Observers (11.72%) — and shows that disciplinary background strongly shapes profile membership (Cramer's V = 0.532). Critically, Resistant Skeptics report high perceived ease of use but very low behavioral intention, proving technical ease does not guarantee adoption. The study proposes a differentiated [[ai-literacy]] training framework for [[teacher-education|teacher education]].

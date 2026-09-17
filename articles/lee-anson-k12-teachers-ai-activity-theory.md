@@ -14,7 +14,7 @@ audience: [instructors, learners]
 level: [k 12]
 sources: ['raw/papers/lee-anson-k12-teachers-ai-activity-theory.md']
 confidence: high
-category: [framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Lee & Anson (2027) use [[activity-theory-aied|activity theory]] to explore how Australian [[k-12|K-12]] teachers perceive AI and its impact on education, drawing on [[qualitative-research|qualitative]] data collected in April/May 2023 — roughly six months into the sudden global recognition of [[generative-ai|generative AI]]. Thematic analysis identified six major themes capturing in-service teachers' views: that AI is **unsuitable, impersonal, imperfect, uncertain, assisting, and inevitable**. The study theorizes activity theory in an AI world, highlighting the complex, nuanced, and often contradictory sentiments teachers hold, and positioning AI as a tool-mediated, goal-directed mediator within the school activity system.

@@ -10,7 +10,6 @@ ethics: [ethics]
 research_method: [literature review]
 discipline: [cs education]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/zhan-chapman-genai-cs-education-2026.md']
 confidence: medium
 audience: [instructors, assessment designers, administrators]

@@ -15,7 +15,7 @@ discipline: [nursing education]
 audience: [medical educators, researchers, curriculum designers, administrators]
 level: [higher ed]
 confidence: high
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A COREQ-guided descriptive qualitative study of AI experiences in nursing education: semi-structured interviews with 28 participants (16 nursing students, 12 faculty) across two universities, analyzed deductively through the Technology Acceptance Model (TAM) with inductive extension. Four TAM-aligned categories emerged (perceived ease of use, perceived usefulness, behavioral intention, actual use). Students used AI mainly for presentations, visual content, and clinical case analysis; faculty for course materials, academic writing, and administration. Notably, AI was also described as a source of cognitive, instructional, and psychosocial support — a relational dimension TAM does not explicitly capture. Concerns included reduced critical thinking, misinformation, plagiarism, and unequal access.

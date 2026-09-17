@@ -12,7 +12,6 @@ ethics: [equity-in-ai-education]
 research_method: [randomized controlled trial]
 discipline: [math education]
 level: [k 12]
-category: [engagement]
 confidence: high
 audience: [administrators, policymakers, edtech designers]
 sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]

@@ -8,7 +8,7 @@ pedagogy: [collaborative-learning, community-of-inquiry, metacognition, online-t
 technology: [generative-ai]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
 audience: [educators, instructional designers, institutions]

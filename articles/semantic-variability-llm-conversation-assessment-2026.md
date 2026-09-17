@@ -8,7 +8,6 @@ technology: [conversational-ai, generative-ai, llm, prompt-engineering]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement]
 ethics: [trust-calibration]
 research_method: [educational measurement]
-category: [assessment]
 sources: ['raw/papers/2608.24920.md']
 confidence: high
 audience: [assessment professionals, assessment designers, researchers]

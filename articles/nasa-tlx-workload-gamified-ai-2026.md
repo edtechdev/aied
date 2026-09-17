@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/nasa-tlx-workload-gamified-ai-2026.md']
 confidence: high
 ---

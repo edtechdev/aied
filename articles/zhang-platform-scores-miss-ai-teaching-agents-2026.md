@@ -11,7 +11,7 @@ research_method: [quantitative, design and evaluation study]
 discipline: [medical education]
 audience: [medical educators, researchers, assessment designers, edtech designers]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

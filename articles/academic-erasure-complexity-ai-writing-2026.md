@@ -12,7 +12,6 @@ ethics: [ethics]
 research_method: [qualitative, thematic analysis]
 discipline: [writing education]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/10.1080_13562517.2026.2707601.md']
 confidence: high
 audience: [educators, instructors, assessment designers]

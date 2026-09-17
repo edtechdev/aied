@@ -10,7 +10,6 @@ assessment: [assessment]
 discipline: [medical education]
 audience: [learners, instructors]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [assessment]
 research_method: [qualitative, thematic analysis]
 level: [higher ed]
-category: [assessment, engagement]
 audience: [educators, students]
 sources: ['raw/papers/yan-cognitive-outsourcing-genai-assessments-2026.md']
 confidence: high

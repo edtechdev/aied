@@ -11,7 +11,6 @@ ethics: [ethics]
 research_method: [literature review]
 audience: [instructors]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/10.1016_j.caeai.2026.100540.md']
 confidence: high
 ---

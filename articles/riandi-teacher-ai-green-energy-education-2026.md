@@ -10,7 +10,6 @@ stakeholders: [tpack]
 research_method: [survey]
 audience: [instructors]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/riandi-teacher-ai-green-energy-education-2026.md']
 confidence: high
 discipline: [science education]

@@ -13,8 +13,7 @@ audience: [researchers, teacher educators]
 level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100332.md"]
 confidence: high
-category: [evaluation, framework]
-
+page_kind: [evaluation, framework]
 ---
 
 > **Synthesis:** Pérez-Montesdeoca, Rodríguez-Rodríguez, Stendardi, and Fernández-Sogorb (2026) design and validate a questionnaire measuring secondary-school teachers' educational uses of [[generative-ai|generative AI]]. After expert judgment on an initial item pool, they administered the instrument to 486 secondary-school teachers in Spain, and confirmatory factor analysis supported a six-dimension structure — teacher management, creation of [[teacher-role|teaching]] materials, student assessment, student empowerment, attention to diversity, and student [[motivation]] — with high internal consistency and adequate convergent and discriminant validity.

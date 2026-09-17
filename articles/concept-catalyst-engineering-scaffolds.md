@@ -11,7 +11,6 @@ research_method: [system development, case study]
 discipline: [stem education]
 audience: [instructors]
 level: [k 12]
-category: [instructional design]
 sources: ['raw/papers/2605.20511.md']
 confidence: high
 ---

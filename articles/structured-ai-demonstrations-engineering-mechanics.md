@@ -14,7 +14,6 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.28710.md']
 confidence: high
-category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].

@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, assessment-validity, benchmark, meta-analysis-sys
 ethics: [ai-use-disclosure]
 research_method: [research methods, literature review, meta-analysis]
 audience: [researchers]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 # What Are Best Practices for Reporting and Interpreting AI in Education Research?

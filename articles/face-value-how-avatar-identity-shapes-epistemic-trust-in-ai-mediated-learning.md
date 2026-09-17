@@ -12,7 +12,6 @@ discipline: [language learning]
 sources: ['raw/papers/face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning.md']
 confidence: high
 audience: [designers, edtech designers, researchers]
-category: [equity]
 ---
 
 > **Synthesis:** Anthis & Kyriakidou-Zacharoudiou investigate how avatar identity cues (race, gender, age) shape [[trust-calibration|epistemic trust]] and enacted reliance in [[ai-education|AI-mediated learning]]. Two experiments isolated these effects: Study 1 (N=102) used a within-subjects laboratory design with tightly controlled avatars; Study 2 (N=294) used a between-subjects online design across varied instructional domains. Across both studies, social identity cues strongly influenced evaluations and behavior: **White avatars, and in STEM contexts Asian male avatars, were rated more credible and competent**, while **older Black female avatars faced compounded penalties** on all measures. Participants were more likely to adopt guidance from avatars aligned with their racial ingroup or stereotypical expectations of expertise. Domain moderated effects, with **STEM and procedural tasks amplifying bias** while reflective and interpersonal tasks attenuated it.

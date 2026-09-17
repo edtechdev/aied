@@ -13,7 +13,6 @@ level: [higher ed]
 sources: ['raw/papers/jel-ai-collab-dbr.md']
 confidence: high
 audience: [instructional designers, educators, faculty development]
-category: [instructional design, collaborative learning]
 ---
 
 > **Synthesis:** This [[design-based-research|Design-Based Research]] (DBR) study develops and evaluates an **AI-Assisted Collaborative Learning (AACL) Model** — an eight-week intervention with Indonesian undergraduates working in groups of four to five on authentic [[problem-based-learning|problem-based tasks]]. The model positions [[generative-ai|generative AI]] as an "intelligent learning partner" that supports idea generation, analysis, reflection, and collaborative decision-making while students remain the primary decision-makers. Results show substantial [[learning-gains|learning gains]]: critical thinking rose 24.1% (68.21 → 84.63) and [[problem-solving]] rose from 70.14 to 88.72, alongside highly positive student perceptions.

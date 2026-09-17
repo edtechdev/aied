@@ -13,7 +13,7 @@ discipline: [writing education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-category: [framework, assessment]
+page_kind: [framework]
 sources: []
 ---
 

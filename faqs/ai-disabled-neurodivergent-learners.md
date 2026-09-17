@@ -9,7 +9,6 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [systematic review, meta-analysis, case study]
 audience: [instructors, learning designers, designers]
 level: [higher ed, k 12, special education]
-category: [equity]
 ---
 
 # How Can AI Support Disabled and Neurodivergent Learners in My Course?

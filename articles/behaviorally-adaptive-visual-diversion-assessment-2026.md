@@ -10,7 +10,6 @@ assessment: [assessment]
 ethics: [equity-in-ai-education, inclusive-learning, privacy]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/2608.03531.md']
 confidence: high
 audience: [assessment designers, institutions]

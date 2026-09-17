@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [case study]
 audience: [learners]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/2608.13447.md']
 confidence: high
 discipline: [cs education, engineering education]

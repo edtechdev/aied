@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 
 sources: ['raw/papers/2607.10647.md']
 confidence: medium
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Addresses the lag between LLM integration into K-12/higher education and reliable methods for evaluating [[pedagogy|pedagogical]] quality. The authors introduce a knowledge-distillation approach to automate AI-tutor evaluation, distilling expert judgments of pedagogical quality into a scalable evaluator.

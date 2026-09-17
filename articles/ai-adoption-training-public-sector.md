@@ -10,7 +10,6 @@ technology: [prompt-engineering]
 stakeholders: [change-management, educational-policy-ai]
 audience: [instructors, administrators]
 research_method: [case study]
-category: [curriculum design]
 sources: ['raw/papers/2606.01517.md']
 confidence: high
 level: [adult learning]

@@ -11,7 +11,6 @@ assessment: [assessment, meta-analysis-systematic-review]
 connected_faqs: [group-work-ai]
 research_method: [systematic review]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/systems-llm-skills-review.md']
 confidence: high
 audience: [instructors, administrators, policymakers]

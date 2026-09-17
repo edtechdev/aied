@@ -13,8 +13,6 @@ level: [higher ed]
 sources: ['raw/papers/2606.13389.md']
 confidence: high
 discipline: [cs education]
-category: [policy, assessment]
-
 ---
 
 > **Synthesis:** As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity]], promoting [[ai-literacy]], and shifting the focus from policing to professional practice.

@@ -13,7 +13,6 @@ discipline: [medical education]
 audience: [learners]
 level: [higher ed]
 confidence: high
-category: [instructional design]
 sources: ['raw/papers/2606.10051.md']
 ---
 

@@ -10,7 +10,7 @@ sources: ['raw/papers/2609.02947.md']
 confidence: high
 research_method: [benchmark, system development]
 audience: [researchers, learning analytics designers]
-category: [framework, assessment]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Boyapati et al. (2026) propose a federated inference framework in which several commercial large language models cooperate to perform [[cognitive-diagnosis]] without any model seeing raw student data. The system adds ε-local [[privacy|differential privacy]] noise to each [[llm]]'s prediction before aggregation and uses residual-based aggregation to handle model heterogeneity, operating under an honest-but-curious trust paradigm. The authors report strong [[privacy]] guarantees with minimal accuracy loss across three educational [[benchmark|benchmarks]], arguing the approach is practical and cross-domain generalizable. The paper advances [[privacy]]-preserving, [[trust-calibration|calibrated]] AI-driven [[cognitive-diagnosis]] for real-world [[adaptive-learning]] settings.

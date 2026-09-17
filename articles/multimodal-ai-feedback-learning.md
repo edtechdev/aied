@@ -12,7 +12,6 @@ audience: [learners]
 
 sources: ['raw/papers/2601.15280.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** The authors built a real-time AI-facilitated multimodal feedback system integrating structured text, relevant slide references, and streaming AI audio narration. In a crowdsourced experiment, they compared it against fixed "business-as-usual" educator feedback.

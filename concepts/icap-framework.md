@@ -8,7 +8,6 @@ tags: [cognitive-psychology, learning-theories, collaborative-learning, active-l
 foundations: [learning-design]
 pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
 technology: [educational-nlp, learning-analytics]
-category: [instructional design]
 confidence: high
 ---
 

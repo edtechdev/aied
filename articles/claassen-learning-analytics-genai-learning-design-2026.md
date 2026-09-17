@@ -9,7 +9,6 @@ pedagogy: [self-determination-theory]
 technology: [generative-ai, learning-analytics]
 research_method: [interviews, qualitative]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/claassen-learning-analytics-genai-learning-design-2026.md']
 source_url: 'https://doi.org/10.1186/s41239-026-00619-4'
 confidence: high

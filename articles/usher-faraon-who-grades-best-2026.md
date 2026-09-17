@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/usher-faraon-who-grades-best-2026.md']
 confidence: high
 

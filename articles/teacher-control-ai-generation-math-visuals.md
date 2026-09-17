@@ -10,7 +10,6 @@ technology: [generative-ai]
 research_method: [theoretical analysis]
 discipline: [stem education, math education]
 audience: [instructors]
-category: [curriculum design]
 sources: ['raw/papers/2605.10672.md']
 confidence: high
 ---

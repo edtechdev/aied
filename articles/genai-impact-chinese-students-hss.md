@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2606.24104.md']
 confidence: high
 discipline: [humanities education]
-category: [evaluation, curriculum design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This large-scale survey of [[humanities-education|humanities]] and social sciences (HSS) students in China examines how [[generative-ai]] reshapes academic development across four dimensions: usage patterns, effects on learning processes and performance, challenges, and preferred [[curriculum-design|curricular]] integration approaches. Over half of respondents reported enhanced learning motivation, independent thinking, and [[creativity]], though a substantial minority saw little change or decline. A larger majority reported academic performance gains, though the authors caution these may partly reflect limitations in conventional [[assessment]] practices.

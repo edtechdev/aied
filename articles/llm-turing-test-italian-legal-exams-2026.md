@@ -8,7 +8,7 @@ technology: [llm]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, benchmark]
 stakeholders: [professional-training]
 research_method: [benchmark]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.06166.md']
 confidence: medium
 audience: [assessment professionals, researchers]

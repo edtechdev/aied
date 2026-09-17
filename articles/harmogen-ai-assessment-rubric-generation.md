@@ -9,7 +9,6 @@ assessment: [assessment, automated-assessment, formative-assessment]
 audience: [software developers]
 research_method: [system development]
 discipline: [cs education]
-category: [assessment]
 sources: ['raw/papers/harmogen-ai-assessment-rubric-generation.md']
 confidence: high
 level: [higher ed]

@@ -14,7 +14,7 @@ confidence: high
 research_method: [theoretical analysis]
 audience: [curriculum designers, administrators, faculty development]
 level: [higher ed]
-category: [curriculum design, framework, policy]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Torres-Sahli et al. (2026) propose a program-level curriculum framework — "refrain, then amplify" — for sequencing [[generative-ai]] to form professional judgment. On this design, a program withholds a generative tool while a capacity is forming, then restores it to amplify that capacity once the student can direct it, judge what it returns, and answer for it. Devices are allowed where they support engaged work and excluded where they drain attention, all governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or merely passes it through the tool. The program fixes outcomes and [[academic-integrity|integrity]], reserves [[teacher-role|teaching]] method to the instructor, and places a hard-to-fake checkpoint at each refrain-to-amplify hinge.

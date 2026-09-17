@@ -12,7 +12,6 @@ research_method: [quantitative, secondary analysis, learning analytics]
 discipline: [learning sciences]
 audience: [learning designers, instructional designers, curriculum designers, educators, researchers]
 level: [higher ed, k 12, adult learning]
-category: [instructional design, curriculum design, assessment]
 sources: ['raw/papers/learning-paths-patterns-learning-design-2026.md']
 confidence: high
 ---

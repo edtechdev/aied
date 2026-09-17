@@ -11,7 +11,6 @@ assessment: [assessment, authentic-assessment, peer-assessment]
 connected_faqs: [group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

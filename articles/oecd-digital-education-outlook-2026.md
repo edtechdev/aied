@@ -12,7 +12,7 @@ stakeholders: [educational-policy-ai]
 research_method: [literature review, secondary analysis]
 audience: [instructors, administrators, researchers]
 level: [higher ed, k 12]
-category: [synthesis, policy, framework]
+page_kind: [framework, synthesis]
 sources: ['raw/papers/oecd-digital-education-outlook-2026.md']
 confidence: high
 

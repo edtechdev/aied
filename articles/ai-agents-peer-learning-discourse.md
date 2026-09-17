@@ -9,7 +9,6 @@ pedagogy: [metacognition, scaffolding, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, llm]
 assessment: [benchmark]
 research_method: [secondary analysis, mixed methods]
-category: [engagement]
 sources: ['raw/papers/2602.14477.md']
 confidence: medium
 audience: [researchers, edtech designers]

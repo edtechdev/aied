@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-17T15:42:00-04:00"
 type: concept
 tags: [learning-design, curriculum-design, educational-development, scaffolding, generative-ai, ai-literacy, higher-ed, teacher-role]
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
@@ -9,7 +9,6 @@ pedagogy: [scaffolding]
 technology: [generative-ai]
 audience: [instructors, faculty development]
 level: [higher ed]
-category: [instructional design, curriculum design]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
 ---
@@ -50,7 +49,7 @@ Learning design is the lever that decides whether AI produces [[learning-gains|l
 
 ### Practical guidance for designers and developers
 
-For instructional designers, course developers, and engineers building AI-assisted learning experiences, the knowledge base's findings translate into actionable practice:
+For instructional designers, course developers, and engineers building AI-assisted learning experiences, the knowledge base's findings translate into actionable practice. One boundary is worth marking before the practices themselves: learning design as this page describes it is the design of a course for a known cohort, whereas the same principles baked into a product that many courses — taught by people the designer will never meet — will use are the work of [[educational-technology-developers]], where defaults, configurability and documentation carry pedagogical weight:
 
 **Ground AI generation in a structured instructional model.** AI content is only as good as the pedagogical structure behind it — explicit structure, not AI fluency, determines quality. Design around a recognized model (ADDIE, Dick & Carey, rapid prototyping) and encode pedagogical decisions explicitly rather than relying on the model to infer them.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
 
@@ -91,6 +90,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[learning-sciences]]
 - [[learning-gains]]
 - [[behaviorism]]
+- [[educational-technology-developers]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 

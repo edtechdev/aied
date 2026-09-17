@@ -13,7 +13,6 @@ research_method: [system development, learning analytics]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, software developers, learning analytics designers]
-category: [instructional design, assessment]
 ---
 
 > **Synthesis:** Prol et al. (2026) present **Pulla**, a Parsons problem tool that instruments programming assignments to record every block placement, removal, and submission as a chronological behavioral trace, extending the [[open-source]] CodeCheck platform with client-side event capture and an instructor-facing dashboard. Where existing Parsons platforms report only [[automated-assessment|correctness and attempt counts]], Pulla pairs Wordle-style per-block color feedback with a persisted [[learning-analytics|activity log]] and attempt history, then optionally applies an AI pipeline (GPT-4.1-mini) to label recurring difficulty patterns for instructor review. Deploying the tool in an upper-division software design course at the University of Houston (68 students, Java, Spring 2026) and an introductory Python course at Aalto University (36 students, Summer 2026) surfaced three recurring difficulties: wrong exception type, a return statement substituted for throw/raise, and incorrect control-flow ordering. The work positions [[formative-assessment|process data]] as an instructor-facing resource rather than a [[educational-measurement|research instrument]] alone, while keeping the instructor as the final decision-maker for any intervention, consistent with [[human-in-the-loop-ai|human-in-the-loop]] designs.

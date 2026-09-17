@@ -12,7 +12,6 @@ sources: ['raw/papers/ai-grading-handwritten-physics-2026.md']
 confidence: high
 audience: [assessment professionals, instructors]
 level: [secondary, higher ed]
-category: [assessment]
 ---
 > **Synthesis:** Pathak, Tiwary, Kadolkar, Singh, Rakestraw, Pathare & Mazumdar (2026) test whether [[multimodal]] [[llm]]-based grading can agree with official examiner scores on high-stakes handwritten [[physics-education|physics]] assessments, grading 10,364 scanned pages across a national Physics Olympiad theory exam, the final Olympiad team-selection camp, and a university quantum-mechanics exam. Total-score correlations with official marks were high (0.91–0.97), and in both rounds the AI recovered the same five-student team as human grading for the International Physics Olympiad. The study argues that reliable [[automated-assessment]] of handwritten work depends on detailed, physics-specific rubrics, and positions AI as a [[assessment-validity|valid]] second reader and audit tool rather than a replacement for examiner judgment in [[summative-assessment]].
 ## Study Design and High-Stakes Context

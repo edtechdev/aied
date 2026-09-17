@@ -11,7 +11,7 @@ research_method: [theoretical analysis]
 audience: [researchers, administrators, instructors]
 level: [higher ed, adult learning]
 confidence: medium
-category: [framework]
+page_kind: [framework]
 sources: ['raw/papers/cognitive-washout-ai-skill-decay-2026.md']
 ---
 

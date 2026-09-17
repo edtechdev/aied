@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [assessment]
 research_method: [qualitative, thematic analysis]
 level: [higher ed]
-category: [curriculum design, instructional design, assessment]
 audience: [educators, curriculum designers, instructional designers, policymakers]
 sources: ['raw/papers/mcinnes-salvaging-constructive-alignment-genai-2026.md']
 confidence: high

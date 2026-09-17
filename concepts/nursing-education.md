@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 discipline: [nursing education, medical education]
 audience: [medical educators, educators, curriculum designers, instructors, researchers]
 level: [higher ed]
-category: [synthesis]
+page_kind: [synthesis]
 confidence: high
 ---
 

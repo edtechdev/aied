@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [k 12]
-category: [engagement]
 sources: ['raw/papers/2606.26579.md']
 confidence: medium
 ---

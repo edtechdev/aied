@@ -13,7 +13,6 @@ level: [higher ed]
 sources: ['raw/papers/2605.13731.md']
 confidence: high
 audience: [researchers, instructors, designers]
-category: [ai foundations, instructional design]
 ---
 
 > **Synthesis:** This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in [[ai-education|AIED]] [[research-methods-aied|research]]:

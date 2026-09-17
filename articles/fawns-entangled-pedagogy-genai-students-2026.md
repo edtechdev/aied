@@ -14,7 +14,6 @@ confidence: high
 research_method: [qualitative]
 audience: [policymakers, educators, administrators]
 level: [higher ed]
-category: [policy, equity, engagement]
 ---
 
 > **Synthesis:** Fawns, Bearman, Corbin, Henderson, Walton, Liang, McLean, Oberg & Matthews (2026) offer a theoretically informed [[qualitative-research|qualitative]] analysis of how three university students (John, Vivian, Howard) negotiate [[generative-ai|generative AI]] within the "messy" realities of everyday study and life. Using Fawns' (2022) [[pedagogy|entangled pedagogy]] framework — grounded in Barad's sociomaterial/relational ontology — the study shows that GenAI [[student-engagement|engagement]] is inseparable from students' overlapping identities (learner, future professional, employee, parent), beliefs about learning, [[student-ai-interaction|emotional responses]], pragmatic constraints, trust relations, and moral judgments about responsibility, authenticity, and [[bias-mitigation|fairness]]. Student positions on GenAI are multiple, ambiguous, provisional, contextual, and sometimes internally conflicting. Contrasting with a sector fixated on [[educational-development|staff development]], [[assessment]] redesign, and student compliance (e.g., [[ai-detection|AI detection]]), the authors argue policy and guidance should be co-designed with students and attend to lived realities rather than treating GenAI as a problem for universities. Students' positionings, they contend, are often more thoughtful and ethically attuned than public discourse suggests.

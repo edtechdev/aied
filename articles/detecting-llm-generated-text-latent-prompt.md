@@ -10,7 +10,7 @@ assessment: [ai-detection, ai-ed-evaluation]
 stakeholders: [pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2608.05741v1.md']
 confidence: high
 level: [higher ed]

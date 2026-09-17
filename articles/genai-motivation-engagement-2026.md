@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/10.3389_fpsyg.2026.1852265.md']
 confidence: high
 ---

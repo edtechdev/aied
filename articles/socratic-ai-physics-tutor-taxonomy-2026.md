@@ -14,7 +14,7 @@ level: [higher ed]
 sources: ['raw/papers/2608.07373.md']
 confidence: high
 audience: [researchers, instructional designers]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** [[llm|Large language model (LLM)]] tutors are being deployed in introductory [[physics-education|physics]] courses at a scale that produces transcript corpora far larger than traditional [[qualitative-research|qualitative coding]] can absorb. This study builds a bottom-up taxonomy of student discourse from a Socratic [[intelligent-tutoring|AI physics tutor]] deployed in introductory calculus-based mechanics. Each student turn was assigned an emergent label by an LLM coder, then consolidated into 357 categories. The top 25 categories cover roughly half of all student turns, with equation-handling and meta-procedural requests dominating. A central finding is the striking prevalence of meta-procedural turns in which students cede strategic control to the tutor — students repeatedly ask the tutor what to do next, and a tutor explicitly designed around the [[socratic-method]] ends up fielding "next step guidance" as its second-most-requested service.

@@ -12,7 +12,6 @@ research_method: [learning analytics]
 discipline: [stem education, math education]
 audience: [learners]
 level: [k 12, higher ed]
-category: [assessment]
 sources: ['raw/papers/2605.21629.md']
 confidence: high
 ---

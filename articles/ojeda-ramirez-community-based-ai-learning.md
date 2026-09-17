@@ -11,7 +11,7 @@ audience: [instructors]
 research_method: [theoretical analysis]
 sources: ['raw/papers/ojeda-ramirez-community-based-ai-learning.md']
 confidence: high
-category: [equity, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** A perspective paper introducing community-based AI learning as a framework that repositions epistemic authority, grounding AI engagement in learners' lived and community-based epistemologies rather than treating AI systems as authoritative knowledge sources. Drawing on community-driven learning and constructionist traditions, the framework rests on three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—that together localize [[ai-literacy|critical AI literacy]] by calibrating trust, foregrounding community knowledge, and supporting collective judgment about when to design with, interrogate, or reject AI. The authors argue that equitable AI education requires negotiating authority through place, history, and social context.

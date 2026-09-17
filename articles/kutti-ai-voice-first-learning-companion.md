@@ -11,7 +11,6 @@ research_method: [system development]
 level: [special education, k 12]
 sources: ['raw/papers/2607.22377.md']
 confidence: high
-category: [equity, instructional design]
 ---
 
 > **Synthesis:** Kutti AI addresses a persistent equity gap in educational technology: nearly all edtech assumes a visual interface, excluding an estimated 1.4 million blind children worldwide. The system inverts this assumption entirely, making spoken conversation the primary and sufficient learning modality — children hear [[curriculum-design|curriculum]] content, answer aloud, and receive spoken feedback with no visual dependency, positioning it within the [[special-education]] and [[accessibility]] strand of [[adaptive-learning]] [[research-methods-aied|research]].

@@ -11,7 +11,7 @@ research_method: [bibliometric]
 sources: ['raw/papers/ai-ethics-bibliometric-2026.md']
 confidence: high
 audience: [researchers, policymakers]
-category: [synthesis, policy]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** Mazlan et al. (2026) conduct a descriptive–evaluative bibliometric analysis of 282 Scopus-indexed peer-reviewed articles (2009–2025) to map how AI [[ethics]] research has shifted from abstract normative principles toward [[situated-learning|situated]], practice-based ethical reasoning. Using biblioMagika® and VOSviewer, they document a pronounced post-2021 expansion of [[ethics|AI ethics]] research and a disciplinary shift toward applied domains (social sciences, education, healthcare, management). Keyword co-occurrence networks show AI ethics increasingly framed around professional judgment, [[trust]], [[human-ai-collaboration]], and interpretive practice rather than technical compliance or [[regulation]]. Healthcare dominates citation impact, but education emerges as a conceptually important context where questions of intelligence, [[agency]], and professional responsibility are actively negotiated. Highly cited work consistently foregrounds [[human-in-the-loop-ai|human-in-the-loop]] decision-making and contextual reasoning, supporting a practice-based, [[philosophy-of-ai-in-education|philosophically grounded]] reorientation of AI ethics.

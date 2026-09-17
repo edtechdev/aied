@@ -8,7 +8,6 @@ pedagogy: [well-being]
 technology: [affective-computing, conversational-ai, generative-ai, llm, pedagogical-agent]
 assessment: [assessment]
 research_method: [quasi-experiment]
-category: [assessment]
 sources: ['raw/papers/aivaluate-anxiety-assessment-2026.md']
 confidence: high
 audience: [assessment designers, assessment professionals, educators]

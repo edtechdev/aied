@@ -9,7 +9,7 @@ assessment: [ai-ed-evaluation]
 ethics: [bias-mitigation, equity-in-ai-education]
 audience: [software developers]
 research_method: [system development, benchmark]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/nspa-neuro-symbolic-pedagogical-alignment-2026.md']
 confidence: high
 discipline: [math education]

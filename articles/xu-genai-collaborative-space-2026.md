@@ -12,7 +12,6 @@ connected_faqs: [group-work-ai]
 research_method: [qualitative]
 audience: [instructors, learning designers, researchers]
 level: [higher ed]
-category: [collaborative learning]
 sources: ['raw/papers/xu-genai-collaborative-space-2026.md']
 confidence: high
 

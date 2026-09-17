@@ -13,7 +13,6 @@ level: [k 12]
 sources: ['raw/papers/computational-thinking-aica-2026.md']
 confidence: high
 audience: [instructors, instructional designers]
-category: [equity, engagement]
 ---
 
 > **Synthesis:** Zhao, Wang, Chen, Kang, and Lan (2026) examined how students' [[computational-thinking|computational thinking]] (CT) levels shape learning when using an [[generative-ai|AI coding assistant]] (AICA) in [[k-12]] Python instruction. In a four-week AICA-assisted coding course, 52 eighth-grade students (26 high-CT, 26 low-CT, split by validated CT pre-test) were compared on learning performance (pre/post-tests), behavior (Lag Sequential Analysis of screen recordings), and cognition ([[network-analysis|Epistemic Network Analysis]] of reflection journals). The high-CT group significantly outperformed the low-CT group on post-test performance (72.54 vs. 61.73, p = .031). Behaviorally, high-CT students used the AICA for code understanding, debugging, and explanation; low-CT students used it for immediate answer retrieval and code copying. Cognitively, high-CT students showed strong, well-connected self-regulatory coherence across planning, execution, and self-reflection phases, whereas low-CT students showed a sparse network dominated by [[help-seeking]]. The authors propose differentiated instruction: open-ended AICA support for high-CT students and structured SRL guidance for low-CT students.

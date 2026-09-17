@@ -12,7 +12,7 @@ research_method: [systematic review]
 sources: ['raw/papers/raza-farooq-aied-review-2020-2025.md']
 confidence: high
 level: [higher ed]
-category: [synthesis, framework]
+page_kind: [synthesis, framework]
 ---
 
 > **Synthesis:** Raza & Farooq (2025) content-analyze 100+ peer-reviewed AI-in-education studies from 2020–2025, the era of mainstream [[llm|LLMs]] and [[generative-ai|generative AI]]. They organize the literature into three interrelated layers — the *genome* layer (evaluation practices, leadership capacity, low-friction tools, shared norms, algorithmic schemas), the *cognitive* layer (predictive analytics, [[personalized-learning|personalized learning]] via a measure–model–adapt loop, [[multimodal]] sensing, discourse and affect analysis), and the *symbiotic* layer (end-to-end [[edtech-platform|learning platforms]], smart classrooms, process automation, GenAI copilots). Across studies they summarize effects on learning, engagement, teacher workload, and adoption, and distill three forward trends: (1) [[human-ai-collaboration|human–AI co-orchestration]] as the default classroom pattern; (2) [[privacy|privacy-preserving]], edge/federated AI for sensitive student data; and (3) [[authentic-assessment|authentic, continuous assessment]] via [[multimodal]] analytics and generative [[simulation|simulations]]. The core message is practical: invest first in people and workflows ("plumbing"), then in models that earn trust, and only then in platforms that scale what already works.

@@ -13,7 +13,7 @@ level: [secondary, k 12]
 
 sources: ['raw/papers/2606.06271.md']
 confidence: high
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Introduces **FOXGLOVE**, a dataset of 696 feedback comments by trained writing instructors on 69 twelfth-grade argumentative essays, paired with 1,644 comments from four frontier LLMs — totaling 2,340 comments with expert quality ratings. Provides the first systematic comparison of [[llm]] and expert feedback on three pedagogically critical dimensions: **goal-orientation, anchoring to specific sentences, and prioritization**.

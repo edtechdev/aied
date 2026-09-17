@@ -12,7 +12,6 @@ confidence: medium
 research_method: [position paper, case study]
 audience: [administrators, institutions, policymakers]
 level: [higher ed]
-category: [policy, curriculum design]
 ---
 
 > **Synthesis:** Qin offers a position paper and [[governance|institutional]] case analysis of how Lingnan University — Hong Kong's longest-established [[higher-ed|higher education]] institution — is strategically transforming itself into a "[[research-methods-aied|Research]]-Intensive Liberal Arts Institution in the Digital Era" without relinquishing its [[humanities-education|humanistic]] foundations. Framed through sociotechnical systems (STS) theory, the analysis spans four interrelated dimensions: upgrading [[ai-education|instructional practice]] through AI, prioritizing irreplaceable human competencies, renewing [[curriculum-design|curricula]], and retaining [[ethics|ethical]] and cultural value systems. The paper argues that the [[generative-ai|GenAI]] revolution constitutes an intellectual rather than a technocentric transformation, positioning digital fluency as a core liberal arts competency and proposing a [[human-in-the-loop-ai|human-in-the-loop]] educational model as a blueprint for harmonizing technological innovation with enduring moral and intellectual aims.

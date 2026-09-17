@@ -11,7 +11,7 @@ research_method: [system development]
 level: [k 12]
 sources: ['raw/papers/2606.30662.md']
 confidence: high
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** ELEVATE (Efficient LLM Education with Virtual Avatar Teaching Engine) is a framework for building GenAI-driven 3D avatar tutors that run entirely on local, consumer-grade hardware rather than cloud APIs. Its three-stratum design separates student-facing avatar interaction, a local GenAI execution core, and a teacher-facing governance layer, so pedagogical control and privacy stay inside the school. A deployed prototype — a History of Computer Science tutor running Hermes-3B and Coqui TTS on commodity GPUs — reached near real-time spoken interaction while exposing the concrete limits of local-first deployment.

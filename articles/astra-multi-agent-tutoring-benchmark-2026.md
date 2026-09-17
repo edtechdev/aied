@@ -13,7 +13,7 @@ confidence: medium
 research_method: [benchmark, system development]
 discipline: [cs education]
 audience: [researchers, learning analytics designers, edtech designers]
-category: [evaluation, collaborative learning]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Oyelere introduces **ASTRA (Adaptive Socially-intelligent Team Reasoning Agents)**, a multi-agent tutoring prototype and benchmark framework for studying collaborative programming with socially differentiated [[agentic-ai|AI agents]]. Because research-participant access was not yet available, the paper releases an open **synthetic benchmark dataset** that mirrors ASTRA's logging schema and a prespecified between-subjects design (N = 540 participants; 360 sessions; 1,440 task episodes) across a bank of 20 short Python programming tasks. ASTRA supports three collaboration configurations: *alone_tutor* (one learner with a Tutor agent), *pair_tutor* (two learners with a Tutor agent), and *pair_multiagent* (two learners with both Tutor and Facilitator agents, where the Facilitator prompts coordination and balanced participation).

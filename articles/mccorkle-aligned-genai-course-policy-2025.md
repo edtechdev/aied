@@ -12,7 +12,6 @@ connected_faqs: [course-ai-policy]
 research_method: [design-based research]
 audience: [instructors, faculty development, instructional designers, curriculum designers]
 level: [higher ed]
-category: [instructional design, policy]
 sources: ['raw/papers/mccorkle-aligned-genai-course-policy-2025.md']
 confidence: high
 ---

@@ -14,7 +14,6 @@ confidence: high
 research_method: [randomized controlled trial, quantitative]
 audience: [educators, researchers, instructional designers, edtech designers]
 level: [secondary, k 12]
-category: [engagement, instructional design]
 discipline: [stem education, math education]
 ---
 

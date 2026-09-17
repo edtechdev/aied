@@ -7,7 +7,6 @@ tags: [assessment, learning-analytics, knowledge-tracing, benchmark, llm]
 technology: [knowledge-tracing, learning-analytics, llm]
 assessment: [assessment, benchmark]
 research_method: [theoretical analysis]
-category: [assessment]
 sources: ['raw/papers/2605.09305.md']
 confidence: medium
 audience: [researchers, assessment professionals]

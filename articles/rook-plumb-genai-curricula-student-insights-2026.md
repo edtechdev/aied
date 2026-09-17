@@ -11,7 +11,6 @@ audience: [learners, instructors]
 research_method: [survey]
 discipline: [business education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/rook-plumb-genai-curricula-student-insights-2026.md']
 confidence: medium
 ---

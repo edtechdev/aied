@@ -14,7 +14,7 @@ level: [k 12]
 sources: ['raw/papers/creative-project-approach-ai-early-childhood-2025.md']
 confidence: high
 discipline: [stem education]
-category: [framework, instructional design, curriculum design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Yang, Li, and Lee (2025) offer a conceptual roadmap for tailoring [[generative-ai|generative AI]] agents and [[educational-robotics|robotics]] to [[early-childhood-elementary-ai-education|early childhood]] learners, arguing that physical (rather than screen-based) agents are developmentally more appropriate for young children and proposing a **"Creative Project Approach"** — a five-step [[pedagogy|pedagogical]] framework that integrates [[agentic-ai|AI agents]] into the Project Approach to foster children's creative learning. The paper distinguishes two complementary robotics paradigms rooted in distinct [[learning-theories|learning theories]]: **coding robots** grounded in Papert's *constructionism* ([[teacher-role|teaching]] computational thinking through tangible programming) and **generative-AI-powered social robots** grounded in Vygotsky's *social constructivism* (acting as conversational peers or tutors who scaffold cognition and social-emotional development). Teachers remain central as facilitators who scaffold child–robot interaction and preserve child [[agency]].

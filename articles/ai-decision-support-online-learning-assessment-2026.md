@@ -12,7 +12,7 @@ research_method: [systematic review]
 sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
 audience: [edtech designers, institutions]
-category: [assessment, framework]
+page_kind: [framework]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

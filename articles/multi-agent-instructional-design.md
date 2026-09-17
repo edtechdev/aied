@@ -13,7 +13,6 @@ audience: [faculty development]
 level: [k 12]
 sources: ['raw/papers/2508.16659.md']
 confidence: high
-category: [instructional design, curriculum design]
 ---
 
 > **Synthesis:** Embedding the [[learning-theories|Knowledge–Learning–Instruction (KLI) framework]] into [[agentic-ai|multi-agent systems]] to act as sophisticated [[learning-design|instructional designers]] for [[k-12|K-12]] educators. Wang et al. (2025) move [[pedagogy|pedagogical]] expertise from the user's [[prompt-engineering|prompt]] to the [[llm|LLM's]] internal architecture, comparing a single-agent baseline (SAS) against two multi-agent designs (MAS-Roles, MAS-CMD). Rubric scores showed only small, mostly insignificant differences across systems, yet 20 practicing [[teacher-role|teachers]] strongly preferred the collaborative MAS-CMD's outputs as "fantastic, creative, classroom-ready" — at a cost of ~11× more tokens and ~10× more time than baseline. The study is a working demonstration that [[learning-theories|learning sciences]] frameworks can be operationalized directly in AI architectures to produce more creative, contextually relevant materials.

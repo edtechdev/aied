@@ -10,7 +10,6 @@ stakeholders: [edtech-platform, student-experience]
 research_method: [system development, learning analytics]
 audience: [teachers, learning analytics designers]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2607.29413.md']
 confidence: high
 ---

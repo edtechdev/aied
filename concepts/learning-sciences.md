@@ -11,7 +11,7 @@ assessment: [research-methods-aied]
 discipline: [learning sciences]
 audience: [researchers, instructional designers, learning designers, educators, policymakers]
 level: [k 12, higher ed, adult learning]
-category: [synthesis, framework]
+page_kind: [framework, synthesis]
 confidence: high
 ---
 

@@ -12,7 +12,7 @@ sources: ['raw/papers/weidlich-chatgpt-effect-search-cause-2025.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
 audience: [researchers]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **ChatGPT in Education: An Effect in Search of a Cause** — A conceptual critique by Weidlich, Gašević, Drachsler, and Kirschner (2025) arguing that much early [[generative-ai|ChatGPT]] efficacy research repeats the classic media comparison fallacy: it compares an ill-defined "ChatGPT" treatment against opaque controls while measuring outcomes that are not durable learning. Using Deng et al.'s (2025) [[meta-analysis-systematic-review|meta-analysis]] as a worked example, the authors revive [[research-methods-aied|methodological]] lessons from the Clark–Kozma media/methods debate to specify three "non-negotiable" conditions for interpretable causal effects — a precisely described [[intelligent-tutoring|treatment]], a well-defined control group, and a valid measure of [[learning-gains|learning]] — and audit a subset of primary studies showing that only a small minority meet all three.

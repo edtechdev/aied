@@ -13,7 +13,6 @@ research_method: [experiment, quantitative]
 level: [higher ed, k 12]
 audience: [assessment designers, instructors, researchers]
 discipline: [learning sciences]
-category: [assessment, equity]
 ---
 
 > **Synthesis:** Rooein, Benedetto and Hovy run a controlled counterfactual audit of demographic sensitivity in six instruction-tuned [[llm|LLMs]] across three educational tasks — [[automated-essay-scoring|Automated Essay Scoring]] (AES), [[formative-assessment|Formative Feedback]] (FF) and metalinguistic question answering (QA) — holding each task input fixed while varying only the demographic context. Explicit personas (25 attributes from the AI Gap dataset) and implicit signals (ten-prompt conversation histories) both move model behavior, producing 192,480 inference calls. Most models are comparatively stable under explicit conditioning in AES, where the largest shift is Llama-70B scoring +1.57 points above its own default under implicit conditioning (p < 0.001), but open-ended tasks show systematic differences in readability, length and sentiment. The headline implication is a split verdict for [[assessment]]: invariance is required in high-stakes scoring, some adaptation may be pedagogically legitimate in instruction, and current models cannot reliably separate task-relevant information from demographic cues — a direct threat to [[assessment-validity|validity]] and [[equity-in-ai-education|equity]].

@@ -10,7 +10,6 @@ technology: [intelligent-tutoring]
 stakeholders: [teacher-ai-competency]
 audience: [instructors, faculty development, learners]
 level: [k 12, higher ed]
-category: [instructional design]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai]
 
 confidence: high

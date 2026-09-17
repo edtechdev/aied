@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.04779.md']
 confidence: high
 audience: [researchers, educators, curriculum designers]
-category: [evaluation, synthesis]
+page_kind: [evaluation, synthesis]
 ---
 
 > **Synthesis:** Maier, Gunzenhäuser & Schweisthal (2026) conduct a **[[meta-analysis-systematic-review|meta-analysis]] synthesizing evidence** on how [[generative-ai|generative AI]] tools affect both programming productivity and [[learning-gains|learning outcomes]]. This is a **confidence: high** paper due to its synthesis design across multiple studies, addressing the central tension between short-term efficiency gains and long-term skill development.

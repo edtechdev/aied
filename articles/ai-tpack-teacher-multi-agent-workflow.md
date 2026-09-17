@@ -13,7 +13,7 @@ audience: [faculty development, instructors]
 sources: ['raw/papers/2605.13906.md']
 confidence: medium
 level: [teacher training, k 12]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis.** Analyzing behavioral logs from 61 in-service teachers designing multi-agent instructional workflows on the no-code CocoFlow platform, this study clusters teachers into three archetypes — Systematic Optimizers, Prolific Creators, and Passive Observers — and shows through artifact and interview analysis that [[tpack|AI-TPACK]] integration is not the possession of discrete knowledge domains but a dynamic interplay of systems thinking, [[pedagogy|pedagogical]] beliefs, and self-efficacy. The findings argue that supporting teachers' transition from AI consumers to AI designers demands differentiated, adaptive [[scaffolding]] responsive to cognitive-behavioral diversity.

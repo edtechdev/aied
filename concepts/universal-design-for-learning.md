@@ -10,7 +10,6 @@ ethics: [equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
-category: [instructional design]
 confidence: high
 ---
 

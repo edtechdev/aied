@@ -13,7 +13,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/fouad-bentley-trust-utility-gap-physics-2026.md']
 confidence: high
-category: [engagement, ai foundations]
 ---
 
 > **Synthesis:** Fouad & Bentley (2026) survey 81 introductory [[physics-education|physics]] students and find a striking 50-percentage-point [[trust-calibration|trust-utility gap]]: 91% use AI for coursework but only 41% [[trust]] AI physics explanations — evidence of domain-calibrated skepticism, not uncritical adoption. Students spontaneously identified where AI fails in [[physics-education|physics]] (visual-spatial reasoning, circuits, abstract reasoning), aligning with known [[benchmark|benchmarks]]. 65% prefer optional over mandatory AI integration.

@@ -13,7 +13,7 @@ sources: ['raw/papers/videla-embodied-ai-education-choreography.md']
 confidence: high
 discipline: [cs education]
 audience: [researchers, educators]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Videla, Penny, and Ross (2026) offer a critical theoretical analysis of the body's role in AI within education, challenging the dominance of symbolic and disembodied AI models based on abstract information processing. Arguing from post-cognitivist (4E/SEEED) frameworks, they advocate a paradigm shift toward **embodied AI** grounded in situationality, emergence, and sensorimotor coupling, and diagnose GenAI's cognitive and experiential limits — loss of proprioception and [[multimodal]] agency, and the devaluation of embodied making practices. The paper proposes redefining Human–Computer Interaction as a perceptual–[[affective-computing|affective]] choreography and closes with seven embodied design principles aimed at a more inclusive, emancipatory, critical, and [[situated-learning|situated learning]]. It connects to [[embodied-learning]], [[critical-thinking]], [[human-ai-collaboration]], and [[learning-theories]].

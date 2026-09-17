@@ -6,7 +6,6 @@ weight: 84
 tags: [assessment, assessment-validity, authentic-assessment, academic-integrity]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-category: [assessment]
 ---
 
 # How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?

@@ -13,7 +13,6 @@ audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.17857.md']
 confidence: medium
-category: [instructional design, engagement]
 ---
 
 > **Synthesis:** Socratic questioning, reflection prompts, misconception checks, and mandatory pauses produce better K-12 engagement than directive answer-giving AI tutors.

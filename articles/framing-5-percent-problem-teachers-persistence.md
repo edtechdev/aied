@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [qualitative, thematic analysis]
 audience: [instructors, learners]
 level: [k 12]
-category: [engagement]
 sources: ['raw/papers/2606.22294.md']
 confidence: medium
 discipline: [math education]

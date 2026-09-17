@@ -13,7 +13,6 @@ research_method: [system development, user study]
 discipline: science education
 audience: [educators, learners]
 level: k 12
-category: instructional design
 ---
 
 > **Synthesis:** Dynamic Learning Solutions is an end-to-end pipeline that turns a student-uploaded textbook PDF into a narrated, animated video answer to that student's question. A [[rag|retrieval-augmented generation]] stage built on LangChain indexes the document in Chroma with GPT4All MiniLM-L6 embeddings, retrieves context and writes a multi-scene script with explicit "visuals of" prompts; Stable Diffusion renders each scene, DynamiCrafter animates it, Google Text-to-Speech narrates it, and MoviePy assembles the synchronised result behind a Streamlit interface. The pipeline is tuned for NCERT textbooks — the standardized Indian school books — with regex cleaning of page furniture and figure-reference handling, and it supports English-to-Hindi, Kannada, Tamil and Telugu narration. The authors report a demonstration to students and teachers who preferred the video explanations to plain text, but the evaluation is [[qualitative-research|qualitative]] only: no retrieval accuracy, no correctness measure and no [[learning-gains]] data are reported.

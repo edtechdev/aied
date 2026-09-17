@@ -9,7 +9,7 @@ assessment: [meta-analysis-systematic-review]
 ethics: [equity-in-ai-education, ethics]
 research_method: [systematic review]
 level: [higher ed]
-category: [synthesis, framework]
+page_kind: [framework, synthesis]
 audience: [researchers, educators, policymakers]
 sources: ['raw/papers/xia-ai-interdisciplinary-higher-education-review-2026.md']
 confidence: high

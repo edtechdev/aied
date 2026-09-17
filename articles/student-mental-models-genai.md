@@ -14,7 +14,6 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.11692.md']
 confidence: high
-category: [ai foundations, curriculum design]
 ---
 
 > **Synthesis:** Ganguly, Garika, and Johri (2026) elicit 64 undergraduate concept maps of [[generative-ai|generative AI]] from a required technology-ethics course and identify five distinct mental-model categories — technical-process based, educational-tool based, transitional, consequence-aware, and integrated. The authors find that students do **not** hold a unified mental model of GenAI, and that declarative ("what") knowledge dominates while procedural ("how") and conditional ("when and why") knowledge remain sparse — only nine maps integrate all three. Because technical literacy and [[ethics|ethical]] awareness appear to develop separately, the authors argue that [[ai-literacy]] [[curriculum-design|curriculum]] and GenAI guidelines must actively bridge these domains rather than assume a surface familiarity with tools will translate into responsible, calibrated use.

@@ -9,8 +9,6 @@ technology: [intelligent-tutoring, llm, personalized-learning]
 stakeholders: [edtech-platform]
 research_method: [experiment]
 level: [k 12]
-category: [engagement]
-
 sources: ['raw/papers/2608.11259.md']
 confidence: high
 audience: [edtech designers, software developers, researchers]

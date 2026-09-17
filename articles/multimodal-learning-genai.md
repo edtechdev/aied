@@ -10,7 +10,6 @@ technology: [generative-ai, multimodal, pedagogical-llm-training]
 assessment: [assessment, feedback]
 research_method: [literature review]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
 confidence: high
 audience: [educators, instructional designers, faculty development]

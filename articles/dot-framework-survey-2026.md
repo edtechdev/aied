@@ -10,7 +10,7 @@ stakeholders: [change-management, open-source]
 research_method: [survey]
 audience: [instructors]
 level: [higher ed]
-category: [design thinking, framework]
+page_kind: [framework]
 sources: ['raw/papers/2605.29041.md']
 confidence: high
 ---

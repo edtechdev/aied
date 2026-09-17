@@ -15,7 +15,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.00294.md']
 confidence: high
 discipline: [medical education]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This paper presents a systematic two-stage methodology for surfacing student [[misconceptions]] at scale. Drawing on 3,802 medical student enrollments across 5 biomedical science courses (9 course periods, 40-50 quizzes each), Parker and Zavala-Cerna first use [[quantitative-research|quantitative]] quiz-level performance metrics to identify challenging topics, then deploy LLMs to analyze quiz questions, student response patterns, and lecture transcripts in combination — extracting the specific misconceptions underlying poor performance.

@@ -10,7 +10,7 @@ level: [higher ed]
 sources: ['raw/papers/2608.06322.md']
 confidence: medium
 audience: [administrators, institutions, learning analytics designers]
-category: [framework, policy]
+page_kind: [framework]
 ---
 > **Synthesis:** This paper proposes a precision education framework that adapts precision [[medical-education|medicine]]'s predictive, preventive approach to [[higher-ed|higher education]]. It envisions AI-powered [[student-modeling|student digital twins]] — computational models that integrate academic, behavioral, and career trajectory data to forecast risk, [[personalized-learning|personalize interventions]], and align course pathways with employment outcomes. The paper argues that traditional reactive models (responding after students fail or drop out) can be replaced with continuous risk stratification, early-warning nudges, and dynamic pathway optimization. Key architectural components include federated data integration across [[governance|institutional]] silos, explainable AI for advisor [[trust]], and longitudinal models that evolve with the student.
 

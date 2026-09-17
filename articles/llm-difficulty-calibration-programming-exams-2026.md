@@ -7,7 +7,7 @@ tags: [cs-education, assessment, automated-assessment, ai-ed-evaluation, educati
 technology: [learning-analytics]
 assessment: [ai-ed-evaluation, assessment, automated-assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/llm-difficulty-calibration-programming-exams-2026.md']
 confidence: high
 discipline: [cs education]

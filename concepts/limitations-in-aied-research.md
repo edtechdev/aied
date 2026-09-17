@@ -8,7 +8,7 @@ foundations: [ai-education]
 pedagogy: [learning-theories]
 assessment: [ai-ed-evaluation, assessment-validity, benchmark, educational-measurement, research-methods-aied]
 research_method: [research methods, benchmark, educational measurement, literature review]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 ---

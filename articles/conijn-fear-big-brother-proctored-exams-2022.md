@@ -11,7 +11,6 @@ stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education, privacy]
 research_method: [survey]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/conijn-fear-big-brother-proctored-exams-2022.md']
 confidence: high
 audience: [administrators, assessment professionals]

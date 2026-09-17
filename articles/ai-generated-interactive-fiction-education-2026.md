@@ -11,8 +11,6 @@ stakeholders: [student-experience]
 research_method: [system development, user study]
 audience: [learners]
 level: [higher ed]
-category: [engagement, curriculum design]
-
 sources: ['raw/papers/2608.10818.md']
 confidence: medium
 ---

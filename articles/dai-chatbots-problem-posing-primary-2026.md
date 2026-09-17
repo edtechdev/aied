@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/dai-chatbots-problem-posing-primary-2026.md']
 confidence: high
 audience: [educators, curriculum designers]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This quasi-experimental study (N = 97 Chinese third-graders, split by class) compared GenAI-based [[conversational-ai|chatbots]] against search engines for fostering science problem posing in [[inquiry-based-learning]]. [[conversational-ai|Chatbots]] significantly improved problem quality (t = 2.47, p = 0.015) and overall problem posing ability (t = 3.07, p = 0.003), produced a more integrated epistemic [[network-analysis|network structure]] (ENA), and reduced [[cognitive-offloading|cognitive load]] while raising technology acceptance.

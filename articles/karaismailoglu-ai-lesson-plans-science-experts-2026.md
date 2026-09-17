@@ -13,7 +13,7 @@ research_method: [qualitative, case study]
 discipline: [science education]
 audience: [teachers, teacher educators, curriculum designers]
 level: [k 12]
-category: [curriculum design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** **Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts** — Karaismailoglu, Surmeli, and Yildirim (2026) evaluate the instructional quality of [[generative-ai|AI]]-generated lesson plans for sixth-grade [[science-education|science]] through the expert judgment of eleven Turkish science education specialists, using a qualitative case study with descriptive quantitative elements. Two platforms — a general-purpose model (ChatGPT-4) and an education-focused tool (Teacher's Buddy) — each produced a plan for a "Sustainable Living and Biodiversity" unit aligned to the [[k-12|sixth-grade]] Engineering Design-Based Learning (EDBL) model and four skill domains of Turkey's revised [[curriculum-design|curriculum]]. Experts found both tools support key competencies (conceptual, domain-specific, literacy, and social-emotional skills) but fall short of fully capturing EDBL's iterative, reflective, and process-oriented stages, positioning AI-generated plans as useful drafts that demand pedagogical adaptation and [[teacher-role|teacher judgment]].

@@ -13,7 +13,6 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1918525.md']
 confidence: high
-category: [engagement]
 ---
 
 > **Synthesis:** Yuanchang Zhang, Yantao Shi, and Jing Lu (2026) examined whether AI anxiety constitutes a psychological barrier to university students' motivational adaptation to AI-supported learning, using a cross-sectional survey of 1,484 Chinese undergraduates analyzed with moderated-mediation models. [[generative-ai|Generative AI]] is increasingly embedded in students' writing, information retrieval, and knowledge organization, yet the psychological responses to that integration remain under-studied relative to educational affordances and [[ethics|ethical]] challenges. The study found AI anxiety negatively associated with both emotion [[regulation]] and academic motivation, while emotion regulation was positively associated with academic motivation; bootstrap analyses confirmed a significant negative indirect path from AI anxiety to academic motivation through emotion regulation. Gender moderated the emotion-regulation–motivation link, with a stronger positive association among male students.

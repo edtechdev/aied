@@ -10,7 +10,6 @@ technology: [generative-ai, human-in-the-loop-ai, prompt-engineering]
 research_method: [mixed methods, case study]
 audience: [faculty development, learners]
 level: [higher ed]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/2608.19164.md']
 confidence: high
 ---

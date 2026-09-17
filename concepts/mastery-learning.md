@@ -5,7 +5,6 @@ tags: [mastery-learning, personalized-learning, adaptive-learning, assessment]
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
-category: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-11T13:20:00-04:00"

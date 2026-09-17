@@ -12,7 +12,7 @@ connected_faqs: [reporting-interpreting-aied-research]
 research_method: [theoretical analysis]
 audience: [researchers]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 sources: ['raw/papers/tep-aied-model-reporting-2026.md']
 confidence: high
 ---

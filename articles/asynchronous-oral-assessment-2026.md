@@ -9,7 +9,6 @@ pedagogy: [student-engagement]
 assessment: [assessment, authentic-assessment]
 research_method: [experiment]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/asynchronous-oral-assessment-2026.md']
 confidence: high
 audience: [instructors, assessment designers]

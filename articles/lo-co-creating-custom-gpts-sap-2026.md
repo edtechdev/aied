@@ -14,7 +14,6 @@ research_method: [qualitative, thematic analysis]
 discipline: [science education]
 audience: [educators, designers, edtech designers]
 level: [higher ed]
-category: [design thinking, curriculum design, engagement]
 ---
 
 > **Synthesis:** Lo et al. (2026) report an autoethnographic study at Monash University in which undergraduate science students co-created and evaluated custom GPT [[conversational-ai|chatbots]] (cGPTs) within a [[pedagogical-partnerships|students-as-partners (SaP)]] framework. Across five subjects (physiology, physical [[chemistry-education|chemistry]], organic chemistry, scientific inquiry, polymer science), student teams in a Summer Scholarship program and a placement unit partnered with academics to design, test, and refine unit-specific chatbots aligned with [[learning-design|pedagogical goals]]. Inductive analysis of summer scholarship autoethnographic logs revealed the iterative, unpredictable, and creative nature of working with [[generative-ai]]. Abductive analysis of placement reflections, guided by SaP principles, surfaced themes of [[agency]], reciprocity, reflexivity, identity shift, authenticity, adaptability, and a technology-pedagogy nexus. The authors argue that co-creation with GenAI can extend the SaP paradigm to include GenAI tools, advocating [[student-experience|student voice]] as central to responsible AI innovation and offering a model for inclusive, critical, and transformative [[student-engagement|engagement]] with emerging technology in [[higher-ed]].

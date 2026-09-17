@@ -11,7 +11,6 @@ assessment: [assessment]
 stakeholders: [student-experience]
 research_method: [secondary analysis, educational measurement]
 audience: [learners]
-category: [assessment, engagement]
 sources: ['raw/papers/2605.08943.md']
 confidence: high
 ---

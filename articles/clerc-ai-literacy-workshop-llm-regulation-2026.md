@@ -11,7 +11,6 @@ research_method: [quasi-experiment, mixed methods]
 audience: [instructors, researchers, curriculum designers]
 level: [k 12, secondary]
 discipline: [science education]
-category: [instructional design]
 confidence: medium
 sources: ['raw/papers/clerc-ai-literacy-workshop-llm-regulation-2026.md']
 ---

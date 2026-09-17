@@ -12,7 +12,6 @@ audience: [researchers]
 
 sources: ['raw/papers/2605.23426.md']
 confidence: high
-category: [ai foundations, collaborative learning]
 ---
 
 > **Synthesis:** This study embedded undisclosed [[agentic-ai|AI agents]] as teammates in synchronous text-based group interactions across analytical, creative, and [[ethics|ethical]] tasks with 786 participants making 1,572 identity judgments. The central finding is striking: **humans cannot distinguish AI from human teammates above chance levels**. This failure is not due to a lack of identity-relevant information — computational models could accurately classify AI vs. human from conversational behavior — but because participants relied on **flawed suspicion heuristics** (response speed, fluency, perceived scriptedness) that were only weakly correlated with actual identity.

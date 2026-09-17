@@ -12,7 +12,6 @@ research_method: [mixed methods, experiment, interviews]
 audience: [educators, teachers, curriculum designers]
 level: [elementary]
 discipline: [language learning]
-category: [engagement]
 sources: ['raw/papers/genai-writing-program-primary-l2-motivation-engagement.md']
 confidence: high
 ---

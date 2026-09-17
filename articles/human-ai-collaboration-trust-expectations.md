@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/caeai-human-ai-collab-trust.md']
 confidence: medium
-category: [framework, engagement]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust

@@ -9,7 +9,6 @@ pedagogy: [pedagogy]
 technology: [generative-ai]
 research_method: [systematic review]
 audience: [instructors]
-category: [instructional design]
 sources: ['raw/papers/kibar-ilgaz-ai-instructional-design-review-2026.md']
 confidence: high
 ---

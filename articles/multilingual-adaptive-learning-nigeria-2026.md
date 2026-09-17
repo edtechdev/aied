@@ -11,7 +11,6 @@ sources: ['raw/papers/2608.15738.md']
 confidence: high
 discipline: [language learning]
 audience: [edtech designers, institutions]
-category: [equity, instructional design]
 ---
 
 > **Synthesis:** Nwogo et al. (2026) build and evaluate an AI-based [[adaptive-learning|adaptive learning]] platform for [[multilingual-learning|multilingual]] and low-resource educational contexts, with a case study on Nigerian Pidgin English. The system integrates fine-tuned large language models (LLMs) within a personalized-and-adaptive-learning (PAL) framework, using a curated Nigerian Pidgin corpus to fine-tune an instruction-tuned model. The study systematically investigates model optimization through multi-level quantization (4-bit, 5-bit, 8-bit), showing that higher-bit quantization improves semantic preservation and structural coherence while lower-bit models offer reduced inference latency with minimal degradation in instructional quality. This yields a deployable, resource-aware intelligent learning system that balances semantic robustness, cultural relevance, and computational efficiency — an experimentally validated framework for adapting LLMs to low-resource languages at practical scale.

@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [assessment]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/pbl-structural-conditions-ai-2026.md']
 confidence: high
 audience: [educators, curriculum designers, administrators]

@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [meta-analysis-systematic-review]
 research_method: [mixed methods, bibliometric, systematic review]
 level: [higher ed]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/rewriting-curriculum-genai-pedagogy-2026.md']
 confidence: high
 audience: [administrators, curriculum designers]

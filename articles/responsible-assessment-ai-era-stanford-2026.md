@@ -11,8 +11,7 @@ assessment: [ai-ed-evaluation, assessment, assessment-validity, automated-assess
 ethics: [equity-in-ai-education]
 audience: [administrators, instructors]
 research_method: [theoretical analysis]
-category: [assessment, evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/responsible-assessment-ai-era-stanford-2026.md']
 confidence: high
 level: [higher ed, k 12]

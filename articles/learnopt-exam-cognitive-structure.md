@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [benchmark, learning analytics]
 audience: [learners, software developers]
 level: [k 12]
-category: [assessment]
 sources: ['raw/papers/2606.15349.md']
 confidence: high
 discipline: [stem education]

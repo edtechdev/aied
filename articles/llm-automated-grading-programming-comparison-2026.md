@@ -9,8 +9,6 @@ assessment: [assessment, automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
-category: [assessment]
-
 sources: ['raw/papers/llm-automated-grading-programming-comparison-2026.md']
 confidence: high
 level: [higher ed]

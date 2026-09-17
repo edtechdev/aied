@@ -11,7 +11,6 @@ connected_faqs: [ai-feedback-at-scale]
 research_method: [experiment]
 discipline: [writing education]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/farrokhnia-genai-feedback-student-revisions-2026.md']
 confidence: high
 audience: [instructors, assessment designers, educators]

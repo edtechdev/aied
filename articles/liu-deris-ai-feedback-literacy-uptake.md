@@ -11,8 +11,6 @@ audience: [learners, instructors]
 research_method: [survey, educational measurement]
 discipline: [writing education]
 level: [higher ed]
-category: [assessment]
-
 sources: ['raw/papers/liu-deris-ai-feedback-literacy-uptake.md']
 confidence: high
 ---

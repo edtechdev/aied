@@ -11,7 +11,6 @@ audience: [faculty development]
 level: [higher ed]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
 confidence: medium
-category: [instructional design, ai foundations]
 ---
 
 > **Synthesis:** Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with [[teacher-education|preservice teachers]]

@@ -12,7 +12,6 @@ sources: ['raw/papers/genai-counter-learner-groupthink-2025.md']
 confidence: high
 discipline: [medical education, nursing education]
 audience: [educators, faculty development, instructional designers]
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Wiss et al. (2025) describe a [[mixed-methods-research|mixed-methods]] study that introduced a [[generative-ai|generative AI]] agent — **CALIE** (Collaborative Agent for Learning and Interprofessional Exploration) — into twelve newly formed interprofessional student teams in a virtual [[problem-based-learning|problem-based learning]] session, intentionally prompted to inject controversial viewpoints and counter groupthink. Across 158 survey respondents from seven health-professions graduate programs, the genAI agent positively influenced group dynamics, stimulated [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and limited groupthink's potential. The faculty facilitator's stance toward the AI significantly shaped students' acceptance of it, and students' perceptions of the AI as useful, helpful, and part of the team differed significantly and were positively intercorrelated.

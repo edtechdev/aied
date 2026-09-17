@@ -15,7 +15,6 @@ level: [higher ed]
 sources: ['raw/papers/2606.03095.md']
 confidence: high
 discipline: [cs education]
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** > AI assistance does not only make *required* work faster or more accurate — it can increase the amount of *optional but beneficial* work that actually gets done. In a semester-long randomized field experiment across a 300-level [[reinforcement-learning|machine learning]] course, teaching assistants shown an AI-generated feedback draft after grading were significantly more likely to provide feedback (+10.81 percentage points) and produced longer comments (+39.79 characters), without spending more time per character or degrading students' usefulness ratings. Drafts acted as editable scaffolds that lowered the barrier to *initiating* feedback rather than eliminating the effort of producing it, and TAs stayed fully in control — able to use, edit, or ignore every draft. The study reframes AI's role from a productivity tool to an intervention that changes whether discretionary, socially valuable work happens at all.

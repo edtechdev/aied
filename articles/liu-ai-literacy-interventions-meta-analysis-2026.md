@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, assessment, meta-analysis-systematic-review]
 audience: [instructors, faculty development, researchers]
 research_method: [meta-analysis]
 level: [higher ed, k 12]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 sources: ['raw/papers/liu-ai-literacy-interventions-meta-analysis-2026.md']
 confidence: high
 ---

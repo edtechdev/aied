@@ -11,7 +11,6 @@ stakeholders: [edtech-platform]
 research_method: [system development]
 audience: [instructors, faculty development, software developers]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']
 confidence: high
 ---

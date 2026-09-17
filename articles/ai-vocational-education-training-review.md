@@ -13,7 +13,7 @@ confidence: high
 discipline: [vocational education]
 audience: [researchers, policymakers]
 level: [adult learning]
-category: [synthesis, evaluation]
+page_kind: [synthesis, evaluation]
 ---
 
 > **Synthesis:** First [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training, identifying 26 empirical studies (2015–2026) via ERIC, Web of Science, and Elicit, analyzed with a theory-informed coding scheme under PRISMA guidelines.

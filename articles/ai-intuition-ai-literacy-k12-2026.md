@@ -11,7 +11,7 @@ research_method: [position paper]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12]
 confidence: medium
-category: [framework, ai foundations]
+page_kind: [framework]
 sources: ['raw/papers/ai-intuition-ai-literacy-k12-2026.md']
 ---
 

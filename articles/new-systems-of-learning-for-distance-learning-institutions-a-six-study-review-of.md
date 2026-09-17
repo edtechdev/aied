@@ -14,7 +14,6 @@ level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100607.md']
 confidence: high
 audience: [institutions, instructional designers, educators]
-category: [instructional design, policy]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

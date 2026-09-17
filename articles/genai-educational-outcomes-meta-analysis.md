@@ -8,7 +8,7 @@ technology: [generative-ai]
 assessment: [ai-ed-evaluation, learning-gains, meta-analysis-systematic-review]
 research_method: [meta-analysis, systematic review]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
 audience: [institutions, educators]

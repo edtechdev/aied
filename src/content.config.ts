@@ -184,20 +184,10 @@ const structuredMeta = {
         'special education',
         'teacher training',
     ),
-    category: enumList(
-        'ai foundations',
-        'assessment',
-        'collaborative learning',
-        'curriculum design',
-        'design thinking',
-        'engagement',
-        'equity',
-        'evaluation',
+    page_kind: enumList(
         'framework',
-        'instructional design',
-        'policy',
         'synthesis',
-        'well-being',
+        'evaluation',
     ),
 };
 

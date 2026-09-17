@@ -12,7 +12,7 @@ discipline: [cs education]
 confidence: high
 audience: [teacher educators, instructors, instructional designers]
 level: [teacher training, higher ed]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 sources: [raw/papers/2603.11444.md]
 ---
 

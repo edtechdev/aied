@@ -10,7 +10,6 @@ assessment: [assessment]
 stakeholders: [edtech-platform]
 research_method: [theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/credentials-carry-evidence-ai-agents-2026.md']
 confidence: high
 audience: [institutions, assessment designers, policymakers]

@@ -13,7 +13,7 @@ confidence: medium
 research_method: [survey, structural equation modeling, quantitative]
 audience: [administrators, teacher educators, edtech designers]
 level: [early childhood]
-category: [framework, evaluation]
+page_kind: [framework, evaluation]
 ---
 
 > **Synthesis:** Duan, Shan, and Gong examine what shapes preschool teachers' willingness to adopt AI in early childhood classrooms. Grounded in an extended **Technology Acceptance Model (TAM)**, the study uses structural equation modeling to test how **perceived usefulness (PU)**, **perceived ease of use (PEOU)**, **subjective norm (SN)**, **AI anxiety (AIA)**, and **AI [[self-efficacy]] (AISE)** influence preschool teachers' behavioral intention to use AI.

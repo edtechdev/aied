@@ -9,7 +9,7 @@ technology: [learning-analytics]
 assessment: [design-based-research]
 stakeholders: [edtech-platform, educational-technology-developers, open-source]
 audience: [edtech designers, software developers, designers, learning analytics designers, instructional designers, institutions]
-category: [instructional design, evaluation, policy, design thinking]
+page_kind: [evaluation]
 confidence: high
 ---
 

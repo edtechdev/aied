@@ -8,8 +8,6 @@ foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
 technology: [generative-ai]
 level: [higher ed]
-category: [instructional design]
-
 confidence: high
 connected_faqs: [research-gaps-aied]
 ---

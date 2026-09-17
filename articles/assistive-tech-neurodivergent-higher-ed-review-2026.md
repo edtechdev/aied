@@ -12,7 +12,7 @@ confidence: high
 research_method: [systematic review, qualitative]
 level: [higher ed]
 audience: [institutions, researchers, instructional designers]
-category: [equity, synthesis]
+page_kind: [synthesis]
 ---
 
 > **Synthesis:** A PRISMA-ScR [[meta-analysis-systematic-review|scoping review]] searched five databases and a decade of publication (2015–2025) to identify 766 records and include 40 empirical studies of digital [[assistive-technology|assistive technologies]] for [[neurodiversity|neurodivergent]] students in [[higher-ed|higher education]]. The field it maps is small but has reorganised itself around [[generative-ai]] (15 of 40 studies) with [[virtual-and-augmented-reality|virtual reality]] as a second strand (11 studies, 10 of them VR), and its tools cluster by purpose — supporting learning (n = 27), improving the selection of assistive technology (n = 10), and educating neurotypical peers against bias (n = 3). The authors' central finding is a design critique: the literature is organised around individual accommodation and neurotype-specific tools gated by formal diagnosis, when the barriers the tools actually address (reading and writing, study management, attention, social communication) cut across neurotypes. They argue for [[universal-design-for-learning|universal design]] and participatory development, and flag the [[equity-in-ai-education|equity]] cost of an evidence base concentrated in the Global North whose most immersive tools are also the least scalable.

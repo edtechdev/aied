@@ -12,7 +12,6 @@ ethics: [equity-in-ai-education]
 research_method: [theoretical analysis, qualitative]
 audience: [learners, instructors, assessment designers, researchers]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/brunnstrom-ai-interaction-literacy-srl-2026.md']
 confidence: high
 discipline: [humanities education]

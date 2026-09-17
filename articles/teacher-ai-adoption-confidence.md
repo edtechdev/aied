@@ -11,7 +11,7 @@ audience: [instructors, faculty development]
 level: [k 12, higher ed]
 sources: ['raw/papers/2605.00343.md']
 confidence: high
-category: [policy, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** A survey of 260 teachers in Pampanga, the Philippines, finds that [[governance|institutional]] support predicts both teacher confidence and positive attitudes toward AI adoption, and that confidence *fully mediates* the support–attitude link: support shapes attitudes mainly by building confidence rather than directly. Teacher concerns neither moderated nor directly predicted either outcome.

@@ -11,7 +11,6 @@ ethics: [ethics]
 discipline: [engineering education, stem education]
 audience: [learners, instructors, faculty development]
 level: [higher ed]
-category: [assessment]
 confidence: high
 ---
 

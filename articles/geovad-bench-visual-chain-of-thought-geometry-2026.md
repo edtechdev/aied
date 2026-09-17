@@ -12,7 +12,7 @@ confidence: high
 research_method: [benchmark, system development]
 discipline: [math education]
 audience: [researchers, software developers, edtech designers]
-category: [evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Visual Chain-of-Thought (VCoT) promises that a [[multimodal]] model can solve geometry problems by drawing auxiliary lines mid-solution, but Dong and colleagues show that existing [[benchmark|benchmarks]] score the final answer and the produced diagram in isolation, so they cannot say where reasoning actually breaks. Their GeoVAD-Bench pairs a five-dimensional trajectory diagnosis with No-Aux, Auto-Aux, and GT-Aux interventions across 600 auxiliary-construction problems, revealing that validated expert diagrams reliably raise accuracy while autonomous generation often fails to. The failures are not diffuse: geometric perception, diagram editing, visual-state utilization, and deductive reasoning account for 93.1% and 89.7% of attributed errors in two baseline models. Guided by that [[cognitive-diagnosis|diagnosis]], the authors build a 400K/200K/100K data pipeline and a three-stage SFT plus Interleave-RL recipe whose GeoWeave-8B model lifts final-answer accuracy by +25.3 points and process average by +30.4 points over its base model. The result reframes reliable [[math-education|mathematical]] reasoning as a coordination problem across the whole visual-textual trajectory, not a question of raw generation quality.

@@ -15,7 +15,6 @@ level: [k 12]
 
 sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
-category: [assessment, engagement]
 ---
 
 > **Synthesis:** **[[feedback-literacy|Feedback literacy]] — specifically, students' ability to make sense of AI-generated [[ai-feedback-quality|feedback]] — is the boundary condition that determines whether ChatGPT acceptance translates into perceived [[self-regulated-learning|self-regulated learning]] benefits.**

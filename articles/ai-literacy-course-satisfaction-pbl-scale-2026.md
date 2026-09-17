@@ -13,7 +13,7 @@ confidence: medium
 research_method: [instrument development, structural equation modeling, survey]
 audience: [instructional designers, educators, researchers]
 level: [secondary, higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Zhu and Kong develop and validate a context-grounded AI project-based learning scale (AI-PBLS) for measuring students' perceived [[project-based-learning]] experiences when using AI to solve real-world problems, then test how those experiences relate to satisfaction with [[ai-literacy]] courses. Using data from 1,027 Hong Kong [[k-12|secondary]] and [[higher-ed|university]] students enrolled in an AI literacy program — 446 with complete data for structural equation modeling (SEM) — they show that [[self-efficacy|empowerment]] in using AI for [[problem-solving]] and AI [[ethics|ethical awareness]] mediate the relationship between perceived PBL and AI literacy course satisfaction. The study positions AI literacy as multidimensional, spanning cognitive, [[metacognition|metacognitive]], [[affective-computing|affective]], and social dimensions, and grounds the mediation model in [[self-determination-theory|self-determination theory]] and [[motivation|social cognitive theory]].

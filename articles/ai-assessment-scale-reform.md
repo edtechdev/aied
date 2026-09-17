@@ -11,7 +11,6 @@ stakeholders: [change-management, educational-policy-ai]
 research_method: [survey]
 audience: [instructors]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/2606.26729.md']
 confidence: high
 ---

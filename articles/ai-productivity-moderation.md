@@ -12,7 +12,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.24688.md']
 confidence: high
-category: [framework, policy]
+page_kind: [framework]
 ---
 
 > **Synthesis:** This ICML 2026 position paper argues that adopting AI in organizational practice does not automatically yield productivity gains — human and environmental factors critically moderate the relationship. Drawing on the partial equilibrium model of Gries and Naudé (2022), it identifies five key moderators that can attenuate or negate productivity benefits.

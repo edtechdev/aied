@@ -16,7 +16,6 @@ level: [higher ed]
 sources: ['raw/papers/2605.29240.md']
 confidence: medium
 discipline: [cs education]
-category: [equity, assessment]
 ---
 
 > **Synthesis:** An **interpretable decision layer** that ranks course topics needing instructor attention without using grades or post-hoc outcome labels. The system combines three process-level signals to identify which topics (and which students) need intervention before formal [[assessment|assessments]].

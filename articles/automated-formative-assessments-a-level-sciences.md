@@ -9,8 +9,6 @@ assessment: [assessment, automated-assessment, formative-assessment]
 research_method: [quasi-experiment, mixed methods]
 discipline: [stem education]
 level: [k 12]
-category: [assessment]
-
 sources: ['raw/papers/2607.23566.md']
 confidence: high
 audience: [teachers, assessment designers, educators]

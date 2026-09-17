@@ -9,8 +9,7 @@ assessment: [ai-ed-evaluation, assessment-validity, automated-assessment]
 audience: [software developers]
 research_method: [benchmark]
 level: [higher ed]
-category: [evaluation]
-
+page_kind: [evaluation]
 sources: ['raw/papers/2608.01783.md']
 confidence: high
 ---

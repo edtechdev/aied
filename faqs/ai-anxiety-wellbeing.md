@@ -10,7 +10,6 @@ stakeholders: [ai-anxiety-and-stress, student-experience]
 research_method: [survey, structural equation modeling, mixed methods]
 audience: [instructors, administrators, educators]
 level: [higher ed, secondary, k 12]
-category: [engagement]
 ---
 
 # How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?

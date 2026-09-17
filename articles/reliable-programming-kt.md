@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.04727.md']
 confidence: medium
 discipline: [cs education]
 level: [higher ed]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** > This ITS 2026 study re-evaluates attention-augmented Programming Knowledge Tracing (PKT) models on the CodeWorkout dataset and argues that many reported performance gains are artifacts of flawed experimental protocols rather than genuine architectural superiority. The authors identify three systemic biases in prior work — a causally invalid Softmax dimension in attention-based code representation, temporal causality violations from ignoring ServerTimestamp during sequence construction, and hyperparameter leakage across cross-validation folds — and show that once these are rectified, the performance gap between attention-enhanced models and the standard DKT baseline narrows dramatically, with architectural complexity failing to translate consistently into better prediction.

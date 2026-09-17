@@ -11,7 +11,7 @@ research_method: [randomized controlled trial]
 discipline: [learning sciences]
 audience: [researchers, edtech designers, policymakers, educators]
 level: [k 12]
-category: [evaluation, equity]
+page_kind: [evaluation]
 sources: ['raw/papers/2410.03017.md']
 confidence: high
 ---

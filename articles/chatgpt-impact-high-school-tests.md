@@ -13,7 +13,7 @@ level: [k 12]
 
 sources: ['raw/papers/2605.08812.md']
 confidence: medium
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This paper uses a clever identification strategy: measure the **seasonal drop in ChatGPT activity during non-school summer months** (2023 and 2024). Areas with larger summer dropoffs have heavier school-related AI use. The author then examines whether higher AI-use areas show different test score trends.

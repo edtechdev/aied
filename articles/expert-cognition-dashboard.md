@@ -12,7 +12,7 @@ research_method: [theoretical analysis]
 audience: [learners, instructors, software developers]
 sources: ['raw/papers/2605.17263.md']
 confidence: medium
-category: [framework, assessment]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Current AI-driven educational systems primarily rely on behavioral analytics and performance metrics, lacking the ability to model expert cognition used to interpret learner development and identify misconceptions. This paper introduces the Expert Cognition Dashboard (ECD), a cognition-centered reporting infrastructure for AI Twin-driven education systems.

@@ -10,7 +10,7 @@ technology: [generative-ai, llm, prompt-engineering]
 research_method: [systematic review, literature review]
 discipline: [cs education]
 level: [higher ed]
-category: [instructional design, synthesis]
+page_kind: [synthesis]
 sources: ['raw/papers/llm-intervention-design-cs-review.md']
 confidence: high
 audience: [instructors, instructional designers, researchers]

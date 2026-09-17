@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]
 audience: [learners]
 level: [k 12, higher ed]
-category: [curriculum design]
 confidence: high
 ---
 

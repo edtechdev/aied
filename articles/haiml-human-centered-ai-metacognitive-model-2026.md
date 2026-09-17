@@ -14,7 +14,7 @@ research_method: [theoretical analysis]
 sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']
 confidence: medium
 level: [higher ed]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** HAIML is a human-centered framework for learning in AI-supported environments that preserves human agency, metacognitive awareness, ethical reasoning, and personal responsibility. Grounded in self-efficacy, self-regulated learning, experiential learning, metacognition, and automation-bias [[research-methods-aied|research]], the model spans three interconnected layers — Experiential AI Use, Metacognitive Reflection, and Ethical Decision-Making — guiding learners from direct [[student-engagement|engagement]] with AI to reflective and responsible use.

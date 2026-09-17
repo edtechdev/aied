@@ -10,7 +10,6 @@ stakeholders: [educational-policy-ai]
 research_method: [system development]
 discipline: [engineering education]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/liu-ai-sustainable-engineering-education-2026.md']
 confidence: high
 audience: [instructors, curriculum designers, researchers]

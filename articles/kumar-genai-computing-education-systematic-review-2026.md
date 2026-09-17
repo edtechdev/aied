@@ -13,7 +13,6 @@ research_method: [systematic review]
 audience: [instructors, curriculum designers, researchers, administrators]
 level: [higher ed]
 discipline: [cs education]
-category: [assessment]
 sources: ['raw/papers/kumar-genai-computing-education-systematic-review-2026.md']
 confidence: high
 ---

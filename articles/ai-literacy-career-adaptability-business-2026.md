@@ -12,7 +12,6 @@ ethics: [equity-in-ai-education]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/10.1016_j.ijme.2026.101394.md']
 confidence: high
 discipline: [business education]

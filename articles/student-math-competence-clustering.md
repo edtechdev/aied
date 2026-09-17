@@ -14,7 +14,7 @@ audience: [learners]
 level: [secondary, k 12]
 sources: ['raw/papers/2607.26063.md']
 confidence: high
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** On 119,034 students across 13 UK national exams, Bernoulli Mixture Models found few distinct skill clusters — overall ability dominates. A simple explainable model achieved 78% accuracy, competitive with complex approaches. Small personalization gains are possible by accounting for individual question-level strengths, but students don't develop strongly divergent ability profiles across topics.

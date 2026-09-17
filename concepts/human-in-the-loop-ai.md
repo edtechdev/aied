@@ -11,7 +11,6 @@ assessment: [assessment, benchmark]
 stakeholders: [pedagogical-safety]
 research_method: [benchmark]
 level: [higher ed, k 12]
-category: [assessment]
 confidence: medium
 ---
 

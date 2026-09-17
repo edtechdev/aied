@@ -10,7 +10,6 @@ technology: [generative-ai]
 assessment: [assessment, formative-assessment]
 research_method: [theoretical analysis]
 level: [higher ed, k 12]
-category: [instructional design, assessment]
 sources: ['raw/papers/halani-designing-for-reach-2026.md']
 confidence: high
 audience: [instructors, instructional designers]

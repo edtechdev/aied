@@ -10,7 +10,6 @@ ethics: [bias-mitigation, equity-in-ai-education]
 audience: [administrators, instructors]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/end-of-assessment-ai-disruption-transformation-2026.md']
 confidence: medium
 

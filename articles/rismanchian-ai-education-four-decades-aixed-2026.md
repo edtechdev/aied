@@ -11,7 +11,7 @@ sources: ['raw/papers/rismanchian-ai-education-four-decades-aixed-2026.md']
 confidence: high
 research_method: [literature review, theoretical analysis]
 audience: [researchers]
-category: [synthesis, framework]
+page_kind: [synthesis, framework]
 ---
 
 > **Synthesis:** Rismanchian & Doroudi (2025) present the **AI×Ed framework**, a two-axis typology for categorizing the diverse relationships between AI and education — the *role of AI* (applied tool vs. analogy to human intelligence) and the *end user* (researcher to learner) — yielding four quadrants that capture distinct forms of AIED research. They apply the framework to trace the evolution of the [[ai-education|Artificial Intelligence in Education]] field across four decades by locating papers from the AIED proceedings (1985, 1993, 2021, 2024) and the *International Journal of Artificial Intelligence in Education* (2004, 2014, 2021). Their central finding is that the field has moved from a diverse mix of work — including substantial early research treating AI as an analogy to [[metacognition|human intelligence and learning]] — toward an almost exclusive focus on instrumental, applied uses of AI, a trajectory that the rise of [[generative-ai|generative AI]] and [[llm|large language models]] may now help partially reverse. The paper contributes a [[theory-development-aied|conceptual framework]] for [[history-of-aied|historicizing the field]] and a corpus-level [[research-methods-aied|research-methods]] lens for examining how AIED's research agenda has shifted over time.

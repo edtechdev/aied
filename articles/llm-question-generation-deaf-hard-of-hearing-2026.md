@@ -16,7 +16,6 @@ level: [special education, k 12, higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100615.md']
 confidence: high
 discipline: [language learning]
-category: [equity, instructional design]
 ---
 
 > **Synthesis:** Si Chen, Shuxu Huffman, Qingxiaoyang Zhu, Haotian Su, Qi Wang, & Raja Kushalnagar (2026) designed and evaluated an [[llm]]-powered question-generation system tailored to [[inclusive-learning|Deaf and Hard of Hearing (DHH) learners]] for [[video-education|video-based learning]]. The study uses Language Deprivation Theory to uncover risks in learner–LLM interactions and derive design implications.

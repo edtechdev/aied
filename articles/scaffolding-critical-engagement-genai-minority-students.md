@@ -13,7 +13,6 @@ research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/2607.28630.md']
 confidence: high
-category: [equity, collaborative learning]
 ---
 
 > **Synthesis:** **Deliang Wang, Cunling Bian** — AIED 2026 (accepted full paper).

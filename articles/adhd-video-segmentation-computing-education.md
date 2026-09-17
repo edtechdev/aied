@@ -10,7 +10,6 @@ ethics: [inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [experiment]
 discipline: [cs education]
-category: [instructional design]
 sources: ['raw/papers/2607.24612.md']
 confidence: high
 audience: [instructional designers, instructors]

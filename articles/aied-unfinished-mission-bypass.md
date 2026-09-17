@@ -14,7 +14,6 @@ audience: [learners, instructors]
 
 sources: ['raw/papers/2607.05557.md']
 confidence: high
-category: [ai foundations, engagement]
 ---
 
 > **Synthesis:** The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge [[ai-education|AIED]] has long engaged with but must now confront directly: ensuring learners choose effortful [[student-engagement|engagement]] when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established [[motivation|motivational]] and [[learning-theories|learning theories]], I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying process-based assessment, and empowering teachers. I then share four envisioned [[ai-technologies|technologies]] that embody key features of this future and conclude by outlining how AIED must now evolve.

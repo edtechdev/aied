@@ -6,7 +6,7 @@ weight: 55
 tags: [research-methods-aied, ai-ed-evaluation, assessment, self-report-measures]
 assessment: [ai-ed-evaluation, assessment, research-methods-aied, self-report-measures]
 research_method: [research methods]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 # What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?

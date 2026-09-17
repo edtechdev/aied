@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.24709.md']
 confidence: high
 audience: [teachers, students]
 level: [higher ed]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Levy, Glazer, Finkelstein & Ben-Zion (2026) show how a structured natural-language prompt can generate a browser-based, hand-controlled **augmented-reality (AR) physics simulation** — spread your thumb and index finger and a virtual lamp changes color — and describe its use in an introductory physics class. Computer [[simulation|simulations]] have a long record of supporting physics learning by making abstract concepts interactive, and [[generative-ai|generative AI]] now lowers the barrier to creating customized, embodied, interactive simulations. Grounded in [[research-methods-aied|research]] on [[embodied-learning|embodied cognition]], the paper demonstrates a reusable four-element prompt structure that lets teachers and students with no coding background build working AR tools through [[prompt-engineering|iterative refinement in natural language]], connecting to [[physics-education]], [[simulation]], and [[stem-education]].

@@ -14,7 +14,7 @@ discipline: [math education]
 level: [k 12]
 confidence: high
 audience: [edtech designers, instructors]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 ---
 

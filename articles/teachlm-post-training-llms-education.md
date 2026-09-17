@@ -10,7 +10,6 @@ ethics: [privacy]
 audience: [software developers]
 research_method: [system development]
 confidence: high
-category: [ai foundations, instructional design]
 sources: [raw/papers/2510.05087.md]
 ---
 

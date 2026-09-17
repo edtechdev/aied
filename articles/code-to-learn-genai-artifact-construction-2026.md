@@ -13,7 +13,7 @@ level: [k 12]
 sources: ['raw/papers/code-to-learn-genai-artifact-construction-2026.md']
 confidence: medium
 audience: [teachers, curriculum designers, instructional designers]
-category: [framework, instructional design]
+page_kind: [framework]
 ---
 
 > **Synthesis.** Gousopoulos (2026) proposes Code-to-Learn with Generative AI (CtL-GenAI), a conceptual framework for upper-secondary students aged roughly 15 to 18 who build software with AI to learn a domain ([[physics-education|physics]], environmental science) rather than to learn programming itself. It deliberately synthesises [[constructivist|constructionism]], [[cognitive-offloading|cognitive load]] theory, [[self-regulated-learning|self-regulated learning]], the ICAP model of cognitive [[student-engagement|engagement]], and sociocultural [[scaffolding]]. Its organizing claim is that *the AI writes the code, but the student writes the model* — the student retains authorship of the specification, the conceptual structure, verification against the world, and interpretation of results, while delegating only syntax and boilerplate. This is operationalized as six design principles and a five-phase instructional cycle (Frame, Specify, Co-construct, Validate, Reflect and Share), with an ICAP-based diagnostic for classifying student–[[student-ai-interaction|AI interaction]].

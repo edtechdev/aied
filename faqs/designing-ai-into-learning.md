@@ -6,7 +6,6 @@ weight: 72
 tags: [pedagogy, learning-design, active-learning, scaffolding, reducing-ai-misuse]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-category: [instructional design]
 ---
 
 # How Should AI Be Designed Into the Learning Experience?

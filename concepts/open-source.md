@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-17T15:42:00-04:00"
 type: concept
 tags: [llm, open-source, intelligent-tutoring, adaptive-learning, edtech-platform, generative-ai, ai-education, curriculum-design, privacy, benchmark, agentic-ai, automated-assessment, writing-education]
 foundations: [agentic-ai, ai-education, curriculum-design]
@@ -11,7 +11,6 @@ stakeholders: [edtech-platform, open-source]
 ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
-category: [curriculum design]
 confidence: medium
 ---
 
@@ -53,7 +52,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 ### Benefits and burdens
 
 - **Benefits.** Data sovereignty and regulatory compliance ([[privacy]], [[regulation]]) through local hosting; cost control, since local inference has no per-query fee and open models approach proprietary quality at a fraction of the price ([[singh-eduqwen-pedagogical-rl-2026]]); reproducibility, because the framework, prompts, content, and data can ship with the paper ([[oatutor-open-source-adaptive-tutor-2023]], [[astra-multi-agent-tutoring-benchmark-2026]]); auditability and safety review under [[governance|institutional governance]]; and the ability to fine-tune for a specific [[pedagogy]] or a specific community's knowledge base ([[iks-instruct-dataset-indian-knowledge]]).
-- **Burdens.** Local hosting requires hardware and expertise many institutions do not have; quality and [[pedagogical-safety|safety]] are not guaranteed out of the box — open models may trail human baselines on specific literacies ([[mllm-scientific-visualization-literacy]]) and quantization raises hallucination rates unless mitigated ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]); someone must maintain the system after publication ([[programming-its]] documents a small PhD-student team, work-in-progress security exposure, and a substantial compliance burden); and an open license is a permission, not a working product.
+- **Burdens.** Local hosting requires hardware and expertise many institutions do not have; quality and [[pedagogical-safety|safety]] are not guaranteed out of the box — open models may trail human baselines on specific literacies ([[mllm-scientific-visualization-literacy]]) and quantization raises hallucination rates unless mitigated ([[shen-sustainable-ai-knowledge-base-cs-education-2026]]); someone must maintain the system after publication ([[programming-its]] documents a small PhD-student team, work-in-progress security exposure, and a substantial compliance burden); and an open license is a permission, not a working product — the maintenance that keeps a released system usable falls to whichever [[educational-technology-developers]] built it, and their funding and incentives decide whether a forkable repository, a maintained product, or neither is what an institution inherits when the grant ends.
 
 ### Putting openness into practice
 
@@ -79,6 +78,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 - [[research-methods-aied]]
 - [[writing-education]]
 - [[academic-integrity]]
+- [[educational-technology-developers]]
 
 ## Connected Articles
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — On-premise OER AI knowledge-base assistant on consumer hardware (Shen et al. 2026)

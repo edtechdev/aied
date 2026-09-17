@@ -9,7 +9,6 @@ technology: [ai-technologies, generative-ai]
 ethics: [ethics]
 research_method: [qualitative, secondary analysis]
 level: [higher ed]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/2608.05898.md']
 confidence: medium
 discipline: [cs education]

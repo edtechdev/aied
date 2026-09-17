@@ -14,7 +14,7 @@ audience: [learners]
 sources: ['raw/papers/10.1016_j.compcom.2025.102921.md']
 confidence: high
 level: [higher ed]
-category: [assessment, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Sperber et al. (2025) present the Peer and AI Review + Reflection (PAIRR) model, a human-centered approach to formative assessment that combines peer review best practices with AI review while emphasizing [[agency|student agency]] and reflection. In the largest study of college students' use of AI feedback to date (N = 654 across 10 writing courses and three writing-intensive [[stem-education|STEM]] courses at UC Davis), they found that AI feedback is most useful when combined with peer review: the majority of students preferred combined feedback, found the similarity between AI and [[peer-assessment|peer feedback]] reassuring, valued their complementary perspectives, and developed AI literacy by critically assessing AI outputs.

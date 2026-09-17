@@ -14,7 +14,7 @@ research_method: [benchmark]
 discipline: [physics education, science education]
 audience: [researchers, assessment professionals]
 level: [higher ed]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** A team of Yale physicists re-graded six widely used [[benchmark|benchmarks]] with domain experts and found that the low scores commonly cited as evidence that frontier [[llm|models]] "struggle with physics" are largely artifacts of broken benchmark materials and grading. Across 250 audited rejections in four benchmark subsets, 143 (57.20%) were benchmark errors, 95 (38.00%) were grader errors, and only 12 (4.80%) were genuine model errors. After correcting reference solutions and repairing or excluding defective questions, GPT-5.6-Sol's mean@4 rose from 47.3% to 78.7% on HLE-Physics and from 61.0% to 87.2% on CMT-Benchmark, with pass@4 of 94.4% on the 54 retained CritPt challenges. The result reframes [[ai-ed-evaluation|AI evaluation]] as an [[assessment-validity|assessment validity]] problem: when a model's true error rate falls below a benchmark's defect rate, the scorecard measures the benchmark, not the model. The authors argue that near-saturation on closed-ended problem-set physics makes existing instruments inadequate as evidence of [[science-education|scientific reasoning]] capability.

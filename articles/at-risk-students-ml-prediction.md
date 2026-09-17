@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/2606.20617.md']
 confidence: medium
 audience: [administrators, institutions]
-category: [evaluation, equity]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Gheisari and Salarian (2026) apply supervised [[reinforcement-learning|machine learning]] classification to identify at-risk students before they withdraw from higher education programs. The study evaluates Logistic Regression, Random Forest, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN) using [[learning-gains|academic performance]], demographic data, and enrollment records. Logistic Regression and linear SVM achieved the highest predictive accuracy, demonstrating ML's capability to detect at-risk students for proactive intervention. This [[learning-analytics]] [[research-methods-aied|research]] contributes to [[student-modeling]] for dropout-reduction in [[higher-ed]] contexts, providing a data-driven foundation for strategic retention decisions and connecting to the broader [[ai-adoption-training-public-sector]] discussion on AI-supported institutional decision-making.

@@ -11,7 +11,6 @@ assessment: [ai-detection, assessment, assessment-validity, authentic-assessment
 audience: [instructors, administrators]
 research_method: [theoretical analysis, position paper]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high
 

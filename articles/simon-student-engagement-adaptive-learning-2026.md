@@ -11,7 +11,7 @@ sources: ['raw/papers/simon-student-engagement-adaptive-learning-2026.md']
 confidence: high
 audience: [learning designers, instructors]
 level: [higher ed, k 12]
-category: [engagement, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Simon, Zeng, and Fryer (2026) conducted a PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] of the factors that shape [[student-engagement]] in [[adaptive-learning]] platforms and of which engagement types dominate the literature. Searching six databases for 2012–2022 and retaining 44 peer-reviewed studies, they applied a hybrid inductive/deductive thematic analysis organized around a four-component engagement framework (behavioral, [[affective-computing|affective]], cognitive, agentic). Four overarching themes emerged — system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions. Behavioral engagement was the most discussed type, agentic engagement the least, [[prompt-engineering|prompting]] the authors to call for an extended engagement framework for human–computer interaction. All four themes were found to interact, and most factors ultimately trace back to system design.

@@ -12,7 +12,7 @@ confidence: high
 research_method: [systematic review, meta-analysis]
 audience: [educators, researchers, policymakers, curriculum designers]
 level: [k 12, higher ed, secondary, elementary]
-category: [synthesis]
+page_kind: [synthesis]
 discipline: [stem education]
 ---
 

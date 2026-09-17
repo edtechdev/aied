@@ -10,7 +10,7 @@ assessment: [ai-ed-evaluation, assessment-validity, educational-measurement, ite
 audience: [researchers, instructors]
 research_method: [educational measurement]
 level: [higher ed]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/jin-glat-genai-literacy-assessment.md']
 confidence: high
 ---

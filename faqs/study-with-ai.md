@@ -11,7 +11,6 @@ ethics: [trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [learners, students, instructors]
 level: [higher ed, secondary]
-category: [instructional design]
 ---
 
 # How Should I Use AI to Study and Learn Effectively?

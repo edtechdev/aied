@@ -15,7 +15,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.16115.md']
 confidence: high
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This short paper provides rare descriptive classroom evidence on what happens when students repeatedly use generative-AI feedback across a full semester of writing coursework. Drawing on 2,988 reflective essay-feedback-appraisal instances from 283 Estonian bachelor students, the authors find that students rated AI feedback as helpful and actionable more often than not, but a growing minority (about one in ten) found it unhelpful toward the end of the term. The work sits squarely in the [[ai-generated-feedback-higher-ed]] literature and complements prior [[ai-feedback-quality]] studies by tracking feedback appraisal longitudinally rather than in a one-off lab task.

@@ -12,7 +12,7 @@ ethics: [privacy]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/shen-sustainable-ai-knowledge-base-cs-education-2026.md']
 confidence: high
 level: [higher ed]

@@ -22,7 +22,6 @@ confidence: high
 research_method: [case study, qualitative, thematic analysis]
 audience: [educators, curriculum designers, faculty development]
 level: [higher ed]
-category: [curriculum design, equity, engagement]
 ---
 
 > **Synthesis:** Faculty at Purdue University's School of Information Studies employ a [[pedagogical-partnerships]] (Students as Partners) approach to co-design learning experiences with students, disrupting traditional top-down power dynamics in [[higher-ed]]. The paper documents three programs — SPIRaL, PAL (Partners for Algorithmic Literacy), and ISRA — each repositioning students as collaborators rather than consumers of expert knowledge. PAL is a direct alternative to deficit-based narratives about student misuse of generative AI, co-producing AI course policies, AI-integrated group projects, and specialized [[conversational-ai|chatbots]]. Grounded in Cook-Sather's values of respect, reciprocity, and responsibility, the work links [[pedagogical-partnerships]] to decolonizing and [[critical-thinking]]-oriented [[critical-pedagogy|critical pedagogy]] and critical information literacy.

@@ -16,7 +16,7 @@ sources: ['raw/papers/2605.16207.md']
 confidence: high
 discipline: [math education]
 level: [higher ed]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis.** Yasir et al. (2026) benchmark seven LLM tutoring agents on three-way, step-level diagnosis — classifying a student's next proof step as optimal, valid-alternative, or incorrect — across 10,836 [[simulating-students|LLM-simulated]] solution-feedback pairs grounded in a [[knowledge-graph]] solution space for propositional logic. Models hit near-ceiling performance on clearly optimal steps but systematically misfired exactly where adaptive tutoring matters: they over-rejected valid-but-suboptimal reasoning and over-validated incorrect solutions. These failures were driven by model selection rather than solution context, step complexity, or proof position, and accurate diagnosis did not reliably yield [[ai-feedback-quality|pedagogically actionable feedback]]. The authors argue for hybrid architectures in which [[knowledge-graph|KG-grounded]] models own diagnostic labeling while [[llm|LLMs]] support open-ended [[scaffolding]] and dialogue.

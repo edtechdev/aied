@@ -11,7 +11,7 @@ research_method: [survey, mixed methods, structural equation modeling]
 discipline: [business education]
 audience: [instructors, researchers, learning designers]
 level: [higher ed]
-category: [framework]
+page_kind: [framework]
 created: "2026-09-13T08:04:29-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 ---

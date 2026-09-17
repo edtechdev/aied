@@ -12,7 +12,7 @@ research_method: [benchmark, secondary analysis]
 audience: [learners]
 sources: ['raw/papers/2606.15766.md']
 confidence: high
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behavior into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.

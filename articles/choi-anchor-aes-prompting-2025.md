@@ -11,7 +11,6 @@ audience: [instructors, researchers]
 research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed, k 12]
-category: [assessment]
 sources: ['raw/papers/choi-anchor-aes-2025.md']
 confidence: high
 ---

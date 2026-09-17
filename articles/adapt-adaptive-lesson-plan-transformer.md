@@ -11,7 +11,6 @@ audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/2606.17633.md']
 confidence: high
-category: [curriculum design, instructional design]
 ---
 
 > **Synthesis:** Zhang et al. (2026) present AdaPT, an adaptive lesson-plan transformer that adapts lesson plans across regional and differentiated instruction contexts. It improves teacher efficiency while maintaining [[pedagogy|pedagogical]] alignment with local curricula — addressing the problem that high-quality lesson plans often mismatch disparate educational contexts, and that current tools generate content from scratch rather than adapting existing plans, increasing teacher workload.

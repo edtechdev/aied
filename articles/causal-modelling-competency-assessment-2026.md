@@ -7,7 +7,6 @@ tags: [educational-measurement, student-modeling, assessment, item-response-theo
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]
-category: [assessment]
 sources: ['raw/papers/causal-modelling-competency-assessment-2026.md']
 confidence: high
 discipline: [cs education]

@@ -10,7 +10,6 @@ assessment: [assessment]
 research_method: [qualitative, interviews]
 audience: [instructors, faculty development]
 level: [higher ed]
-category: [assessment, curriculum design]
 sources: ['raw/papers/nicola-richmond-programwide-assessment-genai-2025.md']
 confidence: medium
 ---

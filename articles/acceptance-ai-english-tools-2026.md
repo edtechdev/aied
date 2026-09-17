@@ -11,7 +11,6 @@ research_method: [survey]
 discipline: [language learning]
 audience: [instructors]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/10.3389_fpsyg.2026.1806457.md']
 confidence: high
 ---

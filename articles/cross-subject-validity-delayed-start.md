@@ -10,7 +10,6 @@ assessment: [formative-assessment]
 stakeholders: [regulation]
 research_method: [experiment]
 level: [higher ed]
-category: [engagement]
 sources: ['raw/papers/2606.25308.md']
 confidence: high
 audience: [instructors, learning analytics designers, researchers]

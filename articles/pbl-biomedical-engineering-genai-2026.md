@@ -10,7 +10,6 @@ technology: [generative-ai]
 research_method: [case study]
 discipline: [engineering education]
 level: [higher ed]
-category: [curriculum design]
 sources: ['raw/papers/pbl-biomedical-engineering-genai-2026.md']
 confidence: medium
 audience: [curriculum designers, instructors, medical educators]

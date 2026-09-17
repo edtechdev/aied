@@ -12,7 +12,7 @@ level: [higher ed, teacher training]
 sources: ['raw/papers/10.3389_fpsyg.2026.1853510.md']
 confidence: high
 discipline: [language learning, english education]
-category: [instructional design, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Ismael, Luo, and Li (2026) test a 10-week AI-supported e-mentoring model with 50 second-year [[language-learning|EFL]] pre-service teachers during their practicum in Egypt, pairing structured human mentoring, collaborative digital platforms, and AI-driven feedback via Gemini. The experimental group outperformed a conventional-practicum control group on both [[self-efficacy]] and trait [[social-emotional-learning|emotional intelligence]], with large effects, while interviews and weekly reflective logs show a move from control-oriented to student-centered, reflective practice. The authors frame AI as an augmentation of human mentoring rather than a replacement, attributing the gains to an integrated ecosystem of reflection, peer collaboration, and feedback.

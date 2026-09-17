@@ -11,7 +11,7 @@ research_method: [quantitative, survey, educational measurement]
 discipline: [science education]
 audience: [teacher educators, educators, researchers, policymakers, curriculum designers, administrators]
 level: [higher ed, teacher training]
-category: [framework, evaluation, equity]
+page_kind: [framework, evaluation]
 sources: ['raw/papers/ai-training-science-teacher-tpack-distance-2026.md']
 confidence: high
 ---

@@ -14,7 +14,6 @@ level: [higher ed]
 sources: ['raw/papers/10.1007_s10648-026-10118-7.md']
 confidence: high
 audience: [instructors, instructional designers]
-category: [collaborative learning, instructional design]
 ---
 
 > **Synthesis:** Wong and Qiu (2026) ask whether ChatGPT's boost to [[creativity|creative performance]] translates into durable learning, or only inflates assisted output. University students (N = 196) solved a product-improvement task either independently (human-only), using ChatGPT freely (general-AI), or with a guided **"think first, ChatGPT later"** approach (regulated-AI) in which they first generated their own ideas, then collaborated with ChatGPT to improve, develop, and evaluate them. On the assisted task the general-AI group produced more creative solutions — but this advantage vanished on a later, harder invention task completed without ChatGPT, where their creativity fell back to human-only levels. In striking contrast, the regulated-AI group, despite no immediate gains, outperformed both other groups in *independent* creativity afterward. Process analyses showed the regulated-AI group used far more [[human-ai-collaboration|collaborative]] prompts aimed at improving their own initial ideas, and this greater use mediated their later advantage in independent originality.

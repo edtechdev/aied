@@ -10,7 +10,6 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, feedback-liter
 research_method: [experiment, mixed methods, systematic review]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-category: [assessment]
 ---
 
 # How Can AI Help Me Give Better Feedback at Scale?

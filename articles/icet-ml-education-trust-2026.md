@@ -13,7 +13,7 @@ research_method: [theoretical analysis, position paper]
 discipline: [cs education]
 audience: [educators, curriculum designers, researchers]
 level: [k 12]
-category: [framework, curriculum design]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Haritz, Krone, and Liebig (2026) argue that two problems in [[k-12|machine-learning education]] are actually one: educational tools that present ML as an opaque black box leave learners with superficial understanding, and that same opacity prevents them from forming the calibrated trust that appropriate reliance on AI demands. They propose **ICE-T**, a didactic framework uniting intermodal transfer (grounded in Bruner's enactive, iconic, and symbolic modes), [[computational-thinking]] (operationalized through Use-Modify-Create), and explanatory thinking (supported by a process model). Connecting these facets to [[research-methods-aied|research]] on algorithm aversion, [[ai-literacy]], and [[trust-calibration|trust]] formation, they argue that ICE-T supplies the cognitive mechanisms the trust-calibration literature identifies as drivers of appropriate reliance — representational richness, graduated process control, and the capacity to contextualize errors — and that trust calibration should therefore be treated as an explicit objective of ML education.

@@ -12,7 +12,7 @@ level: [higher ed]
 
 sources: ['raw/papers/2607.11873.md']
 confidence: medium
-category: [evaluation, assessment]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Re-running a previously validated Spanish teaching-feedback classification protocol across three representation generations — sparse lexical features, frozen transformer embeddings, and prompted LLMs — shows that the *procedure* survives as models change, while the choice of model is a cost-and-auditability deployment decision. The 2026 frontier model wins the hardest Spanish thematic task but buys no sentiment advantage over a cheaper model in either Spanish or English.

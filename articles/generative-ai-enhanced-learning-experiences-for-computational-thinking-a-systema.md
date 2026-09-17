@@ -10,7 +10,6 @@ assessment: [meta-analysis-systematic-review]
 research_method: [systematic review]
 discipline: [cs education]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema.md']
 confidence: high
 audience: [educators, instructional designers, researchers]

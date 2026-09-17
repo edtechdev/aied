@@ -8,7 +8,6 @@ foundations: [learning-design]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-graph, learning-analytics, llm, personalized-learning, student-modeling]
 stakeholders: [edtech-platform]
 research_method: [theoretical analysis]
-category: [instructional design]
 confidence: medium
 audience: [software developers, instructional designers]
 sources: [raw/papers/ontology-layered-hybrid-knowledge-model-personalized-elearning-2026.md]

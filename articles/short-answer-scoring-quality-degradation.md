@@ -12,7 +12,7 @@ research_method: [benchmark, experiment]
 sources: ['raw/papers/2605.07647.md']
 confidence: medium
 audience: [assessment professionals, assessment designers]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Schleifer, Ariely & Klebanov (2026) investigate a critical gap in [[automated-assessment|Automated Grading]]: **how scoring quality degrades for mid-range student responses**. Most ASAS evaluations focus on clearly correct or incorrect answers, but real classrooms are dominated by partially correct responses where scoring is most challenging.

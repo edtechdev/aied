@@ -9,7 +9,6 @@ technology: [generative-ai]
 assessment: [design-based-research]
 research_method: [instrument development, system development, user study]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/aper-chatbot-collective-efficacy.md']
 confidence: high
 audience: [instructional designers, instructors, edtech designers]

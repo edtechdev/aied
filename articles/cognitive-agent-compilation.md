@@ -10,7 +10,7 @@ audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/2605.07040.md']
 confidence: medium
-category: [framework, ai foundations]
+page_kind: [framework]
 ---
 
 > **Synthesis:** **Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher [[llm]] to compile [[problem-solving]] knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:

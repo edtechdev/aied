@@ -8,7 +8,7 @@ technology: [generative-ai, llm]
 assessment: [ai-ed-evaluation, assessment, benchmark]
 connected_faqs: [reporting-interpreting-aied-research]
 research_method: [benchmark]
-category: [evaluation, assessment]
+page_kind: [evaluation]
 confidence: high
 ---
 

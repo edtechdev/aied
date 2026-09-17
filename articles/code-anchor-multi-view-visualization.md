@@ -14,7 +14,6 @@ audience: [learners]
 sources: ['raw/papers/2606.19570.md']
 confidence: high
 level: [higher ed]
-category: [engagement, instructional design]
 ---
 
 > **Synthesis:** Students spent ~47% of gaze time on code despite [[scaffolding|visual scaffolds]]. Three factors shape selective engagement with multi-representational tools: **[[agency|Agency]]** (students want control over cognitive effort), **Representational Fit** (the same design feels helpful to some and overwhelming to others), and **Legitimacy** (metaphorical scaffolds are perceived as childish at university level).

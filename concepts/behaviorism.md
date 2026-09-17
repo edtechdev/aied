@@ -8,7 +8,6 @@ foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
-category: [instructional design]
 confidence: medium
 ---
 

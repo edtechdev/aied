@@ -11,8 +11,6 @@ connected_faqs: [ai-guidance-children-under-13]
 audience: [researchers, instructors]
 research_method: [quasi-experiment, design-based research]
 level: [higher ed]
-category: [assessment]
-
 sources: ['raw/papers/tandf-2026-moral-panic-genai.md']
 confidence: high
 ---

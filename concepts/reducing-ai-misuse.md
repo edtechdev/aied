@@ -9,7 +9,6 @@ foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
-category: [assessment]
 confidence: high
 ---
 

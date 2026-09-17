@@ -8,7 +8,6 @@ foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
 stakeholders: [educational-policy-ai, governance]
 ethics: [equity-in-ai-education, trust]
-category: [assessment, policy]
 ---
 
 # Should We Use AI Detectors?

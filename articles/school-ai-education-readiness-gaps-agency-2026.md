@@ -10,7 +10,6 @@ ethics: [digital-divide, equity-in-ai-education]
 research_method: [longitudinal study]
 audience: [instructors, administrators, policymakers, learners]
 level: [k 12]
-category: [equity]
 sources: ['raw/papers/school-ai-education-readiness-gaps-agency-2026.md']
 confidence: high
 ---

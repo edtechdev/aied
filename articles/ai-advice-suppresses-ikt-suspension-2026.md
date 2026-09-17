@@ -11,7 +11,6 @@ assessment: [assessment]
 ethics: [bias-mitigation, trust-calibration]
 audience: [researchers]
 research_method: [experiment]
-category: [assessment]
 sources: ['raw/papers/ai-advice-suppresses-ikt-suspension-2026.md']
 confidence: medium
 level: [adult learning]

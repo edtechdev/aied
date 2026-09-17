@@ -10,7 +10,6 @@ ethics: [bias-mitigation]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [writing education, language learning]
-category: [assessment]
 sources: ['raw/papers/gpt-human-rater-essay-assessment-2026.md']
 confidence: high
 level: [higher ed]

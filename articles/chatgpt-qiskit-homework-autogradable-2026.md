@@ -9,7 +9,6 @@ technology: [generative-ai, llm]
 assessment: [assessment, automated-assessment]
 research_method: [benchmark]
 discipline: [cs education]
-category: [assessment]
 sources: ['raw/papers/chatgpt-qiskit-homework-autogradable-2026.md']
 confidence: high
 audience: [instructors, assessment designers]

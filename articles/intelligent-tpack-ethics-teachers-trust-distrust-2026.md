@@ -12,7 +12,7 @@ research_method: [qualitative, case study]
 level: [k 12]
 sources: ['raw/papers/intelligent-tpack-ethics-teachers-trust-distrust-2026.md']
 confidence: high
-category: [ai foundations, framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Ocak and Caskurlu (2026) use an exploratory [[qualitative-research|qualitative]] multiple case study to explore how in-service [[k-12]] teachers' technical knowledge of AI relates to their [[trust]] in using [[ai-education|AI in education]], and how this trust is shaped by ethical perceptions. Framed within the [[ethics]] dimension of the intelligent-[[tpack]] framework (Celik, 2023), the study examines four ethical constructs — transparency, [[bias-mitigation|fairness]], accountability, and inclusiveness — as indicators of ethical AI, and analyzes how teachers' trust plays out relative to these constructs. Drawing on written reflections from seven purposively selected in-service teachers (categorized into lower, moderate, and higher-trust groups) following a two-week, AI-focused online asynchronous learning module, the findings suggest that without solid foundational technical knowledge, teachers struggle to recognize how human decisions shape AI systems — a prerequisite for trusting and evaluating them. The ethical constructs proved deeply interconnected and dynamic (fairness and accountability often emerging together), yet transparency and human accountability in decision-making received far less attention than fairness, inclusiveness, and accountability.

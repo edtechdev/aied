@@ -12,7 +12,6 @@ stakeholders: [professional-training]
 discipline: [design education]
 audience: [educators, designers, curriculum designers, faculty development]
 level: [higher ed]
-category: [design thinking, curriculum design]
 confidence: high
 ---
 

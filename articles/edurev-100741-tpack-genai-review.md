@@ -11,7 +11,6 @@ stakeholders: [student-experience, teacher-ai-competency, tpack]
 research_method: [meta-analysis, systematic review]
 audience: [learners, faculty development]
 level: [higher ed, k 12]
-category: [instructional design, assessment]
 sources: ['raw/papers/edurev-100741-tpack-genai-review.md']
 confidence: high
 ---

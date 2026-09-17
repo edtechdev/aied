@@ -11,7 +11,6 @@ stakeholders: [change-management]
 research_method: [case study]
 discipline: [business education]
 level: [higher ed]
-category: [curriculum design, instructional design, assessment]
 sources: ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
 confidence: medium
 audience: [instructors, curriculum designers, faculty development]

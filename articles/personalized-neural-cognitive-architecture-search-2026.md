@@ -11,7 +11,7 @@ confidence: medium
 research_method: [system development, learning analytics]
 audience: [assessment designers, learning analytics designers, researchers]
 level: [higher ed]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Jia and Dong propose an AutoML-driven framework for automated generation of personalized neural [[cognitive-diagnosis|cognitive diagnosis]] models, addressing the difficulty of turning large-scale, multi-source learning-process data into valid diagnostic evidence for heterogeneous learner profiles. The framework connects three [[ai-technologies|technologies]]: heterogeneous information network (HIN) representation to fuse [[multimodal|multi-modal]] educational data into dynamic learner profiles, a hierarchical neural architecture search (NAS) space constrained by the functional structure of cognitive diagnosis, and differentiable architecture search accelerated by a variational Bayesian performance predictor. In their taxonomy, [[student-modeling|learner modeling]] supplies the representational foundation, cognitive diagnosis infers mastery states and [[misconceptions]], while recommendation and [[teacher-role|teaching]] quality monitoring are treated as downstream applications rather than optimization targets.

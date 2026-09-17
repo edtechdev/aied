@@ -12,7 +12,7 @@ sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']
 confidence: high
 discipline: [writing education, language learning]
 audience: [assessment designers, teacher educators]
-category: [assessment, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Oktoma, Nugraha and Hidayat (2026) introduce the Authentic AI-Assisted [[authentic-assessment|Writing Assessment]] (AAIWA) model, integrating authentic rubric-based assessment, condition-responsive [[ai-feedback-quality]], and structured [[metacognition]] reflection as a unified recursive architecture within Indonesian [[teacher-education]] education. Existing models treat these components additively, creating a design gap that is especially acute in underrepresented [[global-south|Global South]] contexts. AAIWA computationally embeds rubric criteria within the [[feedback]] engine and positions structured reflection as a dynamic input that recalibrates subsequent feedback cycles, rather than a post-hoc add-on. The prototype is a constrained hybrid system: a rule-based NLP layer governs all pedagogically consequential decisions while GPT-3.5-turbo serves exclusively as a language-articulation module, so "condition-responsive" feedback denotes rule-conditioned responsiveness, not autonomous [[llm]] reasoning. In a [[mixed-methods-research|mixed-methods]] R&D design with 75 pre-service teachers across three Indonesian universities across four iterative writing cycles, [[writing-education|academic writing]] improved substantially (d = 0.92) and metacognitive reflection rose (d = 0.98), with a moderate writing–reflection correlation (r = .54) offering partial mechanistic support for the integrated design.

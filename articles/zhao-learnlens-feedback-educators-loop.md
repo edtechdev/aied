@@ -10,8 +10,6 @@ assessment: [ai-feedback-quality, feedback]
 research_method: [system development]
 discipline: [stem education]
 audience: [instructors]
-category: [curriculum design]
-
 sources: ['raw/papers/zhao-learnlens-feedback-educators-loop.md']
 confidence: high
 level: [secondary]

@@ -13,7 +13,7 @@ confidence: high
 research_method: [position paper, theoretical analysis]
 audience: [educators, teachers, researchers, designers]
 level: [k 12]
-category: [framework]
+page_kind: [framework]
 ---
 
 > **Synthesis:** Christ, Riedl, Schmid, Zürcher and Thilo (2026) argue that [[educational-robotics|social robots]] can act as embodied [[pedagogy|pedagogical]] partners in post-pandemic European classrooms, where rising child and adolescent mental-health problems coincide with shortages of teachers, school psychologists and [[special-education]] staff. The paper is conceptual and reports no new data: it synthesises research on [[embodied-learning|embodied cognition]], touch and physical play, [[social-emotional-learning]], and child–robot interaction into a 4E cognition heuristic (embodied, embedded, enacted, extended), then uses design-thinking workshops with a seven-expert team to derive five types of classroom robots anchored in the Swiss MindMatters mental-health program. The five types run from non-interactive demonstration to one-on-one empathic dialogue, each mapped onto competence domains and paired with [[ethics|ethical safeguards]]. The contribution is a generative design space for future evaluation, not evidence of effectiveness.

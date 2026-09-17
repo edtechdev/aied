@@ -13,7 +13,6 @@ audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2606.16626.md']
 confidence: high
-category: [assessment, instructional design]
 ---
 
 > **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, overreliance, and [[academic-integrity|academic integrity]]. Analyzes two dominant metaphors — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.

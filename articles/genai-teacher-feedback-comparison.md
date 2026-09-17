@@ -12,8 +12,6 @@ stakeholders: [student-experience]
 research_method: [mixed methods]
 audience: [learners]
 level: [higher ed]
-category: [assessment, equity]
-
 sources: ['raw/papers/tandf-2026-genai-teacher-feedback-comparison.md']
 confidence: high
 ---

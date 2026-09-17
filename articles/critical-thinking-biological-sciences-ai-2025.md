@@ -12,7 +12,7 @@ discipline: [biology education]
 level: [higher ed]
 sources: ['raw/papers/critical-thinking-biological-sciences-ai-2025.md']
 confidence: high
-category: [synthesis, instructional design]
+page_kind: [synthesis]
 ---
 > **Synthesis:** Papaneophytou and Nicolaou (2025) — a narrative review in *Trends in Higher Education* — argue that as AI increasingly shapes biological research and decision-making, **[[critical-thinking|critical thinking]] in the [[biology-education|biological sciences]]** must be deliberately cultivated in [[higher-ed|higher education]]. While AI provides powerful tools for data interpretation and pattern recognition, **[[human-in-the-loop-ai|human oversight]] and [[critical-thinking|critical analysis]] remain indispensable** to validate findings and prevent the biases inherent in automated systems. The authors emphasize skepticism, contextual understanding, and [[ethics|ethical considerations]], and recommend strategically deploying AI tools (including [[conversational-ai|chatbots]]) within **[[active-learning|active-learning methods]]** such as [[problem-based-learning|problem-based learning]], flipped classrooms, and [[online-teaching-and-learning|online learning]] — while preserving direct [[human-in-the-loop-ai|human mentorship]]. 
 

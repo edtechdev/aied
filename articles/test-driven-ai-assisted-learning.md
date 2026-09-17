@@ -10,8 +10,6 @@ assessment: [assessment, automated-assessment]
 research_method: [case study, mixed methods]
 discipline: [cs education]
 level: [higher ed]
-category: [assessment]
-
 sources: ['raw/papers/2606.23315.md']
 confidence: medium
 audience: [instructors, instructional designers, administrators]

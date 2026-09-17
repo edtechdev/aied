@@ -10,7 +10,6 @@ technology: [generative-ai]
 audience: [instructors]
 research_method: [theoretical analysis]
 level: [k 12]
-category: [curriculum design, instructional design]
 sources: ['raw/papers/panciroli-ai-literacy-episodes-situated-learning.md']
 confidence: high
 ---

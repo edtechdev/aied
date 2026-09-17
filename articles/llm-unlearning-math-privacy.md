@@ -13,7 +13,6 @@ level: [k 12]
 sources: ['raw/papers/caeai-llm-unlearning-math.md']
 confidence: medium
 discipline: [math education]
-category: [ai foundations, policy]
 ---
 
 > **Synthesis:** Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for [[math-education|mathematics]] education

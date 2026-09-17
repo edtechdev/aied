@@ -12,7 +12,7 @@ confidence: medium
 discipline: [math education]
 audience: [instructional designers, researchers, edtech designers]
 level: [higher ed]
-category: [instructional design, evaluation]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** This study operationalizes the [[icap-framework|ICAP framework]] within an intelligent logic tutor by dynamically selecting worked examples that elicit different levels of [[student-engagement|cognitive engagement]]: *Guided* examples (active engagement, completing missing justifications) and *Buggy* examples (constructive engagement, identifying and repairing inserted errors). Two adaptive policies — a [[knowledge-tracing|Bayesian Knowledge Tracing (BKT)]] heuristic and a Deep [[reinforcement-learning|Reinforcement Learning (DRL)]] policy — are compared against a non-adaptive random baseline in a classroom study with 113 students. Both adaptive policies significantly improved posttest performance relative to control (effect size A = .58 for each), while inducing strikingly different scaffolding distributions: DRL strongly favored active Guided examples (~60% of training problems), whereas BKT's problem-type mix resembled control. The two adaptive methods diverged by [[prior-knowledge|prior knowledge]]: BKT produced the largest posttest gains for low prior-knowledge students and narrowed the achievement gap by 77.1%, while DRL yielded significantly higher posttest scores among high prior-knowledge students. The authors conclude that adapting the *type* of cognitive engagement is an effective instructional strategy, though the interpretability gap between BKT and DRL is a practical consideration.

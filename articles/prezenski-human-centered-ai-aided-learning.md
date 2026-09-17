@@ -13,7 +13,6 @@ level: [higher ed]
 
 sources: ['raw/papers/prezenski-human-centered-ai-aided-learning.md']
 confidence: high
-category: [ai foundations, equity]
 ---
 
 > **Synthesis:** A **narrative [[meta-analysis-systematic-review|literature review]]** by Sabine Prezenski (Institute for Innovation and Technology, Berlin) that asks how human-centered AI-aided learning actually is in education. It distinguishes **data-driven** from **rule-based** AI, reviews how AI fosters (or undermines) learning from cognitive and societal perspectives, and proposes steps to make AI a genuinely supportive tool rather than a hollowing force. The organizing device is the story of **"Maya,"** a student whose AI maths tutor boosts quiz scores but steadily erodes her independence, collaboration, empathy, and privacy — a cautionary frame for evaluating the whole field.

@@ -10,7 +10,6 @@ technology: [generative-ai]
 audience: [learners, instructors]
 research_method: [case study]
 level: [higher ed]
-category: [instructional design]
 sources: ['raw/papers/beck-genai-literacy-economics-hands-on.md']
 confidence: high
 discipline: [business education]

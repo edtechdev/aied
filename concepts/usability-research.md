@@ -7,7 +7,7 @@ connected_faqs: [designing-educational-ai-software]
 tags: [usability-research]
 assessment: [usability-research]
 research_method: [system development, user study, interviews]
-category: [evaluation]
+page_kind: [evaluation]
 confidence: high
 ---
 

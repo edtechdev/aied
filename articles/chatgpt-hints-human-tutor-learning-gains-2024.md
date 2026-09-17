@@ -15,7 +15,7 @@ sources: ['raw/papers/chatgpt-hints-human-tutor-learning-gains-2024.md']
 confidence: high
 audience: [instructional designers, edtech designers, researchers]
 level: [adult learning]
-category: [evaluation, instructional design]
+page_kind: [evaluation]
 ---
 
 > **Synthesis:** Pardos & Bhandari (2024) report a randomized efficacy study (N=274) comparing ChatGPT-generated hints to human tutor-authored hints and a no-help control across four [[math-education|mathematics]] subject areas. Only the ChatGPT condition produced statistically significant [[learning-gains|learning gains]] versus control, with no significant difference between ChatGPT and human-authored hints — and ChatGPT's 32% raw hint-error rate was reducible to near zero (algebra) or 13% (statistics) using the self-consistency hallucination-mitigation technique.

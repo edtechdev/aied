@@ -12,7 +12,7 @@ connected_faqs: [reporting-interpreting-aied-research]
 research_method: [qualitative, research methods]
 audience: [instructors, researchers]
 level: [k 12]
-category: [evaluation]
+page_kind: [evaluation]
 sources: ['raw/papers/2607.28890.md']
 confidence: high
 ---

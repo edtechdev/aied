@@ -11,8 +11,6 @@ stakeholders: [educational-policy-ai, student-experience]
 ethics: [equity-in-ai-education]
 audience: [learners]
 level: [higher ed]
-category: [assessment]
-
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 ---

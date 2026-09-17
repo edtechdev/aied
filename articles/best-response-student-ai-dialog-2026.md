@@ -10,7 +10,6 @@ ethics: [ai-misuse-learning-harm]
 research_method: [position paper]
 audience: [instructors]
 level: [higher ed]
-category: [assessment]
 sources: ['raw/papers/best-response-student-ai-dialog-2026.md']
 confidence: high
 ---
