@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-18T10:59:34-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -160,3 +160,4 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty on AI's present and future: 81% expect wider digital inequities, 26% do not use the tools
 - [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — South African HDIs: context as an epistemic principle, and equity as a condition of adoption
