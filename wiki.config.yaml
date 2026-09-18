@@ -128,6 +128,21 @@ scan:
       url: "https://osf.io/preprints/edarxiv/discover"
       query: "AI OR LLM OR generative education learning teaching tutoring"
       max_results: 20
+    # PsyArXiv has no RSS feed, and the OSF REST API cannot combine
+    # filter[subjects] with any other filter (all combinations return 0), so the
+    # discover page's SHARE/Trove search service is used instead. Fetcher:
+    # tooling/scripts/fetch-psyarxiv-edpsych.py
+    - name: PsyArXiv (Educational Psychology)
+      type: trove_search
+      url: "https://share.osf.io/trove/index-card-search"
+      provider: "https://osf.io/preprints/psyarxiv"
+      provider_name: PsyArXiv
+      subject_ids: ["https://api.osf.io/v2/subjects/584240d954be81056ceca992"]
+      subject_name: Educational Psychology
+      access_service: "https://osf.io/"
+      fetcher_script: tooling/scripts/fetch-psyarxiv-edpsych.py
+      max_results: 60
+      max_age_days: 3
   # Applied after retrieval; default_policy wins whenever the call is close.
   relevance_filter:
     include:
