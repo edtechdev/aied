@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-18T09:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -55,6 +55,8 @@ Two simple, interpretable indicators — premature hint requests and superficial
 ### Scaffolding how students ask
 
 Explicit training in **reasoning-focused help-seeking** — requesting stepwise hints and verification rather than final answers — produces better outcomes than uncritical reliance. In a quasi-experimental undergraduate statistics study, guided LLM access (with training on reasoning-oriented help-seeking) led to stronger independent performance and better self-assessment calibration than unrestricted LLM access. The lesson: **LLM access alone is an incomplete intervention**; the design challenge is to scaffold *how* students use AI so it functions as a reasoning partner rather than an answer-getting tool.([[guided-llm-scaffolding-independent-learning]])
+
+Interaction cost is part of the same question. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]] identify a **Referential Barrier** and an **Expressive Barrier** that stop pen-based learners from asking an [[llm|LLM]] anything at all: pointing at a diagram region or an equation term cannot be expressed in typed prose, and the effort of formulation lands exactly when a question is most fragile. Their Penquiry system resolves reference by snapping ink marks to document elements and expands sparse ink keywords into full queries through autocompletion; two iterative studies of 16 participants each found the cognitive and physical overhead of inquiry fell significantly. Whether lower asking cost produces *better* help-seeking or merely more of it is left open, and the authors propose temporally adaptive autocompletion — foundational verification early in a session, higher-level prompts later — as a route from reduced friction to [[scaffolding|fading support]] rather than a permanent crutch.
 
 ### Calibrating trust through transparency
 
@@ -113,6 +115,8 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 - [[agentic-ai]]
 
 ## Connected Articles
+
+- [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment

@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-18T09:40:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -42,6 +42,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 **Benchmarking multimodal AI on authentic physics problems.** [[omniphys-multimodal-physics-benchmark-2026|Chen et al. (2026)]] introduce **OmniPhys**, a large-scale [[multimodal]] [[benchmark]] (15,246 questions, 19,850 images) spanning middle-school through university-level physics from Chinese educational corpora. Unusually, it evaluates not just multimodal *input* comprehension but multimodal *output* generation — whether models can synthesize structured physics diagrams, a core component of authentic problem solving. Extensive evaluations reveal critical gaps in current multimodal LLMs, especially in complex reasoning and visual generation. 
 
 **Instructional-design frameworks for AI-augmented instruction.** **[[airis-cognitively-activated-ai-physics-2026|Kuhn et al.]]** propose the **AIRIS** framework (Activate–Inquire–Reflect with Intelligent Support) — a three-phase structure for cognitively activated AI use in physics: students predict and sketch expected outcomes before AI (Activate), delegate computational and representational steps to AI while critically comparing output to their own predictions (Inquire), and interpret, check consistency across representations, and reflect on what the AI contributed afterward (Reflect). Grounded in [[self-regulated-learning]], [[cognitive-offloading|Cognitive Load]] Theory, multiple external representations, and [[human-ai-collaboration]], it frames the central challenge as [[learning-design|instructional design]] rather than cheating or tool choice, and calls for "withdrawal condition" experiments testing whether learning survives the removal of AI support.
+
+**Generative video as synthetic experimental data.** [[genai-video-engineering-physics-workflow-2026|Alvarado-Cruz et al. (2026)]] generate video scenarios with PixVerse, Grok Imagine and Pippit for three resistive-force regimes — constant friction, linear drag and quadratic drag — extract the kinematics with the open-source Tracker tool, and fit the analytical models by non-linear least squares. The synthetic data agreed with the classical equations of motion and recovered physically meaningful parameters, and the recurring practical finding is that prompt specificity governs physical coherence: more detailed descriptions produced more coherent dynamics. The workflow mirrors experimental practice from model construction to quantitative validation, and reframes [[prompt-engineering|prompt formulation]] as a stage of experimental design rather than a convenience. What it does not yet demonstrate is learning: validation here is agreement between generated motion and the authors' models, not students' measurement judgment, so the approach inherits the [[assessment-validity|validity]] question any generated data used as evidence must answer.
 
 **Assisted performance vs. unaided knowledge in a redesigned course.** A 2026 redesign of the introductory nuclear and particle physics course at Ruhr University Bochum (Mikhasenko et al.) allowed [[generative-ai|generative AI]] on ten deliberately AI-resistant, research-shaped homework sheets designed so that naive [[prompt-engineering|prompting]] would not suffice. [[student-engagement|Engagement]] and ambition were high — 24 of 42 students earned credit on all ten sheets, and one derivation filled more than two meters of blackboard — but an unaided 90-minute written exam was a "serious warning": a mean of 20.6/80, with only two of 27 examinees reaching 40. The authors conclude that assisted performance and independently retrievable knowledge are distinct achievements that cannot be assumed to train or demonstrate each other, and that physics courses must reserve some practice for unaided work — reinforcing the knowledge base's broader [[transfer-of-learning|transfer]] evidence.
 
@@ -85,6 +87,8 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+
+- [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
