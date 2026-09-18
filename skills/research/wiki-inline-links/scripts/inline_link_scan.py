@@ -348,6 +348,8 @@ REJECT_PAIRS = {
     ('clinical', 'medical-education'),               # "clinical language", not medical teaching
     ('inclusion', 'inclusive-learning'),             # inclusion/exclusion criteria
     ('learning outcomes', 'learning-gains'),         # ILO construct, not measured gains
+    # --- 2026-09-17, psychology-assessment case study: false positives hand-reverted ---
+    ('language acquisition', 'language-learning'),    # a paper title, not the learner population
     ('authorship', 'academic-integrity'),            # authorship as attribution, not misconduct
     ('science', 'science-education'),                # bare "science" as a domain word
     ('deep learning', 'machine-learning'),           # deep learning as a model class, not ML page
