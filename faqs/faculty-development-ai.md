@@ -1,7 +1,7 @@
 ---
 title: "How Do I Design Faculty Development for AI That Actually Changes Practice?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-18T09:10:00-04:00"
 weight: 65
 type: faq
 foundations: [educational-development, teacher-role]
@@ -54,6 +54,8 @@ Two practical frictions belong in the same conversation. Continued-use intention
 There is a design argument for adaptation here as well. In [[ai-teaching-innovation-ai-tpack-2026|Bai and Hsieh (2026)]], professional identity predicted innovative behavior nearly twice as strongly among infrequent AI users as among daily users — a borderline result, but it suggests identity work pays off most with the people who barely touch the tools. [[sutedjo-faculty-genai-tpack-21-2026|Sutedjo and colleagues]] argue for deliberate discipline-specific programming because expertise does not transfer; [[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw]] wants discipline-specific cohorts as the setting for identity conversations; and [[ai-teaching-innovation-ai-tpack-2026|Bai and Hsieh]] suggest differentiating by experience, with limited users needing foundational guidance and frequent users getting more from interdisciplinary projects.
 
 For the anxious participant, [[ai-emotional-intelligence-teacher-development-2026|Aponte et al. (2026)]] add a governance condition rather than a motivational one: separate well-being support from managerial evaluation, minimize data, limit purpose, keep participation voluntary, and guarantee human oversight. Those are what make it safe to admit uncertainty in an AI-mediated space.
+
+**The affective layer has its own instrument now.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] surveyed 109 academics and identified an **"AI guilt complex"**: 35% worried AI use undermines their credibility and 26% reported feeling they are "cheating", with **anticipatory guilt about credibility exceeding remorse after use**, so the distress is socio-professional rather than private. Four profiles emerged — Comfortable Adopters (27%), Guilty Non-Users (29%), Cautious Users (28%) and Morally Distressed Avoiders (16%) — which means a single programme is addressing four different problems, and the 29% who feel guilt while not using the tools need something other than a demonstration. The scale of the institutional task is visible in [[watson-rainie-ai-challenge-faculty-survey-2026|the AAC&U/Elon survey of 1,057 faculty (Watson and Rainie 2026)]]: 68% said their schools have not prepared faculty to use generative AI for teaching and mentoring, and a similar share for scholarship, while 26% of respondents do not use the tools at all — including 40% of arts and humanities faculty — and 82% name colleagues' resistance as a barrier to departmental adoption.
 
 ## Proving it worked to someone who funds it
 
