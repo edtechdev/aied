@@ -82,4 +82,4 @@ The evidence base is one task family. Divergent thinking scoring is atypical in 
 
 ## Citation
 
-Organisciak, P., & Acar, S. (2026). *Know When to Trust: Making AI Scoring More Reliable for Educational Assessment*. *PsyArXiv Preprints*.
+Organisciak, P., & Acar, S. (2026). [*Know when to trust: Making AI scoring more reliable for educational assessment*](https://doi.org/10.3758/s13428-026-03058-1). *Behavior Research Methods*, 58(7).
