@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1301 | Concepts: 205 | FAQs: 32
+Articles: 1308 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -77,6 +77,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[ai-assisted-learning-modes-eeg]] — An exploratory behavioral and electroencephalographic study of artificial intelligence-assisted learning modes in high school students
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]] — Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 - [[ai-assisted-writing-research-teams]] — Smaller, Younger, and More Impactful: How AI-Assisted Writing Transforms Research Teams
+- [[ai-augmented-partner-school-consultation-2026]] — Artificial intelligence as an augmented partner in school consultation: Applications across the problem-solving process
 - [[ai-autonomous-learning-accomplishment-2026]] — AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness
 - [[ai-availability-student-motivation]] — 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
 - [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
@@ -154,6 +155,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[ai-making-us-stupid]] — Is AI making us stupid?
 - [[ai-mediated-cognitive-divergence-2026]] — AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-metacognition-three-level-meta-analysis-2026]] — Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis
 - [[ai-mindset-psychological-framework-2026]] — AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use
 - [[ai-misuse-learning-harm]] — AI Misuse and Learning Harm
 - [[ai-modelling-problem-generation-platform-2026]] — Creating an AI-Powered Platform for Generating Modelling Problems
@@ -198,6 +200,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[ai-tutor-authoring-promptdecipher]] — PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[ai-tutor-statistical-programming-adoption-2026]] — Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
 - [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception Correction
@@ -504,6 +507,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[edtech-platform]] — Edtech Platform
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[educasim-cs1-instructional-practice]] — EducaSim: Interactive Simulacra for CS1 Instructional Practice
+- [[educating-minds-generative-ai-2026]] — Educating minds with generative AI
 - [[educational-development]] — Educational Development
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[educational-measurement]] — Educational Measurement
@@ -615,6 +619,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[genai-cognitive-tutor-programming-2026]] — Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning
 - [[genai-counter-learner-groupthink-2025]] — Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings
 - [[genai-creativity-k12-scoping-review-2026]] — Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review
+- [[genai-critical-thinking-k12-design-2026]] — Vicious or Virtuous? Designing Generative AI-Powered Learning Experiences to Foster Rather than Undermine Critical Thinking in K-12 Education
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction
 - [[genai-decision-capability-cognitive-load-2026]] — Modelling Generative AI's Influence on Students' Perceived Decision Capability: A Cognitive Load and Decision Augmentation Approach
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: Developing Domain-Specific Generative AI Declaration Frameworks in Higher Education
@@ -659,6 +664,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[genai-use-usefulness-student-experience-australia-2026]] — The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives
 - [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance
+- [[genai-writing-robma-reanalysis-2026]] — Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
 - [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing
 - [[gender-differences-ai-literacy-deepfake]] — Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement
@@ -893,6 +899,7 @@ Articles: 1301 | Concepts: 205 | FAQs: 32
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
 - [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
+- [[llm-grading-self-preference-bias-2026]] — Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 - [[llm-interaction-depth-task-quality-recall-2026]] — What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education
 - [[llm-intervention-design-cs-review]] — A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
