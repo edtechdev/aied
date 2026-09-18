@@ -81,7 +81,7 @@ The design is cross-sectional and correlational, so no temporal ordering or caus
 - [[colbran-student-perspectives-genai-chatbots-2026]] — student perspectives on generative AI chatbots in learning
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — help-seeking and self-regulation with LLM support
 - [[ai-fallibility-warning-help-seeking]] — how fallibility signals change learners' help-seeking behaviour
-- [[scaffold-framework-adolescent-genai-2026]] — a scaffolding framework for adolescent generative AI use
+- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[regulating-ai-tutor-adolescent-srl]] — adolescent self-regulation with an AI tutor
 - [[human-ai-complementarity-social-emotional-learning-2026]] — complementarity between human and AI support in social-emotional learning
 

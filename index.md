@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1292 | Concepts: 205 | FAQs: 32
+Articles: 1291 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -1202,7 +1202,6 @@ Articles: 1292 | Concepts: 205 | FAQs: 32
 - [[sangwa-epiq-ai-faculty-readiness-2026]] — Faculty Readiness for AI-Supported Teaching and Scalable Online Program Delivery in Higher Education: The EPIQ-AI Framework for Epistemic Integrity
 - [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
-- [[scaffold-framework-adolescent-genai-2026]] — Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting
 - [[scaffolding]] — Scaffolding
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks
 - [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy
