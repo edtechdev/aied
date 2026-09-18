@@ -54,7 +54,7 @@ The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows th
 - **Teacher-in-the-loop QA:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai|human-in-the-loop]] validation.
 
 - **Verifiable instructions only.** [[reflection-agent-fidelity-career-2026|Nepal et al. (2026)]] audit a GPT-4o reflection agent against its own system prompt and find fidelity tracked checkability: mechanical rules (a reply-length cap) were followed, while behavioral rules ("do not flatter", "challenge gently") were broken in roughly half of its turns with no trace in the output, and the behavioral breach coincided with worse participant outcomes. The design implication is to specify behavior in verifiable terms and audit transcripts routinely, since a guardrail that cannot be checked cannot be relied on.
-- **A reliability layer around a model educators cannot audit.** [[scaffold-framework-adolescent-genai-2026|Muss (2026)]] surrounds an LLM with external verification, targeted repair and safe fallback, steered by a developmental and pedagogical framework and kept model-agnostic and privacy-preserving. In a classroom pilot with 12–16-year-olds working with an LLM-powered social robot in a co-creation task, the steered prototype drew more activity, [[student-engagement|engagement]] and on-topic participation than a prompt-only baseline. The architectural point is that safety can be attached *around* a system rather than requiring internal access to it, which is what makes layered guardrails deployable in [[pedagogical-safety|K-12]] settings.
+- **A reliability layer around a model educators cannot audit.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten and Bardyn (2026)]] surrounds an LLM with external verification, targeted repair and safe fallback, steered by a developmental and pedagogical framework and kept model-agnostic and privacy-preserving. In a classroom pilot with 12–16-year-olds working with an LLM-powered social robot in a co-creation task, the steered prototype drew more activity, [[student-engagement|engagement]] and on-topic participation than a prompt-only baseline. The architectural point is that safety can be attached *around* a system rather than requiring internal access to it, which is what makes layered guardrails deployable in [[pedagogical-safety|K-12]] settings.
 
 ### 5. Auditing guardrails for fairness
 
@@ -102,7 +102,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 ## Connected Articles
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
-- [[scaffold-framework-adolescent-genai-2026]] — Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting
+- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails

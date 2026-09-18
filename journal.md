@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1497
+Last updated: 2026-09-18 | Total entries: 1496
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
@@ -46,7 +46,6 @@ Last updated: 2026-09-18 | Total entries: 1497
 - 📄 [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — AI literacy and scenario-based ethical judgment about generative AI among undergraduate students
 - 📄 [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - 📘 [[retrieval-spacing-interleaving]] — Retrieval, Spacing and Interleaving
-- 📄 [[scaffold-framework-adolescent-genai-2026]] — Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting
 - 📄 [[scaffolding-student-ai-dialogue-framework-2026]] — Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions
 - 📄 [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: A Decision-Making Framework for Task Assignment with Generative AI
 - 📄 [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
