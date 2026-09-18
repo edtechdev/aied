@@ -1,7 +1,7 @@
 ---
-title: "LLM-Generated Feedback in Introductory Programming: A Classroom Study"
+title: "A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [llm, rag]
 assessment: [automated-assessment, feedback, formative-assessment]

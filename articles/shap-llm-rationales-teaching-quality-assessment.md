@@ -1,7 +1,7 @@
 ---
-title: "From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment"
+title: "From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [teacher-role]
 technology: [educational-nlp, learning-analytics, llm]

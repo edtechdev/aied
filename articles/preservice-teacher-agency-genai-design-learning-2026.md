@@ -1,7 +1,7 @@
 ---
-title: "Pre-Service Teachers' Agency During Their Interactions with Generative AI While Designing for Learning"
+title: "Pre-service teachers' agency during their interactions with generative AI while designing for learning - a process view"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agency, learning-design]
 pedagogy: [scaffolding]

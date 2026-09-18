@@ -1,7 +1,7 @@
 ---
-title: "Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices"
+title: "Framing human-AI dynamics: An epistemological perspective on generative AI practices"
 created: "2026-08-22T17:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-education, ai-literacy, human-ai-collaboration, theory-development-aied]
 pedagogy: [learning-theories, student-ai-interaction]

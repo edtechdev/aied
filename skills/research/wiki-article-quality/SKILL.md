@@ -96,6 +96,19 @@ print(len(body.split()), 'body words')
 
 Full detail belongs in `raw/papers/<slug>.md`, which is local, complete, and never has to be short. An article is a wayfinding page, not a replacement for the source.
 
+### 13. Article `title:` must be the paper's REAL title, truncated at ~120 characters (maintainer, 2026-09-18)
+
+The maintainer asked for article page titles to match the actual article titles, "although sometimes it should be truncated". Measured across the corpus: 1,189 of 1,308 pages (91%) already carried the exact paper title, 95 carried a shortened version and 86 a reworded one — 105 pages were retitled in that pass.
+
+Rules for picking the title:
+- **A published record beats the page's own Citation string**, because it carries the publisher's casing and subtitle: Crossref (`https://api.crossref.org/works/<doi>`, title + subtitle) for a DOI, arXiv (`http://export.arxiv.org/api/query?id_list=<id>`) for a preprint id, both falling back to the Citation title when they do not resolve.
+- **Truncate at ~120 characters on a word boundary.** Prefer dropping the subtitle at a colon when only a fragment of it would survive, or when the main title alone is already ≥90 characters; otherwise keep the subtitle as far as it fits. Strip a dangling `, x` fragment and trailing function words after cutting.
+- **Never shorten a title that already carries more of the paper's title than the parsed citation string** (the citation abbreviation is the weaker source).
+- **Compare on words, not characters:** a page whose title differs from the paper's only in capitalisation or punctuation is not a mismatch, and should keep its own capitalisation.
+- Update `index.md` and `journal.md` entry text in the same pass. The `## Citation` block stays untouched — it keeps the full title and the source link.
+
+Full paper titles are long (median 101 characters, 314 over 120, 78 over 150), so truncation is the normal case, not the exception.
+
 ### 11. Frontmatter checklist for a repaired page (typed metadata, no `tags`)
 The frontmatter model changed on 2026-09-17. **`tags:` is retired**: the schema in `src/content.config.ts` no longer accepts it, every page lost the line, and the page templates no longer render tag chips. A repair that leaves a `tags:` line behind, or re-adds one, fails the build. The JSON-LD keywords now come from the typed fields.
 

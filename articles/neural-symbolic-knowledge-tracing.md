@@ -1,7 +1,7 @@
 ---
-title: Neural-Symbolic Knowledge Tracing
+title: "Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, pedagogical-llm-training, rag]

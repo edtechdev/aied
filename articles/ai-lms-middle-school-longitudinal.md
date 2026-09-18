@@ -1,7 +1,7 @@
 ---
-title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes"
+title: "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-16T17:12:13-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning, edtech-platform]
 assessment: [formative-assessment]

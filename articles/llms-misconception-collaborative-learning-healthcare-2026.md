@@ -1,7 +1,7 @@
 ---
-title: "Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education"
+title: "Implementing Large Language Models to Support Misconception-Based Collaborative Learning in Health Care Education"
 created: "2026-08-26T10:07:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [misconceptions]
 pedagogy: [cognitive-psychology, collaborative-learning, refutation-text]

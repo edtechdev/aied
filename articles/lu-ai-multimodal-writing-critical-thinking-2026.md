@@ -1,7 +1,7 @@
 ---
-title: "Critical Thinking Gains in Conversational AI-Supported Multimodal Writing"
+title: "More externalization, but less inference? Exploring changes in young learners' critical thinking during conversational"
 created: "2026-09-09T01:46:17-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]

@@ -1,7 +1,7 @@
 ---
-title: "Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding"
+title: "Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students'"
 created: "2026-08-26T10:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [misconceptions]
 pedagogy: [cognitive-psychology, metacognition, refutation-text]

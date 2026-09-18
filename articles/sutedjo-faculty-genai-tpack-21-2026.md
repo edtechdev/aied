@@ -1,7 +1,7 @@
 ---
-title: "Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills"
+title: "Assessing faculty self-perceived knowledge in using generative AI to teach 21st-century skills"
 created: "2026-09-09T02:58:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [educational-development, teacher-role]
 pedagogy: [self-efficacy]

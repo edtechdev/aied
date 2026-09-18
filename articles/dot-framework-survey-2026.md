@@ -1,7 +1,7 @@
 ---
-title: "DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education"
+title: "Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence"
 created: "2026-05-29T19:01:35-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-education, ai-literacy, design-thinking, teacher-role]
 technology: [human-in-the-loop-ai, open-source]

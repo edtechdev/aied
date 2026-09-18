@@ -1,7 +1,7 @@
 ---
-title: "The Psychological Mechanisms and Behavioral Determinants of Academic Integrity in the Age of AI"
+title: "The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, self-regulated-learning, well-being]

@@ -1,7 +1,7 @@
 ---
-title: "Navigating uncertainty: university teachers' experiences and perceptions of generative AI in teaching and learning"
+title: "Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence"
 created: "2026-09-03T12:22:25-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, educational-development, teacher-role, theory-development-aied]
 technology: [generative-ai]

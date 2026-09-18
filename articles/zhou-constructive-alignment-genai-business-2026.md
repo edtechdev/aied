@@ -1,7 +1,7 @@
 ---
-title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment"
+title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai]

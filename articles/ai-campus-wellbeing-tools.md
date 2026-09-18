@@ -1,7 +1,7 @@
 ---
-title: "AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention"
+title: "New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach"
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [affective-computing, generative-ai, llm, edtech-platform]

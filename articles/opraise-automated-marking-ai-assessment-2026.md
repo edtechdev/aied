@@ -1,7 +1,7 @@
 ---
-title: OpRaise Report on Automated Marking of University Essays
+title: "AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking"
 created: "2026-09-12T14:05:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, feedback]

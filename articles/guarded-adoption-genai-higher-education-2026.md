@@ -1,5 +1,5 @@
 ---
-title: "Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency"
+title: "Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity"
 type: article
 foundations: [agency, cognitive-offloading, critical-thinking, learner-identity]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [instructors, researchers, administrators]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:05:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 ---
 
 > **Synthesis:** An institution-wide [[mixed-methods-research|mixed-methods]] survey at one Australian [[higher-ed|university]] (484 responses, 469 with valid GPA-band data) examined whether successful-student identity and self-reported achievement were associated with different patterns of [[generative-ai|generative AI]] engagement. Higher-achieving students reported lower active AI engagement, lower positive affect, lower [[self-report-measures|perceived learning]] impact and lower AI-related disengagement, alongside slightly higher negative affect. Item-level analyses showed less endorsement of AI-supported autonomy and effective learning, and greater agreement that reliance on AI hinders [[critical-thinking]] and independent [[problem-solving|problem solving]]. The open-ended responses described selective use for clarification, summarization and workflow support, with outputs checked and kept subordinate to the student's own judgment. The authors name this pattern guarded adoption: selective, bounded and verification-intensive use in defense of epistemic control.

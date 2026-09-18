@@ -1,7 +1,7 @@
 ---
-title: "The AI Disruption in Engineering Education: Changing Student Norms Through CHAT"
+title: "The AI disruption in engineering education: an analysis of changing student norms through cultural historical activity"
 created: "2026-08-26T08:13:00-04:00"
-updated: "2026-08-26T08:13:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]

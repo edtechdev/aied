@@ -1,7 +1,7 @@
 ---
-title: "Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Comparative Analysis of Adaptive Algorithms"
+title: "Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, knowledge-graph]

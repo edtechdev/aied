@@ -1,5 +1,5 @@
 ---
-title: "AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation"
+title: "AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ audience: [instructors, researchers, learning designers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:29-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 ---
 
 > **Synthesis:** A pragmatic [[mixed-methods-research|mixed-methods]] study of 689 [[higher-ed|undergraduates]] in industry-education integration programs at a private Chinese university, plus interviews with 8 instructors, tested how the affordances of AI-generated content (AIGC) tools translate into [[self-regulated-learning|self-regulated learning]]. Using partial least squares structural equation modeling, the authors found that perceived AIGC affordance raised AIGC [[self-efficacy]] (beta = 0.583) and self-regulated learning directly (beta = 0.316), and that self-efficacy in turn lifted [[motivation|learning motivation]] (beta = 0.565) and self-[[regulation]] (beta = 0.250). [[ai-feedback-quality|Feedback quality]] strongly predicted satisfaction (beta = 0.712) but did not improve self-efficacy or self-regulation, and satisfaction had no significant effect on self-regulation. The headline claim is that AIGC works as a psychological catalyst rather than a productivity tool: benefits run through confidence and motivation, not through the tool itself.

@@ -1,7 +1,7 @@
 ---
-title: LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+title: "LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-09-16T17:12:51-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm, multimodal, rag]
 assessment: [automated-assessment, feedback, formative-assessment]

@@ -1,7 +1,7 @@
 ---
-title: Culturally-Aware AI for Cross-Boundary Community Learning
+title: "Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [intelligent-tutoring]

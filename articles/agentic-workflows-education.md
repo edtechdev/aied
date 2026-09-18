@@ -1,7 +1,7 @@
 ---
-title: Agentic Workflows in Education
+title: "Evolution of AI in Education: Agentic Workflows"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agentic-ai, ai-education]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, pedagogical-llm-training]

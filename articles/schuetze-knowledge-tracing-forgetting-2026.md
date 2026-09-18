@@ -1,7 +1,7 @@
 ---
-title: Capturing Session-to-Session Dynamics of Learning and Forgetting
+title: "Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [cognitive-psychology]
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, machine-learning, student-modeling]

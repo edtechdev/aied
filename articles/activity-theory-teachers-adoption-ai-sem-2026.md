@@ -1,7 +1,7 @@
 ---
-title: "Activity Theory as a Lens on Teachers' Adoption of AI Technologies"
+title: "Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling"
 created: "2026-08-26T08:12:00-04:00"
-updated: "2026-08-26T08:12:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]

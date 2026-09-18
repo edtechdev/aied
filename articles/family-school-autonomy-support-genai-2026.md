@@ -1,5 +1,5 @@
 ---
-title: "Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis"
+title: "Family-school autonomy support for children's responsible use of generative artificial intelligence"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [motivation, self-determination-theory]
@@ -12,7 +12,7 @@ audience: [instructors, researchers, administrators]
 level: [k 12, early childhood]
 page_kind: [framework]
 created: "2026-09-13T08:04:43-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 ---
 
 > **Synthesis:** This mini review argues that the question of children's [[generative-ai|generative AI]] use is the wrong frame, and that the productive question is whether the adults around them support autonomy rather than control. Organizing a scattered literature through [[self-determination-theory]], the authors distinguish dependent from autonomous [[cognitive-offloading]], map the psychological pathways from AI use to learning engagement and to [[academic-integrity]], and set out a developmental research agenda. Their central analytical move is to treat the family-school coordination that most guidance assumes as an untested hypothesis: two literatures on non-overlapping samples have never been tested together, and the review specifies three competing models — additive, synergistic and compensatory — that would discriminate between them.

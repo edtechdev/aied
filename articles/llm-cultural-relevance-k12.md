@@ -1,7 +1,7 @@
 ---
-title: LLMs for Culturally Relevant K-12 Pedagogy
+title: "LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example"
 created: "2026-05-08T07:38:00-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, educational-development]
 pedagogy: [pedagogy]
