@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-18T13:00:00-04:00"
+updated: "2026-09-18T13:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -34,6 +34,7 @@ The knowledge base's articles document cognitive offloading across multiple dime
 - **Instrumenting self-reflection rather than measuring a trait:** PAUSE (Patterns of AI Use: Self-Examination) turns the 2023–2026 offloading literature into a four-domain self-check — reasoning and critical thinking, creativity and originality, research and learning, social and communicative capacity — with reverse-scored behavioral items, citation anchors on every item, no composite score and no claim to validity ([[pause-ai-cognitive-offloading-self-reflection-2026|Alam, 2026]]). Its design position is that the useful intervention on offloading is prompting reflection rather than producing a diagnosis, since no instrument yet has the standing to justify a consequential decision about a person.
 
 - **Prompt patterns as offloading traces:** [[misiejuk-cognitive-offloading-prompting-2026|Misiejuk et al. (2026)]] use Co-Occurrence [[network-analysis]] to show that reactive prompts (disagreement without domain context) indicate higher offloading, while context-rich prompting with integrated instruction reflects engaged cognition. The *how* of AI use — not just whether it's used — determines the degree of offloading.
+- **Naturalistic message-level evidence at scale — offloading observed, not assumed:** [[student-cognitive-offloading-ai-higher-ed-2026|Piatnitckaia et al. (2026)]] coded 3,047 [[conversational-ai|ChatGPT]] messages from 46 undergraduates at one European university across a seven-week exam-preparation window, using GPT-4o-mini with enforced chain-of-thought rationales and validating the pipeline against a trained human rater on 200 messages (Cohen's κ = 0.76 for question type, 0.75 for Bloom level). Analyse topped that distribution at 27.28% (831 messages) ahead of Understand at 23.76%, the first fine-grained evidence that naturalistic [[student-ai-interaction|student–AI use]] routinely aims at higher-order work rather than memorisation. A 16-student subsample with linked grades, whose 1,140 messages were hand-coded, supplies what prompt-level traces cannot: 49.6% of 125 dialogues showed no offloading, 34.4% light and 16.0% heavy, on a rubric that reserves *heavy* for cases where the AI produces the first draft and constructs the core intellectual product. Heavy offloading was overwhelmingly a Create phenomenon (80% of the 20 heavy dialogues, 42% of all Create dialogues), which the authors read as evidence that offloading degree and Bloom level are distinct dimensions worth measuring separately. The grade pattern was descriptive only — 17.6% heavy in the top tier, 17.5% in the middle and 5.9% in the bottom (χ² = 5.80, df = 4, p = 0.215) — and rests partly on one programming-focused student whose removal drops the top-tier rate to 8.9%, leading the authors to argue that discipline shapes delegation habits more than performance and to recommend [[metacognition|metacognitive]] feedback on actual usage patterns rather than prohibition.
 
 - **The speedup illusion:** [[cognitive-offloading-speedup-illusion|Research on the speedup illusion]] demonstrates that AI-assisted work *feels* faster and easier, creating a misleading impression of productivity that masks reduced learning. Students conflate task completion speed with learning, a metacognitive blind spot.
 
@@ -208,3 +209,4 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: task assignment by sub-zone, with offloading and sycophancy proneness mapped across zones
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: motivations for AI use during reading, and their link to offloading
 - [[chatgpt-writing-cognitive-impact-2026]] — a writing-to-learn experiment in which ChatGPT-assisted writing produced less knowledge gain than an unaided control
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
