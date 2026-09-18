@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-18T09:40:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design]
 pedagogy: [scaffolding]
@@ -35,6 +35,8 @@ Teaching here names the professional role as AI reshapes it: less content delive
 - **Competency demands:** [[teacher-ai-competency|Teacher AI competency frameworks]] define what educators need to know, from basic tool fluency to pedagogically grounded orchestration. [[teacher-ai-adoption-confidence|Adoption studies]] identify the real barriers: confidence, [[governance|institutional]] support, and workload concerns. [[ai-teaching-innovation-ai-tpack-2026|Bai & Hsieh (2026)]] add an empirical weight to this in an SEM of 898 Chinese university teachers: GenAI-supported teaching innovation depends less on isolated AI technological knowledge and more on pedagogically and disciplinarily embedded AI competence ([[ai-literacy]] and professional identity), both of which partially mediated the competence→innovation relationship — a signal to build faculty development around embedded, identity-linked AI competence rather than tool-only training.
 - **Co-design and agency:** [[teacher-authored-prompts-student-ai-dialogue|Teacher-authored prompts]] and [[gaide-vibe-coding-k12-teachers|vibe coding for teachers]] show educators as active AI designers, not passive consumers — writing the prompts and scaffolds that shape how AI behaves for their students. In children's STEAM arts lesson planning, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] experimentally confirmed that *how* the teacher delegates to ChatGPT matters: filling content gaps in a self-outlined lesson (the method favored by 60% and recommended) preserved teacher design autonomy while still raising expert-rated plan quality (median 20.5 vs. 17.6, p = .002, large effect), outperforming having AI generate whole plans or merely checking a finished one. AI served chiefly as an inspiration and gap-finding collaborator rather than a source of fully original innovation — reinforcing that the teacher remains the design agent and judge of output, including catching child-safety and cultural-bias flaws the tool missed. A [[meta-analysis-systematic-review|systematic review]] of [[wang-teacher-ai-co-design-review-2026|teacher–AI co-design of learning tasks]] (Wang, Liu & Islam 2026) finds this co-designer stance remains uneven — the dominant mode is still AI as assistant/content generator — and [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows the teacher's agency as "[[multilingual-learning|bilingual]] learning designer" is what turns AI-designed group activities into differentiated, ZPD-aligned instruction.
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them. [[zhuang-zhang-chatgpt-math-teacher-education-2026|Simulated-student role-play]] extends this into hands-on practice: a custom ChatGPT bot (Student GPT) playing a mathematically [[misconceptions|misconception]]-ridden middle schooler lets preservice teachers rehearse diagnosing and guiding student reasoning in a low-risk setting, preparing them for a central teaching task — reading and remediating student thinking.
+
+- **A teacher-facing frontier the evidence base has barely entered:** [[edustories-classroom-case-studies-2026|Štefánik et al. (2026)]] assemble **Edustories**, 1,492 teacher-written case studies of real elementary and high-school classrooms — challenging student behaviour, the intervention the teacher attempted, and what followed — precisely because most AI-in-education research has targeted individualised student assistance while most teaching happens in collective classrooms. Benchmarking four language-model families on predicting whether an intervention succeeded, the strongest models reached 58% accuracy against 64% for human experts; the authors read the gap in both directions, as a limit on current [[teacher-ai-competency|teacher-facing]] assistance and as evidence of emerging potential. What the page gains from it is a measured ceiling rather than a capability claim: advice to teachers needs to be better than expert judgment before it can be trusted, and today the ordering is the other way.
 
 ### What the changing role actually looks like: concrete examples
 
@@ -151,6 +153,8 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+
+- [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design classroom chatbots as bounded experts and retain authority
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": teachers prefer semi-autonomy, usefulness drives adoption, risk aversion targets students' use (Dai et al. 2026)
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
