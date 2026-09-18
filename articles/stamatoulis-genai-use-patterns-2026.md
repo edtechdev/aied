@@ -1,7 +1,7 @@
 ---
 title: "Same tool, different work: patterns of generative AI use and academic outcomes"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T14:00:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [self-efficacy]
@@ -58,4 +58,4 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 
 ## Citation
 
-Stamatoulis, C., Pyrovetsi, L., Mourikis, C., Ponnam, A., & Karayianni, I. (2026). *Same tool, different work: patterns of generative AI use and academic outcomes*. Manuscript submitted for publication.
+Stamatoulis, C., Pyrovetsi, L., Mourikis, C., Ponnam, A., & Karayianni, I. (2026). [*Same tool, different work: patterns of generative AI use and academic outcomes*](https://osf.io/preprints/psyarxiv/txf2e_v1). *PsyArXiv Preprints*.
