@@ -12689,6 +12689,7 @@ Three things make legal education more than one more subject area.
 ## Connected Articles
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
+- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
 
 ---
 
@@ -63370,7 +63371,7 @@ The article reports on a blind Turing Test experiment, assessing the performance
 - [[assessment]]
 - [[professional-training]]
 - [[llm]]
-
+- [[legal-education]] — the professional programme whose examinations the benchmark tests
 ## Connected Articles
 
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
@@ -77145,15 +77146,10 @@ Bueno, I., Bühler, B., Stark, P., Fütterer, T., Trautwein, U., Demszky, D., Hi
 ## Core Argument
 
 1. **Integrity frameworks were built for a lone author.** GenAI has unsettled assumptions about authorship, originality and assessment, and institutional responses organised around detection technologies, usage bans and revised policies work to preserve pre-GenAI models of independent authorship. Such responses risk prioritising compliance over learning and surveillance over trust (Bretag 2019; Selwyn 2019). Sharma's framing is that debates about [[generative-ai|GenAI]] in higher education are "fundamentally debates about educational integrity," and that the consequential question is not whether GenAI was used but how responsibility and ethical judgement are defined and enacted when academic work is produced through hybrid human-GenAI systems.
-
 2. **Detection cannot resolve hybrid authorship.** Generative text is probabilistic, non-deterministic and shaped through iterative prompting and revision, so definitive attribution to human or machine sources is unreliable (Walton et al. 2025); isolating a stable "signal" of technological authorship struggles to distinguish unethical delegation from responsible engagement. Pedagogically, [[ai-detection|detection]] asks whether GenAI was used rather than how decisions were made, leaving invisible the evaluative work students already do when they reject inaccurate outputs, revise drafts and align content with disciplinary criteria. The ethical cost is a surveillance posture in which instructors "may be compelled to interpret probabilistic outputs without shared evidentiary standards, shifting their role toward investigation rather than assessment" (Lynch et al. 2021). Sharma does not argue for eliminating detection: it may serve as one layer of [[governance]] for clear misrepresentation or deliberate outsourcing of intellectual labour, but cannot be the primary infrastructure of integrity.
-
 3. **Assessment is where integrity becomes visible.** Assessment is reconceptualised as an integrity apparatus: it signals what counts as evidence, how responsibility is interpreted and which academic behaviours are valued (Sadler 1989; Torrance 2007). Integrity-oriented assessment is not the same as [[authentic-assessment]], and the paper treats the difference as epistemic. Authentic assessment asks whether a task mirrors real-world practice; integrity-oriented design asks whether learners can justify decisions and assume responsibility in relation to disciplinary standards. Integrity thus becomes an explicit, assessable criterion embedded in the task architecture rather than an incidental by-product of realism.
-
 4. **Judgement, not reflection, is the evaluative core.** Sharma separates judgement from reflective practice, which considers one's thinking retrospectively (Schön 1983), and from [[metacognition]], the awareness and regulation of cognitive processes (Zimmerman 2002). Judgement is evaluative (Sadler 1989): learners evaluate options against standards, justify choices within epistemic and ethical frameworks, and accept consequences under uncertainty, which places it at the intersection of cognition, ethics and professional accountability, much as professional judgement in regulated fields rests on reasoned decision-making rather than procedural compliance. Integrity is then not the absence of assistance but the accountable exercise of [[evaluative-judgement|judgement]] in relation to shared academic norms.
-
 5. **Integrity artefacts are evidence, not proof.** Requiring learners to document reasoning risks privileging those more fluent in reflective discourse, which Sharma names as the danger of "the replacement of one compliance regime with another." Artefacts need contextual interpretation, shared criteria and professional calibration, and judgement as evidence of integrity "remains relational and situated rather than mechanically verifiable," so designing for visible judgement demands sustained educator reflexivity.
-
 6. **Responsibility is redistributed, not discharged.** Institutions articulate expectations that recognise GenAI-augmented authorship as normative; educators design assessments that make ethical decision-making visible; learners articulate judgement against disciplinary criteria. Integrity becomes a property of educational systems rather than of individual behaviour, aligning with international guidance advocating pedagogical rather than punitive responses to AI in education (Fengchun and Cukurova 2024).
 
 ## Four practices that make judgement visible
