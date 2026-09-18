@@ -100,6 +100,7 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[ai-literacy]]
 - [[trust-calibration]]
 - [[cognitive-offloading]]

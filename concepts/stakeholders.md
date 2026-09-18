@@ -58,6 +58,7 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[teacher-role]]
 - [[learner-identity]]
 - [[agency]]

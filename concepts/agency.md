@@ -84,6 +84,7 @@ The framework's boundary condition requires **contestability** (the ability to q
 A closely related framing is **relational epistemic agency** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), which agrees that agency is socially enabled and technologically mediated rather than a matter of isolation from dependence. Where the Ecological Co-Agency Framework stresses human epistemic accountability as a non-negotiable boundary, Du and Yuan retain an explicit *asymmetry*: AI systems may shape and extend reasoning without possessing reciprocal responsibility or legitimate authority. Their six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility, and epistemic plurality — provide a practical test for when a human–AI relation preserves the learner's capacity to participate in how claims are formed, assessed, and accepted, versus when it merely delivers a product. Agency on this account is not independence from tools but the capacity to judge responsibly *with, through, and against* the systems that mediate knowledge.
 
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
 

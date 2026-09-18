@@ -43,6 +43,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-directed-learning]]
 - [[motivation]]
 - [[self-regulated-learning]]

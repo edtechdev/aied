@@ -64,6 +64,7 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[agency]]
 - [[self-efficacy]]
 - [[motivation]]

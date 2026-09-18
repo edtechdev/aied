@@ -128,6 +128,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[metacognition]] — the cognitive monitoring SRL relies on
 - [[self-efficacy]] — a forethought-phase belief driving effort
 - [[scaffolding]] — graduated support that preserves regulatory demand
