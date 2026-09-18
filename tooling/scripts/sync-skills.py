@@ -56,6 +56,12 @@ def redaction_pairs(cfg, wiki):
     if agent:
         pairs.append((f'{agent} Agent', 'AI agent'))
         pairs.append((agent, 'AI agent'))
+        # The agent's tool module (`<agent>_tools`) is a placeholder in the repo
+        # copy. It needs a real pair, not only the regex below: a regex-only
+        # substitution is not inverted by reverse normalization, so
+        # `--to-installed` would write the literal `<TOOLS>` into the installed
+        # skill and the agent would read its own tool name as a placeholder.
+        pairs.append((f'{agent.lower()}_tools', '<TOOLS>'))
     # NOTE: third-party site brand names used as design references are scrubbed in
     # the skill text itself, not here. Anything added as a replacement string in
     # this function gets inverted by reverse normalization, so a pair whose
@@ -83,6 +89,23 @@ def redaction_pairs(cfg, wiki):
     return sorted(((k, v) for k, v in pairs if k), key=lambda kv: -len(kv[0]))
 
 
+# set in main() from wiki.config.yaml -> agent.name (see agent_tokens)
+AGENT = {'tools': '<TOOLS>', 'key': '<AGENT_KEY>'}
+
+
+def agent_tokens(cfg):
+    """The agent-specific spellings that the repo copy replaces with placeholders.
+
+    These must be real substitution PAIRS, not regex-only rewrites: a regex that
+    runs in both directions turns the installed copy's `hermes_tools` /
+    `hermes:` back into `<TOOLS>` / `<AGENT_KEY>:`, so `--to-installed` would
+    hand the agent a skill that names its own tool module as a placeholder.
+    """
+    agent = ((cfg.get('agent') or {}).get('name') or '').strip().lower()
+    return {'tools': f'{agent}_tools' if agent else '<TOOLS>',
+            'key': agent or '<AGENT_KEY>'}
+
+
 def normalize(text, pairs, reverse=False):
     """Collapse the sanctioned differences between repo and installed copies."""
     for src, dst in pairs:
@@ -92,13 +115,17 @@ def normalize(text, pairs, reverse=False):
             text = text.replace(src, dst)
     # the agent's tool module is named after the agent (e.g. <agent>_tools) while
     # the repo copy says <TOOLS> — normalize either to one placeholder
-    text = re.sub(r'\b[a-z][a-z0-9_]*_tools\b', '<TOOLS>', text)
-    # the agent-named frontmatter metadata key (e.g. `  hermes:` vs `  AI agent:`)
-    text = re.sub(r'^(\s*)(?:hermes|AI agent|AI agent|ai agent)\s*:', r'\1<AGENT_KEY>:',
-                  text, flags=re.M)
-    # 'AI agent' vs 'AI agent', and every spelling of the skill-store path
-    text = re.sub(r'\bthe AI agent\b', 'AI agent', text)
-    text = re.sub(r'<AGENT>|<AGENT>|<AGENT>', '<AGENT>', text)
+    if reverse:
+        text = re.sub(r'\b<TOOLS>\b', AGENT['tools'], text)
+        text = re.sub(r'^(\s*)<AGENT_KEY>\s*:', rf'\1{AGENT["key"]}:', text, flags=re.M)
+    else:
+        text = re.sub(r'\b[a-z][a-z0-9_]*_tools\b', '<TOOLS>', text)
+        # the agent-named frontmatter metadata key (e.g. `  hermes:` vs `  AI agent:`)
+        text = re.sub(r'^(\s*)(?:hermes|AI agent|ai agent)\s*:', r'\1<AGENT_KEY>:',
+                      text, flags=re.M)
+        # 'the AI agent' vs 'AI agent', and every spelling of the skill-store path
+        text = re.sub(r'\bthe AI agent\b', 'AI agent', text)
+        text = re.sub(r'<AGENT>|<AGENT>|<AGENT>', '<AGENT>', text)
     return text
 
 
@@ -277,8 +304,9 @@ def main():
         sys.exit(f"agent.skills_dir is not set or missing in wiki.config.yaml "
                  f"({skills_dir!r}) — cannot locate the installed skills")
 
-    global pairs_conf
+    global pairs_conf, AGENT
     pairs_conf = redaction_pairs(cfg, wiki)
+    AGENT = agent_tokens(cfg)
     groups = pairs_of(cfg, wiki, skills_dir)
     selected = args.to_repo if args.to_repo is not None else args.to_installed
     to_repo = args.to_repo is not None
