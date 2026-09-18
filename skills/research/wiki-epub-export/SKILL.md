@@ -22,6 +22,11 @@ Generates and maintains the wiki's offline book-form deliverables — `aied.epub
 
 ## Rebuild steps
 1. `python3 tooling/build-epub.py` — writes `dist/aied-export.md`, runs pandoc for the EPUB (post-processes the zip into `public/aied.epub`), then runs pandoc + **weasyprint** for the PDF (`public/aied.pdf`).
+
+**Do not run this while a site build is in flight (2026-09-17).** The builder writes `dist/aied-export.md`, the EPUB, and then the PDF from that
+markdown; `astro build` clears `dist/` before writing it. Run the two concurrently and the markdown is deleted between the EPUB and PDF steps, and the
+PDF step dies with `FileNotFoundError: dist/aied-export.md` AFTER the EPUB has already been replaced. The epub then looks fine and is easy to ship
+without noticing the PDF is stale. Rule: run the artifact builder on its own, or re-run it after any site build.
 2. `git add public/aied.epub public/aied.pdf tooling/build-epub.py && git commit && git push`.
 3. Verify the Deploy workflow goes green (Build & Verify + Deploy).
 4. Confirm live files reflect changes (curl + inspect).
