@@ -1,26 +1,34 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1496
+Last updated: 2026-09-18 | Total entries: 1506
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
 - 📄 [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — Turn to chatbots for sharing feelings or seeking solutions? Differential associations of preferences for chatbot-mediated self-disclosure and instrumental help-seeking with adolescent interpersonal behaviors in the United States and Hong Kong
 - 📄 [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
 - 📄 [[ai-assisted-assessment-instruction-higher-ed-2026]] — AI-Assisted Assessment and Instruction in Higher Education: Foundations, Applications, and Implications for Exam Design
+- 📄 [[ai-education-effects-second-order-meta-analysis-2026]] — What Do We Know About the Effects of Artificial Intelligence in Education? A Second-Order Meta-Analysis
 - 📄 [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans
+- 📄 [[ai-literacy-instrument-development-systematic-review-2026]] — Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality
 - 📄 [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
+- 📄 [[ai-mindset-psychological-framework-2026]] — AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use
 - 📄 [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading
+- 📄 [[ampt-math-personalization-genai-2026]] — AMPT: A Tool for Personalizing Math Learning with Generative AI
 - 📄 [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
 - 📄 [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT Making our Minds Dull? The Cognitive Impact of Using ChatGPT in the Writing Process
 - 📄 [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
 - 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
 - 📄 [[children-ai-safety-misconceptions-2026]] — “If we are good friends, AI doesn't spy so much”: Children's knowledge and misconceptions of AI safety
+- 📄 [[co-learning-ai-agent-hidden-rules-2026]] — Benefits of co-learning with an AI agent
 - 📄 [[coates-governing-academic-integrity-indicators-2025]] — Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence
+- 📄 [[creativa-process-dynamic-creativity-assessment-2026]] — CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models
 - 📄 [[dabkowski-nursing-academics-genai-2026]] — Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education
 - 📄 [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
 - 📄 [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
+- 📄 [[gails-generative-ai-literacy-scale-2026]] — The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups
 - 📄 [[genai-creativity-k12-scoping-review-2026]] — Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review
 - 📄 [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
+- 📄 [[genai-usage-styles-creative-self-beliefs-2026]] — The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education
 - 📄 [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - 📄 [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education
@@ -41,11 +49,13 @@ Last updated: 2026-09-18 | Total entries: 1496
 - 📄 [[munoz-misconduct-allegation-evidence-2026]] — How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis
 - 📄 [[open-learning-practices-genai-response-2026]] — A Proposal for Open Learning Practices in Response to Generative Artificial Intelligence
 - 📄 [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
+- 📄 [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI
 - 📄 [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
 - 📄 [[qualitative-reasoning-game-guidance-2026]] — A Qualitative Model for Reasoning about Path and Support
 - 📄 [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — AI literacy and scenario-based ethical judgment about generative AI among undergraduate students
 - 📄 [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - 📘 [[retrieval-spacing-interleaving]] — Retrieval, Spacing and Interleaving
+- 📄 [[rubric-guided-genai-creativity-assessment-games-2026]] — Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games
 - 📄 [[scaffolding-student-ai-dialogue-framework-2026]] — Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions
 - 📄 [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: A Decision-Making Framework for Task Assignment with Generative AI
 - 📄 [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
