@@ -1,0 +1,106 @@
+---
+title: "Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions"
+created: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-18T13:40:00-04:00"
+type: article
+pedagogy: [scaffolding, self-regulated-learning, sociocultural-learning, critical-pedagogy]
+technology: [conversational-ai, llm, pedagogical-agent]
+ethics: [privacy, ai-misuse-learning-harm, trust]
+stakeholders: [learners, parents-and-families, pedagogical-safety]
+foundations: [ai-literacy]
+methods: [research-methods-aied]
+research_method: [theoretical analysis, position paper]
+level: [secondary, k 12]
+audience: [educators, learning designers, edtech designers, designers, researchers]
+page_kind: [framework]
+sources: ['raw/papers/scaffolding-student-ai-dialogue-framework-2026.md']
+confidence: high
+---
+
+> **Synthesis:** Muss, Leisten and Bardyn (Université de Neuchâtel, the Social Brain Sciences Lab at ETH Zurich, and AI Swiss) begin from a developmental mismatch: adolescents are the fastest and largest age group adopting [[llm|large language models]] — 84% of Swiss 14–19-year-olds report regular generative AI use against 60% of 30–49-year-olds — yet these systems were never designed for their educational, emotional or developmental needs. Content filters can block harmful output but cannot make an interaction pedagogically sound, and prompts cannot reliably steer a probabilistic model across a multi-turn [[conversational-ai|conversation]]. Their answer is SCAFFOLD, the Steered Contextual AI Framework for Orchestrating Learning Dialogue: a model-agnostic, open-source system of *frames* that surrounds generation with external verification, targeted repair and pre-approved safe fallback at every turn. The paper first specifies how educators design a students-AI interaction, then describes the six-stage frame engine and its division of deterministic from probabilistic checks, then reports a classroom pilot with 12–16-year-olds. It is offered as shared infrastructure for educators, [[learning-design|learning designers]] and system builders, so that [[pedagogical-safety|pedagogical safety]] becomes an explicit, auditable design property rather than a vendor promise.
+
+## Key Findings
+
+1. **Adolescents dominate adoption while carrying the least design attention.** Switzerland reports 84% regular generative AI use among 14–19-year-olds, the highest of any age group; the UK shows 67% of 15–17-year-olds and 53% of 9–11-year-olds, and chatbots are already embedded in Snapchat, WhatsApp, TikTok and Instagram. The authors frame this as a mismatch between who uses the tools and who they were built for.
+2. **Neither existing safety layer is sufficient on its own.** Technical safeguards such as content filters block harmful outputs without ensuring pedagogically sound interactions, while pedagogical frameworks cannot reliably steer unpredictable LLM behaviour. The paper's stated gap is the bridge between conceptual design and technical enforcement.
+3. **SCAFFOLD is a modular system of frames, not a better prompt.** It sits between students and the model, analysing inputs, shaping prompts with safeguards, verifying outputs against pedagogical requirements, and triggering repairs or fallbacks — model-agnostic, open-source, and able to keep data private when paired with local infrastructure.
+4. **The frame engine runs six stages each turn:** collect data (user, interaction parameters, memory); analyse input for risk and engagement; shape and generate a draft response from a constitution, the parametrization, the analysis and memory; verify the draft against safeguards and design; correct, repair, act or alert; then deliver the answer and write it to memory.
+5. **Checks are explicitly typed by their reliability.** Deterministic checks enforce rules writable in code, such as interaction-time monitoring or turn counting, with guarantees. Probabilistic checks query a lighter or specialised model — an LLM-as-a-judge — for semantic and pedagogical properties, and carry calibrated confidence instead of guarantees.
+6. **Failure never falls through to the student.** A correct–reverify loop regenerates an answer with added instructions and rechecks it, ideally as a non-regression safeguard that cannot reintroduce a fixed error; if the repair budget of iterations and time is exhausted, the system returns a pre-approved safe fallback or notifies a responsible adult.
+7. **The pilot put the framework on a social robot in a real classroom.** 24 analysed students (27 recruited, one group's data lost) in a rural German comprehensive school, aged 12–16, co-created a mnemonic about microcontrollers with the Robotical robot Marty in groups of two to three, first with a prompt-only LLM and then with SCAFFOLD enabled.
+8. **Students became contributors rather than consumers.** With SCAFFOLD they produced 18 relevant concept suggestions from 13 of 24 students and 13 mnemonic-creation suggestions from 12 of 24 — behaviour the authors describe as absent from the unframed interaction. Off-topic turns fell from 38% to 1%, six students who never participated without framing dropped to one, and turn balance varied significantly less (F = 5.84, p = .02) although equity of turns was not significantly different (W = 9.00, p = .13).
+9. **Co-creation predicted post-test knowledge, but comprehension assessment failed.** Co-creation level was significantly associated with post-test microcontroller knowledge (b = 0.93, SE = 0.35, p = .011) with prior knowledge non-predictive (b = −0.14, p = .78), consistent with retrieval practice. The registered question on whether the framework could accurately assess children's understanding (RQ2) was answered negatively: the framing failed to assess understanding accurately.
+
+## What SCAFFOLD is made of
+
+A **frame** is a coded layer between the user and the [[llm]] that handles a set of tasks, works with different models and contexts, and communicates with a memory. Frames are compiled by the **frame engine**, the core of the system, which runs six stages at every turn: collect data, analyse input, shape and generate a draft response, verify, correct or repair, and deliver the answer. Stage two is where risk handling begins — alerting a teacher when a student persists in misusing the tool or expresses dark thoughts, issuing meta-responses when the user drifts off topic, and estimating cognitive and emotional engagement, progress toward the goal, critical thinking or fatigue. Stage three shapes the prompt from a constitution of safeguards, the interaction parametrization, the input analysis and the user's prompt, then generates. Stage four validates the draft; stage five decides the action.
+
+The framework is deliberately *layered*: external verification, targeted repair and safe fallback surround text or speech generation rather than relying on training-time alignment. The paper's justification is drawn from reliability engineering — reliability is built, not found — and from the observation that generative AI inverts the classical computing trade-off, making plausible output nearly free while verification stays cognitively expensive, and that safety instructions dilute as a dialogue lengthens.
+
+In the pilot deployment the architecture carried **five frames**, described in the paper's Table 1: the **Mnemonic CoCreator Frame**, which handled session management, time-based phase transitions, contribution analysis and mnemonic quality; the **Language Checker Frame**, assessing age-appropriate complexity, tone and technical-term use; the **Balanced Turns Frame**, tracking turn counts, speaking time and monopolisation across students; the **Comprehension Tracker Frame**, holding per-student, per-concept profiles of understanding, confusion or misconception; and the **Phase Checker Frame**, aligning responses with phase-specific goals. Frames shared ephemeral per-turn state through a `shared_context` dictionary and persistent state through `frame_memory`. The engine itself is model-agnostic; the pilot ran it on gpt-4.1-mini on Microsoft Azure, with speech-to-text and text-to-speech around the [[educational-robotics|social robot]].
+
+The interaction was also levelled in time: three phases — selecting the microcontroller concepts to include, co-creating the mnemonic, and memorising it — inside a ten-minute session, and student contribution was scored on a **co-creation level** from 0 (the LLM did it all) through 0.5, 1, 2, to 3 (mainly by the students). Co-creation level, not the length of the mnemonic, became the learning-relevant variable when the authors found the LLM sometimes wrote the mnemonic itself.
+
+## The risks it is built to address
+
+The paper lists risks that are not merely factual: data [[privacy]] concerns and unsafe responses, but also attachment, cognitive atrophy and over-trust. For adolescents those failure modes are relational and developmental, which is why a guardrail that only forbids topics is judged insufficient. Emotional dependence on a companion-like chatbot, unsafe disclosure of personal information, misinformation presented fluently, and the shrinkage of productive effort through [[cognitive-offloading|cognitive delegation, offloading or surrender]] are treated as one connected design problem, and the response is to preserve the effort learning requires rather than to maximise helpfulness.
+
+Misinformation has a structural dimension the authors name directly: LLMs produce statistically likely continuations rather than verified truths, so [[hallucination-risk|hallucination]] is an inherent by-product of the generative paradigm and compliance to guidelines degrades as instructions get diluted over turns. Verification is therefore split between machine verification, which offers strict guarantees only in formal domains such as mathematics or code, and human verification, which is required for open-ended tasks involving judgement, context and intention. Most educational tasks — analysis, synthesis, creative expression, ethical reasoning — fall outside purely algorithmic verification, which is exactly the space SCAFFOLD occupies.
+
+The framework treats [[trust]] as a prerequisite for adoption rather than a bonus: teachers and students must consider the system usable, acceptable and useful, which requires that the AI provide accurate information. Monitoring cuts both ways in the same passage — teacher awareness tools can shift time toward students who need it and foster pro-social behaviour, but being watched without knowledge or consent can raise anxiety, so the paper insists monitoring be limited to cases with clear benefits and accompanied by transparency about what is collected, how, and who has access, plus the ability to deactivate memory preservation after an interaction. The [[ai-misuse-learning-harm|misuse-and-harm]] framing is systemic rather than individual: since the largest share of LLM users are teenagers often without training or safeguards from providers or regulators, the authors argue that remedy belongs to the field, not to the child.
+
+## Scaffolding the dialogue: mechanisms and implementation
+
+SCAFFOLD starts from the learning activity, not from the model. Educators define the **context** of the interaction (setting, location, goals, interlocutors, description, cultural and linguistic specificities), the desired **LLM behaviour** (desired output, pedagogical strategy, level of engagement), what happens in the **background** (what data is collected and what analysis runs), and the **learning material**, and those categories become the requirements the framework must enforce. The paper's illustrative decision is pedagogical: if a student asks for an answer, should the model state it, ask what the student thinks, ask for reasoning, offer a hint, or pose a metacognitive question? Leaving that to the model forfeits the [[scaffolding]] and [[self-regulated-learning|self-regulation]] benefits of the design; specifying it is what "designing the interaction" means.
+
+Mechanically, the framework integrates techniques that previously existed apart — constitutional prompting inside prompt shaping, post-hoc validation akin to [[guardrails]], and self-refinement through the correct–reverify loop — but drives them from the pedagogical design rather than from the model. The loop adds specificity to the prompt, regenerates, and rechecks, prefers non-regression so a fixed error cannot return, and when its budget of iterations and time runs out returns a pre-approved safe fallback or escalates to a responsible adult; in cases such as a technical fault or a red flag the loop can be bypassed by a shortcut to fallout, which may mean asking the student to contact an adult, generating an alert, or triggering reports. Deterministic checks such as time and turn counting sit alongside probabilistic judgement, and the authors are explicit that AI judges require validation and reliability testing before deployment, and that multi-agent evaluation could raise consistency but may be too slow for live conversation.
+
+Memory is designed as a knob rather than an assumption. It can be re-initialised at each interaction leaving no traces, or persist across conversations for assessment, evaluation and personalisation, long-term progress monitoring and coverage tracking — with the transparency and opt-out requirements above attached. This matters educationally because the pair of frames the pilot valued differently depend on it: balanced turn-taking turned out reliable, while per-student understanding tracking did not.
+
+## What teachers and designers are meant to do with it
+
+The framework is offered as a translation layer, so that pedagogically appropriate students-AI interactions can be defined without coding expertise and implemented reliably. Teachers bring the learning goals, context, pedagogical strategy, activity, content, flow, structure, rules and assessment they would already write into a lesson plan, plus an explicit statement of desired model behaviour, and consider students' zone of proximal development when setting the scaffolding. The paper treats this specification work as productive in itself: designing a students-AI interaction "can become an opportunity to critically reflect about the pedagogical practices and students' learning."
+
+For learning designers and system builders the contribution is architectural. The complete multi-user mnemonic co-creation system — balanced turns management, contribution tracking, phases and time management — is released open-source, with data, analysis code, a codebook and supplementary materials in the project repository, and an interactive simulation application demonstrating the framework. The authors position this as seeding an ecosystem of safeguards and pedagogical behaviours to be built with educators and child-development experts, and note two structural advantages: model-agnosticism means external scrutiny is possible, and local deployment can keep data in schools while still delivering personalisation and differentiation. The claimed implementation pathway also speaks to [[regulation]] — the EU AI Act classifies educational AI as high-risk and demands conformity assessment, human oversight and transparency; the framework's per-turn traceability, documented deterministic guarantees and frame-based design are put forward as a candidate way to meet what the Act specifies but does not say how to achieve.
+
+Two further uses are sketched: multi-user AI interactions that go beyond individual screen-based work, and using the frame to assist teachers in analysing the conversation — the authors cite evidence that such awareness can redirect teacher attention toward students who need it, and that monitoring can change behaviour toward the pro-social if it is not imposed blindly.
+
+## Limitations: a conceptual framework, not yet evaluated
+
+The paper is a position and methodology paper, and it says so. Its empirical content is a single short pilot, described by the authors as exploratory, offering feasibility and signal rather than an effect size; no formal evaluation of a framed LLM's learning benefit has been conducted, and the learning association reported is correlational after controlling for prior knowledge. The registered question on accurate assessment of understanding failed, partly because students had too little input in the time available and partly because the authors had not defined well enough how the probabilistic checker should assess understanding — a problem they call very complex and in need of further research.
+
+Design weaknesses are reported plainly. The ten-minute interaction was set too short for groups to reach the third phase, where students were meant to practice the mnemonic, and the paper did not define what should happen if students kept interacting with Marty, so negative feedback came mainly from groups that ran out of time and met a robot that refused to answer. All groups interacted with the unframed model first, for pedagogical reasons and without counterbalancing, though the authors reason that fatigue and novelty effects would have worked against the framed condition rather than for it. The analysis also ignored the LLM's own turns, leaving open how speaking time should be balanced between students *and* the AI. Finally the sample was small and homogeneous — 27 children from one rural German comprehensive school, 24 analysed after a technical data loss, 4 female — limiting generalisability, and the probabilistic checks themselves require empirical validation before they can be trusted. The authors' stated expectation is iteration: extend and go beyond the piloted frame, and involve educators and experts in designing, testing and improving students-AI interactions.
+
+## Connected Concepts
+
+- [[ai-literacy]] — safe and developmentally adapted LLMs named as a precondition for AI literacy, not a by-product of it
+- [[ai-misuse-learning-harm]] — over-trust, attachment and cognitive surrender treated as harm classes to design against
+- [[conversational-ai]] — the multi-turn dialogue whose per-turn steering is the framework's object
+- [[critical-pedagogy]] — interaction design as a prompt for educators to reflect critically on practice
+- [[guardrails]] — post-hoc validation placed inside a pedagogical pipeline rather than left as generic filtering
+- [[hallucination-risk]] — inherent to the generative paradigm and worsened as instructions dilute across turns
+- [[human-ai-collaboration]] — the "human-AI co-thinking" mode that SCAFFOLD is built to preserve
+- [[llm]] — the probabilistic substrate the framework steers without modifying model weights
+- [[pedagogical-agent]] — the frame engine as a coded layer mediating between student and model
+- [[pedagogical-safety]] — safety defined pedagogically, with deterministic guarantees and auditable per-turn decisions
+- [[privacy]] — data minimisation, local deployment and user-controlled memory preservation
+- [[scaffolding]] — zones of proximal development, participatory turn-taking and deliberate non-help
+- [[self-regulated-learning]] — preserving productive effort instead of delegating thinking to the model
+- [[sociocultural-learning]] — learning as social interaction, extended to multi-user group dialogue with an AI
+
+## Connected Articles
+
+- [[scaffold-framework-adolescent-genai-2026]] — The same SCAFFOLD framework described from a different source, with the pilot and its framing
+- [[eduzone-llm-safety-k12]] — A benchmark for how unsafe K-12-facing LLMs actually are on student and teacher queries
+- [[eduguard-safe-rag-llm-tutor]] — Retrieval-grounded tutor safety, an alternative route to verified answers
+- [[hazra-safetutors-pedagogical-safety-2026]] — Pedagogical safety as a distinct property from content safety in AI tutoring
+- [[pedagogical-safety-rl]] — Pedagogical safety formalised inside a learning system's own optimisation
+- [[children-ai-safety-misconceptions-2026]] — What children believe about AI surveillance and privacy, an input to safe design
+- [[chang-co-designing-ai-youth-relational-privacy-2025]] — Co-designing relational privacy with young people rather than for them
+- [[robobuddy-llm-social-robots-classroom-2025]] — LLM-powered social robots in classroom activities, the deployment shape SCAFFOLD piloted
+- [[generative-ai-guardrails-harm-learning]] — Evidence that unguarded generative AI access can degrade learning once removed
+- [[regulating-ai-tutor-adolescent-srl]] — Adolescents' regulation and help-seeking with a GenAI tutor, a measure of whether scaffolding holds
+
+## Citation
+
+Muss, O., Leisten, L. M., & Bardyn, C. E. (2026). [*Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions*](https://osf.io/preprints/psyarxiv/dt2ex). *PsyArXiv* preprint.
