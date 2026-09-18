@@ -8,7 +8,7 @@ All scan parameters, paths, build commands and the agent integration live in
 to point the pipeline somewhere else. Everything below describes the workflow.
 
 **What this tooling does:**
-- **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph) and EdArXiv for new papers in your domain
+- **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph), EdArXiv and PsyArXiv (by subject, e.g. Educational Psychology) for new papers in your domain
 - **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd — see `wiki.config.yaml` → `journal_scan.feeds`)
 - Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and a tag taxonomy
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
@@ -98,7 +98,7 @@ Two cron jobs (see `cron/` for the prompts):
 
 | Job | Schedule | Sources |
 |-----|----------|---------|
-| Daily scan | Weekdays 9:00 AM | arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph), EdArXiv |
+| Daily scan | Weekdays 9:00 AM | arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph), EdArXiv, PsyArXiv (Educational Psychology) |
 | Weekly journal RSS | Sundays 8:00 AM | Journal RSS feeds (open-access only) |
 
 Create them with `agent cron create` using the prompt files, setting `workdir` to your wiki path.

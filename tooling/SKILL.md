@@ -350,8 +350,9 @@ When a daily ingestion cron job stalls mid-pipeline (typically during an `execut
 - `gen-epub-cover.mjs` — Renders the book cover `public/epub-cover.png` (sharp)
 - `gen-og-concept-map.mjs` — Renders the concept-map images (white/dark variants) used in the site OG image, EPUB/PDF cover, and EPUB
 - `scripts/detect-readfile-corruption.py` — Detect and repair wiki pages corrupted by read_file line-number prefixes
-- `cron/daily-scan-prompt.md` — Daily arXiv/EdArXiv scan cron prompt
+- `cron/daily-scan-prompt.md` — Daily arXiv/EdArXiv/PsyArXiv scan cron prompt
 - `cron/weekly-rss-scan-prompt.md` — Weekly journal RSS ingestion cron prompt (open-access check included)
+- `references/psyarxiv-subject-search.md` — SHARE/Trove endpoint for PsyArXiv-by-subject scans (the OSF API cannot combine `filter[subjects]` with anything)
 - `references/web-search-fallback.md` — Proven web_search query patterns for arXiv discovery when API is rate-limited
 - `references/arxiv-listing-extraction.md` — Deterministic arXiv ID extraction from listing pages to bypass API blocks
 - `references/arxiv-api-query-pattern.md` — Proven `execute_code` + `urllib` pattern for date-window arXiv API queries (works in cron; bypasses terminal HTTP block)
