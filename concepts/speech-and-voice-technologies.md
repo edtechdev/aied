@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-18T09:40:00-04:00"
+updated: "2026-09-18T10:38:24-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -32,8 +32,6 @@ The research here splits into four clusters: ASR pronunciation feedback, TTS-gen
 ## ASR and Pronunciation Feedback
 
 The most consistent message from the ASR work is that the tool is not the treatment — the feedback design is. [[asr-english-speaking-feedback-metacognition-2026|Chen et al. (2026)]] surveyed 325 undergraduates at a Chinese [[teacher-role|teacher]]-training university and modeled accuracy, usage frequency, [[ai-feedback-quality|feedback quality]], and reflection-task design against reflective behavior and intrinsic [[motivation]], then against speaking improvement. Accurate error correction and structured reflection tasks drove both [[feedback]] internalization and reflection. More frequent use boosted reflection but had no independent effect on motivation. Recognition accuracy raised motivation, plausibly by building trust in the tool, but did not by itself trigger deeper processing — a learner can register a flagged error without analyzing its cause. Reflection was the stronger predictor of speaking gains, and proficiency moderated both pathways: weak and non-significant at low proficiency, markedly stronger at average and high levels. The advice that follows is to explain errors articulatorially rather than flag them, ramp complexity with readiness, and frame correction supportively.
-
-Reliability in a specific-purposes context needs a second metric. [[ai-medical-english-speech-recognition-2026|Stanchev (2026)]] transcribed a 2,692-token biochemistry passage used in [[medical-education|Medical English]] instruction with four online ASR services and found word error rate alone misleading: two free services returned near-complete transcripts (88.0–88.2% coverage) at WER 15.23% and 15.02%, while two paid services returned partial output covering only 30.1% and 54.6% of the reference text, their much higher WER (72.14% and 47.77%) driven mainly by missing segments rather than dense substitution errors. Deletions dominated across systems (~12.6% of reference tokens, about 22% of them structural markers such as figure references and numeric labels), and meaning-altering substitutions stayed below 1% of tokens yet included exactly the contrasts the discipline turns on (*imino* → *amino*, *cystine* → *cysteine*, *pH* → *phase*). Coverage must therefore be reported alongside WER, full transcript export is essential, and terminological precision still requires [[human-in-the-loop-ai|human verification]] — a corrective to accuracy-only evaluations of the spoken channel in [[language-learning|language learning]].
 
 A second strand asks whether AI pronunciation feedback changes learners' disposition to speak. [[genai-pronunciation-feedback-wtc-2026|Lu et al. (2026)]] surveyed 1,701 Chinese university EFL learners and used covariance-based structural equation modeling with bias-corrected bootstrapping to test whether perceptions of [[generative-ai]] pronunciation feedback related to willingness to communicate, with pronunciation [[self-efficacy]] as mediator. The association was positive, and self-efficacy partially mediated it: the indirect path accounted for 69.9% of the total effect while a direct effect remained. All constructs were [[self-report-measures|self-reported]] at one time point, so the study describes a mechanism learners perceive rather than one that was manipulated.
 
@@ -89,8 +87,6 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 - [[equity-in-ai-education]]
 
 ## Connected Articles
-
-- [[ai-medical-english-speech-recognition-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
 
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR speaking feedback: quality beats quantity, and proficiency moderates who benefits (Chen et al. 2026)
 - [[genai-pronunciation-feedback-wtc-2026]] — Pronunciation self-efficacy mediates GenAI pronunciation feedback and willingness to communicate (1,701 EFL learners)
