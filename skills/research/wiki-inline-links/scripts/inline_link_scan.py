@@ -346,6 +346,10 @@ REJECT_PAIRS = {
     ('embedding', 'llm'),                            # vector embedding, not the model
     ('motive families', 'parents-and-families'),     # "families" as a group of constructs
     ('task-switching preference', 'cognitive-offloading'),  # a distinct scale, not offloading
+    ('embodiment', 'embodied-learning'),             # "an embodiment of AI" = physical instantiation
+    ('systems biology', 'biology-education'),        # discipline named as an analogy
+    ('biological communication', 'biology-education'),  # non-educational sense
+    ('medicine', 'medical-education'),               # the field, not the education of its practitioners
     ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct
     ('adoption', 'technology-acceptance-model'),     # bare uptake, not the model family
     ('practice', 'teacher-role'),                    # "their future practice"

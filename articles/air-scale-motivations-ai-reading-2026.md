@@ -83,4 +83,4 @@ The limitations are stated plainly. The samples were primarily younger higher-ed
 
 ## Citation
 
-Brann, A., Etgar, S., & Sidi, Y. (2026). *The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading*.
+Brann, A., Etgar, S., & Sidi, Y. (2026). [*The AIR Scale: Development and validation of a measure of motivations for using AI during reading*](https://osf.io/preprints/psyarxiv/djexs_v1). *PsyArXiv Preprints*.

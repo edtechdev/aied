@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-18T13:00:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -43,6 +43,7 @@ A misconception here is not mere ignorance of how a model works — it is an act
 - **The determinism error** — expecting one query to be enough and not realizing output is non-deterministic and prompt-sensitive. Underestimating this produces the "[[prompt-engineering|prompting]] gap," where students mistake shallow results for the tool's ceiling.
 - **The detection miscalibration** — underestimating both institutional detection and, more importantly, the self-harm of submitting work they cannot later explain or defend.
 - **The efficiency illusion** — treating time saved as pure gain, missing that unexercised foundational skills decay and that novices cannot yet tell good output from bad.
+- **The friendliness-safety illusion (children)** — believing a friendly-seeming AI is inherently safe and less likely to spy. [[children-ai-safety-misconceptions-2026|Leisten et al. (2026)]] surveyed 71 children aged 10–16 (*M*age = 12.90) and ran six focus groups (n = 36) around the open-source social robot Blossom, finding foundational AI knowledge rose reliably with age (*M* = 4.41 of 6; β = 0.17) while safety attitudes stayed ambivalent (importance *M* = 2.51, current safety *M* = 2.77 on a 1–4 scale), captured in a 12–13-year-old's belief that "maybe if they are good friends he doesn't spy so much" — alongside the belief that AI's knowledge can be deleted at the press of a button, that hacking leads to kidnapping, and that "the wifi radiates into the brain."
 
 ### Institutional and public AI myths
 
@@ -134,3 +135,4 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
+- [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
