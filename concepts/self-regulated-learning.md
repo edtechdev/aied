@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-18T03:55:00-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -148,6 +148,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 
 ## Connected Articles
+- [[genai-performance-vs-learning]] — offloading planning, monitoring and evaluating short-circuits the SRL loop (Yan et al. 2025)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
