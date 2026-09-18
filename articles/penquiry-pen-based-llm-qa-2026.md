@@ -26,7 +26,7 @@ confidence: high
 
 ## Why interaction design is the binding constraint for AI study help
 
-Access to a capable model is no longer the scarce resource in [[self-directed-learning]]; the scarce resource is the learner's willingness to interrupt their work to formulate a question. The friction is behavioural as much as technical: every keystroke and every rephrasing is a cost paid at exactly the moment [[help-seeking|help-seeking]] is most fragile. Penquiry's contribution is to treat that cost as the design problem, which is why its results speak to [[student-ai-interaction]] and to the broader [[student-experience]] literature rather than only to input-modality engineering.
+Access to a capable model is no longer the scarce resource in [[self-directed-learning]]; the scarce resource is the learner's willingness to interrupt their work to formulate a question. The friction is behavioural as much as technical: every keystroke and every rephrasing is a cost paid at exactly the moment [[help-seeking]] is most fragile. Penquiry's contribution is to treat that cost as the design problem, which is why its results speak to [[student-ai-interaction]] and to the broader [[student-experience]] literature rather than only to input-modality engineering.
 
 ## Tensions the paper leaves open
 

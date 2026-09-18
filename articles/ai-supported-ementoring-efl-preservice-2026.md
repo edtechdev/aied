@@ -38,7 +38,7 @@ The experimental group received the AI-supported e-mentoring model across pre-pr
 
 Outcomes were measured with the 24-item Teachers' Sense of Efficacy Scale (TSES) and the 30-item Trait Emotional Intelligence [[self-report-measures|Questionnaire]] (TEIQue), administered before and after the intervention, with good internal consistency and no meaningful baseline differences between groups. Effects were tested with mixed (group-by-time) analyses of variance, and the qualitative strand — pre- and post-intervention semi-structured interviews plus weekly reflective inputs — was analyzed thematically with a hybrid coding approach. Because the sample was set by availability rather than a priori power analysis, a sensitivity analysis indicated the design could reliably detect only relatively large effects.
 
-Interview data trace a shift from wanting to avoid teaching out of fear of classroom challenges toward later reports of reduced [[ai-anxiety-and-stress|anxiety]] — a change the authors read as emerging emotional regulation supported by guided reflection.
+Interview data trace a shift from wanting to avoid teaching out of fear of classroom challenges toward later reports of reduced [[anxiety-and-stress|anxiety]] — a change the authors read as emerging emotional regulation supported by guided reflection.
 
 The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mastery and vicarious experiences, social persuasion, emotional states), a Hattie-and-Timperley [[feedback]] division of labor in which AI works at the task and process levels while human mentors address [[self-regulated-learning|self-regulation]] and self-level concerns, and a trait-based conception of emotional intelligence. AI is explicitly positioned as augmenting, not replacing, the human mentor.
 
@@ -84,7 +84,7 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 - [[human-in-the-loop-ai]]
 - [[generative-ai]]
 - [[teacher-ai-competency]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[scaffolding]]
 - [[experiential-learning]]
 

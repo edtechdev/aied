@@ -88,6 +88,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Learner engagement and experience
 
+- **`anxiety-and-stress`** — Anxiety and Stress — phrases: AI anxiety; AI stress; AI-induced anxiety; academic stress; anxiety; learner anxiety; productive AI anxiety; remote proctoring anxiety; stress; student anxiety; surveillance stress; test anxiety
 - **`creativity`** — Creativity — phrases: creative; creative skills; creative thinking; creativity; divergent thinking
 - **`help-seeking`** — Help-Seeking — phrases: help avoidance; help seeking; help seeking behavior; help-seeking; hint seeking
 - **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; mastery-based progression
@@ -236,7 +237,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Learners
 
-- **`ai-anxiety-and-stress`** — AI Anxiety and Stress — phrases: AI anxiety; AI stress; AI-induced anxiety; productive AI anxiety; remote proctoring anxiety; surveillance stress; test anxiety
 - **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
 - **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
 - **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
@@ -257,6 +257,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
 
+### Administrators and leaders
+
+- **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
+
 ### Lifelong and workplace learning
 
 - **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
@@ -266,7 +270,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Institutions
 
-- **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
 - **`change-management`** — Change Management — phrases: change management; educational reform; implementation of AI; institutional change; leading change; organizational change
 - **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policy; policy for AI
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
@@ -305,6 +308,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ## Merged / absorbed (redirects to the canonical page)
 
 - `accessible-learning` → **`inclusive-learning`**
+- `ai-anxiety-and-stress` → **`anxiety-and-stress`**
 - `ai-tutoring` → **`intelligent-tutoring`**
 - `automated-grading` → **`automated-assessment`**
 - `blended-learning` → **`online-teaching-and-learning`**

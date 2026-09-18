@@ -31,7 +31,7 @@ Learning gains are the ultimate test of any educational technology. In the knowl
 
 Key findings from the knowledge base:
 
-- **[[adaptive-pretesting-retention|Adaptive pretesting]]** research examines whether [[generative-ai|GenAI-enabled]] pretesting produces durable learning gains that persist beyond immediate testing.
+- **[[adaptive-pretesting-retention|Adaptive pretesting]]** research examines whether [[generative-ai|GenAI-enabled]] [[retrieval-spacing-interleaving|pretesting]] produces durable learning gains that persist beyond immediate testing.
 - **[[genai-meta-analysis-programming-learning|Meta-analyses of GenAI in programming]]** find positive learning gains from structured AI use but negative effects from unguided reliance — a key distinction between productivity and durable learning.
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows negative associations between hint abuse and learning gains — more hints correlate with less learning.
 - **[[instructional-guidance-genai-learning|Instructional guidance]]** studies demonstrate that learning gains depend on HOW AI is used, not just WHETHER it's available.

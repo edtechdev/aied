@@ -4,9 +4,8 @@ created: "2026-08-25T07:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [well-being]
+pedagogy: [anxiety-and-stress, well-being]
 technology: [generative-ai]
-stakeholders: [ai-anxiety-and-stress]
 ethics: [ethics, privacy]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors]
@@ -19,7 +18,7 @@ institutions: [governance, regulation]
 
 > **Synthesis:** **AI Anxiety: A Comprehensive Analysis** — Kim et al. define AI Anxiety as the feelings of apprehension or fear stemming from the accelerated development of AI [[ai-technologies|technologies]], and provide a wide-ranging review of its psychological underpinnings and proposed interventions. They distinguish AI Anxiety from earlier Automation Anxiety, identify the **fear of replacement by AI** as the primary contributor (alongside uncontrolled AI growth, [[privacy]] concerns, AI-generated misinformation, and AI biases), and propose multidisciplinary educational, technological, regulatory, and [[ethics|ethical]] solutions.
 
-This review positions AI Anxiety as a distinct psychological phenomenon — broader than the learner-facing test anxiety studied in educational settings, and anchored in existential/career concerns about AI displacing human roles. It is the theoretical backbone for the knowledge base's [[ai-anxiety-and-stress]] concept.
+This review positions AI Anxiety as a distinct psychological phenomenon — broader than the learner-facing test anxiety studied in educational settings, and anchored in existential/career concerns about AI displacing human roles. It is the theoretical backbone for the knowledge base's [[anxiety-and-stress]] concept.
 
 ## Key Contributions
 
@@ -30,14 +29,14 @@ This review positions AI Anxiety as a distinct psychological phenomenon — broa
 
 ## Implications
 
-- **For [[ai-anxiety-and-stress]]:** provides the theoretical framing that AI anxiety is a real, growing psychological phenomenon with identifiable causes — not merely a classroom affect — and that it spans career, privacy, misinformation, and bias domains.
+- **For [[anxiety-and-stress]]:** provides the theoretical framing that AI anxiety is a real, growing psychological phenomenon with identifiable causes — not merely a classroom affect — and that it spans career, privacy, misinformation, and bias domains.
 - **For education:** frames [[ai-literacy]] as a key intervention — increased knowledge about AI and higher computer use are associated with more positive attitudes toward AI and reduced anxiety.
 - **For policy:** argues for [[governance]] and [[regulation|regulatory]] and ethical guidelines to mitigate AI anxiety as society enters the era of pervasive AI.
 
 ## Connected Concepts
 - [[career-development-and-readiness]] — the fear of replacement / career dimension
 
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[privacy]]

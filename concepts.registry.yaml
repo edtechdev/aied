@@ -105,16 +105,6 @@ concepts:
     - ai agents
     - autonomous agents
     - multi-agent
-  ai-anxiety-and-stress:
-    title: AI Anxiety and Stress
-    aliases:
-    - AI anxiety
-    - AI stress
-    - AI-induced anxiety
-    - productive AI anxiety
-    - remote proctoring anxiety
-    - surveillance stress
-    - test anxiety
   ai-detection:
     title: AI Detection
     aliases:
@@ -196,6 +186,21 @@ concepts:
     - declaring AI use
     - disclosure of AI use
     - transparency about AI use
+  anxiety-and-stress:
+    title: Anxiety and Stress
+    aliases:
+    - AI anxiety
+    - AI stress
+    - AI-induced anxiety
+    - academic stress
+    - anxiety
+    - learner anxiety
+    - productive AI anxiety
+    - remote proctoring anxiety
+    - stress
+    - student anxiety
+    - surveillance stress
+    - test anxiety
   arts-design-and-media-education:
     title: Arts, Design and Media Education
     aliases:
@@ -1961,6 +1966,7 @@ sections:
     - student-ai-interaction
     - problem-solving
     - mastery-learning
+    - anxiety-and-stress
 - heading: Technologies and techniques
   blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring
     systems built on them.'
@@ -2099,7 +2105,6 @@ sections:
     - learners
     - student-experience
     - career-development-and-readiness
-    - ai-anxiety-and-stress
   - label: Families and communities
     items:
     - parents-and-families
@@ -2112,6 +2117,9 @@ sections:
   - label: Designers and developers
     items:
     - educational-technology-developers
+  - label: Administrators and leaders
+    items:
+    - administrator
   - label: Lifelong and workplace learning
     items:
     - lifelong-learning
@@ -2120,7 +2128,6 @@ sections:
   groups:
   - label: Institutions
     items:
-    - administrator
     - educational-policy-ai
     - governance
     - change-management
@@ -2155,6 +2162,7 @@ sections:
     - trust-calibration
     - explainable-ai
 redirects:
+  ai-anxiety-and-stress: anxiety-and-stress
   accessible-learning: inclusive-learning
   peer-review: peer-assessment
   ai-tutoring: intelligent-tutoring

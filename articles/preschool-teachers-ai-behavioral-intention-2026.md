@@ -4,8 +4,7 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
-pedagogy: [self-efficacy]
-stakeholders: [ai-anxiety-and-stress]
+pedagogy: [anxiety-and-stress, self-efficacy]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [survey, structural equation modeling, quantitative]

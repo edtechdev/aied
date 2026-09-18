@@ -4,8 +4,7 @@ created: "2026-08-25T07:48:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [social-emotional-learning]
-stakeholders: [ai-anxiety-and-stress]
+pedagogy: [anxiety-and-stress, social-emotional-learning]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
@@ -35,11 +34,11 @@ Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety e
 
 - **For [[career-development-and-readiness]]:** AI anxiety is a real psychological barrier to employment confidence across disciplines, including health sciences.
 - **For institutions:** enhancing educational programs and [[ai-literacy]]/career counseling services at the university level could significantly reduce AI-related career anxiety.
-- **For [[ai-anxiety-and-stress]]:** corroborates the career-anxiety dimension with [[discipline-specific-aied|discipline-specific]] (health-sciences) evidence.
+- **For [[anxiety-and-stress]]:** corroborates the career-anxiety dimension with [[discipline-specific-aied|discipline-specific]] (health-sciences) evidence.
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[career-development-and-readiness]]
 - [[ai-literacy]]
 - [[higher-ed]]

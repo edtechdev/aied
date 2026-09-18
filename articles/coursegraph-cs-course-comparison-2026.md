@@ -4,14 +4,13 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [curriculum-design]
-stakeholders: [student-experience]
+stakeholders: [administrator, student-experience]
 research_method: [system development]
 discipline: [cs education]
 audience: [learners, administrators]
 level: [higher ed]
 sources: ['raw/papers/2608.05910.md']
 confidence: medium
-institutions: [administrator]
 technology: [edtech-platform]
 ---
 

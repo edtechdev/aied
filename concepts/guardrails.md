@@ -19,7 +19,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 - In a field experiment, an unguarded [[intelligent-tutoring|AI tutor]] raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
 - If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective feedback — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
 - Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
-- The page notes that guardrails themselves can be biased — refusals and softened answers patterned by student identity. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
+- The page notes that guardrails themselves can be biased — refusals and softened answers patterned by [[learner-identity|student identity]]. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
 - Younger learners are described as least equipped to detect manipulative or sycophantic AI behavior. How does that change what 'safe' should mean for a K-12 AI tool compared with a university one?
 
 ## Introduction
@@ -36,7 +36,7 @@ The single most cited empirical demonstration is the [[generative-ai-guardrails-
 
 ### 1. Prompt-level guardrails (the "hint-not-answer" pattern)
 
-The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
+The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **[[teacher-role|teacher]]-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
 
 ### 2. Knowledge grounding (RAG)
 

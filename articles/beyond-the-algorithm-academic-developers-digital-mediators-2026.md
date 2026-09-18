@@ -4,11 +4,11 @@ created: "2026-09-18T11:12:00-04:00"
 updated: "2026-09-18T11:21:18-04:00"
 type: article
 foundations: [ai-literacy, teacher-role, educational-development]
-pedagogy: [critical-pedagogy]
+pedagogy: [anxiety-and-stress, critical-pedagogy]
 technology: [generative-ai]
 ethics: [equity-in-ai-education, digital-divide, global-south]
 institutions: [change-management, educational-policy-ai, governance]
-stakeholders: [teacher-ai-competency, professional-training, ai-anxiety-and-stress]
+stakeholders: [teacher-ai-competency, professional-training]
 methods: [qualitative-research]
 research_method: [interviews, thematic analysis, qualitative]
 level: [higher ed]
@@ -17,7 +17,7 @@ sources: ['raw/papers/beyond-the-algorithm-academic-developers-digital-mediators
 confidence: high
 ---
 
-> **Synthesis:** Sithole interviews twelve [[educational-development|academic developers]] and learning designers — six each at two South African Historically Disadvantaged Institutions — to ask what [[generative-ai|AI]] integration looks like when it arrives at [[higher-ed|universities]] still shaped by apartheid-era underfunding. Read through [[critical-pedagogy|Critical Digital Pedagogy]] and decolonial theory, their accounts describe work that is not technical implementation but mediation across three registers: pedagogical, [[ethics|ethical]] and institutional. Institutional AI rhetoric was "performance more than practice," [[educational-policy-ai|policy]] loosely coupled to infrastructure, while developers filtered the hype through questions about students who struggle with Wi-Fi, absorbed the [[ai-anxiety-and-stress|affective cost]] of projecting expertise they were still acquiring, and built peer spaces to test and deliberately break tools rather than master them. The paper's sharpest analytical move is to separate **digital inequality**, a [[digital-divide|distributive problem]] answerable through access, from **algorithmic coloniality**, an epistemic problem that survives full access because it inheres in what the systems encode. The claim that follows is that AI adoption in [[global-south|Global South]] institutions is a negotiation over pedagogy, institutional purpose and epistemic justice, not a technology rollout.
+> **Synthesis:** Sithole interviews twelve [[educational-development|academic developers]] and learning designers — six each at two South African Historically Disadvantaged Institutions — to ask what [[generative-ai|AI]] integration looks like when it arrives at [[higher-ed|universities]] still shaped by apartheid-era underfunding. Read through [[critical-pedagogy|Critical Digital Pedagogy]] and decolonial theory, their accounts describe work that is not technical implementation but mediation across three registers: pedagogical, [[ethics|ethical]] and institutional. Institutional AI rhetoric was "performance more than practice," [[educational-policy-ai|policy]] loosely coupled to infrastructure, while developers filtered the hype through questions about students who struggle with Wi-Fi, absorbed the [[anxiety-and-stress|affective cost]] of projecting expertise they were still acquiring, and built peer spaces to test and deliberately break tools rather than master them. The paper's sharpest analytical move is to separate **digital inequality**, a [[digital-divide|distributive problem]] answerable through access, from **algorithmic coloniality**, an epistemic problem that survives full access because it inheres in what the systems encode. The claim that follows is that AI adoption in [[global-south|Global South]] institutions is a negotiation over pedagogy, institutional purpose and epistemic justice, not a technology rollout.
 
 ## Key Findings
 
@@ -55,7 +55,7 @@ Twelve purposively sampled participants (nine academic developers, three learnin
 - [[teacher-role]] — the shift from facilitators of reflective teaching to technological intermediaries
 - [[teacher-ai-competency]] — expertise demanded ahead of expertise held, and judgement as the target of professional learning
 - [[ai-literacy]] — developers' own emergent, collaborative and sceptical learning about AI
-- [[ai-anxiety-and-stress]] — impostor feelings, public failure and ethical discomfort in mediation work
+- [[anxiety-and-stress]] — impostor feelings, public failure and ethical discomfort in mediation work
 - [[academic-integrity]] — the plagiarism, dependency and cognitive-outsourcing concerns developers raised with lecturers
 - [[professional-training]] — peer-learning spaces as the vehicle for practitioner development
 - [[generative-ai]] — the technology participants' accounts centred on

@@ -4,11 +4,10 @@ created: "2026-08-19T17:50:00-04:00"
 updated: "2026-09-16T14:32:03-04:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
-stakeholders: [stakeholders, student-experience]
+stakeholders: [administrator, stakeholders, student-experience]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
-institutions: [administrator]
 ---
 > **Stakeholders** — the range of human stakeholders involved in, affected by, and responsible for [[ai-education|AI in education]], and the umbrella concept for the knowledge base's coverage of who the actors are. [[ai-education|AI in education]] is a multi-stakeholder field: learners who use AI, [[teacher-role|teachers]] and [[educational-development|faculty]] who integrate it, [[administrator|administrators]] who govern it, instructional designers who build learning experiences around it, and policymakers who regulate it. Each audience has distinct needs, competencies, roles, and perspectives, and the knowledge base treats them as the human context in which AI tools are designed, deployed, and evaluated.
 
@@ -30,7 +29,7 @@ institutions: [administrator]
 - **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[learning-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
 - **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
 - **Policymakers and regulators.** Government and institutional bodies that set the legal and regulatory framework. Related to [[educational-policy-ai]], [[regulation]], and [[governance]].
-- **Parents and families.** Present in the [[research-methods-aied|research]] (e.g., monitoring student AI use, attitudes toward AI) but not yet a dedicated page — grouped here as a stakeholder.
+- **[[parents-and-families|Parents and families]].** Present in the [[research-methods-aied|research]] (e.g., monitoring [[student-ai-interaction|student AI use]], attitudes toward AI) but not yet a dedicated page — grouped here as a stakeholder.
 
 ## How stakeholders appear in the research
 
@@ -43,7 +42,7 @@ institutions: [administrator]
 
 A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. The knowledge base treats identity as distributed across audiences rather than belonging to any single group.
 
-- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
+- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from [[agentic-ai|agentic]] acts and is threatened by authorship loss and competence doubt under AI.
 - **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
 - **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the knowledge base's explicit identity coverage concentrates on learners and teachers.
 

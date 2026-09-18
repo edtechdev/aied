@@ -44,7 +44,7 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 ### Well-being as a design consideration
 
-A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[ai-anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
+A recurring theme is that well-being should be a deliberate design consideration in AI in education, not an afterthought. This means: designing AI to support rather than replace human relationships; ensuring students can maintain agency and confidence rather than experiencing [[anxiety-and-stress|AI-induced anxiety]] or over-reliance; supporting educators' capacity and well-being as they integrate AI; and [[ai-ed-evaluation|evaluating AI]] systems not only for [[learning-gains|learning outcomes]] but also for their effects on students' and teachers' well-being. [[research-methods-aied|Research]] connects well-being to [[motivation]], [[self-regulated-learning]], and [[student-experience]] (belonging and engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] argues for an educational telos to match: the Daoist "Zhenren" (真人) counter-ideal replaces frictionless optimization with "cultivated wholeness," reimagining learning as the harmonious integration of self, society and cosmos, and insisting that "no student is merely a dataset to be managed, but a whole being capable of achieving equanimity."
 
 ### Connections to related concepts
 
@@ -54,7 +54,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 
 - [[student-experience]]
 - [[social-emotional-learning]]

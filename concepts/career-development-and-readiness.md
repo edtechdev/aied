@@ -4,7 +4,8 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-10T15:28:00-04:00"
 type: concept
 foundations: [ai-literacy]
-stakeholders: [ai-anxiety-and-stress, professional-training]
+stakeholders: [professional-training]
+pedagogy: [anxiety-and-stress]
 level: [higher ed, adult learning]
 confidence: high
 ---
@@ -22,10 +23,10 @@ confidence: high
 
 ## Introduction
 
-As AI transforms occupations, education's role in career development has broadened from credentialing toward building **adaptability** — the capacity to navigate, adjust, and thrive across changing roles. This concept connects education to employability and links to [[ai-anxiety-and-stress]]: students with stronger career adapt-abilities experience less AI anxiety.
+As AI transforms occupations, education's role in career development has broadened from credentialing toward building **adaptability** — the capacity to navigate, adjust, and thrive across changing roles. This concept connects education to employability and links to [[anxiety-and-stress]]: students with stronger career adapt-abilities experience less AI anxiety.
 
 ## How career development and readiness appears in the knowledge base
-- **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm the mechanism with SEM: AI anxiety impairs career decisions largely through eroded career adaptability (63.35% of the total effect), and self-efficacy offered limited buffering. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] add that AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across 1,057 students, with women, social-science majors, and second-years most affected. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] extend this to health-sciences students (821, r = 0.233). Career readiness is thus an empirically validated buffer against [[ai-anxiety-and-stress|career-related AI anxiety]].
+- **Career adaptability reduces AI anxiety.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] shows career adapt-abilities significantly and negatively predict AI anxiety among English majors, with core self-evaluations partially mediating the relationship; the low-adaptability group showed the highest AI anxiety. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirm the mechanism with SEM: AI anxiety impairs career decisions largely through eroded career adaptability (63.35% of the total effect), and self-efficacy offered limited buffering. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün & Danacıoğlu]] add that AI anxiety and negative AI attitudes predict post-graduation job-finding anxiety across 1,057 students, with women, social-science majors, and second-years most affected. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] extend this to health-sciences students (821, r = 0.233). Career readiness is thus an empirically validated buffer against [[anxiety-and-stress|career-related AI anxiety]].
 - **AI literacy is necessary but not sufficient.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] argue AI literacy alone is not enough for career readiness — students also need adaptability and positive self-evaluations, directly linking [[ai-literacy]] to career outcomes.
 - **Employer and graduate perspectives.** [[ithaka-sr-ai-skills-college-graduates-2026|The ITHAKA S+R report]] (500 US four-year-college instructors, compared against 200 US employers) documents a **systematic skills-prioritization gap** between instructors and employers that signals the workforce demands shaping [[higher-ed|higher education]] curricula. Instructors and employers agree on the importance of only one of 26 AI skills (setting realistic expectations for AI-augmented work): instructors prioritize a *critical, responsible-use* orientation (attribution, human accountability, limits of AI), while employers favor *workflow, automation, and human–AI teaming* skills. The report finds only three of 26 skills are taught by half or more instructors — the under-taught categories (workflow redesign, automation, technical integration) are precisely where employer demands diverge most — and that most institutions lack both a consensus on what AI skills look like and an assessment framework for them. For career development, this means graduates' readiness depends on closing a real, measurable gap between what employers value and what curricula teach, not just on adding AI literacy.
 - **Course policy as a workforce-competency decision.** [[mccorkle-aligned-genai-course-policy-2025|McCorkle's (2025)]] design case makes the trade-off explicit at task level: for each step of a semester project the instructor pairs an emerging [[generative-ai|GenAI]] workforce competency (prompting for objectives, generating images, writing scripts, text-to-speech narration) against the need to assess a foundational skill, and permits AI only where the competency wins — a concrete way to build the workflow skills employers value ([[prompt-engineering]], evaluation of [[llm|LLM]] output) into existing assignments rather than adding a separate AI course.
@@ -35,18 +36,18 @@ As AI transforms occupations, education's role in career development has broaden
 
 ## Career readiness as a protective and developmental goal
 
-A recurring theme is that career development in the AI era should be a **deliberate educational goal**, not an afterthought: building career adapt-abilities, core self-evaluations, [[self-efficacy]], and employer-valued AI skills, while directly addressing the anxiety students feel about AI displacement. This links career development to [[professional-training]], [[self-efficacy]], [[motivation]], and [[ai-anxiety-and-stress]], and positions education as both a skills pipeline and a source of psychological readiness.
+A recurring theme is that career development in the AI era should be a **deliberate educational goal**, not an afterthought: building career adapt-abilities, core self-evaluations, [[self-efficacy]], and employer-valued AI skills, while directly addressing the anxiety students feel about AI displacement. This links career development to [[professional-training]], [[self-efficacy]], [[motivation]], and [[anxiety-and-stress]], and positions education as both a skills pipeline and a source of psychological readiness.
 
 ## Connections to related concepts
 
-Career development and readiness connects to [[professional-training]] (the vocational skills dimension), [[ai-literacy]] (the AI-competence dimension), [[self-efficacy]] and [[motivation]] (the psychological resources that support adaptation), [[ai-anxiety-and-stress]] (career anxiety as a key component), [[higher-ed]] and [[k-12]] (the settings where readiness is built), and [[student-experience]] (career concerns as part of the learner experience).
+Career development and readiness connects to [[professional-training]] (the vocational skills dimension), [[ai-literacy]] (the AI-competence dimension), [[self-efficacy]] and [[motivation]] (the psychological resources that support adaptation), [[anxiety-and-stress]] (career anxiety as a key component), [[higher-ed]] and [[k-12]] (the settings where readiness is built), and [[student-experience]] (career concerns as part of the learner experience).
 
 ## Connected Concepts
 - [[professional-training]]
 - [[ai-literacy]]
 - [[self-efficacy]]
 - [[motivation]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[higher-ed]]
 - [[student-experience]]
 - [[well-being]]

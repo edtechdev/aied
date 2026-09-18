@@ -4,9 +4,8 @@ created: "2026-08-25T07:42:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [academic-integrity]
-pedagogy: [social-emotional-learning]
+pedagogy: [anxiety-and-stress, social-emotional-learning]
 assessment: [assessment, remote-proctoring]
-stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education, privacy]
 research_method: [survey]
 level: [higher ed]
@@ -35,13 +34,13 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 
 ## Implications
 
-- **For [[remote-proctoring]] policy:** the integrity benefits of proctoring are unproven (no cheating reduction) while the anxiety costs are real and inequitable. Institutions should weigh surveillance against its effect on [[ai-anxiety-and-stress|test anxiety]] and consider less intrusive [[authentic-assessment|authentic assessment]] alternatives.
+- **For [[remote-proctoring]] policy:** the integrity benefits of proctoring are unproven (no cheating reduction) while the anxiety costs are real and inequitable. Institutions should weigh surveillance against its effect on [[anxiety-and-stress|test anxiety]] and consider less intrusive [[authentic-assessment|authentic assessment]] alternatives.
 - **For [[equity-in-ai-education]]:** anxiety falls hardest on students with less internet literacy, less reliable technology, and weaker home study environments — proctoring exacerbates rather than reduces inequality.
 - **For design:** interventions strengthening time management, environmental structuring, study-space access, and internet literacy can reduce proctoring anxiety; support for vulnerable students matters more than more surveillance.
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]] — the test-anxiety construct this study directly measures
+- [[anxiety-and-stress]] — the test-anxiety construct this study directly measures
 - [[remote-proctoring]] — the proctoring practice under study
 - [[academic-integrity]] — the integrity rationale being challenged
 - [[privacy]] — the "Big Brother" surveillance concern
