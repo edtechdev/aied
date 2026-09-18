@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-18T05:10:00-04:00"
+updated: "2026-09-18T07:00:00-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [socratic-method, experiential-learning]
@@ -88,3 +88,4 @@ Three things make legal education more than one more subject area.
 ## Connected Articles
 
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school generative AI policies and a governance framework
+- [[llm-turing-test-italian-legal-exams-2026]] — Blind Turing test on Italian bar, judges and notary examinations, benchmarked against expert marking
