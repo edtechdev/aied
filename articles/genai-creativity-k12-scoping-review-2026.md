@@ -1,7 +1,7 @@
 ---
 title: "Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-18T14:00:00-04:00"
 type: article
 pedagogy: [creativity, project-based-learning, inquiry-based-learning, game-based-learning]
 foundations: [ai-literacy, critical-thinking, design-thinking]
@@ -61,7 +61,7 @@ Five practical recommendations close that argument: professional development on 
 
 ## Limitations and what this review cannot establish
 
-The study's limitations follow from its genre. A scoping review maps breadth rather than estimating effects, and the authors never report effect sizes, risk-of-bias appraisal or a quality weighting for the 45 studies, so nothing in it establishes that GenAI *causes* creativity gains; the closest the corpus comes is small-scale experimental comparison — ChatScratch against Scratch, MindScratch against Scratch, an AI-supported problem-based curriculum against conventional teaching — mostly with short exposures. The evidence base is also thin where it matters most for the review's own question: four assessment studies, three co-creativity studies, and a broad-effects subcategory where creativity "emerged" from open-ended activity without formal measurement.
+The review also circulates under a second title — *Generative AI for Creative Learning in K-12 Education: Insights from a Systematic Scoping Review* — with the same authors and the same corpus of 45 studies, so this page covers both versions. The study's limitations follow from its genre. A scoping review maps breadth rather than estimating effects, and the authors never report effect sizes, risk-of-bias appraisal or a quality weighting for the 45 studies, so nothing in it establishes that GenAI *causes* creativity gains; the closest the corpus comes is small-scale experimental comparison — ChatScratch against Scratch, MindScratch against Scratch, an AI-supported problem-based curriculum against conventional teaching — mostly with short exposures. The evidence base is also thin where it matters most for the review's own question: four assessment studies, three co-creativity studies, and a broad-effects subcategory where creativity "emerged" from open-ended activity without formal measurement.
 
 Coverage compounds this. The corpus is English-language only by criterion, is heavily skewed to language and writing tasks, contains a single music study and no embodied or spatial work, and reaches equity, accessibility, multilingual and cross-cultural creation in just a handful of studies; only two explicit equity studies means the review can say little about who benefits. Its own venue profile shows the shape of the field: much of the creativity-tool work appears in human–computer interaction and interaction-design venues such as CHI and IDC, alongside education technology journals and conference proceedings, rather than in the assessment or creativity-measurement literature that supplies the psychometric standards the authors invoke. Several "studies" are frameworks, prototypes or conceptual papers, so design insight and demonstrated learning gain are not the same evidence. Finally, the [[generative-ai]] capabilities under study move faster than publication cycles: the review's 2025 tools will date even if the problems of theory, measurement and equity that it diagnoses do not, and the authors' five-cycle and measurement arguments will need re-testing on the next generation of models.
 
