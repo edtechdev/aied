@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T03:55:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -54,6 +54,7 @@ Self-efficacy connects to [[motivation]], [[self-regulated-learning]], [[student
 - [[self-report-measures]]
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+- [[genai-performance-vs-learning]] — confidence rising while technological dependence grows: self-efficacy as a misleading AI-era outcome (Yan et al. 2025)
 - [[ai-supported-ementoring-efl-preservice-2026]] — AI-supported e-mentoring raises EFL pre-service teachers' self-efficacy and emotional intelligence (quasi-experimental)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 

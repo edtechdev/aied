@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-16T10:26:00-04:00"
+updated: "2026-09-18T03:55:00-04:00"
 type: concept
 assessment: [assessment]
 stakeholders: [student-experience]
@@ -115,6 +115,7 @@ Learning gains connect to [[assessment-validity]] — if assessments fail to cap
 - [[research-methods-aied]] — Research Methods in AIED (DBR section)
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
+- [[genai-performance-vs-learning]] — why assisted performance is not a learning outcome (Yan et al. 2025)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice

@@ -1,70 +1,94 @@
 ---
-title: Distinguishing performance gains from learning when using generative AI
+title: "Distinguishing performance gains from learning when using generative AI"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T03:50:00-04:00"
 type: article
-foundations: [cognitive-offloading]
-pedagogy: [metacognition, scaffolding, self-regulated-learning]
-technology: [generative-ai, llm, rag]
-research_method: [theoretical analysis]
-level: [higher ed]
-
+foundations: [cognitive-offloading, critical-thinking]
+pedagogy: [metacognition, self-regulated-learning, scaffolding, motivation, self-efficacy, transfer-of-learning]
+technology: [generative-ai, llm]
+assessment: [learning-gains, assessment]
+stakeholders: [student-experience]
+research_method: [position paper]
+level: [higher ed, k 12]
 sources: ['raw/papers/2605.13731.md']
 confidence: high
 audience: [researchers, instructors, designers]
 ---
 
-> **Synthesis:** This *Nature Reviews Psychology* piece draws a critical distinction that has been under-theorized in [[ai-education|AIED]] [[research-methods-aied|research]]:
+> **Synthesis:** Yan, Greiff, Lodge and Gašević argue that the field is measuring the wrong thing. [[generative-ai|Generative AI]] reliably raises *performance* — the observable output of a task carried out with the tool's support — while the evidence that it produces *learning*, an enduring change evidenced by independent retention and transfer, is largely missing. Their worked example is the literature's own headline number: a meta-analysis of 69 experimental studies reported that ChatGPT and similar tools improve student "academic performance" with a large effect of *g* = 0.7, yet the outcomes pooled were immediate task success rather than delayed, unassisted measures of what learners retained. They then walk through the three psychological processes that durable learning depends on — cognitive load, [[metacognition]], and [[self-efficacy]] — and show that generative AI can reduce the first, displace the second, and inflate the third while leaving learning untouched. The piece is a two-page comment in *Nature Reviews Psychology*, so it contributes framing rather than new data: a vocabulary for the conflation, and a research agenda built on process-oriented assessment.
 
 ## Core Argument
 
+**Performance and learning are distinct constructs, and the distinction is well established outside [[ai-education|AIED]].** Performance is observable behaviour during task execution, and it is sensitive to external support — a learner's output can improve because a tool supplied something, not because the learner changed. Learning is an enduring change in knowledge or behaviour that follows from experience, and it is demonstrated by *independently retaining and transferring* what was learned (Soderstrom & Bjork, 2015 — the piece's central citation). Their illustration is pre-AI and deliberately mundane: a student can perform well on a test after cramming the night before and still fail to retain or apply the knowledge a week later. Performance was high; learning did not happen.
 
-- **Performance gains** — immediate improvements in task completion, efficiency, or output quality when using AI tools.
-- **Learning** — durable understanding that requires deep cognitive processing (elaboration, [[critical-thinking|critical analysis]]) and [[metacognition|metacognitive]] processing (planning, monitoring, reflection).
+**The AIED literature mostly reports performance while calling it learning.** The paper's indictment is specific. A [[meta-analysis-systematic-review|meta-analysis]] of 69 experimental studies of ChatGPT and other generative AI tools in [[k-12]] and tertiary education set out to measure the impact on "student learning" — and reported that the tools improve student "academic performance" with a Hedge's *g* of 0.7 (Deng et al., 2025). The effect size is large, and the authors' reading is that it "probably reflects immediate task success rather than learning." The conflation is not a wording slip: it is in the outcome measures, in the labels attached to them, and in how the magnitude is then reported onward.
 
-The authors argue that [[generative-ai|generative AI]] easily boosts performance but often bypasses the mental processes essential for genuine knowledge acquisition. This challenges the common assumption in [[zerkouk-comprehensive-review-its-2025]] research that improved task performance equals improved learning.
+**Where the same study measured what happens after the tool is taken away, the gains shrink.** A study of [[higher-ed|undergraduates]] giving quality [[peer-assessment|peer feedback]] with generative AI assistance found significant performance boosts; the improvements *diminished once the assistance was removed* (Darvishi et al., 2024). That is the signature the distinction exists to catch — a gain that lives in the tool, not in the learner, and that therefore cannot be attributed to learning at all.
 
-## Implications for AIED Design
+## The three processes durable learning depends on
 
-This distinction has profound implications for [[scaffolding]] design. Systems that optimize for immediate performance may undermine learning. They must be designed to promote cognitive [[student-engagement|engagement]] — for example, through [[socratic-method]] dialogue, constrained feedback, or requiring student articulation before revealing AI output. The piece connects to [[cognitive-offloading|over-reliance]] research showing that external tools can displace internal cognitive effort and reduce independent [[problem-solving]], and to the [[pedagogy-ai-mistakes]] paradigm that uses AI errors as learning opportunities.
+The piece organizes its argument around cognitive load, metacognition and self-efficacy, and shows generative AI cutting a different way in each.
 
-The performance-vs-learning gap is now causally demonstrated in a field [[rct]]: [[generative-ai-guardrails-harm-learning]] shows that an unguarded GPT-4 tutor raised practice performance +48% but *reduced* later unassisted exam scores by 17%, while a guardrailed "hint-not-answer" tutor eliminated the harm.
+**Cognitive load: reduced load is not the same as deeper processing.** Students who used ChatGPT to research socio-scientific issues reported significantly *lower* cognitive load than students using traditional research tools such as web search engines (Stadler et al., 2024). Through the lens of cognitive load theory, offloading domain-specific work to a model frees working-memory resources. The paper's move is to refuse the next step: freed capacity is only useful if it is spent on the processing that produces encoding. In the same research, undergraduates who relied heavily on ChatGPT for information gathering showed **weaker argumentation and reasoning than those who used traditional, cognitively demanding research methods**. Ease of processing and depth of processing are separate variables, and GenAI moves them in opposite directions.
+
+**Metacognition: the evaluative loop gets offloaded rather than exercised.** A randomized controlled study of argumentative essay writing found that frequent generative AI use fostered **"metacognitive laziness"** in undergraduates (Fan et al., 2024): learners handed the evaluative tasks to the tool — reviewing task criteria, checking their drafts against the rubric, reflecting critically on the material — rather than doing that work themselves. These are exactly the operations that let a learner judge the quality of their own work, locate what needs improving, and [[self-regulated-learning|regulate their own learning]]; offloading them short-circuits the planning–monitoring–evaluating cycle at the point where it would otherwise be doing its work. The paper links this to the over-reliance literature showing that external tools can displace internal cognitive effort and reduce the ability to retain and transfer knowledge independently (Zhai et al., 2024).
+
+**Motivation: delegating the metacognitive work removes the learner from the task.** If a learner's role in completing a task diminishes, [[motivation|intrinsic motivation]] follows it down. From [[self-determination-theory|self-determination theory]], intrinsic motivation depends on autonomy and active engagement (Ryan & Deci, 2020); delegating planning, monitoring and evaluating to a model reduces participation and the sense of control. The supporting evidence is a review finding that undergraduates who interacted frequently with generative-AI [[conversational-ai|chatbots]] for domain knowledge reported **lower learning autonomy** than students who used them infrequently (Zhai et al., 2024).
+
+**Self-efficacy: confidence rises while independence erodes.** The sharpest of the three paradoxes. Among university students, frequent generative AI use raised perceived confidence and efficiency on academic tasks *and* increased technological dependence in the same learners (Zhang & Xu, 2025). The paper's concern is the long tail: dependence of that kind erodes the capacity for independent learning and reduces resilience when a new challenge arrives without the tool. A self-efficacy measure taken during AI-assisted work therefore reads high at the moment the underlying capability may be declining — which makes it a poor outcome variable for studies claiming that AI improves learning.
 
 ## Theoretical Framework
 
-Generative AI can function as either a cognitive tool (amplifying thinking) or a cognitive crutch (replacing thinking). This maps onto the [[self-regulated-learning]] cycle — performance gains without metacognitive engagement short-circuit the planning-monitoring-evaluating loop.
+Generative AI can act as a **cognitive tool** that amplifies thinking or a **cognitive crutch** that replaces it, and the difference is not the model but what the learner is still doing while it operates. Mapped onto the [[self-regulated-learning]] cycle, performance gains without metacognitive engagement describe a specific failure: the loop is short-circuited before planning, monitoring and evaluating are exercised, so nothing in the learner's own repertoire develops. The paper's framing also explains why this is hard to see from the outside — an AI-assisted and a genuinely learned performance can look identical on the artifact, and only diverge on the unassisted measure, which is usually not collected.
 
 ## Research Agenda
 
-To move beyond the performance/learning conflation, the authors propose a [[cognitive-psychology]]-informed agenda:
+The authors propose a [[cognitive-psychology]]-informed agenda with three moves.
 
-- **Differentiate learning from performance** with process-oriented assessments — retention and transfer tests, testing effects, and delayed recall tasks rather than immediate task success.
-- **Clarify how generative AI affects encoding, consolidation, and retrieval** — e.g., the relationship between cognitive load and deep encoding remains unresolved.
-- **Study longitudinal effects** — long-term impacts on knowledge retention, skill development, and the interaction between AI-assisted learning and [[prior-knowledge|prior knowledge]].
+1. **Differentiate learning from performance in the measures themselves** — use process-oriented [[assessment]] such as [[transfer-of-learning|retention and transfer tests]], and testing-effect or delayed-recall designs, to separate genuine learning from task performance in AI-supported contexts.
+2. **Clarify how generative AI affects encoding, consolidation and retrieval.** The relationship between cognitive load and deep encoding is unresolved; paradigms from cognitive load theory can be used to probe it, and identifying the mechanisms is what would let a claim about learning be mechanistic rather than correlational.
+3. **Study long-term effects** — knowledge retention and skill development over time, and how AI-assisted learning interacts with [[prior-knowledge|prior knowledge]], which the authors flag as unexamined.
 
 ## Practical Recommendations
 
-- **Promote active metacognition** — encourage learners to critically evaluate AI-generated outputs rather than accept them passively.
-- **Balance efficiency with autonomy** — use generative AI to *support*, not replace, independent cognitive effort; blend [[ai-feedback-quality|AI feedback]] with opportunities for unaided problem-solving.
+For [[teacher-role|educators]] and for people designing AI learning tools, the piece gives two:
+
+- **Promote active metacognition.** Ask learners to critically evaluate AI-generated output instead of accepting it. The corresponding design test is whether the rubric-checking, draft-evaluation and reflection that the tool could do are still being done by the learner.
+- **Balance efficiency with autonomy.** Use generative AI to *support* rather than replace independent cognitive effort, and blend [[ai-feedback-quality|AI feedback]] with opportunities for unaided [[problem-solving|problem solving]] — the combination is what keeps the tool from becoming the crutch.
+
+## Implications for AIED design and evidence
+
+The distinction changes what a study has to measure, and the knowledge base already contains the causal demonstration the comment asked for. [[generative-ai-guardrails-harm-learning]] reports a field [[rct]] in which an unguarded GPT-4 style tutor raised assisted practice performance by 48% while *reducing* later unassisted exam scores by 17%, and a [[guardrails|guardrailed]] 'hint-not-answer' tutor eliminated the harm — the performance/learning gap measured on both sides, in one design. [[metacognitively-discordant-completion-genai-2026]] documents the metacognitive failure in its most uncomfortable form: learners who notice they do not understand and submit the AI-assisted answer anyway. [[absent-cognitive-baseline-2026]] gives the classroom-level version of the self-efficacy paradox, [[cognitive-offloading-llm-synthesis-writing]] shows the offloading profile differing by what is offloaded rather than how much, and [[shaw-nave-cognitive-surrender-2026]] names the disposition that makes delegation habitual. For designers, the practical consequence is that optimizing for task success is not a neutral objective — a system tuned on assisted performance can be working against the outcome its own evaluation claims.
 
 ## Connected Concepts
 
+- [[cognitive-offloading]] — the displacement of internal cognitive effort
+- [[metacognition]] — the evaluative reflection generative AI may bypass
+- [[self-regulated-learning]] — the planning–monitoring–evaluating loop at risk
+- [[self-efficacy]] — confidence that can rise as capability declines
+- [[motivation]] — intrinsic motivation and the learner's diminished role
+- [[self-determination-theory]] — autonomy and engagement as motivational preconditions
+- [[transfer-of-learning]] — the durable-knowledge criterion
+- [[prior-knowledge]] — an interaction the authors flag as unexamined
 - [[scaffolding]] — design that preserves cognitive engagement
 - [[socratic-method]] — dialogue that promotes elaboration
-- [[cognitive-offloading]] — the displacement of internal cognitive effort
-- [[self-regulated-learning]] — the planning-monitoring-evaluating loop at risk
-- [[metacognition]] — evaluative reflection AI may bypass
-- [[transfer-of-learning]] — the durable-knowledge criterion
-- [[generative-ai]] — the technology under analysis
+- [[assessment]] — the measures that decide what counts as learning
 - [[learning-gains]] — the outcome the performance/learning distinction refines
-- [[theory-development-aied]] — Theory Development in AI in Education
+- [[generative-ai]] — the technology under analysis
+- [[theory-development-aied]] — theory development in AI in education
+- [[research-methods-aied]] — the methodological conflation the piece diagnoses
 
 ## Connected Articles
 
-- [[zerkouk-comprehensive-review-its-2025]]
-- [[pedagogy-ai-mistakes]]
-- [[generative-ai-guardrails-harm-learning]]
+- [[generative-ai-guardrails-harm-learning]] — The causal demonstration: +48% assisted practice, −17% unassisted exam, removed by guardrails
+- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive laziness in its most visible form: aware pass-through of non-understanding
+- [[absent-cognitive-baseline-2026]] — Why AI-native students cannot locate their own cognitive boundary
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling what gets offloaded in LLM-mediated writing
+- [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
+- [[weidlich-chatgpt-effect-search-cause-2025]] — An effect in search of a cause: the same critique of headline effect sizes
+- [[pedagogy-ai-mistakes]] — Using AI errors as learning opportunities rather than outsourcing judgement
+- [[zerkouk-comprehensive-review-its-2025]] — Intelligent tutoring evidence that conflates task success with learning
 
 ## Citation
 
-Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2026). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology*, 4, 435–436.
+Yan, L., Greiff, S., Lodge, J. M., & Gašević, D. (2025). [*Distinguishing performance gains from learning when using generative AI*](https://doi.org/10.1038/s44159-025-00467-5). *Nature Reviews Psychology, 4*, 435–436.
