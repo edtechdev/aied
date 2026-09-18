@@ -43,6 +43,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[student-modeling]]
 - [[knowledge-graph]]
 - [[adaptive-learning]]

@@ -137,6 +137,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[assessment]] — umbrella: how AI assesses learners and reshapes validity
 - [[feedback]] — umbrella: how feedback is generated, delivered, and used
 - [[stakeholders]] — umbrella: who the actors are
+- [[learners]] — umbrella: the learner-side concepts (experience, identity, agency, interaction, learner models)
 - [[ai-ed-evaluation]] — umbrella: how we know whether AI works
 - [[research-methods-aied]] — umbrella: efficacy research methods
 - [[governance]] — umbrella: the institutional and regulatory layer

@@ -924,6 +924,13 @@ concepts:
     - second language acquisition
     - SLA
     - tefl
+  learners:
+    title: Learners
+    aliases:
+    - learners and students
+    - students and learners
+    - learner population
+    - student population
   learner-identity:
     title: Learner Identity
     aliases:
@@ -2042,6 +2049,7 @@ sections:
   - label: Learners
     items:
     - stakeholders
+    - learners
     - student-experience
     - career-development-and-readiness
     - ai-anxiety-and-stress

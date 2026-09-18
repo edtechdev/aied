@@ -53,6 +53,7 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 **Friction, meaning and loneliness as a signal.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] give the well-being case a mechanism: effort signals that our actions matter, so people who work toward a task feel more competent, value the product more and see it as more purposeful — and even on objectively meaningless tasks, adding friction raises appraised meaning. On relationships, they treat loneliness not only as an affliction (linked to cardiovascular disease, dementia, stroke and premature death) but as a **[[biology-education|biological]] signal** akin to hunger or pain: discomfort that motivates reaching out, accepting invitations, investing in existing relationships and tolerating difficult conversations. AI companions can soothe that discomfort, which the authors regard as genuine progress in some cases, while also silencing the signal that drives connection — and they temper the argument by stage, holding that for people isolated by circumstance rather than choice, denying access to such technology "would be cruel" ([[motivation]], [[social-emotional-learning]]).
 
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[ai-anxiety-and-stress]]
 
 - [[student-experience]]

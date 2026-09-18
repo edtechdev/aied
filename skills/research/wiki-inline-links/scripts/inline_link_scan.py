@@ -305,6 +305,9 @@ AUTO_APPLY_DENYLIST = {
     'universities', 'college', 'primary school', 'elementary', 'high school',
     'achievement', 'survey', 'surveys', 'stakeholder', 'stakeholders', 'administrators', 'admin',
     'school', 'schools', 'attention', 'memory', 'engineering', 'programming', 'measurement',
+    # 'learners' is the slug of the learner-side umbrella page; the bare plural appears
+    # on hundreds of pages in a generic sense, so it stays report-only.
+    'learners', 'learner',
 }
 
 # (matched phrase, target slug) pairs that are semantically WRONG: never link them,
@@ -350,6 +353,8 @@ REJECT_PAIRS = {
     ('learning outcomes', 'learning-gains'),         # ILO construct, not measured gains
     # --- 2026-09-17, psychology-assessment case study: false positives hand-reverted ---
     ('language acquisition', 'language-learning'),    # a paper title, not the learner population
+    ('methodological', 'research-methods-aied'),      # adjective, not the methods field
+    ('scaffold', 'scaffolding'),                      # verb sense ("can scaffold belonging")
     ('authorship', 'academic-integrity'),            # authorship as attribution, not misconduct
     ('science', 'science-education'),                # bare "science" as a domain word
     ('deep learning', 'machine-learning'),           # deep learning as a model class, not ML page

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 201
+**Total concepts:** 202
 
 ## Foundations of AI in education
 
@@ -236,6 +236,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`ai-anxiety-and-stress`** — AI Anxiety and Stress — phrases: AI anxiety; AI stress; AI-induced anxiety; productive AI anxiety; remote proctoring anxiety; surveillance stress; test anxiety
 - **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
+- **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
 - **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
 - **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
 

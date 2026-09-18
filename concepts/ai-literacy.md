@@ -133,6 +133,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - **Learner governance of AI matters more than the design of the tool.** [[ai-literacy-tool-design-programming-education-2026|Azimi (2026)]] randomized 33 students in a master's data-analytics course between a scaffolded AI Study Coach embedded in the notebooks (n = 16) and unrestricted use of any [[generative-ai]] tools they chose (n = 17) for seven weeks. Assignment performance and concept-inventory gains were indistinguishable; the Coach condition reported higher [[self-efficacy|confidence]] instead. What separated students was AI literacy in practice: those who had formulated their own rules for when to use AI scored higher in both conditions, and the students with the deepest model understanding — every one of them self-taught — prompted most deliberately. The design implication runs against the control reflex: teach the [[self-regulated-learning|self-regulatory]] and model-understanding components of AI literacy rather than constrain tools.
 
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[explainable-ai]]
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
 

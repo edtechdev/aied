@@ -83,6 +83,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - **AI literacy works on engagement through psychological resources (2026):** A moderated mediation study of 1,198 undergraduates in Zhengzhou, China ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeled engagement as an outcome of [[ai-literacy]] rather than a by-product of tool use. AI literacy predicted learning engagement directly and also indirectly by building psychological capital, with the indirect route carrying roughly half of the total effect — partial mediation, so a technological competency converts into engagement only partly through the psychological resources it generates. Professional commitment, an identity-based variable, moderated the psychological-capital-to-engagement link without any direct effect of its own, and the translation of psychological capital into engagement was markedly stronger for students who saw themselves as headed into the profession. The pattern is the clearest available instance of the point above that learner characteristics condition how AI affects engagement.
 
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (agentic engagement as a CoI dimension)
 

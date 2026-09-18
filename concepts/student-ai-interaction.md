@@ -52,6 +52,7 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) analyze student prompts to AI across 116 courses with a within-person, cross-discipline design, showing that student-AI conversations reflect **discipline-associated** cognitive engagement rather than fixed individual interaction styles. Roughly 62% of prompts encoded higher-order cognitive demand overall, but Bloom-level profiles differed sharply by discipline: [[stem-education|STEM]] courses elicited Apply-prevalent prompts (20.8%), language courses Understand-prevalent (31.7%), and social science courses Create-prevalent (33.8%). Paired within-person comparisons confirmed the same students produced significantly more higher-order prompts in social science than STEM courses (pooled n = 16, p < .001), and course-level variation exceeded student-level variation — a strong argument that AI teaching assistants should be designed and evaluated with disciplinary context in mind.
 
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[human-ai-collaboration]]
 - [[student-experience]]
 - [[prompt-engineering]]

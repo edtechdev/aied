@@ -99,6 +99,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-regulated-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]

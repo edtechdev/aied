@@ -72,6 +72,7 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[simulation]]
 - [[student-modeling]]
 - [[knowledge-tracing]]

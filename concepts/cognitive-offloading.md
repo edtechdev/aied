@@ -122,6 +122,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
 - [[agency]] — Diminished when AI substitutes for the learner's cognition
 - [[critical-thinking]] — Degraded by uncalibrated offloading

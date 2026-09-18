@@ -77,6 +77,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 
 - **AI-mediated assessment is diversifying.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] shows an LLM-augmented [[conversational-ai|conversational agent]] reduced student anxiety during performance-based assessments; [[asynchronous-oral-assessment-2026|Pentland (2026)]] finds asynchronous oral assessments offered higher engagement and were perceived as professionally relevant; [[graph-its-adaptive-algorithms-2026|graph-based ITS]] uses adaptive knowledge-state tracking to inform assessment.
 ## Connected Concepts
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[formative-assessment]] — Formative assessment: AI-generated, validated, adaptive items at scale
 - [[automated-assessment]] — Automated grading and scoring across assessment modalities

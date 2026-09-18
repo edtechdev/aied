@@ -93,6 +93,7 @@ Help-seeking is an integral part of [[self-regulated-learning]]: productive help
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-regulated-learning]]
 - [[metacognition]]
 - [[scaffolding]]

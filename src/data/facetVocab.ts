@@ -166,11 +166,12 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // People (12 concepts) — registry section: People
+  // People (13 concepts) — registry section: People
   stakeholders: [
     'ai-anxiety-and-stress',
     'career-development-and-readiness',
     'educational-technology-developers',
+    'learners',
     'lifelong-learning',
     'parents-and-families',
     'pedagogical-safety',
