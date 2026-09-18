@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-18T13:45:00-04:00"
 type: article
 pedagogy: [scaffolding, self-regulated-learning, sociocultural-learning, critical-pedagogy]
 technology: [conversational-ai, llm, pedagogical-agent]
@@ -67,7 +67,7 @@ Two further uses are sketched: multi-user AI interactions that go beyond individ
 
 ## Limitations: a conceptual framework, not yet evaluated
 
-The paper is a position and methodology paper, and it says so. Its empirical content is a single short pilot, described by the authors as exploratory, offering feasibility and signal rather than an effect size; no formal evaluation of a framed LLM's learning benefit has been conducted, and the learning association reported is correlational after controlling for prior knowledge. The registered question on accurate assessment of understanding failed, partly because students had too little input in the time available and partly because the authors had not defined well enough how the probabilistic checker should assess understanding — a problem they call very complex and in need of further research.
+The same work circulates under a second title — an MA thesis and preprint, *Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting* ([osf.io/dwp4t](https://osf.io/dwp4t)) — which describes the same framework and the same pilot; this page draws on the version titled above. The paper is a position and methodology paper, and it says so. Its empirical content is a single short pilot, described by the authors as exploratory, offering feasibility and signal rather than an effect size; no formal evaluation of a framed LLM's learning benefit has been conducted, and the learning association reported is correlational after controlling for prior knowledge. The registered question on accurate assessment of understanding failed, partly because students had too little input in the time available and partly because the authors had not defined well enough how the probabilistic checker should assess understanding — a problem they call very complex and in need of further research.
 
 Design weaknesses are reported plainly. The ten-minute interaction was set too short for groups to reach the third phase, where students were meant to practice the mnemonic, and the paper did not define what should happen if students kept interacting with Marty, so negative feedback came mainly from groups that ran out of time and met a robot that refused to answer. All groups interacted with the unframed model first, for pedagogical reasons and without counterbalancing, though the authors reason that fatigue and novelty effects would have worked against the framed condition rather than for it. The analysis also ignored the LLM's own turns, leaving open how speaking time should be balanced between students *and* the AI. Finally the sample was small and homogeneous — 27 children from one rural German comprehensive school, 24 analysed after a technical data loss, 4 female — limiting generalisability, and the probabilistic checks themselves require empirical validation before they can be trusted. The authors' stated expectation is iteration: extend and go beyond the piloted frame, and involve educators and experts in designing, testing and improving students-AI interactions.
 
@@ -90,7 +90,6 @@ Design weaknesses are reported plainly. The ten-minute interaction was set too s
 
 ## Connected Articles
 
-- [[scaffold-framework-adolescent-genai-2026]] — The same SCAFFOLD framework described from a different source, with the pilot and its framing
 - [[eduzone-llm-safety-k12]] — A benchmark for how unsafe K-12-facing LLMs actually are on student and teacher queries
 - [[eduguard-safe-rag-llm-tutor]] — Retrieval-grounded tutor safety, an alternative route to verified answers
 - [[hazra-safetutors-pedagogical-safety-2026]] — Pedagogical safety as a distinct property from content safety in AI tutoring
