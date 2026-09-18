@@ -49,6 +49,7 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-directed-learning]]
 - [[self-determination-theory]]
 - [[student-experience]]

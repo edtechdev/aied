@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-17
+Last updated: 2026-09-18
 
-Articles: 1242 | Concepts: 201 | FAQs: 32
+Articles: 1242 | Concepts: 202 | FAQs: 32
 
 ## Concepts
 
@@ -785,6 +785,7 @@ Articles: 1242 | Concepts: 201 | FAQs: 32
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
 - [[learner-identity]] — Learner Identity
+- [[learners]] — Learners
 - [[learning-analytics]] — Learning Analytics
 - [[learning-analytics-to-educational-interventions-2026]] — From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design
 - [[learning-behavior-background-advantage-ai-ed]] — Learning behavior accounts for background-related advantage in AI-assisted education

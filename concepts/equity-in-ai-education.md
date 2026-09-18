@@ -84,6 +84,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[digital-divide]] — Unequal access to AI tools and infrastructure across socioeconomic lines, regions, and nations
 - [[bias-mitigation]] — Methods for detecting and correcting bias in AI tutors, scorers, and recommenders
 - [[accessibility]] — Design that makes AI learning tools usable by learners with disabilities

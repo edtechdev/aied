@@ -50,6 +50,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[constructivist]]
 - [[personalized-learning]]
 - [[student-modeling]]

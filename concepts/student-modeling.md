@@ -72,6 +72,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] (dash
 
 ## Connected Concepts
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[explainable-ai]]
 - [[learning-analytics]]
 - [[knowledge-tracing]]

@@ -1,6 +1,9 @@
 # Journal
 
-Last updated: 2026-09-17 | Total entries: 1443
+Last updated: 2026-09-18 | Total entries: 1444
+
+## 2026-09-18
+- 📘 [[learners]] — Learners
 
 ## 2026-09-17
 - 📄 [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: A comparative evaluation of AI-rated scores in classroom observations

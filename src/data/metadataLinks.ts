@@ -46,6 +46,7 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'educators': 'teacher-role',
     'faculty development': 'educational-development',
     'instructors': 'teacher-role',
+    'learners': 'learners',
     'teachers': 'teacher-role',
   },
   level: {
