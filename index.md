@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1308 | Concepts: 205 | FAQs: 32
+Articles: 1315 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -480,6 +480,7 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[desirable-difficulties]] — Desirable Difficulties
 - [[detecting-llm-generated-text-latent-prompt]] — Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration
 - [[determinants-chatgpt-use-higher-education-2026]] — An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education
+- [[developing-effective-genai-users-motivation-2026]] — Developing Effective GenAI Users: The Missing Motivational System and Why It Matters for Equity
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation
 - [[didactical-teacher-assistant-dimensional-modeling]] — A didactical-driven teacher assistant for a dimensional modeling course
 - [[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026]] — A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism
@@ -529,6 +530,7 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 - [[egai-power-systems-education]] — Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
+- [[eight-mode-ai-engagement-typology-2026]] — The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot
 - [[elbench-education-llm-benchmark-2026]] — ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models
 - [[elementary-writing-genai-systematic-review-2026]] — Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review
@@ -569,6 +571,7 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[explainable-ai]] — Explainable AI
 - [[explainable-probabilistic-kt]] — Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning
 - [[explique-teachable-agent-algorithms-546-students-2026]] — Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course
+- [[extended-minds-coupling-flexibility-2026]] — From Extended Minds to Coupling Flexibility: Cognitive Eco-Sourcing and Generative AI in Education
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]] — Face value: How avatar identity shapes epistemic trust in AI-mediated learning
 - [[faculty-development-centers-genai-training-optimization-2026]] — Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
@@ -650,11 +653,13 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[genai-policies-higher-ed-computing]] — A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education
 - [[genai-professionalization-metaphors-2026]] — Conceptualizations of GenAI and Students' Professionalization: Within the Multi-Layered Environment of Learning for Higher Education
 - [[genai-pronunciation-feedback-wtc-2026]] — Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy
+- [[genai-reliance-executive-functioning-2026]] — Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use
 - [[genai-reliance-types-scale]] — Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics
 - [[genai-scenario-based-healthcare-education-2026]] — Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration
 - [[genai-simulate-patient-history-pbl-2026]] — 'Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study'
 - [[genai-skill-bypass-literacy]] — The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy
+- [[genai-student-belonging-mathematics-2026]] — Using Generative AI to Foster Student Sense of Belonging in Mathematics
 - [[genai-student-experiences-uk-he-survey-2026]] — "It is a temptation to get it to do the work…" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison
 - [[genai-teacher-feedback-comparison]] — Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences
@@ -1092,6 +1097,7 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[personalized-learning]] — Personalized Learning
 - [[personalized-neural-cognitive-architecture-search-2026]] — Personalized neural cognitive architecture search
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning
+- [[pgr-students-genai-uses-qualitative-2026]] — From Research Assistant to Surrogate Supervisor: A Qualitative Study Exploring PGR Students' Diverse Uses of Generative AI
 - [[philosophy-experimentation-ai-chemistry-2026]] — Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry
 - [[philosophy-of-ai-in-education]] — Philosophy of AI in Education
 - [[physics-chatbot-epistemological-beliefs-2026]] — Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning
@@ -1393,6 +1399,7 @@ Articles: 1308 | Concepts: 205 | FAQs: 32
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity
+- [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]] — Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network
 - [[tian-genai-learning-adoption-pathways-2026]] — Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study
 - [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions

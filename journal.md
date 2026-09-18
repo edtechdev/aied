@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1513
+Last updated: 2026-09-18 | Total entries: 1520
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
@@ -27,12 +27,17 @@ Last updated: 2026-09-18 | Total entries: 1513
 - 📄 [[creativa-process-dynamic-creativity-assessment-2026]] — CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models
 - 📄 [[dabkowski-nursing-academics-genai-2026]] — Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education
 - 📄 [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
+- 📄 [[developing-effective-genai-users-motivation-2026]] — Developing Effective GenAI Users: The Missing Motivational System and Why It Matters for Equity
 - 📄 [[educating-minds-generative-ai-2026]] — Educating minds with generative AI
 - 📄 [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
+- 📄 [[eight-mode-ai-engagement-typology-2026]] — The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap
+- 📄 [[extended-minds-coupling-flexibility-2026]] — From Extended Minds to Coupling Flexibility: Cognitive Eco-Sourcing and Generative AI in Education
 - 📄 [[gails-generative-ai-literacy-scale-2026]] — The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups
 - 📄 [[genai-creativity-k12-scoping-review-2026]] — Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review
 - 📄 [[genai-critical-thinking-k12-design-2026]] — Vicious or Virtuous? Designing Generative AI-Powered Learning Experiences to Foster Rather than Undermine Critical Thinking in K-12 Education
 - 📄 [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
+- 📄 [[genai-reliance-executive-functioning-2026]] — Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use
+- 📄 [[genai-student-belonging-mathematics-2026]] — Using Generative AI to Foster Student Sense of Belonging in Mathematics
 - 📄 [[genai-usage-styles-creative-self-beliefs-2026]] — The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education
 - 📄 [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - 📄 [[genai-writing-robma-reanalysis-2026]] — Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)
@@ -57,6 +62,7 @@ Last updated: 2026-09-18 | Total entries: 1513
 - 📄 [[open-learning-practices-genai-response-2026]] — A Proposal for Open Learning Practices in Response to Generative Artificial Intelligence
 - 📄 [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
 - 📄 [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI
+- 📄 [[pgr-students-genai-uses-qualitative-2026]] — From Research Assistant to Surrogate Supervisor: A Qualitative Study Exploring PGR Students' Diverse Uses of Generative AI
 - 📄 [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
 - 📄 [[qualitative-reasoning-game-guidance-2026]] — A Qualitative Model for Reasoning about Path and Support
 - 📄 [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — AI literacy and scenario-based ethical judgment about generative AI among undergraduate students
@@ -69,6 +75,7 @@ Last updated: 2026-09-18 | Total entries: 1513
 - 📄 [[small-god-cross-cultural-genai-mental-health-2026]] — “It feels like a small God”: A Thematic Analysis of Cross-Cultural Imaginations of Generative AI Among Users Seeking Emotional and Mental Health Support
 - 📄 [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
 - 📄 [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of Student Cognitive Offloading to AI in Higher Education
+- 📄 [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation
 - 📄 [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
 - 📄 [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption
 - 📄 [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI Challenge: How college faculty assess the present and future of higher education in the age of AI
