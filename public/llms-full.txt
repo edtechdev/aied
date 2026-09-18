@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 201 concepts, 1241 articles, and 32 FAQs.
+> Complete text of 201 concepts, 1242 articles, and 32 FAQs.
 
 # Concepts
 
@@ -1114,7 +1114,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Guardrailed AI tool design ("hint-not-answer" [[scaffolding]]).** In the strongest causal finding in the knowledge base, a field [[rct]] showed an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted exam scores **−17%**, while a guardrailed tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely. This mechanically prevents the answer-copying "crutch" behavior behind the damage. Activities include hint-not-answer tutoring, seeding prompts with correct solutions and common [[misconceptions]], and requiring a student attempt before AI output is revealed.
 
-**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
+**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] give the process-artifact requirement a concrete instrument: mandated version histories and reproducible analysis documents, so a suspected submission can be inspected as a timeline of how the work developed, and the amount of fabricated material a student would have to generate rises far beyond what outsourcing saves them. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
 
 ### Tier 2 — Strong framework support, high potential
 
@@ -1154,6 +1154,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]]
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 
@@ -1215,7 +1216,7 @@ The arrival of generative AI has not created the need for academic integrity —
 
 - **Detection skepticism:** [[ai-detection]] research and [[governance|institutional]] analyses increasingly find that AI detection tools are unreliable and procedurally unfair. [[detecting-llm-generated-text-latent-prompt|LLM text detection]] faces fundamental limitations. Fully AI-generated submissions can pass through live examination systems largely undetected, and experienced markers do not reliably spot GenAI-authored work. Detection, at best, is a limited, situational tool — not a strategy of first resort.
 - **Assessment redesign:** [[authentic-assessment]], [[beyond-detection-authentic-assessment-ai-2025|beyond-detection approaches]], and [[ai-assessment-scale-reform|the AI Assessment Scale]] shift the focus from catching AI use to designing assessments where AI use is either irrelevant, transparent, or required to demonstrate a specific capability.
-- **Structural vulnerability of grading:** [[biology-degree-integrity-genai-cheating-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource.
+- **Structural vulnerability of grading:** [[biology-degree-integrity-genai-cheating-2026|Chan et al.]] provide a concrete case study of how current grading is structurally exposed to AI-mediated dishonesty. In a [[biology-education|biology]] department, instructors perceived only in-person proctored exams as minimally vulnerable; outside-of-class assignments were seen as highly vulnerable, leaving about a third of a student's grade highly vulnerable and 80% at least somewhat vulnerable. This frames the integrity problem as partly a *grading-design* problem, motivating rebalancing toward proctored or in-class assessment and [[authentic-assessment|authentic assessment]] designs that are harder to outsource. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] supply the discipline-level counterpart with a whole three-year psychology programme: 36 of 40 assessments across 16 types produced passable content at minimum effort, and the four that failed were those requiring presence, visual media, or the student's own dataset. Their reading of *why* it passes is the part that generalizes — marking that rewards fluent structure and good-faith use of the right analysis condones fabricated values and hallucinated references, so the pass boundary rather than detection decides whether AI output is graded as achievement, and the assessment vulnerability "cannot be blamed solely upon student usage."
 - **Validity as the organizing frame:** [[assessment-validity]] reframes integrity as an evidential problem. [[authentic-products-authenticated-processes-2026|Authentic assessment research]] introduces **construct substitution** — an AI-generated product is attributed to the student, so the assessment infers the tool's capability rather than the student's. The evidential question survives any AI policy: whether use is prohibited, permitted, or required, the assessment must still generate evidence warranting the inference being drawn.
 - **Variation-at-scale as a no-surveillance integrity mechanism:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]] [[benchmark]] the premise behind AI-Integrated Authentic Assessment (AIAA) — replacing surveillance-based proctoring with per-student task variation so copying is structurally useless. The integrity guarantee is conditional on LLMs generating variants that are surface-distinct and [[assessment-validity|construct-equivalent]]; VARIA's 600-variant pilot finds frontier models satisfy this only at the margin (joint score 0.81–0.88) while non-frontier models collapse (0.50–0.55), so "variation-at-scale cannot be solved by [[prompt-engineering|prompting]] alone." This gives the detection-vs-redesign debate an empirical, falsifiable check: the no-surveillance promise of authentic, task-varied assessment now depends on a measured (and still narrow) generation capability rather than an assumed one.
 - **Authenticating student reflection against GenAI:** [[5p-reflection-model-genai-2026|Kadel et al. (2026)]] argue that traditional reflection models can no longer authenticate student reflection once GenAI can author reflective prose, and embed integrity directly inside a reflection model — the 5P framework's Pitfalls stage explicitly handles plagiarism, [[hallucination-risk|hallucination]], and over-reliance, while its Process and Product stages require documenting prompts and validating outputs so that learners' own reasoning is distinguishable from AI-generated contributions.
@@ -1321,6 +1322,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[ai-education]]
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology programme passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[predictors-ethical-genai-use-higher-ed-2026]] — SEM predictors of ethical GenAI use in higher education (Tabares-Cruz et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
@@ -7619,6 +7621,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 
 ## Connected Articles
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
+- [[ivory-psychology-assessment-integrity-2026]] — ChatGPT content passed 36 of 40 psychology assessments at minimum effort (Ivory et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
@@ -13095,6 +13098,7 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — A three-year psychology programme passable at minimum effort (Ivory et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
@@ -13611,6 +13615,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[peer-assessment]]
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
+- [[ivory-psychology-assessment-integrity-2026]] — Programme-wide AI susceptibility of psychology assessments (Ivory et al. 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
@@ -14318,6 +14323,7 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
 
+- [[ivory-psychology-assessment-integrity-2026]] — 90% of psychology assessments passable at minimum effort (Ivory et al. 2026)
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
 - [[generative-ai-reduced-study-time-math]] — Faster completion, less learning: proctored measures essential
@@ -14420,6 +14426,7 @@ The knowledge base argues that authenticity must be designed rather than policed
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artefacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
@@ -15114,6 +15121,7 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - **Variation-at-scale demands construct-equivalent variant generation:** [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA (Lee 2026)]] subjects the "variation-at-scale" premise of AI-Integrated Authentic Assessment (AIAA) — replacing surveillance proctoring with per-student task variation — to an empirical, falsifiable check. Because each examinee receives a unique-but-equivalent performance task, the integrity guarantee is conditional on LLMs generating variants that are simultaneously surface-distinct, construct-equivalent, rubric-applicable, and difficulty-matched. [[benchmark|Benchmarking]] three frontier model families across four prompting strategies on 600 variants, VARIA finds frontier generators satisfy the joint integrity criteria only at the margin (joint score 0.81–0.88) while non-frontier references collapse (0.50–0.55), and no single prompting strategy dominates all four properties — so "variation-at-scale cannot be solved by prompting alone" if the diversity threshold is set aggressively, and institutions must validate their specific model-prompt pair.
 - **Under-grading bias in HITL AI scoring is a validity feature, not a bug:** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] show that in a large-scale national writing assessment the systematic conservative (under-grading) bias of an LLM scorer, while problematic as a final decision, is precisely what enables safe delegation: AI-marked "passing" responses can be accepted with confidence while AI-marked "failing" responses (15.3–16.5% of cases) are routed to expert review — keeping the validity threat of AI error off the final outcome. Their [[item-response-theory|IRT]]-and-Bookmark pipeline makes the [[educational-measurement|proficiency-level]] impact of AI scoring legible rather than treating raw score agreement as the sole validity signal.
 - **AI-driven grade inflation as a validity threat:** [[chirikov-ai-grade-inflation-2026|Chirikov (2026)]] identifies a novel, technology-driven mechanism of [[summative-assessment|grade]] inflation operating *upstream of grading* — on the production of graded work. In a difference-in-differences study of 500,000+ grades across 319 courses (2018–2025), courses with more AI-exposed tasks (writing, coding) saw the share of A grades rise by 13 percentage points after ChatGPT's release, with grade-distribution compression. A triple-differences analysis shows the effect concentrates in homework-heavy courses — evidence that AI **task displacement** (AI performing graded tasks before instructors observe them) inflates grades without a corresponding rise in skill. This reduces the comparability of grades across courses and erodes the informational value of transcripts in ways difficult to detect from grade distributions alone.
+- **Programme-level pass/fail susceptibility, and the marking criteria that set it:** [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] judged ChatGPT output for every coursework assessment in a three-year psychology degree (40 assessments, 16 types) with a binary pass/fail, the decision markers actually make on a first read: 36 of 40 passed. Two validity implications follow. First, the operative variable is the pass boundary, not detection — marking that rewards structural fluency and the correct choice of analysis while condoning incorrect values lets fabricated statistics and hallucinated references clear a pass, so the assessment certifies tool output as student understanding because of how it is marked rather than because anyone was fooled. Second, multiple-choice items leaked their own answers: ChatGPT answered statistics questions correctly without the figure or output table shown to students, because the item stem and options implied the answer, which makes answer-option design a validity property of the item rather than a property of the AI.
 - **Accuracy vs. agreement as distinct validity signals:** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] graded a 21-item pharmacy exam with ChatGPT-5 and found that moderate percent accuracy frequently coexisted with low concordance-correlation coefficients — a methodological distinction between *scoring accuracy* and *agreement* that limits AI's reliability as a grading substitute even where raw accuracy looks acceptable. Agreement was strong on objective items (CCC 0.935–1.000) but near-zero on short-answer and modest on essay (0.341–0.854), and rubric provision did not consistently close the gap.
 - **Validity of AI-generated items:** [[assessing-quality-ai-generated-exams-field-2025|Assessing AI-Generated Exams]] shows that AI-generated questions, validated via Bayesian [[item-response-theory|IRT]], achieve difficulty and discrimination on par with expert-written standardized-exam items (reliability 0.79 vs. 0.72) — supporting the validity of course-tailored AI-generated assessments when backed by psychometric evaluation.
 - **Authentic assessment:** [[authentic-assessment]] and [[ai-assessment-scale-reform|the AI Assessment Scale]] propose validity-preserving assessment redesigns.
@@ -15174,6 +15182,7 @@ The sharpest recent reframing treats the generative AI problem as an evidentiary
 - [[assessment]]
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Programme-level pass/fail susceptibility and the marking criteria that let fabricated values pass (Ivory et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Permission alone doesn't degrade validity: engagement unaffected by GenAI use; reflection resists generic substitution
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
@@ -15733,6 +15742,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
+- [[ivory-psychology-assessment-integrity-2026]] — Detection is the wrong lever: the pass boundary decided whether AI work was graded as achievement (Ivory et al. 2026)
 - [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
@@ -20091,7 +20101,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 
 Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in student assessment, over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs. A further setting is AI-generated course readings that stand in for a textbook: in a graduate course that replaced its commercial text this way, only about 0.80 percent of 4,487 logged pages carried an APA-style in-text citation and DOI strings were essentially absent, so most claims could not be audited from within the artifact (Sidorkin, 2026). That traceability gap is distinct from a wrong answer, because the text reads as authoritative while offering limited internal means of confirmation.
 
-**Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in LLM reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]].
+**Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in LLM reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] add two failure modes visible when AI output is marked rather than inspected: fabricated particulars that survive grading — a reviewed paper that does not exist, complete with an unresolvable DOI, and a sample size reported as 378 where the source said 329 — and self-contradiction inside a single response, where the model reasoned its way to the correct option and then reported a different one in its closing summary. Because reference lists are currently marked for formatting rather than accuracy, this class of error reaches a passing grade while misleading the student who uses the same tool to revise.
 
 **Tutoring hallucination** affects learning directly. **[[llm-tutoring-feedback-diagnosis-gap]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
@@ -20112,6 +20122,7 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[llm]]
 - [[productive-failure]]
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
@@ -37022,6 +37033,7 @@ What the design does establish is a method that is cheap, replicable, and diagno
 - [[stem-education]] — why the grading architecture described here is not biology-specific
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology programme 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Review of academic dishonesty and automated proctoring in the AI era
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
@@ -56854,6 +56866,82 @@ Fried, M. (2026). [*AI skills for college graduates: Exploring how instructors a
 
 ---
 
+## [The Integrity of Psychology Assessments in the AI Age: A Critical Examination](https://edtechdev.github.io/aied/articles/ivory-psychology-assessment-integrity-2026/)
+
+> **Synthesis:** Ivory and colleagues put the coursework of one entire three-year, British Psychological Society-accredited psychology degree to ChatGPT at three escalating levels of [[prompt-engineering|prompting]] — basic, intermediate, and advanced, with the advanced attempt capped at one hour of work — and had two experienced markers judge every output pass or fail. Of 40 assessments spanning 16 types, **36 (90%) were of passing quality**, and the four that failed were the ones that need something a model cannot supply: an in-person performance, visual media, or the student's own dataset. Their argument for [[academic-integrity]] is not that [[ai-detection|detection]] fails but that the pass/fail boundary is doing too little work: marking that rewards fluency, structure and good-faith analysis *condones* fabricated values and hallucinated citations, so [[generative-ai|AI output]] clears the bar the [[assessment]] actually sets. The authors conclude, pithily, that ChatGPT "could obtain an undergraduate degree in Psychology," and locate the remedy in [[assessment-validity|validity-tightened]] marking criteria, auditable evidence trails, and assessment designs that require what the model cannot produce.
+
+## Key Findings
+
+1. **Almost the whole programme was passable at minimum effort.** 36 of 40 assessments (90%) produced content judged adequate for a pass under normal departmental standards. The authors read this alongside Scarfe et al.'s (2024) finding that 94% of AI-generated psychology submissions went undetected and averaged half a grade boundary *above* student writing, and conclude that psychology may be more exposed than other disciplines — comparable evaluations in [[engineering-education|engineering]] passed 65% of exam questions.
+2. **Escalating the prompt, not the skill, did the work.** Basic prompting (task title, word count, assignment type, academic level — about 5 minutes) failed most long-form tasks; intermediate prompting (each section requested separately, responses refined until passable, 5–20 minutes) recovered them; advanced prompting (document upload, a separately engineered structured prompt, one hour maximum) was needed for critical reports, paper reviews, and data-analysis reports. Advanced engineering raised the pass rate, as the second research question predicted.
+3. **Multiple-choice items leaked their own answers.** Across the unsupervised weekly web-based assessments the mean score was 70% (min 35, max 100, SD 17.30), rising to 74% by module (min 58, max 93). ChatGPT answered statistics items correctly *without being shown the figure or output table on screen*, because the item text and the answer options implied the answer — once told the name of a test or equation it did not need the data. Item design, not AI capability, set the ceiling here.
+4. **Hallucination was casual, convincing, and rewarded.** Basic prompting reviewed a paper that does not exist — "The Role of Social Interaction in Early Language Acquisition" by Johnson, Smith and Taylor (2022), with an unresolvable DOI. Even given the real paper, the model fabricated a sample size of 378 where the study reported 329, and where it lacked a teaching dataset it announced that accuracy would improve with data, then simulated data and reported the results anyway. Incorrect answers carried confident explanations that were convincing to a reader outside that subfield.
+5. **The model sometimes contradicted itself inside one response.** On one MCQ it worked through the options, identified the correct answer, and then reported a different one in its closing summary — a failure mode with no analogue in a wrong answer: the reasoning and the verdict disagree.
+6. **Novelty, presence, and data access were what resisted.** In-person presentations, poster and slide assignments (the model produced content but not the artefact), and analyses requiring the student's own dataset were the weak points. Tasks needing more than incremental [[creativity]] were hardest: asked to invent a religion grounded in psychological theory in five separate attempts and across accounts, the model returned the same invented religion ("Harmonia") every time — and one author had already seen that same construction in a real student submission.
+7. **The pass bar itself is part of the vulnerability.** Because markers are encouraged to mark positively — condoning incorrect values and formatting while rewarding use of the right analysis — plausible AI output passes without the effort that would otherwise be needed to repair it. The authors argue the assessment vulnerability "cannot be blamed solely upon student usage": it is a [[teacher-role|marking]] and criteria problem as much as a student-behaviour one.
+
+## Design: one programme, three levels of prompting
+
+The study is an instrumental case study of a single BPS-accredited UK [[higher-ed|undergraduate]] psychology degree, bounded to all 16 coursework assessment types used across the three years in 2023/24 — 40 unique assessments, exams and dissertations excluded as invigilated or unavoidably individual. All material was taken from the student-facing side of the learning management platform so nothing staff-restricted leaked into the prompts, and transcripts were deposited openly.
+
+Data collection used the free tier ChatGPT 3.5, with 4o where file uploads were needed (both available to any student) in June and July 2024, in fresh conversations with personalisation off. Judgement was binary pass/fail by two researchers with four-plus years of marking experience across all three years of the programme, deliberately reproducing the time-constrained first-read decision a marker makes rather than a full grading exercise. Exactly one assessment per type was taken to the advanced level regardless of earlier results. For MCQs only basic prompting was used and scores were recorded as percentages.
+
+Two design choices matter for how far the numbers generalise. First, nothing was edited: responses from separate exchanges were concatenated, so the assessment asked whether *content* was passable, not whether a submission would have fooled a marker — the authors note their outputs were largely atypical in formatting and missing student identifiers. Second, because no editing, reformatting or repairing was allowed, the study measures a floor: a student who rewrites, corrects values or supplies column names would do better, and the authors expect their susceptibility findings to be an underestimate.
+
+## Where the AI passed, and why
+
+Long-form written work made up 65% of the assessments tested and was the most fragile category. Essays passed only after intermediate prompting, and the researchers' reading notes are revealing about what was still adequate: arguments were sound but basic, criticality thin, and referencing sparse — three to nine references at basic prompting, seven to fourteen at higher levels. Unreferenced claims appeared in the middle of otherwise passable essays, which the authors note is exactly how a lower-performing student looks. Yet the mark reached a pass, because a pass is not a first.
+
+Short-form assessments behaved differently. Declarative recall and application to novel scenarios were easy for the model, including "higher MCQ" case scenarios where it scored as high as 87%. Statistics items that required running R code scored 60% only because ChatGPT guessed column names it had never seen; a student supplying those names, or the dataset itself, would raise that immediately — a two-minute fix rather than a capability barrier.
+
+The four failures fell into a coherent pattern: an in-person presentation (presence is the assessed construct), poster and slide work where the artefact itself was required, and data-analysis reports where the analysis had to run on the student's real data. Where the model could simulate data instead, it produced *passable* work built on numbers that were wrong — a worse outcome than a failed attempt, because the false values arrive inside a convincingly structured report.
+
+## Convincing errors as a learning hazard
+
+The paper's most uncomfortable evidence is about [[hallucination-risk|hallucination]] that survives marking. Fabricated citations and DOIs sit in the reference list, an area current marking criteria read quickly for formatting rather than accuracy, and the authors point to prior work finding that only 7% of ChatGPT-supplied references were both real and relevant. The argument is not only about marks: a student using the same tool to revise learns the fabricated content, and confidently wrong explanations were most convincing precisely where the researchers themselves lacked domain expertise. Detecting this requires a marker who is expert on that specific topic and time to check the accuracy of the reference list — time the authors argue does not currently exist, with 23,900 students starting psychology degrees in the UK each year and academic-integrity casework rising from 1.6 to 5.1 proven Gen-AI misconduct cases per 1,000 students between 2022/23 and 2023/24.
+
+On the student side, the paper cites the HEPI 2025 survey's jump in [[self-report-measures|self-reported]] AI use in assessments from 53% to 88% in one year, with unaided submission of AI text rising from 5% to 8%. Where [[prior-knowledge|prior knowledge]] is adequate, AI supports learning; where it is not, students are being misinformed by a tool that is right often enough to be trusted. Both halves of that finding are load-bearing.
+
+## Recommendations
+
+For educators, six proposals follow from the failure modes rather than from detection: require version histories or other auditable evidence trails so an assignment's development is inspectable; require reproducible analysis documents for data-based assignments; set creative tasks beyond incremental creativity; treat contextually irrelevant content (methods not taught in that module) as an integrity signal; include referencing accuracy in marking criteria; and align marking criteria with intended [[learning-gains|learning outcomes]] so that fluent [[writing-education|academic writing]] is not by itself sufficient for a pass.
+
+For institutional leaders, three: resource integrity review and assessment reform in proportion to student numbers, since identification plus student meetings is skilled, time-intensive work that cannot be absorbed into already compressed roles; publish clear [[educational-policy-ai|AI policy]] — at the time of writing only 19% of surveyed institutions had a formal policy and 42% had one in development, while 80% of UK students believed their institution had a clear one; and ensure markers are trained on and actually using current criteria.
+
+## Implications
+
+The paper is programme-level evidence that [[summative-assessment|grade]] integrity is a property of an entire assessment mix, not of individual tasks, and it lands where the knowledge base's other case studies land: a [[biology-education|biology]] department found about a third of a course grade highly vulnerable ([[biology-degree-integrity-genai-cheating-2026]]), and here a whole psychology programme was 90% passable at minimum effort. It is also the clearest statement that the pass boundary — not detection, not student virtue — is the operative variable, which ties it to [[assessment-validity]], to grade-inflation evidence that grades stopped tracking skill ([[chirikov-ai-grade-inflation-2026]]), and to the argument that unproctored scores need redesign rather than surveillance ([[ai-agents-complete-lms-assessment-validity-2026]]). Two limits should travel with the numbers: the assessments are from 2023/24 and were generated with GPT-3.5/4o, so they describe the floor of a moving capability, and the authors' own constraints mean the true exposure is higher, not lower. The remediation the paper argues for is closest to [[authentic-assessment]] — but its version of authenticity is narrower and more practical than the term usually carries: an artefact you have to be present to make, data you had to hold, and a marking decision that requires evidence of understanding rather than polish.
+
+## Connected Concepts
+
+- [[academic-integrity]]
+- [[assessment-validity]]
+- [[assessment]]
+- [[summative-assessment]]
+- [[ai-detection]]
+- [[authentic-assessment]]
+- [[hallucination-risk]]
+- [[reducing-ai-misuse]]
+- [[generative-ai]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[biology-degree-integrity-genai-cheating-2026]] — Programme-level vulnerability of biology course grades to GenAI dishonesty
+- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
+- [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation
+- [[ai-agents-complete-lms-assessment-validity-2026]] — Agentic completion removes the human-production assumption
+- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Authentic assessment alone cannot safeguard integrity
+- [[genai-performance-vs-learning]] — Performance gains without learning gains
+- [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy
+
+## Citation
+
+Ivory, M., Finnerty, S., Dunn, K., Philpot, R., & Warmelink, L. (2026). [The Integrity of Psychology Assessments in the AI Age: A Critical Examination](https://doi.org/10.1007/s10805-026-09729-0). *Journal of Academic Ethics, 24*, 48.
+
+---
+
 ## [Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI](https://edtechdev.github.io/aied/articles/jacome-vasconez-chatgpt-adoption-xai-2026/)
 
 > **Synthesis:** Jácome-Vásconez et al. (2026) propose an **explainable AI (XAI) framework** that integrates the Unified Theory of Acceptance and Use of Technology 2 ([[technology-acceptance-model|UTAUT2]]) with [[machine-learning|machine learning]] and explainability techniques to explain university students' behavioral intention to adopt ChatGPT. Survey data from 522 students at the University of Alicante were analyzed with Ordinary Least Squares regression, Random Forest, SHAP, Necessary Condition Analysis (NCA), Importance–Performance Map Analysis (IPMA), and K-Means clustering. The framework explains 67.6% of the variance in behavioral intention and identifies four distinct student adoption profiles.
@@ -57908,6 +57996,7 @@ Kim, J., Lin, X., Yu, S., & Detrick, R. (2026). [*Designing AI systems to suppor
 - [[equity-in-ai-education]]
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Programme-wide susceptibility of psychology assessments to minimum-effort ChatGPT use (Ivory et al. 2026)
 
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

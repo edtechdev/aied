@@ -99,6 +99,7 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[peer-assessment]]
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
+- [[ivory-psychology-assessment-integrity-2026]] — Programme-wide AI susceptibility of psychology assessments (Ivory et al. 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation

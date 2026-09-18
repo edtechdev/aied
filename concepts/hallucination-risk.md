@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-17T21:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -28,7 +28,7 @@ methods: [ai-ed-evaluation]
 
 Hallucination in educational AI takes several forms documented in this knowledge base's articles: fabricated evidence in student assessment, over-confident misdiagnosis of learner knowledge, and plausible-sounding but incorrect explanations that students accept as truth. The risk is amplified in education because the asymmetry of knowledge between AI and learner means the learner is poorly positioned to verify AI outputs. A further setting is AI-generated course readings that stand in for a textbook: in a graduate course that replaced its commercial text this way, only about 0.80 percent of 4,487 logged pages carried an APA-style in-text citation and DOI strings were essentially absent, so most claims could not be audited from within the artifact (Sidorkin, 2026). That traceability gap is distinct from a wrong answer, because the text reads as authoritative while offering limited internal means of confirmation.
 
-**Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in LLM reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]].
+**Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution]]** documented systematic over-attribution of evidence in LLM reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation]] and [[knowledge-tracing]] concerns about [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] add two failure modes visible when AI output is marked rather than inspected: fabricated particulars that survive grading — a reviewed paper that does not exist, complete with an unresolvable DOI, and a sample size reported as 378 where the source said 329 — and self-contradiction inside a single response, where the model reasoned its way to the correct option and then reported a different one in its closing summary. Because reference lists are currently marked for formatting rather than accuracy, this class of error reaches a passing grade while misleading the student who uses the same tool to revise.
 
 **Tutoring hallucination** affects learning directly. **[[llm-tutoring-feedback-diagnosis-gap]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
@@ -49,6 +49,7 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[llm]]
 - [[productive-failure]]
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
 
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]

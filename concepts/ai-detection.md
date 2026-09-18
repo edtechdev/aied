@@ -103,6 +103,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector
+- [[ivory-psychology-assessment-integrity-2026]] — Detection is the wrong lever: the pass boundary decided whether AI work was graded as achievement (Ivory et al. 2026)
 - [[llm-detecting-llm-generated-content-education]] — Evaluating LLMs for Detecting LLM-Generated Content
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible Assessment in the AI Era
