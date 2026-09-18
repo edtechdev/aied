@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-18T14:00:00-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -40,6 +40,8 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
 - **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-assessment|peer feedback]] because it was *consistently* delivered — nearly all AIF respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
+
+- **Source label versus feedback quality:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separate the *source* of feedback from its quality by holding content constant — 401 teachers rated feedback messages that were all generated with GPT-4-turbo but randomly labelled as teacher- or ChatGPT-generated, and the label alone shifted credibility (b = 0.21), usefulness (b = 0.47) and fairness (b = 0.48, all p < .001), with 73% preferring the teacher-labelled message, t(400) = 15.55, d = 0.78. Provider-directed items moved furthest — perceived effort (b = 1.34) and willingness to rely (b = 1.45) — and a written explanation of how ChatGPT works changed nothing (interaction ps ≥ .399), pointing to [[trust]], [[teacher-role|professional identity]] and [[bias-mitigation|ingroup bias]] in the rater rather than any deficiency in the feedback itself. Perceived quality can therefore be discounted by provenance even when the content is identical, which means a genuinely good tool can still stall at the point of use.
 
 - **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show [[feedback-literacy|feedback literacy]] moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
 
@@ -111,3 +113,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
+- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomised source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
