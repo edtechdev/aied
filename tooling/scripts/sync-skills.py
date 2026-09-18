@@ -56,10 +56,10 @@ def redaction_pairs(cfg, wiki):
     if agent:
         pairs.append((f'{agent} Agent', 'AI agent'))
         pairs.append((agent, 'AI agent'))
-    # Third-party site used as a design reference: the repo is public, so its
-    # brand name is scrubbed like any other personal identifier.
-    pairs.append(('the design-reference site', 'the design-reference site'))
-    pairs.append(('the design-reference site', 'the design-reference site'))
+    # NOTE: third-party site brand names used as design references are scrubbed in
+    # the skill text itself, not here. Anything added as a replacement string in
+    # this function gets inverted by reverse normalization, so a pair whose
+    # replacement text also appears in this file rewrites itself.
     pairs.append((wiki, '<WIKI>'))
     skills = os.path.expanduser((cfg.get('agent') or {}).get('skills_dir') or '')
     if skills:
