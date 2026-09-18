@@ -20,7 +20,7 @@ This skill is the end-to-end playbook. It draws on the sibling skills (`research
 
 Decide *whether* to edit before deciding *what* to write, whenever the trigger is a new article rather than a page the user named. Enumerate the candidate (article, concept) pairs and answer the delete test for each: if the sentences you are about to add were deleted, would the page lose something it does not already have? Enrich only the pairs that pass, and treat leaving a page alone as a normal result.
 
-Why this is a process rule and not a nicety: enriching broadly and auditing afterwards pays twice. On 2026-09-15 an automated batch enriched 35 concept pages; the follow-up audit took 10 reviewers and found 17 of 56 insertions marginal, 13 of them no more than a Connected Articles entry with none of the article's findings conveyed in prose. The screen itself is cheap: read the article's findings, read the target section, ask whether the page already says this.
+Why this is a process rule and not a nicety: enriching broadly and auditing afterwards pays twice. On 2026-09-15 an automated batch enriched 35 concept pages; the follow-up audit took 10 reviewers and found 17 of 56 insertions marginal, 13 of them no more than a Connected Articles entry with none of the article's findings conveyed in prose. The screen itself is cheap — read the article's findings, read the target section, ask whether the page already says this.
 
 When the user names a specific page ("enrich this concept page"), the page choice is already made; the delete test then governs each individual sentence you add.
 
@@ -76,15 +76,15 @@ Deepen the answer with concrete specifics from the underlying sources, and link 
 4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Prefer `[[wikilinks]]` in Connected lists; inline links in body prose are fine when they add navigational value.
 5. **Concept pages REQUIRED sections**: `## Questions to Consider` (single contiguous bulleted list, 2-7 open pre-reading questions) then `## Introduction`. If enriching a concept, refresh Questions if content changed substantially.
 6. **Bump `updated`** (full ISO timestamp) in frontmatter on any significant edit — the maintainer flags stale `updated` dates.
-7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<SKILLS_DIR>`, or branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
+7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<AGENT>`, or third-party site branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
 
 ## Step 4 — HARD GATE before build
 
 Run BOTH on the whole corpus (they also verify nothing else regressed):
 
 ```bash
-python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all      # 0 broken/self/heading links, balanced brackets
-python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all # 0 defects; ordered lists ONE block; no body source links
+python3 <AGENT>/research/wiki-inline-links/scripts/inline_link_scan.py . --all      # 0 broken/self/heading links, balanced brackets
+python3 <AGENT>/research/wiki-inline-links/scripts/check_list_formatting.py . --all # 0 defects; ordered lists ONE block; no body source links
 ```
 
 The scanner's denylist suggestions are report-only, not defects. Apply only high-confidence links (use `--apply` per-page, then re-scan to confirm). After `--apply`, re-run list-formatting (it edits bodies).
@@ -94,7 +94,7 @@ The scanner's denylist suggestions are report-only, not defects. Apply only high
 1. Regenerate the llms files if page content changed: `python3 tooling/scripts/generate-llms-files.py`.
 2. `npm run build` (workdir the wiki repo root) — confirm `0 errors` / `Complete`.
 3. Spot-check rendered HTML for the key new content.
-4. Privacy-scrub the diff: `git diff | grep -iE '/home/|<SKILLS_DIR>|@gmail|mastodon'` → empty (except intended path-placeholder lines).
+4. Privacy-scrub the diff: `git diff | grep -iE '/home/|<AGENT>|@gmail|mastodon'` → empty (except intended path-placeholder lines).
 5. Commit + push; watch CI (Build + Deploy) to green; `curl -s -o /dev/null -w "%{http_code}"` each touched live URL → 200.
 
 ## Pitfalls

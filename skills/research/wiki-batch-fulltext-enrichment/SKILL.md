@@ -8,8 +8,8 @@ category: research
 
 Use when the user asks to **enrich a backlog of thin/abstract-only wiki articles in batches** (e.g. "tackle them in batches, prioritizing thinnest first"), or when a batch of `articles/*.md` pages have `raw/papers/*.md` sources that hold only an abstract (raw body < ~3000 chars).
 
-## Hard gate (standing rule, 2026-08-24)
-**Never create or enrich a wiki article page unless you can download and save the full text.** If full text cannot be fetched (paywall/CAPTCHA/publisher block), add the article to `AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, update the backlog total, and notify the maintainer so they can supply the PDF. Do NOT create abstract-only pages. Save full text as `raw/papers/<id>.md` (gitignored, local-only, never committed).
+## Hard gate (the maintainer's standing rule, 2026-08-24)
+**Never create or enrich a wiki article page unless you can download and save the full text.** If full text cannot be fetched (paywall/CAPTCHA/publisher block), add the article to `<WIKI>/AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, update the backlog total, and notify the maintainer so he can send the PDF. Do NOT create abstract-only pages. Save full text as `raw/papers/<id>.md` (gitignored, local-only, never committed).
 
 ## Preserve the original PDF (standing rule, 2026-09-12)
 When a PDF arrives in chat, **immediately copy it to `pdf-sources/<article-slug>.pdf` (or `<arXiv-id>.pdf`) before doing anything else**, and leave it there permanently.
@@ -19,7 +19,7 @@ When a PDF arrives in chat, **immediately copy it to `pdf-sources/<article-slug>
 - Downloaded PDFs on the way to ingest (`/tmp/*.pdf`, cache copies) should be moved into `pdf-sources/` as part of the same step, not left in a scratch directory.
 
 ## Screen significance before enriching concept pages (2026-09-15)
-When a batch also touches concept pages, run the significance screen **first**: enumerate the candidate (article, concept) pairs and apply the delete test to each before writing a single sentence, then enrich only the survivors (see `wiki-concept-narrative` step 0). Enriching the whole candidate set and auditing afterwards pays twice: the 2026-09-15 audit of 35 already-enriched pages needed 10 reviewers to remove 17 marginal insertions, 13 of them bare Connected Articles entries.
+When a batch also touches concept pages, run the significance screen **first**: enumerate the candidate (article, concept) pairs and apply the delete test to each before writing a single sentence, then enrich only the survivors (see `wiki-concept-narrative` step 0). Enriching the whole candidate set and auditing afterwards pays twice — the 2026-09-15 audit of 35 already-enriched pages needed 10 reviewers to remove 17 marginal insertions, 13 of them bare Connected Articles entries.
 
 ## Batch workflow (validated on 84 arXiv papers, 2026-08-24)
 
