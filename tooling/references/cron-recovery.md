@@ -62,7 +62,7 @@ Format:
 
 Path: `concepts/daily-digest-YYYY-MM-DD.md`
 
-Frontmatter: `type: digest`, `tags: [daily-digest]`. Body: one subsection per paper with title, authors, venue, and 1-2 sentence key finding.
+Frontmatter: `type: digest`, `created`, `sources`. Body: one subsection per paper with title, authors, venue, and a 2-4 sentence summary of what was found and why it matters.
 
 ### 6. Update journal.md
 

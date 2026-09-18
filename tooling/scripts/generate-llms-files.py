@@ -4,7 +4,11 @@ import os
 import re
 import html
 import json
+import sys
 from datetime import date
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from wikilink_text import resolve_wikilinks, strip_md_links  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -33,6 +37,27 @@ def parse_md(path):
             fm[key.strip()] = val.strip().strip('"\'')
     return fm, parts[2].strip()
 
+def load_titles():
+    """slug -> page title for every collection.
+
+    Wikilinks must flatten to what the site shows for the target, which is its
+    title, not its slug.
+    """
+    titles = {}
+    for d in ('concepts', 'articles', 'faqs'):
+        dirpath = os.path.join(WIKI, d)
+        if not os.path.isdir(dirpath):
+            continue
+        for f in os.listdir(dirpath):
+            if f.endswith('.md'):
+                fm, _ = parse_md(os.path.join(dirpath, f))
+                titles[f[:-3]] = str(fm.get('title', '')).strip('"\'')
+    return titles
+
+
+TITLES = load_titles()
+
+
 def first_para(md):
     """Extract first meaningful paragraph as description."""
     # Skip blockquote synthesis marker
@@ -42,9 +67,10 @@ def first_para(md):
         para = para.strip()
         if not para or para.startswith('#'):
             continue
-        # Remove wikilinks for plain text
-        para = re.sub(r'\[\[([^\]|]+)(?:\|[^\]]+)?\]\]', r'\1', para)
-        para = re.sub(r'\[([^\]]+)\]\([^)]+\)', r'\1', para)
+        # Flat text: a piped wikilink keeps its label, a bare one becomes the
+        # target's page title, so no raw slug can reach the output.
+        para = resolve_wikilinks(para, title_of=TITLES.get)
+        para = strip_md_links(para)
         para = re.sub(r'\s+', ' ', para).strip()
         if len(para) > 30:
             return para[:400]
