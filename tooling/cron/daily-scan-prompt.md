@@ -41,8 +41,23 @@ cat:cs.CY AND (ti:education OR ti:learning OR ...) AND submittedDate:[START TO E
 ```
 
 ### Other sources
-Query every other source in the config by its `type` (`web_search` for EdArXiv,
-etc.) and `url`.
+Query every other source in the config by its `type`:
+
+- `web_search` (EdArXiv) — search its `url` with the source's `query`.
+- `trove_search` (PsyArXiv by subject) — the OSF REST API cannot combine
+  `filter[subjects]` with any other filter, and PsyArXiv publishes no RSS feed,
+  so this source is served by the SHARE/Trove endpoint behind the OSF discover
+  page. Run the `fetcher_script` from the source block:
+
+  ```bash
+  python3 tooling/scripts/fetch-psyarxiv-edpsych.py --days 3   # JSON lines, newest first
+  ```
+
+  Full text is open: `--text <osf_id> --out raw/papers/<slug>.md` downloads the
+  PDF and converts it with `pdftotext -layout`. See
+  `references/psyarxiv-subject-search.md` for the endpoint, the `-dateCreated`
+  sort requirement and the DOI caveat (DOIs are minted late; cite
+  `https://osf.io/<id>` until then).
 
 ## Ingestion Workflow
 
