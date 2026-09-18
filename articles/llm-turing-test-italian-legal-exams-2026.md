@@ -1,7 +1,7 @@
 ---
 title: What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-18T07:00:00-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-assessment]
@@ -11,6 +11,7 @@ sources: ['raw/papers/2608.06166.md']
 confidence: medium
 audience: [assessment professionals, researchers]
 level: [adult learning]
+discipline: [legal education]
 methods: [ai-ed-evaluation, benchmark]
 stakeholders: [professional-training]
 ---
@@ -29,7 +30,7 @@ The article reports on a blind Turing Test experiment, assessing the performance
 - [[assessment]]
 - [[professional-training]]
 - [[llm]]
-
+- [[legal-education]] — the professional programme whose examinations the benchmark tests
 ## Connected Articles
 
 - [[machines-misread-pedagogical-quality]] — Why Machines Misread Pedagogical Quality: Human-Machine Alignment in LLM-Based Pretest Question Evaluation
