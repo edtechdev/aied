@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T15:42:00-04:00"
+updated: "2026-09-18T03:05:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -128,99 +128,38 @@ The knowledge base reflects a field in rapid evolution — from early intelligen
 AI in education connects to every concept in the knowledge base — it is the field that all other concept pages collectively define. Use this page as a starting point to navigate the full knowledge base.
 
 ## Connected Concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education (young children)
-- [[ai-anxiety-and-stress]] — AI anxiety and stress in education
-- [[career-development-and-readiness]] — Career development and readiness
-- [[ai-literacy]] — AI literacy
-- [[misconceptions]] — Misconceptions about AI
-- [[ai-technologies]] — AI technologies and techniques
-- [[intelligent-tutoring]] — Intelligent tutoring systems
-- [[cognitive-psychology]] — Cognitivism / cognitive psychology
-- [[generative-ai]] — Generative AI
-- [[llm]] — Large language models
-- [[ai-ed-evaluation]] — AI ed evaluation
-- [[pedagogy]] — Pedagogies and teaching strategies
-- [[research-methods-aied]] — Efficacy research methods
-- [[limitations-in-aied-research]] — Limitations of the AIED evidence base
-- [[assessment]] — Assessment
-- [[evaluative-judgement]] — Evaluative judgment
-- [[group-work]] — Group work
-- [[feedback]] — Feedback
-- [[learning-analytics]] — Learning analytics
-- [[personalized-learning]] — Personalized learning
-- [[adaptive-learning]] — Adaptive learning
-- [[stakeholders]] — People and audiences in AI education
-- [[teacher-role]] — Teaching
-- [[teacher-ai-competency]] — Teacher AI competency
-- [[human-ai-collaboration]] — Human-AI collaboration
-- [[equity-in-ai-education]] — Equity in AI education
-- [[ethics]] — AI ethics
-- [[ai-use-disclosure]] — AI use and disclosure statements
-- [[governance]] — AI governance
-- [[educational-policy-ai]] — Educational AI policy
-- [[educational-robotics]] — Robots in education
-- [[change-management]] — Change management and institutional reform
-- [[machine-learning]] — Machine learning as the technical foundation
-- [[samr-model]] — The SAMR model of technology integration
-- [[vibe-coding]] — Vibe coding
-- [[problem-solving]] — Problem solving with and without AI
-- [[mastery-learning]] — Mastery learning and adaptive instruction
-- [[science-education]] — Science education across the disciplines
-- [[visualization]] — Data visualization, infographics, and dashboards
-- [[video-education]] — Video in Education: video as a medium and AI-generated/personalized/analytics of video learning
-- [[speech-and-voice-technologies]]
-- [[recommender-systems-and-learning-paths]]
-- [[parents-and-families]]
-- [[arts-design-and-media-education]]
-- [[educational-technology-developers]]
-## Connected Articles
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge and student learning in K-12 AI education (Shen et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
-- [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[learning-context-framework-context-aware-ai-education-2026]]
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
-- [[mishra-control-vs-agency-history-2025]] — Control vs. Agency: a historical overview of AI in education
-- [[raza-farooq-aied-review-2020-2025]] — A comprehensive review of AIED research
-- [[liang-genai-systematic-review-human-ai-2026]] — GenAI in education: systematic review
-- [[institutional-change-framework-ai]] — Institutional change framework for AI
-- [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry for GenAI
-- [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: AI integration in educational ecosystems
-- [[alrahmi-org-drivers-ai-adoption-he-2026]] — Exploring organizational drivers of AI adoption in higher education
-- [[ai-online-education-engagement-satisfaction-2026]] — AI in online education: impact on learner engagement and satisfaction
-- [[ai-decision-support-online-learning-assessment-2026]] — AI-driven decision support for online learning and assessment
-- [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-mediated learning and the restructuring of interpretive cognition
-- [[white-wu-robotics-ai-education-2026]] — Robotics and AI in education
-- [[genai-policies-higher-ed-computing]] — GenAI policy in computing
-- [[metacognitively-discordant-completion-genai-2026]] — Metacognitive discord in GenAI completion
-- [[academic-league-of-ai-2026]] — Academic League of AI: teaching, research, and extension
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[kim-ai-andragogy-2026]] — AI applications in supporting andragogy (Kim et al. 2026)
-- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-augmented assessment of student anxiety (2026)
-- [[educational-robotics-pathways-2026]] — Pathways to learning AI-powered educational robotics (2026)
-- [[ai-ethics-bibliometric-2026]] — AI ethics and professional judgment: a bibliometric analysis (Mazlan et al. 2026)
-- [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics: a cultural-historical and ecological framework for education
-- [[li-mroziak-reorienting-critical-ai-literacy]] — Reorienting critical AI literacy
-- [[prezenski-human-centered-ai-aided-learning]] — How human-centered is AI-aided learning?
-- [[ojeda-ramirez-community-based-ai-learning]] — Community-based AI learning
-- [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
+- [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
+- [[human-ai-collaboration]] — umbrella: how people and AI work together
+- [[pedagogy]] — umbrella: teaching methods and strategies
+- [[learning-theories]] — umbrella: how learning happens
+- [[ai-technologies]] — umbrella: models, techniques, and systems
+- [[discipline-specific-aied]] — umbrella: AI across subject areas and levels
+- [[assessment]] — umbrella: how AI assesses learners and reshapes validity
+- [[feedback]] — umbrella: how feedback is generated, delivered, and used
+- [[stakeholders]] — umbrella: who the actors are
+- [[ai-ed-evaluation]] — umbrella: how we know whether AI works
+- [[research-methods-aied]] — umbrella: efficacy research methods
+- [[governance]] — umbrella: the institutional and regulatory layer
+- [[educational-policy-ai]] — umbrella: policy, guidance, and implementation
+- [[equity-in-ai-education]] — umbrella: fairness, access, and inclusion
+- [[learning-sciences]] — the empirical field behind AIED
+- [[ethics]] — the ethical dimensions of AI in education
+- [[misconceptions]] — the mental models people bring to AI
+- [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
+- [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
+- [[history-of-aied]] — how the field evolved
+- [[philosophy-of-ai-in-education]] — the philosophical foundations
+- [[theory-development-aied]] — building and revising theory
 
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[rismanchian-ai-education-four-decades-aixed-2026]]
+## Connected Articles
+
+Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
+
+- [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
+- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
+- [[liang-genai-systematic-review-human-ai-2026]] — Generative AI in education: systematic review of 56 empirical studies
+- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
+- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic literature review of 42 studies
+- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
