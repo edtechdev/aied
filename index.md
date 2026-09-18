@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1291 | Concepts: 205 | FAQs: 32
+Articles: 1301 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -97,6 +97,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[ai-divide-ses-personality-primary-education-2026]] — Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality
 - [[ai-ed-evaluation]] — AI Ed Evaluation
 - [[ai-education]] — AI in Education
+- [[ai-education-effects-second-order-meta-analysis-2026]] — What Do We Know About the Effects of Artificial Intelligence in Education? A Second-Order Meta-Analysis
 - [[ai-educational-reform-computer-majors-2026]] — AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era
 - [[ai-emotional-intelligence-teacher-development-2026]] — Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games: Integrating Intelligence and Adaptivity in Training Systems
@@ -141,6 +142,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education
+- [[ai-literacy-instrument-development-systematic-review-2026]] — Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — The impact of artificial intelligence literacy on learning engagement among university students: the mediating role of psychological capital and the moderating role of professional identity
 - [[ai-literacy-legal-translation-2026]] — AI Literacy for Legal Translation: Developing Digital Resilience
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
@@ -152,6 +154,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[ai-making-us-stupid]] — Is AI making us stupid?
 - [[ai-mediated-cognitive-divergence-2026]] — AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-mindset-psychological-framework-2026]] — AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use
 - [[ai-misuse-learning-harm]] — AI Misuse and Learning Harm
 - [[ai-modelling-problem-generation-platform-2026]] — Creating an AI-Powered Platform for Generating Modelling Problems
 - [[ai-online-education-engagement-satisfaction-2026]] — 'Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction'
@@ -226,6 +229,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach
+- [[ampt-math-personalization-genai-2026]] — AMPT: A Tool for Personalizing Math Learning with Generative AI
 - [[an-goel-self-directed-modeling-2026]] — How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
@@ -357,6 +361,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task
+- [[co-learning-ai-agent-hidden-rules-2026]] — Benefits of co-learning with an AI agent
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: Evidence that AI can improve writing skill despite reducing effort
 - [[coates-governing-academic-integrity-indicators-2025]] — Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence
@@ -415,6 +420,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback
 - [[courseblueprint-adaptive-video-generation]] — CourseBlueprint: A Structured Pipeline for Adaptive Pedagogical Video Generation Grounded in Course Corpora
 - [[coursegraph-cs-course-comparison-2026]] — CourseGraph: Finding overlaps and differences in Computer Science courses across universities
+- [[creativa-process-dynamic-creativity-assessment-2026]] — CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models
 - [[creative-project-approach-ai-early-childhood-2025]] — Tailoring AI Agents for Early Learning: The Creative Project Approach
 - [[creativity]] — Creativity
 - [[credential-cognitive-stewardship-ai-assessment]] — What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
@@ -589,6 +595,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff
 - [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
 - [[gaide-vibe-coding-k12-teachers]] — A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
+- [[gails-generative-ai-literacy-scale-2026]] — The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines
 - [[game-based-learning]] — Game-Based Learning
 - [[gaze-informed-ai-children]] — Gaze-Informed Proactive AI Assistance for Children’s Picture Exploration
@@ -648,6 +655,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless Use of Generative Artificial Intelligence and College Students' Self-Directed Learning: A Multi-Group SEM Analysis of Gender Differences
 - [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
 - [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026
+- [[genai-usage-styles-creative-self-beliefs-2026]] — The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education
 - [[genai-use-usefulness-student-experience-australia-2026]] — The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives
 - [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance
@@ -1068,6 +1076,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review
+- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI
 - [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — The Personalization Paradox: AI-Adaptive Learning Environments, Academic Emotions, and Self-Regulated Learning
@@ -1192,6 +1201,7 @@ Articles: 1291 | Concepts: 205 | FAQs: 32
 - [[roe-assessment-twins-2026]] — Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Integrating Generative Artificial Intelligence into University Curricula: Student Insights
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
+- [[rubric-guided-genai-creativity-assessment-games-2026]] — Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Taming the Black Box: Design Principles for Rule-Integrated LLM Tutoring Systems in Primary School Mathematical Problem Solving
 - [[sahab-model-genai-constructivist-id-2026]] — Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model
