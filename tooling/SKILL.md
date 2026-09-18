@@ -68,7 +68,11 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - Non-arXiv: `raw/papers/<slug>.md` with same frontmatter + full extracted text (all raw sources live under `raw/papers/`)
 3. **Create Article Page**
    - Path: `articles/<slug>.md`
-   - Frontmatter (required): `title`, `created`, `updated`, `type: article`, `tags`, `sources`, `confidence` (`high`/`medium`/`low`)
+   - Frontmatter (required): `title`, `created`, `updated`, `type: article`, `sources`, `confidence` (`high`/`medium`/`low`).
+     There is no `tags` field (retired 2026-09-17): the concepts a page touches go in the typed fields instead —
+     the topic facets (`pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics`, `foundations`),
+     whose allowed values are the concept slugs of that facet's own registry section, plus the phrase fields
+     (`page_kind`, `research_method`, `discipline`, `level`, `audience`). `validate-facets.py` is a gate on all of it.
    - **`created`/`updated` must be full QUOTED date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by string comparison, and unquoted ISO shifts to UTC (next day). `created` = ingestion date+time (not paper pub date). Display is date-only; the time is internal for sorting. Bump `updated` on any significant body edit and rebuild so the sidebar refreshes.
    - Body: synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → **Citation (MUST be the LAST section, after Connected Articles — never at the top or mid-page)**; APA; **hyperlink ONLY the article title** to the source, with the journal/volume/pages in plain italics, e.g. `Author, A. (Year). [Title](https://doi.org/…). *Journal, Vol*(Issue), pages.` — never hyperlink the journal/volume/pages along with the title, and NEVER wrap any part of the citation in `[[wikilinks]]`. The citation contains exactly ONE hyperlink (the title→source) and zero inline `[[wikilinks]]`; the title text is plain prose inside the single link (an over-aggressive inline-link pass once corrupted 16 titles into `AI [[problem-solving]]` / `[[k-12|secondary school]]` — see `wiki-inline-links` hard rule). If the source has no public DOI/URL (preprint/manuscript/conference without an online copy), leave the title **unlinked** rather than fabricate a DOI/URL. **REPEATED MAINTAINER FLAG — citation format (2026-09-02, "Again")**: the title MUST be the hyperlinked text — do NOT write the title as plain text and then append a bare `https://…` (or a separate `[url](url)`) after the venue. Put the title inside the link brackets and drop any trailing standalone URL; the citation is one link on the title, nothing else. Also **remove ALL editorial notes** from the citation — no `*(Preprint/working paper; not yet peer-reviewed…)*`, no confidence/editor asides (confidence lives only in frontmatter). SELF-CHECK before finishing any article: `## Citation` should contain exactly ONE `](` … `)` link pair whose visible text is the paper title, and NO bare `https://` outside a link, and NO trailing italic-paren editorial note.
    - **No standalone source/PDF link in the body (2026-09-01):** the narrative body must NOT contain a `📄 [PDF](…)` / `📄 arXiv · [PDF](…)` / `📄 [Full article](…)` / `📄 DOI: …` link line right after the frontmatter or anywhere before `## Citation`. That is redundant and maintainer-flagged — the `## Citation` title→source link is the single source hyperlink. Do not add such a line when creating a page; if a template or older page has one, remove it. The `wiki-inline-links` HARD GATE (`check_list_formatting.py`) now flags stray source-link lines in the body, so this is caught automatically before build.
@@ -132,9 +136,9 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
              created = line.split(":", 1)[1].strip()
          elif line.startswith("confidence:"):
              conf = line.split(":", 1)[1].strip()
-         elif line.startswith("tags:"):
-             tags_str = line.split(":", 1)[1].strip()
-             tags = [t.strip() for t in tags_str.strip("[]").split(",") if t.strip()]
+         # NOTE: there is no `tags:` line to parse any more (retired 2026-09-17).
+         # Read the typed metadata fields instead: the topic facets hold concept
+         # slugs from their own registry section, the phrase fields hold enums.
          elif line.startswith("sources:"):
              srcs_str = line.split(":", 1)[1].strip()
              srcs = [s.strip() for s in srcs_str.strip("[]").split(",") if s.strip()]

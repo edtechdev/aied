@@ -35,7 +35,7 @@ Use when working in the AI-in-education research wiki (`<WIKI>`) and a new artic
 
 ## Relationship to other wiki skills
 
-The wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-faq-pages`, `wiki-article-quality`, and the rest of `research/wiki-*`) are **user-owned / protected** — they cannot be patched by a curator-managed agent. This skill exists to carry the maintainer's narrative-integration rule that belongs alongside them. Recommend `agent curator adopt <name>` if the user wants these rules merged into the protected skills.
+The wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-faq-pages`, `wiki-article-quality`, and the rest of `research/wiki-*`) are **user-owned / protected** — they cannot be patched by a curator-managed agent. This skill exists to carry the maintainer's narrative-integration rule that belongs alongside them. Recommend `hermes curator adopt <name>` if the user wants these rules merged into the protected skills.
 
 ## Support files
 - (none yet)

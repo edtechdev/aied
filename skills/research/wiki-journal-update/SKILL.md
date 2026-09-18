@@ -43,7 +43,7 @@ Last updated: <YYYY-MM-DD> | Total entries: <N>
 
 ## Safe Regeneration (inline Python)
 
-Run via `execute_code` (prefer Python `open()`/`os` for all file I/O — NOT `hermes_tools`/`agent_tools` `read_file`, which returns an incompatible dict). Never run a `regenerate-journal-html.py` that targets the retired pre-Astro HTML pipeline.
+Run via `execute_code` (prefer Python `open()`/`os` for all file I/O — NOT `<TOOLS>`/`<TOOLS>` `read_file`, which returns an incompatible dict). Never run a `regenerate-journal-html.py` that targets the retired pre-Astro HTML pipeline.
 
 ```python
 import os, re, yaml
@@ -159,4 +159,4 @@ Non-negotiables:
 - **Always diff against the previous commit's format** before committing, so a format regression (truncated headers / quoted titles / two-line drift) is caught.
 
 ## Repository mirror
-This skill is mirrored in the AI Ed Wiki repo at `skills/research/wiki-journal-update/`. Keep the installed copy (`~/.hermes/skills/research/wiki-journal-update/`) and the repo copy in sync after every edit (they differ only in path literals: the repo copy uses `<WIKI>` placeholders; the installed copy uses an absolute local path).
+This skill is mirrored in the AI Ed Wiki repo at `skills/research/wiki-journal-update/`. Keep the installed copy (`<SKILLS_DIR>/research/wiki-journal-update/`) and the repo copy in sync after every edit (they differ only in path literals: the repo copy uses `<WIKI>` placeholders; the installed copy uses an absolute local path).

@@ -126,15 +126,6 @@ def main():
     check = '--check' in argv
     force = '--force' in argv
     dry = '--dry-run' in argv
-    # --quiet: stay silent while the preview is fresh, so this can be scheduled as
-    # a watchdog without pinging anyone. A restart, a refusal or a failure still
-    # speaks (refusals/failures go to stderr and exit non-zero).
-    quiet = '--quiet' in argv
-
-    def say(*parts):
-        if not quiet:
-            print(*parts)
-
     cfg = load_config()
     root = path(cfg, 'root')
     port = get(cfg, 'preview.port', 4321)
@@ -144,16 +135,16 @@ def main():
     cache = cache_mtime(cfg)
     stale = content > cache + 1
     pid, cmd = listener(port)
-    status, url = reachable(cfg) if pid else (0, f"http://{get(cfg, 'preview.host')}:{port}/")
+    status, url = reachable(cfg) if pid else (0, f"http://{get(cfg,'preview.host')}:{port}/")
 
     fmt = lambda t: time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(t)) if t else 'n/a'
-    say(f"preview   {url}  (mode={mode})")
-    say(f"server    pid={pid or 'none'}  {' '.join(cmd.split()[:6]) or 'not listening'}")
+    print(f"preview   {url}  (mode={mode})")
+    print(f"server    pid={pid or 'none'}  {' '.join(cmd.split()[:6]) or 'not listening'}")
     if pid:
-        say(f"http      {status}")
-    say(f"content   newest {fmt(content)}")
-    say(f"synced    {fmt(cache)}   ({'content cache' if mode == 'dev' else 'dist'})")
-    say(f"verdict   {'STALE - the preview does not have the newest content' if stale else 'fresh'}")
+        print(f"http      {status}")
+    print(f"content   newest {fmt(content)}")
+    print(f"synced    {fmt(cache)}   ({'content cache' if mode == 'dev' else 'dist'})")
+    print(f"verdict   {'STALE - the preview does not have the newest content' if stale else 'fresh'}")
 
     if check:
         return 1 if (stale and pid) else 0
@@ -162,12 +153,12 @@ def main():
                  f"process ({cmd[:80]!r})")
 
     if not stale and not force:
-        say("no restart needed.")
+        print("no restart needed.")
         return 0
 
     log = str(get(cfg, 'preview.log') or os.path.join('/tmp', 'wiki-preview.log'))
     wait = int(get(cfg, 'preview.wait_seconds') or 45)
-    say(f"{'[dry-run] ' if dry else ''}restarting: {pid or 'nothing to stop'}")
+    print(f"{'[dry-run] ' if dry else ''}restarting: {pid or 'nothing to stop'}")
     if dry:
         return 0
 
@@ -184,13 +175,13 @@ def main():
         fh.write(f"\n--- restart {time.strftime('%Y-%m-%d %H:%M:%S')} ---\n")
         subprocess.Popen(launch, cwd=root, stdout=fh, stderr=subprocess.STDOUT,
                          start_new_session=True)
-    say(f"started: {' '.join(launch)}   (log: {log})")
+    print(f"started: {' '.join(launch)}   (log: {log})")
     deadline = time.time() + wait
     while time.time() < deadline:
         time.sleep(2)
         status, url = reachable(cfg)
         if status == 200:
-            say(f"OK - {url} answers 200 after {int(wait - (deadline - time.time()))}s")
+            print(f"OK - {url} answers 200 after {int(wait - (deadline - time.time()))}s")
             return 0
     sys.exit(f"preview did not answer 200 within {wait}s - check {log}")
 

@@ -68,4 +68,4 @@ See `references/historical-concept-page.md` for the history-of-aied pattern (cre
 - **Enriching existing is the default.** Users prefer a well-enriched existing page over a redundant new one. Only create when the cluster is genuinely distinct.
 - **Watch name collisions with an existing umbrella.** If the new narrow concept's name could be mistaken for the existing broader page, rename the broader page (confirm the new name with the user first via a short choice list) rather than leaving two confusable names.
 - **A new sub-concept still needs its own page even when the umbrella already covers the territory** — the umbrella is the *relationship hub*; the sub-concept is the operational slice. Keep both, cross-linked, with the umbrella explicitly delineating them.
-- **Recommend `agent curator adopt research-wiki`** for durable concept-page workflow details — that skill is user-owned and its full ingestion/enrichment rules can't be edited here.
+- **Recommend `hermes curator adopt research-wiki`** for durable concept-page workflow details — that skill is user-owned and its full ingestion/enrichment rules can't be edited here.
