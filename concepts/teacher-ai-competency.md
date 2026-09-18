@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-18T09:00:00-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -40,9 +40,13 @@ The knowledge base's research converges on several interconnected dimensions:
 - **Ethical and critical use:** recognizing [[bias-mitigation|bias]] in AI outputs, protecting student data ([[privacy]]), and ensuring equitable outcomes ([[equity-in-ai-education]]). [[llm-cultural-relevance-k12|Culturally relevant AI use]] examines how teachers can use LLMs to diversify materials rather than reinforce dominant norms.
 - **Confidence and attitudes:** teacher [[self-efficacy|confidence]] shapes adoption. [[teacher-ai-adoption-confidence|Adoption research]] finds confidence, support, and perceived utility drive whether teachers actually use AI, and [[ai-pedagogical-orientation|faculty orientations]] shape adoption in research and teaching.
 
+**Emotional and moral readiness is a distinct dimension.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] surveyed the academic staff of a Maltese university (109 respondents) and built an AI Guilt Index (α = 0.88) from four moral-emotion items, finding that *anticipatory* guilt outweighed remorse experienced after use: the strongest endorsement was worry that AI use undermines one's credibility (34.9% agreeing), then feeling like one is [[academic-integrity|cheating]] when using it (25.7%), while post-use remorse drew only 9.2%. The findings that matter for competency frameworks are that non-users reported *higher* guilt than users (M = 3.25 vs M = 2.32) and that guilt fell as career security rose — early-career academics reported the most (M = 2.71) and senior academics the least (M = 2.03). Emotional readiness is therefore not captured by skill or confidence measures, and the paper argues competency frameworks should treat guilt and identity concern as normal transitional responses rather than faults to correct.
+
 ## The competency gap
 
 A key finding is the **gap between self-reported and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[automated-assessment|calibrated self-assessment]].
+
+**The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and humanities (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
 
 ## Professional development that works
 
@@ -137,3 +141,6 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[xai-teachers-trust-edtech-recommendations-2026]]
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
+- [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
+- [[chick-faculty-development-ethical-ai-2026]] — Six-week faculty institute from fear to ethical integration, symbiotic pedagogy and AIPACK (Chick, Morello & Staffey 2026)

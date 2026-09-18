@@ -1,7 +1,7 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-09-18T06:05:00-04:00"
+updated: "2026-09-18T09:10:00-04:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -25,6 +25,8 @@ Three independent lines of evidence converge on the same conclusion.
 **And it misses wholesale AI use entirely when it counts.** In a covert field study, researchers injected wholly AI-generated submissions into a live online [[summative-assessment|examination]] system across five psychology modules: **94% went undetected**, and the AI work on average outscored the real students. Contract cheating already demonstrated the same structural problem — it leaves no reliable trace to find.([[teichmann-detecting-undetectable-misconduct-2026]])
 
 Accuracy also varies by task in ways a policy cannot anticipate. When researchers tested whether [[generative-ai|generative AI]] can reliably detect its own output, detection was dependable for programming and longer reflective writing but poor for short answers, where the model often judged its own text as *more* human-like than authentic student work — and minor prompt variations sharply reduced accuracy.([[llm-detecting-llm-generated-content-education]]) Any threshold you set will hold for some assignments and fail for others.
+
+**Detection has never been clearly better than a careful human, and the margin is not the point.** [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025|Leaton Gray, Edsall and Parapadakis (2025)]] report machine detection of AI or paraphrased text at roughly **80%** against **78.4%** for human reviewers, and cite evidence that AI-generated text has passed as human-authored in **up to 80% of cases** — which they read as a margin far too narrow to ground a misconduct finding, since the machine's advantage disappears into the same error band the human brings. Their review also undercuts the assumption that detection deters the capable: Krou et al.'s meta-analysis finds self-efficacy correlates negatively with cheating while actual ability does not correlate inversely with it at all, so students who could do the work may cheat when they judge the assessment unfair. Detection is therefore neither a reliable instrument nor an obvious deterrent.
 
 ## 2. The errors are patterned, and they land on the wrong students
 

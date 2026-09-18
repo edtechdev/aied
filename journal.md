@@ -1,21 +1,32 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1457
+Last updated: 2026-09-18 | Total entries: 1468
 
 ## 2026-09-18
+- 📄 [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
 - 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
+- 📄 [[coates-governing-academic-integrity-indicators-2025]] — Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence
 - 📄 [[dabkowski-nursing-academics-genai-2026]] — 'Co-pilot won't teach you to be a nurse': Nursing academics' perspectives on GenAI use in undergraduate education
 - 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education
 - 📄 [[hadra-ai-detector-accuracy-efl-2026]] — Evaluating the accuracy and reliability of AI content detectors in academic contexts
 - 📄 [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review
+- 📄 [[humble-prompt-injection-ai-grading-red-team-2026]] — Ethical implications of prompt injection in AI-mediated grading: An adversarial red-team evaluation
+- 📄 [[ji-student-voices-academic-integrity-scoping-2026]] — Academic integrity in the age of generative AI: A scoping review of research on higher education student voices
 - 📘 [[learners]] — Learners
+- 📄 [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-based digital cheating at university, and the case for new ethical pedagogies
 - 📘 [[legal-education]] — Legal Education
 - 📘 [[legal-issues-and-risks]] — Legal Issues and Risks
+- 📄 [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Towards trustworthy and explainable-by-design large language models for automated teacher assessment
+- 📄 [[li-genai-assessment-language-equity-2026]] — GenAI assessment and language equity: Drawing the line between support and substitution
+- 📄 [[milicevic-socratic-trap-strategic-misconceptions-2026]] — The Socratic trap: Benchmarking the capacity of large language models to generate strategic misconceptions in computer science education
 - 📄 [[mulisa-students-genai-integrity-perspectives-2026]] — Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students’ perspectives
 - 📄 [[munoz-misconduct-allegation-evidence-2026]] — How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis
 - 📄 [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
+- 📄 [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — AI literacy and scenario-based ethical judgment about generative AI among undergraduate students
 - 📄 [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
 - 📄 [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
+- 📄 [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption
+- 📄 [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI challenge: How college faculty assess the present and future of higher education in the age of AI
 - 📄 [[wright-transcription-not-generation-2026]] — Transcription is not generation: Distinguishing non-generative AI tool use from academic misconduct in higher education assessment
 
 ## 2026-09-17

@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-18T09:00:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -57,6 +57,10 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Conditional trust: feedback utility vs. evaluative authority (2026):** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] shows that when Saudi computing students know ChatGPT generated their writing score, they draw a sharp line between accepting [[ai-feedback-quality|AI feedback]] and ceding grading authority to AI — accepting the former for surface-level revision while consistently reserving evaluative authority for the human instructor. This "feedback utility / evaluative authority" distinction is a concrete case of calibration in the assessment context: students match trust to the *function* of the AI (useful feedback vs. consequential grading) rather than accepting or rejecting it wholesale, and transparency about AI involvement appears to activate this more calibrated, critical stance.
 
+- **A tool that suppresses and then contradicts its own warnings (2026):** [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamed an AI grading tool with instructions hidden inside student submissions. Two of five injections raised a failing grade with no visible warning (100% and 94% success rates), a white-text injection in the document body failed in all nine iterations — and instead of telling the user it had caught anything, the tool silently disabled the chat. The starkest case is one pdf run that *did* announce it would grade only according to the official assignment instructions: re-running the same file raised the grade six more times with no warning, a reassurance the author describes as capable of producing a false sense of security. Signalling that is inconsistent and self-contradicting gives the user no reliable basis for judging when to rely on the tool, and the paper is explicit that it did not measure trust — the argument is derived from the manipulation and the reporting behaviour.
+
+- **Trust controls placed inside the inference path (2025):** [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]] treat calibration as architecture rather than reporting: Monte Carlo dropout calibration is combined with adversarial debiasing and a reject-and-refer gate that withholds a score when dropout variance exceeds a learned threshold, reaching an expected calibration error of 0.032, a 1.8% fairness gap and a 41% reduction in human review workload on TeacherEval-2023. Their own limitation section is the calibration caution that applies to any such metric: trust is hard to quantify from performance metrics alone, teacher adoption depends on perceived reliability, fairness and pedagogical relevance, and longitudinal adoption trials and perception surveys are the missing evidence.
+
 ## Connected Concepts
 
 - [[explainable-ai]]
@@ -92,3 +96,5 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[sidorkin-ai-generated-course-readings-2026]] — Bounded trust and instructor oversight in AI-generated course readings (Sidorkin 2026)
 - [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
