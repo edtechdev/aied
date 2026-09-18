@@ -1,7 +1,7 @@
 ---
 title: AI Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-18T10:59:34-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -136,3 +136,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt exceeding post-use remorse among academic staff (Vassallo 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labour in AI-mediated work

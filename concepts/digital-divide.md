@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-18T10:59:34-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -43,6 +43,8 @@ AI adds new layers to the equity implications of technology. Algorithmic bias ca
 
 **The divide also has a geography, and mentorship is its mechanism.** [[arc-hubs-k12-ai-robotics-rural-2026|Jacobson et al. (2026)]] document a recovery asymmetry in Indiana FIRST LEGO League participation: both urban and rural participation fell in the 2020 remote season, but only urban participation recovered, and rural participation stayed near its post-2020 level through 2025–2026. The mechanism they name is access to technical mentorship — people with enough programming and robotics knowledge to start and sustain a team — which rural schools may lack even when students and teachers are interested, making it a precondition for the robotics and AI pathway rather than a feature of it. Their response is to engineer the propagation of that mentorship: college primary hubs train undergraduates and host workshops, mature school programs become secondary hubs that mentor nearby schools, and a spatial Markov simulation of Indiana's 1,925 public schools projects 992 programs after 40 years under moderate assumptions against 161 without ARC, including 341 rural programs against 60. Read alongside the institutional-network result above, the pattern is that divides persist through the *structure of who can supply expertise where*, and that supplying it deliberately — rather than assuming proximity to a university — is the policy lever.
 
+**Access and epistemic hierarchy are different problems.** [[beyond-the-algorithm-academic-developers-digital-mediators-2026|Sithole (2026)]] draws the distinction sharply from interviews with academic developers at two South African Historically Disadvantaged Institutions: digital inequality is distributive — devices, connectivity, budgets, digital literacy — and answerable in principle through redistribution, whereas **algorithmic coloniality** is epistemic and persists even under conditions of full access, because it inheres in what the systems encode and whose knowledge they centre. The study's participants experience both at once, described as being "asked to build a digital future on analogue foundations": the foundations name the material register of the divide, and the imported future arrives pre-loaded with the epistemic assumptions of the contexts that designed it. The practical implication for equity work is that closing an access gap does not by itself unsettle the hierarchy — the two phenomena operate at different registers and require different responses.
+
 ### Connections to related concepts
 
 The digital divide is a core concern of [[equity-in-ai-education]] research, closely tied to [[ai-literacy]] (which is positioned as a central mechanism for addressing structural barriers), and to [[ethics]] and [[bias-mitigation]] (since algorithmic bias disproportionately affects marginalized groups). It connects to [[ai-education]] and [[higher-ed]] as the settings where access and capability gaps manifest, and relates to [[student-experience]] as it shapes who can participate meaningfully in AI-shaped learning.
@@ -78,4 +80,4 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
-
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs
