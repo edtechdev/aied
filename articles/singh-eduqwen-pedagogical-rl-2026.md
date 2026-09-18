@@ -1,7 +1,7 @@
 ---
-title: "EduQwen: Pedagogical RL"
+title: "Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [llm, pedagogical-llm-training, rag, reinforcement-learning, open-source]
 stakeholders: [pedagogical-safety]

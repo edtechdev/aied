@@ -1,7 +1,7 @@
 ---
-title: "\"Will AI Steal My Glory?\": Power Relations Perceived by College Instructors When Grappling with Generative AI"
+title: "“Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI"
 created: "2026-08-22T17:45:00-04:00"
-updated: "2026-08-22T18:20:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]

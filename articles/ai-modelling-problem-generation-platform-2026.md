@@ -1,7 +1,7 @@
 ---
-title: "Creating an AI-Powered Platform for Generating Modelling Problems"
+title: "Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
 foundations: [curriculum-design, learning-design]

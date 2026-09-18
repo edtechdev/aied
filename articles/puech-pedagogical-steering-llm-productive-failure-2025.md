@@ -1,7 +1,7 @@
 ---
-title: "Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure"
+title: "Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure"
 created: "2026-08-23T08:05:00-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [productive-failure, socratic-method]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]

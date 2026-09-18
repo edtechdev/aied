@@ -1,7 +1,7 @@
 ---
-title: "Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development"
+title: "Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development"
 created: "2026-07-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]

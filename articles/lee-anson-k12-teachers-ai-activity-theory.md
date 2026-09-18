@@ -1,7 +1,7 @@
 ---
-title: "K-12 Teachers' Perspectives on AI Use Through the Lens of Activity Theory"
+title: "K-12 teachers' perspectives on AI use in education through the lens of activity theory"
 created: "2026-08-26T08:14:00-04:00"
-updated: "2026-08-26T08:14:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]

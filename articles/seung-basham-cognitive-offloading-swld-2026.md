@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?"
 created: "2026-08-27T08:50:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]

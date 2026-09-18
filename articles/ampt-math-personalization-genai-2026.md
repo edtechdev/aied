@@ -1,7 +1,7 @@
 ---
-title: "AMPT: A Tool for Personalizing Math Learning with Generative AI"
+title: "GenAI in novel educational applications"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [motivation, problem-solving, student-engagement]
 technology: [generative-ai, llm, conversational-ai, personalized-learning]

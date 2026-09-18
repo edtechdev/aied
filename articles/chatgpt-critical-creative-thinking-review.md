@@ -1,7 +1,7 @@
 ---
-title: "ChatGPT Critical and Creative Thinking: Systematic Review"
+title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 created: "2026-05-16T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, learning-design]
 pedagogy: [metacognition, scaffolding]

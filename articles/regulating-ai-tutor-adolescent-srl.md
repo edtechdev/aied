@@ -1,7 +1,7 @@
 ---
-title: "Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use"
+title: "Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
 technology: [llm]

@@ -1,7 +1,7 @@
 ---
-title: "Perceptions of Generative AI in Global South: A Scoping Review"
+title: "Perceptions Of Generative AI in the Global South: A Scoping Review"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]

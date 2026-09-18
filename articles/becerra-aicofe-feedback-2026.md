@@ -1,7 +1,7 @@
 ---
-title: "AICoFE: AI-Powered Feedback System"
+title: "AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics]
 assessment: [feedback, formative-assessment]

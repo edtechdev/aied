@@ -1,7 +1,7 @@
 ---
-title: "TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions"
+title: "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude"
 created: "2026-06-10T12:17:35-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, edtech-platform]

@@ -1,7 +1,7 @@
 ---
-title: "AI Literacy Assessment: Self-Reported vs Performance Misalignment"
+title: "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures"
 created: "2026-05-08T07:38:00-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 pedagogy: [self-regulated-learning]

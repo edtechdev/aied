@@ -1,7 +1,7 @@
 ---
-title: "AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently"
+title: "AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently"
 created: "2026-08-19T08:30:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai]

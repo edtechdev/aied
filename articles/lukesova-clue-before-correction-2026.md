@@ -1,7 +1,7 @@
 ---
-title: "Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning"
+title: "Clue before correction: ChatGPT-enhanced strategy for promoting autonomous and reflective language learning"
 created: "2026-08-23T08:10:00-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [metacognition, productive-failure, self-regulated-learning]
 technology: [generative-ai]

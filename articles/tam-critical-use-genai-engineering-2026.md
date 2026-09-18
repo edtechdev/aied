@@ -1,7 +1,7 @@
 ---
-title: "Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use"
+title: "Factors influencing university students' intention to use and reliance on generative artificial intelligence"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 technology: [generative-ai, technology-acceptance-model]

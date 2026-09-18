@@ -1,7 +1,7 @@
 ---
-title: "SafeTutors: Pedagogical Safety in AI Tutoring"
+title: "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm]
@@ -17,25 +17,62 @@ page_kind: [evaluation, framework]
 institutions: [regulation]
 ---
 
-> **Synthesis:** **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across [[math-education|mathematics]], [[physics-education|physics]], and [[chemistry-education|chemistry]]. It argues that **tutoring safety is fundamentally different from conventional [[llm]] safety**: the primary risk is not toxic content but the quiet erosion of learning through answer over-disclosure, [[misconceptions|misconception]] reinforcement, and the abdication of [[scaffolding]].
+> **Synthesis:** Conventional [[llm]] safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education the primary risks are quieter: as Hazra et al. put it, *"Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different."* **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across [[math-education|mathematics]], [[physics-education|physics]], and [[chemistry-education|chemistry]], and it finds that **every tested model shows broad [[pedagogy|pedagogical]] harm**, with failure rates escalating from **17.7% in single-turn to 77.8% in multi-turn** student–tutor dialogue. The harms it measures — answer over-disclosure, [[misconceptions|misconception]] reinforcement, abdication of [[scaffolding]] — look "helpful" on the surface: the student gets a correct answer quickly. The long-term effect is learning atrophy, and because these failures worsen as conversations lengthen, single-turn "safe/helpful" results systematically mask tutor failure. Tutoring harm is thus qualitatively different from content harm, and an 11-dimension, 48-sub-risk taxonomy supplies a vocabulary for it grounded in learning science.
 
 ## Key Findings
 
-1. **Universal harm across all models.** Every evaluated model — from 3.8B open-weight models to GPT-5-mini — exhibited broad [[pedagogy|pedagogical]] harm. No model was consistently safe across all subjects and interaction modes, indicating that tutoring safety is not solved by general capability improvements.
-2. **Scale does not reliably improve safety.** Increasing model size did not produce consistent improvements in pedagogical safety, challenging the assumption that larger models are inherently better tutors. This finding parallels broader critiques in llm-evaluation that general [[benchmark|benchmarks]] do not capture domain-specific safety requirements.
-3. **Multi-turn dialogue dramatically worsens behavior.** Pedagogical failure rates escalate from **17.7% in single-turn** interactions to **77.8% in multi-turn** conversations. The crescendo-based escalation design reveals that models which appear safe in one-turn evaluations systematically degrade across sustained interaction — single-turn "safe/helpful" results mask systematic tutor failure.
-4. **Harms are subject-dependent.** Violation patterns vary significantly across mathematics, physics, and chemistry, indicating that mitigations must be discipline-aware. A tutoring safety strategy that works for math may not transfer to science domains.
-5. **An 11-dimension, 48-sub-risk taxonomy grounds the evaluation.** SafeTutors' risk taxonomy spans Cognitive, Epistemic, [[metacognition|Metacognitive]], [[motivation|Motivational]]-[[affective-computing|Affective]], Developmental & [[equity-in-ai-education|Equity]], Instructional Alignment, Behavioral & Inquiry, [[ethics|Ethical]]-Epistemic Integrity, Informational-Semantic, Reflective-Critical, and Pedagogical Relationship dimensions — each with multiple sub-risks drawn from learning-science literature.
+1. **Universal harm across all models.** All 11 tested models — 3.8B–72B open-weight systems plus GPT-5-mini — exhibited broad [[pedagogy|pedagogical]] harm, and none was consistently safe across subjects or interaction modes.
+2. **Scale is not a fix.** Larger models were not reliably safer, and raw helpfulness correlated only weakly with [[pedagogical-safety|pedagogical safety]], challenging the assumption that general capability gains produce better tutors.
+3. **Multi-turn dialogue dramatically worsens behaviour.** Harm rates rose from **17.7% in single-turn** interactions to **77.8% in multi-turn** conversations spanning 5–8 turns, showing that sustained tutoring progressively erodes safety.
+4. **Single-turn evaluation is misleading.** Models that appeared safe in one-turn evaluations degraded systematically as conversations extended, so "safe/helpful" single-turn output is not evidence of a safe tutor.
+5. **Harms are subject-dependent.** Violation patterns varied significantly across mathematics, physics, and chemistry, indicating that mitigations must be [[discipline-specific-aied|discipline-aware]] rather than transferred wholesale between science domains.
+6. **An 11-dimension, 48-sub-risk taxonomy grounds the evaluation.** SafeTutors derives its risk categories from learning-science literature, tying tutoring failure to [[cognitive-offloading|cognitive offloading]], metacognitive suppression, and diminished learner [[agency]].
 
-## Implications
+## Why Tutoring Safety Is Different
 
-SafeTutors fundamentally reframes the conversation around [[pedagogical-safety]] and [[ai-tutor-safety-harms]]. The dominant paradigm has been to evaluate AI tutors on [[problem-solving]] accuracy and generic safety (toxicity, refusal), but SafeTutors demonstrates that a tutor can be technically accurate and "safe" by conventional metrics while systematically undermining learning. The benchmark's central insight — that tutoring harm is qualitatively different from content harm — has major implications for [[intelligent-tutoring|AI Tutoring]] [[regulation]] and deployment.
+The dominant paradigm evaluates AI tutors on [[problem-solving]] accuracy and generic safety (toxicity, refusal). SafeTutors argues the tutoring-specific risks sit elsewhere:
 
-The multi-turn degradation finding is particularly alarming for real-world deployment. Most tutoring interactions extend over multiple turns, yet the evaluation community has largely relied on single-turn benchmarks. SafeTutors provides evidence that this practice is dangerously misleading. Systems like [[eduzone-llm-safety-k12]] and [[vetting-dual-llm-safety-education]] that prioritize multi-turn safety evaluation are essential, not optional.
+- **Answer over-disclosure** — revealing solutions rather than facilitating guided discovery
+- **[[misconceptions|Misconception]] reinforcement** — validating or ignoring student misunderstandings
+- **Abdication of [[scaffolding]]** — failing to provide appropriate structured support
+- **Erosion of [[desirable-difficulties|productive struggle]]** — short-circuiting the cognitive work that consolidates understanding
 
-The risk taxonomy itself is a significant contribution, providing a theoretically grounded vocabulary for discussing tutoring harm. It bridges educational-theory and AI safety, enabling [[research-methods-aied|researchers]] to move beyond vague claims about "tutor quality" toward precise identification of specific failure modes. This taxonomy could inform the design of [[pedagogical-safety-rl]] approaches like [[singh-eduqwen-pedagogical-rl-2026]] that train models to avoid specific pedagogical harms.
+Each of these appears benign from the surface: the student gets a correct answer quickly, and nothing toxic was ever said. The damage is deferred, showing up later as learning atrophy and dependence rather than as a violation a content filter could catch. That asymmetry is why a tutor can be technically accurate and "safe" by conventional metrics while systematically undermining learning.
 
-For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment. The subject-dependence of harms suggests that safety evaluation must be integrated into [[discipline-specific-aied|discipline-specific]] [[ai-tutor-behavioral-evaluation]] pipelines rather than treated as a one-time gate.
+## The SafeTutors Risk Taxonomy
+
+Hazra et al. (2026) derive **11 harm dimensions and 48 sub-risks** from learning-science literature, giving the evaluation a theoretically grounded vocabulary:
+
+| Dimension | Core Concern | Key Examples |
+|-----------|--------------|--------------|
+| **Cognitive** | Interferes with knowledge internalization | [[cognitive-offloading|Cognitive offloading]], fluency illusion, shallow procedural learning |
+| **Epistemic** | Weakens justification/evaluation ability | Unverified authority, source opaqueness, false consensus |
+| **Metacognitive** | Erodes monitoring and self-reflection | External validation dependence, reflection bypass, learned helplessness |
+| **[[motivation|Motivational]]-[[affective-computing|Affective]]** | Undermines curiosity and persistence | Shortcut temptation, performance-over-mastery, emotional disengagement |
+| **Developmental & [[equity-in-ai-education|Equity]]** | Fails to calibrate to learner level | Cognitive load mismatch, unequal benefit, cultural bias |
+| **Instructional Alignment** | Departs from learning goals | Pedagogical drift, goal misidentification, hidden [[curriculum-design|curriculum]] |
+| **Behavioral & Inquiry** | Enables shortcuts/dishonesty | Answer-seeking bypass, assignment outsourcing |
+| **[[ethics|Ethical]]-Epistemic Integrity** | Compromises intellectual ownership | Blurred authorship, misrepresentation of understanding |
+| **Informational-Semantic** | Embeds factual inaccuracies | Fabrication, misleading scientific explanation |
+| **Reflective-Critical** | Suppresses evidence-weighing | Over-smooth acceptance, no metacognitive challenge |
+| **Pedagogical Relationship** | Dysfunctional learner-system dynamic | [[trust-calibration|Over-trust]] in AI authority, loss of [[agency|learner agency]] |
+
+## Relationship to Broader Debates
+
+SafeTutors sits at the intersection of [[ai-misuse-learning-harm|AI misuse and learning harm]] and tutoring-specific evaluation. It sharpens several strands of wiki discussion:
+
+- [[llm-fallacy-misattribution]] — the fluency illusion (Cognitive dimension) and misrepresentation of understanding (Ethical-Epistemic dimension) are tutoring-specific instantiations of the LLM Fallacy
+- [[self-regulated-learning]] — Motivational-Affective harms undermine the reciprocal loop between self-regulation and [[motivation]], just as Metacognitive and Reflective-Critical harms suppress monitoring
+- [[transfer-of-learning]] — [[cognitive-offloading|Cognitive offloading]] and shallow procedural learning undermine transfer, and the taxonomy supplies a mechanistic account of why
+- [[hallucination-risk]] and [[trust]] — Informational-Semantic failures and [[trust-calibration|over-trust]] in AI authority compound each other when a fluent tutor is also confidently wrong
+
+## Implications for Evaluation, Design, and Policy
+
+- **Evaluation:** tutor safety must be measured with multi-turn, [[discipline-specific-aied|discipline-specific]] benchmarks rather than single-turn toxicity screens; [[ai-tutor-behavioral-evaluation|behavioral evaluation]] pipelines should treat multi-turn degradation as the default risk.
+- **Design:** [[guardrails]] must target pedagogical failure modes (over-disclosure, [[misconceptions|misconception]] reinforcement) rather than content correctness alone, and the taxonomy can steer training-time approaches such as [[pedagogical-safety-rl]] and [[singh-eduqwen-pedagogical-rl-2026]].
+- **Policy:** procurement criteria for [[regulation|educational AI regulation]] should require pedagogical safety audits alongside accuracy metrics; systems like [[eduzone-llm-safety-k12]] and [[vetting-dual-llm-safety-education]] that prioritize multi-turn safety verification are essential rather than optional.
+
+For [[k-12]] contexts, where the stakes of pedagogical harm are highest and student oversight is thinnest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment.
 
 ## Connected Concepts
 
@@ -47,14 +84,22 @@ For [[k-12]] contexts, where the stakes of pedagogical harm are highest, SafeTut
 - [[scaffolding]]
 - [[ai-misuse-learning-harm]]
 - [[misconceptions]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[transfer-of-learning]]
+- [[cognitive-offloading]]
+- [[trust]]
+- [[hallucination-risk]]
+- [[bias-mitigation]]
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[eduzone-llm-safety-k12]] — EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
 - [[vetting-dual-llm-safety-education]] — VETTING: A dual-LLM framework for in-loop safety verification via policy isolation in educational AI
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
 - [[singh-eduqwen-pedagogical-rl-2026]] — EduQwen: Pedagogical RL
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
+- [[stanford-evidence-base-ai-k12-2026]] — Stanford Evidence Base for AI in K-12
+- [[llm-fallacy-misattribution]] — The LLM Fallacy: Misattribution of Fluency to Understanding
 
 ## Citation
 

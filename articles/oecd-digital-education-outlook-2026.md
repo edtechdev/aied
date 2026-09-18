@@ -1,7 +1,7 @@
 ---
-title: OECD Digital Education Outlook 2026
+title: "OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [pedagogy]

@@ -1,7 +1,7 @@
 ---
-title: "Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities"
+title: "Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026"
 created: "2026-08-22T18:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]

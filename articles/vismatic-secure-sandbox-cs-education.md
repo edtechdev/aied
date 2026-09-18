@@ -1,7 +1,7 @@
 ---
-title: "VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring"
+title: "Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education"
 created: "2026-06-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [scaffolding]

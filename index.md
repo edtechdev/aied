@@ -6,7 +6,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
-- [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative AI Era
+- [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
 - [[aaiwa-ai-authentic-assessment-metacognition-2026]] — AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model
@@ -24,14 +24,14 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[active-learning]] — Active Learning
 - [[activity-theory-aied]] — Activity Theory
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design
-- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity Theory as a Lens on Teachers' Adoption of AI Technologies
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling
 - [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Towards an adaptive AI scaffold for developing student collaborative problem solving
 - [[adaptive-learning]] — Adaptive Learning
 - [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
-- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training
+- [[adaptive-virtual-patient-psychotherapy-training]] — The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist
 - [[adarkwah-genai-unesco-policy-2026]] — Generative Artificial Intelligence Policy: A Qualitative UNESCO Framework Analysis
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional Structures, Digital Inequality, and AI Integration in Higher Education
 - [[adhd-video-segmentation-computing-education]] — Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education
@@ -49,12 +49,12 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[agentic-ai]] — Agentic AI
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
+- [[agentic-ai-education-scoping-review]] — A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named
-- [[agentic-workflows-education]] — Agentic Workflows in Education
-- [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
+- [[agentic-workflows-education]] — Evolution of AI in Education: Agentic Workflows
+- [[agents-that-teach-incidental-learning]] — Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agentschool-multi-agent-simulation-education-2026]] — AgentSchool: An LLM-Powered Multi-Agent Simulation for Education
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff
@@ -63,7 +63,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI Advice Suppresses People's Willingness to Say "I Don't Know", Even When the Advice Is Wrong and Accuracy Is Incentivized
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation
 - [[ai-agents-constructive-conflict-design-education-2026]] — Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
-- [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space
+- [[ai-agents-joyful-assessment-third-space-2026]] — AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era
 - [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - [[anxiety-and-stress]] — Anxiety and Stress
 - [[ai-anxiety-strategic-regulation-writing-2026]] — From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource
@@ -80,7 +80,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-augmented-partner-school-consultation-2026]] — Artificial intelligence as an augmented partner in school consultation: Applications across the problem-solving process
 - [[ai-autonomous-learning-accomplishment-2026]] — AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness
 - [[ai-availability-student-motivation]] — 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
-- [[ai-campus-wellbeing-tools]] — AI-Driven Tools for Enhancing Campus Well-being: Prevention and Intervention
+- [[ai-campus-wellbeing-tools]] — New AI-Driven Tools for Enhancing Campus Well-being: A Prevention and Intervention Approach
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI chatbot design principles to enhance the collective efficacy in collaborative learning
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
@@ -93,7 +93,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students
 - [[ai-detection]] — AI Detection
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — AI for Education: The Digital Transformation of a Liberal Arts Institution — Implementation at Lingnan University
-- [[ai-disruption-engineering-education-chat-2026]] — The AI Disruption in Engineering Education: Changing Student Norms Through CHAT
+- [[ai-disruption-engineering-education-chat-2026]] — The AI disruption in engineering education: an analysis of changing student norms through cultural historical activity
 - [[ai-distance-education-systematic-review-2026]] — 'Artificial Intelligence in Distance Education: A Systematic Review of Emerging Pedagogical, Cognitive and Institutional Dynamics'
 - [[ai-divide-ses-personality-primary-education-2026]] — Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality
 - [[ai-ed-evaluation]] — AI Ed Evaluation
@@ -137,7 +137,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
 - [[ai-literacy]] — AI Literacy
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers
-- [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
+- [[ai-literacy-assessment-misalignment]] — How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale
@@ -151,14 +151,14 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
 - [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education
 - [[ai-literacy-warning-political-persuasion-2026]] — A light-touch AI literacy intervention helps protect against AI political persuasion
-- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
+- [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High
 - [[ai-making-us-stupid]] — Is AI making us stupid?
 - [[ai-mediated-cognitive-divergence-2026]] — AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study
-- [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
+- [[ai-metacognition-stem-review]] — Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric-Systematic Review
 - [[ai-metacognition-three-level-meta-analysis-2026]] — Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis
 - [[ai-mindset-psychological-framework-2026]] — AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use
 - [[ai-misuse-learning-harm]] — AI Misuse and Learning Harm
-- [[ai-modelling-problem-generation-platform-2026]] — Creating an AI-Powered Platform for Generating Modelling Problems
+- [[ai-modelling-problem-generation-platform-2026]] — Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school
 - [[ai-online-education-engagement-satisfaction-2026]] — 'Artificial Intelligence in Online Education: A Systematic Review of Its Impact on Learner Engagement and Satisfaction'
 - [[ai-overreliance-complex-adaptive-system-2026]] — Modeling AI Overreliance as a Complex Adaptive System
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
@@ -190,7 +190,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-team-teaching-talk-analytics]] — AI-Driven Analytics of Team-Teaching Talk: Acoustic Patterns across Experience, Cohorts and the Learning Design
 - [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
 - [[ai-technologies]] — Technologies
-- [[ai-tools-academic-work-cheating-2026]] — 'Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking'
+- [[ai-tools-academic-work-cheating-2026]] — Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact
 - [[ai-tools-arab-english-classrooms]] — AI tools in Arab University English classrooms: Looking back and forward
 - [[ai-toys-child-development-2026]] — Artificial Intelligence in Toys: Implications for Child Development and Play
 - [[ai-tpack-mathematics-teacher-education-2026]] — Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs
@@ -203,7 +203,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[ai-tutor-statistical-programming-adoption-2026]] — Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Methodologies for Improving the Quality of AI Tutoring in K-12 Education
-- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — AI Tutors vs. Tenacious Myths: Personalised Dialogue for Misconception Correction
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — AI tutors vs. tenacious myths: Evidence from personalised dialogue interventions in education
 - [[ai-uk-higher-education-policy-2026]] — Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making
 - [[ai-use-critical-thinking-medical-students-2026]] — From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning
 - [[ai-use-disclosure]] — AI Use and Disclosure Statements
@@ -217,22 +217,22 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[aiawe-automated-writing-evaluation]] — AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models
 - [[aied-carbon-footprint-reporting]] — The Environmental Cost of LLMs in AIED: Reporting and Practices
 - [[aied-unfinished-mission-bypass]] — AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass
-- [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation: A Serial Mediation Model of Self-Efficacy and Learning Motivation
+- [[aigc-affordance-student-self-regulation-2026]] — AIGC affordance and student self-regulation in private undergraduate education: a serial mediation model
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading
 - [[airis-cognitively-activated-ai-physics-2026]] — It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems: A Control Allocation Architecture for Preserving Epistemic Agency
 - [[aissa-slides-analysis]] — AISSA: AI-based Student Slides Analysis Tool for Academic Presentations
-- [[aivaluate-anxiety-assessment-2026]] — Exploring Student Anxiety and Experience in Performance-Based Assessments Using AIvaluate
+- [[aivaluate-anxiety-assessment-2026]] — Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally
 - [[akbaba-nursing-ai-experiences-tam-2026]] — Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model
-- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing Expert-Written, AI-Generated, and Interactive AI Dialogue for Heat and Temperature Conceptual Understanding
+- [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Comparing the effectiveness of expert-written text, AI-generated text, and interactive AI dialogues on students'
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[alharbi-ethical-genai-eap-2026]] — Ethical Generative AI Integration in English for Academic Purposes within Higher Education: A Mixed-Methods Study
-- [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond 'Painting in Pink'
+- [[all-girls-genai-makerspace-gender-equity-2026]] — Beyond “painting in pink”: A critical case study of all-girls generative AI workshops in a European makerspace
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Exploring Organisational Drivers and Innovation Attributes of Artificial Intelligence Adoption in Higher Education
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Sustainable Education in the Age of Artificial Intelligence and Digitalization: A Value-Critical Approach
-- [[ampt-math-personalization-genai-2026]] — AMPT: A Tool for Personalizing Math Learning with Generative AI
+- [[ampt-math-personalization-genai-2026]] — GenAI in novel educational applications
 - [[an-goel-self-directed-modeling-2026]] — How Online Learners Engage in Self-Directed Modeling: A Behavioral Analysis
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[andragogy-cognitive-delegation-genai-2026]] — What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
@@ -258,7 +258,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[at-risk-students-ml-prediction]] — Analysis and Prediction of At-Risk Students Using Machine Learning Algorithms
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or Shortcut? Postgraduate IT Students' Use of Generative AI and Self-Regulated Learning
 - [[authentic-assessment]] — Authentic Assessment
-- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich
 - [[auto-marking-short-answer-science-2026]] — Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4
 - [[automated-assessment]] — Automated Assessment
 - [[automated-essay-scoring]] — Automated Essay Scoring
@@ -269,7 +269,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[automated-question-generation]] — Automated Question Generation
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
-- [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: AI in Elementary Math
+- [[awareness-technological-isomorphism]] — Awareness of Technological Isomorphism: Integrating AI into Elementary Mathematics Teaching on Data and Prediction
 - [[ba-ai-agents-cscl-review-2026]] — Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review
 - [[bandit-driven-llm-essay-scoring-2026]] — Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring
 - [[banihashem-ai-srl-systematic-mapping-review-2025]] — A systematic mapping review at the intersection of artificial intelligence and self-regulated learning
@@ -279,7 +279,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis optimizes personalized learning paths via mediation of cognitive load and Hidden Markov Model state transitions
 - [[bayesian-consensus-irt-item-banks-2026]] — Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks
-- [[becerra-aicofe-feedback-2026]] — AICoFE: AI-Powered Feedback System
+- [[becerra-aicofe-feedback-2026]] — AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education
 - [[beck-genai-literacy-economics-hands-on]] — Fostering Generative AI Literacy in Economics: A Hands-on Approach
 - [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics education
 - [[behaviorally-adaptive-visual-diversion-assessment-2026]] — Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
@@ -329,12 +329,12 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[chang-genai-peer-feedback-collaborative-argumentation-2026]] — Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — "Should I Tell My Teacher?" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education
 - [[change-management]] — Change Management
-- [[chat-anchored-learning-analytics-ai-literacy-2026]] — A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education
+- [[chat-anchored-learning-analytics-ai-literacy-2026]] — A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic
 - [[chat-debugging-human-ai-collaboration-circuits]] — Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
 - [[chat-debugging-llm-hardware-education-2026]] — WIP: Chat-Debugging: Large Language Model as a Hardware Debugging Assistant
 - [[chatbot-engagement-genai-competency-emotion-2026]] — Engagement in LLM Chatbot-Supported Learning: The Pivotal Roles of GenAI Competency and Emotion
 - [[chatgpt-academic-writing-quality-ownership-2026]] — Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
+- [[chatgpt-critical-creative-thinking-review]] — The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes
 - [[chatgpt-english-language-learning-malaysia]] — Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution
 - [[chatgpt-feedback-engagement-genai]] — Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence
 - [[chatgpt-hints-human-tutor-learning-gains-2024]] — ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills
@@ -360,7 +360,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design
 - [[chudziak-ai-math-tutoring-platform]] — AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education
 - [[citation-errors-hallucinations-computing-education-2026]] — Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature
-- [[civic-education-ai-lesson-plans]] — AI-Generated Lesson Plans in Civic Education
+- [[civic-education-ai-lesson-plans]] — Civic education in the age of AI: Should we trust AI-generated lesson plans
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education
 - [[clara-collaboration-literacy-dashboard]] — CLARA: An AI-Augmented Analytics Dashboard for Collaboration Literacy
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task
@@ -396,14 +396,14 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
 - [[computational-thinking]] — Computational Thinking
 - [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-- [[computational-thinking-aica-2026]] — Exploring the Effect of Computational Thinking Levels on Students' Learning Performance, Cognition, and Behavior
+- [[computational-thinking-aica-2026]] — Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking to Enhance Educational Robotics in Secondary School's Curriculum
 - [[computing-students-cybersecurity-attitudes]] — Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity
 - [[concept-catalyst-engineering-scaffolds]] — Creating Learning Scaffolds for Engineering Design Using Concept Catalyst
 - [[concept-catalyst-k12-teacher]] — Concept Catalyst: Exploring Scrutable Interfaces to Structure K-12 Teacher Interactions with Generative AI
 - [[conceptualizing-preservice-teachers-ai-readiness-2026]] — Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach
 - [[confidence-aware-student-drawing-assessment]] — Confidence-Aware Automated Assessment of Student-Drawn Scientific Models
-- [[cong-confidence-asag-2026]] — Confidence-Aware Automatic Short Answer Grading
+- [[cong-confidence-asag-2026]] — Confidence Estimation in Automatic Short Answer Grading with LLMs
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: The potential negative side-effects of proctored exams
 - [[connected-ai-lesson-planning-vietnam]] — ConnectED: A Curriculum-Aligned AI System for Vietnamese Instructional Lesson Planning and Student Learning
 - [[constructing-epistemic-ai-literacy-student-ai-co-programming]] — Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming
@@ -414,7 +414,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[conversational-agents-business-simulation-gaming-2026]] — Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming
 - [[conversational-agents-novice-programmers-scoping-2025]] — Exploring Conversational Agents for Novice Programmers: A Scoping Review
 - [[conversational-ai]] — Conversational AI
-- [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI Agents in Education: An Umbrella Review
+- [[conversational-ai-agents-umbrella-review-2026]] — Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions
 - [[conversational-ai-informal-learning]] — Conversational AI as a catalyst for informal learning: An empirical large-scale study on LLM use in everyday learning
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - [[correct-answer-trap-ai-tutor]] — Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning
@@ -435,7 +435,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[critical-pedagogy]] — Critical Pedagogy
 - [[critical-thinking]] — Critical Thinking
 - [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education
-- [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
+- [[critical-thinking-genai-scaffolding]] — Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
 - [[crompton-faculty-technology-integration-standards-2026]] — Designing faculty standards for technology integration in higher education institutions: a design-based research study
@@ -446,7 +446,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[cs-education]] — CS Education
 - [[cstutorbench-slm-tutors]] — CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming
 - [[cui-motivation-roles-metacognitive-genai-2026]] — How motivation and roles influence metacognitive engagement in student-GenAI interaction
-- [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Cross-Boundary Community Learning
+- [[culturally-aware-aied-community-learning]] — Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[culturally-relevant-pedagogy]] — Culturally Relevant Pedagogy
 - [[curiobot-llm-tutoring-exploratory-learning]] — Curiosity as Linguistic Intervention: Using LLM Tutoring Dialogues to Influence Exploratory Learning Behavior
@@ -469,7 +469,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[de-barba-srl-genai-2026]] — Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive Overgeneralization: When Adaptive Learning Enables Systematic Misapplication
-- [[decreasing-digital-distraction-college-online-learning-2026]] — Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining
+- [[decreasing-digital-distraction-college-online-learning-2026]] — Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised
 - [[deeptutor]] — DeepTutor: Towards Agentic Personalized Tutoring
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[demographic-signals-llm-student-assessment-2026]] — The Role of Implicit and Explicit Demographic Signals in Large Language Model-based Student Assessment
@@ -492,7 +492,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities
 - [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — Enhancing enthusiasm for STEM education with AI: Domain-specific chatbot as personalized learning assistant
-- [[dot-framework-survey-2026]] — DOT Framework Survey: Practitioner Beliefs and Behaviors in AI-Enhanced Education
+- [[dot-framework-survey-2026]] — Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence
 - [[drawedumath-vlm-struggling-students-2026]] — The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors
 - [[drummond-genai-business-schools-framework-2026]] — Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic Dependence in AI-Mediated Learning
@@ -510,7 +510,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[educasim-cs1-instructional-practice]] — EducaSim: Interactive Simulacra for CS1 Instructional Practice
 - [[educating-minds-generative-ai-2026]] — Educating minds with generative AI
 - [[educational-development]] — Educational Development
-- [[educational-llm-alignment]] — Educational LLM Alignment
+- [[educational-llm-alignment]] — Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact
 - [[educational-measurement]] — Educational Measurement
 - [[educational-nlp]] — Educational NLP
 - [[educational-policy-ai]] — Educational AI Policy
@@ -544,7 +544,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[empathy-coaching-chatbot]] — Invisible Impact of Empathy on Behavioral Change: Isolating the Effect of Empathy in Long-term Physical Activity Coaching Chatbot Interactions
 - [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing
 - [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and Transformation in the Age of AI
-- [[engagement-assessment-video]] — Engagement Assessment in Video Learning
+- [[engagement-assessment-video]] — EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning
 - [[engagement-forecasting-its]] — From Heuristics to Analytics: Forecasting Effort and Progress in Online Learning
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 - [[engineering-education]] — Engineering Education
@@ -576,8 +576,8 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[faculty-development-centers-genai-training-optimization-2026]] — Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities
 - [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations with a hybrid Graph-GRU framework
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]] — Bridging technology and education: The use of ChatGPT in grading pharmacy student exams
-- [[family-school-autonomy-support-genai-2026]] — Family-School Autonomy Support for Children's Responsible Use of Generative AI: A Self-Determination Theory Synthesis
-- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Navigating uncertainty: university teachers' experiences and perceptions of generative AI in teaching and learning
+- [[family-school-autonomy-support-genai-2026]] — Family-school autonomy support for children's responsible use of generative artificial intelligence
+- [[farazouli-navigating-uncertainty-teachers-genai-2026]] — Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence
 - [[farrokhnia-genai-feedback-student-revisions-2026]] — Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI Tutors: Empower or Enslave?
 - [[fawns-entangled-pedagogy-genai-students-2026]] — Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework
@@ -585,17 +585,17 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[feedback]] — Feedback
 - [[feedback-futures-genai]] — Feedback futures: beyond the limits of human and GenAI capacities
 - [[feedback-literacy]] — Feedback Literacy
-- [[feedback-literacy-scripts-eap-writing]] — Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision
+- [[feedback-literacy-scripts-eap-writing]] — Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported
 - [[fekete-ethical-ai-literacy-gaps-2026]] — Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
-- [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
+- [[finkelstein-principled-ai-education-2025]] — A principled way to think about AI in education: guidance for educators and policy makers based on goals, models
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
 - [[formative-assessment]] — Formative Assessment
 - [[fostering-collaborative-futures-ai-ecosystems-2026]] — Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems
 - [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust-utility gap in introductory physics education: Students' adoption, domain-specific skepticism, and preferences for AI integration
 - [[fowlin-operationalizing-learning-principles-ai]] — Empowering Educators: Operationalizing Age-Old Learning Principles Using AI
-- [[foxglove-writing-feedback-experts-llms]] — FOXGLOVE: Comparing Goal-Oriented Writing Feedback from Experts and LLMs
+- [[foxglove-writing-feedback-experts-llms]] — FOXGLOVE: Understanding Goal-Oriented and Anchored Writing Feedback from Experts and LLMs on Argumentative Essays
 - [[framing-5-percent-problem-teachers-persistence]] — Framing the 5% Problem: Teachers'' Perspectives on Persistence in Educational Technology
 - [[framing-ai-use-for-students]] — Framing AI Use for Students
 - [[from-answer-generators-to-reasoning-facilitators-ai-tutors]] — From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments
@@ -613,7 +613,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[genai-architectural-design-studios]] — Development and applications of Generative AI in architectural design studios
 - [[genai-architecture-education]] — Gen-AI-tecture: using generative AI to support architectural students in design tasks
 - [[genai-assessment-governance]] — Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment
-- [[genai-assessment-literacy-scale-2026]] — Generative AI Assessment Literacy Scale for Higher Education Students
+- [[genai-assessment-literacy-scale-2026]] — Development and validation of the generative AI assessment literacy scale for higher education students
 - [[genai-assisted-problem-posing-physics-2026]] — Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
 - [[genai-availability-grades-satisfaction]] — Generative AI Availability, Grades, and Student Satisfaction at a Large University
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
@@ -643,9 +643,9 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
 - [[genai-mindtool-generative-learning]] — Generative AI (GenAI) as a mindtool that supports generative learning (GL)
-- [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
+- [[genai-minoritized-knowledges-disability]] — Generative artificial intelligence and the marginalization of minoritized knowledges in higher education
 - [[genai-motivation-engagement-2026]] — Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education
-- [[genai-oop-programming-assessments-2026]] — Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments
+- [[genai-oop-programming-assessments-2026]] — Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance
 - [[genai-patient-education-transplant-handbooks]] — Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers
@@ -668,7 +668,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[genai-usage-styles-creative-self-beliefs-2026]] — The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education
 - [[genai-use-usefulness-student-experience-australia-2026]] — The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives
 - [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
-- [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance
+- [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement
 - [[genai-writing-robma-reanalysis-2026]] — Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)
 - [[genai-xr-architectural-design-education-2026]] — Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study
 - [[gender-bias-transfer-llm-writing]] — Contaminated Collaboration: Measuring Gender Bias Transfer in LLM-Assisted Student Writing
@@ -678,7 +678,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps? Evidence from a randomized experiment
 - [[generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema]] — Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Generative AI in K-12 Teaching and Learning: A Systematic Review
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[generative-refusal-ai-tools-for-thought]] — Stop Writing for Me: Generative Refusal in AI Tools for Thought
@@ -688,18 +688,18 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking
 - [[gift-ai-pairr-business-writing-2025]] — GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course
 - [[global-south]] — Global South
-- [[golrang-propact-pair-programming-2026]] — ProPACT: Pair Programming with AI
-- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Addressing Student Non-Compliance in AI Use Declarations: Implications for Academic Integrity and Assessment in Higher Education
+- [[golrang-propact-pair-programming-2026]] — ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming
+- [[gonsalves-student-non-compliance-ai-declarations-2025]] — Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher
 - [[governance]] — AI Governance
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education
 - [[gpt-human-rater-essay-assessment-2026]] — Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring
 - [[gpt-item-generation-l2-listening-2026]] — How to Train Your Dragon: Evaluating Prompting and Fine-Tuning for GPT-Based Item Generation in L2 Listening Assessment
 - [[gpt4-feedback-student-activation-2026]] — GPT-4 feedback increases student activation and learning outcomes in higher education
 - [[gpt4o-mini-music-analysis-scoring]] — Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
-- [[graph-its-adaptive-algorithms-2026]] — Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Comparative Analysis of Adaptive Algorithms
+- [[graph-its-adaptive-algorithms-2026]] — Intelligent tutoring in dynamic domains: a graph-based system for comparative analysis of adaptive algorithms
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
 - [[group-work]] — Group Work
-- [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency
+- [[guarded-adoption-genai-higher-education-2026]] — Guarded adoption of generative AI in higher education: high-achieving students, successful-student identity
 - [[guardrails]] — Guardrails
 - [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
 - [[guided-llm-scaffolding-independent-learning]] — Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics
@@ -718,7 +718,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
 - [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
 - [[hazel-prover-classroom-proof-assistant-2026]] — Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety in AI Tutoring
+- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy
 - [[help-seeking]] — Help-Seeking
@@ -767,7 +767,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
 - [[instructional-design-proficiency-masters-math-2026]] — Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies
-- [[instructional-guidance-genai-learning]] — Role of Instructional Guidance in Generative AI-Assisted Learning
+- [[instructional-guidance-genai-learning]] — The Role of Instructional Guidance in Generative AI-Assisted Learning: Empirical Evidence from Construction Engineering
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[intelligent-tpack-ethics-teachers-trust-distrust-2026]] — Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust
@@ -780,10 +780,10 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[isaza-chatgpt-engineering-prompting-2026]] — An Empirical Study of ChatGPT Use in Engineering Education: Prompting and Performance
 - [[item-response-theory]] — Item Response Theory
 - [[item-writing-flaws-irt-difficulty-2026]] — The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills for College Graduates: How Instructors and Employers Prioritize AI Skills Differently
+- [[ithaka-sr-ai-skills-college-graduates-2026]] — AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently
 - [[ivory-psychology-assessment-integrity-2026]] — The Integrity of Psychology Assessments in the AI Age: A Critical Examination
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI
-- [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
+- [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents
 - [[ji-student-voices-academic-integrity-scoping-2026]] — Academic integrity in the age of generative AI: A scoping review of research on higher education student voices
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-Powered Simulation for Nursing Education: Mixed Methods Systematic Review
 - [[jiang-chatgpt-inquiry-steam-review-2026]] — The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education
@@ -803,7 +803,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review
 - [[kim-ai-andragogy-2026]] — Adult Learners' Perspectives of AI Applications in Supporting Andragogy
 - [[kim-ai-anxiety-comprehensive-analysis]] — AI Anxiety: A Comprehensive Analysis of Psychological Factors and Interventions
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
+- [[kim-ai-productive-failure-adult-2026]] — Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: Making AI Scoring More Reliable for Educational Assessment
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design Requirements for Generative Social Robots in Higher Education
@@ -852,7 +852,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[learnopt-exam-cognitive-structure]] — LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization
 - [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-based digital cheating at university, and the case for new ethical pedagogies
 - [[lecturaagents-multi-agent-teaching]] — LecturaAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
-- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 Teachers' Perspectives on AI Use Through the Lens of Activity Theory
+- [[lee-anson-k12-teachers-ai-activity-theory]] — K-12 teachers' perspectives on AI use in education through the lens of activity theory
 - [[lee-learner-question-types-ai-education-2026]] — Analysing AI utilisation in education through learner question types: A constructivist approach
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories
 - [[legal-education]] — Legal Education
@@ -879,7 +879,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education
 - [[llm]] — Large Language Models (LLMs)
 - [[llm-adaptive-programming-error-explanations-2026]] — Beyond the Traceback: Using LLMs for Adaptive Explanations of Programming Errors
-- [[llm-agents-5e-esl-grammar-2026]] — Designing Large Language Model-Based Agents with the 5E Framework for ESL Learners' Grammar Acquisition
+- [[llm-agents-5e-esl-grammar-2026]] — Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Modelling Individual Participants as LLM Agents in Collaborative Problem Solving Simulations
 - [[llm-automated-assessment-student-self-explanations]] — Exploring the Effectiveness of Using LLMs for Automated Assessment of Student Self Explanations in Programming Education
 - [[llm-automated-grading-programming-comparison-2026]] — A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor
@@ -890,7 +890,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics
 - [[llm-critical-thinking-teamwork-review]] — Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review
-- [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
+- [[llm-cultural-relevance-k12]] — LLMs to Support K-12 Teachers in Culturally Relevant Pedagogy: An AI Literacy Example
 - [[llm-design-problems-hot-pjbl]] — LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 - [[llm-detecting-llm-generated-content-education]] — Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content
 - [[llm-difficulty-calibration-programming-exams-2026]] — From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations
@@ -901,8 +901,8 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[llm-essay-assessment-framework-reliability-2026]] — A Framework for Evaluation of Large Language Models in Essay Assessment: Reliability, Alignment, and Causal Reasoning
 - [[llm-essay-scoring-feature-weighting-2026]] — Opening the Blackbox of LLM-Based Automated Essay Scoring: Insights into Feature Weighting Patterns and Score Validity
 - [[llm-facilitation-timing-online-discussions]] — To Facilitate or not to Facilitate: Human and LLM Facilitator Tendencies in Online Discussions
-- [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
-- [[llm-feedback-programming-classroom]] — LLM-Generated Feedback in Introductory Programming: A Classroom Study
+- [[llm-fallacy-misattribution]] — The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows
+- [[llm-feedback-programming-classroom]] — A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming
 - [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
 - [[llm-grading-self-preference-bias-2026]] — Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
@@ -925,25 +925,25 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[llm-student-simulation-teacher-insights]] — Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
 - [[llm-tts-dialogue-lesson-generation]] — A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential
 - [[llm-turing-test-italian-legal-exams-2026]] — What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries
-- [[llm-tutoring-feedback-diagnosis-gap]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
+- [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[llm-unlearning-math-privacy]] — Balancing AI responsibility with privacy, safety, and utility: Unlearning in large language models for mathematics education
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs Do Not Grade Essays Like Humans
-- [[llms-misconception-collaborative-learning-healthcare-2026]] — Implementing LLMs to Support Misconception-Based Collaborative Learning in Health Care Education
+- [[llms-misconception-collaborative-learning-healthcare-2026]] — Implementing Large Language Models to Support Misconception-Based Collaborative Learning in Health Care Education
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching: An exploratory study with genAI novices in higher education
 - [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
 - [[lnenicka-secondary-students-genai-stem-2026]] — Navigating AI in STEM: What Secondary Students Actually Do With Generative AI-Driven Tools
 - [[lo-co-creating-custom-gpts-sap-2026]] — Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in Online Learning in Higher Education: A Literature Review
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Assuring Quality Learning in a Gen AI-Integrated Future: The Role of Adaptive Capabilities
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026
 - [[lodge-loble-cognitive-offloading-2026]] — Artificial intelligence, cognitive offloading and implications for education
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — Artificial intelligence in higher education: a systematic review of its impact on student engagement and the mediating role of teaching methods
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal Insights into AI in Education: Usage, Ethics, and Policy Development in Higher Education
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — Academic Integrity in the Age of AI: University Students' Study Practices and Ethical Judgments
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
-- [[lu-ai-multimodal-writing-critical-thinking-2026]] — Critical Thinking Gains in Conversational AI-Supported Multimodal Writing
+- [[lu-ai-multimodal-writing-critical-thinking-2026]] — More externalization, but less inference? Exploring changes in young learners' critical thinking during conversational
 - [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
-- [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT-Enhanced Strategy for Autonomous and Reflective Language Learning
+- [[lukesova-clue-before-correction-2026]] — Clue before correction: ChatGPT-enhanced strategy for promoting autonomous and reflective language learning
 - [[luminote-llm-vr-stage-lighting-education-2026]] — LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education
 - [[lund-socially-accountable-data-science-xai-2026]] — Toward Socially Accountable Data Science Education: A Conceptual Framework for Integrating Explainable AI and Accountability Principles
 - [[luo-dawson-value-judgements-grading-2026]] — Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?
@@ -1009,7 +1009,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China
 - [[mujib-ai-ibl-creative-math-2026]] — Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
 - [[mulisa-students-genai-integrity-perspectives-2026]] — Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[multi-agent-instructional-design]] — Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
@@ -1017,7 +1017,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[multilingual-learning]] — Multilingual Learning
 - [[multimodal]] — Multimodal AI
 - [[multimodal-affective-its-presentation]] — An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training
-- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
+- [[multimodal-ai-feedback-learning]] — LLM-based Multimodal Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
 - [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[multimodal-exam-obe-rubrics-2026]] — Multimodal Examination Answer Data with Expert-Designed Outcome-Based Education Rubrics for Criterion-Level Assessment
@@ -1033,15 +1033,15 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies
 - [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
 - [[network-analysis]] — Network Analysis
-- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing
+- [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling
 - [[neurodivergent-computing-students]] — 'I can''t read your mind": A Study of Neurodivergent Computing Students'' Experiences with Collaborative Active Learning'
 - [[neurodiversity]] — Neurodiversity
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — New systems of learning for distance learning institutions? A six-study review of implementing AIDA
-- [[nguyen-genai-global-south-review-2026]] — Perceptions of Generative AI in Global South: A Scoping Review
+- [[nguyen-genai-global-south-review-2026]] — Perceptions Of Generative AI in the Global South: A Scoping Review
 - [[ni-lam-multiliteracies-ai-portfolio-2026]] — Students' Perceptions of Multiliteracies Development Using AI-Assisted Portfolio Assessment
 - [[niari-ai-pedagogical-mediator-collaborative-learning]] — Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning
 - [[nicola-richmond-programwide-assessment-genai-2025]] — It Takes a Village... Program-Wide Approaches to Redesigning Assessment in a Time of Generative Artificial Intelligence (GenAI)
-- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
+- [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalized Multimodal LLMs
 - [[niri-steam-ai-literacy-review-2026]] — STEAM Education for AI Literacy: A Systematic Literature Review
 - [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA) for long-horizon classroom discourse analysis: Mitigating dialect bias via counterfactual preference optimization
@@ -1049,7 +1049,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[nursing-education]] — Nursing Education
 - [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research
 - [[oby-chatgpt-use-learning-framework-2026]] — Beyond Task Completion: A Theoretical Integration and Framework for Guiding Students' ChatGPT Use for Learning
-- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education
 - [[olvet-genai-scoring-open-ended-medical-2026]] — Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?
 - [[omniphys-multimodal-physics-benchmark-2026]] — OmniPhys: A Unified Multimodal Benchmark for Physics Understanding and Generation from Chinese Educational Corpora
@@ -1060,7 +1060,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[open-learning-practices-genai-response-2026]] — A Proposal for Open Learning Practices in Response to Generative Artificial Intelligence
 - [[open-source]] — Open Source
 - [[oppenheimer-llms-collaborative-learning-partners-2026]] — You've Got AI Friend in Me: LLMs as Collaborative Learning Partners
-- [[opraise-automated-marking-ai-assessment-2026]] — OpRaise Report on Automated Marking of University Essays
+- [[opraise-automated-marking-ai-assessment-2026]] — AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning
@@ -1081,7 +1081,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning
 - [[pedagogy]] — Pedagogies and Teaching Strategies
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking
-- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogy First, Technology Second: Cross-Level Relationships Between Teacher Professional Knowledge and Student Learning
+- [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student
 - [[pedlow-genai-selfassessment-2026]] — Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education
 - [[peer-assessment]] — Peer Assessment
 - [[penny-transition-network-analysis-efl-writing-2026]] — Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
@@ -1091,7 +1091,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI
 - [[perrotta-zero-shot-governance-2026]] — Zero-Shot Governance: General-Purpose AI in Policy
 - [[persistent-ai-agents-academic-research]] — Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study
-- [[personalization-paradox-adaptive-learning-emotions-2026]] — The Personalization Paradox: AI-Adaptive Learning Environments, Academic Emotions, and Self-Regulated Learning
+- [[personalization-paradox-adaptive-learning-emotions-2026]] — The personalization paradox: how AI-driven adaptive learning environments are associated with college students'
 - [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 - [[personalized-learning]] — Personalized Learning
@@ -1115,10 +1115,10 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs
-- [[predictors-ethical-genai-use-higher-ed-2026]] — Predictors of the ethical use of generative AI in higher education
+- [[predictors-ethical-genai-use-higher-ed-2026]] — Predictors of the ethical use of generative artificial intelligence in higher education
 - [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Exploring Factors Influencing Preschool Teachers' Behavioral Intention to Use AI Technologies in Early Childhood Settings
-- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-Service Teachers' Agency During Their Interactions with Generative AI While Designing for Learning
+- [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teachers' agency during their interactions with generative AI while designing for learning - a process view
 - [[preservice-teachers-responsible-genai-2026]] — Preparing Pre-Service Teachers for Responsible Generative AI Use: Curriculum Implications for Ethics, Privacy, and AI Literacy
 - [[prezenski-human-centered-ai-aided-learning]] — How Human-Centered Is AI-Aided Learning in Education?
 - [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: Towards Deriving 'Skills' in Human-AI Collaboration
@@ -1136,7 +1136,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[productive-failure]] — Productive Failure
 - [[professional-training]] — Workplace Learning
 - [[programming-its]] — Programming Intelligent Tutoring Systems
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
+- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment
 - [[project-based-digital-storytelling-art-design-2026]] — In the AI era: A project-based digital storytelling framework for art and design education
 - [[project-based-learning]] — Project-Based Learning
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
@@ -1148,10 +1148,10 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[prompt-problems-nl-programming-mistakes]] — Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks
 - [[prompting-teachability-novice-personas-lbt-2026]] — Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts
 - [[proprl-prerequisite-relation-learning]] — ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
-- [[psychological-mechanisms-academic-integrity-ai-2026]] — The Psychological Mechanisms and Behavioral Determinants of Academic Integrity in the Age of AI
+- [[psychological-mechanisms-academic-integrity-ai-2026]] — The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence
 - [[psychometrically-aware-ai]] — Psychometrically Aware AI
 - [[psyscore-essay-scoring-zpd-feedback]] — PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Tutoring: Modeling Productive Failure
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure
 - [[pulla-parsons-problem-tool-2026]] — Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis
 - [[q-learning-lab-rl-teaching]] — Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis
 - [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
@@ -1159,7 +1159,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[qualitative-reasoning-game-guidance-2026]] — A Qualitative Model for Reasoning about Path and Support
 - [[qualitative-research]] — Qualitative Research
 - [[quantitative-research]] — Quantitative Research
-- [[quantum-education-its]] — Quantum Education Intelligent Tutoring
+- [[quantum-education-its]] — From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education
 - [[quest-ai-inquiry-preservice-teachers]] — Effects of an AI-supported inquiry model on AI literacy and authentic performance: A quasi-experimental study with preservice teachers
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Design and Validation of a Questionnaire on Teachers' Uses of Generative Artificial Intelligence
 - [[rachatasumrit-example-problem-ratio-2026]] — Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content
@@ -1181,7 +1181,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[reflective-triangle-model-teacher-ai-2026]] — The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain, Then Amplify: A Curriculum Framework for Sequencing Generative AI to Form Professional Judgement
 - [[refutation-text]] — Refutation Text
-- [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: SRL and Help-Seeking in Adolescent GenAI Use
+- [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use
 - [[regulation]] — AI Regulation in Education
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers
 - [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education
@@ -1211,13 +1211,13 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[robobuddy-llm-social-robots-classroom-2025]] — RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — Dramaturgies of Deception: AI Humanizers and the Performance of Legitimacy in Higher Education Assessment
-- [[roe-assessment-twins-2026]] — Assessment Twins: An Approach for Strengthening Assessment Validity in the Age of Generative AI
+- [[roe-assessment-twins-2026]] — Assessment twins: An approach for strengthening assessment validity in the age of generative AI
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Integrating Generative Artificial Intelligence into University Curricula: Student Insights
 - [[rubric-aware-grading-rec-cbm]] — REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading
 - [[rubric-guided-genai-creativity-assessment-games-2026]] — Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype. AI myths and the need for a critical approach in higher education
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Taming the Black Box: Design Principles for Rule-Integrated LLM Tutoring Systems in Primary School Mathematical Problem Solving
-- [[sahab-model-genai-constructivist-id-2026]] — Evaluating the Effectiveness of Generative AI in Empowering Teachers for Constructivist Instructional Design: A Case Study of the SAHAB Model
+- [[sahab-model-genai-constructivist-id-2026]] — Evaluating the Effectiveness of Generative Artificial Intelligence in Empowering Teachers for Constructivist
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Uncovering adoption personas for generative AI in higher education: a clustering-based segmentation approach
 - [[same-ai-different-pathways]] — Same AI, different pathways: Unpacking mechanisms of AI-mediated learning across discipline-institution contexts
 - [[samr-model]] — SAMR Model
@@ -1226,16 +1226,16 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[savvy-student-attention-video-learning]] — SAVVY: Student Attention Visualization for Video-based Learning Analysis
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support
 - [[scaffolding]] — Scaffolding
-- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks
-- [[scaffolding-srl-feedback-genai-human-peers]] — Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy
+- [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse
+- [[scaffolding-srl-feedback-genai-human-peers]] — Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers
 - [[scaffolding-student-ai-dialogue-framework-2026]] — Scaffolding Students-AI Dialogue: A Framework for Safe Educational Interactions
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: A Decision-Making Framework for Task Assignment with Generative AI
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
-- [[school-ai-education-readiness-gaps-agency-2026]] — Does School-Based AI Education Narrow Readiness Gaps?
+- [[school-ai-education-readiness-gaps-agency-2026]] — Does school-based AI education narrow readiness gaps? The role of prior agency-related learning
 - [[school-network-reorganization-optimization]] — School network reorganization under educational and spatial constraints using classical and quantum optimization
 - [[school-support-ai-learning-anxiety-control-value-2026]] — Multidimensional perceived school support and AI learning anxiety among university students: the mediating roles of control-value appraisals
-- [[schuetze-knowledge-tracing-forgetting-2026]] — Capturing Session-to-Session Dynamics of Learning and Forgetting
+- [[schuetze-knowledge-tracing-forgetting-2026]] — Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models
 - [[science-education]] — Science Education
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Design of a Science-Integrated Secondary School AI Literacy Curriculum: A Youth & AI Expert Guided Design-Based Research Approach
@@ -1252,7 +1252,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 - [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
 - [[shame-guilt-ai-regulation-computing-education]] — 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
-- [[shap-llm-rationales-teaching-quality-assessment]] — From Scoring to Explanations: SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
+- [[shap-llm-rationales-teaching-quality-assessment]] — From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
 - [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
 - [[shaw-nave-cognitive-surrender-2026]] — Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources
@@ -1267,7 +1267,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[simulating-students-llm-review-2026]] — Simulating Students with Large Language Models: A Review of Architecture, Mechanisms, and Role Modelling in Education with Generative AI
 - [[simulation]] — Simulation
 - [[simulation-assisted-drone-learning-stem-2026]] — From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies
-- [[singh-eduqwen-pedagogical-rl-2026]] — EduQwen: Pedagogical RL
+- [[singh-eduqwen-pedagogical-rl-2026]] — Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised
 - [[situated-learning]] — Situated Learning
 - [[skill-acquisition-without-temporal-info]] — Estimating Learners' Skill Acquisition Without Temporal Information
 - [[skill-diversity-worker-resilience]] — Navigating the skill diversity frontier: How skill complexity explains worker resilience
@@ -1311,7 +1311,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[structured-ai-demonstrations-engineering-mechanics]] — Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results
 - [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 - [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or Bottleneck? Assessing the Impact of Structured Reflection on Learning from AI-Driven Explanatory Feedback
-- [[strydom-human-gai-paradigms-2026]] — Framing Human-AI Dynamics: An Epistemological Perspective on Generative AI Practices
+- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: An epistemological perspective on generative AI practices
 - [[student-ai-conversations-cognitive-engagement-2026]] — Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
 - [[student-ai-interaction]] — Student-AI Interaction
@@ -1344,12 +1344,12 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inclusive Agentic Multi-Agent AI Frameworks for Learning, Teaching and Institutional Intelligence
 - [[summative-assessment]] — Summative Assessment
-- [[sun-llm-nursing-education-professional-identity-2026]] — When the Algorithm Enters the Classroom: LLMs, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity
+- [[sun-llm-nursing-education-professional-identity-2026]] — When the algorithm enters the classroom: A critical integrative review of large language models, nursing education
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Supporting Visual Exploratory Learning in Supply Chain via Contextual Multi-Agent Simulation
 - [[surfacing-isolated-learners]] — Surfacing Isolated Learners with Outcome-Independent Mediation of Feedback between Teachers and Students Using AI
 - [[sustainability]] — Sustainability
 - [[sutama-chatgpt-eportfolio-speaking-2026]] — Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its Effect on Students' Speaking Performance and Feedback Literacy
-- [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty Self-Perceived Knowledge in Using Generative AI to Teach 21st-Century Skills
+- [[sutedjo-faculty-genai-tpack-21-2026]] — Assessing faculty self-perceived knowledge in using generative AI to teach 21st-century skills
 - [[syal-multimodal-dialogue-stem-2026]] — Multimodal Dialogue in STEM Education
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[t2i-competence-paradox-2026]] — The Competence Paradox: Negotiating Ease, Risk, and Creative Identity in Text-to-Image Generative AI Use Among Art and Design Students
@@ -1358,7 +1358,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[taklif-ai-interest-based-personalized-assignments]] — Taklif.AI: LLM-Powered Platform for Interest-Based Personalized College Assignments
 - [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints
 - [[talebzadeh-ai-group-activity-roles-2026]] — The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework
-- [[tam-critical-use-genai-engineering-2026]] — Factors Influencing University Students' Intention to Use and Reliance on Generative AI: An Extended Technology Acceptance Model with Critical Use
+- [[tam-critical-use-genai-engineering-2026]] — Factors influencing university students' intention to use and reliance on generative artificial intelligence
 - [[tan-aigem-ai-educational-management-2026]] — Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions
 - [[task-context-trust-educational-hri-2026]] — What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance
@@ -1372,7 +1372,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[teacher-education]] — Professional Development
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher education for artificial intelligence literacy through a self-determination theory perspective
 - [[teacher-educators-ai-integration-preservice-2026]] — Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges
-- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher Intervention in K-12 AI-Based Instruction
+- [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects
 - [[teacher-role]] — Teaching
 - [[teacher-student-agency-orchestration]] — Balancing Teacher and Student Agency: Co-Orchestration Tool Design Supporting Real-Time Dynamic Pairing
 - [[teachers-ai-knowledge-genai-lesson-planning-2026]] — Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning
@@ -1394,7 +1394,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[teo-ai-adoption-tertiary-meta-analysis-2026]] — Factors Associated with Students' Adoption of Artificial Intelligence Technology in Tertiary Education: A Meta-Analytic Review
 - [[tep-aied-model-reporting-2026]] — Presenting Your AI in Education Research with Rigor: The TEP-AIED Model
 - [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
-- [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
+- [[text-simplification-its]] — MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education
@@ -1402,7 +1402,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation
 - [[thymen-temporal-hypergraph-knowledge-tracing-2026]] — Augmenting Knowledge Tracing Through Modeling Dynamic Higher-Order Concept Interactions: A Temporal Hypergraph Memory Network
 - [[tian-genai-learning-adoption-pathways-2026]] — Decoding symmetric and asymmetric pathways in generative AI learning adoption: a multi-method study
-- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System for CPR Training in High-Altitude Regions
+- [[tibetcpr-ai-training-feedback]] — TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonary Resuscitation Training in High-Altitude
 - [[tool-invariant-framework-agentic-ai]] — A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 - [[tpack]] — Technological Pedagogical Content Knowledge (TPACK)
 - [[tpack-genai-inservice-teachers-mediation-2026]] — From Proficiency to Pedagogy: A Mixed-Methods Study of In-Service Teachers' TPACK-GenAI and the Mediating Role of Pedagogical Knowledge
@@ -1458,7 +1458,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions
 - [[virtual-and-augmented-reality]] — Virtual and Augmented Reality
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning
-- [[vismatic-secure-sandbox-cs-education]] — VISMATIC: Secure Containerized Framework for Process-Oriented CS Education Monitoring
+- [[vismatic-secure-sandbox-cs-education]] — Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education
 - [[visual-query-tracer-declarative-logic-learning]] — Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 - [[visualization]] — Visualization
 - [[vocabulary-difficulty-prediction]] — What Makes Words Hard? Sakura at BEA 2026 Shared Task on Vocabulary Difficulty Prediction
@@ -1497,7 +1497,6 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs
 - [[yasar-llms-iterative-pedagogical-design-2026]] — From evaluation to emulation: LLMs as agents of iterative pedagogical design
-- [[yasir-llm-tutoring-agents-2026]] — Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most
 - [[ye-arpg-real-time-coaching-llm-prompting-2026]] — ARPG+: a simulation-based study of real-time coaching for educational LLM prompting
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]] — Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class
@@ -1512,17 +1511,17 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
 - [[zhan-chapman-genai-cs-education-2026]] — Harnessing Generative Artificial Intelligence in Computer Science Education: Pedagogical Innovation, Ethical Responsibility, and the Future of Assessment
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender
-- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Let's Chat About Artificial Intelligence for Students With Disabilities: A Meta-Analysis
+- [[zhang-ai-students-disabilities-meta-analysis-2024]] — Let's CHAT About Artificial Intelligence for Students With Disabilities: A Systematic Literature Review
 - [[zhang-ct-ai-training-test-2026]] — Integrating AI Into Computational Thinking: Development and Validation of an Assessment Tool for Higher Education Students
 - [[zhang-ml-student-progress-programming-2026]] — A Machine Learning Approach for Predicting Student Progress in Online Programming Education
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with large language models
 - [[zhang-tutormoments-2026]] — When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle
 - [[zhao-genai-higher-order-thinking-meta-2026]] — Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments
-- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop
-- [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive Alignment
+- [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop
+- [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
-- [[zuo-instructor-power-genai-writing-2026]] — "Will AI Steal My Glory?": Power Relations Perceived by College Instructors When Grappling with Generative AI
+- [[zuo-instructor-power-genai-writing-2026]] — “Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI

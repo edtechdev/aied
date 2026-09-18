@@ -1,7 +1,7 @@
 ---
-title: "Exploring the Effect of Computational Thinking Levels on Students' Learning Performance, Cognition, and Behavior"
+title: "Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [self-regulated-learning]

@@ -1,7 +1,7 @@
 ---
-title: "LearnLens: Personalised, Curriculum-Grounded AI Feedback with Educators in the Loop"
+title: "LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [curriculum-design, teacher-role]
 technology: [educational-nlp, generative-ai, human-in-the-loop-ai, llm, student-modeling]

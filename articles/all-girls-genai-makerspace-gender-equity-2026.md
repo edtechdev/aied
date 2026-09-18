@@ -1,7 +1,7 @@
 ---
-title: "Beyond 'Painting in Pink'"
+title: "Beyond “painting in pink”: A critical case study of all-girls generative AI workshops in a European makerspace"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 foundations: [ai-literacy]

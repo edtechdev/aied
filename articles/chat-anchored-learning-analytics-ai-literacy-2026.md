@@ -1,7 +1,7 @@
 ---
-title: "A CHAT-Anchored Learning Analytics Pipeline for AI Literacy Education"
+title: "A cultural-historical activity theory-anchored learning analytics pipeline for early detection and social-epistemic"
 created: "2026-08-26T08:10:00-04:00"
-updated: "2026-08-26T08:10:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [activity-theory-aied, student-ai-interaction]
