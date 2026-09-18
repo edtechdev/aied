@@ -88,6 +88,7 @@ The knowledge base argues that authenticity must be designed rather than policed
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
+- [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artefacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]]
 
