@@ -3,8 +3,8 @@ title: "Multidimensional perceived school support and AI learning anxiety among 
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-pedagogy: [motivation, self-efficacy, well-being]
-stakeholders: [ai-anxiety-and-stress, student-experience]
+pedagogy: [anxiety-and-stress, motivation, self-efficacy, well-being]
+stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [researchers, instructors, administrators]
 research_method: [structural equation modeling, survey]
@@ -14,7 +14,7 @@ level: [higher ed]
 technology: [technology-acceptance-model]
 ---
 
-> **Synthesis:** Drawing on control-value theory (CVT), this structural equation modeling study of 547 Chinese undergraduates found that students who perceived more school support reported less [[ai-anxiety-and-stress|AI learning anxiety]] — largely because that support strengthened two appraisals: their [[self-efficacy|AI learning self-efficacy]] and their [[technology-acceptance-model|perceived usefulness]] of AI for academic work. Both appraisals in turn predicted lower anxiety, and the indirect routes through them carried most of the total association. The study reframes AI learning anxiety as an achievement-related emotion shaped by institutional conditions, not only by individual traits.
+> **Synthesis:** Drawing on control-value theory (CVT), this structural equation modeling study of 547 Chinese undergraduates found that students who perceived more school support reported less [[anxiety-and-stress|AI learning anxiety]] — largely because that support strengthened two appraisals: their [[self-efficacy|AI learning self-efficacy]] and their [[technology-acceptance-model|perceived usefulness]] of AI for academic work. Both appraisals in turn predicted lower anxiety, and the indirect routes through them carried most of the total association. The study reframes AI learning anxiety as an achievement-related emotion shaped by institutional conditions, not only by individual traits.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ Analysis proceeded in two stages. The main model used confirmatory factor analys
 ## Implications
 
 - Universities can treat AI learning anxiety as an institutional concern, not just a student disposition: responsible-use guidelines, accessible technical support, and [[ai-literacy|AI literacy]] training may matter because perceived support precedes favorable control and value appraisals.
-- Initiatives that build [[self-efficacy|confidence]] and demonstrate AI's academic value are the highest-leverage route, since the two appraisals carried most of the association with lower [[ai-anxiety-and-stress|anxiety]].
+- Initiatives that build [[self-efficacy|confidence]] and demonstrate AI's academic value are the highest-leverage route, since the two appraisals carried most of the association with lower [[anxiety-and-stress|anxiety]].
 - Instructors can embed low-stakes practice, guided [[ai-ed-evaluation|evaluation of AI]] outputs, and feedback-driven revision — activities that give students mastery experiences and concrete evidence that AI is worth the effort.
 
 ## Limitations
@@ -46,7 +46,7 @@ Analysis proceeded in two stages. The main model used confirmatory factor analys
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]] — the central emotion, modeled as an achievement-related outcome of control-value appraisals
+- [[anxiety-and-stress]] — the central emotion, modeled as an achievement-related outcome of control-value appraisals
 - [[self-efficacy]] — operationalizes the control appraisal (AI learning self-efficacy)
 - [[motivation]] — CVT frames anxiety within control and value appraisals tied to task engagement
 - [[technology-acceptance-model]] — TAM supplies the perceived-usefulness (value) construct

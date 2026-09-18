@@ -40,7 +40,7 @@ Disclosing the model's actual persuasive intent — the intuitively stronger int
 
 ## Trust in Generative AI Did Not Drop
 
-The authors report no significant reduction in overall trust in generative AI from before to after the conversation (b = −0.83 points on a 0–100 scale, [−2.35, 0.69], z = −1.07, p = 0.28). They read this as evidence the treatment was targeted — protecting against political persuasion specifically rather than producing blanket [[ai-anxiety-and-stress|skepticism about AI]]. Their stated goal is making people more discerning rather than more generally distrustful, and they flag future work on effects in prosocial persuasion settings and on domains such as conspiracy theories where the task is changing factual beliefs rather than contested political attitudes.
+The authors report no significant reduction in overall trust in generative AI from before to after the conversation (b = −0.83 points on a 0–100 scale, [−2.35, 0.69], z = −1.07, p = 0.28). They read this as evidence the treatment was targeted — protecting against political persuasion specifically rather than producing blanket [[anxiety-and-stress|skepticism about AI]]. Their stated goal is making people more discerning rather than more generally distrustful, and they flag future work on effects in prosocial persuasion settings and on domains such as conspiracy theories where the task is changing factual beliefs rather than contested political attitudes.
 
 ## Limits
 

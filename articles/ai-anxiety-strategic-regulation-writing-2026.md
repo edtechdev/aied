@@ -16,7 +16,7 @@ confidence: high
 discipline: [writing education]
 ---
 
-> **Synthesis:** Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the knowledge base's [[ai-anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
+> **Synthesis:** Eunjeo Kim (2026) examined how university students engage with [[generative-ai|generative AI]] as a strategic learning resource in [[writing-education|academic writing]] tasks, focusing on the role of AI anxiety — a central construct of the knowledge base's [[anxiety-and-stress]] concept. Using an explanatory sequential [[mixed-methods-research|mixed-methods]] design, the study collected survey data and post-task written reflections from 107 university students.
 
 ## Key Findings
 
@@ -30,7 +30,7 @@ discipline: [writing education]
 This work reframes AI anxiety from a negative construct to a potentially productive signal that encourages closer scrutiny and more deliberate [[regulation]] of AI use. It challenges adoption-centered models (like [[technology-acceptance-model|TAM]]) that treat use as a stable decision, arguing instead that AI use is an ongoing process of judgment, revision, and selective uptake during task performance. For [[assessment]] and [[academic-integrity]] design, it suggests that fostering evaluative capacity and ethical awareness — not merely reducing anxiety — is the key to promoting critical, responsible engagement with [[generative-ai|GenAI]] in writing tasks.
 
 ## Connected Concepts
-- [[ai-anxiety-and-stress]] — the productive-anxiety construct this study develops
+- [[anxiety-and-stress]] — the productive-anxiety construct this study develops
 
 - [[generative-ai]]
 - [[ai-literacy]]

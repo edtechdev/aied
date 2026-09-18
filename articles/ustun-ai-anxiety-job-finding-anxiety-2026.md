@@ -3,8 +3,7 @@ title: "The Role of Artificial Intelligence Anxiety and Attitudes Toward Artific
 created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
-pedagogy: [social-emotional-learning]
-stakeholders: [ai-anxiety-and-stress]
+pedagogy: [anxiety-and-stress, social-emotional-learning]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 level: [higher ed, adult learning]
@@ -28,17 +27,17 @@ technology: [technology-acceptance-model]
 
 - **Higher AI anxiety → higher job-finding anxiety.** AI-related anxiety is positively associated with post-graduation job-finding anxiety.
 - **Negative AI attitudes → higher job-finding anxiety.** Students with more negative attitudes toward AI report greater employment concern.
-- **Demographic patterning:** female students, social-science majors, and second-year students reported higher anxiety levels — pointing to [[equity-in-ai-education|equity]] dimensions of [[ai-anxiety-and-stress]] and [[career-development-and-readiness]].
+- **Demographic patterning:** female students, social-science majors, and second-year students reported higher anxiety levels — pointing to [[equity-in-ai-education|equity]] dimensions of [[anxiety-and-stress]] and [[career-development-and-readiness]].
 
 ## Implications
 
 - **For [[career-development-and-readiness]]:** employment expectations and job-seeking confidence are shaped by AI attitudes and anxiety; career services should address AI-related emotional responses, not just skills.
-- **For [[ai-anxiety-and-stress]]:** adds population-scale evidence that AI anxiety is a lived, measurable labor-market concern among students, with identifiable at-risk groups (women, social-science majors, early-year students).
+- **For [[anxiety-and-stress]]:** adds population-scale evidence that AI anxiety is a lived, measurable labor-market concern among students, with identifiable at-risk groups (women, social-science majors, early-year students).
 - **For equity:** the demographic patterning underscores the need for targeted support.
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[career-development-and-readiness]]
 - [[higher-ed]]
 - [[student-experience]]

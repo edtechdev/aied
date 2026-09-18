@@ -4,11 +4,11 @@ created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-18T13:40:00-04:00"
 type: article
 foundations: [limitations-in-aied-research, human-ai-collaboration]
-pedagogy: [self-efficacy, problem-solving, cognitive-psychology, student-ai-interaction]
+pedagogy: [anxiety-and-stress, cognitive-psychology, problem-solving, self-efficacy, student-ai-interaction]
 technology: [llm, simulation, simulating-students, student-modeling, generative-ai, learning-analytics, affective-computing, prompt-engineering]
 assessment: [assessment, self-report-measures, psychometrically-aware-ai, educational-measurement, learning-gains]
 methods: [benchmark, quantitative-research, network-analysis]
-stakeholders: [ai-anxiety-and-stress, learners, student-experience, educational-technology-developers]
+stakeholders: [learners, student-experience, educational-technology-developers]
 ethics: [bias-mitigation, trust-calibration, hallucination-risk]
 research_method: [benchmark, quantitative]
 discipline: [math education, stem education]
@@ -37,7 +37,7 @@ confidence: high
 
 Every run began with a system-level role instruction that fixed its personification mode. Human-mode runs were told to role-play a single human respondent and stay consistent with the persona's demographics and psychological descriptors; LLM-mode runs were told to speak as the language model itself, not to pretend to be human, and to interpret psychometric items in terms of AI functioning rather than human life events. A full JSON schema enforced by `response_json_schema()` prescribed fixed keys and value constraints (integer ratings 1–5, single-word associations, A–E options with confidence 1–5), which kept records [[prompt-engineering|prompt]]-traceable and machine-parsable.
 
-Four sequential calls followed: Task 1 put seven interview questions about mathematics, [[ai-anxiety-and-stress|math anxiety]], prior AI use and specific procedures (second-order equations, stationary points, PCA); Task 2 administered the Mathematics Self-Efficacy Scale (9 items), the Abbreviated Math Anxiety Scale (9 items) and the 28-item Mathematics Self-Efficacy and Anxiety Questionnaire with reverse-valence items remapped; Task 3 collected free associations and 1–5 valence ratings for 50 cue words in two batches of 25; Task 4 asked for solutions to the 18-item MSES-R problems subscale with step-by-step reasoning and a confidence score.
+Four sequential calls followed: Task 1 put seven interview questions about mathematics, [[anxiety-and-stress|math anxiety]], prior AI use and specific procedures (second-order equations, stationary points, PCA); Task 2 administered the Mathematics Self-Efficacy Scale (9 items), the Abbreviated Math Anxiety Scale (9 items) and the 28-item Mathematics Self-Efficacy and Anxiety Questionnaire with reverse-valence items remapped; Task 3 collected free associations and 1–5 valence ratings for 50 cue words in two batches of 25; Task 4 asked for solutions to the 18-item MSES-R problems subscale with step-by-step reasoning and a confidence score.
 
 Selection of the 14 models was a compromise between [[open-source|open-weight]] availability, API availability, representativeness across LM Studio, ollama and vLLM, and computational resources. Cleaning was the most fragile stage: because models rephrase JSON keys, keys were matched to the original questions by BERT Base Uncased cosine similarity, with 0.85 selected after testing 0.85, 0.90 and 0.95, and unrecoverable files discarded and regenerated. Network records required associations for at least 75% of the 50 cue words. Validation then checked schema integrity, persona consistency and cross-task completeness before any analysis, and the whole JSON dataset plus the persona-generation weights are published openly for reuse and extension.
 
@@ -51,7 +51,7 @@ The [[hallucination-risk|hallucination]] framing matters most for [[math-educati
 
 A digital shadow, as the paper defines it, is deliberately weaker than a digital twin: it records what a system does across controlled conditions through unidirectional data acquisition, without updating or influencing an external counterpart. A Math Education Digital Shadow is therefore the structured math psychological and problem-solving record of one model under a specified persona, prompting mode and four-task battery — a trace to be analysed, not an agent to be run. This is what makes latent human variables such as [[self-efficacy]], anxiety and semantic association explicit and experimentally manipulable inside a [[simulation]] rather than merely observed.
 
-Grounding comes from comparison rather than from real participants. Task 3 networks are read against the human forma mentis results of Stella and colleagues (2019), which found students associating science positively and its mathematical building blocks negatively; MEDS reproduces that bias, extends it to 14 models, and adds the uncensored-versus-censored contrast that past GPT-based studies could not make. Task 2 distributions are compared against human psychometric profiles from the source instruments, and Task 1 emotional profiles against published [[cognitive-psychology|cognitive network]] findings on [[ai-anxiety-and-stress|math anxiety]]. No real students were recruited or simulated from individual records, so these are distributional analogies, not replications — a limit the authors state plainly when they call the dataset "not a proxy for human opinion".
+Grounding comes from comparison rather than from real participants. Task 3 networks are read against the human forma mentis results of Stella and colleagues (2019), which found students associating science positively and its mathematical building blocks negatively; MEDS reproduces that bias, extends it to 14 models, and adds the uncensored-versus-censored contrast that past GPT-based studies could not make. Task 2 distributions are compared against human psychometric profiles from the source instruments, and Task 1 emotional profiles against published [[cognitive-psychology|cognitive network]] findings on [[anxiety-and-stress|math anxiety]]. No real students were recruited or simulated from individual records, so these are distributional analogies, not replications — a limit the authors state plainly when they call the dataset "not a proxy for human opinion".
 
 ## Anxiety and confidence modelling and what it is intended to support
 
@@ -70,7 +70,7 @@ Fourth, the psychological battery is narrow. Three instruments, 50 cue words and
 ## Connected Concepts
 
 - [[simulating-students]] — the core method: LLM personas standing in for learners and analysed as shadows
-- [[ai-anxiety-and-stress]] — math anxiety as the affective dimension MEDS tries to make measurable in models
+- [[anxiety-and-stress]] — math anxiety as the affective dimension MEDS tries to make measurable in models
 - [[self-efficacy]] — the belief dimension carried by MSES and the MSEAQ self-efficacy subscale
 - [[llm]] — the 14 systems across six families whose behaviour the dataset records
 - [[psychometrically-aware-ai]] — psychometric scales adapted to AI respondents, with mixed distributions as the signal

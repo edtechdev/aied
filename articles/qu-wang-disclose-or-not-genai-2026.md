@@ -35,7 +35,7 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 ## Implications
 
 - **For [[academic-integrity]] policy:** mandates alone are insufficient. Institutions should build trust and constructive peer norms rather than rely on detection or punishment.
-- **For [[ai-anxiety-and-stress]]:** the "to disclose or not" dilemma — weighing honesty against relational risk and fear of misinterpretation — is a genuine source of student stress around AI use, linking integrity anxiety to social/peer pressure.
+- **For [[anxiety-and-stress]]:** the "to disclose or not" dilemma — weighing honesty against relational risk and fear of misinterpretation — is a genuine source of student stress around AI use, linking integrity anxiety to social/peer pressure.
 - **For educators:** comfort with instructors and perceived peer behavior shape whether students are willing to be transparent about AI use; relational climate is a designable variable.
 
 ## Connected Concepts
@@ -46,7 +46,7 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 - [[trust]]
 - [[ethics]]
 - [[student-experience]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[ai-literacy]]
 - [[student-engagement]]
 - [[peer-assessment]]

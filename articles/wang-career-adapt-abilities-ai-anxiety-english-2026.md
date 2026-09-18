@@ -4,8 +4,7 @@ created: "2026-08-25T07:45:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [self-efficacy, well-being]
-stakeholders: [ai-anxiety-and-stress]
+pedagogy: [anxiety-and-stress, self-efficacy, well-being]
 audience: [learners]
 research_method: [survey]
 level: [higher ed, adult learning]
@@ -16,7 +15,7 @@ discipline: [english education]
 
 > **Synthesis:** **Career adapt-abilities and AI anxiety** — a study of 444 English-major undergraduates at four Chinese universities (July–August 2025) showing that **career adapt-abilities significantly and negatively predict AI anxiety**, with **core self-evaluations partially mediating** this relationship. Latent profile analysis identified three career adapt-abilities subgroups (low, medium, high): the **low group showed the highest AI anxiety**, the high group the lowest. This is direct empirical evidence that career-related readiness is a protective factor against AI anxiety.
 
-Wang (2026) connects the knowledge base's [[ai-anxiety-and-stress]] and career-readiness threads: students who feel more adaptable and prepared for their careers experience less AI anxiety. It positions career development as a buffer against the fear that AI will displace or devalue one's professional future.
+Wang (2026) connects the knowledge base's [[anxiety-and-stress]] and career-readiness threads: students who feel more adaptable and prepared for their careers experience less AI anxiety. It positions career development as a buffer against the fear that AI will displace or devalue one's professional future.
 
 ## Method
 
@@ -33,13 +32,13 @@ Wang (2026) connects the knowledge base's [[ai-anxiety-and-stress]] and career-r
 
 ## Implications
 
-- **For [[ai-anxiety-and-stress]]:** career anxiety is a distinct, empirically validated component of AI anxiety; building career readiness is a concrete protective intervention.
+- **For [[anxiety-and-stress]]:** career anxiety is a distinct, empirically validated component of AI anxiety; building career readiness is a concrete protective intervention.
 - **For education and career services:** strengthening career adapt-abilities (and core self-evaluations) can mitigate AI anxiety among students facing an uncertain AI-disrupted labor market — relevant to [[career-development-and-readiness]] and employability programming.
 - **For [[self-efficacy]]:** the core self-evaluations mediation points to self-worth/competence beliefs as the mechanism linking career readiness to lower anxiety.
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[self-efficacy]]
 - [[ai-literacy]]
 - [[higher-ed]]

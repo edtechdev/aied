@@ -4,8 +4,7 @@ created: "2026-08-25T07:46:00-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [self-efficacy, social-emotional-learning]
-stakeholders: [ai-anxiety-and-stress]
+pedagogy: [anxiety-and-stress, self-efficacy, social-emotional-learning]
 connected_faqs: [ai-anxiety-wellbeing]
 audience: [learners]
 research_method: [survey]
@@ -16,7 +15,7 @@ confidence: high
 
 > **Synthesis:** **AI anxiety and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy]] was insignificant, indicating limited buffering capacity.
 
-Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-related AI anxiety — fear of job displacement, diminished employability, and skill obsolescence — impairs students' career confidence, goal clarity, and decision-making. This is a core empirical anchor for the [[career-development-and-readiness]] concept's link to [[ai-anxiety-and-stress]].
+Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-related AI anxiety — fear of job displacement, diminished employability, and skill obsolescence — impairs students' career confidence, goal clarity, and decision-making. This is a core empirical anchor for the [[career-development-and-readiness]] concept's link to [[anxiety-and-stress]].
 
 ## Method
 
@@ -35,11 +34,11 @@ Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-relat
 
 - **For [[career-development-and-readiness]]:** strengthening **career adaptability** is the key protective mechanism against AI anxiety's career harm — more so than generic self-efficacy.
 - **For institutions:** promote outcome-based education (OBE) reforms, universalize [[ai-literacy]] and career-planning courses, and deepen industry-education integration to help students make confident, clear-sighted career decisions in the AI era.
-- **For [[ai-anxiety-and-stress]]:** quantifies how career anxiety degrades concrete career outcomes, not just [[well-being]].
+- **For [[anxiety-and-stress]]:** quantifies how career anxiety degrades concrete career outcomes, not just [[well-being]].
 
 ## Connected Concepts
 
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[career-development-and-readiness]]
 - [[self-efficacy]]
 - [[ai-literacy]]

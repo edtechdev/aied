@@ -41,10 +41,11 @@ export const FACET_VOCAB = {
     'teacher-role',
     'theory-development-aied',
   ],
-  // Learning and instruction (47 concepts) — registry section: Learning and instruction
+  // Learning and instruction (48 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
+    'anxiety-and-stress',
     'behaviorism',
     'cognitive-psychology',
     'collaborative-learning',
@@ -169,7 +170,7 @@ export const FACET_VOCAB = {
   ],
   // People (13 concepts) — registry section: People
   stakeholders: [
-    'ai-anxiety-and-stress',
+    'administrator',
     'career-development-and-readiness',
     'educational-technology-developers',
     'learners',
@@ -183,9 +184,8 @@ export const FACET_VOCAB = {
     'teacher-ai-competency',
     'tpack',
   ],
-  // Institutions and policy (5 concepts) — registry section: Institutions and policy
+  // Institutions and policy (4 concepts) — registry section: Institutions and policy
   institutions: [
-    'administrator',
     'change-management',
     'educational-policy-ai',
     'governance',

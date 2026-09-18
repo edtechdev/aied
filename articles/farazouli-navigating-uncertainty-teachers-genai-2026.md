@@ -6,8 +6,8 @@ type: article
 foundations: [academic-integrity, educational-development, teacher-role, theory-development-aied]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education]
+pedagogy: [anxiety-and-stress]
 research_method: [qualitative]
 audience: [instructors, faculty development, researchers]
 level: [higher ed]
@@ -35,7 +35,7 @@ The study is theoretically distinctive in grounding the analysis in **postphenom
 
 ## Implications for AI in Education
 
-- **For [[ai-anxiety-and-stress|teacher anxiety and well-being]]:** teachers' "state of vulnerability" and feeling "stuck" is a genuine emotional and professional response to GAI, not mere resistance — it signals a need to support teacher confidence and [[well-being]], not just train tool use.
+- **For [[anxiety-and-stress|teacher anxiety and well-being]]:** teachers' "state of vulnerability" and feeling "stuck" is a genuine emotional and professional response to GAI, not mere resistance — it signals a need to support teacher confidence and [[well-being]], not just train tool use.
 - **For [[educational-development]]:** institutions should provide designated spaces and time for teachers to experiment with GAI, exchange experiences, and collaboratively develop practices and guidelines at institutional, departmental, and course levels — treating [[ai-literacy|AI literacy]] and readiness as a supported, collective endeavor.
 - **For [[assessment]] and [[academic-integrity]]:** the assessment rethinking themes (AI-proof formats, multiple/incremental submissions, transparency declarations, feedback) echo the knowledge base's shift from [[ai-detection|detection]] toward redesign; but the paper also surfaces teachers' concern that returning to traditional/sit-in formats risks losing the [[pedagogy|pedagogical]] value of at-home, self-paced long-form writing.
 - **For [[teacher-role]] and [[curriculum-design]]:** teachers identified cultivating [[critical-thinking|critical thinking]], evaluative judgment, and ethical GAI use as newly central responsibilities — pointing to a reconfiguration of the teacher role around guiding critical [[student-engagement|engagement]] with GAI rather than transmitting content.
@@ -48,7 +48,7 @@ The study is theoretically distinctive in grounding the analysis in **postphenom
 - [[teacher-role]]
 - [[generative-ai]]
 - [[higher-ed]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[academic-integrity]]
 - [[assessment]]
 - [[critical-thinking]]

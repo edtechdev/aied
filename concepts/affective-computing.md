@@ -47,7 +47,7 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - **Emotionally intelligent assessment agents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], an [[llm]]-augmented emotionally intelligent [[conversational-ai|conversational agent]], reduced student anxiety and social pressure during performance-based assessments while preserving [[usability-research|usability]].
 - **Empathy engineered through prompt design, not sensing.** Affective support does not require affect detection: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtained a large difference in *empathy perception* (21.27 vs. 18.24; r = 0.53) between two LLM [[physics-education|physics]] agents that differed only in prompt-specified role and conversational moves — perspective-taking openings ("You have this question because…"), [[misconceptions|misconception]] diagnosis, and a comprehension check at the end of each round — while model, platform, and temperature were held constant. This is a useful counterweight to sensor-driven affective computing: the perceived emotional quality of a [[pedagogical-agent]] can be designed into the interaction script, while also reminding designers that perceived empathy is a self-report construct rather than evidence of genuine affective understanding ([[student-ai-interaction]]).
 ## Connected Concepts
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 
 - [[cognitive-offloading]]
 - [[student-experience]]
