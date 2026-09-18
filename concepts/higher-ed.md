@@ -80,6 +80,7 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — A three-year psychology programme passable at minimum effort (Ivory et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI

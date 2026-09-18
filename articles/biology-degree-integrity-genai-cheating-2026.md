@@ -92,6 +92,7 @@ What the design does establish is a method that is cheap, replicable, and diagno
 - [[stem-education]] — why the grading architecture described here is not biology-specific
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology programme 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Review of academic dishonesty and automated proctoring in the AI era
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring

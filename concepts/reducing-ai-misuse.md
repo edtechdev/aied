@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-09-17T09:24:00-04:00"
+updated: "2026-09-17T21:00:00-04:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -34,7 +34,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 
 **Guardrailed AI tool design ("hint-not-answer" [[scaffolding]]).** In the strongest causal finding in the knowledge base, a field [[rct]] showed an unguarded ChatGPT-style tutor raised assisted practice performance **+48%** but reduced unassisted exam scores **−17%**, while a guardrailed tutor (hints instead of answers, plus teacher-authored problem information) eliminated the harm entirely. This mechanically prevents the answer-copying "crutch" behavior behind the damage. Activities include hint-not-answer tutoring, seeding prompts with correct solutions and common [[misconceptions]], and requiring a student attempt before AI output is revealed.
 
-**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
+**Assessment redesign (AI-resistant + unassisted measures).** Because misuse harm is assessment-dependent — surfacing on proctored, closed-book, and unassisted measures while inflating ordinary graded coursework — changing what counts as achievement both deters misuse and surfaces it. Activities include unassisted in-class exams and oral defenses, requiring process artifacts (drafts, reflections, annotated reasoning), rewarding reasoning over surface fluency, and designating AI-free zones. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] give the process-artifact requirement a concrete instrument: mandated version histories and reproducible analysis documents, so a suspected submission can be inspected as a timeline of how the work developed, and the amount of fabricated material a student would have to generate rises far beyond what outsourcing saves them. Large-scale field evidence underscores this: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei, & Wu (2026)]] found that homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — exactly the signal that unassisted, proctored measures are designed to surface, and the study recommends weighting closed-book in-person assessment more heavily.
 
 ### Tier 2 — Strong framework support, high potential
 
@@ -74,6 +74,7 @@ Interventions can be sorted by **causal evidence × structural reach × scalabil
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
 ## Connected Articles
+- [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]]
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
 
