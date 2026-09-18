@@ -1,22 +1,20 @@
 ---
 name: wiki-site-quality
-description: "Fix static-site bugs: dup H1, broken links, dead tags, missing tag pages, tag fragmentation, table rendering, journal date quoting."
+description: "Fix static-site bugs: dup H1, broken links, typed facet metadata, table rendering, journal date quoting."
 category: research
 ---
 
 # Wiki Site Quality
 
-Apply quality fixes to a static HTML site generated from a markdown wiki. Covers structural bugs, tag system health, markdown rendering, and navigation consistency.
+Apply quality fixes to a static HTML site generated from a markdown wiki. Covers structural bugs, typed metadata health, markdown rendering, and navigation consistency.
 
 ## When to Use
 
 - Article pages show duplicate titles (header + body H1)
 - Related Pages wikilinks 404 (double pages/ path prefix)
-- Tag badges on article pages are dead span elements with no links
-- Tag-filtering JavaScript silently fails on page load (race condition)
-- Need consistent navigation across all pages (Home, Journal, Tags, Search)
-- **Tag pages are missing or stale** — not regenerated with the static site
-- **Tags are fragmented** — similar concepts spread across multiple tag names
+- **Typed metadata is wrong or missing**: a facet field holds a slug from the wrong registry section, one concept appears in two facet fields on a page, or a page carries no typed value at all (see section 3)
+- Need consistent navigation across all pages (Concepts, FAQ, Search, Journal, RSS)
+- **Legacy tag machinery has reappeared**: a `tags:` line in frontmatter, a tag chip in a template, or a `tags/` directory or tag-filter dropdown being re-added (retired, see section 3)
 - **Markdown tables render as raw text** instead of HTML tables
 - **Journal date headers have quotes** (`## "2026-07-31"`) from unquoted frontmatter dates
 - **Public repo files contain private paths** (e.g., `<WIKI>`) or cron job IDs
@@ -27,7 +25,7 @@ Apply quality fixes to a static HTML site generated from a markdown wiki. Covers
 
 ## Procedure
 
-Run through the fixes in order. All four are independent but collectively produce a polished site.
+Run through the fixes in order. They are independent but collectively produce a polished site.
 
 ### 1. Duplicate H1 Titles
 
@@ -65,186 +63,21 @@ md_text = re.sub(r'\[\[([^\]]+)\]\]', r'[\1](\1.html)', md_text)
 
 Bulk fix existing files: `re.sub(r'href="pages/([^"]+\.html)"', r'href="\1"', html)`
 
-### 3. Dead Tag Links to Clickable Badges
+### 3. Tags Are Retired: Typed Facet Metadata Instead (DONE 2026-09-17)
 
-Convert span tags to styled anchor links pointing to `../index.html?tag=<tagname>`.
+The site used to carry a per-page `tags:` list of concept slugs, and a whole layer was built on it: tag chips on article pages, a tag-filter dropdown driven by `data-tags` attributes, a generated `tags/` directory plus a `tags.html` cloud, and a periodic tag-consolidation job that merged near-duplicate tags (`higher-education` into `higher-ed`, `automated-essay-scoring` into `automated-grading`, `cognitive-load-theory` into `cognitive-offloading`, and so on).
 
-```python
-tags_html = ''.join([
-    f'<a href="../index.html?tag={tag}" class="tag">{tag}</a>'
-    for tag in page['tags']
-]) or 'No tags'
-```
+**All of that is retired.** The schema in `src/content.config.ts` no longer accepts `tags`, every page lost the line, the page templates no longer render tag chips, and the JSON-LD keywords now come from the typed fields. The lessons that survive the retirement:
 
-CSS for badge styling:
-```css
-a.tag {
-    display: inline-block; padding: 0.15rem 0.5rem; margin: 0.15rem;
-    background: var(--primary); color: var(--primary-inverse);
-    border-radius: 4px; font-size: 0.8rem; text-decoration: none;
-}
-a.tag:hover { opacity: 0.85; }
-```
+- **Never re-add a `tags:` line, a tag chip, a `data-tags` attribute, a tag page, or the tag-filter dropdown.** There is no tag vocabulary left to keep in sync, and a re-added `tags:` line fails the content schema. Before deleting `tags`, the 178 pages whose tags had no typed equivalent were migrated (107 level values, 52 discipline values), so nothing was dropped silently; do not try to reverse that.
+- **The taxonomy is now the registry, not a flat tag list.** Every concept a page touches is named in a TYPED field: the facet fields `foundations` (Foundations of AI in education), `pedagogy` (Learning and instruction), `technology` (Technologies and techniques), `assessment` (Assessment and measurement), `methods` (Research methods and evaluation), `stakeholders` (People), `institutions` (Institutions and policy) and `ethics` (Equity, ethics, and responsible use), whose values must be concept slugs filed under THAT field's registry section; plus the phrase fields `research_method` (UI label "Study design"), `discipline`, `level`, `audience` (UI label "Intended audience") and `page_kind`. `page_kind` is the renamed, re-scoped `category`: only the three genre values (framework / synthesis / evaluation) survive, and the field answers "what kind of page is this", never "what is it about".
+- **The old consolidation job is now a closed vocabulary, not a merge exercise.** A value that is not in the enum is not merged into a neighbouring one; adding a value needs grounding: 1 article for a domain, omit the field and log it; 2 to 3 articles, add the enum value with no concept page; 4 or more, create the concept page, register it in its section and integrate it. There is deliberately no catch-all value, so "nothing fits" is expressed by omitting the field.
+- **There is no replacement page to generate for the old `tags/` output.** Concept pages are driven by `concepts.registry.yaml`, and the sidebar, the search filters and the Metadata table read their labels from the generated `FACET_FIELDS` in `src/data/facetVocab.ts`, where each facet's label IS its registry section heading. Adding a facet means editing `FACET_SECTIONS` in `tooling/scripts/gen-concept-artifacts.py`, never the .astro files. One consequence worth naming, because the old skill had the opposite rule: a registry section rename ("AI technologies and techniques" to "Technologies and techniques", or "Institutions and systems" to "Institutions and policy") updates the sidebar, the facets and the search filters at once, since they all read the same generated labels.
+- **`tooling/scripts/validate-facets.py` is the gate that replaced `derive-facets.py`.** The old script projected the facets FROM `tags`; the fields are now authored directly and validated: every facet value must be a concept in that field's registry section, no concept may appear in two facet fields, and every page must carry at least one typed value. It is registered in `wiki.config.yaml` under `build.gates`, so run it (`python3 tooling/scripts/run-gates.py` runs every gate) before blaming a template.
+- **Where a tag chip used to sit, the Metadata table now sits.** `src/components/MetadataTable.astro` renders every typed field at the foot of each article, concept and FAQ page: one row per field, values hyperlinked to their concept page when one exists. Facet values link directly (they ARE slugs); the phrase fields resolve through `src/data/metadataLinks.ts`, generated from the registry, so `cs education` reaches `cs-education` and `systematic review` reaches `meta-analysis-systematic-review`. Below 640px each row stacks (label, then values).
+- **The race-condition lesson outlives the code.** The old tag filter populated its dropdown on `DOMContentLoaded` and read the URL parameter after a `setTimeout`, so a deep link like `?tag=metacognition` sometimes filtered nothing. If a filter reads state from the URL, populate its options and apply the parameter in ONE synchronous pass, and prefer no arrow functions or `const`/`let` for broad compatibility.
 
-### 4. Robust Tag-Filter JS (No Timing Dependency)
-
-The naive approach uses DOMContentLoaded + setTimeout to wait for dropdown population -- a race condition. Fix: populate the dropdown AND apply the URL param in a single synchronous IIFE.
-
-```javascript
-function filterByTag(tag) {
-    document.querySelectorAll('.page-item').forEach(function(item) {
-        if (!tag) { item.style.display = ''; return; }
-        var tags = (item.getAttribute('data-tags') || '').toLowerCase();
-        item.style.display = tags.includes(tag.toLowerCase()) ? '' : 'none';
-    });
-    if (tag) {
-        var url = new URL(window.location);
-        url.searchParams.set('tag', tag);
-        window.history.replaceState({}, '', url);
-    }
-    showActiveTag(tag);
-}
-
-function showActiveTag(tag) {
-    var el = document.getElementById('active-tag-badge');
-    if (!el) {
-        el = document.createElement('div');
-        el.id = 'active-tag-badge';
-        el.style.cssText = 'margin:0.5rem 0; padding:0.5rem 1rem; background:var(--primary); color:var(--primary-inverse); border-radius:6px; display:inline-block;';
-        var h = document.querySelector('.section-header h2');
-        if (h) h.parentNode.insertBefore(el, h.nextSibling);
-    }
-    el.innerHTML = tag
-        ? 'Filtered by tag: <strong>' + tag + '</strong> <a href="?" style="color:var(--primary-inverse);margin-left:0.5rem;opacity:0.7;">clear</a>'
-        : '';
-}
-
-// Single synchronous IIFE
-(function() {
-    var select = document.getElementById('tag-filter');
-    var tags = new Set();
-    document.querySelectorAll('.page-item').forEach(function(item) {
-        (item.getAttribute('data-tags') || '').split(',').forEach(function(t) {
-            var trimmed = t.trim();
-            if (trimmed) tags.add(trimmed);
-        });
-    });
-    Array.from(tags).sort().forEach(function(tag) {
-        var opt = document.createElement('option');
-        opt.value = tag; opt.textContent = tag;
-        select.appendChild(opt);
-    });
-    var params = new URLSearchParams(window.location.search);
-    var tagParam = params.get('tag');
-    if (tagParam) { select.value = tagParam; filterByTag(tagParam); }
-})();
-```
-
-Key: no arrow functions or const/let (broad compat), synchronous (no race), visible badge with clear button.
-
-### Nav Consistency
-
-All pages: Home, Journal, Tags, Search.
-
-```html
-<nav><ul>
-    <li><a href="../index.html">Home</a></li>
-    <li><a href="../journal.html">Journal</a></li>
-    <li><a href="../tags.html">Tags</a></li>
-    <li><a href="../search.html">Search</a></li>
-</ul></nav>
-```
-
-### 5. Tag Page Generation
-
-**The `generate-static-site.py` script does NOT automatically generate tag pages.** Tag pages must be explicitly generated by grouping all collected pages by tag and writing an HTML file per tag. Without this, the `tags/` directory is either empty or contains stale one-off pages that don't reflect current article tags.
-
-Add this section after the individual page generation loop in `generate-static-site.py`:
-
-```python
-# ---- Generate tag pages ----
-tags_output_dir = os.path.join(OUTPUT_PATH, 'tags')
-os.makedirs(tags_output_dir, exist_ok=True)
-
-# Group pages by tag
-tag_to_pages = {}
-for page in pages:
-    for tag in page['tags']:
-        if tag not in tag_to_pages:
-            tag_to_pages[tag] = []
-        tag_to_pages[tag].append(page)
-
-# For each tag, extract concept summary if a matching concept page exists
-for tag, tag_pages in sorted(tag_to_pages.items()):
-    summary_html = ""
-    concept_path = os.path.join(WIKI_PATH, 'concepts', f'{tag}.md')
-    if os.path.exists(concept_path):
-        with open(concept_path) as f:
-            concept_text = f.read()
-        # Extract first paragraph after frontmatter (skip H1 title)
-        fm_end = concept_text.find('---', 4)
-        if fm_end > 0:
-            body = concept_text[fm_end+3:].strip()
-            lines = body.split('\n')
-            paragraphs = []
-            in_p = False
-            for line in lines:
-                stripped = line.strip()
-                if stripped.startswith('# '): continue
-                if stripped == '':
-                    if in_p: break
-                    continue
-                in_p = True
-                paragraphs.append(stripped)
-            first_para = ' '.join(paragraphs)
-            if len(first_para) > 500:
-                first_para = first_para[:500] + '...'
-            if first_para:
-                first_para = re.sub(r'\[\[([^\]]+)\]\]', r'<a href="../pages/\1.html">\1</a>', first_para)
-                summary_html = f'<div class="concept-summary">{first_para}</div>'
-    
-    # Generate article cards with snippets and cross-tags
-    # Then write tag page HTML...
-```
-
-**Tag page template** should include:
-- Navigation: Home, Journal, Tags, Search
-- Concept summary (from matching concept page, if exists)
-- Article count
-- Article cards: title link, content snippet (first 250 chars), cross-tag badges
-
-Also generate **`tags.html`** — a tag cloud index page listing all tags with article counts.
-
-### 6. Tag Consolidation
-
-Tags naturally fragment over time as different articles use slightly different names for the same concept. Regular consolidation keeps the tag system usable.
-
-**Detection — find fragmentation candidates:**
-
-```python
-# Tags with shared prefixes and low usage are merge candidates
-# Example: 'teacher-ai-competency' (1 article) + 'teacher-competency' (3) → 'teacher-professional-development'
-# Signs: 2+ tags sharing a prefix root, individual counts < 5, parent tag exists
-```
-
-**Common consolidation patterns to watch for:**
-- `higher-education` → `higher-ed` (plain duplicates)
-- `teacher-ai-competency` / `teacher-competency` / `teacher-development` → `teacher-professional-development`
-- `automated-essay-scoring` / `automated-assessment` → `automated-grading`
-- `stem` → `stem-education`
-- `ai-classroom` / `ai-era` / `ai-in-education` → `ai-education`
-- `cognitive-load-theory` → `cognitive-offloading`
-- `socratic-ai-dialogue` / `dialogue` → `socratic-method`
-- **Page slugs used as tags**: e.g. `agentic-workflows-education` used as a tag on another page — this creates a tag page that collides with the actual article page. Replace with the concept-level tag instead.
-
-**Procedure:**
-1. Build a merge map: `{old_tag: canonical_tag}`
-2. For each concept page, replace old tags with canonical tags
-3. Sort tags alphabetically after replacement
-4. Remove stale tag HTML files that no longer map to any active tag
-5. Create concept stubs for high-value tags (5+ articles) that have no matching concept page — so their tag page gets a summary
-
-### 7. Markdown Table Rendering
+### 4. Markdown Table Rendering
 
 The naive `md_to_html()` function doesn't handle markdown tables — they render as raw `|...|` text inside `<p>` tags.
 
@@ -306,7 +139,7 @@ tr:nth-child(even) { background: rgba(0,0,0,0.02); }
 
 - Always use `re.escape()` on titles before building regex patterns. **Strip YAML quotes first** — `"Title"` in YAML becomes `Title` in HTML.
 - Wikilink path fix must NOT touch nav links (nav uses ../ paths which are correct).
-- Tag filter JS race condition is the #1 silent failure -- if tag links appear to do nothing, dropdown population and URL param reading are out of sync.
+- **Retired: the tag-filter race condition.** With no tag system there is no tag filter to desync; the surviving lesson is generic (see section 3): a filter that reads a URL parameter must populate its options and apply the parameter in one synchronous pass.
 - **Escaped-pipe wikilinks**: `[[slug\\|display]]` — backslash before pipe is a markdown escaping artifact. Fix with `re.sub(r'\\[\\[([^\\]|]+)\\\\|([^\\]]+)\\]\\]', r'[[\\1|\\2]]', content)`.
 - **Raw-file slugs as wikilinks**: `[[becerra-aicofe-feedback-2026]]` targets a raw paper file, not a concept page. Create a stub or fix the link source.
 - **Journal entries must be sorted by date**: When displaying on the home page, sort `journal_entries.sort(key=lambda x: x['date'], reverse=True)` before slicing — the file order in journal.md is not guaranteed chronological.
@@ -316,7 +149,7 @@ tr:nth-child(even) { background: rgba(0,0,0,0.02); }
 - **index.md header corruption from regex replacement**: When using `re.sub(r'\*\*Last updated:\*\* \S+', ...)` on index.md, the regex may consume the closing `**` of the next field (e.g., `**Total pages**`), corrupting the header line. The regex `\*\*Last updated:.*?\*\*` with non-greedy `.*?` can match across field boundaries. **Fix**: use precise patterns: `re.sub(r'\*\*Last updated:\*\* \S+', ...)` — don't use `.*?` across fields. After regeneration, verify the header line contains no `{` template placeholders, no double dates, and that the total page count matches `ls concepts/*.md | wc -l`.
 - **Table `<p>` wrapping**: After table HTML is restored from placeholders, it may still be wrapped in `<p><table>...</table></p>`. Apply cleanup regex: `re.sub(r'<p><table>', r'<table>', html)` and `re.sub(r'</table></p>', r'</table>', html)`.
 - **Public repo privacy**: README.md and config files committed to public GitHub repos must not contain local filesystem paths (`/home/user/...`), cron job IDs, or machine hostnames. Use relative paths and generic descriptions instead.
-- **Tag/slug collision**: When a concept page slug is used as a tag on other pages (e.g., `agentic-workflows-education` as a tag), the tag page HTML and the article page HTML have the same path, causing confusion. Audit tags for page-slug values and replace them with concept-level tags (e.g., replace `agentic-workflows-education` tag with `agentic-ai`).
+- **Retired: the tag/slug collision.** The collision was between a generated tag page and an article page sharing a path. Tags are gone and no tag pages are generated, so an article slug can no longer collide with a tag page. The lesson that generalises: any value that is also a page slug must not be used as a taxonomy key that generates its own file.
 
 ## Keep AGENTS.md in sync with the canonical skills
 
@@ -330,11 +163,11 @@ Canonical concept-page structure to verify against: synthesis blockquote → `##
 
 1. `grep -c '<h1>' pages/*.html` -- every page should have exactly 1
 2. `grep -l 'href="pages/' pages/*.html` -- should return nothing
-3. `grep 'href="../index.html?tag=' pages/*.html | head -5` -- should show links
-4. Visit `index.html?tag=metacognition` -- should filter and show badge
-5. All pages should include Journal and Tags in the nav
-6. **Tag pages**: `ls tags/*.html | wc -l` should equal the number of unique tags. Spot-check: `grep -c 'href="../pages/' tags/agentic-ai.html` should match the number of articles with that tag
+3. **No tags anywhere**: `grep -rn '^tags:' articles/ concepts/ faqs/` should return nothing, and so should `grep -rn 'data-tags' src/`. A reappearing `tags:` line means something re-added the retired field.
+4. **Typed metadata gate passes**: `python3 tooling/scripts/validate-facets.py` exits 0. Every facet value is a concept slug from that field's own registry section, no concept sits in two facet fields, and no page is left with zero typed values.
+5. **Metadata table renders**: an article page shows the typed fields in a table at the foot of the page (one row per field, values linked to their concept pages), and no tag chips appear anywhere.
+6. **No tags output**: `ls tags 2>/dev/null` is empty or absent, and the nav carries Chat with AI, Search, FAQ, Journal and RSS, never a Tags link.
 7. **No quoted dates**: `grep '## "' journal.md` should return nothing
-8. **No stale tag pages**: `diff <(ls tags/ | sed 's/.html$//' | sort) <(grep -rh '^tags:' concepts/ | grep -oP '\[\K[^\]]+' | tr ',' '\n' | sed "s/^ *'//;s/'$//;s/^ *\"//;s/\"$//" | sort -u)` should show no orphaned tag files
+8. **Facet labels come from one place**: `grep -c 'FACET_FIELDS' src/data/facetVocab.ts` is at least 1, and no .astro file hard-codes a registry section heading. Adding a facet is an edit to `FACET_SECTIONS` in `tooling/scripts/gen-concept-artifacts.py`.
 9. **Tables render**: `grep -l '<table>' pages/*.html | wc -l` -- any page with `|...|` in its source should have `<table>` in its HTML
 10. **No private data**: `grep -rn '/home/' README.md wiki.config.yaml concepts.registry.yaml` should return nothing

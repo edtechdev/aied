@@ -32,8 +32,8 @@ python3 tooling/scripts/sync-skills.py --to-installed <skill>
 `--check` normalizes the **sanctioned** differences before comparing, so it only
 reports material drift:
 
-- absolute repo path ↔ `<WIKI>`, installed skill store ↔ `<SKILLS_DIR>`, home dir ↔ `<HOME>`
-- the agent's product name ↔ "the AI agent"
+- absolute repo path ↔ `<WIKI>`, installed skill store ↔ `<AGENT>`, home dir ↔ `<HOME>`
+- the agent's product name ↔ "AI agent"
 - personal identifiers ↔ "the maintainer" (read at run time from
   `site.config.json` `editor.name`, or supplied via `WIKI_REDACT`; never stored
   in the script or the repo)

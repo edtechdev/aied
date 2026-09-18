@@ -7,7 +7,7 @@ agent actually runs (`agent.skills_dir` in wiki.config.yaml), plus
 not byte-identical by design:
 
   * the repo copy uses the placeholder `<WIKI>` instead of the absolute repo path
-  * it names no person and no agent product ("the maintainer" / "the AI agent")
+  * it names no person and no agent product ("the maintainer" / "AI agent")
   * the installed copy may cite absolute paths, the agent's tool names and the
     maintainer's name
 
@@ -54,20 +54,24 @@ def redaction_pairs(cfg, wiki):
                 pairs.append((token, 'the maintainer'))
     agent = (cfg.get('agent') or {}).get('name') or ''
     if agent:
-        pairs.append((f'{agent} Agent', 'the AI agent'))
-        pairs.append((agent, 'the AI agent'))
+        pairs.append((f'{agent} Agent', 'AI agent'))
+        pairs.append((agent, 'AI agent'))
+    # Third-party site used as a design reference: the repo is public, so its
+    # brand name is scrubbed like any other personal identifier.
+    pairs.append(('the design-reference site', 'the design-reference site'))
+    pairs.append(('the design-reference site', 'the design-reference site'))
     pairs.append((wiki, '<WIKI>'))
     skills = os.path.expanduser((cfg.get('agent') or {}).get('skills_dir') or '')
     if skills:
-        pairs.append((skills, '<SKILLS_DIR>'))
+        pairs.append((skills, '<AGENT>'))
         home = os.path.expanduser('~')
         if skills.startswith(home + os.sep):
-            pairs.append(('~' + skills[len(home):], '<SKILLS_DIR>'))
+            pairs.append(('~' + skills[len(home):], '<AGENT>'))
         parent = os.path.dirname(skills)
         if parent and parent != home:
-            pairs.append((parent, '<AGENT_HOME>'))
+            pairs.append((parent, '<AGENT>'))
             if parent.startswith(home + os.sep):
-                pairs.append(('~' + parent[len(home):], '<AGENT_HOME>'))
+                pairs.append(('~' + parent[len(home):], '<AGENT>'))
     if wiki.startswith(os.path.expanduser('~') + os.sep):
         pairs.append(('~' + wiki[len(os.path.expanduser('~')):], '<WIKI>'))
     pairs.append((os.path.expanduser('~'), '<HOME>'))
@@ -87,14 +91,14 @@ def normalize(text, pairs, reverse=False):
         else:
             text = text.replace(src, dst)
     # the agent's tool module is named after the agent (e.g. <agent>_tools) while
-    # the repo copy says agent_tools — normalize either to one placeholder
+    # the repo copy says <TOOLS> — normalize either to one placeholder
     text = re.sub(r'\b[a-z][a-z0-9_]*_tools\b', '<TOOLS>', text)
     # the agent-named frontmatter metadata key (e.g. `  hermes:` vs `  AI agent:`)
-    text = re.sub(r'^(\s*)(?:hermes|Hermes|AI agent|ai agent)\s*:', r'\1<AGENT_KEY>:',
+    text = re.sub(r'^(\s*)(?:hermes|AI agent|AI agent|ai agent)\s*:', r'\1<AGENT_KEY>:',
                   text, flags=re.M)
-    # 'the AI agent' vs 'AI agent', and every spelling of the skill-store path
+    # 'AI agent' vs 'AI agent', and every spelling of the skill-store path
     text = re.sub(r'\bthe AI agent\b', 'AI agent', text)
-    text = re.sub(r'<SKILLS_DIR>|AI agent/skills|<AGENT_HOME>', '<AGENT>', text)
+    text = re.sub(r'<AGENT>|<AGENT>|<AGENT>', '<AGENT>', text)
     return text
 
 
