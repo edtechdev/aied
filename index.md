@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1272 | Concepts: 204 | FAQs: 32
+Articles: 1273 | Concepts: 204 | FAQs: 32
 
 ## Concepts
 
@@ -279,6 +279,7 @@ Articles: 1272 | Concepts: 204 | FAQs: 32
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Beyond the Hype: How Higher Education Stakeholders View the Benefits and Concerns of Generative AI for Teaching, Research, and Administration
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
 - [[bias-mitigation]] — Bias Mitigation
 - [[bias-representation-text-to-image-education-2026]] — Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Understanding ethical dimensions of AI in higher education: insights from faculty members and students

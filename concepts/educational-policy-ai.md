@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-18T10:59:34-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -155,3 +155,4 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[li-genai-assessment-language-equity-2026]] — A purpose-based support–substitution boundary with calibrated disclosure and decision rubrics (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
+- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Institutional AI policy rhetoric loosely coupled to infrastructure and practice at two South African HDIs
