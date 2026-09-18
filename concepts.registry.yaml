@@ -501,9 +501,6 @@ concepts:
     title: Desirable Difficulties
     aliases:
     - cognitive friction
-    - retrieval practice
-    - spaced practice
-    - spacing effect
     - desirable difficulties
     - desirable difficulty
     - productive friction
@@ -1469,6 +1466,20 @@ concepts:
     - researcher
     - researchers
     - study design
+  retrieval-spacing-interleaving:
+    title: Retrieval, Spacing and Interleaving
+    aliases:
+    - retrieval practice
+    - retrieval-based learning
+    - practice testing
+    - testing effect
+    - spaced practice
+    - spaced repetition
+    - spacing effect
+    - distributed practice
+    - interleaving
+    - interleaved practice
+    - pretesting
   samr-model:
     title: SAMR Model
     aliases:
@@ -1918,6 +1929,7 @@ sections:
     - video-education
   - label: Learning theories and processes
     items:
+    - retrieval-spacing-interleaving
     - learning-theories
     - behaviorism
     - constructivist

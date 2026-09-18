@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-18T12:02:23-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -65,6 +65,8 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[desirable-difficulties]]
 - [[learning-theories]]
 - [[productive-failure]] — Productive Failure
+- [[retrieval-spacing-interleaving]] — how what a learner already knows determines what retrieval practice can do
+
 ## Connected Articles
 
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)

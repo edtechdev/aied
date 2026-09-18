@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 204
+**Total concepts:** 205
 
 ## Foundations of AI in education
 
@@ -68,7 +68,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`cognitive-psychology`** — Cognitive Psychology — phrases: attention; cognitive processing; cognitive psychology; cognitive science; human cognition; memory; working memory
 - **`community-of-inquiry`** — Community of Inquiry — phrases: cognitive presence; coi; community of inquiry; community of inquiry framework; social presence; teaching presence
 - **`constructivist`** — Constructivism — phrases: constructionism; constructivism; constructivist; constructivist learning; constructivist theory
-- **`desirable-difficulties`** — Desirable Difficulties — phrases: cognitive friction; retrieval practice; spaced practice; spacing effect; desirable difficulties; desirable difficulty; productive friction; productive struggle
+- **`desirable-difficulties`** — Desirable Difficulties — phrases: cognitive friction; desirable difficulties; desirable difficulty; productive friction; productive struggle
 - **`distributed-cognition`** — Distributed Cognition — phrases: distributed cognition; distributed intelligence; extended cognition
 - **`embodied-learning`** — Embodied Learning — phrases: body-based learning; embodied; embodied cognition; embodied learning; embodiment; gesture-based learning
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
@@ -77,6 +77,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`motivation`** — Motivation — phrases: achievement goal; achievement goals; extrinsic motivation; goal orientation; goal orientations; intrinsic motivation; learner motivation; motivation; motivational; student motivation
 - **`prior-knowledge`** — Prior Knowledge — phrases: activate prior knowledge; activation of prior knowledge; prior knowledge; prior knowledge activation; prior knowledge state; prior-knowledge
 - **`refutation-text`** — Refutation Text — phrases: refutation text; refutation texts; refutational text
+- **`retrieval-spacing-interleaving`** — Retrieval, Spacing and Interleaving — phrases: retrieval practice; retrieval-based learning; practice testing; testing effect; spaced practice; spaced repetition; spacing effect; distributed practice; interleaving; interleaved practice; pretesting
 - **`self-determination-theory`** — Self-Determination Theory — phrases: autonomy competence relatedness; SDT; self determination; self-determination theory
 - **`self-directed-learning`** — Self-Directed Learning — phrases: SDL; self directed learning; self-directed; self-directed learning
 - **`self-efficacy`** — Self-Efficacy — phrases: academic self-efficacy; self confidence; self efficacy; self-confidence; self-efficacy

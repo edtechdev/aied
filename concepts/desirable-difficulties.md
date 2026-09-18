@@ -1,7 +1,7 @@
 ---
 title: Desirable Difficulties
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T12:02:23-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -91,6 +91,8 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[motivation]]
 - [[learning-theories]]
 - [[productive-failure]] — Productive Failure
+- [[retrieval-spacing-interleaving]] — the operational techniques that instantiate this principle: testing effect, spacing, interleaving
+
 ## Connected Articles
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI: the inverted-U argument for preserving beneficial friction
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
