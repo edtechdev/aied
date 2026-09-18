@@ -43,7 +43,7 @@ if content == page['content']:
     content = re.sub(r'(<p>)?<h1>[^<]+</h1>(</p>)?', '', content, count=1)
 ```
 
-**Root cause**: The generator script at `generate-static-site.py` line ~177 computes the stripped `content` variable but then passes `page['content']` (original) to `page_template.format()`. The stripping runs silently with no effect. Fix: use the `content` variable, not `page['content']`.
+**Root cause (historical, pre-Astro generator)**: the generator computed a stripped `content` variable and then passed the original `page['content']` to its template, so the stripping ran silently with no effect. The lesson still holds for any renderer: a transform you compute but never hand to the template changes nothing, and the defect shows on every page. The current pipeline is `src/lib/markdown.ts` plus the markdown renderer, so check there first.
 
 **Why title-based:** Some pages have blockquotes or source links before the H1. Matching against the actual title string catches it wherever it appears. YAML-quoted titles (`"Title"`) must have quotes stripped because the markdown renderer drops them.
 
@@ -81,7 +81,7 @@ The site used to carry a per-page `tags:` list of concept slugs, and a whole lay
 
 The naive `md_to_html()` function doesn't handle markdown tables — they render as raw `|...|` text inside `<p>` tags.
 
-**Add table parsing to `md_to_html()` in `generate-static-site.py`:**
+**Tables (historical, pre-Astro generator):** the old hand-written `md_to_html()` had no table parsing, so pipe tables rendered as literal text. The current markdown pipeline renders GFM tables natively, so this is only relevant if someone reintroduces a hand-rolled converter:
 
 ```python
 # Phase 1: Convert markdown tables BEFORE other formatting
