@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -161,3 +161,5 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy 0.69 and 0.61 on 192 texts; hybrid-writing failure and EFL misclassification risk (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive prohibitions: transcription is not generation, so the rule sanctions what it was not designed to catch (Wright 2026)
 - [[sharma-judgement-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgement rather than detection (Sharma 2026)
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: reliability evidence for LLM scoring of divergent-thinking responses
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — The AI literacy measurement landscape: construct comparability and validity across instruments

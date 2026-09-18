@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -204,3 +204,5 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 - [[ai-dependence-academic-writing-ipace-2026]] — I-PACE model of generative-AI dependence in academic writing
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: task assignment by sub-zone, with offloading and sycophancy proneness mapped across zones
+- [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: motivations for AI use during reading, and their link to offloading
