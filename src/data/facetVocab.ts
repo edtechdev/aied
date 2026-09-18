@@ -41,7 +41,7 @@ export const FACET_VOCAB = {
     'teacher-role',
     'theory-development-aied',
   ],
-  // Learning and instruction (46 concepts) — registry section: Learning and instruction
+  // Learning and instruction (47 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -74,6 +74,7 @@ export const FACET_VOCAB = {
     'productive-failure',
     'project-based-learning',
     'refutation-text',
+    'retrieval-spacing-interleaving',
     'scaffolding',
     'self-determination-theory',
     'self-directed-learning',

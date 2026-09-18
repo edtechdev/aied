@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-18T12:02:23-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -78,6 +78,7 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 - [[self-regulated-learning]]
 - [[ai-education]]
 - [[learning-sciences]]
+- [[retrieval-spacing-interleaving]] — the retention findings this practice family rests on
 
 ## Connected Articles
 

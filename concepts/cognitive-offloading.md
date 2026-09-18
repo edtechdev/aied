@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-18T12:02:23-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -137,6 +137,7 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[self-directed-learning]] — Eroded by thoughtless AI use
 - [[self-regulated-learning]] — Regulating offloading decisions
 - [[trust-calibration]] — Knowing when to trust and when to question AI
+- [[retrieval-spacing-interleaving]] — the counter-practice to letting a model retrieve on the learner's behalf
 
 ## Connected Articles
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — From cognitive outsourcing to reallocation: 3P analysis of student–GenAI engagement in unsupervised assessments (Yan et al. 2026)
