@@ -72,6 +72,30 @@ In the `## Citation` section, **only the article title is hyperlinked** to the s
 
 **Fix recipe (deterministic, Python):** in the Citation line, `re.search(r"\[([^\]]+)\]\((https?://[^)]+)\)")`; if the link text contains an italic journal (`*Journal*`) or ends with `.` (title+journal merged), split it — hyperlink only the title, put `*journal*` after, preserve vol/issue/pages as plain trailing text. For no-link cases, wrap the title in `[title](doi-url)`. Always verify: link text contains no journal name and no `.` at end, and no `[[ ]]`. Use a journal-name allowlist to detect the journal-in-link case (Assessment & Evaluation, Computers and Education, Smart Learning Environments, Trends in Cognitive, etc.).
 
+### 12. Article pages have a LENGTH BUDGET — the raw file is where detail lives (maintainer-flagged 2026-09-18)
+
+The maintainer asked why some article summaries are "so very long", naming the faculty-development case study (1,520 words with a 363-word Key Findings block) as an example, and said much of the detail was not necessary even though the paper mattered. Measured across 1,315 articles: **median body ~556 words, 75th percentile ~929, 90th ~1,525**. Long pages are therefore outliers produced by the template, not the house style. Nothing in any brief, skill or cron prompt had ever stated a length, so writers defaulted to comprehensive and restated every statistic the source offered.
+
+**Budget for `articles/<slug>.md` — body = frontmatter end to `## Connected Concepts`:**
+- Whole body: **~600-900 words** (a very rich study may reach ~1,100; anything past ~1,500 is a defect to trim).
+- `> **Synthesis:**` 150-220 words — unchanged.
+- `## Key Findings`: **5-7 items, each ~25-35 words** — one claim plus the one or two numbers that decide it, not every statistic, method detail or participant quote. A 50-70-word item is a paragraph in disguise; split it into prose or cut it.
+- Prose sections: **3-4 `##` sections of ~120-180 words**, not 5-6 of ~200. Merge related ones (framing + method; themes + framework; barriers + limits).
+
+**What to cut first:** exhaustive itemised statistics, restated definitions, the source's own literature review, methodological minutiae (software, IRB category, analysis phases), decorative quotes beyond one per section, and any sentence that repeats a Key Finding.
+
+**What must survive a trim:** every distinct `[[wikilink]]` target already on the page (measure before/after: `set(re.findall(r'\[\[([^\]|]+)', body))` must not shrink — re-home dropped links into a nearby sentence rather than deleting them), the Connected lists verbatim, the Citation line, list contiguity, and the `updated` bump.
+
+**Measure before committing** (this is cheap and catches the whole class):
+```python
+import re
+raw = open('articles/<slug>.md', encoding='utf-8').read()
+body = re.split(r'^## Connected', raw.split('---', 2)[2], flags=re.M)[0]
+print(len(body.split()), 'body words')
+```
+
+Full detail belongs in `raw/papers/<slug>.md`, which is local, complete, and never has to be short. An article is a wayfinding page, not a replacement for the source.
+
 ### 11. Frontmatter checklist for a repaired page (typed metadata, no `tags`)
 The frontmatter model changed on 2026-09-17. **`tags:` is retired**: the schema in `src/content.config.ts` no longer accepts it, every page lost the line, and the page templates no longer render tag chips. A repair that leaves a `tags:` line behind, or re-adds one, fails the build. The JSON-LD keywords now come from the typed fields.
 

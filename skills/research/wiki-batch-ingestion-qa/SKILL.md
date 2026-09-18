@@ -34,3 +34,8 @@ When re-running the scanner, a reported suggestion is a FALSE POSITIVE if the ph
 ## Verification before deploy
 - All pages link-clean (no broken slugs, no same-text pipes, balanced brackets, no heading links, no leading H1).
 - `npm run build` green; `gh run list` shows Build & Verify + Deploy both `success`; live URLs return HTTP 200 (note: articles live at `/aied/articles/<slug>/`, concepts at `/aied/concepts/<slug>/`).
+
+## 10. Article length budget — check body words before accepting a page (maintainer-flagged 2026-09-18)
+
+Corpus median article body is ~556 words and the 90th percentile is ~1,525, so a page far past that is a template artefact, not richness — the maintainer flagged a 1,520-word case study as too long and detail-heavy. Hold every ingested page to ~600-900 body words (frontmatter end to `## Connected Concepts`): Synthesis 150-220 words, `## Key Findings` 5-7 items of ~25-35 words each, 3-4 prose sections of ~120-180 words. Full detail stays in `raw/papers/<slug>.md`. Before accepting a page, count the body words and trim; when trimming, assert no `[[wikilink]]` target is lost (`set(re.findall(r'\[\[[^\]|]+', body))` must not shrink) and leave the Connected lists and Citation untouched. See `wiki-article-quality` pitfall 12 for the full budget and cut list.
+
