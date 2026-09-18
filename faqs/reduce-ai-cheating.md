@@ -1,7 +1,7 @@
 ---
 title: "How Can I Reduce AI Cheating in My Course?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T06:20:00-04:00"
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
@@ -46,6 +46,8 @@ Rather than trying to prove *how* a submission was produced, occasionally ask st
 
 *Note:* this source is a practitioner account, so it is best treated as a promising practice rather than definitive causal evidence.
 
+**Verification is also what makes a misconduct process defensible.** [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] analysed actual generative AI misconduct allegation files and found that principles of natural justice require a student to be informed of the allegation and given an opportunity to respond *before* any determination; the response opportunity is typically an investigative meeting or panel interview, and whatever the student says becomes part of the evidentiary record. Their evidence categories also explain why verification has to be built into the course rather than improvised during the investigation: system-recorded behavioural traces exist only in supervised assessment, and the weaker process evidence — drafts, supervision meetings, presentations — exists only where those practices were already in place. A verification routine is process evidence you can then rely on. The rule itself has to be precise too: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions which treat speech-to-text transcription and generative drafting as the same "AI use" are over-inclusive and risk sanctioning students who did not do the prohibited thing, which is a fairness problem before it is a legal one ([[legal-issues-and-risks]]).
+
 ## 4. Scaffolded use sequences: "think first, AI second, reflect third"
 
 Rather than banning AI, teach students a structured workflow that keeps them in the cognitive loop. The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis outlines eight design principles: preserve [[desirable-difficulties|cognitive friction]], position AI as a *provisional* thinking partner (not an authority), embed evaluation checkpoints, and require [[metacognition|metacognitive]] journaling and prompt logs.
@@ -67,7 +69,7 @@ The assessment-design modeling of [[mohamed-temimi-assessment-imperfect-informat
 
 The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis ranks AI-literacy and [[prompt-engineering|prompting]] instruction as Tier-2: a [[k-12]] module using scenario-based prompt practice with an [[llm]] auto-grader improved actual prompting skills and raised confidence in using AI for learning **+10.4%**, with 87% reporting they learned to use AI responsibly.([[aaai2026-prompting-literacy-k12]]) Set clear expectations about what counts as cheating, *why* it harms learning (the [[ai-misuse-learning-harm|performance–learning gap]]), and how students can use AI productively — this addresses the "everyone is doing it" peer-norm and rationalization problems documented in [[ai-tools-academic-work-cheating-2026]] and [[student-rationalization-ai-writing]].
 
-Student surveys support that framing. Among 504 sociology students, 65% had used generative AI for coursework but only 3% to generate assignment text and 2% to generate a full draft; meanwhile 81% had received some AI guidance but only 46% found it very clear ([[student-genai-use-views-writing]]). Ambiguity, not defiance, is the practical problem — which is why the instructional-capacity side of this FAQ connects to [[ai-literacy-evidence]] and to the ranking of interventions in [[top-10-findings-ai-education-instructors]].
+Student surveys support that framing. Among 504 sociology students, 65% had used generative AI for coursework but only 3% to generate assignment text and 2% to generate a full draft; meanwhile 81% had received some AI guidance but only 46% found it very clear ([[student-genai-use-views-writing]]). Ambiguity, not defiance, is the practical problem — which is why the instructional-capacity side of this FAQ connects to [[ai-literacy-evidence]] and to the ranking of interventions in [[top-10-findings-ai-education-instructors]]. Students do not describe the tools in the same terms the policy does: [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] found the question students raise is whether generative AI is a tool that facilitates cheating or a partner that supports learning, and their account of the tension between institutional integrity rules and students' own learning needs is more useful for framing expectations than another warning about penalties.
 
 ## The bottom line
 

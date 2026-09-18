@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 stakeholders: [pedagogical-safety]
@@ -30,14 +30,17 @@ Regulation is the legal and policy layer of AI [[governance]]: it sets the bindi
 ### Regulatory landscape
 
 - **Government policy:** [[educational-policy-ai]] research examines national and regional [[ai-education|AI education]] policies.  and [[ai-lifelong-learning-policy|lifelong learning policy]] address regulatory gaps, while [[ai-uk-higher-education-policy-2026|UK AI higher-education policy]] and [[oecd-digital-education-outlook-2026|the OECD Digital Education Outlook]] situate national approaches in comparative and international perspective.
-- **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work.
+- **Institutional governance:** [[governance|AI governance frameworks]] and [[genai-policies-higher-ed-computing|institutional policy analysis]] document how universities develop internal AI rules, while [[genai-declaration-frameworks-higher-education|AI declaration frameworks]] and [[genai-assessment-governance|assessment governance]] regulate AI use in assessed work. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] finds the sector's internal rules are mostly guidance rather than binding policy — 44 of 50 innovative US universities published guidelines, principles or resource hubs while only 6 framed their principal page as a "policy" — with instructor-set syllabus rules doing the operative regulatory work in individual courses.
 - **Safety regulation:** [[pedagogical-safety]], [[child-safety-genai|child safety]], and [[eduzone-llm-safety-k12|K-12 safety frameworks]] represent de facto regulation through safety requirements.
 - **Ethics as regulation:** [[ethics]] frameworks increasingly serve regulatory functions — [[ai-ethics-education-public-discourse|public discourse on AI ethics]] shapes policy expectations, and [[league-ethical-governance-student-data-2026|ethical governance of student data]] shows how ethics principles harden into binding rules.
+- **Equalities and reasonable-adjustment law:** Over-inclusive AI rules can collide with statutory duties. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that prohibitions barring "generative AI" without distinguishing content generation from format conversion capture AI transcription tools and may engage the reasonable-adjustment duty under the UK Equality Act 2010, the US Americans with Disabilities Act and the Australian Disability Discrimination Act 1992 — making the drafting of a prohibition a regulatory question, not only an academic-integrity one (see [[legal-issues-and-risks|legal issues and risks]]).
 - **Compliance and accountability:** [[student-regulatory-awareness-genai|student regulatory awareness]] examines whether learners actually know and follow AI rules, and [[dot-framework-survey-2026|technology-adoption frameworks]] explore how regulatory and ethical concerns influence adoption decisions.
 
 ### The governance gap
 
 The knowledge base documents a persistent gap between AI deployment speed and regulatory maturity. [[institutional-change-framework-ai|Institutional change frameworks]] and regulation research argue for proactive [[governance]] rather than reactive policy. Studies of  and [[raza-farooq-aied-review-2020-2025|comprehensive AIED reviews]] highlight that regulation is uneven across jurisdictions and educational levels, creating an inconsistent operating environment for teachers, students, and developers.
+
+**The gap is one of evidence as well as timing.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] characterise one professional sector as making policy under time pressure without an evidence base to make it with: most ABA-approved US law schools took generally prohibitive positions while reserving discretion to individual instructors, and the authors report no consensus on disclosure or citation practice and only a ~15% response rate to the ABA's 2024 policy survey. Their normative response — clear guidelines whatever the stance, stakeholder involvement in drafting, and governance designed to be flexible and reviewed periodically — matches the [[crompton-governing-genai-higher-ed-delphi-2026|global Delphi consensus]], which likewise treats policy maintenance as a recurring institutional mechanism rather than a one-time task.
 
 ### Connections
 
@@ -56,6 +59,7 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[k-12]]
 - [[ai-literacy]]
 - [[trust-calibration]]
+- [[legal-issues-and-risks]] — legal exposure when regulation and governance are unclear or over-broad
 
 ## Connected Articles
 
@@ -75,3 +79,6 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
 
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
+- [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
+- [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)
+- [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions and the reasonable-adjustment duties they may engage (Wright 2026)

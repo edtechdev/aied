@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 202
+**Total concepts:** 204
 
 ## Foundations of AI in education
 
@@ -157,6 +157,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`humanities-education`** — Humanities and Social Science Education — phrases: HSS education; humanities; humanities and social science education; humanities education; liberal arts education
 - **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
 - **`language-learning`** — Language Learning — phrases: efl; english; esl; foreign language; foreign language learning; language acquisition; language education; language learning; second language; second language acquisition; SLA; tefl
+- **`legal-education`** — Legal Education — phrases: law school; law schools; law student; law students; legal education; legal pedagogy; legal training; bar examination; bar exam
 - **`math-education`** — Math Education — phrases: math education; mathematics; mathematics education
 - **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
 - **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula
@@ -295,6 +296,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`explainable-ai`** — Explainable AI — phrases: black-box model; counterfactual explanation; explainability; explainable ai; explainable artificial intelligence; explaining the system; explanation quality; feature importance; glass-box; interpretability; interpretable ai; model explanation; post-hoc explanation; transparency; transparent ai; xai
 - **`guardrails`** — Guardrails — phrases: AI guardrails; content guardrails; guardrailed tutor; guardrails; hint-not-answer; pedagogical guardrails; safety guardrails
 - **`hallucination-risk`** — Hallucination Risk — phrases: AI hallucination; hallucination; hallucination risk; hallucinations; LLM hallucination
+- **`legal-issues-and-risks`** — Legal Issues and Risks — phrases: legal risk; legal risks; legal issues; legal challenge; legal exposure; lawsuit; lawsuits; litigation; due process; natural justice; procedural fairness; wrongful accusation; false accusation; falsely accused; defamation
 - **`privacy`** — Privacy — phrases: data privacy; data protection; privacy; student privacy
 - **`trust`** — Trust — phrases: trust; trust in AI; trustworthiness
 - **`trust-calibration`** — Trust Calibration — phrases: appropriate trust; calibrated trust; over-trust; overtrust; trust calibration; miscalibration; miscalibrated trust; miscalibration of trust

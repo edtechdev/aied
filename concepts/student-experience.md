@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -49,7 +49,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Affective and well-being impacts
 
 - **Positive:** AI can offer low-pressure, on-demand help and reduce anxiety about asking questions, supporting [[well-being]] and confidence.
-- **Negative:** AI use is associated with [[ai-anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being.
+- **Negative:** AI use is associated with [[ai-anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being. Assessment conditions add their own pressure: [[harerimana-remote-proctoring-nursing-scoping-2026|a scoping review of remote proctoring in nursing assessment]] finds students anxious about connectivity and about being wrongly accused of cheating, first-time users of an invigilation app describing it as anxiety-inducing and reporting difficulty concentrating while watched, and roughly a fifth hitting browser-extension or connectivity failures despite preparatory resources.
 
 ### Identity impacts
 
@@ -60,6 +60,8 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 - **Negative:** AI enables new forms of [[academic-integrity|academic dishonesty]] (AI-generated essays, unauthorised completion), driving debates about [[reduce-ai-cheating|detection and reduction]]. This interacts with [[equity-in-ai-education|equity]]: unequal access to, and understanding of, AI tools can widen gaps between students.
 - **Positive/constructive:** AI can support [[authentic-assessment|authentic, process-oriented assessment]] and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
+
+Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement, a minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly, which some described as killing their sense of diligence and left one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "generative AI" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgement-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a pedagogical practice enacted through [[evaluative-judgement|judgement]] — annotated decision trails, verification, oral defence, version history — rather than compliance secured through surveillance.
 
 ### Social and relational impacts
 
@@ -141,3 +143,8 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[genai-decision-capability-cognitive-load-2026]] — GenAI and students' perceived decision capability (cognitive-load account)
 - [[genai-professionalization-metaphors-2026]] — GenAI conceptualizations and student professionalization
 - [[sidorkin-ai-generated-course-readings-2026]] — Students as auditors of their own AI-generated curriculum (Sidorkin 2026)
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
+- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
+- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
+- [[sharma-judgement-visible-genai-assessment-2026]] — Integrity as evaluative judgement rather than compliance
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

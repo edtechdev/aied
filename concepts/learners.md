@@ -1,7 +1,7 @@
 ---
 title: "Learners"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-09-18T03:20:00-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -41,9 +41,11 @@ The knowledge base treats learners across the full span of formal education: [[k
 
 Affect runs alongside the cognitive story: [[ai-anxiety-and-stress]] and [[well-being]] document anxiety about being outpaced, about being accused of misconduct, and about the value of the degree being pursued. Learners' mental models of AI — what they think it is and what they think it is for — are upstream of whether they use it well, which is why [[misconceptions]] and [[framing-ai-use-for-students]] appear throughout the learner-side research.
 
+Learner accounts also complicate the integrity story that frames so much learner-side policy. [[mulisa-students-genai-integrity-perspectives-2026|Interviews with 27 undergraduates at an Ethiopian university]] find near-universal GenAI use alongside a genuinely divided ethical reading — most crediting the tools with raising their achievement, a minority calling coursework use misconduct, and almost all reporting an uneven playing field in which AI users score above diligent independent workers, one describing the effect as killing their sense of diligence. The student side of misconduct procedure is thinner in the literature than the student side of use, but [[munoz-misconduct-allegation-evidence-2026|case-file analysis of 1,162 GenAI allegations]] shows what learners face when the institutional response arrives: the evidence most often cited is the weakest-rated kind, no minimum evidentiary threshold governs whether a case progresses, and students whose cases rest on thin evidence are pushed toward appeals.
+
 ## Identity, agency, and authorship
 
-Learner-side research is not only about outcomes. [[learner-identity]] asks who a learner is becoming in relation to a discipline and to AI, and the evidence runs in both directions: well-designed use can scaffold disciplinary belonging, while outsourcing can erode the sense that the work is one's own. [[agency]] asks what the learner still controls. The knowledge base treats both as genuinely at stake, not as soft adjuncts to achievement: a learner who produces correct output with an AI and no longer recognizes the reasoning behind it has lost something the grade does not record.
+Learner-side research is not only about outcomes. [[learner-identity]] asks who a learner is becoming in relation to a discipline and to AI, and the evidence runs in both directions: well-designed use can scaffold disciplinary belonging, while outsourcing can erode the sense that the work is one's own. [[agency]] asks what the learner still controls. The knowledge base treats both as genuinely at stake, not as soft adjuncts to achievement: a learner who produces correct output with an AI and no longer recognizes the reasoning behind it has lost something the grade does not record. The authorship question is where learners themselves struggle most: [[mulisa-students-genai-integrity-perspectives-2026|students interviewed about GenAI and integrity]] claimed originality because no other author existed — "If it is not my original idea, then whose?" — while others concluded the work did not represent them, and one reasoned toward recognizing the tool as a co-author it could not be, given that AI is not a person.
 
 ## Interacting with AI: what learners actually do
 
@@ -60,7 +62,7 @@ The learner-side concepts with the longest technical lineage are the ones that r
 
 ## Equity across learners
 
-Because benefits follow prior advantage, learner-side work is inseparable from [[equity-in-ai-education]]. [[digital-divide]] and access to paid model tiers shape who gets the strongest tools; [[bias-mitigation|fairness]] concerns govern how learned models treat different groups; [[inclusive-learning]], [[accessibility]], [[special-education]] and [[neurodiversity]] cover learners whose needs the default design ignores. The practical lesson from this research is that "AI helps students" is not a finding — the finding is always *which* students, under *what* conditions, with *what* prior knowledge and access.
+Because benefits follow prior advantage, learner-side work is inseparable from [[equity-in-ai-education]]. [[digital-divide]] and access to paid model tiers shape who gets the strongest tools; [[bias-mitigation|fairness]] concerns govern how learned models treat different groups; [[inclusive-learning]], [[accessibility]], [[special-education]] and [[neurodiversity]] cover learners whose needs the default design ignores. The practical lesson from this research is that "AI helps students" is not a finding — the finding is always *which* students, under *what* conditions, with *what* prior knowledge and access. Two groups carry a distinctive share of that risk. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that prohibitions written around "generative AI" rather than around function capture transcription tools that convert the format of work a learner has already authored, so the resulting false positives fall hardest on disabled learners who rely on voice-to-text and OCR, including where AI-powered OCR has replaced discontinued assistive software; [[harerimana-remote-proctoring-nursing-scoping-2026|a scoping review of remote proctoring]] makes the parallel point about assessment conditions, finding that connectivity, data cost and device failure decide who can be assessed at all — an equity finding rather than a technical one, and one concentrated in low- and middle-income settings.
 
 ## Where this page sits
 
@@ -106,3 +108,8 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 - [[demographic-signals-llm-student-assessment-2026]] — Implicit and explicit demographic signals in LLM-based assessment
 - [[ai-literacy-learning-engagement-psych-capital-2026]] — AI literacy, engagement, and psychological capital
 - [[genai-student-experiences-uk-he-survey-2026]] — Students describe the pull of least effort
+- [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
+- [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
+- [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
+- [[sharma-judgement-visible-genai-assessment-2026]] — Integrity as evaluative judgement rather than compliance
+- [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

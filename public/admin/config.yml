@@ -104,7 +104,7 @@ collections:
         label: Discipline
         widget: select
         multiple: true
-        options: [biology education, business education, chemistry education, cs education, engineering education, english education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
+        options: [biology education, business education, chemistry education, cs education, design education, engineering education, english education, humanities education, information technology, language learning, legal education, learning sciences, math education, medical education, nursing education, physics education, science education, stem education, vocational education, writing education]
         required: false
       # 'body' is stored below the frontmatter block as verbatim Markdown.
       - name: body
@@ -167,7 +167,7 @@ collections:
         label: Discipline
         widget: select
         multiple: true
-        options: [biology education, business education, chemistry education, cs education, engineering education, english education, humanities education, information technology, language learning, learning analytics, learning sciences, math education, medical education, physics education, science education, stem education, writing education]
+        options: [biology education, business education, chemistry education, cs education, design education, engineering education, english education, humanities education, information technology, language learning, legal education, learning sciences, math education, medical education, nursing education, physics education, science education, stem education, vocational education, writing education]
         required: false
       # connected_faqs must reference EXISTING FAQ pages only — enforced by a
       # relation to the faqs collection (value = FAQ slug = filename)
