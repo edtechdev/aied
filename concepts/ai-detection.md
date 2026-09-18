@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-17T09:24:00-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -46,6 +46,10 @@ Research consistently cautions against standalone reliance on detection:
 - **Notable error rates and trust erosion:** unreliable detection undermines student [[trust]] and the integrity of the assessment process.
 - **Task-dependence:** as the self-detection study shows, accuracy varies sharply by task type, so no single detector is dependable across all assessments.
 - **The integrity catch-22, quantified.** [[karr-ai-detection-humanization-2026|A controlled study of 642 published abstracts (Karr et al. 2026)]] shows the policy failure is not just conceptual but measured: guideline-compliant light AI editing is flagged at 38–80%, unmodified recent originals at 9–15% (non-STEM far above STEM), and humanizer-assisted AI text evades detection in >96% of cases. Because detectors key on surface style (long-token and academic-word density) rather than authorship intent, honest AI assistance draws sanction while deliberate humanizer evasion escapes — the authors argue detector scores should never be standalone misconduct evidence.
+
+The most recent empirical evaluations make those error rates concrete rather than generic. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge and Mesbah (2026)]] ran Turnitin and Originality over a balanced 192-text corpus of genuine EFL coursework, professional writing, AI output, and 50/50 hybrids: macro accuracy reached only 0.69 and 0.61, both fell below a macro F1 of 0.55, and both were effectively useless on the hybrid texts (Originality's sensitivity 0.02), with accuracy dropping significantly as texts lengthened and again on scientific writing, plus a borderline-significant tendency to misclassify legitimate EFL student work. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck and Spruyt (2026)]] tested four commercial tools against a ground-truth-controlled corpus of 160 master's theses: three of them (Turnitin, GPTZero, Copyleaks) failed almost completely on fully AI-generated papers, while only Pangram performed convincingly — and when applied to 1,163 genuinely submitted theses it flagged 45.5% of them, a figure the authors insist is not a prevalence rate because live submissions have no ground truth. Both studies land on the same procedural conclusion: a detector score can prompt closer review, but it is not a finding.
+
+The definitional and procedural problems sit alongside the statistical ones. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that blanket prohibitions on "AI use" are drafted around platform identity rather than function, so they capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — along with the generative drafting they mean to bar; because detectors read low-perplexity writing as machine authorship, the resulting false positives fall hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgement-visible-genai-assessment-2026|Sharma (2026)]] reaches the design-side version of the same conclusion, positioning detection as a supplementary layer of integrity infrastructure at most, since it asks whether GenAI was used rather than how decisions were made.
 
 ## Why not to use (or try to use) AI detectors
 
@@ -96,6 +100,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[bias-mitigation]]
 - [[higher-ed]]
 - [[ai-education]]
+- [[legal-issues-and-risks]]
 
 ## Connected Articles
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
@@ -114,3 +119,8 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Why detector output cannot ground a misconduct finding
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Discrimination rather than catch rate, and when monitoring backfires
+- [[hadra-ai-detector-accuracy-efl-2026]] — Turnitin and Originality on 192 texts: both below a macro F1 of 0.55 and near-useless on hybrid writing
+- [[van-vlasselaer-ai-detector-reliability-2026]] — Four detectors against 160 ground-truth papers; only Pangram performed, yet flagged 45.5% of live theses
+- [[munoz-misconduct-allegation-evidence-2026]] — Detector output is the weakest-rated evidence type in 1,162 real misconduct case files
+- [[wright-transcription-not-generation-2026]] — Blanket "AI use" rules conflate transcription with generation
+- [[sharma-judgement-visible-genai-assessment-2026]] — Detection demoted to a supplementary layer behind visible judgement

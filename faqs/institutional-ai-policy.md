@@ -1,7 +1,7 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T02:50:00-04:00"
+updated: "2026-09-18T06:20:00-04:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -59,6 +59,8 @@ Two frequently omitted provisions are staff development and equitable access. Th
 
 Budget these together and name an owner: a policy that mandates AI use without funding devices, connectivity, accommodations or training has assigned an obligation it cannot support.
 
+**Two recent policy studies give you an audit instrument and a warning about support.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] scored institutional policies on five dimensions with explicit rubrics — prohibitiveness, permissiveness, educational integration, transparency and accountability, and depth — and found most institutions in their sector taking generally prohibitive positions while reserving discretion to individual instructors, no single accepted approach, and clarity itself treated as the precondition for defensible enforcement. Their recommendation is deliberately procedural: comprehensive guidelines whatever your stance, stakeholders involved in drafting, proactive training, governance designed to be flexible, and review cycles, on the view that policy generation is not a one-time event. [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] reaches the same structural point from the support side: what distinguishes institutions is not the rule alone but the support ecosystem published alongside it — faculty development, student guidance, assessment support and governance structures that make the policy operational. Read your draft as a support commitment with rules attached, not the reverse.
+
 ## Four objections you will hear
 
 ### "We already have an academic integrity policy."
@@ -76,6 +78,8 @@ They will respond to it anyway, which is the more useful fact. [[ai-adaptation-g
 ### "We cannot police it."
 
 You cannot, and the evidence says you do not have to. Ogbo et al. offer the one formal result in this corpus — policy pronouncements alone leave opportunistic practice intact when assessment incentives are misaligned — so the lever is design, not detection. Braun and Khafizov's strongest measured driver is perceived usefulness, not policy clarity, so a policy that makes responsible use useful to students travels further than one that threatens detection. Where you do enforce, keep it narrow and procedural: defined prohibited uses, disclosure rules students can follow, and the human-review and oral-assessment practices half the Delphi panel endorsed. Your real exposure is the translation gap, not student evasion — 92% of syllabi gave explicit guidelines while 50% prohibited GenAI outright, against 63% of institutional policies that encouraged it. The inconsistency students meet is between your policy and your own courses.
+
+Where enforcement fails, it is more often an evidence problem than a detection one, and that is where institutional exposure sits. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] documenting real allegation files found the evidentiary base thinner than policy implies: system-recorded traces exist only in supervised assessment, process evidence (drafts, supervision meetings, presentations) exists only where those practices were already required, and natural justice requires the student to be told the allegation and given a chance to respond before any determination. Detector output cannot substitute for that: [[hadra-ai-detector-accuracy-efl-2026|Hadra et al. (2026)]] measured accuracy of 0.69 and 0.61 for two widely used commercial tools, both failing on hybrid human-AI text and with a borderline misclassification risk for EFL student writing, and [[bassett-ai-detectors-education-2026|Bassett et al.]] show no threshold resolves the tradeoff between flagging honest work and missing concealed use. A finding that rests on a score nobody can interrogate is the case that generates the appeal, the complaint and occasionally the claim. Write the evidence standard into the policy, ban standalone detector evidence, and link the procedure to the obligations on [[legal-issues-and-risks]].
 
 ## What the evidence cannot yet tell you
 

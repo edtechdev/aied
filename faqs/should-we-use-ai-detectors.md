@@ -1,11 +1,11 @@
 ---
 title: "Should We Use AI Detectors?"
 created: "2026-09-17T09:21:00-04:00"
-updated: "2026-09-17T09:21:00-04:00"
+updated: "2026-09-18T06:05:00-04:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
-ethics: [equity-in-ai-education, trust]
+ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
 ---
@@ -72,11 +72,25 @@ If you sit in a hearing, this is the section that matters.
 - **Fund the alternative.** The documented faculty complaint is "suspicion without recourse," so the budget line that matters is verification capacity and guidance, not a detection license.([[best-response-student-ai-dialog-2026]])
 - **Ask for error rates in writing, then try to validate them locally.** If the advertised rate cannot be reproduced on your own submissions — as Vanderbilt found — that is your answer.([[teichmann-detecting-undetectable-misconduct-2026]])
 
+## 7. The legal risk when a student is wrongly accused
+
+A detector score that becomes an accusation is where this stops being a teaching question. Institutions are not exposed because someone was accused, but because of how the accusation was built and handled, and the exposure usually surfaces first as an internal appeal or a regulator complaint rather than a lawsuit filed in court.
+
+- **The procedure is the first thing tested.** Principles of natural justice require that a student be informed of the allegation and given an opportunity to respond *before* any determination is made, obligations codified in regulatory standards as well as in sound academic integrity policy; the response opportunity is typically an investigative meeting or panel interview, and whatever the student says becomes part of the evidentiary record. A finding reached without that step is vulnerable regardless of whether the underlying suspicion was reasonable.([[munoz-misconduct-allegation-evidence-2026]])
+- **The evidence standard is the second.** Misconduct findings require evidence meeting the balance of probabilities, and detector output does not get there on its own: the scores cannot be validated against ground truth in real submissions, the tools cannot be interrogated about how a given verdict was reached, and a student cannot cross-examine a number. If your case cannot be stated without the detector score, the case is weak on its face.([[bassett-ai-detectors-education-2026]])
+- **Patterned error turns a technical defect into a fairness and equality problem.** Detector error is not random: the strongest evidence in the knowledge base shows flagging concentrated on non-native English writing and on one discipline's prose conventions over another's, with measured accuracy of 0.69 and 0.61 for two widely used commercial tools and both of them failing on hybrid human-AI text. A finding built on an instrument that misclassifies by language background is a finding that invites a discrimination argument.([[hadra-ai-detector-accuracy-efl-2026]])([[van-vlasselaer-ai-detector-reliability-2026]])
+- **Blanket "AI use" bans can remove an accommodation.** Rules that do not separate transcription and OCR from generative drafting may criminalise the assistive tools students with conditions affecting motor control, handwriting legibility or typing accuracy rely on, several of which have been discontinued with AI transcription filling the gap. Over-inclusive policy is a legal exposure, not just an imprecise one.([[wright-transcription-not-generation-2026]])
+- **The data is your liability.** Detectors store student work on third-party servers, sometimes overseas under weaker [[privacy]] protections, which puts breach, retention and onward commercial use inside your institution's risk register rather than the vendor's marketing.([[bassett-ai-detectors-education-2026]])
+- **Vendor claims will not protect you.** A licensed detector advertising a 1% false-positive rate failed validation when the university tried to reproduce it, implying roughly 750 mislabelled students among 75,000 annual submissions; that institution disabled the tool. The claim in the contract does not transfer the risk in the hearing.([[teichmann-detecting-undetectable-misconduct-2026]])
+
+What lowers the risk is procedural rather than technical: never treat detector output as standalone evidence or an automatic trigger; document the evidence standard your process applies; give notice and a genuine opportunity to respond on the record; offer an oral verification route when the case rests on style alone; put retention, training-use and breach terms in procurement; write policy scope so that [[assistive-technology|assistive]] and transcription tools are explicitly addressed; and keep the audit trail that shows all of it happened. The knowledge base's account of the legal exposure itself is in [[legal-issues-and-risks]], and it is honest about its limits: it documents procedures, evidence categories and instrument reliability, not litigated outcomes.
+
 ## How this page differs from the neighboring FAQs
 
 - [[reduce-ai-cheating|How Can I Reduce AI Cheating in My Course?]] is the instructor's design playbook: guardrailed tools, assessment redesign, verification, declarations, [[ai-literacy|AI literacy]]. This page answers the narrower prior question of whether detector output can be used at all.
 - [[redesign-assessment-ai-era]] covers assessment redesign in depth; this page only points to the redesign moves that specifically replace detection.
 - [[course-ai-policy]] covers writing and communicating a course policy; section 6 here covers the detection-specific clauses an [[educational-policy-ai|institutional policy]] needs.
+- [[legal-issues-and-risks]] is the concept page behind section 7, covering wrongful accusation, surveillance, accessibility and data-protection exposure together.
 
 ## The bottom line
 
