@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1277 | Concepts: 204 | FAQs: 32
+Articles: 1277 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -1166,6 +1166,7 @@ Articles: 1277 | Concepts: 204 | FAQs: 32
 - [[rethinking-ai-writing-feedback-literacy]] — Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development
 - [[rethinking-scaffolding-llm-tutors]] — Rethinking Scaffolding in LLM Tutors: The Interactional Mismatch Between Benchmarks and Real-World Deployments
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
+- [[retrieval-spacing-interleaving]] — Retrieval, Spacing and Interleaving
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the Curriculum: A Systematic Review of Generative AI-Driven Pedagogical Change and Emerging Systems of Learning in Higher Education
 - [[rhaimi-productivemath-2025]] — ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher Involvement in Developing Sustainable Education Materials for AI Integration in Green Energy Education

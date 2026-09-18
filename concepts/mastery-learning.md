@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-11T13:20:00-04:00"
+updated: "2026-09-18T12:02:23-04:00"
 ---
 
 > **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
@@ -53,6 +53,7 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 - [[self-regulated-learning]]
 - [[formative-assessment]]
 - [[desirable-difficulties]]
+- [[retrieval-spacing-interleaving]] — retrieval and spacing as the practice engine inside mastery cycles
 
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
