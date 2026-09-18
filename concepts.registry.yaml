@@ -1025,6 +1025,36 @@ concepts:
     - mastery-based progression
     - retrieval practice
     - spaced practice
+  legal-education:
+    title: Legal Education
+    aliases:
+    - law school
+    - law schools
+    - law student
+    - law students
+    - legal education
+    - legal pedagogy
+    - legal training
+    - bar examination
+    - bar exam
+  legal-issues-and-risks:
+    title: Legal Issues and Risks
+    aliases:
+    - legal risk
+    - legal risks
+    - legal issues
+    - legal challenge
+    - legal exposure
+    - lawsuit
+    - lawsuits
+    - litigation
+    - due process
+    - natural justice
+    - procedural fairness
+    - wrongful accusation
+    - false accusation
+    - falsely accused
+    - defamation
   math-education:
     title: Math Education
     aliases:
@@ -1982,6 +2012,7 @@ sections:
     - design-education
     - medical-education
     - nursing-education
+    - legal-education
     - information-technology
   - label: Research fields
     items:
@@ -2098,6 +2129,7 @@ sections:
     items:
     - ethics
     - ai-misuse-learning-harm
+    - legal-issues-and-risks
     - ai-use-disclosure
     - guardrails
     - privacy

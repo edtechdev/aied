@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -39,6 +39,8 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 
 **Policy and accommodations for students with disabilities.** **[[shin-ai-policies-sld-2026|Shin et al.]]** analyze U.S. AI policy documents to reveal a void in guidance for students with specific learning disabilities, proposing accommodations and [[educational-policy-ai|policy]] recommendations grounded in the [[assistive-technology|Assistive Technology]] Act and IDEA. **[[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al.]]** meta-analyze 29 studies of AI-based interventions for students with disabilities, finding a medium positive effect on [[learning-gains|learning outcomes]] (g = 0.588) — and argue AI must do more than ensure accessibility: it must enable [[agency|agentic]] participation.
 
+**Over-inclusive AI prohibitions and assistive transcription.** **[[wright-transcription-not-generation-2026|Wright (2026)]]** argues that blanket prohibitions on "AI use" are over-inclusive because they fail to distinguish speech-to-text transcription and OCR from generative drafting: recognition technologies convert the format of content the student has already authored rather than producing new content, yet a policy written around platform identity captures both alike. Students with conditions affecting fine motor control, handwriting legibility or typing accuracy — including autism spectrum conditions, dyspraxia, cerebral palsy and repetitive strain injuries — have relied on standalone voice-to-text and OCR, and reports suggest several standalone voice-to-text products have been discontinued or degraded, leaving AI-powered transcription to fill the functional gap. Treating that substitution as misconduct raises fairness concerns under the reasonable-adjustment duty in the UK Equality Act 2010, the anticipatory Public Sector Equality Duty, the US Americans with Disabilities Act and the Australian Disability Discrimination Act 1992, though the paper does not claim the characterisation has been tested in a tribunal. It notes that the intersection of disability, assistive technology and AI misconduct policy is underexplored, that the scale of this displacement is unmeasured, and that the same imprecision produces differential false-positive risk, since detectors read the low-perplexity text of non-native English writers as machine authorship. The legal exposure this over-inclusion creates is mapped on [[legal-issues-and-risks]].
+
 **AI for dyslexia: detection, support, and [[personalized-learning|personalized learning]].** A 2026 interdisciplinary [[meta-analysis-systematic-review|systematic review]] (Dabaghi, D'Urso & Sciarrone, PRISMA-guided, 2018–2024, n=72) finds AI supporting students with dyslexia across detection, assistive support, and personalized learning — but with these strands evolving in parallel rather than in integration, driven more by technological opportunity than by consolidated educational theory. ML-based help-education tools span five areas (specific applications, engagement, personalization, recommendation, generic support) yet emphasize technical performance and classification accuracy while overlooking ecological validity and practical classroom deployment. Detection research (EEG, eye-tracking, ML models) shows diagnostic promise for early intervention but often requires specialized equipment and controlled environments, limiting scalability and accessibility in typical school settings. Open challenges include limited experimental validation, scalability, [[ethics]]/privacy concerns with sensitive student data, limited [[teacher-role|teacher]] support and training, and language/cultural barriers (most research targets English-speaking populations) — reinforcing that accessibility must be validated, scalable, and ethically grounded, not merely technically demonstrated.
 
 **The limits of accessibility alone.** **[[genai-minoritized-knowledges-disability|Critical work]]** warns that AI trained on Anglophone, Western-centric data can marginalize disability-centered ways of knowing. Accessible formats do not guarantee inclusive or just instruction — reinforcing that accessibility is necessary but not sufficient, and must connect to [[equity-in-ai-education]].
@@ -68,6 +70,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[agency]]
 - [[virtual-and-augmented-reality]] — headsets, motion sickness and device access decide who can use it
 - [[speech-and-voice-technologies]]
+- [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
@@ -86,3 +89,4 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI prohibitions and the assistive tools they capture

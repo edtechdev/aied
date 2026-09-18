@@ -30,6 +30,7 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'humanities education': 'humanities-education',
     'information technology': 'information-technology',
     'language learning': 'language-learning',
+    'legal education': 'legal-education',
     'learning sciences': 'learning-sciences',
     'math education': 'math-education',
     'medical education': 'medical-education',

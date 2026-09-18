@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-18T06:30:00-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -43,6 +43,7 @@ Disclosure is the mechanism that makes AI-assisted work *visible* and therefore 
 - **Disclosure has psychological costs — and hidden costs.** Students view declarations as self-incrimination, and some believe AI use is private like using a calculator. [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] found students who "always" disclosed had over 3× the odds of being accused — transparency can invite suspicion. [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] found worry redirects disclosure toward peers rather than suppressing it, cutting students off from instructor feedback.
 - **Disclosure is entangled with self-regulated learning.** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] interpret teacher-directed disclosure as adaptive help-seeking — making assistance visible and inviting external calibration — while concealment (especially among heavy AI users) resembles maladaptive regulation. Structured, formative disclosure can promote the [[metacognition|metacognitive]] reflection and ethical reasoning that characterize effective self-regulation.
 - **Disclosure norms vary by discipline, language, and context.** Education, social-science, and [[stem-education|STEM]]/Health students disclose more than Business students; monolingual students may disclose less than [[multilingual-learning|multilingual]] students. International students in one study disclosed less, raising [[equity-in-ai-education|equity]] concerns. Disclosure norms do not develop automatically with academic progression.
+- **Disclosure norms are unsettled in professional programmes.** [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] report that ABA-approved US law schools disagree about whether any use of AI must be disclosed, describe student disclosure forms filed with instructors, and find no consensus on how scholarly or class writing should cite AI — the Bluebook itself remains silent. They also predict that disclosure will eventually look as pointless as noting that a student used a search engine, a caution about the shelf life of the rules being written now, and they ground the norms question in [[legal-education]].
 
 ### Disclosure is not a detection mechanism
 
@@ -51,6 +52,8 @@ A recurring institutional error is to treat declarations as a way to catch prohi
 The modeling work of [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supplies the condition under which disclosure works, expressed as a design threshold rather than a hope: disclosed use beats hidden use only when the [[academic-integrity|cost of honesty]] stays below the deterrent it buys. Because that bound rises with detection credibility, detection and disclosure safety reinforce each other — but only if the false-positive risk of being flagged falls on honest and dishonest responses alike, in which case honesty keeps its comparative protection. Their design implication is direct: treat a declared AI use as context rather than a confession, which keeps the cost of honesty low precisely in the settings where monitoring is strongest, and read disclosure as a demonstration of [[evaluative-judgement|evaluative judgment]] rather than an admission. Permission and disclosure are separate levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — and success at one says nothing about the other.
 
 [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] offers a suggestive test of the disclosure effect itself. The same course ran a blinded study (AlGhamdi 2024) and a transparent one, and only the transparent cohort explicitly bounded AI's role and questioned evaluative authority. Because the cohorts and years differ, the author calls the contrast suggestive rather than causal, but argues that disclosure operated as an instructional prompt rather than a disclaimer — transforming feedback from a taken-for-granted act into an object of reflection, with no sign of disengagement or resistance.
+
+Surveying the GenAI guidance of the 50 US universities ranked most innovative, [[qian-governing-genai-higher-ed-policy-2026|Qian (2026)]] locates disclosure at the boundary between assistance and misrepresentation: where AI is permitted, institutions instruct students to acknowledge, cite or otherwise document AI assistance rather than present outputs as entirely their own, with libraries — not integrity offices — holding authority over citation and provenance standards. MIT Libraries' framing that AI is not an author, leaving authors responsible for documenting how tools contributed, exemplifies the pattern, and Qian reads disclosure simultaneously as an integrity norm, a design principle that reduces ambiguity before submission, and one of four integrity pillars alongside accountability, [[equity-in-ai-education|equity]] and [[privacy]]. This is the same non-forensic use the section describes, and it is why Qian recommends institutionalising libraries as the citation authority rather than expanding detection.
 
 ## Designing effective disclosure
 
@@ -95,3 +98,5 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[qian-governing-genai-higher-ed-policy-2026]] — Disclosure as the boundary between assistance and misrepresentation across 50 innovative US universities (Qian 2026)
+- [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)

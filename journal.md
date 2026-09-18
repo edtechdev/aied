@@ -1,9 +1,22 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1444
+Last updated: 2026-09-18 | Total entries: 1457
 
 ## 2026-09-18
+- 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
+- 📄 [[dabkowski-nursing-academics-genai-2026]] — 'Co-pilot won't teach you to be a nurse': Nursing academics' perspectives on GenAI use in undergraduate education
+- 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education
+- 📄 [[hadra-ai-detector-accuracy-efl-2026]] — Evaluating the accuracy and reliability of AI content detectors in academic contexts
+- 📄 [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review
 - 📘 [[learners]] — Learners
+- 📘 [[legal-education]] — Legal Education
+- 📘 [[legal-issues-and-risks]] — Legal Issues and Risks
+- 📄 [[mulisa-students-genai-integrity-perspectives-2026]] — Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students’ perspectives
+- 📄 [[munoz-misconduct-allegation-evidence-2026]] — How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis
+- 📄 [[qian-governing-genai-higher-ed-policy-2026]] — Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities
+- 📄 [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
+- 📄 [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
+- 📄 [[wright-transcription-not-generation-2026]] — Transcription is not generation: Distinguishing non-generative AI tool use from academic misconduct in higher education assessment
 
 ## 2026-09-17
 - 📄 [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: A comparative evaluation of AI-rated scores in classroom observations
