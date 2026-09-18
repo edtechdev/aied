@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -88,3 +88,4 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported inquiry-based learning and creative mathematical performance
 - [[flowcode-ai-creative-coding]] — Flowcode: an AI-powered environment scaffolding iteration in creative computing
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: trivalence model of potential co-creativity in socio-technical networks
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: scoring divergent-thinking responses with LLMs, and where it breaks down

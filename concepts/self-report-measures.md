@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -151,3 +151,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[student-genai-use-views-writing|Student use of and views on GenAI for writing]] — Survey plus interviews in one sociology department
 - [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: a validated self-report measure of motivations for AI use in reading

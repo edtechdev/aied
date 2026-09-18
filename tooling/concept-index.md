@@ -68,7 +68,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`cognitive-psychology`** — Cognitive Psychology — phrases: attention; cognitive processing; cognitive psychology; cognitive science; human cognition; memory; working memory
 - **`community-of-inquiry`** — Community of Inquiry — phrases: cognitive presence; coi; community of inquiry; community of inquiry framework; social presence; teaching presence
 - **`constructivist`** — Constructivism — phrases: constructionism; constructivism; constructivist; constructivist learning; constructivist theory
-- **`desirable-difficulties`** — Desirable Difficulties — phrases: cognitive friction; desirable difficulties; desirable difficulty; productive friction; productive struggle
+- **`desirable-difficulties`** — Desirable Difficulties — phrases: cognitive friction; retrieval practice; spaced practice; spacing effect; desirable difficulties; desirable difficulty; productive friction; productive struggle
 - **`distributed-cognition`** — Distributed Cognition — phrases: distributed cognition; distributed intelligence; extended cognition
 - **`embodied-learning`** — Embodied Learning — phrases: body-based learning; embodied; embodied cognition; embodied learning; embodiment; gesture-based learning
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
@@ -89,7 +89,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`creativity`** — Creativity — phrases: creative; creative skills; creative thinking; creativity; divergent thinking
 - **`help-seeking`** — Help-Seeking — phrases: help avoidance; help seeking; help seeking behavior; help-seeking; hint seeking
-- **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; mastery-based progression; retrieval practice; spaced practice
+- **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; mastery-based progression
 - **`problem-solving`** — Problem Solving — phrases: collaborative problem solving; computational problem solving; creative problem solving; problem solving; problem-solving
 - **`social-emotional-learning`** — Social-Emotional Learning — phrases: emotional learning; sel; social emotional; social emotional learning; social-emotional learning
 - **`student-ai-interaction`** — Student-AI Interaction — phrases: ai interaction; interactions with AI; learner-AI interaction; student ai interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; student-ai interaction

@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -97,3 +97,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
+- [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: four motive families for reaching for AI while reading

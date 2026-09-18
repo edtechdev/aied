@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T07:48:05-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -120,3 +120,4 @@ Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-202
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[sidorkin-ai-generated-course-readings-2026]] — Comprehension prompts as a scaffold dial in AI-generated course readings (Sidorkin 2026)
 - [[ai-literacy-tool-design-programming-education-2026]] — A hint-budgeted AI Study Coach: scaffolded vs unrestricted GenAI use, and why the constraint alone did not produce learning (Azimi 2026)
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: scaffolding reframed as deciding which sub-zone a task belongs to

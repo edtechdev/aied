@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T02:58:14-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -119,6 +119,8 @@ A complementary strand measures how learners and teachers receive AI literacy *m
 Measurement also extends to the educators who mediate learners' engagement with AI. Most AI-literacy assessments target students or general users, leaving a gap in [[teacher-education|teacher]] education — a gap the [[language-teachers-ai-literacy-edai-2026|Teachers' AI Literacy Scale (TAILS)]] addresses: grounded in the ED-AI framework with six dimensions (knowledge, evaluation, collaboration, contextualization, autonomy, and ethics), it was validated through exploratory and confirmatory factor analysis with [[language-learning|preservice language teachers]]. Such instruments support measuring and developing the AI literacy of the educators who mediate learners' engagement with AI. On the student side, [[genai-assessment-literacy-scale-2026|Nie et al. (2026)]] develop and validate a Generative AI Assessment Literacy Scale (GAA-LS) for higher-education students — an 18-item, five-factor instrument whose scores track [[feedback]] engagement, [[academic-integrity]], and responsible AI use, with an indirect path to integrity running through feedback — evidence that assessment-specific AI literacy is measurable and ties to integrity behavior.
 
 The 2026 update of that measurement literature reorganises it into four domains — knowledge and use, epistemic oversight, reliance calibration, and operational control of tool-using agents — and reports that no validated individual-level instrument in the corpus covers the full combination of scope, permissions, recovery, state isolation, independent review and evidence-based closure that [[agentic-ai|agentic]] tool use demands. Its pooled subjective–objective correlation across three same-sample effects was r = .055, consistent with the divergence described above rather than with self-ratings as a usable proxy ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
+
+**The measurement landscape is itself disordered, and now partly mappable.** [[ai-literacy-measurement-conceptual-landscape-llm-2026|He, Zhang, Wang and Ji (2026)]] analysed the AI literacy instrument corpus with an LLM-based coding pipeline and found the field measuring many constructs under one label — a jangle problem, with one construct carrying several names (Behavioural Commitment appears in eight candidate pairs, Intrinsic Motivation in five), alongside candidate jingle cases where instruments share a label but not their item content. Their semantic-similarity recovery of item and construct structure correlated only moderately with instruments' own reported reliabilities (r = 0.49 at item level against 0.45 and 0.35 at construct level), and they offer the method as screening rather than adjudication. The consequence for anyone selecting a measure is that convergent claims across studies are not safe to assume: two instruments with the same name may not operationalise the same construct.
 
 ### Connections across the knowledge base
 
@@ -238,3 +240,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
 - [[ai-literacy-warning-political-persuasion-2026]] — A one-paragraph AI literacy warning halves AI political persuasion without lowering trust (Orchinik & Rand 2026)
 - [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: scaffolded vs unrestricted GenAI in programming education (Azimi 2026)
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Mapping the AI literacy instrument corpus: 55 constructs, jangle and jingle pairs, LLM-based coding
