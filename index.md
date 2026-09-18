@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1274 | Concepts: 204 | FAQs: 32
+Articles: 1272 | Concepts: 204 | FAQs: 32
 
 ## Concepts
 
@@ -145,7 +145,6 @@ Articles: 1274 | Concepts: 204 | FAQs: 32
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[ai-making-us-stupid]] — Is AI making us stupid?
 - [[ai-mediated-cognitive-divergence-2026]] — AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study
-- [[ai-medical-english-speech-recognition-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
 - [[ai-misuse-learning-harm]] — AI Misuse and Learning Harm
 - [[ai-modelling-problem-generation-platform-2026]] — Creating an AI-Powered Platform for Generating Modelling Problems
@@ -667,7 +666,6 @@ Articles: 1274 | Concepts: 204 | FAQs: 32
 - [[gpt4-feedback-student-activation-2026]] — GPT-4 feedback increases student activation and learning outcomes in higher education
 - [[gpt4o-mini-music-analysis-scoring]] — Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias
 - [[graph-its-adaptive-algorithms-2026]] — Intelligent Tutoring in Dynamic Domains: A Graph-Based System for Comparative Analysis of Adaptive Algorithms
-- [[grecaptcha-research-authorship-verification-2026]] — greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI
 - [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education
 - [[group-work]] — Group Work
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education: High-Achieving Students, Successful-Student Identity and Epistemic Agency
