@@ -1,7 +1,7 @@
 ---
 title: "How Should I Incorporate AI Literacy into My Course?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T09:10:00-04:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
@@ -45,6 +45,8 @@ Importantly, the evidence supports cognitively [[active-learning|active]] and [[
 The knowledge base highlights a significant mismatch between self-reported and performance-based AI literacy and recommends performance-based assessment. See [[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]] and [[jin-glat-genai-literacy-assessment|GLAT: The Generative AI Literacy Assessment Test]].
 
 This matters because unsupervised use defaults to the weakest form. Yan et al.'s presage–process–product study of 38 undergraduates found that **76.32%** relied on a single-turn ask–get answer–stop pattern, **78.94%** integrated generative AI only before starting or after drafting, and even mastery-oriented students defaulted to surface processes — an *efficiency paradox* in which speed is gained at the cost of the cognitive work that builds schemas ("the speed at which you forget it is also very fast"). The authors locate the cause in an "institutional vacuum": instructors prohibit copying but rarely teach productive use. Requiring process artifacts — the dialogue history, a reflection note on how AI was used, a revision log — makes the workflow visible and turns [[self-regulated-learning|self-regulation]] into something gradeable. See [[yan-cognitive-outsourcing-genai-assessments-2026|From cognitive outsourcing to reallocation: a 3P analysis of student–generative AI engagement in unsupervised assessments]].
+
+**Scenario-based measurement gives you a judgement measure rather than a confidence measure.** [[reed-ai-literacy-ethical-judgment-scenarios-2026|Reed et al. (2026)]] put vignettes to undergraduates — using AI to improve grammar in one's own draft, generating search terms before doing the reading oneself, submitting an AI-generated reflection journal without personal input, minimally editing a generated assignment — and asked whether each was ethical. The pattern they report is that students converge on the clear cases and diverge most where the tool did part of the intellectual work, which is exactly the boundary a course policy has to state. That makes vignettes a usable classroom instrument: they surface the disagreements your policy is silently relying on, and they measure judgement about a case rather than self-reported proficiency.
 
 ## Issues and cautions
 

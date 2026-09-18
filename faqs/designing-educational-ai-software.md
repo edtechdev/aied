@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices and Tips for Designing Effective Educational AI Software?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-18T09:10:00-04:00"
 weight: 64
 foundations: [learning-design]
 stakeholders: [pedagogical-safety]
@@ -54,3 +54,6 @@ Two further studies extend this. [[ko-hughes-vsd-student-centered-its-2026|Ko an
 Grounding is an architectural decision, not a prompt. [[eduguard-safe-rag-llm-tutor|EduGuard]], a safe [[rag|retrieval-augmented]] tutor for [[cs-education|introductory programming]], pairs instructor-approved course retrieval with an architecturally separate claim verifier, explicit [[cognitive-offloading|over-reliance]] control, and a 600-query instructor-authored benchmark spanning misconceptions, debugging, code-mixed queries, and adversarial direct-answer prompts — improving on GPT-4o-mini and Llama [[socratic-method|Socratic]] tutor baselines. For designers this is the concrete shape of "ground responses in instructor-approved content": separate the components that verify from the components that converse, and test against cases that actively try to extract answers. See [[hallucination-risk|hallucination risk]].
 
 For how these design principles translate into a built tutor — diagnosis, hint ladders, feedback, and evaluation — see [[developing-ai-tutor]]; for the pedagogical defaults that decide whether a well-built tool is used well, see [[designing-ai-into-learning]].
+
+**Treat the student's submission as untrusted input to any AI grader.** The threat model that most design advice omits is adversarial content inside the artefact being assessed. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026) adversarial red-team evaluation]] tested whether students could manipulate an LLM-based grading system through prompt injection embedded in their submissions, and found the manipulation works: injections that instruct, reframe or role-play the grader shift the score without changing the work. The design consequences follow from the same separation principle as the verification architecture above — keep the grading rubric and instructions outside the student-controlled context window, strip or flag instruction-like content in submissions, never let a submission establish its own criteria, and keep a human decision on any consequential grade. An AI grader that reads its instructions from the same text it is judging has handed the rubric to the candidate.
+

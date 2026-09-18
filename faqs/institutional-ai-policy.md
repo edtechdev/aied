@@ -1,7 +1,7 @@
 ---
 title: "How Do We Write and Implement an Institutional AI Policy?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-18T06:20:00-04:00"
+updated: "2026-09-18T09:10:00-04:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -40,6 +40,8 @@ So decide who chairs this and who sits on it before you draft. [[crompton-govern
 One participation decision is worth making deliberately. [[guided-inquiry-genai-course-policy-2026|Hingle and Johri (2026)]] had students co-design a GenAI course policy through guided inquiry; the priorities that emerged were training for students and instructors, standardized disclosure procedures, stronger institutional support rather than reliance on individual instructors, and a role in decisions about the rules governing their own learning — which argues for student membership on the committee rather than a consultation round. Baroudi found empowering and distributive leadership styles associated with higher faculty engagement and openness to change, and documented [[change-management]] machinery (Valente's contagion model, Rieber and Welliver's five-stage framework) as the support for adoption. Leadership style, on this evidence, is part of the policy.
 
 [[tan-aigem-ai-educational-management-2026|Tan et al. (2026)]] offer a six-dimension organizational framework whose propositions are explicitly left for future empirical validation. It is a checklist of what a policy should cover, not evidence of what works — useful for structure, over-claiming if cited as proof.
+
+**The gap in practice is between individual rules and institutional ones.** [[watson-rainie-ai-challenge-faculty-survey-2026|The AAC&U/Elon survey of 1,057 US faculty (Watson and Rainie 2026)]] found **87%** had created their own policies for students on generative AI use, while only **48%** said their institution had written such guidelines and **35%** said their department had. Structurally, 55% reported a task force or oversight group, 37% new AI-focused classes, 17% an AI major or minor, 16% new academic leadership offices, and only **13%** had adopted AI literacy as a general education learning outcome. The sample is non-scientific and the authors say it is not generalisable, but the asymmetry is the point: the rules students actually meet are written by the instructor in front of them, which is why translation into courses matters more than publication. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] supply the governance instrument for the opposite end — an academic integrity indicator framework built for institutional governors through research reviews, multi-institutional case studies, prototyping and expert confirmation, together with reforms to governance architectures, people and technologies.
 
 ## Decide fourth: where data, privacy and consent obligations live
 

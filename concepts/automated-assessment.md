@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T09:00:00-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -63,6 +63,7 @@ A central design goal within automated assessment is **confidence awareness**: A
 - **Difficulty and response-time calibration:** [[llm-difficulty-calibration-programming-exams-2026|Programming-exam difficulty calibration]] repositions LLMs as auxiliary evidence sources whose difficulty estimates correlate with student pass rates.
 - **Trait-adaptive essay scoring:** [[psyscore-essay-scoring-zpd-feedback|PsyScore]] shows a psychometrically-aware framework can adapt essay feedback to learner traits.
 - **Evaluating visual student work:** [[diagramir-educational-math-diagram-evaluation|DiagramIR]] back-translates LLM-generated math diagrams (TikZ) into an intermediate representation with deterministic checks, beating LLM-as-a-Judge on agreement with human raters and letting small models match large ones at ~10× lower cost — a scalable route to assessing non-text, diagrammatic student output.
+- **Trust-gated inference in automated teacher assessment:** [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang & Fang (2025)]] place Monte Carlo dropout calibration directly in the scoring path, so that dropout variance above a learned threshold triggers a reject-and-refer output rather than a score, alongside adversarial debiasing that holds the fairness gap to 1.8% where baselines sit in the 6.4–8.2% range and an expected calibration error of 0.032 on TeacherEval-2023. Their ablation is the calibration argument in miniature: removing the trust-gated module drops inter-rater consistency to 78.6%, and the authors attribute a 41% reduction in human review workload to the gating — uncertainty handling as architecture rather than post-hoc reporting.
 - **[[explainable-ai|Explainability]] of rubric-based scoring:** [[shap-llm-rationales-teaching-quality-assessment|Bueno et al.]] show that model-agnostic SHAP attributions are more faithful and transferable than LLM-generated rationales for explaining rubric-based scores (e.g., classroom feedback quality), and propose deletion-based + cross-model tests as a principled way to evaluate any scoring model's explanations.
 
 **Why calibrated confidence matters:**
@@ -87,6 +88,10 @@ Three requirements follow for any of them. Because alignment is model- and insti
 
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] supplies the criteria those requirements presuppose, arguing that what makes automation defensible is the *epistemic status* of the task rather than what the technology can technically perform. His framework limits AI to bounded verification of factual and procedural claims — all four of unambiguous documented criteria, direct comparison against established knowledge, no assessment of alternative valid approaches, and a single correct answer or pre-specified acceptable set must hold simultaneously, with ambiguity escalating to a human by default — and makes AI involvement at that level conditional on five non-negotiable principles that must all hold at once: the knowledge base must be assessor-curated and retrieval-grounded in module materials rather than the model's parametric knowledge; human assessors review every AI output before it reaches students and hold absolute override with unshared accountability; feedback must carry clear provenance and attribution; and security must be designed against adversarial use from the start, with input sanitisation for instructions hidden in white or small text, encodings, images or document metadata, since successful circumvention of an automated system spreads through student cohorts. The same paper is explicit that its principles are untested for simultaneous feasibility and that assessor time for curation, security infrastructure and high-frequency oversight may shift staff effort rather than reduce it — a caution that sits alongside the local-validation requirement above.
+
+### Security of AI-mediated grading
+
+A red-team evaluation of an everyday grading workflow shows the attack surface that planning for adversarial use has to cover. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] embedded five indirect prompt injections inside a synthetic essay that Microsoft Copilot (GPT-5.2) had graded fail in six of six baseline runs, iterating each across docx, pdf and htm files. Two strategies changed the grade with no visible warning — an instruction-manipulation and role-playing paragraph at 9 of 9 iterations (100%) and the same paragraph hidden behind an image layer at 17 of 18 (94%) — while a paragraph in small white text at the end of the document failed in all nine iterations, and file-metadata injections never worked, which the author attributes to metadata access being disabled in the version tested. The trust problem outlasted the exploits: after one pdf run detected an embedded instruction and stated it would grade only against the official assignment, re-running the same file raised the grade six more times with no warning, and a chat blocked by a detected attack was silently disabled rather than reported to the user. The author argues the resulting grades carry no [[assessment-validity|validity]] claim in either direction, that an adversary needs only one working combination against layered guardrails, and that the teacher remains the only real [[human-in-the-loop-ai|check on the output]] while the manipulation is designed not to be visible — connecting directly to the input-sanitisation and adversarial-security obligation Venetsanos sets out above.
 
 ### Connections
 
@@ -183,3 +188,5 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
+- [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)

@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T09:00:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -56,7 +56,7 @@ Misconceptions translate directly into the behaviors that cause learning harm. T
 
 AI misconceptions are not confined to learners — they are pervasive among the adults who shape education:
 
-- **Teachers and faculty** may overestimate AI's ability to reliably grade or detect misuse, or underestimate its bias, leading to either uncritical adoption or reflexive banning. When teachers hold the [[trust|authority fallacy]] about AI outputs, they model the same uncritical posture they should be correcting in students. Preparing [[teacher-role|educators]] with accurate mental models of AI is a prerequisite for [[teacher-ai-competency|responsible AI integration]] and [[pedagogical-safety|safe pedagogy]].
+- **Teachers and faculty** may overestimate AI's ability to reliably grade or detect misuse, or underestimate its bias, leading to either uncritical adoption or reflexive banning. That assumption of reliability is partly testable and partly false: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamed an everyday AI grading workflow and found that instructions hidden inside a submitted file raised a failing essay's grade with no visible warning, in 9 of 9 iterations for one strategy and 17 of 18 for another. When teachers hold the [[trust|authority fallacy]] about AI outputs, they model the same uncritical posture they should be correcting in students. Preparing [[teacher-role|educators]] with accurate mental models of AI is a prerequisite for [[teacher-ai-competency|responsible AI integration]] and [[pedagogical-safety|safe pedagogy]].
 - **Administrators and policymakers** inherit and propagate institutional myths — that AI is "objective," that it will "revolutionise" education, or that detection tools are trustworthy — which then shape [[educational-policy-ai|policy]], procurement, and assessment rules. The [[trust-calibration|trust]] students develop is partly a product of the institutional framing they inherit.
 - **The general public** absorbs media and vendor narratives about AI's capabilities and risks. Because students learn within this discourse, public myths become the substrate from which student misconceptions grow. Correcting AI misconceptions is therefore an [[ai-literacy]] task aimed at the whole educational ecosystem, not only at learners.
 
@@ -75,6 +75,8 @@ Correction is not a one-time disclosure but an ongoing [[ai-literacy]] process t
 For misconceptions about AI, this means correction should combine **direct confrontation** (refutation-style materials that name and rebut specific myths) with **scaffolded practice** — using [[ai-literacy]] instruction and [[metacognition]] to help people see both the false belief and the correct model. The evidence cautions that the *format* matters: personalized, interactive correction is more engaging and initially more effective, but needs reinforcement to persist; and the outcome measured (knowledge vs. attitudes vs. skills) shapes how large a correction effect appears. Because misconceptions span learners and the adults who shape learning, effective correction must reach [[teacher-role|teachers]], [[administrator|administrators]], and [[educational-policy-ai|policymakers]] as much as students.
 
 Bernstein and Sibia (2026) show that [[generative-ai|GenAI]]-generated analogies introduce structural misconceptions that only source-domain knowledge can catch ([[student-reception-genai-analogies-computing-2026]]): a circular-route analogy for a linked list implies a loop back to the start, and a badminton-rally analogy for recursion carries no guaranteed shrinking input. Students who knew the source domain identified these flaws and proposed repairs, while participants noted that a flawed analogy may still be memorable — indicating that a familiar analogy source can help learners detect, rather than absorb, an AI-produced misconception, and that framing flaws as deliberate artifacts for critique turns the risk into an assessment opportunity.
+
+**Model-generated misconceptions are a measurable capability, not an accident.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] built SocraticTrap-CS, which prompted seven open-weight models to write a "Socratic trap" for 35 core CS concepts — an explanation that is fluent and authoritative while resting on a subtle, domain-specific error. Of 241 prompted segments, 221 (91.7%) were confirmed as strategic misconceptions by expert majority vote (Fleiss' κ = 0.9487), with no significant differences between CS domains; 66.5% of the confirmed errors were conceptual rather than factual and none were purely logical. Fluency is the mechanism rather than a defence: persuasiveness averaged 3.71 on a five-point scale and was strongly model-dependent, and frequency and severity dissociated, with the two models that produced traps most often also rated most convincing. Because a student's poorly framed question can itself act as an adversarial prompt, the authors treat the rate as a capability under adversarial prompting rather than a base rate for ordinary study sessions — and argue the [[ai-literacy]] task shifts from fact-checking individual statements to conceptual verification and mental-model validation. This is the darker face of the generative use above: the same capability that can seed productive peer discussion can also entrench an error a learner was already forming.
 
 ### Refutation-style corrections for common AI misconceptions
 
@@ -130,3 +132,5 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - [[llm-fallacy-misattribution]] — LLM Fallacy Misattribution (Kim et al.)
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
