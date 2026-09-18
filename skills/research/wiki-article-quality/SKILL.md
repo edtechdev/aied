@@ -100,5 +100,6 @@ When the source is EdArXiv/OSF and the raw file is abstract-only:
 - Papers are CC-BY 4.0 (open) — fine to ingest.
 
 ## Support files
-- `scripts/scan-article-defects.py` — scan all article/concept pages for escape sequences and ordered-list blank-line defects.
+- `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <WIKI> --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
+- `scripts/detect-readfile-corruption.py` in the wiki-management skill (mirrored at `tooling/scripts/detect-readfile-corruption.py`) — escape-sequence and truncation damage from full-file reads.
 - `tooling/scripts/validate-facets.py` (repo tooling, not bundled here): the typed-metadata gate. Run it after any frontmatter repair.
