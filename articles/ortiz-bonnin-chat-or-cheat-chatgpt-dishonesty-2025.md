@@ -35,7 +35,7 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 
 - **For developers:** Users must *feel safe* using AI tools. Improvements to data protection, cybersecurity, training-data transparency, and information accuracy (e.g. citing real references) reduce perceived risk and, in turn, promote more responsible adoption.
 - **For institutions and educators:** Integrating AI responsibly means carefully considering ethical issues and students' perceptions of risk — not just prohibiting or mandating AI, but shaping the perceived-risk environment.
-- **For [[ai-anxiety-and-stress]]:** Perceived risk and the fear of committing [[academic-integrity|academic dishonesty]] are a source of student anxiety around AI use; this study quantifies how that risk perception behaviorally suppresses use. It connects the integrity and anxiety dimensions of AI use.
+- **For [[anxiety-and-stress]]:** Perceived risk and the fear of committing [[academic-integrity|academic dishonesty]] are a source of student anxiety around AI use; this study quantifies how that risk perception behaviorally suppresses use. It connects the integrity and anxiety dimensions of AI use.
 
 ## Connected Concepts
 
@@ -45,7 +45,7 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 - [[ai-detection]]
 - [[privacy]]
 - [[student-experience]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[ethics]]
 - [[ai-literacy]]
 - [[trust]]

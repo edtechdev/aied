@@ -8,6 +8,7 @@
 
 export const CONCEPT_REDIRECTS: Record<string, string> = {
   'accessible-learning': 'inclusive-learning',
+  'ai-anxiety-and-stress': 'anxiety-and-stress',
   'ai-tutoring': 'intelligent-tutoring',
   'automated-grading': 'automated-assessment',
   'blended-learning': 'online-teaching-and-learning',

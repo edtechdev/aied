@@ -5,7 +5,7 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [affective-computing, generative-ai, llm, edtech-platform]
-stakeholders: [student-experience]
+stakeholders: [administrator, student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [system development]
 audience: [learners, administrators]
@@ -13,7 +13,6 @@ level: [higher ed]
 sources: ['raw/papers/2605.10804.md']
 confidence: medium
 page_kind: [framework, evaluation]
-institutions: [administrator]
 ---
 
 > **Synthesis:** This dissertation presents an integrated AI framework for campus [[well-being]] spanning prevention (improving feedback collection) and intervention (advancing mental health detection). It represents an important application of [[llm]] and [[generative-ai]] [[ai-technologies|technologies]] to [[student-experience]] that extends beyond academic learning to holistic student support in [[higher-ed]].

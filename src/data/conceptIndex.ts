@@ -30,7 +30,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'online-teaching-and-learning', 'video-education'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
-      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning'] },
+      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress'] },
     ],
   },
   {
@@ -75,17 +75,18 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'People',
     blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
-      { label: 'Learners', items: ['stakeholders', 'learners', 'student-experience', 'career-development-and-readiness', 'ai-anxiety-and-stress'] },
+      { label: 'Learners', items: ['stakeholders', 'learners', 'student-experience', 'career-development-and-readiness'] },
       { label: 'Families and communities', items: ['parents-and-families'] },
       { label: 'Instructors', items: ['teacher-ai-competency', 'tpack', 'samr-model', 'pedagogical-safety'] },
       { label: 'Designers and developers', items: ['educational-technology-developers'] },
+      { label: 'Administrators and leaders', items: ['administrator'] },
       { label: 'Lifelong and workplace learning', items: ['lifelong-learning', 'professional-training'] },
     ],
   },
   {
     heading: 'Institutions and policy',
     groups: [
-      { label: 'Institutions', items: ['administrator', 'educational-policy-ai', 'governance', 'change-management', 'regulation'] },
+      { label: 'Institutions', items: ['educational-policy-ai', 'governance', 'change-management', 'regulation'] },
     ],
   },
   {

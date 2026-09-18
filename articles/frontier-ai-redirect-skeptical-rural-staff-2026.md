@@ -50,7 +50,7 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - [[technology-acceptance-model]]
 - [[equity-in-ai-education]]
 - [[digital-divide]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 - [[bias-mitigation]]
 - [[ethics]]
 - [[well-being]]

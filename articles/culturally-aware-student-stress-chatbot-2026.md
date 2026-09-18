@@ -3,9 +3,8 @@ title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness
 created: "2026-09-11T09:35:00-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: article
-pedagogy: [well-being]
+pedagogy: [anxiety-and-stress, well-being]
 technology: [conversational-ai, machine-learning]
-stakeholders: [ai-anxiety-and-stress]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, ethics, global-south]
 connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
@@ -16,7 +15,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Bashir and Afzal describe *Sukoon*, a hybrid system that pairs a [[machine-learning]] stress classifier with a culturally adapted [[conversational-ai|conversational]] chatbot for Pakistani university students. A Random Forest model trained on 1,100 survey responses across 20 features reaches 89.09% accuracy over three stress levels, and its output drives a Stepped Care response architecture in which an [[open-source]] [[llm]] delivers tiered wellness guidance in English, Urdu and Roman Urdu. The most culturally significant finding is that teacher-student relationship was the second-strongest predictor of [[ai-anxiety-and-stress|student stress]] (10.0%), behind blood pressure — evidence, the authors argue, that [[global-south|region-specific]] [[well-being|well-being]] support cannot be imported from Western tools. The paper is a system-and-pipeline contribution evaluated on classification accuracy and simulated conversations rather than on student outcomes.
+> **Synthesis:** Bashir and Afzal describe *Sukoon*, a hybrid system that pairs a [[machine-learning]] stress classifier with a culturally adapted [[conversational-ai|conversational]] chatbot for Pakistani university students. A Random Forest model trained on 1,100 survey responses across 20 features reaches 89.09% accuracy over three stress levels, and its output drives a Stepped Care response architecture in which an [[open-source]] [[llm]] delivers tiered wellness guidance in English, Urdu and Roman Urdu. The most culturally significant finding is that teacher-student relationship was the second-strongest predictor of [[anxiety-and-stress|student stress]] (10.0%), behind blood pressure — evidence, the authors argue, that [[global-south|region-specific]] [[well-being|well-being]] support cannot be imported from Western tools. The paper is a system-and-pipeline contribution evaluated on classification accuracy and simulated conversations rather than on student outcomes.
 
 ## Why culturally grounded well-being support
 
@@ -38,7 +37,7 @@ Class-level precision and recall are reported as reasonably uniform (precision 0
 
 ## Feature importance and the teacher-student relationship finding
 
-[[explainable-ai|Feature importance]] places blood pressure first (15.6%), consistent with the bi-directional stress–blood-pressure association documented in exam-period college samples, followed by **teacher-student relationship (10.0%)**, sleep quality (9.3%), depression (8.3%) and social support (7.6%). Ranked ninth, and notably weak, was anxiety level (4.8%) — the authors read this as evidence that student [[ai-anxiety-and-stress|stress]] is multi-dimensional rather than driven by a single psychological indicator.
+[[explainable-ai|Feature importance]] places blood pressure first (15.6%), consistent with the bi-directional stress–blood-pressure association documented in exam-period college samples, followed by **teacher-student relationship (10.0%)**, sleep quality (9.3%), depression (8.3%) and social support (7.6%). Ranked ninth, and notably weak, was anxiety level (4.8%) — the authors read this as evidence that student [[anxiety-and-stress|stress]] is multi-dimensional rather than driven by a single psychological indicator.
 
 The ranked second place of the teacher-student relationship is the paper's culturally distinctive claim. The authors attribute it to the comparatively hierarchical educational environment in Pakistan, where power imbalance and limited academic support structure [[student-experience|student experience]] in ways that Western-instrumented tools do not capture. They present this as a hypothesis requiring locally collected data rather than a settled finding — a reasonable hedge, since the dataset is not Pakistani and feature importances are model-relative.
 
@@ -58,7 +57,7 @@ Because a [[machine-learning|trained classifier]] decides the support tier, seve
 
 ## Connected Concepts
 - [[well-being]] — student mental-health support as an AI application area
-- [[ai-anxiety-and-stress]] — stress measurement and its multidimensional predictors
+- [[anxiety-and-stress]] — stress measurement and its multidimensional predictors
 - [[conversational-ai]] — chatbot dialogue as the delivery mechanism for support
 - [[machine-learning]] — Random Forest classification and feature-importance analysis
 - [[culturally-relevant-pedagogy]] — cultural adaptation of the system prompt and response tiers

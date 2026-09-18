@@ -516,7 +516,7 @@ Last updated: 2026-09-18 | Total entries: 1520
 - 📄 [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: An Epistemic Shift in the Validation of LLM-Based Measures of Student Talk
 
 ## 2026-08-25
-- 📘 [[ai-anxiety-and-stress]] — AI Anxiety and Stress
+- 📘 [[anxiety-and-stress]] — Anxiety and Stress
 - 📄 [[ai-toys-child-development-2026]] — Artificial Intelligence in Toys: Implications for Child Development and Play
 - 📄 [[arcs-motivational-ergonomics-gamified-ai-2026]] — Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training
 - 📘 [[career-development-and-readiness]] — Career Development and Readiness

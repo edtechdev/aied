@@ -78,7 +78,7 @@ The stated limits are unusually explicit. Self-report of offloading is susceptib
 - [[creativity]]
 - [[human-ai-collaboration]]
 - [[desirable-difficulties]]
-- [[ai-anxiety-and-stress]]
+- [[anxiety-and-stress]]
 
 ## Connected Articles
 

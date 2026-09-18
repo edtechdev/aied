@@ -3,10 +3,9 @@ title: "Psychological Profiles Associated with Trust in Artificial Intelligence 
 created: "2026-09-16T08:12:19-04:00"
 updated: "2026-09-16T08:12:19-04:00"
 type: article
-pedagogy: [self-efficacy, well-being]
+pedagogy: [anxiety-and-stress, self-efficacy, well-being]
 technology: [learning-analytics, machine-learning, technology-acceptance-model]
 assessment: [self-report-measures]
-stakeholders: [ai-anxiety-and-stress]
 ethics: [equity-in-ai-education, trust, trust-calibration]
 sources: ['raw/papers/trust-in-ai-psychological-profiles-ml-2026.md']
 confidence: high
@@ -65,7 +64,7 @@ page_kind: [evaluation]
 
 - [[trust]] — the outcome construct at the center of the study, measured as confidence in and acceptance of AI systems.
 - [[trust-calibration]] — the paper reads resilient students' low AI trust as calibrated skepticism rather than blanket rejection.
-- [[ai-anxiety-and-stress]] — perceived stress was one of the two strongest differentiators of the student profiles.
+- [[anxiety-and-stress]] — perceived stress was one of the two strongest differentiators of the student profiles.
 - [[well-being]] — psychological resilience and stress are treated as indicators of students' psychological functioning.
 - [[self-efficacy]] — confidence in one's own abilities is the resilience-related theme that coexists with AI skepticism.
 - [[machine-learning]] — K-means clustering with internal validation metrics and stability analysis is the analytic core.

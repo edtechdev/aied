@@ -4,13 +4,14 @@ created: "2026-08-20T08:20:00-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-education]
+stakeholders: [administrator]
 research_method: [survey]
 audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/alrahmi-org-drivers-ai-adoption-he-2026.md']
 confidence: medium
 page_kind: [framework]
-institutions: [administrator, change-management, educational-policy-ai, governance]
+institutions: [change-management, educational-policy-ai, governance]
 technology: [technology-acceptance-model]
 ---
 
