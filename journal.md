@@ -1,8 +1,10 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1477
+Last updated: 2026-09-18 | Total entries: 1481
 
 ## 2026-09-18
+- 📄 [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
+- 📄 [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading
 - 📄 [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
 - 📄 [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
 - 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
@@ -17,6 +19,7 @@ Last updated: 2026-09-18 | Total entries: 1477
 - 📄 [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review
 - 📄 [[humble-prompt-injection-ai-grading-red-team-2026]] — Ethical implications of prompt injection in AI-mediated grading: An adversarial red-team evaluation
 - 📄 [[ji-student-voices-academic-integrity-scoping-2026]] — Academic integrity in the age of generative AI: A scoping review of research on higher education student voices
+- 📄 [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: Making AI Scoring More Reliable for Educational Assessment
 - 📘 [[learners]] — Learners
 - 📄 [[leaton-gray-ai-digital-cheating-ethical-pedagogies-2025]] — AI-based digital cheating at university, and the case for new ethical pedagogies
 - 📘 [[legal-education]] — Legal Education
@@ -32,6 +35,7 @@ Last updated: 2026-09-18 | Total entries: 1477
 - 📄 [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — AI literacy and scenario-based ethical judgment about generative AI among undergraduate students
 - 📄 [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - 📄 [[scaffold-framework-adolescent-genai-2026]] — Steering Generative AI Toward Developmentally Supportive Learning: The SCAFFOLD Framework and a Pilot in a School Setting
+- 📄 [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: A Decision-Making Framework for Task Assignment with Generative AI
 - 📄 [[sharma-judgement-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgement visible
 - 📄 [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
 - 📄 [[vassallo-ai-guilt-complex-faculty-2026]] — The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption

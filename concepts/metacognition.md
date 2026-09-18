@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-18T03:55:00-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -158,4 +158,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: real-time evaluation, reflection and learning as the mechanism that reassigns tasks over time

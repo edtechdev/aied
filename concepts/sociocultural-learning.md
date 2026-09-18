@@ -1,7 +1,7 @@
 ---
 title: Sociocultural Learning
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
@@ -38,6 +38,7 @@ Sociocultural theory shapes AIED [[research-methods-aied|research]] in several d
 
 - **AI as a mediational agent.** Generative AI complicates the sociocultural distinction between mediational means and social interaction: it both mediates activity *and* generates context-sensitive, contingent contributions that shape interaction, without possessing intentionality, social membership, or accountability. Warschauer, Tate, and Ritchie (2026) propose the *mediational agent* as a hybrid category, and derive human-first habits of participation (primacy of human cognition, purposeful [[student-engagement|engagement]], supervisory agency, epistemic vigilance, reflective [[self-regulated-learning|self-regulation]]) to preserve [[agency|learner agency]].([[mediational-agent-genai-sociocultural-2026]])
 - **ZPD-calibrated scaffolding.** [[intelligent-tutoring|AI tutors]] should dynamically calibrate help to sit within each learner's zone. [[stanford-evidence-base-ai-k12-2026]] shows how tutors tuned to a learner's level outperform generic assistance; [[adaptive-learning]] and [[collaborative-ai-tutoring]] operationalize ZPD by adjusting difficulty and hints; and principled frameworks like [[finkelstein-principled-ai-education-2025]] argue support should be withdrawn as competence grows.
+- **A fourth zone: what the model knows.** [[scan-framework-task-assignment-generative-ai-2025|Tsim and Gutoreva (2025)]] extend Vygotsky's diagram rather than the tutoring loop, adding a *known to [[generative-ai|GenAI]]* zone to the ZPD and reading off four sub-zones that classify what a task should be assigned to: Substitute (no task-specific knowledge, so the model's general competence carries it), Aid (partial knowledge, augmented), Complement (enough knowledge to supervise the model's output), and Non-negotiable (enough to do it unaided, so delegation adds little). [[scaffolding|Scaffolding]] is expressed as task assignment rather than hint delivery, and a [[metacognition|metacognitive]] loop of real-time evaluation, reflection and learning is what moves a task between sub-zones over time.
 - **Apprenticeship and community.** Sociocultural ideas underpin cognitive apprenticeship, modeling, coaching, and fading; communities of practice frame learning as movement toward fuller participation in a community's practices.
 - **Cultural and [[governance|institutional]] context.** The [[constructivist|constructivism]]-adjacent sociocultural strand stresses that the cultural dimension shapes what counts as knowing, who is an authority, and what effort means — see the [[young-people-learning-generative-ai-rapid-review-2026|Sydney PreK-12 rapid review's]] learners–contexts–cultures framing.
 

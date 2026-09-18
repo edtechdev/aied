@@ -340,6 +340,12 @@ REJECT_PAIRS = {
     ('domain-specific', 'discipline-specific-aied'), # adjective, not the discipline page
     ('cognitive load', 'cognitive-offloading'),      # CLT construct, not offloading
     ('assessment literacy', 'assessment-validity'),  # literacy, not validity evidence
+    # --- 2026-09-18, PsyArXiv preprint batch: false positives hand-reverted ---
+    ('self-confidence', 'self-efficacy'),            # model token confidence, not the learner trait
+    ('stem', 'stem-education'),                      # survey item stem, not the subject area
+    ('embedding', 'llm'),                            # vector embedding, not the model
+    ('motive families', 'parents-and-families'),     # "families" as a group of constructs
+    ('task-switching preference', 'cognitive-offloading'),  # a distinct scale, not offloading
     ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct
     ('adoption', 'technology-acceptance-model'),     # bare uptake, not the model family
     ('practice', 'teacher-role'),                    # "their future practice"

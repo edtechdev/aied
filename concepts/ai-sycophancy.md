@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-18T09:40:00-04:00"
+updated: "2026-09-18T11:48:51-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
@@ -95,4 +95,4 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
 - [[educational-llm-alignment]] — Educational LLM Alignment
-
+- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: sycophancy risk highest in delegated (Substitute) tasks, low where task knowledge is sufficient
