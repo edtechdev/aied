@@ -13,6 +13,12 @@ metadata:
 
 # Wiki Inline-Link Pass
 
+> **Pitfall — a slug-derived generic plural must be DENYLISTED when its page is created (2026-09-18).** The scanner derives a bare match phrase from the slug, so a concept page named `learners` matches every occurrence of "learners" in the corpus, and a wiki-wide `--apply` would auto-link that word generically on hundreds of pages. When you create a page whose slug is a common word, add it to `AUTO_APPLY_DENYLIST` (report-only, so a human judges it in context) in the same change.
+
+> **Related — a facet value that "should" link but does not usually means a missing concept page.** The page metadata table resolves `audience` / `level` / `discipline` / `research_method` phrases to concept pages through the GENERATED `src/data/metadataLinks.ts`: a value links when its slug (value with spaces→hyphens) is a registered concept or matches a registered alias, and `LINK_EXCLUDE` lists values deliberately left unlinked (`audience`: 'researchers', 'instructional designers', 'policymakers'). So `audience: learners` rendered as dead text until a `learners` concept page existed; creating the page, registering it, and re-running `tooling/scripts/gen-concept-artifacts.py` made the link appear with no other edit.
+
+***
+
 > **Pitfall — never run `inline_link_scan.py --apply` against a wiki root that is a
 > symlink farm.** The scanner writes to `<wiki>/<collection>/<slug>.md`; if
 > `<wiki>/concepts` is a symlink to the real content directory, `--apply` rewrites
