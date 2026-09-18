@@ -1929,7 +1929,6 @@ sections:
     - video-education
   - label: Learning theories and processes
     items:
-    - retrieval-spacing-interleaving
     - learning-theories
     - behaviorism
     - constructivist
@@ -1951,6 +1950,7 @@ sections:
     - icap-framework
     - refutation-text
     - activity-theory-aied
+    - retrieval-spacing-interleaving
   - label: Learner engagement and experience
     items:
     - student-engagement
