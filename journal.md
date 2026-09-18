@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1478
+Last updated: 2026-09-18 | Total entries: 1476
 
 ## 2026-09-18
 - 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
@@ -8,12 +8,10 @@ Last updated: 2026-09-18 | Total entries: 1478
 - 📄 [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - 📄 [[qualitative-reasoning-game-guidance-2026]] — A Qualitative Model for Reasoning about Path and Support
 - 📄 [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
-- 📄 [[grecaptcha-research-authorship-verification-2026]] — greCAPTCHA: Assessing Understanding as Evidence of Research Authorship Under Generative AI
 - 📄 [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - 📄 [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - 📄 [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
 - 📄 [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
-- 📄 [[ai-medical-english-speech-recognition-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
 - 📄 [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI Challenge: How college faculty assess the present and future of higher education in the age of AI
 - 📘 [[legal-issues-and-risks]] — Legal Issues and Risks
 - 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education
