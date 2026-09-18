@@ -1,7 +1,7 @@
 ---
-title: Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement, and performance
+title: "Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement"
 created: "2026-09-12T08:35:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [motivation, scaffolding, student-engagement]
 technology: [generative-ai]

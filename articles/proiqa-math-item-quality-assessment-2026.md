@@ -1,7 +1,7 @@
 ---
-title: "ProIQA: Process-Based Math Item Quality Assessment"
+title: "ProIQA: A Process-Based Framework for Fine-Grained Math Item Quality Assessment"
 created: "2026-09-15T11:05:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [problem-solving]
 technology: [knowledge-graph, llm]

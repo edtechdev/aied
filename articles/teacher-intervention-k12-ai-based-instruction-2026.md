@@ -1,7 +1,7 @@
 ---
-title: Teacher Intervention in K-12 AI-Based Instruction
+title: "Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects"
 created: "2026-09-12T13:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [scaffolding, student-engagement]

@@ -1,7 +1,7 @@
 ---
-title: "Revisiting the Performance of Generative AI on Introductory Object-Oriented Programming Assessments"
+title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming"
 created: "2026-08-18T09:20:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]

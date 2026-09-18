@@ -1,7 +1,7 @@
 ---
-title: "Scaffolding Self-Regulated Feedback with GenAI vs. Human Peers for Feedback Literacy"
+title: "Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]

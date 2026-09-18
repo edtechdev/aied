@@ -1,7 +1,7 @@
 ---
-title: Confidence-Aware Automatic Short Answer Grading
+title: "Confidence Estimation in Automatic Short Answer Grading with LLMs"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [rag]
 assessment: [assessment, automated-assessment, psychometrically-aware-ai]

@@ -1,7 +1,7 @@
 ---
-title: Scaffolding Critical Thinking with Generative AI
+title: "Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher"
 created: "2026-05-10T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]

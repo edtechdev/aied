@@ -1,7 +1,7 @@
 ---
 title: "Can we disrupt the momentum of the AI colonization of science education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [critical-pedagogy]

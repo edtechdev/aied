@@ -1,7 +1,7 @@
 ---
-title: "Does School-Based AI Education Narrow Readiness Gaps?"
+title: "Does school-based AI education narrow readiness gaps? The role of prior agency-related learning"
 created: "2026-08-30T03:27:22-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy]
 pedagogy: [motivation]

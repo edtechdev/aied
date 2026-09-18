@@ -1,7 +1,7 @@
 ---
-title: 'Is Using AI Tools for Academic Work Cheating? Student Perceptions, Ethics, and Impact on Academic Performance and Critical Thinking'
+title: "Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact"
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-08-20T04:40:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 stakeholders: [student-experience]

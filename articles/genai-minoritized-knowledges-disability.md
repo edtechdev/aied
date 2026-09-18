@@ -1,7 +1,7 @@
 ---
-title: "Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability"
+title: "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education"
 created: "2026-05-27T07:38:00-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]

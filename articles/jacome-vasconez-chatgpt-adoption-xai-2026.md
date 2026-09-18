@@ -1,7 +1,7 @@
 ---
 title: "Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI"
 created: "2026-09-03T14:20:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [self-regulated-learning]

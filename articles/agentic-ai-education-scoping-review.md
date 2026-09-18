@@ -1,7 +1,7 @@
 ---
-title: "Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm"
+title: "A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [learning-theories, scaffolding]

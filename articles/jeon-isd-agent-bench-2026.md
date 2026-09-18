@@ -1,7 +1,7 @@
 ---
-title: ISD Agent Benchmark
+title: "ISD-Agent-Bench: A Comprehensive Benchmark for Evaluating LLM-based Instructional Design Agents"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agentic-ai, ai-education]
 technology: [llm, rag]

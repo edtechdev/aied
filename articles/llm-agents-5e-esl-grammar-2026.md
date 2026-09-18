@@ -1,7 +1,7 @@
 ---
-title: "Designing Large Language Model-Based Agents with the 5E Framework for ESL Learners' Grammar Acquisition"
+title: "Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
 foundations: [agentic-ai]

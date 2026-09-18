@@ -1,7 +1,7 @@
 ---
-title: "Conversational AI Agents in Education: An Umbrella Review"
+title: "Conversational AI agents in education: an umbrella review of current utilization, challenges, and future directions"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-08-22T04:44:37-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, pedagogical-agent]

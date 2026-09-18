@@ -1,7 +1,7 @@
 ---
-title: "The 5P Reflection Model for Education in the Generative AI Era"
+title: "The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [metacognition, self-regulated-learning]

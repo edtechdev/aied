@@ -1,7 +1,7 @@
 ---
-title: "Addressing Student Non-Compliance in AI Use Declarations: Implications for Academic Integrity and Assessment in Higher Education"
+title: "Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]

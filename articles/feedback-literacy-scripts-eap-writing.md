@@ -1,7 +1,7 @@
 ---
-title: "Feedback Literacy Scripts and a Second-Rater Mechanism in GenAI EAP Writing Revision"
+title: "Effects of feedback literacy scripts and a second-rater mechanism on EAP writing revision in generative AI-supported"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]

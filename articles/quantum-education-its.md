@@ -1,7 +1,7 @@
 ---
-title: Quantum Education Intelligent Tutoring
+title: "From Prototype to Classroom: An Intelligent Tutoring System for Quantum Education"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [scaffolding]

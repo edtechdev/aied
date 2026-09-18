@@ -1,7 +1,7 @@
 ---
 title: "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-08-22T07:15:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, human-ai-collaboration]
 pedagogy: [learning-theories]

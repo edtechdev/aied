@@ -1,7 +1,7 @@
 ---
-title: AI Tools Scaffolding Metacognition in STEM
+title: "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric-Systematic Review"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [learning-theories, metacognition]

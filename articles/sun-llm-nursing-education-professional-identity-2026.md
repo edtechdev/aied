@@ -1,7 +1,7 @@
 ---
-title: "When the Algorithm Enters the Classroom: LLMs, Nursing Education Structural Gaps, and the Reconstitution of Professional Identity"
+title: "When the algorithm enters the classroom: A critical integrative review of large language models, nursing education"
 created: "2026-09-07T08:25:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [curriculum-design, learner-identity]
 technology: [generative-ai, llm]

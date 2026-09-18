@@ -76,6 +76,16 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
     line-height: 1.35;
   }
   .recent-list a:hover { color: var(--primary); }
+  /* Paper titles are now the page's real title and run up to ~120 characters, which
+     would make the rail enormous. Clamp the text to two lines with an ellipsis; the
+     full title stays in the link's title attribute and on the page itself. */
+  .recent-list .recent-title {
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
   .recent-list a svg { color: var(--muted-color); }
   .recent-list a:hover svg { color: var(--primary); }
   .recent-date {
@@ -93,7 +103,7 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
   <ul class="recent-list">
     {pages.map(p => (
       <li>
-        <a href={p.url} title={`${KIND_LABEL[p.kind]}: ${p.title}`} set:html={`${ICONS[p.kind]}${p.title}`}></a>
+        <a href={p.url} title={`${KIND_LABEL[p.kind]}: ${p.title}`}><Fragment set:html={ICONS[p.kind]} /><span class="recent-title">{p.title}</span></a>
         <span class="recent-date">{p.date}</span>
       </li>
     ))}
