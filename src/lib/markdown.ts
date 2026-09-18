@@ -72,7 +72,9 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
   // Expand wikilinks into routed markdown links. Sätteri's own wikilinks
   // feature emits plain `<a href="slug">` nodes indistinguishable from normal
   // links, so we resolve routing + smart labels here instead.
-  md = md.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_m, p, label) => {
+  // The label may itself contain brackets (paper titles such as "Young Scholar[s]"),
+  // so match non-greedily up to the closing ]] rather than stopping at the first ].
+  md = md.replace(/\[\[([^\]|]+)(?:\|([\s\S]+?))?\]\]/g, (_m, p, label) => {
     // Resolve merged/redirect concept slugs to their canonical destination so
     // internal links point straight at the real page (avoids the bare
     // meta-refresh redirect page, which causes a white flash on click).

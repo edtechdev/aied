@@ -18,14 +18,22 @@ title: Paper Title  # quote if contains colons: "Title: Subtitle"
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp (date+time)
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on significant edits
 type: article
-tags: [tag1, tag2, ...]  # 6-10 EXISTING concept slugs (see tooling/SCHEMA.md)
 sources: ['raw/papers/{arxiv_id}.md']
 confidence: high
-research_method: [systematic review, survey]  # optional, natural-language
+page_kind: [framework]  # what kind of page: framework | synthesis | evaluation
+research_method: [systematic review, survey]  # how the study was done (optional)
 discipline: [math education, physics education]  # optional
-audience: [instructors, learners, researchers, administrators]  # optional
+audience: [instructors, learners, researchers, administrators]  # intended audience (optional)
 level: [early childhood, k 12, higher ed, adult learning]  # optional
-category: [assessment, framework]  # optional
+# Topic facets: concept slugs from THEIR OWN registry section (optional, no tags field).
+pedagogy: [scaffolding]       # Learning and instruction
+technology: [llm]             # Technologies and techniques
+assessment: [feedback]        # Assessment and measurement
+methods: [rct]                # Research methods and evaluation
+stakeholders: [student-experience]  # People
+institutions: [governance]    # Institutions and policy
+ethics: [academic-integrity]  # Equity, ethics, and responsible use
+foundations: [ai-literacy]    # Foundations of AI in education
 ---
 
 > **Synthesis:** One-paragraph summary (3-5 sentences) with embedded [[wikilinks]].
@@ -57,8 +65,10 @@ title: Concept Name
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp (date+time)
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on significant edits
 type: concept
-tags: [tag1, tag2, ...]  # 6-10 EXISTING concept slugs
 confidence: medium  # or high for well-developed concepts
+# Topic facets: concept slugs from THEIR OWN registry section (optional, no tags field).
+pedagogy: [scaffolding]
+technology: [llm]
 ---
 
 > **Brief synthesis paragraph** with [[wikilinks]] to related pages.
@@ -94,7 +104,8 @@ title: "Question being answered?"
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on significant edits
 type: faq
-tags: [tag1, tag2, ...]  # EXISTING tags
+# Topic facets: concept slugs from THEIR OWN registry section (optional, no tags field).
+ethics: [academic-integrity]
 ---
 
 # Question being answered?

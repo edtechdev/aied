@@ -7,7 +7,9 @@ Metadata: title from site.config.json, the editor name from site.config.json
 Wiki [[wikilinks]] that resolve to concepts/FAQs present in the EPUB become
 internal anchors so navigation works inside the reader.
 """
-import os, re, glob, subprocess, datetime, json
+import os, re, glob, subprocess, datetime, json, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts'))
+from wikilink_text import smart_title, WIKILINK_RE  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -29,14 +31,6 @@ CONCEPTS_DIR = os.path.join(WIKI, 'concepts')
 FAQS_DIR = os.path.join(WIKI, 'faqs')
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 OUT = os.path.join(WIKI, 'public', 'aied.epub')
-
-def smart_title(label):
-    KNOWN = {'ai':'AI','llm':'LLM','rag':'RAG','nlp':'NLP','k-12':'K-12','irt':'IRT','its':'ITS',
-             'rct':'RCT','stem':'STEM','cs':'CS','ide':'IDE','api':'API','srl':'SRL','lms':'LMS',
-             'mooc':'MOOC','vr':'VR','ar':'AR','ui':'UI','ux':'UX','sdk':'SDK','tpack':'TPACK',
-             'asag':'ASAG','kt':'KT','rl':'RL','ml':'ML','xai':'XAI','genai':'GenAI','aied':'AIED',
-             'pjbl':'PjBL','hci':'HCI','zpd':'ZPD'}
-    return re.sub(r'\b\w+\b', lambda m: KNOWN.get(m.group(0).lower(), m.group(0)[0].upper()+m.group(0)[1:]), label)
 
 # --- load slug sets + redirects ---
 concept_slugs = {c[:-3] for c in os.listdir(CONCEPTS_DIR) if c.endswith('.md')}
@@ -110,7 +104,10 @@ def convert_links(txt):
             url = f'{SITE_URL}/articles/{canon}/'
             return f'[{disp}]({url})'
         return disp  # unknown -> plain text
-    return re.sub(r'\^?\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', repl, txt)
+    # Shared pattern (a label may contain brackets of its own); the optional
+    # leading ^ is a footnote-style citation marker and must be swallowed.
+    epub_wikilink = re.compile(r'\^?' + WIKILINK_RE.pattern)
+    return epub_wikilink.sub(repl, txt)
 
 def process_md(path, slug, hlevel):
     raw = open(path, encoding='utf-8').read()
