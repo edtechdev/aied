@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-18T13:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -42,6 +42,8 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 **Role orientation is a design variable, not a stylistic choice.** The [[wang-teacher-student-centered-agents-physics-2026|physics agent comparison]] (Wang et al. 2026, 59 learners) isolates prompt-specified role while holding model, platform, and temperature fixed: a teacher-centered agent grounded in a bounded textbook source and answering from the instructor's perspective, versus a student-centered agent configured with knowledge of students' understanding and scripted to diagnose misconceptions, name the concept, and transfer to an analogous case. The student-centered role won on every measured outcome — post-test performance, lower extraneous and higher germane cognitive load, flow experience, and perceived empathy — even though the teacher-centered agent was the one optimized for accuracy and textbook fidelity. This makes *role and interaction pattern* a first-class design parameter alongside [[prompt-engineering|prompt]] and model choice, and shows that empathy can be engineered from conversational structure rather than a differently trained model ([[affective-computing]]).
 
+**Agents in immersive and extended-reality settings.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] extend the concept into [[virtual-and-augmented-reality|extended reality]] (AR, augmented virtuality and VR) with ACLIME, a conceptual framework that — unlike CAMIL, CATLM-VR and TICOL — keeps the agent inside the model. It names two interaction modes drawn from the literature: the tutor, offering guidance, encouragement, reflective questioning and explanations, and the role-playing partner, which occupies a defined role inside a scenario such as a local on a climate-change field trip or a negotiating counterpart in corporate training. The agent's body (head-only through full body) and behavior are treated as design surfaces: visual versus behavioral realism, flexible AI control versus fixed rule-based scripting, synthesized versus pre-recorded speech, and nonverbal channels including gaze, gesture and proxemics. Immersion and body-based interactivity are argued to multiply the social cues behind [[community-of-inquiry|social presence]] — behavioral realism, not visual realism, is proposed as the decisive predictor — while the learner's own virtual body adds an [[embodied-learning|embodiment]] dimension (body ownership, virtual own body agency, self-location) and the proteus effect. The framework's explicit trade-off is cognitive: immersion and the agent's mere presence can raise [[cognitive-psychology|cognitive load]] even as social interaction with the agent lowers it through the collective working-memory effect, and a temporal layer (familiarization, maturing human-agent relations, novelty decline, developing cybersickness) is added to the usual design variables. Its status is deliberately provisional: hardly any empirical work yet tests pedagogical agents in immersive media, and long-term [[learning-gains|learning outcomes]] as well as learner characteristics sit outside the model.
+
 **Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[eduagentbench-agent-teaching-benchmark|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
 
 ## Practical guidance
@@ -80,6 +82,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)
+- [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 

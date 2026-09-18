@@ -93,4 +93,4 @@ The authors name four constraints. The embedding model is the first: MPNet Perso
 
 ## Citation
 
-He, X., Zhang, X., Wang, C., & Ji, F. (2026). *Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach.*
+He, X., Zhang, X., Wang, C., & Ji, F. (2026). [*Clarifying the conceptual landscape in AI literacy measurement: A large language model based approach*](https://doi.org/10.31234/osf.io/hz4ak_v2). *PsyArXiv Preprints*.

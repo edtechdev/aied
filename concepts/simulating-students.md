@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T13:00:00-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -40,7 +40,7 @@ Validity is the central concern: a simulated student is only useful if its behav
 
 ### Connection to the knowledge base
 
-Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for [[professional-training|professional training]] (e.g., [[special-education]] and [[medical-education|medical education]] contexts).
+Simulating students sits at the intersection of [[simulation]], [[student-modeling]], and [[knowledge-tracing]]. It is a distinct use of [[generative-ai]] in education (modeling learners rather than tutoring them) and an application of [[agentic-ai]] multi-agent systems. It supports [[intelligent-tutoring]], [[adaptive-learning]], [[personalized-learning]], and [[teacher-role]] development, and it overlaps with patient simulation for [[professional-training|professional training]] (e.g., [[special-education]] and [[medical-education|medical education]] contexts). At the paradigm level, [[agent-based-educational-science-2026|Zhang, Jiang and Tang (2026)]] extend this beyond evaluation: their position paper argues that educational science suffers a structural mismatch between its theory and its data and method apparatus, and proposes agent-based educational science, in which agents model learners, teachers, parents and peers while the simulation apparatus itself — not the individual agent — serves as the research instrument, generating time-extended developmental trajectories and counterfactual designs that are slow, costly or ethically infeasible to run in classrooms, with empirical data recast as calibration, validation and boundary conditions. The paper reports no empirical validation of any of this: Student Development Agents are specified conceptually only, and the authors' own review concedes that [[llm|LLMs]] still miss inter-individual variability and that validating generative social simulation remains the field's unresolved challenge, so the claim that simulation would change how evidence and replication work is a proposal rather than a demonstrated result.
 
 ### Simulating students vs. student modeling
 
@@ -111,3 +111,4 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: the simulation apparatus as the research instrument (Zhang, Jiang & Tang 2026)

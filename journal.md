@@ -1,17 +1,22 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1482
+Last updated: 2026-09-18 | Total entries: 1487
 
 ## 2026-09-18
+- 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
+- 📄 [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
 - 📄 [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
 - 📄 [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading
 - 📄 [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
+- 📄 [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT Making our Minds Dull? The Cognitive Impact of Using ChatGPT in the Writing Process
 - 📄 [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
 - 📄 [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
+- 📄 [[children-ai-safety-misconceptions-2026]] — “If we are good friends, AI doesn't spy so much”: Children's knowledge and misconceptions of AI safety
 - 📄 [[coates-governing-academic-integrity-indicators-2025]] — Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence
 - 📄 [[dabkowski-nursing-academics-genai-2026]] — Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education
 - 📄 [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
 - 📄 [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
+- 📄 [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
 - 📄 [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - 📄 [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education

@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-18
 
-Articles: 1277 | Concepts: 205 | FAQs: 32
+Articles: 1282 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -20,6 +20,7 @@ Articles: 1277 | Concepts: 205 | FAQs: 32
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[accessibility]] — Accessibility
+- [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
 - [[active-learning]] — Active Learning
 - [[activity-theory-aied]] — Activity Theory
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — An Activity-Theoretical Approach to Teacher Professional Development in Pedagogical AI Agent Design
@@ -44,6 +45,7 @@ Articles: 1277 | Concepts: 205 | FAQs: 32
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers
 - [[agency]] — Learner Agency
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing: how reactive and proactive agent designs shape multimodal reasoning
+- [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
 - [[agent-voice-accents-k12-group-learning]] — Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 - [[agentic-ai]] — Agentic AI
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
@@ -334,12 +336,14 @@ Articles: 1277 | Concepts: 205 | FAQs: 32
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT Solves All Tested Qiskit Homework Assignments
 - [[chatgpt-teachable-agent-programming-lbt-2024]] — Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a Virtual Laboratory Teaching Assistant in Undergraduate Biology
+- [[chatgpt-writing-cognitive-impact-2026]] — ChatGPT Making our Minds Dull? The Cognitive Impact of Using ChatGPT in the Writing Process
 - [[chemistry-education]] — Chemistry Education
 - [[chen-osman-preservice-physics-tpack-ctd-pbl-2026]] — Changes in pre-service physics teachers' TPACK and collaborative problem solving associated with an AI-supported CTD-PBL module: A quasi-experimental study
 - [[chen-preservice-teachers-chatgpt-lpa-2026]] — Unpacking the Heterogeneity of Pre-service Teachers' ChatGPT Acceptance: A Latent Profile Analysis Across STEM and Non-STEM Disciplines
 - [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
 - [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: A case study of transformative faculty development for ethical AI integration in higher education
 - [[child-safety-genai]] — Child Safety in Generative AI: An Expert-Guided and Incident-Grounded Evaluation Framework
+- [[children-ai-safety-misconceptions-2026]] — “If we are good friends, AI doesn't spy so much”: Children's knowledge and misconceptions of AI safety
 - [[chirikov-ai-grade-inflation-2026]] — Artificial Intelligence and Grade Inflation
 - [[chirikov-regulate-ai-syllabi-2026]] — How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi
 - [[choi-anchor-aes-prompting-2025]] — Anchor Is the Key: Toward Accessible Automated Essay Scoring with Large Language Models Through Prompting
@@ -617,6 +621,7 @@ Articles: 1277 | Concepts: 205 | FAQs: 32
 - [[genai-literacy-training-teacher-education-dbr-2026]] — Development and evaluation of artificial intelligence literacy training for teacher education students
 - [[genai-literary-assistants-writing-motivation-2026]] — Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement
 - [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
+- [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
 - [[genai-mindtool-generative-learning]] — Generative AI (GenAI) as a mindtool that supports generative learning (GL)
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges in higher education: the case of disability
