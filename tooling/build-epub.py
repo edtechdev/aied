@@ -211,6 +211,26 @@ def astro_body_markdown(astro_path, chapter_h1):
     body = re.sub(r'<[A-Z][A-Za-z]*\s*/>', '', body)  # self-closing components
     body = re.sub(r'<button\b.*?</button>', '', body, flags=re.S)
 
+    # Strip the leading indentation of the .astro source. Astro pages are
+    # written indented, and in markdown a 4-space-indented line is a CODE BLOCK,
+    # so any line that survives to the end of this conversion (list items whose
+    # parent element has no handler, a <summary>, continuation lines) would come
+    # out as preformatted monospace text. Lines inside <pre> keep their own
+    # indentation.
+    def _deindent(text):
+        parts = re.split(r'(<pre\b.*?</pre>)', text, flags=re.S)
+        return ''.join(part if i % 2 else re.sub(r'(?m)^[ \t]+', '', part)
+                       for i, part in enumerate(parts))
+    body = _deindent(body)
+
+    # <details>/<summary> (collapsible sections): keep the summary text as a
+    # bold lead-in line, drop the disclosure wrapper.
+    def summary(m):
+        t = _html.unescape(re.sub(r'<[^>]+>', '', m.group(1))).strip()
+        return f'\n**{t}**\n\n' if t else '\n'
+    body = re.sub(r'<summary\b[^>]*>(.*?)</summary>', summary, body, flags=re.S)
+    body = re.sub(r'</?details\b[^>]*>', '\n', body)
+
     def link(m):
         href, label = m.group(1), m.group(2)
         label = _html.unescape(label).strip()
@@ -235,11 +255,27 @@ def astro_body_markdown(astro_path, chapter_h1):
         return '\n```\n' + _html.unescape(m.group(1)).strip() + '\n```\n'
     body = re.sub(r'<pre\b[^>]*>.*?<code>(.*?)</code>.*?</pre>', code, body, flags=re.S)
 
+    def _inline(t):
+        """Inline HTML inside a list item / summary -> markdown (bold/italic
+        preserved; links were already converted above)."""
+        t = re.sub(r'<strong>(.*?)</strong>', r'**\1**', t, flags=re.S)
+        t = re.sub(r'<em>(.*?)</em>', r'*\1*', t, flags=re.S)
+        return _html.unescape(re.sub(r'<[^>]+>', '', t)).strip()
+
     def ul(m):
         items = re.findall(r'<li[^>]*>(.*?)</li>', m.group(1), flags=re.S)
-        lines = ['- ' + _html.unescape(re.sub(r'<[^>]+>', '', it)).strip() for it in items]
+        lines = ['- ' + _inline(it) for it in items]
         return '\n' + '\n'.join(lines) + '\n'
     body = re.sub(r'<ul\b[^>]*>(.*?)</ul>', ul, body, flags=re.S)
+
+    # Ordered lists: same handling as <ul>, but numbered. Without this handler
+    # the <li> tags were merely stripped and the "How to use it" steps reached
+    # pandoc as loose text (and, before the de-indent above, as a code block).
+    def ol(m):
+        items = re.findall(r'<li[^>]*>(.*?)</li>', m.group(1), flags=re.S)
+        lines = [f'{i}. ' + _inline(it) for i, it in enumerate(items, 1)]
+        return '\n\n' + '\n'.join(lines) + '\n\n'
+    body = re.sub(r'<ol\b[^>]*>(.*?)</ol>', ol, body, flags=re.S)
 
     body = re.sub(r'<strong>(.*?)</strong>', r'**\1**', body, flags=re.S)
     body = re.sub(r'<em>(.*?)</em>', r'*\1*', body, flags=re.S)
