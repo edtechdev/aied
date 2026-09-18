@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-18T13:30:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -46,6 +46,7 @@ A large body of knowledge base research examines AI-generated formative feedback
 - **Feedback futures:** [[feedback-futures-genai|Feedback Futures]] synthesizes a special issue and argues the question is not *whether* [[generative-ai|GenAI]] can produce feedback but how to design feedback that supports learning, distilling recurring tensions across the field.
 - **Diagnosis-first feedback for open-ended quantitative problems:** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Arthur (Yin et al. 2026)]] delivers real-time, personalized formative feedback on Engineering Economics Calculated Formula Questions, a domain where handwritten, unstructured solutions had previously blocked AI support. A per-question [[machine-learning|XGBoost]] backbone diagnoses likely rubric-labeled mistakes from students' submitted numerical answers (average precision 0.81, recall 0.79), and a dialogue-based scheme requests intermediate answers only when prediction confidence is low — balancing feedback accuracy against collection efficiency within a question-bank web interface.
 - **Scale and limits of LLM formative feedback (systematic evidence):** a PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) finds LLMs can reduce teacher workload and deliver rapid, personalized feedback at scale — especially in large or [[higher-ed|higher-education]] cohorts — but that feedback is sometimes too generic or misaligned with the assigned grade and reliability slips on longer, multilingual, or nuanced tasks, reinforcing that formative AI feedback is best deployed under educator oversight ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **Adaptivity is a separable ingredient, not decoration:** [[ai-feedback-adaptivity-children-plans-2026|Sukjaitham, Schaaf, Brod & Breitwieser (2026)]] supply the direct causal test that most LLM-feedback studies assume away, pitting GPT-4 response-contingent feedback against expert-written generic guidance matched on structure, tone, length, and motivational phrasing (verified with a five-dimension quality rubric, κ = .76–1.00). In a preregistered within-subjects experiment, 155 German fifth- and sixth-graders (M = 12.08 years) revised six if-then plans: plan quality rose from a median of **2 → 5** under adaptive feedback versus **2 → 3** under generic guidance (within-person V = 10,440, p < .001, r = .86; condition × time interaction estimate = 1.68, SE = 0.14, p < .001, with no pre-support difference). Children rated adaptive feedback both more helpful (r = .67) and more motivating (r = .74), and trial-level perceptions predicted the size of revision gains — making perceived usefulness part of the pathway rather than an affective byproduct. Because the control was itself well designed, the study shows added value *beyond* good non-contingent guidance rather than the difference between feedback and nothing: generic guidance is a genuine but limited substitute that plateaus at its own median. Planning served as the test case as a core [[self-regulated-learning|self-regulated learning]] strategy with explicit quality criteria, which makes contingency — the property that distinguishes [[scaffolding]] from static support — directly measurable on a one-sentence response. The authors define adaptivity narrowly as response-contingent adaptation of feedback content to the learner's concrete response, distinguishing it from conversational interactivity, tone, and stable-trait [[adaptive-learning|adaptive learning]].
 
 ## Curriculum-grounded and educator-in-the-loop design
 
@@ -143,3 +144,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
