@@ -1,0 +1,97 @@
+---
+title: "Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis"
+created: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-18T14:40:00-04:00"
+type: article
+pedagogy: [metacognition, self-regulated-learning]
+foundations: [cognitive-offloading]
+technology: [generative-ai, intelligent-tutoring]
+methods: [meta-analysis-systematic-review, quantitative-research]
+research_method: [meta-analysis, quantitative, systematic review]
+level: [k 12, higher ed, secondary]
+audience: [researchers, educators]
+page_kind: [synthesis]
+sources: ['raw/papers/ai-metacognition-three-level-meta-analysis-2026.md']
+confidence: high
+---
+
+> **Synthesis:** Xiuya Li, Xiaowen Liu, Heya Lei and Haibo Yang, at Tianjin Normal University, pool 54 (quasi-)experimental studies — k = 121 effect sizes, N = 7,431 learners, 3,783 in AI conditions against 3,648 controls — in a three-level meta-analysis of whether [[generative-ai|AI]] interventions promote [[metacognition]]. The pooled effect is large and positive, Hedges' g = 0.624 (SE = 0.099, p < .001, 95% CI [0.431, 0.817]), and 107 of the 121 effect sizes point the same way. Only three of fifteen tested moderators survive: the control condition (largest against teacher or peer guidance, g = 1.057), intervention duration (rising from g = 0.381 under a week to g = 1.638 at 15–20 weeks), and [[self-report-measures|measurement source]] (self-report g = 0.776, behavioural observation g = 0.514, accuracy ratings g = 0.035 and non-significant). The authors' own reading is that the boundary conditions matter more than the headline number: the effect is real, strengthens with exposure, and thins out as the outcome moves from what learners believe about their [[self-regulated-learning|self-regulation]] toward how accurately they actually monitor themselves.
+
+## Key Findings
+
+1. **A large positive pooled effect across 54 studies.** From 121 effect sizes and 7,431 participants, AI interventions raised [[metacognition]] with Hedges' g = 0.624 (SE = 0.099, p < .001, 95% CI [0.431, 0.817]) — an effect the authors classify as large on Hattie's (2008) conventions. Of the 121 effects, 107 were positive, 13 negative and one null. Studies ran from 2016 to 2026, and 29 (53.70%) were conducted in China.
+2. **Heterogeneity was substantial and located mostly between studies.** Cochran's Q = 1332.940 (p < .001). The three-level model fitted significantly better than either two-level alternative (without the between-study level: AIC 235.673 vs 293.382, LRT = 59.709, p < .001; without the within-study level: AIC 235.673 vs 289.200, LRT = 55.527, p < .001). Variance components were τ²₍₂₎ = 0.115 within studies and τ²₍₃₎ = 0.410 between studies; decomposition attributed 6.693% of observed variance to sampling error, 20.456% to within-study variance and 72.851% to between-study variance.
+3. **The control condition significantly moderated the effect** (F(4, 112) = 2.814, p = .029). AI produced its largest effect against teacher instruction or peer interaction (g = 1.057, 95% CI [0.759, 1.355]), then mixed conditions (g = 0.573, [0.026, 1.121]), traditional digital learning environments (g = 0.473, [0.208, 0.737]) and no-intervention controls (g = 0.373, [0.028, 0.718]). The comparison against non-interactive learning resources did not reach significance (g = 0.455, 95% CI [−0.051, 0.961], p = .077).
+4. **Longer interventions worked better, monotonically** (F(4, 110) = 3.733, p = .007). Effect sizes climbed from g = 0.381 ([0.091, 0.670]) under a week, to g = 0.518 ([0.139, 0.896]) at 1–5 weeks, g = 0.676 ([0.373, 0.979]) at 5–10 weeks, g = 1.573 ([0.808, 2.338]) at 10–15 weeks and g = 1.638 ([0.789, 2.487]) at 15–20 weeks. The authors read this as evidence against the novelty effect and for a gradual, cumulative process.
+5. **Measurement source significantly moderated the effect** (F(2, 118) = 3.717, p = .027), and the ordering is the paper's sharpest finding. Self-report questionnaires gave g = 0.776 ([0.551, 1.001]); behavioural observations gave g = 0.514 ([0.124, 0.905]); accuracy ratings gave g = 0.035 ([−0.472, 0.543]) and were not significant (p = .890).
+6. **Twelve other moderators failed to reach significance.** Publication type (F(1, 119) = 0.023, p = .879: published g = 0.618 vs unpublished g = 0.660), publication year (β = −0.027, p = .634), subject discipline (p = .680: STEM g = 0.664, non-STEM g = 0.653, mixed g = 0.381 ns), task type (p = .816: individual g = 0.645, collaborative g = 0.518), setting (p = .294: classroom g = 0.796 was the only significant setting; laboratory g = 0.438, self-directed g = 0.342 and mixed settings were not), study design (p = .953), pretest (p = .304), educational level (p = .436: K–12 g = 0.806, higher education g = 0.640, other adult learners g = 0.305 ns), cultural background (p = .392: collectivist g = 0.714, individualist g = 0.393 marginal at p = .058), proportion of male participants (β = 0.189, p = .783), AI role (p = .601: intelligent tool g = 0.809, intelligent tutor g = 0.571, intelligent peer g = 0.764 ns, mixed ns) and AI type (p = .172: general-purpose g = 0.799 vs task-specific g = 0.527).
+7. **Leave-one-out sensitivity analysis left the effect standing.** Re-estimated pooled effects ranged from g = 0.570 (SE = 0.087, [0.401, 0.740]) when Haidar et al. (2025) was excluded to g = 0.656 (SE = 0.095, [0.470, 0.841]) when Aydın Yıldız (2023) was excluded, and every re-estimate remained significant.
+8. **Publication bias was detected, and the correction moved the estimate upward.** Funnel-plot inspection showed asymmetry and Egger's regression confirmed it (t(119) = 4.371, p < .001). Trim-and-fill imputed 12 missing effect sizes, after which the pooled effect was g = 0.777 (p < .001, 95% CI [0.594, 0.960]) — larger than the uncorrected g = 0.624 rather than smaller.
+9. **Screening and quality.** From 19,442 records, 8,210 duplicates and 9,091 title/abstract exclusions left 2,101 full texts, of which 54 met criteria; the commonest exclusion reasons were no AI/non-AI comparison (n = 984) and no metacognitive outcome (n = 741). Inter-rater reliability was κ = 0.91 (screening), 0.89 (coding) and 0.90 (quality). Mean MERSQI study-quality score was 11.16 (SD = 1.50, range 9–15).
+10. **The inclusion rule isolates metacognition deliberately.** Studies were included only if metacognition (monitoring, control, experience or knowledge) was measured as an outcome, and excluded if a broad [[self-regulated-learning|self-regulation]] measure was the sole metacognitive indicator. Because 29 of 54 studies (53.70%) reported multiple outcomes or conditions, effect sizes within studies are dependent — the reason for the three-level model. Inadequate reporting in the primary studies meant metacognitive subcomponents could not be classified, so all indicators were pooled into one composite.
+
+## Why a three-level model was needed
+
+Standard meta-analysis assumes independent effect sizes, and that assumption was clearly violated here: 29 of the 54 studies (53.70%) contributed more than one comparison, because they measured several metacognitive outcomes or ran several experimental conditions. X. Y. Wu et al. (2026), for instance, supplied two effect sizes from one sample (general-purpose AI and task-specific AI against a shared control); Huang et al. (2024) contributed three outcomes from a single study. Discarding the extra comparisons would waste data, and treating them as independent would understate the standard error. The [[meta-analysis-systematic-review|three-level random-effects model]] partitions variance into sampling error (Level 1), within-study variation among effect sizes (Level 2) and between-study variation (Level 3), estimated with restricted maximum likelihood in the metafor package, and the paper reports that both added levels improved fit over the two-level alternatives.
+
+The paper's motivation for the design is also a criticism of the prior evidence base. Earlier syntheses reached contradictory conclusions — Yeo and Lansford (2025) found a small non-significant association (r = .268), Chen and Cheung (2025) a non-significant GenAI effect (g = 0.078), while Doo and Park (2026) reported g = 0.619, Wu and Wang (2026) g = 0.68 and Huang et al. (2026) g = 0.362. The authors attribute the gap to three things: earlier reviews failed to separate [[metacognition]] from the broader self-regulation construct and from learning performance, several restricted scope to a single tool or age group (ChatGPT only; university students only), and others bundled metacognition into composite outcome measures where moderation specific to metacognition cannot be detected.
+
+## What counts as metacognition here, and how it was measured
+
+The construct is Flavell's (1979) "cognition about cognition," operationalised through Efklides' (2008) ternary model: metacognitive knowledge (declarative knowledge about tasks, abilities and strategies), metacognitive experiences (the conscious cognitive and affective states accompanying ongoing activity), and metacognitive monitoring and control (the real-time regulation of cognitive activity). Measurement is sorted into offline and online families. Offline measures are taken after the task — self-report instruments such as the Metacognitive Awareness Inventory (MAI) and the metacognitive self-regulation subscale of the MSLQ, plus retrospective interviews. Online measures are taken during the task — accuracy ratings, scored as the discrepancy between self-assessed and actual performance, and systematic observation of metacognitive behaviour via direct coding or video review.
+
+That distinction is not cosmetic, because the correlation between these families is weak and they appear to capture different things: self-report taps explicit, conscious, socially influenced perceptions, while behavioural and accuracy measures index more implicit processes. The inclusion criteria reflected a deliberate narrowing — a study had to measure metacognition, and studies whose only metacognitive measure was a broad self-regulation scale were excluded. The authors argue this is why their estimate exceeds several earlier ones. It is also where the limits of the evidence sit: the primary literature is dominated by metacognitive monitoring, inadequate reporting prevented subcomponent classification, and the aggregated composite cannot say whether AI helps monitoring, knowledge and experience equally. The moderator result in Finding 5 shows why that gap matters — the whole positive effect lives in measures that ask learners how metacognitive they feel.
+
+## The overall effect and its moderators
+
+The three moderators that survived testing are treated in the discussion as the paper's substantive contribution. On the **control condition**, the authors argue that AI's advantage is largest when the comparison is human guidance or peer interaction because AI sustains continuous, immediate, personalised feedback and adaptive [[scaffolding]] that high student–teacher ratios and time pressure make hard to deliver in ordinary teaching. That reading cuts both ways for interpretation: the effect is largest in the comparison that is least like a no-treatment baseline, so part of the contrast may reflect the limits of stretched human support rather than AI's intrinsic advantage.
+
+On **duration**, the monotonic rise is presented as a rebuttal of the novelty effect. Two arguments are offered: learners now arrive with prior AI experience, and many studies train participants before the intervention begins. The authors favour Venkatesh et al.'s (2003) account that initial operational barriers suppress early benefit and that gains accumulate as learners integrate AI into their regulation — making AI-supported metacognitive growth "gradual, cumulative, and internalized."
+
+On **measurement source**, the discussion is explicit that self-report is vulnerable to social desirability and instructional context, and that perceived gains may not become observable metacognitive behaviour or better monitoring accuracy. The proposed mechanisms for AI's benefit — planning through task decomposition and resource recommendation, monitoring through immediate feedback and progress visualisation, regulation through adaptive strategy advice, reflection through guiding questions, reduced extraneous [[cognitive-offloading|cognitive load]], and the higher-order work of writing effective prompts and evaluating generated answers — are largely metacognitive *processes* on paper, yet the only measures that consistently registered the effect were ones asking learners to rate themselves.
+
+## Where the evidence is weak or inconsistent
+
+The clearest inconsistency is measure-dependent. Accuracy ratings returned essentially zero (g = 0.035, p = .890). If AI were genuinely improving the monitoring and control components of [[metacognition]], this is where improvement should register, and it did not. Set against Fan et al.'s (2025) finding that ChatGPT-using writers engaged in *fewer* metacognitive processes than those consulting human experts — the "metacognitive laziness" pattern — the null accuracy result is the most consequential open question in the paper, and the authors do not resolve it.
+
+Several subgroup results are unstable for a transparent reason: too few effect sizes. The intelligent-peer role produced a numerically large but non-significant effect (g = 0.764, 95% CI [−0.797, 2.326]), as did the mixed-role category, and the authors attribute the wide intervals to low statistical power (Valentine et al., 2010). The same caveat is attached to the non-significant comparison against non-interactive learning resources.
+
+Context results are uneven in a way that is easy to over-read. Classroom settings were the only setting producing a significant effect (g = 0.796), while laboratory (g = 0.438), self-directed (g = 0.342) and mixed settings were all non-significant — but setting was not a significant moderator overall, so this is a pattern, not an established difference. Cultural background showed the same shape: collectivist samples g = 0.714 versus individualist g = 0.393 (marginal, p = .058) and mixed samples intermediate, again without a significant omnibus test. The authors note the countervailing risk that collectivist norms of deference might increase trust in AI and with it susceptibility to [[cognitive-offloading]] rather than [[self-regulated-learning]]. Gender could only be tested as the proportion of males in a study (β = 0.189, p = .783), which the paper concedes risks an ecological fallacy. Educational level was non-significant, with K–12 largest (g = 0.806) — but because primary-education studies were scarce, the whole K–12 span was pooled, so stage-specific differences may be hidden.
+
+## Implications and limitations
+
+For practice the results support three moves: give AI interventions real time rather than single sessions, embed them in authentic classroom activity rather than laboratory tasks, and measure with multiple complementary instruments instead of self-report alone. The paper is candid that the last point conditions the other two, since a self-report-only evidence base cannot distinguish genuine gains in regulation from learners' confidence about it.
+
+The stated limitations are methodological and, in one case, self-implicating. The three-level model's inclusion of multiple effect sizes per study may itself increase exposure to publication bias, and although the trim-and-fill correction left the effect significant the authors still urge caution. Note also that the correction *raised* the estimate to g = 0.777 rather than lowering it, which is the opposite of the usual direction and is not explained. Effect sizes were unevenly distributed across moderator categories, limiting the stability of those estimates. Inadequate reporting in primary studies blocked subcomponent analysis and left several moderators untestable. Quality was assessed with MERSQI (mean 11.16, SD = 1.50) and rated generally high, but the design mix is mostly quasi-experimental (study design was a non-significant moderator, p = .953, so true and quasi-experiments agreed), and causal claims still rest on comparisons that cannot be blinded. On provenance, the manuscript reports a preregistration on the Open Science Framework with the link blinded for peer review and gives no DOI or journal, so it should be treated as unpublished or under review; internal consistency is otherwise good apart from minor rounding, the results reporting g = 0.624 [0.431, 0.817] where the discussion reports g = 0.623 [0.430, 0.817].
+
+## Connected Concepts
+
+- [[metacognition]] — the outcome construct, defined through knowledge, experience and monitoring/control
+- [[self-regulated-learning]] — the broader construct the authors deliberately separate from metacognition
+- [[cognitive-offloading]] — the risk mechanism behind the null accuracy-rating result and the "metacognitive laziness" critique
+- [[generative-ai]] — the dominant technology in the post-2022 studies, alongside earlier intelligent tutoring systems
+- [[intelligent-tutoring]] — the historical AI role and one of the tested moderator categories
+- [[meta-analysis-systematic-review]] — the method, its PRISMA reporting and its multilevel variants
+- [[self-report-measures]] — the measurement family carrying the largest and least trustworthy effects
+- [[scaffolding]] — the metacognitive support mechanism the authors claim AI supplies
+- [[self-directed-learning]] — a non-significant intervention setting that raises questions about unsupervised AI use
+- [[collaborative-learning]] — the task type tested and found not to moderate the effect
+- [[student-ai-interaction]] — the behavioural domain the observational measures capture
+- [[learning-gains]] — the neighbouring outcome other AI meta-analyses target, contrasted with metacognition here
+
+## Connected Articles
+
+- [[cognitive-offloading-metacognitive-review-2026]] — Mechanisms and interventions linking offloading to metacognitive monitoring
+- [[ai-metacognition-stem-review]] — Review of AI tools that scaffold metacognition in STEM settings
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Whether metacognitive training produces better-calibrated offloading
+- [[cui-motivation-roles-metacognitive-genai-2026]] — How motivation and AI role shape metacognitive engagement in GenAI interaction
+- [[zhao-genai-higher-order-thinking-meta-2026]] — Meta-analysis of GenAI effects on higher-order thinking, a neighbouring outcome
+- [[oneill-presumed-effective-meta-analysis-2026]] — Critique of flawed meta-analytic practice in AI-in-education evidence
+- [[banihashem-ai-srl-systematic-mapping-review-2025]] — Mapping review of the AI and self-regulated learning intersection
+- [[lim-bannert-student-regulation-genai-chatbot-2026]] — Process evidence on how students actually regulate learning with a chatbot
+- [[liu-ai-literacy-interventions-meta-analysis-2026]] — Meta-analysis of AI literacy interventions, sharing the moderator-first design
+- [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI's effect on learning for comparison of effect magnitudes
+
+## Citation
+
+Li, X., Liu, X., Lei, H., & Yang, H. (2026). [*Can artificial intelligence promote metacognition? Evidence from a three-level meta-analysis*](https://osf.io/preprints/psyarxiv/pa3wj_v1). *PsyArXiv Preprints*.

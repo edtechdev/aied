@@ -1,17 +1,20 @@
 # Journal
 
-Last updated: 2026-09-18 | Total entries: 1506
+Last updated: 2026-09-18 | Total entries: 1513
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
 - 📄 [[adolescent-chatbot-self-disclosure-help-seeking-2026]] — Turn to chatbots for sharing feelings or seeking solutions? Differential associations of preferences for chatbot-mediated self-disclosure and instrumental help-seeking with adolescent interpersonal behaviors in the United States and Hong Kong
 - 📄 [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI
 - 📄 [[ai-assisted-assessment-instruction-higher-ed-2026]] — AI-Assisted Assessment and Instruction in Higher Education: Foundations, Applications, and Implications for Exam Design
+- 📄 [[ai-augmented-partner-school-consultation-2026]] — Artificial intelligence as an augmented partner in school consultation: Applications across the problem-solving process
 - 📄 [[ai-education-effects-second-order-meta-analysis-2026]] — What Do We Know About the Effects of Artificial Intelligence in Education? A Second-Order Meta-Analysis
 - 📄 [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans
 - 📄 [[ai-literacy-instrument-development-systematic-review-2026]] — Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality
 - 📄 [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
+- 📄 [[ai-metacognition-three-level-meta-analysis-2026]] — Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis
 - 📄 [[ai-mindset-psychological-framework-2026]] — AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use
+- 📄 [[ai-tutor-statistical-programming-adoption-2026]] — Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study
 - 📄 [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading
 - 📄 [[ampt-math-personalization-genai-2026]] — AMPT: A Tool for Personalizing Math Learning with Generative AI
 - 📄 [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Beyond the algorithm: academic developers as digital mediators in Global South higher education
@@ -24,12 +27,15 @@ Last updated: 2026-09-18 | Total entries: 1506
 - 📄 [[creativa-process-dynamic-creativity-assessment-2026]] — CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models
 - 📄 [[dabkowski-nursing-academics-genai-2026]] — Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education
 - 📄 [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
+- 📄 [[educating-minds-generative-ai-2026]] — Educating minds with generative AI
 - 📄 [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
 - 📄 [[gails-generative-ai-literacy-scale-2026]] — The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups
 - 📄 [[genai-creativity-k12-scoping-review-2026]] — Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review
+- 📄 [[genai-critical-thinking-k12-design-2026]] — Vicious or Virtuous? Designing Generative AI-Powered Learning Experiences to Foster Rather than Undermine Critical Thinking in K-12 Education
 - 📄 [[genai-math-relevance-intervention-2026]] — Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention
 - 📄 [[genai-usage-styles-creative-self-beliefs-2026]] — The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education
 - 📄 [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
+- 📄 [[genai-writing-robma-reanalysis-2026]] — Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)
 - 📄 [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - 📄 [[gutowski-hurley-genai-policy-legal-education-2025]] — Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education
 - 📄 [[hadra-ai-detector-accuracy-efl-2026]] — Evaluating the accuracy and reliability of AI content detectors in academic contexts
@@ -43,6 +49,7 @@ Last updated: 2026-09-18 | Total entries: 1506
 - 📘 [[legal-issues-and-risks]] — Legal Issues and Risks
 - 📄 [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Towards trustworthy and explainable-by-design large language models for automated teacher assessment
 - 📄 [[li-genai-assessment-language-equity-2026]] — GenAI assessment and language equity: Drawing the line between support and substitution
+- 📄 [[llm-grading-self-preference-bias-2026]] — Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias
 - 📄 [[meds-math-education-digital-shadows-2026]] — Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs
 - 📄 [[milicevic-socratic-trap-strategic-misconceptions-2026]] — The Socratic trap: Benchmarking the capacity of large language models to generate strategic misconceptions in computer science education
 - 📄 [[mulisa-students-genai-integrity-perspectives-2026]] — Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives
