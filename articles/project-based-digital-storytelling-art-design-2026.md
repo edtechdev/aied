@@ -1,7 +1,7 @@
 ---
 title: "In the AI era: A project-based digital storytelling framework for art and design education"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/project-based-digital-storytelling-art-design-2026.md"]
 pedagogy: [creativity, project-based-learning, storytelling-in-education]
@@ -27,13 +27,19 @@ The model is grounded in an integrative theoretical framework: [[constructivist]
 - **Human intentionality drives quality:** the top-scoring wholeness example (*Mermaid Legacy*, 5/5) attributed its integration to sustained human [[student-engagement|engagement]] with source material and iterative refinement rather than technical polish from AI tools.
 - **Real-world validation:** the project culminated in a three-day public exhibition of all 92 works, and 31 works were subsequently selected by the Cultural and Tourism Bureau for practical implementation, affirming the model's authentic, community-engaged impact.
 
-## Implications for Practice
+## What this means for practice
 
-- **Structure AI use within a creative process.** Embed [[generative-ai]] across production stages for research, ideation, prototyping, and editing, but scaffold students to direct, evaluate, and integrate AI output against their own narrative and emotional goals—treating AI as an "inspiration engine" and "technical assistant," not an autonomous author.
-- **Anchor learning in authentic, community-engaged projects.** Pair PBL with fieldwork and real-world audiences (here, local heritage and a Cultural and Tourism Bureau partner) to drive the intrinsic task [[motivation]] that Amabile's model identifies as essential and to supply lived, firsthand material that AI cannot replicate.
-- **Prioritize extended scaffolding for integration.** Given lower wholeness scores, dedicate additional support—weekly task statements, progress reviews, and iterative [[feedback|feedback loops]]—to narrative coherence, technical execution, and multimodal synthesis, not just idea generation.
-- **Maintain favorable mentor-to-student ratios** (roughly 1:9 here) to provide consistent, personalized guidance, especially in developing students' critical and strategic use of AI as a complement to rather than substitute for [[human-in-the-loop-ai|human judgment]].
-- **Use public presentation and critique as authentic assessment** and as a driver of reflection on authorship, originality, and creative responsibility—core to [[ai-literacy|AI literacy]] in creative fields.
+- **Educators.** Embed [[generative-ai]] at every production stage for research, ideation, prototyping, and editing, while requiring students to direct, evaluate, and integrate AI output against their own narrative and emotional goals.
+- **Educators.** Add weekly task statements, progress reviews, and iterative [[feedback|feedback loops]] aimed at narrative coherence, technical execution, and multimodal synthesis: wholeness was the weakest and most variable rated dimension, with 43% of projects in the lowest score band.
+- **Curriculum designers.** Anchor projects in authentic community partnerships and fieldwork so students work from firsthand cultural material that AI cannot replicate and pursue intrinsic task [[motivation]].
+- **Curriculum designers.** Staff capstone projects at roughly one mentor per nine students (48 mentors for 426 students here) so guidance on strategic AI use stays consistent and personal.
+- **Designers.** Stage a public exhibition and expert critique as the assessment event so authorship, originality, and creative responsibility become objects of reflection rather than [[ai-literacy|AI literacy]] slogans.
+
+## Limitations
+
+- The creative-thinking gain rests on a one-group pre-test/post-test design with 31 Animation students; the authors state it should not be read as causal evidence for the PBL-DS framework or for AI-supported tools.
+- The study covers a single institutional context—a 15-week capstone at one Chinese university with 426 final-year students and 92 projects—so transferability across disciplines and institutions remains untested.
+- AI-supported practice was inferred from representative project analysis rather than process data; no design logs, reflective journals, or AI interaction records were collected, so variation in how students actually interacted with AI was not captured.
 
 ## Connected Concepts
 

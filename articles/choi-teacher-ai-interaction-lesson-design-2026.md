@@ -1,7 +1,7 @@
 ---
 title: "Analyzing teacher-AI interaction patterns across teacher experience and AI proficiency in student-centered lesson design"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-02T09:00:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 pedagogy: [distributed-cognition]
@@ -28,6 +28,19 @@ page_kind: [framework]
 **Distributed-cognition framing.** The authors interpret results through [[distributed-cognition|Distributed Cognition Theory]] (Hutchins), framing generative AI as a cognitive artifact that extends teachers' capacity to store, retrieve, and manipulate instructional knowledge. For novices, [[cognitive-offloading|cognitive load]] is largely delegated to the system — an AI-dominant distribution; for experienced, AI-proficient teachers, an "optimal" distribution emerges where expertise and AI complement each other. Because GenAI actively generates and co-constructs rather than merely stores, they recast this as *participatory shared cognition*, echoing [[sociocultural-learning|sociocultural]] co-construction ([[human-ai-collaboration|Vygotskian dialogue and joint activity]]) and positioning AI as a co-designer while the teacher remains the pedagogical decision-maker.
 
 **Need for differentiated teacher support.** Implications center on matching support to the experience × proficiency profile: response-evaluation checklists and prompt templates for novices (to build critical adaptation and contextual judgment), and hands-on skill-building [[educational-development|professional development]] for experienced teachers with lower AI proficiency. Collaborative professional development and peer mentoring are suggested, alongside [[ethics|ethical]] reflection and attention to teacher [[agency]], [[trust]], and [[privacy|data-privacy]] concerns.
+
+## What this means for practice
+
+- **Instructors.** Evaluate every AI suggestion against your students and classroom context before adopting it: the most common pattern among experienced, AI-proficient teachers was elaborated adoption (33%) — examining and refining output — not acceptance.
+- **Instructors.** Diagnose the [[student-ai-interaction|interaction pattern]] you default to and treat rejection as the start of a re-prompting cycle rather than the end of the exchange; less experienced teachers showed predominantly direct adoption and rarely considered students and context.
+- **Faculty developers.** Build development around pedagogical judgment rather than tool fluency alone: AI proficiency enabled technical communication, but teaching experience supplied the contextual judgment to evaluate outputs, so pair response-evaluation checklists and prompt templates for novices with hands-on prompting practice for experienced teachers who lack AI proficiency.
+- **Faculty developers.** Pair teachers across experience and AI-proficiency profiles for peer mentoring and collaborative professional development, so experienced teachers' contextual judgment and less experienced teachers' technical fluency transfer in both directions.
+
+## Limitations
+
+- Ten elementary teachers in South Korea: the authors state the sample size was relatively small and the elementary-level focus limits generalizability to other educational levels and subjects.
+- Sorting participants into four cases by experience and AI proficiency yields small cells, and the authors report that this design does not support robust comparative conclusions — findings should be interpreted with caution.
+- Data come from think-aloud planning sessions with ChatGPT (82 cord boxes) rather than enacted classroom lessons, and the study did not evaluate whether the AI-assisted lesson plans actually reflected student-centered instructional principles.
 
 ## Connected Concepts
 

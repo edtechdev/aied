@@ -1,7 +1,7 @@
 ---
 title: "Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs"
 created: "2026-09-02T09:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, student-engagement]
 technology: [learning-analytics, personalized-learning]
@@ -28,6 +28,20 @@ Machine learning benchmarks demonstrated that a **Soft-Voting Ensemble** achieve
 ### Early Warning System proof of concept
 
 Applied as a proof-of-concept Early Warning System, the survey-trained model identified four high-risk active students whose behavioral profiles corroborated the model's predictions. This demonstrates the feasibility of flagging at-risk students from mixed survey and behavioral signals.
+
+## What this means for practice
+
+- **Instructors.** Track practice habits rather than stated confidence. Students who stopped reported higher theoretical confidence than their active peers while their upsolving habit and peer-circle density were significantly weaker (*p* < .001), so a [[self-efficacy|confidence]] signal alone will mislead you.
+- **Instructors.** Act on abrupt drops in contest participation — true attrition was preceded by an 83.71% reduction — and pair experienced with newer participants while monitoring students who show irregular engagement after extended breaks.
+- **Designers.** Build early-warning dashboards on behavioral telemetry, including engineered indicators such as the Intensity Ratio, rather than survey responses alone: the survey model's CV F1 = 0.924 was trained on only 64 students and overstates generalizability.
+- **Administrators.** Treat the four flagged students as a proof of concept, not a deployment. Fund longitudinal validation over a 2–3 month window before such [[learning-analytics|risk flags]] inform high-stakes decisions about real students.
+
+## Limitations
+
+- The survey data are small (n = 73 collected, n = 64 used for predictive modeling) and limited to ten universities in Bangladesh, which the authors note may not generalize to other academic or cultural contexts.
+- Attrition is a proxy: the Codeforces labels use an inactivity threshold that cannot distinguish genuine dropout from temporary academic breaks.
+- Retrospective recall bias is a stated limitation: upsolving habit and thought-quit were reported by stopped students after they disengaged, which may systematically inflate the apparent separation between active and stopped cohorts on self-reported measures, and both datasets are observational, permitting no causal conclusions.
+- The Early Warning System ran over only 22 active students with no follow-up data, so it is unverified whether the four flagged high-risk individuals actually attrited or declined.
 
 ## Connected Concepts
 - [[cs-education]]

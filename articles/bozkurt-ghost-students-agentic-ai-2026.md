@@ -1,7 +1,7 @@
 ---
 title: "The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai, cognitive-offloading]
 pedagogy: [online-teaching-and-learning]
@@ -28,13 +28,20 @@ institutions: [governance]
 6. **Severe data-protection and security risks.** BYOA ("bring your own agent") triggers catastrophic failure of frameworks like FERPA, GDPR, and Türkiye's KVKK, which assume [[governance|institutional]] control that no longer exists; prompt-injection attacks let malicious pages hijack the agent's privileged access.
 7. **The solution is [[pedagogy|pedagogical]], not technical.** Institutions must shift from product-oriented to process-oriented, dialogic, and reflective assessments—presence-required formats such as oral defenses, live presentations, and reflective [[eportfolio|portfolios]] that value "human becoming" over algorithmic proxies.
 
-## Implications
+## What this means for practice
 
-- Assessment design should prioritize verified human presence (oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective portfolios), which remain resistant to automation.
-- [[educational-development|Faculty development]] at massive scale is a foundational prerequisite: instructors must understand how agentic browsers work to design against them.
-- Students should be offered explicit pedagogical choices and be asked to articulate *what they learned*, not merely what they submitted, embedding reflection into the [[curriculum-design|curriculum]].
-- Institutions must establish explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates transparent risk, and addresses the loss of the "private session" under [[privacy|data-protection]] mandates.
-- [[equity-in-ai-education|Equity]] vigilance is required: presence-required formats can disadvantage students with disabilities, language barriers, or [[neurodiversity|neurodivergence]], so institutions must "design inclusive presence."
+- **Instructors.** Move assessment to presence-required formats — oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective [[eportfolio|portfolios]] — because agentic browsers with valid LMS credentials look identical to normal student activity.
+- **Instructors.** Learn how agentic browsers actually work (authenticated LMS access, content navigation, prompt-injection exposure) before designing against them; the authors treat [[educational-development|faculty development]] at massive scale as a prerequisite, not an add-on.
+- **Administrators.** Write explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates risk transparently, and addresses the loss of the "private session" under data-protection mandates, since BYOA breaks the institutional-control assumptions behind FERPA, GDPR, and KVKK.
+- **Institutions.** Design inclusive presence deliberately: presence-required formats can disadvantage students with disabilities, language barriers, or [[neurodiversity|neurodivergence]], so equity vigilance is part of the format decision.
+- **Instructors.** Ask students to articulate what they learned, not merely what they submitted, and embed that reflection in the [[curriculum-design|curriculum]] so the choice between delegating and learning is named explicitly.
+
+## Limitations
+
+- This is a theoretical analysis with no empirical study: there is no sample, no measured prevalence of ghost students, and no field test of the proposed assessment redesign.
+- The claim that detection is structurally impossible rests on a vendor acknowledgement (Anthology/Blackboard's statement that AI agents "look identical to normal student activity"), browser-fingerprinting arguments, and platform capability descriptions rather than independent validation.
+- The cognitive-debt and credential-trust arguments rest partly on cited external evidence — for instance the result that GPT-4 access raised practice scores 48% while lowering exam performance 17% — rather than new data collected for this paper.
+- The authors themselves acknowledge that designing for presence is inherently difficult and does not scale like a quiz: oral defenses and portfolios require time, funding, and professional support that many institutions have cut, and the paper offers no cost or workload evidence.
 
 ## Connected Concepts
 

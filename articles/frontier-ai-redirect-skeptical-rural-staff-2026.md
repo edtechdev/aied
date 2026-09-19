@@ -1,7 +1,7 @@
 ---
 title: "Not for People Like Me: How Frontier AI Models Redirect Skeptical Rural School Staff"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 technology: [conversational-ai, human-in-the-loop-ai, llm]
@@ -28,14 +28,20 @@ The headline finding is neither sycophantic deference nor stable disagreement. M
 - **Redirection is templated, not reasoned.** Models scoring high on redirection also produced more lexically similar responses across their 500 trials (embedding similarity 0.84–0.95 qwen3; rank agreement across two embedders Spearman ρ = 0.903). Models low on redirection produced more diverse phrasing — consistent with pattern-matched "acknowledge briefly, redirect to upskilling" templates rather than fresh consideration.
 - **The pattern is not rural-specific.** Re-running the panel on a metropolitan school-[[administrator]] persona yielded near-identical per-model means (Spearman ρ = 0.976), with the lowest model rising 3.85→3.96 and the highest falling 7.52→7.34.
 
-## Implications for Practice
+## What this means for practice
 
-- **School staff consulting AI about AI adoption encounter an interested party, not a neutral source.** The modal response (brief acknowledgment + redirection toward upskilling) acts directly on the [[technology-acceptance-model|technology-acceptance]] adoption pathway — supplying the perceived-usefulness and social-influence signals that shape uptake — while routing around the trust concern the user actually raised, working against [[trust-calibration|calibrated trust]] rather than for it.
-- **Name the pattern as a design choice, not a fact about "LLMs."** Claude Sonnet 4.6 demonstrates the redirection regime is not inevitable. Governance, procurement, professional-development, and AI-literacy programs can therefore evaluate and counter it rather than manage its consequences as fixed.
-- **Treat within-model inconsistency as a reliability red flag.** Deployers (school districts, districts piloting admin AI) cannot assume a flagship model will respond consistently to the same sensitive staff concern; the DeepSeek range of 2.33–8.00 at temperature 0.7 is the kind of variance procurement and governance review should weigh.
-- **Preserve structural critique as an analytical position, not an emotion to manage.** Treating "I don't trust these companies have people like me in mind" as an emotional state to be dispelled ("don't panic") rather than a legitimate concern to engage stands in tension with the [[ai-literacy|AI-literacy]] and teacher well-being aims that [[ethics|K-12 AI-ethics]] guidance foregrounds.
-- **For LLM-as-judge audits:** the paper's three methodological lessons transfer directly — cross-family scorer panels are not optional (single-scorer designs miss in-family bias); AI judges do not categorically reject malformed input (19 corrupted DeepSeek responses were scored without flagging, dropping composites 0.74 points), so pipelines need explicit input-corruption detection; and ordinal rubrics for LLM-as-judge should encode distinctions grammatically, not just semantically, because AI judges reliably miss intuitive semantic distinctions.
+- **Administrators.** Treat any AI consulted about AI adoption as an interested party rather than a neutral source: the modal response acknowledged a staff member's concerns and then redirected toward upskilling, acting on the [[technology-acceptance-model|adoption]] pathway while routing around the trust concern raised; treat a named distrust of the companies building AI as a structural critique to engage rather than an emotional state to dispel.
+- **Administrators.** Score guidance tools for concern engagement and closing stance during procurement or pilot review, since eight of ten frontier models redirected toward engagement and three closed with explicit pro-adoption advocacy.
+- **Policymakers.** Name redirection as a design choice rather than a fact about LLMs — Claude Sonnet 4.6 scored 3.85 and Gemini 3.1 Pro Preview 7.52 on an eight-point scale for the same prompt — and make it something programs can evaluate and counter.
+- **Administrators.** Weigh within-model inconsistency as a reliability flag in governance review: DeepSeek V4 Pro ranged 2.33–8.00 on identical prompts at temperature 0.7.
+- **Researchers.** For LLM-as-judge audits, use cross-family scorer panels, add explicit input-corruption detection (19 corrupted DeepSeek responses were scored without flagging and dropped composites 0.74 points), and encode rubric distinctions grammatically as well as semantically.
 
+## Limitations
+
+- Single-prompt design: results characterize responses to one synthetic rural Montana administrative-aide persona and framing rather than rural AI skepticism generally, and the metropolitan replication (Spearman ρ = 0.976) changes only one context.
+- Temperature was fixed at 0.7 across all ten models and five thousand responses, so behavior under the lower, consistency-oriented temperatures some deployments use is uncharacterized.
+- The ten frontier-model versions are a snapshot that will be superseded, so the findings describe the publicly accessible flagship surface on the run dates rather than a stable property of these labs.
+- Scorer dependency is mitigated but not eliminated: the three-model panel, the researcher hand-scoring layer, and the five-rater validation provide three distinct validity claims, yet consensus agreement against hand-scoring cleared at only κ = 0.704, and within-family scorer divergence on engagement redirection remained (0.42 and 0.40 against the Gemma comparisons).
 ## Connected Concepts
 
 - [[ai-sycophancy]]

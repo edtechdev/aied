@@ -1,7 +1,7 @@
 ---
 title: "Personalized neural cognitive architecture search"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/personalized-neural-cognitive-architecture-search-2026.md"]
 technology: [adaptive-learning, cognitive-diagnosis, learning-analytics, personalized-learning]
@@ -29,13 +29,19 @@ The system was evaluated on a proprietary [[governance|institutional]] dataset o
 - The discretized architecture retrained from scratch maintains validity (AUC 0.887, 95% CI 0.884–0.890) and scales sub-linearly — search time grows only ~2.8x for a 10x increase in data, with AUC stable (0.889 → 0.885) from 18,000 to 1.8 million students.
 - [[bias-mitigation|Fairness]]-aware regularization (equalized odds) keeps gender- and parental-education-based AUC disparities below ~3% (2.1% and 2.8% respectively).
 
-## Implications for Practice
+## What this means for practice
 
-- Supports a shift from [[summative-assessment|summative]], outcome-only evaluation to continuous, process-oriented [[formative-assessment|formative]] diagnosis, aligning with outcome-based education and institutional quality-assurance demands.
-- Generated diagnostic outputs can identify weak knowledge points, surface common misconceptions, and target instructional [[feedback]] — instructors found the reports most useful for selecting students for targeted review and adjusting review-session focus.
-- AutoML lowers the technical threshold for building diagnostic models, reducing dependence on expert hand-tuning and manual architecture design across diverse educational scenarios.
-- The distinction between learner modeling, cognitive diagnosis, recommendation, and quality monitoring cautions practitioners against treating diagnostic accuracy as equivalent to recommendation or evaluation systems, which need their own downstream integration.
+- **Assessment designers.** Use AutoML-driven architecture search to lower the threshold for building [[cognitive-diagnosis|cognitive diagnosis]] models, gaining an AUC of 0.891 over 0.878 for the same algorithm in a neutral search space.
+- **Learning analytics designers.** Fuse behavioral, cognitive, and contextual sources into a heterogeneous information network before diagnosis; removing that representation dropped knowledge mastery rate and learning efficiency by five to six percentage points.
+- **Instructors.** Act on diagnostic output by selecting students for targeted review and adjusting review-session focus, the use instructors rated most valuable (actionability 4.06 of 5).
+- **Researchers.** Validate diagnoses against expert agreement (Cohen's kappa 0.78 versus 0.65 for IRT) before treating model accuracy as evidence of pedagogical value.
 
+## Limitations
+
+- The evaluation used a proprietary single-institution dataset — 18,542 undergraduate learners across 256 classes and 18 schools or departments over four academic years (2020–2024) — that is not publicly available because of privacy and re-identification risk.
+- Mastery ground-truth labels were constructed through instructor-reviewed curriculum mappings and convergent assessment evidence rather than direct log-to-label conversion, since behavioral traces such as page-stay time or repeated attempts are ambiguous.
+- Human validation used a small panel of 10 educational psychologists on 100 student cases and 12 instructors on 60 diagnostic reports, and the authors describe it as evidence of practical usability rather than proof of long-term learning improvement.
+- Fairness checks covered only gender and parental education, holding AUC disparities to 2.1% and 2.8%; other learner populations remain unvalidated.
 ## Connected Concepts
 
 - [[cognitive-diagnosis|cognitive diagnosis]]

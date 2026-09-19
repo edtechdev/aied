@@ -1,7 +1,7 @@
 ---
 title: "Layer-Sensitive Cognitive Offloading in Generative AI-Assisted Writing: Supported Performance and Independent No-AI Outcomes"
 created: "2026-08-30T16:30:00-04:00"
-updated: "2026-08-30T16:30:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
@@ -35,9 +35,21 @@ This refines the knowledge base's broader offloading literature by showing that 
 
 The bounded-support condition combined two components — restrictions on the depth of delegation and compulsory explanation of how AI suggestions were accepted, changed, or rejected. Its advantage on Week 8 independent outcomes cannot isolate the effect of the delegation boundary from the reflective requirement, which the author explicitly acknowledges as a bundled [[learning-design|instructional design]]. The process data, however, are informative: bounded support produced more learner-led revision, selective adaptation, and less minimally-transformed adoption. The [[self-regulated-learning|self-regulated writing]] moderator finding — that reflection and self-regulation attenuate but do not eliminate the offloading cost — extends the existing evidence that [[metacognition|metacognitive]] [[student-engagement|engagement]] partially protects learners, but cannot fully compensate for delegating the cognitive work itself.
 
+## What this means for practice
+
+- **Instructors.** Restrict AI delegation to the surface and structural layers — language polishing, grammar, and outlining — and keep idea generation and reasoning (warrants, counterarguments, evidence interpretation) with the learner; reasoning offloading carried the strongest negative indirect estimate (ab = −0.34, 95% CI [−0.47, −0.20]).
+- **Instructional designers.** Attach compulsory reflection to every permitted AI use, requiring students to explain how each suggestion was accepted, changed, or rejected — the bounded-support condition that outperformed open collaboration bundled delegation limits with exactly that requirement.
+- **Instructors.** Assess supported performance and independent no-AI performance as separate outcomes: open collaboration produced the highest supported-writing mean (M = 4.02) yet the lowest Week 8 independent result.
+- **Instructors.** Build [[self-regulated-learning|self-regulated writing]] capacity as a buffer without treating it as a fix — the negative offloading slope weakened from −0.54 to −0.33 across one SD of self-regulated writing but never turned positive.
+- **Researchers.** Report effects *with* and effects *of* the tool separately and measure independent outcomes only after support is withdrawn, since the two profiles diverged.
+
 ## Limitations
 
-The study is quasi-experimental with only six intact classes, so results are classroom-level, mechanism-consistent associations rather than definitive causal effects; the bounded condition bundles delegation limits with compulsory reflection; two intervention prompts concerned AI and could cue condition (demand characteristics); the Week 8 task is a same-course, same-genre near-transfer assessment, not evidence of broad or far transfer; and the associative decomposition, while covariate-adjusted, is not proof of causal mediation.
+- The design is quasi-experimental with only six intact classes, so the results are classroom-level, mechanism-consistent associations rather than definitive causal effects.
+- The bounded condition bundles delegation limits together with compulsory reflection, so the two cannot be separated.
+- Two intervention prompts concerned AI and could have cued the condition, a demand-characteristics risk the authors name.
+- The Week 8 task is a same-course, same-genre near-transfer assessment, not evidence of broad or far transfer, and the covariate-adjusted associative decomposition is not proof of causal mediation.
+
 
 ## Connected Concepts
 

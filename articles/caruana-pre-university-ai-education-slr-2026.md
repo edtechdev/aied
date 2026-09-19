@@ -1,7 +1,7 @@
 ---
 title: "Preparing Learners and Teachers for an AI-Driven Future: Emerging Trends, Pedagogical Challenges, and Critical Perspectives in Pre-University AI Education: A Systematic Literature Review"
 created: "2026-08-28T09:15:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-education, ai-literacy, curriculum-design, teacher-role]
 technology: [generative-ai]
@@ -31,11 +31,20 @@ This review consolidates the growing evidence that AI education in primary and s
 - **Geographical concentration** in Europe and North America; limited representation from developing regions and from primary (vs. secondary) education.
 - **No standardized instruments** for assessing AI literacy, critical thinking, or ethical GenAI competencies.
 
-## Implications
-1. **Invest in teacher education** that pairs AI literacy and algorithmic ethics with [[motivation|motivational]]/institutional factors ([[self-efficacy]], perceived usefulness, organizational support).
-2. **Embed AI literacy as a cross-curricular competency**, not a standalone technical subject.
-3. **Rethink assessment** beyond final products toward complex reasoning and reflective [[student-engagement|engagement]] with AI.
-4. **Develop governance and policy frameworks** for transparent, safe, inclusive, and accountable AI use.
+## What this means for practice
+
+- **Instructors.** Invest in AI-focused professional development that pairs AI literacy and algorithmic ethics with [[motivation|motivational]] and institutional factors ([[self-efficacy]], perceived usefulness, organizational support), since teacher preparedness is the review's most consensus-heavy condition for effective integration.
+- **Instructors.** Embed AI literacy as a cross-curricular competency rather than a standalone technical subject, covering technical understanding, critical thinking, algorithmic ethics, and responsible digital citizenship.
+- **Instructors.** Rethink assessment beyond final products toward complex reasoning and reflective [[student-engagement|engagement]] with AI, given the documented risks of [[cognitive-offloading|cognitive offloading]], content unreliability, and technological dependency.
+- **Instructors.** Prepare to teach structured, interdisciplinary curricula such as AI4K12 and the Five Big Ideas in AI, including competency-based models that add critical thinking, digital citizenship, creativity, problem solving, and ethical reflection alongside [[prompt-engineering|prompt engineering]].
+- **Instructors.** Work within — and press for — governance that ensures transparency, accountability, [[human-in-the-loop-ai|human oversight]], data protection, and [[academic-integrity|academic integrity]], because access, connectivity, and training disparities otherwise reinforce existing [[equity-in-ai-education|inequalities]].
+
+## Limitations
+
+- The search was restricted to English-language publications, which may have excluded relevant research from other linguistic and educational contexts.
+- The corpus spans 42 studies of mixed type (empirical, conceptual, and review articles), making direct comparison difficult and allowing overlap in the underlying evidence, so the findings are a qualitative thematic synthesis rather than independent evidence.
+- No formal methodological quality or risk-of-bias appraisal was conducted: all included studies contributed equally regardless of design, and the review was not prospectively registered.
+- Google Scholar served as a complementary source whose selected results depended on the platform's ranking algorithms, introducing retrieval bias; evidence is additionally concentrated in Europe and North America and thin on primary (versus secondary) education, and GenAI's rapid evolution may date parts of it quickly.
 
 ## Connected Concepts
 - [[k-12]]

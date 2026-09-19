@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, learning-design]
 technology: [generative-ai]
@@ -25,12 +25,20 @@ audience: [assessment designers, instructors, institutions]
 5. **GenAI assessment is cheap and 24/7.** Unlike essay mills or contract cheating, GenAI can produce high-quality, seemingly original work for free or very cheaply, undermining authorship detection and circumventing the effort required to learn.
 6. **Output-based written assessments are vulnerable.** Common written formats—reports, essays, and take-home exams—are susceptible, whereas performative, synchronous, and socially experiential assessment formats are more resistant.
 
-## Implications
+## What this means for practice
 
-- **Authentic assessments are not a panacea** for protecting academic integrity from [[generative-ai|GenAI]]; policy and practice must keep the focus on assessment design rather than the format label alone.
-- Assessments of learning should shift from assessing output to focusing on **process and workplace relevance**, a paradigmatic shift from written to synchronous interpersonal (performative, dialogic, oral) assessment models.
-- This move has far-reaching consequences for the academy: if written assessments can no longer be trusted as a reliable indicator of learning, marking, moderation, and credentialing practices must be reconsidered.
-- The findings underpin the argument for [[authentic-assessment|authentic, presence-required assessment formats]] that value process and social [[experiential-learning|experiential learning]], complementing the design-for-presence agenda in [[agentic-ai|agentic AI]] debates.
+- **Assessment designers.** Stop treating authenticity as a safeguard: the level of authenticity in an assessment had very limited impact on detecting [[generative-ai|GenAI]] use, and GenAI-generated work passed faculty scrutiny — shift the effort to process-based, performative, and synchronous interpersonal designs instead.
+- **Instructors.** Account for the awareness effect when marking: knowing GenAI might be present produced six false positives on unaltered student work and seven missed AI samples, and markers assigned high-scoring samples grades up to 10 percentage points lower.
+- **Institutions.** Revisit marking, moderation, and credentialing for written assessments now that markers generally cannot distinguish GenAI-modified from human-authored submissions — reports, essays, and take-home exams are the most exposed formats.
+- **Assessment designers.** Build [[authentic-assessment|authentic, presence-required formats]] that require students to defend work in the moment, such as synchronous oral and dialogic assessment, and treat [[experiential-learning|experiential]] and performative tasks as the alternatives that resist GenAI manipulation, complementing the design-for-presence agenda in [[agentic-ai|agentic AI]] debates.
+- **Instructors.** Plan for false negatives as well as false positives: markers who are told GenAI may be present change how they grade, so assessment [[assessment-validity|validity]] — not detection — is the design problem.
+
+## Limitations
+
+- The experiment drew on only eight markers (four academic pairs) at two UK universities, evaluating 21 randomly coded writing samples across three undergraduate levels; the authors describe it as exploratory with a small sample.
+- Detection performance varied sharply between pairs — Pair 2 reached 33% accuracy against Pair 1's 85.7% — and Pair 1's participants included the module leader for the levels the samples came from, so accuracy may reflect familiarity rather than general marker capability.
+- Markers were told in advance that some samples had GenAI input, a condition unlike normal marking that plausibly induced suspicion effects, and the design used pairwise consensus reconciliation with no third marker or moderator.
+- The six assessments sampled were all judged low in business proximity (none conducted in an actual workplace), and authenticity was mapped to two frameworks post hoc rather than varied experimentally.
 
 ## Connected Concepts
 

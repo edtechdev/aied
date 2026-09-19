@@ -1,7 +1,7 @@
 ---
 title: "The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, self-regulated-learning, well-being]
@@ -25,13 +25,20 @@ audience: [educators, administrators]
 5. **Ethical and moral education is protective.** It emerged as a negative predictor of AI-assisted academic dishonesty, suggesting a promising intervention lever.
 6. **AI-assisted dishonesty is multilevel.** The authors conceptualize it as a transformed, technologically mediated form of academic misconduct shaped by the interaction of psychological vulnerabilities, cognitive tendencies, technological affordances, and socio-contextual influences.
 
-## Implications
+## What this means for practice
 
-- AI-assisted [[academic-integrity|academic dishonesty]] should be addressed psychologically, not treated only as a technological or disciplinary issue; interventions should target procrastination, helplessness, and [[self-efficacy]].
-- Because AI use amplifies dishonest tendencies, simply restricting AI tools may be insufficient; building academic self-efficacy and [[self-regulated-learning|self-regulation]] is protective.
-- Supporting students' sense of control and reducing learned helplessness may reduce substitutive, dependency-producing AI use.
-- [[governance|Institutional]] integrity efforts should attend to social norms, peer behavior, and expectations, and invest in [[ethics|ethical and moral education]] as a protective factor.
-- Results support psychologically informed, ethically grounded, and institutionally supported interventions in [[higher-ed|higher education]].
+- **Instructors.** Design against procrastination and learned helplessness and reduce helplessness-producing academic pressure, because both positively predicted cheating tendency while academic self-efficacy negatively predicted it.
+- **Instructors.** Teach AI use as a regulated practice rather than assuming restriction protects: the association between cheating tendency and AI-assisted dishonesty strengthened at higher levels of AI use.
+- **Administrators.** Invest in [[ethics|ethical and moral education]], the only significant negative predictor among the contextual factors tested, and align it with clearer institutional guidelines on AI use.
+- **Administrators.** Address social norms, peer behavior, and perceived insufficient sanctions rather than relying on punishment or detection alone, since those contextual variables were the strongest positive predictors of AI-assisted dishonesty.
+- **Researchers.** Test the mediated model longitudinally, because the cross-sectional design cannot separate psychological antecedents from the dishonest behavior they are said to produce.
+
+## Limitations
+
+- Cross-sectional design with 1,045 Turkish undergraduates: the relationships are associations, not causal, and the authors call for longitudinal or experimental designs to test the temporal dynamics.
+- Every variable came from self-report, which is vulnerable to social desirability, recall bias, and underreporting on an ethically sensitive topic; the authors propose behavioral indicators, scenario measures, or digital trace data instead.
+- Cheating tendency, AI use, and the social and contextual factors were measured with researcher-developed instruments whose psychometric properties were examined only within this sample, so further validation in independent samples is still needed.
+- The sample came from one national higher education context (Türkiye), so the authors caution against generalizing to other cultural, institutional, and disciplinary settings, and note that the rapid pace of change in generative AI dates the patterns observed.
 
 ## Connected Concepts
 

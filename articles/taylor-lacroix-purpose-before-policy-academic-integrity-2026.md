@@ -1,7 +1,7 @@
 ---
 title: "Purpose Before Policy: Academic Integrity, Generative AI, and Rhetorical Stance"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -28,13 +28,20 @@ institutions: [educational-policy-ai, governance]
 7. **Governance is shaped by private partners.** Policies are increasingly developed with corporate and for-profit actors (e.g., the Digital Education Council), blurring the university's public mission and creating opacity in [[governance]].
 8. **Academic integrity is a collective practice.** It is an inherently collective, epistemic undertaking that cannot be credibly demanded while institutions fail to communicate clearly, align practice with mission, or preserve the epistemic norms that underwrite [[transfer-of-learning|knowledge transfer]].
 
-## Implications
+## What this means for practice
 
-- Universities should resolve the rhetorical misalignment between their stated missions, pedagogical practices, and technology approach **before** and while enforcing integrity—"[[educational-policy-ai|purpose before policy]]."
-- Institutional [[governance]] should be reformed to reduce corporate influence on policy formation and to translate aspirational mission statements into concrete, procedurally clear (logos-driven) guidance rather than Ethos/Pathos appeals.
-- Policy-making should end the contradiction of endorsing AI while policing its use, which produces inequity as students adopt AI at uneven rates under unclear expectations.
-- Treat [[academic-integrity|academic integrity]] as a collective institutional responsibility—aligning curricula, assessment, and incentives—rather than an individual obligation.
-- Mission statements and public-facing commitments should be scrutinized as active rhetorical interventions that both constitute institutional identity and reveal gaps between aspiration and practice.
+- **Administrators.** Resolve the misalignment among mission, pedagogy, and technology stance before tightening integrity enforcement, since the authors argue misconduct cannot be credibly adjudicated while an institution simultaneously endorses and polices AI.
+- **Administrators.** Replace ethos- and pathos-driven mission language with procedurally clear guidance — who decides, on what grounds, with what route of appeal — because uniform mission vocabulary across the U15, Russell Group, and Ivy League obscured structural constraints such as financial precarity and inequitable access.
+- **Administrators.** Reduce corporate influence over policy formation, since governance is increasingly developed with private and for-profit actors such as the Digital Education Council.
+- **Instructors.** Treat academic integrity as a collective epistemic practice and align course expectations with the stated institutional purpose, rather than enforcing it as an individual obligation.
+- **Researchers.** Scrutinize mission statements as active rhetorical interventions — sites where institutional identity is constituted and where the gap between aspiration and practice becomes visible.
+
+## Limitations
+
+- The mission-statement analysis is illustrative rather than comprehensive: it covers three Anglo-American networks (the Canadian U15, the UK Russell Group, and the US Ivy League), and the authors state that a more comprehensive analysis across cultural contexts is needed.
+- It is a rhetorical and historical argument, not a measurement study; the authors explicitly do not assume that mission statements provide operational guidance or directly determine institutional policy.
+- The prevalence figures the paper relies on are secondary — a 2024 Global AI Student Survey reporting 86% student AI use and 80% describing institutional policies as unclear or inadequate — not data collected for this study.
+- The claim that rising GenAI misconduct reflects structural incoherence is advanced by argument, without institutional or student-level data against which it could be tested.
 
 ## Connected Concepts
 

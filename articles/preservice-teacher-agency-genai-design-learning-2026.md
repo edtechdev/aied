@@ -1,7 +1,7 @@
 ---
 title: "Pre-service teachers' agency during their interactions with generative AI while designing for learning - a process view"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, learning-design]
 pedagogy: [scaffolding]
@@ -23,10 +23,19 @@ confidence: high
 - Both the material constraints of the expert bot and the open-ended structure of ChatGPT impose distinct constraints on teacher agency.
 - [[prior-knowledge|Prior knowledge]] about GenAI or instructional design moderates how much agency a teacher can exercise in either context.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study is among the first to examine teacher agency during GenAI interactions at the process level rather than through self-report, and it complicates the assumption that more [[scaffolding]] necessarily preserves or enhances agency. It connects teacher agency to [[tpack|Intelligent-TPACK]] and [[learning-design|design for learning]], and shows that the material design of AI tools shapes how much genuine ownership and critical engagement teachers can exercise. For [[teacher-education]], it implies [[educational-development|professional development]] should attend to the design affordances and constraints of AI tools and cultivate teachers' [[critical-thinking|critical evaluation]] of AI output, not just their tool use.
+- **Teacher educators.** Set an explicit expectation that pre-service teachers critique and push back on AI suggestions; participants in both conditions tended to agree with the bot rather than give meaningful [[feedback]], the lowest-agency behavior observed.
+- **Teacher educators.** Teach the affordances and constraints of specific tools — a custom design bot versus unrestricted ChatGPT — alongside tool use, since each imposed distinct limits on agency.
+- **Designers.** Do not assume extra [[scaffolding]] preserves agency; the expert bot raised interaction length and self-generated prompts but coincided with reduced collaborative problem-solving.
+- **Researchers.** Use process-level indicators — interaction length, ownership, and collaborative problem-solving behaviors — rather than self-report, and state each indicator's validity caveats.
 
+## Limitations
+
+- 78 pre-service teachers recruited from a single university were randomly assigned to the two conditions, which the authors note may limit sample diversity.
+- The study captures a one-time interaction with a GenAI bot; repeated or longitudinal measures were not collected.
+- The agency indicators are proxies with known weaknesses: interaction length may reflect verbosity rather than engagement, ownership was measured only at task-execution level, and the proactive/reactive classification of collaborative problem-solving behavior was the authors' own extension.
+- Some utterances were difficult to categorize, yielding substantial but not perfect inter-rater reliability (κ = 0.70).
 ## Connected Concepts
 - [[agency]]
 - [[teacher-education]]

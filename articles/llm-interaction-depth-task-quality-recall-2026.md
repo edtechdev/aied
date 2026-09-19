@@ -1,7 +1,7 @@
 ---
 title: "What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education"
 created: "2026-08-30T16:50:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -29,13 +29,20 @@ page_kind: [evaluation]
 
 The central theoretical contribution is separating comprehension from retention in LLM-mediated learning. Depth-oriented dialogue can enhance reasoning, integration, and production quality (benefiting applied tasks) while leaving memory encoding largely unaffected — because the LLM supplies complete, coherent explanations on demand, learners may allocate less effort to internal retrieval and reconstruction, consistent with [[cognitive-offloading]] and the "illusion of competence" literature. The author argues this is not merely a null result but a theoretically informative dissociation: elaboration drives comprehension; retrieval practice drives consolidation. This echoes the [[transfer-of-learning|performance-vs-learning]] distinction central to the knowledge base.
 
-## Pedagogical and practical implications
+## What this means for practice
 
-To translate comprehension gains into durable retention, the author recommends: (1) embedding **retrieval demands** after LLM use via closed-tool outputs (short-answer questions, concept maps from memory, teach-back explanations without AI); (2) **separating scaffolding from checking** — use LLMs for clarification and feedback during learning but include distinct checkpoints where learners demonstrate independent recall without the model; and (3) **[[prompt-engineering|prompt design]]** that requires learner-generated reasoning (e.g. asking the model to pose questions, generate [[misconceptions]] or counterexamples, or critique the learner's own explanation) rather than producing finished answers. These align with [[scaffolding]] and [[desirable-difficulties|productive struggle]] principles.
+- **Instructors.** Embed retrieval demands immediately after LLM use — short-answer questions, from-memory concept maps, or teach-back explanations produced without the tool — because explanation-seeking depth predicted task quality (β = 6.27, p = .006) but not immediate recall (β = −0.014, p = .728).
+- **Instructors.** Separate scaffolding from checking: allow the LLM for clarification and feedback during learning, then set distinct checkpoints where learners demonstrate independent recall unaided.
+- **Instructional designers.** Design [[prompt-engineering|prompt]] tasks that require learner-generated reasoning — asking the model to pose questions, generate counterexamples or [[misconceptions]], or critique the student's own explanation — instead of producing finished answers.
+- **Researchers.** Instrument turn-level interaction logs so Depth, Volume, and Pacing are coded separately; only this separation shows that the composition of interaction, not its amount, tracks applied task quality.
 
 ## Limitations
 
-The study has a single-group design (no causal claims), a modest sample (n = 22) leaving moderation/clustering underpowered, immediate-only testing (no delayed retention), and a keyword-based depth proxy that captures the surface form of explanation-seeking rather than its underlying quality.
+- The study has a single-group design, so the authors make no causal claims about the interaction depth they measured.
+- The sample is modest (n = 22), which the authors note leaves any moderation or clustering analysis underpowered.
+- Testing was immediate only: the study measured comprehension, not delayed retention, so it cannot speak to what persists.
+- Interaction depth was proxied by keywords in student messages, which captures the surface form of explanation-seeking rather than its underlying quality.
+
 
 ## Connected Concepts
 

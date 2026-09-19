@@ -1,7 +1,7 @@
 ---
 title: "Play With AI (PL-AI): A Play-Centered, Design-Based Curriculum for AI Literacy in Pre-K and Kindergarten"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/play-ai-pre-k-kindergarten-ai-literacy-2026.md"]
 foundations: [ai-literacy]
@@ -26,13 +26,19 @@ methods: [design-based-research]
 - **Implementation was embedded in existing classroom routines** rather than treated as a stand-alone unit, with teachers mapping Bee-Bot routes onto number grids and alphabet mats and integrating AI exploration with literacy and numeracy goals.
 - **Findings are reported as formative design evidence**, not validated outcome measures — the study was not designed to estimate effect sizes or establish causal [[learning-gains|learning gains]], reflecting the epistemological commitments of design-based [[research-methods-aied|research]].
 
-## Implications for Practice
+## What this means for practice
 
-- AI literacy can be meaningfully integrated into [[early-childhood-elementary-ai-education|early childhood]] settings without displacing core developmental priorities by embedding concepts within familiar play-based structures like storytelling, movement, centers, and collaborative [[problem-solving]].
-- [[teacher-education|Teacher preparation]] and [[educational-development|professional development]] should incorporate **co-design models** that position educators as active contributors to curriculum development, supporting conceptual understanding and willingness to adapt instruction to local contexts.
-- Curriculum developers can draw on the four design principles to create AI learning experiences that foreground human agency, ethical reflection, and collaboration rather than focusing narrowly on technical skills or tool use.
-- Policy should support time, resources, and autonomy for teacher collaboration and iterative curriculum development, investing in professional learning networks to introduce AI literacy equitably beginning in the early years.
+- **Educators.** Embed AI literacy inside existing centers, [[storytelling-in-education|storytelling]], movement, and literacy and numeracy routines instead of adding a stand-alone unit.
+- **Teacher educators.** Use co-design with practicing teachers as the professional learning mechanism; participating teachers attributed their growth in confidence and curriculum ownership to building the activities themselves.
+- **Curriculum designers.** Sequence activities from unplugged play to tangible coding to guided robot dialogue, and expect prototypes to be discontinued — Data Detective and Sensor Safari were dropped for logistical reasons.
+- **Administrators.** Protect planning time and autonomy for teacher collaboration and iterative revision, which the study identifies as the [[sustainability]] anchor for early childhood AI curriculum.
 
+## Limitations
+
+- Design-based research with four teachers — two pre-kindergarten and two kindergarten — in two Title I schools in an urban district in the southern United States.
+- The implementation lasted one month of PL-AI stations during freeplay (20–40 minutes), supported by 32 hours of classroom video, with no control group and no validated outcome measures.
+- Evidence is teacher self-report, researcher field notes, observational rubrics, and participation tallies, which the authors present as formative design evidence rather than effect sizes or causal learning gains.
+- Two of the seven activity prototypes were discontinued mid-study, so the activity sequences are context-dependent exemplars.
 ## Connected Concepts
 
 - [[early-childhood-elementary-ai-education]]

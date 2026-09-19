@@ -1,7 +1,7 @@
 ---
 title: "Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
 foundations: [ai-education]
@@ -24,12 +24,19 @@ methods: [quantitative-research]
 - **Neither TAIK nor TPAIK was directly associated with students' AI knowledge** gains — the teacher-knowledge effects operated through perceptions and intention rather than direct [[transfer-of-learning|knowledge transfer]].
 - Findings support the **"pedagogy first, technology second"** guideline: pedagogical AI knowledge should be prioritized over technical AI knowledge for excellence in [[k-12|K-12]] AI education.
 
-## Implications for Practice
+## What this means for practice
 
-- **For [[teacher-education|teacher educators]]:** professional learning in AI education should foreground pedagogical AI knowledge (how to teach with and about AI) over mere technical proficiency.
-- **For [[educational-development|professional development]]:** PD programs should treat pedagogical AI knowledge as the priority lever for influencing student perceptions and intentions.
-- **For school leaders and [[ai-education|AI curriculum]] designers:** building teachers' pedagogical capacity matters more than equipment or technical training for fostering [[student-engagement|student engagement]] with AI.
+- **Teacher educators.** Foreground pedagogical AI knowledge (TPAIK) over technical AI knowledge in [[teacher-education]] coursework, since TAIK alone was insufficient and could slightly reduce students' perceptions of AI for social good.
+- **Faculty developers.** Build AI professional learning around subject-specific teaching methods rather than tool training, because TPAIK carried the positive associations with students' perceptions and intentions.
+- **Administrators.** Fund pedagogical capacity before equipment and technical certifications when building [[k-12|K-12]] [[ai-education|AI education]].
+- **Researchers.** Model teacher-to-student pathways as indirect and cross-level rather than assuming AI knowledge transfers directly, because neither TAIK nor TPAIK predicted students' AI knowledge.
 
+## Limitations
+
+- Only 46 teachers were available for multilevel analysis; the authors state the study was plagued by teachers' limited responses, though 46 teacher-level units were deemed acceptable.
+- Those 46 teachers taught 2,832 students in 144 classes across 29 schools, so teacher-level estimates rest on a small number of higher-level units.
+- All constructs — teacher knowledge and students' SAIK, SAISG, and SBIAI — were measured with self-report Likert questionnaires, with no observed classroom or achievement data.
+- Data cover a single academic year (September 2023 to May 2024); the authors note longitudinal dynamics were not captured and that students' informal AI exposure may introduce unmeasured mediators.
 ## Connected Concepts
 
 - [[tpack]]

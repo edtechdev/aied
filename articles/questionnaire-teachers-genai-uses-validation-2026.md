@@ -1,7 +1,7 @@
 ---
 title: "Design and Validation of a Questionnaire on Teachers' Uses of Generative Artificial Intelligence"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai]
@@ -23,9 +23,19 @@ page_kind: [evaluation, framework]
 - The instrument showed high internal consistency and adequate convergent and discriminant validity (N = 486 secondary teachers in Spain).
 - Teachers reported using GenAI both to optimize their professional performance and to enrich students' learning experiences.
 
-## Implications for AI in Education
+## What this means for practice
 
-The validated instrument provides [[research-methods-aied|researchers]] and institutions with a psychometrically sound way to measure how secondary teachers actually use generative AI across professional and instructional purposes. By spanning management, materials creation, assessment, empowerment, attention to diversity, and motivation, it offers a more complete picture than single-use measures and can support [[teacher-education|teacher training]] and [[governance|institutional]] decision-making. The work contributes to [[educational-measurement]] and [[assessment-validity]] for AI-related teacher competencies, and connects to [[teacher-ai-competency]].
+- **Researchers.** Measure teachers' GenAI use as a multidimensional construct with the six-dimension instrument rather than a single adoption or frequency item, so that management, materials creation, assessment, empowerment, diversity, and motivation are distinguished.
+- **Researchers.** Re-validate the questionnaire in other countries and educational stages before comparing scores across systems, as the authors recommend.
+- **Researchers.** Triangulate the self-report scale with institutional logs or observational data, since self-reports are exposed to social desirability and reference-frame effects.
+- **Teacher educators.** Use the six dimensions as a needs-analysis grid that tells you which uses of GenAI (for example assessment or attention to diversity) training should target, and design and test interventions against those [[teacher-ai-competency|competency]] areas.
+
+## Limitations
+
+- The sample is 486 secondary teachers in Spain recruited by non-probability convenience sampling driven by institutional access and timetabling; the authors note this can over-represent institutions open to innovation and differentially include more motivated teachers.
+- All GAI use is self-reported, so social desirability and reference-frame effects mean responses may not capture actual classroom practices or the effectiveness of those uses.
+- The study was cross-sectional and confined to psychometric validation; it did not examine the relationship between reported GAI use and educational outcomes such as academic performance or student engagement.
+- The authors caution against generalizing the six-dimension structure to teachers in other countries or educational levels without further cross-cultural validation.
 
 ## Connected Concepts
 - [[educational-measurement]]

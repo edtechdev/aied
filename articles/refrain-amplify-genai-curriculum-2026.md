@@ -1,7 +1,7 @@
 ---
 title: "Refrain, Then Amplify: A Curriculum Framework for Sequencing Generative AI to Form Professional Judgement"
 created: "2026-08-31T09:06:11-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, cognitive-offloading, curriculum-design, teacher-role]
 pedagogy: [self-regulated-learning]

@@ -1,7 +1,7 @@
 ---
 title: "Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction"
 created: "2026-08-27T06:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, agentic-ai, human-ai-collaboration]
 pedagogy: [collaborative-learning, creativity]

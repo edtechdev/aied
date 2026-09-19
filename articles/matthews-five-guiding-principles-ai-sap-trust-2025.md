@@ -1,7 +1,7 @@
 ---
 title: "Five Guiding Principles for Navigating Artificial Intelligence in Students as Partners Practice to Preserve Pedagogical Trust"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, ai-literacy, teacher-role]
 pedagogy: [pedagogical-partnerships]
@@ -41,9 +41,20 @@ Matthews expands on her earlier five propositions for genuine partnership practi
 
 Each principle is accompanied by questions for students and educators to explore together, translating partnership into a living practice rooted in care, vulnerability, and communal wisdom. Together they refuse easy answers, offering instead a pathway where pedagogical trust is nurtured through relationship, dialogue, and shared commitment.
 
-## Implications for AI in Education
+## What this means for practice
 
-The editorial's central implication is that responses to [[ai-education|AI in education]] should be trust-centered rather than surveillance-driven. Deficit framings of students as cheaters or victims undermine the relational foundations of learning; partnership — grounded in respect, reciprocity, and shared responsibility — offers a more productive path. For instructors, the five principles provide a practical, dialogic framework for navigating [[ai-use-disclosure|AI use]] openly with students, developing [[ai-literacy]] through co-inquiry rather than policing. For institutions, Matthews' call to model reciprocal, respectful, equitable relationships speaks to the wider responsibility of [[higher-ed]] to sustain public trust at a political moment when it is increasingly fragile. The editorial also issues a [[research-methods-aied|research]] invitation: more critical discussion, reflection, and theorization are needed on AI's role in pedagogical partnerships.
+- **Instructors.** Open classroom conversations about AI as a shared mystery to explore rather than a problem to solve, since "AI shame" closes down dialogue and fractures the trust that sustains learning partnerships.
+- **Instructors.** Make the role of AI visible and negotiable in learning activities: treat transparency as ongoing collective negotiation of agency, authorship, and creativity rather than a one-off [[ai-use-disclosure|disclosure]] statement.
+- **Instructors.** Work with the questions published alongside each of the five principles — for example, "How do we hold space for the full range of emotions AI stirs within our learning community?" — rather than presenting the principles as rules to comply with.
+- **Faculty developers.** Build consistent, sustained spaces for shared reflection on AI instead of one-off workshops, since learning with AI is a journey rather than a moment and partnership requires recurring collective conversation.
+- **Institutions.** Choose trust over surveillance: deficit framings of students as cheaters or victims damage learner–teacher relationships, while partnership grounded in respect, reciprocity, and shared responsibility sustains public trust in higher education.
+
+## Limitations
+
+- The piece is an eight-page editorial by a single author, not an empirical study: it collects no data, reports no sample, and offers the five principles as proposals rather than tested interventions.
+- Its reading of the current climate rests on the author's informal observations at one institution, the University of Queensland (55,000 students enrolled), where she noticed students and staff moving to "AI shame."
+- The supporting prevalence figures are borrowed from other studies — 83% of over 8,000 students across multiple institutions reported using AI (Chung et al., 2025), and about half used it for [[feedback]] (Henderson et al., 2025) — so the argument depends on secondary evidence it does not itself evaluate.
+- The partnership examples cited (a University of Sydney student-staff AI guide, a Georgetown first-year writing AI policy, University College London medical assessment co-creation) come from others' published accounts rather than from evidence examined here, and the author explicitly invites further critical discussion and empirical research.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

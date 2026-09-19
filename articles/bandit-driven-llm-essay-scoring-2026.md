@@ -1,7 +1,7 @@
 ---
 title: "Learning to Grade Efficiently: A Bandit-Driven Prompt-Selection Framework for Low-Cost LLM Essay Scoring"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [llm, edtech-platform]
 assessment: [assessment, automated-assessment, feedback]
@@ -21,6 +21,21 @@ confidence: high
 3. Four grading recipes (multi-step vs single-step, with vs without calibration examples) were implemented; the multi-step approach with examples achieves the highest accuracy.
 4. Token usage and latency are tracked alongside agreement metrics to produce the first cost-reliability learning curves for essay scoring.
 5. The work transforms prompt selection in automated essay scoring from an offline hyperparameter optimization problem into an efficient [[online-teaching-and-learning|online learning]] task.
+
+## What this means for practice
+
+- **Designers.** Put prompt selection under an online controller instead of fixing a template: treat each grading recipe as an arm in a multi-armed bandit and update it on agreement between predicted and examiner scores, which cut [[llm]] calls by 78.4% while holding [[assessment-validity|scoring agreement]].
+- **Designers.** Budget tokens and latency as first-class constraints — track token usage, latency, and agreement together, because few-shot prompts with rubrics and rationales can exceed the context window of mid-tier models.
+- **Designers.** Do not assume more rubric detail improves scoring: the simplified prompt without detailed rubric explanations matched or beat the rubric-heavy variant (QWK 0.485, MAE 0.965) at fewer tokens.
+- **Designers.** Use the multi-step recipe calibrated with annotated high- and low-scoring example essays where accuracy matters most, since it achieved the highest accuracy of the four recipes tested.
+- **Researchers.** Extend evaluation beyond a single benchmark and a single model before treating the framework as generalizable to other assessment contexts.
+
+## Limitations
+
+- Evaluation uses one corpus — the Kaggle IELTS Writing Scored Essays Dataset, 787 Academic Task 2 compositions with official band scores of 1–9 — so results may not transfer to ASAP, TOEFL11, or other essay types.
+- Only one model, Google Gemini Flash 2.5, was tested; the authors state they plan to extend to GPT-4 and Llama-3 70B to assess generalizability.
+- The epsilon-greedy controller held a constant exploration rate (ε = 0.2) throughout, and the authors acknowledge the implementation could be refined with adaptive exploration strategies.
+- The authors describe the work as a work-in-progress with preliminary experiments and an arm space of four recipes; the released cost-reliability curves rest on that narrow prompt space rather than a broader or operational deployment.
 
 ## Connected Concepts
 - [[automated-assessment]]

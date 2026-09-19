@@ -1,7 +1,7 @@
 ---
 title: "Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [motivation, pedagogical-partnerships, self-determination-theory, self-efficacy]
@@ -45,9 +45,20 @@ The paper extends andragogy by shifting attention from the learner's attributes 
 
 A central argument distinguishes self-direction from isolation. Anastasia proposes *supported autonomy* as the junction between self-determination theory, shared agency, and andragogy. Self-direction does not mean the learner is cut off from knowledge, discussions, challenges, feedback, or support; the instructor's presence and the exercise of self-direction are reinforcing rather than adversarial. Choice alone does not create meaningful autonomy — learners may be offered choices while lacking the information, confidence, psychological safety, or relational support to exercise them well. Recognizing experience does not ensure experience becomes learning, and assigning responsibility does not automatically create agency. Each requires the relational conditions of the framework to become genuine.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper is framed explicitly against the rise of increasingly autonomous [[ai-education|artificial intelligence in education]]. Anastasia argues that a high-quality relationship between faculty and students is required to ensure engagement, a sense of belonging, critical understanding, and [[lifelong-learning|lifelong learning]] — especially as generative tools reshape the [[student-ai-interaction]]. By conceptualizing agency as arising from intentionally enhanced relationships, the framework offers academic staff a [[research-methods-aied|research]]-driven tool to improve collaboration and elevate transformative learning, positioning the [[teacher-role]] and the relationship-centered conditions of partnership as central to responsible integration of AI in [[higher-ed]].
+- **Instructors.** Do not equate offering choice with creating autonomy: give students the information, confidence, and psychological safety they need to act on choices before expecting self-direction.
+- **Instructors.** Ask students to explain why they accepted, revised, or rejected an AI recommendation, so that AI-expanded capacity to act is paired with the disciplinary [[evaluative-judgment|judgment]] to judge how, when, and why to act.
+- **Instructors.** Treat meaningful feedback as an ongoing conversational cycle rather than one-way transmission, because polished AI output can be mistaken for defensible disciplinary reasoning.
+- **Faculty developers.** Use the eight framework components — Instructor Presence, Trust, Psychological Safety, Dialogue, Voice and Choice, Meaningful Feedback, Reflection, and Shared Responsibility — as a diagnostic for redesigning instructor–student interaction in face-to-face, hybrid, and online courses.
+- **Administrators.** Treat the quality of the instructor–student relationship as a central student-support mechanism, since teaching excellence depends on the conditions enabling responsive teaching rather than on individual faculty performance alone.
+
+## Limitations
+
+- The paper is a conceptual synthesis of Students as Partners, relational agency, Self-Determination Theory, Self-Efficacy Theory, andragogy, and transformative learning; it reports no data and offers no empirical test of its eight components.
+- The author states it was written "as a scholarly piece to present a conceptual work derived from educational theory, inviting academic readers to further discussion and empirical research," so the claim that these conditions produce transformative learning is a proposition rather than a demonstrated effect.
+- The framework is grounded in the author's own practice as a faculty member, dissertation chair, and researcher in higher education rather than in systematic observation, participant data, or a validated instrument.
+- The paper does not specify how the eight conditions would be measured or distinguished operationally, leaving their relative weighting and ordering untested.
 
 ## Connected Concepts
 

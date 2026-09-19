@@ -1,7 +1,7 @@
 ---
 title: "Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering"
 created: "2026-08-27T09:10:00-04:00"
-updated: "2026-09-12T01:20:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-education, computational-thinking, curriculum-design]
 pedagogy: [project-based-learning]
@@ -28,9 +28,20 @@ level: [higher ed]
 
 The proposed curriculum integrates AI directly into existing thermal engineering topics instead of requiring long-duration AI courses from computer science departments, which the authors argue would further increase academic workload. The three-tier structure (introductory, application, advanced) moves students from foundational AI models toward engineering-specific [[problem-solving|problem solving]] and multidisciplinary communication. This project-based approach mirrors [[project-based-learning]] principles, treating AI not as a standalone subject but as an engineering tool embedded in domain problems. The curriculum is available in open-access repositories, contributing to the broader movement of embedding computational and [[ai-literacy|AI literacy]] in [[stem-education]] and engineering programs.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper demonstrates a disciplinary-embedded model for AI education: rather than generic [[cs-education|computer science]] ML courses oriented toward image recognition or NLP, it tailors AI content to the practical problems of a specific engineering subfield (thermal engineering). This supports the argument that [[ai-education]] and [[computational-thinking]] must be integrated into domain curricula with realistic workloads, project-based practice, and attention to [[teacher-role|educator]] capacity. The open-access release of syllabus, data, and code offers a reusable template for other engineering programs seeking to equip students with AI tools relevant to their discipline.
+- **Curriculum designers.** Embed AI inside existing disciplinary topics rather than adding standalone CS-oriented ML courses — the four core projects sit within thermal problems in a 39.1-hour course, avoiding further load on mechanical engineering students.
+- **Curriculum designers.** Keep the three-tier introductory, application, and advanced structure and scaffold the coding: the authors attribute student progress to worked examples and scaffolded instruction that reduced cognitive load.
+- **Instructors.** Plan separate expectations for undergraduates and graduate students: undergraduates who met only minimal entry requirements produced lower-quality projects and grades than graduate students despite revamped projects and example code.
+- **Faculty developers.** Treat educator capacity as part of the curriculum, and open the course with real-world comparisons of salary levels, career path diversity, and professional ceilings for mechanical engineers with AI expertise, the strategy the authors used to reduce students' psychological barriers to learning.
+- **Instructors.** Adopt the released syllabus, data, and code from the open-access repositories as a starting point rather than building a thermal engineering [[machine-learning|ML curriculum]] from scratch.
+
+## Limitations
+
+- Single-institution curriculum at the University of Arkansas, taught across Fall 2021 (trial year), Fall 2022, and Fall 2023, with no control or comparison group; the reported evidence is course scores and project outcomes.
+- Very small numbers: 14 students completed the course at the end of Fall 2023, and the authors report lower enrollment in the Fall 2022 semester.
+- Undergraduates and graduate students took the course together with different prerequisites; the authors state that undergraduates' grasp of core concepts and programming proficiency put them at a relative disadvantage that inevitably affected the depth and quality of their project work and grades.
+- Outcome claims are prospective: the authors write that they hope to document curriculum changes in response to student feedback and test effects on engagement and grades, so impacts on retention, graduation, or job placement are not yet measured.
 
 ## Connected Concepts
 

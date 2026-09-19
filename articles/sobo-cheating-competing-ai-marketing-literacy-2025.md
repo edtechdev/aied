@@ -1,7 +1,7 @@
 ---
 title: "Cheating or Competing? University Students' Experience of AI Marketing and What It Means for AI Literacy Programming"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, framing-ai-use-for-students]
 stakeholders: [student-experience]
@@ -26,13 +26,20 @@ confidence: high
 7. **Intern embedment functioned like student confederation.** Student interns were pushed to "sell, sell, sell," network with campus clubs, and were promised cash payouts—a recruitment model the authors liken to tobacco marketing and, in one intern's words, "a pyramid scheme."
 8. **[[critical-thinking|Critical analysis]] rarely went deep.** Most students cast use through the lens of choice and self-enterprise ("work smarter, not harder") with little reflection on the [[sociocultural-learning|sociocultural]] values and norms purveyors leverage to drive adoption and [[cognitive-offloading|dependency]].
 
-## Implications
+## What this means for practice
 
-- [[ai-literacy|AI literacy]] programs should incorporate **marketing literacy**—teaching students to critically analyze how commercial interests and persuasive tropes (success, "keeping up," fear of falling behind) shape how AI tools are presented.
-- Institutions should publish clear, consistent "dos and don'ts," legitimate use-case examples, and [[privacy]] information to reduce conflicting signals and students' entrapment fears.
-- Destigmatizing AI and mandating explicit [[framing-ai-use-for-students|AI use statements]] in syllabi can open more honest student–teacher conversations about appropriate use.
-- Educators should model "AI hygiene" by acknowledging the AI output they themselves bring into teaching, and explain the [[ethics]] and benefits of doing so.
-- Addressing the competitive "get with it or get left behind" imperative requires a shift toward [[pedagogy|process-oriented]] (vs. product-oriented) teaching, supported by funding that keeps student–teacher ratios reasonable.
+- **Learners.** Read the pitch before adopting the tool: 39% of ads marketed study-card generation or chatbot tutoring and 40% touted keeping up with new AI, yet interviewees said the ads rarely swayed them — peer norms and fear of falling behind did.
+- **Learners.** Treat free trials timed to finals and "intentionally vague" language implying utility for cheating as marketing signals, and check what a product is actually for before using it.
+- **Instructors.** Publish clear, consistent dos and don'ts with legitimate use cases and [[privacy]] information, because 51% of students said they would be embarrassed if their academic AI use became known and only 41% had claimed free campus accounts despite 82% using ChatGPT.
+- **Instructors.** Model openness by stating the AI output you bring into your own teaching and mandating explicit AI-use statements in syllabi, so that disclosure rather than hiding becomes the norm.
+- **Administrators.** Fund [[framing-ai-use-for-students|process-oriented teaching]] with workable student–teacher ratios, since the competitive "get with it or get left behind" logic students internalized favors product over process.
+
+## Limitations
+
+- The project relied on rapid methods with convenience sampling — 131 social media ads collected from 99 companies, 48 student interviews, and field notes from three student interns — which the authors state limits scientific generalizability.
+- The analysis did not attend to variables their own survey flagged as potentially relevant, namely major, ethnic/racial identity, and gender, so differential experiences of AI advertising remain unexamined.
+- The analytic methods entailed some subjectivity, and the intern-embedment component rests on field notes from three volunteers trained in the interview method rather than on systematic observation.
+- The 51% embarrassment figure and the 82% ChatGPT use versus 41% account-claiming figures come from the team's own 2024 campus survey, not from the 131-ad and 48-interview dataset analyzed here.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design"
 created: "2026-08-30T16:45:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [self-regulated-learning]
@@ -41,6 +41,21 @@ The seven enablers are defined as institutional practices, capabilities, or capa
 ## AI and the future of LA-based interventions
 
 The authors argue all enablers should increasingly be considered in light of AI's benefits and risks: developing LA that uses AI-based methods (LA with AI), analyzing AI use in [[teacher-role|teaching]] and learning (LA of AI), and developing learning design that integrates AI as a transversal topic (LD about AI). They frame the responsibilities for trustworthy LA as distributed — institutions and educational leaders hold strategic responsibility, while teachers own pedagogical soundness and LA interpretation, and keeping the "[[human-in-the-loop-ai|human in the loop]]" requires engaging all relevant stakeholders.
+
+## What this means for practice
+
+- **Administrators.** Sequence the work strategically: institutional strategic orientation ranked highest in overall SNAP priority (0.2072) and was the most influential enabler of the others (PageRank 0.2430), so leadership commitment and strategic planning must precede tool procurement.
+- **Administrators.** Fund capacity together with infrastructure — available resources ranked second (SNAP 0.1800) and first on direct influence over implementation (AHP 0.1753), covering dashboards, systems, and the human capacity to use them.
+- **Learning analytics designers.** Ground every dashboard and early-warning model in explicit pedagogical foundations and intended [[learning-gains|learning outcomes]], and provide teachers the support to interpret LA results correctly.
+- **Administrators.** Staff LA decisions with a heterogeneous expert group: senior experts prioritized available resources, junior and technical experts prioritized ethics and data governance, and intermediate experts prioritized strategic orientation or stakeholder engagement, so any single group's ranking is partial.
+- **Administrators.** Treat trustworthiness — ethical compliance, data security, transparent and unbiased algorithms, pedagogical validity — as a precondition to establish first, not as one enabler competing with the other seven.
+
+## Limitations
+
+- The expert base was small and narrow: a two-round international Delphi with 18 experts, and while participants came from multiple countries, the majority were affiliated with higher education institutions in four European countries.
+- The preliminary survey covered a restricted range and profile of educators; a broader range of educational backgrounds and contexts could have surfaced additional perspectives.
+- The seven enablers remain high-level categories with no operational indicators or measures attached, which limits how directly they can be audited or compared across institutions.
+- The group decision-making model was never tested in real-life educational decision-making, so no concrete intervention was prioritized in an actual institutional setting.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring Factors Influencing Preschool Teachers' Behavioral Intention to Use AI Technologies in Early Childhood Settings"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/preschool-teachers-ai-behavioral-intention-2026.md"]
 pedagogy: [anxiety-and-stress, self-efficacy]
@@ -24,12 +24,18 @@ technology: [technology-acceptance-model]
 - **AI anxiety** acts as a deterrent, and **subjective norm** (social influence from colleagues and leadership) shapes intention.
 - The extended-TAM model is validated in the distinctive early-childhood context, where developmental appropriateness and teacher comfort matter for AI integration.
 
-## Implications for Practice
+## What this means for practice
 
-- **For early-childhood administrators:** Reducing AI anxiety and building teachers' self-efficacy through hands-on, low-stakes training can increase adoption.
-- **For [[teacher-education]] programs:** Pre-service preschool teachers should experience AI tools in developmentally grounded ways that build confidence rather than apprehension.
-- **For technology designers:** Early-childhood AI tools should emphasize perceived usefulness and ease of use to win teacher buy-in.
+- **Administrators.** Lower AI anxiety and raise [[self-efficacy]] with hands-on, low-stakes training, since AI self-efficacy predicted intention while AI anxiety deterred it.
+- **Teacher educators.** Give pre-service preschool teachers developmentally grounded experience with teacher-facing AI — lesson preparation, administration, materials — rather than child-facing tools.
+- **Designers.** Compete on perceived usefulness and ease of use for tools aimed at teachers' professional work; the study deliberately excluded AI applications directed at children.
+- **Administrators.** Require age-appropriateness review before any tool enters an early childhood setting, since adoption intent here is shaped by perceived value and social pressure rather than by developmental fit.
 
+## Limitations
+
+- The 270 valid responses (33 questionnaires excluded) came from a single online survey run in September and October 2025, mostly in the relatively developed regions of Shanghai, Zhejiang, and Guangdong.
+- The sample is heavily female (250 women, 93%; 20 men, 7%) and 81.9% (n = 221) already had experience with AI, so gender and education could not be modeled as moderators.
+- All six constructs — perceived usefulness, ease of use, subjective norm, AI anxiety, AI self-efficacy, and behavioral intention — were self-reported Likert items, leaving the relationships open to common-method effects.
 ## Connected Concepts
 
 - [[technology-acceptance-model]]

@@ -1,7 +1,7 @@
 ---
 title: "Making AI Annoying on Purpose: When Helpful Tools Don't Always Help"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [scaffolding, self-regulated-learning]
@@ -24,10 +24,18 @@ methods: [design-based-research]
 - Students developed 'prompt literacy' — crafting targeted requests and critically evaluating responses — while strengthening counterargument development and evidence integration.
 - Constraint, rather than unrestricted generativity, was associated with increased self-regulation and sustained engagement with argumentative contexts.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study challenges the assumption that AI's generative potential automatically expands invention and learning, instead showing that designed constraints that refuse to complete students' thinking can keep learners in the productive, effortful parts of composing. For [[writing-education]], it offers concrete instructional-design principles and classroom strategies for differentiated [[scaffolding]], diagnostic tasks, and targeted mini-lessons. The concept of 'productive friction' connects to [[self-regulated-learning]], [[desirable-difficulties]], and the broader design question of when AI should be made less immediately helpful to support learning.
+- **Teachers.** Deploy question-asking, teacher-delimited chatbots that refuse to generate student prose, keeping learners inside the effortful parts of argumentative composing.
+- **Instructional designers.** Sequence constraints progressively across a unit rather than granting unrestricted [[generative-ai|GenAI]] access, so the tool creates productive friction instead of completing students' thinking.
+- **Teachers.** Protect time for weekly reflections and targeted mini-lessons, the mechanisms through which students turned pushback on AI output into counterargument and evidence-integration gains.
+- **Researchers.** Pair interaction logs with writing samples and interviews when studying constraint-based design, since the evidence here is qualitative and process-oriented rather than outcome measurement.
 
+## Limitations
+
+- Four volunteer high school students, chosen by maximum variation sampling on baseline writing ability and AI attitudes, in two sections of a single AP Capstone course.
+- A nine-week design-based study with no control group, so changes in argumentative reasoning cannot be causally attributed to the constrained system.
+- Evidence rests on self-report and researcher-coded data — weekly reflections, interviews, writing samples, and AI interaction logs — analyzed through thematic analysis.
 ## Connected Concepts
 - [[writing-education]]
 - [[self-regulated-learning]]

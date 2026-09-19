@@ -1,7 +1,7 @@
 ---
 title: "The Policy Deficit in AI × Social-Emotional Learning Research"
 created: "2026-09-01T09:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [social-emotional-learning]
@@ -46,10 +46,19 @@ A significant association emerged between publication venue and policy engagemen
 
 Rather than treating policy as a generic ethical horizon, the authors argue AI–SEL studies should systematically specify who should act, what actions are recommended, why, when and where they apply, and how strongly they are framed. They propose a culture shift — from appending implications at the end of a paper to building implication-articulation into the research methodology itself — and offer actionable guidelines for researchers, editors, reviewers, and [[educational-policy-ai|policymakers]] to bridge the gap between AI innovation and educational governance.
 
-## Implications
+## What this means for practice
 
-For [[ai-education|AI in education]] research, the paper reframes policy not as a post-hoc add-on but as a design constraint. The finding that venue incentives shape policy engagement implies that journals, reviewers, and funders can materially influence whether AI research translates into governance. For [[equity-in-ai-education|equity]] and [[ethics|responsible use]], the deficit means that promising AI-for-SEL tools may be deployed without the institutional safeguards — privacy, teacher preparation, resource equity — that responsible adoption requires.
+- **Researchers.** Build implication articulation into the research process itself, specifying for each finding who should act, what action is recommended, why, in which context, and how strongly it is framed.
+- **Administrators.** Require actor-specific implications in review, funding, and publication processes — of 65 reviewed papers, only 15 stated explicit policy implications and a further three contained implicit ones.
+- **Researchers.** Specify the institutional safeguards a tool needs — [[privacy]], teacher preparation, resource equity — before framing AI-for-SEL deployment as ready for practice, to avoid the techno-solutionist trap.
+- **Administrators.** Treat venue and incentive structure as levers: policy engagement correlated with publication venue, so journal and program expectations can materially change whether research informs [[governance]].
 
+## Limitations
+
+- The search covered Scopus and Web of Science only, and non-English records, errata notes, and one retraction were excluded, so the 65-paper sample is an English-language, peer-reviewed corpus.
+- Only empirical studies, meta-analyses, and systematic reviews were eligible; conceptual papers, commentaries, reports, and working papers were excluded.
+- Coding of implicit policy implications is subjective, as the authors acknowledge — two authors coded individually and resolved disagreement with a third, with no inter-coder reliability statistic reported.
+- No time-frame limit was applied, and each distinct implication statement rather than each paper was the unit of analysis, so papers contribute unequally to the counts.
 ## Connected Concepts
 - [[ai-education]]
 - [[social-emotional-learning]]

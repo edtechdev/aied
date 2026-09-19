@@ -1,7 +1,7 @@
 ---
 title: "Mapping artificial intelligence integration in higher education: A systematic review using the FACETS and SAMR frameworks"
 created: "2026-09-02T08:31:22-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [curriculum-design, educational-development]
 technology: [adaptive-learning, generative-ai, personalized-learning]

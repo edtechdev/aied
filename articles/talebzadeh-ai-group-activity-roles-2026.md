@@ -1,7 +1,7 @@
 ---
 title: "The Architecture of Roles in AI-Designed Group Activities: A comparative inductive analysis of novice and experienced teachers' differentiated instruction within the IAT framework"
 created: "2026-09-02T09:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [educational-development, human-ai-collaboration, learning-design, teacher-role]
 technology: [generative-ai, personalized-learning]
@@ -35,11 +35,20 @@ Designing effective [[collaborative-learning|cooperative group activities]] that
 - **Pedagogical prompt literacy.** Experienced teachers encoded PCK into prompts (e.g., the R.A.F. — Role + Audience + Format — framework) with greater precision. AI amplifies teacher judgment rather than replacing it.
 - **Experience alone is insufficient.** A negative-case analysis showed one experienced teacher (19 years) produced low-synergy, non-integrated roles — experience must be paired with professional learning on integrating differentiated contributions.
 
-## Practical implications
+## What this means for practice
 
-- **[[educational-development|Professional development]] should pair technical AI training with pedagogical reasoning.** The findings suggest PD should build teachers' capacity to articulate pedagogical intentions, anticipate AI responses, and evaluate outputs against pedagogical criteria.
-- **Use the three constructs as a design heuristic.** Teachers and researchers can evaluate differentiated group activities on Role Richness, Role Synergy, and Level-Role Alignment.
-- **Position teachers as co-designers, not tool users.** [[agency|Agency]] in AI-assisted design is conditioned by pedagogical expertise; building that expertise is the lever for [[equity-in-ai-education|equitable]] AI integration.
+- **Instructors.** Score your AI-designed group activities on Role Richness, Role Synergy, and Level-Role Alignment before using them. Only 35% of novice designs showed role interdependence against 90% of experienced teachers' designs, and novices frequently produced parallel tasks completable in isolation.
+- **Instructors.** Specify what each role must produce and why that role fits that student, rather than adding more questions: novices defaulted to quantitative differentiation where experienced teachers varied the cognitive demand and made ZPD calibration explicit (65% vs 15%).
+- **Faculty developers.** Build [[educational-development|professional learning]] around pedagogical reasoning and prompt specification — for example the Role + Audience + Format heuristic — not tool training: experienced teachers designed superior role architectures despite less AI familiarity.
+- **Faculty developers.** Target experienced teachers who have not integrated differentiated contributions: a negative-case analysis found a teacher with 19 years of experience producing low-synergy, non-integrated roles, so seniority alone is not the lever.
+- **Researchers.** Treat the three constructs and pedagogical prompt literacy as analytical tools to adapt, test, and refine in other institutional settings; the authors offer them as a replicable method rather than a claim to universal generalization.
+
+## Limitations
+
+- Participants were 89 Iranian teachers (38 novice, 51 experienced) across four cohorts, and the authors state that the cultural and institutional context limits generalizability to other educational systems.
+- Data are 178 activity designs produced in an IAT workshop: they reflect design intentions, not classroom implementation, so the study does not show whether the designs were used or influenced student learning.
+- A single AI tool (ChatGPT-4) and specific prompt templates were used, so findings may not generalize to other generative AI systems.
+- The researcher was both framework developer and analyst, creating potential confirmation bias despite mitigation, and self-report elements may involve social desirability; double-coding covered ~20% of designs (overall Cohen's κ = 0.82).
 
 ## Connected Concepts
 
