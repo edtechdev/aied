@@ -1,7 +1,7 @@
 ---
 title: "Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [experiential-learning, situated-learning]
@@ -50,6 +50,21 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 - Distinguishes **direct didactics of AI** (learning how AI works) from **indirect teaching of AI** (learning to collaborate with AI), both under an "explainability" mode.
 - Emphasizes the **Post-AI Humanism** pillar — AI [[prompt-engineering|prompting]] reconsideration of human truths (truth, experience, creativity, intelligence).
 - Argues for interdisciplinary bridging between technical and non-technical disciplines.
+
+## What this means for practice
+
+- **Instructors.** Plan [[ai-literacy]] as bounded, timetabled episodes that move through anticipate, produce, and reflect, using the opening phase to surface students' existing pre-knowledge and hypotheses about AI before any tool is used.
+- **Instructors.** Label which of the two jobs an activity serves — direct didactics of AI (definitions, how a model trains on data, its modes of operation) or indirect teaching of AI (using AI to solve a problem and collaborating with it) — and make sure students meet both.
+- **Instructors.** Anchor episodes in real-world problem-solving and social interaction and run them in an "explainability" mode, so students interrogate how a tool works and where its limits lie rather than only consuming its output.
+- **Instructors.** Reserve reflection time for the post-AI humanism questions — what these systems force us to reconsider about truth, experience, [[creativity]], and intelligence — since the framework treats that pillar as part of the competence, not an add-on.
+- **Administrators.** Build the AI curriculum at the macro level as a sequence of episodes that bridges technical and non-technical disciplines, rather than as a standalone technology module bolted onto one subject.
+
+## Limitations
+
+- This is a conceptual proposal in a CEUR workshop paper: the ESL-based AI framework has not been field-tested, and the authors state that its validation "requires an extended course of field experimentation."
+- The competence structure is derived from European policy sources — the EU Digital Education Action Plan (2021–2027), DigComp 2.2, and de la Higuera's five pillars — rather than from classroom observation, so the framework inherits their scope and priorities.
+- ESL was developed as a general active-teaching instrument for other content; the paper offers no evidence about how well anticipate–produce–reflect maps onto AI-specific objectives or about how episodes should be sequenced across grades at the macro level.
+- The claim that both levels of AI teaching operate under an "explainability" mode centered on social interaction and school-community participation is asserted without criteria for judging whether any given episode achieves it.
 
 ## Connected Concepts
 

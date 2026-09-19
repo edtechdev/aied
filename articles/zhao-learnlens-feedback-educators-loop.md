@@ -1,7 +1,7 @@
 ---
 title: "LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design, teacher-role]
 technology: [educational-nlp, generative-ai, human-in-the-loop-ai, llm, student-modeling]
@@ -43,10 +43,6 @@ The student side combines three modules: the **Assessor** delivers consistent, f
 - **Deployment priorities:** (1) meeting the sub-15-second latency ceiling via inference batching and on-device caching; (2) adaptive onboarding that branches on prior practice (time-saving narratives vs. accuracy-safeguard demonstrations); (3) verifier transparency — exposing verifier scores to all users to bolster [[trust]].
 - **Privacy:** All experiments were conducted via **local deployment** due to student data [[privacy]] concerns (evaluated models: Llama-3-8B, Qwen2.5-32B, QwQ-32B).
 
-## Implications
-
-This work illustrates how [[curriculum-design]] can be operationalized inside an [[llm]]-based feedback system, and how [[human-in-the-loop-ai]] oversight — via interactive teacher revision and embedded verifiers — can address the [[hallucination-risk]] and lack-of-control criticisms levelled at purely automated feedback. The topic-linked memory chain is a direct contribution to reducing retrieval noise, engaging debates around [[rag]] and [[knowledge-graph]] organization for [[educational-nlp]]. Its focus on [[stem-education]] and GCSE science demonstrates the [[teacher-role]] in validating AI output rather than being displaced by it, supporting [[ai-feedback-quality]] and [[formative-assessment]] goals through an explicit [[feedback|Feedback Loop]].
-
 ## Connection to Existing Knowledge Base
 
 - **[[ai-feedback-quality]]**: Provides a concrete verifier-based framework (accuracy, clarity, specificity) for assessing generated feedback quality.
@@ -58,6 +54,20 @@ This work illustrates how [[curriculum-design]] can be operationalized inside an
 ## Methodological Notes
 
 Strengths include a modular, component-level evaluation on authentic student answers and a 30-teacher usability study. Limitations acknowledged by the authors include the **lack of student evaluation** and a focus on teacher perceptions; deployment priorities are a sub-15-second latency ceiling, adaptive onboarding by user type, and verifier transparency.
+
+## What this means for practice
+
+- **Instructors.** Review and revise generated feedback before it reaches students, using the verifier scores (scientific accuracy, clarity, specificity) as the release criterion rather than accepting raw model output.
+- **Instructors.** Map every question to a weighted key-concept mark scheme so that partial credit reflects conceptual understanding, and keep expression-quality issues out of the numerical grade.
+- **Faculty developers.** Branch onboarding on teachers' prior grading practice: manual graders need the time-saving case (median time per assignment fell from 10–30 minutes to under 5), while users of other automation tools need the accuracy (88%) and reliability (75%) evidence.
+- **Designers.** Hold generated feedback to the sub-15-second ceiling teachers expect (75% expect results under 15 seconds) through inference batching and on-device caching, and expose verifier scores to all users to build [[trust]].
+- **Designers.** Treat a teacher's edit as a signal of dissatisfaction: spend additional compute on deeper reflection rather than returning the fast answer.
+
+## Limitations
+
+- Evaluation covers teachers, not students: the 30-teacher usability study (N = 30) reports perceptions only, and the authors explicitly acknowledge the lack of student evaluation, so no claim about student learning gains is supported.
+- Teacher evidence is self-report Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education]] GCSE science context, which limits generalization to other subjects and year groups.
+- Scoring performance rests on 100 authentic student answers, and all experiments ran under local deployment with three models (Llama-3-8B, Qwen2.5-32B, QwQ-32B), so the reported MSE, latency and cost figures may not transfer to other model stacks or cloud settings.
 
 ## Connected Concepts
 

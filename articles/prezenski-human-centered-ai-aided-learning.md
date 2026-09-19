@@ -1,7 +1,7 @@
 ---
 title: "How Human-Centered Is AI-Aided Learning in Education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [teacher-role]
 technology: [adaptive-learning, intelligent-tutoring]
@@ -63,6 +63,21 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single Cognitive Load Theory and [[cognitive-offloading|Over-Reliance]] lens.
 - Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid]], [[brcic-effortless-trap-productive-struggle-2026]]).
 - Frames the [[teacher-role]] and [[higher-ed]] implications of keeping humans in the loop ([[human-ai-collaboration]], [[ai-literacy]]).
+
+## What this means for practice
+
+- **Instructors.** Withhold frictionless answer-giving: fading scaffolds and letting students sit with difficulty are what preserve the mental-model building and frustration tolerance the review credits AI with supporting, while hint-dependency trades understanding for task completion.
+- **Instructors.** Audit the reward structure of any gamified tool before adopting it — points, streaks, and leaderboards shift attention to maintaining the game and can dampen [[motivation|intrinsic motivation]] — and keep rewards attached to learning rather than to activity.
+- **Instructors.** Pair AI use with peer work deliberately: heavy reliance on [[conversational-ai|chatbots]] can privatize learning and erode empathy and perspective-taking, so schedule debate, group impasse, and perspective-taking tasks alongside individual AI sessions.
+- **Instructors.** Check equity before deployment at course level: speech and adaptive models trained on unrepresentative data have shown roughly 2× higher word-error rates for African American speakers and weaker adaptive pathways for marginalized students, and granular data logging (clickstreams, facial expressions) suppresses the risk-taking that deep learning requires.
+- **Instructors.** Claim a design seat rather than accepting polished UX as human-centeredness: educators are routinely marginalized in educational AI development and consulted late, so ask for co-designer and evaluator roles, [[ai-literacy]] professional development, and transparency and user control as procurement conditions.
+
+## Limitations
+
+- This is a narrative review with no stated search protocol, databases, or inclusion criteria, and its examples (ALEKS at 50M+ students, Squirrel AI, DreamBox, Khanmigo) are selected illustratively; the effect sizes it cites — g ≈ 0.30 for ALEKS and g ≈ 0.87 for ChatGPT-integrated instruction from a 2025 meta-analysis — are reported secondhand from other studies.
+- The cautionary core of the argument is a constructed narrative ("Maya," a student whose AI math tutor erodes her independence), not a study, so the cognitive-paradox harms (reward desensitization, attenuated attentional control, hint-dependency) are argued from cited literature rather than measured here.
+- The claim that Human-Centered AI is rarely implemented rigorously in education rests on cited secondary sources describing UX being mistaken for human-centeredness and educators being consulted late (Zawacki-Richter et al.; Alfredo et al.); the review itself codes no design processes to quantify how widespread the problem is.
+- The review spans higher education and technology-mediated learning broadly, drawing no primary data from learners, teachers, or developers, so it identifies the risk surface and proposed remedies rather than testing whether either changes outcomes.
 
 ## Connected Concepts
 

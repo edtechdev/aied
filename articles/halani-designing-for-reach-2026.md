@@ -1,7 +1,7 @@
 ---
 title: "Designing for Reach: Seven Levers and the Student Alone with AI"
 created: "2026-08-14T03:41:48-04:00"
-updated: "2026-08-17T06:50:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [cognitive-offloading, curriculum-design]
 pedagogy: [active-learning, help-seeking, metacognition, self-regulated-learning]
@@ -58,13 +58,19 @@ The framework sits in a lineage of enumerating classrooms' adjustable dimensions
 
 The levers are domain-general and not AI-specific: mapping them to Schoenfeld's Teaching for Robust Understanding dimensions (rich content, cognitive demand, [[equity-in-ai-education|equitable]] access, [[agency|agency/ownership]], [[formative-assessment|formative assessment]]) shows the same levers describe environments for thinking with or without the machine.
 
-## Implications for AI in education
+## What this means for practice
 
-- **Design the unsupervised moment, not just the supervised one:** [[learning-design|course design]] should ask how far each lever reaches when the student is alone — that is where free choice about AI is exercised.
-- **Structural changes beat discursive ones:** telling students process matters (Frame) is weakly reaching; changing what pays (Structure) or what cannot be done without thinking (Material) reaches further.
-- **Norms propagate to AI:** a student who has internalized "take ideas you can reconstruct, not answers you can copy" applies it to both a classmate's notebook and a [[conversational-ai|chatbot]] — the norm is about what help is for, not the source.
-- **The machine changes the calculus of "reaching" aims:** a direct-instruction design that once built fluency can now be short-circuited by the very tool, because its reach protects an aim the machine can reach too.
-- **Relationship is a lever, not a disposition:** investing in the human systems (as with Khanmigo) is treated here as designable, not fixed.
+- **Instructors.** Run a reach audit of your own course: name the outcomes it is for, then ask of each of the seven levers which setting is still in force at the unsupervised moment when the student is alone with the machine.
+- **Instructors.** Prefer structural moves to discursive ones — change what the grade certifies or build tasks that cannot be completed without the thinking, rather than announcing that process matters.
+- **Designers.** Treat norms as something to design, because the norm "take ideas you can reconstruct, not answers you can copy" propagates to a classmate's notebook and a [[generative-ai|chatbot]] alike.
+- **Instructors.** Treat relationship as a designable lever: invest in knowing students and making confusion sayable, instead of relying on rapport as a personal disposition.
+- **Administrators.** Recognize that levers are held at different levels — a department may set Material and a grading policy part of Structure — so reach-relevant redesign needs coordination beyond a single classroom.
+
+## Limitations
+
+- This is a conceptual contribution: the seven levers are offered as a heuristic taxonomy, not a validated or necessarily exhaustive model of [[learning-design|course design]], and the paper establishes no causal effects for particular configurations.
+- The three illustrative configurations are classrooms the author has taught, presented for coherence rather than as representative accounts of all classrooms; no data were collected, so claims about reach are analytical rather than measured.
+- The framework cannot describe the educators' knowledge of the levers, the processes that renew settings over time, or the decisions about who is in the room.
 
 ## Connected Concepts
 

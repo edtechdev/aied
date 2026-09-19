@@ -1,7 +1,7 @@
 ---
 title: "Making sense of AI feedback: how students' feedback literacy moderates the link between ChatGPT acceptance and self-regulated learning"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -54,16 +54,23 @@ Feedback sense-making significantly moderated each link (interactions β=.11–.
 - **Intention to use**: a crossover interaction — **negative at low sense-making** (β=-.17, p=.01) but **positive at high** (β=.15, p=.02). Students with weak evaluation skills but strong intentions to use ChatGPT may be exhibiting **[[cognitive-offloading|over-reliance]]** rather than strategic use.
 - **Actual use**: the interaction was significant but only for extreme-low sense-making (below 2.00, outside the observed range); within typical student capabilities there was no reliable conditional relationship.
 
-## Interpretation & Implications
-
-The authors position **feedback sense-making as a fundamental cognitive prerequisite** for productive AI [[student-engagement|engagement]], arguing the "black box" nature of [[generative-ai|generative AI]] places unique evaluation demands on students. The crossover pattern for intention to use supports a distinction between *problematic dependency* and *strategic resource utilization*.
-
-Practically, they recommend a **three-tier implementation framework** (universal instruction in evaluating AI credibility → [[scaffolding|scaffolded]] interaction for moderate-literacy students → independent use for high-literacy students) and propose a **4.2 threshold** on the Feedback Sense-Making subscale to identify which students report benefiting from ChatGPT acceptance.
-
 ## Methodological Strengths & Caveats
 
 - **Strengths**: strong reliability across all scales, power analysis for regression, assumption checks, and Johnson-Neyman analyses that map where effects turn significant.
 - **Caveats**: cross-sectional design (no causal inference), self-report measures rather than observed behaviors or objective outcomes, single educational system, and data collected during the early-positive-coverage adoption period of ChatGPT.
+
+## What this means for practice
+
+- **Instructors.** Teach students to make sense of AI feedback — judging its credibility, deciding whether to use it, reconciling conflicting comments, and aligning it with standards — before expecting ChatGPT acceptance to translate into self-regulation.
+- **Instructors.** Read strong intention to use with weak evaluation skills as a warning sign: that combination predicted lower self-reflection, a pattern the authors interpret as [[cognitive-offloading|over-reliance]] rather than strategic use.
+- **Administrators.** Tier support by feedback-literacy level — universal instruction in evaluating AI credibility, [[scaffolding|scaffolded]] interaction for moderate-literacy students, and independent use only for high-literacy students.
+- **Administrators.** Use the Feedback Sense-Making subscale to screen, applying the authors' 4.2 threshold to identify which students report benefiting from ChatGPT use and should not be left to use it unsupervised.
+
+## Limitations
+
+- Cross-sectional survey of 211 secondary students (Grades 7–9, ages 12–15) in one government-funded Hong Kong school, so the moderation results cannot show that feedback literacy causes the self-regulation benefits.
+- Every construct was self-reported — acceptance, feedback sense-making, and self-reflection — with no observed revision behavior and no objective learning outcome.
+- Data were collected in October 2023, during the early, largely positive-coverage adoption period for ChatGPT, which may have inflated the acceptance associations the study reports.
 
 ## Connected Concepts
 

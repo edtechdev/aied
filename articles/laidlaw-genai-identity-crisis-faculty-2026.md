@@ -1,7 +1,7 @@
 ---
 title: "When faculty ask, 'what's the point of teaching?': GenAI as identity crisis, not skills gap"
 created: "2026-08-15T07:40:37-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, educational-development, teacher-role]
 pedagogy: [learning-theories]
@@ -26,11 +26,19 @@ institutions: [educational-policy-ai]
 3. **Faculty resistance is productive, not a deficit.** Anxiety, resistance, and confusion are necessary parts of liminal threshold crossing. Principled non-adoption reflecting legitimate disciplinary values should be respected, distinct from fear-based hesitation that warrants support.
 4. **Identity support beats instrumental training.** Academic developers should create spaces for identity questions, facilitate [[discipline-specific-aied|discipline-specific]] cohorts, and honor different transformation timelines — opening sessions with identity questions rather than technical demonstrations.
 
-## Implications
+## What this means for practice
 
-This article reframes [[educational-development]] for [[generative-ai|GenAI]] from a technical upskilling problem to an identity and ontological-transformation problem. It connects directly to [[teacher-role]] (how AI changes what educators are *for*), [[ai-literacy]] (which must encompass the existential dimension, not just tool competence), and [[teacher-ai-competency]]. It challenges skills-first PD models (cf. [[genai-pd-ai-pck-learning-gain-2026]], which measures competence gains) by arguing that such gains may not address the underlying identity disruption that determines whether faculty actually integrate GenAI.
+- **Faculty developers.** Open development sessions with identity questions — for example, asking faculty to share a moment when GenAI made them question something fundamental about their teaching — rather than with technical demonstrations.
+- **Faculty developers.** Run discipline-specific cohorts on an ongoing basis instead of one-off workshops, so that faculty explore what GenAI means from inside their own [[pedagogy|pedagogical]] culture and over the timeline their discipline needs.
+- **Faculty developers.** Distinguish fear-based hesitation, which benefits from support, from principled non-adoption grounded in legitimate disciplinary values, which should be respected rather than corrected.
+- **Instructors.** Model thoughtful GenAI engagement rather than prohibition or uncritical adoption: faculty uncertainty about their own role is absorbed by students, and faculty who have crossed the threshold themselves are better placed to guide students through it.
+- **Administrators.** Treat governance frameworks, policy and assessment rules as insufficient on their own — they risk an "enforcement illusion" that communicates rules instead of supporting the transformation that determines whether [[generative-ai|GenAI]] is actually integrated.
 
-For academic developers and [[governance|institutional]] [[educational-policy-ai|policy]], the article argues that governance frameworks and assessment-reform efforts can lapse into an "enforcement illusion" (Corbin et al., 2025) — communicating rules rather than supporting transformation. This connects to [[academic-integrity]] and [[assessment]] reform debates in the knowledge base, and to the broader question of whether AI integration is treated as compliance or as professional transformation.
+## Limitations
+
+- The article is an autoethnographic "Reflections on Practice" account from one academic developer at a single regional Australian university; it reports no participant sample, interview data, or comparison group, so it can support an interpretive reframing but not a measured effect.
+- The threshold concept framework (Meyer & Land) is applied to the author's own experience rather than tested; the argument does not establish that identity-focused development practices change faculty integration behavior.
+- Faculty anxiety and resistance enter the account through the author's narration rather than systematically collected faculty data, so the claims about liminality and non-adoption cannot be generalized to other institutions, disciplines, or national contexts.
 
 ## Connected Concepts
 

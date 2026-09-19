@@ -1,7 +1,7 @@
 ---
 title: "Turning 500+ Students into Teachers: A Semester-Long Study of an AI Teachable Agent in an Undergraduate Algorithms Course"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-01T19:06:21-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [cognitive-psychology, learning-by-teaching, scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -37,12 +37,20 @@ page_kind: [evaluation]
 - **Sustained but variable [[student-engagement|engagement]].** Students averaged about **eight conversational turns per activity** each week (range 6.8–9.7), and average message length rose from ~31 to over 70 words across the semester (though this is partly confounded by rising content reuse). Dialogue acts: Provide Elaboration 27.2%, Produce Basic Info 23.4%, External Content Use 15.9%, Show Reasoning 15.4%, Provide Acknowledgment 13.4%, Give Examples 3.5%, with active [[help-seeking]] acts (Seek Elaboration 0.8%, Seek Answer 0.2%) rare.
 - **Modest LBT benefit vs. reading.** Compared to a baseline reading activity, the LBT condition corresponded to a modest reduction in expected quiz attempts (β = −0.050, p = .012), though the comparison is confounded by substantial differences in time-on-task.
 
-## Implications
+## What this means for practice
 
-1. **LBT with LLM teachable agents scales** to authentic, large-enrollment courses and produces sustained multi-turn teaching interactions across a full semester.
-2. **Design for productive struggle, not content-dumping.** The quality of the teaching interaction — elaboration and reasoning vs. reuse — predicts learning; systems should enforce the apprentice's refusal to give answers and monitor for copy-paste circumvention, which rises over time.
-3. **Sustaining cognitive effort is a core design challenge.** The decline in Detailed interactions and rise in External Content Use toward semester's end shows engagement must be actively managed, not assumed.
-4. **Connect LBT behavior to conceptual understanding** at scale is feasible with platform-based measurement (dialogue coding + quiz performance).
+- **Instructors.** Run the teachable-agent exercise as a recurring, low-stakes weekly activity integrated into the existing course (a 3–5 item MCQ quiz worth an optional 5% unlocked by completing it), which sustained multi-turn teaching across an 11-week semester at a scale of 546 students.
+- **Instructional designers.** Prompt explicitly for elaboration and reasoning — each additional deep learning act was associated with a 2.7% decrease in expected quiz attempts — and keep the apprentice's refusal to reveal or hint at the target explanation in place.
+- **Instructional designers.** Monitor for circumvention as the semester progresses: detailed interaction fell from roughly 75% in Week 1 to 45–55% later, while direct reuse of external content rose to about 30–35% by Weeks 10–11.
+- **Instructors.** Use platform logs to connect interaction quality to quiz performance, since dialogue coding plus autograded attempts made LBT behavior measurable in an authentic high-enrollment course.
+- **Instructional designers.** Counterbalance conditions across weeks when comparing teaching with reading, so that every student experiences both activities rather than one group carrying the baseline.
+
+## Limitations
+
+- Single-course, single-institution evidence: 546 students in one undergraduate algorithms course at EPFL, with 456 consenting and analysis on 3,809 dialogues from 453 students after two weeks were dropped for a technical issue.
+- The comparison against the baseline reading activity is confounded by substantial differences in time-on-task, which the authors state outright, so the modest LBT effect on quiz attempts (β = −0.050, p = .012) is not a clean comparison.
+- Conceptual understanding is operationalized as the number of autograded MCQ attempts with unlimited retries, a behavioral proxy — effort, quiz strategy or circumvention moves that number as readily as understanding does.
+- By Weeks 10–11 roughly 30–35% of interactions involved external content use, so late-semester behavior was partly measured under a circumvention pattern rather than genuine teaching.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Multimodality and Social Interactions in AI-Enhanced Embodied Robot-Assisted Language Learning: A Meta-Analysis"
 created: "2026-08-14T11:06:48-04:00"
-updated: "2026-08-14"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [embodied-learning]
 technology: [educational-robotics, multimodal]
@@ -29,12 +29,19 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 - **[[teacher-role|Teaching]]-assistant role showed the largest subgroup effect** (though social role was not independently significant, and is confounded with interaction format).
 - **Richer multimodal/autonomous designs were not consistently linked to stronger learning.**
 
-## Pedagogical and Practical Implications
+## What this means for practice
 
-1. **Instructional alignment over technical sophistication.** Because morphology, modality, autonomy, and duration did not differentiate outcomes, procurement and design decisions should weigh how a robot is integrated into activities more than how advanced its hardware or AI is — favoring [[pedagogy]]-driven over technology-driven adoption given the substantial costs.
-2. **Design for group-based interaction.** Group settings were associated with larger effects; practitioners should treat the robot as one participant in a socially organized task supporting peer [[scaffolding]], shared attention, and observational learning — not default to individual robot-learner pairings.
-3. **Prepare teachers to orchestrate robot-mediated interaction.** Effectiveness depended on how robots were positioned within instruction, so teacher expertise in aligning robot-mediated input with learning goals and managing turn-taking/timing is central; without focused [[educational-development|professional development]], even advanced systems risk limited impact.
-4. **Treat recommendations as provisional.** The small, heterogeneous evidence base and underpowered moderator subgroups mean guidance informs local decisions rather than fixed prescriptions.
+- **Instructors.** Judge a robot by how it is integrated into the activity, not by its hardware or AI sophistication: morphology, modality, autonomy, social role, and duration did not moderate L2 outcomes.
+- **Instructors.** Design for group-based interaction, which was associated with larger effects than one-on-one pairings, and treat the robot as one participant in a socially organized task that supports peer [[scaffolding]] and shared attention.
+- **Instructors.** Invest in orchestration skill — aligning robot-mediated input with learning goals and managing turn-taking and timing — because effectiveness depended on how the robot was positioned within instruction.
+- **Administrators.** Treat the effect estimates as provisional guidance for local procurement and adoption decisions, given the small, heterogeneous evidence base and the substantial cost of these systems.
+
+## Limitations
+
+- Only 11 studies (17 effect sizes, N = 595) met the inclusion criteria after two studies with the lowest quality-assessment scores were removed; the authors note the evidence base is small.
+- Heterogeneity was high (I² = 84.4%), so the pooled Hedges' g = 0.83 averages across dissimilar robot implementations and instructional settings.
+- Only one of six moderators reached significance — robot-learner interaction format, and only marginally (p = .049) — leaving the moderator subgroups underpowered.
+- Publication-bias checks (Egger's regression z = 0.97, p = .33; trim-and-fill; fail-safe N) are only approximate because several studies contributed more than one effect size and the number of studies is small.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T14:00:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [motivation, problem-solving, self-regulated-learning, transfer-of-learning]
 technology: [generative-ai, prompt-engineering]
@@ -45,16 +45,16 @@ Students' attitudes toward the technique were generally positive but more varied
 
 The findings lay a foundation for broader [[prompt-engineering]] training and for incorporating GenAI into structured study practices like problem posing, connecting to [[self-regulated-learning]], [[motivation]], and [[student-experience]] in [[physics-education]]. It complements work on AI-generated solutions by emphasizing learner-generation of problems rather than consumption of answers. The authors note that most students were open to incorporating GenAI into structured self-study, supporting the introduction of GenAI training into curricula while keeping in mind the subset who hold moral objections.
 
+## What this means for practice
+
+- **Instructors.** Teach specific prompting techniques (role assignment, [[critical-thinking|chain-of-thought]] prompting) before asking students to use [[generative-ai]] for problem posing; 76% of participants perceived better interactions only after this training, and novices benefited most.
+- **Instructors.** Assign GenAI-assisted problem posing as a [[self-regulated-learning|self-study]] technique: generating new problem variations rather than consuming answers keeps learners in the producer role and supports practice, exam preparation, and [[transfer-of-learning|transfer]].
+- **Instructors.** Give students an explicit variation framework — horizontal change of representation versus vertical change of complexity — so posed problems target transfer deliberately rather than cosmetically.
+- **Instructors.** Offer non-AI alternatives and make ethics discussable, because a minority of students prefer instructor-provided materials or object to GenAI on moral grounds.
+
 ## Limitations
 
 The online modality and small course size limited recruitment, and students self-selected into the extra-credit assignment, which may have skewed views toward the agreeable while excluding GenAI opponents. The reliance on written reflection responses rather than interviews may have contributed to moderate inter-rater agreement (Cohen's Kappa around 0.50–0.53), which is nonetheless in the acceptable range for this kind of [[qualitative-research]].
-
-## Implications
-
-- **Training over tool access:** The single strongest signal is that structured training on [[prompt-engineering]] changes the perceived quality of students' [[human-ai-collaboration|interactions with GenAI]], especially for novices — pointing to the importance of explicitly [[teacher-role|teaching]] students how to prompt rather than merely granting access.
-- **Problem posing as low-risk [[generative-ai|GenAI]] use:** Because it centers learner-generation of problems rather than answer consumption, problem posing is positioned as a comparatively safe way to introduce GenAI into [[self-regulated-learning|self-study]], a promising model for [[framing-ai-use-for-students]].
-- **Supporting a skeptical minority:** A meaningful subset distrusts AI outputs or objects on moral and ethical grounds, so implementations should offer non-AI alternatives and address [[trust]] and [[academic-integrity]] concerns rather than assuming universal uptake.
-- **Foundation for broader [[curriculum-design]]:** The results argue for embedding GenAI and prompting training in structured study techniques and physics curricula, and for future work that analyzes students' actual conversations to assess prompting quality directly.
 
 ## Connected Concepts
 

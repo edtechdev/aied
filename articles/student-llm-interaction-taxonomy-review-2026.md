@@ -1,7 +1,7 @@
 ---
 title: "Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, learning-analytics, llm]
@@ -44,9 +44,19 @@ To integrate these divergent categorizations, the review adopts the *interaction
 
 The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The authors situate these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM [[student-engagement|engagement]] produces learning rather than mere completion. They position the taxonomy as complementary to other pathways toward convergence: meta-theoretical frameworks distinguishing learning- versus performance-oriented engagement, application of established theories such as ICAP and Bloom, and new AI-specific theories like Agentivism. Integrating interaction taxonomies with [[learning-analytics]] and adaptive educational systems is identified as a promising direction for correlating instructional dialogue acts with rates of skill acquisition and [[learning-gains]].
 
-## Implications
+## What this means for practice
 
-The review carries several implications for research and design. Methodologically, it argues that the field needs a shared unit of analysis capable of linking observable student–LLM interaction to established theories of learning, and that future work should integrate self-report and interaction-log evidence rather than letting the measurement approach dictate the categories. For [[assessment]] and [[feedback]], the taxonomy offers a vocabulary for describing learning-oriented (versus completion-oriented) use of [[generative-ai|generative AI]], supporting clearer specification of [[formative-assessment]] and feedback designs. For practitioners and researchers in [[higher-ed]], it reframes questions about whether LLMs support learning into questions about *which interaction episodes* support which learning processes, enabling [[human-ai-collaboration]] and [[agency]] to be examined empirically rather than assumed. The taxonomy also lays groundwork for designing AI-mediated learning environments that recognize and respond to distinct interaction types, though its episode boundaries and coding reliability still require validation against an independent corpus of learner–LLM dialogues.
+- **Researchers.** Adopt the *interaction episode* — a goal-directed, temporally bounded sequence of exchange — as a shared unit of analysis, so findings built at different levels of analysis can be compared and cumulated.
+- **Researchers.** Integrate self-report and interaction-log evidence within the same study rather than letting the measurement approach dictate the categories.
+- **Learning analytics designers.** Instrument AI-mediated environments to capture episode sequences, then correlate instructional dialog acts with rates of skill acquisition to test taxonomies against real learning outcomes.
+- **Learning analytics designers.** Distinguish learning-oriented episodes (knowledge acquisition, dialogic inquiry, co-regulation) from completion-oriented ones (artifact refinement) when specifying what a tool should support.
+- **Instructors.** Reframe questions about whether LLMs support learning into questions about *which interaction episodes* support which learning processes, and specify the intended episode type in feedback and assessment designs.
+
+## Limitations
+
+- The rapid design relied on a single database (Scopus), pragmatically screened the 200 highest-ranked of 326 records, and supplemented the search with four author-identified studies, yielding 33 studies and 46 categorizations that should be read as selective rather than exhaustive.
+- The reviewed literature was concentrated in higher education and drawn from a rapidly changing period (2021–2025).
+- The proposed taxonomy was synthesized from reported categorizations and grounded in established frameworks rather than validated against an independent corpus of learner–LLM dialogues, so its coverage, episode boundaries, and coding reliability still require empirical examination.
 
 ## Connected Concepts
 

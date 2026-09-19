@@ -1,7 +1,7 @@
 ---
 title: "Fostering Generative AI Literacy in Economics: A Hands-on Approach"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, student-engagement]
@@ -30,13 +30,19 @@ This paper addresses the reality that students use [[generative-ai]] tools like 
 
 **Benefits and challenges.** Benefits include transforming passive learning into active, student-centered classrooms, fostering higher-order thinking (analysis, synthesis, evaluation), and building both GenAI and digital literacy. Challenges include the risk of [[cognitive-offloading|over-reliance]] on AI undermining independent critical thinking and [[creativity]], the significant educator effort required to redesign curricula, and [[ethics|ethical]] concerns about bias, [[academic-integrity|academic integrity]], [[privacy|data privacy]], and [[equity-in-ai-education|equitable]] access to AI resources, particularly in resource-constrained settings.
 
-## Implications
+## What this means for practice
 
-The framework offers a concrete, adaptable model for integrating [[generative-ai]] into [[discipline-specific-aied|discipline-specific]] instruction without requiring extensive course redesign. Its adaptability across topics, proficiency levels, and course formats (in-person, online, hybrid) makes it a practical resource for instructors seeking to build [[ai-literacy]] within authentic disciplinary contexts.
+- **Instructors.** Run the five-step sequence — independent analysis, standardized ChatGPT prompt, critical evaluation of the output, reflection and refinement, collaborative discussion — and reuse it across topics, proficiency levels, and in-person, online, or hybrid formats.
+- **Instructors.** Design activities around AI's mistakes rather than banning the tool: the price-elasticity exercise works because ChatGPT mislabels the inelastic demand in the song lyrics as "perfectly elastic," so the discrepancy itself teaches validation.
+- **Instructors.** Embed AI use transparently in active tasks; making the use visible and assessed reduced the incentive for covert misuse that arises when AI is prohibited.
+- **Learners.** Answer the guided questions independently before prompting, then compare the AI response against your own work for accuracy, clarity, and depth, and revise accordingly.
+- **Faculty developers.** Budget for the significant course-redesign effort the approach requires and support instructors in writing standardized prompts and evaluation criteria.
 
-By foregrounding the critical evaluation of AI outputs — including exposing their variability in quality and accuracy — the approach reframes GenAI as a tool to be scrutinized rather than trusted wholesale. This directly addresses [[reducing-ai-misuse]] concerns: rather than banning tools, educators design activities that demonstrate AI is not foolproof, thereby mitigating over-reliance while equipping students with validation skills. The minimal cheating concerns reported suggest that embedding AI use into transparent, active tasks can reduce the incentive for misuse that arises when AI use is covert or prohibited.
+## Limitations
 
-The findings also speak to [[learning-design]] practice in [[higher-ed]]. The five-step sequence — independent analysis, AI generation, critical evaluation, reflection, and collaboration — provides a transferable template for any instructor wanting to develop [[critical-thinking]] and AI literacy. The emphasis on collaborative, low-pressure discussion links GenAI integration to broader [[student-engagement]] and [[active-learning]] agendas in the economics classroom and beyond.
+- The paper is a teaching-practice case description, not a controlled study: there is no comparison group and no pre/post measure of learning gains.
+- Evidence for its effects is instructor-reported student feedback and engagement ("overwhelmingly positive") rather than assessed performance data.
+- The activities were developed in the authors' own introductory and graduate economics courses at two universities and rely on a single tool (ChatGPT), so transferability beyond that discipline and tool is untested.
 
 ## Connected Concepts
 

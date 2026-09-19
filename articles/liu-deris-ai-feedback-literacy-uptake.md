@@ -1,7 +1,7 @@
 ---
 title: "AI Feedback Literacy in Higher Education: Understanding, Measuring, and Predicting Student Feedback Uptake"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation, self-regulated-learning]
@@ -30,9 +30,18 @@ confidence: high
 
 - **High-AIFL students differ meaningfully.** Median-split comparisons showed high-AIFL students had significantly higher uptake (d = 0.80), higher perceived value (d = 0.64), and lower perceived cost (d = 0.60) than low-AIFL peers.
 
-## Implications
+## What this means for practice
 
-This work reframes debates about AI feedback from mere access to *actionable literacy*: simply providing AI tools does not guarantee [[learning-gains|learning gains]], because the [[pedagogy|pedagogical]] impact of AI feedback depends on learners' readiness, confidence, and experience. For assessment design, the finding that behavioral engagement predicts uptake better than attitudes argues for tasks that require students to *act on* AI feedback — revising drafts, comparing against rubrics, engaging in peer discussion — rather than merely acknowledging it. For equity, the result that exposure drives AIFL means institutions should deliberately [[scaffolding|scaffold]] and broaden access to AI-mediated feedback for students unlikely to engage autonomously, and should embed AI feedback within iterative drafting cycles aligned to disciplinary standards. For educators, the paper positions teachers as critical mediators of automated input — modeling reflective interpretation, facilitating dialogue about AI strengths and limits, and maintaining relational trust — rather than being displaced by AI. The authors call for reimagining feedback ecosystems where AI tools are embedded within pedagogically inclusive, reflective, and feedback-literate environments.
+- **Instructors.** Require students to act on AI feedback — revising drafts, comparing their work against rubrics, discussing it with peers — rather than only acknowledging it, because behavioral engagement predicted uptake while attitudes alone did not.
+- **Instructors.** Remain the critical mediator of automated input: model reflective interpretation of AI feedback and protect relational trust instead of ceding assessment to the tool.
+- **Administrators.** Scaffold and broaden access to AI-mediated feedback for students unlikely to engage with it autonomously, since frequency of AI tool use — not major, year of study, or demographics — was what predicted [[feedback-literacy|feedback literacy]].
+- **Administrators.** Design feedback environments that raise perceived value and lower perceived cost: value was the strongest single predictor of uptake in the regression model.
+
+## Limitations
+
+- The design is cross-sectional and entirely self-reported: 486 undergraduate EFL students at four Chinese universities, recruited by convenience and snowball sampling, so no causal claim about AI feedback literacy and uptake follows and generalization beyond this context is limited.
+- The AIFL construct covers attitudes and practices only; the authors state it does not address emotional, ethical, or relational dimensions of feedback literacy.
+- Only student perspectives were measured, so the teacher-mediation role the paper recommends is untested in the data.
 
 ## Connected Concepts
 

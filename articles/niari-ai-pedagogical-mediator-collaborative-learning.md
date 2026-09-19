@@ -1,7 +1,7 @@
 ---
 title: "Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, ai-education, human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, learning-theories, sociocultural-learning]
@@ -27,9 +27,20 @@ page_kind: [framework]
 
 The paper positions AI as an active participant in the orchestration of interaction, epistemic sense-making, and shared regulation of [[collaborative-learning|collaborative activity]], informed by socio-cultural theory, distributed cognition, connectivism, and sociomaterial/posthuman accounts of distributed agency. It explicitly critiques teammate/peer framings (e.g., AI speakers in Jigsaw groups, [[llm]] writing partners) for obscuring asymmetries of responsibility, accountability, and [[ethics|ethical]] agency. Within a mediation framing, AI structures the conditions of collaboration rather than substituting for human interaction, preserving the dialogical and co-regulated nature of [[learning-theories|collaborative learning theory]] and the epistemic sovereignty of learners and teachers.
 
-## Ethical, Professional, and Design Implications
+## What this means for practice
 
-The framework treats equity, transparency, teacher professional judgment, and data governance as central pedagogical concerns. It argues that AI-mediated collaboration risks algorithmic authority and technocratic governance when [[self-regulated-learning|shared regulation]] is reduced to dashboards, alerts, and nudges. Design should scaffold [[equity-in-ai-education|equitable]] participation, support co-regulation and [[metacognition|metacognitive]] awareness, and remain interpretable, adjustable, and subordinate to teacher judgment. This aligns AI mediation with the pedagogical commitments of [[constructivist]] and socio-cultural accounts rather than with a tool-centric [[pedagogical-agent|pedagogical agent]] logic.
+- **Designers.** Build AI as a mediator of collaborative discourse rather than an orchestrator of it: prompt participation, foreground underrepresented contributions, and flag convergence and divergence instead of managing turn-taking centrally.
+- **Designers.** Let AI generate explanations, model reasoning, and summarize ideas without adjudicating correctness, and make that pedagogical reasoning visible so teachers can interpret and adjust it.
+- **Designers.** Support planning, monitoring, and evaluation of joint activity without centralizing control — keep shared regulation from collapsing into dashboards, alerts, and nudges that substitute algorithmic authority for student co-regulation.
+- **Designers.** Treat equity, transparency, and responsible data stewardship as design requirements rather than compliance afterthoughts — scaffold [[inclusive-learning|equitable]] participation in the discourse the AI mediates and disclose what learner data the system collects.
+- **Researchers.** Study mediation as redistribution rather than delegation: measure where [[agency]] and epistemic authority move among learners, teachers, and AI, and test empirically whether teacher judgment and learner epistemic sovereignty survive the shift across the interactional, epistemic, and regulatory layers.
+
+## Limitations
+
+- This is a conceptual synthesis with no sample, intervention, or comparison group, so the three mediation layers — interactional, epistemic, and regulatory — remain theoretical constructs awaiting operationalization and measurement.
+- Its critique of teammate and peer framings leans on one cited design-based case (Lee et al., 2025, embedding AI speakers in Jigsaw groups) rather than a systematic review of outcomes, and that study itself reported student ambivalence about accountability, epistemic parity, and trust.
+- The boundary distinctions between mediator and tutor, peer, coach, or orchestrator are argued conceptually; nothing in the paper shows that these roles are separable in deployed systems or that teachers and students can recognize which one they are working with.
+- The framework's theoretical bases (sociocultural theory, distributed cognition, connectivism, and sociomaterial/posthuman accounts) differ in their commitments about where agency resides, so the central claim that AI redistributes rather than displaces authority remains contested rather than demonstrated.
 
 ## Connected Concepts
 

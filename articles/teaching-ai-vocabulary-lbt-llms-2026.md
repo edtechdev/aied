@@ -1,7 +1,7 @@
 ---
 title: "Empowering Vocabulary Learning Through Teaching AI: Using LLMs as a Student to Perform Learning by Teaching in Vocabulary Acquisition"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-08-14"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [learning-by-teaching]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -26,11 +26,20 @@ Learning-by-teaching helps learners deepen understanding by explaining concepts 
 - **Learner traits matter.** The study identified traits linked to better [[learning-gains|learning outcomes]], highlighting potential for tailored/adaptive approaches.
 - **Scalable and cost-effective.** The LLM-based approach supports scalable, cost-effective learning-by-teaching across fields, addressing the expense and rigidity of template-based systems.
 
-## Implications
+## What this means for practice
 
-1. **LLMs as teachable students** can operationalize learning-by-teaching in [[language-learning|language learning]] without expensive bespoke systems.
-2. **Dynamic [[automated-question-generation|question generation]]** from an LLM supports contextual relevance that rigid templates cannot match.
-3. **[[personalized-learning|Personalization]] potential** — identifying learner traits that benefit most points toward [[adaptive-learning|adaptive learning]]-by-teaching.
+- **Learners.** Explain the reason for each correction in your own words rather than submitting one-word answers; the participants who typed detailed, well-thought-out inputs benefited most from the system.
+- **Learners.** Study a manageable number of words per session — learners who entered more words per interaction achieved higher outcomes, while one who overloaded himself reported the system as "stressful" and scored 60% lower than with the baseline.
+- **Instructors.** Let an LLM act as a teachable student generating contextually relevant questions instead of building rigid template-based question sets, which are expensive to construct.
+- **Designers.** Avoid the repetitive question loops observed here by raising output diversity (the model was run at temperature zero) and adapting the prompt to the learner's responses.
+- **Researchers.** Target the learner traits linked to stronger outcomes to build adaptive learning-by-teaching that adjusts to a learner's input style and cognitive capacity.
+
+## Limitations
+
+- The experiment ran with only ten university students, each compensated 5,000 yen for a five-hour session, and the authors themselves call for more participants.
+- Learning was measured by multiple-choice pre/post-tests built from GPT-4o-generated items limited to the words missed in the pretest, with retention checked only at 3 and 7 days.
+- Outcomes were highly individual rather than uniform: one participant scored 60% lower with the proposed system than with the baseline, attributed to cognitive overload.
+- The system's GPT-4o temperature was fixed at zero, producing repeatedly identical questions that several participants could predict, and the prompts did not strongly emphasize adapting to learner responses.
 
 ## Connected Concepts
 

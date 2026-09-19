@@ -1,7 +1,7 @@
 ---
 title: "A Case Study of Integrating AI Literacy Education in a Biology Class"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [active-learning, transfer-of-learning]
@@ -32,11 +32,20 @@ This study addresses a persistent gap in [[k-12]] [[ai-education|AI education]]:
 
 **Interdisciplinary reasoning.** [[qualitative-research|Qualitative]] analysis found that students who transferred source-domain knowledge generally produced better explanations in the target domain, while non-transfer was associated with vague or inaccurate explanations. The authors suggest a potential causal relationship between transfer and explanation that warrants further [[quantitative-research|quantitative]] testing.
 
-## Implications
+## What this means for practice
 
-The findings support integrating AI literacy into [[stem-education]] curricula rather than relegating it to extracurricular settings, consistent with calls to embed AI learning in practical contexts via [[active-learning]]. For [[curriculum-design]], the results highlight that subject context is not automatically supportive: AI concepts are best learned when concretized in familiar, hands-on disciplinary knowledge (as in the cell-classification and neuron lessons) rather than only through abstract academic texts. The study's emphasis on assessing students' [[ai-ed-evaluation]] through both conceptual and interdisciplinary-reasoning measures offers a model for evaluating integrated AI learning.
+- **Instructors.** Activate students' prior subject knowledge immediately before introducing AI concepts: prior biology knowledge significantly predicted new AI learning in the two lessons that concretized AI in familiar biology (Lesson 1 R² = 0.24, Lesson 2 R² = 0.52) but not in the two article-based lessons (p = 0.94 and p = 0.30).
+- **Instructors.** Teach AI through hands-on disciplinary tasks students already control — Teachable Machine cell classification, comparing human neurons with ANN structure — rather than opening with abstract academic articles.
+- **Designers.** Convert research articles into age-appropriate, accessible formats (possibly with [[generative-ai|generative AI]] assistance) so article-based lessons do not run at low semantic gravity and high semantic density.
+- **Instructors.** Embed AI literacy inside the assessed discipline course rather than as an extracurricular, since the integrated design reached students who would otherwise have no AI exposure.
+- **Administrators.** Keep lessons modular so they fit state-mandated standards and existing buffer time, which is what makes integration scalable across a department.
 
-The authors also offer practical guidance for educators: activate prior subject knowledge before introducing AI, use age-appropriate materials (converting academic articles into accessible formats, possibly with [[generative-ai|generative AI]] assistance), select contexts where students are competent and confident, and design scalable, modular lessons that fit within state-mandated standards and existing buffer time.
+## Limitations
+
+- 37 students in one honors biology class at a single public high school in the southern US, with only 29 submitting both pre- and post-assessments; the authors withhold the data publicly because of the small sample and student privacy.
+- There is no control group — every student received the four AI lessons — and the quantitative results were inconclusive in Lessons 3 and 4, so the context effect rests on interpretation through semantic wave theory.
+- Biology knowledge gains were not statistically significant (p = 0.21), and the transfer–explanation link came from qualitative analysis of 76 worksheet answers (κ = 0.88) that the authors say needs further quantitative testing.
+- A single instructor with over ten years of biology teaching experience and six weeks of summer AI training delivered all four lessons, so instructor effects cannot be separated from the design.
 
 ## Connected Concepts
 

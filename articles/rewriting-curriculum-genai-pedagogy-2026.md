@@ -1,7 +1,7 @@
 ---
 title: "Rewriting the Curriculum: A Systematic Review of Generative AI-Driven Pedagogical Change and Emerging Systems of Learning in Higher Education"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai]
@@ -26,6 +26,20 @@ methods: [meta-analysis-systematic-review]
 **Theoretical anchoring.** The five shifts are mapped onto established lenses — [[constructivist|constructivism]], connectivism, [[tpack]], SAMR, and constructive alignment — clarifying the pedagogical mechanisms through which GenAI reshapes curriculum and [[teacher-role|teaching]], with implications for [[learning-analytics]] and educational innovation.
 
 **Caveat.** Given the bounded empirical base, the authors position the framework as a starting point for institutional dialogue pending further empirical validation across diverse contexts.
+
+## What this means for practice
+
+- **Administrators.** Replace isolated GenAI pilots with governed, institution-wide integration: the analysis identifies the shift from fragmented experimentation to institutional [[governance]] as one of five system-level changes.
+- **Curriculum designers.** Rebuild programs around dynamic, AI-integrated [[curriculum-design]] and capability development rather than adding AI to existing content, and align intended outcomes, learning activities, and assessment through constructive alignment.
+- **Faculty developers.** Prepare staff for AI-augmented facilitation, in which the teacher's role moves from content delivery to designing and steering AI-supported learning.
+- **Administrators.** Use the AI-Augmented Learning System framework to structure institutional dialogue, not as a ready-made blueprint, and validate each of the five shifts against local evidence before acting on it.
+
+## Limitations
+
+- The practitioner evidence rests on only ten semi-structured interviews, purposively sampled from five institutions in two countries (Australia and Indonesia), and the authors position the framework as an analytical heuristic awaiting empirical validation across diverse higher education contexts.
+- The formal bibliometric corpus and PRISMA-guided review drew on a single database (Scopus, n = 209 records); Web of Science and ProQuest were consulted only in the scoping phase, whose 310 records were not merged into the corpus.
+- The systematic review synthesized 36 English-language peer-reviewed articles published 2023–2025, a narrow window in a rapidly moving field.
+- Interviews lasted 45–75 minutes and captured self-reported pedagogical change; the interview phase triangulated the literature findings rather than testing the framework against student or institutional outcomes.
 
 ## Connected Concepts
 

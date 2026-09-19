@@ -1,7 +1,7 @@
 ---
 title: "The Aftermath of DrawEduMath: Vision Language Models Underperform with Struggling Students and Misdiagnose Errors"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [misconceptions]
 technology: [llm, multimodal]
@@ -27,13 +27,20 @@ methods: [ai-ed-evaluation]
 - **Consistent across input and question types:** the pattern appears with both text and image inputs and with both open-ended and binary question forms.
 - **[[equity-in-ai-education|Equity]] risk:** ~85% of DrawEduMath images come from Title I schools ([[digital-divide|low-income]]), and model weaknesses concentrate on students who need the most help — so rushed integration risks widening [[equity-in-ai-education|achievement gaps]].
 
-## Implications
+## What this means for practice
 
-- VLM training/evaluation pipelines that favor correct mathematical content conflict with education's need to emphasize incorrect work.
-- [[ai-ed-evaluation|AI-in-education evaluation]] should be **disaggregated** to check whether models can (a) discern when a student needs pedagogical support and (b) serve students [[equity-in-ai-education|equitably]] across proficiency levels.
-- Without careful attention, model capabilities may be overstated and hasty classroom integration could exacerbate existing [[equity-in-ai-education|academic-achievement gaps]].
+- **Designers.** Evaluate any math-support model on student work that contains errors, not only on clean or correct responses: across the 11 VLMs released in 2025, every model was less accurate describing erroneous student work, with the effect holding under problem fixed effects (all p < 1.0 × 10⁻¹²).
+- **Designers.** Report separately whether a model can tell that a student needs help: questions about a student's correctness or error were the hardest QA type for all 11 models, in both binary and open-ended forms and with both text and image inputs.
+- **Designers.** Do not assume better image capture fixes the problem: redrawing 336 images on a digital canvas improved accuracy yet left the erroneous-work gap statistically significant, and adding image input only reduced rather than removed it.
+- **Researchers.** Disaggregate results by demonstrated student proficiency instead of reporting one average, and audit equity impact: about 85% of DrawEduMath images come from Title I schools, and model weakness concentrates on the students who need the most pedagogical support.
+- **Researchers.** Re-apply the evaluation in another benchmark, language, or platform before generalizing, since DrawEduMath is a single English dataset drawn from one online learning platform.
 
-evement gaps.
+## Limitations
+
+- The benchmark is a single English dataset of 2,030 handwritten K-12 student responses from one online learning platform (ASSISTments), with self-selection among the teachers, schools, and districts that use it, so findings may not map onto other languages or learning contexts.
+- The evaluation is a moving target: it covers 11 models released in 2025, and the five follow-up analyses (sections 4–8) focus on just four representative models — Gemini 2.5 Pro, Claude Sonnet 4.5, GPT-5, and Llama 4 Scout.
+- Scoring depends on machine judgment: a majority vote of three LLM judges (Spearman ρ = 0.808 against human ratings) plus GPT-5-mini annotators labeling student error, validated on a manually checked sample of 200 examples (F1 = 0.984), with supporting annotations taken from pre-existing teacher captions.
+- Several analyses are narrowed by data constraints: the redrawing experiment uses a stratified sample of 336 images rather than the full dataset because redrawing is time-intensive, some images were dropped from one analysis because their captions leaked correctness information, and one set of results covers only questions shared across multiple student images.
 
 ## Connected Concepts
 

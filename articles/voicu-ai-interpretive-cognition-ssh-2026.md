@@ -1,7 +1,7 @@
 ---
 title: "AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 pedagogy: [metacognition]
@@ -29,6 +29,19 @@ page_kind: [framework]
 **Pedagogical model.** The developmental-critical model operationalizes progression toward interpretive autonomy through six checkpoints: interpretive grounding, contextual anchoring of AI outputs, critical examination of algorithmic structures, hybrid-authorship transparency, reflexive epistemic positioning, and dialogic engagement under human control. Each checkpoint addresses an observed risk (interpretive shortcutting, epistemic outsourcing, loss of authorial voice) and is grounded in cognitive-developmental theory, hermeneutics, and [[critical-pedagogy|critical pedagogy]].
 
 **Implications.** Interpretation in SSH should be scaffolded by direct engagement with primary sources before AI use; writing should be reconceptualized as developmental rather than product-oriented; and critical AI literacy (technical, epistemic, ethical) should be integrated across curricula with attention to teacher preparedness. The model advances an analytically generalizable, empirically grounded framework for AI integration that does not compromise interpretive depth.
+
+## What this means for practice
+
+- **Instructors.** Scaffold interpretation with direct engagement with primary sources before any AI use, so learners meet ambiguity and productive struggle instead of delegating thematic identification and contextual explanation.
+- **Instructors.** Reconceptualize writing as developmental rather than product-oriented, and require hybrid-authorship transparency so students disclose and account for AI contributions instead of normalizing statistically dominant rhetorical structures.
+- **Learners.** Treat every AI output as a claim to triangulate: compare it against the source text, question omissions and inaccuracies, and reformulate conclusions in your own words.
+- **Instructors.** Integrate critical AI literacy — technical, epistemic, and ethical — across the curriculum and attend to teacher preparedness, since fully critical engagement was the least frequent of the three observed trajectories.
+
+## Limitations
+
+- The empirical component is a single classroom in Iași, Romania — 27 lower-secondary students aged 13–15 in one class across six weekly sessions — so the three trajectories are context-specific and not generalizable.
+- Analysis is qualitative and abductive across 42 coded interactional episodes, with no control group and no causal inference; trajectory assignment depended on coder judgment about learner autonomy, verification, and interpretive control.
+- The observation window is short (six sessions) with no longitudinal or cross-context follow-up; the authors themselves call for cross-context empirical testing, mixed-method and longitudinal designs, and further work on assessment, curriculum, and teacher training.
 
 ## Connected Concepts
 

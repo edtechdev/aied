@@ -1,7 +1,7 @@
 ---
 title: "Using Generative AI to Promote Psychological, Feedback, and Artificial Intelligence Literacies in Undergraduate Psychology"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -24,12 +24,19 @@ confidence: high
 - **Three literacies at once:** Psychological literacy (translating research for a lay audience), [[feedback-literacy|feedback literacy]] (early rubric engagement, candid critique without peer-reaction concerns, self-evaluation), and [[ai-literacy|AI literacy]] (understanding, working with, and critically evaluating AI) are promoted by one integrated assessment.
 - **Process over artifact:** The authors argue genAI's ability to mimic human artifacts pushes [[teacher-role|educators]] to assess the learning process, not the final product, and to use AI to outsource initial creation so students practice higher-order evaluation and analysis.
 
-## Implications
+## What this means for practice
 
-- Offers a replicable template for using genAI in [[assessment]] to train evaluation and analysis rather than banning the tool.
-- Uses ChatGPT output as a "teachable artifact" — stylistically good but factually unreliable — giving students practice detecting [[hallucination-risk|hallucination]] and appraising evidence.
-- Shows [[feedback-literacy|feedback literacy]] can be built by having students grade AI output against a rubric early in a course, with observable grade benefits on later revision tasks.
-- Supports [[assessment]] reform toward documented process (revision, version control) over deliverable artifacts in the age of [[generative-ai|generative AI]].
+- **Instructors.** Schedule rubric-based critique of the AI draft before students revise it — the 2023 cohort that graded ChatGPT against the rubric outperformed the 2022 peer-review cohort on the script-revision task (d = 0.36, t(733.05) = 4.93), so the critique belongs early in the assessment sequence.
+- **Instructors.** Use a stylistically strong but factually unreliable ChatGPT draft as a "teachable artifact" instead of banning the tool, so students build [[ai-literacy|AI literacy]] by detecting [[hallucination-risk|hallucination]] and appraising evidence quality.
+- **Instructors.** Model the verification step explicitly for the minority who awarded ChatGPT High Distinction or Distinction on "Aims/Methods/Results": have students check the draft's claims against the source article, because recognizing strong style did not guarantee catching coverage errors.
+- **Designers.** Collect process evidence — the rubric critique and the tracked-changes revision — alongside the final video, since the measurable gain appeared on the revision task and not on the final artifact.
+
+## Limitations
+
+- The evidence is a quasi-experimental comparison of two year cohorts in one second-year psychology course at a single university (2022 peer review vs. 2023 AI critique), not a randomized trial.
+- The authors cannot separate rubric engagement from the head start of beginning with stylistically strong ChatGPT output, so the source of the revision-task gain is unresolved.
+- The benefit did not extend to the final video (t(732.48) = 1.52, p = .129), so it is limited to one task within a three-phase assignment.
+- Outcomes are course grades rather than direct measures of feedback or AI literacy.
 
 ## Connected Concepts
 

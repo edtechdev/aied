@@ -1,7 +1,7 @@
 ---
 title: "Transforming Nursing Education with Artificial Intelligence: A Systematic Review (2010–2025)"
 created: "2026-08-15T09:23:09-04:00"
-updated: "2026-08-15"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design]
 technology: [personalized-learning, simulation]
@@ -25,9 +25,18 @@ methods: [meta-analysis-systematic-review]
 3. **Actionable recommendations.** Integrate AI-powered simulation into emergency-care training; deploy adaptive platforms to support at-risk learners; use automated tools for real-time [[formative-assessment|formative]] feedback; and adopt diagnostic accuracy as a measurable outcome for assessing impact.
 4. **Next step.** Initiate multi-site pilot programs over 6–12 months, evaluating improvements in [[learning-gains|learning outcomes]], trust, and system integration.
 
-## Implications
+## What this means for practice
 
-This review brings the knowledge base's [[ai-education|AIED]] themes into the clinical/health-professions context, extending [[simulation]]-based training, [[personalized-learning]], and [[automated-assessment]] to nursing. It exemplifies a thematic [[meta-analysis-systematic-review|systematic review]] method and connects to [[medical-education]] and health-professions-education applications of AI, as well as to [[equity-in-ai-education|equity]] and [[ethics]] concerns. The focus on faculty preparedness aligns with [[educational-development]] and [[teacher-role]]; the emphasis on validated, measurable outcomes connects to [[ai-ed-evaluation]] and [[educational-measurement]].
+- **Instructors.** Integrate AI-powered simulation into emergency- and high-acuity care training, and use automated assessment tools for real-time [[formative-assessment|formative]] feedback so students receive immediate, unbiased correction.
+- **Instructors.** Deploy [[adaptive-learning|adaptive platforms]] to identify and support at-risk learners before high-stakes clinical placements.
+- **Faculty developers.** Close the faculty-preparedness gap the review finds recurring across studies by training nurse educators to adopt, interpret, and critique these systems.
+- **Administrators.** Run multi-site pilot programs over 6–12 months that evaluate learning outcomes, trust, and system integration, treat diagnostic accuracy as a measurable [[ai-ed-evaluation|outcome]], and address the recurring risks of technological inequity, privacy, and [[bias-mitigation|bias]] before scaling.
+
+## Limitations
+
+- As a qualitative systematic review of 28 studies (January 2010–April 2025), its findings reflect the quality and heterogeneity of those primary studies rather than any new primary data.
+- Coverage is bounded by the search period and by four databases (PubMed, CINAHL, IEEE Xplore, Scopus), and the review is restricted to empirical AI applications — conceptual and Gray-literature sources are excluded.
+- The included studies vary in design and setting and were appraised with the CASP checklist rather than pooled, so the recommendations — including the 6–12 month multi-site pilots — are forward-looking proposals rather than demonstrated effects.
 
 ## Connected Concepts
 

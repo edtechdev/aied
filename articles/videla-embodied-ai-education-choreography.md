@@ -1,7 +1,7 @@
 ---
 title: "\"If You Can't Dance Your Program, You Can't Write It\": Challenges and Implications for AI in Education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [critical-thinking, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [cognitive-psychology, embodied-learning, situated-learning]
@@ -36,6 +36,19 @@ The paper critiques GenAI's flattening of creativity: AI samples cases within a 
 ## Embodied Design Principles
 
 The paper proposes two foundational dimensions — rethinking [[pedagogy|pedagogical]] design toward open, dynamic, embodied approaches where AI is a co-creation agent, and building complex digital ecosystems integrating sensors, robotics, and [[virtual-and-augmented-reality|extended reality]] — operationalized through seven design principles: (i) decenter LLMs as epistemic centers; (ii) use situationality to generate meaningful connections; (iii) support distributed creativity and co-agency; (iv) embrace uncertainty, failure, and improvisation; (v) cultivate critical awareness of bias and algorithmic performativity; (vi) integrate embodied sensorimotor multimodality; and (vii) pursue ecological design for open pedagogical innovation. These are grounded in [[design-based-research|Design-Based Research]] and aim to make AI a means for agency, creativity, and situated understanding rather than an end in itself.
+
+## What this means for practice
+
+- **Instructors.** Decenter LLMs as the epistemic center: design activities in which meaning emerges through body–environment interaction, materials, and making rather than through prompt-and-response text production.
+- **Instructors.** Build in room for uncertainty, failure, and improvisation, treating exploration and epistemic risk-taking as legitimate inquiry instead of forcing rigid, deterministic task designs.
+- **Designers.** Integrate sensorimotor multimodality — gesture, voice, movement, touch — and favor open ecosystems over closed tools, since even multimodal platforms such as NAO's Choregraphe still lack flexibility in unpredictable scenarios.
+- **Researchers.** Interrogate algorithmic performativity, training conditions, and embedded bias as part of designing with AI, particularly where outputs risk epistemic exclusion or cultural homogenization.
+
+## Limitations
+
+- The article is a critical theoretical analysis, not an empirical study: it reports no participants, intervention, or measured outcomes, and its ontological-divide claim rests on conceptual argument plus cited examples.
+- Its seven embodied design principles are proposals; the authors state that implementation requires material, institutional, and formative conditions often lacking in educational settings, and warn that the gap could deepen existing inequities in access and participation.
+- The embodiment technologies invoked are immature — the authors note that NAO's programming environment still lacks flexibility in unpredictable scenarios — so the sensors, robotics, and extended-reality ecosystems the framework needs are aspirational rather than available.
 
 ## Connected Concepts
 

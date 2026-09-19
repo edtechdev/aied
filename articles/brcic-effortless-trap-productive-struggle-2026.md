@@ -1,7 +1,7 @@
 ---
 title: "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-17T07:48:05-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]
@@ -26,13 +26,19 @@ page_kind: [framework]
 - **Diagnostic:** "If letting AI in makes the task feel effortless, it is in the wrong place" — but effort on the skill itself matters; AI should clear away the busywork that is not the skill (looking up, formatting, dead ends).
 - **Placement as [[governance]]:** an AI-use policy becomes a per-skill design principle rather than a blanket prohibition list; the secured final check is the load-bearing point for grade and credential integrity.
 
-## Implications
+## What this means for practice
 
-- Gives educators a concrete framework for lesson/course redesign grounded in [[cognitive-offloading|cognitive-load]] and expertise-reversal theory ([[scaffolding|scaffolds]] must fade as skill grows).
-- Shifts institutional [[educational-policy-ai|AI policy]] from "allow or ban" to a defensible per-skill placement rule.
-- Reinforces that unguarded AI which makes tasks effortless produces an [[cognitive-offloading|illusion of learning]] that collapses on unaided tests.
+- **Instructors.** Place AI per skill rather than per course: keep it out of the first hard attempt (Probe) and the final unaided check (Test), and license it in between (Point, Attach, Strengthen) for hints, examples, feedback, and drill.
+- **Instructors.** Judge each task with the frame's diagnostic — if letting AI in makes the task feel effortless, it is in the wrong place — while checking that the effort removed is busywork (looking up, formatting, dead ends) rather than the skill itself.
+- **Administrators.** Replace allow-or-ban policy with a defensible per-skill placement rule, because the secured final check is what defends the credibility of a grade and of the credential behind it.
+- **Instructors.** Start with one lesson and one skill before redesigning a course: hold the tool out of the first attempt and the final check, let it scaffold the middle, and reuse the six-move vocabulary across the courses students take in sequence.
 
-naided tests.
+## Limitations
+
+- The paper is a practical synthesis with no new empirical results: its argumentative weight rests on established cognitive and social science, while the AI-specific layer (2023–2026) is fast-moving, heterogeneous, and partly made of preprints.
+- The frame covers one idea, on first encounter, in a single pass; durable retention through spacing and review is a layer above it, and the assessment architecture, AI-use contracts, syllabus templates, and per-course blueprints are explicitly out of scope.
+- Several of its anchors are thin by the authors' own account: the access-timing study is a single lab with N = 105, the cognitive-offloading EEG work it cites is small and contested and must be read alongside its published critique, and the tutor "doubling" comes from one elite crossover course rather than a general magnitude.
+- The motivating master-teacher cases (Aristotle, Keller, Rátz, Szubartowski) illustrate what one-to-one mentoring can achieve but cannot establish causation — selection and survivorship effects dominate and the figures are non-peer-reviewed — and the model assumes the motivated, engaged student it cannot itself supply.
 
 ## Connected Concepts
 

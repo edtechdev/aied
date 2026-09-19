@@ -1,7 +1,7 @@
 ---
 title: Probing AI-Generated Physics Solutions and Preparing Students to Critique Them
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T04:59:36-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [metacognition, problem-solving]
@@ -39,9 +39,20 @@ Twenty-four introductory physics lab groups, drawn from five laboratory sections
 
 Problem-solving-only groups produced uncritical or misconception-based critiques: many accepted the AI output largely because it appeared polished and organized, assigning high scores without checking the problem statement, physics, or graphical output, while others were skeptical for reasons that reflected their own traditional misconceptions rather than expert-aligned concerns. MAPS-guided groups identified expert-aligned issues including skipped numerical procedures, undefined notation (such as a rolling angle Ψ never defined), qualitative rather than quantitative plotting, and misalignment with course conventions. This shows critique training is a scaffoldable [[critical-thinking]] skill rather than an automatic byproduct of problem-solving experience, and that evaluating AI-generated work requires practice applying disciplinary criteria to reasoning, representation, and communication rather than relying on [[trust-calibration|surface-level trust]].
 
-## Implications for Physics AIED
+## What this means for practice
 
-The approach integrates model-reasoning [[benchmark|benchmarks]] with [[pedagogy|pedagogical]] intervention, connecting [[physics-education]], [[metacognition]], and [[ai-literacy]]. Reflection rubrics turn AI fallibility into a learning resource: as AI outputs become more fluent and harder to evaluate through surface cues alone, structured critique becomes increasingly important for identifying subtle inconsistencies, missing assumptions, and incomplete reasoning. This supports [[research-methods-aied]] work on evaluating both AI outputs and students' evaluation of them, and offers a template for [[discipline-specific-aied|disciplinary]] critique training that treats AI-generated solutions as objects of evaluation under criteria like [[assessment|assessment rubrics]] rather than evidence of correctness.
+- **Instructors.** Evaluate AI solutions on reasoning, not on final answers: the well-specified [[prompt-engineering|prompt]] produced the only correct quantitative result, while underspecified and multimodal prompts hid missing assumptions and a misleading numeric result behind plausible setups.
+- **Instructors.** Have students critique a model solution against an explicit rubric before their own problem-solving carries the lesson, since MAPS-guided reflection produced more expert-aligned critiques than independent solving alone.
+- **Instructors.** Direct students to the weaknesses the rubric exposes — skipped numerical procedures, undefined notation, and qualitative instead of quantitative plots — rather than judging AI output by its polish.
+- **Instructors.** Treat critique as a scaffoldable skill, because groups that only solved a related problem accepted the AI solution or critiqued it from their own [[misconceptions]].
+- **Researchers.** Treat AI-generated solutions as objects of evaluation under disciplinary criteria when [[benchmark|benchmarking]] reasoning models, and evaluate students' critiques alongside the model outputs.
+
+## Limitations
+
+- The student phase used 24 groups of three, drawn from five laboratory sections and representing only a subset of the 1,759 students (587 groups) enrolled in the course, with unequal condition sizes (15 Solution, 9 Critique).
+- Students evaluated a single o4-mini solution to one rotating-bowl problem, and each prompt variant was submitted only five times with default settings.
+- The authors treat the student component as an exploratory comparison of group-level critique patterns, so no individual-level learning measure is available.
+- Rubric reliability was established only on the AI outputs (two expert raters, weighted Cohen's κ = 0.64), not on the coding of student critiques.
 
 ## Connected Concepts
 

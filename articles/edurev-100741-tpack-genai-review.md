@@ -1,7 +1,7 @@
 ---
 title: "Integrating Generative Artificial Intelligence into Student Learning: A Systematic Review from a TPACK Perspective"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-08-14"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, educational-development, learning-design]
 technology: [generative-ai]
@@ -34,12 +34,20 @@ The 71 studies span publishing year, country/region, authorship type, sample siz
 
 The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and [[ethics|ethical]] implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency]] and [[educational-development]] research.
 
-## Design Implications
+## What this means for practice
 
-1. **Scaffold GenAI use deliberately.** Given incomplete pedagogical scaffolding across studies, GenAI integration must pair tool access with structured pedagogical support.
-2. **Develop student GenAI literacy.** [[teacher-role|Teaching]] students to understand, evaluate, and responsibly use GenAI is a critical, underexplored priority.
-3. **Build GenAI-TPACK through professional development.** Teachers need integrated technological-pedagogical-content knowledge, not isolated tool training.
-4. **Broaden beyond higher education.** GenAI's application in K-12 and the development of systematic AI curricula remain gaps.
+- **Faculty developers.** Build GenAI-TPACK rather than delivering isolated tool training: teachers need integrated technological, pedagogical and content knowledge to judge when and how GenAI serves a subject-specific learning goal.
+- **Instructors.** Pair GenAI access with structured pedagogical [[scaffolding]], because scaffolding of GenAI use was frequently incomplete across the 71 reviewed studies and the tool alone did not raise behavioral engagement (SMD = 0.057, p = 0.828).
+- **Instructors.** Teach students to evaluate and use GenAI responsibly as a distinct curriculum goal — the review's first critical priority — instead of assuming literacy follows from exposure.
+- **Learners.** Use GenAI as a domain-specific learning tool with deliberate study strategies; the cognitive payoff is real (g = 0.831) but it comes from how the tool is used, not from access.
+- **Administrators.** Extend GenAI integration beyond [[higher-ed]] and fund systematic AI curricula for K-12, where adoption and pedagogical strategy for [[critical-thinking|higher-order thinking]] remain underdeveloped and quasi-experimental designs still dominate.
+
+## Limitations
+
+- The review's scope is deliberately narrow: only empirical studies using GenAI with student participants and reporting learning outcomes were included, all published after ChatGPT's release on November 30, 2022, so teacher-facing studies, reviews and theoretical work were excluded by design and the evidence base is young.
+- The meta-analysis pools 71 papers (47 journal articles, 74 effect sizes) that are dominated by quasi-experimental designs of uneven rigor; the authors' own quality appraisal flagged recurring problems such as short duration, small sample sizes and non-disclosure of research limitations.
+- The behavioral-engagement finding is a null result (SMD = 0.057, p = 0.828) and is much weaker evidence than the cognitive (g = 0.831) and affective (g = 0.729) effects, so the overall g = 0.752 should not be read as a uniform treatment effect.
+- Instructional-design variables (learning content, tool, strategy, assessment, outcome) significantly moderated outcomes, so pooled effect sizes conceal substantial variation between interventions.
 
 ## Connected Concepts
 

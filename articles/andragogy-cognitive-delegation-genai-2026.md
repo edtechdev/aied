@@ -1,7 +1,7 @@
 ---
 title: What Remains Self-Directed? Revisiting Andragogy Through Cognitive Delegation in Generative AI-Mediated Adult Learning
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-24T05:04:27-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, cognitive-offloading]
 pedagogy: [metacognition, motivation, self-regulated-learning]
@@ -41,9 +41,20 @@ Knowles's six andragogical assumptions — the need to know, self-concept, prior
 
 The paper integrates [[adult-learning]] theory with [[cognitive-offloading]], extended and distributed cognition, human–automation function allocation, agentic information-system delegation, and appropriate reliance, deriving five analytical dimensions that operationalize meaningful self-direction under delegation. Need and goal ownership concerns whether learners understand, critically endorse, and retain authority over why and what they learn. Delegation control concerns which functions are assigned to AI, which are retained, and when the allocation is revised — it is not simply low AI use. Epistemic calibration is the capacity to align reliance on AI with evidential adequacy, system limitations, task demands, and stakes. Cognitive recoverability and transfer concern what capability remains after delegation: whether the learner can reconstruct reasoning and use it in new contexts, consistent with [[distributed-cognition]] and [[transfer-of-learning]] research. Motivational autonomy is the extent to which learners meaningfully endorse the reasons for learning, even under organizational or labor-market pressure. Self-direction is thus a configuration rather than a single continuum, and amount of AI use is a contextual characteristic rather than a sixth dimension.
 
-## Implications for Adult AIED
+## What this means for practice
 
-The framework challenges educators to evaluate not just outputs but the distribution of cognitive [[agency]], connecting [[metacognition]], [[trust-calibration]], and [[motivation]] in [[lifelong-learning]]. It reframes [[adult-learning]] as an active design goal rather than an assumed default in AI-mediated learning environments. For [[ai-literacy]], instrumental competence such as [[prompt-engineering|prompting]], tool selection, and output generation is insufficient; learners must also understand what should be delegated, how delegated activity should be evaluated, and what capability should remain after delegation. For [[assessment]], educators must distinguish individual from hybrid capability — an AI-assisted report may reveal what a learner–AI configuration can accomplish while revealing little about what the individual understands — so assessments should state explicitly which capability is being inferred. For adult educators, GenAI shifts value away from merely supplying explanations or examples and toward designing conditions in which learners learn to govern cognitive participation, using [[scaffolding]], hints, and structured verification and reconstruction. For AI system design, educational systems can make the allocation of cognitive responsibility more visible and adjustable. Finally, motivational autonomy raises a policy issue: [[educational-policy-ai]] and [[lifelong-learning]] discourse should ask not only whether people participate in continuous learning, but under what conditions they are required to become continuously self-directing and what [[governance|institutional]] support accompanies that responsibility.
+- **Educators.** Evaluate the distribution of cognitive work, not just the artifact: state explicitly which capability an assessment is inferring, because an AI-assisted report shows what a learner–AI configuration can do and little about what the individual understands.
+- **Educators.** Teach the governance of delegation, not only instrumental [[ai-literacy]]: prompt writing and tool selection are insufficient without knowing what should be delegated, how delegated activity should be judged, and what capability must remain.
+- **Educators.** Design conditions in which learners learn to govern their own cognitive participation — [[scaffolding]], hints, and structured verification and reconstruction — instead of supplying explanations and examples directly.
+- **Researchers.** Treat the five dimensions as testable propositions: compare critically endorsed AI-generated goals with unreformulated ones, hold AI capability constant across learner-controlled and system-led allocation, and test whether task-specific epistemic calibration outperforms generalized trust.
+- **Administrators.** Pair any requirement to keep learning with institutional support: the framework's motivational-autonomy dimension raises the question of what conditions make adults continuously self-directing, and what support accompanies that responsibility.
+
+## Limitations
+
+- This is a conceptual paper with no primary data: the five analytical dimensions are derived by reanalyzing Knowles's six andragogical assumptions against the literature, so the framework is a set of claims awaiting test, as its own falsifiability statement concedes.
+- Its strongest empirical anchor is a single study — Bassner et al.'s three-arm randomized controlled trial with 275 introductory-programming students — which the paper itself says is context-specific and "should not be generalized to all adult learning."
+- The framework's applicability is explicitly gated (task consequentiality, learner discretion), and where goals, methods and AI functions are entirely imposed by an institution it has, in the author's words, reduced explanatory leverage for self-direction.
+- The paper is an EdArXiv preprint and has not been peer reviewed.
 
 ## Connected Concepts
 
