@@ -218,6 +218,17 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   The practice section now makes the same point qualitatively, which the saved abstract and research questions do
   support; the key-findings figures need the published PDF before they can be trusted or corrected.
 
+### Sources that are summaries rather than papers, and figures that live only in images
+
+- `wang-safety-gap-productive-struggle-2026` - the saved source is a 3.3 KB abstract-level overview with no method,
+  results or limitations text, so the page's limitations describe what a perspective paper can and cannot support
+  rather than study statistics. Needs the full article.
+- `zhang-races-consistent-essay-scoring-llms-2026` - the saved source stopped at the old extraction cap; the
+  open-access article page was re-extracted through a browser and the source is now complete (70 KB). Its QWK
+  values are presented only inside figures, which text extraction does not capture, so the page no longer states a
+  QWK percentage: it points to the figures and keeps the numbers that the text does state (semantic similarity
+  81.3% and 79.3%, pairwise accuracy 73.9% and 63.1%). Read the figure if the QWK value is needed.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same

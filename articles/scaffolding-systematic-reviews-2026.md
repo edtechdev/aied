@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design]
 pedagogy: [collaborative-learning, scaffolding]
@@ -41,6 +41,21 @@ While ML and [[llm]] tools (e.g., ASReview, SWIFT-Review, Covidence, AIScreenR, 
 ## Relevance to the knowledge base
 
 This paper significantly contributes to the knowledge base's [[scaffolding]] and [[human-in-the-loop-ai]] threads by treating a research workflow as an intentional learning experience. It provides practice-informed guidance for novice researchers and interdisciplinary teams, illustrates how [[collaborative-learning]] and mentoring sustain rigor, and models a principled division of labor between automation (procedural burden) and human judgment (interpretive decisions) — of direct relevance to [[learning-design]] and AI-assisted research practice.
+
+## What this means for practice
+
+- **Researchers.** Treat mentoring as methodological infrastructure rather than a courtesy: pair less experienced reviewers with experienced ones during double screening and put scheduled co-reflection on the review timeline, not on the margins of it.
+- **Researchers.** Write decision rules for gray-area cases before screening starts, run calibration exercises on a shared sample of abstracts, and keep a shared meeting log of adjudications so the same judgment is applied consistently across the team.
+- **Researchers.** Assign automation to procedural load only — chiefly abstract screening and keyword-exclusion filtering — and keep data extraction, reconciliation, and synthesis with human reviewers; verify every tool output rather than accepting it.
+- **Researchers.** Budget time for the tasks the authors found hardest to automate: variable reporting locations, mixed-format data, and disagreements between coders, which are resolved through practice rounds, double coding, and third-reviewer adjudication.
+- **Researchers.** If you lead an interdisciplinary team, make expert reasoning visible in discussion. In this account, that — not tooling — is what sustained both methodological rigor and novice researchers' confidence across the review.
+
+## Limitations
+
+- The paper is a reflective account of one interdisciplinary LDT team's own review process, not a controlled study. No mentoring or AI-supported condition is compared against a baseline, so the strategies are described rather than tested for effect.
+- The field mapping rests on 242 published reviews from 11 top-tier LDT journals (2011 to June 2025), and the topic model behind its eight themes was fitted to titles and abstracts only, so the themes reflect metadata rather than full texts.
+- Evidence about automation comes from the authors' own workflow plus cited tool studies (e.g., ASReview, Covidence, MetaMate); no head-to-head tool comparison or accuracy benchmark is reported.
+- The authors report that inconsistent reporting across primary studies reduced interrater reliability during data extraction, and they addressed this through practice rounds and third-reviewer adjudication rather than reporting a reliability coefficient.
 
 ## Connected Concepts
 

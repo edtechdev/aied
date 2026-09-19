@@ -1,7 +1,7 @@
 ---
 title: "Let's CHAT About Artificial Intelligence for Students With Disabilities: A Systematic Literature Review"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 technology: [educational-robotics]
 assessment: [learning-gains]
@@ -51,6 +51,20 @@ Consistent with CHAT, the paper foregrounds community, rules, and division of la
 ## Relevance to the Knowledge Base
 
 This is a **landmark contribution to [[special-education]], [[inclusive-learning]], [[accessibility]], [[educational-robotics]], and [[learning-gains]]**. As the first meta-analysis of AI for SWDs, it provides the strongest [[quantitative-research|quantitative]] evidence that AI-based interventions yield a **medium positive effect on SWD learning outcomes**, directly supporting the [[learning-gains]] concept's evidence base for [[special-education]]. It is the clearest empirical anchor for the knowledge base's distinction between [[accessibility]] (ensuring access) and [[agentic-ai]]/[[agency]] (agentic participation) — explicitly recommending AI that promotes SWDs' agentic roles. It also synthesizes evidence on [[educational-robotics]] (robot-assisted instruction for ASD), [[virtual-and-augmented-reality|virtual reality]] (intelligent VR), [[intelligent-tutoring]] (ITS), and [[student-engagement]], with implications for [[k-12]] (all studies were PK-12) and [[equity-in-ai-education]] (cultural-historical, strengths-based, anti-deficit framing). Notably, most interventions relied on [[generative-ai|less-advanced]] rule-based AI and human-operated robots rather than modern [[generative-ai]]; the authors flag advanced [[ai-technologies|AI techniques]] as underexplored for SWDs.
+
+## What this means for practice
+
+- **Instructors.** Give students with disabilities direct, supported time with the AI tool: dyadic AI-SWD interactions showed the largest effect (g = 0.973) versus triadic arrangements involving community members (g = 0.385), so avoid routing every session through an adult intermediary.
+- **Instructors.** Do not expect social-emotional coaching to carry the academic load: AI as a social-emotional coach produced the smallest effect (g = 0.336), while computer software (g = 0.959) and instructional/learning tools (g = 0.863) were stronger — most robot studies targeted social-emotional outcomes for students with ASD.
+- **Designers.** Build teachable-agent activities where students with disabilities instruct, script, or correct the AI: teachable agents showed the largest effect (g = 1.100) and only two of the 29 included studies used them, so the arrangement is both promising and rare.
+- **Researchers.** Treat [[accessibility]] as a floor rather than the goal: only two studies (Brainin et al., 2022; Wilson, 1997) positioned SWDs in an [[agency|agentic]] role, and none examined collective learning with peers in [[inclusive-learning|inclusive]] settings, so design studies that test [[equity-in-ai-education|equitable]], strengths-based participation.
+
+## Limitations
+
+- Publication bias was present (Egger's test β = 2.837, p < .001); trim-and-fill added 61 studies and reduced the pooled effect from g = 0.588 to g = 0.2694, so the headline medium effect is likely inflated even though the adjusted estimate stayed significant.
+- Heterogeneity was high (τ² = 0.52; I² = 76.17) and none of the participant-, AI-, interaction-, intervention-, or methodology-related moderators reached significance; the authors note the null moderating effects may reflect small subcategory samples and that heterogeneity is often confounded with publication bias, so they urge caution in reading the overall positive effect.
+- The corpus is 29 studies from 24 peer-reviewed articles and 4 dissertations published between January 1994 and January 2023, drawn from ERIC, PsycInfo, PubMed, IEEE Xplorer, and ProQuest and limited to English-language documents; single-case designs and conference proceedings were excluded, which the authors acknowledge may omit relevant evidence.
+- The technology base is dated: robots made up 70.0% of studies and most were human-operated via the Wizard of Oz method, only two studies used teachable agents, and intelligent VR was not statistically significant (g = 0.528), so the findings do not speak to modern [[generative-ai|generative AI]] for SWDs.
 
 ## Connected Concepts
 
