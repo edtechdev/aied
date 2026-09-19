@@ -1,7 +1,7 @@
 ---
 title: "Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, learning-design]
 pedagogy: [student-ai-interaction]
@@ -35,6 +35,20 @@ Five significant reasons for non-use emerged: lack of training, concerns about t
 ## Relevance to the knowledge base
 
 This paper gives the knowledge base rich, real-world evidence on [[student-ai-interaction]] and [[student-experience]] with [[conversational-ai]] in [[higher-ed]], showing how [[ai-literacy]] — not just general digital proficiency — shapes adoption of [[generative-ai]] [[pedagogical-agent|pedagogical agents]]. Its attention to [[academic-integrity]] fears and trust connects to the knowledge base's coverage of [[reducing-ai-misuse|reducing AI misuse]], while its human-centered design recommendations inform [[learning-design]] and the conditions under which chatbots equitably complement human instruction.
+
+## What this means for practice
+
+- **Instructors.** Design chatbot availability around 24/7 needs: over a third of interactions (36.8%) occurred after hours, which matters most for online and distance learners.
+- **Designers.** Reconsider intrusive entry points, since usability and especially the pop-up design was the largest non-use theme at 23%.
+- Target [[ai-literacy]] rather than general digital proficiency, which was associated with willingness and confidence to use chatbots far more weakly than AI familiarity.
+- State assessment rules inside the tool, because fear of breaching [[academic-integrity]] was a named reason for non-use.
+
+## Limitations
+
+- Survey sample of 121 students at a single institution using one chatbot in one disciplinary context (Australian criminal law).
+- Survey data are self-reported and may be influenced by recall bias or social desirability, though the separate system analytics were accurate.
+- No longitudinal data were collected, so changes in perception over time could not be tracked, and the chatbot technology was relatively new at the time of measurement.
+- Students received no training beyond a limited set of starter prompts, and the study did not analyze the types or themes of student prompts.
 
 ## Connected Concepts
 

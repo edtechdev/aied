@@ -1,7 +1,7 @@
 ---
 title: "Understanding ethical dimensions of AI in higher education: insights from faculty members and students"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-education, teacher-role]
 stakeholders: [student-experience]
@@ -35,6 +35,20 @@ Qualitative analysis revealed six themes spanning data ethics, algorithm ethics,
 ## Relevance to the knowledge base
 
 This paper grounds the knowledge base's treatment of [[ethics]] in [[higher-ed]] with a dual-stakeholder, mixed-methods account of how faculty and students actually reason about AI, bridging [[ai-education]] with [[governance]] and [[educational-policy-ai|institutional policy]]. Its emphasis on faculty professional development, [[curriculum-design|curriculum]] reform, and clear guidelines offers concrete levers for [[teacher-role|educators]] and administrators. The documented risk that excessive AI use may weaken [[critical-thinking]] and cognitive skills connects the paper to the knowledge base's coverage of [[cognitive-offloading]] and [[ai-misuse-learning-harm]], while its privacy and academic-integrity themes align with [[privacy]] and [[academic-integrity]] concerns.
+
+## What this means for practice
+
+- **Instructors.** Treat students' stated ethical responsibility as a starting point rather than a guarantee: students scored highest on ethical awareness (M=3.95) but lowest on [[academic-integrity]] (M=3.72), and few checked whether tools had ethical guidelines.
+- Build explicit data-privacy and cultural-inclusivity content into AI professional development, where faculty self-reported their weakest knowledge.
+- Pair any institutional guideline with classroom-level [[ethics]] instruction, since faculty rated the need for institutional measures highly (M=4.59) but the adequacy of current guidelines lowest (M=2.99).
+- Require students to document how they verified a tool's guidance, countering their tendency to attribute output ownership or errors to the AI.
+
+## Limitations
+
+- Data come from a single public university in Turkey, and the authors note the study is situated in a specific context that reflects participants' reported views rather than observed practice.
+- Both phases rely on self-report, a survey of 971 students and 135 faculty followed by interviews with 23 students and 14 faculty, which introduces subjective interpretation.
+- Only 135 of 776 faculty responded to the survey, and the authors flag potential non-response bias among faculty who chose not to participate.
+- The sequential design is cross-sectional, so it cannot track how ethical perceptions and practices change over time.
 
 ## Connected Concepts
 

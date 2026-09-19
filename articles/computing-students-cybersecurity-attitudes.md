@@ -1,7 +1,7 @@
 ---
 title: "Confident yet Concerned: Inconsistencies in Computing Students'' Attitudes on Cybersecurity"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [student-engagement]
@@ -17,6 +17,20 @@ discipline: [cs education]
 > **Synthesis:** This study examines inconsistencies in [[cs-education|computing students']] attitudes toward cybersecurity: students report confidence in their cybersecurity knowledge but do not always translate this into safe practices. Because today's young adults are the most immersed in technology — yet also report feelings of powerlessness in managing online [[privacy]] across platforms and are particularly susceptible to phishing — the paper argues educational interventions are needed to close the gap between confidence and behavior.
 
 Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap. Today's young adults are the most immersed in technology, leading in feelings of powerlessness in managing online privacy across many platforms, and particularly susceptible to phishing attacks. This raises questions about their general, wide-ranging attitudes toward and management of cybersecurity, motivating educational interventions that connect [[student-experience|student attitudes]] to actual practice in [[higher-ed|higher education]].
+
+## What this means for practice
+
+- **Instructors.** Teach cybersecurity as practiced behavior, not as knowledge transfer: among 236 computing students, confidence in cybersecurity knowledge did not consistently translate into safe practices.
+- **Instructors.** Build phishing-specific exercises rather than general awareness content, because this population is the most immersed in technology yet particularly susceptible to phishing attacks.
+- **Learners.** Do not read confidence as competence: participants reported confidence in their own knowledge while also reporting powerlessness in managing online [[privacy]] across platforms.
+- **Instructors.** Assess attitudes and behavior separately in [[cs-education|computing courses]], since the attitude clusters the study recovered did not map cleanly onto safe practice.
+
+## Limitations
+
+- Self-report measures: the SeBIS and GSE instruments and the open-ended questions capture reported behavior and attitudes, which the authors note are subject to social desirability bias, overconfidence, and limited self-awareness.
+- Single institution: all 236 participants came from undergraduate Human-Computer Interaction courses at one university in New Zealand, so institutional culture, teaching practices, and resources may limit generalization to computing students elsewhere.
+- Course-skewed sample: because participants were drawn from an HCI course, participation (about 69% of eligible students) was likely skewed toward students interested in HCI, and 93% were aged 16 to 24.
+- The attitude structure is exploratory: pre-analysis metrics suggested two clusters, which the survey refined through a 20-participant pilot after validation by five cybersecurity experts, and the survey itself took an estimated 28 minutes to complete.
 
 ## Connected Concepts
 

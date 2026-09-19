@@ -1,7 +1,7 @@
 ---
 title: "Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [self-regulated-learning]
@@ -39,6 +39,20 @@ The authors propose two differentiated strategies. For high-CT students: open-en
 ## Relevance to the knowledge base
 
 This article directly links learner cognition (CT) to measurable [[learning-gains]] in a generative-AI tool context, and it demonstrates that self-regulatory coherence, not tool availability, drives success. It is a strong empirical anchor for the knowledge base's [[computational-thinking]] and [[self-regulated-learning]] concepts, and it offers a concrete equity argument: without differentiated scaffolds, AICAs may amplify existing CT disparities, since low-CT students benefit least and rely most. It also connects to [[generative-ai]] and [[scaffolding]] by showing that AI coding assistants function well only when matched to learners' regulatory capacity. The K-12 focus extends the knowledge base's AI-in-education evidence beyond [[higher-ed|higher education]].
+
+## What this means for practice
+
+- **Instructors.** Differentiate AI coding assistant access by computational-thinking level: give high-CT students open-ended exploration and low-CT students a structured goal-setting, monitoring, and evaluation script.
+- Watch for answer-retrieval sequences (immediate query, copied code, run) as an early signal that an AI coding assistant is functioning as an answer source rather than a cognitive partner.
+- **Instructional designers.** Build process indicators into AI-assisted coding tasks; only the post-test separated the groups (72.54 vs. 61.73, p = .031), so process evidence is needed to catch differences earlier.
+- Treat low-CT students' sparse self-regulatory network as a design target, since their journals showed [[help-seeking]] dominating with weak planning and reflection connections.
+
+## Limitations
+
+- 52 eighth-grade students in one four-week Python course, split into two groups of 26 by a computational-thinking pre-test.
+- The groups' pre-test difference was not significant but not negligible (t(50) = 1.86, p = .069), so CT level is not perfectly isolated from prior coding knowledge.
+- Cognitive characteristics were coded from reflection journals, which the authors note are inherently subjective and may not capture actual cognitive states.
+- No phase-by-phase performance measures (task success rates, concurrent exercise accuracy) were analyzed, so the study cannot trace when group differences emerged.
 
 ## Connected Concepts
 
