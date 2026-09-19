@@ -28,22 +28,26 @@ title: Page Title
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: article | concept | faq
-research_method: [survey]                # typed fields, all optional, all closed vocabularies
+confidence: high | medium | low        # how well-supported the claims are
+sources: [raw/papers/source-name.md]   # articles only
+connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
+
+# facet fields: concept slugs, each from its own registry section (a wrong-kind value fails the build)
+foundations: [ai-literacy, cognitive-offloading]
+pedagogy: [scaffolding, self-regulated-learning]
+technology: [llm]
+assessment: [formative-assessment]
+methods: [quantitative-research]
+stakeholders: [learners]
+institutions: [governance]
+ethics: [trust-calibration]
+
+# phrase fields: closed vocabularies, not concept slugs
+research_method: [survey]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors]
 page_kind: [framework]
-foundations: [ai-literacy]               # facet fields: concept slugs from one registry section
-pedagogy: [scaffolding] anxiety-and-stress
-technology: [llm]
-sources: [raw/papers/source-name.md]   # articles only
-connected_faqs: [faq-slug-1, faq-slug-2]  # concepts + articles only (optional)
-confidence: high | medium | low        # how well-supported the claims are
-research_method: [systematic review, survey]  # optional, see below
-discipline: [math education, physics education]  # optional
-audience: [teacher role, administrator]  # optional
-level: [higher ed, k 12]  # optional
-category: [theoretical framework]  # optional
 ---
 ```
 
@@ -151,10 +155,20 @@ page body instead (see Update Policy below).
 
 ### Article page body structure
 ```
-> **Synthesis:** 2-4 sentence summary of what the paper does and finds
+> **Synthesis:** 150-220 words: what the paper does, how, and what it finds
 
 ## Key Findings
-- 3-5 distinct bullet points with the most important results
+- 5-7 contiguous bullets, one finding each (no blank lines between them)
+
+## <2-4 body sections>
+Named for this paper's content, not a template
+
+## What this means for practice
+- Lead with **Instructors.** Add a labeled bullet for designers, administrators or researchers
+  only when the paper supports a genuinely distinct implication for them.
+
+## Limitations            (optional: evidence-bound limits only)
+- 2-4 bullets, each tied to a concrete fact about this study
 
 ## Connected Concepts
 - [[concept-slug]]  (3-6 genuinely related concepts)
@@ -162,24 +176,37 @@ page body instead (see Update Policy below).
 ## Connected Articles
 - [[article-slug]]  (2-4 genuinely related articles)
 
+## Connected FAQs
+- [[faq-slug]]      (optional)
+
 ## Citation
-Author, A. (2026). [*Full Title*](https://doi.org/...). Journal.
+Author, A. (2026). [Title](https://doi.org/...). Journal, Vol(Issue), pages.
 ```
-Exactly one `## Citation` per article, as a single APA-style line (hyperlinked full title, first 6
-authors + ", et al." for longer lists, source suffix per the wiki's citation rules).
+**`## Citation` is always the LAST section on the page.** Exactly one per article, as a single
+APA-style line: the paper's title is the only hyperlinked text, first 6 authors + ", et al." for
+longer lists. The body carries no separate PDF/DOI link. Article body budget: ~600-900 words
+(frontmatter to `## Connected Concepts`), and `## Limitations` is written only when the study
+supplies real limits — a boilerplate "small sample, single institution" line is a defect, not a
+section.
 
 ### Concept page body structure
 ```
 > **Synthesis:** definition + overview of the concept
 
-## Key research themes
-Theme descriptions with [[wikilinks]] to related articles
+## Questions to Consider      (REQUIRED on every concept page)
+- Pre-reading questions that make the reader reason, not recall
+
+## Introduction
+
+## <body sections with [[wikilinks]]>
 
 ## Connected Concepts
 - [[concept-slug]]
 
 ## Connected Articles
 - [[article-slug]]
+
+## Connected FAQs             (optional)
 ```
 (No citation section — concepts synthesize multiple sources.)
 
@@ -190,7 +217,8 @@ title: "Question being answered?"
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: faq
-tags: [relevant tags]
+foundations: [ai-literacy]             # facet fields work on FAQ pages too
+audience: [instructors]
 ---
 
 # Question being answered?

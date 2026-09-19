@@ -30,7 +30,7 @@ You are a research assistant for AI in education. Use the AI in Education Knowle
 
 3. Synthesize across pages instead of leaning on one. Concept pages give the overview and link to the articles behind them, so follow those links. Read three to five of the most relevant pages, stop when they start repeating the same studies, and say what you did not read. If the knowledge base covers the topic only in a neighboring field, say so and answer by analogy.
 
-4. Match the strength of the evidence. Controlled or randomized experiments that measure unassisted performance are strongest, then meta-analyses adjusted for publication bias, then reviews, then pilots, policy analyses, and opinion; one small study is not consensus. Tags, audience, level and confidence ratings live in each page's Markdown source at https://raw.githubusercontent.com/edtechdev/aied/main/<section>/<slug>.md, not in the rendered page, so if you cannot check them, judge from how the article describes the study and say that is what you did.
+4. Match the strength of the evidence. Controlled or randomized experiments that measure unassisted performance are strongest, then meta-analyses adjusted for publication bias, then reviews, then pilots, policy analyses, and opinion; one small study is not consensus. Check the study's tool generation before trusting an effect size: a comparison run on a superseded model (a GPT-3.5-era classroom study, for instance) describes a tool students no longer use, and pages say so in their Limitations. Each page renders its structured metadata — the concepts it connects to, intended audience, level, study design and confidence — as a Metadata table at the foot of the page, and the same fields are in the Markdown source at https://raw.githubusercontent.com/edtechdev/aied/main/<section>/<slug>.md; if you cannot check them, judge from how the article describes the study and say that is what you did.
 
 5. Answer at the level the question asks for, and close by recommending the most relevant pages and FAQs.
 
@@ -97,11 +97,11 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 
 ### Page structure
 
-- **Article pages** — frontmatter (title, `created`/`updated` full quoted date+time timestamps, type, tags, **`sources`**, confidence) → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title. Every article must include a `sources:` field (required by the Astro 7 schema) pointing to the raw source file.
-- **Concept pages** — frontmatter → synthesis blockquote → `## Questions to Consider` (pre-reading questions) → `## Introduction` → body with wikilinks → Connected Concepts → Connected Articles.
-- **FAQ pages** — frontmatter → question heading → narrative answer with wikilinks. Curated answers; no sources/citation. Linked to concept/article pages via a **Connected FAQs** section (frontmatter `connected_faqs`).
+- **Article pages** — frontmatter (title, `created`/`updated` full quoted timestamps, type, **`sources`**, confidence, plus the typed metadata fields) → synthesis blockquote → `## Key Findings` → the body sections → `## What this means for practice` → `## Limitations` (optional) → Connected Concepts → Connected Articles → Connected FAQs → **`## Citation` last**. The citation hyperlinks the paper's own title; the body carries no separate PDF or DOI link line. One page per paper.
+- **Concept pages** — frontmatter → synthesis blockquote → `## Questions to Consider` (pre-reading questions, required on every concept page) → `## Introduction` → body with wikilinks → Connected Concepts → Connected Articles.
+- **FAQ pages** — frontmatter → question heading → narrative answer with wikilinks. Curated answers; no sources, no Citation. Linked to concept and article pages via a **Connected FAQs** section (frontmatter `connected_faqs`).
 - All inter-page links use `[[wikilink]]` syntax, which the Astro templates render as hyperlinks.
-- **Tags** in frontmatter are concept slugs (each value is a real concept page), rendered as clickable chips. Optional structured metadata (`level`, `audience`, `discipline`, `category`, `research_method`) provide PageFind search facets. See [`tooling/SCHEMA.md`](tooling/SCHEMA.md).
+- **Typed metadata replaced tags** (retired 2026-09-17). The concepts a page touches are named in the facet fields — `foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics` — each taking concept slugs filed under that field's own registry section, alongside the phrase fields `research_method`, `discipline`, `level`, `audience` and `page_kind`. They render as the Metadata table at the foot of every page and drive the PageFind facets and the page's schema.org keywords. A value of the wrong kind fails the build. See [`tooling/SCHEMA.md`](tooling/SCHEMA.md).
 - **Structured data** — every page emits schema.org JSON-LD (`Article`/`DefinedTerm`/`FAQPage` as appropriate). See [`docs/json-ld.md`](docs/json-ld.md).
 
 ### Local development
@@ -149,7 +149,9 @@ Each run filters for relevance, skips already-ingested items, creates article pa
 | Site not updating | Confirm the GitHub Actions deploy workflow ran: Actions tab → astro-deploy |
 | Search index stale | Search is Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
-| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/` or `concepts/` |
+| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/`, `concepts/` or `faqs/`, or a redirect entry in `src/data/conceptRedirects.ts` / `src/data/articleRedirects.ts` |
+| Metadata rejected by the build | `python3 tooling/scripts/validate-facets.py` — a facet value must be a concept filed under that field's own registry section |
+| British spelling crept in | `python3 tooling/scripts/check-us-english.py --include-docs` — house style is US English; the checker ignores slugs, link targets and inline code |
 | YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 
 ---
@@ -160,15 +162,15 @@ Want to set up an automated research knowledge base for a different domain? Ever
 
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — AI agent skill definition (the `research-wiki` ingestion + export pipeline)
-- **`tooling/SCHEMA.md`** — Domain, tag taxonomy, and page conventions
-- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker
+- **`tooling/SCHEMA.md`** — Page conventions, the typed metadata fields (tags are retired), and the generated vocabulary lists
+- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker, US-English checker (`check-us-english.py`)
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
 - **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views
 - **`tooling/scripts/gen-concept-artifacts.py`** — regenerates the concept views from the registry
 - **`tooling/scripts/run-gates.py`** — runs every HARD GATE declared in `wiki.config.yaml` (also `npm run verify`)
 - **`tooling/scripts/sync-skills.py`** — reports/refreshes drift between the repo's `skills/` mirrors and the agent's installed copies
-- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan), each enforcing the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy) and the **list-formatting HARD GATE** (run `check_list_formatting.py` before build)
+- **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan). Each enforces the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy), the **list-formatting HARD GATE** (`check_list_formatting.py`), the facet/metadata gate, the US-English house-style gate, and the tool-generation screen that reports a study's model version and collection window before it is ingested. The full gate list lives in `wiki.config.yaml` and runs as `npm run verify`.
 - **`tooling/example/`** — Starter knowledge-base files to get going quickly
 - **`wiki.config.yaml`** (repo root) — The pipeline configuration: content paths, build + gate commands, scan sources, journal feeds, relevance filter, and an `agent:` block that maps the pipeline's capabilities onto your AI agent's tools. Add or remove a journal or arXiv category here, in one place.
 - **`concepts.registry.yaml`** (repo root) — The concept vocabulary: every concept slug with its title and synonym phrases, the sidebar sections, the merge/redirect map and the never-link list. `tooling/concept-index.md`, `src/data/conceptIndex.ts` and `src/data/conceptRedirects.ts` are **generated** from it.
@@ -177,11 +179,16 @@ Want to set up an automated research knowledge base for a different domain? Ever
 The mirrored **AI agent skills** live in [`skills/research/`](skills/research/) and encode the editorial conventions the agents must follow:
 
 - **`wiki-inline-links`** — term→slug scanner (`inline_link_scan.py`) + list-formatting checker (`check_list_formatting.py`), enforcing aggressive concept-linking in every new/enriched page and catching the recurring numbered-list blank-line bug.
+- **`wiki-article-quality`** — per-page repair and the article page contract: section order, body-word budget, citation form, frontmatter checklist.
+- **`wiki-batch-ingestion-qa`** — the QA layer across a batch: double H1s, heading links, same-text pipes, broken slugs, facet fields, length budget, and the tool-generation screen that decides whether a study still speaks to present-day AI.
+- **`wiki-source-acquisition`** — full-text recovery (arXiv, OSF/EdArXiv, publisher), the raw-source write-back contract, and what to do when only an abstract is available.
+- **`wiki-article-deletion`** — deleting a page and stripping every back-link, plus withdrawing a page whose claim is retired.
 - **`wiki-journal-update`** — regenerating `journal.md`/`index.md` correctly.
 - **`wiki-epub-export`** — building the EPUB/PDF offline versions.
-- **`wiki-site-quality`** — static-site bug fixes (broken links, dead tags, formatting).
+- **`wiki-site-quality`** — static-site bug fixes (broken links, dead metadata chips, formatting).
 - **`wiki-page-deepening`** — how to genuinely deepen/enrich/enhance a concept, article, or FAQ page (mine raw sources for specifics, weave into the narrative, add practical tips/examples/implications, cross-link, gate, ship).
-- **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, icons).
+- **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, icons, sidebar moves).
+- **`wiki-faq-pages`**, **`wiki-citation-format`**, **`wiki-concept-page-design`**, **`wiki-consolidate-duplicate-pages`**, **`wiki-batch-fulltext-enrichment`**, **`wiki-concept-narrative`**, **`wiki-backlog-audit`**, **`wiki-link-bulk-editing`** — the remaining editorial procedures (FAQ type, citation form, concept-page shape, deduplication, bulk enrichment, backlog triage, bulk link edits).
 
 > **Two copies, one role — why these files live in two places.** The `skills/research/` copies in this repo are **scrubbed, public-safe mirrors** of the agent's own installed skills, which live in the agent's home-directory skill store rather than in this repo. The installed copies are the working, full-detail originals and may contain environment-specific detail (paths, install notes). Because this repo is **public**, the mirrors must stay free of personal or machine-specific information — no names, machine-specific paths, or agent branding. When a skill changes, sync **only public-safe wording** from the installed original into the repo mirror; never overwrite a mirror wholesale with a local copy (that leaks private detail into public history). `python3 tooling/scripts/sync-skills.py --check` normalizes the sanctioned differences (absolute paths, the agent's name, personal identifiers) and reports only real content drift; `--to-repo` refreshes the mirrors with the redaction applied. The canonical `research-wiki` skill that drives ingestion/export lives in [`tooling/`](tooling/) (see below), not under `skills/`.
 

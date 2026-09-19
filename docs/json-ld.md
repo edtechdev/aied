@@ -44,7 +44,7 @@ A wiki article page is the **wiki's summary**, not the original paper, so the su
 
 - **DOI** is extracted from the `sources` frontmatter filename when present (`raw/papers/10.1007_s10648-026-10118-7.md` → `https://doi.org/10.1007/s10648-026-10118-7`). When no DOI exists, the citation URL (e.g. arXiv) is used as the source `@id`/`url`.
 - **`mentions`** lists the page's Connected Concepts (`…/concepts/<slug>/#concept`) and Connected FAQs (`…/faqs/<slug>/#faq`).
-- **`keywords`** comes from the frontmatter `tags`.
+- **`keywords`** comes from the page's typed metadata fields (the facet concept slugs plus the phrase fields), which replaced the retired `tags` list.
 
 ### Concept pages → `DefinedTerm` + `Article`
 

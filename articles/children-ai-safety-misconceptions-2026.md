@@ -83,7 +83,7 @@ The sample is the main constraint: two rounds of rural German schooling, demogra
 - [[child-safety-genai]] — Expert-guided, incident-grounded evaluation of child safety in generative AI
 - [[hazra-safetutors-pedagogical-safety-2026]] — Safety and pedagogical harms in AI tutoring systems
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Rapid review of young people's generative AI use in PreK-12
-- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play-centred AI literacy curriculum for the youngest learners
+- [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play-centered AI literacy curriculum for the youngest learners
 
 ## Citation
 
