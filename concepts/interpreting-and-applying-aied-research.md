@@ -1,104 +1,154 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-19T06:50:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [research methods, benchmark, educational measurement, literature review, meta-analysis]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied, meta-analysis-systematic-review, quantitative-research]
 assessment: [assessment-validity, educational-measurement, self-report-measures, learning-gains]
 ethics: [ai-use-disclosure]
-audience: [researchers, instructors, learning designers, administrators]
+audience: [instructors, administrators, learning designers, software developers, researchers]
 page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied]
 ---
 
-> **Interpreting and Applying AIEd Research** — how to read an AI-in-education study for what its design actually licenses, and how to carry a finding into a decision about teaching, learning design or development once you have one. The literature on [[ai-education|AI in education]] is unusually easy to misread: effects pool studies that measured different things, headline numbers shrink by about two-thirds once publication bias is modeled, and a learner who performs well with a tool present may perform worse without it. This page collects the habits that separate reading a study from being persuaded by it, and the cautions that apply when the evidence base itself is moving faster than publication.
+> **Interpreting and applying AIEd research** — how to decide whether an AI-in-education finding is worth acting on, whether you teach, run a program, design a course, or build software. You do not need statistics to use this page. It starts with the question a practitioner actually has — *should I do this?* — works through the few things that answer it, and keeps the technical detail in a later section for anyone who wants or needs it. The short version: a finding is worth acting on when you know what was compared, what was measured, who was studied, and whether the tool still exists in the form that was studied. Most claims that reach instructors, administrators and developers fail one of those four.
 
 ## Questions to Consider
 
-- A study reports that AI improved learning. Before you believe it, what three things would you want to know — and would you have thought to ask what the AI was actually configured to do, rather than which product it was?
-- A [[meta-analysis-systematic-review|meta-analysis]] reports a large average effect. If the same review pooled test scores, homework quality, motivation and attitudes into one "achievement" number, what has the average stopped telling you? See [[limitations-in-aied-research|Limitations in AIEd Research]] for how often that happens.
-- Suppose learners practice with an AI tool and score better on practice work, then do worse on a [[summative-assessment|closed-book exam]]. Which of those two numbers is the learning outcome your course cares about — and would your assessment have caught the difference?
-- A subgroup analysis shows a gain for one group of students (95% CI -0.04 to 0.59) and a slightly larger one for another (0.18 to 0.52). Would you change a course-wide policy on that? What would you need before you did?
-- Most [[edtech-platform|edtech]] effectiveness claims come from the vendor, measured on the vendor's own metrics and calibrated against the vendor's own human raters. How much weight should that carry, and what would make it checkable?
-- If the model behind a 2025 finding no longer exists in 2027, what is the finding still evidence *of*? Should that change how you cite it, or whether a claim can be retired?
+- A vendor, a news story, or a colleague says an AI tool improved learning. What is the one thing you would want to see before trying it in your own course — and would you know where to look for it?
+- Every article page in this knowledge base now has a **What this means for practice** section, and most have a **Limitations** section. Reading the two together, what does each tell you that the other does not?
+- Students practice with an AI tool and do better on the practice work, then do worse on the [[summative-assessment|closed-book exam]]. Which number is the learning outcome your course cares about — and would your current assessments catch the difference?
+- A study promises a big improvement, but it followed 30 students in one course at one institution, and the version of the tool studied is no longer the version anyone uses. Which of those two facts worries you more, and why?
+- Many AI tools increase how much students use them without increasing how much they learn. If you had to choose between a tool that raises engagement and one that raises unassisted performance, what evidence would settle it?
+- You are asked to approve or buy a tool on the strength of the vendor's own effectiveness numbers. What would you want disclosed about how those numbers were produced?
 
 ## Introduction
 
-Two different readers need this page. The first is deciding whether a finding is real: an instructor, learning designer or [[administrator]] scanning a paper, a report, or a vendor's evidence page before it changes a course. The second is deciding what to do with a finding once it looks real. Both are interpretation problems, and both run into the same property of this field — its evidence base is young, heterogeneous and moving.
+This page is for people who have to decide something: an instructor wondering whether to change an assignment, an [[administrator]] weighing a pilot, a learning designer building a course, a software developer deciding what a feature should do, or a researcher explaining a finding to any of them.
 
-This page is the reader's and adopter's counterpart to its neighbours, not a replacement for them. [[research-methods-aied|Research Methods in AI in Education]] covers how to *run* each design well. [[limitations-in-aied-research|Limitations in AIEd Research]] catalogues the recurring weaknesses of the literature. [[ai-ed-evaluation|AIED Evaluation]] covers how to evaluate an AI system's outputs and behavior. [[educational-measurement|Educational Measurement]] covers the instruments the outcomes rest on. What follows is narrower and more procedural: how to read the evidence, what cautions to carry, and how to convert it into a defensible local decision.
+Two habits make the difference, and neither needs research training.
 
-## Read the design before the finding
+**Read the two sections written for you first.** Every article page here now carries a **What this means for practice** section — usually three to five concrete actions derived from that study — and most carry a **Limitations** section stating what the study cannot support. Read those before the study's findings, not after. The practice section tells you what the study is good for; the limitations section tells you where it stops. If the practice section is missing or vague, treat that page as unfinished rather than as evidence.
 
-The single most predictive question about any AI-in-education claim is not "how big was the effect" but "what was compared against what, and what was measured". When the treatment is a product name rather than a method, the effect is uninterpretable no matter how impressive it looks. [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] audited the comparisons behind a prominent meta-analysis and found only **21% had a well-defined treatment, a control group and a valid learning measure** — and that the reported effect size (g = 0.7) came out *larger* than that of purpose-built [[intelligent-tutoring|intelligent tutoring systems]] (0.66), which is a warning sign rather than a triumph: a heterogeneous bundle of "using ChatGPT" is not a method that can outperform a designed intervention.
+**Judge the claim, not the confidence of the claim.** Claims about AI in education are usually accurate about *something* and misleading about the thing you care about, because a study and your classroom differ in four ways: what it was compared against, what it measured, who took part, and which version of the tool was used. The rest of this page gives you the checks in plain language, then the evidence behind each of them for readers who want it.
 
-[[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] forensic audit of 46 randomly selected primary studies is the best available checklist of what to look for, because it reports what it found rather than what to avoid in the abstract: **28 of 46 (61%) presented validity concerns**, dominated by dependent-variable mismatch (n = 15) — the measure did not capture what the claim asserted — followed by independent-variable mismatch (n = 11), experimental design problems (n = 7), data extraction problems (n = 6), absence of a control group (n = 6) and nonrandom group assignment (n = 6). Two habits follow. Ask what the instrument measured and whether it was validated for that population (see [[self-report-measures|Self-Report Measures]] and [[assessment-validity|Assessment Validity]]). Then ask whether the outcome could have been produced by the aid being present: immediate performance under assistance is not [[learning-gains|learning gain]].
+What follows is also not a replacement for its neighbours. [[research-methods-aied|Research Methods in AI in Education]] covers how designs are built, [[limitations-in-aied-research|Limitations in AIEd Research]] catalogues the literature's recurring weaknesses, [[ai-ed-evaluation|AIED Evaluation]] covers how systems and outputs are evaluated, and [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] covers who a finding does and does not include.
 
-## Calibrate the number, not just the claim
+## Four questions that settle most claims
 
-Once a design survives, the number still needs deflating. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] pooled **1,840 effect sizes from 67 meta-analyses** and found that once publication bias is modeled, the average effect falls to roughly **one-third** of the published median (SMD 0.196 versus 0.67). [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] separately audited **14 peer-reviewed meta-analyses** claiming AI improves education and found that *none* provided a valid basis for the claims it advanced; twelve of the fourteen treated multiple effect sizes drawn from the same primary study as independent, inflating the apparent evidence base.
+Ask these before you spend time, money, or a semester on something.
 
-Synthesis-level rigor is its own axis, and it is reported in ways readers routinely lift out of context. [[ai-supported-instruction-stem-meta-analysis-2026|Doğan et al. (2026)]] state that they used no formal quality appraisal tool, treating their inclusion criteria as the rigor threshold — so a quasi-experimental study and a randomized one contributed equally to the pooled estimate — and their heterogeneity figure reads **I² = 82.98% under a fixed-effect model but 15.75% under the random-effects model**, meaning a reviewer who quotes one number without its model cannot say how inconsistent the corpus is. Practical reading rule: prefer the more conservative model's figure when you quote one, treat a point estimate without its uncertainty and subgroup sizes as unfinished, and check whether dependent effect sizes were handled at all.
+**1. What was it compared against, and was that comparison fair?** "Students who used the AI did better than students who didn't" only tells you something if the other students were doing something real. If the comparison was business as usual — or nothing — then the finding bundles the tool together with extra time, extra attention and novelty. What to look for: a **control group** that got a credible alternative, and random assignment to the two conditions.
 
-## Four hazards that survive peer review
+**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation|motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
 
-**Validity drift through automated judgment.** As scoring moves to models, the validation procedure becomes part of the result. [[know-when-to-trust-ai-scoring-reliability-2026|Reliability is not validity]]: in one automated [[automated-assessment|scoring]] study, human raters agreed with the multi-rater consensus at about **r = 0.88**, so automated scores near **r = 0.85** were operating at the task's own measurement ceiling rather than at human parity. High agreement with coders is a reliability statement, not a quality one.
+**3. Who was studied, how many, and for how long?** Thirty students in one course is a signal, not a result. A four-week intervention cannot tell you about a year. And a study of students unlike yours is still useful — it is a hypothesis about your setting, not a prediction. What to look for: sample size, how participants were recruited, single site, duration, and whether any subgroup was large enough to analyze.
 
-**Vendor metrics without their calibration.** Khan Academy's reported cognitive-engagement metric is scored by an [[llm]] judge calibrated against human pedagogical experts at **F1 0.83**, and its movements came from **over 40 experiments in the five months before the paper** rather than offline evaluation ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). That is more disclosure than most, and it still asks the reader to accept the vendor's construct, its raters and its metric.
+**4. Is the tool still the tool that was studied?** AI capability moves faster than publication. A 2025 finding describes the 2025 model generation — sometimes a specific version, sometimes a configuration nobody uses now. That does not make the finding false; it makes it dated, and it means the claim should be re-checked rather than inherited. What to look for: model version and the data-collection window.
 
-**Fabricated and unverified references.** [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] verified **30 references containing verifiably fabricated bibliographic information across 14 papers**, all from 2025 and 2026 — a defect that reaches readers precisely because reviewers cannot check every entry in a reference list. Verify the sources of a claim you intend to rely on, not only the claim.
+## What the evidence says about AI claims in general
 
-**The evidence does not measure what you are about to adopt.** Across **493 deduplicated records and 14 priority empirical studies**, [[verification-quality-reliance-calibration-genai-2026|a 2026 mini review]] found that no study measured verification success and the following reliance decision together against an independently adjudicated standard of output quality, and that few looked past immediate performance to delayed retention or transfer. The field's evidentiary gap is often exactly the behavior a course policy depends on.
+If you remember one thing from this page, remember that the headline number is usually inflated and the comparison is usually weak. That is not a fringe view — it is what audits of the field itself report. Several well-designed studies do show real gains; the point is that the burden of proof sits with the claim.
 
-## From finding to local decision
+- **About two-thirds of the average effect disappears** once you correct for the fact that impressive results get published and unimpressive ones do not. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] pooled 1,840 effect sizes from 67 reviews and found the corrected average was roughly one-third of the published median — SMD 0.196 against 0.67.
+- **A product name is not a teaching method.** Auditing the comparisons behind a prominent meta-analysis, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] found only **21%** had a well-defined treatment, a control group and a valid learning measure — and the reported advantage for "using ChatGPT" came out larger than for purpose-built [[intelligent-tutoring|intelligent tutoring systems]] (g = 0.7 against 0.66), which is a warning sign rather than a triumph.
+- **Performance with the tool is routinely mistaken for learning.** In one [[k-12|K-12]] math study, students practicing with a general-purpose [[conversational-ai|chatbot]] earned better practice grades and then scored **about 17% worse** than peers with no AI access on the closed-book final ([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]).
+- **The field's own reviews do not survive audit.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for the claims it advanced, and among 46 randomly selected primary studies, **61%** presented validity concerns. The problem is not one bad paper; it is a reporting culture.
+- **Self-reports flatter everyone.** People rate their own [[ai-literacy|AI skills]] about **40%** higher than performance measures show, which is why satisfaction and confidence surveys are the weakest evidence you can act on ([[self-report-measures|Self-Report Measures]], [[educational-measurement|Educational Measurement]]).
 
-Translating evidence into teaching, learning design or development runs through five checks.
+## Turning a finding into a decision
 
-**Define your outcome before you read the effect size.** If your goal is durable, unsupported performance, then a study measuring improved performance with the tool present is adjacent evidence, not the same evidence. The clearest caution in the knowledge base is a [[k-12]] math study in which students using a general-purpose [[conversational-ai|chatbot]] for practice performed **about 17% worse on closed-book final exams** than peers with no AI access, despite higher practice grades ([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]). Practice scores and learning outcomes can move in opposite directions, and only an outcome measured without the tool will tell you which you bought.
+The sequence that saves the most wasted effort, in order.
 
-**Read subgroup claims as hypotheses.** A GCSE science micro-RCT reports a treatment-by-status interaction of **0.57 marks (95% CI -2.25 to 3.39)**, with stratified estimates of **g = 0.28 (95% CI -0.04 to 0.59)** for one group and **g = 0.35 (95% CI 0.18 to 0.52)** for the other ([[ai-tutoring-micro-rct-gcse-science-2026|AI Tutoring Micro-RCT, GCSE Science]]). A confidence interval that crosses zero is not an [[equity-in-ai-education|equity]] finding; it is a question for your own setting.
+1. **Write down your outcome first.** Not "use AI more" but "students can do X without the tool". If your outcome is unassisted performance, then a study that measured assisted performance is adjacent evidence, not direct evidence.
+2. **Find the comparison and the measure** — in the study, or in the practice section of its article page. If either is missing, treat the claim as a demo rather than a finding.
+3. **Read the limitations section as instructions, not disclaimers.** "Single course, self-reported outcomes, four weeks" tells you exactly which of your assumptions the study does not cover.
+4. **Check the version and the date.** If the study used a model generation two years old, plan to re-test rather than assume.
+5. **Name the enabling conditions.** Cost, licenses, staff time, data rules, and whether students must pay for the tier that actually works. Studies rarely carry these, and they decide whether an intervention survives a semester. In [[chick-faculty-development-ethical-ai-2026|a faculty-development study of ten participants]], everyone said they would keep using AI, while the same people described personal subscriptions for tool access and no time support for the redesigns they had planned.
+6. **Pilot small, and measure the unsupported condition.** A short pre/post with one assessment done without the tool beats a satisfaction survey. Small and honest beats big and rhetorical. See [[learning-design|Learning Design]] for where this fits in course design.
+7. **Diary a review date, and be willing to drop the claim.** When a study's premise is a capability that no longer exists, the honest move is retiring the claim rather than citing it indefinitely — the same discipline this knowledge base applies to its own pages.
 
-**Check the enabling conditions, not just the intervention.** In a faculty-development study of **ten** participants, all said they would keep integrating AI and recommend the institute, while the same participants described contradictory policy signals, **personal subscriptions for continued tool access**, and no time support for the redesigns they had planned ([[chick-faculty-development-ethical-ai-2026|Chick et al. 2026]]). Cost, access and workload decide whether an intervention survives contact with a semester — and they are usually absent from the effect size.
+## Words you will meet in the research
 
-**Pilot on your own learners and measure the unsupported condition.** The knowledge base's design guidance (see [[learning-design|Learning Design]]) converges on the same move: choose the construct first, plan the comparison, then evaluate with a task the learner completes without the aid. An [[rct|RCT]] on your own cohort is rarely available; a small, well-scoped pre/post with a deliberate assistance-removal measure usually is.
+Plain translations, so you can skim a study or a vendor page without a methods background.
 
-**Name the failure mode you are buying.** [[ai-use-disclosure|Disclosure]], [[privacy]] and [[governance]] questions are not paperwork around an adoption decision — they are part of whether the finding transfers. None of the effectiveness literature above was collected under your institution's data rules.
+- **Effect size** — how big the difference was, on a scale where 0 is nothing. Treat small values as "a nudge", not "a transformation".
+- **Statistically significant** — unlikely to be pure chance *in this sample*. It says nothing about whether the effect is large, or whether it will happen in your class.
+- **Confidence interval** — the range of results the data cannot rule out. If the range includes zero, the finding may be nothing at all, however interesting the headline.
+- **[[meta-analysis-systematic-review|Meta-analysis]]** — a study that pools many studies. Powerful, and only as good as what it pooled, which is why reviews get audited.
+- **Publication bias** — interesting results get published and boring ones do not, so the literature's average looks rosier than reality.
+- **Self-report** — people describing themselves. Useful for attitudes, weak for competence or behavior.
+- **Control group** — the comparison condition. The single most important thing to look for.
+- **Pre/post** — measured before and after with no comparison group. Suggestive, never conclusive.
+- **Subgroup analysis** — results for a slice of the sample. Usually underpowered, so treat it as a hypothesis.
+- **Replication** — someone else got the same result. Rare, and the strongest evidence available.
+- **[[benchmark|Benchmark]]** — a fixed task set for scoring systems. Scores move when the target moves, so check the date.
 
-## Cautions for a fast-moving evidence base
+## When to slow down anyway
 
-Tool vintage is a first-class limitation, not a footnote. A review of AI-assisted assessment notes that its own stated findings reflect **specific model versions at specific times**, and that field movement makes any account of model capabilities potentially outdated **within months** ([[ai-assisted-assessment-instruction-higher-ed-2026|AI-Assisted Assessment and Instruction in Higher Education]]). Three consequences follow for anyone who cites this literature.
+- **The claim comes from the vendor, on the vendor's metrics.** That can still be informative — one [[intelligent-tutoring|AI tutoring]] provider reports an engagement metric calibrated against human experts at F1 0.83, with improvements coming from over 40 experiments in five months ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al., 2026]]) — but the construct, the raters and the metric are the vendor's choices. Ask for the comparison group and the unassisted outcome.
+- **Automated scoring is treated as solved.** High agreement with human raters is reliability, not quality. In one scoring study, human raters agreed with the multi-rater consensus at about r = 0.88, so automated scores near r = 0.85 were already at the task's own measurement ceiling ([[know-when-to-trust-ai-scoring-reliability-2026|Know When to Trust AI Scoring]]).
+- **The reference list is doing heavy lifting.** Thirty reference entries containing verifiably fabricated bibliographic information were confirmed across 14 [[cs-education|computing-education]] papers, all from 2025 and 2026 ([[citation-errors-hallucinations-computing-education-2026|Denny et al., 2026]]). If a claim rests on a citation, check the citation.
+- **Nobody measured the behavior your policy depends on.** Across 493 deduplicated records and 14 priority studies, no study measured whether verification succeeded *and* what the learner then did with it, judged against an independent standard of output quality ([[verification-quality-reliance-calibration-genai-2026|verification and reliance calibration]]). Course policies depend on exactly that behavior.
 
-- **Scope the claim to its generation.** "[[generative-ai|Generative AI]] improved X" is not portable across model generations; the defensible form is "GPT-4-era tooling, in this task, with this [[scaffolding]]".
-- **[[benchmark]] targets move.** A result that a system saturates or fails today can invert with the next release, which is why saturation and contamination checks belong beside any benchmark-based claim.
-- **Retire claims, don't archive them.** When a study's premise is a capability that no longer exists, the honest move is withdrawal of the claim rather than indefinite citation, which is the same discipline this knowledge base applies to its own pages.
+## If you are building or buying a tool
+
+The same checks invert into design requirements, and the knowledge base's evaluation pages carry the detail ([[ai-ed-evaluation|AIED Evaluation]], [[automated-assessment|Automated Assessment]]).
+
+- **Make the comparison part of the feature spec.** Decide what a learner would otherwise be doing, and be able to say why your tool beats that — not why it beats nothing.
+- **Measure the unsupported condition.** If your outcome is learning, include a task completed without the tool; assisted performance alone will mislead you as much as it misleads your buyers.
+- **Report how your automated judgments were validated** — the gold standard, the calibration target, who adjudicated disagreements — and report it as reliability rather than quality.
+- **Name the version and the date** in any effectiveness claim, because your next release invalidates it.
+- **Show the counterweights:** cost per student, accessibility, data handling, and what happens to learners on the free tier. See [[ai-use-disclosure|AI Use Disclosure]], [[privacy]] and [[governance]].
+
+## For readers who want the evidence
+
+The checks above are not folk wisdom; they come from documented failures in this literature. This section keeps the detail for anyone reviewing a paper, defending a decision, or arguing that a tool should be evaluated properly.
+
+**The validity failures have a distribution, not just a presence.** In [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] 46 audited studies, dependent-variable mismatch was the most common problem (n = 15) — the measure did not capture what the claim asserted — followed by independent-variable mismatch (n = 11), experimental design problems (n = 7), data extraction problems (n = 6), absence of a control group (n = 6) and nonrandom group assignment (n = 6). Of the 14 meta-analyses, twelve treated multiple effect sizes drawn from the same primary study as independent, which inflates the apparent evidence base.
+
+**Subgroup claims are usually undecidable in the studies that make them.** The [[ai-tutoring-micro-rct-gcse-science-2026|GCSE science micro-RCT]] reports a treatment-by-status interaction of **0.57 marks (95% CI -2.25 to 3.39)**, with stratified estimates of **g = 0.28 (95% CI -0.04 to 0.59)** for one group and **g = 0.35 (95% CI 0.18 to 0.52)** for the other. An interval crossing zero is not an [[equity-in-ai-education|equity]] finding; it is a question for a local pilot.
+
+**A synthesis can satisfy its own protocol and still pool unweighted quality.** [[ai-supported-instruction-stem-meta-analysis-2026|Doğan et al. (2026)]] state plainly that they used no formal quality appraisal tool, treating their inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally — and their heterogeneity reads **I² = 82.98% under a fixed-effect model but 15.75% under the random-effects model**, which is why a heterogeneity figure quoted without its model cannot tell you how inconsistent the corpus is.
+
+**Validation of automated judgment is part of the result.** Agreement with human coders is a reliability statement, and the ceiling above shows why it is not the same as quality ([[machines-misread-pedagogical-quality|machines misread pedagogical quality]]).
+
+**Tool vintage is a first-class limitation.** A review of AI-assisted assessment notes that its own findings reflect specific model versions at specific times, and that field movement makes any account of model capabilities potentially outdated within months ([[ai-assisted-assessment-instruction-higher-ed-2026|AI-Assisted Assessment and Instruction in Higher Education]]). Scope claims to their generation: "[[generative-ai|generative AI]] improved X" is not portable, while "GPT-4-era tooling, in this task, with this [[scaffolding]]" is.
+
+**Benchmark targets move**, so a result that a system saturates or fails today can invert with the next release; saturation and contamination checks belong beside any benchmark-based claim.
+
+**Reading this literature alongside its own critics is normal practice here.** The reporting-side checklists for authors and reviewers are in [[reporting-interpreting-aied-research|the FAQ on reporting and interpreting AI research]], and the appraisal habits in this page pair with [[theory-development-aied|Theory Development in AI in Education]] when a claim is theoretical rather than empirical.
 
 ## A short checklist
 
-1. State the claim you are evaluating in one sentence, including the outcome.
-2. Identify the treatment and the comparison — a product name is not a treatment, and business-as-usual is not a control.
-3. Check the measure against the claim, and whether it was validated for that population.
-4. Deflate the number: publication bias, dependent effect sizes, heterogeneity model, subgroup sizes.
-5. Check the model version and the data-collection window against the capability the claim needs.
-6. Before adopting, name the enabling conditions (cost, access, staff time, data rules) and pilot with an unsupported outcome measure.
-7. Revisit in a year, and be willing to retire the claim.
+1. State your outcome in one sentence, including whether the tool is present in it.
+2. Find the comparison. No credible comparison, no decision.
+3. Match the measure to your claim, and prefer an unassisted outcome.
+4. Deflate the number: read the bias-corrected effect, not the headline.
+5. Check the model version and the study's dates.
+6. Read the limitations section as instructions for what you still do not know.
+7. Cost it: licenses, tiers, staff time, data rules.
+8. Pilot small with an unassisted measure, then decide.
+9. Diary a review date a year out, and be ready to retire the claim.
 
 ## Connected Concepts
 
 - [[limitations-in-aied-research]]
-- [[research-methods-aied]]
+- [[learning-design]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]
 - [[assessment-validity]]
 - [[self-report-measures]]
 - [[learning-gains]]
+- [[differential-effects-across-learner-groups]]
+- [[research-methods-aied]]
 - [[meta-analysis-systematic-review]]
 - [[quantitative-research]]
 - [[benchmark]]
 - [[rct]]
-- [[learning-design]]
 - [[intelligent-tutoring]]
 - [[cognitive-offloading]]
 - [[ai-use-disclosure]]
