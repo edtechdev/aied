@@ -24,12 +24,20 @@ level: [higher ed]
 - **Reflective [[regulation]] is uniquely human.** The *Reflective Regulator* profile ([[metacognition|metacognitive]] monitoring, strategic reframing) contained only human speakers — AI externalized critique/affirmation but did not perform meta-level reflection.
 - **[[affective-computing|Affective]] costs without creative gains.** Contrarian AI significantly reduced teamwork satisfaction (ε²=.062) and psychological safety (ε²=.114) relative to control and supportive conditions, while [[cognitive-offloading|cognitive load]] and creative performance gains did not differ across conditions. Rich interactional patterns did not translate into measurable creative improvement in the short task.
 
-## Implications
+## What this means for practice
 
-- **Treat AI personas as [[governance]] knobs for group discourse.** Use supportive personas to maintain cohesion and momentum; deploy contrarian challenge sparingly or later in the task once norms and trust are established.
-- **Balance epistemic challenge with affective climate.** If challenge is desired, implement bounded friction — constrain critique frequency/intensity, pair challenges with integrative prompts, and add repair moves (acknowledgment, summarizing, option-generation) to protect psychological safety.
-- **Build learners' meta-collaborative literacy.** When AI may influence collaboration invisibly (writing assistants, recommender systems), teach learners to interpret, accept/reject, and retain ownership of suggestions — with transparency/consent options where feasible.
-- **Rethink "productive" discourse measures.** Structural markers of productive discourse should be interpreted alongside their emotional consequences, not equated with [[learning-gains|learning gains]].
+- **Instructors.** Deploy contrarian or challenging AI personas sparingly, or late once group norms are established: contrarian personas reduced teamwork satisfaction (ε² = .062) and psychological safety (ε² = .114) without producing creative performance gains.
+- **Instructional designers.** Use supportive personas to hold cohesion and momentum — the Safe Convergence motif (Idea→Agreement→Integration) appeared in 45.5% of supportive groups.
+- **Instructional designers.** Bound friction where you do introduce it: constrain critique frequency and intensity, pair challenges with integrative prompts, and add repair moves such as acknowledgment, summarizing, and option generation.
+- **Instructors.** Teach meta-collaborative literacy — how to interpret, accept or reject, and retain ownership of AI suggestions — because AI reshaped discourse even when learners did not know a teammate was AI, as with writing assistants and recommender systems.
+- **Researchers.** Read structural markers of productive discourse alongside their affective consequences rather than as proxies for [[learning-gains|learning]]: the Productive Friction motif appeared in 38.2% of contrarian groups yet did not raise creative performance.
+
+## Limitations
+
+- 224 university students recruited through Prolific were assigned to 97 triads that completed one 10-minute text-chat creative task, capturing micro-level dynamics but not longer-term norm formation or adaptation.
+- The chat-only, online, paid-participant setting limits ecological generalizability to face-to-face or semester-long classroom collaboration.
+- Only two AI persona types were tested, so the study cannot show how more nuanced personas that shift stance with group progress or learner needs would behave.
+- The authors report analytic uncertainty: the retained clustering solution had a low silhouette score, indicating substantial overlap among the six agency profiles, and the TNA bootstrap tested only one-step transitions, so retained edges are stable empirical pathways rather than statistically over-represented transitions.
 
 ## Connected Concepts
 

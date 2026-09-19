@@ -40,13 +40,20 @@ methods: [meta-analysis-systematic-review]
 - **Disciplines and geography are uneven.** Medicine, nursing, engineering, and computer science led integration, with [[humanities-education|humanities]], social sciences, and interdisciplinary programs scarce; [[research-methods-aied|research]] concentrated in North America, East Asia, and Europe, with minimal representation from the [[global-south|Global South]].
 - **Five documented evidence gaps.** The review flags limited evidence of [[pedagogy|pedagogical]] transformation, under-explored equity and access implications, scarce research on faculty readiness and [[governance|institutional]] support, inadequate ethical and governance frameworks, and a pronounced over-reliance on generative AI to the neglect of robotics, multimodal, and hybrid human–AI collaboration.
 
-## Implications
+## What this means for practice
 
-- **Embed AI as a [[pedagogical-agent|learning partner]], not a threat.** Instructors can have students use an [[intelligent-tutoring|AI tutor]] to draft solutions or explanations, then critique and improve them — leveraging AI for routine, knowledge-based work while freeing class time for deeper discussion.
-- **Redesign assessments for AI-rich contexts.** Because AI can solve standard questions, assessments should emphasize critical thinking, [[creativity]], personal input, open-ended reflection, oral defenses, or applied projects, and may transparently incorporate AI (e.g., "use AI to draft, then document how you improved it") to turn a potential cheating tool into part of the learning process.
-- **Cultivate [[ai-literacy|AI literacy]] and ethical use.** Students need to understand AI limitations — hallucination, confident-but-wrong answers, bias — and institutions should set clear guidelines distinguishing permitted from prohibited AI uses to promote honesty rather than fear.
-- **Personalize at scale while keeping the human touch.** AI's greatest potential lies in scaling personalization for learning and evaluation, but educators should intentionally preserve mentorship, empathy, and nuanced feedback that AI cannot replicate.
-- **Invest in faculty training and institutional strategy.** The review urges institutional investment in [[educational-development|educational development]] — from effective [[prompt-engineering|prompting]] to pedagogical redesign — plus clear honor codes for AI, communities of practice for educators, and attention to institutional strategy, policy, and governance, not just micro-level outcomes.
+- **Instructors.** Use AI as a [[pedagogical-agent|learning partner]] rather than a threat: have students draft solutions or explanations with an [[intelligent-tutoring|AI tutor]], then critique and improve them, so routine knowledge work is offloaded and class time goes to deeper discussion — while deliberately preserving the mentorship, empathy, and nuanced feedback AI cannot replicate.
+- **Instructors.** Redesign assessments for AI-rich contexts. Because generative AI can already solve standard questions, shift weight to critical thinking, personal input, open-ended reflection, oral defenses, and applied projects, and permit transparent AI use (for example, "draft with AI, then document how you improved it") so the tool becomes part of the learning rather than a cheating route.
+- **Instructors.** Cultivate [[ai-literacy]] and ethical use directly. Teach the limits of the technology — confident-but-wrong answers, hallucination, bias — require students to verify outputs and cite sources, and set guidelines that separate permitted exploratory use from plagiarism.
+- **Administrators.** Invest in [[educational-development|faculty development]] and institutional strategy, not just micro-level tool adoption: prompting and pedagogical redesign for staff, clear honor-code language on AI, and communities of practice for educators.
+- **Policymakers.** Close the equity and governance gaps this review documents. Only 22 intervention studies met inclusion, [[equity-in-ai-education|equity]] and access implications are under-explored, and ethical and institutional frameworks remain thin, so require governance and faculty-readiness work alongside tool procurement.
+
+## Limitations
+
+- The review included only 22 intervention studies after screening 959 records from eight databases, and these cluster in medicine, nursing, engineering, and computer science from North America and Asia, with minimal representation from the Global South and scarce coverage of the humanities and social sciences.
+- The search was restricted to English-language publications, and gray literature and unpublished research were excluded, so relevant work may have been missed.
+- No formal risk-of-bias instrument was used, consistent with the review's mapping rather than efficacy aim; integration depth was graded on the SAMR model and synthesized thematically, not appraised for effect size.
+- Synthesis was narrative, which the authors state restricts causal or generalizable conclusions, and the evidence base is time-sensitive: many included studies were exploratory, limited in scale, or pilots, with a single Redefinition-level example.
 
 ## Connected Concepts
 
