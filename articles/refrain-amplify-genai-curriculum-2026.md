@@ -43,6 +43,21 @@ The framework operates at the program level, sitting as a single floor beneath e
 
 This positions sequencing as a [[curriculum-design]] and [[governance]] decision rather than a per-assignment or per-instructor choice, giving programs a principled way to decide when and how generative AI enters the curriculum in service of forming professional judgment.
 
+## What this means for practice
+
+- **Curriculum designers.** Settle at the program level, not per assignment or per instructor, when a generative tool is withheld and when it is restored, deciding each step with the forming-versus-offloading criterion.
+- **Curriculum designers.** Place a hard-to-fake checkpoint at each refrain-to-amplify hinge — an unseen variant, an adversarial defense under live questioning, repair of a flawed output — because a finished product alone cannot attest that a capacity has formed.
+- **Curriculum designers.** Keep the checkpoints recurring rather than one-off, since a single test designed against an earlier generation of the tool can be outflanked as the tool advances.
+- **Administrators.** Fund the checkpoint as the core of the design: the recurring, student-by-student reading is its most expensive element in time, and a program that automates the reading away has automated away its own evidence.
+- **Faculty developers.** Support instructors in designing with the tools themselves over time, since teaching well with a new tool is a situated form of knowledge that readiness cannot be mandated into being. Leave room to decline personal tool use, because the floor mandates invariants rather than any individual's adoption of a tool.
+
+## Limitations
+
+- The framework is a conceptual proposal, and the assumption that a capacity formed unaided and then amplified under supervision leaves a graduate able to judge when to refrain in work no program observes is a claim about transfer for which the authors state they have no direct evidence.
+- The experimental support it cites for keeping the student's own thinking in the loop comes from single sessions, with ownership self-reported.
+- The recurring checkpoint that makes the floor enforceable is expensive in time, and recurring probes invite coaching — an acute problem for the adversarial-defense case in writing — with the mitigations left to each program to design.
+- The design asks instructors to teach a practice many are still learning themselves, and the authors warn that a floor is easy to read as a ceiling and an invariant easy to convert into a form to be filled in, leaving a program with the apparatus but not the design.
+
 ## Connected Concepts
 - [[generative-ai]]
 - [[curriculum-design]]
