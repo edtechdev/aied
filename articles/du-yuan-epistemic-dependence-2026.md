@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Dependence in AI-Mediated Learning"
 created: "2026-09-03T09:10:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agency, ai-literacy, cognitive-offloading, theory-development-aied]
 pedagogy: [metacognition, self-regulated-learning]
@@ -51,26 +51,17 @@ The review's normative core is **relational epistemic agency**: the capacity to 
 
 Responsibility and justice are integral to this account. Learners should take responsibility for claims they submit, but responsibility is fair only when they have sufficient knowledge and control. A relational account replaces the fiction of the isolated user with distributed responsibility, and it incorporates *formative epistemic injustice* — learning arrangements that wrong students by restricting the knowledge, practice, and accurate self-assessment through which they develop as knowers. This connects to [[trust-calibration|calibrated trust]], [[human-in-the-loop-ai|human oversight]], and the wider question of how [[agency]] is preserved when [[agentic-ai|AI systems]] act with increasing autonomy.
 
-## Implications for design, pedagogy, and governance
-
-The review develops implications across four levels rather than merely remediating harm after the fact:
-
-- **Design:** systems should provide claim-level provenance, distinguish retrieved evidence from model-generated synthesis, represent uncertainty through alternatives and explicit unknowns, preserve user control (revising prompts, comparing outputs, rejecting recommendations), and surface epistemic plurality.
-- **Pedagogy:** move from policing AI use to [[teacher-role|teaching]] AI-mediated judgment — routines for lateral reading, source triangulation, claim verification, and comparison of competing explanations. Assignments can require annotating an AI response, identifying unsupported assumptions, and documenting why a suggestion was accepted or rejected. This connects AI literacy to epistemic practice rather than reducing it to [[prompt-engineering|prompt technique]].
-- **Assessment:** make process, judgment, and transfer visible through staged drafts, oral defense, source maps, reflective decision logs, and in-class verification. AI-generated [[feedback]] becomes educationally valuable only when learners interpret, evaluate, and act on it — aligning with [[feedback-literacy]] and evaluative judgment.
-- **Governance:** procurement should evaluate provenance, [[accessibility]], bias, data governance, and auditability; policies should distinguish legitimate reliance from prohibited substitution and allocate responsibility across stakeholders, rather than placing all verification burdens on individual learners.
-
 ## Connections to the knowledge base
 
 This review converges with several existing threads. It resonates with [[reclaiming-epistemic-agency-co-agency-2026|Poudyal's (2026) Ecological Co-Agency Framework]], whose boundary condition of human epistemic accountability parallels the review's relational account; with [[pearls-epistemic-verification-2026|the PEARLS framework]] for verifying AI output; and with the distinction between instrumental and epistemic assistance underlying [[shaw-nave-cognitive-surrender-2026|Shaw & Nave's (2026) cognitive surrender]]. Its six diagnostic criteria offer a more granular vocabulary than "over-reliance" for judging when offloading crosses from strategic support into learning displacement, complementing the [[cognitive-offloading]] concept's treatment of over-reliance. Its treatment of AI feedback as material for judgment connects to [[ai-feedback-quality]] and [[feedback-literacy]].
 
 ## What this means for practice
 
-- **Instructors.** Separate instrumental from judgment-bearing assistance when you set task rules: permit AI for generating options, translating, formatting, retrieving, and summarizing, but require learners to supply the standards by which correctness, relevance, and evidential sufficiency are judged.
-- **Instructors.** Make epistemic work visible in the assignment itself — annotate an AI response, identify its unsupported assumptions, document why a suggestion was accepted or rejected — and assess through staged drafts, source maps, oral defense, or reflective decision logs rather than the final product alone.
+- **Instructors.** Separate instrumental from judgment-bearing assistance when you set task rules — permit AI for generating options, translating, formatting, retrieving, and summarizing, but require learners to supply the standards by which correctness, relevance, and evidential sufficiency are judged — and make that epistemic work visible in the assignment itself: annotate an AI response, identify its unsupported assumptions, document why a suggestion was accepted or rejected, and assess through staged drafts, source maps, oral defense, or reflective decision logs rather than the final product alone.
 - **Instructors.** Test recoverability by withdrawing the system: if a learner can reconstruct and perform the relevant reasoning with reduced support, the reliance was productive; collapse when support is removed is the diagnostic signal of harmful dependence.
 - **Researchers.** Ask which epistemic actions are preserved, transformed, or displaced rather than whether AI helps or harms on average, and use withdrawal and transfer designs to test whether learners can explain and perform the reasoning when support is reduced.
 - **Researchers.** Disaggregate outcomes by prior knowledge, language, disability, socioeconomic context, and discipline rather than reporting aggregate AI effects, since the same affordance may scaffold one learner while displacing another's judgment.
+- **Designers and governance.** Build systems for contestability rather than fluency — claim-level provenance, uncertainty shown through alternatives and explicit unknowns, and user control to revise prompts, compare outputs, and reject recommendations — and have procurement and policy evaluate provenance, accessibility, bias, data governance, and auditability, distinguish legitimate reliance from prohibited substitution, and allocate responsibility across stakeholders rather than placing every verification burden on individual learners.
 
 ## Limitations
 

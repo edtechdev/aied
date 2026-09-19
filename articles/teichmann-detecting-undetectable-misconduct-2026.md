@@ -1,7 +1,7 @@
 ---
 title: "Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -69,19 +69,11 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - **The counterexample already in practice.** Vanderbilt University, unable to validate its licensed detector's advertised 1% false-positive rate — which implied some 750 mislabelled students among 75,000 annual submissions — disabled the tool and explained the decision publicly, redirecting staff toward transparent expectations and redesign. One case documents the failure of detection under realistic conditions; the other shows an institution acting on that knowledge.
 - **Rejection of technological determinism.** Institutions facing the same technology have chosen markedly different responses, from detection-led enforcement to redesign-led integration, so the problem is one of institutional choice under normative constraints rather than of the technology.
 
-## Implications for practice
-
-- **Never base an allegation on a detector score or a stylistic impression alone.** Treat a score, at most, as a prompt for a conversation about the work, and require corroboration beyond style or scores.
-- **Publish the evidentiary standard.** Fixing and publishing the threshold allegations must meet — including that detector output never suffices — is a preparation-stage action that constrains everything downstream.
-- **Monitor the demographic pattern of allegations.** Detector bias is systematic, not random, so allegation distributions are themselves an equity signal to be audited.
-- **Reserve formal proceedings for the serious and the genuinely evidenced** — impersonation, demonstrable fabrication, admitted or witnessed breaches, and cases with corroborating evidence — and meet lesser matters with education and graduated response.
-- **Shift effort to design, and resource it.** The narrowing of the misconduct procedure is not a retreat from integrity but a more defensible way of securing it, and it requires recognition in workload models.
-
 ## What this means for practice
 
 - **Instructors.** Convert the central question from "did the student use AI?" to "did the student demonstrate the capability the task was designed to certify?", and grade the drafts, justifications and reasoning a student can account for in person.
 - **Instructors.** Treat a detector score at most as a prompt for a conversation about the work: the tools identify no source, output a percentage without reasons, and cannot be cross-examined, so a score alone cannot ground a finding.
-- **Administrators.** Publish the evidentiary standard before the next cycle and audit the demographic distribution of allegations each cycle, since detector bias is systematic rather than random.
+- **Administrators.** Publish the evidentiary standard before the next cycle — a detector score never suffices on its own — and reserve formal proceedings for the serious and the genuinely evidenced: impersonation, demonstrable fabrication, admitted or witnessed breaches, and cases with corroborating evidence, meeting lesser matters with education and graduated response. Audit the demographic distribution of allegations each cycle, since detector bias is systematic rather than random.
 - **Administrators.** Maintain an AI-free route to the same outcomes at the same standard wherever AI use is invited, so permitted use does not become required use.
 - **Policymakers.** Resource assessment design in workload models — selective oral elements deployed on a sampled basis and light-touch formative checkpoints replace rather than add to summative volume, whereas detector-driven proceedings consume staff time that polices instead of teaches.
 

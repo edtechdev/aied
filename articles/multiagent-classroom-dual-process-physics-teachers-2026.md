@@ -1,7 +1,7 @@
 ---
 title: "A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers"
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [simulation]
@@ -43,11 +43,20 @@ The sharpest contrast sits within the simulation day itself: minutes before inte
 
 A recurrent practical cue emerged: when a session was going well, Davide would verbally accept the teacher's argument while signaling residual doubt ("ok… but it still feels weird"). This happened in seven of the eight sessions, and all seven converged; in the single failed session it never occurred, and the teacher endorsed his wrong answer. The resulting rule of thumb — if the student concedes but hesitates, guiding questions will move them forward; if there is no hesitation at all, the teacher must first create doubt — offers an explicit target for future debriefs.
 
-## Implications
+## What this means for practice
 
-For physics teacher preparation, the work suggests that a multi-agent simulated classroom grounded in a cognitive framework can surface the hard skill of responding to student reasoning in real time far earlier in a teacher's trajectory than the practicum, with complete, analysable transcripts. The pilot's central lesson is that knowing a framework and teaching with it are distinct competences that develop at different rates — so instruction should treat the observed knowing–doing gap as diagnostic rather than deficit, using it to locate learners on a [[teacher-ai-competency|developmental]] path rather than to judge them.
+- **Teacher educators.** Give prospective teachers a simulated multi-agent classroom as low-stakes deliberate practice early in their preparation: the sequence produced large diagnostic gains (n = 11 paired, p = 0.014, r = 0.79) and a complete transcript of every exchange for debrief.
+- **Teacher educators.** Teach strategy-to-hazard matching explicitly, not just the questioning repertoire: possessing a strategy does not guarantee aiming it correctly, and in one session a falling-back question directed at the rationalizing agent left her more confident in her wrong answer.
+- **Teacher educators.** Debrief with the transcripts close at hand: DPT vocabulary appeared in only 2 of 15 reflections immediately after the session but back on 7 of 13 POST sheets after the class re-examined its own logs, and four participants then spontaneously classified new vignette characters by hazard.
+- **Teacher educators.** Drill the hesitation cue — when a student concedes while signaling doubt ("ok… but it still feels weird"), guiding questions move them forward; with no hesitation at all, create conflict first. All seven sessions where the cue appeared converged, and the single failed session lacked it.
+- **Researchers.** Code for differentiation, not correctness alone: 69% of the 71 substantive teacher turns were guiding questions and only 28.2% used the conflict or falling-back strategies the framework prescribes for specific hazards.
 
-The design also carries implications for [[generative-ai|generative AI]] in education more broadly. Rather than serving the learner, the AI here plays the student, enabling [[pedagogical-agent|human]] practice of [[teacher-role|teaching]] itself — a role reversal that leverages LLMs for authentic, low-stakes [[simulation]]. [[inquiry-based-learning|Inquiry]] scaffolds and [[formative-assessment|diagnostic]] tasks can be embedded in such environments, and the transcript data make [[student-modeling|student reasoning]] and teacher moves jointly analysable. Limitations temper the claims: a small single-rater sample (n=11), a design that cannot separate simulation from debrief and surrounding instruction, hazards reified into characters, and keyword-based vocabulary counts. Future work plans to place the simulation later in the course after extended practice, extend interaction over multiple sessions, and observe whether teachers experienced in frameworks such as ISLE question the simulated class differently.
+## Limitations
+
+- The paired sample is small (n = 11) from a single physics teacher preparation course and the pilot was powered only for large effects.
+- All scoring and coding were performed by a single rater (the author), and the design cannot separate the contributions of the simulation, the debrief, and the surrounding instructional sequence.
+- The hazards were reified into stable characters — a pedagogical simplification the framework itself warns against — and the two vignette sets, though parallel, were not formally equated.
+- Each pair interacted for a single session (repeated sessions were planned but blocked by scheduling), the log cannot be attributed to individual participants, and the DPT lexicon count is keyword-based, registering the framework's words rather than their application.
 
 ## Connected Concepts
 
@@ -62,6 +71,8 @@ The design also carries implications for [[generative-ai|generative AI]] in educ
 
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
+
+#
 
 ## Citation
 

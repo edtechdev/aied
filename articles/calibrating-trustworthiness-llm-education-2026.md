@@ -1,7 +1,7 @@
 ---
 title: "Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [learning-design]
 technology: [human-in-the-loop-ai, llm, visualization, edtech-platform]
@@ -21,6 +21,20 @@ Longitudinal co-design with learning engineers building an LLM-powered digital t
 ## Abstract
 
 LLMs are reshaping educational technology, yet evaluating their responses for pedagogical alignment remains underexplored, relying heavily on the expertise of learning engineers building the technology. Through a longitudinal co-design process with learning engineers developing an LLM-powered digital textbook, we co-constructed five trustworthiness metrics comprising 20 measures tailored to pedagogical use; designed visualizations that map trustworthiness violations onto LLM responses; and evaluated how these tools help learning engineers make A/B comparisons of LLM responses.
+
+## What this means for practice
+
+- **Designers.** Put trustworthiness criteria in front of reviewers as they compare responses rather than after the fact: agreement rose from Krippendorff's alpha = 0.3987 without metrics visible to 0.4931 with them.
+- **Designers.** Attach a concrete violation example to each measure so reviewers can see which phrase failed and why, which participants used to calibrate the pedagogical alignment of a response.
+- **Designers.** Resist adding measures and encodings once the core set is in place: participants reported added cognitive overhead from juggling several metrics and diminishing returns as visual encodings increased.
+- **Researchers.** Compute inter-rater reliability per interface condition, not only pooled: overall agreement was alpha = 0.4344, below the 0.67 threshold, while the per-condition split was what revealed the effect of visibility.
+
+## Limitations
+
+- Twelve learning engineer collaborators, all previously experienced with LLM-based educational technology and four of them also in the earlier co-design phases; no instructors or students took part.
+- Only LLaMa3 was evaluated, selected to match the partner textbook framework, and the measures adapted from the machine learning literature were not validated for educational contexts.
+- Pooled decision agreement reached only Krippendorff's alpha = 0.4344, below the conventional 0.67 threshold, with each participant asked to complete all 30 match-ups within one hour.
+- The evaluation used a prompt tournament under a co-designed rubric rather than classroom practice, so whether the metrics improve real teaching decisions is untested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
 technology: [generative-ai]
@@ -40,7 +40,7 @@ institutions: [educational-policy-ai]
 
 The study adopts a qualitative interpretive phenomenological approach in the tradition of Smith et al. (2021), examining seven Israeli teacher education colleges through the lived experience of 13 participants: seven [[teacher-role|pedagogical advisors]] and six lecturers (11 females, two males). Five institutions belong to the state-Jewish stream, one to the state-religious stream, and one to the Arab stream, and participants were purposively selected for high proficiency in AI integration on the recommendation of institutional leaders. Data came from semi-structured in-depth interviews of 45–60 minutes, audio-recorded and transcribed verbatim. Analysis combined human thematic analysis in ATLAS.ti (Version 26) following Grounded Theory coding, with the first six interviews generating the coding system, and an independent AI-assisted analysis in NotebookLM, followed by systematic comparison of themes. Trustworthiness followed Lincoln and Guba (1985) and Tracy (2010): triangulation of method and investigators, a reflexive journal, an audit trail, and member checking with five interviewees across educational streams. Ethics approval came from the Ethics Committee of Levinsky-Wingate Academic College (protocol 08-081225, 8 December 2025), with informed consent covering AI-assisted analysis.
 
-## Implications
+## Research and policy agenda
 
 The authors read the trust and authenticity crisis through Mezirow's transformative [[learning-theories|learning theory]] as a disorienting dilemma, and the most successful participants as moving from excluding AI toward redesigning practice around human–AI entanglement, in Fawns's (2022) sense of entangled pedagogy. They argue for redefining AI literacy from tool proficiency to critical, ethical, and epistemological competence, for making human–AI processes visible and evaluable, and for cultivating critical AI agency: the capacity to evaluate outputs, resist the colonization of professional judgment, and keep a clear professional identity. Because AI literacy demands differ across disciplines and communities, they hold that curricular responses must be situated rather than universal. Practically, they call for formalizing AI literacy as a curricular requirement comparable to [[writing-education|academic writing]] literacy, delivered by specialists combining pedagogical and technological expertise, plus institutional funding for professional tools and coherent cross-college policy. They also cite OECD (2026) evidence that [[generative-ai|generative AI]] supports learning under clear pedagogical principles but otherwise yields a "mirage of false mastery," including a finding that students using AI were 48% more successful at tasks while performance dropped by 17% when assistance was withdrawn.
 

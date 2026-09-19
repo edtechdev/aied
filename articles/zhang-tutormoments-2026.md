@@ -1,7 +1,7 @@
 ---
 title: "When Help is Unhelpful: Evaluating AI Tutors for Productive Struggle"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [scaffolding]
@@ -34,13 +34,20 @@ methods: [ai-ed-evaluation, benchmark]
 
 This paper reframes the core evaluation question for AI tutors: **not "does the tutor avoid giving the answer?" but "is the help provided appropriate for this learner at this moment?"** Prior tutoring benchmarks (e.g., MathTutorBench, MRBench, LearnLM's rubric) reward one side of the "assistance dilemma" or give underspecified guidance; TutorMoments instead conditions on teacher-judged learning moments, capturing whether a tutor scaffolds when support is needed, pushes for rigor when the student is ready, and recognizes over-scaffolding. This is directly relevant to the [[desirable-difficulties|cognitive-friction]] literature: AI tutors trained for maximal helpfulness may inadvertently remove the productive struggle that supports durable learning, echoing the [[cognitive-offloading|over-reliance and cognitive offloading]] findings elsewhere in the knowledge base.
 
-## Practical Implications
+## What this means for practice
 
-- **Evaluate tutors on context, not just behavior frequency.** When choosing or building an AI tutor, assess whether it *adapts* (scaffolds when needed, challenges when ready) rather than whether it merely avoids answer-giving — the same action can be appropriate in one moment and over-scaffolding in another.
-- **Design prompts and models to push for rigor.** Because models default to over-helpfulness, explicitly prompt tutors to recognize rigor-appropriate moments (consistently correct performance, just-received scaffolding) and to increase cognitive demand (self-explanation, generalization, independent practice) when indicated.
-- **Watch for the "narrow move set."** LM tutor behavior concentrates into a few moves, lacking the diversity of human tutor strategies — a reason to monitor and diversify tutor responses rather than assume fluency equals adaptivity.
-- **Pair AI scaffolding with productive-struggle preservation.** Use scaffolding to maintain access without removing the cognitive work — aligning with the knowledge base's evidence that AI which erases desirable difficulty produces short-term gains at the cost of durable learning and [[transfer-of-learning|transfer]].
-- **For educators, use the framework's lens.** Teacher-identified decision points offer a practical template for auditing whether an AI writing/math tool over-scaffolds, misses rigor opportunities, or adapts to learners' evolving understanding.
+- **Software developers.** Do not ship a pedagogical scorer built against one model family. The prompts were developed primarily with Claude 4.6 Opus and performance only somewhat generalized to the other frontier models tested, and LMs may favor their own outputs when scoring.
+- **Software developers.** Budget for asymmetric detection and route the weak side to humans: the pipeline identified [[scaffolding]] at F1 ≈ 0.95 on the held-out split but rigor pushes at F1 ≈ 0.62 (precision 0.73–0.79, recall 0.43–0.58), so missing rigor is the expected error.
+- **Instructors.** Reuse the annotation protocol as a lightweight audit of your own tool: teachers marked key moments across 122 transcripts to produce 1,536 unique decision points, a template you can run on course-specific [[math-education|math]] material.
+- **Instructors.** Staff the audit with practicing teachers. All 27 annotators had more than three years of math teaching experience and 14 had more than ten, and the paper notes that even experienced instructors struggle to define rigor consistently.
+- **Software developers.** Treat a replay score as an upper bound on tutor quality. The simulated student is an "oracle student" that returns the human student's actual responses, so the benchmark does not measure how a tutor handles a learner diverging from the transcript.
+
+## Limitations
+
+- **Work-in-progress preview with a convenience annotator pool.** 27 U.S.-based teacher annotators recruited by snowball sampling from the authors' own networks, and the authors state a more pinpointed annotation strategy is still needed to disentangle genuine disagreement about where a key moment begins from noise.
+- **Narrow data scope.** 462 text-only math tutoring transcripts covering 198 students in grades 2–7 and 173 human tutors, of which only 122 transcripts were annotated; other subjects and non-text modalities are not represented.
+- **Replay with an oracle student and subjective labels.** The synthetic student reproduces the human student's turns rather than reacting independently, and the ground-truth labels are derived from aggregated free-text teacher annotations whose scope the authors themselves flag as a source of disagreement.
+- **Privileged information in the scoring pipeline.** The LM generates its situation-action-result descriptions conditioned on teachers' scaffolding- and rigor-appropriateness recommendations, so pipeline accuracy is measured under conditions a deployable scorer would not have.
 
 ## Connected Concepts
 
