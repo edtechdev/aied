@@ -10,7 +10,7 @@ ethics: [trust]
 research_method: [qualitative, interviews]
 audience: [instructors, faculty development, researchers]
 level: [higher ed]
-sources: ['raw/papers/luo-dawson-value-judgements-grading-2026.md']
+sources: ['raw/papers/luo-dawson-value-judgments-grading-2026.md']
 confidence: high
 page_kind: [evaluation]
 ---
@@ -47,7 +47,7 @@ page_kind: [evaluation]
 
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — university teachers' experiences and perceptions of GAI in teaching and learning (Farazouli et al. 2026)
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
-- [[walton-bearman-assessment-judgement-2025]] — judgment in students' work with GenAI on assessment tasks (Walton et al. 2025)
+- [[walton-bearman-assessment-judgment-2025]] — judgment in students' work with GenAI on assessment tasks (Walton et al. 2025)
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 

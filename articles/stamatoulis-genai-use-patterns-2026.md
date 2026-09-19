@@ -51,7 +51,7 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 
 ## Connected Articles
 
-- [[walton-bearman-assessment-judgement-2025]] — Judgment in students' work with GenAI on assessment
+- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI use and disclosure
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Scoping review of GenAI and learning
 - [[genai-thoughtless-use-self-directed-learning-2026]] — Thoughtless GenAI use and self-directed learning

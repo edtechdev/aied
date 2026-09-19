@@ -16,7 +16,7 @@ level: [higher ed]
 audience: [assessment designers, instructors, administrators]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 page_kind: [framework]
-sources: ['raw/papers/sharma-judgement-visible-genai-assessment-2026.md']
+sources: ['raw/papers/sharma-judgment-visible-genai-assessment-2026.md']
 confidence: medium
 ---
 
@@ -71,7 +71,7 @@ Sharma states plainly that the paper reports no empirical findings and claims no
 
 ## Connected Articles
 
-- [[walton-bearman-assessment-judgement-2025]] — The study of students' judgment in GenAI assessment tasks that underpins Sharma's argument
+- [[walton-bearman-assessment-judgment-2025]] — The study of students' judgment in GenAI assessment tasks that underpins Sharma's argument
 - [[roe-assessment-twins-2026]] — Paired-task designs that verify learning outcomes in AI-vulnerable summative assessment
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — Evidence that authentic assessment alone does not safeguard integrity
 - [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the pass boundary and detection fail in different ways

@@ -111,5 +111,5 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 - [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
 - [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgement-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

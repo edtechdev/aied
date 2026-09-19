@@ -6,7 +6,7 @@ type: article
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]
-sources: ['raw/papers/causal-modelling-competency-assessment-2026.md']
+sources: ['raw/papers/causal-modeling-competency-assessment-2026.md']
 confidence: high
 discipline: [cs education]
 audience: [assessment designers, researchers]

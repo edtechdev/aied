@@ -93,7 +93,7 @@ The author states twelve limitations, several of which bound how far the argumen
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive generative AI use by visually impaired learners
 - [[bassett-ai-detectors-education-2026]] — False positives and the case against relying on AI detectors
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Arguing that integrity policy should start from purpose
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconstructing assessment validity for the generative AI era
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconstructing assessment validity for the generative AI era
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Contesting the aigiarism framing of AI use in assessment
 - [[qu-wang-disclose-or-not-genai-2026]] — Why students disclose or conceal generative AI use
 

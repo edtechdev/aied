@@ -7,7 +7,7 @@ foundations: [academic-integrity, agentic-ai, ai-education]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm]
 assessment: [assessment, assessment-validity]
 research_method: [theoretical analysis]
-sources: ['raw/papers/coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene.md']
+sources: ['raw/papers/coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene.md']
 confidence: high
 audience: [assessment designers, assessment professionals, educators]
 level: [higher ed]

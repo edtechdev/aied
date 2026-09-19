@@ -102,7 +102,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[causal-modelling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
+- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[espino-ai-business-education-review-2026]]

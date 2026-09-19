@@ -3,7 +3,7 @@ title: "Creating an AI-powered platform for generating modelling problems: A cas
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-18T19:55:59-04:00"
 type: article
-sources: ["raw/papers/ai-modelling-problem-generation-platform-2026.md"]
+sources: ["raw/papers/ai-modeling-problem-generation-platform-2026.md"]
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai, intelligent-tutoring]
 confidence: medium

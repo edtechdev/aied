@@ -97,8 +97,8 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign modeled as an assessment-design problem
 - [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanization arms race
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
-- [[luo-dawson-value-judgements-grading-2026]] — Value judgments in grading GenAI-assisted work, and two-way transparency
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
+- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work, and two-way transparency
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as a help-seeking and self-regulation decision
