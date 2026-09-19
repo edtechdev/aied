@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-19
 
-Articles: 1311 | Concepts: 206 | FAQs: 32
+Articles: 1310 | Concepts: 206 | FAQs: 32
 
 ## Concepts
 
@@ -1517,7 +1517,6 @@ Articles: 1311 | Concepts: 206 | FAQs: 32
 - [[zhao-genai-higher-order-thinking-meta-2026]] — Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop
 - [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive
-- [[zhu-chatgpt-interdisciplinary-learning-stem-2026]] — ChatGPT for Interdisciplinary Learning: Does it Equally Benefit STEM and Non-STEM Students
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
