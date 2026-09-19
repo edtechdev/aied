@@ -1,7 +1,7 @@
 ---
 title: "Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 technology: [prompt-engineering]
 stakeholders: [teacher-ai-competency, professional-training]
@@ -31,19 +31,11 @@ The study used a mixed-methods field design with three linked components. The ba
 
 The quasi-experimental training component drew 160 faculty from the baseline sample, assigning 80 to structured GenAI prompt-task training and 80 to conventional GenAI-focused faculty development through institutional scheduling and voluntary sign-up rather than randomization; the two groups were equivalent at baseline on country composition, gender, age, teaching experience, prior GenAI use, institutional support, perceived permission, risk sensitivity, and all seven baseline readiness dimensions. Both conditions received four 90-min onsite workshops over four consecutive weeks using DeepSeek-R1, with identical contact time, environment, facilitator support, and base materials. The structured condition followed a prompt formulation → generated-output review → course-material revision → written reflection cycle, using a seven-component prompt template (course objective, student level, task constraints, assessment criteria, faculty verification, student disclosure, risk control) and yielding prompt records, revised teaching artifacts, and reflections. Analysis combined group comparisons and effect sizes for the baseline and post-test questions, hierarchical regression for the predictors of readiness, and a linear mixed-effects model for the T0–T1–T2 trajectory, with rule-based thematic coding of prompt logs for the qualitative component.
 
-## Implications
-
-- Faculty development centers should treat GenAI readiness as course-embedded work: asking faculty to bring their own objectives, rubrics, and materials into a structured prompt-task cycle produces larger and more durable gains than function-orientation workshops.
-- Because the country effect was absorbed by exposure, recent training, resource access, perceived permission, and institutional support, interventions that increase hands-on practice and clarify what experimentation is allowed may matter more than national policy framing alone.
-- Prompt design functions as course-level teaching-task design rather than a detached technical skill; objectives, constraints, assessment criteria, verification, disclosure, and risk control jointly define whether a GenAI-mediated task is executable, assessable, revisable, and accountable.
-- Prompt logs and use profiles can triage support: efficient collaborators can take on more complex course tasks, over-revisers need criteria for when an artifact is finished, mixed users need workflow stabilization, dependent users need verification routines, and exploratory users need help converting ideas into assessable classroom steps.
-- Low tool-usability ratings alongside high continued-use intention suggest that platform friction, not motivation, is a tractable target for centers planning GenAI provision.
-
 ## What this means for practice
 
-- **Faculty developers.** Require faculty to bring their own objectives, rubrics, and materials into a structured prompt-task cycle (prompt formulation, output review, material revision, written reflection), which produced larger post-test gains than conventional workshops across all seven readiness dimensions.
-- **Faculty developers.** Use prompt logs to triage support: over-revisers need criteria for when an artifact is finished, dependent users need verification routines, and exploratory users need help converting ideas into assessable classroom steps.
-- **Administrators.** Increase hands-on practice and clarify what experimentation is permitted rather than assuming motivation is the problem: continued-use intention was the highest-rated satisfaction dimension while tool [[usability-research|usability]] was the lowest, and gains survived delayed testing only in the structured group.
+- **Faculty developers.** Require faculty to bring their own objectives, rubrics, and materials into a structured prompt-task cycle (prompt formulation, output review, material revision, written reflection), which produced larger post-test gains than conventional workshops across all seven readiness dimensions and was the only condition whose gains survived delayed testing.
+- **Faculty developers.** Use prompt logs to triage support: efficient collaborators can take on more complex course tasks, mixed users need workflow stabilization, over-revisers need criteria for when an artifact is finished, dependent users need verification routines, and exploratory users need help converting ideas into assessable classroom steps.
+- **Administrators.** Increase hands-on practice and clarify what experimentation is permitted rather than assuming motivation is the problem: prior GenAI use, recent training, resource access, perceived permission, and institutional support absorbed the country difference in readiness, and continued-use intention was the highest-rated satisfaction dimension while tool [[usability-research|usability]] was the lowest.
 - **Faculty developers.** Treat prompt design as course-level teaching-task design — objectives, constraints, assessment criteria, verification, disclosure, and risk control — since prompt design showed the largest and most durable gain.
 
 ## Limitations

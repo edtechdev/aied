@@ -1,7 +1,7 @@
 ---
 title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
@@ -42,24 +42,13 @@ Interview data trace a shift from wanting to avoid teaching out of fear of class
 
 The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mastery and vicarious experiences, social persuasion, emotional states), a Hattie-and-Timperley [[feedback]] division of labor in which AI works at the task and process levels while human mentors address [[self-regulated-learning|self-regulation]] and self-level concerns, and a trait-based conception of emotional intelligence. AI is explicitly positioned as augmenting, not replacing, the human mentor.
 
-## Implications for AI in Education
-
-- **[[teacher-education|Teacher education]] can treat AI-supported mentoring as continuous infrastructure, not an add-on tool.** Effectiveness came from combining structured mentoring, collaborative digital interaction, reflective practice, and AI-assisted support into a single ecosystem that bridged the theory-practice gap during the practicum.
-
-- **Confidence and emotional competence develop together.** The reciprocal pattern — greater teaching confidence enabling better stress management, and greater emotional awareness sustaining persistence — suggests teacher preparation should address cognitive and affective dimensions jointly rather than in separate tracks.
-
-- **Feedback roles can be deliberately divided.** Assigning AI task- and process-level feedback while reserving self-regulation and identity-level work for human mentors is a concrete design rule for [[human-in-the-loop-ai|human-in-the-loop]] mentoring at scale.
-
-- **Scalable support where mentoring is thin.** The paper targets under-resourced contexts with irregular, evaluation-focused supervision, and argues the model offers scalable, context-sensitive [[educational-development|professional development]]; it also highlights the [[equity-in-ai-education|equity]] issue of limited mentoring resources, including in [[global-south|Global South]] settings.
-
-- **AI literacy is entangled with emotional literacy.** Because generative tools such as [[generative-ai|Gemini]] were used to reframe emotionally charged classroom situations and design communicative activities, [[ai-literacy|AI literacy]] here includes the judgment to use AI suggestions reflectively rather than as verdicts.
-
 ## What this means for practice
 
-- **Faculty developers.** Run AI-supported e-mentoring as continuous infrastructure across pre-practicum, during-practicum, and post-practicum phases rather than as an add-on tool; the 10-week experimental group outperformed the conventional practicum on both [[self-efficacy]] and emotional intelligence.
+- **Faculty developers.** Run AI-supported e-mentoring as continuous infrastructure across pre-, during- and post-practicum phases rather than as an add-on tool; the 10-week experimental group outperformed the conventional practicum on both [[self-efficacy]] and emotional intelligence, and the gain came from one ecosystem of structured mentoring, collaborative digital interaction, reflective practice and [[generative-ai|AI]] support that bridged the theory-practice gap.
 - **Faculty developers.** Divide feedback labor deliberately: let AI carry task- and process-level feedback while human mentors handle [[self-regulated-learning|self-regulation]] and identity-level work, keeping [[human-in-the-loop-ai|human oversight]] in the design.
-- **Instructors.** Develop confidence and emotional competence in the same activities, since reflective cycles moved participants from control-oriented classroom management toward rapport-building, student-centered practice.
-- **Administrators.** Target settings where supervision is thin: the authors present the model as scalable, context-sensitive professional development for under-resourced contexts with irregular, evaluation-focused mentoring.
+- **Instructors.** Develop confidence and emotional competence in the same activities rather than as separate tracks, since reflective cycles moved participants from control-oriented classroom management toward rapport-building, student-centered practice and the two dimensions reinforced each other.
+- **Instructors.** Treat [[ai-literacy|AI literacy]] as entangled with emotional literacy: because [[generative-ai|Gemini]] was used to reframe emotionally charged classroom situations and design communicative activities, preparation should build the judgment to use AI suggestions reflectively rather than as verdicts.
+- **Administrators.** Target settings where supervision is thin: the authors present the model as scalable, context-sensitive professional development for under-resourced contexts with irregular, evaluation-focused mentoring, including [[global-south|Global South]] settings where mentoring resources are limited.
 
 ## Limitations
 

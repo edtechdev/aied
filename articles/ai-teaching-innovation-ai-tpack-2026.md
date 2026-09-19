@@ -1,7 +1,7 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -36,23 +36,11 @@ The study surveyed 898 Chinese university teachers from eight comprehensive univ
 
 Participants completed established scales covering the seven AI-TPACK knowledge dimensions, teaching self-efficacy, professional identity, AI literacy, and self-reported AI teaching innovation behavior, with all instruments translated and contextually adapted for AI-supported teaching. The authors analyzed the data with partial least squares structural equation modeling, testing a multiple-mediation model and then running a multi-group comparison between teachers who used GenAI daily and those who used it monthly, rarely, or never. They controlled for age, educational level, and professional title, and checked the usual measurement properties — reliability, convergent and discriminant validity, multicollinearity, and common method bias — before interpreting the structural paths.
 
-## Implications for AI in Education
-
-- **Technical AI training is not enough.** The finding that isolated AI knowledge fails to predict innovation is the study's most practical result. [[educational-development|Faculty development]] should run problem-oriented redesign workshops where teachers work through goal-setting, tool selection, activity design, and assessment for a real course, rather than sessions that teach how GenAI tools work in the abstract.
-
-- **Invest in [[ai-literacy]] as the highest-leverage mediator.** Because AI literacy carried the largest share of the effect and also strengthened confidence and identity, professional development should emphasize ethical evaluation, contextual judgment, and pedagogical adaptation of AI outputs — not just tool operation.
-
-- **Strengthen professional identity explicitly.** Framing AI integration as an extension of teaching responsibility, and clarifying how the [[teacher-role]] changes in AI-mediated instruction, may do more to sustain innovation than any amount of tooling support. Institutions can reinforce this through peer-sharing platforms and visible AI teaching cases.
-
-- **Design low-risk spaces for sustained practice.** Pilot AI classrooms and small-scale innovation projects give teachers the authentic, repeatable experience through which integrative knowledge converts into stable practice.
-
-- **Differentiate support by experience level.** The multi-group result, though provisional, suggests teachers with limited AI experience need foundational operational guidance and feedback, while experienced users may benefit more from advanced resources such as interdisciplinary collaboration projects or teaching innovation grants.
-
 ## What this means for practice
 
-- **Faculty developers.** Replace abstract tool sessions with problem-oriented redesign workshops where teachers work through goal-setting, tool selection, activity design, and assessment for a real course, because isolated technical AI knowledge showed no link to innovative teaching.
+- **Faculty developers.** Replace abstract tool sessions with problem-oriented redesign workshops in which teachers work through goal-setting, tool selection, activity design, and assessment for a real course, since [[educational-development|faculty development]] of that kind, not tool operation, is where innovation showed up — isolated technical AI knowledge had no link to innovative teaching.
 - **Faculty developers.** Make [[ai-literacy]] the priority mediator: it carried the largest share of the competence-to-innovation association and also raised instructional confidence and professional identity.
-- **Administrators.** Reinforce professional identity through peer-sharing platforms and visible AI teaching cases, because identity mediated the competence-to-innovation link on every AI-TPACK dimension and mattered most among teachers who used GenAI rarely.
+- **Administrators.** Strengthen professional identity explicitly — frame AI integration as an extension of teaching responsibility and clarify how the [[teacher-role]] changes in AI-mediated instruction — through peer-sharing platforms and visible AI teaching cases, because identity mediated the competence-to-innovation link on every AI-TPACK dimension and mattered most among teachers who used GenAI rarely.
 - **Designers.** Stand up low-risk pilot classrooms and small innovation projects so integrative knowledge can convert into stable practice, giving less experienced users foundational operational guidance while frequent users get advanced collaboration resources.
 
 ## Limitations

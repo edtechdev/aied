@@ -1,7 +1,7 @@
 ---
 title: "AI-based digital cheating at university, and the case for new ethical pedagogies"
 created: "2026-09-18T05:12:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, framing-ai-use-for-students]
 pedagogy: [critical-pedagogy, motivation, self-efficacy, self-determination-theory]
@@ -50,10 +50,6 @@ The prescriptions follow from the motivational analysis rather than from detecti
 
 The common commitments are authentic real-world tasks, personalization to the student's interests, and process-oriented work that carries feedback through the middle of a task rather than only at its end. [[formative-assessment|Formative assessment]] is the corrective to the depersonalized lecture-and-exam pattern massification produced, and the authors draw on pandemic experience of [[online-teaching-and-learning|remote teaching]], where low-stakes iterative work and weekly collaborative assignments increased intrinsic motivation and ownership (Surahman and Wang, 2022). Viva-style examinations and peer-mediated assessment are argued to reduce reliance on AI tools, and digital divides in devices, connectivity and caring responsibilities must be addressed, since [[equity-in-ai-education|equitable]] access is a precondition of integrity.
 
-## Limits and what remains untested
-
-The authors describe their contribution as a theoretical framing and call for empirical work testing validity-based interventions across disciplines and cultures. Three constraints travel with the argument. The 183-to-27 result comes from one Australian business capstone, is reported by that study's authors rather than replicated, and is not AI-specific; the article's own hedge is that its mechanisms may not transfer to less structured assessment. And the alternative to detection is expensive in precisely the resource universities are economising on: bespoke materials, single-use tasks, weekly invigilated tests and personalized feedback all consume staff time. That is why they frame the problem as a question about what [[higher-ed|higher education]] is for, and argue that [[governance]] resting on suspicion damages [[trust]] in ways the academy will not easily repair.
-
 ## What this means for practice
 
 - **Educators.** Treat an assignment a model can answer convincingly as a redesign prompt rather than a misconduct problem: the article's discipline-specific replacements include turning timed problem-solving exams into open-book problem solving with a written reflection on the student's own process, and summative essays into collaborative research projects built on primary sources.
@@ -63,7 +59,7 @@ The authors describe their contribution as a theoretical framing and call for em
 
 ## Limitations
 
-- This is a conceptual article, not an empirical study: no data were collected, the argument is built from Ajzen's Theory of Planned Behavior, Bandura's self-efficacy theory and situational crime prevention, and the authors themselves call for empirical work testing the interventions they propose.
+- This is a conceptual article, not an empirical study: no data were collected, the argument is built from Ajzen's Theory of Planned Behavior, Bandura's self-efficacy theory and situational crime prevention, and the authors themselves call for empirical work testing validity-based interventions across disciplines and cultures.
 - Its only quantitative evidence is one published case study — Baird and Clare's (2017) Australian business capstone, where 25 situational prevention techniques were followed by a fall in misconduct cases from 183 to 27 within a year. That result is reported by that study's authors rather than replicated, is not about AI use, and its granular simulation tracking may not transfer to essays or project work.
 - The proposed alternative to detection is resource-intensive in exactly the direction universities are economizing: bespoke single-use materials, weekly in-class invigilated tests and personalized feedback all consume staff time, and the authors concede this conflict with current workload models.
 - The theoretical frame is partial by the authors' own account — a footnote concedes that external factors such as variable teaching quality and poor learning environments were left untheorized — and they note that no cross-culturally stable definition of cheating exists, since some systems emphasize memorization and reproduction while others require critical interpretation.

@@ -1,7 +1,7 @@
 ---
 title: AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-19T06:55:23-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, educational-measurement]
 ethics: [bias-mitigation, equity-in-ai-education, multilingual-learning]
@@ -28,15 +28,9 @@ This paper makes a critical contribution to the [[automated-assessment]] and [[a
 - **[[cong-confidence-asag-2026]]**: The study's comparison of ML and LLM approaches provides evidence that newer LLM-based systems are not immune to this bias — it persists across both paradigms. See related work on [[short-answer-scoring-quality-degradation]].
 - **[[ai-assessment-human-tutors]]**: The parallel between AI and human scoring bias suggests that the goal should not be to replace human assessment but to understand the limitations shared by both, as also explored in the [[ai-feedback-quality]] literature.
 - **[[educational-measurement]]**: The concept of construct-irrelevant variance — where language proficiency contaminates measurement of conceptual understanding — is a fundamental [[assessment-validity]] concern that this study quantifies across AI systems.
-## Implications
-1. **Benchmarking AI scoring**: AI-based scoring systems should be explicitly evaluated for language bias, not just overall agreement with human scores.
-2. **High-stakes caution**: As AI scoring moves toward higher-stakes decisions, the asymmetric language bias becomes increasingly consequential.
-3. **[[multimodal]] assessment**: The findings support calls for assessment approaches that reduce dependence on linguistic production, particularly for [[language-learning]] populations.
-4. **Teacher-AI collaboration**: Rather than replacing teacher assessment, AI scoring may be most useful when teachers remain in the loop to calibrate for language effects.
 ## What this means for practice
-- **Assessment professionals.** Audit AI scoring systems for language bias by reporting underestimation rates for low-linguistic-quality explanations, not only overall agreement with expert scores (which ranged 67.2%–78.4%).
-- **Assessment professionals.** Keep teachers in the loop on high-stakes scoring: the bias runs in one direction, so linguistically weak students are penalized with no offsetting inflation for strong writers.
-- **Assessment professionals.** Route responses from [[multilingual-learning|multilingual]] and international learners to human review, since low linguistic quality is easily misread as weak conceptual understanding.
+- **Assessment professionals.** Audit AI scoring systems for language bias by reporting underestimation rates for low-linguistic-quality explanations, not only overall agreement with expert scores (which ranged 67.2%–78.4%), and keep teachers in the loop on high-stakes scoring: the bias runs in one direction, so linguistically weak students are penalized with no offsetting inflation for strong writers.
+- **Assessment professionals.** Route responses from [[multilingual-learning|multilingual]] and international learners to human review and reduce dependence on linguistic production in task design, since low linguistic quality is easily misread as weak conceptual understanding and the asymmetry falls hardest on these learners.
 - **Researchers.** Test whether LLM-based scoring is immune to the bias — GPT-4.1 and GPT5-mini showed the same underestimation as all nine ML-based approaches.
 - **Researchers.** Use experimental designs that manipulate linguistic quality while holding demonstrated conceptual understanding constant to pin down the causal mechanism.
 ## Limitations
