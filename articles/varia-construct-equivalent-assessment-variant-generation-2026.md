@@ -1,7 +1,7 @@
 ---
 title: "VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-07T09:09:07-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -39,6 +39,21 @@ Key results from the pilot (600 variants, 60 condition cells):
 ## Implications for AIAA and assessment
 
 The authors release VARIA and recommend a generation protocol keyed to the deploying institution's threat profile. Two substantive conclusions follow: **variation-at-scale cannot be solved by prompting alone** if the diversity threshold is set aggressively — readability and construct-equivalence floors will eventually be breached together — and a deploying institution should **validate its specific model-prompt pair** rather than relying on strategy-level rankings, given the real model-by-prompt interaction at the cell level. The benchmark reframes the [[ai-detection|detection-vs-redesign]] debate: the no-surveillance promise of [[authentic-assessment|per-student task variation]] now has an empirical, falsifiable check, and the strongest frontier generators currently satisfy the integrity criteria at the margin rather than with wide headroom.
+
+## What this means for practice
+
+- **Assessment designers.** Validate your own model–prompt pair on your own competency blueprints before deploying per-student variants: the model-by-prompt interaction at the condition-cell level was as large as the strategy effect (for example, Claude Opus 4.7 under dimension-preserving generation at 𝒥 = 0.704).
+- **Assessment designers.** Set explicit floors for surface diversity, construct equivalence, and readability, then accept the trade-off rather than searching for a perfect protocol — structured chain-of-thought and zero-shot reached construct equivalence of 0.96–0.97, while constrained generation reached cosine diversity near 0.05 at the cost of readability dispersion.
+- **Institutions.** Calibrate the diversity threshold to your actual threat profile instead of maximizing it, because an aggressive target eventually breaches readability and construct-equivalence floors together, and the strongest frontier generators currently satisfy the criteria only at the margin.
+- **Institutions.** Do not treat a passing variant set as behaviorally copy-resistant; VARIA measures the generative capability, not student behavior, and a randomized classroom study is still unreported.
+- **Researchers.** Report generator tier alongside results, since non-frontier references collapsed below 𝒥 = 0.55 while frontier models clustered at 0.81–0.88 — capability tier is a first-order variable in [[authentic-assessment|variation-at-scale]].
+
+## Limitations
+
+- The pilot ran a single trial with N = 10 variants per blueprint and no seeded sampling, so all differences are descriptive point estimates without inferential statistics; the pre-registered N ∈ {10, 35, 100} scaling regime and multi-seed protocol are unexecuted, and the pre-registered negative-anchor ablation ran with positive anchors in both few-shot arms.
+- Rubric stability (P3) was not measured — the joint score gives surface diversity two of its four components — and construct equivalence was judged by Claude Sonnet 4.6, which shares a model family with one of the generators (Claude Opus 4.7); the judge issues one holistic score per set over the first six variants only, inducing a ceiling effect at the top of the scale.
+- Both diversity measures are lexical (TF-IDF cosine and 4-gram Jaccard), so a generator that rephrases the same scenario in different words can register as diverse while remaining copyable in substance.
+- Whether a VARIA-passing variant set actually deters copying in a live cohort was not tested; behavioral copy-resistance requires a randomized classroom study that is under design but not yet reported.
 
 ## Connected Concepts
 - [[assessment-validity]]

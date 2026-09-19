@@ -1,7 +1,7 @@
 ---
 title: "After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
@@ -52,6 +52,21 @@ The framework bears directly on [[ai-education|education policy]], safety-critic
 ## Contribution to the knowledge base
 
 Where most offloading research captures the *moment* of AI use, this paper formalizes the *aftermath* — the reversibility question that current [[cognitive-offloading|offloading]] findings (including the "coach vs. crutch" boundary and the distinction between [[layer-sensitive-cognitive-offloading-writing-2026|substitutive and duplicative offloading]]) imply but do not yet measure. It is a theory/protocol contribution (no new data), valuable for turning the field's accumulated evidence on [[cognitive-offloading|over-reliance]] into a testable longitudinal research agenda on skill retention and decay.
+
+## What this means for practice
+
+- **Instructors.** Schedule deliberate unassisted practice — periodic problem sets or exams with the assistant off — and dose it against how long deficits actually take to dissipate, following the FAA's manual-flying model instead of debating AI use morally.
+- **Instructors.** Probe skill under pressure, not only on routine tasks: the latent-scaffold outcome means performance can look recovered on easy cases while the deficit hides until a difficult, time-pressured case exposes it.
+- **Administrators.** Treat reversibility as the severity question. Before scaling [[intelligent-tutoring]], decide how you will measure what students can do unaided at exams, license reviews, and tool outages.
+- **Researchers.** Instrument offloading dose from behavior — the fraction of attempts that begin with a request for a complete solution, latency to first prompt, and edit distance from suggestion to submission — so withdrawal effects can be estimated from existing usage logs.
+- **Researchers.** Run the withholding study itself: current [[cognitive-offloading]] evidence stops hours after assistance ends, and the weeks-long interval after that is where reversibility is decided.
+
+## Limitations
+
+- No new data are collected: the Washout Curve Model is descriptive, and its exponential-plus-linear recovery form is a convenient functional choice that may not match stage-like recovery.
+- The parameter values sketched in Figure 1 are illustrations rather than measurements, and the authors explicitly resist citing them as expectations.
+- Construct validity of the offloading-dose index rests on behavioral proxies that users can game, and offloading depth may be endogenous to ability (weaker performers leaning harder), which muddies causal readings of dose.
+- The proposed protocol is powered (about 100 enrolled per arm, 300 total, roughly 33 per domain-arm cell) only for its two primary contrasts; a d = 0.40 interaction is unresolvable at 33 per cell, so domain-composition and dose-superlinearity predictions are designated exploratory, and the 24-participant Stage 0 pilot cannot estimate reliability precisely.
 
 ## Connected Concepts
 

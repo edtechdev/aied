@@ -1,7 +1,7 @@
 ---
 title: "Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning"
 created: "2026-09-06T08:18:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning, well-being]
 technology: [generative-ai]
@@ -26,6 +26,21 @@ discipline: [language learning]
 ## Implications for AI in Education
 
 The study brings a person-centered, longitudinal lens to AI-supported [[language-learning|language education]], showing that learners do not respond uniformly to AI tools and that adaptation is best understood as a demand–resource balance under the Job Demands–Resources framework rather than a single continuum. For language instructors and learning designers it implies that AI-mediated environments should support learners whose technostress outweighs their resilience, and that fostering confidence and regulating [[self-regulated-learning|self-regulated]] use of AI can shift learners toward positive adaptation over time. The findings also caution that perceived benefits of AI-assisted learning do not eliminate the psychological costs of managing overload, information density, and dependence on intelligent tools.
+
+## What this means for practice
+
+- **Learners.** Track your confidence and workload rather than your tool usage, because at Time 3 the positively adapting profile showed the highest Japanese learning [[self-efficacy|self-efficacy]] and the lowest burnout, while the maladaptive profile showed the reverse.
+- **Learners.** Treat an early bad patch as a stage rather than a verdict: learners in the maladaptive profile most often moved to moderate adaptation rather than jumping straight to positive adaptation, and adaptation is heterogeneous and dynamic across a semester.
+- **Instructors.** Screen for learners whose technostress outweighs their psychological resilience instead of assuming AI tools benefit everyone, since 17.74% of learners remained maladaptive at Time 3 and reported the least favorable motivational and emotional outcomes.
+- **Instructors.** Strengthen adaptive resources rather than adding more tools — fostering confidence and regulating [[self-regulated-learning|self-regulated]] AI use is what shifted learners toward positive adaptation under a demand–resource balance.
+- **Designers.** Design against avoidable overload: with 62.1% of learners reporting no prior AI training and 3–4 times per week the most common use frequency, information density and dependence management belong in the learning design, not only in onboarding.
+
+## Limitations
+
+- All focal measures are self-reported and the authors flag common method variance and subjective response tendencies; no behavioral indicators of AI use or teacher evaluations of engagement were collected.
+- The sample is 457 learners of Japanese at public universities in mainland China (76.1% female; 56.0% in non-major courses; 45.7% intermediate), so the profile structure's generalizability to other languages, institutions, and cultural settings remains to be established.
+- Coverage is a single academic semester (three waves roughly 8 weeks apart); only 366 learners completed all three waves (80.09% retention), and whether adaptive improvements persist beyond one semester is unknown.
+- The mechanisms the authors invoke — AI literacy, self-regulated learning, routine integration, and perceived teacher support — were not directly measured, so profile membership is not shown to cause the self-efficacy and burnout differences, and other explanatory evidence cited comes from EFL settings that differ in target language and indicators.
 
 ## Connected Concepts
 - [[language-learning]]

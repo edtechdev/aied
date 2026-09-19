@@ -1,7 +1,7 @@
 ---
 title: "Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions"
 created: "2026-09-07T08:25:00-04:00"
-updated: "2026-09-07T08:25:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 technology: [learning-analytics, machine-learning]
 ethics: [privacy]
@@ -35,6 +35,14 @@ The framework formulates academic risk as a multitask problem with targets for b
 - **Do not trust raw probabilities across institutions.** Because calibration drifts under heterogeneity, probability thresholds that trigger early-warning interventions may need per-institution adjustment or post-calibration before use.
 - **Separate ranking from reliability in deployment.** A model can rank at-risk students correctly while producing miscalibrated probabilities; intervention systems should be designed knowing which capability they rely on.
 - **Explainability can support trust and targeting.** Stable feature-importance rankings help identify persistent behavioral indicators of risk (persistence, interaction density, reduced activity) to inform differentiated support.
+
+## What this means for practice
+
+- **Learning analytics designers.** Surface risk as ranks and cohorts rather than probability bands when a federated model is reused across institutions: discrimination held (OULAD AUC = 0.918, F1 = 0.755) while the dropout task's ECE moved from 0.067 on OULAD to 0.232 on EdNet-KT1.
+- Build per-institution recalibration into the deployment pipeline before any threshold-triggered intervention, since the study applied no post-hoc recalibration and even the centralized baseline sat at an ECE of about 0.391 on the performance task.
+- **Institutions.** Choose FedProx over plain FedAvg where institutional label distributions are far apart: FedProx held lower ECE at α = 0.1 and α = 0.3, while FedAvg's ECE rose markedly from α = 0.3.
+- **Administrators.** Fund the federated governance layer — local training infrastructure and institutional data agreements — because the architecture keeps raw student records on site while still producing a shared model.
+- **Researchers.** Report discrimination, calibration, and explanatory stability together; feature-importance rank stability (RankStab 0.99–1.00) can look reassuring while attribution divergence (Δ) and ECE still shift with local distributions.
 
 ## Limitations
 

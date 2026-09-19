@@ -1,7 +1,7 @@
 ---
 title: "The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [metacognition, self-regulated-learning]
@@ -49,6 +49,21 @@ The 5P model is an iterative framework with five stages, each drawing on distinc
 ## Adoption considerations
 
 The model is generally suited to major assessments, capstone projects, or professional-development evaluation rather than routine tasks. Effective implementation requires explicit instruction and [[scaffolding]] from educators — teaching learners to monitor emotional responses, design and refine prompts iteratively, and cross-validate outputs — which itself demands ongoing [[educational-development|professional development]]. The authors note two inherent limitations: assessing the quality of internal thoughts (emotional monitoring, resisting over-reliance) is highly subjective, and documenting the Process stage's prompts and iterations is difficult without specialized tools that capture learners' continuous interaction with GenAI. Overall, the model aims to ensure GenAI provides a structured [[scaffolding|scaffold]] rather than a substitute for student thought.
+
+## What this means for practice
+
+- **Instructors.** Reserve the model for major assessments, capstone projects, or professional-development evaluations rather than routine tasks, because the five stages require documented check-ins before, during, and after the task.
+- **Instructors.** Require learners to write the Purpose-stage goal — whether GenAI is being used for efficiency, creativity, or clarification — before they open the tool, so the "why" of use is captured rather than reconstructed afterward.
+- **Instructional designers.** Build a capture mechanism for the Process stage into the assignment (prompt and iteration logs), since that stage is the one the authors say cannot be documented accurately without specialized tooling.
+- **Instructors.** Assess the Pitfalls stage explicitly — hallucination, plagiarism, bias, privacy, and over-reliance — so that ethical handling of [[generative-ai|GenAI]] is graded rather than assumed.
+- **Researchers.** Pilot the model in a [[higher-ed|GenAI-rich course]] and compare it against an established reflection framework to test whether the separate Pitfalls stage changes how learners validate AI output.
+
+## Limitations
+
+- The model is conceptual, developed through [[design-based-research|design-based research]] assisted by critical inquiry (a review of Kolb, Gibbs, DIEP, Mezirow, Schön, emotional, and [[self-regulated-learning|SRL]] models); no implementation, learner sample, or outcome data are reported.
+- The authors state that assessing the internal states the Process and Pitfalls stages depend on — emotional monitoring and resisting over-reliance — is highly subjective and relies on the learner's honesty and [[metacognition|metacognitive]] capacity.
+- The Process stage requires documenting prompts and iterations continuously; the authors state that specialized tools to capture learners' ongoing interaction with GenAI still need to be developed.
+- Adoption is constrained by design: the authors limit the model to major assessments, capstone projects, or professional-development evaluation, and effective use depends on educators who can already deliver explicit instruction and [[scaffolding|scaffolding]].
 
 ## Connected Concepts
 - [[self-regulated-learning]]

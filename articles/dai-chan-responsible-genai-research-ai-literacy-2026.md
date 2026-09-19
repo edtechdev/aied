@@ -1,7 +1,7 @@
 ---
 title: "Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights From Postgraduate Students"
 created: "2026-09-06T08:12:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [self-regulated-learning]
@@ -29,6 +29,21 @@ institutions: [governance]
 ## Implications for AI in Education
 
 The study contributes an empirical account of how [[ai-literacy]] is enacted as a [[situated-learning|situated]] capacity in research practice, rather than a static set of competencies, with direct implications for [[academic-integrity|integrity]] and [[ethics]] policy in [[higher-ed|graduate education]]. For institutions it argues that responsible GenAI-use guidelines should move beyond binary rules toward practice-oriented support that [[scaffolding|scaffolds]] each AI literacy dimension across the research workflow — a stance that treats [[governance]] and researcher development as mutually reinforcing. For supervisors and research-training programs it signals a need to cultivate evaluative judgment and [[self-regulated-learning|self-regulation]] of GenAI use, echoing calls to embed [[llm|AI]] literacy across the entire scholarly lifecycle rather than only in teaching and assessment contexts.
+
+## What this means for practice
+
+- **Researchers.** Define in writing which research tasks allow GenAI assistance and which do not before starting a project, mirroring how participants calibrated use by task stakes and intellectual centrality rather than by blanket permission.
+- **Supervisors.** Teach AI literacy as a research competence rather than a compliance topic: work through concrete, discipline-sensitive cases across the workflow — ideation, literature review, data processing, writing, translation — so students practice boundary judgments on real decisions.
+- **Institutions.** Write research-specific GenAI guidance, because existing policies stop at teaching, learning, and assessment and participants experienced them as abstract and misaligned with research practice.
+- **Supervisors.** Normalize disclosure of GenAI use in supervision and progress reviews, since participants weighed the stigma of "cheating" and may have withheld part of their actual practice.
+- **Researchers.** Keep GenAI in the drafting and efficiency role and draw the line where it would replace your own reasoning — participants themselves distinguished AI structuring their thinking from AI doing it for them.
+
+## Limitations
+
+- A single institution (University of Hong Kong) and 28 PGR students across seven focus groups; participants were not purposively sampled across faculties, giving an uneven disciplinary distribution with a higher share from the social sciences and limited representation from Law.
+- The design did not systematically examine departmental GenAI guidelines or supervisor perspectives, and supervisor references appeared only in passing.
+- Variation by discipline, stage of study, and familiarity with GenAI was not systematically analyzed, limiting the basis for comparative claims.
+- Reliance on self-reported interview data may introduce social desirability or response bias, and students may have underreported use out of integrity concerns.
 
 ## Connected Concepts
 - [[ai-literacy]]

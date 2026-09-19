@@ -1,7 +1,7 @@
 ---
 title: "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-07T09:30:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning, prompt-engineering, rag]
 sources: ['raw/papers/2609.03402.md']
@@ -31,6 +31,21 @@ The framework was evaluated in two complementary ways:
 - **Human evaluation:** five evaluators rated responses on quality, perceived complexity, abstraction, and processing style across 13 profiles per question (390 evaluations). Mixed-effects models found abstraction and processing preferences significantly predicted perceived response complexity, abstraction, and processing style — consistent with their intended effects — while self-assessment showed weaker effects. Bloom's level also predicted ratings, with more complex questions generally scoring lower.
 
 The authors frame the results as preliminary evidence that prompt-based personalization produces measurable, perceptible differences in response characteristics, supporting its potential for adaptive behavior in LLM-powered [[intelligent-tutoring|educational agents]]. Deployment is planned for Spring 2027 with a pilot in Georgia Tech courses, followed by larger classroom evaluation, A/B testing, and assessment of impacts on [[learning-gains|learning outcomes]] and [[student-engagement|engagement]].
+
+## What this means for practice
+
+- **Designers.** Encode learner preferences as runtime prompt attributes rather than retraining or [[discipline-specific-aied|domain-specific]] authoring, so personalization can be updated between sessions with no model changes.
+- **Designers.** Prioritize abstraction and processing-style conditioning when resources are limited: those dimensions produced the perceptible shifts in complexity and style, while self-assessment showed weaker effects.
+- **Designers.** Keep every personalized response grounded in one shared retrieved knowledge base and vary only surface form; responses stayed semantically similar while differing lexically, which is what "personalized but accurate" should look like quantitatively.
+- **Researchers.** Report lexical and semantic similarity together when claiming personalization worked — high semantic similarity alone would be evidence that the prompt attributes changed nothing.
+- **Designers.** Plan the classroom evaluation to measure [[learning-gains|learning outcomes]] and [[student-engagement|engagement]], since the current evidence covers response characteristics rather than learning.
+
+## Limitations
+
+- The human evaluation used five evaluators recruited from current and former Georgia Tech KBAI students; the authors call the findings exploratory rather than population-level and state that the small evaluator sample limits generalization.
+- The design had power to estimate main effects only — interaction effects among the personalization dimensions could not be estimated, and larger, more diverse samples are needed.
+- The NLP evaluation covers 2,910 generated responses to 30 real student questions from a single Spring 2023 Knowledge-Based AI course, measuring response characteristics rather than learner outcomes; effects on learning and engagement are unmeasured.
+- Classroom deployment had not occurred at the time of writing: integration into Jill Watson was targeted for Spring 2027 and pilot deployment in selected Georgia Tech courses for Summer 2027, with broader rollout in 2027–2028.
 
 ## Connected Concepts
 - [[intelligent-tutoring]]

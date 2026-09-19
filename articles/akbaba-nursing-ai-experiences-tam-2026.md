@@ -1,7 +1,7 @@
 ---
 title: "Nursing Students' and Faculty Experiences with Artificial Intelligence in Education: A Qualitative Study Using the Technology Acceptance Model"
 created: "2026-09-08T02:39:31-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [well-being]
@@ -29,6 +29,21 @@ stakeholders: [professional-training]
 - **Concerns temper positive attitudes.** Misinformation (notably inaccurate pharmacological content, raising patient-safety concerns), plagiarism, diminished critical thinking, and unequal access were voiced; faculty worried over-reliance could weaken analytical reasoning and academic integrity. Participants nonetheless continued using AI — a risk-benefit tension worth further study.
 - **An AI-literacy and prompting gap.** Few had formal AI education; participants urged training that goes beyond technical use to include critical questioning, prompt building, and verification of AI output. Faculty also emphasized institutional governance, ethical frameworks, and balancing AI with traditional teaching.
 - **Nursing as a leadership field.** Faculty framed nurses not just as adapting to AI but as actively shaping responsible integration in healthcare's digital transformation.
+
+## What this means for practice
+
+- **Instructors.** Build prompt construction and output verification directly into clinical coursework instead of teaching tool mechanics in the abstract: participants reported encountering incorrect pharmacological and clinical content, so require students to check AI-generated drug and care-plan claims against authoritative references before using them, and tie this to [[ai-literacy]] training.
+- **Curriculum designers.** Embed AI-supported case discussion and structured, evidence-based clinical learning activities where students already use these tools — care planning, clinical case analysis, presentation development — rather than bolting on a standalone technology elective.
+- **Faculty developers.** Train students and faculty separately: students leaned on AI for applied clinical tasks while faculty used it for course materials, literature review, and administration, so one shared training will fit neither group well.
+- **Administrators.** Pair any AI rollout with written guidance on plagiarism, over-reliance, and unequal access — the concerns participants named — under an explicit institutional [[governance]] policy rather than leaving [[equity-in-ai-education]] to chance.
+- **Instructors.** Acknowledge in class that students may turn to AI for emotional reassurance during clinical stress, and pair that acknowledgment with direct referral to human support services to protect student [[well-being]].
+
+## Limitations
+
+- Both participating institutions were in the same country, which limits how broadly the findings transfer to other nursing education systems.
+- The sample was small and purposively selected — 28 participants (16 nursing students, 12 faculty) recruited through maximum-variation sampling — restricting generalizability.
+- Only participants who had used AI for education in the past year were included, so the study represents AI users, not non-users, and says nothing about why peers avoid the tools.
+- Interviews were conducted at a single time point and rely on self-reported perceptions, leaving no view of how use changes over time and leaving room for social desirability and recall bias.
 
 ## Connected Concepts
 
