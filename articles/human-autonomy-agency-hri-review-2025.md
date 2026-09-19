@@ -1,7 +1,7 @@
 ---
 title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T11:24:16-04:00"
 type: article
 foundations: [agency]
 pedagogy: [well-being]
@@ -39,7 +39,11 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 
 ## Limitations
 
-The review is limited to 22 studies, reflecting a relatively young and methodologically fragmented literature; the two concepts (autonomy and agency) are measured with very different instruments, making cross-study synthesis challenging. The temporal scope (2011–early 2024) predates the widespread use of [[llm]]-powered social robots, so recent developments may be underrepresented. The review focuses on HRI broadly rather than education specifically.
+- **Twenty-two studies, a fragmented field.** The review rests on 22 studies, reflecting a young and methodologically fragmented literature.
+- **Two concepts, incompatible instruments.** Autonomy and agency are measured with very different instruments, which makes cross-study synthesis difficult.
+- **A window that closes in early 2024.** The temporal scope of 2011 to early 2024 predates the widespread use of [[llm]]-powered social robots, so recent developments may be underrepresented.
+- **Human–robot interaction broadly, education only in part.** The review's scope is HRI rather than education specifically.
+
 
 ## Connected Concepts
 
