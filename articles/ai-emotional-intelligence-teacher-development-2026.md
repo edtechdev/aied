@@ -1,7 +1,7 @@
 ---
 title: "Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-education, teacher-role]
 pedagogy: [well-being]
@@ -44,9 +44,9 @@ From that proposition they derive an operational framework: seven design conditi
 
 - **Conceptual, not empirical** — relational densification is proposed as an evaluative criterion and testable hypothesis, not as a demonstrated causal mechanism.
 - **Broad scope** across socio-emotional development, governance, and political economy means depth in any single area is limited.
-- **Evidence on emotional support from conversational agents is mixed** and highly dependent on implementation conditions, as the authors themselves note.
+- **Evidence on emotional support from conversational agents is mixed** and highly dependent on implementation conditions, as the authors themselves note; **Emotional AI remains epistemologically fragile**, and the framework offers no settled answer to how cross-cultural validity of affective inference should be established.
 - **The proposed indicators are illustrative**, not a validated measurement protocol; they vary with setting, resources, and system type.
-- **Emotional AI remains epistemologically fragile**, and the framework offers no settled answer to how cross-cultural validity of affective inference should be established.
+
 
 ## Connected Concepts
 

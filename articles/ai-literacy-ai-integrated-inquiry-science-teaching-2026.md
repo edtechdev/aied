@@ -1,7 +1,7 @@
 ---
 title: "From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [inquiry-based-learning, pedagogy, self-efficacy]
@@ -42,9 +42,9 @@ The data were analyzed with partial least squares structural equation modeling, 
 
 - The cross-sectional design precludes strong causal inference: the serial chain is a theoretically grounded association, not a demonstrated developmental sequence.
 - Data come from [[self-report-measures|self-report]] questionnaires, so social desirability and subjective perception may shape responses; no classroom observation or design-task evidence was collected.
-- The sample comprised only Chinese pre-service science teachers, limiting generalizability to other countries, regions or types of teacher education institution.
+- The sample comprised only Chinese pre-service science teachers, limiting generalizability to other countries, regions or types of teacher education institution; generalizability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
 - AI-TPACK was measured as a first-order construct of perceived AI-integrated pedagogical knowledge; it did not capture the sociocultural dimension of digitality emphasized by DPACK, nor DiKoLAN AI's subject-specific competencies in data processing, simulation and modeling, and scientific information evaluation.
-- Generalizability across science disciplines (physics, chemistry, biology, earth science) was not tested; future multigroup comparisons are needed.
+
 
 ## Connected Concepts
 

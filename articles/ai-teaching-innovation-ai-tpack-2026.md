@@ -1,7 +1,7 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -45,11 +45,11 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 
 ## Limitations
 
-- **Convenience sample and self-selection.** Voluntary participation likely attracted teachers already interested in AI and more positively disposed toward innovation, and the sample is drawn from eight Chinese universities only, limiting transferability to other higher education systems.
+- **Convenience sample and self-selection.** Voluntary participation likely attracted teachers already interested in AI and more positively disposed toward innovation, and the sample is drawn from eight Chinese universities only, limiting transferability to other higher education systems; **The multi-group finding is borderline and the grouping is coarse.** The high/low usage split lumps "several times a month" together with "never," which may both weaken real group differences and, where they appear, rest on only one marginally significant path coefficient.
 - **Cross-sectional design.** The data cannot establish causal ordering; the authors note that teachers who already innovate may simply report higher competence, identity, and efficacy, so the paths may run in both directions.
 - **[[self-report-measures|Self-reported]] data only.** All focal constructs came from the same respondents at the same time, and the innovation scale retained the wording of a general innovation measure, so some responses may reflect innovative teaching in general rather than AI-specific innovation.
 - **No institutional-level controls.** University policy support, digital infrastructure, AI training provision, and organizational climate were not measured, though they plausibly shape whether competence becomes practice, and respondents were nested within universities.
-- **The multi-group finding is borderline and the grouping is coarse.** The high/low usage split lumps "several times a month" together with "never," which may both weaken real group differences and, where they appear, rest on only one marginally significant path coefficient.
+
 
 ## Connected Concepts
 

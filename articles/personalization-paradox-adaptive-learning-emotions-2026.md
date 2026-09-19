@@ -1,7 +1,7 @@
 ---
 title: "The personalization paradox: how AI-driven adaptive learning environments are associated with college students'"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [agency, ai-literacy]
 pedagogy: [metacognition, motivation, self-regulated-learning]
@@ -39,10 +39,10 @@ Integrating control-value theory and self-regulated learning theory, the researc
 ## Limitations
 
 - **Observational design** — despite temporal separation of waves, causal inference is limited; [[rct|RCTs]] or cross-lagged panel designs are needed.
-- **Self-reported measures** — potential bias; future work should add behavioral logs, eye-tracking, or physiological indices.
+- **Self-reported measures** — potential bias; future work should add behavioral logs, eye-tracking, or physiological indices; **Common method bias** — assessed and found minimal, but not fully ruled out without multi-method designs.
 - **Restricted generalizability** — the Chinese undergraduate sample limits cross-cultural conclusions, given that AI acceptance and trust vary by context.
 - **Aggregated AI tool measure** — diverse tools were collapsed into a single composite, possibly masking tool-specific effects.
-- **Common method bias** — assessed and found minimal, but not fully ruled out without multi-method designs.
+
 
 ## Connected Concepts
 

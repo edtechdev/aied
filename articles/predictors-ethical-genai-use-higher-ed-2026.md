@@ -1,7 +1,7 @@
 ---
 title: "Predictors of the ethical use of generative artificial intelligence in higher education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [academic-integrity, ai-education, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -41,10 +41,10 @@ Measures came from a purpose-built 44-item questionnaire on a five-point Likert 
 
 ## Limitations
 
-- **Cross-sectional, non-experimental design:** no temporal precedence, so the paths are predictive associations, not causal effects.
+- **Cross-sectional, non-experimental design:** no temporal precedence, so the paths are predictive associations, not causal effects; **No competing models or cross-validation:** the [[educational-measurement|psychometrics]] come from the same sample used to estimate the structural model, and no held-out or independent data were used; alternative specifications were deliberately not estimated post hoc, so model uniqueness is not established.
 - **Non-probability purposive sampling:** with 3,850 eligible students and 980 respondents, selection probabilities were unknown; the large sample does not substitute for random selection, and self-selection and coverage bias cannot be ruled out. Generalization beyond the participating students and institution is cautioned.
 - **[[self-report-measures|Self-reported measures]]:** susceptible to social desirability bias and to gaps between reported and actual behavior; no behavioral indicators, authentic-task data or platform logs were collected.
-- **No competing models or cross-validation:** the [[educational-measurement|psychometrics]] come from the same sample used to estimate the structural model, and no held-out or independent data were used; alternative specifications were deliberately not estimated post hoc, so model uniqueness is not established.
+
 - **Explained variance is incomplete:** a substantial share of the variance remains unaccounted for, and the authors note other individual, [[pedagogy|pedagogical]], technological and contextual factors are still at work.
 
 ## Connected Concepts

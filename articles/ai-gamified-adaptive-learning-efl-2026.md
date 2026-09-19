@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence for Essential Unidimensionality and the Limits of Subscale Scoring"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 pedagogy: [game-based-learning]
 technology: [adaptive-learning, technology-acceptance-model]
@@ -44,15 +44,11 @@ Using convenience sampling, 401 complete cases were analyzed — [[higher-ed|und
 
 ## Limitations
 
-- **No criterion validity.** The preliminary regression explained very little variance, and its sole significant predictor (frequency of use) is itself a self-report conceptually close to acceptance, so shared-method variance may explain even that association. No behavioral or learning outcome (usage logs, task completion, achievement, [[teacher-role|teacher]] ratings) and no established acceptance instrument (e.g. UTAUT) were available for convergent comparison.
-
-- **Common-method variance is an unresolved alternative explanation.** Positively worded items, a single self-report occasion, and a pronounced ceiling effect all inflate inter-construct correlations; no theoretically unrelated marker variable was collected, so marker-based tests could not be run, and the authors argue a post hoc method factor would not provide an independent test in these data. Construct heterogeneity (items referred to AI-gamified tools as a class, not one named platform) is a third, non-method account the design cannot separate.
+- **No criterion validity.** The preliminary regression explained very little variance, and its sole significant predictor (frequency of use) is itself a self-report conceptually close to acceptance, so shared-method variance may explain even that association. No behavioral or learning outcome (usage logs, task completion, achievement, [[teacher-role|teacher]] ratings) and no established acceptance instrument (e.g. UTAUT) were available for convergent comparison; **Common-method variance is an unresolved alternative explanation.** Positively worded items, a single self-report occasion, and a pronounced ceiling effect all inflate inter-construct correlations; no theoretically unrelated marker variable was collected, so marker-based tests could not be run, and the authors argue a post hoc method factor would not provide an independent test in these data. Construct heterogeneity (items referred to AI-gamified tools as a class, not one named platform) is a third, non-method account the design cannot separate.
 
 - **Informal content development.** No formal content-validity index, cognitive interviewing, piloting, or back-translation; item validity is asserted rather than demonstrated.
 
-- **Scope and sampling.** No single platform was specified, so respondents may have evaluated different applications; the sample is a single-institution convenience sample, predominantly female and first-year, precluding gender comparison and limiting generalization.
-
-- **Design coverage.** No test–retest data, so temporal stability is unknown; the trilingual single-form administration precludes language-anchored modeling and measurement-invariance tests across languages.
+- **Scope and sampling.** No single platform was specified, so respondents may have evaluated different applications; the sample is a single-institution convenience sample, predominantly female and first-year, precluding gender comparison and limiting generalization; **Design coverage.** No test–retest data, so temporal stability is unknown; the trilingual single-form administration precludes language-anchored modeling and measurement-invariance tests across languages.
 
 Next steps named by the authors: establish criterion validity against external behavioral and learning measures, anchor items to a named platform, add reverse-coded items and a marker variable, collect multi-occasion data, and replicate in larger multi-institution samples with formal tests of measurement invariance.
 

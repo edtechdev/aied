@@ -1,7 +1,7 @@
 ---
 title: "Still Emerging: Understanding Generative AI Use in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
@@ -41,8 +41,8 @@ The study collected 45 complete staff responses from a population of 318 academi
 
 ## Limitations
 
-- Small, single-institution sample with a low response rate; likely self-selection bias in favor of staff already interested in GAI, and some staff reportedly did not complete the survey because they felt they lacked knowledge.
-- Skew toward highly experienced staff and toward postgraduate students.
+- Small, single-institution sample with a low response rate; likely self-selection bias in favor of staff already interested in GAI, and some staff reportedly did not complete the survey because they felt they lacked knowledge; skew toward highly experienced staff and toward postgraduate students.
+
 - Cross-sectional design cannot track adoption over time, and perceptions are by nature impressionistic, risking conflation of personal and technological factors in a rapidly changing tool landscape.
 - Several scales failed validation and were excluded from the findings; datasets were not released because of ethics constraints.
 - The authors recommend larger and more balanced samples, and qualitative research that richly describes students' perspectives on purpose, trust and affectivity in LLM use.
