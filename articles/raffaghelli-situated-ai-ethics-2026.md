@@ -1,7 +1,7 @@
 ---
 title: "Situated AI ethics: a cultural-historical and ecological framework for education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -34,6 +34,21 @@ page_kind: [framework]
 ## Educational Significance
 
 The situated AI ethics framework offers a way to move AI ethics in education beyond abstract principle lists toward contextually grounded practice. It directly engages debates on [[teacher-ai-competency]] and [[ai-education]], providing conceptual tools for teacher [[educational-development|professional development]] and policy. By foregrounding [[ethics]] as a negotiated, ecological and socio-historically produced phenomenon, the framework supports equitable and [[culturally-relevant-pedagogy|culturally responsive]] approaches to AI integration across [[higher-ed]] and [[k-12]] settings, linking to [[learning-theories]] and [[equity-in-ai-education]].
+
+## What this means for practice
+
+- **Teacher educators.** Build professional learning around the concrete ethical dilemmas teachers face at each ecological level — self, classroom, institution, state, culture, global — rather than abstract principle lists they cannot convert into action.
+- **Policymakers.** Pair any expectation that teachers act as moral gatekeepers with the structural conditions the analysis shows they lack: protected time, autonomy over adoption decisions, and coherent cross-level policy guidance instead of compliance-driven mandates.
+- **Policymakers.** Fund critical, political, and ecological forms of [[ai-literacy]] — including the capacity to contest, resist, or refuse adoption — rather than literacy confined to technical operation.
+- **Instructors.** Treat AI adoption as a contestable pedagogical decision and design classroom activities that make a tool's embedded power relations and ethical trade-offs visible to students, instead of presenting adoption as inevitable.
+- **Researchers.** Use the five-level model to design comparative studies of how the same tool is negotiated differently across settings, treating the levels as an analytical heuristic for discussion rather than as fixed, distinct categories.
+
+## Limitations
+
+- Conceptual and comparative rather than empirical: the paper collects no primary data, so it can specify what an ethical framework for education should contain but cannot demonstrate that the framework changes teacher judgment or classroom practice.
+- The seven national cases were assembled through expert gray-literature analysis within a single EDUsummIT working group (TWG5) rather than systematic sampling, so case selection reflects the expertise and reach of that group.
+- All seven cases (Australia, Finland, England, France, Italy, New Zealand, South Korea) come from high- or upper-middle-income systems, with none from the Global South whose knowledge the paper itself argues is marginalized.
+- The authors present the five ecological levels as a useful structure for discussion rather than a claim that they are distinct, so the model still awaits empirical operationalization.
 
 ## Connected Concepts
 

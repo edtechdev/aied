@@ -264,6 +264,12 @@ document. Their saved sources now hold a marker instead of a wrong paper, and ea
 - `teacher-ai-literacy-prompt-feedback-quality-2026`
 - `voicu-ai-interpretive-cognition-ssh-2026`
 
+Two more pages state figures their saved source cannot confirm, because the source stops at the old extraction
+cap before the results and no open-access copy exists: `microbit-robotics-machine-learning-teacher-training-2026`
+(a 1.54-point coding-concepts gap) and `edurev-100741-tpack-genai-review` (effect sizes of 0.828, 0.831, 0.729 and
+0.752). The first is a ScienceDirect article behind a robot check, and Unpaywall reports the second as not open
+access at all. Their sections use those figures because the page bodies already carried them; both need the PDF.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same

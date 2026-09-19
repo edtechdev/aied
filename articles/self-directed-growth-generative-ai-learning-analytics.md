@@ -1,7 +1,7 @@
 ---
 title: "Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency]
 pedagogy: [learning-theories, self-regulated-learning]
@@ -23,6 +23,20 @@ page_kind: [framework]
 - **A [[research-methods-aied|methodological]] critique of task-level agency measurement.** The paper criticizes existing SDL/SRL studies that rely on post-task questionnaires and task-specific [[self-efficacy]] as indicators of agency, arguing this risks circular reasoning and neglects context, strategies, and feedback integration. It calls for dynamic, learner-driven [[learning-analytics|learning analytics]] that capture analytical cognition of SDL across cycles.
 - **Equity through the Capacity to Aspire, not just access.** Building on Appadurai's (2004) capacity to aspire and UNESCO's SDG 4 framing, the paper contends that educational equity requires learners — especially disadvantaged populations — to envision and pursue diverse, personalized pathways aligned with their own experiences, rather than relying on standardization or information access alone.
 - **Conceptual status explicitly acknowledged.** The study is theoretical and non-empirical, with acknowledged limits: under-theorized human–AI psychological dynamics, a need for clearer operational definitions of Self-Directed Growth, and the absence of critical theories of power, access, and technological determinism.
+
+## What this means for practice
+
+- **Learning analytics designers.** Instrument GAI as a non-prescriptive scaffold: score learner self-assessment against the Aspire to Potential Scoring Rubric as diagnostic analytics and sequence calibrated, thought-provoking prompts as interactive analytics, withholding the SDL rubric so the learner — not the model — holds the judgment.
+- **Learning analytics designers.** Capture analytical cognition across successive SDL cycles instead of relying on post-task questionnaires and task-specific [[self-efficacy]], which the paper criticizes as circular indicators of [[agency]].
+- **Designers.** Build for guided discovery rather than answer delivery, so that [[learning-analytics|analytics]]-driven prompting does not reproduce the [[cognitive-offloading|over-reliance]] it is meant to counter.
+- **Designers.** Treat [[equity-in-ai-education|equity]] as a design goal about the Capacity to Aspire — helping learners envision and pursue personalized pathways — rather than as a matter of tool access or standardized content.
+
+## Limitations
+
+- Purely conceptual: the A2PL model and the GAI–[[learning-analytics|LA]] integration are theoretical proposals with no empirical validation, pilot, or sample.
+- The framework assumes learners will engage with AI-supported feedback reflectively and strategically; variability in intrinsic motivation, metacognitive maturity, and socio-cultural positioning is acknowledged but not accounted for in the model.
+- Human–AI psychological dynamics remain under-theorized — perceived AI authority, externalization of judgment, and erosion of internal self-regulation are named as open questions rather than addressed.
+- Self-Directed Growth still lacks clear operational definitions distinguishing iterative self-directed cycles from long-term aspirational trajectories, and the framework draws only on humanistic, constructivist, and pragmatic traditions, omitting critical theories of power, access, and technological determinism.
 
 ## Connected Concepts
 

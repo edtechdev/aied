@@ -1,7 +1,7 @@
 ---
 title: "Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025"
 created: "2026-08-15T09:23:09-04:00"
-updated: "2026-08-15"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
 assessment: [item-response-theory]
@@ -22,9 +22,19 @@ methods: [meta-analysis-systematic-review]
 3. **A unified term is needed.** The review calls for a common framework to clarify definitions and enhance consistency across educational technology practice — extending Shemshack and Spector's (2020) earlier terminology review.
 4. **Research gaps persist.** Disproportionate focus on older learners; a lack of longitudinal, inclusive, and methodologically rigorous research, especially in underrepresented populations and diverse contexts; frameworks lagging behind technological innovation; and under-addressed concerns around privacy, bias, ethics, teacher preparation, and human–AI collaboration.
 
-## Implications
+## What this means for practice
 
-This review clarifies the often-conflated concepts at the heart of [[personalized-learning]] and [[adaptive-learning]], connecting them to [[intelligent-tutoring]], [[llm|LLM-based]] tutors, and [[learning-analytics]]. Its call for definitional rigor and unified terminology speaks to the knowledge base's [[limitations-in-aied-research|critique of weak and ambiguous theory/construct use]], and its emphasis on methodological and equity gaps aligns with [[equity-in-ai-education]] and [[research-methods-aied]]. For designers, it cautions that "personalized" is frequently a vague label rather than a precise, evidence-backed claim.
+- **Designers.** Stop shipping "personalized" as a capability claim: the review finds personalized learning to be an umbrella term with adaptive learning, individualized instruction, and customized learning used interchangeably, so state which mechanism — adaptive sequencing, real-time feedback, or [[intelligent-tutoring|intelligent tutoring]] — a product actually implements.
+- **Designers.** Separate adaptivity from personalization in product documentation: AI-driven adaptive sequencing is one design family in the literature, not a synonym for tailoring instruction to a learner.
+- **Researchers.** Adopt a shared definition before comparing studies: the review's central recommendation is a unified framework and definition, because inconsistent terminology is what keeps findings from aggregating.
+- **Researchers.** Fill the gaps the review documents rather than adding another short-term study of older learners: longitudinal, inclusive, and methodologically rigorous work in underrepresented populations is what the field lacks.
+- **Administrators.** Fund teacher preparation and [[human-ai-collaboration|human–AI collaboration]] alongside the technology, since [[privacy]], bias, [[ethics]], and teacher readiness are named as insufficiently addressed in the literature.
+
+## Limitations
+
+- As a systematic review, the findings are bounded by its source base — literature from 6 databases over 2019–2025 — and it analyzes terminology and concepts rather than pooling effect sizes.
+- It cannot establish which personalized-learning approach improves learning: the emphasis is conceptual and terminological, and empirical validation of the proposed unified definition remains to be done.
+- The review documents the field's own limits — little longitudinal, inclusive, or methodologically rigorous research and disproportionate attention to older learners — which caps the strength of any conclusion drawn from the body of work it synthesizes.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most"
 created: "2026-08-15T15:53:50-04:00"
-updated: "2026-09-18T20:05:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm]
 assessment: [ai-feedback-quality, educational-measurement, feedback]
@@ -43,6 +43,21 @@ Human raters then scored the feedback itself lowest on error identification and 
 ## What follows for practice and evaluation
 
 Evaluation of tutors needs three-way, ground-truth-grounded diagnosis to expose over-rejection and over-validation that binary correctness checks hide. Verification requires an independent diagnostic signal — a separate model or an explicit reasoning chain enforcing independent judgment — not sequential refinement of a flawed judgment. Until that exists, current LLM tutors risk pedagogically misleading feedback precisely where [[adaptive-learning|adaptive support]] matters most.
+
+## What this means for practice
+
+- **Instructors.** Do not let an LLM tutor hold sole judgment over student reasoning: LLaMA 3 over-rejected 91% of valid-alternative steps while Gemini and DeepSeek over-validated 69–71% of incorrect ones, so reserve unassisted LLM feedback for low-stakes use.
+- **Instructors.** Confirm optimal steps and explicitly acknowledge sound reasoning that diverges from the textbook path, so students are not steered back to the provided solution.
+- **Designers.** Delegate step-level diagnosis to a [[knowledge-graph|KG-grounded]] classifier and use the LLM for open-ended dialogue and hints, conditioning feedback on the classifier's output instead of the model's self-assessed reasoning validity.
+- **Researchers.** Evaluate tutors with three-way, ground-truth-grounded diagnosis (optimal / valid-alternative / incorrect), because binary correctness checks hide the over-rejection and over-validation failure modes.
+- **Researchers.** Require an independent diagnostic signal — a separate model or an explicit reasoning chain — rather than sequential refinement, since the Judge role anchored on and propagated the Peer's mistakes and did not consistently improve feedback quality.
+
+## Limitations
+
+- All 10,836 solution-feedback pairs were generated from LLM-simulated next-step solutions rather than authentic student reasoning; alignment between simulated and real student solution patterns is untested.
+- The 516 proof states come from a single undergraduate discrete mathematics course at one institution, spanning five difficulty levels.
+- The design captures single-step feedback only, with no multi-turn student–tutor interaction and no cumulative learning-gain measure; feedback agents were also zero-shot, after prompt refinement.
+- Findings are confined to propositional logic, where the authors can exhaustively enumerate valid inference paths in a knowledge graph; domains without tractable solution-space enumeration may behave differently.
 
 ## Connected Concepts
 

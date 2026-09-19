@@ -1,7 +1,7 @@
 ---
 title: "Reshaping education in the era of artificial intelligence: insights from Situated Learning related literature"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-education, learning-design, teacher-role]
 pedagogy: [constructivist, experiential-learning, situated-learning]
@@ -29,6 +29,19 @@ Vargas, Chiappe & Durand (2024) offer a systematic synthesis of how situated lea
 ## Educational Significance
 
 The review is significant because it bridges a classical [[learning-theories|learning theory]] and contemporary AI [[research-methods-aied|research]], showing how an [[constructivist]], context-anchored view of learning can steer AI deployment rather than merely reacting to it. For educators, it reframes the [[teacher-role]] as designer of flexible, context-connected learning spaces supported — not supplanted — by AI. For [[stakeholders|instructional designers]] and policymakers, it argues that effective [[adaptive-learning]] and [[personalized-learning]] depend on grounding AI in authentic contexts and communities of practice, and that scaling such experiences via AI can make engaged, situated learning accessible to far more students. Its insistence on human ethical guidance connects directly to ongoing debates about [[ai-education]] and the responsible integration of AI in [[higher-ed]] and schooling.
+
+## What this means for practice
+
+- **Instructors.** Design participatory simulations that combine virtual environments with real experience rather than relying on either alone, so that context stays connected to students' actual settings.
+- **Instructors.** Use AI recommendation systems to surface timely, personalized resources and [[adaptive-learning|adaptive support]], while keeping human guidance in place for ethical reasoning and for questioning AI bias.
+- **Faculty developers.** Use [[learning-analytics|learning analytics]] to identify precise teacher support needs and target professional development at the contextual-knowledge and cultural-sensitivity gaps the review documents.
+- **Administrators.** Integrate AI across curricula instead of running isolated projects, and align policy, assessment, and teacher training around contextualization, co-creation, and learner [[agency|agency]].
+
+## Limitations
+
+- The review synthesizes 60 articles drawn from Scopus alone, screened from 2,532 records and reduced through a probabilistic subsample (95% confidence, 5% error) to 276 documents; coverage is bounded by that single database and stops at 2022.
+- Its evidence is published journal text and term-frequency patterns, so the AI solutions it proposes — adaptive systems, intelligent tutoring, administrative automation, data-driven teacher support — are argued rather than independently tested.
+- Restricting inclusion to peer-reviewed journal articles excludes Gray literature and unpublished or negative results, leaving the synthesis open to publication and selection bias.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory"
 created: "2026-08-14T09:42:37-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring, personalized-learning, prompt-engineering]
@@ -26,14 +26,20 @@ confidence: high
 - **Design over frequency.** Out-of-class usage frequency showed no significant correlation with SDT variables — how the tool is used and under what design conditions matters more than how often.
 - **Reconfigured learning mode (RQ3).** Learners shifted from passive memorization/answer-confirmation toward active, interaction-based, output-oriented learning, and attributed the psychological safety they felt to the instructor's pedagogical and relational design (e.g., one learner contrasted "a rational type" general GPT with the instructor's "very bright" customized GPT).
 
-## Design Implications
+## What this means for practice
 
-1. **Instructor-designed AI tutors** (customized GPTs scoped to course objectives, learner proficiency, and a curated knowledge base) can structure AI-mediated practice more consistently than unstructured general-purpose [[conversational-ai|chatbot]] use.
-2. **Intentional error generation + AI feedback** (a three-stage sequence of knowledge activation, deliberate error production, and context-based sentence production) operationalizes the noticing hypothesis in AI-mediated tasks.
-3. **Affective safety is a product of [[learning-design|instructional design]]**, not of the technology itself — nonjudgmental, immediately responsive interaction supports relatedness for error-anxious learners.
-4. **Complementarity over substitution**: AI tutors work best alongside existing methods; learners noted usage limits and individual learning-style preferences (e.g., handwriting) as constraints.
+- **Instructors.** Build course-scoped AI tutors tied to the course objectives, learner proficiency, and a curated knowledge base rather than pointing students at general-purpose chatbots.
+- **Instructors.** Operationalize the noticing hypothesis with a three-stage sequence: activate prior knowledge, have learners deliberately generate errors, then produce context-based sentences and work through the feedback that follows.
+- **Instructors.** Design for affective safety — nonjudgmental, immediately responsive interaction — because the relatedness gains came from instructional design, not from the technology itself.
+- **Instructors.** Deploy the tutor in a complementary role alongside existing methods, since learners cited usage limits and preferences such as handwriting-based study as real constraints.
+- **Faculty developers.** Support instructors in designing AI around autonomy, competence, and relatedness, because effectiveness tracked design quality rather than how often learners used the tool.
 
- constraints.
+## Limitations
+
+- Single-course scope: 74 consenting students in one general Japanese course at one South Korean university, followed across one semester with no control or comparison condition.
+- All motivation and noticing data came from an end-of-semester self-report survey; autonomy used two single-item indicators and relatedness a multiple-response item, and optional open-ended items had varying numbers of valid responses (n = 54–68 across competence sub-domains).
+- Competence was self-assessed across six sub-domains (means 2.67–2.94), not measured by an objective proficiency test.
+- The design is correlational — out-of-class usage frequency showed no significant correlation with the [[self-determination-theory|SDT]] variables — so no causal claim about motivation or learning gains is supported.
 
 ## Connected Concepts
 

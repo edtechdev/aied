@@ -1,7 +1,7 @@
 ---
 title: "Bots and Blocks: Presenting a Project-Based Approach for Robotics Education"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [active-learning, project-based-learning]
@@ -27,9 +27,13 @@ audience: [educators, instructional designers]
 
 This is a **design/case presentation** of a project-based learning framework for robotics education. The authors describe an agile, semester-spanning project within the applied computer science degree program "Digital Technologies" in which students work with robots. They present the [[pedagogy|pedagogical]] framework and an exemplary project — the development of a disassembly software ecosystem for hardware robots — illustrating how the approach integrates practical and theoretical robotics skills.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper demonstrates how [[project-based-learning]] can address the theory-practice gap in [[higher-ed]] robotics education by giving students hands-on experience with robots over a sustained, agile project. It connects to [[educational-robotics]], [[active-learning]], [[computational-thinking]], and [[cs-education]]. For educators, it offers a model for structuring semester-long robotics projects that prepare students for industry, emphasizing practical experience alongside theory.
+- **Educators.** Run robotics as an agile, semester-spanning project rather than a single course, using two-week Sprints, twice-weekly Daily meetings, and a Review Party one week into each Sprint.
+- **Educators.** Staff the Scrum roles for teaching: a scientific staff member as Product Owner, a senior student as Scrum Master, and all students as the Development Team that self-manages the user stories.
+- **Instructors.** Front-load theory in short "schools" — a roughly 60-minute lecture, a live demonstration, and a matching exercise — then taper them from week three onward as independent project work takes over.
+- **Instructional designers.** Assess understanding of AI-assisted work through intermediate exams that make students defend and explain their own ROS-based solutions, rather than banning tools like ChatGPT and Copilot.
+- **Faculty developers.** Give project courses real curricular weight — 60 of the 180 ECTS points here — and mix cohorts across bachelor's and master's levels so junior students work alongside more advanced peers.
 
 ## Limitations
 

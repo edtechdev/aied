@@ -1,7 +1,7 @@
 ---
 title: "Positioning Generative AI in EFL Peer Feedback: Training Feedback Literacy and Enabling Uptake in Speaking Classes"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
@@ -27,12 +27,20 @@ level: [higher ed]
 - **Eight theoretical expectations:** Trainer is expected to improve attitudes, [[ai-feedback-quality|feedback quality]], judgment alignment, and feedback literacy; Synthesizer is expected to support uptake/action planning and reduce overload/affect; combined use is expected to support speaking development over time and more [[equity-in-ai-education|equitable]] participation. All remain provisional.
 - **Boundary conditions and limitations:** The account is conceptual (no new empirical data); scope is limited to EFL/ESL performative speaking in higher education; assumes adequate digital infrastructure; and acknowledges [[llm]] output unreliability ([[hallucination-risk|hallucination risk]]) and the risk of [[cognitive-offloading|overreliance]] on GenAI or crowding out human dialogue about feedback.
 
-## Implications
+## What this means for practice
 
-- Provides a concrete, theory-aligned design pattern for using GenAI as a scaffold in peer feedback — supporting rather than replacing human evaluative judgment, consistent with calls for transparent, contestable, teacher-governed GenAI use in assessment.
-- Offers teachers a replicable workflow: pre-task Trainer calibration with exemplars and rubrics, mediated scaffolds during comment [[writing-education|composition]], and post-task Synthesizer uptake reports linking themes to criteria and level-appropriate resources.
-- Sets a pragmatic research agenda — feasibility/classroom fit, effects on feedback quality and literacy, effects on uptake/affect/speaking performance, student and teacher perspectives, and contextual variation/equity — to move from design to empirical validation.
-- Frames a "middle path" between uncritical automation and blanket prohibition of GenAI in feedback processes, leveraging GenAI's efficiency in managing large volumes of data to enhance EFL/ESL classroom learning while retaining evaluative authority for teachers and students.
+- **Instructors.** Sequence peer feedback rather than assigning it: run pre-task Trainer calibration with exemplars and a rubric, scaffold comment composition through the task, then issue post-task Synthesizer uptake reports linked to criteria and learning goals.
+- **Instructors.** Keep Trainer units short, repeated, and task-aligned so calibration does not itself overload learners, and account for speaking-specific constraints — time pressure, fleeting performances, and heightened affect — by using asynchronous, recordable workflows and more than one peer rater.
+- **Instructors.** Keep the givers' voice and the teacher in the loop: preserve the original peer comments so Synthesizer output can be audited, leave grading with teachers, and let GenAI support rather than replace the evaluative judgment peers are meant to build.
+- **Designers.** Protect [[privacy]] by sending only anonymized feedback notes rather than students' oral production to GenAI, keeping prompts and rubrics teacher-designed, and retaining original comments so outputs can be checked for [[hallucination-risk|hallucination]] or bias.
+- **Administrators.** Build the [[guardrails]] before adopting the workflow: CEFR-level-matched prompts and resources, no [[automated-assessment|automated grading]], teacher-in-the-loop oversight, and an offline fallback for contexts without adequate digital infrastructure.
+
+## Limitations
+
+- The framework is conceptual and adds no empirical data: the eight theoretical expectations are propositions to be tested, not findings.
+- Scope is limited to EFL/ESL performative speaking in [[higher-ed]]; the design does not address written or product-based peer feedback.
+- It assumes adequate digital infrastructure — the proposed offline fallback is a design gesture, not an evaluated component.
+- The authors acknowledge that LLM output is unreliable (hallucination risk) and that students may over-rely on GenAI, or the workflow may crowd out the human dialogue about feedback that peer review is meant to produce.
 
 ## Connected Concepts
 

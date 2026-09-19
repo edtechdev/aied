@@ -1,7 +1,7 @@
 ---
 title: "Coding, robots, computational concepts, and machine learning using the microbit card and the Maqueen and Nezha kits. A study in initial teacher training"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [computational-thinking]
 technology: [educational-robotics, machine-learning]
@@ -31,6 +31,21 @@ page_kind: [evaluation]
 **Control condition and training gap.** The control group received the same theoretical content ([[computational-thinking]], visual programming, and robotics/AI applications in primary education) through traditional lecture-based sessions rather than hands-on activities, isolating the effect of the practical intervention. The authors frame the study around explicit training gaps in initial teacher education — limited prior exposure to visual [[cs-education]], weak conceptual grasp of sequencing/loops/conditionals, unfamiliarity with robotics hardware, and minimal experience integrating programming across curricular areas.
 
 **Implication.** Educational robotics and [[machine-learning]] activities should be embedded in [[teacher-education]] so future teachers can teach [[computational-thinking]] and [[cs-education]] in [[higher-ed]], strengthening [[educational-robotics]] across the [[cs-education]] [[curriculum-design|curriculum]].
+
+## What this means for practice
+
+- **Teacher educators.** Deliver coding and robotics as hands-on sessions rather than as lecture content: the control group received the same theory through traditional lectures and scored 1.54 points lower on the ten-item CRMT (6.05 vs. 4.51, p = .001, d = 0.638).
+- **Teacher educators.** Budget explicit time for an introductory [[machine-learning]] activity alongside block programming — only 61.9% of the experimental group agreed they knew what machine learning is after nine sessions.
+- **Curriculum designers.** Specify an affordable kit list and reuse a shared teaching guide: Micro:bit runs ~20–25 EUR, Maqueen ~50–70 EUR, and Nezha ~80–200 EUR, so the module needs no specialized laboratory.
+- **Curriculum designers.** Target the subject areas the intervention actually moved — mathematics (93.3% agreement) and art/music — and treat natural and social sciences claims cautiously, since those items were rated highly but did not differ significantly from the lecture-based control.
+- **Teacher educators.** Frame the projects around [[creativity]] and active participation, the attitude items the experimental group rated highest (90.4% for robotics enhancing creativity), and keep students in small stable teams of three to four as in the intervention.
+
+## Limitations
+
+- Group assignment was purposive and non-random, with the experimental group (n = 105) drawn from the University of La Laguna and the University of Oviedo and the control group (n = 39) from the Complutense University of Madrid, so institutional differences are confounded with the intervention.
+- The achieved sample of 144 first-year undergraduates was 90.5% female with no computing or engineering background, and the authors state this imbalance limited any analysis of gender differences in outcomes.
+- Dimension 2 results come from self-reported four-point Likert scales without established baseline equivalence; the authors caution that the perceived benefits for mathematics and the arts are perceptions, not direct evidence of learning.
+- Nine one-hour sessions in April–May 2025 constitute a short intervention in a limited number of institutions, which the authors say restricts conclusions about longer-term retention and transfer to authentic classroom practice.
 
 ## Connected Concepts
 

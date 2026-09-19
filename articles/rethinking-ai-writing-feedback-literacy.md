@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -37,10 +37,6 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 - **Revision depth:** Deep revision (L3+L4) rose from 28% (regular AI) to 32% (APCA), 45% (FRAC), 48% (combined).
 - **Transfer & retention:** FRAC and combined groups kept their advantage on a new topic (T2) and after AI support was removed (T3).
 
-## Implications
-
-The paper shifts attention from "whether AI can provide feedback" to "under what conditions AI feedback can genuinely support learning." It argues AI writing tools should not be treated merely as instant-feedback sources, but embedded in instructional support structures that develop independent judgment and self-regulated learning. This contributes directly to debates in the knowledge base about [[ai-feedback-quality]], [[feedback|Feedback Loop]] design, and the role of [[metacognition]] in [[self-regulated-learning]], and it illustrates how [[formative-assessment]] in [[writing-education]] can be enhanced by training learners' [[ai-literacy]] and evaluative judgment in [[higher-ed]]. It also cautions against passive dependence on AI, echoing concerns about [[cognitive-offloading|cognitive offloading]] in AI-assisted writing.
-
 ## Connection to Existing Knowledge Base
 
 - **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
@@ -52,6 +48,19 @@ The paper shifts attention from "whether AI can provide feedback" to "under what
 ## Methodological Notes
 
 Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, baseline-adjusted SAA models, and inter-rater reliability (Cohen's κ = 0.85 EAR; 0.82 revision depth; ICC 0.92 writing score). Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
+
+## What this means for practice
+
+- **Instructors.** Train students in a feedback-processing routine — Filter, Reason, Act, Check — rather than simply increasing the volume of AI feedback, because that training carried the writing-quality and deep-revision gains.
+- **Instructors.** Add a calibration cycle (Anchor, Predict, Compare, Adjust) when the target is accurate self-judgment: calibration training and feedback-literacy training improved different outcomes, and neither alone delivered both.
+- **Instructors.** Combine the two when writing quality is the priority: the FRAC plus APCA condition produced the largest writing-quality gain and held its advantage after AI support was withdrawn.
+- **Learners.** Treat AI feedback as a prompt to revise and re-evaluate the text rather than a verdict to accept; the regular-AI condition showed the lowest effective adoption (0.45) and the shallowest revision.
+
+## Limitations
+
+- 120 undergraduate English majors at a single university, studied across one six-week course with four writing time points, so transfer beyond this discipline, institution, and duration is untested.
+- Self-assessment accuracy was not balanced at baseline: the APCA group already showed lower raw self-assessment error, which is why the inferential SAA comparisons rely on baseline-adjusted models.
+- Effective adoption rate was measured directly only in the FRAC and combined conditions, so uptake was not compared on equal terms across all four groups.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Generative artificial intelligence as an enabler of student feedback engagement: a framework"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
@@ -43,11 +43,19 @@ These phases are interwoven with the eliciting/processing/enacting stages of the
 
 Two contrasting illustrative cases (IELTS writing with ChatGPT 3.5) ground the argument: **Student A** (low feedback literacy) used a vague prompt, received generic feedback, blindly trusted or over-copied output, and showed superficial engagement; **Student B** (high feedback literacy) used a specific, criteria-referenced prompt, exercised evaluative judgment (following up, cross-checking sources), monitored revisions and achieved deep engagement. This illustrates that feedback literacy specific to the GenAI context — including **[[prompt-engineering|prompt engineering]]**, **evaluative judgment** and **self-regulation** — must align with the GenAI environment for GenAI to be an effective enabler.
 
-## Implications for practice
+## What this means for practice
 
-- **[[teacher-role|Teacher role]]:** help students define individual feedback goals before seeking feedback, model [[metacognition|metacognitive]] planning/monitoring/evaluation strategies, and train prompt engineering and evaluative judgment.
-- **[[scaffolding]]:** the process view enables educators to design stage-specific scaffolds (e.g., prompt templates for eliciting, evaluative-judgment tasks for processing, revision monitoring for enacting).
-- **[[research-methods-aied|Research]] agenda:** the model offers a framework for systematically investigating and monitoring feedback engagement in GenAI contexts, with future work on [[discipline-specific-aied|discipline-specific]] application and how engagement evolves over time.
+- **Instructors.** Help students set individual feedback goals *before* they query GenAI, and model [[metacognition|metacognitive]] planning, monitoring and evaluation in class, so that seeking feedback becomes a planned act rather than a reflexive one. Train [[prompt-engineering|prompt engineering]] and evaluative judgment alongside it.
+- **Instructors.** Do not treat access as the intervention: design stage-specific [[scaffolding]] — prompt templates for eliciting, evaluative-judgment tasks for processing, revision monitoring for enacting — because affordances do not by themselves produce engagement.
+- **Instructors.** Build an explicit calibration step into the processing stage by requiring students to check at least one GenAI claim against an independent source before acting on it, since hallucinated or generic output is most dangerous to the students who trust it uncritically.
+- **Learners.** Work the cycle deliberately: write a specific, criteria-referenced prompt, monitor and refine the interaction as it unfolds, then review what the feedback and your revision strategy achieved before beginning the next cycle.
+- **Researchers.** Use the forethought–control–retrospect cycle as a coding and design framework, and test whether it predicts engagement in [[discipline-specific-aied|discipline-specific]] contexts and how engagement evolves over time.
+
+## Limitations
+
+- This is a theoretical synthesis with no primary data: the framework is produced by deductive reasoning in four steps (literature search, analysis, adaptation, refinement), so it can propose relationships but cannot show that they hold.
+- Its empirical grounding is two illustrative cases drawn from a single trial use of ChatGPT 3.5 on IELTS writing — one tool version and one task — used to illustrate low- and high-literacy behavior rather than to measure it.
+- The cyclical model itself is untested: the paper offers no evidence that feedback forethought, control and retrospect predict engagement or learning, and the pathway is not yet validated against feedback engagement in real courses.
 
 ## Connected Concepts
 

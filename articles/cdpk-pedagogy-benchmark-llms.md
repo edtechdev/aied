@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
 created: "2026-08-15T15:31:07-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [teacher-role]
 technology: [llm]
@@ -28,14 +28,20 @@ methods: [ai-ed-evaluation, benchmark]
 - **Efficiency frontier by size:** performance drops sharply below ~8B parameters; smaller models excel mainly in the least-challenging (Technology/General) categories, while top models are more versatile across subjects.
 - **Knowledge ≠ practice:** the benchmarks measure pedagogical *knowledge* only; they cannot capture classroom management, teacher–student relationships, or [[motivation|motivating learners]].
 
-## Implications
+## What this means for practice
 
-- Offers education-focused benchmarks to guide **model selection** for LLM-based tools (lesson-planning, assessment support, professional-learning platforms), balancing pedagogical performance against cost and deployment constraints.
-- **On-device/efficient models matter for [[global-south|LMIC]] contexts** (e.g., Liquid AI LFM-7B at 61% for 1¢/Mtoken; Gemma-3n E4B at 64%) where connectivity and hardware are limited.
-- As models approach/exceed human performance on knowledge benchmarks, **responsible deployment** ([[ethics|ethical]] [[guardrails]], [[human-in-the-loop-ai|human-in-the-loop]] systems) is needed to avoid [[cognitive-offloading|over-reliance]] and illusion of expertise among teachers.
-- The online leaderboard supports interactive, value-aware model comparison: https://www.fab-ai.org/initiatives/ai-for-education/edtech-quality/benchmarks
+- **Instructors.** Choose a model for the pedagogical job with the cost–accuracy value frontier rather than by leaderboard rank: the gap between first and second place on CDPK is under 1%, while at roughly 10 cents per million input tokens accuracy climbed from about 50% (April 2024) to 82% (June 2025).
+- **Instructors.** Treat a high CDPK score as a starting point for selecting tools, not as evidence of teaching judgment: the estimated human baseline of about 50% comes from 25,000+ Chilean teachers, and knowledge benchmarks cannot cover classroom management, teacher–student relationships, or motivating learners.
+- **Designers.** Benchmark your candidate models before shipping a lesson-planning, assessment-support, or professional-learning tool, since accuracy across 97 models spreads from 28% to 89% on CDPK and 29% to 86% on SEND.
+- **Designers.** Test small on-device models where connectivity and hardware are limited: Liquid AI's LFM-7B reached 61% for 1¢ per million tokens and Gemma-3n E4B 64%, though performance drops sharply below roughly 8B parameters.
+- **Administrators.** Pair deployment with [[human-in-the-loop-ai|human-in-the-loop]] review wherever a model's pedagogical knowledge score approaches or passes the human baseline, to avoid [[cognitive-offloading|over-reliance]] and an illusion of expertise among teachers.
 
-ty/benchmarks
+## Limitations
+
+- Rank order is not resolvable at the top: with bootstrap confidence intervals and repeated runs, the difference between the first- and second-place models is less than 1%, though differences across the full range are robust.
+- Every question comes from a single source — the Chilean Ministry of Education's teacher-development exams — and all items were translated from Spanish into English, so pedagogical priorities valued elsewhere and translation nuance may be misrepresented; comparable exams from other countries were not openly licensed.
+- One standardized few-shot prompt (three fixed examples) was used for all 97 models, a setting the authors note may handicap reasoning models, which have a separate output space.
+- The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or scaffolding a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
 
 ## Connected Concepts
 

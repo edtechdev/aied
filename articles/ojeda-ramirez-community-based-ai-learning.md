@@ -1,7 +1,7 @@
 ---
 title: "Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, human-ai-collaboration]
 pedagogy: [constructivist, sociocultural-learning]
@@ -24,13 +24,20 @@ page_kind: [framework]
 - The framework rests on three commitments: **epistemic fine-tuning** (learner-centered calibration of how AI outputs are interpreted and trusted, comparing them against lived experience, local histories, and community expertise); **redistribution of authority** (refusing AI as ultimate authority, positioning learners and communities as legitimate knowers, and cultivating technoskepticism); and **situated discernment** (collective examination of how AI infrastructures intersect with social worlds, with criticality shaped by place, geography, and local histories).
 - In practice, learners design something real for their community using AI as a design resource while community knowledge and community practitioners serve as the evaluative standard; the approach can function modularly alongside technical instruction.
 
-## Implications for AI in Education
+## What this means for practice
 
-Community-based AI learning reframes the goal of AI education away from treating [[generative-ai|AI systems]] as credible, authoritative sources of explanation and toward what the authors call epistemic fine-tuning: a learner-centered recalibration of how AI outputs are interpreted, trusted, and used. Rather than assuming AI is a resource to be consulted, calibrated, or corrected, the framework positions learners and their communities as legitimate knowers whose situated local knowledge holds interpretive authority over AI outputs.
+- **Instructors.** Have students evaluate [[generative-ai|AI outputs]] against locally grounded criteria of relevance, harm, and usefulness, treating confident answers as partial and decontextualized claims rather than as reference points for what counts as correct.
+- **Instructors.** Structure a unit in which students design something real for their community — a restaurant concept, a neighborhood tool, a local cultural archive — using AI as a design resource while community knowledge serves as the evaluative standard.
+- **Instructors.** Sequence a community-site visit before AI engagement and bring community practitioners in as co-evaluative judges, so local expertise rather than the model sets the criteria for a good outcome.
+- **Administrators.** Shift [[ai-literacy|critical AI literacy]] from generalized awareness of sociopolitical issues toward situated engagement with AI's consequences for a specific community, and leave room for limitation, refusal, or strategic non-use where critical engagement requires it.
+- **Researchers.** Treat place, infrastructure, and lived experience as constitutive dimensions of AI learning rather than as context variables, and report whether the three commitments transfer across settings through the practice of epistemic discernment.
 
-This has concrete consequences for curriculum and pedagogy. For [[ai-education|educators]], the framework calls for structured opportunities for students to evaluate AI outputs against locally grounded criteria of relevance, harm, and usefulness—positioning AI as one interpretive resource within collective sense-making rather than abandoning technical rigor. For [[equity-in-ai-education|curriculum designers and policymakers]], it shifts [[ai-literacy|critical AI literacy]] from generalized awareness of sociopolitical issues toward situated engagement with AI's consequences for a specific community, including contexts where critical engagement may require limitation, refusal, or strategic non-use rather than building with AI.
+## Limitations
 
-The framework's three commitments—epistemic fine-tuning, redistribution of authority, and situated discernment—connect AI learning to [[constructivist|constructionist]] traditions, in which learners externalize their understanding through the creation of shareable artifacts, and to community-driven learning that treats community knowledge as the evaluative standard. It grounds [[agency]] in communities' collective judgment about the relationships they want to have with technology, rather than in individual mastery alone.
+- This is a perspective paper with no empirical study behind it: the three commitments (epistemic fine-tuning, redistribution of authority, situated discernment) and the classroom unit described are illustrative, so nothing here shows that the approach changes learner or community outcomes.
+- The framework's warrant is axiological rather than measured — it argues from epistemic justice and from the claim that community knowledge is the kind of knowing AI cannot produce, and neither premise is tested.
+- It generalizes from community-based science education and constructionist traditions; no analysis is offered of how the approach performs in the settings where epistemic marginalization is most acute or how it interacts with mandated technical curricula.
+- Modular adoption "alongside technical instruction" is asserted rather than costed: the paper gives no account of the teacher time, community partnerships, or coordination a unit requires, or of how community co-evaluation would scale beyond a single unit.
 
 ## Connected Concepts
 - [[ai-literacy]]

@@ -1,7 +1,7 @@
 ---
 title: "Students' Perceptions of Generative AI-Powered Learning Analytics in the Feedback Process: A Feedback Literacy Perspective"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
@@ -27,12 +27,20 @@ The central finding is a **discrepancy between initial perceptions and actual us
 - **Redundancy and relevance limits engagement.** Some students found the functions unnecessary when feedback was already clear ("not needing to use it"), and criticized explanations as repetitive or unable to handle subject-specific content such as [[math-education|mathematics]]. These findings echo broader questions about [[ai-feedback-quality|AI feedback quality]] and when AI adds value versus when it duplicates what educators already provide.
 - **Trust and expectation-setting.** Students raised concerns about the reliability of the older ChatGPT version and about privacy (whether their details were sent to ChatGPT). The authors recommend transparency about GenAI capabilities, explainable-AI principles, and greater user control over outputs to build trust and foster sustained [[self-regulated-learning|self-regulated learning]].
 
-## Implications
+## What this means for practice
 
-- **Design for relevance and discipline-specificity.** Generic GenAI feedback that fails on subject-specific content (e.g., mathematics) or simply restates educator feedback risks being abandoned; adaptive and discipline-tailored GenAI is a clear design priority.
-- **Manage expectations to sustain engagement.** The gap between initial hype and real-world use suggests institutions should communicate clearly what GenAI can and cannot do, reducing mismatched expectations that undermine trust and usage.
-- **Empower learners as active agents.** By enabling students to seek clarification, reflect, and act on feedback independently, GenAI within LA tools can strengthen [[feedback|feedback loops]], promote [[formative-assessment|formative]] engagement, and build feedback literacy — provided learners retain control over the interaction.
-- **Measure feedback literacy via trace data.** The authors propose novel trace-data-based measures of feedback literacy to move beyond self-report, complementing [[student-experience]] survey work.
+- **Instructors.** Set expectations before deploying GenAI feedback features: a mismatch between what students expected and what the tool produced was one of three reasons that 100% positive lab reactions shrank to 50% in-semester use.
+- **Designers.** Make explanation features discipline-specific and adaptive: students criticized the ChatGPT explanations as repetitive and unable to handle subject-specific content such as [[math-education|mathematics]].
+- **Instructors.** Check what a feature adds over your own comments before offering it — redundancy with already-clear educator feedback was a stated reason for non-use ("not needing to use it").
+- **Learners.** Use explanations and visualizations as a low-stakes first pass: students reported they made sense of dense "jumbled" feedback, supported reflection, and reduced the emotional overwhelm of comments before approaching a tutor.
+- **Researchers.** Measure engagement with trace data rather than intentions: all 18 lab-session students reacted positively to the explanations, yet only 9 used the function during the semester (mean satisfaction 3.23/4).
+
+## Limitations
+
+- The study rests on a small convenience sample: 18 students completed the lab sessions and in-semester phase, so reported percentages often rest on counts of 9 or 11 students.
+- All findings come from one institution and four disciplines, and the features ran on ChatGPT 3.5 — an older model whose reliability students themselves questioned — so the design conclusions may not carry to current models.
+- The study captures perceptions and access, not learning: there was no comparison condition and no measure of feedback quality, so it cannot show that the features improved feedback use or outcomes.
+- Trace data recorded access counts (visualization engagement of 50–67% per graph), which cannot distinguish a brief glance from sustained use.
 
 ## Connected Concepts
 

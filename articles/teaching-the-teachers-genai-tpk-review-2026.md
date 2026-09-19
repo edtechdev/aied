@@ -1,7 +1,7 @@
 ---
 title: "Teaching the teachers: A systematic review of genAI-specific technological pedagogical knowledge (TPK) in teacher education"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [generative-ai]
 stakeholders: [tpack]
@@ -31,6 +31,20 @@ page_kind: [framework]
 **Limitations.** The small number of included studies reflects the field's novelty and strict PRISMA criteria; restricting the search to ERIC and EBSCO may have excluded relevant work from Scopus, Web of Science, or Google Scholar; publication bias, limited heterogeneity, time-lag bias, and the interpretive nature of thematic synthesis (no meta-analysis or effect-size aggregation was possible) constrain generalizability.
 
 **Implication.** Teacher-education programs must explicitly build teacher educators' GenAI-TPK, with HEIs enabling this through coherent strategies, supportive policies, and sustained professional learning — connecting to [[teacher-education]], [[tpack]], [[ethics]], [[curriculum-design]], and [[educational-development]].
+
+## What this means for practice
+
+- **Teacher educators.** Make GenAI-specific TPK an explicit, assessed element of initial teacher education — pedagogical reasoning, ethical awareness, and AI-augmented learning design — rather than leaving it to incidental digital competence.
+- **Teacher educators.** Teach ethical decision-making as part of technology integration: bias and fairness, accountability and transparency, [[privacy|privacy and data ethics]], and student [[cognitive-offloading|over-reliance]] recurred across the included studies.
+- **Faculty developers.** Design sustained, subject-relevant professional learning instead of one-off courses; the review found little evidence of how teacher-education programs specifically prepare future educators for GenAI and reports inconsistent institutional support.
+- **Administrators.** Establish coherent institutional strategy and supportive policy before expecting staff to integrate GenAI, since the reviewed evidence points to fragmented guidance rather than systemic preparation.
+
+## Limitations
+
+- Only 17 studies met the inclusion criteria (English-language peer-reviewed empirical work, 2022–2025), a small corpus the authors attribute to the field's novelty and their strict application of PRISMA criteria.
+- The search was confined to ERIC and EBSCO; Scopus and Web of Science were excluded because of record overlap, so relevant interdisciplinary or international work may have been missed.
+- With mostly qualitative designs, no meta-analysis or quantitative aggregation was feasible — no effect sizes or trend estimates can be drawn from the synthesis.
+- Publication bias is likely (positive findings are more publishable than null results) and heterogeneity among the included studies is limited, constraining generalizability.
 
 ## Connected Concepts
 

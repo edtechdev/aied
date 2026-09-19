@@ -1,7 +1,7 @@
 ---
 title: "Prompting for Teachability: Designing Novice Personas in LLMs for Learning by Teaching Contexts"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
@@ -31,12 +31,19 @@ audience: [researchers, edtech designers]
 - **Indirect framings dilute.** Phrases like "don't aim for a perfect score" or "you may guess" produced weaker novice behavior.
 - **Modular prompting.** The approach treats prompts as modular by separating identity, and can advance to generate LbT experiences from the very first chat turn.
 
-## Implications
+## What this means for practice
 
-1. **To build a [[learning-by-teaching|teachable agent]], engineer fallibility.** Explicit, constraint-based error-production [[prompt-engineering|prompts]] are more reliable than personas or uncertainty hints at eliciting novice behavior.
-2. **Scales LbT to less-structured domains.** Unlike hand-engineered teachable agents, [[llm|LLMs]] can create LbT opportunities in open-ended writing domains.
+- **Designers.** Engineer fallibility explicitly: use constraint prompts that force error production ("answer incorrectly," "get 2–3 wrong") rather than persona or uncertainty framings, which produced weaker novice behavior.
+- **Designers.** Keep the prompt modular — separating identity, behavior, rules, and other elements into their own slots — so each can be tuned; indirect hedges like "don't aim for a perfect score" dilute the effect.
+- **Researchers.** Pair role framing with explicit behavior constraints in [[learning-by-teaching|LbT]] designs, and measure human [[learning-gains|learning gains]] before claiming teachability benefits from simulated tutee behavior.
+- **Designers.** Use LLM tutees to open [[learning-by-teaching|LbT]] in less-structured writing domains that hand-engineered teachable agents could not cover.
 
-ting domains.
+## Limitations
+
+- The findings are exploratory: the study measures simulated novice behavior and uses automated scoring for large-scale comparison rather than direct measurement of human learning outcomes.
+- Only three models (Qwen3-235B, Llama 4, Kimi-K2) and five writing-related domains were tested, and each model generated and scored its own outputs.
+- AI-judge calibration rested on just 24 essays, each scored by one human rater; the AI judge's mean score ran higher than the human's (72.1 vs 63.3) even though the ranks correlated (Pearson's r = 0.943).
+- Prompts were run as 30,720 synthetic combinations producing short quiz answers and essays, so the durability of the prompt effects in longer, more realistic LbT interactions is untested.
 
 ## Connected Concepts
 
