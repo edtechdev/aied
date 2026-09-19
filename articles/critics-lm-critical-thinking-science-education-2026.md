@@ -1,7 +1,7 @@
 ---
 title: "CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [critical-thinking]
 technology: [educational-nlp]
@@ -65,6 +65,21 @@ Because no results are reported, the honest reading of this paper is that it con
 The strongest part of the argument is not technical but distributional. The paper frames linguistic inequality as a structural barrier: research and advanced educational resources concentrated in English and a handful of other high-resource languages limit learning opportunities for students and teachers, particularly in low-resource languages such as Basque, and hinder students learning to construct evidence-based arguments in their own language. Machine translation of scientific knowledge is treated as the enabling condition for generating education materials that relate to local students' experiences, positioning the project within [[equity-in-ai-education]] and against the [[digital-divide]] created by language rather than by access to devices.
 
 Three questions the paper leaves open deserve attention. First, whether translation quality for Basque and Lithuanian scientific terminology will be sufficient for the pedagogical claims, given that the paper itself identifies scholarly terminology as the persistent failure mode and benchmark rather than real-text evidence as the current state of knowledge. Second, whether automatically generated critical questions can be validated as measuring [[critical-thinking]] rather than surface fluency, especially across four languages where cross-linguistic comparability is asserted as essential but not yet demonstrated. Third, whether the human-variance and metric-favoritism problems the authors identify can be resolved enough for the Teacher Evaluator to support rather than substitute for teacher judgment. Future extensions mentioned are scaling to additional low-resource languages and integrating [[multimodal]] LLMs for visual scientific content.
+
+## What this means for practice
+
+- **Instructors.** Translate the source material rather than the summary: build local-language versions of primary scientific texts with terminology glossaries and term injection, because the project identifies terminological inconsistency as the persistent failure mode of domain-specific machine translation.
+- **Designers.** Write assessment items that interrogate argument structure — claims, premises, evidence, support, attack and rebuttal — instead of fact recall, since the [[automated-question-generation|Critical Questions]] layer is designed to diagnose reasoning patterns and [[misconceptions]] rather than retention.
+- **Instructors.** Treat machine-generated translations, critical questions and [[feedback]] as drafts for expert review: validation is planned at TRL 5 with natural science and AI teachers and researchers inside both the supervision and the evaluation loop.
+- **Researchers.** Adopt the project's evaluation design instead of a single metric: calibrated LLM-as-a-Judge scoring compared against human judgments, human-evaluation protocols that control rater variance, and expert scoring of grammatical correctness, relevance, semantic soundness and argumentation quality.
+- **Administrators.** Ask for cross-linguistic comparability evidence before buying multilingual assessment tools, because the authors state that automated metrics disagree with human feedback and disproportionately prefer certain systems.
+
+## Limitations
+
+- The paper reports no results: it presents objectives, six work packages, planned data sources and an evaluation methodology, and states that validation is planned at TRL 5, so every performance claim is prospective.
+- The evidence base for the translation component is English–Lithuanian results with open-weight models on [[benchmark]] data rather than real scholarly texts, a state of knowledge the authors themselves identify.
+- The automatic Critical Questions Generation task that the assessor depends on is described as "largely unexplored," and automatic evaluation of generated text remains an open problem — the project's planned automated metrics rest on a method the authors concede disagrees with human judgment.
+- Development and evaluation will draw on approximately 500 competency-based assessments already held in-house at one institution, UPV/EHU, with cross-linguistic comparability across Basque, Lithuanian, German and French asserted rather than demonstrated.
 
 ## Connected Concepts
 

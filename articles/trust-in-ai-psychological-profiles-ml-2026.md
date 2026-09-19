@@ -1,7 +1,7 @@
 ---
 title: "Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-16T08:12:19-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 pedagogy: [anxiety-and-stress, self-efficacy, well-being]
 technology: [learning-analytics, machine-learning, technology-acceptance-model]
@@ -50,6 +50,13 @@ page_kind: [evaluation]
 - Lower AI trust should not be read as unreadiness. The skeptics profile was the most resilient and the most STEM-heavy, which the authors treat as consistent with [[critical-thinking|critical evaluation]] rather than resistance to technology.
 - Institutions implementing AI-supported learning may need to attend to students' confidence, control, stress, and trust alongside technical access, and the authors argue for explainable, human-centered AI: students low in AI trust may benefit from transparent information about how systems work, their limits, and appropriate contexts for use rather than from persuasion to adopt.
 - The findings are framed as especially relevant to Minority Serving Institutions and HBCUs, where AI adoption research remains thin despite national emphasis on expanding AI research capacity, connecting the study to questions of [[equity-in-ai-education|equity in AI education]].
+
+## What this means for practice
+
+- **Instructors.** Address students as a heterogeneous audience rather than one average: three profiles emerged from the sample of 107 — Moderately Stressed AI-Positive Students (n = 39), High-Resilience Low-Stress AI-Adopters (n = 47) and Psychologically Resilient AI Skeptics (n = 21).
+- **Instructors.** Do not read lower AI trust as unreadiness: the AI Skeptics were nearly as resilient as the adopters (M = 3.91 versus 4.18), had the highest share of [[stem-education|STEM]] students (85.7%) and were 90.5% female, which the authors read as calibrated skepticism rather than resistance.
+- **Instructors.** Watch for students under strain whose AI trust is highest — the Moderately Stressed AI-Positive group scored M = 3.21 on trust with elevated stress (M = 2.29) — and treat that reliance as a support question rather than evidence of competence.
+- **Administrators.** Give low-trust students transparent information about how AI systems work, where they fail and when use is appropriate, rather than persuasion to adopt: stress and AI trust separated the profiles most sharply (partial eta squared 0.528 and 0.521).
 
 ## Limitations
 

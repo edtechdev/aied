@@ -1,7 +1,7 @@
 ---
 title: "PRISMA-LLM: An Empirical Reporting Framework for AI-Assisted Systematic Reviews"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag]
@@ -53,6 +53,21 @@ Layer three is consequence-sensitive evaluation. Minimum evaluation breadth rise
 The framework is positioned relative to adjacent proposals. PRISMA-S is the close precedent in recognizing that a technically consequential procedure requires dedicated detail; PRISMA-AI addresses reviews and meta-analyses of [[ai-technologies|AI systems]] in healthcare; PRISMA-trAIce covers AI-tool identification, human–[[student-ai-interaction|AI interaction]], performance evaluation, and limitations; PRISMA-DFLLM emphasizes domain-specific LLMs, fine-tuning, and reproducibility; and L-PRISMA adds reporting for GenAI-assisted screening. PRISMA-LLM's distinguishing claim is that its graded levels derive from observed corpus patterns rather than expert deliberation alone.
 
 The authors are explicit about the boundaries of their evidence. SciLitBench covers publications through June 2025, so 2025 results represent January through June; it is concentrated in life sciences and medicine and reflects the parent review's search and inclusion criteria. Reporting richness counts annotated evidence items, captures breadth with limited within-dimension depth, and is not a validated study-quality score. The complexity gradient may be confounded by study purpose, venue, task, publication year, or the fact that engineered workflows are more often themselves the object of method development. Crucially, paper-level absence of evaluation does not prove that no validation exists elsewhere — a product report, protocol, repository, or prior publication may carry it. And the checklist combines empirical observation with workflow experience and prior guidance without formal consensus development or prospective user testing. PRISMA-LLM is therefore not an official extension endorsed by the PRISMA Executive; it is a proposal offered for testing and revision. For [[ai-use-disclosure|disclosure]] practice in [[ai-education|AI in education]] and elsewhere, its practical contribution is a concrete vocabulary: what the system received and produced, what humans checked, where failures occurred, and how those failures could have affected the evidence base.
+
+## What this means for practice
+
+- **Researchers.** Disclose the workflow at the implementation level actually used — product and version at Level 1, prompts and inference settings at Level 2, retrieval sources and parsing or chunking at Level 4 — because 38.0% of software/product papers since 2023 reported no evaluation at all, against 9.3% of LLM papers.
+- **Researchers.** Set validation by consequence rather than by tool complexity: an off-the-shelf product used to autonomously exclude records may need more stringent checks than a multi-agent system drafting text that authors fully verify, since the levels are disclosure tiers, not risk tiers.
+- **Researchers.** Put failure modes and false positives and negatives in the results section rather than a passing mention: median screening precision was 0.667 for software/products, 0.695 for LLMs and 0.742 for earlier machine-learning methods, with individual papers spanning far wider ranges.
+- **Researchers.** Name the human checks explicitly — who reviewed AI outputs, what proportion was independently checked, how disagreements were adjudicated, and who retained responsibility for consequential decisions.
+- **Researchers.** Report parameter and prompt sensitivity (flagged by 40% of LLM papers in the corpus) alongside small or narrow data (45%) and limited validation (32%).
+
+## Limitations
+
+- **Corpus boundary.** SciLitBench covers publications through June 2025, so its 2025 results represent January to June only, and it is concentrated in life sciences and medicine — 548 of 888 papers (61.7%) — reflecting the parent review's search and inclusion criteria.
+- **The reporting-richness index is descriptive.** Its 0-15 scale counts annotated evidence items, captures breadth with limited within-dimension depth, and is not a validated study-quality score.
+- **Paper-level silence is not proof of absence.** A software or product paper that reports no evaluation may still have validation in a product report, protocol, repository or prior publication, so the 38.0% figure is a reporting pattern rather than an audit of practice.
+- **No consensus development or user testing.** The checklist combines empirical observation with workflow expertise and prior guidance, and PRISMA-LLM is offered for testing rather than endorsed by the PRISMA Executive.
 
 ## Connected Concepts
 

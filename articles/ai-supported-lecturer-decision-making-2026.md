@@ -11,7 +11,7 @@ audience: [instructors, researchers, administrators, learning designers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:56-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 ---
 
 > **Synthesis:** A PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 27 empirical studies published between 2016 and 2025 develops an empirically grounded taxonomy of AI-supported lecturer decision-making, organized across four interdependent dimensions: decision types, AI system types, student data and [[learning-gains|learning outcomes]]. Eight decision types are identified, but AI support clusters tightly in three of them — instructional, [[feedback]] and [[assessment]] decisions — while emotional, [[ethics|ethical]], administrative, [[curriculum-design|curriculum]] and learning-environment decisions remain underrepresented. [[learning-analytics|Learning analytics]] [[visualization|dashboards]] were the most frequently reported system type, and they overwhelmingly made textual and log data visible. Read socio-technically, the reviewed systems rendered behavioral student data actionable and thereby channelled lecturers' attention toward behavioral outcomes, leaving motivation, [[metacognition]], emotion and learning-environment concerns comparatively unsupported.
@@ -32,6 +32,20 @@ The review deliberately separates what the studies found from what the authors r
 - Treat dashboards as an attentional intervention: the metrics displayed determine which student states lecturers act on.
 - Widen the data base beyond text and logs, where multimodal and interaction-based data remain rare in the evidence.
 - Note the honest constraint the review states about itself: the taxonomy describes how the literature is distributed, not causal relationships established by the included studies.
+
+## What this means for practice
+
+- **Instructors.** Inventory the decision types your current tools actually inform, then deliberately reserve attention for the emotional, [[ethics|ethical]] and [[curriculum-design|curriculum]] decisions the review found AI ignores. Behavioral dashboards nudge you toward what they display, not toward what students need.
+- **Administrators.** Ask vendors which of the eight decision types a system supports before purchase, and treat the unsupported categories — emotional, ethical, administrative, curriculum and learning-environment — as gaps to cover through staffing rather than features to assume.
+- **Designers.** Surface interpretive context rather than more data volume, and add indicators for [[motivation]], [[metacognition]] and emotion so that non-behavioral student states become visible enough to act on.
+- **Researchers.** Adopt the eight decision types and the timing codes (pre-interaction, real-time, post-interaction) as a coding scheme, and target the thin pathways the review maps: [[multimodal]] and interaction-based data, [[agentic-ai|agentic AI]], and affective outcomes.
+
+## Limitations
+
+- The evidence base is small and uneven: several categories rest on very few studies (agentic AI systems, n = 4; image and biological data, n = 1 each), so the reported frequencies are indicative rather than representative.
+- Publication bias applies, since studies reporting successful implementations are more likely to be published, and the exclusion of preprints and non-English publications further limits coverage.
+- AI in education is developing rapidly and the search was completed in October 2025, so the distribution reported is a snapshot of the literature at that point rather than a stable characterization of the field.
+- The review synthesizes how systems were designed and described by their authors, not how lecturers used them; its socio-technical reading therefore concerns the informational conditions these systems create, not their effects on decision-making.
 
 ## Connected Concepts
 - [[learning-analytics]] — dashboards as the dominant system type

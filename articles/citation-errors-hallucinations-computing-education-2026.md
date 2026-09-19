@@ -1,7 +1,7 @@
 ---
 title: "Testing Our Foundations: Citation Trends, Errors, and Emerging Hallucinations in the Computing Education Literature"
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -70,6 +70,21 @@ The response the paper advocates is explicitly collective rather than technologi
 ## Relevance to the knowledge base
 
 This is a field-level integrity audit rather than a study of learning or teaching, and its value for the knowledge base is as a check on the evidentiary substrate of everything else. Research syntheses on [[generative-ai]] in [[cs-education|computing education]], [[meta-analysis-systematic-review|systematic reviews]], and [[peer-assessment]]-mediated evidence all depend on references that can be traced to real publications; a 2.3% rate of fabricated references in a flagship proceedings, concentrated in the very recent, [[llm]]-era window, means downstream syntheses inherit a small but growing contamination risk. The paper also underscores a design lesson for AI-assisted research workflows already documented in the knowledge base: [[hallucination-risk]] is not a conversational curiosity but a bibliographic one, and the most fragile field — authorship — is exactly the one that carries credit and accountability. It pairs naturally with work on [[academic-integrity]] and [[ai-detection]] in assessment, extending the integrity conversation from student work to the published scholarship that instructors and researchers themselves produce.
+
+## What this means for practice
+
+- **Researchers.** Verify every reference you cite, and do not cite a work you have not personally checked — the 30 fabricated references cluster in 2025 and 2026, the window in which [[generative-ai|generative AI]] entered writing workflows.
+- **Researchers.** Check author names first when auditing a reference list: 17 of the 30 fabricated references were hybrids pairing real titles with wrong authors, and all 17 invented at least some author names.
+- **Instructors.** Teach verification as research conduct rather than as a plagiarism rule, having students trace author fields against the publication record, because author names are the least reliable and most damaging field in an [[llm|LLM]]-generated citation.
+- **Instructors.** When you supervise or review submissions, run targeted checks on high-risk references and return flagged entries to authors instead of attempting a full manual audit you cannot complete.
+- **Researchers.** Report suspected fabricated references after publication; arXiv has proposed lengthy bans for authors submitting them and some computing education venues now list them among the grounds for desk rejection.
+
+## Limitations
+
+- The headline count of 30 is a deliberate lower bound: references qualified only when they contained verifiably fabricated bibliographic information, so incomplete or merely erroneous references were excluded rather than counted.
+- Coverage of 2026 is partial because the ACM Digital Library snapshot was taken on 1 April 2026, and UKICER, ITiCSE and CompEd had not yet run that year, making any 2026 cross-venue comparison invalid.
+- Each of the 828 suspicious records was coded once, with two coders dividing them evenly within each year, so no inter-rater reliability is available for the manual classification, and the candidate flagging relied on a locally hosted Qwen3.5-4B parse plus fuzzy matching against ACM metadata that itself produced 229 mismatch cases.
+- The audit covers only papers that survived peer review; given typical acceptance rates the submission stage likely contains a much larger population of fabricated references than the published record shows.
 
 ## Connected Concepts
 

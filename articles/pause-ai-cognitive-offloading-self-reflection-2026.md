@@ -1,7 +1,7 @@
 ---
 title: "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, reducing-ai-misuse]
 pedagogy: [metacognition, self-regulated-learning]
@@ -61,6 +61,21 @@ The recommendations, by contrast, draw on evidence that engagement style matters
 ## Limitations the Author States
 
 The stated limits are unusually explicit. Self-report of offloading is susceptible to the very faculty it concerns — a person whose critical-thinking habits have decayed may have decayed insight into the decay — and the probes only partially mitigate this. Correlation is not causation: the tool can describe a pattern but cannot show that a user's pattern was caused by LLM use, nor that AI use changed anyone's abilities. Sampling is non-representative, since voluntary takers are not a population sample, and the four-domain structure is a working organization rather than a confirmed factor structure; whether AI-associated cognitive offloading is even a coherent construct distinct from general technology dependence remains open. Several anchoring studies are recent preprints, and several items conflate early consultation with substitution: a respondent who deliberately brings AI in as a [[scaffolding|scaffold]] at the start of a task will honestly endorse items such as B2, C1 and D1 and read as offloading, because the items measure when and how often AI enters the workflow rather than whether the user's own reasoning stayed engaged. The reasoning probe is easier than free-response flaw identification and rewards statistical training, the creativity heuristic captures fluency and flexibility but not originality or elaboration, and because both pools and dictionaries are public the scoring is satisfiable by keyword stuffing — a threat the author discloses rather than defends against, on the grounds that the threat model is self-deception, not adversarial input. The tool is not designed for minors.
+
+## What this means for practice
+
+- **Instructors.** Use PAUSE as a conversation starter, never as an assessment: it presents no reliability or validity evidence, and the paper states a reading must not justify hiring, admissions, performance evaluation, or clinical or [[assessment|educational assessment]] of anyone.
+- **Instructors.** Pair the self-check with the counter-design practices it recommends — brain-only literature reading sessions, blank-page warmups, AI-free first drafts, and deliberate alternation between assisted and unassisted work — rather than acting on a reading as if it were a verdict.
+- **Designers.** Copy the [[privacy]] pattern the tool demonstrates: static HTML, CSS and JavaScript with no backend, no third-party requests, and no LLM in production, so responses, scores and free text never leave the browser.
+- **Designers.** Branch feedback on the respondent's self-identified role, as PAUSE does across researcher or academic, creative professional, student, knowledge worker, and software or data engineer, and report each of the four domains separately instead of collapsing them into one composite.
+- **Instructors.** Teach the difference between scaffolded consultation and substitution explicitly: items such as B2, C1 and D1 count an AI-assisted first pass as offloading even when the learner deliberately uses the tool as a [[scaffolding|scaffold]], so name that boundary when discussing AI use with students.
+
+## Limitations
+
+- The tool presents no reliability or validity evidence, and the four-domain structure is a working organization of the literature rather than a confirmed factor structure; whether AI-associated cognitive offloading is even a coherent construct distinct from general technology dependence remains open.
+- Self-report of offloading is susceptible to the very faculty it concerns — a person whose critical-thinking habits have decayed may also have decayed insight into the decay — and the two behavioral probes only partially mitigate this.
+- The scored items conflate early consultation with substitution, so a respondent who deliberately brings AI in as a scaffold at the start of a task will honestly endorse items B2, C1 and D1 and read as offloading.
+- The object pool and category dictionaries are public, so the creativity probe is satisfiable by keyword stuffing; the author discloses this threat rather than defending against it, on the grounds that the threat model is self-deception rather than adversarial input.
 
 ## Connected Concepts
 

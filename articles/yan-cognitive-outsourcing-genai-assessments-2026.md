@@ -1,7 +1,7 @@
 ---
 title: "From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition, student-engagement]
@@ -44,6 +44,21 @@ confidence: high
 - **Target the efficiency paradox directly:** The largest at-risk group holds mastery goals but lacks the [[metacognition|metacognitive]] strategies to avoid detrimental [[cognitive-offloading|offloading]] by default — pedagogical support should focus on monitoring, reflection and dialogue competence for this group.
 - **Reconsider what counts as learning:** When GenAI removes the searching burden, cognitive effort is reallocated rather than reduced, raising questions about whether surface output quality can evidence genuine learning and pushing assessment toward [[evaluative-judgment|judgment]] and process evidence.
 - **Treat GenAI as a potential co-regulator:** Under sustained reflective dialogue, GenAI can take on more-knowledgeable-other-like functions — prompting, explaining and offering alternatives — but only when learners have enough [[ai-literacy|GenAI literacy]] to structure the interaction ([[human-ai-collaboration]]).
+
+## What this means for practice
+
+- **Instructors.** Replace blanket plagiarism bans with task-specific guidance naming the cognitive work students must retain: all 38 participants reported that instructors prohibited copying while giving almost no concrete guidance on productive [[generative-ai|GenAI]] use.
+- **Instructors.** Require process evidence such as short reflections on how GenAI was used alongside independent reading and drafting — 78.94% of students used it either before starting or after drafting, detached from the work itself.
+- **Instructors.** Demonstrate sustained, iterative AI dialogue rather than only [[prompt-engineering|prompting]] technique; 76.32% of students defaulted to an ask–answer–stop pattern with single-turn prompts.
+- **Instructors.** Target the learning-assistant majority (n = 31), which holds mastery goals but defaults to passive question-answering and reported mental complacency and fast forgetting — this is the group where [[metacognition]] support changes behavior.
+- **Researchers.** Test whether the outsourcing-to-reallocation framework holds in more diverse cultural and pedagogical settings with [[quantitative-research|quantitative]] designs.
+
+## Limitations
+
+- The findings rest on a qualitative sample of 38 undergraduates, 19 from Japan and 19 from China, recruited voluntarily through personal introductions and student networks.
+- Engagement was classified from semi-structured interviews and 125 submitted dialogue rounds, so figures such as 76.32% single-turn use and 78.94% fragmented integration describe these students' reported and logged interactions rather than observed learning.
+- Outcomes were self-perceived rather than measured: the product dimension of the 3P model captured students' own reports of overreliance, complacency and forgetting, not performance data.
+- The sample was intentionally scoped to East Asian educational contexts, and the authors call for large-scale [[quantitative-research|quantitative]] testing and validation in more diverse settings.
 
 ## Connected Concepts
 

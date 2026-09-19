@@ -1,7 +1,7 @@
 ---
 title: "Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 technology: [intelligent-tutoring, edtech-platform]
 assessment: [assessment, learning-gains]
@@ -53,6 +53,21 @@ The engagement results illustrate the paper's discipline about inference. The po
 The limitations section names five constraints directly: missing post-test data for 30.7% of baseline participants; AI marking checked by teachers but not replaced by independent blinded assessment; short follow-up; process evidence from 6 of 39 teacher trials; and engagement analyses vulnerable to post-randomization selection. A final limitation is definitional — the study evaluates one configuration of one platform at one point in its development, which is precisely the problem the paper's wider argument addresses. Funding came from Medly, which commissioned the evaluation, and the authors state no other competing interests.
 
 The constructive claim is that these limits do not make an initial estimate uninformative; they define what the next evaluation cycle must test more securely. The mature question shifts from "what is the effect of this platform?" to "what distribution of effects is produced when this evolving AI-supported pedagogical approach is implemented across pupils, teachers, contexts and technological versions?" For developers the proposal makes evaluation part of responsible product development rather than a certification exercise conducted after the fact; for schools it offers a way to contribute to a shared evidence base while testing questions in authentic settings; for evaluators it requires common protocols, secure randomization, transparent reporting, consistent core outcomes and explicit version documentation.
+
+## What this means for practice
+
+- **Teachers.** Position the platform as revision support on content already taught, at the tested dose of roughly 30 minutes of activity per week across four weeks in Years 9 and 10 — not as a replacement for instruction.
+- **Teachers.** Judge the payoff against your own topic assessments: the adjusted gain was 2.56 marks on a five-question, 35-mark GCSE-aligned test (Hedges' g = 0.33), so plan for a modest improvement rather than a step change.
+- **Educators.** Expect similar effects for disadvantaged pupils, not a closing gap: the treatment-by-status interaction was 0.57 marks (95% CI -2.25 to 3.39), with g = 0.28 among Pupil Premium and g = 0.35 among non-Pupil Premium students.
+- **Educators.** Clear device-access and login friction before scaling out, and use a platform that randomizes allocation itself so that assignment stays out of teacher and researcher hands.
+- **Researchers.** Document the configuration evaluated — model version, prompts, content, safeguards — because the estimate describes one versioned configuration of one platform at one point in its development.
+
+## Limitations
+
+- **Substantial and differential attrition.** Only 644 of 929 randomized students completed post-testing (30.7% missing), and loss to follow-up was higher in the control arm (33.2%) than in the intervention arm (27.7%), which the authors flag as a potential source of bias.
+- **Non-standardized, teacher-checked outcomes.** Attainment was five curriculum-aligned questions per subject out of 35 marks, with different items at pre- and post-test, and AI marking was checked and amendable by the class teacher rather than replaced by independent blinded assessment.
+- **Four-week follow-up.** The trial captured short-term learning on a topic that had already been taught, not persistence, transfer, or examination performance.
+- **Thin process evidence and post-randomization engagement.** Only 6 of 39 teacher trials returned a process survey, and the 0.18-marks-per-additional-question association conditions on engagement observed after randomization, so it cannot be read as a causal dose-response.
 
 ## Connected Concepts
 

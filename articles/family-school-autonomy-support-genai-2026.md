@@ -12,7 +12,7 @@ audience: [instructors, researchers, administrators]
 level: [k 12, early childhood]
 page_kind: [framework]
 created: "2026-09-13T08:04:43-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 ---
 
 > **Synthesis:** This mini review argues that the question of children's [[generative-ai|generative AI]] use is the wrong frame, and that the productive question is whether the adults around them support autonomy rather than control. Organizing a scattered literature through [[self-determination-theory]], the authors distinguish dependent from autonomous [[cognitive-offloading]], map the psychological pathways from AI use to learning engagement and to [[academic-integrity]], and set out a developmental research agenda. Their central analytical move is to treat the family-school coordination that most guidance assumes as an untested hypothesis: two literatures on non-overlapping samples have never been tested together, and the review specifies three competing models — additive, synergistic and compensatory — that would discriminate between them.
@@ -29,6 +29,21 @@ The synthesized guidance literature pushes risk management onto families and sch
 
 ## Equity and design considerations
 The research agenda also names the conditions that make blanket advice unsafe. Comparative work across [[early-childhood-elementary-ai-education|early childhood]], [[k-12|primary school]], adolescence and [[higher-ed|higher education]] is rare despite developmental theory predicting different risks. Participants in the behavioral-measurement studies are often minors, so [[privacy|privacy-preserving]] protocols are treated as a precondition rather than an afterthought. The review closes with participatory design and [[governance]] as directions, arguing that [[curriculum-design|curriculum]] work should integrate AI competencies into broader [[ai-literacy|digital literacy]] while specifying developmental progression.
+
+## What this means for practice
+
+- **Instructors.** Design tasks so that AI scaffolds rather than substitutes, and assess the process: dependent and autonomous [[cognitive-offloading|offloading]] produced identical immediate performance benefits, yet only autonomous offloading preserved [[motivation|intrinsic motivation]] and perceived [[learning-gains|outcomes]].
+- **Instructors.** Pair AI use with high-challenge, high-support task designs, since positive engagement associations appeared in high-challenge, high-support classrooms and reversed in low-challenge, high-support settings — the task, not the tool, carries the sign of the effect.
+- **Administrators.** Stop treating family–school coordination as established practice and fund the factorial test that would discriminate the additive, synergistic and compensatory models, contrasting family-only, school-only, coordinated and usual-practice guidance.
+- **Researchers.** Measure autonomy support in both home and school settings for the same students, with power for an interaction rather than main effects and with behavioral rather than [[self-report-measures|self-reported]] indices.
+- **Administrators.** Commission developmentally sequenced [[ai-literacy]] curricula that specify progression from [[early-childhood-elementary-ai-education|early childhood]] through [[higher-ed|higher education]], because comparative evidence across these stages is rare.
+
+## Limitations
+
+- Of the 46 primary-data studies reviewed, 35 sampled university students and only 8 included anyone under 18, so every developmental claim about children is an extrapolation rather than a tested result.
+- The evidence is largely cross-sectional: 26 studies were cross-sectional, 4 used two or more waves, and only 2 were experimental, which limits causal and developmental inference.
+- No cited study measured family and school inputs in the same participants — four measured a family input and 15 a school input — so the coordination in the review's framework is a specification to be tested, not an observed mechanism.
+- This is a narrative mini review rather than a systematic-review protocol, and the underlying measures of AI literacy, dependence and overreliance were largely developed in single-country or specialized university samples.
 
 ## Connected Concepts
 - [[self-determination-theory]] — the organizing framework for autonomy support

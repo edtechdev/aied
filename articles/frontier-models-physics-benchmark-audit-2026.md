@@ -1,7 +1,7 @@
 ---
 title: "How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-14T09:12:54-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [llm]
@@ -53,6 +53,21 @@ The paper's most transferable argument concerns when a benchmark stops working. 
 The related work places the finding in a familiar trajectory. Bowman and Dahl's criteria for adequate benchmarks — validity, reliable annotation, adequate statistical power, and disincentives for biased models — bear directly on the case: at high accuracy, a fixed benchmark loses the statistical power to distinguish 98% from 98.1% at any reasonable cost, and reliable annotation requires separating mislabeled items from items that have no clear right answer. The SWE-bench precedent is the closest analogue: expert review motivated the Verified subset, yet a later audit still found material problems in 59.4% of 138 Verified tasks, and defects survived two rounds of curation even in a domain where every task ships with an executable test. Physics benchmarks, graded against written reference solutions with no comparable check, have no structural reason to be cleaner. Anthropic's separate audit of CritPt — expert revisions to 31 of 71 problem statements, with Fable 5.1 reaching 88.4% mean@16 on CritPt-Corrected — independently corroborates that correction changes the measured result.
 
 For [[limitations-in-aied-research|AIED research]] the practical consequences are direct. Any evaluation of an [[intelligent-tutoring|AI tutor]], grader, or problem generator that inherits questions and reference solutions from these benchmarks inherits their defect rate, and [[automated-assessment|automated scoring]] pipelines trained or calibrated against those labels reproduce the same errors. The authors' prescription is a new class of benchmark built from genuinely hard physics tasks with verified reference solutions, adequately resourced for high-quality expert curation. For education specifically, the same logic implies that instrument validation must be treated as an ongoing, expert-driven activity rather than a one-time construction step, and that reported model failures on any fixed closed-ended set should be audited before they are used to justify claims about what learners can or cannot do with AI.
+
+## What this means for practice
+
+- **Assessment professionals.** Audit the items before citing a benchmark score as evidence of capability: of 250 expert-reviewed rejections, 238 (95.20 percent) were benchmark or grader defects and only 12 (4.80 percent) were genuine model errors.
+- **Researchers.** Re-grade the questions a model fails on every attempt instead of trusting aggregate scores — restricting the audit this way captured 502 questions, and on CMT-Benchmark reviewers found benchmark errors in 30 of the 50 questions.
+- **Assessment professionals.** Prefer expert-authored instruments when the question is whether a model can reason: PHYBench, PRISM-Physics and UGPhysics are drawn or adapted from publicly available physics exercises and carry a plausible route to training-data contamination.
+- **Researchers.** Treat instrument validation as an ongoing, expert-driven activity rather than a one-time construction step — even the HLE-adapted pipeline used for every corrected evaluation carried a 4.08 percent grader error rate — and check whether any AI tutor, grader or problem generator built on these items inherits their defect rate.
+- **Researchers.** Read near-saturation on closed-ended problem sets as a limit of the instrument, not as general physics ability: GPT-based agentic harnesses that made progress on open mathematics conjectures made considerably less progress on theoretical physics and had not fully solved a single open problem they attacked.
+
+## Limitations
+
+- The audit was restricted to questions where all of GPT-5.6-Sol High's attempts were evaluated as incorrect, so defects sitting on items that model happened to answer correctly are invisible by construction; of the 502 questions captured, only 250 were rejected and sent for expert review.
+- Only three frontier models were scored (GPT-5.6-Sol, Claude Fable 5, Gemini 3.1 Pro), and the corrected figures rest on one evaluation pipeline whose own grader error rate was 4.08 percent.
+- Per-question grader judgments were unavailable for CMT-Benchmark and CritPt, leaving their grader-error counts indeterminate, and because CritPt's official reference solutions were not public, reviewers solved the 56 audited challenges themselves to establish references of their own making.
+- Reference solutions are public for only 100 of PHYBench's 500 questions, which restricts that analysis, and the benchmarks drawn from public examinations stay exposed to training-data contamination regardless of the repairs.
 
 ## Connected Concepts
 

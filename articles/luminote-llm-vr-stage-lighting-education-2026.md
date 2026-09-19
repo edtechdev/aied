@@ -5,7 +5,7 @@ foundations: [learning-design, teacher-role]
 pedagogy: [experiential-learning]
 technology: [generative-ai, human-in-the-loop-ai, llm, multimodal, virtual-and-augmented-reality]
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 sources: ['raw/papers/luminote-llm-vr-stage-lighting-education-2026.md']
 confidence: high
 research_method: [system development, user study]
@@ -48,6 +48,20 @@ Instructors did not treat generated suggestions as finished teaching plans. T3 i
 ## The Representation-Alignment Gap Between Experts and Novices
 
 The sharpest finding is a mismatch between expert-facing and learner-facing representations. Instructors rated AI-generated lighting demonstrations and directional arrows as the most effective functions, both at 6.0 on a seven-point scale, and described arrows as externalizing relationships such as light direction and beam behavior that are hard to communicate verbally; they rated console action tags and the animated instructor avatar lower, both 5.0. Students inverted the ranking: the green laser pointer was most helpful (M = 5.50, SD = 1.17), followed by console panel tagging with suggested actions and values (M = 5.33, SD = 1.15) and lighting demonstrations (M = 5.25, SD = 0.87), while spatial arrow annotations and the avatar were moderate (both M = 4.58) and star-shaped highlights ranked lowest (M = 4.33, SD = 1.30). Learner comments point to why: one student noted the theater "is large, it's very hard to intuitively understand which part to focus on, so laser can help", and another that tagging on buttons and sliders showed "what to do exactly". Novices needed representations that answer where to look, what changed, and which operation produced the change — attention guidance and operation linkage, not a reproduction of the expert's spatial reasoning. Outcome measures reinforce the caution: presence was higher in the With LLM condition (M = 5.72, SD = 0.82) than without (M = 4.93, SD = 0.80; t(22) = −2.40, p = .025, d = 0.98), and 8 of 12 With-LLM students described specific techniques such as "blurring the inner ring to reduce hardness" versus 9 of 12 No-LLM students leaning on abstract descriptions like "personal feeling", yet SUS, NASA-TLX, learning self-ratings, completion time, and expert task scores showed no significant differences. The authors therefore position the LLM as a potential mediation layer that preserves the instructor's intended concept while translating its visual and technical presentation for learners, and they note that longer-term study is needed to know whether richer representations affect retention or [[transfer-of-learning]] rather than only articulation. The four transfer conditions they distil — under-specified expert intent, executable environmental state, a bounded operational vocabulary, and retained expert authority — generalize the pattern to other immersive domains such as [[chemistry-education|chemistry]] demonstration, with the explicit caveat that technical executability in a [[simulation]] does not imply pedagogical appropriateness.
+
+## What this means for practice
+
+- **Instructors.** Anchor spatial references by pointing rather than naming them: 26 of the 28 rejected fixture/configuration actions traced to directional-reference misreads such as "left light" or "side light".
+- **Instructors.** Aim AI assistance at expressive, under-specified goals and expect to reprompt rather than hand-fix — visual effects reached 86.5% adoption (212 of 245 actions) against 57.6% for fixture/configuration requests, and 127 of the 147 rejected or modified suggestions (86.4%) were followed by a new prompt.
+- **Designers.** Build learner-facing representations around attention guidance and operation linkage, not around the expert's spatial reasoning: instructors rated directional arrows and demonstrations 6.0 out of 7, while students ranked the laser pointer highest (M = 5.50) and arrows lower (M = 4.58).
+- **Designers.** Constrain generation and require approval instead of trusting the model: bound what can be changed, referenced and represented, validate actions before they reach the instructor, and keep apply, reject and refine in the instructor's hands, since the constraints bound the proposal space without guaranteeing pedagogical appropriateness.
+
+## Limitations
+
+- The evaluation rests on 3 instructors and 24 students (10M, 14F; ages 18–31, M = 22.62, SD = 4.15) who were all "none" or "beginner" VR users, and with n = 3 instructor measures were summarized descriptively rather than tested.
+- The instructor phase ran in a fixed No LLM-then-With LLM order, so the descriptive falls in NASA-TLX (3.50 to 2.22), mean session duration (19 min 34 s to 12 min 33 s) and SUS (65.83 to 79.17) may partly reflect practice or order effects.
+- The learner phase used recordings created by a single instructor and bundled multiple demonstrations into one With LLM condition, so it cannot isolate the LLM or any single feature — and SUS, NASA-TLX, learning self-ratings, completion time and expert task scores showed no significant differences.
+- Adoption counts across the 531 prompt–action pairs are interaction-level indicators of whether a suggestion entered the teaching flow, not measures of model accuracy or pedagogical correctness, and all results come from one Unity implementation on Meta Quest 3 in a single theater-hall digital twin.
 
 ## Connected Concepts
 

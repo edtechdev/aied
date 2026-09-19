@@ -1,7 +1,7 @@
 ---
 title: "LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 pedagogy: [student-ai-interaction]
 technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
@@ -59,6 +59,21 @@ Dataset size and coverage are the first constraint: 360 samples, 54 of them for 
 Evaluation is the third. The framework relies on automatic metrics and rule-based marker detection, and although bootstrap intervals were computed for ROUGE and structured-output metrics, BERTScore-F1 is reported only as a mean because per-sample values were not retained. Experiments used a single training seed with no variance across seeds, and no strong-prompt or retrieval-augmented baseline was included, so the design cannot separate the contributions of fine-tuning, [[prompt-engineering|prompt design]] and retrieval. A human-evaluation rubric covering formula accuracy, derivational rigor, completeness and instructional clarity is the named next step, alongside multi-seed runs and comparisons against [[rag]] and combined LoRA-RAG systems.
 
 Two further observations matter for [[pedagogical-llm-training]] practice. First, the framework deliberately excludes teachability — the extent to which an answer helps a student follow and verify a solution — because that requires human rating. Second, the paper frames LoRA and retrieval as complementary rather than competing: LoRA internalizes course terminology and style, retrieval supplies traceable evidence from textbooks and formula sheets. The [[higher-ed]] implication is a deployment model of one lightweight adapter per course on a shared base model, with adapters of tens to hundreds of megabytes that stay cheap to store, distribute and version — a plausible route to [[discipline-specific-aied]] support without full-parameter retraining, but one whose instructional value remains, by the authors' own account, unverified.
+
+## What this means for practice
+
+- **Educators.** Build one lightweight adapter per course instead of reaching for a general tutor: 360 course dialogues and adapters of 1.8M to 10.1M trainable parameters reached ROUGE-L 0.4093 and BERTScore-F1 0.8643 on a 54-item test set.
+- **Educators.** Choose rank by deployment target — r = 8 for local or consumer-GPU use, r = 4 for a feasibility check (ΔROUGE-L = +0.0407), r = 16 only when reference-answer similarity matters most — because gain per million adapter parameters fell from 0.0161 at 7B-r4 to 0.0087 at 7B-r16.
+- **Educators.** Require the Solution / Method / Teaching Points template in the system message and in the reference answers: Solution and Method coverage reached 1.00 at nearly every LoRA setting, so students receive course answers in a form they can review, verify and compare.
+- **Educators.** Do not read template compliance as correctness — heading detection cannot tell whether a derivation is valid, so keep expert review of formulas, variable definitions and conclusions, and treat the adapter as a first draft rather than an authority.
+- **Researchers.** Add a strong-prompt baseline, a [[rag|retrieval-augmented]] baseline and multi-seed runs before attributing gains to fine-tuning, since the present single-seed design cannot separate fine-tuning, prompt design and retrieval.
+
+## Limitations
+
+- **Thin and narrow dataset.** 360 dialogues, 54 of them held out for testing, cannot represent the course's topics, question types or difficulty levels; complex controller design, integrated modeling and multistep state-space analysis need more data before the results generalize.
+- **The metrics measure form, not mathematics.** ROUGE is sensitive to wording, BERTScore does not verify mathematical symbols or derivations, and rule-based heading detection cannot detect an invalid derivation; BERTScore-F1 is reported only as a mean because per-sample values were not retained.
+- **Single random seed (42) with no strong-prompt or retrieval baseline**, so the design cannot attribute the gains to fine-tuning rather than to prompt design or supplied evidence, and reports no variance across runs.
+- **Restricted model range.** Only Qwen2.5-3B-Instruct and Qwen2.5-7B-Instruct at r = 4, 8 and 16 were tested, with no other families such as Llama or DeepSeek and no larger models, so the configuration recommendations are scoped to these settings.
 
 ## Connected Concepts
 - [[llm]]

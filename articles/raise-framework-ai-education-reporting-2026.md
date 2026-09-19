@@ -1,7 +1,7 @@
 ---
 title: "RAISE the Standard: A Framework for Transparent Reporting of Artificial Intelligence Studies in Education"
 created: "2026-09-16T01:46:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [learning-design, limitations-in-aied-research]
 technology: [generative-ai, prompt-engineering]
@@ -43,6 +43,14 @@ RAISE is addressed to all researchers running empirical studies in which AI is p
 The RAISE editorial and [[theory-development-aied|TEP-AIED]] are the knowledge base's two most direct attempts to set reporting expectations for AI-in-education studies, and they explicitly address one another. The TEP-AIED model (Hwang, Xie, Wah & Gašević, 2026) folds transparency, [[ethics]], and [[pedagogy]] into a single three-dimensional structure and, in positioning itself, characterizes RAISE as comprehensive across technical, pedagogical, and ethical aspects but faulted for breadth: "its breadth and granularity may make it complex and less accessible for routine empirical applications." Read together the two frameworks make the trade-off visible — RAISE is the fuller checklist, TEP-AIED the leaner narrative structure — and both converge on the same demands: name and version the system, disclose prompts and interaction design, specify treatment and comparison conditions, report ethical review and risk mitigation, and state whether outcomes measure performance, retention, or transfer. RAISE adds the more granular treatment of accessibility, cultural fit, and participant context, and pairs its checklist with a risk matrix rather than folding risk into a single ethics dimension.
 
 For [[research-methods-aied|AIED research methods]], the practical consequence is that the reporting gaps the field's [[limitations-in-aied-research|limitations]] literature documents — missing model versions, undisclosed prompts, unreported context, unverified outcome measures — are now being addressed by named, adoptable instruments rather than by exhortation alone.
+
+## What this means for practice
+
+- **Researchers.** Report the model's identity, version, provider and configuration — prompts and fine-tuning parameters — for every AI intervention, because reviewers currently cannot recover these from most manuscripts.
+- **Researchers.** State the AI's pedagogical role (feedback generator, co-author, tutor, evaluator) and document the learner–AI interaction design, so pedagogical effects can be separated from the contingencies of one interaction design.
+- **Researchers.** Justify the choice of outcome measures and align them with stated objectives, since a short-term task improvement can be read as lasting learning when the measure is wrong.
+- **Researchers.** Share representative prompts, interaction transcripts and model specifications, and document limitations to replication alongside findings.
+- **Administrators.** Apply the companion RAISE 2025 Ethics and Risk Matrix to learner agency, equity, data governance and algorithmic transparency, because ethical approval is not equivalent to comprehensive ethical consideration.
 
 ## Limitations
 

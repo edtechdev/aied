@@ -1,7 +1,7 @@
 ---
 title: "Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-14T09:12:54-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, prior-knowledge, productive-failure, scaffolding, transfer-of-learning]
@@ -51,6 +51,21 @@ Two learner characteristics moderate the pathways. [[prior-knowledge]] operates 
 The paper's least-discussed contribution is its upper bound. NAIM arranges AI-supported interactions along a productive struggle spectrum in which learning is predicted to rise and then fall as total challenge increases. Bypass occupies the insufficient-challenge end, but the excessive-challenge end is a pathway most discussions omit: a model that answers a request for a hint with a thousand-word explanation, offers five alternative approaches, or pitches above the learner's level imposes load that competes with schema construction. The practical implication is that constraining verbosity and step size is not stylistic but functional, and Kestin et al.'s tutor — instructed to be brief and reveal one step at a time — is offered as a design that respects this ceiling.
 
 The propositions that remain thin are flagged as such. Engagement mediation (P4) leans on Kosmyna et al.'s contestable EEG preprint and on Gerlich's cross-sectional, self-reported mediation. Dose dependence (P7) rests on the 18-participant crossover session alone, and the model calls the accumulation of "cognitive debt" speculative, included because it has the largest practical consequences if true. Preference-learning dissociation (P5) is the best-supported of the moderating claims, consistent across sources and with the illusions-of-competence literature. The research agenda that follows is deliberately cheap in places: adding helpfulness ratings and predicted-learning judgments to any existing bypass-or-scaffold [[rct]] costs nothing, and the paper recommends that every trial report delayed unassisted performance and [[transfer-of-learning]] to novel problems, because assisted or immediate outcomes cannot distinguish the pathways. For [[learning-design|instructional design]], the recommendation is to state what a task is for: once the target skill is explicit, learners and systems can offload everything else, and the line between appropriate and inappropriate AI use becomes a question of whether the use touches the target rather than a matter of policy. For assessment, any task completed with AI access measures assisted performance and cannot detect whether learning occurred.
+
+## What this means for practice
+
+- **Instructors.** Withhold answers and supply teacher-designed hints instead: restricting GPT-4 to hints raised practice performance by 127%, while unrestricted access raised practice by 48% but left a 17% deficit on the unassisted examination.
+- **Instructors.** State explicitly what each task is for, because identifying the target skill is what lets learners and systems offload everything else without harming the intended capability.
+- **Designers.** Constrain verbosity and step size — reveal one step at a time and keep explanations brief — since excessive challenge imposes load that competes with schema construction.
+- **Designers.** Assume learners will push scaffolding systems into bypass by asking for the answer, and design interactions that preserve generation rather than relying only on a capable model.
+- **Researchers.** Report delayed unassisted performance and transfer to novel problems, and add helpfulness and predicted-learning ratings, because assisted or immediate outcomes cannot distinguish the three pathways.
+
+## Limitations
+
+- The proposed neurobiological mechanism is not observed: no study of LLM users has measured synaptic change, so bypass harm rests on behavior plus one contested EEG preprint (54 participants, with an 18-participant crossover) whose sample size and methodology a commentary disputes.
+- The strongest randomized evidence comes from interventions lasting only weeks, so the claims about accumulation and durable effects on capability are extrapolations.
+- The randomized populations are narrow — a high school in one country, a university course in another, and tutoring platforms in a third — with correlational evidence from one national sample of 666 adults.
+- The offloading pathway rests on indirect, cross-sectional evidence and requires a target skill that can be identified, which the authors concede is contested in authentic assignments.
 
 ## Connected Concepts
 

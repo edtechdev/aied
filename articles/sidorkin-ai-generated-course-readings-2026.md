@@ -1,7 +1,7 @@
 ---
 title: "From One-Size Texts to Tailored Readings: Student Experiences with AI-Generated Course Materials"
 created: "2026-09-14T11:10:12-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [scaffolding]
@@ -39,6 +39,21 @@ audience: [instructors, curriculum designers]
 - Budget for the hidden labor: instructor time for prompt design, output review and verification scaffolding is lower than authoring multiple textbook-length documents from scratch but is not zero, so [[curriculum-design|curriculum]] leaders should plan for [[professional-training|faculty development]] and institutional support if the approach is to be implemented with fidelity.
 - Keep the claims proportionate: this is a single graduate course with 24 consenting survey respondents, self-reported perceptions, conservative marker-based coding and no control condition, and transferability to undergraduate or large-enrollment settings remains untested.
 - Preserve the [[student-experience|student-facing]] benefits while hedging the risks: students valued contextual specificity, adjustability and clarity, and the combination of visible quality variance with required verification may prove pedagogically productive, but Sidorkin presents that last idea as a hypothesis rather than a finding.
+
+## What this means for practice
+
+- **Instructors.** Treat AI generation as draft production under review, not finished text: APA-style in-text citations appeared on only about 0.80 percent of the 4,487 pages, and about 1.03 percent paired "Sacramento State" with assertive policy verbs about retention, tenure and promotion rules or CSU Executive Orders.
+- **Instructors.** Require follow-up interaction rather than one-shot readings — the course asked for at least three follow-up questions per reading, and definitional markers ran 3.4x to 8.7x higher after comprehension-oriented prompts than in baseline explanatory text.
+- **Designers.** Curate vetted sources into the assistant's knowledge base and label source types explicitly, so students infer quality from labels rather than context: Wikipedia appeared on about 1.65 percent of pages alongside peer-reviewed anchors such as (Freeman, 1984) and (Coombs, 2007), with no visible differentiation.
+- **Instructors.** Name and model verification moves instead of assuming a critical stance emerges on its own: only 23 of 837 student turns (about 2.7 percent) contained a correction of the assistant, a demand for checkable evidence, or an early statement of confusion.
+- **Designers.** Budget the hidden labor the approach implies — prompt design, output review and verification [[scaffolding|scaffolding]] — and plan [[professional-training|faculty development]] alongside any rollout, because the workload is lower than authoring a textbook but not zero.
+
+## Limitations
+
+- Evidence comes from a single graduate educational leadership course: 24 students completed the survey and consented to participation, on self-reported perceptions rated on 4-point scales, with no control condition.
+- The artifact analysis covers reading logs B through K only (Log A was excluded because it used chat links rather than the standardized PDF format), sampled at 1/5-page intervals and coded with dictionary-based markers rather than human judgment, over 13,728 to 22,034 words per log.
+- Internal traceability was weak across the corpus — about 0.80 percent of pages carried in-text citations, URLs appeared on roughly 0.53 percent, and DOI strings were essentially absent — so most claims could not be audited from within the artifact itself.
+- Transferability to undergraduate or large-enrollment settings remains untested, and the five design principles the author draws from the study are presented as a hypothesis rather than a demonstrated outcome.
 
 ## Connected Concepts
 

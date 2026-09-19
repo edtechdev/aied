@@ -1,7 +1,7 @@
 ---
 title: "Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments"
 created: "2026-09-16T00:58:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [agentic-ai, design-thinking]
 pedagogy: [collaborative-learning, creativity, embodied-learning, project-based-learning, student-engagement]
@@ -43,6 +43,14 @@ The authors' core argument is that [[project-based-learning|PBL]]'s known constr
 This places the study close to a broader line in the knowledge base on where AI belongs in design [[pedagogy]]. An exploratory architectural studio study of a [[generative-ai|GenAI]] plus multi-user XR pipeline found, by contrast, *declining* design [[self-efficacy]] confidence for teams using the pipeline, and no advantage in blinded panel ratings ([[genai-xr-architectural-design-education-2026]]) — its authors' explanation was that the two technologies are complementary per phase but carry real interaction costs. The AI-IVE-PBL study is the more favorable counterpart: an orchestrating model with a named assistant role per phase, a teacher who pre-builds the scenario and controls the rubric, and outcome measures that distinguish productive ability from ideational novelty. Read together, they suggest the difference between an XR-and-GenAI win and loss is less about the hardware than about who holds the phase structure and the evaluation criteria.
 
 For [[professional-training|vocational and professional education]], the model's interest lies in its specification as a *teaching workflow* rather than a tool list — the five phases, the responsible actor in each, and the artifact that moves between them are all stated, which is what makes it portable to other design and technical courses and testable in replicating studies.
+
+## What this means for practice
+
+- **Instructors.** Run [[project-based-learning|PBL]] inside the five-phase loop the study specifies — discovery, envisioning, modeling, communication, refinement — and fix the assistant's job per phase (resource recommendation and task decomposition, layered questioning, design simulation and flaw flagging) instead of letting students prompt it ad hoc.
+- **Instructors.** Add explicit ideation scaffolding — justification prompts, deliberate divergence-then-convergence cycles, reflective critique — because the AI-IVE-PBL group gained on design ability (η²p = .138) and creative ability (η²p = .111) but not on innovative thinking (p = .114).
+- **Designers.** Keep scenario construction, grouping, critique facilitation and rubric-based evaluation with the teacher, and give the AI only bounded phase tasks; the authors treat that division of labor, not the hardware, as the intervention.
+- **Educators.** Build in the conveniences that cut retrieval effort — preset asset libraries, one-click material switching, semantic search over course knowledge — since reported [[cognitive-offloading|cognitive load]] was lower in the experimental group (M = 3.83 vs. 4.66, d = -0.52).
+- **Researchers.** Triangulate [[self-report-measures|self-report]] scales with design artifacts, expert ratings and AI-IVE log data before claiming effects on [[creativity]], which the authors name as the immediate next step for exactly this reason.
 
 ## Limitations
 
