@@ -1,7 +1,7 @@
 ---
 title: "Measuring Acceptance of Age-Tiered AI Literacy Guidebooks: A Developmentally Informed Study of K-12 Students and Teachers"
 created: "2026-09-13T11:05:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:55:23-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 technology: [adaptive-learning, generative-ai, technology-acceptance-model]
@@ -46,6 +46,21 @@ The high explained variance is treated as a caution rather than a headline. Comm
 Two implications are drawn. First, age-tiered [[ai-literacy]] materials should pair explicit ethical content with developmentally appropriate presentation: concrete scenarios, visual supports and guided prompts for younger learners; complex cases foregrounding task relevance, ethical trade-offs and [[critical-thinking|critical evaluation]] for older ones. Second, acceptance constructs can supply design-relevant feedback for early-stage refinement of materials, but they must not be used to infer [[learning-gains|learning effectiveness]] or implementation success. Suggested refinement priorities are consistent bilingual terminology, age-appropriate ethical scenarios and lightweight multimodal elements that do not add to teachers' instructional burden.
 
 The limitations are substantial and stated plainly: results are embedded in Taiwan's centralized digital learning infrastructure and age-tiered policy context and may not generalize across curricula, [[governance]] arrangements, languages or levels of teacher [[agency|autonomy]]; a single post-exposure questionnaire invites common method and response-style effects; the 37-teacher sample limits cross-role analysis to exploratory checks; and the study measured neither [[ai-literacy]] achievement, learning gains, actual adoption nor sustained use. The authors call for longitudinal and multilevel designs with repeated use, classroom-level variation, validated assessments of ethical reasoning and multiple data sources, including observations, performance tasks, teacher ratings, platform logs and adoption records.
+
+## What this means for practice
+
+- **Instructors.** Build the AI literacy lesson around playful, story-driven activity, because perceived playfulness was the strongest correlate of behavioral intention in both cohorts (Elementary beta = 1.090, Advanced beta = .894, both p < .001). Use narrative, character-based tasks with Grades 3 to 6 and shift secondary lessons toward analytical inquiry and case discussion.
+- **Instructors.** Sell the materials differently at each level: performance expectancy predicted intention in the Advanced cohort only (beta = .159, p = .004), so for Grades 7 to 12 foreground task relevance and critical evaluation of real AI applications and risks, while elementary learners respond to scaffolding and ease of use instead.
+- **Designers.** Write ethical content into the materials as explicit reflection questions and real-world scenarios rather than leaving teachers to improvise it, since participants across both editions asked for ethics, fairness and copyright material to be made visible and discussable.
+- **Curriculum designers.** Standardize bilingual terminology and keep multimodal additions lightweight — the guidebook maps onto [[curriculum-design|curriculum]] and [[ai-literacy|literacy]] goals, but inconsistent terminology and formatting were the concrete complaints, and anything that adds to teachers' preparation burden will not survive regular classroom constraints.
+- **Researchers.** Do not read acceptance scores as learning evidence: treat a 30-minute post-exposure instrument as early-stage design feedback, and pair it with [[educational-measurement|performance or observation measures]] before claiming that a guidebook improved [[ai-literacy]] or ethical reasoning.
+
+## Limitations
+
+- Each session lasted about 30 minutes and was immediately followed by the questionnaire, with no repeated-exposure or delayed post-use assessment. The study therefore captures first-exposure perceptions, not sustained use, developmental change or [[learning-gains|learning]] outcomes.
+- Student age, guidebook edition and facilitation mode were systematically aligned (Elementary students read collectively under teacher guidance; secondary students read individually in computer labs), so the observed cohort differences cannot be attributed uniquely to developmental stage or to material design.
+- Common method variance could not be ruled out: Harman's single-factor diagnostic returned a first component accounting for 57.8% of the variance (eigenvalue 10.404), no theoretically unrelated marker variable was included, and all 18 items were positively keyed.
+- The 37 teachers (13 elementary, 24 junior and senior high) supported only descriptive and exploratory cross-role checks, not confirmatory comparison, and the questionnaire contained no objective knowledge test or pre-post achievement measure.
 
 ## Connected Concepts
 
