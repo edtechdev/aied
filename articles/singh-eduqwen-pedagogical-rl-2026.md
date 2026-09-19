@@ -4,11 +4,13 @@ created: "2026-07-29T04:33:04-04:00"
 updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [llm, pedagogical-llm-training, rag, reinforcement-learning, open-source]
-stakeholders: [pedagogical-safety]
+ethics: [pedagogical-safety]
+
 audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/singh-eduqwen-pedagogical-rl-2026.md']
 confidence: medium
+
 ---
 
 > **Synthesis:** **EduQwen: [[pedagogy|Pedagogical]] RL** — A multi-stage optimization strategy combining reinforcement learning (DAPO) and supervised fine-tuning (SFT) to enhance the pedagogical knowledge of open-source LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) [[benchmark]], surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.

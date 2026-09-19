@@ -6,8 +6,8 @@ type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]
-stakeholders: [pedagogical-safety]
-ethics: [ai-sycophancy, ethics, hallucination-risk, trust]
+
+ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 ---
 

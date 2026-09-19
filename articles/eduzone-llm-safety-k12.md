@@ -4,7 +4,7 @@ created: "2026-08-04T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [llm]
-stakeholders: [pedagogical-safety]
+
 audience: [software developers]
 research_method: [benchmark]
 level: [k 12]
@@ -13,6 +13,8 @@ confidence: high
 page_kind: [evaluation]
 methods: [benchmark]
 institutions: [governance]
+ethics: [pedagogical-safety]
+
 ---
 
 > **Synthesis:** **EduZone is an automated evaluation framework that generates contextually grounded adversarial interactions to probe [[llm|LLM]] safety in [[k-12|K-12 education]], revealing that models are more vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address.**

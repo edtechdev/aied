@@ -6,7 +6,8 @@ type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding]
 technology: [human-in-the-loop-ai, intelligent-tutoring]
-stakeholders: [pedagogical-safety, student-experience]
+stakeholders: [student-experience]
+ethics: [pedagogical-safety]
 research_method: [system development, mixed methods]
 audience: [learners, instructors]
 level: [k 12]
@@ -14,6 +15,7 @@ sources: ['raw/papers/2605.20665.md']
 confidence: high
 discipline: [vocational education]
 page_kind: [framework]
+
 ---
 
 > **Synthesis.** Benedetti (2026) argues that the value of AI-enabled educational systems depends less on technological sophistication than on accountable [[pedagogy|pedagogical]] mediation: transparent limits, bounded interaction, and an explicit orientation toward human relationships. Adopting a "human-in-command" stance — rather than merely [[human-in-the-loop-ai]] — the paper defines AI-enabled pedagogical accompaniment as a directional, temporary, and safeguarded mediation operationalized through the concept of a *relational bridge*: a sequence of micro-mediations that lowers the threshold of access to the educational relationship and facilitates transitions toward meaningful human contact. The Amico dual-mode prototype ([[intelligent-tutoring|AmicoMio]] for structured guidance, AmicoTuo for reflective support) maps five design principles to observable indicators, with exploratory Italy–China pilot evidence suggesting feasibility and perceived usefulness in vocational education.

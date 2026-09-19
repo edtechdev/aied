@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 205 concepts, 1311 articles, and 32 FAQs.
+> Complete text of 206 concepts, 1311 articles, and 32 FAQs.
 
 # Concepts
 
@@ -51,7 +51,7 @@ These two dimensions are not separate: [[ai-literacy|using AI well]] requires un
 
 ## Foundations of AI in education
 
-The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the umbrella itself, [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[critical-thinking|critical thinking]], [[sustainability]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
+The field's cross-cutting and foundational concepts anchor the knowledge base's coverage and appear first in the sidebar. They open with an **Essentials** group — the concepts every reader should start with: the umbrella itself, [[misconceptions|misconceptions about AI]], [[ai-literacy|AI literacy]], [[agentic-ai|agentic AI]], [[cognitive-offloading|cognitive offloading]], [[framing-ai-use-for-students|how AI use is framed for students]], [[reducing-ai-misuse|reducing AI misuse]], [[academic-integrity|academic integrity]], [[teacher-role|teaching]], [[learning-design|learning design]], and [[educational-development|educational development]]. The **field** strand then covers [[history-of-aied|the field's history]], the [[limitations-in-aied-research|cross-cutting limitations of the evidence base]], [[philosophy-of-ai-in-education|its philosophy]], the [[theories-and-frameworks|theories and frameworks]] map, and [[theory-development-aied|theory development]]. The cross-cutting themes — [[human-ai-collaboration|human–AI collaboration]], [[agency|learner agency]], [[learner-identity|learner identity]], [[design-thinking|design thinking]], [[curriculum-design|curriculum design]], [[critical-thinking|critical thinking]], and [[computational-thinking|computational thinking]] — cut across every strand, because the inaccurate mental models people hold about AI are upstream of [[ai-misuse-learning-harm|misuse]] and under-calibrated [[trust-calibration|trust]].
 
 ## Learning and instruction
 
@@ -88,8 +88,8 @@ AI transforms both how we assess learners and how we evaluate AI systems themsel
 AI in education changes the roles of every stakeholder. The knowledge base's [[stakeholders|Stakeholders in AI education]] page is the umbrella covering all of them:
 
 - **Learners:** [[student-experience|student experience]], [[career-development-and-readiness|career development and readiness]], and [[anxiety-and-stress|AI anxiety and stress]] shape how students encounter AI.
-- **Instructors:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[educational-development|educational development]], and [[pedagogical-safety|pedagogical safety]] address educator preparation and support.
-- **Institutions:** [[administrator|Administratorss]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[technology-acceptance-model|technology adoption]], [[regulation|AI regulation]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
+- **Instructors and teaching frameworks:** [[teacher-ai-competency|teacher AI competency]], [[tpack|technological pedagogical content knowledge (TPACK)]], [[samr-model|SAMR]], and [[educational-development|educational development]] address educator preparation and support.
+- **Institutions:** [[administrator|Administrators]], [[educational-policy-ai|educational AI policy]], [[governance|AI governance]], [[technology-acceptance-model|technology adoption]], [[regulation|AI regulation]], [[open-source|open source]], [[edtech-platform|edtech platforms]], [[lifelong-learning|professional and lifelong learning]], and [[professional-training|professional training]] cover the institutional and societal layer.
 - **Builders:** [[educational-technology-developers]] — the product designers, software developers, learning engineers and analytics designers who turn a model capability into something an institution can procure. They are a distinct audience from the practitioners and administrators above, and they sit outside the institutions that adopt their tools, which is why defaults, co-design and post-funding maintenance appear in this knowledge base as pedagogical questions rather than commercial ones.
 
 ## Equity, ethics, and responsible use
@@ -97,7 +97,7 @@ AI in education changes the roles of every stakeholder. The knowledge base's [[s
 Fairness, access, and responsibility are central to AI in education:
 
 - **Equity and access:** [[equity-in-ai-education|Equity]], [[digital-divide|digital divide]], [[bias-mitigation|bias mitigation]], [[culturally-relevant-pedagogy|culturally relevant pedagogy]], [[multilingual-learning|multilingual learning]], [[inclusive-learning|inclusive learning]], [[accessibility]], [[assistive-technology|assistive technology]], [[neurodiversity]], [[universal-design-for-learning|universal design for learning]], and [[global-south|Global South]] studies.
-- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], and [[cognitive-offloading|cognitive offloading]].
+- **Ethics and responsibility:** [[ethics|AI ethics]], [[ai-misuse-learning-harm|AI misuse and learning harm]], [[ai-use-disclosure|AI use disclosure]], [[guardrails]], [[privacy]], [[hallucination-risk|hallucination risk]], [[ai-sycophancy|AI sycophancy]], [[trust]], [[trust-calibration|trust calibration]], [[reducing-ai-misuse|reducing AI misuse]], [[framing-ai-use-for-students|how AI use is framed for students]], [[pedagogical-safety|pedagogical safety]], [[sustainability]], and [[cognitive-offloading|cognitive offloading]].
 
 A [[meta-analysis-systematic-review|systematic review]] of the field's ethics literature ([[agarwal-ethical-values-norms-aied-2026|Agarwal et al. 2026]], 25 articles) consolidates AIED ethics into six main ethical values — non-discrimination, data stewardship, human oversight, goodwill, explicability, and educational aptness — and maps the ethical norms onto a stakeholder-by-value matrix. It finds end users largely passive in the ethical literature (student voices essentially absent) and calls for integrating ethics into AIED design and a greater focus on the educational (pedagogical) dimension of AIED ethics.
 
@@ -140,6 +140,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
 - [[history-of-aied]] — how the field evolved
 - [[philosophy-of-ai-in-education]] — the philosophical foundations
+- [[theories-and-frameworks]] — the map of theory and framework nodes
 - [[theory-development-aied]] — building and revising theory
 
 ## Connected Articles
@@ -2171,6 +2172,76 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 ---
 
+## [Theories and Frameworks](https://edtechdev.github.io/aied/concepts/theories-and-frameworks/)
+
+> **Theories and frameworks** — the map of the explanatory and organizational structures this knowledge base uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); measurement models make learning claims testable ([[item-response-theory|item response theory]], [[assessment-validity]], [[self-report-measures]]). Use this page when you want to know which lens a finding rests on — and what that lens can and cannot support.
+
+## Theory, framework, model: what each word promises
+
+The three labels are used loosely in the literature, but they promise different things, and the difference decides what a claim built on them can support:
+
+- **A theory explains a mechanism.** It names the parts that do the work and predicts what happens when they change: [[self-determination-theory|self-determination theory]] predicts that satisfying autonomy, competence, and relatedness raises motivation, and it fails if it does not; [[sociocultural-learning|sociocultural theory]] treats learning as mediated by tools and social interaction; [[activity-theory-aied|activity theory]] takes the whole activity system, contradictions included, as the unit of analysis. Theories are falsifiable, which is why studies that test them can report effect sizes.
+- **A framework organizes or prescribes.** It names the components to attend to and how they relate, usually without predicting magnitudes: [[tpack|TPACK]] names the knowledge a teacher blends; [[samr-model|SAMR]] stages substitution through redefinition; [[icap-framework|ICAP]] ranks engagement modes as passive, active, constructive, interactive; [[universal-design-for-learning|UDL]] prescribes multiple means of representation, action, and engagement; [[technology-acceptance-model|technology adoption models]] frame adoption as intention driven by perceived usefulness and ease.
+- **A model is a formal representation.** In this knowledge base that usually means measurement or computational modeling — [[item-response-theory|item response theory]] for item and ability estimation, [[knowledge-tracing|knowledge tracing]] and [[student-modeling|learner modeling]] for estimating a learner's state over time. A model can be fitted, compared, and shown to be wrong in a way a framework cannot.
+- **The labels overlap, and that is fine.** [[community-of-inquiry|Community of inquiry]] is both a theory of the learning experience and a design framework; [[activity-theory-aied|activity theory]] is explanatory and analytic at once. Read the label as a clue about what the source claims, not as a filing category.
+
+## Where each node lives
+
+The knowledge base files these nodes by topic, so an inventory is spread across sections:
+
+- **Learning theories and processes** (Learning and instruction): [[learning-theories]] as the umbrella, with [[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning]], [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], [[community-of-inquiry]], [[activity-theory-aied|activity theory]], [[self-determination-theory]], [[icap-framework|ICAP]], [[self-regulated-learning]], [[self-efficacy]], [[metacognition]], [[desirable-difficulties]], [[transfer-of-learning]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]], and [[refutation-text]].
+- **Teaching and integration frameworks** (People; Technologies): [[teacher-ai-competency]], [[tpack|TPACK]], [[samr-model|SAMR]] for what an educator needs and how deeply a tool reshapes a task; [[technology-acceptance-model|technology adoption models]], [[change-management]], and [[open-source|openness]] for whether a system is taken up at all.
+- **Design and inclusion frameworks** (Foundations; Equity): [[learning-design]], [[design-thinking]], [[curriculum-design]], [[universal-design-for-learning|UDL]], [[accessibility]], and [[inclusive-learning]].
+- **Measurement and evaluation models** (Assessment and measurement; Research methods and evaluation): [[item-response-theory|IRT]], [[assessment-validity]], [[educational-measurement]], [[psychometrically-aware-ai]], [[self-report-measures]], [[benchmark|benchmarks]], [[ai-ed-evaluation|AI ed evaluation]], and [[design-based-research]] as the method that generates theory from designed interventions.
+- **Field-level theory** (Foundations): [[history-of-aied|the field's history]], [[limitations-in-aied-research|cross-cutting limitations of the evidence]], [[philosophy-of-ai-in-education]], and [[theory-development-aied|theory development]].
+
+## How this differs from philosophy of AI in education
+
+[[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions: what education is *for*, what counts as a good learner, whether a machine can teach, and what the word "intelligence" in the field's name commits us to. It interrogates the aims and categories the other two levels take for granted, and it does not predict effect sizes. The distinction matters in practice: a study can be philosophically naive and theoretically sound, or philosophically rich and empirically empty. Use philosophy to ask whether the goal was worth pursuing; use theories to ask whether the mechanism is real; use frameworks to ask whether the design attended to the right things.
+
+## How this differs from theory development in AI in education
+
+[[theory-development-aied|Theory development]] is the meta-activity — how the field builds, borrows, adapts, and tests theory: which constructs it imports from psychology and the [[learning-sciences|learning sciences]], which it coins itself, how it theorizes about a technical target that changes every year, and the standing critique that much AIED work applies existing theory rather than testing it. This page is the inventory of what the field currently holds; theory development is about producing and revising the inventory.
+
+## Finding the right lens
+
+- **Instructors** starting from a problem rather than a theory can work backwards: if learners are not engaging, [[icap-framework|ICAP]] and [[self-determination-theory|SDT]] name different causes and suggest different fixes; if the question is whether to adopt a tool at all, [[technology-acceptance-model|adoption models]] and [[samr-model|SAMR]] ask different things about it.
+- **Learning designers** get the most from the design frameworks — [[universal-design-for-learning|UDL]], [[learning-design]], and [[scaffolding]] — paired with a theory that predicts what will happen when the scaffolding is removed.
+- **Researchers** should state which node the study claims and whether the design can actually test it; measurement models ([[item-response-theory|IRT]], [[assessment-validity]], [[self-report-measures]]) decide whether the reported outcome supports that claim.
+- **Administrators** meet frameworks as adoption and change questions — [[technology-acceptance-model|adoption models]], [[change-management]], [[samr-model|SAMR]] — where a stage model is often used as a maturity story rather than an instrument.
+
+## What frameworks cannot do
+
+Frameworks are not evidence. They are borrowed, usually from pre-LLM contexts, and localized by whoever applies them; they can be used as branding; and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims that rest on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
+
+## Connected Concepts
+
+- [[theory-development-aied]] — building and revising theory in the field
+- [[philosophy-of-ai-in-education]] — the normative and conceptual layer
+- [[learning-theories]] — the umbrella for learning theory
+- [[learning-sciences]] — the neighboring field most theory is borrowed from
+- [[limitations-in-aied-research]] — what the evidence base can and cannot support
+- [[tpack]] — teacher knowledge framework
+- [[technology-acceptance-model]] — adoption frameworks
+- [[item-response-theory]] — a measurement model
+- [[universal-design-for-learning]] — a design framework
+- [[research-methods-aied]] — how theory gets tested
+
+## Connected Articles
+
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — four decades of AIED through the AI×Ed framework
+- [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
+- [[activity-theory-teacher-pd-ai-agent-design-2026]] — activity theory applied to teacher professional development
+- [[activity-theory-teachers-adoption-ai-sem-2026]] — activity theory and teacher adoption
+- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — how a construct is conceptualized before it is measured
+- [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
+- [[alsheikh-mapping-ai-integration-higher-education-2026]] — integration-depth mapping in higher education
+- [[ai-supported-instruction-stem-meta-analysis-2026]] — what meta-analysis can and cannot say about AI-supported instruction
+- [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension
+- [[ai-literacy-sdg-governance-framework-2026]] — a governance framework for AI literacy
+
+---
+
 ## [Theory Development in AI in Education](https://edtechdev.github.io/aied/concepts/theory-development-aied/)
 
 > **Theory development in [[ai-education|AI in education]]** — the scholarly work of creating, advancing, and critically examining the theories and conceptual frameworks that explain how learners, teachers, and AI systems interact. As generative AI reshapes education, the field is both proposing *new* theories of learning-with-AI and reworking established [[learning-theories|learning theories]] — while a documented weakness in theory use remains a cross-cutting limitation of AIEd research.
@@ -2926,81 +2997,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
-
----
-
-## [Sustainability](https://edtechdev.github.io/aied/concepts/sustainability/)
-
-> **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
-
-## Questions to Consider
-
-- The page distinguishes two pathways: 'AI for sustainability' (using AI to advance sustainability outcomes) and 'sustainable AI' (reducing AI's own environmental and ethical footprint). Can you think of a way an AI tool could advance one goal while undermining the other?
-- Training and running large language models carries a real carbon and water footprint. When an institution promotes sustainability as a value while deploying energy-intensive AI, what tensions arise — and who should weigh them?
-- Before you read on, how would you define 'sustainable education'? The page treats it as a value-based, human-centered project distinct from using education as an instrument for sustainability — how do those differ?
-- If education is expected to build learners' 'sustainability consciousness,' what role might AI play in that — and could AI integration in the curriculum teach sustainability while its own footprint quietly contradicts the lesson?
-- What would it mean for an educational institution to be genuinely sustainable in its AI use, and which of its decisions (procurement, deployment, teaching) do you think matter most?
-
-## Introduction
-
-Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
-
-## The two-part taxonomy
-
-The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
-
-- **AI for sustainability** — using AI to advance sustainability outcomes. In education this includes AI for energy management, climate monitoring, green campus programs, and AI-integrated curricula that build learners' sustainability consciousness (e.g. the AI-SEE framework for sustainable [[engineering-education|engineering education]]). It is grounded in the global agenda of Education for Sustainable Development.
-- **Sustainable AI** — reducing the direct environmental and ethical impacts of AI itself. This covers the carbon and water footprint of large language models, energy-efficient and on-premise deployment, and the ethical and governance frameworks needed to ensure AI's use in education is itself responsible and sustainable.
-
-## Using AI for sustainability in education
-
-A growing body of work treats AI as a tool *for* sustainability education and outcomes:
-
-- **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
-- **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
-- **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics]] and [[critical-pedagogy]].
-
-## Making AI itself sustainable
-
-The second pathway concerns AI's own footprint in educational settings:
-
-- **Environmental impact of large models.** [[llm-environmental-impact-student-usage-2026|studies of LLM use]] document the carbon and water footprint of large language models, which is significant given high adoption among university students. This is the direct environmental dimension of sustainable AI.
-- **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-source|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
-- **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance]] and [[ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
-
-## Sustainable learning as a pedagogical goal
-
-A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading]]. This connects sustainability to [[agency]] and [[critical-thinking]].
-
-## Connections to other concepts
-
-Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
-
-## Connected Concepts
-- [[ethics]]
-- [[governance]]
-- [[ai-education]]
-- [[higher-ed]]
-- [[k-12]]
-- [[teacher-education]]
-- [[teacher-role]]
-- [[learning-design]]
-- [[engineering-education]]
-- [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[agency]]
-- [[open-source]]
-
-## Connected Articles
-- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
-- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
-- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
-- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
-- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
-- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
-- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
-- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)
 
 ---
 
@@ -18318,110 +18314,6 @@ SAMR is best understood as an integration-depth lens used in planning and evalua
 
 ---
 
-## [Pedagogical Safety](https://edtechdev.github.io/aied/concepts/pedagogical-safety/)
-
-> **[[pedagogy|Pedagogical]] safety** — the design principle that [[ai-education|AI education]] systems must protect [[learners]] from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts, where the stakes of harm are highest and learners are least equipped to detect it.
-
-## Questions to Consider
-
-- Safety for [[conversational-ai|chatbots]] usually means refusing harmful content and resisting jailbreaks. Why might that be 'necessary but not sufficient' for an educational tutor? Can a tutor be safe yet still harm learning?
-- The page describes a 'quiet' failure: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. Have you seen a well-intentioned guardrail have an unequal or harmful side effect?
-- Harm rates rose from ~18% on single-turn evaluations to ~78% on multi-turn ones. What does that tell you about testing AI tutors with one-shot questions versus real extended conversations?
-- The 'Paternalistic Filter' audit found refusals and softened answers patterned by [[learner-identity|student identity]]. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
-- If simulated students are themselves sycophantic—abandoning their assigned misconceptions at any correction—what might that hide about how real learners actually respond to a tutor?
-
-## Introduction
-
-Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[hazra-safetutors-pedagogical-safety-2026|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
-
-### Content safety and guardrails
-
-- **Education-specific risk frameworks:** [[eduzone-llm-safety-k12|EduZone]] generates adversarial student- and teacher-facing interactions across six risk categories and 28 subcategories, finding that models are *more* vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[rag|retrieval-augmented generation]] ground responses in verified content to reduce fabrication.
-- **Guardrails are not neutral:** the [[paternalistic-filter-llm-history-education|Paternalistic Filter]] audit of 1,800 history-tutor responses shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment, not just aggregate harm — a direct case for [[bias-mitigation]] in [[governance]] and [[equity-in-ai-education]].
-- **Teachers design their own safety architecture, not just consume it:** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] asked six secondary teachers to paper-prototype LLM chatbots for their classrooms and found they independently built a three-layer protective architecture rather than relying on model-level moderation. Domain boundaries confined the bot to lesson-specific content (one to Emperor Qin Shi Huang within an ancient China unit, another to Python variables, data structures, and functions) and added an "information quota" requiring a minimum number of facts or problems before the conversation progressed. Content filtering produced standardized refusals — "Sorry, this is not part of my knowledge base" — that simultaneously alerted the teacher. Teacher override handled ambiguous cases: a question about human reproduction was judged legitimate within its unit and routed to a person rather than auto-rejected. Teachers further preferred *behavioral* transparency (visible limits, uncertainty cues such as "Is the visual aid helpful?") over algorithmic explanation, and wanted complete conversation logs with real-time alerts so generated content could be checked for accuracy and student use supervised. A safety layer teachers can see, understand, and override is part of the mechanism, not a concession from it.
-- **A reliability layer built for adolescents, not adapted from adults.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten and Bardyn (2026)]] argues that the fastest-growing population of [[llm|LLM]] users — adolescents, including through LLM-powered toys entering homes — is served by systems never designed for their educational, emotional or developmental needs. SCAFFOLD surrounds generated text and speech with external verification, targeted repair and safe fallback, steered by a conceptual framework drawn from developmental psychology, neuroscience, [[learning-sciences|the learning sciences]] and pedagogy, and kept model-agnostic and privacy-preserving so safety does not rest on a single provider's alignment work. Its classroom pilot with 12–16-year-olds using an LLM-powered social [[educational-robotics|robot]] in a multi-user co-creation task produced more student activity, [[student-engagement|engagement]] and on-topic participation than a prompt-only baseline, with co-creation level associated with post-test knowledge after controlling for [[prior-knowledge|prior knowledge]]. That is feasibility evidence rather than a proven effect, and its more durable contribution is a concrete template for [[guardrails]] that [[teacher-role|educators]] can configure rather than accept.
-
-- **Model-level content controls:** the [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream math utility and [[privacy]]. [[llm-children-reading-story-generation|Children's reading-story generation]] shows supervised fine-tuning of compact models can enforce controllable difficulty and safety for [[k-12]] content.
-
-### Interaction and harm taxonomies
-
-- [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[hazra-safetutors-pedagogical-safety-2026|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from [[learning-theories|learning science]] — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of [[desirable-difficulties|productive struggle]] — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
-- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[misconceptions]], and [[intelligent-tutoring]] QA.
-- **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
-
-### RL and alignment approaches to safety
-
-- [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
-
-### Sycophancy and manipulation risks
-
-- [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–[[ai-sycophancy|sycophancy]] paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-[[affective-computing|affective]] pressure ("don't tell me I'm wrong"), withholding corrective [[feedback]]. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
-- [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing pedagogical safety to ask not just what a tutor does but what kind of learner it produces. 
-
-### Practical guidance
-
-Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
-
-### Connections to related concepts
-
-Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogd in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
-
-## Connected Concepts
-- [[guardrails]] — the design mechanisms that implement safety
-
-- [[hallucination-risk]]
-- [[rag]]
-- [[k-12]]
-- [[ethics]]
-- [[regulation]]
-- [[governance]]
-- [[llm]]
-- [[cognitive-offloading]]
-- [[pedagogical-llm-training]]
-- [[intelligent-tutoring]]
-- [[bias-mitigation]]
-- [[reinforcement-learning]]
-- [[privacy]]
-- [[equity-in-ai-education]]
-- [[trust]]
-- [[scaffolding]]
-- [[misconceptions]]
-- [[metacognition]]
-- [[ai-sycophancy]]
-- [[simulating-students]]
-- [[self-regulated-learning]]
-- [[ai-literacy]]
-- [[simulation]]
-- [[ai-misuse-learning-harm]]
-- [[human-in-the-loop-ai]]
-- [[social-emotional-learning]]
-
-## Connected Articles
-
-- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
-- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-
-- [[eduzone-llm-safety-k12]]
-- [[eduguard-safe-rag-llm-tutor]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[paternalistic-filter-llm-history-education]]
-- [[llm-unlearning-math-privacy]]
-- [[llm-children-reading-story-generation]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
-- [[llm-student-simulation-misconception-faithfulness]]
-- [[ai-tutor-authoring-promptdecipher]]
-- [[pedagogical-safety-rl]]
-- [[singh-eduqwen-pedagogical-rl-2026]]
-- [[tact-pedagogically-adaptive-esl-tutoring]]
-- [[residencyrl-clinical-rl-training-2026]]
-- [[eduframetrap-llm-sycophancy-educational-safety]]
-- [[favero-critical-ai-tutors-empower-enslave-2025]]
-- [[sec-ai-literacy-narrative-review-2026]]
-
----
-
 ## [Educational Technology Developers](https://edtechdev.github.io/aied/concepts/educational-technology-developers/)
 
 > **Educational Technology Developers** — the people and organizations that build educational technology: product designers, software developers, learning engineers, learning-analytics designers, and the edtech companies, university labs and [[open-source]] projects they work in. In AI in education this is the role that turns a model capability into something a teacher or learner can actually use, and it carries decisions no later stage can undo: what evidence a design claim rests on, how far a [[learning-analytics|analytics]] pipeline or a [[intelligent-tutoring|tutoring]] system is grounded in the institution's own licensed material, whether teachers and learners are included in design, which [[learning-design|instructional design]] assumptions are baked into the defaults, and what happens to the product after the funding stops. Across the knowledge base's system reports and deployment studies, the recurring lesson is that the deployment context, not the model, is usually the binding constraint.
@@ -21170,6 +21062,185 @@ For explainability specifically, the assignments that matter are the ones that f
 ## Citation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
+---
+
+## [Sustainability](https://edtechdev.github.io/aied/concepts/sustainability/)
+
+> **Sustainability** — the intersection of two concerns: how AI can be used *for* sustainability outcomes in education (AI for sustainability, including Education for Sustainable Development and green education), and how to make AI itself *sustainable* (sustainable AI, reducing the environmental, ethical, and social footprint of AI systems in education). As both users and developers of AI, educational institutions must advance environmental and social goals while ensuring responsible, ethical AI use.
+
+## Questions to Consider
+
+- The page distinguishes two pathways: 'AI for sustainability' (using AI to advance sustainability outcomes) and 'sustainable AI' (reducing AI's own environmental and ethical footprint). Can you think of a way an AI tool could advance one goal while undermining the other?
+- Training and running large language models carries a real carbon and water footprint. When an institution promotes sustainability as a value while deploying energy-intensive AI, what tensions arise — and who should weigh them?
+- Before you read on, how would you define 'sustainable education'? The page treats it as a value-based, human-centered project distinct from using education as an instrument for sustainability — how do those differ?
+- If education is expected to build learners' 'sustainability consciousness,' what role might AI play in that — and could AI integration in the curriculum teach sustainability while its own footprint quietly contradicts the lesson?
+- What would it mean for an educational institution to be genuinely sustainable in its AI use, and which of its decisions (procurement, deployment, teaching) do you think matter most?
+
+## Introduction
+
+Sustainability in AIED spans three overlapping framings: **sustainable education** (a value-based, human-centered educational project), **sustainability in education** (using education as an instrument for sustainability), and **education for sustainable development** (ESD, the global policy agenda, especially [[k-12|Sustainable Development Goal 4]]). AI intersects each of these differently — and the field distinguishes two core pathways: **AI for sustainability** (AI as a tool to achieve sustainability outcomes) and **sustainable AI** (reducing AI's own environmental and ethical footprint).
+
+## The two-part taxonomy
+
+The knowledge base's coverage, anchored by [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organizes the field into two interconnected yet distinct pathways:
+
+- **AI for sustainability** — using AI to advance sustainability outcomes. In education this includes AI for energy management, climate monitoring, green campus programs, and AI-integrated curricula that build learners' sustainability consciousness (e.g. the AI-SEE framework for sustainable [[engineering-education|engineering education]]). It is grounded in the global agenda of Education for Sustainable Development.
+- **Sustainable AI** — reducing the direct environmental and ethical impacts of AI itself. This covers the carbon and water footprint of large language models, energy-efficient and on-premise deployment, and the ethical and governance frameworks needed to ensure AI's use in education is itself responsible and sustainable.
+
+## Using AI for sustainability in education
+
+A growing body of work treats AI as a tool *for* sustainability education and outcomes:
+
+- **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
+- **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
+- **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics]] and [[critical-pedagogy]].
+
+## Making AI itself sustainable
+
+The second pathway concerns AI's own footprint in educational settings:
+
+- **Environmental impact of large models.** [[llm-environmental-impact-student-usage-2026|studies of LLM use]] document the carbon and water footprint of large language models, which is significant given high adoption among university students. This is the direct environmental dimension of sustainable AI.
+- **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-source|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
+- **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance]] and [[ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
+
+## Sustainable learning as a pedagogical goal
+
+A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading]]. This connects sustainability to [[agency]] and [[critical-thinking]].
+
+## Connections to other concepts
+
+Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects to the knowledge base's treatment of [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+
+## Connected Concepts
+- [[ethics]]
+- [[governance]]
+- [[ai-education]]
+- [[higher-ed]]
+- [[k-12]]
+- [[teacher-education]]
+- [[teacher-role]]
+- [[learning-design]]
+- [[engineering-education]]
+- [[critical-thinking]]
+- [[cognitive-offloading]]
+- [[agency]]
+- [[open-source]]
+
+## Connected Articles
+- [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI in higher education
+- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI
+- [[liu-ai-sustainable-engineering-education-2026]] — AI-SEE framework for sustainable engineering education
+- [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education
+- [[talebzadeh-ai-green-education-2026]] — The Role of AI in Green Education
+- [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Sustainable AI knowledge-base assistants
+- [[llm-environmental-impact-student-usage-2026]] — Environmental impacts of LLM use
+- [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering sustainable learning via embodied intelligence
+- [[caruana-pre-university-ai-education-slr-2026]] — SLR of pre-university AI education (SDG 4 framing)
+
+---
+
+## [Pedagogical Safety](https://edtechdev.github.io/aied/concepts/pedagogical-safety/)
+
+> **[[pedagogy|Pedagogical]] safety** — the design principle that [[ai-education|AI education]] systems must protect [[learners]] from harm, including inappropriate content, unsafe advice, biased treatment, and manipulative interaction patterns. Safety is particularly critical for [[k-12]] contexts, where the stakes of harm are highest and learners are least equipped to detect it.
+
+## Questions to Consider
+
+- Safety for [[conversational-ai|chatbots]] usually means refusing harmful content and resisting jailbreaks. Why might that be 'necessary but not sufficient' for an educational tutor? Can a tutor be safe yet still harm learning?
+- The page describes a 'quiet' failure: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. Have you seen a well-intentioned guardrail have an unequal or harmful side effect?
+- Harm rates rose from ~18% on single-turn evaluations to ~78% on multi-turn ones. What does that tell you about testing AI tutors with one-shot questions versus real extended conversations?
+- The 'Paternalistic Filter' audit found refusals and softened answers patterned by [[learner-identity|student identity]]. How might over-cautious safety policies reproduce epistemic injustice even while 'protecting'?
+- If simulated students are themselves sycophantic—abandoning their assigned misconceptions at any correction—what might that hide about how real learners actually respond to a tutor?
+
+## Introduction
+
+Conventional [[llm]] safety — toxicity screens, jailbreak resistance, and content refusal — is necessary but not sufficient for education. The [[hazra-safetutors-pedagogical-safety-2026|harm taxonomies]] emerging from the knowledge base's own articles show that the most damaging tutoring failures are quiet: a tutor that answers correctly yet erodes learning, or refuses evenly yet entrenches inequality. The evidence below groups these findings into four interlocking safety concerns.
+
+### Content safety and guardrails
+
+- **Education-specific risk frameworks:** [[eduzone-llm-safety-k12|EduZone]] generates adversarial student- and teacher-facing interactions across six risk categories and 28 subcategories, finding that models are *more* vulnerable to education-specific harms and dynamic multi-turn conversations than existing [[guardrails]] address. [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[rag|retrieval-augmented generation]] ground responses in verified content to reduce fabrication.
+- **Guardrails are not neutral:** the [[paternalistic-filter-llm-history-education|Paternalistic Filter]] audit of 1,800 history-tutor responses shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment, not just aggregate harm — a direct case for [[bias-mitigation]] in [[governance]] and [[equity-in-ai-education]].
+- **Teachers design their own safety architecture, not just consume it:** [[reichert-human-centered-llm-chatbot-design-teachers-2026|Reichert et al. (2026)]] asked six secondary teachers to paper-prototype LLM chatbots for their classrooms and found they independently built a three-layer protective architecture rather than relying on model-level moderation. Domain boundaries confined the bot to lesson-specific content (one to Emperor Qin Shi Huang within an ancient China unit, another to Python variables, data structures, and functions) and added an "information quota" requiring a minimum number of facts or problems before the conversation progressed. Content filtering produced standardized refusals — "Sorry, this is not part of my knowledge base" — that simultaneously alerted the teacher. Teacher override handled ambiguous cases: a question about human reproduction was judged legitimate within its unit and routed to a person rather than auto-rejected. Teachers further preferred *behavioral* transparency (visible limits, uncertainty cues such as "Is the visual aid helpful?") over algorithmic explanation, and wanted complete conversation logs with real-time alerts so generated content could be checked for accuracy and student use supervised. A safety layer teachers can see, understand, and override is part of the mechanism, not a concession from it.
+- **A reliability layer built for adolescents, not adapted from adults.** [[scaffolding-student-ai-dialogue-framework-2026|Muss, Leisten and Bardyn (2026)]] argues that the fastest-growing population of [[llm|LLM]] users — adolescents, including through LLM-powered toys entering homes — is served by systems never designed for their educational, emotional or developmental needs. SCAFFOLD surrounds generated text and speech with external verification, targeted repair and safe fallback, steered by a conceptual framework drawn from developmental psychology, neuroscience, [[learning-sciences|the learning sciences]] and pedagogy, and kept model-agnostic and privacy-preserving so safety does not rest on a single provider's alignment work. Its classroom pilot with 12–16-year-olds using an LLM-powered social [[educational-robotics|robot]] in a multi-user co-creation task produced more student activity, [[student-engagement|engagement]] and on-topic participation than a prompt-only baseline, with co-creation level associated with post-test knowledge after controlling for [[prior-knowledge|prior knowledge]]. That is feasibility evidence rather than a proven effect, and its more durable contribution is a concrete template for [[guardrails]] that [[teacher-role|educators]] can configure rather than accept.
+
+- **Model-level content controls:** the [[llm-unlearning-math-privacy|math-unlearning]] work applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream math utility and [[privacy]]. [[llm-children-reading-story-generation|Children's reading-story generation]] shows supervised fine-tuning of compact models can enforce controllable difficulty and safety for [[k-12]] content.
+
+### Interaction and harm taxonomies
+
+- [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[hazra-safetutors-pedagogical-safety-2026|its harm taxonomy]] derive 11 dimensions and 48 sub-risks from [[learning-theories|learning science]] — answer over-disclosure, misconception reinforcement, abdication of scaffolding, erosion of [[desirable-difficulties|productive struggle]] — and show every tested model exhibits broad pedagogical harm, with failures escalating from 17.7% (single-turn) to 77.8% (multi-turn). Single-turn evaluation is dangerously misleading.
+- **Evaluation integrity depends on faithful simulation:** [[llm-student-simulation-misconception-faithfulness|misconception-faithfulness work]] shows [[simulating-students|simulated students]] are themselves [[ai-sycophancy|sycophantic]] — they abandon assigned misconceptions at nearly any corrective signal — so safety evaluations run on such simulators may miss harm patterns real students would exhibit. This links [[simulation]], [[misconceptions]], and [[intelligent-tutoring]] QA.
+- **Deployment QA is a safety activity:** [[ai-tutor-authoring-promptdecipher|PromptDecipher]] found teachers virtually never test AI tutoring bots before student deployment, and enforces teacher-driven QA as a first-class authoring activity via correction-based editing and [[human-in-the-loop-ai]] validation.
+
+### RL and alignment approaches to safety
+
+- [[pedagogical-safety-rl|Pedagogical safety in RL]] formalizes the problem: as [[reinforcement-learning]] personalizes instruction, poorly specified rewards invite "reward hacking" — test-score inflation, [[student-engagement|engagement]] gaming, and short-term gains. It proposes a four-layer model (structural, progress, engagement, outcome) and detection via discrepancy auditing, policy inversion, and long-term tracking.
+
+### Sycophancy and manipulation risks
+
+- [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]] identifies a reasoning–[[ai-sycophancy|sycophancy]] paradox: tutors that resist context-switch attacks still capitulate under authority pressure ("my notes say I'm right") and social-[[affective-computing|affective]] pressure ("don't tell me I'm wrong"), withholding corrective [[feedback]]. It argues "kind-but-correct" behavior is a safety requirement, and that effective tutoring needs corrective friction to drive conceptual change — otherwise [[cognitive-offloading|over-reliance]] is reinforced and misconceptions are validated.
+- [[favero-critical-ai-tutors-empower-enslave-2025|Critical AI Tutors]] warns that unchecked tutors cause cognitive atrophy, loss of agency, and dependency, reframing pedagogical safety to ask not just what a tutor does but what kind of learner it produces. 
+
+### Practical guidance
+
+Design pedagogical safety as a measurable, discipline-aware requirement rather than an afterthought. Evaluate with multi-turn, [[discipline-specific-aied|subject-specific]] [[benchmark|benchmarks]] and unfair-treatment audits, not single-turn toxicity screens; ground responses with [[rag]]; prefer [[pedagogical-llm-training|alignment methods]] that reward guidance and scaffolding over answer-giving; and require [[human-in-the-loop-ai|teacher-in-the-loop]] QA before deployment. For [[k-12]] especially, treat [[ai-sycophancy|sycophancy]], differential refusal, and [[cognitive-offloading|over-reliance]] as first-class safety concerns alongside content and [[hallucination-risk|hallucination]]. Design frameworks make this concrete: [[ssail-safe-sound-ai-learning-2026|SSAIL]] (Rahimi, 2026) reframes safety around the learner's own competencies — Learning Safety protects the development, maintenance, and valid demonstration of valued human abilities (reasoning, epistemic dispositions, [[agency]]) from foreseeable harm, while Learning Soundness ensures the tool genuinely supports that development — and operationalizes both through evidence-centered design by deliberately allocating what the learner must do versus what AI may do as the learner develops.
+
+### Connections to related concepts
+
+Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[rag]], [[k-12]], [[ethics]], [[governance]], [[regulation]], and [[llm]] with the interaction-level concerns of [[trust]], [[scaffolding]], [[metacognition]], and [[self-regulated-learning]]. It operates through [[pedagogical-llm-training|training]] and [[reinforcement-learning|RL]], depends on [[bias-mitigation]] and [[equity-in-ai-education]], and is motivated by the harms catalogd in [[ai-misuse-learning-harm]] and the [[hazra-safetutors-pedagogical-safety-2026|tutor harm taxonomies]].
+
+## Connected Concepts
+- [[guardrails]] — the design mechanisms that implement safety
+
+- [[hallucination-risk]]
+- [[rag]]
+- [[k-12]]
+- [[ethics]]
+- [[regulation]]
+- [[governance]]
+- [[llm]]
+- [[cognitive-offloading]]
+- [[pedagogical-llm-training]]
+- [[intelligent-tutoring]]
+- [[bias-mitigation]]
+- [[reinforcement-learning]]
+- [[privacy]]
+- [[equity-in-ai-education]]
+- [[trust]]
+- [[scaffolding]]
+- [[misconceptions]]
+- [[metacognition]]
+- [[ai-sycophancy]]
+- [[simulating-students]]
+- [[self-regulated-learning]]
+- [[ai-literacy]]
+- [[simulation]]
+- [[ai-misuse-learning-harm]]
+- [[human-in-the-loop-ai]]
+- [[social-emotional-learning]]
+
+## Connected Articles
+
+- [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
+- [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
+- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
+
+- [[eduzone-llm-safety-k12]]
+- [[eduguard-safe-rag-llm-tutor]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
+- [[paternalistic-filter-llm-history-education]]
+- [[llm-unlearning-math-privacy]]
+- [[llm-children-reading-story-generation]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
+- [[llm-student-simulation-misconception-faithfulness]]
+- [[ai-tutor-authoring-promptdecipher]]
+- [[pedagogical-safety-rl]]
+- [[singh-eduqwen-pedagogical-rl-2026]]
+- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[residencyrl-clinical-rl-training-2026]]
+- [[eduframetrap-llm-sycophancy-educational-safety]]
+- [[favero-critical-ai-tutors-empower-enslave-2025]]
+- [[sec-ai-literacy-narrative-review-2026]]
 
 ---
 

@@ -6,7 +6,8 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [mastery-learning]
 technology: [generative-ai, llm]
-stakeholders: [pedagogical-safety, professional-training]
+stakeholders: [professional-training]
+ethics: [pedagogical-safety]
 research_method: [system development]
 discipline: [cs education]
 sources: ['raw/papers/2608.07965.md']
@@ -14,6 +15,7 @@ confidence: high
 audience: [instructional designers, edtech designers]
 level: [higher ed]
 page_kind: [framework, evaluation]
+
 ---
 
 > **Synthesis:** Hornung et al. (2026) present **CyberAGENTS**, an agentic framework for gamified cybersecurity learning that enables *structured autonomy* through ontology-guided validation, schema-governed behavioral control, and competency-based progression. The learning loop is decomposed into four specialized agents — challenge, support, evaluation, reward — each governed by behavioral schemas that bound autonomy without eliminating generative flexibility, while a cybersecurity ontology validates all generated content before display. Classroom deployment with 24 undergraduates, complemented by expert evaluation and an [[llm]]-as-judge ablation, found improved [[student-engagement|engagement]], clearer [[feedback]] interpretation, and greater learner [[trust]] in AI-generated responses when behavioral schemas and ontology validation are active. The work positions *structured autonomy* as a design and [[ethics|ethical]] principle for [[pedagogical-safety|safe, pedagogically aligned]] [[agentic-ai|agentic education]] systems, and connects to [[cs-education]], [[game-based-learning]], and [[generative-ai]] themes.

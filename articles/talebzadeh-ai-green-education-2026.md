@@ -3,13 +3,15 @@ title: "The Role of Artificial Intelligence in Green Education: Optimizing Teach
 created: "2026-08-09T08:35:52-04:00"
 updated: "2026-08-30T05:30:00-04:00"
 type: article
-foundations: [ai-education, educational-development, learning-design, sustainability, teacher-role]
+foundations: [ai-education, educational-development, learning-design, teacher-role]
 technology: [generative-ai]
+ethics: [sustainability]
 research_method: [quasi-experiment]
 audience: [instructors, faculty development]
 level: [teacher training, higher ed]
 sources: ['raw/papers/talebzadeh-ai-green-education-2026.md']
 confidence: medium
+
 ---
 
 > **Synthesis:** Talebzadeh (2026) conducts a quasi-experimental study with 28 pre-service teacher teams, finding that AI-assisted Sustainable Development Pedagogy constraints significantly improve instructional design quality (t(27) = 13.78, p < 0.001, Cohen's d = 2.80). The intervention transformed teachers from conventional designers into strategic educational managers.

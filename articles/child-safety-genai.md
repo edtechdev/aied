@@ -4,8 +4,8 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 technology: [generative-ai, llm, rag]
-stakeholders: [pedagogical-safety]
-ethics: [equity-in-ai-education, privacy]
+
+ethics: [equity-in-ai-education, privacy, pedagogical-safety]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [software developers]
 research_method: [benchmark]

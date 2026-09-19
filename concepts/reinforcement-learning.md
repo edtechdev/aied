@@ -5,9 +5,11 @@ updated: "2026-09-03T15:00:00-04:00"
 type: concept
 pedagogy: [active-learning, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning]
-stakeholders: [pedagogical-safety]
+ethics: [pedagogical-safety]
+
 level: [special education, k 12, higher ed]
 confidence: medium
+
 ---
 
 > **Reinforcement learning** trains AI tutors and agents through reward signals: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]], and [[ai-coaching-rl-skill-development]] align RL with pedagogical objectives, including safety and skill transfer ([[intelligent-tutoring]], [[agentic-ai]]).

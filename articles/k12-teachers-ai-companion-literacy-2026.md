@@ -6,8 +6,8 @@ type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction, well-being]
 technology: [conversational-ai, human-in-the-loop-ai]
-stakeholders: [pedagogical-safety]
-ethics: [ethics]
+
+ethics: [ethics, pedagogical-safety]
 connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
 confidence: high

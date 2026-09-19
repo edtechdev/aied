@@ -4,8 +4,8 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-15T11:40:00-04:00"
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
-stakeholders: [pedagogical-safety]
-ethics: [hallucination-risk]
+
+ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 ---
 

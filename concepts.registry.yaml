@@ -1766,6 +1766,13 @@ concepts:
     - technology organization environment
     - theory of planned behavior
     - utaut
+  theories-and-frameworks:
+    title: Theories and Frameworks
+    aliases:
+    - conceptual frameworks
+    - frameworks and theories
+    - theoretical frameworks
+    - theories and frameworks
   theory-development-aied:
     title: Theory Development in AI in Education
     aliases:
@@ -1913,6 +1920,7 @@ sections:
     - history-of-aied
     - limitations-in-aied-research
     - philosophy-of-ai-in-education
+    - theories-and-frameworks
     - theory-development-aied
   - label: Cross-cutting themes
     items:
@@ -1922,7 +1930,6 @@ sections:
     - design-thinking
     - curriculum-design
     - critical-thinking
-    - sustainability
     - computational-thinking
 - heading: Learning and instruction
   blurb: How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates
@@ -2123,12 +2130,11 @@ sections:
   - label: Families and communities
     items:
     - parents-and-families
-  - label: Instructors
+  - label: Instructors and teaching frameworks
     items:
     - teacher-ai-competency
     - tpack
     - samr-model
-    - pedagogical-safety
   - label: Designers and developers
     items:
     - educational-technology-developers
@@ -2176,6 +2182,8 @@ sections:
     - trust
     - trust-calibration
     - explainable-ai
+    - sustainability
+    - pedagogical-safety
 redirects:
   evaluative-judgement: evaluative-judgment
   ai-anxiety-and-stress: anxiety-and-stress
