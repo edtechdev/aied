@@ -118,8 +118,6 @@ cap and enrich the page from the recovered text.
 
 - **Artificial Intelligence (AI) and the Future of the Engineering and Computing Workforce: A Systematic Review of Grey Literature and Document Analysis of U.S. Reports (2020–2025)** — `ai-engineering-computing-workforce-grey-literature-2026` (not attempted)
   - https://peer.asee.org/ (ASEE 2026 Annual Conference & Exposition, Paper ID #53492)
-- **AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education** — `ai-play-framework-early-childhood-2026` (not attempted)
-  - https://peer.asee.org/ (ASEE 2026 Annual Conference & Exposition, Paper ID #51553)
 - **It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education** — `engineering-faculty-metaphors-ai-understanding-2026` (not attempted)
   - https://peer.asee.org/ (ASEE 2026 Annual Conference & Exposition, Paper ID #50720)
 - **Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review** — `ethical-use-ai-engineering-education-review-2026` (not attempted)
