@@ -1,7 +1,7 @@
 ---
 title: "Reimagining feedback through generative AI in engineering education"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [curriculum-design]
 pedagogy: [self-regulated-learning]
@@ -30,9 +30,13 @@ audience: [instructors, assessment designers]
 
 This empirical study was conducted across two cohorts (N = 262 students) in a university software engineering course at Constantine the Philosopher University in Nitra, Slovakia, over two academic years (2023/2024, 2024/2025). Students completed four UML modeling assignments (requirements specification, use case diagram, class diagram, activity diagram) and six theoretical quizzes, followed by a final exam with three UML diagram tasks. A structured dataset of over 1800 unique student submissions with 68 variables per student was compiled. The GPTo1 model evaluated diagrams using nine prompt configurations (3 per diagram type), and results were compared with two independent human graders. Feedback was categorized by a human evaluator into four types (diagnostic, design, [[metacognition|metacognitive]], [[motivation|motivational]]), analyzed via two-way ANOVA, Mann-Whitney U tests, chi-square tests, Spearman correlation, and mediation analysis. A custom Slovak lexicon-based sentiment analysis and QuitaUp linguistic metrics (TTR, Hapax, Entropy) were used to assess feedback tone and richness. Students rated feedback on a 5-point Likert scale without knowing the source.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study provides empirical evidence on GenAI's capacity for formative feedback on complex, open-ended diagrammatic tasks — a domain where feedback is assessment-intensive and hard to scale. It shows GenAI can provide high-volume, well-received feedback but its pedagogical judgment is "brittle" under ambiguity, abstraction, and design variation, making it best suited as a first-pass evaluator within a hybrid human-AI feedback system. It contributes to the [[ai-feedback-quality]] and [[formative-assessment]] literature, connects to [[self-regulated-learning]] (feedback's role in driving learning), and positions GenAI feedback as reshaping assessment models, [[curriculum-design|curriculum design]], and faculty roles — democratizing access to formative feedback while raising [[equity-in-ai-education|equity]], accountability, and policy challenges. The finding that perceived feedback quality (not source) drives outcomes suggests educators should focus on ensuring feedback is high-quality and actionable regardless of its origin.
+- **Instructors.** Reserve teacher feedback for abstract and ambiguous modeling work: students receiving teacher feedback gained on average 0.87 points more than those receiving GenAI feedback, and feedback source significantly influenced performance on the visual modeling tasks of the final exam (p < 0.05).
+- **Instructors.** Deploy GenAI as a first-pass evaluator on well-specified tasks — students found no significant difference between the two sources for requirements specification and activity diagrams — while keeping formative oversight on partial or ambiguous diagrams, where GenAI feedback turned overly punitive.
+- **Assessment designers.** Judge a feedback system by perceived quality rather than by its source: perceived feedback quality significantly predicted final exam performance, while the mediation path from source through perceived quality was only marginal (β = −0.28, p = 0.056).
+- **Assessment designers.** Expect source effects to be outcome-specific, and design the assessment mix accordingly: teacher feedback raised performance on the automatically evaluated quizzes (p < 0.01) but feedback source did not significantly influence final theoretical exam scores.
+- **Assessment designers.** Audit generated feedback for redundancy and pedagogical range before scaling it: GenAI feedback was more repetitive and less linguistically rich than teacher feedback (lower TTR, Hapax and Entropy), skewed toward diagnostic comments (66%, against the teacher's 48%), and supplied motivational comments only 4% of the time.
 
 ## Limitations
 

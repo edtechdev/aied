@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI-Supported Disciplinary Mediation in Student Project Teams' Text-Based Communication"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-11"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, project-based-learning]
@@ -24,13 +24,19 @@ methods: [qualitative-research]
 3. **Dual value: cognitive and relational.** Participants valued AI mediation not only as cognitive support for boundary crossing but as a relational buffer — organizing fragmented discussion, surfacing implicit expectations, clarifying divergent interpretations, and softening interpersonal pressure around disagreement and concession.
 4. **The neutrality tension.** Participants imagined future AI mediators as switchable roles — strategic advisors, cross-domain translators, perspective challengers — but these expanded roles made the neutrality that had made AI acceptable as a mediator unstable once AI began to advise, challenge, or influence team decisions.
 
-## Implications
+## What this means for practice
 
-This study contributes empirical insight and design considerations for AI systems that mediate [[collaborative-learning]] in text-based communication while preserving [[human-ai-collaboration]], trust, privacy, and accountability. The finding that AI's perceived neutrality is load-bearing — and that it erodes when AI becomes a decisive actor — is a key design constraint for educational [[pedagogical-agent]].
+- **Learners.** Use an AI mediator as a neutral organizer that surfaces and compares positions, and stay alert that this neutrality erodes as soon as the AI begins to advise or challenge the team.
+- Let members review, edit, or redact how their private perspectives are synthesized back into the shared discussion, since the private channel was valued precisely because it lowered the facework cost of disagreement.
+- Require the AI to label when it is summarizing, translating, advising, or challenging, so the team can apply the right level of trust and scrutiny to each contribution.
+- **Designers.** Make AI intervention negotiable rather than automatic — detecting a boundary is not the same as intervening appropriately — for example by offering a low-friction prompt before pausing team discussion.
+- Preserve human ownership of team decisions: an AI mediator should support negotiation rather than present its synthesis as a final judgment.
 
-For [[active-learning]] and [[higher-ed]], the work shows how LLM-mediated boundary objects can help interdisciplinary teams surface implicit assumptions rather than bypassing them, aligning with theories of boundary objects and knowledge integration. The tension between helpful mediation and illegitimate influence echoes broader concerns in [[trust-calibration]] and [[teacher-role]] debates about how much agency AI should hold in collaborative settings.
+## Limitations
 
-The anonymized-synthesis design also models [[privacy]]-respecting intervention, and the switchable-role imagination suggests future [[human-in-the-loop-ai]] designs where teams can configure the AI's stance.
+- Exploratory technology probe and co-design workshop with 12 students aged 18–25, recruited through the researchers' personal networks, working through a single predefined virtual discussion session.
+- No control group and no quantitative measures: the findings rest on participants' subjective perceptions, and the boundary-detection goal went unevaluated, with no measure of detection accuracy or intervention timing.
+- The roles and the product-pitch scenario were predefined and limited to technology, business, and design boundaries, so the findings do not yet generalize to other disciplinary configurations or to the concrete stakes of authentic projects.
 
 ## Connected Concepts
 

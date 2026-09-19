@@ -1,7 +1,7 @@
 ---
 title: "'Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education"
 created: "2026-09-18T04:11:08-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking, teacher-role]
 pedagogy: [transfer-of-learning, student-ai-interaction, scaffolding]
@@ -43,9 +43,10 @@ The second theme moves furthest from [[ai-detection|integrity policing]]. The ob
 Under the third theme, participants argued for neither prohibition nor permissive access. They called for deliberate teaching of ethical, transparent use, [[educational-development|staff development]], and unit redesign, with one describing "lots of professional development around writing new units to incorporate GenAI" [P10], and rejecting avoidance because "it would be unhelpful to actually not allow our nursing students to learn how to use it efficiently, ethically, effectively, when others will" [P21]. Several described using GenAI's fallibility as a teaching device: [[simulation|AI-generated bots role-playing a graduate coordinator]] for interview practice, or deliberately inaccurate outputs posted for discussion so students "understand that not everything we get from it is accurate" [P21]. The paper's closing quote gives its title: "Copilot won't teach you to be a nurse" [P11].
 
 ## What this means for practice
-The authors call for nursing-specific guidance aligned with the profession's ethical codes and standards, rather than generic institutional [[educational-policy-ai|AI policy]]. They argue GenAI literacy and ethical reasoning should be embedded across the [[curriculum-design|curriculum]] (Simms, 2025), that assessment design needs continuing review so tasks still evaluate a student's own reasoning and judgment, with more weight on authentic and process-oriented formats, and that [[teacher-ai-competency|staff development]] and co-design with staff, students and [[stakeholders]] are needed for any of this to hold. They name the TWO PRISMS assessment design framework as one way to work through this (Winchester 2025). The paper endorses Dawson et al. (2024): [[assessment-validity|validity]] matters more than cheating.
-
-Two caveats belong with the findings. Recruitment through one professional network means the views of nursing academics outside it, and outside Australia and New Zealand, are not represented, and the accounts are [[self-report-measures|self-reported]] on a sensitive topic where candour may have been constrained. The authors also note that the team's own roles as nursing educators and Academic Integrity Officers shaped what was asked and how it was read, and that GenAI tools and institutional responses are changing fast enough that the findings describe a particular moment. The paper concludes that GenAI in nursing education cannot be treated as a generic [[higher-ed|higher education]] issue, because it changes how educators judge competence, accountability and readiness for practice.
+- **Instructors.** Review assessment design continually so tasks still evaluate a student's own reasoning and judgment, giving more weight to authentic and process-oriented formats; the paper follows Dawson et al. (2024) in treating [[assessment-validity|validity]] as mattering more than cheating.
+- **Instructors.** Embed GenAI literacy and ethical reasoning across the [[curriculum-design|curriculum]] (Simms, 2025), and give nursing its own guidance aligned with the profession's ethical codes and standards instead of relying on generic institutional [[educational-policy-ai|AI policy]].
+- **Medical educators.** Work through assessment redesign with a structured framework: the authors name TWO PRISMS as one way to do it (Winchester 2025).
+- **Curriculum designers.** Pair redesign with [[teacher-ai-competency|staff development]] and co-design with staff, students and [[stakeholders]], which the authors say is needed for any of this to hold.
 
 ## Limitations
 

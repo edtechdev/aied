@@ -1,7 +1,7 @@
 ---
 title: "Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [self-regulated-learning, social-emotional-learning]
@@ -30,9 +30,13 @@ page_kind: [synthesis, framework]
 
 This is a **narrative literature review** building on the knowledge base of the SETCOM project (Supportive Environments to Enhance Transversal Competencies in Education). A curated bibliography of 64 sources (31 on AI, 18 on SEC, 13 on both) was compiled from expert recommendations, then filtered through two stages: (1) [[inclusive-learning|inclusion]]/exclusion criteria (peer-reviewed sources in English, AI sources post-2017) and (2) quality assessment, removing 43 sources to leave a data corpus of 19. Sources were categorized into three groups (C1: [[ai-education|AI in Education]], n=8; C2: SEC in Education, n=7; C3: AI and SEC in Education, n=4). The corpus was thematically synthesized using a three-stage approach (pre-analysis, exploration, treatment/interpretation) informed by Ferrari (2015), with MAXQDA used for coding and analysis. The reviewed literature spanned primary (57.1%), secondary (46.4%), higher (35.7%), adult (17.9%), pre-school (14.3%), special-needs (10.7%), and teacher-training (3.6%) education contexts.
 
-## Implications for AI in Education
+## What this means for practice
 
-The review proposes an integrated framework that equips educators and students with both technological and emotional intelligence, arguing that AI literacy should not be reduced to technical skill but integrated with [[social-emotional-learning|social-emotional competencies]] to support [[self-regulated-learning]] and relational practices. It positions educators as needing both technological skill and emotional intelligence to prepare students for AI-rich futures, connecting to [[teacher-ai-competency]], [[teacher-role]], and [[educational-development|teacher training]]. It emphasizes that AI-driven personalization can enhance relational dynamics if designed carefully, and that ethical literacy (data privacy, bias, equity, responsible decision-making) must be embedded in AI curricula. The review is relevant to [[ai-literacy]], [[affective-computing]], and [[ethics]], and supports a human-centered approach to AI in education where digital and relational competencies are equally valued.
+- **Instructors.** Teach AI literacy and [[social-emotional-learning|social-emotional competencies]] together rather than leaving emotional skills to pastoral provision: the review's framework pairs technological understanding with empathy, self-management, and responsible decision-making so that AI-mediated learning does not thin out human connection.
+- **Instructors.** Design AI-driven personalization ([[intelligent-tutoring]], [[adaptive-learning]]) to deepen teacher-student and student-student relationships rather than to substitute for them, since the review treats personalization as a parallel to relational practice, not a replacement.
+- **Instructors.** Make ethical literacy content rather than a warning appended to a tools unit: data [[privacy]], algorithmic bias, [[equity-in-ai-education|equitable access]], and responsible decision-making recurred as the ethical concerns of the reviewed literature and belong in the AI curriculum itself.
+- **Instructors.** Press for SEC-infused [[teacher-education|teacher training]] and competency standards: the reviewed literature (drawing on Selwyn) argues that as AI absorbs administrative work, educators should redirect effort to the emotional and cognitive development AI cannot perform.
+- **Researchers.** Treat the integrated framework as a hypothesis rather than a template: it is conceptual, built on a curated corpus of 19 sources, and needs empirical validation before it structures programs or assessments.
 
 ## Limitations
 

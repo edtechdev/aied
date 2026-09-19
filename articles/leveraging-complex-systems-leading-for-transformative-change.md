@@ -1,7 +1,7 @@
 ---
 title: "Leveraging complex systems: Leading for transformative change"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 technology: [generative-ai, learning-analytics, edtech-platform]
 stakeholders: [administrator]
@@ -28,9 +28,13 @@ institutions: [change-management, educational-policy-ai, governance]
 
 This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shifts, Perez's techno-economic framework, Uhl-Bien's Complexity Leadership Theory, and related work (Relational Leadership Theory, adaptive leadership, Meadows' leverage points, Centola & Macy's complex contagions), the authors develop the SPARK framework as a pragmatic operationalization of CLT for the AI era. Each SPARK component is mapped onto the CLT leadership functions (e.g., Systems→administrative, Problem→adaptive, Knowledge Brokerage→enabling). The paper is grounded in prior empirical work on learning analytics adoption (Colvin et al., 2015; Dawson et al., 2018) demonstrating that technical success alone is insufficient for institutional change. No primary data were collected.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper shifts attention from technical implementation of GenAI to the **leadership and systemic conditions** required for sustainable, [[equity-in-ai-education|equitable]] transformation. For institutional leaders, SPARK provides a practical toolkit to map complex systems, reframe institutional challenges, mobilize data and research, and broker knowledge across actor networks. It addresses pressing leadership challenges in the GenAI era — assessment integrity, [[personalized-learning|personalized learning]], and the [[ethics]] of human–machine collaboration — arguing these require collective sense-making, cross-disciplinary dialogue, and distributed agency across staff and students rather than technical fixes. It cautions that algorithmic personalization risks narrowing educational purposes and displacing the relational and collective dimensions of learning, and that [[academic-integrity]] concerns demand [[pedagogy|pedagogical]] redesign (rethinking what counts as evidence of learning) alongside technical detection. It connects to [[higher-ed]], [[learning-analytics]], [[generative-ai]], and institutional-change research.
+- **Administrators.** Diagnose GenAI challenges as adaptive rather than technical, and socialize a precise, contextual problem statement; a goal such as "increase GenAI usage" is too vague to guide institutional action.
+- **Administrators.** Map the system before acting: stocktake the policies, processes, platforms, and stakeholders involved, and identify the governance structures the new practice requires but the institution does not yet have.
+- **Administrators.** Broaden analytics beyond tool uptake to student–AI interaction traces, authorship and co-production patterns, AI-mediated feedback, bias and fairness concerns, and any shift in [[assessment|assessment]] validity.
+- **Administrators.** Broker knowledge through dense, overlapping networks — faculty learning communities, cross-functional teams, student-led initiatives — because high-risk innovations need multiple reinforcing exposures from trusted networks rather than a linear rollout, and distribute agency across staff and students.
+- **Instructors.** Treat pedagogy as the core of the transformation: redesign what counts as evidence of learning and how feedback is generated rather than relying on detection systems, and approach algorithmic personalization critically, since it risks narrowing educational purposes and displacing the relational and collective dimensions of learning.
 
 ## Limitations
 

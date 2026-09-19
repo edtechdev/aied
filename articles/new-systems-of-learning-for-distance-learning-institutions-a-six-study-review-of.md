@@ -1,7 +1,7 @@
 ---
 title: "New systems of learning for distance learning institutions? A six-study review of implementing AIDA"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, learning-analytics, technology-acceptance-model]
@@ -30,9 +30,13 @@ institutions: [governance]
 
 This is a six-study, 18-month Design-Based [[research-methods-aied|Research]] (DBR) program conducted at the Open University, UK, involving 498 students and 20 staff. The research is framed by Sharples' (2025) embedded systems approach, which adapts Bronfenbrenner's (1979) Ecological Systems Theory to distance learning — recognizing that how learners engage with AI is influenced by multiple nested layers (peers, materials, tutors, student services, IT support, quality assurance, government [[regulation]], tech companies). It is also informed by the Diffusion of Innovations Theory (Rogers; Jin et al., 2025). Studies 1–3 gathered preferences and perceptions of AIDA's design; Studies 4–6 explored actual hands-on use by students and staff, culminating in Study 6's exploratory randomized controlled trial in an OpenLearn Create course. Findings were mapped against the nine key actions of Sharples' embedded systems framework.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study offers practical guidance for higher education (especially distance learning) institutions seeking to adopt GenAI ethically, transparently, and at scale. It demonstrates that purpose-built, contextually tuned AI assistants embedded within the learning environment (as opposed to generic external [[conversational-ai|chatbots]]) can enhance engagement and perceived value, provided development is participatory (co-designed with students and staff) and integration aligns with institutional strategy. It highlights the unique position of distance learning institutions — where 70% of "students" are already in/at work and where in-person invigilation for academic integrity is unfeasible — making responsible, human-centered GenAI design a particular priority. It connects to [[higher-ed]], [[generative-ai]], [[privacy]], [[human-in-the-loop-ai]], [[learning-analytics]], [[adult-learning]], and [[inclusive-learning]], and cautions against [[cognitive-offloading|over-reliance]] on tools without organizational readiness and [[governance]].
+- **Instructional designers.** Co-design the assistant with students and staff instead of procuring one: the six studies began by gathering student preferences, and acceptance rose after hands-on use, with 96% of students then wanting AIDA in their formal studies and initial skepticism eroding with experience rather than with persuasion.
+- **Instructional designers.** Embed the assistant inside the learning environment and tune it to your own curriculum — AIDA offered quiz, explain, and chat functions within the VLE — because the paper's warning case is a well-funded generic external chatbot (KhanMigo) whose learners were not actually engaging with it and where evidence of positive gains was limited.
+- **Institutions.** Budget for governance and organizational readiness alongside the technology: senior leadership sponsorship, cross-unit collaboration, iterative DBR refinement, and data-informed decision-making were the enabling factors, while the mapping found gaps in systems-thinking capacity and in institutionalizing change beyond recurring "pilot project" mode.
+- **Institutions.** Judge adoption by process data with realistic expectations: AIDA-supported students spent on average roughly twice as long in the course as the 48 control students (75m59 vs. 30.85 min), but the difference was not statistically significant (Z = −1.433), so an engagement signal is not by itself evidence of learning.
+- **Educators.** Design explicitly for the distance-learning conditions the paper describes — 70% of students already in work and no feasible in-person invigilation — by pairing AI support with visible academic-integrity and data-privacy provisions, since ethics, integrity, and privacy were the concerns students raised most before they had used the tool.
 
 ## Limitations
 

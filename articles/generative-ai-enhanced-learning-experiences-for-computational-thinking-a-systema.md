@@ -1,7 +1,7 @@
 ---
 title: "Generative AI-enhanced learning experiences for computational thinking: A systematic scoping review and design guidelines"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T16:35:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, computational-thinking, learning-design]
 technology: [generative-ai, intelligent-tutoring]
@@ -34,9 +34,20 @@ methods: [meta-analysis-systematic-review]
 6. **Design learning experiences with digital [[ethics]] and integrity in mind** — address privacy, bias, and [[academic-integrity|academic integrity]] concerns, mitigating issues by design (e.g., privacy-by-design).
 7. **Rethink targeted skills for CT** — evaluate which skills students should actually acquire in CT education, balancing instruction between algorithmic thinking and other CT dimensions.
 
-## Implications
+## What this means for practice
 
-This review gives educators and [[ai-education|AI-in-education]] designers a roadmap for using GenAI to teach CT without sacrificing the underlying [[computational-thinking]] skills. The overreliance/under-utilization tension means the same tool needs different [[scaffolding]] for different learner levels — guidance and tutor-style prompting for beginners, richer open-ended integration for advanced learners. The seven guidelines align with the broader shift from seeing [[generative-ai|GenAI]] as an answer-provider to treating it as a scaffolded partner in [[cs-education|CS education]] and CT, and echo the knowledge base's emphasis on distinguishing genuine [[learning-gains|learning]] from mere performance (see [[genai-performance-vs-learning]]).
+- **Instructors.** For beginners, position GenAI as a tutor that prompts reasoning rather than a coder or debugger that supplies the solution, and explain the over-reliance risk before students touch the tool.
+- **Instructors.** Differentiate [[scaffolding]] by learner level: the same tool needs tutor-style prompting and controlled, limited use for novices and teenagers, and richer open-ended integration for advanced learners, who often under-use it in complex projects.
+- **Instructional designers.** Embed GenAI in open-ended projects that require learners to apply [[computational-thinking|computational thinking]] concepts themselves, since more than 80% of the reviewed learning experiences used simple exercises and most targeted basic programming in introductory courses.
+- **Instructional designers.** Build reflection into GenAI-supported activities with critical-thinking prompts, post-task debriefings, and learning journals, because only a minority of studies examined how students reflect on their GenAI use or how instructors adapt.
+- **Researchers.** Measure reflection and instructor adaptation alongside outcomes using new scales that separate over-reliance risk from the conditions for success, since the review found outcome measurement often weak.
+
+## Limitations
+
+- Scoping review rather than primary evidence: 38 studies from 1,198 records searched in October 2024, so the design supports mapping and guidance, not causal claims.
+- Corpus-level methodological weakness: randomized controlled trials remain limited and many findings come from less controlled or exploratory settings, which the authors say may explain the mixed outcomes.
+- Model monoculture: the overwhelming majority of reviewed learning experiences used one company's GPT models, limiting comparative insight across models.
+- Coverage gaps: the search stopped in October 2024, and records were excluded for being non-English (n = 1) or available only as abstracts (n = 4).
 
 ## Connected Concepts
 

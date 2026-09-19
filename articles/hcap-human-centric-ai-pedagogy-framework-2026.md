@@ -1,7 +1,7 @@
 ---
 title: "Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, educational-development, learning-design]
 technology: [pedagogical-llm-training]
@@ -27,9 +27,13 @@ level: [teacher training]
 
 This study used a **three-round Delphi method** with a panel of 30 teachers from diverse subjects to establish expert consensus on the knowledge and skills required within each HCAP domain. An initial list of 20 knowledge items was refined iteratively: in Round One, seven items reached consensus and two new items were proposed; in Round Two, four more reached consensus, one new item (well-being advocacy) was proposed, and some items were split or renamed; in Round Three, nine more reached consensus and one new item (ethical integration) was proposed. The final list comprised 25 knowledge items. The study adopted a 75% agreement threshold (in line with prior Delphi research), and items endorsed for removal by more than half of the teachers were excluded. Teacher modifications to item labels and descriptions were incorporated across rounds.
 
-## Implications for AI in Education
+## What this means for practice
 
-The HCAP framework provides a concrete, empirically grounded roadmap for [[teacher-education|teacher education]] and [[educational-development]], translating a theoretical model into actionable competencies for orchestrating human-AI collaborative learning. It positions teachers not merely as tool users but as **strategic orchestrators and conductors of human-AI collaboration** who use AI ethically, critically, and productively. The five-domain structure offers a practical basis for designing future-ready teacher training programs and professional development, connecting to [[ai-literacy]], [[teacher-ai-competency]], [[teacher-role]], and [[learning-design]]. It responds to the paradigm shift from passive, deterministic digital tools to active, [[agentic-ai|agentic AI]] systems, and its ethical and collaboration domains address the human-centered concerns central to responsible [[ai-education]] in the generative AI era.
+- **Faculty developers.** Assess HCAP proficiency with a competency-based portfolio of human-AI teaching artifacts — a video of facilitated critical dialogue, annotated student work, a reflective journal on system auditing, and a curated set of prompts with their validated outputs — rather than written assignments, and position teachers as strategic orchestrators of human-AI collaboration rather than tool users.
+- **Faculty developers.** Build cross-disciplinary professional learning communities in which pre- and in-service teachers, technology specialists, and subject-matter experts collaborate, so a math teacher working on disciplinary methodological critique can partner with a computer science colleague who has strong algorithmic literacy.
+- **Instructors.** Redesign assessment toward process portfolios that include students' prompts, their critique of AI outputs, and a reflection, instead of summative products that assume individual authorship.
+- **Instructors.** Sequence AI integration deliberately: audit tools and engineer prompts first (I-TK), then triangulate and critique outputs against reputable sources (I-CK), then design scaffolded [[human-ai-collaboration|co-agency]] and dynamic role allocation (I-PK and HAIC-K), with ethical protocols such as disclosure requirements running throughout.
+- **Administrators.** Treat the five domains as interdependent and fund development accordingly, because deficiency in any one domain — technical skill without ethical competence, for instance — undermines the integrity of the whole framework.
 
 ## Limitations
 
