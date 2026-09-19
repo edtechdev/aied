@@ -53,7 +53,7 @@ audience: [assessment designers, instructors, institutions]
 - [[ai-assessment-scale-reform]] — The AI Assessment Scale and the work of assessment reform
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Oral exams and AI-authentic assessment
-- [[walton-bearman-assessment-judgement-2025]] — Assessment judgment in the age of AI
+- [[walton-bearman-assessment-judgment-2025]] — Assessment judgment in the age of AI
 - [[end-of-assessment-ai-disruption-transformation-2026]] — The end of assessment: AI disruption and transformation
 
 ## Citation

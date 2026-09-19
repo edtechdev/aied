@@ -6,7 +6,7 @@ type: article
 foundations: [misconceptions]
 technology: [cognitive-diagnosis, generative-ai, learning-analytics, llm, visualization]
 assessment: [automated-assessment, feedback, formative-assessment]
-sources: ['raw/papers/llm-common-modelling-mistakes-formalisms-2026.md']
+sources: ['raw/papers/llm-common-modeling-mistakes-formalisms-2026.md']
 confidence: high
 research_method: [system development, learning analytics, design and evaluation study]
 discipline: [cs education]
