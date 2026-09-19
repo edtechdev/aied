@@ -1,7 +1,7 @@
 ---
 title: "The Use and Usefulness of GenAI in Higher Education: Student Experience and Perspectives"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
@@ -24,9 +24,20 @@ confidence: high
 - Equity gaps were evident: proportionately lower engagement among women, non-binary, neurodivergent students, and those with health conditions.
 - While most students avoided prohibited use, a significant minority reported behavior that contravenes [[educational-policy-ai|policy]], pointing to a need for nuanced, situationally aware academic-integrity approaches.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study provides rare large-scale evidence on how students actually use GenAI and why, showing that usefulness and self-managed learning — not rule compliance — shape engagement. The findings support institutional responses that go beyond prohibition: improving guidance, attending to equity in access and use, and developing more nuanced academic-integrity policies that recognize the pragmatic way students incorporate these tools. It speaks directly to [[student-experience]], [[ai-literacy]], [[equity-in-ai-education]], and [[academic-integrity]] in [[higher-ed]].
+- **Instructors.** Build guidance around how students already work — editing, summarizing, and idea generation — rather than around rule compliance, since usefulness rather than [[trust|trust]] or policy drove engagement.
+- **Instructors.** Make AI use discussable in class: students reported low trust in GenAI's factual accuracy but confidence in managing it as a support tool, so the teaching task is calibration rather than prohibition.
+- **Administrators.** Target [[equity-in-ai-education|equity]] gaps directly, since engagement was proportionately lower among women, non-binary, neurodivergent students, and students with health conditions.
+- **Administrators.** Fund institutional [[ai-literacy]] provision, because most students learned about GenAI informally through self-directed means rather than through university resources.
+- **Administrators.** Rewrite [[academic-integrity]] policy to distinguish prohibited use from the pragmatic, situationally negotiated use that a significant minority reported, instead of relying on blanket bans.
+
+## Limitations
+
+- Respondents were N = 8021 students who completed the full survey, drawn from 10,132 volunteers (5% of roughly 192,000 invited students) distributed as 3859 from Monash University, 2582 from University of Queensland, 997 from University of Technology Sydney, and 583 from Deakin University.
+- Recruitment was restricted to the researchers' respective universities, producing a convenience sample, and each institution applied its own distribution process.
+- The design is a single cross-sectional online survey; frequency and purpose of use are self-reported rather than observed, and a further 826 students completed only part of the survey.
+- Findings come only from four Australian universities, so the demographic and equity patterns cannot be assumed to transfer to other national systems or institution types.
 
 ## Connected Concepts
 - [[student-experience]]
