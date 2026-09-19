@@ -1,7 +1,7 @@
 ---
 title: "Agents That Teach: Towards Designing Incidental Learning Back into AI-Assisted Software Development"
 created: "2026-07-08T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
@@ -56,13 +56,19 @@ SHIELD (Safeguarding Human Expertise and Incidental Learning in Software Develop
 
 A comprehension check closes the loop, refining the Concept Map and informing future triage. SHIELD is implemented as a VSCode extension using the CrewAI framework with a Neo4j graph-based Concept Map, powered by GPT-5.1, instrumented to work with Claude Code as the developer's agent. An illustrative scenario walks through a payment API webhook retry task in which the agent replaces fixed retry logic with exponential backoff and jitter — surfacing the concept behind the change as a teachable moment.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Treat learning as a first-class design concern.** Productivity alone is an insufficient measure of AI-assisted development; learning-aware systems should make productivity and learning complementary rather than competing, a theme echoed in [[self-regulated-learning]] and [[professional-training]].
-- **Designing for flow, not formal interruption.** The Ambient and Selective principles suggest that lightweight, out-of-band interventions outperform blocking, [[curriculum-design|curriculum]]-style instruction — a transferable lesson for [[ai-literacy]] and professional training in [[agentic-ai|agentic]] tools.
-- **Calibrate to the learner's evolving model.** The Concept Map approach parallels [[student-modeling]]: distinguishing mastered, partially understood, and unfamiliar concepts lets interventions target genuine gaps rather than fire on everything.
-- **Repay [[cognitive-offloading|Knowledge Debt]] continuously.** For [[cs-education]] and [[higher-ed]], this reframes the goal of agentic tools from task completion to sustaining human expertise, connecting to broader concerns about [[lifelong-learning|skill atrophy]] as AI absorbs implementation work.
-- **Agents can teach.** The "agents that teach" vision — leveraging the agent's own reasoning as the source of learning moments — suggests [[intelligent-tutoring|pedagogical]] designs in which AI both does and explains the work.
+- **Instructors.** Treat learning as a first-class outcome alongside productivity, since the cited controlled study found developers using AI assistance scored 17% lower on a subsequent comprehension assessment and full delegators declined most steeply.
+- **Instructors.** Favor lightweight, out-of-band prompts over blocking [[curriculum-design|curriculum]]-style instruction, because interventions that interrupt flow train learners to ignore them.
+- **Developers.** Ground learning prompts in the coding agent's reasoning — its rationale, the alternatives it considered, where it was uncertain — rather than in code diffs alone, and let the developer trigger them when ready.
+- **Designers.** Maintain a per-developer concept map and close the loop with comprehension probes whose outcomes update what gets surfaced next, so interventions target genuine gaps instead of firing on every interaction.
+
+## Limitations
+
+- SHIELD has not been evaluated: the paper reports only early demonstrations to stakeholders and states that empirical user studies are planned, so none of the six principles has been tested against learning outcomes.
+- The motivating evidence is external — the 42% AI-generated code share (projected 65% by 2027) comes from industry reports and the 17% comprehension drop comes from a prior controlled study, not from this work.
+- The authors label the six principles "early" and invite the community to refine and extend them, so they are proposed requirements rather than validated design constraints.
+- No data are reported on the probe-and-triage mechanism's precision — false positives, developer acceptance, or whether asynchronous comprehension probes actually verify internalization remain untested.
 
 ## Connected Concepts
 - [[cs-education]]

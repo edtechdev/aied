@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Designing AI Technologies to Support Adult Learning
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, learning-design]
 technology: [rag, edtech-platform]
@@ -70,12 +70,19 @@ The guidelines span four categories:
 - **Personalization (G11)** had low satisfaction across systems: most deployed surface-level personalization (adapting examples, knowledge checks) rather than deeper adaptations like task sequencing or difficulty calibration.
 - **Data transparency (G1)** and **social/community features (G18, G19)** consistently scored lowest across the heuristic evaluation.
 
-## Design Implications
+## What this means for practice
 
-1. **Design for adult life constraints** — mobile access, offline support, and asynchronous availability are not nice-to-haves; they are prerequisites for adult learners balancing work, family, and education.
-2. **Ground AI tools in andragogy**, not just pedagogy — adult learners are self-directed, problem-oriented, and bring life experience that shapes how they engage with technology.
-3. **Heuristic evaluation using these 19 guidelines** provides a structured method for assessing adult learning technologies against empirically grounded criteria.
-4. **The guideline exploration tool** connects abstract design principles to concrete stakeholder quotes, supporting ideation and technology refinement.
+- **Instructors.** Run the paper's 19 guidelines as a heuristic evaluation before adopting any [[adult-learning|adult-learning]] AI tool, and expect no single tool to satisfy all 19 — the AI-ALOE ecosystem covered the full set only collectively.
+- **Designers.** Treat adult-life constraints as prerequisites rather than features: mobile access, offline capability, and affordability came directly from learners balancing work, family, and study.
+- **Designers.** Ground tools in andragogy, not just [[pedagogy]]: adult learners are self-directed and problem-oriented, and tools that inherit [[k-12|K-12]] design patterns fit their constraints poorly.
+- **Designers.** Fix the lowest-scoring areas first: data transparency and social/community features scored lowest across the deployed systems, and personalization stayed surface-level — adapting examples and knowledge checks rather than task sequencing or difficulty calibration.
+
+## Limitations
+
+- The corpus comes from a single institute: 15 research-team presentations, transcripts from 17 focus groups, and 3 sets of cross-team feedback (about 1,600 statements) covering seven AI-ALOE technologies, so the guidelines reflect that ecosystem's deployments rather than adult learning generally.
+- The synthesis is interpretive by design — the authors state that another research team drawing on different experiences and values might arrive at an alternate set of themes or guidelines.
+- The heuristic evaluation tested systems against the guidelines rather than measuring learning; no guideline is validated against learner performance data, and the guideline exploration tool is presented as a demonstration of utility.
+- Guideline-level analysis counts statements rather than effects: grounding in learning science (G3) was raised entirely by research teams, and instructors and learners never explicitly discussed the value of theoretical or empirical evidence, so the set mixes concerns no learner voiced with those they prioritized most.
 
 ## Connected Concepts
 

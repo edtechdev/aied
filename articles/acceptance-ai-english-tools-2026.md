@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-08-23T09:20:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -28,9 +28,13 @@ confidence: high
 
 The study surveyed 210 undergraduates from a Chinese university, with balanced disciplinary (STEM vs. Humanities) and proficiency (Low/Intermediate/High English) groups. Instruments measured AI-assisted English learning acceptance outcomes (perceived usefulness, perceived ease of use, behavioral intention, satisfaction) alongside learning motivation, self-efficacy, anxiety, and risk perception. Analyses included descriptive statistics, reliability and convergent validity, full-sample adjusted linear regressions with robust standard errors, mean-level group comparisons, post hoc comparisons, and exploratory subgroup-specific regressions. The authors were explicit that subgroup regressions describe within-group patterns rather than testing between-group coefficient differences, and that the cross-sectional design supports associative rather than causal interpretation.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings argue that acceptance of AI-assisted [[language-learning]] tools is not purely a matter of perceived usefulness or ease of use — it is shaped by learners' psychological resources ([[motivation]], [[self-efficacy]]), [[affective-computing|affective]] states (anxiety), and evaluative judgments (risk perception), which vary descriptively across disciplines and proficiency levels. For practitioners, this supports designing AI-assisted English learning that builds learner confidence and motivation rather than merely optimizing [[usability-research|usability]], and tailoring support to disciplinary norms and proficiency groups. It also cautions against simplistic assumptions that anxiety always blocks or risk perception always deters AI adoption. The study grounds a learner-centered extension of TAM for [[generative-ai]] English learning, complementing system-centered technology acceptance accounts.
+- **Instructors.** Build learner confidence and motivation alongside usability: self-efficacy (β = 0.614) and learning motivation (β = 0.625) were the strongest correlates of perceived usefulness, in models adjusted for gender, discipline, CET-4 score, and use frequency.
+- **Instructors.** Do not read anxiety or risk perception as automatic barriers: anxiety's associations with acceptance outcomes were positive but exploratory, and risk perception's were positive though weaker, so neither supports withholding the tool on affective grounds.
+- **Instructors.** Expect descriptive differences across learner groups rather than one uniform learner: mean-level acceptance outcomes varied by discipline (STEM vs. humanities) and English proficiency (low, intermediate, high), estimated in within-group regressions rather than tests of between-group differences.
+- **Designers.** Support the tasks self-efficacy depends on — interpreting automated feedback, revising language output, and pacing AI-supported practice — rather than optimizing perceived ease of use alone.
+- **Researchers.** Replicate before treating the subgroup patterns as guidance, because the design is cross-sectional and the authors state the associations are not causal.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "A Comprehensive Review of the Changing Landscape of Academic Dishonesty in Automated Proctoring in the Era of Artificial Intelligence"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-08-20T04:45:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -30,9 +30,20 @@ institutions: [educational-policy-ai]
 
 A comprehensive thematic review of proctoring systems (conventional, online, automated, AI-based), analyzing applications, [[ai-technologies|technologies]], challenges, and [[research-methods-aied|research]] gaps across eight research questions covering features, challenges, countermeasures, and future trends. It synthesizes the literature on proctoring's evolution, categories, and associated challenges to guide future research.
 
-## Implications for AI in Education
+## What this means for practice
 
-Remote and automated proctoring addresses the integrity needs of online and distance assessment, but its effectiveness is bounded by infrastructure [[equity-in-ai-education|equity]], psychological burden, and the risk of false accusations. Institutions adopting [[remote-proctoring]] must pair AI monitoring with accessible alternatives, clear communication, and support for test-taker anxiety, and should weigh it against [[authentic-assessment|assessment redesign]] that reduces reliance on surveillance.
+- **Administrators.** Pair any AI monitoring with accessible alternatives and a plan for test-taker anxiety, because the review documents false malpractice accusations when proctor and test-taker proficiency diverge, and infrastructure demands (webcam, microphone, reliable connection) that not all students can meet.
+- **Assessment professionals.** Weigh surveillance against assessment redesign: the review's own conclusion is that remote and automated proctoring addresses the integrity needs of online assessment but is bounded by cost, [[digital-divide|infrastructure equity]], and psychological burden.
+- **Administrators.** Budget for the full infrastructure rather than the license: AI/ML proctoring that reads facial expressions and emotions through imaging raises both cost and hardware requirements, and real-time video storage plus CNN inference for gaze, head pose, and expression detection create latency and storage pressure.
+- **Instructors.** Tell students in advance what the system records and why, since readiness, hardware and software requirements, and security and privacy concerns were the challenges students reported most in the review's case study, alongside the faculty role in the transition.
+- **Researchers.** Treat gaze, head-pose, and activity recognition as unsolved in unconstrained settings: the review notes that deep-learning multi-user gaze estimation remains largely unexplored for lack of generic, publicly available datasets.
+
+## Limitations
+
+- The search covers only IEEE, Science Direct, SCOPUS, and SCI plus Springer, EBSCO, ProQuest, and Taylor & Francis, restricted to 2008-2024 and to English-language peer-reviewed publications — an exclusion the authors note may drop research from non-English-speaking regions where online education is expanding fastest.
+- Publication bias is acknowledged in the review itself: studies with statistically significant or positive results are more likely to be published, overrepresenting successful proctoring implementations and underreporting failures or ineffective systems.
+- No primary data were collected. The review synthesizes other studies, and figures such as ~37.8% of college and ~41.8% of high-school students admitting to cheating come from the cited surveys rather than any measure the authors designed or administered.
+- The authors state that AI-based proctoring systems are trained on Western behavioral norms and may not be trained on datasets from other regions, which limits the fairness claims of the systems reviewed.
 
 ## Connected Concepts
 

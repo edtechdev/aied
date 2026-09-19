@@ -1,7 +1,7 @@
 ---
 title: Exploring How Agent Voice Accents Shape Human-AI Collaboration in K-12 Group Learning
 created: "2026-06-12T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -23,6 +23,21 @@ The between-subjects mixed-methods study involved 33 teachers interacting with a
 3. These role expectations influenced collaboration dynamics: turn-taking, questioning patterns, and perceived social presence all shifted based on accent condition.
 
 The findings advance understanding of how GenAI's sociolinguistic design features shape group dynamics in CSCL (computer-supported [[collaborative-learning]]), with implications for designing [[equity-in-ai-education|culturally inclusive AI partners]]. The work connects to [[human-ai-collaboration]] debates about [[teacher-role|teacher and AI roles]] in collaborative classrooms, and raises important questions about [[ai-literacy|how accent may inadvertently reinforce or disrupt power dynamics]] in educational AI.
+
+## What this means for practice
+
+- **Instructors.** Name the agent's role explicitly before learners meet it and use discussion-based value prompts rather than information-focused icebreakers: the authors found their own icebreaker failed to scaffold Phoenix's role, so groups defaulted to familiar voice-assistant mental models and evaluated the system instead of partnering with it.
+- **Instructors.** Choose the agent's voice against your pedagogical goal rather than as neutral polish: an agent perceived as a detached tool is used transactionally, one perceived as an authority invites uncritical deference, and one perceived as a peer invites dialogic engagement — with accent subtly steering which of these orientations appears.
+- **Instructors.** Set engagement norms for how the agent's contributions are evaluated and design activities around them, since over-humanization can foster unrealistic expectations, discomfort, or distraction from the task.
+- **Learners.** Push back on the agent rather than deferring to it: the authors warn that group members may defer uncritically to an agent they read as an authority, while a peer-perceived partner supports dialogic, [[collaborative-learning|collaborative]] engagement.
+- **Designers.** Treat a group-facing agent's voice as part of the activity design, not an after-the-fact styling choice: sociolinguistic cues shape authority and participation in the classroom, so the role framing and the voice need to be designed together.
+
+## Limitations
+
+- The convenience sample is 33 teachers working in 11 small groups, recruited as educators predisposed to educational technology; the authors state this constrains generalizability, and the agent was fielded with teachers rather than students.
+- Interactions were one-off and lab-based rather than longitudinal classroom use, so the study captures only a snapshot of how agent roles and group dynamics vary with accents.
+- A technical oversight meant two Black-accent groups received no audible agent output, so the condition structure became unbalanced — Black (n = 6), voiceless (n = 6), Indian (n = 11), British (n = 10) — and only 31 of 33 participants returned post-surveys.
+- Technical constraints including latency and limited model transparency affected interaction flow and trust, and the quantitative check found no significant accent differences on any CASUX subscale (Proficiency F(3, 27) = 0.232, p = .873; Etiquette & Mannerism F(3, 27) = 1.393, p = .266; Personality F(3, 27) = 0.776, p = .517), leaving the sample possibly underpowered for small effects.
 
 ## Connected Concepts
 

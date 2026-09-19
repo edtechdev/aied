@@ -1,7 +1,7 @@
 ---
 title: Agentic Education with AI Coding Assistants
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [metacognition, scaffolding]
@@ -87,21 +87,19 @@ Agentic tools ship breaking changes on a cadence measured in days — a curricul
 
 A pilot with 27 participants showed statistically significant reported [[self-efficacy]] gains across all 10 assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills. The author draws on 18 years of experience as a Microsoft Certified Trainer and positions the pedagogy as enabling [[self-directed-learning|self-directed]], [[lifelong-learning|lifelong]] mastery of rapidly evolving tooling.
 
-## Implications
+## What this means for practice
 
-### For AI coding education
-- **[[curriculum-design|Curriculum]] must treat tool mastery as a first-class learning objective**, not an afterthought to feature documentation.
-- **Reflexive design — teaching the tool with the tool** — lets advanced agentic systems serve as both tutor and tutee, a form of [[learning-by-teaching|recursive pedagogy]].
-- **[[transfer-of-learning|Transfer]] across tools and domains** is a core concern: does mastery of Claude Code transfer to other agentic environments and to arbitrary codebases?
+- **Instructors.** Make tool mastery a first-class curriculum objective with a progressive path from first contact through multi-agent orchestration, rather than pointing learners at feature documentation and tutorials that go stale within days.
+- **Learners.** Run the material against your own codebase (the BYOP path) so the artifact you build doubles as a [[transfer-of-learning|transfer]] test — the pilot measured only reported [[self-efficacy]], not transfer.
+- **Designers.** Use lightweight hook-based observation instead of heavyweight student models, and respond asymmetrically: raise [[scaffolding]] as soon as a struggle streak appears but withdraw it only at module boundaries.
+- **Designers.** Build content-decay handling into the courseware itself: check the learner's installed tool version at onboarding and regenerate the modules before instruction begins.
 
-### For adaptive and intelligent tutoring systems
-- **Lightweight, deployable observation** (keyword heuristics in hooks) can deliver adaptive [[scaffolding]] without heavyweight student models, trading sophistication for deployability.
-- **Two-timescale adaptation** — fast streak response plus slow aggregate adjustment — offers a reusable pattern for [[personalized-learning|personalized]] instruction.
-- **Engagement quality, not difficulty, is the lever**: systems that detect and reward active reasoning over passive consumption may capture gains that harder problems cannot.
+## Limitations
 
-### For the design of auto-updating educational systems
-- **Content decay is a first-order problem** for any curriculum that teaches fast-moving tooling; auto-updating curricula address it at the point of use.
-- **Automated structural tests can proxy for pedagogical invariants** where runtime telemetry is unavailable, making it safe to let the curriculum itself evolve.
+- The pilot (n = 27) was a within-subjects pre/post design with no control group, so the reported gains cannot be separated from exposure or practice effects.
+- Outcomes were self-reported [[self-efficacy]] on a coarse Likert scale rather than task-based performance — the author notes a 7-point scale would have discriminated more finely — and participants knew the author had designed the curriculum, inviting demand effects.
+- All 27 participants were professional software engineers recruited from a single client organization, limiting generalizability, and one advanced participant scored at ceiling on both surveys, leaving 26 of 27 showing improvement.
+- The engagement classifier relies on keyword heuristics and can misclassify (a learner pasting an error message for context is scored as a debugging attempt), the structural test suite verifies curriculum consistency rather than instructional effectiveness, and the local-only design limits further empirical evaluation.
 
 ## Connected Concepts
 

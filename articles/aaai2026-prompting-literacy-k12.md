@@ -1,7 +1,7 @@
 ---
 title: "Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-26T15:34:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 technology: [llm, rag, simulation]
@@ -66,14 +66,20 @@ The lowest accuracy (Purpose, 0.85) stemmed from the auto-grader over-generating
 - **Scenario variety**: some students wanted non-[[stem-education|STEM]] scenarios
 - LLM response latency disrupted the practice flow
 
-## Design Implications
+## What this means for practice
 
-The study demonstrates that [[prompt-engineering]] can be taught effectively to K-12 students through structured practice with automated feedback. Key design principles:
+- **Instructors.** Teach prompting through scenario-based deliberate practice with a real chatbot in the loop, since the gains came from writing prompts, reading the AI's answer, and receiving dimension-level feedback rather than from instruction about prompts.
+- **Instructors.** Spend teaching time on embedding background and context: it was the only prompting dimension that improved significantly (p = .039 from Q1 to Q3), while relevance, conciseness, and purpose showed ceiling effects from the first question.
+- **Instructors.** Assess prompting literacy with true/false plus open-ended items instead of multiple-choice questions — none of the MCQ items fell in the desired difficulty range [0.3, 0.7], against 60% of open-ended and 30% of true/false items.
+- **Learners.** Practice in the platform rather than only reading about prompts, and expect the difficulty to be the point: students could identify a good prompt conceptually but struggled to write one, and 22 students reported that slow AI responses, login problems, or weak typing made the practice harder than the skill itself.
+- **Administrators.** Provide prompting instruction in school for all students, because prior AI use frequency predicted initial prompt quality (r = 0.27, p = .017) — a [[digital-divide|digital divide]] in who arrives already fluent.
 
-1. **Scenario-based deliberate practice** with authentic AI interaction
-2. **Immediate, dimension-level feedback** powered by LLM auto-grading
-3. **Assessment aligned to competency** — open-ended + T/F outperform MCQs for higher-order prompting skills
-4. **Addressing the [[digital-divide|digital divide]]** — prior AI access correlates with initial performance, underscoring the need for in-school prompting literacy instruction
+## Limitations
+
+- Two classroom iterations in East Asian secondary schools with no comparison condition: the authors state the study did not compare this approach with other AI literacy instructional methods and propose using it as a benchmark for later comparisons.
+- The auto-grader's accuracy is validated against human labels on 483 student-written prompts, and its weakest dimensions were Clarity of Purpose (0.85) and No Direct Answer (0.88), where it over-generated keywords and conflated Purpose with the No Direct Answer criterion.
+- Effects rest on self-report and short pre/post measures: confidence rose 10.4% (p < .001), but the 98 students who completed both pre- and post-test showed no significant change (p = .377) because of a pre-test ceiling (Mean = 4.4, SD = 1.04).
+- Reliability fell below the conventional benchmark and the assessment iteration rests on a small item pool: Cronbach's α was 0.68 for the original and 0.58 for the iterated version, which the authors attribute to small sample size and few items and flag for larger-scale administration.
 
 ## Connected Concepts
 

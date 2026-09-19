@@ -1,7 +1,7 @@
 ---
 title: "Leveling the Playing Field: Temporal Video Segmentation for Individuals with ADHD in Computing Education"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [learning-design]
 technology: [llm]
@@ -24,9 +24,19 @@ level: [special education]
 - The intervention had an equalizing effect: ADHD participants' errors and hesitations fell to parity with their non-ADHD peers, not merely improving but closing the gap.
 - The work is presented as evidence for Universal Design for Learning achieved through automated content transformation, a task well-suited to AI/[[llm]] pipelines.
 
-## Implications
+## What this means for practice
 
-Temporal segmentation demonstrates how a lightweight, post-hoc content transformation can deliver Universal Design for Learning at scale. It connects [[inclusive-learning]] and Cognitive Load Theory with AI pipelines, showing that automated intervention can level outcomes for [[neurodiversity]] learners in [[cs-education]] and video-based instruction generally.
+- **Instructors.** Split instructional videos at each single instruction and insert pauses rather than playing them straight through: on medium and hard Scratch tasks, participants with ADHD produced roughly 87% fewer errors on segmented versions of the same audiovisual content (β = −2.05, IRR = 0.128, p < .001).
+- **Instructors.** Apply the treatment most aggressively to the hardest content, because effects grew with task difficulty: rate ratios reached 7.75 (errors) and 4.70 (hesitations) for the ADHD group, against 3.33 and 2.71 for non-ADHD peers.
+- **Instructors.** Do not lean on re-watching as the accessibility strategy. Several participants described repeat-the-steps tasks as an implicit "test of memory" and asked for instruction to pause until the learner completes the corresponding action in the workspace.
+- **Designers.** Ship segmentation as a post-hoc transformation of existing videos — nothing needs re-recording — with pauses held near 4 seconds, the duration a 13-participant pilot identified as long enough for mental rehearsal in Scratch's spatial-logical mapping while avoiding the engagement drops and mind-wandering seen at 6 seconds.
+
+## Limitations
+
+- The sample is 27 participants (17 with ADHD, 10 without) recruited through campus flyers and non-computer-science faculty email at one university, all with no prior programming experience; the authors state that the sample and the Scratch block-coding environment may limit generalizability.
+- Cognitive load was operationalized behaviorally only — errors and hesitations, where a hesitation is a 3-second pause or a verbal expression of confusion — with no physiological or dual-task measures (pupillometry, EEG, secondary-task interference) and no standardized working-memory assessment such as an n-back test.
+- The segmentation-by-ADHD interaction terms were not statistically significant (errors p = .232; hesitations p = .242), and the authors state the study was underpowered to distinguish the groups statistically, so the equalizing claim rests on effect-size magnitude (ADHD d = 1.14 vs control d = 0.72).
+- The 4-second pause is a fixed, pilot-derived parameter from a 13-participant pilot, and the segments were added manually in Final Cut Pro and agreed on by the authors, not generated automatically.
 
 ## Connected Concepts
 

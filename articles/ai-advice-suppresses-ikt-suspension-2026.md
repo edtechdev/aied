@@ -1,7 +1,7 @@
 ---
 title: "AI Advice Suppresses People's Willingness to Say \"I Don't Know\", Even When the Advice Is Wrong and Accuracy Is Incentivized"
 created: "2026-08-21T13:30:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, human-ai-collaboration, reducing-ai-misuse]
 pedagogy: [metacognition]
@@ -33,13 +33,19 @@ level: [adult learning]
 
 Although the study is framed around general [[human-in-the-loop-ai|human judgment]] (fine visual details in films), its mechanism operates on the **availability and fluency of an answer, not its subject matter** — so it applies directly wherever AI supplies a confident response, including [[assessment]], homework, tutoring, and information-seeking in learning. The authors explicitly note this bears on [[cognitive-offloading]], the erosion of human [[agency]], and "cognitive surrender." For education specifically, the findings suggest that the mere presence of AI may suppress learners' willingness to withhold judgment and acknowledge uncertainty — a core metacognitive and epistemic skill ([[metacognition]], [[critical-thinking]]) — while inflating their confidence in wrong answers ([[trust-calibration]]) and eroding [[self-efficacy]]. It also implies that **the goal of AI-literacy instruction may be less to teach tool skill than to preserve learners' readiness to recognize and act on the limits of what they know** ([[ai-literacy]], [[reducing-ai-misuse]]), a challenge that sits at the heart of [[human-ai-collaboration]] and [[ai-education]].
 
-## Practical Implications
+## What this means for practice
 
-- **Design for "I don't know," not just correct answers.** Assessments that reward any output, or environments where AI answers are always at hand, may discourage learners from withholding judgment under uncertainty. Build in structured opportunities and incentives for acknowledging uncertainty and suspending judgment (process documentation, calibrated-confidence prompts, metacognitive reflection) rather than only rewarding final answers.
-- **Make consequences of errors salient.** Monetary-style stakes (or real grade/accuracy consequences) reduced reliance on AI and improved accuracy when AI was present — though they did not restore suspension. Use assessment and feedback designs that reward accuracy over fluent completion.
-- **Reduce unsolicited AI defaults.** Since automatic AI suggestions produced the same collapse of judgment suspension, educators should be mindful of search-summary, autocomplete, and writing-assistant defaults that surface an answer before learners form their own judgment.
-- **Teach verification and calibration, not just [[prompt-engineering|prompting]].** Instruction should target monitoring confidence, recognizing when to withhold, and overriding AI output — aligning with automation-bias and [[trust-calibration]] [[research-methods-aied|research]] — rather than assuming technical AI literacy protects learners.
-- **Extend AI-literacy toward epistemic judgment.** The authors frame a research direction: whether [[teacher-role|teaching]] users how and when LLMs fail can restore judgment suspension and guard against cognitive surrender — a directly testable goal for AI-literacy curricula.
+- **Researchers.** Score judgment suspension itself rather than only correctness: assessments and experiments that reward any output miss the near-elimination of "I don't know" that AI availability produced (0.06 vs. 0.36 in Study 1a).
+- **Researchers.** Build structured opportunities to acknowledge uncertainty — process documentation, calibrated-confidence prompts, metacognitive reflection — instead of only rewarding final answers, and treat unsolicited AI defaults (search summaries, autocomplete, writing assistants) as threats to that practice, since automatically displayed advice caused the same collapse.
+- **Researchers.** Target instruction at verification and calibration — monitoring confidence, recognizing when to withhold, overriding AI output — rather than at tool skill, as the results imply technical [[ai-literacy|AI literacy]] does not protect learners' readiness to suspend judgment.
+- **Researchers.** Instrument verification behavior directly and test the boundary conditions: whether suspension collapses when AI advice is usually correct, and whether real-consequence stakes differ from the modest $0.10 accuracy incentives used here.
+
+## Limitations
+
+- All five experiments (N = 3,132) used a single class of stimuli — fine visual details in films — deliberately chosen because they reliably induce [[hallucination-risk|hallucinations]], so the AI was almost always wrong; whether judgment suspension collapses to the same degree when advice is usually correct is left open by the authors.
+- Participants were US-based Prolific respondents paid a £0.30 base rate and $0.10 per correct answer in the stakes conditions; whether errors with real-world rather than monetary consequences behave the same is untested.
+- The design did not record whether participants who overrode the AI consulted other sources such as the open Internet or another model, so successful overrides cannot be attributed to reduced AI reliance rather than increased use of alternatives.
+- The incentives, though effective, were modest, and the authors state that whether larger or reputational stakes would close more of the gap to baseline remains unknown.
 
 ## Connected Concepts
 

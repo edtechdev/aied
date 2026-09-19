@@ -1,7 +1,7 @@
 ---
 title: "Access is Not Enough: Human Support Improves Engagement with AI Tutoring"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
@@ -39,6 +39,21 @@ methods: [rct]
 - Total added dosage: ~22 minutes (A) and ~98 minutes (B) across the *entire* intervention
 - **No reading achievement gains** in either district (negative, non-significant) — consistent with the achieved dosage
 - Strong site-level variation: some sites saw little effect, others meaningful gains — local implementation conditions matter
+
+## What this means for practice
+
+- **Learners.** Show up for every scheduled session rather than treating access as use: control students used the platform in only 4–5 of the 14–31 weeks and averaged 2.18 minutes per week in District A and 5.23 in District B.
+- **Instructors.** Give the AI time a person whose job is engagement, not instruction: a 10-minute check-in, 15 minutes on the platform, and a 2–5 minute reflection raised usage by 1 minute per week in District A and 4.4 in District B, and engagement by 71% and 80%.
+- **Instructors.** Do not expect engagement support to buy achievement: neither district showed significant reading gains, and the estimated spring ELA effects were negative and non-significant, consistent with the dosage actually achieved.
+- **Administrators.** Check take-up before renewing a platform, especially for the students who need it most: users skewed higher-achieving and less likely to receive [[special-education|special education]] services, so access alone may widen participation gaps.
+- **Administrators.** Fund and staff the human layer: the tutors here were after-school program staff in District A and middle school students in District B, and the authors note that human-intensive models require additional personnel, training, and coordination.
+
+## Limitations
+
+- Take-up limits what the trials can test: only 60.7% (District A) and 53.3% (District B) of control students ever used the platform, and the engagement gains are measured against a baseline that was already near zero.
+- Group sizes were small and unequal across two sites: 84 treatment against 90 control students at five after-school sites in District A, and 36 treatment against 145 control students at two K–8 schools in District B, with the districts differing in grades, setting, and tutor type.
+- No background information was collected on the human tutors, and District B's tutors were middle school students, so the intervention's active ingredient is not characterized.
+- The achievement estimates are null and negative in sign in both districts, and the authors caution that even the highest-usage subgroup figure (18.3 minutes per week) should be read cautiously given the small sample size.
 
 ## Connected Concepts
 
