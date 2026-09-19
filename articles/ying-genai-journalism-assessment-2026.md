@@ -1,7 +1,7 @@
 ---
 title: "From Classroom Design to Newsroom Practice: Assessment Intervention Designing GenAI"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [experiential-learning]
@@ -33,14 +33,19 @@ The study adopts a design-based approach to develop a practice-based [[assessmen
 
 The framework integrates Beard's experiential learning sequence (concrete experience, reflective observation, abstract conceptualization, active experimentation) with Bloom's levels used as "anchors" rather than a strict ladder. Pre- and post-intervention surveys (Qualtrics, ~10 minutes, anonymous and voluntary) were distributed before and after journalism assessment deadlines. Students completed two assessment tasks and four classroom activities (contrasting [[research-methods-aied|research]] on student GenAI use, debating authorship, discussing bias in GenAI image generation, and reviewing AI-generated work presented as human-authored). Responses were coded thematically using in vivo coding. [[trust|Trustworthiness]] followed Lincoln and Guba's framework (credibility, transferability, dependability, confirmability), supported by [[peer-assessment|peer assessment]], triangulation across two campuses and an audit trail. The framework aligns with Australian quality expectations (TEQSA Higher Education Standards Framework) and [[governance|institutional]] practice (Swinburne's Educational Quality Excellence Framework).
 
-## Implications for AI in Education
+## What this means for practice
 
-- **From detection to design:** Rather than relying on unreliable [[ai-detection]] and punitive approaches, the paper advocates designing [[authentic-assessment|authentic]], scaffolded assessments that embed [[generative-ai|GenAI]] explicitly, extending Perkins et al.'s Artificial Intelligence Assessment Scale (Level 4: "AI Task Completion, Human Evaluation") by adding a process dimension — explicit classroom activities that build the ethical reasoning underpinning disclosure decisions.
-- **Values as a bridge to assessable competencies:** Clear rubrics that express high-level values (e.g., disclosure) in discrete, assessable terms provide students a bridge between [[ethics|ethical principles]] and concrete competencies such as statements addressing conflict of interest or omission of sources.
-- **Transferable framework beyond journalism:** The core elements — four values, experiential sequencing, and the values–processes–competencies model — are deliberately high-level and adaptable to other disciplines, while context-specific elements (unit [[learning-gains|learning outcomes]], local journalism codes, choice of GenAI tools) adjust per application.
-- **Educator guidance is critical:** Effective GenAI integration requires strong guidance from the [[teacher-role|lecturer/educator]]; the paper positions ethical AI use not as a discrete technical skill but as part of a broader culture of [[academic-integrity|academic quality and integrity]] embedded in [[higher-ed|higher education]].
-- **Workplace readiness and human oversight:** Students learn to specify source requirements, flag factual uncertainties, and maintain authorship clarity — preparing graduates for newsrooms where AI-assisted content generation is normalized and journalists increasingly supervise algorithmic content ([[human-in-the-loop-ai|human-in-the-loop]] roles).
-- **Cultural context matters:** The study highlights limited GenAI integration in Malaysian journalism education and industry, and notes the framework may need adaptation to local norms and ethical guidelines — a caution echoed for non-Western and non-South-East Asian contexts ([[global-south]]-relevant gap).
+- **Instructors.** Replace detection-based responses with a designed assessment that embeds [[generative-ai|GenAI]] explicitly, and add classroom activities — debating authorship, discussing [[bias-mitigation|bias]] in AI image generation, reviewing AI-written work presented as human-authored — to build the ethical reasoning behind disclosure.
+- **Instructors.** Turn values into gradeable terms: write rubric criteria that express disclosure, accuracy, and independence as discrete acts such as statements addressing conflict of interest or omission of sources.
+- **Instructors.** Prepare students for [[human-in-the-loop-ai|human-in-the-loop]] newsroom roles by having them specify source requirements, flag factual uncertainty, and maintain authorship clarity.
+- **Designers.** Reuse the values–processes–competencies triad across disciplines, since the four values and the experiential sequence are deliberately high-level, and adjust unit outcomes, local journalism codes, and tool choice per context.
+- **Administrators.** Embed GenAI assessment design in institutional quality and [[academic-integrity|integrity]] frameworks rather than treating ethical AI use as a discrete technical skill.
+
+## Limitations
+- Nine of 13 enrolled students in a single second-year journalism unit over one academic semester at one campus (Australian global campus, Sarawak, Malaysia), so the design-based intervention yields a formative evaluation rather than a generalizable result.
+- Data came mainly from reflection, discussion, and pre/post surveys, so students' ethical competencies are self-reported rather than independently measured.
+- Eight of nine students (89%) reported confidence in making ethical decisions while survey items on authorship and bias suggested superficial understanding, indicating self-report may overstate ethical competence.
+- The authors note limited GenAI integration in Malaysian journalism education and industry, leaving the framework's adaptation to other cultural and regulatory contexts untested.
 
 ## Connected Concepts
 

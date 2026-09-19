@@ -1,7 +1,7 @@
 ---
 title: "Instructor and AI Roles in the Chemistry Classroom: Future Science Teachers' Perceptions in a ChatGPT-Enhanced Formative Assessment"
 created: "2026-08-19T12:48:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [self-regulated-learning]
@@ -35,6 +35,14 @@ level: [teacher training, higher ed]
 ## The Instructor–AI Synergistic Learning Ecosystem model
 
 The study's principal contribution is an **Achievement-Based Instructor–AI Synergistic Learning Ecosystem** model that reframes human–AI collaboration **not as competition but as complementary partnership**. It positions the instructor as the adaptive expert delivering context-aware feedback while [[generative-ai|GenAI]] functions as a personalized SRL tool scaling individualized formative feedback — turning the long-standing challenge of **scaling formative assessment** in large classes into a [[pedagogy|pedagogical]] opportunity. This connects directly to the knowledge base's [[human-ai-collaboration]] concept.
+
+## What this means for practice
+
+- **Instructors.** Match the AI workflow to achievement level instead of running one procedure for the whole class: low-achievers in this study wanted step-by-step detail from ChatGPT ("show the detailed calculation, because I'm the type of person who wants to know where the numbers come from"), medium-achievers wanted guided practice and feedback, and high-achievers wanted their ideas challenged.
+- **Instructors.** Keep the final explanation of difficult content yourself: high-achievers preferred the instructor on hard topics because AI explanations did not connect to what they had already learned, and students became confused when ChatGPT used a problem-solving strategy that diverged from the one taught in class.
+- **Instructors.** Standardize the prompt every student must submit with their answers and require the generated feedback to be handed in, so the [[formative-assessment|formative assessment]] record is comparable across the class.
+- **Instructors.** Use the AI layer as the always-available first pass for routine checking and [[self-regulated-learning|self-regulated practice]], and reserve your own time for the adaptive, context-aware feedback that matters most.
+- **Faculty developers.** Use the Achievement-Based Instructor–AI Synergistic Learning Ecosystem model as a blueprint in teacher preparation: have pre-service teachers design an AI-enhanced assessment activity and state explicitly which role the AI plays for which group of learners.
 
 ## Limitations
 

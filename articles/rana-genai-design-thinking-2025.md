@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [critical-thinking, design-thinking]
 pedagogy: [creativity, scaffolding]
@@ -32,14 +32,18 @@ The study was conducted across a 12-week undergraduate [[design-thinking]] cours
 
 The study adopted a mixed-methods paradigm guided by a [[constructivist]] epistemology grounded in [[experiential-learning]], Vygotsky's [[sociocultural-learning|sociocultural]] theory, and Dewey's pragmatism. [[qualitative-research|Qualitative]] analysis used Braun and Clarke's six-phase thematic analysis framework with NVivo 14, achieving high intercoder reliability (Cohen's κ = 0.82 on a 20% subsample). Sentiment analysis was implemented via a fine-tuned DistilBERT model (validated at 89% accuracy, F1 = 0.85), cross-checked with manual coding (88% concordance) and the VADER lexicon.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **[[scaffolding|Scaffolded]] integration beats prohibition or laissez-faire use.** Acceptance of [[generative-ai]] emerged not from exposure alone but from intentional guidance, critical framing, and structured team-based learning.
-- **[[ai-literacy]] must be a multidimensional competence.** The authors challenge traditional cognitive taxonomies, calling for [[ai-literacy]] encompassing [[creativity]], [[ethics]], and critical reasoning — not just technical proficiency.
-- **Teach students to interrogate outputs.** [[critical-thinking]] in GenAI-mediated environments now requires output verification, task stewardship, and bias detection rather than passive acceptance.
-- **Address [[ethics|ethical]] blind spots explicitly.** Algorithmic bias, authorship ambiguity, and data provenance should be introduced alongside tool use to prevent blind spots, echoing broader [[equity-in-ai-education]] concerns.
-- **[[educational-development|Faculty development]] matters.** Educators need support to design GenAI-integrated [[higher-ed]] learning environments that promote agency rather than automation, countering [[cognitive-offloading]] and automation bias.
-- **Reframe the human-AI relationship.** GenAI functions best as a co-creator and collaborative partner within [[human-ai-collaboration]], preserving human judgment at the center of the process.
+- **Instructors.** Integrate [[generative-ai|GenAI]] deliberately at each stage of the [[design-thinking]] process with critical framing and structured team-based work; acceptance in this study came from intentional guidance, not exposure alone.
+- **Instructors.** Build output interrogation into the task — verifying claims, detecting [[bias-mitigation|bias]], and tracing sources — and run explicit activities on cases such as DALL·E reproducing gender stereotypes rather than leaving [[ethics|ethics]] implicit.
+- **Faculty developers.** Treat [[ai-literacy]] as a multidimensional competence spanning [[creativity]], [[ethics]], and [[critical-thinking|critical reasoning]] rather than technical proficiency, and support staff to design GenAI-integrated [[higher-ed]] environments that promote learner [[agency]] instead of automation.
+- **Designers.** Position GenAI as a co-creator within [[human-ai-collaboration]] and use [[scaffolding|scaffolds]] that keep human judgment at the center, countering [[cognitive-offloading]] and automation bias.
+
+## Limitations
+- The four themes were derived primarily from 112 student reflections, and the authors state that self-report methods carry social desirability, retrospective-reconstruction, and weak-correlation-with-learning risks.
+- The study ran in a single 12-week undergraduate design course at one metropolitan Australian university, so institutional variables such as faculty attitudes, digital infrastructure, and curricular autonomy may limit generalizability.
+- No objective outcome measure was used, so the reported gains in [[creativity]] and [[ethics|ethical reasoning]] remain student claims; the authors note the absence of pre/post achievement or cognitive-load testing.
+- Sentiment analysis (a fine-tuned DistilBERT validated at 89% accuracy) surfaced affective trends, but the study did not examine how emotions such as anxiety or confusion shape [[student-engagement|engagement]] with GenAI.
 
 ## Connected Concepts
 

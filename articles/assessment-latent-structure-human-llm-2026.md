@@ -1,7 +1,7 @@
 ---
 title: "Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis"
 created: "2026-08-18T09:25:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [generative-ai, llm]
 assessment: [assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
@@ -39,6 +39,20 @@ The authors adopt a case [[research-methods-aied|study design]] across two educa
 ## Significance for psychometrically aware AI
 
 This paper contributes a *validity-oriented framework* for comparing latent structures across humans and LLMs, complementing the knowledge base's work on [[psychometrically-aware-ai|psychometrically aware AI]]. It shows that even when an LLM scores well on an exam, the score may not be interpretable the way a human score is — because the [[item-response-theory|latent construct structure]] is different. This is a deeper form of [[assessment-validity]] concern than raw score comparisons: it applies to [[educational-measurement]] practices, [[ai-ed-evaluation|AI evaluation]] using human benchmarks, and any [[automated-assessment|AI-based assessment]] that assumes human validity evidence transfers. For [[benchmark|LLM benchmarks]] built from human assessments, the implication is that benchmark scores may index a different underlying structure for the AI than for the humans the items were normed on.
+
+## What this means for practice
+
+- **Researchers.** Test the latent structure before reusing an instrument on an [[llm|LLM]]: fit [[educational-measurement|EFA]] separately for humans and models and compare factor congruence against a human–human baseline, because in both instruments LLM–human similarity stayed below the human–human distribution and parallel analysis retained different factor counts (chemistry: five for humans versus four for LLMs; quantitative reasoning: 7–8 versus five).
+- **Researchers.** Report the human–human agreement distribution alongside any human–LLM similarity figure: human–human congruence was broad rather than concentrated near 1.0, so a single value cannot be read as close without that reference.
+- **Assessment professionals.** Stop reading high LLM scores on human-designed exams as evidence about the constructs those items were normed for; until structural similarity is established, the score indexes a different latent structure.
+- **Assessment professionals.** Check factor retention with parallel analysis rather than the Kaiser criterion alone: the two agreed within each instrument here only coincidentally, and the human–LLM divergence appeared only under parallel analysis.
+
+## Limitations
+
+- Case-study scope: two instruments (a high-school chemistry diagnostic taken by 931 students, and a quantitative-reasoning section from a high-stakes university entrance exam) and six multimodal LLMs (GPT-4o/GPT-5.2, Gemini 1.5 Pro/3 Pro, Claude 3.5 Sonnet/4.5); the authors state external validity is limited by this small number of instruments and tools.
+- Comparisons used resampled sets of 120 human respondents and 120 LLM responses per dataset, and the LLM sample is relatively small compared with the human sample; models from different families were pooled as a single population despite undisclosed architectural differences.
+- Non-public datasets and proprietary systems constrain replication and leave an unresolved contamination risk: the private assessment instrument had to be uploaded to proprietary tools, data are available only on request, and the authors cannot rule out that the instrument influenced later model versions.
+- Only the internal-structure aspect of validity is tested; generalization to related tasks that measure the same underlying abilities is left untested, and prompting strategies, generation parameters, and interfaces can bias LLM response patterns even when standardized.
 
 ## Connected Concepts
 - [[assessment-validity]]

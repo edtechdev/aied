@@ -1,7 +1,7 @@
 ---
 title: "Virtual Tutoring with Computer-Assisted Learning: An Experiment in Take-Up and Learning"
 created: "2026-08-17T17:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [help-seeking, student-engagement]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, edtech-platform]
@@ -24,6 +24,21 @@ sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 - **Solving entry is not solving participation.** Even among students who started, weekly attendance remained near two-fifths; "attrition" was mostly **intermittent absence** (missing some weeks, returning others), not dropout. Practice among attendees rose only ~17 minutes a week.
 - **Modest, coherent gains.** The intent-to-treat effect on a short achievement test covering assigned Khan Academy topics was 0.055 SD (95% CI [−0.09, 0.20]) — positive but too imprecise to separate null from a small effect. Report-card marks rose ~0.08 SD (p < 0.10), and treated students reported enjoying math more and finding the platform more helpful.
 - **Effects scale with take-up.** Gains grew between Year 1 and Year 2 as first-session take-up rose, consistent with a program whose modest dose produces modest effects that strengthen when more students actually engage.
+
+## What this means for practice
+
+- **Administrators.** Collapse enrollment to a single step. Routing the invitation through the student's own teacher, handling scheduling internally, and setting up a recurring session on the family's behalf raised first-session take-up from about 45% to 83%; every additional handoff in the sign-up chain loses students.
+- **Administrators.** Manage attendance, not just starts. With weekly attendance holding near two-fifths, the operative problem was intermittent absence — students missing some weeks and returning — rather than dropout, so plan for re-entry and follow-up rather than treating non-attenders as disengaged.
+- **Designers.** Treat take-up and persistence as design outputs, not recruitment byproducts. The same program produced 45% then 83% take-up across two years on design changes alone, so instrument each step of the funnel (invitation → interest → account → match → attendance) and iterate there before adding content or tutoring hours.
+- **Instructors.** Tie the offer to work a student is already assigned. Tutored students practiced only about 10 extra minutes a week on Khan Academy topics the tutor could see, so direct the session at the exact skills the student is failing rather than general remediation.
+- **Policymakers.** Require trials sized to the dose actually delivered. With 80% power only for effects of about 0.21 SD or larger and a confidence interval of [−0.09, 0.20], this study cannot separate a null from the small gain this dose would plausibly produce; underpowered evaluations will read as failures regardless of the program's true effect.
+
+## Limitations
+
+- One district, two school years, Grades 4–8: the trial ran in the Toronto District School Board only, so take-up and effects in other systems, grade bands, and student populations are untested.
+- The primary achievement test was deliberately built from the Khan Academy items tutored students had practiced — a construction favorable to detecting an effect — yet the pooled intent-to-treat estimate was 0.055 SD with a 95% CI of [−0.09, 0.20], not statistically distinguishable from zero.
+- The Year-2 design changes were not a clean experiment: several program features changed at once, so the gain from 45% to 83% take-up cannot be attributed to collapsing enrollment alone, and attendance records cannot say whether a missed week reflects the student, the family, or the program.
+- Attitudes come from a short self-report survey and the secondary achievement outcome from teacher-assigned report-card marks graded 1–4, neither of which is a clean measure of achievement.
 
 ## Connected Concepts
 

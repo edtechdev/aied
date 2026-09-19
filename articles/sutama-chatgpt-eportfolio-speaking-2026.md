@@ -1,7 +1,7 @@
 ---
 title: "Aligning ChatGPT with E-Portfolio Assessment as EFL Learning Model: Its Effect on Students' Speaking Performance and Feedback Literacy"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback-literacy]
@@ -32,14 +32,19 @@ level: [higher ed]
 - **Instruments:** speaking tests scored on fluency, accuracy, and complexity (rubrics adapted from Housen & Kuiken 2009; Ogawa 2022); a 14-item feedback literacy self-rated questionnaire adapted from Molloy et al. (2020). Inter-rater reliability strong (Cohen's κ 0.761–0.840).
 - **Analysis:** one-way MANOVA with Wilks' λ after checking normality/homogeneity/covariance assumptions; qualitative data analyzed via Braun & Clarke's (2019) six-phase thematic analysis with dual coding, peer debriefing, and audit trail.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **A concrete model for integrating generative AI with assessment:** CEA demonstrates that [[generative-ai]] (ChatGPT) and e-portfolio [[assessment]] can be combined into a coherent learning ecosystem rather than used as separate tools, yielding large gains on both language performance and [[feedback-literacy]].
-- **Feedback literacy as a designed outcome:** the study positions AI-mediated [[feedback]] as a means to cultivate feedback literacy — students actively orchestrated feedback from multiple sources (lecturer, peers, ChatGPT) and organized it into personal systems, shifting from passive recipients to intentional orchestrators of [[feedback]].
-- **Metacognition and critical AI use:** themes of tech-enhanced autonomy and metacognitive awareness enhancement echo research showing productive AI use requires [[metacognition|evaluative, critical engagement]] with AI output — a skill that must be deliberately cultivated through structured pedagogy.
-- **Scaffolding and low-anxiety environments:** the authors frame the CEA model as a low-anxiety, technology-enhanced context that increases willingness to communicate — relevant to designing AI tools that reduce rather than heighten [[student-engagement|performance anxiety]].
-- **Authentic assessment synergy:** pairing an e-portfolio with [[ai-feedback-quality|AI feedback]] supports [[authentic-assessment]] and learner reflection, extending prior findings that e-portfolios promote self-assessment and progress monitoring.
-- **Design principle for the AI era:** how educators incorporate technology into pedagogy matters more than the technology itself; unstructured student access to [[generative-ai]] carries risks (dependence, "high-tech [[academic-integrity|plagiarism]]"), so integration should be pedagogically purpose-built.
+- **Instructors.** Pair ChatGPT with an e-portfolio instead of offering raw AI access: the CEA model's simultaneous gains in speaking performance and [[feedback-literacy]] came from pedagogically structured integration, not availability.
+- **Instructors.** Design [[feedback]] as a durable, consultable record so students orchestrate and reconcile input from the lecturer, peers, and AI — the behavior this study tied to feedback literacy.
+- **Instructors.** Use voice-mode practice and archived self-reflection to create a low-anxiety environment that raises willingness to communicate rather than heightening performance anxiety.
+- **Assessment designers.** Make [[feedback-literacy]] an explicit intended outcome and pair e-portfolio evidence with [[ai-feedback-quality|AI feedback]] to support [[authentic-assessment]] and progress monitoring.
+- **Designers.** Purpose-build the AI architecture of the assessment task; unstructured access carries dependence and "high-tech [[academic-integrity|plagiarism]]" risks, and how technology is incorporated matters more than whether it is available.
+
+## Limitations
+- The experimental and control groups used different e-portfolio systems (Padlet vs. Google Drive), so Padlet's additional functionality and social features may independently explain the engagement gains — a confounding variable the quasi-experimental design cannot fully account for.
+- The sample was 60 first-semester students at one vocational institution (Politeknik Negeri Bali), which the authors state limits generalizability to these participants.
+- The control condition was not AI-free, since ChatGPT was widely available to students outside class, so it represents typical e-portfolio practice rather than a pure baseline.
+- The qualitative themes rest on 27 purposively interviewed experimental students only, and no follow-up beyond the 8-week intervention tested whether the increases were maintained.
 
 ## Connected Concepts
 

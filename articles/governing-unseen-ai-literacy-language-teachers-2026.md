@@ -1,7 +1,7 @@
 ---
 title: "Governing the Unseen: A Systematic Review of AI Literacy among Language Teachers in Higher Education"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 stakeholders: [teacher-ai-competency]
@@ -31,6 +31,20 @@ institutions: [governance]
 **Structural barriers.** Limited institutional support, unequal access to resources, unclear ethical guidelines, and shared/unclear responsibility reduce positive individual outcomes (confidence, innovation). The authors frame these as governance failures rather than individual deficits: unless there is a conscious effort to govern AI literacy, it will remain unevenly distributed, perpetuate existing inequalities, and place teachers in moral and professional dilemmas.
 
 **Conclusion.** Sustainable AI literacy development requires an integrated, system-wide strategy — embedding AI literacy in the [[curriculum-design|curriculum]], formalizing it in workload and appraisal policies, and offering long-term, [[discipline-specific-aied|subject-specific]] professional education and ethical support — over occasional workshops and individual upskilling. The paper calls for longitudinal, multi-method, non-Anglophone, performance-based and governance-oriented [[research-methods-aied|research]] on language-teacher AI literacy.
+
+## What this means for practice
+
+- **Faculty developers.** Replace one-off AI workshops with sustained, scaffolded professional development tied to language teachers' subject matter, since the corpus shows [[educational-development|PD]] is routinely ad hoc and short-lived rather than coherent.
+- **Administrators.** Formalize [[ai-literacy]] in workload models, promotion criteria and appraisal so that developing it counts as legitimate work rather than invisible individual effort.
+- **Instructors.** Pair tool training with explicit ethical guidance; ungoverned ambiguity currently leaves teachers to resolve moral and professional dilemmas alone.
+- **Researchers.** Move beyond self-report surveys toward performance-based, domain-specific measures of [[ai-literacy]] that capture critical and ethical dimensions.
+
+## Limitations
+
+- The synthesis rests on 32 studies (Dec 2022 – Mar 2026), 24 of which rely on self-report measures and few of which use validated domain-specific instruments, so assessed literacy reflects perception more than performance.
+- The search covered three databases (ERIC, British Educational Index, Web of Science) and was restricted to English-language publications, excluding non-Anglophone research and introducing language and publication bias; no Gray literature or conference abstracts were searched.
+- The qualitative-dominant corpus allowed no meta-analysis or formal GRADE assessment; confidence was rated theme by theme using GRADE-CERQual, leaving certainty lower than a quantitative synthesis would give.
+- Methodological quality was judged with a 0–8 composite checklist, and the authors flag self-report bias in survey studies, researcher–participant familiarity in case studies and confirmation bias in conceptual reviews as risks that were noted rather than eliminated.
 
 ## Connected Concepts
 

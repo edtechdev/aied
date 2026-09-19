@@ -1,7 +1,7 @@
 ---
 title: "Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity, agency]
 technology: [generative-ai]
@@ -26,8 +26,17 @@ audience: [educators, faculty development]
 ## Study Design & Method
 The study used a **pre-test/post-test quasi-experimental design** (Rogers & Revesz, 2019) underpinned by a descriptive [[qualitative-research|qualitative]] methodology (Braun & Clarke, 2013). Participants were commencing undergraduate (n=491) and postgraduate (n=206) students at Edith Cowan University recruited via convenience sampling across nursing, health sciences, engineering and science. The intervention was an [[assessment|self-assessment]] survey, co-designed with students and staff, originally developed in 2021 for academic and digital literacy and expanded with GenAI-specific questions in 2023. It addressed four domains: (1) confidence in [[academic-integrity|academic integrity]] practices, (2) confidence using GenAI for [[assessment]] preparation, (3) confidence using GenAI for learning, and (4) an open-ended [[ethics|ethical]] reflection ("Have you considered the ethical implications of using GenAI? If yes, how?"). [[quantitative-research|Quantitative]] items used a four-point confidence scale and were analyzed descriptively with paired-samples t-tests on matched responses (n=25); open-ended responses were analyzed using Braun & Clarke's six-phase inductive thematic analysis with peer debriefing for credibility. Pre-surveys (n=697) were administered in Orientation/Weeks 1–2; post-surveys (n=67) in Weeks 12–13. Instrument reliability was excellent (Cronbach's α = .94 pre, .93 post). The authors note high pre-test but variable post-test response rates as a limitation, particularly for the matched subsample.
 
-## Implications for AI in Education
-This study contributes to scholarship on [[ethics|ethical]] GenAI use by demonstrating that **a concise, scalable [[assessment|self-assessment]] model — confidence ratings plus a short reflective prompt — can normalize ethical inquiry as part of academic development** rather than treating integrity as an externally imposed rule. It supports the shift from surveillance- and compliance-driven responses toward educative, student-centered models of [[academic-integrity|academic integrity]] that foreground student voice and [[agency|learner agency]], aligning with calls to move beyond detection mechanisms in [[higher-ed|higher education]]. The findings reposition educators as facilitators who help students critically and responsibly engage with emerging [[ai-technologies|technologies]], and highlight the need for explicit [[teacher-role|teaching]] of procedural conventions (referencing, acknowledgment, record-keeping) alongside [[ethics|ethical]] reflection. For AI-enabled learning, the study reinforces the value of [[metacognition|metacognitive awareness]] and [[self-regulated-learning|self-regulated learning]] in GenAI-mediated environments, and points to [[ai-literacy|AI literacy]] and [[authentic-assessment|authentic assessment]] design as complementary priorities. The CC BY-ND (no derivatives) license of the paper should be noted when adapting its materials.
+## What this means for practice
+- **Instructors.** Embed a short confidence-rating plus open-reflection [[assessment|self-assessment]] in orientation or the first weeks of a unit and repeat it at semester end, so ethical inquiry about [[generative-ai|GenAI]] becomes part of academic development rather than an externally imposed rule.
+- **Instructors.** Teach the procedural conventions explicitly alongside [[ethics|ethical]] reflection — referencing, acknowledgment, and record-keeping — since confidence in [[academic-integrity|academic integrity]] rose most in exactly those areas.
+- **Instructors.** Read the responses to locate students starting from the lowest confidence, where gains were largest, and treat the reflective prompt as a low-cost way to surface deliberation about boundaries, disclosure, and accountability.
+- **Faculty developers.** Frame [[academic-integrity|academic integrity]] work as educative and student-centered rather than compliance- and detection-driven, and scaffold [[metacognition|metacognitive awareness]] and [[self-regulated-learning|self-regulated learning]] for GenAI-mediated environments. Note the paper's CC BY-ND (no derivatives) license before adapting its materials.
+
+## Limitations
+- The matched pre/post analysis rested on only 25 paired responses drawn from 697 pre-surveys and 67 post-surveys; the authors note consistently high pre-test but variable post-test completion, a common attrition problem in voluntary survey research.
+- Confidence was self-reported on a four-point scale and the open-ended prompt captured stated reasoning only, so no behavioral or outcome measure of actual [[academic-integrity|academic integrity]] practice was collected.
+- Data came from one Australian university (Edith Cowan) and a convenience sample of commencing nursing, health sciences, engineering, and science students, split unevenly between undergraduates (n=491) and postgraduates (n=206).
+- The instrument was designed in 2021 and expanded with GenAI-specific items only in 2023, so cohorts across the 2021–2025 window did not answer identical questions.
 
 ## Connected Concepts
 - [[generative-ai]]

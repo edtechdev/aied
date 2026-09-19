@@ -1,7 +1,7 @@
 ---
 title: "Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [student-engagement]
@@ -30,6 +30,20 @@ page_kind: [evaluation]
 **Moderating factors from [[qualitative-research|qualitative]] data.** Thematic analysis of open-ended responses surfaced awareness of hallucinations (n = 15), [[trust]] in ChatGPT responses (n = 11), time constraints (n = 6), and training-modality suggestions (n = 7) as factors shaping inoculation effectiveness and verification behavior; perceived usefulness of the message was rated high (four items, M = 21.40, SD = 3.83, α = .80), and participants could enter a raffle for five \$20 Amazon gift cards or receive SONA credits/\$10 as incentives.
 
 **[[pedagogy|Pedagogical]] implication.** The authors offer recommendations for designing brief, scalable inoculation messages and training tailored to different student groups to support more responsible and safe use of ChatGPT, aligning with the knowledge base's [[ai-literacy]] and [[reducing-ai-misuse]] concerns; limitations include a convenience sample of self-reported ChatGPT users (782 recruited, 100 valid cases), reliance on a single generic message rather than specific, detailed refutations, and one coder for the qualitative analysis.
+
+## What this means for practice
+
+- **Instructors.** Deliver a short forewarning message before any task that depends on ChatGPT: inoculation nearly doubled verification of a scholarly-source task (M = 0.34 vs. 0.18, p = .030) for a few minutes of class time.
+- **Instructors.** Do not treat students' stated intentions as evidence that training worked — self-reported verification intentions were unchanged (F(1, 88) = 0.12, p = .732) — and assess what students actually do instead.
+- **Learners.** Cross-check AI answers with an external tool on tasks where the model is known to fail, such as locating a real scholarly article, rather than accepting a plausible summary.
+- **Faculty developers.** Embed inoculation and verification training in support for international EFL students, who made up 60% of the sample and have the highest demand for language and academic assistance.
+
+## Limitations
+
+- Of 782 students recruited, only 100 valid cases were analyzed (9 pilot plus 91 main-study cases), a convenience sample restricted to U.S. students who already self-reported using ChatGPT.
+- Participants completed six-minute tasks in a screen-recorded session with raffle, SONA, or cash incentives, conditions far from unsupervised homework.
+- The intervention was one generic forewarning message rather than detailed refutations, and its behavioral effect was task-specific: significant for the academic-source-summary task but not uniform on the math quiz.
+- Verification behavior was coded from screen recordings with a single coder, and intentions and message usefulness were self-reported (usefulness M = 21.40, α = .80).
 
 ## Connected Concepts
 

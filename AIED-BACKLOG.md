@@ -229,6 +229,16 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   QWK percentage: it points to the figures and keeps the numbers that the text does state (semantic similarity
   81.3% and 79.3%, pairwise accuracy 73.9% and 63.1%). Read the figure if the QWK value is needed.
 
+### Figures stranded by extraction caps
+
+- `genai-chatgpt-adoption-ethics-students-2026` and `idea-framework-metacognitive-genai-2026` both state figures that
+  their saved sources do not contain (185 excluded responses; adjusted prompt-quality differences of +11.77 and
+  +29.19 points). Both sources stop at the old extraction cap mid-sentence, before the results. Both articles are
+  open access, but the publisher serves a robot check to automated requests for the article and the PDF, and the
+  only other location Unpaywall lists is the publisher or a directory entry rather than a repository copy. The
+  figures are recorded here rather than deleted, because a truncated source is a likelier explanation than an
+  invented number, and both pages' claims are internally consistent with what the saved text does show.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same

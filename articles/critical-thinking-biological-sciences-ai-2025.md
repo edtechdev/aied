@@ -1,7 +1,7 @@
 ---
 title: "Promoting Critical Thinking in Biological Sciences in the Era of Artificial Intelligence: The Role of Higher Education"
 created: "2026-08-19T13:02:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
 ethics: [ethics]
@@ -39,6 +39,20 @@ These approaches enhance students' ability to [[ai-literacy|use AI effectively]]
 ## Balancing AI and human mentorship
 
 The conclusion is emphatic: incorporating AI **should not diminish [[teacher-role|the role of educators]]**. [[teacher-role|Educators]] play an irreplaceable role in interpreting AI outputs, contextualizing knowledge, and integrating [[ethics|ethical considerations]] into the [[curriculum-design|curriculum]]. The goal is a learning environment where **AI complements traditional teaching** — preparing students not just to use technology effectively but to develop the [[critical-thinking|critical-thinking skills]] to use it *wisely*, upholding high ethical standards in the [[biology-education|biological sciences]].
+## What this means for practice
+
+- **Instructors.** Make verification the graded task: require students to treat every AI output as a hypothesis and check it against primary literature or their own data before it enters a lab report or assignment.
+- **Instructors.** Teach the failure cases explicitly, using documented examples such as the widely used healthcare algorithm that underestimated Black patients' medical needs because it used spending as a proxy for health status, so students see that automated systems are neither infallible nor ethically neutral.
+- **Instructors.** Embed AI tools inside [[active-learning|active-learning]] structures — [[problem-based-learning|problem-based learning]] projects, flipped preparation, and simulated labs — so class time goes to reasoning about outputs rather than producing them.
+- **Instructors.** Run structured critique of AI outputs on accuracy, ethical implications, and model bias through case discussions and targeted coursework on AI ethics, because students can operate platforms fluently while knowing almost nothing about how the systems reach conclusions.
+- **Instructors.** Automate routine checks and feedback with adaptive platforms, but keep the complex [[ethics|ethical]] discussion, seminars, and hands-on lab work in your own hands — the review holds that direct human mentorship is not replaceable.
+
+## Limitations
+
+- Narrative review, not a systematic one: the authors acknowledge relying on "a broad but not an exhaustive systematic set of sources" with no formal protocol or defined inclusion/exclusion criteria, creating potential selection bias and incomplete coverage of the literature.
+- Fixed search window: the review's own source checks are dated 2 March 2025, and the authors note that rapid AI advances may have produced new tools or findings after that window that the paper does not cover.
+- The seven recommendations the paper proposes (data-analysis tools, virtual labs, adaptive systems, collaborative projects, critical evaluation, curricular integration, professional development) are proposals only — no implementation or outcome data is reported for any of them.
+
 ## Connected Concepts
 
 - [[biology-education]]

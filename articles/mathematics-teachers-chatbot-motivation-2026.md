@@ -1,7 +1,7 @@
 ---
 title: "Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [motivation]
@@ -31,6 +31,21 @@ level: [secondary]
 **Large validated sample.** Data came from 448 teachers across Austria (258 female, 163 male, 2 nonbinary; most aged 51–60, 27%), with robust measurement (CFA fit, McDonald's ω, no multicollinearity, VIF < 2).
 
 **Implication for [[teacher-education]].** Because pragmatic drivers — perceived instructional benefit, ease of use, and peer/social norms — dominate adoption, [[teacher-education]] and support programs should foreground evidence of instructional impact and low-friction onboarding rather than risk-mitigation messaging.
+
+## What this means for practice
+
+- **Instructors.** Lead professional development with demonstrable instructional payoff rather than risk warnings: Performance Expectancy was the strongest predictor of intention to use chatbots (β = 0.473, p < 0.001), ahead of Social Influence (β = 0.398) and Effort Expectancy (β = 0.287), while Perceived Risk was non-significant for both intention (β = 0.059, p = .235) and use.
+- **Instructors.** Cut friction in the first session with low-effort onboarding and worked examples, because Effort Expectancy significantly predicted intention (β = 0.287) and Facilitating Conditions predicted actual use (β = 0.297) — the school's infrastructure and support count as much as teacher attitude.
+- **Instructors.** Recruit visible peer users inside the mathematics department: Social Influence significantly predicted intention (β = 0.398, p < 0.001), and the study's mediation analysis shows intention is the route from perceptions to classroom adoption (total indirect β = 0.835).
+- **Instructors.** Measure classroom use rather than intention when evaluating a rollout, and disaggregate by gender: gender moderated the Behavioral Intention → Use Behavior path (β = −0.304, p = .012), indicating intentions translate into practice differently across teacher groups.
+- **Instructors.** Do not segment adoption support by age or experience: neither moderated the model, and most respondents were aged 51–60, so veteran teachers are not the barrier that stereotypes assume.
+
+## Limitations
+
+- The 448 respondents were a voluntary subset of the 625 teachers who opened the questionnaire (those answering ≥75% of items overall and ≥2/3 per construct were retained), recruited by emailing every Austrian upper-secondary principal and asking them to forward the link — a self-selecting convenience sample.
+- All constructs were measured in one self-report questionnaire on five-point Likert scales at a single time point, so the Behavioral Intention → Use Behavior coefficients rest on teachers' own reports of use, not observed classroom behavior.
+- The sample skews old (most aged 51–60) and draws on one national system with its own upper-secondary structure, so generalization to other countries and age profiles is untested.
+- The model omitted habit and hedonic motivation or enjoyment, which the authors flag as influential adoption factors in the wider literature and leave to future research.
 
 ## Connected Concepts
 

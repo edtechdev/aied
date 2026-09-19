@@ -1,7 +1,7 @@
 ---
 title: "Beyond ChatGPT: A Review of the Use of AI Tools in Biological Education"
 created: "2026-08-19T13:06:00-04:00"
-updated: "2026-08-19T13:06:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, machine-learning]
@@ -36,9 +36,19 @@ AI has transformed biological research — from AlphaFold's protein-structure pr
 - **Erosion of critical thinking and independent research skills** — [[cognitive-offloading|over-reliance]] on GAI may weaken these.
 - **Environmental cost** — the substantial computing resources behind GAI.
 
-## Recommendations
+## What this means for practice
 
-To maximize benefits while minimizing risks, the review calls for **appropriate professional development for educators** and **clear guidance for students**, plus further rigorous research — particularly on AI's impacts on critical thinking and the integration of AI into **laboratory and field-based activities**.
+- **Instructors.** Reach for specialized, evidence-backed tools as well as chatbots — image-based species identification (iNaturalist, Google Lens), [[machine-learning]] bioimaging tools, and predictive modeling to flag at-risk students — rather than treating [[generative-ai|GAI]] as the only option.
+- **Instructors.** Stop relying on detection: GAI completes traditional assessments easily and detection remains imperfect, so redesign tasks that AI cannot trivially complete and assess understanding through them.
+- **Instructors.** Teach students to check AI output for [[hallucination-risk|misinformation and hallucination]] explicitly, so that [[cognitive-offloading|overreliance]] does not erode [[critical-thinking|critical thinking]] and independent research skills.
+- **Instructors.** Put [[ai-technologies|assistive AI supports]] in place for students with disabilities and build coding support into biology courses, both of which the reviewed evidence ties to engagement and subject knowledge.
+
+## Limitations
+
+- The review covers research published between 2020 and 2024 and adds no new primary data, so it can map the field but cannot test any intervention.
+- The reviewed corpus is dominated by individual case studies with varied levels and quality of evaluation; the authors find a dearth of large-scale, national or international studies.
+- Longitudinal evidence is scarce: the review reports limited research on AI's long-term impact on student retention, comprehension, and career outcomes in biology.
+- Several included studies lacked a control group (for example, an AI-enhanced e-book study), and the authors identify fieldwork, authentic assessment, and the environmental cost of AI as gaps in the literature they reviewed.
 
 ## Connected Concepts
 

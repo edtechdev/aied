@@ -1,7 +1,7 @@
 ---
 title: "The IDEA Framework for Metacognitively Regulated GenAI Use in Higher Education: Development and Exploratory Pilot Evidence"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [agency, ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -29,6 +29,20 @@ page_kind: [framework]
 **Transfer.** On unaided tasks completed five days later, the IDEA group demonstrated advantages on selected tasks, suggesting partial transfer beyond the scaffolded setting — though the authors caution that longer-term retention, transfer and [[self-regulated-learning]] change require direct measurement.
 
 **Significance and limits.** The paper positions IDEA as a practical antidote to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]]: by requiring learners to plan, monitor and regulate their AI use, it aims to preserve [[agency]] and deep learning while capturing GenAI's efficiency. It complements [[ai-literacy]] interventions by offering a teachable [[metacognition]] procedure rather than a content checklist, but the authors stress it is not a comprehensive AI-literacy framework and cannot substitute for disciplinary knowledge — domain expertise is especially consequential during Adaptation, since judging the plausibility and adequacy of an output requires it. The pilot is small, exploratory, single-site and non-randomized; the authors call for replication across disciplinary contexts and for longer-term learning-outcome measurement.
+
+## What this means for practice
+
+- **Instructors.** Teach prompting as a four-phase regulatory cycle — Intent, Deconstruction, Expression, Adaptation — rather than a one-pass formula, since IDEA-trained students produced higher-quality prompts in all five task categories (adjusted gains of +11.77 to +29.19 points, all FDR-significant).
+- **Learners.** Plan before prompting: state the goal, audience and constraints, break the task into sub-tasks, then evaluate each output against criteria before requesting revisions.
+- **Instructors.** Assign an unaided transfer task after instruction; the IDEA group retained advantages on selected tasks five days later, but longer-term retention requires direct measurement.
+- **Designers.** Embed revision loops in tools so a learner who sees a weak output is routed back to Intent, Deconstruction or Expression rather than nudged to re-prompt blindly.
+
+## Limitations
+
+- An exploratory quasi-experimental pilot with 42 undergraduates at a single site, 21 per condition, and no randomization, so the IDEA advantage may reflect pre-existing differences rather than the scaffold.
+- The framework cannot substitute for disciplinary knowledge: judging output plausibility during Adaptation depends on domain expertise learners may lack, and the authors state IDEA is not a comprehensive [[ai-literacy]] framework.
+- The measures were task-specific prompt and output scores, not conceptual understanding, retention or independent problem solving, so claims about learning transfer remain unverified.
+- Transfer evidence rests on unaided tasks completed only five days after instruction, with the authors calling for longer-term and cross-disciplinary replication.
 
 ## Connected Concepts
 

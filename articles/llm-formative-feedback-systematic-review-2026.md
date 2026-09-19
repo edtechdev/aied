@@ -1,7 +1,7 @@
 ---
 title: "LLM-generated formative feedback in education: A qualitative systematic literature review"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, llm]
@@ -31,6 +31,20 @@ page_kind: [synthesis]
 **Empirical findings.** LLM-generated feedback consistently outperforms no-feedback conditions and often improves revision quality, motivation, and short-term learning outcomes, sometimes approaching teacher feedback under well-designed prompting — central to the knowledge base's [[feedback]] and [[ai-feedback-quality]] concepts.
 
 **Recurring risks and mitigations.** Hallucinations, over-positivity, and misclassification of student work recur; emerging evidence indicates that instruction fine-tuning, grounding prompts in student artifacts, and [[human-ai-collaboration|teacher-in-the-loop]] oversight can mitigate these issues.
+
+## What this means for practice
+
+- **Instructors.** Ground the feedback prompt in the student's own submitted artifact rather than the task description alone; the review finds this, together with context-enriched role-based prompting, is what lets LLM feedback approach teacher feedback and is the strongest reported mitigation for [[hallucination-risk|hallucinations]] and misclassification.
+- **Instructors.** Design against over-positivity before deploying: LLM feedback consistently beat no-feedback conditions on revision quality, [[motivation]], and short-term outcomes, but the reviewed studies repeatedly report over-positive and inaccurate feedback, so attach explicit criteria and a teacher spot-check.
+- **Instructors.** Use Hattie and Timperley's three questions — Where am I going? How am I going? Where to next? — as the rubric for judging generated feedback, since that structure is the most common evaluation framework across the 47 reviewed studies.
+- **Researchers.** Report model, version, prompting strategy, and grounding data in full; the field is dominated by proprietary GPT-3.5/GPT-4 zero-shot and few-shot work, with instruction fine-tuning, open-source models, and multi-agent designs only emerging, so technical reporting is the binding constraint on synthesis.
+- **Researchers.** Move past short-term quasi-experiments in higher education alone: that design dominates the evidence base, so the field cannot yet support claims about durable learning or transfer beyond short-term revision quality.
+
+## Limitations
+
+- The review retains 47 studies, all English-language peer-reviewed journal articles published 2023–2026 and indexed in five databases (ERIC, Scopus, IEEE Xplore, SpringerLink, ScienceDirect); conference papers and other publication types were excluded, leaving Gray literature and non-English work out of scope.
+- Screening of the 638 deduplicated records was semi-automated through Elicit Pro, with manual abstract review of the 90 papers it flagged and 69 full texts examined before 22 were excluded, so the final set depends on one vendor's screening tool.
+- Two co-authors independently audited only 30% of extraction entries, leaving the rest single-coded by the lead author, and the synthesis is interpretive Mayring-style content analysis rather than meta-analysis, so no pooled effect size is available across the 121 research questions.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Reorienting Critical AI Literacy: A Community-Rooted Praxis of “Resisting AI”"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, reducing-ai-misuse]
 pedagogy: [critical-pedagogy, sociocultural-learning]
@@ -33,9 +33,13 @@ level: [k 12, higher ed]
 
 This is a **perspective/conceptual paper** (RESPECT 2026), not an empirical study. It proceeds through a critical review of existing AI literacy frameworks, guidelines, and policies (EU, UNESCO, OECD, AI4K12, and others), a positionality statement, and a synthesis of Freirean [[critical-pedagogy|critical pedagogy]], data justice initiatives, and documented grassroots organizing across intersectional and transnational contexts. It concludes with roles for educators and community organizers and a set of limitations and openings for future practice.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper directly challenges the instrumental, solutionist framing of AI literacy that dominates many curricula and policies. It connects [[ai-education|AI education]] to critical pedagogy and collective [[agency]], arguing that literacy instruction should equip learners not only to use AI but to question its inevitability, refuse its extraction, and participate in collective decision-making about when AI belongs in education. This resonates with related critical work on the [[ai-literacy-power-knowledge|power-knowledge dimensions of AI literacy]], the [[possibility-ai-literacy-critical-editorial|(im)possibility of AI literacy]], and the [[finkelstein-principled-ai-education-2025|principled teaching of AI education]]. For educators, it urges shifting from "ethical use" checklists toward deliberative community decision-making; for institutions, it raises questions about funding and infrastructural incentives that favor corporate interests over community benefit.
+- **Instructors.** Interrogate your own AI literacy curriculum and any institutional mandate for assumptions of inevitability before teaching it: the paper's review of more than 600 policy frameworks and guidelines — the EU's Digital Education Action Plan, UNESCO's AI competency frameworks, the OECD AILit framework — finds "AI is here to stay" treated as a given, so make that premise an object of study rather than the course's starting assumption.
+- **Instructors.** Teach Question Zero first — is AI needed for this task at all? — and design at least one assignment in which non-use is legitimate and credit-bearing, because the authors treat refusal and uncertainty as thought-provoking educational outcomes rather than compliance failures.
+- **Instructors.** Replace "ethical use" checklists with a deliberative process in which the class decides together when a tool belongs in the work, since the paper argues checklist ethics reduces to symbolic gestures that favor industry over community concerns.
+- **Instructors.** Build structured pauses before adopting vendor-driven platforms, and name your own constraints and positionality as a co-learner: the authors position educators as "mediators of power" who build collective [[agency]] rather than mere transmitters of technical fluency.
+- **Faculty developers.** Rehearse the compromises the authors predict — schools or students reluctant to accept a critical perspective, financial constraints, and sociopolitical pressure — and audit which vendors fund or supply the tools your unit adopts, since the paper ties institutional incentives to corporate influence over community benefit. Related work to draw on includes the [[ai-literacy-power-knowledge|power-knowledge dimensions of AI literacy]], [[possibility-ai-literacy-critical-editorial|the (im)possibility of AI literacy]], and [[finkelstein-principled-ai-education-2025|principled AI education]].
 
 ## Limitations
 

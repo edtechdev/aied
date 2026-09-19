@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
@@ -30,6 +30,21 @@ discipline: [language learning]
 ## Implications for AI in Education
 
 The study highlights the importance of considering **[[language-learning|language]] diversity and culture** in the design of LLM-based educational technology. LLMs offer significant potential for [[personalized-learning|personalized]] and [[automated-question-generation|automated question generation]] at scale, but they risk encoding [[bias-mitigation|technology bias]] against users whose first language is not spoken language. The design-based approach — layering learner-specific data into generation and iteratively revising with the target community — offers a template for [[equity-in-ai-education|equitable]] [[special-education]] tooling, grounded in [[universal-design-for-learning|Universal Design for Learning]], that centers the users' own language and experience rather than treating accessibility as an afterthought.
+
+## What this means for practice
+
+- **Software developers.** Generate questions from more than the transcript: flag timestamps where the visuals are likely misread (rapid movement, misaligned captions, dense on-screen text) and where prior learners reported frustration or confusion, since those visual and emotion strategies were the ones that added value beyond base questions.
+- **Software developers.** Localize question language for sign-first users — shorter sentences, closed formats such as multiple choice and true/false — because the accessibility gap comes from text prompts mismatched with sign-based first languages, where compound sentences and double negatives raise cognitive load.
+- **Software developers.** Plan for the cold-start problem before scaling: emotion targeting depended on learner data available for only one video, so emotion-informed adaptation needs consent-based, longitudinal data collection, while visual features can be extracted more automatically.
+- **Instructors.** Let learners choose their strategy and make the visual demands of the video explicit: Deaf participants selected visual questions far more than Hard of Hearing learners, who reported that captions were sufficient.
+- **Learners.** Ask for the format that reduces your reading load — several participants preferred true/false for exactly that reason — and expect harder-to-parse items to take longer, since base questions were answered fastest in this study.
+
+## Limitations
+
+- A single 15-minute instructional video on one topic underpins the study; the authors state this limits generalizability across subject domains, video formats, and instructional styles.
+- The user study is qualitative with N=16 DHH participants (ten identified as Deaf and six as Hard of Hearing, recruited by word of mouth), and the authors say the small number limits statistical power and stronger comparison across question-generation strategies.
+- Emotion questions depend on sensitive learner data collected for only one video (aggregated facial-expression data from 20 learners), so extending the system creates a cold-start problem and requires longitudinal, transparent data collection.
+- Strategy-level findings rest on few respondents and self-report: only eight participants chose a single strategy, the visual-question comparison rests on five Deaf versus one Hard of Hearing learner, and ratings come from 7-point Likert items with interview themes coded from 5–10 transcripts each.
 
 ## Connected Concepts
 

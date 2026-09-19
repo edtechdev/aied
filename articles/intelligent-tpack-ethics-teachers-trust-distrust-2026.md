@@ -1,7 +1,7 @@
 ---
 title: "Unpacking ethics-domain of intelligent-TPACK scale in relation to in-service teachers' trust and distrust"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 stakeholders: [tpack]
@@ -35,6 +35,20 @@ page_kind: [framework]
 **Trust as a relational outcome.** Teachers' trust in AI was shaped by their ethical perceptions as much as by technical proficiency — pointing to the interdependence of knowledge and values in [[ai-literacy]] and to [[human-in-the-loop-ai|human-in-the-loop]] responsibility.
 
 **Implication for [[educational-development|professional development]].** The findings argue that AI professional development must build both technical knowledge and ethical fluency so teachers can trust — and appropriately distrust — AI systems, a central aim of the knowledge base's [[teacher-education]] concept.
+
+## What this means for practice
+
+- **Instructors.** Build technical AI knowledge before expecting ethical fluency: teachers without solid foundations struggled to recognize how human decisions shape AI systems, which undermined their ability to evaluate and trust them.
+- **Faculty developers.** Give transparency and human accountability explicit attention; teachers raised fairness, inclusiveness and accountability far more often, leaving the other two constructs underdeveloped.
+- **Instructors.** Teach [[trust|distrust]] as a competence: several teachers showed warranted skepticism (for example about automated placement from test scores and AI's lack of moral judgment), so professional development should help teachers calibrate trust rather than maximize it.
+- **Administrators.** Treat the four ethical constructs as relational rather than a checklist; fairness and accountability repeatedly appeared together in teachers' reflections.
+
+## Limitations
+
+- A qualitative multiple case study of seven in-service K-12 teachers, purposively selected from 33 consenting participants in one graduate course at a single southeastern US university in summer 2025.
+- Cases were chosen for divergent self-rated AI knowledge and trust, and trust scores came from six Likert items; the reported per-teacher trust shifts (e.g., 2.67 to 2.33, 3.17 to 3.33) were not tested for statistical significance.
+- Data are written reflections and survey responses from a two-week asynchronous module, so the analysis captures stated ethical perceptions rather than observed classroom practice.
+- Case-study generalization was not a goal; the authors sought transferability through thick description of seven bounded cases, so findings should not be read as representative of K-12 teachers broadly.
 
 ## Connected Concepts
 

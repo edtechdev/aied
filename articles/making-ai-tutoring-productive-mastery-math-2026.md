@@ -1,7 +1,7 @@
 ---
 title: "Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment"
 created: "2026-08-17T17:56:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [help-seeking, metacognition]
@@ -26,11 +26,19 @@ sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 - **AI's value is conditional on structure.** The most encouraging delayed-test evidence appeared when AI was embedded in the mastery workflow (Mastery × AI practiced-delayed coefficient 0.085), with marginally significant gains concentrated on practiced Exercise 1 material. AI access alone added little; AI paired with a structured workflow that makes mistakes consequential is where the value lives.
 - **Practical implication:** designing AI tutoring productively means embedding the tutor in the practice environment, surfacing [[help-seeking|help]] at moments of need, and pairing it with progression rules that make errors matter — turning [[cognitive-offloading|effort avoidance]] into productive [[scaffolding|scaffolded]] struggle.
 
-## Practical Implications
+## What this means for practice
 
-- **Make mistakes consequential, then make support salient.** The results show that [[feedback]] and [[scaffolding|scaffolded]] help are only as productive as the incentive to use them; a [[formative-assessment|mastery progression rule]] creates the moment of need, and a guard-railed tutor turns that moment into reasoning rather than answer-grabbing. Design the pair together, not the tutor in isolation.
-- **Distinguish platform-defined success from durable learning.** A three-correct-in-a-row rule is a behavioral lever that raises practice and apparent mastery, but it is not itself understanding — a lesson for [[adaptive-learning|adaptive]] practice platforms that lean on short-run streaks as success metrics.
-- **Expect the value to concentrate where structure and AI co-occur.** The strongest delayed-test signal appeared on practiced material when AI sat inside the mastery workflow; standalone AI access added little. Adoption decisions should weight the surrounding practice environment, not model capability alone.
+- **Designers.** Embed the tutor inside the practice environment rather than offering a passive chat window: mastery students averaged 1.99 "help me get started" uses, 2.28 post-mistake walkthroughs, and 3.23 step explanations, and the measured effect came from those structured touchpoints.
+- **Instructors.** Pair AI support with a progression rule that makes errors consequential — the strongest delayed-test evidence came from AI embedded in the mastery workflow, while AI access alone added little.
+- **Designers.** Report platform-defined success separately from durable learning: mastery raised three-correct-in-a-row attainment by roughly 28.7 percentage points without improving delayed-test performance, so streak metrics should not stand in for learning on dashboards.
+- **Instructors.** Protect the time a "productive slowdown" needs: AI students completed fewer questions (1.04 fewer in the non-mastery condition) and spent more clock time per supported question, but answered more accurately and returned to a correct answer in fewer attempts.
+
+## Limitations
+
+- The study ran in one district — Hamilton County Schools (Chattanooga, Tennessee), grades 6–8 across 20 schools and just under 100 teachers — so results may not transfer to other student populations or settings.
+- The intervention was short: one roughly 50-minute NUMI session in March 2026 followed by a 15–20-minute delayed assessment about one week later; the authors state this does not support claims of transformational learning gains.
+- The delayed-test estimates are imprecise — the Mastery × AI coefficient on practiced Exercise 1 is 0.085 and only marginally significant, and the combined practiced-minus-unpracticed contrast is too imprecise to support a large or uniform effect.
+- The experiment cannot separately identify why mastery raised streak attainment (understanding versus repeated exposure or guessing), and later exercise outcomes are contaminated by differential progression and remaining class time.
 
 ## Connected Concepts
 
