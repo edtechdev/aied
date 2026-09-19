@@ -1,7 +1,7 @@
 ---
 title: "Towards an adaptive AI scaffold for developing student collaborative problem solving"
 created: "2026-08-24T21:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 pedagogy: [collaborative-learning, problem-solving, scaffolding]
 technology: [adaptive-learning, learning-analytics]
@@ -24,9 +24,20 @@ audience: [instructional designers, learning analytics designers]
 - **Phase-specific strategies.** The derived design informs conceptual strategies such as [[prompt-engineering|prompting]] students who are capable of answering questions to *ask* questions in the 'problem identification' phase.
 - **Key CPS phases.** The design highlights specific strategies for the 'problem identification' and 'ideation, planning and decision making' phases.
 
-## Implications
+## What this means for practice
 
-This work connects [[adaptive-learning|adaptive learning]], [[scaffolding]], and [[collaborative-learning|collaborative learning]] for [[k-12|secondary-school]] students, using [[learning-analytics|process-mining learning analytics]] to move adaptive scaffolding from static/aggregate rules toward individualized, sequence-based intervention. The finding that maximal scaffolding boosts on-task performance but increases scripting behaviors is a nuance for [[student-engagement|engagement]] and [[agentic-ai|agency]] debates: scaffolding that keeps students on-task may also script their interactions. The proposed adaptive scaffold — prompting capable students to ask questions during problem identification — offers a concrete, process-grounded design for AI-assisted collaborative learning in [[stem-education|mathematics]].
+- **Designers.** Replace static or aggregate adaptation rules with individual sequence-based ones: this study derived its scaffold from sequential patterning mining of 78 students' own dialogue and task logs, moving [[adaptive-learning|adaptive learning]] from aggregate behavioral/performance measures toward individualized, process-grounded intervention.
+- **Designers.** Trigger support on the order of interactions, not their frequency. Paraphrasing followed by proposing ideas and then questioning predicted improvement (positive coefficient = 0.521), whereas paraphrasing followed by questioning and then proposing did not (negative coefficient = −0.624); and two rounds of clarifying questions to build shared understanding averaged a negative coefficient of −0.702, while one round followed by identifying relevant information from the task context before questioning produced only productive sequences. It is also worth prompting capable students to ask questions at the start of the problem-identification phase, where asking to clarify understanding remains an important starting indicator.
+- **Designers.** Once students enter ideation, keep them there before prompting critical questioning: questioning that occurred after two rounds of idea proposals had almost three times the likelihood of accompanying improvement (coefficient = 1.090, odds ratio = 2.963) compared with questioning wedged between two proposals (odds ratio = 1.076).
+- **Designers.** Treat collapsed sense-making as a warning state. Sequences that began with talking about the task in general terms and moved straight into proposing solutions (negative coefficients of −0.088 and −0.290) or into clarifying questions (−0.616 and −0.626) were non-productive, so deliver in-depth, contextualized guidance on the problem itself when they appear.
+- **Designers.** Plan for the on-task versus scripting trade-off: maximal scaffolding produced significantly fewer off-task indicators (t(4876.5) = −2.40, p = .016) but also significantly more scripting and fewer problem-solving indicators, so design scaffolds that fade back toward the problem-solving behaviors that actually tracked with improvement.
+
+## Limitations
+
+- Of 78 students recruited from a single mathematics class in one public school (aged 14–15), 4 control and 9 treatment students were excluded for incomplete post-tests, leaving an analysis sample of 65 (35 control, 30 treatment).
+- Only 14 of 65 students (21.5%) showed any post-test improvement, and when the minimal scaffold was used as the baseline a mixed model found no statistically significant maximal-scaffold effect (p = 0.322) — the authors read this as the Mann–Whitney U test (U = 626.0, p = .0327, r = 0.192) having overestimated the effect.
+- The pre-test used to assign students to triads had a Cronbach's alpha of 0.443, and 18.9% of the variance in performance improvement was attributable to triad membership (ICC = 0.189), which the authors cite alongside the small sample as a constraint on the significance tests.
+- The adaptive scaffold is a conceptual design, not a tested intervention: the authors state that real-time automatic classification of utterances and a design-based research evaluation of learning gains remain future work, and they note that sequential pattern mining does not specify the time interval between indicators in a sequence.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AgentSchool: An LLM-Powered Multi-Agent Simulation for Education"
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [sociocultural-learning]
@@ -48,9 +48,19 @@ The paper distinguishes three validation targets that are often conflated: **beh
 
 Calibration is treated as a set of alignment checks between simulated observables and either empirical data or theory-derived constraints — combining data-grounded calibration (where longitudinal educational data exist) with theory-driven constraints (gradual mastery growth, ZPD-consistent task difficulty, plausible social-network evolution) that prevent surface plausibility from being mistaken for sufficient evidence.
 
-## Implications
+## What this means for practice
 
-AgentSchool reframes student simulation as **stateful learning rather than role-play**, directly addressing the [[simulating-students|validity concerns]] raised elsewhere in the simulation literature and the [[ai-ed-evaluation|evaluation]] challenge of educational AI. For [[teacher-role|educators]] and policymakers it offers a safer space to prototype future educational models and to reason counterfactually about institutional configurations, while [[governance]] and [[educational-policy-ai|policy]]-level simulation are positioned as planned extensions. For the agent community it frames education as a socially meaningful testbed for long-horizon memory, heterogeneous multi-agent coordination, and future institutional reasoning under organizational pressure — a productive [[scaffolding|bridging]] of education research and agent-based modeling.
+- **Developers.** Represent learner state explicitly — weighted knowledge graph, misconceptions with persistence values, memory — rather than reading mastery off a persona prompt, so trajectories change gradually and remain inspectable.
+- **Developers.** Treat the backbone LLM as an experimental condition and test more than one, because simulated behavior was sensitive to backbone model, prompt structure, and calibration data.
+- **Researchers.** Report total-node counts alongside any node-count metric: raw counts are inflated or deflated by the size of the generated graph and are not normalized achievement rates.
+- **Researchers.** Use simulator output to generate hypotheses, compare plausible mechanisms, and surface risks, then pair it with expert review and field validation before any high-stakes decision.
+
+## Limitations
+
+- Validation is within-simulator and mainly phenomenological: the authors state that the results are not yet calibrated against longitudinal classroom data and explicitly avoid claiming ecological validity.
+- The lesson study is a single 2×3 configuration — structured vs. baseline student simulator crossed with adaptive, baseline, and scripted teachers — run on one lecture-based middle school geography classroom across five backbone LLMs, and teacher-agent effects proved backbone-dependent rather than uniform.
+- Several educational constructs are only partially represented in the current student state: motivation, identity, and belonging are incompletely modeled.
+- The metrics and the outputs are fragile: raw node-count metrics are affected by generated graph size, and simulated outcomes may inherit bias from both the backbone models and the theoretical assumptions encoded in the simulator.
 
 ## Connected Concepts
 

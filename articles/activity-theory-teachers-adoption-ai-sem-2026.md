@@ -1,7 +1,7 @@
 ---
 title: "Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling"
 created: "2026-08-26T08:12:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]
@@ -24,9 +24,20 @@ institutions: [change-management]
 - **Indirect pathways through Objectives and Division of Labor.** Objectives and Division of Labor were directly linked to Individual and indirectly associated with Intention; Community was linked to Rules/Regulations and Government, which were indirectly associated with Intention.
 - **Stage and level matter.** Primary teachers showed notable roles in intention, and pre-service teachers' results resembled — but were not identical to — in-service patterns, indicating adoption mechanisms differ across career stage and teaching level.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study positions [[activity-theory-aied|activity theory]] as a structural lens on teacher adoption of AI, complementing individual-belief models like [[technology-acceptance-model|TAM]] by foregrounding the community, rules, and division of labor that shape a teacher's decision to use AI. For practice, it implies that [[educational-development|professional development]] and [[governance|institutional]] adoption strategies should address not only individual attitudes but the collective activity system — community norms, regulations, and role divisions — in which teachers work. It connects to the knowledge base's [[teacher-role]] and [[k-12]] concepts and to the broader question of how [[educational-development|teacher professional development]] should be designed for the AI era.
+- **Instructors.** Treat your AI adoption decision as a property of the activity system you work in, not of your personal attitude alone: the Individual (Subject) and Community components were the two significant direct predictors of intention in this sample, so examine the norms, written rules, and role divisions around you before concluding that reluctance is yours to fix.
+- **Instructors.** Raise your own AI literacy deliberately, since individual-level confidence and skill gaps were the levers the authors recommend targeting (Individual was a significant direct driver of intention across the full sample).
+- **Faculty developers.** Design [[educational-development|professional development]] that pairs individual AI-literacy training with work on the collective activity system — community norms, regulations, and division of labor — rather than attending only to individual attitudes, as this study positions [[activity-theory-aied|activity theory]] as a structural complement to individual-belief models like [[technology-acceptance-model|TAM]].
+- **Administrators.** Where national AI guidance is absent, publish school-level internal guidelines: in this sample, Rules/Regulations and Government were indirectly associated with intention, and the authors note that in the absence of national policies schools may need to develop their own guidelines to support educators.
+- **Faculty developers.** Tailor support to career stage and teaching level rather than running one program for all staff, because pre-service teachers' paths resembled but were not identical to in-service paths, and the authors suggest community-focused strategies may be more effective in secondary settings.
+
+## Limitations
+
+- The sample is Australian (N = 557 primary, secondary, and pre-service teachers), so the authors state directly that generalizability to educators in other countries is limited and call for multi-country samples to improve external validity.
+- Recruitment did not use probability-based sampling (e.g., stratified sampling); participants came from diverse sources, so demographic and professional diversity — including teaching areas — is not guaranteed to be representative.
+- The SEM model structure was deliberately held constant across subgroups to allow path-strength comparisons, so the reported fit is not the best achievable per group; the authors note subgroup-specific models would need larger subgroup samples.
+- AI attitudes fluctuate with media coverage and government priorities, so the cross-sectional timing of data collection captures one particular climate, and the reciprocal nature of activity-theory relations (e.g., Rules → Community and Community → Rules) was not tested longitudinally.
 
 ## Connected Concepts
 - [[activity-theory-aied]]

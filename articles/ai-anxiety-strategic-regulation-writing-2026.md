@@ -1,7 +1,7 @@
 ---
 title: "From AI Anxiety to Strategic Regulation: How University Students Transform Generative AI into a Strategic Learning Resource"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -25,11 +25,23 @@ discipline: [writing education]
 - **Four regulatory types (N=107):** Uncritical Reliance (18.7%), Selective Integration (34.6%), Evaluative Transformation (31.8%), and Strategic Rejection (14.9%). Effective AI use depended not on willingness to use the tool but on the capacity to question outputs, revise selectively, and maintain authorship responsibility. Uncritical reliance risks [[cognitive-offloading|cognitive offloading]], while the other modes reflect active [[self-regulated-learning|self-regulated]] engagement.
 - **AI literacy as regulatory competence:** The study frames [[ai-literacy]] in [[higher-ed|higher education]] less as technology acceptance and more as a form of regulatory competence grounded in evaluative judgment and ethical responsibility.
 
-## Implications for AI in Education
+## What this means for practice
 
-This work reframes AI anxiety from a negative construct to a potentially productive signal that encourages closer scrutiny and more deliberate [[regulation]] of AI use. It challenges adoption-centered models (like [[technology-acceptance-model|TAM]]) that treat use as a stable decision, arguing instead that AI use is an ongoing process of judgment, revision, and selective uptake during task performance. For [[assessment]] and [[academic-integrity]] design, it suggests that fostering evaluative capacity and ethical awareness — not merely reducing anxiety — is the key to promoting critical, responsible engagement with [[generative-ai|GenAI]] in writing tasks.
+- **Learners.** Read your own discomfort with AI output as a signal to scrutinize, not a reason to avoid the tool: higher AI anxiety predicted more verification and revision (β = .24, p < .01).
+- **Learners.** Invest in evaluative capacity rather than in deciding whether you "like" AI — it was the strongest predictor of active revision and selective uptake (β = .46, p < .001) and is what separates strategic use from [[cognitive-offloading|over-reliance]].
+- **Learners.** Ground your use in [[ethics|ethical]] awareness: that combination strengthened the translation of evaluation into responsible AI use (β = .41, p < .01).
+- **Learners.** Document how you revised, attributed, or rejected AI suggestions during a task; the reflective protocols in this study are what turn authorship responsibility from a declaration into a habit.
+- **Learners.** Audit which mode you are in — Uncritical Reliance (18.7% of the sample), Selective Integration (34.6%), Evaluative Transformation (31.8%), or Strategic Rejection (14.9%) — and treat only the first as a warning sign, since rejection after evaluation was itself a regulated strategy.
+
+## Limitations
+
+- All 107 undergraduates came from a single general education English course at one South Korean university where generative AI was not formally embedded in the curriculum, so transfer to other disciplines, levels, or instructional designs is untested.
+- The writing tasks were relatively short, which limits what the study can say about sustained or discipline-specific academic writing.
+- The four regulatory types and the behavioral findings rest on self-reported survey scales and post-task written reflections — attitudinal and retrospective accounts — not on observed behavior.
+- The paper reports cross-sectional associations from a hierarchical regression, so the β values establish relationships among anxiety, evaluative capacity, ethical awareness, and regulatory engagement, not that any of them causes the others.
 
 ## Connected Concepts
+
 - [[anxiety-and-stress]] — the productive-anxiety construct this study develops
 
 - [[generative-ai]]

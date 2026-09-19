@@ -1,7 +1,7 @@
 ---
 title: "Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [active-learning, collaborative-learning, community-of-inquiry, project-based-learning]
@@ -43,9 +43,20 @@ Representative initiatives illustrate how a single organizational structure prod
 
 The reported experience offers practical guidance for other academic leagues and student organizations seeking to integrate the three university pillars. It complements formal AIED instruction by providing informal, interest-driven pathways into [[ai-education]], and it illustrates how transversal competencies such as [[critical-thinking]], [[professional-training|leadership]], and [[lifelong-learning]] can be fostered through [[student-experience]]-centered [[governance]] rather than top-down curricula. The framework demonstrates an approach to [[curriculum-design]] and [[engineering-education|engineering and computing education]] that scales across [[cs-education|computer science]] programs and extends beyond Brazil's [[global-south|university context]].
 
-## Implications
+## What this means for practice
 
-For educators and administrators, LIA's experience offers a concrete, replicable model for embedding AI education and outreach in universities through extracurricular, community-connected structures rather than formal coursework alone. It highlights how [[student-engagement]] and student protagonism can be institutionalized through democratic governance and peer-led study groups, and how [[open-source|open repositories]] sustain institutional memory across successive generations of students. For [[research-methods-aied|researchers]], the case underscores the need for documented organizational models in [[cs-education|computer science and engineering]]—an area the literature has largely neglected—and for empirical studies examining how such leagues develop technical and transversal competencies over time.
+- **Learners.** Run the organization, not just the projects: LIA's annually elected student board (president, vice-president, secretary, communication coordinator) and project leaders elected by their own members let students set strategic direction while faculty serve as mentors.
+- **Learners.** Turn what you build into persistent artifacts — tutorials, repositories, technical reports, recorded lectures, online courses — because that is what lets later cohorts extend the work instead of recreating it.
+- **Administrators.** Start a league without new infrastructure: none of LIA's representative projects required large financial investment or specialized hardware, with success depending on student engagement, faculty mentorship, and collaborative organization.
+- **Instructors.** Take the mentor role and keep the governance separate from project execution: weekly meetings integrate all active projects and annual elections preserve continuity, and that separation is what sustains [[student-experience|student leadership]].
+- **Researchers.** Document organizational models and then measure them: the paper's own gap statement is that [[cs-education|computer science and engineering]] lacked documented models of this kind, and it calls for multi-institution studies with quantitative learning-outcome measures.
+
+## Limitations
+
+- Single case: the reported experience comes from one academic league at one institution — LIA at the Federal University of Santa Catarina — a limitation the authors state directly.
+- The evaluation is primarily qualitative and focused on the framework's organizational aspects; the paper reports no quantitative assessment of student learning, retention, leadership development, or engagement, and names those measures as future work.
+- Replicability beyond the founding context is argued rather than demonstrated: that the organizational principles are largely independent of the technical domain, and that the model extends beyond Brazil's [[global-south|university context]], is asserted without a second instantiation.
+- No data-collection procedure is described — no participant counts, surveys, or interviews — so the account of representative projects rests on the organizers' own description rather than on independent observation or participant data.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff"
 created: "2026-08-27T09:12:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, technology-acceptance-model]
@@ -29,9 +29,19 @@ institutions: [change-management, educational-policy-ai, governance]
 
 The study surveyed 1,809 students, 250 faculty, and 62 administrative staff at a single large university specializing in teacher education. Three role-adapted 75-item questionnaires covered frequency and contexts of AI use, perceived usefulness, trust and control, academic integrity concerns, responsible-use norms, institutional policy clarity, and perceived improvement in output quality. Analyses included descriptive statistics, Welch group comparisons, pooled ordinary least squares (OLS) models, reliability and dimensionality checks, and exploratory student-only K-means clustering. The authors emphasize that the cross-sectional, self-reported data show associations and group differences rather than causal effects on learning or objective outcomes.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings support stakeholder-aware, task-sensitive institutional AI policies that address academic integrity requirements and transparent disclosure of AI use. The misalignment among students, faculty, and administrative staff — the three groups that jointly shape university practice — may determine whether AI is perceived as an educational resource, a convenient administrative service, or a source of academic and [[ethics|ethical]] risk. For [[higher-ed]] governance and [[educational-policy-ai|institutional policy]], the results suggest that perceived usefulness drives [[trust-calibration|trust]] more strongly than policy clarity, so efforts to build trust should attend to demonstrable usefulness while clarifying responsible-use norms. The study also connects to [[technology-acceptance-model|technology adoption]] and [[ai-literacy]] literatures.
+- **Administrators.** Write policy for practices that have already developed rather than for projected adoption: 82.41% of the 2,121 respondents reported using at least one AI service, with students reporting weekly use more often than faculty or staff.
+- **Administrators.** Replace blanket permitted/prohibited splits with task-sensitive rules that distinguish idea generation, text editing, material preparation, assessment, fully AI-generated answers, and disclosure of AI use.
+- **Faculty developers.** Build trust primarily by demonstrating practical usefulness rather than by clarifying rules alone — perceived usefulness (β = 0.402) was a stronger correlate of trust than institutional policy clarity (β = 0.223).
+- **Faculty developers.** Segment training rather than running one program for everyone: exploratory K-means clustering identified four student groups ranging from low-experience, low-trust users to high-experience, high-trust users.
+
+## Limitations
+
+- The study was conducted at a single anonymized university specializing in [[teacher-education|teacher education]], and the records document neither the sampling frame, recruitment channels, nor response rate, so selection and nonresponse bias cannot be estimated.
+- Data are cross-sectional and self-reported: associations cannot establish causal direction, social desirability bias may affect the academic-integrity items, no attention checks were used, and the authors' common-method-variance diagnostic flagged that variance source.
+- Group sizes are badly imbalanced — 62 administrative staff against 1,809 students — with complete-case counts for individual index reliability falling to 28–54 and to 25 for the nine-item PCA diagnostic, limiting precision about staff.
+- No objective measures were collected: behavioral traces, learning logs, assignment artifacts, and academic performance are absent, the questionnaire lacked a cognitive-delegation scale, and group comparisons rest on role-adapted observed indices rather than verified equivalent latent constructs.
 
 ## Connected Concepts
 

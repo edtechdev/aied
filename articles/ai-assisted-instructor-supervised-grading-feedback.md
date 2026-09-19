@@ -1,7 +1,7 @@
 ---
 title: "AI-assisted, instructor-supervised grading and feedback in higher education: Design and evaluation of an end-to-end pipeline"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [automated-assessment, feedback, formative-assessment]
@@ -45,6 +45,21 @@ Requirement A was met in every case individually (76%–93% within tolerance) an
 ## Efficiency, Cost, and Practical Implications
 
 Grading a cohort takes under an hour per case, students receive supplementary feedback the morning after the deadline, and the full semester cost ~EUR 198 (< EUR 0.55 per student per assignment). Instructor time saving is estimated at ~48 hours per semester (~89% per submission, via self-report). The authors are blunt that this accuracy profile would not license autonomous grading: a human marker performing this way would not be entrusted with the course alone. The AI's errors never reached the official record, the formative comparator is a counterfactual of weeks-late feedback, and the escalation rule surfaces discrepancies large enough to mislead. Removal of the instructor from the loop is explicitly regarded as unsupported. Future work includes testing across disciplines and course formats, [[multimodal]] extension, on-premises [[open-source]] models for stricter data residency, criterion-level instructor scoring, longitudinal learning-gain studies, and formal [[equity-in-ai-education|equity]] audits.
+
+## What this means for practice
+
+- **Instructors.** Adopt the pipeline as a supplement with override authority intact: the AI landed within 0.5 points of the instructor's mark in 83% of 362 submissions (MAE 0.31), and the authors state plainly that this accuracy profile would not license autonomous grading.
+- **Instructors.** Derive the tolerance from the rubric's own resolution and escalate outliers before release — an 0.8-point trigger sent 11 of 362 submissions (3.0%) to human review, which is the behavior the authors intended.
+- **Assessment professionals.** Validate graders in deployment, not just offline: agreement fell from r = 0.92 on 150 historical scripts to r = 0.57 live, so a pre-launch [[benchmark]] overstates how the model behaves on authentic submissions.
+- **Administrators.** Fund the protective layers that make the design deployable — residency inside the institutional tenant, anonymization before egress, contractual no-training terms, and full prompt-response logging so any score can be traced and overridden.
+- **Instructors.** Fix the feedback template as three rubric-linked comments (a strength, a concrete improvement step, and a pitfall to avoid); 99.7% of records met elaborated-feedback criteria on that structure.
+
+## Limitations
+
+- The evaluation covers one Master's-level Information Systems Project Management course across six case-study assignments (362 submissions from 66 students), so transfer across disciplines, course formats, and institutions is untested.
+- Chance-corrected agreement was only moderate (ICC(2,1) = 0.49, 95% CI [0.33, 0.61]) and was attenuated by range restriction (instructor grades 2.75–5.0); the AI also compressed the grading range to 3.08–4.75.
+- No criterion-level instructor scores were collected, so the AI's low scores on Personal Opinion describe the AI's own score distribution and cannot be attributed to AI severity versus genuine student weakness.
+- Student ratings of feedback quality came from a self-selected 31% response rate (112 responses), and the estimated ~48 hours of instructor time saved per semester is a self-report figure.
 
 ## Connected Concepts
 

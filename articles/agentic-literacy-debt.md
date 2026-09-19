@@ -1,7 +1,7 @@
 ---
 title: "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named"
 created: "2026-05-28T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 technology: [generative-ai, llm]
@@ -58,12 +58,19 @@ The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI liter
 
 These are structurally new competencies, not refinements. Design defaults are literacy interventions whether or not they are intended as such; transparency-by-design, [[intelligent-tutoring|AI tutoring]] that simulates agentic scenarios, and contextual micro-learning at the point of risk could help close the debt — but only if user literacy is treated as a first-class design objective.
 
-## Implications for AI Education
+## What this means for practice
 
-1. **AI literacy curricula must add agentic delegation concepts** alongside traditional evaluation skills, for both [[k-12]] and [[higher-ed]].
-2. **Governance over evaluation** — the field should reframe literacy as the capacity to delegate, supervise, and contest autonomous action, connecting to [[governance]].
-3. **Address the responsibility asymmetry** — institutions that deploy agents incur the debt; learners and citizens pay it. Curriculum and [[governance]] must account for who bears the costs.
-4. **Design and policy must embed literacy**, not assume education alone can close a structural gap on a 5–7 year timeline.
+- **Researchers.** Add agentic delegation concepts — delegation, oversight, accountability attribution, attack-surface awareness, agent-specific informed consent, calibrated trust — to AI literacy instruments, and test any scale for cross-cultural validity, since none currently has been.
+- **Instructors.** Teach learners to interrogate what an agent has been authorized to do and to contest its actions, rather than training only error-spotting on outputs, because production agents act in milliseconds and most actions are never observed.
+- **Administrators.** Treat deployment-time literacy infrastructure as a precondition for deploying [[agentic-ai|agents]], not a downstream training task: deploying organizations incur the debt while users, patients, and citizens pay it.
+- **Designers.** Ship scope-granular permissions, visible revocation, and contextual micro-learning at the point of risk, because design defaults function as literacy interventions whether or not they are intended as such.
+
+## Limitations
+
+- This is a conceptual position paper with no empirical study of its own; the author states that direct evidence of agentic-specific harms is still emerging, so the supporting evidence from healthcare, fraud, and security is illustrative rather than systematic.
+- The three compounding channels (opaque delegation, multi-agent complexity, institutional path dependence) are offered as a theoretical mechanism with no longitudinal data quantifying accumulation or the described ratchet effect.
+- The principal-side competencies it proposes are unvalidated: no instrument measures them, and the paper notes that no AI literacy measurement scale has been tested for cross-cultural validity.
+- The governance argument rests on the EU AI Act Article 4 obligation as a policy anchor, but the paper evaluates neither whether such mandates change literacy outcomes nor the costs of the design and policy changes it recommends.
 
 ## Connected Concepts
 

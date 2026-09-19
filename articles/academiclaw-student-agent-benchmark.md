@@ -1,7 +1,7 @@
 ---
 title: "AcademiClaw: When Students Set Challenges for AI Agents"
 created: "2026-05-11T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, open-source]
 assessment: [automated-assessment]
@@ -45,6 +45,14 @@ AcademiClaw flips the evaluation paradigm: instead of researchers designing arti
 2. **Capability gap diagnosis**: The 55% ceiling reveals where AI agents still fail students
 3. **Token-output disconnect**: Challenges the assumption that more compute solves academic problems — relevant to [[intelligent-tutoring|AI tutoring]] cost/benefit analysis
 4. **Safety in academic contexts**: The 5-category safety audit surfaces risks specific to educational AI deployment
+
+## What this means for practice
+
+- **Instructors.** Test an agent against real academic tasks before putting it in front of students: on AcademiClaw's 80 tasks distilled from 230 student submissions, the best of six frontier models passed only 55%, and 23 of 80 tasks (28.8%) defeated all six.
+- **Learners.** Do not treat a fluent agent answer as a solved problem on long-horizon work: eight of the 80 tasks drew every model below 50 out of 100, with olympiad-level math remaining universally unsolved.
+- **Software developers.** Build evaluations on authentic task specifications — natural-language prompt, reference materials, and a rubric withheld from the agent — and score them in an isolated sandbox, as AcademiClaw does across 25+ professional domains.
+- **Instructors.** Budget per task rather than per token: GPT-5.4 averaged 525K tokens and 240 seconds per task, while Gemini 3.1 Pro consumed 5.4× more tokens without a commensurate quality advantage.
+- **Designers.** Audit behavior, not just completion: AcademiClaw's five-category safety audit covers unauthorized file deletion or system modification and information leakage, with most models above 80 but Gemini 3.1 Pro at 74.9.
 
 ## Limitations
 
