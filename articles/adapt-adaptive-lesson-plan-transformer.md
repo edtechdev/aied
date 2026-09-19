@@ -1,7 +1,7 @@
 ---
 title: "AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction"
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-09-19T08:14:13-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [adaptive-learning, generative-ai, personalized-learning]
@@ -26,10 +26,10 @@ AdaPT uses transformers to adapt lesson plans across regional and differentiated
 
 ## Limitations
 
-- The evaluation is a single study with 12 participants — 9 in-service teachers and 3 education specialists — each completing one realistic lesson plan adaptation task, so no classroom deployment or longer-term use was observed.
-- The workload benefit rests on teachers' reported perception of reduced preparation workload rather than timer data or independently observed preparation effort.
+- The evaluation is a single study with 12 participants — 9 in-service teachers and 3 education specialists — each completing one realistic lesson plan adaptation task, so no classroom deployment or longer-term use was observed, and the workload benefit rests on teachers' reported perception of reduced preparation workload rather than timer data or independently observed preparation effort.
 - Both the formative study (8 participants: 2 education experts, 6 in-service teachers) and the evaluation were run in China and anchored to China's national curriculum standards, which the team pre-populated by decomposing national objectives, so cross-regional transfer was tested inside one national framework only.
 - No student-level outcome was measured: judgments of contextual appropriateness come from 3 education specialists, so the system's effect on student learning remains untested.
+- The team reports that general-purpose LLMs show limited sensitivity to task difficulty — they produce acceptable tasks but weak gradients between basic and advanced levels — so fine-grained differentiation still needs teacher judgment; the long, detailed prompts that compensate also carry substantial token cost, which the authors name as a practical barrier to adoption.
 
 ## Connected Concepts
 
