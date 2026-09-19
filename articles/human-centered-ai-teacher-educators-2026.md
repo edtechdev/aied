@@ -1,7 +1,7 @@
 ---
 title: "Human-centered AI for teacher educators: Designing professional learning for critical AI literacy"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 ethics: [ethics]
@@ -31,6 +31,20 @@ level: [teacher training, adult learning]
 **Five-module curriculum and seven activities.** Findings were operationalized into five online modules (foundational AI knowledge; ethics and algorithmic bias; pedagogical integration; implementation, guidelines, and policy; human-centered AI in education) delivered through seven HCAI-informed activities, including educator-in-the-loop and student-in-the-loop tasks that foreground professional judgment, transparency, explainability, value-sensitive design, and equity-oriented decision-making.
 
 **Teacher educators as pivotal nexus.** Teacher educators shape how preservice teachers first understand, evaluate, and integrate AI, yet rarely receive systematic preparation to lead this work; the study reframes AI literacy as a design practice and positions teacher educators as designers and ethical stewards of AI integration — directly supporting the knowledge base's [[teacher-education]] and [[teacher-role]] concepts.
+
+## What this means for practice
+
+- **Instructors.** Position AI as a thinking partner that expands options while leaving the adopt–adapt–discard decision with the educator, rather than a source of finished lesson plans or answers.
+- **Faculty developers.** Model ethics as enacted practice — transparent AI use and real-time [[scaffolding]] of ethical decisions — and design educator-in-the-loop activities that foreground professional judgment, transparency, explainability and equity-oriented decision-making.
+- **Instructors.** Redesign [[assessment]] toward process-based, AI-resistant tasks that ask students to justify reasoning and reflect, replacing summative essays with smaller scaffolded tasks that engage AI at multiple stages.
+- **Administrators.** Commit program-wide resources to AI professional learning; the study site had no formal program-wide AI integration, leaving even experienced teacher educators without systematic preparation.
+
+## Limitations
+
+- [[design-based-research|Design-based research]] with only seven teacher educators at a single Midwestern US teacher-preparation program; DBR is intended to develop design knowledge, not to establish generalizable effects.
+- Participation was purposive and required "some experience with or interest in AI integration," so the sample skews toward already-motivated educators rather than the full faculty population.
+- Evidence comes from interviews and design activities across three cycles over 13 months; there was no comparison group, no pre/post outcome measure and no student-level learning data.
+- The program had no formal, program-wide AI integration at the time, so the three identified design needs are anchored to one institutional context and may not transfer to programs with existing AI policies.
 
 ## Connected Concepts
 

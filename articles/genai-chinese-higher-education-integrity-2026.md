@@ -1,7 +1,7 @@
 ---
 title: "Navigating the challenges of Gen-AI in Chinese higher education: Balancing technological innovation with academic integrity and intellectual engagement"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity, agency, critical-thinking, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -30,6 +30,20 @@ confidence: high
 **Method.** A case-oriented, reflexive thematic approach (Braun & Clarke) was applied to 33 semi-structured interviews from Jiangxi Province, with within-case then cross-case synthesis of staff and student transcripts, reflexive memos, co-[[research-methods-aied|researcher]] coding, and an [[ethics]]-approved protocol (#EDU-2024-2716-2733).
 
 **Reform imperative.** The authors argue for critical curricular reform and reimagined practices that prioritize intellectual development, reframing [[philosophy-of-ai-in-education|the purpose of higher education]] in an AI-mediated environment. Safeguarding the humanistic aspect of higher education demands redefining intellectual agency and critical engagement with technological change, linking to [[ai-literacy]] and [[agency]].
+
+## What this means for practice
+
+- **Instructors.** Publish course-level rules that say how Gen-AI use and [[academic-integrity]] coexist in each assignment, because the study found official policy endorsed both aims without explaining how they fit together, leaving staff and students to devise their own standards.
+- **Learners.** Protect the work whose purpose is the thinking: keep analytical and essay-generation tasks unaided when the aim is independent reasoning, and reserve Gen-AI for the laborious, performative tasks—test questions, materials, summaries—where participants reported their workload relief came from.
+- **Instructors.** Require students to show the reasoning behind AI-assisted work—source checking, critique of AI output, an account of what they changed—so that efficiency does not become the cognitive inertia participants described as thinking "less actively."
+- **Administrators.** Fund [[curriculum-design|curricular reform]] that names intellectual development as the purpose of AI-mediated study, and audit what the endorsed tools will not discuss (participants flagged Chinese-company-managed Gen-AI tools for avoiding political debate and diverse viewpoints).
+- **Faculty developers.** Treat Gen-AI's emotional and relational role—students described a tool as a "loyal friend"—as a signal of unmet campus needs, and pair AI provision with community and advising rather than letting the tool absorb them.
+
+## Limitations
+
+- The study draws on 33 semi-structured interviews—21 students and 12 academic staff—recruited through a conference group of the Jiangxi Provincial University Alliance, with no demographic criteria beyond prior Gen-AI experience, so the sample is self-selected.
+- All participants came from one province (Jiangxi), chosen partly because it is a researcher's home region with convenient local contacts, and the interviews ran only from December 2024 to January 2025.
+- The evidence is participants' accounts of their own thinking and conduct rather than any measured change in critical thinking or integrity, so the cognitive-inertia finding is perceptual rather than demonstrated.
 
 ## Connected Concepts
 

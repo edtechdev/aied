@@ -1,7 +1,7 @@
 ---
 title: "Reassessing Academic Integrity in the Age of AI: A Systematic Literature Review on AI and Academic Integrity"
 created: "2026-08-19T11:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -54,12 +54,20 @@ Across the included studies, the dominant recommendation is **preventive and cul
 
 The review is balanced: AI can enhance writing efficiency, improve non-native English writing, act as a virtual [[intelligent-tutoring|tutor]] students ask questions to without hesitation, and improve learning abilities (Darvishi et al. 2024; Maphoto et al. 2024; Milano et al. 2023). The task is to **harness these benefits while upholding ethical standards**, not to ban the tools.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Detection is necessary but insufficient.** The review reinforces the knowledge base's [[ai-detection]] coverage — AI detection tools (including Turnitin AI scores) are unreliable, and detection must be paired with assessment redesign and culture-building (see [[reducing-ai-misuse]]).
-- **Assessment redesign matters more than policing.** Returning to oral exams, process artifacts, and multiple assessment methods echoes the knowledge base's [[authentic-assessment]] and [[assessment]] literature.
-- **Policy must be clear and co-developed.** Institutions need explicit, shared AI-use policies — a finding consistent with [[educational-policy-ai]] and [[academic-integrity]] research showing policy lag behind actual use.
-- **A balanced, cultural approach.** The review's call to "create a culture of academic integrity" connects to [[framing-ai-use-for-students]] (how expectations are communicated) and to the ethics dimension of [[ai-misuse-learning-harm]].
+- **Administrators.** Build a culture of [[academic-integrity|academic integrity]] rather than an enforcement regime: the review concludes that institutions need balance between preventing misconduct and preserving academic freedom and innovation, with expectations agreed and published rather than imposed.
+- **Administrators.** Publish explicit expectations for acknowledging AI use in academic activities, since the reviewed studies report that staff and students want those policies in place and the field has had to construct shared definitions of integrity for AI-era work.
+- **Instructors.** Do not let a tool score decide a misconduct case. Institutions can integrate Turnitin directly into the LMS for detection, but in-person exams monitored by invigilators — or proctored online settings using cameras — remain the configurations in which staff can directly observe student behavior, so pair detector output with observed conditions.
+- **Instructors.** Treat writing difficulty as a risk factor: the review found non-native English-speaking students showed a high tendency to breach integrity when struggling to write in English, so pair integrity expectations with concrete academic-writing support.
+- **Administrators.** Commit to continuous monitoring, evaluation, and adaptation of teaching and assessment practices, as the reviewed institutional studies recommend, instead of a one-off policy launch.
+
+## Limitations
+
+- The evidence base is small and heterogeneous: 25 studies were included from 1,443 records, the total participant pool across them is 2,134, and the corpus mixes quantitative studies with review papers.
+- The risk-of-bias assessment flagged participant selection as the most significant problem — nine studies fell in that domain, including Maphoto et al. (2024), which sampled 70 participants from a population of 14,000 — and four studies raised concerns about selective reporting of results.
+- The database search was run across the entire publication period with no year filter, 11 of 89 full-text reports could not be retrieved, and several included entries report no information about their participants.
+- The evidence is recent and fast-moving: the most-cited sources are 2023–2024 responses to ChatGPT's November 2022 release, so the findings may not extend to later tools and policies.
 
 ## Connected Concepts
 

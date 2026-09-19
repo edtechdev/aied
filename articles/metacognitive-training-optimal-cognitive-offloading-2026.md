@@ -1,7 +1,7 @@
 ---
 title: "Metacognitive Training Facilitates Optimal Cognitive Offloading"
 created: "2026-08-16T21:20:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -42,6 +42,21 @@ The authors attribute their success — versus Engeler & Gilbert (2020) and Grin
 ## Connections to the Knowledge Base
 
 This study provides strong empirical grounding for the knowledge base's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable [[regulation|regulatory]] skill).
+
+## What this means for practice
+
+- **Learners.** Before a study or retention task, predict how well you will do and then check that prediction against immediate results: five prediction-plus-feedback trials in this study improved calibration and made reminder-setting more optimal, while prediction without feedback did nothing.
+- **Instructors.** Give feedback that corrects miscalibration in both directions — the intervention raised confidence for underconfident participants and lowered it for overconfident ones, and it improved absolute bias even though signed directional bias did not move.
+- **Instructors.** Do not substitute generic confidence prompts ("how confident are you?") for performance feedback: explicitly labeling over- or under-confidence added no benefit beyond the feedback itself in the four-group Experiment 2 (N = 416).
+- **Designers.** Tie feedback to the learner's own prior prediction and deliver it trial by trial, and consider attaching a consequence to strategy optimality — the authors attribute their success over earlier null results to exactly these two design choices.
+- **Instructors.** Do not expect metacognitive training to remove hindsight bias about performance: participants' memory of their earlier confidence shifted toward their actual performance, and the intervention did not reduce this.
+
+## Limitations
+
+- Both experiments sampled online Prolific participants (Experiment 1 N = 164; Experiment 2 N = 416) paid £2.75 plus a £1 bonus for scoring in the top half, performing a laboratory circle-matching task rather than course tasks, so the findings describe paid online adults rather than classroom learners.
+- The effect depended on a financial incentive tied to the optimality of the offloading strategy; the authors credit this design choice for beating earlier null results, so the benefit may not transfer to settings without a comparable incentive.
+- Experiment 1 was powered to detect d = 0.39 — half the effect size reported by Engeler and Gilbert (2020) — and the intervention moved absolute bias but not signed bias, so the effect is modest and directional improvement is unproven.
+- Generalization beyond the reminder-setting paradigm is untested: reminder bias here is a laboratory measure of [[cognitive-offloading|intention offloading]], and the study reports no follow-up on whether more optimal reminder use persists or reaches everyday remembering.
 
 ## Connected Concepts
 

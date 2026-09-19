@@ -1,7 +1,7 @@
 ---
 title: "From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)"
 created: "2026-08-19T09:30:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, human-ai-collaboration, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding]
@@ -55,6 +55,21 @@ The paper's broader claim is that this challenge extends beyond education to the
 ## Relationship to existing research
 
 The framework integrates and extends themes already present in the knowledge base. It provides a unifying theoretical lens that connects the over-reliance / [[cognitive-offloading]] literature, the [[agency|learner-agency]] and dependency literature, [[reducing-ai-misuse]], and [[ethics|AI ethics]] in education — synthesizing what prior work has tended to treat as separate concerns. Its "scaffold, do not substitute" principle operationalizes the [[pedagogy]]-vs-technology distinction that underlies work on pedagogically aligned AI, and its call to measure human capacity development rather than machine output aligns with the knowledge base's critiques of overly narrow AI benchmarks. Its evidence base (student essays) adds a rare learner-perspective dimension to a literature dominated by researcher and system perspectives.
+
+## What this means for practice
+
+- **Instructors.** Require an unaided first attempt before any AI use on a task: 48 of 49 essays framed AI in terms of replacement rather than scaffolding and 80% (39/49) linked reliance to reduced thinking, so the pre-AI draft is where the effort that produces learning happens.
+- **Instructors.** Configure the tools you assign to scaffold rather than solve — withholding the answer, prompting recall, asking critical questions, offering alternative explanations — since 53% (26/49) of students named exactly those behaviors as the AI they want, and their preferences match retrieval practice and delayed [[feedback]].
+- **Learners.** Ask AI for questions instead of answers and treat an unearned answer as a warning sign: 41% of the essays endorsed effortful retrieval as valuable ("retrieving information from memory, even imperfectly, strengthens understanding").
+- **Designers.** Build [[scaffolding]] as a designed capability with explicit rules for when to withhold an answer, surface uncertainty, or present alternative perspectives, rather than layering a policy on top of a system that answers on demand.
+- **Administrators.** Write the conditions for productive struggle, reflection, and intellectual agency into procurement and [[assessment]] policy, because substitution risk is set by task design and tool choice, not by access alone.
+
+## Limitations
+
+- The empirical basis is 49 argumentative essays from three German-speaking Swiss schools (n = 19, 11, 19; median age 17) answering a single prompt; the authors call the cohort "illustrative rather than representative" and make no claims of statistical generalizability.
+- Evidence is descriptive only: the analysis codes students' first, unaided drafts with a deductive codebook and reports share-of-essay counts (80%, 41%, 88%, 53% of 49), so there is no control condition, intervention, or outcome measure of learning.
+- The framework itself is untested: the four dimensions and their self-reinforcing cycle are a conceptual synthesis, with the figure marking the closing link to consequences beyond education as weakly evidenced (dashed) and grounded only in the 49-student exploratory analysis.
+- The "scaffold, do not substitute" principle is argued from one cited illustration (Maike) rather than from evaluated interventions, so the paper supports a design agenda and research questions, not demonstrated effects.
 
 ## Connected Concepts
 

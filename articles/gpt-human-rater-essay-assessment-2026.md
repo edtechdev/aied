@@ -1,7 +1,7 @@
 ---
 title: "Comparing GPT and human raters in essay assessment: Variability, bias, and the potential of LLM-based scoring"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-essay-scoring]
@@ -29,6 +29,20 @@ level: [higher ed]
 **Calibration protocol.** All 20 human raters and GPT passed a calibration session against 30 pre-labeled sample essays drawn from a 300-essay CEFR A2–C2 pool (GPT passed on the first attempt), establishing baseline consistency before the main rating of all 181 essays within three days.
 
 **Complementary role.** GPT-based AES is best framed not as a wholesale substitute for human judgment in [[language-learning]] and [[automated-essay-scoring|writing assessment]] but as a calibrated scoring agent and consistency stabilizer that dampens rater variability — while guarding against residual bias and promoting [[bias-mitigation|fairness]].
+
+## What this means for practice
+
+- **Software developers.** Treat GPT-based scoring as a calibrated component of hybrid [[assessment]], not a standalone substitute: its content-strict profile, compressed score range and weaker grammatical alignment require ongoing calibration, fairness auditing and interpretive transparency.
+- **Designers.** Report and audit reliability at the criterion level rather than with aggregate indices, since GPT–human alignment ranged from r = 0.63 (Grammar) to r = 0.73 (Vocabulary) and ICC from 0.58 to 0.63.
+- **Instructors.** Use LLM scoring to dampen human rater variability in large classes, but keep human judgment for Content, where GPT is systematically stricter and 16 rater×criterion bias effects clustered.
+- **Researchers.** Budget for subgroup bias auditing and differential item functioning analyses, which this study did not run, before extending AES claims to diverse learner populations.
+
+## Limitations
+
+- The comparison used a single GPT-4 build (July 2024) in a fixed zero-shot, rubric-prompted configuration (temperature 0, top_p 1.0, max_tokens 150), so results reflect that one prompting strategy rather than the model's intrinsic behavior.
+- The rating task was bounded: 181 university essays across three task types and four analytic criteria, so alignment may not generalize to other genres, proficiency bands or holistic rubrics.
+- The rater pool was 20 people (10 NES from the UK, 10 NNES from Taiwan, all CEFR C1+), and the study did not test fairness across learner subgroups such as L1 background or proficiency band, so subgroup-level bias cannot be ruled out.
+- Only score-level alignment was examined; the interpretability, explanation consistency and decision traceability of GPT's reasoning were not assessed.
 
 ## Connected Concepts
 

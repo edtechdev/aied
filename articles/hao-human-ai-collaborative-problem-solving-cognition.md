@@ -1,7 +1,7 @@
 ---
 title: "Unpacking Interaction Profiles and Strategies in Human-AI Collaborative Problem Solving: A Cognitive Distribution and Regulation Perspective"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-22T01:30:41-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, problem-solving, self-regulated-learning]
@@ -47,6 +47,19 @@ Drawing on the tension between system efficiency and regulatory engagement, the 
 - The **CI group reported significantly greater self-regulation** than DR (H = 7.06, p = .029); no differences emerged for co-regulation or socially-shared regulation, as generative AI acted reactively rather than as a proactive regulatory partner.
 - Epistemic Network Analysis revealed that DR/DE deploy **delegation/offloading logics** (metacognition tied to invitations), while CI reflects **dialogic co-construction** (metacognition tied to human reasoning and elaboration).
 - The study surfaces a **tension between system efficiency and regulatory depth** — efficient semantic coupling does not equal deep learning, and over-delegation may incur "cognitive debt."
+
+## What this means for practice
+
+- **Instructional designers.** Build in dialogic tension rather than frictionless efficiency — strategic decoupling, counterexamples and pauses for reflection — because the Delegated Reasoning profile (n = 78) produced the highest task performance (H = 9.437, p = .009) but the lowest [[self-regulated-learning|self-regulation]].
+- **Instructors.** Require students to restate or critique AI reasoning in their own words so [[metacognition]] stays with the learner; the AI behaved as a reactive responder, leaving co-regulation and socially-shared regulation unchanged across all three profiles.
+- **Researchers.** Instrument for regulatory depth as well as task accuracy, since semantic similarity between human and AI discourse was highest in Delegated Reasoning yet did not index deeper learning.
+
+## Limitations
+
+- The analysis is cross-sectional and single-session: 213 students recruited from universities in Beijing completed one 45-minute human-AI problem-solving task, with 173 retained after screening for missing dialogue records or incomplete questionnaires.
+- Self-regulation, co-regulation and socially-shared regulation were measured by post-task self-report questionnaire rather than behavioral or physiological trace data — the gap the authors' own call for multimodal fusion (eye-tracking, affective computing) concedes.
+- The three profiles were derived by agglomerative clustering of dialogue codes (Cohen's κ = 0.81); clustering is descriptive, so the design cannot show that a profile causes the performance or regulation differences.
+- Generalizability is bounded by the task — an AGI-themed argumentation problem on the MAIC platform, done by volunteers compensated with 200 RMB.
 
 ## Connected Concepts
 

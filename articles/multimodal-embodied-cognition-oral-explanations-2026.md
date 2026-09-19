@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Framework for Embodied Cognition in Oral Explanations"
 created: "2026-08-17T10:15:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [embodied-learning]
 technology: [llm, multimodal]
@@ -48,12 +48,19 @@ Analysis of two undergraduate engineering students (127 and 58 total gestures; 9
 - **Gesture–speech coupling signals coherence:** episodes where gesture and speech were closely coordinated were associated with more coherent conceptual talk, whereas divergence coincided with partial or developing ideas.
 - **High confidence → stable gesture:** when students expressed high confidence, gestures were larger, temporally stable, and spatially consistent.
 
-## Implications for assessment and online learning
+## What this means for practice
 
-- **Assessment can and should consider embodied evidence:** speech-only assessment can mistake verbal fluency for understanding; gesture adds representation-level diagnostic information and increases [[assessment-validity|construct validity and equity]].
-- **Automated and reproducible:** the pipeline quantifies typically [[qualitative-research|qualitative]] gesture analysis and is released publicly, so instructors can upload gesture recordings and obtain automated detection for their own classroom or assessment contexts.
-- **A gap for [[online-teaching-and-learning|online learning]]:** instructors in online environments lack the embodied cues that naturally occur in person; gesture-aware digital platforms could help fill the gap left by verbal explanations alone.
-- **Statistics education:** the framework grounds understanding of foundational statistics concepts in both verbal and embodied enactment, relevant to [[math-education|statistics education]] where gestures can make central tendency, variation, and trend tangible.
+- **Researchers.** Use the released pipeline to move gesture analysis from manual coding to reproducible episode-level data, and report the gesture–speech relation (aligned, partial, misaligned, none) alongside transcripts when studying [[embodied-learning|embodied]] understanding.
+- **Designers.** Integrate gesture capture into online oral assessment and explanation activities: instructors in online settings lack the embodied cues available in person, and speech-only scoring can mistake verbal fluency for conceptual knowledge.
+- **Instructors.** Read gesture and speech together when judging explanations — closely coordinated episodes accompanied coherent conceptual talk in this study, while divergence marked partial or developing ideas, giving a diagnostic at the level of representation rather than wording.
+- **Designers.** Keep the gesture library small and conceptually grounded so detected forms stay interpretable to instructors instead of becoming opaque [[machine-learning|model]] categories.
+
+## Limitations
+
+- The findings rest on two undergraduate engineering students (127 and 58 total gestures; 92 and 36 retained high-confidence episodes) explaining linear regression and descriptive statistics, so this is a proof of concept rather than a validated framework.
+- Gesture detection tracks only the index fingertip through MediaPipe against a ten-form library, so movements outside that catalog or involving both hands are not captured.
+- Form labels come from a k-nearest-neighbors classifier (k = 7) evaluated at 0.85 accuracy and 0.84 Macro-F1 on a held-out split, and the semantic labels are produced by a single FLAN-T5 meaning agent under a forced JSON schema with no reported human agreement or inter-rater reliability.
+- The claim that gesture adds diagnostic value beyond speech is set up by the speech-only, gesture-only, and combined representations but not tested: the reported results are descriptive episode and confidence statistics, not a comparison against speech-only assessment or learning outcomes.
 
 ## Connected Concepts
 

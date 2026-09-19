@@ -1,7 +1,7 @@
 ---
 title: "Ethical Use of Artificial Intelligence in Engineering Education: A Systematic Review"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity, educational-development]
 technology: [generative-ai]
@@ -43,12 +43,19 @@ Across the 99 studies, **accountability** (n = 47) and **transparency** (n = 34)
 
 The central finding is that ethical AI guidance in engineering education is **predominantly student-facing and compliance-oriented** — often centered on [[academic-integrity|academic integrity]] and disclosure requirements — while **reciprocal accountability for faculty AI use and institutional responsibility remains underdeveloped**. The authors interpret this as a limitation: because engineering decisions directly affect public safety, infrastructure reliability, environmental [[sustainability]], and societal [[well-being]], ethical AI use in engineering classrooms is a matter of professional formation and societal responsibility, not merely academic policy. They document the need to make ethical guidance more balanced across students, faculty, and institutions, and to support [[educational-development]] so educators can guide responsible AI integration.
 
-## Implications
+## What this means for practice
 
-- **Ethical guidance must cover faculty and institutions, not only students:** integrity-focused, student-facing rules leave faculty AI use and institutional responsibility unaddressed.
-- **Preserve human agency and independence:** designing for student independence and agency is the least-emphasized ethical dimension but is central to protecting core engineering skills (problem-solving, critical thinking).
-- **Ground ethics in engineering's professional stakes:** the review frames ethical AI use in engineering as professional formation tied to public safety and societal impact.
-- **Balance principle with practice:** the field needs more empirical attention to how ethical principles are operationalized in classrooms, not just articulated in policy.
+- **Faculty developers.** Move training past integrity rules: across the 99 studies, accountability (n = 47) and transparency (n = 34) dominated while reciprocal accountability for faculty AI use and institutional responsibility stayed underdeveloped, so educators need to model disclosure and oversight, not only enforce it.
+- **Instructors.** Design for student independence and agency, the least-emphasized dimension (autonomy n = 12) — require students to verify AI-generated outputs and explain their reasoning instead of submitting unreviewed AI work, which protects [[problem-solving|problem-solving]] and [[critical-thinking|critical thinking]].
+- **Instructors.** Make transparency reciprocal in your own course: document in the syllabus and teaching materials when and how you use AI, and pair student disclosure requirements with verified, explained use.
+- **Administrators.** Treat ethical AI use in engineering as professional formation tied to public safety, infrastructure reliability, and societal well-being, and fund [[educational-development]] so ethical guidance is balanced across students, faculty, and institutions rather than resting on student-facing [[academic-integrity|compliance]].
+
+## Limitations
+
+- The central finding describes the literature, not classroom behavior: the review codes what 99 published studies say about ethical guidance and cannot verify how that guidance is enacted in practice.
+- Retention was narrow: 2,158 records yielded 184 studies using AI in engineering education and 99 that addressed ethics explicitly or implicitly; conceptual papers, opinion pieces, reviews, and non-English publications were excluded.
+- No quality appraisal or study weighting was applied to the included studies, so a methodologically weak study counts as heavily as a rigorous one.
+- Inclusion was restricted to English-language, peer-reviewed, empirical studies published between 2000 and 2025, so the corpus skews toward English-language higher education contexts.
 
 ## Connected Concepts
 

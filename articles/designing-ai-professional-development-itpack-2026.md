@@ -1,7 +1,7 @@
 ---
 title: "Designing effective AI professional development: A framework grounded in intelligent-TPACK"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 stakeholders: [tpack]
@@ -30,6 +30,20 @@ page_kind: [framework]
 **Practical tools.** The paper provides a detailed i-TPACK domain-to-AI-PD-pathway mapping, a sample implementation scenario across the phases of teacher learning, and design principles to support PD developers, alongside recommendations for research and practice.
 
 **Implication.** This is a foundational framework for the knowledge base's [[teacher-education]] and [[educational-development]] concepts, showing how AI teacher learning must build technological, pedagogical, content, and ethical fluency together — a framework for AI PD that is pedagogically grounded, ethically responsive, and adaptable across educational contexts.
+
+## What this means for practice
+
+- **Faculty developers.** Design AI professional development to develop all five i-TPACK domains together — i-TK, i-TCK, i-TPK, i-TPACK, and AI ethics — and make ethics explicit, since existing programs address it superficially or not at all.
+- **Faculty developers.** Layer the four pathways (active learning, models and examples, coaching and expert support, feedback and reflection) inside single activities instead of running them as separate workshops, following the principle of collective synergy over silos.
+- **Instructors.** Locate your own development needs on the domain-to-pathway mapping and start from the domain it exposes rather than from whichever AI tool is available.
+- **Administrators.** Fund sustained programs over one-off workshops: the framework warns that without structured, ethically informed, and context-sensitive PD, AI integration remains superficial or harmful.
+
+## Limitations
+
+- This is conceptual framework development: four phases of literature synthesis produce a mapping, a sample scenario, and design principles, but no program was implemented or evaluated with teachers.
+- The evidence base is small — the initial PRISMA review covered 14 AI PD studies — and the updated search (May 2024 to May 2025) yielded 17 new studies of which only 2 survived eligibility screening.
+- Inclusion criteria restricted the search to K-12, peer-reviewed empirical studies, so the framework's claimed transferability to higher education and adult learning goes beyond its evidence.
+- The framework depends on i-TPACK, a still-emerging extension of TPACK, and the paper's own stated limitations concern program duration, delivery format, outcome evaluation, and ethical integration — none of which a conceptual design can resolve.
 
 ## Connected Concepts
 

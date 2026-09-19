@@ -1,7 +1,7 @@
 ---
 title: "The Generative AI Learning Penalty: Evidence from Chinese Secondary Education"
 created: "2026-08-19T17:12:00-04:00"
-updated: "2026-09-16T15:13:06-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [active-learning]
@@ -33,6 +33,14 @@ The study reconciles its slow-build learning loss with the large *immediate* eff
 
 ## Implications for AI in Education
 This study is central to the knowledge base's understanding of [[reducing-ai-misuse|reducing AI misuse]] and [[cognitive-offloading]]. It provides large-scale field evidence that unguarded, [[self-directed-learning|self-directed]] use of general-purpose generative AI — used as a homework substitute rather than a tutor — can undermine actual learning even while inflating homework grades, a phenomenon students often fail to perceive. Its findings connect to [[cognitive-offloading]] (bypassing the practice/effort that produces learning), [[assessment]] and [[learning-gains]] (homework scores as misleading signals), and [[equity-in-ai-education|equity]] (larger losses for high-achieving students, boys, and junior students). Policy recommendations include informing students of the long-run learning costs, weighting closed-book in-person assessment more heavily, and having parents/teachers monitor inputs (homework time, effort) rather than outputs (homework scores). The [[rct]] literature on [[intelligent-tutoring|AI tutors]] (e.g., Bastani et al. 2025, Kestin et al. 2025) provides a contrasting supply-side lens. The authors also caution that the fact that non-outsourcing AI users learn as well as non-AI users does **not** imply simply mandating longer homework time will restore learning: longer-time AI users differ on unobservables (closer parental monitoring, better knowledge of how to learn with AI), so requiring more homework time may not help students who are outsourcing because they do not know how to use AI productively.
+
+## What this means for practice
+
+- **Instructors.** Weight closed-book, in-person work more heavily and stop reading homework scores as evidence of learning: in this panel homework scores rose 18% while monthly closed-book exam scores fell 20% within six months, and the divergence is widest where the tool does the thinking.
+- **Instructors.** Monitor inputs rather than outputs — track homework completion time and require unaided retrieval of the material about to be examined — because the penalty is concentrated among the ~81% of AI users whose faster-than-the-fastest-non-user completion times and AI-matching scores mark homework outsourcing.
+- **Instructors.** Teach productive AI use instead of assuming that requiring more homework time will restore learning: non-outsourcing AI users differ on unobservables (parental monitoring, knowing how to learn with AI), so students who outsource because they cannot use AI productively need instruction in how, not just a longer clock.
+- **Administrators.** Tell students and families up front that the cost is delayed and invisible: entrance-exam scores fall 18% (Gaokao) and 24% (Zhongkao) of the baseline mean, with the full penalty emerging only after about two years, so reports at the point of adoption will look like success.
+- **Policymakers.** Commission evaluations long enough and closed-book enough to catch the effect: the estimated penalty fell from around 25% in early 2023 to around 16% by June 2025, so short-duration studies systematically underestimate the long-run cost and should be built around entrance-exam outcomes.
 
 ## Limitations
 This is a working paper (SSRN preprint) and not yet peer-reviewed. The difference-in-differences design relies on observational AI-adoption patterns rather than randomization. The setting is Chinese secondary education, which may not generalize to other contexts. The "homework outsourcing" classification is behaviorally inferred from homework time/scores rather than directly observed tool use. Standard-deviation effect sizes appear large in part because averaging across subjects compresses the outcome SD.

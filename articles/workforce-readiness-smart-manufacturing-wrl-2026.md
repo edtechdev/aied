@@ -1,7 +1,7 @@
 ---
 title: "A Conceptual Framework for Enhancing Workforce Readiness for Smart Manufacturing in the AI Era"
 created: "2026-08-17T09:40:00-04:00"
-updated: "2026-08-24T20:50:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, human-ai-collaboration]
 pedagogy: [experiential-learning, mastery-learning]
@@ -61,15 +61,20 @@ The WRL evaluation model is deliberately conservative: a single weak pillar can 
 
 Because the four pillars map onto the ABET student outcomes (SO1–SO7), a WRL transcript doubles as a source of accreditation evidence: P1 and P4 provide strong evidence for complex [[problem-solving|problem solving]], experimentation/data analysis, and applying new knowledge; P2 anchors engineering design; and P3 carries [[ethics|ethical]]/professional responsibility and teamwork via functional-safety practice. Every ABET outcome receives at least supporting evidence from the pillar set, making WRI a defensible [[quantitative-research|quantitative]] artifact for [[educational-policy-ai|accreditation]] and continuous-improvement files.
 
-## Implications for engineering and STEM education
+## What this means for practice
 
-- **Diagnose over aggregate:** a strong average profile can hide thin pillars; competency frameworks should surface, not mask, specific gaps.
-- **Curricula cannot do it alone:** the highest readiness stages require real industry-embedded experience, implying partnerships, co-ops, and [[experiential-learning|work-integrated learning]] beyond the classroom.
-- **AI literacy is a workforce pillar, not an add-on:** the framework treats digital and AI literacy as one of four core readiness dimensions, aligning with the knowledge base's treatment of [[ai-literacy]] as a career-critical competency rather than a nicety.
-- **Certifications should be evidence-weighted:** a credential's contribution to a stage should depend on whether it demonstrates observable, role-relevant performance (a hands-on skills test) rather than recall of the same knowledge (a multiple-choice exam) — a critique that extends beyond WRL to how [[engineering-education|technical and engineering competency]] is evaluated more broadly in [[higher-ed|higher education]].
-- **Stackable credentials support incumbent workers:** articulation points at WRL 3, 5, and 7 give two- and four-year programs and [[adult-learning|incumbent-worker upskilling]] a shared language, aligning with [[lifelong-learning|lifelong learning]] and [[transfer-of-learning|transfer]] across institutions.
+- **Instructors.** Score competency on demonstrated artifacts rather than coursework or self-report. WRL certifies a stage only when every pillar clears the rubric floor (no pillar below 2) and the composite reaches τ = 2.25, so a strong average — or a stack of completed courses — cannot carry a weak pillar.
+- **Instructors.** Read the four-pillar profile before certifying. The no-thin-pillar rule exposed cyber-physical (P2) and data-driven-decision (P4) gaps hidden behind strong analytics profiles, was diagnostically informative in three of four cases, and became the binding certification constraint in one.
+- **Administrators.** Do not expect coursework to reach the top stages. Advancement from WRL 6 to 7 was gated by industry-embedded experience — co-ops and Manufacturing Extension Partnership projects — so build [[experiential-learning|work-integrated learning]] into the degree rather than adding another technical elective.
+- **Administrators.** Use the four pillars as accreditation evidence. They map onto the ABET student outcomes SO1–SO7 and the cohort-level WRI summarizes typical standing, so one assessment instrument can serve both certification and continuous-improvement reporting.
+- **Designers.** Weight credentials by the performance they demand. A hands-on skills test should contribute more to a stage than a knowledge-only multiple-choice exam, because passing a PLC exam does not show that a technician can wire, commission, and troubleshoot a live cell.
 
-The work connects to broader conversations about how AI is reshaping [[higher-ed|higher education]] and [[stem-education|STEM]] credentialing, and to competency-based models of what graduates should actually be able to do.
+## Limitations
+
+- Single-institution pilot: the framework was exercised at one teaching lab (IDEELab, Mississippi State University) across 89 sponsored capstone projects, of which only four were analyzed in depth.
+- Rubric scores were assigned retrospectively by the CDI instructional team, and the two-rater Cohen's κ protocol (target κ ≥ 0.75) was not operationally in force during the case-study period — no κ value is reported.
+- The four-pillar partition and the 0–3 anchor scale are design assumptions chosen for rater workflow and single-page reporting, not a validated factor structure; construct-validity and reliability studies are explicitly future work.
+- Only the WRL 4–7 band was exercised: the awareness stages (WRL 1–3) and the supervisory and innovation stages (WRL 8–9) were untested by this undergraduate capstone pilot, and replication beyond one site is pending.
 
 ## Connected Concepts
 

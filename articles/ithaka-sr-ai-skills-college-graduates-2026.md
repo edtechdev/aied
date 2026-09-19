@@ -1,7 +1,7 @@
 ---
 title: "AI skills for college graduates: Exploring how instructors and employers prioritize AI skills differently"
 created: "2026-08-19T08:30:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai]
@@ -58,12 +58,20 @@ Only **three of 26 skills are taught by half or more instructors**. Two-thirds t
 
 Instructors slightly disagreed that their institutions expect undergraduates to acquire moderate AI proficiency, and more strongly disagreed that institutions have a **consensus on what AI skills look like** or a **shared framework to assess them**. One instructor reported their "institution announced AI literacy as a top priority—and then did nothing since." These findings indicate institutions are in the early stages of organizing around AI-ready learning environments.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **For [[curriculum-design|curriculum design]]:** The report offers a concrete, assessable 26-skill framework institutions can use to map existing coursework against employer priorities — a practical antidote to the "vaporware" vagueness of AI-skills talk, and a direct contribution to [[career-development-and-readiness|career readiness]]. It highlights specific under-taught categories (workflow redesign, automation, technical integration) that many institutions could add without abandoning critical-use values.
-- **For assessment:** A shared framework for assessing AI skills is a prerequisite for knowing whether students reach proficiency; the report documents that most institutions lack this, echoing [[assessment]] debates in the knowledge base.
-- **For [[ai-literacy]]:** The instructor emphasis on critical, responsible use aligns closely with the knowledge base's treatment of AI literacy as [[regulation|regulatory]] competence and [[critical-thinking|critical thinking]], while the employer emphasis on productivity-oriented skills introduces a complementary framing the field is still reconciling.
-- **For [[equity-in-ai-education|equity]] and practice:** The report flags the presence of instructors who see resisting/doing-without AI as the key skill — a framing tension relevant to [[framing-ai-use-for-students]] and [[student-experience]].
+- **Instructors.** Map your syllabus against the framework's 26 skills and add the categories almost nobody teaches — workflow evaluation and redesign, and automation and technical integration — since only three of the 26 skills are taught by half or more instructors.
+- **Instructors.** Keep the critical-use skills you already prioritize (responsible use, transparency and attribution, proactive output review, human accountability) but tie them to the workplace tasks employers rate: documenting decisions, efficient human–AI handoffs, and [[career-development-and-readiness|career readiness]], not only academic integrity.
+- **Instructors.** State plainly where AI use is expected and where it is not, because the report found a recurring instructor position that doing things without AI is itself the key skill — a framing students need made explicit rather than left implicit.
+- **Administrators.** Publish a shared institutional definition of AI skill outcomes and an [[assessment|assessment]] framework for them: instructors disagreed that their institutions have consensus on what AI skills look like or a shared way to measure whether students reach them.
+- **Administrators.** Audit whole degree programs, not single courses, for AI-skill coverage — the instructor–employer prioritization gap is widest in exactly the categories that are least taught.
+
+## Limitations
+
+- The instructor survey closed at a pre-determined 500 respondents out of 28,200 invited four-year, nonprofit college instructors, and the report states this may introduce early-response bias.
+- The comparison group is much smaller and differently recruited: 200 US employers drawn from a 1,200-respondent HiBob panel surveyed in February–March 2026, compared against instructors surveyed April 13–24, 2026.
+- Institutional characteristics and discipline were taken from an email list purchased from a marketing agency rather than reported by respondents, which the report says limits its reporting on institutional and disciplinary affiliation.
+- The report excludes instructors from community colleges and vocational institutions, and its authors note possible positive bias because instructors with strong objections to AI may be less likely to respond.
 
 ## Connected Concepts
 

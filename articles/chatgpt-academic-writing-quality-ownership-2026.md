@@ -1,7 +1,7 @@
 ---
 title: "Leveraging ChatGPT in academic writing: ChatGPT enhances students' writing quality, writing experience, and ownership"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [agency, cognitive-offloading]
 technology: [conversational-ai]
@@ -28,6 +28,20 @@ audience: [educators, instructors]
 **Authorship vs. ownership.** While perceived ownership was significantly lower during ChatGPT use (d = −0.52, p = .014), it rose afterward (d = 0.30, marginal), and students rated "AI was writing, I was assisting" (M = 3.43) higher than "I was writing, AI was assisting" (M = 2.76), asking ChatGPT an average of 4.76 questions per task, with about 28 prompts aimed at generating novel text from the sources. The item "I made substantial contributions to the text" improved significantly after ChatGPT (d = 0.64, p = .004) — a nuanced distinction relevant to the knowledge base's [[agency]] and [[cognitive-offloading]] concepts.
 
 **Implication.** In-class AI writing support can enhance learning and skill acquisition in [[higher-ed]], but the authorship–ownership tension, the small sample, and risks such as [[cognitive-offloading|Over-Reliance]] and diminished [[critical-thinking]] require careful [[pedagogy|pedagogical]] design and structured guidance on verifying AI output.
+
+## What this means for practice
+
+- **Instructors.** Pair in-class AI writing with an unaided follow-up task: quality gains persisted when students wrote again without ChatGPT (total text scores d = 1.12), which is the evidence that the AI supported skill and not only the product.
+- **Instructors.** Name the authorship question during the task rather than after it — students rated "AI was writing, I was assisting" (M = 3.43) above "I was writing, AI was assisting" (M = 2.76), and perceived ownership dipped while ChatGPT was in use (d = −0.52).
+- **Faculty developers.** Design short supervised writing cycles (students spent 35–50 minutes per text) around a fixed source set as the unit of AI-writing professional development, since a single three-hour session moved quality, experience, and ownership.
+- **Designers.** Restrict the source pool for AI-assisted writing tasks — students worked from three preselected articles per topic — so tool use supports synthesis rather than substituting for the search and selection work.
+
+## Limitations
+
+- Of 25 students who began the study, 4 were excluded for incomplete data, leaving n = 21 first-year international fashion-design students from a single academic writing course in Berlin — an ad hoc sample the authors describe as not too familiar with academic writing.
+- All three writing tasks, including the "after ChatGPT" measure, took place inside one three-hour session, so the study shows immediate persistence, not durable or semester-long skill development.
+- AI assistance came from a GPT-3.5 API embedded in the experiment interface, so the effect sizes may not extend to newer models.
+- Students wrote introductions from three preselected articles per topic, so results may reflect a simplified source set rather than unaided academic writing ability.
 
 ## Connected Concepts
 

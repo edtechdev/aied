@@ -1,7 +1,7 @@
 ---
 title: "Social and Cognitive Drivers of Generative AI Adoption: A Unified Socio-Cognitive Model for Engineering Education"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -27,9 +27,20 @@ institutions: [change-management]
 - **Strong explanatory power:** The model explains 64% of the variance in usage behavior, affirming the robustness of the integrated framework.
 - **Contextual differences:** Multi-group analysis shows domestic students perceive higher ease of use than their international peers, while the pattern reverses for students' image when interacting with GenAI. Gender showed no significant differences for either group.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study contributes to human–technology interaction [[research-methods-aied|research]] by clarifying the cognitive and social drivers of generative AI acceptance, and contextualizes model validation within a resource-constrained, multicultural [[higher-ed|higher education]] environment ([[global-south|Global South]] context). It offers evidence-based guidance for designing [[culturally-relevant-pedagogy|culturally responsive]] and cognitively supportive AI learning ecosystems, and underscores the need for cross-cultural, longitudinal research on evolving patterns of AI adoption.
+- **Instructors.** Show students where GenAI fits real engineering work: job relevance and result demonstrability shaped intention and use in this model, so tie AI activities to concrete professional tasks and make expected outputs visible.
+- **Instructors.** Scaffold tool access for students newer to English-medium instruction — domestic students reported higher ease of use than international peers, and the pattern reversed for students' image when interacting with GenAI.
+- **Faculty developers.** Build [[inclusive-learning|inclusive]] onboarding and usability support into AI rollouts, since perceived usefulness and ease of use act as the mediators linking cognitive, social, and attitudinal factors to actual use.
+- **Administrators.** Treat adoption as a socially mediated practice: infuse AI guidance with the social norms and [[equity-in-ai-education|equitable access]] conditions of a resource-constrained, multicultural campus rather than presenting it as a purely technical upgrade.
+- **Researchers.** Extend this model across cultures and time — cross-cultural, longitudinal designs are needed to test whether the 64% of variance explained here holds as students' technical proficiency grows.
+
+## Limitations
+
+- The design is cross-sectional, so the PLS-SEM associations cannot support causal claims about what drives adoption over time.
+- All measures are self-reported survey items, which the authors note introduces a risk of common method bias.
+- The 378 respondents come from a single engineering university in Bangladesh (IUT), recruited through purposive then convenience sampling, so the findings are contextually situated rather than universally generalizable; cross-institutional and cross-disciplinary replication is required.
+- The model omits salient constructs such as trust, ethical perception, and anxiety, and did not measure digital literacy, year of study, or enrollment type; heterogeneity was tested through multi-group analysis rather than continuous moderation.
 
 ## Connected Concepts
 

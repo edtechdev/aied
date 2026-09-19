@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking Multimodal Large Language Models for Educational Slide Auditing"
 created: "2026-08-19T10:05:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [learning-design]
 technology: [generative-ai, llm, multimodal]
@@ -58,13 +58,20 @@ Both sham calls were correctly classified as having **no material difference**. 
 - **The preregistered gate failed and blocked release.** With 13/14 rules passing but direction at 6/8 against the required 8/8, the frozen conjunctive policy kept all **16 holdback calls blocked**. No call was rerun and the threshold was not changed after results were known — modeling disciplined preregistration.
 - The 10 calls cost US\$0.34 total (GPT-5.4 \$0.30, Qwen3-VL \$0.04); descriptive Wilson intervals are wide and no model ranking is claimed.
 
-## Implications
+## What this means for practice
 
-- **Layered scorecards, not composite scores.** The paper argues for reporting perceptual grounding (operation, evidence), construct mapping (principle, repair), comparative judgment (direction), and calibration (severity) as *separate* layers, so disagreement is interpretable and a system can abstain on [[pedagogy|pedagogical]] consequence while still offering a verifiable repair. A composite score would have concealed the error pattern entirely.
-- **Confidence is not reliability.** GPT-5.4's two direction errors were made at high confidence, showing that confidence does not resolve construct-level failures.
-- **Severity must be parameter-grounded.** Future versions should replace presumed learning-impact severity with magnitude grounded in measurable edit properties (label–target distance, duplicated-text proportion, cue coverage) and keep claims about learning consequences separate.
-- **Distinguish "registered" from "completed."** The paper models rigor by keeping the registered design, generated artifact, and model status distinct — relevant to the knowledge base's [[ai-ed-evaluation]] and [[benchmark]] literatures on honest evaluation of [[ai-education|AI in education]].
-- **Scope caveats:** only 21/504 pairs were generated, the frozen gate has five pairs and 10 calls (wide intervals, no ranking), and lessons are author-created and Chinese-language. The benchmark is a [[research-methods-aied|research]] protocol, not a classroom-ready product; it establishes no [[learning-gains|learning gains]] or [[teacher-role|teacher]] agreement.
+- **Designers.** Report layered scorecards — perceptual grounding, construct mapping, comparative judgment, and calibration separately — not one composite score, so a disagreement reveals which layer failed and the system can abstain on [[pedagogy|pedagogical]] consequence while still offering a verifiable repair.
+- **Designers.** Treat confidence as no evidence of reliability: GPT-5.4 returned *same* for a signaling and a modality pair at confidence 0.95–0.98 while describing both edits correctly, so route construct-level failures to review regardless of stated confidence.
+- **Designers.** Ground severity in measurable edit properties — label–target distance, duplicated-text proportion, cue coverage — instead of presumed learning impact, because mis-anchored severity produced eight identical S1 judgments that reflected over-anchoring rather than eight model failures.
+- **Researchers.** Preregister the gate and keep the registered design, generated artifact, and model status distinct: the frozen conjunctive policy blocked all 16 holdback calls without rerunning or relaxing the threshold.
+- **Designers.** Test construct sensitivity with counterfactual A/B pairs and visual-equivalence sham controls, since both sham calls were correctly classified as showing no material difference while a holistic preference rating cannot show which construct a model attends to.
+
+## Limitations
+
+- Only 21 of the 504 registered counterfactual pairs were generated, so the registry is a design specification rather than a completed dataset.
+- The frozen pilot gate has five pairs and 10 model calls; its Wilson intervals are wide and do not support model ranking, and no frozen result exists for the coherence or segmenting principles.
+- Prompt and schema development was adaptive before the gate was frozen, so the reported boundary is a development-stage validation rather than an independent confirmatory test.
+- The lessons are author-created and Chinese-language, and neither [[teacher-role|teachers]] nor students used the system and no authentic classroom files were analyzed, leaving usability, workload, adoption, and [[learning-gains|learning outcomes]] outside the evidence.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education"
 created: "2026-08-19T12:00:00-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, reducing-ai-misuse]
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
@@ -70,6 +70,21 @@ These are not fixed properties of a practice but of how a practice is enacted. T
 - **Make learning visible across varied configurations** — assessment based on a range of evidence beyond the immediate product.
 - **Build system capacity, [[governance]], and shared responsibility** — professional learning, and treating [[governance]], [[equity-in-ai-education|equity]], and [[pedagogy]] together (uneven access, [[privacy]], safety, procurement).
 - **GenAI literacy is necessary but insufficient** — students also need foundational domain knowledge to reason and judge, alongside questioning, critique, synthesis, [[ethics|ethical]] judgment, and coordination skills.
+
+## What this means for practice
+
+- **Instructors.** Name the pedagogical function before choosing the tool — learning [[generative-ai|from]], with, about, or by shaping GenAI — and judge the activity by what students remain responsible for: reading, reasoning, explaining, checking, revising, judging, and monitoring.
+- **Instructors.** Keep productive friction in the task by having tools withhold answers and prompt explanation, and evaluate with evidence beyond the immediate product (process records, oral explanations, delayed or transfer tasks, unaided performance), because gains are concentrated in immediate performance and learner-reported confidence.
+- **Instructors.** Teach [[self-regulated-learning|regulation]] of GenAI explicitly and stage it to age and prior knowledge — when to use it, how to monitor its effect on thinking, when independent effort is the point — since [[metacognition|metacognitive]] inequity leaves weaker self-regulators most exposed to detrimental offloading.
+- **Learners.** Delegate after an initial attempt, then verify, elaborate, and connect the output to your own understanding; treat a fluent interaction as a prompt to check comprehension rather than proof that it landed, because perceived learning rises even when retention does not.
+- **Administrators.** Replace adoption-or-ban with developmentally responsive guidance and fund the training and [[governance]] hybrid human–GenAI arrangements demand: teacher–GenAI combinations often outperform either alone but require more teacher expertise, and access, privacy, safety, and procurement must be handled together.
+
+## Limitations
+
+- Rapid review, not a systematic review or meta-analysis: 271 papers from Scopus and Web of Science (2022 to 30 June 2026), restricted to English-language peer-reviewed journal articles and conference proceedings plus selected Gray literature, with no pooled effect sizes, so the review cannot say how large any effect is.
+- The authors describe the peer-reviewed base as "emergent and uneven in methodological rigour" and analyze it as a narrative, coded synthesis across the learner, context, and culture dimensions of *How People Learn II* rather than through a meta-analytic protocol.
+- Outcome evidence is asymmetric: affective gains and immediate performance dominate the corpus while durable learning, transfer, and sustained self-regulation are inconsistently demonstrated, and the review notes that cultural and institutional evidence remains limited, so cross-context generalization needs care.
+- Tool-design claims lean heavily on a single comparison (Bastani et al. 2025: unrestricted GPT Base versus a guardrailed GPT tutor) and on studies from a four-year window, so the design lessons are only as strong as that small set of trials.
 
 ## Connected Concepts
 

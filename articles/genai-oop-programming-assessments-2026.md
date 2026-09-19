@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming"
 created: "2026-08-18T09:20:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -37,6 +37,21 @@ The study used programming tests (T1, T2) and a final examination from an introd
 ## Implications for assessment and teaching
 
 The results support the view that contemporary GenAI can outperform the average student on authentic introductory programming assessments, making exam-based evaluation of students' individual coding ability unreliable unless assessments are redesigned. For [[automated-assessment]], the recurring conceptual errors (interfaces, abstract classes, inheritance) suggest that AI-generated solutions still require [[human-in-the-loop-ai|human review]] for advanced [[computational-thinking|OOP concepts]]. Instructors designing [[authentic-assessment|authentic]] programming assessments may need to weight tasks where models demonstrably fail — interfaces, abstract classes, [[multimodal]] image-based questions — to preserve [[assessment-validity]] and limit [[cognitive-offloading|over-reliance]] on AI. The findings also speak to [[academic-integrity]]: with models reliably exceeding the average student, detecting or deterring AI use becomes less defensible than redesigning what counts as evidence of learning.
+
+## What this means for practice
+
+- **Instructors.** Stop treating take-home or exam coding tasks as certification of individual ability: every system except M365 Copilot beat the average student cohort on the programming tests (14.61 vs 13.76 points on test 1; 14.87 vs 13.39 on test 2) and often earned full marks on longer tasks.
+- **Instructors.** Weight assessment toward what the models still fail — interfaces, abstract classes, inheritance-related tasks, and graphics-based questions requiring image interpretation — rather than adding more of the routine work they already solve.
+- **Assessment designers.** Require human review of AI-generated solutions on advanced [[computational-thinking|OOP]] tasks: the systems repeatedly marked methods `public` instead of `private`, mishandled abstract-class and interface rules, and occasionally produced non-compiling code.
+- **Assessment designers.** Treat detection as a dead end and redesign what counts as evidence — code review interviews, in-person explanation, process artifacts — since models that reliably exceed the average student make the origin of a solution unverifiable by exam score alone.
+- **Researchers.** Repeat the comparison year over year against authentic assessments using the course rubric: the paired runs are what separated genuine improvement from error patterns (e.g., ChatGPT again marking methods `public`) that persist across model generations.
+
+## Limitations
+
+- Single site and single course: the programming tests and final exam come from one introductory Java-based OOP course at the University of Tartu, and the authors state this focus limits generalization beyond Java and OOP and call for work in non-English educational contexts.
+- Thin comparison data: the student baselines are cohort averages (285 students averaged 14.61 points on test 1; 13.39 on test 2) set against five systems' generated solutions and the prior year's AI run, not against a control design.
+- System selection came from a week-10 student survey (87.8% of respondents had used AI assistants at least once), so the evaluated set reflects student usage rather than a systematic model sample, and the snapshot dates quickly as assistant versions change.
+- Two documented fragility sources: the authors note that assistants are highly sensitive to task phrasing and input format, and a single non-compiling solution moved a system average by nearly a point (Copilot's test-1 mean would have been 15 points had one zero-scoring solution been corrected).
 
 ## Connected Concepts
 - [[cs-education]]

@@ -1,7 +1,7 @@
 ---
 title: "Integrating Generative Artificial Intelligence into University Curricula: Student Insights"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [student-engagement]
@@ -40,9 +40,18 @@ confidence: medium
 
 - **Analysis.** Braun and Clarke's Reflexive Thematic Analysis (RTA), inductive and involving both semantic and latent meanings. NVivo supported coding, but decisions were interpretive and reflexive; authors independently coded then negotiated shared understanding, reviewed themes against the full dataset, and maintained [[research-methods-aied|researcher]] reflexivity throughout.
 
-## Implications for AI in Education
+## What this means for practice
 
-This study is a distinctive empirical anchor showing that [[ai-literacy|AI literacy]] in a professional-discipline context is best built through **student-centered [[curriculum-design|curriculum design]]** that privileges learner voice. By foregrounding business students' priorities, it challenges educator-led and policy-driven accounts that often exclude those most directly affected by GenAI integration, and it argues for curricula guided by educational values rather than market or technological imperatives. The finding that students already use GenAI informally (only 7% learned about it from their university, per cited cross-[[governance|institutional]] work) underscores a disconnect between institutional offerings and student needs. For [[higher-ed|higher education]] more broadly, the study's three priority areas — functionality, cross-context application, and [[ethics|ethical]]/legal navigation — offer a practical, student-validated scaffold for embedding GenAI literacy, while its emphasis on co-design connects to wider calls for [[student-engagement|engaged]], scaffolded, and discipline-specific integration that balances technical fluency with critical and ethical reasoning. Notably, the study is strongly relevant to a future **[[business-education|business education]]** concept page in this knowledge base (not yet created; left as plain text).
+- **Instructors.** Build GenAI literacy into assessment around the three areas students themselves prioritized: how the tools work and how to prompt them, how they apply across academic and industry contexts, and their ethical and legal dimensions such as copyright and disclosure.
+- **Instructors.** Bridge students' informal personal use into formal academic and professional practice by [[scaffolding]] [[prompt-engineering|prompting]] and [[critical-thinking|critical evaluation]] rather than assuming competence from familiarity.
+- **Designers.** Co-design the [[curriculum-design|curriculum]] with students: 84% wanted GenAI taught in their units and 85% saw it as essential for employability, yet only 7% had learned about it from their university.
+- **Administrators.** Support [[discipline-specific-aied|discipline-specific]] integration guided by educational values rather than market or technological pressure, and close the gap between institutional offerings and the informal GenAI use students already bring.
+
+## Limitations
+- A cross-sectional survey of 166 of 222 students in a single final-year business capstone unit at one regional Australian university, capturing perceptions at one point in time.
+- Only student perspectives were collected, with no educators or industry professionals, so alignment between curricular interventions and workplace expectations could not be evaluated.
+- The authors acknowledge that the framing of the survey questions may have reflected a positive orientation toward GenAI and influenced responses.
+- Coding was inductive reflexive thematic analysis of open-ended responses, so the three priority areas are interpretive rather than measured against an independent criterion.
 
 ## Connected Concepts
 
