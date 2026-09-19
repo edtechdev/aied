@@ -55,7 +55,7 @@ The literature review is bounded to 2021–2024 English-language publications in
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[principled-ai-education]] — Principled AI in Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review
 
 ## Citation

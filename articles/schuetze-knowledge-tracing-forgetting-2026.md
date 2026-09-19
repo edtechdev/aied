@@ -39,7 +39,7 @@ page_kind: [evaluation, framework]
 - [[explainable-probabilistic-kt]] — Interpretable knowledge tracing
 - [[neural-symbolic-knowledge-tracing]] — Neuro-symbolic knowledge tracing
 - [[cognitive-load-transfer-knowledge-tracing-2026]] — Knowledge tracing and cognitive load
-- [[llm-student-modeling-memory]] — Memory and student modeling
+- [[nie-personavlm-long-term-personalization-2026]] — Memory and student modeling
 
 ## Citation
 

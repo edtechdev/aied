@@ -495,7 +495,7 @@ Benchmark evidence is not equivalent to a classroom learning-effect estimate, bu
 * adversarial prompting;
 * changes in learner dependence over time.
 
-See [[pedagogical-safety|Pedagogical Safety]] and [[ai-tutor-safety-harms|AI Tutor Safety and Pedagogical Harms]].
+See [[pedagogical-safety|Pedagogical Safety]] and [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]].
 
 ---
 

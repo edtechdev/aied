@@ -20,7 +20,7 @@ confidence: high
 
 The [[research-methods-aied|research]] reveals that while dyslexic learners find value in AI tools for [[ai-literacy|supporting literacy]], they face significant [[inclusive-learning|accessibility barriers]] including inconsistent output quality and lack of [[equity-in-ai-education|equitable]] accommodations. This has direct implications for [[student-experience|student-AI interaction]] design and suggests that inclusive [[ai-education|AI education]] must address [[language-learning|language and literacy support]] across both [[k-12|K-12]] and [[higher-ed|higher education]] settings.
 
-By grounding analysis in real user discourse rather than controlled experiments, the work complements traditional [[llm-student-modeling-memory|student modeling approaches]] and provides an evidence base for designing AI tools that better serve neurodiverse learners.
+By grounding analysis in real user discourse rather than controlled experiments, the work complements traditional [[nie-personavlm-long-term-personalization-2026|student modeling approaches]] and provides an evidence base for designing AI tools that better serve neurodiverse learners.
 
 ## Connected Concepts
 
@@ -35,7 +35,7 @@ By grounding analysis in real user discourse rather than controlled experiments,
 - [[neurodiversity]]
 ## Connected Articles
 
-- [[llm-student-modeling-memory]]
+- [[nie-personavlm-long-term-personalization-2026]]
 ## Citation
 
 Dana Rezazadegan, Atie Kia, Phongpadid Nandavong, Dominique Carlon, Jeremy Nguyen (2026). [DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums](https://arxiv.org/abs/2606.27619). Artificial Intelligence (cs.AI).

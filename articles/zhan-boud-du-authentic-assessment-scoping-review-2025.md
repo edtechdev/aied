@@ -71,7 +71,7 @@ Zhan et al. propose a cyclical design model that AI tools could operationalize:
 Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [[self-regulated-learning|forethought → performance → self-reflection]] cycle. However, when self-reflection is **graded**, it becomes **performative** — students write to impress assessors rather than to learn. AI journaling tools face the same instrumentalization risk.
 
 ### Metacognitive Calibration
-[[metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[ai-tutor-safety-harms|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] [[research-methods-aied|research]].
+[[metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] [[research-methods-aied|research]].
 
 ### Pedagogical Training
 Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.
@@ -106,7 +106,7 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: redesigning authentic assessment in an AI-mediated world
 - [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: authentic assessment in AI-rich higher education
 - [[becerra-aicofe-feedback-2026]] — AI Peer Feedback Systems
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 
 ## Citation

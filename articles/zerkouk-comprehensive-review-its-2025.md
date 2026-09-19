@@ -22,7 +22,7 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 
 **Pedagogical strategies.** The review catalogs the range of pedagogical approaches embedded in ITS, from [[socratic-method]] and [[scaffolding]] to [[adaptive-learning]] and [[adaptive-learning]] pathways. A key finding is that many ITS implementations lack explicit pedagogical grounding — the tutoring behavior is often driven by technical capabilities (what the system can do) rather than pedagogical principles (what the system should do). This echoes concerns in the [[pedagogical-llm-training]] literature about the gap between technical sophistication and pedagogical intentionality.
 
-**NLP and adaptive mechanisms.** The integration of [[educational-nlp]] techniques — including [[automated-question-generation]], short-answer assessment, and dialogue management — has advanced substantially over the review period. However, the review notes that many NLP components are evaluated in isolation rather than as integrated parts of tutoring systems that actually interact with learners. Similarly, [[adaptive-learning]] show promise but often rely on narrow student models that fail to capture the full complexity of learner cognition and affect — a gap that the [[affective-tutoring]] and [[multimodal-ai-tutoring]] communities are beginning to address.
+**NLP and adaptive mechanisms.** The integration of [[educational-nlp]] techniques — including [[automated-question-generation]], short-answer assessment, and dialogue management — has advanced substantially over the review period. However, the review notes that many NLP components are evaluated in isolation rather than as integrated parts of tutoring systems that actually interact with learners. Similarly, [[adaptive-learning]] show promise but often rely on narrow student models that fail to capture the full complexity of learner cognition and affect — a gap that the [[affective-tutoring]] and [[syal-multimodal-dialogue-stem-2026]] communities are beginning to address.
 
 **Student modeling challenges.** [[student-modeling]] remains both the foundation and the bottleneck for ITS. While [[knowledge-tracing]] techniques (including Bayesian approaches like [[stanbkt-bayesian-knowledge-tracing]] and deep learning variants) have improved, the review identifies persistent gaps in modeling higher-order cognitive processes, metacognition, and [[motivation|motivational]] states. This connects to the [[engagement-intensity-learner-modeling]] and [[metacognition]] literatures.
 
@@ -34,9 +34,9 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 |---|---|---|
 | ITS show mixed real-world effectiveness | [[stanford-evidence-base-ai-k12-2026]] (only 20/818 papers meet causal standards) | [[pedagogical-llm-training|EduQwen]] (96.52% benchmark, but benchmark ≠ classroom) |
 | Need for stronger experimental rigor | [[educational-llm-alignment|Hardy & Kim]] (benchmark≠[[teacher-role|teaching]] quality) | — |
-| NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[ai-tutor-safety-harms|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
-| [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[ai-tutor-safety-harms]] (emotional risks, parasocial dependency) |
-| Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[collaborative-ai-tutoring|ProPACT]] (effective but requires eye-tracking hardware) |
+| NLP advances for dialogue | [[huang-interpretable-knowledge-tracing-2026]] (interpretable dialogue modeling) | [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] (multi-turn degradation: 17.7% → 77.8%) |
+| [[affective-computing|Affective computing]] as advancement | [[affective-tutoring|MathBuddy]] (+23 points win rate) | [[hazra-safetutors-pedagogical-safety-2026]] (emotional risks, parasocial dependency) |
+| Multi-agent architectures | [[agentic-workflows-education]] (four paradigms), [[human-in-the-loop-ai]] (MAIC) | [[golrang-propact-pair-programming-2026|ProPACT]] (effective but requires eye-tracking hardware) |
 
 ## Key Implications for the Field
 
@@ -52,7 +52,7 @@ For researchers, this review provides both a taxonomy of the field and a methodo
 
 For system designers, the review's catalog of pedagogical gaps suggests concrete priorities: ITS should be built on explicit pedagogical frameworks rather than retrofitted onto technical architectures; domain-modeling should incorporate richer representations of learner cognition and affect; and [[learning-analytics]] should be embedded from the start to enable continuous improvement and evidence generation.
 
-The review's identification of persistent student modeling limitations connects directly to emerging work on [[llm-student-modeling-memory]] and [[history-aware-student-simulation]], which offer potential pathways toward more sophisticated learner representations. Similarly, the call for [[adaptive-learning]] that goes beyond simple difficulty adjustment toward truly personalized pedagogical experiences connects to the [[learnmate2-llm-adaptive-learning]] and [[nie-personavlm-long-term-personalization-2026]] research streams.
+The review's identification of persistent student modeling limitations connects directly to emerging work on [[nie-personavlm-long-term-personalization-2026]] and [[history-aware-student-simulation]], which offer potential pathways toward more sophisticated learner representations. Similarly, the call for [[adaptive-learning]] that goes beyond simple difficulty adjustment toward truly personalized pedagogical experiences connects to the [[learnmate2-llm-adaptive-learning]] and [[nie-personavlm-long-term-personalization-2026]] research streams.
 
 For the [[edtech-platform]] industry and [[educational-policy-ai]] community, this review serves as a sobering reminder that technical capability does not guarantee educational effectiveness. The mixed evidence base should temper claims of AI tutoring as a silver bullet while also validating continued investment in rigorous ITS research and development. The path forward requires [[ai-ed-evaluation]] frameworks that match the sophistication of the systems being evaluated.
 
@@ -78,12 +78,12 @@ For the [[edtech-platform]] industry and [[educational-policy-ai]] community, th
 ## Connected Articles
 
 - [[stanbkt-bayesian-knowledge-tracing]] — StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing
-- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
 - [[history-aware-student-simulation]] — Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues
 - [[engagement-intensity-learner-modeling]] — Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
 - [[nie-personavlm-long-term-personalization-2026]] — PersonaVLM: Long-Term Personalization for AI Tutors
-- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[agentic-workflows-education]] — Agentic Workflows in Education

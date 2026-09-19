@@ -119,7 +119,7 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 
 ## Connected Articles
 
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[agentic-workflows-education]]
 - [[teachbench-llm-teaching-evaluation]]
 ## Citation

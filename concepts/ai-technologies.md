@@ -83,7 +83,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
 - [[educational-llm-alignment]] — Aligning LLMs for education
 - [[eduguard-safe-rag-llm-tutor]] — Guardrailing RAG-based LLM tutors
-- [[ai-tutor-safety-harms]] — AI tutor safety and harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
 - [[elbench-education-llm-benchmark-2026]] — Education LLM benchmark
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-based design for generative social robots
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot

@@ -75,7 +75,7 @@ This aligns with [[adaptive-learning]] principles: real-time learner modeling ‚Ü
 ## Implications for ITS and Future Systems
 
 [[intelligent-tutoring|Intelligent tutoring systems]] increasingly include video components (e.g., worked examples, concept explanations). EduGage's approach enables:
-- **Multimodal engagement tracking** (cf. [[multimodal-ai-tutoring]], [[affective-tutoring]])
+- **Multimodal engagement tracking** (cf. [[syal-multimodal-dialogue-stem-2026]], [[affective-tutoring]])
 - **Just-in-time scaffolds** when engagement drops
 - **Self-regulated learning support** ([[self-regulated-learning]])
 - **Privacy-aware design**, since camera-based approaches raise [[privacy|privacy concerns]] and EEG systems are often impractical at scale
@@ -99,7 +99,7 @@ This aligns with [[adaptive-learning]] principles: real-time learner modeling ‚Ü
 - [[affective-computing]]
 ## Connected Articles
 
-- [[multimodal-ai-tutoring]]
+- [[syal-multimodal-dialogue-stem-2026]]
 ## Citation
 
 Leng, Z., Eyal, E., Shi, Y., He, J., Liu, Y., & Pl√∂tz, T. (2026). [*EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning*](https://arxiv.org/abs/2605.01238)

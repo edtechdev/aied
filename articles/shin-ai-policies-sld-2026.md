@@ -64,7 +64,7 @@ This paper is a cornerstone reference for the knowledge base's accessibility/dis
 - [[learning-design]]
 
 ## Connected Articles
-- [[principled-ai-education]] — Principled approaches to AI in education
+- [[finkelstein-principled-ai-education-2025]] — Principled approaches to AI in education
 
 ## Citation
 

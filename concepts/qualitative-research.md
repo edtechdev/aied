@@ -91,7 +91,7 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[t2i-competence-paradox-2026]] — The competence paradox in text-to-image GenAI use
 - [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap in physics education
 - [[genai-teacher-feedback-comparison]] — Comparing GenAI and teacher feedback: student perceptions
-- [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[zha-ai-literacy-biology-case-study]] — Case study of AI-literacy integration in a biology class
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
 - [[scaffolding-critical-engagement-genai-minority-students]] — Collaborative discourse in prompt engineering among ethnic-minority students

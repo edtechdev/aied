@@ -41,7 +41,7 @@ The finding that effort and progress have distinct predictive signatures is prac
 
 ## Connections to the ITS Research Landscape
 
-This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[collaborative-ai-tutoring]].
+This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[golrang-propact-pair-programming-2026]].
 
 The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within educational data mining.
 
@@ -64,7 +64,7 @@ The paper establishes a **reproducible [[benchmark]]** for engagement forecastin
 ## Connected Articles
 
 - [[zerkouk-comprehensive-review-its-2025]]
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[genai-tutor-engagement-patterns]]
 ## Citation

@@ -32,7 +32,7 @@ Authentic assessment sits at the heart of how [[assessment]] is being rethought 
 - **1990s origins — worthy intellectual tasks:** Wiggins (1990) proposed authentic assessment as direct examination of "student performance on worthy intellectual tasks," a counterbalance to standardized tests.
 - **Late-1990s uptake — workplace replication:** Joughin (1998) framed authenticity as the extent to which assessment replicates professional practice or real life — a view that dominated for two decades.
 - **2020s critique — beyond replication:** McArthur (2023) argued authentic assessment must enable students to "influence the future and transform society" rather than merely replicate existing tasks; Ajjawi et al. (2024) broadened authenticity to contextual, task, and personal forms that reflect [[student-experience|student experience]].
-- **Generative AI as existential challenge:** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] note that generative AI makes workplace-replication authenticity newly vulnerable, driving a pivot toward [[ai-literacy|digital literacy]], real-time collaboration, social contribution, and individual meaning-making that AI cannot credibly counterfeit.
+- **Generative AI as existential challenge:** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud & Du (2025)]] note that generative AI makes workplace-replication authenticity newly vulnerable, driving a pivot toward [[ai-literacy|digital literacy]], [[collaborative-learning|real-time collaboration]], social contribution, and individual meaning-making that AI cannot credibly counterfeit.
 
 ## A six-dimensional design model
 

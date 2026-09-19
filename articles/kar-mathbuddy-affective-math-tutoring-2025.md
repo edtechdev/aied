@@ -18,7 +18,7 @@ confidence: medium
 
 MathBuddy addresses a critical gap in [[intelligent-tutoring|AI Tutoring]]: most AI math tutors respond to the *content* of student answers but ignore the *emotional state* of the learner. This is problematic because mathematics learning is deeply affective — frustration, confusion, anxiety, and confidence all shape how students engage with mathematical problems and whether they persist through difficulty.
 
-**Multimodal emotion modeling.** MathBuddy captures student affect through two complementary channels: (1) conversational [[educational-nlp|text analysis]], which detects emotional signals in the linguistic content of student responses (e.g., expressions of frustration, confusion, or confidence), and (2) facial expression analysis, which captures moment-to-moment emotional reactions through computer vision. These modalities are aggregated to produce a unified affective state assessment that is more robust than either modality alone — a design principle consistent with the broader [[multimodal-ai-tutoring]] literature.
+**Multimodal emotion modeling.** MathBuddy captures student affect through two complementary channels: (1) conversational [[educational-nlp|text analysis]], which detects emotional signals in the linguistic content of student responses (e.g., expressions of frustration, confusion, or confidence), and (2) facial expression analysis, which captures moment-to-moment emotional reactions through computer vision. These modalities are aggregated to produce a unified affective state assessment that is more robust than either modality alone — a design principle consistent with the broader [[syal-multimodal-dialogue-stem-2026]] literature.
 
 **Affect-to-pedagogy mapping.** The system maps detected affective states to specific [[learning-design]] pedagogical strategies. For example, detected frustration may trigger scaffolded hint sequences or encouraging messages; detected confidence may prompt the tutor to increase problem difficulty or reduce [[scaffolding]]; detected confusion may trigger a shift from procedural guidance to conceptual explanation. This dynamic mapping connects MathBuddy to the [[affective-tutoring]] paradigm and the [[student-modeling]] tradition in [[intelligent-tutoring]].
 
@@ -58,7 +58,7 @@ Finally, the open-source release of the codebase (github.com/ITU-NLP/MathBuddy) 
 - [[ai-tutor-behavioral-evaluation]]
 - [[engagement-intensity-learner-modeling]]
 - [[multimodal-affective-its-presentation]]
-- [[multimodal-ai-tutoring]]
+- [[syal-multimodal-dialogue-stem-2026]]
 - [[multimodal-learning-genai]]
 - [[zhang-tutormoments-2026]]
 - [[lak2026-hint-button-unproductive-use]]

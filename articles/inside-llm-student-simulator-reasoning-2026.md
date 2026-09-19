@@ -87,7 +87,7 @@ By modeling both actions and reasoning, INSIDE opens new directions for evaluati
 - [[llm-student-simulation-misconception-faithfulness]]
 - [[agentschool-multi-agent-simulation-education-2026]]
 - [[llm-student-simulation-teacher-insights]]
-- [[llm-student-modeling-memory]]
+- [[nie-personavlm-long-term-personalization-2026]]
 
 ## Citation
 

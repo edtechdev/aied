@@ -40,13 +40,13 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
 - Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
 - The workload-and-recognition emphasis speaks to [[educational-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
-- Relevant to [[regulation]] discussions about higher-education policy and [[principled-ai-education]] frameworks
+- Relevant to [[regulation]] discussions about higher-education policy and [[finkelstein-principled-ai-education-2025]] frameworks
 
 ## Open Questions
 
 - How do different national contexts (US, EU, [[global-south|Global South]]) shape university AI responses?
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
-- How does institutional rethinking interact with [[principled-ai-education]] frameworks?
+- How does institutional rethinking interact with [[finkelstein-principled-ai-education-2025]] frameworks?
 - Which structural incentives most effectively convert informal educator experimentation into scaled, recognized innovation?
 
 ## Connected Concepts
@@ -59,7 +59,7 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - [[authentic-assessment]]
 ## Connected Articles
 - [[ai-adult-learning-guidelines-dis2026]]
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 ## Citation
 
 Binkowski, K. P., & Hopkins, A. (2026). [*The University AI Didn't Replace: Rethinking Universities in the AI Era*](https://arxiv.org/abs/2605.07056).

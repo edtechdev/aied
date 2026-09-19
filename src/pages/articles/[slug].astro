@@ -6,13 +6,22 @@ import JsonLd from '../../components/JsonLd.astro';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
+import { ARTICLE_REDIRECTS } from '../../data/articleRedirects';
 
 export async function getStaticPaths() {
   const articles = await getCollection('articles');
-  return articles.map(a => ({ params: { slug: a.id.replace('.md', '') } }));
+  const paths = articles.map(a => ({ params: { slug: a.id.replace('.md', '') } }));
+  // Retired slugs still need a route so their old URLs can redirect rather than 404.
+  for (const from of Object.keys(ARTICLE_REDIRECTS)) {
+    paths.push({ params: { slug: from } });
+  }
+  return paths;
 }
 
 const { slug } = Astro.params;
+if (ARTICLE_REDIRECTS[slug]) {
+  return Astro.redirect(`/aied/articles/${ARTICLE_REDIRECTS[slug]}/`, 301);
+}
 const articles = await getCollection('articles');
 
 

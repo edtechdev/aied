@@ -69,7 +69,7 @@ The findings carry implications for design, evaluation, and policy. For design, 
 
 - [[ai-tutor-behavioral-evaluation]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Pier Paolo Benedetti (2026). [Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China](https://arxiv.org/abs/2605.20665). Accepted at ICAIE 2026.

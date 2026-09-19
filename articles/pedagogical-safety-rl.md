@@ -72,7 +72,7 @@ A key [[research-methods-aied|methodological]] contribution is the calibration o
 
 ## Connection to SafeTutors Taxonomy
 
-This complements the [[ai-tutor-safety-harms|SafeTutors taxonomy]] which identifies 11 harm dimensions:
+This complements the [[hazra-safetutors-pedagogical-safety-2026|SafeTutors taxonomy]] which identifies 11 harm dimensions:
 - **Over-reliance** (learner dependency on AI, cf. [[cognitive-offloading]])
 - **Misinformation** (incorrect content delivery)
 - **Bias** (demographic performance gaps)
@@ -108,7 +108,7 @@ This parallels concerns in [[educational-llm-alignment]] where [[benchmark]] mis
 
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[educational-llm-alignment]]
 ## Citation
 

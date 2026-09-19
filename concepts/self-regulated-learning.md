@@ -29,7 +29,7 @@ confidence: high
 SRL is the process whereby learners actively manage their own learning through three interrelated phases:
 
 1. **Forethought:** Goal setting, strategic planning, [[self-efficacy]] beliefs
-2. **Performance:** Strategy deployment, self-observation, attention focusing
+2. **Performance:** Strategy deployment, self-observation, [[cognitive-psychology|attention]] focusing
 3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
@@ -59,7 +59,7 @@ In a randomized field experiment with 179 students over 22 days, two design prin
 | **Example-based course** | 7-day [[curriculum-design|curriculum]] [[teacher-role]] reflective journaling via modeled responses | Increased perceived competence and enjoyment | **Positive** | Constant positive |
 | **[[llm]] journaling assistant** | GPT-3.5 summarizes drafts, asks clarifying questions, suggests reformulations | No direct SRL skill effect measured | **No effect** | Increasing over time ([[feedback|feedback loop]]) |
 
-**Key insight:** The course improved SRL skills *and* intrinsic motivation through skill transfer, while the assistant improved engagement without affecting motivation.([[scheu-mobile-chatbot-journaling-motivation-2026]])
+**Key insight:** The course improved SRL skills *and* intrinsic motivation through [[transfer-of-learning|skill transfer]], while the assistant improved engagement without affecting motivation.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
 ## AI Tools and the SRL–Motivation Reciprocal Loop
 

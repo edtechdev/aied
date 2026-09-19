@@ -23,7 +23,7 @@ institutions: [educational-policy-ai]
 - **[[open-source]] methodology proposed:** The paper introduces a standardized, open-source method with two components:
   1. **Software tools** for measuring carbon footprint on both local and cloud hardware.
   2. **An easy-to-use formula** for estimating computational expense of frontier LLMs, even when exact parameter counts are unknown (common with proprietary models).
-- **Ethical imperative:** The paper argues that failing to report environmental costs is itself an ethical concern — aligning with broader calls for [[ai-tutor-safety-harms|responsible AI]] and [[principled-ai-education|transparency]] in educational technology.
+- **Ethical imperative:** The paper argues that failing to report environmental costs is itself an ethical concern — aligning with broader calls for [[hazra-safetutors-pedagogical-safety-2026|responsible AI]] and [[finkelstein-principled-ai-education-2025|transparency]] in educational technology.
 
 ## Implications for AIED
 
@@ -37,7 +37,7 @@ institutions: [educational-policy-ai]
 
 ### Connection to Broader AIED Themes
 - The lack of reporting parallels the [[ground-truth-reliability-aied|ground truth reliability crisis]] in AIED — in both cases, essential contextual information goes unreported, undermining the field's ability to aggregate evidence and make informed decisions.
-- The [[ai-tutor-safety-harms|ethics of AI in education]] must expand beyond bias and privacy to include environmental [[sustainability]].
+- The [[hazra-safetutors-pedagogical-safety-2026|ethics of AI in education]] must expand beyond bias and privacy to include environmental [[sustainability]].
 - [[governance|Institutional]] [[stanford-evidence-base-ai-k12-2026|adoption decisions]] should weigh environmental costs alongside [[learning-gains|learning gains]] and implementation costs.
 
 ## Connected Concepts
@@ -51,8 +51,8 @@ institutions: [educational-policy-ai]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-tutor-safety-harms]]
-- [[principled-ai-education]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[ground-truth-reliability-aied]]
 - [[educational-llm-alignment]]
 - [[aaai2026-prompting-literacy-k12]]

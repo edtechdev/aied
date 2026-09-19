@@ -104,8 +104,8 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 | Guide Principle | Knowledge Base Connection |
 |-----------------|----------------|
-| Cyber-social partnership (complementary strengths) | [[principled-ai-education]] — "AI must augment, not displace" aligns perfectly |
-| Four costs framework (individual, environment, knowledge, jobs) | [[ai-tutor-safety-harms]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
+| Cyber-social partnership (complementary strengths) | [[finkelstein-principled-ai-education-2025]] — "AI must augment, not displace" aligns perfectly |
+| Four costs framework (individual, environment, knowledge, jobs) | [[hazra-safetutors-pedagogical-safety-2026]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
 | AI literacy levels and scales | [[ai-literacy]] — [[icap-framework|ICAP]] framework; [[collaborative-learning|collaborative learning]]; this guide adds institutional scaling and multimodal specificity |
 | MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution [[personalized-learning|personalization]]; [[agentic-workflows-education]] — Planning and reflection paradigms |
 | Dual-Track Cyber-Social Model | [[pedagogical-llm-training]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
@@ -152,10 +152,10 @@ The guide includes 15+ educator case studies spanning:
 - [[human-ai-collaboration]]
 ## Connected Articles
 
-- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
 - [[multimodal-ai-feedback-learning]] — LLM-based Multimodal AI Feedback Produces Equivalent Learning and Better Student Perceptions than Educator Feedback
-- [[principled-ai-education]] — Principled AI in Education
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 ## Citation
 
