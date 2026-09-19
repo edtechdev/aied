@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -84,6 +84,7 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[research-methods-aied]]
 - [[ai-ed-evaluation]]
 - [[educational-measurement]]

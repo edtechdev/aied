@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -95,6 +95,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[item-response-theory]]
 - [[assessment-validity]]
 - [[psychometrically-aware-ai]]

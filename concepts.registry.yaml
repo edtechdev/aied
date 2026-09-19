@@ -1085,6 +1085,16 @@ concepts:
     - design learning
     - design studio education
     - industrial design education
+  interpreting-and-applying-aied-research:
+    title: Interpreting and Applying AIEd Research
+    aliases:
+    - applying aied research
+    - applying research to practice
+    - evidence-informed practice
+    - interpreting aied research
+    - interpreting and applying aied research
+    - research translation
+    - research-to-practice
   information-technology:
     title: Information Technology Education
     aliases:
@@ -1918,6 +1928,7 @@ sections:
   - label: The field
     items:
     - history-of-aied
+    - interpreting-and-applying-aied-research
     - limitations-in-aied-research
     - philosophy-of-ai-in-education
     - theories-and-frameworks
