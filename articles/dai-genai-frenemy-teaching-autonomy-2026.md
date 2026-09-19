@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a Frenemy in Teaching: Perceived Autonomy and Risks"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:14:00-04:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading, educational-development, human-ai-collaboration, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
@@ -34,15 +34,6 @@ confidence: high
 - **Measures:** 20 seven-point Likert items covering five constructs (behavioral intention, attitude, perceived usefulness, perceived ease of use, risk aversion) adapted from established scales, plus a visual six-level automation scale for perceived artificial autonomy and two sets of open-ended questions; ChatGPT served as a familiar proxy for GenAI, and two educational-technology experts reviewed face and content validity.
 - **Data collection and analysis:** questionnaire distributed via Prolific between September 2023 and May 2024 (roughly 2.40 GBP compensation per participant); a two-step structural equation modeling approach in Mplus 7 (confirmatory factor analysis then path analysis with a robust maximum likelihood estimator, since multivariate normality was not supported), bootstrapped mediation tests with 95% confidence intervals, and Braun and Clarke [[qualitative-research|thematic analysis]] in NVivo 14.
 - **Limitations:** self-reported, single-source data; an online sample that likely skews toward digitally literate and more favorable teachers; and a cross-sectional design that cannot track adoption over time.
-
-## Implications for AI in Education
-
-- **Keep humans in the loop deliberately:** Since teachers perceived GenAI as a semi-autonomous assistant rather than an autonomous agent, [[learning-design|instructional design]] should position it to handle well-bounded tasks - drafting material, summarizing, routine marking - while leaving pedagogical judgment and classroom control to the teacher.
-- **Tailor [[educational-development|training]] to experience:** For teachers who have not yet used GenAI in teaching, introduce its pedagogical potential; for those with experience, supply concrete teaching examples, scenarios and strategies to reduce the perceived effort of real use, since ease of use only predicted intention among experienced users.
-- **Address risk through clarity, not reassurance:** Risk-averse teachers respond to explicit guidelines and risk-management strategies, so institutions should publish clear expectations for safe and effective [[generative-ai|GenAI]] use to raise adoption without eroding [[academic-integrity|academic integrity]].
-- **Target the student-misuse concern directly:** Because teachers' worries centered on learners rather than themselves, support should cover assessment redesign, teaching students to critique AI output, and integrating [[ethics|AI ethics]] into the [[curriculum-design|curriculum]], so that concerns about [[cognitive-offloading|overreliance]] and shortcuts are met with pedagogy rather than prohibition.
-- **Contextualize examples by discipline:** Teachers judged adoption case by case, so sharing [[discipline-specific-aied|discipline-specific]] examples aligned with real instructional needs is more persuasive than generic tool demonstrations.
-- **Fund [[ai-literacy|AI literacy]] as infrastructure:** Coordinated [[governance|institutional]] investment in literacy programs, professional development and [[educational-policy-ai|policy]] guidance is the lever that converts individual experimentation into sustained, thoughtful integration.
 
 ## What this means for practice
 
