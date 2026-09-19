@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T04:50:00-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -65,6 +65,8 @@ The choice of metric is definitional: a study that measures engagement as *time-
 
 A central theme in the knowledge base's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the [[cognitive-offloading|cognitive work]] of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and [[desirable-difficulties|desirable difficulty]] can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful [[cognitive-psychology|cognitive processing]] — rather than a terminal outcome.
 
+The disciplinary dimension of that distinction is easy to miss. [[zhu-chatgpt-interdisciplinary-learning-stem-2026|Zhu et al. (2026)]] ran a two-week quasi-experiment with 130 undergraduates in a mixed STEM and non-STEM digital literacy course and found the engagement split itself was uneven: STEM students reported higher physical engagement with ChatGPT, non-STEM students higher without it, while the notes written *without* the tool scored higher on diversity and integration of disciplinary perspectives. Engagement rose for some students in the same condition where work quality fell, which is the argument for treating engagement as a mechanism rather than a proxy for learning. The complement is [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]], whose PLS-SEM model puts engagement between motivation and social presence on one side and *perceived* performance on the other — the largest coefficient in their model, and still a perception.
+
 ### Pedagogy mediates AI's effect on engagement
 
 A systematic synthesis of [[higher-ed|AI in higher education]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) emphasizes that the **[[teacher-role|teaching]] method an AI tool is embedded in is the decisive mediator** of whether it engages students. Chatbots, adaptive systems, and predictive analytics enhance engagement most when deployed within interactive pedagogies — flipped classrooms, [[project-based-learning|project-based learning]], and scaffolded [[feedback|feedback loops]] — rather than as standalone tools. The review formalizes this as the **PMAISE model** ([[pedagogy|Pedagogical]] Mediation of AI for Student Engagement), mapping the alignment between AI [[ai-technologies|technologies]], pedagogical strategies, and the affective, behavioral, and cognitive dimensions of engagement. The implication is that engagement outcomes are co-produced by the tool *and* the surrounding [[learning-design|instructional design]]: the same AI can amplify engagement in one pedagogy and inhibit it in another.
@@ -106,6 +108,8 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[self-report-measures]]
 - [[productive-failure]]
 ## Connected Articles
+
+[[zhu-chatgpt-interdisciplinary-learning-stem-2026]] — ChatGPT, interdisciplinary learning and the STEM/non-STEM engagement split (Zhu et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
@@ -142,7 +146,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
 
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study

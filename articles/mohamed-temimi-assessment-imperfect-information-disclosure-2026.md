@@ -106,10 +106,10 @@ The model is deliberately stylised: a single representative student, normalized 
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as help-seeking, redirected by anxiety toward peers
-- [[luo-dawson-value-judgments-grading-2026]] — Teacher value judgments and the two-way transparency problem
+- [[luo-dawson-value-judgements-grading-2026]] — Teacher value judgments and the two-way transparency problem
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — VARIA: task variation as a no-surveillance integrity mechanism
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
 - [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
 - [[chen-zou-genai-group-assessment-agency-2026]] — Group norms and the negotiation of acceptable AI use
 

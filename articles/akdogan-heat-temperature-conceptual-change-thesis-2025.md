@@ -19,7 +19,7 @@ page_kind: [evaluation]
 
 ## Key Findings
 
-- **Conceptual change text (CCT) beats interactive AI dialogue — the reverse of Corbett & Tangen (2026).** Both expert-written and AI-generated [[refutation-text|conceptual change texts]] were equally and significantly more effective at reducing misconceptions than interactive ChatGPT dialogue, which showed no significant advantage over control. This contrasts with the personalized-dialogue advantage found in [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett & Tangen (2026)]], likely due to differences in dialogue design (prompted vs. personalized) and domain.
+- **Conceptual change text (CCT) beats interactive AI dialogue — the reverse of Corbett & Tangen (2026).** Both expert-written and AI-generated [[refutation-text|conceptual change texts]] were equally and significantly more effective at reducing misconceptions than interactive ChatGPT dialogue, which showed no significant advantage over control. This contrasts with the personalized-dialogue advantage found in [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026|Corbett & Tangen (2026)]], likely due to differences in dialogue design (prompted vs. personalized) and domain.
 - **Expert and AI-generated CCT are comparable.** An AI-generated conceptual change text performed as well as one written by an expert — suggesting AI can produce effective [[refutation-text|refutation/conceptual-change content]].
 - **Benefits concentrated in high-achieving students.** Intervention gains were almost exclusively limited to high achievers, pointing to a [[equity-in-ai-education|equity]] concern for AI-mediated conceptual-change instruction.
 - **Individual differences moderate outcomes.** Students' personal epistemologies (justification and changeability of knowledge) and metacognitive awareness of global reading strategies significantly moderated the results — consistent with the [[misconceptions|misconception]] and [[metacognition]] literature.
@@ -39,7 +39,7 @@ The thesis adds a critical empirical counterpoint to the AI-dialogue-for-misconc
 - [[generative-ai]]
 
 ## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalized AI dialogue vs. textbook refutation for belief correction
 - [[llms-misconception-collaborative-learning-healthcare-2026]] — LLM-generated misconceptions for collaborative learning
 
 ## Citation

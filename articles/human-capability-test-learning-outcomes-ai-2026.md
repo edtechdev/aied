@@ -37,7 +37,7 @@ By shifting the [[assessment]] question from *whether* AI was used to *what capa
 
 ## Connected Articles
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment and AI
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reassessing Authorship and Integrity for the Age of GenAI
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reassessing Authorship and Integrity for the Age of GenAI
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI, Authentic Assessment and Integrity
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose Before Policy in Academic Integrity
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive Capabilities for a GenAI Future

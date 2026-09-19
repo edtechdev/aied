@@ -35,7 +35,7 @@ The paper extends the [[refutation-text]]/[[misconceptions|misconception]] liter
 - [[critical-thinking]]
 
 ## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — Personalized AI dialogue for misconception correction
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — Personalized AI dialogue for misconception correction
 - [[akdogan-heat-temperature-conceptual-change-thesis-2025]] — Expert/AI conceptual change text vs. AI dialogue
 
 ## Citation

@@ -60,7 +60,7 @@ confidence: high
 
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Prompting and cognitive offloading in GenAI-supported learning
 - [[lodge-loble-cognitive-offloading-2026]] — Detrimental versus beneficial cognitive offloading framework
-- [[walton-bearman-assessment-judgment-2025]] — How students work on assessment tasks with GenAI: matters of judgment
+- [[walton-bearman-assessment-judgement-2025]] — How students work on assessment tasks with GenAI: matters of judgment
 - [[student-ai-conversations-cognitive-engagement-2026]] — Analyzing student–GenAI conversations for cognitive engagement
 - [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI-assisted academic work as cheating
 

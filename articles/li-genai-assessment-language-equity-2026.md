@@ -82,7 +82,7 @@ Li is explicit that the analysis is not empirical: it does not measure student b
 - [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity and bias in AI-mediated academic writing
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — The parallel argument that purpose should precede policy
 - [[genai-assessment-governance]] — Institutional governance of GenAI assessment beyond single-tool rules
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceiving assessment validity when authorship is distributed
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceiving assessment validity when authorship is distributed
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Disclosure regimes and what assessment can infer from them
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Linguistic bias in writing feedback and marking
 - [[ivory-psychology-assessment-integrity-2026]] — Program-level evidence that the marking boundary, not detection, is the weak point

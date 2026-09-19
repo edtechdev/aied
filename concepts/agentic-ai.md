@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-17T07:48:05-04:00"
+updated: "2026-09-19T04:50:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -122,6 +122,9 @@ This connects the agentic-AI discussion to the knowledge base's [[academic-integ
 
 Not all agentic behavior need be smooth assistance. [[ai-agents-constructive-conflict-design-education-2026|Research on adversarial design agents]] shows that agents enacting **constructive conflict** prompted significantly more design iterations, broader exploration of alternatives, and higher-rated final designs among novice interaction designers (N=48) — a *productive friction* dynamic, where the conflict agent was frustrating but ultimately helpful. This connects to [[socratic-method|Socratic questioning]] and [[design-thinking]], and illustrates how agentic AI can support deep reconsideration rather than passive acceptance.
 
+
+A study of how agentic AI reaches learning outcomes through *psychological* rather than technological pathways supplies the missing measurement angle. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] surveyed 398 business students in India and modeled autonomy, competence and relatedness alongside interactivity, information sharing and perceived [[community-of-inquiry|social presence]]; autonomy was the strongest motivational driver (β = 0.504) and interactivity the strongest social one (0.468), with motivation and social presence feeding [[student-engagement|engagement]] at nearly the same strength (0.533 and 0.493) before engagement predicted perceived learning performance (0.671). The design lesson is that the social route is not automatic: a collaborative-environment construct moved perceived social presence less than plain responsiveness and information sharing did, so treating an agent as a chat interface rather than a participant leaves most of that pathway unused.
+
 ## Implications for instructors and instructional designers
 
 For teachers, faculty, and [[learning-design|instructional designers]], agentic AI changes both what is possible and what must be guarded:
@@ -186,6 +189,8 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[educational-policy-ai]]
 
 ## Connected Articles
+
+[[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
