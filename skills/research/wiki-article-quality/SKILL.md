@@ -109,6 +109,49 @@ Rules for picking the title:
 
 Full paper titles are long (median 101 characters, 314 over 120, 78 over 150), so truncation is the normal case, not the exception.
 
+### 14. Standard article page structure — fixed order, two optional sections (maintainer, 2026-09-19)
+
+Every `articles/<slug>.md` body follows this order:
+
+1. `> **Synthesis:**` blockquote (the summary a reader sees first)
+2. `## Key Findings` — contiguous numbered list, 5-7 items
+3. 3-4 `##` prose sections
+4. `## What this means for practice`
+5. `## Limitations`
+6. `## Citation` (single APA line, hyperlinked title)
+7. `## Connected Concepts`, then `## Connected Articles`
+
+The page template appends Connected FAQs, the metadata table and source buttons after the body — never write those by hand, and never insert content after `## Connected Concepts`.
+
+Why: a census of the corpus found Citation 1,308 / Connected Concepts 1,307 / Connected Articles 1,298 / Key Findings 875, but implications were spread across six heading names (`Implications` 291, `Implications for AI in Education` 256, `Implications for Practice` 35, `Practical Implications` 17, `Design Implications` 12, lowercase variants 15+) and only 153 pages carried `Limitations`. The two sections that make a page useful to a reader who will never open the paper were the ones most often missing or misnamed. Standardise the names, not the volume.
+
+**`## What this means for practice`**
+- Lead with **Instructors.** Add a labelled bullet for **Faculty developers / programme designers**, **Administrators and institutions**, **Researchers** or **Developers** only when the paper supports a genuinely distinct implication for that audience. Match the labels to the page's own `audience:` facet; do not stamp five audience rows on every page.
+- 3-5 bullets, one or two sentences each, imperative and derived: "Test each AI use against the learning objective it serves." Never hedge ("this could potentially suggest that instructors might consider...").
+- Every bullet must be traceable to a finding stated on the same page, with no new numbers introduced.
+
+**`## Limitations`**
+- 2-4 bullets, each carrying a concrete fact from the paper: the sample (n=10, purposive volunteers), the site (one institution), the incentive (stipends), the measure (self-report), the role conflict (researcher-as-facilitator), the horizon (six weeks, no follow-up, students never consulted).
+- **Boilerplate is a defect.** "Small sample, single institution, results may not generalise" with no numbers adds nothing — either make it specific or drop the section. If the paper states no limitations and none is self-evident, omit the heading entirely.
+- When the limitation is the measurement, link `[[self-report-measures]]` and let the concept page carry the explanation rather than restating it.
+- Do **not** backfill the ~1,050 pages that lack the section. Write it when ingesting, deepening or otherwise editing a page.
+
+**Length budget (revised 2026-09-19): 750-1,000 words** for the body (frontmatter end → `## Connected Concepts`), up from 600-900 in Pitfall 12. The two new sections are paid for out of the existing body, never bolted on top — trim the detail sections when you add them. Measure before committing (`len(re.split(r'^## Connected', body, flags=re.M)[0].split())`) and never drop a distinct `[[wikilink]]` target to make the cut.
+
+Worked example: `chick-faculty-development-ethical-ai-2026` (faculty-development case study) — 997-word body, four body sections plus practice and limitations, all prior link targets preserved.
+
+### 15. A wrong link target is usually the alias registry, not the writer (maintainer, 2026-09-19)
+
+The maintainer asked why "inclusive design" on an article page linked to `accessibility` rather than `inclusive-learning`. Root cause: `concepts.registry.yaml` listed `inclusive design` as an **alias of `accessibility`** (beside `accessible`, `accessible design`, `accessible learning`), and the inline-link pass resolves phrases through that map — so every page using the phrase pointed at the accessibility page. The same page simultaneously wrote `[[inclusive-learning|inclusive]] design`, i.e. the same phrase with two targets.
+
+Diagnosis order when a link target looks wrong:
+1. `grep -n '<phrase>' concepts.registry.yaml` — is the phrase registered as an alias of the *wrong* concept?
+2. Check whether the same phrase is linked to *different* concepts on the same page (an inconsistency signal).
+3. Read the source's own framing (`raw/papers/<slug>.md`) before deciding: in the example the paper's keyword list said "Inclusive pedagogy" and its theme was UDL-grounded equity, with accessibility only one thread inside it.
+4. Fix the registry, fix every page already mis-linked (`grep -rn '\[\[<wrong-slug>|<phrase>\]\]' articles/ concepts/`), then `python3 tooling/scripts/gen-concept-artifacts.py` and `python3 tooling/scripts/check_concepts.py`.
+
+**Aliases are exact strings, so plurals and gerunds never match.** `self-report-measures` was registered with `self-report`, `survey instrument` and `questionnaire(s)` — but not `surveys`, so an article's "Surveys, reflections and ten capstone redesigns" was invisible to the scanner. When a concept page exists and obvious mentions still go unlinked, check for missing plural/gerund forms and add them (`surveys`, `policies`, `schools`, `platforms`, `biases`, `evaluations`, `visualizations`, `language models`, `tutoring systems` were all added in this pass, each verified absent from every other entry — no alias may map to two concepts). Prefer adding an alias over inventing a near-synonym concept page: "equitable teaching" and "equitable learning" became aliases of `inclusive-learning` rather than a new node.
+
 ### 11. Frontmatter checklist for a repaired page (typed metadata, no `tags`)
 The frontmatter model changed on 2026-09-17. **`tags:` is retired**: the schema in `src/content.config.ts` no longer accepts it, every page lost the line, and the page templates no longer render tag chips. A repair that leaves a `tags:` line behind, or re-adds one, fails the build. The JSON-LD keywords now come from the typed fields.
 

@@ -17,7 +17,6 @@ concepts:
     - accessible design
     - accessible education
     - accessible learning
-    - inclusive design
   active-learning:
     title: Active Learning
     aliases:
@@ -118,14 +117,15 @@ concepts:
   ai-ed-evaluation:
     title: AI Ed Evaluation
     aliases:
-    - ai evaluation
     - AI system evaluation
+    - ai evaluation
     - aied evaluation
     - assessment of AI systems
     - efficacy evaluation
     - evaluating AI
     - evaluation
     - evaluation of ai
+    - evaluations
   ai-education:
     title: AI in Education
     aliases:
@@ -305,6 +305,7 @@ concepts:
     - algorithmic fairness
     - bias
     - bias mitigation
+    - biases
     - de-biasing
     - debiasing
     - fairness
@@ -555,6 +556,7 @@ concepts:
     - learning platform
     - lms
     - platform
+    - platforms
   educational-development:
     title: Educational Development
     aliases:
@@ -599,6 +601,7 @@ concepts:
     - educational policy
     - genai policy
     - institutional policy
+    - policies
     - policy
     - policy for AI
   educational-robotics:
@@ -859,9 +862,14 @@ concepts:
   inclusive-learning:
     title: Inclusive Learning
     aliases:
+    - equitable learning
+    - equitable teaching
     - inclusion
     - inclusive
+    - inclusive design
     - inclusive learning
+    - inclusive pedagogy
+    - inclusive teaching
   inquiry-based-learning:
     title: Inquiry-Based Learning
     aliases:
@@ -871,15 +879,16 @@ concepts:
   intelligent-tutoring:
     title: Intelligent Tutoring
     aliases:
+    - AI tutoring
+    - ITS
     - adaptive tutor
     - ai tutor
-    - AI tutoring
     - ai tutors
     - intelligent tutoring
     - intelligent tutoring system
     - intelligent tutoring systems
-    - ITS
     - tutoring system
+    - tutoring systems
     - tutors
   item-response-theory:
     title: Item Response Theory
@@ -892,15 +901,16 @@ concepts:
   k-12:
     title: K-12
     aliases:
+    - K-12 education
     - eighth grade
     - elementary
     - high school
     - junior high
     - k-12
-    - K-12 education
     - middle school
     - primary school
     - school
+    - schools
     - secondary
     - secondary education
     - secondary school
@@ -1009,12 +1019,13 @@ concepts:
   llm:
     title: Large Language Models (LLMs)
     aliases:
-    - foundation model
     - GPT
+    - LLM
+    - foundation model
     - language model
+    - language models
     - large language model
     - large language models
-    - LLM
   machine-learning:
     title: Machine Learning
     aliases:
@@ -1552,6 +1563,8 @@ concepts:
     - self-report measures
     - self-reported
     - survey instrument
+    - surveys
+    - written reflections
   simulating-students:
     title: Simulating Students
     aliases:
@@ -1858,6 +1871,7 @@ concepts:
     - visual representations
     - visualisation
     - visualization
+    - visualizations
   well-being:
     title: Well-Being
     aliases:
