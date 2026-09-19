@@ -1,7 +1,7 @@
 ---
 title: "The fear of Big Brother: The potential negative side-effects of proctored exams"
 created: "2026-08-25T07:42:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [anxiety-and-stress, social-emotional-learning]
@@ -32,11 +32,18 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 - **Who is most anxious:** Female students, students with financial stress, and those lacking a dedicated study space or reliable technology reported higher test anxiety. **Internet literacy** and **environmental-structuring learning strategies** reduced anxiety.
 - **Key message:** surveillance imposes a real anxiety cost, concentrated on already-vulnerable students (tool-novices, those with weaker home environments), with no cheating benefit.
 
-## Implications
+## What this means for practice
 
-- **For [[remote-proctoring]] policy:** the integrity benefits of proctoring are unproven (no cheating reduction) while the anxiety costs are real and inequitable. Institutions should weigh surveillance against its effect on [[anxiety-and-stress|test anxiety]] and consider less intrusive [[authentic-assessment|authentic assessment]] alternatives.
-- **For [[equity-in-ai-education]]:** anxiety falls hardest on students with less internet literacy, less reliable technology, and weaker home study environments — proctoring exacerbates rather than reduces inequality.
-- **For design:** interventions strengthening time management, environmental structuring, study-space access, and internet literacy can reduce proctoring anxiety; support for vulnerable students matters more than more surveillance.
+- **Assessment professionals.** Prefer less intrusive integrity assurance — limiting exam time, restricting access to already-completed questions, and randomizing question and answer order — over [[remote-proctoring]], which raised test anxiety (β = 0.60, p < 0.001) while showing no effect on the temptation to cheat.
+- **Administrators.** Open on-campus study spaces with reliable internet during proctored exams and route support to the students carrying the highest anxiety burden — those with financial stress, low internet literacy, and weaker home study environments — since proctoring widens rather than narrows [[equity-in-ai-education|inequity]].
+- **Instructors.** Teach time management and environmental structuring explicitly and give students practice with the exam platform, because these learning strategies and skills are the ones associated with lower [[anxiety-and-stress|test anxiety]].
+- **Designers.** Build the alternative to surveillance into the assessment design itself, treating [[authentic-assessment|authentic assessment]] as the default where the integrity case for proctoring remains unproven.
+
+## Limitations
+
+- All outcomes were voluntary self-reports from 1,760 students across 105 courses at a single Dutch university; self-selection toward higher-motivated students and socially desirable answering (including understated cheating) may bias the estimates.
+- The study could not map the full side-effect space: it did not measure proctoring's effects on [[privacy]] and security perceptions, so the total cost of surveillance remains unknown.
+- Cheating temptation and anxiety were reported rather than observed, and students may be less aware of peers cheating in online exams than on campus, which weakens the null-effect conclusion.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "A systematic mapping review at the intersection of artificial intelligence and self-regulated learning"
 created: "2026-08-24T17:00:00-04:00"
-updated: "2026-08-24T21:10:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [metacognition, motivation, self-regulated-learning]
@@ -27,9 +27,20 @@ methods: [meta-analysis-systematic-review]
 - **Theory often unspecified.** Over one-third of the AI–SRL studies did not specify an SRL theory, pointing to a need for stronger theoretical grounding.
 - **A holistic research-and-practice agenda.** The review identifies both research and practical gaps in the AI–SRL nexus to guide future work.
 
-## Implications
+## What this means for practice
 
-This mapping review is a central reference for the knowledge base's [[self-regulated-learning]] thread in the AI era. It clarifies who AI–SRL research targets (mostly higher-ed students, not younger learners or educators), how AI is deployed to support SRL (as adaptive/personalized systems, predictive tools, tutors, and assessment), and where the gaps lie — most notably the **underexplored motivational dimension** and the frequent lack of explicit SRL theory. For designers and [[research-methods-aied|researchers]], it argues for building AI support that addresses not just the cognitive and [[metacognition|metacognitive]] [[regulation]] of learning but also learners' [[motivation]], [[self-efficacy]], and [[student-engagement|engagement]], and for grounding interventions in explicit SRL frameworks. It connects directly to [[adaptive-learning]], [[feedback]], and [[ai-education]] concepts.
+- **Learning designers.** Design AI support for the [[motivation|motivational]] dimension — [[self-efficacy]], [[student-engagement|engagement]] — alongside the cognitive and [[metacognition|metacognitive]] [[regulation]] the literature already targets, since motivation is the aspect the mapping found most underexplored.
+- **Instructional designers.** Name the [[self-regulated-learning|SRL]] theory a tool is built on and state which phases it supports; over one-third of the mapped studies specified no SRL theory, which leaves effects hard to interpret or reuse.
+- **Learning designers.** Plan AI-SRL support across a term or longer rather than a single module and treat short-term gains as provisional: only about one-third of the mapped studies extended beyond two months.
+- **Instructional designers.** Use AI profiling and prediction to identify at-risk students for timely intervention, and adopt the implementation forms the record supports best — [[adaptive-learning]] and personalization, [[feedback]], and [[assessment|assessment and evaluation]].
+- **Researchers.** Recruit educators and primary-level learners as participants; the mapping shows both are nearly absent from AI-SRL research, and the authors ask for individual- and group-level effects to be reported with effect sizes.
+
+## Limitations
+
+- The 84 mapped studies were found with a search string limited to permutations of "self-regulation" and requiring the term in the title or abstract, and the authors state the protocol was not pre-registered because of the project's timeline; work using other terms for goal-setting, self-monitoring, or mastery learning may have been excluded.
+- The search strategy carries a Global North and linguistic bias that the authors name: while authors came from 30 countries, 48% were from North America, and other academic platforms were not searched.
+- No formal quality appraisal of included studies was performed, as systematic mapping reviews do not require one; the authors recommend a full appraisal in any future systematic review.
+- The mapped evidence is mostly short-term — only about one-third of studies extended beyond two months — and 71% quantitative (N = 60), so long-term effects and the qualitative experience of learners are thinly evidenced.
 
 ## Connected Concepts
 

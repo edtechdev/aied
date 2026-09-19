@@ -1,7 +1,7 @@
 ---
 title: "Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications"
 created: "2026-08-23T08:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [productive-failure]
@@ -43,6 +43,20 @@ Productive Failure (PF), grounded in [[constructivist|constructivist principles]
 ## Relevance to the knowledge base
 
 This paper anchors the knowledge base's [[productive-failure]] concept with an AI-specific lens: how generative AI can be designed to *support* (not short-circuit) productive-failure [[pedagogy]]. It connects to [[cognitive-offloading]] (the risk that AI erases the struggle), [[scaffolding]] (non-directive support that preserves struggle), [[socratic-method]] (questioning to activate reasoning), [[feedback]] (non-directive loops), and the broader design question of AI as "thinking partner" rather than answer-giver. Its adult-learner focus connects to [[adult-learning]] and andragogy principles.
+
+## What this means for practice
+
+- **Designers.** Align each AI function with a phase of [[productive-failure|productive failure]]: use conversational agents as non-directive thinking partners during generation and exploration, and as comparison, reorganization, and transfer support during consolidation.
+- **Instructors.** Surface [[misconceptions]] before instruction by having chatbots generate failure-based quiz questions, keeping the space low-stakes so learners trace root causes of ill-structured problems rather than avoid error.
+- **Designers.** Preserve the struggle: use AI to help learners identify areas for improvement and make the final decision themselves rather than to hand over an answer, which is the paper's core design message.
+- **Designers.** Specify graceful error handling and ambiguity resolution (ask clarifying questions, admit uncertainty instead of fabricating) plus visual cues that distinguish learner input from AI contribution.
+- **Instructors.** Treat adult learners' stakes realistically: they work on more open-ended, abstract problems than structured K-12 tasks and need AI support aligned with andragogy rather than teacher-led pedagogy.
+
+## Limitations
+
+- Evidence comes from focus groups with 35 graduate students at two universities/countries in a collaborative online international learning project, so it reflects degree-holding adult learners only.
+- Participants responded to AI application storyboards and paper prototypes rather than to a deployed system, and the study measured perceptions rather than learning outcomes or transfer gains.
+- The design yields design-direction evidence only: no outcome measures are reported, so the five principles' effects on struggle, [[transfer-of-learning|transfer]], or [[student-engagement|engagement]] remain untested.
 
 ## Connected Concepts
 

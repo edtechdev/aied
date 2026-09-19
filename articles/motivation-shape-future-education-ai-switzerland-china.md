@@ -1,7 +1,7 @@
 ---
 title: "Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [motivation]
@@ -28,9 +28,19 @@ Swiss student teachers were more motivated by social utility values — enhancin
 
 Chinese student teachers reported significantly higher perceived digital teaching competence and greater enthusiasm for incorporating AI into education, though general perceived teaching abilities did not differ. The authors attribute this to extensive technology exposure (the Ten-Year Development Plan for Education Informatization from 2011 versus Switzerland's Lehrplan21 beginning 2017), ubiquitous high-tech products, and strong government AI initiatives that provide robust facilitating conditions. Perceived lower task demands and higher task return reflect relatively accessible teaching qualifications in mainland China and teacher salaries in cities like Shenzhen and Hong Kong running three to four times local average income. The findings align with the [[technology-acceptance-model|Technology Acceptance Model]] and UTAUT, where perceived usefulness, social influence, and facilitating conditions drive adoption, and China's establishment of AI-education departments within faculties of education signals systemic integration that may confer a [[tpack]] advantage.
 
-## Implications for teacher preparation
+## What this means for practice
 
-The study highlights how [[sociocultural-learning|sociocultural]], economic, and technological contexts shape the motivations of future teachers and their willingness to shape the future of education with AI. Because Swiss and Chinese student teachers are motivated by different value systems — social contribution and intrinsic fulfillment versus digital readiness and systemically supported AI integration — [[ai-education|teacher-education]] programs should be tailored to local contexts, balancing traditional social-utility values with digital and AI preparation. Limitations include self-report measures and the partial cross-cultural invariance of the instrument, meaning several factors require item refinement before broad comparative use.
+- **Teacher educators.** Tailor AI preparation to local motivational profiles instead of importing one program wholesale: Swiss student teachers were motivated more strongly by social utility values and intrinsic value, while Chinese student teachers reported higher perceived digital teaching competence and greater enthusiasm for integrating AI.
+- **Teacher educators.** Choose a different entry point in each context — in Switzerland, connect digital and AI competence to the social-contribution and intrinsic values that already drive career choice; in China, build on the systemic AI-education infrastructure that supports higher perceived digital competence.
+- **Faculty developers.** Use the (D)FIT-Choice factors as a needs assessment for incoming cohorts, but rely on the well-behaved factors: most higher-order factors showed good to excellent internal consistency, while Salary, Fallback Career, and Job Transferability were less reliable.
+- **Researchers.** Refine the instrument before running comparative studies: only Intrinsic Value reached metric invariance (and not scalar invariance); Self-Perception, Task Demand, and Social Utility Value lacked loading equivalence, and Task Return, Personal Utility Value, and Socialization Influences failed to establish even basic structural equivalence.
+
+## Limitations
+
+- The sample of 416 student teachers (183 in Switzerland, 233 in China) was drawn from two institutions in each country and concentrated in specific cities — Zurich in Switzerland, Shenzhen and Hong Kong in China — so the authors caution the results may not generalize to other regions.
+- Data are self-report questionnaires collected in 2023–2024; participation was voluntary and uncompensated, which the authors note may overrepresent students with higher motivation or greater interest in the topic, and no observational or objective competence measure was used.
+- Measurement invariance held only partially: most motivational factors were not fully equivalent across the two groups, so the between-group mean comparisons (independent-samples t-tests) may be biased, and cross-cultural response styles on the 7-point scales may have contributed to the non-invariance.
+- Sample size constraints made a confirmatory factor analysis of the full second-order model infeasible (single-factor CFAs were run per higher-order factor), and the cultural interpretation leans on Hofstede-type dimensions that the authors note have been criticized for oversimplifying variation within countries.
 
 ## Connected Concepts
 

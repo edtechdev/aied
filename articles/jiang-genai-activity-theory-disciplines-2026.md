@@ -1,7 +1,7 @@
 ---
 title: "Generative AI across the disciplines: an activity theory perspective on undergraduate students' AI use and disclosure practices"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
@@ -29,11 +29,19 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 - Disciplines differ systematically in how students use and disclose GenAI, reflecting each field's norms, policies, and role expectations.
 - Patterns are interpreted through **disciplinary contradictions** — tensions within each activity system (e.g., between course policies and actual practice, or between expectations for students and how GenAI is embedded).
 
-## Implications
+## What this means for practice
 
-- **For [[discipline-specific-aied|discipline-specific AI education]]:** GenAI use and disclosure are shaped by disciplinary context, not uniform across fields — [[educational-policy-ai|AI policies]] and instruction should be discipline-aware.
-- **For [[academic-integrity]]:** disclosure practices vary by discipline, suggesting integrity and disclosure guidance must account for disciplinary norms rather than applying a one-size-fits-all rule.
-- **For [[higher-ed|higher education]] and [[ai-literacy]]:** supports the view that disciplinary activity systems — norms, policies, role expectations — are key to understanding and shaping student GenAI engagement.
+- **Instructors.** State GenAI disclosure expectations explicitly in each course, because disclosure varied significantly by discipline and by course-level policy rather than following a general [[higher-ed|institutional]] norm.
+- **Administrators.** Write discipline-aware GenAI and [[academic-integrity]] guidance instead of one uniform rule; identical policy language lands differently in fields whose course policies, instructor roles, and disciplinary norms diverge.
+- **Faculty developers.** Help instructors align stated course policy with actual classroom practice, since the contradiction between written rules and tolerated use is itself what shapes students' [[student-engagement|use and disclosure]].
+- **Researchers.** Treat disciplinary activity systems — not individual ethics — as the unit of analysis when studying GenAI disclosure, which is a socially situated practice.
+
+## Limitations
+
+- All four institutions sit in the northeastern United States and enroll mainly white, middle-class students, so generalization across geographic locations and institutional types is limited.
+- The survey was advertised as one about GenAI, which likely recruited students already familiar with the tools; the most anxious or least experienced students probably did not respond, so reported non-use is understated.
+- Responses were self-reported in a single wave with a gift card incentive, which may have encouraged quick completion, and some students may have underreported use despite anonymity assurances.
+- Only 560 undergraduates at four institutions were surveyed, graduate students were excluded, and limited demographic data were collected.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "The impact of career adapt-abilities on AI anxiety among English majors: a dual perspective analysis based on core self-evaluations at the person- and variable-centered"
 created: "2026-08-25T07:45:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, self-efficacy, well-being]
@@ -30,11 +30,20 @@ Wang (2026) connects the knowledge base's [[anxiety-and-stress]] and career-read
 - **Three latent profiles** (low, medium, high career adapt-abilities) with significant differences in core self-evaluations and AI anxiety; the **low group had the highest AI anxiety** and the high group the lowest.
 - Both analytic strategies converge, strengthening the robustness of the finding.
 
-## Implications
+## What this means for practice
 
-- **For [[anxiety-and-stress]]:** career anxiety is a distinct, empirically validated component of AI anxiety; building career readiness is a concrete protective intervention.
-- **For education and career services:** strengthening career adapt-abilities (and core self-evaluations) can mitigate AI anxiety among students facing an uncertain AI-disrupted labor market — relevant to [[career-development-and-readiness]] and employability programming.
-- **For [[self-efficacy]]:** the core self-evaluations mediation points to self-worth/competence beliefs as the mechanism linking career readiness to lower anxiety.
+- **Instructors.** Teach AI literacy as psychological adaptation, not tool exposure: AI usage habits showed no significant link to AI anxiety in this sample, so pair tool instruction with discussion of AI's limits and case studies of language professionals collaborating with AI.
+- **Instructors.** Treat career adapt-abilities as a cultivable resource and build them into coursework through skill demonstration, positive feedback, and accumulated success experiences, since they negatively predicted [[anxiety-and-stress|AI anxiety]] and the lowest of the three latent profiles had the highest anxiety.
+- **Instructors.** Reinforce [[self-efficacy|core self-evaluations]] deliberately — the mediation analysis shows career readiness lowers anxiety partly by strengthening students' sense of professional worth and competence.
+- **Administrators.** Require AI-aware portfolios (for example bilingual content strategy, localization, terminology management, and AI-assisted editing logs) and strengthen employer partnerships so that training translates into labor-market advantage for English and humanities graduates.
+- **Administrators.** Offer evidence-based counseling such as cognitive-behavioral therapy for students showing low self-efficacy, high neuroticism, or an external locus of control, the profile most exposed to AI anxiety.
+
+## Limitations
+
+- Cross-sectional design: the authors state it precludes causal inference about the ordering of career adapt-abilities, core self-evaluations, and AI anxiety, and note the reverse sequence is plausible — high anxiety reducing engagement in career planning.
+- Effect sizes are modest: the mediation model explained only 14.1% of the variance in AI anxiety, and the indirect path through core self-evaluations accounted for 24% of the total effect.
+- All three constructs were self-reported, risking social desirability bias and shared method variance; Harman's single-factor test was the only check, and the authors recommend marker-variable or multi-trait multi-method designs.
+- 444 English majors from four universities in Sichuan: the authors note eastern coastal regions with more developed language-services industries and more visible AI adoption may yield different profiles, and the study did not examine the antecedents of career adapt-abilities.
 
 ## Connected Concepts
 

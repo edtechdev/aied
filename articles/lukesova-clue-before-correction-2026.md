@@ -1,7 +1,7 @@
 ---
 title: "Clue before correction: ChatGPT-enhanced strategy for promoting autonomous and reflective language learning"
 created: "2026-08-23T08:10:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [metacognition, productive-failure, self-regulated-learning]
 technology: [generative-ai]
@@ -34,6 +34,20 @@ The underlying, language-agnostic principles are **error elicitation, clue-based
 ## Relevance to the knowledge base
 
 This paper is an empirical example of error-driven, autonomy-supporting AI pedagogy. It connects [[productive-failure]] and learning-from-mistakes to [[language-learning]] and [[generative-ai]], showing how AI can scaffold learners to diagnose and correct their own errors (clue-before-correction) rather than passively receive fixes. It connects to [[metacognition]] (reflective engagement), [[self-regulated-learning]] (autonomy), [[cognitive-offloading|Cognitive Load Theory]], and [[feedback]] (formative, elaborative).
+
+## What this means for practice
+
+- **Instructors.** Restructure AI revision so ChatGPT supplies clues rather than corrections, and require learners to infer and apply the fix themselves; the paper's language-agnostic design principles are error elicitation, clue-based feedback, and guided reasoning.
+- **Instructors.** Teach prompting as a skill or embed prompt scaffolds in the task, because learner prompting behavior strongly influenced the quality and depth of ChatGPT's feedback — the 58 participants spanned CEFR A1–B1 and outcomes varied with proficiency and prompting ability.
+- **Instructors.** Prefer elaborative, clue-based feedback over verification-only feedback, and time it deliberately: the paper cites evidence that elaborative feedback yields significantly higher learning gains than verification-only feedback and that feedback timing matters.
+- **Curriculum designers.** Place clue-before-correction tasks where learners already hold enough [[prior-knowledge|prior knowledge]] to act on hints, since reduced cognitive load and personalized revision pathways were reported particularly for more proficient learners.
+- **Curriculum designers.** Plan tasks against the ICAP-ME framework so that metacognitive and [[affective-computing|affective]] engagement are designed in alongside cognitive engagement, rather than treating AI-assisted revision as a cognitive exercise alone.
+
+## Limitations
+
+- Fifty-eight university students at a single institution completed the task in English or Spanish; the evidence is learner–AI interaction transcripts plus open-ended reflections, with no control group or pre/post achievement measure reported, so effects on L2 proficiency are inferred rather than demonstrated.
+- Benefits were uneven within the sample — reduced cognitive load and better revision pathways held particularly for more proficient learners, so the design's value for A1-level learners is not established by the aggregate findings.
+- The activity used one model (ChatGPT) and two languages, and the authors caution that findings should not be assumed to generalize to languages with limited training data, non-Latin scripts, or complex morphology, calling for cross-lingual and cross-model research.
 
 ## Connected Concepts
 

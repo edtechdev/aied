@@ -1,7 +1,7 @@
 ---
 title: "Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment"
 created: "2026-08-24T12:31:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [computational-thinking]
 technology: [educational-robotics]
@@ -29,6 +29,20 @@ Methodologically, the review notes that although several CT frameworks exist in 
 - **Total CT, sequencing, debugging, and algorithmic design** are the most-assessed CT skills at the kindergarten level.
 - **TechCheck-K** is the most widely used CT assessment tool, though many tools are developed ad hoc without formal validation.
 - Confirms educational robotics as a viable, age-appropriate vehicle for early CT development in [[k-12|early childhood]].
+
+## What this means for practice
+
+- **Instructors.** Design kindergarten robotics sessions around problem-based learning, storytelling, and scaffolding — the three strategies that dominate the 53 reviewed studies — instead of introducing robots as a standalone coding unit.
+- **Curriculum designers.** Choose a [[computational-thinking|CT]] framework built for early childhood before writing activities; among the four frameworks the review identified, only Bers (2018) and Zeng et al. (2023) were explicitly tailored to this age group.
+- **Instructors.** Extend activities past sequencing, debugging, and algorithmic design to reach CT perspectives such as perseverance and self-regulation, which the review found largely overlooked in [[educational-robotics]] work.
+- **Researchers.** Adopt a formally validated instrument such as TechCheck-K rather than designing an ad hoc tool, and report the CT framework used; nearly two-thirds of included studies named no framework, and most assessment tools lacked formal validation.
+
+## Limitations
+
+- The review synthesized 53 of 2,306 records drawn from 7 databases for 2015–March 2026, and searched no registers or other sources of unpublished studies, so eligible work outside those databases may be missing.
+- Only English-language, peer-reviewed records were retained (31 records were removed on language grounds alone), excluding non-English kindergarten robotics research.
+- Children with special education needs and disabilities (autism, Down syndrome, visual impairments) were excluded by the inclusion criteria, so the review gives an incomplete picture of CT learning through robotics for that population.
+- The synthesis reflects what included studies reported: with near-universal absence of a stated CT framework and mostly ad hoc, unvalidated measures, the review's framework and assessment findings rest on inconsistent primary reporting.
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]

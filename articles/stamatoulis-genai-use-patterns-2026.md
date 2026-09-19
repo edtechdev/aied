@@ -1,7 +1,7 @@
 ---
 title: "Same tool, different work: patterns of generative AI use and academic outcomes"
 created: "2026-08-25T14:00:00-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [self-efficacy]
@@ -31,11 +31,20 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 - **Frequency predicted neither performance nor ASE** — a striking null result supporting the study's core claim that patterns of use, not amount, matter.
 - In a separate model, frequency strengthened the EI→ASE positive association, though the interaction was not significant when EI and LVU interactions were estimated jointly; no moderation was found for LVU.
 
-## Implications
+## What this means for practice
 
-- **For [[higher-ed|higher education]] and [[ai-literacy]]:** measuring *how* students use GenAI (evaluative integration vs. shortcut uptake) is more informative than frequency — supporting measures of student–GenAI interaction and [[pedagogy|pedagogies]] that promote evaluative integration.
-- **For [[cognitive-offloading|over-reliance]] and the [[ai-misuse-learning-harm|performance–learning gap]]:** LVU (uncritical shortcut use) mirrors the learning-harm pattern, while EI (understanding-oriented use) aligns with productive learning — connecting to [[reducing-ai-misuse]].
-- **For [[self-efficacy]]:** EI's full mediation through academic self-efficacy suggests understanding-oriented use builds confidence, whereas shortcut use predicts poorer outcomes partly independent of it.
+- **Instructors.** Design GenAI tasks that require evaluative integration — students documenting what they checked, changed, rejected, and retained — rather than offering unstructured access to the tool.
+- **Instructors.** Stop judging GenAI use by frequency: how often students used the tool predicted neither academic performance nor self-efficacy in this sample.
+- **Instructors.** Watch for low-verification uptake (uncritical shortcut use), which was negatively associated with performance and with academic self-efficacy, and treat it as the pattern to intervene on.
+- **Faculty developers.** Build understanding-oriented use as a route to [[self-efficacy]]: evaluative integration's link to performance was fully mediated by academic self-efficacy, with no remaining direct effect.
+- **Researchers.** Measure amount and pattern of use separately; the items are an initial empirical step, not a validated scale, and the two-factor structure still needs independent testing.
+
+## Limitations
+
+- Items were refined after inspecting the initial factor solution, and the factor structure and outcome associations were tested in the same sample of 157 undergraduates, so both require independent replication.
+- Evaluative integration may capture conscientiousness or general self-regulated academic behavior rather than a GenAI-specific pattern; discriminant validity from self-regulation and conscientiousness was not established.
+- Social desirability may have inflated evaluative-integration reports and suppressed low-verification-uptake reports, and the restricted high-GPA distribution may have attenuated associations with performance.
+- Excluding non-users restricts variation at the low end of frequency and limits findings to students with some academic GenAI use, and the modest single-institution sample limits generalizability.
 
 ## Connected Concepts
 

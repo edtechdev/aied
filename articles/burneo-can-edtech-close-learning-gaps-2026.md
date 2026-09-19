@@ -1,7 +1,7 @@
 ---
 title: "Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions"
 created: "2026-08-24T11:55:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 assessment: [learning-gains]
@@ -32,6 +32,21 @@ Two features of the evidence base sharply limit what these estimates can justify
 - **Gains do not extend equally to other outcomes:** socio-emotional/behavioral effects are ~0.029 sd (a quarter of the learning effect, five papers), and teaching-practice effects are indistinguishable from zero (three studies).
 - **The evidence base is narrow and [[educational-policy-ai|policy]]-relevant gaps remain:** no low-income-country study, researcher-heavy implementation, no government-alone implementation, and cost data in only ~2–3 of 14 studies.
 - **Dosage does not order the estimates** — cumulative exposure varies over two orders of magnitude without mapping onto the ranking of effects; within-study measure choice shifts an estimate as much as the study chosen (one ITS's four estimates spanned 0.60 sd).
+
+## What this means for practice
+
+- **Administrators.** Choose the instructional design before the product: the review attributes gains less to which technology is used than to whether it sits inside a sound instructional strategy with clear objectives and [[curriculum-design|curriculum]] alignment, and dosage alone does not order the estimates.
+- **Policymakers.** Do not procure on the promise of novelty — the differential for second-generation [[generative-ai|generative AI]] over first-generation [[adaptive-learning|adaptive software]] is 0.022 sd (SE 0.075), an interval wide enough only to bound the comparison — and fund the model that fits the local delivery capacity.
+- **Policymakers.** Require per-student cost reporting alongside effect estimates in every publicly funded trial: comparable cost data appear in only about two or three of the 14 included studies, so the claim that [[personalized-learning|personalization]] is cheap at scale is largely unmeasured.
+- **Administrators.** Attach misuse safeguards to any AI tutoring rollout and evaluate them on their own terms: in the Türkiye study guardrails removed the harm without improving scores, and socio-emotional gains averaged only 0.029 sd.
+- **Researchers.** Study public delivery directly, since 16 of 19 interventions were researcher-implemented and none by a government alone, and recruit sites in low-income countries, where no included trial took place.
+
+## Limitations
+
+- The pooled estimate rests on 14 randomized studies (191 effect sizes); several subgroup cells rest on a single cluster, the moderators are correlated with one another, and only five papers inform the socio-emotional estimate and three the teaching-practice estimate, so the heterogeneity results are descriptive rather than tests.
+- No included study was conducted in a low-income country, and researchers were involved in implementing 16 of the 19 interventions reviewed, so how these tools behave under government delivery at scale is essentially unobserved.
+- Only about two or three studies report per-student costs on a comparable basis, leaving the cost-effectiveness claim that motivates the literature almost never measured alongside the effects it is meant to justify.
+- The generative-AI studies are very recent, so their published effects may reflect early adopters, novelty, and models that have since been superseded, giving those estimates a shorter shelf life than the first-generation results against which they are compared.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Towards the Pedagogical Steering of Large Language Models for Tutoring: A Case Study with Modeling Productive Failure"
 created: "2026-08-23T08:05:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [productive-failure, socratic-method]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
@@ -33,6 +33,21 @@ StratL models a multi-turn tutoring strategy with LLMs. A multi-turn strategy is
 ## Relevance to the knowledge base
 
 This paper is the key technical anchor connecting LLM-based [[intelligent-tutoring|tutoring]] to [[productive-failure]] pedagogy. It demonstrates that LLMs must be *steered* to implement productive failure (withhold answers, elicit attempts, help only when necessary) — and that doing so trades perceived helpfulness for learning effectiveness. It connects to [[socratic-method]] (indirect hints and guiding questions), [[cognitive-offloading]] (resisting the urge to hand over solutions), [[scaffolding]] (giving help only when strictly necessary), and the [[human-in-the-loop-ai|design]] of AI tutors. Co-authored by Manu Kapur, the originator of productive failure.
+
+## What this means for practice
+
+- **EdTech designers.** Control the tutoring strategy explicitly instead of relying on the base model's assistant behavior: the unsteered baseline never elicited multiple solution attempts, while the StratL tutor produced an average of 2.6 student solution attempts (RSMs) per session (p = .05).
+- **EdTech designers.** Build the plan with learning scientists as a transition graph of per-turn tutoring intents, so the pedagogical strategy — not the model's default helpfulness — determines each response.
+- **EdTech designers.** Plan for the perceived-helpfulness penalty and explain it in the interface. StratL had no significant effect on coherence or empathy but was rated less helpful than the baseline, because the PF tutor gives help only when strictly necessary and students spend longer stuck.
+- **Instructors.** Frame stuck time as intended productive struggle in student-facing language; the StratL condition reached higher PF fidelity (significant for problem Consistency, p = .046) precisely by withholding the solutions students would immediately have preferred.
+- **Researchers.** Evaluate LLM tutors on multi-turn pedagogical fidelity — strategy scores and the number of solution attempts elicited — rather than single-turn satisfaction, and report a no-intents baseline for comparison.
+
+## Limitations
+
+- The field study ran with 17 high school students at a single site in Singapore, and the fidelity claims rest on small-sample tests: p = .046 for problem Consistency and p = .05 for the 2.6 RSMs per session.
+- It is a single case study — one pedagogical strategy (productive failure), one subject (high school math), and one prototype tutor — and the authors present the remaining challenges of pedagogical steering as open.
+- The measured outcomes are strategy fidelity and student perceptions (helpfulness, coherence, empathy); no learning-outcome measure is reported, so the claim that the PF tutor is more effective for learning is argued from prior research rather than demonstrated here.
+- The unsteered baseline that failed to elicit multiple solution attempts was itself an LLM configuration, so the comparison speaks to prompt-level steering rather than to what students learn with or without an AI tutor.
 
 ## Connected Concepts
 

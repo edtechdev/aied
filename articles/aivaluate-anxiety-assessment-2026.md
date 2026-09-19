@@ -1,7 +1,7 @@
 ---
 title: "Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [well-being]
 technology: [affective-computing, conversational-ai, generative-ai, llm, pedagogical-agent]
@@ -46,6 +46,21 @@ The paper explicitly cautions that lower anxiety is not inherently good. Drawing
 ## Relevance to the knowledge base
 
 This article adds an evidence-based, within-subjects study of an emotionally intelligent LLM-augmented conversational agent used specifically for assessment — a niche the knowledge base's [[conversational-ai]] and [[pedagogical-agent]] coverage can benefit from. It links [[affective-computing]] to [[assessment]], extends the [[generative-ai]] assessment cluster into the affective/well-being domain, and models good practice by distinguishing a demonstrated affective outcome from an unproven learning outcome. Its treatment of anxiety as context-dependent (facilitative vs. excessive) offers a nuanced counterpoint to work that treats anxiety reduction as unconditionally positive.
+
+## What this means for practice
+
+- **Assessment designers.** Offer AI-mediated [[assessment|PBAs]] as a lower-anxiety route — students reported calmness M = 6.50 (SD = 1.24) versus 5.86 (SD = 1.47) face-to-face, t(34) = −1.97, p = .028 — but package them with human-led formats in a hybrid model rather than replacing the viva voce, since face-to-face scored significantly higher on "helped me to better understand my work" (p = .004).
+- **Educators.** Target anxiety reduction only at learners whose anxiety exceeds their individual zone of optimal functioning; moderate anxiety can be facilitative, so AIvaluate should be positioned as a supportive alternative, not a universal default.
+- **Assessment designers.** Introduce the format and speaker framing explicitly before an AIvaluate-style session and budget for robust infrastructure, because students' main complaints were impersonal or robotic interaction, waiting times, and technical delays and dictation errors.
+- **Assessment professionals.** Keep [[pedagogical-agent|agent-mediated]] PBAs in a complementary role: students who valued dynamic dialogue, non-verbal cues, and spontaneous interaction still preferred the live examiner.
+- **Researchers.** Measure attainment alongside affect; this study recorded no performance scores, so the operative question remains whether AI-mediated PBAs change marks, not just how they feel.
+
+## Limitations
+
+- The sample was 35 IBDP students (G*Power minimum N = 34) recruited from a single British international school, all aged 17–18 and completing the same Extended Essay, so results are tied to that demographic and setting.
+- The study recorded no performance or attainment scores; data were a 1–10 self-reported anxiety slider and SUS/bespoke usability items, so it cannot show a learning benefit from lower anxiety.
+- AIvaluate sessions used a Wizard of Oz setup in which the teacher was the unseen interlocutor, so the findings describe students' experience of a simulated AI-mediated viva, not of a fully autonomous conversational agent.
+- Participants with identified social anxiety or neurodivergent profiles were neither recruited nor screened, so the relevance of the result to those learners is untested; the single slider also captured overall anxiety intensity only, not cognitive, somatic, or social-evaluative subtypes.
 
 ## Connected Concepts
 
