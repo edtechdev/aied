@@ -65,7 +65,7 @@ The choice of metric is definitional: a study that measures engagement as *time-
 
 A central theme in the knowledge base's research is that engagement and learning must be distinguished. AI tools that generate high engagement (time on task, interaction volume) may not produce learning if that engagement is passive or substitutes for the [[cognitive-offloading|cognitive work]] of understanding — see [[genai-performance-vs-learning|performance vs. learning]]. Conversely, productive struggle and [[desirable-difficulties|desirable difficulty]] can produce learning even when surface engagement feels lower. Engagement is therefore best treated as a *mechanism* — valuable insofar as it reflects or enables meaningful [[cognitive-psychology|cognitive processing]] — rather than a terminal outcome.
 
-The disciplinary dimension of that distinction is easy to miss. [[zhu-chatgpt-interdisciplinary-learning-stem-2026|Zhu et al. (2026)]] ran a two-week quasi-experiment with 130 undergraduates in a mixed STEM and non-STEM digital literacy course and found the engagement split itself was uneven: STEM students reported higher physical engagement with ChatGPT, non-STEM students higher without it, while the notes written *without* the tool scored higher on diversity and integration of disciplinary perspectives. Engagement rose for some students in the same condition where work quality fell, which is the argument for treating engagement as a mechanism rather than a proxy for learning. The complement is [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]], whose PLS-SEM model puts engagement between motivation and social presence on one side and *perceived* performance on the other — the largest coefficient in their model, and still a perception.
+The distinction is not academic. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] place engagement at the center of their PLS-SEM model, between motivation and social presence on one side and *perceived* performance on the other — the largest coefficient in their model, and still a perception rather than a measure of learning.
 
 ### Pedagogy mediates AI's effect on engagement
 
@@ -109,7 +109,6 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[productive-failure]]
 ## Connected Articles
 
-[[zhu-chatgpt-interdisciplinary-learning-stem-2026]] — ChatGPT, interdisciplinary learning and the STEM/non-STEM engagement split (Zhu et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[tutortrace-learner-behavioral-states-2026]]
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
