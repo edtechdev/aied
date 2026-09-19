@@ -6,8 +6,8 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading, misconcepti
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
 assessment: [ai-detection, assessment-validity, feedback-literacy]
-stakeholders: [pedagogical-safety, teacher-ai-competency]
-ethics: [equity-in-ai-education, trust-calibration]
+stakeholders: [teacher-ai-competency]
+ethics: [equity-in-ai-education, trust-calibration, pedagogical-safety]
 weight: 95
 institutions: [governance]
 ---

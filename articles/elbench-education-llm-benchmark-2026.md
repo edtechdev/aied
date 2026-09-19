@@ -4,13 +4,15 @@ created: "2026-08-13T09:28:20-04:00"
 updated: "2026-08-24T12:00:00-04:00"
 type: article
 technology: [generative-ai, llm]
-stakeholders: [pedagogical-safety]
+
 audience: [software developers]
 research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.09548.md']
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
+ethics: [pedagogical-safety]
+
 ---
 
 > **Synthesis:** Jiang et al. (2026) introduce **ELBench**, the first benchmark to evaluate education-facing LLMs on all four required dimensions — General Capability, Safety and [[trust|Trustworthiness]], Basic Education, and High-Level Cultivation — under a common protocol, combining curated public sources with newly synthesized safety and cultivation data. Testing nine models, they find module-level profiles are more informative than a single aggregate: the top six models are statistically indistinguishable overall yet differ substantially by module leader, and safety is anti-correlated with practical [[teacher-role|teaching]] (r = −0.83). The two education-specialized models lead neither education module, and all models share a systematic blind spot on High-Level Cultivation's structured-judgment task. The work connects to [[benchmark]], [[ai-ed-evaluation]], and [[pedagogical-safety]] frameworks.

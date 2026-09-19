@@ -4,7 +4,8 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [generative-ai, llm]
-stakeholders: [pedagogical-safety]
+ethics: [pedagogical-safety]
+
 connected_faqs: [verify-ai-output]
 audience: [software developers]
 research_method: [system development]
@@ -12,6 +13,7 @@ level: [k 12]
 sources: ['raw/papers/caeai-vetting-safety.md']
 confidence: medium
 page_kind: [framework, evaluation]
+
 ---
 
 > **Synthesis:** VETTING: A dual-[[llm]] framework for in-loop safety verification via policy isolation in educational AI

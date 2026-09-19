@@ -5,8 +5,8 @@ updated: "2026-09-18T09:00:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
-stakeholders: [pedagogical-safety]
-ethics: [hallucination-risk]
+
+ethics: [hallucination-risk, pedagogical-safety]
 connected_faqs: [verify-ai-output]
 page_kind: [evaluation]
 confidence: high

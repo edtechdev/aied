@@ -3,14 +3,14 @@ title: "Educating minds with generative AI"
 created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-18T14:40:00-04:00"
 type: article
-foundations: [human-ai-collaboration, critical-thinking, cognitive-offloading, ai-literacy, learning-design, philosophy-of-ai-in-education, theory-development-aied, sustainability]
+foundations: [human-ai-collaboration, critical-thinking, cognitive-offloading, ai-literacy, learning-design, philosophy-of-ai-in-education, theory-development-aied]
 pedagogy: [learning-theories, scaffolding, distributed-cognition, embodied-learning, situated-learning, collaborative-learning, metacognition, desirable-difficulties]
 technology: [generative-ai, llm, intelligent-tutoring, personalized-learning, conversational-ai]
 assessment: [assessment, learning-gains]
 methods: [research-methods-aied]
 stakeholders: [learners, educational-technology-developers, stakeholders]
 institutions: [educational-policy-ai, change-management]
-ethics: [ai-sycophancy, hallucination-risk, bias-mitigation, equity-in-ai-education, trust, neurodiversity]
+ethics: [ai-sycophancy, hallucination-risk, bias-mitigation, equity-in-ai-education, trust, neurodiversity, sustainability]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed, secondary]
 audience: [educators, learning designers, researchers]

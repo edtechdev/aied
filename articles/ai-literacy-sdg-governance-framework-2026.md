@@ -3,8 +3,8 @@ title: "Artificial Intelligence Literacy and Sustainable Development: An Ethical
 created: "2026-09-10T09:00:00-04:00"
 updated: "2026-09-10T09:00:00-04:00"
 type: article
-foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design, sustainability]
-ethics: [equity-in-ai-education, ethics]
+foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design]
+ethics: [equity-in-ai-education, ethics, sustainability]
 sources: ['raw/papers/2609.10489.md']
 confidence: high
 research_method: [survey, quantitative]

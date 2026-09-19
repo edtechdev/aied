@@ -5,8 +5,8 @@ updated: "2026-09-18T13:45:00-04:00"
 type: article
 pedagogy: [scaffolding, self-regulated-learning, sociocultural-learning, critical-pedagogy]
 technology: [conversational-ai, llm, pedagogical-agent]
-ethics: [privacy, ai-misuse-learning-harm, trust]
-stakeholders: [learners, parents-and-families, pedagogical-safety]
+ethics: [privacy, ai-misuse-learning-harm, trust, pedagogical-safety]
+stakeholders: [learners, parents-and-families]
 foundations: [ai-literacy]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]

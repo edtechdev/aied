@@ -6,8 +6,8 @@ type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, human-in-the-loop-ai, llm]
-stakeholders: [pedagogical-safety]
-ethics: [guardrails]
+
+ethics: [guardrails, pedagogical-safety]
 research_method: [qualitative, thematic analysis, user study]
 discipline: [learning sciences]
 level: [secondary]

@@ -5,8 +5,8 @@ updated: "2026-08-15"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, human-in-the-loop-ai]
-stakeholders: [pedagogical-safety, professional-training]
-ethics: [ethics]
+stakeholders: [professional-training]
+ethics: [ethics, pedagogical-safety]
 audience: [instructors]
 research_method: [theoretical analysis]
 level: [higher ed]

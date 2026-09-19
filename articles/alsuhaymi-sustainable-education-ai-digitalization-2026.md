@@ -3,10 +3,10 @@ title: "Sustainable Education in the Age of Artificial Intelligence and Digitali
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-08-28T14:30:00-04:00"
 type: article
-foundations: [ai-education, philosophy-of-ai-in-education, sustainability]
+foundations: [ai-education, philosophy-of-ai-in-education]
 pedagogy: [critical-pedagogy]
 technology: [generative-ai]
-ethics: [ethics]
+ethics: [ethics, sustainability]
 research_method: [theoretical analysis, qualitative]
 level: [higher ed]
 sources: ['raw/papers/alsuhaymi-sustainable-education-ai-digitalization-2026.md']

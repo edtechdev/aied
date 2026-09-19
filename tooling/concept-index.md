@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 205
+**Total concepts:** 206
 
 ## Foundations of AI in education
 
@@ -26,6 +26,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`history-of-aied`** — History of AI in Education — phrases: decade; history of ai in education; history of aied
 - **`limitations-in-aied-research`** — Limitations in AIEd Research — phrases: AIED limitations; limitation; limitations; limitations in AIEd research; research limitations; validity of AIEd research
 - **`philosophy-of-ai-in-education`** — Philosophy of AI in Education — phrases: philosophical; philosophy of ai; philosophy of AI in education; philosophy of education
+- **`theories-and-frameworks`** — Theories and Frameworks — phrases: conceptual frameworks; frameworks and theories; theoretical frameworks; theories and frameworks
 - **`theory-development-aied`** — Theory Development in AI in Education — phrases: theory building; theory development
 
 ### Cross-cutting themes
@@ -37,7 +38,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`design-thinking`** — Design Thinking — phrases: design process; design thinking
 - **`human-ai-collaboration`** — Human AI Collaboration — phrases: co-pilot; human collaboration; human-ai collaboration; human-ai interaction; human-AI teaming; human-computer interaction; human-machine collaboration; hybrid intelligence
 - **`learner-identity`** — Learner Identity — phrases: identity development; identity work; learner identity; professional identity; student identity
-- **`sustainability`** — Sustainability — phrases: education for sustainable development; green skills; SDGs; sustainability; sustainable development; sustainable development goals
 
 ## Learning and instruction
 
@@ -246,9 +246,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`parents-and-families`** — Parents and Families — phrases: caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
 
-### Instructors
+### Instructors and teaching frameworks
 
-- **`pedagogical-safety`** — Pedagogical Safety — phrases: AI safety in education; pedagogical safety; safe tutoring; safety in tutoring
 - **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
 - **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge; tpack
@@ -301,7 +300,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`guardrails`** — Guardrails — phrases: AI guardrails; content guardrails; guardrailed tutor; guardrails; hint-not-answer; pedagogical guardrails; safety guardrails
 - **`hallucination-risk`** — Hallucination Risk — phrases: AI hallucination; hallucination; hallucination risk; hallucinations; LLM hallucination
 - **`legal-issues-and-risks`** — Legal Issues and Risks — phrases: legal risk; legal risks; legal issues; legal challenge; legal exposure; lawsuit; lawsuits; litigation; due process; natural justice; procedural fairness; wrongful accusation; false accusation; falsely accused; defamation
+- **`pedagogical-safety`** — Pedagogical Safety — phrases: AI safety in education; pedagogical safety; safe tutoring; safety in tutoring
 - **`privacy`** — Privacy — phrases: data privacy; data protection; privacy; student privacy
+- **`sustainability`** — Sustainability — phrases: education for sustainable development; green skills; SDGs; sustainability; sustainable development; sustainable development goals
 - **`trust`** — Trust — phrases: trust; trust in AI; trustworthiness
 - **`trust-calibration`** — Trust Calibration — phrases: appropriate trust; calibrated trust; over-trust; overtrust; trust calibration; miscalibration; miscalibrated trust; miscalibration of trust
 

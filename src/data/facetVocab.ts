@@ -37,8 +37,8 @@ export const FACET_VOCAB = {
     'misconceptions',
     'philosophy-of-ai-in-education',
     'reducing-ai-misuse',
-    'sustainability',
     'teacher-role',
+    'theories-and-frameworks',
     'theory-development-aied',
   ],
   // Learning and instruction (48 concepts) — registry section: Learning and instruction
@@ -168,7 +168,7 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // People (13 concepts) — registry section: People
+  // People (12 concepts) — registry section: People
   stakeholders: [
     'administrator',
     'career-development-and-readiness',
@@ -176,7 +176,6 @@ export const FACET_VOCAB = {
     'learners',
     'lifelong-learning',
     'parents-and-families',
-    'pedagogical-safety',
     'professional-training',
     'samr-model',
     'stakeholders',
@@ -191,7 +190,7 @@ export const FACET_VOCAB = {
     'governance',
     'regulation',
   ],
-  // Equity, ethics, and responsible use (22 concepts) — registry section: Equity, ethics, and responsible use
+  // Equity, ethics, and responsible use (24 concepts) — registry section: Equity, ethics, and responsible use
   ethics: [
     'accessibility',
     'ai-misuse-learning-harm',
@@ -211,7 +210,9 @@ export const FACET_VOCAB = {
     'legal-issues-and-risks',
     'multilingual-learning',
     'neurodiversity',
+    'pedagogical-safety',
     'privacy',
+    'sustainability',
     'trust',
     'trust-calibration',
     'universal-design-for-learning',

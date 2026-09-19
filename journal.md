@@ -1,11 +1,12 @@
 # Journal
 
 ## 2026-09-19
+- 📘 [[theories-and-frameworks]] — Theories and Frameworks
 - 📄 [[kasa-malksoo-ai-human-rights-education-2026]] — Challenges and opportunities of using artificial intelligence in human rights education: Reflections from higher education practice
 - 📄 [[pramod-agentic-ai-motivational-pathways-2026]] — Agentic AI in educational environments and its association with social and motivational pathways to learning performance
 - 📄 [[zhu-chatgpt-interdisciplinary-learning-stem-2026]] — ChatGPT for Interdisciplinary Learning: Does it Equally Benefit STEM and Non-STEM Students
 
-Last updated: 2026-09-19 | Total entries: 1523
+Last updated: 2026-09-19 | Total entries: 1524
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
