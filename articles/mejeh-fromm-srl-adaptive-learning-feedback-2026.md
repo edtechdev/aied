@@ -1,7 +1,7 @@
 ---
 title: "Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback"
 created: "2026-08-24T17:00:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [metacognition, motivation, self-efficacy, self-regulated-learning]
 technology: [adaptive-learning, learning-analytics]
@@ -24,9 +24,20 @@ audience: [instructional designers, instructors, learning designers]
 - **Differentiated feedback types matter.** Directive, informative, and transformative feedback delivered through ALT are taken up differently by learners, with variable effects on SRL components across phases.
 - **Design implication.** While ALT feedback can promote SRL, its effectiveness requires tailoring to learners' needs; future work should optimize feedback design and address individual differences in SRL development.
 
-## Implications
+## What this means for practice
 
-This study contributes directly to the knowledge base's [[self-regulated-learning]] and [[adaptive-learning]] threads by showing that **how feedback is designed and taken up through adaptive technology shapes its effect on SRL** — more is not always better. The finding that transformative feedback can impose [[cognitive-offloading|cognitive load]] rather than support regulation echoes broader concerns about feedback density and [[feedback-literacy]]. It reinforces the point that effective adaptive learning systems must tailor feedback to learners' regulatory needs and states, connecting to [[feedback]], [[metacognition]], [[motivation]], and [[self-efficacy]]. The use of trace data alongside self-report also highlights the value of [[learning-analytics]] in studying SRL in authentic technology-mediated settings.
+- **Designers.** Tailor [[adaptive-learning|adaptive]] feedback to learners' regulatory needs and to the phase they are in instead of maximizing feedback density: directive, informative, and transformative feedback were taken up differently, and transformative feedback was associated with [[cognitive-offloading|cognitive overload]] rather than better [[self-regulated-learning|regulation]].
+- **Designers.** Instrument an ALT to record uptake rather than delivery: the study logged only whether a learner encountered each feedback affordance at least once in a week, not how often, so frequency and dosage went unmeasured.
+- **Instructors.** Prime the pre-actional phase before learners start work — task value, [[self-efficacy]], goal orientation, and positive emotions predicted actional regulation, while negative emotions such as anxiety hindered it — so address motivation and affect before content.
+- **Instructors.** Build end-of-task reflection into the design: post-actional satisfaction predicted motivation, [[metacognition|metacognitive]] activity, and positive emotions in the following week's pre-actional phase, which is the cyclical mechanism the study documents.
+- **Instructors.** Combine self-report with trace data when studying [[self-regulated-learning]] in a technology-mediated course, since the study paired weekly questionnaire responses with log data on dashboard use and neither source alone would have shown how feedback was engaged.
+
+## Limitations
+
+- The sample was 194 students in a single stochastics course over eight weeks; many observed effects were only marginally significant, and the authors state the sample size, while acceptable, may have limited statistical power for detecting subtle interaction effects.
+- Feedback was operationalized as weekly dummy-coded indicators of whether a learner encountered each variant at least once in a week, not how often, so feedback frequency and dosage are not measured.
+- Adaptivity was primarily rule-based and threshold-triggered, engagement with feedback resources was voluntary, and the dashboard served an informational function; regulatory behaviors were assessed only after task completion rather than in real time.
+- Self-report data were used to prompt the directive feedback, which the authors note introduces potential bias from inaccuracies in learners' self-assessments.
 
 ## Connected Concepts
 

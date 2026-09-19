@@ -1,7 +1,7 @@
 ---
 title: "Reconceptualizing Community of Inquiry in the Age of Generative Artificial Intelligence"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education, critical-thinking]
 technology: [generative-ai, llm]
@@ -46,6 +46,20 @@ A two-axis heuristic (degree of GenAI involvement; strength of human accountabil
 ## Implications for Theory and Research
 
 CoI remains theoretically valuable but its operationalizations need refinement: existing coding schemes and surveys risk over-attributing presence based on surface features of text. The paper sets a [[research-methods-aied|research]] agenda of refining CoI instruments for GenAI-mediated environments, testing the configuration-based hypothesis across real human-GenAI assemblages, and examining simulation-based training mechanisms. It is a conceptual analysis rather than an empirical study, so its claims are theoretically grounded propositions for future investigation, developed mainly with higher-education, text-based inquiry contexts in mind.
+
+## What this means for practice
+
+- **Instructional designers.** Require explicit labeling of AI-assisted contributions. Machine-produced utterances mimic friendliness, empathy, and responsiveness with high linguistic credibility, and the paper argues that disclosure reduces authorship uncertainty and helps preserve social presence.
+- **Instructional designers.** Assess process rather than polish: use prompt–response logs, revision histories, structured rationale notes, attribution statements, and verification moves, and collect them as learner-submitted artifacts, since instructors often lack the access or ethical justification to log students' private prompts.
+- **Instructional designers.** Distribute teaching presence through fixed structures — checkpoints, rotating roles (evidence-checker, counterexample generator, bias-spotter), and warrant-check routines that ask what claim is made, what its basis is, what is missing, and what would confirm it.
+- **Instructional designers.** Teach inquiry under GenAI conditions before assuming it: run [[simulation]]-based training with scripted roles and GenAI decision points as a progression toward independent inquiry.
+- **Researchers.** Test the configuration-based hypothesis — GenAI involvement against strength of human accountability — in real settings, and stop inferring cognitive, social, or teaching presence from surface features of final discourse alone.
+
+## Limitations
+
+- This is a conceptual analysis and provides no empirical evidence for the reconceptualization; the configuration-based four-quadrant heuristic is offered as a set of theoretically grounded propositions for future investigation.
+- It supplies no fully specified, psychometrically validated measurement revision, so existing CoI coding schemes and surveys remain unrevised for GenAI-mediated environments and cannot yet be applied robustly.
+- The argument was developed mainly with higher-education, text-based inquiry contexts in mind, and the authors state that generalizability of the reconceptualization to other contexts remains uncertain.
 
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry

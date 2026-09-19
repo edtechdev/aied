@@ -1,7 +1,7 @@
 ---
 title: "Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education"
 created: "2026-08-24T05:36:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [learning-theories, self-regulated-learning]
@@ -53,9 +53,20 @@ The framework has three layers: the theoretical synthesis and its central mechan
 
 **The five-phase instructional cycle** — Frame, Specify, Co-construct, Validate, Reflect and Share — is iterative rather than strictly linear; validation routinely sends a class back to re-specify. Specify and Validate are the germane phases where AI is withheld; Co-construct is where the AI absorbs extraneous load while the student steers. Two worked scenarios (an environmental monitoring application in the [[problem-solving]] strand, and a [[simulation]] of Newton's laws in the concept-learning strand) show how the framework discriminates productive from unproductive AI use.
 
-## Implications
+## What this means for practice
 
-The framework reassigns the teacher from syntax instructor to designer of specification and validation, a more demanding but more rewarding role that aligns with cognitive-apprenticeship accounts and the [[feedback]] literature. For assessment, since the AI can produce the artifact, evaluation relocates to the specification documents, predict-then-test records, oral defenses, and process [[eportfolio|portfolios]] — precisely what the AI cannot supply. Boundary conditions are named explicitly: reliable access to tools is assumed (uneven access can widen [[equity-in-ai-education|equity]] gaps), the design targets ages 15–18 who can meet the self-regulatory demands of Specify and Validate, hallucinated code is caught only if students have enough domain knowledge to detect error, and the framework asks more of teachers, so without professional learning it risks degenerating into the unguided AI use shown to harm learning. The paper closes with four testable propositions (specify-first transfer, productive-friction conceptual gains, ICAP engagement predicting gains, and scaffold fading reducing post-removal performance drops) intended to seed empirical work.
+- **Teachers.** Open with the problem or concept and have students state the specification in their own words — equations, rules, a labeled plan — before any code is requested, so the conceptual work stays in the student.
+- **Teachers.** Withhold the AI at reserved moments: predict before running, change a parameter by hand, and separate debugging and explanation from generation so the [[scaffolding|scaffold]] does not absorb the germane work.
+- **Curriculum designers.** Fade AI support across a unit and close every cycle with structured reflection on what the student did, what the AI did, and what the student now understands.
+- **Curriculum designers.** Assess the process rather than the product — specification documents, predict-then-test records, oral defenses, and [[eportfolio|process portfolios]] — because the AI can produce the artifact but not the reasoning the framework locates the learning in.
+- **Instructional designers.** Prepare teachers for the role shift the framework assumes — from syntax instructor to designer of specification and validation, aligned with cognitive-apprenticeship accounts and the [[feedback]] literature — because the paper warns that without professional learning the design risks degenerating into the unguided AI use shown to harm learning.
+
+## Limitations
+
+- The framework is conceptual and its four propositions — Specify-first transfer, productive friction, ICAP engagement predicting gains, and scaffold fading — are stated as testable but have not been tested; the author names design-based research and controlled comparisons as the work still to be done.
+- It is designed for students aged roughly 15 to 18, and the author states that younger learners may lack the self-regulatory capacity the Specify and Validate phases demand.
+- It assumes reliable access to GenAI tools and devices; the author states that where access is uneven the approach can widen [[equity-in-ai-education|equity]] gaps rather than close them.
+- The Validate phase works only if students already hold enough domain knowledge to detect plausibly wrong AI-generated code, and the framework asks more of teachers — both are author-named risks rather than measured outcomes.
 
 ## Connected Concepts
 

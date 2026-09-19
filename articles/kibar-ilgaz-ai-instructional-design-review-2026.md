@@ -1,7 +1,7 @@
 ---
 title: "The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 pedagogy: [pedagogy]
@@ -45,6 +45,21 @@ Limitations center on **content reliability and transparency** (16 studies)—in
 ## Relevance to the knowledge base
 
 This paper is a cornerstone contribution to the knowledge base's two most emphasized concepts—[[learning-design]] and [[human-ai-collaboration|teacher-AI collaboration]]. It moves beyond tool-centered accounts to provide a process-level, role-sensitive synthesis of how AI reshapes instructional design work, and it foregrounds the [[teacher-role|evolving roles of instructional designers and teachers]] as AI becomes a collaborator rather than a tool. Its treatment of [[pedagogy|pedagogical alignment]], [[human-in-the-loop-ai|human oversight]], and practitioner readiness connects directly to questions of AI literacy, [[educational-development|professional development]], and the conditions under which AI genuinely enhances (rather than erodes) design quality. It also consolidates evidence on [[feedback]], [[assessment|assessment design]], and [[personalized-learning|personalization]] within a design-process frame.
+
+## What this means for practice
+
+- **Instructors.** Hand AI the administrative and repetitive work — grading, feedback generation, progress monitoring, and knowledge retrieval, the most frequently reported benefit (n = 18) — and spend the freed time on pedagogical planning and design decisions.
+- **Instructors.** Keep pedagogically critical decisions anchored in your own judgment: content reliability and transparency was the most reported AI limitation (n = 16), covering inaccurate, fabricated, and contradictory outputs.
+- **Faculty developers.** Target readiness and prompting skill directly, since teacher and designer readiness rooted in limited [[ai-literacy|AI literacy]] and prompt uncertainty was the second most cited challenge (n = 12).
+- **Designers.** Plan AI support for the analysis, design, and development phases and expect to carry implementation and evaluation yourself, given phase-limited integration (n = 5) and low-cognitive-demand outputs (n = 7).
+- **Administrators.** Remove organizational barriers (n = 7) — time, access, and workflow integration — before scaling AI into instructional design processes.
+
+## Limitations
+
+- The review covers 28 articles, screened from 478 records and published 2020–2025, drawing only on publications indexed in specific databases; conference proceedings, book chapters, editorials, and literature reviews were excluded.
+- Only articles written in English were analyzed.
+- Many included studies report too little contextual detail for fine-grained comparison across instructional design settings, and reported benefits and limitations vary with user role and educational context.
+- The search was confined to the "Instructional Design" framework, so work published under adjacent labels such as "Educational Engineering" or "Learning Experience Design (LXD)" may be missing.
 
 ## Connected Concepts
 - [[learning-design]]

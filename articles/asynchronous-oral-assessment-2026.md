@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [student-engagement]
@@ -43,6 +43,22 @@ Administratively, AOAs scale well, but grading remains labor-intensive — the i
 ## Relevance to the knowledge base
 
 This paper is a significant empirical contribution to the knowledge base's [[assessment]], [[authentic-assessment]], and [[academic-integrity]] threads — it offers concrete evidence and a working design for an AI-era assessment format that is scalable, authentic, and integrity-protective. It extends the knowledge base's move from [[generative-ai|AI]] detection toward [[assessment|assessment design]] that recognizes AI's role, providing a practical alternative to fixed-response exams. Its [[student-engagement]] findings (shifted preparation strategies, perceived professional relevance) connect assessment design to engagement and [[educational-development|professional skill]] development, and its LLM re-scoring data speak to [[assessment-validity]] and [[ai-education|AI-assisted]] evaluation. Note the learning-gains caveat: score differences across formats should not be over-interpreted as learning improvement.
+
+## What this means for practice
+
+- **Instructors.** Offer an optional, ungraded practice AOA with feedback before the graded version; practice participation was moderate (42–57%) but appeared to build familiarity and reduce anxiety when the format was new.
+- **Instructors.** Randomize prompt selection and hold the timing to roughly 30 s of preparation and 2–3 min of response, aligning prompts with exam content — in Study 2 AOAs ran one week before each exam and counted 7.5% of the course grade, serving as graded assessment and retrieval practice at once.
+- **Assessment designers.** Grade with criterion-referenced rubrics that specify performance levels and descriptive anchors; instructor and LLM scores showed ICC = 0.73 (midterm) and 0.60 (final) despite the instructor scoring systematically higher.
+- **Assessment designers.** Build in accessibility features such as audio presentation of question prompts, since time-limited text displays can disadvantage students with reading-related disabilities.
+- **Instructors.** Position AOAs as a complement to written work rather than a replacement, and do not treat the higher AOA scores as evidence of [[learning-gains|learning gains]].
+
+## Limitations
+
+- Sample sizes were N = 34 in Study 1 (26 of 62 students completed the practice AOA, and 35 of 62 the extra-credit AOA) and N = 30 in Study 2; the authors state that these small samples constrain statistical power and generalizability; study 1 participation was voluntary and incentivized with extra credit, so self-selection cannot be ruled out and the link between AOA completion and later exam performance should not be read causally.
+
+- Study 1 prompts were partly misaligned with exam items, and only four multiple-choice cash-flow questions measured exam performance, limiting how much preparatory benefit the design could detect.
+- Neither study measured cheating behavior; the [[academic-integrity|integrity]] advantage of AOAs is inferred from the format's recorded, time-limited spoken responses rather than demonstrated.
+- Both studies ran in two courses taught by a single instructor of the authors' own courses, with in-person comparisons limited to multiple-choice exams.
 
 ## Connected Concepts
 

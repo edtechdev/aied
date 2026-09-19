@@ -1,7 +1,7 @@
 ---
 title: "Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [experiential-learning, motivation, student-engagement]
@@ -41,11 +41,20 @@ For learning outcomes, interactions of format with the CE and RCE factors showed
 
 The free-response analysis supports this: in the TT format, "stiffness of speech" was the most common improvement label, with difficulty of content and abundant difficult vocabulary also flagged; in the SS format, "unnatural manner of speaking" dominated, likely reflecting a mismatch between the TTS voice and the intended high-school peer register. Both SS and TT drew "unclear speaker roles" comments, suggesting extraneous cognitive load from inferring speaker relationships.
 
-## Implications and Limitations
+## What this means for practice
 
-The authors argue for format selection based on learner characteristics rather than uniform delivery: prioritizing the TT format for CE-high learners to enhance motivation, while anchoring TS or SS formats for RCE-high learners to sustain stable motivation and outcomes. Practical recommendations include an LMS routing function that administers a brief experiential-learning-style pre-[[assessment]] and recommends a format, and, for the TT format, presenting an observation frame before viewing plus a post-viewing reflection activity to manage intrinsic cognitive load. This aligns with [[self-determination-theory]]-informed, [[active-learning]]-oriented design and the broader push toward [[higher-ed|personalized instruction]] with [[conversational-ai]].
+- **Instructional designers.** Assign dialogue format by learners' experiential learning style rather than delivering one format to everyone: the TT format raised [[motivation]] for CE-high learners (TT × CE b = 0.162, p < .001), while TS or SS anchored [[motivation]] more reliably for RCE-high learners (TT × RCE b = −0.238, p = .002).
+- **Edtech designers.** Build a routing function into the LMS that administers a brief experiential-learning-style pre-[[assessment]] and recommends or delivers a matching format, and let learners choose among multiple formats to support self-directed learning.
+- **Instructors.** When using the TT format, present an observation frame before viewing (for example, what to take away from a discussion between experts) plus a post-viewing reflection activity, since TT scored significantly lower on overall evaluation than TS (b = −0.126, p = .005) despite its motivational advantage.
+- **Designers.** Disclose speaker roles before SS and TT playback and check the TTS voice register against the intended peer audience: "unclear speaker roles" recurred in free-response comments for both formats, and "unnatural manner of speaking" dominated for SS.
+- **Instructors.** Treat a motivational gain as separate from comprehension — in this study the two diverged — and do not read higher [[student-engagement]] as evidence of learning.
 
-Limitations include self-report-only learning outcomes (no objective or retention tests), a single-school single-session sample, confounding of format with content and fixed presentation order, and abbreviated one-item-per-component ARCS and single-item overall-evaluation measures. Because all effect sizes for significant interactions were small to medium, the authors frame their results as preliminary evidence for personalized learning.
+## Limitations
+
+- The study ran in a single session (November 12, 2025) at one public high school with 222 first-year students in six classes of roughly 40 each, so findings do not extend across school types, grade levels, or time.
+- Learning outcomes rested on two self-report items with no objective test, delayed post-test, or retention/transfer task, and self-report may overestimate learning precisely in the TT format that also raised motivation.
+- Format was confounded with lesson content (TS, SS, and TT each carried a different part of the curriculum) and every student viewed lessons in the fixed order TS → SS → TT with no counterbalancing, making format and presentation order statistically inseparable.
+- ARCS motivation used one item per component (versus 12 items on the RIMMS scale) and overall evaluation a single item, and all significant interaction effect sizes were small to medium (Cohen's f = .17 and .15), which the authors treat as preliminary evidence.
 
 ## Connected Concepts
 

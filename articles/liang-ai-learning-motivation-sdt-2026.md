@@ -1,7 +1,7 @@
 ---
 title: "From disengaged to self-determined: a latent transition analysis of students' AI learning motivation"
 created: "2026-08-25T12:20:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -29,11 +29,19 @@ Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory
 - **[[equity-in-ai-education|Equity]] pattern:** Female students and those with more prior AI learning experience were more likely to transition to higher motivational profiles.
 - **Motivation → AI literacy:** Students who transitioned into or remained in the Self-Determined profile showed the **greatest improvements in AI literacy**.
 
-## Implications
+## What this means for practice
 
-- **For [[ai-literacy|AI literacy]] educators:** motivation is not a fixed trait — supporting students' competence, relatedness, and autonomy can move them toward self-determined profiles with measurably better outcomes.
-- **For [[k-12|K-12]] and AI [[curriculum-design|curriculum design]]:** sustain psychological-need support across the full curriculum rather than relying on short-term AI-literacy instruction; attend to the differential starting points of female students and those with less prior AI experience.
-- **For [[self-determination-theory|SDT]] [[research-methods-aied|research]]:** extends need-satisfaction theory to AI learning, showing the motivational profiles replicate in this emerging domain and predict learning gains.
+- **Instructors.** Treat [[motivation]] as changeable and design for competence, relatedness, and autonomy throughout the year, because only the students who reached or held the Self-Determined profile showed the largest [[ai-literacy|AI literacy]] gains.
+- **Instructors.** Watch for downward transitions and support students who start lower — especially those with less prior AI learning experience — rather than assuming a year of AI instruction will lift everyone.
+- **Designers.** Sustain psychological-need support across the whole [[curriculum-design|curriculum]] instead of front-loading a short AI-literacy unit, since profiles shifted over a full year, not within a single lesson.
+- **Researchers.** Extend [[self-determination-theory|SDT]] measurement into AI learning with behavioral indicators, because the profiles replicated in this domain and predicted learning gains but were captured only by self-report.
+
+## Limitations
+
+- Motivation was measured only by self-report, subject to social desirability bias and students' own metacognitive limits; no behavioral or computer-log data on AI use were collected.
+- Grade 9 students made up 53.2% of the sample, so the findings may not generalize to other grade levels even though grade level was included as a covariate.
+- Curriculum fidelity and exact instructional methods were not systematically observed across the 53 schools, and no school-level contextual indicators (socioeconomic composition, academic performance, infrastructure) were collected.
+- There was no control or comparison group, so the AI literacy gains cannot be attributed causally to the AI curriculum.
 
 ## Connected Concepts
 

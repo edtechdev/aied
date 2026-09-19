@@ -1,7 +1,7 @@
 ---
 title: "The impact of AI anxiety on career decisions of college students"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, self-efficacy, social-emotional-learning]
@@ -30,11 +30,19 @@ Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-relat
 - **Self-efficacy did not buffer:** the moderating effect of self-efficacy was insignificant, indicating limited buffering capacity — anxiety's harm to career decisions is not easily offset by self-belief alone.
 - **Career decision is multidimensional:** encompassing career confidence, goal clarity, knowledge satisfaction, and choice preparedness — all vulnerable to AI anxiety.
 
-## Implications
+## What this means for practice
 
-- **For [[career-development-and-readiness]]:** strengthening **career adaptability** is the key protective mechanism against AI anxiety's career harm — more so than generic self-efficacy.
-- **For institutions:** promote outcome-based education (OBE) reforms, universalize [[ai-literacy]] and career-planning courses, and deepen industry-education integration to help students make confident, clear-sighted career decisions in the AI era.
-- **For [[anxiety-and-stress]]:** quantifies how career anxiety degrades concrete career outcomes, not just [[well-being]].
+- **Instructors.** Teach [[career-development-and-readiness|career adaptability]] directly, through planned curricula and practical career-planning experiences, because it carried 63.35% of AI anxiety's adverse effect on career decisions — the single largest lever available.
+- **Administrators.** Universalize [[ai-literacy]] and career-planning courses and deepen industry–education integration, so students build decision-making capability before AI [[anxiety-and-stress|anxiety]] erodes it.
+- **Faculty developers.** Favor skill-building over confidence-raising: the null moderation result shows that general career self-efficacy does not buffer students against a systemic threat like AI, so programs that only raise self-belief will not close the gap.
+- **Researchers.** Measure career decisions against behavioral criteria — internship applications, career workshop attendance, job offers, and time to employment — because attitudinal scales alone cannot show whether anxiety changes what students actually do.
+
+## Limitations
+
+- The 315 valid questionnaires (65.6% response rate) came from three universities in a single city (Baise City, Guangxi), so the findings generalize cautiously to elite institutions or economically developed coastal regions.
+- The cross-sectional survey supports no causal claim and captured no external behavioral criteria; career preparedness and goal clarity were measured, not actual job search behavior or employment.
+- Career adaptability and career decision self-efficacy showed insufficient discriminant validity (HTMT = 0.92), so the null moderation finding may reflect overlapping measurement rather than a genuinely absent effect.
+- Reliance on self-reported, partly short-form scales — including an adapted measure of AI-triggered anxiety rather than a validated AI anxiety inventory — may have underestimated the true relationships.
 
 ## Connected Concepts
 

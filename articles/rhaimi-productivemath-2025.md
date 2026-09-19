@@ -1,7 +1,7 @@
 ---
 title: "ProductiveMath: A Generative-AI-Powered App to Support Productive Failure Teaching"
 created: "2026-08-23T08:20:00-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [learning-design, teacher-role]
 pedagogy: [productive-failure]
@@ -29,6 +29,21 @@ Productive Failure engages students in [[problem-solving]] before instruction, b
 ## Relevance to the knowledge base
 
 This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by [[scaffolding]] the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
+
+## What this means for practice
+
+- **Instructors.** Generate candidate PF problems with GPT-4o and then edit them before class: the seven teachers rated AI-generated problems as high quality (M = 17.19, SD = 3.07), close to human-generated problems (M = 17.43, SD = 3.49), but flagged vague information, excessive length, and demands on advanced literacy.
+- **Instructors.** Check curriculum alignment yourself before assigning a generated problem — teachers rated AI-generated problems lower on Curriculum Alignment (M = 2.57, SD = 1.43) than human-generated problems (M = 3.29, SD = 0.49).
+- **Instructors.** Apply the fixes teachers asked for most when adapting generated text: visual enhancements (100% of interviewees), better formatting (71%), simplified text (57%), and reading-level adjustments (42%), with visuals placed at the top and text segmented and bolded.
+- **Instructors.** Screen generated problems against the five rubric dimensions — prior knowledge activation, affective engagement, sweet spot calibration, open-endedness, and multiple representations, each rated 1–5 with a maximum total of 25 — since AI problems scored well on Sweet Spot Calibration and Affective Engagement but varied elsewhere.
+- **Instructors.** Use ProductiveMath problems as warm-ups or small-group activities, the uses the interviewed teachers identified as the best fit for the tool.
+
+## Limitations
+
+- Study 3 rests on 7 middle-school math teachers (Grade 6 = 2, Grade 7 = 3, Grade 8 = 2) recruited through district partnerships; the evidence is teacher survey ratings and interview perceptions, not student learning.
+- The AI-generated corpus was algebra-only and model-specific: 30 problems in Study 1 and 60 in Study 2, all produced by GPT-4o.
+- Ratings used the authors' own five-item rubric (maximum total 25) rather than an external quality or learning measure, so the studies do not establish that productive-failure outcomes improve for students.
+- ProductiveMath has no student-facing features yet — the authors state that future work will add them — so the tool's classroom effects on productive failure remain untested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Adult Learners' Perspectives of AI Applications in Supporting Andragogy"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-10T04:57:34-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [agency, ai-education]
 pedagogy: [self-directed-learning]
@@ -40,10 +40,6 @@ Sixty [[adult-learning|adult learners]] from three universities in the eastern U
 
 The scenario set is itself a design contribution: it shows how each andragogical principle can be operationalized as a concrete AI affordance, and it gives designers a checklist that maps tools to adult-learning aims rather than to generic "[[student-engagement|engagement]]."
 
-### Limits of the evidence
-
-The sample is twenty degree-seeking students at East Coast U.S. universities, so non-degree-holding adults and learners in other cultural and socioeconomic contexts are unrepresented. The data are perceptions collected with prototyped scenarios, not measured [[learning-gains|learning outcomes]], and no authentic deployed system was studied over time. The authors therefore frame their three design principles as design direction for developers and [[teacher-role|educators]] rather than as validated effects, and they call explicitly for empirical outcome studies and for work on the [[ethics|ethical]] dimensions — data [[privacy]], [[bias-mitigation|algorithmic bias]], [[trust]] — that the interviews did not probe.
-
 ## AI as a collaborative learning agent
 
 Across the four andragogical principles, a consistent picture emerges: adult learners do not treat AI as a source of final answers but as an interactive partner that prompts deeper inquiry. Participants repeatedly framed the ideal AI as a thought partner that asks reflective questions, challenges assumptions, and verifies rather than supplies. One put it succinctly: *"it's better when AI makes me question my own answer"* (P3). This orientation reframes the [[ai-education|AI-in-education]] conversation away from automation and toward [[human-ai-collaboration|human-AI collaboration]], where learners retain control over judgment and [[self-efficacy|self-direction]].
@@ -75,6 +71,21 @@ AI supports **relevance** through goal orientation — real-time progress monito
 ## Relevance to the knowledge base
 
 This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *[[scaffolding|scaffold]]* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]] and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
+
+## What this means for practice
+
+- **Designers.** Build AI that asks reflective questions, challenges assumptions, and verifies rather than supplies answers: participants repeatedly rejected the answer-giving oracle framing ("it's better when AI makes me question my own answer," P3).
+- **Designers.** Make reliance calibratable by having the system state its capabilities, limitations, and sources so learners can decide when to [[trust]] or reject an output.
+- **Designers.** Design for emotional attunement as well as correctness — empathetic communication that recognizes frustration and anxiety while sustaining [[motivation]] and [[self-efficacy|self-direction]].
+- **Designers.** Leave learners in control of the learning path: participants wanted to shape generative parameters and model choices as co-creators rather than accept a system-decided journey (P20).
+- **Instructors.** Map each AI tool to a specific andragogical aim using the study's eleven-scenario set — a teachable agent for involvement, a dashboard for [[self-directed-learning|autonomy]], a case library for problem-centered learning — instead of adopting tools for generic [[student-engagement|engagement]].
+
+## Limitations
+
+- Twenty adult learners were interviewed from a screened pool of 60 degree-seeking students at three East Coast U.S. universities, so non-degree-holding adults and learners in other cultural and socioeconomic contexts are unrepresented.
+- The data are perceptions collected with storyboards and paper prototypes built by 24 graduate students, not measured [[learning-gains|learning outcomes]], and no authentic deployed AI system was studied over time.
+- Participants reacted to eleven scenarios deliberately designed to map one-to-one onto andragogical principles, so the close fit between AI affordances and andragogy is partly a property of the instrument.
+- Ethical dimensions — data [[privacy]], [[bias-mitigation|algorithmic bias]], and [[trust]] — were not probed in the interviews, and the authors frame the three design principles as design direction rather than validated effects.
 
 ## Connected Concepts
 

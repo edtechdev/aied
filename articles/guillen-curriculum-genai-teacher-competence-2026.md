@@ -1,7 +1,7 @@
 ---
 title: "Transforming Curriculum Design with Generative AI: A Model for Assessing Teacher Digital Competence"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [self-efficacy]
@@ -48,6 +48,21 @@ The study is grounded in the Dominican Republic's pronounced dual [[digital-divi
 ## Relevance to the Knowledge Base
 
 This paper is a significant contribution to the [[teacher-ai-competency]] concept: it provides a validated, psychometric instrument and an extended-TAM model specifically for GenAI in curriculum planning, an area with limited empirical evidence in Latin American contexts. It connects individual acceptance psychology ([[self-efficacy]], [[motivation]]) to [[learning-design]] practice and [[educational-development]]/[[educational-development|professional development]] policy. Its core actionable message — that behavioral intention, fueled by self-efficacy and intrinsic enjoyment, is the primary lever for building teacher digital competence — offers a testable model for [[ai-education]] training design.
+
+## What this means for practice
+
+- **Instructors.** Begin GenAI training with hands-on work in real curriculum-planning tools rather than theoretical explanation: the authors conclude that success depends on the practical (praxeological) dimension of GenAI use, easy access to simple edtech tools, and overcoming motivational barriers.
+- **Faculty developers.** Build [[self-efficacy]] first, since it is the model's only exogenous root and its strongest effect (self-efficacy → perceived enjoyment β = 0.805, f² = 1.839): give teachers small, solvable technical problems so confidence, enjoyment, and ease of use rise together.
+- **Faculty developers.** Treat behavioral intention as a training outcome in its own right, not a byproduct — it was the strongest direct predictor of digital competence (β = 0.479, t = 10.226) and combined the highest importance and performance in the IPMA.
+- **Administrators.** Fund connectivity and device access alongside teacher training: in rural Dominican households 69.7% of low-income and 42.4% of high-income households lacked home internet, against 34.6% and 10.6% in urban areas.
+- **Researchers.** Reuse the validated 40-item, 7-point instrument (Cronbach's α .952–.985) to test whether these acceptance pathways hold across teacher subgroups and other national contexts.
+
+## Limitations
+
+- The 434 teachers were recruited by non-probability convenience sampling, and while the sample spanned educational levels and urban and rural contexts, subgroup differences were not formally examined, so the structural paths describe the overall sample rather than any subpopulation.
+- All seven factors, digital competence included, were measured with self-report Likert items rather than observed practice or performance tasks.
+- Digital competence had R² = 0.230, so the model accounts for only 23% of its variance and leaves most of the construct to unmeasured determinants.
+- Contextual structural factors — connectivity, school infrastructure investment, software licensing, and national policy — were outside the model, and the authors present the findings as specific to the Dominican Republic.
 
 ## Connected Concepts
 
