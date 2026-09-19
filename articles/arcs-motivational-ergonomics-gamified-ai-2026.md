@@ -1,7 +1,7 @@
 ---
 title: "Motivational Ergonomics in Gamified and Artificial Intelligence-Supported Learning: An ARCS Study with Implications for Workplace Training"
 created: "2026-08-25T09:52:34-04:00"
-updated: "2026-08-25T09:52:34-04:00"
+updated: "2026-09-19T08:58:00-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [game-based-learning, motivation, self-determination-theory]
@@ -24,6 +24,21 @@ confidence: high
 
 ## Discussion
 The paper contributes a [[research-methods-aied|methodological]] framing — treating learner motivation as a form of "cognitive ergonomics" to be measured and designed for, rather than assumed — and delivers a null result that challenges the automatic-association between AI-supported gamification and enhanced [[motivation]]. Its differentiated item-level findings are the actionable core: AI-supported progression excels at instrumental support (feedback, adaptive repetition) while conventional gamification better sustains [[affective-computing|affective]] [[student-engagement|engagement]] (interest, emotional involvement). For the knowledge base, it connects [[game-based-learning|gamified learning]], [[self-determination-theory|motivation theory]], and [[learning-design|instructional design]], and pairs naturally with the author's companion NASA-TLX workload study, together illustrating standardized instrument-based [[ai-ed-evaluation|evaluation of AI]]-supported [[student-experience|learning environments]].
+
+## What this means for practice
+
+- **Instructors.** Do not assume AI-supported progression will raise motivation: Welch independent-samples t-tests found no significant differences between conventional and AI-supported gamification on any ARCS dimension or the overall score (47 and 51 valid responses).
+- **Instructors.** Match the motivational quality to the goal — use AI-supported progression where feedback and adaptive repetition matter, and conventional gamification where interest, clarity, sustained attention, and emotional involvement matter.
+- **Instructors.** Weight subscale comparisons over item-level results, since the two ARCS questionnaire versions were adapted to their respective conditions and the item-level differences are exploratory signals only.
+- **Designers.** Evaluate a technology-mediated learning environment with a standardized motivation instrument rather than assuming newer technology is motivationally superior.
+- **Designers.** Test motivational sustainability — whether the effort the environment demands is proportionate to the learning objective — before transferring a design to workplace training.
+
+## Limitations
+
+- The study was conducted with university students, not a workplace sample, so the proposed organizational implications are interpretative and conceptual rather than direct empirical generalizations to employees or companies.
+- The ARCS questionnaire was administered only to the two gamified conditions (47 and 51 valid responses), so the study cannot compare gamified with non-gamified learning.
+- The two questionnaire versions were adapted to their respective learning conditions, which supports ecological validity but limits interpretation of the item-level comparisons.
+- Motivation was measured immediately after the learning experience only; the study does not capture long-term motivational change, workplace transfer, or actual professional performance.
 
 ## Connected Concepts
 - [[game-based-learning]]

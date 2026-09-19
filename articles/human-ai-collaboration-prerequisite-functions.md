@@ -1,7 +1,7 @@
 ---
 title: "What do you mean by human-AI collaboration: Prerequisite functions and the affordances needed to achieve it"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:58:00-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [active-learning, scaffolding]
@@ -31,9 +31,20 @@ page_kind: [framework]
 
 The taxonomy runs from **transactional** interactions (discrete, affordance-poor exchanges) up through **situational**, **operational**, and **praxical** teaming to **synergistic** collaboration, where evidence of collaboration should be sought in the trajectory of the human-AI unit rather than in output quality or user satisfaction alone. The high bar is not intended as a stick with which to beat existing systems but as a target that lets the field name what AI systems already do well without pretending it is the collaboration they do not yet achieve.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[human-ai-collaboration]] research and [[teacher-role]] practice, the chapter warns against inflating a precise construct into a slogan: calling all useful human-AI interaction "collaboration" obscures what would actually be required. Because most required functions are engineering choices, designers of [[intelligent-tutoring|AI Tutoring]] and [[collaborative-learning]] environments can treat the taxonomy as a specification of design targets — and [[research-methods-aied|researchers]] can measure collaboration in the trajectory of the human-AI unit rather than in user satisfaction alone, keeping the stronger meaning of the word worth preserving.
+- **Instructors.** Check which affordance you are actually claiming before calling a tool a collaborator: the levels are coded from observable behavior ("does the system do X?"), so a one-shot lesson-plan chatbot is transactional while a system that adapts to your enacted practice is praxical — different interaction types with different evaluative criteria.
+- **Instructors.** Escalate deliberately rather than by default, and warn against inflating the construct into a slogan: co-reasoning costs attention, time, and trust, and a randomized controlled trial of situational-level real-time tutor guidance raised students' topic mastery by four percentage points overall and by nine for the students of lower-rated tutors — many routine tasks rightly belong at the transactional or operational level.
+- **Learners.** Reserve "collaboration" for interactions in which the AI can offer reasons of its own and revise only when the argument warrants; a system that asks why you acted but always defers has the surface of reason-eliciting dialogue without revision authority.
+- **Designers.** Treat the prerequisite functions — shared and negotiable goals, mutual modeling, grounding, and shared [[regulation]] — as present-day engineering choices rather than capabilities to be awaited, and use the taxonomy as a specification of design targets for [[intelligent-tutoring|AI tutoring]] and [[collaborative-learning]] environments.
+- **Researchers.** Measure collaboration in the trajectory of the human–AI unit rather than in output quality or user satisfaction: a systematic review of 105 empirical studies of AI-assisted decision-making found the observed interactions dominated by simplistic accept-or-reject paradigms.
+
+## Limitations
+
+- This is a conceptual chapter built from longstanding learning-sciences accounts of collaboration, process-sensitive empirical studies of writing and problem solving, and prior systematic reviews; it reports no new sample, intervention, or dataset of its own.
+- The five-level taxonomy is a proposal advanced with colleagues and defined by observable affordances, and the chapter reports no inter-rater reliability, external validation, or empirical test of the level boundaries it argues over.
+- The taxonomy is explicitly a map of affordances rather than a quality ranking — higher is not uniformly better — so it cannot be used to score systems on a single quality scale.
+- Claims about what current AI can do rest on published studies of particular systems and on observable behavior, because architectural claims about proprietary models often cannot be verified.
 
 ## Connected Concepts
 
