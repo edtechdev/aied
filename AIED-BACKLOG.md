@@ -4,8 +4,8 @@
 >
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
-**Last updated:** 2026-09-13
-**Total backlog:** 0 new articles · 54 truncated source texts awaiting PDFs
+**Last updated:** 2026-09-19
+**Total backlog:** 0 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
@@ -154,6 +154,49 @@ cap and enrich the page from the recovered text.
 - **Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems** — `fostering-collaborative-futures-ai-ecosystems-2026` (html_failed)
   - 10.1016/j.caeo.2026.100405
 
+## Pages awaiting a full text (practice and limitations sections blocked)
+
+These pages are already in the knowledge base, but their saved source text is missing, so their
+**What this means for practice** and **Limitations** sections cannot be written from evidence. Retrieval was
+attempted on 2026-09-19: each page's title was matched against OpenAlex and an open-access PDF requested via
+the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once access changes), extract with
+`pdftotext`, save under the path the page's `sources:` field names, and the sections can then be written.
+
+### Open-access PDF could not be downloaded
+
+- **WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators** — `bridging-instructional-design-framework-math` (retrieval failed)
+  - https://doi.org/10.48550/arxiv.2606.20934
+- **Coauthorship integrity: Reconceptualising assessment validity for the age of generative artificial intelligence** — `coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene` (retrieval failed)
+  - https://doi.org/10.1016/j.caeai.2026.100609
+- **EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation** — `edumirror-educational-social-dynamics` (retrieval failed)
+  - https://doi.org/10.48550/arxiv.2606.07948
+- **Report on CHIIR 2026 Workshop on Generative AI and Academic Search (GAI&AS)** — `genai-academic-search-workshop` (retrieval failed)
+  - https://doi.org/10.1145/3841298.3841303
+- **Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs** — `knowledge-gap-detection-ai-tas` (retrieval failed)
+  - https://doi.org/10.48550/arxiv.2606.10736
+- **Educational integrity in GenAI-augmented assessment: making judgement visible** — `sharma-judgment-visible-genai-assessment-2026` (retrieval failed)
+  - https://doi.org/10.1007/s40979-026-00216-y
+
+### No confident match found for the page title
+
+- **Creating an AI-powered platform for generating modelling problems: A case study on direct variation in secondary school** — `ai-modeling-problem-generation-platform-2026` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Causal Modelling of Support Interventions for Student Competency Assessment** — `causal-modeling-competency-assessment-2026` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Hybrid E-Assessment in Higher Education: Semi-Automated Grading of Paper-Based Written Examinations** — `hybrid-e-assessment-semi-automated-grading` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Exploring value judgements in grading: will teachers mark down student work assisted by GenAI, and should they?** — `luo-dawson-value-judgments-grading-2026` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study** — `persistent-ai-agents-academic-research` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Preferred Scaffolding Does Not Lead to Better Learning Performance: Empirical Evidence from AI-Supported Mathematical Modelling** — `preferred-scaffolding-ai-mathematical-modeling` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **Reshaping Undergraduate Computer Science Education in the Generative AI Era** — `reshaping-cs-education-genai` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **How Students (Mis)understand Conditionals and Loops -- A Taxonomy** — `student-misconceptions-conditionals-loops-taxonomy` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
+- **How university students work on assessment tasks with generative AI: matters of judgement** — `walton-bearman-assessment-judgment-2025` (no OpenAlex match at the 0.85 title-similarity bar)
+  - no source URL recorded on the page
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same
