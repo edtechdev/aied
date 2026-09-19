@@ -1,7 +1,7 @@
 ---
 title: "Knowledge, Skills, Attitudes, Production: Competency-Based Education After Generative AI"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T05:05:30-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, curriculum-design]
 technology: [generative-ai]
@@ -55,17 +55,20 @@ The author argues the framework requires no new infrastructure, only three steps
 
 This resonates with critiques of weak [[governance|institutional]] [[assessment]] practice — "language as camouflage," where outcomes are defined and mapped to curriculum without checking whether the underlying data mean anything — and with the prescription to measure fewer things more carefully. The [[eportfolio]] and capstone tradition already contains much of this activity; the proposal simply names it as an attribute.
 
-## Limitations and future research
+## What this means for practice
 
-Production currently has no measurement instruments, so rubric development for direction, evaluation, and warranting is the most concrete work required, ideally checked with generalizability studies. A second need is measuring the tacit "knowledge floor" — the evaluative judgment that lets a person catch a system's errors — which could be tested with tasks presenting flawed work that students must critique. The [[medical-education|health professions]] have built entrustment-style scales rating how much supervision a trainee needs, which may be adaptable to undergraduates. The central empirical question is whether production has [[transfer-of-learning|incremental validity]] over the three established attributes: does it predict GenAI-integrated product quality and early-career performance beyond secure-lane scores and GPA?
+- **Administrators.** Label every assessment with the conditions under which it was produced and state what it certifies: secure conditions certify knowledge and some skills, open conditions certify production, and neither lane should be read as certifying what the other does.
+- **Designers.** Add a warranting step — a short oral defense, or a supplementary secure-condition assessment where oral defenses do not scale — so an artifact of uncertain provenance becomes attributable evidence.
+- **Designers.** Sort the instruments the program already uses by what each actually certifies; the exercise typically reveals assessments certifying two or three attributes at once and no instrument anywhere dedicated to production.
+- **Administrators.** Reuse existing [[eportfolio]] and capstone activity instead of building new infrastructure, since the framework relabels and attributes evidence programs already collect.
+- **Instructors.** Design open-lane tasks around the three components of production — direction, evaluation and integration, and warranting — and judge GenAI-integrated work against those rather than against artifact polish alone.
 
-The author is candid about limitations. A reasonable objection is that production is merely knowledge and skill exercised under a tools-permitted condition — an evidence class rather than an attribute. Proposing a category assessed partly by oral defense could disadvantage non-native English speakers and students with disabilities, echoing the [[equity-in-ai-education]] and [[accessibility]] concerns flagged in the detector literature. And a production rubric, like any new vocabulary, can become "language as camouflage" — another box to check believed by nobody. Whether production is a distinct attribute or knowledge and skill under a permissive condition is an empirical question with a clear falsification condition: if secure-condition scores fully account for the quality of GenAI-integrated work, the framework should be discarded or revised.
+## Limitations
 
-## Implications
-
-For [[assessment]] and [[assessment-validity]] in the [[generative-ai]] era, the paper reframes the goal from policing artifacts to [[teacher-role|teaching]] and evaluating students' ability to direct AI toward professional-standard output. This connects to [[psychometrically-aware-ai]] and to [[academic-integrity]] debates, moving beyond detection toward a coherent account of what competence means when AI does much of the generating.
-
-The two-lane framing (secure conditions vs. open lane) is directly relevant to [[automated-assessment]] and to institutional [[curriculum-design]] decisions in [[higher-ed]] and professional education. The framework hands specification back to individual disciplines, reinforcing [[authentic-assessment]] and [[professional-training]] agendas. As a conceptual preprint, it would benefit from empirical operationalization of production and its assessment criteria.
+- This is a conceptual proposal, not an empirical study: classroom-scored production has not been shown to predict GenAI-integrated product quality or early-career performance, so the attribute rests on argument rather than evidence.
+- The paper states an unresolved objection — production may be merely knowledge and skill exercised under a tools-permitted condition, an evidence class rather than an attribute — and notes it cannot be settled without further supportive or disconfirming research.
+- Scoring circularity is unaddressed: raters who see the artifact cannot score direction, evaluation, and warranting independently of finished-product quality, and a minimum knowledge floor would have to be measured rather than asserted.
+- Assessing a new category partly by oral defense could disadvantage non-native English speakers and students with disabilities, and a production rubric can itself degrade into "language as camouflage."
 
 ## Connected Concepts
 

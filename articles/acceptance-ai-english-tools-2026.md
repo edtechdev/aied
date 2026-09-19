@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -38,7 +38,10 @@ The study surveyed 210 undergraduates from a Chinese university, with balanced d
 
 ## Limitations
 
-The cross-sectional design precludes causal inference, and all constructs rely on self-report. The sample (N = 210) is a single-institution Chinese higher-education sample, bounding generalizability to other contexts and populations. Subgroup analyses were exploratory and descriptive, not formal tests of between-group differences. The counterintuitive associations of anxiety and risk perception with acceptance underscore the need for replication and for cautious interpretation of the descriptive patterns observed.
+- The cross-sectional design precludes causal inference, and all constructs rely on [[self-report-measures|self-report]].
+- The sample (N = 210) is a single-institution Chinese higher-education sample, bounding generalizability to other contexts and populations.
+- Subgroup analyses were exploratory and descriptive, not formal tests of between-group differences.
+- The counterintuitive associations of anxiety and risk perception with acceptance underscore the need for replication and for cautious interpretation of the descriptive patterns observed.
 
 ## Connected Concepts
 

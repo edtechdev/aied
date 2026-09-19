@@ -1,7 +1,7 @@
 ---
 title: "Human Autonomy and Sense of Agency in Human-Robot Interaction: A Systematic Literature Review"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [agency]
 pedagogy: [well-being]
@@ -29,9 +29,13 @@ institutions: [governance]
 
 This is a **systematic literature review** following the PRISMA workflow. The authors queried five databases and screened the literature to identify 22 empirical studies published between 2011 and early 2024 examining human autonomy and sense of agency in human-robot interaction. They analyzed the conceptualization and measurement of autonomy and agency across the studies, identifying distinct methodological strands (psychometric/SDT-based measures of autonomy; neuroscientific/intentional-binding measures of agency) and synthesizing implications for design frameworks and regulatory compliance.
 
-## Implications for AI in Education
+## What this means for practice
 
-The review provides a foundational evidence base for understanding how [[educational-robotics]] and [[educational-robotics]] affect [[agency]] and autonomy in learning contexts. As robots are increasingly used in education, preserving learners' sense of agency is a core ethical and design concern, connecting to [[ethics]], [[well-being]], and the governance of [[ai-education|AI in education]]. The review's synthesis of measurement approaches (SDT-based autonomy scales, intentional-binding measures of agency) offers researchers tools for evaluating how educational robots support or undermine learner agency, and informs responsible design of [[embodied-learning|embodied]] AI in classrooms.
+- **Designers.** Design for the factors the evidence supports and treat dependence as a risk: non-controlling communication and meaningful choice are backed by the reviewed studies, with gaze direction and robot anthropomorphism flagged as additions to current [[educational-robotics|educational robotics]] guidance, while over-attachment, disrupted routines, and growing dependence appear as life-sphere threats.
+- **Designers.** Evaluate beyond the interface and task spheres: the 22 studies cluster there, and behavior- and life-sphere effects such as declining skills, increased dependence, and routine disruption surfaced mainly in qualitative work, so long-term, real-world evaluation is the missing piece.
+- **Researchers.** Measure both constructs in the same study: the corpus splits into [[self-determination-theory|SDT]]-based psychometric measures of autonomy and intentional-binding measures of sense of agency, and none of the 22 articles linked sense of agency to autonomy satisfaction.
+- **Researchers.** Standardize definitions and instruments so results become comparable — the review could not run a meta-analysis because conceptual and methodological heterogeneity across the 22 studies was too pronounced.
+- **Researchers.** Search with widely adopted vocabulary and expect a thin literature: 728 records from five databases screened down to 22 articles (2011–2024, with 10 published in 2023), and one relevant study was missed because it used "basic needs" rather than "basic psychological needs".
 
 ## Limitations
 

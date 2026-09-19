@@ -1,7 +1,7 @@
 ---
 title: "What Robots Do Matters More Than What They Look Like: Task Context Shapes Trust in Educational HRI"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [educational-robotics]
@@ -27,9 +27,12 @@ page_kind: [evaluation]
 
 This is a **within-subjects experimental study**. The [[research-methods-aied|researchers]] conducted a video-based experiment with 81 participants who evaluated three socially assistive robots with distinct appearances while the robots performed three educationally relevant tasks (teaching, procedural instruction, and personal-information discussion). Repeated-measures analyses examined the effects of robot appearance and task type on participants' trust in the robots, testing whether trust is determined primarily by appearance or by contextual task factors.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study provides evidence that **task context shapes trust in educational robots more than appearance**, a key finding for [[educational-robotics]] and [[educational-robotics]] design. For educators and designers, it suggests that trust in [[educational-robotics|educational robots]] depends on what the robot is asked to do (e.g., instruction elicits higher trust) rather than on a single optimal embodiment. This informs the deployment of socially assistive robots across teaching, procedural instruction, and personal-information tasks in [[higher-ed]] and other settings, and connects to trust and acceptance of AI in learning.
+- **Designers.** Choose the robot's role and behavior for the task rather than optimizing embodiment, since trust was highest during procedural instruction and teaching and lowest during personal-information discussion across all three robots, with appearance exerting only limited influence.
+- **Designers.** Match deployment to that trust profile — assign procedural and instructional roles first and treat personal-information discussion as the task needing the most safeguards and explanation.
+- **Educators.** Tell learners what the robot has been tasked to do before deployment, because their trust tracks the perceived risk and expected competence of the task rather than the robot's looks.
+- **Educators.** Revisit trust after real classroom use: this study captured first impressions under strictly scripted robot behavior, and trust in human-robot interaction shifts through repeated encounters.
 
 ## Limitations
 

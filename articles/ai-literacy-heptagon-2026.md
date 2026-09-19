@@ -1,7 +1,7 @@
 ---
 title: "The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education"
 created: "2026-08-13T11:50:33-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 assessment: [assessment-validity]
@@ -34,9 +34,13 @@ The study used an integrative literature review (distinct from a meta-analysis, 
 - Give legal and [[regulation|regulatory]] knowledge explicit curricular time: it was the most underrepresented dimension in the reviewed literature yet covers obligations such as the EU AI Act that graduates meet as AI deployers.
 - Use the four proficiency levels (Unaware, Beginner, Intermediate, Expert) to run a competency-gap analysis of existing modules, then redesign the modules whose outcomes cluster in a single dimension.
 - Design [[assessment]] tasks that require students to combine several dimensions at once — for example, by having them justify a tool choice on technical, [[ethics|ethical]], and legal grounds together — rather than testing technical skill and ethical reasoning as separate items — and make explicit where AI literacy ends and computational or data literacy begins.
+
 ## Limitations
 
-The literature review is bounded to 2021–2024 English-language publications in Web of Science and Scopus, potentially missing relevant work. The initial validation is qualitative and small-scale — two expert-led curriculum mappings — explicitly framed as illustrating the framework's utility rather than empirically validating its effectiveness or measuring student competencies. The authors note the [[visualization]] lacks granularity at the expert level and that the knowledge-skills-attitudes three-dimensional nature is not explicitly represented in the visual model. The framework is a proposed instrument requiring further validation across more programs and disciplines.
+- The literature review is bounded to 2021–2024 English-language publications in Web of Science and Scopus, so relevant work outside that window or language may be missing.
+- The initial validation is qualitative and small-scale — two expert-led curriculum mappings — explicitly framed as illustrating the framework's utility rather than empirically validating its effectiveness or measuring student competencies.
+- The authors note the [[visualization]] lacks granularity at the expert level, and that the knowledge-skills-attitudes three-dimensional nature is not explicitly represented in the visual model.
+- The framework is a proposed instrument that still requires validation across more programs and disciplines.
 
 ## Connected Concepts
 

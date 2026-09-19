@@ -1,7 +1,7 @@
 ---
 title: "Knowledge-Based Design Requirements for Generative Social Robots in Higher Education"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring]
@@ -26,9 +26,14 @@ audience: [edtech designers, designers]
 
 This is a **[[qualitative-research|qualitative]] interview study**. The [[research-methods-aied|researchers]] conducted twelve semi-structured interviews with university students and lecturers to identify the knowledge prerequisites that tutoring-oriented generative social robots need to function responsibly and effectively in higher education. Using a knowledge-based design perspective, they analyzed the interviews to derive twelve design requirements organized across three knowledge types (self-knowledge, user-knowledge, and domain/context knowledge), addressing the gap between responsible-AI behavior frameworks and the informational requirements generative agents need.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study provides a design foundation for building [[educational-robotics|generative social robots]] as tutors in [[higher-ed]], addressing the risks of misinformation, overreliance, and privacy violations. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[ethics|responsible AI]] design. For designers and educators, it specifies the knowledge a tutoring robot must hold (about itself, the user, and the domain) to behave responsibly and effectively, informing the development of trustworthy AI tutoring agents.
+- **Designers.** Specify a tutoring robot's self-, user-, and context-knowledge as separate components rather than one prompt: the 12 interviews produced twelve requirements and 642 coded segments across those three knowledge types.
+- **Designers.** Make assertiveness a configurable, adaptive setting instead of a fixed persona: most participants wanted a study-buddy role, but desired strictness varied with learning goals, motivation type, and upcoming deadlines.
+- **Designers.** Ground explanations in the actual course corpus — slides, exercises, literature, timetables — through retrieval rather than the base model, so tutoring stays course-specific instead of generic.
+- **Administrators.** Adopt privacy-by-design defaults before piloting: require informed consent, keep personal data out of model training, let students control what the robot may perceive, and prefer locally deployable models in strict data-protection settings.
+- **Researchers.** Test the requirements in an implementation study: the twelve requirements were identified but not yet empirically validated, so their contribution relative to embodiment and adaptivity remains unmeasured.
+
 
 ## Limitations
 

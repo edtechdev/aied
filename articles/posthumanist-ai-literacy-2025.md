@@ -1,7 +1,7 @@
 ---
 title: "A Posthumanist Approach to AI Literacy"
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, agency, ai-literacy]
 technology: [generative-ai]
@@ -30,9 +30,12 @@ page_kind: [framework]
 
 The study is a [[qualitative-research|qualitative]] case study of two multilingual undergraduate students — Zhimo (a first-year student from China in an academic writing course) and Asuka (a Japanese student in an elective writing-intensive course on generative AI and writing) — at a private US college. Data were collected in Spring 2024 through 1.5–2 hour semi-structured interviews, students' AI-assisted writing artifacts, and guided reflections. A thematic analysis examined the students' AI-mediated literacy practices through both Wang and Wang's (2025) critical AI literacy model (awareness, positionality, human-AI interactions, [[ai-ed-evaluation|evaluation of AI]] affordances) and posthumanist theory, triangulating data sources to understand how the students conceptualized, positioned themselves with, intra-acted with, and evaluated AI.
 
-## Implications for AI in Education
+## What this means for practice
 
-The article reframes [[ai-literacy]] in [[writing-education]] away from tool-competence toward relational understanding of human-AI entanglement. For educators, it suggests three practical applications: (1) encouraging students to critically interrogate AI-generated texts as co-constructed, contingent artifacts rather than static outputs; (2) recognizing AI literacy extends beyond textual [[student-engagement|engagement]] to [[multimodal]], algorithmic, and linguistic dimensions of meaning-making; and (3) creating learning environments that allow both engagement with and [[ethics|ethical]] refusal of AI. The case studies show how distinct cultural-linguistic backgrounds and rhetorical objectives shape students' approaches to AI, and how posthumanism complements (rather than replaces) humanistic perspectives by deconstructing and decentering them. It connects to [[student-experience]], [[agency-gap-ai-writing|agency gap]], and debates about [[academic-integrity]] and authorship in the age of [[generative-ai]].
+- **Instructors.** Have students interrogate AI-generated text as a co-constructed, contingent artifact rather than a static output: ask whose agency produced each revision and what the system's word choices foreclose for the writer's rhetorical purpose.
+- **Instructors.** Extend AI literacy beyond textual production to the algorithmic and linguistic dimensions of meaning-making, so that [[multilingual-learning|multilingual]] writers can trace how a system's standardized English reshapes the claims they are trying to make.
+- **Instructors.** Build legitimate refusal into assignments alongside AI use, treating a student's ethical decision to decline AI for a task as a position to discuss rather than a compliance failure.
+- **Learners.** Examine whether you treat AI as a "tool" you fully direct or as a collaborator with independent intent: Zhimo's case shows meaning was still co-produced even while he believed he was only fixing language, as [[agency-gap-ai-writing|agency]] was distributed across the exchange.
 
 ## Limitations
 

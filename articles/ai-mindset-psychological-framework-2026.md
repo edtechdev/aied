@@ -1,7 +1,7 @@
 ---
 title: "AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, theory-development-aied]
 pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy]
@@ -55,7 +55,10 @@ The results sit uneasily beside a literature that routinely finds self-efficacy 
 
 ## Limitations
 
-The authors' own constraints are substantial. The sample is German teachers from one federal state, recruited largely through an AI project group, so generalization beyond Germany — and beyond teaching to other professions — remains untested; only cautious conclusions are warranted. The design is cross-sectional, so every path is an association, and the question whether fear initially stimulates exploration and later blocks competence development needs longitudinal or experimental work. Nearly all measures are self-report, and several subscales (fear α = .66, acceptance α = .60, AI tool use α = .68) are only marginally reliable, which weakens fine-grained claims. The framework itself is new: this is one operationalization, not a validated instrument, and alternative structural configurations within the same framework remain plausible, with several subdomains non-significant and competence's status as the primary mediator untested against competing models. School type was missing for a quarter of respondents, and the analyses cannot rule out unmodelled contextual moderators or institutional differences in AI infrastructure and policy.
+- The sample is German teachers from one federal state, recruited largely through an AI project group, so generalization beyond Germany — and beyond teaching to other professions — remains untested, and only cautious conclusions are warranted.
+- The design is cross-sectional, so every path is an association; whether fear initially stimulates exploration and later blocks competence development needs longitudinal or experimental work.
+- Nearly all measures are self-report, and several subscales are only marginally reliable (fear α = .66, acceptance α = .60, AI tool use α = .68), which weakens fine-grained claims.
+- The framework itself is new — one operationalization, not a validated instrument — with several subdomains non-significant and competence's status as the primary mediator untested against competing models; school type was also missing for a quarter of respondents, and the analyses cannot rule out unmodeled contextual moderators or institutional differences in AI infrastructure and policy.
 
 ## Connected Concepts
 

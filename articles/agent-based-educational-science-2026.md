@@ -1,7 +1,7 @@
 ---
 title: "Toward Agent-based Educational Science: Rethinking Educational Research in the Age of AI"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [theory-development-aied, agentic-ai]
 pedagogy: [learning-theories]
@@ -64,9 +64,11 @@ The ethical program is correspondingly detailed. Building digital twins of learn
 - **Administrators.** Fund and govern shared model repositories rather than institution-specific ones, and extend algorithmic accountability and bias audits to in silico experiments, not only to deployed AI systems; the authors treat open, internationally governed repositories with data-sovereignty agreements as a precondition for deploying the paradigm at scale.
 
 ## Limitations
-The paper's status matters for reading it. It is a pre-print position piece, and it reports no empirical evaluation: there is no simulation study, no validation of Student Development Agent trajectories against real student data, and no test of the claim that in-silico experimentation closes the evidence-innovation gap. Student Development Agents are introduced as a minimal instantiation whose architecture and evidence-integration loop are specified conceptually, and the authors present the vision as something requiring a unified global effort from psychologists, computational linguists, data scientists and educators rather than something already demonstrated.
 
-Several limitations the authors acknowledge cut into the paradigm's own foundations. Their review of representational alignment concedes that current neural representations fail to capture high-level semantic and abstract dimensions of [[cognitive-psychology|human cognition]], and that while [[llm|LLMs]] show aggregate-level alignment with human judgments they remain limited in capturing inter-individual cognitive variability and the motivational, socio-emotional and ethical dimensions that shape real decision-making. Most existing simulation work is static, and the authors note that developmental trajectories remain largely overlooked. Validation is named in the cited literature as the central challenge for generative social simulation, a caveat the paper does not resolve. The [[simulation]]-versus-classroom boundary also places weight on a distinction the paper asserts rather than tests: it claims classrooms remain the ultimate site where educational theories meet lived human experience, but offers no account of how much predictive authority simulated trajectories should carry in decisions about real programs, or how the digital-twin data needed to build them could be assembled under the privacy regime it simultaneously demands.
+- The paper is a pre-print position piece, and it reports no empirical evaluation: there is no simulation study, no validation of Student Development Agent trajectories against real student data, and no test of the claim that in-silico experimentation closes the evidence-innovation gap.
+- Student Development Agents are introduced as a minimal instantiation whose architecture and evidence-integration loop are specified conceptually, and the authors present the vision as requiring a unified global effort from psychologists, computational linguists, data scientists and educators rather than as something already demonstrated.
+- The authors' own review of representational alignment concedes that current neural representations fail to capture high-level semantic and abstract dimensions of [[cognitive-psychology|human cognition]], and that while [[llm|LLMs]] show aggregate-level alignment with human judgments they remain limited in capturing inter-individual cognitive variability and the motivational, socio-emotional and ethical dimensions that shape real decision-making; most existing simulation work is static, and developmental trajectories remain largely overlooked.
+- Validation is named in the cited literature as the central challenge for generative social simulation, a caveat the paper does not resolve, and the [[simulation]]-versus-classroom boundary rests on a distinction the paper asserts rather than tests: it offers no account of how much predictive authority simulated trajectories should carry in decisions about real programs, or how the digital-twin data needed to build them could be assembled under the privacy regime it simultaneously demands.
 
 ## Connected Concepts
 

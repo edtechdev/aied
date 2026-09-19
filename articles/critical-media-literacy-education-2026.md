@@ -1,7 +1,7 @@
 ---
 title: "Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
 ethics: [equity-in-ai-education, ethics]
@@ -59,11 +59,20 @@ Critically, the data suggest that media literacy develops not only as a pedagogi
 
 The study also underscores that [[equity-in-ai-education|digital inequity]] is a central concern: structural and [[digital-divide|digital disparities]], disproportionately affecting low-income populations, rural communities, and the [[global-south|Global South]], restrict access to knowledge and limit the ability to become active and critical media users. Media literacy education must therefore move beyond a one-size-fits-all model and be grounded in the specific financial, cultural, and regional contexts of learners.
 
-## Implications
+## What this means for practice
 
-For [[ai-literacy]] and [[teacher-role]] development, the paper underscores that literacy in AI-mediated information environments is not simply technical competence with tools — it is the capacity to evaluate provenance, spot manipulation, and reason about credibility. This has direct implications for [[curriculum-design]] and for [[educational-development]] in [[higher-ed]] and [[k-12]] alike.
+- **Instructors.** Teach provenance, manipulation, and credibility evaluation as the core of media education rather than an add-on to device and software training; the experts in this study treat media literacy without a foundation in critical thinking as insufficient.
+- **Instructors.** Run media analysis on the platforms and formats students already use, since more frequent and diverse media consumption correlated with higher perceived critical competence.
+- **Instructors.** Use the dialogic-critical method and established frameworks such as Kellner and Share's Critical Media Literacy Framework to have students question content within an ethical, reflective framing tied to participatory citizenship.
+- **Administrators.** Rebalance teacher training so media education and critical thinking sit alongside technical and instructional skills: 97.8% of surveyed students recognized the tools' importance for critical analysis, but only 13.8% said these skills were addressed in their coursework.
+- **Administrators.** Target resources at [[equity-in-ai-education|digital inequity]] rather than a one-size-fits-all program, because structural and [[digital-divide|digital disparities]] affecting low-income, rural, and [[global-south|Global South]] learners restrict who can become an active and critical media user.
 
-The findings connect to [[ethics]] and [[equity-in-ai-education]] debates: if teachers cannot manage disinformation and deepfakes, students who are already exposed to these risks are underserved. It argues for an ethical, reflective, and participatory orientation to media education rather than a purely instrumental one, calling for a shift in [[governance|teacher training priorities]] so that institutional support favors media education alongside technical skills.
+## Limitations
+
+- The [[qualitative-research|qualitative]] component draws on just seven semi-structured expert interviews, all with scholars based in Spain, Latin America, and the United States.
+- The survey covers 141 students at a single institution, the University of the Basque Country (UPV/EHU), enrolled in Journalism, Social Education, Early Childhood Education, and Primary Education programs, which the authors say limits the generalizability of the findings.
+- The cross-sectional design provides only a snapshot of current perceptions and cannot capture how views and competencies evolve over time.
+- Readiness figures are self-assessed — 44.9% feeling able to analyze media information critically — so they measure perceived competence rather than demonstrated skill.
 
 ## Connected Concepts
 

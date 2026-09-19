@@ -1,7 +1,7 @@
 ---
 title: "RoboBlockly Studio: Conversational Block Programming With Embodied Robot Feedback for Computational Thinking"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -28,9 +28,12 @@ page_kind: [framework]
 
 This is a **design-based development and deployment study**. The [[research-methods-aied|researchers]] designed RoboBlockly Studio through iterative consultation (interviews with five programming teachers informed the four design goals), combining block-based programming with a conversational AI teaching agent and embodied robot execution. The system was deployed with 32 high school students, and the researchers observed how robot execution and AI dialogue supported computational thinking, including learner agency, program-behavior transparency, and reflection.
 
-## Implications for AI in Education
+## What this means for practice
 
-RoboBlockly Studio addresses the challenge of making [[computational-thinking]] concrete by grounding abstract block programs in embodied robot execution and scaffolding reflection with a conversational [[agentic-ai|AI agent]]. It connects to [[cs-education]], [[cs-education|block-based programming]], [[educational-robotics]], and [[llm|LLM-based]] learning assistants. The design emphasis on **preserving learner agency** and **transparency** speaks to responsible AI tutoring design, and the embodied [[feedback|feedback loop]] supports learners in connecting code to real outcomes in [[k-12]] settings.
+- **Teachers.** Make program behavior visible during debugging: students used robot collisions and unintended detours as perceptual cues to localize failure, then corrected the specific block — as when P10 traced execution step by step and found a misplaced turn block rather than the end of the program.
+- **Teachers.** Pair an embodied run with Execution Trace and Step-by-Step supports when the robot is unavailable, because learners then relied on stepwise inspection plus AI feedback to find where their reasoning diverged from expected behavior.
+- **Instructional designers.** Route student errors into an AI Hint or Error Feedback loop that points to the program segment to revise, so learners treat mistakes as actionable signals for refining both code and strategy instead of receiving the corrected program.
+- **Instructional designers.** Harden LLM-based checking before classroom use: the checker occasionally flagged functionally correct but unconventional block sequences as incorrect, so verify flagged solutions before they discourage valid [[computational-thinking|CT]] strategies.
 
 ## Limitations
 

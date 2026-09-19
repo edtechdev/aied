@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI-driven Immersive Simulation: A Knowledge-Aware Virtual Training Platform for High Dose Rate (HDR) Brachytherapy"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [multimodal, personalized-learning, rag, simulation]
@@ -40,13 +40,20 @@ The platform is designed as a modular, distributed system built on an edge-cloud
 
 The prototype comprised a Meta Quest 3 interface linked to a local GPU-accelerated AI backend (RTX 5090 workstation, Unity/Meta XR Core SDK, LangChain, FAISS, Ollama, Flask/FastAPI, ngrok). Using the [[ai-ed-evaluation|RAGAS framework]] on 52 expert-generated question-answer pairs (31 basic, 11 medium, 10 advanced) spanning basic, medium, and advanced difficulty levels, retrieval and generation metrics were strong: context recall above 0.93, answer relevance 0.87, with a [[discipline-specific-aied|domain-specific]] medical embedding model (MedEmbed-large-v0.1) improving answer completeness and relevance for medical queries. End-to-end latency measured across 50 Monte Carlo runs was 3–5 seconds total (network 1–2 s, inference 2–3 s), deemed suitable by domain experts when "thinking" animations are added. The paper frames this as a proof-of-concept validation of technical feasibility rather than an outcome study.
 
-## Limitations and Future Work
+## What this means for practice
 
-The authors acknowledge that evaluation has focused on objective metrics rather than [[learning-gains|learning effectiveness]], with validation limited to a single domain-expert (physician) user study rather than a broad learner sample. The [[rag|RAG-based assistant]] minimizes hallucination risk but is ultimately bounded by the quality and number of documents it can reference, so it cannot account for institution-specific protocols or rare clinical scenarios. The current system also lacks automated [[assessment]] or [[adaptive-learning|adaptive feedback]]: it provides real-time procedural guidance but does not quantitatively evaluate procedural correctness or spatial precision. Future work plans controlled [[student-ai-interaction|user studies]], [[human-in-the-loop-ai|expert-in-the-loop (EITL)]] refinement via [[reinforcement-learning|Reinforcement Learning from Human Feedback (RLHF)]], hybrid knowledge retrieval for edge cases, and VR modules for additional HDR applications.
+- **Designers.** Ground the tutor in authoritative documents with retrieval rather than leaving a bare model to answer: chunking guidelines into 512-token segments and retrieving over a FAISS vector store (dense plus keyword search) produced context recall above 0.93 and answer relevance of 0.87 on 52 expert-written question–answer pairs.
+- **Designers.** Choose the embedding model for the domain: the medical-specific MedEmbed-large-v0.1 gave more concrete clinical information and higher answer completeness and relevance than the general-purpose nomic-embed-text:v1.5.
+- **Designers.** Budget the response delay and cover it: total latency ran 3–5 seconds across 50 Monte Carlo runs (network 1–2 s, inference 2–3 s), which domain experts accepted once "thinking" animations masked the wait.
+- **Designers.** Keep inference off the headset and the interface layer replaceable: a Meta Quest 3 front end with a local GPU backend (RTX 5090, LangChain, FAISS, Ollama, Flask/FastAPI) preserved high-fidelity visualization and avoided coupling the system to one VR vendor.
+- **Designers.** Plan expert-in-the-loop refinement and automated assessment as the next iteration, since the prototype gives real-time guidance but scores neither procedural correctness nor spatial precision; the authors' stated steps are EITL with RLHF, hybrid retrieval for rare edge cases, hand-tracking-based kinematic analysis, and VR modules for further HDR applications.
 
-## Implications for AI in Education
+## Limitations
 
-This work illustrates a path from [[simulation]] and [[agentic-ai|agentic AI]] toward hands-free, [[personalized-learning|personalized]] professional training that is [[pedagogical-safety|safer and more scalable]] than physical practice. It demonstrates how [[rag|RAG]] grounding can improve [[trust|trustworthiness]] in high-stakes clinical domains, and how [[multimodal]], [[embodied-learning|embodied]] interfaces can reduce cognitive load during complex procedures — a design principle relevant beyond medicine to any hands-free, procedure-intensive training context. The identified gaps — the need for automated [[assessment]], [[adaptive-learning|adaptive feedback]], and validation of actual [[learning-gains|learning outcomes]] — point to where [[ai-ed-evaluation|rigorous evaluation]] of such platforms is still required before they can be positioned as reliable complements to physical training, and where the broader [[professional-training]] field should invest next.
+- **Validation rests on one domain expert.** End-to-end validation came from a single-physician user study rather than a learner sample, so variability across trainee groups and levels of clinical expertise is untested; the authors plan an expanded study with several hundred medical trainees.
+- **Technical metrics stand in for learning.** Evaluation covered objective measures such as end-to-end latency and response quality, so [[learning-gains|learning effectiveness]] was not measured.
+- **The knowledge base bounds the answers.** The assistant is limited by the quality and number of documents it can reference and is built on a standardized set of HDR brachytherapy guidelines, so institution-specific protocols, practitioner preferences, and unusual clinical scenarios fall outside it.
+- **No automated [[assessment]] or adaptive feedback.** The current VR technology cannot track hand movements in the virtual environment, and the system does not quantitatively evaluate procedural correctness or spatial precision.
 
 ## Connected Concepts
 

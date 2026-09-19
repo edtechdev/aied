@@ -1,7 +1,7 @@
 ---
 title: "ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [generative-ai, llm]
 
@@ -48,13 +48,20 @@ The aggregate General Capability score is dominated by competition mathematics: 
 
 The two education-specialized models, among the strongest education-oriented systems available, were caught within months by general models through ordinary version updates alone. Domain specialization has paid off most durably where the target carries a verifiable reward signal — competition mathematics, code, or [[medical-education|clinical]] diagnosis — but high-level educational judgment has no agreed definition of the right response and no reward model to optimize against, so general pre-training and present-day education post-training converge on a similar style-over-fit tendency. Where much of the domain's instructional content is already in the pre-training corpus, a stronger general base may absorb most of what specialization was meant to add. The paper also points to a limit of the evaluation paradigm: static single-turn question answering reaches a construct-validity ceiling for measuring teaching, which is interactive, adaptive, and longitudinal, pointing toward simulated-student dialogue, adaptive student personas, and outcome-grounded scoring of [[learning-gains|learning gains]].
 
-## Implications
+## What this means for practice
 
-- **Deployment decisions should use module profiles, not a single leaderboard rank.** Because module strengths trade off, an aggregate score hides which model is actually safe, teachable, or capable for a given context.
-- **Safety tuning and practical teaching are competing objectives** in current models (r = −0.83), so a deployment needing both cannot be served by one education score — organizations must weight requirements by their use case.
-- **Region-specific safety behavior is context-dependent.** A higher refusal rate on region-specific normative content measures conformance to one jurisdiction's specification, so its desirability depends on the deployment context, not on a universal notion of safety.
-- **Education-specific post-training currently delivers little durable edge** over frontier general models; its value will hinge on whether future specialization develops a measurable reward signal for high-level educational judgment.
-- **Benchmark design must move beyond static, single-turn evaluation** toward interactive, learner-in-the-loop protocols if it is to measure teaching rather than answer accuracy.
+- **Software developers.** Select an education-facing model by module profile rather than a single leaderboard rank, because module strengths trade off and an aggregate score hides which model is actually safe, teachable, or capable for a given context.
+- **Software developers.** Weigh safety against practical teaching deliberately: with Safety and Basic Education anti-correlated (r = -0.83), no single education score serves a deployment that needs both, so organizations must weight requirements by use case.
+- **Administrators.** Read region-specific refusal behavior against your own deployment context, because a higher refusal rate on normative content measures conformance to one jurisdiction's specification rather than a universal notion of safety.
+- **Researchers.** Do not assume education-specific post-training buys a durable edge: the two education-specialized models were caught by general models through ordinary version updates, so invest where the target carries a verifiable reward signal.
+- **Researchers.** Move evaluation beyond static, single-turn items toward interactive, learner-in-the-loop protocols if the goal is to measure teaching rather than answer accuracy.
+
+## Limitations
+
+- The model set is a sample of nine representative systems, so group-level findings (including the Chinese-developed safety advantage) describe this set rather than the population of available models.
+- The self-built safety and cultivation items are expert-verified but synthetic, and the benchmark is text-only, so it cannot assess multimodal inputs or authentic classroom interaction.
+- Open-ended tasks (instructional quality, safe redirection, educational generation) are scored by rubric-based LLM judging, which is calibrated (mean κ = 0.83) but remains imperfect.
+- Module sizes are uneven by design, so module scores are not directly comparable, and the Safety module measures behavior against one education-oriented specification that includes region-specific content, so its result is interpretable only within that deployment context.
 
 ## Connected Concepts
 

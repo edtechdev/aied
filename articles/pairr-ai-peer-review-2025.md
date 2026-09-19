@@ -1,7 +1,7 @@
 ---
 title: "Peer and AI Review + Reflection (PAIRR): A Human-Centered Approach to Formative Assessment"
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -30,9 +30,14 @@ page_kind: [framework]
 
 This [[mixed-methods-research|mixed-methods]] study implemented PAIRR in 10 distinct writing courses plus three large writing-intensive (WI) courses at a large R1 public university in the western US during winter and spring 2024. The 654 participating students were diverse (37% first-generation, 13% international, 68% [[multilingual-learning|multilingual]]). The intervention sequence: students read and reflected on articles about AI; drafted, provided/received peer review, then prompted ChatGPT for rubric-driven feedback; critically assessed both kinds of feedback and made revision plans; and revised and reflected on the process. Data included pre-/post-surveys, interviews with 4 faculty and 11 students, focus groups with 8 TAs and 1 reader, and 654 students' reflections and feedback assessments. Survey data were analyzed with descriptive/inferential statistics (binary logistic regression and chi-squared test in R); [[qualitative-research|qualitative]] data were thematically coded in MaxQDA using a stratified sub-sample of 131 students (20%) with open, axial, and selective coding and inter-rater reliability.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study offers a [[research-methods-aied|research]]-informed, human-centered model for integrating AI into [[formative-assessment]] in [[writing-education]]. It directly addresses the concern that AI feedback might remove humans from the assessment loop, showing that AI feedback only gains full utility when considered alongside the contextual knowledge and human connection that peers bring. The PAIRR model demonstrates how students' [[metacognition|critical assessment]] of AI outputs builds practical and critical [[ai-literacy]] while exercising writerly agency and discouraging [[cognitive-offloading|overreliance]]. It positions AI as a complement to — not a replacement for — peer and instructor feedback, relevant to [[ai-feedback-quality]], [[self-regulated-learning]], and efforts to bridge [[equity-in-ai-education]] gaps in writing support. The authors recommend centering humans in AI-integrated feedback, emphasizing metacognitive reflection and agency, and cultivating critical AI literacies that highlight AI's limitations and biases.
+- **Instructors.** Sequence feedback as peer review, then rubric-driven AI feedback, then critical comparison and a revision plan: of 654 students, 58% preferred combined feedback, against 36% preferring peers alone and 6% preferring AI alone.
+- **Instructors.** Have students judge both sources side by side rather than choosing one, since 75% saw similarities that reinforced confidence while the differences proved complementary — AI feedback was "overly general" to 31% and peer feedback more specific for 28%.
+- **Faculty developers.** Make reflection and revision planning a required step, because assessing AI output is where students built AI literacy and asserted writerly agency (only 5.3% showed overconfidence in AI feedback).
+- **Instructors.** Encourage students to continue the AI conversation when it is productive: 35% did so, and 71% of those preferred combined feedback versus 50% of those who did not.
+- **Administrators.** Scale the model to large writing-intensive courses as well as small classes: preferences did not differ statistically by course size across the 10 writing courses and three WI courses studied.
+
 
 ## Limitations
 

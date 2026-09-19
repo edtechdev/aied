@@ -1,7 +1,7 @@
 ---
 title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning]
@@ -39,8 +39,10 @@ The authors used a cross-sectional survey design with 480 undergraduate medical 
 
 ## Limitations
 
-The cross-sectional, non-experimental design limits causal inference despite theory-consistent directional modeling. Data are self-report measures collected at a single time point, which raises common-method-bias concerns; the moderated mediation effects are estimated from this single snapshot. The sample is drawn from medical students in one national context (Pakistan), bounding generalizability to other disciplines, institutions, and educational systems. AI usage, cognitive load, and self-regulated learning are all operationalized via standardized self-report instruments rather than objective behavioral measures.
-
+- The cross-sectional, non-experimental design limits causal inference despite theory-consistent directional modeling.
+- Data are self-report measures collected at a single time point, which raises common-method-bias concerns, and the moderated mediation effects are estimated from that single snapshot.
+- The sample is drawn from medical students in one national context (Pakistan), bounding generalizability to other disciplines, institutions and educational systems.
+- AI usage, cognitive load and self-regulated learning are all operationalized via standardized self-report instruments rather than objective behavioral measures.
 ## Connected Concepts
 
 - [[self-regulated-learning]]

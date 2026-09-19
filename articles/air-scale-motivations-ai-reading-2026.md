@@ -1,7 +1,7 @@
 ---
 title: "The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading"
 created: "2026-09-18T12:05:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 assessment: [educational-measurement, self-report-measures, assessment-validity]
@@ -56,10 +56,10 @@ Low-effort is the motive with the clearest risk profile. Its negative associatio
 - **Researchers.** Treat a motive score as a starting point rather than an outcome, because AIR measures enacted [[motivation]] and only prompt logs, verification behavior and time on text reveal whether a stated reason becomes a particular way of reading.
 
 ## Limitations
-Convergent validity was established against the AIMS Intrinsic Motivation and Identified Regulation subscales, on the reasoning that both instruments capture volitional, autonomy-aligned engagement with GenAI; the moderate-to-strong correlations, and the stronger alignment for Task-oriented and Feel-good, support reading those two as the most self-endorsed motives while Translation and Low-effort look more instrumental. Divergent validity came from preference for task switching — a reactive, habitual orientation conceptually distinct from deliberate purpose-driven use — and from [[self-report-measures|self-reported]] ADHD and learning-disability status, both of which proved unrelated to any subscale. Together these rule out AIR as a proxy for general digital multitasking or for attentional and learning difficulties.
-
-The limitations are stated plainly. The samples were primarily younger higher-education students recruited through Prolific, and because both age and education shape GenAI adoption, the [[educational-measurement|psychometrics]] may not transfer to older adults or to other educational backgrounds. ADHD and learning-disability status were single binary self-report items rather than clinically validated or dimensional measures. And most importantly, the scale measures motivation, not outcome: comprehension and knowledge transfer also depend on planning, monitoring and evaluation, processes that confident-sounding GenAI responses may undermine by encouraging [[cognitive-offloading|offloading]] and overestimation. AIR cannot say whether a reader's stated motive translates into a particular interaction pattern — only prompt logs, verification behavior and time on text can do that, which is exactly the combination the authors propose for future work.
-
+- Convergent validity was established against the AIMS Intrinsic Motivation and Identified Regulation subscales, on the reasoning that both capture volitional, autonomy-aligned engagement with GenAI; the moderate-to-strong correlations, stronger for Task-oriented and Feel-good, support reading those two as the most self-endorsed motives while Translation and Low-effort look more instrumental.
+- Divergent validity came only from preference for task switching and from self-reported ADHD and learning-disability status — both unrelated to any subscale — which rules out AIR as a proxy for general digital multitasking or attentional and learning difficulties but leaves the instrument's discriminant evidence on a narrow base.
+- The samples were primarily younger higher-education students recruited through Prolific, so because age and education shape GenAI adoption the [[educational-measurement|psychometrics]] may not transfer to older adults or other educational backgrounds; ADHD and learning-disability status were single binary self-report items rather than clinically validated or dimensional measures.
+- Most importantly, the scale measures [[motivation]], not outcome: comprehension and knowledge transfer also depend on planning, monitoring and evaluation, processes that confident-sounding GenAI responses may undermine by encouraging [[cognitive-offloading|offloading]] and overestimation; AIR cannot say whether a stated motive translates into a particular interaction pattern — only prompt logs, verification behavior and time on text can do that, which is the combination the authors propose for future work.
 ## Connected Concepts
 
 - [[assessment-validity]] — the convergent, divergent and structural evidence the AIR validation rests on

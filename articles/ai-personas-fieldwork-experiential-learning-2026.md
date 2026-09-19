@@ -1,7 +1,7 @@
 ---
 title: "AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?"
 created: "2026-09-16T08:12:20-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 pedagogy: [experiential-learning, social-emotional-learning]
@@ -36,13 +36,9 @@ methods: [qualitative-research]
 
 This is a qualitative case study of a single bounded context: the HEHI 303 Experiential Learning course of the Humanitarian Engineering Initiative at AUB during the 2024 conflict, when students could not reach communities for needs assessments. The design is descriptive rather than comparative. Each group wrote one prompt to generate personas for simulated stakeholder interviews and [[qualitative-research|focus group discussions]], and the unit of analysis is the resulting prompt-and-dialogue set, not the students. The paper frames the work as analyzing student reflections alongside AI-generated dialogue, but the reported Results are the prompt-by-prompt and aggregated ratings; no separate student-perception survey or reflection scores are presented. Data collection is dated to December 2024, anonymized before analysis and granted a retrospective IRB exemption because the activity was originally course assessment, not research.
 
-## Implications for Teaching Practice
-
-The authors' recommendations are conditional rather than enthusiastic. AI personas are appropriate when physical access to communities is impossible or unsafe, and as low-stakes rehearsal before real fieldwork, for practicing interview guides, stakeholder dynamics and question sequencing. They should not be treated as equivalent substitutes where emotional complexity, cultural specificity and interpersonal dynamics are themselves the learning objective. The suggested mitigation is structural: pair AI role-play with real interviews so students can compare, and train students to interrogate AI output for inconsistency, bias and cultural generalization rather than accept it as evidence. [[human-in-the-loop-ai|Instructor oversight]] is load-bearing throughout, because over-generalized or inaccurate persona claims (for instance, assuming all students had online access) can pass into student analysis unchecked.
-
 ## What this means for practice
 
-- **Instructors.** Pair every AI persona session with a real interview or community contact so students can compare emotional texture and disagreement against what the personas omit, and debrief that gap explicitly: Limitations and Gaps was the weakest indicator across all ten contexts (mean 3.20).
+- **Instructors.** Pair every AI persona session with a real interview or community contact so students can compare emotional texture and disagreement against what the personas omit, and debrief that gap explicitly: Limitations and Gaps was the weakest indicator across all ten contexts (mean 3.20). Train students to interrogate AI output for inconsistency, bias and cultural generalization rather than accept it as evidence, and keep [[human-in-the-loop-ai|instructor oversight]] on that output, because over-generalized claims (for instance, assuming all students had online access) can pass into student analysis unchecked.
 - **Instructors.** Require the seven-step persona routine — specify the task, define role and context, request detailed background, state the role-play, state the interview aim, provide an interview guide, ask for a conversational tone — and insist on locally specific detail, since authenticity was highest where prompts named concrete populations and settings (mean 4.38).
 - **Curriculum designers.** Reserve AI personas for situations where community access is unsafe or impossible, and for low-stakes rehearsal of interview guides and question sequencing; do not let them displace the interpersonal objectives of an [[experiential-learning|experiential learning]] course.
 - **Instructors.** Cap how many personas a student group tries to run inside one dialogue: 30 simultaneous Syrian women personas exceeded the model's capacity and the discussion collapsed into sequential interviews, landing Group Dynamics & Coherence at a mean of 3.80.
@@ -50,7 +46,10 @@ The authors' recommendations are conditional rather than enthusiastic. AI person
 
 ## Limitations
 
-The paper's own stated limitations are substantial and it is candid about them. The study is a single descriptive case inside one course at one institution during one conflict, and it reports no learning-outcome data, so it cannot show that persona practice produced better competencies than fieldwork would have. The evaluation rubric was applied only to AI-generated dialogue; traditional FGDs and interviews were used informally during prompt development rather than scored as a matched comparison dataset. The two raters were HEI research assistants actively involved in the course, and their agreement was weakest on exactly the indicator that matters most here, Limitations and Gaps at 60% exact agreement, which the authors concede reflects genuine ambiguity in those judgments. They also flag that the rubric measures response quality, not student learning, and that emotion, contradiction and cultural texture were consistently underplayed regardless of geographic setting. Finally, the practical limitations they list for wider adoption are technical accuracy, training-data bias, privacy exposure through personalization, resource intensity, and the risk that over-dependence on AI erodes the interpersonal skills that [[social-emotional-learning|social and emotional learning]] depends on.
+- The study is a single descriptive case inside one course at one institution during one conflict, and it reports no learning-outcome data, so it cannot show that persona practice produced better competencies than fieldwork would have.
+- The evaluation rubric was applied only to AI-generated dialogue; traditional FGDs and interviews were used informally during prompt development rather than scored as a matched comparison dataset.
+- The two raters were HEI research assistants actively involved in the course, and their agreement was weakest on Limitations and Gaps at 60% exact agreement; the rubric also measures response quality rather than student learning, with emotion, contradiction and cultural texture consistently underplayed regardless of geographic setting.
+- For wider adoption the authors list technical accuracy, training-data bias, privacy exposure through personalization, resource intensity, and the risk that over-dependence on AI erodes the interpersonal skills that [[social-emotional-learning|social and emotional learning]] depends on.
 
 ## Connected Concepts
 
