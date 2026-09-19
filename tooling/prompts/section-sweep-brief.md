@@ -51,6 +51,11 @@ immediately after it. Each canonical heading must appear exactly once.
 - Inline `[[wikilinks]]` in the new bullets only to slugs that exist — check with `os.path.exists` under
   `<WIKI>/concepts/`, `<WIKI>/articles/` or `<WIKI>/faqs/`.
 - Do not run the site build or any gate script.
+- Some saved full texts are very long (100,000+ characters). Do not read a whole file: search it for the
+  method, results, discussion and limitations passages with `grep -n` or a Python regex, then read those
+  ranges. Reading a large source end to end is what makes a batch run past its time limit.
+- Write nothing outside the article pages you were assigned. Do not create, edit or delete files in the
+  queue directory, do not rewrite your assignment list, and do not leave helper scripts behind.
 
 ## Report
 
