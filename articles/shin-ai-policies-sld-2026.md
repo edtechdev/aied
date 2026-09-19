@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 ethics: [accessibility, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
@@ -44,6 +44,21 @@ Experts prioritized teaching AI literacy to students with SLD as an empowerment 
 ## Relevance to the knowledge base
 
 This paper is a cornerstone reference for the knowledge base's accessibility/disability topic, directly contributing to [[educational-policy-ai]] (a concrete, validated set of AI policy recommendations), [[special-education]] (SLD-specific needs and IEP/FAPE legal grounding), [[inclusive-learning]] (the broad inclusion agenda), and the emerging [[accessibility]] concept (specific assistive/accommodation features). It provides an evidence base for how AI policies must be written to serve students with disabilities, offers a [[human-in-the-loop-ai]] methodology exemplar (LLM topic modeling + expert Delphi validation), and connects accessibility to ethics, equity, teacher preparation, assessment, and [[ai-literacy]].
+
+## What this means for practice
+
+- **Policymakers.** Close the SLD gap explicitly. Only 2 of the 12 U.S. AI-in-education policy documents analyzed address learning disabilities, so write SLD-specific provisions rather than assuming general AI policy covers these students.
+- **Policymakers.** Import the topics other disability and general AI policies already cover — AI risk assessment, data protection, legal risk management, and ethical guidelines — into SLD policy, where the study found them consistently absent.
+- **Administrators.** Start implementation with the theme experts ranked most essential: student empowerment and AI literacy, taught through explicit instruction, guided practice that builds [[self-efficacy]], and clear rules on responsible use and [[academic-integrity|plagiarism]] avoidance.
+- **Administrators.** Require that any AI written into an IEP or issued as an accommodation carries documented instruction and monitoring, since the paper ties unaccompanied deployment of AI accommodations directly to FAPE-related legal and ethical risk.
+- **Teacher educators.** Add AI literacy to both general and special education preparation programs, and make an institutional ethical statement the first, lowest-cost step toward [[educational-policy-ai|policy]] compliance.
+
+## Limitations
+
+- The Delphi panel was small and shrank across rounds: 23 experts were invited, 17 completed Round 1, and only 14 completed Round 2, so the 36 ranked policy items rest on those who stayed in the process.
+- Panelists were recruited purposively through academic networks, professional associations, and organizations against five qualification types, so priorities reflect that selected group's expert judgment rather than measured outcomes for students with SLD.
+- The document analysis covered 12 publicly available U.S. policy documents from a Westlaw search spanning January 2015 to March 2025; non-U.S. and non-public documents were out of scope, and only 2 of the 12 documents were SLD-specific.
+- Item generation was machine-assisted — structural topic modeling plus Sentence-BERT embeddings produced candidate items that researchers then manually reviewed and revised — and the SLD-specific policy corpus was thin, which constrains how much topic evidence those items can rest on.
 
 ## Connected Concepts
 

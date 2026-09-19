@@ -1,7 +1,7 @@
 ---
 title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
 created: "2026-08-23T08:15:00-04:00"
-updated: "2026-08-23T09:30:00-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [productive-failure, scaffolding, socratic-method]
@@ -37,6 +37,20 @@ Defined as the widening chasm between the **surface-level competence** a student
 ## Relevance to the knowledge base
 
 This perspective paper is a strong conceptual argument linking productive-struggle/[[productive-failure]] [[pedagogy]] to AI design, complementing the critique of Oracle-style answer-giving models. It connects directly to [[cognitive-offloading]] (AI that substitutes for effort erodes capacity), [[scaffolding]] (support that preserves rather than bypasses effort), and [[socratic-method]] (withholding answers to provoke reasoning). The "Safety Gap" concept is useful for the knowledge base's discussion of AI reliance, [[trust]], and [[student-experience]].
+
+## What this means for practice
+
+- **Learners.** Test your own understanding without the tool: after any AI-assisted diagnosis or draft, attempt the same task unaided and record where your reasoning breaks down — that gap is the safety gap the authors describe.
+- **Learners.** Ask [[generative-ai|AI tools]] for questions, counterarguments, and prompts for your reasoning rather than finished answers, so the tool exercises your judgment instead of replacing the process that builds it.
+- **Instructors.** Assess the process, not only the product: require students to show their reasoning steps, justify each decision, and defend the work under follow-up questioning in [[medical-education|clinical]] or comparable high-stakes settings.
+- **Instructors.** Build deliberate friction into assignments by withholding worked solutions until students have attempted the problem, and grade how well they verify and critique AI-generated output.
+
+## Limitations
+
+- This is a perspective paper, not an empirical study: the "safety gap" is defined and argued conceptually, so the divergence between AI-assisted and unassisted performance is never measured, quantified, or tracked over time.
+- The argument is located in [[medical-education|medical education]], where clinical competency is non-negotiable; its transfer to other [[discipline-specific-aied|disciplines]], levels, and less consequential assessment contexts is asserted rather than tested.
+- The Socratic and Adversarial AI architectures are design prescriptions: no system is implemented or evaluated here, and the paper reports no evidence that withholding solutions or adding adversarial prompts preserves [[productive-failure|productive struggle]] or improves learning.
+- No novel data, effect sizes, or comparative results are reported; the case rests on the recent literature the authors synthesize, leaving claims about novice learners in particular — the group the paper singles out as most at risk — untested.
 
 ## Connected Concepts
 
