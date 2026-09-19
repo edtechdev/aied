@@ -61,3 +61,20 @@ immediately after it. Each canonical heading must appear exactly once.
 
 Per page, tersely: slug, section(s) added or merged, bullet count, and anything you judged too substantive to
 drop. Name any blocker instead of working around it.
+
+## Turn economy
+
+Reads and greps here return in well under a second; the time limit is spent on model turns, which can run to minutes. Batch aggressively: read every assigned page in one turn, read or search the sources you need in the next, write all the edits in the turn after that. Do not re-read anything you have already read.
+
+## Write as you go
+
+One worker used 42 turns exploring: checking audience facets, testing whether wikilink slugs exist, reading source
+regions across seven pages, and drafting every page in its head. When the limit arrived it had written nothing.
+
+Draft and patch one page, then move to the next. A page on disk with four grounded bullets beats seven pages planned
+in detail. Two shortcuts that remove most of the exploration:
+
+- The audience labels you need are in the page's own `audience:` frontmatter. Read it; do not survey other pages to
+  infer the convention.
+- Link only concepts you have already seen in the page's existing Connected Concepts or body text. You then never
+  need a separate turn to test whether a slug resolves.

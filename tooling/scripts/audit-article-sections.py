@@ -96,11 +96,38 @@ def _figure_patterns(token: str) -> list[str]:
     return patterns
 
 
+DECIMAL = re.compile(r"\d+\.\d+")
+
+
+def _rounds_to(token: str, raw: str) -> bool:
+    """True when the source reports a more precise number that rounds to this one.
+
+    A page may round a table value - 0.7931 printed in the source becomes 0.79 on the page. That is fidelity,
+    not invention, so accept it. Only rounding counts: the source value must land on the token at the token's
+    own precision, so 0.79 matches 0.7931 and never matches 0.86.
+    """
+    if "." not in token or not re.fullmatch(r"\d+\.\d+", token):
+        return False
+    places = len(token.split(".")[1])
+    try:
+        want = float(token)
+    except ValueError:
+        return False
+    for candidate in DECIMAL.findall(raw):
+        try:
+            value = float(candidate)
+        except ValueError:
+            continue
+        if abs(round(value, places) - want) < 10 ** (-(places + 3)):
+            return True
+    return False
+
+
 def figure_in_text(token: str, raw: str) -> bool:
     for pattern in _figure_patterns(token):
         if re.search(pattern, raw):
             return True
-    return False
+    return _rounds_to(token, raw)
 
 
 def normalize_blob(text: str) -> str:
@@ -236,7 +263,6 @@ def audit(slug: str, known: set[str]) -> dict:
             for hit in NUMBER.finditer(strip_degrees_of_freedom(body)):
                 token = hit.group(0).strip(".,")
                 if len(token) < 3 or re.fullmatch(r'(?:19|20)\d{2}', token):
-                    continue
                     continue
                 if not figure_in_text(token, raw):
                     result["hard"].append(f"figure not in full text: {token} ({label})")
