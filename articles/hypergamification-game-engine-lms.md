@@ -1,7 +1,7 @@
 ---
 title: "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [active-learning, online-teaching-and-learning, student-engagement]
 technology: [learning-analytics, edtech-platform]
@@ -20,6 +20,20 @@ A working pilot implementation is demonstrated: an importable Unity package for 
 The approach differs from typical gamified LMS features (badges, points, leaderboards) by making the game the primary interface, with the potential to raise [[student-engagement|engagement]] but at the cost of substantial development effort and platform coupling.
 
 The authors discuss limitations (integration complexity, content-authoring burden, assessment alignment) and outline future work, positioning hypergamification as a design direction for fully [[game-based-learning|game-based course delivery]] rather than an evaluated intervention.
+
+## What this means for practice
+
+- **Instructors.** Build the game world from the LMS's actual learning content rather than bolting badges, points, or leaderboards onto a course; bidirectional integration is what distinguishes hypergamification from conventional gamified features.
+- **Designers.** Budget for the development effort before committing: the pilot was carried out by four senior undergraduate IT students as a capstone project and required a provisioned sandbox LMS plus application credentials.
+- **Administrators.** Check assessment alignment against the LMS API early, because student-scoped tokens returned no question content and no endpoints existed for posting runtime answers.
+- **Designers.** Plan for platform and build-target coupling — in the prototype, deep-link authorization worked only when the game was built for the legacy UWP target.
+
+## Limitations
+
+- This is a pilot prototype, not an evaluated intervention: the authors state the project focused on rapid prototype validation and deferred software optimization and architectural refinement, and no learner outcomes were measured.
+- Testing covered only 10 of 43 categories of endpoints, mainly GET requests to retrieve data; only CreateMessage() sent data back to the LMS.
+- Multiple-choice and open-ended assessment questions could not be rendered in the game, because student tokens returned no question content and no endpoint exists for posting runtime student answers.
+- Authorization used Unity deep linking that worked only for the UWP build target, a legacy framework no longer actively developed.
 
 ## Connected Concepts
 

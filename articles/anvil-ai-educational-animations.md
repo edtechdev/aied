@@ -1,7 +1,7 @@
 ---
 title: "ANVIL: Analogies and Videos for Lecturers"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [learning-design, teacher-role]
 technology: [generative-ai, llm, multimodal, visualization]
@@ -53,13 +53,19 @@ For video, where subjective quality is difficult to reproduce automatically and 
 
 Two focus groups with nine educators used a 60-minute semi-structured protocol grounded in concrete system outputs, with transcripts analyzed via inductive thematic analysis. Four themes emerged. First, educators saw ANVIL as a **creative collaborator**, not an autonomous content replacement: its core value was providing an initial metaphorical framing that could serve as a lecture icebreaker and a starting point for deeper discussion. Second, adoption depends on **instructor control and low-effort customization** — a black-box generator producing only a finished video was deemed impractical, with educators wanting to adjust objects, text, pacing, and terminology without learning manim, and several requesting natural-language refinement. Third, there is real risk of **pedagogical mismatch**: if a [[visualization]] does not preserve key constraints of the target concept, it can lead to divergent interpretations (the Stack-as-pile-of-pancakes animation weakened the sense of restricted access that defines a Stack). Fourth, utility is **context-dependent and modular**: educators preferred using ANVIL for supplementary or asynchronous learning and wanted to use only the Textual Layer to brainstorm analogies or start from a traditional explanation.
 
+## What this means for practice
+
+- **Instructors.** Plan to review the analogy and the animation before classroom use: in the focus groups the tool's value peaked when instructors could audit and correct its output, and concerns centered on control, editability and pedagogical mismatch with their own course.
+- **Instructors.** Treat generated visuals as a misconception risk as well as a teaching aid. The pipeline lowers the production barrier for abstract ideas, and flawed visualizations can propagate errors rather than clear them.
+- **Educational developers.** Adopt the two-tier evaluation the authors describe: expert judgment for pedagogical grounding, paired with modality-specific automation — an LLM judge screening analogies and a vision-language fidelity proxy auditing videos.
+- **Researchers.** Reuse the evaluation design where expert review is the bottleneck: the paper positions this pairing as a replicable blueprint for scalable, human-grounded assessment of AI-generated instructional media.
+
 ## Limitations
 
-The expert study covered a limited set of generated materials, and agreement was stronger for coarse adequacy judgments than for fine-grained ordinal distinctions, requiring label collapsing for threshold decisions. The automated measures are LLM/VLM-based and may reflect model biases; they do not directly capture visual aesthetics or pedagogical effectiveness, and low fidelity scores may partly reflect limitations in VLM-based reconstruction. Future work aims to improve action correctness through stronger constraints and verification across the screenplay and code layers, reduce instructor effort via lightweight editing and iterative refinement, and study ANVIL in authentic teaching workflows (e.g., introductory programming courses) with downstream measures of student understanding and [[student-experience|learner experience]].
-
-## Implications
-
-ANVIL demonstrates a viable blueprint for scalable, human-grounded evaluation of AI-generated instructional media, pairing expert judgment with modality-specific automation — an LLM judge for screening analogies and a VLM fidelity proxy for auditing videos. This two-tier evaluation strategy offers a replicable framework for the [[ai-ed-evaluation]] literature, addressing the scalability problem that constrains expert-only quality assessment. Pedagogically, ANVIL reinforces the argument that [[generative-ai]] is best deployed as an assistive, human-in-the-loop collaborator: its value peaks when instructors can review and edit the analogy and animation before classroom use, echoing [[scaffolding]] and [[human-in-the-loop-ai]] principles. The focus-group findings on instructor control, editability, and pedagogical mismatch carry direct implications for [[teacher-role]], [[educational-development]], and [[pedagogical-safety]] — educators will trust and adopt such tools only when they can audit and correct AI output. For [[cs-education]] and [[stem-education]] more broadly, automated analogy-to-video pipelines could substantially lower the production barrier for high-quality instructional animations, potentially improving [[student-engagement]] and [[motivation]] by making abstract concepts more concrete, while remaining attentive to the risk that flawed visualizations propagate [[misconceptions]].
+- **Narrow expert study.** The evaluation covered only a limited set of generated materials, judged by 11 educators (8 university professors and 3 PhD candidates) from five institutions across three countries, on nine topics.
+- **Agreement holds only at coarse grain.** Agreement was stronger for coarse adequacy judgments than for fine-grained ordinal distinctions (α ≤ 0.15), requiring label collapsing for threshold decisions.
+- **Automated measures are model-based proxies.** The automated measures are LLM/VLM-based and may reflect model biases; they do not directly capture visual aesthetics or pedagogical effectiveness, and low fidelity scores may partly reflect limitations in VLM-based reconstruction.
+- **No authentic-classroom evidence yet.** ANVIL has not been studied in real teaching workflows, so downstream effects on student understanding and [[student-experience|learner experience]] remain future work.
 
 ## Connected Concepts
 

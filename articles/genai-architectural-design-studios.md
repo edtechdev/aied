@@ -1,7 +1,7 @@
 ---
 title: Development and applications of Generative AI in architectural design studios
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [active-learning]
 technology: [generative-ai]
@@ -28,9 +28,20 @@ discipline: [design education]
 
 The research combined the development of a GenAI interface with its implementation in design education: GenAI models were used in design studios, feedback was collected, the GAI-A platform was developed and evaluated, and it was subsequently implemented in design education. Findings draw on students' views and observations, including semi-structured interviews with a focus group conducted in week 6 (W6) and week 13 (W13) of studio work, with coded design processes illustrating how GenAI entered the design workflow.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[design-thinking]]-oriented disciplines, the results suggest GenAI is best framed as an ideation resource whose value depends on [[pedagogy|pedagogical]] orchestration: students need guidance in model selection and critical discernment to exploit generative alternatives without falling into design fixation or aesthetic lock-in. These competencies extend the [[teacher-role]] in [[higher-ed]] studio pedagogy from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models.
+- **Instructors.** Teach model selection and discernment alongside generation. The study's central claim is that avoiding design fixation depends on competencies to differentiate between GenAI models and use them effectively, so many short comparison exercises with different models serve students better than proficiency with one.
+- **Instructors.** Sequence GenAI to the design stage rather than treating it as one uniform tool: in these studios students used it as visual stimuli and inspiration while exploring the unknown early on, as solution-space enhancement when developing preliminary ideas, and as externalization support during documentation.
+- **Learners.** Guard against aesthetic lock-in. Exposure to GenAI images can narrow focus by tying designers to specific aesthetics (Wadinambiarachchi et al., 2024), and the models in this studio showed a tendency to generate images of comparable style.
+- **Learners.** Build a personal style repository and prompt with it. The authors propose collaborating with GenAI using the designer's own collection of styles as the more promising route to an original architectural language.
+- **Instructors.** Make delegation an explicit object of studio critique, since students in this study valued the time savings while remaining hesitant to relinquish control of design decisions.
+
+## Limitations
+
+- The qualitative evidence rests on focus-group interviews with six participants (N = 6), each roughly 30 minutes, conducted at week 6 and week 13 of one part of a multi-semester study; the authors state that the small sample and the participants' limited experience preclude broad generalization.
+- Survey data came from a single cohort in the third semester (Case-III: 24 students enrolled, N = 18 at week 6 and N = 24 at week 13), and the study reports students' views and studio observations rather than a controlled comparison, so the documented patterns cannot establish that GenAI caused the reported creative gains.
+- Creativity itself is inherently subjective and resists objective evaluation, which the authors name as a central limitation: what one observer judges creative another may find banal, and the coded design processes map reported steps rather than measured originality.
+- Several findings are flagged by the authors as needing further research, including the claim that relinquishing control to GenAI establishes a new focal point for exploring creativity.
 
 ## Connected Concepts
 

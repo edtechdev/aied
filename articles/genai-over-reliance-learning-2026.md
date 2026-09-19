@@ -1,7 +1,7 @@
 ---
 title: "From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [motivation, self-regulated-learning]
@@ -40,7 +40,10 @@ The study employed a mixed-method design combining three-wave time-lagged survey
 
 ## Limitations
 
-The cross-sectional, self-report survey design limits causal inference despite the time-lagged structure. The sample is drawn from Chinese university students, bounding generalizability. Polychronicity and the AI-literacy/AI-evaluation constructs rely on self-report operationalizations. The qualitative strand, while informative, is limited to educator perspectives and does not directly capture students' behavioral mechanisms.
+- The cross-sectional, self-report survey design limits causal inference despite the time-lagged structure.
+- The sample is drawn from Chinese university students, bounding generalizability.
+- Polychronicity and the AI-literacy/AI-evaluation constructs rely on self-report operationalizations.
+- The qualitative strand, while informative, is limited to educator perspectives and does not directly capture students' behavioral mechanisms.
 
 ## Connected Concepts
 

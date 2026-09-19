@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Solves All Tested Qiskit Homework Assignments"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -40,18 +40,12 @@ The analysis identifies four reasons the defenses failed. First, **personalizati
 
 Third, **hidden grading is not hidden problem information**: hidden deterministic references made assignments autogradable and stopped students from reading an instructor answer file, but they did not prevent ChatGPT from deriving a correct answer from the public specification — the graders checked seeded configuration fields, expected bitstrings, ideal counts, dominant outcomes, and reflection presence or length without semantically validating every circuit or establishing independent authorship or understanding. Fourth, **machine-readable JSON and reflections created no resistance**: LLMs handle structured output well when a schema or example is supplied, and generic or result-specific reflections were generated fluently after ChatGPT had calculated or received the relevant values. The observed minor failures — missing packages, outdated Runtime syntax, occasional bit-order risk — were ordinary debugging issues that a student could paste back into the same conversation, consistent with quantum-code studies showing large gains from [[generative-ai|execution feedback]].
 
-## Implications for engineering education
-
-The negative result does not imply that personalization, autograding, simulator work, or hardware laboratories should be abandoned — each remains educationally and operationally valuable. The finding is that their presence in a take-home package should not be interpreted as evidence that the student independently performed the substantive work. A human-centric response distinguishes **AI-supported production** from **verified understanding**: students may use AI for syntax, setup, or debugging, while instructors directly assess whether they can explain and adapt the result. Recommended measures include a short oral defense tied to the student's own circuit and counts, a supervised modification of a qubit mapping, oracle, or input state, prediction of a new outcome before execution, a transfer task that changes the algorithmic structure rather than only the seed, semantic validation of submitted circuits where implementation is a learning outcome, and brief in-class checks connecting code, [[math-education|mathematics]], and observed hardware noise — a [[formative-assessment|formative]] counterweight to the take-home artifact.
-
-The study also cautions against equating more submission artifacts with stronger validity: a notebook, JSON file, transpiler statistics, QPY circuit, job identifier, and reflection can all be genuine while still assembled through an LLM-directed workflow. Assessment should specify which evidentiary claim each artifact supports — that execution occurred, that a circuit is semantically correct, or that the student understands and can transfer the concept — and correctly completed artifacts should be complemented by [[student-ai-interaction|direct assessment of conceptual understanding]]. The study is explicitly exploratory and negative, not proof that every Qiskit assignment is solvable: three fixed instances were tested at the introductory level, exact model labels and dates were preserved only for the nine archived sessions, no human participants were studied, and there was no randomized baseline or ablation isolating the effect of each deterrence layer.
-
 ## What this means for practice
 
 - **Instructors.** Add a short oral defense tied to the student's own circuit and counts, or a supervised modification of a qubit mapping, oracle, or input state; all 150 submitted artifacts passed the graders, so a completed notebook establishes nothing about who did the work.
 - **Instructors.** Ask students to predict a new outcome before execution and set a transfer task that changes the algorithmic structure rather than only the seed — the deterrence layers failed because [[personalized-learning|personalization]] varied parameters, not the task class.
 - **Assessment designers.** Specify which evidentiary claim each artifact supports — that execution occurred, that the circuit is semantically correct, or that the student understands and can transfer — because notebooks, JSON submissions, transpiler metrics, and reflections can all be genuine while assembled through an LLM-directed workflow.
-- **Instructors.** Allow AI for syntax, setup, and debugging and assess the explanation and validation reasoning directly; hidden grading verified consistency with the specification, not authorship.
+- **Instructors.** Allow AI for syntax, setup, and debugging and assess the explanation and validation reasoning directly through [[student-ai-interaction|direct assessment of conceptual understanding]]; hidden grading verified consistency with the specification, not authorship. Keep the package's personalization, autograding, simulator work and hardware labs — the negative result does not mean abandoning them — and add brief in-class checks that connect code, [[math-education|mathematics]] and observed hardware noise as a [[formative-assessment|formative]] counterweight to the take-home artifact.
 - **Researchers.** Report completion resistance as its own quantity: a zero-resilience result measures whether ChatGPT could finish the assignment, not whether a student learned anything.
 
 ## Limitations

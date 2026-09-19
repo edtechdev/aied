@@ -1,7 +1,7 @@
 ---
 title: "Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [motivation, student-engagement, self-efficacy]
 technology: [generative-ai, conversational-ai, pedagogical-agent]
@@ -54,7 +54,11 @@ The proposed mechanism links [[student-engagement|engagement]] and [[motivation]
 - **Researchers.** Read any effect against the cohort's starting point — prior relevance averaged 1.97 of 6 in a vocational medical track where math was already secondary to career training — before assuming the same script will move a general secondary class.
 
 ## Limitations
-The sample is one medical vocational high school, where students plausibly treat math as less important than practical training, so replication in general secondary settings is needed. A single one-hour session is short for interest development and even for durable relevance, and the authors propose multi-session designs, for example establishing relevance with AI before each lesson. The interviews deliberately contrasted extreme and typical cases, which leaves moderate performers unexamined. Clustering by class is unmodelled given three clusters, the measures are [[self-report-measures|self-report]], only one Chinese system was used, and the two-week window says nothing about longer persistence. Within those bounds the study's contribution is a correction to the design of AI-assisted relevance work rather than a demonstration that [[conversational-ai|conversational AI]] reliably raises interest in a school subject.
+
+- **Site.** The sample is one medical vocational high school, where students plausibly treat math as less important than practical training, so replication in general secondary settings is needed.
+- **Dose.** A single one-hour session is short for interest development and even for durable relevance, and the authors propose multi-session designs, for example establishing relevance with AI before each lesson.
+- **Design and measures.** Clustering by class is unmodelled given three clusters, the measures are [[self-report-measures|self-report]], only one Chinese system was used, and the interviews deliberately contrasted extreme and typical cases, which leaves moderate performers unexamined.
+- **Horizon.** The two-week window says nothing about longer persistence, so the study's contribution is a correction to the design of AI-assisted relevance work rather than a demonstration that [[conversational-ai|conversational AI]] reliably raises interest in a school subject.
 
 ## Connected Concepts
 

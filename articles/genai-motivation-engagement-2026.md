@@ -1,7 +1,7 @@
 ---
 title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -38,7 +38,10 @@ A [[quantitative-research|quantitative research]] design was used with data from
 
 ## Limitations
 
-The cross-sectional design limits causal inference, and the sample is drawn from a single Saudi university, bounding generalizability to other national and [[governance|institutional]] contexts. All measures are self-report, and the study's cross-sectional PLS-SEM analysis cannot establish temporal ordering among mediators and outcomes. The integration of three theories, while comprehensive, relies on the specific operationalization of autonomy support and autonomous motivation for AI use developed for this context.
+- The cross-sectional design limits causal inference, and the cross-sectional PLS-SEM analysis cannot establish temporal ordering among the mediators and outcomes.
+- The sample is drawn from a single Saudi university, bounding generalizability to other national and [[governance|institutional]] contexts.
+- All measures are self-report.
+- The integration of three theories, while comprehensive, relies on the specific operationalization of autonomy support and autonomous motivation for AI use developed for this context.
 
 ## Connected Concepts
 

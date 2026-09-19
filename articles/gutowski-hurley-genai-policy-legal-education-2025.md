@@ -1,7 +1,7 @@
 ---
 title: "Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education"
 created: "2026-09-18T05:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [socratic-method, experiential-learning]
@@ -49,11 +49,18 @@ Three features distinguish it from generic [[higher-ed|higher education]] govern
 - **Instructor discretion.** Policies should let instructors decide per course, because the professor is best placed to judge whether AI use undermines the competency a given assessment is meant to measure. Their example is permitting AI for legal research while prohibiting it in a writing assignment whose object is advanced analysis.
 
 ## What this means for practice
-The recommendations are procedural and deliberately modest: guidelines that are clear and comprehensive regardless of institutional stance; full involvement of students, faculty and staff in drafting, both to prevent backlash and to produce well-rounded rules; [[stakeholders|policymakers]] well informed about impact, enforceability and adaptability before they act; proactive training for students and faculty; governance designed to be flexible because the technology changes continuously; and periodic review, on the authors' view that policy generation is not a one-time event. Their closing position is institutional self-regulation: schools should not wait for the ABA to dictate policy but should share what works and govern collaboratively. They frame the whole exercise as a call to action and a commitment to integrity, while conceding that reasonable minds can differ on the substance.
+
+- **Administrators.** Adopt guidelines that are clear and comprehensive regardless of institutional stance.
+- **Administrators.** Involve students, faculty and staff fully in drafting those guidelines, both to prevent backlash and to produce well-rounded rules.
+- **Administrators.** Be well informed about impact, enforceability and adaptability before acting, build governance designed to be flexible because the technology changes continuously, and schedule periodic review on the authors’ view that policy generation is not a one-time event.
+- **Instructors.** Deliver and take part in proactive training for students and faculty, which the authors place alongside the rules themselves.
+- **Administrators.** Prefer institutional self-regulation: schools should not wait for the ABA to dictate policy but should share what works and govern collaboratively, a call to action and a commitment to integrity that concedes reasonable minds can differ on the substance.
 
 ## Limitations
 
-The article is a policy analysis, not an evaluation of learning outcomes: it does not measure whether permissive or prohibitive stances affect student learning, bar passage or practice readiness, and its policy canvass is a snapshot that the authors themselves expect to date quickly. The survey figures it relies on are limited by low response rates and [[self-report-measures|self-report]], and the model policies it holds up as exemplars are selected illustrations rather than a random sample, so the framework is best read as a governance instrument for institutions rather than as the sector's measured state.
+- It is a policy analysis, not an evaluation of learning outcomes: it does not measure whether permissive or prohibitive stances affect student learning, bar passage or practice readiness.
+- Its policy canvass is a snapshot the authors themselves expect to date quickly, and the survey figures it relies on are limited by low response rates and [[self-report-measures|self-report]].
+- The model policies it holds up as exemplars are selected illustrations rather than a random sample, so the framework is best read as a governance instrument for institutions rather than as the sector’s measured state.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm]
@@ -22,6 +22,20 @@ LLMs generated candidate labels and structured annotations at scale across three
 The resulting 72-item codebook was validated through systematic human coding of an independent 2,560-message sample, with reliability established via set-valued agreement measures; human coders extended the instrument with five codes the LLM-assisted phases had not surfaced.
 
 The article provides a procedural account (what LLMs can do, in which phases, under what safeguards) directly relevant to [[ai-ed-evaluation|AIED research methodology]] and to conceptualizing [[teacher-ai-competency|how educators actually use]] generative AI platforms.
+
+## What this means for practice
+
+- **Instructors.** Treat the LLM as a labeling instrument rather than an interpretive agent: let it propose candidate labels and structured annotations, but keep category definitions and merging decisions under human consensus.
+- **Instructors.** Read raw data alongside model outputs at every phase and memo when proposals are misleading, generic, or skewed toward surface features, so the sites of potential model bias stay inspectable.
+- **Researchers.** Run the human validation phase as constitutive, not as a check appended to an LLM method: coding an independent 2,560-message sample supplied reliability evidence no model consistency can give and surfaced five codes the LLM-assisted phases missed.
+- **Researchers.** Report intercoder agreement at every level of the hierarchy with set-valued measures such as Jaccard similarity, since a single chance-corrected coefficient at the finest granularity treats partial convergence as full disagreement.
+
+## Limitations
+
+- All data come from one AI platform, and the codebook's domains reflect the professional activity that platform supports; teams studying other populations should expect the structure to transfer more readily than the items.
+- The pipeline used specific commercial models available during the study period, so the particular candidate labels are not reproducible in the strict sense — only the prompts, procedures, and human decision points are.
+- Human coder agreement, while adequate for multi-label coding at this codebook size, leaves room for improvement, which is why the calibration protocol is part of the method.
+- The study observes educator requests and platform responses, not classroom implementation: it characterizes what educators sought from the AI rather than what they subsequently did with it.
 
 ## Connected Concepts
 

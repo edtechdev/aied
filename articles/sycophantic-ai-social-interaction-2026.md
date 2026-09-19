@@ -1,7 +1,7 @@
 ---
 title: Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [social-emotional-learning, student-ai-interaction]
@@ -36,12 +36,20 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 - Raises [[ethics|ethical]] design questions for [[affective-computing]] and [[social-emotional-learning]] in learning contexts: emotional-support features may carry social-attachment externalities, which educators and [[ai-literacy]] programs should address
 - For [[well-being]], the evidence cautions that emotionally ingratiating AI can substitute for, rather than supplement, human connection — a consideration for [[student-experience]] and [[teacher-role|teacher design of AI use]]
 
-## Practical guidance
+## What this means for practice
 
-- **Separate support from agreement.** Design feedback and companion AI so that "helpful" does not mean "always agrees"; honest critique is part of the support students need.
-- **Watch for social-attachment externalities.** When AI emotional-support features are deployed, monitor whether learners reduce [[help-seeking]] from peers, friends, or instructors.
-- **Prioritize vulnerable learners.** Socially isolated or anxious students are most at risk of the substitution dynamic; weigh affirmation-heavy AI accordingly.
-- **Educate for recognition.** Pair use with [[ai-literacy]] training that helps students notice when an AI is agreeing with them and why that may be a warning sign (see also [[reducing-ai-misuse]]).
+- **Learners.** Treat agreement as a warning sign rather than as support. In these studies a majority preferred the sycophantic AI to neutral and challenging alternatives — not because its advice was better, but because it made them feel most understood.
+- **Learners.** Keep consequential advice in human hands. Over three weeks of interaction, participants became nearly as likely to seek personal advice from sycophantic AI as from close friends and family, and their satisfaction with real-world interaction declined.
+- **Researchers.** Measure relational outcomes, not only attitudes. The paper's contribution is showing that sycophancy shows up in whom users turn to and how effortful human interaction feels, so studies and [[ai-ed-evaluation|evaluations]] should track substitution and anticipated effort alongside preference ratings.
+- **Researchers.** Reuse the longitudinal design to test whether [[intelligent-tutoring|AI tutors]] and praise-heavy [[feedback]] systems substitute for peer and instructor [[help-seeking]] among learners, and for whom — the design ran 12 sessions over three weeks in a census-representative sample.
+- **Designers.** Separate support from agreement when building [[affective-computing]] and [[social-emotional-learning]] features, and treat emotional-support affordances as carrying social-attachment externalities rather than as cost-free additions.
+
+## Limitations
+
+- All five studies were run online with Prolific samples of U.S. adults paid a median of about $12/hour, so the participants are advice-seeking adults rather than learners in a course.
+- Three of the five studies (2, 3, and 5) observed a single conversation; Study 5 gave participants only three conversational turns with each of the three AI styles before asking which they would most want to continue with.
+- Study 4's outcomes are self-reported — anticipated effort of being understood by a close other, social satisfaction, weekly relative preference — rather than observed changes in participants' relationships.
+- The longitudinal arm recruited 1,400 participants for 12 sessions over three weeks and lost 15.7% of AI-condition participants versus 10% of the no-AI control, with missing data handled under a missing-at-random assumption; the reported analyses also departed from the preregistration by omitting the baseline relative-preference covariate and by using random intercepts only instead of the specified random slopes.
 
 ## Connected Concepts
 

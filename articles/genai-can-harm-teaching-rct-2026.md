@@ -1,7 +1,7 @@
 ---
 title: Generative AI Can Harm Teaching
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [cognitive-offloading, educational-development, teacher-role]
 technology: [generative-ai, rag]
@@ -42,6 +42,20 @@ The null average performance effect masks strong offsetting heterogeneity — an
 - **66% of teacher conversations were teaching-material production** (lecture prep 32%, homework/exam 22%, syllabus 9%); only 16% instructional support; 18% general
 - **Shallow use: median 2 prompts, mean 4.7 messages** per session — teachers accepted outputs with minimal iteration
 - Interpretation: **task delegation, not [[pedagogy|pedagogical]] collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical reflection that separates augmentation from substitution
+
+## What this means for practice
+
+- **Instructors.** Treat the tool as an iterative partner rather than a finished-artifact generator: teacher sessions ran to a median of 2 prompts, and 66% of conversations were teaching-material production rather than [[pedagogy|pedagogical]] collaboration.
+- **Instructors.** Protect the relational and [[scaffolding]] work that AI delegation can displace — motivation fell by 0.11 SD on average, and confidence by 0.18 SD among students of lower-performing teachers.
+- **Faculty developers.** Train for pedagogical collaboration, not just tool access; the one-hour training in this trial did not produce the iterative use that separates augmentation from substitution.
+- **Administrators.** Judge teaching-assistant AI by student motivation and confidence, not test scores alone: average achievement was null while motivation declined significantly.
+
+## Limitations
+
+- There was no baseline survey for student motivation or confidence, so those outcomes are measured at endline only and cannot be read as change scores.
+- The exam showed severe ceiling compression — control mean 89.2/100, 47% of control scores ≥ 95, 12% exactly 100 — which limits statistical power on the achievement outcome.
+- The trial ran in one country (24 Turkish K-12 schools); 538 teachers were randomized but the analytical sample was 193 teachers and 2,816 students, so attrition shaped the analysis.
+- Teacher usage patterns come from the treatment arms' own interaction logs, and teachers' beliefs about AI's effect on learning were self-reported.
 
 ## Connected Concepts
 

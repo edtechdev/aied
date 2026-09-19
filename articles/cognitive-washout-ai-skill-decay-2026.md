@@ -1,7 +1,7 @@
 ---
 title: "After the Assistant Leaves: Cognitive Washout Dynamics and the Reversibility of AI-Induced Skill Decay"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
@@ -45,10 +45,6 @@ The paper's central formalization is a **Washout Curve Model** with estimable pa
 
 From these it derives six falsifiable predictions about when each outcome should appear, and specifies a longitudinal protocol — three arms, three domains, twenty-two weeks, plus a small pilot stage to establish feasibility — detailed enough to preregister and run as written.
 
-## Implications for education, licensing, and design
-
-The framework bears directly on [[ai-education|education policy]], safety-critical licensing, and product design, each of which currently assumes — mostly without noticing — that induced skill losses are trivial or reversible. For schools deciding how much AI to permit, the unknown is whether students who used [[intelligent-tutoring|tutors]] all semester are ready for unassisted exams. For professions with licensing checks, it asks what assisted professionals can do unaided. For product teams, it asks what happens when an assistant is removed, changes, or fails. The paper's proposal is that scheduled, [[self-regulated-learning|self-regulated]] unassisted practice — dosed to the recovery curve — should replace moral arguments about AI with rational intervention.
-
 ## Contribution to the knowledge base
 
 Where most offloading research captures the *moment* of AI use, this paper formalizes the *aftermath* — the reversibility question that current [[cognitive-offloading|offloading]] findings (including the "coach vs. crutch" boundary and the distinction between [[layer-sensitive-cognitive-offloading-writing-2026|substitutive and duplicative offloading]]) imply but do not yet measure. It is a theory/protocol contribution (no new data), valuable for turning the field's accumulated evidence on [[cognitive-offloading|over-reliance]] into a testable longitudinal research agenda on skill retention and decay.
@@ -57,7 +53,7 @@ Where most offloading research captures the *moment* of AI use, this paper forma
 
 - **Instructors.** Schedule deliberate unassisted practice — periodic problem sets or exams with the assistant off — and dose it against how long deficits actually take to dissipate, following the FAA's manual-flying model instead of debating AI use morally.
 - **Instructors.** Probe skill under pressure, not only on routine tasks: the latent-scaffold outcome means performance can look recovered on easy cases while the deficit hides until a difficult, time-pressured case exposes it.
-- **Administrators.** Treat reversibility as the severity question. Before scaling [[intelligent-tutoring]], decide how you will measure what students can do unaided at exams, license reviews, and tool outages.
+- **Administrators.** Treat reversibility as the severity question — for [[ai-education|education policy]], safety-critical licensing and product design alike. Before scaling [[intelligent-tutoring]], decide how you will measure what students can do unaided at exams, license reviews, and tool outages.
 - **Researchers.** Instrument offloading dose from behavior — the fraction of attempts that begin with a request for a complete solution, latency to first prompt, and edit distance from suggestion to submission — so withdrawal effects can be estimated from existing usage logs.
 - **Researchers.** Run the withholding study itself: current [[cognitive-offloading]] evidence stops hours after assistance ends, and the weeks-long interval after that is where reversibility is decided.
 

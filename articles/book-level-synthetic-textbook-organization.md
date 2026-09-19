@@ -1,7 +1,7 @@
 ---
 title: "Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [generative-ai, llm, personalized-learning]
@@ -27,9 +27,20 @@ confidence: medium
 
 The authors argue that organization is not incidental. On the generation side, a book-level plan provides the [[scaffolding|scaffold]] needed to turn scattered retrieved materials into long, structured, and coherent textbook data rather than a collection of locally plausible passages. On the training side, preserving structure determines whether planned adjacent sections remain in a shared document with continuous positions and shared intra-document attention, or are split into independent examples with resets between sections.
 
-## Implications for AI in Education
+## What this means for practice
 
-For educational applications of [[llm]]s, the results indicate that the structure of training data is a design axis in its own right: pedagogically organized, book-level documents improve knowledge acquisition over isolated or locally rewritten content. The pipeline is scalable and source-grounded, offering a practical recipe for generating educational corpora at scale — of interest to [[research-methods-aied|researchers]] building synthetic textbooks for mid-training and to efforts that use [[generative-ai]] to produce learning materials. The controlled-comparison methodology also models how to isolate specific data-design factors, a discipline relevant to [[educational-nlp]] research on training data for education.
+- **Designers.** Package related synthetic content as book-level documents instead of independent chunks: the Full condition beat a content-matched Split condition by a mean gain of +1.02, so document packaging rather than the content itself carried the improvement.
+- **Designers.** Keep planned adjacent sections inside one document so continuous positions and intra-document attention survive training, rather than resetting between examples.
+- **Designers.** Spend effort on the structure, not just the text. Full also outperformed a retrieval-pool-matched Rephrase condition that rewrote documents individually without clustering, TOC planning or book assembly (+1.17 gain for Full), showing that organization did work that rewriting did not.
+- **Designers.** Budget the retrieval-infrastructure cost before adopting the pipeline — it requires a searchable corpus index, and only a research-licensed subset of the 686K-textbook, 32B-token corpus is released.
+- **Researchers.** Copy the control design when isolating a data-quality claim: content-matched, length-matched (RandomConcat) and pool-matched (Rephrase) conditions each remove a different confound, which is why the paper can attribute the gain to organization rather than length or content — a discipline relevant to [[educational-nlp]] work on training data for education.
+
+## Limitations
+
+- Each condition was trained once, so training-run variance remains unmeasured; the authors note that the aggregate gains are not driven by outlier benchmarks but do not estimate run-to-run variation.
+- Gains are averaged over 28 benchmarks (+1.09 overall, winning on 19/28), with the comparison against natural books at p = 0.044 on a one-sided sign test — a real but modest margin, evaluated on benchmark scores only, with no human or learning-outcome evaluation.
+- The benefit is demonstrated for mid-training of LMs, not for classroom use, and the pipeline depends on a searchable pre-training corpus index, adding preprocessing and retrieval overhead not available to users without a suitably indexed corpus.
+- Component ablations rely on a fixed LLM judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
 
 ## Connected Concepts
 

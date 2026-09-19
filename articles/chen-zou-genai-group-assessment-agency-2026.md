@@ -1,7 +1,7 @@
 ---
 title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -59,17 +59,11 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 - **Instructors' intentions and students' practices diverge in both directions.** Students used GenAI uncritically where collective adoption lowered perceived risk, and avoided it where they read the task as demanding situated knowledge. The study joins a growing line of work arguing that both perspectives must be examined together in [[group-work|group assessment]].
 - **The relational question is new.** Whether GenAI-mediated collaboration weakens or eases the relational labor through which group cohesion is conventionally built had not previously been posed in group-work research.
 
-## Implications for practice
-
-- **Make the negotiation an assessable outcome.** Units with group work should require teams to collectively justify and document how GenAI will and will not be used, rather than leaving the norm to emerge from peer pressure or risk perception.
-- **Build peer interaction into the process.** [[peer-assessment|Peer assessment]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-work|group assessment]] with process-oriented learning.
-- **Do not assume capability becomes collective.** If the assessment permits a divide-and-conquer structure, individually capable students may never pool what they know; the collaboration has to be designed for, not merely required in the rubric.
-- **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-[[regulation]] — or guarding against risk and unfamiliarity. The two call for different instructor responses.
-
 ## What this means for practice
 
-- **Instructors.** Make the evidence you require classroom-embedded and term-long. Groups that restrained GenAI did so because the task demanded situated knowledge built with classmates over the unit ("AI only knows that moment when you type"), so tasks answered by generic case content invite unexamined reliance.
+- **Instructors.** Make the evidence you require classroom-embedded and term-long. Groups that restrained GenAI did so because the task demanded situated knowledge built with classmates over the unit ("AI only knows that moment when you type"), so tasks answered by generic case content invite unexamined reliance. Read restraint carefully, too: students who avoid GenAI may be exercising normative self-[[self-regulated-learning|regulation]] rather than disengaging, and the two call for different responses.
 - **Instructors.** Design against divide-and-conquer. In the three groups where nothing changed, work was partitioned into individual subtasks completed on individual platforms, which let a graded group presentation finish without any collective GenAI practice.
+- **Instructors.** Make the negotiation of acceptable GenAI use an explicit, assessable outcome: require teams to justify and document how they will and will not use the tool, and stage [[peer-assessment|peer assessment]] and [[feedback]] as smaller tasks leading to the final product, since norms are negotiated through those interactions.
 - **Administrators.** Set the group-work norm deliberately rather than relying on the institutional "use only with explicit acknowledgement" policy: students read permissive collective climates as permission ("everyone in my group is using GenAI"), so the operative rule becomes peer pressure inside a group of three to five.
 - **Researchers.** Treat within-group variation as the unit of analysis. All three agency patterns appeared in one course under one policy, so instruments that place each group on a single enthusiasm-to-avoidance scale will flatten the reasoning that produced the behavior.
 

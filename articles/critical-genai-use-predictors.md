@@ -1,7 +1,7 @@
 ---
 title: GenAI Knowledge, Epistemic Orientation, and Intellectual Values Predict Undergraduate Students' Critical GenAI Use
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [learning-theories, metacognition]
@@ -43,11 +43,20 @@ page_kind: [evaluation]
 - **Perceived usefulness negatively correlated with NFC** (r = −0.27, p = 0.027): high-NFC students view GenAI utility more skeptically.
 - **NFC positively correlated with critical use** (r = 0.25, p = 0.044): the [[motivation|motivational]] drive to invest cognitive effort bridges AI literacy and actual critical behavior.
 
-## Implications
+## What this means for practice
 
-- Institutions should move **beyond basic tool training**: target conceptual misconceptions (e.g. via refutation texts), foster epistemic orientation and intellectual values (video-based interventions shown effective in prior Hefter work), and consider NFC when designing interventions (low-NFC learners may need extra incentives like feedback/interactivity).
-- Knowledge about **human learning** ([[metacognition|metacognitive]] understanding of [[cognitive-offloading|cognitive offloading]] costs) is proposed as an additional "meta-knowledge" predictor worth studying.
-- Limitations: small psychology-only sample (88% female), self-report critical-use scale, correlational design (no causality), and the risk that static knowledge-test items go stale as tools evolve — future work should use performance-based measures like the GLAT and objective behavior logs, and experimental/longitudinal designs.
+- **Learners.** Learn what the tool actually does before you rely on it: objective knowledge about GenAI predicted critical use (r = 0.31, p = 0.011) and self-reported knowledge more strongly (r = 0.55), and institutions should target conceptual misconceptions directly rather than offering basic tool training.
+- **Learners.** Cross-check outputs against sources and the literature as a habit, because confident error is the common failure: 97% of participants confidently believed GenAI performs web searches, and only 9% of participants had a misconception score below zero.
+- **Learners.** Treat intellectual [[student-engagement|engagement]] as worth the effort: intellectual values (β = 0.40) and epistemic orientation (β = 0.36) together accounted for about a third of the variance in critical GenAI use (R² = 0.33), and each is trainable.
+- **Learners.** Account for your own motivation and self-knowledge: need for cognition correlated with critical use (r = 0.25) and negatively with perceived usefulness (r = -0.27), so low-NFC learners may need added interactivity or feedback, and understanding the costs of [[cognitive-offloading]] is proposed as the missing "meta-knowledge" predictor.
+- **Learners.** Use [[refutation-text|refutation-based]] material and video interventions that challenge absolutist beliefs rather than assuming knowledge alone changes behavior.
+
+## Limitations
+
+- N = 67 undergraduate psychology students at one German university (59 female, 7 male, 1 n/a; mean age 22.58), recruited voluntarily through the university's research participant platform — the authors flag selection bias and note that psychology students' training in evaluating scientific sources may raise baseline epistemic orientation and intellectual values, while the 88% female sample limits generalizability.
+- Critical GenAI use was measured with a new 10-item self-report scale (α = 0.78); the authors acknowledge it carries the biases of subjective instruments and recommend performance-based measures such as the GLAT and objective behavior logs.
+- The design is correlational: "transitioning from correlational to experimental or longitudinal research designs is required to establish causality."
+- The sample was powered (target N = 68) only for medium-large predictive relationships, leaving little power for small or nuanced exploratory effects, and the knowledge test's items go stale as tools evolve — the study itself flags the web-search item as a limitation of this kind.
 
 ## Connected Concepts
 - [[cognitive-offloading]]
