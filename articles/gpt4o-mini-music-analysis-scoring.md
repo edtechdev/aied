@@ -1,7 +1,7 @@
 ---
 title: "Comparative Validation of GPT-4o-mini and Teacher Mean Scores for Automated Scoring of Music Analysis Responses: Single-Pass Deployment, Repeatability, and Strategy-Specific Bias"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [llm, rag]
 assessment: [assessment-validity, automated-assessment]
@@ -29,6 +29,19 @@ RAG showed systematic over-scoring; SC (self-consistency over 5 generations) was
 Dimension-level analysis: Terminology showed weaker agreement than Reasoning, indicating strategy-specific and dimension-specific scoring profiles.
 
 Operational use requires strategy-specific calibration, dimension-level validation, and continued [[human-in-the-loop-ai|human oversight]].
+
+## What this means for practice
+
+- **Designers.** Make few-shot chain-of-thought the default scoring configuration for open-ended music analysis: it showed the strongest agreement with teacher mean scores in both single-pass (ICC(2,1) = 0.657, QWK = 0.656) and median-aggregated conditions.
+- **Designers.** Do not let retrieval augmentation set the scoring standard on its own — RAG over-scored systematically (mean bias 1.787 and the largest error, RMSE 2.817) because it credited mention of disciplinary terms without checking accurate application.
+- **Instructors.** Use automated scores as preliminary marks or criterion-referenced feedback, and route responses with uncertain terminology, large cross-dimension discrepancies, or unusual score patterns to a teacher for review.
+- **Researchers.** Report dimension-level agreement, not only total scores: Terminology showed the lowest agreement for all three strategies, and strong performance on one dimension can numerically mask weakness on another.
+
+## Limitations
+
+- The study examined a single model (GPT-4o-mini), one music-analysis task, and one institutional context, using three runs at a temperature of 0.9; the authors state the findings may not generalize to other models, tasks, sampling settings, institutions, or high-stakes assessment contexts.
+- The corpus is 300 responses from a normal university in China, and the reference is the mean of three experienced music theory teachers, so agreement is measured against one small rater panel rather than an established benchmark.
+- Even the best strategy agreed only moderately with teacher means (ICC(2,1) = 0.657), and comparison covers just three prompting strategies, leaving the space of [[prompt-engineering|prompting]] designs largely unexplored.
 
 ## Connected Concepts
 

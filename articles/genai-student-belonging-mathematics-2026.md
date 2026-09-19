@@ -1,7 +1,7 @@
 ---
 title: "Using Generative AI to Foster Student Sense of Belonging in Mathematics"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [agency]
 pedagogy: [motivation, student-engagement]
@@ -51,9 +51,10 @@ The design is a one-group pre–post intervention study in a real educational se
 - **Designers.** Test a non-AI co-authoring version before adopting generative AI as the mechanism. The study shows that co-authoring moved belonging, not that generative AI was required to move it.
 
 ## Limitations
-The headline result is that a 30-minute authoring session, without solving a single problem, raised mathematics belonging by 4.79% (d = 0.48) while leaving interest, value and perceived ability statistically unchanged. The subscale pattern is the more informative finding: membership and acceptance — the components closest to "there is a place for me and my interests here" — moved, while trust in instructors and the anxiety-adjacent subscales did not. The authors' own reading is that repeated exposure is likely necessary to sustain or broaden the effect and that a longer intervention would be needed to reach subscales reflecting stable traits or systemic conditions.
-
-The limits follow from the same design. There is no control or comparison condition, so improvements cannot be separated from retest effects, session novelty or simply being paid attention; the sample is 43 students from three urban districts recruited in three groups, and although the power analysis justified that size for a moderate effect, the schools' reported demographics (96–100% economically disadvantaged, 86–96% Black, 4–5% Hispanic) mean the results speak to that population and not to mathematics classrooms in general. Only immediate post-session attitudes were measured — no delayed follow-up — and nothing about performance was tested, because the students never solved the problems they co-authored. The paper's own performance claim, that solving student co-authored problems should benefit authors and peers with similar experiences, is explicitly left as "an important test for the future studies". Finally, the intervention is inseparable from its [[personalized-learning|personalization]] machinery: the study shows that [[generative-ai|GenAI]]-mediated content co-authorship moved belonging, not that generative AI is required to do so.
+- There is no control or comparison condition, so the 4.79% belonging gain (d = 0.48) — with interest, value and perceived ability statistically unchanged — cannot be separated from retest effects, session novelty or simply being paid attention.
+- The sample is 43 students from three urban districts recruited in three groups, and although the power analysis justified that size for a moderate effect, the schools' reported demographics (96–100% economically disadvantaged, 86–96% Black, 4–5% Hispanic) mean the results speak to that population and not to mathematics classrooms in general.
+- Only immediate post-session attitudes were measured — no delayed follow-up — and nothing about performance was tested because the students never solved the problems they co-authored; the paper's own performance claim, that solving student co-authored problems should benefit authors and peers with similar experiences, is explicitly left as "an important test for the future studies".
+- The change was narrow and the intervention inseparable from its [[personalized-learning|personalization]] machinery: membership and acceptance moved while trust in instructors and the anxiety-adjacent subscales did not, the authors say repeated exposure and a longer intervention would be needed to reach subscales reflecting stable traits or systemic conditions, and the study shows that [[generative-ai|GenAI]]-mediated co-authorship moved belonging, not that generative AI is required to do so.
 
 ## Connected Concepts
 

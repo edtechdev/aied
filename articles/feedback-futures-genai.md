@@ -1,7 +1,7 @@
 ---
 title: "Feedback futures: beyond the limits of human and GenAI capacities"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [learning-theories]
@@ -50,6 +50,21 @@ The editors distill five recurring tensions from the special issue:
 - Policy cannot be purely top-down: acceptable GenAI support varies across courses and disciplines, and ambiguous institutional direction pushes responsibility down to individual teachers, individualizing the challenge.
 - Assessment reform should make learning processes visible rather than treating final products as direct evidence; institutions must be deliberate about when GenAI use is itself part of what is being assessed.
 - [[research-methods-aied|Research]] should move beyond self-report toward in-situ methods (think-aloud, trace/log data, stimulated recall) and toward how learners **orchestrate feedback across sources** (human, GenAI, artifactual) that differ in credibility and value. [[equity-in-ai-education|Equity]] research should track not just tool access but educationally productive use.
+
+## What this means for practice
+
+- **Instructors.** Design assessment sequences in which GenAI and human input are deliberately sequenced — drafting, GenAI-supported reflection, and revision cycles that require students to interpret and decide rather than simply accept generated output.
+- **Instructors.** Teach students to orchestrate feedback across human, GenAI, and artifactual sources that differ in credibility, and to extend [[feedback-literacy|feedback literacy]] with evaluative judgment, metacognitive monitoring, and [[ethics|ethical]] decision-making about when GenAI use substitutes for their own work.
+- **Faculty developers.** Build professional development around the design, relational, and pragmatic dimensions of teacher feedback literacy, which this editorial finds remain less well theorized in GenAI contexts than student feedback literacy.
+- **Administrators.** Supply clear institutional direction on what GenAI support is acceptable, rather than leaving ambiguous policy to migrate downward and individualize the challenge for individual teachers.
+- **Researchers.** Move beyond self-report toward in-situ methods — think-aloud, trace or log data, screenshot elicitation, stimulated recall — to study how learners and teachers actually work with feedback.
+
+## Limitations
+
+- This is an editorial synthesizing one special issue (AEHE 51(5)); it reports no primary data of its own, and its claims are interpretive rather than empirically tested.
+- The evidence base is the issue's seven papers, several of them small studies, so the editorial offers no sample statistics or effect sizes of its own.
+- Some of the evidence it leans on is itself self-report — for example survey perceptions of trust in [[genai-teacher-feedback-comparison]] — so claims about uptake and trust inherit that limitation.
+- The editorial notes that the human feedback quality underpinning assumptions of relational superiority was rarely verified in the 41 studies of Kaliisa et al.'s meta-analysis, leaving that premise theoretical.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "The Generative Artificial Intelligence Literacy Scale (GAILS): Development, Validation, and Measurement Invariance Across Sex and Occupational Status Groups"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 assessment: [educational-measurement, self-report-measures, assessment]
@@ -62,9 +62,10 @@ Two validity exercises support that reading. Construct validity rests on correla
 
 ## Limitations
 
-The evidence base is narrow in ways the authors acknowledge and in ways the design implies. The sample is North American adults only, and they call for validation across cultures, ethnicities, languages and socio-economic strata; children and adolescents are absent, so no developmental comparison is possible. Construct validity is limited to GenAI trust and acceptance, leaving the nomological network thin relative to the construct's breadth, and they propose adding frequency of use, information-verification and privacy-protection behaviors. With N = 341 against 34 items, subgroup power was marginal: the freelancer group had to be collapsed into the workforce, and the imbalanced age distribution left empty response categories for some items within some age groups and blocked any ethnicity analysis.
-
-The deeper limitation is the response format. The GAILS measures perceived competence — what people believe they can do — and the paper provides no behavioral or objective criterion against which those perceptions were checked, so over- or under-estimation is invisible in its validities, all of which are correlations with other self-reports. The fit evidence is also mixed, with RMSEA above the stated acceptable cutoff, and the manuscript's participant narrative and demographic table disagree slightly on the student count (130 versus 131) and on whether workforce means employed plus freelancers. As with all [[self-report-measures]], high reliability and clean factor structure establish internal coherence, not accuracy, and the authors are careful to frame the scale as a tool for identifying gaps and targeting support rather than for certifying capability.
+- **Sample.** The evidence base is North American adults only, and the authors call for validation across cultures, ethnicities, languages and socio-economic strata; children and adolescents are absent, so no developmental comparison is possible.
+- **Power.** With N = 341 against 34 items, subgroup power was marginal: the freelancer group (n = 68) had to be collapsed into the workforce, and the imbalanced age distribution left empty response categories for some items within some age groups and blocked any ethnicity analysis.
+- **Construct coverage.** Construct validity is limited to GenAI trust and acceptance, leaving the nomological network thin relative to the construct's breadth, and the authors propose adding frequency of use, information-verification and privacy-protection behaviors.
+- **Response format.** The GAILS measures perceived competence — what people believe they can do — and provides no behavioral or objective criterion against which those perceptions were checked, so over- or under-estimation stays invisible and every validity coefficient is a correlation with another self-report; the fit evidence is also mixed, with RMSEA above the stated acceptable cutoff. As with all [[self-report-measures]], high reliability and clean factor structure establish internal coherence, not accuracy, and the manuscript's participant narrative and demographic table disagree slightly on the student count (130 versus 131) and on whether workforce means employed plus freelancers.
 
 ## Connected Concepts
 

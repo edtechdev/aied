@@ -1,7 +1,7 @@
 ---
 title: "Once a Response, Always a Response: Detecting LLM-generated Text via Latent Prompt Restoration"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-09-19T10:56:42-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, ai-education]
 technology: [generative-ai, llm]
@@ -59,7 +59,9 @@ The method proved robust to adversarial transformation, obtaining the best score
 
 ## Limitations
 
-Like other zero-shot detectors, EchoPrompt still depends on the choice of proxy family, and the current prefix is empirically tuned rather than proven globally optimal. The authors also caution that automated detection carries risks: false positives may wrongly flag human writing as machine-generated, and false negatives may miss generated content — harms that are especially consequential in high-stakes settings. EchoPrompt is therefore best treated as an auxiliary signal rather than definitive evidence of authorship.
+- **Proxy-dependent detection.** Like other zero-shot detectors, EchoPrompt depends on the choice of proxy family, and its current prefix is empirically tuned rather than proven globally optimal.
+- **False positives and false negatives.** Automated detection may wrongly flag human writing as machine-generated or miss generated content — harms that are especially consequential in high-stakes settings.
+- **Not evidence of authorship.** EchoPrompt is best treated as an auxiliary signal rather than definitive evidence of who wrote a passage.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
 technology: [llm, rag, open-source]
@@ -27,6 +27,19 @@ All modules are Jupyter notebooks running locally or on Google Colab, delivered 
 Webinar drew 590+ live attendees (top-10 most-attended IEEE PES webinars) and 344+ repository visits within two weeks.
 
 Argues for engineering-grounded AI (EGAI): AI workflows should follow established engineering and power-system domain rules rather than acting as task-agnostic black boxes, supporting [[professional-training|professional training]] and [[curriculum-design|curriculum design]].
+
+## What this means for practice
+
+- **Instructors.** Structure AI instruction as a difficulty ladder — function approximation, surrogate modeling, optimization, control, physics-informed learning — so each method arrives attached to a power-system task rather than a generic dataset.
+- **Instructors.** Have students run and modify the notebooks locally or in Colab instead of reading them, addressing the barrier the community survey found most binding: 92 percent of the 52 respondents reported at least one obstacle, chiefly getting a model to start (48.1 percent) and hardware limits.
+- **Designers.** Pair every model with the domain rule it serves — a 5-bus power-flow surrogate, DRL for battery storage control, a PINN for the swing equation — so the engineering constraint in [[curriculum-design|curriculum design]] stays visible and verifiable.
+- **Faculty developers.** Reuse the webinar-plus-notebook format for [[professional-training|professional training]]; 590 or more live attendees and 344 or more repository visits within two weeks indicate the format reaches and engages practitioners.
+
+## Limitations
+
+- The modules are stated to be intentionally lightweight, with small demonstration settings chosen for speed rather than realism, so they teach workflow patterns rather than scale to realistic grid systems.
+- No formal classroom evaluation of learning outcomes was conducted; the evidence is a targeted community survey, webinar attendance, and repository-visit counts, and the authors name a controlled classroom study as future work.
+- The motivation survey rests on 52 self-selected respondents from the IEEE power and energy community, so the reported barrier rates describe that professional population rather than educators broadly.
 
 ## Connected Concepts
 

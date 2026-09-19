@@ -1,7 +1,7 @@
 ---
 title: "From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [curriculum-design, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -38,7 +38,10 @@ The study deployed a four-module role-prompted GenAI workflow — barrier analys
 
 ## Limitations
 
-The learner-outcome and process indicators were collected in the same session, making the process estimates descriptive rather than causal. Immediate unsupported application did not differ by condition, limiting evidence on transfer. The expert-rating rubric and the specific EAP genre constrain generalization to other disciplines and material types. Sample sizes per cell (n = 15) are modest, and the within-proficiency comparisons, while cleaner, rest on single-instructor-generated material versions.
+- **Design.** The learner-outcome and process indicators were collected in the same session, making the process estimates descriptive rather than causal.
+- **Transfer.** Immediate unsupported application did not differ by condition (F(2, 126) = 0.82, p = 0.445), limiting evidence on transfer.
+- **Generalizability.** The expert-rating rubric and the specific EAP genre constrain generalization to other disciplines and material types.
+- **Power and material provenance.** Sample sizes per cell (n = 15) are modest, and the within-proficiency comparisons, while cleaner, rest on single-instructor-generated material versions.
 
 ## Connected Concepts
 

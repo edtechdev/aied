@@ -1,7 +1,7 @@
 ---
 title: "\"It is a temptation to get it to do the work…\" Student Experiences of Navigating the Generative AI Landscape in UK Higher Education: A Cross-Institutional Survey with International Comparison"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -84,7 +84,9 @@ The authors interpret this as students seeking an "ethical fast lane rather than
 
 ## Limitations
 
-The authors acknowledge significant limitations. The convenience sample at 7 institutions is not representative of UK higher education as a whole, institutional response rates varied sharply, and non-response bias may skew results toward students with strong views. The UK survey was administered at the start of the academic year, when first-year and master's students may be less familiar with institutional approaches, whereas the Australian survey ran near the end of the year. Most fundamentally, [[research-methods-aied|self-report surveys]] capture behavioral intentions rather than actual actions, with social desirability and contextual pressures likely to under-report academic misconduct.
+- The convenience sample at 7 institutions is not representative of UK higher education as a whole: institutional response rates varied sharply, and non-response bias may skew results toward students with strong views.
+- The UK survey was administered at the start of the academic year, when first-year and master's students may be less familiar with institutional approaches, whereas the Australian survey ran near the end of the year.
+- [[research-methods-aied|Self-report surveys]] capture behavioral intentions rather than actual actions, with social desirability and contextual pressures likely to under-report academic misconduct.
 
 ## Connected Concepts
 

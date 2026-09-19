@@ -1,7 +1,7 @@
 ---
 title: "GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course"
 created: "2026-08-13T17:57:54-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -40,7 +40,10 @@ This is a Brief [[research-methods-aied|Research]] Report presenting the PAIRR m
 
 ## Limitations
 
-As a Brief Research Report focused on one course, the study's findings are largely descriptive and course-specific, and the article draws on the larger PAIRR study for broader claims. The Business Writing course sample is small (34 participating students of 46 enrolled). The authors note [[educational-policy-ai|AI policies]] vary substantially across institutions and courses, and the applicability of the model across different writing courses and contexts is discussed as future work rather than empirically demonstrated here.
+- As a Brief Research Report focused on one course, the study’s findings are largely descriptive and course-specific, and the article draws on the larger PAIRR study for its broader claims.
+- The Business Writing course sample is small: 34 participating students of 46 enrolled.
+- [[educational-policy-ai|AI policies]] vary substantially across institutions and courses, as the authors note.
+- The applicability of the model across different writing courses and contexts is discussed as future work rather than empirically demonstrated here.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "The Chain Behind the Claim: Warrantability in AI-Assisted Qualitative Research"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [generative-ai, learning-analytics, llm]
 ethics: [ethics, trust-calibration]
@@ -33,7 +33,7 @@ The essay's constructive proposals are representations that make inferential mov
 
 These are not audit paperwork for its own sake; they are *designed into research tools* so that producing fluent AI-assisted analysis also produces, by default, the pathway record that makes it warrantable. In doing so they extend the audit-trail tradition of Lincoln and Guba and adjacent transparency infrastructures in political science, into the generative era.
 
-## Implications for peer review and access
+## Benefits for peer review and access
 
 Two benefits follow. For **peer review**, warrant artifacts give reviewers something to check beyond the final interpretation — they can inspect the semantic lenses and source links to test whether a particular theme or prevalence claim is actually grounded, rather than taking the fluent summary on faith. This extends the field's emerging standards for reporting AI-assisted analysis in evaluable detail. For **access and equity**, making the pathway available for examination can widen participation in accountable AI-assisted inquiry: if the analytic route is transparent, more researchers (and more critical readers) can engage with and contest AI-mediated qualitative findings, rather than being shut out by the authority of a fluent output. The essay's stance is deliberately methodological rather than adversarial: AI-assisted qualitative research is not inherently illegitimate, but its claims need a visible chain of warrant, and that chain is currently too often missing.
 

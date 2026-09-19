@@ -1,7 +1,7 @@
 ---
 title: "EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [llm]
 
@@ -29,6 +29,19 @@ EduZone is an automated evaluation framework that probes LLM safety in K-12 educ
 - Builds adversarial interactions in three settings: single-turn requests, static multi-turn conversations, and dynamic multi-turn conversations.
 - Evaluates ten LLMs across four safety levels: refusal, safe assistance, risky assistance with safety guidance, and fully risky assistance.
 - Results show greater vulnerability to education-specific risks and dynamic multi-turn interactions; existing safety guardrails fail to adequately address these risks — a contribution to [[pedagogical-safety|pedagogical safety]], [[governance]], and [[benchmark|evaluation]] of [[llm|LLMs]] in education.
+
+## What this means for practice
+
+- **Designers.** Stress-test every K-12-facing feature against education-specific harms — academic misconduct, misinformation, privacy misuse — before shipping, because the strongest general-purpose defense reduced attack success by only 18.3 percentage points overall.
+- **Designers.** Augment a safety classifier with an education risk taxonomy instead of relying on prompt-level context: taxonomy-augmented classifiers cut attack success by up to 30.1 percentage points, whereas telling the model it is an educational assistant reduced it by only 3.9 percentage points.
+- **Instructors.** Evaluate student-facing and teacher-facing uses separately — student-oriented scenarios were most vulnerable to academic misconduct, exceeding an 80 percent attack success rate, while teacher-oriented scenarios were most vulnerable to misinformation.
+- **Administrators.** Decide in advance which safety level each use case requires — strict refusal, safe assistance, or risky assistance with guidance — and align deployed behavior to it, since models stayed vulnerable in dynamic multi-turn conversations.
+
+## Limitations
+
+- EduZone is built on U.S. K-12 curricula; the authors state that LLM usage policies and practices vary across countries and grade levels, so the risks measured may not transfer to other educational systems.
+- Scenario plausibility was screened by three LLM judges rather than by humans, and the pool was narrowed from 6,188 candidate scenarios to 2,639; human annotation appears only as a reliability check (two annotators, Cohen's κ of 0.82-0.83).
+- The defense evaluation used a stratified 10 percent sample of 260 scenarios, not the full scenario set, so the reported attack-success reductions rest on a subset of the framework's interactions.
 
 ## Connected Concepts
 

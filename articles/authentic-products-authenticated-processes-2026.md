@@ -1,7 +1,7 @@
 ---
 title: "From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, llm]
@@ -37,6 +37,21 @@ Crucially, the evidential question survives any [[educational-policy-ai|AI polic
 ## Operational tool
 
 The framework becomes a **review instrument for assessment briefs**: teams examine each dimension for evidence generated, validity risks, and redesign priorities — using a 4-point indicative alignment scale (weak → partial → substantial → strong). Not every assessment must maximize all six dimensions; across a program, tasks may emphasize different ones. It complements (rather than replaces) the [[ai-ed-evaluation|AI Assessment Scale]] by treating AI permissions as part of a defensible assessment argument, alongside fairness, agency, cognitive demand, and process evidence.
+
+## What this means for practice
+
+- **Instructors.** Rewrite briefs so they generate evidence for the inference you intend — about unaided capability, or about the capacity to direct, critique, and take responsibility for AI-supported work — whether AI is prohibited, permitted, or required.
+- **Instructors.** Add process evidence to product-based tasks: staged submissions, annotated decision rationales, feedback-use statements, oral defense, and process records are what make [[assessment-validity|validity]] defensible when polished products are cheap to produce.
+- **Administrators.** Review assessment at module and program level with the six dimensions as a briefing instrument and the four-point indicative alignment scale, accepting that not every task must maximize all six.
+- **Instructors.** Scaffold high-fidelity tasks deliberately, since realism can privilege particular communication styles, professional norms, and cultural capital; supply transparent criteria and equivalent routes to demonstrate achievement.
+- **Researchers.** Test redesigned authentic assessments against shared outcome measures and treat the framework as a heuristic for deliberation, not a scale to be scored and filed.
+
+## Limitations
+
+- The framework comes from a systematic conceptual review of 37 retained sources aimed at construct clarification rather than effect-size aggregation; the evidence base is characterized as conceptually expansive but operationally inconsistent.
+- It is a single-author review with no independent screening, coding, or inter-rater reliability check, drawing on an Anglophone, concept-heavy corpus.
+- The alignment scale is explicitly an indicative heuristic (weak, partial, substantial, strong), not a psychometric instrument, so the framework should not yet be used as a formal evaluation instrument.
+- The AI-aware validity dimension captures an emerging debate rather than settled evidence, and the authors note cross-disciplinary empirical evaluation of redesigned authentic assessments with shared outcome measures remains limited.
 
 ## Connected Concepts
 

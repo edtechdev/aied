@@ -1,7 +1,7 @@
 ---
 title: A review of intervention designs of LLM Integration in Undergraduate Computer Science Education
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [computational-thinking, learning-design]
 pedagogy: [scaffolding]
@@ -46,6 +46,20 @@ Java interventions showed more consistent gains; Python — despite dominance in
 This review is valuable because it shifts the conversation from "do LLMs work?" to "**what design choices make LLMs effective?**" The evidence strongly supports [[scaffolding]]-based approaches over simple tool access, reinforcing findings across the [[genai-meta-analysis-programming-learning]] literature. The "tool frustration" paradox is an important contribution — it suggests that poorly designed [[generative-ai]] integration can be worse than no integration at all.
 
 For [[higher-ed]] contexts, the review provides actionable guidance: semester-long Virtual Tutor designs with structured feedback outperform short-term coding-assistant interventions. This aligns with [[code-review-genai-cs1]] work on structured feedback and the broader [[cs-education]] push toward [[computational-thinking]] over syntax mastery.
+
+## What this means for practice
+
+- **Instructors.** Run LLM integration as a semester-long virtual tutor or peer with scaffolded feedback rather than a short-term coding assistant: all three tutor studies improved computational thinking and academic performance, while the eight task-and-coding-assistant studies split across measures.
+- **Instructors.** Teach prompt literacy and supply [[scaffolding]] before granting tool access, since students using LLMs without them reported significantly higher frustration than controls (p = 0.008, median 14 vs. 9) at equivalent performance.
+- **Instructional designers.** Build interventions on the four elements the review isolates: sustained scaffolding with gradual withdrawal, transparent interaction patterns, explicit meta-skill instruction in [[prompt-engineering]], and assessment redesigned around code evaluation and prompt crafting.
+- **Researchers.** Pre-specify outcomes, control conditions, and effect sizes with confidence intervals in any new trial, because the reviewed studies operationalize outcomes inconsistently, define control groups differently, and chronically underreport effect sizes and intervals.
+
+## Limitations
+
+- Only 13 experimental studies survived screening from 179 candidates (148 unique after deduplication), so each intervention archetype rests on a handful of studies — 3 for virtual tutors, 2 for exam and quiz help.
+- The included studies underreport effect sizes and confidence intervals, which blocks pooled or meta-analytic effect estimation.
+- Control conditions vary across studies (no internet access, no LLM access, historical data), so "control group" is not comparable from one study to the next.
+- Programming-language effects are not isolated: Java studies showed more consistent gains while Python, despite its dominance in CS1, lacks sufficient experimental data.
 
 ## Connected Concepts
 

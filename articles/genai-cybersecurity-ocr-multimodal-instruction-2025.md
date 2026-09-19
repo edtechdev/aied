@@ -1,7 +1,7 @@
 ---
 title: "Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [experiential-learning]
 technology: [ai-technologies, generative-ai, llm, pedagogical-agent]
@@ -35,7 +35,9 @@ This is a **[[research-methods-aied|research]]-category full paper** describing 
 
 ## Limitations
 
-The paper focuses on a specific cybersecurity lab context, and the described study's empirical evaluation scope is not fully detailed in the abstract. The emphasis is on workforce reskilling in cybersecurity, so generalizability to other disciplines and to traditional academic settings may be limited. The reliance on LLM assistance raises considerations about accuracy and oversight in instructional content.
+- **Single context.** The paper focuses on a specific cybersecurity lab context, and the described study's empirical evaluation scope is not fully detailed in the abstract.
+- **Generalizability.** The emphasis is on workforce reskilling in cybersecurity, so transfer to other disciplines and to traditional academic settings may be limited.
+- **AI accuracy and oversight.** The reliance on LLM assistance raises considerations about accuracy and oversight in instructional content.
 
 ## Connected Concepts
 

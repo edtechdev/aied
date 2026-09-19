@@ -12,7 +12,7 @@ audience: [instructors, researchers, learning designers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:29-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 ---
 
 > **Synthesis:** A pragmatic [[mixed-methods-research|mixed-methods]] study of 689 [[higher-ed|undergraduates]] in industry-education integration programs at a private Chinese university, plus interviews with 8 instructors, tested how the affordances of AI-generated content (AIGC) tools translate into [[self-regulated-learning|self-regulated learning]]. Using partial least squares structural equation modeling, the authors found that perceived AIGC affordance raised AIGC [[self-efficacy]] (beta = 0.583) and self-regulated learning directly (beta = 0.316), and that self-efficacy in turn lifted [[motivation|learning motivation]] (beta = 0.565) and self-[[regulation]] (beta = 0.250). [[ai-feedback-quality|Feedback quality]] strongly predicted satisfaction (beta = 0.712) but did not improve self-efficacy or self-regulation, and satisfaction had no significant effect on self-regulation. The headline claim is that AIGC works as a psychological catalyst rather than a productivity tool: benefits run through confidence and motivation, not through the tool itself.
@@ -29,23 +29,18 @@ The non-significant paths are the analytical core of the paper. Good AI feedback
 
 Measurement quality was high by conventional standards — factor loadings 0.891 to 0.933, Cronbach's alpha 0.895 to 0.936, composite reliability 0.925 to 0.954, average variance extracted 0.813 to 0.848, SRMR 0.058 for the estimated model, and 10,000 bootstrap resamples. The design remains cross-sectional and single-institution, however, so the directional [[sociocultural-learning|mediation]] claims rest on theory rather than on temporal ordering.
 
-## Implications for teaching with generative AI
-- Design for confidence first: the strongest lever on motivation and self-regulation in this model was AIGC self-efficacy, which is shaped by how much students feel able to direct the tool.
-- Do not treat well-received AI feedback as evidence of [[learning-gains|learning gains]]; satisfaction and self-regulation were statistically unrelated here.
-- Address program-level conditions (project variety, industry alignment, enterprise involvement) alongside tool-level design, because the interviews show the tool operates inside weak structures.
-- Treat these estimates as provisional: the sample is one institution, the model is cross-sectional, and the constructs are [[self-report-measures|self-reported]].
-
 ## What this means for practice
 
 - **Instructors.** Structure AIGC tasks so students direct the tool — deciding what to delegate and what to work through themselves — rather than receiving finished output, because perceived affordance worked through AIGC self-efficacy (beta = 0.583, p < 0.001), the strongest lever on motivation and self-regulation in this model.
 - **Instructors.** Embed prompt-and-reflect routines and verification rubrics that require students to justify and triangulate AI output, since self-efficacy (beta = 0.565 on motivation) and motivation (beta = 0.527 on self-regulation) carried the regulatory path while good feedback did not.
-- **Designers.** Stop treating well-received AI feedback as evidence of learning: feedback quality predicted satisfaction (beta = 0.712) but not self-efficacy (beta = 0.131, n.s.), and satisfaction did not predict self-regulated learning (beta = 0.032, n.s.), so build for confidence and motivation and evaluate against regulation measures instead of satisfaction scores.
+- **Designers.** Stop treating well-received AI feedback as evidence of [[learning-gains|learning gains]]: feedback quality predicted satisfaction (beta = 0.712) but not self-efficacy (beta = 0.131, n.s.), and satisfaction did not predict self-regulated learning (beta = 0.032, n.s.), so build for confidence and motivation and evaluate against regulation measures instead of satisfaction scores.
+- **Designers.** Fix program-level conditions alongside tool-level design — project variety, industry alignment and enterprise involvement — because the instructor interviews show the tool operating inside weak program structures, and the serial path only activates with authentic institutional support.
 - **Researchers.** Treat the serial order as a chain to be tested rather than assumed, collecting repeated measures of affordance, self-efficacy, motivation and self-regulation so the sequence can be examined rather than inferred from a cross-sectional survey.
 
 ## Limitations
 
 - The quantitative data come from one cross-sectional survey collected in October–November 2024 in a single private undergraduate institution in Guangzhou: 1,000 questionnaires distributed through the institution's LMS produced 689 valid responses (68.9%), and the authors state that cross-sectional data preclude strong causal claims about the serial mediation.
-- Every construct was self-reported on seven-point Likert items, so the affordance, self-efficacy, motivation and self-regulation paths share method variance.
+- Every construct was [[self-report-measures|self-reported]] on seven-point Likert items, so the affordance, self-efficacy, motivation and self-regulation paths share method variance.
 - Reverse causality remains plausible on the authors' own account — high self-regulated learners may selectively perceive AIGC affordances, and self-efficacy and motivation may reciprocally reinforce each other.
 - The qualitative strand consists of 8 instructors (enterprise mentors and academic supervisors, interviews of roughly 30 minutes) rather than students, and it documents curriculum–industry misalignment, limited project diversity and weak enterprise engagement rather than student-level mechanisms.
 

@@ -1,7 +1,7 @@
 ---
 title: "Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education, ai-literacy, educational-development, learning-design]
 technology: [pedagogical-llm-training]
@@ -37,7 +37,9 @@ This study used a **three-round Delphi method** with a panel of 30 teachers from
 
 ## Limitations
 
-The study's consensus was derived from a panel of 30 teachers, and the 75% agreement threshold and consensus criteria are inherently subjective (as the author notes, there are no universal standards for Delphi consensus). The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data; the framework's implementation effectiveness requires empirical validation in practice. The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel's judgments and may not generalize to all educational contexts.
+- Consensus came from a panel of 30 teachers, and the 75% agreement threshold and consensus criteria are inherently subjective: as the author notes, there are no universal standards for Delphi consensus.
+- The knowledge items reflect a teacher-perspective view and were validated through expert consensus rather than classroom outcome data, so the framework’s implementation effectiveness still requires empirical validation in practice.
+- The Delphi refinement process involved renaming and restructuring items, so the final 25-item list reflects the specific panel’s judgments and may not generalize to all educational contexts.
 
 ## Connected Concepts
 

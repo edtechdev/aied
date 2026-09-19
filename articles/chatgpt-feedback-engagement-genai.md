@@ -1,7 +1,7 @@
 ---
 title: "Students' engagement with ChatGPT feedback: implications for student feedback literacy in the context of generative artificial intelligence"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding]
@@ -48,10 +48,20 @@ institutions: [regulation]
 4. **[[ethics|Ethical]] decision-making** — deciding how, when, and why to use GenAI feedback so work remains authentic ([[academic-integrity|academic integrity]]).
 5. **Metacognitive skills** — setting feedback goals, planning prompts, self-monitoring interactions, and reflecting on the whole process.
 
-## Implications
+## What this means for practice
 
-- Feedback literacy and engagement are bidirectional and mutually reinforcing; the model proposed here (Figure 2) shows the four engagement dimensions interplaying with these five literacy capacities.
-- GenAI feedback can lower the emotional barrier to feedback seeking (important in power-hierarchical cultures — see [[genai-teacher-feedback-comparison]]'s "less risky" finding), but without metacognitive [[scaffolding]] students drift toward **superficial, high-uptake, low-transfer** use — a core [[cognitive-offloading|Over-Reliance]] risk.
+- **Learners.** Write prompts that name the target criterion — task response, coherence, lexical resource, grammar — instead of pasting the draft and accepting whatever comes back; prompt clarity largely determines the quality of what you get.
+- **Learners.** Compare deliberately rather than absorbing: set ChatGPT's comments against your original text, your earlier drafts, the IELTS band descriptors, and your teacher's previous comments, and then decide what to adopt (uptake in this study was 83.9%, but the revisions stayed local and superficial).
+- **Learners.** Set a feedback goal before you start and monitor your revision afterwards: only 5 of 16 participants monitored their process, 6 reflected only after finishing, and none used goal-setting or planning — the pattern the authors call metacognitive laziness.
+- **Learners.** Push the revision beyond grammar and vocabulary: prompts focused on local aspects (n = 104) far outnumbered those on content and structure (n = 55), and local-only edits are the least likely to transfer to your next piece of writing.
+- **Learners.** Verify before trusting: participants trusted ChatGPT on language forms (n = 11) but doubted its examples and evidence (n = 12), and only 1.6% of the 308 prompts questioned its credibility — and use the low-stakes calm of an AI exchange to ask the questions you would not bring to a tutor, while remembering that feedback literacy and engagement reinforce each other in both directions.
+
+## Limitations
+
+- Sixteen undergraduates were recruited by convenience sampling from a single elective course at one Hong Kong teacher-education university, all using ChatGPT 3.5, so the four-dimensional model rests on one small, self-selected group.
+- Each participant wrote one IELTS Writing Task 2 and revised it in a single sitting of 23 minutes to 1 hour 17 minutes; the study measures no later writing performance, so transfer claims are inferred rather than tested.
+- No control or comparison condition with human feedback was used, and the trust, affect, and metacognition findings come from stimulated-recall interviews held a day after the task — self-report about one's own thinking, not directly observed mental process.
+- None of the 16 participants had previously taken the IELTS test, so the revision behavior observed may not represent more experienced or higher-proficiency writers.
 
 ## Connected Concepts
 

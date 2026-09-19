@@ -1,7 +1,7 @@
 ---
 title: "IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [llm, personalized-learning, open-source]
@@ -28,9 +28,19 @@ level: [secondary, k 12]
 
 IKS-Instruct targets a gap in instruction tuning: existing datasets such as Alpaca, FLAN, and Dolly are dominated by English-language general-knowledge tasks and lack coverage of specialized pedagogical domains. The six source types are engineered so that each pair carries structured metadata — **source provenance, technique classification, language, subject, class level, and quality scores** — released in JSONL format. This design lets the dataset support both instruction-following and culturally grounded pedagogy rather than generic fact recall.
 
-## Implications for AI in Education
+## What this means for practice
 
-The evaluation shows that a compact, domain-tuned model can approach the IKS-specific quality of a far larger general-purpose model at a fraction of deployment cost, which matters for resource-constrained educational deployments and for [[language-learning]] and [[culturally-relevant-pedagogy]] in multilingual classrooms. The non-monotonic relationship between curation and quality also warns against assuming "more data is always better," reinforcing the value of technique-fidelity-aware evaluation when adapting LLMs to non-Western knowledge traditions.
+- **Software developers.** Fine-tune compact models on domain instruction data instead of renting general-purpose scale: the strongest 7B IKS fine-tune scored 6.39 under the five-judge panel, within 0.15 of Nemotron-Nano's 6.54 at a fraction of the deployment cost.
+- **Software developers.** Anchor every pair in identifiable source material — classical texts, curriculum templates, manually verified sutra demonstrations — rather than free generation, since 67% of auto-generated Vedic mathematics content was wrong before filtering.
+- **Designers.** Budget for bilingual pairs when targeting [[language-learning]] and [[culturally-relevant-pedagogy]] in under-resourced languages: Marathi and Bengali were absent from training, yet fine-tuned models demonstrated Vedic sutras there at a technique-fidelity score of 5.8 against 0.3 for the base model.
+- **Researchers.** Score with a fixed external judge panel and read absolute values as comparative within that panel only, because version gaps such as 6.39 versus 6.54 are small relative to judge noise.
+
+## Limitations
+
+- The language distribution is imbalanced — English at 36.1% against Malayalam at 6.3% — and fine-tuned models show weaker IKS capability in Telugu and Malayalam than in English and Hindi.
+- Quality rests on LLM judges, which favor longer responses, formal academic language, and their own generation patterns; the panel includes Llama-family judges while the fine-tunes are LoRA adapters on the Llama-based Airavata backbone, so residual self-preference cannot be excluded and human expert calibration is left to future work.
+- 67% of auto-generated Vedic mathematics pairs were erroneous before filtering, subtle errors may persist in retained pairs, and the manually verified v2.1 reduced coverage of mathematical techniques.
+- Coverage stops at the CBSE classes 6-12 alignment — no primary (classes 1-5) or higher education — and oral guru-shishya traditions and manuscript-only texts are structurally absent because the dataset is built from digitally available sources.
 
 ## Connected Concepts
 - [[llm]]

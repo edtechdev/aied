@@ -1,7 +1,7 @@
 ---
 title: "Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, llm]
@@ -45,11 +45,11 @@ The prior structure is the second difference. RoBMA's defaults are deliberately 
 - **Researchers.** Post data and analysis code with meta-analyses. This re-analysis was feasible because the original study's data were public, and the note's own R code is posted on the same basis.
 
 ## Limitations
-The two models tell a coherent story. The full-data model is dominated by uncertainty: a point estimate of .018, a credible interval straddling zero, and a Bayes factor below 1. Once the extreme outlier is removed, the substantive picture is less dramatic but unchanged in kind — the effect estimate roughly doubles to 0.245, but its interval [−0.128, 0.87] still includes zero, and heterogeneity remains high. Neither specification supports a large, dependable effect, which is the note's claim: not that generative AI cannot help writers, but that this evidence base does not demonstrate that it does.
 
-Read as [[research-methods-aied|methodology]], the note is an unusual kind of contribution. It supplies no new data, its data and R code are openly posted, and its entire argument is a re-estimation — a direct challenge to the practice of treating a headline effect size as settled. It sits in the same family as other critiques of the AI-in-education evidence base: [[bias-mitigation|bias]] diagnostics and [[assessment-validity|validity]] checks applied to research claims rather than to instruments.
-
-The limits are as real as the critique. The re-analysis concerns one outcome, writing, from one meta-analysis of 13 studies; the heterogeneity it reports means the pooled number was always a poor summary of a heterogeneous literature, in the original and the re-analysis alike. It is a single-author note with no DOI or venue in the source, whereas the original appeared in a peer-reviewed journal, so the asymmetry in scrutiny is worth naming. The informative μ prior is defensible and transparent but still a substantive choice, and different priors would produce different posteriors. Most importantly, the note shows that the large effect is not robust; it does not show the true effect is zero, nor does it adjudicate the quality of the 13 primary studies. Re-analysis is a test of a claim's stability, and stability is what the original claim failed.
+- The re-analysis concerns one outcome, writing, from one meta-analysis of 13 studies, and supplies no new data — its argument is a re-estimation in the same family as other critiques of the AI-in-education evidence base — so it cannot show the true effect is zero, nor adjudicate the quality of those 13 primary studies.
+- Both specifications stop short of a large, dependable effect: the full-data model gives a point estimate of .018 with a credible interval straddling zero and a Bayes factor below 1, and once the extreme outlier is removed the estimate roughly doubles to 0.245 with an interval of [−0.128, 0.87] that still includes zero, with heterogeneity remaining high.
+- It is a single-author note with no DOI or venue in the source, whereas the original appeared in a peer-reviewed journal, so the asymmetry in scrutiny between the two is worth naming.
+- The informative μ ~ Normal(.40, 1) prior is defensible and transparent but still a substantive choice: different priors would produce different posteriors.
 
 ## Connected Concepts
 

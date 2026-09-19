@@ -1,7 +1,7 @@
 ---
 title: Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [motivation, problem-solving, self-regulated-learning, transfer-of-learning]
 technology: [generative-ai, prompt-engineering]
@@ -54,7 +54,8 @@ The findings lay a foundation for broader [[prompt-engineering]] training and fo
 
 ## Limitations
 
-The online modality and small course size limited recruitment, and students self-selected into the extra-credit assignment, which may have skewed views toward the agreeable while excluding GenAI opponents. The reliance on written reflection responses rather than interviews may have contributed to moderate inter-rater agreement (Cohen's Kappa around 0.50–0.53), which is nonetheless in the acceptable range for this kind of [[qualitative-research]].
+- **Recruitment.** The online modality and small course size limited recruitment, and students self-selected into the extra-credit assignment (N = 49 reflections), which may have skewed views toward the agreeable while excluding GenAI opponents.
+- **Measurement.** Reliance on written reflection responses rather than interviews may have contributed to moderate inter-rater agreement (Cohen's Kappa around 0.50–0.53), which is nonetheless in the acceptable range for this kind of [[qualitative-research]].
 
 ## Connected Concepts
 

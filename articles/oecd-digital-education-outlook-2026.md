@@ -1,7 +1,7 @@
 ---
 title: "OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [pedagogy]
@@ -66,6 +66,21 @@ Four pillars: (1) human-centered teaching and learning with GenAI; (2) investmen
 ## Equity: AI Unplugged
 
 A large-scale experiment in rural Brazil (Ch.6) demonstrated that even with intermittent connectivity and minimal equipment, AI could provide feedback and guidance. Small language models running offline on mobile devices are identified as a promising avenue for bridging digital divides.
+
+## What this means for practice
+
+- **Instructors.** Build GenAI into tasks with an explicit pedagogical purpose rather than leaving it as an answer service: general-purpose chatbots improved the quality of student output, but the advantage disappeared and sometimes reversed once AI access was removed.
+- **Faculty developers.** Train staff toward augmentation — teachers and AI critiquing and refining each other's output — rather than replacement, which the report associates with deskilling.
+- **Administrators.** Target AI support where it moves outcomes most: low-experience tutors gained 9 percentage points in student pass rates with AI support, with smaller gains for experienced tutors, and secondary science teachers in England cut lesson and resource planning time by 31 percent.
+- **Administrators.** Assume students will use GenAI regardless and redesign accordingly — assignments that cannot be completed directly by a chatbot, oral defense in lab time, and conceptual paper exams produced comparable [[learning-gains|outcomes]] for groups with and without GenAI access in one reported course redesign.
+- **Researchers.** Measure retention, not task performance: in a randomized trial with about 1,600 students, AI-supported gains in peer feedback quality were not sustained after the tool was withdrawn.
+
+## Limitations
+
+- The Outlook is a secondary synthesis of existing empirical studies and expert input rather than new primary data collection, so its conclusions inherit the designs, samples, and settings of the studies reviewed.
+- Several headline figures come from single studies in specific settings — the 9-percentage-point pass-rate gain and the 31 percent planning-time reduction — and are reported without replication across systems.
+- The TALIS-based finding that 37 percent of teachers use GenAI for work-related tasks is flagged in the report itself as carrying a higher risk of non-response bias and should be interpreted with caution.
+- Evidence on synergy is mixed: a meta-analysis of 106 experimental studies of human-AI collaboration found that, on average, human-AI combinations performed worse than the best of either humans or AI alone, particularly on decision-making tasks.
 
 ## Connected Concepts
 

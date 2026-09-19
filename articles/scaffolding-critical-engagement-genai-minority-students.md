@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding critical engagement with GenAI: Transforming ethnic minority preparatory students' collaborative discourse"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding]
@@ -25,6 +25,20 @@ Using [[network-analysis|epistemic network analysis]] of collaborative discourse
 The design specifically targets the [[reducing-ai-misuse|cognitive-laziness risk]] of GenAI in [[equity-in-ai-education|equity contexts]] — where broader access could otherwise become an answer-engine shortcut — by [[scaffolding]] [[prompt-engineering|prompt engineering]] as a thinking practice.
 
 Results indicate [[pedagogy|pedagogical]] [[scaffolding]] can transform how minoritized students engage GenAI, with implications for [[prompt-engineering|prompt self-efficacy]] and collaborative discourse quality; findings support scaffolded rather than open-ended GenAI use for equity populations.
+
+## What this means for practice
+
+- **Instructors.** Scaffold GenAI use deliberately instead of leaving it open-ended: teacher modeling with contrasting cases plus a human-in-the-loop workflow moved this class from coordinating efficient copying toward critical evaluation, supporting scaffolded rather than open use with equity populations.
+- **Instructors.** Teach [[prompt-engineering|prompt engineering]] as a thinking practice, not a tool skill — the students' initial passive reliance stemmed from limited prompt literacy and a felt epistemic asymmetry with the tool, and both eased once prompting was framed as planning and evaluation.
+- **Instructors.** Expect and plan for "strategic repurposing": students first used strategy talk to organize efficient copying, so a scaffold needs explicit checkpoints that surface whether planning is aimed at producing output or at evaluating it.
+- **Learners.** Shift prompt planning from "what can I get the tool to produce" toward critical evaluation and peer co-construction; students who realigned their planning this way reported gains in prompt self-efficacy (pre-test mean 3.757 to post-test 3.991).
+- **Administrators.** Treat technical GenAI training as insufficient on its own and fund pedagogical support for under-resourced cohorts, where access without guidance shifts the divide from access to use.
+
+## Limitations
+
+- The study was an intact single class of 78 ethnic minority preparatory students at one elite university in northern China, so the authors state the findings may not generalize to other populations or educational settings.
+- It ran for only three weeks; the authors note that this is enough to observe immediate shifts in discourse and self-efficacy but does not show whether the critical collaborative habits persist as students move into undergraduate study.
+- Prompt self-efficacy was measured with an eight-item self-report Likert scale (complete pre/post data for 71 of 78 students), and the design had no control group — the reported gain comes from a paired-samples t-test only (t = 3.729, p < .001).
 
 ## Connected Concepts
 

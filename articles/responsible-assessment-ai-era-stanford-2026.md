@@ -1,7 +1,7 @@
 ---
 title: "Responsible Assessment in the AI Era: Key Insights from a Future-Focused Conference"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [learning-theories]
@@ -36,6 +36,21 @@ The report synthesizes a future-focused convening (January 29, 2026) on how asse
 - **Conversation-based assessment** — ECD-based AI-agent dialogue assessment aligns with [[socratic-tests-conversational-assessment]] and [[intelligent-tutoring]] design.
 - **Construct definitions** — the underdefined AI literacy / durable-skills problem echoes [[ai-literacy]] debates and educational-theory work on what AI-era competencies mean operationally.
 - **Equity & trust** — sociocultural responsiveness, bias in AI scoring, and human accountability map to [[equity-in-ai-education]], [[human-in-the-loop-ai]], and [[ai-ed-evaluation]].
+
+## What this means for practice
+
+- **Administrators.** Pilot continuous, embedded assessment and portfolio- or competency-based approaches, and reduce reliance on high-stakes one-time testing — the report's own action list for education systems.
+- **Administrators.** Fund validity infrastructure (data architectures, interoperable platforms, sustained human investment) as a precondition: the report states that without infrastructure, even the most advanced AI-supported assessment cannot function effectively.
+- **Instructors.** Extend [[formative-assessment]] with embedded feedback loops and set peer formative assessment against AI-generated feedback rather than replacing one with the other.
+- **Instructors.** Keep a human decision-maker at the end of the pipeline: AI scoring can capture construct-irrelevant features such as language competency instead of scientific reasoning, and the report's position is that AI can expand what is feasible but cannot be held accountable for assessment decisions.
+- **Researchers.** Develop validity standards for AI-assisted assessment and pin down currently underdefined constructs such as [[ai-literacy]] and durable skills before they are used to justify measurement claims.
+
+## Limitations
+
+- The report synthesizes a single one-day convening (January 29, 2026, drawing approximately 100 leaders from research, technology, K-12 schools, and higher education), so it is expert consensus rather than a study with a sample, instruments, or measured outcomes.
+- Its empirical anchors are cited from other sources — for example McKinsey's estimate that 30% of jobs will be automated within four years and the WEF figure that 39% of core skills will change by 2030 — and the report presents no new data of its own.
+- Claims about AI scoring validity (construct-irrelevant variance, construct underrepresentation, failures of generalization) are synthesized from prior research and convening discussion; the authors report no validity analyses of their own.
+- The stakeholder recommendations span systems, researchers, developers, and funders, but the convening's participant mix (research, technology, K-12, and higher education) is not a representative sample of the field the recommendations target.
 
 ## Connected Concepts
 

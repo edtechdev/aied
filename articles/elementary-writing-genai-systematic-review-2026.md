@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Elementary Education's Writing Instruction in The Age of Generative AI: A Systematic Review"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [creativity]
@@ -66,11 +66,9 @@ Across all four themes, the reviewed studies reveal concerns for diverse and [[m
 ## Limitations
 
 - The synthesis rests on eight peer-reviewed studies (2019–2025) re-screened from a broader K-12 [[ai-literacy|AI literacy]] review; a single study carries the writing-practice theme and three carry assessment, so no theme is more than weakly supported.
-- The screening prioritized educational level but did not systematically account for students' writing proficiency, linguistic background (ESL/EFL or multilingual), or specific literacy development needs — factors that foundational writing research shows shape writing performance.
+- The screening prioritized educational level but did not systematically account for students' writing proficiency, linguistic background (ESL/EFL or multilingual), or specific literacy development needs — factors that foundational writing research shows shape writing performance, and a gap the authors ask future work to close.
 - Coding was done independently by two researchers with no formal inter-rater reliability statistic, so trustworthiness rests on documented audit trails and consensus discussion rather than a reported agreement coefficient.
-- Several design recommendations lean on research outside the eight-study corpus, including an eye-tracking study of young learners' gaze patterns, so not every design claim is supported by the reviewed evidence itself.
-
-The authors recommend that future work account for variation in students' writing proficiency and linguistic background and pursue [[design-based-research|longitudinal and design-based studies]] of teacher mediation, student–AI interaction, and the balance between human and AI-supported feedback in authentic classroom settings.
+- Several design recommendations lean on research outside the eight-study corpus, including an eye-tracking study of young learners' gaze patterns, so not every design claim is supported by the reviewed evidence itself; the authors call for [[design-based-research|longitudinal and design-based studies]] of teacher mediation, student–AI interaction, and the balance between human and AI-supported feedback in authentic classroom settings.
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]

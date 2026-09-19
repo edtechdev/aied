@@ -1,7 +1,7 @@
 ---
 title: "CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm, prompt-engineering]
 assessment: [assessment-validity, automated-assessment, formative-assessment]
@@ -29,6 +29,21 @@ methods: [ai-ed-evaluation, benchmark]
 - Gains demonstrated **across domains**: science, computing, engineering (the generalization question most grading papers ignore)
 - **Teachers and students rate CoTAL effective** at scoring and explaining responses
 - Their feedback yields insights that improve grading accuracy and explanation quality
+
+## What this means for practice
+
+- **Assessment designers.** Fix the rubric before you touch the prompt: align each question and rubric to curriculum goals with Evidence-Centered Design, then engineer the [[prompt-engineering|prompt]] against that rubric.
+- **Assessment designers.** Budget for the prompt pipeline rather than for a bigger model: adding labeled examples, chain-of-thought reasoning chains, and active learning raised average subscore QWK by 10.9% and 24.5% on the Rules and Debugging tasks, and up to 38.9% over a non-prompt-engineered baseline, all with GPT-4.
+- **Assessment designers.** Treat explanations as part of the artifact: CoTAL's outputs justified scores by citing evidence from student responses and linking it to the rubric, but the same model fabricated information or diverged from human preference on 29 of 550 answers, so define a review step for the feedback students actually see.
+- **Instructors.** Run the human-in-the-loop cycle deliberately — teacher interviews and student review of generated scores and explanations — and use that feedback to revise prompts, assessments, and rubrics across iterations, as this study did with 2 teachers and 23 students.
+- **Instructors.** Use the tool where the stakes fit: the authors evaluated CoTAL post hoc on held-out test sets rather than in live classroom use, so keep generated scores as a drafting aid alongside your own judgment for [[formative-assessment]] evidence.
+
+## Limitations
+
+- The scoring evaluation is post hoc, on held-out test sets, not real-time classroom use — the authors state this constrains any inference about impact on student learning and classroom dynamics.
+- Stakeholder evidence is thin: two semi-structured teacher interviews and one 23-student focus group in a single classroom, all rating a single Science Concepts and Reasoning assessment.
+- Everything was run on one model, GPT-4 at temperature 0, and GPT-4's context window was too small to run Active Learning on the Debugging Task, so that result covers only part of the CoTAL pipeline.
+- Generalizability is demonstrated within one integrated STEM+C curriculum; the human-in-the-loop prompt engineering, especially active learning, is time-consuming, leaving the scalability and sustainability questions the authors raise unanswered.
 
 ## Connected Concepts
 

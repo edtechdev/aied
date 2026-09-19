@@ -1,7 +1,7 @@
 ---
 title: "Comparing Generative AI and teacher feedback: student perceptions of usefulness and trustworthiness"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
@@ -38,12 +38,20 @@ The two most frequent comparison themes were the nature of the feedback **inform
 - **22.5%** cited values: preference for human connection (4.3%) or no perceived need (6.3%).
 - Smaller shares: [[academic-integrity|academic integrity]] (9.1%), privacy (2.7%), wanting to preserve effortful learning (18 of 24 effort codes).
 
-## Implications
+## What this means for practice
 
-- Students already self-initiate GenAI feedback at scale, so institutions should actively support **how** students engage with it ([[feedback-literacy|feedback literacy]], evaluative judgment — cf. [[ai-literacy]]).
-- The trust gap (90.5% vs 60.1%) is not simply an accuracy verdict; it partly reflects source-credibility heuristics (Lipnevich & Smith 2008; Nazaretsky et al. 2024) and may be context-dependent (language-form advice vs deeply contextual course guidance).
-- The "less risky" property makes GenAI feedback valuable for feedback seeking, especially for anxious students — complementing [[chatgpt-feedback-engagement-genai]]'s "calm, stress-free" [[affective-computing|affective]] finding — while teacher feedback retains contextual expertise and relational recognition.
-- Directly challenges replacement narratives: GenAI is an **additional source**, not a substitute for the teacher-learner relationship (cf. [[ai-generated-feedback-higher-ed]], which found equivalent *outcomes* under strong assessment architecture — outcomes and *perceptions* can diverge).
+- **Instructors.** Assign GenAI and teacher feedback complementary roles: GenAI for accessible, low-stakes sense-making before submission, and teacher feedback for the contextual, beyond-the-task guidance students say it uniquely provides.
+- **Instructors.** Develop students' evaluative judgment so they can tell whether GenAI comments are trustworthy; only 60.1% rated AI feedback trustworthy versus 90.5% for teacher feedback, and the authors stress this judgment cannot rest on an uninformed impression.
+- **Instructors.** Close the awareness gap: 28.1% of students who did not use GenAI for feedback did not know it was possible or how to do it, even though 83.9% of those who used it found it helpful.
+- **Administrators.** Support how students engage with GenAI feedback, since 49.7% already self-initiate it, and address the negative tone students associate with teacher feedback (85.3% of negativity codes).
+- **Learners.** Use GenAI feedback to make sense of your work before submission while keeping teacher feedback as the source of course-specific expert judgment — the two are complementary but not interchangeable.
+
+## Limitations
+
+- Cross-sectional survey with an optional response: roughly 8,000 respondents from over 200,000 invited students, which the authors state cannot claim to be representative; 6,960 students answered the feedback items.
+- Helpfulness and trustworthiness are self-reported perceptions, not observed feedback use or measured learning outcomes.
+- All respondents came from four Australian universities, and Australian higher education may differ from other contexts.
+- The survey ran before most students had experienced GenAI feedback grounded in their curriculum or assignment resources, a development the authors expect could change perceptions significantly.
 
 ## Connected Concepts
 
