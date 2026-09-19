@@ -19,6 +19,16 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 7. **Verify** — link integrity must PASS: no same-text pipes `[[x|x]]`, no heading links, balanced `[[`/`]]`, no broken slugs (check against `concepts/` + `articles/` filenames + `conceptRedirects.ts`), no escape sequences. Then run the typed-metadata gate: `python3 tooling/scripts/validate-facets.py` (or `python3 tooling/scripts/run-gates.py` to run every gate). It is a hard gate, not a suggestion, and it lives in `wiki.config.yaml` under `build.gates`.
 8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `index.md`/`journal.md` + `llms*.txt` → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
 
+### Scheduled section sweep
+
+A nightly cron job (`AIEd article sections sweep (gated)`) runs the same work unattended, and its guards are the
+point of it: `tooling/scripts/section-sweep-queue.py` builds batch list files from the filesystem (never
+transcribed slugs), `tooling/prompts/section-sweep-brief.md` is the single brief every worker reads, and
+`tooling/scripts/audit-article-sections.py --slugs-file <batch>` gates each batch before anything is committed —
+a batch that fails is discarded with `git checkout --` and reported, never committed. The job commits locally
+and never pushes, so the push approval stays with the maintainer, which is the only review gate that catches
+prose that is structurally valid but reads wrong.
+
 ## Pitfalls
 - **Adding a canonical section next to a legacy heading creates the duplicate.** Before writing
   `## What this means for practice` or `## Limitations` onto a page, check for an older heading covering the
