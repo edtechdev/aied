@@ -49,6 +49,8 @@ For each NEW article, fetch the article page URL using `web_extract`.
 
 **Save full text when available** to `raw/papers/<doi-slug>.md` with frontmatter (source_url, ingested_date, doi). Reference it in the article's `sources:` field ONLY — never put `raw/` paths in the article body (`^[raw/...]` footnotes and `[local](raw/...)` links render as broken literal text on the live site; the Astro renderer doesn't process them and `raw/` isn't deployed).
 
+**Record the study's tool generation before promoting it.** For any paper measuring an effect of a specific AI tool, note the model/version and the data-collection window (method section: `GPT-3`, `GPT-4`, "free version", collection dates) and include both in the report. A comparison run on a superseded generation (pre-2024 / GPT-3.5-era) is a screening flag: report it so the maintainer can decline it, rather than queueing it for ingestion. See the ingestion skill's item 11.
+
 **If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): **DO NOT create an article page in the wiki.** Instead add the article to `AIED-BACKLOG.md` under its journal section (format: `- [Title](article-url) — [DOI: xxx](doi-url)`), include it in the report's FULL_TEXT_PENDING list, and update the backlog's total count. The maintainer will manually download each PDF and send it for full-text ingestion. Do NOT ingest an abstract-only article into the wiki when full text is unavailable.
 
 ### 4. Write article files

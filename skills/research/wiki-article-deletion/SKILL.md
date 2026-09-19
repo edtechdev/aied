@@ -41,6 +41,28 @@ Use when the user asks to **delete an article page** in the AI-ed research wiki 
 
 9. **Build, commit, push, verify live.** Regen llms files + `npm run build` (must be green) → commit (mention "audit N→M") → push → wait ~55s → `gh run list` BOTH workflows green → curl the deleted article URL for **404** (and touched pages for 200). A green build does NOT mean the deletion is live — verify the 404.
 
+## Withdrawal of a page whose claim is retired (distinct from a paywall deletion)
+
+When the reason is not "can't be sourced" but "the claim no longer holds" — the study's tool
+generation is superseded, a retraction, a field consensus that moved — the cleanup differs from the
+workflow above in four ways (exercised 2026-09-19 on a GPT-3.5-era comparison withdrawn the same day
+it was ingested):
+
+- **No redirect.** A paywall deletion and a rename redirect are about reaching the same content by
+  another path; here the content itself is what was rejected, so a 301 just carries the outdated
+  finding to a new address. Let the URL 404.
+- **Remove the narrative weave, not only the links.** A page ingested that same day is likely woven
+  into concept pages by *prose sentences*, not just Connected-list lines (the ingestion rule asks for
+  a narrative weave). Grep every concept page for the slug, delete the added sentence or bullet, and
+  where a paragraph mixed the withdrawn study with a surviving source, rewrite it so the survivor
+  stands alone rather than leaving a one-clause orphan.
+- **`log.md` gets a NEW entry; the old one gets a marker.** Unlike link lines, a same-day ingest entry
+  that describes a page now deleted will mislead the next reader. Append a fresh dated entry giving
+  the reason, and add a short "WITHDRAWN the same day — see the entry above" marker to the historical
+  bullet. Do not rewrite the history entry's substance, and do not touch older entries.
+- **Recount what the removal changes**: `index.md` article count, `journal.md` total entries, and any
+  audit file's total; then confirm the deleted URL returns 404 and every touched page 200.
+
 ## Pitfalls
 
 - **Deploy latency false-negative.** Right after push, the deploy workflow may still be in progress; the deleted URL can still return **200** from the not-yet-updated site. Check `gh run list` first — if deploy is still running, wait, then re-curl. Do NOT conclude "not deleted" from an immediate 200.
