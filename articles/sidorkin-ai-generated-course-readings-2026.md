@@ -1,7 +1,7 @@
 ---
 title: "From One-Size Texts to Tailored Readings: Student Experiences with AI-Generated Course Materials"
 created: "2026-09-14T11:10:12-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [scaffolding]

@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in computing education: A systematic review and a framework for responsible integration"
 created: "2026-09-11T11:35:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
@@ -71,25 +71,20 @@ The requirements are presented as bidirectional: verification practices fail wit
 
 The authors connect the requirements to three instructional-design traditions, answering the recurrent criticism that GenAI course-design proposals are under-theorized. **4C/ID** (van Merriënboer and Kirschner) grounds Verification and graduated access most directly: graduated AI access is a fading schedule applied to a powerful new form of support, and scaffold withdrawal is precisely the diminishing-support principle the model predicts is necessary for transfer — while the pseudo-apprenticeship pattern is the long-recognized limitation of modeling without whole-task practice. The **[[desirable-difficulties]]** framework (Bjork and Bjork) and the **[[sociocultural-learning|zone of proximal development]]** (Vygotsky) explain the prior-knowledge moderation: AI assistance helps only when the learner already has enough schema to engage critically with the output.
 
-## Implications for practice
-
-1. **Introduce GenAI gradually and only after foundational competence is demonstrated.** The evidence from the comprehension–completion trade-off, prior-knowledge moderation, and graduated access is strong enough that the authors recommend this as a default rather than an experiment.
-2. **Teach AI literacy explicitly** — [[prompt-engineering|prompt engineering]], output verification, and AI error analysis are teachable skills that do not develop through exposure alone.
-3. **Redesign at least one high-stakes assessment per course** to include an oral component or other process-visible element — described as the highest-leverage single intervention, supported both by the vulnerability evidence and by the demonstrated feasibility of oral and authentic strategies.
-
-The review also notes that generative AI in computing education sits at the center of a broader [[student-ai-interaction|human–AI interaction]] research agenda: how students learn alongside tools that perform the very tasks they are being taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
-
 ## What this means for practice
 
-- **Instructors.** Sequence AI access by demonstrated competence rather than by calendar or permission: withhold it during foundational weeks, permit guided use with mandatory code-explanation tasks, then require reflective critique of AI output.
-- **Instructors.** Make verification a graded, observable component of the task — reading, testing, modifying, explaining or critiquing the output — because the 36 studies showing efficiency gains sit alongside 21 showing those gains do not transfer without it.
-- **Curriculum designers.** Teach error analysis as a competence in its own right: students performed significantly worse correcting LLM-generated code than on traditional programming exam tasks, so it cannot be assumed to ride along with general programming skill.
+- **Instructors.** Sequence AI access by demonstrated competence rather than by calendar or permission — withhold it during foundational weeks, permit guided use with mandatory code-explanation tasks, then require reflective critique — and make verification a graded, observable component of the task, because the 36 studies showing efficiency gains sit alongside 21 showing those gains do not transfer without it.
+- **Curriculum designers.** Treat AI literacy as taught rather than assumed: [[prompt-engineering|prompt engineering]], output verification and error analysis do not develop through exposure alone, and students performed significantly worse correcting [[llm|LLM]]-generated code than on traditional programming exam tasks.
 - **Curriculum designers.** Add an oral or process-visible element to at least one high-stakes assessment per course — the review's highest-leverage single intervention — rather than relying on detection, which rests on only 3 of the 72 studies.
 - **Administrators.** Close the implementation gap with faculty development and assessment redesign rather than more primary research: most instructors operate at a tolerance rather than transformation level, and 70% of one national sample of faculty explicitly requested training on AI-resistant assessment design.
+- **Researchers.** Treat the setting as a standing research agenda: how students learn alongside tools that perform the very tasks they are taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
 
 ## Limitations
 
-A single reflective synthesis carries two kinds of caveat here. The corpus skews toward introductory courses, English-instruction contexts, and North America, Northern Europe and Australasia, limiting generalization to advanced courses and the [[global-south|global South]]; detection research is thin (3 studies) and equity research thinner (6) — the review's own framing is that these absences are findings, but they also bound what the framework can claim. Methodologically the synthesis combines heterogeneous designs without [[meta-analysis-systematic-review|meta-analytic]] effect pooling, and the authors mark the corpus counts as subject to re-tallying after a supplementary 2025–2026 search. This ingested version is an Elsevier **journal pre-proof** (accepted 9 September 2026), so pagination and copy-edited wording may change in the version of record.
+- The 72-study corpus skews toward introductory courses, English-instruction contexts and North America, Northern Europe and Australasia, so generalization to advanced courses and the [[global-south|global South]] is limited.
+- Detection research is thin (3 studies) and equity research thinner (6); the authors frame these absences as findings, but they also bound what the framework can claim.
+- The synthesis combines heterogeneous designs without [[meta-analysis-systematic-review|meta-analytic]] effect pooling, and the authors mark the corpus counts as subject to re-tallying after a supplementary 2025–2026 search.
+- This ingested version is an Elsevier journal pre-proof (accepted 9 September 2026), so pagination and copy-edited wording may change in the version of record.
 
 ## Connected Concepts
 

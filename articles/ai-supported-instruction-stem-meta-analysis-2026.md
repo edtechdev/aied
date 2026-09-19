@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis"
 created: "2026-09-16T09:14:31-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
@@ -42,21 +42,20 @@ The PRISMA flow records 450 records identified, 86 duplicates removed before scr
 
 Inclusion required an AI-supported intervention in a STEM field, an experimental or quasi-experimental design with comparison groups, measurable achievement outcomes and sufficient statistics (N, M, SD) for an effect size; book chapters and letters to the editor were excluded, while preprints, theses and conference papers were considered. Three researchers coded the studies: they first coded pilot studies jointly to standardize the form, then randomly assigned studies to two independent coders, reaching Cohen's Kappa κ = 0.93. Only one effect size was extracted per study to preserve statistical independence, and Hedges' g was chosen over Cohen's d because the correction factor reduces small-sample bias. Analyses used Comprehensive Meta-Analysis (CMA) 3.0.
 
-## Implications
-
-The authors argue AI should be treated as a [[pedagogical-partnerships|pedagogical partner]] rather than an autonomous instructional agent. Because effectiveness depends on design quality, they call for AI tools aligned with learning objectives and structured to manage cognitive load, and warn that poorly designed implementations risk superficial engagement, [[cognitive-offloading|over-reliance]] on [[ai-feedback-quality|automated feedback]], or overload. They stress [[teacher-ai-competency|teacher competence]] to evaluate AI outputs critically, and flag [[equity-in-ai-education|equity]] risk: differences in infrastructure, learner readiness and resources could let AI reinforce existing inequalities, so they recommend sustained, system-level integration instead of isolated short-term pilots.
-
 ## What this means for practice
 
-- **Instructors.** Target AI-supported instruction where the pooled effects were strongest — high school (g = 1.099) and university (g = 0.578) — rather than assuming uniform benefit across every grade band.
+- **Instructors.** Treat AI as a [[pedagogical-partnerships|pedagogical partner]] rather than an autonomous instructional agent: target it where the pooled effects were strongest — high school (g = 1.099) and university (g = 0.578) — and keep a [[teacher-ai-competency|teacher's competence to evaluate AI outputs critically]] over what it produces, since poorly designed use risks superficial engagement, [[cognitive-offloading|over-reliance]] on [[ai-feedback-quality|automated feedback]], and overload.
 - **Instructors.** Plan AI-supported units to run beyond a month but do not extend them on the assumption that longer is better: the strongest duration band was more than one month and up to two months (g = 0.833), and bands beyond it were weaker.
 - **Designers.** Align AI tools with the stated learning objectives and structure them to manage cognitive load, since the authors attribute variation in effect to instructional design quality rather than exposure time.
-- **Administrators.** Fund sustained, system-level integration instead of isolated short-term pilots, because most included interventions were short to medium term and their long-term effects remain unknown.
+- **Administrators.** Fund sustained, system-level integration instead of isolated short-term pilots, because most included interventions were short to medium term and their long-term effects remain unknown, and because differences in infrastructure, learner readiness and resources could let AI reinforce existing [[equity-in-ai-education|inequalities]].
 - **Researchers.** Report implementation fidelity, teacher involvement and learner characteristics alongside effect sizes, which the authors identify as the unmeasured moderators behind the residual heterogeneity.
 
 ## Limitations
 
-The authors state several limitations directly. Heterogeneity remained high, leaving a substantial share of variance unexplained and pointing to unmeasured moderators such as implementation fidelity, [[teacher-role|teacher]] involvement and learner characteristics. The predominance of short- to medium-term interventions limits what can be said about long-term [[sustainability]] and transfer, so longitudinal work is needed. The evidence base is mostly cognitive and achievement-focused, so affective, [[motivation|motivational]] and [[metacognition|metacognitive]] outcomes are underrepresented, and the role of [[generative-ai|generative AI]] in relation to accuracy, trust and [[critical-thinking|critical thinking]] needs more study. Cross-cultural and contextual comparisons remain underexplored. Critically, the authors did not apply a formal quality appraisal tool: methodological quality was operationalized through the predefined inclusion and exclusion criteria, which they describe as ensuring a minimum threshold of rigor, and the three studies excluded for poor quality were judged on that basis rather than a validated appraisal instrument. The borderline Begg's test (p = 0.0517) is also flagged as a reason for interpretive caution.
+- Heterogeneity remained high in the fixed-effect analysis (Q = 199.76, I2 = 82.98%), leaving a substantial share of variance unexplained and pointing to unmeasured moderators such as implementation fidelity, [[teacher-role|teacher]] involvement and learner characteristics.
+- The predominance of short- to medium-term interventions limits what can be said about long-term [[sustainability]] and transfer, so longitudinal work is needed.
+- The evidence base is mostly cognitive and achievement-focused, so affective, [[motivation|motivational]] and [[metacognition|metacognitive]] outcomes are underrepresented, the role of [[generative-ai|generative AI]] in relation to accuracy, trust and [[critical-thinking|critical thinking]] needs more study, and cross-cultural and contextual comparisons remain underexplored.
+- The authors applied no formal quality appraisal tool: methodological quality was operationalized through the predefined inclusion and exclusion criteria, and the three studies excluded for poor quality were judged on that basis rather than a validated instrument; the borderline Begg's test (p = 0.0517) is also flagged as a reason for interpretive caution.
 
 ## Connected Concepts
 
