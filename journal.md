@@ -226,7 +226,7 @@ Last updated: 2026-09-18 | Total entries: 1520
 ## 2026-09-10
 - 📄 [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
 - 📄 [[chen-zou-genai-group-assessment-agency-2026]] — Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective
-- 📘 [[evaluative-judgement]] — Evaluative Judgment
+- 📘 [[evaluative-judgment]] — Evaluative Judgment
 - 📘 [[group-work]] — Group Work
 - 📄 [[mccorkle-aligned-genai-course-policy-2025]] — Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach
 - 📄 [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education
