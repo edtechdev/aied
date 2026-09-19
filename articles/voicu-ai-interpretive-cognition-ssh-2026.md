@@ -1,7 +1,7 @@
 ---
 title: "AI-Mediated Learning and the Restructuring of Interpretive Cognition: A Developmental-Critical Model for Social Sciences and Humanities Education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 pedagogy: [metacognition]

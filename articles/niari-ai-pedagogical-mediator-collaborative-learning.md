@@ -1,7 +1,7 @@
 ---
 title: "Beyond Automation: AI as a Pedagogical Mediator in Collaborative Learning"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [agency, ai-education, human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, learning-theories, sociocultural-learning]
