@@ -1,7 +1,7 @@
 ---
 title: "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-09-16T17:23:24-04:00"
+updated: "2026-09-19T11:24:16-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [educational-nlp, generative-ai, learning-analytics, llm]
@@ -33,13 +33,19 @@ page_kind: [evaluation]
 
 The researchers treat coding quality not as a single accuracy number but along multiple dimensions: **structural** properties of the coded sequence, **transitional** patterns between consecutive codes, and **code-level** agreement for binary and ordered assignments. LLM outputs were produced with a [[prompt-engineering|prompting strategy]] that maintains a consistent context window, giving the model access to surrounding textual context needed for accurate interpretation (up to five preceding messages per utterance, with position slots T1–T8 inside messages). Each LLM-coded output was then compared against human coding using the two proposed evaluation approaches, including [[network-analysis|Transition Network Analysis]] (TNA) with permutation tests and centrality comparisons — e.g., significant betweenness and in-strength differences for Discussion, Feedback, Socializing, CoRegulation, and Consolidation.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings are a caution for the automated-feedback pipeline: LLMs can produce plausible-looking coding of temporal learner data, but systematic deviations from human judgment can cascade into downstream temporal analyses. The LLM's tendency to foreground surface-level social exchange (Socializing, Reaction) while under-representing regulatory and collaborative processes (Coordination, CoRegulation, Monitoring) risks painting a more rigid, socially-driven picture of group learning than humans would code. Practitioners should treat LLM coding as a **[[human-in-the-loop-ai|human-in-the-loop]]** proposition, validating outputs with the proposed evaluation metrics before feeding them into automated feedback systems — a relevant consideration for [[automated-assessment]] and [[educational-nlp]] work in [[learning-analytics]], and for any analysis of [[self-regulated-learning]] processes built on LLM-coded transcripts.
-
+- **Researchers.** Treat LLM coding as a **[[human-in-the-loop-ai|human-in-the-loop]]** proposition: validate its output with the proposed evaluation metrics before feeding it into automated feedback, which matters for [[automated-assessment]], [[educational-nlp]] and any [[learning-analytics]] analysis built on LLM-coded transcripts.
+- **Learning analytics designers.** Expect systematic rather than random deviation: the model foregrounded surface-level social exchange (Socializing, Reaction) and under-represented regulatory and collaborative processes (Coordination, CoRegulation, Monitoring), which risks painting a more rigid, socially-driven picture of group learning than human coders would produce.
+- **Learning analytics designers.** Protect the temporal analyses downstream: plausible-looking coding can cascade its deviations into later results, so the size of the disagreement matters more than how fluent the coding looks.
+- **Researchers.** Reconsider what counts as ground truth: human coding is treated as the reference here even though coding is interpretive and, in an ordered scheme, disagreement can come from where the text is segmented as much as from which code applies.
 ## Limitations
 
-The study evaluated a single dataset drawn from three courses at one institution where Discord was the collaboration medium, so generalizability to other learning processes, discourse types, and educational levels is untested. It relied on a single LLM (gemini-2.5-flash), a single prompting strategy, and a single codebook — even slight prompt changes can alter results, and a simpler codebook might have performed better. The context window was fixed at up to five preceding messages, with no systematic sensitivity analysis of window size. Finally, human coding is treated as "ground truth" even though qualitative coding is inherently interpretive; in ordered coding this is compounded because disagreement can [[stem-education|stem]] not only from code presence but from how text is segmented into codes.
+- **One dataset, one institution.** The evaluation used three courses at a single institution with Discord as the collaboration medium, so generalizability to other learning processes, discourse types and educational levels is untested.
+- **One model, one prompt, one codebook.** Results rest on a single LLM (gemini-2.5-flash), a single prompting strategy and a single codebook; even slight prompt changes can alter results, and a simpler codebook might have performed better.
+- **A fixed context window, untested.** The window was set at up to five preceding messages, with no systematic sensitivity analysis of its size.
+- **Human coding treated as ground truth.** Qualitative coding is inherently interpretive, and in ordered coding disagreement can stem not only from whether a code is present but from how the text is segmented into codes.
+
 
 ## Connected Concepts
 
