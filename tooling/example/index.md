@@ -1,11 +1,10 @@
-# Example Wiki Index
+# Index
 
-Last rebuilt: [DATE]
+Last updated: [DATE]
 
-## Articles
-
-- [[example-paper]] — Example Paper: A Guide to Getting Started
+Articles: 1 | Concepts: 1 | FAQs: 0
 
 ## Concepts
 
 - [[example-concept]] — Example Concept
+- [[example-paper]] — Example Paper: A Guide to Getting Started

@@ -37,6 +37,16 @@ REPO = Path(__file__).resolve().parents[2]
 # wise, poise, advertise, exercise, revise, compromise, premise, surprise) are
 # deliberately absent.
 WORDS = {
+    'centred': 'centered',
+    'defences': 'defenses',
+    'enrolments': 'enrollments',
+    'favouring': 'favoring',
+    'grey': 'gray',
+    'honoured': 'honored',
+    'humanising': 'humanizing',
+    'licences': 'licenses',
+    'skilful': 'skillful',
+    'visualisations': 'visualizations',
     "programme": "program", "programmes": "programs",
     "behaviour": "behavior", "behaviours": "behaviors", "behavioural": "behavioral",
     "behaviourally": "behaviorally", "behaviourism": "behaviorism", "behaviourist": "behaviorist",

@@ -23,7 +23,7 @@ confidence: high
 2. **The domain's [[physics-education|physics]] must be supplied explicitly.** Camelot Jr. demands precise stability, so the qualitative solver is guided by center-of-mass logic rather than inferring support from qualitative relations alone.
 3. **The model reasons about two spatial relations central to the puzzle** — path and support — covering the player's need to plan a route, keep platforms stable, and use all provided blocks.
 4. **The work targets skill training rather than game mastery.** Success is framed as supporting spatial-skill development in children, not as solving the puzzle optimally.
-5. **The authors position the solver as a foundation for human-centred game-playing agents**, with extension to other physical puzzle games as the next step.
+5. **The authors position the solver as a foundation for human-centered game-playing agents**, with extension to other physical puzzle games as the next step.
 
 ## Why an interpretable tutor matters more than a strong solver
 
