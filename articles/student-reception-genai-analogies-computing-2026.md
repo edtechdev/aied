@@ -1,7 +1,7 @@
 ---
 title: "Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [critical-thinking, misconceptions]
 pedagogy: [prior-knowledge, student-ai-interaction, student-engagement]
@@ -44,6 +44,21 @@ The paper's conceptual contribution is **two-sided analogy auditing**. Target-co
 ## Design implications and limitations
 
 The authors recommend three [[learning-design|design]] moves and one [[teacher-role|teaching]] move: personalize through source-domain *structure* rather than topical relevance alone; verify structural fit before delivering an analogy, because no amount of relevance rescues a broken mapping; and give learners control over personalization, including the option to see a generic explanation alongside a personalized one. The teaching move is the most consequential: assign flawed analogies as objects to inspect, question, and repair. The study's limits are stated clearly — personalization is confounded with explanation format (personalized items were analogies, generic ones were technical prose), so engagement effects cannot be attributed to personalization alone; a generic-analogy condition would be needed to separate them. Concept order was fixed, participants had already completed CS2 so their criteria may differ from true beginners', and their interests leaned toward gaming, sports, and popular media — the very reference space one participant found alienating. Four lessons (and several patterns resting on one or two accounts) follow from ten participants recruited by email from a pool of 667.
+
+## What this means for practice
+
+- **Instructors.** Assign flawed GenAI analogies as objects to inspect and repair rather than filtering them out: locating where a mapping breaks, such as a rally with no shrinking input, is itself a check on understanding recursion.
+- **Instructors.** Verify structural fit before delivering an analogy, because no amount of topical relevance rescues a broken mapping — students caught circular-route comparisons for singly linked lists and base cases that do not fit.
+- **Instructors.** Give learners control over personalization: offer a menu of candidate analogies, or reserve analogy for after a technical explanation has failed, since some students preferred plain technical prose even when the analogy matched their stated interest.
+- **Designers.** Personalize through source-domain structure rather than topical relevance alone, and audit the reference space — one participant flagged sport and gaming references from "the more male-dominated side of computing" as alienating.
+- **Researchers.** Separate format from personalization in the next design: a generic-analogy condition is needed because the personalized items were analogies while the generic ones were technical prose.
+
+## Limitations
+
+- Ten students recruited by email from a pool of 667 CS2 completers, each paid $30 per session, so several of the reported patterns rest on one or two accounts.
+- Personalization is confounded with explanation format — personalized items were analogies and generic items were technical prose — so the engagement and trust effects cannot be attributed to personalization alone.
+- Presentation order was counterbalanced within each concept, but the concept order (linked lists before recursion) was fixed for every participant.
+- The reflexive thematic analysis reports no intercoder reliability or consensus codebook, and participants' interests leaned toward gaming, sports and popular media, the very reference space one participant found alienating.
 
 ## Connected Concepts
 - [[cs-education]]

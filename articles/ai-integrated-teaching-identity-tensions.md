@@ -1,7 +1,7 @@
 ---
 title: "‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching"
 created: "2026-09-12T07:45:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [pedagogy]
@@ -53,6 +53,21 @@ That suggests [[educational-development|faculty development]] should support jud
 For researchers, the study argues that identity work is better studied over time than at a single point, since the tensions themselves shift: pedagogical tension intensified while role tension was reconfigured and ethical considerations consolidated into a sustained stance. The concept also supplies a way to describe teacher [[agency]] under technological change without implying that adaptation is the only competent response.
 
 **Limitations.** The study's interpretive depth rests on two experienced academics rather than breadth of representation, so findings are analytically rather than statistically generalizable and should be read as contextually embedded. The authors note that identity work is situated within broader institutional, disciplinary and cultural contexts that shape what educators can do, and call for research across wider ranges of participants and settings to see how organizational, cultural and policy environments condition principled selectivity.
+
+## What this means for practice
+
+- **Instructors.** Treat uneven AI use as a deliberate stance rather than a gap to close: decide task by task whether a tool deepens learning, widens access or strengthens connection, and be ready to explain that reasoning instead of apologizing for it.
+- **Instructors.** When AI shortcuts threaten intellectual effort, redirect the task rather than police it — asking students to explain their thinking and moving emphasis to in-class discussion is what one participant arrived at by mid-semester.
+- **Faculty developers.** Design development around judgment rather than tool fluency: prompt teachers to articulate what a tool changes about student thinking, access and connection before covering its features.
+- **Faculty developers.** Build repeated reflection points across a semester, because principled selectivity moved from an implicit orientation through enactment to a stabilized-but-evolving stance — an arc a single workshop cannot mirror.
+- **Administrators.** Read selective non-use as professional judgment rather than lagging adoption; adding feature training addresses the wrong problem, while heavy workload and unsettled authorship policy push the care-versus-compliance tension toward compliance.
+
+## Limitations
+
+- Two participants, both academics with more than ten years of teaching experience purposively selected as contrasting cases from a larger parent sample, so the findings are analytically rather than statistically generalizable.
+- AI engagement was established by self-report at screening and confirmed before the first interview, and the data consist of three semi-structured interviews per participant plus reflective prompts rather than classroom observation or student outcome data.
+- The design covers a single teaching semester, and the authors are explicit that this does not meet the year-long span they associate with longitudinal status.
+- Identity work is situated in institutional, disciplinary and cultural contexts the study does not sample, and the authors call for work across wider ranges of participants and settings.
 
 ## Connected Concepts
 

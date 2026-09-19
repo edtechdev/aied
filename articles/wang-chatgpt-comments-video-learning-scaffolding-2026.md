@@ -1,7 +1,7 @@
 ---
 title: "Assessing ChatGPT-Generated Comments for Video-Based Learning Content to Enhance Knowledge and Emotional Support Based on Scaffolding Theory"
 created: "2026-09-10T15:16:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [motivation, online-teaching-and-learning, scaffolding, student-engagement, video-education]
@@ -61,6 +61,21 @@ A four-condition ablation (P0 full prompt; P1 without comment-type definition; P
 - **Scaffolding can be distributed and faded automatically.** Knowledge and emotional support are generated as distinct categories and knowledge support thins over the timeline, showing how fading scaffolding and distributed scaffolding can be operationalized at scale rather than planned by hand.
 - **The path forward is multi-agent and individualized.** The individual-information component was deliberately not activated here, so [[personalized-learning|personalization]] remains untested; the proposed monitoring–decision–support–validation agent architecture is the authors' route to real-time adaptivity.
 - **Limitations to carry forward.** A single domain (Japanese history), a six-minute clip, small samples, a pre-proof single-family model comparison (GPT-3.5 vs. GPT-5.4), and reliance on perception rather than [[learning-gains|learning outcome]] measures all constrain generalization.
+
+## What this means for practice
+
+- **Instructors.** Schedule support by cognitive load rather than evenly: place comments in low-entropy intervals, since removing the entropy-based timing module produced the strongest perceived-timing drop in the ablation (Z = −2.85, r = 0.45).
+- **Instructors.** Do not deploy generated comments as an uncalibrated replacement for instructor comments: ChatGPT's emotional support scored 0.317 BERTScore against the human 0.574, and its text was rated harder to read on every readability index.
+- **Learning designers.** Keep the comment-type definition and the content examples in the prompt — dropping the type definition lowered perceived helpfulness (Z = −2.53, r = 0.40) and consistency, and dropping the examples lowered naturalness and timing.
+- **Learning designers.** Concentrate effort on emotional support and on learner-adaptive control, and treat a newer model as a partial fix only: GPT-5.4 with the full prompt beat GPT-3.5 on all four rated criteria.
+- **Researchers.** Evaluate generated instructional content across layers — part-of-speech composition, 3-gram diversity, Zipf conformity, BERTScore and TF-IDF, readability and learner perception — instead of one quality judgment, and add outcome measures beyond perception.
+
+## Limitations
+
+- Both studies rest on one six-minute NHK Japanese-history video in a single domain, with comment generation run across 20 sessions for that clip.
+- Study 1 compares 1,000 GPT-3.5-generated comments against 120 comments written in real time by experienced instructors, and its perception sample was 40 undergraduates and graduate students aged 19–23.
+- Study 2's four-condition ablation ran on 20 newly recruited participants with a newer model (GPT-5.4), making the model comparison a single-family contrast rather than a controlled benchmark.
+- Outcomes are perceived quality on Likert ratings rather than learning gains, and the ZPD-based individual information setting was specified but not activated, leaving personalization untested.
 
 ## Connected Concepts
 

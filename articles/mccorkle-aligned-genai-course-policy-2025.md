@@ -1,7 +1,7 @@
 ---
 title: "Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach"
 created: "2026-09-10T15:08:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, curriculum-design, educational-development, framing-ai-use-for-students]
 technology: [generative-ai]
@@ -62,6 +62,21 @@ A transparent policy for this design case is not a rule list but a rationale, co
 - **Design for the persuadable majority.** Framing the policy around [[trust]] rather than surveillance targets the "60% in between," consistent with evidence that fear-based [[ai-use-disclosure|disclosure]] regimes push use underground ([[reducing-ai-misuse]]).
 - **Faculty development is the delivery mechanism.** The approach emerged from a course design institute and spread by colleague curiosity — a model for [[educational-development]] programs that want instructors to design their own policies rather than adopt template statements.
 - **The exercise is reusable at other levels.** The author suggests [[teacher-education|teacher educators]] and program designers could apply the same inventory-and-prioritize method to program-level outcomes, and anticipates GenAI competencies migrating into formal learning objectives as the field's expectations stabilize.
+
+## What this means for practice
+
+- **Instructors.** Inventory every step a student performs toward the finished product, then ask "what, specifically, am I assessing?" of each step; the alignment table, not the rule list, is the actual work of writing the policy.
+- **Instructors.** Split a deliverable rather than banning it: image generation was allowed because the course assessed students' use of visuals, while slide-level message design stayed with the student, so one assignment can mix permitted and unpermitted AI use.
+- **Faculty development.** Run this as a guided design workshop in which instructors derive their own policy from their own assessment concerns; the approach emerged from a week-long Course Design Institute and spread through colleague curiosity rather than template adoption.
+- **Instructional designers.** Write the policy as a rationale addressed to students, naming the assessment each restriction protects, and pair a syllabus summary with assignment-level call-outs for complex projects and a just-in-time reminder for single-assignment types.
+- **Curriculum designers.** Apply the same inventory-and-prioritize method to program-level outcomes, and revisit it as GenAI competencies migrate into formal learning objectives — the author expects prompt engineering and output evaluation to become assessable outcomes.
+
+## Limitations
+
+- This is a single-instructor design case in one graduate course (Multimedia Design, an asynchronous online course in an Instructional Design & Technology program); no comparison policy, student performance data or AI-use record is reported.
+- The only student response documented is the author's account that across three courses no student ever invoked the offered "amendment by conversation" alternative to the policy.
+- The design was produced during one week-long Course Design Institute and is reported retrospectively, not tested; the author states GenAI use will remain optional for her students "at least for now."
+- The task-by-task decisions rest on the author's judgment about which capabilities the profession's emerging GenAI competencies require — expectations she notes are still evolving.
 
 ## Connected Concepts
 

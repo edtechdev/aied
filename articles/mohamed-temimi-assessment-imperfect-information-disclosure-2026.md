@@ -1,7 +1,7 @@
 ---
 title: "Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -71,6 +71,14 @@ Two cautions attach to the table. It describes a representative student, while r
 - **A sharper criterion for detection policy.** Discrimination, not catch rate, is the design variable, which gives institutions a measurable thing to interrogate before deploying monitoring at scale.
 - **A mechanism-level account of why disclosure fails.** Disclosure succeeds only when the cost of honesty is low enough, which requires clear expectations, fair consequences, and a link to assessment criteria rather than treatment as a confession — converging with the empirical [[ai-use-disclosure|disclosure literature]] from the modeling side.
 - **Complementarity rather than a silver bullet.** Each mechanism is strongest where the others are weak, and bundles fail when one mechanism raises the cost of the response the others are trying to make attractive.
+
+## What this means for practice
+
+- **Assessment designers.** Diagnose the response region before choosing a mechanism: if the final product carries most of the grade, AI can produce it, and detection is weak, the task sits near the hidden-use region and a ban changes the wording of the rule without moving behavior.
+- **Assessment designers.** Interrogate detector discrimination, not catch rate, at the threshold you actually use — when extra sensitivity creates more new false positives than true positives, honest work is penalized faster than hidden use is identified and concealment becomes relatively more attractive.
+- **Instructors.** Grade process evidence explicitly, since redesign stays cosmetic when the rubric still rewards mainly the final answer; draft-to-final trails, verification notes and short oral checks have to carry credit.
+- **Instructors.** Keep the cost of honesty low — disclosed use beats hidden use only while the cost of honesty stays below 1 + qF — so clear expectations and fair consequences do more work than heavier sanctions.
+- **Administrators.** Treat rules, monitoring, disclosure and redesign as one bundle: each is strongest where the others are weak, and tightening a single lever can produce the response the others were designed to prevent.
 
 ## Limitations
 

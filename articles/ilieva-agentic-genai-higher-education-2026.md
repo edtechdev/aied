@@ -1,7 +1,7 @@
 ---
 title: "Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning"
 created: "2026-09-11T02:52:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, pedagogical-agent, personalized-learning]
@@ -59,6 +59,21 @@ The exploratory study (12 May – 9 June 2026) used a Bulgarian-language questio
 - **Students want guidance, not just access.** The demand for agent-use training and the preference for combining traditional [[teacher-role|teaching]] with both chatbot and agent support suggest that adoption is a course-design question — where agents are introduced, with what checkpoints, and with what instruction — rather than a matter of tool availability.
 - **Governance must be built into the workflow layer.** Disclosure requirements, source verification, privacy rules, and instructor validation appear here as framework components rather than as policy bolted on afterward — the same integration [[human-in-the-loop-ai|human-in-the-loop]] design calls for elsewhere.
 - **Limitations.** One e-commerce course, student perceptions only (no instructor perspective), no objective outcomes, and an implementation the authors themselves describe as an initial conceptual model rather than an optimized instructional system.
+
+## What this means for practice
+
+- **Instructors.** Introduce agents where the workflow itself needs sequencing and checkpoints, not as a general upgrade: agent and chatbot conditions did not differ significantly on any of the four domains (learning enhancement 3.835 vs. 3.858).
+- **Instructors.** Keep goals, checkpoints and final decisions with learners and educators, and hand control back at the verification and reflection stages, so orchestration supports reasoning instead of completing the task.
+- **Learners.** Ask for explicit agent-use training rather than assuming access is enough — 61.5% of the 130 respondents wanted training in effective agent use, and only 45.4% trusted agents under instructor guidance.
+- **Curriculum designers.** Plan the course around hybrid support: combining traditional teaching with both chatbot and agent support drew the strongest endorsement (69.2%), while only 33.1% agreed agents were more effective than chatbots.
+- **Administrators.** Build disclosure requirements, source verification, privacy rules and instructor validation into the workflow layer itself rather than issuing them as separate policy, and treat students' risk awareness as part of informed adoption rather than resistance.
+
+## Limitations
+
+- The evidence is 130 usable questionnaire responses (90 women, 40 men) from one e-commerce course, using a within-respondent design in which the same students rated all three conditions.
+- No objective performance indicators were collected: the study measured perceptions and did not evaluate grades, submitted project quality, decision accuracy, task-completion time, knowledge retention or transfer.
+- Condition effects were very small (Kendall's W = 0.026 to 0.217), and the key agent-versus-chatbot contrast was not significant, so the study cannot rank the two AI conditions.
+- Only student perceptions were captured — no instructor perspective — the authors describe the implementation as an initial conceptual model rather than an optimized instructional system, and the paper is a non-peer-reviewed preprint.
 
 ## Connected Concepts
 

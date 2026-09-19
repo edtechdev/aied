@@ -1,7 +1,7 @@
 ---
 title: "Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -76,6 +76,21 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - **Monitor the demographic pattern of allegations.** Detector bias is systematic, not random, so allegation distributions are themselves an equity signal to be audited.
 - **Reserve formal proceedings for the serious and the genuinely evidenced** — impersonation, demonstrable fabrication, admitted or witnessed breaches, and cases with corroborating evidence — and meet lesser matters with education and graduated response.
 - **Shift effort to design, and resource it.** The narrowing of the misconduct procedure is not a retreat from integrity but a more defensible way of securing it, and it requires recognition in workload models.
+
+## What this means for practice
+
+- **Instructors.** Convert the central question from "did the student use AI?" to "did the student demonstrate the capability the task was designed to certify?", and grade the drafts, justifications and reasoning a student can account for in person.
+- **Instructors.** Treat a detector score at most as a prompt for a conversation about the work: the tools identify no source, output a percentage without reasons, and cannot be cross-examined, so a score alone cannot ground a finding.
+- **Administrators.** Publish the evidentiary standard before the next cycle and audit the demographic distribution of allegations each cycle, since detector bias is systematic rather than random.
+- **Administrators.** Maintain an AI-free route to the same outcomes at the same standard wherever AI use is invited, so permitted use does not become required use.
+- **Policymakers.** Resource assessment design in workload models — selective oral elements deployed on a sampled basis and light-touch formative checkpoints replace rather than add to summative volume, whereas detector-driven proceedings consume staff time that polices instead of teaches.
+
+## Limitations
+
+- The paper is a single-author normative argument rather than a study: its key empirical supports are cited secondary work — an early benchmark in which none of fourteen detectors reached 80% accuracy and a covert field study of AI-generated submissions across five psychology modules where 94% went undetected.
+- The claim that reliable detection may be impossible in principle for sufficiently capable models rests on formal analyses the paper cites rather than conducts.
+- The fairness proposals derive from procedural justice theory and the educational integrity enforcement pyramid and are not tested against case outcomes at any institution; the Vanderbilt example (a licensed detector whose advertised 1% false-positive rate implied some 750 mislabeled students among 75,000 annual submissions) is a single documented case.
+- The implementation arguments on workload and equity, such as premium models sitting behind subscriptions and uneven devices and connectivity, are reasoned rather than measured.
 
 ## Connected Concepts
 

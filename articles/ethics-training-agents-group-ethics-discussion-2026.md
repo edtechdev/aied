@@ -1,7 +1,7 @@
 ---
 title: "Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-11T09:20:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [agentic-ai, human-ai-collaboration]
 pedagogy: [collaborative-learning]
@@ -63,6 +63,21 @@ Peer ratings told the opposite story for the agents. Across all three dimensions
 The authors distill several design strategies for embedding multiple LLM agents into multi-human groups. First, **shift agents from conclusion-oriented to process-oriented output**: surface intermediate deliberation steps so learners can see how ethical judgments form, not just what they are — while pairing this with safeguards (undergraduate, non-expert personas; a dedicated Questioning phase; explicit framing as fallible peers) so that fluent reasoning does not acquire undue authority and erode [[agency|learner agency]] through [[cognitive-offloading|over-reliance]]. Second, **manage expectations through structured identity disclosure**: because errors are read as AI defects rather than persona boundaries, onboarding should state persona limits outright ("I may overlook technical details, but I can contribute insights into social and [[governance|institutional]] impacts"), and a hybrid strategy — disclosing the presence and general constraints of agents pre-session, then revealing which discussants were AI post-session — may balance [[explainable-ai|transparency]] against authenticity. Third, **rebalance social dynamics**: agents could be designed to raise counterarguments and highlight trade-offs instead of universally supportive replies, and systems could structurally prioritize human [[student-engagement|engagement]] (e.g., requiring a response to at least one human peer before turning to AI, or disclaiming that agents lack lived experience).
 
 The limitations are stated candidly, and they bound how far the results travel. The evaluation had **no control condition** — only a pre–post comparison — so the gains cannot be disentangled from novelty or general learning effects; the authors explain that neither lecture-based, 3:0 human-only, nor 6:0 all-human comparisons could isolate AI participation without confounds, and no "fair" agent configuration guidelines yet exist. Gains were **short-term**, measured immediately after the intervention, and prior [[research-methods-aied|research]] suggests short-term ethics gains need not persist; longitudinal designs are called for. The scenario was a **single fictional technology**, participants were **strangers** meeting without [[prior-knowledge|prior knowledge]] (unlike real project teams with existing relationships), and the personas encode the designers' own selection of ethical frameworks and thus cannot represent all positions. Results may depend on the **particular model and prompts** (GPT-4o, temperature 0, crafted personas, 150-character messages, 0.5 participation rate); the authors expect other frontier models to behave similarly but call for systematic verification, and note that [[rag|retrieval-augmented]] generation could ground agent claims in citable sources and raise trust. More broadly, the study — echoing work on [[generative-ai|generative AI]] eroding social learning — cautions against relying solely on LLM agents as a sustained substitute for peer discussion.
+
+## What this means for practice
+
+- **Instructors.** Disclose what the agents can and cannot do before the session and say which discussants were AI afterward: unreferenced errors were read as AI defects rather than persona limits and triggered sharp drops in trust.
+- **Instructors.** Prompt agent personas to raise counterarguments and trade-offs: participants expected refutation, and universal agreement flattened debate depth and made the personas stop mattering in later stages.
+- **Instructors.** Require at least one response to a human peer before a learner turns to an agent — participants routed 79.7% of their questions (59 of 74) to AI, which lowered relational cost but thinned human-to-human exchange.
+- **Curriculum designers.** Shift agents from conclusion-oriented to process-oriented output so learners see how ethical judgments form, while keeping personas undergraduate and explicitly fallible so fluent reasoning does not acquire undue authority.
+- **Researchers.** Plan a control condition and a delayed post-test: without either, the large sensitivity gains (d = 1.43 and d = 1.28) cannot be separated from novelty or general learning effects and may not persist.
+
+## Limitations
+
+- No control condition: the evaluation is a pre–post comparison with 45 STEM undergraduates in 15 groups of three, so the sensitivity gains cannot be disentangled from novelty or general learning effects.
+- Gains were measured immediately after a single two-hour session on one fictional scenario (a Black Mirror smart-lens device), so their durability is untested.
+- Participants were strangers recruited through a university online community, each paid KRW 40,000 (~USD 28.8), meeting without the prior relationships real project teams have.
+- Results depend on the particular model and prompts — GPT-4o at temperature 0, hand-crafted personas, 150-character message caps and a 0.5 agent participation rate — which the authors say need systematic verification with other frontier models.
 
 ## Connected Concepts
 
