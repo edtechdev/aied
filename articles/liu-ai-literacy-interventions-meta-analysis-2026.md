@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators"
 created: "2026-08-24T12:34:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [pedagogy]
@@ -36,12 +36,19 @@ The paper's central argument is that AI literacy education should move beyond kn
 - (Nonsignificant) descriptives: mixed and reflective pedagogies, generative-AI tools, and performance tasks each showed numerically larger effects, tentative signals worth testing.
 - **Conclusion:** AI literacy education should move beyond knowledge toward skills, practices, ethics, and attitudes, via integrated and reflective pedagogies.
 
-## Implications for Practice
+## What this means for practice
 
-- **Design for durable dispositions.** Because knowledge gains dominate while skills, attitudes, and ethics lag, educators should pair concept lessons with sustained problem-solving, critical output evaluation, and ethics discussions, not single-shot content delivery.
-- **Favor performance tasks over self-reports** where feasible — they captured larger gains and are less prone to overstating learning or missing misconceptions.
-- **Adapt to context rather than standardize.** The regional gap points to [[culturally-relevant-pedagogy|culturally relevant]] design: fitting programs to local curricula, technological access, and policy contexts instead of one-size-fits-all models.
-- **Expect heterogeneity.** With a prediction interval spanning negative to nearly two, no intervention is guaranteed effective in a given classroom — pilot, and iterate rather than assuming transfer.
+- **Instructors.** Pair every concept lesson with sustained practice: AI knowledge gains (g = 0.965) far outpaced skills (g = 0.672), attitudes (g = 0.676), and ethics (g = 0.635), so build in problem-solving, critical output evaluation, and ethics discussion rather than single-shot content delivery.
+- **Instructors.** Assess with performance tasks where feasible — they captured the descriptively larger effect (g = 0.901) than self-reported data (g = 0.774), which are more prone to overstating learning.
+- **Faculty developers.** Fit programs to local conditions instead of importing a standard model: Europe (g = 0.960) and East Asia (g = 0.782) outperformed North America (g = 0.658), indicating that [[culturally-relevant-pedagogy|culturally relevant]] design — curriculum, access, and policy context — shapes what works.
+- **Researchers.** Pilot before scaling: with a 95% prediction interval from −0.292 to 1.966, no [[ai-literacy]] intervention is guaranteed to transfer to a given classroom.
+
+## Limitations
+
+- The synthesis rests on 59 studies, 172 effect sizes, and 7,211 participants, with 71.361% of the variance sitting between studies, so g = 0.837 is an average across heterogeneous studies rather than a common effect.
+- Several moderator cells were tiny — Southeast Asia (k = 4), quantified qualitative instruments (k = 3), mixed educational levels (k = 9) — and the authors caution that subgroups with fewer than 10 effect sizes are statistically unreliable.
+- Study quality was not incorporated into the weighting, even though the pool combined (quasi-)experimental designs of varying internal validity.
+- Residual heterogeneity was left unmodeled: intervention duration, study design, and disciplinary background were not tested as moderators, and eight effect sizes were dropped as outliers.
 
 ## Connected Concepts
 

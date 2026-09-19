@@ -1,7 +1,7 @@
 ---
 title: "Leveraging generative AI to facilitate peer feedback in collaborative argumentation learning"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, metacognition, scaffolding, self-regulated-learning]
@@ -33,13 +33,23 @@ The study's key design innovation is prompt scaffolding — structured prompts (
 - Analysis: Kruskal-Wallis H tests for argumentation performance and feedback-quality differences; epistemic network analysis (ENA) for associations between feedback content and emotion.
 - [[ai-feedback-quality|Feedback quality]] assessed on elements (descriptive comments, identification, explanations, suggestions) and [[affective-computing|affective]] tone (positive, neutral, negative).
 
-## Implications for Practice
-
-The study supports using GenAI to scaffold peer feedback in [[collaborative-learning]] and argumentation — areas where students often struggle to produce rebuttals, treat criticism as personal attack, or repeat others' ideas. Structured prompt scaffolding can help students overcome these difficulties and develop [[critical-thinking]] and self-[[regulation]]. The finding that scaffolded students produced higher-order feedback while experiencing (and productively managing) negative affect suggests that instructional design should deliberately pair GenAI support with prompt guidance to realize its benefits and mitigate the cognitive-offloading risks of uncritical reliance.
-
 ## Relevance to the Knowledge Base
 
 This article contributes empirical evidence to the knowledge base's [[feedback]], [[collaborative-learning]], and [[scaffolding]] clusters. It connects [[prompt-engineering]] to peer feedback and argumentation, and links GenAI support to [[self-regulated-learning]], [[metacognition]], and [[critical-thinking]]. It also provides a useful model of [[human-ai-collaboration]] where GenAI acts as an evaluative scaffold within a student-centered, collaborative [[pedagogy]], relevant to [[learning-design]] and [[assessment]] in [[higher-ed]].
+
+## What this means for practice
+
+- **Instructors.** Supply structured prompt scaffolding (context, objective, role) rather than open GenAI access for peer feedback; only the scaffolded group excelled on rebuttal data and warrant and on addressing the opposing view.
+- **Instructional designers.** Require students to state which GenAI suggestions they adopt, modify, or reject and why, converting reliance into the critical judgment the [[scaffolding|scaffold]] is meant to build.
+- Prepare students for the neutral and negative feedback GenAI surfaces rather than avoiding it; in the scaffolded group those signals were productively paired with higher-order feedback content.
+- **Teacher educators.** Deploy GenAI as an evaluative scaffold in argumentation, where students otherwise struggle to produce rebuttals or treat criticism as a personal attack.
+
+## Limitations
+
+- 45 third-year educational-technology undergraduates at a single university in central China; the authors state generalizability is constrained by sample composition.
+- The group-level experimental design assigned only four groups to each condition, which the authors note may constrain statistical power.
+- Cognitive load was not measured or controlled, which the authors flag as a confound influencing motivation, engagement, feedback quality, and argumentation performance.
+- Prompt scaffolding was static and uniform rather than adaptive to students' differing abilities and cognitive levels.
 
 ## Connected Concepts
 

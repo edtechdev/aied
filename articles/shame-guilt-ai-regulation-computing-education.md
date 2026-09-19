@@ -1,7 +1,7 @@
 ---
 title: 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [learning-analytics, llm]
@@ -30,9 +30,17 @@ discipline: [cs education]
 
 The study interviewed 19 computing students and analyzed their relationships with AI use through a functionalist lens of shame and guilt — that is, asking what social work these emotions do in regulating behavior. The analysis examined how students' emotional experiences relate to academic identity, confidence, and self-perception, and how those experiences intersect with [[governance|institutional]] responses such as surveillance and detection.
 
-## Implications for Policy and Classroom Practice
+## What this means for practice
+- **Instructors.** Replace detection-first messaging with classroom conditions in which AI use can be discussed candidly, since shame led students to hide their use rather than change it.
+- **Instructors.** Let peers lead or co-lead these conversations, or train the staff who run them to avoid imposing normative judgments; this study used trained peer interviewers precisely because being questioned by faculty skewed disclosure.
+- **Administrators.** Audit surveillance and detection policies for socio-emotional cost, because students described shaming themselves, peers and faculty for AI use, so enforcement can deepen the spiral of reduced agency and moral tension rather than reduce the behavior.
+- **Instructors.** Treat addiction-like language and nihilism about academic futures as signals that a student's relationship with AI needs support rather than sanction, since the emotional valence of AI use is itself consequential for persistence in computing.
 
-The findings suggest that prevailing responses to AI use — particularly those emphasizing surveillance and detection — risk overlooking or exacerbating the socio-emotional costs of AI use. When shame drives students to hide their AI use rather than change it, detection-focused policy can deepen the spiral: reduced agency, moral tension, and addiction-like language describe a dynamic in which students continue using AI but cannot openly negotiate how to do so well. Left unaddressed, these dynamics may undermine students' learning, identities, and long-term [[student-engagement|engagement]] in computing fields. For instructors and institutions, the study highlights the need to consider the socio-emotional aspects of AI use alongside [[academic-integrity]] enforcement — creating classroom conditions in which AI use can be discussed candidly, so that policy addresses behavior rather than driving it underground. The work also connects to [[cognitive-offloading|Over-Reliance]] and [[student-experience]] [[research-methods-aied|research]] by showing that the emotional valence of AI use is itself consequential for learning and persistence in [[cs-education]].
+## Limitations
+- The study is a qualitative, exploratory investigation of 19 semi-structured interviews with computing students in North America, intended to surface experience rather than test hypotheses; the authors state the sample is not representative of all students, cultures or institutional contexts.
+- All accounts are self-reported, and the authors note that because shame and guilt are sensitive, participants may have underreported, reframed or unevenly disclosed their behavior despite assurances of confidentiality.
+- The study deliberately collected no academic performance data, which the authors state limits any examination of how shame, guilt or AI reliance vary with students' academic standing.
+- Interviews were held by trained peer interviewers to mitigate power dynamics such as being questioned by faculty, so the accounts are participants' interpretations reported as illustrative and preliminary, and the functionalist lens may not capture identity judgments such as being "not real programmers."
 
 ## Connected Concepts
 

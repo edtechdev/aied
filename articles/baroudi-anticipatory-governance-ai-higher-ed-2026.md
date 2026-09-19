@@ -1,7 +1,7 @@
 ---
 title: "Anticipatory governance and leadership for AI implementation in higher education: A scoping review"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-education]
 ethics: [ethics]
@@ -37,6 +37,19 @@ A notable theory-implementation gap is driven by weak policy frameworks and limi
 ## Relevance to the knowledge base
 
 This paper strengthens the knowledge base's treatment of [[governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty upskilling, and Global South [[equity-in-ai-education|equity]] aligns with the knowledge base's coverage of [[teacher-role|teacher roles]], [[ai-literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
+
+## What this means for practice
+
+- **Administrators.** Shift from reactive crisis management to anticipatory governance, building foresight and stakeholder co-creation into AI decisions before adoption becomes urgent.
+- Create senior or distributed AI leadership: only 7% of institutions had established such roles even though 49% treated AI as a strategic priority, and cross-functional AI task forces support system-level change.
+- Fund [[ai-literacy]] and hands-on training for faculty and staff, sequencing it with established [[change-management]] models (Valente's contagion model; Rieber and Welliver's five-stage framework).
+- Test governance templates against local infrastructure and policy capacity before adopting Western-centric models, which the review found fit Global South contexts poorly.
+
+## Limitations
+
+- Scoping review of 19 heterogeneous sources (2020-2025) with uneven regional representation and a concentration of Western studies; the authors state the conclusions are not intended to be universally generalizable.
+- Most included studies used conceptual or cross-sectional designs, so the review cannot establish longitudinal or causal effects of anticipatory governance.
+- No formal trustworthiness analysis of the included studies was conducted, which the authors flag as limiting the robustness of the analysis.
 
 ## Connected Concepts
 

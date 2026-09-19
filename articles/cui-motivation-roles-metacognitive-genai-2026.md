@@ -1,7 +1,7 @@
 ---
 title: "How motivation and roles influence metacognitive engagement in student-GenAI interaction"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [agency]
 pedagogy: [metacognition, motivation, self-regulated-learning, student-ai-interaction]
@@ -39,6 +39,20 @@ The augmentation–automation distinction is supported: retaining [[agency]] ove
 ## Relevance to the knowledge base
 
 This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[pedagogy|instructional design]] for [[higher-ed|higher education]].
+
+## What this means for practice
+
+- **Instructors.** Frame GenAI tasks as exploratory and dialogic rather than answer-retrieval; only the collaborator framing produced a complete [[metacognition|metacognitive]] chain across all six categories.
+- **Designers.** Embed evaluative prompts in interfaces to move students beyond orientation, planning, and monitoring into evaluation and elaboration.
+- Watch for the replacement-tool pattern, which appeared in 64.6% of extrinsically motivated students' logs and produced no higher-order metacognitive connections.
+- Preserve student [[agency]] over the thinking task, since the augmentation-versus-automation distinction held across every role category in the logs.
+
+## Limitations
+
+- 24 Chinese undergraduates contributed 120 interaction logs (688 messages, 344 student-initiated) analyzed with epistemic network and lag sequential analysis.
+- Motivation and role perception were inferred from retrospective interviews about the logs rather than manipulated, so the study shows association, not causation.
+- The collaborator role appeared in only 7.5% of logs (9 of 120), leaving the strongest metacognitive pattern thinly evidenced.
+- Recruitment required frequent GenAI users who had retained retrievable logs, selecting for experienced users.
 
 ## Connected Concepts
 

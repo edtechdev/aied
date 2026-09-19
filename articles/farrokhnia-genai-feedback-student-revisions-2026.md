@@ -1,7 +1,7 @@
 ---
 title: "Generative AI offers more, but students revise less: comparing the effects of teacher and AI feedback on student essay revisions"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, prompt-engineering]
@@ -29,13 +29,23 @@ The study directly interrogates [[prompt-engineering]] as a determinant of GenAI
 
 The finding that teacher feedback — rated lower in quality — produced comparable revision improvements highlights the critical role of [[feedback-literacy]] and student [[agency]]. The authors note that high-quality feedback should be specific and actionable, but its effect depends on students' willingness and ability to implement it. Notably, GenAI feedback quality was significantly associated with students' initial essay quality, whereas teacher feedback quality showed no such association — meaning GenAI responded differently depending on how strong the initial draft was, while the teacher calibrated more consistently. The study's Persian-language setting also extends GenAI-feedback [[research-methods-aied|research]] beyond [[language-learning|English]]-dominant contexts, testing generalizability in a linguistically underrepresented language.
 
-## Implications for Practice
-
-The authors advocate for **hybrid intelligent feedback systems** in which teachers [[scaffolding|scaffold]] students' interpretation and application of GenAI feedback, rather than treating AI as a standalone replacement for the instructor. This aligns the paper with the knowledge base's [[human-ai-collaboration]] and [[teacher-role]] concepts, and with [[writing-education]] practice: GenAI can generate rich, structured, scalable feedback, but the human teacher remains essential for helping students engage with it meaningfully. For [[assessment]] and [[formative-assessment]], the result cautions against assuming better AI feedback automatically yields better learning.
-
 ## Relevance to the Knowledge Base
 
 This is a tightly controlled experimental contribution to the knowledge base's feedback cluster. It provides causal, comparative evidence that links [[ai-feedback-quality]], [[prompt-engineering]], and learning outcomes in [[higher-ed]], and it resonates strongly with the knowledge base's existing coverage of AI-generated feedback, essay scoring, and teacher-vs-AI comparisons. It also gives concrete guidance for [[learning-design]]: prompt technique matters for feedback quality, but [[pedagogy]] (scaffolding uptake) matters for learning.
+
+## What this means for practice
+
+- **Instructors.** Do not treat higher-rated AI feedback as a proxy for better writing: chain-of-thought feedback scored highest (M=12.90 vs. teacher M=11.20) yet produced no significantly greater revision gains.
+- Adopt hybrid feedback systems in which teachers scaffold students' interpretation and application of GenAI feedback rather than deploying it standalone, since [[feedback-literacy]] and uptake, not generation quality, are the mechanism the authors identify.
+- **Assessment designers.** Reserve teacher time for interpretation and follow-through, where the teacher's advantage lay: teacher feedback quality was calibrated across drafts while GenAI tracked the quality of the initial essay.
+- Use chain-of-thought [[prompt-engineering]] when feedback quality itself is the target; it outperformed zero-shot prompting (M=11.25) as well as teacher feedback on rubric quality.
+
+## Limitations
+
+- 70 students from a single Iranian university, mostly female and drawn from educational sciences; the authors note single-site, homogeneous samples reduce generalizability.
+- Only one teacher and one essay task were used, so the study cannot separate teacher effects from the feedback condition.
+- The feedback-quality rubric covered structural features only, which the authors say may have overstated GenAI feedback quality by ignoring tone, perceived usefulness, and affective dimensions.
+- No significant between-group differences in revision performance were found, so the comparative claims rest on feedback quality rather than measured learning outcomes.
 
 ## Connected Concepts
 

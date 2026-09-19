@@ -1,7 +1,7 @@
 ---
 title: Temporal Smoothness Doubly Robust Learning for Debiased Knowledge Tracing
 created: "2026-05-13T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, personalized-learning]
 stakeholders: [student-experience]
@@ -58,11 +58,19 @@ The framework was evaluated on nine real-world benchmarks (Spanish, ASSISTments1
 - On synthetic data with controllable MNAR degrees (γ up to 0.999), TSDR improves across the whole bias spectrum, and it remains "safe" at γ = 0.0 — no degradation even when selection bias is minimal, thanks to the regularizing effect of counterfactual imputation.
 - The temporal smoothness coefficient λ has a stable "sweet spot" in [0.3, 1.0], outperforming vanilla DR (λ = 0) and requiring no meticulous tuning.
 
-## Implications for AI in Education
+## What this means for practice
 
-Selection bias is not a niche concern: any [[adaptive-learning|adaptive system]] that recommends exercises based on what it believes a student knows creates a feedback loop in which the data collected is shaped by the model's own prior estimates, systematically over- or under-representing particular learners. TSDR's combination of propensity weighting, error imputation, and temporal smoothness offers a template for building debiased [[student-modeling]] pipelines that remain stable as they are iteratively retrained on fresh interaction data, with consequences for the [[trust]] and [[trust-calibration|calibration]] of mastery estimates that drive placement and remediation decisions.
+- **Developers.** Model the data-generating process, not just the observed log: standard knowledge-tracing training fits the selection policy because students strategically skip questions, and TSDR improved AUC across six backbones on nine datasets.
+- **Developers.** Add the temporal smoothness term with defaults rather than tuning it: the coefficient λ had a stable sweet spot in [0.3, 1.0] and outperformed vanilla doubly robust training (λ = 0).
+- **Developers.** Expect the largest gains where missingness is systematic: AKT improved 5.06% on Prob and SparseKT 4.76% on Assist17, while EdNet, whose mandatory bundle policy makes missingness closer to random, gained only about 1%.
+- **Learners.** Treat skipped questions as a signal rather than missing data, since the bias comes from learners avoiding items they judge too hard, too easy, or boring — a reflection of genuine [[agency|learner agency]].
 
-For [[research-methods-aied|researchers]] and practitioners, the work underscores the importance of modeling the data-generating process — who gets which exercise and why — rather than treating observed logs as a random sample. This connects to [[bias-mitigation]] and [[equity-in-ai-education]] more broadly, since fairness and accuracy concerns in educational AI are often traceable to selection mechanisms, and to [[ai-ed-evaluation]], where evaluating KT and similar models against potentially biased data requires accounting for how the evaluation data itself was collected. The findings also inform [[student-experience]] research: the strategic skipping that drives bias reflects genuine [[agency|learner agency]] and motivation, and systems should reason about why a learner disengages rather than treating non-response as absence of information.
+## Limitations
+
+- No deployment study: TSDR was evaluated on nine offline public benchmarks and simulated data, so its effect on live adaptive systems and real mastery outcomes is untested.
+- Assumed bias mechanism: the controlled MNAR test used a generator of 1,000 students, 200 questions, and 20 knowledge components, so the results depend on that assumed missingness model.
+- Preprocessing removed short histories: student sequences with fewer than five interactions were excluded, which may bias estimates for the sparsest learners.
+- Reliance on auxiliary models: the unbiasedness guarantee holds only if either the propensity model or the imputation model is accurate, and the method assumes mastery changes gradually, following the Power Law of Practice.
 
 ## Connected Concepts
 
