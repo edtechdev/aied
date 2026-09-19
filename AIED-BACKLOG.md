@@ -207,6 +207,69 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   the files, so nine further pages were reading a neighbouring paper as their source. Each was matched to its
   own paper by title and the bodies were put back where they belong.
 
+### Figures that cannot be checked against the saved source
+
+- `irt-human-genai-mcq-responses` - *Applying Item Response Theory to Distinguish Between Human and Generative AI
+  Responses to Multiple-Choice Assessments*, doi 10.1016/j.caeai.2026.100668. The saved text stops at the old
+  extraction cap, before the results, and the only open-access copy Unpaywall lists is the authors' arXiv preprint
+  (2412.02713), which is an earlier draft that does not report the generational comparison. Two figures stated on
+  the page as findings - the newer models' accuracy against humans (80.8% versus 71.5%) and the chemistry
+  person-fit correlation falling from r = 0.389 to 0.060 - therefore cannot be verified from anything on disk.
+  The practice section now makes the same point qualitatively, which the saved abstract and research questions do
+  support; the key-findings figures need the published PDF before they can be trusted or corrected.
+
+### Sources that are summaries rather than papers, and figures that live only in images
+
+- `wang-safety-gap-productive-struggle-2026` - the saved source is a 3.3 KB abstract-level overview with no method,
+  results or limitations text, so the page's limitations describe what a perspective paper can and cannot support
+  rather than study statistics. Needs the full article.
+- `zhang-races-consistent-essay-scoring-llms-2026` - the saved source stopped at the old extraction cap; the
+  open-access article page was re-extracted through a browser and the source is now complete (70 KB). Its QWK
+  values are presented only inside figures, which text extraction does not capture, so the page no longer states a
+  QWK percentage: it points to the figures and keeps the numbers that the text does state (semantic similarity
+  81.3% and 79.3%, pairwise accuracy 73.9% and 63.1%). Read the figure if the QWK value is needed.
+
+### Figures stranded by extraction caps
+
+- `genai-chatgpt-adoption-ethics-students-2026` and `idea-framework-metacognitive-genai-2026` both state figures that
+  their saved sources do not contain (185 excluded responses; adjusted prompt-quality differences of +11.77 and
+  +29.19 points). Both sources stop at the old extraction cap mid-sentence, before the results. Both articles are
+  open access, but the publisher serves a robot check to automated requests for the article and the PDF, and the
+  only other location Unpaywall lists is the publisher or a directory entry rather than a repository copy. The
+  figures are recorded here rather than deleted, because a truncated source is a likelier explanation than an
+  invented number, and both pages' claims are internally consistent with what the saved text does show.
+
+### Sources lost and needing the paper itself
+
+A re-fetch across capped saved sources was pointed at the first arXiv link it found in each file, which in most
+files is a citation rather than the paper, so thirty saved sources were briefly overwritten with unrelated
+articles. Every one has since been checked against the source its own frontmatter names, and fifteen were
+restored from the right paper. The remaining fifteen could not be recovered automatically: the publisher or
+repository serves a robot check, the DOI resolves only to a landing page, or the address no longer returns a
+document. Their saved sources now hold a marker instead of a wrong paper, and each page needs the real PDF.
+
+- `ai-pedagogical-accompaniment-amico`
+- `ai-tpack-mathematics-teacher-education-2026`
+- `aied-unfinished-mission-bypass`
+- `co-learning-ai-agent-hidden-rules-2026`
+- `critical-thinking-paradox-genai-learning-2026`
+- `finkelstein-principled-ai-education-2025`
+- `instructional-agents-multi-agent-course-gen`
+- `llm-automated-grading-programming-comparison-2026`
+- `llm-grading-self-preference-bias-2026`
+- `muse-vlm-artistic-image-benchmark-2026`
+- `niari-ai-pedagogical-mediator-collaborative-learning`
+- `raffaghelli-situated-ai-ethics-2026`
+- `science-educators-ai-literacy-postqualification-2026`
+- `teacher-ai-literacy-prompt-feedback-quality-2026`
+- `voicu-ai-interpretive-cognition-ssh-2026`
+
+Two more pages state figures their saved source cannot confirm, because the source stops at the old extraction
+cap before the results and no open-access copy exists: `microbit-robotics-machine-learning-teacher-training-2026`
+(a 1.54-point coding-concepts gap) and `edurev-100741-tpack-genai-review` (effect sizes of 0.828, 0.831, 0.729 and
+0.752). The first is a ScienceDirect article behind a robot check, and Unpaywall reports the second as not open
+access at all. Their sections use those figures because the page bodies already carried them; both need the PDF.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same
