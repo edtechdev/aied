@@ -1,7 +1,7 @@
 ---
 title: "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [collaborative-learning, metacognition, student-ai-interaction]
 technology: [intelligent-tutoring, learning-analytics, llm]
@@ -49,9 +49,13 @@ Two patterns stand out. First, applying the **same human-refined criteria** prod
 
 Both human annotators and agents concentrated revisions on the **mid-range levels (3–5)**, and both preserved the seven-level structure (agents only modified existing levels, never adding, merging, or deleting). Human disagreements were most frequent between Levels 4–5 (24%), 5–6 (17%), and 3–4 (16%), with bidirectional confusion in the mid-scale.
 
-## Implications
+## What this means for practice
 
-The findings have direct relevance for [[learning-analytics]] pipelines that automate [[student-ai-interaction|student interaction]] coding. LLM annotation can scale engagement measurement, and self-reflective agents show genuine promise for autonomous framework refinement — but the persistent human–machine gap means automated coding cannot yet substitute for trained human judgment when fidelity matters. Designers should treat LLM-coded engagement as an approximation whose systematic shortfall must be accounted for, and should pair automation with [[human-in-the-loop-ai|human oversight]]. The failure of human-refined criteria and ICL examples to improve LLM agreement also cautions against assuming that human expertise transfers straightforwardly to machine coding. Finally, the concentration of ambiguity in mid-level categories points to where extended-ICAP frameworks and their LLM implementations should be sharpened.
+- **Researchers.** Treat LLM-coded engagement as an approximation in [[learning-analytics]] pipelines that automate [[student-ai-interaction|student interaction]] coding: human–machine agreement stayed moderate (QWK ≈ 0.59–0.66) while human–human agreement reached 0.974, so automated coding cannot yet substitute for trained human judgment when fidelity matters.
+- **Researchers.** Do not assume human-refined criteria transfer to models: the framework revisions that lifted human agreement (Δκ = 0.10) produced only small, inconsistent changes for ICL annotators (Δκ < 0.04).
+- **Researchers.** Prefer clear task instructions over few-shot examples: in-context learning drew on human consensus annotations yet gave no consistency benefit over zero-shot prompting, and was slightly worse in several conditions.
+- **Designers.** Pair automation with [[human-in-the-loop-ai|human oversight]] and account for the systematic shortfall, and target refinement at the mid-scale boundaries where 24% of human disagreements fell between Levels 4 and 5.
+- **Designers.** Consider self-reflective agents for scalable framework refinement — they reached agent–agent QWK = 0.841 — but note that they only modified existing levels and never added, merged, or deleted any.
 
 ## Limitations
 

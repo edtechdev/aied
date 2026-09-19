@@ -1,7 +1,7 @@
 ---
 title: Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction
 created: "2026-06-18T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
@@ -29,9 +29,18 @@ confidence: medium
 
 The study surveyed 93 bioscience graduate students and postdoctoral trainees enrolled in a required research ethics course before instruction began. Three candidate intake features were compared across five baseline perception outcomes using statistical models with Holm correction for multiple comparisons. The five outcomes were treated as facets of distinct constructs from prior work on [[trust-calibration|trust calibration]] and AI literacy — accuracy trust, evaluation capability, complex-task trust, over-reliance risk, and training interest — rather than as indicators of a single latent dimension.
 
+## What this means for practice
+
+- **Instructors.** Profile learners with the cheapest signal available: self-reported LLM usage frequency showed associations with all five baseline perceptions — accuracy trust, evaluation capability, complex-task trust, over-reliance risk and training interest — after Holm correction, making it the most consistent of the three intake measures tested.
+- **Instructors.** Use self-rated familiarity as a secondary check rather than the primary one: it tracked three of the five outcomes, and the pattern was threshold-like at the low end of the scale rather than a smooth gradient, appearing most clearly for training interest and accuracy trust.
+- **Administrators and curriculum designers.** Do not spend intake budget on prior AI coursework or workshop attendance as a segmentation label: it was associated with none of the five outcomes (largest H = 5.06, minimum Holm-adjusted p = .524, effect sizes below .19), and the finding held under both three-group and collapsed two-group coding.
+- **Researchers.** Read the null as informative for learner modeling: with the sample dominated by learners reporting no prior AI education (44.1%), behavior and self-perception separated baseline perceptions more sharply than credentials did, which points to where adaptive AI ethics instruction should start.
+
 ## Limitations
 
-The cross-sectional design does not establish directionality: engagement may shape perceptions, perceptions may shape engagement, or both may reflect upstream factors such as disciplinary norms or dispositional openness. Usage frequency was self-reported on a Never-to-Daily scale rather than observed behavior, and both predictors and outcomes relied on self-report, so response styles such as acquiescence or extremity bias could contribute to the associations. The authors also caution that the null result for prior AI education should be read carefully, since AI literacy spans multiple competencies and the coding of prior education was relatively coarse.
+- **Cross-sectional design.** Directionality cannot be established: engagement may shape perceptions, perceptions may shape engagement, or both may reflect upstream factors such as disciplinary norms or dispositional openness.
+- **Self-report measures.** Usage frequency was self-reported on a Never-to-Daily scale rather than observed behavior, and both predictors and outcomes relied on self-report, so response styles such as acquiescence or extremity bias could contribute to the associations.
+- **Coarse coding of prior AI education.** The null result for prior AI education should be read carefully, since AI literacy spans multiple competencies and the coding of prior education was relatively coarse.
 
 ## Connected Concepts
 

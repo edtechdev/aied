@@ -1,7 +1,7 @@
 ---
 title: "Memdora: Designing Cognitively-Grounded Flashcard Interactions for AI-Powered Spaced Repetition"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, generative-ai]
@@ -28,9 +28,20 @@ confidence: high
 
 The design rationale treats the flashcard as a full retrieval-practice instrument rather than a passive review object. The forgetting curve first described by Ebbinghaus — roughly **70% of newly learned material forgotten within 24 hours** without review — motivates scheduling, while the interaction taxonomy maps each interaction type to peer-reviewed evidence, so learners see the cognitive rationale behind the activity. The effort-based reward system extends this by rewarding the actual work of retrieval rather than time spent in the app, connecting to [[self-regulated-learning]] and to retrieval-practice [[research-methods-aied|research]].
 
-## Implications for AI in Education
+## What this means for practice
 
-Memdora illustrates how AI-powered spaced repetition can move beyond scheduling to **interaction design**: by generating cards at the point of reading and offering varied, evidence-grounded retrieval activities, the system lowers the cost of effective study behavior. The classroom layer makes individual-card learning outcomes visible to teachers, supporting data-informed instruction, while the taxonomy itself is a reusable framework for designing cognitively grounded practice in [[adaptive-learning]] systems.
+- **Learners.** Replace flip-and-rate review with a retrieval type matched to the material: Memdora's 17 interaction types (6 Language, 1 By Heart with 3 retrieval modes, 10 Exam) each map to cited cognitive-science evidence.
+- **Learners.** Generate cards at the point of reading instead of in a separate session — the pipeline collapses creation to a single gesture across web, mobile, and three browser extensions, avoiding a context switch out of reading flow.
+- **Instructors.** Publish and assign decks, then use per-card tracking to find the cards students are failing, since the classroom layer reports [[learning-gains|outcomes]] at the individual card level.
+- **Software developers.** Reward retrieval effort rather than app presence and schedule with a current algorithm: Memdora couples an effort-based reward system with FSRS-6 and a default 90% target retention.
+- **Software developers.** Instrument the transparency hypothesis — that displaying the cognitive-science citation on every card raises learner trust and motivation — rather than assuming it, since the authors treat it as a testable design hypothesis.
+
+## Limitations
+
+- No controlled user study: the efficacy of the 17 interaction types within Memdora, alone or in combination with FSRS-6 scheduling, has not been empirically evaluated, and a longitudinal comparison of retention across card types is still planned.
+- The classroom features (teacher assignment, per-card outcome tracking, institutional authentication) have not been evaluated in a real educational setting, so unmet teacher-workflow and class-management needs may remain.
+- AI-generated cards may vary in quality in highly specialized domains where the underlying language model has limited training coverage; user editing and one-click regeneration mitigate the variance but do not remove it.
+- The retention and reward claims are design rationale: the effort-reward comparison on 30-day retention and the classroom evaluation against control groups using traditional study methods are planned, not reported.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -46,6 +46,20 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 - **Ethics and bias**: tools reproduce cultural stereotypes and can be fluent yet unfaithful (Bender et al. 2021); institutions should run privacy/data-protection impact assessments (PIA/DPIA) for assessment AI, vet tools against [[privacy]]/bias/[[accessibility]] criteria, and standardize prompt-log conventions that evidence process without exposing personal data
 - **Load and feasibility**: process artifacts and defenses raise workload; needs modeling and scaffolds
 - **[[educational-development|Staff development]]**: design-led collaboration rather than superficial tool training
+
+## What this means for practice
+
+- **Instructors.** Replace detection-first rules with tasks where tool use is expected and declared: have students critique, adapt, and verify AI outputs (a chatbot-generated market analysis; an AI-produced lesson plan) and grade the judgment they show, not the artifact they submit.
+- **Instructors.** Build visibility of process into the assessment itself — prompt logs, draft iterations, short reflective commentaries with published criteria for depth, criticality, and ethical awareness — so a polished output cannot stand in for understanding.
+- **Instructors.** Stage authenticity deliberately: constrained, [[scaffolding|scaffolded]] tasks in early units, then open complexity, uncertainty, and stakeholder [[student-engagement|engagement]] later, with equivalent-standards modality choice for students who need it.
+- **Administrators.** Stop treating [[ai-detection|detection]] as a strategy of first resort: fund redesign, run privacy/data-protection impact assessments on assessment AI, and vet tools against [[privacy]], bias, [[accessibility]], and auditability criteria.
+- **Administrators.** Provide fenced institutional AI access and model the workload before adding process artifacts and oral defenses, so authentic formats do not become new barriers for students with carer or employment constraints and do not deepen [[equity-in-ai-education|equity]] gaps.
+
+## Limitations
+
+- This is a conceptual/position paper (theoretical analysis) whose two contributions are a reconceptualization of authenticity and a set of discipline-agnostic design patterns; it reports no participants, no course, and no trial, so it supports design reasoning rather than evidence that the patterns improve learning.
+- The four-dimensional authenticity continuum and the design moves are derived from prior literature and the authors' own practice in a single institutional learning-and-teaching unit, not from any measurement of authenticity or of student outcomes.
+- The paper's own challenges section concedes the proposed formats raise workload and can create new barriers (carer and employment constraints, real-world simulation limits) without offering cost or feasibility data; detection's error rates and bias are likewise cited from other studies rather than re-tested here.
 
 ## Connected Concepts
 

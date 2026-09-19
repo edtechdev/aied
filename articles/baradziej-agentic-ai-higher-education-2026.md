@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of the roles of agentic AI in higher education"
 created: "2026-09-04T14:13:20-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai, ai-literacy, educational-development]
 technology: [generative-ai, intelligent-tutoring]
@@ -55,9 +55,9 @@ The review's central practical contribution is a synthesis of the evidence into 
 - **Build ethical infrastructure.** Data-protection policies, algorithmic-accountability frameworks, and [[academic-integrity]] policies must precede large-scale deployment. Kasarci et al.'s (2025) four-level governance framework offers a template.
 - **Deliver competence-based educator training.** The professional-development gap is stark — only **6.5%** of faculty in some national contexts report direct AI use for education — and training must move beyond tool familiarization to [[pedagogy|pedagogical]] frameworks that preserve human agency.
 
-## Limitations and future directions
+## Future directions
 
-The evidence base is methodologically young: mostly short-term case studies and design demonstrations, few [[rct|RCTs]], and a near-total absence of longitudinal work — so causal claims about [[learning-gains|learning outcomes]] cannot yet be made. The review calls for multi-year cohort studies tracking achievement and [[self-regulated-learning|self-regulation]], and for research on **integrated multi-agent campus architectures** — orchestrating tutoring, assessment, administrative, curriculum, and research agents within unified systems — since current evidence treats each role in isolation and misses emergent, systemic effects. A plausible five-year scenario: a university running an integrated, human-supervised campus-wide agent ecosystem.
+The review calls for multi-year cohort studies tracking achievement and [[self-regulated-learning|self-regulation]], and for research on **integrated multi-agent campus architectures** — orchestrating tutoring, assessment, administrative, curriculum, and research agents within unified systems — since current evidence treats each role in isolation and misses emergent, systemic effects. A plausible five-year scenario: a university running an integrated, human-supervised campus-wide agent ecosystem.
 
 ## Significance to the Knowledge Base
 
@@ -76,7 +76,7 @@ This review's role-based map and outcome quantification distinguish it from the 
 - The protocol was set a priori but was not prospectively registered (for example, in PROSPERO), and screening and data extraction were performed by a single author, with a second screener cross-checking only a 15% random sample for reliability.
 - The 48 included studies were drawn from 1247 records in five databases (Scopus, Web of Science, ERIC, Google Scholar, Wiley) with a hard March 2026 cut-off; sources found in the July 2026 search update were added narratively rather than re-entered into the screening flow, so the pathway counts describe the earlier corpus only.
 - The corpus is geographically skewed — North America 35%, East and South Asia 28%, Europe 21%, [[global-south|Global South]] 10% — a concentration the authors name as a notable limitation, and adaptive-tutoring evidence is dominated by STEM and language learning, leaving the humanities, social sciences, and professional education under-evidenced.
-- Agentic status was assigned by a threshold rule rather than a validated taxonomy — a study counted as agentic only if its system met at least three of four criteria (autonomy, planning, tool use, persistent memory) — so the six role counts depend on that binary classification judgment, and vendor documentation and technology reports are cited illustratively in the Results and Discussion without being counted among the 48 included studies.
+- Agentic status was assigned by a threshold rule rather than a validated taxonomy — a study counted as agentic only if its system met at least three of four criteria (autonomy, planning, tool use, persistent memory) — so the six role counts depend on that binary classification judgment, and vendor documentation and technology reports are cited illustratively in the Results and Discussion without being counted among the 48 included studies. The evidence base the review synthesizes is itself methodologically young — mostly short-term case studies and design demonstrations, few [[rct|RCTs]] and a near-total absence of longitudinal work — so causal claims about [[learning-gains|learning outcomes]] cannot yet be made.
 
 ## Connected Concepts
 

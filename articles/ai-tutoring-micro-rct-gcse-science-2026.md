@@ -1,7 +1,7 @@
 ---
 title: "Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomised Trials of an AI Tutoring Platform in GCSE Science"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [intelligent-tutoring, edtech-platform]
 assessment: [assessment, learning-gains]
@@ -48,11 +48,9 @@ The randomized contrast is modest in absolute marks and moderate in standardized
 
 The engagement results illustrate the paper's discipline about inference. The positive association between questions answered and attainment is compatible with a treatment mechanism, but may equally reflect motivation, prior capability or access, so the authors keep the randomized intention-to-treat contrast as "the causal center of the evidence" and treat usage data as hypothesis-generating. Implementation findings identify technical friction — mobile-device access and login above all — and variation in how schools positioned the tool, which in a rapid cumulative model become features to modify and retest in the next randomized cycle rather than terminal findings.
 
-## Limitations and the Adaptive Evidence Base
+## Research agenda
 
-The limitations section names five constraints directly: missing post-test data for 30.7% of baseline participants; AI marking checked by teachers but not replaced by independent blinded assessment; short follow-up; process evidence from 6 of 39 teacher trials; and engagement analyses vulnerable to post-randomization selection. A final limitation is definitional — the study evaluates one configuration of one platform at one point in its development, which is precisely the problem the paper's wider argument addresses. Funding came from Medly, which commissioned the evaluation, and the authors state no other competing interests.
-
-The constructive claim is that these limits do not make an initial estimate uninformative; they define what the next evaluation cycle must test more securely. The mature question shifts from "what is the effect of this platform?" to "what distribution of effects is produced when this evolving AI-supported pedagogical approach is implemented across pupils, teachers, contexts and technological versions?" For developers the proposal makes evaluation part of responsible product development rather than a certification exercise conducted after the fact; for schools it offers a way to contribute to a shared evidence base while testing questions in authentic settings; for evaluators it requires common protocols, secure randomization, transparent reporting, consistent core outcomes and explicit version documentation.
+The paper's constructive claim is that the study's limits do not make an initial estimate uninformative; they define what the next evaluation cycle must test more securely. The mature question shifts from "what is the effect of this platform?" to "what distribution of effects is produced when this evolving AI-supported pedagogical approach is implemented across pupils, teachers, contexts and technological versions?" For developers the proposal makes evaluation part of responsible product development rather than a certification exercise conducted after the fact; for schools it offers a way to contribute to a shared evidence base while testing questions in authentic settings; for evaluators it requires common protocols, secure randomization, transparent reporting, consistent core outcomes and explicit version documentation.
 
 ## What this means for practice
 
@@ -67,7 +65,7 @@ The constructive claim is that these limits do not make an initial estimate unin
 - **Substantial and differential attrition.** Only 644 of 929 randomized students completed post-testing (30.7% missing), and loss to follow-up was higher in the control arm (33.2%) than in the intervention arm (27.7%), which the authors flag as a potential source of bias.
 - **Non-standardized, teacher-checked outcomes.** Attainment was five curriculum-aligned questions per subject out of 35 marks, with different items at pre- and post-test, and AI marking was checked and amendable by the class teacher rather than replaced by independent blinded assessment.
 - **Four-week follow-up.** The trial captured short-term learning on a topic that had already been taught, not persistence, transfer, or examination performance.
-- **Thin process evidence and post-randomization engagement.** Only 6 of 39 teacher trials returned a process survey, and the 0.18-marks-per-additional-question association conditions on engagement observed after randomization, so it cannot be read as a causal dose-response.
+- **Thin process evidence, post-randomization engagement, and funding provenance.** Only 6 of 39 teacher trials returned a process survey, and the 0.18-marks-per-additional-question association conditions on engagement observed after randomization, so it cannot be read as a causal dose-response. Funding came from Medly, which commissioned the evaluation; the authors report no other competing interests.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing learner-centered feedback with AI: teachers'' practices and perceptions"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [educational-development, teacher-role]
 pedagogy: [scaffolding]
@@ -42,6 +42,20 @@ confidence: high
 - The tools were most valuable as **reflective prompts that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' evaluative judgment, rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
 - **Design implications:** adjustable tone parameters, [[discipline-specific-aied|discipline-specific]] templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
 - The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgment.
+
+## What this means for practice
+
+- **Instructors.** Use the ML component list as a coverage check before sending feedback: 20 of the 21 teachers omitted "Meeting Learning Objective" and 14 omitted "Student–Teacher Relationship," and those were the two components the model most often surfaced.
+- **Instructors.** Budget time for post-editing instead of expecting the tool to finish the job — 12 of 21 teachers rewrote the ChatGPT text, mostly editing (f = 32) and deleting (f = 27), and several reported that revising the output took as long as writing the feedback themselves.
+- **Instructors.** Expect to strip inflated praise and generic encouragement by hand: revisions clustered in the relational dimension of feedback (Student–Teacher Relationship f = 24; encouragement f = 11), and teachers systematically moderated tone to keep their professional voice.
+- **Faculty developers.** Design training around evaluative judgment, not tool operation: less-experienced teachers valued the tool's coverage and speed, while teachers with more than five years of experience flagged tone, editing burden, trust, and misinformation risk — the authors warn that novices who defer to suggestions may build less independent judgment.
+- **Faculty developers.** Build a review step for relational language into any [[human-in-the-loop-ai|AI feedback]] pilot, since teachers treated the affective dimension as the part that cannot be delegated.
+
+## Limitations
+
+- Only 21 teachers were studied, and they worked in a controlled environment on a single simulated task — giving feedback on one three-minute recorded student self-introduction, not feedback in their own courses.
+- The study measured teacher interaction and perception only; no student outcomes or student perspectives were collected, so the effect of these tool-supported feedback practices on learners is untested.
+- Several findings rest on very small counts — the 100% acceptance of Affirmation and Encouragement suggestions reflects 6 cases, and the challenge codes have a denominator of 11 teachers — so the components of the "assist but verify" pattern vary substantially in evidential weight.
 
 ## Connected Concepts
 

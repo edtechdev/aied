@@ -1,7 +1,7 @@
 ---
 title: "Comparing human and LLM ordered coding of qualitative data: How coding differences cascade through temporal analysis"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-09-19T11:24:16-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [educational-nlp, generative-ai, learning-analytics, llm]
@@ -39,6 +39,7 @@ The researchers treat coding quality not as a single accuracy number but along m
 - **Learning analytics designers.** Expect systematic rather than random deviation: the model foregrounded surface-level social exchange (Socializing, Reaction) and under-represented regulatory and collaborative processes (Coordination, CoRegulation, Monitoring), which risks painting a more rigid, socially-driven picture of group learning than human coders would produce.
 - **Learning analytics designers.** Protect the temporal analyses downstream: plausible-looking coding can cascade its deviations into later results, so the size of the disagreement matters more than how fluent the coding looks.
 - **Researchers.** Reconsider what counts as ground truth: human coding is treated as the reference here even though coding is interpretive and, in an ordered scheme, disagreement can come from where the text is segmented as much as from which code applies.
+
 ## Limitations
 
 - **One dataset, one institution.** The evaluation used three courses at a single institution with Discord as the collaboration medium, so generalizability to other learning processes, discourse types and educational levels is untested.

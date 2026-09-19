@@ -1,7 +1,7 @@
 ---
 title: Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education]
 technology: [generative-ai, learning-analytics]
@@ -28,9 +28,19 @@ page_kind: [evaluation]
 
 This full [[research-methods-aied|research]] paper investigates how students integrate GenAI tools when learning OOP and how different patterns of use relate to learning experiences and outcomes. The study surveyed 210 first-year undergraduates about their self-directed GenAI use, academic performance, perceived difficulty, understanding, and trust. Cluster analysis was used to derive learner-AI interaction profiles, which were then compared on the self-report and performance measures.
 
-## Implications for AI in Education
+## What this means for practice
 
-The absence of performance differences across usage clusters underscores the need for **pedagogically guided and process-aware AI support** in programming education: letting students self-direct their GenAI use, even in sophisticated patterns, does not by itself produce learning gains. The "smart" profile — high conceptual support and debugging with low code generation — offers a concrete target for [[learning-design|course design]], suggesting educators should steer students toward explanation seeking and debugging rather than answer generation in [[cs-education]] settings.
+- **Learners.** Use GenAI for explanation seeking and debugging rather than code generation: students reached for those purposes significantly more often, and the profile with the lowest code-generation reliance reported the strongest conceptual support.
+- **Learners.** Do not read heavy tool use as progress — the higher-usage profiles reported more trust in AI-generated code alongside greater perceived assignment difficulty and lower self-assessed understanding.
+- **Learners.** Expect self-directed use alone to move no grades: no significant assessment-performance difference appeared across the five interaction profiles, so treat the tool as support for reasoning rather than a substitute for working problems through.
+- **Learners.** Justify AI-assisted solutions and compare AI-generated code against your own, since the study ties deeper engagement to [[self-directed-learning|active]] explanation seeking, critical evaluation of outputs, and reflection on process rather than to unguided task completion.
+
+## Limitations
+
+- All measures were self-reported, with no logs of actual AI interaction, so the five clusters are perceived usage profiles subject to recall bias and social-desirability effects, especially on rule compliance.
+- The sample was 210 first-year undergraduates at a single institution in a single OOP course, limiting generalization to other settings and programming paradigms.
+- A moderate silhouette coefficient means the clusters overlap, so the profiles capture broad tendencies rather than sharply separable categories.
+- The design is observational rather than experimental, so the findings are descriptive associations; engagement depth was not measured and some clusters were small, leaving the study possibly underpowered for small performance differences.
 
 ## Connected Concepts
 

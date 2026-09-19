@@ -1,7 +1,7 @@
 ---
 title: "Systematic Review of Collaborative Learning Activities for Promoting AI Literacy"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, learning-design]
 pedagogy: [collaborative-learning]
@@ -36,15 +36,19 @@ The review followed the **PRISMA** methodology. A February 2024 search across **
 5. **Classroom-centric but broadening.** Most studies occurred in classrooms, but participation was deliberately broadened in several — involving parents and families (Long et al. 2022), educators and facilitators (Lee et al. 2022), and AI partners — connecting to [[community-centered-ai-education-adults]] and [[ai-literacy-equity-programming-policy]].
 6. **Limited but growing evidence base.** Nine studies is a small corpus reflecting the nascency of empirical [[research-methods-aied|research]] at this intersection. The authors call for more rigorous designs, larger samples, and longitudinal tracking of AI literacy development.
 
-## Implications
+## What this means for practice
 
-**For [[teacher-role|teaching]] and learning.** CL activities should be incorporated into AI literacy instruction so learners can co-create knowledge contextualized to their needs. Depending on the instructional goal, activities can target literacy, specific use-case knowledge, or domain knowledge. The **modality** of the activity is a key design consideration: designers should choose the ICAP mode that fits the learning goal and ensure learners have opportunities to engage with foundational concepts before synthesizing and generating new ideas — with attention to enabling the Active→Constructive transition that most advances comprehension.
-
-**For research.** Although evidence shows CL supports AI literacy, more studies are needed across diverse settings, and more [[design-based-research]] is required within a setting to understand whether multiple iterations improve outcomes. The corpus is disproportionately US-based; the authors caution that AI literacy need not take a singular global form but should be contextual to local communities, and may be integrated with data or digital literacy. More work is needed on how AI partners can best support the learning of AI itself, and on how human–human versus human–[[student-ai-interaction|AI interaction]] shapes learners' understanding of AI's capabilities and constraints.
+- **Instructors.** Incorporate [[collaborative-learning|collaborative learning]] activities into AI literacy instruction so learners co-create knowledge contextualized to their own needs.
+- **Instructors.** Target the instructional goal when choosing an activity — literacy, specific use-case knowledge, or domain knowledge — and pick the [[icap-framework|ICAP]] mode that fits it.
+- **Instructors.** Give learners opportunities to engage with foundational concepts before they synthesize and generate new ideas, with attention to the Active→Constructive transition that most advances comprehension.
+- **Researchers.** Extend the evidence across diverse settings with more [[design-based-research|design-based research]] within a setting, to establish whether multiple iterations improve [[learning-gains|outcomes]].
+- **Researchers.** Investigate how AI partners can best support the learning of AI itself and how human–human versus human–[[student-ai-interaction|AI interaction]] shapes learners’ understanding of AI’s capabilities and constraints, noting that the corpus is disproportionately US-based and that AI literacy need not take a singular global form but should be contextual to local communities and may be integrated with data or digital literacy.
 
 ## Limitations
 
-The nine studies were implemented in heterogeneous learning contexts, making cross-study synthesis difficult. The search may have excluded relevant studies using different terminology for the same constructs. And the controlled learning environments described may omit elements of real-world collaboration (interactions with colleagues, repositories, or other resources) that are hard to replicate.
+- The nine studies were implemented in heterogeneous learning contexts, which makes cross-study synthesis difficult.
+- The search may have excluded relevant studies that used different terminology for the same constructs.
+- The controlled learning environments described may omit elements of real-world collaboration — interactions with colleagues, repositories, or other resources — that are hard to replicate.
 
 ## Connected Concepts
 

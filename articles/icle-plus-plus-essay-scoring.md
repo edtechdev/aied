@@ -1,7 +1,7 @@
 ---
 title: "ICLE++: Modeling Fine-Grained Traits for Holistic Essay Scoring"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:54:24-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [llm]
 assessment: [automated-assessment, automated-essay-scoring, educational-measurement, formative-assessment]
@@ -24,11 +24,19 @@ methods: [benchmark]
 - **Trait-level scoring advances:** Fine-grained trait annotations support multi-trait scoring and cross-prompt scoring, moving AES beyond single holistic score prediction
 - **Addresses ASAP limitations:** ASAP's confounding variables — essay length as a proxy for quality in timed settings, native-speaker-only population — are well-documented; ICLE++ provides a complementary benchmark
 
-## Implications for AI in Education
+## What this means for practice
 
-ICLE++ strengthens the [[automated-essay-scoring]] research ecosystem by providing a second major annotated corpus that can test whether AES advances generalize beyond ASAP. This connects directly to [[assessment-validity]] concerns: if models trained on one corpus fail on another, their scores are not valid measures of [[writing-education|writing quality]]. The trait-specific annotations also enable more diagnostically useful AES — rather than a single score, systems can report strengths and weaknesses across specific writing dimensions, supporting [[formative-assessment]] and connecting to psychometric frameworks like [[item-response-theory]].
+- **Software developers.** Test cross-corpus generalization before trusting an [[automated-essay-scoring|AES]] model: models trained on ASAP often fail on other corpora, which is an [[assessment-validity]] problem — a score that does not transfer is not a valid measure of [[writing-education|writing quality]].
+- **Software developers.** Report holistic and the 10 trait-level scores separately and per corpus, because trait scoring on ICLE++ was weaker than on ASAP and traits depressed within-prompt holistic scoring there while slightly improving cross-prompt scoring.
+- **Software developers.** Move reporting beyond a single holistic number: the trait annotations support per-dimension strengths and weaknesses, which is what makes an AES output usable for [[formative-assessment]] and for psychometric framing such as [[item-response-theory]].
+- **Software developers.** Benchmark against ICLE++ alongside existing evidence — psychometrically aware scoring as in [[psyscore-essay-scoring-zpd-feedback]], prompting-based results such as [[choi-anchor-aes-prompting-2025]], and the validity gaps documented for linguistically diverse writers in [[ai-scoring-language-bias-physics]] and [[self-referential-l2-writing-llm-assessment]].
 
-The work complements [[psyscore-essay-scoring-zpd-feedback]]'s psychometrically-aware trait scoring and [[choi-anchor-aes-prompting-2025]]'s finding that [[prompt-engineering|prompting]]-based AES with anchor papers approaches human reliability. While Choi et al. show what prompting can achieve holistically, ICLE++ provides the annotated data needed to evaluate whether trait-level scoring generalizes — a question also explored by [[self-referential-l2-writing-llm-assessment]] for L2 learners. The cross-corpus generalizability question likewise connects to [[ai-scoring-language-bias-physics]]'s finding that AI scoring systematically underestimates linguistically diverse students, and to [[aiawe-automated-writing-evaluation]]'s demonstration that [[open-source]] models can achieve strong AES performance on specific datasets.
+## Limitations
+
+- The 10 traits and holistic scores were annotated on persuasive essays only, so the authors state their findings are limited to that genre.
+- The essays were written by university undergraduates who are non-native speakers of English, and it is not clear whether the conclusions generalize to native-speaker high school essays such as those in ASAP.
+- Trait scoring results were poorer on ICLE++ than on ASAP and hurt within-prompt holistic scoring, and the authors note that additional experiments are needed to explain why traits still improved cross-prompt scoring.
+- The corpus cannot be redistributed — source essays stay under ICLE's license and only the annotations with identifiers pointing to them are released, for non-profit research use.
 
 ## Connected Concepts
 

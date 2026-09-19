@@ -1,7 +1,7 @@
 ---
 title: "Agreement and error in automated scoring of student marketing posts"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [llm, simulation]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, feedback]
@@ -45,15 +45,11 @@ Adding the researcher-authored anchors changed the agreement estimates substanti
 
 The anchors also exposed a specific scoring failure. ANCHOR-11, whose body was a full stop with six relevant hashtags, drew 75 points from the LLM against a human mean of 30.5 (+44.5), and the exploratory probe of 12 items reproduced high scores across near-empty conditions with growing hashtag counts: 30–35 with zero hashtags, 35–37 with one, 51 with three, 67–75 with six and 75 with twelve relevant hashtags. The six-irrelevant-hashtag item scored 30 on both runs, non-empty low-quality items scored between 25 and 35, and the authentic short relevant control scored 84 twice. The pattern points to a scorer that awards credit for hashtag relevance when there is little body text to assess, which the authors say should be tested with body length and hashtag content varied independently. Three of the 12 probe items differed between the two runs, the largest gap being eight points.
 
-## Implications for Automated Scoring and Feedback Design
-
-The study's practical recommendation is procedural: evaluate an automated score on the student submissions it will actually judge, and report score differences alongside rank ordering rather than substituting one for the other. Equal weighting was not neutral — the hybrid inherited the deterministic component's negative student-corpus bias, and its ICC(2,1) intervals lay below the .70 benchmark in the student subset. The authors also note that MAE quantifies disagreement within a corpus, but deciding whether an error is tolerable requires a tolerance tied to the expected learning effect, which this study did not specify. For [[business-education]] and [[writing-education]] contexts, that implies calibrating raters, aligning rubric and prompt band descriptions, and retaining blinded independent human assessment before a scorer serves as the outcome measure in a feedback experiment. Limitations are stated plainly: the corpus covers one brand task and 60 English translations without assessing translation effects, both main model runs happened once on different dates with aliases instead of fixed snapshots, and the bootstrap intervals are conditional on the two raters used.
-
 ## What this means for practice
 
 - **Assessment designers.** Evaluate an automated scorer on the student work it will actually judge, not on an anchor-extended corpus: on the 60 student posts the [[llm]] reached ICC(2,1) = .435 and the equal-weight hybrid only .266, both below the .70 [[benchmark]] that the full 75-post corpus appears to clear (.846 and .752).
 - **Assessment designers.** Report absolute score differences alongside rank ordering, because the hybrid's Spearman correlation of .714 exceeded the LLM's .650 while its totals still sat 10.53 points below the human mean.
-- **Assessment professionals.** Calibrate human raters and align rubric band language before automating: the two raters differed by 8.33 points on their mean totals (84.42 versus 76.08), and the human rubric's four bands differed from the wording given to the model.
+- **Assessment professionals.** Calibrate human raters and align rubric band language before automating: the two raters differed by 8.33 points on their mean totals (84.42 versus 76.08), and the human rubric's four bands differed from the wording given to the model. In [[business-education|business]] or [[writing-education|writing]] education, retain blinded independent human assessment as the outcome procedure before a scorer becomes the outcome measure in a feedback experiment.
 - **Assessment designers.** Probe scorers with near-empty submissions that carry hashtags — ANCHOR-11, a full stop with six relevant hashtags, drew 75 points from the LLM against a human mean of 30.5, an error of +44.5.
 - **Researchers.** Fix a tolerance tied to the expected learning effect before using an automated score as an outcome measure; MAE quantifies disagreement, but this study did not specify what error is tolerable for [[feedback]] purposes.
 

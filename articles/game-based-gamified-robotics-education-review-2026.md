@@ -1,7 +1,7 @@
 ---
 title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [game-based-learning]
@@ -41,7 +41,9 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 
 ## Limitations
 
-As a systematic review, its conclusions depend on the quality and reporting of the 95 included studies; heterogeneous methods and outcome measures across studies complicate direct comparison. The 2014–2025 scope predates some recent advances in [[llm]]-powered robotics education. The review focuses on GBL/gamification, so robotics education outside these approaches is not the focus.
+- **Evidence base.** As a systematic review, its conclusions depend on the quality and reporting of the 95 included studies; heterogeneous methods and outcome measures across those studies complicate direct comparison.
+- **Search window.** The 2014–2025 scope predates some recent advances in [[llm]]-powered robotics education.
+- **Scope.** The review focuses on GBL and gamification, so robotics education outside those approaches is not covered.
 
 ## Connected Concepts
 

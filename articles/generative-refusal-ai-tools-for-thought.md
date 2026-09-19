@@ -1,7 +1,7 @@
 ---
 title: "Stop Writing for Me: Generative Refusal in AI Tools for Thought"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [learning-theories, scaffolding]
@@ -28,9 +28,19 @@ audience: [designers, edtech designers, instructors]
 
 Instead of bypassing cognition, the Maieutic Interaction Framework returns cognitive friction to the user: the system withholds drafts and generates questions that prompt reflection, inverting the efficiency-oriented default in which generative tools write for users. For [[creativity]] support and [[writing-education]], the framework suggests that the *absence* of generated text can be a deliberate design feature rather than a deficiency, protecting the constructive thought process that the labor of articulation is meant to build.
 
-## Implications for AI in Education
+## What this means for practice
 
-The position paper generalizes beyond theater: wherever the labor of articulation is the point of the learning activity, AI tools should be designed to protect human cognition against "the tendency of generative efficiency." This connects directly to [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] concerns in education — if tools always complete the writing, students lose the constructive thought process the task was designed to build — and supports [[scaffolding]] designs in which AI prompts, questions, and withholds rather than completes.
+- **Designers.** Treat refusal as a designed mechanic rather than a missing feature: wherever the labor of articulation is the point of the activity, have the tool return [[scaffolding|scaffolded]] questions instead of drafts, as Actor's Note does with three rehearsal-stage-specific questions per entry, so the constructive thought process AI would otherwise bypass is protected against generative efficiency.
+- **Instructors.** Evaluate such tools by internalization rather than output speed — after assistance was removed, participants recalled or self-generated the AI's questioning style at M = 4.87 on a 7-point scale — and build a post-tool performance check into any AI-supported learning task.
+- **Edtech designers.** Match friction to the workflow phase as the 14-day crossover deployment found: low-friction prompts to break early inertia, harder challenging questions later to counter fixation, since the early-AI group showed a momentum effect while the late-AI group gained Narrative Transportation (p = .0128).
+- **Instructors.** Frame AI reflection spaces as non-judgmental sandboxes so students disclose unpolished thinking, then route that material back into human feedback loops instead of letting private AI work replace them.
+
+## Limitations
+
+- The empirical core is one 14-day in-the-wild study with 29 professional and student actors in a single discipline (actor training), and it compares AI-assisted with unassisted journaling rather than with a text-generating tool.
+- Primary outcomes are self-reported daily surveys of cognitive burden, intrinsic motivation, and acting confidence plus post-study interviews, so the reported effects rest on subjective measures.
+- The internalization finding (M = 4.87 of 7) is a single post-study self-report with no delayed follow-up, and the log measures (lexical diversity, emotion words) describe written output rather than assessed learning.
+- Extension beyond theater is argued by analogy: the paper raises coding and academic writing as workshop discussion questions rather than testing refusal designs there, and its four design implications are proposals from a 4-page position paper rather than validated interventions.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [motivation, self-regulated-learning]
@@ -40,7 +40,10 @@ The authors used a cross-sectional survey design with a convenience sample of 1,
 
 ## Limitations
 
-The cross-sectional design precludes causal inference, and the convenience sample of Chinese university EFL learners bounds generalizability to other populations and contexts. All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are self-report measures collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated. The study focuses on perceptions of GenAI feedback rather than objective [[ai-feedback-quality|feedback quality]] or its actual behavioral effects on speaking performance.
+- The cross-sectional design precludes causal inference.
+- The convenience sample of Chinese university EFL learners bounds generalizability to other populations and contexts.
+- All constructs (perceptions of feedback, pronunciation self-efficacy, WTC) are self-report measures collected at a single time point, so the mediating role of self-efficacy is inferred from covariance rather than manipulated.
+- The study focuses on perceptions of GenAI feedback rather than objective [[ai-feedback-quality|feedback quality]] or its actual behavioral effects on speaking performance.
 
 ## Connected Concepts
 

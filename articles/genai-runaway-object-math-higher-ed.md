@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a runaway object in higher education: A socio-cultural view on AI-influenced academic practice in mathematics"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [educational-development]
 pedagogy: [learning-theories]
@@ -31,13 +31,18 @@ page_kind: [framework]
 
 The study draws on qualitative data from ten academics in a mathematics department at a Swedish university. Data were collected in the early weeks of the spring semester of the 2024–2025 academic year (January–March), at an early stage of GenAI adoption; the primary source was semi-structured individual interviews of approximately one hour each, audio-recorded and fully transcribed. Analysis followed a thematic approach inspired by Braun and Clarke (2006), informed by CHAT constructs (Engeström, 1987), combining inductive coding grounded in participants' accounts with deductive, activity-theoretical coding; themes were assessed for robustness through recurrence across the ten interviews. Using CHAT as its analytical lens, the study treats teaching and research as interrelated activity systems and examines how GenAI acts as a runaway object within them. By highlighting early-stage dynamics, the analysis demonstrates the analytical value of this lens for examining how GenAI is being negotiated within mathematics teaching and research in [[higher-ed]].
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[higher-ed]] institutions and [[math-education]] departments, the findings suggest that formal policy is lagging behind practice: because adoption is driven by students and peer networks, institutions may be designing governance for a technology that is already reshaping academic work from below — and participants themselves called for shared institutional frameworks so that "every teacher" is not forced to invent their own approach. The five themes give [[educational-development]] and institutional strategy a vocabulary for responding — acknowledging epistemic concerns and reconfigured roles rather than treating GenAI as a neutral tool — and for deciding where [[educational-policy-ai]] should intervene. The observed shifts in [[teacher-role]] — from content expert to mediator of critical [[student-engagement|engagement]], with students sometimes more fluent in the tools than their instructors — point to concrete faculty-development needs around assessing meaningful engagement and maintaining [[pedagogy|pedagogical]] control in AI-supported classrooms.
+- **Faculty developers.** Push for shared institutional frameworks rather than leaving "every teacher" to invent their own approach: formal policy is lagging behind practice because adoption is driven by students and peer networks, so [[higher-ed|higher education]] and [[math-education|mathematics]] departments may be designing governance for a technology that is already reshaping academic work from below.
+- **Faculty developers.** Use the study's five themes as a vocabulary for [[educational-development|educational development]] and institutional strategy — acknowledging epistemic concerns and reconfigured roles rather than treating [[generative-ai|GenAI]] as a neutral tool — and for deciding where [[educational-policy-ai|policy]] should intervene.
+- **Faculty developers.** Support the shift in [[teacher-role]] from content expert to mediator of critical [[student-engagement|engagement]], with students sometimes more fluent in the tools than their instructors, and build capacity to assess meaningful engagement and maintain [[pedagogy|pedagogical]] control in AI-supported classrooms.
+- **Faculty developers.** Treat the epistemic concerns participants raised as a development need: they described a tension between the convenience of AI-generated outputs and the deeper purpose of learning mathematics, warning of a "fake sense of being good at something" when polished output replaces genuine struggle.
 
 ## Limitations
 
-The study is a qualitative, activity-theoretical case study at a single institution within the Swedish higher education context, where relatively high levels of institutional trust and proactive engagement with AI are evident; the observed dynamics therefore reflect a specific configuration of rules, norms, and community relations and are not representative of other settings. Data were collected at one point in time in the early stage of GenAI adoption, so findings are context-bound and in flux — practices that currently appear peripheral, supportive, or informal, particularly in research, may become more embedded or differently regulated over time. The authors also caution that the findings identify empirical patterns consistent with a runaway-object perspective rather than fully demonstrating GenAI as a runaway object in the strong sense proposed by Engeström.
+- The study is a qualitative, activity-theoretical case study of ten mathematics academics at a single institution in the Swedish higher education context, where relatively high levels of institutional trust and proactive engagement with AI are evident, so the observed dynamics reflect a specific configuration of rules, norms, and community relations and are not representative of other settings.
+- Data were collected at one point in time, in the early weeks of the 2024–2025 spring semester, so findings are context-bound and in flux — practices that currently appear peripheral, supportive, or informal, particularly in research, may become more embedded or differently regulated over time.
+- The authors also caution that the findings identify empirical patterns consistent with a runaway-object perspective rather than fully demonstrating GenAI as a runaway object in the strong sense proposed by Engeström.
 
 ## Connected Concepts
 
