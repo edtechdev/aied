@@ -1,7 +1,7 @@
 ---
 title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design"
 created: "2026-05-17T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, educational-development, teacher-role]
 pedagogy: [scaffolding]
@@ -44,21 +44,24 @@ Artifact analysis (n=15, five per cluster) organized findings by AI-specific dim
 
 Interviews revealed systematic differences beneath the behavioral patterns. Systematic Optimizers demonstrated sophisticated AI-TK centered on multi-agent integration — one teacher described "coordinating logic between agents" as the hardest part — combined with constructivist AI-TPK, high technical [[self-efficacy]], and externalization of barriers to platform limits. Prolific Creators showed functional but not architectural AI-TK, low self-efficacy ("we're quite weak in technology"), instrumentally pragmatic AI-TPK, and extreme support-dependence, explaining their template-seeded rapid prototyping. Passive Observers displayed polarized cognition mirroring their design dichotomy: high-capability teachers critiqued platform constraints such as "lacking open API access," while low-capability teachers felt "completely clueless," with both sharing positive attitudes yet extreme support-dependence. This polarization implies that behavioral patterns alone insufficiently predict AI-TPACK capacity — cognitive-affective factors must be considered.
 
-## Implications for Teacher Professional Development
-
-The findings call for **differentiated scaffolding** matched to archetype and cognitive-behavioral diversity:
-
-- **Systematic Optimizers** benefit from advanced system-design frameworks, thorough documentation, and open architectural affordances (e.g., API access).
-- **Prolific Creators** thrive with pedagogical frameworks, exemplar repositories, and modular, reusable components that bridge capability gaps and enable rapid feedback.
-- **Passive Observers** need structured templates, explicit modeling, guided practice, and confidence-building exercises plus real-time assistance to overcome low self-efficacy.
-
-Second, platforms should implement adaptive support systems that use [[learning-analytics|behavioral analytics]] to dynamically identify teacher profiles and deliver personalized resources. Third, trajectories from novice to expert require progressive scaffold fading: designers must build pathways helping teachers transition from template replication (C3) through pragmatic application (C2) toward systemic innovation (C1), so that support-dependence evolves into autonomous mastery.
-
-This connects to the [[teacher-ai-adoption-confidence]] finding that teacher confidence fully mediates [[governance|institutional]] support effects on AI adoption, and extends the [[teachingcoach-chatbot-instructor-guidance]] paradigm by arguing that coaching scaffolds must be personalized to teacher archetypes, not just content domains. It also echoes [[teacher-role]] reframing: as [[teacher-ai-competency]] shifts from tool use to agent orchestration, professional learning must address cognitive-behavioral diversity rather than technology training alone.
-
 ## Connection to Agentic AI in Education
 
 The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes [[benchmark|benchmarks]] for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?** The findings also resonate with [[agentic-workflows-education]] and [[multi-agent-instructional-design]], which explore how educators author and govern multi-agent systems in classroom contexts.
+
+## What this means for practice
+
+- **Faculty developers.** Diagnose teacher archetypes before designing the workshop: the 61 teachers' platform logs split into Systematic Optimizers (n = 18), Prolific Creators (n = 35), and Passive Observers (n = 8), and each group needs a different scaffold.
+- **Faculty developers.** Give Optimizers advanced system-design frameworks, documentation, and open architectural affordances such as API access; give Creators pedagogical frameworks, exemplar repositories, and modular reusable components; and give Observers structured templates, explicit modeling, guided practice, and confidence-building exercises with real-time assistance.
+- **Faculty developers.** Identify profiles from behavioral analytics rather than a self-report survey, then fade support deliberately so teachers move from template replication through pragmatic application toward systemic innovation.
+- **Faculty developers.** Budget for sustained on-site facilitation when running a multi-agent authoring workshop: the Creators' rapid prototyping depended on continuous guidance, and the Observers' browsing-anchored hesitation reflected support-dependence rather than disinterest.
+- **Faculty developers.** Do not read activity logs as a capacity measure: within the Passive Observer cluster, high-capability teachers who critiqued the platform's missing API access and teachers who felt "completely clueless" produced the same browsing-dominant pattern.
+
+## Limitations
+
+- The sample is 61 K-12 teachers who volunteered for a single two-day district-wide workshop in one coastal Chinese city, each producing exactly one multi-agent workflow on one platform (CocoFlow), so nothing in the design shows whether archetypes persist or whether the designs reach classrooms.
+- The artifact analysis covered only 15 workflows, five per cluster, and semi-structured interviews covered 12 teachers — a small, non-random subset of the clusters (inter-rater Cohen's κ = 0.81 for the artifact coding).
+- Clustering used K-means on action-type distributions with a silhouette of 0.389, a modest separation that does not establish the three archetypes as natural kinds.
+- No student outcome or classroom implementation data were collected; the study measures design behavior and self-reported cognition, not teaching effectiveness.
 
 ## Connected Concepts
 

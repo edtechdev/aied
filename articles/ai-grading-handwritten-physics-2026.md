@@ -1,7 +1,7 @@
 ---
 title: "Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-08-24T09:10:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [llm, multimodal]
 assessment: [assessment-validity, automated-assessment, summative-assessment]
@@ -21,6 +21,21 @@ Grading ran through GPT-5.5 Thinking at high effort (with GPT-5.5 Pro runs used 
 Total-score Pearson correlations were high in both rounds (RI r = 0.91–0.97; RII r = 0.93–0.96), though the AI consistently awarded slightly more than human examiners. Outcome-level agreement was the study's core contribution to [[automated-assessment]] [[research-methods-aied|research]]: for OE1 the AI recovered most of the larger top group (40 of the human top 50), and top-10 overlap improved from 3/10 in RI to 7/10 in RII. For OE2, both rounds placed the same five students in the top five as human grading, though in a different order — a result that held across AI-mode checks. For QM, RII matched 34 of 40 released course grades exactly and all 40 within one step on a nine-category grade scale. This direct test of whether AI reproduces [[summative-assessment]] decisions goes beyond average score agreement to consider the actual consequences of the scores.
 ## Partial Credit, Refinements, and Human-Review Flags
 Question-part analysis provided a stricter test: across 7,058 official question parts, exact agreement rose from about 63% in RI to 70% in RII, and parts differing by more than one point fell from 13% to 7%. The hardest problem remained exact partial-credit scoring, especially in experimental and diagram-based work. Focused refinements showed that stating the physics conditions for credit explicitly substantially improved agreement — for example, OE1 Q2 MAD fell from 38% to 17% and Pearson's r rose from 0.58 to 0.83. Confidence and review flags offered a useful triage mechanism: high-confidence parts consistently had much lower MAD than medium- or low-confidence parts, though some unflagged parts still disagreed, so flags should prioritize [[human-in-the-loop-ai|human review]] rather than authorize acceptance. This supports a [[psychometrically-aware-ai]] approach that treats AI as a second reader, audit tool, and consistency check under examiner control, aligned with frameworks that treat [[assessment-validity]] as a property of the proposed use of scores.
+## What this means for practice
+
+- **Assessment professionals.** State the physics conditions for awarding credit explicitly in every rubric line before automating: focused refinements touching about 3.6% of the combined rubrics raised exact agreement on question parts from about 63% to 70% across 7,058 official parts, with OE1 Q2 mean absolute difference falling from 38% to 17%.
+- **Assessment professionals.** Deploy AI as a second reader and audit tool under examiner control rather than as a scorer of record — total-score correlations of r = 0.93–0.96 in Round II still left 30% of question parts inexactly matched, and some high-confidence, unflagged parts disagreed with the official marks.
+- **Instructors.** Grade long handwritten submissions page by page and require the model to identify where credited evidence appears; this workflow raised the AI to 34 of 40 exact reproductions of released quantum-mechanics course grades and 40 of 40 within one grade step.
+- **Administrators.** Fund examiner time for rubric writing and review of flagged cases rather than headcount reduction: the AI consistently awarded slightly more than human examiners, especially on diagrams and experimental work, and this study recorded no comparable processing-time or token-cost data.
+- **Researchers.** Confirm any round-over-round gains on an untouched holdout examination, because the Round II instructions were written after inspecting Round I disagreements.
+
+## Limitations
+
+- **No independent human-human benchmark:** the reference was moderated official scores already checked by more than one examiner, and the authors state that a separate human regrading experiment was outside the study's scope, so AI-official differences are not compared with human-official differences under identical conditions.
+- **Instruction refinements were fitted to the same submissions:** the Round II gains (OE1 mean absolute difference 7.1% → 4.8%, QM 9.4% → 3.8%) followed disagreement analysis on these papers and need confirmation on an untouched examination or holdout set.
+- **Exact partial-credit scoring remains the weak point:** experimental and diagram-based work and conceptual reasoning were hardest, with the AI more willing than examiners to award credit for incomplete or visually plausible answers.
+- **Cost and workload figures are context, not measurement:** token usage and processing times were incompletely recorded because browser- and API-based workflows were combined, no human grading-time logs were kept, and the OE1 and OE2 datasets come from different years.
+
 ## Connected Concepts
 - [[automated-assessment]]
 - [[physics-education]]

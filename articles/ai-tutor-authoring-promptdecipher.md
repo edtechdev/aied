@@ -1,7 +1,7 @@
 ---
 title: "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions"
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, educational-development, teacher-role]
 technology: [intelligent-tutoring, llm, edtech-platform]
@@ -37,8 +37,20 @@ Because teachers must complete at least one such cycle before publishing, QA is 
 ## Demonstration
 The paper presents an interactive demonstration plan in which attendees author an AI tutoring bot end-to-end using provided laptops. In a short setup, the attendee creates a bot, enters a brief description of the learning context (e.g., "a [[socratic-method|Socratic tutor]] for introductory statistics"), and selects a foundation model. They then select a simulated student profile, read the bot's initial response, and edit it to reflect what they wish the bot had said, watching the Reverse Prompting Pipeline run live — showing the inferred intent, the proposed prompt update, and regression check results. After iterating through one additional scenario, they publish the bot and receive a shareable link to interact with it as a student.
 
-## Implications
-PromptDecipher demonstrates how authoring interface design can shape educator behavior at scale. By making the modification on the simulated tutoring chat — rather than the prompt — the primary unit of authoring, the system transforms an abstract engineering task into a familiar pedagogical one and embeds quality assurance structurally instead of relying on voluntary compliance. Scheduled for deployment in an "AI for Educators" MOOC with hundreds of higher-education instructors in fall 2026, the system will yield usage data to examine whether correction-based authoring increases testing rates and improves prompt quality relative to conventional workflows. For [[teacher-ai-competency]] and [[educational-development]], the work reframes the teacher's role from prompt author to learning designer and QA engineer, suggesting that effective [[generative-ai]] adoption in education may depend less on training teachers to write prompts and more on designing [[conversational-ai]] authoring environments that align with their existing pedagogical skills. Future directions include auto-generating additional edge-case scenarios and integrating [[ai-literacy|learning science guidance]] to help teachers recognize the pedagogical strategies surfaced through their own corrections.
+## What this means for practice
+
+- **Instructors.** Use authoring tools that let you correct a simulated bot response rather than hand-write a system prompt: making the response the unit of work converts prompt engineering into the corrective [[feedback]] teachers already give student work.
+- **Faculty developers.** Require a completed test-correct-verify cycle before any tutoring bot goes live, because the formative study found that nearly all of 121 teacher-authored chatbots were published with no systematic testing.
+- **Faculty developers.** Spend professional development on [[pedagogy|learning-design]] judgment and quality assurance rather than prompt-writing technique, since effective [[generative-ai]] adoption in education may depend more on authoring environments aligned with teachers' existing skills than on prompt training.
+- **Instructors.** Test a bot against explicit [[student-modeling|student profiles]] — expected path, struggling learner, off-topic input — and correct the responses you dislike before students ever meet the bot, which is the QA role the raw-prompt interface leaves out.
+- **Faculty developers.** Plan to evaluate the pipeline rather than assume it works: PromptDecipher's deployment in an "AI for Educators" MOOC with hundreds of higher-education instructors is scheduled for fall 2026 and is what will supply the usage data on testing rates and prompt quality.
+
+## Limitations
+
+- This is a three-page demonstration paper: PromptDecipher has not been evaluated with users, and the authors' planned MOOC deployment in fall 2026 is the study that will test whether correction-based authoring increases testing rates.
+- The motivating evidence is a formative study of 121 chatbots from a single "AI for Educators" MOOC that documents the absence of testing but compares no alternative authoring interface and runs no comparison condition.
+- The pipeline delegates intent inference and prompt rewriting to an [[llm]] and validates changes against previously passed test scenarios, with no reported benchmark of how accurately the inferred intent matches what the teacher intended.
+- The conference demonstration collects only informal feedback from attendees, so no measured usability or quality-assurance outcome is reported.
 
 ## Connected Concepts
 

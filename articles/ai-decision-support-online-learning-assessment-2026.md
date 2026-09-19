@@ -1,7 +1,7 @@
 ---
 title: 'Architecting an AI-Driven Decision Support System for Enhanced Online Learning and Assessment'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
@@ -28,8 +28,19 @@ methods: [meta-analysis-systematic-review]
 ## Study Design & Method
 This is a technical review (not a [[meta-analysis-systematic-review|meta-analysis]]) following PRISMA guidelines for rigor and transparency. A systematic literature search covered IEEE Xplore, Scopus, and Web of Science using keywords including "AI-based decision support," "online learning," "automated assessment," and "adaptive learning." The search targeted peer-reviewed journal articles, conference papers, and technical reports published between January 2020 and July 2025. [[inclusive-learning|Inclusion]] prioritized studies with empirical evaluations, novel AI-DSS frameworks, or real-world implementations; exclusion removed non-peer-reviewed sources and studies lacking technical depth. The review synthesizes findings through case studies of prominent platforms (e.g., a MOOC using NLP, an adaptive learning system using reinforcement learning) and comparative analyses of ~29 summarized studies (Tables 5–6), and proposes an implementation/validation roadmap (prototype → controlled pilot → A/B trials → multi-institution deployment).
 
-## Implications for AI in Education
-The paper positions AI-DSS as a cornerstone of modern educational technology that can address scalability, [[personalized-learning|personalization]], and assessment fairness simultaneously. For practitioners, it offers a concrete architecture and validation roadmap, emphasizing that AI systems must be co-designed with stakeholders and grounded in user-centric principles ([[accessibility]], [[multilingual-learning|multilingual]] support, [[bias-mitigation|bias-aware]] algorithms). For [[research-methods-aied|researchers]], it underscores persistent gaps—model interpretability, algorithmic bias, [[privacy|data privacy]] (GDPR/FERPA compliance), and cost—and points to future work in generative AI, multimodal integration, and cross-cultural studies for global accessibility. The review cautions that ethical safeguards, [[human-in-the-loop-ai|human oversight]], and regular fairness audits are essential if AI is to deliver [[equity-in-ai-education|equitable]] rather than amplified outcomes in education.
+## What this means for practice
+
+- **Designers.** Build the four components deliberately — data collection, AI processing, decision engine, user interface — and integrate through LTI into the LMS teachers already use, since the review specifies a modular layer rather than a replacement platform.
+- **Designers.** Plan the validation ladder before deployment: the review's roadmap runs prototype, controlled pilot, A/B trials, then multi-institution deployment, which is the sequence that establishes whether a decision engine actually changes learner outcomes.
+- **Administrators.** Budget for the documented failure modes rather than treating them as future work — [[hallucination-risk|hallucination]] in 15-25% of LLM responses, 20-30% outcome variability from reward design, and 40-50% higher costs in resource-limited settings — and require [[human-in-the-loop-ai|human oversight]], model interpretability, GDPR and FERPA compliance, and regular fairness audits alongside deployment.
+- **Administrators.** Make [[accessibility|accessibility]], [[multilingual-learning|multilingual]] support, and bias-aware algorithms procurement criteria, because the review's user-centric design requirement is where [[equity-in-ai-education|equity]] is decided rather than in the model choice.
+
+## Limitations
+
+- The paper is a technical review, not a meta-analysis: it reports performance figures from 29 summarized studies across two summary tables rather than pooling or re-analyzing them, so numbers such as "up to 70%" faster grading or a 0.85-0.90 correlation with human graders cannot be compared across systems.
+- The evidence window is January 2020 to July 2025 across IEEE Xplore, Scopus, and Web of Science, admitting conference papers and technical reports while excluding non-peer-reviewed sources, which bounds what the synthesis can say about deployment outside those venues.
+- The proposed four-component architecture is not itself evaluated: the modular design and LTI integration are a proposal, and validation is set out as a roadmap (prototype, controlled pilot, A/B trials, multi-institution deployment).
+- The field-level weaknesses it catalogs are the primary studies' own reported results — 15-25% LLM [[hallucination-risk|hallucination]], 20-30% outcome variability under reinforcement learning, 40-50% higher costs in resource-limited settings — and the review offers mitigation strategies rather than evidence that those strategies work.
 
 ## Connected Concepts
 - [[online-teaching-and-learning]]

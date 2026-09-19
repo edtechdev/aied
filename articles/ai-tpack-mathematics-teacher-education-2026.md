@@ -1,7 +1,7 @@
 ---
 title: "Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [self-efficacy]
 stakeholders: [tpack]
@@ -29,6 +29,21 @@ page_kind: [evaluation]
 **Teaching beliefs as cognitive barrier.** Strong traditional teaching beliefs showed weak negative associations with AI-TCK (β = −0.03) and AI-TPK (β = −0.15), contrary to the H2 hypotheses, interpreted via second-order barriers and the conflict between traditional mathematical rigor and AI's perceived unpredictability. AI-TK did not directly predict AI-TPACK but was mediated through AI-TPK (β = 0.30) and AI-TCK (β = 0.35), which in turn predicted overall AI-TPACK (β = 0.59 and 0.64) — consistent with Ouyang et al.'s "know-how/know-why/know-how-to-teach" synthesis.
 
 **Implication.** Mathematics teacher training must be redesigned to address both technical proficiency and psychological readiness (self-efficacy and beliefs), embedding AI-[[pedagogical-llm-training|pedagogical training]] continuously across the four-year [[curriculum-design|curriculum]] rather than as a single elective, and linking to the knowledge base's [[teacher-education]] and [[math-education]] concepts. Limitations include cross-sectional self-reported data with potential social-desirability bias, restriction to the Chinese mathematics-education context, and exploratory pruning of non-significant paths (H2b, H3c) pending larger-sample validation.
+
+## What this means for practice
+
+- **Faculty developers.** Embed AI-pedagogical training continuously across the four-year [[curriculum-design|curriculum]] rather than offering it as a single elective, because grade level and teaching experience did not raise AI-TPACK in this sample.
+- **Faculty developers.** Target [[self-efficacy]] directly with scaffolded hands-on AI use, since it was the strongest positive predictor of AI-TK (β = 0.69), AI-TCK (β = 0.78), and AI-TPK (β = 0.73).
+- **Faculty developers.** Move training past consumption-oriented uses such as searching for answers and drafting basic lesson plans toward advanced applications, because that is where the surveyed pre-service teachers were weakest (AI-TK M = 4.23, versus AI-TCK M = 4.53).
+- **Researchers.** Treat traditional [[pedagogy|teaching beliefs]] as a barrier to name and work on, since strong belief in mathematical rigor showed weak negative paths to AI-TCK (β = −0.03) and AI-TPK (β = −0.15).
+- **Researchers.** Use the 24-item domain-specific instrument to diagnose which of the six dimensions is weak before designing an intervention, and report the mediation structure — AI-TK reached AI-TPACK only through AI-TPK (β = 0.30) and AI-TCK (β = 0.35).
+
+## Limitations
+
+- The 412 pre-service mathematics teachers were surveyed at a single time point, so the structural paths, including self-efficacy's large coefficients, are correlational and the authors call for longitudinal work.
+- Every measure is self-report on 7-point Likert scales, which the authors identify as vulnerable to social-desirability bias in which participants overstate technical readiness.
+- The instrument was developed and tested only in the Chinese mathematics-education context, and the authors state that the high-stakes, rigor-oriented curriculum there limits direct application to other disciplines or cultures.
+- Two hypothesized paths (H2b and H3c) were non-significant and pruned from the final model, so the account of teaching beliefs as a cognitive barrier rests on exploratory respecification pending larger-sample validation.
 
 ## Connected Concepts
 

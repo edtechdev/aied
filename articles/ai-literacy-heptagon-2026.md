@@ -1,7 +1,7 @@
 ---
 title: "The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education"
 created: "2026-08-13T11:50:33-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 assessment: [assessment-validity]
@@ -28,10 +28,12 @@ institutions: [educational-policy-ai]
 
 The study used an integrative literature review (distinct from a meta-analysis, as it performs [[qualitative-research|qualitative]] synthesis rather than statistical pooling), following PRISMA principles for transparency. A systematic search of Web of Science and Scopus for English-language publications from 2021 (plus earlier foundational works) to 2024 used term combinations around AIL, higher education, [[teacher-role|teaching]]/learning AI, and stakeholders. The search was completed December 10, 2024, with additional sources via citation tracking, Google Scholar, and [[research-methods-aied|research]] discovery tools. Two independent coders applied open then axial coding to extract recurring competencies, resolving discrepancies through discussion, yielding the seven dimensions. Initial framework validation used structured expert-led "collaborative profiling sessions" with two program leaders (AI Engineering and Media Pedagogy) to map curricula onto the heptagon and its proficiency levels — explicitly framed as evaluating curricular structure and goals, not empirically measuring student competencies.
 
-## Implications for AI in Education
-
-The Heptagon provides educators and institutions a concrete, adaptable tool for structuring [[ai-literacy]] development in [[higher-ed]], addressing the field's fragmentation and the gap between conceptual definitions and curriculum implementation. It argues that AIL is not a monolithic competency but must be tailored to disciplinary contexts while maintaining seven core dimensions. The explicit [[inclusive-learning|inclusion]] of [[educational-policy-ai|legal and regulatory knowledge]] and integration skills responds to underrepresented dimensions in existing frameworks and to the fast-moving regulatory landscape. For curriculum designers, the framework supports competency-gap analysis (as demonstrated in the two validation programs), the design of targeted learning modules across dimensions and proficiency levels, and assessment tasks that integrate multiple AIL dimensions. It also situates AIL relative to media, computational, and data literacy, helping delineate what is and is not AI literacy.
-
+## What this means for practice
+- **Instructors.** Audit your course against all seven Heptagon dimensions rather than equating [[ai-literacy]] with tool proficiency, and record which dimensions your modules currently leave untouched.
+- Set Beginner-level competence in every dimension as the baseline for all students, and reserve Intermediate and Expert targets for the domain-specific extensions your discipline actually requires.
+- Give legal and [[regulation|regulatory]] knowledge explicit curricular time: it was the most underrepresented dimension in the reviewed literature yet covers obligations such as the EU AI Act that graduates meet as AI deployers.
+- Use the four proficiency levels (Unaware, Beginner, Intermediate, Expert) to run a competency-gap analysis of existing modules, then redesign the modules whose outcomes cluster in a single dimension.
+- Design [[assessment]] tasks that require students to combine several dimensions at once — for example, by having them justify a tool choice on technical, [[ethics|ethical]], and legal grounds together — rather than testing technical skill and ethical reasoning as separate items — and make explicit where AI literacy ends and computational or data literacy begins.
 ## Limitations
 
 The literature review is bounded to 2021–2024 English-language publications in Web of Science and Scopus, potentially missing relevant work. The initial validation is qualitative and small-scale — two expert-led curriculum mappings — explicitly framed as illustrating the framework's utility rather than empirically validating its effectiveness or measuring student competencies. The authors note the [[visualization]] lacks granularity at the expert level and that the knowledge-skills-attitudes three-dimensional nature is not explicitly represented in the visual model. The framework is a proposed instrument requiring further validation across more programs and disciplines.

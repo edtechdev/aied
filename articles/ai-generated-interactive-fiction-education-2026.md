@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Interactive Fiction for Educational Use: A Pilot Study of Perceived Comprehensibility, Coherence, and Engagement"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T10:15:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [curriculum-design]
 pedagogy: [student-engagement]
@@ -43,11 +43,20 @@ Two families of design targets emerge. First, participant-driven changes: make t
 
 The study is a small convenience-sample pilot in a single STEM sub-domain with single-exposure sessions and deliberately no learning-outcome measure. Findings are specific to the pipeline-model combination (Qwen3 14B), and the single-rater qualitative coding, borderline two-item clarity reliability, and potential pro-technology self-selection are acknowledged limitations.
 
-## Implications
+## What this means for practice
 
-For [[generative-ai]]-driven [[intelligent-tutoring|AI Tutoring]] and narrative [[curriculum-design]], the study suggests that [[scaffolding]] learning checks into interactive stories requires more than inserting questions — the story must motivate and respond to them coherently. This bears on [[student-experience]] and [[student-engagement]]: perceived coherence appears to be the limiting factor for sustained engagement with AI-produced narrative content, and [[agency]] (whether wrong answers carry story-level consequences) is central to that perception.
+- **Instructors.** Pilot any AI-generated scenario with real learners before classroom use: narrative clarity (M = 4.11) and length acceptance (M = 4.14) were rated positively, but story–content coherence was the weakest dimension (M = 2.92, with three of four items below the midpoint) and engagement sat at the neutral midpoint.
+- **Designers.** Motivate quiz prompts inside the fiction instead of inserting them mechanically — six of ten open-ended responses identified artificial in-fiction motivation for quizzes as the main friction point.
+- **Designers.** Attach story-level consequences to wrong answers rather than looping "try again", and suppress abrupt location or character changes in the generation or repair stage, because those defects coincided with the lowest coherence ratings (≤ 1.75).
+- **Instructors.** Pair structured ratings with qualitative feedback and gameplay telemetry when trialing [[pedagogical-agent]] narrative tools; here self-report was decoupled from gameplay performance (|ρ| ≤ 0.38, none significant), so low coherence ratings were not simply frustration over quiz scores.
+- **Researchers.** Replace verbatim quiz-fidelity checks with a semantic-equivalence check (for example an [[llm|LLM]] judge with [[human-in-the-loop-ai|human review]]) and extend playability validation from start-to-end reachability to traversal or objective coverage inside the repair loop.
 
-The work connects to broader efforts to make AI-generated instructional media usable, including [[video-education|AI-generated videos]] and slides in computing education, and to [[educational-nlp]] [[research-methods-aied|research]] on automated content generation. It also speaks to [[ai-ed-evaluation]] and [[usability-research]] methodology: pairing structured ratings with qualitative feedback and gameplay telemetry offers a template for piloting [[pedagogical-agent]]-driven narrative tools. As a pilot with a small sample, it is a design-oriented contribution that motivates larger follow-ups on [[learning-gains|learning effectiveness]] rather than an efficacy study in itself.
+## Limitations
+
+- **Small convenience-sample pilot:** 22 STEM-affiliated adults at a single university (University of Lübeck) each played one randomly assigned scenario, and pro-technology self-selection is acknowledged.
+- **Single exposure in one sub-domain:** stimuli came from 20 fixed seeds in media technology (48 scenarios survived filtering), with 5–10 minute sessions (median play 5.7 minutes) and no repeated use or second domain.
+- **No learning-outcome measure by design:** the study evaluates perceived quality only, so it cannot support claims about [[learning-gains|learning effectiveness]].
+- **Measurement caveats:** the ten-item instrument omitted reverse-scored items, the two-item clarity scale had borderline reliability (Spearman-Brown = 0.63), open-ended responses were coded by a single rater, and with N = 22 all correlations are reported as exploratory.
 
 ## Connected Concepts
 

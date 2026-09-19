@@ -1,7 +1,7 @@
 ---
 title: "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 research_method: [survey]
@@ -31,9 +31,13 @@ page_kind: [framework, evaluation]
 
 The study is described as factor-informed: AI-literacy-related domains were treated as theoretically informed and empirically tested predictors of AI-TPACK readiness rather than as fully validated independent constructs. Exploratory factor analysis using polychoric correlations supported the unidimensionality of the readiness items, after which a structural equation model was estimated with gender as a control (n = 129 because one participant selected "prefer not to say" for gender). The refined structural model (χ2(602) = 789.92, CFI = .981, TLI = .984, RMSEA = .049, SRMR = .082, R² = .530) outperformed the original eight-item specification, which showed weaker approximate fit (CFI = .957, TLI = .962, RMSEA = .075, SRMR = .094, R² = .539); sensitivity checks confirmed the stability of the support/enablers, prior-AI-use, and critical-ethical-appraisal paths while year level became non-significant. The sample of 130 preservice mathematics teachers comes from a public university in South Africa, making the study a contribution to AI-TPACK [[research-methods-aied|research]] in a [[global-south|Global South]] [[teacher-education|teacher education]] context.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[math-education]] teacher preparation, the findings suggest that hands-on experience with AI and the capacity for critical-ethical appraisal of AI tools are the most robust correlates of [[pedagogy|pedagogical]] readiness, while [[governance|institutional]] support and enabling conditions matter but are harder to measure cleanly — the support/enablers scale bundled personal interest, institutional opportunities, mentor encouragement, and active information seeking, so it cannot isolate the contribution of the teacher education setting itself. The study supports [[teacher-ai-competency]] frameworks that combine direct AI experience with [[critical-thinking|critical evaluation]], and it provides psychometric evidence that readiness can be measured with a short, essentially unidimensional instrument — useful for [[educational-development]] programs seeking efficient diagnostics. The mixed discriminant-validity results, however, caution against over-interpreting separate AI-literacy sub-domains, and the provisional year-level findings warn against assuming that readiness simply increases with seniority; the non-significant contextual-barriers path should not be read as evidence that infrastructure and resources are irrelevant in South African teacher education, only that they added no independent variance within this model.
+- **Faculty developers.** Prioritize direct, hands-on AI use over awareness-raising: prior AI use was a significant predictor of readiness (β = .327, p < .001), while AI awareness, tool familiarity, and prior AI training retained no significant independent paths in the joint model.
+- **Faculty developers.** Teach critical-[[ethics|ethical]] appraisal of AI tools as a core part of preparation, because it was the other significant positive predictor (β = .251, p = .016), and build programs that combine direct AI experience with [[critical-thinking|critical evaluation]].
+- **Faculty developers.** Do not treat seniority as readiness: year level was significant in the primary model (β = .199, p = .041) but became non-significant in sensitivity analysis, so progression across cohorts remains provisional.
+- **Faculty developers.** Use the refined short readiness instrument for efficient diagnostics, but report it as one unidimensional readiness score rather than separate AI-literacy sub-scores, since information-source [[student-engagement|engagement]] and support/enablers failed discriminant validity (r = .748) and information-source engagement had weak average variance extracted.
+- **Faculty developers.** Do not conclude that support and enabling conditions are irrelevant: the support/enablers path was the largest (β = .725, p = .024) but its marginal AVE (.478) means the contribution of the [[teacher-education|teacher education]] setting itself cannot be isolated, and the non-significant contextual-barriers path only shows that infrastructure added no independent variance within this model.
 
 ## Limitations
 

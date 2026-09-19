@@ -1,7 +1,7 @@
 ---
 title: "Modeling AI Overreliance as a Complex Adaptive System"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [llm]
@@ -42,11 +42,20 @@ A **mean-preservation theorem** (Prop. 2) shows that under a DeGroot trust updat
 
 A **cascade tipping result** (Prop. 3), building on Brock–Durlauf discrete choice with social interactions, shows that real fold points exist only when coupling `θs > 4`, and hysteresis requires the care advantage `c` to fall in a specific fold interval; outside it there is a unique stable equilibrium. In the agent-based model, heterogeneity and endogenous variation keep the system off the fold interval and smooth the transition, so collective overreliance is expected to build gradually as social proof strengthens rather than switching on at a sharp threshold.
 
-## Implications
+## What this means for practice
 
-The results point to a single simple mechanism: deployment context sets the baseline, peer learning aligns beliefs, and visible unverified use can erode verification unless the feedback channel is redesigned. Three implications follow. **Deployment context dominates**, and regret (not raw overreliance) measures its cost. **Connectivity alone is not enough** to explain collective overreliance — under exchangeable signals social learning homogenizes trust without moving its aggregate, so structure bites through the opinion channel and stake/exposure heterogeneity rather than through raw connectivity. And **overreliance is a feedback phenomenon** whose levers are the cost and salience of verification and the structure of exposure: interfaces that keep verification cheap and visible, or dampen social proof for unverified use, prevent collapse.
+- **Designers.** Make verification visible rather than merely cheap. In the model, exposing peer verification (`sV = 1.0`) drives the population to near-complete verification and cuts regret to 0.07, while lowering the private cost of checking is the weakest lever and does not reduce regret at all.
+- Do not let unverified AI use be the visible default. As social proof for unverified use rises from 0 to 0.6, verification collapses from 0.29 to 0.002 and overreliance climbs from 0.30 to 0.52.
+- Scope AI assistance to task difficulty and model quality instead of deploying it uniformly: overreliance rises from about 0.02 to 0.38 as tasks get harder, and hard tasks paired with a poor model produce the most overreliance.
+- **Researchers.** Estimate the model's parameters — per-task verification rates, the strength of social proof, and how trust updates after verified versus unverified use — from longitudinal traces of AI-assisted work.
+- Judge deployments by regret rather than by raw reliance rates, since the highest-regret condition (0.441, high-quality AI on hard tasks) is not the highest-overreliance condition.
 
-The paper's [[educational-policy-ai|policy]] implications are [[qualitative-research|qualitative]] and conditional rather than [[quantitative-research|quantitative]] forecasts — the model identifies which classes of intervention can work and why, and doubles as testable hypotheses for dynamic, social-reliance experiments. This connects directly to [[ai-education|AI education]] and [[human-ai-collaboration|human-AI collaboration]] design: it suggests that fostering [[metacognition|metacognitive]] verification habits and [[critical-thinking|critical evaluation]] of outputs may matter more than merely reducing friction, and that visible verification norms can counter the [[cognitive-offloading|offloading]] pull of unverified reliance. It also speaks to [[reducing-ai-misuse|reducing AI misuse]] and [[ai-misuse-learning-harm|learning-related harms]], since collective [[trust-calibration|miscalibration]] arises from feedback and peer exposure rather than from worse models or worse users. Limitations include exogenous, stationary AI quality, a fixed network, and stylized verification; future work would estimate key quantities — per-task verification rates, social-proof strength, and how trust updates after verified versus unverified use — from longitudinal traces of AI-assisted work.
+## Limitations
+
+- No parameter is estimated from data: AI quality is exogenous and stationary, the network is fixed, and verification is stylized, so the whole model is an abstraction rather than a measurement of real users.
+- The results are simulation outputs, not observed behavior — the overreliance values (roughly 0.02 to 0.38 by task difficulty, 0.30 to 0.52 under social proof) come from agents, with no human participants or field data.
+- The mean-preservation result has a narrow stated scope: it holds when peer signals are exchangeable and influence weights are independent of realized signal values, and topology becomes a mechanism of amplification once influence transmits beliefs.
+- The tipping form is qualified by the authors themselves: the sharp fold requires coupling θs > 4 and appears in the mean-field analysis, while the agent-based model shows a smooth crossover with no hysteresis, so the practical prediction is gradual erosion of verification rather than a switch.
 
 ## Connected Concepts
 

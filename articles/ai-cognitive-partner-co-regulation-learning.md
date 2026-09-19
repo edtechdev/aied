@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence as a cognitive partner: a developmental framework for human-AI co-regulation in learning"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, distributed-cognition, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -42,6 +42,20 @@ AI-assisted co-regulation can improve performance, reduce cognitive load, and ex
 - Argues the framework is most relevant in middle childhood, adolescence, and adulthood; early childhood AI support is limited to structured external regulation.
 - Highlights both benefits (performance gains via offloading, scaffolding, reduced cognitive load) and risks (over-reliance, excessive cognitive offloading, reduced independent reasoning and self-regulation development).
 - Calls for longitudinal research, common conceptual definitions, and learning environments that balance external support with independent [[problem-solving|problem solving]].
+
+## What this means for practice
+
+- **Instructors.** Make support fade against demonstrated performance instead of holding it constant: intelligent tutors should give fewer hints as learners improve and ask learners to justify an answer before supplying it.
+- **Instructors.** Divide the curriculum by what AI may carry: let it handle information processing, feedback provision, scaffolding, and routine problem solving, while critical thinking, ethical reasoning, decision making under uncertainty, and [[self-regulated-learning|self-regulation]] stay sustained human work.
+- **Instructors.** Match the AI role to the developmental stage the framework assigns: structured external regulation of behavior in early childhood, a [[metacognition|metacognitive]] partner in middle childhood and adolescence, and a collaborator on complex cognition in adulthood.
+- **Researchers.** Treat co-regulation with an intelligent system as a measurable construct: the paper's own call is for longitudinal work and common conceptual definitions before the four roles can be tested rather than asserted.
+
+## Limitations
+
+- This is a conceptual analysis rather than a study: no learners were observed, so the four roles and the stage-sensitive framework are argued from existing theory and remain proposals.
+- The theories it builds on — Vygotskian scaffolding and guided participation, executive function research, and distributed cognition — were developed where the guiding partner was another human; the authors note that AI responds instantly, runs continuously, and lacks the social limits governing human communication, so AI-mediated regulation may not reproduce human-scaffolding findings.
+- The developmental boundaries are asserted rather than measured: early childhood is confined to structured external regulation and adulthood to collaboration on complex cognition, but no age-graded evidence is presented for where those transitions fall.
+- The framework names excessive [[cognitive-offloading|cognitive offloading]] as the central risk while crediting offloading's benefits, and supplies no measure or threshold for where the balance tips.
 
 ## Connected Concepts
 

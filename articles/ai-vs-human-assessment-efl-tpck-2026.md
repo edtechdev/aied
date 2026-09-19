@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Insights from TPCK Model"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [human-ai-collaboration]
 assessment: [ai-feedback-quality, assessment, automated-assessment]
@@ -28,6 +28,21 @@ audience: [teachers, assessment designers]
 **The "complexity continuum".** AI's performance gap widens with task complexity: it performs comparably to humans on closed-structure, rule-governed content, but weakens on open-ended, person-oriented, context-dependent, culturally specific skills (consistent with DeKeyser's complexity continuum). The authors suggest that more detailed, pedagogically-specified [[prompt-engineering|prompting]] may narrow this gap.
 
 **Teacher mediation essential.** [[personalized-learning|Personalization]], cultural awareness, emotional depth and real-life applicability require human intervention — teachers viewed AI as lacking empathy and situational awareness — positioning AI as an initial resource rather than a full replacement: a [[human-ai-collaboration|human-AI complementarity]] model for EFL assessment design.
+
+## What this means for practice
+
+- **Instructors.** Spend AI on the tasks it wins: teacher approval was highest for AI-generated grammar and vocabulary items (69% each, against 61% and 59% for human-developed versions), so use it to produce drill, substitution, and closed-question practice, and keep your own drafting time for reading, writing, listening, and speaking tasks (where human-developed ratings reached 81%, 78%, 75%, and 83%).
+- **Instructors.** Treat every AI-generated task as a first draft that needs mediation. Add the personalization, cultural reference, and real-life applicability the teachers in the interviews said the tool lacked — they described AI as an assistant, not a decision maker, and themselves as the final [[assessment]] authority.
+- **Designers.** Write pedagogical specifications into prompts rather than content requests alone. The TK–CK/PK dissociation behind the split suggests AI handles rule-governed, closed-structure content but weakens on open-ended, context-dependent skills, and more detailed pedagogical [[prompt-engineering|prompting]] is the authors' proposed lever for closing that gap.
+- **Designers.** Review AI items against all three [[tpack]] domains instead of technological and content quality alone; AI tasks looked technically and content-strong but pedagogically thin, which a content-level review will not catch.
+- **Administrators.** Keep teacher judgment in the assessment loop: interview participants saw AI as workload relief but rejected replacement, and ratings show no significant quality advantage for AI on the communicative skills your curriculum is built around.
+
+## Limitations
+
+- The rating panel is 20 experienced EFL teachers (8 men, 12 women; ages 24–43), purposefully sampled because they already used AI for task design and had taught *American English File 3* — a small, self-selected expert group.
+- The task corpus is 52 assessment activities drawn from just 12 lesson plans: 6 human-designed plans from one B2-level coursebook plus 6 ChatGPT-4 equivalents, so no other proficiency level, coursebook, or subject area was sampled.
+- Quality was judged from teacher ratings on a TPCK rubric, not from student performance with either set of tasks; the chi-square tests of independence reported no significant differences (p > .05) rather than demonstrating equivalence.
+- Only 11 of the 20 raters were interviewed, in sessions of roughly 30 minutes, so the qualitative account of *why* AI trails on communicative skills rests on just over half the sample.
 
 ## Connected Concepts
 
