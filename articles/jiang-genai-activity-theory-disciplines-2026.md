@@ -47,7 +47,7 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 
 ## Connected Articles
 
-- [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment
+- [[walton-bearman-assessment-judgement-2025]] — Judgment in students' work with GenAI on assessment
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use and academic outcomes
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosure and peer influence in GenAI use
 

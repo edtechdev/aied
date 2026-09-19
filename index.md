@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-18
+Last updated: 2026-09-19
 
-Articles: 1315 | Concepts: 205 | FAQs: 32
+Articles: 1311 | Concepts: 205 | FAQs: 32
 
 ## Concepts
 
@@ -796,6 +796,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts
 - [[karr-ai-detection-humanization-2026]] — Why AI Detection Fails for Academic Integrity
+- [[kasa-malksoo-ai-human-rights-education-2026]] — Challenges and opportunities of using artificial intelligence in human rights education: Reflections from higher education practice
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning in the artificial intelligence era: an updated systematic review from 2019 to 2025
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive Generative AI for Visually Impaired Learners: Personalization and Inclusion in Higher Education
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — The Intersection of Artificial Intelligence and Instructional Design Practice: A Systematic Review
@@ -1108,6 +1109,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[post-instrumental-learning-capacity-dissolution]] — When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping and memory augmented outcome impact
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Agentic AI in educational environments and its association with social and motivational pathways to learning performance
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers
 - [[precision-education-student-digital-twins-2026]] — From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs
@@ -1514,6 +1516,7 @@ Articles: 1315 | Concepts: 205 | FAQs: 32
 - [[zhao-genai-higher-order-thinking-meta-2026]] — Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments
 - [[zhao-learnlens-feedback-educators-loop]] — LearnLens: LLM-Enabled Personalised, Curriculum-Grounded Feedback with Educators in the Loop
 - [[zhou-constructive-alignment-genai-business-2026]] — From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive
+- [[zhu-chatgpt-interdisciplinary-learning-stem-2026]] — ChatGPT for Interdisciplinary Learning: Does it Equally Benefit STEM and Non-STEM Students
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — Integrating ChatGPT in Mathematics Teacher Education: AI-Based Simulation Role-Playing to Support Practice-based Teaching
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI

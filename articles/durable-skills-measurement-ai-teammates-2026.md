@@ -75,7 +75,7 @@ The boundaries are equally clear. Participants were US-based English-native adul
 ## Connected Articles
 
 - [[assessment-team-problem-solving-computing-education]] — Assessing Team Problem Solving in Computing Education
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling for Competency Assessment
+- [[causal-modelling-competency-assessment-2026]] — Causal Modeling for Competency Assessment
 - [[clara-collaboration-literacy-dashboard]] — CLARA: A Collaboration Literacy Dashboard
 - [[simulating-students-diverse-cognitive-levels-2025]] — Simulating Students at Diverse Cognitive Levels
 - [[simulating-students-llm-review-2026]] — Simulating Students with LLMs: A Review

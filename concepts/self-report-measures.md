@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-19T04:50:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -63,13 +63,15 @@ Sometimes asking and observing are set up head to head. [[student-llm-interactio
 
 A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-analysis]] of measures for competent [[generative-ai]] use puts a pooled number on that gap from the other direction: pooling three directly reported same-sample subjective–objective correlations (combined reported N = 2,765) gave r = .055 (Hartung–Knapp 95% CI [−.047, .156]), and adding a fourth study's cross-factor correlations reached only r = .079. All three primary effects came from a single research program, the largest contributor's reported correlation and p-value could not be reconciled, and the review concludes that self-report cannot stand in for objective performance scores — while noting that the performance instruments are themselves narrow, covering foundation knowledge rather than the oversight and reliance behaviors that matter at work ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
 
+Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and social presence to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study — and their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or learning analytics. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
+
 ## Satisfaction and perceived learning as outcomes
 
 Satisfaction is the most frequently self-reported outcome in this corpus, appearing on 63 article pages. It is also the weakest as a proxy for learning, and the knowledge base contains explicit arguments to that effect.
 
 - [[sequenced-ai-feedback-learning|Work on sequenced AI feedback]] states the design principle directly: user satisfaction and behavioral engagement are not reliable proxies for learning gains, so learning must be measured directly.
 - [[puech-pedagogical-steering-llm-productive-failure-2025|On pedagogical steering]] notes that current language models are instruction-tuned to be helpful assistants that maximize user satisfaction, while a tutor's goal is to maximize learning — the two objectives can conflict, which makes satisfaction a potentially misleading target rather than merely a weak one.
-- [[preferred-scaffolding-ai-mathematical-modeling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
+- [[preferred-scaffolding-ai-mathematical-modelling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
 - [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
 
 The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[cognitive-offloading|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
@@ -133,6 +135,8 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[learning-analytics]]
 
 ## Connected Articles
+
+[[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
 
 - [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
 - [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
