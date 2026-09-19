@@ -2,7 +2,7 @@
 title: "AI Literacy of Teachers: Prompt Engineering and Model Selection as Predictors of AI-Feedback Quality"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
 assessment: [ai-feedback-quality, feedback, feedback-literacy]
@@ -56,15 +56,9 @@ The paper's conceptual move is to place the LLM inside an existing account of [[
 
 That cycle also frames the study's forward-looking claim. As models internalize prompting techniques and handle weaker prompts better, the value of prompt engineering shifts from rule-following toward structured problem analysis — a [[metacognition|metacognitive]] strategy rather than a linguistic formula — and the prompt becomes a didactic instrument comparable to a well-designed task. The 3K model is offered as a heuristic guide to that analysis, explicitly not as a template to apply schematically, and the authors recommend integrating prompt engineering into initial and continuing teacher education on the grounds that it is evidence-based, learnable and didactically compatible. The complementary desideratum is measurement: they suggest automated coding of feedback quality with NLP or LLM-based tools, and topic-specific pedagogical [[benchmark|benchmarks]], as the way to scale this kind of study.
 
-## Limits and What Would Generalize
-
-Four limits are stated. The findings are bound to the specific model versions and the collection period, so replication with later models may not reproduce them. The prompt manipulation held linguistic formulation constant within each category, so the study cannot separate the effect of a prompt *category* from the effect of the particular wording used to instantiate it — and other work suggests wording matters. The context is a single task, feedback on learning goals in lesson planning, and transfer to other feedback tasks and other subjects is untested. And Study 1's design allows only 20 learning goals per prompt-and-model cell, which limits how much can be claimed about individual effects while leaving the aggregate pattern intact.
-
-What remains solidly established is a variance decomposition that teacher education can act on. If model choice and prompt design together explain something like two-fifths of the quality of AI-generated feedback on novices' work, then both belong in the competency set teachers are trained for — and the leverage is concentrated in specific, teachable moves rather than in generic familiarity with the tools. The study's own framing of the [[teacher-role|teacher]] as the one who decides what feedback is for, what model to use, and how to judge the response, is the practical form of that conclusion.
-
 ## What this means for practice
 
-- **Teacher educators.** Train the two moves with measured leverage — selecting the model and phrasing the task in the subject's own technical language: model choice alone explained 26.9% of the variance in rated feedback quality, and stripping domain-specific terminology from the prompt significantly lowered quality (β = −0.412).
+- **Teacher educators.** Train the two moves with measured leverage — selecting the model and phrasing the task in the subject's own technical language: model choice alone explained 26.9% of the variance in rated feedback quality, and stripping domain-specific terminology from the prompt significantly lowered quality (β = −0.412). Both belong in the competency set teachers are trained for, and the leverage sits in those specific, teachable moves rather than in generic familiarity with the tools: the study frames the [[teacher-role|teacher]] as the one who decides what feedback is for, which model to use, and how to judge the response.
 - **Teacher educators.** Require pre-service teachers to name assessment criteria in specialist terms instead of paraphrasing them into everyday words, since the domain-terminology effect was the one prompt feature the study found to matter.
 - **Faculty developers.** Drop the assumption that step-by-step reasoning instructions are necessary: removing the chain-of-thought instruction changed nothing detectable in Study 1 (β = 0.012), and the paper notes that newer models apply that reasoning internally without being asked.
 - **Faculty developers.** Re-verify any model recommendation against the current version before it enters a training module: the rankings rest on ChatGPT-4, Claude 3 and Gemini Advanced as tested in 2024, and the authors' practical rule is to use the most capable current frontier model.

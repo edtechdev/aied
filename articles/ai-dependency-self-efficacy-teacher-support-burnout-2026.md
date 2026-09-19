@@ -1,7 +1,7 @@
 ---
 title: "The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [self-efficacy, student-engagement, well-being]
@@ -35,17 +35,12 @@ A cross-sectional survey design was used. An online structured questionnaire dis
 
 Four instruments were used: an eight-item Academic Self-Efficacy Scale adapted from Owen and Froman, a ten-item Teacher Support Scale from Skinner and Belmont covering Structure, Involvement, and [[agency|Autonomy]] Support, a seven-item AI Dependency Scale adapted from Young's Internet Addiction Test with items reworded for academic AI use, and a nine-item shortened Learning Burnout Scale derived from the MBI-SS. All items used five-point Likert scales, and several self-efficacy items were rewritten to reference learning without AI assistance. The measurement structure was validated with exploratory and confirmatory factor analysis and showed satisfactory reliability and discriminant validity; a common method bias check found no substantial single-factor or collinearity concerns. Regression and mediation were run in SPSS with PROCESS, and alternative reverse-mediation models and models controlling for demographics were estimated as robustness checks, which did not materially change the findings.
 
-## Implications
-
-The mediation results locate AI dependency as the channel through which both an individual resource (academic self-efficacy) and a contextual resource (teacher support) relate to burnout — reinforcing a Conservation of Resources reading that depleted internal resources push students toward AI as a compensatory external resource, which in turn erodes the cognitive resources needed to sustain engagement. Because the direct effects were non-significant once AI dependency entered the model, interventions aimed only at boosting self-efficacy or teacher support may have limited traction on burnout unless they also address how students actually use AI.
-
-The authors' practical recommendations are threefold: educators should supply timely feedback, personalized guidance, and positive teacher–student interaction, and integrate AI meaningfully as a learning aid rather than banning it; institutions should embed AI literacy into general and professional curricula and cultivate [[self-regulated-learning|self-regulated learning]]; and policymakers should issue clear guidelines on [[ai-literacy|responsible AI use]], [[academic-integrity|academic integrity]], and the prevention of over-dependency. Notably, the weak explanatory power of teacher support for AI dependency suggests single-factor interventions should be complemented by broader approaches.
-
 ## What this means for practice
 
 - **Instructors.** Build students' confidence in completing learning tasks without AI: the [[self-efficacy]] items that best predicted lower AI dependency asked students to cope through their own effort rather than leaning on tools.
 - **Instructors.** Supply timely [[feedback]], personalized guidance, and positive teacher-student interaction while integrating AI as a learning aid instead of banning it, since teacher support was negatively associated with dependency.
-- **Administrators.** Embed [[ai-literacy]] and [[self-regulated-learning]] in general and professional curricula: dependency rose with frequency of AI use, and AI dependency fully mediated the paths from self-efficacy and teacher support to learning burnout.
+- **Administrators.** Embed [[ai-literacy]] and [[self-regulated-learning]] in general and professional curricula: dependency rose with frequency of AI use and AI dependency fully mediated the paths from self-efficacy and teacher support to learning burnout, so single-factor interventions need complementing by broader approaches that address how students actually use AI.
+- **Policymakers.** Issue clear guidelines on [[ai-literacy|responsible AI use]], [[academic-integrity|academic integrity]], and the prevention of over-dependency.
 - **Researchers.** Test the dependency-to-burnout sequence longitudinally or experimentally, because the cross-sectional mediation tested here cannot separate the competing direction in which burnout drives dependency.
 
 ## Limitations

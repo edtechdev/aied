@@ -1,7 +1,7 @@
 ---
 title: "The Integrity of Psychology Assessments in the AI Age: A Critical Examination"
 created: "2026-09-17T20:55:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, critical-thinking]
 technology: [generative-ai, prompt-engineering]
@@ -59,15 +59,11 @@ For educators, six proposals follow from the failure modes rather than from dete
 
 For institutional leaders, three: resource integrity review and assessment reform in proportion to student numbers, since identification plus student meetings is skilled, time-intensive work that cannot be absorbed into already compressed roles; publish clear [[educational-policy-ai|AI policy]] — at the time of writing only 19% of surveyed institutions had a formal policy and 42% had one in development, while 80% of UK students believed their institution had a clear one; and ensure markers are trained on and actually using current criteria.
 
-## Implications
-
-The paper is program-level evidence that [[summative-assessment|grade]] integrity is a property of an entire assessment mix, not of individual tasks, and it lands where the knowledge base's other case studies land: a [[biology-education|biology]] department found about a third of a course grade highly vulnerable ([[biology-degree-integrity-genai-cheating-2026]]), and here a whole psychology program was 90% passable at minimum effort. It is also the clearest statement that the pass boundary — not detection, not student virtue — is the operative variable, which ties it to [[assessment-validity]], to grade-inflation evidence that grades stopped tracking skill ([[chirikov-ai-grade-inflation-2026]]), and to the argument that unproctored scores need redesign rather than surveillance ([[ai-agents-complete-lms-assessment-validity-2026]]). Two limits should travel with the numbers: the assessments are from 2023/24 and were generated with GPT-3.5/4o, so they describe the floor of a moving capability, and the authors' own constraints mean the true exposure is higher, not lower. The remediation the paper argues for is closest to [[authentic-assessment]] — but its version of authenticity is narrower and more practical than the term usually carries: an artifact you have to be present to make, data you had to hold, and a marking decision that requires evidence of understanding rather than polish.
-
 ## What this means for practice
 
 - **Instructors.** Require an auditable evidence trail — version history, drafts or analysis scripts — rather than trusting the submitted artifact, because the outputs in this study were passable on content while carrying fabricated values and an unresolvable DOI.
-- **Assessment designers.** Rewrite marking criteria so that fluent structure cannot by itself reach a pass, and score referencing accuracy explicitly: prior work cited here found only 7% of ChatGPT-supplied references were both real and relevant.
-- **Instructors.** Keep at least one task per module that the model could not produce in this study — an in-person performance, a poster or slide artifact, or an analysis run on the student's own dataset — which is what accounted for all four failures of 40.
+- **Assessment designers.** Rewrite marking criteria so that fluent structure cannot by itself reach a pass and score referencing accuracy explicitly (prior work cited here found only 7% of ChatGPT-supplied references were both real and relevant), and treat grade integrity as a property of the whole assessment mix rather than of individual tasks — the pass boundary, not detection, is the operative variable, and a program-level case study in [[biology-education|biology]] found about a third of a course grade highly vulnerable ([[biology-degree-integrity-genai-cheating-2026]]).
+- **Instructors.** Keep at least one task per module that the model could not produce in this study — an in-person performance, a poster or slide artifact, or an analysis run on the student's own dataset — which accounted for all four failures of 40; this is the authors' narrower [[authentic-assessment|authentic assessment]], an artifact you have to be present to make, data you had to hold, and a marking decision that requires evidence of understanding rather than polish.
 - **Instructors.** Treat contextually irrelevant content (methods or analyses not taught in that module) as an integrity signal, and require reproducible analysis documents for data-based assignments.
 - **Administrators.** Publish a formal institutional AI policy and resource integrity review in proportion to student numbers, since identification and student meetings are skilled, time-intensive work and only 19% of surveyed institutions had a formal policy while 80% of UK students believed theirs did.
 

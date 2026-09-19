@@ -1,7 +1,7 @@
 ---
 title: "Is hands-on learning still necessary in the age of AI? A thematic review"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-education, design-thinking, human-ai-collaboration]
 pedagogy: [active-learning, creativity, embodied-learning, experiential-learning, metacognition, pedagogy]
@@ -29,19 +29,12 @@ page_kind: [synthesis]
 
 The study used an inductive thematic review approach to examine how the role of hands-on learning is changing in AI-supported design education. Literature was identified through Web of Science and Scopus, with two search pathways: practice-based/studio learning traditions and AI-supported design learning. Screening narrowed an initial pool of records to a final corpus of 32 peer-reviewed studies. Analysis followed Braun and Clarke's (2006) thematic analysis in three stages — open coding, focused coding, and theme development — conducted in ATLAS.ti, with first-author-led coding and partial review by the third author; inter-coder reliability was not computed. Study quality was appraised using MMAT principles, and the [[meta-analysis-systematic-review|PRISMA]] 2020 framework supported transparent reporting of identification and screening.
 
-## Implications
-
-- **Design (and other practice-based) educators should not simply reduce physical making.** Embodied Hands-on preserves a learning mechanism — direct exposure to material resistance and real-world feasibility — that AI cannot replicate, since visually plausible outputs are not evidence of practical viability.
-- **[[curriculum-design|Curriculum]] should deliberately orchestrate the two forms.** Educators need to sequence and connect embodied practice and AI-mediated iteration according to learning objectives rather than defaulting to efficiency, and decide when generated outcomes should return to physical testing.
-- **Assessment and [[pedagogy]] should value process over output.** [[learning-gains|Learning gains]] depend on how students interpret, judge, and use feedback; counting generated outcomes or final work under-captures the quality of action, feedback, reflection, and refinement.
-- **Language and prompt instruction matter, but with limits.** Students need to translate intentions accurately into prompts, yet also recognize what design experience cannot be verbalized, guarding against [[cognitive-offloading|over-reliance]] on easily describable proposals.
-
 ## What this means for practice
 
-- **Instructors.** Require the full generate, modify, select sequence on AI-supported design tasks instead of accepting a first generated output: the review reports that prompting alone did not raise the creativity of final work while multi-step operations did.
+- **Instructors.** Require the full generate, modify, select sequence on AI-supported design tasks instead of accepting a first generated output: the review reports that prompting alone did not raise the creativity of final work while multi-step operations did. Pair that prompt instruction with an explicit account of what design experience cannot be verbalized, so students do not drift into [[cognitive-offloading|over-reliance]] on easily describable proposals.
 - **Instructors.** Keep physical making in every project and route generated proposals back to it for testing, because material resistance supplies feedback that visually plausible outputs do not, and the review's central claim is that the two forms are not educationally interchangeable.
-- **Designers.** Sequence embodied and cognitive hands-on against learning objectives rather than defaulting to efficiency, deciding in advance which AI-generated outcomes must be built and tested physically and which can stay in the language-and-judgment loop.
-- **Designers.** Assess the action, feedback, reflection, and refinement cycle itself rather than counting generated outcomes or final-work scores, the indicators the reviewed studies relied on and which the authors judge unable to capture process quality.
+- **Designers.** Sequence embodied and cognitive hands-on in [[curriculum-design|curriculum design]] against learning objectives rather than defaulting to efficiency, deciding in advance which AI-generated outcomes must be built and tested physically and which can stay in the language-and-judgment loop.
+- **Designers.** Assess the action, feedback, reflection, and refinement cycle itself rather than counting generated outcomes or final-work scores, since [[learning-gains|learning gains]] depend on how students interpret, judge, and use feedback — the point the review makes for both [[pedagogy|teaching]] and assessment.
 - **Researchers.** Follow students past a single course or short project: the review found most evidence stops at within-course performance, so the long-term effects of increasing cognitive hands-on remain unknown.
 
 ## Limitations

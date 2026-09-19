@@ -1,7 +1,7 @@
 ---
 title: "Still Emerging: Understanding Generative AI Use in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
@@ -31,21 +31,13 @@ The research design was a case study that drew on survey research methods within
 
 The study collected 45 complete staff responses from a population of 318 academics, alongside a further set of partial staff responses, and 86 complete student responses from a population of around 3,400. The authors analyzed the data by testing the internal consistency of the scales and comparing staff and student responses on the scales both groups shared. Ethics approval was granted by the University of Manchester Research Ethics Committee.
 
-## Implications
-
-- **Frame GAI challenges relationally, not as a technical fix.** Echoing Bearman and Ajjawi, the authors argue that [[pedagogy]] for an AI-mediated world means learning to work with opaque, partial and ambiguous situations, rather than treating the "assessment panic" as a problem solved by learning-design tweaks or more [[ai-literacy|AI literacy]] training.
-- **Staff must imagine how students imagine affordances.** Effective educational use depends on the interrelationships between staff and students; [[teacher-role|educators]]' [[agency]] and their understanding of students' imagined affordances are central to [[scaffolding]] appropriate use.
-- **Do not start from distrust.** Assuming students use GAI to circumvent assessment integrity begins from a position of distrust; the authors instead urge redesigning [[assessment]] around GAI affordances, since the technology has already disseminated.
-- **Close the staff knowledge gap.** Because staff cannot easily tell whether a student used a GAI tool from the final text alone, institutions should strengthen the social relations through which staff come to understand student use, including independent learning.
-- **Deepen acceptance thinking.** The authors criticize [[technology-acceptance-model|TAM]]'s "acceptance" framing as passive and thin for [[ai-technologies|emerging technologies]], since it cannot capture relational dynamics or the varied ways users imagine affordances.
-
 ## What this means for practice
 
 - **Instructors.** Check your assumptions about student use against the students themselves: staff believed students used GAI for academic purposes far more than students reported, so policy and assessment decisions built on that estimate aim at the wrong problem.
+- **Instructors.** Treat the challenge as relational rather than a technical fix: [[teacher-role|educators]]' [[agency]] and their understanding of students' imagined affordances are central to [[scaffolding]] appropriate use, and redesigning [[assessment]] around GAI affordances is better than starting from distrust.
 - **Instructors.** Use the tools in your own teaching and research, because staff who intend to use GAI are the ones positioned to scaffold educationally appropriate student use — only 14% of surveyed staff had taken out a paid subscription against 21% of students.
-- **Administrators.** Strengthen the social channels through which staff learn about student use: a final piece of text rarely reveals whether a GAI tool was used, and student use happens largely during independent study that staff never see.
-- **Administrators.** Address the staff support gap directly, since students rated the facilitating conditions around their GAI use higher than staff did (4.94 against 4.15 on the shared scale).
-- **Researchers.** Abandon acceptance framing for these tools: the authors argue TAM-type models cannot capture how staff and students imagine affordances, so study the relational dynamics instead.
+- **Administrators.** Strengthen the social channels through which staff learn about student use and close the staff support gap directly: a final piece of text rarely reveals whether a GAI tool was used, student use happens largely during independent study that staff never see, and students rated the facilitating conditions around their GAI use higher than staff did (4.94 against 4.15 on the shared scale).
+- **Researchers.** Abandon acceptance framing for these tools and treat the challenge as one of working with opaque, partial, and ambiguous situations rather than a learning-design or literacy-training fix: the authors argue TAM-type models cannot capture how staff and students imagine affordances, so study the relational dynamics instead.
 
 ## Limitations
 

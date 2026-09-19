@@ -1,7 +1,7 @@
 ---
 title: "Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -34,20 +34,13 @@ This Mini Review (Frontiers in Psychology, published 11 September 2026) pairs a 
 
 A focal table maps ten representative studies (Urban 2025; Choi 2025; Chen and Lou 2026; Zhang 2025; Dávila 2025; Zainuddin 2026; Hou 2025; Pudasaini 2026; Zheng 2025; Hu 2026) onto verification, reliance, and task- or learning-outcome columns, with a diagnostic implication for each. Supplementary File 1 carries the search strategies, screening and appraisal detail, operational definitions, calibration metrics, guidance on mixed-effects analysis, and reporting standards.
 
-## Implications
-
-- **Evaluate interventions for the specific process they target.** A lateral-reading lesson should be assessed for its effect on verification strategy and, separately, on verification success; a confidence prompt may mainly shift [[metacognition|metacognitive]] monitoring; a forced-delay interface may change reliance decisions; and an explanation or error-correction activity affects learning only if it induces substantive processing. A single self-report measure of “responsible use” would blur these distinct mechanisms.
-- **Design studies that can make the linkage testable.** Specify or adjudicate AI-output quality, capture verification initiation, code process quality, score verification success, record the accept–revise–reject decision, evaluate that decision against AI quality, and — where learning is intended — follow immediate performance with unaided retention or transfer.
-- **Watch for the cost of over-correction.** Interventions that reduce inappropriate acceptance must also be tested for unintended rejection of correct assistance; the educational objective is effective, proportionate verification that supports calibrated reliance while preserving the cognitive work learning requires.
-- **Model boundary conditions rather than assuming homogeneous effects.** Prior and domain knowledge, learner characteristics, task stakes, task verifiability, verification costs, accountability, AI system and configuration, and multidimensional AI literacy are analytic expectations, not established moderator effects.
-
 ## What this means for practice
 
 - **Instructors.** Score verification as three separate things — whether a student initiated a check, how well the check was done, and whether it resolved the uncertainty — because a strong process can end inconclusive and a weak one can still land on the right answer.
 - **Instructors.** Require the accept, revise, or reject decision to be recorded and justified for each AI suggestion, since an acceptance cannot be judged appropriate without knowing whether the suggestion was correct.
-- **Designers.** Target the specific process you want to move: lateral-reading instruction for verification strategy, confidence prompts for metacognitive monitoring, forced delay for reliance decisions, and error correction for learning.
-- **Designers.** Test reduced acceptance for the rejection of correct assistance it may cause alongside it; the objective is proportionate verification, not maximal skepticism.
-- **Researchers.** Report the AI system, model version, and configuration with every result, since several studies audited in this review left them unstandardized and comparisons across reference standards cannot be made without them.
+- **Designers.** Match the intervention to the process it should move — lateral-reading instruction for verification strategy, confidence prompts for [[metacognition|metacognitive]] monitoring, forced delay for reliance decisions, error correction for learning — and test any reduction in acceptance for the rejection of correct assistance it causes, since the objective is proportionate verification rather than maximal skepticism.
+- **Researchers.** Build studies that can make the verification-to-reliance linkage testable: adjudicate AI-output quality, capture verification initiation, code process quality, score verification success, record the accept–revise–reject decision and evaluate it against that adjudication, and follow immediate performance with unaided retention or transfer. Report the AI system, model version, and configuration with every result, since several studies audited in this review left them unstandardized.
+- **Researchers.** Model boundary conditions rather than assuming homogeneous effects: prior and domain knowledge, learner characteristics, task stakes, task verifiability, verification costs, accountability, and multidimensional AI literacy are analytic expectations, not established moderator effects.
 
 ## Limitations
 

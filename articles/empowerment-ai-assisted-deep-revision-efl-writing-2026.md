@@ -1,7 +1,7 @@
 ---
 title: "Empowerment over enforcement: unpacking the psychological drivers of AI-assisted deep revision in EFL writing"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -31,18 +31,11 @@ The study used a cross-sectional quantitative survey of 327 Chinese EFL undergra
 
 Data were analyzed with partial least squares structural equation modeling (PLS-SEM), chosen for its suitability to an exploratory, complex parallel-mediation model and non-normal data, with significance assessed through bootstrap resampling. Because the design is cross-sectional and single-source, the authors interpret the mediation paths as model-dependent indirect associations rather than causal sequences.
 
-## Implications
-
-- **Shift policy from enforcement to capability-building.** Since compliance-driven mandates alone failed to elicit deep cognitive engagement, institutions should pair necessary [[governance]] with dedicated AI-prompting workshops and autonomy-supportive environments, rather than leaning on monitoring-centric usage metrics or [[ai-detection]] software.
-- **Teach prompting as a cognitive support strategy, not a shortcut.** The proposed "Collaborative Human-AI Revision Design" embeds [[prompt-engineering]] across drafting, feedback, and rewriting phases — constraint-based prompts and criteria-specific diagnostic prompts that position AI as a [[formative-assessment|formative]] peer reviewer rather than an authoritative oracle.
-- **Move assessment toward process and [[metacognition]].** [[summative-assessment|Summative]] rubrics that heavily penalize linguistic inaccuracy may nudge students toward "algorithmic dependence"; process-oriented tools such as Prompt Reflection [[eportfolio|portfolios]] that reward [[productive-failure|productive failure]] could sustain intrinsic motivation and [[critical-thinking|critical thinking]].
-- **Treat human–AI collaboration as a core literacy.** Evaluating the quality of students' iterative dialogue with AI, rather than only the final product, aligns grading with the psychological drivers the model identified.
-
 ## What this means for practice
 
-- **Instructors.** Teach prompting as a cognitive support strategy across drafting, feedback, and rewriting — constraint-based prompts and criteria-specific diagnostic prompts that position AI as a formative peer reviewer rather than an oracle.
-- **Administrators.** Pair necessary governance with AI-prompting workshops and autonomy-supportive environments instead of monitoring-centric usage metrics, because external mandates had no significant direct effect on deep revision (model R² = 0.500).
-- **Instructors.** Move [[assessment]] toward process: prompt-reflection portfolios that reward [[productive-failure|productive failure]] sustain the intrinsic motivation that was the strongest single predictor of deep revision.
+- **Instructors.** Teach prompting as a cognitive support strategy across drafting, feedback, and rewriting — the paper's Collaborative Human-AI Revision Design uses constraint-based prompts and criteria-specific diagnostic prompts that position AI as a [[formative-assessment|formative]] peer reviewer rather than an authoritative oracle.
+- **Administrators.** Pair necessary [[governance]] with AI-prompting workshops and autonomy-supportive environments instead of monitoring-centric usage metrics or [[ai-detection]] software, because external mandates had no significant direct effect on deep revision (model R² = 0.500).
+- **Instructors.** Move [[assessment]] toward process and [[metacognition]]: prompt-reflection [[eportfolio|portfolios]] that reward [[productive-failure|productive failure]] sustain the intrinsic motivation that was the strongest single predictor of deep revision, whereas [[summative-assessment|summative]] rubrics that heavily penalize linguistic inaccuracy risk nudging students toward algorithmic dependence.
 - **Administrators.** Evaluate students' iterative dialogue with AI as part of the graded work, treating human-AI collaboration as a core literacy rather than scoring only the final product.
 
 ## Limitations
