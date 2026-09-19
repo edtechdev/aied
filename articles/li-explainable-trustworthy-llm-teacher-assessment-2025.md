@@ -1,7 +1,7 @@
 ---
 title: "Towards trustworthy and explainable-by-design large language models for automated teacher assessment"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-18T05:10:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [teacher-role, human-ai-collaboration]
 pedagogy: [pedagogy, scaffolding]
@@ -41,8 +41,14 @@ The global attention pathway is a learnable key-value memory of curriculum stand
 
 The [[explainable-ai|interpretability]] analysis supports that claim unevenly. Attention allocates 73.2% ± 2.1% of weight to Bloom's taxonomy verbs against an expert benchmark of 75.4% ± 1.8% (alignment score 0.97) and 68.7% to [[problem-solving]] steps against 71.2% (0.96). On emotional cues the distribution inverts: 28.4% of weight against an expert 15.2%, alignment 0.53, with one failure case assigning 28% of weight to the token "frustrated". The authors present this as overfitting to affect rather than pedagogy, and as an area for refinement. They also report 84.2% agreement with expert raters on Bloom's taxonomy application analysis and 19.7% higher ICS than rule-based systems on open-ended evaluation.
 
-## Limitations and what the numbers do not settle
+## What this means for practice
 
+- **Assessment professionals.** Keep the reject-and-refer gate in the loop: the architecture routes a lesson to human review when Monte Carlo dropout variance exceeds its 0.75 confidence threshold, which is what makes an 82.4% inter-rater consistency score usable rather than merely high.
+- **Assessment professionals.** Audit explanations on your own corpus before publishing them: attention matched expert weighting on Bloom's verbs (73.2% versus 75.4%) but over-weighted emotional cues (28.4% versus 15.2%, alignment 0.53), and one failure case assigned 28% of its weight to the token "frustrated".
+- **Instructors.** Adopt the rubric- and curriculum-anchored dashboard where lesson recordings already exist, and budget the inference cost: latency rises to 143 ms from 121 ms for BERT (+18.3%) while human review workload falls 41%.
+- **Teacher educators.** Train teachers to treat a curriculum-grounded rationale as a starting point for their own [[evaluative-judgment|judgment]] rather than a verdict, since the authors place adoption on perceived reliability, fairness and pedagogical relevance, which performance metrics alone do not establish.
+
+## Limitations
 The authors name four constraints. The corpora cannot capture [[multilingual-learning|multilingual]] or culturally specific instructional practice. Latency may exclude deployment in ultra-low-latency settings. Robustness testing covers ASR noise and dataset transfer but not incomplete lesson segments or spontaneous code-switching. And fairness audits, while effective, remain at the level of broad demographic groups rather than finer-grained subpopulations; they call for intersectional audits. They add that [[trust-calibration|trust]] is hard to quantify from performance metrics alone, since teacher adoption depends on perceived reliability, fairness and pedagogical relevance, and that longitudinal adoption trials and perception surveys are the missing evidence.
 
 Two internal inconsistencies should travel with the results. The ablation deltas in the discussion section are much larger than those implied by the results tables: removing the [[trust|trustworthiness]] module is reported as a 9.2% ICS drop and a 14.7% ExpScore drop there, where the earlier ablation reports ICS falling to 78.6% and ExpScore to 0.69. The explanation-subset evaluation also reports ECE of 0.058 where the main table reports 0.032, which the paper attributes to distributional differences in the subset. Both are reported rather than reconciled. The deployment proposal is concrete regardless: integrate with classroom recording platforms to capture transcripts, generate rubric-aligned scores and curriculum-grounded rationales per lesson, and deliver [[visualization|dashboards]] that link strengths and improvement areas to standards, piloting in mathematics or language arts before scaling across subjects. The authors position the architecture as reusable in other high-stakes domains such as healthcare diagnostics and legal auditing.

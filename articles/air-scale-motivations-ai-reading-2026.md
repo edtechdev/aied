@@ -1,7 +1,7 @@
 ---
 title: "The AIR Scale: Development and Validation of a Measure of Motivations for Using AI During Reading"
 created: "2026-09-18T12:05:00-04:00"
-updated: "2026-09-18T12:05:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 assessment: [educational-measurement, self-report-measures, assessment-validity]
@@ -47,8 +47,15 @@ Task-oriented readers use GenAI to preserve responsibility for understanding —
 
 Low-effort is the motive with the clearest risk profile. Its negative association with need for cognition fits a pattern of avoiding effortful processing; occasional effort reduction can be adaptive under information overload, but a persistent Low-effort motive suggests GenAI becomes the default substitute for meaning-making rather than a support for it, predicting summary-first reliance and reduced source checking. Translation is narrow but consequential: it reduces language-based barriers and widens access to knowledge across languages, while still requiring accuracy safeguards for meaning shifts in technical arguments. Together the four motives make the case that treating GenAI use as a single behavior obscures the different interaction patterns — and the different risks — it conceals. The instrument is positioned as a complement to [[ai-literacy|AI literacy]] [[assessment|assessments]] that cover knowledge, application, attitudes and [[ethics]] but not the reasons readers choose the tool, and as a learner-level, task-specific addition to work on metacognitive guidance in AI-supported learning.
 
-## Validity evidence, limitations, and what AIR does not measure
+## What this means for practice
 
+- **Educators.** Ask which of the four motives sent a reader to the tool before judging the resulting work: Low-effort use was the only subscale negatively related to need for cognition (r = −.18) and is the pattern the authors flag for shallow processing.
+- **Educators.** Pair enjoyment-oriented AI reading with a comprehension checkpoint, since Feel-good use runs on engagement and reduced frustration (r = .48 with AIMS Intrinsic Motivation) and risks substituting for comprehension monitoring.
+- **Learners.** Name your own reason first — Task-oriented, Feel-good, Translation or Low-effort — because the four motives describe different interaction patterns, and only Task-oriented use is anchored to strategic meaning construction.
+- **Educators.** Keep translation support in the toolkit but verify meaning on technical material: the Translation motive (α = .89) widens access across languages yet carries the weakest link to [[technology-acceptance-model|perceived usefulness]] (r = .20).
+- **Researchers.** Treat a motive score as a starting point rather than an outcome, because AIR measures enacted [[motivation]] and only prompt logs, verification behavior and time on text reveal whether a stated reason becomes a particular way of reading.
+
+## Limitations
 Convergent validity was established against the AIMS Intrinsic Motivation and Identified Regulation subscales, on the reasoning that both instruments capture volitional, autonomy-aligned engagement with GenAI; the moderate-to-strong correlations, and the stronger alignment for Task-oriented and Feel-good, support reading those two as the most self-endorsed motives while Translation and Low-effort look more instrumental. Divergent validity came from preference for task switching — a reactive, habitual orientation conceptually distinct from deliberate purpose-driven use — and from [[self-report-measures|self-reported]] ADHD and learning-disability status, both of which proved unrelated to any subscale. Together these rule out AIR as a proxy for general digital multitasking or for attentional and learning difficulties.
 
 The limitations are stated plainly. The samples were primarily younger higher-education students recruited through Prolific, and because both age and education shape GenAI adoption, the [[educational-measurement|psychometrics]] may not transfer to older adults or to other educational backgrounds. ADHD and learning-disability status were single binary self-report items rather than clinically validated or dimensional measures. And most importantly, the scale measures motivation, not outcome: comprehension and knowledge transfer also depend on planning, monitoring and evaluation, processes that confident-sounding GenAI responses may undermine by encouraging [[cognitive-offloading|offloading]] and overestimation. AIR cannot say whether a reader's stated motive translates into a particular interaction pattern — only prompt logs, verification behavior and time on text can do that, which is exactly the combination the authors propose for future work.

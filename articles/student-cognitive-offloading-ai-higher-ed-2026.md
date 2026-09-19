@@ -1,7 +1,7 @@
 ---
 title: "Patterns of Student Cognitive Offloading to AI in Higher Education"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 technology: [conversational-ai, llm, generative-ai, learning-analytics]
@@ -58,6 +58,20 @@ The grade analysis is where the headline claim weakens. Top and middle tier stud
 For teaching, the paper's framing is deliberately non-punitive. Rather than banning [[generative-ai|generative AI]] or treating delegation as cheating, it argues that the goal is to make students aware of what they are offloading, when, and why, and it points to real-time feedback, [[learning-analytics|learning analytics]] and chat-log review as mechanisms for tailoring that [[metacognition|reflection]]. It also calls for a shift from assessing the product of learning to designing [[assessment|assessments]] that make the process visible, and cites guidance mechanisms that ask students to articulate their own thinking before consulting AI as promising for protecting [[self-regulated-learning|self-regulation]] and higher-order thinking.
 
 The limits are stated plainly. All participants came from a single institution, so institutional norms, [[learning-design|course design]] and [[educational-policy-ai|AI policy]] limit generalizability. In Study 1 groups of four shared one ChatGPT-4 account, which the authors say likely filtered out personal, naive or sensitive questions. Study 2's 16 students self-selected into grade-sharing and skew female (15 of 16), which restricts statistical power and makes the subsample non-random relative to the full cohort. Coding in Study 2 was performed by one rater, so inter-rater reliability could not be established, and the labels are the authors' own exploratory reading rather than a representative estimate. Most fundamentally, the measures capture prompts, not learning: an "Analyse" label means the request was analytical in form, not that the student performed or understood the analysis, and a "heavy offloading" label cannot see independent reasoning done before, during or after the exchange. The study is correlational and descriptive by design, and the authors position the performance-tier patterns as hypotheses for confirmatory, longitudinal or experimental work rather than findings.
+
+## What this means for practice
+
+- **Instructors.** Give students feedback on their actual AI use patterns rather than banning the tools; the authors' recommendation is to make delegation visible and [[metacognition|reflective]], not to prohibit it.
+- **Instructors.** Design [[assessment|assessments]] that make process visible - for example asking students to articulate their own thinking before consulting AI - because the logs capture what students asked, not what they reasoned.
+- **Learning analytics designers.** Build real-time feedback on chat logs that prompts students to name what they are delegating, and target it where heavy offloading clusters: 16 of the 20 heavy-offloading dialogues (80%) were Create requests.
+- **Learning analytics designers.** Score [[cognitive-offloading|offloading]] with the paper's rubric (no, light, heavy, judged by who produces the first draft and the core argument) alongside Bloom level, since Apply dialogues split across all three offloading categories and the two dimensions are not interchangeable.
+
+## Limitations
+
+- Study 1 is a convenience sample of 46 undergraduates (32 women, 14 men, aged 18-24) at one European university, so institutional norms, course design and AI policy bound the findings.
+- In Study 1, groups of four students shared a single ChatGPT-4 account, which the authors say likely filtered out personal, naive or sensitive questions.
+- Study 2's 16 students self-selected into grade-sharing and skew female (15 of 16), leaving low statistical power and a subsample that is non-random relative to the full cohort; its 1,140 messages were labeled by a single rater, so no inter-rater reliability could be established.
+- The grade pattern is correlational and non-significant (chi-square = 5.80, df = 4, p = 0.215), and the top tier's 17.6% heavy-offloading rate rests largely on one programming-focused student (7 of 12 dialogues; excluding them the rate falls to 8.9%); the labels describe prompts, not learning, so an "Analyse" label means the request was analytical in form, not that the student performed the analysis.
 
 ## Connected Concepts
 

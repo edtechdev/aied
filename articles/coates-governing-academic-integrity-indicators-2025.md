@@ -1,7 +1,7 @@
 ---
 title: "Governing academic integrity: Ensuring the authenticity of higher thinking in the era of generative artificial intelligence"
 created: "2026-09-18T05:08:00-04:00"
-updated: "2026-09-18T05:08:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 technology: [generative-ai, ai-technologies]
@@ -57,6 +57,20 @@ The reforms were derived from governance-level work spanning a year, covering th
 External affordance matters because, in the authors' account, very little institutional development pays out even in large universities without it. Benchmarking, collaboration and pressure from quality and regulatory agencies are the levers. The paper cites emerging practice: TEQSA's analysis of submissions from all of Australia's registered higher education providers highlights integrity frameworks at the University of New England, Victoria University and Griffith University, working groups and committees at Monash University and the University of Western Australia, staff and student training across many institutions, and infrastructure transformation at Edith Cowan University and Western Sydney University, while the UK Quality Assurance Agency notes cases at Loughborough University and Oxford Brookes University. Quality and integrity agencies have also formed the Global Academic Integrity Network, and the Australian regulator asked every institution to report what it was doing about GenAI, which the authors credit with spurring national dialogue. Their longer-run proposal is a reputational economy built on academic [[ethics]] rather than research reputation.
 
 The paper is explicit about its limits. The quantitative evidence is a pilot, not a representative sample, so the authors call for further validation through more quantitative data subjected to psychometric validation, with benchmarking as the purpose. Conceptually they see a need for continuing review as digital threats change; technically they name integration with existing enterprise information systems as critical to generating engagement; and practically they note the absence of any sustainable international forum convening universities, governance and GenAI together.
+
+## What this means for practice
+
+- **Administrators.** Put the missing information on a governance committee's standing agenda rather than commissioning another audit: start with the framework's own sample questions — whether the top-most board or council receives updates on assessment processes and outcomes, whether key performance indicators cover assessment quality, whether extreme low or high marks are cross-checked, and whether a simple process exists for referring contract cheating cases.
+- **Administrators.** Pair any indicator reporting with the people and interpretive capacity to act on it, and borrow [[guardrails|red teaming]] from cyber security — have staff deliberately try to break an assessment integrity process — since the authors hold that information alone never precipitates reform.
+- **Policymakers.** Use the levers that the authors say make institutional development pay out: require providers to report what they are doing about GenAI, as the Australian regulator did, and support [[benchmark|benchmarking]] and cross-institutional collaboration, because very little institutional development pays out even in large universities without external affordance.
+- **Researchers.** Treat the 130 items as diagnostic governance questions rather than a validated scale, and run the psychometric validation the authors call for — with a representative sample of institutions — before any score is used to compare universities.
+
+## Limitations
+
+- The quantitative evidence is a pilot: data came from the expert consultation plus small-scale application by the five case-study universities and a further small sample, and the authors state it was not designed to be representative or generalizable, educationally or statistically, with sector comparisons shifting on covariates such as institution type at that sample size.
+- Expert confirmation rests on a small purposive panel: the instrument was sent by email invitation during 2022 and 2023 to 60 experts across six world regions, 56 gave online feedback and nine were interviewed in depth, so the item revisions reflect that group's judgment rather than a validated consensus procedure.
+- The 130 items are self-reported institutional disclosures awaiting validation — the authors call for more [[quantitative-research|quantitative]] data subjected to psychometric validation before the indicators are used for [[educational-measurement|measurement]] or benchmarking.
+- The framework was designed before the technology it now governs was public: the program began in 2021, predating the late-2022 release of GenAI, and the institution-level case study evidence comes from five Australian universities in three states belonging to one national quality network.
 
 ## Connected Concepts
 

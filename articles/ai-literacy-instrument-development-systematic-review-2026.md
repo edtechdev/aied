@@ -1,7 +1,7 @@
 ---
 title: "Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy]
 assessment: [educational-measurement, self-report-measures, assessment]
@@ -51,14 +51,12 @@ Everything that requires evidence outside the instrument is scarce. Only 15 stud
 
 Content validity is where the field is most exposed. Most studies (54 of 58, 93%) defined the construct before writing items, and 38 (66%) reported concept elicitation, 36 (62%) pilot testing and 25 (43%) expert panel review. Those numbers look reasonable until the ratings: comprehensiveness drew a sufficient rating in only five studies and an insufficient rating in 53, and comprehensibility split between inconsistent (28) and insufficient (25) despite 43 studies (74%) reporting cognitive interviewing or think-aloud work. The pattern the authors diagnose is one of reportable-but-insufficient process: procedures were conducted but not reported in enough depth, not clearly linked to item revision, or not implemented in ways COSMIN accepts. The consequence is that a well-fitting factor structure can sit on top of an item pool too narrow to represent the construct, and the certainty of evidence across the corpus is mostly low or very low.
 
-## What this means for developers and for researchers choosing a measure
-
+## What this means for practice
 For [[psychometrically-aware-ai|instrument developers]], the review's message is to spend more effort before and after item writing rather than during it. Define the construct and map its domains systematically before drafting items; blueprint coverage of knowledge, ethics, application and critical evaluation deliberately; elicit concepts from the target population rather than only from the literature; pilot and cognitively test items, then document how responses changed the final instrument. Add criterion evidence by relating scores to performance tasks, and test measurement invariance whenever a scale crosses language, country or educational stage. The authors also urge consolidation over proliferation: refine domain taxonomies, distinguish genuinely new generative AI competencies from new manifestations of existing ones, and validate existing scales in new contexts instead of issuing a new one.
 
 For researchers choosing a measure, the practical implication is skepticism about score meaning. A scale with a clean factor structure and a high Cronbach's alpha is not by itself evidence that it captures demonstrated capability. Most instruments measure perceived competence, readiness or self-efficacy, and digital-competence research shows perceived and enacted competence diverge. The review recommends combining [[self-report-measures|self-report]] instruments with performance-based tasks — scenario-based items where learners analyze AI-generated output or justify decisions made with AI assistance — and treating AI literacy as a family of related constructs with a shared core and context-specific extensions rather than expecting one universal scale to serve civic, [[pedagogy|pedagogical]], clinical and workplace purposes equally well.
 
-## Limitations of the review
-
+## Limitations
 The appraisal reflects reported evidence rather than actual methodological quality. Because COSMIN demands explicit documentation, studies that may have performed additional validation steps but described them thinly received indeterminate ratings; the review cannot distinguish poor practice from poor reporting. Scope is restricted to peer-reviewed academic literature, excluding gray literature, institutional and policy reports and industry tools, so the landscape is a map of scholarly measurement research rather than a complete inventory of instruments in use. Only English-language studies were included. The corpus spans general-public surveys, [[k-12|school]], [[higher-ed|higher education]] and professional settings with different conceptualizations and purposes, which complicates direct comparison across instruments and limits the generalizability of aggregate patterns. Finally, the field moves fast: instruments were developed in response to capabilities that shifted within the review window, so the patterns are indicative trends within a snapshot rather than durable conclusions about how AI literacy should be conceptualized or assessed.
 
 ## Connected Concepts

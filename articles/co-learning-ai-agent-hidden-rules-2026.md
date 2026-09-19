@@ -1,7 +1,7 @@
 ---
 title: "Benefits of co-learning with an AI agent"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [human-ai-collaboration, cognitive-offloading, agentic-ai]
 pedagogy: [collaborative-learning, self-regulated-learning, problem-solving]
@@ -59,8 +59,15 @@ The most informative analyses track following and accuracy together over the cou
 
 The design also has a theoretical peculiarity worth naming: following was *higher* among strong performers than weak ones, which sits oddly with the finding that weak performers benefited most. The authors do not resolve it; they suggest only that stronger learners may have been overconfident and forgone help that would have helped them further.
 
-## Limitations and what the study does not show
+## What this means for practice
 
+- **Instructors.** Attach a stated confidence to every hint you supply and expect learners to accept only a third to two-fifths of them: following rates were 39.9%, 35.9%, 40.8% and 34.0% across the four experiments, so the benefit came from availability, not compliance.
+- **Instructors.** Aim assistance at weaker learners. Low performers with the bot solved rules about as quickly as high performers without it, while high performers were "relatively unaffected" whether or not the bot was present.
+- **Learning designers.** Buy hint accuracy before hint volume. The faster bot cut moves to solve by 52% against 33% for the slow bot, and a single incorrect suggestion produced a drop in following that had not recovered within 10 moves in one experiment.
+- **Learning designers.** Let learners withdraw support on their own terms rather than forcing a fixed hint sequence, since proportion followed fell toward zero as proportion correct rose in the closing moves of every game.
+- **Researchers.** Do not report a reduction in moves as learning. Success was defined as a within-session streak of 10 correct moves, no participant reached criterion purely on suggested moves, and the study measured no delayed post-test, retention or transfer.
+
+## Limitations
 The central limitation is stated plainly by the authors: the "bot" was not an AI at all. It knew the correct rule from the start and imitated learning by decaying a programmed error rate. It did not model the subject's mental state, did not customize suggestions, and therefore cannot be a true partner in the sense that [[human-ai-collaboration]] research expects — no dual-pathway learning flow, no adaptive co-construction. The experiments measure the benefit of controlled external hints, and the authors present their numbers as a calibration of what real AI partnerships might be worth rather than a demonstration about AI.
 
 Relatedly, whether participants believed the bot was an AI is unknown and untested; the authors concede that assistance attributed to a real AI agent might be accepted more readily or less readily than advice from what is, in effect, a fellow learner simulated in software. The bot's stated confidence was always exactly its accuracy, so the study says nothing about over- or under-confident advice, a manipulation the authors flag as the obvious next step, alongside varying the bot's initial confidence and finding finer-grained predictors of who benefits than the median split on total moves. Finally, the evidence for learning is behavioral and within-session: success is defined by a correct streak, not by delayed post-test performance, and there is no measure of whether the discovered rule generalized, persisted, or transferred. Given that participants self-selected onto Prolific for English-language tasks and the paradigm is an abstract puzzle rather than an academic task, the transfer of these effect sizes to [[higher-ed|higher education]] settings where AI hints are now routine remains an open question — though the interaction with learner quality, and the finding that the benefit survives even a bot that is worse than the average human, are the parts most likely to carry over.

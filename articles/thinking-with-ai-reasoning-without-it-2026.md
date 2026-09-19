@@ -1,7 +1,7 @@
 ---
 title: "Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-18T15:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning, desirable-difficulties]
@@ -58,6 +58,21 @@ This sits in a specific relation to neighbouring accounts. It is not the "cognit
 For teaching, the study does not license prohibition. It licenses attention to what a tool is doing within a task: the harm case is genAI performing the integration that is itself the learning objective, while assistance that supports exploration and evaluation looks benign or better. Two practical corollaries follow. Assess the unassisted residue, because assisted accuracy is not evidence that structure was built. And be wary of the incentive trap: promising marks or rewards for effort may not recover anything once a learner's sense of how much effort the task deserves has been anchored to tool-assisted performance — timing and [[scaffolding]] of withdrawal, not incentives after the fact, is what the data implicate. The 82-proposition network also models the kind of material where this matters most: tasks with high element interactivity whose difficulty is inseparable from the mental model being built.
 
 The limitations are candid and worth carrying forward. The impairment result was not consistent across levels of analysis — aggregate accuracy showed nothing, item-level modeling showed a modest effect — so it may be sensitive to analytic choices and should be replicated with larger samples or stronger incentives. The manipulation was access to the tool, not measured offloading, and with almost 40% of the genAI condition barely using ChatGPT, condition-level differences are diluted; future work should separate access from extent and type of use. Incentives moved time but never accuracy, which leaves open whether this is a weakness of the manipulation, of the task, or a ceiling effect from already-motivated participants, and completion time is only an indirect measure of effort. Question difficulty was estimated from this sample's own item-level accuracy, so the moderation finding warrants replication with independent difficulty estimates. The design targeted extrinsic motivation only, so nothing follows about interest, competence, [[agency|autonomy]] or [[motivation|intrinsic motivation]]. Above all, this is a single laboratory session with a very short delay: Stage 2 followed Stage 1 immediately, the reasoning content was the same network rather than genuinely novel material, and Stage 3's memory test spanned both stages, giving everyone an extra independent pass over the information. Whether a semester of tool use produces the same effort signature — or whether interpolation of unassisted [[retrieval-spacing-interleaving|retrieval practice]] erases it, as the absence of a memory effect tentatively suggests — is not answered here. One caveat cuts against over-reading the classroom sample: participants were adults in Poznań, mostly with secondary education, which is why the page carries the [[higher-ed|higher education]] level rather than K-12.
+
+## What this means for practice
+
+- **Educators.** Test the unassisted residue, because assisted accuracy is not evidence that structure was built: ChatGPT raised Stage 1 accuracy to 77.9% (ηp² = .030) while prior tool use was associated with roughly 32% lower odds of a correct unaided Stage 2 answer (OR = 0.68).
+- **Educators.** Focus on effort on the hardest items, since incentives lengthened time on difficult Stage 2 questions only for students who had worked without the tool (126.4 s vs 84.7 s, p = .008); plan the withdrawal and [[scaffolding]] of the tool rather than rewards offered after it.
+- **Educators.** Keep generative AI out of the step the task is meant to teach: here the harm case was the tool performing the integration that was the learning objective, while exploratory use — proposing answers, demanding justification, disagreeing — looked benign or better.
+- **Educators.** Do not read a flat class average as safety, because the preregistered aggregate test of unaided reasoning was null (F(1, 153) = 1.84, p = .177) while item-level modeling found impairment concentrated on difficult questions.
+- **Researchers.** Measure access, extent and type of use separately: nearly 40% of participants with tool access barely used [[conversational-ai|ChatGPT]], which dilutes any condition-level comparison.
+
+## Limitations
+
+- One laboratory session with 193 adults in Poznań (mean age 25.1; 105 had completed higher education), in which Stage 2 followed Stage 1 immediately and reused the same 15-entity network rather than genuinely new material.
+- The impairment finding is exploratory and level-dependent: aggregate Stage 2 accuracy showed no prior-use effect (F(1, 153) = 1.84, p = .177), and only the item-level mixed-effects model produced the OR = 0.68 association.
+- The manipulation was access to the tool rather than measured offloading, and almost 40% of the genAI condition used ChatGPT rarely or never, so condition-level differences understate any real effect.
+- Question difficulty was estimated from this sample's own item-level accuracy, and incentives moved time but never accuracy, leaving it open whether that reflects the manipulation, the task or a ceiling effect among already-motivated participants; completion time is only an indirect measure of effort.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Can Artificial Intelligence Promote Metacognition? Evidence from a Three-Level Meta-Analysis"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 foundations: [cognitive-offloading]
@@ -63,6 +63,20 @@ Context results are uneven in a way that is easy to over-read. Classroom setting
 For practice the results support three moves: give AI interventions real time rather than single sessions, embed them in authentic classroom activity rather than laboratory tasks, and measure with multiple complementary instruments instead of self-report alone. The paper is candid that the last point conditions the other two, since a self-report-only evidence base cannot distinguish genuine gains in regulation from learners' confidence about it.
 
 The stated limitations are methodological and, in one case, self-implicating. The three-level model's inclusion of multiple effect sizes per study may itself increase exposure to publication bias, and although the trim-and-fill correction left the effect significant the authors still urge caution. Note also that the correction *raised* the estimate to g = 0.777 rather than lowering it, which is the opposite of the usual direction and is not explained. Effect sizes were unevenly distributed across moderator categories, limiting the stability of those estimates. Inadequate reporting in primary studies blocked subcomponent analysis and left several moderators untestable. Quality was assessed with MERSQI (mean 11.16, SD = 1.50) and rated generally high, but the design mix is mostly quasi-experimental (study design was a non-significant moderator, p = .953, so true and quasi-experiments agreed), and causal claims still rest on comparisons that cannot be blinded. On provenance, the manuscript reports a preregistration on the Open Science Framework with the link blinded for peer review and gives no DOI or journal, so it should be treated as unpublished or under review; internal consistency is otherwise good apart from minor rounding, the results reporting g = 0.624 [0.431, 0.817] where the discussion reports g = 0.623 [0.430, 0.817].
+
+## What this means for practice
+
+- **Instructors.** Schedule AI metacognition support across a full term or more rather than as one-off sessions, because the pooled effect rose monotonically from g = 0.381 under a week to g = 1.638 at 15-20 weeks.
+- **Instructors.** Run AI-supported metacognition work inside regular classroom activity, the only setting that produced a significant pooled effect (g = 0.796), and read its advantage against stretched human guidance rather than as an intrinsic benefit of the tool.
+- **Researchers.** Measure [[metacognition]] with online instruments such as accuracy ratings and behavioral observation alongside self-report, since self-report carried the whole positive effect (g = 0.776) while accuracy ratings were flat (g = 0.035, p = .890).
+- **Researchers.** Report subgroup effects by metacognitive component; the composite pooling used here could not separate monitoring, knowledge and experience, and several moderator categories held too few effect sizes to interpret.
+
+## Limitations
+
+- The 54 studies contributed 121 effect sizes, and 29 of them (53.70%) reported multiple outcomes or conditions, so effects within studies are dependent and the authors note this pooling may itself increase exposure to publication bias.
+- Publication bias was detected (Egger's regression t(119) = 4.371, p < .001) and trim-and-fill imputed 12 missing effect sizes, after which the pooled effect rose to g = 0.777; the paper does not explain why correction moved the estimate upward.
+- Inadequate reporting in the primary studies blocked classification of metacognitive subcomponents, and several moderator categories held too few effects to interpret - the intelligent-peer role, for instance, gave g = 0.764 with a 95% CI of [-0.797, 2.326].
+- Mean study quality on MERSQI was 11.16 (SD = 1.50) and the design mix is mostly quasi-experimental, so the comparisons behind the g = 0.624 pooled estimate cannot be blinded; the manuscript is a preprint whose OSF registration link is blinded for peer review.
 
 ## Connected Concepts
 

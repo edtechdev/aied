@@ -1,7 +1,7 @@
 ---
 title: "How strong is the evidence in generative AI-related academic misconduct allegations? A mixed-methods analysis"
 created: "2026-09-18T04:15:00-04:00"
-updated: "2026-09-18T04:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 technology: [generative-ai, llm, ai-technologies]
@@ -42,8 +42,7 @@ The central pattern is a misalignment between the evidence types commonly used a
 
 The authors also treat probative value as temporal rather than fixed. The force of any GenAI-specific signal depends on the state of [[llm|LLM]] capability when the submission was made, so the same evidence type carries different weight over time, and any framework here will need regular recalibration. The rise of fabricated references illustrates the risk: LLMs are improving at generating plausible, retrievable citations at a documented rate, so a signal whose force rests on the unreliability of LLM citation generation will weaken as that generation improves. Institutional practice is converging on an evidence type whose discriminating power is being eroded by the same development driving the caseload.
 
-## Implications for policy and practice
-
+## What this means for practice
 The paper's practical claim is that the credentials framework should be applied at the point of allegation, not only at the point of determination. Asking what an item establishes on its own, using the taxonomy to classify evidence and the credentials to weigh it, would bring investigative practice closer to the evidentiary demands of the process it initiates. The authors stress that individual application is necessary but insufficient while evidentiary standards remain uncodified, since inconsistency in evidentiary values is a structural feature of the current system that good judgment cannot overcome at scale.
 
 Two consequences follow. A process that relies on individual expertise for its evidentiary rigour will produce outcomes that vary with that expertise, and allegations raised by less experienced staff increase the risk of false positives. That variation matters for [[student-experience|students]], who may be pushed into appeal mechanisms when the evidentiary basis is weak, and for institutions, whose findings become hard to defend as consistent and fair. Codifying standards would make the evidentiary basis of proceedings transparent and auditable, which the authors distinguish from mechanically determining outcomes from evidence scores. The paper also documents how [[educational-policy-ai|policy]] caught up with practice: the [[assessment]] policy in force through 2024 said nothing about AI or detection software, and from 1 January 2025 a revised policy permitted authenticity checks through approved software while prohibiting the upload of student work to third-party tools, including AI-detection software.

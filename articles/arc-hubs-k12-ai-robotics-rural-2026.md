@@ -2,7 +2,7 @@
 title: "Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 pedagogy: [learning-by-teaching]
 technology: [educational-robotics]
 stakeholders: [career-development-and-readiness]
@@ -68,6 +68,20 @@ The trial's own lessons are about mentor preparation rather than content. Sessio
 The evidentiary limits are stated frankly. Seven undergraduate and four parent respondents, retrospective pre-post self-reports, and no control condition mean the results are initial evidence of feasibility and perceived benefit, not estimates of program effects or a causal evaluation. The simulation's ARC-specific parameters remain unmeasured; the model does not represent how a college decides to start or stop participating; and the trial cannot observe whether supported programs mature into durable secondary hubs — the mechanism the whole design depends on. Future multi-site, multi-year deployments are intended to follow programs through maturation and estimate those transition parameters directly.
 
 For institutions, the transferable design decisions are these: position the intervention at the mentorship gap rather than at curriculum or hardware; make mentor preparation a credit-bearing course with visible incentive (70% of the grade for mentoring and participation) and give it physical space, game arenas and youth-protection infrastructure; preserve the requirement for at least one experienced mentor who can improvise when the material does not cover a problem; and treat mature school programs as infrastructure that can be [[career-development-and-readiness|developed deliberately]] rather than as an accident of local enthusiasm. The framework's most interesting claim for policy is that the sequence — colleges seed, schools propagate — is what produces non-linear reach, which makes secondary-hub formation the outcome worth measuring in any future deployment.
+
+## What this means for practice
+
+- **Educators.** Position the intervention at the technical mentorship gap rather than at curriculum or kits, and run mentor preparation as a credit-bearing course: the trial course was three credits meeting once weekly for two hours, with four preparation weeks covering FLL kits, building a mobile robot, mandatory youth-protection training, FLL programming and a practice teaching exercise before the first K–12 workshop in week five.
+- **Educators.** Pair flexible mentoring with milestone checklists and fallback activities — five of six substantive improvement responses asked for more structure, clearer pacing and checkpoints — and build in practical strategies for balancing participation when one student dominates the programming.
+- **Administrators.** Budget for the physical layer that the model depends on: FLL kits, programming devices, the current competition field and game materials, workspace, youth-protection procedures, and game arenas at the hub so several teams travel to one site instead of a mentor driving to many schools.
+- **Administrators.** Treat mature school programs as deliberately [[career-development-and-readiness|developed]] infrastructure rather than local accident: at optimism level 6, an initial primary hub with secondary-hub formation produced 551 programs against 323 for primary hubs alone and 992 when both mechanisms operate, which makes secondary-hub formation the outcome to measure in any future deployment.
+
+## Limitations
+
+- The trial ran at one Indiana university over a single semester with three FIRST LEGO League teams from one rural elementary school in its first year of FLL, so it is evidence of feasibility and perceived benefit rather than an estimate of program effects.
+- Mentor results rest on seven of the nine enrolled undergraduates and K–12 results on four parents — all collected through anonymous end-of-program Qualtrics surveys using retrospective pre-then-post ratings, which the authors state are self-assessments subject to recall and current-state bias rather than direct longitudinal measurement.
+- The children themselves were never surveyed: their outcomes are parent-proxy reports, and one parent had discussed the survey with the child while two had not.
+- There was no control condition, and every ARC-specific parameter in the [[simulation]] — launch probability, support capacity, maturation and closure multipliers under support, hub formation rates — could not be estimated from a single-year trial and was varied across 12 optimism levels instead; the model also does not represent how a college decides to start or stop participating, and the trial cannot observe whether supported programs mature into durable secondary hubs.
 
 ## Connected Concepts
 

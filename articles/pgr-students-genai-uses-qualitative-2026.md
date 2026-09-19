@@ -1,7 +1,7 @@
 ---
 title: "From Research Assistant to Surrogate Supervisor: A Qualitative Study Exploring PGR Students' Diverse Uses of Generative AI"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-18T15:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, agency, learner-identity]
 pedagogy: [self-regulated-learning, metacognition, help-seeking]
@@ -63,6 +63,21 @@ A second finding is asymmetry of expertise. Many students saw their supervisors 
 The final theme concerns what universities can do, and the study's recommendations respond to six stated concerns: limited clarity about institutional positions, limited guidance, inter-PGR conflict and inequities for international students, GenAI avoidance and rejection, overreliance and the impostor phenomenon, and supervisor preparedness. The proposals are specific — core research principles that outlast each tool generation; explicit supervisory conversations about boundaries; guidance that is clear, discipline-specific, accessible, signposted and extends beyond writing to ethics and research use; co-production with PGRs; and training embedded across the program rather than delivered once. The authors also insist that students who decline GenAI are neither advantaged nor disadvantaged, and that institutions provide language and academic writing support for all PGRs. On [[equity-in-ai-education|equity]], participants argued that boundaries should be clear for everyone while some students are permitted to navigate closer to them, and one framed this as institutional "reciprocal accountability" for structural disadvantage, rejecting the view that language barriers are simply "an international student problem". [[assessment|Assessment]], finally, is treated as unfinished business: with GenAI able to produce fluent prose, participants suggested the thesis becomes a weaker signal of scholarly ability and the viva a stronger one — a claim the authors accept only partly, since the viva is not inherently proof against GenAI and the real question is how doctoral assessment can evidence agency, judgment and ownership.
 
 The limits are stated plainly. Fifteen students at one UK university, purposively sampled, cannot ground generalization; PGR study is heterogeneous in expectations, supervision and GenAI acceptance, so interdisciplinary nuance is lost; supervisors were not interviewed, so their perspective is inferred from students; and the work is a pre-print. The authors ask for longitudinal research tracking confidence, researcher identity and the impostor phenomenon over time, for comparative work across disciplines and student groups, and for designs that include supervisors alongside students, together with research on how thesis, viva, [[eportfolio|portfolio]] and practice-based models can respond to quickly changing tools without giving up rigour or integrity.
+
+## What this means for practice
+
+- **Educators.** Raise GenAI explicitly in supervisory conversations instead of staying silent: the authors name the "silencer" stance the most harmful, and students hid their use precisely where supervisors were skeptical or the topic was treated as taboo.
+- **Educators.** Provide language and academic writing support for all PGRs rather than letting writing help become an international-student workaround resented by peers who do not face the same linguistic demands.
+- **Administrators.** Co-produce GenAI guidance with PGRs and make it discipline-specific, accessible and broader than writing - participants described current guidance as covering maybe 20-30% of research.
+- **Administrators.** Train supervisors and embed that training across the doctoral program rather than a single induction, since several students reported being their supervisor's primary source of GenAI information.
+- **Researchers.** Test the impostor-phenomenon intersection and track researcher identity, confidence and independence longitudinally, as the authors request.
+
+## Limitations
+
+- Fifteen PGRs were purposively sampled from one UK Russell Group university - five per faculty, drawn from a doctoral population of around 3,500 - so the findings support transferable claims rather than generalization.
+- Supervisors were not interviewed, so the enthusiast/prohibitor/silencer typology rests on students' accounts and cannot be checked against what supervisors actually said or did.
+- Recruitment ran through physical posters, PGR newsletters and faculty email lists followed by an expression-of-interest questionnaire, so participants self-selected - plausibly those with developed views on GenAI - and the paper is a pre-print.
+- PGR study is heterogeneous in expectations, supervision and GenAI acceptance, so a cross-faculty sample of 15 loses interdisciplinary nuance that the authors say needs comparative work.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond the algorithm: academic developers as digital mediators in Global South higher education"
 created: "2026-09-18T11:12:00-04:00"
-updated: "2026-09-18T11:21:18-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, teacher-role, educational-development]
 pedagogy: [anxiety-and-stress, critical-pedagogy]
@@ -41,6 +41,20 @@ Mediation is specified in three dimensions. **Pedagogical mediation** translates
 ## Method and limits
 
 Twelve purposively sampled participants (nine academic developers, three learning designers; six per institution) were interviewed for 45–60 minutes over eight weeks, face to face or on Microsoft Teams, with verbatim transcripts analyzed through Braun and Clarke's reflexive six-phase thematic analysis in Atlas.ti, combining inductive coding with sensitising concepts from Critical Digital Pedagogy and decolonial theory. The two sites differed in orientation: Institution-A had begun folding AI into teaching and learning strategy with assessment-redesign and digital-literacy pilots, while Institution-B's engagement was fragmented and driven by individuals. Limitations are acknowledged directly: a single method with no documentary or observational data, twelve participants in a small and functionally specific professional group, and findings from two historically disadvantaged South African institutions that cannot be generalized to other contexts. Institutional and personal identification is masked, so the paper cannot be read as a comparative account of the two sites despite the strategic difference between them.
+
+## What this means for practice
+
+- **Faculty developers.** Run peer spaces in which staff test AI tools together and deliberately try to break them, targeting judgment rather than tool mastery - participants here summed up the work as "less about skill and more about judgement."
+- **Learning designers.** Screen each proposed adoption against local material conditions before it moves into teaching, using the standing question participants posed: "what does this mean for teaching here, for our students from poor schools?"
+- **Administrators.** Fund connectivity, devices and policy before publishing AI strategy; across both institutions participants described strategic rhetoric disconnected from everyday teaching - "performance more than practice."
+- **Learning designers.** Treat [[digital-divide|digital inequality]] and algorithmic coloniality as separate problems needing separate responses, since full access does not resolve which knowledges the systems privilege and erase.
+
+## Limitations
+
+- The study rests on twelve participants (n = 12): nine academic developers and three learning designers, six per institution, purposively sampled and interviewed for 45-60 minutes over eight weeks.
+- Evidence comes from a single method - interviews - with no documentary or observational data, so institutional strategy and teaching practice are reported through participants' accounts rather than checked against artifacts.
+- Both sites are [[global-south|South African]] Historically Disadvantaged Institutions and the authors state the findings cannot be generalized elsewhere; masking of institutional and personal identification also means the two sites cannot be compared, even though Institution-A had begun folding AI into strategy while Institution-B's engagement was fragmented and individual-driven.
+- Only academic developers and learning designers were interviewed, so accounts of lecturers' worries and students' connectivity problems are second-hand, and the professional group is small and functionally specific.
 
 ## Connected Concepts
 

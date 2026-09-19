@@ -1,7 +1,7 @@
 ---
 title: "Developing Effective GenAI Users: The Missing Motivational System and Why It Matters for Equity"
 created: "2026-09-18T15:50:00-04:00"
-updated: "2026-09-18T15:50:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, agency, cognitive-offloading, critical-thinking]
 pedagogy: [anxiety-and-stress, help-seeking, metacognition, motivation, self-efficacy, self-regulated-learning, student-ai-interaction, student-engagement, well-being]
@@ -59,13 +59,12 @@ Every mechanism in the model is differentially available. Whether a school permi
 
 The equity risk is also motivational rather than merely material. Threat appraisals and protection goals are more likely in environments that signal some students are at risk of being judged negatively, and those goals in turn produce the avoidance strategies that foreclose learning. Because the model is recursive, small task-level inequalities compound into diverging trajectories of [[self-efficacy]] and [[agency]]. The authors' conclusion is deliberately symmetrical: for classrooms to make the rational choice and the learning choice the same choice for every student, the signals about what is valued have to change, not just the availability of the tool.
 
-## Implications for teaching and tool design
-
+## What this means for practice
 For teaching, the argument implies moving from policing use to building the capacity to choose. That means teaching [[metacognition]] and [[self-regulated-learning]] explicitly, including instrumental [[help-seeking]] and progress monitoring; designing assignments and grading so that learning goals stay rational rather than making completion the efficient option; making it safe to struggle and make mistakes; and giving every student structured opportunities to test the tool against tasks they understand so they can build their own map of its reliability. For tool and environment design, the relevant levers are the cues a setting sends about what is valued: what assignments reward, how work is judged, and whether students' judgment is treated as worth using.
 
 For research, the paper's methodological demand is measurement of the whole process, situation, appraisal, goal, strategy, consequence, rather than overall amount of use. The authors call for designs that deliberately vary the signals a learning environment sends, such as assignment and grading structures, and then examine how students' goals and GenAI behavior shift, plus data collection that asks students why they made the choices they did. They also insist on comparability: measures of the full sequence, collected for different student populations, are what would let the field learn what supports effective GenAI use and scale it. Their closing framing is a rebuke to both popular narratives, GenAI as miracle tutor and GenAI as cognitive decay, and an argument that the science should set the pace rather than referee the tool.
 
-## Limitations: a conceptual argument
+## Limitations
 
 This is a position paper, not an empirical study. The motivational model of GenAI engagement is proposed to organize a research space; the links it asserts between environment, appraisal, goal, strategy and consequence are theoretical claims and predictions, several stated as such, rather than findings from the authors' own designs. The evidence it cites is largely borrowed from adjacent literatures on motivation, help-seeking, expectancy-value, social identity threat and metacognitive feedback, most of it predating GenAI, which supports the plausibility of the mechanism but not its specific operation with GenAI.
 

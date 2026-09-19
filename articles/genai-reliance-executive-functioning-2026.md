@@ -1,7 +1,7 @@
 ---
 title: "Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-18T15:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning, metacognition, self-efficacy]
@@ -57,6 +57,20 @@ For [[student-experience|students]] with EF difficulties the practical message i
 ## Implications, limitations and what does not transfer
 
 Implications follow the individual-differences frame. The consistency of the pattern across both school groups, and the replication of the EF→perceived-usefulness association from the authors' earlier study (Klarin et al. 2024), suggest the associations are not an artifact of one age band. Still, the paper is candid about its limits. The data are cross-sectional, so no temporal ordering or causality can be claimed and reciprocal paths are plausible — reliance and [[cognitive-offloading|offloading]] could themselves shape students' perceived EF difficulties. The upper secondary sample came from a single school, so replication across settings with different policies and [[pedagogy|teaching practices]] is needed. Every construct is self-reported, raising common-method-variance and shared-response-bias concerns, and the BRIEF2 GEC cannot show whether specific EF domains (working memory versus inhibition, say) behave differently. The models were not adjusted for gender, age, achievement, socioeconomic background or neurodevelopmental conditions such as [[neurodiversity|ADHD and autism]], so unmeasured confounds may inflate the associations. The three-item reliance measure is new and needs further psychometric validation against cognitive offloading, cognitive substitution, overreliance and academic help seeking. Finally, the model captures only some of the relevant factors — broader acceptance frameworks add social influence, facilitating conditions and hedonic [[motivation]], and stable traits such as personality may matter too. Confidence in the article rests on the large samples, high response rates, latent-variable modeling and replicated EF–usefulness link, not on any [[learning-gains|learning-outcome]] claim, which the design cannot support.
+
+## What this means for practice
+
+- **Educators.** Ask how and why a student uses [[generative-ai|GenAI]], not whether they do: reliance tracked executive-function difficulties in both samples (r = .33 lower secondary, .28 upper secondary) and may be adaptive compensation, so bans or blanket warnings risk withdrawing a scaffold from the students who need it most.
+- **Educators.** Pair tool access with the two safeguards the reliance measure cannot see — evaluating the output and reinvesting the effort saved — because reliance as measured is defined without reference to [[cognitive-offloading|overreliance]] or cognitive substitution.
+- **Learning designers.** Build support around the operations students report as hardest (task initiation, planning, organization, working memory) and add hint-first or gated help, since [[technology-acceptance-model|perceived usefulness]] turned into habit at β = .72–.76 and habit into reliance at β = .60–.69.
+- **Researchers.** Validate the new three-item reliance scale against overreliance, cognitive substitution and academic [[help-seeking]] before using it as an outcome, and collect at least one measurement channel besides [[self-report-measures|self-report]].
+
+## Limitations
+
+- Both samples are cross-sectional Swedish community surveys completed in a single ~20-minute in-class sitting, so no temporal ordering is identifiable and reliance could equally shape students' perceived executive difficulties.
+- The upper secondary sample came from one school of about 1,350 students (67% response rate; analytic n = 839), so the age-group comparison is not replicated across settings, policies or teaching practices.
+- Every construct is self-reported on the same instrument, inviting common-method variance, and executive functioning was captured only as the BRIEF2 Global Executive Composite, so domain-level differences (working memory versus inhibition) cannot be tested.
+- The models were unadjusted for gender, age, achievement, socioeconomic background or neurodevelopmental conditions, and the three-item reliance measure is new and not yet validated against its neighboring constructs.
 
 ## Connected Concepts
 

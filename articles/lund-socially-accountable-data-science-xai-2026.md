@@ -1,7 +1,7 @@
 ---
 title: "Toward Socially Accountable Data Science Education: A Conceptual Framework for Integrating Explainable AI and Accountability Principles"
 created: "2026-09-17T04:10:00-04:00"
-updated: "2026-09-17T08:05:01-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 ethics: [bias-mitigation, ethics, explainable-ai]
@@ -73,8 +73,15 @@ A section on implementation barriers is unusually candid about why frameworks li
 
 **Resistance is framed as an institutional design problem rather than an attitude problem.** A faculty member hired and evaluated for technical research productivity has legitimate grounds to question an expectation that they also teach accountability content without training or recognition, and the paper recommends responding structurally: co-teaching arrangements, shared curriculum materials that lower the preparation burden on any single instructor, and explicit recognition of this teaching in workload and evaluation criteria. Interdisciplinary collaboration, meanwhile, runs into budget models that do not accommodate split teaching credit, departmental scheduling conflicts, and disciplinary disagreement about how accountability should be taught at all — practical constraints a conceptual framework can describe but not resolve.
 
-## Where it sits, and what it does not establish
+## What this means for practice
 
+- **Instructors.** Start with the low-cost pillars: add graded model cards and positionality statements to deliverables you already assign, and require a revision at the end rather than accepting a single submission, to blunt superficial compliance.
+- **Designers.** Sequence the rest outward from there — explanation audits and algorithmic impact assessments only after students have exposure to LIME or SHAP and enough domain grounding (lending, hiring, healthcare) for identified harms to be plausible, then tiered peer review.
+- **Instructors.** Give the enforcement pillar teeth in the rubric: weigh documentation and explanation work alongside accuracy metrics and allow projects to be sent back on ethical grounds, since grading rarely rewards the documentation work accountability requires.
+- **Designers.** Where external stakeholders cannot be recruited, substitute role-play on documented cases such as the Obermeyer cost-as-proxy-for-need model to keep the perspective-taking at reduced fidelity.
+- **Researchers.** Treat the framework as a design proposal to pilot rather than evidence: nothing here has been tested with students, and the authors call for evaluation using assignment performance and documentation quality plus analysis of student reflexivity statements.
+
+## Limitations
 The framework positions itself against three prior approaches: ethics as supplementary content (Saltz et al., 2018), which is easy to adopt but teaches that accountability is separable from technical work; high-level principle frameworks such as the IEEE's *Ethically Aligned Design* (2019) and AI4People, which state values without supplying classroom machinery; and work that embeds ethics in technical coursework, which this paper extends by adding enforcement and reflexivity as distinct pillars with their own assignments. The authors are direct about the limits: it is a conceptual paper, not yet evaluated in a classroom, and the scenario in the discussion is a hypothetical composite built from documented patterns of harm rather than a reported case. They call for piloting the curriculum strategies in real courses and evaluating them with both quantitative measures (assignment performance, documentation quality) and qualitative analysis of student reflexivity statements.
 
 ## Contribution to the knowledge base

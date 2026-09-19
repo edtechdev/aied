@@ -1,7 +1,7 @@
 ---
 title: "Math Education Digital Shadows for facilitating learning with LLMs: Math performance, anxiety and confidence in simulated students and AIs"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [limitations-in-aied-research, human-ai-collaboration]
 pedagogy: [anxiety-and-stress, cognitive-psychology, problem-solving, self-efficacy, student-ai-interaction]
@@ -58,6 +58,14 @@ Grounding comes from comparison rather than from real participants. Task 3 netwo
 The three psychometric instruments cover complementary ground: MSES and the MSEAQ self-efficacy subscale measure belief in one's ability to solve mathematical problems, AMAS and the MSEAQ anxiety subscale measure the emotional cost of engaging with them. Running all of them in both modes turns the usual single score into a profile, and profile variance becomes the signal: wide in human mode, near-zero in baseline mode, with the baseline models projecting systematically higher [[self-efficacy]] and lower anxiety than their simulated peers. Since [[self-report-measures|self-reports]] from a model are behavioral traces rather than testimony, the authors use the term [[trust-calibration|calibration]] and reserve judgment about whether these numbers describe anything internal.
 
 That framing is what the authors mean by [[psychometrically-aware-ai|psychometrically aware]] evaluation. Intended uses include [[teacher-role|teachers]] and professors gauging whether a model is psychologically appropriate before students use it; [[educational-technology-developers|developers of tutoring systems]] building adaptive support that responds to a learner's anxiety level; safety researchers auditing which families are suitable for anxious or struggling students; and [[educational-measurement|measurement]] researchers using the score distributions and confidence-accuracy gaps to baseline other synthetic-participant datasets. Persona metadata (gender, age, migration status) also enables stereotype testing, checking whether demographic attributes shift confidence or anxiety scores in ways that would disadvantage particular [[learners]]. Scores can be filtered by city and country to compare models against locally relevant profiles, and the release includes datasets for text classifiers over Tasks 1 and 4 — a route towards moderation of anxiety-signaling content and preference data for better-calibrated explanations.
+
+## What this means for practice
+
+- **Researchers.** Run baseline mode as your control before reading any persona-conditioned score: baseline runs frequently returned identical scores across personas and scales, which is evidence of mode sensitivity rather than a psychological measurement.
+- **Researchers.** Treat a model's stated confidence as a score with no calibration warranty, since MEDS records systematic overconfidence: a high self-efficacy or low anxiety output says nothing about how a real student would answer the same items.
+- **Educators.** Use the anxiety and self-efficacy profiles to judge whether a model is psychologically appropriate for your students before they work with it, not to describe your own class — the authors call MEDS an observational resource and assertively not a stand-in for student data.
+- **Learning analytics designers.** Filter scores by city and country before comparing a model with the students you serve, because persona attributes are weighted, pseudo-realistic distributions rather than a sampling frame.
+- **Edtech designers.** Check the family, mode and version of the system you deploy rather than the one you benchmarked: uncensored and censored variants diverge, discard rates ranged from roughly 1% to about 55%, and refusal behavior and reasoning styles shift between versions.
 
 ## Limitations
 

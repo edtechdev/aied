@@ -1,7 +1,7 @@
 ---
 title: "The Eight-Mode AI Engagement Typology: Differential Cognitive Signatures and a Self-Report–Behavior Gap"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-18T15:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning, metacognition, student-engagement]
@@ -63,6 +63,21 @@ The authors refuse the easy interpretation in both directions. They do not treat
 For practice, the design implication is deliberately narrow. With the corpus-dominant labels showing strong agreement with the human development reference, mode feedback could show a user a task-specific distribution over validated modes and ask whether it matches their goal, but feedback on rare agency-tier modes awaits construct-revised classification, and the authors argue current evidence supports experimental mode induction and reflective feedback rather than automatic restrictions or prescriptive mode-task alerts. Mode induction has been shown to change interaction patterns, not to make one mode universally superior, and existing interventions are AI-scaffolded without non-AI controls. For [[higher-ed]] specifically, the practical warning is that [[learning-analytics]] [[visualization|dashboards]] built on usage quantity will misdescribe what students are doing, and [[self-regulated-learning]] supports premised on students accurately reporting their own AI use rest on an assumption this study does not support. The theoretical frame attached to the results is a conditional assistance-removal hypothesis: assistance may fail to transfer when it replaces the cognitive process later tested, and more readily when it elicits explanation, retrieval, comparison, revision or independent production.
 
 The limitations are stated at length and are unusually specific. Both studies are cross-sectional, use U.S. samples, and cannot establish temporal change or causation; Study 1 shares response method between predictors and outcomes, leaving self-concept, reverse direction and omitted variables viable. Study 2's behavioral measure carries four disclosed limitations: the measure moved as coding defects were repaired across protocol generations, so every finding carries its protocol version; no reported figure is an inter-rater reliability of protocol 4.2 itself; turn-level coding of problem setting extends Schön's practitioner-level construct with boundary rules partly derived on other corpora; and tasks constrained mode variance so that the five non-Tutor learning-task modes remain sparse and quiz models do not generalize out of sample. Several short scales had α < .70, the tiers are unvalidated prototypes, and competitor constructs were never administered. A strict narrative sensitivity analysis restricted to the 59 low- or some-concerns reports left every headline literature conclusion unchanged. The authors' closing position is that the evidence supports an integrative measurement framework, not a causal tier theory: [[student-engagement]] with AI is multidimensional, the two measurement channels must be run in parallel rather than substituted, and construct-revised rare-mode classification, competitor measures, randomized mode induction and delayed independent outcomes are the next tests.
+
+## What this means for practice
+
+- **Instructors.** Stop reading AI usage quantity as engagement quality. Adding the eight modes to usage-only models raised in-sample R² by .23 on average (range .05 to .37) and cross-validated R² by .20, so what a tool is used for carries information a usage log does not.
+- **Instructors.** Have students author their own work before submitting it to AI for critique. Verification was the only agency-tier mode with favorable adjusted associations (cognitive harm β = −.19, atrophy of decision-making β = −.26, AI calibration β = .55), and reviewing an AI-produced artifact counts as Production or Collaboration with an evaluation step, not Verification.
+- **Learning designers.** Design for explanation-seeking turns specifically. Tutor was the best-supported behavioral predictor of quiz scores (r = .33, p < .001), while the share of AI-initiated moves did not predict performance (r = .14, p = .08).
+- **Learning designers.** Run behavioral logs alongside self-report instead of substituting one channel for the other. Reported and observed profiles corresponded at near zero (mean total-variation distance .701, permutation p = .010) while behavior added R² = .166 against .031 for self-report.
+- **Researchers.** Restrict mode feedback to the corpus-dominant labels until classification is revised. The agency-tier modes are heavily intercorrelated (Problem Setter alone shares 69.7% of its variance with the other seven) and 13 of 56 mode-outcome coefficients reversed sign between the unadjusted and adjusted models.
+
+## Limitations
+
+- Both studies are cross-sectional, which forecloses causal and temporal claims: Study 1 is 359 working adults recruited through Prolific in late April 2026, and Study 2 pairs 171 students' transcripts with the same instrument, with no follow-up measurement.
+- Study 1 shares response method between predictors and outcomes, since both the AIT modes and the cognitive-harm, dependency and productivity measures are self-reports, leaving self-concept, reverse direction and omitted variables viable.
+- Study 2's behavioral measure moved as coding defects were repaired across three protocol generations, and no reported figure is an inter-rater reliability of protocol 4.2 itself: the five-model panel's Fleiss κ = .78 bounds consistency rather than validity, and the two-coder human reference was κ = .49.
+- The learning task constrained mode variance (mean profile 82% Tutor, against 85% and 84% Production in the writing and evaluation tasks), leaving five non-Tutor modes sparse, and every quiz model had negative repeated-cross-validated R², so that increment is in-sample only.
 
 ## Connected Concepts
 

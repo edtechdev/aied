@@ -1,7 +1,7 @@
 ---
 title: "What Do We Know About the Effects of Artificial Intelligence in Education? A Second-Order Meta-Analysis"
 created: "2026-09-18T14:00:00-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, quantitative-research]
 research_method: [meta-analysis, systematic review, quantitative]
@@ -48,14 +48,12 @@ The corpus is skewed. Half the meta-analyses (23 of 45) came from institutions i
 
 Long-term effects are essentially unmeasured: the included meta-analyses rarely incorporate follow-up assessments, so the SOMA cannot say whether effects persist, attenuate or grow. Adverse results are rare but real, most visibly the negative coefficient for self-regulated learning strategies, which the authors read as possible [[cognitive-offloading|overreliance]] on chatbots replacing planning, monitoring and resource management. Ethics is close to absent from the synthesis layer: only a few meta-analyses mentioned [[ethics|ethical]] concerns and only one author discussed them explicitly, such as [[privacy|data privacy]] or potential for abuse. The comparison condition is also under-specified in places, including whether students could use AI during outcome assessment, which means some performance gains may reflect AI-assisted task completion rather than learning.
 
-## Implications for practice and research
-
+## What this means for practice
 For practice, the differentiated picture is more useful than the headline. [[learning-gains|Learning gains]] from AI are real but medium, and they are not concentrated in the AI type that dominates current debate, so adoption decisions should be driven by how a tool supports a specific outcome rather than by novelty. Evidence is strongest for the domains most represented in the corpus — language learning, tutoring systems, higher education — and weakest for STEM performance and for younger learners, which is where claims of broad transformation should be held most loosely, especially given the effect-size inflation signals.
 
 For research, the authors' conclusion is that accumulating more studies is not sufficient. Their priorities: report precisely so that SOMAs remain possible, preregister, share data and code, list included and excluded studies, assess risk of bias in primary studies, treat standardized and researcher-developed measures separately, broaden the subject and learner range beyond language and higher education, include follow-up assessments, and give ethical risk explicit attention. More tailor-made quality criteria are needed too, since double-screening and double-coding deserve separate items and the current indicator set produced little variance across meta-analyses.
 
-## Limitations of this synthesis
-
+## Limitations
 The paper is a preprint (version 1, 8 June 2026) that has not been peer reviewed, so its own coding decisions and quality appraisals await external scrutiny. Overlap between meta-analyses is handled with uniqueness weights, not resolved: exact overlap assessment would require primary-study-level data, and the weighting is an approximation whose sensitivity was tested but not eliminated. Poor reporting upstream is a direct limitation on precision — three meta-analyses did not report their included primary studies at all — and several missing sample sizes had to be estimated or imputed. Heterogeneity is high (84% at the effect-size level), which is precisely why the aggregate effect should be read as an average across heterogeneous interventions rather than as an expected gain.
 
 All effects are averages of averages, so nothing here pins down a specific tool, dose or duration in a specific classroom, and the influence of factor such as [[research-methods-aied|measurement and design features]] of the underlying primary studies could not be disentangled. The publication-bias picture is internally inconsistent, with a symmetric funnel plot alongside significant PET-PEESE results, so the direction of the bias is presumed but not quantified. The generalizability of a corpus weighted towards Asia and tertiary education to other systems and school levels is untested. And because effects were larger in more recent meta-analyses while quality rose and power fell, the temporal trend is as compatible with shifting research practice as with improving technology — a rival explanation the authors raise but cannot rule out.

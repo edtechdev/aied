@@ -2,7 +2,7 @@
 title: "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 pedagogy: [situated-learning]
 technology: [affective-computing, llm, multimodal]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
@@ -62,6 +62,13 @@ Affect errors then cascade from grounding. In one worked case, GPT-5.6-Sol corre
 Three implications follow for anyone deploying vision-language models in picture-based instruction. First, capability claims should be dimension-level, not aggregate: a model that is reliable at scene and activity recognition is not thereby reliable at [[assessment|assessing]] a learner's emotional or cultural reading of an image, and a single benchmark score conceals that difference. Second, the recurring region-activity binding failure argues for a grounding checkpoint in tutoring flows — have the system state what it sees, and where, before it reasons from it — the same design move that recovers accuracy in multimodal tutoring on diagrams. Third, cultural and affective interpretation should be validated on the specific imagery a course actually uses, because emotion reasoning on conventional visual content only partially transfers to stylized expressions and implicit narratives in artworks.
 
 The paper is explicit about what its evidence does and does not cover. MUSE measures model capability on a curated, commissioned corpus; it reports no learner outcomes, no classroom deployment and no tutor-dialogue evaluation, and the human reference point is a small sample (20 questions per task, two annotators). Its value lies in documenting, at benchmark scale, where current [[multimodal]] perception is mature and where it is not — and in supplying a reusable construction pipeline others can extend without re-annotating every image from scratch.
+
+## Limitations
+
+- The human reference point is thin: 20 randomly sampled questions per task answered by two annotators, which is what the "human average" envelope on each task rests on.
+- The corpus is deliberately skewed toward Southeast Asian imagery (37.5% Singaporean/Malaysian, 28.5% Western/European) and uneven across scene themes (19.0% recreational and entertainment, 1.0% healthcare facilities), so the scores index this commissioned set rather than classroom imagery in general.
+- Annotation quality control was procedural rather than statistical: each of 1,174 images was annotated by one of 127 annotators (3–4 minutes per image) and reviewed by two others to consensus, with no inter-annotator agreement statistic reported.
+- MUSE scores model capability only: no learner outcomes, classroom deployment or tutor-dialogue evaluation is reported, so benchmark performance is not evidence that a model can support a learner reasoning about an image.
 
 ## Connected Concepts
 

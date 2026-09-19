@@ -1,7 +1,7 @@
 ---
 title: "“It feels like a small God”: A Thematic Analysis of Cross-Cultural Imaginations of Generative AI Among Users Seeking Emotional and Mental Health Support"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [social-emotional-learning, well-being]
 technology: [conversational-ai, llm, generative-ai]
@@ -60,6 +60,20 @@ Schools, universities and counselling services are now one of the places where [
 There are habits of mind that could be taught here, and the paper implies them without spelling them out: naming the imagined entity, noticing the attributions, and asking what evidence would license them is close to [[social-emotional-learning]] and [[culturally-relevant-pedagogy|culturally responsive practice]] — building [[learners|learners']] capacity to notice their own projections rather than assuming the tool has earned them.
 
 The honest limitations matter for how much weight to put on any of this. The platform was self-selected: users chose their interface rather than being assigned one, so interface and persona design are confounded with the reported imaginations. The analysis is of subjective descriptions only, so nothing here shows that a given imagination predicts usage frequency, behavioral dependence or long-term [[well-being]] outcomes — the authors say that linking imaginings to outcomes is future work. Cultural and linguistic context probably shapes both imagination and disclosure, so the themes need comparative replication before they can be applied to other regions, cultures or user groups without care. The sample over-represents South Africa and repeat ChatGPT users of one product, so the taxonomy should be read as a rich vocabulary of possibilities rather than a prevalence map, and the trait framework in particular may reflect the prompts and coding scheme as much as the population. Finally, there is a design gap the study names but cannot fill: how persona defaults, voice, naming conventions and styles of empathy shape expectations, and whether specific imagined roles predict measurable outcomes such as reliance, [[help-seeking]] behavior, loneliness, [[self-efficacy]] or social functioning. Until those questions are answered, the safe reading is that [[pedagogical-safety]] in the educational use of these tools must be pursued by design, not by trusting that users will imagine the system accurately.
+
+## What this means for practice
+
+- **Instructors.** Open any AI-in-support work by having students name what they imagine the tool to be before discussing what it does: 90 of the 270 respondents (33%) imagined it as a human character, 71 (26%) used anthropomorphic attributes and 40 (15%) called it omniscient.
+- **Instructors.** Build the limits into the deployment itself — visible uncertainty, refusals and explicit boundaries on what the tool will answer — because unlimited availability and fluent confidence are read as reliability and knowledge by users who imagine an omniscient entity, the habit [[trust-calibration]] exists to correct.
+- **Administrators.** Require escalation paths to humans in any student-facing support deployment, not content filtering alone: the affective cues that make these tools engaging produce a relational harm when a confidently reassuring reply meets a disclosure of distress.
+- **Designers.** Audit persona defaults, naming, voices and gendered imagery before launch, since participants' descriptions reproduced status-laden images ("an intelligent male who wears a suit and is highly educated") that interface choices can either repeat or interrupt.
+
+## Limitations
+
+- All 270 participants were recruited through Prolific and reported repeated use of ChatGPT for emotional support; 38% came from South Africa and 14% from the United Kingdom, and 52.2% identified as Christian, so the deified register that gives the paper its title may reflect this sample's composition rather than a general pattern.
+- Imaginations were elicited by one open-ended item ("What would ChatGPT be like in your imagination?", minimum 10 characters) inside a convergent parallel mixed-method survey, and only the qualitative strand is reported, so no usage log, outcome measure or follow-up links an imagined role to usage frequency, dependence or [[well-being|well-being]].
+- Platforms were self-selected rather than assigned by the researchers, so interface and persona design are confounded with the reported imaginations, as the authors state.
+- Of 334 respondents who completed the questionnaires, 64 failed a validity check, and the attribute framework was coded by two master's-level trainees under a licensed psychologist's supervision, so the taxonomy may reflect the prompt and coding scheme as much as participants' imagery.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Rubric-Guided Generative AI for Scalable Creativity Assessment in Educational Games"
 created: "2026-09-18T14:00:00-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 assessment: [assessment, automated-assessment, ai-feedback-quality, educational-measurement]
 pedagogy: [creativity, game-based-learning, project-based-learning]
@@ -51,6 +51,14 @@ Where the model diverged is equally clear. Agreement was weakest on title creati
 For assessment designers the transferable finding is that rubric-guided prompting, not model selection, produced the validity gain, and that the model's ceiling on any dimension is set by whether that dimension is visible in the supplied evidence. A [[multimodal]] pipeline is therefore a design requirement for visual-spatial artifacts, not an optimization. The reliability result — one call performing close to the average of three — matters for cost: repeated sampling is largely unnecessary, which keeps [[automated-assessment|automated scoring]] cheap enough to run over an entire cohort's worth of student work.
 
 The paper argues such raters can function as scalable, unobtrusive assessors that sit inside an authentic [[game-based-learning|game]] activity rather than interrupting it, and connects to the broader program of evaluating creative products with [[educational-nlp|language models]] where human raters would be prohibitively expensive. The caution is that a strong correlation is evidence for rank ordering, not for replacing the expert. Whether a model that ranks levels correctly should also be trusted to assign a grade, give [[feedback]], or feed a [[human-in-the-loop-ai|human-reviewed]] report is a separate question that agreement statistics do not settle, and the low correlations on solvability and title creativity show that the model's coverage of a rubric is always partial.
+
+## What this means for practice
+
+- **Assessment designers.** Give the rater the validated seven-dimension rubric instead of a bare instruction: agreement with averaged expert scores was r = .74 with the rubric and only r = .61 without it, with rubric text and output format held constant.
+- **Assessment designers.** Score visual-spatial artifacts with the image plus the structured level data, not structure alone, because dropping the image destroyed the model's grip on aesthetics and humor specifically.
+- **Assessment designers.** Run a single pass rather than three: one call matched the average of three independent runs (ρ = .74 vs .71; RMSE 1.9 vs 2.1), which keeps scoring a whole cohort affordable.
+- **Educators.** Reserve expert judgment for the dimensions the supplied evidence cannot carry — solvability (r = .24, .35 and −.01 across conditions) and title creativity (.35) — and treat model scores as a ranking and screening aid.
+- **Learning designers.** Keep a human decision on grades and [[feedback]]: this study established rank agreement only, with no score-level bias, calibration or absolute-error analysis.
 
 ## Limitations
 

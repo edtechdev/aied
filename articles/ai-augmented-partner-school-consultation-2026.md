@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence as an augmented partner in school consultation: Applications across the problem-solving process"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [problem-solving]
@@ -61,6 +61,21 @@ Two more constraints follow from accountability. Consultants should be trained n
 This is a conceptual article, not an outcome study. Its applications across the four PSC phases are proposals, and the paper states directly that empirical [[ai-ed-evaluation|evaluation of AI]] use in school consultation is still required; the supporting evidence it cites is drawn from adjacent fields (scoping reviews, applied behavior analysis) and from survey data about general AI use by school psychologists rather than from trials of AI-assisted consultation. Its sample prompts were developed and tested with two specific commercial models, so their performance is not a general claim about AI tools.
 
 The research agenda the authors set out doubles as the list of open questions: whether AI differentially affects problem identification, intervention planning, consultee learning, implementation fidelity or student outcomes across behavioral, [[well-being|mental health]] and organizational consultation models; whether AI-assisted consultation improves process variables (consultee engagement, efficiency of feedback, accuracy of data interpretation) or outcome variables (student behavioral and academic gains); and whether any effects persist longitudinally, since AI-assisted consultation could plausibly promote sustained fidelity and faster problem resolution but has not been shown to. The measurement gap is acknowledged too: constructs such as "AI-assisted fidelity monitoring" and "AI-mediated reflection" need operational definitions and validated instruments before the field can move past speculation. Finally, the framing, legal detail and professional standards are United States school psychology, and the authors themselves flag a declared conflict of interest — one author is a paid consultant to a test publisher on AI-assisted report writing — which readers should weigh alongside the low evidentiary base of what remains a practitioner-facing proposal.
+
+## What this means for practice
+
+- **Instructors.** Start with the lowest-risk augmentation — meeting and note-taking templates and data-collection instruments such as time-sampling spreadsheets that automatically calculate interval percentages — and keep AI output on questions of interpretation at the status of a hypothesis to be explored collaboratively with the consultee.
+- **Instructors.** Rehearse communication skills against AI-generated feedback before high-stakes conferences: the paper's evidence supports AI practice feedback on paraphrasing, clarifying questions, summarizing and reflective listening more firmly than it supports AI judgments about students.
+- **Administrators.** Adopt an AI consultation protocol before tools spread through the team — state which transcripts, progress-monitoring records and case notes may be submitted, name the data-sharing agreement covering each platform, and fix who signs off on interpretations.
+- **Administrators.** Fund professional learning in digital ethics and data interpretation rather than tool operation, because NASP Standards II.2.1 and II.2.3 keep school psychologists answerable for the accuracy of the documents they produce and the recommendations they endorse.
+- **Researchers.** Convert the four-phase applications into testable propositions: operationalize "AI-assisted fidelity monitoring" and "AI-mediated reflection" into validated instruments, and measure consultee engagement, data-interpretation accuracy and student outcomes instead of tool use.
+
+## Limitations
+
+- The article is conceptual rather than an outcome study: it collected no data on AI-assisted consultation, and its empirical anchors are two surveys of general AI use by school psychologists (199 in a 2024 national sample; 129 in an Ohio sample about a year later) rather than trials of the applications proposed.
+- The sample prompts in the appendix were developed and tested with two named models, ChatGPT and Gemini, so the worked examples do not license general claims about other tools; the authors note that responses are prompt-, context- and model-dependent.
+- The legal and professional framing is United States specific — NASP standards, FERPA, HIPAA and business associate agreements — so the data-sharing prescriptions need translation before they apply in other jurisdictions, which the authors flag without supplying.
+- One author (Lockwood) declares a paid consulting relationship with PAR, Inc. on AI-assisted psychological report writing, a commercial interest to weigh against a proposal whose evidentiary base is adjacent-field reviews and survey data.
 
 ## Connected Concepts
 

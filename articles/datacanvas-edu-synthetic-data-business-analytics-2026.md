@@ -1,7 +1,7 @@
 ---
 title: "DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [llm, generative-ai]
 assessment: [assessment, authentic-assessment]
@@ -33,6 +33,20 @@ Preparing a data-analytics case traditionally consumes instructor time on patter
 ## Why synthetic data needs its own validity argument
 
 A generated dataset can look realistic while failing to instantiate the pattern the case teaches, and can drift away from the distributions students will meet in practice. The Verify phase is the authors' answer, and it connects this work to the wider [[assessment-validity]] and [[benchmark]] questions that surround any AI-produced instructional material. It also raises the same [[hallucination-risk|reliability]] concerns that apply to other [[generative-ai|generative]] content pipelines — here, an incorrect generated pattern propagates into both the case and its rubric.
+
+## What this means for practice
+
+- **Instructors.** State teaching goals and intended patterns conversationally, then review the agent's generation code and verification results before the case reaches students, so the [[learning-design|design decision]] stays with you.
+- **Instructors.** Distribute only the student materials and run reference analyses in a separate AI session, since a model that has already seen the case's solution has consumed the investigation you want students to perform.
+- **Instructional designers.** Produce the rubric and reference solution as first-class outputs of the same pipeline that generates the data, so every case arrives with its grading apparatus attached.
+- **Instructional designers.** Verify generated data against the intended patterns before packaging, and rerun the reference analysis whenever a pattern is strengthened - the authors' own consistency check found the verification program testing only Monday and Tuesday for the office-lunch rule while the generator and reference plot used all weekdays.
+
+## Limitations
+
+- The framework is illustrated with a single WindowDash food-delivery case (15,000 orders, nine designed patterns) and evaluated on no students; no preparation-time, revision-effort or material-quality data is reported, and the authors list those as future studies.
+- Validity of the synthetic distributions against real business data is untested, and the authors warn that generation and verification may share the same mistaken assumption, so an incorrect pattern can propagate into both the case and its rubric.
+- One of the nine designed patterns, price-rating sensitivity for slow orders, rests on three observations above $100 and longer than 45 minutes; the authors concede these "provide limited support" and require the reference explanation to state that limitation alongside the finding.
+- The [[agentic-ai|agentic]] pipeline depends on an external agent environment (it ships as an AI Agent Skill), and generation quality is bound to the model and the code the agent writes, which the paper does not benchmark.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "The Influence of Generative AI Usage Styles on Creative Self-Beliefs: Findings from a Longitudinal Study in Design Education"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [design-thinking, human-ai-collaboration, learner-identity]
 pedagogy: [creativity, self-efficacy, student-engagement]
@@ -54,11 +54,17 @@ The authors read the attitude results as the interpretive key. Students endorsed
 
 The causal caution is explicit. The style–CSE associations rest on 6 to 11 students per category, the study is one course and roughly eleven weeks, and the design cannot separate the effect of a style from the disposition of students who choose it. Their preferred framing is that AI functions as a supportive element under specific relational conditions rather than a cause of change, and that CPI is simply less malleable in the short term, consistent with earlier longitudinal work showing CSE and CPI change slowly and reciprocally.
 
-## Implications for design educators, and the study's limits
-
+## What this means for practice
 For design teaching the practical message is that banning, requiring and permitting AI are all weaker levers than shaping what students do with it. If feedback requests and meaning summarization are the styles associated with gains, then a course can teach them deliberately: have students put their own draft in front of AI and ask what it undermines, and have them restate and re-interpret their material, instead of treating AI as a faster search box or an idea vending machine. The paper also implies that [[learner-identity]] work, helping students see themselves as the author of the idea, belongs in AI integration alongside tool training, and that students who opt out for reasons of creative ownership are a signal worth listening to rather than a compliance problem.
 
 The limits are set out by the authors and should constrain how far the numbers travel. Everything is self-report, measured with eight Likert items asked four times; attrition cut the sample by nearly half; the setting is a single design course in one institution, with real but limited transfer to other disciplines and levels; the per-style subgroups are small and the analyses are exploratory; the window is too short for the human–AI relationship to have stabilized; and the whole design is correlational, so no result licenses a causal claim about AI and [[creativity]]. The authors' own forward agenda is longer [[research-methods-aied|longitudinal work]] that adds perceived control and sense of agency over AI, and the wider caution for the field, captured in [[limitations-in-aied-research|work on AIED limitations]], is that output quality and self-perception are not interchangeable outcomes.
+
+## Limitations
+
+- Attrition is structural: 120 third-year students took the course but only the 64 who completed all four questionnaires entered the analysis, so the picture is the committed half of one cohort, split at T3 into an optional-use group (n = 30) and a non-use group (n = 34).
+- Every measure is self-report, collected as eight 7-point Likert items (three for CSE, five for CPI) plus a three-item attitudes scale, administered four times across a single design course at Chiba Institute of Technology between October and December 2023.
+- The style–CSE associations rest on very small subgroups — 6 to 11 students per usage category (requesting feedback n = 11, summarizing meaning n = 6) — and the per-style analyses are exploratory rather than confirmatory.
+- The design is correlational and the window is about eleven weeks, so it cannot separate the effect of a usage style from the disposition of the students who chose it; the authors themselves frame AI as a supportive element under specific relational conditions rather than as a cause of change.
 
 ## Connected Concepts
 

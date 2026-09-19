@@ -1,7 +1,7 @@
 ---
 title: "GenAI assessment and language equity: Drawing the line between support and substitution"
 created: "2026-09-18T04:45:00-04:00"
-updated: "2026-09-18T09:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, framing-ai-use-for-students]
 pedagogy: [student-ai-interaction]
@@ -58,6 +58,20 @@ Implementation rests on design levers rather than on [[ai-detection|detection]]:
 ## Scope, limits, and the research agenda
 
 Li is explicit that the analysis is not empirical: it does not measure student behavior or policy comprehension, and makes no claims about rates of GenAI use by EAL students. It uses [[educational-policy-ai|Australian regulator and sector guidance]], principally from the Tertiary Education Quality and Standards Agency (TEQSA, 2023, 2024, 2025) and Universities Australia (2017), as illustrative reference points, and adopts a doctrinal and normative method rather than a jurisdictional survey. The framework is offered as testable rather than final, with three tractable avenues: comparative policy work on whether a purpose-based support-substitution boundary is associated with different referral rates, sanction patterns, and student comprehension across EAL and non-EAL cohorts; marker-calibration studies measuring inter-rater reliability when decision-makers apply the Box 1 quick tests and Box 3 rubric; and validity-argument case studies documenting whether institutional reasoning from student work to integrity finding survives appeal and review. The manuscript's own declaration records that ChatGPT and Copilot were used for language editing and to test alternative outlines, with the author retaining responsibility for arguments and sources.
+
+## What this means for practice
+
+- **Administrators.** Replace blanket GenAI prohibitions with a purpose-based boundary: permit surface-level language support such as grammar, punctuation and sentence-level clarity edits and translation for comprehension, and prohibit interventions that create or materially reshape the intellectual work being assessed.
+- **Administrators.** Publish the quick test with the task, not after a dispute: no new ideas, no new sources, no material re-ordering of analysis. Shared criteria are what let two markers characterize the same conduct alike, and notice is what makes the rule defensible when a finding is challenged.
+- **Designers.** Calibrate [[ai-use-disclosure|disclosure]] to the function instead of demanding exhaustive statements: nothing for embedded low-risk functions such as spellcheck, a one-line statement for external language editing, and an 80–120 word process note only where limited ideation or drafting assistance was expressly permitted.
+- **Designers.** Make reasoning observable in the task rather than relying on [[ai-detection|detection]]. Stage submissions across proposal, outline, annotated bibliography, draft and final, and add a short oral or in-class verification component that tests judgment on two or three substantive choices.
+- **Policymakers.** Monitor referral and sanction patterns by language background. Rule text that treats editing as one undifferentiated category concentrates suspicion where surface fluency shifts, so cohort-level monitoring is the governance check on whether the boundary is distributing burdens fairly.
+
+## Limitations
+
+- The article is doctrinal and normative rather than empirical: it measures neither student behavior nor policy comprehension, and it makes no claims about rates of GenAI use among EAL students.
+- The policy grounding is Australian and illustrative. TEQSA guidance from 2023 to 2025 and Universities Australia (2017) supply the reference points, with no jurisdictional survey behind them, so transfer of the framework to other national regimes is untested.
+- No reliability evidence exists for the framework's own instruments: the Box 1 quick tests and Box 3 decision rubric were not trialed with markers, leaving the paper's expectation that two markers characterize the same conduct alike, and its three proposed follow-up studies, untested.
 
 ## Connected Concepts
 

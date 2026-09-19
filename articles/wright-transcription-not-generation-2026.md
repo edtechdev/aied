@@ -1,7 +1,7 @@
 ---
 title: "Transcription is not generation: Distinguishing non-generative AI tool use from academic misconduct in higher education assessment"
 created: "2026-09-18T04:13:24-04:00"
-updated: "2026-09-18T04:13:24-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, framing-ai-use-for-students]
 pedagogy: [cognitive-psychology, desirable-difficulties]
@@ -52,8 +52,7 @@ Imprecise policies, weak detectors and subjective style judgments together produ
 
 The accessibility case runs alongside it. Students with conditions affecting fine motor control, handwriting legibility or typing accuracy, including [[neurodiversity|autism]] spectrum conditions, dyspraxia, cerebral palsy and repetitive strain injuries, have relied on voice-to-text and standalone OCR, and reports suggest the discontinuation or degradation of several standalone voice-to-text products has left some without their primary tool, with AI-powered OCR filling the gap. Treating that replacement as misconduct raises fairness concerns under the reasonable adjustment duty in sections 20 to 21 of the UK Equality Act 2010, the anticipatory Public Sector Equality Duty, the US Americans with Disabilities Act and the Australian Disability Discrimination Act 1992, though the paper does not claim the characterization has been tested in any tribunal.
 
-## What the paper recommends
-
+## What this means for practice
 The recommendations are normative proposals, not tested interventions, and each follows from an earlier step in the argument.
 
 1. Define "generative AI use" by reference to function, not platform identity, so non-generative use is not captured by definitional accident.
