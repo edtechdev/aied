@@ -1,7 +1,7 @@
 ---
 title: "How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi"
 created: "2026-09-02T04:30:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
@@ -36,12 +36,20 @@ institutions: [educational-policy-ai, governance, regulation]
 - **Framing shifted from integrity to learning.** Academic-integrity mentions fell from 63% (Spring 2023) to 49% (Fall 2025); references to AI's impact on learning rose from 1% to 29%; attribution requirements rose from 16% to 43%.
 - **Disciplinary variation is pronounced.** Humanities remained most restrictive; Business moved most rapidly toward permissive policies and new AI-based tasks. Larger pre-AI task bundles predict differentiated policies (each additional task → +1.3 pp).
 
-## Implications
+## What this means for practice
 
-- **For instructors:** A task-level lens offers a useful framework for AI policy design — distinguishing tasks facing displacement risk (where AI should be restricted) from those offering augmentation potential (where AI can be permitted or encouraged), rather than adopting blanket rules.
-- **For institutions:** The substantial disciplinary and task variation argues for flexible policy frameworks that accommodate disciplinary differences and grant instructors autonomy within their domains, rather than one-size-fits-all mandates.
-- **For labor markets:** The framework highlights a potential **[[feedback|feedback loop]]** — if AI displaces skill-building tasks, students may graduate with weaker skills precisely where AI is strongest, further shifting comparative advantage toward AI and accelerating automation. Reinstating new learning tasks may be essential to maintaining human comparative advantage.
-- **For research:** Studies should measure task-level AI use rather than aggregate use — the distinction between displacement and augmentation is central to understanding AI's effects on learning, and reconciling apparently contradictory findings of skill gains vs. erosion.
+- **Instructors.** Regulate by task instead of by blanket rule: restrict AI where [[cognitive-offloading|displacement]] threatens essential practice — in Fall 2025 instructors most commonly restricted drafting/revising (79%) and reasoning (65%) — and permit or encourage it where augmentation potential is real, as with editing (83%), study support (80%), and coding (75%).
+- **Instructors.** Put the policy in the syllabus and name the specific tasks, since this study can only observe what is written down: with regulation reaching just 55% of courses, undocumented verbal or LMS-based rules leave policy invisible.
+- **Administrators.** Grant instructors autonomy within disciplinary norms rather than issuing one-size-fits-all mandates: adoption of AI-integrated assignments ranged from 27% in Business to 5% in the humanities.
+- **Policymakers.** Fund reinstatement, not only restriction. If AI continues to displace skill-building tasks, students graduate weakest where AI is strongest, so support new AI-based learning tasks (prompting exercises, output-verification activities) that maintain human comparative advantage.
+- **Researchers.** Test whether instructor judgments about displacement and augmentation align with actual learning effects; the framework predicts instructor responses but does not yet show that those responses protect skill formation.
+
+## Limitations
+
+- Syllabi capture stated policies, not classroom enforcement or student compliance, and some instructors regulate AI through verbal instructions or assignment prompts, so the analysis likely underestimates total regulation.
+- The study cannot observe actual student AI use or learning outcomes: whether task-level restrictions protect skill formation remains untested, and students may use AI regardless of stated policies.
+- All syllabi come from a single large selective public research university in Texas (31,000+ syllabi, 2021–2025); the author calls for replication at community colleges, elite private universities, and international settings, since other contexts may show different patterns.
+- The computational classification reached 96% agreement with human coding but not every expanded classification dimension received full human validation, classifications require judgment where policies fall ambiguously between categories, and model updates can classify identical content differently, complicating exact replication.
 
 ## Connected Concepts
 

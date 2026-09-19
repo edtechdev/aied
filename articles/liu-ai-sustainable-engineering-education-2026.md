@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Sustainability Consciousness in Higher Education: Impacts of Artificial Intelligence-Integrated Sustainable Engineering Education"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-08-28T14:30:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design]
 technology: [personalized-learning]
@@ -25,6 +25,21 @@ ethics: [sustainability]
 
 ## Relevance
 This is a concrete, empirical illustration of **AI for sustainability** in the knowledge base's [[sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
+
+## What this means for practice
+
+- **Curriculum designers.** Integrate AI across the engineering curriculum on all four AI-SEE pillars — intelligence-driven, green-empowered, responsibility-leading, and practice-integrated — rather than adding it as a sustainability module.
+- **Instructors.** Anchor sustainability tasks in authentic stakeholder decision-making, the practice-integrated pillar the study associates with the pilot group's behavioral engagement across personal, academic, professional, and social levels.
+- **Instructors.** Require students to communicate sustainability reasoning beyond the classroom: study participants acted as communicators within families and peer networks, evidence of social diffusion the framework treats as part of the outcome.
+- **Curriculum designers.** Repair the fragmentation problem directly by connecting sustainability content to real engineering decisions; the control group acquired sustainability knowledge mainly through disconnected coursework.
+- **Researchers.** Measure sustainability consciousness with triangulated outcomes — surveys, [[learning-analytics|learning analytics]], or behavioral indicators — rather than self-reported accounts collected at graduation.
+
+## Limitations
+
+- Single-institution, single-discipline qualitative case: 144 transportation engineering undergraduates (pilot n = 74, control n = 70) from one application-oriented university in China, so generalization across disciplines, institution types, or cultures is cautioned.
+- Data are primarily self-reported semi-structured interviews collected at a single time point at the end of the eighth semester, subject to recall bias and social desirability effects.
+- No multiple informants — instructors, curriculum designers, and workplace supervisors were not interviewed — so findings reflect students' subjective perceptions rather than triangulated learning outcomes.
+- No longitudinal follow-up, so the study cannot show whether the reported changes in sustainability knowledge, attitudes, and behavior persist into professional practice.
 
 ## Connected Concepts
 - [[sustainability]]

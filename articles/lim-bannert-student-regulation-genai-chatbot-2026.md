@@ -1,7 +1,7 @@
 ---
 title: "How Do Students Regulate Their Learning With a GenAI Chatbot?"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -23,10 +23,19 @@ audience: [instructional designers, educators]
 - **Low planning and monitoring.** Both chatbot users and non-users engaged in almost no planning and monitoring; the chatbot potentially replaced reading, a core activity for building an initial knowledge base.
 - **Production deficit.** Students possessed sufficient SRL knowledge and skills but failed to spontaneously engage in [[regulation]] during learning.
 
-## Implications
+## What this means for practice
 
-- **Embed SRL [[scaffolding|scaffolds]] in genAI tools.** When chatbot queries indicate potential offloading (e.g., extracting main points without reading), students should first be prompted to reflect on their reading and comprehension as a monitoring scaffold.
-- **Align technology with educational fit.** GenAI support should foster learning and not just efficiency in task completion; [[learning-design|instructional design]] must guide meaningful, not shortcut, use.
+- **Instructional designers.** Build monitoring prompts into the tool: when a query signals offloading — "summarize the paragraph into 3 sentences" or "extract only the main ideas" — require the student to reflect on their own reading and comprehension first.
+- **Instructional designers.** Configure the assistant for educational fit rather than task efficiency, as this study did with constraints such as not writing the essay, keeping responses succinct, and grounding suggestions in the provided texts.
+- **Instructors.** Do not treat higher essay scores as evidence of learning: chatbot users outscored non-users on the essay while their queries showed comprehension and synthesis being outsourced, and both groups did almost no planning or monitoring.
+- **Educators.** Make reading visible and assessed, because longer chatbot use and high-cognition interaction correlated negatively with reading time — the activity that builds the knowledge base students then synthesize.
+
+## Limitations
+
+- Thirty students from a single university seminar on social science research methods (M age = 25.70, SD = 2.88) completed one 45-minute reading-and-essay task, so the findings are exploratory and tied to that setting.
+- Chatbot use was voluntary rather than assigned, making the comparison between users (73%) and non-users self-selected rather than randomized.
+- SRL was inferred from trace-based event analysis and coded chatbot query logs, not from direct measurement of students' planning, monitoring, or strategy use.
+- All participants reported prior experience with genAI tools, so the sample does not represent novice users, who may offload differently or less skillfully.
 
 ## Connected Concepts
 

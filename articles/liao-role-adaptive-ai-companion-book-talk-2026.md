@@ -1,7 +1,7 @@
 ---
 title: "Beyond a single role: Justifying a role-adaptive framework for AI companions through a comparative study in elementary book talk"
 created: "2026-09-02T09:45:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [human-ai-collaboration]
 technology: [conversational-ai, generative-ai, pedagogical-agent]
@@ -32,11 +32,19 @@ confidence: high
 - **An "affective ceiling" for fixed-role AI.** The AI was proficient at factual recall — for Grade 5 it elicited significantly more "Facts" utterances (t(6)=2.76, p=.033). But the teacher prompted significantly more "Feelings" reflection across both grades (most pronounced Grade 5: t(6)=−6.54, p<.001) and, for Grade 4, more "Findings" and "Future" talk.
 - **Students want both.** Qualitatively, students valued the AI as a low-pressure practice partner but preferred the teacher for richer, deeper discussion — supporting the framework's complementary (not replacement) vision.
 
-## Practical implications
+## What this means for practice
 
-- **Move beyond persona-assigning to behavioral adaptation.** Simply labeling an agent a "peer" is insufficient — it produced "expert dominance in a peer-role shell." Design must include adaptive interaction logic: intentional silence, variable prompting density, mechanisms to foster student-initiated talk.
-- **Adopt modular, multi-stakeholder roles.** The framework decomposes support into Student Peer (low-stakes practice), Teacher Assistant (alerting educators to interaction patterns), and Parent Advisor (extending reflection to home) — supported by differentiated dashboards and privacy-aware data flows.
-- **For instructors:** strategically delegate factual comprehension checks and [[scaffolding]] to AI, freeing human expertise for deep affective and future-oriented reflection where it is most valuable.
+- **Instructors.** Delegate factual comprehension checks and [[scaffolding]] to AI, and reserve human time for the emotional and future-oriented reflection the fixed-role AI could not elicit: the teacher prompted significantly more "Feelings" talk across both grades.
+- **Instructors.** Design for student talk rather than session length — AI sessions ran longer while students contributed a significantly lower proportion of words and sentences — by building in intentional silence and varying prompting density to force student-initiated contributions.
+- **Designers.** Stop treating a role label as a design. A "[[pedagogical-agent|student peer]]" persona produced expert dominance in a peer shell, so specify the adaptive interaction logic that modulates turn-taking and floor-sharing, not just the persona.
+- **Designers.** Decompose companion support into modular roles — Student Peer for low-stakes practice, Teacher Assistant for diagnostic analytics, Parent Advisor for home-based guidance — with differentiated dashboards and privacy-aware data flows.
+- **Researchers.** Test the three-role architecture once it is implemented: only the single-role peer has been evaluated empirically, and the framework's core mechanisms (real-time affective sensing, autonomous role transitions) remain unbuilt.
+
+## Limitations
+
+- The empirical study is formative with N = 19 elementary students (12 Grade 4, 7 Grade 5) at one experimental school in Taoyuan, Taiwan; the authors state generalizability to broader and more diverse cultural and educational contexts requires further investigation.
+- The within-subjects comparison is against each student's regular homeroom teacher rather than an active control condition, so the identified "competence gap" serves as a design rationale rather than a definitive measure of AI versus human efficacy.
+- The Role-Adaptive AI Companion Framework itself remains conceptual and architectural: full implementation of the three-role system is pending, with accurate real-time sensing of user affective states and seamless role transitions inside a single agent still unsolved.
 
 ## Connected Concepts
 

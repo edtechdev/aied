@@ -1,7 +1,7 @@
 ---
 title: "Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, multimodal]
@@ -25,10 +25,20 @@ methods: [meta-analysis-systematic-review]
 - Most studies relied on image audits and qualitative methods, with few experimental or intervention-based designs.
 - The review is the first to synthesize how educational [[research-methods-aied|research]] conceptualizes, measures, and responds to bias in text-to-image tools' outputs.
 
-## Implications for AI in Education
+## What this means for practice
 
-The review reveals significant blind spots in how educational research addresses [[bias-mitigation|bias]] in [[generative-ai|text-to-image]] tools and highlights directions for research, design, and policy aimed at aligning generative AI with educational [[inclusive-learning|inclusion]] and [[ai-literacy|critical AI literacy]]. For educators, the finding that text-to-image outputs systematically center dominant identities has direct implications for [[equity-in-ai-education|equity]] in [[curriculum-design|curriculum]] materials, visual learning, and student-created content. The scarcity of intervention-based designs points to a need for more experimental research on mitigation strategies. The review connects to [[multimodal]] learning, [[equity-in-ai-education]], and [[ai-literacy]] research.
+- **Designers.** Build guided critique into every [[multimodal|text-to-image]] activity — comparison against authoritative sources, identifying where an image functions as evidence versus illustration, and reflective discussion — because learners without scaffolding treated generated images as realistic depictions.
+- **Designers.** Treat age, body, and (dis)ability as first-class representation targets: they were the least examined dimensions across the 31 reviewed studies and consistently underrepresented in outputs.
+- **Researchers.** Move from image audits to intervention-based designs with comparable tasks, prompts, and evaluation criteria, since few experimental or intervention studies exist and developmental comparisons remain unsupported.
+- **Researchers.** Report prompts, tool settings, sampling procedures, and model versions in every audit, and favor longitudinal or repeated-prompt designs, because model updates make documented outputs non-reproducible.
+- **Policymakers.** Require prompt and version provenance in guidance and procurement for classroom text-to-image tools, and fund non-Western, non-English evidence to close the geographic and epistemic blind spot identified in the review.
 
+## Limitations
+
+- The review included only English-language publications across 31 studies from 2023 to 2025, which the authors state constrained geographic and epistemic scope, limiting coverage of non-Western contexts and locally grounded analyses of cultural and religious representation.
+- Tool instability undermines reproducibility: providers update architectures, training data, and safety filters, and many platforms offer no transparent versioning, so specific outputs documented in the reviewed studies may not be reproducible.
+- The attention distribution across the six-part framework is uneven, and few studies directly compare age groups using comparable tasks, prompts, and evaluation criteria, so no firm conclusions about developmental differences are supported.
+- Bias-theme tallies count mentions rather than unique studies, and the coding categories are not mutually exclusive, so the year, design, and tool breakdowns describe emphasis within the corpus rather than independent evidence.
 ## Connected Concepts
 - [[bias-mitigation]]
 - [[equity-in-ai-education]]

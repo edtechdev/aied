@@ -1,7 +1,7 @@
 ---
 title: "Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education"
 created: "2026-08-28T09:05:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, cognitive-offloading, teacher-role, theory-development-aied]
 pedagogy: [self-regulated-learning]
@@ -43,9 +43,24 @@ The framework treats co-agency as the relationship between three interdependent,
 
 The **ethical boundary condition** constrains all three dimensions through three requirements: (1) **contestability** — learners and teachers must be able to question and cross-check AI output, requiring some degree of explainability; (2) **provenance** — institutions should describe the sources of training data and how they introduce bias; and (3) **non-delegation of moral and intellectual credit** — decisions about student welfare, academic standing, and high-stakes judgments must not be determined solely by GenAI.
 
-## Implications for assessment and policy
+## Redesigning assessment and governance
 
 The framework's concrete implications reshape both practice and governance. In [[assessment]], instructors move from evaluating a completed essay as a product toward evaluating the "decision trail" visible throughout the writing process — which tasks were delegated, how suggestions were accepted, modified, or rejected. In institutional procurement, transparency requirements turn purchasing into an exercise of epistemological governance, a demand that is particularly difficult for low-income districts already facing a [[digital-divide|digital divide]] and uneven [[ai-literacy|AI literacy]], so GenAI may widen the gaps it intends to close. For policymakers, the framework translates vague principles of transparency, [[bias-mitigation|fairness]], and oversight into specific questions about division of labor, placement of GenAI in the learning cycle, institutional investment in teachers, and whether learners are permitted to challenge AI outputs — connecting to [[equity-in-ai-education]], [[governance]], and the philosophy of [[ethics|ethical]] AI design.
+
+## What this means for practice
+
+- **Instructors.** Grade the decision trail rather than the finished product — which tasks were delegated to GenAI and how suggestions were accepted, modified, or rejected — so that the locus of authorship stays visible in the [[assessment]].
+- **Instructors.** Choose deliberately where GenAI enters the [[self-regulated-learning|SRL cycle]]: the point of entry during forethought, performance, or reflection determines whether the tool amplifies or erodes the learner's sense of control.
+- **Faculty developers.** Read the observer-to-innovator continuum as a development path rather than a ranking of teachers, and budget time and training for the invisible labor of reviewing, editing, and rewriting AI-generated materials.
+- **Administrators.** Turn procurement into epistemological governance by requiring vendors to describe training-data sources and how they introduce bias before adoption, and keep decisions about student welfare and academic standing out of machine-only decision paths.
+- **Researchers.** Take up the framework's measurable claims, since the authors state that no empirical evidence yet links its three dimensions to student achievement or perceived autonomy.
+
+## Limitations
+
+- This is a theoretical paper: the authors state there is still no empirical evidence on whether the Ecological Co-Agency Framework improves student achievement, equity among students, or the time teachers spend on their jobs.
+- The literature review was a targeted rather than systematic search, so the authors acknowledge they may have missed articles written in other languages, in regional journals, or in related fields.
+- The framework sets conditions without resolving the tensions it identifies: the authors state it does not reconcile the pedagogical utility of AI with the problems raised throughout the paper, and offers a basis for deliberation rather than a tested remedy.
+- Its equity claims are argued rather than measured — the potentially inequitable impacts for under-resourced institutions are named as a hypothesis the authors propose testing comparatively across socio-economic contexts.
 
 ## Connected Concepts
 

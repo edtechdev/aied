@@ -1,7 +1,7 @@
 ---
 title: "Who grades best? Comparing ChatGPT, peer, and instructor evaluations across varying levels of student project quality"
 created: "2026-09-01T10:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [conversational-ai, generative-ai]
 assessment: [assessment, automated-assessment]
@@ -36,10 +36,20 @@ confidence: high
 - **Students see a grade–feedback disconnect in ChatGPT.** 31% of students noted ChatGPT often gave high scores alongside many critical comments — a perceived inconsistency between score and feedback that peers did not show.
 - **Two contrasting evaluative logics:** Students distinguished ChatGPT's neutral, rule-based, rubric-driven scoring from peers' holistic, context- and relationship-aware judgment, and valued ChatGPT's **dialogic interactivity** (revising prompts, clarifying intent) against peers' static, anonymous, non-negotiable reviews.
 
-## Implications
+## What this means for practice
 
-- **Caution for [[summative-assessment|summative]] use:** ChatGPT's grade inflation — especially for low-quality work — poses a validity threat as a standalone summative grader, potentially misleading students about the adequacy of their work. It is better suited to **[[formative-assessment|formative]]** contexts where detailed, low-stakes feedback supports iteration.
-- **Adaptive, multi-source assessment:** The complementary strengths (peers catching fundamental issues in early-stage work; ChatGPT giving structured technical feedback on advanced work) argue for combining sources rather than choosing one, with training in both peer-assessment techniques and [[prompt-engineering|prompt engineering]].
+- **Instructors.** Do not use ChatGPT as a standalone summative grader: it overestimated low-quality projects by 14.20 points on average, and 85% of students read its grades as more generous than peers' grades.
+- **Instructors.** Reserve ChatGPT for formative use where detailed feedback supports iteration, and check for the grade–feedback disconnect that 31% of students reported between high scores and critical comments.
+- **Learning designers.** Combine evaluation sources rather than choosing one: peers caught fundamental issues in lower-quality work (r = 0.51 with the instructor in the low tier) while ChatGPT's alignment rose with project quality.
+- **Learning designers.** Train students in both peer-assessment technique and [[prompt-engineering|prompt engineering]] so they can use ChatGPT's dialogic interactivity while keeping peers' contextual judgment.
+- **Researchers.** Analyze grading agreement within quality tiers, because pooled correlations hide the opposite quality gradients for ChatGPT and peers.
+
+## Limitations
+
+- The study ran in a single mandatory undergraduate research-methods course at one institution (184 students working in 52 self-organized groups), so generalizability across disciplines, institutions, and educational levels is untested.
+- Continuous instructor grades were discretized into three quality tiers using the 33rd and 67th percentiles, which reduces granularity and can produce edge effects at the thresholds.
+- ChatGPT graded through one fixed configuration — an initial structured prompt plus six criterion-specific prompts matched to a standardized six-criteria rubric — so the findings describe that configuration rather than ChatGPT grading in general.
+- The study tracked neither learning outcomes nor effects over time, so whether exposure to multiple evaluation sources improves students' evaluative judgment or their later work remains unknown.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "How High-School Pressure and Autonomy Support Are Linked to Dual AI Learning Pathways: A Cross-Contextual SEM Analysis"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/dual-ai-learning-pathways-sdt-2026.md"]
 pedagogy: [self-determination-theory]
@@ -23,12 +23,20 @@ methods: [quantitative-research]
 - Findings are **consistent across cross-contextual groups** (China vs. non-China high-school backgrounds; China vs. Thailand university contexts), supporting the framework's generalizability.
 - The results link SDT-based motivational processes and behavioral mechanisms (Hook-model engagement) to perceived quality of AI-supported learning.
 
-## Implications for Practice
+## What this means for practice
 
-- **For schools:** Autonomy-supportive learning climates may steer students toward constructive GenAI use, while pressure-laden environments may foster dependence.
-- **For [[higher-ed|higher education]]:** Understanding students' prior learning climate helps explain and respond to differential GenAI use patterns.
-- **For [[research-methods-aied|researchers]]:** The dual-pathway model integrates SDT and behavioral engagement (Hook model) to explain both productive and problematic AI use.
+- **Instructors.** Build autonomy-supportive conditions into GenAI tasks — meaningful choice, clear rationale, and low-pressure goals — because a pressure-laden high-school climate tracked with controlled motivation and compulsive AI use, while autonomy support tracked with adaptive use.
+- **Instructors.** Support [[self-determination-theory|autonomous motivation]] and planned trigger readiness explicitly, since these are the motivational and behavioral links that connect autonomy support to adaptive [[generative-ai|GenAI]] use.
+- **Administrators.** Treat incoming students' prior learning climate as intake information: it helps explain why GenAI use patterns diverge and where dependence risk is concentrated.
+- **Administrators.** Monitor compulsive dependence as a distinct outcome from constructive use, with its own antecedents, rather than treating all GenAI use as one behavior.
+- **Researchers.** Test the dual-pathway model — SDT-based motivational processes plus Hook-model engagement — as a joint explanation of productive and problematic AI use rather than studying either pathway alone.
 
+## Limitations
+
+- The evidence is cross-sectional survey data from 508 university students in China- and Thailand-linked contexts (China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), so the SEM associations cannot establish that high-school climate causes later use pathways.
+- High-school learning climate was measured through retrospective reports from university students rather than observed or concurrent measures.
+- Outcomes such as perceived AI-supported learning quality, [[well-being|well-being]], and academic performance are self-reported perceptions rather than objective records of use or attainment.
+- Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
 ## Connected Concepts
 
 - [[self-determination-theory]]

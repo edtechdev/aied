@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Hype: How Higher Education Stakeholders View the Benefits and Concerns of Generative AI for Teaching, Research, and Administration"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [educational-development]
 technology: [generative-ai]
@@ -25,10 +25,20 @@ institutions: [educational-policy-ai, governance]
 - Threats included destabilization of educational norms, ethical issues around data privacy and copyright, and organizational challenges such as workforce adaptation.
 - Stakeholders requested clear institutional guidelines, targeted professional development, and allocation of time and resources for responsible adoption.
 
-## Implications for AI in Education
+## What this means for practice
 
-By mapping diverse stakeholder perceptions to a Balanced Scorecard framework, the study bridges what personnel see in [[generative-ai|GenAI]] with actionable institutional strategy. The balanced treatment of strengths and threats supports institutions in developing governance that captures benefits while mitigating risks around accuracy, transparency, and ethics. It informs [[governance]], [[educational-policy-ai|AI policy]], and [[educational-development|professional development]] for [[higher-ed]] as institutions move beyond hype toward responsible integration.
+- **Administrators.** Convert the SWOT themes into a Balanced Scorecard with student, internal-business, innovation-and-learning, and financial perspectives, rather than debating strengths and threats as separate topics.
+- **Administrators.** Fund the three things stakeholders actually asked for — clear institutional guidelines, targeted professional development, and dedicated time and resources — instead of running ad hoc tool rollouts.
+- **Instructors.** Pair GenAI adoption with explicit verification routines for the weaknesses stakeholders named most often: hallucinations and made-up references, opaque "black box" behavior, and user dependency.
+- **Instructors.** Teach around the organizational threats as well as the tool: workforce adaptation and destabilized educational norms were cited alongside data privacy and copyright, so software training alone is insufficient.
+- **Researchers.** Reuse the SWOT-to-Balanced-Scorecard mapping as a template for multi-stakeholder perception studies, since it bridges what personnel observe about [[generative-ai|GenAI]] with actionable institutional strategy.
 
+## Limitations
+
+- The analysis rests on 167 Padlet contributions from 152 higher-education personnel at two Swedish universities, and the authors state the findings are context-specific insights rather than a globally representative picture.
+- Fully anonymous Padlet collection prevented follow-up questions and made stakeholder roles unidentifiable, so the study could not test whether teachers, researchers, and administrators hold different views, as planned.
+- Padlet participation was not mandatory and attendance dropped part way through the webinars, so staff who left or declined to post are absent from the data.
+- The Balanced Scorecard is conceptual and built from qualitative SWOT themes rather than validated indicators; reliability coefficients, subgroup contrasts, and content-validity checks were not feasible with anonymous qualitative data.
 ## Connected Concepts
 - [[stakeholders]]
 - [[generative-ai]]

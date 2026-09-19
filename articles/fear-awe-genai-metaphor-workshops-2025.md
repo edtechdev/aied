@@ -1,7 +1,7 @@
 ---
 title: "Fear and Awe: Making Sense of Generative AI Through Metaphor"
 created: "2026-08-26T05:58:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -25,9 +25,19 @@ confidence: high
 - **Cognitive offloading via tool metaphors is seductive but unsettling.** Framing GenAI as a neutral "tool" (hammer, calculator) emphasizes utility and control while downplaying its embedded values and biases — and participants were uneasy about offloading tasks requiring [[human-in-the-loop-ai|human judgment]] and [[creativity]].
 - **The workshop itself was a validated sensemaking method.** Grounded in material, [[collaborative-learning|collaborative]], no-tech activities (sticky notes, a "gallery" of metaphors), the workshops helped participants surface assumptions, connect across roles and cultures, feel "not alone," and think about the [[ethics]] of GenAI — without requiring technical expertise.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper positions metaphor workshops as a practical, low-barrier tool for critical [[ai-literacy]] and institutional dialogue. For practice, a learning designer could use metaphor analysis to surface a teaching team's assumptions about GenAI before redesigning [[assessment]]; for students, metaphor workshops enable meaningful conversation about GenAI use. At the institutional level, the authors argue for moving beyond binary "permit or prohibit" GenAI policies toward frameworks that acknowledge both opportunities (augmenting-device metaphors) and risks (black-box concerns), and for [[educational-development|professional development]] that directly addresses fears such as AI replacing [[teacher-role|teaching roles]]. The findings connect to broader knowledge base themes of [[human-ai-collaboration]], [[cognitive-offloading]], and the anthropomorphic framing of AI tools — complementing [[engineering-faculty-metaphors-ai-understanding-2026|work on how instructors' metaphors construct and constrain AI understanding]].
+- **Instructors.** Run a metaphor workshop before redesigning assessment: having a teaching team surface its functions, roles, qualities, and agency metaphors exposes assumptions that a "permit or prohibit" policy debate hides.
+- **Instructors.** Have learners generate and critique the metaphors themselves — the sticky-note gallery method let participants voice ambivalence (for example "frenemy," "genie in a computer") that more structured discussion formats suppress.
+- **Instructors.** Work directly on the friend/foe dualities: address misplaced trust in anthropomorphic helper and tutor roles, and the unease about offloading tasks that require human judgment and creativity.
+- **Designers.** Use the four metaphor categories to move institutional discussion beyond binary policy, covering both augmenting-device opportunities and black-box concerns, and to design [[educational-development|professional development]] that addresses fears such as AI replacing teaching roles.
+
+## Limitations
+
+- Three workshops were held at a single business school in one metropolitan Australian university, so the metaphor categories reflect one organizational and disciplinary setting.
+- The workshop groups were uneven — 15 educational support staff and 10 academics but only 3 business students — and the authors state that running more workshops with students would be helpful.
+- The authors acknowledge that the workshop-based elicitation, prompts, and facilitation may have shaped which metaphors were produced, so the categories may reflect the workshop design as well as participants' natural conceptualizations.
+- Time constraints limited how fully the metaphors could be analyzed and discussed with participants, and no follow-up measured whether the workshops changed later teaching or policy practice.
 
 ## Connected Concepts
 - [[generative-ai]]

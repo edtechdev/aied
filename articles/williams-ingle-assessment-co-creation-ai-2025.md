@@ -1,7 +1,7 @@
 ---
 title: "Assessment Design Through Co-Creation: Student-Staff Partnership in Evaluating the Impact of Artificial Intelligence"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [pedagogical-partnerships, self-regulated-learning, student-engagement]
 technology: [generative-ai]
@@ -46,9 +46,20 @@ The student partner described the process as highly rewarding, felt she had cont
 
 From a staff perspective, the partnership gained important insights that would not have emerged independently, particularly the student's personal experience of the assessments and her effectiveness at identifying areas where ChatGPT could impact coursework. Co-creation and student-staff collaborations are argued to be ideally positioned to scrutinize [[generative-ai]] use by capitalizing on differing perspectives and expertise (Bovill, 2020). At the institutional level, projects such as AI Co-Creators contribute to [[educational-policy-ai|policy]] on the use of generative AI in assessments and the classroom, benefiting existing and future student cohorts and supporting the shift from traditional hierarchical structures toward more democratic, student-voice-oriented higher education (Cook-Sather, 2006; Mercer-Mapstone & Bovill, 2020).
 
-## Implications
+## What this means for practice
 
-The study positions co-creation and [[pedagogical-partnerships|student-staff partnership]] as central to developing solutions to the AI challenge in [[higher-ed]], particularly in assessment. Its findings support involving students in the design of assessment to improve [[self-regulated-learning]] and enhance understanding, consistent with an [[formative-assessment|assessment-for-learning]] approach (Carless, 2005; Deeley & Bovill, 2017). The authors recommend extending such work to more assessment formats and student cohorts, collaborating with more diverse students to improve inclusivity and equity, and using the [[creativity]] of students when designing teaching and learning materials for an AI-influenced world.
+- **Assessment designers.** Treat no coursework format as immune: audit existing assessments for ChatGPT interference rather than assuming a given format is a safeguard, since both partners concluded no form of coursework assessment was completely immune.
+- **Assessment designers.** Co-create evaluation criteria with a student partner when existing frameworks do not fit, as these partners did in building seven criteria around UNESCO and JISC guidance.
+- **Instructors.** Give the student partner priority and genuine ownership of the work, because taking responsibility for elements of the project was what produced the empowerment and increased self-reflection she reported.
+- **Instructors.** Provide training for both staff and students on the capabilities, limitations, and ethical use of [[generative-ai]], which both partners recommended.
+- **Educators.** Use co-creation to align differing assessment expectations and build assessment literacy in students and staff alike, and extend the approach to further assessment formats (such as MCQs and short answer questions) and to a more diverse group of students to improve [[equity-in-ai-education|equity]] and inclusion.
+
+## Limitations
+
+- The case study involved a single student partner — who had just completed her second year of one undergraduate medical sciences program — working with one staff member, so the entire evidence base is one dialogic partnership.
+- The scope of assessment formats was limited to existing coursework assessments in years 1 and 2 of that program; the authors recommend extending evaluation to year 3 and postgraduate-taught MSc assessments, and to formats such as MCQs and short answer questions.
+- Only the student partner was interviewed, and the authors note that a reciprocal interview of the staff partner would have yielded further insights and is recommended for future studies.
+- The authors state the findings were not definitive, and the evaluation used ChatGPT 3.5 output alone, so the conclusions describe one tool version's performance against one set of assessment instructions.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

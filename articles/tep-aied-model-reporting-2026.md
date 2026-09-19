@@ -1,7 +1,7 @@
 ---
 title: "Presenting Your AI in Education Research with Rigor: The TEP-AIED Model"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [limitations-in-aied-research, theory-development-aied]
 technology: [generative-ai]
@@ -34,15 +34,20 @@ methods: [ai-ed-evaluation, research-methods-aied]
 11. **Disclosure under Transparency does ethical and pedagogical work at the same time.** The paper's worked example: disclosing prompts, system settings, and learner-AI interaction processes not only improves interpretability and reproducibility but also helps researchers identify ethical risks such as bias, hallucination, or overreliance, while enabling pedagogical reflection on whether the AI support aligns with the intended learning objectives and level of [[student-engagement|learner engagement]]. The stated goal is that researchers "explain how AI meaningfully contributes to learning processes and outcomes in helping learners think critically from diverse angles, rather than completing the learning tasks for learners".
 12. **The model comes with a reporting template and a lifecycle instruction.** Authors are asked to add a subsection to the Method or Research Design section titled "Transparency, Ethics, and Pedagogy Considerations of Using AI", which states that the study was designed and reported following TEP-AIED guidelines and then addresses transparency (tool, version, provider, instructional workflow, prompts, differences between treatment and comparison conditions), ethics (approval, consent, anonymization, storage, management of hallucination, bias, and overreliance risks, accessibility and equity), and pedagogy (learning objectives, hypotheses, underpinning theories, the instructional role of AI, and how learners were oriented toward acceptable use and verification of outputs). The guidelines are to be consulted during research design rather than only at manuscript preparation. The authors position the model as particularly applicable to experimental and intervention-based AIED studies, where clarity of system configuration, learner-AI interaction, and [[learning-design|instructional design]] directly affects internal and external validity, while its principles can also inform qualitative, design-based, and system-development research.
 
-## Implications for AI in Education
+## What this means for practice
 
-- Reporting standards for AIED should be usable while a study is being designed, not only while a manuscript is being written. TEP-AIED's guideline table is organized under seven paper sections (Learning approach; Adopted system or system development; Participants; [[governance|AI Governance]] and Risk Considerations; Introduction; Experimental process; Discussion), which makes them checkable at the stage when design decisions can still change.
-- AI use disclosure becomes a substantive methodological obligation rather than an ethics footnote. Naming the model, version, and provider; showing the interface; describing the prompt given to learners; and stating which instructional activities are held constant are the conditions under which a finding about AI can be interpreted or replicated at all, which places [[ai-use-disclosure]] alongside [[benchmark|benchmarking]] and [[open-source]] norms in the field's evidence infrastructure.
-- The ethical dimension is framed as design work rather than compliance paperwork: data governance, mitigation of bias, hallucination, harmful outputs, and overreliance, plus equity and accessibility measures that cover language, disability support, and access gaps, and a justification when such measures are judged not applicable.
-- Pedagogy carries the most weight in the model. Because AI is treated as a tool whose value depends on instructional embedding, an AIED study has to show objectives, theory, and the AI's assigned role, and it has to show that learners were oriented toward acceptable and unacceptable practices and toward verifying and reflecting on AI output. That orientation step is where [[ai-literacy]], [[metacognition]], and [[cognitive-offloading]] concerns become measurable study components rather than background commentary.
-- Outcome vocabulary matters: distinguishing performance effects from retention and transfer follows directly from the critiques of Weidlich et al. (2025) and Yan et al. (2025), and it bears on [[assessment-validity]], [[transfer-of-learning]], and how [[learning-gains]] are claimed.
-- Reviewers, editors, and journal policy can operationalize the model cheaply, since it asks for a named Method subsection and for explanations when code, data, or benchmarks cannot be shared. This gives [[peer-assessment]] a checklist that fits inside existing article structures instead of a separate reporting instrument.
-- Scope limits should be respected: the authors present TEP-AIED as most applicable to experimental and intervention-based studies, and as informative rather than directly prescriptive for qualitative, design-based, and system-development research, where the same dimensions may need different evidence.
+- **Researchers.** Consult TEP-AIED while a study is being designed rather than at manuscript preparation, and add a Method subsection titled "Transparency, Ethics, and Pedagogy Considerations of Using AI".
+- **Researchers.** In that subsection, name the AI tool, version, and provider, describe the learner workflow, and state which instructional activities are held constant between treatment and comparison conditions.
+- **Researchers.** Report the prompts or guidance given to learners (in an appendix when long) and, for a newly developed system, architecture, design rationale, training data and process, algorithmic configuration, and validation.
+- **Researchers.** Specify whether outcomes assess performance, retention, or transfer, and justify the measure against the stated learning objectives rather than treating immediate task completion as learning.
+- **Researchers.** Report ethics and equity concretely: approval and consent, data governance, mitigation of bias, hallucination, harmful outputs, and overreliance, plus accessibility measures covering language, disability support, and access gaps — or justify their non-applicability.
+
+## Limitations
+
+- TEP-AIED is a conceptual synthesis, not an empirically validated instrument: it is built on narrative critiques of three named frameworks (Fu & Weng 2024; Topali et al. 2025; Allison 2026) rather than a systematic review, and no reliability or validity evidence for the guideline table is reported.
+- No adoption or usability evidence is offered: there is no study of whether authors apply the seven-section table as intended, or whether compliance improves reproducibility and reporting quality; the worked template is illustrative rather than a track record.
+- By the authors' own scope statement the model is most applicable to experimental and intervention-based studies and informative rather than directly prescriptive for qualitative, design-based, and system-development research, so it may under-specify the evidence those designs need.
+- Its central claim — that pedagogy rather than the tool governs educational value — is asserted from the critiques of Weidlich et al. (2025) and Yan et al. (2025) rather than tested in this paper.
 
 ## Connected Concepts
 

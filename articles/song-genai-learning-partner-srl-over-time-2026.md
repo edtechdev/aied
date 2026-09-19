@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, learning-analytics]
@@ -22,10 +22,19 @@ connected_faqs: [asynchronous-online-courses-ai]
 - **Curriculum drives fluctuations.** Week-by-week daily-survey analysis showed a major Week 8 project deadline lowered interest, [[self-efficacy]], and emotional well-being, with most [[affective-computing|affective]] metrics recovering after the assessment. Students shifted from planning/reviewing toward reading new material after the deadline.
 - **Context-aware GenAI support.** By separating formal, psychometrically-validated measurement of SRL from the LLM's interpretation, the authors gave Gemini 3 each student's baseline, week-by-week fluctuations, and academic context — and it generated appropriately tailored support (e.g., foundational strategy-building for a low-metacognition student vs. post-assessment recovery pacing for a high-metacognition student whose confidence had dipped). [[research-methods-aied|Researchers]] judged the output pedagogically sound.
 
-## Implications
+## What this means for practice
 
-- **Design GenAI support as [[agency|temporally mapped]] and context-aware.** "One-time-fits-all" [[personalized-learning|personalization]] based only on baseline aptitude risks over-assisting during [[desirable-difficulties|productive struggle]] or under-assisting during deadline-induced downturns. Support should track the academic calendar.
-- **Hybrid intelligence over black-box.** Measuring SRL with validated instruments and using GenAI only to interpret and translate those metrics into support directions preserves theory-based reliability and learner effort.
+- **Instructors.** Map AI support to the academic calendar rather than the student's baseline profile: reduce unsolicited help during deadline weeks so students keep the productive struggle, and raise support after assessments to rebuild self-efficacy and interest.
+- **Instructors.** Keep measurement and interpretation separate — score SRL with validated instruments (MAI_K, MAI_R, WEMWBS) and let the model only translate those results into support directions, so advice stays anchored in theory rather than inferred from chat history.
+- **Instructional designers.** Feed the system each learner's personal, temporal, and contextual data (baseline, week-by-week fluctuations, course context) instead of a one-time-fits-all [[personalized-learning|personalization]] built only on baseline aptitude.
+- **Instructional designers.** Design for SRL as a state, not a trait: instrument [[metacognition]] and well-being across the whole term, since both declined systemically while metacognitive regulation held steady.
+
+## Limitations
+
+- Although 75 students consented, only 54 completed both pre- and post-semester surveys, and the week-by-week analysis narrowed further to a 38-student cohort in a single computing subject at one Australian university.
+- Every measure is self-report (MAI_K, MAI_R, WEMWBS, and single-item interest and self-efficacy scales), so the reported declines reflect perceived rather than demonstrated [[self-regulated-learning|self-regulation]] or learning.
+- Daily surveys ran only in weeks 4, 6, 8, and 9 (246 responses), so the "week-by-week" trajectory rests on four sampled weeks of the 12-week term.
+- The [[generative-ai|GenAI]] component is a proof-of-concept on two illustrative student cases whose output was judged appropriate by two members of the research team; there was no control group and no measured effect of the tailored support on learning.
 
 ## Connected Concepts
 

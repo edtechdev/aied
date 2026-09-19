@@ -1,7 +1,7 @@
 ---
 title: "Taming the Black Box: Design Principles for Rule-Integrated LLM Tutoring Systems in Primary School Mathematical Problem Solving"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/rule-integrated-llm-tutoring-primary-math-2026.md"]
 pedagogy: [scaffolding]
@@ -26,12 +26,19 @@ page_kind: [evaluation]
 - **Even a highly structured prompt cannot fully eliminate stochastic variability** — the tutor produced incorrect information (arithmetic [[hallucination-risk|hallucinations]]) in 4 of 40 sessions (10%), motivating strengthened uncertainty guardrails and an "epistemic humility" design in which all computation is returned to the student.
 - **Simulation and classroom validation are complementary, not interchangeable**: every Phase 1 failure mode reappeared in Phase 2, yet simulation systematically underestimates interactional failure modes (fragmented inputs, off-task behavior, trust sensitivity), warning against "ecological overconfidence."
 
-## Implications for Practice
+## What this means for practice
 
-- **For designers of [[intelligent-tutoring|LLM tutors]]:** effective tutoring is less about maximizing the model's generative capacity than about strategically constraining it within theoretically grounded frameworks — externalize pedagogical decisions into auditable diagnosis → intent → response layers rather than relying on unconstrained inference.
-- **For [[math-education|mathematics]] and procedural-domain applications:** embed explicit [[guardrails]] such as unit/rule locking, numerical correctness gates, and anti-spoiler boundaries; consider removing arithmetic from the tutor's purview entirely and returning all computation to the student (epistemic humility).
-- **For evaluation practice:** use staged [[design-based-research|design science]] evaluation — simulated persona stress-tests for diagnostic precision *plus* authentic classroom pilots for ecological validity — since strong simulation performance does not guarantee classroom readiness.
-- **For developers managing [[cognitive-offloading|cognitive load]] and engagement:** tighten brevity and anti-repetition output constraints, add attentional scaffolds (e.g., pause-close for resuming interrupted work), and communicate transparent closure criteria to reduce premature termination.
+- **Designers.** Externalize pedagogical decisions into auditable diagnosis → intent → response layers rather than relying on unconstrained model inference, and treat constraints on generation as the core design asset.
+- **Designers.** Lock high-risk procedural rules (units, rounding, billing conventions) and add numerical correctness gates, anti-spoiler boundaries, and a completion-only closing gate.
+- **Designers.** Remove arithmetic from the tutor's role and return all computation to the student: the tutor produced incorrect arithmetic information in 4 of 40 real classroom sessions.
+- **Software developers.** Validate in two stages — persona-based simulation for diagnostic precision plus an authentic classroom pilot for ecological validity — because simulation systematically underestimated interactional failure modes.
+- **Educators.** Add pause/resume affordances for interrupted work and keep tutor turns brief; attentional fragility and verbosity costs appeared only once real students were in the room.
+
+## Limitations
+
+- The empirical evidence is a single classroom pilot with 40 Grade 5 students (22 female, 18 male, mean age 10.8 years) in one Shenzhen school computer laboratory working on unit-conversion and rounding word problems, so scalability to other populations and content such as fractions or proportional reasoning is untested.
+- There was no controlled comparison condition, so learning effects cannot be attributed causally; facilitator influence, peer effects, and variable student motivation were uncontrolled classroom variables.
+- The tutor gave incorrect arithmetic information in 4 of 40 sessions (10%), and LLM version updates may shift prompt performance, requiring ongoing monitoring and periodic re-validation.
 
 ## Connected Concepts
 

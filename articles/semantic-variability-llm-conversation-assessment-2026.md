@@ -1,7 +1,7 @@
 ---
 title: "Semantic Variability of LLM-Generated Replies Across LLMs: Implications for Designing Conversation-Based Assessment"
 created: "2026-08-28T09:07:00-04:00"
-updated: "2026-08-28T09:07:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [conversational-ai, generative-ai, llm, prompt-engineering]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement]
@@ -37,9 +37,23 @@ The study used dyadic online collaborative problem-solving science data (99 team
 
 Mixed-effects models confirmed that LLM type, history condition, and their interaction significantly affected both mean pairwise similarity and its variability, with responses more aligned with human replies tending to be more consistent.
 
-## Implications for conversation-based assessment
+## Consistency as an infrastructure problem
 
 The results show that even for a single conversational turn, the semantic content of LLM-generated replies varies across models and context conditions. This means that maintaining consistent assessment interactions as LLMs evolve is an **infrastructure challenge** rather than merely a [[prompt-engineering]] challenge. Systems that rely on LLM-generated responses require additional mechanisms to monitor, [[benchmark]], and control response behavior across model transitions — potentially including symbolic rules, response templates, and validation layers that preserve assessment-relevant functions despite underlying model changes. These considerations are particularly important in high-stakes settings, where variability may affect the comparability of assessment conditions and, ultimately, the [[assessment-validity|validity, reliability, and fairness]] of [[automated-assessment|AI-based assessment]] — connecting to [[trust-calibration]] and the design of robust [[conversational-ai|conversational agents]] for assessment.
+
+## What this means for practice
+
+- **Assessment designers.** Treat response consistency across model transitions as an infrastructure requirement rather than a [[prompt-engineering|prompt-engineering]] one: within-model similarity (0.715–0.795) consistently exceeded between-model similarity (0.443–0.604).
+- **Assessment designers.** Add symbolic rules, response templates, or validation layers that preserve assessment-relevant function when the underlying LLM changes, since adding chat history changed reply content even for the same focal message (median cross-history similarity ~0.40–0.45).
+- **Assessment professionals.** Re-examine the scoring argument whenever a deployed model is updated, replaced, or retired, because model type, history condition, and their interaction all significantly affected mean pairwise similarity and its variability.
+- **Researchers.** Sample across model families in consistency studies: models within the GPT-5.4 family resembled one another more than they resembled GPT-4o mini, so architecture and lineage shape the [[assessment-validity|validity]] threat.
+
+## Limitations
+
+- The conversational data came from 99 Amazon Mechanical Turk teams collected in 2018, and the analysis narrowed to 61 late-stage focal messages chosen because their human replies were coded as highly relevant.
+- The comparison used four LLMs drawn from a single model family (GPT-4o mini, GPT-5.4, GPT-5.4 mini, GPT-5.4 nano), so consistency across unrelated model families remains untested.
+- Temperature, a decoding parameter that directly influences response variability, could be set to 0.7 only for GPT-4o mini; the option was unavailable on the other three deployments.
+- The analysis is confined to a single conversational turn, and replies remained consistently dissimilar from human replies, so the study cannot speak to whether consistency holds across multi-turn assessment interaction.
 
 ## Connected Concepts
 

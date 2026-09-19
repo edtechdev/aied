@@ -1,7 +1,7 @@
 ---
 title: "Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking"
 created: "2026-08-27T06:30:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [help-seeking, self-regulated-learning]
 technology: [llm]
@@ -26,11 +26,19 @@ methods: [qualitative-research]
 - **Instrumental over executive help-seeking.** Students favored instrumental help-seeking (hints, step-by-step guidance, concept explanations) over executive help-seeking (direct solutions), deliberately using ChatGPT as "a hint, an assisting tool, but not the standalone solution."
 - **Selective trust and verification.** Students verify LLM outputs with peers, course materials, or instructors when accuracy is uncertain — e.g., "I only go to the TA if we can't tell whether ChatGPT is making things up."
 
-## Implications
+## What this means for practice
 
-- **Adapt help-seeking models for LLM-mediated learning.** The four-stage process provides a framework for understanding and measuring SRL-for-LLM help-seeking; the paper proposes draft survey items.
-- **Support [[ai-literacy|verification practices]] and instrumental help-seeking.** Prolonged exposure to "good enough" AI outputs may normalize shortcuts at the expense of deeper learning, especially among low-SRL students — so students need targeted training on SRL strategies in LLM-mediated settings.
-- **Distinguish [[cognitive-offloading]] from efficiency.** Reliance on LLMs for debugging or cross-language programming risks bypassing opportunities for independent problem-solving, even when students avoid direct-answer use.
+- **Instructors.** Teach verification and instrumental help-seeking explicitly: model seeking hints, explanations, and step-by-step guidance rather than direct solutions, since students who favored instrumental help kept control of [[problem-solving]].
+- **Instructors.** Distinguish efficiency from offloading in task design — allow LLM use for syntax checks and quick clarifications, but protect independent work on debugging and cross-language programming, where shortcuts bypass the [[cognitive-offloading|learning]] the task is meant to produce.
+- **Instructional designers.** Build the four-stage help-seeking process (deciding whether help is needed, choosing a source, choosing the type of help, judging the help) into course structures so peers and instructors stay visible for conceptual negotiation and affective support.
+- **Researchers.** Use the paper's draft survey items to measure SRL-for-LLM help-seeking, since the four-stage adaptation of Karabenick and Berger's model offers a framework for operationalizing an emerging construct.
+
+## Limitations
+
+- The study interviewed 20 students (14 female, 6 male) at a single large Swedish STEM university, recruited by course announcements on Canvas, so volunteers likely over-represent students already using LLM chatbots.
+- Data are 30–40 minute semi-structured interviews conducted between mid-May and July 2024 — self-reported accounts of study habits rather than observed help-seeking behavior or learning outcomes.
+- There is no comparison or control condition and no performance measure; the findings describe students' stated intentions and reasoning, not what they actually did when studying.
+- The findings sit in contrast to studies reporting over-reliance on LLM output, and the authors do not establish whether the difference stems from the population, the tasks, or the interview prompts used to elicit responses.
 
 ## Connected Concepts
 

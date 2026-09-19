@@ -1,7 +1,7 @@
 ---
 title: "Does school-based AI education narrow readiness gaps? The role of prior agency-related learning"
 created: "2026-08-30T03:27:22-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy]
 pedagogy: [motivation]
@@ -41,11 +41,20 @@ confidence: high
 - Objective AI literacy requires **cumulative exposure and sustained self-initiated exploration** — perceived gains do not automatically translate into objective understanding
 - The authors argue school AI education works **synergistically** with prior agency-related learning rather than replacing it: curricula provide access/guidance, while self-initiated [[student-engagement|engagement]] helps learners interpret and extend those affordances
 
-## Implications
+## What this means for practice
 
-- **For [[teacher-role|instructors]] & instructional designers:** pair structured AI curricula with inquiry-based projects, reflective discussions, and [[authentic-assessment|authentic tasks]] that cultivate self-initiated engagement — not just content delivery
-- **For administrators & policymakers:** [[equity-in-ai-education|equity]] in AI education means more than curriculum access; ensure early/timely instruction, teacher preparation, and out-of-school enrichment so agency-related learning becomes a shared capacity rather than a stratified advantage
-- **For evaluation:** single-cohort post-test gains can mask persistent cognitive gaps — measure objective AI literacy and compare growth across learner subgroups, not just overall means
+- **Instructors.** Pair structured AI curricula with inquiry-based projects, reflective discussion, and [[authentic-assessment|authentic tasks]] that cultivate self-initiated engagement rather than content delivery alone — prior self-initiated AI learning, not school instruction, predicted the largest cognitive gains.
+- **Administrators.** Treat [[equity-in-ai-education|equity]] as more than curriculum access: ensure early and timely instruction, teacher preparation, and out-of-school enrichment so agency-related learning becomes a shared capacity rather than a stratified advantage.
+- **Policymakers.** Do not read improved confidence, motivation, and ethical awareness as evidence that AI-literacy gaps have closed — psychological gaps narrowed substantially while objective AI-literacy differences persisted.
+- **Learners.** Treat the school curriculum as an entry point rather than a ceiling: high-agency learners still outperformed peers at post-test after a year of instruction, so pursue self-initiated exploration and projects beyond it.
+- **Researchers.** Evaluate single-cohort gains against an objective [[ai-literacy|AI-literacy]] measure and compare growth across learner subgroups, because the psychological improvements in this study were concentrated in self-report and approached parity while between-group cognitive change stayed non-significant.
+
+## Limitations
+
+- Only two measurement waves, with outcomes captured immediately after one year of instruction: the study cannot show whether psychological gains persist, whether cognitive gains consolidate, or whether the readiness gaps widen across later school years.
+- Agency-related learning was operationalized categorically as three prior-learning profiles (high-agency N = 183, curriculum-supported N = 369, low-agency N = 200) rather than as a continuous construct, so the design could not capture change in agency itself.
+- Outcomes relied primarily on self-report indicators plus a 25-item AI-literacy test, which may not represent students' authentic engagement or practical competence.
+- Participants were 752 junior-secondary students (Mage = 14.06) in Hong Kong, so both the curriculum structure and the readiness patterns may differ in other systems.
 
 ## Connected Concepts
 

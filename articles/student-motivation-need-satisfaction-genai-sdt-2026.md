@@ -1,7 +1,7 @@
 ---
 title: "Student Motivation and Need Satisfaction in GenAI-Supported Classrooms: A Self-Determination Theory Perspective"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory, self-regulated-learning, student-engagement]
 technology: [generative-ai]
@@ -22,9 +22,20 @@ page_kind: [evaluation]
 - Relatedness was less pronounced in the ChatGPT-supported context, helping explain why the overall motivational distribution did not exceed the high baseline of non-AI CBL.
 - Learner heterogeneity matters: motivational outcomes of [[generative-ai|GenAI]] integration vary systematically across student profiles.
 
-## Implications for AI in Education
+## What this means for practice
 
-By combining person-centered and variable-centered methods on a large authentic sample, the study shows that GenAI integration in autonomy-supportive classrooms produces heterogeneous motivational outcomes rather than a uniform effect. The finding that ChatGPT contexts can raise autonomy and competence satisfaction yet weaken relatedness and increase low-quality profiles suggests [[teacher-role|educators]] should attend to the social-relational costs of AI-supported learning. It informs [[self-determination-theory]], [[motivation]], and [[self-regulated-learning]] perspectives on GenAI in [[k-12]] classrooms.
+- **Teachers.** Embed ChatGPT inside a structured, autonomy-supportive competency-based design with transparent goals, self-paced progression, and voluntary access, rather than introducing it as a standalone intervention.
+- **Teachers.** Protect relational time deliberately: relatedness satisfaction was weaker in the ChatGPT-supported context, so keep teacher and peer interaction in the lesson design alongside the tool.
+- **Teachers.** Aim on-demand scaffolding at students in transitional motivational states; ChatGPT raised intrinsic and identified regulation within less adaptive profiles rather than lifting the whole class.
+- **Researchers.** Combine person-centered profile analysis with variable-centered mean comparisons, because mean-level differences alone concealed profile-level dynamics in this data.
+- **Researchers.** Collect usage logs or platform analytics next to self-reports, since perceived ChatGPT support was measured with a novel instrument and actual usage behavior was not captured.
+
+## Limitations
+
+- The cross-sectional design precludes causal inference, and the intervention was brief (one week) with ChatGPT use optional, so motivational outcomes may partly reflect technological novelty and cannot be attributed to specific usage patterns.
+- All motivation and need-satisfaction measures are student self-report; the ChatGPT-support instrument was novel and context-specific, relatedness was assessed without a directional hypothesis, and self-regulated learning processes were not directly measured.
+- No condition combined teacher-directed learning with ChatGPT (schools declined it as incompatible with teacher-directed formats), so no conclusions extend to teacher-centered instructional contexts.
+- The study ran under naturalistic classroom conditions in Grades 7–8 across 14 urban schools (N = 2464), which reduces experimental control, and socioeconomic data were not collected, precluding equity-related subgroup analyses.
 
 ## Connected Concepts
 - [[self-determination-theory]]

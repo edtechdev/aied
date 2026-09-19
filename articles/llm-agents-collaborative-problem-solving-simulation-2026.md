@@ -1,7 +1,7 @@
 ---
 title: "Modelling Individual Participants as LLM Agents in Collaborative Problem Solving Simulations"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/llm-agents-collaborative-problem-solving-simulation-2026.md"]
 foundations: [agentic-ai]
@@ -26,13 +26,19 @@ methods: [network-analysis]
 - **Reproduced the core reasoning triad** — both real and simulated networks showed strong connections among Technical Constraints, Design, and Data, though the simulation slightly overemphasised Technical Constraints–Design links and underrepresented Data and Performance Parameters.
 - **Preliminary linguistic fidelity** — across illustrative turns, ROUGE-L averaged 0.34 (±0.14) and domain-vocabulary retention was 1.00, with simulated turn length (18.4 words) close to real turns (15.6), confirming naturalistic paraphrase that preserves domain terminology.
 
-## Implications for Practice
+## What this means for practice
 
-- **Expanded [[simulating-students|learner simulation]] for education** — simulated CPS environments can expose students to rare or challenging team compositions (e.g. dominant speakers, disengaged participants) without recruiting real teams, valuable in online and hybrid learning where synchronous teamwork is logistically constrained.
-- **Safe, scalable high-stakes training** — in domains such as military command, surgical teams, and emergency response, LLM-based simulation offers a low-cost, [[ethics|ethical]] alternative for generating training scenarios and stress-testing communication protocols.
-- **Controlled counterfactual [[research-methods-aied|research]]** — replacing individual agent parameters enables questions impossible with observational data alone, such as how a stronger tendency toward data-referencing in one participant changes team discourse, isolating causal effects of communicative behaviors.
-- **Synthetic data for [[learning-analytics|NLP and analytics]]** — the framework can generate large volumes of structurally valid synthetic CPS dialogue for pre-training or data augmentation, reducing dependence on scarce, expensive human-annotated corpora.
+- **Researchers.** Validate a participant-specific simulation against real dialogue with [[network-analysis|Epistemic Network Analysis]] before using it as evidence; the reported adjacency distance was 0.17 against a 0.30 null threshold.
+- **Learning analytics designers.** Generate structurally valid synthetic [[problem-solving|CPS]] dialogue for pre-training and data augmentation where human-annotated corpora are scarce, with recalibration so simulated discourse does not overemphasize Technical Constraints–Design transitions.
+- **Designers.** Build simulation environments that expose learners to rare or difficult team compositions (dominant speakers, disengaged participants) without recruiting real teams.
+- **Researchers.** Swap individual agent parameters to run counterfactual tests that isolate how one participant's communicative tendency changes team discourse.
 
+## Limitations
+
+- The evidence comes from one de-identified engineering-internship dataset of 48 participants and 3,824 turns across two sessions; the authors call for validation in military command, engineering design, and medical decision-making before generalizing.
+- Linguistic fidelity rests on five purposively selected turns (ROUGE-L 0.34 ± 0.14) rather than the full corpus of 1,423 coded turns, and no semantic evaluation such as BERTScore or human rating has been run.
+- The simulation overrepresented Technical Constraints–Design links and underrepresented Data and Performance Parameters, a directional bias the authors attribute to the dominance of high-frequency codes.
+- It is a secondary analysis of fully de-identified data with the pseudonym mapping key discarded, so no linkage to individual outcomes or to uses beyond the original study is possible.
 ## Connected Concepts
 
 - [[problem-solving]]

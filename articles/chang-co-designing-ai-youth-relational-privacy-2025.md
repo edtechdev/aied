@@ -1,7 +1,7 @@
 ---
 title: "Co-designing AI with youth partners: Enabling ideal classroom relationships through a novel AI relational privacy ethical framework"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency]
 pedagogy: [collaborative-learning, pedagogical-partnerships]
@@ -43,9 +43,20 @@ From these, the authors derive a five-question **AI Relational Privacy ethical f
 
 The framework is instantiated in the Community Builder (CoBi), an AI tool developed at iSAT that supports students in building customized, ideal collaborative relationships. CoBi uses computational models to give feedback on how well students hold to collaborative agreements such as Committed to Community, Moving Thinking Forward, and Being Respectful — agreements rooted in the relational hopes expressed by youth in the workshop. Applying the Relational Privacy framework surfaced key tensions: for example, an AI that reports off-task remarks to teachers supports "Moving Thinking Forward" but compromises "Being Respectful." CoBi has addressed this tension by aggregating predictions at the class level to protect individual and group identities, illustrating the need for compromise rather than consensus.
 
-## Implications
+## What this means for practice
 
-The paper argues that students who will live with these tools must be engaged as design partners, or tools risk being untrustworthy, inequitable, disposable, and ineffective. Future work focuses on changing the organizational conditions through research-practice partnerships, [[educational-development|professional development]] that embraces the classroom's "third space," and [[curriculum-design|curriculum]] that helps youth understand how tools like CoBi collect, process, and secure data. This stands as the first study to explore the privacy implications of AI-supported collaboration in K-12 contexts in close design partnership with historically minoritized youth.
+- **Designers.** Bring youth into AI tool design from conception rather than after the artifact is built, since tools designed without students as partners risk being untrustworthy, inequitable, disposable, and ineffective.
+- **Designers.** Apply the five-question [[privacy|Relational Privacy]] framework during design: identify the ideal relationships the AI supports, the information types and transmission principles you and other secondary recipients assume, the ones youth as senders prefer, whether the design requires data sharing beyond the immediate context, and how contested norms get re-negotiated.
+- **Designers.** Plan for compromise rather than consensus, following CoBi's shift to class-level aggregation where individual or group-level reporting would violate students' relational privacy.
+- **Educators.** Build [[curriculum-design|curriculum]] that teaches students how tools like CoBi collect, process, and secure their data, so that participation in an AI-mediated classroom is informed.
+- **Administrators.** Change the organizational conditions through research-practice partnerships and [[educational-development|professional development]] that works with, rather than around, the classroom's "third space."
+
+## Limitations
+
+- The participatory workshop worked with a relatively small group of 30 high-school youth (grades 9–12) in a single five-day remote summer 2021 workshop, which the authors describe as a starting point that still requires empirical testing and refinement at greater scale.
+- The authors state the outcomes were focused specifically on extracting factors for collaborative AI systems, and that other AI designs such as personal agents or orchestration agents may require different framings during participatory workshops.
+- The analysis is qualitative, and the authors call for quantitative, large-scale studies as CoBi is implemented across a variety of K-12 contexts.
+- Youth privacy preferences were elicited through a custom worksheet and facilitated discussion rather than observed behavior, so the findings rest on what participants said they wanted, not on how they acted.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

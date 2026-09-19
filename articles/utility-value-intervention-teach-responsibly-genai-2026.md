@@ -1,7 +1,7 @@
 ---
 title: "Perceived Utility Moderates Motivational Intervention Effects in Learning to Teach Responsibly with GenAI"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation]
@@ -25,9 +25,20 @@ page_kind: [evaluation]
 - Exploratory moderation analyses revealed the intervention was detrimental to knowledge integration among pre-service teachers who entered with high initial perceived utility-value.
 - Findings point to aptitude-treatment interactions: motivational support should be tailored to learners' individual prerequisites rather than applied uniformly.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study cautions against assuming motivational interventions automatically support learning to teach responsibly with AI. Because the utility-value intervention helped some learners but actively hurt those already high in perceived utility, it underscores the value of diagnostic, adaptive approaches to teacher [[educational-development|professional development]] for AI. For [[teacher-education]] programs, the finding connects to [[ai-literacy]] and [[tpack]] debates about how to scaffold integrated technological-pedagogical-ethical knowledge, and suggests [[motivation]] support should be matched to individual starting points.
+- **Teacher educators.** Diagnose pre-service teachers' perceived [[motivation|utility-value]] before adding motivational prompts: the utility-value intervention was detrimental to knowledge integration for learners who entered with high initial perceived utility-value.
+- **Teacher educators.** Do not assume that adding [[scaffolding|scaffolds]] strengthens a motivational intervention — the scaffolded condition performed no differently from the unscaffolded intervention or the control condition.
+- **Teacher educators.** Support self-referential processing explicitly within utility-value activities and match motivational support to individual starting points rather than applying it uniformly across a cohort.
+- **Teacher educators.** Pair motivational support with concrete instructional designs that connect [[ethics|ethical]] reasoning to the specific affordances and risks of each AI application, rather than relying on generic principles.
+- **Researchers.** Design longitudinal studies that capture intraindividual change in [[motivation]] and professional knowledge, since this field study measured only cross-sectional, end-product outcomes.
+
+## Limitations
+
+- The experiment was embedded in a single 45-minute lecture of one German university's Master of Education program (N = 158 pre-service teachers, 68% female), and the authors state the short duration limited how far internal motivational changes could develop.
+- Knowledge integration was measured only as an end product, so the underlying cognitive processes during learning were not captured.
+- Worked examples were provided uniformly to all participants, which the authors state may have reduced sensitivity to detect motivational effects.
+- In-video guidance and segmented reflection tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
 
 ## Connected Concepts
 - [[teacher-education]]

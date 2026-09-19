@@ -1,7 +1,7 @@
 ---
 title: "Evaluation in the Age of AI: Output as Evidence of Learning"
 created: "2026-08-27T09:16:00-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [desirable-difficulties]
@@ -29,9 +29,20 @@ audience: [educators, administrators, assessment designers]
 
 The authors argue evaluation must shift from certifying a final artifact to documenting and appraising an ongoing cognitive process. They highlight two balanced frameworks: the FACT (Fundamental, Applied, Conceptual, Thinking) framework and the AI Assessment Scale (AIAS), which map levels of AI involvement onto assessment contexts so AI use is explicitly bounded, disclosed, and critically evaluated. Drawing on [[desirable-difficulties]], they advocate in-class, resource-restricted [[problem-solving|problem solving]], think-aloud protocols, annotated drafts, and iterative revision logs that render reasoning legible to evaluators and produce richer [[formative-assessment|formative]] data. Policy recommendations include deprioritizing detection, adopting risk-based models, and incentivizing process pedagogy.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper reframes the [[academic-integrity]] debate from policing outputs to redesigning assessment so that the path to the answer is as important as the answer itself. It cautions that [[ai-detection|AI detection]] tools, with high false-positive risk, both damage [[privacy]] and deepen inequity, and that surveillance undermines the learning environment. For educators and institutions, it supports [[authentic-assessment]] and process-oriented designs that preserve student agency and accountability, aligning [[educational-policy-ai|institutional policy]] with the professional realities students will face after graduation.
+- **Assessment designers.** Replace output-as-evidence checks with documentation of the process — in-class resource-restricted [[problem-solving]], think-aloud protocols, annotated drafts, and iterative revision logs — so reasoning rather than the artifact is graded.
+- **Administrators.** Deprioritize detection: 15 of 20 respondents reported heavy institutional reliance on AI detection software while only 4 of 20 expressed confidence in it, leaving faculty to enforce a process they distrust and adding false-positive, privacy, and equity harms without protecting the integrity of the judgment.
+- **Educators.** Adopt a bounded-involvement framework such as the FACT framework or the AI Assessment Scale so AI use is explicitly permitted, disclosed, and critically evaluated within each task instead of prohibited wholesale.
+- **Administrators.** Treat policing as an instructional cost: respondents described "pedagogical burnout" and acting as "Digital Prosecutors," with time diverted from instructional design and student mentorship.
+- **Assessment designers.** Check the payment gap: roughly 45% of respondents saw higher stylistic clarity and fewer [[hallucination-risk|hallucinations]] from students on paid "Pro" LLM tiers, so unmodified tasks can end up grading ability to pay.
+
+## Limitations
+
+- The empirical base is a mixed-method survey distributed to 20 higher education professionals and students in North America and Bangladesh in the Fall of 2025; the authors describe the findings as exploratory and illustrative rather than broadly generalizable.
+- The discipline comparison rests on agreement counts out of those same 20 respondents (Computer Science 19/20 versus 16/20 in Humanities and Professional degrees), not on per-discipline samples, so the reported "discipline divide" is unweighted.
+- All quantitative figures are self-reported attitudes — faculty confidence in detection tools, perceived task vulnerability, perceived institutional support on a 5-point Likert scale — with no student work, detector accuracy, or grading outcome measured.
+- The survey was fielded once with no control or comparison condition, and the qualitative material comes from inductive thematic coding of open-ended responses, so no causal claims about detection or assessment redesign follow.
 
 ## Connected Concepts
 

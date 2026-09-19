@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Making of a Boundary Object for Classifying Generative AI Learning Activities"
 created: "2026-08-26T18:05:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, human-ai-collaboration, learning-design]
 pedagogy: [active-learning, activity-theory-aied, learning-theories]
@@ -49,6 +49,21 @@ The taxonomy is explicitly not a design method or pedagogical framework — it a
 ## Connections to the knowledge base
 
 The taxonomy's Epistemic Engagement category (understanding / using / critiquing / constructing) maps directly onto [[ai-literacy]] dimensions and to [[critical-thinking]], and its person-plus-GenAI labor-distribution categories connect to [[human-ai-collaboration]] and debates about [[cognitive-offloading]]. Its Content category situates [[prompt-engineering]] as a distinct learning content area. The paper's framing of learning activities as entangled human–GenAI systems resonates with [[activity-theory-aied]], and its practical orientation connects to [[learning-design]] and [[curriculum-design]].
+
+## What this means for practice
+
+- **Instructors.** Use the six categories (Learning Objective, Content, Representation Format, Epistemic Engagement, Social Design, Artifacts) to make the choices in a GenAI activity explicit — why, what, how, with what, and with whom students engage the tool.
+- **Instructors.** Separate learning *about* GenAI from learning *within* another domain, and distinguish using existing GenAI from constructing it, because the ethical and political stakes differ between those positions.
+- **Instructors.** Treat the taxonomy as a prompt for imagination rather than a design method: the authors position it to orient the search for good practice, not to prescribe an activity.
+- **Researchers.** Adopt the shared categories to compare and systematize GenAI learning activities across studies, addressing the missing common framework and terminology that motivates the taxonomy.
+- **Researchers.** Concretize the categories for each specific setting and report the local reading, since a generalized taxonomy inevitably under-describes a given entangled activity.
+
+## Limitations
+
+- The taxonomy is a conceptual generalization developed through a collaborative postdigital dialogue among its authors and tested against concrete examples in discussion, not in a classroom study or with an independent sample of practitioners.
+- Its theoretical basis is the German-Scandinavian Didaktik tradition and the Anglo-American Activity-Centered Analysis and Design approach; the authors acknowledge a Global North bias and that they are knowledgeable only about some pedagogical traditions.
+- The authors state that classifications are "suffused with ethical and political values" and present the taxonomy as only one possible way to view the landscape, so it stakes out a position rather than offering a neutral instrument.
+- It is explicitly not a design method or pedagogical framework: it can help orient search and comparison but cannot specify what a particular learning activity should be.
 
 ## Connected Concepts
 

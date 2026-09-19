@@ -1,7 +1,7 @@
 ---
 title: "From Proficiency to Pedagogy: A Mixed-Methods Study of In-Service Teachers' TPACK-GenAI and the Mediating Role of Pedagogical Knowledge"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/tpack-genai-inservice-teachers-mediation-2026.md"]
 foundations: [educational-development]
@@ -24,11 +24,19 @@ methods: [mixed-methods-research]
 - [[qualitative-research|Qualitative]] interviews illuminate how teachers translate GenAI proficiency into pedagogically sound classroom decisions, and where support is still needed.
 - Findings reinforce that GenAI integration is a knowledge-and-pedagogy challenge, not merely a tool-access question.
 
-## Implications for Practice
+## What this means for practice
 
-- **For [[educational-development|professional development]]:** PD should build the *pedagogical* uses of GenAI — not just tool proficiency — since pedagogical knowledge mediates integration.
-- **For teacher educators:** TPACK-GenAI offers a framework for designing teacher-learning experiences that connect technical, content, and pedagogical knowledge.
-- **For school leaders:** Supporting in-service teachers across diverse national contexts requires attention to the pedagogical [[critical-thinking|reasoning]] behind GenAI use, not only technical training.
+- **Faculty developers.** Build professional development around the pedagogical uses of GenAI rather than tool proficiency, since technological pedagogical knowledge carries the association between other knowledge components and overall TPACK-GenAI.
+- **Faculty developers.** Design activities in which teachers have to translate GenAI proficiency into concrete classroom decisions, which is the step the interviews identified as the remaining gap.
+- **Teacher educators.** Use TPACK-GenAI as the organizing frame for teacher-learning experiences that connect technical, content, and pedagogical knowledge instead of treating them as separate strands.
+- **Teachers.** Justify each GenAI adoption by the pedagogical problem it solves, and record that reasoning, rather than adopting on the basis of tool access or novelty.
+
+## Limitations
+
+- Evidence comes from a single voluntary survey of 325 in-service teachers spread across 26 countries; because the sample is not anchored in any one system, the reported associations between knowledge components may not hold within a specific national or school context.
+- All knowledge measures are teachers' self-reported perceptions of their TPACK-GenAI rather than observation of classroom practice, which the interviews also relied on for the qualitative strand.
+- The qualitative component rests on seven interviewees drawn from the larger survey, so those findings are illustrative rather than representative of the surveyed teachers.
+- The mediation finding is estimated from the survey model rather than from longitudinal or experimental data, so it cannot establish that strengthening pedagogical knowledge causes gains in TPACK-GenAI.
 
 ## Connected Concepts
 

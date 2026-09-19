@@ -1,7 +1,7 @@
 ---
 title: "Ethical Conditions for University Students' Adoption of Large Language Models in Exam Preparation Contexts"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, technology-acceptance-model]
@@ -24,10 +24,20 @@ page_kind: [evaluation]
 - Intention to use is both a necessary (d = 0.325) and a very strong sufficient predictor of actual use (β = 0.905, p < 0.001).
 - Students apply multiple normative ethical frames rather than a single moral stance when deciding whether to adopt LLMs in assessment contexts.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study reframes academic-integrity conversations around the ethical reasoning students actually deploy rather than rule compliance alone. Because consequentialist and deontological judgments drive intention, institutions may support responsible use by making the ethical stakes of LLM use in assessment explicit and by cultivating students' capacity to reason across normative frameworks, complementing code-based approaches to [[academic-integrity]] and [[ai-use-disclosure]]. It also links ethical perception to the [[technology-acceptance-model|technology-acceptance]] tradition, showing that moral considerations operate alongside perceived usefulness and ease of use in shaping adoption.
+- **Instructors.** Make the ethical stakes of LLM use in assessment explicit instead of relying on rule compliance, because consequentialist (β = 0.350) and deontological (β = 0.329) judgments were the sufficient predictors of intention to use.
+- **Instructors.** Redesign assessment toward process-oriented tasks that reward creativity, critical reflection, and integration of multiple sources, since students who perceive learning benefit intend to use LLMs even without explicit regulation.
+- **Administrators.** Pair integrity codes with support for students' normative reasoning: moral equity was a necessary condition (d = 0.338) but not a sufficient predictor of intention (β = 0.108, p = 0.414).
+- **Students.** Treat the decision about exam-preparation use as consequential rather than incidental — intention was a very strong sufficient predictor of actual use (β = 0.905).
+- **Administrators.** Position [[ai-use-disclosure|disclosure]] policies as complements to ethical reasoning rather than substitutes, since moral considerations operate alongside perceived usefulness and ease of use in shaping adoption.
 
+## Limitations
+
+- The sample is 151 Spanish undergraduates recruited through purposive and snowball sampling, with a voluntary, anonymous, self-administered online questionnaire completed in 2025.
+- Program scope: participants came from social science-related programs, which restricts generalizability to other educational domains such as STEM disciplines.
+- Cultural scope: only Spanish participants were surveyed, which limits applicability to culturally distinct environments where the influence of predictors on intention to use can differ.
+- The study is cross-sectional, measuring perceptions and behavior at a single point in time, and its model includes only ethical antecedents, omitting [[academic-integrity|academic performance]], institutional pressure, and digital literacy.
 ## Connected Concepts
 - [[ethics]]
 - [[academic-integrity]]

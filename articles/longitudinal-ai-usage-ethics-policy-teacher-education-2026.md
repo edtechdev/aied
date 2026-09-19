@@ -1,7 +1,7 @@
 ---
 title: "Longitudinal Insights into AI in Education: Usage, Ethics, and Policy Development in Higher Education"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
@@ -24,10 +24,19 @@ institutions: [educational-policy-ai]
 - There was a statistically significant difference in ethical perceptions between AI users and non-users.
 - Students continued using ChatGPT for coursework even as institutions considered or introduced AI-detection software, underscoring tensions between policy and practice.
 
-## Implications for AI in Education
+## What this means for practice
 
-The longitudinal design captures how GenAI use and attitudes evolve over time within a single teacher-education program, complementing cross-sectional snapshots. Because rising use coexists with persistent ethical uncertainty, the findings emphasize the need for teacher-education programs to incorporate formal, comprehensive AI training that addresses ethics rather than assuming students' practices will align with [[governance|institutional]] policy. This connects to [[ai-literacy]], [[educational-policy-ai|AI policy]], and ongoing debates about [[ai-detection|AI detection]] accuracy and its limits as a governance tool.
+- **Administrators.** Replace the assumption that policy alone governs behavior with formal, ethics-inclusive AI training inside [[teacher-education]], because ethical uncertainty persisted even as use rose.
+- **Instructors.** Make acceptable AI use explicit in each course's rules and assignments, since students continued using ChatGPT for coursework while institutions adopted detection software.
+- **Administrators.** Treat [[ai-detection|AI detection]] as one weak signal rather than a governance tool; rising detection rates may reflect rising prevalence rather than better detectors.
+- **Instructors.** Schedule explicit ethical discussion, because in every wave students who used AI rated its academic use as more ethical than students who did not.
 
+## Limitations
+
+- The study ran at a single public research-intensive university in the Midwestern United States, using purposive and convenience sampling from one teacher education program, which the authors say limits generalizability.
+- All measures come from an 11-question self-report survey vulnerable to social desirability bias, and some of the research team also taught the surveyed classes.
+- Of 423 eligible students, 319 completed the survey (about 75%), leaving only 65, 60, 96, and 98 responses across the four waves — small counts for comparing subgroups.
+- Some survey items changed across the four waves, and external factors such as specific course requirements and disciplinary norms were not accounted for.
 ## Connected Concepts
 - [[generative-ai]]
 - [[teacher-education]]

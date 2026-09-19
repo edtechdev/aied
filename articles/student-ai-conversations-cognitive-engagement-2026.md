@@ -1,7 +1,7 @@
 ---
 title: "Chat as Learning: Student-AI Conversations as Discipline-Associated Cognitive Engagement Patterns"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/student-ai-conversations-cognitive-engagement-2026.md"]
 foundations: [critical-thinking]
@@ -24,12 +24,20 @@ level: [higher ed]
 - A crossed random-effects GLMM confirmed the Social Science vs. STEM contrast (pooled OR = 1.51, 95% CI [1.33, 1.72], p < .001) and showed that course-level variance in higher-order engagement (σcourse ≈ 0.96) substantially exceeds student-level variance (σstudent ≈ 0.41), re-orienting interventions toward course-level features.
 - The automated [[llm]] Bloom classifier was validated against human coding (binary LLM–human Cohen's κ = .426–.606, best-pair consensus κ = .753), with disagreement occurring mainly on messages ambiguous to human raters as well, supporting the use of [[prompt-engineering]] traces in [[learning-analytics|learning analytics]].
 
-## Implications for Practice
+## What this means for practice
 
-- AI teaching assistants should be designed with disciplinary context in mind rather than as one-size-fits-all tools — e.g., STEM assistants might foreground procedural [[scaffolding]] and worked-example progression, while Social Science assistants might foreground argument scaffolding and perspective-taking prompts.
-- Evaluation metrics for AI teaching assistants should account for disciplinary norms: a predominantly Apply-level interaction pattern indicates productive engagement in a STEM context but might suggest insufficient depth in a Social Science context, and can be benchmarked against [[discipline-specific-aied|discipline-specific]] cognitive-engagement norms.
-- Because course-level factors (instructor [[pedagogy]], AI system prompt configuration, assessment structure) dominate student-level differences, the most informative references for an individual course and student are their discipline norm and course rather than the platform mean.
-- [[critical-thinking]] claims about student AI use benefit from process-level prompt traces: the discipline-associated, within-person patterning of prompts is inconsistent with a uniformly retrieval-only account of how students use AI.
+- **Researchers.** Treat student prompts as measurable process evidence of cognitive engagement, alongside outcome measures, but hold the line that a higher-order prompt is necessary and not sufficient evidence of learning.
+- **Researchers.** Benchmark a course and its students against the discipline norm and the course, not against the platform mean: course-level variance (σcourse ≈ 0.96) substantially exceeded student-level variance (σstudent ≈ 0.41).
+- **Designers.** Configure assistants by discipline: procedural scaffolding and worked-example progression in STEM settings, argument scaffolding and perspective-taking prompts in Social Science settings.
+- **Designers.** Treat course-level features — system prompt configuration, assessment structure, instructor pedagogy — as the primary design lever, since they carried more weight than individual student differences.
+- **Researchers.** Release the classifier specification, the human-rated validation set, and analytic scripts with published results so that Bloom classifications can be independently audited.
+
+## Limitations
+
+- Within-person samples for discipline-pair contrasts were modest (n = 6 to 16 for STEM vs. Social Sciences), and the Humanities profile rests on 3 courses, so it is reported descriptively only.
+- Cognitive engagement is indexed by Bloom's classification of prompts from 60,087 messages and 1,277 students, not by learning outcomes, and course-level factors such as AI configuration, assessment demands, and instructor pedagogy co-varied with discipline without being separately estimated.
+- The automated classifier depends on LLM inference (binary LLM–human Cohen's κ = .426–.606 at the individual level, rising to .753 under best-pair consensus), so it may carry systematic biases that differ from human judgment.
+- The corpus comes from four universities in East Asia, and the discipline-associated profiles may not transfer to other cultural and educational contexts.
 
 ## Connected Concepts
 
