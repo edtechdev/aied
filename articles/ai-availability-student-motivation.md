@@ -1,7 +1,7 @@
 ---
 title: 'Why Put in This Much Effort?": How AI Availability Shapes Students’ Motivation in Introductory Programming'
 created: "2026-06-30T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T08:04:44-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [llm]
@@ -28,13 +28,6 @@ Introductory programming is effort-intensive: learning to code requires sustaine
 - **Persistence erosion:** because [[cognitive-offloading|Over-Reliance]] and easy access reduce the need for struggle, students miss the [[productive-failure]] cycles that drive deep learning in programming.
 - **[[equity-in-ai-education|Equity]] concern:** students who consciously resist AI assistance may fall behind peers who use it to complete work faster, complicating assessment [[bias-mitigation|fairness]] and the fairness of grading in [[higher-ed]] — a dynamic with direct implications for [[academic-integrity]].
 
-## Implications for course design
-
-The study argues that instructors cannot assume motivation will survive easy AI access on its own. Two levers are central:
-
-1. **AI-resistant assessment:** redesign assessments so they measure what AI cannot trivially supply — reasoning, debugging, explaining one's own code — aligning with [[authentic-assessment]] and [[assessment-validity]] principles.
-2. **Motivation restructuring:** frame learning goals that AI cannot fulfill (deep understanding, the ability to debug and defend one's code under pressure) rather than treating output quality as the sole objective. This connects to the broader [[ai-misuse-learning-harm]] finding that the cost of bypassing effort is reduced durable learning.
-
 ## Connection to the broader knowledge base
 
 This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [[motivation]], and [[self-regulated-learning]]. Its emphasis on why *effort feels optional* links to ai-availability-student-motivation-adjacent work on the cognitive costs of AI, to [[agentic-literacy-debt]] (the cumulative skill deficit from habitual reliance), and to the socio-emotional side documented in [[shame-guilt-ai-regulation-computing-education]]. For instructors, the motivational lens complements the tool-design and assessment-design interventions in [[reducing-ai-misuse]]: students are more likely to use AI productively when they have reasons — not just rules — to do the work themselves.
@@ -43,15 +36,15 @@ This paper sits at the intersection of [[cognitive-offloading|Over-Reliance]], [
 
 - **Learners.** Do not read the availability of a shortcut as evidence that the work is not worth doing: six of the 13 interviewees questioned whether effort on an assignment was worthwhile once AI could produce it in minutes, and several strong students described the same debugging hours as demoralizing precisely because a faster route existed.
 - **Learners.** Set explicit boundaries on AI use rather than relying on willpower: 8 of 13 reported feeling less accomplished after using AI, with heavier users describing the larger loss, and the students who escaped the confidence-eroding loop were those who kept use rare and bounded.
-- **Instructors.** Assess the reasoning, not only the artifact: students' stated values were already pro-effort, so build checkpoints that make debugging, explanation, and revision visible instead of treating a working program as the evidence of learning.
+- **Instructors.** Assess the reasoning, not only the artifact: students' stated values were already pro-effort, so build checkpoints that make debugging, explanation, and revision visible instead of treating a working program as the evidence of learning — the redesign the study calls for belongs with [[authentic-assessment|authentic assessment]] and [[assessment-validity|assessment validity]], and it means framing goals AI cannot fulfill rather than treating output quality as the sole objective.
 - **Administrators.** Make the AI rules concrete and leveled, with disclosure requirements attached to each level, because participants navigated a six-level policy in this course and still described taking shortcuts "sanctioned or otherwise" when a faster option was available.
 
 ## Limitations
 
 - The study rests on 13 semi-structured interviews with engineering majors in one introductory MATLAB course at a single large public research university, conducted in the final three weeks of one semester.
 - Recruitment was voluntary and included a small extra-credit incentive toward a lab assignment; the authors acknowledge that self-selection may have biased the sample toward students with stronger opinions about AI.
-- Per the study's interpretivist design, no inter-rater reliability was calculated, prior programming experience was categorized from participants' own interview descriptions rather than a survey measure, and the authors state that causal relationships cannot be confirmed from these accounts.
-- The participant group is narrow beyond its size: 9 of 13 were White, three were first-generation students, and all were end-user programmers in engineering majors rather than computing majors.
+- Per the study's interpretivist design, no inter-rater reliability was calculated, prior programming experience was categorized from participants' own interview descriptions rather than a survey measure, and the group is narrow beyond its size: 9 of 13 were White, three were first-generation students, and all were end-user programmers in engineering majors rather than computing majors.
+- Every student was interviewed once, in the final weeks of the semester, and the protocol opened with a 60-second video demonstration of AI's programming capabilities before asking about motivation in general and then in relation to AI; the authors note this ordering may have primed AI thinking or created contrast effects, and that a single snapshot cannot show whether these patterns are stable orientations.
 
 ## Connected Concepts
 

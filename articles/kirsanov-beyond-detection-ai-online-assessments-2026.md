@@ -27,12 +27,20 @@ connected_faqs: [asynchronous-online-courses-ai]
 - **Students want guidance, not bans.** Most agreed AI is acceptable when used supportively, and many welcomed clearer citation rules and institutional guidance. Views on a blanket ban were divided.
 - **Authentic, data-rich tasks are the promising lever.** Students widely supported real-world, data-based tasks as reducing [[cognitive-offloading|over-reliance]] on AI — by design rather than deterrence.
 
-## Implications
+## What this means for practice
 
-- **Align assessment with authentic tasks and clear expectations** rather than relying on detection and deterrence.
-- **Address the [[affective-computing|affective]] barrier:** students' fear of penalty suppresses disclosure even of legitimate, supportive use — policies must signal that honest disclosure will not be punished.
-- **Provide clear citation and use guidance** so students have the framework and confidence to disclose voluntarily.
-- **Consider [[equity-in-ai-education|equity]]:** international students disclosed less, raising [[bias-mitigation|fairness]] concerns about access to and understanding of AI tools.
+- **Assessment designers.** Design real-world, data-based tasks: students widely endorsed them as a way to reduce [[cognitive-offloading|over-reliance]] on AI, making task design rather than deterrence the lever.
+- **Educators.** State explicitly that honest disclosure will not be penalized — about three-quarters of respondents feared penalties for AI use even when that use was moderate or constructive.
+- **Administrators.** Publish clear citation and use guidance so students have a framework and the confidence to disclose voluntarily instead of navigating ambiguous policy alone.
+- **Educators.** Address the access and understanding gap behind disclosure: UK nationals disclosed significantly more than international students, and only about one-third of respondents reported any AI use in online assessments.
+- **Administrators.** Shift resources from detection and deterrence toward guidance and structured regulation, which these students supported; non-disclosure here read as rational caution under ambiguous policy rather than dishonesty.
+
+## Limitations
+
+- Small single-program sample: 31 respondents, about 18% of the cohort (31/174), at one UK economics program, with potential self-selection bias; the authors state that the findings are exploratory and not generalizable beyond this setting.
+- Female and international students were somewhat over-represented among respondents relative to the cohort as a whole, which may also have shaped the patterns observed.
+- All measures are self-reported, so social desirability bias is a live risk — students may have underreported AI use or overstated ethical caution despite the survey's anonymity.
+- Perceptions were captured at a single point in time, before the release of more advanced AI tools and detection systems, and the small sample size limits the strength of any statistical claims from the exploratory regression.
 
 ## Connected Concepts
 
