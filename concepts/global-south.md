@@ -1,7 +1,7 @@
 ---
 title: Global South
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -45,6 +45,7 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[equity-in-ai-education]]
 - [[generative-ai]]
 - [[culturally-relevant-pedagogy]]

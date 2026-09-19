@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -76,6 +76,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - **Combine technical and human mitigation:** pair debiasing algorithms with human-in-the-loop oversight, especially for high-stakes or low-confidence cases.
 
 ## Connected Concepts
+- [[differential-effects-across-learner-groups]]
 - [[explainable-ai]]
 - [[guardrails]]
 

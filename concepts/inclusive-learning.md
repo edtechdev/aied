@@ -1,7 +1,7 @@
 ---
 title: Inclusive Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -74,6 +74,7 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[equity-in-ai-education]]
 - [[accessibility]] — the concrete access layer (captions, alt text, assistive-tech compatibility)
 - [[assistive-technology]] — the tool layer students use to access content

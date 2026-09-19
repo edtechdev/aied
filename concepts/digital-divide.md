@@ -1,7 +1,7 @@
 ---
 title: Digital Divide
 created: "2026-08-13T18:07:54-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13]
 type: concept
 foundations: [ai-education, ai-literacy]
@@ -51,6 +51,7 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[remote-proctoring]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]

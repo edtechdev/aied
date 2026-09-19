@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-19T04:50:00-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -87,6 +87,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[digital-divide]] — Unequal access to AI tools and infrastructure across socioeconomic lines, regions, and nations
 - [[bias-mitigation]] — Methods for detecting and correcting bias in AI tutors, scorers, and recommenders

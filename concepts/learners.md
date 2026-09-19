@@ -1,7 +1,7 @@
 ---
 title: "Learners"
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -70,6 +70,7 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[student-experience]] — How learners perceive, interact with, and are affected by AI
 - [[learner-identity]] — Who learners are becoming in relation to a discipline and to AI
 - [[agency]] — What learners still control and choose
