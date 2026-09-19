@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -66,6 +66,7 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[assessment-validity]] — Validity of interpretation in AI-ed evaluation
 - [[educational-measurement]] — Measurement theory for assessing learning
 - [[psychometrically-aware-ai]] — Applying psychometrics to AI-based assessment

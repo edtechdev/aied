@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -87,6 +87,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[authentic-assessment]]
 - [[automated-assessment]]
 - [[formative-assessment]]

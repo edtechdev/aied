@@ -1,7 +1,7 @@
 ---
 title: Meta-Analysis and Systematic Review
 created: "2026-08-14T05:24:40-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
@@ -114,6 +114,7 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[research-methods-aied]]
 - [[rct]]
 - [[ai-ed-evaluation]]
