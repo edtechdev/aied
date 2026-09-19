@@ -1,7 +1,7 @@
 ---
 title: "Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 sources: ["raw/papers/instructional-design-proficiency-masters-math-2026.md"]
 foundations: [educational-development, learning-design]
@@ -25,12 +25,20 @@ page_kind: [framework]
 - **Learning effectiveness was framed across three levels** — knowledge content, [[research-methods-aied|research]] ability, and practical ability — reflecting the training objectives of M.Ed. programs in China, with the model cultivating [[metacognition|metacognitive]] skills and self-improvement methods.
 - **A pre-class analytics routine surfaced five student difficulty types** (task comprehension ambiguity, textbook-content translation, information overload, superficial cognitive processing, and technical inefficiency), enabling stratified grouping and [[personalized-learning|personalized learning]] paths.
 
-## Implications for Practice
+## What this means for practice
 
-- **For [[teacher-education|teacher educators]]:** discipline-specific smart classroom frameworks matter — generic technology integration is less effective than tools tailored to a subject's abstraction, logic, and applicability, so M.Ed. programs should adapt technologies (including LLMs) to core disciplinary features.
-- **For [[educational-development|professional development]] and course designers:** emphasize continuous, multidimensional, actionable AI feedback over one-way [[summative-assessment|summative]] evaluation, using iterative [[learning-design]] cycles grounded in "Assessment as Learning" to build metacognitive capacity.
-- **For [[learning-design|instructional designers]]:** pre-class analytics that categorize learner difficulties can drive stratified grouping and personalized learning paths, making instruction more adaptive and data-informed.
-- **For [[ai-education|AI-supported instruction]]:** the triangulated feedback of multiple AI models offers complementary perspectives that promote critical reflection, but findings should generalize cautiously given the small (N = 68) and regionally concentrated sample.
+- **Teacher educators.** Adapt technologies to a discipline's abstraction, logic, and applicability rather than deploying generic integration, since gains appeared specifically on discipline-grounded objective design.
+- **Instructional designers.** Build a design–feedback–reflection–optimization loop into assignments by using multiple LLMs as "intelligent reviewers," which converted single-submission work into closed-loop practice aligned with Assessment as Learning.
+- **Instructional designers.** Favor continuous, multidimensional, actionable feedback over one-way summative evaluation, and keep the three-model triangulation (DeepSeek, Doubao, Kimi) rather than a single reviewer.
+- **Teacher educators.** Run pre-class analytics to surface student difficulty types and use them to stratify groups and set personalized paths, rather than assuming a uniform entry level.
+- **Instructors.** Extend interaction beyond single classroom Q&A using the smart platform's multi-turn, multimedia, and cross-forum exchanges to sustain open resource ecosystems.
+
+## Limitations
+
+- The quasi-experimental comparison rests on N = 68 mathematics education M.Ed. students in one case, and the authors note this disciplinary context constrains direct generalizability to other subject areas without further adaptation.
+- The effect size is imprecise: with Cohen's d = 0.62 at p = 0.012, the 95% confidence interval for d ranged from 0.12 to 1.12, which the authors attribute to the small sample.
+- The sample is small and strongly concentrated by region and institution, so it may not capture the diversity of mathematics M.Ed. students more broadly.
+- The comparison was between a smart-classroom experimental group (M = 84.15, SD = 6.48) and a control group (M = 80.09, SD = 6.47) drawn from the same program, so findings describe instructional-objective design scores rather than transfer to classroom teaching.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Language teachers’ AI literacy: A psychometric study based on the ED-AI framework"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
 foundations: [ai-literacy]
@@ -26,12 +26,20 @@ page_kind: [framework]
 - **Concurrent criterion validity.** TAILS subscales correlated positively and significantly (p < 0.01) with established AI self-efficacy (r = 0.476–0.661) and attitude-toward-AI measures (r = 0.491–0.690), and intercorrelations among dimensions (0.530–0.695) reflected large, theoretically coherent associations while preserving distinctiveness.
 - **Strong content validity.** I-CVI for all 30 items ranged 0.86–1.00, S-CVI/Ave was 0.98, and modified kappa values (0.86–1.00) exceeded the 0.75 threshold, supplemented by [[qualitative-research|qualitative]] expert [[feedback]] that led to rewording six items for clarity without adding or deleting any.
 
-## Implications for Practice
+## What this means for practice
 
-- **Diagnostic and evaluative use in teacher education.** TAILS can be administered at program entry to diagnose preservice teachers' strengths and needs across the six dimensions, and evaluatively after AI-focused coursework to monitor [[learning-gains|learning gains]] and guide [[professional-training|professional development]] and [[curriculum-design|curriculum]] refinement.
-- **Data-informed program and policy design.** Aggregated TAILS data support data-driven decision-making for embedding AI literacy within [[teacher-education|teacher education]] frameworks and for tracking trends across cohorts, institutions, or demographic groups, aligning with [[educational-policy-ai|educational policy]] priorities.
-- **[[scaffolding]] ethical competencies explicitly.** The Ethics dimension's salience reinforces that ethical judgment does not emerge organically from AI use; programs should systematically and explicitly scaffold fairness, accountability, bias, and [[privacy|student privacy]] into preparation rather than assume it develops.
-- **Supporting balanced, human-centered integration.** Findings underscore that AI should enrich rather than replace human interaction in communicative language learning, guiding teachers to weigh automation against authentic interaction and to contextualize tools for diverse learners, cultural settings, and subject-specific goals.
+- **Teacher educators.** Administer TAILS at program entry to diagnose preservice teachers' strengths and needs across the six ED-AI dimensions, and again after AI-focused coursework to monitor [[learning-gains|gains]] and guide [[professional-training|professional development]] and curriculum refinement.
+- **Teacher educators.** Scaffold the Ethics dimension explicitly rather than assuming it develops from AI use: ethical judgment operated as a distinct factor (α = 0.945) alongside Knowledge and Autonomy, each retaining five items.
+- **Assessment professionals.** Treat the six dimensions as separate scales — HTMT ratios of 0.613–0.874 stayed below the 0.90 threshold and intercorrelations of 0.530–0.695 supported discrimination — rather than collapsing them into one AI literacy score.
+- **Administrators.** Use aggregated TAILS data for embedding [[ai-literacy]] within [[teacher-education]] frameworks and for tracking trends across cohorts, institutions, or demographic groups.
+- **Instructors.** Keep AI as an enrichment of communicative language learning: weigh automation against authentic interaction and contextualize tools for diverse learners, cultural settings, and subject-specific goals.
+
+## Limitations
+
+- Validation rests on 422 preservice English language teachers in Indonesia (30 in the pilot, 165 in EFA, 227 in CFA), recruited by convenience sampling, so the sample is single-country and preservice only.
+- All data are self-report and, as the authors state, may be subject to social desirability bias and capture respondents' self-perceptions of [[ai-literacy]] rather than observed instructional practices.
+- No marker-variable test was conducted to quantify potential common method variance, and the study assessed neither predictive validity nor test–retest stability; the authors call for in-service validation and longitudinal designs.
+- Convergent validity is partly dependent on composite reliability, since AVE values ranged from 0.454 to 0.538 and only Ethics and Contextualization exceeded 0.50, while Cronbach's alphas above 0.90 required the authors to argue construct coherence rather than item redundancy.
 
 ## Connected Concepts
 

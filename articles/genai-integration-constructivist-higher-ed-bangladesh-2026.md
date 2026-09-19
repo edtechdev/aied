@@ -1,7 +1,7 @@
 ---
 title: "Generative Artificial Intelligence Integration in Higher Education: A Constructivist Learning Theory Approach"
 created: "2026-09-01T09:11:26-04:00"
-updated: "2026-09-01T09:11:26-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 pedagogy: [constructivist]
 technology: [generative-ai, technology-acceptance-model]
@@ -24,9 +24,20 @@ institutions: [educational-policy-ai]
 - Subjective norms and institutional technology-use provision were not significant predictors in this context.
 - Thematic analysis highlighted teachers' strong concerns about technology use, alongside positive contributions of students' technology-use provision.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study extends GenAI-adoption [[research-methods-aied|research]] to a resource-constrained developing-country context and interprets it through constructivist theory, emphasizing competency, domain relevance, and support structures. The strong role of domain-specific relevance suggests adoption strategies should tie GenAI to subject-matter [[teacher-role|teaching]] and learning rather than generic tool promotion. For [[higher-ed]] in the [[global-south]], the findings recommend enhancing university capacities through training, integrating GenAI into [[pedagogy]], and developing [[ethics|ethical]] guidelines and support for both students and teachers, while attending to teachers' expressed concerns.
+- **Instructors.** Tie GenAI use to your subject matter: domain-specific technology relevance was the strongest driver of faculty attitude (β = 0.413), so discipline-based demonstrations outperform generic tool promotion.
+- **Instructors.** Build your own competency before scaling use, since competency significantly predicted attitude toward GenAI use, which in turn strongly predicted extent of use (β = 0.556).
+- **Faculty developers.** Design training that targets capacity and [[discipline-specific-aied|domain relevance]] rather than general encouragement, because subjective norms were not significant predictors of attitude in this sample.
+- **Administrators.** Weight capacity building and [[ethics|ethical]] guidelines above infrastructure provision: institutional technology-use provision did not significantly predict use, instead, enhance university capacity through training, integrate GenAI into [[pedagogy]], and develop [[ethics|ethical]] guidelines that support students and teachers while attending to the concerns faculty raised in discussion, in this [[global-south|resource-constrained]] context.
+- **Researchers.** Test these adoption paths longitudinally, since the study is cross-sectional and itself calls for examining long-term effects on teaching outcomes and institutional readiness.
+
+## Limitations
+
+- The quantitative sample is 255 valid faculty responses drawn from four Bangladeshi universities, from 268 returned questionnaires, so the findings are bound to one national higher-education system.
+- Although sampling began with proportional stratification across ranks and institutions, the survey link was circulated through teachers' social media groups during the final week to counter non-response, so the achieved sample is partly a convenience one.
+- The qualitative component rested on four focus group discussions of six faculty members each across four selected universities, with transcripts translated from Bangla to English before thematic analysis.
+- All adoption constructs are self-reported in a single cross-sectional survey; the authors call for future research on longitudinal effects that the design cannot support.
 
 ## Connected Concepts
 - [[constructivist]]

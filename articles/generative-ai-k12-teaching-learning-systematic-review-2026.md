@@ -1,7 +1,7 @@
 ---
 title: "Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review"
 created: "2026-09-01T16:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, personalized-learning]
@@ -53,11 +53,20 @@ Integrating GAI into K-12 practice poses both pedagogical and technical challeng
 
 An innovative contribution of the review is its identification of eight specific literature gaps: (1) lack of concrete examples of AI in teaching for constructing teaching units; (2) need for practical, daily teacher training based on constant AI application; (3) skills in [[reinforcement-learning|machine learning]] and balance between disciplines, with STEM over-represented; (4) lack of studies and experiments in Europe; (5) need to define the [[teacher-role|teacher role]] and create specific pedagogical frameworks such as [[tpack]] or AI4K12; (6) inclusivity and support for students with disabilities; (7) connection with pedagogical theories and innovative methodologies; and (8) applications of emerging technologies such as wearables, [[educational-robotics|robot]] control, and mobile communication. Future research should develop comprehensive frameworks and specific training practices, address ethics and long-term impact on educational outcomes, and adopt collaborative, interdisciplinary approaches to ensure inclusive, ethical, and responsible integration.
 
-## Implications
+## What this means for practice
 
-This review provides a comprehensive landscape of [[generative-ai]] in [[k-12]] education, complementing the knowledge base's higher-education GenAI synthesis with a school-level perspective. Its eight-gap framework and four-question structure offer a useful organizing structure for the KB's K-12 GenAI coverage, and its emphasis on [[teacher-education|teacher training]], [[ai-literacy]], [[ethics]], and [[privacy]] connects directly to [[teacher-ai-competency]], [[educational-policy-ai]], and [[equity-in-ai-education]] threads.
+- **Instructors.** Build teaching units from concrete examples rather than integration strategies: the review's first identified gap is the lack of practical examples for constructing teaching units.
+- **Instructors.** Adapt AI to different learning styles and evaluate each tool continuously, replacing one-off introductions with continuous, collaborative, game-based, transparency-focused [[teacher-education|training]] grounded in daily application.
+- **Administrators.** Draft ministerial guidelines covering [[ethics]], [[privacy]], and data quality, which the review identifies alongside teacher training as the binding constraint on responsible [[generative-ai|GAI]] integration in schools.
+- **Administrators.** Fund work beyond [[stem-education|STEM]]: the reviewed literature overrepresents STEM and neglects the arts, [[humanities-education|humanities]], and creative subjects, where many experiments remain to be run.
+- **Researchers.** Work the eight identified gaps deliberately, including discipline-balanced designs, European contexts, defined [[teacher-role|teacher roles]] and frameworks such as [[tpack]], and concrete support for students with disabilities, plus designs that protect the [[self-regulated-learning|self-regulation]] and [[creativity]] the review flags as at risk from excessive AI reliance.
 
-The identified risks of excessive AI reliance and its impact on self-[[regulation]] and creativity align with the KB's [[cognitive-offloading]] and [[productive-failure]] discussions, while the call for discipline-balanced, inclusive experiments supports [[inclusive-learning]] and [[special-education]] considerations. For policy and practice, the review underscores that continuous teacher training and ministerial guidelines remain the binding constraints on responsible GAI integration in schools.
+## Limitations
+
+- The synthesis rests on 197 studies published 2016–2024, selected from 5 databases and 2 journals with inclusion criteria structured through a Mentefacto Map, and the author presents GAI in K-12 as an under-explored area rather than a settled evidence base.
+- The review's own gap analysis is a limit on what it can recommend: the corpus yielded no concrete teaching-unit examples and no practical daily-training models, so its guidance rests on integration strategies rather than demonstrations.
+- Discipline coverage is skewed toward STEM, which means claims about arts, humanities, and creative subjects are extrapolations the review asks future empirical work to test.
+- The identified gaps are described rather than quantified: the review reports no pooled effect sizes, and long-term impact on educational outcomes is named as future work rather than an established finding.
 
 ## Connected Concepts
 
