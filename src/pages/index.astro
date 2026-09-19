@@ -7,14 +7,14 @@ import siteConfig from '../config/siteConfig';
 const articles = await getCollection('articles');
 
 const toc = [
-  { text: 'Navigating the site', slug: 'navigating-the-site', depth: 1 },
-  { text: 'Chat with the knowledge base', slug: 'chat-with-the-knowledge-base', depth: 1 },
-  { text: 'Some starting points by audience', slug: 'starting-points', depth: 1 },
-  { text: 'Essential concepts', slug: 'essential-concepts', depth: 2 },
-  { text: 'Instructors', slug: 'instructors', depth: 2 },
-  { text: 'Developers', slug: 'developers', depth: 2 },
-  { text: 'Administrators', slug: 'administrators', depth: 2 },
-  { text: 'Researchers', slug: 'researchers', depth: 2 },
+  { text: 'Navigating the site', slug: 'navigating-the-site', depth: 2 },
+  { text: 'Chat with the knowledge base', slug: 'chat-with-the-knowledge-base', depth: 2 },
+  { text: 'Recommended starting points by audience', slug: 'starting-points', depth: 2 },
+  { text: 'Essential concepts', slug: 'essential-concepts', depth: 3 },
+  { text: 'Instructors', slug: 'instructors', depth: 3 },
+  { text: 'Developers', slug: 'developers', depth: 3 },
+  { text: 'Administrators', slug: 'administrators', depth: 3 },
+  { text: 'Researchers', slug: 'researchers', depth: 3 },
 ];
 
 // === RSS ===
@@ -58,7 +58,7 @@ export const GET = () => {
     Everything here is also published as machine-readable files, so you can point your preferred AI chatbot or agent at the knowledge base and get answers that cite it instead of guessing — <a href="/aied/ai">the prompts are here</a>. New pages appear in the <a href="/aied/journal">journal</a>, which has an <a href="/aied/rss.xml">RSS feed</a> if you want to follow along. For reading offline, take the <a href="/aied/aied.epub">EPUB</a> or the <a href="/aied/aied.pdf">PDF</a>.
   </p>
 
-  <h2 id="starting-points">Some starting points by audience</h2>
+  <h2 id="starting-points">Recommended starting points by audience</h2>
   <p class="intro-paragraph">
     Below are some recommended concepts to start with in this knowledge base.
   </p>
