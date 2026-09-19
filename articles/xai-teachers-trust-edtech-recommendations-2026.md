@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Explainable AI on Teachers' Trust and Acceptance of AI EdTech Recommendations: The Power of Domain-specific Explanations"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-education, teacher-role]
 technology: [machine-learning, edtech-platform, technology-acceptance-model]
@@ -28,6 +28,21 @@ methods: [mixed-methods-research, qualitative-research]
 - **Trust is dynamic and requires validation, not just explanation.** Qualitative analysis showed that for some teachers, understandability alone was insufficient to establish trust — several stressed that real classroom experience with the tool was needed before they would fully rely on it, highlighting the situated, dynamic nature of learned [[trust]] rather than a one-shot transparency effect.
 
 - **Acceptance also depends on situational factors beyond trust.** Bottom-up analysis of think-aloud protocols revealed two additional factors influencing teachers' willingness to accept AI recommendations: **pedagogical considerations** (whether the tool aligns with their approach to differentiating instruction, reported by 8 of 11) and the **workload-reduction potential** of the tool (reported by 6 of 11), which the authors treat as acceptance drivers not directly tied to trust and grounded in exploratory [[qualitative-research|qualitative]] evidence.
+
+## What this means for practice
+
+- **EdTech designers.** Ship domain-driven explanations in curricular language, not only feature importance. Moving teachers from data-driven to domain-driven explanations significantly increased understandability (W = 80.5, p = 0.005), learned [[trust]] (W = 52, p = 0.002), and acceptance (W = 22.5, p = 0.003).
+- **EdTech designers.** Design explanations to support validation rather than persuasion: five of the eleven think-aloud teachers used them to check the tool's groupings against statistics or their own subject expertise.
+- **Instructors.** Expect trust to accrue through classroom use, not from a single walkthrough. Three think-aloud teachers reported that understandability alone was insufficient and that real experience with the tool was required before they would rely on it.
+- **EdTech designers.** Do not optimize for trust alone. Pedagogical alignment with the teacher's approach to differentiating instruction (reported by 8 of 11) and workload-reduction potential (reported by 6 of 11) emerged as separate acceptance drivers.
+- **Instructors.** Pair AI training with data-fluency development so you can interrogate technical, data-driven explanations instead of relying only on the semantic layer.
+
+## Limitations
+
+- The study is small and single-context: 41 in-service high-school chemistry teachers (37 female, 4 male) working with one tool (GrouPer) in one national setting, and the authors state that the small sample size limits the generalizability of the results.
+- The within-subject staged design carries a carryover risk, since the second stage may be affected by the first; the authors explain that counterbalancing across groups was not feasible because the authenticity requirement limited the number of suitable subjects.
+- Understandability, [[trust]], and acceptance were each measured with a single 5-point item — a deliberate trade-off to keep a protocol of roughly 45 minutes from fatiguing participants — and understandability was captured as teachers' perception of a system attribute rather than the attribute itself.
+- The [[qualitative-research|qualitative]] findings come from 11 of the 41 teachers who completed a semi-structured think-aloud protocol, and the authors report only insights observed in at least three teachers, noting that teachers who did not speak to an issue may still hold an opinion.
 
 ## Connected Concepts
 

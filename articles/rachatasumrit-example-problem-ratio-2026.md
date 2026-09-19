@@ -1,7 +1,7 @@
 ---
 title: Evidence and Theory for why the Best Example-Problem Ratio To Optimize Learning Gain Depends on Knowledge Content
 created: "2026-09-03T14:03:50-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, prior-knowledge, problem-solving, transfer-of-learning]
 technology: [intelligent-tutoring]
@@ -26,6 +26,21 @@ page_kind: [synthesis]
 - **Computational error analysis isolates the mechanisms.** Inspecting simulated learners' internal states, AL made more memory-based (retrieval-failure) errors under high example-to-problem ratios and more induction-based errors under practice-only training — evidence that example study supports induction of correct mental constructs while practice testing primarily delays forgetting of acquired constructs.
 - **Testing effects do not automatically transfer to novel application.** Reviewing prior literature, the authors note retrieval-practice gains frequently fail to extend to unfamiliar problems (strengthening memory for procedures without enhancing use in new contexts), which is why practice must be paired with examples for generalizable [[transfer-of-learning|skill learning]].
 - **Implications for [[learning-design|instructional design]] and AI tutoring.** The finding that more practice is not always better argues that [[intelligent-tutoring]] and [[math-education|content]] sequencing should adapt the example–problem ratio to the knowledge component being learned — memory-oriented content warrants retrieval practice, while induction-oriented skills warrant integrated worked examples.
+
+## What this means for practice
+
+- **Instructional designers.** Set the example-to-problem ratio from the knowledge type being taught. In the experiment, practice-only training produced higher [[learning-gains|learning gains]] for verbatim facts while example-integrated training produced higher gains for generalizable skills (content–treatment interaction: β = 0.41, *p* = .038, *d* = 0.38).
+- **Instructional designers.** Do not apply a single "practice as much as possible" rule across a course. The paper resolves the contradiction between that guidance and the worked-example recommendation by showing the optimum depends on whether the knowledge component is a constant fact or a variable skill.
+- **EdTech designers.** Build ratio selection into adaptive sequencing: [[intelligent-tutoring|tutors]] should shift toward retrieval practice for memory-oriented content and toward worked-example support for induction-oriented skills rather than holding the mix constant.
+- **Instructional designers.** When the target is [[transfer-of-learning|transfer]], pair practice with examples. Retrieval practice can strengthen memory for solution procedures without improving learners' ability to apply them to unfamiliar problems.
+- **Researchers.** Model the mechanism, not only the outcome: the Apprentice Learner agents reproduced the human crossover only once a memory-and-forgetting mechanism modeled on ACT-R activation was added, and error analysis showed retrieval-failure errors rose under higher example-to-problem ratios while induction errors rose under practice-only training.
+
+## Limitations
+
+- The human experiment recruited 103 participants through Mechanical Turk for a session of roughly 20 minutes paying $3.00; 8 were excluded for failing to complete the task, leaving 95 across four conditions (n = 20 to 32), and no demographic information was collected.
+- The study tested a single short lab task — calculating the area of four geometric shapes — so it is evidence about one content domain and material set, with a power analysis that targeted a moderate interaction effect of f = 0.35 at 85% power.
+- The retention interval was not controlled: it varied with how quickly each participant answered 30 trivia questions, and the authors included its duration as a covariate precisely because prior work shows the benefit of practice is moderated by retention-interval length.
+- The simulated agents received binary corrective feedback after practice trials while the human participants completed retrieval trials without feedback; the authors argue this is unlikely to change the comparison, citing reliable testing effects under no-feedback conditions, but the two conditions were not identical.
 
 ## Connected Concepts
 

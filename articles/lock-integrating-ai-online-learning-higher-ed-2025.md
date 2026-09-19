@@ -1,7 +1,7 @@
 ---
 title: "Integrating AI in Online Learning in Higher Education: A Literature Review"
 created: "2026-09-05T14:00:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
@@ -32,6 +32,21 @@ methods: [ai-ed-evaluation]
 The authors frame implications across practice, policy, and [[research-methods-aied|research]]. **For practice:** develop AI literacy for both students and instructors, teach responsible use and [[ethics|ethical]] guidelines, and design assignments engaging students in [[critical-thinking|critical thinking]] — while never letting technology displace the human dynamic ("never let the robots take over"). [[educational-development|Educational development]] should cover AI for course development, assessment, teaching, image generation, and student-facing training. **For policy:** institutions need transparent frameworks governing data collection, storage, surveillance, and ownership, plus student-facing policies. **For research:** shift focus from creating/deploying AI to how learning is designed, facilitated, and assessed within AI-enhanced environments, including how the instructor's role and the student–instructor–technology relationship change.
 
 The article is a *critical* (narrative) literature review rather than a PRISMA [[meta-analysis-systematic-review|systematic review]]; its authors recommend a future systematic or scoping framework and broader database coverage as next steps. It complements the knowledge base's other online-learning syntheses by emphasizing the overlapping, interconnected nature of AI-integration themes in online higher education.
+
+## What this means for practice
+
+- **Instructors.** Keep a human in the workflow: pair [[generative-ai|GenAI]] with teacher tutoring rather than substituting it, since the review reports that students who used ChatGPT alongside teacher tutoring perceived greater learning and skill improvement than students using ChatGPT alone, and never release AI-generated feedback unread — the authors use a teaching-assistant vignette of "click[ing] release scores" to argue that automation without [[human-in-the-loop-ai|human-in-the-loop]] review devalues instructor–student interaction.
+- **Instructors.** Teach [[ai-literacy|AI literacy]] as the critical capacity to question how AI is designed and implemented, not just as tool-operation skill, and design assignments that require [[critical-thinking|critical thinking]] rather than content generation.
+- **Instructors.** Keep [[motivation|motivational]] regulation with the learner. The review found AI useful for [[metacognition|metacognitive]], cognitive, and behavioral regulation but not for [[motivation|motivational]] regulation, where learner identity, activeness, and position were necessary complements.
+- **Administrators.** Close the policy gap the review documents: institutions frequently lack frameworks for accountable AI deployment, and ambiguous data-ownership and retention policies enable misuse.
+- **Policymakers.** Treat equity and surveillance findings as design requirements, not caveats: AI nudges rarely benefit all learners, algorithmic scoring can penalize non-native and culturally diverse language, and heavy data collection normalizes [[remote-proctoring|surveillance]].
+
+## Limitations
+
+- This is a critical (narrative) two-pronged literature review, not a systematic or scoping review; the authors explicitly recommend a future systematic or scoping framework and narrowed 207 initial citations to 63.
+- Database coverage was limited to six ProQuest, ERIC, and EBSCO databases plus a hand-built list of 16 educational-technology journals, which the authors state should be broadened for a wider scope.
+- Inclusion was restricted to published English texts in refereed journals, books, chapters, and conference proceedings from 2020 to 2025 with a [[higher-ed|higher education]] focus, and 5 of the 63 citations reported no geographic location for the study.
+- Themes were derived by the author team's own spreadsheet synthesis rather than through a coded protocol with inter-coder agreement checks.
 
 ## Connected Concepts
 

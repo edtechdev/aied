@@ -1,7 +1,7 @@
 ---
 title: "Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI"
 created: "2026-09-03T14:20:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [self-regulated-learning]
@@ -40,6 +40,21 @@ institutions: [educational-policy-ai, governance]
 - **Person-centered vs. variable-centered:** Like [[saihi-ahmed-genai-adoption-personas-higher-ed-2026|Saihi & Ahmed's adoption personas]] and [[chen-preservice-teachers-chatgpt-lpa-2026|Chen et al.'s latent profile analysis]], the K-Means profiles reveal hidden heterogeneity that linear models miss — but here the profiles scale proportionally rather than showing divergent configurations.
 - **Contrast with the regulatory-competence critique:** [[ai-anxiety-strategic-regulation-writing-2026|Kim's]] argument that adoption models treat use as a stable decision (rather than ongoing judgment) is echoed here in the finding that ease of use is a prerequisite, not a driver — supporting the reframing of AI literacy as regulatory competence and [[critical-thinking]].
 - **Over-reliance link:** The finding that Habit is the strongest predictor connects directly to [[cognitive-offloading|over-reliance]] concerns — habitual use without [[pedagogy|pedagogical]] guidance risks substituting AI output for students' own cognitive processes.
+
+## What this means for practice
+
+- **Instructors.** Verify baseline usability before pushing adoption. Effort Expectancy was statistically insignificant in the linear model, but Necessary Condition Analysis showed that minimum levels of perceived ease of use are required before students develop high behavioral intention — so spend the first session on access, logins, and core workflows rather than assuming ease of use.
+- **Instructors.** Build repeated, structured course use into the schedule rather than leaving AI use optional: Habit was the strongest predictor of behavioral intention (β = 0.199), ahead of Performance Expectancy (0.194) and Hedonic Motivation (0.163).
+- **Administrators.** Size support to the profile distribution, not to the average: with 8.8% Resistant and 27% Late Adopters, roughly a third of students need targeted [[scaffolding]], workshops, and peer mentoring, while Technology Enthusiasts (14.2%) need critical-evaluation prompts instead.
+- **Administrators.** Do not lead the case for adoption with price or cost arguments. Price Value had a negligible influence across all analyses, whereas Facilitating Conditions (β = 0.118) were significant and necessary.
+- **Researchers.** Model [[technology-acceptance-model|acceptance]] predictors as thresholds as well as linear effects, and read the unexplained variance as a research target: the framework accounts for 67.6% of behavioral intention, leaving nearly a third to other drivers.
+
+## Limitations
+
+- Cross-sectional survey with non-probability convenience sampling at a single university (University of Alicante, first semester of 2026): 615 students were invited, 540 completed the questionnaire (87.8% response rate), and 522 valid responses were retained; eligibility additionally required prior ChatGPT experience, so students without it were excluded by design, and the authors state the single-context design limits generalization and precludes causal claims.
+- The outcome is self-reported behavioral intention, not actual use or educational outcomes, and the authors explicitly scope the findings to intention.
+- Only students' perspectives were measured; no instructors, administrators, or policymakers were surveyed, which the authors list as a gap for understanding institutional adoption.
+- Measurement caveats: the residuals departed from normality, addressed by relying on the Central Limit Theorem at n = 522, and heteroscedasticity was addressed with Davidson–MacKinnon HC3 robust standard errors.
 
 ## Connected Concepts
 

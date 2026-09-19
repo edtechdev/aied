@@ -1,7 +1,7 @@
 ---
 title: What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [curriculum-design]
 technology: [educational-nlp, learning-analytics, llm, machine-learning, multimodal]
@@ -25,6 +25,20 @@ page_kind: [evaluation]
 - **Pareto-optimal trade-offs:** considering F1 and inference time, the non-dominated models were unimodal DistilBERT and multimodal ALBERT, DistilBERT, and ELECTRA, balancing capability against the limited hardware accessible in schools.
 - **Stakeholder-facing web application:** a no-code Flask tool lets educators input text and receive Key Stage distribution, an overall reading-age score, key vocabulary (Oxford 3000 / Academic Word List) ranked by attention, curriculum-aligned linguistic-feature detection, and most/least complex excerpts.
 - **Public dataset:** a balanced 20,000-row dataset (5,000 per Key Stage 2–5) derived from Project Gutenberg books cross-referenced with Lexile scores was released under the MIT license for interdisciplinary [[research-methods-aied|research]].
+
+## What this means for practice
+
+- **Instructors.** Triage candidate texts with the toolkit's combined outputs — Key Stage distribution, reading-age score, Oxford 3000 and Academic Word List vocabulary ranked by attention, and most/least complex excerpts — instead of leaning on a single readability formula.
+- **Designers.** Choose the model by the hardware it must run on: the Pareto frontier for F1 versus inference time retained unimodal DistilBERT and the multimodal ALBERT, DistilBERT, and ELECTRA models, and fusion did not add significant latency over unimodal inference (p = 0.244).
+- **Designers.** Ship the no-code interface, not the model: the Flask tool takes pasted text and returns stage, reading age, vocabulary, and complexity signals for non-technical users such as English teachers and librarians.
+- **Researchers.** Reuse the released 20,000-row MIT-licensed dataset (5,000 excerpts per Key Stage 2–5) to test whether the fusion advantage holds on modern texts and on whole books rather than 512-token excerpts.
+
+## Limitations
+
+- The corpus is public-domain Project Gutenberg text cross-referenced with Lexile scores: 384 of the 2,009 downloaded books had a Lexile score, modern in-copyright literature is absent, and no Key Stage 1 texts were available at all.
+- Class labels were produced by converting Lexile scores into nominal Key Stages rather than by teacher or curriculum placement, and evaluation happens at the 512-token excerpt level, so results speak to fragments rather than complete works.
+- Computational limits forced subsampling of the full 515,688-excerpt corpus down to 20,000 rows (5,000 per Key Stage); the full text set was never benchmarked.
+- The linguistic modality was weak on its own (F1 = 0.392), so the headline 0.996 F1 is carried largely by the ELECTRA transformer; the authors call this unimodal linguistic weakness a scientific limitation, and the stakeholder web application had not yet been co-designed or evaluated with teachers.
 
 ## Connected Concepts
 

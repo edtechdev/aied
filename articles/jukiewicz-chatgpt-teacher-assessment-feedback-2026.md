@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback
 created: "2026-09-03T14:31:40-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [generative-ai]
 assessment: [assessment, feedback]
@@ -23,6 +23,21 @@ methods: [meta-analysis-systematic-review]
 - LLMs cannot fully replace [[teacher-role|teachers]]: performance declines for longer, multilingual, or nuanced tasks, and persistent issues include between-run inconsistency, [[hallucination-risk|hallucinations]], and feedback that is too generic or misaligned with the assigned grade.
 - No uniform grading bias emerged across studies — models were sometimes more lenient, sometimes stricter, and often avoided extreme scores.
 - LLMs can reduce teacher workload and deliver rapid, personalized [[feedback]] at scale, particularly in large or [[higher-ed|higher-education]] cohorts, while automating routine grading.
+
+## What this means for practice
+
+- **Instructors.** Reserve AI grading for closed-ended and short-answer work. Across the 42 studies, LLMs matched human evaluators on short, tightly structured tasks, but accuracy and consistency declined for longer, more open-ended, or subjective assignments.
+- **Assessment designers.** Invest in rubric and prompt design before deploying any model: detailed scoring rubrics and exemplar answers were the dominant determinants of grading accuracy and consistency, and rubric-aware prompting lifted performance in the studies reviewed.
+- **Instructors.** Calibrate per task and model version rather than assuming a fixed bias. Models were sometimes more lenient, sometimes stricter, and often avoided extreme scores, so no universal correction can be applied.
+- **Instructors.** Keep teacher verification in the loop on nuanced, multilingual, or long-form work, where between-run inconsistency, hallucinations, and feedback misaligned with the assigned grade persisted.
+- **Assessment designers.** Re-validate when the underlying model changes: newer versions (for example GPT-4 over GPT-3.5) were generally stronger but the advantage was neither universal nor guaranteed across tasks and domains.
+
+## Limitations
+
+- The review synthesizes 42 empirical studies published only after ChatGPT's launch (post-2022) and identified through one March 2025 search across four databases (Scopus, Web of Science, PubMed, EBSCO); the authors describe the results as highly heterogeneous with no clear universal trend across studies.
+- The most common quality problem among included studies was small, convenience-based, or otherwise unrepresentative samples, and several lacked sufficient reporting of analytical procedures; the Mixed Methods Appraisal Tool was applied criterion-by-criterion with no quality score computed.
+- Many included studies did not directly compare GenAI with human raters, so part of the evidence addresses whether model output looks reasonable rather than measured agreement with teacher grades.
+- The evidence is already dated by the technology: the authors note that educational research assesses earlier model versions while industry moves on to reasoning and agentic models, and that grading metrics and benchmarks change quickly.
 
 ## Connected Concepts
 - [[feedback]]

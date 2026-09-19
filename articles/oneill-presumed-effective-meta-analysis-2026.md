@@ -1,7 +1,7 @@
 ---
 title: "Presumed Effective: The Manufacturing of an Evidence Base for AI-in-Education Through Flawed Meta-Analysis"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-16T14:48:35-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, ai-education, limitations-in-aied-research]
 technology: [generative-ai]
@@ -42,6 +42,21 @@ institutions: [educational-policy-ai]
 - Retraction is necessary but insufficient: post-retraction citations continued uncorrected in 60% of sampled papers, so indexes, citation exports, and the citing literature need explicit retraction flags and notes.
 - Researchers and students should be trained to distinguish a coherent intervention-outcome relationship from a pooled average of unlike outcomes, and to question whether a tool name such as ChatGPT can carry the causal weight that a meta-analysis places on it.
 - Claims about "[[ai-education|AI in education]]" should be reframed from whether a product category works to whether a designed learning activity works, which is the question policy and practice can actually act on.
+
+## What this means for practice
+
+- **Researchers.** Before citing an AIED meta-analysis, check whether the treatment is a designed learning activity or a product name. All but two of the 14 audited meta-analyses defined the intervention as a tool such as ChatGPT or GenAI, which cannot carry a causal claim about learning — treating exposure to ChatGPT as a common intervention is, the author notes, comparable to meta-analyzing the effects of "paper."
+- **Researchers.** Treat pooled estimates as unstable until the statistics support them: reported [[limitations-in-aied-research|heterogeneity]] (I²) ranged from 77.2% to 94.4% across the 13 meta-analyses that supplied it, only two reported prediction intervals and both included zero, and 12 of the 14 meta-analyses counted multiple effect sizes from a single primary study as independent, which inflates the apparent evidence base and underestimates standard errors — and no meta-analysis met the ten-study minimum subgroup size for moderator analysis.
+- **Policymakers.** Require independent methodological vetting before an AIED meta-analysis informs procurement, grant priority, or national AI-in-education policy. The audited corpus had accumulated 2,467 combined citations by 25 July 2026 and was published by Springer Nature, Wiley, SAGE, Taylor & Francis, MDPI, and Athabasca University.
+- **Administrators.** Add explicit retraction flags and notes to indexes, reading lists, and citation exports. Wang and Fan (2025) accrued more than 500 citations before being retracted on 22 April 2026, and of 20 post-retraction citing papers sampled, 12 (60%) cited it as authoritative evidence that AI improves learning while none acknowledged the retraction.
+- **Researchers.** Ask reviewers to spot-check a sample of primary studies rather than trusting a meta-analysis's own coding. The evidentiary audit flagged 61% of the randomly selected primary studies (28 of 46), and the most common problems were dependent-variable mismatch (n = 15) and independent-variable mismatch (n = 11).
+
+## Limitations
+
+- The audit assesses threshold-level validity only — whether meta-analyses met minimum evidentiary standards — and the author states that deeper educational validity failures (whether an effect size is educationally meaningful, durable, or scalable) were minimally assessed.
+- Only part of the primary-study sample was selected randomly: 5 studies were drawn at random from each of 12 of the 14 meta-analyses (60 selections representing 46 unique publications) and 13 more were targeted for a priori suspicion. The 61% prevalence figure (28/46) applies only to the random subset; targeted counts cannot be used as prevalence estimators.
+- The corpus was not intended to be exhaustive: the study did not attempt to identify every AIED meta-analysis published during the review period, so the findings do not give the prevalence of validity failures across the field as a whole.
+- Several audit thresholds are deliberately permissive operational screening criteria rather than assertions of safe practice — for example, flagging studies that tested more than five moderator variables without adjusting the critical value.
 
 ## Connected Concepts
 

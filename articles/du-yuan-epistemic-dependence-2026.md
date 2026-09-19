@@ -1,7 +1,7 @@
 ---
 title: "Epistemic Dependence in AI-Mediated Learning"
 created: "2026-09-03T09:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [agency, ai-literacy, cognitive-offloading, theory-development-aied]
 pedagogy: [metacognition, self-regulated-learning]
@@ -63,6 +63,21 @@ The review develops implications across four levels rather than merely remediati
 ## Connections to the knowledge base
 
 This review converges with several existing threads. It resonates with [[reclaiming-epistemic-agency-co-agency-2026|Poudyal's (2026) Ecological Co-Agency Framework]], whose boundary condition of human epistemic accountability parallels the review's relational account; with [[pearls-epistemic-verification-2026|the PEARLS framework]] for verifying AI output; and with the distinction between instrumental and epistemic assistance underlying [[shaw-nave-cognitive-surrender-2026|Shaw & Nave's (2026) cognitive surrender]]. Its six diagnostic criteria offer a more granular vocabulary than "over-reliance" for judging when offloading crosses from strategic support into learning displacement, complementing the [[cognitive-offloading]] concept's treatment of over-reliance. Its treatment of AI feedback as material for judgment connects to [[ai-feedback-quality]] and [[feedback-literacy]].
+
+## What this means for practice
+
+- **Instructors.** Separate instrumental from judgment-bearing assistance when you set task rules: permit AI for generating options, translating, formatting, retrieving, and summarizing, but require learners to supply the standards by which correctness, relevance, and evidential sufficiency are judged.
+- **Instructors.** Make epistemic work visible in the assignment itself — annotate an AI response, identify its unsupported assumptions, document why a suggestion was accepted or rejected — and assess through staged drafts, source maps, oral defense, or reflective decision logs rather than the final product alone.
+- **Instructors.** Test recoverability by withdrawing the system: if a learner can reconstruct and perform the relevant reasoning with reduced support, the reliance was productive; collapse when support is removed is the diagnostic signal of harmful dependence.
+- **Researchers.** Ask which epistemic actions are preserved, transformed, or displaced rather than whether AI helps or harms on average, and use withdrawal and transfer designs to test whether learners can explain and perform the reasoning when support is reduced.
+- **Researchers.** Disaggregate outcomes by prior knowledge, language, disability, socioeconomic context, and discipline rather than reporting aggregate AI effects, since the same affordance may scaffold one learner while displacing another's judgment.
+
+## Limitations
+
+- The authors state it is a purposive critical-integrative review, not a systematic review or meta-analysis, so it claims neither exhaustive coverage nor prevalence estimates; the documented search (last updated July 2026) improves auditability but is not equivalent to systematic screening.
+- Direct evidence on long-term epistemic development is limited, so the four pathways are presented as theoretically grounded hypotheses rather than established causal effects, with mechanisms sometimes rendered intelligible from evidence in Internet search, smartphones, medicine, or aviation.
+- The field moves faster than the search cutoff, and several cited works are preprints, editorials, or conference papers whose status and arguments may change after publication.
+- The framework abstracts across systems and disciplines that differ in retrieval, provenance, personalization, and governance, and no datasets were generated or analyzed: the six criteria are diagnostic questions, not a validated psychometric scale.
 
 ## Connected Concepts
 

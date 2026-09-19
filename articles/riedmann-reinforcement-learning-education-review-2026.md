@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning in Education: A Systematic Literature Review"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, machine-learning, personalized-learning, reinforcement-learning]
 sources:
@@ -27,6 +27,21 @@ methods: [meta-analysis-systematic-review]
 - **Reward design**: Learning gain, especially normalized learning gain, was the most effective reward source (used in over half of papers reporting significant results), sometimes combined with penalties or engagement signals.
 - **Methodological concerns**: Over half of all included papers (n = 54) did not statistically analyze their results, and few used non-adaptive control groups or longitudinal designs, so the growing volume of research is not yet matched by methodological rigor. Publication-bias analyses (funnel plot, Egger's test, PET-PEESE) found no statistically significant evidence of bias but had limited power (n = 6).
 - **Best practices**: The review recommends expanding beyond STEM and younger learners, considering application context, leveraging model-free RL for [[adaptive-learning]], preferring classical RL over DRL where appropriate, incorporating learning gain into reward functions, prioritizing real-world testing against reasonable baselines (including expert-designed and non-adaptive controls), rigorous statistical evaluation, and longitudinal studies of sustained learning.
+
+## What this means for practice
+
+- **Designers.** Put learning gain — normalized learning gain in particular — in the reward function; it was the most effective reward source across the papers that reported significant results, with penalties or engagement signals added alongside rather than in its place.
+- **Designers.** Prefer classical model-free [[reinforcement-learning|RL]] (Q-learning was the most frequently used algorithm, n = 28) before reaching for deep RL: significantly more classical RL papers (61%) than DRL papers (36%) achieved superiority over their baselines.
+- **Designers.** Target guidance before content scheduling — hints, [[feedback|feedback]], and activity selection — since RL showed statistically significant superiority more often for guidance-related adaptation than for instructional sequencing.
+- **Researchers.** Design the comparison properly: RL policies outperformed only about half of expert-designed and non-adaptive baselines, so report non-adaptive and expert baselines alongside algorithmic ones instead of comparing only against weaker or random policies.
+- **Researchers.** Evaluate with real learners and over time, because roughly half of the reviewed papers evaluated live (n = 41) while others used interaction datasets or simulated students, and the field lacks longitudinal evidence that short-term interaction produces sustained learning.
+
+## Limitations
+
+- No meta-analysis could be performed: over half of the 89 papers (n = 54) reported no statistical test, most used multiple baselines and dependent variables, and within-study covariances were unavailable, so effect sizes were computed for only 15 papers, all from live evaluations.
+- Publication-bias checks had almost no statistical power — only 6 of 89 studies were eligible — and heterogeneity was extreme (Q(5) = 1407.74, p < .001, I² > 75%), so the authors state that publication bias cannot be definitively ruled out and their PET-PEESE result (t(4) = 1.34, p = .251) should be read with caution.
+- One author selected and screened the initial 184 records while only the final 89 were double-screened, and the authors acknowledge that personal bias and subjective judgment may have shaped selection and synthesis; restricting the search to peer-reviewed literature may have excluded relevant gray literature and studies using different terminology.
+- The corpus is unevenly distributed: 72 of 89 papers appeared between 2016 and 2024, applications cluster in STEM (39 papers) and college learners (n = 30), nearly half of the papers target no specific learner group, and 30% do not specify a learning environment topic.
 
 ## Connected Concepts
 

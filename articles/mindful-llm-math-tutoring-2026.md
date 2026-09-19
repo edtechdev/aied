@@ -1,7 +1,7 @@
 ---
 title: "Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-03T09:00:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [well-being]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -41,6 +41,21 @@ The authors note that limited English proficiency among students may have masked
 ## Implications for Embedding Socio-Emotional Support in AI Tutoring
 
 The study demonstrates the feasibility of integrating mindfulness into an ITS through LLM-based interaction: emotional scaffolding can be generated on demand, without trained instructors or fixed multi-session protocols. The pattern of equal learning with fewer hints and less time suggests the mindful layer may promote learning efficiency and self-regulated problem-solving behavior rather than merely improving how the tool "feels." Because [[generative-ai|LLM]] interactions can be localized and adapted in real time, they offer a scalable route to the kind of socio-emotional support that cognitive tutors have historically lacked — a direction with implications for [[math-education|mathematics education]], learner [[well-being]], and the design of [[k-12|classroom]] AI tutoring.
+
+## What this means for practice
+
+- **Instructors.** Judge a socio-emotional layer by efficiency, not just by anxiety scores: both conditions improved algebra learning and reduced executive state-math anxiety (significant time effect, F(1, 15) = 5.422, p = .034, partial η² = 0.27), but mindful-condition students reached comparable learning with less time and fewer requested hints.
+- **Instructors.** Track hint requests and time on task alongside pre/post test scores when you evaluate a tutoring change; those were the measures that separated the two conditions.
+- **Instructors.** Do not run guided breathing as an in-class group ritual without structuring it. The authors observed that the classroom setting suppressed individual, self-paced mindfulness practice (students made fun of others) and recommend assigning such activities as homework.
+- **Designers.** Fold emotional support into the existing hint and feedback loop rather than bolting on a separate chat: mindful-condition students rated "I feel supported by Matt" significantly higher, indicating that supportive wording in routine messages carries [[well-being|perceived care]].
+- **Designers.** Localize the language and check learners' proficiency before evaluating an LLM socio-emotional layer; here limited English proficiency likely masked the intervention's effects because the mindful language in hints and chat was not always understood.
+
+## Limitations
+
+- Only 42 of the 252 participating seventh graders were analyzed (18 mindful, 24 cognitive), because illness and a major subway incident canceled sessions in five of the seven classes at one international school in Japan; the authors state the smaller-than-expected sample may not generalize across contexts.
+- Students' limited English proficiency meant interface elements, hints, feedback, and chat messages were not always understood, and translation-tool use disrupted their workflow — a limitation the authors say likely masked the intervention's effects.
+- Anxiety and perceived care are self-report measures: the Abbreviated Math Anxiety Scale (trait), the STAI-6 (state), and a single item, "I feel supported by Matt," for perceived care.
+- The classroom context constrained the intervention itself: peer pressure limited engagement with individual, self-paced mindfulness practice, which the authors identify as a factor needing redesign (class-level randomization or homework delivery) in future studies.
 
 ## Connected Concepts
 - [[intelligent-tutoring]]

@@ -1,7 +1,7 @@
 ---
 title: "Transforming clicks into critical thinking: An AI-based media literacy program for children"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 technology: [generative-ai]
@@ -24,6 +24,20 @@ methods: [mixed-methods-research]
 - **Qualitative themes revealed multidimensional development**: analysis of interviews, student artifacts (posters, drawings, slogans), and classroom observations surfaced four themes — positive uses of media, awareness of negative aspects, contributions to critical media literacy, and student feedback on AI-supported instruction — showing cognitive, attitudinal, and behavioral transformation.
 - **Six domains of critical media literacy growth emerged**: digital self-protection and [[privacy|data privacy]], purposeful and responsible media use, safe communication and boundary awareness, critical evaluation and [[ai-literacy|misinformation]] awareness, online risk awareness, and media ethics and [[k-12|digital citizenship]].
 - **The 5E model operationalized AI as a [[pedagogical-agent|pedagogical agent]]**: AI tools were embedded phase-by-phase (e.g., ChatGPT for reflective questions and Q&A, Grammarly and Canva AI for content refinement, Padlet for [[peer-assessment|peer feedback]]) rather than used as isolated add-ons, with activities aligned to the Turkish Language and Social Studies curricula for [[curriculum-design|curricular]] coherence.
+
+## What this means for practice
+
+- **Instructors.** Embed AI tools at every 5E phase rather than adding them on at the end: ChatGPT for reflective questions and Q&A, Grammarly and Canva AI for content refinement, Padlet for peer feedback. The 18-hour sequenced program, not the tools in isolation, produced the gains reported here.
+- **Instructors.** Teach digital self-protection and data privacy as explicit content alongside critical evaluation: the growth themes that emerged ran from privacy and boundary awareness to misinformation and media ethics, not just bias spotting.
+- **Instructors.** Anchor the activities in the existing curriculum so media literacy is not a bolt-on; this program was aligned to the Turkish Language and Social Studies curricula and fit inside regular fourth-grade instruction without restructuring.
+- **Administrators.** Check device, connectivity, and support readiness before mandating AI-integrated media literacy, since the authors identify infrastructure and access disparities as a scalability barrier in under-resourced settings.
+
+## Limitations
+
+- Thirty-six fourth-grade students (18 experimental, 18 control) in a single public primary school in Turkey's Aegean region, assigned to condition by purposive sampling based on availability and the school's infrastructural readiness rather than at random.
+- The intervention lasted 18 hours, which the authors state may not capture long-term cognitive or behavioral change.
+- Media literacy was measured with a 12-item, 3-point Likert self-report disposition scale (Never/Sometimes/Always), and the qualitative evidence came from student reflections, posters, and observations, so response bias is possible.
+- The tools presuppose devices, connectivity, and digital-literacy support that the participating school already had; the authors flag that these disparities were not tested for scalability.
 
 ## Connected Concepts
 

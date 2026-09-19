@@ -1,7 +1,7 @@
 ---
 title: "Auto-marking short answer questions in science: The foundational years of transformer-based models from BERT to GPT-4"
 created: "2026-09-03T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [assessment, automated-assessment, automated-essay-scoring, formative-assessment]
@@ -23,6 +23,21 @@ page_kind: [synthesis]
 - **Reliability and validity concerns.** Auto-markers can learn "spurious correlations" with surface features (punctuation, grammar, wording) rather than [[assessment-validity|construct]]-relevant scientific understanding, and small input changes can produce large output differences, threatening [[educational-measurement|reliability and construct validity]].
 - **Explainability and bias gaps.** Few models could justify marks in human-comprehensible terms, GPT "rationale" generation and chain-of-thought prompting only partially address this, and [[bias-mitigation|bias]] across demographic and linguistic groups was rarely examined — undermining [[trust]] and raising [[ethics|ethical]] stakes, especially in [[summative-assessment|high-stakes]] settings.
 - **Recommendations for the field.** The authors call for more diverse and shared datasets, comprehensive evaluation frameworks (reliability, validity, fairness, explainability, robustness, practical utility), transparent and [[human-ai-collaboration|hybrid human-machine]] scoring models, rigorous bias analyses, and movement beyond simple classification toward multi-mark-point and partial-credit scenarios.
+
+## What this means for practice
+
+- **Assessment professionals.** Augment auto-markers with domain-specific data — textbooks, [[feedback|marking rubrics]], subject journals, or further pre-training — since every reviewed study that added domain knowledge outperformed models without it.
+- **Assessment professionals.** Stress-test a marker against trivial surface edits (wording, punctuation, grammar) before trusting a score: models can learn spurious correlations with surface features instead of scientific understanding, and small input changes can produce large output differences.
+- **Instructors.** Keep a human examiner in the loop and use auto-marking to support rather than replace professional judgment, above all in [[summative-assessment|high-stakes]] settings where performance drops on unseen questions or domains.
+- **Researchers.** Report fairness by demographic and linguistic subgroup and require models to justify marks in educator-readable terms; the review found that [[bias-mitigation|bias]] analysis was rarely examined and that no reviewed approach reached the standard needed for educational accountability.
+- **Assessment professionals.** Do not assume GPT-era results transfer to established corpora: no reviewed study had yet benchmarked GPT models on SciEntsBank, the dataset used by 10 of the 21 articles.
+
+## Limitations
+
+- The review rests on 21 articles drawn from a single database (Scopus) after a search that started with 252 records; the authors describe it as a scoping review with no research protocol and state that it did not comprehensively cover the available literature.
+- One researcher with data-science expertise coded all 21 articles in depth (MAXQDA 2024), and no article was removed for quality, so the charting and quality judgment rest on a single analyst.
+- Scope was deliberately narrow — English-language natural-language responses on science content (biology, chemistry, physics) tested with transformer-based technology — so other subjects, languages, and non-transformer approaches were excluded, and many models were evaluated on US-collected corpora.
+- The publication window ran from 2017 to 18 March 2024, when the authors note the 2024 data were still incomplete, so the GPT-model picture is an early snapshot.
 
 ## Connected Concepts
 
