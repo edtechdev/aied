@@ -1,7 +1,7 @@
 ---
 title: "With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education"
 created: "2026-09-10T09:00:00-04:00"
-updated: "2026-09-10T09:00:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, critical-thinking, teacher-role]
 pedagogy: [active-learning, pedagogy, self-regulated-learning, student-engagement]
@@ -39,6 +39,21 @@ A key contribution is the reflection on what makes someone a cook — or a learn
 ## Conclusion
 
 The authors argue the key is not whether students use AI but how that use shapes the learners they become. They critique media-comparison designs for confounding factors and limited insight, and urge future research toward a deeper understanding of the specific conditions under which generative AI fosters productive learning processes — moving beyond polarized narratives toward nuance.
+
+## What this means for practice
+
+- **Educators.** Classify the task by engagement mode before counting it as an improvement: a student who revises AI-generated text superficially is in the Passive/Substitution cell however fluent the output looks.
+- **Educators.** Place cross-verification and prompt-refinement tasks where students have the prerequisite knowledge and self-regulation they demand — the paper ties the "alter the recipe" scenario to knowing AI's limits, judging credible sources and comparing across references.
+- **Instructional designers.** Aim tasks at the Constructive and Interactive end — brainstorming, outlining, evaluating and building original work with AI as a sparring partner or dialogue partner — rather than guided delegation of the whole product.
+- **Instructional designers.** Design assessment that makes the process visible, since educators see the final product without knowing how much AI contributed, which is where identity and agency questions get decided.
+- **Researchers.** Stop running media-comparison designs that confound factors and instead isolate the conditions under which generative AI supports productive learning, and for whom.
+
+## Limitations
+
+- The paper is conceptual: a kitchen-appliance metaphor plus four illustrative scenarios, with no participants, intervention or outcome data.
+- The mapping of Thermomix uses onto the ICAP and SAMR cells is the authors' own construction, so the four scenarios are illustrations rather than observed or tested learning cases.
+- What the scenarios are said to require — prior knowledge, self-regulation, the ability to judge credible sources — is drawn from cited prior work rather than measured here.
+- The authors present the domains as analogous rather than equivalent, describing the appliance as "sufficiently distant" to permit reflection, so the transfer of the analogy to learning remains an argument rather than a finding.
 
 ## Connected Concepts
 - [[generative-ai]]

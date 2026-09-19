@@ -1,7 +1,7 @@
 ---
 title: "Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects"
 created: "2026-09-12T13:10:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [scaffolding, student-engagement]
@@ -55,6 +55,21 @@ A [[meta-analysis-systematic-review|systematic review]] following PRISMA, coveri
 **Structural conditions decide feasibility.** A teacher who cannot physically reach every group that needs support cannot act on what the system detects, however accurate the detection is. Time for reviewing data, class size, support personnel, device access and time for post-lesson reflection and redesign are presented as part of the intervention, not as background logistics, and evaluation of AI in schools should track whether teachers actually have the authority and time to act on what the tools surface.
 
 **Limitations.** The corpus is unevenly distributed: concentrated in mathematics and science/STEM, in middle and high school, and in Western settings, especially the United States, so the findings transfer cautiously to other subjects, elementary classrooms and non-Western contexts. Studies are spread thinly across AI system types. Most importantly, in many studies the independent effect of teacher intervention could not be separated from system design, instructional structure, student characteristics or classroom context, so the review presents its effects as conditional outcomes and its framework as an explanation of how intervention operates rather than a causal model to be verified.
+
+## What this means for practice
+
+- **Teachers.** Decide when to intervene, not just whether: the review distinguishes the moment students hit difficulty from the moment a teacher should act, and effective intervention is not always immediate.
+- **Teachers.** Translate AI output instead of relaying it — select, revise, summarize or delete chatbot feedback by students' writing level, and supply the argument-strength and text-organization feedback the system does not give.
+- **Teacher educators.** Train interpretation and judgment rather than tool operation: case-based work on translation, intervention timing and fading support, including the counterintuitive skill of delaying help so students can explore.
+- **Designers.** Design for prioritization and rejectability: recommendations teachers can accept, revise, defer or reject, and less continuous diagnostic output — more AI information is not better and can pull attention away from a teacher's own observation.
+- **Administrators.** Fund the structural conditions that make intervention possible — time to review data, class size and physical reach, support personnel, device access and post-lesson reflection time — and check whether teachers actually have the authority to act on what the tools surface.
+
+## Limitations
+
+- The review analyzed 29 studies selected from 1,565 records, with moderate screening agreement between raters (κ = 0.655 at title/abstract and κ = 0.647 at full text) and one of 30 eligible studies excluded on quality appraisal.
+- The corpus is unevenly distributed: 13 of 29 studies (44.8%) come from the United States, 20 from mathematics and science/STEM, and 19 from middle or high school, so transfer to elementary classrooms, other subjects and non-Western settings is cautious.
+- Coverage by system type is thin — 3 studies on embodied or robot-based systems and 5 on intelligent tutoring or automated feedback — leaving some designs represented by very few studies.
+- In many studies the independent effect of teacher intervention could not be separated from system design, instructional structure, student characteristics or classroom context, and teacher-side claims rest largely on perception; one large-scale quantitative study found orchestration was not directly associated with student achievement.
 
 ## Connected Concepts
 

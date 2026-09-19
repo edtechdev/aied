@@ -1,7 +1,7 @@
 ---
 title: "Against frictionless AI"
 created: "2026-09-11T12:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, metacognition, motivation, social-emotional-learning, well-being]
@@ -52,6 +52,14 @@ The organizing distinction is supplement versus substitute, applied by stage: in
 - **Corrective feedback is the thing to protect.** Sycophantic agreement is the opposite of the disagreement-and-discomfort that helps learners see the error of their ways, which connects companion-style AI directly to [[ai-sycophancy|sycophancy]] and [[trust-calibration|calibration]].
 - **Friction's erosion is motivational, not just cognitive.** The vicious-cycle argument predicts declining willingness to strive in exactly the domains where AI is most capable — a self-reinforcing dynamic that [[cognitive-offloading|offloading]] [[research-methods-aied|research]] documents from the other direction.
 - **Loneliness-as-signal reframes AI companionship in education.** If discomfort is functional feedback, then AI that soothes without [[prompt-engineering|prompting]] connection removes a developmental driver, which matters most for adolescents and emerging adults still building social capacity.
+
+## What this means for practice
+
+- **Educators.** Target moderate friction rather than a binary ban or embrace: remove overwhelming obstacles while deliberately preserving the struggling, reasoning and revising that produce comprehension, ownership and meaning.
+- **Educators.** Sequence assistance as a supplement rather than a substitute — hold the full process before offering shortcuts, the way students are still asked to show their work when calculators exist.
+- **Educators.** Protect corrective feedback as the priority: sycophantic agreement is the opposite of the disagreement and discomfort that help learners see where they went wrong, so prefer routines and tools that contest claims.
+- **Researchers.** Test the inverted-U relationship rather than assuming it: it rests on a single empirical anchor and is not quantified, so work is needed on where the optimum sits for a given learner and task.
+- **Policymakers.** Set expectations by developmental stage, since the case for preserving friction applies most to adolescents and emerging adults still building cognitive and social capacity, while later-stage learners can use AI to save time and amplify output.
 
 ## Limitations
 

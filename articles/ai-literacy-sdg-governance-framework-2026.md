@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework"
 created: "2026-09-10T09:00:00-04:00"
-updated: "2026-09-10T09:00:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design]
 ethics: [equity-in-ai-education, ethics, sustainability]
@@ -48,6 +48,21 @@ The authors conclude that literacy-based competencies should be embedded into [[
 ## Implications
 
 The framework extends [[ai-literacy]] from a classroom-based competency into a systemic driver of responsible AI governance, connecting directly to [[ethics]], [[equity-in-ai-education]], and [[educational-policy-ai|policy]]. Its emphasis on ethical reasoning and reflective thinking as predictors of trustworthy use reinforces the field's move beyond operational skill toward critical and ethical dispositions.
+
+## What this means for practice
+
+- **Curriculum designers.** Sequence AI instruction along the AIRE ladder rather than stopping at tool fluency: move learners from recognizing tools through critical evaluation to ethical synthesis and governance-level foresight.
+- **Curriculum designers.** Assess ethical reasoning and reflective thinking as named outcomes, since in this survey they were the strongest predictors of sustainable and trustworthy AI use.
+- **Policymakers.** Fund governance and accountability training ahead of more tool training: technical literacy scored highest (M = 3.87) while governance literacy scored lowest (M = 3.21) across all four professional groups.
+- **Policymakers.** Align actions with the priorities respondents themselves ranked — public awareness on SDG 16 (24.5%), curriculum training on SDG 4 (21.5%) and government policy on SDG 16 (18.8%) — when sequencing literacy investment.
+- **Researchers.** Use the ASLI and NAI indices with the AIRE taxonomy as a baseline instrument for the cross-country validation the authors call for, rather than building a new measure.
+
+## Limitations
+
+- The sample is 300 respondents from a single national context (Bangladesh); the authors state the findings should be interpreted as indicative rather than globally representative.
+- The design is cross-sectional and captures perceptions at one point in time, so the authors caution that the correlational findings "do not imply causal relationships" — the regression "predictors" describe association only.
+- All domain scores and nexus awareness are self-reported 1–5 Likert means (governance 3.21, technical 3.87), so they measure perceived readiness rather than observed capability.
+- Policymakers are only 15% of the sample (students 40%, educators 25%, professionals 20%), which the authors say limits how far governance-specific conclusions can be generalized; no IRB review was required for the minimal-risk survey.
 
 ## Connected Concepts
 - [[ai-literacy]]

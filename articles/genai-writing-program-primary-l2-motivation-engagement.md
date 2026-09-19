@@ -1,7 +1,7 @@
 ---
 title: "Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement"
 created: "2026-09-12T08:35:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 pedagogy: [motivation, scaffolding, student-engagement]
 technology: [generative-ai]
@@ -49,6 +49,21 @@ For [[scaffolding]] and assessment design, the program's structure is instructiv
 The authors also flag how much the setting mattered. Students had routine access to GenAI-enabled tablets and were already fluent with digital tools, and [[teacher-role|teachers]] provided real-time support, so participation required no additional training. Where infrastructure, familiarity or teachers' [[pedagogy|pedagogical]] awareness of AI-supported instruction are lower — particularly in many [[global-south|developing countries]] — the authors expect substantially different results, and they ask that findings be read as context-specific rather than globally generalizable.
 
 **Limitations.** The sample came from upper grades in a single primary school in China. Motivation and engagement were measured mainly by self-report, which may not capture observable classroom behavior; the authors suggest classroom observation or multi-method designs. Both Grades 5 and 6 were included but developmental differences between the grades were not examined, and the study analyzed outcome change without modeling the relationships among motivation, engagement and performance over time.
+
+## What this means for practice
+
+- **Teachers.** Design around the sequence of challenge, effort and progress instead of presenting the tool as impressive: motivation moved on the ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17) but not growth mindset (p = .239).
+- **Teachers.** Build revision against students' own drafts into the cycle. Comparing teacher and AI feedback on anonymized drafts and revisiting pre-test drafts was the structure behind the authorship awareness five interviewees described.
+- **Teachers.** Do not read enjoyment as depth: emotional and behavioral engagement improved, while cognitive (p = .056) and metacognitive engagement (p = .492) did not, so teach and check self-monitoring explicitly when the tool is available.
+- **Curriculum designers.** Give discourse-level targets their own instruction. Organization showed no group difference (p = .898) while language use improved (p = .040), so AI-supported structure analysis and paragraph reordering did not by itself lift organization.
+- **Curriculum designers.** Budget for routine device access and in-class teacher support, since the program assumed both and required no additional teacher training; the authors expect substantially different results where infrastructure or teachers' AI pedagogical awareness is lower.
+
+## Limitations
+
+- The sample is four intact classes per grade in one primary school in Eastern China (301 students, ages 10–13), and randomization was at the class level, not the student level.
+- The program ran nine weeks at one 40-minute session per week, with pre- and post-test measurement only and no delayed follow-up to test whether gains persisted.
+- Motivation and engagement were measured mainly by self-report, which the authors say "may not capture observable classroom behavior" and should be supplemented with classroom observation.
+- Interview evidence comes from 12 of the 151 experimental students, and Grades 5 and 6 were pooled after a baseline check without examining developmental differences between them.
 
 ## Connected Concepts
 

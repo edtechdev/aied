@@ -1,7 +1,7 @@
 ---
 title: "AI Agents, Joyful Assessment, and Third Space: Rethinking Assessment in the GenAI Era"
 created: "2026-09-12T19:15:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, agency, agentic-ai]
 pedagogy: [scaffolding]
@@ -70,6 +70,21 @@ The paper's research agenda is more cautious than its framing, and several items
 - **Differences that matter.** Future work should examine how, for whom and under what conditions these benefits hold, attending to student groups, disciplines, levels of study, linguistic backgrounds, disability status and technology access.
 
 **Limitations.** This is a conceptual paper, and the authors say so: it is offered as "a first conceptual step" rather than empirical evidence. The GACSS example is explicitly an illustration, not measured impact. The AI-agent literature reviewed sits mostly in the formative and relational space because studies of agents that grade work were excluded by design, so the paper says nothing about automated scoring. The authors acknowledge upfront that agents raise legitimate concerns about ethics, reliability, equity and the strength of available evidence, and note that the framework's own characteristics — safety, emotional responsiveness, empowerment, agency — are asserted rather than measured.
+
+## What this means for practice
+
+- **Instructors.** Build the agent as rehearsal, not evaluation: let students work through the difficult scenarios (an oral exam, a clinical conversation) in private, choose the order of personas and signal when each encounter ends, so the first attempt is not a verdict.
+- **Instructors.** Keep the division of labor explicit — have the agent organize evidence (rubric ratings tied to exact transcript excerpts) and keep the debrief and the judgment about what that evidence means for a given student with you.
+- **Assessment professionals.** Treat fluent output as unverified: check an agent's transcript-based report for accuracy, cultural responsiveness, accessibility and alignment with course outcomes before it informs a grade, since speed is not validity.
+- **Administrators.** Make transparency, student consent, data protection, bias review and equitable access conditions of adoption rather than safeguards added later, and measure instructor workload — a tool that improves student experience while intensifying invisible labor is not sustainable.
+- **Researchers.** Test the framework's four characteristics with specific groups and conditions (discipline, level of study, linguistic background, disability status, technology access) instead of assuming safety, emotional responsiveness, empowerment and agency transfer.
+
+## Limitations
+
+- The paper reports no empirical data: the authors describe it as "a first conceptual step," and GACSS is explicitly an illustrative design example rather than evidence of measured impact.
+- The reviewed agent literature was restricted by design to formative and relational uses, with studies where agents grade student work excluded — so the framework makes no claim about automated scoring.
+- The four characteristics (safe, emotionally responsive, empowering, agency-supporting) are drawn from prior scholarship and asserted rather than operationalized or measured, leaving no instrument for testing them.
+- The worked example is a single course context (health communication in rural Appalachia), so its persona design and sequencing choices are not shown to transfer.
 
 ## Connected Concepts
 

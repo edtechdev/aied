@@ -1,7 +1,7 @@
 ---
 title: Student Use of and Views on GenAI for Writing
 created: "2026-09-12T08:05:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -51,6 +51,21 @@ Because the appropriate policy depends on what an assignment is for, the paper o
 That last point reframes the whole issue. Practices reported here — practice questions, flash cards, elaborating on course concepts — are mostly legitimate study behaviors, and the paper argues that instructors should ask why a student is reaching for AI rather than assuming the worst. The feedback question is central: students who cannot get timely, useful feedback will find it elsewhere. The authors suggest examining the scope and tone of instructor and TA feedback as a way of reducing AI's appeal, and note that the skills worth cultivating in writing need to be chosen deliberately, then supported, given that AI use is, in a participant's words, not going anywhere anytime soon.
 
 **Limitations.** The study is exploratory and drawn from one institution's sociology students, so the survey estimates describe that setting rather than students in general; response rates varied by question, so reported sample sizes differ across results. The interview sample is small by design, and the typology is offered as a continuum rather than a validated classification.
+
+## What this means for practice
+
+- **Instructors.** State permitted and prohibited uses at the course level and require declaration of AI use: 81 percent of students had been given some guidance, but only 46 percent found it very clear and about one in four reported none or unclear guidance.
+- **Instructors.** Ask what unmet need drives a use before assuming misuse — students generated practice test questions because their professors supplied none and turned to AI for feedback they could not otherwise get.
+- **Instructors.** Choose the policy from the assignment's purpose: prohibit AI where professional writing skill is the goal but pair the prohibition with low-stakes scaffolded writing, and permit AI for feedback on already-written drafts where critical thinking is the goal.
+- **Instructors.** Split large assignments into components and scaffold feedback through the term, since time pressure and overwhelm were what interviewees described as the trigger for reaching for AI.
+- **Instructors.** Test the tools on your own course tasks, as interview participants suggested, and consider a class exercise in which students critically evaluate AI answers to course questions.
+
+## Limitations
+
+- Survey estimates come from 504 respondents among 844 invited students in sociology courses at one Canadian public research university (273 in the winter term, 231 in the summer), with a course bonus point offered regardless of consent.
+- Interview evidence rests on 12 volunteers out of 157 students contacted, spread across four focus groups of two to three students and two one-on-one interviews; 75 percent were second-year students.
+- Use and views are self-reported, and response rates varied by question, so reported sample sizes differ across results — the guidance figures, for instance, use N = 502.
+- The four-part typology is offered as a continuum rather than a validated classification, and the authors state it is not exhaustive.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AI in Particle Physics Education: Research Problems and Foundational Skills"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading, curriculum-design]
 pedagogy: [problem-solving, transfer-of-learning]
@@ -72,6 +72,21 @@ Beyond these changes, the authors pose three broader questions for the physics c
 ## Limits of the Evidence
 
 The report is a single-course, single-institution reflection rather than a controlled study: one elective course, 42 active coursework records, and no comparison condition or randomization. The mid-semester survey had 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence. The examination record is confounded by the incentive structure, the collaborative and resource-rich nature of homework, the novelty of the written exam, and the release of mock papers, and the key observation about students who could not complete standard calculations was not collected through a formal protocol. No systematic [[benchmark]] of named models, prompts, or access tiers was conducted, so resistance to a single prompt is reported as design experience rather than a durable property of the assignments — a limitation the authors underline by noting that model capability changed drastically within months of the course. The authors offer the mixed experience as a reference point for discussion, not as a causal estimate of an AI effect, which places the work firmly in the territory of [[limitations-in-aied-research]].
+
+## What this means for practice
+
+- **Instructors.** Keep at least one unaided, tools-free assessment: the 27 students who took the written examination averaged 20.6 out of 80 with only two reaching 40, and it is the only evidence the course produced about independently retrievable knowledge.
+- **Instructors.** Teach verification explicitly, because when a student lacks the physics to evaluate a generated answer the intended AI conversation degenerates into guessing at plausible but unreliable output.
+- **Instructors.** Supply the prerequisites and the time that research-shaped work needs: programming functioned as an undeclared prerequisite in the first assignment, and respondents asked for longer deadlines, clearer deliverables and dedicated help.
+- **Curriculum designers.** Design for prompt resistance but do not depend on it — by publication Codex 5.6-Sol could already solve six of the ten assignments, so the value has to lie in the reasoning and checking the task requires.
+- **Curriculum designers.** Provision access deliberately, since no licenses were provided and students used free models with strict token limits, which raised concerns about dependence and unequal access to paid models.
+
+## Limitations
+
+- One elective course (KT1 at Ruhr University Bochum, winter semester 2025/26) with 42 students who handed in at least one exercise sheet, no comparison condition and no randomization.
+- The examination record is confounded by the incentive structure: the score formula reduced the marginal value of examination points for students holding homework and bonus credit, mock papers were released, and a written examination was new to the course.
+- The mid-semester survey drew 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence.
+- The key observations — that a single prompt did not reliably solve a task, and that some students could not complete standard calculations — were not collected through a formal protocol, and no systematic benchmark of named models, prompts or access tiers was conducted.
 
 ## Connected Concepts
 - [[physics-education]]
