@@ -28,6 +28,11 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
   leaves the page saying the same thing twice under two names. A batch that added sections without checking
   produced 86 such pages. Note the legacy heading may also sit *after* practice in the page order, which is
   what a merged page must correct.
+- **Run the gates before the commit, not in the same batch as it.** A gate that fails after the commit puts a
+  known defect into history and costs a second commit to repair. Two batches in one session committed first
+  and discovered afterwards that a subagent had written a British spelling (`grey`, `modelled`) — caught only
+  because the gate ran, but the fix then needed its own commit and the branch carries a commit that failed the
+  gate at the moment it was made.
 - **Never hand-type the page list when delegating a batch.** Generate the work list from the filesystem
   (enumerate the pages that actually lack the section), verify every slug resolves to a file, write the list
   to a file, and tell each subagent to read that file. Slugs transcribed by hand into a delegation prompt do
