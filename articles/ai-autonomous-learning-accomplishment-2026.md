@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Autonomous Learning and Reduced Academic Accomplishment in Vocational Higher Education: The Mediating Role of Hardiness"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [motivation, self-regulated-learning]
@@ -39,7 +39,10 @@ The study collected survey data from 1,264 students at a vocational college in C
 
 ## Limitations
 
-The cross-sectional design precludes causal inference; the negative associations observed cannot establish that AI use causes reduced accomplishment. All constructs rely on self-report, and the sample is drawn from a single vocational college in China, bounding generalizability. Hardiness is treated as a relatively stable disposition, which may understate its plasticity over time. The study did not distinguish between different types or intensities of AI use, which could moderate the observed relationships.
+- The cross-sectional design precludes causal inference: the negative associations observed cannot establish that AI use causes reduced accomplishment.
+- All constructs rely on [[self-report-measures|self-report]], and the sample is drawn from a single vocational college in China, bounding generalizability.
+- Hardiness is treated as a relatively stable disposition, which may understate its plasticity over time.
+- The study did not distinguish between different types or intensities of AI use, which could moderate the observed relationships.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Designing AI-Supported Oral Assessment in TVET"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [design-thinking]
 technology: [human-in-the-loop-ai, llm]
@@ -47,9 +47,7 @@ The reference implementation is a browser-based Next.js application on a Postgre
 
 Because participants' voices are captured, [[privacy]] and data sovereignty are design constraints rather than compliance afterthoughts: recordings go to an Aotearoa New Zealand cloud store, encrypted at rest and deleted after 90 days or sooner, while offline assessment including LLM judgment stays on the assessor laptop and learners' phones. Adams and Riddle (2023) argue deployment should be broadly consistent with the Algorithm Charter for Aotearoa New Zealand (2020), and each participant's voice is treated as a personal and cultural expression they and their heritage carry (Te Mana Raraunga, 2018); consent to be assessed by voice is not consent to train or fine-tune AI models or to build voice profiles or biometric identifiers. The design anticipates the EU AI Act, whose Annex III classifies AI used to evaluate learning outcomes in vocational training as high risk, requiring transparency, human oversight, accuracy and bias testing. New Zealand's policy context is thinner: as of August 2026 there is no sector-specific TVET framework and the July 2025 national strategy is light-handed. One named risk is bias around accent, vocabulary and cultural expression — flagged rubric criteria included "engaging", applicable in a western context but not universally, and a review notes field was added for descriptors involving engagement or appropriate language that would affect second-language speakers.
 
-## Limitations and Directions Beyond the Workshop
-
-The authors are explicit about what the trial cannot claim. Speech-to-text accuracy constraints were not fully tested with a range of learner accents. The assessor laptop must be mains-powered during Socratic dialogue to deliver a naturally paced conversation, and TTS quality is heavily constrained by hardware memory, so the most natural experience requires more expensive, gaming-oriented hardware than the mid-range laptops used. Cultural context has been designed and tested for observer modes in long-form presentations but not used with learners in assessment; a narrative audio study comparing AI and teacher judgment is planned for late 2026. The research is single-institution and rubric-based rather than portfolio-based, and multilingual testing (English, Korean, Mandarin Chinese) has not yet reached class deployments.
+## What the work contributes
 
 What the work contributes is nonetheless specific: a method for voice assessment where AI surfaces the evidence and the teacher makes the judgment in online and offline use; a reference implementation for offline environments; and an initial demonstration of multilingual capture across two languages. The rubric schema supports NZQA Unit Standards in testing but is presented as portable to the EQF, AQF, NSQF or other national frameworks — the mechanism by which digitized oral evidence becomes transferable across standards. For [[professional-training]] in trades and service contexts, the design reframes the scalability objection to oral assessment: conducting it and grading the result can now be partly absorbed by [[conversational-ai|conversational AI]], leaving staffing and hardware rather than [[pedagogy]] as the binding constraint. AkoVoice is offered as one of the earliest demonstrations of an open, offline AI-supported oral assessment for other TVET organizations to extend.
 
@@ -63,9 +61,9 @@ What the work contributes is nonetheless specific: a method for voice assessment
 
 ## Limitations
 
-- The trial is single-institution and formative: 33 learners across four Level 3 Automotive classes and one Level 3 Engineering class at Toi Ohomai Institute of Technology, with approximately 10 percent of learners electing not to participate, and the voice assessments ran in parallel to the real assessments without counting toward summative results.
+- The trial is single-institution and formative: 33 learners across four Level 3 Automotive classes and one Level 3 Engineering class at Toi Ohomai Institute of Technology, with approximately 10 percent of learners electing not to participate, and the voice assessments ran in parallel to the real assessments without counting toward summative results; the approach is also rubric-based rather than portfolio-based.
 - Moderator mode — the role intended to surface inconsistencies between assessor judgments — has only been through preliminary testing and was not validated with a sufficiently robust sample size.
-- Speech-to-text accuracy was not fully tested across a range of learner accents, and multilingual capture has been demonstrated for English, Korean and Mandarin Chinese but has not yet reached class deployments.
+- Speech-to-text accuracy was not fully tested across a range of learner accents, and multilingual capture has been demonstrated for English, Korean and Mandarin Chinese but has not yet reached class deployments. Cultural context has been designed and tested for observer modes in long-form presentations but not with learners in assessment; a narrative audio study comparing AI and teacher judgment is planned for late 2026.
 - The most natural spoken interaction needs gaming-oriented hardware rather than the mid-range laptops used: the assessor laptop must stay mains-powered to sustain a naturally paced Socratic dialogue, and text-to-speech quality is constrained by graphics memory.
 
 ## Connected Concepts

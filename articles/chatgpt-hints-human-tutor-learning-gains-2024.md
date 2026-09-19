@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT-generated help produces learning gains equivalent to human tutor-authored help on mathematics skills"
 created: "2026-08-12T21:26:01-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
@@ -41,9 +41,19 @@ A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk work
 - ChatGPT gains were higher than human-authored gains in **all four subjects**, though not significantly separable.
 - **No significant time-on-task difference** between the ChatGPT and human conditions (both higher than control).
 
-## Implications for AI in education
+## What this means for practice
 
-The findings suggest that **[[llm]]-generated worked solutions can be as effective as human-authored tutoring content** while being produced in a fraction of the time (roughly 1/20th), opening the door to autonomous generation of effective mathematics tutoring content from arbitrary educational resources. However, the authors are explicit about caution: at a 32% raw error rate, **ChatGPT should not be used to give feedback the way a teacher or TA would** unless in a domain verified to have near-zero error. Where error mitigation cannot achieve near-zero rates, designers should frame LLM feedback as coming from an "imperfect robot" or peer-like source so students consider it critically. The error-reduction via [[hallucination-risk|self-consistency]] is central, and the findings ground the [[genai-performance-vs-learning|performance-vs-learning]] distinction by demonstrating genuine learning gains, not just performance.
+- **Designers.** Generate first-draft worked-solution hints with an [[llm]], then run [[hallucination-risk|self-consistency]] — prompt each problem repeatedly and serve the modal answer — before students see them: this took the raw 32% hint-error rate to near zero in the three algebra subjects and 13% in statistics.
+- **Designers.** Keep a human quality-check step wherever near-zero error is not achievable; manual checking averaged 37.6 seconds per hint, cheap enough to run across a full content library.
+- **Instructors.** Where verified error rates are not near zero, present AI help as coming from an "imperfect robot" or peer-like source so students evaluate it critically instead of treating it as authoritative.
+- **Designers.** Treat LLM-authored hints as a candidate replacement for costly human authoring only after re-testing error rates in the target domain: disqualification ranged from 25% in Elementary Algebra to 47% in Intermediate Algebra even though generation cost roughly 1/20th of human authoring.
+
+## Limitations
+
+- Participants were 274 crowdsourced Mechanical Turk workers (all MTurk Masters with at least a high-school degree), not in-situ secondary or post-secondary students.
+- Problems containing graphical figures were excluded because the ChatGPT version available at the time could not accept image input, so the corpus covers text-only problems only.
+- The study relied on a closed-source model (ChatGPT 3.5) whose weights are not public, leaving the generation pipeline unreproducible with open alternatives.
+- Attrition was high at 30%, though roughly even across conditions (36–43 excluded participants per condition), and the scope was limited to secondary and early post-secondary mathematics.
 
 ## Connected Concepts
 

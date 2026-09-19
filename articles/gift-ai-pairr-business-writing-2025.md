@@ -1,7 +1,7 @@
 ---
 title: "GIFT-AI: Teaching the Game and Leveling the Field: Peer and AI Review + Reflection in a Business Writing Course"
 created: "2026-08-13T17:57:54-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -30,9 +30,13 @@ level: [higher ed]
 
 This is a Brief [[research-methods-aied|Research]] Report presenting the PAIRR model applied to a face-to-face and hybrid upper-division Business Writing course over a 10-week term at a public R1 university in the western U.S. The course (enrollment capped at 25) serves students majoring in management, economics, communications, and related fields. In 2024, 57% of students identified as Asian or Pacific Islander and 69% as multilingual; six were international students, 26% first-generation, 48% on financial aid. Students completed five major assignments (Job/Grad School Application, Internal Memo, Feasibility Study, Proposal, and a 5-minute Proposal Pitch), each requiring a draft, audience analysis, formal peer review by 2–3 peers, and revision. Data and findings draw on the larger PAIRR study (Sperber et al., 2025; N=654) and course-specific reflections, analyzed thematically following Saldaña in MaxQDA, with a focus on the Business Writing course and three multilingual international student profiles.
 
-## Implications for AI in Education
+## What this means for practice
 
-The article offers a tested, evidence-based [[curriculum-design|curricular]] model for integrating AI into [[writing-education|professional writing]] instruction — directly relevant to [[peer-assessment]] and [[formative-assessment]]. It addresses workforce demands (employers rank written communication and [[problem-solving]] highly; AI literacy is now a required "technical skill") by building students' [[ai-literacy]] and communication skills in tandem. For [[student-experience|educational equity]], it argues that underprepared students are less likely to use AI and more likely to misuse it, and that guided AI literacy instruction can "level the playing field" while "teaching the game" of appropriate AI collaboration. It positions AI as a machine tutor (not a teacher replacement), re-centering [[human-in-the-loop-ai|human-in-the-loop]] writing instruction and human relationships, consistent with findings on [[cognitive-offloading|Over-Reliance]] risk, and connects to multilingual writing, linguistic justice, and [[academic-integrity]] in the AI era.
+- **Instructors.** Adopt the PAIRR sequence on major assignments: peer review of a full draft, then criteria-based chatbot feedback on the same draft, then a written comparison of the two, a revision plan, the revision, and a second reflection on which feedback changed what.
+- **Instructors.** Assign the chatbot a supportive peer-reviewer role with explicit criteria and tell students it can be wrong: in the thematic coding of 131 reflections from the larger 654-student study, one quarter expressed skepticism about or noted inaccuracies in [[ai-feedback-quality|AI feedback]].
+- **Instructors.** Have students weigh both sources instead of picking one: when peer and AI feedback agreed, students found it reassuring, and when they differed, each source usually supplied complementary advice.
+- **Instructors.** Route context-heavy judgment to people and sentence-level work to the tool: students reported that peers understood assignment and course context better, while AI feedback was constructive and actionable.
+- **Instructors.** Treat guided AI use as an equity measure and keep it opt-in: underprepared students appear less likely to use AI and more likely to misuse it, so teach the criteria explicitly and let students who decline work with peer review alone.
 
 ## Limitations
 

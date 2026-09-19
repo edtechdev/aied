@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [constructivist]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, simulation]
@@ -48,8 +48,10 @@ The review documents a notable paradox: constructivist theories are espoused in 
 
 ## Limitations
 
-The review restricted its search to English-language, peer-reviewed journal articles, likely excluding gray literature and non-English work — a notable gap given the applied, [[project-based-learning|project-based]], and often locally documented nature of VET interventions. The database-dependent search may underrepresent regions with distinct publication cultures (partly explaining the Asia/Europe concentration), and the use of Elicit as an AI-assisted discovery tool constrains full reproducibility because retrieved outcomes depend on probabilistic ranking mechanisms and database coverage changes. Finally, the heterogeneity of included studies and frequent lack of transparency about AI implementations and instructional designs required interpretive judgment in coding, despite double-coding and consensus-based resolution of discrepancies.
-
+- The review restricted its search to English-language, peer-reviewed journal articles, likely excluding gray literature and non-English work — a notable gap given the applied, [[project-based-learning|project-based]] and often locally documented nature of VET interventions.
+- The database-dependent search may underrepresent regions with distinct publication cultures, partly explaining the Asia/Europe concentration.
+- The use of Elicit as an AI-assisted discovery tool constrains full reproducibility, because retrieved outcomes depend on probabilistic ranking mechanisms and database coverage changes.
+- The heterogeneity of included studies and frequent lack of transparency about AI implementations and instructional designs required interpretive judgment in coding, despite double-coding and consensus-based resolution of discrepancies.
 ## Connected Concepts
 
 - [[professional-training]]

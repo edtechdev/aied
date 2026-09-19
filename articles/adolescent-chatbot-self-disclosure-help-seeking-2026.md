@@ -1,7 +1,7 @@
 ---
 title: "Turn to chatbots for sharing feelings or seeking solutions? Differential associations of preferences for chatbot-mediated self-disclosure and instrumental help-seeking with adolescent interpersonal behaviors in the United States and Hong Kong"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [conversational-ai, llm]
 stakeholders: [learners, parents-and-families]
@@ -64,7 +64,10 @@ The cross-national divergence is explained culturally, not clinically. East Asia
 
 ## Limitations
 
-The design is cross-sectional and correlational, so no temporal ordering or causal claim survives; the authors note that coping styles and behavior could equally shape conversation preference, and call for experimental or longitudinal work. Recruitment was an online panel limited to the United States and Hong Kong, exposed to self-selection and to whatever coverage Qualtrics achieves in each market, with [[k-12|school]]- or community-based sampling recommended for future studies. All measures were [[self-report-measures|self-reported]], inviting recall bias and social desirability, and bullying perpetration in particular is likely under-reported. The predictor was a single open-ended item about willingness, not behavior: the survey never established whether or how frequently participants used a chatbot, so everything the paper says about chatbot responses, [[ai-sycophancy]] or emotional responsiveness is an interpretation of a disposition rather than of an interaction, and the cultural and self-focus mechanisms are offered as tentative explanations. The coding also forced each adolescent into one of three categories by predominant theme, erasing mixed motives, and the two samples differ in gender composition (US 66.6% female, Hong Kong 69.9% male) with only age and gender controlled. No data were collected on which platforms adolescents used, so the authors explicitly warn that companion-style applications with stronger relational affordances may produce different patterns than the general-purpose assistants named in the prompt.
+- The design is cross-sectional and correlational, so no temporal ordering or causal claim survives; the authors note that coping styles and behavior could equally shape conversation preference, and call for experimental or longitudinal work.
+- Recruitment was an online panel limited to the United States and Hong Kong, exposed to self-selection and to whatever coverage Qualtrics achieves in each market, with [[k-12|school]]- or community-based sampling recommended for future studies; the two samples also differ in gender composition (US 66.6% female, Hong Kong 69.9% male) with only age and gender controlled.
+- All measures were [[self-report-measures|self-reported]], inviting recall bias and social desirability, and bullying perpetration in particular is likely under-reported; the predictor was a single open-ended item about willingness, not behavior, so the survey never established whether or how frequently participants used a chatbot, and everything the paper says about chatbot responses, [[ai-sycophancy]] or emotional responsiveness is an interpretation of a disposition rather than of an interaction, with the cultural and self-focus mechanisms offered as tentative explanations.
+- The coding forced each adolescent into one of three categories by predominant theme, erasing mixed motives, and no data were collected on which platforms adolescents used, so the authors explicitly warn that companion-style applications with stronger relational affordances may produce different patterns than the general-purpose assistants named in the prompt.
 
 ## Connected Concepts
 

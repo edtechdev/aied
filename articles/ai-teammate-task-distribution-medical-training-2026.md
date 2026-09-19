@@ -1,7 +1,7 @@
 ---
 title: "AI as Teammate: Rethinking Task Distribution in Medical Training"
 created: "2026-08-31T09:06:11-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading]
 pedagogy: [metacognition, sociocultural-learning]
@@ -47,7 +47,7 @@ The paper illustrates how trajectories of skill acquisition and failure operate 
 
 The authors identify **passive [[student-engagement|engagement]]** within correctly classified AI-scaffolded tasks as a particularly insidious, detection-resistant pathway to mis-skilling. This requires re-identifying the subzone — shifting from AI assistance to expert assistance, with human experts serving as [[human-in-the-loop-ai|epistemic auditors]].
 
-## Implications for Curriculum, Supervision, and Assessment
+## What the reframing changes
 
 SCAN is operationalized for clinical [[curriculum-design|curriculum design]], supervision, and [[assessment]]. The shift from misuse to misclassification is not merely semantic: it gives educators a concrete perspective on what to look for, what to assess, and what to intervene on. The framework grounds [[intelligent-tutoring|AI tutors]] in a theory of learning rather than treating them as generic productivity tools, and it connects [[cognitive-offloading]] concerns to the developmental state of the individual learner.
 

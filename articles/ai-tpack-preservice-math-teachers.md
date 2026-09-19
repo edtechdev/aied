@@ -1,7 +1,7 @@
 ---
 title: "AI literacy-related domains and AI-TPACK readiness among preservice mathematics teachers: A factor-informed structural equation modelling study"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 research_method: [survey]
@@ -41,8 +41,10 @@ The study is described as factor-informed: AI-literacy-related domains were trea
 
 ## Limitations
 
-The study is cross-sectional and based entirely on self-report, so structural paths should not be interpreted causally. The sample came from one university context and was modest for a complex latent-variable model, and the EFA-informed refinement, CFA, discriminant-validity diagnostics, and SEM were all conducted on the same N = 130 dataset rather than split into development and validation samples; lavaan produced near-singular variance-covariance warnings in some models. Measurement evidence was not uniformly strong — information-source engagement had weak AVE and support/enablers was marginal, with mixed discriminant validity — so the broader AI-literacy domains should not be treated as fully validated dimensions. The study also did not measure [[cognitive-offloading|cognitive load]], classroom performance, observed AI use, or longitudinal development, leaving open whether the identified predictors translate into actual pedagogical practice.
-
+- The design is cross-sectional and based entirely on self-report, so structural paths should not be interpreted causally.
+- The sample came from one university context and was modest for a complex latent-variable model, and the EFA-informed refinement, CFA, discriminant-validity diagnostics and SEM were all conducted on the same N = 130 dataset rather than split into development and validation samples; lavaan also produced near-singular variance-covariance warnings in some models.
+- Measurement evidence was not uniformly strong — information-source [[student-engagement|engagement]] had weak AVE and support/enablers was marginal, with mixed discriminant validity — so the broader AI-literacy domains should not be treated as fully validated dimensions.
+- The study did not measure [[cognitive-offloading|cognitive load]], classroom performance, observed AI use or longitudinal development, leaving open whether the identified predictors translate into actual pedagogical practice.
 ## Connected Concepts
 
 - [[math-education]]

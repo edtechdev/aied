@@ -1,7 +1,7 @@
 ---
 title: "AI in Particle Physics Education: Research Problems and Foundational Skills"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading, curriculum-design]
 pedagogy: [problem-solving, transfer-of-learning]
@@ -57,7 +57,7 @@ The examination scores were not obtained under neutral inputs, and the authors a
 
 Those caveats do not make the record irrelevant. The 27 students who took the examination received a mean score of 20.6 out of 80, and only two reached 40 points. Many students left problems unattempted because their homework scores had already secured passing the threshold, which skewed the mean downward. The instructor also observed that some students who needed examination points and made a serious attempt were unable to complete standard calculations. That observation was not collected through a formal protocol, but it made the low record difficult to dismiss as incentive alone, and the examination became a serious warning about students' unaided performance — a failure of [[transfer-of-learning]] from resource-rich homework to independent [[problem-solving]] under [[assessment|exam conditions]].
 
-## Implications for Assessment and Course Design
+## Design rationale, the next iteration, and open questions
 
 The experience reinforced a well-established distinction: assisted performance is not the same as independently retrievable knowledge, so [[generative-ai]] may act as an effective tutor while students still need dedicated unaided practice to obtain foundational knowledge. The authors argue the prevalent educational criterion should be whether a student can recall and apply knowledge without aid, as a written examination does. They cite experimental evidence outside the course that unrestricted access to answers can decrease long-term learning outcomes, a physics-specific study in which students using unrestricted ChatGPT frequently accepted incorrect answers and relied on direct copy-and-paste queries, and a contrast case in which a purpose-built, scaffolded [[intelligent-tutoring|AI tutor]] improved immediate learning relative to an in-class [[active-learning]] lesson. Together these point toward [[desirable-difficulties]], [[scaffolding]], and [[help-seeking]] design rather than unrestricted access.
 
@@ -69,10 +69,6 @@ The plan for the next KT1 course reflects three changes, all of which reduce the
 
 Beyond these changes, the authors pose three broader questions for the physics community: what foundational knowledge future physicists should be able to reproduce unaided; to what extent research-shaped tasks belong in an undergraduate course; and how [[physics-education]] should cultivate commonly required scientific skills. They also argue that [[ai-literacy]] should be taught early, including how to verify generated answers and how to use AI as a teacher instead of blindly copying its output, and that exposure to research problems and foundational knowledge are distinct educational achievements that cannot be assumed to train or demonstrate one another.
 
-## Limits of the Evidence
-
-The report is a single-course, single-institution reflection rather than a controlled study: one elective course, 42 active coursework records, and no comparison condition or randomization. The mid-semester survey had 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence. The examination record is confounded by the incentive structure, the collaborative and resource-rich nature of homework, the novelty of the written exam, and the release of mock papers, and the key observation about students who could not complete standard calculations was not collected through a formal protocol. No systematic [[benchmark]] of named models, prompts, or access tiers was conducted, so resistance to a single prompt is reported as design experience rather than a durable property of the assignments — a limitation the authors underline by noting that model capability changed drastically within months of the course. The authors offer the mixed experience as a reference point for discussion, not as a causal estimate of an AI effect, which places the work firmly in the territory of [[limitations-in-aied-research]].
-
 ## What this means for practice
 
 - **Instructors.** Keep at least one unaided, tools-free assessment: the 27 students who took the written examination averaged 20.6 out of 80 with only two reaching 40, and it is the only evidence the course produced about independently retrievable knowledge.
@@ -83,10 +79,10 @@ The report is a single-course, single-institution reflection rather than a contr
 
 ## Limitations
 
-- One elective course (KT1 at Ruhr University Bochum, winter semester 2025/26) with 42 students who handed in at least one exercise sheet, no comparison condition and no randomization.
+- One elective course (KT1 at Ruhr University Bochum, winter semester 2025/26) with 42 students who handed in at least one exercise sheet, no comparison condition and no randomization. The authors offer the mixed experience as a reference point for discussion, not as a causal estimate of an AI effect.
 - The examination record is confounded by the incentive structure: the score formula reduced the marginal value of examination points for students holding homework and bonus credit, mock papers were released, and a written examination was new to the course.
 - The mid-semester survey drew 30 complete responses with an unknown eligible denominator, and it measured perceptions rather than demonstrated competence.
-- The key observations — that a single prompt did not reliably solve a task, and that some students could not complete standard calculations — were not collected through a formal protocol, and no systematic benchmark of named models, prompts or access tiers was conducted.
+- The key observations — that a single prompt did not reliably solve a task, and that some students could not complete standard calculations — were not collected through a formal protocol, and no systematic [[benchmark]] of named models, prompts or access tiers was conducted, so prompt resistance is reported as design experience rather than a durable property of the assignments; model capability also changed drastically within months of the course, which places the work in the territory of [[limitations-in-aied-research]].
 
 ## Connected Concepts
 - [[physics-education]]

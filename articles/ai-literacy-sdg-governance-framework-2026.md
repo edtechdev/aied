@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework"
 created: "2026-09-10T09:00:00-04:00"
-updated: "2026-09-19T09:52:14-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design]
 ethics: [equity-in-ai-education, ethics, sustainability]

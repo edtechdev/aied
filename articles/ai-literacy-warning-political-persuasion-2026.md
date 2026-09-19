@@ -1,7 +1,7 @@
 ---
 title: A light-touch AI literacy intervention helps protect against AI political persuasion
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
 technology: [conversational-ai, generative-ai, llm]
@@ -42,26 +42,18 @@ Disclosing the model's actual persuasive intent — the intuitively stronger int
 
 The authors report no significant reduction in overall trust in generative AI from before to after the conversation (b = −0.83 points on a 0–100 scale, [−2.35, 0.69], z = −1.07, p = 0.28). They read this as evidence the treatment was targeted — protecting against political persuasion specifically rather than producing blanket [[anxiety-and-stress|skepticism about AI]]. Their stated goal is making people more discerning rather than more generally distrustful, and they flag future work on effects in prosocial persuasion settings and on domains such as conspiracy theories where the task is changing factual beliefs rather than contested political attitudes.
 
-## Limits
-
-Several cautions matter for anyone citing this in a [[curriculum-design|curriculum]] argument. The effect is a reduction, not elimination — AI persuasion still moved attitudes in warned conditions. The topics were contested political issues with reasonably compelling arguments on both sides, so transfer to factual-belief domains is untested. Post-randomization attrition in Study 2 was non-trivial (7.9% control, 10.3% general, 11.6% specific) and the specific-warning arm's differential-attrition test was marginal (p = 0.064), though excluding that arm leaves the pooled estimate nearly unchanged. Both models tested (GPT-4.1, Grok 4.5) are 2025–2026-era systems, and the sample was US adults recruited online, not students in formal education.
-
-## What This Implies for AI Literacy Instruction
-
-The educational reading is that a one-paragraph [[ai-literacy|AI literacy]] intervention, delivered before a learner starts interacting with a [[generative-ai|generative AI]] system, is a plausible and extremely cheap protective layer — no training, no facilitation, no software change, and in this study no collateral damage to learners' willingness to use AI at all. It slots naturally into the awareness-raising tier of [[ai-literacy|AI literacy]] frameworks rather than replacing deeper [[critical-thinking|critical thinking]] or source-evaluation work, and it pairs with warnings about [[hallucination-risk|hallucination risk]], which have separately been shown to shift learner behavior. Two caveats for practice: the study measured short-run attitude protection, not durable transfer, and the warning tells learners about incentives to persuade but gives them no method for detecting it, which is where [[refutation-text|refutation-based]] and [[misconceptions|misconception]]-correcting approaches still carry the load.
-
 ## What this means for practice
 
 - **Instructors.** Deliver the warning before students open the chatbot, not after: the short paragraph used in this study — that LLMs can be prompted to persuade and may present information selectively — cut the persuasive effect of a conversation by 48.1% (95% CI [−59.5%, −36.8%]) at no cost in preparation time, training or software.
-- **Instructors.** Keep AI debate, policy-writing and role-play tasks in the curriculum but pair them with the warning, since warned participants were still moved by the AI — the treatment reduced persuasion rather than eliminating it.
+- **Instructors.** Keep AI debate, policy-writing and role-play tasks in the [[curriculum-design|curriculum]] but pair them with the warning, since warned participants were still moved by the AI — the treatment reduced persuasion rather than eliminating it.
 - **Designers.** Skip elaborate intent-disclosure interfaces: a specific warning that told participants which side the model had been instructed to argue performed no better than the generic paragraph (difference not significant, p = 0.86).
-- **Administrators.** Put the warning in front of every AI interaction rather than in a one-off orientation, and treat it as an awareness-raising layer that does not require students to distrust [[generative-ai|generative AI]] generally — overall trust did not fall (b = −0.83 points on a 0–100 scale, p = 0.28).
-- **Researchers.** Test transfer to factual-belief tasks and to classroom populations: this study used contested political issues and US adults recruited online, and the warning tells learners that persuasion is possible without giving them any method for detecting it.
+- **Administrators.** Put the warning in front of every AI interaction rather than in a one-off orientation, and treat it as an awareness-raising layer rather than a substitute for deeper [[critical-thinking|critical thinking]] and source-evaluation work, and as one that does not require students to distrust [[generative-ai|generative AI]] generally — overall trust did not fall (b = −0.83 points on a 0–100 scale, p = 0.28).
+- **Researchers.** Test transfer to factual-belief tasks and to classroom populations: this study used contested political issues and US adults recruited online, and the warning tells learners that persuasion is possible without giving them any method for detecting it, which is where warnings about [[hallucination-risk|hallucination risk]] and [[refutation-text|refutation-based]] and [[misconceptions|misconception]]-correcting approaches carry the load.
 
 ## Limitations
 
 - **Online adult sample, not students.** Both experiments recruited US adults through CloudResearch Connect — 1,992 of 2,361 recruits in Study 1 and 1,216 of 1,555 in Study 2 — so no participants came from a course or school setting.
-- **Post-randomization attrition.** Study 2 lost 7.9% of the control arm, 10.3% of the general-warning arm and 11.6% of the specific-warning arm, and the differential-attrition test for the specific-warning arm was marginal (p = 0.064).
+- **Post-randomization attrition.** Study 2 lost 7.9% of the control arm, 10.3% of the general-warning arm and 11.6% of the specific-warning arm, and the differential-attrition test for the specific-warning arm was marginal (p = 0.064), though dropping that arm leaves the pooled estimate nearly unchanged.
 - **Reduction, not elimination, on self-reported attitudes.** The pooled estimate is a 48.1% reduction in attitude change measured by pre-to-post self-report after a single conversation of at least three exchanges, so nothing is known about persistence beyond the immediate post-test; the general warning alone was only marginal in Study 2 (b = −3.23, p = 0.053).
 - **Contested topics and current models only.** Outcomes were contested political issues with defensible arguments on both sides, the two systems tested were GPT-4.1 and Grok 4.5, and the paper states it has not yet undergone peer review.
 

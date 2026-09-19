@@ -1,7 +1,7 @@
 ---
 title: "From Prompt to Embodied Simulation: Using Generative AI to Create AR Physics Learning Tools"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T04:50:05-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [generative-ai, prompt-engineering, simulation]
 research_method: [system development, case study]
@@ -62,13 +62,20 @@ The wave-and-lamp simulation was pilot-tested with 29 second-year medical-imagin
 
 Three themes recur in the open answers: *feeling the wave* ("it entered my mind through using my own body to understand it"), the *learning curve of hand tracking* (camera recognition takes a few tries, but one student noted this made the simulation "more of an experience"), and the *lasting trace* the experience leaves ("when I get to the exam, I will move my fingers in my head"). Some students needed help to understand the lamp's meaning, and a minority found the gesture unnatural. These results are encouraging but were obtained on a small sample without a comparison group.
 
-## Implications
+## What this means for practice
 
-- **Lowering the production barrier for embodied tools.** The four-element prompt structure demonstrates that creating working, hand-controlled [[simulation|simulations]] no longer requires rare programming skills — [[generative-ai|generative AI]] can put embodied AR within reach of teachers and students, an [[accessibility]] gain for [[stem-education|STEM]] content creation.
-- **A concrete case for [[embodied-learning|embodied cognition]] in practice.** The paper operationalizes sensorimotor learning research, with gesture controlling physical quantities directly rather than through an abstract slider, and offers a reusable template others can adopt and adapt.
-- **Iterative refinement as [[scaffolding]].** The short run–observe–correct loop models how teachers can [[prompt-engineering|scaffold prompt development]] and validation as part of student activity, with learners generating, testing, and refining their own tools.
-- **Cautious, preliminary evidence.** Strong positive engagement and reported "feeling" of concepts are based on a small, single-class, non-comparative sample measuring perceptions only — follow-up work needs controlled comparisons of the embodied interface against other tools, and of which topics benefit most.
-- **Reduced technical barriers invite further research.** Because AR interfaces can now be produced locally and cheaply, the authors argue, questions about the contribution of embodiment to learning are now much easier to examine.
+- **Teachers.** Use the four-element prompt (tools, display, hand controls, optimization) to generate a browser-based AR simulation for your own topic, then refine it in a short run–observe–correct loop instead of writing code.
+- **Teachers.** Build the gesture into the physics: let a hand motion drive the quantity directly, as the pinch-and-spread gesture tuned amplitude and wavelength, rather than defaulting to an abstract slider.
+- **Teachers.** Validate every generated tool on three levels before classroom use — technical (tracking holds in ordinary lighting, drawing moves with the hand, motion is smooth), physical (relations between quantities are correct), and pedagogical (the gesture is natural and does not compete with the physics for attention).
+- **Students.** Generate, test, and refine your own simulations as part of the activity, since the reduced technical barrier puts tool creation within reach of learners and not only teachers.
+- **Teachers.** Prepare for the hand-tracking learning curve and for a minority who find the gesture unnatural, and explain plainly what each visual object represents so no student decodes it only after a peer does.
+
+## Limitations
+
+- The pilot covered 29 second-year medical-imaging students in a single introductory radiation-physics class with no comparison group, so it cannot attribute a learning effect to the AR interface.
+- The instrument measured attitudes, perception, and engagement on nine 1–5 items rather than understanding or achievement, so the reported means (e.g., 4.52 for feeling wavelength, 4.59 for amplitude) describe how students felt, not what they learned.
+- The demonstration covers one topic (wave and lamp) and one gesture, and the mapping is qualitative and meant for teaching rather than a quantitative model of an electromagnetic field.
+- Reliable hand tracking took several attempts in practice, and the interface depends on a working camera and ordinary classroom lighting, so results are tied to that implementation context.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Cultivating Design Creativity of Vocational Students: A Model of Project-Based Learning in AI-Enabled Immersive Virtual Environments"
 created: "2026-09-16T00:58:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [agentic-ai, design-thinking]
 pedagogy: [collaborative-learning, creativity, embodied-learning, project-based-learning, student-engagement]
@@ -54,7 +54,10 @@ For [[professional-training|vocational and professional education]], the model's
 
 ## Limitations
 
-The study relies exclusively on [[self-report-measures|self-report]] questionnaires, with no performance artifacts, log data, or expert ratings of student designs. The innovative-thinking subscale is brief with a limited response range, which the authors concede may attenuate detectable effects over a 12-week intervention. Measurement was confined to a single course, limiting generalizability, and the design lacks participant and instructor blinding, which the limitations section flags without fully analyzing the biases it introduces. Group sizes are small (31 and 32), and the significant results rest on a small number of comparisons with substantial effect sizes, so replication in other courses, institutions and regions is required — alongside longer interventions, mixed-method triangulation, and an explicit treatment of [[ethics|ethical]] issues such as [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], and dependence on immersive technology.
+- The study relies exclusively on [[self-report-measures|self-report]] questionnaires, with no performance artifacts, log data, or expert ratings of student designs; the innovative-thinking subscale is also brief with a limited response range, which the authors concede may attenuate detectable effects over a 12-week intervention.
+- Measurement was confined to a single course, limiting generalizability, and the design lacks participant and instructor blinding — which the limitations section flags without fully analyzing the biases it introduces.
+- Group sizes are small (31 and 32), and the significant results rest on a small number of comparisons with substantial effect sizes, so replication in other courses, institutions and regions is required.
+- The authors call for longer interventions, mixed-method triangulation, and an explicit treatment of [[ethics|ethical]] issues such as [[privacy|data privacy]], [[bias-mitigation|algorithmic bias]], and dependence on immersive technology.
 
 ## Connected Concepts
 

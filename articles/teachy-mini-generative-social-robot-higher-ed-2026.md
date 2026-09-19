@@ -1,7 +1,7 @@
 ---
 title: "Teachy Mini: Development and Preliminary Evaluation of a Knowledge-Based Generative Social Robot for Higher Education"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring, llm]
@@ -19,8 +19,13 @@ audience: [designers, edtech designers]
 - A **preliminary evaluation study (N = 24)** had participants complete a robot-guided learning session about research methodologies, learning with either Teachy Mini or an alternative mode.
 ## Study Design & Method
 This is a **system development and preliminary evaluation study**. The [[research-methods-aied|researchers]] operationalized knowledge-based design requirements for generative social robots by implementing them on the Reachy Mini robot platform using system prompting, retrieval-augmented generation (RAG), and stateful prompt orchestration, building the Teachy Mini tutoring system. A preliminary evaluation study with 24 participants had them complete a robot-guided learning session about research methodologies, comparing learning with Teachy Mini against an alternative mode to assess the system's effectiveness and the value of the KBD approach.
-## Implications for AI in Education
-Teachy Mini demonstrates how **knowledge-based design requirements** can be concretely implemented in [[educational-robotics|generative social robots]] for [[higher-ed]] tutoring, using system prompting, RAG, and stateful prompt orchestration to mitigate risks such as misinformation and reinforcing incorrect responses. It connects to [[generative-ai]], [[llm|large language models]], [[intelligent-tutoring|tutoring]], and [[educational-robotics]]. For designers and educators, it provides a validated example of translating responsible-AI design principles into a functioning [[embodied-learning|embodied]] tutor, complementing [[knowledge-based-design-generative-social-robots-2026|the prior KBD requirements study]].
+## What this means for practice
+
+- **Designers.** Configure what the robot knows about itself, the learner, and the educational context before tuning model behavior, since the knowledge-based condition was rated significantly more aligned with responsible tutoring behavior than the same robot platform and language model run with reduced knowledge.
+- **Designers.** Ground tutoring with [[rag|retrieval-augmented]] generation and stateful prompt orchestration rather than a single system prompt, so claims stay tethered to course material and to the student's current state rather than to model priors.
+- **Designers.** Implement and validate the full set of knowledge-based requirements, not a subset: this prototype covered learning materials, personalization, educational strategies, role, friendliness, assertiveness, and conscientiousness but omitted long-term progress, schedules, grades, emotion recognition, and awareness of the physical setting.
+- **Researchers.** Plan a longitudinal design with a passive control condition, because acceptance, intrinsic motivation, and learning effectiveness were inconclusive in one short session and almost all participants had no prior experience with the robot, making novelty effects likely.
+
 ## Limitations
 The evaluation is preliminary with a small sample (N = 24), and the specific comparative [[learning-gains|learning outcomes]] are not fully detailed in the abstract. The system is built on the Reachy Mini platform, so generalizability to other robot platforms and to broader disciplinary content requires further study. The focus is on research-methodology tutoring, and longer-term effects and broader responsible-AI risks warrant additional evaluation.
 ## Connected Concepts

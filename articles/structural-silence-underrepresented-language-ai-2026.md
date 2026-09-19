@@ -1,7 +1,7 @@
 ---
 title: "Structural Silence: When AI Infrastructure Fails Speakers of Underrepresented Languages"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T04:54:02-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education]
 ethics: [digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -45,12 +45,18 @@ For Bengali-speaking learners using AI-assisted [[cs-education|programming tools
 
 The authors recommend treating **offline-first design** as an equity-oriented infrastructure strategy for AI-assisted education in low-connectivity environments rather than a secondary technical compromise. Local inference on quantized, parameter-efficient models (e.g. QLoRA, LoRA) has made on-device deployment feasible, extending reach to users excluded by cloud connectivity assumptions. This choice also carries a [[sustainability]] dividend — local inference on a quantized 7B-parameter model consumes a fraction of the energy of routing every query through a remote API. Evaluation frameworks that test only high-connectivity performance implicitly validate tools that are inaccessible to large portions of their stated target populations. This reframing connects to [[accessibility]], [[inclusive-learning]], and [[bias-mitigation]]: design choices that assume connectivity are themselves a form of exclusion.
 
-## Implications
+## What this means for practice
 
-- **Recognize low-resource language infrastructure as primary research.** Dataset, corpus, and benchmark construction for underrepresented languages should be credited on equal terms with model or architectural innovation, not treated as preliminary "supporting labor." This is a central recommendation of the paper's [[student-engagement|engagement]] with [[educational-nlp]].
-- **Treat offline-capable design as a serious access strategy** with its own design requirements and evaluation criteria, appropriate where connectivity cannot be assumed — extending reach to [[global-south|rural, low-connectivity]] learners rather than offering a degraded version of cloud deployment.
-- **Give linguistic analysis a central role** in AI development. Linguists can name the tokenization, evaluation, and modeling assumptions — such as why standard BPE fits Bengali's modification structure poorly — that remain invisible when English is treated as the reference standard. This makes [[language-learning]] and linguistic equity a [[equity-in-ai-education|core equity]] concern rather than a peripheral one.
-- **For smaller, less-resourced languages the challenges are more severe** — Bengali's demographic scale and literary history foreclose the convenient explanations that "underuse" invites, so the infrastructure-level logic identified here generalizes to even greater effect elsewhere.
+- **Policymakers.** Fund low-resource language infrastructure — datasets, benchmarks, and evaluation protocols — as primary research rather than preliminary support work, since Bengali holds under 0.5% of global web content against a 67:1 English-to-Bengali training-token deficit.
+- **Institutions.** Require offline-first capability from any AI tool intended for rural learners, where individual internet penetration is 36.5% versus 71.4% urban, and evaluate it under the bandwidth, device, and cost constraints of the communities it serves.
+- **Institutions.** Treat explanations in the learner's own language as a prerequisite for access rather than an enhancement, given evidence that foreign-language instruction yields lower outcomes for higher-education students.
+- **Researchers.** Put linguistic analysis at the center of AI development and evaluation so that tokenization assumptions — such as why standard BPE fits Bengali's modification structure poorly — are named rather than hidden by English serving as the reference standard.
+
+## Limitations
+
+- The paper is a theoretical analysis built on a single-language case, and the authors describe its contribution as explicitly "not a new benchmark or deployment system," so it cannot support claims about learning outcomes for Bengali-speaking students.
+- Its quantitative claims come from secondary sources rather than collected data: the web-presence gap (under 0.5% of content for roughly 4% of the global population), the 67:1 token deficit, and the connectivity figures (36.5% rural vs 71.4% urban) rest on corpus statistics and national survey reports that date.
+- Bengali is a favorable case because of its demographic scale, literary history, and active NLP research community; the authors state that smaller and less-resourced languages face considerably more severe structural challenges, so the four-failure account is a framework to test, not a cross-linguistic finding.
 
 ## Connected Concepts
 

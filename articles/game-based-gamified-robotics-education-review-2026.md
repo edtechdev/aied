@@ -1,7 +1,7 @@
 ---
 title: "Game-Based and Gamified Robotics Education: A Comparative Systematic Review and Design Guidelines"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [game-based-learning]
@@ -31,9 +31,13 @@ methods: [meta-analysis-systematic-review]
 
 This is a **PRISMA-aligned systematic literature review** with a comparative synthesis. The authors screened 12,485 records across four databases (2014–2025) and analyzed 95 studies of game-based learning and gamification in robotics education. Each study was coded for approach (GBL vs. gamification), learning context, skill level, modality, pedagogy, and outcomes, with high inter-coder reliability (Cohen's κ = .918). Statistical comparisons examined the coupling between approach, context, and pedagogy, and the relative emphasis on skill levels and tool adoption.
 
-## Implications for AI in Education
+## What this means for practice
 
-The review provides evidence-based guidance for using [[game-based-learning]] and [[game-based-learning|Gamification]] in [[educational-robotics]]. It shows that GBL suits informal settings while gamification works well in formal classrooms and supports [[project-based-learning]], helping educators choose the right engagement strategy for their context. It connects to [[computational-thinking]], [[cs-education]], and both [[k-12]] and [[higher-ed]] robotics [[teacher-role|teaching]], and highlights that robotics education emphasizes introductory programming and modular kits, with room for more advanced software adoption.
+- **Educators.** Match the engagement strategy to the setting: use game-based learning for informal, club-style contexts and gamification for formal classrooms, since across the 95 reviewed studies GBL prevailed in informal settings while gamification dominated formal ones (p < .001).
+- **Educators.** Pair gamification with [[project-based-learning|project-based learning]], the [[pedagogy]] it favored in formal classrooms (p = .009), when designing robotics units.
+- **Educators.** Plan for introductory programming and modular kits, where most of the reviewed studies sit, and budget deliberate support if you intend to adopt advanced software, which only about 17% used.
+- **Instructional designers.** Use the review's comparative design guidelines to choose between GBL and gamification for a given context and skill level rather than defaulting to the more familiar option.
+- **Instructional designers.** Treat the approach–context–pedagogy coupling as a constraint: fix the learning context and the pedagogy it must support first, then choose the engagement strategy that fits both.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "Students' Epistemological Beliefs and their Chatbot Preferences in AI-mediated Physics Learning"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T10:15:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -46,9 +46,19 @@ Because scores were not normally distributed, the authors ran [[quantitative-res
 
 At the nominal level, students preferring a chatbot that initiates guided inquiry before providing answers exhibited more sophisticated beliefs about balancing absolutism and relativism (Axis 4) and about the sources of learning ability (Axis 5). The authors position these results against related work: Brändle et al. found early AI adopters used AI more frequently while late users held more elaborated beliefs; Urhahne et al. found beliefs about knowledge justification and rapid learning predicted ChatGPT adoption; and Sin found that dependence on authority predicted greater AI familiarity and use. The present study stands apart by examining beliefs specifically about physics and by focusing on preferences for instructional chatbot behavior rather than adoption frequency — a shift from whether students use AI to how they prefer it to support learning. The authors caution that the modest effect sizes and low Cronbach's alpha, especially on Axis 4, warrant interpreting the associations as preliminary.
 
-## Implications
+## What this means for practice
 
-For the design and instructional use of chatbots in [[physics-education]], the findings point toward chatbots that initially encourage students to reason through a problem while providing more direct assistance when needed — beginning with questions, hints, or prompts for explanations and progressively offering explicit guidance if the student remains stuck. This approach may balance [[productive-failure|productive struggle]] with timely [[scaffolding|support]], preventing inquiry from becoming frustrating or answer provision from inhibiting valued [[critical-thinking|epistemic practices]] such as sensemaking. The Axis 5 findings reinforce the message that learning ability develops through effort, strategy use, [[feedback]], and reflection; chatbots can recommend alternative representations, prompt students to revisit concepts, break problems into smaller steps, or encourage reflection on unsuccessful strategies. Instructors can treat chatbot assistance as support for developing [[self-efficacy|competence]] rather than a substitute for thinking. For research, the results suggest further examination of whether sustained use of Socratic-dialogue chatbots shifts students' epistemological beliefs — positively or detrimentally — and how AI use shapes students' approaches to scientific inquiry.
+- **Learners.** Choose a chatbot mode that makes you attempt the reasoning first and supplies direct answers only when you are stuck: 52% of students preferred this 'Combination' behavior, and their total EBAPS scores were higher than those of students who wanted answers immediately (p = 0.029).
+- **Learners.** Ask for an alternative representation, a smaller first step, or a prompt to revisit a concept before requesting the worked solution, so that chatbot support develops [[self-efficacy|competence]] instead of replacing your own thinking.
+- **Learners.** Use error and effort as information: the Axis 5 finding links beliefs about the source of learning ability to effort, strategy use, [[feedback]], and reflection, so review which strategy failed rather than treating a wrong answer as evidence of fixed ability.
+- **Researchers.** Test whether sustained use of [[socratic-method|Socratic-dialogue]] chatbots shifts students' [[metacognition|epistemological]] beliefs in either direction, and how it shapes their approaches to scientific inquiry, since this survey captured beliefs at a single point in one course.
+
+## Limitations
+
+- Chatbot preferences were forced into three fixed options (Direct Answers, Guided Q&A, Combination) and beliefs came from one EBAPS administration; the authors note that qualitative interviews about beliefs and preferences are needed for deeper insight.
+- Internal consistency was low, particularly on Axis 4, and effect sizes were small: the total-score and Axis 4/Axis 5 differences disappeared under the Bonferroni-adjusted threshold (α = 0.0083 across six omnibus tests).
+- All data came from one extra-credit activity in a single large calculus-based physics course at one midwestern land-grant R1 (roughly 1,800 enrolled; 1,191 activity responses, 1,408 EBAPS responses, 1,048 overlapping), covering waves content not taught in the course.
+- The design is correlational: preferences and beliefs were measured in the same week with no control group, so no causal direction between them can be established.
 
 ## Connected Concepts
 

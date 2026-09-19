@@ -1,7 +1,7 @@
 ---
 title: "Would You Let a Humanoid Play Storytelling With Your Child? A Usability Study on LLM-Powered Narrative Human-Robot Interaction"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [storytelling-in-education]
 technology: [educational-robotics, llm]
@@ -21,8 +21,15 @@ methods: [usability-research]
 - The study **validates the protocol and framework** through usability and quality-of-experience measurement with participants.
 ## Study Design & Method
 This is a **usability/quality-of-experience study** of an LLM-powered narrative human-robot interaction system built on the iCub humanoid platform. The [[research-methods-aied|researchers]] integrated perceptual capabilities for social-cue recognition with generative-model understanding (ChatGPT) and implemented a storytelling interaction protocol where the human and robot jointly create a story by exchanging cubes with creative images. Participants interacted with the system, and the degree of usability and quality of experience was quantified to validate the framework and protocol.
-## Implications for AI in Education
-The work demonstrates how **LLM-powered social robots** can support collaborative, engaging learning interactions such as storytelling, relevant to [[educational-robotics]], [[educational-robotics]], and [[educational-robotics]]. Integrating generative models enables robots to respond adaptively and contextually to children, supporting naturalistic educational interaction. This connects to [[llm|large language models]] in education and to child-focused learning activities such as storytelling, with implications for how [[embodied-learning|embodied]] [[agentic-ai|AI agents]] can participate in co-creation and narrative learning.
+## What this means for practice
+
+- **Designers.** Cut end-to-end latency before scaling the interaction: Efficiency was the only UEQ scale rated below the benchmark (0.91, versus 1.91 for Attractiveness), which participants attributed to slow motor movement and AI modules running over the network.
+- **Designers.** Keep the robot's narrative contribution minimal and non-corrective so co-creation stays with the learner: the LLM added a small element in only 8% of trials and never corrected or polished the human's contribution.
+- **Researchers.** Validate with the intended age group before making classroom claims — 68% of participants (χ²(5) = 88.78, p < .001) judged the application suitable mainly for children under 10, yet the usability sample was 26 adults (mean age 39.7 ± 15).
+- **Designers.** Budget more turns than the mean 5 ± 0.45 actually used per trial, since 28% of participants wanted additional turns while still accepting the roughly one-hour session length.
+- **Researchers.** Report component-level reliability alongside usability scores: VLM sticker agreement was 86% and overall system success 88%, so voice, detection, and LLM failures set the real ceiling on the experience.
+
+
 ## Limitations
 The study focuses on usability and perceived quality of experience rather than measured [[learning-gains|learning outcomes]]; sample sizes and context are not specified in the abstract. The iCub platform is research hardware with limited classroom availability, and the generalizability of the LLM-integrated interaction framework to other robot platforms and age groups warrants further study.
 ## Connected Concepts

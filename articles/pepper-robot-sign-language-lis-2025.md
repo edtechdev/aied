@@ -1,7 +1,7 @@
 ---
 title: "Using the Pepper Robot to Support Sign Language Communication"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [educational-robotics, multimodal]
 ethics: [accessibility, inclusive-learning]
@@ -20,8 +20,15 @@ audience: [designers, educators]
 - An exploratory user study with **12 participants proficient in LIS (Deaf and hearing)** assessed sign intelligibility, with the aim of fostering more inclusive human-robot interaction in social environments (hospitals, airports, educational settings).
 ## Study Design & Method
 This is an **exploratory design and user-study** in human-robot interaction. The [[research-methods-aied|researchers]] co-designed 52 Italian Sign Language signs with a Deaf student and an expert interpreter, implementing them on the Pepper platform using two techniques (manual animation and MATLAB-based inverse kinematics). An exploratory user study with 12 LIS-proficient participants (both Deaf and hearing) evaluated the intelligibility of the produced signs and short signed sentences, examining the feasibility of robot-mediated sign-language communication.
-## Implications for AI in Education
-The work extends [[educational-robotics]] into [[equity-in-ai-education]] by exploring robots' capacity to communicate in [[special-education]], which could foster more inclusive human-robot interaction in educational settings and support Deaf learners. It connects to [[educational-robotics]], [[inclusive-learning]], and [[special-education]], highlighting both the potential and the technical challenges of enabling robots to produce intelligible sign language. For educators, it points toward socially assistive robots as tools for inclusive classrooms, while underscoring the need for co-design with Deaf communities.
+## What this means for practice
+
+- **Designers.** Screen every candidate sign against the platform's kinematics before adding it: Pepper cannot move fingers independently, and constrained wrist and elbow range plus the chest tablet distorted close-body signs in the 52-sign set.
+- **Designers.** Start a vocabulary with iconic, simplified-motion signs, which reached 100% recognition (Dimenticare, Finire/Fatto, Shampoo, Università), and rework or drop those that failed (Insegnare 33.3%, Chiedere 41.7%, Profumo 0%).
+- **Designers.** Do not promise sentence-level signing yet: only 1 of 12 participants correctly read the three-sign sentence meaning "I ate an apple," so pair individual signs with other modalities for full utterances.
+- **Instructors.** Co-design the vocabulary with Deaf students and interpreters and pre-test it with Deaf signers, since regional variation and false recognitions shaped performance on the 15 signs tested.
+- **Researchers.** Report sign-level recognition against chance (25%): the 15 signs were tested with one-tailed binomial tests in a 12-participant sample, and several did not exceed the chance baseline.
+
+
 ## Limitations
 The user study was exploratory with a small sample (12 participants), and the intelligibility of robot-produced LIS was partial and context-dependent. The technical implementation (52 signs) covers a limited vocabulary, and the non-manual components of LIS (facial expression, body posture) that are crucial to meaning were challenging for the robot to reproduce. Findings are specific to the Pepper platform and Italian Sign Language.
 ## Connected Concepts

@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production"
 created: "2026-09-04T09:07:00-04:00"
-updated: "2026-09-19T09:52:14-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, agency, ai-literacy, critical-thinking]
 pedagogy: [metacognition]

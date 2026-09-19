@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Implementation of the Pepper Social Robot in Formal Education: A Scoping Review"
 created: "2026-08-13T19:01:35-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [teacher-role]
 technology: [educational-robotics]
@@ -24,8 +24,15 @@ page_kind: [synthesis]
 - **The [[pedagogy|pedagogical]] dimension is a determining factor** — Pepper's contribution depends on instructional design, activity purpose, student profile, technical stability, and teacher mediation, not the technology alone.
 ## Study Design & Method
 This is a **scoping review** following the **PRISMA-ScR** guidelines. The authors searched Scopus, Web of Science, ERIC-Proquest, and Dialnet for peer-reviewed publications on the Pepper robot in formal education between 2014 and 1 March 2026. After duplicate removal and screening (1,448 references identified, 1,100 after deduplication, 345 full-text assessed), 13 studies met the [[inclusive-learning|inclusion]] criteria. Data extraction used a structured tool (piloted on three articles) covering authorship, country, objective, methodology, robot characteristics, [[curriculum-design|curriculum]] area, student profile, teacher role, implementation issues, and reported benefits. Analysis combined descriptive analysis (frequencies/trends) and thematic categorical analysis (deductive, following Braun & Clarke), organized around themes of robot role, curricular areas, student profile, teacher role, challenges, and benefits.
-## Implications for AI in Education
-The review situates Pepper's educational value beyond the technology itself: its embodiment, humanoid appearance, and [[multimodal]] interaction may foster initial interest but do not, in themselves, guarantee a meaningful educational experience. It positions the teacher as central — Pepper requires planning, supervision, [[regulation]] of interaction, and adjustment during activities, and should be understood as a **supportive pedagogical resource rather than a substitute for the teacher**. This connects to [[educational-robotics]], [[educational-robotics]], [[educational-robotics]], and [[teacher-role]], and cautions against technocentric approaches, calling for realistic, critical, and contextualized uses of social robotics. It is relevant to [[k-12]], [[higher-ed]], [[special-education]], and [[equity-in-ai-education|inclusive education]], and to [[research-methods-aied|research-methods]] debates about the predominance of small-sample qualitative studies and the need for longitudinal evidence.
+## What this means for practice
+
+- **Instructors.** Treat Pepper as a supervised teaching resource, not an autonomous tutor: across the 13 included studies it required planning, supervision, and in-the-moment repair, with constant teacher mediation.
+- **Instructors.** Plan a fallback for the activity: voice recognition of children's voices, software glitches, and dependence on technical staff were the most frequently reported implementation problems.
+- **Instructors.** Anchor the robot in a curricular area with defined objectives (language, mathematics, STEM, sustainability) rather than using it as a standalone novelty, since reported benefits tracked instructional design and activity purpose.
+- **Administrators.** Budget for the full cost of ownership — hardware, programming, and technical support — and expect short, project-based deployments rather than curriculum-wide integration.
+- **Researchers.** Design longitudinal studies in mainstream classrooms comparing Pepper with tablets, virtual agents, and hands-on materials, given that no large-scale longitudinal study was identified and 61.5% of samples had fewer than 50 participants.
+
+
 ## Limitations
 As a scoping review, its aim was to map available evidence rather than assess quality or synthesize effect sizes; it does not provide a quantitative meta-analysis. Only 13 empirical studies met inclusion criteria, reflecting the field's early stage, and the review notes the predominance of small-sample, short-duration qualitative studies with limited longitudinal follow-up. The search was restricted to English and Spanish publications, and the novelty effect of the robot may influence reported outcomes.
 ## Connected Concepts
