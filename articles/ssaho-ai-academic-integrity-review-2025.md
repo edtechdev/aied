@@ -77,7 +77,7 @@ The review is balanced: AI can enhance writing efficiency, improve non-native En
 
 ## Connected Articles
 
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
 - [[genai-chinese-higher-education-integrity-2026]] — Balancing Gen-AI in Chinese higher education
 - [[detecting-llm-generated-text-latent-prompt]] — Detecting LLM-generated text
 - [[genai-declaration-frameworks-higher-education]] — GenAI declaration frameworks

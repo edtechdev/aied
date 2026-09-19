@@ -43,7 +43,7 @@ The independence problem is handled carefully. Because each of the 200 profiles 
 
 The human mean score is 3.02 ± 1.00. Under Model default, Llama-3B significantly overscores relative to humans (+0.48, p < 0.01) and Llama-70B underscores (−0.52, p < 0.01). Under Exp, deviations from human ratings remain modest and mostly positive, with significant upward shifts for Llama-3B (+0.55, p < 0.01) and Qwen-4B (+0.29, p < 0.05) and a significant downward shift for Llama-70B (−0.60, p < 0.001). The GPT models are the most stable: neither Exp nor Imp personas produce significant shifts in their scores relative to human ratings.
 
-The Imp condition produces the starkest effect in the study. Llama-70B inflates its scores by **+1.57 points relative to its own default** (p < 0.001), the largest deviation observed across all models and conditions. Regression attributes for that condition (all Llama-70B) show the model constantly overscoring on the basis of conversational content: users mentioning brainstorming (+0.26, Cnt = 24) or writing (+0.24, Cnt = 19) in their histories, "religion: Nothing" (+0.19), "hobbies: arts" (+0.18), interest in dialog technology (+0.17) and gender: Female (+0.12). Exp effects are small and concentrated in single models — Qwen-30B penalises [[higher-ed|higher education]] levels (µb = −0.11, Cnt = 12), the largest Exp effect in scoring, and Qwen-4B shifts with LLM-use frequency (+0.04, Cnt = 15).
+The Imp condition produces the starkest effect in the study. Llama-70B inflates its scores by **+1.57 points relative to its own default** (p < 0.001), the largest deviation observed across all models and conditions. Regression attributes for that condition (all Llama-70B) show the model constantly overscoring on the basis of conversational content: users mentioning brainstorming (+0.26, Cnt = 24) or writing (+0.24, Cnt = 19) in their histories, "religion: Nothing" (+0.19), "hobbies: arts" (+0.18), interest in dialog technology (+0.17) and gender: Female (+0.12). Exp effects are small and concentrated in single models — Qwen-30B penalizes [[higher-ed|higher education]] levels (µb = −0.11, Cnt = 12), the largest Exp effect in scoring, and Qwen-4B shifts with LLM-use frequency (+0.04, Cnt = 15).
 
 Distributional tests sharpen the contrast. The KS test finds significant score-distribution shifts **only under Exp, never under Imp**: for education, Llama-3B gives D(edu₂, edu₀) = 0.65 and Qwen-30B D(edu₂, edu₀) = 0.60, with effects growing across more distant ordinal levels. AES is therefore the task where explicit demographic sensitivity is at least structured and interpretable, while the implicit channel produces large but erratic shifts — an important nuance for anyone auditing [[automated-assessment|automated assessment]].
 
@@ -89,7 +89,7 @@ The limitations bound these claims honestly. Only 120 items (40 per task) and 20
 - [[assessment]]
 - [[educational-nlp]]
 - [[ai-ed-evaluation]]
-- [[evaluative-judgement]]
+- [[evaluative-judgment]]
 
 ## Connected Articles
 

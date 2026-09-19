@@ -31,7 +31,7 @@ several shapes:
 - blockquote: `> **License note:** ...`
 - blockquote-with-emoji: `> ⚠️ **License note:** ...`  ← a regex for `> **License note:**` FAILS here because the `⚠️` sits between `>` and `**`.
 - inline fragment appended to a synthesis paragraph: `⚠️ Published under **CC BY-ND 4.0** (no-derivatives) — flagged in the wiki log.`
-- `*Note: The source is published under a CC BY-ND 4.0 (no derivatives) license; content has been summarised rather than adapted.*` (zhou-style)
+- `*Note: The source is published under a CC BY-ND 4.0 (no derivatives) license; content has been summarized rather than adapted.*` (zhou-style)
 
 **Robust removal:**
 1. Strip any line containing `License note:` regardless of leading emoji/blockquote:

@@ -29,7 +29,7 @@ level: [k 12, teacher training]
 
 **SWOT reflections.** Post-workshop group SWOT responses aligned most strongly with TPK and EK (fewer TK/TCK). Teachers valued GenAI as a time saver, "sounding board," and support for differentiation and [[personalized-learning|personalized learning]], but flagged weaknesses and threats including unreliability, bias, cheating and academic-integrity risks, unreflective [[cognitive-offloading]], and a feared loss of "human nuance," alongside epistemological questions ("What is important knowledge?").
 
-**Limitations.** The study is exploratory and qualitative; interaction and SWOT frequencies are descriptive rather than inferential, no generalisable effect sizes are reported, and the enacted-practice patterns observed in a workshop setting may not fully transfer to everyday classroom planning.
+**Limitations.** The study is exploratory and qualitative; interaction and SWOT frequencies are descriptive rather than inferential, no generalizable effect sizes are reported, and the enacted-practice patterns observed in a workshop setting may not fully transfer to everyday classroom planning.
 
 **Implication.** [[teacher-education]] must move beyond operational AI skills to build pedagogically meaningful, ethical knowledge that teachers actually enact, connecting to [[teacher-education]], [[tpack]], and [[ai-literacy]] and to teachers' evolving [[teacher-role]].
 

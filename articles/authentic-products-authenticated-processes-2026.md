@@ -28,7 +28,7 @@ Crucially, the evidential question survives any [[educational-policy-ai|AI polic
 ## Six-dimension framework
 
 1. **Contextual fidelity and consequential relevance** — realistic problems, roles, constraints, audiences, artifacts; credibility to disciplinary or civic practice *plus* an intelligible reason to care (stakeholder, public output, policy brief), not surface imitation.
-2. **Cognitive demand and evaluative judgment** — analyze, evaluate, synthesise, interpret ambiguity, make defensible trade-offs. Evaluative judgment (Sadler 1989; Tai et al. 2018) matters more when machines can generate plausible first drafts.
+2. **Cognitive demand and evaluative judgment** — analyze, evaluate, synthesize, interpret ambiguity, make defensible trade-offs. Evaluative judgment (Sadler 1989; Tai et al. 2018) matters more when machines can generate plausible first drafts.
 3. **Process transparency and assessment integrity** — reasoning, iteration, feedback use, and verification visible enough to support warranted inference (Boud 2000; Kane 2013). Architectures: staged submissions, annotated decision rationales, oral defense, feedback-use statements, process records.
 4. **[[agency|Student agency]] and bounded choice** — topic/modality/case/medium choice within a common architecture, bounded by clear standards to preserve comparability and [[bias-mitigation|fairness]].
 5. **Inclusivity and representational fairness** — realism can privilege particular communication styles, professional norms, and cultural capital; needs transparent criteria, [[scaffolding]], equivalent routes to demonstrate achievement, and attention to whose realities are represented.
@@ -36,7 +36,7 @@ Crucially, the evidential question survives any [[educational-policy-ai|AI polic
 
 ## Operational tool
 
-The framework becomes a **review instrument for assessment briefs**: teams examine each dimension for evidence generated, validity risks, and redesign priorities — using a 4-point indicative alignment scale (weak → partial → substantial → strong). Not every assessment must maximize all six dimensions; across a program, tasks may emphasise different ones. It complements (rather than replaces) the [[ai-ed-evaluation|AI Assessment Scale]] by treating AI permissions as part of a defensible assessment argument, alongside fairness, agency, cognitive demand, and process evidence.
+The framework becomes a **review instrument for assessment briefs**: teams examine each dimension for evidence generated, validity risks, and redesign priorities — using a 4-point indicative alignment scale (weak → partial → substantial → strong). Not every assessment must maximize all six dimensions; across a program, tasks may emphasize different ones. It complements (rather than replaces) the [[ai-ed-evaluation|AI Assessment Scale]] by treating AI permissions as part of a defensible assessment argument, alongside fairness, agency, cognitive demand, and process evidence.
 
 ## Connected Concepts
 

@@ -45,7 +45,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 - [[equity-in-ai-education]]
 
 ## Connected Articles
-- [[ivory-psychology-assessment-integrity-2026]] — Programme-wide susceptibility of psychology assessments to minimum-effort ChatGPT use (Ivory et al. 2026)
+- [[ivory-psychology-assessment-integrity-2026]] — Program-wide susceptibility of psychology assessments to minimum-effort ChatGPT use (Ivory et al. 2026)
 
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning

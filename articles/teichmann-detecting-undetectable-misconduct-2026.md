@@ -49,7 +49,7 @@ Underlying these commitments is a reorientation of the question asked. The foren
 
 ## From policing to design
 
-If prohibited use cannot be detected, the rational institutional response is to depend less on [[assessment|assessments]] whose integrity requires detecting it. Superficial adjustments — a warning here, a declaration there — leave the vulnerability intact; what is needed is structural change to assessment. Three strands of scholarship indicate the direction: validity-centered and [[authentic-assessment|authentic assessment]] that reorients tasks toward capacities a generator of generic prose cannot supply; the cultivation of [[evaluative-judgement|evaluative judgment]], which equips students to appraise AI output critically and is itself a legitimate object of assessment; and a move from prohibition to articulated permission, specifying acceptable uses rather than drawing, and then failing to police, an absolute line.
+If prohibited use cannot be detected, the rational institutional response is to depend less on [[assessment|assessments]] whose integrity requires detecting it. Superficial adjustments — a warning here, a declaration there — leave the vulnerability intact; what is needed is structural change to assessment. Three strands of scholarship indicate the direction: validity-centered and [[authentic-assessment|authentic assessment]] that reorients tasks toward capacities a generator of generic prose cannot supply; the cultivation of [[evaluative-judgment|evaluative judgment]], which equips students to appraise AI output critically and is itself a legitimate object of assessment; and a move from prohibition to articulated permission, specifying acceptable uses rather than drawing, and then failing to police, an absolute line.
 
 Concrete design moves raise the cost of wholesale outsourcing without depending on detection: programmatic assessment across linked tasks rather than a single submissible artifact; oral and supervised elements where verified individual capability must be certified; and assessment of process as well as product, valuing the drafts and justifications a student can account for in person. The contrast with the detection reflex is exact — detection tries to verify that a fixed, AI-vulnerable task was completed without help, whereas design changes the task so that help is either irrelevant or itself part of what is assessed. The former fights the technology and loses; the latter absorbs it. Converting the central question from "did the student use AI?", which cannot be answered, into "did the student demonstrate the capability the task was designed to certify?", which can, resolves the problem the misconduct procedure was failing to solve.
 
@@ -85,7 +85,7 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - [[ai-use-disclosure]]
 - [[authentic-assessment]]
 - [[remote-proctoring]]
-- [[evaluative-judgement]]
+- [[evaluative-judgment]]
 - [[equity-in-ai-education]]
 - [[assessment]]
 - [[higher-ed]]
@@ -95,10 +95,10 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 ## Connected Articles
 
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Deterrence, disclosure, and redesign modeled as an assessment-design problem
-- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
+- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanization arms race
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
-- [[luo-dawson-value-judgements-grading-2026]] — Value judgments in grading GenAI-assisted work, and two-way transparency
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
+- [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work, and two-way transparency
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as a help-seeking and self-regulation decision

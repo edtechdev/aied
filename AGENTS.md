@@ -46,7 +46,7 @@ foundations: [ai-literacy]    # Foundations of AI in education
 
 ## What this means for practice
 - **Instructors.** One action, imperative and derived from a finding on this page — no hedging.
-- **Faculty developers, administrators, researchers, developers.** Add a labelled bullet only where the paper supports a genuinely distinct implication for that audience.
+- **Faculty developers, administrators, researchers, developers.** Add a labeled bullet only where the paper supports a genuinely distinct implication for that audience.
 
 ## Limitations
 - 2-4 bullets, each carrying a concrete fact from the paper: sample and recruitment, one site, incentives, self-report measures, researcher role conflict, no follow-up.
@@ -96,7 +96,7 @@ own context. One contiguous bulleted list (no blank lines between items).
 
 ## Introduction
 
-Narrative intro labelling the start of the body.
+Narrative intro labeling the start of the body.
 
 Rich body content with embedded wikilinks to related articles/concepts.
 
@@ -135,7 +135,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 
 ### Sources of truth
 
-- **Site identity** (name, URL, base path, editor, licence, theme): `site.config.json`.
+- **Site identity** (name, URL, base path, editor, license, theme): `site.config.json`.
 - **Pipeline + scan settings** (paths, gate/build commands, arXiv sources, journal
   feeds, relevance filter, agent tool mapping): `wiki.config.yaml`. Read it with
   `python3 tooling/scripts/wiki_config.py` — never hardcode a path, journal, arXiv
@@ -153,6 +153,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - FAQ narratives follow the same inline-link convention as articles/concepts (link every concept mention, including links to other FAQs); `connected_faqs` on concept/article pages drives the Connected FAQs section
 - **Inline hyperlink rule (wiki-style, HARD GATE):** whenever a concept is mentioned by name in the BODY of a concept or article page, hyperlink that mention to the concept's page (e.g. `[[constructivist]]` in a sentence, or piped `[[cognitive-offloading|doing the cognitive work]]` when display text differs from the slug). Do this for every concept mention in body prose — exactly as wikis do — in addition to the Connected Concepts/Articles lists at the bottom. Use the most specific concept slug that matches the mention's meaning (not a looser one), and prefer the dedicated umbrella page when one exists (e.g. link plain "feedback" to `[[feedback]]`, not `[[feedback-loop]]`). **This pass is a BLOCKING PREREQUISITE before `npm run build` / commit / push / deploy on every newly created or enriched page — a green build does NOT substitute for it.** Load the `wiki-inline-links` skill and run the pass + verification (0 self-links, 0 heading links, balanced brackets, 0 broken links) on every new page first.
 - **Link targets come from the alias registry:** `concepts.registry.yaml` maps phrases (aliases) to concept pages, and matching is exact-string. A phrase registered as an alias of the wrong concept links there everywhere ("inclusive design" was an alias of `accessibility`, so inclusion language pointed at the accessibility page), and plurals or gerunds never match ("survey instrument" does not match "surveys"). When a link target looks wrong: check the registry first, read the source's own framing before deciding, fix the registry and every page already mis-linked, add the missing plural forms (no alias may map to two concepts), then re-run `python3 tooling/scripts/gen-concept-artifacts.py`. Prefer adding an alias over inventing a near-synonym concept page.
+- **US English (house style):** body prose, section headings and Connected-list blurbs use US spelling — behavior, program, modeling, judgment, organization, center, artifact, generalize, analyze, and -ize verbs (organize, prioritize, standardize). Never respell the `## Citation` section, a quoted paper title, or quoted participant text: those reproduce the published record verbatim. Check before build with `python3 tooling/scripts/check-us-english.py` (add `--include-docs` to check AGENTS.md, tooling/*.md and skills/*.md too).
 - **List-formatting rule (HARD GATE):** ordered/bulleted lists whose consecutive items are separated by a blank line render broken — each item restarts at `1.` (CommonMark splits them into separate lists). Write every numbered list (e.g. Key Findings) as ONE contiguous block with NO blank lines between consecutive items. Before build, run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` and fix every reported page. A green build does NOT catch this.
 - **`created`/`updated` carry FULL quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by these via string compare, and unquoted ISO timestamps shift to UTC (next day). Display is date-only; the time is for sorting.
 - **Ingestion enrichment:** when a new article makes a significant contribution to a connected concept (novel framing, distinctive finding, or a missing dimension), integrate it into that concept's **body narrative** (research bullet / subsection / synthesis paragraph), not just its Connected Articles list. **NARRATIVE INTEGRATION, never append-only:** weave the enrichment into the thematically-appropriate EXISTING section as connected prose — NEVER tack it onto the end of the page as a standalone `##`/`###` section floating between the body and `## Connected Concepts`. Remove any orphaned heading you'd otherwise append. Only for a genuinely major contribution (e.g. a systematic review that reorganizes the whole area) is a full body rewrite warranted.
@@ -163,7 +164,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run the HARD GATES (`python3 tooling/scripts/run-gates.py` or `npm run verify`), then `npm run build`, then `git add -A && git commit -m "..."`. **Never push without explicit per-occurrence approval** — commit locally, then ask.
-- **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concept + FAQ pages, with a Notice page and a clickable TOC). These are **local committed artefacts rebuilt ONLY on explicit request** — never automatically after content edits, and never by CI. Regenerate with `python3 tooling/build-epub.py` (requires `pandoc` and, for the PDF, `weasyprint`) and commit the result.
+- **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concept + FAQ pages, with a Notice page and a clickable TOC). These are **local committed artifacts rebuilt ONLY on explicit request** — never automatically after content edits, and never by CI. Regenerate with `python3 tooling/build-epub.py` (requires `pandoc` and, for the PDF, `weasyprint`) and commit the result.
 
 ### Cron jobs
 
@@ -176,7 +177,7 @@ Two scheduled jobs, both driven by the settings in `wiki.config.yaml`:
   new open-access journal articles and commits.
 
 Neither job pushes: a push requires explicit per-occurrence approval. Offline
-EPUB/PDF artefacts are rebuilt only on explicit request, never by a scan.
+EPUB/PDF artifacts are rebuilt only on explicit request, never by a scan.
 
 Both jobs finish by running `python3 tooling/scripts/refresh-preview.py`: the
 preview is a long-running server started before the scan, so it never notices the

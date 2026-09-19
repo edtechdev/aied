@@ -58,7 +58,7 @@ This is where the learner-side evidence is most consequential, because it separa
 
 ## Learners as models
 
-The learner-side concepts with the longest technical lineage are the ones that represent the learner to the system. [[student-modeling]] covers the family: [[knowledge-tracing]] estimating skill acquisition over time, [[cognitive-diagnosis]] locating specific misconceptions, and the adaptive and [[personalized-learning|personalized]] systems that consume those estimates. [[simulating-students]] and [[simulating-students-llm-review-2026|its review]] treat [[simulation]] as a way to test [[intelligent-tutoring|tutors]] and generate data when real learners are unavailable — an explicitly provisional stand-in, not a substitute. Two cautions run through this literature: model estimates are inferences from behaviour that are sensitive to how items and interfaces are built, and [[demographic-signals-llm-student-assessment-2026|studies of demographic signals]] show that assessment systems can pick up proxies for learner identity (language, background) that were never intended to be part of the construct. [[self-report-measures]] covers the mirror-image problem on the research side: what learners say about their own learning often diverges from what they can do.
+The learner-side concepts with the longest technical lineage are the ones that represent the learner to the system. [[student-modeling]] covers the family: [[knowledge-tracing]] estimating skill acquisition over time, [[cognitive-diagnosis]] locating specific misconceptions, and the adaptive and [[personalized-learning|personalized]] systems that consume those estimates. [[simulating-students]] and [[simulating-students-llm-review-2026|its review]] treat [[simulation]] as a way to test [[intelligent-tutoring|tutors]] and generate data when real learners are unavailable — an explicitly provisional stand-in, not a substitute. Two cautions run through this literature: model estimates are inferences from behavior that are sensitive to how items and interfaces are built, and [[demographic-signals-llm-student-assessment-2026|studies of demographic signals]] show that assessment systems can pick up proxies for learner identity (language, background) that were never intended to be part of the construct. [[self-report-measures]] covers the mirror-image problem on the research side: what learners say about their own learning often diverges from what they can do.
 
 ## Equity across learners
 
@@ -80,7 +80,7 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 - [[metacognition]] — Knowing what one does and does not understand
 - [[motivation]] — Why learners persist or stop
 - [[self-efficacy]] — Learners' confidence in their own capability
-- [[student-engagement]] — Behavioural, emotional, and cognitive engagement
+- [[student-engagement]] — Behavioral, emotional, and cognitive engagement
 - [[prior-knowledge]] — The background knowledge that decides whether support becomes learning
 - [[student-modeling]] — Representing the learner inside the system
 - [[knowledge-tracing]] — Estimating skill acquisition over time
@@ -111,5 +111,5 @@ Read with [[stakeholders]] for the people around the learner, and with [[pedagog
 - [[mulisa-students-genai-integrity-perspectives-2026]] — Students on whether GenAI is a cheating tool or a learning partner
 - [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI rules and the students they catch
-- [[sharma-judgement-visible-genai-assessment-2026]] — Integrity as evaluative judgement rather than compliance
+- [[sharma-judgment-visible-genai-assessment-2026]] — Integrity as evaluative judgment rather than compliance
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Remote proctoring's emotional and equity costs for students

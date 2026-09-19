@@ -15,12 +15,12 @@ sources: ['raw/papers/qualitative-reasoning-game-guidance-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Jaiswal & Falomir (2026) build the reasoning engine behind a tutoring game. Spatial reasoning correlates strongly with [[stem-education|STEM]] performance, and puzzle games are an attractive way to train it — but giving human-like guidance requires an agent that can draw commonsense inferences about spatial events and explain them. The authors present a hybrid **[[qualitative-research|qualitative]] reasoning** model for *Camelot Jr.*, a block-puzzle game in which a player must build multi-level bridges so that two avatars can meet, combining a qualitative solver for path and support with mathematical centre-of-mass stability logic. Because the model reasons symbolically, game states translate directly into interpretable [[feedback]] for [[scaffolding|player guidance]].
+> **Synthesis:** Jaiswal & Falomir (2026) build the reasoning engine behind a tutoring game. Spatial reasoning correlates strongly with [[stem-education|STEM]] performance, and puzzle games are an attractive way to train it — but giving human-like guidance requires an agent that can draw commonsense inferences about spatial events and explain them. The authors present a hybrid **[[qualitative-research|qualitative]] reasoning** model for *Camelot Jr.*, a block-puzzle game in which a player must build multi-level bridges so that two avatars can meet, combining a qualitative solver for path and support with mathematical center-of-mass stability logic. Because the model reasons symbolically, game states translate directly into interpretable [[feedback]] for [[scaffolding|player guidance]].
 
 ## Key Findings
 
 1. **Qualitative reasoning is chosen for explainability.** Symbolic representations make it possible to convert game states into interpretable hints, which is what [[explainable-ai|human-like tutoring]] in a game requires.
-2. **The domain's [[physics-education|physics]] must be supplied explicitly.** Camelot Jr. demands precise stability, so the qualitative solver is guided by centre-of-mass logic rather than inferring support from qualitative relations alone.
+2. **The domain's [[physics-education|physics]] must be supplied explicitly.** Camelot Jr. demands precise stability, so the qualitative solver is guided by center-of-mass logic rather than inferring support from qualitative relations alone.
 3. **The model reasons about two spatial relations central to the puzzle** — path and support — covering the player's need to plan a route, keep platforms stable, and use all provided blocks.
 4. **The work targets skill training rather than game mastery.** Success is framed as supporting spatial-skill development in children, not as solving the puzzle optimally.
 5. **The authors position the solver as a foundation for human-centred game-playing agents**, with extension to other physical puzzle games as the next step.
@@ -31,7 +31,7 @@ A solver that finds the optimal next move is not a tutor. Guidance requires know
 
 ## Open questions the paper raises
 
-The paper is a modelling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners]], is not tested here. The authors also note that the solver's qualitative behaviour opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
+The paper is a modeling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners]], is not tested here. The authors also note that the solver's qualitative behavior opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
 
 ## Connected Concepts
 

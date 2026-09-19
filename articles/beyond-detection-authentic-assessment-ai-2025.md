@@ -14,7 +14,7 @@ sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant [[governance|institutional]] response to [[generative-ai|generative AI]] in [[assessment]] — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, [[authentic-assessment|authenticity]] cannot be policed into existence; it must be redesigned. They reconceptualise authenticity as constructed where AI is expected, declared, and scrutinised, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
+> **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant [[governance|institutional]] response to [[generative-ai|generative AI]] in [[assessment]] — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, [[authentic-assessment|authenticity]] cannot be policed into existence; it must be redesigned. They reconceptualize authenticity as constructed where AI is expected, declared, and scrutinized, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
 
 ## The case against detection
 

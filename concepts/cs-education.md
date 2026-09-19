@@ -83,7 +83,7 @@ Because programming is where AI assistance is most powerful, it is also where th
 ### Ethics education and the workforce
 
 - **Ethics-to-behavior gap:** [[cost-of-ethics-crisis-cs-ethics-education|the "Cost-of-Ethics Crisis"]] shows CS students, despite contemporary ethics education, prioritize compensation, location, and culture over [[ethics|ethical]] concerns in job searches — a critical gap in how ethics instruction transfers to behavior.
-- **Workforce reshaping:** [[ai-engineering-computing-workforce-grey-literature-2026|a systematic review of U.S. grey literature]] frames the "Dual Train Problem" — rapid AI change racing [[governance|institutional]] adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]).
+- **Workforce reshaping:** [[ai-engineering-computing-workforce-gray-literature-2026|a systematic review of U.S. gray literature]] frames the "Dual Train Problem" — rapid AI change racing [[governance|institutional]] adaptation — and urges durable AI competencies, ethics/governance, and skill-based credentials aligned with emerging roles (e.g., [[prompt-engineering]], AI auditing, [[educational-policy-ai|AI policy]]).
 
 ### Connections
 

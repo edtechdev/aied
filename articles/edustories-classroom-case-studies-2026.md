@@ -16,11 +16,11 @@ sources: ['raw/papers/edustories-classroom-case-studies-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Štefánik et al. (2026) argue that AI-in-education research has overwhelmingly targeted individualised student assistance while most teaching worldwide still happens in collective classrooms. **Edustories** is their corrective dataset: 1,492 teacher-written case studies from [[k-12|elementary and high-school]] classrooms describing challenging student behaviour, the [[pedagogy|pedagogical]] interventions teachers attempted, and what followed. Its first application is diagnostic — [[benchmark|benchmarking]] whether [[llm|language models]] can predict whether a teacher's intervention succeeded — and the answer is a qualified no: the strongest models reached 58% accuracy against 64% for human experts.
+> **Synthesis:** Štefánik et al. (2026) argue that AI-in-education research has overwhelmingly targeted individualized student assistance while most teaching worldwide still happens in collective classrooms. **Edustories** is their corrective dataset: 1,492 teacher-written case studies from [[k-12|elementary and high-school]] classrooms describing challenging student behavior, the [[pedagogy|pedagogical]] interventions teachers attempted, and what followed. Its first application is diagnostic — [[benchmark|benchmarking]] whether [[llm|language models]] can predict whether a teacher's intervention succeeded — and the answer is a qualified no: the strongest models reached 58% accuracy against 64% for human experts.
 
 ## Key Findings
 
-1. **The dataset covers collective classroom practice**, not one-to-one tutoring: authentic situations with disruptive behaviour, teacher intervention and outcome, written by practising teachers.
+1. **The dataset covers collective classroom practice**, not one-to-one tutoring: authentic situations with disruptive behavior, teacher intervention and outcome, written by practicing teachers.
 2. **Current models fall short of human expertise but are not far behind** — best-model accuracy of 58% versus 64% for expert assessors across four language-model [[parents-and-families|families]].
 3. **Outcome prediction is framed as a prerequisite capability**, not an end in itself: without reliable prediction, teacher-facing [[ai-feedback-quality|feedback]] cannot be trusted.
 4. **The authors position teacher-facing assistance as the under-served direction** of [[ai-education|AI in education]], contrasting it with the volume of work on student-facing tutoring.
@@ -28,7 +28,7 @@ confidence: high
 
 ## Why a classroom-level dataset matters
 
-Individualised tutoring is the tractable case for AI: one learner, one dialogue, measurable progress. Collective teaching is harder — the unit of analysis is a group with its own dynamics, the teacher's action space includes management as well as instruction, and success is often judged by what did *not* happen. Building a corpus around teacher-written narratives gives researchers a substrate for [[teacher-ai-competency|teacher-facing]] systems, and the accuracy gap the authors measure is precisely the kind of baseline that keeps claims about AI as a teaching assistant honest.
+Individualized tutoring is the tractable case for AI: one learner, one dialogue, measurable progress. Collective teaching is harder — the unit of analysis is a group with its own dynamics, the teacher's action space includes management as well as instruction, and success is often judged by what did *not* happen. Building a corpus around teacher-written narratives gives researchers a substrate for [[teacher-ai-competency|teacher-facing]] systems, and the accuracy gap the authors measure is precisely the kind of baseline that keeps claims about AI as a teaching assistant honest.
 
 ## From prediction to assistance
 

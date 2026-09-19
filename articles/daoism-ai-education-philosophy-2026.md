@@ -74,7 +74,7 @@ The limits are stated plainly. The work is interpretive, not empirical, and does
 - [[cognitive-offloading]]
 
 ## Connected Articles
-- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments
+- [[ensemble-cognition-philosophy-ai-education]] — Toward a philosophy of ensemble cognition: Reconceptualizing agency and mind in AI-mediated educational environments
 - [[avraamidou-ai-colonization-science-education]] — Can we disrupt the momentum of the AI colonization of science education?
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis: conceptualizing the Post-Human Learner in the age of cognitive AI

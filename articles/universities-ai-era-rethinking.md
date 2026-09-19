@@ -32,7 +32,7 @@ The paper's central framework describes four stages of institutional response, r
 
 ## Key Strategic Steps
 
-To move beyond Level 1, the paper recommends concrete institutional actions: **recognize AI-driven curriculum redesign in workload models** so innovation is not dependent on unrecognised effort; **embed AI-enabled teaching innovation in promotion and teaching-award criteria**; **establish clear institutional principles** for AI use in learning and assessment; **redesign assessment toward reasoning and justification** in AI-rich environments rather than merely tolerating AI; and **create institutional pilots or funded initiatives** that scale successful innovations beyond individual courses.
+To move beyond Level 1, the paper recommends concrete institutional actions: **recognize AI-driven curriculum redesign in workload models** so innovation is not dependent on unrecognized effort; **embed AI-enabled teaching innovation in promotion and teaching-award criteria**; **establish clear institutional principles** for AI use in learning and assessment; **redesign assessment toward reasoning and justification** in AI-rich environments rather than merely tolerating AI; and **create institutional pilots or funded initiatives** that scale successful innovations beyond individual courses.
 
 ## Connections to Knowledge Base
 

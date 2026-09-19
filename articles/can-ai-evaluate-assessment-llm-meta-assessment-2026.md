@@ -54,7 +54,7 @@ page_kind: [evaluation]
 
 - [[end-of-assessment-ai-disruption-transformation-2026]] — The End of Assessment? Disruption and transformation in the age of AI
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment in an AI-mediated world
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[assessment-latent-structure-human-llm-2026]] — Assessment latent structure: human vs. LLM
 
