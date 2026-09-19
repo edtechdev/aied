@@ -1,7 +1,7 @@
 ---
 title: "From Abstract Ethics to Situated Practice: A Bibliometric Analysis of AI Ethics and Professional Judgement"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 technology: [human-in-the-loop-ai]
@@ -43,6 +43,20 @@ Although healthcare dominates citation metrics, [[ai-education|education]] emerg
 
 This bibliometric paper provides field-level empirical grounding for the knowledge base's core themes around [[ethics]], [[ai-education]], and human-centered AI integration. It documents a documented disciplinary and conceptual shift toward practice-based, [[human-in-the-loop-ai|human-in-the-loop]], and [[human-ai-collaboration|collaborative]] framings of AI ethics — reinforcing arguments that professionals should act as ethical agents rather than implementers of predefined frameworks. Its emphasis on [[trust]], interpretive practice, and professional judgment supports the knowledge base's treatment of AI not merely as a technical tool but as an ethically laden, context-sensitive technology. It also offers a [[research-methods-aied|methodological]] exemplar (bibliometric mapping) for tracing how the field's intellectual structure is evolving.
 
+## What this means for practice
+
+- **Researchers.** Study AI ethics as situated professional judgment rather than compliance, and pair trend mapping with qualitative and interpretive inquiry into how educators actually negotiate ethical tensions.
+- **Researchers.** Read citation counts as intellectual influence only; the authors state that highly cited work is not thereby practically or normatively more significant.
+- **Policymakers.** Ground explainability requirements in institutional justification and public reason, not computational transparency alone — the chapter's reading of Maclure (2021) is that ethical legitimacy depends on the former.
+- **Policymakers.** Resource teacher professional judgment as an ethical and interpretive capacity rather than standardizing it as a technical skill, which is how the educational literature in this corpus treats it.
+- **Policymakers.** Watch that education's conceptual weight is not confused with its citation weight: healthcare dominates citation impact while education carries the interpretive debates.
+
+## Limitations
+
+- Every one of the 282 records comes from a single database, Scopus, with the search executed on 31 December 2025, so coverage depends entirely on that index's inclusion criteria.
+- The design is descriptive–evaluative bibliometrics: the authors state it does not synthesize empirical findings or assess study quality, and it supports no causal inference.
+- Total citations and citations per year measure intellectual influence only; the authors explicitly state this limitation is inherent in citation-based approaches and qualifies how prominence of themes should be read.
+- Screening excluded work that treated AI ethics solely at policy or regulatory level or without professional-practice reference, an eligibility judgment that shapes what the corpus can show.
 ## Connected Concepts
 
 - [[ethics]]

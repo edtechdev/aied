@@ -1,7 +1,7 @@
 ---
 title: "Exploring AI perceptions in education: unveiling the role of student and teacher motivation and self-efficacy"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy]
@@ -29,6 +29,21 @@ confidence: high
 **Multilevel design.** A doubly latent ML-SEM on a large Swiss sample (907 students, 53 teachers; 12 primary and 3 lower secondary schools in a school-development program focused on digital-media integration) provides robust evidence. AI perception showed no meaningful between-class variance (ICC below 0.1) and was therefore modeled only at the individual level, while student motivation was decomposed into within- and between-class components; the model fit well (CFI = 1.00, RMSEA = 0.00).
 
 **Implication.** Fostering students' self-efficacy and motivation — especially among female students — plus teacher AI [[teacher-education]] (e.g., Tell-Show-Enact-Do learning designs) can promote more positive perceptions of AI in learning, informing [[ai-literacy]] programs in [[k-12]] settings. Limitations include the lack of AI-specific teacher readiness measures, no [[assessment]] of school infrastructure or students' actual AI access/use, and the absence of fine-grained teacher technological-knowledge indicators.
+
+## What this means for practice
+
+- **Instructors.** Build students' digital-media [[self-efficacy]] before handing them AI tasks: self-efficacy was positively associated with motivation (β = 0.43, p < .001), and motivation in turn predicted students' AI perception (β = 0.29, p < .001; the model explained 47% of the variance in AI perception).
+- **Instructors.** Target girls' lower confidence deliberately: girls reported significantly lower self-efficacy for learning with digital media than boys (β = −0.17, p < .001), a gap with direct bearing on [[equity-in-ai-education]].
+- **Learners.** Build your own fluency with digital media rather than waiting for an AI intervention — that motivation, not prior AI experience, was the student-level factor linked to seeing AI as useful for learning.
+- **Faculty developers.** Support teachers' motivation to integrate digital media, which was positively associated with aggregated class motivation (β = 0.71, p < .01) and strongly tied to teacher self-efficacy (β = 0.86, p < .001).
+- **Instructors.** Front-load motivation support in lower secondary grades: older classes showed significantly lower aggregated motivation to learn with digital media (β = −0.91, p < .001).
+
+## Limitations
+
+- AI perception was measured with a three-item scale (α = .87) asking only whether a machine with AI could help when stuck, would be practical, and would be liked; the study collected no data on students' actual AI access or use.
+- Data came from a single questionnaire wave in Spring 2023 in 12 primary and 3 lower secondary schools in German-speaking Switzerland that were already participating in a digital-development program, so all associations are correlational and context-bound.
+- The authors did not measure fine-grained teacher technological knowledge (training or experience with specific digital or AI tools) or systematically assess school technological infrastructure.
+- The negative class-level association between teacher self-efficacy and student motivation (β = −0.63, p < .05) is counterintuitive and, as the authors state, needs further research to identify the conditions under which it operates.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AI-Enhanced Problem-Based Learning Framework: Integrating ChatGPT as Adaptive Scaffolding to Improve Critical Thinking and Personalized Learning"
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-08-20T07:45:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [problem-based-learning, scaffolding]
@@ -28,10 +28,20 @@ page_kind: [framework]
 
 An explanatory sequential mixed-methods study with 120 eighth-grade students from four junior high schools in Ujung Pandang District, Makassar. The [[quantitative-research|quantitative]] phase used a one-group pre-test–post-test design to measure whether students' critical thinking changed after the AIPBL intervention (with ChatGPT as adaptive scaffolding); the qualitative phase examined how students used ChatGPT. This design captured both the extent of improvement and the process behind it.
 
-## Implications for AI in Education
+## What this means for practice
 
-For secondary education, the study provides evidence that [[generative-ai|generative AI]] can be integrated productively when embedded in a structured, teacher-guided [[pedagogy]] like [[problem-based-learning|problem-based learning]] — functioning as adaptive scaffolding that strengthens [[critical-thinking|critical thinking]] rather than substituting for it. It counters the assumption that AI use in classrooms necessarily reduces agency, showing instead that design and facilitation determine whether ChatGPT becomes a learning partner or a shortcut. The findings connect to the knowledge base's [[scaffolding]] and [[cognitive-offloading|over-reliance]] literature: the framework's structure is what prevents passive dependence.
+- **Instructors.** Embed ChatGPT inside a structured, teacher-guided [[problem-based-learning|problem-based]] sequence instead of offering it as a general answer machine: that structure is what produced the gains (60.3 to 73.5, d = 1.00) without passive dependence, because design and facilitation decide whether the tool acts as a learning partner or a shortcut.
+- **Instructors.** Build verification routines into tasks explicitly, requiring students to check claims, ask for exceptions, and name the evidence behind a statement — students' own questioning shifted this way over the eight sessions.
+- **Designers.** Add reflective checkpoints and prompt-quality work to the cycle, since students who monitored prompt clarity revised both their questions and their reasoning.
+- **Designers.** Position GenAI output as provisional information within the activity, and design the scaffolding so that the question — not only the answer — becomes a visible learning object.
+- **Instructors.** Keep school-level AI guidance aligned with classroom practice, as the authors recommend for schools beginning to address GenAI.
 
+## Limitations
+
+- The quantitative phase used a one-group pre-test–post-test design over eight weeks with no control group, so the authors state the improvement cannot be fully isolated from other external influences.
+- The 120 eighth-grade students came from four junior high schools in one district; the schools were selected for comparable implementation settings rather than to represent Indonesian junior high schools, and the authors warn against automatic generalization to schools with different resources or teacher readiness.
+- The qualitative phase rests on a purposive subset of 12 students and four teachers across the four classes.
+- Outcomes were limited to critical thinking and classroom interaction: long-term retention, transfer to other subjects, and changes in writing quality were not measured.
 ## Connected Concepts
 
 - [[problem-based-learning]]

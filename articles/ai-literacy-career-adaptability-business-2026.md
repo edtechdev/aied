@@ -1,7 +1,7 @@
 ---
 title: "AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [self-efficacy]
@@ -31,9 +31,13 @@ discipline: [business education]
 
 This survey study collected data from 339 university students enrolled in economics, management, and business-related degree programs (including Computer and Data Science for Economics and Corporate Communication) at Italian higher education institutions, using an online questionnaire (Microsoft Forms) distributed between March and June 2025. Students had substantive exposure to AI within their curricula (group work, laboratories, or project-based assignments involving AI). Constructs were measured with validated scales: AI literacy, AI readiness (operationalized at the individual level as motivational and cognitive readiness), AI self-efficacy (Wang & Chuang, 2024), and career adaptability (Career Adapt-Abilities Scale – Short Form, measuring concern, control, curiosity, confidence). Items were translated from English with a back-translation procedure and pre-tested with 17 students. Hypotheses were tested using linear regression and **moderated mediation analysis** (PROCESS Model 8, version 4.0, Hayes 2022) in SPSS, with all variables standardized. Common-method bias was mitigated procedurally and statistically, and all scales demonstrated adequate reliability (Cronbach's α = 0.817–0.829; CR = 0.742–0.860; AVE = 0.602–0.769).
 
-## Implications for AI in Education
+## What this means for practice
 
-The study advances understanding of how higher education supports preparation for AI-intensive careers by clarifying the role of AI readiness as a key developmental mechanism. It argues that future [[research-methods-aied|research]] on AI and employability should move beyond treating digital competencies as direct predictors of career outcomes, instead examining the intermediate conditions that enable learning to become career-relevant. The differentiated roles of [[ai-literacy]], self-efficacy, and readiness caution against aggregating them into undifferentiated skill indices. For management education, the findings call for [[curriculum-design|curricular]] architectures that integrate AI literacy across courses and progression points, [[pedagogy|pedagogical]] designs that normalize iterative experimentation with AI tools under guided supervision, and [[assessment]] strategies that evaluate applied judgment (problem framing, verification of outputs, responsible use) alongside technical understanding. It connects to [[student-experience]], [[higher-ed]], [[equity-in-ai-education]], and [[motivation]], positioning AI readiness as a central construct for professional preparedness under continuous technological change.
+- **Learners.** Do not treat literacy as the finish line: the effect of AI literacy on career adapt-abilities ran through AI readiness, so the competencies only became career-relevant once they translated into readiness to use AI in applied settings.
+- **Learners.** Seek supervised, iterative experimentation with AI tools rather than one-off exposure — the indirect effect was not significant at low AI self-efficacy (β = −0.012) but positive at medium (β = 0.022) and high (β = 0.057) levels.
+- **Learners.** Treat confidence as a distinct resource: AI self-efficacy had a direct association with career adapt-abilities (β = 0.255, p < .001) beyond the readiness pathway, so self-efficacy work is not a by-product of skills training.
+- **Instructors.** Keep literacy, readiness, and self-efficacy separate in course design and assessment instead of reporting one aggregate AI-skills index, because the three played different roles in this model.
+- **Instructors.** Assess applied judgment — problem framing, verification of outputs, responsible use — alongside technical understanding, and thread AI literacy across courses and progression points rather than confining it to a single module.
 
 ## Limitations
 

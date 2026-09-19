@@ -1,7 +1,7 @@
 ---
 title: "AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [learning-analytics, multimodal, personalized-learning, student-modeling]
@@ -57,11 +57,20 @@ Profy addresses RQ3, model-derived localization of performance differences in im
 
 The system highlights waveform regions emphasized by the classifier (where performance deviates) and shows model-derived acoustic distances from native-speaker distributions in latent space, giving learners both *where* and *how much* they differ. In an experiment with 10 Japanese learners of English evaluated by five American raters, Profy showed a larger observed improvement in pronunciation intelligibility than elicited imitation, and unlike that baseline its pre- and post-practice confidence intervals did not overlap. This represents a form of [[formative-assessment|model-derived feedback]] that scales beyond human instructors, connecting to [[language-learning]], [[student-modeling]], and embodied, [[embodied-learning|imitation-based skill acquisition]].
 
-## Implications
+## What this means for practice
 
-The framework illustrates how [[personalized-learning]] can address the time cost of sequential audio/video content and the lack of scalable feedback for imitation-based skill acquisition, notably in [[language-learning]] pronunciation. The three systems exemplify a [[feedback|Feedback Loop]] design where model confidence and learner behavior jointly drive adaptation, connecting to [[multimodal]] and [[student-modeling]] research while supporting [[self-regulated-learning]] and [[lifelong-learning]] goals — preserving learner access to the original material and repeated practice without removing learner agency.
+- **Designers.** Regulate playback where comprehension actually varies — at the phoneme level — rather than applying one fixed rate: AIxSpeed produced average playback factors of 1.30x (LibriSpeech) and 1.29x (UME-ERJ) and outscored constant-speed playback matched to the same averages in a blind evaluation with 50 participants.
+- **Designers.** Keep the original material one click away: 78% of 40 participants rated chapter-by-chapter switching between summary and full video as useful or very useful, and FastPerson cut viewing time by 53% with no statistically significant quiz-score difference.
+- **Designers.** Deliver imitation feedback that localizes the difference instead of scoring it — Profy highlights the waveform regions driving the classifier's judgment and shows acoustic distance from native-speaker distributions, and its pre/post intelligibility confidence intervals did not overlap, unlike elicited imitation.
+- **Designers.** Treat Consume–Understand–Imitate as one coordinated model rather than three point solutions, since the stages are cyclical and the framework explicitly argues against tooling a single stage; pair it with [[multimodal]] and [[student-modeling]] design so model confidence and learner behavior jointly drive adaptation.
+- **Researchers.** Extend the systems' validation before reusing the paradigm: the author positions adaptive speed, multimodal preservation, and tacit skill feedback as complementing [[llm|LLM-based systems]] rather than replacing text interaction, and calls for long-term effect validation.
 
-The three-stage Consume–Understand–Imitate framing offers a reusable model for AI-guided media learning, and the dissertation argues these [[ai-technologies|technologies]] extend beyond audio-visual domains. Limitations acknowledged by the author include the need for long-term effect validation, the early-stage sample sizes, and generalization beyond pronunciation and language domains. The work positions itself as complementary to [[llm|LLM-based systems]]: rather than replacing text-based [[student-ai-interaction|AI interaction]], it argues that adaptive speed, multimodal preservation, and tacit/imitation-based skill feedback address dimensions — prosody, visual continuity, and embodied practice — that language models alone cannot fully cover.
+## Limitations
+
+- **Small evaluation samples:** AIxSpeed was tested blind with 50 participants, FastPerson with 40 video viewers, and Profy with 10 Japanese learners of English rated by five American raters.
+- **Summaries can lose content:** for some questions, correct-answer percentages were higher when the original video was viewed, and the author also flags room for improvement in summary depth and synthesized audio quality.
+- **Adaptation rests on a proxy:** AIxSpeed infers listening difficulty from speech-recognition confidence (correlated at 0.9977 with human transcription accuracy for speeds above 1.0x), and the author notes performance may vary with input acoustics, speaker diversity, and content complexity.
+- **Generalization and duration remain unproven:** the dissertation evaluates pronunciation only, states it provides no evidence that Profy's framework extends to other imitation domains, and calls for longitudinal study of long-term learning outcomes.
 
 ## Connected Concepts
 

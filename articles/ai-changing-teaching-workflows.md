@@ -1,7 +1,7 @@
 ---
 title: How AI Is Changing Teaching Workflows
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
@@ -65,6 +65,21 @@ Nearly half of educator-AI conversations involved assessment tasks, but some tea
 ## What's Next: Agentic AI
 
 The shift from single-prompt [[conversational-ai|chatbots]] to [[agentic-ai|agentic AI]] systems represents the next evolution. A multi-agent scoring system — separate agents for content, grammar, and coherence, with a lead synthesizer — outperformed standalone GPT-4o by **8.4% accuracy and 13% consistency**. The teacher's role shifts from prompter to orchestrator, connecting to [[agentic-workflows-education]] and [[human-in-the-loop-ai]] design patterns.
+
+## What this means for practice
+
+- **Instructors.** Reallocate the time AI saves rather than banking it: ChatGPT-using teachers in the EEF trial spent 69% of the control group's preparation time (about 25 minutes a week), and the ones who gained most redirected that time to planning, grading, and student-facing work.
+- **Instructors.** Never send AI assessment to students without criteria and rubrics: nearly half of educator conversations involved assessment tasks, and some teachers requested evaluations of student work without specifying criteria, which risks inconsistent and biased judgments in [[automated-assessment|automated grading]].
+- **Faculty developers.** Teach iterative prompting rather than first-draft generation, because almost no teachers in the transcript analysis used follow-up prompts to refine output and prompt quality determined output quality — the teachers who need AI most (early career, under-resourced, outside their expertise) were the least equipped to prompt it.
+- **Administrators.** Protect freed time for relational work instead of absorbing it into new duties: in the Brazil RCT, AI-supported classrooms saw roughly 35% more one-on-one conversations about writing and a 20% drop in teacher at-home hours, with the share reporting time as "very insufficient" falling from 23% to 9%.
+- **Instructors.** Check AI lesson materials for the scaffolds human designers add: AI plans were rated "neutral" on support for multilingual learners and students with disabilities, and human plans were preferred about 65% of the time at the elementary level.
+
+## Limitations
+
+- The article is a sponsored editorial synthesis rather than primary research: it is part 2 of a 7-part series from a Stanford research repository, written for a newsletter (Edtech Insiders, sponsored by the Overdeck Family Foundation), and it reports no methods, samples, or effect sizes of its own.
+- Its evidence base is heterogeneous and not directly comparable — a controlled trial across 68 schools and 259 science teachers in England, a randomized experiment in 178 Brazilian schools with roughly 19,000 seniors, a log analysis of 13,071 conversations from more than 15,000 educators on one platform, and a qualitative study of 22 teachers in one U.S. district — testing different tools in different countries.
+- The bottom quartile of students showed no improvement under either AI condition in the Brazil RCT, so the reallocation finding does not extend to the lowest performers.
+- The component-level quality claims (59.7% preference for AI lesson conclusions, 59.2% for high school content, 54.5% for customized GPT-4 at middle school, ~65% human preference at elementary level) come from blind expert and designer comparisons whose protocols are summarized rather than reported.
 
 ## Connected Concepts
 

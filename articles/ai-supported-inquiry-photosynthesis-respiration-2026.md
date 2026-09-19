@@ -1,7 +1,7 @@
 ---
 title: "AI-Supported Inquiry-Based Learning in Photosynthesis and Respiration: Implications for Sustainable Science Teacher Education"
 created: "2026-08-24T08:46:00-04:00"
-updated: "2026-09-12T09:15:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking]
 pedagogy: [inquiry-based-learning]
@@ -41,9 +41,20 @@ Over eight weeks the experimental group worked in groups of five on authentic bi
 
 Qualitatively, participants reported that the activities helped them understand and reinforce concepts, correct misconceptions (e.g., that light is required in all photosynthesis stages), relate ideas to daily life, and develop digital content. They described engagement in [[problem-solving]], planning and decomposition, pattern recognition, debugging, and collaboration. These reflections align with science-specific [[computational-thinking|computational thinking]] practices, yet the authors stress they represent perceived engagement rather than evidence of improvement in the broader measured constructs.
 
-## Implications
+## What this means for practice
 
-The authors argue that AI-supported inquiry can strengthen disciplinary conceptual learning even when broader competencies do not change measurably, and that the null effects likely reflect [[generative-ai|AI]] and [[computational-thinking|computational thinking]] being embedded rather than taught as explicit goals, within an eight-week window too short for standardized, self-reported gains. For [[teacher-education|science teacher education]], they recommend gradually embedding AI literacy and computational thinking into authentic disciplinary learning experiences rather than treating them as isolated technical skills, and integrating them across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses. They frame this as fostering competencies associated with sustainable science teacher education—responsible AI use tied to evidence-based [[inquiry-based-learning|inquiry]], collaboration, and critical evaluation—while acknowledging that [[sustainability]] skills were not directly measured. Methodologically, the [[constructivist]] framing and the use of reflective self-evaluation as [[formative-assessment|formative assessment]] point to design-based and inquiry [[pedagogy|pedagogies]] as vehicles for [[misconceptions|conceptual change]], though the quasi-experimental intact-class design limits causal claims about AI's independent contribution.
+- **Instructors.** Use AI-supported guided inquiry when the goal is disciplinary conceptual learning: the experimental group's photosynthesis scores rose from 22.58 to 38.53 against 23.54 to 30.63 in the control group (F(1,41) = 22.79, p < 0.001, ηp² = 0.357), with a comparable effect for cellular respiration (F(1,44) = 25.70, p < 0.001, ηp² = 0.369).
+- **Faculty developers.** Make [[ai-literacy]] and [[computational-thinking]] explicit instructional goals rather than implicit by-products: eight weeks in which AI was embedded as scaffolding produced no significant group-by-time gains in either (F(1,42) = 0.740, p = 0.395; F(1,35) = 2.384, p = 0.132).
+- **Faculty developers.** Embed these competencies gradually across science methods, laboratory, [[stem-education|STEM]], and instructional technology courses instead of treating them as isolated technical skills, in line with the design-based and inquiry [[pedagogy|pedagogies]] the study used.
+- **Instructors.** Require verification of AI output against original academic sources and teach prompt writing as part of the task: participants reported gains in [[misconceptions|correcting misconceptions]], inquiry, collaboration, and critical evaluation of AI-generated content, though those are perceived rather than measured improvements.
+
+## Limitations
+
+- The study used two intact classes of 48 second-year [[teacher-education|pre-service science teachers]] (25 control, 23 experimental) with purposive rather than random assignment; the higher-achieving section was assigned to the control group deliberately, so class membership, prior achievement, and intervention effects cannot be fully separated.
+- The eight-week window is too short for standardized self-report measures to register change in broader competencies, which the authors give as a reason the AI literacy and self-perceived computational thinking null results should not be read as evidence of no effect.
+- The AI literacy scale's post-test reliability was poor (α = 0.557) and complete-case analysis shrank the analytic samples (degrees of freedom of 41, 44, 42, and 35 rather than the full roster), reducing measurement sensitivity and statistical power.
+- The qualitative component relied on reflective self-evaluation forms and therefore captures perceived engagement rather than measured skill, and the sustainability competencies the framing invokes were not directly measured at all.
+
 
 ## Connected Concepts
 

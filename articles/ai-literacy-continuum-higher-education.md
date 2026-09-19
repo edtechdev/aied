@@ -1,7 +1,7 @@
 ---
 title: "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [mastery-learning, scaffolding]
@@ -30,9 +30,20 @@ confidence: high
 
 The five stages are explicitly intended as a diagnostic device, not just a description: educators can locate where learners begin and design instruction that moves them toward responsible, critical engagement. The framework's practical value lies in pairing each stage with observable behaviors and appropriate assessment, so that AI literacy is treated as a developmental capacity to understand, evaluate, and responsibly apply AI systems in disciplinary and societal contexts — rather than as tool adoption alone.
 
-## Implications for AI in Education
+## What this means for practice
 
-The continuum gives [[curriculum-design]] and [[educational-development]] a shared vocabulary for sequencing AI literacy instruction, and its alignment with international frameworks supports [[governance|institutional]] uptake. The NC State case suggests that movement along the continuum is most visible when experiences are sustained and embedded in disciplines, implying that one-off workshops may shift students from non-engagement toward informed use, while deeper stages require ongoing, context-rich opportunities. The authors' framing of their evidence as observational and practice-based also models appropriate epistemic humility for institutions adopting the framework, and their discussion of [[equity-in-ai-education|equity]] considerations reminds educators that access and disposition shape where students enter the continuum.
+- **Instructors.** Locate where students enter the continuum before deciding what to teach: entry surveys, reflective statements, and discussion of ethical concerns distinguish avoidance (fear, mistrust, objections, no access) from uncritical use, and the two need different responses.
+- **Instructors.** Tie each stage to the evidence it requires — exercises identifying hallucinated citations and unsupported claims at Stage 2, discipline-specific critiques of assumptions, uncertainty, and consequences of error at Stage 3, and evaluation protocols or systematic improvement of AI performance at Stage 4.
+- **Instructors.** Do not expect a one-off workshop to reach Critical Evaluation. In the NC State case, brief 1–2 day training moved participants from Stage 0 into Stages 1–2, while progression to Stages 3–4 came with sustained, discipline-embedded coursework.
+- **Learners.** Do not count fluency with a tool as literacy: the continuum places Uncritical Use before literacy, and treats verifying outputs, documenting AI use, and knowing when human judgment must override a suggestion as the graduation baseline.
+- **Administrators.** Adopt the continuum as shared vocabulary between policy frameworks (UNESCO, OECD) and course-level decisions, and fund the sustained provision that makes progression possible — the NC State academy offers 30–40 one-credit AI-related courses each semester across all colleges.
+
+## Limitations
+
+- The framework is proposed as a pedagogical heuristic, not a validated model: it rests on the authors' multi-year teaching experience, synthesis of existing literature, and observational evidence, and they state the stages have not been subjected to systematic data collection or psychometric analysis.
+- The NC State case used no validated pre/post instrument and no comparison group, so stage movement is inferred from feedback, observations, and instructor judgment rather than measured; the paper also notes the boundary between Stages 2 and 3 may be less clear in practice than the framework suggests.
+- The case combines credit-bearing courses, intensive workshops, and outreach reaching over 330 participants, including high school students and international visitors, and reports no per-program completion or attrition counts — so the proportions of learners reaching later stages cannot be estimated.
+- The continuum was developed from observations primarily in North American higher education, and the authors state that cultural and institutional variation may affect its applicability; students may also sit at different stages for different tasks or disciplines, which the single stage label hides.
 
 ## Connected Concepts
 - [[reducing-ai-misuse]]

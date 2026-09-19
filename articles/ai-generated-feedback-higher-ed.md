@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence and feedback in university education: effectiveness and student perceptions"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -55,16 +55,18 @@ AI-generated feedback was experienced as acceptable and supportive, comparable t
 ## Interpretation: Source vs. Architecture
 The authors' core argument: **feedback works as a systemic, relational process, not a function of who (or what) produces it.** In this study both AI and teacher feedback were anchored to the *same explicit rubric and student co-constructed exemplar*, which made criteria transparent and gave the AI an "interpretative anchor" usually tacit in human grading. It is the **teacher's assessment literacy** — encoded in the rubric and exemplar — that calibrated the AI, not the model alone. Thus [[generative-ai|generative AI]] is best seen as a **support for teachers with strong assessment literacy** (scaling timeliness/consistency) rather than an autonomous replacement. The study explicitly warns against over-reliance and unequal access, and calls for maintaining teacher oversight and students' critical [[student-engagement|engagement]].
 
-## Limitations (per authors)
+## What this means for practice
+
+- **Instructors.** Co-construct the assessment rubric and an exemplar with students, then supply both to the AI: this [[rag|retrieval-augmented]] set-up anchored GPT-o4-mini and DeepSeek R1 to the same 0–30 criteria used to judge student work, and GPT-o4-mini came out both non-inferior and equivalent to expert teacher feedback (+0.23 points, 90% CI [−0.46, 0.91]).
+- **Instructors.** Use AI feedback to scale timeliness and consistency while retaining teacher oversight: [[generative-ai|generative AI]] in this study is support for teachers with strong assessment literacy, not an autonomous replacement.
+- **Faculty developers.** Train assessors to make criteria explicit before introducing AI feedback — the calibration device was the rubric and exemplar, not the model, which is why the same architecture worked with two different LLMs.
+- **Instructors.** Tell students when feedback is machine-generated and prompt them to engage critically with it; students were blind to source yet rated AI and teacher feedback comparably, and the authors flag over-reliance and unequal access as risks even in a positive-result study.
+- **Researchers.** Treat this as a well-controlled data point (randomized, blind, equivalence-tested) that AI-generated feedback can match expert teacher feedback for [[project-based-learning|project-based learning]] when criteria and assessment literacy are high, complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work and bracketing [[ai-education|AIED]] design-dependence alongside the PNAS [[rct]] on unguarded AI tutoring.
+
+## Limitations
 - **Ceiling effect:** 91% of groups scored ≥27/30 (SD = 0.95) — limits sensitivity of post-test comparisons; equivalence rests mainly on adjusted-gain analyses.
 - **Small group-level N = 47** → wide CIs; modest source differences can't be fully ruled out.
 - **No prior-AI-experience data** collected; single course / discipline (Primary Teacher Education); **student assessment literacy not measured** (treated as a hypothesis, not tested).
-
-## Implications for the knowledge base
-- A strong, well-controlled (randomized, blind, equivalence-tested) data point that **AI-generated feedback can match expert teacher feedback** for [[project-based-learning|project-based learning]] **when criteria are explicit and assessment literacy is high** — complementing [[ai-feedback-quality]] and [[ai-learning-companions-framework]] work.
-- Pairs naturally with [[generative-ai-guardrails-harm-learning]] (the PNAS [[rct]]): that study shows *unguarded* AI tutoring can *harm* learning, this one shows *well-architected* AI feedback can *match* teachers — together they bracket the design-dependence of [[ai-education|AIED]] outcomes.
-- Reinforces [[formative-assessment]], [[feedback|Feedback Loop]], and [[ai-literacy]] (teacher and student) as the decisive variables, over the raw tool.
-- Connects to [[rag|retrieval-augmented generation]] as a calibration mechanism and to [[cognitive-offloading|Over-Reliance]] (the authors flag it as a risk even in a positive-result study).
 
 ## Connected Concepts
 

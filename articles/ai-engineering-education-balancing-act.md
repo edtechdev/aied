@@ -1,7 +1,7 @@
 ---
 title: "Using AI in engineering education: a balancing act, driven by clear purpose"
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [learning-analytics, llm]
@@ -29,10 +29,20 @@ confidence: high
 
 The chapter treats assessment as a key lever, reviewing frameworks such as the AAA (Against, Avoid, Adopt) approach, which keeps lower-order assessment tasks supervised when AI can complete them (e.g., recalling facts, explaining concepts) and relies on contextualization in current affairs, personal experiences, and in-class [[student-engagement|engagement]] for higher-order skills. These recommendations align with the students' own suggestions for closed, supervised, or oral formats, and signal a shift in the instructor's role from policing AI use toward reflectively adapting assessment for AI's possible (mis)use.
 
-## Implications for AI in Education
+## What this means for practice
 
-The "cruel optimism" argument has direct consequences for pedagogy: the efficiency gains of AI are only realized when learners already possess the [[critical-thinking]] and domain expertise needed to judge AI output — precisely the skills that education is supposed to build. This makes [[ai-literacy]] and verification capacity prerequisites rather than optional extras, and cautions against [[framing-ai-use-for-students|framing AI]] tools as substitutes for expertise. For engineering education specifically, the balancing act lies in leveraging LLM support for writing, coding, and brainstorming while designing assessments and curricula that keep the burden of verification and the development of judgment inside the learning process, guarding against [[cognitive-offloading|Over-Reliance]].
+- **Instructors.** Gate every adoption decision on purpose: ask why GenAI is needed for this course or assignment and what added value it delivers before adding it, which is the chapter's own proposed approach.
+- **Instructors.** Make [[ai-literacy]] and verification capacity prerequisites rather than extras, because the efficiency gains students prize are only realized by learners who already have the [[critical-thinking]] and domain expertise to judge AI output — the skills they are there to build.
+- **Learners.** Stop treating the [[llm]] as an oracle or a tutor: it is a probabilistic text generator whose fluent authority exceeds its reliability, and the verification burden lands on you and on your knowledge of the domain.
+- **Instructors.** Redesign assessment toward contextualization, in-class engagement, and oral or supervised formats for lower-order tasks, which is both the AAA framework reviewed in the chapter and what students themselves proposed (N=27).
+- **Faculty developers.** Support staff in shifting the instructor's role from policing AI use toward reflectively adapting assessment and [[pedagogy|pedagogy]] for AI's possible misuse.
 
+## Limitations
+
+- The evidence is a questionnaire of 100 higher-education students conducted online in 2023–24; the author states she does not "pretend to generalize from the questionnaire alone" and describes its size and timespan as limitations.
+- The sample is self-selected and international, dominated by engineering fields (52% of respondents), so the use patterns reported are not representative of all students.
+- 19 of the 100 respondents had never used [[llm|LLMs]] for their studies, so the reported use patterns rest on the remaining 81 users, and the questionnaire collected no learning-outcome data.
+- The chapter is a conceptual and literature-based analysis, not a controlled study: it documents perceptions of value and risk and cannot establish an effect of LLM use on learning.
 ## Connected Concepts
 
 - [[ai-literacy]]

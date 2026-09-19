@@ -1,7 +1,7 @@
 ---
 title: "Design Principles and Observable Indicators for AI-Enabled Pedagogical Accompaniment: Evidence from the Amico Dual-Mode Prototype in Italy and China"
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding]
@@ -52,9 +52,20 @@ The study adopts an exploratory, mixed-methods research design appropriate to ea
 
 Preliminary findings are reported descriptively and interpretatively, without claims of statistical generalization. Both interaction modes were perceived as useful but for different purposes: AmicoMio for clarity and task orientation, AmicoTuo for reflection and motivational support. Observable indicators showed that transition-to-human prompts occurred and micro-action completion rates were higher with structured prompts, while communicative autonomy improved between pre- and post-interaction phases, particularly after AmicoTuo sessions. Usage remained bounded with no clear patterns of excessive or exclusive use. Cross-context differences were context-sensitive rather than divergent: Italian participants emphasized the dialogical, meaning-making aspects of AmicoTuo, while Chinese participants emphasized its relational harmony and contextual sensitivity, with AmicoMio valued for technical reliability in work-oriented contexts. Notably, participants in both contexts recognized the system's orientation toward human mediation and did not report expectations of substitution or emotional dependency — evidence bearing on [[ai-misuse-learning-harm]] and [[reducing-ai-misuse]].
 
-## Implications
+## What this means for practice
 
-The findings carry implications for design, evaluation, and policy. For design, the dual-mode configuration demonstrates that interaction style is a meaningful design dimension: offering multiple, pedagogically grounded modes can enhance adaptability without sacrificing coherence, provided all modes remain aligned with the same ethical and educational constraints. For evaluation, the linkage between design principles and observable indicators enables a form of [[ai-ed-evaluation|pedagogical accountability]] that goes beyond system performance metrics, allowing educators and institutions to identify early signals of misalignment or risk and to operationalize high-level ethical commitments into evaluable criteria. For policymakers and institutions, the framework offers a practical pathway to translate [[governance]] and [[ethics]] commitments into measurable criteria. The proposed collaborative research agenda calls for a shared data-collection protocol across sites, cross-cultural validation through international partnerships, a governance and compliance package aligned with both EU and Chinese [[regulation|regulatory]] frameworks, and the public release of replicable rubrics, item banks, and observation codes. Future work will pursue larger-scale validation, longitudinal study of learner trajectories, and dynamically adapted mode-switching guided by pedagogical intent.
+- **Instructors.** Adopt human-in-command as a design requirement rather than a slogan: adults retain the educational decisions, relational boundaries, and ethical oversight while the AI supplies only temporary mediation.
+- Keep the tool's role bounded and directional: cap session duration and frequency, and design each interaction to end in a next step with a teacher, peer, or community instead of more conversation with the AI.
+- Separate task support from reflective support in the interface. The two modes were valued for different purposes — structured guidance for technical clarity, maieutic questioning for reflection and motivational support — and learners treated them as complementary.
+- Evaluate by whether learners transition to human contact and act, not by engagement with the AI: the framework's indicators are transition-to-human prompts, micro-action completion rates, and pre/post communicative autonomy.
+- Instrument the safeguards before scaling: flag repeated or exclusive use patterns, solicit no sensitive data, and prompt human contact when usage thresholds are reached.
+
+## Limitations
+
+- The pilot covers N = 30 participants (12 in Italy, 18 in China) across 20 bounded sessions, and the preliminary findings are reported descriptively and interpretatively, with the author explicitly making no claim of statistical generalization.
+- The author holds leadership roles in both partner organizations — co-founder of Edulife and Deputy General Manager at Zhejiang Yizhong Intelligent Technology Co., Ltd. — disclosing this as positionality and mitigating it only through facilitator oversight and triangulation across logs, rubrics, and surveys.
+- Participants include learners, teachers, and parents across three broad age groups, so the pre/post self-report measures and rubrics mix roles and ages rather than isolating learner effects.
+- There is no comparison condition: the study is exploratory design-based evidence on feasibility and perceived usefulness, not an efficacy evaluation, and larger-scale validation and longitudinal tracking of learner trajectories remain future work.
 
 ## Connected Concepts
 - [[human-in-the-loop-ai]]

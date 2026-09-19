@@ -1,7 +1,7 @@
 ---
 title: "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost"
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai]
@@ -29,6 +29,20 @@ While framed broadly, the implications for [[teacher-role|teachers]] and educati
 The incentives factor connects to concerns in [[academic-integrity]] — if students and teachers lack incentives for fair AI use, productivity gains may be captured by surface-level efficiency while deeper learning suffers. The framework complements [[genai-assessment-governance|GenAI assessment governance]] by highlighting that technical capability alone is insufficient without attention to the human systems within which AI is deployed.
 
 For [[higher-ed]] institutions investing in AI infrastructure, this paper serves as a cautionary reminder that deployment without attention to training, incentives, and organizational readiness may fall short of promised gains — a finding consistent with [[ai-fatigue-academic-contexts|research on AI fatigue]] among students.
+
+## What this means for practice
+
+- **Instructors.** Budget for the learning curve before promising time savings: if practitioners cannot adapt quickly, AI tools may reduce rather than increase productivity — the same overestimation pattern documented in [[cognitive-offloading-speedup-illusion]].
+- **Instructors.** Set explicit expectations for fair and appropriate use so any efficiency gain does not come from surface-level shortcuts; the incentives moderator connects directly to [[academic-integrity]] and to the risk that deeper learning is bypassed.
+- **Administrators.** Treat human-resource composition and staff baseline capability as variables you manage rather than fixed conditions — the paper's central revision is that these five factors are endogenous organizational choices, not exogenous parameters.
+- **Administrators.** Fund training, incentives, and the flexibility to revise objectives alongside AI deployment, since the framework predicts that adoption without attention to those human systems falls short of promised gains.
+
+## Limitations
+
+- This is a position paper: it revises the partial equilibrium model of Gries and Naudé (2022) and presents no new empirical estimate of how much each moderator attenuates productivity gains.
+- The five moderators are argued to be endogenous rather than measured, so the framework's predictions about training, incentives, and flexible objectives remain untested within the paper.
+- Its larger claims rest on external evidence — cross-country firm-level findings that AI adoption concentrates in large, already-productive firms and Acemoglu's (2025) lower aggregate productivity estimates — rather than on data the authors collect.
+- The authors acknowledge the limits may prove transitional rather than structural, citing electricity adoption, which required decades of factory reorganization before productivity benefits appeared; the framework cannot say how long the gap will persist.
 
 ## Connected Concepts
 - [[human-ai-collaboration]]
