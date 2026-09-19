@@ -1,7 +1,7 @@
 ---
 title: "The Chain Behind the Claim: Warrantability in AI-Assisted Qualitative Research"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 technology: [generative-ai, learning-analytics, llm]
 ethics: [ethics, trust-calibration]
@@ -40,6 +40,21 @@ Two benefits follow. For **peer review**, warrant artifacts give reviewers somet
 ## Contribution to the knowledge base
 
 This essay adds a **procedural epistemology** for AI-assisted [[qualitative-research|qualitative research]] that complements the wiki's existing treatments of AI-in-research. Where [[research-methods-aied]] pages and reviews catalog methods, reporting models (e.g. [[ai-detection|transparency]] frameworks), and evaluation practice, Holster supplies a concrete standard (warrantability) and concrete artifacts (semantic lenses, lens stacks, evidence rivers) for judging whether an AI-mediated interpretation is trustworthy. It connects to [[trust-calibration|trust]] (knowing when to trust an AI-assisted analysis), to [[research-methods-aied|research methods]] and reporting conventions, and to broader concerns about [[academic-integrity|integrity]] and rigor in the generative era. It is an essay/proposal rather than an empirical study, so its value is conceptual: giving the field a shared vocabulary and a design target for transparent AI-assisted qualitative tools.
+
+## What this means for practice
+
+- **Researchers.** Log the full prompt–response sequence and the corpus version behind every LLM pass, because fluency makes a generated theme list look inevitable long before its evidentiary work has begun.
+- Pair each prevalence claim with a complete or explicitly sampled unit–topic record, keeping quotations verbatim and linked to stable record identifiers, and leave units that fit multiple topics, fit none, or contradict a topic visible rather than dropping them.
+- Record the successive semantic lenses through which the corpus was reorganized so a reader can retrace the path from raw responses to the finished claim, not only inspect the claim.
+- Keep warrant artifacts claim-relative: an exploratory map may need only a source-linked topic table and a saved model interaction, while a study touching identity or community representation calls for participant response or explicit counterexample tracking.
+- Report AI use as a pathway rather than a disclosure, stating which inferential moves the model made, which the researchers made, and where human judgment entered.
+
+## Limitations
+
+- It is an essay/proposal rather than an empirical study: neither the warrantability standard nor the artifact repertoire (source-linked topic tables, lens stacks, evidence rivers) is tested against a corpus, a tool build, or reviewers.
+- The authors leave privacy, ownership, consent, and model bias unresolved, noting that sensitive data may require local models, institutional agreements, or synthetic examples.
+- The framework gives a model no authority to decide whose experience matters, so low-frequency concerns, culturally specific language, irony, and relational meaning remain vulnerable to erasure.
+- Lower technical barriers do not by themselves produce equity: subscription costs, institutional data agreements, and uneven language coverage still stratify use, and the authors concede that a fully documented analysis can still be shallow or wrong.
 
 ## Connected Concepts
 

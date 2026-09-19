@@ -1,7 +1,7 @@
 ---
 title: "TriKoNet: The Trivalence Model of Potential Co-Creativity in Socio-Technical Networks"
 created: "2026-09-09T09:05:09-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [agency]
 pedagogy: [collaborative-learning, creativity, sociocultural-learning]
@@ -27,6 +27,20 @@ The paper engages with the "Convenience Trap," which shifts human [[agency]] and
 ## Design Implications
 
 TriKoNet allows diagnosing the extent to which technical artifacts stabilize, destabilize, or re-stabilize creative learning processes under three conditions: shared cultural reference resources, opportunities for meta-communication, and structurally open scripts. From this the article derives four preliminary design principles and a modular design framework connecting stable structural principles (role logic, technical presence, claim to [[inclusive-learning|inclusion]]) with variable appropriation space — a starting point for translating TriKoNet into a design instrument to be tested later. Implications for practice include focusing on technological agency, promoting co-creative learning networks, orchestrating interplay between students and AI agents, and preferring modular tools over ready-made avatars.
+
+## What this means for practice
+
+- **Designers.** Treat technical artifacts as constitutive network participants: what matters is not whether an AI avatar is a black box but whether learners co-constitute its action structure through problematization, interessement, enrollment, and mobilization.
+- **Designers.** Prefer modular tools over ready-made avatars; students unanimously rejected photorealistic representation and used the modular space to author their own role concepts instead of adopting a supplied persona.
+- **Designers.** Engineer the three enabling conditions the model identifies: shared cultural reference resources, opportunities for meta-communication, and structurally open scripts.
+- **Researchers.** Diagnose a design by asking whether an artifact stabilizes, destabilizes, or re-stabilizes the creative process, rather than whether it is good or bad in itself.
+
+## Limitations
+
+- The empirical base is small and exploratory: 18 recruited students formed into 9 pairs, one pair dissolved before analysis, leaving n = 8 groups.
+- Recruitment ran through invitations to subject representatives and active student registration rather than randomization, and the sought balance of humanities, social-science, and natural-science students was not enforced.
+- The triadic Dreamer–Critic–Realist structure is analytically constructed, and the paper states its validity for natural creativity processes still requires investigation.
+- Qualitative evidence comes from single sessions of about 90 minutes plus 132 pages of interview transcripts and Miro boards, and the paper notes that the framework organizing its own analysis stayed implicit while other actants were reconstructed explicitly.
 
 ## Connected Concepts
 - [[creativity]]

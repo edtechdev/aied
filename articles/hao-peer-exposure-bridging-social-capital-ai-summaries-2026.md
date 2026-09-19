@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Peer Exposure and Creating Opportunities for Bridging Social Capital Through an AI-Generated Summary-Driven Learning Design in Online Discussion Forums"
 created: "2026-09-06T12:48:50-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 pedagogy: [collaborative-learning, online-teaching-and-learning, scaffolding, student-engagement]
 technology: [generative-ai, llm]
@@ -29,6 +29,20 @@ Prior research on online discussion engagement has largely targeted posting and 
 ## Implications for AI in Education
 
 The study shifts attention from posting to the **viewing/attentional behaviors** that scaffold [[collaborative-learning|peer learning]], arguing these are observable evidence of opportunities to access diverse perspectives (the conditions for developing *bridging* social capital). For designers of [[generative-ai|AI]] support in [[online-teaching-and-learning|online learning]], it suggests AI-generated summaries can be a low-cost, scalable alternative to instructor- or student-authored summaries that preserves engagement benefits. Yet it cautions that technological affordances alone do not solve engagement decline driven by broader academic pressures: AI-SLD should be paired with socio-pedagogical strategies to sustain participation across a semester. The authors also note that log-based network analysis cannot measure the depth or quality of viewing, urging future work that connects viewing behavior to discussion quality and cognitive engagement.
+
+## What this means for practice
+
+- **Instructors.** Post an AI-generated summary of the week's discussion, plus one AI example post, as a navigation map before students read threads; the supported iterations raised viewing breadth (standardized out-degree centrality β = 0.547 and 0.438 versus baseline, both p < 0.001).
+- **Instructors.** Do not rely on the summaries to hold participation: viewing activity declined in later weeks across all iterations and students attributed it to draft-assignment deadlines, so pair the [[scaffolding]] with socio-pedagogical strategies.
+- **Instructors.** Deploy the design when topics are unfamiliar, since students consulted more peers when a topic felt new and narrowed their viewing when it felt familiar.
+- **Researchers.** Connect viewing behavior to discussion quality; log-based [[learning-analytics]] cannot show whether viewing was deep or shallow.
+
+## Limitations
+
+- The three iterations are separate cohorts in different academic years (baseline n = 49 in 2021–22, pilot n = 40 in 2022–23, main n = 39 in 2023–24), so cohort-level differences such as post-pandemic online-learning experience may explain the behavioral shifts, and the findings are not causal.
+- Social network analysis of Moodle log data cannot determine the depth or quality of learners' viewing engagement.
+- The planned random-slopes model failed to converge because many students did not participate in all 8 weeks, forcing a random-intercepts-only model, and OLS replaced mixed effects for density because only three groups existed.
+- Interview evidence is partial: 31 students from the pilot and main cohorts only (about 60 minutes each, recruited voluntarily after grades were released), and pilot interviewees were told the summaries were human-written.
 
 ## Connected Concepts
 

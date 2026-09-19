@@ -1,7 +1,7 @@
 ---
 title: "Assessing faculty self-perceived knowledge in using generative AI to teach 21st-century skills"
 created: "2026-09-09T02:58:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [educational-development, teacher-role]
 pedagogy: [self-efficacy]
@@ -30,6 +30,21 @@ page_kind: [framework]
 ## Synthesis
 
 The study extends the [[tpack|TPACK]] framework — originally developed for pre-service teachers — to practicing higher-education faculty using the [[ai-literacy|TPACK-21]] extension focused on 21st-century skills. Its distinctive contributions are two structurally important correlation patterns: content knowledge is decoupled from GenAI-integration knowledge, and the three technology-integrated domains may not be empirically distinct in this population. Both findings carry direct implications for [[educational-development|faculty development]]: GenAI competence must be deliberately built through [[discipline-specific-aied|discipline-specific]] programming rather than assumed from subject-matter expertise, and the technology-integrated domains are so tightly interrelated that faculty development should treat them as a shared GenAI-literacy foundation rather than train them separately.
+
+## What this means for practice
+
+- **Faculty developers.** Build a shared GenAI-literacy baseline first — hands-on experimentation with GenAI in teaching and assessment contexts — before introducing complex integration tasks, because technological knowledge was the domain most strongly associated with the technology-integrated cluster (r = .67–.76).
+- **Faculty developers.** Structure programming around discipline-specific use cases rather than generic GenAI workshops: content knowledge showed no significant association with any technology-integrated domain (r = .11–.15, all ns), so subject-matter mastery did not carry over.
+- **Administrators.** Distribute GenAI [[educational-development|professional development]] across the full faculty, since low technology-integrated self-perceived knowledge held in every demographic subgroup (TPACK M = 2.55, the lowest of seven domains).
+- **Administrators.** Align institutional incentives with integration — protected faculty time, communities of practice, and promotion and tenure criteria — because the gap is structural rather than a matter of individual motivation.
+- **Instructors.** Treat TPK, TCK, and holistic TPACK as one GenAI-integration capability to develop rather than three separate competencies, given their correlations of r = .81–.91 and internal consistencies of α = .97–.98.
+
+## Limitations
+
+- Self-report measurement: self-perceived knowledge may not reflect actual GenAI integration knowledge, and faculty who were more engaged with GenAI may have been more likely to complete the survey, introducing selection bias.
+- Single institution and single region: 127 faculty at one large public research university in the Southern U.S. (180 responses collected between April 5 and June 30, 2024), so findings may not transfer to liberal arts colleges, community colleges, minority-serving institutions, or other regions.
+- The cross-sectional design precludes causal inference; the interpretation of technological knowledge as a gateway cannot be distinguished from reverse directionality.
+- The sample overrepresents Academic Professional Track faculty (62.20% vs. 37.80% tenured or tenure-track), and the instrument, though adapted for GenAI, has not undergone independent psychometric validation for this population — no formal expert panel review was conducted, and the near-ceiling reliabilities raise a discriminant-validity question about whether the three technology-integrated domains are empirically distinct.
 
 ## Connected Concepts
 

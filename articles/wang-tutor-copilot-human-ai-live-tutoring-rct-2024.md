@@ -1,7 +1,7 @@
 ---
 title: "Tutor CoPilot: A Human-AI Approach for Scaling Real-Time Expertise"
 created: "2026-09-07T10:00:00-04:00"
-updated: "2026-09-07T10:00:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [human-in-the-loop-ai, intelligent-tutoring]
@@ -47,6 +47,20 @@ The [[rct|randomized controlled trial]] ran for two months starting in late Marc
 ## Tutor perceptions and limitations
 
 In post-study interviews (~20 treatment tutors), tutors found Tutor CoPilot helpful for well-phrased explanations and breaking down difficult concepts on the spot, but flagged that suggestions were occasionally not grade-level appropriate — sometimes perceived as "too smart," requiring the tutor to simplify. Limitations include: the sample is a single southern U.S. district of novice tutors and under-served students (generalizability limited); proximal (exit-ticket) but not distal (test) gains; a chat-only modality (future work should add vision/speech); and residual privacy concerns (non-name identifying information, and a performance–safety trade-off in how much conversation context to share).
+
+## What this means for practice
+
+- **Instructors.** Give novice tutors real-time, expert-derived suggestions during live sessions instead of pre-service training alone: treated sessions raised exit-ticket mastery from 62 to 66 percent (p < 0.01).
+- **Instructors.** Aim the support at the weakest tutors first — students of lower-rated tutors gained 9 percentage points (56 to 65 percent), matching higher-rated tutors' control-group students.
+- **Designers.** Present options across pedagogical strategies (hint, worked example, simplify the question, minor correction) so tutors keep judgment, and warn tutors that suggestions can come back above grade level and need simplifying.
+- **Administrators.** Fund it as a supplement at roughly $20 per tutor per year, orders of magnitude below the $3,300+ typical figure for [[educational-development|professional development]], and do not expect rapid test-score gains, since two months of use produced no statistically significant improvement on end-of-year math assessments.
+
+## Limitations
+
+- Randomization was at the tutor level (900 assigned; 782 launched) rather than the student level, and the site is one southern U.S. district of novice tutors whose students are 80 percent Hispanic and 67 percent economically disadvantaged.
+- The proximal gains did not reach distal outcomes: no statistically significant effect appeared on end-of-year math tests, which the authors tie to limited variation in treatment exposure and the two-month duration.
+- The system is chat-only, an explicit scope limit relative to whiteboard and speech modalities that would carry additional privacy exposure.
+- Name de-identification does not prevent re-identification through email addresses, phone numbers, or personal anecdotes, and limiting shared context to the 10 most recent messages trades guidance quality for privacy.
 
 ## Connected Concepts
 

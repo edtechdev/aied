@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Educational Management: Opportunities, Challenges, and Future Directions"
 created: "2026-09-08T02:39:41-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration]
 connected_faqs: [institutional-ai-policy]
@@ -27,6 +27,21 @@ stakeholders: [administrator, professional-training]
 - **Human-AI collaborative intelligence.** AI augments rather than replaces professional judgment: AI contributes computational efficiency and prediction, while humans retain contextual understanding, ethical reasoning, creativity, and strategic leadership — decisions remain human-accountable.
 - **Six theoretical propositions (P1-P6).** e.g., Responsible AI Governance positively enhances AI-Driven Decision Intelligence (P2) and mediates the link between AI Strategic Leadership and Sustainable Value Creation (P6) — offered for future empirical validation.
 - **Competency beyond AI literacy.** AI Competency Development encompasses data literacy, digital ethics, strategic thinking, innovation, change leadership, and lifelong learning across educational personnel.
+
+## What this means for practice
+
+- **Administrators.** Sequence governance before analytics: the framework's P2 gives Responsible AI Governance a positive effect on AI-Driven Decision Intelligence, so build oversight and accountability structures before investing in predictive dashboards.
+- Keep a named human accountable for every AI-supported decision, since the framework assigns computational efficiency and prediction to AI while contextual understanding, ethical reasoning, creativity, and strategic leadership stay with staff.
+- **Policymakers.** Budget and evaluate AI as an institutional capability across all six AIGEM dimensions rather than as a classroom technology purchase, and tie implementation reporting to SDG 4, 8, 9, and 16 so efficiency gains are not the only success measure.
+- Extend staff development beyond AI literacy to data literacy, digital ethics, strategic thinking, innovation, change leadership, and lifelong learning, which the framework treats as the content of AI Competency Development.
+- **Researchers.** Test the propositions as stated, including the P6 mediation in which Responsible AI Governance mediates the link between AI Strategic Leadership and Sustainable Educational Value Creation, rather than citing the framework as an established effect model.
+
+## Limitations
+
+- A conceptual synthesis only: the authors state that no empirical data were collected, so none of the six dimensions or the relationships between them is tested.
+- The six propositions P1–P6 remain untested, and the authors call for quantitative, qualitative, and mixed-method validation across schools, universities, and vocational institutions, plus cross-national comparison.
+- The framework is built from Scopus- and Web of Science-indexed publications and policy documents from UNESCO, OECD, the European Commission, ISO, and national bodies; no institution-level implementation data were gathered.
+- It was developed without data from the practitioners it addresses: no educational leaders, faculty, or students were surveyed or interviewed about these governance arrangements.
 
 ## Connected Concepts
 

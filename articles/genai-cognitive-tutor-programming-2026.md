@@ -1,7 +1,7 @@
 ---
 title: "Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tutor in Novice Programming Learning"
 created: "2026-09-09T09:05:09-04:00"
-updated: "2026-09-09T09:05:09-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [cognitive-offloading, misconceptions]
 pedagogy: [scaffolding, self-regulated-learning]
@@ -29,6 +29,21 @@ The pilot analyzed data from 38 students (36 complete records) using Spearman's 
 - Indicators of autonomous progress without ongoing [[teacher-role|instructor]] support registered the lowest values (M=3.84).
 
 The authors conclude that while GenAI operates as effective cognitive scaffolding to reduce syntax-related frustration, the observed gap between assisted resolution and conceptual autonomy highlights the need for calibrated instructional designs that curb the illusion of competence and epistemic debt in [[professional-training|vocational training]].
+
+## What this means for practice
+
+- **Instructors.** Replace answer-giving with graduated hints: configure practice environments to offer heuristics, conceptual analogies, or incomplete pseudocode rather than finished code.
+- Add explanation gates, requiring students to write why the error occurred and how they intend to fix it before the tool will accept the technical query.
+- Preserve unaided transfer assessments — blind code reading, manual debugging, logic diagramming — because perceived resolution (M = 4.05) outran reported autonomy without ongoing instructor support (M = 3.84).
+- **Curriculum designers.** Sequence the work so the two highest-rated uses, clarifying abstract concepts and explaining compiler errors (both M = 4.11), are followed by independent transfer tasks that expose the gap between fluency and understanding.
+- **Researchers.** Pair self-report scales with objective measures (blind tests, grades, repository activity), since the single-instrument design here produced Cronbach's α > 0.97 on both scales.
+
+## Limitations
+
+- The analytic sample was 36 complete cases from a single technical institution (SENATI, Peru), filtered down from 38 voluntary, anonymous responses; the authors state this block prevents population-level generalization.
+- Both constructs came from one 20-item self-report Likert instrument; no objective algorithmic performance (grades, blind programming tests, repository metrics) was collected.
+- Cronbach's α reached 0.973 for GenAI use and 0.982 for programming learning, which the authors interpret as semantic redundancy and common-method bias rather than psychometric strength, so the rs = 0.802 association is likely inflated.
+- The design is cross-sectional with no control group; the authors call for quasi-experimental longitudinal comparisons of unrestricted assistants against Socratic-hint tutors.
 
 ## Connected Concepts
 - [[cs-education]]
