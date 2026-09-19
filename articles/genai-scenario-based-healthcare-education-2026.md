@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 sources: ["raw/papers/genai-scenario-based-healthcare-education-2026.md"]
 foundations: [human-ai-collaboration]
@@ -26,12 +26,20 @@ methods: [meta-analysis-systematic-review]
 - **Educational outcomes were generally positive for higher-order cognitive skills** ([[critical-thinking|critical thinking]], clinical reasoning) but inconsistent for factual knowledge acquisition, suggesting GenAI-assisted learning preferentially supports reasoning over recall.
 - **Scalability was the primary adoption driver yet efficiency gains were largely unquantified** — only one study measured authoring time (a ~33% reduction) — while documented quality failures (16.67% hallucination rate in ophthalmology cases, 50% accuracy agreement in pharmacy PBL) persisted across the review period, indicating a structural rather than temporary problem.
 
-## Implications for Practice
+## What this means for practice
 
-- **Treat [[prompt-engineering|prompt design]] as a methodological element on par with instrument selection**, disclosing system prompts, refinement steps, and evaluation criteria so that [[learning-design|instructional design]] is not rendered invisible by unreported prompting.
-- **Prioritize pedagogical alignment** by specifying cognitive targets aligned with established taxonomies and structuring learning progressions explicitly before deployment, rather than treating alignment as an optional enhancement.
-- **Standardize multi-stage validation** — the proposed four-stage pipeline (automated checks, clinical expert review, pedagogical alignment, and learner pilot testing) addresses failure modes that single-point validation cannot catch.
-- **Formalize [[human-ai-collaboration]] and define educator roles across the workflow**, since hybrid co-creation consistently outperforms both full automation and minimally guided use.
+- **Curriculum designers.** Treat [[prompt-engineering|prompt design]] as a methodological element on par with instrument selection, disclosing system prompts, refinement steps, and evaluation criteria so that [[learning-design|instructional design]] is not rendered invisible by unreported prompting.
+- **Curriculum designers.** Specify cognitive targets against an established taxonomy and structure learning progressions before deployment — only 34.8% of the 23 reviewed studies aligned generated content with instructional frameworks.
+- **Medical educators.** Standardize multi-stage validation through the proposed four-stage pipeline of automated checks, clinical expert review, pedagogical alignment, and learner pilot testing, because single-point validation cannot catch the failure modes the review documents.
+- **Medical educators.** Keep educators inside the generation loop rather than at the final review stage: hybrid human–AI co-creation models achieved the highest expert ratings and student satisfaction.
+- **Researchers.** Report authoring time and cost alongside content quality, since scalability was the primary adoption driver yet only one study quantified the efficiency gain (a ~33% reduction).
+
+## Limitations
+
+- The evidence base is 23 empirical studies from 1151 initial records across five databases searched on 9 November 2025, restricted to peer-reviewed work published from January 2023, with 67 duplicates removed and 1014 records excluded at title and abstract screening.
+- Gray literature was excluded and five studies were dropped because full texts were inaccessible, which the authors note may underrepresent emerging findings or null results.
+- The inclusion criteria restricted designs to quantitative and mixed-methods studies, excluding purely qualitative work that the authors acknowledge captures complementary process-oriented implementation evidence.
+- The corpus is temporally and geographically thin: 19 of the 23 studies appeared in 2025 and Asia–Pacific institutions account for 56.5% (n = 13), following Europe (17.4%, n = 4), North Africa and the Middle East (13.0%, n = 3), and North America (8.7%, n = 2), and one included result (Cohen's d = 3.14 for long-term retention) is flagged by the authors as a likely methodological artifact.
 
 ## Connected Concepts
 

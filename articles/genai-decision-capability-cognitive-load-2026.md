@@ -1,7 +1,7 @@
 ---
 title: "Modelling Generative AI's Influence on Students' Perceived Decision Capability: A Cognitive Load and Decision Augmentation Approach"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 pedagogy: [cognitive-psychology, self-efficacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -25,9 +25,20 @@ page_kind: [framework]
 - High trust in GenAI weakens the positive effects of GenAI on cognitive load reduction and information quality.
 - Findings emphasize the importance of balanced GenAI integration, critical user [[student-engagement|engagement]], and responsible trust development.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study highlights the importance of balanced [[generative-ai|GenAI]] integration, critical user engagement, and responsible [[trust|trust development]] in education. The counterintuitive finding that cognitive load reduction is negatively associated with perceived decision capability — and that high trust weakens GenAI's benefits — suggests that excessive reliance on AI may undermine students' sense of their own decision-making ability. For educators, this connects to [[cognitive-offloading|over-reliance]] concerns and the need to design AI use that supports rather than substitutes for student cognition. The study connects to [[cognitive-psychology]], [[business-education]], and [[technology-acceptance-model]] [[research-methods-aied|research]].
+- **Instructors.** Build tasks in which students analyze and justify GenAI recommendations, because GenAI's reduction of [[cognitive-offloading|cognitive load]] was negatively associated with perceived decision capability in the model.
+- **Instructors.** Teach the tool's limitations explicitly rather than promoting trust for its own sake: high [[trust]] in GenAI weakened its positive effects on both cognitive load reduction and information quality.
+- **Instructors.** Give students repeated practice with GenAI so that decision confidence develops — confidence was the strongest mediator from adoption to perceived decision capability.
+- **Administrators.** Embed GenAI literacy, ethical reasoning, and critical evaluation of AI output in curriculum frameworks, since the study ties balanced integration — AI use that supports rather than substitutes for student cognition — to perceived decision capability, alongside critical engagement and responsible [[trust|trust development]].
+- **Researchers.** Pair perceived capability with objective indicators such as task accuracy or an experimental decision-making task, since the study's task-agnostic measure leaves perceived and actual decision quality untested against each other.
+
+## Limitations
+
+- The design was purely quantitative, which the authors state may have prevented the study from fully capturing the depth of students' attitudes and cognitive behaviors related to GenAI adoption.
+- The sample is 350 business students in the United Arab Emirates, one educational category in one country, which the authors say limits generalizability to other institutions, disciplines, and geographical areas.
+- Perceived decision capability was defined within a task-agnostic model rather than a comparison of performance on a single business analytical task such as a case study or project evaluation.
+- Every construct — cognitive load, information quality, decision confidence, trust, and perceived decision capability — was self-reported in one cross-sectional survey, with no objective performance indicator or experimental decision task.
 
 ## Connected Concepts
 - [[generative-ai]]

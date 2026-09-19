@@ -1,7 +1,7 @@
 ---
 title: "Gen-Mentor: A Human-in-the-Loop Instructional Framework for Dental Radiography Using Generative AI"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-19T08:23:28-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm, simulation]
 research_method: [design and evaluation study]
@@ -23,9 +23,20 @@ page_kind: [framework]
 - A VLM generates evidence-linked caption candidates, which an LLM reformats into case descriptions, comparisons, and quiz prompts.
 - Selected instructional assets undergo structured expert review; the framework achieved a mean SUS score of 72.7 among dental students (N = 45), with improvements in case diversity and immediate-feedback support.
 
-## Implications for AI in Education
+## What this means for practice
 
-Gen-Mentor exemplifies a [[human-in-the-loop-ai|human-in-the-loop]] approach to [[generative-ai|generative AI]] in [[medical-education|health-professions education]], where AI generates candidate instructional assets that undergo structured expert review before use. The framework addresses a key limitation of existing models — that they automate diagnosis but lack the interpretive depth needed for comprehensive student training. For medical educators, the approach offers a model for using AI to expand case diversity and provide immediate feedback while retaining expert oversight. The study connects to [[discipline-specific-aied]], [[simulation]], and [[llm]] [[research-methods-aied|research]] in medical education.
+- **Instructors.** Gate every AI-generated radiograph caption, case description, and quiz prompt through structured expert review before it reaches students: the framework's five-expert panel withheld items that failed terminology-accuracy and visual-evidence alignment checks rather than shipping them.
+- **Instructors.** Adopt the [[human-in-the-loop-ai|human-in-the-loop]] pattern this framework demonstrates for [[medical-education|health-professions education]] — AI generates candidate assets that expand case diversity and support immediate feedback, while the educator keeps the interpretive authority that diagnosis-only models lack.
+- **Designers.** Split deployment into two stages: run Faster R-CNN localization and BLIP caption generation for learner-facing interaction, and perform class-conditioned diffusion ROI synthesis offline during case-bank construction, because diffusion training and generation costs remain high.
+- **Designers.** Position generated material as a study aid rather than a clinical reference, and make that boundary explicit in the learner-facing interface as the study did in its consent form.
+- **Researchers.** Treat a screening pass as a floor, not an audit: report the fraction of LLM outputs rejected or revised, since this study's post-revision acceptance rate was never quantified.
+
+## Limitations
+
+- The learner study drew a total of N = 45 dental students from a single institution, and usability rested on the 23 experimental-group participants (mean SUS 72.7, SD = 20.4, range 30.0–97.5), with 15 of those 23 rating the system at or above the "Good" band.
+- Radiographs came from a single publicly available corpus with acquisition equipment, patient age range, ethnicity, and setting undocumented at the per-image level, so the reported detection, generation, and caption scores are in-distribution upper bounds rather than externally validated results.
+- Expert review covered 64 synthetic ROIs and 100 LLM-generated textual items scored by five experts (three board-certified dental radiologists with more than eight years of clinical experience), with inter-rater agreement of ICC(2,5) = 0.82 and 0.80 respectively, and class-specific confidence intervals rested on only n = 16 ROI samples per class.
+- The study measured perceived instructional support, not learning: it included no baseline knowledge test, objective radiograph-reading task, blinded performance scoring, or delayed-retention measure, and questionnaire items Q18–Q20 were worded differently across the experimental and control groups.
 
 ## Connected Concepts
 - [[medical-education]]
