@@ -1,7 +1,7 @@
 ---
 title: "Are Students Dependent on AI in Writing Courses? Analyzing Factors Influencing Dependence on Generative AI Through the I-PACE Model"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [academic-integrity, ai-education, ai-literacy, cognitive-offloading]
 audience: [researchers, instructors, administrators]
@@ -34,6 +34,14 @@ The qualitative phase drew on open-ended survey responses and semi-structured in
 - **Address risk and protection together.** Curbing dependence means lowering excessive academic stress while building [[ai-literacy]] — stress drives use, literacy restrains it.
 - **Target peer norms and [[trust-calibration|trust calibration]], not just tool skills.** Because dependence forms through a social-influence to trust to behavior route, prompting workshops miss the mechanism that produces it.
 - **Write explicit AI-use rules.** Students filled the policy vacuum with improvised, self-justifying strategies; clear definitions of compliant use, and assessment that makes responsible use the easier option, would remove that ambiguity.
+
+## What this means for practice
+
+- **Instructors.** Break long writing assignments into staged checkpoints with feedback, because academic stress was the strongest predictor of AI dependence and students under the heaviest workload pressure leaned most on AI to produce text.
+- **Instructors.** Teach [[ai-literacy]] as critical distance rather than tool operation: students who understood AI's limits and social consequences were less dependent, whereas students who could name the tool's failures still trusted its output.
+- **Administrators.** Publish an explicit, example-based definition of compliant AI use; the eight interviewees mixed tools and rewrote output to evade [[ai-detection|detection]] while framing it as responsible, citing the absence of any clear institutional rule.
+- **Instructors.** Address peer norms and trust calibration together, because social influence reached dependence only through perceived trust — conformity made AI feel credible rather than simply modeling use.
+- **Administrators.** Make responsible use the easier path than concealment in assessment design, since awareness of AI error did not become skepticism among the 229 undergraduates analyzed.
 
 ## Limitations
 

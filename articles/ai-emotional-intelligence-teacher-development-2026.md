@@ -1,7 +1,7 @@
 ---
 title: "Artificial and Emotional Intelligence: Two Key Forces for Teachers' Professional Development in an Era of Uncertainty"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-education, teacher-role]
 pedagogy: [well-being]
@@ -41,6 +41,13 @@ From that proposition they derive an operational framework: seven design conditi
 - **Protect the boundary between emotional intelligence and AI.** AI has no emotional experience, professional responsibility, or contextual accountability; its role should stay limited to coordination, access, referral, documentation, and preparation for reflective dialogue. [[human-in-the-loop-ai|Human oversight]] becomes a design requirement rather than a compliance checkbox.
 - **Expect downstream effects on students.** When teachers have collegial trust, mentoring, and institutional support, they are better able to sustain emotionally responsive pedagogical relationships and psychologically safe classrooms; individualized, monitored well-being provision can degrade those conditions instead.
 - **Acknowledge the boundary conditions.** AI cannot compensate for chronic overload, punitive accountability cultures, weak leadership, or the absence of protected time — the structural deficits that make [[teacher-education]] fail in the first place.
+
+## What this means for practice
+
+- **Faculty developers.** Score AI-supported teacher development on relational densification — whether it creates protected mentoring time, peer dialogue, and continuity of support — rather than on personalization or platform use.
+- **Administrators.** Write relational reinvestment into policy so that time saved by automation is formally redirected into mentoring, shared reflection, and peer accompaniment, instead of being reabsorbed as extra workload.
+- **Administrators.** Separate well-being data from managerial evaluation and build data minimization, purpose limitation, opt-in and opt-out, and contestability into the system, since the framework treats these as the condition for teachers to be vulnerable at all.
+- **Designers.** Route teachers toward human support instead of positioning a conversational agent as a companion, because low-friction interaction with an interface can crowd out the hard human work — negotiating, repairing, tolerating disagreement — that produces growth.
 
 ## Limitations
 

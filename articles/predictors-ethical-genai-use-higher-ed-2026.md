@@ -1,7 +1,7 @@
 ---
 title: "Predictors of the ethical use of generative artificial intelligence in higher education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [academic-integrity, ai-education, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -39,6 +39,14 @@ The findings reframe responsible AI use as a governance and assessment problem, 
 - Since **institutional guidance and ethics education** contributed independently, institutional support is a distinct condition to be designed and resourced, not assumed to follow from capable students. The authors recommend integrating ethics and technical AI literacy across the [[curriculum-design|curriculum]], teaching systematic verification against [[hallucination-risk|inaccurate or biased output]], strengthening data-protection practice, and keeping guidelines consistent across courses, modalities and academic levels.
 - The awareness and training gaps are actionable: substantial minorities of students report only partial knowledge of institutional rules or no formal AI training at all. Training should reach past functional tool use into authorship, transparency, [[bias-mitigation|bias]], accountability for AI-assisted outputs, and the limits of algorithmic support.
 - The practical message is that exposure to [[generative-ai]] does not produce responsible practice on its own — deliberate instruction and [[governance|institutional policy]] have to do the work.
+
+## What this means for practice
+
+- **Instructors.** Center authorship and disclosure in assessment design — require students to state where AI contributed, separate their own work from generated text, and account for algorithmic assistance — because academic integrity and transparency was the strongest of the six predictors (β = 0.231).
+- **Instructors.** Teach verification of generated content as a skill in its own right, since critical thinking and content verification formed a pathway separate from tool literacy (β = 0.177 against 0.181) covering comparison against reliable sources, detection of bias and overgeneralization, and decisions about what to trust.
+- **Administrators.** Resource institutional guidance and ethics education as a condition in its own right rather than an extension of student competence, since it contributed independently of the student characteristics in the model (β = 0.159).
+- **Administrators.** Close the training and policy-awareness gap visible in the same survey — 17.1% of respondents had received no formal AI training and only 24.2% were clearly familiar with institutional AI policy — and keep the rules consistent across courses, modalities, and academic levels.
+- **Instructors.** Treat exposure as insufficient: adoption was widespread but ethical use did not follow from frequency of use, so teach authorship, transparency, bias, and the limits of algorithmic support deliberately.
 
 ## Limitations
 
