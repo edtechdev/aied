@@ -1,7 +1,7 @@
 ---
 title: "The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, ai-literacy, curriculum-design]
 pedagogy: [icap-framework, scaffolding]
@@ -30,9 +30,12 @@ level: [k 12, higher ed, teacher training]
 
 The authors conducted a **three-round Delphi study** (an expert-panel consensus method) between May 2023 and May 2024. An expert panel comprising educators (tertiary, high school, primary, and support roles) and industry professionals (data scientists, AI leads, founders) was recruited from Aotearoa New Zealand and internationally (Australia, Canada, South Africa, the UK, USA), with deliberate attention to Indigenous voices. Round 1 (17 fully completed responses) asked experts to identify the knowledge, skills, and understandings needed at each level of an initial four-level maturity model (Informed → Empowered → Engaged → Active participant); responses were thematically coded. Round 2 asked experts to rank competencies by importance and flag misplaced, irrelevant, or missing items, leading to rationalization into three domains and six categories. Round 3 validated the framework structure and refined competency wording. Following the Delphi, the draft was opened to wider review through communities of practice and an online feedback form, yielding further refinements (e.g., renaming levels, separating "AI++ — beyond AI literacy," renaming the "Issues, Challenges, and Opportunities" domain to "AI Digital Citizenship").
 
-## Implications for AI in Education
+## What this means for practice
 
-The SAIL framework offers a [[research-methods-aied|research]]-informed, empirically grounded alternative to literature-review-based [[ai-literacy]] frameworks, providing educators at all levels with a structured pathway for [[scaffolding|scaffolded]] competency development that is equitable and broadly applicable across contexts. It directly addresses the [[digital-divide]] — arguing AI literacy is a central mechanism for addressing structural barriers in education by linking access, capability, and outcomes to social justice. The framework supports [[curriculum-design|curriculum]] designers, teacher educators, and policy makers (e.g., UNESCO-style competency frameworks) in structuring AI literacy development from early years through [[higher-ed|higher education]], and its [[inclusive-learning|inclusion]] of Indigenous perspectives and emphasis on ethical, cultural, and risk-mitigation competencies positions AI literacy as inseparable from equity and [[ethics|ethical]] participation in an algorithmically shaped society.
+- **Instructors.** Place learners by capability rather than by year group: SAIL is age-agnostic, with Level 1 (Understand and Explore AI) treated as essential for all ages and higher levels introduced at appropriate stages, so delivery follows what a learner can do, not the cohort they arrived in.
+- **Instructors.** Teach equity as progression through the second and third digital divides — skills and outcomes — not as access to devices, and cover the bias the framework names (data-related, algorithmic, and user-interaction).
+- **Designers.** Thread Indigenous perspectives through the curriculum as a competency strand in its own right (Māori data sovereignty, cultural misrecognition, equitable participation) rather than adding them as a supplementary module.
+- **Administrators.** Map existing provision against SAIL's three domains, six categories, and four levels before commissioning new AI literacy programs, so a single pathway runs from early years through higher education and teacher training instead of separate ad hoc offerings.
 
 ## Limitations
 

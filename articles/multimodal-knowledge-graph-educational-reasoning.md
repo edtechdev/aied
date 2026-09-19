@@ -1,7 +1,7 @@
 ---
 title: "Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T10:00:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, knowledge-graph, knowledge-tracing, multimodal, student-modeling]
@@ -55,17 +55,20 @@ Canonical concept text combines name, definition, aliases, and evidence snippets
 
 Across the three lectures, the model returned 1,155 raw concept and 400 raw relationship mentions; evidence and confidence checks retained 1,022 concepts (88.48%) and 312 relationships (78.00%). Canonicalization produced 172 concepts, and endpoint mapping retained 282 edges (90.38% of validated relationships). The reduction from 1,022 mentions to 172 nodes is expected because course concepts recur across anchors and lectures. Central training concepts dominate the evidence distribution — weights, loss function, neuron, bias, and gradient descent carry the most evidence — though remaining singular and plural variants reveal conservative but incomplete entity resolution. Definition, relation, prerequisite, and cross-lecture trial questions ranked their target concepts first and within the top three, though generated answers sometimes added correct background knowledge not explicitly supported by retrieved evidence.
 
-## Limitations and Future Work
+## What this means for practice
 
-The dataset contains only three lectures from one series, and extraction lacks a manually annotated concept-and-relation gold standard, so the three-query retrieval set cannot support [[benchmark|statistical claims]]. Canonicalization leaves aliases and singular or plural duplicates, and isolated or noisy nodes may encode generic terms, numeric labels, or visual artifacts. OCR and vision-language accuracy depend on frame resolution, handwriting, transitions, and diagram complexity, and answer generation may add unsupported background knowledge even when correct. Future work includes annotating concept mentions, canonical entities, relations, evidence validity, and QA; adding domain-aware lemmatization, alias dictionaries, and merge blocklists; pruning low-evidence isolated nodes; comparing transcript-only, transcript-plus-OCR, ungrounded, and grounded extraction variants; and evaluating answer faithfulness and citation validity. These constraints position the work as an auditable method rather than a state-of-the-art performance claim, consistent with the broader [[limitations-in-aied-research|limitations of AIED research]].
+- **Designers.** Require an evidence quotation, frame, or OCR string for every extracted concept and relation, and expose it: the pipeline retained 1,022 of 1,155 raw concept mentions and 312 of 400 relationship mentions through evidence and confidence checks, and that provenance is what lets an instructor inspect or correct a wrong extraction.
+- **Designers.** Set an explicit confidence floor and hold visual-only claims to a stricter bar than transcript- or OCR-backed ones: the 0.55 minimum plus evidence-pool checking is credited with reducing the risk of a structurally plausible graph that no source supports.
+- **Designers.** Track endpoint coverage as a build diagnostic: canonicalization collapsed 1,022 mentions into 172 concepts, and the 90.38% endpoint retention after deduplication is what distinguishes relation losses caused by merging from losses caused by extraction.
+- **Designers.** Use the graph as the structural layer under [[adaptive-learning|adaptive]] and [[student-modeling|student-modeling]] features: typed prerequisite_of edges are the dependency structure a sequencing or diagnosis component reads, and the evidence attached to each edge keeps that layer inspectable.
+- **Instructors.** Use the typed relations for cross-lecture review and sequencing: edges carry relation type, lecture, and timestamp, so prerequisite_of and component_of edges give learners an evidence-backed path rather than a flat transcript search.
 
-## Implications
+## Limitations
 
-- **Trustworthy knowledge extraction:** The evidence-grounded design gives instructors and [[trust]] in automated extraction by making every concept and relationship traceable to a transcript span, OCR string, or frame.
-- **Educational [[knowledge-tracing|knowledge tracing]] and student modeling:** A provenance-rich graph that connects concepts across lectures offers a reusable foundation for [[student-modeling|student models]] and [[cognitive-diagnosis|diagnostic]] reasoning about prerequisite structure.
-- **Personalized and adaptive learning:** Structuring lecture content into [[prior-knowledge|prerequisite]]-aware typed relationships supports [[adaptive-learning|adaptive learning]] systems and [[personalized-learning|personalized]] learning pathways.
-- **Curriculum and lecture review:** Queryable, cross-lecture knowledge representations support [[curriculum-design|curriculum design]] and structured lecture-review tools that help [[student-experience|learners]] revisit concepts with their evidential context.
-- **[[research-methods-aied|Methodological]] caution:** Perfect results on three seed questions should not be over-interpreted; a credible evaluation needs more definition, relation, prerequisite, example, first-mention, temporal-evolution, visually grounded, and cross-lecture questions.
+- The dataset is three lectures from a single neural-network series (3,118 frames, 756 transcript segments, 559 semantic anchors), with no cross-course or cross-domain evidence.
+- Extraction has no manually annotated concept-and-relation gold standard, so the three-question retrieval result (100% top-1 and top-3) is a sanity check the authors say cannot support statistical claims.
+- Canonicalization stays incomplete — singular and plural variants such as weight/weights and bias/biases survive — and isolated or noisy nodes may encode generic terms, numeric labels, or visual artifacts.
+- OCR and vision-language accuracy depend on frame resolution, handwriting, slide transitions, and diagram complexity, and answer generation sometimes adds correct background knowledge that the retrieved evidence does not support.
 
 ## Connected Concepts
 

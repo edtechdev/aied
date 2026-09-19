@@ -1,7 +1,7 @@
 ---
 title: "Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement"
 created: "2026-09-12T08:35:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 pedagogy: [motivation, scaffolding, student-engagement]
 technology: [generative-ai]
@@ -40,16 +40,6 @@ The study therefore asks what changes when a GenAI-supported writing program is 
 - **Academic buoyancy showed up as manageability.** Nine interviewees described the process as smoother and described more confidence with tasks they had previously found difficult.
 - **The authors report cautionary roles alongside the gains.** Their synthesis lists five risks: reinforcing reliance on the tool instead of personal effort, shortcut-oriented strategies that hinder gradual skill development, constrained independent [[problem-solving]], reduced use of previously taught writing strategies, and diminished self-monitoring during writing.
 
-## Implications for AI in Education
-
-The paper's most usable lesson is that GenAI support does not lift a construct like "writing development" uniformly — it moves specific dimensions and leaves others untouched, and the pattern is diagnostic. Motivation improved through the aspirational self and resilience rather than through growth mindset, which suggests that simply handing students an impressive tool does not teach them that ability grows with effort; the authors recommend designing activities around the sequence of challenge, effort and progress so that the tool reads as support rather than shortcut. Likewise, engagement improved emotionally and behaviorally while cognitive and metacognitive engagement did not, which is a warning that enjoyment and activity are not the same as deeper processing, and that students may be doing less self-monitoring when the tool is available.
-
-For [[scaffolding]] and assessment design, the program's structure is instructive. It paired a [[feedback]]-rich sequence — comparing teacher and AI feedback on anonymized drafts, revisiting pre-test drafts for peer and AI evaluation, individual revision — with explicit instruction in how to prompt, including a bank of prompts tied to writing goals. Where [[writing-education|writing education]] aims at discourse-level skills such as organization, this study offers little comfort: those were exactly the dimensions that did not move, so tasks that use AI to analyze and reorder structure still need deliberate design if organization is the target.
-
-The authors also flag how much the setting mattered. Students had routine access to GenAI-enabled tablets and were already fluent with digital tools, and [[teacher-role|teachers]] provided real-time support, so participation required no additional training. Where infrastructure, familiarity or teachers' [[pedagogy|pedagogical]] awareness of AI-supported instruction are lower — particularly in many [[global-south|developing countries]] — the authors expect substantially different results, and they ask that findings be read as context-specific rather than globally generalizable.
-
-**Limitations.** The sample came from upper grades in a single primary school in China. Motivation and engagement were measured mainly by self-report, which may not capture observable classroom behavior; the authors suggest classroom observation or multi-method designs. Both Grades 5 and 6 were included but developmental differences between the grades were not examined, and the study analyzed outcome change without modeling the relationships among motivation, engagement and performance over time.
-
 ## What this means for practice
 
 - **Teachers.** Design around the sequence of challenge, effort and progress instead of presenting the tool as impressive: motivation moved on the ideal L2 writing self (adjusted mean difference 0.20) and academic buoyancy (0.17) but not growth mindset (p = .239).
@@ -61,7 +51,7 @@ The authors also flag how much the setting mattered. Students had routine access
 ## Limitations
 
 - The sample is four intact classes per grade in one primary school in Eastern China (301 students, ages 10–13), and randomization was at the class level, not the student level.
-- The program ran nine weeks at one 40-minute session per week, with pre- and post-test measurement only and no delayed follow-up to test whether gains persisted.
+- The program ran nine weeks at one 40-minute session per week, with pre- and post-test measurement only, no delayed follow-up to test whether gains persisted, and no modeling of how motivation, engagement and performance related over time.
 - Motivation and engagement were measured mainly by self-report, which the authors say "may not capture observable classroom behavior" and should be supplemented with classroom observation.
 - Interview evidence comes from 12 of the 151 experimental students, and Grades 5 and 6 were pooled after a baseline check without examining developmental differences between them.
 

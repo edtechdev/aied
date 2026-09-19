@@ -1,7 +1,7 @@
 ---
 title: "Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL"
 created: "2026-09-06T04:55:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [agentic-ai, cognitive-offloading]
 pedagogy: [project-based-learning]
@@ -23,7 +23,7 @@ confidence: high
 4. **Instructor [[feedback]] appeared to buffer comprehension risk.** Comprehension dropped when AI usage peaked (lec09) but recovered after one-on-one instructor interviews, suggesting proactive checking of code understanding can mitigate over-reliance.
 5. **Recommended practices for AI-agent-supported PBL.** The authors recommend a foundation-first tutorial period, continuous monitoring with timely intervention, and holding students accountable for explaining AI-generated code, plus standardized project templates with pre-configured AI instructions (e.g., `copilot-instructions.md`).
 
-## Implications
+## Connection to the broader knowledge base
 
 This report speaks directly to the [[cs-education|programming education]] thread on AI-assisted coding and to the wiki's [[cognitive-offloading]] literature: it is a field-level demonstration that AI agents can accelerate development *without* guaranteeing learning, echoing findings in [[liu-tool-tutor-crutch-programming-2026]] and [[genai-meta-analysis-programming-learning]]. For [[teacher-role|instructors]], its concrete, transferable design (four-phase SDD workflow, spec templates, weekly one-on-one comprehension interviews) offers a template for integrating [[agentic-ai]] into [[project-based-learning]] while keeping code comprehension in view. It also raises design questions about [[scaffolding]] and [[metacognition]] — when AI does the implementation, what mechanisms ensure students still develop understanding?
 

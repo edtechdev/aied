@@ -1,7 +1,7 @@
 ---
 title: "Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 connected_faqs: [institutional-ai-policy]
@@ -53,9 +53,19 @@ Because AI adoption is still in a transition state, most institutions are not ye
 
 The authors recommend a layered governance approach grounded in [[pedagogy|pedagogical practices]]. A foundational university-wide risk-management layer should ensure consistency, legal compliance, and [[academic-integrity|academic integrity]] — including clear definitions around plagiarism and strict rules prohibiting the upload of sensitive data. At the department level, unit-specific contextual policies should honor university guidelines while fostering student learning. The authors also call for stronger collaborative mechanisms such as inter-department policy committees comprising faculty and students across disciplines, with a continuous [[feedback|feedback loop]] so teaching and pedagogy inform policy and vice versa.
 
-## Implications for AI Governance in Education
+## What this means for practice
 
-The study reveals a fundamental structural challenge in [[ai-education|AI governance]]: risk-averse centralized policies that fail to address pedagogical needs at the discipline level. The authors recommend that guidelines be aligned with broader institutional policies while explicitly addressing [[discipline-specific-aied|discipline-specific learning objectives]] and evolving workforce demands. This aligns with emerging [[ai-literacy]] frameworks that emphasize both technical and pedagogical dimensions of AI readiness, and suggests that bringing faculty and students into the loop of [[educational-policy-ai|policy design]] can improve student outcomes while keeping [[academic-integrity|academic integrity]] intact.
+- **Administrators.** Write directives rather than suggestions: 95% of the 130 university policies analyzed carry a negative clarity-strength score, with "may" and "can" outweighing "must" and "prohibited", and a document framed only as a guideline leaves faculty and students without an enforceable standard.
+- **Administrators.** Split the layers deliberately: keep data security, procurement, legal compliance, and [[academic-integrity|academic integrity]] at the university level, and require unit-level policies that carry the pedagogical content — tool access, model outputs, AI risks, and [[ai-literacy|AI literacy]] — that central documents omit.
+- **Administrators.** Convene an inter-department policy committee of faculty and students and put it on a revision [[feedback|feedback loop]], so teaching and pedagogy inform policy and policy informs teaching instead of the two diverging.
+- **Administrators.** Close the [[discipline-specific-aied|accreditation]] gap: institutions largely fall short of accreditation bodies' expectation of unified integration of curriculum, policy, assessment, and infrastructure, so integration is the compliance work still outstanding.
+
+## Limitations
+
+- The corpus is 130 university-level AI policies crawled from 149 U.S. R1 and R2 research universities across 34 states; the authors state that this sample size may limit generalizability.
+- Only eight business schools had their own policy at the time of crawling (Haas, Columbia, Tuck, Harvard Business School, MIT Sloan, Kellogg, Ross, and Wharton), so the within-institution comparison rests on eight paired documents, six of which diverge from the host university.
+- The three measures are automated text statistics — Spacy sentiment polarity, BERTopic topic modeling, and SBERT cosine similarity — which describe wording and framing rather than implementation, enforcement, or classroom effect.
+- The authors cannot determine whether documents labeled "guidelines" are mandatory or optional, and they call for modeling that distinction through separate analytical samples in future work.
 
 ## Connected Concepts
 

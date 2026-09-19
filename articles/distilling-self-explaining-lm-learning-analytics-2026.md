@@ -1,7 +1,7 @@
 ---
 title: "Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 technology: [learning-analytics, llm]
 ethics: [trust]
@@ -35,9 +35,7 @@ Under the oracle mentor, the mentee recovers the true CATE surface closely: Pear
 
 Applied to a nationally representative dataset (HSLS:09, n = 9,167), the pipeline estimates the effect of advanced [[math-education|mathematics]] coursework (AP/IB) on four-year college enrollment. The X-learner estimates an ATE of **0.230** with positive effects for 98.3% of students; the leading moderators are prior mathematics achievement (17% variance share) and socioeconomic status (13%), with effects declining monotonically across quartiles — so the advanced mathematics coursework most benefits students least likely to enroll in four-year college, consistent with Byun et al. (2015). On a held-out test split of 1,834 students, the mentee correlates with the mentor at r = 0.71, **98.8% of narrations pass the faithfulness audit in full**, 99.7% self-close arithmetically, and there are no fabricated quantities. The entire negative tail of the mentor's surface is truncated in distillation, so the mentee recommends treatment for all students in a severely imbalanced case — a decision-quality collapse that fluency cannot reveal.
 
-## Implications for trustworthy learning analytics
-
-The paper's central lesson is that fluency and faithfulness are distinct properties. Across every condition, the mentee produces narrations that read well, cite covariates with correct calculation, and end with confident, actionable recommendations — yet in the severely imbalanced simulation it recommends actually harmful treatment to almost all harmed individuals under the X-learner. This danger can only be surfaced in a simulation where ground truth is known by construction, and it is especially concerning in [[learning-analytics]], where parents, students, and counselors are the least equipped to notice that a well-written explanation is wrong. The upstream model therefore deserves the most scrutiny, since it mostly determines what the mentee learns.
+## What the work contributes
 
 The pipeline also carries favorable [[ethics|privacy and fairness]] properties. Because student records never leave the machine and are never sent to a third-party model provider, it enables local, [[human-in-the-loop-ai|human-in-the-loop]] decision support; the deployment runs on a commodity laptop with no network access, producing an estimate and explanation in about ten seconds. For [[bias-mitigation|fairness]], sensitive covariates can be dropped entirely in prediction tasks (fairness through unawareness) or handled at the decision stage in causal tasks, and the design extends naturally to distill multiple upstream models into one general analysis assistant. The simulation rests on only five replications and the empirical study on one dataset and outcome, and the mentee compresses effect magnitudes in every condition, so individual point estimates should be read with caution even where correlation is high — a limitation the paper exposes honestly rather than concealing behind [[qualitative-research|qualitative]] labels.
 
@@ -45,7 +43,8 @@ The pipeline also carries favorable [[ethics|privacy and fairness]] properties. 
 
 - **Software developers.** Audit every narration against the attribution it claims to describe rather than reading it for fluency, since a fine-tuned model writes equally well whether its mentor signal is exact or noisy; the audit checks arithmetic closure, cited covariates, decision fidelity, and the unsafe-treatment rate.
 - **Software developers.** Run a ground-truth [[simulation]] before deployment and inspect the unsafe-treatment rate, not only point accuracy: in the severely imbalanced condition the mentee recommended treatment for nearly every student, including those the ground truth marks as harmed.
-- **Software developers.** Attach minimum safeguards to any live deployment — report decision accuracy against the majority baseline and treat individual point estimates as approximate, since the mentee compresses effect magnitudes in every condition.
+- **Software developers.** Attach minimum safeguards to any live deployment — report decision accuracy against the majority baseline and treat individual point estimates as approximate, since the mentee compresses effect magnitudes in every condition and parents, students, and counselors reading an explanation are the least equipped to notice that a well-written one is wrong.
+- **Software developers.** Direct the most scrutiny at the upstream estimator rather than the distilled mentee: the bottleneck is upstream estimation, not fine-tuning, and the mentee's point estimates are in fact slightly closer to ground truth than the mentor's because the ALE decomposition and distillation smooth a noisy CATE.
 - **Researchers.** Reproduce the pipeline with additional replications and across other ML and causal settings and datasets; the pipeline is currently evidenced by five replications plus one dataset, one treatment, and one outcome.
 
 ## Limitations

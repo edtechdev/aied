@@ -1,7 +1,7 @@
 ---
 title: "Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -39,23 +39,13 @@ methods: [usability-research]
 - **Analysis:** two researchers performed inductive [[qualitative-research|thematic analysis]] on the transcript in four sections, coding independently with private copies to avoid mutual influence, then reconciling tags by discussion and grouping them against the research questions. Final projects were analyzed with affinity diagramming on a digital whiteboard, with each researcher preparing individual insights on scope, tone, and appearance before grouping tags into themes. No inter-rater reliability was computed because only mutually agreed tags were carried forward.
 - **Limitations:** a sample of six teachers limits generalizability; most participants taught [[stem-education|STEM]] subjects, with only P1 representing the [[humanities-education|humanities]]; IRR was not calculated; and rapid [[llm]] change warrants replication, though the authors argue principles rooted in real classroom experience will persist.
 
-## Implications for AI in Education
-
-- **Engage domain experts early and throughout design:** participants valued being designers and urged tool builders to consult people "on the ground," consistent with user-centered and participatory traditions — this is [[usability-research|usability work]], not outreach.
-- **Prioritize content scoping over accuracy improvements:** every teacher, regardless of subject, insisted that the chatbot stay within lesson content to prevent distraction, overwhelm, and access to unrelated or inappropriate material, with responses age-appropriate, accessible, and ethically sourced. Domain restriction is an instructional requirement, not merely a [[hallucination-risk|hallucination]] patch.
-- **Enable personalization inside safety boundaries:** customization of genre, format, pace, and complexity supported [[agency|autonomy]] and enjoyment, and designers should let both students and teachers rate the relevance of generated answers — connecting to work on [[personalized-learning|personalized learning]] and [[affective-tutoring|affective tutoring]] systems.
-- **Provide comprehensive logging and monitoring:** teachers wanted records of student–chatbot conversations in real time or in an easily exportable format such as PDF, so that generated content can be checked for accuracy and student use can be supervised — real-time [[learning-analytics|analytics]] are a recurring demand in [[intelligent-tutoring|intelligent tutoring]] contexts.
-- **Support [[multimodal]], accessible presentation:** teachers raised the needs of students with disabilities such as dyslexia and of [[multilingual-learning|multilingual]] students, implying multimodal input such as speech and multilingual input and output — an [[accessibility]] and [[inclusive-learning|inclusion]] requirement rather than a feature upgrade.
-- **Allow professional customization of AI behavior:** the worksheet prompts (tone, purpose, scope, domain, modalities, presentation modes, conversational control) proved useful scaffolding for teachers, and such elements could live in a teacher-facing dashboard where educators upload their own documents as prompting context.
-- **Expect a domain-general pattern:** the bounded authority model is offered as guidance for other high-stakes professions where AI augments rather than replaces expertise, such as diagnostic AI under physician authority or legal retrieval under lawyer judgment.
-
 ## What this means for practice
 
 - **Instructors.** Scope an educational chatbot to lesson content before optimizing its accuracy: every teacher in the study made domain restriction a first requirement, treating it as an instructional need rather than a [[hallucination-risk|hallucination]] patch.
 - **Instructors.** Keep objective-setting and summative [[assessment]] under your own authority while delegating presentation, practice and [[formative-assessment|formative feedback]], the only instructional events these teachers were willing to hand over.
-- **Designers.** Build teacher override and routed escalation rather than auto-rejection, so that ambiguous but legitimate questions reach a human instead of triggering a blanket refusal.
-- **Designers.** Provide complete conversation logging with real-time alerts and a way for students and teachers to rate answer relevance, since teachers wanted transcripts for both accuracy checking and supervision of [[student-ai-interaction|student–AI interactions]].
-- **Designers.** Prioritize behavioral transparency — visible limits, uncertainty cues, standardized refusals — over algorithmic explanation, which is what these teachers actually designed.
+- **Designers.** Build teacher override and routed escalation rather than auto-rejection, so that ambiguous but legitimate questions reach a human instead of triggering a blanket refusal, and let teachers customize AI behavior — tone, purpose, scope, domain, modalities, presentation modes and conversational control — from a teacher-facing interface where they upload their own documents as prompting context. Expect the bounded-authority pattern to travel beyond education: the authors offer it as guidance for other high-stakes professions where AI augments rather than replaces expertise, such as diagnostic AI under physician authority or legal retrieval under lawyer judgment.
+- **Designers.** Provide complete conversation logging with real-time alerts and a way for students and teachers to rate answer relevance, since teachers wanted transcripts for both accuracy checking and supervision of [[student-ai-interaction|student–AI interactions]]. Support [[multimodal]], accessible presentation — speech input and multilingual input and output — for students with disabilities such as dyslexia and for [[multilingual-learning|multilingual]] students, an [[accessibility]] and [[inclusive-learning|inclusion]] requirement rather than a feature upgrade.
+- **Designers.** Prioritize behavioral transparency — visible limits, uncertainty cues, standardized refusals — over algorithmic explanation, which is what these teachers actually designed. Engage teachers as domain experts early and throughout design rather than as recipients of finished tools: participants valued being designers and urged tool builders to consult people "on the ground," making this [[usability-research|usability work]] rather than outreach.
 
 ## Limitations
 

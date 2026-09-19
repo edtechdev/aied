@@ -1,7 +1,7 @@
 ---
 title: "Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -25,9 +25,19 @@ institutions: [educational-policy-ai]
 - **Indirect pathways via attitudes and perceived risk.** Perceived importance of policy and AI literacy operated through attitudes and perceived risks to influence intention.
 - **Beyond the formal classroom.** The study addresses GenAI use for academic writing in informal settings, not just formal classroom tasks.
 
-## Implications
+## What this means for practice
 
-This study reinforces the knowledge base's [[ai-literacy]] and [[technology-acceptance-model|technology acceptance]] threads by showing that **AI adoption for academic writing depends on willingness ("will") and capability ("skill") more than on tool access ("tool")** — infrastructure/facilitating conditions were not significant, while attitudes, perceived risks, policy salience, and AI literacy were. For [[educational-policy-ai|policy]] and [[pedagogy]], this implies interventions should target learners' attitudes, risk perceptions, and AI literacy rather than simply providing tools, and that clear [[governance|institutional]] [[educational-policy-ai|policy]] signals matter for shaping acceptance. It connects to [[writing-education]], [[higher-ed]], and [[generative-ai]].
+- **Instructors.** Build students' positive attitudes toward GenAI for academic writing by showing how it addresses both disciplinary content and language problems, since attitude was the strongest predictor of intention (β = 0.455).
+- **Instructors.** Teach AI literacy explicitly — critical evaluation of outputs, responsible use, and risk appraisal — because AI literacy predicted intention (β = 0.318) and worked in part by raising attitudes (β = 0.418) and lowering perceived risks (β = −0.241).
+- **Learners.** Treat your own willingness and capability, not the availability of tools, as the limiting factor: facilitating conditions were not a significant predictor of intention (β = 0.031, p = 0.431).
+- **Administrators.** Publish clear, unified guidance on ethical GenAI use in academic writing: perceived importance of policy predicted intention directly (β = 0.271) and indirectly through both attitudes (β = 0.348) and perceived risks (β = −0.413).
+
+## Limitations
+
+- Single EMI university in China, with 512 respondents drawn from Humanities, Social Sciences, and Business through convenience sampling of an anonymous Qualtrics link distributed on WeChat; the authors state the sample may not represent diverse EMI students and call for other disciplines and institutional contexts.
+- Self-report only: every construct was measured on a 5-point Likert scale, so the dependent variable is behavioral intention (56.0% of the variance explained), not observed use — the authors propose usage logs, interviews, and stimulated recall to triangulate.
+- Cross-sectional, so it supports no causal claims and says nothing about how will, skill, and tool develop over time; the authors call for a longitudinal design.
+- Writing was treated as one general activity rather than specific tasks (idea generation, language polishing, drafting, literature review), leaving open whether risk appraisal and policy salience behave the same way on higher-stakes writing.
 
 ## Connected Concepts
 

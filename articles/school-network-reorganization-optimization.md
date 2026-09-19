@@ -1,7 +1,7 @@
 ---
 title: "School network reorganization under educational and spatial constraints using classical and quantum optimization"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education]
 technology: [learning-analytics, simulation]
@@ -52,9 +52,20 @@ The model was reformulated as a Constrained Quadratic Model and submitted to D-W
 
 The real-world validation uses the complete public school network of Calabria, Italy, for the 2025/2026 school year across five provinces (Catanzaro, Cosenza, Crotone, Reggio Calabria, Vibo Valentia) under 64 policy configurations. The classical solver found optimal solutions below 0.20 s in every case; the hybrid quantum solver again matched the classical optimum with a 0% gap. The province of Cosenza — geographically large and municipally fragmented — generates the most cross-municipality aggregations and educational hubs, while Vibo Valentia produces none. Aggregation plans proved structurally robust to policy-parameter changes, indicating that the framework supports [[educational-policy-ai|evidence-based planning]] without amplifying territorial imbalances.
 
-## Educational Planning Implications
+## What this means for practice
 
-As school districts worldwide face declining enrollments and budget pressures, AI-powered optimization offers data-driven alternatives to politically-driven consolidation decisions. The framework's multi-criteria approach ensures that educational quality and [[equity-in-ai-education|equity]] considerations are not sacrificed to purely financial optimization. By letting [[stakeholders|regional authorities]] adjust the relative weight of geographical proximity, curricular compatibility, and territorial protection without destabilizing the network, the model serves as a practical decision-support tool for sustainable [[k-12|school network]] planning — particularly in fragile territories affected by demographic decline, where [[regulation|regulatory]] context and accessibility must be jointly respected.
+- **Policymakers.** Set and publish the enrollment threshold for retaining autonomy deliberately: in the Calabria run it was the only parameter negatively correlated with the objective value (r = −0.60), so it governs how many aggregations occur, while [[accessibility|accessibility thresholds]] and territorial-protection weights rarely bind.
+- **Policymakers.** Base catchment feasibility on road-network travel time rather than geometric distance, and hold younger students in Comprehensive Institutes to stricter thresholds than upper-secondary students.
+- **Administrators.** Explore trade-offs by re-running the model across policy weights instead of negotiating one plan: aggregation plans proved structurally robust across the 64 policy configurations tested, so relative weights can shift without destabilizing the network.
+- **Administrators.** Apply the territorial criticality index (0–4) and the asymmetric autonomy thresholds — 1000 students in stable areas down to 400 in the most fragile — so consolidation does not concentrate in the most vulnerable municipalities.
+- **Administrators.** Treat hybrid quantum solving as a watch item rather than a procurement case: on the Calabria instance it reproduced the classical optimum at a 0% optimality gap but with execution times well above Gurobi's sub-second solves.
+
+## Limitations
+
+- The synthetic instances at n ∈ {250, 500, 750, 1000} abstract away geography: inter-school travel time is computed as Euclidean distance divided by a fixed speed (v = 1), so no synthetic instance exercises a real road network.
+- The hybrid quantum campaign covers only the n = 500 instance; the authors restricted it because available hybrid quantum resources cannot efficiently solve substantially larger sizes, making it a single-size proof of concept.
+- No public benchmark dataset exists for school dimensioning under territorial constraints, and the real-world validation is a single region (Calabria, Italy, 190 binary decision variables) in a single school year (2025/2026); the model optimizes a policy-weighted proxy objective, not measured learning or [[equity-in-ai-education|equity]] outcomes.
+- The territorial-protection coefficient C4 was never exercised: the Calabrian dataset contains no institutions classified as at risk of dimensioning under the adopted regulatory framework, so that penalty term remained inactive.
 
 ## Connected Concepts
 

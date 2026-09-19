@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 pedagogy: [constructivist, distributed-cognition, learning-theories, pedagogy, sociocultural-learning]
 technology: [generative-ai]
@@ -34,7 +34,7 @@ The authors propose **mediational agent** as a distinct category: a system that 
 
 Generative AI is exceptionally effective at improving immediate performance — fluent prose, working code, plausible explanations — yet learning depends on process: generating ideas, wrestling with uncertainty, evaluating alternatives, revising understanding. Systems designed to reduce cognitive effort therefore create a developmental paradox, since the same capabilities that improve immediate performance can reduce opportunities for intellectual growth when they replace rather than support learners' own thinking. This is the paper's link to the [[reducing-ai-misuse]] concern about performance–learning gaps and to [[desirable-difficulties|productive struggle]]. The five habits respond by regulating the relationship between one's own thinking and the system's contributions rather than by optimizing tool use. They are dispositions, not a fixed [[pedagogy]]: supervisory agency in historical inquiry differs from software engineering, and epistemic vigilance takes different forms in scientific modeling than in literary interpretation.
 
-## Implications for the Learning Sciences
+## Research agenda
 
 Viewing AI as a mediational agent redirects [[research-methods-aied|researchers]] from whether AI improves outcomes toward how patterns of participation change. [[scaffolding]] traditionally meant support from teachers, peers, or designed environments; mediational agents generate support dynamically without the social relationships that gave scaffolding its developmental significance. [[distributed-cognition|Distributed cognition]] asks how cognitive work is shared across people and artifacts; generative AI raises the sharper question of how cognitive responsibility should be distributed when artifacts contribute to reasoning itself. The framing supplies vocabulary for debates that otherwise oscillate between techno-optimism and alarmism, complementing work on [[framing-ai-use-for-students]], [[ai-literacy]], [[critical-thinking]], [[ethics]], and [[philosophy-of-ai-in-education]], while cautioning against non-accountable persuasive output such as [[ai-sycophancy]] that erodes the [[human-in-the-loop-ai|human judgment]] these habits protect.
 

@@ -1,7 +1,7 @@
 ---
 title: "The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, educational-development, teacher-role]
 stakeholders: [teacher-ai-competency, professional-training]
@@ -35,17 +35,13 @@ The model was examined through an illustrative practice case at one school — N
 
 The study's contribution lies not in a new technical AI capability but in an architecture of connection: it explicitly describes the mechanism by which an AI-assisted insight surfaced at the individual level moves into collaborative dialogue and is then normalized into community-level knowledge in a continuous feedback loop, rather than three separate applications. The paper situates this against prior work on AI-mediated reflection (mostly operating at a single level) and AI-enhanced PLCs (which assume data already exists without explaining how it is generated and interpreted individually before reaching the PLC).
 
-## Implications for Teacher Professional Learning
-
-The Reflective Triangle offers a systematic approach to continuous professional development in which AI mediates the relationship between individual reflection, collaborative dialogue, and the collective construction of professional knowledge. For [[educational-development|faculty development]] and [[professional-training|professional training]], it suggests that the value of AI in teaching should be judged not only by task efficiency but by how well it supports teachers' own capacity and autonomy. Because AI-generated analysis depends on input data, prompting, model, and user interpretation, the model requires organizational conditions that protect teacher agency and professional responsibility while guiding how reflection cycles, data selection, and peer verification of AI-assisted claims are organized. It connects directly to building [[teacher-ai-competency|teacher AI competency]] and to fostering [[community-of-inquiry|communities of inquiry]] in which teachers jointly interrogate practice on an evidence basis, positioning AI as a [[scaffolding|scaffold]] for [[cognitive-offloading|offloading]] routine analysis while keeping professional judgment human-led.
-
 ## What this means for practice
 
 - **Instructors.** Reflect on captured classroom evidence — transcripts, classroom discourse, questioning patterns, [[student-engagement|student engagement]] — rather than memory, since the study's starting problem is that post-teaching reflection is memory-dependent and easily truncated by workload.
 - **Instructors.** Keep AI at the epistemic level and out of judgment about practice: shift the question from "what does AI say?" to "what does this evidence make me ask?", and do not let the system conclude whether a lesson was good.
 - **Faculty developers.** Route individual AI-assisted insights into the PLC for collective verification and alternative interpretation before treating them as professional knowledge; the model's contribution is the mechanism by which an individual insight is normalized into community-level knowledge.
 - **Faculty developers.** Choose indicators and frameworks deliberately, because AI frames what teachers can see by selecting which indicators to surface (for example, teacher talking time) and which framework to apply (for example, Bloom's taxonomy).
-- **Faculty developers.** Protect psychological safety and teacher [[agency]]: the paper reports that AI supports psychological safety only when its use is embedded within a non-punitive PLC, and that AI-generated analysis must not be treated as objective evidence.
+- **Faculty developers.** Protect psychological safety and teacher [[agency]]: the paper reports that AI supports psychological safety only when its use is embedded within a non-punitive PLC, and that AI-generated analysis must not be treated as objective evidence. Judge AI's value by how far it supports teachers' own capacity and autonomy rather than by task efficiency alone, since AI-generated analysis depends on input data, prompting, model and user interpretation, and the model therefore requires organizational conditions that protect professional responsibility and govern how reflection cycles, data selection and peer verification of AI-assisted claims are organized.
 
 ## Limitations
 

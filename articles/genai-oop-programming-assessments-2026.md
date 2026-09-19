@@ -1,7 +1,7 @@
 ---
 title: "Revisiting the Performance of Generative Artificial Intelligence on Introductory Object-Oriented Programming"
 created: "2026-08-18T09:20:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -33,10 +33,6 @@ The study used programming tests (T1, T2) and a final examination from an introd
 - **Non-compiling code:** Systems occasionally produced code that did not compile (e.g., `a=a` causing non-compilation; confusion with list indexes).
 - **[[multimodal]] weakness:** Performance was limited on graphics-related questions involving image interpretation — a domain where the 2026 models still underperform.
 - **Year-over-year improvement with recurring errors:** Compared with the prior year, systems improved across most assessments but repeated several error patterns (e.g., ChatGPT again marking methods `public` instead of `private`).
-
-## Implications for assessment and teaching
-
-The results support the view that contemporary GenAI can outperform the average student on authentic introductory programming assessments, making exam-based evaluation of students' individual coding ability unreliable unless assessments are redesigned. For [[automated-assessment]], the recurring conceptual errors (interfaces, abstract classes, inheritance) suggest that AI-generated solutions still require [[human-in-the-loop-ai|human review]] for advanced [[computational-thinking|OOP concepts]]. Instructors designing [[authentic-assessment|authentic]] programming assessments may need to weight tasks where models demonstrably fail — interfaces, abstract classes, [[multimodal]] image-based questions — to preserve [[assessment-validity]] and limit [[cognitive-offloading|over-reliance]] on AI. The findings also speak to [[academic-integrity]]: with models reliably exceeding the average student, detecting or deterring AI use becomes less defensible than redesigning what counts as evidence of learning.
 
 ## What this means for practice
 

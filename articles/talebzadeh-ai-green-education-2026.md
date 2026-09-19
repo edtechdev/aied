@@ -1,7 +1,7 @@
 ---
 title: "The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow and Enhancing Pedagogical Design under Sustainable Development Pedagogy (SDP) Constraints"
 created: "2026-08-09T08:35:52-04:00"
-updated: "2026-08-30T05:30:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, educational-development, learning-design, teacher-role]
 technology: [generative-ai]
@@ -25,11 +25,19 @@ confidence: medium
 - **Zero-paper resource management** constraint acted as a catalyst for more reflective, strategic instructional design
 - **[[teacher-role|Teacher role]] transformation:** from conventional [[pedagogy|pedagogical]] designer to efficient, reflective educational manager
 
-## Implications
+## What this means for practice
 
-This study connects [[learning-design]] with [[generative-ai|AI-assisted pedagogy]] by demonstrating that AI-enforced constraints — rather than open-ended AI assistance — can drive deeper pedagogical reflection. The large effect size is notable and suggests that structured [[scaffolding]] through AI workflows may be more effective than unstructured AI use for teacher development.
+- **Instructors.** Replace open-ended AI access with a hard design constraint — this study used a zero-paper, fully digitalized assessment workflow — because the constrained phase produced the study's largest gain, in SDP workflow compliance (+1.83 units, d = 3.50); the authors read that as structured [[scaffolding]] succeeding where unstructured AI use does not.
+- **Instructors.** Re-engineer an existing lesson plan under the new constraint rather than writing a fresh one, mirroring the baseline → SDP sequence in which the same teams resubmitted their design.
+- **Faculty developers.** Train teams to write constraint-specific prompts (the SDP prompt set) alongside the general IAT prompts, so the AI supports the required workflow instead of routing around it.
+- **Faculty developers.** Score submissions on all four rubric indices — overall design score, SDP workflow compliance, strategic reflection, and complexity and innovation — so the reflection the constraint forces becomes visible and discussable.
+- **Faculty developers.** Hold identical correction windows and final deadlines for both submissions and keep the two-week gap between phases that this study used, to limit practice-order and instructor-feedback confounds.
 
-The finding aligns with [[genai-can-harm-teaching-rct-2026]] [[research-methods-aied|research]] showing that uncontrolled AI access can reduce teaching quality, while structured frameworks preserve pedagogical integrity. For [[educational-development]], this suggests AI integration should be framework-guided rather than tool-centric.
+## Limitations
+
+- The study rests on 28 teams drawn from 91 pre-service geography teachers in one Geography Teaching Methods course at one university (Farhangiyan University, Tehran), so it is a single-site, single-discipline result.
+- The design is pretest–posttest within the same teams and includes no separate control group: the same 28 teams produced both the baseline and the constrained plans, with concurrent instructor feedback on both sets serving as the paper's stated control rather than an independent comparison.
+- The outcome is rubric-scored lesson-plan quality over a two-week window, not student learning; the rubric's complexity-and-innovation index measures higher-order cognitive demands embedded in the designed tasks, so the IAT model's emphasis on student cognitive outcomes goes unmeasured.
 
 ## Connected Concepts
 

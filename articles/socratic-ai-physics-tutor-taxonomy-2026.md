@@ -1,7 +1,7 @@
 ---
 title: "A Bottom-Up Taxonomy of Student Discourse with a Socratic AI Physics Tutor"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-24T11:30:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [socratic-method]
@@ -56,16 +56,19 @@ The single largest band in the top 20 is equation-handling and symbolic executio
 
 A second large band consists of turns in which the student does not advance the problem themselves but instead asks the tutor what to do — Next Step Guidance (the second-largest category overall), Requesting Solution Help, Asking for Principles, and Assumptions About Problem. Read in terms of epistemological framing, students appear to frame the activity as one in which the tutor is expected to direct the procedural flow and their role is to execute supplied steps. Whether this is a failure of the [[socratic-method|Socratic design]] to cue the intended frame, or a stable equilibrium students settle into, the taxonomy alone cannot resolve — but it makes the phenomenon visible and quantifiable.
 
-## Implications
+## What this means for practice
 
-- The prominence of meta-procedural turns has direct implications for [[intelligent-tutoring|Socratic AI tutor]] design: a tutor explicitly designed not to direct students nevertheless elicits a discourse in which directing is the second-most-requested service. Designers must account for the discourse that a [[pedagogy|pedagogical]] approach actually invites, not just the one it intends.
-- The concentration of student turns on a narrow set of moves means [[educational-nlp|automated analysis]] of AI-mediated learning at scale is tractable: a small codebook covers most of what students do, opening the door to [[learning-analytics|learning analytics]] dashboards that summarize entire course transcript corpora.
-- For research, the finding suggests students may [[cognitive-offloading|cognitively offload]] strategic control to the tutor — relevant to [[agency]], [[self-regulated-learning|self-regulation]], and [[help-seeking]] literatures. The absence of conceptual-reasoning categories at the top of the distribution warrants targeted long-tail analysis before concluding students do not engage in conceptual thinking.
-- The pipeline itself (emergent LLM labeling plus embedding-based consolidation with explicit human–machine agreement) offers a reusable template for [[student-ai-interaction|analyzing student–AI interaction]] at scale, subject to the caveat that category labels are topical and will not transfer to other content domains.
+- **Designers.** Add prompts that make the student name the next step before the tutor responds, since "Next Step Guidance" was the second-largest discourse category (4.4% of student turns) in a tutor built specifically to withhold direction.
+- **Designers.** Design around the head of the distribution rather than the whole long tail — the top 25 of 357 categories covered roughly half of all student turns — and treat the remaining moves as something to monitor rather than to cover.
+- **Researchers.** Reuse the validated pipeline (emergent LLM labeling plus embedding-based consolidation, validated at κ = 0.78 against 287 human-coded messages) to monitor discourse at course scale instead of hand-coding transcripts.
+- **Researchers.** Run targeted long-tail analysis before concluding students do not reason conceptually: explicit conceptual reasoning, prediction, and comparison to similar problems were absent from the top 20 categories even though categories with five or more messages still accounted for 86% of turns.
 
-## Limitations & future work
+## Limitations
 
-The corpus is single-site, single-course, single-tutor, and dominated by a single mechanics problem context, so the specific category labels will not transfer to tutors covering other content. The analysis is observational and licenses no causal claims about the tutor's design. Reliability rests on a 10% expert-coded sample and a single-rater coherence audit; a fuller multi-coder agreement study is the natural next step. The consolidated codebook is also a snapshot of one embedding model's groupings. Natural next steps include positional analysis of where categories occur within sessions, cross-tabulation against student outcomes, and extending the taxonomy across additional topical scopes.
+- Single site, single course, single tutor: the analysis rests on 2,874 student turns from 240 students across 221 sessions in one introductory calculus-based mechanics course at a large U.S. midwestern public research university (Fall 2025) and largely around one recitation problem, so the category labels will not transfer to other content domains.
+- The design is observational, with no comparison condition, and licenses no causal claim about the [[socratic-method|Socratic design]]; natural next steps are positional analysis of where categories occur within sessions and cross-tabulation against student outcomes.
+- Reliability rests on a 10% expert-coded sample (287 messages, Cohen's κ = 0.78) and a single-rater coherence audit rather than a full multi-coder agreement study.
+- The consolidated 357-category codebook is a snapshot of one embedding model's groupings under a fixed clustering threshold (cosine distance 0.40), so a different model or threshold would regroup the categories.
 
 ## Connected Concepts
 - [[intelligent-tutoring]]

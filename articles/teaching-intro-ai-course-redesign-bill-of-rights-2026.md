@@ -1,7 +1,7 @@
 ---
 title: "Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-education, ai-literacy, learning-design]
 technology: [generative-ai]
@@ -60,9 +60,20 @@ One tension is a gap between the course as designed and as taught: the build-a-l
 
 Five lessons close the paper. First, teach pilots, not competitors to the autopilot: the job is not to out-produce the model but to graduate people who can set the destination, decide when to hand control to [[human-in-the-loop-ai|automation]], recognize when it has gone wrong, and retake control with the domain knowledge to fix it. Second, treat the [[prompt-engineering|prompt as source code]]: when a model does the production, the prompt and the interaction log become the artifact worth versioning and grading, so ask for the creation trace, not only the output. Third, govern your own AI use, in public, with the students: submitting to rules the students endorsed changed how AI was discussed in the room, and the mechanism is cheap to copy. Fourth, what he would change: the disclosure-and-provenance discipline he asked of students belongs on his own slides and study materials, and any citation a model inserts gets checked or cut before it reaches a student. Fifth, open questions: when a model can pass the course in an afternoon, what is the course certifying — a question the students answered, honestly, by reaching for the proctored exam.
 
-## Implications
+## What this means for practice
 
-For instructors, the report offers a concrete template for redesigning an AI-course around work that resists [[reducing-ai-misuse|unattributed automation]]: invert the AI policy from prohibition to required-and-understood use, treat prompt and interaction logs as the gradeable artifact, and hand students authorship over the rules that govern AI in the course — even a scaffolded governance exercise produced an accountability framework more usable than institutional guidance. For institutions, the experience complicates simplistic AI-detection bans and suggests that [[student-ai-interaction|student voice]] can productively govern faculty AI use, while the fabricated references embedded in AI-generated materials demonstrate the need for provenance checking and disclosure before AI-produced content reaches students. For research, the paper is an explicit single-cohort experience report that makes no causal claims, illustrating both the value and the [[limitations-in-aied-research|limits]] of such design narratives and surfacing open questions about what an AI-era course certifies. The tension between requiring a tool and being resented for using it, the students' reflexive turn back toward the [[remote-proctoring|proctored exam]], and the gap between the course as designed and as taught are findings another instructor could test.
+- **Instructors.** Invert the course AI policy from silence or prohibition to required-and-understood use, and grade the creation trace — the prompt log and interaction record — rather than only the output, as the Morse puzzle did.
+- **Instructors.** Move the weight of the grade onto work a model cannot quietly ghost-write: in-class exercises, reflective writing in the student's own voice, and a defended team project, instead of grading take-home work and hunting for cheating after the fact.
+- **Instructors.** Run a participatory governance exercise and be bound by what students endorse: the Student Bill of AI Rights (disclosure of AI use, appeal of any AI grade to a human, and the Beta-Test Rule) changed how AI was discussed in the room for the cost of one class hour.
+- **Administrators.** Verify what a model writes before it reaches students: the Gemini-generated ethics activities carried references ranging from misattributed to apparently fabricated, inside a course whose subject was the reliability of AI.
+- **Instructors.** Expect students to reach back for the proctored exam when they design a fair policy for an exam-free course — all but one group introduced some proctored, handwritten, oral, or quiz-based component and four placed sixty to seventy percent of the grade there — and be ready to answer the case they make.
+
+## Limitations
+
+- One cohort, one instructor, one ten-week quarter: forty-six students in a single Spring 2026 offering of CSS 382, with no causal or learning-outcome claims and course evaluations used only as descriptive color.
+- The course as taught was not the course as designed: the build-a-language-model-from-scratch strand was not delivered (its class time went to the team projects and it survived as an optional reading), and that strand is load-bearing for the argument that students who build the methods by hand earn the judgment to supervise them.
+- The governance artifact is not a validated framework: it was produced in an hour from an AI-scaffolded prompt, with 44 of 46 students present, and the paper makes no causal claim about its effect on learning.
+- There is no comparison condition, and the descriptive evaluation numbers moved modestly against the 2023 offering (summative median 3.8 vs. 3.9; challenge-and-engagement index 4.2 vs. 5.1), so nothing here establishes that the redesign improved the course.
 
 ## Connected Concepts
 - [[academic-integrity]]
