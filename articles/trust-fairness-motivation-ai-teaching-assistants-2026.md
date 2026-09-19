@@ -1,7 +1,7 @@
 ---
 title: "How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory]
 technology: [pedagogical-agent]
@@ -38,6 +38,14 @@ Eight latent constructs were measured at every wave on five-point Likert scales:
 - **Trait-level differences condition who benefits.** Because a large share of construct variance resides between persons, students with low dispositional trust are argued to be the likeliest to show disproportionate within-person gains from targeted onboarding.
 - **Theory:** the findings supply the first within-person longitudinal evidence for a trust-to-fairness-to-motivation temporal pathway in [[ai-education]] contexts, extending organizational justice theory and offering a qualified test of [[self-determination-theory|self-determination theory]]'s differential-pathway proposition; the asymmetric reciprocal pattern reframes the trust-fairness relation as directionally informative without claiming unidirectional primacy.
 - **Design and evaluation:** the dual-process account (a direct trust-to-motivation path plus a fairness-mediated path) suggests evaluation of AI teaching assistants should monitor both uncertainty-reduction effects and explicit justice judgments rather than treating fairness as the sole mechanism.
+
+## What this means for practice
+
+- **Instructors.** Spend your effort on the opening weeks: ability trust produced the largest within-person effects on fairness judgments, and the authors identify rigorous pre-deployment accuracy testing, honest error reporting, and reliable performance in the first two to four weeks of interaction as the window where trust is most malleable.
+- **Instructors.** Aim onboarding at students who start with low trust in the assistant and measure the result: the authors argue these students are likeliest to show disproportionate within-person gains, while noting the implication rests on indirect support rather than an experimental test.
+- **Designers.** Make decision rules visible and consistent through procedural transparency, voice mechanisms, and stable feedback procedures, because procedural justice was the fairness dimension tied to later intrinsic motivation (β = 0.16).
+- **Administrators.** Evaluate AI teaching assistants on uncertainty reduction and explicit justice judgments together, and report errors without eroding confidence: perceived fairness carried 34.1% of the within-person trust effect on motivation, with a direct path remaining alongside it.
+- **Administrators.** Do not expect fairness messaging to build trust on its own — no fairness-to-trust path reached significance — so invest in demonstrated competence rather than communications alone.
 
 ## Limitations
 

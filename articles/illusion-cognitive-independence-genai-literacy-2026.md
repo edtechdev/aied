@@ -1,7 +1,7 @@
 ---
 title: "The Illusion of Cognitive Independence in the Age of Generative AI: Unpacking GenAI Literacy and Learner Profiles"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:10:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning, student-engagement]
@@ -35,6 +35,14 @@ The study drew on an online [[self-report-measures|questionnaire]] completed by 
 - **Address the illusion of cognitive independence** by helping learners calibrate their perceived versus actual cognitive contribution, since students may experience AI-supported performance as their own independent thinking.
 - **Differentiate support by learner profile.** Engaged and Literate users may benefit from sharper [[evaluative-judgment|evaluative judgment]] about what to delegate, while Uncritical Reliant users need [[scaffolding]] for [[critical-thinking|critical evaluation]] and monitoring.
 - **Design for calibrated reliance** consistent with [[self-regulated-learning]]: strategic delegation paired with epistemic oversight rather than uncritical dependence.
+
+## What this means for practice
+
+- **Instructors.** Teach critical monitoring and verification as explicit, assessed practices aimed at the two profiles most at risk: Uncritical Reliant learners, who monitor least, and Skeptical Minimal learners, who leaned on shortcuts whenever they did engage.
+- **Instructors.** Make the gap between perceived and actual contribution visible through calibration activities, because Uncritical Reliant learners reported the highest preservation of independent thinking while offloading the most core cognitive work.
+- **Designers.** Do not treat tool adoption or conceptual literacy as the outcome: critical-ethical awareness predicted more critical monitoring and more shortcut reliance at once, so set tasks with a deliberately non-delegable core rather than assuming literacy reduces reliance.
+- **Researchers.** Replicate the profiles with behavioral measures, since the illusion of cognitive independence is defined by the self-perception that the self-report instrument cannot independently verify.
+- **Researchers.** Extend the profile comparisons beyond the graduate-heavy sample and the Southern and Eastern European recruitment base before treating the three profiles as general.
 
 ## Limitations
 

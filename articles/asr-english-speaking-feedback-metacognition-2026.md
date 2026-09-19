@@ -1,7 +1,7 @@
 ---
 title: "ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [metacognition, self-regulated-learning]
@@ -32,6 +32,14 @@ The study surveyed undergraduates at a teacher-training university in China who 
 ## Implications for AI in Education
 
 For [[language-learning]] and [[intelligent-tutoring]], the findings show ASR's value rests on [[pedagogy|pedagogical]] integration, not the tool alone. Educators should prioritize feedback quality over practice volume, scaffold reflection through structured tasks such as recording-and-comparing and reflective journals, and differentiate support by proficiency level — since one-size-fits-all ASR practice risks widening achievement gaps. Developers should build systems that explain errors articulatorially (e.g. where to place the tongue) rather than merely flagging mistakes, and add adaptive features that simplify feedback and increase complexity as learners progress — connecting directly to [[self-regulated-learning]] and [[personalized-learning]] design. Because accurate feedback can momentarily discourage lower-proficiency learners, systems should pair precision with supportive, positively framed scaffolding.
+
+## What this means for practice
+
+- **Instructors.** Prioritize [[feedback]] quality over practice volume: accurate error correction and structured reflection tasks drove internalization and reflection, while frequency of ASR use did not raise motivation on its own.
+- **Instructors.** Scaffold reflection explicitly with recording-and-comparing tasks and reflective journals, since reflective behavior translated into speaking gains more directly than motivation did.
+- **Instructors.** Differentiate by proficiency: the reflection-to-achievement effect was weak and non-significant at low proficiency, so give weaker learners simplified feedback and explicit strategy guidance instead of one-size-fits-all ASR practice.
+- **Designers.** Make systems explain errors articulatorially — for example, where to place the tongue — instead of only flagging them, and scale feedback complexity with learner progress.
+- **Researchers.** Isolate specific design features experimentally: across the 325 valid responses the authors modeled ASR feedback quality, accuracy, and usage frequency, but the technology was treated partly as a monolithic package.
 
 ## Limitations
 

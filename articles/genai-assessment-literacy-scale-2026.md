@@ -1,7 +1,7 @@
 ---
 title: "Development and validation of the generative AI assessment literacy scale for higher education students"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 assessment: [assessment, educational-measurement, feedback]
@@ -37,6 +37,13 @@ Questionnaires were returned by students at six higher education institutions in
 - **Assessment briefs should make the expectation set explicit.** Criteria, permitted and prohibited AI support, expectations for checking AI output, acknowledgment rules, and how feedback should feed revision all need to be visible to students, and the scale names exactly those elements.
 - **Institutions gain a way to test whether policy becomes usable knowledge.** The instrument can be used when introducing disclosure rules or redesigning tasks to check whether students actually understand how to comply, rather than assuming that publishing a rule is enough.
 - **The framing connects assessment literacy, feedback literacy, and academic integrity in one framework.** Its grounding in [[self-regulated-learning]] and [[evaluative-judgment|evaluative judgment]] links understanding criteria, monitoring the quality of one's own work, and acting responsibly on feedback, which is where AI-supported assessment in [[higher-ed]] is most exposed.
+
+## What this means for practice
+
+- **Instructors.** Use the five subscales of the GAA-LS as a diagnostic to locate where a class is weak — criteria awareness, AI-task appropriateness, evidence checking, ethical attribution, or feedback uptake — and teach to that gap instead of issuing blanket AI warnings.
+- **Instructors.** Make the expectation set explicit in assessment briefs: criteria, permitted and prohibited AI support, output-checking expectations, acknowledgment rules, and how feedback feeds revision.
+- **Administrators.** Use the instrument when introducing disclosure rules or redesigning tasks to test whether students actually understand how to comply, rather than assuming a published rule is enough.
+- **Designers.** Score evidence checking and disclosure as elements of the task, since students reporting course-level disclosure rules and prior AI training scored higher on [[ai-literacy|assessment literacy]] than their counterparts.
 
 ## Limitations
 

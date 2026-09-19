@@ -1,7 +1,7 @@
 ---
 title: "AI Teaching Innovation Behavior Among College Teachers: A Structural Equation Modeling Analysis Based on the AI-TPACK Framework, Teaching Self-Efficacy, Professional Identity, and AI Literacy"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
@@ -47,6 +47,13 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 - **Design low-risk spaces for sustained practice.** Pilot AI classrooms and small-scale innovation projects give teachers the authentic, repeatable experience through which integrative knowledge converts into stable practice.
 
 - **Differentiate support by experience level.** The multi-group result, though provisional, suggests teachers with limited AI experience need foundational operational guidance and feedback, while experienced users may benefit more from advanced resources such as interdisciplinary collaboration projects or teaching innovation grants.
+
+## What this means for practice
+
+- **Faculty developers.** Replace abstract tool sessions with problem-oriented redesign workshops where teachers work through goal-setting, tool selection, activity design, and assessment for a real course, because isolated technical AI knowledge showed no link to innovative teaching.
+- **Faculty developers.** Make [[ai-literacy]] the priority mediator: it carried the largest share of the competence-to-innovation association and also raised instructional confidence and professional identity.
+- **Administrators.** Reinforce professional identity through peer-sharing platforms and visible AI teaching cases, because identity mediated the competence-to-innovation link on every AI-TPACK dimension and mattered most among teachers who used GenAI rarely.
+- **Designers.** Stand up low-risk pilot classrooms and small innovation projects so integrative knowledge can convert into stable practice, giving less experienced users foundational operational guidance while frequent users get advanced collaboration resources.
 
 ## Limitations
 

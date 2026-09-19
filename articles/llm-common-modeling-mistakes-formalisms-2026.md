@@ -1,7 +1,7 @@
 ---
 title: "Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs"
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [misconceptions]
 technology: [cognitive-diagnosis, generative-ai, learning-analytics, llm, visualization]
@@ -75,6 +75,21 @@ Finding transformations that cover data is not the same as finding [[pedagogy|pe
 The results were largely positive but mixed. In propositional logic, 19 clusters had main transformations suitable for feedback, though at least 4 needed sub-transformations for more specific feedback. In CTL, all 17 clusters had useful main transformations, with at least 6 requiring sub-transformations. In modal logic, the main transformation of 18 clusters was suitable, with at least 7 requiring sub-transformations — and in 16 clusters the main transformation was **too general** to identify specific mistakes directly, although for 5 of these the frequent sub-transformations revealed the underlying mistake. This is exactly the [[human-in-the-loop-ai|human-in-the-loop]] residue the authors predicted: frequency of explanation is a starting point, and the hierarchical, example-annotated [[visualization]] is what lets a researcher decide which candidates deserve to become [[feedback]] in a learning system.
 
 The paper concludes that the workflow recovers many known propositional logic mistakes, finds additional ones, and applies to other formalisms such as modal logic and CTL. The authors note a further use case: tasks where students transform formulas into normal forms, where one does not immediately have (incorrect, correct) pairs and a suitable pair must be constructed from the incorrect formula, a previous correct formula, and the misapplied equivalence transformation. Future work includes applying the workflow to diverse data sets from other domains and studying how the resulting candidates can be integrated into the feedback systems of interactive learning tools.
+
+## What this means for practice
+
+- **Instructors.** Mine the attempts you already hold for recurrent structural mistakes rather than reading them one at a time: comparing the syntax trees of incorrect and correct formalizations exposes the local rearrangements that repeat across hundreds of students.
+- **Instructors.** Inspect the root transformation of each candidate cluster before writing feedback from it, and descend to sub-transformations when the root is too general — in modal logic the main transformation of 16 clusters could not identify specific mistakes directly.
+- **Designers.** Load validated transformations into interactive learning tools as rule-like explanations for families of incorrect answers, while keeping a human check in the loop, since a transformation explains a frequent structural difference without guaranteeing that it is a conceptual mistake.
+- **Researchers.** Prefer this generate-and-validate workflow over SAT-solver formulations on large data sets, and let the algorithmic verification step, not the model's own judgment, decide which LLM candidates are kept.
+- **Researchers.** Partition the corpus by linguistic operator before mining: the operator-level sub-data sets yielded transformations explaining more data points than the hand-picked mistakes in more than 64% of the 34 propositional-logic sub-data sets.
+
+## Limitations
+
+- Cluster usefulness was judged by a single CS educator inspecting clusters that explain at least 0.5% of the pairs in each of the three data sets, and no second rater or agreement statistic is reported.
+- Only the propositional-logic results are checked against an independent gold standard: the workflow's transformations are compared with mistakes identified by hand in prior work, while the modal logic (12,482 pairs) and CTL (7,210 pairs) results have no such reference.
+- Coverage is uneven across formalisms — 84.44% of the 6,106 propositional-logic pairs and 79.39% of the modal logic pairs, but only 35.89% of the CTL pairs — and the authors attribute the CTL gap to the data set rather than the method.
+- All experiments used one model (GPT-OSS-120B) with a batch size of 50 and a fixed termination rule, and the CTL data came from two iterations of a single introductory logic course (summer 2025 and 2026), so cross-model and cross-course robustness are untested.
 
 ## Connected Concepts
 - [[cs-education]]
