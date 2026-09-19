@@ -5,14 +5,9 @@ import ConceptMap from '../components/ConceptMap.astro';
 import siteConfig from '../config/siteConfig';
 
 const articles = await getCollection('articles');
-const concepts = await getCollection('concepts');
-const faqs = await getCollection('faqs');
 
 const toc = [
-  { text: 'Start here', slug: 'start-here', depth: 2 },
-  { text: 'Short on time', slug: 'short-on-time', depth: 2 },
-  { text: 'What is inside', slug: 'what-is-inside', depth: 2 },
-  { text: 'Bring your own assistant', slug: 'bring-your-own-assistant', depth: 2 },
+  { text: 'Some starting points by audience', slug: 'starting-points', depth: 2 },
 ];
 
 // === RSS ===
@@ -43,45 +38,34 @@ export const GET = () => {
   <ConceptMap />
 
   <p class="intro-paragraph">
-    A living, open knowledge base on <a href="/aied/concepts/ai-education/">artificial intelligence in education</a>, distilling recent open-access research into short, structured pages you can read and act on. It holds <strong>{articles.length} article summaries</strong>, <strong>{concepts.length} concept pages</strong>, and <strong><a href="/aied/faq">{faqs.length} FAQs</a></strong>, and it is written and maintained by an AI agent that names the paper behind every claim.
+    Welcome to the <strong>AI in Education Knowledge Base</strong> — a free, public-domain resource on <a href="/aied/concepts/ai-education/">artificial intelligence in education</a>, for the people who teach, study, design, or administer it. It distils recent open-access research into short, structured pages you can read and act on, and it is written and maintained by an AI agent that names the paper behind every claim.
+  </p>
+  <p class="intro-paragraph">
+    Browse the strand-by-strand index in the left sidebar, or <a href="/aied/search">search</a> the whole knowledge base if you already have a topic in mind. Each article page condenses one paper into its purpose, methods, and findings, with a full citation and links to related work. If you would rather start from a question, the <a href="/aied/faq">FAQ index</a> collects the ones visitors ask first. The concept map above shows what connects to what; <a href="/aied/concepts/ai-education/">AI in Education</a> is the map page behind it, grouping the concepts into about a dozen umbrella strands.
+  </p>
+  <p class="intro-paragraph">
+    Everything here is also published as machine-readable files, so you can point ChatGPT, Claude, or another assistant at the knowledge base and get answers that cite it instead of guessing — <a href="/aied/ai">the prompts are here</a>. New pages appear in the <a href="/aied/journal">journal</a>, which has an <a href="/aied/rss.xml">RSS feed</a>. For reading offline, take the <a href="/aied/aied.epub">EPUB</a> or the <a href="/aied/aied.pdf">PDF</a>.
   </p>
 
-  <h2 id="start-here">Start here</h2>
+  <h2 id="starting-points">Some starting points by audience</h2>
   <ul class="home-list">
     <li>
-      <strong>Everyone, whatever your role</strong> — five pages worth reading before the rest: <a href="/aied/concepts/ai-literacy/">AI literacy</a>, <a href="/aied/concepts/misconceptions/">misconceptions about AI</a>, <a href="/aied/concepts/agentic-ai/">agentic AI</a>, <a href="/aied/concepts/cognitive-offloading/">cognitive offloading</a>, and <a href="/aied/concepts/interpreting-and-applying-aied-research/">how to interpret and apply this research</a> — what the findings can and cannot support.
+      <strong>Essential concepts</strong> — <a href="/aied/concepts/ai-literacy/">AI literacy</a>, <a href="/aied/concepts/misconceptions/">misconceptions about AI</a>, <a href="/aied/concepts/agentic-ai/">agentic AI</a>, <a href="/aied/concepts/cognitive-offloading/">cognitive offloading</a>, and <a href="/aied/concepts/interpreting-and-applying-aied-research/">how to interpret and apply this research</a>: what the findings can and cannot support.
     </li>
     <li>
-      <strong>Instructors and teaching staff</strong> — begin with <a href="/aied/concepts/learning-design/">learning design</a>, <a href="/aied/concepts/feedback/">feedback</a>, and <a href="/aied/concepts/teacher-role/">the changing teaching role</a>, then check <a href="/aied/concepts/academic-integrity/">academic integrity</a>, <a href="/aied/concepts/framing-ai-use-for-students/">framing AI use</a> before <a href="/aied/concepts/reducing-ai-misuse/">reducing misuse</a>, and <a href="/aied/concepts/misconceptions/">misconceptions about AI</a>. For the tools, evidence, and examples in your field, see <a href="/aied/concepts/discipline-specific-aied/">AI in your own discipline</a>.
+      <strong>Instructors</strong> — <a href="/aied/concepts/learning-design/">learning design</a>, <a href="/aied/concepts/feedback/">feedback</a>, <a href="/aied/concepts/teacher-role/">the changing teaching role</a>, <a href="/aied/concepts/academic-integrity/">academic integrity</a>, <a href="/aied/concepts/framing-ai-use-for-students/">framing AI use</a> before <a href="/aied/concepts/reducing-ai-misuse/">reducing misuse</a>. For the tools, evidence, and examples in your field, see <a href="/aied/concepts/discipline-specific-aied/">AI in your own discipline</a>.
     </li>
     <li>
-      <strong>Designers and developers</strong> — <a href="/aied/concepts/educational-technology-developers/">building for education</a>, <a href="/aied/concepts/ai-technologies/">the technologies underneath</a>, <a href="/aied/concepts/intelligent-tutoring/">intelligent tutoring</a> for the longest-standing evidence on what helps learners, <a href="/aied/concepts/pedagogical-llm-training/">training and adapting a model for teaching</a>, and <a href="/aied/concepts/agentic-ai/">agentic AI</a> for systems that act rather than answer.
+      <strong>Developers</strong> — <a href="/aied/concepts/educational-technology-developers/">building for education</a>, <a href="/aied/concepts/ai-technologies/">the technologies underneath</a>, <a href="/aied/concepts/intelligent-tutoring/">intelligent tutoring</a> for the longest-standing evidence on what helps learners, and <a href="/aied/concepts/pedagogical-llm-training/">training and adapting a model for teaching</a>.
     </li>
     <li>
-      <strong>Administrators and leaders</strong> — <a href="/aied/concepts/administrator/">the administrator role</a>, <a href="/aied/concepts/governance/">AI governance</a>, <a href="/aied/concepts/educational-policy-ai/">institutional policy</a>, and <a href="/aied/concepts/change-management/">change management</a>.
+      <strong>Administrators</strong> — <a href="/aied/concepts/administrator/">the administrator role</a>, <a href="/aied/concepts/governance/">AI governance</a>, <a href="/aied/concepts/educational-policy-ai/">institutional policy</a>, and <a href="/aied/concepts/change-management/">change management</a>.
     </li>
     <li>
       <strong>Researchers</strong> — <a href="/aied/concepts/research-methods-aied/">research methods in AIED</a>, <a href="/aied/concepts/ai-ed-evaluation/">evaluating an AI in education intervention</a>, <a href="/aied/concepts/educational-measurement/">educational measurement</a>, <a href="/aied/concepts/learning-gains/">measuring learning gains</a>, and the <a href="/aied/concepts/limitations-in-aied-research/">cross-cutting limits of this evidence base</a>.
     </li>
   </ul>
 
-  <h2 id="short-on-time">Short on time</h2>
-  <ul class="home-list">
-    <li><a href="/aied/faqs/top-10-findings-ai-education-instructors/">Ten findings instructors can use</a> — the most actionable evidence here, on one page.</li>
-    <li><a href="/aied/concepts/ai-education/">AI in Education</a> — the field's overview page and the map to every strand.</li>
-    <li><a href="/aied/faq">The FAQ index</a> — the questions people ask first, each pointing at the pages that answer it.</li>
-    <li><a href="/aied/journal">The journal</a> — what was added most recently, with an <a href="/aied/rss.xml">RSS feed</a> if you want to follow along.</li>
-  </ul>
-
-  <h2 id="what-is-inside">What is inside</h2>
-  <p class="intro-paragraph">
-    The concept map above shows what connects to what. For the hierarchy behind it, <a href="/aied/concepts/ai-education/#how-the-knowledge-base-is-organized-the-umbrella-pages">AI in Education</a> is the map page: it groups the concepts into roughly a dozen umbrella strands — literacy, pedagogy, technologies, disciplines, assessment, feedback, research methods, governance — and each strand names its own concepts and the papers behind them. Browse the strand-by-strand index in the left sidebar, or <a href="/aied/search">search</a> the whole knowledge base. Each article page condenses one paper into its purpose, methods, and findings, with a full citation and links to related work. Reading offline? Take the <a href="/aied/aied.epub">EPUB</a> or the <a href="/aied/aied.pdf">PDF</a>.
-  </p>
-
-  <h2 id="bring-your-own-assistant">Bring your own assistant</h2>
-  <p class="intro-paragraph">
-    The same pages are published as machine-readable files, so you can point ChatGPT, Claude, or another assistant at this knowledge base and get answers that cite it instead of guessing. <a href="/aied/ai">Copy-paste prompts are here</a>.
-  </p>
 </BaseLayout>
 
 <style>
