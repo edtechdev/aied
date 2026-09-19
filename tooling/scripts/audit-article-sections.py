@@ -136,10 +136,25 @@ def all_slugs() -> set[str]:
     return slugs
 
 
+def _slug_from_line(line: str) -> str | None:
+    """Accept a bare slug, or any line naming an article page (batch list files)."""
+    m = re.search(r"articles/([A-Za-z0-9._-]+)\.md", line)
+    if m:
+        return m.group(1)
+    token = line.strip()
+    if not token or token.startswith("#"):
+        return None
+    return token
+
+
 def select(args) -> list[str]:
     if args.slugs_file:
-        lines = Path(args.slugs_file).read_text().splitlines()
-        return [ln.strip() for ln in lines if ln.strip() and not ln.startswith("#")]
+        out = []
+        for line in Path(args.slugs_file).read_text().splitlines():
+            slug = _slug_from_line(line)
+            if slug:
+                out.append(slug)
+        return out
     slugs = []
     for path in sorted(ARTICLES.glob("*.md")):
         text = path.read_text(encoding="utf-8", errors="replace")
