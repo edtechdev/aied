@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production"
 created: "2026-09-04T09:07:00-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-09-19T09:52:14-04:00"
 type: article
 foundations: [academic-integrity, agency, ai-literacy, critical-thinking]
 pedagogy: [metacognition]
@@ -23,10 +23,6 @@ page_kind: [framework]
 ## The AARC Framework
 
 AARC defines the capacity to conduct inquiry with AI without relinquishing [[agency|epistemic agency]]. It is grounded in virtue epistemology, [[ai-literacy|AI literacy]], and AI intuition, and comprises seven teachable dimensions that progress from a guided foundation, through cross-domain transfer, to autonomous inquiry. It is operationalized as an analytic rubric, a five-step decision routine, and three recurring commitments: **verify**, **cite**, and **reflect**.
-
-## Implications for Teaching
-
-A design case across upper-school courses shows how teachers can [[scaffolding|scaffold]] tool selection, source verification, synthesis, disclosure, and reflective defense. AARC thus gives [[k-12|secondary]] teachers a structured way to build [[critical-thinking|critical]], responsible research skills while [[metacognition|reflecting]] on their own use of AI — bridging [[ai-literacy|AI literacy]] and [[academic-integrity|academic integrity]] in practice.
 
 ## What this means for practice
 
