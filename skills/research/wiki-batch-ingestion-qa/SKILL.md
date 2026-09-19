@@ -40,3 +40,22 @@ When re-running the scanner, a reported suggestion is a FALSE POSITIVE if the ph
 
 Corpus median article body is ~556 words and the 90th percentile is ~1,525, so a page far past that is a template artifact, not richness — the maintainer flagged a 1,520-word case study as too long and detail-heavy. Hold every ingested page to ~600-900 body words (frontmatter end to `## Connected Concepts`): Synthesis 150-220 words, `## Key Findings` 5-7 items of ~25-35 words each, 3-4 prose sections of ~120-180 words. Full detail stays in `raw/papers/<slug>.md`. Before accepting a page, count the body words and trim; when trimming, assert no `[[wikilink]]` target is lost (`set(re.findall(r'\[\[[^\]|]+', body))` must not shrink) and leave the Connected lists and Citation untouched. See `wiki-article-quality` pitfall 12 for the full budget and cut list.
 
+## 11. Screen the study's tool generation before the page is written (maintainer-flagged 2026-09-19)
+
+**A study can be well designed and still describe a tool that no longer exists.** A two-week GPT-3.5 classroom comparison ingested on 2026-09-19 was withdrawn the same day: the data were three years old and predated long-context, agentic and multimodal use, so its STEM/non-STEM engagement and note-quality split would have read to a visitor as a statement about present-day AI. Nothing in the standard checklist catches this — every mechanical gate passed on that page (facets, links, length, citation, spelling). Screen it before writing, not after.
+
+**Extract three facts from the full text for every empirical study that measures an effect of a specific AI tool:**
+
+1. **The model and version** actually used — search the method section for `GPT-3`, `GPT-4`, `ChatGPT` with a date or build in brackets, `Claude`, `Gemini`, a named system, or "the free version". A named specific model generation is the strongest signal.
+2. **The data-collection window**, from the method or the article's own dates ("data were collected in March 2023", "the 2022-2023 academic year"). A saturation/participant section often carries it.
+3. **Which capability the result depends on.** Long-context reading, file or image input, tool use and agents, multi-turn memory, and code execution all arrived after the first GPT-3.5 classroom studies. If the finding is about *how much better the tool makes interdisciplinary work*, and the tool could not yet read a whole syllabus or browse, the finding is about that tool generation.
+
+**Then choose a disposition and record it:**
+
+- **Ingest with the vintage stated in the page.** Default for a study whose *mechanism* finding survives (why students offload, how groups divide labor): add a `## Limitations` bullet naming the model version and collection window, in the study's own terms — "the comparison ran on GPT-3.5 in March 2023, before long-context and agentic use" — so the reader can discount it themselves.
+- **Ingest with the effect claim scoped to its generation.** For benchmark and capability comparisons, write the finding as historical ("in the GPT-3.5-era comparison, X outperformed Y") rather than as a current capability claim.
+- **Do not ingest; put it in `AIED-BACKLOG.md` and tell the maintainer.** When the paper's whole contribution *is* the capability comparison and that capability has since changed, a page cannot be made honest by a limitations line — the same reasoning as the full-text rule (never publish a page whose central claim the source cannot support). Name the vintage as the reason in the backlog row.
+- **Never** put the vintage caveat in the `## Citation` section or edit the paper's title to hint at it: the citation states what the paper is, limits state what it can support.
+
+The same screen applies to the cron scanners: when a scan proposes an article, it should report the model version and the collection window in the proposal, so the maintainer can decline a superseded comparison before a page exists.
+

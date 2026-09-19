@@ -45,6 +45,13 @@ a real browser session, so step 3 is the fix rather than retrying the download.
   `---`), never the whole file, or the stored hash goes stale on the next frontmatter edit.
 - **A raw body under ~3,000 chars is a stub, not a source.** Do not enrich from it; recover the
   real text first.
+- **Capture the tool generation while you have the full text.** Before the raw text is filed, note
+  the model/version a study used and its data-collection window (method section; search `GPT-3`,
+  `GPT-4`, "free version", and the collection dates). Judgment about whether the study still speaks
+  to present-day AI needs those two facts, and the ingest or the scan that follows must not have to
+  re-derive them from a page that has already quoted the findings. A comparison run on a superseded
+  generation is a screening flag for the maintainer, not a page (see `wiki-batch-ingestion-qa`
+  item 11).
 
 ## Write-back contract for `raw/papers/<slug>.md`
 
