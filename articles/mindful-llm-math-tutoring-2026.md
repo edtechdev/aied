@@ -1,7 +1,7 @@
 ---
 title: "Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:40:23-04:00"
 type: article
 pedagogy: [well-being]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -38,7 +38,7 @@ Both versions improved students' math learning from pre- to post-test and reduce
 
 The authors note that limited English proficiency among students may have masked stronger between-condition effects, since learners could not always fully comprehend the mindful language in hints and chat.
 
-## Implications for Embedding Socio-Emotional Support in AI Tutoring
+## What the study contributes
 
 The study demonstrates the feasibility of integrating mindfulness into an ITS through LLM-based interaction: emotional scaffolding can be generated on demand, without trained instructors or fixed multi-session protocols. The pattern of equal learning with fewer hints and less time suggests the mindful layer may promote learning efficiency and self-regulated problem-solving behavior rather than merely improving how the tool "feels." Because [[generative-ai|LLM]] interactions can be localized and adapted in real time, they offer a scalable route to the kind of socio-emotional support that cognitive tutors have historically lacked — a direction with implications for [[math-education|mathematics education]], learner [[well-being]], and the design of [[k-12|classroom]] AI tutoring.
 

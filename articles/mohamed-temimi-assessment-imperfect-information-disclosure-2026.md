@@ -1,7 +1,7 @@
 ---
 title: "Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T10:40:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -74,24 +74,17 @@ Two cautions attach to the table. It describes a representative student, while r
 
 ## What this means for practice
 
-- **Assessment designers.** Diagnose the response region before choosing a mechanism: if the final product carries most of the grade, AI can produce it, and detection is weak, the task sits near the hidden-use region and a ban changes the wording of the rule without moving behavior.
+- **Assessment designers.** Start from the assessment purpose and diagnose the response region before choosing a mechanism: if the final product carries most of the grade, AI can produce it, and detection is weak, the task sits near the hidden-use region and a ban changes the wording of the rule without moving behavior. Start from the assessment purpose and match the mechanism to it: a task certifying foundational fluency justifies tight limits plus credible verification, while one developing argumentation or professional reasoning calls for permission with meaningful disclosure and process evidence. Design for the student most tempted to conceal rather than the average one, since a bundle that keeps honesty attractive for the former will comfortably hold for the latter.
 - **Assessment designers.** Interrogate detector discrimination, not catch rate, at the threshold you actually use — when extra sensitivity creates more new false positives than true positives, honest work is penalized faster than hidden use is identified and concealment becomes relatively more attractive.
 - **Instructors.** Grade process evidence explicitly, since redesign stays cosmetic when the rubric still rewards mainly the final answer; draft-to-final trails, verification notes and short oral checks have to carry credit.
-- **Instructors.** Keep the cost of honesty low — disclosed use beats hidden use only while the cost of honesty stays below 1 + qF — so clear expectations and fair consequences do more work than heavier sanctions.
-- **Administrators.** Treat rules, monitoring, disclosure and redesign as one bundle: each is strongest where the others are weak, and tightening a single lever can produce the response the others were designed to prevent.
+- **Instructors.** Keep the cost of honesty low — disclosed use beats hidden use only while the cost of honesty stays below 1 + qF — so clear expectations and fair consequences do more work than heavier sanctions. Treat a declaration as context rather than a confession: lowering the expected cost of being flagged for students who reported honestly is what lets monitoring support transparency instead of suppressing it.
+- **Administrators.** Treat rules, monitoring, disclosure and redesign as one bundle: each is strongest where the others are weak, and tightening a single lever can produce the response the others were designed to prevent. Remember that permission and disclosure are different levers — permission changes the formal boundary of acceptable use, disclosure changes visibility — so success at one does not imply the other.
 
 ## Limitations
 
-The model is deliberately stylised: a single representative student, normalized illustrative payoffs, and abstraction from disciplinary variation, student heterogeneity, and institutional culture. The authors present the propositions as testable rather than as findings to apply unchanged, and note that the disclosure cost is measurable, as are the discrimination margins, which makes the framework empirically tractable rather than merely conceptual.
-
-## Implications for practice
-
-- **Start from the assessment purpose.** A task certifying foundational fluency justifies tight limits plus credible verification; a task developing argumentation or professional reasoning calls for permission with meaningful disclosure and process evidence.
-- **Design for the most tempted student, not the average one.** Bundles that keep honesty attractive for the student most inclined to conceal will hold for everyone else.
-- **Treat disclosure as context, not confession.** Lowering the expected cost of being flagged for students who reported honestly is what lets monitoring support transparency instead of suppressing it.
-- **Make process evidence count in the rubric.** Redesign stays cosmetic if the grading system still rewards mainly the final answer — the misalignment is the failure mode.
-- **Interrogate discrimination before scaling monitoring.** If false positives rise faster than true positives, more enforcement is not only unfair but counterproductive.
-- **Recognize that permission and disclosure are different levers.** Permission changes the formal boundary of acceptable use; disclosure changes visibility. Success at one does not imply the other.
+- **A deliberately stylised model.** It assumes a single representative student and normalized illustrative payoffs, and abstracts from disciplinary variation, student heterogeneity and institutional culture.
+- **Illustrative thresholds, not empirical estimates.** The deterrence ratio and the disclosure condition come from normalized illustrative values, and the authors present the propositions as testable rather than as findings to apply unchanged.
+- **The mechanism is measurable.** The disclosure cost is measurable, as are the discrimination margins, which the authors present as making the framework empirically tractable rather than merely conceptual.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Efficiency at what cost? Salvaging constructive alignment from the GenAI hype"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:40:23-04:00"
 type: article
 foundations: [curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [critical-pedagogy, pedagogy]
@@ -39,19 +39,10 @@ confidence: high
 - **Consequences for assessment and [[feedback]]:** GenAI can map assessment tasks broadly to outcomes, but cannot know the depth, level, and interconnectedness of topics or how much learning each requires; when assessment timing and composition are generated without that mapping, feedback remains general rather than diagnostically precise and forward-looking.
 - **Two augmentative designs:** First, the bounded agent whose authority is "derivative and bounded," operating within standards maintained by a teaching and learning unit, guiding thinking without supplying answers, designed to prevent silent delegation, retaining prompts and outputs internally as an institutional asset, and escalating rather than replacing professional judgment. Second, the liminal tutor — a provisional sounding board in the gaps between episodic ED consultations that helps educators articulate thinking and arrive better prepared, and which must follow, not precede, meaningful human engagement.
 
-## Implications for AI in Education
-
-- **Make constructive alignment the starting point, not the prompt:** Educators should build genuine understanding of how outcomes, teaching sequences, and assessments interdepend before delegating any part of that process, since the defensibility of GenAI use depends on the educator's capacity to evaluate — and reject — what it produces.
-- **Resist the efficiency framing:** Time savings are real but are not the measure of quality; institutions and individuals should treat GenAI as a reflective prompt and a source of critique rather than a shortcut, given that a rapid, polished output may be aligned in form but pedagogically thin.
-- **Buy or build bounded, institutionally grounded systems:** Generic internet-trained tools privilege diffuse, decontextualised norms over local curriculum frameworks and accreditation requirements; a [[rag|retrieval-augmented]] agent configured on [[educational-policy-ai|institutional policy]], rubrics, graduate attributes, and strong alignment exemplars re-centers legitimate expertise and clarifies data [[governance]].
-- **Protect and restore the [[educational-development|educational developer]] role:** Teaching and learning units should assert pedagogical authority as collaborators rather than being positioned as technology implementers; the quality of support an institution can provide depends on the professional judgment of the people who configure and shape the tools.
-- **Authorise capability deliberately:** Institutions should make explicit decisions about how much GenAI capability they are willing to authorize in curriculum processes and ensure governance structures, escalation pathways, and data-retention rules reflect those limits.
-- **Guard the constructivist core:** Alignment advice that emphasizes measurable, taxonomically neat outcomes while neglecting student meaning-making and learner diversity invites surface-level application and risks the very disengagement [[critical-pedagogy|critical]] and post-digital pedagogies warn against.
-
 ## What this means for practice
 
 - **Instructors.** Establish your own grasp of how outcomes, teaching sequences and assessments interdepend before you prompt a [[generative-ai|generative AI]] tool about any of them — the paper's central claim is that defensibility depends on your capacity to interrogate, and where necessary reject, what the tool returns.
-- **Instructors.** Read polished, perfectly aligned output as a warning sign rather than a result: the sampled advice reduces alignment to automation, and shallow alignment produces outcomes, activities and assessments as discrete items instead of interdependent ones.
+- **Instructors.** Read polished, perfectly aligned output as a warning sign rather than a result: the sampled advice reduces alignment to automation, and shallow alignment produces outcomes, activities and assessments as discrete items instead of interdependent ones. Time savings are real but are not the measure of quality, so treat the tool as a reflective prompt and a source of critique rather than an efficiency shortcut, and guard the constructivist core: advice that emphasizes measurable, taxonomically neat outcomes while neglecting student meaning-making and learner diversity invites the surface application it claims to prevent.
 - **Designers.** Build or buy a bounded, [[rag|retrieval-augmented]] assistant configured on institutional policy, rubrics, graduate attributes and disciplinary exemplars, with escalation to human expertise at boundary conditions, rather than relying on generic internet-trained tools.
 - **Faculty developers.** Refuse the framing of trainer who helps faculty gain tool fluency: in all 14 sampled texts the [[educational-development|educational developer]] was positioned outside the educator–GenAI loop as a technical implementer, and teaching units lose their say when they accept that role.
 - **Administrators.** Decide explicitly how much GenAI authority you authorize in [[curriculum-design|curriculum design]], and keep prompts and outputs inside institutional governance as a retained asset rather than letting design work pass through external tools under no quality or retention rule.
