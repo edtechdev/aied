@@ -279,14 +279,14 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Equity and access
 
-- **`accessibility`** — Accessibility — phrases: accessibility; accessible; accessible design; accessible education; accessible learning; inclusive design
+- **`accessibility`** — Accessibility — phrases: accessibility; accessible; accessible design; accessible education; accessible learning
 - **`assistive-technology`** — Assistive Technology — phrases: assistive tech; assistive technology; AT tools; braille; screen reader; speech to text; text to speech
 - **`bias-mitigation`** — Bias Mitigation — phrases: algorithmic bias; algorithmic fairness; bias; bias mitigation; de-biasing; debiasing; fairness
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy — phrases: culturally relevant; culturally relevant pedagogy; culturally responsive; culturally responsive pedagogy; culturally responsive teaching; culturally sustaining; culturally sustaining pedagogy
 - **`digital-divide`** — Digital Divide — phrases: access gap; digital access; digital divide; digital inequality; technology gap
 - **`equity-in-ai-education`** — Equity — phrases: AI equity; educational equity; equitable; equity; equity concerns
 - **`global-south`** — Global South — phrases: developing countries; developing country; global south; low-income countries; low-resource context; majority world; non-Western context
-- **`inclusive-learning`** — Inclusive Learning — phrases: inclusion; inclusive; inclusive learning
+- **`inclusive-learning`** — Inclusive Learning — phrases: equitable learning; equitable teaching; inclusion; inclusive; inclusive design; inclusive learning; inclusive pedagogy; inclusive teaching
 - **`multilingual-learning`** — Multilingual Learning — phrases: bilingual; language diversity; low-resource language; multilingual; multilingual education; multilingual learners; multilingual learning; multilingualism
 - **`neurodiversity`** — Neurodiversity — phrases: adhd; autism; neurodivergence; neurodivergent; neurodiversity
 - **`universal-design-for-learning`** — Universal Design for Learning — phrases: udl; universal design; universal design for learning
