@@ -231,3 +231,18 @@ When the source is EdArXiv/OSF and the raw file is abstract-only:
 - `skills/research/wiki-inline-links/scripts/check_list_formatting.py` (run as `python3 ... <WIKI> --all`) — the ordered-list blank-line defect scanner, also gate 5 of `run-gates.py`.
 - `scripts/detect-readfile-corruption.py` in the wiki-management skill (mirrored at `tooling/scripts/detect-readfile-corruption.py`) — escape-sequence and truncation damage from full-file reads.
 - `tooling/scripts/validate-facets.py` (repo tooling, not bundled here): the typed-metadata gate. Run it after any frontmatter repair.
+
+## Re-fetching a saved full text
+
+Never infer which paper a saved source holds from a URL found inside its body: bodies are full of citations, and
+the first arXiv link in a file is usually a reference. On 2026-09-19 a re-fetch built that way overwrote thirty
+saved sources with unrelated articles, and half of them could not be recovered. Rules:
+
+- Read the paper's own `source_url` (or `doi`) from the file's frontmatter and fetch that document, nothing else.
+- Copy the file aside before overwriting it. `raw/` is gitignored, so an overwrite with no backup is final.
+- Verify the fetched text before keeping it: the page title's significant words must appear in it. Reject and report
+  a mismatch rather than saving it - a wrong paper is worse than a truncated right one.
+- Prefer the largest correct copy, but only among copies of the same paper.
+- Publisher hosts (ScienceDirect, Springer, Wiley, Taylor & Francis, SAGE, IEEE, ACM) answer automated requests
+  with a robot check. Do not fight it: record the page in `AIED-BACKLOG.md` so the PDF can be supplied, and leave a
+  marker in the source file rather than a wrong paper.
