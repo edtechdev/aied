@@ -118,8 +118,8 @@ Every `articles/<slug>.md` body follows this order:
 3. 3-4 `##` prose sections
 4. `## What this means for practice`
 5. `## Limitations`
-6. `## Citation` (single APA line, hyperlinked title)
-7. `## Connected Concepts`, then `## Connected Articles`
+6. `## Connected Concepts`, then `## Connected Articles`
+7. `## Citation` (single APA line, hyperlinked title) — **LAST**, per the standing hard rule (see `wiki-citation-format`; never top or mid-page)
 
 The page template appends Connected FAQs, the metadata table and source buttons after the body — never write those by hand, and never insert content after `## Connected Concepts`.
 
