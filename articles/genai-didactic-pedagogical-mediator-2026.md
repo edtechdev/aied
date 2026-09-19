@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [agency, ai-literacy, learning-design, teacher-role]
 pedagogy: [pedagogy]
@@ -40,6 +40,13 @@ The model integrates four theoretical perspectives: sociotechnical and ecosystem
 - **Reconfigure instructor work and professional responsibility.** Institutions should support instructors through professional development embedded in peer co-design and communities of practice, and should recognize assessment redesign, output verification, and AI-literacy support as legitimate academic labor in workload models and promotion criteria, while protecting instructor professional judgment from institutional or commercial pressure.
 - **Calibrate to discipline.** A one-size-fits-all approach is inappropriate: in high-stakes fields such as medicine and law GenAI requires stricter verification and human oversight, in creative fields more open-ended experimentation with explicit attribution, and in technical fields testing, debugging, and accountability for performance and safety.
 - **Strengthen institutional governance and infrastructure.** Responsible pedagogy cannot be delegated to individual instructors or students; institutions should establish principle-based, adaptive policies, provide equitable access to approved tools, protect privacy and data sovereignty, monitor uneven effects across student groups, and involve stakeholders in periodic review — anchoring these efforts in [[equity-in-ai-education|equity]], inclusion, and quality (SDG4).
+
+## What this means for practice
+
+- **Instructors.** Put the paper's epistemic questions to work on every GenAI-assisted task: ask students what kind of knowledge claim a response makes, what evidence would justify it, what assumptions it embeds, which disciplinary standards apply, what has been omitted or simplified, and what lies beyond the system's capacity to judge. That questioning is what turns an AI output from an answer into the object of inquiry the triadic model requires.
+- **Instructors.** State for each task component whether GenAI is prohibited, permitted, required, or restricted, and require documentation of prompts plus the accept, reject, and revision decisions students made. The model locates GenAI's educational value in interpretation, verification, and revision under instructor-designed tasks, not in the final product.
+- **Instructors.** Do not build your integrity response on AI-detection tools: the paper notes that detectors remain contested and may produce false positives, particularly for students writing in a non-native language, and that responsibility for assisted work cannot be delegated to the system.
+- **Instructors.** Treat discussion, the modeling of disciplinary judgment, and feedback conversations as non-delegable contact time, since the affective-relational tension — human care and social presence — is the one condition of learning the paper says pedagogical design alone cannot resolve.
 
 ## Limitations
 

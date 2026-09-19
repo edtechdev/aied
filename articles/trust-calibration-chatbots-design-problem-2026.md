@@ -1,7 +1,7 @@
 ---
 title: "Why we believe chatbots: trust calibration as a design problem"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai, llm]
@@ -47,6 +47,14 @@ This is a Hypothesis and Theory (conceptual) contribution, not an empirical stud
 - **Layer defenses.** No single intervention recalibrates trust; combinations across layers cover one another's gaps, with literacy building the most durable but slowest layer.
 
 - **Deployment requires institutional scaffolding.** Adaptive friction carries privacy obligations of its own, so behavioral data used for dosing should stay within-session; [[regulation]] (e.g., the EU AI Act) and institutional procurement can mandate calibration-supporting features.
+
+## What this means for practice
+
+- **Instructors.** Teach the distinction between reliability and interpretability as separate judgments about a chatbot answer, and have students rehearse the failure mode that inflates trust most: fabricated but convincingly formatted citations.
+- **Designers.** Build evaluation into the interaction through cooling-off periods, engagement gates, dialogue scaffolds, adaptive friction, and commitment prompts rather than bolting on passive warnings, since information alone does not produce durable recalibration.
+- **Designers.** Match the mechanism to the user: citation and rationale help motivated users, social verification signals help low-ability users, and a cooling-off period helps the expert who lacks the moment rather than the novice who lacks knowledge.
+- **Administrators.** Use procurement and policy to make calibration-supporting features mandatory, and keep behavioral data collected for adaptive friction within the session, as dosing on engagement data carries its own privacy obligation.
+- **Researchers.** Test the eight propositions against confidence and behavioral measures together, because the framework's own gap measure records stated confidence rather than the reliance-based willingness the authors define.
 
 ## Limitations
 

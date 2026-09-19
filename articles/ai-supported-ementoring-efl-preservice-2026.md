@@ -1,7 +1,7 @@
 ---
 title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
@@ -53,6 +53,13 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 - **Scalable support where mentoring is thin.** The paper targets under-resourced contexts with irregular, evaluation-focused supervision, and argues the model offers scalable, context-sensitive [[educational-development|professional development]]; it also highlights the [[equity-in-ai-education|equity]] issue of limited mentoring resources, including in [[global-south|Global South]] settings.
 
 - **AI literacy is entangled with emotional literacy.** Because generative tools such as [[generative-ai|Gemini]] were used to reframe emotionally charged classroom situations and design communicative activities, [[ai-literacy|AI literacy]] here includes the judgment to use AI suggestions reflectively rather than as verdicts.
+
+## What this means for practice
+
+- **Faculty developers.** Run AI-supported e-mentoring as continuous infrastructure across pre-practicum, during-practicum, and post-practicum phases rather than as an add-on tool; the 10-week experimental group outperformed the conventional practicum on both [[self-efficacy]] and emotional intelligence.
+- **Faculty developers.** Divide feedback labor deliberately: let AI carry task- and process-level feedback while human mentors handle [[self-regulated-learning|self-regulation]] and identity-level work, keeping [[human-in-the-loop-ai|human oversight]] in the design.
+- **Instructors.** Develop confidence and emotional competence in the same activities, since reflective cycles moved participants from control-oriented classroom management toward rapport-building, student-centered practice.
+- **Administrators.** Target settings where supervision is thin: the authors present the model as scalable, context-sensitive professional development for under-resourced contexts with irregular, evaluation-focused mentoring.
 
 ## Limitations
 

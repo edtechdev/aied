@@ -1,7 +1,7 @@
 ---
 title: "Is hands-on learning still necessary in the age of AI? A thematic review"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 foundations: [ai-education, design-thinking, human-ai-collaboration]
 pedagogy: [active-learning, creativity, embodied-learning, experiential-learning, metacognition, pedagogy]
@@ -35,6 +35,14 @@ The study used an inductive thematic review approach to examine how the role of 
 - **[[curriculum-design|Curriculum]] should deliberately orchestrate the two forms.** Educators need to sequence and connect embodied practice and AI-mediated iteration according to learning objectives rather than defaulting to efficiency, and decide when generated outcomes should return to physical testing.
 - **Assessment and [[pedagogy]] should value process over output.** [[learning-gains|Learning gains]] depend on how students interpret, judge, and use feedback; counting generated outcomes or final work under-captures the quality of action, feedback, reflection, and refinement.
 - **Language and prompt instruction matter, but with limits.** Students need to translate intentions accurately into prompts, yet also recognize what design experience cannot be verbalized, guarding against [[cognitive-offloading|over-reliance]] on easily describable proposals.
+
+## What this means for practice
+
+- **Instructors.** Require the full generate, modify, select sequence on AI-supported design tasks instead of accepting a first generated output: the review reports that prompting alone did not raise the creativity of final work while multi-step operations did.
+- **Instructors.** Keep physical making in every project and route generated proposals back to it for testing, because material resistance supplies feedback that visually plausible outputs do not, and the review's central claim is that the two forms are not educationally interchangeable.
+- **Designers.** Sequence embodied and cognitive hands-on against learning objectives rather than defaulting to efficiency, deciding in advance which AI-generated outcomes must be built and tested physically and which can stay in the language-and-judgment loop.
+- **Designers.** Assess the action, feedback, reflection, and refinement cycle itself rather than counting generated outcomes or final-work scores, the indicators the reviewed studies relied on and which the authors judge unable to capture process quality.
+- **Researchers.** Follow students past a single course or short project: the review found most evidence stops at within-course performance, so the long-term effects of increasing cognitive hands-on remain unknown.
 
 ## Limitations
 

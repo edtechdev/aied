@@ -1,7 +1,7 @@
 ---
 title: "The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:58:22-04:00"
 type: article
 technology: [generative-ai, technology-acceptance-model]
 ethics: [hallucination-risk, privacy, trust]
@@ -40,6 +40,13 @@ Analysis proceeded through three-layer hierarchical [[research-methods-aied|hier
 ## Implications
 
 The findings argue against one-size-fits-all AI risk management in [[higher-ed|higher education]]: because risk dimensions diverge, universities should not simply minimize perceived risk. Security risk awareness can be treated as a [[pedagogy|pedagogical]] asset — weaving data-privacy education into [[ai-literacy]] curricula so that concern becomes informed, deliberate engagement rather than passive worry. Information risk calls for a different response: developers should build content transparency through source attribution, fact-checking indicators, and confidence scores to rebuild [[trust]] in emotionally invested domains. For technical risk, the paper proposes a threshold-based, "zone of productive risk" strategy — structured exposure, cognitive reappraisal training, and collaborative skill-building workshops that help students cross the activation threshold without provoking disengagement. Because usage experience predicts benefits across domains, early introductory courses and funded AI-literacy initiatives are recommended, and policymakers should adopt differentiated frameworks for information quality, [[privacy|data protection]], and ethical oversight rather than uniform [[regulation]].
+
+## What this means for practice
+
+- **Instructors.** Convert security-risk awareness into deliberate practice rather than avoidance by teaching cautious disclosure and review of data policies, since students who appraised privacy risk as controllable showed higher academic and skill benefits.
+- **Instructors.** Supply the verification scaffolding that information risk removes — source attribution, fact-checking indicators, and confidence information — because accuracy worries students cannot resolve on their own were associated with lower psychological, daily-life, and leisure benefits.
+- **Administrators.** Drop uniform risk minimization and allocate effort by dimension: information quality, data protection, and ethical oversight each call for a different institutional response, and technical risk calls for structured exposure rather than warnings.
+- **Administrators.** Fund introductory AI-literacy provision early in students' programs, since respondents with more than a year of use reported significantly higher academic assistance benefits than those with less than six months (β = 0.612).
 
 ## Limitations
 
