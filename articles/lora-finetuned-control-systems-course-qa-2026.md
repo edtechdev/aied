@@ -1,7 +1,7 @@
 ---
 title: "LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-19T09:06:00-04:00"
+updated: "2026-09-19T09:08:46-04:00"
 type: article
 pedagogy: [student-ai-interaction]
 technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
@@ -53,7 +53,7 @@ On similarity, the rank effect is monotonic for ROUGE-2 and ROUGE-L but not for 
 
 The paper supplies its own deepest caveat. ROUGE is sensitive to wording, BERTScore does not verify mathematical symbols or derivations, and heading-based structural detection cannot tell whether a derivation is valid — a response can carry every required heading while containing an incorrect formula, an inadequate variable definition or an incomplete conclusion. LoRA fine-tuning here shifts models from being able to answer control systems questions to answering them in the manner the course expects; that is alignment in form and style, and it is not certification of domain-specific reasoning. This is the paper's contribution to [[educational-nlp]] methodology: explicit interpretive boundaries.
 
-## Limitations and Open Questions
+## Open questions and design implications
 Dataset size and coverage are the first constraint: 360 samples, 54 of them for testing, cannot represent all topics, question types or difficulty levels of the course. Complex controller design, integrated modeling, multistep state-space analysis and open-ended explanatory questions need more data before results generalize. Model range is the second — only two Qwen2.5 variants were tested, with no other families such as Llama or DeepSeek and no larger models, so conclusions are scoped to these configurations.
 
 Evaluation is the third. The framework relies on automatic metrics and rule-based marker detection, and although bootstrap intervals were computed for ROUGE and structured-output metrics, BERTScore-F1 is reported only as a mean because per-sample values were not retained. Experiments used a single training seed with no variance across seeds, and no strong-prompt or retrieval-augmented baseline was included, so the design cannot separate the contributions of fine-tuning, [[prompt-engineering|prompt design]] and retrieval. A human-evaluation rubric covering formula accuracy, derivational rigor, completeness and instructional clarity is the named next step, alongside multi-seed runs and comparisons against [[rag]] and combined LoRA-RAG systems.
