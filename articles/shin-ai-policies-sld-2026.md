@@ -1,7 +1,7 @@
 ---
 title: "Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 ethics: [accessibility, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]

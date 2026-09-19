@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-09-02T08:59:42-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [active-learning, creativity, inquiry-based-learning]
@@ -24,9 +24,19 @@ page_kind: [evaluation]
 3. **Positive inter-correlations.** Correlation analysis showed positive relationships among creative performance, problem-solving, and attitudes in both groups; multivariate analysis confirmed a significant overall group effect.
 4. **Efficiency mechanism.** The authors suggest AI-supported IBL may improve instructional efficiency through guided exploration, [[scaffolding|adaptive feedback]], and reduced [[cognitive-offloading|cognitive load]].
 
-## Implications
+## What this means for practice
 
-This study tempers the enthusiasm for AI-in-IBL: it shows [[generative-ai|AI]]-supported [[inquiry-based-learning|inquiry]] can reliably boost creativity and [[student-engagement|engagement]] but does not automatically transfer to critical problem-solving. For [[math-education|mathematics]] and [[k-12|secondary]] instruction, it reinforces that AI-supported inquiry needs deliberate [[critical-thinking|problem-solving]] scaffolds — the very finding the knowledge base's AI-in-IBL cluster surfaces across studies. It connects to the broader [[cognitive-offloading|performance-learning gap]] literature: AI can elevate performance and affect while [[learning-gains|learning]] of transferable skills lags.
+- **Instructors.** Add deliberate problem-solving scaffolds rather than counting on AI-supported inquiry to raise higher-order reasoning: the intervention improved creative mathematical performance and attitudes, but produced no statistically significant gain in critical [[problem-solving]] skills.
+- **Instructors.** Use AI-supported [[inquiry-based-learning|inquiry]] for the outcomes this study found reliable — creative mathematical performance and attitudes toward mathematics — and treat critical problem-solving as a separate objective with its own instruction and assessment.
+- **Designers.** Build guided exploration and adaptive feedback into the inquiry sequence, the mechanism the authors credit for improved instructional efficiency and reduced [[cognitive-offloading|cognitive load]] — the gains in creativity and affect alone should not be read as evidence of deeper reasoning.
+- **Researchers.** Test whether the creativity and attitude gains transfer to problem-solving in other grades and settings, since the variables were positively inter-correlated but the group effect did not reach critical problem-solving.
+
+## Limitations
+
+- The design is quasi-experimental: the 120 Grade 8 students (mean age = 12.79 years, SD = 0.68) were assigned as intact classes, not randomly, and no baseline covariate adjustment was made, so residual selection bias may persist and causality should be read with caution.
+- The intervention ran for one academic term, so longer-term effects and sustainability remain unknown.
+- Participants came from a single grade level, limiting generalization to other grades, school settings, and demographic backgrounds.
+- Attitudes and self-perceptions were captured through a questionnaire using Likert-type items, so those measures are self-report and the critical problem-solving null result rests on the study's own tasks.
 
 ## Connected Concepts
 

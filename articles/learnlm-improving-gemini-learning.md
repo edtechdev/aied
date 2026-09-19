@@ -1,7 +1,7 @@
 ---
 title: "LearnLM: Improving Gemini for Learning"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [student-ai-interaction]
@@ -23,11 +23,19 @@ sources: [raw/papers/2412.16429.md]
 - **Co-training prevents catastrophic forgetting.** By conditioning pedagogical responses on specific system instructions and mixing the data with Gemini's standard post-training mixture, LearnLM learns pedagogical instruction-following without losing core reasoning, [[multimodal]] understanding, factuality, safety, or multi-turn properties.
 - **Robust expert-preference evaluation at scale.** A scenario-guided, conversation-level pipeline (49 evaluation scenarios; 186 educators role-playing learners across 2,360 conversations; 248 pedagogy experts producing 10,192 assessments) gave LearnLM consistent preference wins over GPT-4o, Claude 3.5 Sonnet, and Gemini 1.5 Pro across all five comparative assessment categories — strongest on "Which tutor demonstrated better tutoring?"
 
-## Practical Implications
+## What this means for practice
 
-- **For tool builders, specify pedagogy via system instructions and measure adherence.** LearnLM demonstrates that framing education-model behavior as instruction following is both trainable and evaluable — developers can define desired tutoring attributes and evaluate whether a model follows them, rather than relying on vague prompt prose.
-- **Prefer models trained with pedagogical data over prompt-engineered general models when fidelity matters.** The paper's core claim is that rule-based prompting alone cannot robustly encode complex, adaptive pedagogy; post-training with pedagogical data (even mixed into a general model) yields more consistent adherence.
-- **Invest in scenario-based, conversation-level evaluation.** The gap between LearnLM and competitors was made visible by controlled, scenario-guided multi-turn comparisons with expert pedagogy reviewers — a template for education-specific model evaluation that single-turn [[benchmark|benchmarks]] miss.
+- **Designers.** Specify pedagogy through system instructions and evaluate adherence to them rather than relying on prompt prose: LearnLM's training and evaluation examples each carry system-level instructions naming the pedagogical behavior desired.
+- **Designers.** Prefer a model post-trained with pedagogical data over a prompt-engineered general model where fidelity matters — LearnLM was preferred by +31% over GPT-4o, +11% over Claude 3.5 Sonnet, and +13% over base Gemini 1.5 Pro.
+- **Instructors.** Expect tutor behavior to be configurable per application — withholding answers, staying on topic when students try to circumvent, adopting a motivating tone — since interviews with the education sector found no globally defensible "ideal AI tutor" behavior.
+- **Designers.** Evaluate with scenario-based, conversation-level comparisons rather than single-turn [[benchmark|benchmarks]]: the study used 49 scenarios, 186 educators role-playing learners across 2,360 conversations, and 248 pedagogy experts producing 10,192 assessments.
+
+## Limitations
+
+- Evaluation is intrinsic: the model is judged against a developer-authored [[pedagogy|pedagogy]] rubric, and the authors state it is unclear how well these results translate to learning outcomes, calling for extrinsic evaluation of impact.
+- The rubric is not yet field-validated — the paper says it needs to work with a diverse set of stakeholders to earn the trust and approval of the broader education community before it can stand as a universal framework for pedagogical assessment.
+- Reported preferences come from expert panels rating conversation transcripts (186 educators; 248 pedagogy experts), so the work measures perceived tutoring quality rather than measured student learning.
+- Results are a December 2024 snapshot against specific model versions (Gemini 1.5 Pro base, GPT-4o, Claude 3.5 Sonnet), with the pedagogical data mixed into Gemini's post-training rather than tested as a standalone intervention.
 
 ## Connected Concepts
 

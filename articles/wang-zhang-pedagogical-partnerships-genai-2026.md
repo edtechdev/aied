@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical partnerships with generative AI in higher education: how dual cognitive pathways paradoxically enable transformative learning"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [agency, critical-thinking, human-ai-collaboration]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]

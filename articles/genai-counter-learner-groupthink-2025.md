@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Generative AI to Counter Learner Groupthink by Introducing Controversy in Collaborative Problem Based Learning Settings"
 created: "2026-08-20T06:20:00-04:00"
-updated: "2026-08-20T07:45:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [active-learning, collaborative-learning, problem-based-learning, student-engagement]
 technology: [generative-ai, pedagogical-agent]
@@ -27,9 +27,19 @@ audience: [educators, faculty development, instructional designers]
 
 A mixed-methods study under Yale IRB. 165 graduate health-professions learners (158 opted into the survey) from seven programs (MPH, nursing, AGACNP, DPT, PharmD, DDS, Physician Associate) were divided evenly across twelve small groups, each facilitated by a faculty member. Teams completed a synchronous 180-minute virtual [[problem-based-learning|problem-based learning]] session using the VIPE interprofessional education methodology, during which the CALIE genAI agent was voiced at three points to introduce potentially controversial perspectives. Data came from an online post-activity survey combining quantitative perception items (analyzed with repeated-measures and multivariate ANOVAs) and [[qualitative-research|qualitative]] open responses.
 
-## Implications for AI in Education
+## What this means for practice
 
-For educators and learning designers running team-based [[problem-based-learning|problem-based learning]], intentionally prompted [[agentic-ai|generative AI agents]] can serve as productive "devil's advocates" that inject controversy, stimulate [[critical-thinking|critical thinking]] and [[student-engagement|engagement]], and counteract the conformity pressures that produce groupthink — especially valuable in [[collaborative-learning|interprofessional]] settings where diverse perspectives are the [[pedagogy|pedagogical]] goal. The facilitator's role is pivotal: their framing and stance toward the AI substantially shapes whether students accept and benefit from it. The study cautions that AI bias perception is complex and that learner skepticism can coexist with productive engagement.
+- **Instructors.** Prompt the [[agentic-ai|AI agent]] to inject dissenting or controversial viewpoints at set points in the session, and treat the disagreement as instructional material: students reported that refuting the agent's responses gave them a socially permissible way to speak up and stimulated [[critical-thinking|critical thinking]].
+- **Instructors.** Endorse the agent visibly — students who said their facilitator influenced how they integrated the AI rated it as more part of the team (M = 3.08 vs 2.64, p = .02) and its [[feedback]] as more helpful (M = 3.44 vs 2.93, p = .002) than those who did not.
+- **Instructional designers.** Decide in advance when the agent speaks and script what it will raise; the CALIE agent was voiced only three times, so its role in the team's ongoing discussion has to be a deliberate design choice rather than ambient chat.
+- **Faculty developers.** Coach facilitators to take an open, non-defensive stance toward AI-generated controversy, since facilitator framing was the strongest observed lever on whether students accepted and benefited from the agent.
+
+## Limitations
+
+- The genAI output was pre-generated and read aloud at three fixed points, so students interacted with the agent only in brief interjections rather than a participant in the team's ongoing discussion.
+- Teams spent about 60 minutes together, a window the authors judge too short for the novelty of the agent to fade and for genuine groupthink effects to appear; longitudinal follow-up was left to future work.
+- Data are self-reported perceptions from 158 of the 165 participating learners, with the qualitative strand drawn solely from open-response survey comments.
+- Learners came from seven health-professions graduate programs at a single institution, so other professions (e.g., social work, addiction sciences) and non-health disciplines are unrepresented.
 
 ## Connected Concepts
 

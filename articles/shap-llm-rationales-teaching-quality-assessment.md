@@ -1,7 +1,7 @@
 ---
 title: "From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [teacher-role]
 technology: [educational-nlp, learning-analytics, llm]
@@ -24,11 +24,18 @@ methods: [ai-ed-evaluation]
 - **SHAP explanations transfer across architectures; LLM rationales do not.** Cross-model analysis (removing sentences ranked by one model family and re-scoring with the other) shows SHAP attributions generalize robustly, while LLM rationales exert limited, inconsistent influence on other models.
 - **A reusable framework for evaluating explanations.** The combination of model-agnostic attribution, deletion-based faithfulness testing, and cross-model robustness offers a principled way to judge whether any scoring model's explanations are trustworthy.
 
-## Practical Implications
+## What this means for practice
 
-- **Prefer principled attribution methods over LLM free-text rationales for accountability.** For high-stakes [[automated-assessment|automated assessment]], SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
-- **Use deletion-based faithfulness tests to validate explanations.** Before trusting an explanation method, measure how removing its top-ranked units changes predictions — and check whether explanations generalize across model families.
-- **Pair transparent scoring with human interpretability.** Moving "from what (the score) to why (the reasoning)" is essential for generating actionable teacher feedback and building trust; a framework that surfaces the specific dialogue sentences behind a quality rating supports that.
+- **Instructors.** Prefer principled attribution over LLM free-text rationales when a score must be justified: for high-stakes [[automated-assessment|automated assessment]], SHAP-style attribution identifies which sentences drive a score more faithfully than an LLM's self-explanation, which can be persuasive yet unfaithful to the underlying computation.
+- **Instructors.** Validate any explanation method before trusting it by removing its top-ranked sentences and measuring how the predicted score changes, then checking whether the explanations hold up across model families.
+- **Instructors.** Pair transparent scoring with human interpretability — surface the specific dialogue sentences behind a quality rating so the shift "from what (the score) to why (the reasoning)" produces actionable [[feedback]] and builds [[trust]].
+
+## Limitations
+
+- The label distribution is highly skewed: only 19% of labels fall outside the 3–5 range across 6k transcript segments, which the authors link to the label compression they observe in fine-tuned PLMs and to weaker performance at the extremes of the scale.
+- The study covers a single CLASS dimension, Quality of Feedback; it remains unclear how well the findings generalize to less discourse-driven dimensions such as Productivity within the Classroom Management domain.
+- The analysis is text-only, ignoring the prosody, timing, and visual interactional signals that CLASS scoring relies on in practice.
+- Each transcript segment was annotated by a single expert, so inter-rater reliability could not be assessed and annotation noise or subjective bias remains possible.
 
 ## Connected Concepts
 

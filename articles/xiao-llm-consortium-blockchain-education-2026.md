@@ -1,7 +1,7 @@
 ---
 title: "Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [llm, personalized-learning]

@@ -1,7 +1,7 @@
 ---
 title: "The AI-Powered Co-inquirer: A Systematic Review of ChatGPT for Inquiry-Based Learning in STEAM Education"
 created: "2026-08-22T05:12:36-04:00"
-updated: "2026-08-22T05:12:36-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [inquiry-based-learning]
@@ -26,9 +26,20 @@ methods: [meta-analysis-systematic-review]
 4. **Multifaceted challenges.** Learners may over-rely on ChatGPT-generated answers, accept inaccurate feedback, experience conceptual confusion, or produce superficial conclusions when AI outputs are treated as authoritative. [[hallucination-risk|Hallucinations]] undermine evidence synthesis in the conclusion phase. Institutional challenges include curricular misalignment, reduced instructional depth, unequal access, privacy concerns, academic-integrity risks, and [[bias-mitigation|algorithmic bias]].
 5. **An integrated framework and four [[research-methods-aied|research]] agendas.** The review proposes a framework synthesizing ChatGPT's roles, advantages, and challenges across the five inquiry phases, plus four agendas for future research on responsible, pedagogically aligned integration.
 
-## Implications
+## What this means for practice
 
-For [[stem-education|STEAM]] and inquiry-based learning, this review positions ChatGPT as an "AI-powered co-inquirer" that can genuinely support the generative, questioning, and reflective phases of inquiry — but its value depends on [[pedagogy|pedagogical]] [[scaffolding]] to prevent over-reliance and uncritical acceptance of output. The challenges align with the knowledge base's [[cognitive-offloading]] and [[ai-literacy]] threads: treating AI output as authoritative risks superficial learning. The call for sustained teacher mediation and curricular alignment connects to [[teacher-role]] and [[educational-policy-ai]]. It complements the empirical problem-posing study ([[dai-chatbots-problem-posing-primary-2026]]) at the primary level.
+- **Instructors.** Deploy ChatGPT where the reviewed evidence is strongest — conceptualization, investigation, and discussion — for question formulation, inquiry design, [[problem-solving]], and reflection, rather than assuming the "AI-powered co-inquirer" fits every phase of inquiry.
+- **Instructors.** Put critical-evaluation checkpoints into the conclusion phase and keep mediating the interaction throughout: the 24 studies report students accepting inaccurate or irrelevant feedback, experiencing conceptual confusion, and reaching superficial conclusions when AI output is treated as authoritative, with [[hallucination-risk|hallucinations]] undermining evidence synthesis.
+- **Instructors.** Provide the [[pedagogy|pedagogical]] [[scaffolding]] the reported advantages depend on — the gains in academic performance, [[critical-thinking|critical thinking]], [[student-engagement|engagement]], and motivation were not achieved by unaided access to the tool, and uncritical acceptance risks the [[cognitive-offloading]] and [[ai-literacy]] problems the knowledge base documents.
+- **Designers.** Align ChatGPT use with curricular goals and design [[teacher-role|sustained teacher mediation]] into the activity, since misalignment with curricular goals and reduced instructional depth were among the educator-level challenges the review identified.
+- **Researchers.** Extend the evidence into the orientation and conclusion phases, which remain largely unexplored, and into the technology, arts, engineering, and integrated STEAM settings the review found underrepresented, complementing the empirical problem-posing study at the primary level ([[dai-chatbots-problem-posing-primary-2026]]).
+
+## Limitations
+
+- The review rests on 24 empirical articles with uneven disciplinary coverage: science received the most attention while technology, the arts, engineering, and integrated STEAM remained underrepresented.
+- No reviewed study focused on elementary learners; studies split evenly between K–12 and higher education, with undergraduates the largest single participant group.
+- Reporting clusters in three of the five inquiry phases, so the framework's guidance for the orientation and conclusion phases is extrapolation from little direct evidence.
+- The review is a secondary synthesis of heterogeneous designs and does not model effect sizes, so its advantages and challenges are descriptive patterns rather than measured magnitudes.
 
 ## Connected Concepts
 

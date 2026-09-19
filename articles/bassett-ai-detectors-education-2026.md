@@ -1,7 +1,7 @@
 ---
 title: "Heads We Win, Tails You Lose: AI Detectors in Education"
 created: "2026-08-22T19:50:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -39,9 +39,20 @@ The paper argues that the binary human-or-AI classification is conceptually flaw
 
 AI detection raises security concerns around data storage and retention (including overseas servers with varying [[privacy]] standards), data breaches, and potential commercial exploitation of student work. It also violates procedural [[bias-mitigation|fairness]]: [[academic-integrity|academic integrity]] investigations require evidence meeting the balance-of-probabilities standard, which AI detector scores — alone or in combination with linguistic markers, style comparisons, [[llm]] claims, or student silence — do not satisfy. Students under investigation must be afforded the right to silence; a refusal to respond does not tip the scales against them, and only requesting an oral response to verify [[learning-gains|learning outcomes]] is a legitimate (grading) question.
 
-## Implications for AI in education
+## What this means for practice
 
-This paper is a strong argument in the knowledge base's [[ai-detection]] and [[academic-integrity]] thread for retiring AI-detection tools, positioning them as methodologically and procedurally unsound. It connects to [[beyond-detection-authentic-assessment-ai-2025|beyond-detection work]] on [[authentic-assessment|authentic assessment]] and to [[assessment-validity|assessment validity]] — if AI detectors cannot be validated, their use undermines rather than protects [[assessment]]. It also speaks to [[educational-policy-ai|policy]] and [[governance]] in [[higher-ed|higher education]], and to [[writing-education]] by recognizing AI-assisted writing as a legitimate, hybrid practice. Its emphasis on moving from surveillance toward [[assessment|assessment design]] that recognizes AI's role aligns with [[ai-literacy]] and human-centered [[generative-ai|GenAI]] integration.
+- **Administrators.** Retire detector scores as evidence in academic integrity cases: the paper argues they cannot meet the balance-of-probabilities standard on their own or in combination with linguistic markers, style comparisons, an [[llm|LLM's]] claim that text is AI-generated, or a student's silence.
+- **Administrators.** Uphold the right to silence: a student's refusal to respond must not tip the scales against them, and oral questioning should be reserved for verifying [[learning-gains|learning outcomes]] as a grading matter rather than used to press a student about integrity.
+- **Policymakers.** Replace "in assessment" wording with policies that define when an assessment begins, since the paper shows the ambiguity forces inconsistent enforcement and shifts the burden onto student [[self-regulated-learning|self-regulation]].
+- **Administrators.** Move the budget from detection and surveillance toward [[assessment|assessment design]], [[authentic-assessment|authentic assessment]], and [[ai-literacy]] support, treating AI-assisted [[writing-education|writing]] as a legitimate hybrid practice and accepting that unsupervised assessments cannot be secured.
+- **Policymakers.** Review data-storage, retention, and overseas-server arrangements before adopting any detection platform: the paper flags breaches and commercial exploitation of student work as procurement risks in their own right.
+
+## Limitations
+
+- This is a conceptual and normative argument, not an empirical study: it reports no detector-accuracy experiments of its own, so its claims about methodological failure rest on reasoning and prior literature, including others' evaluations such as Turnitin's test on 700,000 pre-2019 papers.
+- The procedural-fairness argument is built on the balance-of-probabilities evidentiary standard used in the authors' own higher education misconduct procedures, so its transfer to other jurisdictions, sectors, or legal frameworks is argued rather than demonstrated.
+- The central premise — that real-world text origin is unknowable, so detector output cannot be independently verified — is framed so that no available empirical test could settle it, leaving the paper's core claim unfalsifiable within the setting it critiques.
+- The authors write from a shared institutional position across Australian universities and one secondary school, and their recommendations for assessment redesign are proposals rather than tested interventions.
 
 ## Connected Concepts
 

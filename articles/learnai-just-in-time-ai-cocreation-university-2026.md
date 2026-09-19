@@ -1,7 +1,7 @@
 ---
 title: "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University"
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-24T05:01:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [agency, ai-literacy, curriculum-design, educational-development, learning-design]
 pedagogy: [self-efficacy]
@@ -47,11 +47,20 @@ The study is an **experience report** with preliminary evidence gathered through
 
 Its value lies in the practical, replicable structure and the documented boundary cases that inform [[reducing-ai-misuse]] and [[self-regulated-learning|self-regulation]] design. These include at least one non-technical client who felt overwhelmed by the number of tools and steps (GitHub, hosting, multiple platforms), and a subset of students who reject AI or feel the overhead of prompting outweighs potential benefits — evidence that the framework primarily serves those who opt in and are at least tentatively open to AI. The authors also document a [[philosophy-of-ai-in-education|reframing of authorship]] in which clients made artifacts themselves, treating prompt design, task decomposition, and verification as substantive intellectual labor, while some retained clear boundaries (e.g., a data-science student preferring to write scholarly papers without AI to avoid "losing" his own voice).
 
-## Implications
+## What this means for practice
 
-For **practice**, LearnAI demonstrates that a two-layer, service-oriented lab can complement course-based AI education using existing peer tutors, widely available AI tools, and lightweight cloud platforms — without requiring new technical coursework. Institutions replicating the model should prioritize recruiting [[teacher-ai-competency|tutors who can explain and adapt]], then add training on current tools and a readiness mechanism before independent facilitation, since communication and teaching proved harder to develop than technical proficiency. The [[transfer-of-learning|transfer]] cases (clients independently building conference materials, recommending the program to peers, chaining NotebookLM, Gamma, and HeyGen) suggest that co-creation can seed sustained, [[self-directed-learning|self-directed]] AI use.
+- **Faculty developers.** Embed short [[ai-literacy|AI-awareness]] sessions inside existing courses instead of staging standalone workshops: the Wide-Exposure Layer reached 293 enrolled students across 18 courses and five disciplines without adding technical coursework.
+- **Instructors.** Run opt-in co-creation sessions on the 5-Stage Pedagogical Script and treat Stage 5 ([[ethics|ethical reflection]]) as a required session-end checklist rather than the stage to drop when debugging runs long; in this deployment that stage was the most likely to be compressed.
+- **Faculty developers.** Recruit peer tutors for their ability to explain and adapt, then require calibration (observe two sessions, co-facilitate two, lead independently) before they facilitate alone — both interviewed tutors found communication and teaching harder to develop than technical proficiency.
+- **Instructors.** Close each session with a facilitator-verified summary of tools used and next steps, since clients who continued independently were documented recombining tools (NotebookLM, Gamma, HeyGen) on their own projects.
+- **Researchers.** Use the [[student-ai-interaction|Oracle-to-Process-Partner]] distinction to code shifts in student AI interaction, and report boundary cases — the overwhelmed non-technical client and the deliberate AI rejecters — alongside the positive transfer cases rather than treating non-adoption as noise.
 
-For **computing education [[research-methods-aied|research]]**, the work illustrates how a small, high-touch lab can function as a site for studying AI-era problem-solving across mixed-ability populations, while foregrounding boundary cases — non-adopters and overwhelmed clients — as valuable evidence about the limits of productive complexity. The Oracle-to-Process-Partner framing offers a useful vocabulary for [[student-ai-interaction]] that connects to [[human-ai-collaboration]] and [[trust]] research, and the framework's treatment of ethics as lived, task-embedded negotiation rather than policy constraint speaks to [[governance]] and [[educational-policy-ai]] debates. Finally, the study's honest reporting of its [[limitations-in-aied-research|exploratory limits]] — small N, preliminary instrument, no control group, informal artifact inspection — models an appropriate evidentiary standard for experience reports in AIED.
+## Limitations
+
+- The paired pre/post AI-readiness dataset covers only 7 clients (5 improved, 1 stayed at ceiling, 1 declined), and the authors state the instrument is preliminary and not formally validated, so the 7.4-point mean gain is descriptive context only.
+- Interviews rest on 5 clients and 2 of 4 tutors — self-selected, opt-in participants recalling sessions retrospectively, with no non-participant comparison group, so the reported mindset shift is self-report.
+- Layer 1 evidence comes from 54 consented survey respondents in 7 of the 18 courses, with instructor opt-in and self-report shaping both reach and attitude estimates.
+- The artifact corpus (36 portfolios, 20+ deployed applications) was inspected informally for access and task match, with no quality rubric, so artifact sophistication is not scored.
 
 ## Connected Concepts
 - [[ai-literacy]]

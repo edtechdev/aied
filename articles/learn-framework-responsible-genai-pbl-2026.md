@@ -1,7 +1,7 @@
 ---
 title: 'The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning'
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [cognitive-psychology, problem-based-learning]
@@ -27,13 +27,20 @@ page_kind: [framework]
 - **Reflection:** Serves as the metacognitive engine consolidating knowledge and fostering ethical engagement, via learning journals, think-aloud protocols, and reflective essays. Grounded in error-monitoring and [[self-regulated-learning|self-regulation]] networks (medial prefrontal cortex). The paper distinguishes LEARN from classical [[scaffolding]] (Vygotsky's ZPD, cognitive apprenticeship) because GAI can autonomously generate complete solutions, demanding reconceptualized, dialogic, epistemically regulated scaffolding.
 - **Neuro-based Design:** The integrative design layer aligning instruction with how the brain learns — scaffolding tasks from simple to complex, mentoring, staged [[feedback]], retrieval practice, and process-focused rubrics that make AI reliance transparent and auditable.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Shift from product- to process-based assessment:** The framework argues conventional take-home assessments lose validity when GAI can generate polished responses; [[assessment]] should instead capture reasoning traces, [[metacognition|metacognitive awareness]], and critical engagement — e.g. via process-focused rubrics, oral justifications, and staged submissions.
-- **From policing to principled design:** Rather than surveillance or prohibition, LEARN cultivates ethical AI use through reflective transparency and learner [[agency]], aligning with [[governance|institutional]] policies (e.g. University of Sydney's "two-lane" approach) but filling the gap of a coherent pedagogical framework for operationalizing them.
-- **Reconceptualising scaffolding for the AI era:** Because GAI can fully generate solutions, traditional [[scaffolding]] must be redefined as interactive, dialogic, and epistemically regulated — learners must interrogate, evaluate, justify, and reflect on AI output, transforming scaffolding from guided assistance into a catalyst for higher-order reasoning and ethical judgment.
-- **Neuroscience as an explanatory layer:** [[motivation]], [[scaffolding]], and reflection are tied to reward systems, cognitive-load [[regulation]], and [[metacognition|metacognitive monitoring]] respectively, providing a why for design choices that complements psychological and pedagogical accounts of learning.
-- **Research agenda:** The paper is conceptual; empirical studies of LEARN implementation are underway and to be reported subsequently, signaling a move toward testing neuro-pedagogical assessment redesign in practice.
+- **Assessment designers.** Replace artifact-only grading with process-focused rubrics, oral justifications, and staged submissions that capture reasoning traces and AI-use disclosure, since conventional take-home products lose validity when GAI can generate polished responses.
+- **Instructional designers.** Require students to interrogate, verify, and extend GAI output — comparing AI summaries with their own readings, naming missing arguments and biases — so GAI operates as a cognitive [[scaffolding|scaffold]] rather than a cognitive substitute.
+- **Educators.** Involve students in co-designing curricula, assessments, and rubrics and in decisions about GAI use, using the framework's Engagement dimension to convert instruction into authentic experience.
+- **Educators.** Build reflection into the task sequence through learning journals, think-aloud protocols, and reflective essays, treating reflection as the metacognitive engine for consolidating knowledge and ethical self-regulation.
+- **Administrators.** Revise academic-integrity policy to recognize documented, transparent AI use as an emerging literacy rather than presumptive misconduct, and shift institutional effort from [[ai-detection|detection]] toward process-oriented assessment.
+
+## Limitations
+
+- The paper is conceptual and theory-building and presents no empirical evaluation; the authors state that systematic validation of causal effects and generalizability across disciplines, learner populations, and AI tools remains to be done.
+- The evidence cited in its support is limited to preliminary workshop-based observations rather than controlled or measured learning outcomes.
+- The framework is designed for inquiry-, reasoning-, and reflection-oriented learning, so the authors say its applicability is more limited in highly procedural or skills-based training contexts.
+- It presumes access to digital infrastructure and instructional support that resource-constrained settings may lack, and depends on GAI capabilities that keep shifting in accuracy, transparency, bias, and explainability.
 
 ## Connected Concepts
 

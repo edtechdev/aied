@@ -1,7 +1,7 @@
 ---
 title: "Mapping the Integration of AI into Business Education: Insights from a Decade of Research"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-08-21T13:21:45-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -40,9 +40,17 @@ methods: [meta-analysis-systematic-review]
 
 - **Tools.** All network visualizations built in **VOSviewer**, enabling [[visualization]] of research clusters, intellectual structure, and cross-disciplinary intersections.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[ai-education|AI in education]] more broadly, this review is a strong, high-confidence empirical anchor showing that AI integration in a professional-discipline context is fundamentally a [[curriculum-design|curriculum]] and [[assessment]] problem rather than a technology-procurement problem. Its central lesson — that coherent integration depends on coordinated pedagogical judgment, educator capability, and [[assessment]] redesign — generalizes well beyond business education and echoes the wider shift toward [[authentic-assessment|authentic, process-oriented assessment]] in AI-rich [[higher-ed|higher education]]. The persistent [[personalized-learning|personalization]] strand connects to the broader evidence on adaptive and learner-centered AI, while the educator-readiness gap reinforces the importance of [[educational-development|faculty development]] and [[ai-literacy|AI literacy]]. Because the study is a [[meta-analysis-systematic-review|systematic review]], its mapped clusters and gaps help ground future research agendas and [[governance|institutional]] strategy in aggregated evidence rather than isolated case studies. Notably, the review is strongly relevant to a future **business education** concept page in this knowledge base.
+- **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[authentic-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
+- **Administrators.** Fund sustained [[educational-development|educator development]] in pedagogical competence, ethical judgment, and assessment literacy ahead of tool procurement, because educator readiness recurs as an unresolved gap in every cluster rather than a one-off training need.
+- **Researchers.** Build next studies on the four bibliographic-coupling clusters and three co-word trends, targeting the curriculum-coherence, educator-readiness, and assessment-validity gaps instead of adding another single-tool case.
+
+## Limitations
+
+- The map rests on journal articles indexed in one database (Dimensions, 2015–2024), with book chapters and conference proceedings excluded, so it reflects journal publishing rather than the full literature on the topic.
+- Thresholding narrowed the coupling analysis from 213 retrieved documents to 58 meeting the cited-reference criterion and then 33 retained for clustering, so the four clusters summarize a subset of the field.
+- Bibliographic coupling and co-word analysis describe citation and keyword structure only; they carry no information about study quality, effect sizes, or actual [[learning-gains|learning outcomes]].
 
 ## Connected Concepts
 

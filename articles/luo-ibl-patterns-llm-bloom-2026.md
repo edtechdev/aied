@@ -1,7 +1,7 @@
 ---
 title: "Inquiry-Based Learning Patterns in Large Language Model-Driven Learning Environments: An Exploratory Study From Bloom's Perspective"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-25T17:30:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [inquiry-based-learning, metacognition, self-efficacy, self-regulated-learning]
@@ -24,9 +24,19 @@ page_kind: [framework]
 4. **Design implication: scaffolding for higher-order thinking.** Educators should design cognitive scaffolding targeting specific higher-order thinking stages; instructional designers should build planning frameworks that mitigate over-reliance while fostering metacognitive monitoring.
 5. **Policy: critical evaluation training.** Policymakers should implement training to enhance students' critical evaluation skills within LLM-driven environments.
 
-## Implications
+## What this means for practice
 
-This study is a core piece of the knowledge base's [[inquiry-based-learning]] cluster, directly examining *how* students use LLMs across the cognitive levels of inquiry. The finding that students' prior knowledge and [[metacognition|metacognitive]] skills determine whether LLM use deepens or bypasses inquiry reinforces the knowledge base's central design principle: AI in IBL requires explicit [[scaffolding]], planning frameworks, and [[critical-thinking|critical evaluation]] training to convert interaction into higher-order learning rather than [[cognitive-offloading|over-reliance]]. It complements the IBL cluster's outcome evidence ([[mujib-ai-ibl-creative-math-2026]], [[zhao-genai-higher-order-thinking-meta-2026]]).
+- **Instructors.** Aim [[scaffolding]] at specific higher-order thinking stages rather than at LLM use in general, because prior knowledge and [[metacognition|metacognitive]] skill determine whether LLM use deepens [[inquiry-based-learning|inquiry]] or bypasses it, and the 14 patterns vary by [[prior-knowledge|prior-knowledge]] level.
+- **Instructors.** Teach [[critical-thinking|critical evaluation]] of LLM output inside the inquiry task itself, since the study's policy implication is explicit training in evaluating responses within LLM-driven environments.
+- **Designers.** Build planning frameworks that keep [[metacognition|metacognitive]] monitoring active and mitigate [[cognitive-offloading|over-reliance]], because [[self-efficacy]] and metacognitive monitoring shaped learning behavior in the LLM-driven environment and their absence correlated with reliance on the AI.
+- **Researchers.** Follow the exploratory design with larger, objective measurement — the authors plan quantitative work with a larger sample and eye-movement data — because the current design cannot clarify causal links between behaviors such as cue design and critical thinking.
+
+## Limitations
+
+- Only 19 students in a single data-science IBL course at one Chinese university took part, so the 14 interaction patterns describe one restricted sample rather than a general population.
+- The study cannot clarify the causal relationship between specific behaviors, such as cue design and critical thinking, and the authors state it may lack an assessment of the unique impact of the LLM environment.
+- It recorded one IBL course only, so it may not capture long-term behavioral change or how cognitive levels shift in sustained LLM-assisted learning.
+- Analysis rested on prompt text and retrospective think-aloud interview transcripts, with screen recordings used to verify rather than as a primary measure; retrospective accounts can miss or rationalize in-task reasoning.
 
 ## Connected Concepts
 

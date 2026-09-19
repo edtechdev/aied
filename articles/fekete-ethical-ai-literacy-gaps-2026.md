@@ -1,7 +1,7 @@
 ---
 title: "Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai]
@@ -30,9 +30,19 @@ institutions: [educational-policy-ai]
 
 This is an **empirical synthesis** applying a comparative and interpretive design (Yanow, 2014) to two related, non-representative convenience-sample questionnaire studies conducted in 2024 across the European [[higher-ed]] context. The student study (n = 226; mean age 24.96; largest cohorts from Hungary and Austria) used a 15-scale instrument measuring components of [[ai-literacy]] and attitude, while the instructor study (n = 256; mean age 47.14; 18.6 years teaching experience) used 18 multi-item scales organized into three blocks: the seven TPACK domains, four AI-TPACK extensions, and seven AI literacy/behavioral constructs. All scales used five-point Likert items and met reliability standards (Cronbach's α ≥ .70). Student data were analyzed with independent-samples t-tests; instructor data additionally supported k-means cluster analysis (with ANOVA and post-hoc Duncan tests) and Pearson correlations. Participation was voluntary and anonymous with ethical approval (Refs #2024/02/3 and #2024/02/4), and analyses were run in SPSS 22 with significance accepted at p < .05.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper reframes responsible [[generative-ai]] use as a shared responsibility distributed across learners, [[teacher-role|educators]], and institutions rather than an individual competence. Its central insight — that students' [[ethics|ethical awareness]] and instructors' readiness develop through different mechanisms — implies that [[ai-literacy]] cannot be fostered by one-size-fits-all training: students need guidance, structured feedback, and teacher presence to convert informal experimentation into informed behavior, while instructors need clear, context-sensitive institutional frameworks and [[educational-development|professional development]]. The finding that instructors' moral awareness grows with institutional and social support (while students' readiness hinges on self-efficacy and collaboration) directly implicates [[educational-policy-ai]], calling for universities to strengthen internal communication and provide clear points of contact for AI-use questions. The work also suggests reimagining assessment so ethical AI use is evaluated through process, reflection, and judgment rather than detection alone, connecting to [[higher-ed]] debates on integrity and AI-Act governance.
+- **Instructors.** Demonstrate AI use in class rather than only mentioning it, and attach structured feedback to it: the study recorded AI mentioned in only 10.9% of class sessions and demonstrated in fewer than 6%, while students reported learning about AI informally and on their own. Evaluate ethical AI use through process, reflection, and judgment rather than detection alone.
+- **Learners.** Build competence through peer collaboration and practice, since students' willingness correlated with [[self-efficacy]] (r = .730) and collaboration (r = .653) far more than with formal instruction.
+- **Administrators.** Publish clear, context-sensitive guidance on AI use with named points of contact, because instructors' [[ethics|ethical]] awareness tracked facilitating conditions (r = .322) and the largest gap in the study was students rating support low (M = 2.19).
+- **Faculty developers.** Tier professional development to the three instructor profiles the cluster analysis found (Beginner 24%, Intermediate 56%, Advanced 20%) and lead with [[ethics]], the scale that discriminated most strongly between them (F = 124.073, p < .001), instead of running uniform workshops.
+
+## Limitations
+
+- Both questionnaires used non-representative convenience samples (n = 226 students, n = 256 instructors) drawn largely from Hungary (56.6%) and Austria (25.5%), so the group differences cannot be generalized to European or global [[higher-ed|higher education]].
+- All measures are self-report on five-point Likert scales, which the author notes may not capture the full complexity of actual practice.
+- The two datasets were collected separately in 2024 and combined as an empirical synthesis, so student and instructor responses are not paired within the same institutions or courses.
+- The comparative design captures group differences at a single time point and cannot show how ethical literacy develops through instruction, mentorship, or institutional reform.
 
 ## Connected Concepts
 

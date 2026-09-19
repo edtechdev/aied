@@ -1,7 +1,7 @@
 ---
 title: "'AI Should Help Them Learn, Not Learn for Them': University Staff Perspectives on the Role of Generative AI in Education"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -28,13 +28,20 @@ confidence: medium
 
 The study used an exploratory cross-sectional design with an online survey (hosted on RedCap) built on Kelly et al.'s (2023) Generative Artificial Intelligence Survey, trialled with colleagues before launch. Academic staff from ten schools at an Australian university were recruited through Associate Deans of Learning and Teaching via email, Teams, and campus posters. The instrument contained up to 55 items across six sections — demographics, digital and [[ai-literacy|AI literacy]], training and university adoption, [[prompt-engineering|prompt engineering]], [[assessment]] development, and [[academic-integrity|academic integrity, ethics, and equity]] — with branching logic, closed (multiple-choice and Likert) and open-ended items. After listwise deletion, 76 of 94 initial responses were analyzed. Descriptive statistics were computed in SPSS 28; because of the small sample and low cell counts, no inferential statistics were run. Open-ended responses were analyzed using an inductive thematic approach (Braun & Clarke), with codes grouped into broad themes and saturation judged when repeated review yielded no new codes.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Governance and policy before scale.** Institutions need clear, usable [[governance|frameworks]] and transparent policies on permitted AI use for both students and staff; the absence of such guidance was a recurring barrier reported by respondents.
-- **[[educational-development|Professional development]] is non-negotiable.** Targeted training must pair technical skill with [[pedagogy|pedagogical]] strategy — most staff wanted it, most lacked it, and few felt confident teaching students skills such as [[prompt-engineering|prompting]], pointing to a significant [[teacher-ai-competency|skills gap]].
-- **Redesign assessment around integrity.** Rather than detection-only approaches, staff called for [[assessment]] redesign that emphasizes [[critical-thinking|higher-order thinking]] and developing students' evaluative judgment, protecting the human, dialogic role of [[feedback]].
-- **Equity must be deliberate.** Given socioeconomically diverse cohorts, ensuring equitable access to [[generative-ai|GenAI]] tools and structured student training was regarded as essential to avoid widening existing [[digital-divide|digital]] and educational disparities.
-- **Human oversight endures.** The dominant view that AI is "a tool, not a solution" reinforces the need for [[human-in-the-loop-ai|human-in-the-loop]] design and the continued centrality of [[teacher-role|educators]], teacher–student relationships, and human judgment in [[higher-ed]].
+- **Instructors.** Set your own course-level expectations instead of waiting for institutional guidance: more than three-quarters of the 76 staff surveyed said adequate resources were not provided, and the majority reported no clear institutional [[governance|guidelines]] on ethical use.
+- **Instructors.** Keep the cognitive work visible in task design. Staff reported students using GenAI as a shortcut around the writing, referencing, [[critical-thinking|critical analysis]], and [[creativity|creative]] effort that builds skill, and flagged poor student [[ai-literacy]] as what enables uncritical [[cognitive-offloading|overreliance]] on inaccurate or biased output.
+- **Instructors.** Ask for training that pairs technical skill with pedagogical strategy, and embed [[ai-literacy|AI literacy]] in the curriculum: most respondents wanted training and supported embedding it, yet few felt confident teaching students how to [[prompt-engineering|prompt]].
+- **Instructors.** Redesign assessment around higher-order thinking and evaluative judgment rather than leaning on detection, and protect the human, dialogic role of [[feedback]]: staff saw marking AI-generated essays as added workload and judged GenAI feedback to lack nuance and personalization.
+- **Instructors.** Do not assume uniform access or proficiency. With a socioeconomically diverse cohort, staff linked GenAI to widening [[digital-divide|digital]] and educational disparities, so build tasks and alternatives that do not presume paid tools or confident use.
+
+## Limitations
+
+- Cross-sectional online survey at a single Australian university: 94 responses were received and 18 were removed by listwise deletion for not proceeding past the demographic items, leaving 76 academic staff analyzed — a sample the authors themselves call modest, affecting external validity.
+- Recruitment was voluntary and self-selected — staff with greater interest in GenAI were more likely to respond — and respondents do not proportionally reflect the institution's broader staff profile, so the sample is illustrative rather than representative of the sector.
+- Because the sample was small with low cell counts, only descriptive statistics were computed in SPSS version 28 and no inferential tests were run.
+- Data were collected between August 2023 and June 2024; the authors note that AI technologies and policies have evolved rapidly since, so some findings may no longer reflect current practice, and the study captures self-reported attitudes and experience rather than observed teaching or student outcomes.
 
 ## Connected Concepts
 

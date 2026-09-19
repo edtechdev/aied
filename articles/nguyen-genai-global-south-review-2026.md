@@ -1,7 +1,7 @@
 ---
 title: "Perceptions Of Generative AI in the Global South: A Scoping Review"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -35,13 +35,20 @@ methods: [meta-analysis-systematic-review]
 
 The study is a [[meta-analysis-systematic-review|scoping review]] aligned to the PRISMA-ScR checklist (Tricco et al., 2018), designed to map concepts and gaps rather than evaluate effects. Searches ran across SCOPUS, ERIC, Web of Science, and Google Scholar (supplementary) using a Boolean string covering the technology, educational context, stakeholder perceptions, and geographic focus, for the period 12/2022–2/2025 in English. The Global South is defined via UNCTAD's (2018) classification of developing economies. Screening narrowed 777 records to 102 full texts, with 75 studies included. Analysis used inductive category development from abstracts followed by deductive full-text refinement, assisted by a GenAI tool (Claude Pro) under the ACTOR framework, with all AI output reviewed and verified by human researchers; a light appraisal excluded methodologically weak studies, and no formal risk-of-bias assessment was undertaken.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Local rather than imported policy.** [[educational-policy-ai|GenAI policy]] should reflect local infrastructure, languages, and cultures rather than Western defaults, echoing broader calls for context-sensitive AI governance in the [[global-south|Global South]].
-- **AI literacy and integrity [[teacher-role|teaching]].** Institutions should explicitly teach [[ai-literacy]] and integrity so students know when GenAI use is appropriate, ethical, and transparent.
-- **Assessment redesign.** Pair GenAI-supported tasks with activities requiring students to critique, verify, and justify AI outputs, aligning with frameworks like the Artificial Intelligence Assessment Scale.
-- **Educator professional learning.** Ongoing [[educational-development|professional development]] should build educators' AI, [[pedagogy|pedagogical]], and ethical capabilities for using GenAI in teaching.
-- **Equity-centered research.** Future work should prioritize equity-centered approaches, [[research-methods-aied|methodological]] diversity, contextual specificity, implementation science, and interdisciplinary collaboration to avoid reinforcing existing disparities.
+- **Administrators.** Write GenAI policy that reflects local infrastructure, languages, and cultures rather than importing Western defaults, and pair it with sustained [[educational-development|professional development]] in AI, [[pedagogy]], and [[ethics]]; the review finds governance approaches vary sharply across national contexts.
+- **Administrators.** Audit and subsidize access before scaling deployment: track how GenAI reaches different learner groups and support underserved students, since [[equity-in-ai-education|equity]] is the least-studied of the review's five areas across 75 included studies.
+- **Instructors.** Teach [[ai-literacy]] and [[academic-integrity]] explicitly and redesign assessment so students critique, verify, and justify AI outputs, given the gap between students' stated ethical positions and their reported behavior and the murkier territory of "AI-giarism."
+- **Designers.** Align GenAI-supported tasks with assessment-reform frameworks such as the Artificial Intelligence Assessment Scale, pairing any AI assistance with activities that require students to evaluate what the tools produced.
+- **Researchers.** Prioritize equity-centered, context-specific, methodologically diverse work and stop treating the [[global-south|Global South]] as a single category; the included literature is dominated by student perspectives and by Western-developed acceptance models such as UTAUT and TAM.
+
+## Limitations
+
+- Screening was not duplicated: a single reviewer screened all 777 records, which the authors flag as increasing the risk of missed eligible studies (102 full texts assessed, 75 included).
+- No formal critical appraisal or risk-of-bias assessment was performed because the aim was to map a heterogeneous evidence base spanning peer-reviewed articles, conference papers, preprints, and gray literature; only a light appraisal removed the weakest studies.
+- The search covered four databases for 12/2022-2/2025 in English only, and the design maps concepts and gaps rather than evaluating effects, so no claim about GenAI's impact on learning outcomes can be drawn from it.
+- The evidence base is skewed toward student perspectives and flattens very different educational systems into one category, limiting applicability across regional and national settings.
 
 ## Connected Concepts
 
