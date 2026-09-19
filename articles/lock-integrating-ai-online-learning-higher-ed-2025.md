@@ -1,7 +1,7 @@
 ---
 title: "Integrating AI in Online Learning in Higher Education: A Literature Review"
 created: "2026-09-05T14:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
@@ -27,16 +27,16 @@ methods: [ai-ed-evaluation]
 - **Challenges are multidimensional and interconnected.** (i) *Academic integrity*: pandemic-era remote proctored exams and plagiarism software proved inadequate against unsupervised AI access; students criticized punitive surveillance and memory-based assessments displacing authentic learning, while content generation without prior learning "masked" learning and obstructed cognitive development. (ii) *Equity and bias*: AI nudges rarely benefit all learners, algorithmic scoring can penalize non-native and culturally diverse input, unfamiliar complex systems add cognitive load, and biased metrics risk unfair practice. (iii) *Ethics, security, privacy*: heavy data collection normalizes surveillance, threatens autonomy, and raises privacy/security risks, especially for vulnerable students. (iv) *Institutional support and policy gaps*: institutions often lack frameworks for accountable AI deployment, and ambiguous data-ownership/retention policies enable misuse.
 - **The automation-without-human review critique is vivid.** The authors quote a teaching-assistant vignette of "click[ing] release scores" without reading AI comments, arguing such automation without [[human-in-the-loop-ai|human-in-the-loop]] undervalues instructor–student interaction and the positive role of human [[student-engagement|engagement]].
 
-## Implications
+## Research agenda
 
-The authors frame implications across practice, policy, and [[research-methods-aied|research]]. **For practice:** develop AI literacy for both students and instructors, teach responsible use and [[ethics|ethical]] guidelines, and design assignments engaging students in [[critical-thinking|critical thinking]] — while never letting technology displace the human dynamic ("never let the robots take over"). [[educational-development|Educational development]] should cover AI for course development, assessment, teaching, image generation, and student-facing training. **For policy:** institutions need transparent frameworks governing data collection, storage, surveillance, and ownership, plus student-facing policies. **For research:** shift focus from creating/deploying AI to how learning is designed, facilitated, and assessed within AI-enhanced environments, including how the instructor's role and the student–instructor–technology relationship change.
+Shift focus from creating and deploying AI to how learning is designed, facilitated, and assessed within AI-enhanced environments, including how the instructor's role and the student–instructor–technology relationship change.
 
-The article is a *critical* (narrative) literature review rather than a PRISMA [[meta-analysis-systematic-review|systematic review]]; its authors recommend a future systematic or scoping framework and broader database coverage as next steps. It complements the knowledge base's other online-learning syntheses by emphasizing the overlapping, interconnected nature of AI-integration themes in online higher education.
+It complements the knowledge base's other online-learning syntheses by emphasizing the overlapping, interconnected nature of AI-integration themes in online higher education.
 
 ## What this means for practice
 
 - **Instructors.** Keep a human in the workflow: pair [[generative-ai|GenAI]] with teacher tutoring rather than substituting it, since the review reports that students who used ChatGPT alongside teacher tutoring perceived greater learning and skill improvement than students using ChatGPT alone, and never release AI-generated feedback unread — the authors use a teaching-assistant vignette of "click[ing] release scores" to argue that automation without [[human-in-the-loop-ai|human-in-the-loop]] review devalues instructor–student interaction.
-- **Instructors.** Teach [[ai-literacy|AI literacy]] as the critical capacity to question how AI is designed and implemented, not just as tool-operation skill, and design assignments that require [[critical-thinking|critical thinking]] rather than content generation.
+- **Instructors.** Teach [[ai-literacy|AI literacy]] as the critical capacity to question how AI is designed and implemented, not just as tool-operation skill, and design assignments that require [[critical-thinking|critical thinking]] rather than content generation. Give instructors [[educational-development|educational development]] in the areas the review names — introductions to AI, using AI for course development and assessment, using AI in teaching, image generation and customization, and student-focused training on AI use.
 - **Instructors.** Keep [[motivation|motivational]] regulation with the learner. The review found AI useful for [[metacognition|metacognitive]], cognitive, and behavioral regulation but not for [[motivation|motivational]] regulation, where learner identity, activeness, and position were necessary complements.
 - **Administrators.** Close the policy gap the review documents: institutions frequently lack frameworks for accountable AI deployment, and ambiguous data-ownership and retention policies enable misuse.
 - **Policymakers.** Treat equity and surveillance findings as design requirements, not caveats: AI nudges rarely benefit all learners, algorithmic scoring can penalize non-native and culturally diverse language, and heavy data collection normalizes [[remote-proctoring|surveillance]].

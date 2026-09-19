@@ -1,7 +1,7 @@
 ---
 title: "Review of Artificial Intelligence in Education from 2020 to 2025"
 created: "2026-08-09T08:44:33-04:00"
-updated: "2026-08-24T12:30:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, personalized-learning]
@@ -72,13 +72,20 @@ Looking across recent scholarship and policy roadmaps, three trajectories appear
 
 **3. Authentic assessment via multimodal analytics and generative simulations.** Assessment is migrating from end-of-unit tests to in-the-flow evidence captured during [[authentic-assessment|authentic tasks]]. [[multimodal|Multimodal learning analytics]] (MMLA) are maturing toward classroom-ready toolkits, while GenAI powers role-play and case simulations that elicit higher-order skills. The center of gravity shifts from "grading products" to "modeling processes" — [[formative-assessment|assessment for learning]], not just of learning.
 
-## Limitations and Future Work
+## What this means for practice
 
-The review is a coherent three-layer synthesis across 100+ studies, but it carries real limits. Coverage is partial: it prioritizes peer-reviewed English-language education sources, underrepresenting technical venues, non-English work, and gray literature. The corpus is skewed toward higher-education and Global North settings, limiting generalizability to [[k-12|K-12]], vocational, and low-resource contexts. And many studies report learning effects but omit operational metrics — teacher time saved, implementation cost, compute and energy use — making policy translation difficult. The authors recommend stratified, region-weighted searches and a simple cost–time–quality reporting template so future work tracks total cost of ownership alongside learning and equity outcomes.
+- **Researchers.** Report total cost of ownership — teacher time saved, implementation cost, compute and energy use — alongside learning and [[equity-in-ai-education|equity]] outcomes, using the cost–time–quality template the authors propose, because many studies in this corpus report learning effects but omit those figures.
+- Sequence adoption by layer: settle [[formative-assessment|formative assessment]] and [[feedback]] routines, [[teacher-ai-competency|leadership capacity]], low-friction tools, and shared norms before adding predictive or generative components — the review treats those preconditions as what carries the layers above them.
+- Design instruction around a measure–model–adapt loop, and prefer interpretable, edge/fog or on-device models that shorten the [[feedback|feedback cycle]] and keep a human [[human-in-the-loop-ai|in the loop]] where errors are costly.
+- Constrain [[generative-ai|generative AI]] to drafts and idea generation under rubrics, exemplars, and human review; the review characterizes it as strong at drafts and inconsistent at judgment.
+- Tie evaluation to decision pathways — who acts, on what evidence, and when — rather than to model accuracy, and set equity targets before deployment so [[human-ai-collaboration|co-orchestration]] does not simply scale whatever the system already does.
 
-## Implications
+## Limitations
 
-This review offers a structured map of the AIED landscape during the [[llm|LLM]] era (2020–2025) and a practical ordering for institutions. **Invest in the genome first:** formative [[assessment]] and [[feedback]] loops, evidence-ready leaders, low-friction tools, and shared norms are preconditions; without them, sophisticated systems wobble. **Design for the measure–model–adapt loop:** favor interpretable, edge/fog and on-device models that shorten feedback cycles and keep humans [[human-in-the-loop-ai|in the loop]] where errors are costly. **Treat GenAI as a strong junior assistant**, constrained by rubrics, exemplars, and human review — strong at drafts, inconsistent at judgment. **Build assurance in from the start** with transparent criteria, auditable pipelines, and [[equity-in-ai-education|equity targets]]. The three forward trends — [[human-ai-collaboration|co-orchestration]], [[privacy|privacy-preserving edge AI]], and [[authentic-assessment|authentic continuous assessment]] — align with wider conversations in [[governance]] and institutional AI readiness, and turn promising pilots into durable, trustworthy systems.
+- The corpus covers 100+ peer-reviewed papers published between January 2020 and April 30, 2025 and prioritizes English-language, peer-reviewed education sources, so technical venues, non-English work, and gray literature are underrepresented.
+- Coverage skews toward higher education and the Global North, which the authors state limits generalizability to [[k-12|K–12]], vocational, and low-resource contexts.
+- The synthesis codes each study's technique, contribution, and outcome and reports frequency summaries; it pools no effect sizes and reports no formal quality appraisal, so it maps the field rather than estimating effect magnitudes.
+- Many included studies report learning effects but no operational metrics, which is why the authors recommend stratified, region-weighted searches and a simple cost–time–quality reporting template so future work tracks total cost of ownership alongside learning and equity outcomes.
 
 ## Connected Concepts
 

@@ -12,7 +12,7 @@ audience: [instructors, researchers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:21-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 ---
 
 > **Synthesis:** Twenty-two Chinese-native interpreting trainees completed bidirectional computer-assisted consecutive interpreting (CACI) tasks in AI-enabled systems built on automatic speech recognition and machine translation, while eye-tracking, pen-recording and voice-recording captured how they actually divided attention between the AI output and their own note-taking. Cluster analysis of 264 stage-level observations produced four interaction profiles — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and 58.3% of observations shifted profile between the comprehension and production stages of the same task. Comprehension-stage patterns, but not production-stage patterns, were significantly associated with [[language-learning|interpreting quality]], and the AI-heaviest profile consistently scored lowest. The study shows that [[student-engagement|student-AI interaction]] in a demanding bilingual task is heterogeneous, unstable across task phases, and not automatically beneficial.
@@ -31,12 +31,6 @@ The study also makes a [[metacognition|metacognitive]] argument for training: si
 
 ## Method and measures
 Participants performed bidirectional tasks in a CACI environment that integrated ASR and MT features. Behavioral data were triangulated from three channels: eye-tracking (AI reading proportion, regression rate, saccade amplitude, fixation frequency, deep fixation proportion, switch count), pen-recording (note-taking duration and note counts, computed separately for the AI-support area and the notepad area) and voice-recording (target speech duration, pause count, pause duration proportion, fillers and disfluencies). Interpreting quality was rated by two experienced interpreters on an 8-point scale across four bands for information completeness, fluency of delivery and target language quality; measures were computed separately for the input and output stages of each task.
-
-## Implications for AI-assisted language and interpreting instruction
-- Treat the AI readout as one resource among several rather than the default: students who split attention across AI output and their own notes performed better on delivery and target-language quality.
-- Make strategy visible: reflection and [[self-report-measures|self-report]] exercises are needed precisely because interaction patterns are not introspectable.
-- Train for stage-specific strategy, since the same student may benefit from AI support while comprehending and from independent production while speaking.
-- Be cautious about generalizing from a 22-participant exploratory study, especially where output-stage effects did not reach significance.
 
 ## What this means for practice
 

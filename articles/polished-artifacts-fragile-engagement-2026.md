@@ -1,7 +1,7 @@
 ---
 title: '"Polished Artifacts, Fragile Engagement? Tackling the Challenge of Reduced Epistemic Effort in Human-AI Knowledge Construction"'
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, critical-thinking]
 pedagogy: [collaborative-learning, metacognition]
@@ -44,15 +44,6 @@ This strand centers on **automation bias**—people's systematic tendency to att
 ### The artifact-oriented strand
 
 This strand starts from the epistemic properties of polished external artifacts. [[learning-theories|Trialogical learning theory]] emphasizes that knowledge creation depends on collaboratively developing artifacts that remain provisional and open to criticism—artifacts function as epistemic objects precisely because their incompleteness invites inquiry and revision. The paper introduces the **sense of epistemic closure** as distinct from premature closure: whereas premature closure captures groups ending negotiation too soon at the interactional level, epistemic closure addresses how the perceived completeness of artifacts suppresses epistemic engagement even before critical negotiation or conflict emerge. When harmonized, apparently complete AI-generated artifacts make discrepancies less salient, learners perceive limited need to interrogate assumptions, and **cognitive conflict**—a central driver of conceptual change—is reduced. This weakens the co-evolution between internal knowledge structures and external knowledge products: external products continue to evolve efficiently while people's learning becomes increasingly decoupled from production.
-
-## Implications for CSCL futures
-
-The analysis reframes the central challenge: not whether genAI can support learning, but under which conditions human-AI collaboration preserves or undermines epistemic effort and learning success. Four design and research directions follow:
-
-1. **Design AI that sustains human participation in regulation.** AI systems should prompt people to articulate, justify, and reflect on goals and evaluations themselves—using counter-questions, requests for justification, or intentional withholding of complete solutions—rather than supplying them, counteracting automation bias and keeping epistemic authority distributed.
-2. **Sustain transactivity and epistemic agency.** AI contributions should be framed as provisional suggestions rather than authoritative answers, and designed with explicit "uptake obligations" (deliberate gaps that require transformation or justification), shifting the AI artifact from a resource into a relational object that demands epistemic work.
-3. **Avoid a premature sense of epistemic closure.** Artifacts should remain open to revision and provoke cognitive conflict through multiple alternative drafts, deliberately incomplete representations, annotations of uncertainty, or dialogically self-challenging outputs that embed counter-perspectives within themselves.
-4. **Develop methods that capture reduced epistemic effort as a conditional, long-term outcome.** Product quality and immediate performance should be assessed separately from learning, using process analyses of which epistemic operations humans or AI performed, trace data on contribution uptake, [[cognitive-offloading]] measures, delayed tests, unaided explanations, and transfer and abstraction tasks to determine when reduced effort actually impairs conceptual understanding.
 
 ## Conclusion
 

@@ -1,7 +1,7 @@
 ---
 title: "TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring"
 created: "2026-08-09T07:09:19-04:00"
-updated: "2026-08-24T18:15:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -56,9 +56,13 @@ TACTutor is produced through a two-stage post-training process applied to the Qw
 
 **External benchmarks.** As transfer checks, TACTutor shows no degradation on MRBench, TutorBench, LongTutor, and DeepTutor, and in most cases improves modestly, suggesting the method preserves broader tutoring capability while improving ESL-specific behavior.
 
-## Implications for AI Tutoring
+## What this means for practice
 
-TACT advances the state of [[intelligent-tutoring|AI tutoring]] by grounding [[pedagogical-llm-training|LLM post-training]] in established pedagogical theory rather than treating tutoring as generic dialogue generation. Several implications follow. First, the taxonomy-aligned approach offers a principled path from an *open* 4B model to results that match or beat much larger proprietary systems, supporting compact, self-contained tutors for local deployment where inference cost, latency, and the privacy of learner conversations matter. Second, the conditional, non-deterministic mapping from student moves to strategies reframes evaluation and reward to recognize *defensible tutoring functions* rather than mechanical agreement with a reference wording — a move toward richer [[ai-ed-evaluation|evaluation of teaching quality]] rather than surface similarity. Third, because the framework is domain-agnostic, it could transfer to math, science, or programming tutoring and to other languages, potentially reshaping [[conversational-ai|conversational]] [[pedagogical-agent|pedagogical agents]] more broadly. Finally, the open release of corpus, benchmark, and weights supports reproducible, [[open-source|open]] research on [[pedagogical-safety|pedagogically safe]] tutoring.
+- **Software developers.** Post-train against taxonomy labels rather than imitating the next teacher turn: TACTutor gained 20.30 points over its Qwen3.5-4B backbone (TACT_Overall 0.629 → 0.832) through SFT plus taxonomy-grounded GRPO.
+- **Software developers.** Withhold gold labels from the policy at diagnostic time — TACT's protocol excludes student-move labels because annotated learner states would not be available in deployment, forcing the model to infer learner state from the dialogue itself.
+- **Software developers.** Score candidate responses on decomposed dimensions (pedagogical move, learner agency, ESL content accuracy, tone/rapport, cognitive load) plus accept, leak-or-overhelp, and off-task flags, so each failure points to taxonomy coverage, reward design, prompting, data filtering, or model capacity.
+- **Software developers.** Verify transfer on external [[benchmark|benchmarks]] (MRBench, TutorBench, LongTutor, DeepTutor) before claiming general tutoring improvement; TACTutor matched or exceeded its backbone on all four.
+- **Software developers.** Prefer a compact open backbone you can post-train over a larger proprietary API: the paper frames the recipe as supporting local deployment where inference cost, latency, and conversation confidentiality matter, and as [[pedagogical-llm-training|domain-agnostic]] enough to transfer to math, science, programming, and other languages.
 
 ## Limitations
 

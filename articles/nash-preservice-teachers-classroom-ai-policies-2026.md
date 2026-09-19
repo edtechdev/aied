@@ -1,7 +1,7 @@
 ---
 title: "Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -37,20 +37,11 @@ institutions: [educational-policy-ai]
 - **Analysis:** two researchers coded independently in synchronous sessions, built an Excel matrix of allowed, disallowed, and unclear uses, then reconciled into 21 categories across 27 data sets — 567 classifications with 98% agreement (555/567), with consensus discussion and member checking for the remainder.
 - **Limitations:** a single two-class context, no empirical evidence from participants' actual teaching placements, and policies written speculatively for anticipated classrooms rather than enacted ones; the authors caution against generalization.
 
-## Implications for AI in Education
-
-- **Policy writing is a high-value teacher-education activity:** Asking preservice teachers to author their own classroom AI policies surfaces their philosophies, beliefs, and curricular assumptions better than abstract discussion — it functions as rhetorical world-building about what writing is for.
-- **Teacher education must help PSTs deconstruct writing into its component parts:** AI separates writing-as-product from writing-as-process. Programs should support teachers in asking where thinking, learning, and value actually live across brainstorming, drafting, revising, and editing — rather than locating thinking only in final text.
-- **Ambiguity is a policy defect, not a neutral choice:** Contradictory rules (no AI text, but you are responsible for AI text you submit) leave students unable to comply; teachers need support translating beliefs into operational, unambiguous language and into [[ai-literacy]] instruction.
-- **Reading deserves parity with writing:** With 22 of 27 policies silent on AI and reading, the field risks siloing critical evaluation and close-reading habits away from the digital spaces where most reading now happens — teachers should address AI-supported reading, summarization, and information literacy explicitly.
-- **Institutions must equip teachers to resist as well as adopt:** The authors distinguish principled refusal from ignorance; districts and programs should provide the guidance, [[educational-development|professional development]], and policy infrastructure that let teachers decline specific AI uses without being framed as behind the times.
-- **Technodeterminism should be interrogated, not assumed:** The obligation PSTs felt to integrate AI often contradicted their own [[pedagogy|pedagogical]] commitments; teacher educators should make the discourse of inevitability an explicit object of study and give teachers the [[agency]] to choose.
-
 ## What this means for practice
 
 - **Instructors.** Write reading into your classroom AI policy: 22 of the 27 policies studied did not mention reading at all, leaving AI-supported summarization and comprehension ungoverned while writing received detailed rules.
-- **Instructors.** Operationalize the boundary instead of gesturing at it — 22 of the 27 policies allowed AI ideation while only one explicitly banned it, and language such as "this is where the line should be drawn" gives students no rule to follow.
-- **Faculty developers.** Make classroom AI policy authoring a core activity in [[teacher-education|teacher preparation]]; it surfaces beliefs about writing, reading and [[critical-thinking]] more sharply than abstract discussion of [[generative-ai|generative AI]].
+- **Instructors.** Operationalize the boundary instead of gesturing at it — 22 of the 27 policies allowed AI ideation while only one explicitly banned it, and language such as "this is where the line should be drawn" gives students no rule to follow. Treat ambiguity as a policy defect rather than a neutral choice: contradictory rules (no AI text, but you are responsible for AI text you submit) leave students unable to comply.
+- **Faculty developers.** Make classroom AI policy authoring a core activity in [[teacher-education|teacher preparation]]; it surfaces beliefs about writing, reading and [[critical-thinking]] more sharply than abstract discussion of [[generative-ai|generative AI]]. Pair it with support for deconstructing writing into its component parts, since AI separates writing-as-product from writing-as-process: help teachers ask where thinking, learning and value actually live across brainstorming, drafting, revising and editing rather than locating thinking only in the final text.
 - **Instructors.** Interrogate the assumption that AI integration is unavoidable: participants who privately doubted its value still adopted it, so establish explicit grounds on which a use can be declined and treat technodeterminism as a discourse to examine.
 - **Researchers.** Treat teacher-authored policies and reflections as discourse data, and replicate the design in states and districts that do issue AI guidance.
 

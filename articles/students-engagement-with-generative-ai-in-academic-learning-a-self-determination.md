@@ -1,7 +1,7 @@
 ---
 title: "Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, motivation, self-regulated-learning]
@@ -31,9 +31,12 @@ level: [higher ed]
 
 This [[qualitative-research|qualitative]] case study was conducted at an English-medium university, examining 23 undergraduate students via semi-structured interviews. The authors used **self-determination theory (SDT)** as the primary interpretive framework, treating technology-acceptance perceptions (usefulness, ease of use) as descriptive cues rather than explanatory constructs. Data were analyzed using **reflexive thematic analysis**, complemented by **epistemic network analysis (ENA)** — an educational data-analytics method that models the structural co-occurrence of themes in discourse. 1,015 paragraph-level stanzas from the 23 interviews were coded (with automated coding validated against a manually coded subset); 23.0% contained two or more co-occurring codes. A permutation test (N=500) confirmed the co-occurrence structure significantly deviated from random expectations (p = .002). ENA edges denote the weighted strength of co-occurrence and are interpreted as structural relationships in reasoning, not causal effects.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings support a shift from **prohibition-oriented responses** to GenAI toward transparent institutional guidance, **autonomy-supportive [[scaffolding]]** of verification practices and [[ai-literacy]], and **process-oriented assessment designs** that make students' reasoning visible. The study reframes students' AI use as a motivated, socially [[situated-learning|situated learning]] practice rather than a compliance problem, suggesting institutions should provide clear unified policies and guidance that help students calibrate trust and maintain epistemic control. It demonstrates how [[learning-analytics]] approaches like ENA can help educators examine how AI practices become integrated into learning processes. The findings connect to [[student-experience]], [[self-regulated-learning]], [[cognitive-offloading|Over-Reliance]], [[critical-thinking]], and [[academic-integrity]], and highlight students' broader [[ethics|ethical]] awareness (privacy, bias, sustainability).
+- **Learners.** Make verification part of the routine rather than an occasional check: students whose accounts paired GenAI use with cross-checking against sources were the ones who described keeping conceptual work and judgment in their own hands.
+- **Learners.** Attempt a task independently before consulting the AI when the point is learning rather than speed — the "trust-but-verify" repertoire and the creativity-versus-dependency worries (eight participants) both turned on negotiating autonomy.
+- **Instructors.** Design assessment so the reasoning process is visible, because the central ENA cluster links conceptual support and skill development to cross-checking rather than to delegation.
+- **Instructors.** Put a unified AI policy in writing: twelve participants named the absence of clear institutional guidance as a live problem, and students were left to distinguish legitimate assistance from cheating on their own.
 
 ## Limitations
 

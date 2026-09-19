@@ -1,7 +1,7 @@
 ---
 title: "Teacher education for artificial intelligence literacy through a self-determination theory perspective"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 pedagogy: [motivation, self-determination-theory]
@@ -28,9 +28,12 @@ page_kind: [framework]
 
 This sequential mixed-methods study examined 382 secondary school teachers engaged in AI-focused professional development. **[[quantitative-research|Quantitative]] phase:** participants completed validated SDT-based questionnaires (perceived PD support, autonomy, relatedness, competence) plus measures of AI attitude, AI anxiety, and AI literacy (a 30-item multiple-choice test drawn from the AI4future item bank), and behavioral engagement in online PLCs was objectively measured by posts, replies, reads, sharing, and collaborations. Data were analyzed with confirmatory factor analysis (CFA) and structural equation modeling (SEM), with good model fit (χ²/df = 1.43, RMSEA = .03, CFI = .99). **Qualitative phase:** deductive content analysis of interviews using SDT as the analytic framework identified the nine design strategies, with two independent raters and a moderator (inter-rater reliability = 0.88).
 
-## Implications for AI in Education
+## What this means for practice
 
-The study provides an evidence-based blueprint for designing effective, sustainable AI-focused teacher PD, directly relevant to [[educational-development]], [[professional-training]], and [[teacher-ai-competency]]. It argues that PD providers and universities should structure AI training to explicitly incorporate the nine need-supportive strategies, prioritize building foundational [[ai-literacy]] (the sole direct predictor of PLC engagement), and position PD as a catalyst for self-sustaining learning communities rather than a one-time endpoint. Theoretically, it extends SDT to the AI context, showing that for highly technical domains like AI, knowledge acquisition is the gateway to collaborative participation — a finding that connects to [[motivation]], [[self-determination-theory]], and [[k-12]] [[teacher-education|teacher education]]. It bridges the PD/PLC divide, offering a motivational pathway for scaling and sustaining teacher AI learning.
+- **Faculty developers.** Build the nine need-supportive strategies into the structure of the program (elective AI topics, collaborative co-design, individualized integration targets, non-mandatory completion, expert peer feedback, cross-disciplinary teams, mentorship, mission alignment) rather than adding more AI content to a transmission-style workshop.
+- **Faculty developers.** Sequence foundational [[ai-literacy]] before expecting peer participation: AI literacy was the only learning outcome with a significant direct effect on behavioral engagement in the PLC (β = .39), while attitude (p = .72) and anxiety (p = .18) were not.
+- **Faculty developers.** Treat the program as a catalyst and plan the handoff that keeps the PLC need-supportive after the structured sessions end, since sustaining that culture is where the design is most exposed.
+- **Administrators.** Remove the systemic constraints that undercut need-supportive PD — rigid curricula, limited resources, top-down mandates — because needs satisfaction is what carried the effects on AI literacy (β = .52), attitude (β = .68), and reduced anxiety (β = .66).
 
 ## Limitations
 
