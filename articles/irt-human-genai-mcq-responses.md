@@ -1,7 +1,7 @@
 ---
 title: "Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-19T09:06:00-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -37,11 +37,12 @@ A single MCQ response is just a digit — near-useless for attributing source �
 - **Between-chatbot heterogeneity (RQ2):** Significant PFS divergence among the six chatbots on both instruments. PFS were more sensitive to generation-level shifts than to vendor "family"; older models were statistically indistinguishable from one another, with divergence appearing mainly between older and newer generations. On quantitative reasoning, GPT-5.2 and Gemini 3 formed a distinct cluster vs. older baselines, while Claude 4.5 had a unique profile.
 - **Generational convergence (RQ3):** Gen2 models outperformed Gen1 (e.g., chemistry Gen2 M=80.8% vs. Gen1 71.5% vs. human 71.5%) and simultaneously converged toward human-like patterns — effect sizes for human-divergence shrank sharply (chemistry G: r=0.389→0.060). On the quantitative instrument, Gen2 PFS distributions became statistically non-significant relative to humans; on chemistry they remained significant. Scalograms showed Gen2 shifting toward the Guttman (internally consistent) pattern, meaning their perceived item difficulty more closely mirrors human learners'. The cross-instrument difference may reflect vendors' heavy investment in quantitative reasoning or the Psychometric instrument's open availability to crawlers.
 
-## Implications
+## What this means for practice
 
-- The method provides a probabilistic "wide-brush" marker of high AI use rather than definitive classification — useful for prevalence estimation (e.g., comparing proctored vs. unproctored settings) and for flagging aberrant respondents for in-person verification, following an established rationale from cheating-detection research.
-- Human-GenAI similarity is conceptually distinct from performance: a model can be highly competent yet behaviorally atypical. PFS measure deviation from normative (human-like) test-taking behavior, shifting detection away from the Turing-Test "imitate and surpass" criterion toward surfacing differences rooted in distinct cognitive architectures.
-- Future directions: incorporating choice-level (not just dichotomous) features, extending to textual responses via NLP, testing generalizability across domains and adaptive tests, and estimating GenAI-use prevalence across instructional contexts.
+- **Assessment designers.** Use [[item-response-theory|person-fit statistics]] as a probabilistic, wide-brush marker of heavy GenAI use rather than a classifier: at 5% contamination GenAI responses were significantly more aberrant than human responses on all four measures and both instruments (p < .001), but at 25% contamination the quantitative-reasoning differences became negligible (U3 p = .3222).
+- **Designers.** Plan to refit detection as models update, because separation decays as generators improve: the authors' third research question shows newer chatbots becoming more human-like in their response patterns, so a person-fit threshold calibrated on one generation will not hold for the next.
+- **Researchers.** Report which person-fit statistic you rely on — ZU3 was the most contamination-sensitive and the Guttman error count the least — and extend the approach to choice-level rather than dichotomous features, textual responses via NLP, other domains, and adaptive tests.
+- **Administrators.** Apply the flag for prevalence estimation, such as comparing proctored with unproctored settings, and for routing aberrant respondents to in-person verification, remembering that elevated person-fit can also arise from learning disabilities or test anxiety rather than GenAI use.
 
 ## Limitations
 
