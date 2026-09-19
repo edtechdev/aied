@@ -197,6 +197,16 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   - no source URL recorded on the page
 - **How university students work on assessment tasks with generative AI: matters of judgement** — `walton-bearman-assessment-judgment-2025` (no OpenAlex match at the 0.85 title-similarity bar)
   - no source URL recorded on the page
+### Source file contains a different paper
+
+- `ai-divide-ses-personality-primary-education-2026` - *Decoding Divides: The Role of Socioeconomic Status and
+  Personality Traits in AI Divides and Educational Inequality* (Wang et al.), doi 10.1016/j.caeai.2026.100566.
+  The saved source carried this paper's frontmatter but the body of a different article - Schmucker and Moore on
+  item-writing flaws, article 100632 - so nothing on the page could be grounded against it. No open-access copy
+  is available: Unpaywall reports the work as open access but lists only the DOI landing page, and ScienceDirect
+  returns 403 to a direct request. The mismatched file was renamed with a MISMATCHED suffix so the page resolves
+  as having no full text; the file itself is kept as evidence of what went wrong. Needs the correct PDF.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same

@@ -1,7 +1,7 @@
 ---
 title: "Decoding Divides: The Role of Socioeconomic Status and Personality Traits in AI Divides and Educational Inequality"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:51:16-04:00"
 type: article
 sources: ["raw/papers/ai-divide-ses-personality-primary-education-2026.md"]
 ethics: [digital-divide, equity-in-ai-education]
@@ -20,7 +20,7 @@ level: [elementary]
 - **SES advantages operate independently of AI [[student-engagement|engagement]].** Socioeconomic advantages on performance persist even apart from how students engage with AI, suggesting AI use is neither the main driver of inequality nor an automatic equalizer.
 - The findings point to a more nuanced digital divide in AI-era primary education, where skills and dispositions — not just access or SES — shape who benefits.
 
-## Implications for Practice
+## What this means for practice
 
 - **For primary educators:** Digital literacy and its development matter more than raw AI access or usage; [[teacher-role|teaching]] AI-era digital skills is an equity-relevant intervention.
 - **For policymakers:** Equity policy should target digital-skills formation and personality-supportive learning environments, not merely device or AI-tool access.
