@@ -51,7 +51,7 @@ The illustrative payoffs make the logic concrete. Under prohibition the hidden-u
 
 The most consequential result relaxes the assumption that detection affects only hidden use. Real detectors also implicate legitimate work, and sensitivity is not free: as an institution tries to catch more hidden use, it may also wrongly flag more honest work, so the false-positive rate rises with the true-positive rate. Deterrence therefore depends not on the raw catch rate but on **discrimination**, the gap between correctly flagging hidden use and wrongly flagging legitimate work.
 
-Three conclusions follow. First, the deterrent operates through discrimination; the earlier threshold is the special case of a perfect detector. Second, when false-positive risk falls equally on the discloser and on the student who uses no AI, detection sensitivity leaves the choice between disclosure and no use unchanged, so that margin is settled by the cost of honesty alone — disclosure is protected relative to abstention. Third, and least intuitively, **stronger monitoring can weaken deterrence** when extra sensitivity creates more new false positives than new true positives: honest students are penalised faster than hidden users are identified, and concealment becomes relatively more attractive. Under the illustrative operating curve the payoff gap between hiding and disclosing is U-shaped in detector sensitivity — disclosure is most attractive only in a middle band, with too little discrimination below it and rising false positives above it. The practical implication: before scaling monitoring across a program, an institution should ask how well the process separates hidden use from legitimate work at the threshold it actually uses, and detectors, rules, and disclosure procedures should not be designed separately.
+Three conclusions follow. First, the deterrent operates through discrimination; the earlier threshold is the special case of a perfect detector. Second, when false-positive risk falls equally on the discloser and on the student who uses no AI, detection sensitivity leaves the choice between disclosure and no use unchanged, so that margin is settled by the cost of honesty alone — disclosure is protected relative to abstention. Third, and least intuitively, **stronger monitoring can weaken deterrence** when extra sensitivity creates more new false positives than new true positives: honest students are penalized faster than hidden users are identified, and concealment becomes relatively more attractive. Under the illustrative operating curve the payoff gap between hiding and disclosing is U-shaped in detector sensitivity — disclosure is most attractive only in a middle band, with too little discrimination below it and rising false positives above it. The practical implication: before scaling monitoring across a program, an institution should ask how well the process separates hidden use from legitimate work at the threshold it actually uses, and detectors, rules, and disclosure procedures should not be designed separately.
 
 ## Matching mechanisms to assessment purpose
 
@@ -94,7 +94,7 @@ The model is deliberately stylised: a single representative student, normalized 
 - [[ai-detection]]
 - [[assessment]]
 - [[authentic-assessment]]
-- [[evaluative-judgement]]
+- [[evaluative-judgment]]
 - [[higher-ed]]
 - [[formative-assessment]]
 
@@ -102,14 +102,14 @@ The model is deliberately stylised: a single representative student, normalized 
 
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Detection's evidentiary collapse and the case for procedural justice and design
 - [[ethical-ai-higher-ed-game-theory]] — Coordination-game account of why policy pronouncements rarely change AI behavior
-- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanisation arms race
+- [[karr-ai-detection-humanization-2026]] — Why AI detection fails, and the humanization arms race
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Non-compliance with mandatory AI declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: fear of retribution chills honest reporting
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure as help-seeking, redirected by anxiety toward peers
-- [[luo-dawson-value-judgements-grading-2026]] — Teacher value judgments and the two-way transparency problem
+- [[luo-dawson-value-judgments-grading-2026]] — Teacher value judgments and the two-way transparency problem
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authenticity redesigned rather than policed
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — VARIA: task variation as a no-surveillance integrity mechanism
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
 - [[chirikov-regulate-ai-syllabi-2026]] — Syllabi shifting from integrity framing to task-level regulation
 - [[chen-zou-genai-group-assessment-agency-2026]] — Group norms and the negotiation of acceptable AI use
 

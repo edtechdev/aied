@@ -16,7 +16,7 @@ confidence: high
 discipline: [humanities education]
 ---
 
-> **Synthesis:** **AI-interaction literacy** — Brunnström and Palmqvist (2026) run an eight-round demonstration in which they take the role of a naive student using a [[generative-ai|GenAI]] [[conversational-ai|chatbot]] on a take-home examination question ("Do machines think?"), then analyze the *interaction itself* with the SOLO taxonomy rather than grading the AI's answer. The default output stayed at the [[quantitative-research|quantitative]], multistructural phase — "polished but pedagogically thin" text that a novice could submit without understanding — and reaching the [[qualitative-research|qualitative]] phase required repeated meta-level interventions from the learner ("simplify", "this is overwhelming, can you condense it?"). Their central claim: productive GenAI use demanded *the very [[self-regulated-learning|self-regulatory skills]] the tool was expected to support*, so the interaction itself became an object of [[regulation]]. The paper names this capacity **AI-interaction literacy** — the ability to steer, evaluate, and learn from iterative interaction with GenAI — and proposes that [[assessment|take-home assessments]] emphasise the qualitative phase while recall-based knowledge moves to in-class formats.
+> **Synthesis:** **AI-interaction literacy** — Brunnström and Palmqvist (2026) run an eight-round demonstration in which they take the role of a naive student using a [[generative-ai|GenAI]] [[conversational-ai|chatbot]] on a take-home examination question ("Do machines think?"), then analyze the *interaction itself* with the SOLO taxonomy rather than grading the AI's answer. The default output stayed at the [[quantitative-research|quantitative]], multistructural phase — "polished but pedagogically thin" text that a novice could submit without understanding — and reaching the [[qualitative-research|qualitative]] phase required repeated meta-level interventions from the learner ("simplify", "this is overwhelming, can you condense it?"). Their central claim: productive GenAI use demanded *the very [[self-regulated-learning|self-regulatory skills]] the tool was expected to support*, so the interaction itself became an object of [[regulation]]. The paper names this capacity **AI-interaction literacy** — the ability to steer, evaluate, and learn from iterative interaction with GenAI — and proposes that [[assessment|take-home assessments]] emphasize the qualitative phase while recall-based knowledge moves to in-class formats.
 
 ## Overview
 
@@ -56,7 +56,7 @@ The authors expected GenAI might serve as a personalized tutor for students with
 
 1. **For students:** engage the course literature and treat the system as a conversational partner for self-regulated learning rather than a generator of ready-made answers; productive use requires informed, iterative [[prompt-engineering|prompting]], requests for simplification, and reflection against one's own developing understanding.
 2. **For teachers:** develop an explicit strategy for teaching GenAI-supported self-regulated learning, with particular attention to students with lower academic self-efficacy, including how to formulate productive prompts, recognize when a response is too abstract or broad, and structure a session around small goals.
-3. **For assessing outcomes:** because GenAI is powerful at quantitative, factoid-type content, take-home assessments should emphasise the qualitative phase of the SOLO taxonomy, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable.
+3. **For assessing outcomes:** because GenAI is powerful at quantitative, factoid-type content, take-home assessments should emphasize the qualitative phase of the SOLO taxonomy, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable.
 
 ## Implications
 
@@ -79,7 +79,7 @@ The authors expected GenAI might serve as a personalized tutor for students with
 - [[assessment]]
 - [[academic-integrity]]
 - [[cognitive-offloading]]
-- [[evaluative-judgement]]
+- [[evaluative-judgment]]
 - [[prompt-engineering]]
 - [[self-efficacy]]
 - [[summative-assessment]]

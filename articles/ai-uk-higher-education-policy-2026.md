@@ -27,7 +27,7 @@ institutions: [change-management, educational-policy-ai, governance]
 
 ## Background and Method
 
-This is a [[meta-analysis-systematic-review|systematic literature review]] of how [[generative-ai|AI]] is positioned within UK higher-education policy and its influence on institutional pedagogical decision making. It draws on peer-reviewed studies, grey literature, theoretical models, and policy reports to explore institutional responses, readiness, and barriers to AI adoption for teaching and learning. Three research questions guide the review: (1) how AI is framed in UK policy and institutional strategies, (2) what evidence shows AI's influence on pedagogical decision-making, and (3) what challenges exist in current UK AI policy. The review follows a PRISMA-informed search and screening procedure and synthesises findings across more than seventy sources.
+This is a [[meta-analysis-systematic-review|systematic literature review]] of how [[generative-ai|AI]] is positioned within UK higher-education policy and its influence on institutional pedagogical decision making. It draws on peer-reviewed studies, gray literature, theoretical models, and policy reports to explore institutional responses, readiness, and barriers to AI adoption for teaching and learning. Three research questions guide the review: (1) how AI is framed in UK policy and institutional strategies, (2) what evidence shows AI's influence on pedagogical decision-making, and (3) what challenges exist in current UK AI policy. The review follows a PRISMA-informed search and screening procedure and synthesizes findings across more than seventy sources.
 
 ## Framing of AI in UK Higher-Education Policy
 

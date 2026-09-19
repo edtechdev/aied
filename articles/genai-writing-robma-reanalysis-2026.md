@@ -20,10 +20,10 @@ confidence: high
 
 1. **The original claim being re-examined.** Dong's meta-analysis reported that generative AI has a large impact on writing outcomes, Hedge's *g* = 0.76 [0.18, 1.35] — characterized in this note as a "strong impact" and treated as the target of the re-analysis.
 2. **The original analysis was already flagged as fragile by its own results.** It reported strong heterogeneity, publication bias, extreme outliers (one study at *g* = 3.752 [2.52, 4.98]) and only *k* = 13 studies. The original author's robustness techniques, trim-and-fill and leave-one-out meta-analysis, are described here as sometimes harming rather than helping trustworthiness.
-3. **Under RoBMA the average effect essentially disappears.** The initial model put the effect of GenAI on writing at *g* = .018 [−0.377, 0.553] with a Bayes factor of 0.320 — "substantially lower" than the original estimate and evidence in favour of the null rather than the effect.
+3. **Under RoBMA the average effect essentially disappears.** The initial model put the effect of GenAI on writing at *g* = .018 [−0.377, 0.553] with a Bayes factor of 0.320 — "substantially lower" than the original estimate and evidence in favor of the null rather than the effect.
 4. **Heterogeneity was the dominant feature of the model.** Posterior probability for heterogeneity reached 100% (BF > 49,999), and publication bias was also probable (PP = 98.6%, BF = 71.254). Evidence for selection bias specifically was very low, and model fitness checks (autocorrelation and trace plots) were acceptable.
 5. **The result hinged on a small-study-bias model and one outlier.** The outcome appeared driven mainly by the PEESE model and the outlier study. With the outlier removed, evidence for publication bias weakened to BF = 1.74 and PEESE became less influential, yet heterogeneity stayed high and the effect was *g* = 0.245 [−0.128, 0.87], a weak effect indiscernible from statistical noise.
-6. **The priors were mostly RoBMA defaults, with one explicit informative prior.** Defaults "assume bias and draw parameter estimates closer to zero." Only the average-effect parameter was set explicitly: μ ~ Normal(.40, 1), justified by Hattie's finding that educational intervention effects across more than 2,000 effect sizes usually centre near *d* = .40. Estimation used 10,000 samples and 5 chains to raise the effective sample size.
+6. **The priors were mostly RoBMA defaults, with one explicit informative prior.** Defaults "assume bias and draw parameter estimates closer to zero." Only the average-effect parameter was set explicitly: μ ~ Normal(.40, 1), justified by Hattie's finding that educational intervention effects across more than 2,000 effect sizes usually center near *d* = .40. Estimation used 10,000 samples and 5 chains to raise the effective sample size.
 7. **The frequentist results were reproduced before the Bayesian re-analysis.** The original frequentist analysis was reproduced with the `metafor` package using the author's publicly available data; the software or code used for the original analysis was not detailed in the original article. Conclusion stated plainly: after correcting for heterogeneity and small-study bias, the re-analysis "doesn't support the original claim of strong effects."
 
 ## What question the note asks, and which analysis it re-examines
@@ -46,7 +46,7 @@ The limits are as real as the critique. The re-analysis concerns one outcome, wr
 
 ## Connected Concepts
 
-- [[meta-analysis-systematic-review]] — the study design being re-analysed and the design of the re-analysis itself
+- [[meta-analysis-systematic-review]] — the study design being re-analyzed and the design of the re-analysis itself
 - [[research-methods-aied]] — methodological critique as a contribution to the AI-in-education evidence base
 - [[limitations-in-aied-research]] — fragile effect sizes, small study counts and heterogeneity as field-level problems
 - [[generative-ai]] — the intervention whose effect on writing is at issue

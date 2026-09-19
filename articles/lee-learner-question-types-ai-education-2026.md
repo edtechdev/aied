@@ -36,7 +36,7 @@ confidence: high
 - **Augmentation:** Back-translation and paraphrasing expanded underrepresented categories, producing a balanced 582-question corpus reviewed by experts for alignment with role definitions.
 - **Model comparison:** Baseline BERT (no fine-tuning), fine-tuned BERT (last three layers updated), DeBERTa, and RoBERTa, trained with a 70/15/15 train-validation-test split, 128-token maximum length, batch size 8, learning rate 2e-5, ReduceLROnPlateau scheduling, and early stopping (patience = 20 epochs) on Python 3.8, PyTorch 1.12.0, CUDA 11.2, and an NVIDIA RTX3070 GPU.
 - **Evaluation and error analysis:** Accuracy, precision, recall, F1, and confusion matrices for [[quantitative-research|quantitative]] comparison, followed by manual [[qualitative-research|qualitative]] review of misclassified questions to derive [[educational-nlp|NLP]] failure patterns.
-- **[[ethics]]:** Anonymised, non-identifiable student data with informed oral consent; participation was voluntary and unlinked to assessment, and [[governance|institutional]] guidance classified the study as low-risk, requiring no formal ethics review.
+- **[[ethics]]:** Anonymized, non-identifiable student data with informed oral consent; participation was voluntary and unlinked to assessment, and [[governance|institutional]] guidance classified the study as low-risk, requiring no formal ethics review.
 
 ## Implications for AI in Education
 

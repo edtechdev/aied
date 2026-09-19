@@ -22,7 +22,7 @@ confidence: high
 ## Key Findings
 
 1. **Open science is the template, not a metaphor.** The Center for Open Science's Transparency and Openness Promotion Guidelines exist to "increase the verifiability of empirical research claims"; Boysen argues teachers can adopt analogous practices to increase the verifiability of student learning, because both fields face a collapse of trust in unsupervised outputs.
-2. **Both existing responses keep the focus on products.** Banning AI requires technology-free tasks or AI-detection scanning, and "all current methods of AI detection are susceptible to false positives and false negatives"; embracing AI by rewriting learning outcomes to include it still evaluates the finished artefact. The proposal targets the documented process instead.
+2. **Both existing responses keep the focus on products.** Banning AI requires technology-free tasks or AI-detection scanning, and "all current methods of AI detection are susceptible to false positives and false negatives"; embracing AI by rewriting learning outcomes to include it still evaluates the finished artifact. The proposal targets the documented process instead.
 3. **Preregistration becomes a shared plan for learning.** Set before students start, it lists every required project step and its timing, extends the Transparency in Learning and Teaching (TILT) advice about purpose, tasks and success criteria, and is authored primarily by the [[teacher-role|teacher]].
 4. **An analysis plan governs sources, including AI.** Teachers must state which AI uses are required, allowable and forbidden, and students document use directly rather than only disclosing it at the end, for example by exporting full chat transcripts with metadata.
 5. **Data transparency means sharing the actual sources.** Students submit links or PDFs, share libraries built in Mendeley or Zotero, expose highlights and annotations through tools such as Perusall, and can record the databases, search terms and limiters used to find sources.
@@ -32,7 +32,7 @@ confidence: high
 
 ## The problem: a final product cannot be attributed
 
-Boysen opens with Kahneman's 2012 warning that social psychology had become "the poster child for doubts about the integrity of psychological research", and its remedy, transparency in scientific practice. He then maps the situation onto [[higher-ed|higher education]] in 2025. The traditional contract of college coursework is unsupervised work followed by submission of a final product for evaluation: the generic research paper, but also presentations, unproctored exams, online discussions, literature reviews and data analyses. For all of these, [[generative-ai|generative AI]] can now do most of the work, so teachers "can no longer assume that unsupervised student work is an accurate reflection of their ability to achieve traditional learning goals". The quintessential artefact of [[assessment]] no longer carries reliable information about the student who submits it.
+Boysen opens with Kahneman's 2012 warning that social psychology had become "the poster child for doubts about the integrity of psychological research", and its remedy, transparency in scientific practice. He then maps the situation onto [[higher-ed|higher education]] in 2025. The traditional contract of college coursework is unsupervised work followed by submission of a final product for evaluation: the generic research paper, but also presentations, unproctored exams, online discussions, literature reviews and data analyses. For all of these, [[generative-ai|generative AI]] can now do most of the work, so teachers "can no longer assume that unsupervised student work is an accurate reflection of their ability to achieve traditional learning goals". The quintessential artifact of [[assessment]] no longer carries reliable information about the student who submits it.
 
 The two obvious responses both fail on his account. Banning AI means designing technology-free assignments, closed-book tests, handwritten essays or oral exams, which pose practical difficulties and do not suit every learning goal, or surveilling work with style reading and [[ai-detection|AI-detection software]] that is prone to both false positives and false negatives. The alternative, embracing AI as an essential skill, adjusts outcomes so students may use AI, but this too evaluates a product. Boysen's diagnosis is that both approaches remain product-centred, whereas the AI era "calls for a different approach, one that is focused on documentation of the learning process".
 
@@ -46,7 +46,7 @@ The limits are worth naming, though Boysen presses the parallel hard. Open scien
 
 For teachers, adoption is front-loaded. Preregistration requires writing a plan that enumerates project steps and due dates alongside the final requirements; the analysis plan requires an explicit statement of acceptable sources and an explicit description of AI uses that are required, allowable and forbidden; grading requires deciding how much structure to impose and how to score compliance. Boysen sketches the range: at one extreme a teacher stipulates every detail, at the other a teacher simply asks for a portfolio at the end. Evaluation can be a prerequisite for earning any grade on the work, a specifications-style credit for meeting minimum requirements, or a rubric-scored element when the practices themselves are the learning goal.
 
-For students, the demands are equally concrete and amount to a different way of working. They export AI chat transcripts, maintain shared reference libraries, annotate what they read, save successive drafts with version history intact, and explain what informed each revision, whether teacher comments, a writing centre, grammar tools or an AI review. Boysen frames this as [[self-regulated-learning|self-regulation]] made visible, and argues the documented steps also reduce procrastination and the incentive to take expedient shortcuts. The [[pedagogical-partnerships|shared plan]] reframes the teacher as a partner who reviews work in progress rather than an examiner who receives a finished object.
+For students, the demands are equally concrete and amount to a different way of working. They export AI chat transcripts, maintain shared reference libraries, annotate what they read, save successive drafts with version history intact, and explain what informed each revision, whether teacher comments, a writing center, grammar tools or an AI review. Boysen frames this as [[self-regulated-learning|self-regulation]] made visible, and argues the documented steps also reduce procrastination and the incentive to take expedient shortcuts. The [[pedagogical-partnerships|shared plan]] reframes the teacher as a partner who reviews work in progress rather than an examiner who receives a finished object.
 
 ## Objections, feasibility and what the author concedes
 
@@ -66,7 +66,7 @@ This is a position paper, not an empirical study. Boysen offers a conceptual tra
 - [[assessment]] — relocated from final product to documented process, which is the paper's central move
 - [[assessment-validity]] — the claim that unsupervised work no longer supports inferences about learning
 - [[authentic-assessment]] — process evidence, portfolios and revisions as the observable object of evaluation
-- [[formative-assessment]] — early, learning-focused intervention on work in progress rather than final judgement
+- [[formative-assessment]] — early, learning-focused intervention on work in progress rather than final judgment
 - [[generative-ai]] — the capability that broke the assumption of attributable student work
 - [[higher-ed]] — the sector-wide context of the proposed change
 - [[pedagogical-partnerships]] — the shared learning plan as a negotiated agreement between teacher and student
@@ -75,7 +75,7 @@ This is a position paper, not an empirical study. Boysen offers a conceptual tra
 
 ## Connected Articles
 
-- [[authentic-products-authenticated-processes-2026]] — The product-versus-process reframing that Boysen's proposal operationalises
+- [[authentic-products-authenticated-processes-2026]] — The product-versus-process reframing that Boysen's proposal operationalizes
 - [[beyond-detection-authentic-assessment-ai-2025]] — Moving past detection toward assessment that can attribute learning
 - [[end-of-assessment-ai-disruption-transformation-2026]] — How GenAI disrupts established assessment and what replaces it
 - [[ivory-psychology-assessment-integrity-2026]] — Assessment integrity in psychology teaching, the disciplinary home of this proposal

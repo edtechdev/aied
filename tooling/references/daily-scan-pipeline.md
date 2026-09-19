@@ -191,7 +191,7 @@ When using listing-page extraction (broad keyword scan across all four arXiv cat
 - Abstract verification reduces to ~3 genuinely AIED papers
 - Remaining ~19 are false positives: ML training methods ("teacher" in teacher-forcing), knowledge distillation ("student" in student networks), general HCI, or domain-specific AI without education context
 
-This is expected behaviour, not a filter failure. The two-stage filtering in `references/aied-relevance-filtering.md` handles this correctly. When reporting in the summary, distinguish "scanned" (total papers in date window across all categories) from "AIED-relevant" (after abstract verification) so the user understands the yield ratio.
+This is expected behavior, not a filter failure. The two-stage filtering in `references/aied-relevance-filtering.md` handles this correctly. When reporting in the summary, distinguish "scanned" (total papers in date window across all categories) from "AIED-relevant" (after abstract verification) so the user understands the yield ratio.
 
 ### Index Count Drift After Rebuild
 

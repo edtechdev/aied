@@ -50,7 +50,7 @@ The authors are careful to keep this pattern at some distance: restraint may als
 
 ### Non-enacted agency: capabilities that never reach the group
 
-In three groups, the group setting changed nothing. Work was partitioned into discrete subtasks ("We usually divide into different parts… it's the same [as individual work]… because we work on individual platforms," RG10), and while individual students described sophisticated GenAI use, they never contributed those capabilities to the group. Because the instructor had made coherence an explicit criterion and it still did not mobilise collective practice, the authors argue that individual capability does not produce [[agency|collective agency]] on its own — and that how students perceive and have experienced prior collaboration is a prior condition that the GenAI literature has largely skipped.
+In three groups, the group setting changed nothing. Work was partitioned into discrete subtasks ("We usually divide into different parts… it's the same [as individual work]… because we work on individual platforms," RG10), and while individual students described sophisticated GenAI use, they never contributed those capabilities to the group. Because the instructor had made coherence an explicit criterion and it still did not mobilize collective practice, the authors argue that individual capability does not produce [[agency|collective agency]] on its own — and that how students perceive and have experienced prior collaboration is a prior condition that the GenAI literature has largely skipped.
 
 ## What the study adds
 

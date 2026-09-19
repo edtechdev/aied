@@ -19,7 +19,7 @@ audience: [researchers, instructors, designers]
 
 ## Core Argument
 
-**Performance and learning are distinct constructs, and the distinction is well established outside [[ai-education|AIED]].** Performance is observable behaviour during task execution, and it is sensitive to external support — a learner's output can improve because a tool supplied something, not because the learner changed. Learning is an enduring change in knowledge or behaviour that follows from experience, and it is demonstrated by *independently retaining and transferring* what was learned (Soderstrom & Bjork, 2015 — the piece's central citation). Their illustration is pre-AI and deliberately mundane: a student can perform well on a test after cramming the night before and still fail to retain or apply the knowledge a week later. Performance was high; learning did not happen.
+**Performance and learning are distinct constructs, and the distinction is well established outside [[ai-education|AIED]].** Performance is observable behavior during task execution, and it is sensitive to external support — a learner's output can improve because a tool supplied something, not because the learner changed. Learning is an enduring change in knowledge or behavior that follows from experience, and it is demonstrated by *independently retaining and transferring* what was learned (Soderstrom & Bjork, 2015 — the piece's central citation). Their illustration is pre-AI and deliberately mundane: a student can perform well on a test after cramming the night before and still fail to retain or apply the knowledge a week later. Performance was high; learning did not happen.
 
 **The AIED literature mostly reports performance while calling it learning.** The paper's indictment is specific. A [[meta-analysis-systematic-review|meta-analysis]] of 69 experimental studies of ChatGPT and other generative AI tools in [[k-12]] and tertiary education set out to measure the impact on "student learning" — and reported that the tools improve student "academic performance" with a Hedge's *g* of 0.7 (Deng et al., 2025). The effect size is large, and the authors' reading is that it "probably reflects immediate task success rather than learning." The conflation is not a wording slip: it is in the outcome measures, in the labels attached to them, and in how the magnitude is then reported onward.
 
@@ -86,7 +86,7 @@ The distinction changes what a study has to measure, and the knowledge base alre
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling what gets offloaded in LLM-mediated writing
 - [[shaw-nave-cognitive-surrender-2026]] — Cognitive surrender as a disposition, not an accident
 - [[weidlich-chatgpt-effect-search-cause-2025]] — An effect in search of a cause: the same critique of headline effect sizes
-- [[pedagogy-ai-mistakes]] — Using AI errors as learning opportunities rather than outsourcing judgement
+- [[pedagogy-ai-mistakes]] — Using AI errors as learning opportunities rather than outsourcing judgment
 - [[zerkouk-comprehensive-review-its-2025]] — Intelligent tutoring evidence that conflates task success with learning
 
 ## Citation

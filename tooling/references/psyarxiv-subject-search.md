@@ -71,11 +71,11 @@ both steps.
 
 `attributes.doi` on the OSF API record is usually `null` for preprints posted in
 the last days or weeks — PsyArXiv mints DOIs later. `--dateCreated` is the
-posting date the scan window should use. Never synthesise a DOI; cite
+posting date the scan window should use. Never synthesize a DOI; cite
 `https://osf.io/<id>` until the API reports a real one.
 
 ## Fetcher
 
 `tooling/scripts/fetch-psyarxiv-edpsych.py` — reads the `trove_search` source
 from `wiki.config.yaml` → `scan.sources`, emits one JSON record per line
-(newest first, versions collapsed by normalised title).
+(newest first, versions collapsed by normalized title).

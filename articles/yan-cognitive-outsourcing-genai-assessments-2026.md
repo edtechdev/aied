@@ -42,7 +42,7 @@ confidence: high
 - **Replace prohibitions with task-specific guidance:** Instructors should articulate which cognitive tasks students must retain ownership of and which forms of GenAI assistance are appropriate for each [[assessment]], since blanket plagiarism bans leave students to default to low-effort, fragmented use.
 - **Design assessments for process, not just product:** Requiring intermediate artifacts such as reflections on how GenAI was used alongside other learning activities makes the workflow visible and incentivises [[student-engagement|deliberate engagement]]; making reasoning an explicit object of evaluation shifts students away from producing polished text.
 - **Target the efficiency paradox directly:** The largest at-risk group holds mastery goals but lacks the [[metacognition|metacognitive]] strategies to avoid detrimental [[cognitive-offloading|offloading]] by default — pedagogical support should focus on monitoring, reflection and dialogue competence for this group.
-- **Reconsider what counts as learning:** When GenAI removes the searching burden, cognitive effort is reallocated rather than reduced, raising questions about whether surface output quality can evidence genuine learning and pushing assessment toward [[evaluative-judgement|judgment]] and process evidence.
+- **Reconsider what counts as learning:** When GenAI removes the searching burden, cognitive effort is reallocated rather than reduced, raising questions about whether surface output quality can evidence genuine learning and pushing assessment toward [[evaluative-judgment|judgment]] and process evidence.
 - **Treat GenAI as a potential co-regulator:** Under sustained reflective dialogue, GenAI can take on more-knowledgeable-other-like functions — prompting, explaining and offering alternatives — but only when learners have enough [[ai-literacy|GenAI literacy]] to structure the interaction ([[human-ai-collaboration]]).
 
 ## Connected Concepts
@@ -60,7 +60,7 @@ confidence: high
 
 - [[misiejuk-cognitive-offloading-prompting-2026]] — Prompting and cognitive offloading in GenAI-supported learning
 - [[lodge-loble-cognitive-offloading-2026]] — Detrimental versus beneficial cognitive offloading framework
-- [[walton-bearman-assessment-judgement-2025]] — How students work on assessment tasks with GenAI: matters of judgment
+- [[walton-bearman-assessment-judgment-2025]] — How students work on assessment tasks with GenAI: matters of judgment
 - [[student-ai-conversations-cognitive-engagement-2026]] — Analyzing student–GenAI conversations for cognitive engagement
 - [[ai-tools-academic-work-cheating-2026]] — Student perceptions of AI-assisted academic work as cheating
 

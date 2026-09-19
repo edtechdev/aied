@@ -61,7 +61,7 @@ A central transformation claim is that assessment shifts from extracting scores 
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world
 - [[ai-assessment-scale-reform]] — AI Assessment Scale and reform
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for the age of generative AI
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for the age of generative AI
 
 ## Citation
 

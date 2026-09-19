@@ -17,7 +17,7 @@ confidence: high
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Kumar, Wongsirichot and Nanthaamornphong (2026) synthesise **72 peer-reviewed empirical studies** from **33 venues** (January 2022 – April 2026) on [[generative-ai|generative AI]] in [[cs-education|computing education]] across four questions — effects on learning, [[cognitive-offloading|over-reliance]], assessment and integrity, and [[pedagogy]] — and consolidate them into 14 themes. The most robustly replicated finding is also the most misleading: GenAI reliably raises short-term completion and reduces time-on-task (36 studies, strongest evidence in the corpus), yet those efficiency gains "do not transfer to independent performance" (21 studies) — students complete more while understanding less unless critical [[student-engagement|engagement]] with the output is structurally required. Benefit also depends on [[prior-knowledge|prior knowledge]], with well-prepared students converting AI help into durable skill while under-prepared students risk using it as a crutch. The review's integrative contribution is the **VIE Framework** — Verification, Implementation, and Equity — three interdependent design requirements, each with documented failure modes when treated in isolation.
+> **Synthesis:** Kumar, Wongsirichot and Nanthaamornphong (2026) synthesize **72 peer-reviewed empirical studies** from **33 venues** (January 2022 – April 2026) on [[generative-ai|generative AI]] in [[cs-education|computing education]] across four questions — effects on learning, [[cognitive-offloading|over-reliance]], assessment and integrity, and [[pedagogy]] — and consolidate them into 14 themes. The most robustly replicated finding is also the most misleading: GenAI reliably raises short-term completion and reduces time-on-task (36 studies, strongest evidence in the corpus), yet those efficiency gains "do not transfer to independent performance" (21 studies) — students complete more while understanding less unless critical [[student-engagement|engagement]] with the output is structurally required. Benefit also depends on [[prior-knowledge|prior knowledge]], with well-prepared students converting AI help into durable skill while under-prepared students risk using it as a crutch. The review's integrative contribution is the **VIE Framework** — Verification, Implementation, and Equity — three interdependent design requirements, each with documented failure modes when treated in isolation.
 
 ## Overview
 
@@ -69,7 +69,7 @@ The requirements are presented as bidirectional: verification practices fail wit
 
 ## Theoretical grounding
 
-The authors connect the requirements to three instructional-design traditions, answering the recurrent criticism that GenAI course-design proposals are under-theorised. **4C/ID** (van Merriënboer and Kirschner) grounds Verification and graduated access most directly: graduated AI access is a fading schedule applied to a powerful new form of support, and scaffold withdrawal is precisely the diminishing-support principle the model predicts is necessary for transfer — while the pseudo-apprenticeship pattern is the long-recognized limitation of modeling without whole-task practice. The **[[desirable-difficulties]]** framework (Bjork and Bjork) and the **[[sociocultural-learning|zone of proximal development]]** (Vygotsky) explain the prior-knowledge moderation: AI assistance helps only when the learner already has enough schema to engage critically with the output.
+The authors connect the requirements to three instructional-design traditions, answering the recurrent criticism that GenAI course-design proposals are under-theorized. **4C/ID** (van Merriënboer and Kirschner) grounds Verification and graduated access most directly: graduated AI access is a fading schedule applied to a powerful new form of support, and scaffold withdrawal is precisely the diminishing-support principle the model predicts is necessary for transfer — while the pseudo-apprenticeship pattern is the long-recognized limitation of modeling without whole-task practice. The **[[desirable-difficulties]]** framework (Bjork and Bjork) and the **[[sociocultural-learning|zone of proximal development]]** (Vygotsky) explain the prior-knowledge moderation: AI assistance helps only when the learner already has enough schema to engage critically with the output.
 
 ## Implications for practice
 
@@ -98,7 +98,7 @@ A single reflective synthesis carries two kinds of caveat here. The corpus skews
 - [[higher-ed]]
 - [[assessment]]
 - [[summative-assessment]]
-- [[evaluative-judgement]]
+- [[evaluative-judgment]]
 - zone of proximal development
 - desirable difficulties
 - cognitive load

@@ -92,12 +92,12 @@ What the design does establish is a method that is cheap, replicable, and diagno
 - [[stem-education]] — why the grading architecture described here is not biology-specific
 
 ## Connected Articles
-- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology programme 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
+- [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Review of academic dishonesty and automated proctoring in the AI era
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
-- [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work
+- [[ai-tools-academic-work-cheating-2026]] — Student cheating behavior with AI tools in academic work
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment in an AI-Mediated World
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI and authentic assessment integrity (Kofinas et al. 2025)

@@ -55,7 +55,7 @@ A dimension-specific pattern recurs across this literature, and it is a useful d
 
 ### Designing AI writing support: coaching, not composing
 
-Because writing has no single correct answer, AI writing tools require a different design from answer-verifiable tutors. The knowledge base's design guidance (see the worked **AI writing coach** example in the FAQ on [[developing-ai-tutor|Designing an AI Tutor]]) centers on preserving authorship and [[evaluative-judgement|evaluative judgment]] rather than producing finished text:
+Because writing has no single correct answer, AI writing tools require a different design from answer-verifiable tutors. The knowledge base's design guidance (see the worked **AI writing coach** example in the FAQ on [[developing-ai-tutor|Designing an AI Tutor]]) centers on preserving authorship and [[evaluative-judgment|evaluative judgment]] rather than producing finished text:
 
 - **Track writing capabilities, not just essay scores.** A writing coach's [[student-modeling|learner model]] can track argument (thesis specificity, claim–evidence alignment, counterargument), organization, evidence integration, revision, and style — so feedback targets capabilities that persist across essays.
 - **Ground feedback in the assignment.** Retrieve the actual prompt, rubric, course readings, citation and genre conventions, and AI-use policy so feedback references the specific assignment rather than inventing generic expectations.

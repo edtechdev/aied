@@ -288,7 +288,6 @@ concepts:
     aliases:
     - behavioral learning theory
     - behaviorism
-    - behaviourism
   benchmark:
     title: Benchmark
     aliases:
@@ -667,6 +666,7 @@ concepts:
     aliases:
     - appraising quality
     - calibrating judgement
+    - calibrating judgment
     - evaluative judgement
     - evaluative judgements
     - evaluative judgment
@@ -1753,16 +1753,17 @@ concepts:
   technology-acceptance-model:
     title: Technology Adoption Models
     aliases:
+    - TAM
     - adoption model
     - diffusion of innovation
     - perceived ease of use
     - perceived usefulness
-    - TAM
     - technology acceptance
     - technology acceptance model
     - technology adoption
     - technology adoption model
     - technology organisation environment
+    - technology organization environment
     - theory of planned behavior
     - utaut
   theory-development-aied:

@@ -26,7 +26,7 @@ Two [[ethics|ethical]] features are reported with unusual candour and are worth 
 
 ## Reported Use and Frequency
 
-Twenty-three respondents (88.5%) reported using AI tools for studying and three (11.5%) did not. Reported frequency was **daily for nine (34.6%), weekly for ten (38.5%), rarely for six (23.1%), and never for one (3.8%)** — a distribution in which reported use is routine for most of the sample but not universal. The instrument listed ChatGPT, Google Gemini, Bing AI/Copilot, and "other" alongside a "do not use AI tools" option, though the analysis centres on aggregate frequency rather than tool-by-tool breakdowns.
+Twenty-three respondents (88.5%) reported using AI tools for studying and three (11.5%) did not. Reported frequency was **daily for nine (34.6%), weekly for ten (38.5%), rarely for six (23.1%), and never for one (3.8%)** — a distribution in which reported use is routine for most of the sample but not universal. The instrument listed ChatGPT, Google Gemini, Bing AI/Copilot, and "other" alongside a "do not use AI tools" option, though the analysis centers on aggregate frequency rather than tool-by-tool breakdowns.
 
 The paper positions these numbers against systematic-review evidence that is deliberately paired rather than one-sided: reviews of ChatGPT in education document on-demand explanations, feedback, personalized support, and learning opportunities (Albadarin et al., 2024; Lo et al., 2024a) while also flagging inaccurate information, privacy, dishonesty, and overreliance, with Lo et al. noting that evidence on cognitive engagement and [[critical-thinking|critical thinking]] remains comparatively weak and needs objective measures. The author's framing follows from this: students' perceptions are worth documenting, but perceived improvement should not be equated with objectively measured performance.
 
@@ -36,7 +36,7 @@ The productivity results contain the page's most interesting internal tension. O
 
 On overall study time the picture inverts. Asked directly whether AI reduced their study time, **ten (38.5%) said yes, 13 (50.0%) said no, and three (11.5%) were unsure.** Most respondents experienced AI as making an individual task faster while a majority did not experience the total study process as shorter. The author's interpretation is that completing a task more quickly does not necessarily shorten learning: students may use the time saved to ask further questions, explore additional material, revise outputs, or verify information.
 
-That reading matters beyond this sample because it names a measurement problem in productivity claims more broadly. Efficiency measured at the level of one assignment is not the same quantity as time-on-task across a course, and a saving in the first can coexist with no change, or an increase, in the second. In the vocabulary of the wider literature this is the difference between an [[efficiency-gain-illusion-ai-overreliance|efficiency gain on a task]] and a genuine reduction in work — and it is consistent with behavioural evidence that time on AI-susceptible problems falls while performance on proctored retention items does not necessarily follow ([[generative-ai-reduced-study-time-math]]).
+That reading matters beyond this sample because it names a measurement problem in productivity claims more broadly. Efficiency measured at the level of one assignment is not the same quantity as time-on-task across a course, and a saving in the first can coexist with no change, or an increase, in the second. In the vocabulary of the wider literature this is the difference between an [[efficiency-gain-illusion-ai-overreliance|efficiency gain on a task]] and a genuine reduction in work — and it is consistent with behavioral evidence that time on AI-susceptible problems falls while performance on proctored retention items does not necessarily follow ([[generative-ai-reduced-study-time-math]]).
 
 ## Perceived Understanding and Reported Reliance
 
@@ -46,7 +46,7 @@ Reported reliance cuts the other way. Asked whether they rely on AI instead of t
 
 ## What Respondents Named as Benefits and Disadvantages
 
-The open-ended answers map closely onto the review literature. Benefits clustered on **understanding and explanation** (simplifying complex material, explanations pitched at an understandable level), **speed and convenience**, and **information access**, including summarising, vocabulary and language support, and personalized or interactive assistance. One respondent reported no benefit. The paper notes the correspondence with previously documented uses — on-demand explanation, immediate feedback, information access, and personalized support.
+The open-ended answers map closely onto the review literature. Benefits clustered on **understanding and explanation** (simplifying complex material, explanations pitched at an understandable level), **speed and convenience**, and **information access**, including summarizing, vocabulary and language support, and personalized or interactive assistance. One respondent reported no benefit. The paper notes the correspondence with previously documented uses — on-demand explanation, immediate feedback, information access, and personalized support.
 
 Disadvantages centred on **dependence or overreliance**, **reduced independent effort and [[problem-solving]]**, **possible reductions in critical thinking, reading, focus, or memory retention**, the **need to verify outputs**, and **academic dishonesty or cheating**, with several respondents reporting no disadvantage or being unsure. The author is careful about what this can establish: the survey cannot determine whether the perceived risks actually occurred or affected academic outcomes. The paper's recommendations follow the same division — students should treat AI as a learning aid rather than a substitute for their own reasoning and verify important AI-generated information against reliable academic sources; [[teacher-role|educators]] should teach students how to evaluate AI outputs, identify errors, and use AI ethically (an [[ai-literacy|AI literacy]] and [[critical-thinking|critical thinking]] agenda rather than a detection one); and future research should combine perceptions with pre/post tests, grades, or controlled learning tasks and with larger, more diverse samples.
 
@@ -69,7 +69,7 @@ Read within those bounds, the contribution is a documented perception profile wi
 ## Connected Concepts
 
 - [[student-experience]] — self-reported study practices, perceived productivity, and perceived understanding
-- [[self-report-measures]] — the study's core measurement constraint: perceptions cannot establish behaviour or learning
+- [[self-report-measures]] — the study's core measurement constraint: perceptions cannot establish behavior or learning
 - [[generative-ai]] — how a small convenience sample uses and evaluates generative tools for studying
 - [[higher-ed]] — the setting of the survey and of the systematic reviews it draws on
 - [[cognitive-offloading]] — half of respondents reported relying on AI instead of learning independently
@@ -88,7 +88,7 @@ Read within those bounds, the contribution is a documented perception profile wi
 - [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
 - [[risk-perception-genai-perceived-benefits-2026]] — Risk perception of GenAI and perceived benefits
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance
-- [[ai-tools-academic-work-cheating-2026]] — Student cheating behaviour with AI tools in academic work
+- [[ai-tools-academic-work-cheating-2026]] — Student cheating behavior with AI tools in academic work
 
 ## Citation
 

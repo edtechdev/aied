@@ -40,7 +40,7 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 
 - **Technical AI training is not enough.** The finding that isolated AI knowledge fails to predict innovation is the study's most practical result. [[educational-development|Faculty development]] should run problem-oriented redesign workshops where teachers work through goal-setting, tool selection, activity design, and assessment for a real course, rather than sessions that teach how GenAI tools work in the abstract.
 
-- **Invest in [[ai-literacy]] as the highest-leverage mediator.** Because AI literacy carried the largest share of the effect and also strengthened confidence and identity, professional development should emphasise ethical evaluation, contextual judgment, and pedagogical adaptation of AI outputs — not just tool operation.
+- **Invest in [[ai-literacy]] as the highest-leverage mediator.** Because AI literacy carried the largest share of the effect and also strengthened confidence and identity, professional development should emphasize ethical evaluation, contextual judgment, and pedagogical adaptation of AI outputs — not just tool operation.
 
 - **Strengthen professional identity explicitly.** Framing AI integration as an extension of teaching responsibility, and clarifying how the [[teacher-role]] changes in AI-mediated instruction, may do more to sustain innovation than any amount of tooling support. Institutions can reinforce this through peer-sharing platforms and visible AI teaching cases.
 

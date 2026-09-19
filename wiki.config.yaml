@@ -45,6 +45,8 @@ build:
     - python3 tooling/scripts/gen-concept-artifacts.py --check   # generated views in sync
     - python3 skills/research/wiki-inline-links/scripts/inline_link_scan.py . --all
     - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all
+    # House style is US English: British forms in body prose are a defect.
+    - python3 tooling/scripts/check-us-english.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

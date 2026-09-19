@@ -121,7 +121,7 @@ An AI writing coach requires a different design because writing does not have on
 
 **Feedback should be prioritized.** Each feedback round might contain one strength to preserve, one high-impact issue, one question requiring writer judgment, and one concrete revision goal — rather than overwhelming the learner with dozens of comments.
 
-**Make the student evaluate [[ai-feedback-quality|AI feedback]].** [[feedback-literacy|Feedback literacy]] is itself a learning objective; the coach should periodically ask whether the learner agrees with a suggestion and why, and allow the learner to reject AI feedback — developing **[[evaluative-judgement|evaluative judgment]]**, not obedience.
+**Make the student evaluate [[ai-feedback-quality|AI feedback]].** [[feedback-literacy|Feedback literacy]] is itself a learning objective; the coach should periodically ask whether the learner agrees with a suggestion and why, and allow the learner to reject AI feedback — developing **[[evaluative-judgment|evaluative judgment]]**, not obedience.
 
 **Preserve authorial voice.** The coach should distinguish errors, clarity issues, rhetorical choices, and style preferences, and should not automatically "correct" the latter two — otherwise it risks homogenizing writing toward whatever style the model prefers, especially for [[multilingual-learning|multilingual]] writers and non-standard rhetorical styles.
 

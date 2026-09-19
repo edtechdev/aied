@@ -17,7 +17,7 @@ methods: [meta-analysis-systematic-review]
 institutions: [governance]
 ---
 
-> **Synthesis:** This [[meta-analysis-systematic-review|PRISMA systematic review]] (Jan 2023 – Mar 2026; **48 studies** from 1247 records) asks what roles [[agentic-ai|agentic AI]] actually plays in [[higher-ed|higher education]] and how those differ from [[generative-ai|generative]] and rule-based AI. It identifies **six discrete roles** and quantifies the evidence for each: [[personalized-learning|personalized learning]] and adaptive tutoring (18/48, the most-evidenced), [[automated-assessment|automated assessment]] and feedback (12), [[teacher-role|teaching]] assistance and augmentation (11), administrative and student support (8), [[curriculum-design|curriculum design]] and workforce alignment (5), and [[research-methods-aied|research]] support and academic operations (4). Reported outcomes cluster on scalable personalization (academic gains 15–25%, [[student-engagement|engagement]] up to +40%), assessment efficiency (90–95% human-grader agreement, 50–70% grading-time cuts), and proactive at-risk support — set against risks of [[cognitive-offloading|cognitive dependency]], cultural homogenisation, algorithmic [[bias-mitigation|bias]], and low faculty readiness (only 6.5% of faculty in some contexts report direct AI use). The review's central practical contribution is a **tripartite framework for responsible integration**: develop [[ai-literacy]], build [[ethics|ethical]] infrastructure, and deliver competence-based [[educational-development|educator training]].
+> **Synthesis:** This [[meta-analysis-systematic-review|PRISMA systematic review]] (Jan 2023 – Mar 2026; **48 studies** from 1247 records) asks what roles [[agentic-ai|agentic AI]] actually plays in [[higher-ed|higher education]] and how those differ from [[generative-ai|generative]] and rule-based AI. It identifies **six discrete roles** and quantifies the evidence for each: [[personalized-learning|personalized learning]] and adaptive tutoring (18/48, the most-evidenced), [[automated-assessment|automated assessment]] and feedback (12), [[teacher-role|teaching]] assistance and augmentation (11), administrative and student support (8), [[curriculum-design|curriculum design]] and workforce alignment (5), and [[research-methods-aied|research]] support and academic operations (4). Reported outcomes cluster on scalable personalization (academic gains 15–25%, [[student-engagement|engagement]] up to +40%), assessment efficiency (90–95% human-grader agreement, 50–70% grading-time cuts), and proactive at-risk support — set against risks of [[cognitive-offloading|cognitive dependency]], cultural homogenization, algorithmic [[bias-mitigation|bias]], and low faculty readiness (only 6.5% of faculty in some contexts report direct AI use). The review's central practical contribution is a **tripartite framework for responsible integration**: develop [[ai-literacy]], build [[ethics|ethical]] infrastructure, and deliver competence-based [[educational-development|educator training]].
 
 ## A role-based map of agentic AI in higher education
 
@@ -53,7 +53,7 @@ The review's central practical contribution is a synthesis of the evidence into 
 
 - **Develop AI literacy (students and staff).** Literacy is a precondition for meaningful engagement rather than passive consumption: students who understand what an adaptive tutor is doing engage as active learners, and faculty who understand assessment agents design assessments that both exploit and safeguard their capabilities.
 - **Build ethical infrastructure.** Data-protection policies, algorithmic-accountability frameworks, and [[academic-integrity]] policies must precede large-scale deployment. Kasarci et al.'s (2025) four-level governance framework offers a template.
-- **Deliver competence-based educator training.** The professional-development gap is stark — only **6.5%** of faculty in some national contexts report direct AI use for education — and training must move beyond tool familiarisation to [[pedagogy|pedagogical]] frameworks that preserve human agency.
+- **Deliver competence-based educator training.** The professional-development gap is stark — only **6.5%** of faculty in some national contexts report direct AI use for education — and training must move beyond tool familiarization to [[pedagogy|pedagogical]] frameworks that preserve human agency.
 
 ## Limitations and future directions
 
@@ -74,7 +74,7 @@ This review's role-based map and outcome quantification distinguish it from the 
 - [[cognitive-offloading]] — the passive-learner risk
 - [[bias-mitigation]] — multi-level algorithmic bias
 - [[privacy]] — student-data governance
-- [[equity-in-ai-education]] — cultural homogenisation and the digital divide
+- [[equity-in-ai-education]] — cultural homogenization and the digital divide
 - [[academic-integrity]] — verification under agentic assessment
 - [[assessment]] — rubric-based and automated grading agents
 - [[educational-policy-ai]] — institutional governance

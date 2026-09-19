@@ -53,7 +53,7 @@ Educational models traditionally focused on cognitive variables such as knowledg
 
 ## Evaluation and applications
 
-Simulated students offer a low-risk means of experimenting with pedagogical strategies, [[curriculum-design|curriculum design]], and [[assessment|assessment methods]] before implementation in real classrooms, enhancing scalability and [[pedagogical-safety|pedagogical safety]]. Applications span [[curriculum-design|curriculum development]], instructional evaluation, and [[teacher-education|teacher training]]. Concerns persist, however: the degree to which LLMs faithfully replicate human cognitive and affective processes is under investigation, with ongoing issues of algorithmic bias, limitations in open-access training datasets, and the risk of generating overly idealised or homogenised behaviors. The [[ai-ed-evaluation|reliability]] of a simulated student's fit to a real learner is itself hard to validate.
+Simulated students offer a low-risk means of experimenting with pedagogical strategies, [[curriculum-design|curriculum design]], and [[assessment|assessment methods]] before implementation in real classrooms, enhancing scalability and [[pedagogical-safety|pedagogical safety]]. Applications span [[curriculum-design|curriculum development]], instructional evaluation, and [[teacher-education|teacher training]]. Concerns persist, however: the degree to which LLMs faithfully replicate human cognitive and affective processes is under investigation, with ongoing issues of algorithmic bias, limitations in open-access training datasets, and the risk of generating overly idealised or homogenized behaviors. The [[ai-ed-evaluation|reliability]] of a simulated student's fit to a real learner is itself hard to validate.
 
 ## Implications
 

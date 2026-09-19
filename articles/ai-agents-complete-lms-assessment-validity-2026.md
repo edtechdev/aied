@@ -46,7 +46,7 @@ institutions: [educational-policy-ai, governance]
 ## Connected Articles
 
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Reconceptualising assessment validity for generative AI
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Reconceptualizing assessment validity for generative AI
 - [[asynchronous-oral-assessment-2026]] — Asynchronous oral assessments in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond-detection authentic assessment
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI

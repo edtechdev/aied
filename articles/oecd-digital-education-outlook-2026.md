@@ -16,7 +16,7 @@ confidence: high
 institutions: [educational-policy-ai]
 ---
 
-> **OECD flagship report** synthesising empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
+> **OECD flagship report** synthesizing empirical evidence and expert insights on [[generative-ai|generative AI]] and [[ai-education|AI in education]]. Central finding: general-purpose AI [[conversational-ai|chatbots]] improve task performance but produce no durable [[learning-gains|learning gains]]; purpose-built educational GenAI, co-designed with teachers, is the path to sustained improvement.
 
 ## The Core Finding: Performance Is Not Learning
 
@@ -29,7 +29,7 @@ Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models 
 - **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and reflection rather than providing direct answers
 - **Khanmigo**: Withholds answers and guides reasoning through questioning
 - **JeepyTA**: AI [[teacher-role|teaching]] assistant in university contexts rated comparable to human TAs in clarity and accuracy
-- **Tutor Copilot**: Mobilises less-qualified tutors effectively through AI support
+- **Tutor Copilot**: Mobilizes less-qualified tutors effectively through AI support
 
 The report draws a sharp line: GenAI tools "designed or used with an intentional pedagogical purpose" produce sustained learning improvements; tools used as answer-dispensing shortcuts do not. See [[intelligent-tutoring|AI Tutoring]].
 

@@ -33,7 +33,7 @@ The study drew on an online [[self-report-measures|questionnaire]] completed by 
 - **Treat GenAI literacy as a [[regulation|regulatory]] mechanism, not just an adoption driver.** Because literacy shapes how learners combine monitoring with reliance rather than simply reducing reliance, [[higher-ed]] institutions should cultivate reflective, regulated use rather than focusing only on boosting [[technology-acceptance-model|technology adoption]].
 - **Teach critical monitoring and verification as explicit practices**, especially for learners most at risk of unverified reliance—the Uncritical Reliant and Skeptical Minimal profiles.
 - **Address the illusion of cognitive independence** by helping learners calibrate their perceived versus actual cognitive contribution, since students may experience AI-supported performance as their own independent thinking.
-- **Differentiate support by learner profile.** Engaged and Literate users may benefit from sharper [[evaluative-judgement|evaluative judgment]] about what to delegate, while Uncritical Reliant users need [[scaffolding]] for [[critical-thinking|critical evaluation]] and monitoring.
+- **Differentiate support by learner profile.** Engaged and Literate users may benefit from sharper [[evaluative-judgment|evaluative judgment]] about what to delegate, while Uncritical Reliant users need [[scaffolding]] for [[critical-thinking|critical evaluation]] and monitoring.
 - **Design for calibrated reliance** consistent with [[self-regulated-learning]]: strategic delegation paired with epistemic oversight rather than uncritical dependence.
 
 ## Limitations

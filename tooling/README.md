@@ -56,7 +56,7 @@ both are read from `site.config.json`, so edit that file rather than the code.
 | File | What to change |
 |------|---------------|
 | `site.config.json` (repo root) | **Single source of truth** for site metadata — name, short name, brand, URL, base path, repo/issues URLs, editor name + contact, license, theme colors. All code + tooling read it; do NOT hardcode these elsewhere |
-| `concepts.registry.yaml` (repo root) | **Single source of truth** for the concept vocabulary: every slug with its title and synonym phrases, the sidebar sections, the merged/redirect map, and the never-link list. Every other concept artefact is generated from it |
+| `concepts.registry.yaml` (repo root) | **Single source of truth** for the concept vocabulary: every slug with its title and synonym phrases, the sidebar sections, the merged/redirect map, and the never-link list. Every other concept artifact is generated from it |
 | `wiki.config.yaml` → `agent:` | Your AI agent's name and the tools that provide each pipeline capability (`run_python`, `fetch_url`, `shell`, …) |
 | `tooling/SCHEMA.md` | Your domain, tag taxonomy, page conventions (canonical schema) |
 | `wiki.config.yaml` (repo root) | **Single source of truth** for the pipeline: content paths, build + gate commands, arXiv categories/keywords, journal RSS feeds, relevance filter, and the `agent:` block that maps the pipeline's capabilities onto your AI agent's tools |

@@ -17,7 +17,7 @@ confidence: high
 institutions: [regulation]
 ---
 
-> **Synthesis:** A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualizations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalise AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
+> **Synthesis:** A randomized experiment (n = 79 medical/nursing students) examining how the **initiative design** of an AI writing agent shapes reasoning, agency, and immediate independent performance. Students completed two [[multimodal]] analytical writing tasks (interpreting healthcare-[[simulation]] data visualizations: bar chart, network diagram, ward heatmap) with either a **reactive agent** (responds only when prompted, n = 39) or a **proactive agent** (initiates sequenced questions and feedback, n = 40). [[generative-ai|GenAI]] literacy was measured with the validated 20-item **GLAT**. The study introduces the **agency gap**: a relational mismatch between the initiative an AI agent demands and the learner's capacity to initiate, monitor, evaluate, and internalize AI-supported reasoning — neither an individual deficit nor a fixed property of the system.
 
 ## Key findings
 
@@ -46,8 +46,8 @@ institutions: [regulation]
 
 - **Process ≠ outcome**: agent design produced large differences in the relational organization of dialogue but no significant direct effect on immediate writing scores — the mechanism is how epistemic work is distributed, not output quality.
 - The agency gap frames the failure modes: **under-support** (low literacy × strongly reactive design) and **over-direction** (high capability × rigidly proactive design), echoing [[scaffolding]]'s expertise-reversal effect and adaptive-scaffolding accounts.
-- Practice: make initiative **visible and adjustable** (request/skip/pause [[prompt-engineering|prompting]]), structure proactive prompts to orient–interpret–connect–synthesise rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of [[writing-education|academic writing]] ([[ai-literacy]], [[agentic-ai]]).
-- Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorised, not directly measured; no manipulation-check coding of agent turns.
+- Practice: make initiative **visible and adjustable** (request/skip/pause [[prompt-engineering|prompting]]), structure proactive prompts to orient–interpret–connect–synthesize rather than supply answers, and fade prompts as learners demonstrate independence; teach GenAI literacy as part of [[writing-education|academic writing]] ([[ai-literacy]], [[agentic-ai]]).
+- Limitations: n = 79 underpowered for mediation; medical/nursing sample; immediate AI-removal task measures near transfer, not durable learning; agency gap theorized, not directly measured; no manipulation-check coding of agent turns.
 
 ## Connected Concepts
 

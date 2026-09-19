@@ -49,7 +49,7 @@ Assessment reform is the second lever. The authors urge a shift from intensive p
 
 ## Limitations and open questions
 
-The authors state four limits. The study could not capture the perspectives of students with disabilities, so those views are absent. The sample was mainly male because fewer female students were willing to take part, which may have limited representation of women's views. It was conducted in a single higher education institution, so transferability is confined to similar institutional and contextual settings. And the data are self-reported, leaving the findings open to social desirability bias. What the study does provide is a documented case of an integrity-utility trade-off from inside a student body, plus the authors' own claim that students' beliefs predict their behaviour more strongly than institutional rules do (Ka and Chan 2025).
+The authors state four limits. The study could not capture the perspectives of students with disabilities, so those views are absent. The sample was mainly male because fewer female students were willing to take part, which may have limited representation of women's views. It was conducted in a single higher education institution, so transferability is confined to similar institutional and contextual settings. And the data are self-reported, leaving the findings open to social desirability bias. What the study does provide is a documented case of an integrity-utility trade-off from inside a student body, plus the authors' own claim that students' beliefs predict their behavior more strongly than institutional rules do (Ka and Chan 2025).
 
 ## Connected Concepts
 
@@ -75,7 +75,7 @@ The authors state four limits. The study could not capture the perspectives of s
 - [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — university students' study practices and ethical judgments about AI
 - [[ai-tools-academic-work-cheating-2026]] — whether students themselves call AI-assisted work cheating
 - [[student-rationalization-ai-writing]] — the reasoning students use to license AI-assisted coursework
-- [[psychological-mechanisms-academic-integrity-ai-2026]] — behavioural determinants behind integrity judgments
+- [[psychological-mechanisms-academic-integrity-ai-2026]] — behavioral determinants behind integrity judgments
 - [[nguyen-genai-global-south-review-2026]] — GenAI perceptions across Global South contexts
 - [[genai-chinese-higher-education-integrity-2026]] — a comparable policy-versus-practice tension in another system
 - [[ivory-psychology-assessment-integrity-2026]] — what the assessment vulnerability looks like from the marker's side
