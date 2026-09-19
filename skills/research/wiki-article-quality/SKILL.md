@@ -20,6 +20,15 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `index.md`/`journal.md` + `llms*.txt` → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
 
 ## Pitfalls
+- **Never hand-type the page list when delegating a batch.** Generate the work list from the filesystem
+  (enumerate the pages that actually lack the section), verify every slug resolves to a file, write the list
+  to a file, and tell each subagent to read that file. Slugs transcribed by hand into a delegation prompt do
+  not stay attached to reality: a batch went out with mostly non-existent slugs, eight children correctly
+  refused to guess, and the run produced three pages out of fifty-six. The children's refusal was right — a
+  subagent that "finds" a plausible nearby page and edits it is worse than one that stops.
+- **A child's claim that a page is missing is evidence about the prompt, not about the wiki.** When children
+  report assigned files absent, check the assignment against disk before re-dispatching; if the paths are real,
+  the list was mangled in transit.
 
 ### 0. ALWAYS bump `updated` on significant edits — including concept pages (the maintainer corrected this)
 When you make a substantive edit or addition to ANY page — enriching an article, adding a section to a concept page, cross-linking, adding Connected Articles/bullets — you **must bump the `updated:` frontmatter timestamp** to a current full date+time ISO value (`2026-08-23T12:15:00-04:00`), not just articles. the maintainer flagged this explicitly when I edited the UDL, Special Education, and Inclusive Learning concept pages but left their `updated:` stale (UDL was still `2026-08-15`). This matters because the right-sidebar "Recently Updated Concepts" and RSS sort by `updated` via string compare — a stale timestamp hides the page from "recently updated" and mis-orders it. **Bump it in the SAME edit pass as the content change**, not as an afterthought, and bump every page you touched in the batch (a multi-page enrichment should touch many `updated:` fields). Full date+time (not date-only) — date-only values tie within a day and fall back to alphabetical order.
