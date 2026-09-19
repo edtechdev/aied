@@ -20,6 +20,14 @@ Use when the user asks to **repair, enrich, or fix defects in an existing articl
 8. **Deploy** per the wiki pipeline: bump `updated` timestamp → regen `index.md`/`journal.md` + `llms*.txt` → `npm run build` → `log.md` → commit+push → **verify deploy via `gh run list`** (green build ≠ deployed) and curl the live URL for HTTP 200.
 
 ## Pitfalls
+- **Adding a canonical section next to a legacy heading creates the duplicate.** Before writing
+  `## What this means for practice` or `## Limitations` onto a page, check for an older heading covering the
+  same ground (`## Implications`, `## Implications for AI in Education`, `## Implications for practice`,
+  `## Limits`, `## Limitations and Open Questions`). The right move is a MERGE into the canonical section with
+  the legacy heading deleted, keeping every substantive point; writing a second canonical section beside it
+  leaves the page saying the same thing twice under two names. A batch that added sections without checking
+  produced 86 such pages. Note the legacy heading may also sit *after* practice in the page order, which is
+  what a merged page must correct.
 - **Never hand-type the page list when delegating a batch.** Generate the work list from the filesystem
   (enumerate the pages that actually lack the section), verify every slug resolves to a file, write the list
   to a file, and tell each subagent to read that file. Slugs transcribed by hand into a delegation prompt do
