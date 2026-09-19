@@ -1,7 +1,7 @@
 ---
 title: "Institutional Structures, Digital Inequality, and AI Integration in Higher Education"
 created: "2026-09-07T08:45:00-04:00"
-updated: "2026-09-19T09:52:14-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education]
 ethics: [digital-divide, equity-in-ai-education, global-south]

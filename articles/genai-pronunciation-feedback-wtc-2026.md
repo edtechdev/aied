@@ -1,7 +1,7 @@
 ---
 title: "Associations Between Generative AI–Based Pronunciation Feedback and Willingness to Communicate in English: The Mediating Role of English Pronunciation Self-Efficacy"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [motivation, self-regulated-learning]
@@ -30,9 +30,13 @@ page_kind: [evaluation]
 
 The authors used a cross-sectional survey design with a convenience sample of 1,701 Chinese university EFL learners. Covariance-based structural equation modeling (CB-SEM) and bias-corrected bootstrapping were used to test the hypothesized relationships and the mediating effect of pronunciation self-efficacy on the perception-of-GenAI-feedback → WTC path. The analysis distinguished the indirect effect (through self-efficacy) from the direct effect of feedback perception on willingness to communicate, and quantified the indirect effect's share of the total effect.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings position GenAI-based pronunciation feedback as a promising, low-pressure supplement to traditional teacher and [[peer-assessment|peer feedback]] for [[language-learning]], particularly in contexts (like China) where limited authentic English interaction and "mute English" make pronunciation anxiety a barrier to speaking. Because GenAI feedback is immediate, repeatable, personalized, and perceived as less judgmental, it may build learners' pronunciation self-efficacy and, through it, their readiness to speak. For practitioners, this supports integrating AI pronunciation tools as ongoing speaking practice that complements — not replaces — classroom feedback, while the partial mediation highlights that confidence and psychological safety, not just accuracy, are central to why such feedback helps learners communicate.
+- **Instructors.** Add [[generative-ai|GenAI]] pronunciation feedback as a low-stakes supplement to classroom speaking practice: positive perceptions of that feedback were associated with greater willingness to communicate in English (total β = 0.574).
+- **Instructors.** Use the tools to build confidence, not only accuracy: the path through English pronunciation [[self-efficacy]] carried about 69.9% of the total effect (indirect β = 0.401) against a modest direct effect (β = 0.173), and self-efficacy strongly predicted willingness to communicate (β = 0.661).
+- **Designers.** Design feedback that encourages as well as corrects — learners' perceptions of the feedback (β = 0.607 on self-efficacy) rather than its measured accuracy drove the association — so favor encouraging language, actionable guidance, and adaptation to proficiency.
+- **Instructors.** Keep teacher and [[peer-assessment|peer feedback]] in place: self-efficacy mediated only part of the association, so routes such as reduced communication anxiety and psychological safety still matter alongside the technology.
+- **Instructors.** Target the learners who avoid speaking, since private, immediate, and repeatable practice suits students whose pronunciation anxiety keeps them silent in class.
 
 ## Limitations
 

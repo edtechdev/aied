@@ -1,7 +1,7 @@
 ---
 title: "RoboBuddy in the Classroom: Exploring LLM-Powered Social Robots for Storytelling in Learning and Integration Activities"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [storytelling-in-education]
@@ -27,9 +27,12 @@ level: [k 12]
 
 This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an LLM-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering scenario-based learning content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
 
-## Implications for AI in Education
+## What this means for practice
 
-RoboBuddy demonstrates how [[llm|LLM-powered]] [[educational-robotics]] can make [[educational-robotics]] practical for teachers by lowering the planning barrier and integrating [[culturally-relevant-pedagogy|multicultural integration]] into regular [[k-12]] curriculum. It highlights the role of the [[teacher-role|teacher]] as orchestrator of scenario-based robotic activities and shows how [[generative-ai|generative AI]] can help teachers author content for social robots. This connects to [[educational-robotics]], [[storytelling-in-education|narrative-based learning]], and the use of [[embodied-learning|embodied]] AI to support inclusive, culturally responsive classrooms.
+- **Instructors.** Generate scenario-based activities from the curriculum content you already teach instead of authoring improvised scenarios from scratch: co-design with four teachers produced frameworks the teachers judged accurate and offered without extra planning time, which they named as decisive for adopting the system.
+- **Instructors.** Deliver content through a storytelling frame rather than an expository explanation — students exposed to the scenario-based strategy reported higher self-reported enjoyment across both the activity and language sessions.
+- **Instructors.** Keep a human approval step between the LLM output and the robot: the interface's validation stage screened content for sensitive or inaccurate material before it reached the class, which is how the study mitigated LLM pitfalls.
+- **Instructors.** Embed integration elements inside ordinary activities rather than adding separate [[culturally-relevant-pedagogy|multicultural]] sessions, since most children identified the embedded integration elements in their drawings without being prompted.
 
 ## Limitations
 

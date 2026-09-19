@@ -1,7 +1,7 @@
 ---
 title: "Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-16T15:03:07-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]
@@ -27,9 +27,12 @@ audience: [educators, designers]
 
 This is a **mixed-methods play-testing study**. The [[research-methods-aied|researchers]] designed REMind, an educational robot-mediated role-play game for anti-bullying bystander intervention, and evaluated it with 18 children aged 9–10. In the game, children observed bullying scenarios enacted by social robots, reflected on the perspectives of the characters, and rehearsed defending strategies by puppeteering a robotic avatar. Mixed-methods data collection assessed the experience's support for learning goals including self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies.
 
-## Implications for AI in Education
+## What this means for practice
 
-REMind demonstrates how [[educational-robotics]] can support [[social-emotional-learning]] through [[embodied-learning|embodied]] role-play, introducing **Robot-Mediated Applied Drama (RMAD)** as a pedagogical framework. By letting children rehearse anti-bullying bystander intervention strategies in a safe, embodied context, the approach builds [[self-efficacy]], perspective-taking, and empathy in [[k-12]] settings. It connects to [[educational-robotics]], role-play/[[game-based-learning|game-based learning]], and the use of embodied AI to address social and emotional [[learning-gains|learning outcomes]] — a distinct application beyond technical/programming robotics education.
+- **Educators.** Rehearse bystander intervention through embodied role-play rather than advice-giving: the 18 children who puppeteered the robotic avatar showed a significant pre-to-post gain in perceived [[self-efficacy]] for defending and better-calibrated beliefs about whether confronting a bully stops the bullying.
+- **Educators.** Debrief the perspective of every character after the scene, since children's qualitative responses showed strong empathy with the victim and reasoning about the bystander's fear of retaliation and the bully's motivations.
+- **Designers.** Keep the facilitator human: REMind's Joker should stay a drama educator's role because it carries the reflection and participation work of Forum Theatre, while the wizard who controls narrative flow is the part that should be automated.
+- **Designers.** Plan for REMind's semi-autonomous, two-person Wizard-of-Oz facilitation and its specific robot hardware when scoping adoption, and build simplified teacher-facing controls such as clicker-based story progression for [[k-12]] classrooms.
 
 ## Limitations
 

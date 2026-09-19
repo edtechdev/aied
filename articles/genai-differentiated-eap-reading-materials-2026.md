@@ -1,7 +1,7 @@
 ---
 title: "From Unified to Differentiated Materials: Generative AI–Supported Adaptation of EAP Reading Materials"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-08-21T08:50:57-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [curriculum-design, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -28,9 +28,13 @@ level: [higher ed]
 
 The study deployed a four-module role-prompted GenAI workflow — barrier analysis, adaptation, academic-fidelity checking, and validation — designed to make generation auditable and protect the source text's disciplinary meaning. A 3×3 between-subjects experiment (N = 135; n = 15 per cell) crossed proficiency level (low, intermediate, high) with material condition (original, unified-AI, differentiated-AI). Three EAP instructors evaluated 15 anonymized material versions. Analyses included automated structural-complexity indicators, leave-one-out discriminant analysis, within-proficiency planned contrasts (comparing differentiated-AI with unified-AI while holding proficiency constant), and omnibus outcome models. Learner-outcome analysis gave priority to within-stratum planned contrasts as the cleaner evidence, while the omnibus Proficiency × Material model described heterogeneity across strata.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings argue that GenAI's value for [[language-learning]] materials lies not in blanket simplification but in targeted, proficiency-sensitive support-layer design that preserves academic fidelity — terminology, stance, hedging, citation relations, and argumentative structure. This reframes GenAI as a tool for [[personalized-learning|differentiation]] where the key design decision is what support each proficiency level needs (lexical/syntactic access for low-proficiency readers, discourse organization for intermediate readers, stance/evidence evaluation for high-proficiency readers) rather than a single harder-or-easier rewrite. For teachers, the study offers a concrete, auditable role-prompted workflow for generating and validating materials, and it underscores the continued necessity of teacher oversight against hallucinated content, flattened stance, and over-simplification in [[generative-ai]] output.
+- **Instructors.** Differentiate the support around the passage rather than the passage itself: three EAP reviewers rated the generated versions academically faithful (M = 4.24), level-appropriate (M = 4.36), and teachable (M = 4.31), while the six structural-complexity indicators barely separated the three proficiency versions (η²p = 0.043; 11.1% classification accuracy against a 33.3% benchmark).
+- **Instructors.** Match the kind of help to the proficiency band: the advantage over a single AI-adapted version was largest for advanced readers (18.73 vs. 16.26, d = 1.40), moderate for low-proficiency readers (14.79 vs. 13.23, d = 0.60), and negligible for intermediate readers (14.92 vs. 14.55, d = 0.16).
+- **Instructors.** Give low-proficiency readers glosses, sentence unpacking, clause segmentation, and process breakdowns, and give advanced readers prompts for stance, evidence quality, counterargument, and critical response, instead of simplifying the academic text they are meant to practice reading.
+- **Instructors.** Run the four-module role-prompted workflow — barrier analysis, adaptation, academic-fidelity checking, validation — and keep the fidelity check, because a version that flattens stance, drops hedging and citation relations, or inserts unsupported claims can look more accessible while weakening the [[language-learning|EAP]] task.
+- **Instructors.** Schedule separate unassisted reading tasks rather than assuming transfer: material condition did not affect immediate unsupported application on a new passage, F(2, 126) = 0.82, p = 0.445, so delayed transfer needs its own practice and measurement.
 
 ## Limitations
 

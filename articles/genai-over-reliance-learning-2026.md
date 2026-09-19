@@ -1,7 +1,7 @@
 ---
 title: "From Enhancement to Over-Reliance: A Mixed-Method Study of Generative AI and Sustainable Learning Performance"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [motivation, self-regulated-learning]
@@ -30,9 +30,13 @@ confidence: high
 
 The study employed a mixed-method design combining three-wave time-lagged survey data from 623 university students in China with qualitative interviews with educators. The quantitative strand used PLS-SEM to test the dual-pathway model linking AI literacy, critical AI evaluation, self-regulated learning, effective AI use, AI over-reliance, and sustainable learning performance, with polychronicity as a moderator. The qualitative strand used thematic analysis of educator interviews to deepen and explain the observed relationships. The theoretical framework integrated the AI literacy framework, Self-Regulated [[learning-theories|Learning Theory]], and Cognitive Offloading Theory.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings reframe AI's impact on learning as inherently dual — capable of both enhancement and [[cognitive-offloading|Over-Reliance]] — and locate the determining factors in how students engage with the technology. For educators, this argues for building [[ai-literacy]] (the capacity to evaluate AI output critically and use it meaningfully) and [[self-regulated-learning]] skills so students use AI as a [[scaffolding|scaffold]] rather than a substitute, and for attending to individual differences such as [[motivation|polychronicity]] that shape dependency risk. The study connects AI use to [[cognitive-offloading]] risks, warning that habitual delegation of cognitive processing can erode the internal effort needed for deep learning, and offers implications for designing interventions that maximize the enhancement pathway while mitigating [[ai-misuse-learning-harm|over-reliance]].
+- **Instructors.** Teach critical AI evaluation as a skill in its own right: [[ai-literacy|AI literacy]] was strongly associated with critical AI evaluation (β = 0.893, f² = 3.916), which in turn predicted effective AI use (β = 0.567), so verification is learned, not assumed.
+- **Instructors.** Pair AI integration with explicit [[self-regulated-learning|self-regulated learning]] instruction — goal setting, monitoring, reflection — because self-regulated learning predicted effective AI use (β = 0.399).
+- **Instructors.** Do not read effective use as a safety signal: in the same model, effective AI use predicted sustainable learning performance (β = 0.871) and AI over-reliance (β = 0.612), and over-reliance reduced performance (β = −0.205), so enhancement and dependency travel together.
+- **Instructors.** Add assessment and reflection tasks that require independent reasoning and documented verification of AI output, rather than only AI-assisted products, to protect the internal effort that deep learning depends on.
+- **Administrators.** Attend to multitasking learners specifically: polychronicity strengthened the effective-use-to-over-reliance path (β = 0.261) and weakened the effective-use-to-performance path (β = 0.113), so structured AI protocols and focused-attention routines matter most for students who habitually split attention.
 
 ## Limitations
 

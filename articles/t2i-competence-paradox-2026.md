@@ -1,7 +1,7 @@
 ---
 title: "The Competence Paradox: Negotiating Ease, Risk, and Creative Identity in Text-to-Image Generative AI Use Among Art and Design Students"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [creativity]
@@ -31,9 +31,12 @@ discipline: [design education]
 
 The study used a three-phase sequential mixed-methods design (QUAL-QUAN-qual). In phase one, instructor focus groups identified key constructs and informed a contextualized technology acceptance framework. Phase two administered a questionnaire survey to 417 college students. Phase three used semi-structured interviews to explain unexpected [[quantitative-research|quantitative]] results. Analyses examined how [[motivation|motivational]] and contextual factors (performance expectancy, effort expectancy, social influence, facilitating conditions, novelty value, creative competence, risk perceptions) translate into behavioral intention and actual T2I use, with attention to how students' interpretations of risk and developing creative identity shape adoption.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings show that adoption of [[generative-ai]] in creative disciplines cannot be understood through conventional utilitarian acceptance models alone — it is shaped by students' interpretations of [[trust-calibration|risk]] and their developing creative identity around authorship, originality, and skill preservation. For art and design educators, this argues for [[pedagogy]] that addresses [[ai-literacy]] around [[creativity|creative]] process, prompt crafting, output evaluation, and [[assessment-validity|assessment validity]] in a studio context where process and effort are central to learning. The study also highlights teachers' role as gatekeepers of critique and assessment, and the need for context-sensitive AI pedagogy that helps students use T2I tools as learning media rather than shortcuts that undermine the iterative studio workflow.
+- **Instructors.** Assess the studio process — sketches, drafts, prompt logs, and revisions — alongside the finished artifact, so T2I use is judged as part of an iterative creative workflow rather than an efficient substitute for it.
+- **Instructors.** Teach prompt crafting and output evaluation as explicit studio skills, giving students criteria to judge a generated image and to say why it fails before they accept it.
+- **Instructors.** Design assignments that require revision across multiple stages, because ease and immediate visual feedback are what convert novelty into a completion shortcut.
+- **Learners.** Keep an explicit record of what you delegate to the tool and what you keep for yourself, so decisions about authorship, originality, and skill preservation stay deliberate rather than habitual.
 
 ## Limitations
 

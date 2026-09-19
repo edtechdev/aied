@@ -1,7 +1,7 @@
 ---
 title: "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [intelligent-tutoring, llm, reinforcement-learning, simulation]
 ethics: [trust-calibration]
@@ -49,9 +49,19 @@ Upon episode completion, an LLM judge auto-grades the agent's clinical artifacts
 
 On held-out in-domain scenarios, the agent improves over the base model across all targeted metrics: diagnostic accuracy (rubric score ≥4/5) rises from 81.0% to 88.0% under adversarial conditions, management quality from 3.98 to 4.52 on a 1–5 Likert scale, and patient-centered communication (e.g., responding to emotions) from 2.63 to 3.06. Under adversarial conditions, missed red-flag rates fall by roughly one third, demonstrating rigorous mitigation of premature closure — the most common source of diagnostic error in clinical practice. These gains generalize: on the AMIE multi-visit benchmark the agent outperforms the base model across all six evaluation categories, with the largest gains in management reasoning (80.1% to 88.4%) and patient communication (83.7% to 92.2%). On expert-curated specialist oncology cases — a domain never seen during training — accuracy, completeness, and actionability improve significantly. On AgentClinic and CRAFT-MD, which expose models' tendency toward premature closure and insufficient information gathering, the agent shows consistent improvements. Critically, these gains persist even within expert-optimized [[scaffolding]]: in blinded evaluations by 97 board-certified clinicians, the trained agent was preferred in 87.6% of cases overall.
 
-## Implications
+## What this means for practice
 
-ResidencyRL reframes clinical [[ai-literacy|AI competence]] as something trained through simulated practice rather than read from static corpora, echoing the [[medical-education|residency]] model of human physician development. For [[ai-education|AI in education]] and health, the work suggests that [[simulation]]-based [[reinforcement-learning]] can cultivate [[professional-training|procedural competencies]] — history-taking, management planning, triage, and adversarial robustness — that [[benchmark|static benchmarks]] cannot measure. The design's emphasis on adversarial safety scenarios and penalty flags points toward [[pedagogical-safety]] as a first-class training objective, not a post-hoc filter, and the LLM-as-judge rubric illustrates how [[cognitive-diagnosis|analytic scoring]] can operationalize multi-dimensional quality at scale. The negative result to note: [[simulation]] trained under imperfect conditions still requires prospective validation with real patients before clinical utility is established, and environmental fidelity bounds what simulation can teach — a caution relevant to [[human-in-the-loop-ai|human-in-the-loop]] and [[trust-calibration]] deployment.
+- **Developers.** Optimize the whole encounter rather than single turns: ResidencyRL's GRPO policy runs up to 60 dialogue turns and 8 tool calls per trajectory, and that horizon raised diagnostic accuracy from 81.0% to 88.0% under adversarial conditions.
+- **Developers.** Make [[pedagogical-safety|safety]] a first-class term in the reward instead of a post-hoc filter, using weighted clinical dimensions plus up to 8 binary critical safety flags in a composite `R = R_primary − R_penalty ∈ [−3, 3]`.
+- **Developers.** Partition the judge rubric into topic-oriented criteria groups scored by separate judge calls rather than one monolithic grader; this analytic structure underpinned the 87.6% blinded clinician preference for the trained agent.
+- **Developers.** Expose the agent's clinical artifacts — primary diagnosis, ranked differential, urgency, management plan, patient summary, and SOAP note — through a documentation API so that graders and reviewers can audit the reasoning rather than only the dialogue.
+
+## Limitations
+
+- All training is confined to text-based, single-visit telehealth consultations with only English-speaking, US-based patients simulated; the agent orders tests and prescribes but never receives results, performs procedures, or coordinates with other providers.
+- The autorater shows systematic positive bias toward the trained model and several metrics approach saturation at the top of the scale (Goodhart's law), limiting the rubric's ability to resolve quality differences at the frontier.
+- Adversarial safety evaluations used automated adversarial agents rather than human actors, and proprietary training infrastructure limits full reproducibility.
+- Transfer to real patient care is unverified: the authors state that standardized human OSCE evaluation and prospective clinical studies are necessary, and that simulation fidelity narrows but does not eliminate the discrepancy with real encounters.
 
 ## Connected Concepts
 

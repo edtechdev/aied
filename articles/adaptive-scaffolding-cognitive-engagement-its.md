@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System"
 created: "2026-08-24T05:30:00-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [icap-framework, problem-solving, scaffolding, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning, reinforcement-learning]
@@ -53,14 +53,17 @@ The authors draw on two data-driven approaches to [[personalized-learning|person
 ## What this means for practice
 
 - **Designers.** Vary the *type* of [[student-engagement|cognitive engagement]] rather than only the difficulty: assigning Guided worked examples (active) or Buggy examples (constructive) adaptively produced posttest means of 72.3 (BKT) and 72.5 (DRL) against 65.7 for random problem-type assignment, with the [[icap-framework|ICAP framework]] supplying the principled basis for the choice.
-- **Designers.** Route low [[prior-knowledge|prior-knowledge]] learners through an interpretable mastery rule: Low-BKT students significantly outperformed Low-Control (β = 9.4, p = .001) and BKT reduced the pre-to-post achievement gap by 77.1% (23.8 to 5.4), largely because the control condition failed to improve these students at all.
+- **Designers.** Route low [[prior-knowledge]] learners through an interpretable mastery rule: Low-BKT students significantly outperformed Low-Control (β = 9.4, p = .001) and BKT reduced the pre-to-post achievement gap by 77.1% (23.8 to 5.4), largely because the control condition failed to improve these students at all.
 - **Designers.** For high prior-knowledge learners, a reward-optimized policy can add more: High-DRL significantly beat High-Control (β = 6.81, p = .008), while High-BKT did not differ significantly from High-Control.
 - **Designers.** Weigh interpretability when choosing the policy: BKT's rule-level mastery estimates let teachers and learners see why a scaffolding type was selected, whereas DRL's learned policy is opaque — a genuine cost in settings where system decisions must be explainable.
 - **Researchers.** Audit what a reward function leaves out. DRL assigned only 4% Buggy problems under the reward `TestScore · (1 − ProblemTime)`, which the authors say did not capture the deeper, more [[transfer-of-learning|transferable]] learning that constructive and interactive engagement may produce — a potential missed pedagogical opportunity.
 
 ## Limitations
 
-The DRL policy was trained on data from a single semester and may not generalize across learner populations, and the interventions were implemented in only one tutor, so results should be replicated in other [[problem-solving]] domains (science, math, programming). Although Guided and Buggy examples were designed to elicit active and constructive engagement, the actual cognitive effort and students' perceived difficulty of each example type remain under-characterized, and perceived difficulty may diverge from objective cognitive demands. The authors call for future work on adaptive methods that reward engagement or [[desirable-difficulties|productive struggle]] rather than performance alone, and on whether constructive engagement yields benefits beyond immediate posttest performance.
+- The DRL policy was trained on data from a single semester and may not generalize across learner populations.
+- Both adaptive interventions were implemented in only one tutor, so results should be replicated in other [[problem-solving]] domains (science, math, programming).
+- Although Guided and Buggy examples were designed to elicit active and constructive engagement, the actual cognitive effort and students' perceived difficulty of each example type remain under-characterized, and perceived difficulty may diverge from objective cognitive demands.
+- The authors call for future work on adaptive methods that reward engagement or [[desirable-difficulties|productive struggle]] rather than performance alone, and on whether constructive engagement yields benefits beyond immediate posttest performance.
 
 ## Connected Concepts
 

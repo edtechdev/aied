@@ -1,7 +1,7 @@
 ---
 title: "Integrating Generative AI into Cybersecurity Education: A Study of OCR and Multimodal LLM-Assisted Instruction"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [experiential-learning]
 technology: [ai-technologies, generative-ai, llm, pedagogical-agent]
@@ -26,9 +26,12 @@ audience: [instructors, instructional designers]
 
 This is a **[[research-methods-aied|research]]-category full paper** describing the design and integration of an LLM-assisted instructional assistant into a virtual cybersecurity lab platform. The system uses generative AI (including OCR and multimodal LLM capabilities) to act as an instructional assistant within an experiential learning environment, guiding trainees through exercises. The paper describes the architecture, integration, and use of the system to support skill development in cybersecurity, responding to workforce reskilling demands.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper demonstrates how [[generative-ai]] can serve as an [[intelligent-tutoring|instructional assistant]] within experiential, hands-on learning environments, applied here to [[cs-education]] education. It connects to [[llm|large language models]] as [[llm|learning assistants]], to [[higher-ed]] and workforce reskilling, and to [[stem-education]] skills such as automation and AI. For educators, it shows how multimodal LLM capabilities (including OCR) can support lab-based and exercise-driven learning, reducing the instructional burden while enabling experiential skill building.
+- **Instructors.** Integrate a generative-AI instructional assistant into the hands-on lab so trainees get on-demand help while performing the exercise, which the paper's live-course feedback rated 7.83 on a 1-to-10 scale across 42 responses.
+- **Instructors.** Use a zero-shot OCR plus LLM pipeline to extract slide text and regenerate simplified instructions in real time, bringing modern generative capability into a legacy platform for minimal infrastructure and integration effort.
+- **Instructional designers.** Choose the pipeline by slide type: a multimodal LLM handled dense visual slides better, while the OCR-based pipeline delivered comparable instructional value on text-centric slides at significantly lower computational overhead and operational cost.
+- **Instructional designers.** Design the AI as an assistant that supports the [[experiential-learning]] exercise rather than as a standalone tutor, and keep a human check on simplified instructions before trainees rely on them in a security lab.
 
 ## Limitations
 

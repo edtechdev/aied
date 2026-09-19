@@ -1,7 +1,7 @@
 ---
 title: "Examining the Impact of Generative AI on Student Motivation and Engagement: The Mediating Role of Autonomy-Support and Autonomous Motivation in Education"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -28,9 +28,13 @@ confidence: high
 
 A [[quantitative-research|quantitative research]] design was used with data from 297 undergraduate and postgraduate students at King Saud University. The proposed model was analyzed using Partial Least Squares Structural Equation Modeling (PLS-SEM). Constructs spanned perceived autonomy, competence, relatedness, expectancy, and value (from SDT and EVT); autonomy support for AI use and autonomous motivation for AI use (contextualized mediators); and student motivation and student engagement (outcomes). The integrated framework allowed the authors to trace how psychological need satisfaction and technology acceptance perceptions translate into motivation and engagement in AI-supported learning.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings indicate that the motivational payoff of [[generative-ai]] depends on satisfying students' basic psychological needs — [[self-determination-theory|autonomy, competence, and relatedness]] — and on supporting autonomous motivation, rather than on expectancy or simple perceptions of competence. For educators and instructional designers, this argues for GenAI integration that enhances learner autonomy (flexible paths, student choice), competence (feedback and skill development), and relatedness (collaborative, inclusive opportunities), since these psychological supports drive the [[motivation]] that most strongly predicts [[student-engagement|engagement]]. The study offers practical guidance for implementing GenAI in ways that promote meaningful, sustainable [[student-engagement|student engagement]] in higher education.
+- **Instructors.** Design for [[motivation]] rather than for tool access: student motivation was the strongest predictor of [[student-engagement|engagement]] (β = 0.74), while autonomy support and autonomous motivation for AI use had no direct effect on engagement (β = 0.070 each).
+- **Instructors.** Give students real control over how they use [[generative-ai]], since perceived autonomy raised both autonomy support for AI use (β = 0.290) and autonomous motivation for AI use (β = 0.170), and build competence through feedback and skill development rather than expecting it to create autonomy support — perceived competence predicted autonomous motivation (β = 0.130) but not autonomy support (β = 0.010).
+- **Faculty developers.** Build relatedness into AI-supported tasks — collaborative and inclusive uses, not only individual tool time — because perceived relatedness predicted autonomy support (β = 0.200) and autonomous motivation (β = 0.120).
+- **Instructors.** Spend instructional time on the educational value of the tools rather than on performance expectations: perceived value predicted autonomy support (β = 0.350), while perceived expectancy predicted neither autonomy support (β = 0.060) nor autonomous motivation (β = 0.050).
+- **Administrators.** Treat autonomy-supportive teaching as the integration strategy: autonomy support drove autonomous motivation (β = 0.370) and student motivation (β = 0.280), and both reached engagement only through motivation.
 
 ## Limitations
 

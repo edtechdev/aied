@@ -1,7 +1,7 @@
 ---
 title: "AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [self-efficacy]
@@ -41,7 +41,10 @@ This survey study collected data from 339 university students enrolled in econom
 
 ## Limitations
 
-The study is cross-sectional, capturing AI literacy, readiness, and career adaptability at an early, anticipatory stage of [[educational-development|professional development]]; it does not observe how these resources are enacted in stable organizational roles. The empirical setting is Italian higher education, so educational norms, labor-market expectations, and interpretations of AI may differ across national contexts. All data were collected via a single survey instrument (though common-method bias was mitigated). The sample focuses on economics/management/business students, and the authors note the model should be assessed across a broader spectrum of disciplines and cohorts, and extended to early-career professionals.
+- The design is cross-sectional and captures AI literacy, readiness, and career adaptability at an early, anticipatory stage of [[educational-development|professional development]], so it does not observe how these resources are enacted in stable organizational roles.
+- The empirical setting is Italian higher education, where educational norms, labor-market expectations, and interpretations of AI may differ from other national contexts.
+- All data were collected through a single survey instrument, though the authors report that common-method bias was mitigated.
+- The sample is confined to economics/management/business students; the authors call for assessment across a broader spectrum of disciplines and cohorts and extension to early-career professionals.
 
 ## Connected Concepts
 

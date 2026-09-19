@@ -1,7 +1,7 @@
 ---
 title: "Beyond Output Metrics: Reframing AI-Assisted Vocal Pedagogy Through Human Learning and Educational Value"
 created: "2026-08-13T05:23:56-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [metacognition, self-regulated-learning]
@@ -40,8 +40,9 @@ The article organizes AI-assisted vocal pedagogy into three linked levels. *Tech
 
 ## Limitations
 
-As a Perspective article, it offers a conceptual framework rather than empirical data, and its claims rest on argument and synthesis of prior literature rather than tested outcomes. The framework's three levels and three outcome criteria are proposed heuristics, not validated measures. Its applicability across different vocal genres, pedagogical traditions, and educational levels is asserted conceptually rather than demonstrated empirically.
-
+- As a Perspective article it offers a conceptual framework rather than empirical data, so its claims rest on argument and synthesis of prior literature rather than tested outcomes.
+- The framework's three levels and three outcome criteria are proposed heuristics, not validated measures.
+- Its applicability across different vocal genres, pedagogical traditions and educational levels is asserted conceptually rather than demonstrated empirically.
 ## Connected Concepts
 
 - [[generative-ai]]
