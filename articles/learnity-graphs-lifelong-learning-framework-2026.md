@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Higher Education: From Fixed Curricula to Learnity Graphs"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai, knowledge-graph, personalized-learning, student-modeling]
@@ -22,13 +22,20 @@ stakeholders: [lifelong-learning]
 3. **Learnity graphs as the core construct.** The paper introduces *learnity graphs*, a structured representation of learning as interconnected units of knowledge, skills, experience, and actual artifacts, together with a method for presenting and leveraging the representation.
 4. **Lifelong integration across domains.** The framework integrates academic, professional, and personal learning, positioning learning as a continuous, graph-structured activity rather than a bounded curricular sequence.
 
-## Implications
+## What this means for practice
 
-This conceptual contribution speaks directly to debates about [[curriculum-design]] in an era of [[generative-ai]]. By framing learning as a graph of interconnected units rather than a fixed sequence, it aligns with [[personalized-learning]] and [[student-modeling]] traditions while proposing a concrete representational mechanism. The "learnity graph" resonates with [[knowledge-graph]] approaches and with the broader movement toward [[lifelong-learning]] in response to AI-driven workforce change.
+- **Curriculum designers.** Represent programs as learnity graphs — nodes for knowledge, skills, experience, and artifacts, joined by typed edges for prerequisite, interdisciplinary, specialization, and compositional relations — instead of fixed unit sequences.
+- **Curriculum designers.** Publish the representational layer before scaling: a shared language defining learnities, their relationships, development levels, contexts, and evidence types is the authors' stated precondition for cross-institutional use.
+- **Learning designers.** Build environments in which learners navigate and maintain their own graph, since the framework locates value in the unique structure of an individual trajectory rather than in possession of knowledge.
+- **Learning designers.** Keep the structure flexible enough to guide rather than constrain, because the authors warn that overly rigid standardization reproduces the limitations of fixed curricula.
+- **Administrators.** Budget for the governance layer alongside the technology — [[knowledge-graph|knowledge representation]], evaluation mechanisms, scalability, and cross-institutional recognition of learning — and for the [[adult-learning|lifelong]] advisory structures that make a learner's graph portable.
 
-For [[higher-ed]] institutions, the framework is a provocation to move beyond static degree pathways toward adaptive, cross-domain learning environments. It connects conceptually to [[learning-design]] discussions about [[transfer-of-learning]] and [[self-regulated-learning]], since learners must actively navigate and maintain their own learnity graphs.
+## Limitations
 
-The proposal also has an implicit [[equity-in-ai-education]] dimension: graph-based, modular learning could either democratize access to personalized pathways or entrench fragmentation if not supported by sound [[pedagogy]] and institutional infrastructure. The paper is best read alongside work on [[educational-policy-ai]] and [[governance]] that addresses how such frameworks are governed and resourced.
+- This is a conceptual framework paper: the authors state that implementation is left for future work, so no learning-outcome claim is tested or testable from this text.
+- The only demonstrated artifact is a prototype system (learnity-graph.vercel.app), which shows representation, personalization, development tracking, and recommendation — there is no sample, comparison condition, or measured effect.
+- The conditions under which the framework could be evaluated are themselves unresolved: knowledge representation, evaluation mechanisms, technological scalability, and governance for cross-institutional recognition.
+- No criteria are given for granularity — when a learnity becomes a distinct node in the graph — which the authors acknowledge is required to avoid graph inflation and preserve interpretability.
 
 ## Connected Concepts
 

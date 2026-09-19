@@ -1,7 +1,7 @@
 ---
 title: "Bots and Blocks: Presenting a Project-Based Approach for Robotics Education"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [active-learning, project-based-learning]
@@ -37,7 +37,8 @@ This is a **design/case presentation** of a project-based learning framework for
 
 ## Limitations
 
-The paper presents a framework and a case example rather than a rigorous comparative evaluation of [[learning-gains|learning outcomes]]; empirical evidence of effectiveness is not comprehensively reported in the abstract. The approach is specific to one applied computer science degree program and context, so generalizability to other programs and levels is limited.
+- The paper presents a framework and a case example rather than a rigorous comparative evaluation of [[learning-gains|learning outcomes]]; empirical evidence of effectiveness is not comprehensively reported in the abstract.
+- The approach is specific to one applied computer science degree program and context, so generalizability to other programs and levels is limited.
 
 ## Connected Concepts
 

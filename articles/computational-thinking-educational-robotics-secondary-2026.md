@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking to Enhance Educational Robotics in Secondary School's Curriculum"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [computational-thinking, curriculum-design]
 pedagogy: [problem-solving]
@@ -38,7 +38,8 @@ This is a **conceptual/literature-analysis paper** (not an empirical study). It 
 
 ## Limitations
 
-As a conceptual and literature-based paper, it presents a proposal rather than empirical evidence of [[learning-gains|learning outcomes]]; the proposed curriculum integration is not yet validated in practice. The focus is on the secondary-school context and STEAM subjects, so generalizability to other levels and disciplines is limited.
+- As a conceptual and literature-based paper, it presents a proposal rather than empirical evidence of [[learning-gains|learning outcomes]]; the proposed curriculum integration is not yet validated in practice.
+- The focus is on the secondary-school context and STEAM subjects, so generalizability to other levels and disciplines is limited.
 
 ## Connected Concepts
 

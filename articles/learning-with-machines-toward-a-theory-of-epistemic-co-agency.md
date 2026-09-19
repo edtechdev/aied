@@ -1,7 +1,7 @@
 ---
 title: "Learning with machines: Toward a theory of epistemic co-agency"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-22T07:08:19-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [agency, ai-literacy, critical-thinking, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -28,9 +28,13 @@ confidence: high
 
 This is a conceptual/theoretical paper proposing a framework, not an empirical study. Drawing on [[distributed-cognition|distributed cognition]], sociomaterialism, posthumanist theory, and the concept of relational agency, the author develops the Epistemic Entanglement Framework and articulates the three configurations (EA, EI, EC) in terms of distinct human postures, cognitive demands, and design implications. The configurations are also mapped onto analytic dimensions from Thürmel's (2015) graduated agency framework (activity level, adaptivity, interaction potential, personification, joint agency). The paper concludes with [[pedagogy|pedagogical]] and assessment implications for [[scaffolding]] learners toward co-agency, and acknowledges the author used ChatGPT as a supplementary writing/ideation tool during manuscript development.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper reframes the learner-AI relationship as a **developmental epistemic process** rather than static tool-use or naive collaboration. For [[learning-design|instructional design]], it argues current tools (SchoolAI, Curipod, ChatGPT) prioritize efficiency in ways that risk reinforcing passive epistemic postures, and calls for embedding epistemic friction and critique scaffolds. For [[formative-assessment|assessment]], it argues traditional assessments of correctness/coherence are poorly suited to capture epistemic shifts; instead, assessments should measure the reasoning trajectory (how the learner moved from question to insight and how AI figured in that arc), with reflective prompts, process explanations, and evidence of revision — while protecting against superficial "[[ai-detection|AI detection]]" that reduces [[student-engagement|engagement]] to surveillance. It positions GenAI not as an "assistant" but as an object of inquiry and a new epistemic actor, connecting to [[ai-literacy]], [[critical-thinking]], [[metacognition]], and [[cognitive-offloading]], and cautioning against [[cognitive-offloading|Over-Reliance]].
+- **Instructors.** Make the epistemic configuration visible: help learners recognize whether they are in augmentation, integration, or co-agency, and design transitions deliberately rather than assuming uniform critical engagement.
+- **Instructors.** Embed epistemic friction — prompt templates that require learners to justify why an output is appropriate or flawed, multiple-output displays of divergent responses, confidence visualizations or traceable sources, and critique scaffolds such as "What's missing?" and "Whose perspective is absent?"
+- **Instructors.** Assess the reasoning trajectory, not just the artifact: use reflective prompts, process explanations, and evidence of revision, and avoid "[[ai-detection|AI detection]]" measures that reduce engagement to surveillance.
+- **Faculty developers.** Embed epistemic ethics, source reliability, and knowledge construction in disciplinary curricula rather than standalone AI literacy modules, and build faculty capacity to teach in AI-mediated environments where disciplinary validation norms differ.
+- **Designers.** Treat GenAI as an object of inquiry rather than an assistant, so learners can see its limitations and the values encoded in its design.
 
 ## Limitations
 

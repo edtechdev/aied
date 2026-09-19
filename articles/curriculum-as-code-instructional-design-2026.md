@@ -1,7 +1,7 @@
 ---
 title: "Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, curriculum-design, learning-design]
 pedagogy: [project-based-learning]
@@ -37,9 +37,20 @@ The approach operationalizes the [[curriculum-design|Curriculum as Code]] paradi
 
 Validation ran for one year at the Institute of Technology and Leadership in São Paulo, a [[higher-ed|higher-education]] institution operating strictly under a [[project-based-learning|PBL]] paradigm in quarterly modules. The architecture was deployed in two scenarios: a first-year common core across four modules and 24 distinct project contexts, and four advanced specialization modules. All first-year materials were authored by a single instructional designer, peer-reviewed by two independent professors, and delivered by six different faculty, demonstrating that tacit knowledge was translated into reusable assets that scale beyond a single author. Preparation time dropped from an average of eight hours to two hours per instruction. Generated Python scripts executed without compilation errors on zero-shot attempts, and no conceptual or mathematical hallucinations were identified during human-in-the-loop review across all 28 project contexts; the only errors were minor bracket mismatches caught by the automated review agent. Student evaluations of material quality ranged from 8.5 to 9.9/10.
 
-## Implications
+## What this means for practice
 
-The findings suggest a shift from ad-hoc [[prompt-engineering]] toward structured instructional architecture, where the workflow's structure matters more than prompt phrasing or the specific foundation model used. The instructor's role evolves from manual slide formatter to architect of instructional design, a change with implications for [[teacher-role]] and [[teacher-education]]. The architecture's text-based, code-driven nature natively supports internationalization, enabling easy translation for exchange students without breaking layout — relevant to [[multilingual-learning]]. Because the pipeline succeeded in the highly demanding, highly contextualized [[project-based-learning]] environment, its authors argue that application to traditional lecture-based courses across [[higher-ed]] is straightforward and scalable. Future work targets integration with autonomous [[agentic-ai|AI agents]] and skills via APIs, a CI/CD-inspired workflow using Git repositories, [[adaptive-learning]] variations for different learning profiles, and [[accessibility]] versions for visually impaired students. A key limitation is that all authoring occurred within a single institution by a single instructor, so multisite studies are needed.
+- **Instructional designers.** Replace ad-hoc prompting with a staged, stage-gated pipeline — context scoping, pedagogical and technical calibration, structural planning, section-by-section implementation, then independent automated review plus instructor validation — because the workflow's structure mattered more than prompt phrasing or the foundation model.
+- Author materials as code (LaTeX with Beamer plus parameterized Python figures) so output is version-controlled, reproducible, and automatically consistent with institutional visual identity, and keep the human-AI interface to plain text and source code.
+- Prune context aggressively and generate section by section: this combination eliminated mathematical and conceptual hallucinations across all 28 project contexts, leaving only minor bracket mismatches for the review agent.
+- **Faculty developers.** Capture instructors' tacit rules — cognitive-load limits, per-slide time restrictions, a project-anchored activity after every theoretical block — as explicit reusable constraints so materials scale beyond their original author.
+- **Administrators.** Expect substantial workload relief: instructor preparation time fell from about eight hours to about two hours per instruction, and the same assets were delivered by six different faculty.
+
+## Limitations
+
+- Single institution and single author: all materials were authored by one instructional designer at the Institute of Technology and Leadership in São Paulo, which the paper names as its primary limitation and reason multisite studies are needed.
+- Coverage is uneven across levels: the first-year common core spanned four modules and 24 project contexts, but the advanced specialization modules (years 2 and 3) had smaller classes and were deployed solely by the authoring instructor.
+- Generative models showed behavioral drift after provider updates and needed prompt recalibration, and minor LaTeX syntactic anomalies recurred despite the absence of conceptual hallucinations.
+- Material quality ratings of 8.5–9.9/10 came from over 600 voluntary student evaluations, a self-selected sample rather than a controlled comparison.
 
 ## Connected Concepts
 - [[learning-design]]

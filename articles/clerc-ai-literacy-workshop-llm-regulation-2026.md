@@ -1,7 +1,7 @@
 ---
 title: "Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task"
 created: "2026-09-17T02:58:21-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -62,7 +62,10 @@ The [[ai-literacy|AI literacy]] intervention literature this joins is mostly sho
 
 ## Limitations
 
-The design is quasi-experimental with intact classes and unequal groups, so unmeasured baseline differences such as science ability cannot be ruled out. Effects were measured two days after the workshop, with no test of retention, repeated practice, transfer to new tasks, or performance without LLM support. The study ran in one school on science problems only. Prompt acceptance is an experimental probe rather than an ecological task — students usually write prompts from scratch, so that measure is best read as evidence that they noticed missing information, whereas evaluating an answer and deciding to follow up are behaviors that remain central in ordinary use. The LLM environment was not perfectly homogeneous because access constraints pushed some students onto other interfaces, though the authors validated the prompt manipulation independently of the models used. Finally, no demographic identifiers were collected, so subgroup differences could not be tested, and the behavioral measures captured students' decisions but not the content of their prompts or follow-up questions.
+- The design is quasi-experimental with intact classes and unequal groups, so unmeasured baseline differences such as science ability cannot be ruled out.
+- Effects were measured two days after the workshop, with no test of retention, repeated practice, transfer to new tasks, or performance without LLM support; the study also ran in one school on science problems only.
+- Prompt acceptance is an experimental probe rather than an ecological task — students usually write prompts from scratch, so that measure is best read as evidence that they noticed missing information, whereas evaluating an answer and deciding to follow up are behaviors that remain central in ordinary use.
+- The LLM environment was not perfectly homogeneous because access constraints pushed some students onto other interfaces, though the authors validated the prompt manipulation independently of the models used; no demographic identifiers were collected, so subgroup differences could not be tested, and the behavioral measures captured students' decisions but not the content of their prompts or follow-up questions.
 
 ## Contribution to the knowledge base
 

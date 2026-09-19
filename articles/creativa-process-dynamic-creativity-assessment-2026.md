@@ -1,7 +1,7 @@
 ---
 title: "CREATIVA: A Preliminary Report on a Process-Dynamic Creativity Assessment System Powered by Large Language Models"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 pedagogy: [creativity, project-based-learning]
 technology: [llm, generative-ai, learning-analytics, conversational-ai]
@@ -57,7 +57,10 @@ The system is offered as an educational instrument rather than a selection test.
 - **Researchers.** Treat the convergent correlations with the Alternative Uses Task and Realistic Presented Problems (r = .43 to .48) as a floor rather than a validation, and test discriminant and predictive validity before the instrument informs placement or identification decisions.
 
 ## Limitations
-The paper is candid about its status and readers should not over-read it. It is a preprint that has not been peer reviewed, and the positive results come from a single small sample of 29 undergraduates at one institution, drawn from a psychology course where completion was a course requirement — a convenience sample with no comparison group and no evidence yet that the instrument predicts real-world creative achievement. The reliability figure uses five graduate students as raters, so scoring consistency is established for human raters working from the framework, not for the AI evaluator role the architecture assigns to the model; whether [[automated-assessment|automated scoring]] reproduces that consistency is not reported. Validity evidence is convergent only: modest correlations with the same family of divergent-thinking measures the paper criticizes do not settle discriminant validity against unwanted constructs, nor predictive validity for anything the field cares about. The cross-stage pilots — elementary, junior high and senior high school — are described without sample sizes, group statistics or design details, so the differentiation and "Prompted Shifters" observations are illustrative rather than evidential. There is no longitudinal evidence that profiles predict later development, no analysis of whether scaffolding effects persist, and no examination of the [[equity-in-ai-education|equity]] and language-[[bias-mitigation|bias]] risks that travel with LLM scoring. The honest summary is that CREATIVA demonstrates a plausible architecture and preliminary psychometric support, and the substantive questions — automated scoring quality, discriminant and predictive validity, transfer across educational stages, and the consequences of using AI scaffolding as part of the measurement itself — remain open.
+- It is a preprint that has not been peer reviewed, and the positive results come from a single small sample of 29 undergraduates at one institution — drawn from a psychology course where completion was a course requirement — a convenience sample with no comparison group and no evidence yet that the instrument predicts real-world creative achievement.
+- The reliability figure uses five graduate students as raters, so scoring consistency is established for human raters working from the framework, not for the AI evaluator role the architecture assigns to the model; whether [[automated-assessment|automated scoring]] reproduces that consistency is not reported.
+- Validity evidence is convergent only: modest correlations with the same family of divergent-thinking measures the paper criticizes do not settle discriminant validity against unwanted constructs, nor predictive validity for anything the field cares about.
+- The cross-stage pilots — elementary, junior high and senior high school — are described without sample sizes, group statistics or design details, so the differentiation and "Prompted Shifters" observations are illustrative rather than evidential, and there is no longitudinal evidence that profiles predict later development, no analysis of whether scaffolding effects persist, and no examination of the [[equity-in-ai-education|equity]] and language-[[bias-mitigation|bias]] risks that travel with LLM scoring.
 
 ## Connected Concepts
 

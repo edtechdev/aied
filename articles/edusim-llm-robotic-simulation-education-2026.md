@@ -1,7 +1,7 @@
 ---
 title: "EduSim-LLM: An Educational Platform Integrating Large Language Models and Robotic Simulation for Beginners"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [computational-thinking]
 technology: [educational-robotics, llm, personalized-learning]
@@ -36,7 +36,9 @@ This is a **platform development and evaluation study**. The [[research-methods-
 
 ## Limitations
 
-The evaluation focuses on platform accessibility and usability for beginners rather than comprehensive learning-outcome measurement. The simulation environment (CoppeliaSim) and the specific LLM integration may not generalize to physical robots or other platforms. The two interaction models (direct vs. autonomous control) may trade off differently across learner levels and tasks.
+- The evaluation focuses on platform accessibility and usability for beginners rather than comprehensive learning-outcome measurement.
+- The simulation environment (CoppeliaSim) and the specific LLM integration may not generalize to physical robots or other platforms.
+- The two interaction models (direct vs. autonomous control) may trade off differently across learner levels and tasks.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Metacognitive AI literacy: going beyond the AI skills gap agenda"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [metacognition]
@@ -28,9 +28,13 @@ institutions: [governance]
 
 This is a **conceptual/argumentative article** (not an empirical study) drawing on case studies and literature analysis. It synthesizes scholarship on digital/media literacies, [[critical-pedagogy|critical pedagogy]], algorithmic governance, and higher education transformation (including Giroux, Marginson, Williamson, Pangrazio, Crawford, Eubanks, and Watermeyer). The authors present illustrative case studies of AI literacy in practice across higher education institutions (Aalborg, Aalto, Strathmore, Northeastern, Stanford) and the adult continuing training sector (a Nordic bank's agentic-AI implementation), examining how metacognitive AI literacy is operationalized across pedagogical design, organizational governance, and socio-technical experimentation.
 
-## Implications for AI in Education
+## What this means for practice
 
-The article reframes [[ai-literacy]] away from functional skills acquisition toward a **metacognitive social practice** relevant to [[higher-ed]] and [[ai-education]]. It argues that embedding AI literacy requires more than adding AI courses or tools — learning environments must enable learners to monitor and adjust their strategies in response to uncertain or opaque results, fostering scientific skepticism rather than narrow functional proficiency, connecting to [[metacognition]] and [[critical-thinking]]. It positions universities as essential infrastructure for civic resilience, demanding a fundamental reconfiguration of university missions, governance structures, and pedagogical approaches so AI literacy serves as a public good rather than a private asset. The article's case studies offer concrete models (participatory co-design, experimental pedagogical spaces, challenge-based collaboration) for cultivating metacognitive awareness and democratic agency, relevant to [[teacher-role]] and [[ethics]] and to algorithmic governance.
+- **Instructors.** Teach AI literacy as interrogation rather than tool operation: set tasks in which students work out how an algorithmic system reshaped a knowledge claim, so the probabilistic and opaque character of the model becomes the object of study instead of a background condition an AI course would leave untouched.
+- **Instructors.** Assess the habit of monitoring and adjusting strategy under uncertainty — require students to say where a model's answer cannot be trusted — rather than rewarding fluent tool use, since scientific skepticism, not narrow functional proficiency, is the outcome the framework targets.
+- **Instructors.** Build literacy through participatory co-design and experimental, low-stakes pedagogical spaces rather than a standalone AI module, following the cases the article documents: Aalborg's interdisciplinary project-based engineering, Aalto, Strathmore's GAEIA work with almost 200 postgraduate students across the Global North and South, Northeastern's "robot-proof" Humanics model, and Stanford's sandbox environments.
+- **Instructors.** Run challenge-based collaboration with external partners so students meet real power and governance questions: in the Nordic bank case an [[agentic-ai]] rollout was treated as a facilitated learning process, with a cross-disciplinary team mapping customer journeys to decide what to automate while preserving human judgment.
+- **Administrators.** Fund AI literacy as infrastructure for civic resilience rather than as a marketable credential, because the argument is that universities must become sites of collective intelligence whose learners interrogate algorithmic power structures — which means reconfiguring mission, [[governance]], and pedagogy, not adding courses. Institutions also owe this to learners in the three dimensions the article names: epistemic, civic, and institutional.
 
 ## Limitations
 
