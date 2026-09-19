@@ -1,7 +1,7 @@
 ---
 title: "Thinking with AI, reasoning without it: Cognitive offloading to generative AI weakens effort regulation"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T09:06:00-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning, desirable-difficulties]
@@ -61,7 +61,7 @@ The limitations are candid and worth carrying forward. The impairment result was
 
 ## What this means for practice
 
-- **Educators.** Test the unassisted residue, because assisted accuracy is not evidence that structure was built: ChatGPT raised Stage 1 accuracy to 77.9% (ηp² = .030) while prior tool use was associated with roughly 32% lower odds of a correct unaided Stage 2 answer (OR = 0.68).
+- **Educators.** Test the unassisted residue, because assisted accuracy is not evidence that structure was built: ChatGPT raised Stage 1 accuracy to M = 77.85% against 72.72% for students who worked independently (ηp² = .030) while prior tool use was associated with roughly 32% lower odds of a correct unaided Stage 2 answer (OR = 0.68).
 - **Educators.** Focus on effort on the hardest items, since incentives lengthened time on difficult Stage 2 questions only for students who had worked without the tool (126.4 s vs 84.7 s, p = .008); plan the withdrawal and [[scaffolding]] of the tool rather than rewards offered after it.
 - **Educators.** Keep generative AI out of the step the task is meant to teach: here the harm case was the tool performing the integration that was the learning objective, while exploratory use — proposing answers, demanding justification, disagreeing — looked benign or better.
 - **Educators.** Do not read a flat class average as safety, because the preregistered aggregate test of unaided reasoning was null (F(1, 153) = 1.84, p = .177) while item-level modeling found impairment concentrated on difficult questions.
