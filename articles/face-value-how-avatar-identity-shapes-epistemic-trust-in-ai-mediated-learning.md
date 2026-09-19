@@ -1,7 +1,7 @@
 ---
 title: "Face value: How avatar identity shapes epistemic trust in AI-mediated learning"
 created: "2026-08-10T17:08:30-04:00"
-updated: "2026-08-24T19:35:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [agency, agentic-ai, ai-education, human-ai-collaboration]
 technology: [intelligent-tutoring]
@@ -24,9 +24,20 @@ audience: [designers, edtech designers, researchers]
 - **Domain moderation.** STEM and procedural tasks amplified bias, while reflective and interpersonal tasks attenuated it — bias is context-dependent, not uniform.
 - **[[trust|Trust]] and [[intelligent-tutoring|AI tutors]] is a design variable.** The findings show that trust in AI tutors is shaped by surface identity cues, not just underlying capability.
 
-## Implications
+## What this means for practice
 
-This study demonstrates that **the "face" of an AI tutor is a consequential equity variable** in [[ai-education]]. Avatar identity cues activate [[bias-mitigation|social biases]] that shape epistemic trust and whether learners actually adopt AI guidance — with older Black female avatars facing compounded penalties and ingroup alignment driving uptake. For designers, this implies careful attention to avatar representation, identity-neutral design options, and [[bias-mitigation]] in [[pedagogical-agent|pedagogical agents]], especially in [[stem-education|STEM]] and procedural domains where bias is amplified. It connects to [[trust-calibration]], [[pedagogical-agent|pedagogical agents]], [[human-ai-collaboration]], and [[equity-in-ai-education]].
+- **Designers.** Calibrate avatar design by domain instead of fixing it globally: bias was amplified on STEM and procedural items — where the largest competence gap appeared between young White and older Black female avatars — and attenuated on reflective and interpersonal tasks.
+- Reduce the salience of demographic cues by using stylized or less anthropomorphic avatars and rotating diverse avatars across tasks, while pairing those changes with consistent behavioral reliability so engagement does not drop.
+- Evaluate avatar interventions by their effect on enacted guidance uptake, not just attitudes or self-reported trust, because identity bias operated at the level of action as well as evaluation.
+- **Administrators.** Treat default avatar configurations, representation policies, and deployment contexts as pedagogical and ethical decisions, and build in design guidelines, reliance monitoring, and vendor accountability for AI tutor procurement.
+- **Researchers.** Model trust dynamically, since this study modeled trust and epistemic uptake as static outcomes and could not show whether the measured dimensions are causal intermediaries or co-occurring correlates of behavior.
+
+## Limitations
+
+- Two convenience samples totaling N = 396 — Study 1 (N = 102) in a within-subjects laboratory design at one university and Study 2 (N = 294) in a between-subjects online design — drawn largely from an English-speaking, WEIRD university population.
+- Only a limited set of visible identity cues (race, gender, age) was varied, and interactions with avatars were brief and controlled, so cultural and ecological generalizability is constrained.
+- Trust and epistemic uptake were modeled as static outcomes rather than processes, so the design supports association but not evidence about mechanisms.
+- Both samples were unpaid volunteers, with Study 2 recruited from a vetted online participant pool (e.g., Prolific, Qualtrics Panels), so participants may differ from typical classroom learners.
 
 ## Connected Concepts
 

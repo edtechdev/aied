@@ -1,7 +1,7 @@
 ---
 title: "OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research"
 created: "2026-08-12T21:26:01-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning, edtech-platform, open-source]
 audience: [software developers]
@@ -46,6 +46,21 @@ OATutor's design goal is replicability: researchers can run experiments on OATut
 ## Connection to the knowledge base
 
 OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing]] (BKT mastery estimation), [[personalized-learning]], and [[math-education]], and its open platform model is directly relevant to the [[intelligent-tutoring|AI Tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher]].
+
+## What this means for practice
+
+- **Developers.** Fork the MIT-licensed codebase instead of rebuilding ITS components: OATutor already ships hints and worked examples, scaffolded step decomposition, immediate correctness feedback, bottom-out hints, variabilization, [[knowledge-tracing|Bayesian Knowledge Tracing]] mastery estimation, and an LTI hook for LMS integration.
+- **Developers.** Route authoring through spreadsheets rather than JSON — an automated script converts Google Sheets into the JSON content pool with nightly quality checks, and 16 creators completed a full College Algebra course in about six months, with training averaging 2.27 hours and each problem 11.03 minutes.
+- **Developers.** Reduce per-problem authoring cost with variabilization and one author per chapter: template variables multiply problem instances from a single authored item, and assigning one author per chapter measurably cut the stylistic inconsistency the content team reported.
+- **Developers.** Give authors a development server that renders content promptly: the team's problems were only rendered every 4-7 days at first, and nightly publishing reduced rendering-based mistakes and let authors self-check before editors saw the content.
+- **Developers.** Build the teacher-facing affordances the pilot teacher asked for — an ADA-compliant interface, a progress dashboard showing time on task per student, and a rich-text editor for equations — because entering operators such as a square root was a documented source of student frustration.
+
+## Limitations
+
+- The deployment evidence is one community college instructor teaching seven algebra classes over six terms, with participation voluntary and ungraded; the paper reports usability and continued uptake rather than any [[learning-gains|learning-gain]] comparison, and there is no control condition.
+- Students who used the tutor were self-selected — the pilot teacher observed that they were the more motivated students seeking extra practice — and usage declined across the term precisely because students received no credit for using the system.
+- The authoring figures come from a survey sent to 25 former editor-team members that drew 16 responses, one excluded as incomplete (N = 15 measured), with training time self-estimated to the nearest hour and problem-creation time to the nearest minute.
+- Scope is bounded to algebra content from three OpenStax textbooks: the authors' own extension interview (R4) found that adapting the platform for collaborative VR/AR training would take significant effort, and content bugs caused the worst student frustration in the first pilots.
 
 ## Connected Concepts
 

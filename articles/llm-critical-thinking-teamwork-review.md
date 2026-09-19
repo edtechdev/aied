@@ -1,7 +1,7 @@
 ---
 title: "Can Large Language Models Foster Critical Thinking, Teamwork, and Problem-Solving Skills in Higher Education?: A Literature Review"
 created: "2026-08-11T06:15:03-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, problem-solving]
@@ -40,9 +40,13 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 - **Assessment:** scenario-based and problem-focused evaluation lets students demonstrate applied skills in realistic settings (engineering, health care, business), shifting the assessment culture from knowledge reproduction to applied understanding.
 - **Systemic implications:** the authors argue LLMs can transform curricula, feedback, and assessment at [[governance|institutional]] and policy levels — improving [[equity-in-ai-education|educational equity]], workforce readiness, and innovation — provided institutions establish ethical, equitable, and sustainable adoption frameworks.
 
-## Implications for AI in Education
+## What this means for practice
 
-The review positions LLMs not merely as instructional tools but as **catalysts for systemic improvement** in [[higher-ed]]: embedding LLMs in curricula and assessment can move teaching beyond memorization toward reasoning, hands-on learning, and competency-based evaluation. For instructors, the evidence supports using LLM imperfections deliberately — having students verify, critique, and refine AI outputs turns the technology's limitations into [[critical-thinking]] exercises. For institutions, the review calls for policies that incorporate [[generative-ai]] literacy into curricula, prepare faculty for responsible use, and protect [[academic-integrity|academic integrity]]. The findings on personalized, scalable feedback connect to [[assessment]] and feedback research in large-enrollment courses, while the collaborative and problem-solving benefits align with [[collaborative-learning]] frameworks. The authors caution that impact depends on faculty, managers, and policymakers adopting the tools within broader educational reform.
+- **Instructors.** Turn model error into coursework: assign students to question, verify, and correct LLM output, the validation-and-correction cycle the reviewed studies link to [[critical-thinking]] and mental independence.
+- **Instructors.** Use LLMs to generate practice tests, self-assessments, and rubric-based [[peer-assessment|peer feedback]] so feedback becomes an iterative, social process rather than one-way correction — a move the review ties to stronger [[metacognition|metacognitive]] skill.
+- **Administrators.** Deploy LLMs where feedback delay is the binding constraint, in large-enrollment courses, and pair that with [[generative-ai|GenAI]] literacy in curricula and explicit faculty preparation for responsible use.
+- **Policymakers.** Treat the reported benefits as conditional rather than automatic: the authors argue the impact depends on institutions establishing ethical, equitable, and sustainable adoption frameworks.
+- **Researchers.** Extend the evidence base beyond the review's window — its 22 included articles were published in 2023–2024 only, and no included document examined adoption challenges such as ethics or [[privacy|privacy]].
 
 ## Limitations
 

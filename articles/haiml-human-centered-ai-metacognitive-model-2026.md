@@ -1,7 +1,7 @@
 ---
 title: "HAIML: A Human-Centered AI Metacognitive Learning Model — A Framework for Human Agency and Reflective Learning in the Age of Artificial Intelligence"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-08-24T14:00:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
@@ -56,6 +56,21 @@ Although developed in [[higher-ed|higher education]], HAIML adapts to workforce 
 For [[metacognition]] and [[self-regulated-learning]], HAIML offers a structured way to make AI interactions objects of reflection, addressing [[cognitive-offloading]] and [[cognitive-offloading|Over-Reliance]] risks by keeping learners aware of how AI influences their thinking. It complements [[ai-literacy]] frameworks by adding a metacognitive and ethical layer focused on internal decision-making rather than tool proficiency alone.
 
 The model's human-centered orientation connects to [[human-ai-collaboration]] and to [[human-ai-collaboration]] design, and to [[ethics]] in education. As a framework paper, it would benefit from empirical validation of whether the three-layer progression measurably improves agency and reflection in AI-supported learning.
+
+## What this means for practice
+
+- **Instructors.** Assign an AI Use Level to each task before students start it — Level 1 (no AI) where you are assessing independent knowledge, Level 2 for brainstorming with final work still student-generated, Level 3 for AI as a collaborative partner, and Level 4 for extensive AI-integrated creation with the emphasis on evaluating and revising outputs.
+- **Instructors.** Treat [[metacognition|metacognitive reflection]] as a required, assessed layer of AI-supported work rather than an optional add-on: HAIML positions reflection between using AI and learning from it, and makes it the safeguard against cognitive dependence and automation bias.
+- **Instructors.** Ask learners to report on AI's effect on their thinking — where AI expanded the reasoning, challenged an assumption, or reduced engagement — instead of grading only the artifact, and normalize that reflection as part of the process rather than as a compliance disclosure.
+- **Learners.** Record, for each AI interaction, which decisions were yours and how you [[trust-calibration|verified]] the output, so that authorship, bias, and accountability stay visible in your own record rather than in the tool's.
+- **Faculty developers.** Reframe AI workshops around this metacognitive and ethical layer instead of tool proficiency alone, since HAIML is pitched as the layer existing [[ai-literacy]] frameworks leave out.
+
+## Limitations
+
+- The framework is conceptual: the paper reports no sample, no intervention, and no data, so nothing in it shows that moving through the three layers measurably improves [[agency]], reflection, or ethical judgment — a validation gap the author states would need empirical work.
+- Its foundations are entirely secondary — Bandura on [[self-efficacy]] and [[agency|human agency]], Zimmerman on [[self-regulated-learning]], Kolb on [[experiential-learning]], Schraw and Dennison on [[metacognition]], work on illusions of learning, and automation-bias research — so its coherence rests on how well those theories transfer to AI-mediated learning, which is asserted rather than tested.
+- The Four AI Use Levels are proposed without validation: no reliability data, no evidence that different instructors place the same task at the same level, and no evidence that students respond differently across the four.
+- It is a single-author EdArXiv preprint (Reardon, 2026), so the framework carries one practitioner's synthesis rather than a consensus position worked out across an expert community.
 
 ## Connected Concepts
 

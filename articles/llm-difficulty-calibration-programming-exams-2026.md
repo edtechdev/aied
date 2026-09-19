@@ -1,7 +1,7 @@
 ---
 title: "From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-08-11"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 technology: [learning-analytics]
 assessment: [assessment, automated-assessment, educational-measurement, item-response-theory]
@@ -24,13 +24,20 @@ methods: [ai-ed-evaluation]
 3. **Boundary condition in introductory courses.** A 106-problem CS101 sample marked the limit: problem-level correlation weakened to *rho* = −0.552 and exam-level correlation across 16 exams was near zero, with cohort [[writing-education|composition]] dominating exam-level outcomes. Exposure-discount and duplicate-problem perturbation tests did not change the direction of findings.
 4. **Explicit use-and-abstention boundaries.** The single-reviewer design, unverifiable model identity, and review-output instability mean AI difficulty scales are suitable for problem validation, parallel-class [[bias-mitigation|fairness]] discussion, and longitudinal quality tracking — but must not drive individual student evaluation or automatic grade adjustment.
 
-## Implications
+## What this means for practice
 
-This study reframes the role of [[llm]]s in [[assessment]] from "evaluated object" to "evaluation aid," contributing a methodology that layers AI evidence with student performance, item exposure, and [[learning-analytics]] to interpret exam difficulty. It connects to the growing literature on [[psychometrically-aware-ai]] and [[automated-assessment|Confidence Aware AI Assessment]], where model outputs are treated as one noisy signal among several rather than as ground truth.
+- **Instructors.** Use AI difficulty estimates to flag mis-calibrated problems for item-setting review, not to grade individual students — problem-level AI difficulty tracked student pass rate at rho = -0.871 across 79 problems, but the same evidence is explicitly unsuitable for individual student evaluation.
+- Feed AI results into course-group discussion as risk markers (high difficulty, high time-limit risk, high non-attempt warning) rather than precise scores, and keep the instructor's judgment as the final word.
+- Annotate each exam problem with its exposure type, item-bank visibility, and training coverage before comparing parallel classes; changing the exposure discount from 0.00 to 0.40 left the correlation direction unchanged.
+- **Researchers.** Combine solving-based and review-based calibration — use multi-model answering experiments to establish the ruler's credibility and review-based runs to expand exam coverage — then validate both against student-group performance and teacher judgment.
+- Shift assessment objectives toward problem modeling, algorithm selection, debugging strategy, and human-AI collaborative programming, since models already solve routine coding and template implementation reliably.
 
-For [[cs-education]] and [[cs-education]] practice, the finding that AI difficulty correlates with student outcomes at the problem level supports using LLMs to flag mis-calibrated items across parallel sections and to track item quality longitudinally. The clear abstention guidance is the crucial guardrail: cohort composition effects in introductory courses and the fragility of single-reviewer estimates caution against high-stakes automation, aligning with [[human-in-the-loop-ai]] design principles.
+## Limitations
 
-The work also illustrates the epistemic limits of [[item-response-theory]]-style difficulty estimation when grounded in model rather than human response data, and reinforces the need for verification and [[ai-ed-evaluation]] frameworks that keep AI in a supporting rather than deciding role.
+- The solving-based experiment covered only 8 problems and 10 AI models, so its ranking correlation with student pass rate (rho = 0.866) rests on a small problem set.
+- All review-based evidence came from a single reviewer run through a third-party OpenAI-compatible endpoint whose model label (gpt-5.6-sol) cannot authenticate an official OpenAI model.
+- The exam-level sample is 11 exams that mix two scoring calibers (problems passed and score), so exam-level correlations are exploratory; the 106-problem CS101 sample showed the problem-level correlation weakening to rho = -0.552 and the exam-level correlation across its 16 exams near zero.
+- Public OpenJudge problems and their solutions may sit in the reviewer's pretraining corpus, and the third-party endpoint makes the degree of training-data overlap harder to assess; the authors call for de-contamination validation.
 
 ## Connected Concepts
 

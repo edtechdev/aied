@@ -1,7 +1,7 @@
 ---
 title: "Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future"
 created: "2026-08-19T17:10:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking]
 technology: [generative-ai]
@@ -33,7 +33,8 @@ This is a **review/essay** (not an empirical study) in *Educational [[research-m
 - **Assessment designers.** Train assessors on a shared prompting taxonomy (presenting the task, repeating information, clarifying, probing, leading) and on reflexivity, then prepare carefully for fairness: gender, ethnicity, language, speed of answering, and non-anonymous marking are all potential bias sources, while the format can still accommodate students with dyslexia (Akimov & Malin, 2020).
 
 ## Limitations
-As a review/essay, it does not provide new empirical evidence. The author notes that more research is needed on how students and educators actually experience oral assessments in the current AI environment, and on more practical implementation guidance. It is published in a major research journal (Educational Researcher) but represents a position/review piece rather than original data.
+- As a review/essay, it does not provide new empirical evidence: it is a position/review piece published in a major research journal (Educational Researcher) rather than a study presenting original data.
+- The author notes that more research is needed on how students and educators actually experience oral assessments in the current AI environment, and on more practical implementation guidance.
 
 ## Connected Concepts
 

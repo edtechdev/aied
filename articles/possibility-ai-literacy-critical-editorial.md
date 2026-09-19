@@ -1,7 +1,7 @@
 ---
 title: "The (im)possibility of AI literacy"
 created: "2026-08-10T17:33:14-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -28,9 +28,13 @@ confidence: high
 
 This is a **critical editorial** (not an empirical study) in *Learning, Media and Technology*. It draws on a short history of literacy (Graff; Freire; Green; Janks; Luke), scholarship on critical digital literacies and algorithmic accountability (Ananny & Crawford; Seaver; Suchman; Nichols et al.; Pangrazio & Sefton-Green), and international assessments of digital literacy (ACER 2023; ICILS 2023). The argument proceeds through conceptual analysis of three challenges to AI literacy — the embedded/opaque/evolving nature of AI, the "programmatic practices" of AI, and the history of digital literacies — before proposing alternative (rights and sovereignty) responses.
 
-## Implications for AI in Education
+## What this means for practice
 
-The editorial offers a critical corrective to the proliferation of AI literacy frameworks in education, arguing that [[ai-literacy]] is often deployed as a solutionist, instrumental "cure-all" that overlooks questions of power, agency, and ideology — the cornerstones of [[critical-thinking|critical]] and [[equity-in-ai-education|equitable]] approaches. It cautions that AI literacy programs from commercial tech companies (Google, Microsoft) can only produce "partial forms" of the knowledge and skills required, and that AI literacy should be located within the broader field of critical digital literacies rather than treated as a separate, rarefied program. For educators, it argues institutions must be reconfigured to find time and space for critical [[student-engagement|engagement]] with AI, supporting students to write with, redesign, or even resist AI. It connects to [[ai-education]], [[ethics]], and [[generative-ai]], and resonates with critical work on AI literacy and power ([[ai-literacy-power-knowledge|AI literacy as power-knowledge]]).
+- **Instructors.** Locate AI literacy inside the broader field of critical digital literacies rather than treating it as a separate, rarefied program, and be candid that programs supplied by commercial vendors such as Google and Microsoft can produce only partial forms of the knowledge and skills required.
+- **Instructors.** Make the missing "text" of AI an explicit teaching problem: ask students to name what exactly they are being asked to deconstruct — the algorithm, the model, the training data, or the interface that embeds it inside a product such as Microsoft 365 — since conventional critical decoding assumes a bounded text that AI does not clearly provide.
+- **Instructors.** Defend curriculum time for critical engagement rather than skill drills, supporting students to write with, redesign, or even resist AI, and teach AI as a public object as well as a tool — it curates and shapes public discourse while also being the thing to be discussed and regulated — because criticality requires independent thought that is not shaped by the very technology under scrutiny.
+- **Instructors.** Do not assume a baseline of digital fluency: digital literacies are declining on international measures (ACER 2023 found only 46% of year-10 students reached the proficient ICT standard, and ICILS 2023 recorded a further decline in 14-year-olds' computer and information literacy), so critical AI literacy has to be built on skills students may not have.
+- **Researchers.** Stop treating literacy as the sole or sufficient response: develop literacy, rights (AI that is safe, unbiased, and does not jeopardize privacy), and sovereignty (institutions controlling their own AI and data) in tandem, because literacy on its own shifts responsibility onto the end user.
 
 ## Limitations
 

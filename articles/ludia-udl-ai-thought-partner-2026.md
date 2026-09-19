@@ -1,7 +1,7 @@
 ---
 title: "LUDIA: A Design and Evidence Statement"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, learning-design]
 ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]
@@ -44,13 +44,20 @@ LUDIA is published as a design and evidence statement read against four guides: 
 
 The paper's most distinctive move is its refusal to claim evidence of effectiveness. "We hold no evidence that LUDIA improves learning, and we say so throughout" — there is no trial, no pre-post measure, and no claim of [[learning-gains|learning impact]]. Instead, following the Needs-Based Evidence Mapping, LUDIA adopts a culture of "proof of trust": evidence that is credible, context-rich, explainable, and socially responsible. Trust is treated not as a property a tool possesses and can be certified as holding, but as something that "sits between a person, a tool, and a setting" and must be earned again whenever any of the three changes — a framing echoed in the [[trust-calibration|calibrated trust]] literature. Every output passes through an educator before it can affect anyone, a [[human-in-the-loop-ai|human-in-the-loop]] safeguard the authors themselves call weaker than it sounds, since automation bias means the educator most likely to accept a poor suggestion is the one who trusts that LUDIA knows UDL. The [[bias-mitigation]] gaps are named plainly: nobody has tested LUDIA's outputs for cultural or linguistic bias, and the model may skew toward well-resourced, English-medium, Global North schooling.
 
-## Implications
+## What this means for practice
 
-For educators and instructional designers, LUDIA models a form of AI use in which the tool augments rather than replaces professional judgment — a thought partner that makes its reasoning visible against a published framework and redirects attention from learner deficits to barriers in the design. It offers a concrete, verifiable template for how an AI tool can be both accessible and privacy-preserving by default, with no account, no data collection, and no engagement mechanics.
+- **Designers.** Engineer AI tools as thought partners, not solution engines: frame every response as an option to weigh, make the reasoning against a published framework visible, and point back to the authoritative source.
+- **Designers.** Make privacy and accessibility architectural commitments — no account, no cookies, no server-side chat storage, no data used for training, and conformance to WCAG 2.2 Level AA with keyboard-only operation and screen reader support — and treat the substance of replies, such as register and length, as an [[accessibility]] question rather than a matter of tone.
+- **Instructors.** Use a structured cycle such as the Four T's and complete the Transfer step by reflecting on how reducing a barrier deepened learning; an exchange that stops before that reflection is not yet full thought-partner use.
+- **Instructors.** Keep your own knowledge of your learners as the decisive check on every output and treat the tool as one option among several, because automation bias means the educator who trusts the tool most is the least likely to catch a poor suggestion.
+- **Institutions.** Organize evidence for early-stage public-good tools by the purpose it serves rather than methodological prestige, and specify in advance what counts as "proof of trust"; never treat the tool as a safeguarding route, since a privacy architecture that holds nothing cannot act on a disclosure.
 
-For the broader [[ai-education|AI-in-education]] field, the document advances a strong argument that evidence for such tools should be organized by purpose rather than by [[research-methods-aied|methodological]] prestige, and that "proof of trust" — coherence, honesty, and an account of what a tool is and is not — is a defensible standard for early-stage public-good tools where attribution of learner outcomes is not credible. It also signals a productive tension worth wider attention: a privacy architecture that holds nothing by design is the same architecture that makes it impossible for the tool to receive or act on a safeguarding disclosure.
+## Limitations
 
-For [[accessibility]] and [[equity-in-ai-education|equity]], LUDIA demonstrates that conformance to an accessibility standard covers the interface but not the substance of what the tool produces — the authors treat the academic register and length of LUDIA's replies as an accessibility gap, not a matter of style — and that removing access barriers (no account, no cost, no installation, no integration) is itself an equity move that redistributes effort from the person to the design.
+- No learning-impact evidence: the authors state plainly that "we hold no evidence that LUDIA improves learning," with no trial, no pre-post measure, and no claim of impact.
+- Nothing is independently verified: no external audit of accessibility, security, or reliability; no independent researcher review of the evidence claims; usability testing was informal and undocumented; and the Accessibility Conformance Report is self-authored and still in preparation.
+- Outputs have never been tested for cultural or linguistic bias, and the model may skew toward well-resourced, English-medium, Global North schooling; the 13 languages are machine translations that carry the assumptions of the English source.
+- The comparison guides were self-selected after the tool was largely built, one of them was co-developed by an organization that gave the authors an award, and the authors call reading yourself against guides you picked "the weakest form of assessment there is."
 
 ## Connected Concepts
 - [[universal-design-for-learning]]

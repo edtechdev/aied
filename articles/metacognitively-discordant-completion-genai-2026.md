@@ -1,7 +1,7 @@
 ---
 title: "Metacognitively Discordant Completion and the Aware Pass-Through of Non-Understanding in Generative AI Learning"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -52,11 +52,20 @@ The nearest [[philosophy-of-ai-in-education|epistemic-akrasia]] structure does n
 
 The border case is a sibling construct. The Absent Cognitive Baseline names the case in which a tool did the work before the skill ever formed, so the learner has no internal standard against which a verdict about understanding could issue at all. MDC names the opposite: the baseline exists, the learner uses it, the reading comes back short, and the completion goes out anyway. One learner has no ruler; the other holds the ruler, lays it against the work, reads the shortfall, and lets the work go all the same. The border is not just wording, because two constructs that sort the same case differently — the ACB learner cannot say whether a comprehension check was passed, while the MDC learner says it was not — are not one construct with two names. Condition (ii) also involves an awareness gradient, from a faint unease to a recognition the learner could put into words, and release may divide into deferred and closed subtypes.
 
-## Implications
+## What this means for practice
 
-For [[metacognition]] and [[self-regulated-learning]] research, MDC sharpens the distinction between completion and understanding in AI-mediated work and connects to [[cognitive-offloading]] and over-reliance concerns. The paper argues that existing integrity and [[assessment]] frames each miss one element of the state, suggesting why simple policy responses fail. When completion and understanding can be held apart within one awareness, any [[assessment]] that reads completion as evidence of understanding may be measuring the wrong one of the two — not occasionally and by error but structurally, whenever the state occurs.
+- **Instructors.** Stop reading a correct, well-formed submission as evidence of understanding: the paper's argument is that whenever this state occurs, an [[assessment]] that treats completion as evidence of understanding is measuring the wrong one of the two, structurally rather than by occasional error.
+- **Instructors.** Build one transfer check into each AI-permitted task — a new chart, a new dataset, a fresh problem — so a learner who cannot reproduce the reading must surface it, as the introductory-statistics case in the paper could not reproduce the violin-plot interpretation on a new chart.
+- **Instructors.** Handle the state as a cognitive condition rather than a conduct case: the MDC learner invested real effort, broke no rule, and was not deceived, so detection and enforcement do not reach it and the [[academic-integrity]] frame misses one of its defining elements.
+- **Learners.** Name the moment of release: when you submit work that is correct but that you could not reproduce, write down the verdict you were holding at that point, so a deferred completion can be revisited rather than closed.
+- **Researchers.** Design the evidence before prescribing the remedy — an account counts as evidence for MDC only when completion, detected non-understanding, and release are held together at one moment; a learner who believed understanding was present and found out later is evidence for the illusion family or the [[absent-cognitive-baseline-2026|Absent Cognitive Baseline]], not for MDC.
 
-This reframes the risk of GenAI not primarily as [[academic-integrity|cheating]] but as the routine, aware pass-through of non-understanding, relevant to [[student-experience]] and to [[ai-literacy]] design. The state is cognitive, not a conduct violation; it persists through fully legitimate completion, which is why neither enforcement nor the fluency-correction program of [[desirable-difficulties|desirable difficulties]] reaches it. As a conceptual contribution, the author assigns evidence questions to a planned [[qualitative-research|interpretative phenomenological study]] with graphicacy as the anchoring domain, deferring prescription until the state's lived form is established.
+## Limitations
+
+- The work is conceptual and reports no data: the author states the construct's status is conceptual and assigns every empirical question to a planned [[qualitative-research|interpretative phenomenological study]] using interviews and reflective journals with the GenAI-concurrent cohort.
+- Graphicacy and mathematics are the expected empirical domains, not boundaries of the construct, so nothing yet shows that the state arises under the same conditions in other subjects.
+- The lower edge of the awareness gradient is undecided — where a faint unease ends and a codable recognition begins is one of four evidence debts the paper explicitly leaves to future coding, alongside whether deferred completions ever convert into understanding.
+- The justification layer is excluded by design and developed elsewhere, so the paper deliberately does not account for how reasons are assembled around the state and declines to prescribe any assessment redesign until the assigned evidence arrives.
 
 ## Connected Concepts
 
