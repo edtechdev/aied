@@ -1,7 +1,7 @@
 ---
 title: "Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review"
 created: "2026-09-18T04:11:33-04:00"
-updated: "2026-09-18T04:11:33-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 pedagogy: [anxiety-and-stress, online-teaching-and-learning, well-being]
@@ -51,8 +51,7 @@ Privacy and algorithmic accountability are, by contrast, largely absent from the
 
 The adoption history in the review explains the gap between claim and evidence. Online proctoring platforms emerged around 2008, with ProctorU, Proctorio, Examity and ExamSoft operating well before the pandemic (Lee and Fanguy 2022), but Balash et al. (2023) reported a 720% increase in proctoring use at the onset of COVID-19, an increase the review characterizes as largely reactive rather than strategic. Reputational and regulatory pressure to meet the standards of patient-safety-critical programs drove procurement, while the trade-offs in [[assessment-validity|performance]], equity and [[student-experience|student experience]] went largely unevaluated. What the six studies establish is that surveillance produces deterrence perceptions and a heavy review burden; what they do not establish is that it produces more honest learning, and the review treats that as an open question rather than a settled benefit.
 
-## What the review recommends, and where its limits lie
-
+## What this means for practice
 The recommendations follow from the implementation problems rather than from the deterrence claims. For nursing programs:
 
 - Adopt context-sensitive, ethically grounded proctoring policies rather than importing a single commercial model, since success proved highly context-dependent.
@@ -62,6 +61,13 @@ The recommendations follow from the implementation problems rather than from the
 - Extend the evidence base with longitudinal, multi-site, theory-informed studies that measure sustained academic, psychological and equity effects, including more countries and specifically more low- and middle-income settings.
 
 The limits the authors state bound all of this. Six empirical studies met the inclusion criteria, and their variability in design, modality and outcome measure complicates comparative synthesis and prevents causal inference. Most relied on [[self-report-measures|self-reported]] perceptions rather than objective or longitudinal measures of learning and professional outcomes, and the concentration of evidence in the USA, the UK, Southern Africa and Egypt leaves large parts of the world unrepresented. The review also reasons about cost, from [[anxiety-and-stress|anxiety]] and technostress to performance penalties and normalized intrusion, more confidently than its six studies can support. What it does support is more modest and more useful: remote proctoring in nursing assessment is a family of practices with real operational costs, a demonstrated effect on the assessment conditions students sit under, and a deterrence case that rests on how students say they feel, not on what they do.
+
+## Limitations
+
+- Six empirical studies met the inclusion criteria — one qualitative, two quantitative, two mixed-methods and one implementation study — and their variation in design, modality and outcome measure prevents pooling and rules out causal inference.
+- Most included studies measured [[self-report-measures|self-reported]] perceptions rather than objective or longitudinal learning and professional outcomes, and the headline deterrence figure (98–100% agreement that webcam monitoring and lockdown browsers maintained integrity) comes from a single graduate nurse practitioner program and was conditional on that program's existing integrity culture.
+- Evidence is concentrated in the USA, the UK, Southern Africa and Egypt, and the English-language 2015–2025 search window leaves low- and middle-income settings largely unrepresented.
+- Privacy and algorithmic accountability are largely absent from the six included studies and are supplied from adjacent literature, and the review's claims about cost — from anxiety and technostress to performance penalties and normalized intrusion — are reasoned more confidently than those six studies can support.
 
 ## Connected Concepts
 

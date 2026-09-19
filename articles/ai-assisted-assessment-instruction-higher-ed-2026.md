@@ -1,7 +1,7 @@
 ---
 title: "AI-Assisted Assessment and Instruction in Higher Education: Foundations, Applications, and Implications for Exam Design"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 assessment: [assessment, authentic-assessment, automated-assessment, summative-assessment]
 technology: [generative-ai, llm]
@@ -56,9 +56,23 @@ The paper separates [[academic-integrity|academic integrity]] from detection tec
 
 Legally, it flags that AI use for high-stakes grading requires scrutiny under data protection rules and copyright considerations when student work is transmitted to commercial platforms, and that the EU Artificial Intelligence Act, in force since 2024 and phased in over several years, designates certain educational AI applications as high-risk systems subject to enhanced transparency and accountability. Institutionally, most [[higher-ed|higher education]] institutions currently permit AI in assessment only in an advisory or supplementary capacity, with the final grading decision remaining with a qualified human.
 
-### Limitations
+### The paper's account of its own limitations
 
 The paper is a conceptual review and says so: no new data were collected, and the empirical evidence discussed is cited from other work. Its own stated limitations are that the field moves fast enough to make any systematic account of LLM capabilities potentially outdated within months, since the cited findings reflect specific model versions at specific times; that the practical guidance is illustrative rather than prescriptive and will vary by discipline, institution and [[pedagogy|pedagogical]] context; and that evidence on the long-term consequences of AI tool use — for foundational writing skills, critical thinking and [[self-efficacy|academic self-efficacy]] — remains limited. It also carries a clear provenance caveat: it is a self-described preprint that has not been peer reviewed, and the author discloses that a large language model was used for manuscript preparation including text restructuring, language editing and reference formatting, while the intellectual content and substantive claims are the author's own. Readers should treat the framework as a synthesis of existing evidence with a design argument attached, not as validated by new findings.
+
+## What this means for practice
+
+- **Instructors.** Re-target examination items at the Analyze level and above, where documented model performance falls — GPT-4 0.76 at Analyze against 0.99 at Remember, Llama 3 at 0.59 — and require students to document the thinking behind a submission through successive drafts, reflective journals on their AI use, or critical annotations of AI-generated content.
+- **Assessment designers.** Build the assignment in one of the four AI-robust format families: practical and experimental tasks, oral and interactive formats such as viva voce with examiner questioning, contextually situated tasks anchored in the student's own placement or data, and process-oriented [[eportfolio|portfolio]] and draft sequences.
+- **Educators.** Use the same models in your own workflow with the conditions the paper sets: [[prompt-engineering|prompt engineering]] organized around goal, role, output format, audience, presentation and tone, [[automated-question-generation|item generation]] grounded with [[rag|retrieval-augmented generation]] on your own course materials, low temperature settings (0.1–0.3) where consistency matters, and subject-matter expert review of every generated item before operational use.
+- **Administrators.** Keep the final [[summative-assessment|summative]] grading decision with a qualified human examiner, and treat transmission of student work to commercial scoring platforms as a data-protection and copyright decision rather than a procurement detail, since the paper notes most institutions currently permit AI only in an advisory or supplementary capacity.
+
+## Limitations
+
+- The paper is a conceptual review: no new data were collected, and every empirical claim is cited from other work rather than re-tested in it, so the framework is a synthesis of existing evidence with a design argument attached.
+- It is a self-described preprint that has not been peer reviewed, and the author discloses that a large language model (Claude) was used for manuscript preparation including text restructuring, language editing and reference formatting, with the substantive claims retained as the author's own.
+- The capability account rests on specific model versions at specific points in time — the Huber and Niklaus mapping of 43 [[benchmark]] tasks, for example — which the author states can be outdated within months of publication.
+- Evidence on the long-term consequences of AI tool use for foundational writing skills, critical thinking and academic [[self-efficacy|self-efficacy]] remains limited, and the practical guidance is illustrative rather than prescriptive across disciplines, institutions and pedagogical contexts.
 
 ## Connected Concepts
 

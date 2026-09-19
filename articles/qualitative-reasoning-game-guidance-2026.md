@@ -1,7 +1,7 @@
 ---
 title: "A Qualitative Model for Reasoning about Path and Support"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [machine-learning, simulation]
 pedagogy: [game-based-learning, problem-solving, scaffolding]
@@ -32,6 +32,20 @@ A solver that finds the optimal next move is not a tutor. Guidance requires know
 ## Open questions the paper raises
 
 The paper is a modeling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners]], is not tested here. The authors also note that the solver's qualitative behavior opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
+
+## What this means for practice
+
+- **Designers.** Use the model as a hint engine rather than a solution generator: because the same symbolic representation that decides whether a bridge holds can be verbalized, guidance can be tailored to the player's current attempt instead of revealing the optimal move.
+- **Designers.** Instrument the solver's structural metrics — placement options, inventory count, orientation and pruning efficiency — to calibrate level difficulty to a learner rather than fixing it by level design.
+- **Instructors.** Pair the puzzle with explainable, human-like hints of this kind when the instructional goal is spatial-skill training in stability and path visualization rather than game mastery.
+- **Researchers.** Extend the hybrid qualitative-plus-center-of-mass approach to other physical puzzle games before assuming it generalizes, since the model encodes Camelot Jr.'s specific rules (fixed towers, a limited block inventory, every block used).
+
+## Limitations
+
+- This is a modeling contribution with no learner-facing evaluation: no children or students were tested, no learning gain was measured, and the authors present experiments with STEM students as future work rather than as a study.
+- The solver is built for one game, Camelot Jr., and hard-codes its rules — castle boundaries that cannot be exceeded, towers that cannot be moved or rotated, and a requirement that every inventory block be used — so transfer to other puzzles is asserted as a next step, not demonstrated.
+- The solver is hybrid rather than purely qualitative: the domain's physics had to be supplied explicitly through a numerical center-of-mass stability check, which the authors adopt because qualitative relations alone could not decide whether a structure topples.
+- Evaluation stops at the agent satisfying two independent criteria within the game's state space, static stability and path connectivity; there is no comparison against human players' solutions or against alternative hint strategies, and the difficulty metrics the paper proposes have not been built.
 
 ## Connected Concepts
 

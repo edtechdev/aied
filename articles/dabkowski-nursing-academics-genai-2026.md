@@ -1,7 +1,7 @@
 ---
 title: "'Co-pilot won't teach you to be a nurse': nursing academics' perspectives on GenAI use in undergraduate education"
 created: "2026-09-18T04:11:08-04:00"
-updated: "2026-09-18T19:05:35-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking, teacher-role]
 pedagogy: [transfer-of-learning, student-ai-interaction, scaffolding]
@@ -42,11 +42,17 @@ The second theme moves furthest from [[ai-detection|integrity policing]]. The ob
 
 Under the third theme, participants argued for neither prohibition nor permissive access. They called for deliberate teaching of ethical, transparent use, [[educational-development|staff development]], and unit redesign, with one describing "lots of professional development around writing new units to incorporate GenAI" [P10], and rejecting avoidance because "it would be unhelpful to actually not allow our nursing students to learn how to use it efficiently, ethically, effectively, when others will" [P21]. Several described using GenAI's fallibility as a teaching device: [[simulation|AI-generated bots role-playing a graduate coordinator]] for interview practice, or deliberately inaccurate outputs posted for discussion so students "understand that not everything we get from it is accurate" [P21]. The paper's closing quote gives its title: "Copilot won't teach you to be a nurse" [P11].
 
-## Implications for policy and practice
-
+## What this means for practice
 The authors call for nursing-specific guidance aligned with the profession's ethical codes and standards, rather than generic institutional [[educational-policy-ai|AI policy]]. They argue GenAI literacy and ethical reasoning should be embedded across the [[curriculum-design|curriculum]] (Simms, 2025), that assessment design needs continuing review so tasks still evaluate a student's own reasoning and judgment, with more weight on authentic and process-oriented formats, and that [[teacher-ai-competency|staff development]] and co-design with staff, students and [[stakeholders]] are needed for any of this to hold. They name the TWO PRISMS assessment design framework as one way to work through this (Winchester 2025). The paper endorses Dawson et al. (2024): [[assessment-validity|validity]] matters more than cheating.
 
 Two caveats belong with the findings. Recruitment through one professional network means the views of nursing academics outside it, and outside Australia and New Zealand, are not represented, and the accounts are [[self-report-measures|self-reported]] on a sensitive topic where candour may have been constrained. The authors also note that the team's own roles as nursing educators and Academic Integrity Officers shaped what was asked and how it was read, and that GenAI tools and institutional responses are changing fast enough that the findings describe a particular moment. The paper concludes that GenAI in nursing education cannot be treated as a generic [[higher-ed|higher education]] issue, because it changes how educators judge competence, accountability and readiness for practice.
+
+## Limitations
+
+- Recruitment ran through a single professional network — the Australasian Academic Integrity Network mailing list of more than 1100 staff at approximately 140 institutions — and 22 academics from Australia and New Zealand responded. Views of nursing academics outside that network and outside those two countries are not represented.
+- The evidence is [[self-report-measures|self-reported]] interview accounts about a sensitive topic. Participants described their own and colleagues' AI practice, policy experience and misconduct concerns, with no observation of teaching, marking or assessment behavior to corroborate them, so candor may have been constrained.
+- All five researchers held Academic Integrity Officer roles while analyzing the data and four were nursing academics; the paper names that positionality as a possible influence on which questions were asked and how accounts were read.
+- Data collection stopped at 22 interviews once information power was judged sufficient, against a pre-estimate that 15 to 20 would likely suffice, and the authors note that GenAI tools and institutional responses are changing fast enough that the findings describe a particular moment.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "A Proposal for Open Learning Practices in Response to Generative Artificial Intelligence"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, formative-assessment]
@@ -43,7 +43,6 @@ The analogy is structural rather than rhetorical. Each open science practice exi
 The limits are worth naming, though Boysen presses the parallel hard. Open science opens work to an external community of peers who can independently reanalyse; open learning opens work mainly to one teacher, and the "data" are a student's sources and drafts rather than a dataset another person could reanalyse to a different conclusion. Boysen also flags a terminological trap in a footnote: his "open learning practices" are derived from open science and are "not directly related" to the older sense of open learning or to open educational practices. The practices he proposes are an integrity device for [[assessment]], not a movement about open access to course materials.
 
 ## The practices and what they ask of teachers and students
-
 For teachers, adoption is front-loaded. Preregistration requires writing a plan that enumerates project steps and due dates alongside the final requirements; the analysis plan requires an explicit statement of acceptable sources and an explicit description of AI uses that are required, allowable and forbidden; grading requires deciding how much structure to impose and how to score compliance. Boysen sketches the range: at one extreme a teacher stipulates every detail, at the other a teacher simply asks for a portfolio at the end. Evaluation can be a prerequisite for earning any grade on the work, a specifications-style credit for meeting minimum requirements, or a rubric-scored element when the practices themselves are the learning goal.
 
 For students, the demands are equally concrete and amount to a different way of working. They export AI chat transcripts, maintain shared reference libraries, annotate what they read, save successive drafts with version history intact, and explain what informed each revision, whether teacher comments, a writing center, grammar tools or an AI review. Boysen frames this as [[self-regulated-learning|self-regulation]] made visible, and argues the documented steps also reduce procrastination and the incentive to take expedient shortcuts. The [[pedagogical-partnerships|shared plan]] reframes the teacher as a partner who reviews work in progress rather than an examiner who receives a finished object.
@@ -53,6 +52,14 @@ For students, the demands are equally concrete and amount to a different way of 
 Boysen does not oversell the model. He concedes it cannot eliminate cheating, only make integrity verifiable when work looks suspect, because the documents supplied under open practices are exactly what a teacher needs to check a submission's history. He concedes the workload: new technology, redesigned assignments and syllabi, teaching students skills they may resist, and more material to collect and grade. He concedes that low-stakes credit for process may contribute to grade inflation, and that the approach is "mainly relevant to larger projects aimed at skill development and are less applicable to day-to-day course activities related to knowledge acquisition". He also reports without rebutting the criticism that version-history monitoring functions as surveillance, which sits uneasily with the developmental framing.
 
 His affirmative case rests on three claims: students learn research transparency by enacting it; they build transferable technology, project-management and [[collaborative-learning|collaboration]] skills; and the framing is learning-focused rather than punitive, letting teachers intervene early when a process looks wrong, before a final submission turns a teaching moment into a disciplinary case. The variation section is his answer to feasibility objections, since no research study uses every open science practice and no assignment need use every open learning practice. Institutional conditions are largely left implicit: whether [[educational-policy-ai|policy]] and systems support this kind of [[change-management|change]] is not the paper's subject.
+
+## What this means for practice
+
+- **Instructors.** Publish a shared plan for learning before a project begins by enumerating every required step and its timing alongside the final requirements, extending the Transparency in Learning and Teaching advice about purpose, tasks and success criteria.
+- **Instructors.** Write an analysis plan that states which AI uses are required, allowable and forbidden, and have students document use as they go by exporting full chat transcripts with metadata rather than disclosing it in a statement at the end.
+- **Instructors.** Require and grade process artifacts: shared reference libraries and annotations (Mendeley, Zotero, Perusall) plus preserved version histories in OneDrive or Google Drive, scored as low-stakes credit for meeting minimum requirements, with the portfolio as the record.
+- **Curriculum designers.** Scope the model to larger skill-development projects. Boysen states the practices are "less applicable to day-to-day course activities related to knowledge acquisition" and that adoption costs teachers new technology, redesigned assignments and syllabi, and more material to collect and grade.
+- **Administrators.** Set expectations for the two costs the author concedes before rolling this out: low-stakes credit for process may contribute to grade inflation, and version-history monitoring is criticized as surveillance, so consent and privacy terms for process data should be explicit.
 
 ## Limitations
 

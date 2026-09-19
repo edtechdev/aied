@@ -2,7 +2,7 @@
 title: "AI Literacy of Teachers: Prompt Engineering and Model Selection as Predictors of AI-Feedback Quality"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
 assessment: [ai-feedback-quality, feedback, feedback-literacy]
@@ -61,6 +61,21 @@ That cycle also frames the study's forward-looking claim. As models internalize 
 Four limits are stated. The findings are bound to the specific model versions and the collection period, so replication with later models may not reproduce them. The prompt manipulation held linguistic formulation constant within each category, so the study cannot separate the effect of a prompt *category* from the effect of the particular wording used to instantiate it — and other work suggests wording matters. The context is a single task, feedback on learning goals in lesson planning, and transfer to other feedback tasks and other subjects is untested. And Study 1's design allows only 20 learning goals per prompt-and-model cell, which limits how much can be claimed about individual effects while leaving the aggregate pattern intact.
 
 What remains solidly established is a variance decomposition that teacher education can act on. If model choice and prompt design together explain something like two-fifths of the quality of AI-generated feedback on novices' work, then both belong in the competency set teachers are trained for — and the leverage is concentrated in specific, teachable moves rather than in generic familiarity with the tools. The study's own framing of the [[teacher-role|teacher]] as the one who decides what feedback is for, what model to use, and how to judge the response, is the practical form of that conclusion.
+
+## What this means for practice
+
+- **Teacher educators.** Train the two moves with measured leverage — selecting the model and phrasing the task in the subject's own technical language: model choice alone explained 26.9% of the variance in rated feedback quality, and stripping domain-specific terminology from the prompt significantly lowered quality (β = −0.412).
+- **Teacher educators.** Require pre-service teachers to name assessment criteria in specialist terms instead of paraphrasing them into everyday words, since the domain-terminology effect was the one prompt feature the study found to matter.
+- **Faculty developers.** Drop the assumption that step-by-step reasoning instructions are necessary: removing the chain-of-thought instruction changed nothing detectable in Study 1 (β = 0.012), and the paper notes that newer models apply that reasoning internally without being asked.
+- **Faculty developers.** Re-verify any model recommendation against the current version before it enters a training module: the rankings rest on ChatGPT-4, Claude 3 and Gemini Advanced as tested in 2024, and the authors' practical rule is to use the most capable current frontier model.
+- **Researchers.** Enter prompt design and model choice into the same model rather than reporting them separately: adding prompt design lifted explained variance from 26.9% to 42.8% in Study 1 and from 18.4% to 24.1% in Study 2.
+
+## Limitations
+
+- The sample is 153 pre-service teachers (mean age 22.53, 78% female) in the fourth semester of a bachelor's program during a four-week 2024 school internship, and the rated product is novices' own learning goals, so the findings speak to initial teacher education and not to in-service practice.
+- The outcome is coded feedback quality rather than a learning effect — no student ever received the feedback — and quality was scored by three trained coders with interrater reliability between κ = .73 and .93 on a 20% double-coded sample, leaving four fifths of the feedbacks single-coded.
+- Study 1's design allowed only 20 learning goals per prompt-and-model cell with no repeated measurement within a condition, and the eleven prompt variants were selected empirically from 330 pilot feedbacks by two authors identifying the promising features, rather than pre-registered.
+- The prompt manipulation held linguistic formulation constant within each category, so the study cannot separate the effect of a prompt category from the wording used to instantiate it, and it covers a single task — feedback on learning goals in lesson planning.
 
 ## Connected Concepts
 

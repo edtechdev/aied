@@ -1,7 +1,7 @@
 ---
 title: "Edustories: A Collection of Real-world Case Studies from Classroom Practices"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [llm, educational-nlp]
 pedagogy: [student-engagement, collaborative-learning]
@@ -33,6 +33,20 @@ Individualized tutoring is the tractable case for AI: one learner, one dialogue,
 ## From prediction to assistance
 
 The paper is careful about the distance between predicting an outcome and helping a teacher. Useful assistance would likely require free-form rationales or conversational interfaces rather than a single predicted label, and the authors flag that as future work at the intersection of AI and [[human-ai-collaboration|human-computer interaction]]. Read alongside the wiki's other work on [[teacher-role]] and [[educational-development]], it strengthens the case that the next productive wave of AI-in-education research runs through the teacher's decision rather than the student's answer.
+
+## What this means for practice
+
+- **Teachers.** Write up your classroom interventions in the dataset's five-part structure — situation narrative, student background, the problem, the intervention you applied, and the perceived outcome — so your own cases become comparable practice rather than anecdote.
+- **Teacher educators.** Require short- versus long-term outcome to be labeled in collective reflection sessions, because that is the distinction human experts agree on 82.56% of the time (κ = 0.7356) and the one models fail worst, identifying long-term success only 49.88% of the time against 71.97% for human experts.
+- **Administrators.** Do not deploy a language model to decide whether an intervention worked: the best evaluated model (Qwen-3-30B, 0.580) only reaches the lower bound of expert accuracy (0.573–0.587), and 5 of 6 models fall below it.
+- **Researchers.** Build and test teacher-facing feedback interfaces — free-form rationales or conversational systems — instead of more single-label outcome prediction, which the authors treat as a prerequisite capability rather than the assistive product.
+
+## Limitations
+
+- All 1,492 case studies were written by 241 trainee teachers in the final years of their university study at Czech elementary and high schools (2023–2026), so the corpus under-represents experienced practitioners and their strategies.
+- Only six locally run models from the Llama 3, Qwen 3, Mistral v0.3 and Olmo 3 families were evaluated; models above 100 billion parameters and proprietary API services were excluded on computational grounds, so the 0.580 ceiling is not a claim about frontier systems.
+- Outcome labels are the teachers' own perceived results, and expert judges agreed on only 82.56% of cases (κ = 0.7356), which bounds how accurately any system can be scored against this ground truth.
+- The English free-text is machine-translated Czech, and the authors estimate that 5–10% of stories may contain a typo or "translationese" text that no human proofreader verified.
 
 ## Connected Concepts
 

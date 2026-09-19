@@ -2,7 +2,7 @@
 title: "I code or AI code: A comparative evaluation of AI-rated scores in classroom observations"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 foundations: [teacher-role]
 technology: [human-in-the-loop-ai, llm, multimodal]
 assessment: [assessment-validity, automated-assessment, educational-measurement]
@@ -58,6 +58,21 @@ The most consequential limitation is not statistical. Because the study compared
 For schools with constrained human capacity, the practical proposal is a hybrid workflow: AI as a first-pass scoring and evidence-surfacing tool that directs scarce human attention where it is most needed, with raters retaining interpretive authority over emotional nuance and over professional learning. On this reading, AI outputs should be framed as evidence for reflection rather than as scores for evaluation — an [[assessment-validity]] position rather than an efficiency claim.
 
 The paper adds two under-discussed requirements to that workflow. The first is training for the humans: teachers and observers need [[ai-literacy|AI-literacy]] preparation as part of observation-focused [[educational-development|professional development]] if they are to read model output critically. The second is a research agenda the study deliberately leaves open — comparisons across multiple models, incorporation of [[multimodal]] and video signals, extension to primary and secondary settings, and alternative frameworks such as ECERS or ICALT, plus direct evaluation of whether AI-assisted workflows genuinely reduce rater workload without compromising validity. The closing formulation is worth keeping as the field's default question: not whether AI can replace classroom observation, but how AI-assisted observation can be designed so that [[teacher-role|teachers]] retain judgment where it matters and are freed from workload where the model has demonstrated reliability.
+
+## What this means for practice
+
+- **Instructors.** Treat transcript-based AI scores as a first-pass screen that directs your attention instead of an observation result: agreement was moderate overall (weighted κ = 0.681) and not significant on Classroom Organization (r = .123) or Instructional Support (r = .195).
+- **Instructors.** Reserve human judgment for the dimensions where level and rank disagree, since neither party is the reference: raters placed Emotional Support 0.806 points above the AI (d = 1.343) while the AI placed Concept Development 0.406 points above raters.
+- **Instructors.** Start with feedback-focused constructs when you pilot AI scoring, because Quality of Feedback was the one dimension with significant agreement and no mean difference (r = .269, p < .05), matching the model's strength on explicit, exchange-based language.
+- **Researchers.** Compare single observation cycles when your question is rater-versus-AI consistency, and do not read construct-level convergence as instrument validity — individual raters ranged from κ = .515 to .712 against the model, so some human judges fall below the level the CLASS protocol treats as acceptable.
+- **Researchers.** Fund training for the humans alongside the model: the workflow the authors propose requires teachers and observers to read model output critically, which is an AI-literacy skill that observation-focused professional development rarely covers.
+
+## Limitations
+
+- One model, one instrument and one context: a single prompt-engineered Perplexity GPT-5.0 applying CLASS Pre-K to 87 transcript observations of 15–20 minutes from 38 K1 teachers in 30 Hong Kong kindergartens, and assembling that sample excluded 83.24% of the source footage to obtain single-teacher audio, with 52.6% of teachers missing demographic data through non-reporting.
+- The pipeline is transcript-only, so facial expression, tone, spatial dynamics and momentary routines are absent — the paper's own explanation for its divergence on Classroom Organization — and any claim about what the model missed rests on an input format that cannot carry it.
+- The comparison used individual observation cycles rather than the four-to-seven-cycle classroom averages CLASS prescribes, because the aim was rater-versus-AI consistency rather than an estimate of teacher quality.
+- Negative Climate hit a human ceiling — raters gave the maximum score of 7 in 63 of 71 observations while AI scores clustered at 6 — so that dimension's statistics rest on almost no human variance.
 
 ## Connected Concepts
 

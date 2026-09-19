@@ -1,7 +1,7 @@
 ---
 title: "Is GenAI Helpful for Writing? A Re-Analysis Using Robust Bayesian Meta-Analysis (RoBMA)"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, llm]
@@ -36,8 +36,15 @@ Robust Bayesian meta-analysis, implemented through the RoBMA R package (version 
 
 The prior structure is the second difference. RoBMA's defaults are deliberately conservative, assuming bias and pulling estimates toward zero, which means the analysis is not set up to flatter large effects. The one hand-set prior is the average effect itself, μ ~ Normal(.40, 1), anchored on Hattie's synthesis of educational intervention effects. Since the prior is informative and centered well below the original *g* = 0.76, the collapse to near zero cannot be attributed to an uninformative prior letting the likelihood drift; it is a genuine shift in what the data support. The note also points readers to Harrer et al. (2021) for the terminology, positioning the work as methodological translation rather than a technical novelty.
 
-## Results, reading, and what the reversal does and does not establish
+## What this means for practice
 
+- **Researchers.** Re-estimate a pooled effect with model averaging before treating it as settled. The same 13-study dataset behind *g* = 0.76 yields *g* = .018 [−0.377, 0.553] under RoBMA with Bayes factor 0.320, so state which publication-bias model and prior the headline number depends on.
+- **Researchers.** Report the outlier-removed estimate beside the full-data one. Dropping the extreme study (*g* = 3.752) left *g* = 0.245 [−0.128, 0.87], an interval that still spans zero with heterogeneity near-certain.
+- **Researchers.** Pre-specify and justify any informative average-effect prior. Here μ ~ Normal(.40, 1), anchored on Hattie's synthesis of more than 2,000 effect sizes, ensures the collapse toward zero cannot be attributed to an uninformative prior.
+- **Instructors.** Treat any single pooled effect size for [[generative-ai|GenAI]] and writing as provisional when planning instruction: with 13 primary studies and heterogeneity at 100% posterior probability, one number summarizes a heterogeneous literature poorly in the original analysis and the re-analysis alike.
+- **Researchers.** Post data and analysis code with meta-analyses. This re-analysis was feasible because the original study's data were public, and the note's own R code is posted on the same basis.
+
+## Limitations
 The two models tell a coherent story. The full-data model is dominated by uncertainty: a point estimate of .018, a credible interval straddling zero, and a Bayes factor below 1. Once the extreme outlier is removed, the substantive picture is less dramatic but unchanged in kind — the effect estimate roughly doubles to 0.245, but its interval [−0.128, 0.87] still includes zero, and heterogeneity remains high. Neither specification supports a large, dependable effect, which is the note's claim: not that generative AI cannot help writers, but that this evidence base does not demonstrate that it does.
 
 Read as [[research-methods-aied|methodology]], the note is an unusual kind of contribution. It supplies no new data, its data and R code are openly posted, and its entire argument is a re-estimation — a direct challenge to the practice of treating a headline effect size as settled. It sits in the same family as other critiques of the AI-in-education evidence base: [[bias-mitigation|bias]] diagnostics and [[assessment-validity|validity]] checks applied to research claims rather than to instruments.

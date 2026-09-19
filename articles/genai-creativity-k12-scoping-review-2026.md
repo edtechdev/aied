@@ -1,7 +1,7 @@
 ---
 title: "Generative Artificial Intelligence and Creativity in K–12 Education: A Systematic Scoping Review"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [creativity, project-based-learning, inquiry-based-learning, game-based-learning]
 foundations: [ai-literacy, critical-thinking, design-thinking]
@@ -59,8 +59,15 @@ The chapter's constructive contribution is a pair of frameworks it applies rathe
 
 Five practical recommendations close that argument: [[educational-development|professional development]] on GenAI ethics and equity, so teachers can address bias, surveillance and unequal access and move beyond efficiency toward genuinely new instruction; student [[ai-literacy]] programs built on functional, critical and rhetorical literacies, in which learners critique and revise AI suggestions rather than accept them; clear classroom policies that permit flexible use while requiring disclosure of AI-assisted work and preserving the student's own voice; explicit instruction in critical engagement, comparing AI and human outputs and reflecting on what makes a voice authentic; and continuous monitoring of whether students are becoming more autonomous and reflective or more dependent. The design message is consistent: [[scaffolding]] should be developmentally appropriate, [[culturally-relevant-pedagogy|culturally responsive]], transparent, and structured to extend the creative process rather than substitute for it.
 
-## Limitations and what this review cannot establish
+## What this means for practice
 
+- **Teachers.** Choose purpose-built tools with age-appropriate scaffolding - voice input, storyboards, visual mind maps - over off-the-shelf platforms: ChatScratch, which supplies these, lifted the creativity support index to M = 84.0 against 75.4 for the control (p < .05).
+- **Educators.** Keep GenAI in an augmentation role in which the student supplies ethical reasoning, context and ownership while the model supplies ideation breadth, and treat it as a scaffold rather than an author.
+- **Curriculum designers.** Write classroom policy that permits flexible use but requires disclosure of AI-assisted work and preserves the student's own voice, and teach students to compare AI and human outputs critically.
+- **Curriculum designers.** Adopt the review's five recommendations: professional development on GenAI ethics and equity, functional-critical-rhetorical AI literacy for students, disclosure-based policy, explicit critical engagement, and continuous monitoring of whether students become more autonomous or more dependent.
+- **Researchers.** Define [[creativity]] with an established framework and measure it with evidence-centered design or stealth assessment before claiming enhancement; most reviewed studies never stated how they defined the construct.
+
+## Limitations
 The review also circulates under a second title — [*Generative AI for Creative Learning in K-12 Education: Insights from a Systematic Scoping Review*](https://osf.io/preprints/psyarxiv/cb2uk_v1) — with the same authors and the same corpus of 45 studies, so this page covers both versions. The study's limitations follow from its genre. A scoping review maps breadth rather than estimating effects, and the authors never report effect sizes, risk-of-bias appraisal or a quality weighting for the 45 studies, so nothing in it establishes that GenAI *causes* creativity gains; the closest the corpus comes is small-scale experimental comparison — ChatScratch against Scratch, MindScratch against Scratch, an AI-supported problem-based curriculum against conventional teaching — mostly with short exposures. The evidence base is also thin where it matters most for the review's own question: four assessment studies, three co-creativity studies, and a broad-effects subcategory where creativity "emerged" from open-ended activity without formal measurement.
 
 Coverage compounds this. The corpus is English-language only by criterion, is heavily skewed to language and writing tasks, contains a single music study and no embodied or spatial work, and reaches equity, accessibility, multilingual and cross-cultural creation in just a handful of studies; only two explicit equity studies means the review can say little about who benefits. Its own venue profile shows the shape of the field: much of the creativity-tool work appears in human–computer interaction and interaction-design venues such as CHI and IDC, alongside education technology journals and conference proceedings, rather than in the assessment or creativity-measurement literature that supplies the psychometric standards the authors invoke. Several "studies" are frameworks, prototypes or conceptual papers, so design insight and demonstrated learning gain are not the same evidence. Finally, the [[generative-ai]] capabilities under study move faster than publication cycles: the review's 2025 tools will date even if the problems of theory, measurement and equity that it diagnoses do not, and the authors' five-cycle and measurement arguments will need re-testing on the next generation of models.

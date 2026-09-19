@@ -1,7 +1,7 @@
 ---
 title: "Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-18T12:35:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [scaffolding, learning-theories, situated-learning, embodied-learning]
 technology: [pedagogical-agent, virtual-and-augmented-reality]
@@ -61,6 +61,21 @@ The research implications are stated as a gap list. The relationships among agen
 This is a conceptual framework paper, not an empirical study, and the authors say so plainly. Hardly any empirical studies have been conducted on interaction and learning with pedagogical agents in immersive media, and some of the relationships the framework asserts are extrapolated from adjacent research areas: immersive interaction with avatars, or [[pedagogical-agent]]s in non-immersive media. The framework is also deliberately partial. It is restricted to the prototypical interaction of one learner with one pedagogical agent, leaving multiple agents and mixed agent-human groupings unconsidered, though the authors expect the basic ideas to scale. It excludes learner characteristics such as personality traits, intelligence and personal knowledge, on grounds of economy, while noting that initial work links virtual environment learning to personality. It puts environmental settings and [[multimodal]] appearance attributes of agent and avatar outside scope. It factors out long-term learning outcomes entirely, so the framework cannot yet say whether its psychological potentials convert into factual, conceptual, procedural or transfer learning. And it leaves instructional design principles at conceptual level, which means the layer that is supposed to convert potentials into practice is the least specified.
 
 Two consequences follow for how the evidence should be read. First, several claims are explicitly unresolved rather than merely untested: whether extraneous cognitive load increases or decreases overall under immersive agent interaction, whether social presence acts as moderator or mediator of realistic social responding, and whether agent awareness raises or lowers extraneous load, all remain open in the authors' own reading. Second, the framework is offered as a foundation for future work rather than a validated model, and its temporal layer is admittedly hypothetical: the developmental trajectory in Figure 3 is exemplary, with the course of change depending on session duration, frequency, technical setup, task complexity, prior XR experience and learner characteristics. Where the paper does cite [[quantitative-research|quantitative]] anchors, such as cybersickness prevalence or the timing of symptom peaks and after-effects, those come from immersive-media research that does not involve pedagogical agents at all.
+
+## What this means for practice
+
+- **Designers.** Cap exposure and build a visible exit into every session, because roughly 42% of VR headset users report cybersickness symptoms, after-effects run from around ten minutes up to several hours, and the authors' own recommendations are rapid exit strategies plus scheduled breaks between sessions.
+- **Designers.** Spend the agent's realism budget on behavior rather than appearance: behavioral realism is the framework's decisive predictor of social presence, while raising visual fidelity risks the uncanny valley and a sudden rejection of the agent.
+- **Instructors.** Decide per scenario whether you want pronounced social presence, since it cuts both ways: it helps when the aim is social influence or relationship building, and it works against you when uninhibited exploration or honest self-disclosure is the goal, because the learner turns to impression management instead.
+- **Instructors.** Screen learners for cybersickness susceptibility and keep AR available as the fallback, since the framework expects physical presence in both AR and VR while treating AR as the condition that leaves the learner located in the real room.
+- **Researchers.** Instrument all four psychological clusters — virtual self-experience, experience of the agent, social interaction with the agent, and the immediate learning factors — when you evaluate an XR agent, because ACLIME factors long-term outcomes out and therefore cannot tell you whether a deployment taught anything.
+
+## Limitations
+
+- This is a conceptual review with no data of its own: the authors state that hardly any empirical studies have been conducted on interaction and learning with pedagogical agents in immersive media, so every relationship in ACLIME is synthesized rather than tested.
+- Part of the framework is extrapolated from adjacent research areas — immersive interaction with avatars, or pedagogical agents in non-immersive media — and the quantitative anchors it borrows, including the 42% cybersickness prevalence rate and the timing of symptom after-effects, come from immersive-media research that involves no pedagogical agents at all.
+- The scope covers a single learner interacting with a single agent and deliberately excludes learner characteristics such as personality traits, intelligence and prior knowledge, along with environmental settings and appearance attributes such as attractiveness, age or height.
+- The layer meant to convert potentials into practice is the least specified one: instructional design principles are addressed only at conceptual level, and the developmental trajectory behind the framework's temporal claim is exemplary rather than established.
 
 ## Connected Concepts
 

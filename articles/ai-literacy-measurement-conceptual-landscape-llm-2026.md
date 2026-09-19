@@ -1,7 +1,7 @@
 ---
 title: "Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach"
 created: "2026-09-18T12:05:00-04:00"
-updated: "2026-09-18T12:05:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai, assessment-validity]
@@ -59,6 +59,14 @@ For instrument selection, the paper replaces a label-matching habit with an alig
 For comparability across studies, the results explain why pooling AI literacy findings is risky. Where jangle patterns are common, meta-analytic synthesis quietly merges skills that are not equivalent; where jingle patterns appear, scales sharing a construct name may be measuring different competences. Both [[educational-measurement|measurement]] problems argue for clearer specification of construct names and definitions before synthesis, particularly for critical evaluation, ethical reasoning, social-impact awareness and communication and collaboration.
 
 For construct validity, the authors' framing is that the techno-centric imbalance is now a liability rather than an accident. As [[generative-ai|generative AI]] lowers technical barriers, the practical challenge shifts toward critical evaluation, ethical judgment and informed decision-making — the same shift UNESCO and OECD frameworks now prioritize — yet the measurement landscape still consolidates around the technical core while socio-emotional and ethical constructs remain heterogeneously defined and weakly integrated. Their proposal is conceptual interoperability, not one universal scale: broad multidimensional instruments should show clear semantic separation between dimensions, while context-specific measures may reasonably show tighter clustering, provided their validity claims match their scope. The method itself is pitched as an early-stage diagnostic that can be run before data collection, so scale developers can see whether their constructs are distinct and their items aligned while the fix is still cheap.
+
+## What this means for practice
+
+- **Researchers.** Screen candidate scales semantically before data collection rather than by construct label alone: embedding the 12 instruments' item text recovered reported reliability from within-construct similarity in all three models (best r = 0.49, p < .001), which surfaces jingle and jangle cases while a fix is still cheap.
+- **Researchers.** Confirm every flagged pair with respondents before acting on it. Thresholds here are relative to the empirical similarity distribution, so treat candidate overlaps as hypotheses to take into [[assessment-validity|validity]] discussions, cognitive interviews or think-aloud work rather than as settled equivalences.
+- **Designers.** Write constructs as `[LABEL]: [DEFINITION]` in your instrument documentation, because encoding definitions alongside bare labels such as "Usage" or "Application" is what reduced ambiguity when the constructs were embedded.
+- **Designers.** Decide whether your scale is meant to be broad or context-specific and check that its semantic structure matches. A broad multidimensional instrument should show clear separation between dimensions; a tightly clustered context-specific scale is defensible only if its validity claim matches that narrower scope.
+- **Instructors.** Audit item wording before adopting an AI literacy scale for your program. The adult-focused instruments in this corpus contributed 41 construct entries with only two affective constructs and no [[self-efficacy]] or [[collaborative-learning]] content, so a scale can underrepresent the [[critical-thinking|critical evaluation]] and social-impact reasoning you intend to teach.
 
 ## Limitations
 

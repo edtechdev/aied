@@ -1,7 +1,7 @@
 ---
 title: "Educating minds with generative AI"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [human-ai-collaboration, critical-thinking, cognitive-offloading, ai-literacy, learning-design, philosophy-of-ai-in-education, theory-development-aied]
 pedagogy: [learning-theories, scaffolding, distributed-cognition, embodied-learning, situated-learning, collaborative-learning, metacognition, desirable-difficulties]
@@ -68,6 +68,21 @@ The constructive conclusion is a multitechnological cognitive ecology: a deliber
 This is a Perspective, and its evidential basis is correspondingly thin by design. The authors state that no datasets were generated or analyzed, so every empirical claim in the paper is a citation to other work rather than a finding of their own, and they describe the enhancement-versus-deskilling literature as preliminary and the debate as unresolved. Claims about what GenAI does to classroom distribution, social friction or epistemic authority are argued conceptually, with illustrative cases such as AI-managed teaching platforms, lesson-plan generators and compressed-curriculum schools, not demonstrated empirically.
 
 The proposal itself is normative and design-oriented. The multitechnological cognitive ecology and the closing of the two gaps are offered as a reframing plus a direction for research and practice, with no implementation, evaluation or measurement attached; the paper's own summary states that the analysis hinges on treating GenAI as a diagnostic opportunity rather than on new evidence. The specific products and systems named will date as capabilities and deployment policies change, though the authors argue the underlying principles on which they criticize those systems will not. The ecological costs of AI are named as a constraint on any ecological design, but not quantified here.
+
+## What this means for practice
+
+- **Instructors.** Make verification a graded part of the task rather than an add-on, because learners who lack background knowledge cannot separate fluent confabulation from accurate content, so source-checking and collaborative fact evaluation belong inside assessment rather than beside it.
+- **Instructors.** Choose tools by pedagogical affordance and keep low-tech, embodied and collaborative options in the mix instead of letting a conversational system become the default infrastructure of the course.
+- **Designers.** Protect the frictions that carry conceptual change — a peer's alternative answer, material resistance, the delay a scheduled assessment imposes — because compressing explanation, feedback and evaluation into a single loop smooths exactly the ambiguity the learning sciences treat as productive.
+- **Designers.** Do not let the prompt-response loop define the interaction: the paper cites evidence that students without clear guidance rarely move past prompt tuning, so pair any conversational tool with explicit interaction scaffolds and AI-literacy work.
+- **Researchers.** Treat the enhancement-versus-deskilling question as open and testable: the evidence the paper cites for pedagogically aligned AI support and for metacognitive erosion comes from other work and is described as preliminary, leaving the effects of intensive unguided LLM use unresolved.
+
+## Limitations
+
+- The paper generates no datasets — its own data availability statement says so — and reports no measurement, so its claims about what GenAI does to classroom distribution, social friction and epistemic authority are argued from illustrative cases such as AI-managed teaching platforms, lesson-plan generators and compressed-curriculum schools rather than demonstrated.
+- The empirical warrant it borrows is self-described as thin: it rests on cited studies for pedagogically aligned AI implementations (refs. 14–16) set against emerging evidence of eroded metacognitive capacity (ref. 17), and the authors leave the enhancement-versus-deskilling debate unresolved.
+- The proposal is normative with nothing attached to it: the multitechnological cognitive ecology comes with no implementation, evaluation or measurement, and the specific products and systems the paper names will date as capabilities and deployment policies change.
+- The ecological constraint the paper says should bound any design is named but not quantified, and no learner-level or cost data are offered to support the reframing it recommends.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "GenAI in novel educational applications"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [motivation, problem-solving, student-engagement]
 technology: [generative-ai, llm, conversational-ai, personalized-learning]
@@ -54,8 +54,15 @@ The paper frames its contribution through three moderators it borrows from Walki
 
 The [[agency|student agency]] story has two layers. One is the ownership students exercised over the context, including character names, topics and freeform revisions, and the authors read the belonging gain as most plausibly rooted in representation, membership and acceptance rather than in generic enjoyment, while conceding that without a control group other factors cannot be excluded. The other is an honest weakness the authors name themselves: problem posing in AMPT is "currently more of a creative writing exercise than a mathematics learning opportunity", because students never engage with the formula or numbers. That protects them from the frustration problem posing can produce, but it also lets errors through, illustrated by a llama problem where the animals roar. Because the authors believe depth requires the context to be integrated with the mathematical construct, they propose future [[scaffolding]] that exposes students to a light version of the constraints, for example that both actors must share an activity or that the problem concerns change over time, so that students select interests that connect to the maths without needing deep prior knowledge of the domain.
 
-## Limitations and open questions
+## What this means for practice
 
+- **Instructors.** Hand students the context of a word problem, not just a choice among ready-made scenarios. Naming the characters was the feature students valued most (M = 4.73 of 5, n = 73), and students preferred their own and their peers' problems to traditional ones.
+- **Designers.** Build the topic menu around what students actually choose. Across two cohorts (n = 44) the most common selection was "None of these" at 21%, followed by Fantasy Worlds 14%, Music 13% and Video Games 11%, while Careers drew only 4% of problems.
+- **Instructors.** Ask for a coherent narrative in which the interest motivates the mathematics. The problems students liked most earned 68% and 69% thumbs up in probability and 62% and 63% in algebra, whereas the least-liked probability problem, built around a student's own name, earned 51%.
+- **Learning designers.** Show students the mathematical constraints before they pick their interests. The authors propose scaffolding such as requiring both actors to share an activity, so that problem posing stops being "more of a creative writing exercise than a mathematics learning opportunity."
+- **Instructors.** Evaluate a personalization rollout on belonging subscales rather than a global attitude score: belonging rose 4.79% (Cohen's d = 0.48, p = .01) on Membership and Acceptance while interest and value rose only 3.56% (p = .08) and perceived ability did not move.
+
+## Limitations
 Several limitations qualify every claim here. The attitudinal study has no control group, so the belonging shift is causally ambiguous even though it appeared across multiple groups and at different points in the semester. The dose is small: 30-minute sessions, short conversations (typically four exchanges) and, in the survey sample, a single encounter, so the authors themselves note that personalization interventions are usually too brief to reliably build durable interest, and that stable perceptions may need sustained engagement. Novelty is a live alternative explanation for both the positive ratings and the belonging rise, particularly given that students often reacted to their own names appearing in a maths problem. The deployment results come from a pilot of only 71 problems across two domains, with voluntary ratings that 61% of students skipped, a response profile that could bias the thumbs-up proportion in either direction; the earlier error-rate result rests on a small preliminary pilot reported elsewhere. Finally, the tool is model-dependent. Reported sessions used OpenAI's GPT-4o or GPT-4.1, with o3-mini selecting among candidate problems, and AMPT's panel supports most OpenAI and Anthropic models, so behavior, verbosity, bias and problem quality will vary with the model in use and with the prompt revisions that are still ongoing. Added to these is a scaling tension the authors do not resolve: the very features that make a problem meaningful to its author, an unfamiliar local dish, a low-frequency word or a teacher's name, can make it useless or harder to read for the students who later meet it.
 
 ## Connected Concepts

@@ -1,7 +1,7 @@
 ---
 title: "Perceptions of Teacher- Versus AI-Generated Feedback: Experimental Findings on the (Implicit) Bias of Teachers Against AI"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [teacher-role]
 assessment: [feedback, ai-feedback-quality, formative-assessment]
@@ -54,6 +54,14 @@ The authors keep three rival explanations on the table. Intergroup threat theory
 The practical reading is uncomfortable for rollouts that assume acceptance follows quality. If a school buys an [[ai-feedback-quality|AI feedback]] tool whose output is genuinely good, adoption can still stall because the same output is discounted at the point of use. For teachers, the authors recommend reflection on implicit assumptions about AI, structured opportunities to experiment with tools, gradual implementation and involvement in developing and evaluating the tools — approaches to [[bias-mitigation|bias mitigation]] that treat the barrier as psychological rather than technical. Framing AI as a collaborator rather than a separate entity, following the common ingroup identity model, is offered as one route to softening the ingroup–outgroup boundary.
 
 They are equally careful about what not to conclude. A degree of skepticism is constructive: in hybrid-intelligence arrangements, caution prompts teachers to review, adapt and contextualize machine output with their students in mind, which is exactly the professional judgment that keeps AI use educationally meaningful. The finding also concerns a disclosed label. In real classrooms the source is often blurred, an AI draft edited and sent by a teacher, and the authors expect content to weigh more than provenance there. Their design deliberately made the label salient, which maximizes the very cue under study.
+
+## What this means for practice
+
+- **Instructors.** Review and adapt AI feedback before it reaches students instead of delivering it automatically: identical GPT-4-turbo messages were rated less credible (4.02 versus 3.82), less useful (5.99 versus 5.55) and less fair (5.98 versus 5.51) once the label named ChatGPT.
+- **Instructors.** Disclose how an AI draft was used and what you changed in it, because 73% of teachers preferred to pass on the teacher-labeled message and the largest gaps appeared on provider-directed items such as perceived effort (5.62 versus 4.32) and willingness to rely.
+- **Teacher educators.** Run structured, hands-on experimentation with these tools and surface teachers' implicit assumptions about AI, since the paper reads the effect as ingroup favoritism or heuristic processing rather than a considered verdict on feedback quality.
+- **Administrators.** Frame AI as a collaborator inside the teaching team rather than a separate entity when introducing feedback tools, and design the rollout around teacher review rather than automatic delivery — a degree of skepticism is the professional judgment that keeps AI use educationally meaningful.
+- **Researchers.** Replicate the identical-feedback, randomized-label design with a measure of teachers' identification with the teaching ingroup, because no mechanism — identity, threat, competence attribution or heuristic processing — is tested by the present data.
 
 ## Limitations
 

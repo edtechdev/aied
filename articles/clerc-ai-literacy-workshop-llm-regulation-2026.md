@@ -1,7 +1,7 @@
 ---
 title: "Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task"
 created: "2026-09-17T02:58:21-04:00"
-updated: "2026-09-17T02:58:21-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -52,7 +52,15 @@ Three implications follow for [[k-12]] practice. A brief, classroom-feasible int
 
 The [[ai-literacy|AI literacy]] intervention literature this joins is mostly short-term and self-report-based; see [[liu-ai-literacy-interventions-meta-analysis-2026]] for the meta-analytic picture. The behavioral results also bear directly on the wiki's material on [[reducing-over-reliance]] and on teaching students to [[verify-ai-output]], both of which recommend routines that this study shows changing measurable behavior in two hours rather than a semester.
 
-## Limits
+## What this means for practice
+
+- **Instructors.** Teach the two behaviors this workshop changed rather than general AI knowledge: trained students stopped accepting underspecified prompts (51.5% vs. 66.7% for controls) and asked a follow-up question after a weak prompt 59.2% of the time versus 27.9% (d = 0.80).
+- **Instructors.** Train selective skepticism, not blanket distrust: intervention students kept accepting well-specified prompts (74.4% vs. 79.2%, p = .385), while control students who rewrote a good prompt lost 4.29 points on average against 1.61 in the trained group.
+- **Curriculum designers.** Budget a short, classroom-feasible session and rehearse regulation on tasks unrelated to the test: this two-hour workshop never used the assessment problems, and the trained group's advantage appeared two days later.
+- **Instructors.** Evaluate AI literacy in behavior rather than attitudes, because GenAI self-report scores predicted final task scores at r = .01 and general [[metacognition]] at r = .04 — the self-reports missed exactly the difference the workshop produced.
+- **Researchers.** Reuse the study's open materials (workshop slides, facilitation script, anonymized data and code) to test retention and transfer beyond the two-day window this design leaves unmeasured.
+
+## Limitations
 
 The design is quasi-experimental with intact classes and unequal groups, so unmeasured baseline differences such as science ability cannot be ruled out. Effects were measured two days after the workshop, with no test of retention, repeated practice, transfer to new tasks, or performance without LLM support. The study ran in one school on science problems only. Prompt acceptance is an experimental probe rather than an ecological task — students usually write prompts from scratch, so that measure is best read as evidence that they noticed missing information, whereas evaluating an answer and deciding to follow up are behaviors that remain central in ordinary use. The LLM environment was not perfectly homogeneous because access constraints pushed some students onto other interfaces, though the authors validated the prompt manipulation independently of the models used. Finally, no demographic identifiers were collected, so subgroup differences could not be tested, and the behavioral measures captured students' decisions but not the content of their prompts or follow-up questions.
 
