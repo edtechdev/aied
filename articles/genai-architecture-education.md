@@ -58,12 +58,18 @@ Inclusivity-oriented items clustered in the upper-mid range, with students descr
 
 Students developed procedural confidence — "Seeing the mask, prompt and seed together helped me think of the AI as another tool in the workflow, not a magic black box" — but expressed uncertainty about transferring these skills professionally ("I am not yet sure I could explain the technical side confidently in an interview"). The study acknowledges limitations: a small, purposively sampled single-institution cohort; a single 90-minute exposure reliant on self-report; and a workflow fine-tuned for residential interiors that may not generalize to other design typologies or less supported environments. The paper calls for larger, multi-cohort, longitudinal and co-designed studies.
 
-## Implications
+## What this means for practice
+- **Instructors.** Run GenAI studio sessions as a two-phase task — generate from a text prompt, then edit masked regions — so students rehearse prompting and iterative refinement rather than one-shot generation.
+- **Instructors.** Keep the prompt, mask and seed visible while students work so the tool reads as an inspectable part of the [[design-thinking|design process]] rather than a [[prompt-engineering|black box]].
+- **Designers.** Build discipline-specific, locally run workflows around masked in-painting instead of general cloud text-to-image tools, so the scale, perspective and context of the design brief are preserved.
+- **Administrators.** Treat a single workshop as an introduction only: the drop from in-session procedural confidence (C1 = 3.7) to transferable employability confidence (C3 = 2.6) signals that AI-handling competence for [[professional-training]] needs curriculum-level provision.
+- **Researchers.** Pair usability Likert items with reflexive discussion and report rank-order correlations to check that perceived creative gains match observed design behavior.
 
-- **For [[learning-design]] and studio pedagogy:** a locally run, human-in-the-loop GenAI workflow can expand students' creative search space and lower barriers to high-quality visual output without replacing [[design-thinking|design thinking]], positioning AI as a visual co-pilot rather than an opaque generator.
-- **For [[equity-in-ai-education|equity]] and [[inclusive-learning]]:** discipline-specific tools embedded in UDL-informed session design can act as a modest equalizing mechanism, reducing anxiety in crits and supporting learners with weaker drafting or visualization skills and those with declared disabilities.
-- **For [[curriculum-design]] and [[professional-training]]:** the low C3 score signals that building transferable AI-handling competencies requires sustained, curriculum-level provision rather than single sessions; AEC employers increasingly expect such skills.
-- **For [[ai-literacy]] and [[agency]]:** making prompts, masks and seeds legible foregrounds procedural understanding and preserves learner authorship, supporting [[ethics|ethical]], transparent and critically reflective AI use.
+## Limitations
+- The mixed-methods focus-group design used a small, purposively sampled cohort of 16 Level 3–5 architecture students (two groups of 8) at a single UK institution (University of Derby), which the authors state constrains statistical power and transferability to other programs and disciplines.
+- Evaluation captured a single 90-minute exposure and relied primarily on self-report questionnaires and reflexive group discussion, so the durability of perceived gains in creativity, inclusivity and AI-handling is unknown.
+- No comparison condition was run: there was no generic-GenAI or non-AI control arm, so effects cannot be attributed to the bespoke workflow specifically.
+- The workflow was fine-tuned for residential interior scenarios (Flux 1 Kontext LoRA on the 20-million-image InteriorNet dataset), and the authors state it may not generalize to other design typologies or less supported studio environments.
 
 ## Connected Concepts
 
