@@ -239,6 +239,31 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   figures are recorded here rather than deleted, because a truncated source is a likelier explanation than an
   invented number, and both pages' claims are internally consistent with what the saved text does show.
 
+### Sources lost and needing the paper itself
+
+A re-fetch across capped saved sources was pointed at the first arXiv link it found in each file, which in most
+files is a citation rather than the paper, so thirty saved sources were briefly overwritten with unrelated
+articles. Every one has since been checked against the source its own frontmatter names, and fifteen were
+restored from the right paper. The remaining fifteen could not be recovered automatically: the publisher or
+repository serves a robot check, the DOI resolves only to a landing page, or the address no longer returns a
+document. Their saved sources now hold a marker instead of a wrong paper, and each page needs the real PDF.
+
+- `ai-pedagogical-accompaniment-amico`
+- `ai-tpack-mathematics-teacher-education-2026`
+- `aied-unfinished-mission-bypass`
+- `co-learning-ai-agent-hidden-rules-2026`
+- `critical-thinking-paradox-genai-learning-2026`
+- `finkelstein-principled-ai-education-2025`
+- `instructional-agents-multi-agent-course-gen`
+- `llm-automated-grading-programming-comparison-2026`
+- `llm-grading-self-preference-bias-2026`
+- `muse-vlm-artistic-image-benchmark-2026`
+- `niari-ai-pedagogical-mediator-collaborative-learning`
+- `raffaghelli-situated-ai-ethics-2026`
+- `science-educators-ai-literacy-postqualification-2026`
+- `teacher-ai-literacy-prompt-feedback-quality-2026`
+- `voicu-ai-interpretive-cognition-ssh-2026`
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same
