@@ -1,7 +1,7 @@
 ---
 title: "When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T08:58:00-04:00"
 type: article
 technology: [generative-ai, llm]
 stakeholders: [student-experience]
@@ -24,6 +24,21 @@ page_kind: [evaluation]
 3. The interface was studied with 89 undergraduate computer science students (ages 18-24) in a computing ethics course.
 4. The likelihood of choosing the eco-feedback system is significantly shaped by sustainability awareness.
 5. The study provides empirical evidence on how a technically sophisticated, values-oriented user population responds to sustainability-aware AI interfaces.
+
+## What this means for practice
+
+- **Instructors.** Make the latency–carbon trade-off explicit in assignment design: students selected eco mode in roughly 45% of interactions at low latency but under 5% at high latency, so leave room for the slower, lower-carbon option within deadlines.
+- **Instructors.** Teach sustainability awareness directly, since recognizing the carbon-saving impact significantly increased eco-mode selection under low-latency conditions (p < .001).
+- **Designers.** Show impact in concrete, outcome-oriented terms (PET bottles, gasoline car travel, light bulbs) rather than abstract carbon metrics, which participants rated more favorably.
+- **Designers.** Keep perceived latency low and add the interaction controls users expect; higher perceived latency significantly reduced eco-mode preference (p < .001), and the absence of stop or scroll functionality compounded the perceived cost of waiting.
+- **Researchers.** Extend eco-feedback beyond carbon to water consumption and human health impacts, and test it with populations beyond technically informed computer science students.
+
+## Limitations
+
+- Single-site sample: 89 undergraduate computer science students at one U.S. university, recruited from a mandatory Computer Ethics course, so participants were likely more technically informed and environmentally attentive than broader LLM user populations, and the course context may have encouraged socially desirable responses.
+- No demographic attributes (gender, race, nationality) were collected, limiting analysis of how these factors shape eco-feedback interpretation and engagement.
+- Interface design restrictions (no stop or scroll functionality, and several equivalence formats for environmental impact) likely influenced satisfaction under higher-latency conditions.
+- Carbon modeling for computing systems carries inherent uncertainty, so the authors frame the results as communication rather than precise numerical claims.
 
 ## Connected Concepts
 
