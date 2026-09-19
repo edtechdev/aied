@@ -1,7 +1,7 @@
 ---
 title: "EduFair-Bench: Evaluating Pedagogical Fairness of LLM Tutors Across Student Demographics"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 technology: [educational-nlp, intelligent-tutoring, simulating-students]
 
@@ -56,6 +56,21 @@ The Opposite condition asks whether the residual gender signal is tutor-driven o
 Bias is measured here with paired non-parametric statistics designed to control for question difficulty: within each (tutor, domain, condition) cell and demographic contrast, every question contributes a matched difference, contrasts require at least 15 paired questions, binary comparisons use two-sided Pratt-corrected Wilcoxon signed-rank tests, multi-level dimensions use Friedman tests followed by Bonferroni-corrected pairwise tests when p < 0.10, and effect sizes are reported as rank-biserial r with 95% percentile bootstrap intervals (B = 1000). Following Funder and Ozer (2019), |r| ≥ 0.10 is treated as practically meaningful and a fairness violation is recorded when the confidence interval excludes zero. GPT-5-mini, evaluated on a fixed stratified 30% subsample per domain (272/150/150 items) for cost reasons, consumed 126,175 API calls and 101,493,943 tokens; the four open-weight tutors used the full bank.
 
 The authors are explicit that EduFair-Bench is an audit instrument, not a certificate. Passing its effect-size thresholds in this configuration does not guarantee [[equity-in-ai-education|equitable]] treatment of real students, and because all dialogues use one fixed simulated student, bias patterns should be validated against human-subjects studies before strong classroom claims — simulated students are known to diverge from real learners in error patterns, persistence and [[help-seeking]]. The four demographic dimensions are also coarse, often binary operationalizations that erase within-group heterogeneity, and the Implicit condition covers only gender and ethnicity jointly, so a full intersectional audit across all four axes remains the natural next step. These limitations sit alongside what is nonetheless a hard conclusion for [[pedagogical-safety|deployment safety]]: stronger pedagogical capability does not imply greater fairness, and auditing LLM tutors for demographic bias before classroom deployment should be a prerequisite rather than an add-on.
+
+## What this means for practice
+
+- **Designers.** Audit each tutor for demographic bias before classroom deployment, because capability does not predict fairness: one model exceeded the |r| ≥ 0.10 threshold in 7 of 12 domain–dimension cells while another exceeded it only once.
+- **Designers.** Treat pedagogy-specific RL as redistributing bias rather than removing it — TutorRL-7B reduced corrective_tone bias (chemistry 0.159 → 0.104) but increased mistake_recognize bias (mathematics 0.102 → 0.165).
+- **Designers.** Test tutors with name-only demographic cues as well as explicit statements, since names alone produced a mean pedagogical effect of about 0.142 in physics.
+- **Instructors.** Attend first to language and immigration fairness, where the largest gaps appeared (First Language 0.281 and Immigration 0.216 for DeepSeek-R1-70B), rather than to gender or SES alone.
+- **Researchers.** Validate audit findings against human-subjects studies before making strong classroom claims, because simulated students diverge from real learners.
+
+## Limitations
+
+- Every dialogue uses one fixed simulated student (LLaMA-3.1-8B-Instruct), and LLM-simulated students are known to diverge from real learners in error patterns, persistence and help-seeking, so the patterns need human-subjects validation.
+- No intersectional analysis: the four dimensions are treated as independent axes, and the Implicit condition covers only gender and ethnicity jointly, while bias across protected attributes is known to interact non-additively.
+- The demographics are coarse and often binary ("native-born"/"immigrant", "English L1"/"non-English L1"), which the authors acknowledge erases within-group heterogeneity.
+- GPT-5-mini was evaluated on a fixed stratified 30% subsample per domain (272/150/150 items) rather than the full question bank, so its results are not directly comparable to the four open-weight tutors run on the full bank.
 
 ## Connected Concepts
 

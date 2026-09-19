@@ -1,7 +1,7 @@
 ---
 title: "Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -45,6 +45,21 @@ institutions: [educational-policy-ai]
 - **Reading deserves parity with writing:** With 22 of 27 policies silent on AI and reading, the field risks siloing critical evaluation and close-reading habits away from the digital spaces where most reading now happens — teachers should address AI-supported reading, summarization, and information literacy explicitly.
 - **Institutions must equip teachers to resist as well as adopt:** The authors distinguish principled refusal from ignorance; districts and programs should provide the guidance, [[educational-development|professional development]], and policy infrastructure that let teachers decline specific AI uses without being framed as behind the times.
 - **Technodeterminism should be interrogated, not assumed:** The obligation PSTs felt to integrate AI often contradicted their own [[pedagogy|pedagogical]] commitments; teacher educators should make the discourse of inevitability an explicit object of study and give teachers the [[agency]] to choose.
+
+## What this means for practice
+
+- **Instructors.** Write reading into your classroom AI policy: 22 of the 27 policies studied did not mention reading at all, leaving AI-supported summarization and comprehension ungoverned while writing received detailed rules.
+- **Instructors.** Operationalize the boundary instead of gesturing at it — 22 of the 27 policies allowed AI ideation while only one explicitly banned it, and language such as "this is where the line should be drawn" gives students no rule to follow.
+- **Faculty developers.** Make classroom AI policy authoring a core activity in [[teacher-education|teacher preparation]]; it surfaces beliefs about writing, reading and [[critical-thinking]] more sharply than abstract discussion of [[generative-ai|generative AI]].
+- **Instructors.** Interrogate the assumption that AI integration is unavoidable: participants who privately doubted its value still adopted it, so establish explicit grounds on which a use can be declined and treat technodeterminism as a discourse to examine.
+- **Researchers.** Treat teacher-authored policies and reflections as discourse data, and replicate the design in states and districts that do issue AI guidance.
+
+## Limitations
+
+- The study is a single two-class context: 27 preservice English language arts teachers in one capstone cohort at a mid-sized rural public university in a state with no state-level AI guidance at the time.
+- The policies were written speculatively for anticipated classrooms, because participants were not teachers of record, and the study gathered no empirical evidence from their actual teaching placements.
+- Coding produced 567 classifications across 27 data sets with agreement on 555 (98%) between two coders, and the authors caution explicitly against generalizing to other preservice contexts.
+- Because policy writing was a course assignment, what participants wrote may reflect course expectations as much as the rules they would enact in their own classrooms.
 
 ## Connected Concepts
 

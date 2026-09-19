@@ -1,7 +1,7 @@
 ---
 title: "The Impact of Artificial Intelligence-Supported Instruction on Student Learning in STEM: A Systematic Review and Meta-Analysis"
 created: "2026-09-16T09:14:31-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
@@ -45,6 +45,14 @@ Inclusion required an AI-supported intervention in a STEM field, an experimental
 ## Implications
 
 The authors argue AI should be treated as a [[pedagogical-partnerships|pedagogical partner]] rather than an autonomous instructional agent. Because effectiveness depends on design quality, they call for AI tools aligned with learning objectives and structured to manage cognitive load, and warn that poorly designed implementations risk superficial engagement, [[cognitive-offloading|over-reliance]] on [[ai-feedback-quality|automated feedback]], or overload. They stress [[teacher-ai-competency|teacher competence]] to evaluate AI outputs critically, and flag [[equity-in-ai-education|equity]] risk: differences in infrastructure, learner readiness and resources could let AI reinforce existing inequalities, so they recommend sustained, system-level integration instead of isolated short-term pilots.
+
+## What this means for practice
+
+- **Instructors.** Target AI-supported instruction where the pooled effects were strongest — high school (g = 1.099) and university (g = 0.578) — rather than assuming uniform benefit across every grade band.
+- **Instructors.** Plan AI-supported units to run beyond a month but do not extend them on the assumption that longer is better: the strongest duration band was more than one month and up to two months (g = 0.833), and bands beyond it were weaker.
+- **Designers.** Align AI tools with the stated learning objectives and structure them to manage cognitive load, since the authors attribute variation in effect to instructional design quality rather than exposure time.
+- **Administrators.** Fund sustained, system-level integration instead of isolated short-term pilots, because most included interventions were short to medium term and their long-term effects remain unknown.
+- **Researchers.** Report implementation fidelity, teacher involvement and learner characteristics alongside effect sizes, which the authors identify as the unmeasured moderators behind the residual heterogeneity.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "Human-Centered Design of LLM-Powered Educational Chatbots: A Study with Secondary Teachers"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-14T06:10:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -48,6 +48,21 @@ methods: [usability-research]
 - **Support [[multimodal]], accessible presentation:** teachers raised the needs of students with disabilities such as dyslexia and of [[multilingual-learning|multilingual]] students, implying multimodal input such as speech and multilingual input and output — an [[accessibility]] and [[inclusive-learning|inclusion]] requirement rather than a feature upgrade.
 - **Allow professional customization of AI behavior:** the worksheet prompts (tone, purpose, scope, domain, modalities, presentation modes, conversational control) proved useful scaffolding for teachers, and such elements could live in a teacher-facing dashboard where educators upload their own documents as prompting context.
 - **Expect a domain-general pattern:** the bounded authority model is offered as guidance for other high-stakes professions where AI augments rather than replaces expertise, such as diagnostic AI under physician authority or legal retrieval under lawyer judgment.
+
+## What this means for practice
+
+- **Instructors.** Scope an educational chatbot to lesson content before optimizing its accuracy: every teacher in the study made domain restriction a first requirement, treating it as an instructional need rather than a [[hallucination-risk|hallucination]] patch.
+- **Instructors.** Keep objective-setting and summative [[assessment]] under your own authority while delegating presentation, practice and [[formative-assessment|formative feedback]], the only instructional events these teachers were willing to hand over.
+- **Designers.** Build teacher override and routed escalation rather than auto-rejection, so that ambiguous but legitimate questions reach a human instead of triggering a blanket refusal.
+- **Designers.** Provide complete conversation logging with real-time alerts and a way for students and teachers to rate answer relevance, since teachers wanted transcripts for both accuracy checking and supervision of [[student-ai-interaction|student–AI interactions]].
+- **Designers.** Prioritize behavioral transparency — visible limits, uncertainty cues, standardized refusals — over algorithmic explanation, which is what these teachers actually designed.
+
+## Limitations
+
+- Six of the twelve teachers enrolled in a Research Experiences for Teachers summer program at one southeastern US public university agreed to take part, so all findings rest on that self-selected group.
+- The systems studied were low-fidelity paper prototypes built from note cards and paper in about 25 minutes, so the results describe teachers' stated designs, not the behavior of deployed chatbots.
+- No inter-rater reliability was calculated; the authors state that disagreements were resolved through discussion because of dataset size.
+- Most participants taught [[stem-education|STEM]] subjects, with only one of the six representing the [[humanities-education|humanities]], and the authors note that rapid [[llm]] change warrants replication.
 
 ## Connected Concepts
 

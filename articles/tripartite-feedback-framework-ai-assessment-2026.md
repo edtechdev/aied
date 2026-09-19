@@ -1,7 +1,7 @@
 ---
 title: "A Tripartite Feedback Framework for AI-Assisted Assessment of Complex Reports in Higher Education"
 created: "2026-09-16T06:55:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, human-in-the-loop-ai, rag]
@@ -36,6 +36,14 @@ page_kind: [framework]
 ## Relationship to Existing Frameworks
 
 The paper positions itself against three substantive gaps. Hattie and Timperley (2007) and Boud and Molloy (2013) are, in its reading, powerful on what feedback should accomplish and how to design it for agency, but were written before capable AI and are silent on which tasks technology may appropriately support and which must stay human. Boud and Dawson (2023) and Carless and Boud (2018) establish that feedback provision needs professional judgment and that students must be able to interpret feedback, yet neither offers automation criteria. Existing AI-in-assessment discussions, meanwhile, remain at the level of general principle — AI should support rather than replace judgment, feedback should be transparent — without stating what conditions must be met before AI involvement is justifiable or what safeguards are non-negotiable, which leaves institutions without criteria or accountability standards. The framework's own comparison table scores prior frameworks on six dimensions (analytical purpose, epistemic status of tasks, human–AI allocation criteria, explicit engagement with AI, hybrid accountability, feedback literacy in hybrid contexts) and finds none addressing epistemic status or allocation — the two dimensions on which automation decisions turn. The stated contribution is therefore structural rather than prescriptive: categories, boundary conditions, and validation criteria for context-sensitive institutional decision-making.
+
+## What this means for practice
+
+- **Instructors.** Classify each feedback task by epistemic status before deciding what to automate: formatting, referencing, grammar and sentence-level clarity are safely rule-based, factual and procedural verification is conditional on all four bounded-verification criteria, and critical evaluation and synthesis stay with you.
+- **Instructors.** Escalate unclear argumentation for human review instead of correcting it — unclear argumentation usually signals incomplete conceptual grasp, so fixing the prose leaves the reasoning problem untouched.
+- **Instructors.** Start with high-frequency human oversight of all AI output and scale it back only against evidence of acceptable reliability, security and fairness, since an unflagged factual error propagates across every submission of a cohort.
+- **Designers.** Ground verification in an assessor-curated knowledge base — briefs, rubrics, laboratory manuals, worked examples, licensed textbooks — that cannot expand itself or reach external sources, so that [[rag|retrieval]] bounds the domain in which [[hallucination-risk|hallucinations]] can occur, and disclose to students which comments were AI-verified and which were human-judged.
+- **Researchers.** Budget a matched-control evaluation before scaling — turnaround time, staff time per submission, inter-marker reliability and AI error frequency as low-cost proxies — because the framework reports no empirical validation and no implemented pilot.
 
 ## Limitations
 

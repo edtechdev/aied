@@ -1,7 +1,7 @@
 ---
 title: "Learning paths and patterns in learning design: Insights from 500+ courses"
 created: "2026-09-13T11:05:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 pedagogy: [active-learning, constructivist, student-engagement]
@@ -55,6 +55,21 @@ The authors are explicit that these are pre-implementation designs, not observed
 The authors convert the patterns into four recommendations for course teams: move away from transmission-oriented teaching where appropriate; choose learning types that match the intended level of the learning outcomes, with Acquisition for lower levels and Production and other active types for higher ones; protect constructive alignment by pairing innovation with relevant assessment and timely [[feedback]]; and create extra feedback opportunities through [[collaborative-learning|collaboration]], [[group-work]] and face-to-face activity, since feedback clustered with teacher presence and synchronous delivery in the correlation analysis.
 
 The limitations bound how far the numbers travel. The sample is large but comes from a single [[learning-design]] tool, and course level, type and discipline were not included as variables, so more granular context could change the picture. The analysis is confined to the design phase rather than enacted behavior; [[learning-analytics|LMS trace data]] would be needed to test whether these paths describe what students actually experience. Automating path and pattern analysis inside the tool is left as future work, which the authors suggest is a natural use of AI.
+
+## What this means for practice
+
+- **Designers.** Cut back the share of Acquisition activities, which exceeded 20% of the 29,064 TLAs and was both the most common learning type and the most common entry point across the 554 courses.
+- **Designers.** Match activity type to the intended outcome level: Acquisition fell from around 50% of TLAs at Bloom level 1 to around 20% at level 6, while Production rose above 20% at levels 5 and 6.
+- **Designers.** Use Assessment deliberately as a steering activity — its strongest transition was to Discussion (0.332) — and treat Discussion as a bridge type, since it had the lowest mean recurrence time (4.72).
+- **Instructors.** Build extra feedback opportunities through collaboration, group work and face-to-face activity, which clustered together in the correlation analysis.
+- **Researchers.** Pair design-phase patterns with LMS trace data, because these sequences are plans rather than observed student behavior.
+
+## Limitations
+
+- All 554 courses (29,064 TLAs) come from a single learning-design tool, the Balanced Design Planning tool, so the design grammar may partly reflect that tool's structure.
+- Course level, type and discipline were not included as variables, so contextual differences that could change the patterns go unmeasured.
+- The analysis covers the pre-implementation design phase only; no LMS trace data tested whether these designed paths describe what students actually experience.
+- The authors state that the resemblance to flipped-classroom, inquiry-based and project-based designs "should not be interpreted as evidence" that those approaches were intentionally implemented.
 
 ## Connected Concepts
 

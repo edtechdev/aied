@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Learning Solutions: A System for Personalized Educational Video Generation"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 pedagogy: [video-education]
 technology: [adaptive-learning, generative-ai, multimodal, personalized-learning, rag]
@@ -55,6 +55,21 @@ The evaluation is the weakest part of the paper. Results consist of a successful
 Three further boundaries follow from the design. First, the retrieval optimization is explicitly NCERT-specific — headers, summary boxes and figure-numbering conventions of those books — so the authors themselves note the system performs best when users upload content from those textbooks, and behavior on other publishers' material is untested. Second, the "better than generic RAG" claim is asserted without a baseline comparison, so the contribution of the cleaning and figure-extraction steps is unquantified. Third, the pipeline inherits the reliability profile of its generative components: Stable Diffusion images can misrender scientific diagrams or text inside figures, DynamiCrafter motion is guided but not verified against the [[physics-education|physics]] or mathematics being taught, and there is no described step for checking that the narration and visuals are factually correct. The hard-coded Stable Diffusion implementation improves interpretability of the generation process, not correctness of the output.
 
 The system's operational properties are, however, plausible: a fully automated text-in to video-out path, persistent vector storage supporting incremental updates, modular components that can be swapped, and no requirement for the learner to edit video. Its stated bottleneck is retrieval — the same limitation the authors identify when they propose moving to agentic RAG — and its unmeasured quantity is learning.
+
+## What this means for practice
+
+- **Instructors.** Spot-check generated visuals against the textbook before class: Stable Diffusion can misrender scientific diagrams or text inside figures, and no step in the pipeline checks that images and narration are factually correct.
+- **Instructors.** Feed the system the book it was tuned for — the regex cleaning and figure handling target NCERT page headers, summary boxes and numbering conventions such as "Fig 8.1" — and treat retrieval as less reliable on other publishers' material.
+- **Designers.** Keep the intermediate script file, which separates each scene's narration from its "visuals of" prompts, as the reviewable artifact; it is what makes the video reproducible and inspectable before a full render.
+- **Designers.** Add multilingual narration deliberately as an [[equity-in-ai-education|equity]] feature — the same visuals can be narrated in Hindi, Kannada, Tamil and Telugu — but review the translated audio, since no translation-quality measure is reported.
+- Treat the output as a supplement to the textbook, not a replacement, until comprehension against plain reading has actually been measured.
+
+## Limitations
+
+- The evaluation is a demonstration rather than a study: feedback came from "a group of students and teachers" with no reported sample size, no instrument, no comparison condition and no measure of whether comprehension improved over reading the textbook.
+- The retrieval optimization is explicitly NCERT-specific, and the authors note the system performs best when users upload content from those textbooks, leaving behavior on other publishers' material untested.
+- The claim that structure-aware cleaning and figure extraction raise retrieval precision over a generic RAG baseline is asserted with no comparative retrieval measurement reported.
+- Output reliability is unverified: animation motion is not checked against the [[physics-education|physics]] or mathematics being taught, and the hard-coded implementation improves interpretability of the generation process rather than correctness of the content.
 
 ## Connected Concepts
 - [[personalized-learning]]

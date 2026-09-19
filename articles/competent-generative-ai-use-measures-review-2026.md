@@ -1,7 +1,7 @@
 ---
 title: "Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai]
@@ -56,6 +56,21 @@ The proposed four-layer workplace battery keeps targets separate: an objective f
 Five limits are stated. The update is structured and seeded rather than a de novo database-wide search, so newly published scales outside those retrieval paths may be missing. The focal publications span general adults, university students, [[k-12]] students, teachers and specialized training contexts, and measurement properties do not transfer automatically across these groups — a norm from German-speaking adults cannot serve as a workplace cutoff elsewhere without local evidence. AI-related item content ages quickly, which argues for durable principles plus a versioned item-review process. All three primary effects come from one research program and the analyses correct for neither unreliability nor range restriction. And the coverage map represents one author's interpretive classification, without independent duplicate coding or a new COSMIN appraisal.
 
 The proposed research agenda follows the same separation logic: develop a situational judgment test from critical incidents across software development, QA, operations, research and information-intensive office work; pair it with the objective and self-report instruments to test whether a multi-factor model fits better than a single generic AI-competence factor; collect behavioral traces from a sandboxed tool-using agent as criterion evidence; and test transfer through 30- and 60-day samples of completed work rather than immediate post-course satisfaction.
+
+## What this means for practice
+
+- **Researchers.** Stop treating a [[self-report-measures|self-reported]] AI-literacy score as a proxy for demonstrated competence: across three same-sample correlations at a combined reported N = 2,765, the pooled association was r = .055 with a Hartung-Knapp 95% CI of [-.047, .156].
+- **Assessment professionals.** Build competence checks as separate layers rather than one number — an objective foundation test (AICOS-S or GLAT), an epistemic oversight measure, a reliance-behavior scale, and a situated [[agentic-ai|agent-control]] task — and keep the targets distinct.
+- **Instructional designers.** Apply non-compensatory rules when the target is tool-using work: a knowledge score should not offset granting write access during a read-only task, and a high self-rating should not replace successful verification.
+- **Assessment professionals.** Measure reliance and trust separately: the Generative AI Dependency Scale resolved a three-factor maladaptive structure (α = .92 to .93, test-retest ICC = .87), while TIAS/S-TIAS quantify trust rather than competent reliance.
+- **Researchers.** Version AI-related items and re-review them on a schedule because question difficulty shifts as products change, and do not import a norm from German-speaking adults as a workplace cutoff without local evidence.
+
+## Limitations
+
+- The primary pool rests on three effects from a single research program, all using the MAILS family as the subjective comparator, and one study (AICOS-S) carries 77.2 percent of the primary REML weight.
+- At k = 3 the heterogeneity estimators disagree — REML reached τ̂² ≈ 0 while Paule-Mandel gave τ̂² = .0033 — and removing AICOS-S moves the estimate to r = .107 with a Hartung-Knapp interval of [-.747, .828], so the pooled figure is fragile.
+- The update was structured and seeded rather than a de novo database-wide search, so scales published outside those retrieval paths may be missing, and the coverage map is one author's interpretive classification with no independent duplicate coding or new COSMIN appraisal.
+- The AICOS-S source reports r = .05 with p = .11 at a reported N = 2,131, a discrepancy the author discloses rather than resolves; an unadjusted Pearson test at that N would give p ≈ .021, so the weighting of the largest effect is uncertain.
 
 ## Connected Concepts
 

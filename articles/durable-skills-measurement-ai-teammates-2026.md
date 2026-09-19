@@ -1,7 +1,7 @@
 ---
 title: "Towards Scalable Measurement of Durable Skills"
 created: "2026-09-15T11:05:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [agentic-ai, critical-thinking, human-ai-collaboration]
 pedagogy: [collaborative-learning, creativity]
@@ -53,6 +53,21 @@ Because human data collection is expensive, the framework includes a simulated s
 For [[assessment]] practice, three contributions stand out. First, a construct-validity argument for [[conversational-ai|conversational AI]] teammates: authenticity and control are treated as jointly optimisable rather than as a fixed trade-off. Second, an operational lever — steering toward evidence — that measurably changes whether an assessment can score a person at all, which is the practical difference between an unratable and a ratable session. Third, an evaluation pipeline with a worked agreement analysis, which is what [[educational-measurement]] generally demands and what most AI assessment proposals omit.
 
 The boundaries are equally clear. Participants were US-based English-native adults aged 18–25 recruited on Prolific, so the classroom claim is indirect; the high-school creativity result is the exception and it is a separate analysis. The [[collaborative-learning|collaboration]] results rest on two sub-skills of one skill, the strongest evidence is at conversation level rather than the finer turn level, and the rubric dimensions scored 1–4 are coarse. The paper also acknowledges that the executive steering trades evidence breadth for depth — over-steering one skill reduces evidence for others, so a single conversation is a poor vehicle for a whole-profile assessment. What it establishes is that the amount of ratable evidence is a design variable under the system's control, which is a different and more tractable starting point than assuming a well-designed group task will elicit what it is meant to measure.
+
+## What this means for practice
+
+- **Assessment designers.** Treat ratable evidence as a design variable: skill-matched Executive steering produced ratable evidence in 92.4% of project-management conversations and 85% of conflict-resolution conversations, significantly more than unconstrained independent agents.
+- **Assessment designers.** Do not count on priming or task redesign to raise evidence — telling participants to attend to a skill had no significant effect (all p > 0.6), and a science versus debate task made no difference (p = 0.18 for conflict resolution, p = 0.9 for project management).
+- **Designers.** Build one steering model that holds the rubric and manufactures occasions for evidence — for example a teammate who initiates a conflict and sustains it until resolution has been observed — instead of several unconstrained agents that collaborate smoothly and surface nothing to score.
+- **Edtech designers.** Steer per skill and plan for multiple conversations per learner: matched [[collaborative-learning|collaboration]] steering raised evidence for its target skill but lowered the other's, so one conversation cannot carry a whole-profile judgment.
+- **Researchers.** Report the reliability ceiling next to any automated score: two trained raters agreed at Cohen's Kappa of 0.45–0.64, and the LLM evaluator falls in the same band.
+
+## Limitations
+
+- The human-rated conversations came from 188 Prolific participants aged 18–25 who were US-based English native speakers, so classroom claims are indirect; the high-school creativity result is a separate analysis.
+- Human expert validation covered collaboration only, and within it two sub-skills (project management and conflict resolution); creativity and critical thinking were analyzed largely on simulated conversations rather than human participants.
+- Rubric dimensions were coarse 1–4 scales with an NA option, and inter-expert agreement stayed at Kappa 0.45–0.64 after several calibration rounds, so the protocol cannot claim more precision than two trained experts achieve on the same transcripts.
+- Evidence was measured at conversation level (each turn rated 20 times, with any single NA returning an NA label), and the steering trades breadth for depth, so a single conversation is a poor vehicle for a whole-profile assessment.
 
 ## Connected Concepts
 

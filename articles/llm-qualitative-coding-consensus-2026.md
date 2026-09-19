@@ -1,7 +1,7 @@
 ---
 title: "How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-14T09:12:54-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [human-ai-collaboration, limitations-in-aied-research]
 technology: [educational-nlp, human-in-the-loop-ai, llm]
@@ -54,6 +54,21 @@ Four design recommendations follow. First, systems should coach preprocessing, w
 Running underneath these recommendations is a theoretical claim that matters for [[educational-measurement]] and for any field that borrows reliability statistics. Intercoder reliability assumes independent judgments, but two instances of the same model share correlated errors, so high Kappa between AI coders may certify consistency rather than validity — exactly the concern the paper raises as a question: what does reliability mean when a coder is an AI? The authors propose metrics that account for process (the proportion of cases requiring debate, the stability of decisions before and after debate) rather than a single agreement coefficient, and they position reflexivity — interrogating one's own positionality — as the part of interpretive labor that remains human. This is a [[human-in-the-loop-ai]] argument in the strong sense: agreement should not be fully automated, and lasting disagreement can be a legitimate deliverable.
 
 The limitations are stated plainly and are load-bearing for how the findings should travel. The model was never fine-tuned, so [[prompt-engineering|prompting]] alone bounds performance. Ground-truth labels from prior human coding or expert consensus oversimplify cases where disagreement reflects multiple valid readings rather than error. The baseline is pinned to one model version, though the authors argue the mechanism — accuracy gains from prolonged debate rather than rapid consensus — is structural to multi-agent debate and therefore model-agnostic. And no human study was run: trust, satisfaction, and workflow integration with real analysts were not measured, which is precisely the evidence that [[trust-calibration]] research in [[automated-assessment]]-adjacent settings needs next. These are the standard cautionary notes of [[limitations-in-aied-research]], and they mark the study as design-oriented insight rather than a [[benchmark]].
+
+## What this means for practice
+
+- **Researchers.** Keep codebooks concise and define each code through a few distinct formulations: lengthier codebooks significantly lowered first-pass accuracy (t = -11.702, effect size -0.287), and higher cosine similarity within the codebook lowered it further (t = -11.738, effect size -0.276).
+- **Researchers.** Feed coders short, topically coherent excerpts rather than whole transcripts — lengthier excerpts reduced accuracy (t = -9.249, effect size -0.438), while higher semantic similarity within the excerpt raised it (t = 7.372, effect size 0.189) — and preprocess to extract candidate fragments before coding.
+- **Researchers.** Report the rate of "Undecidable" labels and surviving conflicts as process indicators, not as noise: undecidable cases flagged before the debate predicted larger accuracy gains (t = 3.274), whereas undecidable cases that survived it predicted smaller gains (t = -14.476).
+- **Researchers.** Never present Cohen's Kappa between two AI coders as evidence that coding is valid: reliability exceeded 0.85 on every dataset and label while F1 ranged from 0.31 to 0.89, because both coders are instances of the same model and can be consistently wrong in the same way.
+- **Researchers.** Spend human review time on the moves the agents never produced — clarification requests, moderation, metaphor and analogy, personal narrative — rather than on policing how much they argued.
+
+## Limitations
+
+- The coders were never fine-tuned and the baseline is pinned to one model version at fixed temperatures, so the results describe out-of-the-box prompting rather than achievable system performance.
+- Ground-truth labels came from prior human coding or expert consensus, which oversimplifies cases where disagreement reflects multiple valid readings rather than error.
+- No human study was run: trust, satisfaction and workflow integration with real analysts were not measured, which is the evidence most needed before analysts are asked to work with these systems.
+- Accuracy was measured on five randomly selected labels per corpus with 500 sampled instances per label, so the reported F1 range describes that subsample rather than every code in the four corpora.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Generation and Accuracy: Diagnosing and Enhancing Visual Chain-of-Thought for Geometry Problem Solving"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-14T09:12:54-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 pedagogy: [problem-solving]
 technology: [cognitive-diagnosis, llm, machine-learning, multimodal, visualization]
@@ -47,6 +47,21 @@ Training is organized as a capability-ordered [[curriculum-design|curriculum]] r
 The ablation isolates each ingredient under the Auto-Aux setting. SenseNova-U1-8B starts at 37.3% answer accuracy and 52.5% Process Avg.; three-stage SFT lifts this to 51.6% and 72.1%, with auxiliary quality jumping +47.8 points (25.4% to 73.2%) while perception moves only slightly, consistent with a base model that already reads diagrams well. Interleave-RL without step-level credit assignment adds a further +8.7 points of accuracy (60.3%) and +4.4 points of Process Avg. (76.5%), and notably raises auxiliary quality to 77.6% even though no image policy gradient is applied. Adding step-level credit assignment produces the full GeoWeave-8B at 62.6% accuracy and 82.9% Process Avg., with the decisive jump in reasoning process from 46.3% to 66.3% — direct evidence that localized process feedback, not longer outputs, drives deductive reliability. The appendix confirms the same pattern in training dynamics: the no-SCA run peaks and then collapses as response length spikes, while the full run sustains a gradual reward increase.
 
 Against open-source peers on GeoVAD-Bench, GeoWeave-8B posts the highest answer accuracy (62.6%) and the highest Process Avg. (82.9%), ahead of MathCanvas-7B (49.0%, 62.2%), CodePlot-CoT-32B (49.9%, 69.1%), and the remaining baselines. Relative to its own base model the gains are coordinated rather than concentrated: perception +5.8 points to 95.6%, auxiliary quality +51.0 to 76.4%, auxiliary utilization +22.0 to 93.6%, and reasoning +43.0 to 66.3%, which is the pattern the authors predicted from the stage-wise diagnosis. Generalization is reported on MathVista-GPS (92.7%), MathVerse Text Dominant (67.5%) and Text Lite (63.3%), and MATH-Vision (41.4%), averaging 66.2% and beating MathCanvas-7B on all four despite those suites not requiring explicit auxiliary-image generation, plus 64.7% process score and 41.4% answer correctness on Math-VR. These numbers support a [[transfer-of-learning|transfer]] claim to interleaved visual-textual protocols broadly, though scaling behavior, RL overhead, cross-branch policy updates, and generalization beyond geometry remain open. For [[stem-education]] and [[ai-ed-evaluation|evaluation]] practice, the durable contribution is [[research-methods-aied|methodological]]: [[visualization]] acts inside [[machine-learning]] pipelines should be scored on faithfulness and downstream use, not merely on whether an image was produced.
+
+## What this means for practice
+
+- **Designers.** Score generated auxiliary diagrams on faithfulness and downstream use rather than on whether an image was produced: autonomous construction fell below reasoning from the untouched original diagram (36.0% vs. 43.0% for the Qwen3-VL-8B pipeline; 37.3% vs. 43.8% for SenseNova-U1-8B).
+- **Designers.** Prefer validated constructions where a reliable source exists — expert auxiliary diagrams raised final-answer accuracy by +3.3, +3.0 and +7.0 points across the three evaluated configurations — and reserve autonomous generation for models whose perception and editing are already strong.
+- **Designers.** Order training by capability: the geometric perception stage (400K diagram-description pairs) and the diagram-editing stage (200K instructions verified by re-executing the drawing code) lifted auxiliary quality by 47.8 points before any trajectory-level reward was applied.
+- **Researchers.** Report reasoning-process accuracy alongside final-answer accuracy, since correct solutions separated by +46.9 and +53.5 points on process and the four process categories accounted for 93.1% and 89.7% of attributed errors.
+- **Researchers.** Diagnose before scaling: the released model was built from a five-dimensional trajectory audit (perception, auxiliary quality, utilization, reasoning process, final answer) rather than from an accuracy score alone.
+
+## Limitations
+
+- **Scope stops at geometry.** GeoVAD-Bench is 600 problems that strictly require auxiliary constructions, evenly split into 200 Easy, 200 Medium and 200 Hard items, in Chinese and English; whether the gains transfer beyond geometric problem solving is left to future validation.
+- **Error attribution rests on two models.** The 93.1% and 89.7% error shares come from MathCanvas-7B (n = 306) and CodePlot-CoT-32B (n = 300), so the process-failure profile is model-specific rather than a property of visual chain-of-thought in general.
+- **Model-generated and model-verified training data.** The 400K perception pairs, 200K editing samples and 100K interleaved solutions were produced with Gemini-3.5-Flash and Qwen3.7-Max and filtered by re-executing the drawing code to discard failures, not by expert review.
+- **Unresolved scale and infrastructure costs.** The authors state that scaling behavior for training data and model parameters is unexplored, that the interleaved reinforcement learning infrastructure incurs substantial computational overhead, and that it does not yet accommodate joint policy updates across the visual generation and text understanding branches.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education"
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, self-regulated-learning]
@@ -80,6 +80,20 @@ Two limitations are stated explicitly. The pilot was small and conducted in a si
 The paper's conclusion is structural rather than technical, and rests on a durability argument: generative AI develops quickly, so a course or tool built around one version of it is out of date by the time it runs, and educational tools cannot keep pace with commercial systems that now ship study modes of their own. Assessment, by contrast, can be designed to target the reasoning behind AI-assisted work and to require students to reason before consulting AI, so that how a student worked becomes visible and gradable — an argument for [[authentic-assessment]] and [[assessment-validity]] rather than detection.
 
 The rules the strongest students set for themselves can be taught, and students can be asked to write, test and revise rules of their own. [[ai-literacy]] in Long and Magerko's sense, including a working understanding of what the models do, belongs in the curriculum for students and staff alike — for staff because the cohort's model understanding was entirely self-taught and unevenly distributed. A framework for course redesign along these lines is developed by the same author in a companion paper.
+
+## What this means for practice
+
+- **Instructors.** Have every student write, test and revise a personal rule for AI use at the start of the term — build the solution first and use AI only to check it, delegate syntax while writing the logic yourself, withhold part of the problem — because students who had set themselves a rule performed better on the assignments regardless of assigned condition.
+- **Instructors.** Teach how the language models actually work instead of assuming prior exposure: the students with the deepest model understanding (in every case self-taught) wrote more effective prompts, used the tools more deliberately and earned the highest assignment scores.
+- **Instructors.** Grade the process, not only the product, by keeping the required notebook tags on AI-sourced code and the end-of-session reflection; the rubric already covered error diagnosis, reasoning and responsible AI use, and that is the evidence that makes how a student worked visible.
+- **Researchers.** Measure students' use strategies (rules, hint timing, self-regulation) alongside performance, because equivalent assignment and inventory scores between the two conditions concealed differences in regulation that did track scores.
+
+## Limitations
+
+- The pilot randomized 33 students to 16 in the Coach condition and 17 in the unrestricted condition within a single master's-level course, and the authors state it was not powered for inferential tests, so only descriptive comparisons are reported.
+- The findings on strategy and model understanding rest on six semi-structured interviews plus recorded informal discussion notes with students and teaching assistants.
+- The trial compared one specific scaffold — a 25-hint budget, a 15-minute AI cap, a session reflection and mandatory tagging — against open access, and the authors state the results say nothing about scaffolds in general.
+- The scaffold leaked across the randomized conditions, with some Coach students reporting that they looked at classmates' unrestricted screens when stuck, and performance was measured by course assignments and a ten-item concept inventory with no delayed test taken without AI.
 
 ## Connected Concepts
 

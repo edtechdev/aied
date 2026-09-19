@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today’s Classrooms to Five Different Types of Robots"
 created: "2026-09-16T08:12:20-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [design-thinking, teacher-role, theory-development-aied]
 pedagogy: [embodied-learning, pedagogy, situated-learning, social-emotional-learning, well-being]
@@ -41,6 +41,13 @@ This is a Perspective paper, not an empirical study. The authors state that it o
 ## Implications
 
 For educators the paper argues that robots complement rather than replace teachers and therapists, and that their use requires a concrete pedagogical setting and situated robot design instead of generic deployment. The claimed advantage across the use cases is twofold: physical presence beyond multimedia animation, and machine abstraction that lets pupils rehearse scenarios impossible with real peers. For designers, the five types mark functionally distinct roles that can be probed separately, with emotional learning, conflict mediation and exam or job-interview practice as recurring scenarios.
+
+## What this means for practice
+
+- **Instructors.** Choose the robot type by the competence you intend to teach rather than by available hardware: the five proposed types cover reflection and perspective-taking (a and e), embodied learning, boundary awareness and emotion regulation (b), self-disclosure in a protected one-to-one setting (c), and critical engagement with hierarchies and agency (d).
+- **Instructors.** Set the pedagogical scenario before the technology and stay in the mediating role — the reviewed evidence (Wang et al., 2024, read through TPACK) concludes that robots are facilitators rather than replacements and work best when teachers mediate.
+- **Designers.** Build the safeguards into the system, not the policy document: data minimization, on-device processing where feasible, retention limited to immediate deletion or 24–72 hours, no secondary use for discipline or ranking, disclosure of control modes with teacher override and incident review, and a planned end-of-intervention transition.
+- **Researchers.** Measure retention beyond the novelty phase, which the authors name as unresolved; their own reported next step is teacher focus groups on feasibility, practicality, risks and ethical considerations rather than further conceptual elaboration.
 
 ## Limitations
 

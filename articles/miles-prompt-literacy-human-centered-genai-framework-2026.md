@@ -1,7 +1,7 @@
 ---
 title: "Prompts to Practice: A Pedagogical Framework for Human-Centered AI Engagement"
 created: "2026-09-14T11:12:30-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [constructivist, critical-pedagogy, metacognition]
@@ -36,6 +36,20 @@ audience: [instructors, instructional designers, faculty development]
 - Institutions should treat AI norm-setting as a teaching moment rather than a compliance exercise, supporting instructors in co-designing classroom guidelines with students and connecting them to academic integrity policies so authorship and attribution become shared, visible commitments.
 - Course and assessment design should move toward process-oriented and dialogic forms that foreground human presence, reflection and explanation, since output-based assessments are becoming unreliable indicators of learning in AI-mediated environments.
 - Institutions should resource the relational side of AI integration: the authors insist that feedback, encouragement, empathy and cultural responsiveness remain irreplaceable, and that the framework is human-centered because it is human-centered in design, with leadership defining why integration matters and instructors enacting how.
+
+## What this means for practice
+
+- **Instructors.** Run the five phases as a semester-level progression rather than a single AI lesson, teaching ethics, prompting, drafting, reflection and independent application in sequence while returning to earlier phases as the process recurs.
+- **Instructors.** Teach the Prompt Literacy Cycle explicitly — Clarify Purpose, Craft the Prompt, Engage with Output, Refine the Prompt, Reflect — and use the Compare Prompt Literacy vs. Prompt Engineering exercise to make the technical-versus-rhetorical distinction concrete.
+- **Instructional designers.** Grade the process rather than the AI artifact, using criteria for iterative refinement, critical interpretation of output and reflective revision so that judgment and revision carry the credit.
+- **Faculty developers.** Model your own prompt refinement, output critique and ethical deliberation in class, and share that LLM use is iterative rather than a route to perfection or efficiency.
+- **Administrators.** Co-design classroom norms with students and connect them to institutional integrity policies instead of relying on detection and compliance rules.
+
+## Limitations
+
+- The framework is a conceptual contribution synthesized from established learning theory and the authors' instructional experience rather than derived from an empirical study; no datasets were generated or analyzed for it.
+- The process rubric presented in the paper is offered as a sample with three criteria, and the paper reports no reliability or validity evidence for it.
+- The five phases, the Prompt Literacy Cycle and the classroom activities have not been tested for effects on student learning; the authors state that empirical evaluation is currently underway.
 
 ## Connected Concepts
 
