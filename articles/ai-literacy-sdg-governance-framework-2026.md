@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework"
 created: "2026-09-10T09:00:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T09:52:14-04:00"
 type: article
 foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design]
 ethics: [equity-in-ai-education, ethics, sustainability]
@@ -44,10 +44,6 @@ A survey of 300 participants from diverse professional backgrounds within a nati
 - [[stakeholders|Stakeholders]] prioritized actions aligned with SDG 16 (public awareness 24.5%, government policy 18.8%), SDG 4 (curriculum training 21.5%), and SDG 9 (industry partnerships and innovation labs).
 
 The authors conclude that literacy-based competencies should be embedded into [[curriculum-design|curricula]], institutional policies, and governance mechanisms to accelerate equitable and responsible progress toward the [[sustainability|Sustainable Development Goals]].
-
-## Implications
-
-The framework extends [[ai-literacy]] from a classroom-based competency into a systemic driver of responsible AI governance, connecting directly to [[ethics]], [[equity-in-ai-education]], and [[educational-policy-ai|policy]]. Its emphasis on ethical reasoning and reflective thinking as predictors of trustworthy use reinforces the field's move beyond operational skill toward critical and ethical dispositions.
 
 ## What this means for practice
 
