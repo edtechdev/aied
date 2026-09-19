@@ -1,12 +1,12 @@
 ---
 title: "What Are Notable Gaps in the Research Literature on AI in Education?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:28:59-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
 assessment: [learning-gains]
-ethics: [equity-in-ai-education]
+ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
 research_method: [research methods, literature review, learning analytics]
 level: [higher ed]
 page_kind: [evaluation]
@@ -88,6 +88,8 @@ Findings from one course, institution, language, or learner population often pro
 Equity research must also distinguish access, skills, and outcomes. The [[digital-divide|Digital Divide]] synthesis makes clear that providing devices or tool access does not establish equal capacity to benefit.
 
 For example, [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] followed 752 Hong Kong junior-secondary students. Psychological readiness gaps narrowed, while differences on an objective AI-literacy test persisted. All groups improved, but overall improvement did not eliminate inequality. Because prior-learning profiles were not randomly assigned, the study does not establish their causal effects.
+
+The knowledge base's own coverage shows where the group-level evidence is thin as well as uneven. [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] counts the literature by who it studies: second-language and multilingual learners and students with disabilities are the deepest strands, gender and neurodiversity next, while first-generation students and international students have a single study each in this corpus, gifted and high-achieving students are effectively unstudied as a group, and refugee, immigrant and displaced learners appear in none. An evidence base with that shape cannot answer equity questions by aggregation; it has to be sampled deliberately.
 
 **The research priority is identifying which designs reduce differences in demonstrated capability, participation, and agency.** Studies should examine subgroup outcomes and burdens, not merely average gains. Accessibility research should distinguish removing barriers to participation from replacing a capability the learner is intended to develop. See [[equity-in-ai-education|Equity in AI Education]] and [[accessibility]].
 
