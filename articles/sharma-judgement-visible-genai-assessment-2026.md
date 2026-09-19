@@ -6,7 +6,7 @@ type: article
 foundations: [academic-integrity, human-ai-collaboration, theory-development-aied]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai]
-assessment: [evaluative-judgement, assessment, ai-detection, authentic-assessment]
+assessment: [evaluative-judgment, assessment, ai-detection, authentic-assessment]
 methods: [research-methods-aied]
 stakeholders: [learners, teacher-ai-competency]
 institutions: [governance, educational-policy-ai]

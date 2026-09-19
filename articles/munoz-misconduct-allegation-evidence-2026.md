@@ -5,7 +5,7 @@ updated: "2026-09-18T04:15:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 technology: [generative-ai, llm, ai-technologies]
-assessment: [ai-detection, assessment-validity, evaluative-judgement]
+assessment: [ai-detection, assessment-validity, evaluative-judgment]
 methods: [mixed-methods-research, qualitative-research, quantitative-research]
 stakeholders: [student-experience]
 institutions: [governance, educational-policy-ai]

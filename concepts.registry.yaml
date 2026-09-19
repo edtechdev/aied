@@ -661,7 +661,7 @@ concepts:
     - ethics
     - ethics of AI
     - responsible AI
-  evaluative-judgement:
+  evaluative-judgment:
     title: Evaluative Judgment
     aliases:
     - appraising quality
@@ -2071,7 +2071,7 @@ sections:
   - label: Assessment and feedback
     items:
     - assessment
-    - evaluative-judgement
+    - evaluative-judgment
     - feedback
     - feedback-literacy
     - ai-feedback-quality
@@ -2177,6 +2177,7 @@ sections:
     - trust-calibration
     - explainable-ai
 redirects:
+  evaluative-judgement: evaluative-judgment
   ai-anxiety-and-stress: anxiety-and-stress
   accessible-learning: inclusive-learning
   peer-review: peer-assessment

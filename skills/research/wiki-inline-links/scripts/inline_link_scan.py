@@ -74,7 +74,7 @@ EMBEDDED_ALIASES = {
     'group-work': ['group work', 'groupwork', 'group project', 'group projects',
                   'group assessment', 'group-based assessment', 'group assessments',
                          'team-based assessment', 'collaborative assessment'],
-    'evaluative-judgement': ['evaluative judgement', 'evaluative judgment', 'evaluative judgements',
+    'evaluative-judgment': ['evaluative judgement', 'evaluative judgment', 'evaluative judgements',
                              'evaluative judgments', 'appraising quality', 'calibrating judgement'],
     'authentic-assessment': ['authentic assessment', 'authentic evaluation', 'authentic tasks'],
     'formative-assessment': ['formative assessment', 'formative'],
@@ -426,7 +426,7 @@ REJECT_PAIRS = {
     ('young children', 'early-childhood-elementary-ai-education'),  # advertising audience
     ('biological communication', 'biology-education'),  # non-educational sense
     ('medicine', 'medical-education'),               # the field, not the education of its practitioners
-    ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct
+    ('assessment literacy', 'evaluative-judgment'), # literacy, not the judgement construct
     ('adoption', 'technology-acceptance-model'),     # bare uptake, not the model family
     ('practice', 'teacher-role'),                    # "their future practice"
     # --- 2026-09-15, arXiv/EdArXiv batch: false positives found in the
