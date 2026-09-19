@@ -2176,6 +2176,15 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 > **Theories and frameworks** — the map of the explanatory and organizational structures this knowledge base uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); measurement models make learning claims testable ([[item-response-theory|item response theory]], [[assessment-validity]], [[self-report-measures]]). Use this page when you want to know which lens a finding rests on — and what that lens can and cannot support.
 
+## Questions to Consider
+
+- A theory predicts what happens when something changes; a framework tells you what to attend to. When a study reports a gain under a framework's banner but makes no prediction that could have failed, what has actually been learned?
+- [[tpack|TPACK]], [[samr-model|SAMR]], [[universal-design-for-learning|UDL]], the [[technology-acceptance-model|adoption models]] and [[icap-framework|ICAP]] all predate [[llm|large language models]]. Which parts of them still hold when the tool can write, explain, and adapt on its own — and how would you tell?
+- Adoption is often reported as movement through stages. If a colleague reports that their course moved "from substitution to redefinition" this year, what independent evidence would you ask for before believing it?
+- [[item-response-theory|A measurement model]] can be fitted, compared, and shown to be wrong; a framework cannot. When you decide whether to trust a claim about AI and learning, where does your confidence actually come from — the framework that named the outcome, or the instrument that measured it?
+- Much of this field applies borrowed theory rather than testing it. Pick a finding you rely on: could it be reframed as a test of [[self-determination-theory|a theory]], and what measurement would that require?
+- [[philosophy-of-ai-in-education|Philosophy]] asks whether a goal was worth pursuing; theory asks whether the mechanism behind it is real. Which of those two questions does your institution's AI strategy leave unanswered?
+
 ## Theory, framework, model: what each word promises
 
 The three labels are used loosely in the literature, but they promise different things, and the difference decides what a claim built on them can support:
