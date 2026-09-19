@@ -191,7 +191,7 @@ export const FACET_VOCAB = {
     'governance',
     'regulation',
   ],
-  // Equity, ethics, and responsible use (24 concepts) — registry section: Equity, ethics, and responsible use
+  // Equity, ethics, and responsible use (25 concepts) — registry section: Equity, ethics, and responsible use
   ethics: [
     'accessibility',
     'ai-misuse-learning-harm',
@@ -200,6 +200,7 @@ export const FACET_VOCAB = {
     'assistive-technology',
     'bias-mitigation',
     'culturally-relevant-pedagogy',
+    'differential-effects-across-learner-groups',
     'digital-divide',
     'equity-in-ai-education',
     'ethics',
