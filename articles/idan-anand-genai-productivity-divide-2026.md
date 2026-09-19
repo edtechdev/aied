@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and the Productivity Divide: Human-AI Complementarities in Education"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -40,6 +40,21 @@ Participants' [[metacognition|self-assessments]] correlated meaningfully with me
 ## Discussion and Implications
 
 The findings reframe the educational and organizational stakes of GenAI. Because AIC — an emerging, untested, and unevenly distributed [[ai-literacy|AI literacy]] — now determines who advances and who falls behind, educational institutions and firms should pair access with short AIC [[professional-training|micro-training]] (60–90 minutes covering prompting logic, verification heuristics, and synthesis structure) and light [[scaffolding|scaffolds]] such as standard operating procedures, prompt templates, and review checklists. These process interventions reduce performance variance by about one-third without diminishing the mean, directly addressing the [[equity-in-ai-education|equity]] challenge of AI-mediated learning. The paper's central message is that the effective management of GenAI hinges less on the technology itself and more on the design of complementary routines that embed consistency, discipline, and [[feedback]] into human–AI interaction — a shift toward [[governance|organizational]] capability design.
+
+## What this means for practice
+
+- **Learners.** Invest in AI Interaction Competence rather than in more access: the productivity lift went to participants who could elicit, filter, and verify model outputs, while GPA (p = .59) and prior knowledge (p = .2) showed no significant interaction with treatment.
+- **Learners.** When you are new to a topic, study from a conceptual roadmap that sequences the material, and check topics off as you go; scaffolded novices outscored unguided ones (M = .45 vs. .38) and the benefit was concentrated among low-AIC participants.
+- **Instructors.** Teach 60–90 minutes of prompting logic, verification heuristics, and synthesis structure instead of extending study time; adding a fourth daily hour to the required three produced no significant gains.
+- **Administrators.** Pair any AI access rollout with light process scaffolds — prompt templates, standard procedures, review checklists — which compressed the standard deviation of outcomes from .22 to .14 without lowering the mean.
+- **Researchers.** Measure [[student-ai-interaction|AI interaction competence]] as a moderator in AI-in-education experiments. It, not prior attainment, carried the significant treatment interaction, so studies that only control for GPA will miss the effect.
+
+## Limitations
+
+- **Single institution, students standing in for workers.** 179 participants recruited mainly from engineering programs at one university, studied as an approximation of early-career knowledge workers; the population is not the workforce the framing invokes.
+- **Short intervention, immediate outcome.** Three consecutive days of self-study with a post-intervention exam normalized to the unit interval and no delayed measure of retention or transfer.
+- **Weakly significant scaffolding effects.** The scaffolded-versus-unguided difference and the scaffolding × AIC interaction were only weakly significant (p > .05, p < .10), and the authors note that subgroup contrasts had limited statistical power.
+- **Self-reported AIC and preferences.** Interaction competence is measured from self-assessments whose alignment with measured performance varied by domain (ρ = .71 for general machine-learning knowledge), so the decisive moderator may partly reflect self-perception.
 
 ## Connected Concepts
 

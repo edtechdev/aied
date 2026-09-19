@@ -1,7 +1,7 @@
 ---
 title: Towards Synergistic Teacher-AI Interactions with Generative Artificial Intelligence
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [generative-ai]
@@ -33,6 +33,21 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - **[[human-ai-collaboration|Hybrid intelligence]]**: The vision is teachers and AI as complementary agents—each bringing distinct capabilities—rather than AI as a replacement.
 
  replacement.
+
+## What this means for practice
+
+- **Instructors.** Place your current [[generative-ai|GenAI]] use on the five levels before changing tools — most existing use sits at transactional or situational teaming — then decide deliberately what would move a task upward, since higher levels require redesign of the interaction, not just a better model.
+- **Instructors.** Keep professional judgment in the loop at the lower levels: the framework positions the teacher as the primary decision-maker in transactional and situational teaming and warns that full task offloading risks [[cognitive-offloading|cognitive atrophy]] and deprofessionalization.
+- **Faculty developers.** Align [[teacher-ai-competency|professional development]] with an AI literacy framework (the chapter points to UNESCO's AI competency framework for teachers) so teachers build the metacognitive and critical skills that praxical and synergistic teaming demand.
+- **Administrators.** Treat implementation as staged capacity building: audit existing teacher–AI interactions to find the baseline, then upgrade transactional tools toward situational or operational teaming by connecting classroom data streams and goal-setting interfaces.
+- **Designers.** Co-design prompts, interaction protocols, and decision-support flows with teachers, and run evaluation cycles on process analytics and teacher reflection rather than deployment metrics alone.
+
+## Limitations
+
+- This is a conceptual framework paper with no empirical test of its own: the five levels are proposed from literature and illustrated by a review, and the authors state the field needs future empirical investigation.
+- The supporting review searched a single database (Web of Science, 2010–2025); more than 7,000 records were screened by title and abstract by two coders (Cohen's K = 0.82), and data-extraction agreement was lower (Krippendorff's alpha = 0.69).
+- Full extraction yielded 103 studies, and GenAI-powered tools were only 39% of them, so claims about the higher teaming levels rest on a minority of the evidence base.
+- The review records which levels appear in the literature; it does not test whether reaching a higher level improves teaching quality or student outcomes.
 
 ## Connected Concepts
 

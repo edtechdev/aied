@@ -2,7 +2,7 @@
 title: "How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 technology: [intelligent-tutoring]
 assessment: [assessment-validity, educational-measurement]
 ethics: [equity-in-ai-education, global-south]
@@ -57,13 +57,9 @@ The parametric commitment to normality is tested in the direction that matters f
 
 The comparison also rests on an instrument used outside its design. PISA for Schools produces estimates for a school, not for a system, and is not administered under the national sampling frame with its response-rate standards, exclusion limits and weighting. A comparison between a school-level estimate and a country mean carries at least three unreported sources of uncertainty — the school-level sampling error, the country-mean sampling error and the linking error of the scale equating — which is the classic [[assessment-validity|validity]] distinction between a test and the inference drawn from its scores. Voluntary participation at the individual level is a well-understood source of upward bias, and in an assessment administered in schools whose administrators know the results will evaluate a flagship program, the direction of the bias is not ambiguous even if its magnitude is.
 
-## Implications for Policy, Evaluation and Scale
+## The scaling question
 
 The program has already expanded from 171 schools to more than 1,000, with the stated intention of reaching every public school in about 18 months and an xAI deployment covering more than 5,000 schools and a million students. The scaling literature the paper cites predicts decay: the Kenyan program that produced substantial gains under NGO implementation produced no detectable gain at government scale (Bold et al.), and effect sizes tend to fall as programs grow (Vivalt) for reasons that include site selection, population selection and dilution of implementation quality — all three of which the paper sees in this case. For Latin America the precedent is the Peruvian One Laptop per Child program, 800,000 laptops and no detectable effect on mathematics or reading: access is not instruction, and the components most likely to be producing any real gain are the structured pedagogy and coaching the headline did not mention. The risk, the authors write, is not adopting a technology that does not work but learning the wrong lesson from a reform that does.
-
-The [[research-methods-aied|methodological]] recommendation is cheap and specific: design the evaluation before deployment, because deployment creates the variation identification requires. A phased rollout — which a system with limited connectivity has to do anyway — is a staggered-adoption design that identifies the effect without withholding the program, and the expansion from 1,000 schools to the whole system has not yet happened.
-
-Six limitations are stated plainly: the outcome is unobserved (no disaggregated scores published), the selection is unobserved, the distributional form is an assumption, the baseline is unavailable, the article does not evaluate the program, and selection is treated as a single dimension — a real simplification in a system where 81.9% of students in the most disadvantaged quarter of the economic, social and cultural status index score below level 2 in science against 42.1% in the most advantaged quarter, so that selecting on ability and selecting on family background are close to the same operation. That last point gives the paper's [[equity-in-ai-education|equity]] edge: the volunteering channel it treats as unremarkable may itself be socio-economically structured.
 
 ## What this means for practice
 

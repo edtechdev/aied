@@ -1,7 +1,7 @@
 ---
 title: Can LLMs Effectively Simulate Human Learners? Teachers' Insights from Tutoring LLM Students
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-28T00:00:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [community-of-inquiry, scaffolding]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulating-students]
@@ -66,6 +66,21 @@ LLMs captured the bottom-right quadrant reasonably well but failed to represent 
 - Addresses the growing trend of using unvalidated [[simulating-students|LLM simulations]] in educational contexts
 
 onal contexts
+
+## What this means for practice
+
+- **Teacher educators.** Do not run [[simulating-students|LLM-simulated students]] as authentic rehearsal without checking fidelity first; the 12 tutoring teachers reported overly complex language, missing emotion, unnatural attentiveness, and knowledge jumps, and the simulations only represented the low-scaffolding/high-cognitive-presence quadrant well.
+- **Teacher educators.** Screen a simulation against all four real student behavior categories — disengagement and negative emotion, question-asking and disagreement, gradual knowledge building and memory, and tactic change on feedback — and choose prompts that force the three categories the LLM students failed to cover.
+- **Researchers.** Validate simulations against teacher judgment after use rather than assuming internal consistency; only 3% of studies simulating learners do any post-factum validation, which is the gap this framework addresses.
+- **Teacher educators.** Use the scaffolding-by-presence categorization as a debrief checklist: it tells you how a simulated student should push back or disengage, so a trainee's response can be reviewed against a defined behavior type.
+- **Designers.** Build [[knowledge-tracing|knowledge tracing]] and forgetting into the simulated student, and let it go silent or lose focus, so that trainees meet the teaching challenge the design guidelines describe rather than a relentlessly cooperative partner.
+
+## Limitations
+
+- The study interviewed 12 teachers, most based in the UK and the majority female; the authors acknowledge possible gender effects on how personas are perceived and call for larger, more diverse samples.
+- All simulations analyzed came from one dataset (MathDial) built with an older GPT-3.5-turbo model, so behavior may differ with other [[llm|LLMs]] — and the authors note more capable models can sometimes simulate less convincingly.
+- Scope was limited to [[k-12|K–12]] [[math-education|mathematics]] dialogue; real student behavior varies by subject and was never tested elsewhere.
+- Realism judgments are teacher self-report in interviews, with no measured learning outcomes and no comparison against real students.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Teachers' Collaborative Evaluation of AI-Generated Content: Insights from a Professional Development Workshop"
 created: "2026-09-04T09:08:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [critical-thinking, teacher-role]
 technology: [generative-ai]
@@ -29,10 +29,6 @@ As [[generative-ai|GenAI]] becomes integrated into education, AI-generated conte
 3. Collaborative evaluation emerged as valuable [[teacher-education|professional development]], helping teachers surface and address the risk that AI content reinforces misconceptions.
 4. A mixed-methods design combined [[quantitative-research|quantitative]] ratings with [[qualitative-research|qualitative]] insights on teachers' perceptions.
 5. The findings position teachers as critical evaluators of AI material, supporting [[critical-thinking|critical]] [[student-engagement|engagement]] with [[generative-ai|GenAI]] in the classroom.
-
-## Implications
-
-The study supports [[teacher-education|professional development]] designs that build teachers' capacity to critically evaluate AI-generated content, strengthening [[teacher-role|teacher]] judgment and guarding against the propagation of misconceptions through AI tools. It also connects to [[formative-assessment]] design, where the quality of AI-generated questions depends on informed educator oversight.
 
 ## What this means for practice
 

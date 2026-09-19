@@ -1,7 +1,7 @@
 ---
 title: "Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence"
 created: "2026-09-03T12:22:25-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [academic-integrity, educational-development, teacher-role, theory-development-aied]
 technology: [generative-ai]
@@ -33,21 +33,13 @@ methods: [qualitative-research]
 
 The study is theoretically distinctive in grounding the analysis in **postphenomenology and technological mediation theory** (Ihde 1990; Verbeek 2006, 2011; Rosenberger & Verbeek 2015), treating GAI not as a neutral "tool" but as *multistable technological artifacts* that mediate teachers' perceptions and reconfigure their practices. On this account, GAI's "scripts" — rapid responsiveness, natural-sounding text that can achieve passing grades — shape teachers' experience of what competence means for learners and themselves, unsettle confidence, and push them beyond instrumental questions ("what use is acceptable?") toward re-evaluating their role, the meaning of teaching, and the future of the university in a landscape that feels "out of control." [[theory-development-aied|Theoretically]], the paper applies an established [[philosophy-of-ai-in-education|philosophical]] framework (technological mediation) to the AI-in-education context rather than proposing a new one — an example of *advancing* an established theory into [[ai-education|AIEd]].
 
-## Implications for AI in Education
-
-- **For [[anxiety-and-stress|teacher anxiety and well-being]]:** teachers' "state of vulnerability" and feeling "stuck" is a genuine emotional and professional response to GAI, not mere resistance — it signals a need to support teacher confidence and [[well-being]], not just train tool use.
-- **For [[educational-development]]:** institutions should provide designated spaces and time for teachers to experiment with GAI, exchange experiences, and collaboratively develop practices and guidelines at institutional, departmental, and course levels — treating [[ai-literacy|AI literacy]] and readiness as a supported, collective endeavor.
-- **For [[assessment]] and [[academic-integrity]]:** the assessment rethinking themes (AI-proof formats, multiple/incremental submissions, transparency declarations, feedback) echo the knowledge base's shift from [[ai-detection|detection]] toward redesign; but the paper also surfaces teachers' concern that returning to traditional/sit-in formats risks losing the [[pedagogy|pedagogical]] value of at-home, self-paced long-form writing.
-- **For [[teacher-role]] and [[curriculum-design]]:** teachers identified cultivating [[critical-thinking|critical thinking]], evaluative judgment, and ethical GAI use as newly central responsibilities — pointing to a reconfiguration of the teacher role around guiding critical [[student-engagement|engagement]] with GAI rather than transmitting content.
-- **For [[equity-in-ai-education]]:** unequal access to paid vs. free GAI tiers was a live teacher concern, framing equity as an access-and-infrastructure problem within classrooms, not only across countries or institutions.
-
 ## What this means for practice
 
 - **Instructors.** Treat your own unease about [[generative-ai|GAI]] as a legitimate professional signal, not a gap in your competence. These experienced teachers (average 13 years) described a genuine "state of vulnerability," and the authors argue it calls for confidence- and [[well-being|well-being]] support rather than tool training alone.
 - **Instructors.** Protect the pedagogical value of at-home long-form [[writing-education|writing]] while adding transparency measures — honor statements and declarations of AI use — instead of defaulting to sit-in or oral exams, which the teachers warned could sacrifice self-paced, deep writing.
-- **Instructors.** Make [[critical-thinking|critical thinking]], source evaluation, and fact-checking explicit course objectives. Teachers identified evaluating data sources, checking output, and owning one's knowledge as newly central responsibilities for learners working with GAI.
-- **Faculty developers.** Create designated time and space for teachers to experiment with GAI, compare experiences, and draft guidelines collaboratively at institutional, departmental, and course levels, treating [[ai-literacy|AI literacy]] and readiness as a supported collective endeavor.
-- **Faculty developers.** Give junior teachers targeted support: respondents singled out colleagues with less course-specific teaching experience as especially exposed when assessing work potentially produced with GAI.
+- **Instructors.** Make [[critical-thinking|critical thinking]], source evaluation, and fact-checking explicit course objectives — teachers identified evaluating data sources, checking output, and owning one's knowledge as newly central responsibilities for learners working with GAI, pointing to a reconfiguration of the [[teacher-role|teacher role]] around guiding critical [[student-engagement|engagement]] with GAI rather than transmitting content.
+- **Faculty developers.** Create designated time and space for teachers to experiment with GAI, compare experiences, and draft guidelines collaboratively at institutional, departmental, and course levels, treating [[ai-literacy|AI literacy]] and readiness as a supported collective endeavor — and give junior teachers targeted support, since respondents singled out colleagues with less course-specific teaching experience as especially exposed when assessing work potentially produced with GAI.
+- **Instructors and faculty developers.** Treat unequal access as a design constraint, not a side issue: teachers raised paid versus free GAI tiers as a live concern, so avoid tasks that presume paid-tier features and treat [[equity-in-ai-education|equity]] as an access-and-infrastructure problem within the classroom, not only across countries or institutions.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning"
 created: "2026-09-06T08:18:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning, well-being]
 technology: [generative-ai]
@@ -22,10 +22,6 @@ discipline: [language learning]
 - **Profiles predict confidence and burnout:** At Time 3, positively adapting learners reported the highest Japanese learning self-efficacy and lowest burnout; maladaptive learners showed the reverse — profiles are practically meaningful for [[learning-gains|learning outcomes]].
 - **Technostress declined and resilience rose:** All five technostress dimensions declined from Time 1 to Time 3 while psychological resilience rose modestly (2.03 to 2.19), consistent with a gradual easing of technological strain as learners gained experience.
 - **Sample context:** 457 learners at Time 1 (76.1% female), mostly enrolled in non-major Japanese courses (56.0%) with intermediate proficiency (45.7%); 62.1% had no prior AI training, and the most common AI-use frequency was 3–4 times per week.
-
-## Implications for AI in Education
-
-The study brings a person-centered, longitudinal lens to AI-supported [[language-learning|language education]], showing that learners do not respond uniformly to AI tools and that adaptation is best understood as a demand–resource balance under the Job Demands–Resources framework rather than a single continuum. For language instructors and learning designers it implies that AI-mediated environments should support learners whose technostress outweighs their resilience, and that fostering confidence and regulating [[self-regulated-learning|self-regulated]] use of AI can shift learners toward positive adaptation over time. The findings also caution that perceived benefits of AI-assisted learning do not eliminate the psychological costs of managing overload, information density, and dependence on intelligent tools.
 
 ## What this means for practice
 

@@ -1,7 +1,7 @@
 ---
 title: "The Relationship Between AI Anxiety and Academic Motivation Among University Students: The Mediating Role of Emotion Regulation and the Moderating Role of Gender"
 created: "2026-09-06T08:16:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [metacognition, motivation, self-efficacy, well-being]
 technology: [generative-ai]
@@ -24,14 +24,10 @@ confidence: high
 - **Weak and cautious use-duration signal:** Daily AI use showed only a weak positive correlation with academic motivation (r=0.053), interpreted cautiously given most students reported under one hour of use per day — exposure duration alone does not capture purpose or quality of AI [[student-engagement|engagement]].
 - **Practical implication for [[ai-literacy|AI literacy]] education:** Findings suggest AI literacy education should integrate emotion-regulation and [[metacognition|metacognitive]] support with differentiated, gender-aware learning assistance.
 
-## Implications for AI in Education
-
-The study positions [[well-being|emotional well-being]] as central to whether students thrive in AI-supported learning, arguing that reducing AI anxiety — rather than simply expanding tool access — is key to sustaining [[motivation]]. For [[higher-ed|higher-education]] instructors and support services it suggests pairing AI literacy instruction with [[self-efficacy|confidence]]-building and emotion-regulation strategies, and it cautions against reading usage time as evidence of productive engagement. Because the data are cross-sectional and self-reported, the authors call for longitudinal and experimental designs to test whether these relationships are causal and whether gender-differentiated support is warranted.
-
 ## What this means for practice
 
 - **Instructors.** Treat AI anxiety as a motivational risk rather than a comfort issue: it correlated negatively with academic motivation (r = −0.175) and with emotion regulation (r = −0.172), both p < 0.001.
-- **Instructors.** Teach emotion-regulation and metacognitive strategies alongside AI literacy, because emotion regulation was the pathway linking anxiety to lower motivation (indirect effect = −0.076, 95% CI −0.108 to −0.047).
+- **Instructors.** Teach emotion-regulation, metacognitive, and [[self-efficacy|confidence]]-building strategies alongside AI literacy, because emotion regulation was the pathway linking anxiety to lower motivation (indirect effect = −0.076, 95% CI −0.108 to −0.047).
 - **Faculty developers.** Avoid one-size-fits-all support: the regulation–motivation association was stronger for male students (B = 0.519) than for female students (B = 0.358), so differentiate by student.
 - **Administrators.** Stop reading usage time as engagement: daily AI use correlated only weakly with motivation (r = 0.053), and 72.6 percent of these students used AI less than an hour a day.
 

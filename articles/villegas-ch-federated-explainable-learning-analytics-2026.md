@@ -1,7 +1,7 @@
 ---
 title: "Federated and Explainable Learning Analytics for Privacy-Preserving Academic Risk Modeling Across Heterogeneous Educational Institutions"
 created: "2026-09-07T08:25:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 technology: [learning-analytics, machine-learning]
 ethics: [privacy]
@@ -29,16 +29,9 @@ methods: [ai-ed-evaluation]
 
 The framework formulates academic risk as a multitask problem with targets for both performance and dropout. Each institution's data stays local; a global server aggregates model parameters via sample-size-weighted FedAvg (with a proximal FedProx variant). Institutional heterogeneity is *parameterized* — Dirichlet (α) label skew, dropout-class imbalance (β), temporal drift, and structural missingness (γ) — rather than imposed as ad-hoc non-IID partitions. Explainability uses SHAP-based feature attributions compared as vectors: each institution's mean attribution profile is measured against a sample-size-weighted global reference via a Euclidean divergence metric (Δ), plus the RankStab rank-stability measure.
 
-## Implications for Institutions and Designers
-
-- **Privacy-preserving cross-institutional modeling is viable.** Federated training lets institutions collaborate on risk models while retaining data sovereignty — relevant where privacy constraints block centralized analytics.
-- **Do not trust raw probabilities across institutions.** Because calibration drifts under heterogeneity, probability thresholds that trigger early-warning interventions may need per-institution adjustment or post-calibration before use.
-- **Separate ranking from reliability in deployment.** A model can rank at-risk students correctly while producing miscalibrated probabilities; intervention systems should be designed knowing which capability they rely on.
-- **Explainability can support trust and targeting.** Stable feature-importance rankings help identify persistent behavioral indicators of risk (persistence, interaction density, reduced activity) to inform differentiated support.
-
 ## What this means for practice
 
-- **Learning analytics designers.** Surface risk as ranks and cohorts rather than probability bands when a federated model is reused across institutions: discrimination held (OULAD AUC = 0.918, F1 = 0.755) while the dropout task's ECE moved from 0.067 on OULAD to 0.232 on EdNet-KT1.
+- **Learning analytics designers.** Surface risk as ranks and cohorts rather than probability bands when a federated model is reused across institutions: discrimination held (OULAD AUC = 0.918, F1 = 0.755) while the dropout task's ECE moved from 0.067 on OULAD to 0.232 on EdNet-KT1. Stable feature-importance rankings can also support targeting, flagging persistent behavioral indicators of risk such as persistence, interaction density, assessment behavior and reduced activity for differentiated support.
 - Build per-institution recalibration into the deployment pipeline before any threshold-triggered intervention, since the study applied no post-hoc recalibration and even the centralized baseline sat at an ECE of about 0.391 on the performance task.
 - **Institutions.** Choose FedProx over plain FedAvg where institutional label distributions are far apart: FedProx held lower ECE at α = 0.1 and α = 0.3, while FedAvg's ECE rose markedly from α = 0.3.
 - **Administrators.** Fund the federated governance layer — local training infrastructure and institutional data agreements — because the architecture keeps raw student records on site while still producing a shared model.

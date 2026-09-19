@@ -1,7 +1,7 @@
 ---
 title: "Comparing teacher-centered and student-centered agents based on prompt engineering: Effects on learning performance, cognitive load, flow experience, and empathy perception in physics learning"
 created: "2026-09-11T00:40:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [motivation, student-ai-interaction, student-engagement]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent, prompt-engineering]
@@ -44,17 +44,9 @@ Both agents were built on Coze with chain-of-thought guidance and the same found
 
 The authors attribute the student-centered advantage to interaction structure rather than content coverage. That agent sequenced its help — first diagnosing the cause of the misconception, then explaining the essential concept, then offering an analogous example — consistent with stepwise guidance proposals such as review–guidance–inspiration–correction–summary. It also closed each round by asking whether the student had understood the point, which the authors read as building a **sense of participation** (the user taking an active role rather than receiving information passively), keeping students immersed in the dialogue and supporting comprehension, [[motivation]], and [[student-engagement]]. The [[physics-education|physics education]] literature is cited as already arguing that LLM implementation in physics instruction should prioritize a student-centered approach.
 
-## Implications
-
-- **Prompt design is an instructional-design act.** Holding the model, platform, and temperature constant, changing only the agent's role, skills, and constraints shifted achievement, cognitive load, flow, and perceived empathy — so role specification deserves the same care as content accuracy in [[pedagogical-agent|agent]] development.
-- **Design for the learner's cognition, not just the answer's correctness.** The teacher-centered agent was optimized for accuracy and textbook grounding and still underperformed on every affective and cognitive measure; bounded knowledge and concise structured answers did not translate into learning support ([[hallucination-risk]], [[intelligent-tutoring]]).
-- **Empathy is measurable and designable.** Empathy perception came from scripted conversational moves — perspective-taking openings, misconception diagnosis, comprehension checks — rather than from a differently-trained model, making [[affective-computing|affective]] quality something prompt design can be held accountable for.
-- **Cognitive load is a diagnostic of agent quality.** The extraneous/germane split distinguished the two agents where a single load score would not have, and is a cheap instrument for comparing tutoring designs.
-- **Limitations:** a small, high-performing single-province sample of [[higher-ed|post-secondary]]-entrance students, only two physics questions and roughly 20 minutes of interaction, and generalizability constrained by both.
-
 ## What this means for practice
 
-- **Instructors.** Specify the agent's role, skills and constraints as carefully as its content accuracy: with model, platform and temperature held constant, only the prompt design differed, and the student-centered condition finished higher at post-test (9.67 vs. 7.93, r = 0.38).
+- **Instructors.** Specify the agent's role, skills and constraints as carefully as its content accuracy: with model, platform and temperature held constant, only the prompt design differed, and the student-centered condition finished higher at post-test (9.67 vs. 7.93, r = 0.38). The accuracy-optimized teacher-centered agent — bounded to a textbook knowledge source and built for concise, accurate answers — still finished lower on every cognitive and affective measure.
 - **Instructors.** Script the sequence rather than only the explanation: diagnose the cause of the misconception first, name the relevant concept, then transfer to an analogous real-world case, and close each round by asking whether the student understood.
 - **Instructors.** Hold prompt design accountable for affect: students rated the student-centered agent as more empathic (21.27 vs. 18.24) purely on the strength of scripted moves — perspective-taking openings, misconception diagnosis, comprehension checks.
 - **Learners.** Treat dialogue with the agent as work rather than delivery — the student-centered condition reported lower extraneous load (8.33 vs. 10.76) and higher germane load (14.27 vs. 12.62), that is, less wasted effort and more schema-building.
@@ -97,6 +89,8 @@ The authors attribute the student-centered advantage to interaction structure ra
 - [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
 - [[correct-answer-trap-ai-tutor]] — When hints help and when they encourage over-reliance
 - [[cui-motivation-roles-metacognitive-genai-2026]] — Motivation and roles in metacognitive GenAI engagement
+
+#
 
 ## Citation
 

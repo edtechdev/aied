@@ -1,7 +1,7 @@
 ---
 title: "VARIA: Benchmarking Frontier LLMs on Construct-Equivalent Assessment Variant Generation"
 created: "2026-09-07T09:09:07-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -36,9 +36,9 @@ Key results from the pilot (600 variants, 60 condition cells):
 - **Prompting strategy selects an operating point:** structured chain-of-thought and zero-shot maximize construct equivalence (0.96–0.97) with tight readability dispersion; dimension-preserving constrained generation and few-shot anchoring maximize surface diversity (cosine ≈ 0.05) at the cost of readability dispersion. No single strategy dominates all four dimensions simultaneously — a diversity-equivalence trade-off the authors chart as a Pareto frontier.
 - **Measurement caveats:** the LLM judge uses a single coarse set-level score, so equivalence differences among the strongest frontier strategies are near the instrument's resolution limit; rubric stability (P3) and behavioral copy-resistance remain for the pre-registered follow-up.
 
-## Implications for AIAA and assessment
+## What the work contributes
 
-The authors release VARIA and recommend a generation protocol keyed to the deploying institution's threat profile. Two substantive conclusions follow: **variation-at-scale cannot be solved by prompting alone** if the diversity threshold is set aggressively — readability and construct-equivalence floors will eventually be breached together — and a deploying institution should **validate its specific model-prompt pair** rather than relying on strategy-level rankings, given the real model-by-prompt interaction at the cell level. The benchmark reframes the [[ai-detection|detection-vs-redesign]] debate: the no-surveillance promise of [[authentic-assessment|per-student task variation]] now has an empirical, falsifiable check, and the strongest frontier generators currently satisfy the integrity criteria at the margin rather than with wide headroom.
+The authors release VARIA, and the benchmark reframes the [[ai-detection|detection-vs-redesign]] debate: the no-surveillance promise of [[authentic-assessment|per-student task variation]] now has an empirical, falsifiable check.
 
 ## What this means for practice
 

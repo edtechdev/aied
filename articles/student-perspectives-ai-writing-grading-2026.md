@@ -1,7 +1,7 @@
 ---
 title: "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, evaluative-judgment, feedback-literacy]
 stakeholders: [student-experience]
@@ -49,12 +49,6 @@ Transparency did not produce disengagement. Instead, students interrogated the e
 
 Students' reasoning about the human instructor moved well past technical limitation. They invoked the teacher's knowledge of individual students—"Teacher knows much better about students and knows good ways to grade students and support students' learning"—and the dialogical character of human [[evaluative-judgment|evaluation]]: "ChatGPT is not like people. You talk to them and explain excuses to consider or give another chance if you fail. People talk and discuss problems and understand each other's problems. … I like normal teacher [to] grade my work." Most pointedly, one student asked: "If ChatGPT [is] checking the exams, why are we going to university? Why not learn from ChatGPT and test ourselves in ChatGPT?" The paper stresses that these are positive arguments for preserving human evaluative authority, not rejections of the technology.
 
-## Implications for assessment design
-
-The study proposes a three-principle framework for integrating GenAI into [[writing-education|writing assessment]]: transparency as the foundation (clear communication about AI involvement), human mediation (instructors retain evaluative authority over AI outputs), and reflective practice (post-assessment reflection that keeps [[student-engagement|engagement]] critical rather than passive). The sequencing matters—reflection was placed after students received their score, not during drafting, which appears to have shifted attention from sentence-level repair to system-level questions of who should evaluate and on what grounds.
-
-For practitioners, the paper's most replicable suggestion is that a two- or three-prompt post-assessment reflection is inexpensive, needs no extra technology, and surfaces reasoning instructors would otherwise never see; it could be embedded in any course using AI feedback tools. The authors also suggest that under [[ai-use-disclosure|disclosure]] conditions, students position AI as a supplementary tool whose outputs warrant human interpretation, implying that [[human-in-the-loop-ai|human oversight]] should be designed in as the point at which AI output becomes a grade rather than treated as an optional courtesy. The framework is offered as a synthesis of observed patterns, not as a tested causal pathway.
-
 ## Limits and the evidence base
 
 The study's own limitations section is unusually direct. The analytic sample is 13 of 19 enrolled students—who may be a self-selected subset—from one course section, one semester, one institution, taught by the instructor who also conducted the research. All participants were male undergraduate computing students at a single Saudi public university, restricting transferability to women, to non-computing disciplines, to other institutions, and to other cultural contexts, including settings where student–teacher relationships carry different relational and institutional weight.
@@ -63,7 +57,7 @@ Three further constraints bound the claims. Comparing this transparent cohort wi
 
 ## What this means for practice
 
-- **Instructors.** Add a two- or three-prompt post-assessment reflection immediately after students receive an AI-generated score; it needs no extra technology and surfaces reasoning about evaluative authority that instructors would otherwise never see.
+- **Instructors.** Add a two- or three-prompt post-assessment reflection immediately after students receive an AI-generated score; it needs no extra technology and surfaces reasoning about evaluative authority that instructors would otherwise never see — in this study, placing reflection after the score rather than during drafting appeared to shift attention from sentence-level repair to system-level questions of who should evaluate and on what grounds.
 - **Instructors.** State plainly when AI produced the score and feedback. All 13 students found the AI feedback clear and useful, while seven explicitly made their trust conditional on instructor review.
 - **Assessment designers.** Build human review in as the point where AI output becomes a grade rather than an optional courtesy — students affirmed AI feedback and rejected AI grading inside the same evaluation event.
 - **Institutions.** Where the question is authority and legitimacy, remove authorship ambiguity from the design: this study used in-class handwritten writing so the evaluated text was unambiguously the student's own.
