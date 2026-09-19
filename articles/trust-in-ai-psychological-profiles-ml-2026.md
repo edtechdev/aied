@@ -1,7 +1,7 @@
 ---
 title: "Psychological Profiles Associated with Trust in Artificial Intelligence Among University Students: A Machine Learning Clustering Approach"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T09:08:46-04:00"
 type: article
 pedagogy: [anxiety-and-stress, self-efficacy, well-being]
 technology: [learning-analytics, machine-learning, technology-acceptance-model]
@@ -44,13 +44,6 @@ page_kind: [evaluation]
 - All features were z-standardized so resilience, AI trust, and stress carried equal weight; K-means partitioned students by Euclidean distance, with K evaluated from 2 to 7 via silhouette and Calinski–Harabasz indices plus stability checks. PCA reduced the feature space to two components for [[visualization]] only, not for clustering.
 - Cluster differences were characterized with one-way ANOVA and partial eta squared, and demographics with chi-square. Sparse cells forced minor adjustments: the "prefer not to say" gender category (n = 2) was dropped, age was collapsed to 18–25 versus 26+, and academic level was grouped into lower undergraduate, senior, and graduate. Alpha was 0.05.
 
-## Implications
-
-- Students should not be addressed as a psychologically homogeneous audience for AI rollouts. The three profiles imply different starting points: students who are resilient and receptive, students under strain who may lean on AI for support, and confident students who remain skeptical of [[ai-technologies|AI systems]].
-- Lower AI trust should not be read as unreadiness. The skeptics profile was the most resilient and the most STEM-heavy, which the authors treat as consistent with [[critical-thinking|critical evaluation]] rather than resistance to technology.
-- Institutions implementing AI-supported learning may need to attend to students' confidence, control, stress, and trust alongside technical access, and the authors argue for explainable, human-centered AI: students low in AI trust may benefit from transparent information about how systems work, their limits, and appropriate contexts for use rather than from persuasion to adopt.
-- The findings are framed as especially relevant to Minority Serving Institutions and HBCUs, where AI adoption research remains thin despite national emphasis on expanding AI research capacity, connecting the study to questions of [[equity-in-ai-education|equity in AI education]].
-
 ## What this means for practice
 
 - **Instructors.** Address students as a heterogeneous audience rather than one average: three profiles emerged from the sample of 107 — Moderately Stressed AI-Positive Students (n = 39), High-Resilience Low-Stress AI-Adopters (n = 47) and Psychologically Resilient AI Skeptics (n = 21).
@@ -60,12 +53,11 @@ page_kind: [evaluation]
 
 ## Limitations
 
+
 - All measures were self-reported, leaving room for social desirability bias, recall bias, and subjective interpretation of items.
-- The sample was modest and drawn from a single public HBCU, and was predominantly female and STEM-enrolled. The authors state the profiles are context-specific and may not represent students at Predominantly White Institutions, other MSIs, or institutions outside the United States.
-- Although the solution was stable across random initializations, the weak silhouette coefficient means the clusters should be read as meaningful but partially overlapping psychological profiles rather than fully distinct groups.
-- Different internal validation indices favored different solutions (K = 2 versus K = 3), which the authors attribute to the inherent difficulty of identifying subgroup structure in moderate-sized psychological datasets.
-- The cross-sectional design prevents causal inference: the study cannot say whether psychological characteristics shape AI trust or whether AI experiences shape psychological functioning.
-- The authors call for larger multi-institution datasets, longitudinal designs tracking profiles over time, alternative clustering approaches such as hierarchical clustering or Gaussian mixture models, and tests of whether the profiles relate to outcomes such as [[learning-gains|academic performance]].
+- The sample was modest and drawn from a single public HBCU, and was predominantly female and STEM-enrolled; the authors state the profiles are context-specific and may not represent students at predominantly white institutions.
+- The cluster solution was stable across random initializations but the weak silhouette coefficient means the profiles should be read as meaningful yet partially overlapping rather than fully distinct, and different internal validation indices favored different solutions (K = 2 versus K = 3), which the authors attribute to the difficulty of identifying subgroup structure in moderate-sized psychological datasets.
+- The cross-sectional design prevents causal inference - whether psychological characteristics shape AI trust or AI experiences shape psychological functioning - and the authors call for larger multi-institution datasets, longitudinal designs tracking profiles over time, alternative clustering approaches such as hierarchical clustering or Gaussian mixture models, and further validation.
 
 ## Connected Concepts
 

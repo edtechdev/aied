@@ -1,7 +1,7 @@
 ---
 title: "How trust prospectively predicts perceived fairness and learning motivation toward AI teaching assistants: a three-wave within-person longitudinal study"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:08:46-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory]
 technology: [pedagogical-agent]
@@ -41,13 +41,11 @@ Eight latent constructs were measured at every wave on five-point Likert scales:
 
 ## Limitations
 
-- **Observational design.** Despite within-person estimation, the absence of random assignment to AITA conditions or experimental manipulation of trust- or fairness-relevant features means the associations cannot establish causal directionality; time-varying confounders (concurrent system updates, course difficulty changes, instructor interventions between waves) remain plausible alternatives. The authors explicitly caution that intervening on the identified levers may not produce the corresponding changes.
-- **Small-to-medium effect magnitudes.** The within-person cross-lagged effects are statistically robust and FDR-corrected but bounded in practical import, and the power analysis was calibrated to effects of about this size, so several coefficients central to the interpretive claims fall at or below the reliably detectable range — non-significant results are inconclusive rather than confirmed nulls.
-- **Interval choice.** The four-week spacing may miss micro-temporal trust-fairness processes occurring between measurement occasions; experience sampling methods with daily or weekly measurement would complement the macro-temporal panel design.
-- **All measures [[self-report-measures|self-reported]].** Despite temporal separation and statistical remediation for common method variance, it cannot be fully eliminated; behavioral indicators such as [[learning-analytics]] traces, grades and physiological engagement measures are recommended for future work.
-- **Sample generalizability.** Undergraduates at three Chinese public universities; trust norms, power distance orientations and responses to authority-like technological systems are culturally patterned, so the temporal dynamics and design recommendations should not be assumed to transfer to other national or educational settings. Cross-cultural replication (Western individualist vs. East Asian collectivist) is needed.
-- **Unmodeled alternative mediators.** Basic psychological need satisfaction (autonomy, competence, relatedness), affective responses (anxiety, confidence, frustration) and technology [[self-efficacy]] remain untested parallel temporal mediators.
-- **No cumulative-effect claim.** With only two four-week intervals observed, semester-level compounding of the per-interval effects is flagged as an explicitly speculative hypothesis, not a finding.
+
+- **Observational design with a bounded window.** Despite within-person estimation, there was no random assignment to AI teaching assistant conditions or experimental manipulation of trust- or fairness-relevant features, so the associations cannot be read as causal; with only two four-week intervals, semester-level compounding of the per-interval effects is an explicitly speculative hypothesis rather than a finding, and the four-week spacing may miss micro-temporal processes better captured by experience sampling.
+- **Small-to-medium effects.** The within-person cross-lagged effects are statistically robust and FDR-corrected but bounded in practical import, and the power analysis was calibrated to effects of about that size.
+- **Everything measured by self-report, with alternatives left unmodeled.** Temporal separation and statistical remediation for common method variance cannot eliminate it fully, and behavioral indicators were not used; basic psychological need satisfaction, affective responses such as anxiety and frustration, and technology self-efficacy remain unmodeled as alternative mediators.
+- **Sample generalizability.** Undergraduates at three Chinese public universities: trust norms, power-distance orientations and responses to authority-like technological systems are culturally patterned, so the findings are scoped to that setting.
 
 ## Connected Concepts
 

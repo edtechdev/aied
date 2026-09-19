@@ -1,7 +1,7 @@
 ---
 title: "Applying IRT to distinguish between human and generative AI responses to multiple-choice assessments"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-09-19T09:06:00-04:00"
+updated: "2026-09-19T09:08:46-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
@@ -46,7 +46,11 @@ A single MCQ response is just a digit â€” near-useless for attributing source â€
 
 ## Limitations
 
-Sensitivity declines as GenAI use becomes widespread (inherent to anomaly-based approaches); the analysis relies on labeled/clean response data; between-chatbot comparisons on the chemistry instrument had low statistical power; the approach assumes responses span the whole instrument (selective human+AI mixing is unexplored); elevated PFS can arise from legitimate sources (learning disabilities, anxiety); and external validity is limited to six tools and two instruments.
+- The approach is anomaly-based, so its sensitivity declines as generative AI use becomes widespread, and it assumes responses span the whole instrument; selective mixing of human and AI answers is unexplored.
+- It relies on labeled, clean response data, which is exactly what a real assessment in which some answers are AI-generated cannot guarantee.
+- The between-chatbot comparison on the chemistry instrument had low statistical power, which the authors name rather than reading as a null result.
+- Elevated person-fit scores can arise from legitimate sources such as learning disabilities or anxiety, and external validity is limited to six tools and two instruments.
+
 
 ## Connected Concepts
 

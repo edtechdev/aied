@@ -1,7 +1,7 @@
 ---
 title: "An AI-supported E-mentoring model to develop EFL pre-service teachers' self-efficacy and emotional intelligence"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:08:46-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
@@ -52,21 +52,11 @@ The theoretical [[scaffolding]] combines Bandura's Social Cognitive Theory (mast
 
 ## Limitations
 
-- **Small, single-institution sample** of 50 pre-service teachers, limiting generalizability; the size did not permit a robust examination of instrument structural validity.
 
-- **Adequately powered only for large effects**, so smaller but meaningful effects may have gone undetected.
-
-- **All participants were female**, a consequence of gender-segregated school placements and a predominantly female English cohort; gender representation and cross-context generalizability are limited.
-
-- **Clustering not modeled.** Randomization at the school level means participants within a school are not fully independent; multilevel modeling is recommended for future work with more schools.
-
-- **Short, single-semester intervention** restricts claims about the long-term [[sustainability]] of gains past the practicum.
-
-- **Causal attribution is bounded.** The intervention was multi-component, so improvements cannot be attributed solely to AI tools; the control condition also differed in being face-to-face, less structured, and without reflective cycles.
-
-- **Data richness constraints.** Some participants were initially hesitant to record or document classroom activities, slightly limiting the observational and reflective data.
-
-- **Stage-specific population.** Findings concern second-year pre-service teachers at the preparatory stage and may not transfer to more advanced or in-service teachers.
+- **Small, single-institution sample.** Fifty pre-service teachers at one institution, which limits generalizability and did not permit a robust examination of the instrument's structural validity; the study was adequately powered only for large effects, so smaller but meaningful ones may have gone undetected.
+- **Composition and stage.** All participants were female, a consequence of gender-segregated school placements and a predominantly female English cohort, and all were second-year pre-service teachers at the preparatory stage, so the findings may not transfer to more advanced or in-service teachers or to other contexts.
+- **Clustering and attribution.** Randomization at the school level means participants within a school are not fully independent, and multilevel modeling is recommended for future work with more schools; the intervention was also multi-component, with a control condition that differed in being face-to-face and less structured, so improvements cannot be attributed to the AI tools alone.
+- **Short intervention with thin data.** A single semester restricts claims about long-term sustainability past the practicum, and some participants were initially hesitant to record or document classroom activities, slightly limiting the observational and reflective data.
 
 ## Connected Concepts
 
