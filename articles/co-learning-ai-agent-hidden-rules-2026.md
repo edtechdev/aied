@@ -1,7 +1,7 @@
 ---
 title: "Benefits of co-learning with an AI agent"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T12:04:28-04:00"
+updated: "2026-09-19T14:23:47-04:00"
 type: article
 foundations: [human-ai-collaboration, cognitive-offloading, agentic-ai]
 pedagogy: [collaborative-learning, self-regulated-learning, problem-solving]
@@ -10,6 +10,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, quantitative]
 level: [higher ed]
 audience: [researchers, educators, learning designers]
+connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/co-learning-ai-agent-hidden-rules-2026.md']
 confidence: high
