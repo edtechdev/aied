@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of student engagement research in adaptive learning platforms"
 created: "2026-08-23T15:00:00-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 pedagogy: [motivation, online-teaching-and-learning, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
@@ -40,9 +40,20 @@ The review also surfaces the "negative side" of adaptive learning. Disengagement
 
 The authors interpret the social-interaction findings through [[motivation|self-determination theory]]: positive reinforcement, teammate effects, and learning companions affirm competence, convey relatedness, and support autonomy. Practically, schools should invest in platforms matched to their students' needs, involve experienced [[teacher-role|teachers]] in content creation, orient students to platform features, balance structure and flexibility, and integrate adaptive peer robots/companions to reduce the solitude of [[online-teaching-and-learning|online learning]]. Well-designed [[feedback|feedback systems]] can also unburden teachers in blended settings so they can focus on quality student–teacher relationships.
 
-## Methodological Notes and Limitations
+## What this means for practice
 
-The review was preregistered and followed What Works Clearinghouse (v4.0) and PRISMA procedures; quality was appraised with the MMAT. It excluded gray literature and non-[[language-learning|English]] manuscripts, and the fixed keywords may have missed studies using alternative terms (e.g., "AI," "[[intelligent-tutoring|intelligent tutoring]]"). Effect sizes were out of scope, so the authors recommend meta-analysis and meta-synthesis, plus experience sampling methods (ESM) for more ecologically valid engagement measurement.
+- **Instructors.** Audit platform usability before you commit to it. Complicated layouts, browser and operating-system incompatibilities, missing automatic feedback, and hard penalties for minor mistakes were among the disengagement triggers students reported most often.
+- **Instructors.** Orient students to platform features at the start of a course and give them ways to act on the system — preference settings, customization, and a visible help button — because [[agency|agentic engagement]] was the least-studied and least-supported type in this literature.
+- **Instructors.** Plan for the novelty effect. Engagement declined over time in longitudinal studies of ALEKS and W-Pal, so build in refreshers, new task types, and check-ins rather than assuming initial motivation holds.
+- **Designers.** Design the practice loop, not just the content: interactive questions answered until correct, immediate elaborated [[feedback]], and progressive difficulty were the information-quality features linked to engagement, and most factors that look like learner characteristics trace back to system design.
+- **Designers.** Build social-interaction affordances — adaptive peer robots or learning companions — into fully online and large-enrollment courses to reduce the solitude of [[online-teaching-and-learning|online learning]], and check for gender mismatch between student and companion.
+
+## Limitations
+
+- The review retained 44 studies drawn from six databases for 2012–2022; gray (non-peer-reviewed) literature and non-English manuscripts were deliberately excluded, which the authors acknowledge may have removed national literatures published in other languages.
+- The database search used only "adaptive learning" and "student engagement" as keywords, so studies using terms such as artificial intelligence or [[intelligent-tutoring|intelligent tutoring systems]] instead may have been missed.
+- Engagement measurement was uneven across the evidence base: of the 44 studies appraised, only 10 reported both reliability and validity data for their instruments and 17 reported no psychometric information at all, while just eight were randomized controlled trials (12 non-randomized, eight descriptive, 15 mixed-method, one qualitative).
+- Effect sizes were out of scope, so the review names factors without giving any of them relative weight; the authors recommend meta-analysis to establish relative impact and experience sampling methods (ESM) for more ecologically valid engagement measurement.
 
 ## Connected Concepts
 

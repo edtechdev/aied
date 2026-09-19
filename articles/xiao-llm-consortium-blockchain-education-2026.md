@@ -1,7 +1,7 @@
 ---
 title: "Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-08-23T14:00:00-04:00"
+updated: "2026-09-19T09:16:28-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [llm, personalized-learning]
@@ -35,6 +35,20 @@ The prototype evaluated six LLMs on the RiceChem ALAG benchmark; GLM-4-9B-chat l
 ## Relevance to the knowledge base
 
 This paper extends the knowledge base's coverage of [[llm|LLM]] deployment, [[online-teaching-and-learning|online education]], and [[assessment|AI-driven assessment]] by addressing the accountability and [[trust]] gap created by LLM unreliability. It connects to [[hallucination-risk]], [[privacy]], [[personalized-learning|personalization]], and verifiable credentials, and it complements [[research-methods-aied|research]] on [[ai-detection|academic integrity]] and AI grading (e.g., [[llms-do-not-grade-essays-like-humans-2026]]). Its [[governance]]-oriented design informs [[educational-policy-ai|AI policy]] discussions about traceability, and its technical framing contributes to the knowledge base's coverage of AI infrastructure and responsible deployment in [[higher-ed|higher education]].
+
+## What this means for practice
+
+- **Developers.** Anchor every automated [[assessment|grading]] decision to the model release and inference configuration — checkpoint ID, prompt-template hash, decoding parameters, random seed — as hashed records, so a score can be reconstructed and attributed after the fact.
+- **Developers.** Require an [[teacher-role|instructor]] co-signature for AI-produced grades rather than letting the model's output authorize itself, and append later overrides as new traceable transactions instead of overwriting history.
+- **Developers.** Keep personal data and large artifacts off-chain — hashes on-chain, content via IPFS — if you want [[privacy]] and auditability to coexist; a single shared channel across member institutions exposes all transactions to all peers.
+- **Researchers.** Judge candidate models on F1 alongside error tolerance rather than accuracy alone: on the RiceChem ALAG benchmark the six models showed model-specific thresholding biases, with Qwen2-7B-Instruct reaching recall of 0.5000 but precision of only 0.2866.
+
+## Limitations
+
+- The evaluation is a prototype with scripted interactions: there is no functional user interface, no real students, and no live LMS integration, so the case studies illustrate the workflow rather than demonstrating learning gains.
+- The blockchain network is four Hyperledger Fabric peer nodes from four institutions on one channel that all peers share, so all institutions see all transactions; the authors flag residual linkage through DID metadata and transient LLM context and leave differential privacy, per-session pseudonym rotation, and confidential-computing enclaves to future work.
+- Grading quality is moderate at best: the best model reached Accuracy 0.6492 and F1 0.6054 on the RiceChem benchmark, so the ledger establishes accountability for errors rather than preventing them.
+- Reported smart-contract timings are contract-level averages of 21–49 ms on a four-node network with one long-answer grading task from a single benchmark; behavior under production load and with other subject domains is untested.
 
 ## Connected Concepts
 
