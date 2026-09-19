@@ -1,7 +1,7 @@
 ---
 title: "Human-AI collaboration in higher education: Exploring the impact of technology expectations and distrust"
 created: "2026-06-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T11:24:16-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai]
 stakeholders: [student-experience]
@@ -28,13 +28,19 @@ page_kind: [framework]
 
 The authors administered an online survey to higher education students who use GenAI at a Danish university, measuring the core ECT constructs — effort expectation, performance expectation, confirmation, and collaboration intention — along with a measure of distrust toward GenAI, using items drawn from prior expectation-confirmation and information-systems adoption [[research-methods-aied|research]]. The hypothesized model was estimated with partial least squares structural equation modeling (PLS-SEM) in SmartPLS 4 with 5000 bootstrap samples, with all constructs meeting reliability and validity thresholds and good model fit (SRMR = 0.070; NFI = 0.884). The moderation analysis tests whether distrust weakens the expectation-driven pathway to collaboration intention, and an importance-performance map analysis (IPMA) identified confirmation as the most important predictor of both intentions and actual collaboration while effort expectation showed the highest performance. ChatGPT was the most used tool, and reported collaboration concentrated on higher-level cognitive tasks — explaining and evaluating theories and concepts, editing and proofreading text, summarizing literature, and generating research ideas — suggesting augmentation of learning more than automation. This design positions the study as one of the first to bring ECT's confirmatory framework to bear on [[human-ai-collaboration]] in [[higher-ed]] rather than on conventional information systems.
 
-## Implications for AI in Education
+## What this means for practice
 
-For educators and GenAI practitioners, the findings suggest that **managing students' initial expectations and addressing distrust** are as important as the tool's raw capability. If distrust dampens the effect of confirmation on collaboration intention, then onboarding, transparency about limitations, and trust-building interventions should be part of any responsible deployment of [[generative-ai]] in the classroom. The results also support designing feedback and [[scaffolding]] that help students form accurate expectations, so that positive experiences translate into sustained collaboration — a practical complement to [[ai-literacy]] efforts that teach students how to evaluate AI outputs critically. Notably, distrust did not distort students' evaluations of GenAI's benefits — students acknowledged the tool's usefulness while remaining skeptical of its outputs — reinforcing that expectation management and transparency are complements to, not substitutes for, capability. For [[student-experience]] design, the coexistence of strong benefit and drawback perceptions suggests responsible-use guidance should address plagiarism risk, inaccuracy, and flawed referencing directly rather than assuming skepticism will resolve itself.
-
+- **Instructors.** Manage expectations before capability: since distrust dampens the effect of confirmation on collaboration intention, onboarding, transparency about limitations and trust-building belong in any responsible deployment of [[generative-ai]] rather than being treated as optional.
+- **Instructors.** Design feedback and [[scaffolding]] that help students form accurate expectations, so that a positive first experience converts into sustained collaboration — a practical complement to [[ai-literacy]] teaching about evaluating AI output.
+- **Designers.** Treat distrust and perceived benefit as separate signals: students acknowledged the tool's usefulness while remaining skeptical of its outputs, so expectation management and transparency are complements to capability, not substitutes for it.
+- **Administrators.** Have responsible-use guidance address plagiarism risk, inaccuracy and flawed referencing directly for [[student-experience]] design, rather than assuming that skepticism about the tool will resolve those problems on its own.
 ## Limitations
 
-The authors note that the rapid evolution of GenAI makes it difficult to separate initial expectations from early experiences, since both occur simultaneously, and that this study could not measure them separately. Findings derive from a single [[governance|institutional]] context — 245 students at one Danish university — and cannot be assumed to generalize to the global student population; multi-institutional and cross-national samples are needed. The distrust construct was measured with only two items capturing skepticism toward the technology and lack of trust in its outputs, and two hypothesized moderation paths (H6c and H6e) showed positive but non-significant coefficients that warrant further examination through [[qualitative-research|qualitative]] approaches, larger samples, or experimental designs.
+- **Expectations and first impressions cannot be separated.** The authors note that the rapid evolution of GenAI makes initial expectations and early experiences occur simultaneously, and this study could not measure them apart.
+- **One institution's students, one country.** The findings come from 245 students at a single Danish university and cannot be assumed to generalize to the global student population; multi-institutional and cross-national samples are needed.
+- **Trust measured with two items.** The distrust construct rested on two items only, capturing skepticism toward the technology and lack of trust in its outputs.
+- **Two moderation paths left unresolved.** Hypotheses H6c and H6e returned positive but non-significant coefficients, which the authors say warrant [[qualitative-research|qualitative]] work, larger samples or experimental designs.
+
 
 ## Connected Concepts
 
