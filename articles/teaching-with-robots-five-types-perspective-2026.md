@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Perspectives on Teaching with Robots: From Interdisciplinary Prerequisites and Necessities in Today’s Classrooms to Five Different Types of Robots"
 created: "2026-09-16T08:12:20-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [design-thinking, teacher-role, theory-development-aied]
 pedagogy: [embodied-learning, pedagogy, situated-learning, social-emotional-learning, well-being]
@@ -38,20 +38,18 @@ page_kind: [framework]
 
 This is a Perspective paper, not an empirical study. The authors state that it offers a theoretical perspective rather than an empirical investigation, that no new data were created or analyzed, and that they use a narrative, concept-driven [[meta-analysis-systematic-review|literature review]] rather than a systematic search. The typology is a design exercise: five documented workshops with an interdisciplinary expert team, situated in the Swiss implementation of the MindMatters mental-health program, which has been used in Swiss primary and secondary schools since 2003. The workshops targeted pupils aged eight to fifteen because of their verbal maturity and their exposure to bullying and stress. The typology is presented as a heuristic design space rather than an empirically validated classification, and the reported next step is teacher focus groups on feasibility, practicality, risks and ethical considerations.
 
-## Implications
-
-For educators the paper argues that robots complement rather than replace teachers and therapists, and that their use requires a concrete pedagogical setting and situated robot design instead of generic deployment. The claimed advantage across the use cases is twofold: physical presence beyond multimedia animation, and machine abstraction that lets pupils rehearse scenarios impossible with real peers. For designers, the five types mark functionally distinct roles that can be probed separately, with emotional learning, conflict mediation and exam or job-interview practice as recurring scenarios.
-
 ## What this means for practice
 
-- **Instructors.** Choose the robot type by the competence you intend to teach rather than by available hardware: the five proposed types cover reflection and perspective-taking (a and e), embodied learning, boundary awareness and emotion regulation (b), self-disclosure in a protected one-to-one setting (c), and critical engagement with hierarchies and agency (d).
-- **Instructors.** Set the pedagogical scenario before the technology and stay in the mediating role — the reviewed evidence (Wang et al., 2024, read through TPACK) concludes that robots are facilitators rather than replacements and work best when teachers mediate.
+- **Instructors.** Choose the robot type by the competence you intend to teach rather than by available hardware: the five proposed types cover reflection and perspective-taking (a and e), embodied learning, boundary awareness and emotion regulation (b), self-disclosure in a protected one-to-one setting (c), and critical engagement with hierarchies and agency (d), with emotional learning, conflict mediation and exam or job-interview practice as the recurring scenarios.
+- **Instructors.** Set the pedagogical scenario before the technology, design for the situation rather than deploying generically, and stay in the mediating role — the reviewed evidence (Wang et al., 2024, read through TPACK) concludes that robots are facilitators rather than replacements of teachers or therapists and work best when teachers mediate. The claimed advantage over multimedia is twofold: physical presence, and a machine abstraction that lets pupils rehearse scenarios impossible with real peers.
 - **Designers.** Build the safeguards into the system, not the policy document: data minimization, on-device processing where feasible, retention limited to immediate deletion or 24–72 hours, no secondary use for discipline or ranking, disclosure of control modes with teacher override and incident review, and a planned end-of-intervention transition.
 - **Researchers.** Measure retention beyond the novelty phase, which the authors name as unresolved; their own reported next step is teacher focus groups on feasibility, practicality, risks and ethical considerations rather than further conceptual elaboration.
 
 ## Limitations
 
-The authors state that the framework and use cases are anchored in the Swiss context and in the logic of MindMatters, and that practical realization through robots is highly sensitive to regional, cultural and institutional factors, including norms of physical interaction and emotional disclosure, [[privacy|data protection]] rules and support infrastructure. They do not claim long-term effectiveness or sustained impact, and they flag unresolved questions about durability of effects beyond novelty phases, the evolution of children’s emotional relationships with robotic agents, and institutional [[sustainability]]. The typology is explicitly not empirically validated, and the evidence cited comes from [[educational-robotics]] research that reviewers already describe as short on longitudinal and retention data.
+- The framework and its use cases are anchored in the Swiss context and in the logic of MindMatters, and practical realization through robots is highly sensitive to regional, cultural and institutional factors, including norms of physical interaction and emotional disclosure, [[privacy|data protection]] rules and support infrastructure.
+- The typology is explicitly not empirically validated: it comes from a design-thinking exercise with an interdisciplinary expert team rather than an empirical study, and is presented as a heuristic design space rather than a tested classification.
+- The authors do not claim long-term effectiveness or sustained impact, and they flag unresolved questions about durability of effects beyond novelty phases, the evolution of children's emotional relationships with robotic agents, and institutional [[sustainability]]; the cited [[educational-robotics]] evidence is already short on longitudinal and retention data.
 
 ## Connected Concepts
 

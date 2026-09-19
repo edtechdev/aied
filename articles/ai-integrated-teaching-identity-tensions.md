@@ -1,7 +1,7 @@
 ---
 title: "‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching"
 created: "2026-09-12T07:45:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [pedagogy]
@@ -44,23 +44,13 @@ The design is a semester-long, prospective [[qualitative-research|qualitative]] 
 - **Selectivity is an iterative three-part process.** Across both accounts it moves through acceptance, adaptation and refusal, with refusal a legitimate move rather than a failure of uptake. Ace's remark that resistance is "quite futile" and that he therefore focused on working with AI meaningfully signals strategic engagement, not resignation.
 - **Identity is not resolved, it is continuously negotiated.** Rather than stabilizing through alignment, identity emerges as a dynamic, relational process under sociotechnical change.
 
-## Implications for AI in Education
-
-The practical force of *principled selectivity* is that it reframes uneven AI use. A teacher who declines a tool for a specific task, or who uses it for feedback but not for assessment, is exercising situated professional judgment rather than lagging behind on adoption. [[governance|Institutional]] efforts that read such decisions as resistance, and respond with more tool training, are aimed at the wrong problem: what the two cases show is a values-driven negotiation that training in features does not touch.
-
-That suggests [[educational-development|faculty development]] should support judgment rather than fluency — asking what a tool changes about student thinking, access and connection, rather than what it can do. It also means structural matters are identity matters. Authorship and [[academic-integrity|integrity]] [[educational-policy-ai|policy]] shapes the care-versus-compliance tension directly, and workload that leaves no room to "keep up" pushes the same tension toward compliance. Role-based tensions about authority and expertise are likewise not solved by tooling, but by clarifying what the human contribution is meant to be in an AI-mediated course.
-
-For researchers, the study argues that identity work is better studied over time than at a single point, since the tensions themselves shift: pedagogical tension intensified while role tension was reconfigured and ethical considerations consolidated into a sustained stance. The concept also supplies a way to describe teacher [[agency]] under technological change without implying that adaptation is the only competent response.
-
-**Limitations.** The study's interpretive depth rests on two experienced academics rather than breadth of representation, so findings are analytically rather than statistically generalizable and should be read as contextually embedded. The authors note that identity work is situated within broader institutional, disciplinary and cultural contexts that shape what educators can do, and call for research across wider ranges of participants and settings to see how organizational, cultural and policy environments condition principled selectivity.
-
 ## What this means for practice
 
 - **Instructors.** Treat uneven AI use as a deliberate stance rather than a gap to close: decide task by task whether a tool deepens learning, widens access or strengthens connection, and be ready to explain that reasoning instead of apologizing for it.
 - **Instructors.** When AI shortcuts threaten intellectual effort, redirect the task rather than police it — asking students to explain their thinking and moving emphasis to in-class discussion is what one participant arrived at by mid-semester.
-- **Faculty developers.** Design development around judgment rather than tool fluency: prompt teachers to articulate what a tool changes about student thinking, access and connection before covering its features.
-- **Faculty developers.** Build repeated reflection points across a semester, because principled selectivity moved from an implicit orientation through enactment to a stabilized-but-evolving stance — an arc a single workshop cannot mirror.
-- **Administrators.** Read selective non-use as professional judgment rather than lagging adoption; adding feature training addresses the wrong problem, while heavy workload and unsettled authorship policy push the care-versus-compliance tension toward compliance.
+- **Faculty developers.** Design development around judgment rather than tool fluency: prompt teachers to articulate what a tool changes about student thinking, access and connection before covering its features, and build repeated reflection points across a semester, because principled selectivity moved from an implicit orientation through enactment to a stabilized-but-evolving stance — an arc a single workshop cannot mirror.
+- **Administrators.** Read selective non-use as professional judgment rather than lagging adoption; adding feature training addresses the wrong problem, while heavy workload and unsettled authorship policy push the care-versus-compliance tension toward compliance. Role-based tensions about authority and expertise are likewise not solved by tooling but by clarifying what the human contribution is meant to be in an AI-mediated course.
+- **Researchers.** Study identity work over time rather than at a single point, since the tensions themselves shift — pedagogical tension intensified while role tension was reconfigured and ethical considerations consolidated into a sustained stance — and use the concept to describe teacher [[agency]] under technological change without implying that adaptation is the only competent response.
 
 ## Limitations
 
