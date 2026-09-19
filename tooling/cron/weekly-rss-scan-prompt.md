@@ -72,7 +72,7 @@ page_kind: [framework]  # optional: framework, synthesis, evaluation
 ---
 ```
 
-**Structure — FIXED order:** synthesis blockquote → `## Key Findings` → 3-4 `##` prose sections → `## What this means for practice` → `## Limitations` → `## Citation` → `## Connected Concepts` → `## Connected Articles`. Nothing goes after `## Connected Concepts`.
+**Structure — FIXED order:** synthesis blockquote → `## Key Findings` → 3-4 `##` prose sections → `## What this means for practice` → `## Limitations` → `## Connected Concepts` → `## Connected Articles` → `## Citation` (LAST). Nothing goes after `## Citation`.
 - **Synthesis blockquote:** 3-5 sentences covering what was studied, method, key findings, significance (from the full abstract, not the RSS snippet)
 - **Key Findings section:** 3-5 contiguous bullets with the most important results (do NOT duplicate the synthesis text)
 - **What this means for practice:** lead with **Instructors**, then a labelled bullet for faculty developers/designers, administrators/institutions, researchers or developers only when the paper supports a genuinely distinct implication (match the page's `audience:` facet). 3-5 bullets, imperative and derived from this page's findings — no hedging.

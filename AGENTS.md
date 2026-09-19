@@ -10,7 +10,7 @@ Three content collections: **articles**, **concepts**, and **faqs**, each in the
 
 ### Article page structure (`articles/{slug}.md`)
 
-Every article page MUST have exactly 6 sections:
+Every article page follows this fixed section order — Synthesis → Key Findings → 3-4 body sections → What this means for practice → Limitations → Connected Concepts → Connected Articles → Citation (last, per the standing rule):
 
 ```yaml
 ---
@@ -38,9 +38,18 @@ foundations: [ai-literacy]    # Foundations of AI in education
 
 > **Synthesis:** One-paragraph summary (3-5 sentences) with embedded [[wikilinks]].
 
-## Section headings with analysis
+## Key Findings
+1. **Headline claim.** The one or two numbers that decide it. (5-7 contiguous items, ~25-35 words each, no blank lines between items.)
 
-Rich body content, tables, bullet points, embedded [[wikilinks]] to concepts and articles.
+## Body sections
+3-4 `##` prose sections (~120-180 words each) with the analysis and embedded [[wikilinks]] to concepts and articles.
+
+## What this means for practice
+- **Instructors.** One action, imperative and derived from a finding on this page — no hedging.
+- **Faculty developers, administrators, researchers, developers.** Add a labelled bullet only where the paper supports a genuinely distinct implication for that audience.
+
+## Limitations
+- 2-4 bullets, each carrying a concrete fact from the paper: sample and recruitment, one site, incentives, self-report measures, researcher role conflict, no follow-up.
 
 ## Connected Concepts
 - [[concept-slug-1]]
@@ -54,6 +63,12 @@ Rich body content, tables, bullet points, embedded [[wikilinks]] to concepts and
 ## Citation
 Authors (YYYY). [*Paper Title*](source_url). Venue/arXiv ID.
 ```
+
+Rules for the two sections above:
+- `## What this means for practice` is expected on every article page. Lead with **Instructors**; add other audience labels only when the paper supports a genuinely distinct implication, matched to the page's `audience:` facet. 3-5 bullets, imperative and derived — never "this could potentially suggest that instructors might consider".
+- `## Limitations` is written whenever the paper states threats to validity or they are plainly evident, and **omitted** rather than filled with boilerplate: "small sample, single institution, results may not generalise" with no numbers is a defect, not a limitation. When the limitation is the measurement, link `[[self-report-measures]]` instead of restating it.
+- **Body budget: 750-1,000 words** (frontmatter end → `## Connected Concepts`). The two sections are paid for out of the existing body, never bolted on top. Measure before committing, and never drop a distinct `[[wikilink]]` target to make the cut.
+- Nothing comes after `## Citation` (the standing citation rule keeps it last): the page template appends Connected FAQs, the metadata table and the source buttons.
 
 ### Concept page structure (`concepts/{slug}.md`)
 
@@ -137,13 +152,14 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - NO duplicate sections (one Connected Concepts, one Connected Articles)
 - FAQ narratives follow the same inline-link convention as articles/concepts (link every concept mention, including links to other FAQs); `connected_faqs` on concept/article pages drives the Connected FAQs section
 - **Inline hyperlink rule (wiki-style, HARD GATE):** whenever a concept is mentioned by name in the BODY of a concept or article page, hyperlink that mention to the concept's page (e.g. `[[constructivist]]` in a sentence, or piped `[[cognitive-offloading|doing the cognitive work]]` when display text differs from the slug). Do this for every concept mention in body prose — exactly as wikis do — in addition to the Connected Concepts/Articles lists at the bottom. Use the most specific concept slug that matches the mention's meaning (not a looser one), and prefer the dedicated umbrella page when one exists (e.g. link plain "feedback" to `[[feedback]]`, not `[[feedback-loop]]`). **This pass is a BLOCKING PREREQUISITE before `npm run build` / commit / push / deploy on every newly created or enriched page — a green build does NOT substitute for it.** Load the `wiki-inline-links` skill and run the pass + verification (0 self-links, 0 heading links, balanced brackets, 0 broken links) on every new page first.
+- **Link targets come from the alias registry:** `concepts.registry.yaml` maps phrases (aliases) to concept pages, and matching is exact-string. A phrase registered as an alias of the wrong concept links there everywhere ("inclusive design" was an alias of `accessibility`, so inclusion language pointed at the accessibility page), and plurals or gerunds never match ("survey instrument" does not match "surveys"). When a link target looks wrong: check the registry first, read the source's own framing before deciding, fix the registry and every page already mis-linked, add the missing plural forms (no alias may map to two concepts), then re-run `python3 tooling/scripts/gen-concept-artifacts.py`. Prefer adding an alias over inventing a near-synonym concept page.
 - **List-formatting rule (HARD GATE):** ordered/bulleted lists whose consecutive items are separated by a blank line render broken — each item restarts at `1.` (CommonMark splits them into separate lists). Write every numbered list (e.g. Key Findings) as ONE contiguous block with NO blank lines between consecutive items. Before build, run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` and fix every reported page. A green build does NOT catch this.
 - **`created`/`updated` carry FULL quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by these via string compare, and unquoted ISO timestamps shift to UTC (next day). Display is date-only; the time is for sorting.
 - **Ingestion enrichment:** when a new article makes a significant contribution to a connected concept (novel framing, distinctive finding, or a missing dimension), integrate it into that concept's **body narrative** (research bullet / subsection / synthesis paragraph), not just its Connected Articles list. **NARRATIVE INTEGRATION, never append-only:** weave the enrichment into the thematically-appropriate EXISTING section as connected prose — NEVER tack it onto the end of the page as a standalone `##`/`###` section floating between the body and `## Connected Concepts`. Remove any orphaned heading you'd otherwise append. Only for a genuinely major contribution (e.g. a systematic review that reorganizes the whole area) is a full body rewrite warranted.
 - **Significant body edits:** whenever you make a substantive edit to a concept or article page (not just frontmatter or Connected lists), bump its `updated` timestamp to the current date+time and rebuild so the right sidebar listing refreshes.
 - **Source preservation (HARD RULE):** when a source PDF arrives in chat, copy it to `pdf-sources/<article-slug>.pdf` (or `<arXiv-id>.pdf`) BEFORE extracting its text, and never delete the original afterwards. The chat document cache rotates to a handful of recent files, so a PDF left only there is unrecoverable within days, while `raw/papers/<id>.md` is a derived artifact, not the original. `pdf-sources/` is gitignored — verify with `git status --short` that it never appears in a commit. Downloaded PDFs awaiting ingest belong in the same folder, not in a scratch directory.
 - **Full-text integrity:** save the complete paper text (cap 250,000 chars, not 50,000) — a body cut off at exactly ~50,000 chars is the old truncation signature and usually means the results, discussion and limitations are missing. Re-fetch from the source (arXiv PDF, or the publisher's open-access HTML/PDF) and rewrite the raw file before enriching that page.
-- Tags: tags in frontmatter are **concept slugs** (each value is a real concept page); they render as **clickable chips linking to their concept pages**. Optional structured metadata fields (`level`, `audience`, `discipline`, `category`, `research_method`) hold natural-language values used as PageFind search facets — see `tooling/SCHEMA.md`.
+- Frontmatter carries **no `tags:` field** (retired 2026-09-17; the schema rejects it and a page that re-adds one fails the build). Every concept a page touches is named in a typed facet field whose values are concept slugs from the matching `concepts.registry.yaml` section, and the Metadata table hyperlinks each value to its concept page. Optional fields (`level`, `audience`, `discipline`, `research_method`, `page_kind`) use closed vocabularies from `tooling/SCHEMA.md` and become PageFind search facets.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run the HARD GATES (`python3 tooling/scripts/run-gates.py` or `npm run verify`), then `npm run build`, then `git add -A && git commit -m "..."`. **Never push without explicit per-occurrence approval** — commit locally, then ask.
