@@ -3,9 +3,9 @@ title: "Towards sustainable AI knowledge-base assistants in computer science edu
 created: "2026-08-15T09:23:09-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-foundations: [sustainability]
+
 technology: [generative-ai, llm, rag, edtech-platform, open-source]
-ethics: [privacy]
+ethics: [privacy, sustainability]
 audience: [software developers]
 research_method: [benchmark]
 discipline: [cs education]

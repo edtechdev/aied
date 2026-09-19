@@ -4,8 +4,8 @@ created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 technology: [educational-nlp, intelligent-tutoring, simulating-students]
-stakeholders: [pedagogical-safety]
-ethics: [bias-mitigation, equity-in-ai-education]
+
+ethics: [bias-mitigation, equity-in-ai-education, pedagogical-safety]
 sources: ['raw/papers/edufair-bench-pedagogical-fairness-llm-tutors-2026.md']
 confidence: high
 research_method: [benchmark]

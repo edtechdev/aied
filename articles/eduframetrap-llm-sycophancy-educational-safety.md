@@ -5,8 +5,8 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [cognitive-offloading]
 technology: [generative-ai, intelligent-tutoring, llm, rag]
-stakeholders: [pedagogical-safety]
-ethics: [hallucination-risk]
+
+ethics: [hallucination-risk, pedagogical-safety]
 audience: [software developers]
 research_method: [benchmark]
 

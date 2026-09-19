@@ -6,8 +6,8 @@ type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
 assessment: [automated-assessment]
-stakeholders: [pedagogical-safety]
-ethics: [hallucination-risk]
+
+ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 ---
 

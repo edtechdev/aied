@@ -1,11 +1,11 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-19T05:10:00-04:00"
 type: concept
-foundations: [ai-education, sustainability]
+foundations: [ai-education]
 technology: [generative-ai]
-ethics: [ethics]
+ethics: [ethics, sustainability]
 level: [higher ed, k 12, teacher training]
 
 confidence: high

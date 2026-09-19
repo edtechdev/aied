@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-19
 
-Articles: 1311 | Concepts: 205 | FAQs: 32
+Articles: 1311 | Concepts: 206 | FAQs: 32
 
 ## Concepts
 
@@ -1392,6 +1392,7 @@ Articles: 1311 | Concepts: 205 | FAQs: 32
 - [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
 - [[text-simplification-its]] — MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
+- [[theories-and-frameworks]] — Theories and Frameworks
 - [[theory-development-aied]] — Theory Development in AI in Education
 - [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity

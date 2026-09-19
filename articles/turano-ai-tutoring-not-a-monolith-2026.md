@@ -5,8 +5,8 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 technology: [intelligent-tutoring]
 assessment: [learning-gains]
-stakeholders: [pedagogical-safety]
-ethics: [guardrails, privacy]
+
+ethics: [guardrails, privacy, pedagogical-safety]
 research_method: [policy analysis, literature review]
 level: [k 12]
 sources: ['raw/papers/turano-ai-tutoring-not-a-monolith-2026.md']
