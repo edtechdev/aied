@@ -1,7 +1,7 @@
 ---
 title: "Development and validation of the generative AI assessment literacy scale for higher education students"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 assessment: [assessment, educational-measurement, feedback]
@@ -41,8 +41,8 @@ Questionnaires were returned by students at six higher education institutions in
 
 ## Limitations
 
-- Cross-sectional and self-reported, so the associations are not causal; longitudinal and experimental work is needed to test whether GenAI assessment literacy predicts later feedback behavior, disclosure, and assessment outcomes.
-- Self-report measures are open to social desirability and common-method variance; the statistical checks found no dominant method factor, but they cannot rule bias out.
+- Cross-sectional and self-reported, so the associations are not causal; longitudinal and experimental work is needed to test whether GenAI assessment literacy predicts later feedback behavior, disclosure, and assessment outcomes; self-report measures are open to social desirability and common-method variance; the statistical checks found no dominant method factor, but they cannot rule bias out.
+
 - Academic integrity intention may not fully predict actual behavior, and the ethical-attribution subscale is conceptually close to that criterion, so those correlations are better read as proximal validity evidence than as proof of construct separation.
 - The sample came from one national context and was not designed to be nationally representative; cross-cultural and cross-institution invariance, test-retest reliability, and invariance across separately sampled undergraduate and postgraduate groups remain untested.
 - The validation did not include established AI literacy or assessment literacy instruments, so incremental validity beyond those adjacent constructs is still unknown; behavioral indicators such as revision logs or disclosure statements would strengthen ecological validity.

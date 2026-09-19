@@ -1,7 +1,7 @@
 ---
 title: "The dark side of AI in education: AI dependency as a mediator linking academic self-efficacy and teacher support to learning burnout among university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [self-efficacy, student-engagement, well-being]
@@ -46,9 +46,9 @@ Four instruments were used: an eight-item Academic Self-Efficacy Scale adapted f
 ## Limitations
 
 - The cross-sectional design cannot establish causality or capture change over time; reciprocal relationships are plausible (burnout may itself drive dependency), and longitudinal or experimental designs are needed.
-- All measures were self-report, inviting social desirability and subjective bias; the adapted AI Dependency Scale showed satisfactory reliability and construct validity but its content validity was not assessed via expert review or pilot testing.
+- All measures were self-report, inviting social desirability and subjective bias; the adapted AI Dependency Scale showed satisfactory reliability and construct validity but its content validity was not assessed via expert review or pilot testing; pROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modeling with bootstrapped indirect effects is recommended.
 - The sample was limited to undergraduates at a few comprehensive universities in Chengdu, China, using convenience sampling — limiting external validity, since AI dependency may vary with [[curriculum-design|curriculum]], assessment practices, technology access, institutional [[educational-policy-ai|AI policy]], and teacher–student relationships across contexts.
-- PROCESS uses observed composite scores rather than latent variables and does not model measurement error; latent-variable structural equation modeling with bootstrapped indirect effects is recommended.
+
 - Other relevant antecedents (self-regulated learning, [[motivation|intrinsic motivation]], [[critical-thinking|critical thinking]], academic engagement) and boundary conditions (AI literacy, digital competence, usage frequency, discipline, personality, achievement) were not modeled; the observed group differences are not formal moderation effects.
 
 ## Connected Concepts

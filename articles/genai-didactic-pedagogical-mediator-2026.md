@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Didactic-Pedagogical Mediator: Rethinking Human Roles and Pedagogical Design in Higher Education"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [agency, ai-literacy, learning-design, teacher-role]
 pedagogy: [pedagogy]
@@ -43,9 +43,9 @@ The model integrates four theoretical perspectives: sociotechnical and ecosystem
 
 ## Limitations
 
-- The study presents no primary empirical data; the model is conceptual, synthesizing existing literature and offering researchable propositions rather than empirically validated findings.
+- The study presents no primary empirical data; the model is conceptual, synthesizing existing literature and offering researchable propositions rather than empirically validated findings; the focused integrative synthesis is not a systematic review (e.g., PRISMA), so the literature base may not capture every relevant empirical study or academic discourse.
 - The disciplinary anchors (medicine, law, creative arts, business, engineering, teacher education) are illustrative and do not constitute evidence that the model operates as proposed in those contexts.
-- The focused integrative synthesis is not a systematic review (e.g., PRISMA), so the literature base may not capture every relevant empirical study or academic discourse.
+
 - The model remains abstract and may operate differently across institutional contexts — research-intensive, teaching-oriented, open and distance, transnational, private, and resource-constrained institutions.
 - Identified mediators and moderators remain unquantified: GenAI-supported feedback may improve revision in one context and foster dependency in another, and AI-transparent assessment may strengthen integrity while increasing workload elsewhere.
 

@@ -1,7 +1,7 @@
 ---
 title: "Research on the optimization of the training system of university faculty development centers in the context of GenAI: a comparative analysis based on Chinese and Kazakhstani universities"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 technology: [prompt-engineering]
 stakeholders: [teacher-ai-competency, professional-training]
@@ -40,11 +40,11 @@ The quasi-experimental training component drew 160 faculty from the baseline sam
 
 ## Limitations
 
-- The study relies primarily on a self-report readiness scale; concept interpretation and response styles across language backgrounds may have affected evidence for concepts such as [[ai-literacy|AI literacy]], [[ethics|ethical]] reasoning, prompt design, and disciplinary transfer.
+- The study relies primarily on a self-report readiness scale; concept interpretation and response styles across language backgrounds may have affected evidence for concepts such as [[ai-literacy|AI literacy]], [[ethics|ethical]] reasoning, prompt design, and disciplinary transfer; the study measured [[self-report-measures|self-reported]] readiness, not enacted [[pedagogy|teaching practice]] or student learning outcomes; future work needs course materials, classroom observation, and outcome data.
 - Group assignment in the training component reflected voluntary sign-up, institutional scheduling, and course arrangements, so results are best interpreted as associations between structured training and readiness change rather than strict causal estimates.
 - Five universities cannot cover the full range of university types and disciplinary contexts in China and Kazakhstan, limiting generalizability.
 - University-level sensitivity checks were treated as descriptive rather than confirmatory, and country fixed effects could not be estimated because universities were nested within country.
-- The study measured [[self-report-measures|self-reported]] readiness, not enacted [[pedagogy|teaching practice]] or student learning outcomes; future work needs course materials, classroom observation, and outcome data.
+
 
 ## Connected Concepts
 
