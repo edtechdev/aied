@@ -1,7 +1,7 @@
 ---
 title: "Supporting self-regulated learning through generative AI feedback in online higher education: the importance of student perceptions of the source of feedback"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [metacognition, online-teaching-and-learning, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]

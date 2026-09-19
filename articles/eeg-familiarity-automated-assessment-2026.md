@@ -1,7 +1,7 @@
 ---
 title: "Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction"
 created: "2026-08-21T19:02:30-04:00"
-updated: "2026-08-21T19:02:30-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-modeling]
@@ -27,6 +27,20 @@ The central [[research-methods-aied|methodological]] contribution is the contras
 ## Neural biomarkers and feature importance
 
 Beyond classification performance, the authors use feature importance and SHAP analysis to identify temporal and frontal Gamma and Beta oscillations as the most critical biomarkers for familiarity. This connects the benchmarking to the underlying [[learning-analytics|neural signatures of learning]] and suggests which brain signals carry the most information about whether a learner recognizes familiar content.
+
+## What this means for practice
+
+- **Designers.** Validate EEG-based assessment models with trial-independent Group K-Fold rather than standard stratified cross-validation: stratified CV inflated a CNN to 0.9853 F1, while trial-independent validation dropped the peak to 0.6038 F1, still above the 25% chance level.
+- **Designers.** Prefer ensemble methods over deep learning when training on small EEG datasets, since Gradient Boosting and Random Forest generalized better to unseen trials than the deep architectures.
+- **Designers.** Report fold-level spread rather than the peak alone: the domain-separated LOGO results carried very large standard deviations (0.8670 +/- 0.2392 for equations and 0.8875 +/- 0.2347 for faces under CNN).
+- **Designers.** Start from temporal and frontal Gamma and Beta oscillations, which feature importance and SHAP analysis flagged as the most informative biomarkers, when building lighter real-time familiarity detection.
+
+## Limitations
+
+- Sample size and homogeneity: 23 participants, all with a STEM background, limit generalizability, and the strongest faces-only claims rest on a small 13-block subset.
+- Cross-subject leakage remains possible because participant identifiers were not retained, so Group K-Fold could only block at the trial level and one subject's trials may appear in both training and test sets.
+- LOGO results are unstable: each held-out fold is a single trial block, standard deviations run near 0.24, and the higher CNN point estimates were not independently permutation-tested.
+- Spectral resolution is coarse (128 Hz sampling with 32-sample Welch segments gives 4 Hz bins), making narrow bands such as Delta (1-4 Hz) hard to isolate, and manual ICA selection and artifact rejection add subjectivity.
 
 ## Connected Concepts
 - [[automated-assessment]]

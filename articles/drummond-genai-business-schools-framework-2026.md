@@ -1,7 +1,7 @@
 ---
 title: "Generating a Student-Informed Teaching and Learning Conceptual Framework for GenAI in Business Schools: A Case Study"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, curriculum-design, teacher-role]
 pedagogy: [student-engagement]
@@ -25,14 +25,20 @@ confidence: medium
 - **Desire for practical, career-oriented AI literacy:** The framework aligns with Ng et al.'s (2021) AI literacy model — students want to understand, apply, and evaluate AI — while contextualizing content to real-world business problems and employability.
 - **[[constructivist]], tutor-facilitated delivery:** Learning used a broadly constructivist approach in which students experimented with tools (notably ChatGPT) and assessed output accuracy and reliability, with the [[teacher-role|tutor]] providing a supportive environment and face-to-face [[feedback]] rather than relying on AI for immediate feedback.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Students are demand-side drivers of GenAI integration:** Rather than resisting AI, business students actively seek GenAI skills for employment, signaling that [[curriculum-design|curricula]] should integrate GenAI education into core programs to meet student demand and prepare learners for AI-enabled workplaces.
-- **Ethical and misconduct guidance must be explicit and scaffolded:** The gap between students' engagement with GenAI and their uncertainty about acceptable academic conduct points to the need for clear institutional policies, [[academic-integrity|academic integrity]] guidance, and assignment-level briefs that define acceptable use.
-- **Educators need capability alongside policy:** Effective integration is hampered by limited GenAI capability among educators, so teacher development and clear [[teacher-role|faculty]] guidance are prerequisites for consistent, well-designed GenAI learning across programs.
-- **Ethics and business application should anchor activities:** [[learning-design|Learning design]] should foreground real-world business applications of AI and its ethical, social, and [[equity-in-ai-education|equity]] dimensions, echoing the Deloitte fabricated-references incident as a cautionary example of industry malpractice.
-- **A scaffolded, level-aligned framework can guide delivery:** The proposed framework maps GenAI content and activities to each year of undergraduate study (Learn → Build → Apply), providing a structured pathway for developing [[ai-literacy|AI literacy]] and employability skills throughout a degree.
-- **Student feedback is a [[formative-assessment|formative]] design resource:** Using student input to construct theory and refine teaching reflects a formative approach that can keep GenAI education responsive to evolving needs as the technology advances.
+- **Instructors.** Put an assignment-level statement of acceptable use in every GenAI brief. Providing information on [[academic-integrity|academic misconduct]] was the most useful element of the module for students, yet only just over half reported fully understanding how to use GenAI within university standards.
+- **Instructors.** Do not treat your cohort as a blank slate: 70% of respondents had already used a GenAI tool before the module and 42% called themselves familiar or very familiar with AI, so plan for mixed prior experience rather than assuming novice status.
+- **Instructors.** Anchor activities in real business problems and [[ethics|ethical]] consequences, since students' strongest interests were business applications of AI, its use in future careers, and ethical use; the Deloitte fabricated-references episode is the kind of industry case the authors use to make the stakes concrete.
+- **Instructors.** Have students use the tool and then interrogate its output — the module had them experiment mainly with ChatGPT, assess the accuracy and reliability of what it produced, and discuss findings face to face — rather than relying on AI for immediate [[feedback]].
+- **Instructors.** Scaffold GenAI capability deliberately across the program, as the proposed framework does with its Learn → Build → Apply progression, instead of leaving it to one first-year module, and treat student feedback as a [[formative-assessment|formative]] input to the next iteration of the [[curriculum-design|curriculum]].
+
+## Limitations
+
+- A single case study: one first-year module in one UK business school, with the conceptual framework derived from that setting and existing literature rather than tested; the authors assert its transferability, but no evaluation in a second institution or program is presented.
+- The survey drew 149 responses, a 28% participation rate, from first-year undergraduates — voluntary, self-selected, self-report data, with no comparison group and no measure of learning or attainment.
+- The question set was non-validated, piloted with colleagues and amended before dissemination; three open-ended prompts were analyzed by reflexive thematic analysis in NVivo, so the themes come from brief written answers to self-defined questions.
+- No student outcome or employability data were collected, so the framework's claimed contribution to [[ai-literacy|AI literacy]], employability, and ethical conduct remains a design proposal rather than a demonstrated effect.
 
 ## Connected Concepts
 

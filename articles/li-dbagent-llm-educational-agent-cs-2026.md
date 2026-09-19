@@ -1,7 +1,7 @@
 ---
 title: "The Impact of an LLM-Based Educational Agent on Learning Achievement, Cognitive Dynamics, and Student Perceptions in Computer Science Education"
 created: "2026-08-22T05:20:54-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [agentic-ai, cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -26,11 +26,20 @@ page_kind: [evaluation]
 5. **Perceptions drive engagement via satisfaction.** SEM confirmed learners' positive perceptions of the agent promoted sustained [[student-engagement|engagement]] through the mediating role of satisfaction.
 6. **The "prompt engineering gap."** Efficacy was moderated by domain-specific digital readiness — a Geoscience-major class underperformed CS cohorts on Task 2, suggesting non-technical students need targeted [[scaffolding]] to bridge the [[prompt-engineering]] gap.
 
-## Implications
+## What this means for practice
 
-This study provides empirical evidence for [[intelligent-tutoring]] and [[agentic-ai|agent-based]] learning: [[agentic-ai|autonomous LLM agents]] can improve achievement and reduce social inhibition, but their psychological-safety advantage comes with a [[cognitive-offloading|cognitive offloading]] risk — lower-order tasks are offloaded and students can become locked in routine processing without [[scaffolding]] that introduces productive [[desirable-difficulties|struggle]]. The finding that only ~4% of interactions reach higher-order cognition echoes the knowledge base's [[measuring-llm-tutors-teach-vs-solve|teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]] evidence: agent compliance must be designed with pedagogical friction rather than unconditional help.
+- **Instructors.** Do not read the achievement gain as evidence of higher-order learning: only 3.92% of student–agent interactions reached higher-order cognition, with strong self-transition loops in lower-order states (Understand z = 49.08; Application z = 51.48), so track cognitive engagement alongside test scores.
+- **Instructors.** Build verification and critical-evaluation scaffolds around the "Query-Evaluation-Query" loop that [[learning-analytics|lag sequential analysis]] identified — students already move from offloading recall to evaluating agent output, and [[cognitive-diagnosis]] should capture what they actually process, making that evaluation deliberate instead of incidental.
+- **Designers.** Design [[desirable-difficulties|productive struggle]] into the agent rather than unconditional compliance, because the agent's unwavering helpfulness produced lower-order lock-in and the psychological-safety advantage carried a [[cognitive-offloading]] risk; [[self-regulated-learning]] must be deliberately supported rather than assumed, and the same argument runs through [[measuring-llm-tutors-teach-vs-solve]] and [[productive-failure]].
+- **Designers.** Add targeted [[scaffolding]] for non-technical majors: a Geoscience-major class underperformed the CS cohorts on the complex Task 2, implicating a [[prompt-engineering]] gap created by differing domain-specific digital readiness.
+- **Researchers.** Test the psychological-safety reading directly: the high lower-order share (~54.52%) is interpreted as safety rather than dependency, but the design measured interaction logs, not the students' reasons for asking.
 
-The offload-evaluate cycle and lower-order distribution connect directly to [[cognitive-diagnosis]] (evaluating what students actually process) and [[cognitive-offloading]]. The psychological-safety mechanism and the prompt-engineering gap inform [[ai-literacy]] and [[student-ai-interaction]] — and argue for building verification and critical-evaluation scaffolds into agent design. For [[cs-education]] and [[higher-ed]] practice, the results caution that an agent that always answers can inadvertently suppress the higher-order [[critical-thinking]] that the course intends to cultivate, and that [[self-regulated-learning]] must be deliberately supported rather than assumed. The pedagogical-friction argument also aligns with the knowledge base's broader concern about [[ai-misuse-learning-harm]] and the need to design for [[productive-failure]] rather than effortless output.
+## Limitations
+
+- The quasi-experiment used four intact classes (three experimental, one control) with no random assignment, so class-level differences cannot be fully separated from the intervention.
+- The study covers one undergraduate database course over four weeks with two open-ended tasks, so the achievement evidence is short-term and single-course, and two experimental classes showed no significant gain on Task 1.
+- Cognitive-engagement findings come from lag sequential analysis of interaction logs, and the psychological-safety explanation is inferred from those sequences rather than measured.
+- Efficacy varied by cohort — a Geoscience-major class underperformed the CS cohorts on Task 2 — so the pooled improvement masks subgroup differences driven by domain-specific digital readiness.
 
 ## Connected Concepts
 

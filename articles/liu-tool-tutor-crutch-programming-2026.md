@@ -1,7 +1,7 @@
 ---
 title: "Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading in AI-Assisted Programming Education"
 created: "2026-08-22T05:12:36-04:00"
-updated: "2026-08-24T16:40:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -25,9 +25,20 @@ page_kind: [framework]
 4. **Attenuated metacognitive calibration.** A mismatch between perceived readiness and independent capability co-occurs with sustained [[cognitive-offloading|offloading]], echoing [[ai-making-us-stupid|overconfidence]] [[research-methods-aied|research]].
 5. **Concrete instructional strategies.** The model proposes dedicated 'critique-the-AI' phases, planned fading of AI assistance through offline tasks, verification journals, and contrastive [[prompt-engineering|prompting]] — shifting the debate from 'use or ban' to *how and when* the tool aligns with learning goals.
 
-## Implications
+## What this means for practice
 
-This is a direct theoretical contribution to the knowledge base's [[cognitive-offloading]] thread in [[cs-education|programming education]], providing a *process-level* account of why performance and affect gains coexist with thinner learning — the scaffolding-vs-offloading distinction operationalizes the "coach vs. crutch" boundary the knowledge base documents. The proposed interventions (critique-the-AI, planned fading, verification journals) offer concrete, testable levers aligned with [[reducing-ai-misuse]] and [[ai-literacy]] — moving beyond bans toward calibrated, self-regulated AI use. The finding connects to [[measuring-llm-tutors-teach-vs-solve]] and [[stanford-evidence-base-ai-k12-2026]].
+- **Instructors.** Run dedicated "critique-the-AI" phases in which students evaluate AI-generated code before accepting it, because the model documents two distinct evaluation failures — novices who struggle to verify output at all, and experienced students with a boilerplate blindspot for generic code.
+- **Instructors.** Plan fading of AI assistance through offline tasks and verification journals, so students move from the Offloading Loop into the [[scaffolding|Scaffolding Loop]] rather than sustaining routine delegation that thins germane processing.
+- **Instructors.** Use contrastive [[prompt-engineering|prompting]] so students compare AI responses instead of accepting the first one, shifting the question from "use or ban" to *how and when* the tool aligns with learning goals.
+- **Designers.** Design around the boundary conditions the model identifies — time pressure, task complexity and familiarity, and scaffolding design — since these shape whether students enter the scaffolding or offloading pathway; the concrete levers align with [[reducing-ai-misuse]] and [[ai-literacy]].
+- **Researchers.** Test the proposed levers rather than assuming them: the grounded theory proposes critique phases, planned fading, and verification journals as instructional strategies but generates them from a process model, not an experiment, and [[measuring-llm-tutors-teach-vs-solve]] shows why the effects need direct measurement.
+
+## Limitations
+
+- The 41 participants (24 AI-enabled, 17 contrast) were recruited by voluntary response at a single Chinese public university, and the two sections differed in instructor, time, and peer norms — an ecology-specific design not built for controlled contrasts, so the authors claim transferability through thick description rather than statistical generalization.
+- The study spans one 16-week semester, so its categories are theoretically sufficient for this context rather than maximally elaborated across the multi-year span of some grounded-theory traditions.
+- Dyadic interviews can invite peer influence and social desirability, and because interviews occurred near high-stakes exams, elevated anxiety is confounded with metacognitive calibration — the individual follow-ups and think-alouds that could separate them were not run.
+- Concept maps give a narrow indicator of integrative structure and may not align with all forms of programming expertise.
 
 ## Connected Concepts
 

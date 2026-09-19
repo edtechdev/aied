@@ -1,7 +1,7 @@
 ---
 title: "Assessment twins: An approach for strengthening assessment validity in the age of generative AI"
 created: "2026-08-22T17:35:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
@@ -41,13 +41,20 @@ The approach is distinct from traditional protocols like the oral viva voce in i
 - **Step 2 — Align outcomes & choose the twin:** both components map to the same learning outcomes; complementary modes include real-time demonstrations, oral explanations, group discussions, or Q&A. Crucially, oral/video submissions are only as valid as the work underpinning them — live, interactive components (unscripted questions, real-time discussion, in-situ [[problem-solving]]) mitigate pre-generated AI reliance.
 - **Step 3 — Develop interdependent marking:** either a **confirmatory threshold** (minimum twin performance required for the original mark to stand) or a **confirmatory weighting** (e.g., essay mark × oral confirmation score / 2). The worked example pairs a take-home research essay with a 15-minute oral interview.
 
-## Context and limitations
+## What this means for practice
 
-Twins are most appropriate when a task is pedagogically rich but AI-susceptible. The approach is resource-intensive, requiring faculty time, administrative coordination, and institutional [[governance|support]]. Cohort scaling matters: small groups (5–25) suit individual orals/vivas; medium (25–75) suit peer-group presentations and poster events; large (75+) may use random sampling with transparent, non-punitive selection or multiple-assessor peer discussions. In resource-limited, very large contexts, a full redesign using an established framework (e.g., the AIAS) is more effective. The framework requires empirical validation.
+- **Instructors.** Audit each assessment for GenAI vulnerability before you teach it: if high-quality GenAI output with little human input would still satisfy the learning outcomes, the task needs a twin — the PANDORA rubric helps make that judgment, and remote, unsupervised tasks are the most exposed.
+- **Instructors.** Choose a twin that measures the same outcomes through a different mode of evidence, and prefer live, interactive components (unscripted questions, real-time discussion, in-situ [[problem-solving]]) — recorded oral or video submissions are only as valid as the work underpinning them.
+- **Instructors.** Make the marking interdependent rather than a fixed weighting, using a confirmatory threshold (the essay mark stands only if the student can explain at least two key arguments and answer a follow-up question) or a confirmatory weighting (essay mark × oral confirmation score / 2).
+- **Administrators.** Plan staffing before scaling: individual orals suit cohorts of 5–25, peer-group presentations and poster events 25–75, and cohorts above 75 need transparent, genuinely random, non-punitive sampling or multiple-assessor peer discussions; where resources cannot carry that, redesign the assessment with an established framework such as the AIAS instead of twinning.
+- **Researchers.** Build the evidence base for twin-based redesign rather than detection-based surveillance: this approach belongs with the knowledge base's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads and needs empirical validation before institutions adopt it as [[educational-policy-ai|assessment policy]].
 
-## Implications for AI in education
+## Limitations
 
-Assessment twins offer a practical, validity-driven complement to the knowledge base's [[assessment-validity]], [[academic-integrity]], and [[authentic-assessment]] threads — moving beyond detection toward structural assessment design that prioritizes pedagogy while supporting meaningful learning outcomes. The approach connects to [[educational-policy-ai|assessment policy]] choices about summative format and to the broader [[theory-development-aied|theory-building]] strand on how institutions redesign assessment for AI-mediated education, alongside [[credential-cognitive-stewardship-ai-assessment|cognitive stewardship]] and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]].
+- The framework is conceptual: it works through a single worked example (a take-home research essay paired with a 15-minute oral interview) but reports no empirical data on whether twins preserve validity or improve learning outcomes, and the authors state the approach requires empirical validation.
+- Resource intensity is the paper's own most pressing stated challenge — twins need faculty time, administrative coordination, and institutional support — and the authors concede that in resource-limited settings with very large cohorts, a complete redesign using the AIAS may be more effective than twinning.
+- Equity and fairness risks arise when confirmatory tasks are allocated by sampling; the authors' mitigation (transparent, genuinely random, non-punitive selection) is asserted rather than tested.
+- The cohort-scaling guidance (5–25, 25–75, 75+) is offered as design advice with no implementation evidence behind it.
 
 ## Connected Concepts
 

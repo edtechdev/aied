@@ -1,7 +1,7 @@
 ---
 title: "Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender"
 created: "2026-08-22T18:45:00-04:00"
-updated: "2026-08-22T18:45:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [metacognition]
@@ -41,9 +41,20 @@ Three preregistered experiments used an adapted Cognitive Reflection Test with A
 - Time pressure reduced accuracy across conditions; incentives + feedback improved it. Neither eliminated cognitive surrender (the AI-Accurate vs. AI-Faulty gap persisted).
 - Individual differences: higher trust in AI → more surrender (OR = 2.81) and more surrender over offloading (OR = 4.36); higher need for cognition (OR = 0.83) and fluid IQ (OR = 0.69) → more resistance and offloading.
 
-## Implications for AI in education
+## What this means for practice
 
-The paper reframes the knowledge base's understanding of AI-related cognitive risk. It distinguishes **cognitive surrender** (uncritical adoption) from **[[cognitive-offloading]]** (strategic delegation) and from the momentary "over-reliance" captured elsewhere — offering a more precise vocabulary for [[ai-misuse-learning-harm|AI misuse harm]] and [[critical-thinking]] erosion. It connects to [[absent-cognitive-baseline-2026|the absent cognitive baseline]] (both theorize how AI reshapes independent cognition) and to [[epistemic-proactivity-math|epistemic proactivity]] (which values learners' active, [[self-directed-learning|self-directed]] engagement over passive acceptance). The authors frame the vulnerabilities as a **design and education challenge**: [[feedback]], incentives, confidence scores, and uncertainty indicators can help users engage deliberate reasoning (System 2) without losing System 3's efficiency gains. For [[ai-literacy|AI and digital literacy]], the implication is [[teacher-role|teaching]] users when and how to trust — and when to override — AI outputs, rather than simply teaching tool use, a central concern for [[ai-education|AI-mediated education]].
+- **Instructors.** Teach trusting and checking as separate skills: because 73.2% of incorrect-AI trials ended in surrender while only 19.7% ended in strategic offloading, build tasks that require learners to state their own answer before consulting the AI and to name the points where they overrode it.
+- **Instructors.** Attach incentives and feedback to correct overrides rather than to AI use itself: these raised offloading from ~19% to 37.1% and cut surrender to 57.9% without eliminating it, so they work as a prompt for [[critical-thinking|deliberation]] only when paired with instruction in evaluating output.
+- **Instructors.** Prepare learners for confident wrong answers: engaging System 3 raised confidence even on incorrect trials, so have students rate their certainty before and after checking the AI and discuss the trials where confidence rose while accuracy fell.
+- **Designers.** Surface calibrated uncertainty — confidence scores, uncertainty indicators, transparent explanations — as lightweight cues for deliberation, and show accuracy feedback especially on wrong AI answers, since the paper frames surrender as a design challenge rather than an inevitable user failing.
+- **Researchers.** Treat surrender and offloading as distinct outcomes when measuring AI reliance: they diverge sharply under time pressure (offloading fell to 6.2%) and incentives, and individual differences predict which occurs (AI trust OR = 2.81; need for cognition OR = 0.83; fluid IQ OR = 0.69).
+
+## Limitations
+
+- The three preregistered experiments (N = 1,372; 9,593 trials) ran in controlled lab conditions with an adapted Cognitive Reflection Test as the core task, so the magnitudes may not transfer to high-stakes domains such as medical or financial decision support.
+- The design captures single-exposure snapshots: it cannot show whether cognitive surrender habituates, decays, or compounds with repeated real-world AI use, which the authors name as future longitudinal work.
+- Measurement is limited to CRT-style items with accuracy and confidence outcomes; other cognitive domains and additional situational and individual moderators remain untested.
+- The scale is human-controlled AI consultation in a lab task, so the results describe deliberate System 3 engagement and not the autopilot uses the framework also predicts.
 
 ## Connected Concepts
 

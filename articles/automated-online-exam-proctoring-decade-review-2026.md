@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Academic Integrity through Automated Online Exam Proctoring: A Decade-Long Systematic Review"
 created: "2026-08-20T04:45:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -33,9 +33,19 @@ methods: [meta-analysis-systematic-review]
 
 A [[meta-analysis-systematic-review|systematic review]] following [[inclusive-learning|inclusion]]/exclusion criteria, synthesizing 80 peer-reviewed articles published 2014–2024 on AI-based proctoring systems in higher education. It applied a dual approach: [[quantitative-research|quantitative]] evaluation of model performance (metrics such as precision, recall, F1, specificity, sensitivity, AUC) and thematic mapping of application domains, plus a quality assessment across technical competency, dataset description, ethical clarity, and [[research-methods-aied|methodological]] completeness.
 
-## Implications for AI in Education
+## What this means for practice
 
-Automated proctoring can help preserve the validity and integrity of online [[summative-assessment|summative assessment]] in [[online-teaching-and-learning|online and distance learning]], where in-person invigilation is often unfeasible. But deployment must balance detection accuracy against [[privacy]], [[equity-in-ai-education|fairness]], and student trust: the evidence cautions that unvalidated, single-model systems with poor generalizability risk false accusations and inequitable outcomes. Reliable remote proctoring needs hybrid, privacy-preserving, context-aware design coupled with transparent consent and [[regulation|regulatory]] compliance (see [[remote-proctoring]]).
+- **Administrators.** Deploy automated proctoring only where detection accuracy is balanced against [[privacy]], fairness, and student [[trust]]: it can preserve the integrity of online [[summative-assessment|summative assessment]] where in-person invigilation is unfeasible, but unvalidated, single-model systems risk false accusations and inequitable outcomes.
+- **Administrators.** Require hybrid, privacy-preserving, context-aware design coupled with transparent consent and [[regulation|regulatory]] compliance before rollout, rather than adopting a vendor system on accuracy claims alone.
+- **Institutions.** Plan for the equity cost of surveillance: continuous audiovisual monitoring, facial and gaze data, device dependency, and unstable internet disproportionately disadvantage rural and low-bandwidth students.
+- **Assessment professionals.** Judge a proctoring system by its false-positive and false-negative behavior on your own student population, since flagging normal behavior such as looking away can penalize students without any misconduct.
+
+## Limitations
+
+- Some included studies rely on small-scale or simulated datasets, which limits the real-world generalizability of the accuracy figures they report.
+- The review synthesizes 80 peer-reviewed articles published 2014–2024 under fixed inclusion/exclusion criteria, so non-peer-reviewed and more recent work is excluded.
+- The rapid evolution of AI methods means newer or hybrid frameworks may already surpass the performance of the systems reviewed.
+- Ethical evaluation remains underexplored in the included literature, particularly long-term data storage and enforcement of user consent.
 
 ## Connected Concepts
 

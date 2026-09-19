@@ -1,7 +1,7 @@
 ---
 title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
 created: "2026-08-23T08:15:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [productive-failure, scaffolding, socratic-method]

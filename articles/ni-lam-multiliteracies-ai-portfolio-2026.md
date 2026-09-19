@@ -1,7 +1,7 @@
 ---
 title: "Students' Perceptions of Multiliteracies Development Using AI-Assisted Portfolio Assessment"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -31,13 +31,20 @@ level: [higher ed]
 - **Intervention:** students worked in 11 groups to create WordPress-based individual expository + argumentative essays synthesized into a PowerPoint group portfolio on touring-route recommendations; AI feedback (e.g. ERNIE-BOT, Kimi) provided immediate feedback on language, organization, and multimodal integration, and facilitated feedback uptake and synthesis across three weekly writing cycles.
 - **Data & analysis:** 50 reflective journals, 4 focus-group interviews (~1 hour each), 6 narrative inquiries (30–45 min each), plus multimodal analysis of artifacts; iterative inductive thematic analysis conducted in Chinese and translated to English by the author team.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Position AI as a co-partner, not a replacement:** students gained most when GenAI supplied scaffolded, dialectical feedback and design consultations while they retained agency over their meaning-making and revision choices — consistent with "cyber-social literacy learning" paradigms.
-- **Design gradeless, feedback-rich [[formative-assessment]]:** pairing GenAI support with low-stakes, multisource [[feedback]] reduced anxiety and boosted engagement relative to high-stakes examinations, supporting [[self-regulated-learning]].
-- **[[scaffolding|Scaffold]] critical AI engagement:** without training, students over-relied on AI output; explicit instruction in prompt refinement, [[critical-thinking|critical evaluation]] of multisource [[feedback]], and [[feedback-literacy]] is essential to prevent over-trust and information overload.
-- **Use co-constructed rubrics and [[authentic-assessment]]:** rubrics that extend beyond linguistic accuracy into multimodal orchestration help students prompt AI for relevant feedback and guide self- and peer-assessment.
-- **Address equity and [[ethics]]:** teachers need structured support so that GenAI-assisted [[formative-assessment]] remains [[equity-in-ai-education|equitable]] and does not displace critical thinking or learner autonomy.
+- **Instructors.** Pair [[ai-feedback-quality|GenAI-supported feedback]] with gradeless, [[formative-assessment|feedback-rich portfolio cycles]] rather than high-stakes examinations; in this 16-week study the low-stakes multisource format reduced writing anxiety and increased engagement while students kept agency over their revisions.
+- **Instructors.** Co-construct the rubric with students and extend it beyond linguistic accuracy to [[multimodal|multimodal orchestration]] — imagery, color scheme, layout, audience — so that rubric-referenced prompts return usable AI feedback for self- and peer-assessment.
+- **Instructors.** Scaffold critical AI engagement explicitly. Without instruction, students treated AI output as authoritative ("I'd unconsciously trust it"); teach prompt refinement, [[feedback-literacy|comparison across teacher, peer, and AI feedback]], and criteria for selective uptake.
+- **Designers.** Position GenAI as a co-partner and feedback synthesizer rather than a replacement for teacher or peer comment, since students gained most when AI explained or integrated others' feedback while they retained revision decisions.
+- **Administrators.** Provide structured support and training so GenAI-assisted formative assessment stays equitable and does not displace learner autonomy or critical thinking.
+
+## Limitations
+
+- The sample is 50 first-year Tourism Management majors at one Chinese university, all recently through the College Entrance Examination with no prior academic AI experience; the authors note the effects of the AI workshop and guidance were therefore "salient" and call for testing in senior-year classes with different AI-literacy levels.
+- The design is qualitative and self-report (50 reflective journals, 4 focus-group interviews, 6 narrative inquiries) with no comparison or control condition, so it documents perceptions rather than measured multiliteracies gains.
+- GenAI was used almost entirely for dialogic feedback and assessment, with little application in multimodal image creation or visual design, so the creative dimensions of the claimed multiliteracies development rest on thin evidence.
+- Data were collected in a single 16-week course, analyzed in Chinese, and translated into English by the author team, adding an interpretation layer to already context-bound findings.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "DiagramIR: An Automatic Pipeline for Educational Math Diagram Evaluation"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [educational-nlp, generative-ai, llm, multimodal, visualization]
 assessment: [automated-assessment]
@@ -25,11 +25,19 @@ methods: [benchmark]
 - **Strength in spatial checks, limitation in some math checks.** Back-translation outperforms LLM-as-a-Judge on both spatial checks (fully-in-frame, readable scaling, label association, overlap), but the LLM judge does better on one mathematical check (angle labels, κ 0.829 vs 0.652), where programmatically verifying label positioning relative to geometric objects is tricky.
 - **Grounded in real teacher–LLM interaction data.** The 398-item evaluation set is drawn from 6,000 random conversations between teachers and an AI math assistant (Coteach) using the Illustrative Mathematics K–12 [[curriculum-design|curriculum]], reflecting diagrams teachers actually generate "in the wild."
 
-## Practical Implications
+## What this means for practice
 
-- **Use symbolic intermediate representations to make evaluation cheap and auditable.** For developers of math/[[ai-education|AI education]] tools, translating generated figures into a structured IR where deterministic checks run is both more reliable and far cheaper than asking an LLM to judge the rendered image — and the checks explain exactly why a diagram passes or fails.
-- **Adopt an IR-based evaluation for [[accessibility]] and scale.** The approach lets lightweight models do the work, lowering the cost floor enough to deploy automatic diagram [[feedback]] in live, real-time learning tools.
-- **Pair automatic evaluation with rubric-based human calibration.** The pipeline mirrors a clear rubric (mathematical + spatial correctness) and is calibrated against human raters, so automatic checks remain aligned with [[pedagogy|pedagogical]] intent.
+- **Designers.** Evaluate generated figures by back-translating them into a schema-constrained intermediate representation and running deterministic checks, rather than asking an LLM to judge the rendered image: DiagramIR reached higher agreement with human raters (Cohen's kappa roughly 0.48-0.56) than LLM-as-a-Judge (roughly 0.39-0.47).
+- **Designers.** Reuse the rule set as the explanation for failure — the checks state which property broke (fully in frame, scaling, label association, overlap, angle/length match), giving teachers concrete [[feedback]] instead of an opaque score.
+- **Designers.** Know which check the pipeline cannot yet cover: the LLM judge still beat it on angle labels (Cohen's kappa 0.829 vs. 0.652), where verifying label position relative to geometric objects is hardest.
+- **Designers.** Lower the cost floor with a small model once verification is offloaded to rules — GPT-4.1-Mini matched the best LLM-judge (GPT-5) at roughly \$0.47 versus \$4.83 on the dataset, which is what makes real-time diagram feedback affordable in resource-constrained settings.
+
+## Limitations
+
+- The 398-instance evaluation set is drawn from one K-12 curriculum (Illustrative Mathematics) and 6,000 teacher-assistant conversations, so transfer to other domains (physics diagrams, freehand sketches) is unestablished.
+- The rubric covers mathematical and spatial correctness only and leaves out pedagogical usefulness, which the authors call a critical but more subjective dimension of diagram quality.
+- The intermediate representation captures a restricted set of geometric primitives and relations, so more complex diagrams (multi-step constructions, coordinate plots) may need schema and check extensions.
+- Back-translation relies on LLMs to parse TikZ into IRs, and the authors report that this IR-generation step introduced stochastic errors.
 
 ## Connected Concepts
 

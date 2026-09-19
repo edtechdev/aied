@@ -1,7 +1,7 @@
 ---
 title: "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [generative-ai, personalized-learning]
 assessment: [ai-feedback-quality, automated-assessment, feedback]
@@ -25,11 +25,17 @@ sources: [raw/papers/2603.12471.md]
 - **The effect is robust but variable.** Concentration-metric regression confirmed that Marked Pedagogies differ significantly between marked and comparative prompts; effects were stronger and more consistent under explicit attribute prompts than under name-only prompting (e.g., Lakisha, Juan, Emily), which produced smaller, noisier signals.
 - **Need for transparency and accountability.** The authors argue automated feedback tools must be scrutinized for these systematic [[pedagogy|pedagogical]] orientations, which risk discriminatory treatment of students at scale.
 
-## Practical Implications
+## What this means for practice
 
-- **Audit automated feedback for distributional bias, not just accuracy.** Education tool developers deploying LLM writing feedback should test how outputs shift across student descriptors, using methods like the Marked Words / concentration approach, to surface stereotype-aligned praise and withheld critique.
-- **Treat "personalization" as a bias vector to control.** Personalization is often framed as a benefit, but it is exactly the mechanism through which these biases enter; designers should decide deliberately what student attributes feed into feedback generation and monitor their effects.
-- **Support multilingual and minoritized writers explicitly.** Because LLMs privilege standard academic English, tools should guard against penalizing non-standard varieties and against lowered expectations for ELL and disability-designated students.
+- **Software developers.** Audit automated feedback for distributional bias, not just accuracy: test how outputs shift across student descriptors with methods like the Marked Words / concentration approach, so stereotype-aligned praise and withheld critique surface before a tool ships.
+- **Designers.** Treat "personalization" as a bias vector to control — decide deliberately which student attributes feed into feedback generation and monitor their effects, because personalization is exactly the mechanism through which these biases enter.
+- **Software developers.** Guard against penalizing non-standard English: because the models privilege standard academic [[writing-education|academic English]], add checks against lowered expectations and harsher correction for ELL- and disability-designated and [[multilingual-learning|multilingual]] writers.
+
+## Limitations
+
+- The analysis drew on two writing assignments from a single dataset of 600 eighth-grade persuasive essays (PERSUADE), so how far the findings generalize to other genres, grade levels, and assignments is untested.
+- Only four LLMs were evaluated (GPT-4o, GPT-3.5-turbo, Llama-3.3 70B, Llama-3.1 8B), and model-level differences were not quantified even though markedness appeared across all four.
+- The attribute set was selective: attributes were assessed one at a time and drawn from U.S. stereotypes, leaving intersectional combinations and non-U.S. contexts unexamined.
 
 ## Connected Concepts
 

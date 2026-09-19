@@ -1,7 +1,7 @@
 ---
 title: "Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment]
@@ -22,8 +22,20 @@ audience: [educators, institutions, assessment designers]
 - **Reframing around detection of learning, not detection of cheating:** Rather than asking "what can't GenAI do," educators should ask what students should learn *through* assessment: navigational choices, reflections, and judgments (i.e., "detecting learning rather than detecting cheating," per Ellis & Lodge 2024).
 - **Grading reform (the "elephant in the room"):** Grades are the most powerful cultural marker of success/failure. The paper advocates competency-based or pass/fail frameworks (which can be as rigorous as rubrics), process-documented [[eportfolio|portfolios]], "persuasive portfolios," navigational-capability scoring, and student self-grading — noting that we might "grade our grading systems rather than our students."
 
-## Implications for AI in Education
-For [[higher-ed|educators and institutions]], the paper reframes GenAI from an [[academic-integrity]] crisis into a catalyst for [[equity-in-ai-education|equitable]] [[assessment]] reform. Its central practical shift is from **surveillance and detection** (AI-detection tools, invigilated high-stakes exams) toward **process-oriented, agentic, and collaborative** assessment that values diverse ways of knowing. This connects directly to [[authentic-assessment]] — assessing navigation of complex, resource-rich environments rather than static individual output — and to [[agency]], positioning students as partners and drivers of their learning rather than subjects of external judgment. For [[distributed-cognition|distributed]] and collaborative assessment, it points to reimagining group work so teams document how they synthesize perspectives and co-create ideas, and to competency-based/portfolio models of [[human-ai-collaboration|human-AI collaboration]]. The paper is explicit that institutional constraints (grading policies, accreditation, [[summative-assessment|external ranking systems]]) are real, recommending localized experimentation within individual courses as an evidence-generating entry point, while calling for future empirical research on the equity outcomes of grading reform.
+## What this means for practice
+
+- **Instructors.** Ask what students should learn through the task instead of what GenAI cannot do — navigational choices, reflection, and judgment, or "detecting learning rather than detecting cheating" — and let that question drive the design.
+- **Instructors.** Drop detection-based defenses such as [[ai-detection|AI-detection tools]] and invigilated high-stakes exams: the paper cites their methodological limitations, false positives, and violations of procedural fairness, and argues that containment preserves the sorting logic that made [[assessment]] inequitable in the first place.
+- **Designers.** Make success distributed rather than individual: assess group work by the documented synthesis across perspectives — an integrated knowledge network — rather than by a single isolated performance under artificial constraints, which is the format that privileged some students and disadvantaged collaborative, resource-rich learners.
+- **Designers.** Make assessment agentic by letting students negotiate formats, criteria, and timelines, and consider the grading alternatives the paper sets out — competency-based or pass/fail frameworks, process-documented [[eportfolio|portfolios]], and student self-grading — with the aim of grading the grading system rather than the students.
+- **Administrators.** Begin with localized experimentation inside individual courses, because accreditation requirements, grading policies, and [[summative-assessment|external ranking systems]] are real constraints, and treat course-level reform as the evidence-generating entry point the authors call for.
+
+## Limitations
+
+- This is a conceptual paper: it reports no sample, intervention, or outcome data, so it can argue what equitable assessment should look like but cannot show that distributed or agentic designs improve [[equity-in-ai-education|equity]] or learning.
+- The authors acknowledge that their discussion addresses how GenAI might support more inclusive assessment with limited attention to broader equity concerns of AI systems — bias, potential labor displacement, and the concentration of technological power in private entities.
+- They flag the risk that reform disadvantages students who benefit from clear structure and predetermined expectations, and that students may feel uncertain without numerical feedback and need scaffolded support to build intrinsic motivation; both are left unresolved in the paper's own account.
+- Grading reform lies largely outside the authors' control: institutional grading policy, accreditation, and external ranking systems constrain implementation, and no evidence is offered yet on how the proposed changes affect equity outcomes, which the paper names as a target for future empirical research.
 
 ## Connected Concepts
 

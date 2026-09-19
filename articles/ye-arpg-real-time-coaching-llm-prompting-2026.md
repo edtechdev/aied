@@ -1,7 +1,7 @@
 ---
 title: "ARPG+: a simulation-based study of real-time coaching for educational LLM prompting"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [cognitive-offloading, human-ai-collaboration, learning-design]
 pedagogy: [metacognition, self-regulated-learning]

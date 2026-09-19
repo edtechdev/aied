@@ -1,7 +1,7 @@
 ---
 title: "The Best Response to Student AI Use Is Not Detection, It Is Dialog"
 created: "2026-08-20T05:40:00-04:00"
-updated: "2026-08-20T05:50:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 assessment: [ai-detection, assessment]
@@ -23,9 +23,20 @@ confidence: high
 - **Trust and relationships shift.** Students initially approached verification with [[student-experience|anxiety]] (assuming they were accused), but when communicated well they began disclosing AI use more openly and engaging with assignments as genuine [[assessment|learning tasks]] rather than products. The framework treats AI use as acceptable when the student can demonstrate understanding.
 - **Faculty and institutional challenges.** Faculty's top concern was time, which softened once 5–10 minute conversations proved cleaner than formal proceedings. The harder persistent challenge is [[teacher-role|faculty]] who are philosophically unwilling to treat verified AI use as neutral — a gap addressed through brown-bag conversations rather than policy training. Formal, systematic evaluation of outcomes is still in development.
 
-## Implications for AI in Education
+## What this means for practice
 
-The essay reframes [[academic-integrity]] enforcement from a detection/compliance model to an assessment model grounded in dialog and [[authentic-assessment|demonstrated understanding]]. It positions [[teacher-role|faculty]] as teachers with the legitimate authority to confirm that a grade reflects actual learning, rather than as investigators or monitors. It complements [[ai-detection|detection]] limits with process-based, [[ai-literacy]]-building assessment — and its emphasis on student anxiety about being asked to explain their work ties directly to the stress and [[trust]] concerns documented in [[remote-proctoring]] and other surveillance-based approaches.
+- **Instructors.** Rebuild the integrity question around learning rather than tool use: ask "Can this student demonstrate understanding of what they submitted?" instead of "Did this student use AI?", because AI use is only one of several confounds — alongside ghostwriting, tutors overstepping, and contract cheating — sitting between a submitted artifact and actual understanding.
+- **Instructors.** Say it in the [[learning-design|syllabus]], in advance, that students may be asked to explain their work at any point, and frame it as [[pedagogy|pedagogy]] rather than surveillance; this reframing is what makes learning verification acceptable to students rather than a threat.
+- **Instructors.** Hold short verification conversations — five to 10 minutes is usually enough — that stay on the material, not the tool. Faculty at the implementing institution found these cleaner and less time-consuming than formal misconduct proceedings, and the practice is an extension of [[authentic-assessment|demonstrating understanding]] rather than a new procedure.
+- **Instructors.** Scale the same logic in large or asynchronous courses with written reflections, short student videos, early draft submissions, or AI chat logs, which show how a student interacted with a tool and whether they critically evaluated its output.
+- **Instructors.** Announce the purpose before the first conversation: students initially read a request to explain their work as an accusation, and the author reports that when the rationale was communicated well students disclosed AI use more openly and treated assignments as learning tasks rather than products.
+
+## Limitations
+
+- This is a practitioner account from one institution, Grand Canyon University, where learning verification was implemented institution-wide in fall 2025; no comparison group, pre/post measure, or student outcome data are reported.
+- The author states that formal, systematic evaluation is still in development — the mechanisms under exploration are supplemental questions on end-of-course student evaluations and a dedicated faculty survey — so the reported effects on faculty authority and student engagement rest on unsolicited faculty feedback rather than measurement.
+- The account identifies a problem the framework does not yet solve: [[teacher-role|faculty]] who are philosophically unwilling to treat verified AI use as neutral, which the author describes as the place where implementation "is most honestly still in progress" and which is being addressed through brown-bag conversation rather than policy.
+- The policy was launched with the expectation that it would need revision after its first full year, and no first-year implementation data or student [[learning-gains|outcome]] evidence are presented.
 
 ## Connected Concepts
 
