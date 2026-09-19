@@ -1,7 +1,7 @@
 ---
 title: "A Human Capability Test for Learning Outcomes in the AI Era"
 created: "2026-09-04T09:09:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -23,10 +23,6 @@ Permission policies for [[generative-ai|GenAI]] increasingly recognize its impli
 ## The Human Capability Test
 
 The proposed test reframes [[assessment]] around three questions: what must a student demonstrate independently; what can be strengthened through AI augmentation; and what must the student verify, defend, and take responsibility for. It is intentionally non-prescriptive and adaptable across disciplines. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome.
-
-## Implications
-
-By shifting the [[assessment]] question from *whether* AI was used to *what capability remains the learner's own*, the framework offers a principled way to preserve [[academic-integrity|academic integrity]] and [[authentic-assessment|authentic]] evidence of learning in the AI era. It gives instructors a practical, outcome-level procedure for deciding what to assess independently versus with AI augmentation.
 
 ## What this means for practice
 

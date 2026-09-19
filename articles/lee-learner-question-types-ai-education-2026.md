@@ -1,7 +1,7 @@
 ---
 title: "Analysing AI utilisation in education through learner question types: A constructivist approach"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [constructivist, scaffolding]
@@ -38,20 +38,11 @@ confidence: high
 - **Evaluation and error analysis:** Accuracy, precision, recall, F1, and confusion matrices for [[quantitative-research|quantitative]] comparison, followed by manual [[qualitative-research|qualitative]] review of misclassified questions to derive [[educational-nlp|NLP]] failure patterns.
 - **[[ethics]]:** Anonymized, non-identifiable student data with informed oral consent; participation was voluntary and unlinked to assessment, and [[governance|institutional]] guidance classified the study as low-risk, requiring no formal ethics review.
 
-## Implications for AI in Education
-
-- **Embed question classification in the LMS, with humans in the loop:** A [[formative-assessment]] system built into the LMS can classify learner questions in real time, but instructors should validate outputs — a collaborative model that combines [[generative-ai|AI]] throughput with pedagogical judgment.
-- **Use inquiry depth as a diagnostic signal:** Distinguishing knowledge-transmitter, facilitator, and co-learner questions gives educators a structured view of epistemic engagement and lets [[personalized-learning|personalized]] responses escalate when a learner keeps asking only low-complexity factual questions.
-- **Prompt deeper questioning deliberately:** If a student consistently asks factual questions, the system can nudge them toward reflective, [[critical-thinking|critical]] inquiries, developing [[metacognition]] and [[self-regulated-learning|self-regulation]].
-- **Aggregate question data for [[curriculum-design|curriculum]] decisions:** Patterns of questions reveal topics where students struggle, letting instructors adjust content, sequence, or support before end-of-term assessment exposes gaps.
-- **Plan for what NLP cannot yet do:** Because models confuse [[critical-thinking|higher-order]] facilitator and co-learner questions, deployments should pair classification with explainable outputs, bias checks, and [[guardrails|ethical guidelines]] rather than relying on automation alone.
-- **Broaden the evidence base beyond IT:** The corpus is confined to IT courses, so generalizing to [[humanities-education|humanities]], social sciences, and [[stem-education|STEM]] requires cross-disciplinary and longitudinal validation before institutional-scale adoption.
-
 ## What this means for practice
 
 - **Instructors.** Route higher-order questions to human review: the best model reached 96.67% precision on knowledge-transmitter items but only 78.79% on facilitator items, so level 2 and level 3 labels need validation before they drive [[feedback]].
 - **Instructors.** Read class question profiles as a diagnostic signal and prompt escalation when a learner keeps asking only level 1 factual questions, rather than answering on the strength of the classification alone.
-- **Designers.** Embed classification in the LMS with instructor override and explainable outputs, and plan for [[discipline-specific-aied|domain-specific]] phrasing to be misread as cognitive depth, one of the three recurring error patterns.
+- **Designers.** Embed classification in the LMS with instructor override and explainable outputs, and plan for [[discipline-specific-aied|domain-specific]] phrasing to be misread as cognitive depth, one of the three recurring error patterns. Add bias checks and [[guardrails|ethical guidelines]] rather than relying on automation alone, and aggregate question profiles for [[curriculum-design|curriculum]] decisions: patterns reveal topics where students struggle, letting instructors adjust content, sequence or support before end-of-term assessment exposes the gaps.
 - **Researchers.** Replicate the pipeline in other disciplines before institutional-scale adoption, since the corpus is confined to information technology courses at a single Australian university.
 
 ## Limitations

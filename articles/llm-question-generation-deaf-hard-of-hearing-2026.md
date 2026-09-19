@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Design of LLM-Powered Question Generation for Deaf and Hard of Hearing Learners"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
@@ -27,7 +27,7 @@ discipline: [language learning]
 - **The accessibility gap:** LLMs struggle because text-based prompts are mismatched with DHH learners' sign-based first/native languages. Unnecessary linguistic complexity (compound sentences, double negatives) increases [[cognitive-offloading|cognitive load]] and confusion.
 - **Deaf vs. HoH differences:** Deaf participants selected visual questions more than HoH learners, who reported fast caption-reading speed and less need for visual support.
 
-## Implications for AI in Education
+## What the work contributes
 
 The study highlights the importance of considering **[[language-learning|language]] diversity and culture** in the design of LLM-based educational technology. LLMs offer significant potential for [[personalized-learning|personalized]] and [[automated-question-generation|automated question generation]] at scale, but they risk encoding [[bias-mitigation|technology bias]] against users whose first language is not spoken language. The design-based approach — layering learner-specific data into generation and iteratively revising with the target community — offers a template for [[equity-in-ai-education|equitable]] [[special-education]] tooling, grounded in [[universal-design-for-learning|Universal Design for Learning]], that centers the users' own language and experience rather than treating accessibility as an afterthought.
 

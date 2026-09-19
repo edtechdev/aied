@@ -1,7 +1,7 @@
 ---
 title: "Designing an Aligned Generative AI Course Policy: An Equitable and Transparent Learner-Centered Approach"
 created: "2026-09-10T15:08:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, curriculum-design, educational-development, framing-ai-use-for-students]
 technology: [generative-ai]
@@ -54,21 +54,12 @@ The resulting policy is deliberately uneven, which is the point:
 
 A transparent policy for this design case is not a rule list but a rationale, composed as if speaking directly to students ("you will…", "we will…"), naming the [[assessment]] that justifies each restriction — for example, that because the instructor is assessing the student's ability to compose specific and measurable objectives, GenAI assistance with that task is unallowed (Palmer et al., 2016; Weimer, 2013). Assignment types with a single clear rationale (discussion forums, design-case analysis, [[eportfolio|portfolio]] presentation) carry the policy in the syllabus plus a just-in-time reminder inside the assignment; the complex project carries a syllabus summary plus assignment-level call-outs. The author says she will keep the amendment-by-conversation option even though students never used it, because [[self-directed-learning|self-directed learners]] should be able to negotiate the policy against their own goals.
 
-## Implications
-
-- **Policy design is assessment design.** Deriving permitted AI use from "what, specifically, am I assessing?" turns a compliance artifact into an alignment exercise that improves the course itself — and gives instructors a defensible answer when a student argues that a tool's use was not dishonest.
-- **Task-level granularity beats one rule per course.** Different tasks inside the same project warrant different answers; a single blanket policy cannot express that, which is why [[educational-policy-ai|task-type regulation]] is emerging as the practical pattern.
-- **[[explainable-ai|Transparency]] is an equity move.** Opaque policies assume shared background knowledge about authorship and attribution; making expectations and their rationale explicit dismantles part of the hidden curriculum and reduces the chance that policy failure becomes a disciplinary matter ([[equity-in-ai-education]]).
-- **Design for the persuadable majority.** Framing the policy around [[trust]] rather than surveillance targets the "60% in between," consistent with evidence that fear-based [[ai-use-disclosure|disclosure]] regimes push use underground ([[reducing-ai-misuse]]).
-- **Faculty development is the delivery mechanism.** The approach emerged from a course design institute and spread by colleague curiosity — a model for [[educational-development]] programs that want instructors to design their own policies rather than adopt template statements.
-- **The exercise is reusable at other levels.** The author suggests [[teacher-education|teacher educators]] and program designers could apply the same inventory-and-prioritize method to program-level outcomes, and anticipates GenAI competencies migrating into formal learning objectives as the field's expectations stabilize.
-
 ## What this means for practice
 
 - **Instructors.** Inventory every step a student performs toward the finished product, then ask "what, specifically, am I assessing?" of each step; the alignment table, not the rule list, is the actual work of writing the policy.
 - **Instructors.** Split a deliverable rather than banning it: image generation was allowed because the course assessed students' use of visuals, while slide-level message design stayed with the student, so one assignment can mix permitted and unpermitted AI use.
 - **Faculty development.** Run this as a guided design workshop in which instructors derive their own policy from their own assessment concerns; the approach emerged from a week-long Course Design Institute and spread through colleague curiosity rather than template adoption.
-- **Instructional designers.** Write the policy as a rationale addressed to students, naming the assessment each restriction protects, and pair a syllabus summary with assignment-level call-outs for complex projects and a just-in-time reminder for single-assignment types.
+- **Instructional designers.** Write the policy as a rationale addressed to students, naming the assessment each restriction protects, and pair a syllabus summary with assignment-level call-outs for complex projects and a just-in-time reminder for single-assignment types. Treat transparency as an [[explainable-ai|equity move]]: expectations for authorship and originality are clear to one student from prior academic experience and new to another, so an opaque policy invites the disciplinary referrals that a transparent one prevents ([[equity-in-ai-education]]). Frame the policy around [[trust]] rather than surveillance — the author explicitly designs for McCabe's "60% in between" — rather than policing the students who would never cheat anyway.
 - **Curriculum designers.** Apply the same inventory-and-prioritize method to program-level outcomes, and revisit it as GenAI competencies migrate into formal learning objectives — the author expects prompt engineering and output evaluation to become assessable outcomes.
 
 ## Limitations

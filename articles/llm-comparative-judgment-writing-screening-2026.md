@@ -1,7 +1,7 @@
 ---
 title: "Validity of Large Language Model Comparative Judgment for Universal Writing Screening"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, assessment-validity, automated-assessment]
@@ -34,10 +34,6 @@ The results support LLM-based CJ as a promising approach to efficient [[writing-
 4. **Model capability did not drive validity** — findings were broadly consistent across the seven LLMs, with little evidence that greater model capability or cost improved validity evidence.
 
 Predictive-bias patterns for multilingual learners were similar across the LLM-based and researcher scoring methods, an important [[equity-in-ai-education|equity]] signal for a tool intended for universal screening.
-
-## Implications for Automated Writing Assessment
-
-For [[automated-assessment]] and screening practice, the study suggests that LLM comparative judgment can be a feasible, valid complement to (or substitute for) costly human analytic scoring — especially when multiple writing samples per student are available, which the results show improves validity more than model choice does. The finding that cheaper, less capable LLMs performed as well as premium models has cost implications for school systems. The absence of differential predictive bias for multilingual learners supports the [[bias-mitigation|fairness]] of the approach, though the authors frame the work as validity evidence for screening rather than a claim about using LLM scoring to make high-stakes decisions. The paper connects directly to ongoing questions in [[assessment-validity|assessment validity]] about when and how [[llm|LLM]]-based scoring can be trusted in [[k-12]] [[assessment]].
 
 ## What this means for practice
 

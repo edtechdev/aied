@@ -1,7 +1,7 @@
 ---
 title: "Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education"
 created: "2026-09-06T08:10:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [metacognition]
@@ -26,10 +26,6 @@ institutions: [governance]
 - **A replicable diagnostic methodology:** The study contributes the first large-scale WAT-based cognitive mapping of AI knowledge structures in Turkish [[higher-ed|higher education]], demonstrating a data-driven needs-assessment method (canonical coding, Kendall's τ, multidimensional scaling, threshold-network construction) for evidence-based credential design.
 - **Design implication — ethics modules need bridges:** Delivering an ethics module in isolation risks encountering a cognitive architecture with no existing schema to receive it; curricula must explicitly construct connections between learners' experiential tool knowledge and ethical/governance frameworks.
 - **Curricular priority shift:** Rather than reproducing what students already know, credential programs should sequence content to close the specific structural gap between utilitarian and [[ethics|ethical]] dimensions of AI literacy.
-
-## Implications for AI in Education
-
-This study reframes the [[ai-literacy]] problem from a "missing knowledge" deficit to a structural feature of how students think about AI, with direct consequences for [[assessment]]-driven [[curriculum-design|curriculum]] design in [[higher-ed|higher education]]. For educators and learning designers it argues that functional AI training alone entrenches an instrumental frame, and that micro-credentials should foreground boundary-crossing content that connects everyday tool use with transparency, privacy, and [[governance]]. It also offers an evaluative method — associative [[metacognition|cognitive mapping]] — that can surface [[prior-knowledge|prior knowledge]] structures before designing instruction, aligning with [[student-experience|learner-centered]] competency frameworks.
 
 ## What this means for practice
 

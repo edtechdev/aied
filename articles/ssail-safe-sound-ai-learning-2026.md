@@ -1,7 +1,7 @@
 ---
 title: "SSAIL: A Design Framework for Safe and Sound AI for Learning"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [agency, ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [generative-ai, learning-analytics]
@@ -35,7 +35,7 @@ Because safety claims need evidence, SSAIL borrows **evidence-centered design** 
 
 These two evidence streams jointly inform adaptive decisions about task selection, supports, guardrails, [[agency|learner agency]], and cognitive responsibility. The ultimate objective is not a maximally guarded system the learner depends on, but the development of internal guardrails — the capacity to regulate one's own AI use — achieved through guided practice over time.
 
-## Implications for Designing Human-Development-Centered AI
+## What the work contributes
 
 For [[ai-education|AIED]] designers, SSAIL reframes safety from a property of model outputs to a property of the human-development trajectory a learning environment supports or erodes, aligning with scholarship on [[cognitive-offloading]] and [[desirable-difficulties|productive struggle]]. It positions [[human-ai-collaboration]] design — deciding which cognitive tasks the tool performs versus the learner — as the central safety lever, and it argues that as AI capabilities evolve, safe and sound learning must keep the human competencies it aims to protect at the center. Its evidence-centered pairing of learner and system measurement offers a concrete path for [[learning-analytics]] and assessment communities to evaluate not just what AI produces but what it lets learners become able to do on their own.
 

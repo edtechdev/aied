@@ -1,7 +1,7 @@
 ---
 title: "Agentic Generative AI in Higher Education: Perceived Benefits, Risks, and Implications for Learning"
 created: "2026-09-11T02:52:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, pedagogical-agent, personalized-learning]
@@ -51,15 +51,6 @@ The exploratory study (12 May – 9 June 2026) used a Bulgarian-language questio
 - **Risk, trust, and adoption.** Perceived risk was moderate (M = 3.333, SD = 0.893) while trust and adoption intention were more favorable (M = 3.615, SD = 0.805). 69.2% endorsed continued use of agents, 63.1% supported integrating them into learning activities, and 61.5% wanted training in effective agent use. The strongest single endorsement was for **combining all three approaches** (69.2%), whereas only 33.1% agreed agents were more effective than chatbots and 45.4% trusted agents under instructor guidance.
 - **An unexpected association.** Perceived risk correlated *positively* with continued-use intention (Spearman's ρ = 0.317, p < 0.001). The authors explicitly reject a causal reading and interpret it as **informed adoption**: more engaged or experienced users recognize both the value and the limits of GAI. The cross-sectional design cannot separate awareness, exposure, self-selection, and reciprocal influence.
 
-## Implications
-
-- **Scope discipline is the paper's central honesty.** The authors state plainly that the evidence is a perception-based alignment check, not proof of effectiveness: no random assignment, no objective performance measure, no pre–post change, and no longitudinal transfer measure. Propositions that the questionnaire could not test are labeled as such rather than scored as supported.
-- **Absence of an agent advantage is itself informative.** The null agent–chatbot difference may reflect students' limited practical experience with agentic workflows, their novelty, and the possibility that advanced AI interactions feel broadly similar to chatbot support — implying that agentic value may only become visible under sustained, authentic implementation with clearly differentiated tasks.
-- **Bounded agency is the design answer to [[cognitive-offloading|over-reliance]].** Because goals, checkpoints, and final decisions stay with the educator and learner, and because the workflow returns control at verification and reflection stages, agentic orchestration can be aimed at reasoning support rather than task completion.
-- **Students want guidance, not just access.** The demand for agent-use training and the preference for combining traditional [[teacher-role|teaching]] with both chatbot and agent support suggest that adoption is a course-design question — where agents are introduced, with what checkpoints, and with what instruction — rather than a matter of tool availability.
-- **Governance must be built into the workflow layer.** Disclosure requirements, source verification, privacy rules, and instructor validation appear here as framework components rather than as policy bolted on afterward — the same integration [[human-in-the-loop-ai|human-in-the-loop]] design calls for elsewhere.
-- **Limitations.** One e-commerce course, student perceptions only (no instructor perspective), no objective outcomes, and an implementation the authors themselves describe as an initial conceptual model rather than an optimized instructional system.
-
 ## What this means for practice
 
 - **Instructors.** Introduce agents where the workflow itself needs sequencing and checkpoints, not as a general upgrade: agent and chatbot conditions did not differ significantly on any of the four domains (learning enhancement 3.835 vs. 3.858).
@@ -71,8 +62,8 @@ The exploratory study (12 May – 9 June 2026) used a Bulgarian-language questio
 ## Limitations
 
 - The evidence is 130 usable questionnaire responses (90 women, 40 men) from one e-commerce course, using a within-respondent design in which the same students rated all three conditions.
-- No objective performance indicators were collected: the study measured perceptions and did not evaluate grades, submitted project quality, decision accuracy, task-completion time, knowledge retention or transfer.
-- Condition effects were very small (Kendall's W = 0.026 to 0.217), and the key agent-versus-chatbot contrast was not significant, so the study cannot rank the two AI conditions.
+- No objective performance indicators were collected: the study measured perceptions and did not evaluate grades, submitted project quality, decision accuracy, task-completion time, knowledge retention or transfer. It used no random assignment, no baseline-to-post change and no longitudinal transfer measure, and the authors label the propositions the questionnaire could not test as requiring experimental, longitudinal or process-based evidence rather than as supported.
+- Condition effects were very small (Kendall's W = 0.026 to 0.217), and the key agent-versus-chatbot contrast was not significant, so the study cannot rank the two AI conditions; the authors read the null as possibly reflecting students' limited practical experience with agentic workflows and the novelty of those workflows, and suggest agentic value may become visible only under sustained, authentic implementation.
 - Only student perceptions were captured — no instructor perspective — the authors describe the implementation as an initial conceptual model rather than an optimized instructional system, and the paper is a non-peer-reviewed preprint.
 
 ## Connected Concepts

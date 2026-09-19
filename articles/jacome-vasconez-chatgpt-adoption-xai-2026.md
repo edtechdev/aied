@@ -1,7 +1,7 @@
 ---
 title: "Explaining ChatGPT Adoption in Higher Education: Insights for AI Literacy, Educational Practice, and Responsible AI"
 created: "2026-09-03T14:20:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, teacher-role]
 pedagogy: [self-regulated-learning]
@@ -26,14 +26,6 @@ institutions: [educational-policy-ai, governance]
 - **Demographics did not moderate** the model: gender, age, and education level had no significant interaction effects.
 - **XAI complements, not replaces, UTAUT2.** The study demonstrates that explainable machine learning uncovers nonlinear relationships, threshold effects, and necessary conditions that conventional linear regression misses — most notably the role of Effort Expectancy.
 
-## Implications for practice
-
-- **Do not equate frequent AI use with AI competence.** The predominance of Habit and Performance Expectancy suggests adoption is driven by perceived educational value, not deep understanding. [[ai-literacy]] should be a transversal competency spanning technical knowledge, critical thinking, [[ethics|ethical]] reasoning, information verification, and [[prompt-engineering|prompt design]] — not an isolated digital-skills initiative.
-- **Faculty are key mediators of responsible adoption.** Social Influence was both a significant predictor and a necessary condition, positioning instructors as the shapers of norms around the legitimacy, usefulness, and ethical acceptability of ChatGPT. [[governance|Institutional]] silence creates uncertainty; explicit guidance and responsible-use policies facilitate adoption.
-- **Cultivate reflective habits, not maximal use.** Habit contributes to intention, but over-reliance on [[generative-ai|generative AI]] is associated with reduced [[self-regulated-learning]], diminished analytical reasoning, and [[academic-integrity]] risks. Institutions should pair repeated use with structured opportunities for reflection, [[metacognition]], and critical evaluation.
-- **Differentiate support by adoption profile.** Pragmatic Adopters (the largest group) use ChatGPT as a complementary resource and represent the most sustainable model; Technology Enthusiasts need encouragement to critically evaluate AI output; lower-adoption clusters need targeted [[scaffolding]], AI-literacy workshops, peer mentoring, and instructor guidance rather than one-size-fits-all policy.
-- **Treat AI adoption as an institutional responsibility.** Facilitating Conditions (infrastructure, digital competencies, institutional support) are necessary conditions, so implementation requires investment in [[educational-development|faculty development]] and student support — not just access to tools.
-
 ## Connections and distinctions
 
 - **[[research-methods-aied|Methodological]] contribution:** Unlike [[determinants-chatgpt-use-higher-education-2026|the exploratory ML study of ChatGPT determinants]], this work explicitly integrates a full UTAUT2 model with XAI, NCA, IPMA, and clustering, showing how explainability techniques enrich — rather than replace — established acceptance theory.
@@ -44,9 +36,9 @@ institutions: [educational-policy-ai, governance]
 ## What this means for practice
 
 - **Instructors.** Verify baseline usability before pushing adoption. Effort Expectancy was statistically insignificant in the linear model, but Necessary Condition Analysis showed that minimum levels of perceived ease of use are required before students develop high behavioral intention — so spend the first session on access, logins, and core workflows rather than assuming ease of use.
-- **Instructors.** Build repeated, structured course use into the schedule rather than leaving AI use optional: Habit was the strongest predictor of behavioral intention (β = 0.199), ahead of Performance Expectancy (0.194) and Hedonic Motivation (0.163).
-- **Administrators.** Size support to the profile distribution, not to the average: with 8.8% Resistant and 27% Late Adopters, roughly a third of students need targeted [[scaffolding]], workshops, and peer mentoring, while Technology Enthusiasts (14.2%) need critical-evaluation prompts instead.
-- **Administrators.** Do not lead the case for adoption with price or cost arguments. Price Value had a negligible influence across all analyses, whereas Facilitating Conditions (β = 0.118) were significant and necessary.
+- **Instructors.** Build repeated, structured course use into the schedule rather than leaving AI use optional: Habit was the strongest predictor of behavioral intention (β = 0.199), ahead of Performance Expectancy (0.194) and Hedonic Motivation (0.163). Do not equate frequent use with competence: AI literacy should be a transversal competency spanning technical knowledge, critical thinking, ethical reasoning, information verification and prompt design, and repeated use should be paired with structured reflection and critical evaluation, since over-reliance on generative AI is associated with reduced self-regulated learning.
+- **Administrators.** Size support to the profile distribution, not to the average: with 8.8% Resistant and 27% Late Adopters, roughly a third of students need targeted [[scaffolding]], workshops, and peer mentoring, while Technology Enthusiasts (14.2%) need critical-evaluation prompts instead. Treat faculty as key mediators of responsible adoption: Social Influence was both a significant predictor and a necessary condition, so explicit guidance and responsible-use policies facilitate adoption where institutional silence creates uncertainty.
+- **Administrators.** Do not lead the case for adoption with price or cost arguments. Price Value had a negligible influence across all analyses, whereas Facilitating Conditions (β = 0.118) were significant and necessary. Treat adoption as an institutional responsibility rather than a matter of tool access: Facilitating Conditions were necessary conditions, so implementation requires investment in faculty development and student support.
 - **Researchers.** Model [[technology-acceptance-model|acceptance]] predictors as thresholds as well as linear effects, and read the unexplained variance as a research target: the framework accounts for 67.6% of behavioral intention, leaving nearly a third to other drivers.
 
 ## Limitations

@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies"
 created: "2026-08-09T20:37:26-04:00"
-updated: "2026-08-22T01:30:41-04:00"
+updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, learning-analytics, llm]
@@ -29,9 +29,12 @@ confidence: high
 
 This longitudinal study analyzed student–AI interactions in a semester-long [[network-analysis|social network analysis]] course at a Finnish university. Students used LLMs to generate their own network datasets meeting specified criteria across four assignments. A total of 281 prompts from 122 submissions were qualitatively coded into six binary categories: *Instruction*, *Context*, *Output specification*, *Disagreement*, *Agreement*, and *Polite language*. **Co-Occurrence Network Analysis (CNA)** was applied to map how prompt-code combinations clustered within and across submissions, with separate networks for high- and low-quality submissions, subtraction networks to quantify differentiating connections, and centrality analysis (in-strength, diffusion). Longitudinal networks tracked patterns across the four assignments, with Pearson/Spearman correlations quantifying convergence or divergence between the quality groups over time.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study contributes to understanding [[cognitive-offloading]] as observable patterns in student prompting, not just a theoretical concern. It shows high-quality AI use integrates active cognitive engagement (contextual prompting, specifying expectations) rather than avoiding AI, connecting to [[genai-performance-vs-learning|distinguishing performance gains from learning]] and the finding that *how* students use AI matters more than *whether* they use it. The "leveling" tendency and cognitive-laziness finding support [[cognitive-offloading|Over-Reliance]] [[research-methods-aied|research]] and Cognitive Load Theory: excessive offloading risks diminishing the germane cognitive load needed for transferable mental models. The contextual-prompting finding supports [[scaffolding]] approaches that teach students to prompt with context, and the longitudinal dimension shows prompting strategies evolve with practice, informing [[ai-literacy]] [[curriculum-design|curriculum design]] and [[learning-analytics]] approaches for monitoring student–AI collaboration.
+- **Instructors.** Grade the prompt, not only the submission: high-quality work connected context, instruction, and output specification (context-instruction 0.25, output specification-instruction 0.28), while low-quality work clustered on disagreement-instruction patterns, so ask students to submit their prompts with a short rationale alongside the dataset or artifact.
+- **Instructors.** Make the AI output an input rather than the deliverable: across both quality groups prompting converged toward low-effort direct instruction over the four assignments, and high achievers accepted AI output with minimal critical engagement, so a task that can be completed by a single instruction invites the leveling this study documents.
+- **Learners.** Supply your own domain knowledge and constraints before asking for a result: the successful pattern was students contextualizing the request and specifying expected output instead of reacting to what the model returned, which also produced fewer disagreement turns.
+- **Designers.** Instrument the prompt stream, not just the final product, and treat prompting itself as [[ai-literacy]] content: co-occurrence network analysis over six coded categories gives a [[learning-analytics|learning analytics]] signal for [[cognitive-offloading|offloading]], and the reactive codes (disagreement, agreement) are the ones that mark it.
 
 ## Limitations
 
