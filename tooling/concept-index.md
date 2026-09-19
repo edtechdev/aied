@@ -195,7 +195,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`automated-essay-scoring`** — Automated Essay Scoring — phrases: AES; automated essay scoring; automated writing evaluation; automatic essay evaluation; awe; essay grading; essay scoring
 - **`automated-question-generation`** — Automated Question Generation — phrases: AI question generation; AQG; auto-generated questions; automated question generation; item generation; item writing; question generation
 - **`eportfolio`** — E-Portfolio — phrases: e-portfolio; eportfolio; portfolio; portfolio assessment; portfolios
-- **`evaluative-judgement`** — Evaluative Judgment — phrases: appraising quality; calibrating judgement; calibrating judgment; evaluative judgement; evaluative judgements; evaluative judgment; evaluative judgments
+- **`evaluative-judgment`** — Evaluative Judgment — phrases: appraising quality; calibrating judgement; calibrating judgment; evaluative judgement; evaluative judgements; evaluative judgment; evaluative judgments
 - **`feedback`** — Feedback — phrases: assessment feedback; feedback; feedback cycle; feedback loop; feedback loops; learner feedback
 - **`feedback-literacy`** — Feedback Literacy — phrases: feedback competency; feedback literacy; feedback skills
 - **`formative-assessment`** — Formative Assessment — phrases: assessment for learning; formative; formative assessment
@@ -317,6 +317,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - `confidence-aware-ai-assessment` → **`automated-assessment`**
 - `dual-process-theory` → **`critical-thinking`**
 - `engagement-metrics` → **`student-engagement`**
+- `evaluative-judgement` → **`evaluative-judgment`**
 - `faculty-development` → **`educational-development`**
 - `feedback-loop` → **`feedback`**
 - `gamification` → **`game-based-learning`**

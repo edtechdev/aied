@@ -141,7 +141,7 @@ export const FACET_VOCAB = {
     'automated-question-generation',
     'educational-measurement',
     'eportfolio',
-    'evaluative-judgement',
+    'evaluative-judgment',
     'feedback',
     'feedback-literacy',
     'formative-assessment',

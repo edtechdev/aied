@@ -25,3 +25,13 @@ Validated renaming `instructional-design`→`learning-design` and `faculty-devel
 
 ## Homepage links
 - If the concept appears in the homepage `index.astro` "essential concepts" prose list (both did this session), update BOTH `href` (`/aied/concepts/<new>`) and the visible label.
+
+## The slug lives in more places than the `concepts:` entry (2026-09-19)
+
+Renaming `evaluative-judgement` → `evaluative-judgment` surfaced three holders the earlier checklist missed. Sweep the whole registry, not just the concept block:
+
+- **`concepts.registry.yaml` holds the slug twice**: once as the `concepts:` key and once as an item in a `sections:` group. Rename the key and run `gen-concept-artifacts.py` — if the sections item is left stale the generated sidebar keeps the old slug and `check_concepts.py` reports the registry inconsistent.
+- **`journal.md` lists concept pages by slug** (`- 📘 [[evaluative-judgement]] — Evaluative Judgment`), so the rename touches the journal too, alongside `index.md`.
+- **The inline-link scanner's alias dictionary keys are slugs, not phrases**: change the KEY (`'old': [...]` → `'new': [...]`) in BOTH the repo and installed copies of `inline_link_scan.py`, and any `never_link`/REJECT entry that names the slug (e.g. `('assessment literacy', 'evaluative-judgement')`). Keep the alias phrases — they legitimately name the old term.
+
+Also worth knowing: when the change is only a spelling variant (not a synonym), do NOT add a "formerly *Old Term*" note to the lead blockquote — readers saw the same words before and after. Add the note only when the visible term itself changed.

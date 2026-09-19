@@ -6,7 +6,7 @@ type: article
 foundations: [critical-thinking, ai-literacy, cognitive-offloading, human-ai-collaboration, agency]
 pedagogy: [scaffolding, self-regulated-learning, metacognition, inquiry-based-learning]
 technology: [generative-ai, llm, conversational-ai, prompt-engineering]
-assessment: [evaluative-judgement, feedback, ai-feedback-quality]
+assessment: [evaluative-judgment, feedback, ai-feedback-quality]
 methods: [research-methods-aied, meta-analysis-systematic-review]
 stakeholders: [stakeholders, teacher-ai-competency, learners]
 institutions: [educational-policy-ai]

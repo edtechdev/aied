@@ -17,6 +17,7 @@ export const CONCEPT_REDIRECTS: Record<string, string> = {
   'confidence-aware-ai-assessment': 'automated-assessment',
   'dual-process-theory': 'critical-thinking',
   'engagement-metrics': 'student-engagement',
+  'evaluative-judgement': 'evaluative-judgment',
   'faculty-development': 'educational-development',
   'feedback-loop': 'feedback',
   'gamification': 'game-based-learning',

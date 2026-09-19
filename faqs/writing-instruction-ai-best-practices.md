@@ -3,7 +3,7 @@ title: "What Are Best Practices for Writing Instruction in the Context of AI?"
 created: "2026-09-12T08:13:03-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 foundations: [academic-integrity, cognitive-offloading]
-assessment: [ai-feedback-quality, assessment-validity, evaluative-judgement, feedback-literacy, peer-assessment]
+assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
