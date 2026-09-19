@@ -1,7 +1,7 @@
 ---
 title: "Pathways to Learning: Exploring High School Students' Learning of AI-Powered Educational Robotics"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-08-23T10:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 pedagogy: [constructivist, project-based-learning]
 technology: [educational-robotics]
@@ -54,6 +54,20 @@ This theme highlights **exploratory and expressive engagement** as a legitimate 
 This paper is a **significant contribution to the [[educational-robotics]] and [[project-based-learning]]** concepts. It provides one of the clearest empirical illustrations of **epistemological pluralism** in action: three distinct, legitimate ways that high school learners develop understanding of robotics and AI, grounded in [[constructivist]] theory. For the knowledge base's focus on [[ai-education]] and [[k-12]], it demonstrates a concrete, qualitative account of how students develop **critical AI understanding** through tangible ML experiences (training image-recognition models, reasoning about data quality and sensor limitations) — a valuable complement to the field's emphasis on attitudes and skills. The study also speaks to broadening participation in [[cs-education]] by legitimizing design, play, and real-world practice as alternative endpoints, relevant to [[student-engagement]], [[motivation]], and [[creativity]].
 
 Notably, the study is **qualitative** — it deliberately does not report quantified [[learning-gains|learning gains]], instead documenting how learning unfolds through diverse forms of engagement. This should not be read as evidence against learning gains from [[educational-robotics]], but as an account of the *pathways* through which such learning occurs.
+
+## What this means for practice
+
+- **Curriculum designers.** Treat designing, play, and real-world troubleshooting as legitimate endpoints in robotics and AI curricula, not stepping stones toward real coding.
+- **Instructors.** Build material variability (wheel calibration, battery level, lighting, surface reflectivity) into the curriculum as intended content, since it drove students' reasoning about sensor and data limits.
+- Give students room to personalize code and explore features beyond the assignment; one student's sensor experiment produced the insight that the robot can only sense, not see.
+- Extend robotics activities into explicit AI-literacy discussion, for example why background clutter and lighting degrade an image-recognition model.
+
+## Limitations
+
+- 15 high school students (12 male, 3 female) in a single public secondary school in the Midwestern United States; the authors describe the geographic and demographic context as limiting generalization.
+- Only three girls were included, so claims about broadening participation, especially for female students, are exploratory rather than generalizable.
+- The qualitative design (interviews, 31 hours of field notes, artifacts, final presentations) deliberately reports no quantified learning gains, documenting pathways rather than outcomes.
+- Findings come from the second year of one curriculum implementation, so patterns are situated in that program rather than representative.
 
 ## Connected Concepts
 

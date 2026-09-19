@@ -1,7 +1,7 @@
 ---
 title: "PsyScore: A Psychometrically-Aware Framework for Trait-Adaptive Essay Scoring and ZPD-Scaffolded Feedback"
 created: "2026-06-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [llm]
@@ -21,6 +21,16 @@ confidence: high
 - **[[ai-feedback-quality|Feedback quality]]:** ZPD-based strategy mapping (Explicit Correction for θ<-1, [[scaffolding|Scaffolding]] for -1<θ<1, [[socratic-method|Socratic]] for θ>1). Multi-agent fusion from Llama-4-Scout, Qwen3-235B, GPT-4o.
 - **Evaluation:** >90% win rate in Actionability vs GPT-4o, Llama-4-Scout, Qwen3.
 - **Implication:** [[psychometrically-aware-ai|psychometrically-aware AI]] can unify assessment and instruction, transforming [[automated-essay-scoring|automated essay scoring]] from [[summative-assessment|summative]] to [[formative-assessment|formative]].
+## What this means for practice
+- **Instructors.** Vary feedback strategy by diagnosed proficiency: give explicit correction below θ = −1, scaffolded hints between −1 and 1, and Socratic questioning above 1, rather than one style for the whole class.
+- **Instructors.** Return trait-level scores (Content, Organization, Conventions, Word Choice, Sentence Fluency, Voice) next to the holistic score so students get direction on the dimension that is actually weak.
+- **Designers.** Build the scoring layer on an interpretable IRT latent-ability estimate instead of an opaque regression head, so score and feedback share one ability representation.
+- **Researchers.** Judge generated feedback with both pairwise preference judgments and simulated student revisions, because surface fluency ratings and actionability diverge.
+## Limitations
+- Scoring results come from the ASAP++ benchmark (8 prompts, single 6:2:2 split with 20% held out), so the reported QWK of 0.747 is a benchmark figure rather than an estimate from live classroom writing.
+- Feedback quality was judged on a stratified sample of 400 essays (50 per prompt) and by a double-blind panel of only three senior education experts rating 80 essays.
+- The trait-adaptive scorer depends on fine-grained analytic labels (e.g., Voice, Organization) that the authors note are scarce in operational assessment settings, restricting it to corpora with trait annotations.
+- The ZPD scaffolding gains (a 17.38% normalized gain for θ < −1) were measured through simulated revisions; the authors state the protocol cannot model motivation, epistemic trust or cognitive fatigue, and no controlled classroom trial was run.
 ## Connected Concepts
 - [[automated-assessment]]
 - [[assessment-validity]]

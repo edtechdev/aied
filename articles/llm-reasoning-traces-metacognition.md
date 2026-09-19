@@ -1,7 +1,7 @@
 ---
 title: Explaining Too Much? Understanding How Large Language Model Reasoning Traces Influence Performance and Metacognition
 created: "2026-05-26T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -27,6 +27,18 @@ These findings have profound implications for [[intelligent-tutoring]] and [[bec
 
 ## Contrast with Assessment Governance
 While [[genai-assessment-governance|GenAI assessment governance]] focuses on *when* to allow AI in evaluation, this paper addresses *how* AI explanations affect learning — suggesting that even well-designed AI transparency features can backfire without metacognitive [[scaffolding]].
+
+## What this means for practice
+- **Instructors.** Ask students to write down their own approach or tentative answer while the model is generating, rather than exposing them to longer model reasoning traces; the format of the trace did not support calibrated self-evaluation.
+- **Designers.** Stop framing a visible reasoning trace as evidence that the answer is correct: participants overestimated their performance regardless of trace format, and summary traces raised trust and hedonic appeal without improving task performance.
+- **Designers.** Prefer contrastive explanations that expose divergences between the user's and the model's reasoning, which the qualitative data identify as the promising direction, over refinements to longer traces.
+- **Instructors.** Build a calibration step into AI-assisted tasks — have students predict their own score or confidence before seeing the result — because overestimation was universal across all trace conditions.
+
+## Limitations
+- The task was LSAT logical reasoning, which the authors note may not capture real-world reasoning and likely overlaps with the model's training data, though models were far from ceiling on the retained items (M = 5.00 out of 10).
+- Participants were 559 US-based, English-fluent Prolific respondents working on a desktop layout, so the sample is not representative of other populations or interface modalities.
+- The Full-trace condition was instantiated with gpt-oss-20b while answer-only and summary conditions used GPT-5, so the Full-trace impairment is conditioned on an open-weight verbose model, and Full-trace also revealed the answer only after the trace while summary showed trace and answer together, confounding trace content with the engagement requirement.
+- The ten-item battery is too small for signal-detection metacognitive indices such as meta-d' and M-ratio, and the design speaks to in-the-moment calibration rather than long-term learning or deskilling.
 
 ## Connected Concepts
 

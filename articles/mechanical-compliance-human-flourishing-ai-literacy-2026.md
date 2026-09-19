@@ -1,7 +1,7 @@
 ---
 title: "From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-08-24T09:10:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [critical-pedagogy]
@@ -32,9 +32,19 @@ To move beyond a mechanized approach, the review proposes a framework grounded i
 
 A socialist humanist approach must also address the material and social realities of the technology. Environmentally, AI development is an extractive process demanding significant electricity, water, and minerals, so sustainable AI requires rethinking algorithm efficiency and data-center design. Socially, the concept of "AIgemony" describes how AI reinforces corporate power asymmetries and hegemonic control through biased datasets and social narrative control, so literacy must encompass "green advocacy" and a critical understanding of "ghost work" — the often invisible human labor required to label data and maintain the illusion of seamless AI functionality. These concerns connect directly to [[equity-in-ai-education]] and the [[digital-divide]], and the review grounds its fair-use framing in the [[ethics|ethical]] and [[governance]] dimensions of asynchronous, self-paced AI education in [[higher-ed]].
 
-## Research Gaps and Implications
+## What this means for practice
 
-The review identifies four critical gaps for future research: frameworks that move beyond technical [[prompt-engineering|prompting]] to address social and environmental advocacy; programs that prioritize the psychological and emotional safety of learners; sustainable or "green" AI frameworks addressing the extractive nature of technology; and strategies for maintaining human agency in increasingly automated environments. The argument is that these gaps are not incidental shortcomings in the literature but precisely the dimensions left unaddressed when AI literacy is treated as a compliance exercise rather than a humanist practice. Each corresponds to a tenet of the proposed framework: Fromm's biophilic, growth-oriented engagement; Knowles' emphasis on learner autonomy and purpose; and Mezirow's call for transformative rather than [[adaptive-learning|adaptive learning]]. The conclusion is that institutions must resist treating AI literacy as a technical update or [[educational-policy-ai|policy]] addendum and instead understand it as a philosophical commitment placing human flourishing — neither efficiency nor compliance — at the center of education. This resonates with [[ai-education]] debates in [[critical-pedagogy|critical pedagogy]] and [[generative-ai]]-mediated learning about the purpose of [[ai-literacy]] in the academy.
+- **Instructors.** Ground [[ai-literacy]] in human flourishing rather than compliance: design for psychological and emotional safety so students can question and audit machine output instead of merely obeying it.
+- **Instructors.** Move past functional prompting to advocacy — teach AI's material costs, including data-center resource demands and the "ghost work" of invisible human labeling labor behind seamless interfaces.
+- **Instructors.** Cultivate Fromm's "being" mode over the "having" mode so students use AI as a collaborative partner rather than substituting it for their own judgment.
+- **Researchers.** Treat the review's four gaps — transcending functional training, psychological safety, sustainable implementation, and preserving human agency — as a testable agenda rather than settled findings.
+
+## Limitations
+
+- This is a literature review with no primary data collection; its humanist framework is synthesized from Fromm, Knowles, and Mezirow, so it can propose a conceptual bridge but cannot report an effect size for any AI literacy program.
+- The author's own limitations section identifies significant "opaque areas" and a lack of extensive longitudinal data on the efficacy of different AI literacy programs.
+- Scope is deliberately narrowed: the review does not explore socialist humanism as a political movement, the full breadth of adult learning theories, or specific AI literacy program efficacies.
+- No systematic search protocol or coding scheme is reported, and sources were identified partly through the Elicit research tool.
 
 ## Connected Concepts
 

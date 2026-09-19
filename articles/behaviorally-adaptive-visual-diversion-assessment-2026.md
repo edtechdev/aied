@@ -1,7 +1,7 @@
 ---
 title: Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [adaptive-learning]
@@ -21,6 +21,18 @@ Proposes BAVD, a theoretical framework for adaptive visual diversion in digital 
 ## Abstract
 
 Institutions increasingly rely on browser lockdown, webcam monitoring, and behavioral analytics to secure high-stakes digital assessments, yet these mechanisms are commonly designed and evaluated independently and often overlook learner accessibility. This paper introduces Behaviorally-Adaptive Visual Diversion (BAVD), a theoretical framework in which a synthetic, non-semantic visual field is composited with assessment content and adaptively modulated according to observed candidate behavior. The underlying assessment content is never altered; only its visual presentation is modified to reduce the usefulness of unauthorized screen capture or screen sharing while remaining minimally intrusive for legitimate candidates.
+
+## What this means for practice
+- **Designers.** Confine the adaptive layer to visual presentation: modulate a synthetic, non-semantic field and leave the question text, scoring and time allowance untouched.
+- **Designers.** Key the diversion field to a per-session secret so its resistance to capture rests on that key rather than on an adversary being unfamiliar with the construction.
+- **Administrators.** Require a registered visual-processing accommodation to be declared and wired into the attenuation path before deployment, and recognize that the temporal component only functions above the flicker-fusion frequency, which excludes the 60 Hz displays most candidates own.
+- **Researchers.** Treat the mechanism as unvalidated until thresholds, fidelity functions and learner trust are measured with real candidates; the paper states that none are.
+
+## Limitations
+- The paper is a formal model with no empirical evaluation: the thresholds, fidelity functions, Lipschitz constants of Equation (9b) and the decoy-amplitude masking ceiling are defined but none are measured, so the theoretical results show only that the mechanism is well posed under stated assumptions.
+- The temporal defense fails against a patient adversary: a camera exposure longer than the integration window of Equation (4a) recovers the content as the candidate sees it, leaving only the spatial decoys and attention cost.
+- The temporal argument requires refresh rates above the flicker-fusion frequency, so bring-your-own-device institutions would deploy the weaker spatial-only variant for most of the cohort, and display refresh rate correlates with what a candidate can afford.
+- The accommodation coefficient is treated as an institutionally declared input and the fidelity function as abstract; the authors state that confirming attenuated diversion reduces sensory burden, and whether learners trust or are anxious about a behaviorally-responsive security layer, needs dedicated human-subjects study.
 
 ## Connected Concepts
 

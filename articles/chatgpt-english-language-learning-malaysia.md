@@ -1,7 +1,7 @@
 ---
 title: "Students' experiences of using ChatGPT for English language learning: a qualitative study in a Malaysian higher education institution"
 created: "2026-08-23T08:07:04-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory]
 technology: [generative-ai, pedagogical-agent]
@@ -30,6 +30,20 @@ Students experienced autonomy as self-direction and control over how, when, and 
 ## Obstacles and the need for human complement
 
 The study also documented important limitations: ChatGPT sometimes produced inaccurate references, incorrect or illogical answers, and could not guarantee content accuracy, which reduced learner confidence and required extra effort to verify information. Participants also noted the lack of emotional connection and the risk of over-dependence on technology. Even so, learners recognized that ultimate responsibility for deciding how to use AI information rests with them, emphasizing [[critical-thinking|critical thinking]]. The authors conclude that ChatGPT serves as a [[scaffolding|scaffold]] rather than a substitute for an instructor — educators should acknowledge its limitations, help students distinguish appropriate from inaccurate use, and pair ChatGPT interactions with human interaction and emotional comprehension.
+
+## What this means for practice
+
+- **Instructors.** Treat ChatGPT as a [[scaffolding|scaffold]] rather than a substitute, since students reported that inaccurate references and unverifiable answers undermined confidence and demanded extra verification effort.
+- Teach students to distinguish appropriate from inaccurate AI use before assigning AI-mediated tasks; participants retained final responsibility for judging information.
+- Pair AI-mediated practice with human interaction, because participants reported an absence of emotional connection and a risk of over-dependence.
+- Use judgment-free rehearsal deliberately, as students attributed gains in fluency, pronunciation, and confidence to low-stakes conversational practice.
+
+## Limitations
+
+- Qualitative thematic study of 25 purposively sampled undergraduates at a single Malaysian higher education institution; the authors state transferability depends on similar learner characteristics and institutional context.
+- Participants were all Band 2/3 on the Malaysian University English Test and had used ChatGPT for at least five months, so the findings reflect relatively experienced, intermediate-proficiency users.
+- Data come from 30-45 minute interviews conducted over a single academic semester, which cannot capture how perceptions and AI use evolve over time.
+- The researchers held dual instructor-investigator roles; the authors acknowledge their interpretive position shapes the findings despite member checking and peer debriefing.
 
 ## Connected Concepts
 

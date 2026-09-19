@@ -1,7 +1,7 @@
 ---
 title: "Automatic discourse relation classification and feedback optimization in English teaching based on transformer BERT model"
 created: "2026-08-23T15:00:00-04:00"
-updated: "2026-08-23T15:00:00-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [automated-assessment, feedback, formative-assessment]
@@ -42,9 +42,19 @@ Feedback generation retrieves semantically similar high-scoring fragments (Sente
 - Feedback: adoption 71.2%–88.4%, Ref-BLEU-4 6.5%–12.3%, teacher ratings ≈3.42–4.21/5 — exceeding all baselines and state-of-the-art coherence models (CoUDA, DiscoScore, GCN-Coherence).
 - Deployment: ~521ms latency and ~989MB peak memory per essay on a CPU-only Intel i7-11800H, enabling GPU-free teaching terminals.
 
-## Limitations and Transferability
+## What this means for practice
 
-The corpus is Chinese English-learner data, but the framework — BERT fine-tuning, attention localization, knowledge-graph feedback — is claimed to transfer to other second-language writing contexts with corpus and rule-base replacement. Attention weights are used as an auxiliary heuristic for breakpoint localization, not as a faithful explanation of model predictions.
+- **Assessment designers.** Replace surface-feature scoring with sentence-pair discourse-relation classification; the fine-tuned model reached a mean F1 of at least 0.891 and accuracy of at least 0.902 on long essays.
+- **Instructors.** Deliver localized breakpoint reports instead of a global score so students see which sentence pair breaks coherence; teacher-judged adoption of the generated [[feedback]] ranged from 71.2% to 88.4%.
+- **Software developers.** Plan for CPU-only deployment: the system ran at roughly 521ms latency and 989MB peak memory per essay on an Intel i7-11800H.
+- Weight the loss function when the incoherent class is rare; weighted cross-entropy raised that class's F1 from about 0.31 to 0.78.
+
+## Limitations
+
+- The corpus is Chinese English-learner data (1,024 essays, 28,736 sentence pairs); transfer to other second-language writing contexts is asserted rather than demonstrated and would require replacing the corpus and rule base.
+- Attention weights served only as an auxiliary localization heuristic, not as a faithful explanation of the model's predictions, so the mechanism should not be read as interpretable.
+- Feedback was evaluated through teacher adoption ratings and reference-based metrics rather than measured student revision gains, leaving the instructional payoff untested.
+- Referential ambiguity in narrative essays was the hardest case, where the approach's performance dropped most sharply.
 
 ## Connected Concepts
 

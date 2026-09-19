@@ -1,7 +1,7 @@
 ---
 title: "Governing generative AI in higher education: a global Delphi study on policy and practice"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, human-in-the-loop-ai]
@@ -37,6 +37,19 @@ A six-part review mechanism ensures policies remain current as GenAI evolves: a 
 ## Relevance to the knowledge base
 
 This paper provides the knowledge base's most authoritative, globally consensus-driven account of [[governance]] and [[educational-policy-ai]] for [[generative-ai]] in [[higher-ed]], offering a concrete blueprint that connects [[academic-integrity]], [[ethics]], [[privacy]], and [[ai-literacy]]. Its insistence on [[human-in-the-loop-ai|human oversight]] directly informs the knowledge base's treatment of human [[agency]] and accountability, while the [[equity-in-ai-education|equity]] dimension speaks to the knowledge base's concern with fair and inclusive adoption. For practitioners, the eight-area framework and six-part review mechanism are actionable templates for institutional policy design.
+
+## What this means for practice
+
+- **Administrators.** Build governance around the eight consensus areas, academic integrity, ethical use, privacy, equitable access, GenAI literacy, integration strategy, human oversight, and institutional support, rather than issuing a standalone integrity rule.
+- Establish a standing multidisciplinary GenAI committee and scheduled policy review cycles; each was recommended by more than half the panel.
+- Keep a human in the loop: half the panel insisted that significant GenAI outputs be reviewed and validated by a person, with accountability never abdicated to an algorithm.
+- Prefer process-focused and oral assessments that evaluate higher-order skills over outputs a model could readily generate.
+
+## Limitations
+
+- Delphi consensus from 35 panelists (of 41 invited) representing 22 countries across six continents; consensus reflects expert judgment rather than measured institutional outcomes.
+- Students, policymakers, employers, and technology developers were not directly represented on the panel.
+- The framework deliberately omits specific policies and guidelines, which the authors judged would quickly become obsolete; it defines competencies and processes, not operational rules.
 
 ## Connected Concepts
 

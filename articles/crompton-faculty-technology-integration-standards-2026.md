@@ -1,7 +1,7 @@
 ---
 title: "Designing faculty standards for technology integration in higher education institutions: a design-based research study"
 created: "2026-08-23T14:00:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [pedagogy]
@@ -44,6 +44,19 @@ The study responds to calls from scholars, organizations, and institutions to ad
 ## Relevance to the Knowledge Base
 
 This article is central to the knowledge base's [[educational-development]] and [[teacher-role]] clusters. It provides a concrete, evidence-based framework for how institutions can benchmark and support faculty technology integration across teaching, research, and service, and it connects to [[learning-design]], [[curriculum-design]], and institutional [[governance]]/accreditation. It also complements [[ai-literacy]] by framing technology competence as a structured, standards-based institutional concern rather than an individual add-on.
+
+## What this means for practice
+
+- **Faculty developers.** Adopt the six standards, Instructor, Coordinator, Leader, Researcher, Learner, and Contributor, as shared language that covers service and research, not only teaching.
+- **Administrators.** Use the indicators to align [[educational-development]], institutional planning, and accreditation instead of importing K-12 frameworks such as ISTE, UNESCO, or DigCompEdu wholesale.
+- **Instructors.** Match technology expectations to the full faculty role of teaching, research, and service rather than treating integration as a classroom-only competency.
+
+## Limitations
+
+- Design-based research across two macro cycles with 114 participants; the framework is a designed artifact refined iteratively, not a population-estimate study.
+- Participants were drawn largely from US faculty (28 institutions across five Carnegie types) plus international faculty from 11 countries, and the authors advise adopters to consider local contexts.
+- The authors state that cultural and institutional nuances in how faculty roles are understood were only partially addressed, so testing across more countries is needed.
+- The study establishes consensus and iteration rather than downstream effects; the authors call for design-based studies testing certificate programs built on the standards.
 
 ## Connected Concepts
 

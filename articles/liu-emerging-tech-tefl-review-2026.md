@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Review of Emerging Technology Applications for Teaching English as a Foreign Language Across Different Educational Levels"
 created: "2026-08-24T12:36:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [generative-ai, simulation]
 research_method: [systematic review, meta-analysis]
@@ -28,6 +28,20 @@ The overall effect is small-to-moderate (g = 0.38) with substantial heterogeneit
 - **VR/AR yielded the largest effects** among technology types.
 - **Productive skills (speaking, writing) showed greater gains** than receptive skills (reading, listening); vocabulary and grammar also improved significantly.
 - Tertiary effects likely reflect greater learner autonomy and more sophisticated technological infrastructure.
+
+## What this means for practice
+
+- **Teachers.** Select technology against the five practices this review synthesized — personalization, authentic contexts, collaborative learning, multimodal integration, and cultural responsiveness — rather than against novelty.
+- **Teachers.** Weight [[language-learning|language learning]] technology toward production: productive skills (speaking and writing) gained more than receptive skills (reading and listening), and vocabulary and grammar also improved significantly.
+- **Instructional designers.** Scaffold more for younger learners: effects rose with educational level (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), reflecting younger students' greater need for adaptation support.
+- **Instructional designers.** Plan for the implementation barriers this review documented — infrastructure gaps, hardware and licensing costs, and insufficient teacher technological pedagogical training — not just the technology itself.
+
+## Limitations
+
+- The meta-analysis covers 33 experimental and quasi-experimental studies (N = 3,181) from 2015–2024, with heterogeneity so high (I² = 90.14%) that individual effects ranged from g = −0.42 to g = 1.76.
+- Publication bias was detected (Egger's t = 3.72, df = 31, p = 0.001), and trim-and-fill reduced the pooled estimate from g = 0.38 to g = 0.28; none of the included studies were pre-registered.
+- Inclusion was restricted to peer-reviewed English-language journal articles in three databases, which may have excluded relevant non-English or non-journal studies.
+- Interventions ranged from 2 to 32 weeks and outcome measures varied widely, leaving the durability of the gains uncertain.
 
 ## Connected Concepts
 
