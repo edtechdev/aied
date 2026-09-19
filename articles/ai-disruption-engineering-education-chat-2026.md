@@ -1,7 +1,7 @@
 ---
 title: "The AI disruption in engineering education: an analysis of changing student norms through cultural historical activity"
 created: "2026-08-26T08:13:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]
@@ -26,9 +26,20 @@ page_kind: [framework]
 - **Contradictions as the driver.** Norm changes are driven by contradictions between traditional academic tools/practices and new expectations for self-directed, AI-mediated learning. CHAT conceptualizes these as systematic tensions that prompt individuals to question and deviate from established norms.
 - **A relational view of norms.** Norms are treated as historically and culturally embedded implicit rules of the activity system, not individual preferences — reframing student GenAI use as a systemic, norm-shifting phenomenon.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study applies [[activity-theory-aied|CHAT]] to show that student GenAI use is not merely a behavioral choice but a transformation of the norms and rules of the academic activity system. For practice, it implies instructors must recognize and explicitly negotiate new implicit norms around self-direction, learning objectives, teacher role, and ethics rather than assuming traditional norms still hold. It connects to the knowledge base's [[engineering-education]], [[student-experience]], [[teacher-role]], and [[ethics]] concepts, and to the wider [[generative-ai|GenAI]] disruption literature.
+- **Instructors.** Assign tasks that resist easy generalization and demand meaningful learning, since students' new implicit rules treat generalizable work as legitimate territory for [[generative-ai|GenAI]]; the authors single this out as the mitigation for misuse risk.
+- **Instructors.** Make the new norms explicit rather than assuming traditional ones still hold: negotiate with students what self-direction, learning objectives, the teacher's role, and ethical use now mean in this course.
+- **Instructors.** Protect the interaction that GenAI displaces — students reported turning to it instead of their teachers for generalizable tasks — by building in checkpoints where questions have to reach a person.
+- **Learners.** Expect to be assessed on understanding rather than output, and check with the course what counts as acceptable GenAI use; the students in this study were writing their own informal rules precisely because formal ones were unclear.
+- **Faculty developers.** Support staff to meet the new expectations students bring, because the contradiction driving norm change includes teachers' limited capacity to respond to more frequent, self-directed support demands.
+
+## Limitations
+
+- The study draws on qualitative interviews with 25 engineering students at a single Northern European technical university, and only the student perspective is represented — educators, program heads and educational administrators were not interviewed, and the authors state the findings may not fully translate to other contexts.
+- It captures perceptions, not learning: because GenAI was used informally and outside institutional design, the authors state they cannot determine whether students' learning was actually enhanced.
+- The theoretical frame is bounded: [[activity-theory-aied|CHAT]] offers no conceptual tools for explaining why students select one tool over another, and the analysis did not examine cases where implicit and formal rules align.
+- The temporal scope is a snapshot, so behaviors and tensions may shift quickly as AI tools develop.
 
 ## Connected Concepts
 - [[activity-theory-aied]]

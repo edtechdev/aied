@@ -1,7 +1,7 @@
 ---
 title: "AI-mediated cognitive divergence in built-environment education: Evidence from a mixed-methods study"
 created: "2026-08-23T15:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, critical-thinking]
 technology: [generative-ai, llm]
@@ -35,9 +35,20 @@ Pairwise OLS regression across 595 item pairs (FDR-corrected) and a multivariate
 
 Faculty responded with four overlapping strategies: **[[assessment]] redesign** (open-ended tasks requiring problem definition, oral questioning, voice-over explanations, industry-linked briefs); **process enforcement and visibility** (intermediate submissions, hand-drawn diagrams, individual presentations within group work); **deliberate friction and deautomation** (time-constrained exercises, incomplete models requiring debugging, staged workflows); and **reframing AI use as a scaffold** (structured multi-step workflows where students evaluate, revise, and justify AI outputs). None is scalable under standard teaching conditions: effective interventions require sustained instructor observation and small cohorts, viable in studios but not across lecture cohorts of 70–140 students. This scale problem argues for institutionalizing process-visible assessment as a structural requirement rather than an individual workaround — for example, a minimum process-evidence requirement for AI-permitted assignments and a standard AI-use declaration recording tools, prompts, and what was accepted, rejected, or reworked and why.
 
-## Implications for Pedagogy and Analytics
+## What this means for practice
 
-Effective AI integration in design education requires differentiation by course epistemology and student preparation level, with foundational preparation treated as a precondition for productive AI use: conceptual [[ai-literacy|AI literacy]] and shared technical foundations belong early in the [[curriculum-design|curriculum]], while access to AI automation in formative coursework may warrant restriction until core habits of reading, [[writing-education|writing]], and iterative manual design are established. Process-visible assessment formats also produce durable traces that both restore the evidential basis of assessment and create the data infrastructure that process-level [[learning-analytics]] requires, allowing institutions to detect early signals of cognitive divergence before it consolidates. The study is limited by its n = 32 survey, single-institution context, and reliance on faculty perception rather than direct measures of student cognition.
+- **Instructors.** Differentiate AI integration by course epistemology as well as by student preparation: where a course's intended outcome is argumentation or critical reading, fluent AI-assisted prose can simulate the outcome rather than achieve it.
+- Treat conceptual [[ai-literacy]] and shared technical foundations as a precondition for productive AI use, and place them early in the [[curriculum-design|curriculum]] rather than alongside advanced AI work.
+- Restrict AI automation in formative coursework until core habits of reading, [[writing-education|writing]], and iterative manual design are established, and rebuild [[desirable-difficulties|productive friction]] deliberately through time-constrained exercises, incomplete models that require debugging, and staged workflows where students evaluate, revise, and justify AI output.
+- **Administrators.** Treat process-visible [[assessment]] formats as data infrastructure, not only as assessment reform: intermediate submissions, hand-drawn diagrams, and oral questioning restore the evidential basis of grading and generate the traces that process-level [[learning-analytics]] needs to catch cognitive divergence early.
+- **Faculty developers.** Coach faculty to read their own course designs for alignment gaps, because the study found that perceived pedagogical relevance, not seniority, drives AI adoption, and theory-oriented courses are where tool and outcome are most likely to mismatch.
+
+## Limitations
+
+- The survey's n = 32 sets five predictors against only 26 residual degrees of freedom, and the authors caution that the adjusted R² of 0.346 should be read as indicating structural patterns rather than precise effect estimates.
+- Participants were self-selected into a conversation about AI and pedagogy: the authors note that the qualitative and deliberative strands draw on faculty "already actively engaged with questions of AI and pedagogy," so these accounts likely reflect more adaptive and reflective orientations than a random faculty cross-section.
+- Student learning is characterized entirely through faculty perception — an absence of student voice the authors name explicitly — with no student interviews, portfolio analysis, or task-based measures of cognitive engagement.
+- It is one built-environment faculty at a single research-intensive university in Hong Kong (24 interviews, 32 survey respondents, five clustered discussions with 31 participants), so whether the amplification mechanism and the scalability constraints hold across other disciplines, resources, and governance cultures is untested.
 
 ## Connected Concepts
 

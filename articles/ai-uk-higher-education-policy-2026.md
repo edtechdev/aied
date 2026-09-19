@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in UK Higher Educational Policy and Institutional Decision Making"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 ethics: [equity-in-ai-education, ethics]
 stakeholders: [administrator]
@@ -45,13 +45,20 @@ The proposed layered, inclusive framework links national policy, institutional i
 
 The review identifies ethics, equity exclusion, and learner efficacy as central policy concerns. It highlights critical gaps in fairness auditing and inclusive design, warning that AI systems may maintain or strengthen existing structural inequalities if not deliberately governed. Because student consultation on AI policy occurs in only a minority of institutions, the review warns that policy risks becoming technocratic and eroding [[trust]] and adoption. This aligns with the broader [[ethics|ethical]] concerns in the corpus about responsible and human-centered AI deployment in [[higher-ed|higher education]].
 
-## Implications
+## What this means for practice
 
-This review speaks directly to [[educational-policy-ai]] and [[governance]], showing how national policy intent can outpace institutional capacity in [[higher-ed]]. The documented gap between teaching-led and research-intensive institutions underscores [[equity-in-ai-education]] concerns and the risk that AI benefits accrue unevenly across the sector.
+- **Administrators.** Build participatory governance instead of aspirational strategy documents: student consultation on AI policy occurred in only a minority of institutions, and the review warns that policy risks becoming technocratic and eroding [[trust]] and adoption.
+- **Administrators.** Audit readiness against every layer of the proposed framework — national policy, digital infrastructure and capacity, [[curriculum-design|curriculum]] and [[assessment]] design, the cross-cutting ethics, equity, and [[inclusive-learning|inclusion]] layer, and stakeholder participation — rather than treating AI strategy as one planning document.
+- **Administrators.** Weight infrastructure and staff preparedness over strategy text: only a minority of UK institutions maintain official AI governance plans, and investment and training are concentrated in research-intensive institutions while teaching-led institutions face capacity constraints that widen [[equity-in-ai-education|equity]] gaps.
+- **Administrators.** Fund fairness auditing and inclusive design explicitly to protect disabled and [[neurodiversity|neurodivergent]] learners, since the review finds gaps in both and warns that AI systems may maintain or strengthen structural inequalities without deliberate governance.
+- **Administrators.** Run scenario planning and strategic foresight as the base layer of the framework, using it to assess readiness and build resilience against algorithmic failure or ethical breach.
 
-For administrators and [[educational-policy-ai]]-makers, the findings argue for participatory governance and infrastructure investment rather than purely aspirational strategy documents. The proposed layered framework connecting national policy, institutional infrastructure, and governance offers a concrete model for closing the ambition-capacity gap.
+## Limitations
 
-The review also connects to broader debates about [[ethics]] and learner efficacy in AI adoption, and to [[governance]] and technology-adoption dynamics in universities, resonating with the concept of [[dot-framework-survey-2026]] on digital transformation readiness.
+- The review synthesizes more than seventy sources — peer-reviewed studies, gray literature, theoretical models, and policy reports — with no primary data collection, so it can describe the policy landscape but cannot test institutional outcomes.
+- Its database search ran March–May 2025 and covered publications from 2018 to 2025, a frozen snapshot of an area the paper itself describes as fast-moving and uneven.
+- The PRISMA 2020 procedure was not preregistered on PROSPERO or an equivalent platform, and coding was manual by a single author, so no independent second coder or inter-rater reliability estimate is reported.
+- Because it is confined to UK higher education and to documentary sources, the review documents the ambition-capacity gap and the Russell Group/post-92 divide without quantifying the effect of any governance intervention.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes"
 created: "2026-07-30T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding]
@@ -22,6 +22,21 @@ page_kind: [framework]
 **Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
 
 This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+
+## What this means for practice
+
+- **Learners.** Bring a chatbot to the point where you feel least competent rather than expecting it to meet every need: students rated relief from competence frustration highest (M = 3.02 on a 5-point scale) and support for relatedness lowest (M = 2.52).
+- **Instructors.** Screen for attention difficulties before assuming an AI tool will help equally. Inattention moderated how baseline competence frustration and autonomy translated into perceived benefits, and baseline motivation states predicted outcomes more strongly than demographics did.
+- **Instructors.** Target the courses where competence frustration runs high instead of offering generic AI access — the model found baseline competence frustration, autonomy, personal agency, and inattention shaped perceived benefit, not age, gender, race, or year of study.
+- **Designers.** Instrument tools for mechanism-level data: in-process telemetry on attention and need states lets an assistant adapt to the specific need a student is short on rather than to a general "AI benefit" score.
+- **Administrators.** Distinguish needs-aware support from chatbot access. These engineering students overwhelmingly used general chatbots (90.4%) and far less adaptive learning platforms (14.0%) or AI-powered tutoring (6.1%), so availability is not the same as fit.
+
+## Limitations
+
+- The outcomes are self-reported perceptions of AI benefit, not measured learning or need satisfaction: the survey asked students about perceived improvements with a specific tool in their major, so it cannot show that AI relieved competence frustration.
+- The analytic sample is 206 engineering students who frequently used AI chatbots, drawn from 228 respondents to a single survey at one large public research university during the last three weeks of a ten-week spring 2025 quarter; most were male (67.5%), Asian (61.7%), and juniors (41.3%), with 78.6% in electrical and computer engineering.
+- The measurement structure did not hold as designed: self-regulated learning and self-efficacy items loaded on a single "personal agency" factor, one self-regulated learning item was dropped for conceptual incoherence, one competence item was removed for a weak .38 loading, and the self-report scales (three items each for autonomy, relatedness, and perceived needs) are brief.
+- The design is cross-sectional, with no comparison condition and no follow-up, so it cannot establish that AI use produced the reported need states; the authors present the results as insights for formulating design principles rather than evidence of effect.
 
 ## Connected Concepts
 

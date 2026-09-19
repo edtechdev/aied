@@ -1,7 +1,7 @@
 ---
 title: "It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction"
 created: "2026-08-17T09:55:00-04:00"
-updated: "2026-08-17T09:55:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -49,12 +49,20 @@ The framework is illustrated with an introductory kinematics investigation: stud
 
 AIRIS is presented as a classroom-level response to the boiling frog problem: it prevents the hollowing-out of epistemic engagement by making prediction, evaluation, and reflection non-delegable components of every task. The authors connect this to the German [[ethics]] Council's warning against AI use that degrades learner competencies, and to evidence of "[[metacognition|metacognitive]] laziness" and uncritical acceptance of AI output. They stress that AIRIS is a design proposal, not yet an empirically validated intervention, and identify the decisive open question as the **withdrawal condition**: whether students who complete AIRIS-structured tasks retain the capacity to generate, evaluate, and coordinate representations when AI support is removed — a question that requires comparing AI-supported versus AI-withdrawn performance at scale.
 
-## Implications for AI in education
+## What this means for practice
 
-- **Design the task, not just the tool:** whether AI augments or displaces learning depends on how the task structures cognitive work around AI use.
-- **Make higher-order operations non-delegable:** prediction, interpretation, and evaluation should remain the student's responsibility, while procedural computation can be delegated.
-- **Use inquiry cycles as the container:** AIRIS shows how existing [[pedagogy|pedagogies]] can be adapted to AI rather than replaced.
-- **Test the withdrawal condition:** durable competence, not scaffolded performance, is the standard for whether AI-augmented designs succeed — the same logic that motivates assessment of unassisted transfer in the [[halani-designing-for-reach-2026|Reach framework]].
+- **Instructors.** Open every AI-supported investigation with prediction: have students sketch expected a-t, v-t, and s-t diagrams, identify variables, and estimate magnitudes before any tool is opened, so they hold a reference point against which AI output can be judged.
+- **Instructors.** Delegate only procedural work during the AI phase — numerical integration, generating a standard plot — and require students to compare the output against their own predictions, annotate discrepancies, and interrogate choices such as fitting ranges or smoothing.
+- **Instructors.** Close the task with an explicit accounting: a written reflection on what the AI contributed and what remained the student's, cross-representation consistency checks, and diagnosis of sensor offset, noise, and drift.
+- **Designers.** Treat prediction, interpretation, and evaluation as non-delegable in the task structure, and adapt existing inquiry cycles (5E, Predict–Observe–Explain) rather than replacing them — AIRIS is an extension of those formats, not a new pedagogy.
+- **Administrators.** Fund the teacher capability the framework assumes: selecting tasks that require genuine [[prior-knowledge]] activation, monitoring whether students critically compare AI output, and designing tasks that resist AI completion. The authors note current teacher preparation programs have not systematically addressed these competencies.
+
+## Limitations
+
+- AIRIS is presented by its authors as a design proposal grounded in learning-science principles, not an empirically validated intervention; the decisive test — whether students still generate, evaluate, and coordinate representations once AI support is withdrawn — has not been run.
+- The framework is illustrated with a single kinematics investigation using smartphone acceleration data from an elevator ride. The authors assert the same structure applies to a bouncing ball, rolling cylinder, and pendulum without testing any of those cases.
+- The motivating evidence comes from other work rather than this paper: foundation models solving introductory physics at expert level, documented metacognitive laziness, and the German [[ethics]] Council's warning about competence loss are cited as context, not measured here.
+- Teacher capacity is an assumption rather than a result — the framework depends on teachers who can anticipate plausible AI errors and design AI-resistant tasks, and the paper states that preparation programs have not yet systematically built those skills.
 
 ## Connected Concepts
 

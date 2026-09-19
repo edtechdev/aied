@@ -1,7 +1,7 @@
 ---
 title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [pedagogy, scaffolding]
@@ -60,6 +60,21 @@ These are not resolvable by more information or better tools — they require di
 - Are there discipline-specific differences in the content of orientations (physics vs. [[chemistry-education|chemistry]] vs. [[biology-education|biology]])?
 - Can faculty development interventions shift orientation, or is it a stable trait?
 - How does orientation relate to actual classroom practice (not just self-reported use)?
+
+## What this means for practice
+
+- **Instructors.** State where AI belongs in your discipline's thinking before adopting any tool: write down which tasks students should still do unaided and which AI can scaffold, then let that stance drive course decisions. AI [[pedagogy|pedagogical]] orientation — not sentiment, access, or institutional support — was the strongest predictor of use.
+- **Faculty developers.** Replace tool-training workshops with disciplinary conversations about what AI means for knowledge production. Institutional initiatives showed weak association with use, while orientation strongly predicted research use (odds ratio 5.00), teaching use (4.26), and other professional use (2.80).
+- **Administrators.** Invest in department-level peer networks rather than central initiatives alone: 64% of respondents named department colleagues as a top AI information source, and the 58 who reported institutional strategic initiatives still showed little relationship between those initiatives and their AI use.
+- **Instructors.** Make verification a graded part of AI-supported work — one respondent had students "look for inaccuracies in the LLMs" — to counter the risk of what another called "overconfident incorrectness."
+- **Researchers.** Treat orientation as a measurable construct rather than a proxy for enthusiasm: the nine-item AI pedagogical orientation factor predicted use across all three domains measured.
+
+## Limitations
+
+- The sample is 90 STEM faculty drawn from 572 RCSA Cottrell awardees, a 16% response rate; the authors call the overall sample size modest and note the population is not representative of STEM faculty generally, since contemporary pedagogical practices are more common in this group than among faculty at large.
+- All data are self-reported from a single Fall 2025 survey, so the authors cannot show that orientation actually shapes classroom practice and call for direct observation of AI-supported teaching and student reasoning.
+- The results are a snapshot of a fast-moving technology: the authors note that AI tools and institutional initiatives have moved on since data collection, so the weak role of institutional context may not hold as adoption becomes more widespread and formally supported.
+- The exploratory factor analysis ran 36 variables against n = 90, and the authors report poor model fit in initial solutions that required iterative removal of low-communality items before the single dominant factor stabilized.
 
 ## Connected Concepts
 

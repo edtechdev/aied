@@ -1,7 +1,7 @@
 ---
 title: "AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes"
 created: "2026-09-05T00:10:31-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, learning-design]
 pedagogy: [online-teaching-and-learning]

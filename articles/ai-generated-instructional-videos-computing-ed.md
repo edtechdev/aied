@@ -1,7 +1,7 @@
 ---
 title: Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [generative-ai]
 stakeholders: [student-experience]
@@ -28,9 +28,20 @@ page_kind: [evaluation]
 
 The study addresses a gap in computing education research, which has focused largely on text-based AI tools for developing learning resources even as advances in AI video models make high-quality personalized videos feasible. Using a descriptive post-test survey design, the [[research-methods-aied|researchers]] recruited 170 computing students across two U.S. institutions. Participants watched three three-minute AI-generated videos on Markdown and completed a survey covering both perceptions of those videos and broader views on AI-generated videos in education. Outcomes were analyzed descriptively, with attention to whether students could detect AI authorship and how stated preferences varied by use case.
 
-## Implications for AI in Education
+## What this means for practice
 
-The results give computing instructors an evidence base for purposeful use: AI-generated video is acceptable for targeted, supplementary, visually oriented content, but students remain wary of it replacing instructor interaction or carrying high-stakes, accuracy-sensitive instruction. The fact that nearly half of students could not detect AI authorship, alongside concerns about inaccurate content, underscores the need for transparency and review workflows in which instructors validate AI-produced media. The preference for a hybrid model — AI-generated drafts refined by instructors — aligns with [[learning-design]] principles that treat generative tools as augmentations of, rather than replacements for, the instructor's role in [[cs-education]], and it connects to broader questions of [[student-experience]] and trust in [[generative-ai]] learning resources.
+- **Instructors.** Restrict AI-generated video to simple, supplementary, visually oriented content and keep instructor-led interaction in place: students rated the three Markdown videos as high-quality, accurate, and usable, yet 26 students (16% of the coded responses) argued against replacing instructor-led lectures outright.
+- **Instructors.** Add a human validation step before publishing any AI-produced video; nearly half of the 170 students could not determine that the videos were AI-generated, so undetected inaccuracies would not be challenged by viewers.
+- **Instructors.** Disclose AI authorship and pair it with demonstrated quality — the study's own contrast between positive video ratings and limited comfort with classroom adoption points to transparency as the way to preserve [[student-experience|student]] trust in [[generative-ai]] resources.
+- **Designers.** Adopt the hybrid production workflow students preferred: AI generates draft media that the instructor reviews and refines, treating the tool as an augmentation of the instructor's role in [[cs-education]] rather than a replacement.
+- **Researchers.** Test AI videos with less experienced learners before generalizing; participants were enrolled in higher-level CS courses and were already fluent in technical notation.
+
+## Limitations
+
+- **Descriptive post-test survey with no comparison condition:** 170 consenting students (143 at institution 1, 27 at institution 2) watched three 3-minute videos and reported perceptions afterward, so the design cannot show the videos were more effective than other instructional materials.
+- **The knowledge measure was brief and incidental:** the 86% average on the five-question post-survey Markdown quiz reflects immediate acquisition only, not retention or transfer.
+- **Easy content, experienced learners:** the stimulus covered Markdown in three-minute clips and most participants reported little or no prior Markdown familiarity but came from higher-level CS courses, limiting generalization to novices and to more complex content.
+- **Qualitative coding is open to multiple interpretations:** the authors report their coding process and representative quotes rather than an inter-rater reliability statistic.
 
 ## Connected Concepts
 

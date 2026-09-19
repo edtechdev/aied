@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in vocational education and training: A systematic review of educational purposes, theoretical conceptualizations, and empirical effectiveness"
 created: "2026-08-01T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [constructivist]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, simulation]
@@ -38,9 +38,13 @@ This is a PRISMA-guided systematic review of 26 empirical studies (2015–2026) 
 
 The review documents a notable paradox: constructivist theories are espoused in VET discourse while behaviorist AI implementations dominate in practice. The authors warn against an educational "Turing Trap" — the danger of using AI to replicate human instruction rather than to augment [[human-in-the-loop-ai|human judgment]]. Realizing the transformative potential of AI in VET, they argue, requires learning environments that augment human judgment, strengthen learner agency, and support teachers, rather than systems that merely automate existing instructional patterns.
 
-## Implications for AI in Education
+## What this means for practice
 
-For educators and developers, the review offers a map of what the evidence currently supports: XR for procedural and practical skills, ITS for declarative and procedural knowledge, and chatbots for self-regulation support — with the most consistent benefits emerging when AI augments authentic, practice-proximal environments, especially [[intelligent-tutoring]]-style [[simulation|simulations]] in technical domains. The scarcity of randomized experiments flags the need for stronger causal designs, and the dominance of drill-and-practice implementations suggests that [[professional-training]] contexts are under-serving the learner-agency goals that VET espouses; delayed post-tests, objective performance-based assessments, and analyses of transfer to workplace contexts are largely absent from the literature. The Turing Trap framing connects directly to [[research-methods-aied]] debates and to [[constructivist]] design commitments, and the call for reporting failure cases is a useful corrective to the field's prevailing success narrative — while the heavy reliance on self-report for [[self-regulated-learning]] outcomes should temper claims about chatbots' regulatory effects.
+- **Researchers.** Study AI where VET actually happens — none of the 26 included studies was conducted in a workplace setting despite VET's work-based character. Add delayed post-tests, objective performance measures, and checks of transfer to job tasks instead of immediate self-report after the intervention.
+- **Administrators.** Demand stronger causal designs before scaling: only 5 of the 26 studies were randomized experiments, while 21 relied on pre-experimental or quasi-experimental designs.
+- **Instructors.** Match the tool to the learning goal the corpus actually supports — intelligent [[virtual-and-augmented-reality|XR]] for procedural and practical skills, [[intelligent-tutoring|intelligent tutoring systems]] for declarative and procedural knowledge, and chatbots for [[self-regulated-learning|self-regulation]] support — and prioritize [[simulation]] and authentic, practice-proximal environments.
+- **Designers.** Build systems that grant learners an active role rather than automating existing instruction. Only 3 of the 26 studies supported AI-empowered designs, and the authors warn of an educational "Turing Trap" when AI replicates a teacher instead of augmenting [[agency|learner agency]] and [[human-in-the-loop-ai|human judgment]].
+- **Researchers.** Report failure cases, contextual moderators, and boundary conditions; the current corpus is dominated by a generalized success narrative that makes differentiated conclusions about effectiveness impossible.
 
 ## Limitations
 

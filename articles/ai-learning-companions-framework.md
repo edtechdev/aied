@@ -1,7 +1,7 @@
 ---
 title: Building AI Companions that Prioritise Learning over Performance
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [adaptive-learning, llm, personalized-learning]
@@ -47,11 +47,20 @@ Because learning companions are highly personalized and embedded, their influenc
 ## Case Studies
 The framework is validated across five diverse educational contexts, levels, and tool designs, revealing both the promise and current limitations of existing tools. The case studies span the pedagogical, adaptive, and responsible design foundations, showing how each principle translates into concrete companion behavior and where current systems fall short. The framework calls for a deliberate shift from task-optimized LLMs toward companions that foster durable understanding, metacognitive growth, and learner agency — connecting directly to [[self-regulated-learning]], [[metacognition]], and [[agency]].
 
-## Implications
-- **For design:** educational AI must be reconceptualized as a [[pedagogical-agent|learning companion]] rather than a task performer — a deliberate design stance that withholds direct answers, preserves [[productive-failure|productive struggle]], and measures success by retention, transfer, and metacognitive growth rather than output quality.
-- **For [[adaptive-learning|adaptive systems]]:** LLM flexibility should be fused with the learner-modeling and instructional-adaptation strengths of ITSs ([[knowledge-tracing]], [[student-modeling]]) rather than relying on stateless, reactive prompting; adaptivity should be co-regulatory, keeping the learner in control to avoid offloading metacognitive control.
-- **For [[research-methods-aied|research]]:** the [[learning-gains|effects of AI tools on learning]] must be evaluated against durable, independent learning rather than short-term scaffolded performance — a caution against [[meta-analysis-systematic-review|meta-analytic]] "effects in search of a cause" that measure task output instead of learning.
-- **For governance and practice:** responsible design (security, transparency, accountability, inclusion) is not an add-on but a core foundation, shaping trust, equity, and human oversight as AI companions become embedded in everyday study practices.
+## What this means for practice
+
+- **Designers.** Withholding the answer is the design: a companion that minimizes friction and supplies direct answers reproduces AI for work, and the framework's case is that durable understanding comes from preserved productive struggle rather than from faster output.
+- **Designers.** Make adaptivity persistent and co-regulatory. Stateless prompting cannot accumulate a learner model, so implement the Capture–Model–Adapt–Evolve cycle with learner-visible models and let students share control of regulatory choices rather than performing planning and monitoring on their behalf.
+- **Instructors.** Evaluate companions against delayed retention and transfer, not task scores. The large high-school mathematics experiment cited here found AI-assisted practice improved performance during learning while harming independent performance after the assistant was removed.
+- **Researchers.** Build retention and transfer measures into evaluation frameworks as standard rather than afterthought; the paper identifies this as the most important open direction, alongside persistent learner modeling that does not compromise privacy or agency.
+- **Administrators.** Treat security, transparency, accountability, and inclusion as procurement preconditions, not add-ons — the framework places them on the same footing as the pedagogical and adaptive foundations.
+
+## Limitations
+
+- This is a design framework, not an empirical test of one: it is built from literature synthesis and five case studies, with no controlled comparison of companion designs and no measurement of learning outcomes.
+- The five case studies were "each authored by researchers who led or made significant contributions to the tools described", so they are developer accounts rather than independent evaluations.
+- The adaptive foundation is aspirational. The paper states that persistent adaptivity "remains largely emerging across most cases", so the Capture–Model–Adapt–Evolve cycle is a design target rather than demonstrated practice.
+- Evidence about durability is absent by the authors' own account: they call for delayed retention and transfer to be built into evaluation frameworks, which means the claim that companions support durable learning has not yet been tested against those outcomes.
 
 ## Connected Concepts
 

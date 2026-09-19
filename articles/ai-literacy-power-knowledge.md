@@ -1,7 +1,7 @@
 ---
 title: "AI Literacy: An Exercise in Power-Knowledge"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [learning-theories]
@@ -28,9 +28,20 @@ page_kind: [framework]
 
 [[generative-ai|Generative AI]] has emerged not only as a new class of [[ai-technologies|technologies]] but as an infrastructure for the creation and dissemination of knowledge, embedded in search engines, writing tools, [[research-methods-aied|research]] platforms, and industries including education. The authors argue that most [[governance|institutional]] approaches reduce complex epistemic and [[ethics|ethical]] questions to technical proficiency: understanding how these models work, evaluating their outputs for accuracy, and using the tools "responsibly." Against this, the power-knowledge lens asks who can access and shape AI-mediated knowledge production, and how literacy frameworks either reproduce or challenge existing distributions of epistemic authority.
 
-## Implications for AI in Education
+## What this means for practice
 
-For education, the argument shifts the goal of AI literacy instruction from competent consumption toward critical participation. Curricula informed by this view would teach learners to interrogate the assumptions built into AI systems, understand how tool access and design encode power, and develop the capacity to shape and challenge the technologies that increasingly mediate learning. This connects [[ai-literacy]] to [[equity-in-ai-education]]: if unequal access recapitulates epistemic injustice, then AI literacy programs must attend to structural conditions, not only individual skills, and [[critical-thinking]] becomes a political as well as cognitive capacity. The framework also challenges educators to treat learners as epistemic agents whose critical interrogation of AI is a legitimate and essential part of the [[curriculum-design|curriculum]], rather than a distraction from efficient use.
+- **Instructors.** Teach generative prompting before you teach answer retrieval: have learners use AI in iterative dialogue to develop and refine their own knowledge rather than to outsource it.
+- Assign counter-prompting as an exercise. Students ask a system for the dominant view on a contested question, then a dissenting view, then ask which perspectives are absent from its training data, and write up what the system could not see.
+- Treat critical interrogation of AI as curricular content in its own right rather than a distraction from efficient tool use; the framework positions learners as epistemic agents whose questioning of a system's structuring assumptions belongs in the syllabus.
+- Audit who can actually access which AI tools in your setting before assuming a skills-based intervention will close gaps: [[equity-in-ai-education|inequity]] here is structural, not individual, because unequal access recapitulates epistemic injustice.
+- Give learners a real route into [[governance]] — co-designing course or institutional AI policy, for example — since participatory governance is the dimension the paper identifies as the most neglected in existing AI literacy frameworks.
+
+## Limitations
+
+- This is a conceptual paper built on Foucault's power-knowledge and Freire's pedagogy of critical consciousness; it presents no data, no case study, and no empirical test of the Contextual Use–Critical Interrogation–Participatory Governance framework.
+- The critique of existing AI literacy frameworks is argued rather than measured: the authors characterize that literature as competence- and compliance-oriented but do not systematically sample or code the frameworks they reject.
+- The framework is deliberately anti-hierarchical — described as "not a ladder but a practice" — so it supplies no proficiency levels, sequencing, or completion criteria that a program could adopt directly.
+- Claims about access and educational capital rest on cited secondary evidence rather than new measurement, and the paper does not test whether the framework changes learner behavior or [[agency|epistemic agency]].
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Mapping the Scaffolding of Metacognition and Learning by AI Tools in STEM Classrooms: A Bibliometric-Systematic Review"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [learning-theories, metacognition]
@@ -107,22 +107,20 @@ Teacher ↔ AI System ↔ Student
 - **System-level effects** (not just individual cognition)
 - Challenges the **human–machine binary** in education
 
-## Implications for AI in Education
+## What this means for practice
 
-### For Researchers
-- **Theoretical integration needed:** Flavell + General Systems Theory + posthumanist perspectives
-- **Measurement standardization:** Inconsistent methods hinder meta-analysis
-- **Longitudinal studies:** Most research is cross-sectional; need to track long-term metacognitive development
+- **Instructors.** Treat [[ai-literacy]] as a prerequisite for tool selection: understand how a specific tool scaffolds planning, monitoring, and evaluation before adopting it for metacognitive work.
+- Schedule reflection around the tool rather than assuming it. Add explicit reflection prompts and self-monitoring checkpoints so AI enhances metacognitive processes instead of replacing them, and cap AI-generated feedback to avoid the cognitive overload the review flags.
+- Combine tool categories instead of betting on one: pair an [[intelligent-tutoring|ITS]] for content mastery with [[learning-analytics]] dashboards that externalize monitoring, and use [[generative-ai]] for metacognitive prompts.
+- **Researchers.** Standardize how metacognitive outcomes are measured. The review finds measurement methods inconsistent across studies, which blocks meta-analysis and makes cross-study comparison of effects unreliable.
+- **Researchers.** Prioritize longitudinal and experimental designs: most reviewed work is cross-sectional, so the review can show that AI tools accompany better reflective thinking and self-regulation but cannot establish causal or sustained effects.
 
-### For Educators
-- **AI literacy is prerequisite:** Teachers must understand metacognitive scaffolding to select tools effectively
-- **Balance automation with reflection:** AI should enhance (not replace) metacognitive processes
-- **Leverage multiple tools:** ITS + learning analytics + generative AI for comprehensive scaffolding
+## Limitations
 
-### For Tool Developers
-- **Ethical design priority:** Avoid cognitive overload and reduced autonomy
-- **Metacognitive scaffolds:** Build in reflection prompts, self-monitoring dashboards
-- **Transparency:** Teachers need to understand AI decision-making to maintain [[pedagogy|pedagogical]] agency
+- The in-depth synthesis rests on 24 studies selected through PRISMA 2020 screening of a 135-article corpus (2005–2025) drawn from Scopus and Web of Science, so work outside those indexes is absent.
+- The authors state that few included studies used longitudinal or experimental designs capable of identifying causal or sustained effects of AI-mediated metacognitive interventions.
+- Coverage is uneven across STEM: reviewed studies concentrate in mathematics and science education, with limited representation in technology and engineering education and in early-childhood and teacher-education contexts.
+- Measurement is inconsistent across the reviewed studies — the review's own stated barrier — because metacognitive outcomes were assessed with differing instruments, so reported benefits cannot be pooled or compared directly.
 
 ## Connected Concepts
 

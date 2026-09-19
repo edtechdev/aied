@@ -1,7 +1,7 @@
 ---
 title: "AI-Play: A Framework for Teaching Artificial Intelligence Concepts through Unplugged Activities in Early Childhood Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking]
 pedagogy: [game-based-learning, learning-theories]
@@ -42,11 +42,18 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 2. Presents AI-Play as a conceptual and pedagogical bridge translating those competencies into early-childhood learning progressions and teacher moves.
 3. Reports an initial implementation and evaluation through a family-centered Hour of Code event.
 
-## Implications
+## What this means for practice
 
-- **Early childhood deserves its own AI literacy pedagogy:** unplugged, play-based activities can make AI concepts developmentally appropriate, building on [[game-based-learning]] and [[learning-theories|learning theory]].
-- **Ethics from the start:** embedding a Pre/Post-AI ethical lens (responsibility, fairness, agency) introduces [[ethics|ethical]] AI use alongside foundational understanding.
-- **Accessible to families and non-technical educators:** the framework lowers the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] [[ai-education|AI education]] and connecting to [[computational-thinking]] and [[cs-education]].
+- **Instructors.** Teach AI through unplugged, play-based activities: AI-Play's four components — AI Body (AI is a system built from parts), AI Food (AI learns from examples), AI Brain (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — make [[ai-literacy]] concepts developmentally appropriate for Pre-K–K2 without technical tools, building on [[game-based-learning]] and [[learning-theories|learning theory]].
+- **Instructors.** Introduce [[ethics|ethical]] AI use alongside the first technical concept rather than after it: the Pre/Post-AI lens of responsibility, [[bias-mitigation|fairness]], and agency recurs across every AI-Play component.
+- **Instructors.** Use the framework as a bridge for non-technical colleagues and families — it was built to lower the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] [[ai-education|AI education]] and connecting to [[computational-thinking]] and [[cs-education]].
+- **Instructors.** Give children repeated exposure rather than a one-off activity: the framework specifies what learners should understand at each developmental stage plus the before, during, and after teacher moves that operationalize each component.
+
+## Limitations
+
+- The framework was synthesized from an exploratory review that screened 145 papers and documents down to 23 key sources, a set that includes policy guidance, standards documents, and adult or informal-learning studies alongside K–12 research.
+- Expert validation relied on two early childhood educational technologists who reviewed the framework through open-ended discussions of clarity, usability, and developmental appropriateness, so its fit for young learners rests on a very small expert panel.
+- The only implementation evidence is a single family-centered Hour of Code event, evaluated through parent surveys and child reflection sheets; the reported high engagement and emerging understanding rest on parent and child report rather than a pre/post measure of children's understanding, with no comparison condition.
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]

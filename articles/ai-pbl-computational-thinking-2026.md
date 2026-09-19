@@ -1,7 +1,7 @@
 ---
 title: 'AI-Supported Problem-Based Learning for Enhancing Computational Thinking'
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-08-20T07:45:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education, computational-thinking]
 pedagogy: [problem-based-learning]
@@ -33,11 +33,20 @@ page_kind: [evaluation]
 - **Instruments:** 20-item Computational Thinking in Robotics Scale (CT-RS; α = 0.89) capturing abstraction, algorithm design, decomposition, debugging, and critical reasoning/metacognition; 50-item Computer Robotics Programming Skills Test (CRPST; α = 0.91) across motion control, ML for robotics, human–robot interaction, and computer vision.
 - **Limitation noted:** the raw source file truncates before the full statistical results tables, so exact effect sizes and N-Gain values could not be reproduced here.
 
-## Implications for AI in Education
-- **AI-PBL is a scalable pathway in under-resourced contexts:** where expert facilitators and robotics kits are scarce, [[intelligent-tutoring|intelligent tutoring]], [[conversational-ai|chatbots]], and adaptive feedback can substitute for limited human scaffolding and extend PBL's reach.
-- **AI tools should act as cognitive scaffolds, not answer engines:** framing ChatGPT/Teachable Machine as "more capable peers" within the ZPD supports metacognition, iterative debugging, and transferable CT rather than passive consumption.
-- **Equity benefits:** the non-significant gender moderation suggests adaptive, inclusive AI features can help narrow traditional gender gaps in STEM, but only if access to AI tools is equitable — infrastructure and teacher readiness remain key barriers.
-- **Call for [[governance|institutional]]/policy adoption:** the authors urge investment in [[teacher-education|teacher training]], context-aware (localized/adaptive) AI-PBL frameworks, and further [[research-methods-aied|research]] on scalability, with implications for [[k-12|K–12]] STEM pathways as well as [[higher-ed|higher education]].
+## What this means for practice
+
+- **Instructors.** Cast the AI as a "more capable peer" inside the learner's Zone of Proximal Development rather than an answer engine, so that explanations and hints carry the abstraction, decomposition, and debugging the task requires.
+- Put the AI to work on specific cognitive moves — idea generation, code explanation, iterative debugging, decision-logic formulation, reflective writing — and leave assembly, testing, and revision of the robot with the students.
+- **Curriculum designers.** Budget a full semester, not a few sessions: the intervention ran 14 weeks at three contact hours a week (42 hours) on authentic tasks such as line-following, assistive, recycling-sorting, and search-and-rescue robots.
+- Choose AI tools that work in low-infrastructure settings — a general chatbot plus a browser-based classifier trainer alongside Arduino kits — because the equity case for AI-PBL rests on contexts where expert facilitators and robotics hardware are scarce.
+- Do not read the null gender effect as automatic equity: the authors condition it on equal access to AI tools and call for investment in [[teacher-ai-competency|teacher training]] and context-aware, localized AI-PBL frameworks, with infrastructure and teacher readiness named as the remaining barriers.
+
+## Limitations
+
+- Groups were intact classes assigned by a coin toss, so no participants were randomized and the pretest–posttest comparison is a non-equivalent-groups design rather than a trial.
+- The sample is 103 first-year undergraduates at two purposively selected public universities in Southeastern Nigeria, all enrolled in one compulsory *Foundations of Robotics Programming* course, so the finding is bound to a single course and country.
+- Both measures are achievement tests given at the end of the 14-week intervention — the 20-item CT-RS, adapted by the authors from prior CT frameworks, and the 50-item CRPST — with no delayed retention or transfer measure.
+- The conditions differ by more than AI: the experimental group shared robotics kits and worked in groups while the control group received lectures, so the AI tools are not the only difference between them.
 
 ## Connected Concepts
 - [[problem-based-learning]]

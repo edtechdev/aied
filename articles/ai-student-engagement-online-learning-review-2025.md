@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and Student Engagement in Online Learning: A Literature Review"
 created: "2026-08-20T05:30:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [affective-computing, conversational-ai, learning-analytics]
@@ -28,9 +28,20 @@ connected_faqs: [asynchronous-online-courses-ai]
 
 A [[meta-analysis-systematic-review|systematic literature review]] of 24 peer-reviewed studies retrieved from the Web of Science database. The review synthesized how AI has been implemented to foster [[student-engagement|student engagement]] in fully [[online-teaching-and-learning|online learning]] (excluding blended and flipped contexts), classifying applications and examining the data resources and measurement approaches used. Engagement is treated as a multi-dimensional construct spanning behavioral participation, emotional investment, and cognitive involvement.
 
-## Implications for AI in Education
+## What this means for practice
 
-In [[online-teaching-and-learning|online learning]], where autonomy and [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person, AI offers real-time monitoring, personalized feedback, and interactive tools to support [[student-engagement|engagement]]. For designers, the review recommends integrating multiple AI modalities and [[multimodal|data sources]] rather than relying on a single signal, and measuring engagement across cognitive, emotional, and behavioral dimensions. Future work should examine real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the differences between synchronous and asynchronous online learning.
+- **Instructional designers.** Integrate multiple AI modalities and [[multimodal|data sources]] instead of relying on a single signal — the review's six applications (chatbots, emotion/facial/voice recognition and eye tracking, machine learning analysis, interaction support, personalized feedback, and bots in smart environments) each surface a different facet of engagement.
+- **Learning analytics designers.** Measure [[student-engagement]] across behavioral, emotional, and cognitive dimensions and record which instrument produced each signal, since the reviewed studies draw on video recordings, activity logs, standardized datasets, and surveys.
+- **Educators.** Deploy [[conversational-ai|chatbots]] for on-demand course information, interactive practice, and support, the mode in which comparative analyses found them most effective — especially relevant in [[online-teaching-and-learning|online learning]], where [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person.
+- **Researchers.** Address the open questions the review identifies: real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the difference between synchronous and asynchronous online learning.
+
+## Limitations
+
+- The review synthesized only 24 studies, selected after a Web of Science search returned 84 records and 59 were excluded as ineligible, with non-English records and items lacking full-text access removed.
+- It is a single-database, peer-reviewed-only review; the authors identify both the single-database scope and the engagement-only focus as limitations of what the synthesis can claim.
+- The review does not distinguish asynchronous from synchronous online learning, a conflation the authors name explicitly even though design implications differ between the two.
+- Studies whose primary focus was not student engagement were excluded, and the heterogeneous engagement measures (surveys, AI recognition, coded activity data) were synthesized narratively, so the review reports no pooled effect estimates.
+
 
 ## Connected Concepts
 

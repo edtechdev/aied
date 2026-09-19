@@ -1,7 +1,7 @@
 ---
 title: "From AI Use to Critical Thinking Among Medical Students: A Moderated Mediation Perspective on Cognitive Load and Self-Regulated Learning"
 created: "2026-08-13T05:14:23-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning]
@@ -29,9 +29,13 @@ page_kind: [evaluation]
 
 The authors used a cross-sectional survey design with 480 undergraduate medical students who had prior experience using AI tools. Data were collected with standardized measures assessing AI usage, cognitive load, self-regulated learning, and critical thinking. Hayes' PROCESS Model 14 was used to test mediation and moderated mediation effects. The analytic approach allowed the authors to model cognitive load as a mediator of AI use on critical thinking and self-regulated learning as a moderator of the mediated (indirect) path — specifically, whether the load→thinking pathway is conditional on students' regulatory capacity.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings caution against treating AI as uniformly beneficial for higher-order cognition. They suggest that the same AI tool can either [[scaffolding|scaffold]] or undermine [[critical-thinking]] depending on how much mental work it offloads and whether students can strategically regulate their engagement. For educators, this argues for designing AI-supported learning that deliberately preserves opportunities for independent reasoning — [[prompt-engineering|prompting]] verification, reflection, and judgment rather than answer-replacement — and for building students' [[self-regulated-learning]] capacity as a protective factor against the [[cognitive-offloading]] and shallow-processing risks of generative AI. The authors position the work as a corrective to the [[research-methods-aied|research]] literature's emphasis on efficiency, [[learning-gains|academic performance]], and engagement at the expense of the cognitive processes underlying higher-level thinking, and connect it to [[academic-integrity]] and dependency concerns in [[medical-education|medical education]].
+- **Instructors.** Design AI-supported tasks so students must verify, reflect on, and judge what the tool produces rather than accepting answers wholesale; the mediation analysis shows part of AI's effect on [[critical-thinking]] runs through the [[cognitive-offloading|cognitive load]] it imposes.
+- **Instructors.** Teach planning, monitoring, and evaluation of AI-assisted work explicitly. [[self-regulated-learning]] was the moderator that weakened the negative load→thinking pathway, so regulatory skill is the lever students can actually practice.
+- **Faculty developers.** Audit AI activities for how much mental work they remove. Summarizing and organizing can cut extraneous load, but large volumes of AI-generated content add evaluation and validation burden of their own.
+- **Administrators.** Do not adopt AI tools on efficiency, performance, or [[student-engagement|engagement]] metrics alone. This study modeled the cognitive processes underneath outcomes and connects AI use to [[academic-integrity|academic integrity]] and dependency concerns in [[medical-education|medical education]].
+- **Researchers.** Treat the field's emphasis on efficiency and short-term [[learning-gains|performance]] as a gap to correct; measure the higher-order thinking and load processes through which AI effects travel.
 
 ## Limitations
 

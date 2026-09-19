@@ -1,7 +1,7 @@
 ---
 title: "From Literature to Research-Based Learning: An AI-Powered Information Extraction System to Enhance Undergraduate Thesis Completion"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 sources: ["raw/papers/ai-information-extraction-undergraduate-thesis-2026.md"]
 pedagogy: [inquiry-based-learning, self-directed-learning]
@@ -26,12 +26,20 @@ page_kind: [framework]
 - **Shift toward evidence-based reasoning.** Students moved from passive reading toward cross-study comparison, trend-spotting, and [[research-methods-aied|methodological]] evaluation — behaviors associated with higher-order analysis and evaluation and growth in epistemic cognition within an [[inquiry-based-learning]] frame.
 - **Over-reliance caution.** Interviews surfaced that normalized tables and comparison views can create a sense of completeness, tempting students to rely on extracted entries without checking boundary conditions; supervisors stressed treating the system as a structuring/indexing tool requiring explicit verification routines.
 
-## Implications for Practice
+## What this means for practice
 
-- In [[stem-education]], structure-aware AI extraction can function as an [[inquiry-based-learning|epistemic scaffold]] rather than a shortcut when embedded in source-verification routines and instructional orchestration that mitigate [[generative-ai|over-reliance on automation]].
-- Supervisors can leverage traceable intermediate artifacts (extracted variables, comparison tables, source links, workflow traces) to shift supervision from repeatedly explaining basics toward [[formative-assessment|formative]], differentiated, data-informed guidance.
-- The system supports [[self-directed-learning]] by offloading search, transcription, and unit standardization, freeing cognitive resources for analysis and justification — but scaffold-fading, reflective prompts, and check-the-source routines are needed to preserve epistemic [[agency]].
-- The modular architecture suggests transfer to other [[higher-ed|STEM domains]] where parameter-based comparison is central, provided entity templates, field definitions, and domain ontologies are recalibrated and validated.
+- **Instructors.** Embed the extraction system in source-verification routines rather than releasing it as an answer source: normalized tables and comparison views can create a sense of completeness, so require students to check boundary conditions and verify the entries they intend to cite.
+- **Instructors.** Use the traceable intermediate artifacts — extracted variables, comparison tables, source links, and workflow traces — to shift supervision from explaining basics toward [[formative-assessment|formative]], differentiated, data-informed guidance; all four supervisors reported less repeated instruction and 75% reported improved differentiated guidance.
+- **Instructors.** Add scaffold-fading, reflective prompts, and check-the-source practice while the system offloads search, transcription, and unit standardization, so that epistemic [[agency]] survives the efficiency gain of roughly 65% self-reported [[meta-analysis-systematic-review|literature review]] time saved.
+- **Designers.** Recalibrate entity templates, field definitions, and domain ontologies, and validate them, before porting the pipeline to another [[higher-ed|STEM domain]] where parameter-based comparison is central.
+- **Researchers.** Treat the pilot's quantitative results as descriptive process evidence rather than effects: with 20 undergraduates the study deliberately ran no inferential hypothesis testing.
+
+## Limitations
+
+- **Small, single-institution pilot with purposive recruitment:** 20 undergraduates (16 junior, 4 senior) from four schools and four supervisors at one university, with quantitative results interpreted as descriptive and mechanism-oriented rather than statistically generalizable.
+- **Single-domain empirical validation:** the pilot ran in materials-science thesis work, and full cross-domain porting had not been completed at the time of the study.
+- **Verification behavior was not quantified:** although check-the-source was emphasized in onboarding and supported by traceability links, the study did not log how often students used the "Confirm" link or how many records each student cross-checked.
+- **Self-report and post-task perception data dominate:** the roughly 65% reduction in review time is self-reported, most perception measures were collected post-task, and no assessment of unaided manual data-extraction skill tested whether the workflow transfers without the system.
 
 ## Connected Concepts
 

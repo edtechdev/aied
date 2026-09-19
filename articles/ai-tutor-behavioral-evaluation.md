@@ -1,7 +1,7 @@
 ---
 title: "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, knowledge-tracing, llm]
@@ -44,16 +44,25 @@ A striking finding concerns answer revelation: on both tutors, feedback marked a
 
 In binary logistic regression predicting student-perceived helpfulness, engagement-based metrics were the most robust predictors. Both RelScore (β = 0.420) and SuccScore (β = 0.187) were positively and significantly associated with helpfulness and remained stable in the combined model, whereas most pedagogical dimensions showed weak or inconsistent associations. Providing guidance was positively linked to helpfulness (β = 0.349), while merely identifying a mistake was negatively associated (β = −0.524).
 
-## Implications
-- **For AI tutor evaluation:** Evaluation should move beyond rubric-based pedagogical scoring to incorporate a behavioral, engagement-based dimension, especially once tutors reach high pedagogical standards where rubric metrics lose their differentiating power.
-- **For tutor design:** Designing feedback that students actually act on — not just pedagogically correct feedback — should be a first-class objective; misconception-aware prompting appeared to drive higher uptake in this study.
-- **For pedagogy and engagement [[research-methods-aied|research]]:** Pedagogical quality primarily influences *which* feedback students choose to act on rather than whether those actions lead to correct edits, reinforcing the active, [[feedback-literacy|feedback-literate]] view of learners rather than treating feedback as passive delivery.
-- **For practice:** The framework is generalizable to any tutoring context with a directional success criterion — for example, dialog-based tutoring where a next response moving toward desired understanding could define success.
-
 ## Open Questions
 - Can behavioral evaluation be automated at scale across different tutoring domains beyond [[cs-education|programming education]]?
 - How do behavioral metrics correlate with long-term [[learning-gains|learning outcomes]] vs. short-term perception?
 - What is the optimal balance between pedagogical and behavioral evaluation weighting?
+
+## What this means for practice
+
+- **Designers.** Evaluate deployed tutors on what students do with the feedback, not only on rubric quality: two tutors that scored similarly across eight pedagogical dimensions differed by 9–21 percentage points in feedback relevance on every assignment.
+- **Designers.** Make feedback students will act on a first-class design objective — misconception-aware prompting raised uptake here — and accept the trade-off, since the misconception tutor reduced answer revealing (99.65 vs. 93.95 DAMR) at some cost to immediate actionability.
+- **Researchers.** Interpret success scores before drawing conclusions: feedback marked undesired on the revealing-answer dimension achieved higher correct-application rates than desired feedback (79.4% vs. 53.0% for MisconceptionTutor), consistent with students copying a revealed answer rather than solving the problem.
+- **Researchers.** Report engagement metrics alongside pedagogical ones, because RelScore (β = 0.420) and SuccScore (β = 0.187) predicted students' perceived helpfulness more consistently than most pedagogical dimensions did (guidance β = 0.349; mistake identification β = −0.524).
+- **Instructors.** Define a directional success criterion for your own tutoring context — in dialog-based tutoring, whether a student's next response moves toward the desired understanding — so the framework transfers beyond code edits.
+
+## Limitations
+
+- The two tutors were deployed in different semesters (BaselineTutor in Fall 2024, MisconceptionTutor in Fall 2025), so population and cohort differences may confound the observed effects; the authors plan randomized A/B deployment within a single semester to isolate tutor effects.
+- The data come from a single course at one university (CS61A at UC Berkeley, roughly 1,000 students per semester) and only from programming, so transfer depends on defining a directional success criterion in the new domain.
+- RelScore and SuccScore measure alignment between feedback and code edits rather than whether a student read the feedback, and large-scale rewrites or partially adopted suggestions complicate attribution.
+- The metrics capture immediate feedback uptake only, not longer-term [[learning-gains|learning]], and the tone and humanness pedagogy dimensions had too few undesired-feedback cases (n < 15) to be analyzed at all.
 
 ## Connected Concepts
 

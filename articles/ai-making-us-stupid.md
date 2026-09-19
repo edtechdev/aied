@@ -1,7 +1,7 @@
 ---
 title: Is AI making us stupid?
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -52,6 +52,21 @@ Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 202
 - The canonical **cognitive-offloading** citation [[cognitive-offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
 - Conceptual bookend to the empirical [[rct|RCTs]] already in the knowledge base: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "cognitive surrender"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected [[ai-feedback-quality|AI feedback]] *matched* teachers — the "coach not crutch" design).
 - Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
+
+## What this means for practice
+
+- **Instructors.** Keep students in the cognitive loop: when AI is permitted on practice, require them to review or explain the AI's solution, or ask for a hint rather than an answer, because the form of the offloading — not its presence — determines whether the skill survives.
+- Prefer tutor-style assistance over answer-giving. In the high-school math study the authors cite, a tool that solved the practice problems raised practice scores but lowered scores on a later no-AI test, while a tutor designed to probe knowledge and fill gaps left students no worse than those who never had AI.
+- Assess the specific skill with AI withdrawn. Performance during AI-supported practice is an unreliable proxy; the endoscopy evidence the authors cite — adenoma detection falling from 28.4% to 22.4% when the tool was unavailable — shows how quickly a supported skill decays.
+- Name the one skill each assignment is meant to build and protect it from offloading, since the costs appear limited to the skills actually offloaded rather than spread across basic cognitive ability.
+- Build in metacognitive checks against source-monitoring error, so students can tell whether an insight came from their own reasoning or from the model.
+
+## Limitations
+
+- This is a three-page perspective in *Trends in Cognitive Sciences*, not an empirical study: it reports no new data and reasons from a small set of cited studies.
+- Its evidence is indirect for education. The strongest causal support is a single high-school mathematics experiment (Bastani et al. 2025) with three conditions, an adult cover-letter writing preprint (Lira et al. 2025), and a retrospective multicenter observational endoscopy study; none of these followed school learners over time.
+- The authors state that it is "far too early to say with certainty" what the long-term effects of offloading will be, and their Box 2 lists the open questions they cannot answer: prolonged offloading over years or decades, effects at different developmental stages, and whether decay varies with initial skill level or skill type.
+- The claim that basic cognitive abilities are more resilient rests on cognitive-training research rather than direct evidence about AI, and the authors concede that factors such as schooling are associated with modest changes in those abilities, leaving the developmental case unresolved.
 
 ## Connected Concepts
 

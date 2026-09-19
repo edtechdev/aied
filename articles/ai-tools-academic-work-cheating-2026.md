@@ -1,7 +1,7 @@
 ---
 title: "Is using artificial intelligence tools for academic work cheating? Student perceptions, ethics, and the impact"
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 stakeholders: [student-experience]
@@ -29,12 +29,19 @@ methods: [meta-analysis-systematic-review]
 
 A systematic literature review following the PRISMA 2020 framework. Four databases (Scopus, Web of Science, IEEE Xplore, PubMed) were searched from January 2019 to December 2025, spanning pre- and post-ChatGPT literature on AI ethics in education, academic misconduct, and educational technology. From 2,847 initial records, 624 duplicates were removed, 1,891 were excluded at abstract screening, and 332 full-text articles were read; 243 were excluded on documented criteria, leaving 89 studies for thematic synthesis. The review also reports secondary [[quantitative-research|quantitative]] analyses (e.g., a pairwise scatter matrix across five core constructs and a grouped diverging bar chart on AI-ethics statements by discipline).
 
-## Implications for AI in Education
+## What this means for practice
 
-- Institutions need clear, adaptable [[ai-literacy]] and ethics standards because ethical interpretation of AI use is situational rather than universal, and technology outpaces policy.
-- Assessment design should shift from end-product evaluation toward process-based [[assessment]] that captures revision history, interaction patterns, and time-on-task, paired with transparent AI-use disclosure.
-- [[reducing-ai-misuse]] is better served by education and guided [[human-ai-collaboration|human-AI collaboration]] than by reliance on flawed automated detection or punitive enforcement, which risks eroding student trust.
-- Supportive AI applications (tutoring, adaptive feedback) can improve performance and maintain [[critical-thinking]] when students are required to explain their reasoning—but risk cognitive offloading when used as a shortcut.
+- **Instructors.** Shift graded work from end-product evaluation to process-based [[assessment]] that captures revision history, interaction patterns, and time-on-task, paired with transparent AI-use disclosure.
+- **Instructors.** Require students to explain their reasoning when AI assists a task: supportive applications such as tutoring and adaptive feedback sustain [[critical-thinking]] on that condition and turn into cognitive offloading when used as a shortcut.
+- **Instructors.** Publish task-specific rules for acceptable AI help rather than assuming students and faculty interpret the same use identically, since students judge idea generation and language improvement as legitimate help while faculty weight originality and independent thinking.
+- **Instructors.** Apply clear, adaptable [[ai-literacy]] and [[ethics]] standards in your own course and feed what you learn back into institutional review, because the ethical reading of AI use is situational and technology outpaces policy.
+- **Instructors.** Use education and guided [[human-ai-collaboration|human-AI collaboration]] rather than detection and punitive enforcement in your classroom, since automated [[ai-detection]] produces false positives and false negatives and erodes student trust.
+
+## Limitations
+
+- The review synthesizes 89 studies screened from 2,847 records across Scopus, Web of Science, IEEE Xplore, and PubMed, and presents a thematic synthesis rather than a meta-analysis, so it reports correlations (e.g., r ≈ −0.51 between AI usage and perceived cheating) but no pooled effect of AI use on learning.
+- The correlational evidence comes from a secondary pairwise analysis of N = 320 rather than a purpose-designed study, and the review covers literature published from January 2019 to December 2025.
+- Included studies are heterogeneous in design, and most measure perceptions through self-report instruments rather than observed AI use or demonstrated learning, so the student–faculty gap and the cognitive-offloading risk are the most reported, and least measured, findings.
 
 ## Connected Concepts
 

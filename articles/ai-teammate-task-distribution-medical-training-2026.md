@@ -1,7 +1,7 @@
 ---
 title: "AI as Teammate: Rethinking Task Distribution in Medical Training"
 created: "2026-08-31T09:06:11-04:00"
-updated: "2026-08-31T09:06:11-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading]
 pedagogy: [metacognition, sociocultural-learning]
@@ -50,6 +50,21 @@ The authors identify **passive [[student-engagement|engagement]]** within correc
 ## Implications for Curriculum, Supervision, and Assessment
 
 SCAN is operationalized for clinical [[curriculum-design|curriculum design]], supervision, and [[assessment]]. The shift from misuse to misclassification is not merely semantic: it gives educators a concrete perspective on what to look for, what to assess, and what to intervene on. The framework grounds [[intelligent-tutoring|AI tutors]] in a theory of learning rather than treating them as generic productivity tools, and it connects [[cognitive-offloading]] concerns to the developmental state of the individual learner.
+
+## What this means for practice
+
+- **Instructors.** Have learners classify a task into a SCAN mode before they open a [[generative-ai]] tool, and hold Non-Negotiable tasks to unaided performance so that foundational competence is formed rather than delegated.
+- **Instructors.** Read passive [[student-engagement|engagement]] inside a correctly classified AI task as a mis-skilling signal and shift the learner from AI assistance to expert assistance, with the supervising clinician acting as an [[human-in-the-loop-ai|epistemic auditor]].
+- **Designers.** Classify by where the individual learner stands relative to the task rather than by training phase, since the same task can be Aid for a first-year learner and Substitute for a resident.
+- **Instructors.** Assess clinical reasoning through process rather than output: outcome measures cannot distinguish a correct answer produced from appropriate subzone classification from one produced by misclassification.
+- **Designers.** Build supervisor training and metacognitive debriefing protocols into the curriculum, because SCAN's implementation depends on process-oriented supervision that is more demanding than the output-focused practice that currently predominates.
+
+## Limitations
+
+- SCAN remains empirically untested: the authors state that its central constructs — subzone classification accuracy, engagement quality, and the mis-skilling pathway — await the validation studies outlined in their research agenda.
+- The framework requires metacognitive capacity that novices may not possess: first-year students asked to classify tasks into SCAN zones may lack the domain knowledge to judge what a task genuinely requires, consistent with evidence that metacognitive accuracy develops with domain expertise (Kruger & Dunning, 1999).
+- Never-skilling is not an established phenomenon; the authors state that it requires direct clinical empirical evidence in the future.
+- Implementation depends on supervisor training and on institutional willingness to invest in process-oriented debriefing, and the authors note the paper reflects a fast-moving intersection of medical education and AI, so its claims should be read as theoretically grounded hypotheses rather than findings.
 
 ## Connected Concepts
 - [[medical-education]]

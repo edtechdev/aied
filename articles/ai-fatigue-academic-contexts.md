@@ -1,7 +1,7 @@
 ---
 title: "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory"
 created: "2026-05-25T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
@@ -20,6 +20,20 @@ page_kind: [framework]
 
 This construct has significant implications for [[cognitive-offloading|Over-Reliance]] [[research-methods-aied|research]]: AI fatigue may be the endpoint of sustained [[cognitive-offloading]] and dependency, where the efficiency-gain illusion gives way to genuine cognitive depletion. For [[ai-literacy]] interventions, the model suggests that [[teacher-role|teaching]] technical AI skills without addressing the affective and motivational costs is incomplete — students need strategies for managing AI fatigue, not just using AI effectively. The Motivational Disengagement dimension directly threatens [[self-regulated-learning]] capacity, as students lose intrinsic drive when AI stands ready to complete tasks. The work also contributes to [[affective-computing]] by formalizing the negative affective dimension of sustained AI interaction. As the first conceptual model of AI fatigue in academic contexts, this provides a foundation for instrument development and intervention design, with direct relevance to [[student-experience]] in AI-mediated learning environments.
 
+## What this means for practice
+
+- **Instructors.** Design assignments around the verification load, not only around AI output: Verification Strain was one of the two indicators of Cognitive Overload in participant accounts ("I feel mentally exhausted after checking so many outputs").
+- **Instructors.** Protect unassisted thinking time, since Motivational Disengagement showed up as Initiative Loss ("I ask AI before I even try to think") and as impatience with slower materials once AI had set the pace.
+- **Faculty developers.** Teach [[ai-literacy]] with explicit attention to affective and motivational cost, because the model implies that training students to use AI well is incomplete without strategies for managing the strain that sustained use produces.
+- **Administrators.** Treat sustained AI use as a workload and wellbeing issue in program design, since the five dimensions accumulate and reinforce one another across a six-stage progression rather than appearing once.
+- **Administrators.** Fund instrument development and validation before adopting AI-fatigue measures institutionally: the construct is new and the model is exploratory.
+
+## Limitations
+
+- The study is exploratory grounded theory on open-ended responses from 1,054 students at three universities in Pampanga, Philippines (mean age 19.21), drawn from one academic region and relying on self-reported data.
+- Participants were students who had already used AI chatbots for academic activities and were recruited through teacher invitations and campus administrator distribution of a Google Forms link — so there is no comparison with non-users and no probability sampling.
+- Evidence for the five dimensions is uneven: coded responses range from 310 (Cognitive Overload) to 120 (Physical Strain) and 125 (Attentional Drift), so the later stages of the model rest on thinner participant accounts.
+- The authors state the model requires empirical validation, including confirmatory factor analysis, before broader application, and cannot yet be assumed to generalize beyond this context.
 ## Connected Concepts
 
 - [[cognitive-offloading]]

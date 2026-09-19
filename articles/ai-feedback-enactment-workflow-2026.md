@@ -1,7 +1,7 @@
 ---
 title: "Making AI-Generated Feedback Matter: From Provision to Student Enactment"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [self-regulated-learning]
@@ -45,9 +45,20 @@ RiPPLE (Recommendation in Personalized Peer-Learning Environments) structures st
 
 The design's key strength is that the Enacted Feedback workflow scaffolds three behaviors associated with [[feedback-literacy]]: [[student-engagement|student agency]] through selection, evaluative judgment through prioritization, and dialogic engagement through targeted AI assistance anchored to students' chosen suggestions.
 
-## Implications
+## What this means for practice
 
-The authors conclude that AI access alone is insufficient; **purposeful workflow design** that positions learners as active participants in judgment, dialogue, and improvement is central to productive feedback use. For designers of [[student-ai-interaction|AI-mediated feedback systems]], this implies shifting emphasis from generating better comments toward structuring students' enactment of [[feedback-literacy|feedback literacy]] processes — scaffolding selection, evaluative judgment, and selection-anchored [[conversational-ai|dialogue]] rather than treating the presentation of comments as the end of the pedagogical process. For [[higher-ed|higher education]] and [[learning-analytics|learning analytics]] practice, it suggests that [[scaffolding]] embedded in the workflow, rather than raw [[llm|GenAI]] capability or optional chatbot access, drives measurable gains in [[self-regulated-learning|self-regulation]], confidence, and work quality. It also warns against equating fluency with quality: AI-generated comments may appear authoritative even when pedagogically limited, so workflows must prompt students to evaluate relevance before acting.
+- **Instructors.** Require students to select and justify the feedback suggestions they intend to act on before they revise, rather than distributing a comment set and leaving use to chance. The scaffolded Enacted Feedback workflow was associated with 26.2% estimated uptake of AI comments, against 14.1% for static comments and 0.1% when only optional AI dialogue was available.
+- **Instructors.** Prompt students to judge relevance before acting on a suggestion: AI-generated comments read fluently and can appear authoritative even when they are pedagogically limited, so fluency must not be taken as a signal of quality.
+- **Designers.** Move the design goal from generating better comments to structuring enactment — build selection, evaluative judgment, and selection-anchored dialogue into the workflow, because [[scaffolding]] embedded in the workflow, not raw [[llm|GenAI]] capability or optional chatbot access, drove the measured gains in confidence and work quality.
+- **Designers.** Instrument the workflow so logs capture whether a revision followed a particular suggestion; the platform logs here established that editing occurred but did not show that an edit incorporated the suggested content.
+- **Researchers.** Follow cohorts across several authoring cycles and into transfer tasks where AI scaffolding is withdrawn, since work quality was measured through peer moderation at a single point in each cohort's cycle and durable [[feedback-literacy]] was not tested.
+
+## Limitations
+
+- **Sequential cohorts rather than random assignment:** the three workflows ran in different semesters, with GPT-4o mini for Directed and Self-Directed Feedback (2025) and GPT-5 mini for Enacted Feedback (2026), so the model version is acknowledged as a confound alongside cohort and seasonal differences.
+- **Uptake was operationalized differently in each condition** — an immediate move from static feedback to editing, requesting AI assistance and then editing, or any downstream edit after entering the scaffolded pathway — so the three rates are workflow-specific indicators and not a test of one identical behavior.
+- **Platform log data only:** logs record observable actions at scale but not students' motivations or interpretations, leaving unexplained why some Enacted Feedback students bypassed suggestion selection and why Self-Directed students rarely used the optional assistance.
+- **No long-term learning measure:** submitted-work quality came from peer moderation at a single point in each cohort's cycle, so whether the engagement benefits become durable gains in feedback literacy, evaluative judgment, or independent revision remains an open question.
 
 ## Connected Concepts
 

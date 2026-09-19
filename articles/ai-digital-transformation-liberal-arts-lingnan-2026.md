@@ -1,7 +1,7 @@
 ---
 title: "AI for Education: The Digital Transformation of a Liberal Arts Institution — Implementation at Lingnan University"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:37:16-04:00"
 type: article
 sources: ["raw/papers/ai-digital-transformation-liberal-arts-lingnan-2026.md"]
 foundations: [curriculum-design]
@@ -25,12 +25,20 @@ institutions: [change-management]
 - **Curricula are renewed, not merely augmented, with AI.** This includes a new School of Data Science as a "liberal arts hub for STEM," interdisciplinary majors (Creative Media Industries, Animation & Digital Arts, Social Data Science, BA in Philosophy & AI), sunsetting programs with weak five-year employment prospects, and integrating AI into non-STEM faculties — with strong graduate indicators (99.1% employment among those joining the workforce).
 - **Value systems and cultural heritage are retained as a guardrail.** The Department of Philosophy pivots to a "[[philosophy-of-ai-in-education|Philosophy of AI]]" hub using comparative ethics (e.g., Zhuangzi and Daoist conceptions), digital humanities projects preserve heritage, and Service-Learning evolves into "humanitarian technology" (e.g., PureAura, designed for Hong Kong's subdivided flats, which won 14 international awards).
 
-## Implications for Practice
+## What this means for practice
 
-- **Adopt an "adoption-first," equity-focused policy rather than prohibition** to democratize access to [[generative-ai|GenAI]], build bottom-up ownership among faculty, and treat [[digital-divide|digital fluency]] as a matter of equity in [[higher-ed|higher education]].
-- **Institutionalize mandatory AI literacy and ethical reasoning in core curricula**, embedding [[ai-literacy|digital literacy]] as a liberal arts competency equal to logic and history rather than as an add-on elective.
-- **Prioritize [[human-in-the-loop-ai|human-in-the-loop]] models and irreplaceable human skills** — critical auditing of AI output, empathy, and service leadership — to safeguard against technocentric drift in [[change-management|institutional transformation]].
-- **Align technical infrastructure with cultural and value-based safeguards** rooted in institutional heritage, so that [[curriculum-design|curriculum]] and infrastructure investments serve humanistic aims rather than displace them.
+- **Administrators.** Choose adoption with access over prohibition: Lingnan has provided campus-wide free access to advanced GenAI tools since August 2023, on the reasoning that bans are futile and that [[digital-divide|digital fluency]] should not depend on a student's ability to pay.
+- **Administrators.** Institutionalize AI literacy in the core rather than the elective list: a Generative AI course (CCC8015) is required in Year 1 alongside Critical Thinking (CCC8011), framing the audit of model outputs, [[hallucination-risk|hallucinations]], and algorithmic bias as critical thinking itself, and treating [[ai-literacy|digital fluency]] as a liberal arts competency rather than an add-on.
+- **Instructors.** Keep the human at the gate in assessment: in the GenAI Assessment System, AI analyzes submissions against instructor-supplied rubrics but its feedback is routed to the instructor for review and validation before a student sees it, which preserves [[assessment-validity|consistency]] and timeliness without removing judgment.
+- **Administrators.** Spend infrastructure money on humanistic aims rather than around them: the case pairs a new School of Data Science and interdisciplinary AI majors with a Philosophy of AI hub, digital humanities preservation, and service learning that became humanitarian technology, so that empathy and service leadership stay in the graduate profile next to critical auditing of AI output.
+- **Administrators.** Expect the blueprint to need translation: institutions with limited resources, more centralized or decentralized governance, or stricter data regulation face greater barriers than a well-resourced liberal arts university.
+
+## Limitations
+
+- This is a position paper and institutional case analysis, not an outcome study: the author states that the claims remain primarily conceptual and interpretive, supported by descriptive accounts, faculty self-reports, early pilot feedback, and course documentation rather than comprehensive empirical data.
+- The account is single-institution and self-reported: it is written by Lingnan's own president about Lingnan's transformation, so the adoption-first policy, the GenAI Assessment System workflow, and the curriculum renewal are described by their architect rather than independently evaluated.
+- No learning-outcome, adoption-effect, or equity-impact data are reported; the author states that comprehensive empirical validation awaits future research and that the blueprint is aspirational and forward-looking rather than definitive causal evidence.
+- Institution-level figures such as the 99.1% employment rate among graduates entering the workforce, or the 14 international awards for PureAura, describe one university's context and cannot be attributed to the AI strategy.
 
 ## Connected Concepts
 
