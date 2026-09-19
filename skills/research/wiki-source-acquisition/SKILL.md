@@ -62,6 +62,17 @@ audits to a separate untracked file and never overwrite the backlog wholesale.
 
 ## Verify before claiming success
 
+- **Resolve the path the page names before declaring full text missing.** Raw files are not always
+  `<slug>.md`: many ingested papers are saved under a DOI-derived name (`10.3389_fpsyg.2026.1905037.md`).
+  Read the page's `sources:` field and stat *that* path. Checking `<slug>.md` and finding nothing wrongly
+  reports full text as absent — it held 26 eligible pages out of a section-writing batch once, and the
+  "missing full text" census it produced was wrong by an order of magnitude.
+- When a page genuinely has no saved text, attempt retrieval before backlogging: match the page title against
+  OpenAlex (`api.openalex.org/works?search=`), accept a match only above ~0.85 title similarity, then fetch
+  `best_oa_location.pdf_url`, and fall back to constructing a Frontiers PDF URL from a `10.3389/` DOI or
+  querying Unpaywall. Publisher PDFs for Springer, ACM, Elsevier and SSRN commonly return a download that is
+  not a PDF — treat anything without a `%PDF` magic header as a failure and backlog it with the DOI, rather
+  than saving an error page as source text.
 - Recompute `sha256` from the written file and compare with the stored value.
 - Check the body ends where the paper ends, or state plainly that only the reference list is cut.
 - Confirm `git check-ignore` reports both `raw/` and `pdf-sources/`, so recovered text and PDFs
