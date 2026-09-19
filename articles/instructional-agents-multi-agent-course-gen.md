@@ -1,7 +1,7 @@
 ---
 title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-26T15:35:00-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [agentic-ai, educational-development, learning-design, teacher-role]
 technology: [llm, edtech-platform]
@@ -58,6 +58,13 @@ Evaluated across 5 university-level courses (Data Mining, Foundations of Machine
 - **Democratizing access** — reduces barriers to high-quality course material creation, especially in underserved or resource-constrained settings
 - **Role-based coherence** — simulates real-world instructional collaboration rather than treating generation as an isolated task
 - **Source code available** at the project website
+
+## What this means for practice
+
+- **Instructors.** Choose the interaction mode by the time you have: Full Co-Pilot produced the best materials but needs the most human input, Catalog-Guided and Feedback-Guided sit between, and Autonomous needs none. The evaluation covered five university courses, each package scored by five human evaluators on a 1-5 rubric adapted from Quality Matters.
+- **Instructors.** Keep final approval of anything a course uses: the authors scope the framework to Analyze, Design and Develop, and leave Implementation and Evaluation to people before materials reach real students. Generation is a draft, not a ready artifact.
+- **Faculty developers.** Evaluate output against instructional-design criteria rather than how fluent it reads. The rubric scored learning objectives, syllabi, assessments, slides, slide scripts and the overall package, and **gpt-4o-mini matched gpt-4o and o1-preview at the lowest cost**.
+- **Software developers.** Expect role specialization to carry the quality: the single-agent baseline finished worst overall (average 2.33), and removing the Teaching Faculty agent noticeably cut syllabus and slide quality. Budget for a compilation step, since escaped Unicode such as Greek letters produced LaTeX that pdflatex rejected.
 
 ## Limitations
 

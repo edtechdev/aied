@@ -1,7 +1,7 @@
 ---
 title: "Benefits of co-learning with an AI agent"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [human-ai-collaboration, cognitive-offloading, agentic-ai]
 pedagogy: [collaborative-learning, self-regulated-learning, problem-solving]

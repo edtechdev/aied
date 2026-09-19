@@ -231,6 +231,9 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
 
 ### Figures stranded by extraction caps
 
+Pages in this section now have a full text supplied by hand where one was missing; the entries below record what
+could not be checked before it arrived.
+
 `structrag-diagram-reasoning-ai-tutoring` states topology figures its saved source cannot confirm - edge-level
 F1 gains of 26.4 points on irregular, 23.1 on bridge/mesh and 21.6 on ring diagrams in the practice section, and
 85.8% and 81.4% diagram accuracy in the limitations - because the saved text stops at the 50,000-character cap
@@ -250,26 +253,10 @@ recorded rather than deleted until a PDF arrives.
 
 A re-fetch across capped saved sources was pointed at the first arXiv link it found in each file, which in most
 files is a citation rather than the paper, so thirty saved sources were briefly overwritten with unrelated
-articles. Every one has since been checked against the source its own frontmatter names. Nineteen were restored
-from the right paper: fifteen earlier, and four more whose arXiv PDFs fetched cleanly on a second attempt
-(`ai-pedagogical-accompaniment-amico`, `aied-unfinished-mission-bypass`,
-`finkelstein-principled-ai-education-2025`, `muse-vlm-artistic-image-benchmark-2026`).
-
-The remaining eleven could not be recovered automatically: the publisher or repository serves a robot check, the
-DOI resolves only to a landing page, or the address no longer returns a document. Their saved sources now hold a
-marker instead of a wrong paper, and each page needs the real PDF.
-
-- `ai-tpack-mathematics-teacher-education-2026` — https://doi.org/10.1016/j.caeo.2026.100375 (ScienceDirect/CAEO)
-- `co-learning-ai-agent-hidden-rules-2026` — https://osf.io/preprints/psyarxiv/bx5q4_v2
-- `critical-thinking-paradox-genai-learning-2026` — https://doi.org/10.3389/fpsyg.2026.1906070 (open access)
-- `instructional-agents-multi-agent-course-gen` — https://aclanthology.org/2026.eacl-long.191
-- `llm-automated-grading-programming-comparison-2026` — https://doi.org/10.1016/j.caeo.2026.100364 (ScienceDirect/CAEO)
-- `llm-grading-self-preference-bias-2026` — https://osf.io/preprints/psyarxiv/35utw_v1
-- `niari-ai-pedagogical-mediator-collaborative-learning` — https://doi.org/10.60923/issn.2532-8816/24266
-- `raffaghelli-situated-ai-ethics-2026` — https://doi.org/10.1016/j.caeo.2026.100368 (ScienceDirect/CAEO)
-- `science-educators-ai-literacy-postqualification-2026` — https://doi.org/10.1016/j.caeo.2026.100376 (ScienceDirect/CAEO)
-- `teacher-ai-literacy-prompt-feedback-quality-2026` — https://osf.io/2jscy/
-- `voicu-ai-interpretive-cognition-ssh-2026` — https://doi.org/10.61071/JDP.2665
+articles. Every one has been checked against the source its own frontmatter names, and all thirty are now correct:
+fifteen restored automatically, four more from arXiv PDFs on a second attempt, and the last eleven supplied by
+hand as PDFs. The supplied copies are kept under `raw/pdfs/` with their extracted text beside them, and no marker
+file remains in `raw/papers/`.
 
 Two more pages state figures their saved source cannot confirm, because the source stops at the old extraction
 cap before the results and no open-access copy exists: `microbit-robotics-machine-learning-teacher-training-2026`

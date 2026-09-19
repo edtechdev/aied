@@ -1,7 +1,7 @@
 ---
 title: "A principled way to think about AI in education: guidance for educators and policy makers based on goals, models"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [metacognition, scaffolding, sociocultural-learning]
@@ -40,6 +40,20 @@ The framework reads as a normative complement to a thin empirical record. Where 
 ## Using the Framework as a Diagnostic
 
 The framework works as a checklist for any AI-in-education initiative. First, state the goal clearly — not "use AI in my course" but "improve students' ability to evaluate evidence." Second, identify the learning model, drawing on [[research-methods-aied|research]] such as [[productive-failure|productive failure]], deliberate practice, or social learning. Third, match the technology to the model — a [[socratic-method|Socratic]] dialogue partner for productive failure, peer matching for social learning, progressive [[scaffolding]] for novice [[learning-design|learning design]]. Fourth, evaluate against displacement: does the tool do something the learner should do themselves? If yes, redesign the [[curriculum-design|curriculum]]. The questions also clarify the [[teacher-role|teacher's role]] in a [[generative-ai]] classroom, and connect to [[critical-thinking-genai-scaffolding|critical thinking scaffolds]] that keep judgment with the student.
+
+## What this means for practice
+
+- **Instructors.** Settle the three anchors before choosing any tool: what your educational goals are, what is known about human learning, and how technology serves both. The framework derives its principles from stated goals rather than from what products offer.
+- **Instructors.** Design so AI augments rather than displaces human capacity. The outcomes the paper names as the ones to protect are **discernment**, **empathy** and **sense of self** — framing appropriate questions and validating answers, understanding others' perspectives, and building agency, purpose and belonging in a field.
+- **Administrators.** Keep the three goals of education distinct — individual development, societal infrastructure including democratic participation, and the disciplines themselves — rather than collapsing them into performance metrics that AI is easy to optimize against.
+- **Administrators.** Plan for the conditions the paper anticipates: increased teaching demands and fewer support resources such as teaching assistants, which is the argument for the augment-not-displace position rather than a preference about tools.
+
+## Limitations
+
+- **Guidance, not tested practice.** This is a single-author framing paper, drafted July 2025 and updated July 2026, drawing on learning-sciences scholarship and the author's own experience. It reports no trial, no adoption data and no measured outcomes.
+- **The update restates rather than adds evidence.** The July 2026 revision argues the principles remain relevant a year on; that is the author's assessment, not new findings.
+- **Scope is higher education.** The framework is written for colleges and universities, and the paper notes that for transformation practices specifically the evidence base is much sparser than for the tools themselves.
+- **Several levers sit above the instructor.** The roles it identifies for making this work include department chairs, deans and centers for teaching and learning, so parts of the framework depend on institutional decisions a course-level reader cannot make alone.
 
 ## Connected Concepts
 
