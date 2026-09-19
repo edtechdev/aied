@@ -1,7 +1,7 @@
 ---
 title: "Zero-Shot Governance: General-Purpose AI in Policy"
 created: "2026-09-09T19:18:07-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [agency]
 technology: [generative-ai, llm]
@@ -27,6 +27,20 @@ institutions: [educational-policy-ai, governance]
 ## Synthesis
 
 The article's distinctive contribution is to give a concrete, code-level account of how general-purpose AI becomes a governance actor: not through any novel capability, but through an agile wrapping of off-the-shelf LLMs in a thin [[discipline-specific-aied|domain-specific]] [[scaffolding|scaffold]] (a system prompt + RAG). Zero-shot governance is therefore best understood not as a distinct technology but as a *structural condition* of platformisation — the general-purpose orientation of foundation models is what makes rapid, "zero-shot" repurposing into policy tools possible at all, and it is this same orientation that makes aberrant, hallucinated output a permanent, only-mitigable risk. For education, the article cautions against treating the world-model rhetoric as a reliable epistemic foundation for [[agency|policy reasoning]], and insists that oversight of such tools must assume the probabilistic brittleness is irreducible.
+
+## What this means for practice
+
+- **Policymakers.** Treat the general-purpose nature of foundation models as a structural condition rather than a fixable bug: the code-level reading of Redbox shows generality is policed by a system prompt and a retrieval pipeline but can never be ruled out.
+- **Administrators.** Require nested containment and sandboxing plus explicit sources of truth, because hallucination and the capacity to generate novelty share the same structural principle.
+- **Policymakers.** Discount world-model rhetoric during procurement: Redbox was a thin Python wrapper around off-the-shelf [[llm|LLMs]], and 77 percent of interactions ignored attached documents entirely, treating it as a general chatbot.
+- **Researchers.** Study oversight as oversight over the loop, since humans reviewing probabilistic output are peering over an unknowable epistemic bundle, which invites a gambler's delusion rather than accountability for decisions.
+
+## Limitations
+
+- The analysis is a single discontinued case — Redbox (launched July 2023, discontinued December 2025) — read from its archived GitHub codebase, so the conclusions rest on one artifact that no longer runs.
+- The method is a deliberately partial vertical slice of that codebase, foregrounding selected sections rather than auditing the whole repository.
+- The author adopts pragmatic amateurism with no interviews, participant observation, or discourse analysis, so the infrastructural claims are interpretive rather than empirically corroborated.
+- No link is drawn from Redbox outputs to actual policy decisions, so the argument that zero-shot governance produces harmful politics is inferential.
 
 ## Connected Concepts
 

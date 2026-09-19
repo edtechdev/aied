@@ -1,7 +1,7 @@
 ---
 title: "A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs"
 created: "2026-09-06T08:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, student-engagement, well-being]
@@ -28,6 +28,21 @@ page_kind: [synthesis, framework]
 ## Implications for AI in Education
 
 For educators and [[research-methods-aied|researchers]] the review clarifies a critical distinction relevant to [[ai-education|AI in education]]: productive [[cognitive-offloading|cognitive delegation]] to AI differs from dysregulated dependence, and claims about educational over-reliance (e.g. Zhai et al., 2024) must not be conflated with relational attachment or [[medical-education|clinical]] addiction constructs. It argues for design-matched claims and careful measurement — choosing instruments whose item content matches the intended construct — which matters for studies of [[student-engagement|engagement]] with [[intelligent-tutoring|AI tutors]] and chatbots in [[higher-ed|higher education]]. The provisional instrumental/relational framing also invites attention to how learners use AI for [[metacognition|thinking support]] versus emotional companionship, and to the [[ethics|ethical]] and [[well-being]] dimensions of emotionally significant AI use.
+
+## What this means for practice
+
+- **Researchers.** Match the instrument to the construct before measuring: trust (expectations about system competence), reliance (behavioral delegation), over-reliance (delegation without scrutiny), attachment, and dysregulated dependence refer to different processes that current scales often conflate under shared labels.
+- Do not label frequent use, reliance, or attachment as dependence without documented impaired control or functional harm; only 22 of the 51 retained records supplied first-order empirical evidence, and 16 of those (72.7%) were lower-leverage for directional claims.
+- Design for temporal ordering, because the corpus is dominated by cross-sectional surveys in which modeled mediation cannot establish that the mediator preceded the reported outcome.
+- **Educators.** Distinguish instrumental-cognitive use (explanation, thinking support) from relational-emotional use (companionship, disclosure) when monitoring student engagement, and route emotionally significant use toward well-being support rather than treating it as educational over-reliance.
+- Keep educational delegation claims separate from relational attachment and clinical addiction constructs when interpreting classroom chatbot use.
+
+## Limitations
+
+- This is a critical narrative synthesis, not a systematic review: complete search histories and duplicate-removal logs were not retained, the search strategy was not preregistered, and the authors state the design claims neither PRISMA compliance nor systematic-review reproducibility.
+- A single author completed eligibility checking, extraction, classification, appraisal, and synthesis; no second independent coder was used and no inter-rater reliability statistic is reported, so the sensitivity analysis does not correct selection bias or single-author subjectivity.
+- Of 51 retained records, only 22 supplied first-order empirical evidence and 16 of those (72.7%) provided lower-leverage evidence for directional claims; none supported a firm causal model.
+- Coverage concentrates on generic conversational AI, ChatGPT and other productivity systems, Replika, and companion chatbots, which the authors say limits generalization across age groups, cultures, and platform types; the instrumental/relational framework itself is an interpretive step after coding, not a factor-analytically derived or causally tested model.
 
 ## Connected Concepts
 - [[conversational-ai]]

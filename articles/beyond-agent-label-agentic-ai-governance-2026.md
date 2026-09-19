@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education"
 created: "2026-09-08T09:07:05-04:00"
-updated: "2026-09-08T09:07:05-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -61,6 +61,21 @@ The central conclusion is cautious: agentic AI may improve selected educational 
 ## Contribution to the knowledge base
 
 This review consolidates and operationalizes the [[agentic-ai|agentic-AI]] governance discussion that other wiki entries open from other angles: [[baradziej-agentic-ai-higher-education-2026|Baradziej et al.]] map the roles and tripartite responsible-integration framework, [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.]] supply the definitional checklist and taxonomy, and [[sudarshan-agentic-ai-ecosystems-higher-education-2026|Sudarshan et al.]] the inclusive multi-agent architecture. Dey's distinct contribution is the **evidentiary and governance scaler** — a concrete A0–A4 / O0–O4 / M0–M5 reporting language and a proportionality rule that ties allowable autonomy to evidence maturity and accountable human control. It directly serves [[governance]] and [[regulation]] discussions by turning diffuse oversight concerns into testable reporting requirements, and it sharpens the distinction between perceived agency and demonstrated system autonomy that recurs across [[human-in-the-loop-ai]] analyses.
+
+## What this means for practice
+
+- **Administrators.** Record an AOE triplet — for example *A2–O3–M3* — for every agentic system in project registers and procurement or ethics reviews, so that rising autonomy automatically triggers stronger evidence and oversight requirements.
+- **Administrators.** Hold A4 consequential systems advisory rather than decisional: admissions, grading, progression, and allocation require M4–M5 evidence, O4 continuous supervision, human final authority, impact assessment, appeal, and auditability — not merely high benchmark accuracy.
+- **Instructors.** Keep an A1 feedback checker at M1 evidence behind pre-use approval and disclose it to students, so no unvetted agent output reaches learners.
+- **Researchers.** Publish a minimum system description — model and version, planning mechanism, memory, tools and permissions, orchestration, stopping conditions, logging, human intervention points, failure handling, and evaluation date — instead of a product label.
+- **Researchers.** Separate artifact, learner, educator, and institutional outcomes and state the comparator; a favorable artifact result (for example the admissions-counseling system's 92% accuracy) is necessary but not sufficient evidence of learning benefit.
+
+## Limitations
+
+- This is a critical integrative review of a purposefully assembled secondary-literature set, not a prospectively registered systematic review of primary studies, so it cannot estimate the prevalence of particular systems or pool educational effects.
+- The analytic set is 15 peer-reviewed reviews plus illustrative primary studies selected to test recurring claims, not an exhaustive sample; sources were assembled through targeted, citation-led searching rather than a multi-database search and were verified only through 4 September 2026.
+- Screening and coding were done by one author with no second-reviewer reliability estimate, and the authors state the AOE framework is a proposal for validation, not a validated risk score.
+- Several retained sources are preprints or advance publications and the evidence base is concentrated in brief, single-context evaluations — the admissions-counseling deployment, for instance, ran two weeks at a cost of US$11.58 and measured accuracy and hallucination rather than applicant decisions, access equity, appeal rates, or staff workload.
 
 ## Connected Concepts
 

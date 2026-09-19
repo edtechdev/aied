@@ -1,7 +1,7 @@
 ---
 title: "When Teachers Use AI Chatbots and Are Trained for It: Impact on Learning Design Quality and Cognitive Effort"
 created: "2026-09-08T02:38:58-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [educational-development, learning-design, teacher-role]
 technology: [generative-ai, prompt-engineering]
@@ -24,6 +24,21 @@ confidence: high
 - **Training did not further improve quality but raised effort slightly.** Activity 3 (after training) plateaued on quality yet showed a small, non-significant effort increase — interpreted as possible germane load (deliberate application of new strategies) or extraneous load/fatigue, not resolvable in this design.
 - **Positive training evaluation and adoption intentions.** Post-training evaluations averaged M=4.14/5 (utility highest at 4.25); adoption intentions were strong (M=4.21/6). Pre-training, teachers reported high perceived usefulness (TAM M=6.00/7) but only moderate AI-related technological-pedagogical knowledge (AI-TPK M=3.90/7).
 - **A caution on interpretation.** Quality gains alone do not prove teachers internalized practices — they may reflect delegating routine work to AI or adopting AI-generated structure, consistent with [[cognitive-offloading]] concerns.
+
+## What this means for practice
+
+- **Faculty developers.** Get working AI access into teachers' hands early: access alone raised higher-order Bloom task attainment from 41.7% to 91.7% and dropped the composite cognitive-effort median from 6.33 to 3.33, so a short orientation may deliver more than a gated certification sequence.
+- **Faculty developers.** Plan beyond a single session. A short training did not further improve [[learning-design]] quality and slightly increased effort, so add mentoring, coaching, or longitudinal follow-up to convert stated intentions into changed practice.
+- **Instructors.** Check whether the higher-order thinking in an AI-assisted activity is yours or the chatbot's, since a Bloom-tagged objective can reflect delegated structure rather than internalized design skill and risk [[cognitive-offloading]].
+- **Learning designers.** Read a small post-training effort increase as possibly productive difficulty rather than failure, and inspect chatbot interaction logs before concluding that the training burdened teachers.
+- **Researchers.** Replicate with larger, more diverse samples and longer consolidation windows to establish whether the quality plateau after training reflects a ceiling effect or the study's short session.
+
+## Limitations
+
+- Only 13 higher-education teachers and learning designers at one institution (Danube University, Austria) participated, recruited through an open institutional call — a small, self-selected sample.
+- The intervention was a short session, providing no evidence on whether design practices persist or transfer.
+- Design quality was scored on a narrow set of manually evaluated binary indicators (Bloom, ICAP, Narrative), which may not capture the broader quality of a learning activity.
+- Results reflect one model and interface (iChat) and one training format, and self-reported effort, evaluations, and adoption intentions may not predict actual future use; the authors label the study exploratory.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Practical Implementation Report on Introducing Spec-Driven Development Using AI Agents in Software Development PBL"
 created: "2026-09-06T04:55:00-04:00"
-updated: "2026-09-06T04:57:00-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [agentic-ai, cognitive-offloading]
 pedagogy: [project-based-learning]
@@ -26,6 +26,20 @@ confidence: high
 ## Implications
 
 This report speaks directly to the [[cs-education|programming education]] thread on AI-assisted coding and to the wiki's [[cognitive-offloading]] literature: it is a field-level demonstration that AI agents can accelerate development *without* guaranteeing learning, echoing findings in [[liu-tool-tutor-crutch-programming-2026]] and [[genai-meta-analysis-programming-learning]]. For [[teacher-role|instructors]], its concrete, transferable design (four-phase SDD workflow, spec templates, weekly one-on-one comprehension interviews) offers a template for integrating [[agentic-ai]] into [[project-based-learning]] while keeping code comprehension in view. It also raises design questions about [[scaffolding]] and [[metacognition]] — when AI does the implementation, what mechanisms ensure students still develop understanding?
+
+## What this means for practice
+
+- **Instructors.** Protect a foundation-first period: keep the first five of the fourteen sessions as tutorials on the framework before students lean on AI agents, and distribute a standardized project template with pre-configured `copilot-instructions.md` and specification templates.
+- **Instructors.** Hold short one-on-one comprehension checks every week; in this course comprehension dropped when AI use peaked at lec09 and recovered at lec10 after instructor interviews.
+- **Instructors.** Require students to explain the logic of any code they did not write themselves, using the interview as an accountability mechanism rather than a shortcut check.
+- **Researchers.** Treat added lines of code as throughput rather than learning: the metric cannot separate accelerated development from comprehension, and it is not a proxy for class design quality or refactoring.
+
+## Limitations
+
+- There was no concurrent control group; the 2025 SDD cohort is compared against historical 2022–2024 data, so changes in student skill sets, cohort size, and the educational environment cannot be ruled out.
+- The scale is small: the 2025 cohort was 14 students in 4 teams, against 38 students in 10 teams in 2022, and the study covers one elective Java and Spring Boot course at a single institution.
+- Added lines of code is a crude efficiency proxy that misses class design quality, refactoring, and redundant-code removal, and code comprehension was scored by instructors subjectively rather than by objective tests.
+- Instructor interventions are a confound for the central finding: the absence of a negative correlation between AI usage and comprehension may itself reflect the weekly one-on-one interviews.
 
 ## Connected Concepts
 

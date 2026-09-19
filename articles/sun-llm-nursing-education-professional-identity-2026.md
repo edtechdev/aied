@@ -1,7 +1,7 @@
 ---
 title: "When the algorithm enters the classroom: A critical integrative review of large language models, nursing education"
 created: "2026-09-07T08:25:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [curriculum-design, learner-identity]
 technology: [generative-ai, llm]
@@ -38,6 +38,20 @@ The authors propose this mechanism to reframe findings where AI appears to *outp
 - **Apply the dual-pathway test.** LLMs are safest for displacing extraneous or routine work (documentation, information retrieval) and riskiest when they supply complete reasoning chains, ethical justifications, or individualized care plans — the cognitive work constitutive of [[professional-training|competence]].
 - **Assess capability, not just performance.** Outcomes measured while an LLM is available may index fluent performance rather than durable capability; use delayed, no-tool post-tests and transfer tasks on unfamiliar clinical presentations.
 - **Address equity and [[regulation]].** Mandating LLM integration without addressing access disparities (subscription costs, detection-tool bias against non-native speakers) risks widening educational inequities; frameworks should require evidence that implementations preserve developmental processes.
+
+## What this means for practice
+
+- **Administrators.** Investigate the structural conditions that make AI look like the answer before adopting it: the review's Structural Empathy Suppression mechanism suggests an agent can outscore nurses on empathy ratings when caseloads and staffing already make sustained human empathy unsustainable.
+- **Curriculum designers.** Keep participatory formation experiences — clinical simulation, placement, patient and peer interaction — required and non-substitutable, because [[learner-identity|professional identity]] forms through participation rather than through receiving correct information.
+- **Researchers.** Target the highest-consequence gaps: the Evidence Gap Map found zero randomized or quasi-experimental studies of professional identity, only three of relational and ethical competency, and no study with follow-up beyond 12 months.
+- **Policymakers.** Require every implementation framework to state which cognitive work the LLM displaces and whether that work was extraneous to or constitutive of the competence being developed, turning the review's dual-pathway criterion into procurement and approval criteria.
+- **Medical educators.** Build structured nurse–AI collaboration exercises into clinical courses rather than AI answer services, since controlled evidence favors implementations that preserve student cognitive agency.
+
+## Limitations
+
+- The search was restricted to English-language publications and omitted the theoretical frameworks used for analysis as search terms, so studies engaging those frameworks may have surfaced only incidentally, and screening agreement was moderate-to-substantial (κ = 0.67 and κ = 0.78), leaving edge-case bias unexcluded.
+- The Professional Identity Tension Model is preliminary and has not been empirically tested; Structural Empathy Suppression rests primarily on a single RCT (Wan et al., 2024), and one source informing the regulatory implications is a preprint pending peer review.
+- Longitudinal evidence is near-absent, so conclusions about professional identity formation are inferred from cross-sectional and short-term data, and over 50% of included studies came from just three countries.
 
 ## Connected Concepts
 

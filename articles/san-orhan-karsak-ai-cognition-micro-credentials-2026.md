@@ -1,7 +1,7 @@
 ---
 title: "Knowing Its Name, Not Its Nature: Word Association Mapping of Student AI Cognition and Evidence-Based Micro-Credential Design in Turkish Higher Education"
 created: "2026-09-06T08:10:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [metacognition]
@@ -30,6 +30,20 @@ institutions: [governance]
 ## Implications for AI in Education
 
 This study reframes the [[ai-literacy]] problem from a "missing knowledge" deficit to a structural feature of how students think about AI, with direct consequences for [[assessment]]-driven [[curriculum-design|curriculum]] design in [[higher-ed|higher education]]. For educators and learning designers it argues that functional AI training alone entrenches an instrumental frame, and that micro-credentials should foreground boundary-crossing content that connects everyday tool use with transparency, privacy, and [[governance]]. It also offers an evaluative method — associative [[metacognition|cognitive mapping]] — that can surface [[prior-knowledge|prior knowledge]] structures before designing instruction, aligning with [[student-experience|learner-centered]] competency frameworks.
+
+## What this means for practice
+
+- **Curriculum designers.** Open AI literacy content with the experiential situations students already associate with AI — convenience, speed, efficiency at work — then build outward to how that convenience is produced, who pays the costs, and what governance makes it fair, rather than starting from abstract definitions of machine learning.
+- Do not run ethics as an isolated module: the associative data show utilitarian and risk/governance concepts as structurally segregated frames (τ = −0.819), so the credential must construct the bridges between tool experience and transparency, privacy, and governance.
+- **Educators.** Administer an associative diagnostic such as the word association test at course entry to surface the actual structure of learners' [[prior-knowledge|prior knowledge]] instead of assuming a content deficit.
+- Require a structured ethical impact assessment of an AI application in the student's own field — algorithmic bias and fairness, data privacy and consent, accountability and audit mechanisms, and the regulatory landscape — with a written recommendation to a named decision-maker.
+
+## Limitations
+
+- The 436 undergraduates were unevenly distributed: 80.3% from social sciences and humanities, 12.2% from natural and applied sciences, and 7.6% from health sciences, with 211 students (48.4%) from Kırklareli University and only nine (2.1%) from Hatay Mustafa Kemal University.
+- The study collected no age, gender, or prior AI-tool-experience data, so the authors report those variables remain unexamined; the WAT also captures spontaneous recall at a single time point, and only longitudinal pre/post WAT designs could attribute cognitive change to a credential.
+- The multidimensional scaling solution returned a stress value of 0.396, and the authors describe spontaneous recall as a measure with inherent limits that require methodological triangulation.
+- The proposed micro-credential framework has not been tested: the authors state its effectiveness is yet to be empirically validated and call for employer surveys to establish whether the portfolio criteria match professional standards.
 
 ## Connected Concepts
 - [[ai-literacy]]
