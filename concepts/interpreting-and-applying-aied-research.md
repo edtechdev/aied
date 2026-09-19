@@ -33,7 +33,7 @@ Two habits make the difference, and neither needs research training.
 
 **Read the two sections written for you first.** Every article page here now carries a **What this means for practice** section — usually three to five concrete actions derived from that study — and most carry a **Limitations** section stating what the study cannot support. Read those before the study's findings, not after. The practice section tells you what the study is good for; the limitations section tells you where it stops. If the practice section is missing or vague, treat that page as unfinished rather than as evidence.
 
-**Judge the claim, not the confidence of the claim.** Claims about AI in education are usually accurate about *something* and misleading about the thing you care about, because a study and your classroom differ in four ways: what it was compared against, what it measured, who took part, and which version of the tool was used. The rest of this page gives you the checks in plain language, then the evidence behind each of them for readers who want it.
+**Judge the claim, not the confidence of the claim.** Claims about [[ai-education|AI in education]] are usually accurate about *something* and misleading about the thing you care about, because a study and your classroom differ in four ways: what it was compared against, what it measured, who took part, and which version of the tool was used. The rest of this page gives you the checks in plain language, then the evidence behind each of them for readers who want it.
 
 What follows is also not a replacement for its neighbours. [[research-methods-aied|Research Methods in AI in Education]] covers how designs are built, [[limitations-in-aied-research|Limitations in AIEd Research]] catalogues the literature's recurring weaknesses, [[ai-ed-evaluation|AIED Evaluation]] covers how systems and outputs are evaluated, and [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] covers who a finding does and does not include.
 
@@ -102,7 +102,7 @@ The same checks invert into design requirements, and the knowledge base's evalua
 - **Measure the unsupported condition.** If your outcome is learning, include a task completed without the tool; assisted performance alone will mislead you as much as it misleads your buyers.
 - **Report how your automated judgments were validated** — the gold standard, the calibration target, who adjudicated disagreements — and report it as reliability rather than quality.
 - **Name the version and the date** in any effectiveness claim, because your next release invalidates it.
-- **Show the counterweights:** cost per student, accessibility, data handling, and what happens to learners on the free tier. See [[ai-use-disclosure|AI Use Disclosure]], [[privacy]] and [[governance]].
+- **Show the counterweights:** cost per student, [[accessibility]], data handling, and what happens to learners on the free tier. See [[ai-use-disclosure|AI Use Disclosure]], [[privacy]] and [[governance]].
 
 ## For readers who want the evidence
 
@@ -114,7 +114,7 @@ The checks above are not folk wisdom; they come from documented failures in this
 
 **A synthesis can satisfy its own protocol and still pool unweighted quality.** [[ai-supported-instruction-stem-meta-analysis-2026|Doğan et al. (2026)]] state plainly that they used no formal quality appraisal tool, treating their inclusion criteria as the rigor threshold, so a quasi-experimental study and a randomized one contributed equally — and their heterogeneity reads **I² = 82.98% under a fixed-effect model but 15.75% under the random-effects model**, which is why a heterogeneity figure quoted without its model cannot tell you how inconsistent the corpus is.
 
-**Validation of automated judgment is part of the result.** Agreement with human coders is a reliability statement, and the ceiling above shows why it is not the same as quality ([[machines-misread-pedagogical-quality|machines misread pedagogical quality]]).
+**[[assessment-validity|Validation]] of automated judgment is part of the result.** Agreement with human coders is a reliability statement, and the ceiling above shows why it is not the same as quality ([[machines-misread-pedagogical-quality|machines misread pedagogical quality]]).
 
 **Tool vintage is a first-class limitation.** A review of AI-assisted assessment notes that its own findings reflect specific model versions at specific times, and that field movement makes any account of model capabilities potentially outdated within months ([[ai-assisted-assessment-instruction-higher-ed-2026|AI-Assisted Assessment and Instruction in Higher Education]]). Scope claims to their generation: "[[generative-ai|generative AI]] improved X" is not portable, while "GPT-4-era tooling, in this task, with this [[scaffolding]]" is.
 

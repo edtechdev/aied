@@ -177,11 +177,11 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Levels and settings
 
-- **`adult-learning`** — Adult Learners — phrases: adult education; adult learning; andragogy; continuing education; lifelong learner
+- **`adult-learning`** — Adult Learners — phrases: adult education; adult learner; adult learners; adult learning; andragogy; continuing education; lifelong learner; mature students
 - **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; elementary education; kindergarten; primary education; young children
 - **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; undergraduate; undergraduates; universities; university
 - **`k-12`** — K-12 — phrases: K-12 education; eighth grade; elementary; high school; junior high; k-12; middle school; primary school; school; schools; secondary; secondary education; secondary school
-- **`special-education`** — Special Education — phrases: exceptional learners; special education; special needs; special needs education
+- **`special-education`** — Special Education — phrases: disabled learners; disabled students; exceptional learners; learners with disabilities; special education; special needs; special needs education; students with disabilities
 - **`teacher-education`** — Professional Development — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
 
@@ -288,8 +288,8 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`equity-in-ai-education`** — Equity — phrases: AI equity; educational equity; equitable; equity; equity concerns
 - **`global-south`** — Global South — phrases: developing countries; developing country; global south; low-income countries; low-resource context; majority world; non-Western context
 - **`inclusive-learning`** — Inclusive Learning — phrases: equitable learning; equitable teaching; inclusion; inclusive; inclusive design; inclusive learning; inclusive pedagogy; inclusive teaching
-- **`multilingual-learning`** — Multilingual Learning — phrases: bilingual; language diversity; low-resource language; multilingual; multilingual education; multilingual learners; multilingual learning; multilingualism
-- **`neurodiversity`** — Neurodiversity — phrases: adhd; autism; neurodivergence; neurodivergent; neurodiversity
+- **`multilingual-learning`** — Multilingual Learning — phrases: bilingual; english learners; l2 learners; language diversity; low-resource language; multilingual; multilingual education; multilingual learners; multilingual learning; multilingualism; second language learners; second-language learners
+- **`neurodiversity`** — Neurodiversity — phrases: adhd; autism; neurodivergence; neurodivergent; neurodivergent learners; neurodivergent people; neurodivergent students; neurodiversity
 - **`universal-design-for-learning`** — Universal Design for Learning — phrases: udl; universal design; universal design for learning
 
 ### Ethics and responsibility

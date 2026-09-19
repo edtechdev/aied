@@ -60,10 +60,13 @@ concepts:
     title: Adult Learners
     aliases:
     - adult education
+    - adult learner
+    - adult learners
     - adult learning
     - andragogy
     - continuing education
     - lifelong learner
+    - mature students
   affective-computing:
     title: Affective Computing
     aliases:
@@ -1188,6 +1191,8 @@ concepts:
     title: Multilingual Learning
     aliases:
     - bilingual
+    - english learners
+    - l2 learners
     - language diversity
     - low-resource language
     - multilingual
@@ -1195,6 +1200,8 @@ concepts:
     - multilingual learners
     - multilingual learning
     - multilingualism
+    - second language learners
+    - second-language learners
   multimodal:
     title: Multimodal AI
     aliases:
@@ -1223,6 +1230,9 @@ concepts:
     - autism
     - neurodivergence
     - neurodivergent
+    - neurodivergent learners
+    - neurodivergent people
+    - neurodivergent students
     - neurodiversity
   online-teaching-and-learning:
     title: Online Teaching and Learning
@@ -1645,10 +1655,14 @@ concepts:
   special-education:
     title: Special Education
     aliases:
+    - disabled learners
+    - disabled students
     - exceptional learners
+    - learners with disabilities
     - special education
     - special needs
     - special needs education
+    - students with disabilities
   speech-and-voice-technologies:
     title: Speech and Voice Technologies
     aliases:
