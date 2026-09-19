@@ -1,7 +1,7 @@
 ---
 title: "AI in University Assessment: Evaluating the Opportunities and Risks of Automated Marking"
 created: "2026-09-12T14:05:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, feedback]
@@ -52,6 +52,21 @@ The evaluation separates three questions that are often conflated: **accuracy** 
 The recommended conditions for any deployment are evidence of stability, alignment with human judgment, and the absence of systematic bias — plus AI literacy training for all staff and students, particularly those involved in institutional decision-making.
 
 **Limitations.** The study covers a single discipline, Psychology, deliberately chosen because essays drive degree outcomes there and the discipline assesses research judgment rather than fixed results — but that focus limits generalizability to other fields and assessment types. Three UK institutions is a narrow sample of assessment cultures. The models are those available at the time of study, and the authors warn that model updates create instability, so the results describe these systems only. Model selection was constrained by privacy requirements. The qualitative sample of 25 focus-group participants is small, and the report is a project report rather than a peer-reviewed study.
+
+## What this means for practice
+
+- **Instructors.** Validate on your own materials before trusting any headline figure: AI–human band agreement was 63% at Cambridge, 53% at Nottingham and 35% at Manchester Metropolitan, so evidence from another institution is not evidence for yours.
+- **Instructors.** Position AI as a second pair of eyes — parallel marking, triage, consistency checks, expanding brief comments into feedback — and keep the band decision with a person, since requiring all three models to agree on a band succeeded for only 56% of submissions.
+- **Assessment professionals.** Do not read stability as accuracy: re-scoring gave intra-class correlations of 0.97–1.00, yet AI marks agreed with other AI marks more closely than with human marks, and marking was compressed toward the middle (compression score 0.47 to 0.82), least accurately at the First/Upper Second boundary.
+- **Administrators.** Price the irreversibility risk before shifting staffing: because marks depended on attainment level and language use, some student groups may be affected more, engaging UK Equality Act duties and GDPR Article 22 rights to explanation, and appeal processes may need revision for model error.
+- **Researchers.** Report accuracy against the human–human baseline rather than perfect agreement, and test whether mid-mark compression and sensitivity to linguistic features survive changes of discipline, assessment type and model version.
+
+## Limitations
+
+- The corpus is 761 essays from 125 volunteer students at three UK universities, and 456 of those essays come from a single institution (Manchester Metropolitan), so institutional coverage is uneven.
+- The study covers one discipline, Psychology, chosen because long-form essays drive degree outcomes there; results therefore do not extend to fields or assessment types with different demands.
+- Model selection was constrained by strict privacy protections, and the results describe only the three systems tested (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash); the authors warn that model updates create instability.
+- The qualitative strand rests on 25 focus-group participants (14 staff, 11 students) in nine groups, the best prompt per model was fixed on a 20% calibration subset (n = 153), and the work is a project report rather than a peer-reviewed study.
 
 ## Connected Concepts
 

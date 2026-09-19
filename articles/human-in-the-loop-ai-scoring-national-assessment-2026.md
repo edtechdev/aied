@@ -1,7 +1,7 @@
 ---
 title: "A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, psychometrically-aware-ai]
@@ -63,6 +63,21 @@ HITL here is doing something narrower than "make the model correct." It does not
 ## Limits of the evidence
 
 Several caveats bound the claims. Human scores are the ground truth, yet the calibration analysis shows non-negligible disagreement even among equally qualified raters, and for most responses only a single operational score exists — so the reference labels themselves carry noise, and item-level Kappa values are further depressed by skewed distributions. Performance was estimated on 1,000-response samples per year, not the full population, and the HITL workload-reduction figure is a simulation based on past editions rather than a live pilot. The paper reports a cross-year check (2024 prompts applied to 2025) but no longitudinal drift monitoring. Perhaps the most important untested risk is interaction: whether raters shown AI scores before judging are anchored by them or defer to them (automation bias) is unmeasured, and the authors propose blinded versus non-blinded rater experiments as the next step. Finally, generalization is bounded by setting — one national exam, one language, a specific age-21-plus adult certification population, GPT-5 at a specific configuration, and a rubric whose full text is withheld for confidentiality, so replication of the prompt engineering is not possible from the paper alone.
+
+## What this means for practice
+
+- **Assessment professionals.** Route expert review by consequence rather than by an uncertainty score: review only Writing results that can change a pass/fail, and skip candidates already decided by their Reading Comprehension and Problem Solving scores.
+- **Assessment professionals.** Establish the direction of the model's bias before adopting an asymmetric flow: GPT-5 under-graded here, so accepting AI passes and reviewing AI fails was safe (0.2% in 2024 and 0.6% in 2025 ran the other way), while the reverse bias would require flipping the rule.
+- **Policymakers.** Budget the calibration step of 50–100 texts per edition and a post-review recalibration of cut scores into the exam cycle, since prompts must be adapted to each year's topic.
+- **Policymakers.** Keep the shortcut only where the data support it: candidates rated Proficient in all three sections passed with a residual AI-error risk of 0.2%–0.6% because reversing that outcome would require a two-level Writing misclassification.
+- **Institutions.** Run a blinded versus non-blinded rater study before deployment, because whether experts shown AI scores are anchored by them or defer to them is unmeasured.
+
+## Limitations
+
+- Human scores are treated as ground truth, yet in the 2024 calibration no rubric item reached unanimous agreement among the ten evaluators who scored 50 texts, and most responses carry only a single operational score.
+- Performance was estimated on random samples of 1,000 responses per year, about one fifth of each dataset, rather than on the roughly 5,000–6,000 candidates who sit each edition.
+- The at-least-50% workload reduction is a simulation over past editions rather than a live pilot, and no longitudinal drift monitoring is reported beyond applying 2024 prompts to 2025 data.
+- Generalization is bounded by setting: one national exam, one language, an age-21-plus adult certification population and GPT-5 at medium reasoning effort with structured JSON output, while the rubric text is withheld for confidentiality so the prompt engineering cannot be replicated from the paper.
 
 ## Connected Concepts
 - [[automated-essay-scoring]]

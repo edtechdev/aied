@@ -1,7 +1,7 @@
 ---
 title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -65,6 +65,20 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 - **Build peer interaction into the process.** [[peer-assessment|Peer assessment]] and [[feedback]] as smaller tasks leading to the final product create the interactions through which norms are actually negotiated — aligning [[group-work|group assessment]] with process-oriented learning.
 - **Do not assume capability becomes collective.** If the assessment permits a divide-and-conquer structure, individually capable students may never pool what they know; the collaboration has to be designed for, not merely required in the rubric.
 - **Read restraint carefully.** Students who avoid GenAI may be exercising normative self-[[regulation]] — or guarding against risk and unfamiliarity. The two call for different instructor responses.
+
+## What this means for practice
+
+- **Instructors.** Make the evidence you require classroom-embedded and term-long. Groups that restrained GenAI did so because the task demanded situated knowledge built with classmates over the unit ("AI only knows that moment when you type"), so tasks answered by generic case content invite unexamined reliance.
+- **Instructors.** Design against divide-and-conquer. In the three groups where nothing changed, work was partitioned into individual subtasks completed on individual platforms, which let a graded group presentation finish without any collective GenAI practice.
+- **Administrators.** Set the group-work norm deliberately rather than relying on the institutional "use only with explicit acknowledgement" policy: students read permissive collective climates as permission ("everyone in my group is using GenAI"), so the operative rule becomes peer pressure inside a group of three to five.
+- **Researchers.** Treat within-group variation as the unit of analysis. All three agency patterns appeared in one course under one policy, so instruments that place each group on a single enthusiasm-to-avoidance scale will flatten the reasoning that produced the behavior.
+
+## Limitations
+
+- The evidence is 15 focus group interviews with 52 pre-service teachers plus one instructor interview, all from a single seven-week, three-credit multicultural education course at one institution (CUHK).
+- Data are students' interview accounts (20–30 minutes each), not observation of their submitted work, so reported GenAI practice is not verified against the artifacts that were graded.
+- Focus groups were run with members of the same assessment group rather than individually, so accounts of fair use, loafing and risk were given in front of the peers who shared the grade.
+- The non-enacted agency pattern rests on three of the fifteen groups, and the paper contains no dedicated limitations discussion of how far the three patterns transfer beyond this course.
 
 ## Connected Concepts
 

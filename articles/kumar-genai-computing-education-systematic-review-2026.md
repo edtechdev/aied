@@ -1,7 +1,7 @@
 ---
 title: "Generative AI in computing education: A systematic review and a framework for responsible integration"
 created: "2026-09-11T11:35:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
@@ -78,6 +78,14 @@ The authors connect the requirements to three instructional-design traditions, a
 3. **Redesign at least one high-stakes assessment per course** to include an oral component or other process-visible element — described as the highest-leverage single intervention, supported both by the vulnerability evidence and by the demonstrated feasibility of oral and authentic strategies.
 
 The review also notes that generative AI in computing education sits at the center of a broader [[student-ai-interaction|human–AI interaction]] research agenda: how students learn alongside tools that perform the very tasks they are being taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
+
+## What this means for practice
+
+- **Instructors.** Sequence AI access by demonstrated competence rather than by calendar or permission: withhold it during foundational weeks, permit guided use with mandatory code-explanation tasks, then require reflective critique of AI output.
+- **Instructors.** Make verification a graded, observable component of the task — reading, testing, modifying, explaining or critiquing the output — because the 36 studies showing efficiency gains sit alongside 21 showing those gains do not transfer without it.
+- **Curriculum designers.** Teach error analysis as a competence in its own right: students performed significantly worse correcting LLM-generated code than on traditional programming exam tasks, so it cannot be assumed to ride along with general programming skill.
+- **Curriculum designers.** Add an oral or process-visible element to at least one high-stakes assessment per course — the review's highest-leverage single intervention — rather than relying on detection, which rests on only 3 of the 72 studies.
+- **Administrators.** Close the implementation gap with faculty development and assessment redesign rather than more primary research: most instructors operate at a tolerance rather than transformation level, and 70% of one national sample of faculty explicitly requested training on AI-resistant assessment design.
 
 ## Limitations
 

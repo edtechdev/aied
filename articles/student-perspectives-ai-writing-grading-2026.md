@@ -1,7 +1,7 @@
 ---
 title: "Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education"
 created: "2026-09-11T09:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:09:40-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, evaluative-judgment, feedback-literacy]
 stakeholders: [student-experience]
@@ -60,6 +60,20 @@ For practitioners, the paper's most replicable suggestion is that a two- or thre
 The study's own limitations section is unusually direct. The analytic sample is 13 of 19 enrolled students—who may be a self-selected subset—from one course section, one semester, one institution, taught by the instructor who also conducted the research. All participants were male undergraduate computing students at a single Saudi public university, restricting transferability to women, to non-computing disciplines, to other institutions, and to other cultural contexts, including settings where student–teacher relationships carry different relational and institutional weight.
 
 Three further constraints bound the claims. Comparing this transparent cohort with the earlier blinded one is confounded by cohort, academic year, and the intervening normalization of GenAI, so transparency effects cannot be isolated. The conceptual model and the three-principle framework are theoretical syntheses rather than validated causal stages. And the confirmatory second analysis was conducted by an [[llm]], raising the possibility of shared interpretive bias between large language models—though the primary coding and all interpretive decisions were human. The paper's clearest call is for within-subject or experimental designs comparing blinded and transparent evaluation in the same cohort.
+
+## What this means for practice
+
+- **Instructors.** Add a two- or three-prompt post-assessment reflection immediately after students receive an AI-generated score; it needs no extra technology and surfaces reasoning about evaluative authority that instructors would otherwise never see.
+- **Instructors.** State plainly when AI produced the score and feedback. All 13 students found the AI feedback clear and useful, while seven explicitly made their trust conditional on instructor review.
+- **Assessment designers.** Build human review in as the point where AI output becomes a grade rather than an optional courtesy — students affirmed AI feedback and rejected AI grading inside the same evaluation event.
+- **Institutions.** Where the question is authority and legitimacy, remove authorship ambiguity from the design: this study used in-class handwritten writing so the evaluated text was unambiguously the student's own.
+
+## Limitations
+
+- The analytic sample is 13 of 19 enrolled students in one course section, one semester, at a single Saudi public university, and the reflections may come from a self-selected subset.
+- All participants were male undergraduate computing students, so transferability to women, other disciplines, other institutions and other cultural contexts is restricted.
+- The instructor taught the course and conducted the research, so reflection content may carry power-imbalance and response-bias effects despite anonymization and open-ended prompts.
+- Comparison with the author's earlier blinded cohort is confounded by cohort, academic year and the intervening normalization of GenAI, so the transparency effect cannot be isolated; the four themes and three-principle framework are theoretical syntheses, and the confirmatory second pass was run by an LLM.
 
 ## Connected Concepts
 - [[feedback]]
