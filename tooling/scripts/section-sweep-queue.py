@@ -103,6 +103,19 @@ def main() -> int:
 
     outdir = Path(args.outdir)
     outdir.mkdir(parents=True, exist_ok=True)
+
+    # Pages already handed to a worker this round - a rerun list, a batch built a moment ago - must not be
+    # handed out again. Two workers given the same page both write a practice section into it, and the page ends
+    # up with two of everything. Read every list in this directory before choosing anything.
+    already: set[str] = set()
+    for listing in sorted(outdir.glob("*.txt")):
+        for line in listing.read_text(errors="replace").splitlines():
+            m = re.search(r"/articles/([^\s/]+)\.md", line)
+            if m:
+                already.add(m.group(1))
+    if already:
+        todo = [r for r in todo if r["slug"] not in already]
+
     for stale in outdir.glob("batch*.txt"):
         stale.unlink()
 
