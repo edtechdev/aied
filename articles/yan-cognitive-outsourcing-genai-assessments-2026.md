@@ -1,7 +1,7 @@
 ---
 title: "From Cognitive Outsourcing to Reallocation: A 3P Analysis of Student–Generative AI Engagement in Unsupervised Assessments"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition, student-engagement]
@@ -36,21 +36,12 @@ confidence: high
 - **Analysis:** Hybrid [[qualitative-research|thematic analysis]] following Braun and Clarke, combining the 3P categories with bottom-up open coding; two authors independently coded all transcripts (Cohen's κ = 0.91 for top-level categories), and remaining co-authors audited the codebook, coded samples and thematic map.
 - **Limitations:** A qualitative sample of 38 undergraduates from two East Asian contexts is intended for [[theory-development-aied|theory building]] rather than statistical generalization, and the authors call for large-scale [[quantitative-research|quantitative]] testing and validation in more diverse cultural and [[pedagogy|pedagogical]] settings.
 
-## Implications for AI in Education
-
-- **Make expert GenAI dialogue visible:** Educators should demonstrate what sustained, iterative human–[[generative-ai|generative AI]] interaction looks like and why it produces different cognitive outcomes from passive Q&A, building an epistemic relationship with the tool rather than only technical [[prompt-engineering|prompting]] skill.
-- **Replace prohibitions with task-specific guidance:** Instructors should articulate which cognitive tasks students must retain ownership of and which forms of GenAI assistance are appropriate for each [[assessment]], since blanket plagiarism bans leave students to default to low-effort, fragmented use.
-- **Design assessments for process, not just product:** Requiring intermediate artifacts such as reflections on how GenAI was used alongside other learning activities makes the workflow visible and incentivises [[student-engagement|deliberate engagement]]; making reasoning an explicit object of evaluation shifts students away from producing polished text.
-- **Target the efficiency paradox directly:** The largest at-risk group holds mastery goals but lacks the [[metacognition|metacognitive]] strategies to avoid detrimental [[cognitive-offloading|offloading]] by default — pedagogical support should focus on monitoring, reflection and dialogue competence for this group.
-- **Reconsider what counts as learning:** When GenAI removes the searching burden, cognitive effort is reallocated rather than reduced, raising questions about whether surface output quality can evidence genuine learning and pushing assessment toward [[evaluative-judgment|judgment]] and process evidence.
-- **Treat GenAI as a potential co-regulator:** Under sustained reflective dialogue, GenAI can take on more-knowledgeable-other-like functions — prompting, explaining and offering alternatives — but only when learners have enough [[ai-literacy|GenAI literacy]] to structure the interaction ([[human-ai-collaboration]]).
-
 ## What this means for practice
 
 - **Instructors.** Replace blanket plagiarism bans with task-specific guidance naming the cognitive work students must retain: all 38 participants reported that instructors prohibited copying while giving almost no concrete guidance on productive [[generative-ai|GenAI]] use.
-- **Instructors.** Require process evidence such as short reflections on how GenAI was used alongside independent reading and drafting — 78.94% of students used it either before starting or after drafting, detached from the work itself.
-- **Instructors.** Demonstrate sustained, iterative AI dialogue rather than only [[prompt-engineering|prompting]] technique; 76.32% of students defaulted to an ask–answer–stop pattern with single-turn prompts.
-- **Instructors.** Target the learning-assistant majority (n = 31), which holds mastery goals but defaults to passive question-answering and reported mental complacency and fast forgetting — this is the group where [[metacognition]] support changes behavior.
+- **Instructors.** Require process evidence such as short reflections on how GenAI was used alongside independent reading and drafting — 78.94% of students used it either before starting or after drafting, detached from the work itself — and treat the resulting [[evaluative-judgment|judgment]] and process evidence as what counts as learning, since effort is reallocated rather than reduced and surface output quality no longer evidences it.
+- **Instructors.** Demonstrate sustained, iterative AI dialogue rather than only [[prompt-engineering|prompting]] technique — 76.32% of students defaulted to an ask–answer–stop pattern with single-turn prompts — and show how the tool can act as a co-regulator that prompts, explains and offers alternatives once learners have enough [[ai-literacy|GenAI literacy]] to structure the interaction.
+- **Instructors.** Target the learning-assistant majority (n = 31), which holds mastery goals but defaults to passive question-answering and reported mental complacency and fast forgetting: support for this group should center on monitoring, reflection and dialogue competence, where [[metacognition]] support changes behavior.
 - **Researchers.** Test whether the outsourcing-to-reallocation framework holds in more diverse cultural and pedagogical settings with [[quantitative-research|quantitative]] designs.
 
 ## Limitations

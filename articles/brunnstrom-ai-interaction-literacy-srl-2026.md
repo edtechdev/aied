@@ -1,7 +1,7 @@
 ---
 title: "AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education"
 created: "2026-09-11T06:10:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T07:32:15-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
@@ -58,19 +58,11 @@ The authors expected GenAI might serve as a personalized tutor for students with
 2. **For teachers:** develop an explicit strategy for teaching GenAI-supported self-regulated learning, with particular attention to students with lower academic self-efficacy, including how to formulate productive prompts, recognize when a response is too abstract or broad, and structure a session around small goals.
 3. **For assessing outcomes:** because GenAI is powerful at quantitative, factoid-type content, take-home assessments should emphasize the qualitative phase of the SOLO taxonomy, while quantitative recall-based knowledge is better assessed in class where GenAI is unavailable.
 
-## Implications
-
-- **Process, not just product, in assessments.** The demonstration reinforces process-oriented and trajectory-sensitive assessment designs ([[assessment-validity|validity]] evidence from revisions, decisions, and reflection) as the response to GenAI, and argues that [[academic-integrity|integrity]] framing alone misses how demanding legitimate use has become.
-- **AI literacy needs an interactional dimension.** AI-interaction literacy is offered as a specific enactment of the applicational, evaluative, and integrational competences in broader [[ai-literacy|AI literacy]] frameworks — a classroom-teachable skill rather than a personal aptitude.
-- **Prompt quality may not stay the bottleneck.** The authors note the emphasis on informed prompting may shift as systems improve, and that whether general, uninformed prompts could support the same progression remains untested.
-- **Limitations:** a single reflective demonstration by two authors playing the naive-student role, one primary model, no student data, and no measurement of [[learning-gains|learning outcomes]] — the argument rests on a documented interaction trajectory rather than an experiment.
-
 ## What this means for practice
 
-- **Instructors.** Teach the interaction, not just the tool: run explicit sessions on formulating prompts, recognizing when an output is too abstract or broad, and structuring a session around one small goal, since reaching a usable learning loop took eight rounds of learner intervention.
-- **Instructors.** Give students permission to disengage — the authors judged at points that reading the course book would have been cognitively simpler, and treating stopping as a legitimate move rather than a failure is part of the competence.
-- **Instructors.** Attend to students with lower academic self-efficacy, who meet complexity and frustration where already-advantaged peers gain, and make interaction management something you teach rather than assume.
-- **Assessment designers.** Move recall-based, factoid knowledge to in-class assessment where GenAI is unavailable, and reserve take-home work for the qualitative phase — relating, evaluating and generalizing — with validity evidence drawn from revisions, decisions and reflection.
+- **Instructors.** Teach the interaction, not just the tool: run explicit sessions on formulating prompts, recognizing when an output is too abstract or broad, and structuring a session around one small goal, since reaching a usable learning loop took eight rounds of learner intervention. Treat this [[ai-literacy|AI-interaction literacy]] as a classroom-teachable enactment of the applicational, evaluative and integrational competences in broader AI literacy frameworks rather than as a personal aptitude.
+- **Instructors.** Give students permission to disengage, and attend to those with lower [[self-efficacy|academic self-efficacy]], who meet complexity and frustration where already-advantaged peers gain: the authors judged at points that reading the course book would have been cognitively simpler, and treating stopping as a legitimate move rather than a failure — and making interaction management something you teach rather than assume — is part of the competence.
+- **Assessment designers.** Move recall-based, factoid knowledge to in-class assessment where GenAI is unavailable, and reserve take-home work for the qualitative phase — relating, evaluating and generalizing — with validity evidence drawn from revisions, decisions and reflection, since an [[academic-integrity|integrity]] framing alone misses how demanding legitimate use has become.
 - **Researchers.** Treat the GenAI interaction itself as an analyzable object: code successive exchanges against a structural framework such as SOLO rather than grading the final product.
 
 ## Limitations
@@ -78,7 +70,7 @@ The authors expected GenAI might serve as a personalized tutor for students with
 - The demonstration is a single reflective exercise run by the two authors, who role-played a naive student across eight prompt–response rounds on one take-home examination question.
 - The analyzed outputs came from one primary model, Claude Opus 4.6, prompted on 22 April 2026; comparable ChatGPT 5.4 Thinking and Pro responses were observed but not reported.
 - There were no student participants and no measurement of learning outcomes, so the argument rests on a documented interaction trajectory rather than on evidence that learners gain anything.
-- The authors note that whether general, uninformed prompts could support the same SOLO progression remains untested.
+- The authors note that whether general, uninformed prompts could support the same SOLO progression remains untested, and that the emphasis on informed prompting may not stay the bottleneck as systems improve.
 
 ## Connected Concepts
 
