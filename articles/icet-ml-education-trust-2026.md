@@ -1,7 +1,7 @@
 ---
 title: "Addressing Trust in AI Systems through Education: A Didactic Perspective"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-03T09:00:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-education, ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [pedagogy]
@@ -34,6 +34,21 @@ The paper connects these facets to the trust-calibration literature and to syste
 ## Treating Trust Calibration as an Educational Objective
 
 The central proposal is normative: [[trust-calibration|trust calibration]] should be an explicit, assessable objective of ML and AI education, not an incidental byproduct of technical fluency. Drawing on reviews of existing K-12 ML activities, the authors contend these three mechanisms are systematically undersupported in current practice — tools teach surface interaction far more than they build graduated control or error-contextualization. Because [[curriculum-design|curricula]] at the [[k-12|school]] level increasingly carry the burden of AI literacy, making calibration an explicit goal offers a principled and scalable route to appropriate reliance on AI across healthcare, transport, finance, and other consequential domains. For [[pedagogy|educators]] and curriculum designers, ICE-T supplies a coherent sequence for teaching ML that keeps trust — rather than mere tool use — as the organizing [[ai-education|educational]] aim.
+
+## What this means for practice
+
+- **Instructors.** Sequence each ML concept through all three representation modes before the symbolic formulation — a physical sorting game, then a whiteboard decision-tree diagram, then code — so learners meet the idea enactively, iconically, and symbolically.
+- **Instructors.** Keep model understanding as a distinct stage before training: have students interrogate data quality, representativeness, labeling, and sources of bias, and only then train a model and read its evaluation metrics.
+- **Designers.** Build to the Use-Modify-Create gradient rather than stopping at demonstration, because the K-12 activity reviews behind this framework found invisible use, button interaction, and model deployment together account for almost 60% of coded supervised-learning activities, with open-ended creation appearing only twice.
+- **Designers.** Treat [[trust-calibration|trust calibration]] as an explicit, assessable objective of the learning unit — students should be able to say when to rely on a model and when to be skeptical — rather than an incidental byproduct of tool fluency.
+- **Researchers.** Test the framework's predictions with validated trust-calibration measures in classroom studies; ICE-T is a proposal, and whether the Use-Modify-Create gradient actually shows up in students' reliance behavior is untested.
+
+## Limitations
+
+- The central link between ICE-T and trust calibration is theoretical: the authors state the framework "has not itself been evaluated," and no classroom study with validated trust measures is reported.
+- Its empirical grounding is limited to the K-12 landscape and to supervised learning; the authors call for testing across age groups and ML paradigms beyond supervised learning.
+- The supporting tool analysis was a qualitative evaluation of a selected representative set of tools, platforms, and games against the three facets, not a systematic census of the field.
+- The motivating quantitative patterns — roughly 60% of coded supervised-learning activities at the lowest abstraction levels, and technical and societal perspectives on the same algorithm co-occurring in only about 3% of activities — come from two other systematic reviews (126 and 133 activities), so the framework rests on secondary coding of others' corpora.
 
 ## Connected Concepts
 - [[ai-literacy]]

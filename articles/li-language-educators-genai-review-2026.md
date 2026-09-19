@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Review of Language Educators' Practices and Development with GenAI"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai]
@@ -26,6 +26,21 @@ methods: [meta-analysis-systematic-review]
 - Competency gaps map to episteme (limited understanding of AI capabilities and limits), techne (weak [[prompt-engineering]], AI-enhanced task/assessment design, content evaluation, and difficulty detecting AI-generated text), and phronesis (ethical judgment, bias/privacy handling, [[self-efficacy|adaptive expertise]], and context-sensitive judgment).
 - Only three included studies reported structured PD — an embedded grammar-course module (Moorhouse et al.), a government EMI program (Tsou et al.), and embedded [[conversational-ai|chatbot]] inquiry (Lee et al.) — but all converged on gains in knowledge, confidence, and identity reframing, shifting views of GenAI from "replacement risk" to assistant/augmenter.
 - The review argues PD should pair technical skill-building with practical wisdom, moving from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons, and recommends a two-phase "back-end then classroom" implementation strategy.
+
+## What this means for practice
+
+- **Instructors.** Sequence your own GenAI use as the review recommends: establish behind-the-scenes value first ([[curriculum-design|lesson planning]], materials creation, writing support), then move to classroom-facing use once you have verified tool behavior in your own context.
+- **Instructors.** Verify every AI-generated content claim and reference before it reaches students. The reviewed studies document educators who valued ChatGPT for planning yet flagged the need to check its output, and the competency gaps include content evaluation and detecting AI-generated text.
+- **Faculty developers.** Sequence professional development from [[ai-literacy|awareness-raising]] and ethics through hands-on tool mastery to co-design of AI-enhanced lessons — the shape the three structured interventions in the corpus took while producing gains in knowledge, confidence, and identity reframing.
+- **Faculty developers.** Pair technical skill-building with practical wisdom: add activities on bias, [[privacy]], [[ethics|ethical]] judgment, and context-sensitive decisions, since phronesis gaps appeared alongside the [[prompt-engineering|prompting]] and assessment-design gaps.
+- **Faculty developers.** Name professional-identity concerns directly. All 23 studies recorded at least one major teacher concern, most often fear of professional displacement, diminished authority, or role redefinition; the PD that worked reframed GenAI from replacement risk to assistant and augmenter.
+
+## Limitations
+
+- The corpus is 23 empirical studies published in English in SSCI-indexed journals between December 2022 and September 2024 — non-English work, non-indexed outlets, and gray literature were excluded, which the authors note may bias findings toward particular regions, notably a heavy East Asian representation, and drop ground-level perspectives.
+- The review is a snapshot of a fast-moving phenomenon: most data come from 2023 and late 2024, predating GPT-4, multimodal systems, and the institutional AI guidelines many universities issued in late 2024.
+- No formal quality scoring was applied: all 23 studies met a peer-review threshold by venue, but studies were not excluded on rigor, and quality and limitations were weighed only narratively.
+- Only three included studies reported structured PD, so the review's scale-up recommendations are partly extrapolated from three cases plus general teacher education principles; student learning outcomes were also scarce, leaving the analysis reliant on teacher self-reports and logic rather than outcome data.
 
 ## Connected Concepts
 - [[generative-ai]]

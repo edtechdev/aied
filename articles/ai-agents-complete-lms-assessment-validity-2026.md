@@ -1,7 +1,7 @@
 ---
 title: "AI Agents Can Now Navigate and Complete LMS Tasks: A Call for Pedagogical Innovation"
 created: "2026-09-05T01:20:00-04:00"
-updated: "2026-09-17T07:48:05-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai]
@@ -29,6 +29,20 @@ institutions: [educational-policy-ai, governance]
 3. Assessment vulnerability is structurally diagnosable in advance via three audit questions (answerable from LMS/web materials? agent-completable end-to-end? any un-forgeable verified moment?) — with open-book quizzes, discussion posts, reflections, and take-homes all exposed.
 4. Through Kane's argument-based validity framework, agent completion removes the human-production assumption at the base of the scoring inference, invalidating every downstream inference and even honestly earned unproctored scores, because authorship is unverifiable — a validity failure, not merely an integrity one.
 5. Detection cannot rescue validity (classifiers unreliable/biased; LMS monitoring structurally blind), so the solution is design: four principles for verified human presence with low-effort, equity-preserving options, and durable instruments (program review, reporting, [[curriculum-design|curriculum]] maps) owned by assessment professionals.
+
+## What this means for practice
+
+- **Instructors.** Audit every unproctored asynchronous artifact against three questions before the term starts: can the answer be derived from LMS or web materials, can an agent complete it end-to-end, and is there a verified moment an agent cannot satisfy? Attach a short oral or in-class component to any high-weight assignment that fails the audit.
+- **Instructors.** Replace "write from your own experience" prompts with tasks that reference a specific class session, a peer discussion, or a hand-produced in-class artifact, since an agent can mine existing posts and fabricate a credible first-person history.
+- **Faculty developers.** Build assessment-design clinics where faculty run the audit questions over their own syllabi, and assemble a menu of verified-moment options — sampled oral defenses, in-class reflections, process-visibility drafts — rather than a single proctoring mandate, which equity considerations and [[universal-design-for-learning|UDL]] argue against.
+- **Administrators.** Treat unproctored asynchronous scores as interpretation-limited evidence in program review and accreditation reporting, and document the presence-based changes that shore up the scoring inference, since collective accreditor guidance does not yet reach agent-completed student work.
+
+## Limitations
+
+- The evidence base is three demonstrations on one live undergraduate course (PSYC 203, Social Psychology) taught by the first author: two quiz completions (approximately 12 minutes, and under 5 minutes across 52 steps, scored 10/10) and one fabricated discussion-board reflection — not a sampled measurement of how often agent completion occurs.
+- The broader record (at least 15 runs, three platforms, seven tools) is a public catalog of self-reported cases, and the authors note the scored quiz required no reasoning beyond the uploaded textbook, so the 10/10 result documents a structural design weakness rather than the ceiling of agent capability.
+- The contribution is a conceptual extension of Kane's framework to agents rather than an empirical validation, and the authors state two scope conditions: it addresses unproctored asynchronous environments only, and identity-verification proctoring verifies who attended a session, not who produced the artifact.
+- One author was a 2025–2026 Fellow in the Perplexity AI Business Fellowship, and one of the two demonstrating tools was Perplexity Comet — an interest to weigh alongside the feasibility claims.
 
 ## Connected Concepts
 

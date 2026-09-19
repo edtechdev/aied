@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Research on AI and Education Across Four Decades: Insights from the AIxEd Framework"
 created: "2026-09-03T12:00:00-04:00"
-updated: "2026-09-03T12:00:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-education, ai-literacy, history-of-aied, theory-development-aied]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -30,6 +30,21 @@ methods: [research-methods-aied]
 **Future directions beyond generative AI.** The authors propose reviving bottom-half research through renewed [[ai-literacy]] work that encourages reflection on learning, applications of [[machine-learning|machine teaching]] to human instruction, and agent-based models / complex-systems methodology (e.g., their own computational model of the [[icap-framework|ICAP framework]]) that bridge contemporary [[learning-theories|learning theory]] and computational modeling.
 
 **Methodological transparency.** The paper locates each paper in AI×Ed based on author judgment of abstracts and full texts, acknowledges this is not a systematic or scalable data-driven categorization, and makes its full dataset publicly available as supplementary material for replication.
+
+## What this means for practice
+
+- **Researchers.** Position a new project on both AI×Ed axes — the role of AI (applied tool versus analogy to human intelligence) and the end user (researcher to learner) — instead of defaulting to the applied-tool framing that has dominated since 2014.
+- **Researchers.** Check the historical record for what your genre is worth: the bottom-left quadrant, where AI models human intelligence, was well populated in the AIED 1985 and 1993 proceedings and had largely emptied by IJAIED 2004.
+- **Researchers.** Treat generative AI as a route back into that quadrant: roughly 50% of AIED 2024 full papers used LLMs, and three of the four papers in the bottom half of AI×Ed were LLM-based, including work on teachable agents and on modeling the zone of proximal development through predictive-model uncertainty.
+- **Researchers.** Evaluate LLMs with human-inspired methods — simulated students, AI teacher tests, behavioral analysis — rather than technical metrics alone, since only a few AIED 2024 papers benchmarked models on authentic educational tasks.
+- **Researchers.** Mine LLM behavior cautiously for hypotheses about human learning, the direction the authors say was largely absent from AIED 2024 but that made earlier [[intelligent-tutoring|intelligent tutoring]] research productive.
+
+## Limitations
+
+- Classification was not systematic: the two authors placed each paper by hand, mostly from abstracts (the AIED 1985 corpus consisted only of extended abstracts), occasionally checking methods and discussion sections, and they acknowledge that some papers may be miscategorized.
+- The venues sampled are unequal — seven venue-years (AIED 1985, 1993, 2021, 2024 and IJAIED 2004, 2014, 2021) with differing numbers of published papers — and two IJAIED 2014 issues and one IJAIED 2021 issue were special issues, which the authors say could bias the pool toward particular topics.
+- There is no data-driven or automated categorization step, which the authors state makes it difficult to scale AI×Ed for analyzing emerging trends.
+- The framework may not be rich enough to capture all AIED work, and the authors note that some projects are hard to situate on one or both axes.
 
 ## Connected Concepts
 

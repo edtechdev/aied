@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 feedback increases student activation and learning outcomes in higher education"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-03T15:00:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [generative-ai, llm]
@@ -28,6 +28,21 @@ level: [higher ed]
 - **AI feedback is valued less but activates more.** Students rated peer feedback slightly higher on perceived validity and emotional response (evidence of mild [[trust|algorithm aversion]]), yet the reliable provision of AI feedback still translated into higher participation and learning gains — perceived preference did not align with behavioral outcomes.
 
 - **Personalization without sacrificing consistency.** AIF offered individually tailored feedback at scale while maintaining uniform quality, overcoming the personalization–consistency trade-off that constrains [[human-ai-collaboration|peer and adaptive systems]], suggesting GPT-4 can complement lecturer feedback and substitute for unreliable peer feedback in large classes.
+
+## What this means for practice
+
+- **Instructors.** Attach individual GPT-4 feedback to every weekly written answer in large classes where lecturer-only feedback cannot reach individuals, and keep a short lecturer-led debrief of the group's common errors as the safety net the authors recommend.
+- **Instructors.** Reserve AI feedback as a substitute for peer feedback only where peer engagement cannot be enforced: students who did receive substantive textual peer feedback performed like the AI group, so the AI advantage is a reliability effect, not a quality effect.
+- **Instructors.** Keep the task design in view when reading the gains. The study used tasks with a single correct argumentation path, so before extending the arrangement to open-ended problems, verify that the model's feedback still discriminates good from poor reasoning where multiple answers are defensible.
+- **Faculty developers.** Train tutors to audit the model's numeric and textual ratings against the sample solution before feedback goes out, and to reuse the three Hattie and Timperley dimensions the study standardized (Feed-Back, Feed-Up, Feed-Forward) so AI and peer conditions stay comparable.
+- **Administrators.** Scale only with supervision in place: the authors recommend a complementary role in which teachers follow individual AI feedback with general subject discussion, and warn that the AI can be fallible on individual cases.
+
+## Limitations
+
+- The experiment ran for one semester in non-compulsory undergraduate macroeconomics tutorials at a single university: 265 students submitted in the first task, and the study collected 1167 observations across eight tasks against the 2120 that full participation would have produced, so attrition is substantial and part of the analysis is conditional on prior participation.
+- Tracking depended on self-generated pseudonyms — 47 of the 1167 observations had no pseudonym and 68 duplicated another student's, leaving 1052 observations with complete pseudonym information — and treatment switching had to be excluded from the analysis.
+- Learning outcomes were not exam scores but post-hoc human scoring of the written answers by three raters (Cronbach's alpha 0.87 for content, 0.70 for style), and lecturer feedback and discussion were deliberately not recorded, so the group-level baseline varied across tasks and lecturers.
+- Results are specific to GPT-4 and to German, one of the model's strongest languages, and the authors state that the AI's feedback capability may decline in languages where it is less proficient; they also flag that effects may vary by student characteristics such as gender or cultural background.
 
 ## Connected Concepts
 

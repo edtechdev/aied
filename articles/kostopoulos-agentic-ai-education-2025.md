@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI in Education: State of the Art and Future Directions"
 created: "2026-09-04T14:03:07-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
@@ -48,6 +48,21 @@ The survey charts [[research-methods-aied|research]] and policy directions: (1) 
 ## Significance to the Knowledge Base
 
 This survey offers the field a much-needed **definitional and taxonomic anchor** that complements the knowledge base's empirical [[agentic-ai-education-scoping-review|scoping review]]: where Wang et al. map the research landscape and capability levels across 474 studies, Kostopoulos et al. supply the conceptual apparatus (operational checklist + role/autonomy/embodiment taxonomy) for classifying and designing agentic systems, and a systematic statement of the design tensions between automation and learning.
+
+## What this means for practice
+
+- **Designers.** Classify a candidate system against the six criteria before calling it [[agentic-ai|agentic]]: a reactive FAQ bot without planning or persistence fails, and so does an adaptive quiz engine with no memory or goal-directed action.
+- **Designers.** Instrument fading from the start — set target help-seeking ratios (the survey's example is below 0.3) and schedule alignment audits against course objectives — because proactive scaffolding is the documented route from support to learner dependency.
+- **Instructors.** Retain second-order pedagogical decisions — classroom dynamics, assessment weighting, when to override an agent — instead of delegating them, and require explainable feedback and timestamped decision logs from any agent that grades, flags, or recommends.
+- **Researchers.** Evaluate agentic systems on pedagogical quality and longitudinal learning gains rather than language performance, and design against the LLM constraints the survey lists: hallucinated claims on novel topics, limited session-long memory without external memory modules, and predominantly text-optimized multimodal understanding.
+- **Designers.** Favor lightweight, interoperable, open deployments (LTI/xAPI-compatible, open-source or on-device models) over costly cloud-dependent systems, which the survey ties to unequal access across institutions.
+
+## Limitations
+
+- The review is narrative rather than systematic: the search covered four databases (Scopus, Web of Science, IEEE Xplore, ACM Digital) from January 2015 to August 2025, and the flow diagram is explicitly "PRISMA-style (simplified)" — no screening counts, no risk-of-bias appraisal, and no pooled effect estimates are reported.
+- The ≥4-of-6 criteria threshold is a deliberate definitional cut by the authors, so the taxonomy's boundaries — including the exclusion of reactive chatbots — reflect a design choice rather than a validated construct measure.
+- Benefit claims (personalization, motivation, relief of routine instructor work) are drawn from heterogeneous applications the survey neither pools nor weights, so magnitudes cannot be compared across studies.
+- The reviewed systems inherit the LLM limitations the authors themselves enumerate: hallucinations when reasoning about new or ambiguous topics, weak session-long memory without external storage, and constrained real-time multimodal understanding.
 
 ## Connected Concepts
 

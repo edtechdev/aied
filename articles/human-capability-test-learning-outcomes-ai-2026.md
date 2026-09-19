@@ -1,7 +1,7 @@
 ---
 title: "A Human Capability Test for Learning Outcomes in the AI Era"
 created: "2026-09-04T09:09:00-04:00"
-updated: "2026-09-04T09:09:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -27,6 +27,19 @@ The proposed test reframes [[assessment]] around three questions: what must a st
 ## Implications
 
 By shifting the [[assessment]] question from *whether* AI was used to *what capability remains the learner's own*, the framework offers a principled way to preserve [[academic-integrity|academic integrity]] and [[authentic-assessment|authentic]] evidence of learning in the AI era. It gives instructors a practical, outcome-level procedure for deciding what to assess independently versus with AI augmentation.
+
+## What this means for practice
+
+- **Instructors.** Answer the test's three questions for every learning outcome before writing the assignment: what must students demonstrate independently, what may AI augment, and what must they verify, defend, and take responsibility for.
+- **Instructors.** Require multiple forms of evidence rather than one AI-assisted submission — an oral defense, supervised problem formulation, laboratory decision, or transfer problem each contributes, and no single format is the test.
+- **Assessment designers.** Distribute the balance across the program: more independent demonstration in foundational courses, deliberate AI-supported synthesis and transfer in intermediate courses, and defended consequential judgments in advanced courses.
+- **Assessment designers.** Use the test at program level for assurance of learning, mapping each outcome's independent, augmented, and accountable conditions against accreditation requirements such as ABET's expectation that students solve complex engineering problems.
+
+## Limitations
+
+- This is a conceptual proposal, not an empirical study: no students, courses, or assessment data are reported, so the test's reliability and validity are untested.
+- The framework is illustrated with a single example, an engineering material-balance problem, and the author states it is intentionally non-prescriptive, leaving no scoring rules or validated instrument for others to reuse.
+- The argument rests on institutional policy reports from MIT, Brown, and the University of Toronto plus the ABET criteria, not on evidence about whether the proposed evidence formats actually distinguish independent from AI-augmented capability.
 
 ## Connected Concepts
 - [[assessment]]

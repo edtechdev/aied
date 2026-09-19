@@ -1,7 +1,7 @@
 ---
 title: "Arthur: An artificial intelligence powered teaching assistant system for Engineering Economics class"
 created: "2026-09-03T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [intelligent-tutoring, machine-learning]
 assessment: [feedback, formative-assessment]
@@ -30,6 +30,21 @@ discipline: [engineering education]
 - **Dialogue-based interaction to balance accuracy and efficiency.** Rather than forcing full answers (which can constrain students' problem-solving), Arthur starts by requesting only the final answer, then iteratively prompts for specific intermediate answers when the backbone's prediction confidence falls below a 0.8 threshold—adaptively reducing false positives and the burden on [[student-ai-interaction|student input]].
 
 - **Operationalization and generalizability.** The system was deployed as a web interface with a curated question bank covering ten Engineering Economics topics, integrating rubric labels into natural-language feedback templates. The framework is designed to generalize to CFQs in other engineering disciplines, with discussion of representation and interaction biases, human annotation error, and opportunities for [[generative-ai|LLMs]] to automate handwriting recognition.
+
+## What this means for practice
+
+- **Instructors.** Start each feedback dialogue with the final answer and request intermediate answers only when the model's confidence falls below the 0.8 threshold, which preserves students' own solution approaches while reducing false positives.
+- **EdTech designers.** Augment small, imbalanced rubric datasets with random masking rather than interpolation such as SMOTE, which would violate the logical dependencies of calculated-formula solutions while masking at probabilities from 0.1 to 0.9 preserves them.
+- **Instructors.** Keep collecting intermediate answers during grading: models trained and tested on intermediate plus final answers outperformed those using final answers alone, which matters most for the less frequent mistakes.
+- **EdTech designers.** Budget for per-question models and course expertise — each calculated formula question needs its own XGBoost backbone and a careful identification of critical intermediate answers before deployment.
+- **Instructors.** Disclose the system's limits inside the course, as this deployment did by informing students of Arthur's limitations, enabling feedback uploads to improve the system, and offering office hours for clarification.
+
+## Limitations
+
+- Evidence comes from a single undergraduate Engineering Economics course and ten calculated formula questions, with training data hand-curated from previous semesters' graded handwritten submissions — a small, imbalanced dataset that random masking was used to enlarge artificially.
+- Prediction quality is modest: precision 0.81 and recall 0.79 but accuracy 0.65, so roughly a third of exact-match mistake diagnoses are wrong, which is why the authors had the system inform students of its own limitations.
+- No learning outcome was measured: the study reports model performance and a deployed question-bank website, not student performance with the feedback.
+- Course-specific expertise is still required to choose questions and critical intermediate answers, which the authors name first among their three limitations because it restricts how far the question bank can expand; they also flag representation bias from imbalanced mistake frequency and interaction bias as risks.
 
 ## Connected Concepts
 

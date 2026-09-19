@@ -1,7 +1,7 @@
 ---
 title: "Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [critical-thinking, limitations-in-aied-research]
 technology: [generative-ai, llm]
@@ -27,6 +27,21 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - **Heterogeneity means new studies add almost no information.** An additional infinite-size study would add fewer than three observations' worth of effective sample size given the existing heterogeneity — so accumulating more studies of the current type will barely move estimates. The authors recommend high-quality, large-scale pre-registered studies and registered replication reports analyzed separately.
 - **Direct implications for meta-[[research-methods-aied|research]] quality.** Reporting quality was poor enough that effect sizes could not be recovered from 7 of the meta-analyses. The results also align with re-analyses (Bardach et al.; Bartoš et al. 2025) showing that prominent positive meta-analyses like Wang & Fan (2025) — since retracted — had effects that disappear entirely under publication-bias adjustment.
 - **Caveat on scope.** The estimates capture only short-term, direct effects on traditional learning measures; AI may also reshape education indirectly ([[metacognition]], instruction, feedback, assessment) in ways these metrics miss — so null/heterogeneous average effects may partly reflect measurement misalignment rather than zero educational value.
+
+## What this means for practice
+
+- **Researchers.** Treat published pooled effects as upper bounds, not estimates: across 1,840 effect sizes from 67 meta-analyses the bias-adjusted model-averaged effect was SMD = 0.196, against a median published effect of SMD = 0.67.
+- **Researchers.** Stop treating additional conventional studies as evidence accumulation — with between-study heterogeneity at τ = 0.869, an additional infinitely large study would add fewer than three observations' worth of effective sample size.
+- **Researchers.** Fund and report pre-registered, large-scale studies or registered replication reports analyzed separately, because the prediction interval for a new study runs from −1.521 to +1.908 standard deviations.
+- **Policymakers.** Do not cite the current meta-analytic literature as support for AI or [[llm|LLM]] deployment rules; subgroup analyses by outcome type, educational field and level, and the role of AI found no group with consistent benefits.
+- **Researchers.** Test the measurement, not only the delivery: these estimates cover short-term, direct effects on traditional learning measures, which can miss indirect change in [[metacognition]], instruction, [[feedback]], and [[assessment]].
+
+## Limitations
+
+- The analysis is second-order: effect sizes and standard errors could not be recovered from seven of the published meta-analyses, and nine were excluded when re-computed pooled estimates diverged from the originals by more than SMD = 0.05.
+- Of the 1,840 effect size estimates, 632 had no reported publication year, so the pre- versus post-ChatGPT comparison rests on 690 and 518 estimates respectively.
+- The publication-bias adjustment is model-based — Bayesian model averaging over selection models and PET-PEESE — and the authors run a weight-function-only sensitivity analysis precisely because PET-PEESE can over-correct genuine small-study differences.
+- The outcome space is narrow: short-term, direct effects on traditional learning measures, so nothing here speaks to indirect effects such as [[metacognition]], feedback, or assessment change.
 
 ## Connected Concepts
 

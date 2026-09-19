@@ -1,7 +1,7 @@
 ---
 title: "Suitability of Artificial Intelligence Supported Lesson Plans from the Perspective of Science Education Experts"
 created: "2026-09-03T14:30:55-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [curriculum-design, teacher-role]
 technology: [generative-ai]
@@ -30,6 +30,21 @@ methods: [qualitative-research]
 - **Contextualization and language are real limits.** Neither platform adequately adapted plans to the local socio-cultural context of Mersin, Turkey even when prompted; and both generated pedagogically richer outputs from English than from Turkish prompts, exposing a [[digital-divide|digital equity]] concern where English-language proficiency shapes the pedagogical quality of AI tools.
 
 - **Expert coding achieved substantial reliability.** Two researchers independently coded open-ended applicability judgments with quadratic weighted kappa κ = 0.79 (95% CI 0.68–0.90), indicating substantial agreement for the qualitative [[qualitative-research|thematic analysis]].
+
+## What this means for practice
+
+- **Instructors.** Treat an AI plan as a draft and reserve your own planning time for the stages the tools handle worst — prototyping, failure analysis, and revision — since engineering skills were the lowest-scoring area for both platforms while presenting the finished solution scored highest.
+- **Instructors.** Write prompts in English or budget time to repair the output: pilot prompts in Turkish failed to convey the EDBL framework to either platform, so the study standardized an English prompt before the expert evaluation and translated the resulting plans back for review.
+- **Instructors.** Add the local context yourself. Neither platform adapted the plan to the target city of Mersin when explicitly prompted to, which the authors attribute to the tools' limited socio-cultural contextualization.
+- **Designers.** If you are choosing between platforms, prefer one with pedagogical structure built in: the education-focused tool outscored the general-purpose model on feedback-intensive stages such as evaluating and retesting, and on instructional sequencing and curriculum alignment.
+- **Faculty developers.** Train teachers to audit plans stage by stage against their own curriculum rather than judging them holistically — experts' holistic preferences did not track the rubric scores, and the largest weaknesses sat in process stages that a quick read of a well-sequenced plan will not reveal.
+
+## Limitations
+
+- Eleven science education experts, selected by criterion sampling in Turkey, each rated one plan per platform — two lesson plans in total, for a single sixth-grade "Sustainable Living and Biodiversity" unit — so the study evaluates documents, not classroom implementation.
+- The plans were never taught: all evidence comes from expert ratings on a 10-point rubric plus open-ended judgments, with no student [[student-engagement|engagement]] or [[learning-gains|learning]] data.
+- The evaluation rubric collapsed two EDBL stages ("proposing solutions" and "choosing the best solution") into a single rating category to fit the structure of the AI output, so the finer-grained process steps of the model the study uses as its benchmark were not separately assessed.
+- Prompt language and translation are a confound the authors flag: prompts were standardized in English after Turkish prompts failed, and the plans were translated for evaluation, a process documented and named as a limitation of the study.
 
 ## Connected Concepts
 
