@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence in Science and Chemistry Education: A Systematic Review"
 created: "2026-08-19T12:40:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T06:55:23-04:00"
 type: article
 technology: [generative-ai]
 ethics: [ethics]
@@ -51,6 +51,21 @@ Researchers emphasize recurring **ethical challenges**: [[equity-in-ai-education
 - More research is needed on AI for developing **conceptual understanding, [[problem-solving]], and laboratory skills** in chemistry and STEM.
 - The **teacher-candidate focus** signals a strategic orientation toward future practitioners' [[ai-literacy|AI literacy]]; the limited high-school and middle-school coverage is a significant gap in integrating AI into early education levels.
 - Recommended: [[teacher-education|teacher-training]] programs, projects encouraging AI use in chemistry/STEM, and efforts to develop AI literacy for conscious tool use.
+
+## What this means for practice
+
+- **Teacher educators.** Have candidates use ChatGPT and conversational robots as science tutors, then require them to verify answers against other sources — the reviewed studies show students copying AI output without checking its accuracy.
+- **Teacher educators.** Build AI-supported games, virtual laboratories, and simulations into methods courses to create the multimodal, auditory lab environments that the reviewed studies link to successful knowledge construction.
+- **Teacher educators.** Add [[ai-literacy|AI literacy]] to the Technology component of TPACK, covering gender and racial bias in AI-generated images, [[hallucination-risk|hallucination]], plagiarism, and copyright, so graduates can name and manage these risks.
+- **Researchers.** Run experimental or mixed-method studies at middle- and high-school levels, where only 1 of 18 reviewed studies (5.5%) addressed middle school and 2 (11.1%) high school.
+- **Researchers.** Study pedagogical rather than technical uses in [[chemistry-education|chemistry education]], measuring effects on conceptual understanding, problem solving, and laboratory skills.
+
+## Limitations
+
+- The review covered only English-language journal articles in the social sciences indexed in Web of Science (n=132) and Scopus (n=123); non-English work, books, and conference papers were excluded.
+- Only 18 studies met the inclusion criteria, and no methodology information could be found for 9 of them, limiting conclusions about the quality of the underlying evidence.
+- The evidence base is skewed toward teacher candidates (44.4%, n=8); middle-school (5.5%, n=1) and high-school (11.1%, n=2) students are barely represented.
+- Several risk/limitation categories — data dependency, effects on human decision-making, and skill development — rest on a single study each (n=1).
 
 ## Connected Concepts
 
