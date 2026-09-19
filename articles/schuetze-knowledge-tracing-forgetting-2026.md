@@ -1,7 +1,7 @@
 ---
 title: "Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [cognitive-psychology]
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, machine-learning, student-modeling]
@@ -22,6 +22,21 @@ page_kind: [evaluation, framework]
 4. In some cases, having a poor model of human learning and memory performs about the same as having no model at all, because these popular models conflate high in-the-moment performance with high likelihood of long-term retention (the [[desirable-difficulties|learning-versus-performance]] distinction from [[cognitive-psychology]]).
 5. BKT-F's forgetting parameter failed to improve forecasting largely because of the successive-relearning paradigm's structure: items are dropped once mastered, so practice-opportunity count correlates with item difficulty, making within-session forgetting and learning trajectories hard to translate between learners and across sessions.
 6. The authors attribute apparent model success in the literature to the validation method (retroactive full-dataset fitting) and call for **time-based (walk-forward) cross-validation** and more cognitively plausible models that account for retention interval, spacing, and between-session forgetting.
+
+## What this means for practice
+
+- **Learning analytics designers.** Validate mastery models with time-based, walk-forward cross-validation instead of fitting the full dataset: under retrospective fitting BKT, BKT-F, and AFM looked acceptable (AUC 0.79, 0.77, 0.74), but trained on Session 1 alone they overestimated next-session performance by about 58%, 51%, and 47% respectively.
+- **Learning analytics designers.** Do not assume a forgetting parameter buys long-horizon accuracy: across Sessions 2–6, the models without any forgetting mechanism performed about as well as the forgetting-augmented versions.
+- **Researchers.** Test models against known cognitive effects, not only fit metrics — all three models failed to reproduce the empirically observed spacing benefit and sometimes predicted the opposite ordering of practice conditions.
+- **Edtech designers.** Treat in-the-moment performance as a weak proxy for retention: the authors show these models conflate high immediate performance with a high likelihood of long-term retention, the [[desirable-difficulties|learning-versus-performance]] confusion.
+- **Researchers.** Adopt use- and cognitively-based validation criteria — learning, spacing, and forgetting across sessions — as the standard for [[student-modeling|student models]] intended to forecast future learning.
+
+## Limitations
+
+- The analysis is a secondary analysis of one laboratory successive-relearning dataset: 88 participants learning 48 Lithuanian-English word pairs across six sessions, totaling 49,491 trials.
+- The paradigm presents every item in every session, unlike tutoring systems that rarely return to content already marked mastered, so the mastery and forgetting dynamics tested here may not transfer to real ITS logs.
+- Trial counts varied by dropout and by how many trials each participant needed to reach criterion (average 562, minimum 187, maximum 1,195), which makes practice-opportunity count correlate with item difficulty.
+- Session 1 was excluded from the multi-session training runs because it contained additional manipulations that produced even worse model fits, so the extrapolation evidence starts from the relearning sessions alone.
 
 ## Connected Concepts
 

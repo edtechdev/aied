@@ -1,7 +1,7 @@
 ---
 title: "SSAIL: A Design Framework for Safe and Sound AI for Learning"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-03T09:00:00-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [agency, ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [generative-ai, learning-analytics]
@@ -38,6 +38,21 @@ These two evidence streams jointly inform adaptive decisions about task selectio
 ## Implications for Designing Human-Development-Centered AI
 
 For [[ai-education|AIED]] designers, SSAIL reframes safety from a property of model outputs to a property of the human-development trajectory a learning environment supports or erodes, aligning with scholarship on [[cognitive-offloading]] and [[desirable-difficulties|productive struggle]]. It positions [[human-ai-collaboration]] design — deciding which cognitive tasks the tool performs versus the learner — as the central safety lever, and it argues that as AI capabilities evolve, safe and sound learning must keep the human competencies it aims to protect at the center. Its evidence-centered pairing of learner and system measurement offers a concrete path for [[learning-analytics]] and assessment communities to evaluate not just what AI produces but what it lets learners become able to do on their own.
+
+## What this means for practice
+
+- **Designers.** Specify what cognition must remain with the learner before specifying what the AI will do, and treat that allocation as the central safety lever rather than accuracy, [[bias-mitigation|bias]], privacy, or harmful outputs alone.
+- **Designers.** Instrument two coupled evidence streams — [[formative-assessment|stealth assessment]] of the learner's emerging competencies and AI evaluation and verification of the system's behavior — because deciding what is safe requires both a learner judgment and a system judgment.
+- **Instructional designers.** Judge safety on durable learning rather than immediate performance: an AI-assisted essay or a correct solution can reflect cognition supplied by the tool rather than a competency the learner has developed.
+- **Designers.** Audit the evaluators themselves: the paper notes that LLM-based evaluators can exhibit position, verbosity, and self-enhancement biases, and that unreliable evaluators create false assurance.
+- **Researchers.** Treat the framework's competence-first stance as a hypothesis to test — what learners should carry out themselves, what AI may perform, and how that allocation should shift as competency develops.
+
+## Limitations
+
+- SSAIL is a conceptual and design framework, not an empirical test: the author states it adopts the design logic of safety-by-design architectures "without claiming formal safety guarantees," and that its constructs, facets, indicators, and mechanisms require empirical validation.
+- The observable examples in Figures 1 and 2 are presented as an initial specification to be refined through expert review, learner studies, process analysis, and empirical modeling; the paper reports no study of whether SSAIL-informed orchestration improves durability, transfer, agency, or [[self-regulated-learning|self-regulation]].
+- The human–AI performance expression, Observed performance = f(human contribution, AI contribution, human–AI interaction, task/context), is explicitly conceptual rather than a psychometric decomposition, so the framework supplies no method for separating the human contribution from the AI contribution.
+- The framework's own evidence layer is unvalidated: the paper identifies as open questions whether [[cognitive-offloading|cognitive labor]] can be classified reliably as protected, shared, or delegated, and whether coupled learner and system evidence supports more valid inferences than either stream alone.
 
 ## Connected Concepts
 - [[generative-ai]]

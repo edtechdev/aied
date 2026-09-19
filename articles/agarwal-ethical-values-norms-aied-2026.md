@@ -1,7 +1,7 @@
 ---
 title: "Identifying the ethical values and norms for artificial intelligence in education: A systematic literature review"
 created: "2026-09-03T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-education]
 ethics: [bias-mitigation, ethics, privacy]
@@ -26,6 +26,21 @@ institutions: [educational-policy-ai, governance]
 - **Gaps in the literature.** Only three of 25 articles are methodology papers or original [[research-methods-aied|research]] (12%), indicating ethics is rarely integrated into the design of AIED research; only two articles address [[k-12|K-12 education]], showing lagging attention there. Norms for human oversight and educational aptness are underrepresented, while data, discrimination and explicability dominate.
 - **The six EVs appear robust across AIED generations.** A preliminary mapping of ethical principles in five recent systematic reviews on the ethics of [[generative-ai|generative AI]] in education (published 2024–2025) shows those principles fit within the same six EVs, suggesting the framework predates and generalizes beyond GenAI.
 - **A framework for governance and policy.** The value/norm matrix offers a foundation for building detailed ethical frameworks and [[regulation]] for AIED, giving educational institutions, developers and regulators concrete norms to implement specific values — relevant to [[governance]], [[educational-policy-ai]], and [[equity-in-ai-education]].
+
+## What this means for practice
+
+- **Institutions.** Adopt the six values — non-discrimination, data stewardship, human oversight, goodwill, explicability, and educational aptness — as the review checklist for an AIED procurement, because educational institutes are the only stakeholder set the review found carrying norms for all six.
+- **Institutions.** Define educational goals and staff human oversight explicitly in deployment plans: oversight norms fall only on educational institutes and end users, and educational aptness norms only on educational institutes and regulators.
+- **Designers.** Build explicability and non-discrimination into the product rather than documenting them after release, since developers carry the most norms of any stakeholder set, including seven for non-discrimination and four for explicability.
+- **Policymakers.** Write goodwill obligations into regulation and licensing — regulators carry nine goodwill norms, more than any other stakeholder set — and create norms that give end users, who receive only four norms in total with none for non-discrimination, data stewardship, or educational aptness, an active role.
+- **Institutions.** Treat value conflicts as design decisions, not edge cases: the review documents tensions such as explicability against accuracy and [[privacy]], and non-discrimination against data stewardship, that have to be adjudicated before deployment.
+
+## Limitations
+
+- The 736 records were screened by a single reviewer, and the thematic grouping of ethical values was performed by the primary researcher alone; the authors name both as limitations that raise the risk of missing relevant studies.
+- The database search ran in November 2022, so no post-ChatGPT literature is represented, and the authors state that their section on [[generative-ai|generative AI]] ethics in education is therefore not comprehensive.
+- Only eight of the 25 included articles mention any educational setting, and only two focus on [[k-12|K-12]] education, so claims about schooling levels rest on a very thin base.
+- The values and norms were derived by thematically grouping definitions and keywords from 25 articles — 22 from the database search plus 3 found by backward snowballing — of which only three (12%) were methodology papers or original research.
 
 ## Connected Concepts
 

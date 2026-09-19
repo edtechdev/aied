@@ -1,7 +1,7 @@
 ---
 title: "Navigating uncertainty: university teachers' experiences and perceptions of generative artificial intelligence"
 created: "2026-09-03T12:22:25-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, educational-development, teacher-role, theory-development-aied]
 technology: [generative-ai]
@@ -40,6 +40,21 @@ The study is theoretically distinctive in grounding the analysis in **postphenom
 - **For [[assessment]] and [[academic-integrity]]:** the assessment rethinking themes (AI-proof formats, multiple/incremental submissions, transparency declarations, feedback) echo the knowledge base's shift from [[ai-detection|detection]] toward redesign; but the paper also surfaces teachers' concern that returning to traditional/sit-in formats risks losing the [[pedagogy|pedagogical]] value of at-home, self-paced long-form writing.
 - **For [[teacher-role]] and [[curriculum-design]]:** teachers identified cultivating [[critical-thinking|critical thinking]], evaluative judgment, and ethical GAI use as newly central responsibilities — pointing to a reconfiguration of the teacher role around guiding critical [[student-engagement|engagement]] with GAI rather than transmitting content.
 - **For [[equity-in-ai-education]]:** unequal access to paid vs. free GAI tiers was a live teacher concern, framing equity as an access-and-infrastructure problem within classrooms, not only across countries or institutions.
+
+## What this means for practice
+
+- **Instructors.** Treat your own unease about [[generative-ai|GAI]] as a legitimate professional signal, not a gap in your competence. These experienced teachers (average 13 years) described a genuine "state of vulnerability," and the authors argue it calls for confidence- and [[well-being|well-being]] support rather than tool training alone.
+- **Instructors.** Protect the pedagogical value of at-home long-form [[writing-education|writing]] while adding transparency measures — honor statements and declarations of AI use — instead of defaulting to sit-in or oral exams, which the teachers warned could sacrifice self-paced, deep writing.
+- **Instructors.** Make [[critical-thinking|critical thinking]], source evaluation, and fact-checking explicit course objectives. Teachers identified evaluating data sources, checking output, and owning one's knowledge as newly central responsibilities for learners working with GAI.
+- **Faculty developers.** Create designated time and space for teachers to experiment with GAI, compare experiences, and draft guidelines collaboratively at institutional, departmental, and course levels, treating [[ai-literacy|AI literacy]] and readiness as a supported collective endeavor.
+- **Faculty developers.** Give junior teachers targeted support: respondents singled out colleagues with less course-specific teaching experience as especially exposed when assessing work potentially produced with GAI.
+
+## Limitations
+
+- The study is built on 24 teachers at one university in Sweden, purposively sampled from sociology, philosophy, law, and education courses in which long-form home essays dominate assessment; the authors state the findings are rooted in that setting and time frame and explicitly do not aim to generalize.
+- The evidence is four 80–90 minute English-language focus groups of four to eight respondents, plus field notes — teachers' reported experiences and anticipations, with no classroom observation and no student outcome data.
+- Coverage extends across three faculties (Social Sciences, Humanities, and Law) only; natural sciences, engineering, and medical education settings are not represented.
+- Data were collected in spring 2023, in the first months after ChatGPT's public release, so the reactions are anchored to that early period rather than to teachers' settled practice.
 
 ## Connected Concepts
 

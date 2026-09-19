@@ -1,7 +1,7 @@
 ---
 title: "From evaluation to emulation: LLMs as agents of iterative pedagogical design"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [situated-learning]
@@ -31,6 +31,21 @@ methods: [design-based-research]
 - **LLMs as calibration and co-design partners.** Beyond scoring, LLMs served as rubric stress-testing and semantic-debugging tools, and post-revision demonstrated greater consistency than some human raters in applying performance thresholds — useful for norming sessions and [[formative-assessment|formative peer feedback]] environments.
 
 - **Human-in-the-loop oversight remains essential.** The authors caution that LLMs can misinterpret nuance, hallucinate rationale, or project false confidence; role fidelity depends heavily on prompt specificity, and models occasionally blend roles. They advocate for [[human-in-the-loop-ai|human-in-the-loop assessment]] where educators review and refine LLM outputs rather than treat them as authoritative.
+
+## What this means for practice
+
+- **Instructors.** Treat the rubric as a revision target, not a fixed instrument: mean LLM-human agreement rose from 54.75% to 81.25% only after descriptors were clarified and implicit indicators of learning (inferred tool use, local context without named locations, reasoning without citations) were explicitly accepted.
+- **Instructors.** Ask the model to justify each rating and use the rationales as a diagnostic: the authors located the weakest rubric categories by reading where GPT-4 scored a poster 1 of 3, particularly Situatedness and applied science and engineering concepts.
+- **Designers.** Use role prompts as deliberately different lenses on the same artifact. The instructor, peer-reviewer, and grant-reviewer framings produced qualitative differences in tone and focus — process-oriented, conversational, and outcomes-oriented respectively — which is useful for [[formative-assessment|formative]] feedback and norming, not for producing a single score.
+- **Designers.** Calibrate rubric precision: descriptors too vague invite free interpretation and descriptors too rigid reduce the model to pattern matching, so each iteration should balance precision against flexibility.
+- **Instructors.** Disclose AI involvement and keep outputs formative. The authors warn that role-simulated feedback framed as instructor or reviewer judgment can be misread as authoritative, and recommend telling students when feedback is AI-generated, what it is used for, and how much human oversight it received.
+
+## Limitations
+
+- Single case study in one disciplinary context — design-based STEM education on energy-efficient architecture and building simulation — with all 80 posters drawn from that course; the authors state that generalizability to other STEM or non-STEM domains, and to artifact types such as lab reports, written assignments, or oral presentations, remains untested.
+- The human baseline for "agreement" was itself unstable: two trained raters scored 20 posters on the initial rubric with Cronbach's alpha of 0.789 and Cohen's kappa ranging from 0.00 to 0.74 across categories, and discrepancies were resolved by consensus rather than independently.
+- Role emulation was not reliable: the model occasionally blended roles (for example, an informal tone in the grant-reviewer role), feedback quality declined when posters lacked sufficient detail, and fidelity depended heavily on prompt specificity.
+- Convergence is measured against human raters rather than learning outcomes — the study reports rating agreement and cluster structure, not whether students learned more — and the authors leave open the epistemological question of whether the model emulates evaluative reasoning or reflects statistical regularities in language.
 
 ## Connected Concepts
 

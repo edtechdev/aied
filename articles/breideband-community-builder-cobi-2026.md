@@ -1,7 +1,7 @@
 ---
 title: "A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 
 foundations: [teacher-role]
@@ -28,6 +28,21 @@ stakeholders: [professional-training]
 - The implementation integrity study (Study 3) with CoBi v2 found teachers pursued diverse adaptations with varying fidelity to design goals: high-integrity engagements used noticings and [[visualization]]s to spark [[metacognition]] and critical reflection about collaboration and the AI's classifications, while low-integrity uses drifted toward using CoBi as a performance-monitoring device or veering into general [[ai-literacy]] discussions.
 - CoBi's discourse classification relies on three fine-tuned RoBERTa transformer models trained on human- and Whisper ASR transcripts, achieving AUROCs of 0.84, 0.77, and 0.82 on human transcripts (0.71, 0.67, 0.71 on Whisper transcripts), adequate for [[educational-nlp]]-based class-level feedback via the principle of aggregation.
 - The authors identify four transferable design principles: (1) significant [[teacher-role]] professional learning is required for integral use; (2) real-time multi-device feedback must be managed to avoid fragmenting student attention; (3) classroom-level (rather than individual) feedback effectively navigates tensions between [[privacy]], surveillance, and student agency; and (4) positioning ASR imperfections as a feature enables productive discussion of AI's affordances and limitations, supporting [[trust-calibration]].
+
+## What this means for practice
+
+- **Instructors.** Plan substantial professional learning and classroom routines around CoBi's three phases rather than expecting the display to speak for itself; high-integrity use — turning noticings and visualizations into [[metacognition]] and critique of the AI's own classifications — depended on teacher learning, while teachers not given CoBi-specific guidance drifted toward performance monitoring.
+- **Instructors.** Schedule the revisiting discussion as a pre-action review at the start of the next class instead of at the end of the current one; in the v1 pilot, time constraints and classroom management cut the end-of-class revisiting phase short.
+- **Instructors.** Use the system's errors deliberately. Teachers who treated misclassified noticings and ASR garble as material for discussing what the AI can and cannot do converted a technical weakness into [[ai-literacy]] instruction.
+- **Designers.** Keep feedback at the class level and framed as non-evaluative. Aggregated tree, radar, and sentence-cloud [[visualization|visualizations]] were what made the privacy tension manageable — students explicitly objected to anything that would "snitch" to administrators — and 83.3% of student pairs preferred the qualitative tree over the quantitative radar.
+- **Designers.** Align teacher and student interfaces before deployment. In the pilot, mismatched views left teachers and students unsure whether a visualization described a group or the whole class.
+
+## Limitations
+
+- No efficacy evidence by design: the authors state the goal was buy-in, technical feasibility, and implementation integrity rather than efficacy, and that randomized controlled trials remain future work — there is no control condition and no measure of whether students' collaboration skills improved.
+- Consent sharply bounded the samples: study 2 analyzed 24 fully consented students and study 3 analyzed 37 of 97 enrolled students, three classrooms each in one school district, while study 1 drew on 3 STEM/Science middle school teachers and 12 seventh graders recruited opportunistically from two schools.
+- The discourse classifiers were trained on data from a single curriculum unit, cover only three of the four Community Agreement categories, and lose accuracy on Whisper ASR transcripts (AUROCs of 0.71, 0.67, and 0.71) relative to human transcripts (0.84, 0.77, and 0.82).
+- CoBi processes speech only: the authors state it cannot attend to non-verbal cues such as gaze and head movement that carry conversational feedback, with multimodal support slated for a future version.
 
 ## Connected Concepts
 

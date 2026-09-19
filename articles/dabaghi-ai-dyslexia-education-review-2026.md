@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence to help people with dyslexia in education: An interdisciplinary literature review"
 created: "2026-09-03T13:40:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [generative-ai, personalized-learning]
 ethics: [accessibility, assistive-technology, inclusive-learning, neurodiversity]
@@ -25,6 +25,21 @@ methods: [meta-analysis-systematic-review]
 - **Open challenges** include limited experimental validation, scalability and accessibility of diagnostic tools, [[ethics|ethical]] and [[privacy]] concerns with sensitive student data, limited teacher support and training, and language/cultural barriers (most research targets English-speaking populations).
 - **Future trends** point to GAI-powered personalized materials and real-time adaptive feedback, [[multimodal|multi-modal]] diagnostic models integrating eye-tracking, EEG, and behavioral analytics, NLP-driven [[intelligent-tutoring|intelligent tutoring systems]] and conversational agents, educator-facing support tools, and interdisciplinary collaboration across AI, education, cognitive science, and psychology.
 - **[[research-methods-aied|Methodological]] limitations** of the review itself include interpretative classification bias, exclusion of non-English studies, heterogeneous evaluation protocols that prevent [[quantitative-research|quantitative]] synthesis, and a rapidly evolving GAI evidence base that remains preliminary.
+
+## What this means for practice
+
+- **Instructors.** Start with low-infrastructure assistive tools (text-to-speech, NLP-based reading and writing support) rather than detection technologies: EEG and eye-tracking approaches show diagnostic promise but require specialized equipment and controlled environments, which limits their [[accessibility]] in ordinary school settings.
+- **Instructors.** Evaluate any AI tool with your own learners before adopting it. The reviewed studies foreground classification accuracy and technical performance while overlooking ecological validity and classroom deployment, so vendor accuracy figures do not establish that a tool works in a real class.
+- **Researchers.** Prioritize longitudinal, classroom-based evaluations with shared benchmarks and standardized reporting practices; the authors state that heterogeneous methodologies, evaluation protocols, and outcome measures across the 72 studies prevent quantitative synthesis.
+- **Designers.** Localize rather than translate: most research in the corpus targets English-speaking populations, and the review lists language and cultural barriers as an open challenge for learners with [[special-education|specific learning disorders]].
+- **Faculty developers.** Build teacher training and teacher-facing support tools into any deployment, since limited teacher support and training is one of the review's named open challenges and the generative-AI strand is already producing [[teacher-role|teacher training]] support tools.
+
+## Limitations
+
+- Categorization was interpretive: studies were sorted into researcher-defined semantic categories and intersections, which the authors state may introduce classification bias, and reliability was reached through consensus discussion rather than a reported agreement statistic.
+- Only English-language publications were included, excluding non-English regional and practice-oriented contributions.
+- The corpus was narrowed from more than 500 retrieved papers to 72 analyzed studies (after removing 89 out-of-scope papers and 43 reviews), and the heterogeneity of methods and outcome measures across those 72 studies prevents any pooled effect estimate — this is a narrative mapping, not a meta-analysis.
+- The search window runs from 2018 to October 2024, and all generative-AI work in the corpus dates to 2024; the authors state plainly that this evidence base remains preliminary and may evolve significantly, so the review's conclusions about [[generative-ai|generative AI]] rest on a handful of recent, lightly validated studies.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Innovative assessment and grading practices in higher education: A critical exploration for management educators"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [mastery-learning]
@@ -26,6 +26,20 @@ level: [higher ed]
 - **The gap is partly a matter of language and culture.** Many management educators already use [[experiential-learning|experiential]] and team-based activities that overlap with authentic assessment, but without that terminology; meanwhile norm-referenced "grading on a curve," external signaling (rankings, internships, accreditation), and students' instrumental mindset create normative barriers to [[mastery-learning|mastery]]-oriented and gradeless approaches.
 - **Authentic assessment is especially well-suited to management education.** Tasks mirroring real professional problems (live consulting projects, dashboards with executive briefings) align with the field's practice-oriented, employability focus and can support [[equity-in-ai-education|inclusive]], [[academic-integrity|integrity-preserving]] alternatives to exam-centered assessment in the [[generative-ai|GenAI]] era.
 - **Implementation demands institutional and cultural support.** Change is resisted by instructors and students alike; the authors recommend incremental experimentation (e.g., ungraded assignments, reassessment for a single task, standards-based [[mastery-learning|standards-based rubrics]]), program-level coordination, documented Scholarship of Teaching and Learning evidence, and dialogue spanning [[assessment-validity|validity]], assurance of learning, and stakeholders such as accreditation bodies and employers.
+
+## What this means for practice
+
+- **Instructors.** Start with a single low-stakes change rather than a grading overhaul: one ungraded assignment, reassessment for one task, or one standards-based rubric — the incremental moves the authors present as feasible entry points.
+- **Instructors.** Redesign one assignment around a real professional product, such as a live consulting deliverable or a dashboard with an executive briefing. Management educators already run experiential and team-based activities that map onto [[authentic-assessment|authentic assessment]] without using the term.
+- **Faculty developers.** Convene program-level conversations that connect assessment redesign to [[assessment-validity|validity]], assurance of learning, accreditation, and employer signaling, because the barriers the review documents — curving, rankings, internships, students' instrumental mindset — are institutional rather than individual.
+- **Curriculum designers.** Coordinate standards-based rubrics and reassessment opportunities across a program rather than within single courses, so students meet consistent criteria as they build assessment literacy over time.
+
+## Limitations
+
+- Uptake claims rest on 58 assessment-related articles from four journals (AMLE, JME, Management Learning, and IJME) published since 2005 — roughly three per year — and 18 of those appeared in two special issues (2010 and 2014), so the corpus is small and clustered.
+- Uptake was tracked through terminology: the authors note that management educators may already practice authentic assessment under labels such as [[experiential-learning|experiential learning]], so the absence of a term can understate actual use.
+- This is a literature review with no new student or classroom data; evidence for the five practices' benefits comes from scholarship largely outside management education, and within the corpus ungrading appears in exactly one article (Kjaergaard et al., 2023) while standards-based, mastery-based, and competency-based grading are referenced by none.
+- The five practices were selected on the authors' own criteria — pedagogical validity, strategic relevance, feasibility, and complementarity — rather than derived systematically, so the set is a curated judgment rather than a complete map of the field.
 
 ## Connected Concepts
 

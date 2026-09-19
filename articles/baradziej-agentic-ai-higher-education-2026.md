@@ -1,7 +1,7 @@
 ---
 title: "A systematic review of the roles of agentic AI in higher education"
 created: "2026-09-04T14:13:20-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai, ai-literacy, educational-development]
 technology: [generative-ai, intelligent-tutoring]
@@ -62,6 +62,21 @@ The evidence base is methodologically young: mostly short-term case studies and 
 ## Significance to the Knowledge Base
 
 This review's role-based map and outcome quantification distinguish it from the field's other syntheses: the [[agentic-ai-education-scoping-review|scoping review]] maps research breadth and capability levels; [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.]] supply the conceptual checklist and taxonomy; and this review adds the deployment-oriented question — *which role, with what measured outcome, under what governance* — grounding the [[agentic-ai|concept page's]] design tensions in an institutional, role-specific frame and a concrete responsible-integration agenda.
+
+## What this means for practice
+
+- **Instructors.** Pair any adaptive tutor with tasks that keep students doing the cognitive work: the review's sharpest empirical caution is Sargsyan's finding that passive learners in agentic-tutoring environments underperformed [[active-learning]] students by 8.7%, a gap attributed to deployment rather than the technology itself.
+- **Administrators.** Stand up the review's three pillars before scaling anything: [[ai-literacy]] for students and staff, ethical and data-protection infrastructure (GDPR/FERPA-class governance, bias audits, accountability frameworks), and competence-based [[educational-development|educator training]] — the professional-development gap is stark, with only 6.5% of faculty in some national contexts reporting direct AI use for education.
+- **Administrators.** Move student support from reactive to proactive. The eight studies in the administrative-and-support role include early-warning agents that monitor engagement and performance streams and intervene before problems entrench, which changes the staffing economics of at-risk support.
+- **Designers.** Decide the Copilot-versus-Autopilot split explicitly for each role: the review treats the amount of moment-to-moment control retained by humans as a recurring design axis, and the roles where the agent owns the loop (grading, early warning) are the ones where [[bias-mitigation|bias]] and [[metacognition|metacognitive]] erosion concentrate.
+- **Researchers.** Treat the headline outcome figures (15–25% academic gains, up to +40% engagement) as aggregations carried from Yuensook et al.'s synthesis of included reviews rather than as causal effects of agentic systems, and design the multi-year cohort studies the review calls for.
+
+## Limitations
+
+- The protocol was set a priori but was not prospectively registered (for example, in PROSPERO), and screening and data extraction were performed by a single author, with a second screener cross-checking only a 15% random sample for reliability.
+- The 48 included studies were drawn from 1247 records in five databases (Scopus, Web of Science, ERIC, Google Scholar, Wiley) with a hard March 2026 cut-off; sources found in the July 2026 search update were added narratively rather than re-entered into the screening flow, so the pathway counts describe the earlier corpus only.
+- The corpus is geographically skewed — North America 35%, East and South Asia 28%, Europe 21%, [[global-south|Global South]] 10% — a concentration the authors name as a notable limitation, and adaptive-tutoring evidence is dominated by STEM and language learning, leaving the humanities, social sciences, and professional education under-evidenced.
+- Agentic status was assigned by a threshold rule rather than a validated taxonomy — a study counted as agentic only if its system met at least three of four criteria (autonomy, planning, tool use, persistent memory) — so the six role counts depend on that binary classification judgment, and vendor documentation and technology reports are cited illustratively in the Results and Discussion without being counted among the 48 included studies.
 
 ## Connected Concepts
 

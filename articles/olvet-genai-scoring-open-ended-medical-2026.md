@@ -1,7 +1,7 @@
 ---
 title: Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [generative-ai, llm]
 assessment: [assessment, automated-assessment]
@@ -27,6 +27,21 @@ page_kind: [evaluation]
 - The authors emphasize that [[human-in-the-loop-ai|humans must remain in the loop]] to safeguard [[trust-calibration|validity, reliability, reproducibility, and bias]] when using generative AI for [[automated-assessment|scoring]], e.g., having faculty score a subset of exams to confirm accuracy.
 - Because 82% of US medical schools use pass/fail pre-clerkship grading, exact AI score agreement may not be necessary for many operational uses, expanding the practical case for [[automated-assessment|automated OEQ scoring]].
 - [[privacy|Privacy]] and [[ethics|ethical]] safeguards were addressed by de-identifying responses and storing them in HIPAA-compliant, password-protected databases, with UCSF using a localized model deployment on its secure network.
+
+## What this means for practice
+
+- **Assessment professionals.** Budget for iterative rubric engineering before trusting AI scores: reliability between GPT-4 and faculty rose from κw = 0.65 (question 1A) and 0.75 (question 2A) in iteration 1 to κw = 0.94 and 0.88 by iteration 3.
+- **Medical educators.** Keep faculty scoring a subset of exams — low-scoring or randomly selected — to confirm reliability, the safeguard the authors recommend for [[trust-calibration|validity, reliability, reproducibility, and bias]].
+- **Faculty development.** Run error-pattern analysis on discrepant responses and use the AI-generated narrative [[feedback]] to locate rubric gaps, but fix rubric wording rather than adding a model answer: supplying one in iteration 3 actually lowered reliability.
+- **Assessment professionals.** Prefer analytic rubrics for AI scoring and verify any holistic one — the analytic-rubric questions reached κw = 0.88–0.94 while the one holistic-rubric question reached only 0.54.
+- **Medical educators.** Review AI-generated feedback before releasing it: faculty found inaccuracies in GPT-4's narrative feedback, which the authors say risks misleading students about their mastery.
+
+## Limitations
+
+- The analysis covered only four questions at two US medical schools (first-year N = 99 and second-year N = 101 at one; N = 162 and N = 161 for the two holistic-rubric questions at the other), so the authors state it is unclear whether results generalize to other assessment questions.
+- The error-pattern analysis depended on GPT-4's own feedback, which was not always informative about why errors occurred, and the cause of faculty errors was never established, making the analysis descriptive rather than analytical.
+- Generative models are opaque: beyond the prompt and rubric, the process by which GPT-4 applied the rubric is unknown, and rubric edits did not move reliability monotonically (adding a model answer in iteration 3 reduced it).
+- Findings are tied to a single model version (GPT-4o-2024-05-13); the authors note it is unclear whether reliability holds for later generations of ChatGPT or other platforms.
 
 ## Connected Concepts
 

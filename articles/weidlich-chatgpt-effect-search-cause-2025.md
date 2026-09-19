@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT in Education: An Effect in Search of a Cause"
 created: "2026-09-05T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -26,6 +26,21 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - **A stark effect-size anomaly.** Deng et al. reported g = 0.7 for ChatGPT — *larger* than the 0.66 effect size of purpose-built [[intelligent-tutoring|Intelligent Tutoring Systems]] (Kulik & Fletcher 2016), even though ITS are engineered specifically for learning while ChatGPT was designed for entirely different purposes. Such a result signals that the "treatment" was a heterogeneous "secret sauce," not a coherent intervention.
 - **Valid learning measures are rare.** Many outcomes were self-reported skills/motivation, or performance measured *during* treatment (confounding learning with task support), rather than unassisted, post-intervention measures of enduring change. A notable included study (Ahmed Moneus & Al-Wasy 2024) measured translation quality produced *during* human–ChatGPT collaboration — collaborative output, not learning — yet contributed a huge effect (g = 3.1).
 - **The lesson of "fast science."** The rush to synthesize findings within two years of ChatGPT's launch (Deng et al. found 22 already-published ChatGPT-in-education reviews) produces research waste and premature causal claims. The authors call for a more deliberate research culture: let a richer literature accumulate, use stringent inclusion or detailed coding, and interpret meta-analytic effects cautiously.
+
+## What this means for practice
+
+- **Researchers.** Report all three non-negotiables in every efficacy claim — a treatment described well enough to replicate, the operationalized counterfactual of what the control group did, and an outcome measure that validly indicates durable learning.
+- **Researchers.** Measure learning after the treatment is removed: only 10 of 19 audited comparisons (53%) used an outcome that qualified as a learning measure, and the largest effect (g = 3.1) came from translation quality produced during human–ChatGPT collaboration, which is collaborative output rather than learning.
+- **Researchers.** Code treatment features — interaction mode, instructional principles, task structure, usage limits, domain knowledge supplied to ChatGPT — as moderators, or use stringent inclusion; without them the pooled treatment is a "secret sauce" and only 4 of 19 comparisons (21%) satisfied all three conditions.
+- **Researchers.** Read anomalous effect sizes as a validity warning: g = 0.7 for ChatGPT exceeds the 0.66 benchmark for purpose-built [[intelligent-tutoring|intelligent tutoring systems]], which the authors treat as a sign of a heterogeneous treatment rather than a coherent intervention.
+- **Researchers.** Let a literature accumulate before synthesizing it — the very meta-analysis critiqued here identified 22 already-published ChatGPT-in-education reviews within two years of the tool's launch.
+
+## Limitations
+
+- This is a conceptual paper with no primary data; its empirical element is an audit of 19 academic-performance comparisons drawn from a single meta-analysis (Deng et al., 2025), not a systematic sample of the ChatGPT literature.
+- The audit reports a subset of codes from a larger review (Lawson et al., forthcoming) and examines only the academic-performance and higher-order-thinking-propensity models, so outcomes outside those categories are not assessed.
+- The critique is built on one worked example — a meta-analysis published within two years of ChatGPT's launch — though the authors argue the concerns apply equally to other syntheses such as Wang and Fan (2025).
+- The coding scheme is coarse on its face (14 of 19 comparisons, 74%, had a well-defined treatment; 8 of 19, 42%, a well-defined control; 10 of 19, 53%, a learning measure), which leaves small cells and limits how far moderator analyses of treatment features can go.
 
 ## Connected Concepts
 

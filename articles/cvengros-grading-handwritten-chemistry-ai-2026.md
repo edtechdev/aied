@@ -1,7 +1,7 @@
 ---
 title: "Assisting the grading of a handwritten general chemistry exam with artificial intelligence"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm, multimodal]
 assessment: [automated-assessment, educational-measurement, item-response-theory, summative-assessment]
@@ -27,6 +27,21 @@ page_kind: [evaluation]
 - **Selective automation via confidence filters:** A partial-credit threshold (e.g., ≥50%) suppresses the student-harm (under-credit) mode while auto-accepting roughly half the items; an [[item-response-theory|IRT]]-based Bayesian risk filter achieves similar alignment with lower human workload; excluding drawing/graphing problems is the most straightforward operational rule.
 - **Cost and workload:** AI grading cost ~\$100 (32.15M tokens) versus ~\$3,500 for 16 TAs × 5 hours; because only about half of results were deemed trustworthy, the AI-assisted scenario cost roughly \$1,225 — the main benefit is sustaining open-ended exam questions under rising enrollments rather than guaranteed cost savings.
 - **Oversight and governance are essential:** The authors argue a uniform "grade everything" approach is not defensible for [[summative-assessment|high-stakes]] use, that false positives (AI awarding points for wrong answers) can go undetected because students rarely contest them, and that [[educational-policy-ai|regulatory frameworks]] designating AI in educational assessment as high-risk mandate documented [[human-in-the-loop-ai|human oversight]].
+
+## What this means for practice
+
+- **Instructors.** Exclude drawing and graphing items from AI grading. Those formats performed at or below chance (normed F1 = 0.13 for drawing and −0.098 for graphing, worse than random for graphing), partly because background grids visually distract the vision model, while textual and reaction answers graded most reliably.
+- **Instructors.** Adopt selective deferral rather than whole-exam automation: a partial-credit threshold of at least 50% suppressed the student-harm (under-credit) mode while auto-accepting roughly half the items, and excluding drawing and graphing is the most straightforward operational rule.
+- **Assessment professionals.** Do not read strong total-score agreement as item-level accuracy. AI-versus-TA regression reached R² = 0.91 on totals while per-problem R² ranged 0.61–0.85, exact agreement at grade boundaries was low (Cohen's κ = 0.096; weighted κw = 0.865), and the AI acts as a "timid grader" that is generous at the bottom and conservative at the top.
+- **Instructors.** Explain the deferral rule to students in plain terms: the Bayesian risk filter matched human workload while producing comparable alignment, but the authors note its [[item-response-theory|IRT]]-style logic is harder to justify to non-technical audiences than a partial-credit threshold.
+- **Faculty developers.** Build oversight into the workflow, not around it. The authors judge a uniform "grade everything" policy indefensible for [[summative-assessment|high-stakes]] use and call for re-validation whenever the model, prompt, rubric, or exam format changes.
+
+## Limitations
+
+- Human grades were not independently double-scored. The study used the course's routine one-rater-per-item TA workflow as the reference standard, so the authors describe their labels as "an operational reference standard rather than a replicated consensus," leaving residual rater error possible.
+- The 0.1% TA error estimate derives from the roughly one-third of students who inspected their exams — a self-selected group likely to be suspicious of the grading or near a grade boundary.
+- Findings are specific to one general-chemistry final at one institution, administered and graded in German, using GPT-o4-mini with a single prompt and rubric presentation (296 of 459 students consented); the authors note performance drops for less well-represented languages and that results are a snapshot tied to a model version.
+- No student perception data were collected. Trust, fairness, and willingness to accept outcomes are inferred from related literature rather than surveyed, and consenting students may differ systematically from those who declined.
 
 ## Connected Concepts
 

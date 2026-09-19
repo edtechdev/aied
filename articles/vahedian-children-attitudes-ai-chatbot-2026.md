@@ -1,7 +1,7 @@
 ---
 title: "Ask Me Anything: Exploring Children's Attitudes Toward an Age-tailored AI-powered Chatbot"
 created: "2026-09-03T15:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [conversational-ai]
@@ -25,6 +25,21 @@ level: [elementary, k 12]
 - Students' mental models of how AMA worked were assessed, with most selecting "a smart computer program that learns from questions and answers," pointing to nascent [[machine-learning]] understanding; chi-square analysis found no significant grade differences (χ²(6)=5.95, p=.429).
 - The findings highlight the need for age-sensitive [[scaffolding]] and [[trust-calibration]], and reveal gaps in children's digital safety awareness—some children were willing to share secrets with the chatbot—underscoring the importance of teaching [[privacy]], data use, and social boundaries of AI in [[k-12]] education.
 - The study uses [[mixed-methods-research|mixed methods]], triangulating interaction logs, audio/screen recordings, behavioral observations, and post-surveys via inductive thematic analysis, grounded in developmental theories of epistemic trust.
+
+## What this means for practice
+
+- **Instructors.** Teach [[privacy]], data use, and the social boundaries of AI explicitly and early: some children in this study were willing to share secrets with the chatbot, and the authors link broad trust to gaps in digital safety awareness.
+- **Instructors.** Make credibility checking a routine rather than an improvised move. Children already tested AMA with questions to which they knew the answers, so name and rehearse that strategy as part of [[critical-thinking]] with AI outputs.
+- **Instructors.** Read high trust as a signal to intervene, not as success: 52% of students generally trusted AMA's responses and 35% trusted it like a teacher or friend, and the authors connect this openness to underdeveloped [[trust-calibration]].
+- **Designers.** Keep topic boundaries and response limitations in place as deliberate safeguards; the authors argue these constraints shaped children's perception and engagement, and the design also had to switch models (from gpt-3.5-turbo to text-davinci-002) to hold topic fidelity.
+- **Designers.** Design for the youngest users' input constraints, not just their reading level: first graders often could not type their questions and needed facilitator help, so plan voice input or adult assistance for early-elementary deployments.
+
+## Limitations
+
+- One school and a self-selected group: 63 students took part from a single public K–8 school in the Northeastern United States, drawn from 125 children attending two days of 45-minute sessions, and they used AMA only when they chose that station and it was free; grades 1 and 6–8 were represented, with no grades 2–5.
+- Exposure was very brief — three to ten minutes of interaction in a single session — with no pretest, comparison condition, or follow-up, so no claim about persistence or change over time is possible.
+- The post-survey (four multiple-item items and one open-ended item) was not formally validated or piloted; language was simplified and read aloud for first graders, who answered verbally or by pointing, and the authors state it was refined collaboratively rather than field-tested.
+- Trust and understanding are self-reported, and the grade-level statistical comparisons rest on small cells: chi-square tests found no significant grade differences in trust (χ²(6) = 5.68, p = .459), confiding (χ²(6) = 3.05, p = .80), or mental models of the bot (χ²(6) = 5.95, p = .429), even though the qualitative data suggested developmental variation.
 
 ## Connected Concepts
 
