@@ -1,7 +1,7 @@
 ---
 title: "AI literacy and scenario-based ethical judgment about generative AI among undergraduate students"
 created: "2026-09-18T05:09:07-04:00"
-updated: "2026-09-18T05:09:07-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, academic-integrity, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -49,8 +49,7 @@ The relationship between [[ai-literacy]] and [[evaluative-judgment|judgment accu
 
 The theoretical framing treats ethical judgment as a skills-based outcome of AI literacy. Rest (1986) positions moral sensitivity and knowledge as necessary preconditions for ethical judgment, and Long and Magerko's (2020) conception of AI literacy supplies the second pillar; the authors also cite Yang et al. (2025), whose three-dimension model has ethical knowledge shaping ethical attitudes and, in turn, practical ethical competence. Crucially, the paper resists over-reading its own high scores. It notes that Lund et al. (2025) found limited consensus on what constitutes fair AI use and that students' personal ethical beliefs may matter more than institutional policy awareness, so agreement on six predesignated scenarios is not evidence of a broadly shared ethical framework. The university offered no AI literacy courses or formal training at the time of data collection, and participants' prior sources of AI ethics knowledge were not measured, so the study cannot determine how these judgments developed.
 
-## Implications for practice and policy
-
+## What this means for practice
 The authors argue for embedding explicit AI ethics instruction early in undergraduate curricula, leaning on the observation that students' personal AI ethics appear to form during the transition into [[higher-ed|higher education]]. At the course level they recommend structured, scenario-based discussion with guided decision-making prompts, structured reflection on AI use, and assignments requiring transparency such as disclosure statements or process documentation; students could also be required to justify AI-use decisions or identify ethical risks within [[assessment|assignments]]. These tactics target the scenarios where uncertainty was highest.
 
 For [[educational-policy-ai|institutional policy]], the findings support moving beyond rigid binary prohibitions toward more nuanced, guidance-oriented rules, since strict policies alone may not resolve the ambiguous cases students face. The authors also stress that ethical judgment does not automatically translate into ethical behavior, and that formal AI literacy courses may therefore need to go beyond conceptual understanding toward practice-based learning, discussion, and self-analysis of the motivations and rationalizations behind [[ai-misuse-learning-harm|AI misuse]]. [[educational-development|Faculty development]] matters here too: [[teacher-role|instructors]] model ethical AI use and communicate expectations, and the paper notes how little research exists on helping educators integrate AI ethically (Tan et al., 2025), while also acknowledging the general scarcity of empirical work on teaching applied [[ethics]].

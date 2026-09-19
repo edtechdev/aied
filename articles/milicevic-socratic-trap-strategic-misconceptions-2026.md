@@ -1,7 +1,7 @@
 ---
 title: "The Socratic trap: Benchmarking the capacity of large language models to generate strategic misconceptions in computer science education"
 created: "2026-09-18T05:09:00-04:00"
-updated: "2026-09-18T05:09:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [misconceptions, critical-thinking, ai-literacy]
 pedagogy: [socratic-method, cognitive-psychology, prior-knowledge]
@@ -43,8 +43,7 @@ The paper stresses that its central metric measures adversarial instruction-foll
 
 Two further caveats travel with the numbers. Persuasiveness was rated by experts estimating what might convince a first-year student; no students were tested, so the study measures no deception, belief change or learning outcome. And the corpus contains only open-weight models chosen for reproducibility, so GPT-4o, Claude and Gemini were excluded and the findings do not transfer automatically to the proprietary assistants students actually use. The absence of logical errors carries two readings: models may be good at maintaining local coherence from whatever premises they hold, dressing a wrong conceptual foundation in valid reasoning, or the logical/conceptual boundary may be too soft to annotate reliably.
 
-## Implications for teaching, assessment and AI literacy
-
+## What this means for practice
 For the authors, the dominance of conceptual errors reframes the [[ai-literacy]] problem. Verifying individual facts is insufficient when the error lies in the relationship between correct statements; students need conceptual verification strategies and mental-model validation, and instructors need to anticipate the fault lines their subject shares with documented human misconceptions. Work by Qian and Lehman on introductory programming misconceptions and by Sorva on mental models of program execution is invoked here: the traps LLMs generate track the same difficulties that already make these topics hard, so a model can entrench an error a student was already forming.
 
 Because error types varied by domain while frequencies did not, the paper recommends domain-sensitive countermeasures rather than a universal policy. Programming-heavy courses, where 83.7% of traps were conceptual, call for reasoning-focused checks; networking courses, where 46.7% were conceptual and factual errors were the majority, call for cross-referencing against authoritative protocol specifications.

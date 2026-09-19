@@ -1,7 +1,7 @@
 ---
 title: "Educational integrity in GenAI-augmented assessment: making judgement visible"
 created: "2026-09-18T04:12:00-04:00"
-updated: "2026-09-18T04:12:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, human-ai-collaboration, theory-development-aied]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -32,7 +32,6 @@ confidence: medium
 6. **Responsibility is redistributed, not discharged.** Institutions articulate expectations that recognize GenAI-augmented authorship as normative; educators design assessments that make ethical decision-making visible; learners articulate judgment against disciplinary criteria. Integrity becomes a property of educational systems rather than of individual behavior, aligning with international guidance advocating pedagogical rather than punitive responses to [[ai-education|AI in education]] (Fengchun and Cukurova 2024).
 
 ## Four practices that make judgment visible
-
 These are practice-informed illustrations from the author's teaching context, selected because they represent the paper's theoretical commitments; the paper presents them as framework development, not as a validated intervention.
 
 1. **Annotated decision trails.** Learners document how GenAI contributed to their work and explain why particular outputs were retained, modified or rejected against disciplinary criteria, rather than cataloguing every instance of use. Integrity is evidenced through transparency and [[ai-use-disclosure|disclosure]] instead of inferred through detection, with attention falling on the thinking behind choices (Moya et al. 2024). Scalability in large enrollments is handled by requiring focused annotation of selected decision points, with rubrics attending to quality of reasoning rather than volume of reflection.

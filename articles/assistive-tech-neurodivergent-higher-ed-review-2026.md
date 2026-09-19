@@ -2,7 +2,7 @@
 title: "Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, virtual-and-augmented-reality]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -52,8 +52,15 @@ The review's argumentative core is a continuum rather than a taxonomy: assistive
 
 This is why the three bias-reduction studies matter out of proportion to their number. By aiming at the understanding and behavior of neurotypical peers, they target ableism at its source instead of asking neurodivergent students to adapt, and the authors present them as an underexplored complement to individually oriented tools rather than a substitute for them. The review's recommendation is not to abolish individual support — some students will always need tailored provision — but to stop treating universal design as the exception in the literature, and to require co-design with neurodivergent students and academics in future tool development.
 
-## What the Evidence Cannot Yet Support
+## What this means for practice
 
+- **Designers.** Build assistive tools against functional barriers rather than diagnostic labels, and co-design them with neurodivergent students: 28 of the 40 reviewed studies made a formal diagnosis a condition of participation, which excludes students whose differences lack institutional recognition.
+- **Designers.** Test for inversion effects before scaling: cognitive overload, fatigue, distraction, VR discomfort and, for [[generative-ai|generative AI]], over-reliance and loss of authentic writing voice appeared across the corpus even though no study reported an overall harmful effect.
+- **Instructors.** Pair any general-purpose [[generative-ai|GenAI]] deployment with instruction in the risks the review attaches to it — inaccurate answers, [[academic-integrity]] concerns and voice loss — and keep human contact in the provision rather than substituting text generation for support.
+- **Administrators.** Write [[universal-design-for-learning|universal design]] and participatory development into procurement requirements, and treat specialist hardware cost as an [[accessibility|access]] decision: most of the 40 tools sit at the accommodation end, and the three studies that worked on neurotypical peers are the corpus's only environment-level interventions.
+- **Researchers.** Answer the gap list with controlled and longitudinal designs: comparison groups were frequently absent, samples were small and heterogeneous, developer-run assessments stood in for independent evaluation, and attention and social communication were the two smallest barrier domains.
+
+## Limitations
 The gaps the review names are of four kinds. Geographically, the evidence base is North American and European, and the authors point out that the concept of [[neurodiversity]] itself was developed largely by white scholars in the Global North, so tools designed within that frame risk importing an implicitly assumed student; the recommendation is to include [[global-south|Global South]] voices, institutions and epistemic traditions as partners rather than sites. By level, undergraduate students dominate, leaving postgraduate and doctoral students — whose challenges involve higher [[agency|autonomy]], less structure and an often isolating culture — largely unaddressed. Methodologically, comparison groups are frequently absent, samples are small and heterogeneous, and developer-run product assessments substitute for independent evaluation, which is why the added value of the technology is hard to establish even when effects look favorable. Technically, the most immersive options are the least scalable, and the review treats cost and specialist hardware as an [[accessibility|access]] question rather than a design afterthought.
 
 For institutions, the practical reading is a procurement and design position: the current trajectory of assistive tools will keep producing narrow, diagnosis-gated and resource-intensive products unless universal design and participatory development are stated as requirements. For researchers, the gap list doubles as an agenda — experimental and longitudinal designs, cross-neurotype functional targets, attention and social communication, postgraduate populations, and scalable immersive tools.

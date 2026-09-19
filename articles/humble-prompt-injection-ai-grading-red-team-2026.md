@@ -1,7 +1,7 @@
 ---
 title: "Ethical implications of prompt injection in AI-mediated grading: An adversarial red-team evaluation"
 created: "2026-09-18T04:30:00-04:00"
-updated: "2026-09-18T04:30:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, human-ai-collaboration]
 technology: [generative-ai, llm, prompt-engineering, ai-technologies]
@@ -52,6 +52,21 @@ The author also draws out a structural asymmetry. [[guardrails]] are layered def
 The paper closes with practical measures rather than a technical fix: stricter separation between user instructions and external content in the tool itself; better detection of hidden instructions and clearer warnings when a tool suspects one; user training, [[critical-thinking|critical evaluation]] and restricted AI use for high-stakes work; working in an isolated virtual machine with limited or disabled host and internet access when sensitive data is involved; and consulting IT and legal specialists before applying AI to sensitive work. At sector level the author calls for clear [[educational-policy-ai|AI policy]], [[educational-development|professional development]], and standardized, domain-agnostic assessments of prompt injection resilience, so that attack surfaces can be measured rather than assumed.
 
 The limits: one AI tool, one grading scenario, one controlled set of injection techniques, so the results cannot be assumed to generalize across systems, tasks or institutions. No agentic tools with deeper system access were tested, trust was not measured, and the author treats multi-tool comparisons, other academic tasks and increasingly autonomous systems as the priority for future work.
+
+## What this means for practice
+
+- **Instructors.** Take the submission out of the file before it reaches the grader wherever the grade matters: two strategies moved a fail-graded essay to pass at 100% (9/9) and 94% (17/18) success, hidden behind an image layer, with no warning to the user.
+- **Instructors.** Ask the tool to check for hidden instructions as a spot check rather than as protection: Copilot reported the hidden text in all 6 security-check iterations, but the author argues the check will not necessarily work with other tools or against more advanced attacks.
+- **Administrators.** Do not read a blocked attack as a defense holding: one detected injection left the chat silently disabled with no report to the user, and after the tool stated it would grade only according to the official instructions, six further runs of the same file each raised the grade to pass with distinction.
+- **Administrators.** Keep AI grading in the low-stakes feedback lane and require human review of any AI-assigned grade that carries a failing outcome for a student, because a grade obtained through a hidden instruction carries no validity claim and the same technique can be used to degrade a submission.
+- **Researchers.** Measure prompt-injection resilience as a documented property of each tool rather than assuming it, following the paper's call for standardized, domain-agnostic assessments so that attack surfaces can be measured instead of assumed.
+
+## Limitations
+
+- One tool only: the enterprise Microsoft Copilot (GPT-5.2) bundled with work computers at a Swedish university, run with the reasoning toggle at its default Auto setting, so the results cannot be assumed to hold for other systems, tasks or institutions.
+- The one protection that held — hidden instructions in docx metadata were never followed — the author attributes to metadata access being disabled in the tested version, which means it is a configuration of this deployment rather than a property of AI grading.
+- The submission was synthetic and the test space was small: one assignment from a real information-security course, a baseline established by six fail gradings, then 9 iterations per strategy for four attempts and 18 for the fifth, all run on the researcher's own machine in February 2026.
+- Trust and user behavior were not measured; the paper's second research question is answered by inference from demonstrated grade manipulation and from the inconsistent way the tool signaled or suppressed detected attacks, as the author states.
 
 ## Connected Concepts
 

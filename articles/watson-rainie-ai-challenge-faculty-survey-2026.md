@@ -1,7 +1,7 @@
 ---
 title: "The AI Challenge: How college faculty assess the present and future of higher education in the age of AI"
 created: "2026-09-18T08:10:00-04:00"
-updated: "2026-09-18T08:10:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking, ai-literacy]
 pedagogy: [metacognition, student-ai-interaction]
@@ -49,6 +49,13 @@ The report's most useful contribution is the balance sheet faculty constructed f
 The survey measures **perception at scale**, where most of the knowledge base measures behavior or outcomes, and the two readings diverge in an instructive way. Faculty report that cheating has risen and expect critical thinking to fall, but the causal evidence on those claims is neither uniform nor as stark: the guardrail field trial showed assisted practice gains of 48% alongside an unassisted exam penalty of 17% that a [[guardrails|guardrailed tutor]] removed entirely, and the performance-versus-learning distinction is what makes an instructor's impression of decline hard to verify from the artifact alone. The 95% expectation of over-reliance is a forecast about a mechanism the knowledge base describes directly as [[cognitive-offloading|cognitive offloading]] and [[metacognition|metacognitive]] disengagement, and the 26% who abstain are the population behind the [[teacher-ai-competency|faculty AI competency]] gap that institutional support programs exist to close.
 
 Two governance facts are the most actionable in the report. The first is the **87% to 48%** gap between individual policies and institutional ones, which is the mirror image of what policy studies find at the institutional level and explains why students meet inconsistent rules in the same institution. The second is the thinness of the structural response — a task force in 55% of cases, but an AI literacy general education outcome in only 13% — which is the environment in which [[educational-policy-ai|educational policy on AI]] has to be implemented, and the reason the knowledge base treats the support ecosystem, not the policy document, as the deliverable.
+
+## What this means for practice
+
+- **Administrators.** Close the policy gap rather than issuing another statement: 87% of respondents wrote their own assignment-level rules while only 48% say their institution has written guidelines and 35% say their department has, which is how students meet inconsistent expectations inside one institution.
+- **Administrators.** Build the structure, not only the policy: 55% report a task force or oversight group and 13% an AI literacy general education outcome, while 68% say their school has not prepared faculty to use generative AI for teaching and mentoring and 59% judge their school unprepared to use it effectively at all.
+- **Instructors.** Address AI literacy explicitly in your courses, as the 69% who already do have done, and cover the issues large majorities call necessary — bias, hallucination, misinformation and deepfakes, privacy, cybersecurity and environmental cost — since only 49% rate those skills extremely or very important for graduation.
+- **Policymakers.** Treat faculty capability as the binding constraint: 82% of respondents name faculty resistance and 83% unfamiliarity as challenges to departmental adoption, 26% use no generative AI at all (40% in arts and humanities), so fund development that converts skeptics rather than mandate adoption.
 
 ## Limitations
 

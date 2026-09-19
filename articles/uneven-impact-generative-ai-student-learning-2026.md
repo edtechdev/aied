@@ -2,7 +2,7 @@
 title: "The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-efficacy, student-ai-interaction]
 technology: [generative-ai]
@@ -57,8 +57,14 @@ The designed interaction is the finding the paper leads with. Of four theoretica
 6. **Perceived restrictive policy accompanied lower perceived returns.** Discouraged-policy perceptions were associated with lower positive impact (β = −.138, p = .017) and lower course-supported GenAI learning (β = −.186, p = .002) relative to "allowed with limits."
 7. **[[self-report-measures|Perceived learning]] tracks whether GenAI augments or interferes.** SHAP rankings show higher perceived learning when students see GenAI improving work quality, enabling [[creativity]], helping organize and summarize ideas, and raising skill confidence, and lower perceived learning where they report harm to [[critical-thinking|critical thinking]] or added stress.
 
-## What the Findings Can and Cannot Support
+## What this means for practice
 
+- **Instructors.** Teach the ordering of AI use rather than the amount. Cognitive reliance predicted positive impact (β = .495, p < .001), while early reliance — consulting GenAI before independent thought, a traditional search or an instructor — predicted negative impact (β = .402, p = .004) as well as academic benefit (β = .301, p < .001), so make an independent attempt, a search or a human conversation the required first move on any task where the reasoning is the learning goal.
+- **Instructors.** Do not assume strong AI-evaluation skills protect students from early reliance. The harm association grew stronger as evaluation literacy rose (β = .307, p < .001, with b = .688 at one standard deviation above the mean).
+- **Administrators.** Replace permit-or-restrict policy with explicit guidance on appropriate use: perceived discouraging policy accompanied lower positive impact (β = −.138, p = .017) and lower course-supported GenAI learning (β = −.186, p = .002) relative to "allowed with limits."
+- **Administrators.** Procure for tool breadth and check independence separately. Multi-tool users reported more support and benefit on nearly every significant item (largest gap rrb = −0.53 for improved academic-work quality), while single-tool users reported greater confidence in completing tasks without GenAI (rrb = +0.25).
+
+## Limitations
 The study's contribution is the decomposition. It supplies a measured basis for distinguishing the *kind* of [[cognitive-offloading|offloading]] — organizing and summarizing ideas and discovering new insights were positively associated with improved learning, whereas consulting AI before any independent attempt was not — while cautioning that prolonged reliance on even the benign forms should be watched. It also quantifies a disadvantage that [[equity-in-ai-education|equity]] research has mostly described qualitatively: students with premium access and broader tool stacks reported more benefit, and breadth came with less confidence in unaided work.
 
 The limitations are stated plainly and should constrain how the numbers are read. The sample comes from **one R1 university**, reflects only students who chose to share their experience, and may not represent students at other kinds of institution. All measures are self-reported perceptions on 13 constructs, so associations describe what students believe about their learning rather than measured [[learning-gains|learning gains]]; the regression on negative impact accounted for only about 30% of its variance, leaving most of the variation in reported harms unexplained. The FDR-significant policy effects are small in magnitude, and the authors flag the frequency-centered reading of AI impact as unreliable — their own data show that "how much" tells you less than "when, for what, and who evaluates it." The practical recommendation that follows is a move beyond permit-or-restrict policies toward explicit guidance on appropriate use, [[scaffolding|structural support]] for equitable access, and [[curriculum-design|course design]] that helps students extend rather than replace independent reasoning.

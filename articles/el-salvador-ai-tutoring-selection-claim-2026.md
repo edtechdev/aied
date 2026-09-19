@@ -2,7 +2,7 @@
 title: "How much selection would be enough? Bounding the learning claim of El Salvador's artificial intelligence tutoring pilot"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 technology: [intelligent-tutoring]
 assessment: [assessment-validity, educational-measurement]
 ethics: [equity-in-ai-education, global-south]
@@ -64,6 +64,20 @@ The program has already expanded from 171 schools to more than 1,000, with the s
 The [[research-methods-aied|methodological]] recommendation is cheap and specific: design the evaluation before deployment, because deployment creates the variation identification requires. A phased rollout — which a system with limited connectivity has to do anyway — is a staggered-adoption design that identifies the effect without withholding the program, and the expansion from 1,000 schools to the whole system has not yet happened.
 
 Six limitations are stated plainly: the outcome is unobserved (no disaggregated scores published), the selection is unobserved, the distributional form is an assumption, the baseline is unavailable, the article does not evaluate the program, and selection is treated as a single dimension — a real simplification in a system where 81.9% of students in the most disadvantaged quarter of the economic, social and cultural status index score below level 2 in science against 42.1% in the most advantaged quarter, so that selecting on ability and selecting on family background are close to the same operation. That last point gives the paper's [[equity-in-ai-education|equity]] edge: the volunteering channel it treats as unremarkable may itself be socio-economically structured.
+
+## What this means for practice
+
+- **Policymakers.** Publish the six items alongside any headline result, in the same document, post or paragraph as the claim: the participating schools' baseline, the sampling protocol (eligible students, assessed students, identification rule, participation rate), disaggregated scores with standard errors, the operational date of each reform component, and the overlap with the national survey sample — the qualification placed four posts later in the same thread drew about 11,000 views against about 441,000 for the claim.
+- **Policymakers.** Design the evaluation before the rollout, not after: a phased expansion is a staggered-adoption design that identifies the effect without withholding the program, and the step from 1,000 schools to the whole system has not happened yet.
+- **Researchers.** Read a school-level instrument for what it estimates — PISA for Schools produces estimates for a school, not a system, and carries at least three unreported sources of uncertainty against a country mean (school-level sampling error, country-mean sampling error, and the linking error of the scale equating).
+- **Assessment professionals.** Bound selection from published aggregates before accepting an announced gain: a mean of 346 with 12.28% of students at or above the level-2 cut score of 420.07 implies a standard deviation of 63.8, and the top 5.5% of that distribution has a mean equal to the German average with zero learning.
+
+## Limitations
+
+- The outcome is unobserved: no disaggregated pilot scores have been published, so "comparable to the averages of Sweden and Germany" was operationalized as equality with those countries' 2022 means (Germany 475, 480 and 492 in mathematics, reading and science), and any lower actual score makes every required-selection figure in the paper an overestimate.
+- The distributional form is an assumption: the standard deviation is identified from a published mean and level-2 share under normality, and the robustness range for the required mathematics selection runs from 1.49% at a −20% error in the identified standard deviation to 11.56% at +20%.
+- The analysis uses published aggregates with no microdata, and selection is treated as a single dimension — a simplification the authors flag in a system where 81.9% of students in the most disadvantaged quarter of the economic, social and cultural status index score below level 2 in science against 42.1% in the most advantaged quarter.
+- The article does not evaluate the program: it is a secondary analysis of published figures, it makes no claim that the tutor is ineffective, and the baseline of the 171 participating schools — the one figure that would remove the need for the bound — has never been published.
 
 ## Connected Concepts
 

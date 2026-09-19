@@ -1,7 +1,7 @@
 ---
 title: "SCAN: A Decision-Making Framework for Task Assignment with Generative AI"
 created: "2026-09-18T12:05:00-04:00"
-updated: "2026-09-18T12:05:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition, sociocultural-learning, self-regulated-learning, scaffolding]
@@ -55,8 +55,14 @@ Upskilling, in SCAN's account, is the same task being identified differently ove
 
 Deskilling is the reverse drift, Complement to Aid, and the authors attribute it to a shift in the user's role from production to evaluation: if a learner consistently delegates a class of tasks she once performed, the practice that sustained the skill disappears, the skill erodes, and the task falls back into the zone where GenAI must carry it. Because the underlying knowledge does not vanish entirely, the paper expects such tasks to oscillate between Aid and Complement over the long run — an upskilling–deskilling paradox consistent with other work the authors cite. The proposed defense is metacognitive instrumentation: logging each task instance with a pre-use forecast, the chosen sub-zone and justification, [[student-ai-interaction|AI interaction]] traces, post-task calibration and transfer probes, so that a learner or organization can see which knowledge is genuinely internalized and which is only being performed by the model.
 
-## Caveats and limitations
+## What this means for practice
 
+- **Educators.** Require the S/C/A/N classification on assignments, one line of metacognitive justification for each judgment, and an audit trail of prompts, drafts and human revisions — the paper's student protocol, which turns the metacognitive loop into evidence a teacher can inspect.
+- **Educators.** Target Aid-level tasks with hints, exemplars and Socratic questioning that keep productive struggle intact, and set Complement-level work as comparison of multiple AI rationales against rubrics and disciplinary standards rather than imitation of surface patterns.
+- **Educators.** Build graded evidence from what students can do unaided — oral defenses, process [[eportfolio|portfolios]], randomized [[transfer-of-learning|transfer]] tasks — and hold normative, identity-relevant or tacit work in the Non-negotiable zone regardless of model capability, since that boundary is described as one that resists erosion by capability creep.
+- **Students.** Ask which sub-zone a subtask occupies before delegating: where you cannot yet evaluate the output (Substitute), offloading and [[ai-sycophancy|sycophancy]] are both high, so cap the time you spend there and aim to migrate tasks from Substitute through Aid to Complement using spaced practice, error tagging and explain-back reconstruction of the model's reasoning.
+
+## Limitations
 This is a conceptual framework paper, and the authors say so: SCAN is a proposal, not a tested intervention, and no empirical study of its use is reported. The [[quantitative-research|quantitative]] parts are illustrative rather than validated — the KL ratios and transition inequalities are a way of expressing migration across sub-zones, not measurements taken from data — and the paper's supporting evidence for offloading, sycophancy and synergy is drawn from other people's findings, including the observation that human–AI synergy has rarely been demonstrated. Several proposals are explicitly speculative or offered for future work: BCI sentinels, mathematical formalisation via the "grey area" literature, and comparison of human-centric against AI-centric assignment. The framework also assumes a learner who can reliably self-assess task-specific knowledge, which is exactly the calibration the metacognitive loop is supposed to build, so its starting point and its goal partly presuppose each other.
 
 ## Connected Concepts

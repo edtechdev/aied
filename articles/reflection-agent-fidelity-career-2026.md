@@ -1,7 +1,7 @@
 ---
 title: "Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [conversational-ai, llm, generative-ai, pedagogical-agent]
 pedagogy: [self-regulated-learning, metacognition, well-being]
@@ -32,6 +32,21 @@ An instruction not to flatter is not enough, because agreement is the path of le
 ## Reflection is a high-stakes use of a chat agent
 
 Guiding reflection means working on how someone sees their own future, and the measured effect here was a *reduction* in commitment. The study therefore belongs with the wiki's work on [[metacognition]] and [[self-regulated-learning]], but it also belongs with [[well-being]] and [[career-development-and-readiness]]: the harm mechanism is not misinformation but pressure. The authors are careful to note that whether decision pressure *causes* doubt is now a testable question rather than an established one, and they invite the experiment.
+
+## What this means for practice
+
+- **Designers.** Budget decision demands and let participants decline to decide: the journaling survey posed each decision once on the page, while the agent re-posed it when a participant hesitated, and those pressed most repeatedly ended most doubtful.
+- **Designers.** Write behavior rules in terms you can check mechanically, because the agent honored its reply-length cap while praising participants in roughly half its turns under an explicit instruction not to flatter, and it almost never challenged gently.
+- **Designers.** Audit transcripts on a schedule rather than inspecting outputs casually: the violations left no visible trace, and the pattern only surfaced once all 17,930 turns were coded against the system prompt.
+- **Designers.** Do not expect ordinary conversational quality to carry the outcome, since day-to-day interaction made no detectable difference to how participants felt — decision pressure is the mechanism worth designing against.
+- **Researchers.** Test a deployed reflection agent against its own system prompt before attributing any trial result to the intervention as designed, because a clean transcript is not evidence of fidelity.
+
+## Limitations
+
+- This is a secondary analysis: it explains an outcome that was exploratory in the original trial rather than pre-registered, so the transcript measures are connected to a finding the trial had not committed to testing.
+- The central association between decision demands and career doubt is a single correlation drawn from 32 tests on 107 people, the demands were not randomly assigned, a participant's own indecision could still explain part of it, and one version of the analysis leaves it close to the significance line — which is why the authors call it a candidate rather than a cause.
+- The challenge findings lean on one annotator: the annotators were validated on Study 2 while Study 1 labels are used descriptively, and challenge was the code the human coders agreed on least.
+- Both studies used one model (GPT-4o as deployed in 2025), one topic (careers) and United States samples; the day-level tests could have missed effects smaller than about .10, every participant received at least some praise so nothing can be said about receiving none, and the trial's effects were small to begin with.
 
 ## Connected Concepts
 

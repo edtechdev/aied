@@ -1,7 +1,7 @@
 ---
 title: "Forging ahead or proceeding with caution: Developing policy for generative artificial intelligence in legal education"
 created: "2026-09-18T05:20:00-04:00"
-updated: "2026-09-18T05:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [socratic-method, experiential-learning]
@@ -48,8 +48,7 @@ Three features distinguish it from generic [[higher-ed|higher education]] govern
 - **[[assessment|Assessment design]] as the alternative to prohibition.** When AI can do the task, the authors' preferred response is a task it cannot do easily: redesigned assignments requiring nuanced legal analysis or multi-step [[problem-solving]] that resists a single generated answer.
 - **Instructor discretion.** Policies should let instructors decide per course, because the professor is best placed to judge whether AI use undermines the competency a given assessment is meant to measure. Their example is permitting AI for legal research while prohibiting it in a writing assignment whose object is advanced analysis.
 
-## Implications for policy and practice
-
+## What this means for practice
 The recommendations are procedural and deliberately modest: guidelines that are clear and comprehensive regardless of institutional stance; full involvement of students, faculty and staff in drafting, both to prevent backlash and to produce well-rounded rules; [[stakeholders|policymakers]] well informed about impact, enforceability and adaptability before they act; proactive training for students and faculty; governance designed to be flexible because the technology changes continuously; and periodic review, on the authors' view that policy generation is not a one-time event. Their closing position is institutional self-regulation: schools should not wait for the ABA to dictate policy but should share what works and govern collaboratively. They frame the whole exercise as a call to action and a commitment to integrity, while conceding that reasonable minds can differ on the substance.
 
 ## Limitations

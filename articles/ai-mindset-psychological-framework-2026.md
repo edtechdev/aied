@@ -1,7 +1,7 @@
 ---
 title: "AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-18T14:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, theory-development-aied]
 pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy]
@@ -43,8 +43,15 @@ All instruments were German-language and standardized. Dispositional factors use
 The structural picture is one of differentiated pathways rather than a single acceptance mechanism. Competence dominates: with β = .45 it is the strongest predictor of use, and it absorbs the effects of openness, effort expectancy and (negatively) fear. Habit is the only predictor with substantial weight on both paths, direct (β = .28) and indirect through competence (β = .14), which the authors interpret as evidence that routinised engagement reflects externally reinforced structural conditions rather than a purely internal automaticity. Effort expectancy is fully mediated, suggesting that perceived ease of use matters mainly because it builds the knowledge needed to implement AI, while hedonic motivation bypasses competence entirely with a direct effect (β = .19) consistent with [[motivation|intrinsic motivation]] energising behavior independently of perceived capability. The negative relatedness path is the most counter-intuitive result: teachers with stronger belonging needs reported lower AI competence, which the authors do not fully unpack, and they call for moderators and competing model specifications. The bluntest null is general [[self-efficacy]], which is unrelated to either competence or use in this [[teacher-role|teacher]] sample, and age and gender likewise do not predict use. The [[anxiety-and-stress|AI anxiety]] finding is the paper's most distinctive: fear coexists with active use while constraining perceived capability, implying that anxious teachers may use AI despite, not because of, their emotional state.
 
 ## Relation to existing evidence and implications for practice
-
 The results sit uneasily beside a literature that routinely finds self-efficacy central to AI engagement: where [[ai-literacy|AI literacy]] studies find [[self-efficacy]] mediating attitudes and use, this analysis finds general self-efficacy inert and identifies domain-specific pedagogical competence as the operative resource. The fear pattern aligns with work distinguishing affective reactions from cognitive self-evaluation (Sindermann et al.) and with AI anxiety research showing anxiety can coexist with adoption; where competence is modeled as a mediator of anxiety, the direction here is negative, so improving competence should reduce fear's toll rather than the reverse. Practically, the authors argue that [[educational-development|professional development]] should stop selling attitudes and start building competence, embedding [[tpack|TPACK]]-aligned and ethical knowledge as the leverage point, and should engineer habit through accessible tools and collegial exchange. For designers, the findings translate into human-centered interfaces that lower perceived effort and raise enjoyment, and — because anxious teachers keep using AI — into complementing system-level [[usability-research|usability]] work with psychologically informed interventions: open discussion of ethical and societal implications, emotion-regulation support, and guided practice with negative affect. The hedonic-motivation path is offered as a possible countermeasure to fear, since positive affect broadens behavioral repertoires and may weaken avoidance.
+
+## What this means for practice
+
+- **Instructors.** Build professional learning around pedagogical AI competence rather than enthusiasm, because competence was the strongest single predictor of AI use (β = .45) while general self-efficacy predicted neither competence nor use.
+- **Instructors.** Engineer habit deliberately by embedding a small, dependable set of AI tools into recurring planning and feedback routines, since habit carried the largest contextual weight on use (β = .28) and on competence (β = .14).
+- **Designers.** Cut perceived effort in the tools teachers actually use, because effort expectancy reached use only indirectly through competence (β = .12): ease of use pays off when it builds the knowledge to implement AI, not when it merely feels pleasant.
+- **Instructors.** Work with AI anxiety instead of waiting it out — fear was associated with more use (β = .15) while predicting lower competence (β = −.15) — by scheduling open discussion of ethical and societal implications, emotion-regulation support, and guided practice with negative affect.
+- **Researchers.** Measure domain-specific [[teacher-ai-competency|pedagogical competence]] separately from general [[self-efficacy]] and re-test the framework against competing mediator models, since this is a first operationalization that explained 62% of the variance in use and 46% in competence.
 
 ## Limitations
 

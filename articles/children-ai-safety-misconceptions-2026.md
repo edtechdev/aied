@@ -1,7 +1,7 @@
 ---
 title: "“If we are good friends, AI doesn't spy so much”: Children's knowledge and misconceptions of AI safety"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-18T12:35:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [misconceptions, ai-literacy]
 technology: [conversational-ai, generative-ai]
@@ -47,8 +47,7 @@ The misconception patterns are specific and quoted directly in the paper. The re
 
 Older children were not immune. Their structural reasoning was more sophisticated, but one 12–13-year-old's recommendation to buy "from a safe company or from a safe manufacturer, because [...] there are a lot of, I always say China things [...] where it's perhaps not so safe" exposes socio-political bias substituting for security knowledge, and older children still struggled to hypothesize about probable abstract threats such as deepfakes. The authors conclude that exposure to AI does not by itself produce a critical safety perspective: risks are compounded by fundamental misconceptions about what AI is and by perceptual biases linked to AI's embodiment ([[misconceptions]] and [[ai-misuse-learning-harm|misuse]] education are therefore named as [[curriculum-design|curriculum]] priorities).
 
-## AI literacy, trust, and what the authors recommend
-
+## What this means for practice
 The paper's core argument is that [[ai-literacy|AI literacy]] cannot be reduced to technical definitions. Knowledge rose with age yet safety attitudes stayed flat and ambivalent, which the authors explain as a qualitative shift in the *basis* of ambivalence rather than a change in its level: younger children reasoned through [[student-ai-interaction|personal and physical]] proximity, older children through mechanisms, oversight and [[regulation]]. Because ambivalence persisted across the age range, curricula must address children's shifting, age-dependent reasoning patterns, not just raise factual scores. The ambivalence also contrasts with the high concern parents express about children's AI interaction in other work, which the authors read as an invitation to bring [[parents-and-families|caregivers]] and [[teacher-role|educators]] in as [[stakeholders]] in AI safety education.
 
 The trust problem is asymmetric. Children's inclination to anthropomorphize embodied systems ([[educational-robotics|social robots]]) coexists with near-total ignorance of the mechanisms that would justify or undermine [[trust-calibration|calibrated trust]] — hence the emotional-bond-as-privacy-guarantee error. Some older children inverted the logic usefully, treating AI's lack of feelings as a protective factor against emotional dependency, but their accounts also showed a shift toward treating friendliness itself as evidence of safety. The authors' guidelines respond directly: build foundational AI literacy while expanding children's understanding of misuse beyond physical threats to digital data risks; counter perceptual biases actively, especially the belief that an emotional bond ensures data privacy; and design for empowerment and transparency through granular, intuitive controls, ideally co-designed with children themselves so that control features double as learning. Their closing claim is that the success of educational robots "must be measured not only by its educational efficacy, but by its ability to empower children to navigate the risks of an AI-driven world critically and safely".

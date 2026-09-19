@@ -1,7 +1,7 @@
 ---
 title: "Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [llm, multimodal, conversational-ai]
 pedagogy: [self-directed-learning, help-seeking, active-learning, student-ai-interaction]
@@ -31,6 +31,20 @@ Access to a capable model is no longer the scarce resource in [[self-directed-le
 ## Tensions the paper leaves open
 
 Lowering the cost of asking makes asking easier — including for questions a learner could answer themselves, the classic [[cognitive-offloading]] risk. The authors' proposed direction of *temporally adaptive* autocompletion, moving from foundational fact-checking early in a session toward higher-level prompts later, is explicitly an attempt to turn scaffolding into [[scaffolding|fading support]] rather than a permanent crutch. That remains a design hypothesis rather than a tested outcome, and it is the point where this work intersects the wiki's ongoing questions about when AI help helps.
+
+## What this means for practice
+
+- **Designers.** Keep the question inside the study material instead of routing learners to a chat window: attach ink marks to specific document elements so a query carries an unambiguous target, since 85% of queries contained at least one visible mark and underlining (45%), circles (29%) and boxes (9%) were the dominant referencing strategies observed.
+- **Designers.** Expand sparse ink keywords into full semantic queries to cut the physical and cognitive cost of handwriting prompts — the Penquiry condition scored 80.78 on the System Usability Scale ("Excellent") and lowered NASA-TLX physical demand while raising reported learning flow (4.06 to 5.63, p = .046).
+- **Edtech designers.** Instrument the interaction so scaffolding can fade: the authors' proposed direction is temporally adaptive [[scaffolding|autocompletion]] that moves from foundational fact-checking early in a session toward higher-level prompts later, which is still a design hypothesis rather than a tested outcome in this work.
+- **Learners.** Use pen-based referencing where spatial precision is the difficulty — part-scoped questions about a specific axis, table row or term were the case in which direct pen marking beat screenshot-and-paste workarounds most clearly, and the gesture approach is worth learning deliberately.
+
+## Limitations
+
+- Both evaluations are small lab studies of 16 participants each (Study 1: 9 male, 7 female, mean age 24.8; Study 2: 7 male, 9 female, mean age 22.69), recruited as university students who had used [[llm|LLMs]] during pen-based learning within the previous six months — an experienced, self-selected convenience sample rather than a general learner population, and the sessions were short enough that the authors state participants may not have fully adapted to the pen-based questioning environment.
+- The outcomes are self-report and preference measures — SUS, the Technology Acceptance Model, NASA-TLX and 7-point Likert items — collected on a fixed set of study materials, so the studies show reduced interaction overhead and higher preference, not measured learning gains.
+- Usefulness was conditioned on prior knowledge: qualitative feedback showed that Question Autocompletion's utility scaled with the learner's domain expertise, because the feature helps most when the underlying concepts are already understood.
+- The pen-based question answering ran through a Wizard-of-Oz procedure in which a human operator captured the sketched region and forwarded it to GPT-4o, so the measured experience reflects a facilitated pipeline rather than a fully deployed system.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Student Adoption of an AI Tutor for Statistical Programming: A Longitudinal Study"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-efficacy, self-regulated-learning, help-seeking]
@@ -66,8 +66,7 @@ Where usage did predict outcomes, the relationship was consistent and mostly mon
 
 The findings are framed against the [[cognitive-offloading|cognitive offloading]] literature, where AI use has been linked to reduced [[critical-thinking|critical thinking]] via offloading (Gerlich, 2025) and to worse performance on a subsequent unannounced [[cognitive-psychology|memory]] test (Grinschgl et al., 2021) — with the important qualification that the memory penalty disappears when [[learners]] know a test is coming. The authors argue their course supplies exactly that condition: students knew the weekly transfer tasks would test the same concepts unaided, so offloading during homework did not translate into a learning deficit. This is their account of why the usual overreliance harms did not appear, and they present the instructional frame, not the model, as the active ingredient.
 
-## Implications for deploying AI tutors in programming courses
-
+## What this means for practice
 For a programming course, the practical lesson is that the tutor's placement inside an existing [[assessment]] loop, not its raw capability, produced both the usage and the outcomes. Students used the tool because comparing homework solutions against a [[scaffolding|scaffolded]] interlocutor was the assigned route to completing work they had to complete anyway, and the authors note that immediate relevance to the homework task is likely why adoption was as high as it was. The [[self-regulated-learning|self-regulated]] overlay matters: because unaided transfer tasks followed every homework week, the tool functioned as preparation rather than substitution, which is the arrangement they credit for the absence of negative effects.
 
 The version comparison is a design brief in miniature. Both tutor versions were rated reasonably helpful and of good interaction quality (v1 M = 3.9, SD = 0.6; v2 M = 4.2, SD = 0.5), and satisfaction and stated future use were high for both (satisfaction: 6.06 vs 6.46; future use: 6.46 vs 6.51). What separated them was the ability to escape an unproductive loop — the solution toggle let students bypass vague feedback — which raised system quality, information quality, compatibility, satisfaction and trust, but left task-technology fit and perceived performance impact flat. A tutor that cannot resolve its own dead ends will push students toward tools that can.

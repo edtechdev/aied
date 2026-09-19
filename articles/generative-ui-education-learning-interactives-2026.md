@@ -1,7 +1,7 @@
 ---
 title: "Harnessing Generative UI for Education: Tailored Learning Interactives"
 created: "2026-09-18T09:15:00-04:00"
-updated: "2026-09-18T09:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [generative-ai, simulation, multimodal, personalized-learning]
 pedagogy: [active-learning, scaffolding, student-engagement]
@@ -32,6 +32,20 @@ Generative UI sits one step beyond content generation: the model emits an execut
 ## Where the framework positions the teacher
 
 The authors are explicit that the system is meant to support rather than replace classroom teachers. Because teachers approve objectives and choose among candidates, the workflow keeps [[learning-design]] decisions human while automating production. This is the same division of labor proposed in other recent [[educational-technology-developers|edtech design]] work on [[intelligent-tutoring|AI authoring tools]], but applied to the artifact rather than the dialogue.
+
+## What this means for practice
+
+- **Educators.** Decompose the learning objective into progressive leveled goals whose completion requires active inquiry, hypothesis testing and variable manipulation before generating anything, because the paper attributes quality to that structure rather than to model scale.
+- **Instructors.** Keep orchestration with the teacher - initiate the request, approve the learning objective and select among candidate simulations - so generated artifacts serve your [[learning-design|instructional intent]].
+- **Edtech designers.** Embed pedagogical guardrails and critique-and-revision loops inside the generation pipeline instead of relying on teacher vigilance afterward; unguided generative UI produced pedagogically shallow artifacts, especially for complex constructs.
+- **Edtech designers.** Plan for topic-level quality variance: biology simulations rated lowest, particularly on aesthetics and UX, because topics that require memorizing detail (such as the cell cycle) yield textbook-sequenced rather than manipulable interactives.
+
+## Limitations
+
+- The usability study recruited 12 US STEM teachers (6 men, 6 women) who each wrote three requests, 36 in total, and rated the resulting interactives themselves - a small cohort rather than a representative sample.
+- Evaluation measured artifact quality, not learning: the 40-request expert rating (two raters per field, up to five generation attempts per request, 86% acceptance) covers pedagogical and UX/LX criteria with no student-learning or classroom-efficacy data.
+- The pipeline is built on a single model family (Gemini), so generation quality is bound to that system; the authors state the work is "just a first step" and that evaluation with real teachers in real schools, including student learning efficacy, remains to be done.
+- The usability ratings were collected on a version lacking several components implemented since, so the reported average above 8.1 reflects an earlier build than the one the paper describes.
 
 ## Connected Concepts
 

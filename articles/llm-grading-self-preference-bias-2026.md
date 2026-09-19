@@ -1,7 +1,7 @@
 ---
 title: "Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-18T14:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [llm, generative-ai]
@@ -62,6 +62,20 @@ The findings also cut against a common detection-adjacent proposal — using one
 The dataset, though large, is narrow: [[higher-ed|higher education]] psychology dissertations and abstracts from a single UK department, in English only, with writing conventions and [[assessment]] criteria that need not hold in other disciplines or languages — the author expects the magnitude and maybe the nature of the bias to differ elsewhere. The human sample is a general-population Prolific pool with at least undergraduate education rather than subject experts, and its Study 2 task was deliberately restricted to lay judgments of [[writing-education|writing]] quality, so the human baseline is a quality-perception baseline rather than an expert marking baseline.
 
 Study 2 used GPT-5 exclusively for generation, and its abstract-level analyses rest on 150 texts, giving weaker power than Study 1; the rewrite-versus-full comparisons there would not survive correction for multiple comparisons even though they pattern with the dissertation results. Gemma3:1b's failure to reproduce the effect on abstracts is unexplained and sits uncomfortably with its Study 1 behavior. And the paper is still under peer review, with only Study 2 preregistered (aspredicted.org/bb3b4t.pdf), so the headline contrast between human and model bias should be treated as a strong but not yet vetted result.
+
+## What this means for practice
+
+- **Assessment designers.** Run bias audits before deploying LLM grading: in Study 1 all four evaluators scored student-authored dissertations lowest and fully GPT-generated texts highest, with effects up to d = -1.85.
+- **Researchers.** Anchor model grading against a human rater baseline on the same texts: 300 human raters scored student and GPT-rewritten abstracts as equivalent (d = 0.10), while the equivalent model contrasts exceeded d = 0.85.
+- **Administrators.** Treat [[automated-assessment|LLM grades]] as a fairness risk until validated, since students with heavy AI access can outscore equally capable peers and grades may reward conformity to LLM writing patterns rather than knowledge.
+- **Educators.** Do not use one LLM to judge whether another wrote a text: a tool that rates machine prose higher even when content is held constant cannot be neutral about authorship.
+
+## Limitations
+
+- The corpus is psychology dissertations and abstracts from a single UK department, in English only (1,426 final-year dissertations across ten academic years), so the bias's magnitude and possibly its nature may differ in other disciplines and languages.
+- The human baseline is 300 Prolific adults from the general population with at least undergraduate education, judging lay writing quality on a 0-100 scale - a quality-perception baseline rather than expert marking.
+- Study 2 used GPT-5 alone for generation and rests on 150 texts in total (50 student abstracts plus their rewritten and fully generated counterparts), giving weaker power than Study 1; its rewrite-versus-full comparisons would not survive correction for multiple comparisons.
+- Gemma3:1b failed to reproduce the pattern on abstracts (student versus rewrite p = .429; student versus fully generated p = .070), and the author leaves that divergence from its Study 1 behavior unexplained; the paper is under peer review and only Study 2 was preregistered.
 
 ## Connected Concepts
 

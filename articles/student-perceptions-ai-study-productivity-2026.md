@@ -2,7 +2,7 @@
 title: "Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study"
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 technology: [generative-ai]
 assessment: [learning-gains, self-report-measures]
@@ -60,7 +60,14 @@ Disadvantages centered on **dependence or overreliance**, **reduced independent 
 6. **Benefits and risks were reported side by side.** Open-ended answers praised explanations, speed, and information access while naming dependence, reduced independent effort and critical thinking, verification burden, and academic dishonesty.
 7. **The study makes no causal or generalizable claim.** The design is cross-sectional and descriptive with a non-probability sample of 26, a non-validated instrument, and self-reported outcomes only; perceived improvement is explicitly not treated as evidence of measured learning.
 
-## Limitations and What the Findings Can Support
+## What this means for practice
+
+- **Instructors.** Teach and require verification: have students check AI-generated information against reliable academic sources and treat the tool as a learning aid rather than a substitute for their own reasoning, since 13 of 26 respondents (50.0%) reported sometimes or often relying on AI instead of trying to learn independently.
+- **Instructors.** Spend the time on evaluation rather than detection — showing students how to identify errors in AI output and use it ethically addresses the dependence, reduced independent effort and reduced critical thinking that respondents themselves named as the costs.
+- **Instructors.** Do not read faster task completion as saved study time: 21 of 26 respondents (80.8%) said AI helped them finish assignments faster while only 10 (38.5%) said it reduced their study time, so ask students what they did with the time they saved.
+- **Researchers.** Pair perception surveys with pre/post tests, grades, study-time logs or controlled learning tasks and larger, more diverse samples, because perceived understanding (92.3% agreement here) is not measured [[learning-gains|learning]].
+
+## Limitations
 
 The paper states its limitations without softening them: the sample was small (N = 26), limiting precision and generalizability; recruitment was not random, so selection bias is possible; outcomes are self-reported rather than objective measures such as [[summative-assessment|examination]] scores, assignment grades, study-time logs, or standardized assessments; the cross-sectional design cannot establish that AI use caused any change in learning or productivity; two respondents were aged 15–18, so consent, assent, and data-protection requirements should be verified before public dissemination; and the questionnaire was a small exploratory instrument, not a validated psychometric scale.
 

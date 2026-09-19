@@ -1,7 +1,7 @@
 ---
 title: "Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention"
 created: "2026-09-18T12:35:00-04:00"
-updated: "2026-09-18T12:35:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [motivation, student-engagement, self-efficacy]
 technology: [generative-ai, conversational-ai, pedagogical-agent]
@@ -45,8 +45,15 @@ Interviewing 20 students five days after the intervention, 10 drawn from the top
 
 The proposed mechanism links [[student-engagement|engagement]] and [[motivation]] through relevance, but with a developmental qualification. Because adolescents' identities are still forming, an AI-supplied link between trigonometry and a future profession may be too distant to feel self-relevant, whereas connections to current concerns or to the sheer breadth of application are close enough to register. The paper's practical rule is therefore the reverse of the intuition that drove the design: use generative AI to tie subject matter to what students face now, or to its general reach across domains, rather than to an identity they have not yet settled.
 
-## Limitations and what the study cannot claim
+## What this means for practice
 
+- **Teachers.** Run relevance work as collective dialogue rather than one-to-one chat: the collective condition beat the control on relevance as identification (η² = 0.073) while the individualized condition did not differ from the control (F = 1.28, p = .261).
+- **Teachers.** Anchor math to what students face now and to its reach across fields rather than to a career identity they have not settled: 7 of 10 students in the individualized condition described the AI's identity links as too abstract to use, one of them seeing no need for the math described because he "just want[s] to be a cook."
+- **Teachers.** Plan repeat sessions when interest in the math class is the target: after a single one-hour session interest moved by F = 0.29, p = .75, η² = 0.003, and the authors attribute that null to dose rather than to the method.
+- **Teachers.** Use the dialogue to establish relevance ahead of the specific lesson it is meant to support; in the collective condition the relevance gain carried through to relevance for a particular math lesson one week later (indirect effect = 0.108, p < .05).
+- **Researchers.** Read any effect against the cohort's starting point — prior relevance averaged 1.97 of 6 in a vocational medical track where math was already secondary to career training — before assuming the same script will move a general secondary class.
+
+## Limitations
 The sample is one medical vocational high school, where students plausibly treat math as less important than practical training, so replication in general secondary settings is needed. A single one-hour session is short for interest development and even for durable relevance, and the authors propose multi-session designs, for example establishing relevance with AI before each lesson. The interviews deliberately contrasted extreme and typical cases, which leaves moderate performers unexamined. Clustering by class is unmodelled given three clusters, the measures are [[self-report-measures|self-report]], only one Chinese system was used, and the two-week window says nothing about longer persistence. Within those bounds the study's contribution is a correction to the design of AI-assisted relevance work rather than a demonstration that [[conversational-ai|conversational AI]] reliably raises interest in a school subject.
 
 ## Connected Concepts

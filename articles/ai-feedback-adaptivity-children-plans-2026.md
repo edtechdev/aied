@@ -1,7 +1,7 @@
 ---
 title: "Adaptivity Makes Feedback Effective: Evidence From AI-Generated Feedback on Children's Plans"
 created: "2026-09-18T13:20:00-04:00"
-updated: "2026-09-18T13:20:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 assessment: [feedback, formative-assessment, ai-feedback-quality, automated-assessment]
 technology: [generative-ai, llm]
@@ -48,8 +48,7 @@ The preregistered hypotheses all held. Children's plans improved significantly a
 
 The authors' proposed mechanism is perceptual and cognitive rather than stylistic. A generic message tells a child which principles matter but forces the child to work out which of those principles their own cue violates; adaptive feedback performs that diagnosis, linking evaluative information to the specific plan so the child does not have to infer relevance. That raises the perceived diagnostic value and credibility of the support, which in turn supports deeper engagement with the revision task. On this reading, perceptions of usefulness are not affective byproducts but part of the causal pathway, which is exactly what the trial-level interactions suggest. The paper is also careful about what adaptivity is not: it is not conversational interactivity, task-difficulty adjustment or a polished tone. The authors define it narrowly as response-contingent adaptation of feedback content to the learner's concrete response, and contrast this momentary alignment with older adaptivity based on stable learner traits such as [[prior-knowledge|prior knowledge]]. This framing connects the study to the taxonomy tradition of Plass and Pawar and to dynamic models of [[personalized-learning|personalization]] in which adaptation operates on different timescales.
 
-## What this means for formative assessment and scaffolding
-
+## What this means for practice
 For [[formative-assessment]], the result reframes a familiar implementation dilemma. Teachers' time constrains the timely, detailed, individual feedback that models such as Nicol and Macfarlane-Dick's describe, and the usual response is either generic whole-class guidance or nothing. This study suggests generic high-quality guidance is a genuine but limited substitute: it raises plan quality, yet leaves a large gap that response-contingent feedback closes. That gap is worth naming in cost terms, because a system that only automates delivery of static guidance will plateau at the generic median, while the value of an [[llm|LLM]] here comes precisely from contingent diagnosis of the child's own attempt. For [[scaffolding]], adaptivity supplies a concrete operationalization of contingency, the property that distinguishes scaffolding from static support, on a task where the quality criteria are explicit and the response is one sentence long. It also places [[metacognition]] in the path: because children must evaluate and revise their own cue, the feedback is not transferring the answer but provoking self-evaluation, which is closer to the process-focused, self-regulatory function that [[ai-feedback-quality|feedback quality]] frameworks urge. Children aged around twelve in ordinary classrooms could act on this, which bears on [[k-12|elementary]] and lower-secondary deployment questions and on the design of [[automated-assessment|automated feedback]] that supports strategy use rather than marking answers.
 
 ## Limitations

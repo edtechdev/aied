@@ -1,7 +1,7 @@
 ---
 title: "Governing generative AI in higher education: Emerging policy approaches and support ecosystems at innovative U.S. universities"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-18T05:10:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, framing-ai-use-for-students, ai-literacy]
 pedagogy: [pedagogy]
@@ -44,8 +44,7 @@ Support resources clustered into four units. Teaching and learning centers act a
 
 Answering how integrity is framed when GenAI is permitted, Qian proposes a four-pillar framework. **Accountability** is framed as human [[agency]] in collaboration: AI may support ideation, drafting, feedback or analysis, but students and instructors stay responsible for what they submit, assign or evaluate, and users are expected to steer, critique, verify and revise outputs rather than defer to them. **Transparency** is enacted through disclosure and attribution, but also works as a design principle that reduces ambiguity before submission. **Equity** rests on the premise that integrity expectations are fair only when students have comparable opportunities to understand, access and use the tools a course presumes, which Carnegie Mellon's Eberly Center ties to accessibility, cost and differential access and Northeastern ties to uneven prior AI experience. **Privacy** is treated as an integrity condition rather than a technical afterthought, because inappropriate data sharing can expose students to harm and erode trust in academic processes. Qian interprets these patterns through plural [[ethics|ethical]] traditions, from deontological duty and principlism to consequentialism, the capability approach, virtue ethics and care ethics, and concludes that the result is not a settled consensus but provisional governance negotiated among competing values.
 
-## Implications for institutions
-
+## What this means for practice
 Five design options follow from the patterns rather than from the divergences. Require or strongly encourage a clear AI policy in every syllabus while supplying standardized options such as Prohibit, Conditional Use and Encourage. Shift effort from policing to design by investing in process-rich assignments (drafts, prompt logs, reflections, oral explanations, revision histories) and by mainstreaming AI literacy for students and faculty, since pedagogy and assessment design appeared in 44 of 50 institutions and faculty-development resources in 49 of 50, yet assignment-redesign resources appeared in only 9. Treat AI infrastructure as a pedagogical and equity concern, publishing guardrails and living registries of approved, restricted and prohibited tools (central AI/IT hubs appeared in 30 of 50, student-facing guidance in only 4). Manage divergence deliberately through program-level policy ranges, such as stricter limits in introductory courses and more flexibility in advanced seminars. Frame academic integrity as formation rather than enforcement alone, and institutionalize libraries as the authority on AI citation and attribution.
 
 ## Limitations

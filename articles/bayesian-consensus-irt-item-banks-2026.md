@@ -2,7 +2,7 @@
 title: Bayesian Consensus Calibration of Continuously Evolving IRT Item Banks
 type: article
 created: "2026-09-17T09:40:00-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 technology: [adaptive-learning, educational-nlp, learning-analytics, llm]
 assessment: [assessment-validity, automated-question-generation, educational-measurement, item-response-theory, psychometrically-aware-ai]
 sources: ['raw/papers/bayesian-consensus-irt-item-banks-2026.md']
@@ -47,8 +47,15 @@ The benchmark is a pooled single-run fit, deliberately configured to avoid confo
 4. Linking was independently corroborated at the ability level: per-period ability means implied by the linked calibrations differed by at most 0.08 reference-metric units, and the ratio of corresponding ability standard deviations ranged from 0.98 to 1.07.
 5. The update-cost claim is architectural rather than measured: because each period is calibrated once and combined with already-computed earlier posteriors, the cost of an update scales with the new period rather than the accumulated history, and the full history need not be held in memory at once.
 
-## What the Method Depends On, and What It Does Not Reconstruct
+## What this means for practice
 
+- **Researchers.** Aggregate separately calibrated periods with per-draw linking. Solving the characteristic-curve criterion for every posterior draw reproduced pooled item parameters at r = .998 (RMSE 0.129) for difficulty and r = .991 for log a₁ in this application, so linking uncertainty can be carried inside the item posteriors rather than fixed.
+- **Designers.** Enforce disjoint examinee samples across calibration periods before aggregating. Conditional independence fails where retakes place the same candidates in two periods, and the empirical evaluation satisfied that condition rather than probing its violation.
+- **Designers.** Propagate linking error into the parameters that drive [[adaptive-learning|adaptive delivery]]. Per-draw linking is what brought consensus posterior standard deviations into agreement with the pooled benchmark, r = .970 for difficulty and r = .920 for log a₁.
+- **Designers.** Check posterior dispersion by exposure tertile and treat sparse items accordingly. Consensus standard deviations ran 0.91 to 0.94 of pooled values for difficulty across low, mid and high exposure levels, with the worst under-dispersion in the lowest tertile.
+- **Researchers.** Report the fallback rate every cycle. Items whose consensus covariance fails to stay positive definite are routed to the population prediction, and the authors present that proportion as the diagnostic of whether periods are individually informative enough for the method at all; their own run does not report it.
+
+## Limitations
 The authors are unusually direct that the method's validity is conditional. Cross-period conditional independence requires disjoint examinee samples, since substantial overlap would count some responses more than once — a real constraint in an assessment where candidates can retake, and one that the empirical evaluation satisfies but that a general deployment must actively enforce. The factors being combined are plug-in Gaussian summaries of each period's hierarchical posterior, an approximation whose adequacy is assessed empirically through the benchmark comparison rather than proved. And the aggregation targets each item's *marginal* posterior: the joint dependence across items induced by shared hyperparameters and common linking constants is not reconstructed. That last limitation bounds what the output can support — marginal posteriors are what adaptive item selection and scoring consume, but they are not a substitute for a full joint posterior if a downstream use depends on the correlation structure across items.
 
 It is worth being precise about what the study does and does not establish. It demonstrates agreement with a pooled benchmark on one operational assessment, for two item parameters, under conditions where the anchor screen and convergence screen were met and where the periods were individually informative enough that the fallback rate was tolerable. It does not report the proportion of items routed to the population fallback, does not compare against sequential updating as an alternative, and does not test behavior under period-to-period specification changes — the case for which the authors note the replacement prior would need to be formed from item-level predictions instead. Nor does it address the exposure-control and fairness questions that automatic generation raises on the content side: a bank that grows by prediction instead of pretesting changes what kind of evidence supports an item's difficulty, which is a different kind of validity question from whether the calibration arithmetic is stable.

@@ -1,7 +1,7 @@
 ---
 title: "Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives"
 created: "2026-09-18T04:12:00-04:00"
-updated: "2026-09-18T04:12:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, learner-identity]
 pedagogy: [motivation, student-ai-interaction]
@@ -41,14 +41,12 @@ The three thematic areas map directly onto the study's research questions, and t
 
 On originality, the paper defines the construct as the student's own unique critical thinking, creativity, and evaluation of existing ideas, and concludes that AI-generated work should not count as original student work, because authorship involves more than remixing existing ideas. The authors call idea generation by prompt digital ghostwriting and tie it to a wider concern about dependence: if the student's role reduces to entering keywords, cognitive functions decline and students become dependent rather than active knowledge creators, which the paper links to [[cognitive-offloading|technological cognitive atrophy]].
 
-## Implications for policy and assessment
-
+## What this means for practice
 The paper's practical argument is that a purely punitive response is less promising than a balanced one. It recommends clear, comprehensive, and well-communicated institutional [[educational-policy-ai|GenAI policies]], targeted awareness raising about plagiarism, originality, and [[equity-in-ai-education|assessment inequity]], and promotion of digital literacy and [[ai-literacy|AI literacy]]. They note that where policies existed, students found them vague and faculty lacked the training to enforce them. Because preparing a policy is not the same as enforcing it, the authors call for reinforcement of rules and continuous evaluation of whether they work, and identify as a future research question whether policy or ethical awareness better mitigates GenAI risk, since studies of policy effectiveness remain scarce.
 
 Assessment reform is the second lever. The authors urge a shift from intensive paperwork toward progressive learning processes, [[authentic-assessment|authentic assessments]], reflective debriefings, and real-life project work, and toward tasks that assess higher-order thinking rather than the reproduction of text. They also point out the limits of the detection route: AI-generated work is not reliably detectable, and detectors return false positives and false negatives, so a stronger signal for [[ai-detection|detection]]-based integrity enforcement is not available. Underneath both levers sits the paper's framing of students' relationship to the tools: the closing line asks for GenAI to become a partner that supports learning rather than an instrument of [[ai-misuse-learning-harm|academic misconduct]], and the students' own testimony shows why the distinction is not settled: the same tool is experienced as an instant, always-available mentor and as an unfair advantage that rewards the least diligent users.
 
-## Limitations and open questions
-
+## Limitations
 The authors state four limits. The study could not capture the perspectives of students with disabilities, so those views are absent. The sample was mainly male because fewer female students were willing to take part, which may have limited representation of women's views. It was conducted in a single higher education institution, so transferability is confined to similar institutional and contextual settings. And the data are self-reported, leaving the findings open to social desirability bias. What the study does provide is a documented case of an integrity-utility trade-off from inside a student body, plus the authors' own claim that students' beliefs predict their behavior more strongly than institutional rules do (Ka and Chan 2025).
 
 ## Connected Concepts

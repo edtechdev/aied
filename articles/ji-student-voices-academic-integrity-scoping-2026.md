@@ -1,7 +1,7 @@
 ---
 title: "Academic integrity in the age of generative AI: A scoping review of research on higher education student voices"
 created: "2026-09-18T05:08:46-04:00"
-updated: "2026-09-18T05:08:46-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, agency, reducing-ai-misuse]
 pedagogy: [student-ai-interaction, motivation, metacognition]
@@ -39,16 +39,14 @@ Ji searched Web of Science, Scopus and ERIC between October and late November 20
 
 Several studies report that over 95% of participating students had used GenAI (Barus et al., 2025; He et al., 2026); the lowest was about a third (Kazley et al., 2025). Students use the tools mainly for searching information and improving comprehension (Chan, 2025; Gruenhagen et al., 2024; Sajja et al., 2025; Yusuf et al., 2024), and for writing-related language support: paraphrasing, brainstorming, grammar and structure, and translation (Črček & Patekar, 2023; Hysaj et al., 2025; Nwagbara, 2025). Almost all reviewed studies report students crediting GenAI with efficiency and time savings (Bearman et al., 2026; Tsao, 2025) and treating it as a personalized aid where [[teacher-role|teacher]] support or materials are scarce (Fajt & Schiller, 2025; Sajja et al., 2025). Ji concludes that students view ChatGPT as a legitimate learning tool rather than a cheating aid, citing Perdana et al.'s (2026) "augmented [[metacognition]]" for extending rather than replacing thought. The caveat is social desirability: with integrity as the research topic, admissions of graded-assignment use may be suppressed.
 
-## What the reviewed studies recommend
-
+## What this means for practice
 The implications converge in three directions. First, **from retrospective detection to proactive reasoning**: nearly all studies ask for a shift away from rule-based enforcement and [[ai-detection|detection]] toward educative approaches, with Giray et al. (2026, p. 18) arguing that "traditional punitive approaches to academic integrity are insufficient in the AI era" and that institutions need "proactive ethical education, AI literacy programs, and policy frameworks that acknowledge technological realities." Ji adds that [[ethics|AI ethics]] and AI-giarism belong in the [[curriculum-design|curriculum]] rather than in one-off [[ai-literacy|literacy]] sessions (Gruenhagen et al., 2024), and that ownership and moral reasoning motivate students more than fear of punishment (Bearman et al., 2026).
 
 Second, **from ambiguity to co-created clarity**: because unclear guidance is read as tacit permission, studies want detailed, accessible [[educational-policy-ai|guidelines]] with concrete examples of permissible and impermissible use and explicit differentiation between assistive tools such as Grammarly and generative tools such as ChatGPT (Lund et al., 2025a, 2025b; Tsao, 2025; Yusuf et al., 2024), co-created by leaders, faculty and students (Shaukat et al., 2025).
 
 Third, **from universal principles to contextual sensitivity**: [[assessment|assessment design]] is named as a major driver of breach, because tasks students see as irrelevant or overly burdensome get reframed as obstacles to survive (Črček & Patekar, 2023; Hysaj et al., 2025; Nelson et al., 2025). The studies call for [[authentic-assessment|tasks GenAI cannot do well]], such as fieldwork, oral exams, contextual essays and case-based analysis (Tsao, 2025; Barrett & Pack, 2023), and for personalized reflective writing in which the student's own context carries the work (Dillon et al., 2024). Since norms differ by discipline, level and culture (Kazley et al., 2025; Harrington et al., 2025), guidelines should be differentiated and faculty supported through [[educational-development|professional development]] to design [[discipline-specific-aied|discipline-specific]] [[assessment-validity|valid]] tasks (Kamoun et al., 2024; Sajja et al., 2025; Synekop et al., 2024).
 
-## Gaps, limits and what the review itself cannot do
-
+## Limitations
 The reviewed studies name four recurring weaknesses. Samples are context-specific and rarely cross-national, so generalizability is limited, and coverage skews toward Western, English-speaking, high-income systems despite emerging [[global-south|Global South]] research (Nelson et al., 2025); sizes are often small. All depend on self-reported survey and interview data, open to social desirability bias, and several call for more diversified sources to triangulate findings. Most consequentially, every reviewed study is cross-sectional: the field lacks longitudinal work tracking students as tools and policies change, and lacks intervention studies testing whether ethics curricula, redesigned assessments or different policy communications work. The studies also suggest looking beyond writing, to coding, data science and music composition. Ji adds three limits of the review itself: three databases only, English-language publications only, and a technology moving too fast for any such map to stay current.
 
 ## Connected Concepts

@@ -1,7 +1,7 @@
 ---
 title: "The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-18T05:10:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, theory-development-aied]
 pedagogy: [anxiety-and-stress, motivation, well-being]
@@ -51,8 +51,7 @@ Ninety participants (82.6%) gave at least one substantive open-ended response: 6
 
 Five reconciliation strategies appeared: tool framing, comparing AI to calculators or spell-check (30%); emphasis on [[critical-thinking|critical thinking]] and human evaluation (25%); boundary setting (20%); transparency (15%); and 10% asserting no reconciliation was needed. Identity challenges mirrored this: skill atrophy anxiety (30%), an authenticity crisis around originality (25%), career-stage differentiation (20%) and, notably, 25% reporting no identity threat at all. A temporal trajectory, where remembered guilt diminished with continued use, explains the paradox: "In general, I felt guilty about using it considerably in the beginning when we knew even less about it, it was a sort of experimentation phase".
 
-## Implications for practice
-
+## What this means for practice
 Technical training and usage policy will not resolve a problem that is partly emotional and identity-based. Because only 31.2% of respondents saw clear guidelines and the correlation between clarity and lower guilt was weak, the paper recommends that universities create spaces for open discussion of moral concerns and collective boundary-setting rather than relying on top-down mandates, and that [[educational-development|academic development]] programs treat guilt and identity concern as normal transitional responses rather than faults to correct. The temporal trajectory suggests structured, low-stakes experimentation as a route through anticipatory anxiety, and the career-stage result supports mentorship by senior academics who have integrated AI, since guilt falls hardest on those facing the greatest professional pressure.
 
 ## Limitations

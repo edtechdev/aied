@@ -1,7 +1,7 @@
 ---
 title: "Who wrote this? Evaluating the reliability of AI detection tools in higher education"
 created: "2026-09-18T04:15:00-04:00"
-updated: "2026-09-18T04:15:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse, limitations-in-aied-research]
 technology: [generative-ai, llm, machine-learning]
@@ -40,8 +40,7 @@ The design, dataset structure and planned analyses were preregistered on AsPredi
 
 The paper describes each tool's operating logic because that is where the performance gap comes from. Turnitin segments documents into overlapping blocks, scores them 0 to 1 on perplexity, burstiness, repetition and generic phrasing, and is trained on text from GPT-4, GPT-4o, Gemini and other models, but supports only English, Spanish and Japanese. Scores between 0% and 20% are reported as an asterisk rather than a number, a design choice that pushed 19 fully AI-generated papers, 7 hybrid, 6 humanized and 3 fully human papers into missing values for the continuous analysis. GPTZero combines linguistic and statistical signals such as perplexity and burstiness with sentence-level classification and web overlap search. Copyleaks combines linguistic and learning-based methods over frequency ratios, syllable dispersion and hyphen usage, and claims over 30 languages. Pangram was trained on roughly 28 million human-authored documents and uses a "syntactic mirror" technique — generating an AI twin of each human training text matched on topic, tone, style and length — plus hard negative mining on its own misclassifications, which the authors argue is why it looks past the surface metrics the other tools rely on.
 
-## Implications for institutions
-
+## What this means for practice
 The recommendations are deliberately modest about what detection can carry. The authors position tools such as Pangram as one component inside a broader decision-making process, require institutions to establish clear policies on what GenAI use breaches integrity, and call for regular re-[[benchmark|benchmarking]] because any evaluation is a snapshot: while the manuscript was being finalised, OpenAI released GPT-5, and the limitations section names GPT-5.2, Claude Opus 4.6 and Gemini Pro 3 as models that future work would need to test. They also argue for complementing [[ai-detection|detection]] with assessment redesign, more process-oriented evaluation and [[llm|AI literacy]] for both students and staff — the same direction other work in this knowledge base takes. One fairness argument is stated plainly: students who do genuine work should be able to trust that institutions have mechanisms to verify integrity, which is why the authors consider it important that only one of the four tools tested produced satisfactory results.
 
 ## Limitations

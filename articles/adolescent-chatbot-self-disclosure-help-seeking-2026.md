@@ -1,7 +1,7 @@
 ---
 title: "Turn to chatbots for sharing feelings or seeking solutions? Differential associations of preferences for chatbot-mediated self-disclosure and instrumental help-seeking with adolescent interpersonal behaviors in the United States and Hong Kong"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-18T13:40:00-04:00"
+updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [conversational-ai, llm]
 stakeholders: [learners, parents-and-families]
@@ -54,6 +54,13 @@ The [[llm]] chatbot question sharpens in the path model. In the pooled sample, a
 The authors read the whole-sample self-disclosure results as evidence that chatbot conversation can complement rather than substitute for human relationships. Their mechanisms are social cognitive theory, where behavior is acquired through repeated interaction with the environment, and the computers-are-social-actors paradigm, where people apply social heuristics — reciprocity, politeness — to machines that show [[community-of-inquiry|social presence]]. On that account a helpful chatbot response can be generalized into real life, raising [[self-efficacy]] and the willingness to seek support from people, which is what the adaptive-coping route measures. They add a self-focus explanation: a disposition toward disclosure may reflect self-reflection, which clarifies goals and processes emotion, rather than rumination, which dwells on threat — and the pooled data look like reflection dominating.
 
 The cross-national divergence is explained culturally, not clinically. East Asian animistic traditions are described as affording weaker human exceptionalism and greater comfort anthropomorphizing technology, so Hong Kong adolescents may experience a [[conversational-ai]] chatbot as genuinely socially present; Confucian emphasis on self-reflection as a route to growth, combined with a non-judgemental partner, may make the chatbot a safe workspace for that habit. Western human exceptionalism, by contrast, differentiates humans from the rest of the world, so US adolescents may find chatbot responses emotionally unresponsive in a way that feeds rumination, maladaptive coping and diminished [[trust]] in the exchange. Practical recommendations follow the split: designers for Chinese users can position [[conversational-ai]] chatbots as non-judgemental empathic companions and build in journalling or guided self-inquiry prompts, designers for Western users should frame them as "thinking partners" rather than "empathic listeners", and mental-health and clinical guidance should proactively name the limits of emotional responsiveness for Western clients. Instrumental and cognitive support, being governed by functional criteria such as accuracy and speed that are not culturally variable, can be deployed broadly with little adaptation. The authors also flag platform affordances as an untested alternative explanation, since relationally oriented companion apps and search-integrated assistants are not equally popular in the two sites, and they state plainly that mechanisms invoking actual interaction quality remain tentative because only preferences were measured.
+
+## What this means for practice
+
+- **Educators.** Teach the difference between asking a chatbot for a solution and confiding in it: instrumental [[help-seeking]] predicted adaptive coping (β = 0.16, p < 0.001) in both the United States and Hong Kong, so steer AI guidance toward problem-solving and factual requests and keep emotional disclosure a conversation with people.
+- **Educators.** Name the limits of a chatbot's emotional responsiveness in US-facing programs instead of assuming it transfers: preference for self-disclosure tracked maladaptive coping in the United States (b = 0.16) and the opposite in Hong Kong (b = −0.38, z = 4.84, p < 0.001).
+- **Administrators.** Keep counseling staff and peer-support routes visible alongside any chatbot deployment, because the lower bullying that followed instrumental help-seeking ran through adaptive coping (β = −0.02) — the same route human support seeking takes.
+- **Researchers.** Measure what adolescents say they want to discuss to a [[conversational-ai|chatbot]], not how often they use one: the predictor here was a single open-ended preference item with no platform data, which is why the emotional-responsiveness mechanisms stay tentative.
 
 ## Limitations
 
