@@ -1,13 +1,14 @@
 ---
 title: "Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-09-19T12:04:28-04:00"
+updated: "2026-09-19T14:23:47-04:00"
 type: article
 foundations: [agentic-ai, educational-development, learning-design, teacher-role]
 technology: [llm, edtech-platform]
 assessment: [automated-assessment]
 research_method: [system development]
 audience: [instructors, faculty development, software developers]
+connected_faqs: [top-10-findings-ai-education-instructors]
 level: [higher ed]
 sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']
 confidence: high
