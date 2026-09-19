@@ -80,7 +80,7 @@ The system's operational properties are, however, plausible: a fully automated t
 - [[ai-guided-learning-audiovideo-2026]] — AI-Guided Learning: Research on Knowledge and Skill Acquisition Support Methods Using Deep Learning Audio-Video Processing Techniques
 - [[bias-representation-text-to-image-education-2026]] — Bias and Representation in AI-Generated Text-to-Image in Education: A Systematic Review
 - [[structrag-diagram-reasoning-ai-tutoring]] — Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education
-- [[multimodal-ai-tutoring]] — Multimodal AI Tutoring in STEM
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI Tutoring in STEM
 
 ## Citation
 Siddhanth Sridhar, Shreya Chaurasia, Baddela Sai Yaswantha Reddy, Deepak Parmar and Shylaja S S (2026). [*Dynamic Learning Solutions: A System for Personalized Educational Video Generation*](https://arxiv.org/abs/2609.14408). arXiv preprint.

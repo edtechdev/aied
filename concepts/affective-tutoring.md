@@ -61,7 +61,7 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 ## Relationship to Broader Safety
 
-Affective tutoring intersects with [[ai-tutor-safety-harms|SafeTutors]] in the [[motivation|motivational]]-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and [[self-regulated-learning|self-regulation]]. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
+Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] in the [[motivation|motivational]]-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and [[self-regulated-learning|self-regulation]]. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
 
 ## Connected Concepts
 

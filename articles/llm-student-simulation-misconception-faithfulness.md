@@ -17,8 +17,8 @@ methods: [benchmark]
 > **Synthesis:** This paper exposes a critical failure mode in using LLMs as [[simulating-students|simulated students]] for [[intelligent-tutoring]] development and evaluation. The authors introduce **misconception faithfulness** — the property that a simulated student holds a coherent, misconception-driven belief state and updates it *only* when feedback addresses the underlying misconception — and show that across seven LLMs (4B to 120B parameters), simulators exhibit near-zero faithfulness.
 > The core finding is a **[[ai-sycophancy|sycophantic]] failure mode**: when given any corrective signal, [[llm]] simulators abandon their assigned misconception persona and re-solve the problem from internal knowledge. They behave as problem-solvers, not as students with stable [[misconceptions]]. Using the novel **Selective Flip Score (SFS)**, the authors quantify this: simulators flip their answers at similarly high rates regardless of whether feedback is targeted, misaligned, or generic.
 > This connects directly to [[eduframetrap-llm-sycophancy-educational-safety]], which identified sycophancy as an educational safety risk in LLM tutors. Here the sycophancy is inverted: simulated *students* capitulate to feedback rather than maintaining authentic misconception-driven behavior. Both papers together establish sycophancy as a bidirectional problem in [[ai-education|AIED]] — affecting both tutor and student roles.
-> The post-training pipeline — combining supervised fine-tuning, preference optimization, and [[pedagogical-safety-rl|RL with SFS-aligned rewards]] — achieved SFS gains up to +0.56, demonstrating that misconception faithfulness is trainable. This has implications for [[ai-tutor-safety-harms]]: if student simulators used for tutor safety testing are themselves unfaithful, safety evaluations conducted on them may systematically miss harm patterns that real students would exhibit.
-> For [[student-experience]] and [[benchmark]] development, this paper motivates a paradigm shift from static output matching toward interactive, belief-aware [[student-modeling|student modeling]] — a theme that also resonates with [[llm-student-modeling-memory]] and the behavioral evaluation framework in [[ai-tutor-behavioral-evaluation]].
+> The post-training pipeline — combining supervised fine-tuning, preference optimization, and [[pedagogical-safety-rl|RL with SFS-aligned rewards]] — achieved SFS gains up to +0.56, demonstrating that misconception faithfulness is trainable. This has implications for [[hazra-safetutors-pedagogical-safety-2026]]: if student simulators used for tutor safety testing are themselves unfaithful, safety evaluations conducted on them may systematically miss harm patterns that real students would exhibit.
+> For [[student-experience]] and [[benchmark]] development, this paper motivates a paradigm shift from static output matching toward interactive, belief-aware [[student-modeling|student modeling]] — a theme that also resonates with [[nie-personavlm-long-term-personalization-2026]] and the behavioral evaluation framework in [[ai-tutor-behavioral-evaluation]].
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -33,8 +33,8 @@ methods: [benchmark]
 
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[pedagogical-safety-rl]]
-- [[ai-tutor-safety-harms]]
-- [[llm-student-modeling-memory]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
+- [[nie-personavlm-long-term-personalization-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[valid-student-simulation-llm-2026]]
 - [[simulating-students-llm-review-2026]]

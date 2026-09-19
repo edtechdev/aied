@@ -56,11 +56,11 @@ The instrument itself deserves separate scrutiny. What a questionnaire, intervie
 
 ### Qualitative methods
 
-Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[ai-tutor-safety-harms|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. See the dedicated [[qualitative-research]] concept page for the full treatment of qualitative approaches — thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups — each with knowledge base exemplars.
+Interviews, focus groups, and thematic analysis produce rich, contextual accounts of how students and teachers experience AI tools, the meanings they attach to them, and the tensions and harms that standardized measures miss. [[hazra-safetutors-pedagogical-safety-2026|Research on AI tutor safety]] and [[ai-changing-teaching-workflows|how AI changes teaching workflows]] rely heavily on qualitative evidence. See the dedicated [[qualitative-research]] concept page for the full treatment of qualitative approaches — thematic analysis, grounded theory, phenomenology/phenomenography, discourse analysis, observations and ethnography, case studies, and interviews/focus groups — each with knowledge base exemplars.
 
 - **Strengths:** deep ecological and conceptual insight; surfaces unexpected phenomena, risks, and mechanisms; essential for theory-building and for studying contested constructs like trust, [[agency|autonomy]], and authorship.
 - **Limitations:** limited generalizability; interpretive and researcher-dependent; small samples; weaker support for causal claims; findings can be hard to synthesize across studies.
-- **Exemplars:** [[ai-tutor-safety-harms]], [[ai-changing-teaching-workflows]], [[scaffolding-critical-engagement-genai-minority-students]].
+- **Exemplars:** [[hazra-safetutors-pedagogical-safety-2026]], [[ai-changing-teaching-workflows]], [[scaffolding-critical-engagement-genai-minority-students]].
 
 ### Mixed-methods designs
 
@@ -193,7 +193,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI Can Harm Teaching
 - [[genai-over-reliance-learning-2026]] — From Enhancement to Over-Reliance: A Mixed-Method Study
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive Review of Intelligent Tutoring Systems
 - [[ai-assisted-collaborative-learning-model-dbr]] — Design-Based Research for an AI-Assisted Collaborative Learning Model
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: Evaluating LLM Teaching Ability

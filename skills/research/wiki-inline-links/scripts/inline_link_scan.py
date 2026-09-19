@@ -308,6 +308,14 @@ AUTO_APPLY_DENYLIST = {
     # 'learners' is the slug of the learner-side umbrella page; the bare plural appears
     # on hundreds of pages in a generic sense, so it stays report-only.
     'learners', 'learner',
+    # 2026-09-18: bare words whose false-positive rate on that day's pass was high.
+    # They stay report-only (still printed for human judgement) rather than being
+    # hard-rejected, because each is correct in some other sense on other pages.
+    'mathematics', 'physics', 'accessibility', 'autonomy', 'benchmarking',
+    'regulation', 'regulatory', 'governance', 'formative', 'examination', 'self-monitoring',
+    'trustworthiness', 'technologies', 'humanities', 'multilingual', 'sustainability',
+    'visual representations', 'design-based', 'item generation', 'question generation',
+    'ethical', 'scratch',
 }
 
 # (matched phrase, target slug) pairs that are semantically WRONG: never link them,
@@ -348,6 +356,74 @@ REJECT_PAIRS = {
     ('task-switching preference', 'cognitive-offloading'),  # a distinct scale, not offloading
     ('embodiment', 'embodied-learning'),             # "an embodiment of AI" = physical instantiation
     ('systems biology', 'biology-education'),        # discipline named as an analogy
+    # --- 2026-09-18 review, chunk 2 (compound senses; the bare tokens go to the
+    # report-only denylist instead, so their longer aliases still auto-apply) ---
+    ('oral assessment', 'speech-and-voice-technologies'),   # invigilated oral exams
+    ('clinical education', 'medical-education'),            # law-school clinical teaching
+    ('cognitive governance', 'governance'),                 # who does the cognitive work
+    ('traffic regulation', 'regulation'),
+    # --- 2026-09-18 review, chunk 4 (pages the timed-out agents had partly done) ---
+    ('regulation of cognitive processes', 'regulation'),
+    ('benchmarking', 'benchmark'),                        # institutional benchmarking
+    ('benchmark against which', 'benchmark'),             # a reference point
+    ('learning paths', 'recommender-systems-and-learning-paths'),  # curated resource tracks
+    ('implementation scaffolding', 'scaffolding'),
+    ('accessibility and reach', 'accessibility'),         # ease-of-access sense
+    ('mathematics or code', 'math-education'),            # formal-verification domain
+    ('physics playground', 'physics-education'),          # product name
+    ('research methods in psychology', 'research-methods-aied'),   # course title
+    ('sparse ethical reporting', 'ethics'),               # procedural ethics reporting
+    ('human cognition', 'cognitive-psychology'),          # normative claim about cognition
+    ('agentic acts', 'agentic-ai'),                       # human agency
+    ('application families', 'parents-and-families'),
+    ('language-model families', 'parents-and-families'),
+    ('families of intervention', 'parents-and-families'),
+    ('effort regulation', 'regulation'),                  # learner self-regulation
+    ('computer science literature', 'cs-education'),      # the CS domain, not CS teaching
+    ('prompting a model', 'prompt-engineering'),          # verb sense
+    # --- 2026-09-18, review of the auto-applied pass on that day's 153 pages ---
+    # chunk 1 and 3 findings. Phrase-level spans only: the bare words
+    # (families, mathematics, examination, formative, prompting, ethics, benchmark,
+    # simulation, autonomy, agentic, humanities, administration, self-regulation)
+    # have legitimate senses elsewhere and stay report-only via AUTO_APPLY_DENYLIST.
+    ('biological', 'biology-education'),                 # "biological primary communication"
+    ('gender composition', 'writing-education'),         # sample demographics
+    ('music composition', 'writing-education'),
+    ('self-regulation', 'regulation'),                   # learner SRL, not AI regulation
+    ('self-regulatory', 'regulation'),                   # "self-regulatory function"
+    ('social regulation', 'regulation'),                 # co-regulation
+    ('general data protection regulation', 'regulation'),# inside the statutory name
+    ('ethics approval', 'ethics'),                       # procedural research review
+    ('ethical approval', 'ethics'),
+    ('ethics committee', 'ethics'),
+    ('ethics review', 'ethics'),
+    ('eligibility administration', 'administrator'),      # a process, not the role
+    ('prompting debriefing', 'prompt-engineering'),       # verb sense
+    ('peer review', 'peer-assessment'),                   # manuscript review
+    ('cognitive pretesting', 'retrieval-spacing-interleaving'),  # item testing
+    ('formative, multidomain', 'formative-assessment'),   # psychometric sense
+    ('programme as formative', 'formative-assessment'),   # developmental sense
+    ('technology adoption', 'technology-acceptance-model'),  # practice, not the model
+    ('adaptive system', 'adaptive-learning'),             # complex adaptive system
+    ('digital literacy', 'ai-literacy'),                  # distinct construct
+    ('professional identity', 'learner-identity'),        # staff identity, not learners
+    ('direct examination', 'summative-assessment'),       # "examination" = scrutiny
+    ('tactile examination', 'summative-assessment'),      # clinical exam
+    ('embodied ai', 'embodied-learning'),
+    ('embodied understanding', 'embodied-learning'),
+    ('technologies and resources', 'ai-technologies'),    # generic institutional tech
+    ('mathematics professor', 'math-education'),          # subject expert
+    ("teacher's name", 'teacher-role'),
+    ('format families', 'parents-and-families'),          # "families" as sets
+    ('technical families', 'parents-and-families'),
+    ('model families', 'parents-and-families'),
+    ('offline and online families', 'parents-and-families'),
+    ('design learning', 'design-education'),              # verb phrase
+    ('routine activity theory', 'activity-theory-aied'),  # criminology theory
+    ('ai-mediated learning', 'sociocultural-learning'),   # not Vygotskian mediation
+    ('role-playing as the teacher', 'teacher-role'),      # attack persona
+    ('policymakers', 'stakeholders'),                     # role, not the concept page
+    ('young children', 'early-childhood-elementary-ai-education'),  # advertising audience
     ('biological communication', 'biology-education'),  # non-educational sense
     ('medicine', 'medical-education'),               # the field, not the education of its practitioners
     ('assessment literacy', 'evaluative-judgement'), # literacy, not the judgement construct

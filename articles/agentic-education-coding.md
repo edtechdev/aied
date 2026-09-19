@@ -115,7 +115,7 @@ A pilot with 27 participants showed statistically significant reported [[self-ef
 ## Connected Articles
 
 - [[agentic-workflows-education]]
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 ## Citation
 
 Naboulsi, A. Z. (2026). [*Agentic Education with AI Coding Assistants*](https://arxiv.org/abs/2604.17460).

@@ -74,7 +74,7 @@ For [[ai-education|AI in education]], the four-paradigm framework gives designer
 - [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
-- [[collaborative-ai-tutoring]] — Collaborative AI Tutoring
+- [[golrang-propact-pair-programming-2026]] — Collaborative AI Tutoring
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[zerkouk-comprehensive-review-its-2025]] — AI Tutor Effectiveness Review
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants

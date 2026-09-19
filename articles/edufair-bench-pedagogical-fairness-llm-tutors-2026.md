@@ -75,7 +75,7 @@ The authors are explicit that EduFair-Bench is an audit instrument, not a certif
 
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]] — AI Tutor Safety Harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety Harms
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety of LLM Tutors
 - [[llm-pedagogical-behavior-ai-tutoring-2026]] — LLM Pedagogical Behavior in AI Tutoring
 - [[ai-tutoring-quality-k12-methodologies-2026]] — AI Tutoring Quality in K-12: Methodologies

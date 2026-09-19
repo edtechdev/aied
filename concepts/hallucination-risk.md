@@ -13,7 +13,7 @@ confidence: high
 methods: [ai-ed-evaluation]
 ---
 
-> **Hallucination Risk** — the danger that AI systems generate plausible but factually incorrect or fabricated content in educational contexts, where such errors can mislead learners, undermine [[trust]], and produce invalid assessments. Hallucination is particularly consequential in education because students may lack the domain knowledge to detect AI errors, and teachers may rely on AI-generated diagnoses or feedback that appears authoritative but is unfounded.
+> **Hallucination Risk** — the danger that AI systems generate plausible but factually incorrect or fabricated content in educational contexts, where such errors can mislead [[learners]], undermine [[trust]], and produce invalid assessments. Hallucination is particularly consequential in education because students may lack the domain knowledge to detect AI errors, and teachers may rely on AI-generated diagnoses or feedback that appears authoritative but is unfounded.
 
 ## Questions to Consider
 
@@ -34,7 +34,7 @@ Hallucination in educational AI takes several forms documented in this knowledge
 
 **Manipulated rather than fabricated evidence.** A related failure mode in [[automated-assessment|automated grading]] is output moved from the outside. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red-teamed a routine AI grading workflow and found that instructions hidden inside the submitted file raised a failing essay's grade with no visible warning in 9 of 9 iterations for one strategy and 17 of 18 for another. Two details bear on [[trust-calibration|trust]]: a detected injection was blocked by silently disabling the chat and never reported to the user, and on one run where the tool announced it would follow only the official assignment instructions, six re-runs of the same file still raised the grade. A mark obtained this way carries no [[assessment-validity|validity]] claim, and because the manipulation leaves no durable trace, the [[human-in-the-loop-ai|instructor]] remains the only real check on output designed not to be visible.
 
-**Tutoring hallucination** affects learning directly. **[[llm-tutoring-feedback-diagnosis-gap]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
+**Tutoring hallucination** affects learning directly. **[[yasir-llm-tutoring-agents-2026]]** found LLMs over-validated incorrect solutions while over-rejecting valid-but-suboptimal reasoning — systemic failures that would mislead both students and teachers. **[[eduframetrap-llm-sycophancy-educational-safety]]** and **[[eduguard-safe-rag-llm-tutor]]** address safety mechanisms for educational LLMs. These risks connect to [[pedagogical-safety]] and [[human-in-the-loop-ai]] requirements.
 
 **Mitigation approaches** include [[human-in-the-loop-ai]] designs where AI supports rather than replaces [[teacher-role|teacher]] judgment, evidence-aware architectures that calibrate confidence based on evidential quality (as advocated by MathCog), and [[rag]]-based grounding that constrains LLM outputs to verified sources. The [[cognitive-offloading|Over-Reliance]] concept is closely related — hallucination is most dangerous when users trust AI outputs uncritically. Sidorkin (2026) adds a failure mode the mitigation stack does not fully cover: over-specific institutional claims, with roughly 1.03 percent of logged pages pairing a named campus such as "Sacramento State" with assertive policy verbs about revised retention, tenure and promotion rules or CSU Executive Orders, none of them verifiable from the text. Specificity is what makes this costly, since a fabricated local detail looks exact enough to survive a reader's plausibility check, and the remedy the study proposes is procedural rather than technical: treat generation as draft production under instructor review, then curate sources into a retrieval-augmented design.
 
@@ -57,7 +57,7 @@ Hallucination in educational AI takes several forms documented in this knowledge
 
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
-- [[llm-tutoring-feedback-diagnosis-gap]]
+- [[yasir-llm-tutoring-agents-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[prompt-injection-defenses-educational-llm-tutors]]

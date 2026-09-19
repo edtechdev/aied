@@ -55,7 +55,7 @@ institutions: [educational-policy-ai]
 - [[ai-tutoring-quality-k12-methodologies-2026]] — AI tutoring quality in K-12: methodologies
 - [[hybrid-human-ai-tutoring-differentiated]] — Hybrid human-AI tutoring
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: AI tutoring
-- [[ai-tutor-safety-harms]] — AI tutor safety and harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and harms
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 
 ## Citation

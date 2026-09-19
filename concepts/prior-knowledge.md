@@ -38,7 +38,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 
 - **The bypass risk.** [[agentic-ai-pedagogical-best-practice-2026|Proactive agentic AI]] that pre-fetches and surfaces content can bypass the retrieval practice that activates prior knowledge — the learner never has to recall or integrate what they know before receiving an answer. This is one of the six pedagogical risks identified in the [[agentic-ai|agentic]]-education best-practice framework, and it connects directly to [[cognitive-offloading|Over-Reliance]] and the [[desirable-difficulties]] principle that effortful processing supports durable learning.
 - **Priming and activation as design.** [[genai-mindtool-generative-learning|GenAI mindtool approaches]] deliberately "prime the learning task" by activating prior knowledge and curiosity through prompting questions, AI-generated visuals, and analogies (e.g., "What do you already know about ecosystems?") before introducing new content — modeling the retrieval-and-integration path rather than the answer-supply path.
-- **Student modeling and memory.** AI systems increasingly model learners' prior-knowledge state and longitudinal memory (e.g., incorporating prior-knowledge state and forgetting curves into tutoring memory), enabling spaced repetition and adaptive review that build on what each learner already knows.([[llm-student-modeling-memory]])
+- **Student modeling and memory.** AI systems increasingly model learners' prior-knowledge state and longitudinal memory (e.g., incorporating prior-knowledge state and forgetting curves into tutoring memory), enabling spaced repetition and adaptive review that build on what each learner already knows.([[nie-personavlm-long-term-personalization-2026]])
 - **A personalized-adaptation lever.** Because learners differ widely in prior knowledge, adaptation must be tuned to the individual — a core argument for [[personalized-learning]] and adaptive [[scaffolding]] that meet learners at their actual current state rather than a class-average assumption.
 
 ## Implications for designing AI in education
@@ -71,7 +71,7 @@ Generative AI has made prior knowledge a central design consideration rather tha
 
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning (prior knowledge activation risk)
 - [[genai-mindtool-generative-learning]] — GenAI as a mindtool: priming and activating prior knowledge
-- [[llm-student-modeling-memory]] — LLM student modeling and memory
+- [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI learning
 - [[lodge-loble-cognitive-offloading-2026]] — Lodge & Loble on cognitive offloading
 - [[cognitive-offloading-llm-synthesis-writing]] — Cognitive offloading in LLM synthesis writing

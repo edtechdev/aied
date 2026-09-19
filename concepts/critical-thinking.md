@@ -75,7 +75,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses "I don't know" judgment even when the advice is wrong
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — AI-mediated learning and the restructuring of interpretive cognition in SSH
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a Mediational Agent
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[avraamidou-ai-colonization-science-education]] — Disrupting the AI colonization of science education
 - [[videla-embodied-ai-education-choreography]] — Embodied cognition and AI in education
 - [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy

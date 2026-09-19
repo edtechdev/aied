@@ -79,7 +79,7 @@ The awkward question is what to do about that, and the authors note it is expens
 
 - [[simulating-students-llm-review-2026]] — Review of LLM-based student simulation
 - [[valid-student-simulation-llm-2026]] — Validity of LLM student simulation
-- [[llm-student-modeling-memory]] — Memory in LLM-based student modeling
+- [[nie-personavlm-long-term-personalization-2026]] — Memory in LLM-based student modeling
 - [[engagement-forecasting-its]] — Forecasting engagement in intelligent tutoring systems
 - [[neural-symbolic-knowledge-tracing]] — Neural-symbolic knowledge tracing
 - [[genai-tutor-engagement-patterns]] — Engagement patterns with a GenAI tutor

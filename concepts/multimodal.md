@@ -41,7 +41,7 @@ Multimodal AI enables learners to produce and engage with content across text, i
 
 ### 2. Multimodal tutoring and the capability boundary
 
-When LLM-based tutors must solve problems that embed meaning in graphs, force diagrams, schematics, or tables, their accuracy degrades sharply — the **Multimodal Interference Effect**.([[syal-multimodal-dialogue-stem-2026]])([[multimodal-ai-tutoring]])
+When LLM-based tutors must solve problems that embed meaning in graphs, force diagrams, schematics, or tables, their accuracy degrades sharply — the **Multimodal Interference Effect**.([[syal-multimodal-dialogue-stem-2026]])([[syal-multimodal-dialogue-stem-2026]])
 
 - On OpenStax physics problems, text-only accuracy of ~96% drops to **~74%** on image-rich problems, consistently across model families.([[syal-multimodal-dialogue-stem-2026]])
 - **Visual Processing Errors** — failures to extract information from graphs or diagrams — dominate the error taxonomy and are the most correctable failure mode.
@@ -109,7 +109,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
-- [[multimodal-ai-tutoring]] — Multimodal AI tutoring in STEM and the error taxonomy
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI tutoring in STEM and the error taxonomy
 - [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
 - [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting as epistemic work in AI literacy
 - [[multimodal-item-parameter-estimation-2026]] — Estimating IRT item parameters with multimodal LLMs

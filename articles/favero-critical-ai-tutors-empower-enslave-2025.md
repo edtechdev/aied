@@ -32,7 +32,7 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 
 The paper's most important contribution is its call for *critical [[ai-literacy|AI literacy]]* as a prerequisite for AI tutor deployment. Rather than banning AI tutors, the authors argue for what they call "critically informed use" — a framework where students, educators, and institutions actively interrogate AI tools rather than passively accepting them. This aligns with the [[critical-thinking]] tradition in education and extends it to the domain of [[ai-literacy-power-knowledge]].
 
-For system designers, the paper implies that [[ai-tutor-safety-harms]] frameworks must expand beyond immediate harm prevention to include long-term developmental impacts. An AI tutor that never harms a student in the moment but gradually erodes their cognitive independence should be considered unsafe. This reframes [[pedagogical-safety]] as encompassing not just what the tutor does but what kind of learner it produces.
+For system designers, the paper implies that [[hazra-safetutors-pedagogical-safety-2026]] frameworks must expand beyond immediate harm prevention to include long-term developmental impacts. An AI tutor that never harms a student in the moment but gradually erodes their cognitive independence should be considered unsafe. This reframes [[pedagogical-safety]] as encompassing not just what the tutor does but what kind of learner it produces.
 
 The authors' emphasis on student voice — centering learner perspectives in design decisions — connects to the [[student-experience]] literature and the growing recognition that [[generative-ai-guardrails-harm-learning]] must be co-designed with the very populations they aim to protect.
 
@@ -53,7 +53,7 @@ For educators and policymakers, this paper provides intellectual ammunition for 
 
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
 - [[generative-ai-guardrails-harm-learning]] — Generative AI without guardrails can harm learning: Evidence from high school mathematics
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks
 - [[ai-making-us-stupid]] — Is AI making us stupid?

@@ -73,7 +73,7 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 - [[eduagentbench-agent-teaching-benchmark]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[solving-vs-evaluating-genai-solutions]]
-- [[llm-tutoring-feedback-diagnosis-gap]]
+- [[yasir-llm-tutoring-agents-2026]]
 - [[teaching-feedback-classification-benchmark]]
 
 ## Citation

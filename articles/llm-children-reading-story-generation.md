@@ -22,7 +22,7 @@ The core philosophy is **controllability over scale**: a compact, affordable mod
 
 ## Educational Deployment
 
-The generated stories were designed for use by teachers, parents, and children in classrooms and at home. The controllable difficulty enables [[personalized-learning]] at scale — matching reading materials to individual student proficiency levels. The safety guarantees address concerns in [[ai-tutor-safety-harms]].
+The generated stories were designed for use by teachers, parents, and children in classrooms and at home. The controllable difficulty enables [[personalized-learning]] at scale — matching reading materials to individual student proficiency levels. The safety guarantees address concerns in [[hazra-safetutors-pedagogical-safety-2026]].
 
 ## Methodological Contribution
 
@@ -41,7 +41,7 @@ Fine-tuning designs were systematically compared, with the curriculum-derived tr
 - [[scaffolding]]
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[ai-generated-interactive-fiction-education-2026]]
 ## Citation
 

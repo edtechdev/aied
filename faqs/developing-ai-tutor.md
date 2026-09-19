@@ -27,7 +27,7 @@ A tutor optimized for "finish the problem" can easily undermine a tutor optimize
 
 ## 2. Diagnose before you prescribe
 
-Maintain a learner model based on evidence such as demonstrated knowledge, [[misconceptions]], recent attempts, help-seeking behavior, and confidence where appropriate. Adapt difficulty and assistance from this evidence rather than simply reacting to the learner's latest prompt. Be cautious about allowing an [[llm]] to perform diagnosis by itself: [[benchmark|benchmarking]] found that LLM tutors could recognize clearly correct reasoning while sometimes rejecting valid alternatives or accepting incorrect reasoning. For consequential domains, a useful architecture is **structured diagnosis + flexible LLM dialogue**. See [[llm-tutoring-feedback-diagnosis-gap|Confirming Correct, Missing the Rest]].
+Maintain a learner model based on evidence such as demonstrated knowledge, [[misconceptions]], recent attempts, help-seeking behavior, and confidence where appropriate. Adapt difficulty and assistance from this evidence rather than simply reacting to the learner's latest prompt. Be cautious about allowing an [[llm]] to perform diagnosis by itself: [[benchmark|benchmarking]] found that LLM tutors could recognize clearly correct reasoning while sometimes rejecting valid alternatives or accepting incorrect reasoning. For consequential domains, a useful architecture is **structured diagnosis + flexible LLM dialogue**. See [[yasir-llm-tutoring-agents-2026|Confirming Correct, Missing the Rest]].
 
 ## 3. Use a hint ladder rather than giving the solution immediately
 
@@ -49,7 +49,7 @@ Regularly require the learner to generate, choose, justify, evaluate, or reflect
 
 ## 7. Treat pedagogical safety as different from ordinary chatbot safety
 
-Safety testing for an educational tutor should include more than toxicity and jailbreak resistance. Test for answer leakage, misconception reinforcement, excessive agreement or [[ai-sycophancy|sycophancy]], inappropriate difficulty, [[cognitive-offloading|cognitive offloading]], biased treatment, loss of learner agency, instructional drift, and overconfidence in incorrect explanations. A tutor should be **kind but correct**, including when the learner insists on a misconception, and testing should involve extended conversations because pedagogical failures can accumulate over multiple interactions. See [[pedagogical-safety]] and [[ai-tutor-safety-harms|AI Tutor Safety and Pedagogical Harms]].
+Safety testing for an educational tutor should include more than toxicity and jailbreak resistance. Test for answer leakage, misconception reinforcement, excessive agreement or [[ai-sycophancy|sycophancy]], inappropriate difficulty, [[cognitive-offloading|cognitive offloading]], biased treatment, loss of learner agency, instructional drift, and overconfidence in incorrect explanations. A tutor should be **kind but correct**, including when the learner insists on a misconception, and testing should involve extended conversations because pedagogical failures can accumulate over multiple interactions. See [[pedagogical-safety]] and [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]].
 
 ## 8. Build privacy, accessibility, and equity into the architecture
 

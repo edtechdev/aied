@@ -99,7 +99,7 @@ These are not fixed properties of a practice but of how a practice is enacted. T
 
 - [[generative-ai-reduced-study-time-math]] — Cognitive surrender and the performance–learning gap in math
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From substitution to scaffolding: the harm cycle
-- [[mediational-agent-genai-sociocultural-2026]] — Generative AI as a mediational agent
+- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[absent-cognitive-baseline-2026]] — The absent cognitive baseline in AI-native students
 - [[genai-performance-vs-learning]] — Distinguishing performance gains from learning
 - [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI

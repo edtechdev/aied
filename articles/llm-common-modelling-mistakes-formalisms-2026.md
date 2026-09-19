@@ -98,7 +98,7 @@ The paper concludes that the workflow recovers many known propositional logic mi
 - [[llm-student-simulation-misconception-faithfulness]] — Misconception faithfulness of LLM student simulators
 - [[prompt-problems-nl-programming-mistakes]] — Student mistakes and debugging in natural language programming tasks
 - [[llm-adaptive-programming-error-explanations-2026]] — LLMs for adaptive explanations of programming errors
-- [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring agents struggle where feedback matters most
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring agents struggle where feedback matters most
 - [[hazel-prover-classroom-proof-assistant-2026]] — Hazel Prover: a classroom proof assistant for structural induction
 - [[visual-query-tracer-declarative-logic-learning]] — A visual query tracer and builder for declarative logic programming
 

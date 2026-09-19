@@ -15,7 +15,7 @@ methods: [benchmark]
 stakeholders: [professional-training]
 ---
 
-> **Synthesis:** MedGame transforms static clinical cases into structured, executable [[storytelling-in-education|storytelling]] games for [[medical-education|medical education]], moving beyond the localized question-answering and single-turn feedback that characterize most [[llm]] medical-training systems. It uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware [[multimodal]] orchestration plans rendered by an interactive platform. The authors release **MedGame Bench**, a 5,000-case [[benchmark]] and evaluation protocol for Medical Narrative Generation and Story Direction; task-specific fine-tuning substantially improves [[open-source]] LLMs and narrows the gap with commercial models. A pilot student study finds learners perceive MedGame as more engaging and useful than text-only alternatives, extending decision-centered, immersive approaches seen in [[multimodal-ai-tutoring]] and [[intelligent-tutoring]]. Its use of [[generative-ai]] for scenario authoring connects to [[llm-tts-dialogue-lesson-generation]], and the engagement gains speak to [[student-engagement|engagement metrics]] as a design target in [[professional-training|professional training]].
+> **Synthesis:** MedGame transforms static clinical cases into structured, executable [[storytelling-in-education|storytelling]] games for [[medical-education|medical education]], moving beyond the localized question-answering and single-turn feedback that characterize most [[llm]] medical-training systems. It uses a dual-engine design: a Medical Narrative Designer synthesizes case-grounded clinical storylines with states and decision nodes, while a Story Director converts them into dependency-aware [[multimodal]] orchestration plans rendered by an interactive platform. The authors release **MedGame Bench**, a 5,000-case [[benchmark]] and evaluation protocol for Medical Narrative Generation and Story Direction; task-specific fine-tuning substantially improves [[open-source]] LLMs and narrows the gap with commercial models. A pilot student study finds learners perceive MedGame as more engaging and useful than text-only alternatives, extending decision-centered, immersive approaches seen in [[syal-multimodal-dialogue-stem-2026]] and [[intelligent-tutoring]]. Its use of [[generative-ai]] for scenario authoring connects to [[llm-tts-dialogue-lesson-generation]], and the engagement gains speak to [[student-engagement|engagement metrics]] as a design target in [[professional-training|professional training]].
 
 ## Connected Concepts
 
@@ -27,7 +27,7 @@ stakeholders: [professional-training]
 - [[professional-training]]
 ## Connected Articles
 
-- [[multimodal-ai-tutoring]]
+- [[syal-multimodal-dialogue-stem-2026]]
 - [[llm-tts-dialogue-lesson-generation]]
 ## Citation
 

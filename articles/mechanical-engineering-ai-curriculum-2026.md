@@ -47,7 +47,7 @@ The paper demonstrates a disciplinary-embedded model for AI education: rather th
 ## Connected Articles
 
 - [[llm-intervention-design-cs-review]] — LLM Intervention Design in Undergraduate CS Education: A Scoping Review
-- [[principled-ai-education]] — Principled AI Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI Education
 - [[reshaping-cs-education-genai]] — Reshaping CS Education with Generative AI
 - [[ai-disruption-engineering-education-chat-2026]] — AI Disruption in Engineering Education
 - [[llm-computational-thinking-physics-2026]] — Using LLMs to Detect Growth in Computational Thinking in Introductory Physics

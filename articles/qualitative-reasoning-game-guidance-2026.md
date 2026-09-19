@@ -31,7 +31,7 @@ A solver that finds the optimal next move is not a tutor. Guidance requires know
 
 ## Open questions the paper raises
 
-The paper is a modelling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which learners, is not tested here. The authors also note that the solver's qualitative behaviour opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
+The paper is a modelling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners]], is not tested here. The authors also note that the solver's qualitative behaviour opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
 
 ## Connected Concepts
 

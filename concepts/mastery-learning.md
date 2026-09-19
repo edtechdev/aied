@@ -9,7 +9,7 @@ created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-18T12:02:23-04:00"
 ---
 
-> **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which learners advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
+> **Mastery learning** — a [[pedagogy|pedagogical]] framework, formalized by Benjamin Bloom, in which [[learners]] advance only after demonstrating a defined threshold of competence on each unit, rather than moving on a fixed class schedule. It rests on the premise that most students can reach mastery given sufficient time, feedback, and instruction tailored to their current state. AI tutoring and adaptive systems are increasingly operationalizing this model by continuously modeling learner knowledge, selecting tasks, and sustaining practice until competence is demonstrated.
 
 ## Questions to Consider
 

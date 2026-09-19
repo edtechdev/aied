@@ -24,7 +24,7 @@ stakeholders: [professional-training]
 **Implications:**
 - RL-based coaching offers a principled framework for [[personalized-learning|personalized]] skill development in domains beyond traditional academics (e.g., surgical training, [[professional-training]], [[stem-education|STEM lab skills]]).
 - The competence-based fading policy mirrors established [[pedagogy|pedagogical]] best practices, suggesting [[formative-assessment]] signals can drive AI coaching adaptation.
-- Extends [[ai-tutor-safety-harms|AI safety in tutoring]] [[research-methods-aied|research]] to embodied/motor skill domains.
+- Extends [[hazra-safetutors-pedagogical-safety-2026|AI safety in tutoring]] [[research-methods-aied|research]] to embodied/motor skill domains.
 
 ## Connected Concepts
 
@@ -42,7 +42,7 @@ stakeholders: [professional-training]
 - [[transfer-of-learning]]
 ## Connected Articles
 
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Wang, W., Gu, E., Loquercio, A., Hu, H., & Mangharam, R. (2026). [AI Coaching for Accelerating Human Skill Development with Reinforcement Learning](https://arxiv.org/abs/2606.25337).

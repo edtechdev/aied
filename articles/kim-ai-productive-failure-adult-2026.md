@@ -66,7 +66,7 @@ This paper anchors the knowledge base's [[productive-failure]] concept with an A
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
-- [[principled-ai-education]] — Principled AI in Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 
 ## Citation
 

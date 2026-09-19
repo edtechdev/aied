@@ -79,7 +79,7 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 - [[ai-pedagogical-accompaniment-amico]]
 - [[cong-confidence-asag-2026]]
 - [[clara-collaboration-literacy-dashboard]]
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 - [[cstutorbench-slm-tutors]]
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[eduagentbench-agent-teaching-benchmark]]

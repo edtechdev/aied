@@ -81,7 +81,7 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - [[student-modeling]]
 ## Connected Articles
 
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 - [[agentic-workflows-education]]
 - [[socraticode-k12-programming-tutor]]
 ## Citation

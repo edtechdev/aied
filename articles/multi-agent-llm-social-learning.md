@@ -49,7 +49,7 @@ The findings suggest that one-on-one AI tutoring is not the only effective parad
 
 ## Connected Articles
 
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 - [[self-efficacy-tutoring-learning]]
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[humanlike-ai-collaborative-writing]]

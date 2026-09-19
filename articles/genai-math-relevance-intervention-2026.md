@@ -27,7 +27,7 @@ confidence: high
 5. **The individualized condition failed for a coherent reason.** In interviews, 7 of 10 E1 students described the AI's identity-based connections as overly abstract and doubted they would ever use those applications, as in one student who "just want[s] to be a cook" and saw no need for the math the AI described.
 6. **Collective dialogue produced two distinct pathways.** Among E2 students, 8 of 10 named immediate practical utility, most often time management, and 6 of 10 (Table 6; the text reports 7 of 10) named cognitive broadening, seeing math applied across different fields for the first time.
 7. **Baselines were low and the sample skews practical.** Prior relevance to math averaged 1.97 of 6 (SD = 1.38) and prior class interest 2.68 (SD = 1.44) against prior self-efficacy of 1.98 (SD = 1.31), so the starting point was a vocational-track cohort that already saw [[math-education|math]] as secondary to career training.
-8. **Measurement held up across four time points.** McDonald's omega ranged from .89 to .95, and longitudinal configural, metric and scalar invariance were tenable for both constructs (largest |ΔCFI| = .006, largest |ΔRMSEA| = .014).
+8. **[[educational-measurement|Measurement]] held up across four time points.** McDonald's omega ranged from .89 to .95, and longitudinal configural, metric and scalar invariance were tenable for both constructs (largest |ΔCFI| = .006, largest |ΔRMSEA| = .014).
 
 ## How the intervention was built and compared
 

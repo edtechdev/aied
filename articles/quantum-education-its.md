@@ -122,7 +122,7 @@ The absence of a [[rct|control group]] means outcomes cannot be attributed causa
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific design vs. general-purpose AI
-- [[multimodal-ai-tutoring]] — Multimodal AI tutoring and multimodal errors
+- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI tutoring and multimodal errors
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[knowledge-gap-detection-ai-tas]] — Knowledge gap detection in AI teaching assistants
 - [[visual-query-tracer-declarative-logic-learning]] — Visual query tracer for declarative logic learning

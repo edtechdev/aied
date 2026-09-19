@@ -65,7 +65,7 @@ The paper is also a useful model for [[ai-ed-evaluation|evaluation]] honesty in 
 ## Connected Articles
 
 - [[short-answer-scoring-quality-degradation]]
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 ## Citation
 
 Rodríguez, J. A. (2026). [LaTA: A drop-in, FERPA-compliant local-LLM autograder for upper-division STEM coursework](https://arxiv.org/abs/2605.05410). Submitted to Computers & Education.
