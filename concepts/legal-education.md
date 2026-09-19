@@ -17,7 +17,7 @@ page_kind: [synthesis]
 confidence: medium
 ---
 
-> **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every programme faces: whether assisted performance on law-school tasks is evidence of the analysis the licence depends on. Its structure is unusual. In the United States, [[governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.
+> **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every program faces: whether assisted performance on law-school tasks is evidence of the analysis the license depends on. Its structure is unusual. In the United States, [[governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.
 
 ## Questions to Consider
 
@@ -27,7 +27,7 @@ confidence: medium
 
 ## Introduction
 
-Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline in the knowledge base where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practise with it.
+Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline in the knowledge base where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
 
 The evidence base is currently thin and policy-heavy. One substantial article anchors the page: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] surveyed and compared institutional generative AI policies across ABA-approved US law schools and proposed a governance framework. That imbalance is itself a finding, and the page flags it rather than papering over it.
 
@@ -36,7 +36,7 @@ The evidence base is currently thin and policy-heavy. One substantial article an
 - **Legal research.** Commercial platforms such as Lexis+ AI and Westlaw Precision with CoCounsel embed generative features in the tools students are already trained on, which makes "AI use" hard to separate from ordinary database searching. Gutowski and Hurley note how much of the familiar workflow this compresses: identifying authorities and secondary sources in minutes instead of hours.
 - **Drafting and writing support.** Initial case briefs, outlines, memoranda, first-pass syntheses and sentence-level feedback on clarity and grammar. The authors place AI-generated work in the same supervisory relationship as work by a paralegal or junior associate: a lawyer remains responsible for its accuracy and legal sufficiency.
 - **Study and bar preparation.** Generating practice questions, fact patterns, and "hypotheticals" for timed practice, and tutoring on recurring weaknesses. Gutowski and Hurley pair this with the observation that generative AI now passes both the Bar Exam and the Multistate Professional Responsibility Exam, which they read as saying more about the minimal-competency bar than about the model.
-- **Journals, moot court and advising.** Screening submissions, preparing advocacy, and academic support programmes using custom models trained on past exams, model answers and course materials.
+- **Journals, moot court and advising.** Screening submissions, preparing advocacy, and academic support programs using custom models trained on past exams, model answers and course materials.
 - **Assessment and integrity.** The recurring problem cases: undisclosed drafting, citation to non-existent authority, and exams that no longer measure unaided analysis.
 
 ## What the policy evidence shows
@@ -48,7 +48,7 @@ They also document how thin the sector's evidence is. The ABA's 2024 AI and lega
 Two further points shape their recommendations:
 
 - **Faculty governance is a law-school-specific complication.** Law faculties, individually and collectively, hold unusually direct authority over curriculum and course standards, so policy has to be built with them rather than announced to them.
-- **Clinical education raises a [[pedagogy|pedagogical]] objection, not a technical one.** Citing Karr and Schultz, they report the position that AI tools designed to mimic human responses do not develop the original judgement, client interaction and [[ethics|ethical]] decision-making that clinics exist to produce, and therefore should not be used in clinical courses at all.
+- **Clinical education raises a [[pedagogy|pedagogical]] objection, not a technical one.** Citing Karr and Schultz, they report the position that AI tools designed to mimic human responses do not develop the original judgment, client interaction and [[ethics|ethical]] decision-making that clinics exist to produce, and therefore should not be used in clinical courses at all.
 
 The recommendations are procedural: clear and comprehensive guidelines whatever the institutional stance, full stakeholder involvement in drafting, proactive training for students and faculty, flexible governance reviewed periodically, and self-regulation through information sharing rather than waiting for the ABA to dictate policy.
 
@@ -60,7 +60,7 @@ Three things make legal education more than one more subject area.
 
 **Disclosure norms are unsettled and consequential.** Gutowski and Hurley report disagreement about whether any use of AI must be disclosed, proposals for student disclosure forms, and no consensus on citation practice, with the Bluebook still silent on citing generative AI. They also predict that disclosure requirements will eventually look as pointless as noting that a student used a search engine, which is a prediction about the shelf life of the rules now being written.
 
-**Professional ethics travel with the graduate.** The ABA's duty of technological competence and its guidance on confidentiality, supervision and candour toward the tribunal apply to practising lawyers using these tools, and law schools inherit the job of teaching them. That is why the discipline connects directly to the knowledge base's work on [[ai-use-disclosure|AI use disclosure]] and on the [[legal-issues-and-risks|legal issues and risks]] that arise when institutions govern AI badly.
+**Professional ethics travel with the graduate.** The ABA's duty of technological competence and its guidance on confidentiality, supervision and candour toward the tribunal apply to practicing lawyers using these tools, and law schools inherit the job of teaching them. That is why the discipline connects directly to the knowledge base's work on [[ai-use-disclosure|AI use disclosure]] and on the [[legal-issues-and-risks|legal issues and risks]] that arise when institutions govern AI badly.
 
 ## Open Questions
 
@@ -74,7 +74,7 @@ Three things make legal education more than one more subject area.
 - [[assessment-validity]] — whether assisted performance measures the intended competence
 - [[authentic-assessment]] — designs that require unaided analysis
 - [[ai-use-disclosure]] — attribution and reporting norms still without consensus
-- [[governance]] — faculty governance and policy creation as law schools practise it
+- [[governance]] — faculty governance and policy creation as law schools practice it
 - [[educational-policy-ai]] — institutional AI policy as an object of study
 - [[critical-thinking]] — the reasoning the case method is meant to build
 - [[socratic-method]] — dialogue dependent on student preparation

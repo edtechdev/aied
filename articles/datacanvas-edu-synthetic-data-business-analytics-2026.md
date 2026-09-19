@@ -20,7 +20,7 @@ confidence: high
 
 ## Key Findings
 
-1. **Data contamination is the [[pedagogy|pedagogical]] problem, not just a data problem.** When models have seen a dataset and its published analyses, students receive explanations drawn from existing work instead of practising investigation of unfamiliar data.
+1. **Data contamination is the [[pedagogy|pedagogical]] problem, not just a data problem.** When models have seen a dataset and its published analyses, students receive explanations drawn from existing work instead of practicing investigation of unfamiliar data.
 2. **Instructor intent is the specification.** Teaching goals and intended patterns are expressed conversationally, and the agent's generation code is derived from them, keeping the [[learning-design|design decision]] with the [[teacher-role|teacher]].
 3. **Four phases organize the workflow** — Plan, Create, Verify/Test Analysis, Evaluate — with instructor review and revision built into each rather than appended at the end.
 4. **Verification is internal to the pipeline:** the agent checks the generated data against the intended patterns before materials are produced, addressing the failure mode where synthetic data silently lacks the structure a case is meant to teach.
@@ -28,7 +28,7 @@ confidence: high
 
 ## What the framework changes about case preparation
 
-Preparing a data-analytics case traditionally consumes instructor time on pattern investigation, result verification, and writing both the assignment and its reference solution. Automating generation does not remove the instructor from that loop; it moves their work to specification and review. That division is what makes the approach credible for [[assessment]]: rubrics and reference analyses are produced as first-class artefacts alongside the data, so the case arrives with its own grading apparatus.
+Preparing a data-analytics case traditionally consumes instructor time on pattern investigation, result verification, and writing both the assignment and its reference solution. Automating generation does not remove the instructor from that loop; it moves their work to specification and review. That division is what makes the approach credible for [[assessment]]: rubrics and reference analyses are produced as first-class artifacts alongside the data, so the case arrives with its own grading apparatus.
 
 ## Why synthetic data needs its own validity argument
 

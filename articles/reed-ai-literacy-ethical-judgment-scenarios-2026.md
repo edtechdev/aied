@@ -45,7 +45,7 @@ Uncertainty clustered in the gray areas that matter most. "Unsure" responses wer
 
 ## AI literacy and ethical judgment
 
-The relationship between [[ai-literacy]] and [[evaluative-judgement|judgment accuracy]] was positive but small. Spearman's rank-order correlation between the Non-Ethics GLAT and the number of scenarios correctly classified was ρ = 0.234, p < .001 (N = 531); a Pearson sensitivity analysis produced a comparable result, r(529) = 0.213, p < .001. The multivariable model improved significantly on the intercept-only model, likelihood-ratio χ²(5) = 76.04, p < .001, with the Non-Ethics GLAT remaining a significant positive predictor net of sex and academic status. The authors warn, however, that goodness-of-fit statistics indicated extra-binomial dispersion (deviance/df = 1.64; Pearson χ²/df = 1.91), so inferential results should be read cautiously.
+The relationship between [[ai-literacy]] and [[evaluative-judgment|judgment accuracy]] was positive but small. Spearman's rank-order correlation between the Non-Ethics GLAT and the number of scenarios correctly classified was ρ = 0.234, p < .001 (N = 531); a Pearson sensitivity analysis produced a comparable result, r(529) = 0.213, p < .001. The multivariable model improved significantly on the intercept-only model, likelihood-ratio χ²(5) = 76.04, p < .001, with the Non-Ethics GLAT remaining a significant positive predictor net of sex and academic status. The authors warn, however, that goodness-of-fit statistics indicated extra-binomial dispersion (deviance/df = 1.64; Pearson χ²/df = 1.91), so inferential results should be read cautiously.
 
 The theoretical framing treats ethical judgment as a skills-based outcome of AI literacy. Rest (1986) positions moral sensitivity and knowledge as necessary preconditions for ethical judgment, and Long and Magerko's (2020) conception of AI literacy supplies the second pillar; the authors also cite Yang et al. (2025), whose three-dimension model has ethical knowledge shaping ethical attitudes and, in turn, practical ethical competence. Crucially, the paper resists over-reading its own high scores. It notes that Lund et al. (2025) found limited consensus on what constitutes fair AI use and that students' personal ethical beliefs may matter more than institutional policy awareness, so agreement on six predesignated scenarios is not evidence of a broadly shared ethical framework. The university offered no AI literacy courses or formal training at the time of data collection, and participants' prior sources of AI ethics knowledge were not measured, so the study cannot determine how these judgments developed.
 
@@ -65,7 +65,7 @@ The convenience sample came from one public university and was predominantly Whi
 - [[ethics]] — the judgment construct the scenarios assess
 - [[academic-integrity]] — the boundary students must draw between assistance and misconduct
 - [[generative-ai]] — the technology the vignettes concern
-- [[evaluative-judgement]] — judgment distinguished from awareness, knowledge, and behavior
+- [[evaluative-judgment]] — judgment distinguished from awareness, knowledge, and behavior
 - [[self-report-measures]] — quantified performance contrasted with self-reported attitudes
 - [[educational-measurement]] — ceiling effects, KR-20 reliability, and criterion contamination frame the results
 - [[assessment-validity]] — the ethics-subscale exclusion is a criterion-contamination adjustment

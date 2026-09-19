@@ -114,7 +114,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[authentic-assessment]]
 - [[student-experience]]
 - [[learning-theories]]
-- [[retrieval-spacing-interleaving]] — judgements of learning and the fluency illusion that retrieval practice corrects
+- [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
 
 ## Connected Articles
 - [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)

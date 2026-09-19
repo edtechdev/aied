@@ -19,7 +19,7 @@ page_kind: [synthesis]
 ## Key Findings
 
 - The article is a **structured scholarly dialogue** among five sociolinguists from World Englishes and adjacent fields, organized around **five guiding questions** covering GenAI's broad influence in academic writing and publishing (AWP), its potential biases toward dominant Englishes, [[governance|institutional]] responsibilities, [[peer-assessment|peer assessment]] practices, and [[ethics|ethical]] frameworks.
-- Contributors see potential for GenAI to **democratize writing processes**, while raising concerns that it may **homogenise linguistic styles, privilege dominant English varieties, and flatten nuance** in scholarly writing.
+- Contributors see potential for GenAI to **democratize writing processes**, while raising concerns that it may **homogenize linguistic styles, privilege dominant English varieties, and flatten nuance** in scholarly writing.
 - The dialogue foregrounds themes of **linguistic (in)justice, [[research-methods-aied|researcher]] agency, and institutional responsibility**, with contributors calling for equity-informed policies, critical AI literacy, and inclusive co-design in GenAI development.
 - Drawing on Blommaert's notion of "orders of indexicality," contributors argue that language varieties are evaluated through hierarchies of value, and that GenAI **reinforces these hierarchies by automating what counts as 'good' writing** — so apparent improvements in quality may conceal the algorithmic enforcement of standardized norms.
 - The authors conclude that while GenAI may reinforce existing hierarchies, it **can also serve as a site of resistance**, depending on how it is designed, governed, and used within scholarly communities committed to linguistic diversity.

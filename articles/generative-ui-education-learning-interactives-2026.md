@@ -19,7 +19,7 @@ confidence: high
 
 ## Key Findings
 
-1. **Out-of-the-box generative UI fails on pedagogical precision.** Unguided generation produces visually plausible but [[pedagogy|pedagogically]] shallow artefacts, especially for complex constructs; the authors treat this as the motivating gap rather than a limitation to be worked around later.
+1. **Out-of-the-box generative UI fails on pedagogical precision.** Unguided generation produces visually plausible but [[pedagogy|pedagogically]] shallow artifacts, especially for complex constructs; the authors treat this as the motivating gap rather than a limitation to be worked around later.
 2. **Structure, not model scale, supplies the quality.** The framework decomposes a learning objective into progressive leveled goals whose completion requires active inquiry, hypothesis testing and variable manipulation — the interactives are generated *into* that structure.
 3. **Educators remain the orchestrators.** Teachers initiate requests, approve learning objectives and select among candidate simulations, so [[teacher-role|pedagogical intent]] is preserved while the time, cost and technical barriers of bespoke development fall.
 4. **The "enhancement versus erosion" paradox is addressed by embedding guardrails in the pipeline**, rather than by relying on teacher vigilance after generation.
@@ -27,11 +27,11 @@ confidence: high
 
 ## Why generative UI is a different capability from generative text
 
-Generative UI sits one step beyond content generation: the model emits an executable, interactive artefact — sliders, simulations, manipulable diagrams — rather than an explanation. That shift matters for [[ai-education|AI in education]] because the [[active-learning]] literature consistently favours experience over exposition, while the cost of authoring good interactive material has historically been the binding constraint. The paper's contribution is to show that the constraint has moved from *authoring* to *specification*: what teachers now need is a way to state pedagogical intent precisely enough that a generator can honour it.
+Generative UI sits one step beyond content generation: the model emits an executable, interactive artifact — sliders, simulations, manipulable diagrams — rather than an explanation. That shift matters for [[ai-education|AI in education]] because the [[active-learning]] literature consistently favors experience over exposition, while the cost of authoring good interactive material has historically been the binding constraint. The paper's contribution is to show that the constraint has moved from *authoring* to *specification*: what teachers now need is a way to state pedagogical intent precisely enough that a generator can honor it.
 
 ## Where the framework positions the teacher
 
-The authors are explicit that the system is meant to support rather than replace classroom teachers. Because teachers approve objectives and choose among candidates, the workflow keeps [[learning-design]] decisions human while automating production. This is the same division of labour proposed in other recent [[educational-technology-developers|edtech design]] work on [[intelligent-tutoring|AI authoring tools]], but applied to the artefact rather than the dialogue.
+The authors are explicit that the system is meant to support rather than replace classroom teachers. Because teachers approve objectives and choose among candidates, the workflow keeps [[learning-design]] decisions human while automating production. This is the same division of labor proposed in other recent [[educational-technology-developers|edtech design]] work on [[intelligent-tutoring|AI authoring tools]], but applied to the artifact rather than the dialogue.
 
 ## Connected Concepts
 

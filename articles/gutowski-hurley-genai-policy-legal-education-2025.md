@@ -18,7 +18,7 @@ sources: ['raw/papers/gutowski-hurley-genai-policy-legal-education-2025.md']
 confidence: medium
 ---
 
-> **Synthesis:** Gutowski and Hurley survey how ABA-approved US law schools govern [[generative-ai|generative AI]] and find a sector making policy under time pressure without an evidence base to make it with. Their framework scores institutional policies on five dimensions — prohibitiveness, permissiveness, educational integration, transparency and accountability, and depth — each on a 0–5 rubric, and the canvass shows most schools taking generally prohibitive positions while reserving discretion to individual [[teacher-role|instructors]] and committing to revisit the rules as the technology moves. The article is a law review policy analysis rather than an empirical study, but it reports the sector's own data honestly, including that the ABA's 2024 survey drew responses from only about 15% of accredited schools. Its substantive contribution to the knowledge base is the argument that [[legal-education|legal education]] must govern AI as preparation for a regulated profession: the professional conduct rules that bind practising lawyers already apply to the tools, which makes clarity, training and flexible [[governance]] matters of [[assessment-validity|assessment validity]] rather than compliance alone.
+> **Synthesis:** Gutowski and Hurley survey how ABA-approved US law schools govern [[generative-ai|generative AI]] and find a sector making policy under time pressure without an evidence base to make it with. Their framework scores institutional policies on five dimensions — prohibitiveness, permissiveness, educational integration, transparency and accountability, and depth — each on a 0–5 rubric, and the canvass shows most schools taking generally prohibitive positions while reserving discretion to individual [[teacher-role|instructors]] and committing to revisit the rules as the technology moves. The article is a law review policy analysis rather than an empirical study, but it reports the sector's own data honestly, including that the ABA's 2024 survey drew responses from only about 15% of accredited schools. Its substantive contribution to the knowledge base is the argument that [[legal-education|legal education]] must govern AI as preparation for a regulated profession: the professional conduct rules that bind practicing lawyers already apply to the tools, which makes clarity, training and flexible [[governance]] matters of [[assessment-validity|assessment validity]] rather than compliance alone.
 
 ## Key Findings
 
@@ -78,7 +78,7 @@ The article is a policy analysis, not an evaluation of learning outcomes: it doe
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi study on generative AI policy and practice in higher education
 - [[institutional-governance-ai-universities]] — Whether institutional AI governance aligns or fragments across units
 - [[ai-uk-higher-education-policy-2026]] — UK higher education policy and institutional decision making on AI
-- [[ivory-psychology-assessment-integrity-2026]] — Assessment redesign and the pass boundary in a professional programme
+- [[ivory-psychology-assessment-integrity-2026]] — Assessment redesign and the pass boundary in a professional program
 
 ## Citation
 

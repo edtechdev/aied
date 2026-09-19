@@ -12,7 +12,7 @@ Everything else — every rule, example, command and pitfall — must be identic
 `python3 tooling/scripts/sync-skills.py --check` normalizes those sanctioned
 differences and reports only real content drift; `--diff <skill>` prints it and
 `--to-repo <skill>` refreshes the mirror with the redaction applied. The installed
-copy is authoritative for behaviour; the repo copy is the public-safe mirror, so
+copy is authoritative for behavior; the repo copy is the public-safe mirror, so
 reconcile by hand rather than overwriting wholesale in either direction.
 
 Syncing must follow that direction: when copying **installed → repo**, replace the
@@ -42,7 +42,7 @@ This applies to commit messages as well as file contents.
   ```
 
   or accept it as an argument (`python3 skills/research/<skill>/scripts/<tool>.py <WIKI> --all`).
-- Site-wide metadata (name, editor, URL, base path, licence) comes from
+- Site-wide metadata (name, editor, URL, base path, license) comes from
   `site.config.json` via `src/config/siteConfig.ts` in the Astro code and by
   loading that JSON in the Python tooling. Never restate it in a script.
 - Pipeline settings (paths, gates, scan sources, journal feeds, the agent's name

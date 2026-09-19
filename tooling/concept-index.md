@@ -64,7 +64,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Learning theories and processes
 
 - **`activity-theory-aied`** — Activity Theory — phrases: activity systems; activity theory; contradictions in activity systems; third generation activity theory
-- **`behaviorism`** — Behaviorism — phrases: behavioral learning theory; behaviorism; behaviourism
+- **`behaviorism`** — Behaviorism — phrases: behavioral learning theory; behaviorism
 - **`cognitive-psychology`** — Cognitive Psychology — phrases: attention; cognitive processing; cognitive psychology; cognitive science; human cognition; memory; working memory
 - **`community-of-inquiry`** — Community of Inquiry — phrases: cognitive presence; coi; community of inquiry; community of inquiry framework; social presence; teaching presence
 - **`constructivist`** — Constructivism — phrases: constructionism; constructivism; constructivist; constructivist learning; constructivist theory
@@ -108,7 +108,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`educational-robotics`** — Robots in Education — phrases: educational robotics; human-robot; robot; robotics; robotics in education; robots; robots in education; teaching robots
 - **`generative-ai`** — Generative AI — phrases: ChatGPT; gai; genai; generative ai; generative artificial intelligence; generative model
 - **`knowledge-graph`** — Knowledge Graph — phrases: graph-based knowledge; knowledge graph; knowledge graph construction
-- **`llm`** — Large Language Models (LLMs) — phrases: foundation model; GPT; language model; large language model; large language models; LLM
+- **`llm`** — Large Language Models (LLMs) — phrases: GPT; LLM; foundation model; language model; language models; large language model; large language models
 - **`machine-learning`** — Machine Learning — phrases: deep learning; machine learning; ML model; neural network; neural networks; predictive modeling; supervised learning
 - **`multimodal`** — Multimodal AI — phrases: multi-modal; multimodal; multimodal AI; multimodal learning; multimodal learning analytics
 - **`pedagogical-llm-training`** — Training Pedagogical LLMs for Tutoring — phrases: fine-tuning tutors; llm training; LLM training for tutoring; model training; pedagogical fine-tuning; pedagogical LLM; pedagogical training; training pedagogical LLMs
@@ -119,7 +119,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`speech-and-voice-technologies`** — Speech and Voice Technologies — phrases: automatic speech recognition; oral assessment; pronunciation feedback; speech recognition; spoken dialogue; text-to-speech; voice assistant; voice-first
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
 - **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive environment; immersive learning; immersive simulation; metaverse; mixed reality; virtual environment; virtual reality
-- **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization
+- **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization; visualizations
 
 ### Learner modeling and adaptive systems
 
@@ -128,7 +128,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`affective-tutoring`** — Affective Tutoring — phrases: affect-sensitive tutoring; affective tutoring; emotion-aware; emotion-aware AI tutor; emotion-aware tutoring
 - **`cognitive-diagnosis`** — Cognitive Diagnosis — phrases: cognitive diagnosis; cognitive diagnostic; cognitive diagnostic assessment; cognitive modeling; diagnostic inference; misconception diagnosis
 - **`human-in-the-loop-ai`** — Human-in-the-Loop — phrases: HITL; human in the loop; human judgment; human moderation; human oversight; human review; human-in-the-loop; human-in-the-loop AI
-- **`intelligent-tutoring`** — Intelligent Tutoring — phrases: adaptive tutor; ai tutor; AI tutoring; ai tutors; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; ITS; tutoring system; tutors
+- **`intelligent-tutoring`** — Intelligent Tutoring — phrases: AI tutoring; ITS; adaptive tutor; ai tutor; ai tutors; intelligent tutoring; intelligent tutoring system; intelligent tutoring systems; tutoring system; tutoring systems; tutors
 - **`knowledge-tracing`** — Knowledge Tracing — phrases: bayesian knowledge tracing; knowledge modeling; knowledge tracing; student knowledge modeling
 - **`learning-analytics`** — Learning Analytics — phrases: analytics; educational data mining; learning analytics
 - **`pedagogical-agent`** — Pedagogical Agent — phrases: animated pedagogical agent; learning agent; learning companion; learning partner; pedagogical agent; tutor agent; virtual agent
@@ -139,9 +139,9 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Platforms, openness and adoption
 
-- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform
+- **`edtech-platform`** — Edtech Platform — phrases: edtech; edtech platform; educational platform; learning management system; learning platform; lms; platform; platforms
 - **`open-source`** — Open Source — phrases: oer; oers; open content; open courseware; open education; open educational resources; open models; open pedagogy; open source; open textbook; open textbooks; open weights; open-source; OSS
-- **`technology-acceptance-model`** — Technology Adoption Models — phrases: adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; TAM; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; theory of planned behavior; utaut
+- **`technology-acceptance-model`** — Technology Adoption Models — phrases: TAM; adoption model; diffusion of innovation; perceived ease of use; perceived usefulness; technology acceptance; technology acceptance model; technology adoption; technology adoption model; technology organisation environment; technology organization environment; theory of planned behavior; utaut
 
 ## AI in the disciplines
 
@@ -179,7 +179,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`adult-learning`** — Adult Learners — phrases: adult education; adult learning; andragogy; continuing education; lifelong learner
 - **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; elementary education; kindergarten; primary education; young children
 - **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; undergraduate; undergraduates; universities; university
-- **`k-12`** — K-12 — phrases: eighth grade; elementary; high school; junior high; k-12; K-12 education; middle school; primary school; school; secondary; secondary education; secondary school
+- **`k-12`** — K-12 — phrases: K-12 education; eighth grade; elementary; high school; junior high; k-12; middle school; primary school; school; schools; secondary; secondary education; secondary school
 - **`special-education`** — Special Education — phrases: exceptional learners; special education; special needs; special needs education
 - **`teacher-education`** — Professional Development — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
@@ -195,7 +195,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`automated-essay-scoring`** — Automated Essay Scoring — phrases: AES; automated essay scoring; automated writing evaluation; automatic essay evaluation; awe; essay grading; essay scoring
 - **`automated-question-generation`** — Automated Question Generation — phrases: AI question generation; AQG; auto-generated questions; automated question generation; item generation; item writing; question generation
 - **`eportfolio`** — E-Portfolio — phrases: e-portfolio; eportfolio; portfolio; portfolio assessment; portfolios
-- **`evaluative-judgement`** — Evaluative Judgment — phrases: appraising quality; calibrating judgement; evaluative judgement; evaluative judgements; evaluative judgment; evaluative judgments
+- **`evaluative-judgement`** — Evaluative Judgment — phrases: appraising quality; calibrating judgement; calibrating judgment; evaluative judgement; evaluative judgements; evaluative judgment; evaluative judgments
 - **`feedback`** — Feedback — phrases: assessment feedback; feedback; feedback cycle; feedback loop; feedback loops; learner feedback
 - **`feedback-literacy`** — Feedback Literacy — phrases: feedback competency; feedback literacy; feedback skills
 - **`formative-assessment`** — Formative Assessment — phrases: assessment for learning; formative; formative assessment
@@ -212,7 +212,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`learning-gains`** — Learning Gains — phrases: academic achievement; academic performance; achievement; achievement gap; achievement gaps; learning achievement; learning effectiveness; learning gains; learning outcomes; prior achievement; student achievement
 - **`psychometrically-aware-ai`** — Psychometrically Aware AI — phrases: psychometric AI; psychometric awareness; psychometrically aligned AI; psychometrically aware; psychometrically aware AI
 - **`remote-proctoring`** — Remote Proctoring — phrases: AI proctoring; automated proctoring; e-proctoring; exam proctoring; online invigilation; online proctoring; remote proctoring
-- **`self-report-measures`** — Self-Report Measures — phrases: perceived learning; questionnaire; questionnaires; self-report; self-report bias; self-report data; self-report measures; self-reported; survey instrument
+- **`self-report-measures`** — Self-Report Measures — phrases: perceived learning; questionnaire; questionnaires; self-report; self-report bias; self-report data; self-report measures; self-reported; survey instrument; surveys; written reflections
 
 ## Research methods and evaluation
 
@@ -230,7 +230,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Evaluation of AI systems
 
-- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: ai evaluation; AI system evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai
+- **`ai-ed-evaluation`** — AI Ed Evaluation — phrases: AI system evaluation; ai evaluation; aied evaluation; assessment of AI systems; efficacy evaluation; evaluating AI; evaluation; evaluation of ai; evaluations
 - **`benchmark`** — Benchmark — phrases: benchmark; benchmark dataset; benchmark suite; benchmarking; benchmarks; evaluation benchmark
 
 ## People
@@ -271,7 +271,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Institutions
 
 - **`change-management`** — Change Management — phrases: change management; educational reform; implementation of AI; institutional change; leading change; organizational change
-- **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policy; policy for AI
+- **`educational-policy-ai`** — Educational AI Policy — phrases: AI in education policy; ai policies; ai policy; education policy; educational AI policy; educational policy; genai policy; institutional policy; policies; policy; policy for AI
 - **`governance`** — AI Governance — phrases: AI governance; governance; governance framework; institutional
 - **`regulation`** — AI Regulation in Education — phrases: AI regulation; regulation; regulatory; regulatory framework
 
@@ -281,7 +281,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 - **`accessibility`** — Accessibility — phrases: accessibility; accessible; accessible design; accessible education; accessible learning
 - **`assistive-technology`** — Assistive Technology — phrases: assistive tech; assistive technology; AT tools; braille; screen reader; speech to text; text to speech
-- **`bias-mitigation`** — Bias Mitigation — phrases: algorithmic bias; algorithmic fairness; bias; bias mitigation; de-biasing; debiasing; fairness
+- **`bias-mitigation`** — Bias Mitigation — phrases: algorithmic bias; algorithmic fairness; bias; bias mitigation; biases; de-biasing; debiasing; fairness
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy — phrases: culturally relevant; culturally relevant pedagogy; culturally responsive; culturally responsive pedagogy; culturally responsive teaching; culturally sustaining; culturally sustaining pedagogy
 - **`digital-divide`** — Digital Divide — phrases: access gap; digital access; digital divide; digital inequality; technology gap
 - **`equity-in-ai-education`** — Equity — phrases: AI equity; educational equity; equitable; equity; equity concerns

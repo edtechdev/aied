@@ -58,7 +58,7 @@ Five interdisciplinary cases — psychology theory, educational statistics, [[cs
 - [[student-centered-genai-responsible-framework-2026]] — A Student-Centered Framework for Responsible Use of Generative AI
 - [[semantic-variability-llm-conversation-assessment-2026]] — Semantic Variability in LLM Conversation Assessment
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Reclaiming Epistemic Agency
-- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity
 - [[ai-feedback-critical-thinking-writing-2026]] — Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency
 
 ## Citation

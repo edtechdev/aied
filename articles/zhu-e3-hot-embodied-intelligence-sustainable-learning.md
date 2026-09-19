@@ -48,7 +48,7 @@ institutions: [educational-policy-ai]
 
 ## Connected Articles
 
-- [[ensemble-cognition-philosophy-ai-education]] — Reconceptualising agency and mind in AI-mediated educational environments
+- [[ensemble-cognition-philosophy-ai-education]] — Reconceptualizing agency and mind in AI-mediated educational environments
 - [[gerlich-ai-tools-cognitive-offloading-critical-thinking]] — AI tools, cognitive offloading, and the future of critical thinking
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
 - [[white-wu-robotics-ai-education-2026]] — Robotics/embodied intelligence in AI education

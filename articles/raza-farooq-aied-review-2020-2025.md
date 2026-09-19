@@ -74,7 +74,7 @@ Looking across recent scholarship and policy roadmaps, three trajectories appear
 
 ## Limitations and Future Work
 
-The review is a coherent three-layer synthesis across 100+ studies, but it carries real limits. Coverage is partial: it prioritizes peer-reviewed English-language education sources, underrepresenting technical venues, non-English work, and grey literature. The corpus is skewed toward higher-education and Global North settings, limiting generalizability to [[k-12|K-12]], vocational, and low-resource contexts. And many studies report learning effects but omit operational metrics — teacher time saved, implementation cost, compute and energy use — making policy translation difficult. The authors recommend stratified, region-weighted searches and a simple cost–time–quality reporting template so future work tracks total cost of ownership alongside learning and equity outcomes.
+The review is a coherent three-layer synthesis across 100+ studies, but it carries real limits. Coverage is partial: it prioritizes peer-reviewed English-language education sources, underrepresenting technical venues, non-English work, and gray literature. The corpus is skewed toward higher-education and Global North settings, limiting generalizability to [[k-12|K-12]], vocational, and low-resource contexts. And many studies report learning effects but omit operational metrics — teacher time saved, implementation cost, compute and energy use — making policy translation difficult. The authors recommend stratified, region-weighted searches and a simple cost–time–quality reporting template so future work tracks total cost of ownership alongside learning and equity outcomes.
 
 ## Implications
 
