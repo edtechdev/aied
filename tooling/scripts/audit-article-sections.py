@@ -74,8 +74,8 @@ def _figure_patterns(token: str) -> list[str]:
     """Candidate regexes for one figure, tolerant of how a source may print it.
 
     Sources print the same value as `0.39`, `.039`, `0·39`, `0,39`, `39%`, `039`. Build a pattern from the
-    digits, allowing at most one non-digit character between digits, an optional leading zero, and an
-    optional leading decimal point.
+    digits, allowing up to two non-digit characters between digits - PDF extraction splits thousands
+    separators into `6, 000` - an optional leading zero, and an optional leading decimal point.
     """
     digits = re.sub(r"\D", "", token)
     if len(digits) < 2:
@@ -90,7 +90,7 @@ def _figure_patterns(token: str) -> list[str]:
             variants.add(trimmed_digits.lstrip("0") or "0")
     patterns = []
     for variant in variants:
-        body = r"[^\d]{0,1}".join(re.escape(ch) for ch in variant)
+        body = r"[^\d]{0,2}".join(re.escape(ch) for ch in variant)
         # trailing zeros may be present in the source (78.6 there, 78.60 here) but no other digit may follow
         patterns.append(r"(?<!\d)\.?" + body + r"(?![0-9]*[1-9])")
     return patterns

@@ -1,7 +1,7 @@
 ---
 title: "It Takes a Village... Program-Wide Approaches to Redesigning Assessment in a Time of Generative Artificial Intelligence (GenAI)"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [curriculum-design, educational-development, teacher-role]
 technology: [generative-ai]
@@ -25,8 +25,20 @@ confidence: medium
 ## Study Design & Method
 This is an **empirical qualitative study** using a **qualitative interpretivist** approach. Data were collected via online semi-structured individual interviews with **17 students** and **12 academics** across the university's four faculties (Health; Science, Engineering and Built Environment; Business and Law; Arts and Education). Interviews explored participants' understanding and use of GenAI tools, the impact on assessment practices, the role of the university, how (if at all) assessment needed to change, and the future of university assessment. Data were analyzed using Braun and Clarke's six-phase **thematic analysis** with inductive coding, inter- and intra-rater reliability checks, and refinement through team discussion and consensus. [[ethics|Ethical]] approval was granted by the Deakin University Human Ethics Committee (HAE-23-057). The paper focuses primarily on academic data, using student data as a supplement. Limitations include a single-institution sample, minimal demographic data (to protect anonymity), and a single point-in-time data collection amid rapid GenAI change.
 
-## Implications for AI in Education
-The study provides empirical grounding for assessment reform in the GenAI era. It empirically supports Lodge et al.'s (2023) dual principles — assessment should both **prepare students for a world where GenAI is ubiquitous** and **assure learning** — while revealing the real-world friction of enacting them: systemic inertia, workload, and the need for new expertise. For [[teacher-role|educators]] and institutions, it shifts the framing of assessment redesign from an individual task to a **collaborative, program-wide endeavor** in [[higher-ed|higher education]], connecting to [[authentic-assessment]] (assessing application and critical judgment over memorization), [[formative-assessment]], [[curriculum-design]], and [[educational-development]] (dedicated time, training, and support to engage with GenAI). The "village" model offers a practical response to the resource and expertise gaps that make structural assessment change so difficult, echoing broader calls to treat GenAI as an opportunity to fix long-standing weaknesses in [[assessment]] design.
+## What this means for practice
+
+- **Instructors.** Stop debating bans and redesign instead: most of the 12 academics and 17 students interviewed opposed prohibiting GenAI and favored building its use into the curriculum and requiring critical evaluation of AI output.
+- **Instructors.** [[authentic-assessment|Assess differently]] on two fronts at once — assure that graduates achieve the promised learning outcomes, and prepare students for a GenAI world of work — rather than assuming existing tasks still do either.
+- **Faculty developers.** Convene the "village": [[assessment|assessment redesign]] in the GenAI era exceeds any single academic's capability, so assemble a collaborative team with expertise in assessment design, GenAI applications, subject matter, program knowledge, industry use, and the evidence base.
+- **Administrators.** Supply the workload capacity, training, exemplars, and tools (portfolio and curriculum-mapping software) that academics said they need, and use policy and framework change to remove the inflexible processes and long lead times that block redesign in large-cohort, accredited courses.
+- **Designers.** Plan [[curriculum-design|program-wide]] GenAI-literacy development and assurance-of-learning points across a qualification rather than task by task, so strategic placement absorbs resource constraints instead of multiplying them.
+
+## Limitations
+
+- Data come from one Australian university, and the authors caution that application to other settings must be considered with caution.
+- The sample is small (12 academics and 17 students) and recruited through direct email and learning-management-system invitations from four faculties of one university, with minimal demographic data collected to protect anonymity — which the authors note limits attribution of findings to particular disciplines or areas of practice.
+- Data were collected at a single point in time during rapid GenAI change, so participants' use may already have changed significantly since; the authors call for longitudinal, multi-institution work.
+- The paper is built on academic data and uses student data only as a supplement, so the student perspective carries less evidential weight than the framing suggests.
 
 ## Connected Concepts
 

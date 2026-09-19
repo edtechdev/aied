@@ -1,7 +1,7 @@
 ---
 title: "TeachLM: Post-Training LLMs for Education Using Authentic Learning Data"
 created: "2026-08-21T08:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [project-based-learning]
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, simulating-students, student-modeling]
@@ -22,11 +22,19 @@ sources: [raw/papers/2510.05087.md]
 - **Fine-tuning on authentic data clearly beats off-the-shelf models.** TeachLM approximately doubles student talk time, improves questioning style, increases dialogue turns by 50%, and shows greater personalization — evidence that post-training on real learner–tutor interactions addresses the friction-minimizing, [[ai-sycophancy|sycophantic]] tendencies encoded in general-purpose LLMs.
 - **Careful data curation and anonymization are central.** The pipeline includes dual-track transcription, diarization, cleaning (removing backchannels, aligning persona), consent per session, PII removal on internal servers, and enterprise-grade confidentiality for model providers — a model for ethically sourcing education data.
 
-## Practical Implications
+## What this means for practice
 
-- **Invest in real learner–tutor corpora, not just prompt tuning.** For developers of [[intelligent-tutoring|AI tutors]], the transferable lesson is that genuine interaction data (with consent and anonymization) unlocks quality that prompting cannot; platform owners with longitudinal tutoring logs hold unusually valuable training material.
-- **Use a fine-tuned student model for multi-turn tutor evaluation.** Synthetic-student-driven evaluation offers a fast, reproducible complement (or alternative) to expensive human expert review of long dialogues, which is especially useful for iterating on tutor behavior.
-- **Design for student talk time and questioning as quality targets.** The evaluated proxies — balancing talk time, open questioning, dialogue length, and personalization — give concrete, measurable objectives for pedagogical LLM behavior.
+- **Software developers.** Invest in real learner–tutor corpora, not prompt tuning: TeachLM was fine-tuned on 100,000 hours of one-on-one Polygence tutoring, and the earlier prompt-engineered PolyPilot tutor could not close the gap to human tutors even with [[rag|RAG]]-based examples and stage-dependent prompts.
+- **Software developers.** Use a fine-tuned authentic student model to generate synthetic dialogues for multi-turn evaluation, which makes tutor benchmarking fast, scalable, and reproducible compared with labor-intensive human review of long dialogues.
+- **Software developers.** Target the measured pedagogy proxies — student talk time, questions per tutor turn, words per tutor turn, dialogue turns, and personalization — as concrete iteration goals, since fine-tuning roughly doubled student talk time and increased dialogue turns by 50%.
+- **Designers.** Budget for consent, anonymization, and privacy engineering up front: per-session consent, PII removal on internal servers, dual-track transcription, and enterprise-grade confidentiality were prerequisites for using this data at all.
+
+## Limitations
+
+- Evaluations of the fine-tuned models rely on a synthetic student model trained on the same Polygence data rather than on real students; the authors state that a rigorous, large-scale human evaluation will be addressed in an upcoming report.
+- The benchmarks are described as a preliminary case study using a handful of straightforward proxies, because good pedagogy is context-dependent and more complex evaluation is deferred to future work.
+- Training data comes from one commercial platform (Polygence), spanning PhD-level tutors and projects that typically last 4–6 months, so transfer to other tutoring contexts and learner populations is untested.
+- The prompt-engineered predecessor tutor was tried with only n = 71 students, a small deployment on which the counterpoint to fine-tuning rests.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Framing human-AI dynamics: An epistemological perspective on generative AI practices"
 created: "2026-08-22T17:10:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-education, ai-literacy, human-ai-collaboration, theory-development-aied]
 pedagogy: [learning-theories, student-ai-interaction]
@@ -45,15 +45,20 @@ Strydom contends these dimensions offer a productive lens on how individuals dif
 - **Values-based (Defender):** Prioritizes [[ethics|ethical]] AI use and the ethics of knowledge creation — [[bias-mitigation|fairness]], transparency, accountability, [[privacy]]. Asks not just whether claims are true but how they were arrived at responsibly.
 - **Equity (Advocate):** Foregrounds power, ideology, and [[equity-in-ai-education|equity]]. Recognizes GAI's democratizing potential while attending to [[digital-divide|digital inequality]] and bias — GAI trained on English-language, Western academic sources risks reproducing hierarchies of whose knowledge counts; technology is not neutral.
 
-## Implications for AI in education
+## What this means for practice
 
-The framework reframes the human-GAI relationship from a tool-usage question into an epistemological one — how individuals *enact knowledge and learning* within human-GAI assemblages. This connects directly to the knowledge base's [[human-ai-collaboration]], [[student-ai-interaction]], and [[philosophy-of-ai-in-education|philosophy of AI]] threads. Practically:
+- **Instructors.** Diagnose the enacted paradigm before designing the task: because the paradigms are enacted rather than possessed, changing how students engage with GAI means changing the socio-technical environment — task design, disciplinary norms, assessment rules — not persuading students to hold different beliefs about AI.
+- **Instructors.** Let pioneering and possibility-focused learners experiment with alternative [[assessment]] formats — process evidence, co-produced work, exploratory drafts — instead of requiring polished-product-only submissions that suit only the guarded.
+- **Faculty developers.** Treat a guarded orientation as a coherent epistemological position rather than resistance, and use the seven paradigms as a diagnostic vocabulary for differentiated [[educational-development|staff development]] aimed at the values-based and equity orientations.
+- **Administrators.** Apply the five epistemological dimensions when writing [[governance|institutional AI policy]]: the same tool is engaged in different ways across disciplines and departments, so a single institutional stance on GAI will not fit all of them.
+- **Researchers.** Treat the framework as a testable heuristic rather than a settled account: it extends the knowledge base's [[human-ai-collaboration]], [[student-ai-interaction]], and [[philosophy-of-ai-in-education|philosophy of AI]] threads, but paradigm prevalence, stability, and movement between paradigms remain unmeasured.
 
-- **Teaching and assessment:** paradigms imply differentiated approaches — e.g., pioneering/possibility-focused alignments could be encouraged to experiment with alternative [[assessment]] formats rather than polished-product-only evidence.
-- **Professional development:** guarded orientations are not mere resistance but a coherent epistemological position requiring targeted [[educational-development|staff development]]; the framework offers a diagnostic vocabulary for differentiated development.
-- **Governance and policy:** the lens can inform [[governance]] frameworks and [[educational-policy-ai|educational policy]] in multidisciplinary and [[higher-ed|higher-education]] contexts, echoing how epistemological stances shape institutional responses.
+## Limitations
 
-The framework sits alongside other [[theory-development-aied|theory-building]] work in the corpus (epistemic co-agency, generativism, the absent cognitive baseline) in theorizing how learners' relationship to AI-shaped cognition develops, while explicitly positioning itself as an exploratory heuristic requiring empirical validation.
+- The paper is conceptual and theory-building, not empirical: the seven paradigms were derived through literature synthesis and conceptual abstraction, so nothing here establishes that they correspond to stable, observable patterns.
+- It cannot yet show how prevalent each paradigm is, how individuals move between them, or whether hybrid positions hold — the questions on which its central claim, that paradigms are enacted rather than possessed, depends.
+- The implied interventions (differentiated staff development, alternative assessment formats, paradigm-informed governance) are untested; the author positions the framework as a stimulus for research and dialogue rather than a complete account.
+- The grounding is a single theoretical lineage — Schommer's multidimensional model of personal epistemological beliefs — refined against source literature by one author, with no independent or inter-coder validation of the paradigm set.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence Agents in Computer-Supported Collaborative Learning: A Systematic Literature Review"
 created: "2026-08-22T05:55:16-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [collaborative-learning, community-of-inquiry, scaffolding]
@@ -26,9 +26,20 @@ methods: [meta-analysis-systematic-review]
 4. **Cognitive gains consistent, other outcomes context-dependent.** Cognitive gains are consistently reported, but behavioral, social, and emotional outcomes appear context-dependent — highlighting the need for nuanced agent design.
 5. **Need for equity and context-sensitive deployment.** The review underscores equitable access, expanded conceptual frameworks, and context-sensitive deployment for meaningful, responsible AI-agent integration in CSCL.
 
-## Implications
+## What this means for practice
 
-This review is the non-IBL companion paper, contributing to the knowledge base's [[agentic-ai|agent]] and [[collaborative-learning]] threads. It maps how AI agents (beyond [[conversational-ai|chatbots]]) orchestrate and scaffold collaborative learning, connecting to [[pedagogical-agent|pedagogical agents]] and the community-of-inquiry model. For designers, the domain-alignment finding implies agent functions should be matched to intended outcomes, and cognitive scaffolding functions can reliably boost learning while social/emotional effects need contextual tuning. It connects to [[human-ai-collaboration]] and [[equity-in-ai-education|equity concerns]].
+- **Designers.** Match the agent's function to the outcome you intend: the review finds cognitive [[scaffolding]] reliably produces cognitive gains and that alignment between agent function and [[learning-gains|learning outcome]] is strongest within the same domain, so choose cognitive scaffolding, social facilitation, or instructional orchestration deliberately rather than bundling all three.
+- **Designers.** Treat behavioral, social, and emotional outcomes as context-dependent: cognitive gains were consistently reported across the 46 studies, but the other three outcome classes varied, so pilot the agent in your own setting before assuming social or emotional benefits.
+- **Designers.** Keep groups small: dyads and triads working with a single agent dominate the reviewed evidence, and multiple-agent or larger-group designs remain largely experimental.
+- **Researchers.** Report sample characteristics, agent architecture, and implementation details consistently, and share logging schemas, coding frameworks, and prompting strategies even when raw data cannot be released — almost none of the 46 studies opened their datasets or agent source code.
+- **Administrators.** Treat expansion beyond post-secondary text platforms as governance-intensive: staged validation in [[k-12|K-12]], vocational, and multimodal settings needs data minimization, explicit consent, and bias monitoring, and should hold [[human-ai-collaboration|human oversight]] and [[equity-in-ai-education|equity]] guardrails as first-order design requirements.
+
+## Limitations
+
+- The 46 reviewed studies skew to post-secondary education and text-based online platforms, which the authors state limits immediate generalization to K-12, vocational, and multimodal settings.
+- Only 12 of the included studies were large-scale quantitative and 3 were in-depth qualitative; most relied on small institutional datasets, constraining statistical power and generalizability.
+- The absence of a control or comparison group was a frequent design constraint in the quantitative and non-randomized studies, limiting causal inference, and participant diversity (cultural background, prior knowledge, demographics) was often not reported.
+- Almost none of the included studies provided public access to their datasets, agent source code, or implementation details, limiting reproducibility and comparison across agent architectures.
 
 ## Connected Concepts
 

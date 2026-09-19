@@ -1,7 +1,7 @@
 ---
 title: "“Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI"
 created: "2026-08-22T17:45:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
@@ -38,9 +38,19 @@ An instrumental case study (exploratory approach) at "Palm Tree University," a f
 - **Colleagues:** Perceptions spanned "absolutely the whole spectrum" — from senior instructors holding back to active advocates who saw ongoing learning as a departmental responsibility.
 - **Students:** The direct stakeholders; instructors felt pressured to learn because "students will use it." Concerns included evaluating real proficiency, [[cognitive-offloading|over-reliance]] ("laziness"), the [[digital-divide]] (unequal access to better tools), and ambiguity about whether writing or digital literacy was being assessed.
 
-## Implications for AI in education
+## What this means for practice
 
-This study contributes to the knowledge base's [[teacher-role]] thread by showing how instructor authority and practice are reconfigured under GenAI — and to [[educational-policy-ai|policy]] discussions by revealing why [[governance|institutional policies]] matter (consistency, adjunct support, disciplinary differences). It reinforces the [[ai-literacy]] imperative for both students and faculty, connects to [[equity-in-ai-education|equity]] concerns (the [[digital-divide]]), and supports [[educational-development]] focused on process-oriented pedagogy and open departmental dialogue. It complements [[academic-integrity]] work by showing how instructors move from detection toward teaching acceptable GenAI use and promoting [[student-experience|student accountability]] in [[ai-education|AI-mediated education]].
+- **Instructors.** Emphasize the writing process over the final product — assign reflections on thinking, writing, and learning, require multiple revisions, and add instructor-student conferences — so that promoting [[student-experience|student accountability]] does not depend on detection.
+- **Instructors.** State the GenAI rules for each class explicitly in the syllabus and hold open conversations about the tool's limitations, moving from detection toward teaching acceptable use; departmental policy at the study site ranged from detailed AI statements to none at all.
+- **Faculty developers.** Center professional development on process-oriented [[pedagogy]] and on open, cross-department dialogue about GenAI's affordances and risks, reaching senior colleagues who hold back and adjunct faculty whose limited discourse power constrains how they respond.
+- **Faculty developers.** Build both faculty and student [[ai-literacy]] and address the [[digital-divide]] and over-reliance directly, since instructors reported students with greater economic capital using better tools and using GenAI as a shortcut around learning.
+
+## Limitations
+
+- Single-site instrumental case study at one four-year U.S. liberal-arts university ("Palm Tree University") that had already formed a GenAI task force and a Quality Enhancement Plan, so the four power centers may look different where no such institutional support exists.
+- Questionnaire response was low (33 of 265 faculty), and the in-depth analysis rests on only 10 interviews, so the themes describe a small, self-selected group rather than the faculty as a whole.
+- All evidence is instructors' self-reported perceptions gathered at a single time point in Fall 2024; the study documents what instructors say they do, not observed classroom practice or student learning.
+- The 10 interviewees came from a fixed set of disciplines (English, Psychology, Education, Management, Biology, Medicine) with 3-27 years of teaching experience, leaving other fields and career stages unrepresented.
 
 ## Connected Concepts
 

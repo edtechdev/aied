@@ -1,7 +1,7 @@
 ---
 title: "Is It Ethical for Teachers to Use AI for Student Feedback?"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai]
@@ -26,8 +26,20 @@ confidence: medium
 ## Study Design & Method
 The study addresses the research question *"What are the key ethical considerations for teachers when using AI to provide students with feedback?"* using **four datasets**: (1) institutional [[educational-policy-ai|AI policies]] and guidelines from 50 leading universities (2025 QS rankings), searched Jan–Feb 2025, with only 14 found to have specific feedback-related guidance; (2) Reddit social media posts — three topic posts on teachers' AI use for feedback (including one with 791 responses), yielding 76 analyzed responses; (3) interviews with **33 teachers**; and (4) interviews with **23 students** from Southern China institutions, where "AI+Education" national policy encourages AI integration. Purposive sampling ensured diverse disciplines. Drawing on Mahony's (2009) definition of [[ethics]] as "what we ought to do," the analysis used open coding in NVivo, aggregating meaning clusters into eight overarching themes that were triangulated across datasets (all themes supported by at least two data sources; half by all four). Ethical approval was obtained (Approval Nos. 2023-2024-0134 and 2024-2025-0174).
 
-## Implications for AI in Education
-The study reframes the question of AI use in [[feedback]] from *whether* teachers should use AI to *how* AI-enabled feedback activities can be designed and operated to maintain — or even enhance — care, trust, and human connections. It shifts the focus of AI-use debates in [[higher-ed|higher education]] from students' use of AI to teachers' own professional use, showing that teachers who scrutinize students' AI use are often less reflective about the [[ethics]] of their own. The findings support the development of institutional policies and [[educational-development|professional development]] around AI for feedback, promoting transparency, accountability, human oversight, secure platform use, and context-sensitive judgment. Ethical AI use requires a **collective effort** from multiple stakeholders in and beyond [[higher-ed|higher education]], and the authors connect it to the broader need for [[ai-literacy]] among educators. The CC BY-ND (no derivatives) license of the paper should be noted when adapting its materials.
+## What this means for practice
+
+- **Instructors.** Communicate how AI is used in producing feedback and obtain student consent before uploading their work: eight of the 50 reviewed universities advised transparency and four required consent, and students described unannounced [[feedback|AI feedback]] as "disingenuous."
+- **Instructors.** Retain accountability and [[human-in-the-loop-ai|human oversight]] — review AI-drafted comments against the assignment's purpose and the individual student before returning them, since answerability for feedback remains the teacher's.
+- **Instructors.** Apply the same transparency standard to your own AI use that you expect of students; the study finds teachers who scrutinize student AI use are often less reflective about the ethics of their own.
+- **Administrators.** Fill the guidance gap: only 14 of 50 top-ranked universities had specific policy on teachers' AI use for feedback, and interviewed teachers were largely unaware of the policies that did exist. Fund secure, institution-approved platforms, [[educational-development|professional development]], and a workable consent model (opt-out "passive consent" was proposed precisely because requiring informed consent adds workload).
+- **Designers.** Build transparency and consent workflows into feedback tools and preserve space for teacher judgment across the study's eight areas (professionalism, accountability, transparency, effectiveness, inclusivity, security, contextual fit, and policy and resources). Note the paper's CC BY-ND (no derivatives) license when adapting its materials.
+
+## Limitations
+
+- The eight areas reflect a purposive sample — AI policies from 50 elite (2025 QS-ranked) universities, 76 analyzed Reddit responses, and interviews with 33 teachers and 23 students in Southern China institutions — and the authors note that voluntary social-media participation, teachers recruited from the researchers' professional networks by snowballing, and voluntary interviews likely drew respondents with strong views on AI. The authors also flag that the policy sample may be biased toward Western elite perspectives.
+- No demographic data were collected on participants' AI literacy, existing perceptions of feedback, or beliefs about AI use, so the authors cannot attribute differences to participant characteristics; the policy data itself covers only elite institutions.
+- Interviews capture what teachers say, not what they do: the authors acknowledge that interview data may not reflect the actual decision-making teachers navigate when using AI for feedback.
+- The study omits other stakeholders such as developers of specialized AI-powered feedback systems, so how ethical considerations feature in tool design is inferred rather than observed, and the policy landscape is changing fast enough that the 2025 snapshot dates quickly.
 
 ## Connected Concepts
 - [[feedback]]

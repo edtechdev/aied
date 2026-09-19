@@ -1,7 +1,7 @@
 ---
 title: "Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies"
 created: "2026-08-21T13:05:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [help-seeking, motivation, self-efficacy, self-regulated-learning, student-engagement]
@@ -15,9 +15,6 @@ confidence: medium
 
 > **Synthesis:** Among 478 Israeli higher-education students, AI literacy is a **double-edged factor**: its skill-based dimensions (using/understanding AI) were *positively* associated with reported AI dependency, while **self-efficacy** (both academic and AI-specific) and **effort [[regulation]]** were *negatively* associated. AI literacy alone does not protect against overreliance — it can even enable it. Self-efficacy beliefs and [[self-regulated-learning|self-regulated learning]] practices appear at least as important as technical skill for balanced, intentional AI [[student-engagement|engagement]].
 
-## Core Finding
-
-
 ## Key Findings
 
 - **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132), mirroring academic self-efficacy (β = −0.197). This suggests a "compensatory" mechanism: strong skills enable offloading, but strong self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
@@ -30,12 +27,18 @@ confidence: medium
 
 The central insight is that skill and confidence pull in opposite directions in predicting dependency. AI literacy curricula focused narrowly on technical skill (how to prompt, how to use tools) may **inadvertently increase dependency**. By contrast, curricula that also build students' sense that they can "think with AI rather than through AI" — and their general academic confidence — may protect against overreliance. The authors frame this as a shift from a technological-instrumental conception of AI literacy toward a [[pedagogy|pedagogical]], behavioral, and emotional one foregrounding self-regulation, self-awareness, and learner responsibility.
 
-## Practical Implications
+## What this means for practice
 
-- **Do not treat AI-literacy training as sufficient for responsible use.** Fostering technical proficiency alone can raise dependency; pair it with interventions that build academic and AI self-efficacy and self-regulated learning.
-- **Scaffold self-regulation, not just [[prompt-engineering|prompting]].** Students high in dependency report weaker effort regulation and time management — design instructional [[scaffolding|scaffolds]] for effort, time management, and reflective engagement with AI outputs (process documentation, reflective dialogue, critique of AI-generated outputs) rather than only tool skills.
-- **Differentiate support by learner profile.** Since four distinct profiles emerged with different needs, frameworks for learning and support should be adjusted to user characteristics — foundational AI skills for novice users, critical/reflective use for those already skilled.
-- **Interpret AI dependency as a self-regulation and motivation issue.** The differences among profiles reflect disparities in self-control, academic self-efficacy, persistence, and resource management — not mainly in technological knowledge or access. Position AI as a supportive resource embedded within emotional–behavioral skills that enable conscious, critical, autonomous use.
+- **Learners.** Treat AI-literacy training as necessary but not sufficient: the skill-based dimensions of [[ai-literacy]] (using/understanding AI and detecting AI) were positively associated with dependency, so pair tool skill with deliberate judgment about when to hand work over.
+- **Learners.** Build the counterweight yourself — academic and AI [[self-efficacy]] and effort [[regulation]] were all negatively associated with dependency, so keep practicing work you can verify without AI rather than letting confidence rest on the tool.
+- **Learners.** Scaffold regulation, not just [[prompt-engineering|prompting]]: document your process, reflect on and critique AI outputs, and manage time and effort deliberately, because the more dependent students reported weaker effort regulation and time management.
+- **Instructors.** Differentiate support by profile: the study's cluster analysis identified four learner profiles that combine literacy and dependency differently, so give foundational AI skills to novices and critical, reflective-use training to those already skilled.
+
+## Limitations
+
+- Cross-sectional, self-report online survey of 478 students at Israeli higher-education institutions recruited through a commercial panel (Panel4All); the design supports associations, not the causal reading of the proposed "compensatory" mechanism.
+- Every construct was measured with self-report Likert items, and the ethics and emotional-regulation [[ai-literacy]] subscale had internal consistency of α = 0.64, below the conventional 0.70 threshold.
+- The sample is confined to a single country (Israel) and one data-collection window (August–September 2025), so the profiles may not transfer to other national or institutional contexts.
 
 ## Connected Concepts
 

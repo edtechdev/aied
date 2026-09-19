@@ -1,7 +1,7 @@
 ---
 title: 'Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study'
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-08-20T07:45:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [problem-based-learning]
 technology: [generative-ai, simulation]
@@ -27,12 +27,20 @@ methods: [mixed-methods-research]
 ## Study Design & Method
 Between-groups, [[mixed-methods-research|mixed-methods]] pilot at a small community-based U.S. medical school using hybrid PBL. Twenty-six second-year students (37% of Class of 2026; convenience sample; of 14 reporting demographics, 79% women, 20% minoritized racial/ethnic group) opened the first required case of the Endocrinology, Reproduction, and Gastroenterology (ERG) unit (~3 months before USMLE Step 1). Two groups (N=13) conducted voice-to-voice history-taking with a genAI-enabled avatar (Randy Rhodes, a 54-year-old man with Type 2 Diabetes); two comparison groups (N=13) gathered history by keyword search of the ePBLM. All four groups had the same expert faculty facilitator (a 16-year "master" PBL tutor). The avatar combined a local speech-to-text model, ElevenLabs voice synthesis, D-ID facial animation, and OpenAI GPT-4o driven by the faculty ePBLM case materials with "[[guardrails]]" (e.g., preventing the AI from revealing the diagnosis). Data included: descriptive observation (Spradley) of audio recordings by 5 co-investigators using a reflexivity-bracketed template with inductive consensus coding; an 8-item locally developed Learner Perceptions Survey (summated 8–40, item 5 reverse-coded); and an 11-item short-answer Patient History Information Quiz graded masked to condition, administered immediately and 2 weeks post-tutorial. Analysis used OLS linear regression (R 4.5.0; lme4, emmeans, gtsummary, ggplot2), two-tailed α = 0.05.
 
-## Implications for AI in Education
-- **Representing patients realistically in PBL is feasible but needs framing.** GenAI accurately delivered essential case content and stimulated the problem-driven collaboration defining PBL, but students defaulted to a "question base" frame. [[teacher-role|Tutors]] should encourage students to experiment with the AI's humanlike capabilities and help them recognize and adapt to its limitations.
-- **Humanistic interaction requires early and explicit [[scaffolding]].** Because rising third-year students brought an ePBLM-querying framework into the encounter, introducing genAI-enabled patients early (even first year) — before an alternative interactional framework takes hold — may promote more patient-centered communication than the predominantly closed-ended questioning observed.
-- **Content deviation creates a new tutor role.** The inevitability of genAI deviation (especially on pertinent negative findings) suggests tutors must help students stay on track when embellished or inconsistent responses tempt distraction; the impact should be studied systematically across case types.
-- **Reality-accuracy trade-off is central.** Tightening guardrails to prevent deviation risks making the [[llm|LLM]] robotic and unrealistic; loosening them risks bias, inaccuracy, unpredictability, and inappropriate emotional dependence — a [[philosophy-of-ai-in-education|philosophical]] question about how much deviation from faculty control PBL can absorb.
-- **[[research-methods-aied|Methodological]] strengths and limits.** This is among the first studies to directly observe (rather than infer from activity/self-report) the effect of manipulating patient modality in PBL. It is a "best case" single-case, single-school pilot using locally developed instruments and small group numbers (no group-level statistical control), so it aims at groundwork rather than generalizability.
+## What this means for practice
+
+- **Instructors.** Frame the avatar explicitly as a patient to be interviewed, not a searchable question base: students defaulted to closed-ended, efficiency-focused querying and one asked the tutor outright, "Can we give him advice or is it [the AI] just, like, a question base?"
+- **Instructors.** Coach students to probe the avatar's humanlike capabilities and to recognize and adapt to its deviations — the AI reported symptoms "on and off for a few months" where the ePBLM returned "Only on occasion," and its rapport-building tone varied between groups.
+- **Curriculum designers.** Introduce genAI-enabled patients early, even in the first year, because rising third-year students brought an established keyword-querying framework from the legacy ePBLM into the encounter.
+- **Medical educators.** Budget tutorial time for slower history-taking: genAI groups spent 55–65 min versus 36–39 min for ePBLM, about 10 min of it extra history-taking, though only the genAI groups closed the case by giving the patient a diagnosis and initial management plan.
+- **Instructional designers.** Manage the reality–accuracy trade-off deliberately: tightening guardrails to prevent deviation risks making the LLM robotic, while loosening them admits bias, inaccuracy, and unpredictability — decide how much deviation the [[problem-based-learning|PBL]] case can absorb.
+
+## Limitations
+
+- One case at one community-based medical school with 26 second-year students (37% of the class), recruited by word of mouth with no inclusion/exclusion criteria, so the authors describe the conditions as "best case" rather than generalizable.
+- All four groups were led by one experienced faculty facilitator enthusiastic about genAI, and participants volunteered for a study offering the chance to use genAI, confounding tutor skill and enthusiasm with the condition.
+- Outcomes rest on locally developed instruments — an 8-item perceptions survey and an 11-item history quiz — and recall was near ceiling in both conditions (immediate 9.40 ePBLM vs 10.10 genAI of 11), leaving little room to detect a knowledge difference.
+- With only two groups per condition, group effects on the quiz and survey could not be statistically controlled, and the observational analysis used audio recordings only.
 
 ## Connected Concepts
 - [[problem-based-learning]]

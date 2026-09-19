@@ -1,7 +1,7 @@
 ---
 title: "Scaffolding Systematic Reviews in Learning Design and Technology Through Mentoring and AI Integration"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-19T09:16:28-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [human-ai-collaboration, learning-design]
 pedagogy: [collaborative-learning, scaffolding]

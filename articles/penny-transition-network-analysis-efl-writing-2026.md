@@ -1,7 +1,7 @@
 ---
 title: "Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing"
 created: "2026-08-22T01:35:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -18,9 +18,6 @@ page_kind: [evaluation]
 
 > **Synthesis:** Using **Transition Network Analysis (TNA)**, this study opens the "black box" of learner-chatbot interaction in scaffolded [[english-education|EFL writing]], modeling how 119 Japanese junior-high learners moved between writing, requesting feedback, revising, and chatting across 4,651 sessions and 21,061 interactions with "Penny," a GPT-4o-powered writing chatbot. Two dominant behavioral loops emerged — a **"Revision Loop"** (feedback → successful error correction) and a **"Chat Loop"** (feedback → sustained dialogue → more feedback) — revealing that AI-scaffolded writing is a **non-linear, dialogic process**, not a linear submit-and-correct cycle. Critically, [[ai-literacy|English proficiency]] significantly shaped interaction: **high-proficiency learners engaged more in open dialogue and negotiation of meaning**, while **low-proficiency learners relied more heavily on repetitive corrective-feedback cycles** (using the "check my writing" button rather than clarifying or negotiating). This highlights the need for differentiated chatbot design that moves beyond simple error correction to foster deeper cognitive [[student-engagement|engagement]] for all learners.
 
-## Core Finding
-
-
 ## Key Findings
 
 - **The revision-dialogue divergence.** Following chatbot feedback, learner behavior split almost evenly: **revise_writing** (43.8%) and **user_chat** dialogue (37.3%). This dual pathway shows learners use the chatbot both as a corrective tool and as a partner for negotiating meaning.
@@ -34,12 +31,19 @@ page_kind: [evaluation]
 
 This study is a model demonstration of [[network-analysis|Transition Network Analysis]] applied to AI-in-education log data — treating the learner-chatbot interaction as a process to be modeled temporally rather than judged by product (final essay score). For [[english-education|language learning]] and AI tutoring generally, it shows that **learners of different proficiency levels interact with the same chatbot in qualitatively different ways**, and that the [[pedagogy|pedagogical]] value of [[ai-feedback-quality|AI feedback]] depends on how learners actually engage with it. The finding that lower-proficiency learners get trapped in a corrective loop while higher-proficiency learners negotiate meaning suggests that **AI writing tools may inadvertently widen proficiency gaps** unless designed to actively scaffold negotiation and dialogue for less-advanced learners — a directly actionable implication for [[scaffolding]] and [[student-modeling|adaptive chatbot design]].
 
-## Practical Implications
+## What this means for practice
 
-- **Design [[conversational-ai|chatbots]] to break the corrective loop.** For lower-proficiency learners, encourage clarification, negotiation, and metalinguistic dialogue rather than repeated "check my writing" cycles — for example, by [[prompt-engineering|prompting]] learners to explain *why* a correction is needed or to propose their own fix before revealing the answer.
-- **Model the process, not just the product.** Use [[network-analysis|transition network analysis]] (and related sequence/temporal methods) on interaction logs to reveal how learners actually use AI tools, rather than relying solely on output metrics or self-reports — which can diverge from real revision behavior.
-- **Differentiate support by proficiency.** Because high- and low-proficiency learners engage the same chatbot differently, adapt the interaction design (scaffolding, feedback framing, dialogue prompts) to each learner's level and [[metacognition|metacognitive]] readiness.
-- **Open the black box for evaluation.** Temporal methods like TNA let [[research-methods-aied|researchers]] and educators see whether feedback leads to genuine uptake, dialogue, or disengagement — informing better [[ai-ed-evaluation|evaluation of AI]] writing tools than error-rate or final-score metrics alone.
+- **Instructors.** Design chatbot interactions to break the corrective loop: for lower-proficiency learners, [[prompt-engineering|prompt]] them to explain *why* a correction is needed or to propose their own fix before the answer is revealed, instead of letting them repeat the "check my writing" cycle.
+- **Instructors.** Differentiate support by proficiency: because high- and low-proficiency learners engaged the same chatbot in qualitatively different ways, adapt scaffolding, feedback framing, and dialogue prompts to each learner's level and [[metacognition|metacognitive]] readiness.
+- **Designers.** Build negotiation into the [[conversational-ai|chatbot]] itself — clarification requests, meaning-negotiation prompts, metalinguistic questions — since low-proficiency learners' dialogue disproportionately triggered further corrective feedback rather than genuine negotiation.
+- **Researchers.** Model the process, not just the product: use [[network-analysis|transition network analysis]] (and related sequence or temporal methods) on interaction logs to see whether feedback produces uptake, dialogue, or disengagement, because output metrics and self-reports can diverge from actual revision behavior and error-rate or final-score measures alone cannot [[ai-ed-evaluation|evaluate]] an AI writing tool.
+
+## Limitations
+
+- The study covers 119 Japanese junior-high learners in a single course using one GPT-4o-powered chatbot, so the transition patterns are tied to that cultural, curricular, and model context and should not be read as general chatbot behavior.
+- It is a cross-sectional analysis of logged interactions (4,651 sessions; 21,061 interactions): it identifies behavioral differences by proficiency but cannot establish that AI scaffolding caused them.
+- The user_chat node is coarse — off-task talk, clarification requests, frustration, and social pleasantries are not distinguished — and automated coding of feedback versus chat reached only substantial agreement (Fleiss' κ = 0.70 and 0.71), so the transition probabilities are approximations rather than exact measures.
+- Immediate successful_uptake measures error repair only; it does not establish long-term language acquisition or retention, which would require longitudinal data.
 
 ## Connected Concepts
 

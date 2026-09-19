@@ -1,7 +1,7 @@
 ---
 title: "The End of Assessment? Disruption and Transformation in the Age of AI"
 created: "2026-08-21T13:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-education, ai-literacy, human-ai-collaboration]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, psychometrically-aware-ai]
@@ -14,9 +14,6 @@ confidence: medium
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] is collapsing the long-standing boundaries between learner, test, and assessor — an **epistemic disruption** in what counts as evidence of learning. These systems can be test-takers, test-makers, test-raters, *and* analysts/reporters simultaneously. Rather than merely adding a tool, AI dissolves the field's traditional representational-measurement paradigm. The authors argue assessment must transform from static measurement into an **evidence ecosystem** centered on meaning-making, justice, and AI literacy, led by a "cyborg" assessment professional fluent in both disciplinary assessment expertise and AI.
-
-## Core Finding
-
 
 ## Key Findings
 
@@ -32,13 +29,20 @@ confidence: medium
 
 A central transformation claim is that assessment shifts from extracting scores to constructing meaning from complex, hybridized systems. AI can surface relationships too complex for humans to detect alone, but it cannot generate the **"why"** — the moral and contextual lens through which meaning is co-constructed. The assessment professional becomes "sensemaker-in-chief," a translator between algorithmic data and human understanding, and dashboards become evolving evidence narratives rather than snapshots.
 
-## Practical Implications
+## What this means for practice
 
-- **Redesign what is assessed, not just how.** If AI participation in assessment is inevitable, the object of measurement must evolve from testing isolated knowledge to assessing how effectively students work *with* AI to interpret, apply, and evaluate knowledge. AI literacy becomes a foundational [[learning-gains|learning outcome]] for students and faculty.
-- **Treat AI equity audits as validity work.** As [[psychometrically-aware-ai|psychometrically aware AI]] is adopted, the field should audit training data, prompts, and results for representational bias — and resist treating dominant norms (e.g., standardized academic English) as neutral quality standards.
-- **Reconceive the assessor's role as auditor/translator.** Rather than guarding the purity of measurement, assessment professionals should position themselves as curators and stewards of algorithmic evidence — verifying, interpreting, and explaining AI-augmented results, and [[teacher-role|teaching]] others to question model reasoning.
-- **Pair AI scoring with [[human-in-the-loop-ai|human judgment]].** While [[automated-assessment|automated scoring]] offers speed and consistency, the authors emphasize unresolved questions of bias, fairness, and transparency — pointing to hybrid human-plus-AI scoring that keeps humans in the interpretive loop.
-- **Build the "cyborg" pathway deliberately.** Institutions should offer structured [[educational-development|professional development]] (prompting, algorithmic auditing, data stewardship) to move the workforce from low-AI-literacy quadrants toward fluent, justice-oriented assessment practice, in line with the CoP model.
+- **Instructors.** Redesign what is assessed, not just how: shift from testing isolated knowledge to assessing how effectively students work *with* AI to interpret, apply, and evaluate knowledge, and treat [[ai-literacy]] as a foundational [[learning-gains|learning outcome]].
+- **Instructors.** Reconceive your own role as auditor and translator of algorithmic evidence — verifying, interpreting, and explaining AI-augmented results and teaching students to question model reasoning — rather than guarding the purity of measurement.
+- **Administrators.** Treat AI equity audits as validity work: audit training data, prompts, and results for representational bias instead of treating dominant norms such as standardized academic English as neutral quality standards.
+- **Administrators.** Build the "cyborg" pathway deliberately through structured [[educational-development|professional development]] in prompting, algorithmic auditing, and data stewardship, because the two-axis AI-literacy x disciplinary-expertise framework places most current staff below the fluent quadrant.
+- **Administrators.** Pair [[automated-assessment|automated scoring]] with [[human-in-the-loop-ai|human judgment]], keeping people in the interpretive loop over the unresolved questions of bias, fairness, and transparency.
+
+## Limitations
+
+- This is a conceptual stance, not an empirical study: the authors state they do not offer settled accounts of AI's impact on assessment and do not presume a single trajectory, so the transformation claims are argued rather than tested.
+- The AI-literacy x expertise framework and the "cyborg" pathway are presented as a conceptual space rather than a developmental sequence, with positions labeled illustrative and non-hierarchical; movement through them is not demonstrated.
+- The one concrete case, the Generative AI in Assessment Community of Practice, is a self-selected closed cohort of roughly 80 members (plus about 130 affiliates) in its first year, which the authors describe as "still evolving" — it illustrates a field in transition rather than reporting outcomes.
+- The bias argument rests on cited examples rather than the authors' own data, such as the finding they attribute to Yang (2025) that AI image generators represent White individuals more accurately than people of color.
 
 ## Connected Concepts
 

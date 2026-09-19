@@ -1,7 +1,7 @@
 ---
 title: "Teaching with Generative Artificial Intelligence: Enhancing Critical Thinking and Ethical Awareness in Academic Writing"
 created: "2026-08-20T08:40:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking]
 technology: [generative-ai]
@@ -42,9 +42,19 @@ audience: [educators, instructional designers]
 
 - **Data analysis.** Inductive thematic analysis (Braun & Clarke) informed by grounded-theory coding (Corbin & Strauss), with open coding → axial coding → two overarching themes. Intercoder reliability was assessed on a random 20% sample; ChatGPT was used solely as an analytic cross-check, with final coding decisions retained by [[research-methods-aied|researchers]]. Researcher reflexivity and transparent documentation supported [[trust|trustworthiness]].
 
-## Implications for AI in Education
+## What this means for practice
 
-This study offers a transferable model for [[higher-ed|higher education]] courses seeking to harness [[generative-ai|generative AI]] productively rather than prohibit it. Its central lesson — that the educational value of AI lies not in the technology itself but in the **[[pedagogy|pedagogical]] intentionality** with which it is embedded in cognitive, metacognitive, and ethical frameworks — generalizes across disciplines and institutions. By aligning AI tasks with [[critical-thinking|Bloom's taxonomy]] and [[self-regulated-learning|self-regulated learning]], educators can convert AI tools into scaffolds for higher-order thinking and learner autonomy, while co-constructed classroom norms and reflective assignments uphold [[academic-integrity|academic integrity]] and [[ethics|ethical literacy]]. The study's emphasis on documenting and justifying AI use (via screenshots and analytical reports) speaks directly to authentic, process-visible [[assessment]] design in AI-rich classrooms. For institutions, it reinforces the need to support [[ai-literacy|AI literacy]], [[prompt-engineering|prompt engineering]] skill, and [[curriculum-design|curriculum]] redesign so that both [[teacher-role|educators]] and students engage with AI critically and responsibly.
+- **Instructors.** Bound AI use to a defined slice of the assignment and grade the verification around it: students used ChatGPT only for the Introduction and Innovation sections of their research proposal, with screenshots of every prompt and a written justification for each suggestion accepted or rejected.
+- **Instructors.** Require students to trace and check every AI-supplied citation. The study's gains in [[critical-thinking|critical thinking]] came from confronting ChatGPT's [[hallucination-risk|hallucinations]] directly, not from being warned about them.
+- **Instructors.** Pair a generative tool with a language-focused one — ChatGPT for idea generation, gap identification, and literature review, Writefull for grammar, vocabulary, and academic tone — and ask students to articulate why they reject suggestions that change the meaning or register of their text.
+- **Designers.** Sequence AI tasks against [[critical-thinking|Bloom's revised taxonomy]] and [[self-regulated-learning|self-regulated learning]] phases, moving from recalling structure and rules, through prompt design and draft generation, to analyzing bias and [[hallucination-risk|hallucinations]] and judging source credibility, and leave the final synthesis to the student. The authors locate the educational value in this [[pedagogy|pedagogical]] intentionality rather than in the tools themselves.
+- **Designers.** Build [[ai-literacy|AI literacy]] and [[prompt-engineering|prompt engineering]] into the course rather than treating them as assumed skills, and make documentation of AI use — screenshots, justifications, reflective reports — a graded, process-visible part of [[formative-assessment|formative assessment]], the design element that displaced accountability onto students.
+
+## Limitations
+
+- The evidence is 24 group reflective reports of about two pages each, submitted by 96 final-year undergraduates who self-organized into groups of four in a single English for Professional and Academic Communication course at one Spanish university, so the accounts are group-level and course-bound rather than 96 independent perspectives.
+- Intercoder reliability was checked on a randomly selected 20% of the reports, and there is no independent outcome measure: the claims about strengthened critical thinking and assessment skill rest on students' own analytical reports, screenshots, and revisions.
+- The intervention deliberately touched only two research-proposal sections, Introduction and Innovation, so it documents a bounded slice of the writing process; the authors state that the study is situated in a computing-focused context at a single Spanish institution and describe transfer to other settings as instructor adaptation rather than demonstrated generalization.
 
 ## Connected Concepts
 
