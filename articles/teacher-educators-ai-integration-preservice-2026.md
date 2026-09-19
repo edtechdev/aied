@@ -1,7 +1,7 @@
 ---
 title: "Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
 technology: [generative-ai]
@@ -43,6 +43,14 @@ The study adopts a qualitative interpretive phenomenological approach in the tra
 ## Implications
 
 The authors read the trust and authenticity crisis through Mezirow's transformative [[learning-theories|learning theory]] as a disorienting dilemma, and the most successful participants as moving from excluding AI toward redesigning practice around human–AI entanglement, in Fawns's (2022) sense of entangled pedagogy. They argue for redefining AI literacy from tool proficiency to critical, ethical, and epistemological competence, for making human–AI processes visible and evaluable, and for cultivating critical AI agency: the capacity to evaluate outputs, resist the colonization of professional judgment, and keep a clear professional identity. Because AI literacy demands differ across disciplines and communities, they hold that curricular responses must be situated rather than universal. Practically, they call for formalizing AI literacy as a curricular requirement comparable to [[writing-education|academic writing]] literacy, delivered by specialists combining pedagogical and technological expertise, plus institutional funding for professional tools and coherent cross-college policy. They also cite OECD (2026) evidence that [[generative-ai|generative AI]] supports learning under clear pedagogical principles but otherwise yields a "mirage of false mastery," including a finding that students using AI were 48% more successful at tasks while performance dropped by 17% when assistance was withdrawn.
+
+## What this means for practice
+
+- **Teacher educators.** Move at least one high-stakes assignment onto in-class or process evidence — presentations, peer teaching, elevator pitches, in-class visual models, prompt records, document version history, group-contribution logs — because these 13 participants found take-home written work could no longer evidence learning.
+- **Instructors.** Teach the classical method before AI assistance and say so in the brief: participants insisted students learn the traditional approach to text adaptation first, warning that AI use before professional mastery erodes expertise.
+- **Teacher educators.** Sequence [[ai-literacy|AI literacy]] across the study years and pair it with one stated course policy, since what one lecturer allowed another forbade and no institution in the study ran a formal AI literacy course.
+- **Institutions.** Fund the tools centrally: 9 of 13 participants paid for advanced AI tools from their own pockets and warned that quality access would otherwise track ability to pay, deepening the [[digital-divide|digital divide]] among pre-service teachers.
+- **Instructors.** Use AI where it buys differentiation rather than substitution — five participants had pre-service teachers build whole teaching units with AI and two guided adaptation to a specific pupil profile including [[special-education|special needs]] — and check the output against that profile.
 
 ## Limitations
 

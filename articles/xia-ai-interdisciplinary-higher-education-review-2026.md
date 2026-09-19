@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in interdisciplinary higher education: A systematic review on opportunities, challenges and future directions"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration]
 ethics: [equity-in-ai-education, ethics]
@@ -44,6 +44,21 @@ methods: [meta-analysis-systematic-review]
 - **Address equity and access explicitly:** [[stakeholders|Policymakers]] should ensure equitable access to AI tools and differentiated support by AI literacy, since access gaps, discipline-specific barriers and uneven literacy risk creating new disparities.
 - **Align AI use with sustainability and citizenship goals:** Programs should connect AI-supported interdisciplinary work to [[sustainability]] and global citizenship, embedding ethical reflection alongside technical training.
 - **Strengthen evaluation rigor:** Future studies should adopt longer interventions, larger samples and validated assessment instruments, and report effect sizes to counter the field's reliance on short, context-specific and hard-to-generalize designs.
+
+## What this means for practice
+
+- **Instructors.** Design AI-supported activities that mediate disciplinary boundaries rather than substitute for human thinking, keeping AI in the assistant role it played in 43 of the 59 reviewed studies.
+- **Administrators.** Establish policies on AI ethics, bias, transparency and student data privacy before scaling AI across programs, so integration is institutionally guided rather than technology-driven.
+- **Administrators.** Fund sustained professional development and target access gaps explicitly, since the evidence base comes mostly from technologically advanced regions and educators need to move from passive users to active co-designers.
+- **Instructors.** Connect AI-supported interdisciplinary work to sustainability and global citizenship goals, embedding ethical reflection alongside technical training.
+- **Researchers.** Adopt longer interventions, larger samples and validated assessment instruments and report effect sizes, given the field's reliance on short, context-specific designs.
+
+## Limitations
+
+- The search excluded gray literature and was conducted only once, so recent studies in a rapidly evolving field may have been missed.
+- The review used no meta-analytic procedures and reported no effect sizes, limiting the practical applicability of its findings.
+- Generalizability is constrained by geographic concentration: most included studies came from technologically advanced regions with limited representation of under-resourced educational contexts.
+- The corpus is strongly learner-centric — students were the impacted group in 57 studies, teachers in 26 and staff in only 4 — so institutional and staff-level effects are thinly evidenced.
 
 ## Connected Concepts
 

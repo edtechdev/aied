@@ -1,7 +1,7 @@
 ---
 title: "AI Personas: Can LLMs Replace Fieldwork in Experiential Learning?"
 created: "2026-09-16T08:12:20-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [limitations-in-aied-research]
 pedagogy: [experiential-learning, social-emotional-learning]
@@ -39,6 +39,14 @@ This is a qualitative case study of a single bounded context: the HEHI 303 Exper
 ## Implications for Teaching Practice
 
 The authors' recommendations are conditional rather than enthusiastic. AI personas are appropriate when physical access to communities is impossible or unsafe, and as low-stakes rehearsal before real fieldwork, for practicing interview guides, stakeholder dynamics and question sequencing. They should not be treated as equivalent substitutes where emotional complexity, cultural specificity and interpersonal dynamics are themselves the learning objective. The suggested mitigation is structural: pair AI role-play with real interviews so students can compare, and train students to interrogate AI output for inconsistency, bias and cultural generalization rather than accept it as evidence. [[human-in-the-loop-ai|Instructor oversight]] is load-bearing throughout, because over-generalized or inaccurate persona claims (for instance, assuming all students had online access) can pass into student analysis unchecked.
+
+## What this means for practice
+
+- **Instructors.** Pair every AI persona session with a real interview or community contact so students can compare emotional texture and disagreement against what the personas omit, and debrief that gap explicitly: Limitations and Gaps was the weakest indicator across all ten contexts (mean 3.20).
+- **Instructors.** Require the seven-step persona routine — specify the task, define role and context, request detailed background, state the role-play, state the interview aim, provide an interview guide, ask for a conversational tone — and insist on locally specific detail, since authenticity was highest where prompts named concrete populations and settings (mean 4.38).
+- **Curriculum designers.** Reserve AI personas for situations where community access is unsafe or impossible, and for low-stakes rehearsal of interview guides and question sequencing; do not let them displace the interpersonal objectives of an [[experiential-learning|experiential learning]] course.
+- **Instructors.** Cap how many personas a student group tries to run inside one dialogue: 30 simultaneous Syrian women personas exceeded the model's capacity and the discussion collapsed into sequential interviews, landing Group Dynamics & Coherence at a mean of 3.80.
+- **Researchers.** Never treat the Limitations and Gaps rating as a standalone quality metric: the two raters agreed exactly only 60% of the time on that indicator, against 100% exact agreement for Educational Alignment and Diversity of Perspectives.
 
 ## Limitations
 

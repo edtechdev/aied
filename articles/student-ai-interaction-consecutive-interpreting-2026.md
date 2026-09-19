@@ -12,7 +12,7 @@ audience: [instructors, researchers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:21-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 ---
 
 > **Synthesis:** Twenty-two Chinese-native interpreting trainees completed bidirectional computer-assisted consecutive interpreting (CACI) tasks in AI-enabled systems built on automatic speech recognition and machine translation, while eye-tracking, pen-recording and voice-recording captured how they actually divided attention between the AI output and their own note-taking. Cluster analysis of 264 stage-level observations produced four interaction profiles — Intensive Engagers, Fast Scanners, Traditionalists and Frequent Switchers — and 58.3% of observations shifted profile between the comprehension and production stages of the same task. Comprehension-stage patterns, but not production-stage patterns, were significantly associated with [[language-learning|interpreting quality]], and the AI-heaviest profile consistently scored lowest. The study shows that [[student-engagement|student-AI interaction]] in a demanding bilingual task is heterogeneous, unstable across task phases, and not automatically beneficial.
@@ -37,6 +37,21 @@ Participants performed bidirectional tasks in a CACI environment that integrated
 - Make strategy visible: reflection and [[self-report-measures|self-report]] exercises are needed precisely because interaction patterns are not introspectable.
 - Train for stage-specific strategy, since the same student may benefit from AI support while comprehending and from independent production while speaking.
 - Be cautious about generalizing from a 22-participant exploratory study, especially where output-stage effects did not reach significance.
+
+## What this means for practice
+
+- **Instructors.** Coach a stage-specific division of labor — AI reference while comprehending, self-generated notes while producing — because comprehension-stage patterns predicted [[language-learning|interpreting quality]] while output-stage patterns did not.
+- **Instructors.** Put a ceiling on AI reading during the listening stage: the Intensive Engagers cluster read the AI output 0.83 of the time and scored significantly lower on fluency of delivery (5.46 versus 6.17–6.46) and target language quality (5.70 versus 6.28–6.67) than every other cluster, while gaining nothing in information completeness.
+- **Instructors.** Debrief with cued retrospection rather than a lecture on technique: the strategy is hidden in where students look, and 58.3% of observations show the pattern shifting between stages of the same task, so no single prescription will hold.
+- **Researchers.** Analyze at the stage level rather than the task level and pair interaction measures with product ratings, since 41.7% of observations changed profile across stages and only stage-specific models surfaced performance differences.
+- **Researchers.** Treat targeted CACI training as a candidate explanation for behavioral stability — trained participants held their pattern 66.7% of the time against 50% for untrained — and test it against institutional effects, which this cross-sectional comparison cannot separate.
+
+## Limitations
+
+- Twenty-seven Master's interpreting students were recruited and 22 were analyzed after five were excluded for incomplete eye-tracking data; the 264 stage-level observations are nested within those 22 participants, which the authors state does not compensate for the limited participant-level sample.
+- Trained participants (n = 11) came from a single institution and untrained participants (n = 11) from three others, so the authors cannot separate training effects from institutional influences on academic and socio-cultural context.
+- Output-stage interaction patterns showed no statistically significant differences in interpreting quality, and quality depended on ratings from two expert interpreters on an 8-point scale (inter-rater reliability 0.774–0.854).
+- Materials were eight ChatGPT-4o-drafted speeches of about one minute (110 English words against roughly 135 Chinese words) with pre-recorded ASR and MT outputs matched for accuracy and BLEURT-20 score, so the AI behavior was fixed rather than live and the design cannot trace change over time.
 
 ## Connected Concepts
 - [[language-learning]] — the task sits in interpreter training, a high-stakes branch of language education

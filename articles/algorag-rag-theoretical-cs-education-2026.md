@@ -1,7 +1,7 @@
 ---
 title: "AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [problem-solving]
@@ -58,6 +58,20 @@ The paper's most transferable contribution is its critique of [[benchmark]] metr
 The [[limitations-in-aied-research|limitations]] are stated plainly. No controlled user study was run, so educational effectiveness is inferred from the rubric rather than measured through outcome data; the rubric itself is scored by the researchers, not by independent instructors. The knowledge base was assembled from public resources and may lag newer algorithmic results. Results depend on the external DeepSeek V3 API, adding latency and availability risk. At 38.0 seconds per query the system fits asynchronous study — problem sets, exam review, self-paced homework — but not live classroom interaction; prompt caching, concurrent retrieval and quantisation are named as remedies. The 42% worked-example inclusion and the weak recurrence-relations score are treated as retrieval-index problems to be fixed by reweighting toward practice problems and adding proof templates.
 
 A second gap sits between the metrics and the risk they cannot see. ROUGE and the rubric measure form and coverage, not logical validity; a response can be well-structured and confidently wrong. RAG's grounding in authoritative textbooks is the paper's stated answer to [[hallucination-risk]], but the evaluation design cannot detect a subtly incorrect derivation, which is why the authors call for formal reasoning modules (recurrence solvers, lightweight theorem provers) and controlled [[learning-gains]] studies before claims about [[problem-solving]] improvement can be sustained.
+
+## What this means for practice
+
+- **Instructors.** Assign retrieval-augmented TCS support to asynchronous work only: a mean of 38.0 seconds per answer fits problem sets, exam review and self-paced homework, not live classroom questioning.
+- **Instructors.** Triage its proofs with a rubric rather than similarity scores — BLEU-4 was 0.0000 on all 179 test questions and ROUGE-1 F1 only 0.0963, while the six-criterion pedagogical rubric scored 0.7620 — and say so to students, who may otherwise read a fluent proof as a correct one.
+- **Instructors.** Require a concrete worked example before students accept an answer (only 42% of responses included one) and hand out the underlying practice-problem bank so students can compare the retrieved solution with their own route.
+- **Researchers.** Do not read low BLEU or ROUGE values as evidence of mathematical error, or a high rubric score as evidence of correctness: the evaluation cannot detect a subtly wrong derivation, so pair any deployment with formal checkers and a controlled [[learning-gains]] study.
+
+## Limitations
+
+- **No user study.** The authors state they have not conducted a controlled study, so educational effectiveness is inferred from a rubric scored by the researchers rather than from measured [[learning-gains]], and no learning-outcome data were collected.
+- **Skewed and thin test set.** The 179 questions are dominated by asymptotic analysis (89 items), so per-topic comparisons rest on 6 items for sorting and 8 for divide-and-conquer.
+- **Completion is not correctness.** The 100% success rate records only that all 179 questions were answered inside the 240-second timeout; the surface metrics (BLEU-4 = 0.0000 on every item) carry no information about validity.
+- **External API and a static knowledge base.** Generation depends on the DeepSeek V3 API, which the authors name as an external latency and availability constraint, and the knowledge base was assembled from publicly available resources that may have coverage gaps for newer algorithmic results.
 
 ## Connected Concepts
 - [[rag]]

@@ -1,7 +1,7 @@
 ---
 title: "LLMs Unplugged: Teaching Resources for a ChatGPT World"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [experiential-learning, pedagogy]
@@ -64,6 +64,21 @@ The paper positions itself as a practitioner contribution, and its evidentiary c
 The stated rationale is that developing a mental model of how LLMs work "should not require a computer science degree or months of study", and that as LLMs become central to text work this understanding is "not just pedagogically valuable but practically necessary". The author is equally explicit about the limits of the ambition: LLMs Unplugged will not prevent an epistemological crisis, nor stop people forming attachments to [[conversational-ai|chatbots]], but better understanding of what LLMs are and are not is treated as a precondition for informed use decisions and [[critical-thinking]] about their outputs.
 
 One design question the paper leaves open is how far hands-on tallying should scale before the tool-based route (pre-tokenised booklets) becomes the default, and what is lost pedagogically when it does.
+
+## What this means for practice
+
+- **Instructors.** Run the full 90-minute core plan — Introduction 15, Training 20, Generation 20, Pre-trained Generation 20, Closing 15 — and expect the room to engage only at the Generation stage, after the first shareback of generated text.
+- **Instructors.** Keep students hand-tallying the first model even though pre-trained booklets exist, and switch to the [[open-source]] tool only to scale: it tokenizes any document, so you can pre-train on medical case studies, legal documents, poetry or your students' own essays.
+- Use the synthetic-data extension to make model collapse visible in one session, where students train a new model on their own generated text and watch rare words vanish as common phrases dominate.
+- Organize participants in groups of two to three per model and swap models between groups during Extensions, so peer comparison rather than delivery carries the concept.
+- Do not gate [[ai-literacy]] on prior programming or mathematics: the material assumes neither, and the majority of the roughly 400 participants were senior Australian Public Service leaders rather than computer science students.
+
+## Limitations
+
+- The author states plainly that the project has not conducted pre/post testing of conceptual understanding, run control groups without the intervention, or gathered quantitative learning-outcome data, so the reported evidence is qualitative reception only.
+- The figure of approximately 400 participants describes delivery reach across many sessions rather than a recruited study sample, and the audiences were session attendees dominated by senior Australian Public Service leaders with varied expertise.
+- The claimed engagement pattern — including the "inflection point" after the first shareback — comes from facilitator observation rather than any instrument, and several Extensions are described as less battle-tested across classroom settings.
+- Delivery was confined to one institution, the Australian National University, over a single year and to session sizes of five to fifty people, with no comparison condition against a conventional data-driven lesson.
 
 ## Connected Concepts
 

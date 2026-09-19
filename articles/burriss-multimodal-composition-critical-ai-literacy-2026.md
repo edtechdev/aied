@@ -1,7 +1,7 @@
 ---
 title: "\"Young Scholar[s] on the Beat\": Multimodal Composition as a Form of Critical AI Literacy Pedagogy"
 created: "2026-09-14T06:10:00-04:00"
-updated: "2026-09-14T06:10:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [agency, ai-literacy]
 pedagogy: [creativity, critical-pedagogy, storytelling-in-education, student-engagement]
@@ -46,6 +46,21 @@ confidence: high
 - **[[scaffolding|Scaffold]] collaboration and inventory expertise:** Teachers can build collaboration norms, run a short genre study, and take stock of student skill in videography and editing up front — especially where these affordances are not already present in the classroom.
 - **Teachers need openness, not AI expertise:** Open-ended AI literacy work is feasible as long as educators are willing to explore alongside students; joint student–teacher investigation of a specific system (such as electronic hall passes, not all of which are AI) can surface and address [[misconceptions]] while deepening technical knowledge.
 - **Broaden how AI literacy is assessed:** Existing [[ai-literacy|AI literacy]] scales and competency frameworks assume individually measurable performance, excluding collaborative and creative expression; evidence such as reflections, [[multimodal]] artifacts, and civic discourse can complement those measures.
+
+## What this means for practice
+
+- **Instructors.** Assign low-stakes multimodal composition — a short video PSA on an AI ethics issue students choose — because 15 of the 18 end-of-unit survey responses said making the video deepened their understanding of AI ethics.
+- **Instructors.** Anchor the unit in students' own encounters with AI, such as school surveillance, electronic hall passes and plagiarism detection, which is where this class located the ethical stakes.
+- **Instructors.** Develop collaboration norms and inventory student expertise in videography and editing at the outset, since this class already had both and classrooms without them will need to build them deliberately.
+- **Instructors.** Substitute lower-overhead products — infographics, short presentations, graphic-novel panels or mini-podcasts — when time or materials make live-action film impractical.
+- **Researchers.** Assess AI literacy with collaborative and multimodal evidence such as reflections, artifacts and civic discourse, since existing AI literacy scales assume individually measurable performance.
+
+## Limitations
+
+- The study rests on a single cohort of 22 eleventh-grade students in one urban district's application-based STEM research program, with no formal summative assessment of what they learned.
+- The classroom already had strong collaboration norms and substantial student video expertise, so the unit's feasibility in ordinary classrooms is untested.
+- The evidence is small and largely self-reported: 7 groups' final videos, 18 end-of-unit survey responses and 12 daily reflections.
+- The researchers' own instruction shaped what students made — the AI Bill of Rights discussion and the PSA genre study influenced topic choices — and some technical terms (e.g., "failsafe") were never explained, which the authors concede.
 
 ## Connected Concepts
 

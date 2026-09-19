@@ -1,7 +1,7 @@
 ---
 title: "Analysing AI utilisation in education through learner question types: A constructivist approach"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [constructivist, scaffolding]
@@ -46,6 +46,20 @@ confidence: high
 - **Aggregate question data for [[curriculum-design|curriculum]] decisions:** Patterns of questions reveal topics where students struggle, letting instructors adjust content, sequence, or support before end-of-term assessment exposes gaps.
 - **Plan for what NLP cannot yet do:** Because models confuse [[critical-thinking|higher-order]] facilitator and co-learner questions, deployments should pair classification with explainable outputs, bias checks, and [[guardrails|ethical guidelines]] rather than relying on automation alone.
 - **Broaden the evidence base beyond IT:** The corpus is confined to IT courses, so generalizing to [[humanities-education|humanities]], social sciences, and [[stem-education|STEM]] requires cross-disciplinary and longitudinal validation before institutional-scale adoption.
+
+## What this means for practice
+
+- **Instructors.** Route higher-order questions to human review: the best model reached 96.67% precision on knowledge-transmitter items but only 78.79% on facilitator items, so level 2 and level 3 labels need validation before they drive [[feedback]].
+- **Instructors.** Read class question profiles as a diagnostic signal and prompt escalation when a learner keeps asking only level 1 factual questions, rather than answering on the strength of the classification alone.
+- **Designers.** Embed classification in the LMS with instructor override and explainable outputs, and plan for [[discipline-specific-aied|domain-specific]] phrasing to be misread as cognitive depth, one of the three recurring error patterns.
+- **Researchers.** Replicate the pipeline in other disciplines before institutional-scale adoption, since the corpus is confined to information technology courses at a single Australian university.
+
+## Limitations
+
+- The corpus is 434 learner questions contributed by only 11 students across 12 information technology courses, all at one Australian university.
+- The balanced 582-question set was built partly from synthetic examples produced by back-translation and paraphrasing, and the authors note this may have pushed models toward lexical patterns rather than semantic depth.
+- Model comparison rested on a 15% held-out test split of that 582-question set, and inputs were truncated to a 128-token maximum length.
+- Category confusability is unresolved in the labels themselves: fine-tuned BERT reached 92.00% recall on co-learner questions at only 74.19% precision, indicating substantial overlap with the facilitator category.
 
 ## Connected Concepts
 

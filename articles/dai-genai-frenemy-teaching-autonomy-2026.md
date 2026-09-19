@@ -1,7 +1,7 @@
 ---
 title: "GenAI as a Frenemy in Teaching: Perceived Autonomy and Risks"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading, educational-development, human-ai-collaboration, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
@@ -43,6 +43,21 @@ confidence: high
 - **Target the student-misuse concern directly:** Because teachers' worries centered on learners rather than themselves, support should cover assessment redesign, teaching students to critique AI output, and integrating [[ethics|AI ethics]] into the [[curriculum-design|curriculum]], so that concerns about [[cognitive-offloading|overreliance]] and shortcuts are met with pedagogy rather than prohibition.
 - **Contextualize examples by discipline:** Teachers judged adoption case by case, so sharing [[discipline-specific-aied|discipline-specific]] examples aligned with real instructional needs is more persuasive than generic tool demonstrations.
 - **Fund [[ai-literacy|AI literacy]] as infrastructure:** Coordinated [[governance|institutional]] investment in literacy programs, professional development and [[educational-policy-ai|policy]] guidance is the lever that converts individual experimentation into sustained, thoughtful integration.
+
+## What this means for practice
+
+- **Teachers.** Place each GenAI task on a shared automation scale before adopting it and state the level you settle on — 130 of 287 surveyed teachers chose "teacher assistance" and 94 "partial automation", against a single respondent endorsing full automation.
+- **Institutions.** Sequence [[educational-development|professional development]] by experience: perceived ease of use predicted intention only among the 225 teachers who had already used AI in their teaching (β = .138), while the full-sample path was non-significant (.068).
+- **Policymakers.** Publish explicit acceptable-use expectations rather than reassurance, because risk aversion reduced adoption intention (-.163, p < .001) without reducing perceived usefulness (-.063).
+- **Educators.** Keep two judgments separate in local decisions: "useful" is not "safe to delegate", since perceived usefulness dominated intention (.832) while perceived [[agency|autonomy]] had no direct effect on it (.026).
+- **Teachers.** Meet student-facing risks with task design: the 285 open-text responses clustered on cheating, weakened foundational and higher-order [[critical-thinking|thinking]], [[hallucination-risk|hallucinations]], reduced human interaction, copyright, privacy and bias.
+
+## Limitations
+
+- **Web-based panel of prior users.** Only teachers with prior GenAI experience were allowed to participate (319 respondents screened down to 287, recruited through Prolific at about £2.40 each), so the model describes teachers already inclined to try it and says nothing about first-time users.
+- **Single-source, cross-sectional self-report.** One questionnaire supplies both the predictors and behavioral intention, and data were collected between September 2023 and May 2024, so adoption cannot be tracked over time.
+- **Online sample skew.** The authors state that respondents completing the survey online may have higher digital literacy and more favorable perceptions of GenAI than other teacher groups.
+- **A construct was dropped for discriminant validity.** Attitude had to be removed from the model because its correlations with behavioral intention (.929) and perceived usefulness (.931) exceeded the square roots of their AVEs, so the 79.8% explained variance is a property of the trimmed model.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction, well-being]
@@ -54,6 +54,21 @@ Sequencing followed the age-graded spiral of sex education: elementary grades ge
 Each implication is paired with the tension it raises. For platform designers the paper suggests escalation channels rather than open observation — surfacing safety-critical moments to a designated adult instead of exposing full conversations — while flagging that the same teachers who wanted visibility also rejected an always-on presence as overreach, and that monitoring students know about may chill the disclosures that make a companion valuable to an isolated student; it further suggests treating agreeableness as an age-sensitive parameter with more built-in challenge for younger users, while noting that friction adults endorse may drive students to unmonitored alternatives. For schools and districts it suggests codifying the escalation ladder teachers already improvise, with shared thresholds for when noticing becomes a conversation and a conversation becomes a referral, and naming a curricular home for companion literacy — while acknowledging that codifying relational judgment risks flattening it into a compliance checklist. For policymakers it suggests regulating the jurisdictional vacancy itself, not only what companions may say to minors but which adult is responsible for knowing, while warning that a duty assigned without resources becomes an unfunded screening mandate.
 
 The limitations are stated openly: 33 US teachers recruited through Prolific skew toward those already comfortable with online platforms and cannot represent US schools let alone other systems; teachers responded to hypothetical cards, and what they said they would do may differ from what they would do with a real student, parent and principal attached; the cards bundle relational role with setting, legitimacy, privacy and age sensitivity, so differences observed may reflect those co-varying features; and the account is one-sided by design, excluding counselors, parents and students themselves. The authors' closing warning is that without an established claim, the adults with the most consistent access to children default to the one role that is codified — surveillance and referral — so that companion literacy would be practiced as screening rather than education, and the students most in need of guidance would receive the least of it.
+
+## What this means for practice
+
+- **Teachers.** Discuss concrete companion scenarios rather than adding a standalone unit: teachers overwhelmingly preferred case discussion over direct instruction, many wanted to reuse the scenario cards, and almost no one wanted a separate course.
+- **Teachers.** Sequence by grade level — elementary grades get "the companion is a computer, not real" and what is safe to share, middle school gets relationships and warning signs, high school gets judgment about what role AI should play in one's own life.
+- **Designers.** Surface safety-critical moments to a designated adult rather than exposing full conversations; teachers wanted visibility into boundary crossings but rejected always-on monitoring, which may chill the disclosures that make a companion valuable to an isolated student.
+- **Administrators.** Codify the escalation ladder teachers already improvise — noticing, a private conversation, a referral — with shared thresholds, and name a curricular home in health, English, digital citizenship, a technology special or counselor-led lessons.
+- **Administrators.** Resource the relational work rather than assigning it: 13 of 33 teachers said they lacked the training to handle relational cases and none reported guidance specific to student–AI relationships, while teachers described counselors stretched across 600–700 or 2,500 students.
+
+## Limitations
+
+- The sample was 33 US teachers recruited through Prolific, which skews toward teachers already comfortable with online platforms and cannot represent the full range of US schools, let alone other countries' educational systems.
+- Teachers responded to hypothetical scenario cards, so what they said they would do may differ from what they would do with a real student, parent and principal attached.
+- The cards bundle relational role with setting, legitimacy, privacy and age sensitivity, so the differences observed may reflect those co-varying features rather than the role itself.
+- The account is one-sided by design: counselors, parents and students themselves were not interviewed, and the policy landscape is changing quickly enough that teachers' judgments may shift as incidents and regulation accumulate.
 
 ## Connected Concepts
 

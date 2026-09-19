@@ -1,7 +1,7 @@
 ---
 title: "Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and Instructor-Facing Problem-Solving Analysis"
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-16T09:40:00-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [misconceptions]
 technology: [learning-analytics, visualization]
@@ -69,6 +69,21 @@ Aggregate counts show how often each difficulty pattern occurred but not how a s
 Instructors from both deployments reported that making intermediate solution attempts visible — rather than only the final outcome — was the dashboard's core value. The color-coded attempt history let them see which lines were correct, merely out of place, or incorrect distractors, and to judge whether a student was close to the solution or repeatedly applying the same misconception. The Houston instructor valued designing problems without friction, using "bite-size" Parsons problems as short in-class exercises, using the summarizing slides to explain common mistakes in class, and the fact that students could not copy solutions from AI and submit them; the Aalto instructor described the AI-assisted analysis as a useful starting point but still wanted to review student traces before deciding on feedback or intervention. Both instructors supplemented the AI-generated reports with their own reading of interaction traces. Class-level aggregation was reported as particularly valuable, since identifying recurring difficulties across a cohort is impractical through manual inspection alone.
 
 For [[learning-design|instructional design]] and [[assessment]] practice, the paper's claim is that [[learning-analytics]] process data can be repurposed from a research instrument into an instructor-facing resource for targeted [[formative-assessment|formative]] intervention, and that the same event-capture and AI-analysis pipeline operated without modification across two programming languages, two course levels, and two institutions while revealing similar recurring difficulties among CS1 students and upper-division majors. Three limitations are stated: the comparison was constrained to exception handling, the only topic common to both curricula, and may not generalize to other domains; the Aalto cohort was small (n = 36), limiting cross-deployment weight; and the dashboard's value depends on [[student-engagement|instructor engagement]]. Future work follows five directions — isomorphic variants to separate understanding from accidental correctness, automated puzzles generated from recurring distractor selections, real-time alerts on repeated failed arrangements, an in-dashboard state-transition graph, and systematic analysis of the quality of the AI-generated reports themselves. The authors also note the tool's potential as a research instrument for large-scale analysis of programming behavior, contingent on wider adoption, and intend to release the complete implementation.
+
+## What this means for practice
+
+- **Instructors.** Read the per-block attempt history before deciding on feedback: green marks a block in the correct position, yellow a block that belongs elsewhere and red a distractor, which separates a student who is close from one repeating the same misconception.
+- **Instructors.** Use class-level aggregation to choose what to reteach — at Houston, exception type confusion was the dominant pattern for 90% of students with incorrect attempts on *Safe Divide*.
+- **Instructors.** Target return-for-raise substitution directly, since it recurred at both sites: 60% of Houston students with incorrect attempts on *Safe Divide* wrote `if (b == 0) return 0` instead of throwing, and 50% of Aalto students with incorrect attempts substituted return for `raise ValueError` on *Safe Integer*.
+- **Instructors.** Keep the AI-generated difficulty report inside your own reading of the traces: the Houston instructor used the class summarizing slides to explain common mistakes, and the Aalto instructor still reviewed traces before deciding on feedback.
+- **Software developers.** Keep the analysis instructor-gated the way Pulla does — the GPT-4.1-mini report runs only when an instructor invokes it, and no feedback reaches a student until the instructor approves it.
+
+## Limitations
+
+- The cross-deployment comparison was constrained to exception handling, the only topic common to both curricula, and may not generalize to other domains.
+- The Aalto cohort was small (n = 36) and its students worked online at their own pace without institutional authentication, which limits the weight of the cross-deployment comparison.
+- The dashboard's value depends on instructor engagement: AI-assisted analysis runs only on demand, and the instructor evidence comes from two instructors, one per site.
+- The tool was deployed in two courses, which the authors state is insufficient to support strong generalizability claims; the control-flow ordering pattern is confounded with the differences in language, course level and student population between the two sites.
 
 ## Connected Concepts
 

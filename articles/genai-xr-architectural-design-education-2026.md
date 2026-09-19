@@ -1,7 +1,7 @@
 ---
 title: "Generative AI and Extended Reality in Collaborative Architectural Design Education: An Exploratory Studio Study"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [design-thinking]
 pedagogy: [collaborative-learning, creativity, self-efficacy]
@@ -55,6 +55,21 @@ The authors offer three non-exclusive explanations for the declines in confidenc
 The limitations are stated plainly: a small single-studio sample with limited statistical power; intact self-selected teams whose pre-existing dynamics may have shaped teamwork outcomes; two teams lost to motion sickness; a short intervention involving two unfamiliar technologies with extra GenARch-specific tutorials; technical limitations in 2D-to-3D generation, scale fidelity, latency and contextual data that were inseparable from the educational experience; low-to-moderate inter-rater agreement based on only seven team products; correlations resting on four GenARch teams; and no systematic observation or reflective-journal data, leaving the qualitative analysis dependent on retrospective group-interview accounts. One notable negative finding for platform design is that giving every participant an individual headset did not by itself produce coordinated collaboration — shared attention had to be actively maintained, and teams sometimes resorted to taking turns or working individually.
 
 Future work proposed is to refine GenARch on interaction [[usability-research|usability]], dimensional fidelity, controllability, traceability, shared attention and motion comfort, then evaluate it through longitudinal and repeated deployments across multiple studios with richer process measures. The broader argument is that multi-user access alone does not guarantee [[group-work]], and that integration decisions should consider when each technology is introduced, how students move between representations, and how team collaboration and designer [[agency]] are sustained.
+
+## What this means for practice
+
+- **Instructors.** Sequence the tools to the [[design-thinking|design stage]] rather than deploying both at once: students had nothing to encode in a prompt at the earliest ideation stage, and [[virtual-and-augmented-reality|XR]] became valuable only once a 3D artifact existed to inspect for scale, adjacency, lighting and site context.
+- **Instructors.** Budget for the learning curve before judging the tools, because GenARch teams showed larger relative declines in design [[self-efficacy]] confidence (β = −1.675) and outcome expectancy (β = −2.088) while simultaneously learning two unfamiliar interaction methods.
+- **Designers.** Ship editable, component-level generation with reproducible prompts and accurate site context; students asked to build on their own SketchUp blocks, sketches and photographs rather than accept or reject a whole generated model.
+- **Designers.** Do not treat one headset per student as a solution to collaboration: with every member equipped, teams reported shared attention breaking down, with one team saying communication "didn't really work out" because members "were looking at different areas."
+- **Researchers.** Keep conflict management in the teamwork instrument — it produced the only significant positive difference-in-differences estimate (β = 0.479) — and treat the tool-quality correlations from four GenARch teams as hypotheses rather than findings.
+
+## Limitations
+
+- Twenty-seven students in seven self-selected teams (N = 16 GenARch, N = 11 control) remained after two of nine teams declined because at least one member reported severe motion sickness; the authors state this small sample from a single [[engineering-education|design studio]] limits statistical power.
+- The intervention was short: a 15-minute tutorial plus 35 minutes of ideation and asset generation in class 1, and a 10-minute tutorial plus an 80-minute immersive activity in class 2, with both conditions using conventional modeling tools for final development.
+- Presentation ratings came from seven raters, five of them senior students, with low-to-moderate inter-rater agreement (Kendall's W between 0.234 and 0.466 across criteria) on only seven team products, and the WBLT–presentation correlation rests on four GenARch teams.
+- No systematic observation or reflective-journal data were collected, so the qualitative analysis relies on retrospective group-interview accounts, and baseline self-efficacy anxiety was already lower in the GenARch group (p = 0.005).
 
 ## Connected Concepts
 

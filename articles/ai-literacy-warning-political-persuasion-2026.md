@@ -1,7 +1,7 @@
 ---
 title: A light-touch AI literacy intervention helps protect against AI political persuasion
 created: "2026-09-16T09:40:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
 technology: [conversational-ai, generative-ai, llm]
@@ -49,6 +49,21 @@ Several cautions matter for anyone citing this in a [[curriculum-design|curricul
 ## What This Implies for AI Literacy Instruction
 
 The educational reading is that a one-paragraph [[ai-literacy|AI literacy]] intervention, delivered before a learner starts interacting with a [[generative-ai|generative AI]] system, is a plausible and extremely cheap protective layer — no training, no facilitation, no software change, and in this study no collateral damage to learners' willingness to use AI at all. It slots naturally into the awareness-raising tier of [[ai-literacy|AI literacy]] frameworks rather than replacing deeper [[critical-thinking|critical thinking]] or source-evaluation work, and it pairs with warnings about [[hallucination-risk|hallucination risk]], which have separately been shown to shift learner behavior. Two caveats for practice: the study measured short-run attitude protection, not durable transfer, and the warning tells learners about incentives to persuade but gives them no method for detecting it, which is where [[refutation-text|refutation-based]] and [[misconceptions|misconception]]-correcting approaches still carry the load.
+
+## What this means for practice
+
+- **Instructors.** Deliver the warning before students open the chatbot, not after: the short paragraph used in this study — that LLMs can be prompted to persuade and may present information selectively — cut the persuasive effect of a conversation by 48.1% (95% CI [−59.5%, −36.8%]) at no cost in preparation time, training or software.
+- **Instructors.** Keep AI debate, policy-writing and role-play tasks in the curriculum but pair them with the warning, since warned participants were still moved by the AI — the treatment reduced persuasion rather than eliminating it.
+- **Designers.** Skip elaborate intent-disclosure interfaces: a specific warning that told participants which side the model had been instructed to argue performed no better than the generic paragraph (difference not significant, p = 0.86).
+- **Administrators.** Put the warning in front of every AI interaction rather than in a one-off orientation, and treat it as an awareness-raising layer that does not require students to distrust [[generative-ai|generative AI]] generally — overall trust did not fall (b = −0.83 points on a 0–100 scale, p = 0.28).
+- **Researchers.** Test transfer to factual-belief tasks and to classroom populations: this study used contested political issues and US adults recruited online, and the warning tells learners that persuasion is possible without giving them any method for detecting it.
+
+## Limitations
+
+- **Online adult sample, not students.** Both experiments recruited US adults through CloudResearch Connect — 1,992 of 2,361 recruits in Study 1 and 1,216 of 1,555 in Study 2 — so no participants came from a course or school setting.
+- **Post-randomization attrition.** Study 2 lost 7.9% of the control arm, 10.3% of the general-warning arm and 11.6% of the specific-warning arm, and the differential-attrition test for the specific-warning arm was marginal (p = 0.064).
+- **Reduction, not elimination, on self-reported attitudes.** The pooled estimate is a 48.1% reduction in attitude change measured by pre-to-post self-report after a single conversation of at least three exchanges, so nothing is known about persistence beyond the immediate post-test; the general warning alone was only marginal in Study 2 (b = −3.23, p = 0.053).
+- **Contested topics and current models only.** Outcomes were contested political issues with defensible arguments on both sides, the two systems tested were GPT-4.1 and Grok 4.5, and the paper states it has not yet undergone peer review.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies"
 created: "2026-09-15T17:05:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T07:04:04-04:00"
 type: article
 foundations: [academic-integrity, curriculum-design]
 technology: [generative-ai]
@@ -46,6 +46,21 @@ Equity deserves attention precisely because the corpus barely has any. Inclusion
 The separation of academic policy from curriculum and governance is the paper's structural argument, and it is also its practical recommendation. The authors call on accrediting bodies and professional organizations such as CAHIIM, AMIA, and the U.S. Department of Labor's 2026 AI Literacy Framework, released February 13, 2026 with foundational content areas covering understanding AI principles, exploring AI use, directing AI effectively, evaluating AI outputs, and using AI responsibly, to reduce variability through shared frameworks, while warning that standardizing language is not the same as operationalizing it. Programs should expect their AI policies to be revised repeatedly as technology and institutional priorities shift, and should treat [[professional-training|workforce preparation]] in AI governance as a distinct line of work rather than a byproduct of the integrity handbook.
 
 Finally, the study's limitations bound what can be concluded. Because only publicly available documents were analyzed, programs with strong but private compliance structures may be underrepresented, and this visibility bias means the observed absence of privacy, equity, and health-data language is a finding about published guidance rather than about institutional practice overall. The unsupervised topic model cannot capture institutional intent, and the cross-sectional snapshot cannot show whether policies are converging or diverging.
+
+## What this means for practice
+
+- **Administrators.** Audit what your AI document actually governs instead of counting its existence as evidence of readiness: of all 48 CAHIIM-accredited HI and HIM master's programs, 40 (83%) published at least one AI-related document, but 53% of those documents were guidelines and only 18% were formal [[educational-policy-ai|policies]].
+- **Administrators.** Name where health-data obligations live and require students to meet them in coursework — the corpus mentions HIPAA 5 times, FERPA 11 times and IRB guidance 8 times, and electronic health records not at all, in a field whose graduates handle protected health information.
+- **Faculty developers.** Replace statements of value with working mechanics: academic integrity was the corpus's most frequent term (n = 139) while AI-use disclosure (n = 1) and contract cheating (n = 1) were nearly absent, so specify disclosure requirements, detection limits and procedures for handling suspected misuse.
+- **Designers.** Put access and accommodation provisions in the same document that requires AI use — inclusion (n = 9), accessibility (n = 9), accommodations (n = 4) and equitable access (n = 2) appear too rarely to support any claim that [[equity-in-ai-education]] has been addressed.
+- **Researchers.** Read the thin privacy and equity language as a finding about published guidance rather than about institutional practice, and pair document analysis with interviews or compliance review before reporting what programs actually do.
+
+## Limitations
+
+- **Public documents only.** Eight of the 48 programs had no qualifying publicly available AI document — the methods narrative reports 5 with none at all, leaving 43 with at least one — so programs with strong but private compliance structures may be underrepresented and the observed absences are absences in published guidance.
+- **One field, 40 documents, one moment.** The analytic sample is 40 documents from CAHIIM-accredited health informatics and health information management master's programs collected in November 2025, a cross-sectional snapshot that cannot show whether policies are converging or diverging.
+- **Keyword counts are not enforcement.** Frequencies such as academic integrity (n = 139) or privacy (n = 55) describe vocabulary use, not compliance, and one coded equity term survives only as a typo variant of "underserved" (n = 1).
+- **Unsupervised topic modeling and thin cells.** The 4-topic LDA solution cannot capture institutional intent, and the delivery-mode comparisons rested on cell counts too low to detect meaningful differences (policy type P = .85, audience P = .71).
 
 ## Connected Concepts
 
