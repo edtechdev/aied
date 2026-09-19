@@ -1,7 +1,7 @@
 ---
 title: "Mind the Student: Behavioral and Contextual Cues for Automated Engagement Prediction in Online Learning"
 created: "2026-08-26T09:00:00-04:00"
-updated: "2026-08-26T09:00:00-04:00"
+updated: "2026-09-19T08:58:00-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal]
@@ -23,6 +23,20 @@ methods: [ai-ed-evaluation]
 3. A Perceiver IO latent bottleneck fuses the modalities into a shared representation.
 4. Student and instructor personalities are modeled as variational posteriors to enable partial pooling across participants.
 5. Evidential regression and spectral-normalized Gaussian process classification heads provide uncertainty-aware prediction for robustness and calibration.
+
+## What this means for practice
+
+- **Designers.** Treat the engagement signal as weak: on the CASED test set most configurations produced validation CCC below 0.02 and F1-macro no higher than 0.52, so do not ship these predictions as standalone judgments of student engagement.
+- **Designers.** Report calibrated uncertainty with every prediction and route near-midpoint, low-confidence clips to human review, because the dominant failure mode is the "not-engaged" class sitting on an annotation boundary.
+- **Designers.** Add finer-grained temporal supervision: a single label per clip while the Perceiver IO layer mean-pools over 64 frames hides the small engagement cues the model is meant to catch.
+- **Designers.** Constrain personalization deliberately — keep student and instructor embeddings tied to the population prior — since identity-discriminative representations otherwise lead the model to fit appearance rather than engagement dynamics.
+
+## Limitations
+
+- All participating methods converge near random-chance performance on the CASED challenge test set: most configurations scored validation CCC below 0.02 and F1-macro no higher than 0.52, so the model did not consistently outperform a constant mean predictor.
+- The "not-engaged" class drives the dominant failure mode, and clips near the Likert midpoint sit on an annotation boundary where small annotator perturbations flip the binary label.
+- Representations remain identity-discriminative, so the model partly fits student appearance rather than engagement dynamics, and the weakly constrained Bayesian population prior does not compensate.
+- Each clip receives a single label while Perceiver IO mean-pools over 64 frames, suppressing within-clip fluctuations; finer-grained temporal supervision is needed to detect small engagement cues.
 
 ## Connected Concepts
 - [[learning-analytics]]
