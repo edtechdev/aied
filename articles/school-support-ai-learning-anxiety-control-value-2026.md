@@ -1,7 +1,7 @@
 ---
 title: "Multidimensional perceived school support and AI learning anxiety among university students: the mediating roles of control-value appraisals"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, well-being]
 stakeholders: [student-experience]
@@ -31,17 +31,11 @@ Participants were 547 undergraduates at Chinese universities, surveyed online in
 
 Analysis proceeded in two stages. The main model used confirmatory factor analysis and structural equation modeling in AMOS, with the three support dimensions treated as a second-order construct, and mediation tested through bootstrapped confidence intervals. The authors then added a supplementary artificial [[machine-learning|neural network]] as an out-of-sample predictive check, separating the support dimensions to see which of them predicted anxiety on their own. Robustness models controlling for gender, major, and AI-use frequency left the structural pattern unchanged.
 
-## Implications
-
-- Universities can treat AI learning anxiety as an institutional concern, not just a student disposition: responsible-use guidelines, accessible technical support, and [[ai-literacy|AI literacy]] training may matter because perceived support precedes favorable control and value appraisals.
-- Initiatives that build [[self-efficacy|confidence]] and demonstrate AI's academic value are the highest-leverage route, since the two appraisals carried most of the association with lower [[anxiety-and-stress|anxiety]].
-- Instructors can embed low-stakes practice, guided [[ai-ed-evaluation|evaluation of AI]] outputs, and feedback-driven revision — activities that give students mastery experiences and concrete evidence that AI is worth the effort.
-
 ## What this means for practice
 
-- **Instructors.** Build low-stakes practice, guided evaluation of AI outputs, and feedback-driven revision into early coursework so students accumulate mastery experiences; AI learning self-efficacy carried the strongest negative association with anxiety.
+- **Instructors.** Build low-stakes practice, guided [[ai-ed-evaluation|evaluation of AI]] outputs, and feedback-driven revision into early coursework so students accumulate mastery experiences; AI learning [[self-efficacy]] carried the strongest negative association with anxiety.
 - **Instructors.** Demonstrate concretely what AI is useful for in your discipline: perceived usefulness of AI for academic work was the second appraisal linking support to lower anxiety, and it was itself predicted by self-efficacy.
-- **Administrators.** Treat AI learning anxiety as an institutional condition, since the indirect paths through self-efficacy and perceived usefulness carried 69.4% of the total association between perceived school support and anxiety — making guidelines, accessible technical support, and AI literacy training the levers with the largest reach.
+- **Administrators.** Treat AI learning anxiety as an institutional condition, since the indirect paths through self-efficacy and perceived usefulness carried 69.4% of the total association between perceived school support and [[anxiety-and-stress|anxiety]] — making guidelines, accessible technical support, and [[ai-literacy|AI literacy]] training the levers with the largest reach.
 - **Administrators.** Invest specifically in informational support, with clear expectations for competent use, because it was the only support dimension retaining a reliable link to self-efficacy when emotional, informational, and instrumental support were modeled separately.
 
 ## Limitations

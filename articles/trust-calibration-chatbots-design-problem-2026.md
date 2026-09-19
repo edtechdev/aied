@@ -1,7 +1,7 @@
 ---
 title: "Why we believe chatbots: trust calibration as a design problem"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai, llm]
@@ -36,23 +36,11 @@ page_kind: [framework]
 
 This is a Hypothesis and Theory (conceptual) contribution, not an empirical study. The authors ground a working definition of chatbot trust — "a user's willingness to accept and act on its outputs without independent verification" — in four bodies of research: psychological trust research (Mayer et al., 1995; Rousseau et al., 1998), source credibility in communication research (Hovland & Weiss, 1951), human-factors trust in automation (Lee & See, 2004; Hoff & Bashir, 2015), and computing research on trust in intelligent systems (Jacovi et al., 2021). They then develop a user typology crossing two dimensions — ability to verify chatbot outputs and motivation to do so — yielding four profiles with distinct calibration risks (high-high near calibrated; high-ability/low-motivation prone to complacent overtrust; low-ability/high-motivation prone to misplaced confidence or frustration-based disuse; low-low most exposed to overtrust). On this basis they synthesize two families of intervention: five interpretability affordances (source transparency, rationale generation, uncertainty expression, interactive scrutiny, progressive disclosure) and six engagement mechanisms (cooling-off periods, engagement gates, dialogue scaffolds, adaptive friction, social verification signals, commitment prompts). The two families are integrated through Reason's (1990) Swiss cheese model of layered defense and formalized in eight quantitative propositions using a calibration gap measure C (mean confidence minus proportion correct).
 
-## Implications
-
-- **Design for [[trust-calibration|calibration]], not for maximum trust.** The goal is trust that matches what a system can actually do; interpretability should be a structuring principle of chatbot design rather than a feature bolted on afterward.
-
-- **Move from transparency-as-disclosure to transparency-as-practice.** Engagement mechanisms (friction, gates, scaffolds) outperform passive warnings because dialogic engagement drives durable cognitive change whereas information alone does not.
-
-- **Segment interventions to user profiles.** Citation helps motivated users, social signals help low-ability users, and cooling-off periods help the expert who lacks the moment rather than the novice who lacks knowledge.
-
-- **Layer defenses.** No single intervention recalibrates trust; combinations across layers cover one another's gaps, with literacy building the most durable but slowest layer.
-
-- **Deployment requires institutional scaffolding.** Adaptive friction carries privacy obligations of its own, so behavioral data used for dosing should stay within-session; [[regulation]] (e.g., the EU AI Act) and institutional procurement can mandate calibration-supporting features.
-
 ## What this means for practice
 
 - **Instructors.** Teach the distinction between reliability and interpretability as separate judgments about a chatbot answer, and have students rehearse the failure mode that inflates trust most: fabricated but convincingly formatted citations.
-- **Designers.** Build evaluation into the interaction through cooling-off periods, engagement gates, dialogue scaffolds, adaptive friction, and commitment prompts rather than bolting on passive warnings, since information alone does not produce durable recalibration.
-- **Designers.** Match the mechanism to the user: citation and rationale help motivated users, social verification signals help low-ability users, and a cooling-off period helps the expert who lacks the moment rather than the novice who lacks knowledge.
+- **Designers.** Build evaluation into the interaction through cooling-off periods, engagement gates, dialogue scaffolds, adaptive friction, and commitment prompts rather than bolting on passive warnings, since information alone does not produce durable recalibration; design for trust that matches what a system can actually do, treating interpretability as a structuring principle rather than an add-on.
+- **Designers.** Match the mechanism to the user and layer the defenses: citation and rationale help motivated users, social verification signals help low-ability users, and a cooling-off period helps the expert who lacks the moment rather than the novice who lacks knowledge, while no single intervention recalibrates trust and [[ai-literacy]] builds the most durable but slowest layer.
 - **Administrators.** Use procurement and policy to make calibration-supporting features mandatory, and keep behavioral data collected for adaptive friction within the session, as dosing on engagement data carries its own privacy obligation.
 - **Researchers.** Test the eight propositions against confidence and behavioral measures together, because the framework's own gap measure records stated confidence rather than the reliance-based willingness the authors define.
 

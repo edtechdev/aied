@@ -1,7 +1,7 @@
 ---
 title: "The impact of artificial intelligence literacy on learning engagement among university students: the mediating role of psychological capital and the moderating role of professional identity"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, learner-identity]
 pedagogy: [motivation, self-determination-theory, self-efficacy, student-engagement]
@@ -33,20 +33,13 @@ Instruments: AI literacy via a six-dimension scale (perception, comprehension, k
 
 Analysis used SPSS for descriptives and correlations and SmartPLS for partial least squares structural equation modeling, chosen for its prediction orientation and its handling of a complex model combining mediation, moderation, a second-order construct, and an interaction term. Mediation and moderated mediation were tested by bootstrap resampling with bias-corrected confidence intervals, with simple slopes plotted at one standard deviation above and below the mean of the moderator.
 
-## Implications
-
-- **Skills training alone is insufficient.** Because roughly half of the AI literacy effect travels through psychological capital, institutions should pair AI literacy curricula with activities that generate success experiences and positive feedback — scaffolded, progressively difficult AI-assisted projects — to build [[self-efficacy]], hope, optimism, and resilience.
-- **Identity work should precede or accompany skill investment.** For students with weak professional identity — freshmen, transfer students, or those assigned to a major involuntarily — professional orientation courses, alumni career [[storytelling-in-education|storytelling]], industry–university practice programs, and faculty mentoring that links academic content to career relevance should take priority, since without an identity carrier even high psychological capital fails to convert into sustained behavior.
-- **Differentiate by student profile.** Students high in AI literacy but low in psychological capital benefit most from small-step, achievable [[group-work|group projects]]; those high in psychological capital but low in professional commitment need identity-focused interventions; those low on both need foundational support on both dimensions at once.
-- **Monitor and screen.** Universities can embed psychological capital and professional commitment measures into academic monitoring systems to flag the two priority groups and target interventions cost-effectively, while producing data to evaluate intervention effects over time.
-- **Theorists gain a resource-transformation account.** Positioning professional commitment as a contextual amplifier rather than a direct predictor reconciles previously inconsistent findings that AI use sometimes enhances and sometimes erodes [[active-learning|active learning]] behaviors: benefits are contingent on the co-presence of psychological resources and professional identity.
-
 ## What this means for practice
 
-- **Instructors.** Pair [[ai-literacy]] coursework with psychological-capital building through scaffolded, progressively harder AI-assisted projects, because roughly half of the literacy effect on engagement ran through psychological capital (R² = 0.507 for psychological capital, 0.497 for engagement).
-- **Designers.** Front-load identity work for students with weak professional commitment — professional orientation courses, alumni career storytelling, industry practice, and mentoring that ties content to careers — since commitment nearly doubled the conversion of psychological capital into engagement (conditional effect 0.374 at high commitment versus 0.204 at low).
-- **Instructors.** Differentiate by profile: students high in AI literacy but low in psychological capital benefit most from small-step, achievable group projects, while students low on both dimensions need foundational support on both at once.
+- **Instructors.** Pair [[ai-literacy]] coursework with psychological-capital building — [[self-efficacy]], hope, optimism, and resilience — through scaffolded, progressively harder AI-assisted projects, because roughly half of the literacy effect on engagement ran through psychological capital (R² = 0.507 for psychological capital, 0.497 for engagement).
+- **Designers.** Front-load identity work for students with weak professional commitment — professional orientation courses, alumni career [[storytelling-in-education|storytelling]], industry practice, and mentoring that ties content to careers — since commitment nearly doubled the conversion of psychological capital into engagement (conditional effect 0.374 at high commitment versus 0.204 at low).
+- **Instructors.** Differentiate by profile: students high in AI literacy but low in psychological capital benefit most from small-step, achievable [[group-work|group projects]], while students low on both dimensions need foundational support on both at once.
 - **Administrators.** Screen psychological capital and professional commitment inside academic monitoring to flag the two priority groups, and remember that commitment is a moderator rather than a driver — its direct effect on engagement was negligible.
+- **Researchers.** Treat professional commitment as a contextual amplifier rather than a direct predictor; that repositioning reconciles previously inconsistent findings that AI use sometimes enhances and sometimes erodes [[active-learning|active learning]] behavior.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: "Acceptance of AI-Gamified Adaptive Learning in EFL: Bifactor Evidence for Essential Unidimensionality and the Limits of Subscale Scoring"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 pedagogy: [game-based-learning]
 technology: [adaptive-learning, technology-acceptance-model]
@@ -35,18 +35,12 @@ An initial pool of 13 items was generated from the gamification, AI-in-education
 
 Using convenience sampling, 401 complete cases were analyzed — [[higher-ed|undergraduate]] [[teacher-education|prospective English teachers]] at O. Zhanibekov South Kazakhstan [[pedagogy|Pedagogical]] University (Shymkent, Kazakhstan), predominantly female and first-year, with self-reported English mostly around A2–B2. The sample was randomly split into exploratory and held-out confirmatory halves so that exploration could be separated from confirmation. Analyses proceeded through reliability and sampling-adequacy checks, [[quantitative-research|exploratory factor analysis]] with parallel analysis, competing confirmatory models (one-factor, four correlated factors, second-order, and bifactor), discriminant-validity checks using the heterotrait–monotrait ratio and the Fornell–Larcker criterion, bifactor dimensionality indices, an ordinal (WLSMV) sensitivity analysis with an S-1 diagnostic, and a preliminary regression of acceptance on learner characteristics. ML models were fitted in Python and WLSMV models in R; a [[llm|large language model]] assisted with analysis scripting, with all results verified by the authors.
 
-## Implications for AI in Education
-
-The headline implication is a scoring instruction: for this 13-item instrument the evidence supports a single general total score, and the AI, effectiveness, and engagement subscales should not be interpreted as distinct dimensions. More broadly, it is a [[research-methods-aied|methodological]] warning for a field that routinely assembles multidimensional [[technology-acceptance-model|acceptance]] questionnaires and scores their subscales separately — [[assessment-validity|discriminant validity]] and dimensionality should be tested before a multidimensional structure is assumed, a caution that extends well beyond EFL to [[educational-measurement|educational technology measurement]] generally.
-
-That gamification alone remains partly separable is theoretically interpretable: game mechanics (points, badges, leaderboards) are concrete and visible, so learners can distinguish them from the more diffuse experience of AI support — which supports treating gamification as a design lever rather than folding it into a general positivity index. Conversely, the strong general factor cautions against over-reading "attitudes toward AI" from ad hoc adapted items that inherit the scoring assumptions of TAM and UTAUT without inheriting their validation evidence. Because the general factor may reflect [[self-report-measures|self-report]] method variance or impression-based generality rather than a unified psychological construct, strong substantive claims about [[student-engagement|engagement]] or perceived effectiveness as separate mechanisms — or about links to [[self-determination-theory|motivation]] and [[self-efficacy]] — should be made cautiously until multi-method evidence is available.
-
 ## What this means for practice
 
 - **Instructors.** Interpret one total acceptance score from this 13-item instrument and stop reading the AI, effectiveness, and engagement/satisfaction subscales as separate dimensions; discriminant validity failed for three of the four domains.
 - **Instructors.** Treat gamification as a distinct design lever, since perceived gamification was the only facet that stayed consistently separable from the dominant general factor.
 - **Designers.** Anchor items to one named platform before measuring acceptance, because respondents here may have evaluated different applications and the general factor may be partly self-report method variance.
-- **Researchers.** Test dimensionality and [[assessment-validity|discriminant validity]] before assuming a multidimensional structure for ad hoc [[technology-acceptance-model|TAM or UTAUT]] adaptations; in these data the general factor explained roughly 82% of common variance and hierarchical omega reached about .93.
+- **Researchers.** Test dimensionality and [[assessment-validity|discriminant validity]] before assuming a multidimensional structure for ad hoc [[technology-acceptance-model|TAM or UTAUT]] adaptations; in these data the general factor explained roughly 82% of common variance and hierarchical omega reached about .93, and strong claims about [[student-engagement|engagement]] or perceived effectiveness as separate mechanisms should wait on multi-method evidence, since the general factor may be partly self-report method variance.
 
 ## Limitations
 

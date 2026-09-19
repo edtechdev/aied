@@ -1,7 +1,7 @@
 ---
 title: "From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T06:58:22-04:00"
+updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [inquiry-based-learning, pedagogy, self-efficacy]
@@ -31,16 +31,9 @@ A total of 548 Chinese pre-service science teachers, mostly second- to fourth-ye
 
 The data were analyzed with partial least squares structural equation modeling, chosen to explain variance in the endogenous constructs and to test multiple direct and serial indirect paths; the model accounted for roughly 35% of the variance in integration intention. Measurement quality was established first, with loadings, reliability and convergent and discriminant validity meeting conventional thresholds, and with common-method and collinearity diagnostics showing no serious threat. Background variables were then entered as controls in a robustness step to confirm that the findings were not driven by prior AI or teaching experience.
 
-## Implications
-
-- Teacher educators should embed AI training within science pedagogy and inquiry-based teaching rather than limiting it to general tool operation — for example, guiding pre-service teachers to design inquiry questions with AI, evaluate AI-generated scientific models, judge the scientific accuracy of AI content, and identify ethical risks and biases.
-- University [[teacher-education|teacher education]] programs in science should build AI-TPACK through subject-specific modules on concept visualization, experimental simulation, data interpretation and explanation construction, instead of addressing AI only in generic educational technology courses.
-- For policymakers, AI-enabled education reform should extend beyond general AI or digital literacy training: curricula and assessment need to address whether pre-service teachers can apply AI within scientific inquiry, model-based reasoning and [[ethics|ethical]] classroom practice.
-- AI literacy alone is not sufficient preparation for AI-supported [[science-education|science education]]; the study argues that contextualized, [[discipline-specific-aied|subject-specific]] knowledge and the confidence it supports are what connect literacy to teaching intention.
-
 ## What this means for practice
 
-- **Faculty developers.** Embed AI training inside science pedagogy and inquiry design — have pre-service teachers frame inquiry questions with AI, evaluate AI-generated scientific models, and judge the accuracy and bias of AI content.
+- **Faculty developers.** Embed AI training inside science pedagogy and inquiry design rather than treating general AI literacy as sufficient preparation — literacy reached integration intention only through AI-TPACK and confidence — so that pre-service teachers frame inquiry questions with AI, evaluate AI-generated scientific models, and judge the accuracy and bias of AI content.
 - **Faculty developers.** Build [[tpack|AI-TPACK]] through subject-specific modules on concept visualization, experimental simulation, data interpretation, and explanation construction, rather than addressing AI only in generic educational technology courses.
 - **Instructors.** Convert reported confidence into practice: science teaching [[self-efficacy]] scored highest of the four constructs while intention to integrate AI scored lowest, so add scaffolded AI-integrated teaching experience to teacher preparation.
 - **Administrators.** Extend AI-enabled reform beyond general AI or digital literacy: curricula and assessment should test whether pre-service teachers can apply AI within scientific inquiry, model-based reasoning, and [[ethics|ethical]] classroom practice.
