@@ -10,7 +10,7 @@ stakeholders: [student-experience]
 research_method: [qualitative, interviews]
 audience: [learners]
 level: [higher ed]
-sources: ['raw/papers/walton-bearman-assessment-judgement-2025.md']
+sources: ['raw/papers/walton-bearman-assessment-judgment-2025.md']
 confidence: high
 ---
 

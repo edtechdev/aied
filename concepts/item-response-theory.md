@@ -56,7 +56,7 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 
 ## Connected Articles
 - [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[causal-modelling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
+- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Large-scale IRT field validation of AI-generated exams
 - [[jin-glat-genai-literacy-assessment]] — GLAT uses IRT/2PL validation (Jin et al. 2025)

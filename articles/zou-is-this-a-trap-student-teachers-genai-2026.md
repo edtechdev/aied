@@ -59,7 +59,7 @@ confidence: high
 ## Connected Articles
 
 - [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign in response to GenAI
-- [[walton-bearman-assessment-judgement-2025]] — Student judgment work when assessing with GenAI
+- [[walton-bearman-assessment-judgment-2025]] — Student judgment work when assessing with GenAI
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Disclosure dilemmas in student GenAI use
 - [[beyond-detection-authentic-assessment-ai-2025]] — Moving assessment beyond detection toward authenticity

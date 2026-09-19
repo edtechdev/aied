@@ -180,7 +180,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[ai-modelling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
+- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
