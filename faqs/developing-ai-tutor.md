@@ -1,7 +1,7 @@
 ---
 title: "What Are Best Practices for Developing an Effective AI Tutor?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T06:28:59-04:00"
 weight: 74
 type: faq
 foundations: [learner-identity]
@@ -59,7 +59,7 @@ Collect only learner data that is pedagogically necessary. Where persistent memo
 
 ## 9. Measure learning, not just chatbot quality
 
-Metrics such as response accuracy, conversation length, student preference, satisfaction, task completion, and [[student-engagement|engagement]] are insufficient by themselves. Instead evaluate unassisted performance, delayed retention, transfer to new problems, misconception correction, learner independence, feedback uptake, and differential effects across learner groups. The critical question is whether learners can perform successfully after the tutor is removed. See [[ai-ed-evaluation]] and [[ai-tutor-behavioral-evaluation|The Missing Evaluation Axis]].
+Metrics such as response accuracy, conversation length, student preference, satisfaction, task completion, and [[student-engagement|engagement]] are insufficient by themselves. Instead evaluate unassisted performance, delayed retention, transfer to new problems, misconception correction, learner independence, feedback uptake, and [[differential-effects-across-learner-groups|differential effects across learner groups]]. The critical question is whether learners can perform successfully after the tutor is removed. See [[ai-ed-evaluation]] and [[ai-tutor-behavioral-evaluation|The Missing Evaluation Axis]].
 
 Two recent studies sharpen that rule against [[self-report-measures|self-report]] and short horizons. A pilot with 38 novice programming students found a strong association between [[generative-ai|generative AI]] usage and *perceived* learning (rs=0.802, p<0.001), while the indicators of autonomous progress without instructor support scored lowest — the gap the authors warn produces an illusion of competence and epistemic debt, and exactly the gap that satisfaction metrics reward. See [[genai-cognitive-tutor-programming-2026|Generative AI as an Informal Cognitive Tutor]].
 
@@ -105,7 +105,7 @@ Consider a first-semester college calculus tutor. Its goal should be to increase
 
 **Teacher dashboard.** The system should expose aggregated evidence rather than opaque AI judgments — e.g. "product rule — 62% demonstrated mastery; common patterns: 18% omit one term, 11% multiply derivatives" — with individual diagnoses presented as hypotheses supported by evidence.
 
-**Evaluation plan.** Measure performance while using the tutor, performance on comparable problems without it, delayed retention, transfer to unfamiliar problems, conceptual [[explainable-ai|explanation quality]], misconception correction, appropriate vs premature [[help-seeking|help seeking]], answer leakage, diagnostic false-positive/negative rates, and differential outcomes. The key comparison is performance **with** the tutor versus performance **without** it afterward — a student moving from 60% to 95% while assisted but staying at 60% independently has not received effective tutoring.
+**Evaluation plan.** Measure performance while using the tutor, performance on comparable problems without it, delayed retention, transfer to unfamiliar problems, conceptual [[explainable-ai|explanation quality]], misconception correction, appropriate vs premature [[help-seeking|help seeking]], answer leakage, diagnostic false-positive/negative rates, and [[differential-effects-across-learner-groups|differential outcomes]]. The key comparison is performance **with** the tutor versus performance **without** it afterward — a student moving from 60% to 95% while assisted but staying at 60% independently has not received effective tutoring.
 
 ---
 

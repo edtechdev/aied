@@ -1,7 +1,7 @@
 ---
 title: "How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-09-14T06:18:07-04:00"
+updated: "2026-09-19T06:28:59-04:00"
 weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -15,7 +15,7 @@ methods: [research-methods-aied]
 
 ## Equity
 
-For equity, examine not only who has access to AI but also who has the skills to use it effectively and who ultimately receives its benefits. The knowledge base's [[digital-divide|Digital Divide]] concept distinguishes access, skills, and outcome divides, which means equal access to a [[conversational-ai|chatbot]] is not equivalent to [[equity-in-ai-education|equitable]] educational benefit. Researchers should therefore report relevant subgroup outcomes and investigate differential effectiveness rather than relying only on overall averages.
+For equity, examine not only who has access to AI but also who has the skills to use it effectively and who ultimately receives its benefits. The knowledge base's [[digital-divide|Digital Divide]] concept distinguishes access, skills, and outcome divides, which means equal access to a [[conversational-ai|chatbot]] is not equivalent to [[equity-in-ai-education|equitable]] educational benefit. Researchers should therefore report relevant subgroup outcomes and investigate differential effectiveness rather than relying only on overall averages (see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]]).
 
 Newly added research shows how structural inequities accumulate. A [[adeniranye-ai-integration-nigerian-higher-education-2026|comparative study of 45 Nigerian universities]] (15 federal, 15 state, 15 private) found only moderate [[ai-education|AI]] integration (M = 4.79 on a 10-point scale, range 1.83–7.83), and [[governance]] type did not predict it (F(2,42) = 1.01, p = 0.372); institution age (β = 0.43, p = 0.016) and South-West location (β = 0.31, p = 0.029) did. Internal capabilities were mutually reinforcing (r = 0.79–0.80), and international collaborations and industry partnerships compounded one another (r = 0.74)—"connections beget connections." Policy frameworks were the weakest dimension (M = 4.09; only 27% of institutions scored 6 or higher), exposing a gap between formal strategy and operational [[curriculum-design|curriculum]] activity. Equity interventions should therefore target newer institutions and underserved regions rather than assume that institutional category determines capacity, and should account for the [[global-south|Global South]] contexts from which much of the evidence base is still missing.
 
@@ -33,7 +33,7 @@ For [[pedagogy|pedagogical]] safety, measure harms that conventional AI [[benchm
 
 ## Methodological triangulation
 
-Finally, combine [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evidence. Disaggregated quantitative outcomes can reveal differential effects; interviews, observations, focus groups, and participatory or co-design methods can surface barriers, harms, cultural assumptions, and learner experiences that aggregate scores miss. The [[research-methods-aied|Research Methods in AIED]] synthesis explicitly treats methodological triangulation as important because no single method simultaneously maximizes causal inference, ecological validity, contextual understanding, and generalizability.
+Finally, combine [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evidence. Disaggregated quantitative outcomes can reveal [[differential-effects-across-learner-groups|differential effects]]; interviews, observations, focus groups, and participatory or co-design methods can surface barriers, harms, cultural assumptions, and learner experiences that aggregate scores miss. The [[research-methods-aied|Research Methods in AIED]] synthesis explicitly treats methodological triangulation as important because no single method simultaneously maximizes causal inference, ecological validity, contextual understanding, and generalizability.
 
 Transparency about how AI-assisted analysis itself produced its findings is part of that obligation. [[chain-behind-claim-warrantability-2026|The warrantability proposal]] argues that an AI-assisted interpretation should remain inspectable, contestable, and revisable, supported by artifacts such as source-linked topic tables, lens stacks, and evidence rivers—so that a fluent summary cannot conceal the analytical pathway that produced it. The [[beyond-agent-label-agentic-ai-governance-2026|agentic-AI review]] adds a discipline of separating outcome levels: artifact outcomes (accuracy, [[ai-feedback-quality|feedback quality]]) can be necessary for a learner benefit but are never sufficient evidence of one, and equity and institutional outcomes are precisely where the evidence is thinnest.
 
