@@ -1,7 +1,7 @@
 ---
 title: "Shaping Responsible GenAI Use in Research Through AI Literacy-Oriented Guidelines: Insights From Postgraduate Students"
 created: "2026-09-06T08:12:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T10:14:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [self-regulated-learning]
@@ -26,8 +26,7 @@ institutions: [governance]
 - **AI ethics concerns cluster around scholarly integrity:** Worries centered on non-deterministic behavior, limited capacity for genuine originality, output accuracy, data privacy, and the degradation of researchers' own scholarly competence — concerns that map to the "AI Ethics" dimension.
 - **Policy gap:** Existing institutional GenAI policies focus on teaching, learning, and assessment and remain abstract; research-specific guidance that is practical, task-sensitive, and grounded in researchers' lived experience is largely absent.
 
-## Implications for AI in Education
-
+## Connection to the broader knowledge base
 The study contributes an empirical account of how [[ai-literacy]] is enacted as a [[situated-learning|situated]] capacity in research practice, rather than a static set of competencies, with direct implications for [[academic-integrity|integrity]] and [[ethics]] policy in [[higher-ed|graduate education]]. For institutions it argues that responsible GenAI-use guidelines should move beyond binary rules toward practice-oriented support that [[scaffolding|scaffolds]] each AI literacy dimension across the research workflow — a stance that treats [[governance]] and researcher development as mutually reinforcing. For supervisors and research-training programs it signals a need to cultivate evaluative judgment and [[self-regulated-learning|self-regulation]] of GenAI use, echoing calls to embed [[llm|AI]] literacy across the entire scholarly lifecycle rather than only in teaching and assessment contexts.
 
 ## What this means for practice

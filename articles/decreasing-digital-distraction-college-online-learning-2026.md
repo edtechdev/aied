@@ -1,7 +1,7 @@
 ---
 title: "Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised"
 created: "2026-09-04T09:06:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T10:14:00-04:00"
 type: article
 pedagogy: [motivation, self-regulated-learning, student-engagement]
 technology: [learning-analytics]
@@ -27,10 +27,6 @@ The proliferation of digital tools in education has intensified distraction — 
 3. Reliance on peer help-seeking and learner-learner engagement appeared less often in low-distraction profiles.
 4. The patterns were identified via association-rule mining and clustering analysis on data from 530 participants.
 5. Findings support targeted interventions that foster focused, productive [[higher-ed|online learning]] environments.
-
-## Practical Implications
-
-The results point to [[self-regulated-learning]] training — [[teacher-role|teaching]] students to set goals, structure their environment, and manage time — as a high-leverage intervention for reducing digital distraction. They also suggest that promoting direct engagement with instructor and content, and building technical fluency, may matter more than emphasizing peer-dependent strategies for keeping learners on task.
 
 ## What this means for practice
 
