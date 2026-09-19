@@ -207,6 +207,17 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
   the files, so nine further pages were reading a neighbouring paper as their source. Each was matched to its
   own paper by title and the bodies were put back where they belong.
 
+### Figures that cannot be checked against the saved source
+
+- `irt-human-genai-mcq-responses` - *Applying Item Response Theory to Distinguish Between Human and Generative AI
+  Responses to Multiple-Choice Assessments*, doi 10.1016/j.caeai.2026.100668. The saved text stops at the old
+  extraction cap, before the results, and the only open-access copy Unpaywall lists is the authors' arXiv preprint
+  (2412.02713), which is an earlier draft that does not report the generational comparison. Two figures stated on
+  the page as findings - the newer models' accuracy against humans (80.8% versus 71.5%) and the chemistry
+  person-fit correlation falling from r = 0.389 to 0.060 - therefore cannot be verified from anything on disk.
+  The practice section now makes the same point qualitatively, which the saved abstract and research questions do
+  support; the key-findings figures need the published PDF before they can be trusted or corrected.
+
 ## Checked — no further text available
 
 arXiv copies of these were fetched and extracted; the retrieved text is the same

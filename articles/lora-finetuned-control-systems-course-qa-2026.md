@@ -1,7 +1,7 @@
 ---
 title: "LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects"
 created: "2026-09-15T10:30:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T09:06:00-04:00"
 type: article
 pedagogy: [student-ai-interaction]
 technology: [adaptive-learning, conversational-ai, educational-nlp, llm, pedagogical-llm-training]
@@ -62,7 +62,7 @@ Two further observations matter for [[pedagogical-llm-training]] practice. First
 
 ## What this means for practice
 
-- **Educators.** Build one lightweight adapter per course instead of reaching for a general tutor: 360 course dialogues and adapters of 1.8M to 10.1M trainable parameters reached ROUGE-L 0.4093 and BERTScore-F1 0.8643 on a 54-item test set.
+- **Educators.** Build one lightweight adapter per course instead of reaching for a general tutor: 360 course dialogues, fine-tuning Qwen2.5-3B and 7B at LoRA ranks r = 4, 8 and 16, reached ROUGE-L 0.4093 and BERTScore-F1 0.8643 on a 54-item test set.
 - **Educators.** Choose rank by deployment target — r = 8 for local or consumer-GPU use, r = 4 for a feasibility check (ΔROUGE-L = +0.0407), r = 16 only when reference-answer similarity matters most — because gain per million adapter parameters fell from 0.0161 at 7B-r4 to 0.0087 at 7B-r16.
 - **Educators.** Require the Solution / Method / Teaching Points template in the system message and in the reference answers: Solution and Method coverage reached 1.00 at nearly every LoRA setting, so students receive course answers in a form they can review, verify and compare.
 - **Educators.** Do not read template compliance as correctness — heading detection cannot tell whether a derivation is valid, so keep expert review of formulas, variable definitions and conclusions, and treat the adapter as a first draft rather than an authority.
