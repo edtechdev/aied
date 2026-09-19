@@ -1,7 +1,7 @@
 ---
 title: "From simulation to flight: Simulation-assisted drone learning with teacher-AI co-designed scaffolds for secondary students' STEM knowledge and competencies"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 foundations: [teacher-role]
@@ -27,14 +27,20 @@ The five simulations — Satellite Positioning, Virtual Flight, QuadPhysics, Dro
 - **[[qualitative-research|Qualitative]] analysis yielded five mechanisms:** enhanced [[student-engagement|engagement]] and [[motivation|motivational]] persistence; lowered cognitive load and operational confidence; bridging theory and practice through visible causal mechanisms; iterative design and collaborative [[problem-solving]] (e.g., "pair debugging" and testing ten code versions in two minutes); and increased learning visibility for formative support.
 - **Simulations bridged the "abstraction-action gap."** By slowing action and isolating causal relationships (e.g., rotor speed vs. drag, GNSS trilateration), simulations let students manipulate variables and inspect consequences repeatedly before transfer to physical flight, improving conceptual access rather than merely exposure.
 
-## Implications for Practice
+## What this means for practice
 
-- Embed simulations as **pre-flight and reflective scaffolds** within an existing curriculum rather than as standalone add-ons — before challenging physical tasks to build confidence and conceptual familiarity, and after them to support reflection and consolidation.
-- **Pair simulations with structured prompts** that encourage prediction, explanation, and peer discussion; passive demonstrations are less valuable than active inquiry.
-- Use simulation-assisted sequencing to **redistribute cognitive and procedural demands** across experiential-learning phases, reducing the cognitive overload novices face when conceptual explanation, code execution, and physical flight are compressed into one moment.
-- Simulations offer a **cost-effective route to extending hands-on practice** in under-resourced STEM contexts where equipment cost, battery life, safety, and maintenance limit repeated experimentation.
-- **Calibrate guidance to developmental level:** younger learners may benefit from more explicit prompts that help them articulate principles, while older learners may benefit from more open-ended, comparative, and reflective tasks.
-- **Leverage learning visibility:** because student parameter changes, errors, and explanations become observable during simulation work, teachers can identify misconceptions in real time and provide more targeted formative support — a foundation for future [[learning-analytics]] dashboards.
+- **Educators.** Sequence simulations as pre-flight and reflective scaffolds around physical tasks—before challenging flights to build conceptual familiarity and after them to consolidate—rather than as standalone demonstrations.
+- **Educators.** Pair each simulation with structured prompts that require prediction, explanation, and peer discussion, which is where the conceptual gains came from rather than from passive viewing.
+- **Educators.** Read student parameter choices and errors during simulation work as real-time formative signals, since simulation makes otherwise invisible reasoning inspectable.
+- **Instructional designers.** Redistribute cognitive and procedural demand across the experiential-learning cycle so conceptual explanation, code execution, and physical flight are not compressed into a single moment.
+- **Curriculum designers.** Use simulation-assisted sequencing to extend repeated practice in under-resourced STEM settings where equipment cost, battery life, safety, and maintenance limit flight time.
+
+## Limitations
+
+- Group membership was determined by school affiliation rather than random assignment, so unmeasured confounding cannot be ruled out despite the pretest–posttest control-group design.
+- The sample was small (N = 30; SA-Group n = 14, DO-Group n = 16), and the grade-level subgroup analyses were particularly underpowered, which makes those patterns exploratory.
+- The STEM knowledge measure was a brief, locally developed 10-item test that, although curriculum-aligned and externally reviewed, is not a standardized measure of attainment; the 21st-century competencies measure was student self-report.
+- Evidence comes from an eight-lesson after-school enrichment program with only six interview participants, which limits generalization to formal classroom settings and longer curricula.
 
 ## Connected Concepts
 

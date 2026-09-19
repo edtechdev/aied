@@ -1,7 +1,7 @@
 ---
 title: "Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students' ethical reasoning"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, framing-ai-use-for-students]
 ethics: [ai-misuse-learning-harm, ai-use-disclosure, ethics]
@@ -24,13 +24,20 @@ confidence: high
 6. **Fairness and [[equity-in-ai-education|equity concerns]].** Students worried AI could "trick the teacher" into overestimating understanding, disadvantage capable peers, or—alternatively—democratize access to help often unavailable without private tutoring.
 7. **Emerging norms of transparency.** Several students proposed disclosing AI use through footnotes or references, suggesting their ethical reasoning may run ahead of existing [[governance|institutional]] policy.
 
-## Implications
+## What this means for practice
 
-- School-level [[educational-policy-ai|AI policy]] should reflect students' conditional reasoning rather than impose rigid bans or binary cheating definitions, explicitly addressing intent, purpose, and learning impact.
-- [[ai-literacy|AI literacy]] education should prioritize ethical reasoning and [[self-regulated-learning|self-regulation]] over mere compliance—helping students articulate *why* certain uses are problematic.
-- Detection- and surveillance-based responses to [[ai-detection|AI-giarism]] are insufficient because ethical status depends on intent and use, not observable output.
-- Involving students in integrity policy development can strengthen shared commitment and [[trust]], treating academic integrity as an investment in moral development rather than an external constraint.
-- Assessment design should move toward process-visible, reflective, and AI-resilient formats (e.g., justification of choices, evaluative judgment) that reward genuine learning.
+- **Instructors.** Write school-level [[educational-policy-ai|AI policy]] around the conditions students themselves weigh — purpose of use (62.4%), impact on learning (54.1%), and student intent (51.9%) — instead of rigid bans or binary cheating definitions.
+- **Instructors.** Teach ethical reasoning and [[self-regulated-learning|self-regulation]] rather than compliance: students already reasoned conditionally, so the work is helping them articulate why a particular use is problematic.
+- **Instructors.** Do not rely on detection-led responses to [[ai-detection|AI-giarism]]: ethical status depends on intent and use, not on observable output.
+- **Instructors.** Move assessment toward process-visible, reflective, AI-resilient formats that require justification of choices and evaluative judgment, and involve students in integrity policy development so commitment and [[trust]] are shared rather than imposed.
+- **Learners.** Push for transparency norms: several students proposed disclosing AI use in footnotes or references, and roughly 9% rejected all AI use outright — positions that run ahead of existing institutional policy.
+
+## Limitations
+
+- The data are 133 students' open-ended written responses (approximately 8,116 words, averaging about 80 words each) to a hypothetical maths homework scenario, not observed behavior in assessed tasks.
+- Participants were recruited by convenience sampling from only seven Hong Kong secondary schools, all enrolled in a non-graded 12-hour AI literacy course, so their responses likely over-represent ethical awareness relative to students without that exposure.
+- The Padlet format constrained response length and depth and allowed no follow-up probing, so some responses may reflect initial judgments rather than elaborated ethical positions.
+- The findings are tied to one scenario: students' stated reasoning may differ from their behavior in high-stakes assessment, where performance pressure plays a greater role.
 
 ## Connected Concepts
 

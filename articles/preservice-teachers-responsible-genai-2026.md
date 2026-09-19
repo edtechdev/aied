@@ -1,7 +1,7 @@
 ---
 title: "Preparing Pre-Service Teachers for Responsible Generative AI Use: Curriculum Implications for Ethics, Privacy, and AI Literacy"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/preservice-teachers-responsible-genai-2026.md"]
 foundations: [ai-literacy, critical-thinking]
@@ -22,11 +22,19 @@ level: [teacher training]
 - Findings identify a need for **AI literacy and critical-thinking skills** in teacher education, alongside ethics and privacy awareness.
 - The study supports embedding responsible-use considerations across the teacher-education curriculum rather than treating them as an add-on.
 
-## Implications for Practice
+## What this means for practice
 
-- **For teacher educators:** Curriculum should build pre-service teachers' AI literacy and [[critical-thinking|critical thinking]] around authentic GenAI dilemmas (integrity, privacy, human skills).
-- **For curriculum designers:** Ethics, privacy, and AI literacy should be woven throughout teacher preparation, grounded in anticipated classroom realities.
-- **For pre-service teachers:** Preparation for responsible GenAI use involves both technical understanding and ethical reasoning.
+- **Teacher educators.** Require trainees to compare multiple AI-generated lesson plans, identify their limitations and biases, and justify their final pedagogical decisions, instead of accepting unmodified AI-generated output.
+- **Teacher educators.** Build AI-resilient assessment into methods and assessment courses: design tasks and rubrics that make GenAI bypassing visible and score the reasoning behind the artifact.
+- **Teacher educators.** Use practicum and capstone portfolios to assess human–AI role judgment by having trainees document when they delegated to AI and how their decisions protected student learning, equity, privacy, and human interaction.
+- **Curriculum designers.** Distribute GenAI literacy across assessment education, methods courses, practicum supervision, ethics training, and reflective portfolio work rather than adding a standalone module on AI tools.
+- **Curriculum designers.** Give privacy and data governance explicit curricular space, covering how GenAI tools collect, store, and reuse student and teacher data and what teachers can do about it.
+
+## Limitations
+
+- The dataset is 17 pre-service teachers (9 female, 8 male, aged 19–22) at a single medium-sized Hong Kong university, recruited by non-probabilistic purposive sampling from volunteers who had already shown interest in GenAI and teaching.
+- Evidence comes from one approximately 45-minute interview per participant in the 2024 autumn semester; the authors note that a small number of questions about concerns and changing teacher roles may have steered participants toward risk-oriented topics such as privacy, bias, and access.
+- All participants were from Hong Kong, so the findings reflect that context, and the design privileges pre-service teacher voices without triangulating with in-service teachers—a step the authors say would strengthen external validity.
 
 ## Connected Concepts
 

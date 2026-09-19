@@ -1,7 +1,7 @@
 ---
 title: "Designing large language model-based agents with 5E framework for ESL learners' grammar acquisition"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
 foundations: [agentic-ai]
@@ -23,12 +23,19 @@ page_kind: [evaluation]
 - The study reports differences in intrinsic motivation, cognitive change, and performance transformation between the conventional and 5E-framework agent conditions.
 - Findings point to the importance of matching agent design (e.g., 5E inquiry [[scaffolding]]) to learner needs and proficiency.
 
-## Implications for Practice
+## What this means for practice
 
-- **For language teachers:** LLM agents can supplement grammar instruction, but their design (conventional vs. inquiry-based 5E) should be chosen based on learner proficiency and goals.
-- **For tool designers:** Inquiry-based scaffolds such as the 5E framework can shape agent behavior, but low-proficiency learners may need more structured or adaptive support.
-- **For [[research-methods-aied|researchers]]:** The differential response of high- and low-performing learners highlights the need to examine learner-by-design interactions in LLM tutoring.
+- **Instructors.** Match the agent design to learner proficiency: reserve 5E-style inquiry agents for higher-performing learners and give lower-proficiency learners the more structured conventional agent.
+- **Instructors.** Run a pre- and post-check ([[motivation|intrinsic motivation]] plus a short grammar test) before adopting an agent for a unit, because a single 40-minute session produced no measurable acquisition advantage.
+- **Designers.** Build adaptive [[scaffolding]] into inquiry agents — simplified daily-life examples and visual right/wrong comparisons — so low-proficiency learners are not left adrift inside open exploration.
+- **Researchers.** Test learner-by-design interactions rather than average effects, since high- and low-performing learners responded to the same agent in opposite ways.
 
+## Limitations
+
+- Only 37 ESL learners (22 female, 15 male; aged 23–28; college and postgraduate) volunteered at one university, and the authors describe the analyzed sample as small (34 participants).
+- The intervention lasted roughly 40 minutes in total, including pre- and post-tests, and no significant between-group difference in grammar acquisition was found — the authors attribute this partly to a ceiling effect and the short duration.
+- Instruction covered a single grammar structure (the present perfect tense) and a single LLM tool (DeepSeek), which occasionally misunderstood the 5E framework.
+- The controlled setting did not account for multitasking interference or emotional fluctuations typical of real classrooms, reducing ecological validity.
 ## Connected Concepts
 
 - [[llm]]

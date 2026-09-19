@@ -1,7 +1,7 @@
 ---
 title: "Beyond Detection: How Students Use—and Hide—AI in Online Assessments and What Authentic Tasks Can Do About It"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]

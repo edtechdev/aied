@@ -1,7 +1,7 @@
 ---
 title: "The Hidden Cost of Disclosure: A Multi-institutional Study on Undergraduate Students' Generative AI Usage and Faculty Accusations"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -25,12 +25,20 @@ institutions: [educational-policy-ai]
 - **Students want clarity and collaboration.** Most students want clear, unified policies that allow GenAI for brainstorming/[[research-methods-aied|research]]/studying, and support collaborative policy development between faculty and students.
 - **Trust is fragile.** While 92% of students viewed AI as at least somewhat positive for learning, the fear of retribution and inconsistent policies chill honest disclosure.
 
-## Implications
+## What this means for practice
 
-- **Create clear, consistent, transparent AI policies** developed collaboratively with students — punitive or vague policies motivate concealment rather than openness.
-- **Train faculty to build trust, not rely on detection.** Faculty should learn trust-building conversations rather than leaning on unreliable [[ai-detection|AI detection]] tools; disclosure should never be followed by accusation.
-- **Reframe disclosure as collaborative, not confession** — invite students to articulate how and why they used GenAI, positioning it as part of learning rather than misconduct.
-- **Watch for [[equity-in-ai-education|equity]] and irony:** students who are most transparent may be disproportionately scrutinized, undermining the very trust disclosure is meant to build.
+- **Instructors.** Publish a clear AI policy in the syllabus and revisit it aloud: nearly 30% of students were unaware of their course's policy or found it unaddressed, and not knowing the policy predicted non-disclosure.
+- **Instructors.** Replace detection with trust-building conversation — students who always disclosed had over three times the odds of being accused, so disclosure must never be treated as a reason for suspicion.
+- **Faculty developers.** Train staff to reframe disclosure as collaborative articulation of how and why [[generative-ai|GenAI]] was used, positioning it as part of learning rather than a confession.
+- **Administrators.** Co-develop unified policies with students: a "limited use in certain situations" policy was the strongest positive predictor of disclosure, whereas punitive or vague policies motivated concealment.
+- **Administrators.** Audit accusation patterns for [[equity-in-ai-education|equity]], because moderate users were the most likely to be wrongly accused and the most transparent students drew disproportionate scrutiny.
+
+## Limitations
+
+- The survey covers 560 undergraduates at four institutions in the Northeastern U.S.; the authors state this institutional profile limits generalizability to other regions and types of institution.
+- The study was advertised as a GenAI survey, so volunteers were likely those already familiar with ChatGPT and Gemini — students anxious about or inexperienced with the tools probably under-responded, which likely inflates the reported non-use rate.
+- All variables are self-report on sensitive, misconduct-adjacent behavior: despite anonymity assurances, some respondents may not have fully reported their GenAI use, and gift-card incentives may have encouraged fast completion.
+- The disclosure–accusation findings are observational and statistically weak (Cramer's V = .13–.22 across the reported chi-square tests), so they establish association rather than a causal effect of transparency on accusation.
 
 ## Connected Concepts
 

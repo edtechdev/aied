@@ -1,7 +1,7 @@
 ---
 title: "Designing Conversational Agents for Adaptive Instructional Support in Business Simulation Gaming"
 created: "2026-09-01T12:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [game-based-learning, self-regulated-learning]
 technology: [adaptive-learning, conversational-ai]
@@ -25,13 +25,20 @@ audience: [instructional designers, instructors, designers]
 - **Two iterative evaluation cycles refined the artifact.** An alpha workshop with graduate student [[teacher-role|teachers]] surfaced improvement areas in cognitive and social presence (e.g., reducing artificial follow-up questions), which informed the beta version while the CAIS-GBL framework was retained.
 - **Equity-by-design is integral, not incidental.** The authors caution that the absence of demographic effects does not guarantee [[equity-in-ai-education|equitable]] benefit, since attitudinal and [[motivation|motivational]] profiles still shaped perceptions and may warrant targeted support to prevent disengagement.
 
-## Implications for Practice
+## What this means for practice
 
-- **Adopt the CAIS-GBL framework as a reusable design template** for [[conversational-ai|conversational agents]] in [[game-based-learning|DGBL]], with attention to metric-based formative feedback, frictionless onboarding, empathic interaction, and sociability- and equity-by-design (aligned with [[universal-design-for-learning|UDL]]).
-- **Align agent design with learners' [[trust|AI attitudes]] and game-related motivations**, not only their demographics or prior knowledge, when planning [[adaptive-learning|adaptive]] instructional support.
-- **Embed equity safeguards into CA architecture**, such as grounding feedback exclusively in in-game performance metrics, minimizing personal data, and providing transparent, contestable support to reduce bias risk.
-- **Operationalize adaptive support at scale in resource-constrained settings**, using in-game metrics to deliver timely [[feedback]] and [[scaffolding]] without requiring one-to-one human support.
+- **Instructional designers.** Adopt the CAIS-GBL framework (four design principles, fifteen design features) as a reusable template for [[conversational-ai|conversational agents]] in [[game-based-learning|digital game-based learning]], with metric-based [[formative-assessment|formative feedback]], frictionless onboarding, empathic interaction, and sociability and equity by design.
+- **Instructors.** Target support at learners' [[trust|AI attitudes]] and game-related motivations rather than at demographics: gender, age, and [[prior-knowledge|prior knowledge]] did not predict perceptions, while AI attitude and the "Socialiser" player type did.
+- **Designers.** Ground agent feedback exclusively in in-game performance metrics, minimize personal data, and make support transparent and contestable so the agent removes barriers instead of reinforcing disparities.
+- **Instructional designers.** Plan for acceptance to build over the term: perceived social presence and self-regulated learning support rose across the five simulation rounds (β = 0.254 in round 2 to β = 0.470 in round 5).
+- **Instructors.** Use in-game metrics to deliver timely [[scaffolding|support]] at scale where one-to-one human support is infeasible, since 68.9% of the 61 reported learning hurdles were cognitive rather than technical.
 
+## Limitations
+
+- No comparison group: the authors state they cannot isolate Lara's added value relative to using the business simulation game without the agent, so incremental impact on learning processes remains unestimated.
+- All five perception dimensions are self-reported, and the beta analysis rests on the 83 of 122 invited students who completed all five questionnaires; attrition across the multi-week study reduced statistical power and constrained model complexity.
+- Adaptive support was driven mainly by group-level performance, so it may not accurately reflect individual knowledge or behavior.
+- The evaluation sits in a single institution and two courses with a relatively homogeneous age range (M = 23.0, SD = 2.59), and the needs analysis drew on n = 100 students in one course, limiting generalizability.
 ## Connected Concepts
 
 - [[conversational-ai]]

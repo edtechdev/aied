@@ -1,7 +1,7 @@
 ---
 title: "Beyond “painting in pink”: A critical case study of all-girls generative AI workshops in a European makerspace"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 foundations: [ai-literacy]
@@ -29,14 +29,20 @@ While stakeholders generally viewed the all-girls format positively as a safer, 
 - **Tool experience differed by pedagogy, not just technology.** Girls felt their ideas were inadequately reflected by Playground-generated images and preferred animating their own drawings with Deforum, which leveraged rather than replaced their original creations — underscoring that GenAI should amplify, not overshadow, girls' [[creativity|creative]] expression.
 - **Girlification is insufficient for structural change.** Superficial adjustments (girl-only grouping, women facilitators, feminine marketing) operate mainly at the symbolic level; without changes across symbolic, structural, social, and individual levels, girls' marginalization persists.
 
-## Implications for Practice
+## What this means for practice
 
-- **Move beyond "painting in pink" / girlification toward centering girls:** foreground girls' voices, needs, agency, and assets across planning, implementation, and evaluation, and interrogate power relations with questions such as "For whom/whose practice?" and "Based on whose values?" (Vossoughi, 2017).
-- **Adopt co-production:** involve girls as decision-makers and change agents in choosing whether, what, and how GenAI is used, rather than positioning them as passive recipients of predetermined content.
-- **Reject deficit-based assumptions:** avoid presuming girls lack interest, confidence, or relevant knowledge; critically reflect on and challenge the masculinist norms and structures that shape computing.
-- **Evaluate GenAI tools through an equity lens before use:** examine safety, [[accessibility]], affordability, language barriers, and biases embedded in training data and algorithms; integrate GenAI intentionally as a lever to amplify girls' voices rather than a superficial "add-on."
-- **Design intentional peer collaboration and scaffolded prompt-writing,** recognizing computing as a social and creative practice, and address English-language dominance in tool design.
-- **Build collaborative partnerships** among AI technology developers, practitioners, and [[research-methods-aied|researchers]] to bridge the gap between tool design and equitable educational use, supported by knowledge exchange and reflective dialogue.
+- **Instructors.** Center girls across planning, implementation, and evaluation instead of girlifying. Girl-only grouping, women facilitators, and feminine marketing operate at the symbolic level; interrogate power directly with questions such as "For whom/whose practice?" and "Based on whose values?" (Vossoughi, 2017).
+- **Instructors.** Co-produce with girls as decision-makers and change agents — have them decide whether, what, and how GenAI is used — and reject deficit-based assumptions that presume girls lack interest, confidence, or relevant knowledge.
+- **Designers.** Vet GenAI tools for [[equity-in-ai-education|equity]] before adopting them: Playground lost its free functions and became "pro" mid-project, a cost barrier for an under-resourced nonprofit, and English-only prompt input was a structural barrier for non-native speakers.
+- **Designers.** Design GenAI activities to amplify girls' own making rather than replace it: girls preferred animating their own drawings with Deforum over image-generator output that did not reflect their ideas, and they need scaffolded prompt-writing rather than assumed English fluency.
+- **Administrators.** Build the partnerships and peer collaboration the workshops lacked. Girls worked mostly individually on laptops despite collaborative intent, and partnerships among AI developers, practitioners, and researchers are needed to bridge tool design and equitable educational use.
+
+## Limitations
+
+- A single critical case study of an all-girls initiative in one European urban makerspace, part of a two-year partnership across six makerspaces in five countries; the authors state the limited sample and specific context mean findings cannot be generalized to wider makerspace settings.
+- Girls' own views rest on five interviews conducted by youth co-researchers with limited interview experience, producing short and closed responses, and all participating girls were white and lived in an urban European city, so their experiences are not equivalent to those of marginalized girls facing more complex intersectional challenges.
+- Girls' talk in a European language was not directly accessible to the researchers; translated and paraphrased accounts shared later by practitioners may have reduced the nuances of the girls' original meanings.
+- The data corpus is small and multi-source — 15 interviews with girls, parents, and practitioners, four reflective sessions, two observation fieldnotes, and 44 GenAI-generated images — and girls' direct participation in decision-making was limited throughout the initiative.
 
 ## Connected Concepts
 

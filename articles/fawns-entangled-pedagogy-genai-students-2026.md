@@ -1,7 +1,7 @@
 ---
 title: "Illuminating complex student realities of artificial intelligence through an entangled pedagogy framework"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [learner-identity]
 pedagogy: [pedagogical-partnerships, student-ai-interaction, well-being]
@@ -25,9 +25,20 @@ methods: [qualitative-research]
 - **Emotion, trust, and morality are entangled with pragmatics.** GenAI use is negotiated amid guilt, fear, frustration, and pragmatic pressure (e.g., Howard submitting assignments "with 2 min to spare," his fear of detection and "harsh consequences"). Decisions blend personal integrity, institutional expectations, trust relations with institutions/peers/technologies, and concerns about future employability and the "human element" of learning.
 - **Sector approaches mis-frame the issue.** Dominant responses — staff development, assessment redesign, compliance regimes, AI detection — rely on students complying with policy despite evidence their views diverge from educator expectations. Policy does not translate cleanly into practice, because GenAI is entangled with ethics, identities, relationships, aspirations, and external pressures.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper argues meaningful institutional response requires creating collaborative [[pedagogical-partnerships|dialogic spaces]] where students' voices are heard and educational tensions are made visible "by design" (a seamful approach), rather than resolving complexity through top-down rules or surveillance. It positions students as co-interpreters and co-designers — not passive recipients of policy or potential rule-breakers — and draws on the students-as-partners literature (Matthews et al.) to argue for cultures of openness, honesty, and vulnerability over adversarial behavioral control. The authors caution that challenges of equity, diversity, and inclusivity make it harder to ensure a "level playing field" when students must make their own contextual judgments. They call for moving beyond binary framings of AI as harmful or beneficial, and beyond "[[ai-literacy|AI literacy]]" conceived purely as technical competency, toward fostering reflective, [[ethics|ethical]], context-sensitive judgment. Notably, they frame entangled pedagogy as a flexible, reflexive starting point for analysis — with the authors using Barad's notion of agential cuts as a "viewfinder" to bound what is foregrounded — rather than an expandable model that encompasses everything. This connects to themes of [[governance|institutional governance]], [[trust|trust relations]], [[well-being|student well-being]], and [[equity-in-ai-education|equity]] in the knowledge base.
+- **Educators.** Create collaborative dialogic spaces where students can voice tensions about GenAI and make them visible "by design" (a seamful approach), rather than resolving complexity through top-down rules or surveillance.
+- **Educators.** Foster reflective, [[ethics|ethical]], context-sensitive [[evaluative-judgment|judgment]] instead of treating [[ai-literacy]] as purely technical competency, and move past binary framings of GenAI as simply harmful or beneficial.
+- **Administrators.** Replace compliance regimes and [[ai-detection|AI detection]] with cultures of openness, honesty, and vulnerability, positioning students as co-interpreters and co-designers rather than passive recipients of policy or potential rule-breakers.
+- **Administrators.** Coordinate GenAI expectations centrally rather than leaving each subject coordinator to decide alone, since responsibility delegated to individual coordinators produces the inconsistency students must then navigate.
+- **Policymakers.** Co-design institutional guidance with students and acknowledge that equity, diversity, and inclusivity make a "level playing field" hard to guarantee when students must exercise their own contextual judgment.
+
+## Limitations
+
+- The analysis foregrounds only three participants (John, Vivian, Howard), and the authors state explicitly that they do not aim to generalize across the dataset, compare groups, or comment on prevalence.
+- All three analyzed participants came from the same university, even though the wider focus group dataset spanned 79 students in 20 focus groups across four Australian universities.
+- The study is a secondary analysis of existing focus group data rather than purpose-designed individual interviews, and the authors treat accounts as co-constructed within focus group interactions, so they are contingent on those conversational conditions.
+- Participant selection was purposefully driven by the lead author's identification of analytically rich excerpts (40 identified, eight transcripts reviewed), which the authors present as one partial articulation of an always incomplete inquiry.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

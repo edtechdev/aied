@@ -1,7 +1,7 @@
 ---
 title: "Academic Integrity in the Age of AI: University Students' Study Practices and Ethical Judgments"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [creativity]
@@ -26,13 +26,20 @@ confidence: high
 6. **Independent study time correlated with stricter judgments** (OR = 1.174, p = 0.033), suggesting students who invest more in independent preparation value process, effort, and accountability.
 7. **Perceived dependence, not frequency, predicted negative consequences.** Reported academic failure due to AI was strongly associated with perceived AI dependence (χ² = 25.44, Cramer's V = 0.267) but not with frequency of use.
 
-## Implications
+## What this means for practice
 
-- The findings support a shift from a detection-centered to an authorship-centered integrity culture, orienting around disclosure, responsibility, and protecting meaningful student authorship.
-- **Pragmatic ambiguity** highlights the need for clearer institutional boundaries and assignment-level guidance on permissible AI use, rather than rigid prohibition.
-- Because perceived value and dependence shape judgment and consequences, [[ai-literacy|AI literacy]] education and assessment design should foster self-regulated, non-substitutive use.
-- Findings from an underrepresented Latin American public-university context broaden global understanding of how norms form unevenly in [[higher-ed|higher education]].
-- Institutions should attend to creativity concerns, which appear to sharpen students' own ethical evaluations, and should address inequitable access to academic support.
+- **Instructors.** Replace detection-centered enforcement with authorship-centered guidance: state at assignment level which AI uses are permissible and require disclosure of the tasks delegated to AI, rather than relying on a general prohibition.
+- **Instructors.** Teach non-substitutive, self-regulated use directly, because more frequent AI use (OR = 0.669) and stronger perceived learning support (OR = 0.581) each lowered the odds of students labeling AI use as fraud, while perceived dependence rather than frequency tracked reported academic failure.
+- **Learners.** Treat unresolved disagreement as a reason to ask rather than to guess: 135 of 357 respondents were undecided about the fraud framing while most of them used AI almost always.
+- **Administrators.** Publish assignment-level boundaries, fund [[ai-literacy|AI literacy]] work around authorship and dependence, and address inequitable access to academic support; read the creativity concern behind stricter judgments (OR = 1.498, p < 0.001) as a teaching topic rather than grounds for a ban.
+- **Researchers.** Test whether disclosure templates, oral defenses, or process-based assessment reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
+
+## Limitations
+
+- Single site: the 357 undergraduates came from 14 programs at the Manizales campus of one Colombian public university, and the authors present the findings as context-sensitive rather than a universal model of student ethics.
+- All measures are self-reported and the design is cross-sectional, so the results are associations rather than causal effects; social desirability may have led some students to underreport practices they consider questionable.
+- Integrity was measured with a small number of direct perception items rather than a validated questionnaire, including a single item on whether AI use is fraud, and the dataset held no scenario-based AI cases or disclosure-practice items.
+- The survey captured declared perceptions, not observed AI behavior, so the study cannot show how stated judgments correspond to students' actual AI-use practices.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Role of Learning Analytics and Generative Artificial Intelligence on Decision-Making and Learning Design Practice in Higher Education"
 created: "2026-08-27T12:05:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [self-determination-theory]
@@ -25,12 +25,19 @@ audience: [instructional designers, instructors, institutions]
 - **Context and [[creativity]] are central across both.** The co-occurrence of technology role, contextual information, and creative problem-solving was high across both LA and GenAI networks — instructors combine tool affordances with context and creativity to solve instructional problems.
 - **SDT lens: supporting instructor needs matters.** Supporting instructors' autonomy, competence, and relatedness fosters creative problem-solving in [[learning-design|learning design]]; collaborative design and shared [[governance|institutional]] decision-making support these needs.
 
-## Implications
+## What this means for practice
 
-- **Use LA and GenAI as complementary, not interchangeable, tools:** LA for diagnosing [[student-engagement|engagement]] and targeting support; GenAI for ideation and assessment development — a holistic, context-aware integration.
-- **Ground analytics in pedagogical context.** LA interpretation requires understanding learning-design intent, echoing the human-centered learning analytics agenda.
-- **Support instructors' psychological needs.** Institutions should enable collaborative design, shared decision-making, transparent information flow, and autonomy over tool integration to foster creative, need-supportive [[learning-design|learning design]].
-- **Co-design assessment with students.** Using GenAI to [[scaffolding|scaffold]] student participation in rubric/assessment creation supports student autonomy and competence (SDT).
+- **Instructional designers.** Treat [[learning-analytics]] and [[generative-ai]] as complementary rather than interchangeable: use LA to diagnose [[student-engagement|engagement]] and target support, and GenAI to draft assessment elements and rubrics.
+- **Instructors.** Ground every analytics interpretation in pedagogical intent: in the LA network, technology role co-occurred most strongly with contextual information and creative [[problem-solving]] (0.32), so dashboards cannot be read apart from course context.
+- **Instructors.** Co-design assessment with students using GenAI; the GenAI network linked technology role to assessment design (0.26) and to design for student self-determination (0.15), supporting autonomy and competence.
+- **Administrators.** Support instructors' basic psychological needs — autonomy, competence, and relatedness — through collaborative design, shared decision-making, and transparent information flow, the conditions the SDT lens ties to creative [[learning-design]].
+
+## Limitations
+
+- Participants came from one faculty of one large Australian university — instructors in pre-service teacher education and enabling programs recruited voluntarily — so the findings are not generalizable to other disciplines or institutional settings.
+- Fourteen participants contributed to both the LA and the GenAI focus groups, and the 11 groups (21 LA participants, 18 GenAI participants) met online for only 45–60 minutes each.
+- The ENA results describe discourse co-occurrence, not observed design behavior; the authors state that connections drawn from low or high co-occurrence are researcher inferences grounded in discourse patterns.
+- Coding reliability was initially weak — low pre-moderation K-values for codes such as D.AUTO and I.E., which showed high raw agreement but disproportionately low kappa — and the binary aggregation used in the ENA model does not account for the intensity or repetition of connections within a unit of analysis.
 
 ## Connected Concepts
 

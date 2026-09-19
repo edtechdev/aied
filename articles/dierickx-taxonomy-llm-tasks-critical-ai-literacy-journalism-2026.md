@@ -1,7 +1,7 @@
 ---
 title: "A Taxonomy of LLM-Supported Tasks for Critical AI Literacy in Journalism"
 created: "2026-08-26T17:52:26-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 technology: [generative-ai, human-in-the-loop-ai, prompt-engineering]
@@ -53,6 +53,21 @@ In the classroom, the approach shifts assessment from evaluating the "quality" o
 ## Transferability beyond journalism
 
 While grounded in journalism, the taxonomy's underlying logic is transferable to other knowledge-intensive professions — law, [[medical-education|medicine]], public policy — where accuracy, source evaluation, and accountability are at stake, and where practitioners increasingly decide what can be delegated to algorithmic systems. It understands AI literacy as a form of professional reasoning learned through the practice of defining tasks, formulating prompts, and critically evaluating outputs in context, and it argues the ability to articulate *why* a task is or is not suitable for LLM support is more valuable than familiarity with any particular tool.
+
+## What this means for practice
+
+- **Instructors.** Teach prompting as situated professional judgment, not a technical trick: have students define the task, justify their prompt choices, and evaluate the output against journalism's norms of verification and editorial responsibility.
+- **Instructors.** Structure exercises around the four news-workflow stages (newsgathering, sensemaking, editing, publication/distribution) so every task is paired with an explicit risk and mitigation — for example, linking paired with source citation, cross-checking, and human validation.
+- **Instructors.** Move assessment away from the quality of AI-generated text toward articulating tasks, justifying prompts, and reflexively evaluating model behavior.
+- **Instructors.** Require students to argue why a task is or is not suitable for LLM support, under what conditions, and with what consequences for accuracy and accountability.
+- **Instructors.** Address the four challenges of GenAI in postdigital education — detection, sourcing, writing, and attitude — through repeated task formulation rather than one-off tool tutorials.
+
+## Limitations
+
+- This is a conceptual, task-based taxonomy built from literature review and theoretical analysis; the authors state that empirical work — classroom interventions, comparative studies, or think-aloud protocols — is needed to validate, refine, or challenge it.
+- It was developed for journalism education and grounded in journalism's verification and editorial norms; its extension to law, medicine, and public policy is argued by analogy, not tested.
+- The baseline prompts and risk-and-mitigation strategies are model-agnostic examples, not evaluated interventions: the paper reports no classroom study, student sample, or learning outcome.
+- Its four-stage news-workflow frame simplifies journalistic practice, which the authors note varies across organizations, genres, and contingent circumstances, so some tasks span stages.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Time Student Monitoring"
 created: "2026-09-01T10:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
 technology: [affective-computing]
@@ -21,12 +21,20 @@ page_kind: [evaluation]
 - **Multi-agent coordination** enables classroom-wide affective monitoring in authentic, in-the-wild settings.
 - Evaluation on [[discipline-specific-aied|domain-specific]] Vietnamese K–12 classroom data supports real-world feasibility of emotion-aware classroom quality assessment.
 
-## Implications for Practice
+## What this means for practice
 
-- **For educators and schools:** Real-time emotion and engagement monitoring can support classroom-quality assessment and timely [[pedagogy|pedagogical]] adjustments, especially in large classes.
-- **For technologists:** Edge-based IoT architectures make affective classroom monitoring feasible and scalable in authentic environments.
-- **For [[research-methods-aied|researchers]]:** The study demonstrates a deployable path from affective computing models to real-time classroom systems, with attention to latency and load.
+- **Educators.** Use the group-level affective signal as a navigation aid rather than a verdict: a spike in "Disengaged" states after a concept introduction is a pulse check, and the authors explicitly frame the system as non-evaluative.
+- **Educators.** Avoid high-stakes individual inference from facial affect, because "Anger" or "Sadness" can reflect productive struggle or deep concentration and the system cannot distinguish those states.
+- **Edtech designers.** Design to edge constraints from the outset: the frame-wise MobileNetV2 pipeline sustained 25 FPS with ULFG version-RFB (0.02 s), whereas RetinaFace's higher mAP (0.95) was too slow for a real-time feedback loop.
+- **Edtech designers.** Combine confidence-score filtering with temporal stabilization rather than relying on raw frame output, since frame-level predictions oscillate between adjacent emotion classes under low-intensity expressions.
+- **Researchers.** Budget for dataset composition and the annotation ceiling when validating classroom affect models: 40% of the Classroom Emotion Dataset is ages 6–10 versus 25% ages 15–18, and expert annotators reached only κ = 0.83 on the Passive Presence versus Attentive Listening boundary.
 
+## Limitations
+
+- Urban-centric purposive sampling: the 385 K–12 students (School A 105, School B 160, School C 120) and 60 subject teachers came from three schools in one large metropolitan area, so rural and under-resourced settings, and their likely domain shift, are untested.
+- Age imbalance is confounded with development: with 40% of the dataset aged 6–10 and only 25% aged 15–18, the accuracy gradient (87.3% primary to 82.2% high school) cannot be separated from training-distribution effects.
+- Vision-only labels: 10% of "Passive Presence" instances were classified as "Attentive Listening" and 8% of "Disengaged" as "Passive Presence", measured against an expert annotation ceiling of κ = 0.83 on those same categories.
+- Robustness and outcome limits: severe occlusions and persistent extreme non-frontal poses yield unreliable or missing detections, and with no longitudinal outcome data the study demonstrates perceived utility rather than causal classroom impact; the monitoring reaction (Hawthorne effect) was assessed only through indirect evidence.
 ## Connected Concepts
 
 - [[affective-computing]]

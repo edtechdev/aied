@@ -1,7 +1,7 @@
 ---
 title: "\"Should I Tell My Teacher?\" Student AI Disclosure Practices, Stigma, and Self-Regulated Learning in Higher Education"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [help-seeking, self-regulated-learning, social-emotional-learning]
@@ -25,12 +25,20 @@ audience: [instructors, educators, administrators]
 - **Discipline is the strongest predictor of disclosure to teachers.** Education, Social Sciences, and [[stem-education|STEM]]/Health students reported higher disclosure than Business students (with [[humanities-education|Humanities]] not differing from Business). Language status was marginal (monolingual students tended to disclose less); years of study did not predict disclosure.
 - **Disclosure ≠ help-seeking, but can make it visible.** Help-seeking is obtaining assistance; disclosure makes that assistance visible to others. The two are logically and temporally separable.
 
-## Implications
+## What this means for practice
 
-- **Behavior-only disclosure policies (mandatory declarations) are insufficient** if they don't address the affective barriers — judgment, stigma, fear of penalty — that drive concealment.
-- **Normalize AI use and reduce perceived judgment** through classroom practices, instructor-led examples, and reassurance that disclosure will not be penalized, to lower the social cost of transparency.
-- **Provide low-barrier disclosure mechanisms** — in-assignment reflection prompts, opt-in consultation, embedded AI-use reflection tools — so disclosure feels like learning regulation, not confession.
-- **Cultivate disclosure norms deliberately;** students do not "grow into" transparency with academic progression, so [[scaffolding|scaffold]] it from the first year.
+- **Instructors.** Replace behavior-only declaration requirements with low-barrier disclosure touchpoints — in-assignment reflection prompts, opt-in consultations, or embedded AI-use reflection tools — so students surface AI use as learning [[regulation]] rather than as confession.
+- **Instructors.** Normalize AI use in class with instructor-led examples and an explicit statement that disclosure will not automatically be penalized, lowering the social cost of transparency that drove concealment in this study.
+- **Administrators.** Scaffold disclosure norms deliberately from the first year instead of assuming transparency develops with academic progression: years of study did not predict disclosure to teachers here (β = −0.12, p = .303).
+- **Instructors.** Give the heaviest AI users direct instructional attention: students who frequently uploaded drafts for AI review reported the highest Worry Index scores (r = .477) and more complete secrecy (r = .305) with no detectable increase in disclosure to teachers (r = –.146).
+- **Faculty developers.** Build discipline-specific disclosure guidance: academic discipline was the largest unique predictor of disclosure to teachers (partial r = .36), so one cross-campus declaration policy will not fit Education, Business, and Humanities programs equally.
+
+## Limitations
+
+- Single online education course at one Western Canadian university, housed in an Education department — a context the authors note may have been more favorable to disclosure than other academic settings, strongly limiting external validity.
+- Participation was voluntary and incentivized with up to two percent of the course grade, tied to depth of response; students already comfortable discussing AI use may have self-selected, inflating reported transparent disclosure.
+- Modest sample (N = 78) with an underpowered regression: the Business reference group held n ≈ 5 and the language-status effect was marginal (B = –0.51, p = .053), so the demographic findings are hypothesis-generating only.
+- The 11-item instrument is newly developed without full psychometric validation: the proposed Disclosure to Peers (α = .34) and AI Usage (α = –.30) composites failed reliability and were analyzed item by item, and the cross-sectional design precludes causal claims about worry and concealment.
 
 ## Connected Concepts
 

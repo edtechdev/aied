@@ -1,7 +1,7 @@
 ---
 title: "Artificial Intelligence and Grade Inflation"
 created: "2026-09-02T04:31:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -32,12 +32,19 @@ Grades summarize student performance and signal skill to students, graduate prog
 - **The mechanism is task displacement, not learning gains or sorting.** The triple-differences estimate shows above-median-homework courses gained an *additional* 16 pp in the share of A grades relative to below-median courses with the same AI exposure. If gains reflected genuine learning or sorting, they would appear regardless of assessment format; their concentration in unsupervised homework is consistent with AI substituting for student effort where instructors cannot observe production.
 - **Placebo and robustness confirm specificity.** Oral-presentation task share (weak AI capabilities) shows no effect on grades. Results are robust to exposure definitions, enrollment thresholds (15–40), pre-periods, and clustering.
 
-## Implications
+## What this means for practice
 
-- **For assessment validity:** AI inflates grades selectively — concentrated in writing/coding-intensive, homework-heavy courses — reducing the comparability of grades across courses and eroding the informational value of transcripts in ways difficult to detect from grade distributions alone. This is a direct threat to [[assessment-validity]].
-- **For instructors:** Measured gains in student performance after AI adoption may reflect shifts in the production of submitted work rather than genuine skill improvement. Assessment reform is the most direct response, but moving all assessment to supervised in-person environments would narrow the capabilities measured; more promising is redesigning assessments so AI use is structurally constrained or purposefully incorporated (process documentation, justification, follow-up interaction).
-- **For institutions:** Distorted grade signals may weaken human-capital development if students overestimate mastery and underinvest in foundational skills, and may push employers toward alternative screening. The findings reinforce a [[feedback|feedback loop]] between [[ai-education|AI in education]] and AI in production that could accelerate automation.
-- **For research:** Aggregate measures of AI use are unlikely to yield consistent effects on learning — the effect depends on the task and whether AI engagement constitutes displacement or augmentation.
+- **Instructors.** Audit which graded tasks AI can complete unaided, and treat measured rises in student performance as a claim about how submitted work was produced rather than evidence of learning: the A-grade share rose 13 percentage points and mean GPA 0.12 points in AI-exposed courses.
+- **Instructors.** Redesign assessments so AI use is structurally constrained or purposefully incorporated — process documentation, justification, follow-up interaction — rather than relocating all assessment to supervised in-person settings, which would narrow the capabilities being measured.
+- **Administrators.** Read grade distributions by course task profile and homework weight instead of campus-wide GPA: because effects concentrate in unsupervised homework-heavy courses, the distortion sharply reduces transcript comparability across courses for employers and graduate admissions.
+- **Researchers.** Measure AI exposure at the task level. Aggregate measures of AI use are unlikely to yield consistent effects, because the outcome depends on whether engagement with AI constitutes [[cognitive-offloading|displacement]] or augmentation.
+
+## Limitations
+
+- The analysis covers a single institution — a balanced panel of 319 courses across 84 departments at one large selective research university in Texas — which the author states limits external generalizability.
+- The panel is restricted to courses large enough to appear in public grade distributions, which may underrepresent small seminars and upper-division courses, although varying the enrollment threshold between 15 and 40 students left results unchanged.
+- AI exposure is inferred from course task composition in Fall 2022 syllabi; the study does not directly measure student AI use at the course level.
+- The design identifies an average effect only: heterogeneity in how individual students engage with AI within a course remains unobserved, so the distribution of displacement versus augmentation across students is not identified.
 
 ## Connected Concepts
 

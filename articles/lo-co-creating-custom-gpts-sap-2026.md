@@ -1,7 +1,7 @@
 ---
 title: "Co-creating custom GPTs: an autoethnographic study of undergraduate students as partners in generative AI innovation"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, ai-literacy, human-ai-collaboration]
 pedagogy: [collaborative-learning, pedagogical-partnerships, student-ai-interaction]
@@ -36,6 +36,21 @@ Students partnered with academics to build custom GPT chatbots specialized for t
 ## Extending Students-as-Partners Into the AI Era
 
 The central argument is that co-creation with GenAI can extend the SaP paradigm to include GenAI tools themselves, moving students from passive use toward genuine partnership in shaping educational technology. The authors reflect on the [[ethics|ethical]] and pedagogical implications of GenAI and advocate for student voice as central to responsible innovation. By embedding partnership pedagogy into GenAI co-creation, the study offers a model for more inclusive, critical, and transformative engagement with emerging technology — one that positions [[student-ai-interaction|student co-design]] as both a learning activity and a [[governance]] mechanism in the responsible integration of AI across university settings.
+
+## What this means for practice
+
+- **Educators.** Partner students in building unit-specific AI tools rather than only teaching about them, since this project moved undergraduates from consumers of educational technology to co-producers who understood the technology critically.
+- **Educators.** Provide scaffolding for [[generative-ai]] co-creation — critique triggers, clear strategies for iterative testing, checkpoints for reflection, and explicit discussion of coping with failure or unexpected outcomes.
+- **Designers.** Keep technical and pedagogical training inseparable: have student partners frame prompt and design choices around learning purposes, as the Socratic cGPTs did by responding to queries with questions rather than answers.
+- **Designers.** Budget for the iterative, unpredictable nature of the work, including repeated cycles of design, tailoring, testing, and optimization before a tool becomes unit-appropriate.
+- **Educators.** Recruit with equity in mind — offer student-partnership roles through more than one route (scholarship and for-credit placement) so that co-creation does not reproduce the "usual suspects" of already confident and well-connected students.
+
+## Limitations
+
+- The dataset comprised five undergraduate students working with five academics, a self-selected, high-performing cohort likely predisposed to reflective and independent learning, so the themes of agency, confidence, identity shift, and adaptability may partly reflect who chose to participate.
+- Students served as both participants and reflectors, which the authors state may have shaped the reflections toward more constructive or affirming narratives and introduced a degree of positive bias.
+- The work took place in English-speaking STEM units at a single institution (Monash University), where institutional culture, disciplinary norms, and language fluency may all have influenced engagement with GenAI and partnership practices.
+- The authors position the study as a situated proof-of-concept for students-as-partners GenAI co-creation rather than evidence that such partnerships operate identically across broader, less self-selecting student populations.
 
 ## Connected Concepts
 - [[pedagogical-partnerships]]

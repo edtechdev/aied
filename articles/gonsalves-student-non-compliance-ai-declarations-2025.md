@@ -1,7 +1,7 @@
 ---
 title: "Addressing student non-compliance in AI use declarations: implications for academic integrity and assessment in higher"
 created: "2026-08-27T11:15:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -27,12 +27,20 @@ institutions: [educational-policy-ai]
 - **TPB helps but needs extension.** Attitudes, subjective norms, and perceived behavioral control explain compliance, but GenAI's ethical ambiguity, internalized peer norms, and the [[philosophy-of-ai-in-education|philosophical]] divide over whether AI is a personal tool or a resource requiring disclosure complicate the model.
 - **Students want better support.** They recommended clearer guidelines, a "checklist" for AI declarations, workshops on ethical AI use, consistent enforcement, and a "friendly," trust-based policy rather than suspicion and punishment.
 
-## Implications
+## What this means for practice
 
-- **Develop clear, consistent AI use policies** with detailed examples of acceptable use and how to declare it, tailored to course and student needs.
-- **Train faculty** for consistent communication and enforcement.
-- **Reframe [[educational-policy-ai|AI policies]] toward innovation and ethical responsibility**, not just compliance — present AI as a learning-enhancement tool to reduce fear of self-incrimination.
-- **Build [[governance|institutional]] trust** — supportive, transparent environments where honest declarations are assessed fairly; introduce AI use in low-stakes [[formative-assessment|formative]] assessments first to normalize declarations.
+- **Educators.** Replace the declaration-as-integrity-warning framing with a positive, checklist-style AI declaration: 74% of students failed to declare when the declaration sat alongside plagiarism statements and felt like "admitting to something wrong."
+- **Administrators.** Standardize enforcement across courses and instructors; perceived inconsistency was one of the four barriers to compliance, alongside fear of penalties, ambiguous guidelines, and peer influence.
+- **Faculty developers.** Train faculty to communicate AI policy consistently, so students hear the same rules on acceptable use and how to declare it in every course.
+- **Assessment designers.** Introduce AI declarations in low-stakes [[formative-assessment|formative]] tasks first to normalize the practice before attaching them to high-stakes graded coursework.
+- **Administrators.** Reframe AI policy toward innovation and ethical responsibility — a friendly, trust-based policy backed by clear guidelines and workshops — rather than compliance and suspicion.
+
+## Limitations
+
+- Single case study at King's Business School: the survey yielded 57 valid responses, 3.7% of the population, and the authors note that the institution's unique cultural and policy environment limits the applicability of these findings.
+- Seventeen semi-structured interviews (56 minutes to 1 hour 43 minutes, £30 per participant) were conducted and analyzed by the sole researcher, whose reflexivity procedures — repeated readings and reflective journaling — stand in for independent coding.
+- The survey instrument was a service evaluation rather than a purpose-built research measure, and the authors caution that the study captures only the early phase of AI policy implementation.
+- The analysis stops at one school and one framework: the authors state that expanding TPB or integrating other theoretical perspectives is needed to capture GenAI's ethical ambiguity, so the attitude–behavior links reported here are not transferable as policy effects.
 
 ## Connected Concepts
 

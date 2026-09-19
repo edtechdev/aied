@@ -1,7 +1,7 @@
 ---
 title: "An Exploratory Machine Learning Approach to Understanding Determinants of Future ChatGPT Use in Higher Education"
 created: "2026-09-01T14:00:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
 pedagogy: [student-engagement]
@@ -29,14 +29,20 @@ Methodologically, the study applies exploratory factor analysis (EFA; KMO = 0.68
 - **Nonlinearity and interaction.** SHAP interaction heatmaps, PDP/ICE curves, and 2D partial dependence surfaces reveal non-additive relationships — notably between learning support, reliability/accuracy concerns, and overall satisfaction — supporting the use of ML over purely linear models.
 - **Calibration and robustness.** SVC showed the best calibration (Brier 0.14, ECE 0.10). Sensitivity analyses across seeds, sampling strategies, and PCA thresholds, plus an ablation study, showed performance was stable and that PCA benefits linear models but can reduce ensemble-model performance.
 
-## Implications for Practice
+## What this means for practice
 
-- **[[governance|Institutional]] [[scaffolding]] matters more than individual initiative.** Since learning support and accessibility drive adoption, [[teacher-role|educators]] should embed ChatGPT within guided activities with clear instructions on appropriate use, verification strategies, and reflective engagement rather than leaving adoption to independent student experimentation.
-- **Align AI use with instructional goals.** The importance of academic assistance and engagement suggests ChatGPT is most effective when tied to [[feedback]], explanation, and [[formative-assessment|formative]] support, reinforcing the need for AI literacy curricula emphasizing critical evaluation, [[ethics|ethical]] use, and learner autonomy.
-- **Adopt balanced governance, not pure restriction.** The role of academic integrity measures points to institutional guidelines that encourage responsible use and pedagogical innovation rather than imposing purely restrictive controls.
-- **Target support by student group.** Combined demographic and perceptual effects suggest institutions can use predictive insights to identify groups needing tailored training, support, or policy interventions for [[equity-in-ai-education|equitable]] AI adoption.
-- **Prioritize interpretable modeling for decision support.** The study models probabilistic calibration and explainable ML (SHAP, calibration metrics) as important for educational decision contexts where trustworthy, well-calibrated estimates are required.
+- **Instructors.** Embed ChatGPT in guided activities with explicit instructions on appropriate use, verification strategies, and reflective engagement instead of leaving adoption to independent student experimentation, since Learning Support & Accessibility was the most influential predictor.
+- **Instructors.** Tie AI use to [[feedback]], explanation, and [[formative-assessment|formative support]], because Academic Assistance & Engagement carried the strongest association with intended future use.
+- **Administrators.** Adopt balanced [[governance]] — academic-integrity guidelines plus support for pedagogical innovation — rather than purely restrictive controls, which do not map onto what predicts adoption.
+- **Policymakers.** Target training and support by student group: adoption intent differed sharply by gender (71.1% of males vs. 51.1% of females favoring use), age, and region, while [[academic-integrity|integrity]] concerns did not separate users from non-users.
+- **Administrators.** Require interpretable, calibrated modeling — SHAP explanations plus Brier score and Expected Calibration Error — whenever predictive insight is used for educational decisions.
 
+## Limitations
+
+- Convenience sampling and a modest sample: 166 responses were collected and only 111 remained in the final analytical sample after conservative outlier removal, which the authors note may introduce bias and limit generalizability.
+- No external validation: despite stratified 10-fold cross-validation with SMOTENC, the models were never tested on an independent population, restricting their applicability beyond this sample.
+- The design is cross-sectional and self-report, predicting intended future use rather than observed behavior, and SHAP explanations describe model behavior rather than causal mechanisms.
+- The sample is skewed — 72.9% male, mean age 21.4 years, 77.1% bachelor's students, and 57.2% educated in Asia — so group contrasts rest on uneven cells.
 ## Connected Concepts
 
 - [[technology-acceptance-model]] — Perceived usefulness and ease-of-use constructs underpin the perception measures operationalized here.

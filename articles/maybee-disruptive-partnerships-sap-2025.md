@@ -1,7 +1,7 @@
 ---
 title: "Disruptive Partnerships: Collaborating with Students to Create Empowering Learning Experiences in Information Studies"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T09:58:42-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 
 foundations: [agency, ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -35,9 +35,20 @@ The disruptive wake of ChatGPT left many faculty speculating about how to preven
 
 ISRA (Information Studies Research Accelerator) is a redesigned first-year living-learning community introducing students to information studies research. Faculty applied SaP principles to restructure the yearlong program around whole-class co-design, which Bovill (2020) suggests may be the most equitable form of partnership because it allows broad participation. During the first week, students and faculty co-design course goals and policies, revisiting them throughout the term. Evaluation relies on individual reflective self-assessment rather than final products, with students grading themselves and their groups using personal goals, team goals, and a shared rubric. This structure combines faculty expertise with students' expertise in their own learning, supporting [[self-regulated-learning]] and [[motivation]].
 
-## Implications for Practice
+## What this means for practice
 
-The authors acknowledge that disrupting power structures is difficult, requiring [[trust]]-building and time, and that valuable outcomes often cannot be planned. They offer practical guidance: start with a small-scope pilot project; lean into existing [[governance|institutional]] infrastructure such as [[educational-development|faculty development]] programs or student employees; leverage cross-campus partnerships (especially given libraries' interdisciplinary work); and recognize that shared understanding across disciplines can foster clarity and [[creativity]] in [[curriculum-design]]. Partnership offers benefits to both students and faculty, cultivating increasingly [[self-directed-learning|self-directed learning]] and mutual understanding.
+- **Educators.** Start with a small-scope pilot rather than a full program redesign: pilot partnership with a limited number of participants before scaling to a course or curriculum.
+- **Educators.** Recognize participant effort explicitly when resources are limited, using employment, publication or presentation opportunities, course credit, certificates, or professional development badges.
+- **Faculty developers.** Lean into existing institutional infrastructure — faculty development programs and relationships with student employees — as the foundation for adapting practice around students-as-partners.
+- **Curriculum designers.** Leverage cross-campus partnerships, since library work is highly interdisciplinary and connections across units can identify others interested in partnership or seed mutually beneficial projects.
+- **Curriculum designers.** Do not limit partnership to students in the same degree program: shared understanding across disciplines can produce clarity and [[creativity]] in [[curriculum-design]].
+
+## Limitations
+
+- The paper is a descriptive case study of three programs at a single institution — Purdue University's School of Information Studies — so it documents local program design rather than comparing outcomes across contexts or institutions.
+- PAL's two cohorts were small and competitively selected (12 partners in Fall 2023 and 19 in Fall 2024), meaning participants were students and faculty who opted in.
+- The authors state that existing and ongoing studies are underway to examine the learning benefits, so the accounts of SPIRaL, PAL, and ISRA rest on program descriptions and a preliminary thematic analysis rather than completed outcome evidence.
+- ISRA's evidence is prospective: IRB approval was granted for a future examination of student coursework, and thematic analysis of first-year students' self-assessments had not yet been reported.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Engagement in LLM Chatbot-Supported Learning: The Pivotal Roles of GenAI Competency and Emotion"
 created: "2026-09-01T09:45:00-04:00"
-updated: "2026-09-01T09:45:00-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, student-engagement]
 technology: [conversational-ai, generative-ai]
@@ -24,10 +24,19 @@ page_kind: [framework]
 - Academic self-efficacy showed no significant direct association with engagement after accounting for other variables.
 - The findings highlight the critical role of GenAI competency and positive emotions in chatbot-supported learning.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study offers a differentiated model of [[student-engagement]] in the context of [[conversational-ai|chatbot-supported learning]], highlighting the pivotal role of [[ai-literacy|GenAI competency]] and positive emotions. For learning designers, the finding that GenAI competency most strongly drives engagement suggests that building students' AI skills is a prerequisite for meaningful engagement with AI tools, not an afterthought. The full mediation of perceived usefulness through emotion indicates that how students *feel* about the chatbot matters as much as how useful they perceive it to be. The null result for academic self-efficacy challenges assumptions about which learner characteristics drive engagement in AI contexts. The model connects to [[self-efficacy]], [[motivation]], and [[affective-computing|emotion]] [[research-methods-aied|research]] in [[ai-education|AI education]].
+- **Learning designers.** Build [[ai-literacy|GenAI competency]] training into chatbot-supported courses as a prerequisite rather than an add-on: competency had the strongest relationship with [[student-engagement|engagement]] in the model.
+- **Learning designers.** Design for emotional experience alongside perceived usefulness; emotion fully mediated the effect of usefulness on engagement, so enjoyment, confidence, and curiosity need deliberate cultivation rather than being left to chance.
+- **Learning designers.** Do not assume academic self-efficacy will carry engagement — it showed no significant direct association once other appraisals were accounted for — and instead target the appraisals that do predict it.
+- **Researchers.** Extend appraisal-theory models to include contextual factors and specific GenAI features, given that this study focused on individual-level factors.
 
+## Limitations
+
+- The model was tested on 234 self-reported survey responses collected at a single time point, so no temporal dynamics or causal pathways between appraisals and engagement can be established.
+- All measures are self-report and subject to social desirability and inaccurate self-assessment; the authors used Harman's single-factor test to check common method variance but did not add observational or multi-source data.
+- The model covers individual-level factors only, leaving contextual conditions and chatbot design features outside the analysis.
+- Task-embedded survey responses were analyzed as independent units rather than as data nested within individuals, so within- versus between-person effects remain untested.
 ## Connected Concepts
 - [[student-engagement]]
 - [[conversational-ai]]

@@ -1,7 +1,7 @@
 ---
 title: "A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies"
 created: "2026-08-31T09:06:11-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, curriculum-design, teacher-role]
 pedagogy: [student-engagement]
@@ -33,9 +33,20 @@ The activity progressed through several stages: students first completed reading
 
 Students described the policy design process itself as valuable, noting that it forced them to engage with multiple perspectives and the inherent trade-offs involved in governing AI use. This positions policy co-design as both an outcome and a learning activity: it surfaces student values and concerns while developing their capacity to reason about responsible AI use.
 
-## Implications
+## What this means for practice
 
-The findings support treating students as partners in [[governance|AI governance]] rather than passive subjects of policy. A guided inquiry approach can serve as a practical pedagogy for eliciting student perspectives on [[generative-ai]] use, and it complements broader institutional efforts to develop [[ai-literacy]] and responsible-use norms across [[higher-ed]]. For instructors, the activity offers a low-cost way to translate student voice into course-level policy while building students' capacity for ethical reasoning about AI.
+- **Instructors.** Run the guided inquiry sequence — readings on AI use, GenAI brainstorming, an individual course-policy draft, then a peer group discussion — as a low-cost way to translate student voice into a course-level [[educational-policy-ai|policy]] while building students' ethical reasoning about AI.
+- **Instructors.** Provide task-related GenAI training for students and for instructors, since participants described scenarios in which instructors acted on a flawed understanding of GenAI.
+- **Curriculum designers.** Standardize [[ai-use-disclosure|disclosure]] and citation procedures across courses so students can understand what is and is not allowed without re-learning a different regime in each class.
+- **Administrators.** Build institution-level support rather than leaving GenAI policy to individual instructors: students in this study called for an approved list of licensed tools, privacy safeguards for course data, and affordable or subsidized access.
+- **Administrators.** Give students a genuine role in shaping the rules that govern their learning, since the activity showed students could reason about trade-offs rather than merely react to policy handed down.
+
+## Limitations
+
+- Data came from 55 of the 68 undergraduates enrolled in a single course, "Technology and the Global Society," for information technology and cybersecurity majors at one institution, and the authors state the findings are context-specific.
+- The study included no baseline or pre-intervention measure and is not intended to demonstrate changes in students' AI literacy or learning gains attributable to the activity; the reported themes may reflect pre-existing views.
+- The module was designed around the researchers' prior knowledge of this group's interest in discussing GenAI and their disciplinary background, so replication elsewhere would require similar attention to participant characteristics, rapport, and local relevance.
+- The evidence is student-produced artifacts and reflective writing about their own reasoning, so it captures what participants articulated in the activity rather than observed changes in their later AI practice.
 
 ## Connected Concepts
 - [[generative-ai]]
