@@ -1,7 +1,7 @@
 ---
 title: "From Experimentation to Integration: Embedding GenAI in Business Higher Education through the Lens of Constructive"
 created: "2026-08-20T08:20:00-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai]
@@ -34,13 +34,20 @@ institutions: [change-management]
 - **Data collection:** Semi-structured interviews via Microsoft Teams covering module context, implementation approaches, perceived impacts, barriers and enablers, and reflections.
 - **Analysis:** Inductive thematic coding with parent themes (use of GenAI, enablers, barriers, benefits, challenges) and iterative cross-case comparison to develop the integration typology.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Coherent embedding matters more than tool availability:** The pedagogical value of GenAI depends on the degree to which its use is aligned with intended learning outcomes, learning activities, and [[assessment]] — not simply whether it is used. Educators should pursue constructive integration aligned with strategic [[learning-design|learning objectives]].
-- **No full redesign required:** GenAI can be embedded within existing, proven pedagogies such as [[simulation|simulations]], projects, and experiential learning, lowering the workload barrier that otherwise discourages adoption.
-- **Assessment is central:** Constructive cases explicitly connected GenAI to evaluative tasks, requiring students to critically evaluate and co-create with AI — pointing to assessment design as a key lever for driving purposeful student use.
-- **Institutions must build support ecosystems:** Clear policy guidance, [[educational-development|faculty development]], and adequate infrastructure are essential to move educators from individual experimentation to sustained, systematic integration and to mitigate risks of overreliance, inequality, and ethical misuse.
-- **Industry alignment grounds adoption in [[business-education|business education]]:** Business educators' externally oriented motivation toward employability skills suggests AI integration in this domain should foreground real-world application and career-readiness competencies.
+- **Instructors.** Embed [[generative-ai|GenAI]] inside established pedagogies — simulations, projects, [[experiential-learning|experiential learning]] — rather than pursuing full module redesign; the constructive cases reported the strongest engagement, confidence, and employability outcomes at the lowest workload barrier.
+- **Curriculum designers.** Align GenAI use explicitly with intended [[learning-gains|learning outcomes]], activities, and [[assessment]], since the ad hoc cases were the most exposed to ethical concerns and student [[cognitive-offloading|overreliance]].
+- **Instructors.** Make evaluation the lever that shapes student use: the constructive cases required students to critically evaluate and co-create with AI in evaluative tasks, which separated purposeful use from sporadic use.
+- **Faculty developers.** Provide structured training and clear policy guidance; the lack of both was the barrier that kept educators from moving beyond individual experimentation.
+- **Administrators.** Fund the whole support ecosystem — policy, [[educational-development|faculty development]], and infrastructure — and close access gaps, because uneven access to premium tool versions drove inequality in the ad hoc cases.
+
+## Limitations
+
+- The analysis rests solely on educator perspectives — 17 academic staff — so reported impacts on learning experiences and outcomes are second-hand and never measured from students.
+- It is a single-institution case study at one UK Russell Group university during the first year of adoption, so findings may not be generalizable across institutional policy, digital readiness, or disciplinary norms.
+- Participants were purposively sampled for existing GenAI teaching experience and their 24 modules, so the sample skews toward motivated early adopters.
+- Given the rapid evolution of GenAI, the cross-sectional first-year data cannot show how integration strategies or institutional support change over time.
 
 ## Connected Concepts
 

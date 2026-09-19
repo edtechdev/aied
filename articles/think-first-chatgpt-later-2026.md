@@ -1,7 +1,7 @@
 ---
 title: "Think First, ChatGPT Later: Guiding Human–AI Collaboration for Learning Gains in Independent Human Creativity"
 created: "2026-08-17T06:45:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading, human-ai-collaboration]
 pedagogy: [creativity, metacognition, self-regulated-learning]
@@ -45,16 +45,24 @@ A 3 × 2 mixed ANOVA revealed a striking crossover interaction:
 
 The general-AI group's pattern reflects a default of "[[metacognition|metacognitive]] laziness": rather than engaging the [[creativity|divergent thinking]] that underpins original idea generation, students outsourced it wholesale to ChatGPT, investing less mental effort. Generating one's own ideas first forces the divergent phase of creative [[problem-solving]], and then using ChatGPT to *improve* those ideas exercises [[self-regulated-learning|self-regulated]] refinement and evaluation. Notably, simply working alone (the human-only group) did **not** confer the same benefit — the human-only group declined on the harder invention task — so collaboration with ChatGPT added learning value beyond independent effort, consistent with *redefinition* effects of AI.
 
-## Practical implications
+## What this means for practice
 
-- **Structure AI use around a "think first, ChatGPT later" sequence** to convert assisted performance into durable independent learning and creativity.
-- **Guide interaction, not just access:** provide sample [[prompt-engineering|prompts]] that position ChatGPT as a brainstorming and feedback partner rather than an answer provider.
-- **Support metacognition:** because students often overestimate how much they "came up with" versus copied from AI, feedback and automated originality scoring can improve metacognitive accuracy.
-- **Design assessments to reach the unassisted moment:** the finding aligns with the course-design insight that an AI-resistant environment must make the unsupervised moment productive — the gap measured here is the same one Halani's [[halani-designing-for-reach-2026|Reach framework]] targets.
+- **Instructors.** Sequence AI use as "think first, ChatGPT later": require a phase of independent idea generation before students open ChatGPT, then a collaboration phase, then independent selection. The regulated-AI group prompted collaboratively in 88.6% of interactions and outperformed both other groups on the later unassisted task.
+- **Instructors.** Supply sample prompts that position ChatGPT as a brainstorming and feedback partner — improve, develop, evaluate my ideas — rather than an answer provider: 59.6% of the general-AI group's prompts simply asked it to generate ideas outright, and only "improve own initial ideas" prompts correlated with later independent originality.
+- **Instructors.** Do not judge the intervention by assisted-task output. The regulated-AI group showed no immediate advantage and produced less elaborate solutions during the intervention, yet was more original and useful afterward — the pattern expected from [[desirable-difficulties|desirable difficulties]], where effortful process temporarily suppresses performance.
+- **Designers.** Design assessments that reach the unassisted moment. The general-AI group's advantage on the assisted task vanished on the later invention task, falling back to human-only levels, so a grade taken while ChatGPT is open measures performance, not the [[creativity|creativity]] students retain.
+- **Instructors.** Add metacognitive feedback. Students often overestimate how much they "came up with" versus took from ChatGPT, so originality scoring or short reflection prompts can correct the illusion of authorship that sustains [[cognitive-offloading|cognitive offloading]].
 
 ## Relationship to existing research
 
 The findings sit alongside work on [[cognitive-offloading|Over-Reliance]] and AI-assisted learning that shows free AI use can erode durable gains, and extend the [[human-ai-collaboration]] and co-creation literature with an experimental demonstration that guided collaboration beats both solo and free-AI conditions. It also provides direct experimental evidence for the "performance–learning" gap in [[generative-ai|generative AI]] education, and connects to [[ai-literacy|AI literacy]] frameworks (e.g., ED-AI Lit's collaboration component) as a candidate practice for integration.
+
+## Limitations
+
+- One brief lab session with 196 university students, run in groups of up to five: a 12-minute product-improvement intervention with a 3-minute independent-generation phase tests no semester-long course and no real classroom.
+- Transfer was measured on a single unassisted product-invention task completed immediately after the intervention, so durability beyond the session — retention, or application to course work — is untested.
+- The regulated-AI condition was not compared with a "regulated-human" group working the same sample prompts alone, so the design cannot fully separate the guided sequence from the specific contribution of collaborating with ChatGPT.
+- The sample prompts were presented for illustration only and were not engineered to elicit ChatGPT's best output; the authors flag better [[prompt-engineering|prompt engineering]] and additional self-regulation prompts as untested refinements.
 
 ## Connected Concepts
 

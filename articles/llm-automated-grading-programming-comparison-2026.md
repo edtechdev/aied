@@ -1,7 +1,7 @@
 ---
 title: "A systematic comparison of Large Language Models for automated assignment assessment in programming education: Exploring the importance of architecture and vendor"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-assessment]
@@ -30,6 +30,21 @@ level: [higher ed]
 **Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education]] deployment.
 
 **Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[cs-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
+
+## What this means for practice
+
+- **Software developers.** Pin the exact model version and default parameters in any grading pipeline you ship: this study held one Chain-of-Thought prompt fixed while mean grades ranged from 0.290 (gpt-4.1-nano) to 0.608 (claude-haiku-3.5), so a quiet vendor upgrade changes scores and must trigger re-validation.
+- **Software developers.** Do not swap in a "mini" or "nano" model to save cost without measuring agreement against human grades: every full-scale flagship (gpt-4.1, gpt-5, gemini-2.5-pro) outscored its smaller sibling in ICC, and only claude-haiku-3.5, a lightweight model, matched the best agreement of all 18.
+- **Instructors.** Treat any single model's output as a provisional signal rather than the grade: the strongest model–teacher agreement in the study was ICC = 0.470 (claude-haiku-3.5), below the 0.75 threshold normally read as good reliability, while the teacher's own mean grade was the highest of any source compared.
+- **Instructors.** Do not read agreement among the models you happen to have access to as independent confirmation: the Claude, GPT, Gemini, and DeepSeek families clustered by vendor (gpt-5 family ρ ≈ 0.80–0.89; κ ≈ 0.74 for gpt-5 vs. gpt-5-mini), and the author warns that ICCs above 0.8 against a majority-vote consensus may only show consistent replication of the same errors.
+- **Instructors.** Keep a human in the loop and publish your metrics: because model choice is not neutral and even the best model reached only moderate reliability, record which model graded which task and against what rubric so a student can contest a decision.
+
+## Limitations
+
+- The human reference grades came from one teacher per topic, assigned under normal classroom conditions and explicitly not blind — the teacher knew the student's identity — so the comparison standard is a single unvalidated rater.
+- All 6,081 graded question–answer pairs came from one four-year introductory Python course for cognitive science students; the design includes no second course, level, language, or assignment format, so transfer beyond that context is untested.
+- Every model was queried with the same Chain-of-Thought prompt under default generation parameters in August 2025, with temperature, decoding, and safety filters left unmodified, making the findings a version- and prompt-specific snapshot.
+- The author states that low human–model agreement may also reflect a prompt that failed to communicate all nuances of pedagogical grading, and the prompt itself was never varied or ablated.
 
 ## Connected Concepts
 

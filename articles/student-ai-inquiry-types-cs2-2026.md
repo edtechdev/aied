@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks"
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-08-24T12:00:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [problem-solving, student-ai-interaction]
@@ -48,12 +48,19 @@ To categorize these prompts, the authors adapted the Graesser et al. question ta
 
 This is a measurement and characterization study in the [[cs-education]] domain. It complements research on [[prompt-engineering]] by studying real student prompts as they naturally occur in CS2 problem solving, and it feeds [[learning-analytics]] pipelines that aim to infer learning behavior from AI interaction logs. It extends prior [[help-seeking]] work in computing education by moving beyond surveys, perceptions, and usage frequency to the sequential structure of authentic conversational interactions, and it responds to calls for [[conversational-ai|conversational tutoring systems]] that support deeper reasoning rather than simple answer generation. For [[teacher-role|instructors]], the taxonomy offers a lens for noticing when students' questioning patterns are narrow or shallow and for designing interventions that broaden inquiry and address [[equity-in-ai-education|equity]] in AI-supported [[higher-ed|higher education]].
 
-## Implications
+## What this means for practice
 
-- **Design AI-supported programming environments for productive help-seeking.** Because a small subset of question types dominates student-AI conversations, systems should encourage reflective, well-formulated inquiry rather than repeated confirmation-seeking or excessive procedural delegation. Interfaces and prompt scaffolds can broaden the repertoire of question types students reach for.
-- **Support first-generation students with scaffolding.** The persistent, descriptive difference in questioning behavior — fewer questions and a more confirmatory, validation-oriented stance — suggests AI-based instructional support should proactively prompt these students to formulate questions, model deeper inquiry, and engage as active problem-solvers rather than answer-checkers, helping close the gap in [[help-seeking]] behavior.
-- **Sequence scaffolds to task demands.** Since inquiry shifts from assertion/verification early on toward procedural and directive use as tasks grow more conceptually demanding, interventions should be timed to the conceptual difficulty of the material — especially for [[misconceptions|misconception]]-prone topics such as inheritance and polymorphism — rather than applied uniformly.
-- **For learning analytics.** Classifying student prompts into a cognitive taxonomy gives [[learning-analytics]] systems a richer signal than raw usage counts, enabling detection of shallow [[cognitive-offloading|over-reliance]] or narrow question repertoires from interaction logs, with the caveat that differences between sessions conflated task topic, complexity, and familiarity with the AI tool.
+- **Instructors.** Scaffold question-asking rather than assuming it: model and prompt a wider range of [[inquiry-based-learning|inquiry]], since assertion, verification, and instrumental prompts accounted for most of the 830 prompts students sent.
+- **Instructors.** Proactively prompt first-generation students to formulate questions and engage as active problem-solvers instead of answer-checkers, since they asked fewer questions and leaned on [[feedback|verification]].
+- **Instructors.** Time scaffolds to the conceptual difficulty of the material — for example inheritance and polymorphism — because inquiry shifted from assertion and verification toward procedural and directive use as tasks grew harder.
+- **Designers.** Build AI-supported programming environments whose interfaces and prompt scaffolds invite reflective inquiry and discourage repeated confirmation-seeking or excessive procedural delegation.
+- **Researchers.** Classify prompts against a cognitive taxonomy such as Graesser et al.'s instead of counting usage, giving [[learning-analytics]] a richer signal for detecting shallow [[cognitive-offloading|over-reliance]] from interaction logs.
+
+## Limitations
+- Single CS2 object-oriented C++ course at one large U.S. public university in Fall 2025: 72 unique students produced 830 prompts across two ~60-minute lab sessions, with only 25 students participating in both.
+- The two sessions differed in both programming topic and conceptual complexity, so the shift in inquiry types conflates topic, difficulty, and growing familiarity with the tool; the authors state these findings "should be interpreted cautiously."
+- The Session 1 to Session 2 shift was only near-significant (χ²(17) = 27.03, p = .0576), not conventionally significant.
+- The generation difference is descriptive and rests on uneven group sizes (Session 1: 26 first-generation students asking 161 questions vs. 34 continuing-generation students asking 271), and classification was model-assigned with disagreements resolved by two reviewers.
 
 ## Connected Concepts
 - [[student-ai-interaction]]

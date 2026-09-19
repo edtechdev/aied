@@ -1,7 +1,7 @@
 ---
 title: "Role of generative AI literary assistants in enhancing ninth-grade students' writing motivation, flow and achievement"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [motivation, student-engagement]
@@ -34,6 +34,21 @@ audience: [educators, instructors]
 **Developing authorship and [[self-regulated-learning]].** Students selectively accepted AI suggestions, distinguishing "my tone" from AI output (e.g., "ChatGPT made it too ornate, I wouldn't write like that myself"), signaling emerging authorial voice. Post-test Writing [[self-efficacy]] scores increased in ideation ability, rhetorical application, and self-[[regulation]], and a 20-point, four-dimension scoring rubric (content, organization, language, creativity, 25% weight each) anchored the writing [[assessment]].
 
 **[[cognitive-offloading|Over-Reliance]] risk and pedagogical recommendation.** The authors caution that over-reliance on AI could diminish engagement in areas requiring creative expression and critical thinking, concluding with scaffolded pedagogical recommendations for integrating GAI writing assistants while preserving students' creative and critical capacities — directly relevant to the knowledge base's [[writing-education]] and [[cognitive-offloading|Over-Reliance]] concerns.
+
+## What this means for practice
+
+- **Instructors.** Replace generic AI prompts with structured, literature-informed [[prompt-engineering]]—students writing through the voice of a named literary figure—which is the design the authors credit for the flow and performance gains in this camp.
+- **Educators.** Time AI support to the revision phase, where students most readily entered flow, and pull it back when it removes the perceived challenge that sustains immersion.
+- **Instructors.** Ask students to state what is theirs and what is the AI's ("ChatGPT made it too ornate, I wouldn't write like that myself") to build authorial voice and [[self-regulated-learning|self-regulation]] while using the tool.
+- **Educators.** Score with a four-dimension rubric (content, organization, language, [[creativity]]) and expect the weakest return on originality, since improvements concentrated in technical writing skills.
+- **Educators.** Do not rely on GAI to raise stable [[motivation]]: general writing motivation did not move in this study while situational engagement surged, so design for task-level engagement rather than assuming a lasting motivational effect.
+
+## Limitations
+
+- A quasi-experimental single-group pre–post design with no control group, so the writing performance rise (77.13 → 81.40) cannot be separated from practice effects, novelty, or the camp format itself.
+- Forty students from one junior high in northern Taiwan, after four of the 44 recruits were excluded—a single-site, three-day intervention that is far shorter than a normal instructional cycle.
+- [[motivation]], flow, and self-efficacy were measured by self-report questionnaires; general motivation showed no significant change (2.93 → 3.00, t = −0.59, p = .560) with a pre–post correlation of 0.00, so those scales may not have been sensitive in this design.
+- The design cannot isolate the literary-character simulation from GAI use in general, and does not test whether the gains hold once the novelty of the camp fades.
 
 ## Connected Concepts
 

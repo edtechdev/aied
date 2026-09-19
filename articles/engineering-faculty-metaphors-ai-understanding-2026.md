@@ -1,7 +1,7 @@
 ---
 title: "It's Like \"X\": How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding in Engineering Education"
 created: "2026-08-17T10:30:00-04:00"
-updated: "2026-08-26T07:45:07-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 technology: [generative-ai]
@@ -37,9 +37,19 @@ Nearly 75% of "Social Being/Agent" framings co-occurred with Collaborative/Partn
 
 The key finding is that engineering instructors do **not** hold a unified mental model of GAI: even within the same department, semester, and [[educational-policy-ai|institutional policy]] environment, instructors construct fundamentally different accounts of what GAI "is" and "means." None is inherently "correct," but each is shaped by personal experience, use cases, and professional background. Critically, some metaphors are inaccurate and can constrain understanding: describing GAI as a "search engine" inaccurately positions it as retrieving pre-existing information, when in fact it algorithmically generates plausible token continuations. Instructors tended to focus on what GAI *does* rather than what it *knows*, says, or is.
 
-## Implications for faculty development
+## What this means for practice
 
-The authors argue these metaphors function as "guidepoints" for self-reflection and [[educational-development]]: evaluating the range of language instructors use can help anticipate, assess, and intervene in how GAI operates in [[engineering-education|engineering education]]. A shared, accurate conceptual language supports developing training programs and facilitating adoption discussions that currently founder on incoherence between institutional and faculty language about [[generative-ai|GAI systems]]. For educators and developers, the work highlights that how we talk about AI shapes how students learn about, trust, and use it — connecting to [[ai-literacy]] and [[student-experience]].
+- **Faculty developers.** Open GAI training with metaphor elicitation — ask instructors what analogy they would use, then map the response onto the five dimensions (Ontology, Epistemology, Operation, Relationship, Power/Capability) to surface the mental model driving their teaching decisions.
+- **Faculty developers.** Correct inaccurate artifact metaphors before they harden: describing GAI as a search engine mispositions it as retrieving stored information when it actually generates plausible token continuations, and such framings constrain what instructors expect of students.
+- **Instructors.** Use the taxonomy as a shared conversation starter within a department, since colleagues in the same department, semester, and policy environment constructed fundamentally different accounts of what GAI is — bridging vocabularies rather than enforcing standardized language is the productive move.
+- **Administrators.** Reach beyond early adopters and staff already "speaking the same language" as coordinators when rolling out GAI initiatives; incommensurable instructor mental models are a direct threat to policy coherence and [[educational-development]] programming.
+
+## Limitations
+
+- The analysis uses instructors' responses to a single interview question ("if you had to think of an analogy or metaphor to describe GAI to someone, what would you say?"); the rest of each hour-long interview was not analyzed.
+- The reported results cover 57 engineering instructors from 17 disciplines at seven universities, collected in Spring 2025, drawn from a larger project of nearly 170 instructors at 18 universities.
+- Instructors who could not produce an analogy were not described because of space constraints, so the taxonomy does not represent the struggling cases, and comparisons across disciplines were left to future work.
+- This is self-reported figurative language in an interview; the study does not measure whether an instructor's metaphor predicts their actual classroom AI practice.
 
 ## Connected Concepts
 

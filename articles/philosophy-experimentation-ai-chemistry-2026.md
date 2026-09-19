@@ -1,7 +1,7 @@
 ---
 title: "Reimagining the Philosophy of Experimentation in Chemistry Education: Embracing AI as a Tool for Scientific Inquiry"
 created: "2026-08-19T12:50:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [critical-thinking, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -37,6 +37,19 @@ Using the synthesis of a new compound as a worked example, the authors detail ho
 ## Over-reliance and the need for balance
 
 The article cautions against **over-reliance** on AI in chemical experimentation, where AI automates routine tasks and fundamentally alters how experiments are conceptualized and conducted. It calls for a **framework for integrating AI into chemistry education** that maximizes benefits while preserving the essential elements of scientific reasoning and discovery — a theme that resonates with the knowledge base's [[reducing-ai-misuse]] and [[cognitive-offloading]] concerns, and with the philosophical treatment of [[philosophy-of-ai-in-education]].
+
+## What this means for practice
+
+- **Instructors.** Run AI predictions and wet-lab measurements side by side — comparing AI-predicted reaction yields or titration behavior with what actually happens — and spend class time on where and why the two diverge.
+- **Instructors.** Make the "black box" the object of study: have students evaluate the quality of data fed to a model, question whether the algorithm suits the specific question asked, and demand a transparency route before accepting an AI-generated inference.
+- **Instructors.** Assess the interpretive work explicitly. As AI absorbs data interpretation, the experimenter's role shifts to problem formulation, oversight, and validation, so grade students on their ability to contextualize AI output within a scientific framework rather than on producing it.
+- **Researchers.** Report AI-predicted results with their validation route attached — reproducibility checks, cross-validation against traditional methods, and stated limits — because AI-generated knowledge occupies a liminal space between the hypothetical and the verified until it is confirmed empirically.
+
+## Limitations
+
+- This is a philosophical/conceptual analysis, not an empirical study: the authors position it as proposing "a foundational framework to map the landscape of change" rather than resolving the questions it raises, and they explicitly bracket issues such as whether AI requires redefining empirical knowledge.
+- The concrete cases — the three simultaneous titration representations and the worked synthesis of a new compound — are illustrations, not findings from a classroom intervention, so the paper reports no measured effect on student learning.
+- Its scope is chemistry education rather than professional chemistry practice, framed through curriculum, instruction, engagement, and assessment; the claims about epistemology in research settings are argued rather than tested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 research_method: [systematic review]
@@ -33,6 +33,20 @@ page_kind: [synthesis]
 **Four challenge categories.** Technical limitations (28 studies: factual errors, outdated information, fictitious citations, poor non-English processing, mechanical virtual students), ethical and social risks (20: data [[privacy]], [[bias-mitigation|algorithmic bias]], [[academic-integrity|plagiarism]], copyright, job anxiety), risk of over-reliance (19: adoption of AI-generated lesson plans weakening creative design, and degeneration of reflective depth, evaluation skills, and independent [[problem-solving]]), and implementation barriers (16: infrastructure gaps, the [[digital-divide]], low user [[ai-literacy]], and uncertainty about long-term effects given mostly short-term studies).
 
 **Implication for teacher preparation.** The findings argue that teacher-education programs should intentionally design AI-enhanced training that builds [[ai-literacy]] and human–AI collaboration while preserving the human educator's role — a core concern for the knowledge base's [[teacher-education]] and [[teacher-role]] concepts.
+
+## What this means for practice
+
+- **Instructors.** Use AI-powered virtual students and [[simulation|simulated]] classrooms as a low-risk practice–feedback–iteration loop, and make verification of AI output an explicit task, since technical limitations such as factual errors, outdated information and fictitious citations were reported in 28 of the 55 studies and otherwise risk modeling shallow inquiry.
+- **Faculty developers.** Build critical [[ai-literacy]] into preservice programs before tool use; low user literacy and infrastructure gaps were the leading implementation barriers across 16 studies.
+- **Administrators.** Protect process- and reflection-oriented [[assessment]] as AI-generated content raises academic-integrity concerns, and recognize teachers' relational and ethical roles as uniquely human.
+- **Researchers.** Fill the arts-and-humanities gap: among the 40 studies with a clear disciplinary context, language education was 42.5% and mathematics 27.5%, leaving 2.5% each for history and chemistry and little for the arts.
+
+## Limitations
+
+- The synthesis covers 55 empirical studies (2020–2025) involving 3,098 preservice teachers across 18 countries; 58% used mixed-methods designs and only 11% quantitative, limiting what can be pooled.
+- The evidence base is heavily weighted to recent, short-term, lab-based studies, so long-term effects on teacher development and student learning in authentic classrooms remain unknown.
+- Search was limited to three databases (Web of Science, ScienceDirect, EBSCOhost) and to peer-reviewed articles published in English from January 2020, excluding non-English work and Gray literature.
+- Disciplinary coverage is skewed: among the 40 studies with a clear disciplinary context, language education (42.5%) and mathematics (27.5%) dominate, with minimal work on the arts and humanities.
 
 ## Connected Concepts
 

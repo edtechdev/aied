@@ -1,7 +1,7 @@
 ---
 title: "Towards a philosophy of ensemble cognition: Reconceptualising agency and mind in AI-mediated educational environments"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-education]
 pedagogy: [embodied-learning, learning-theories, metacognition]
@@ -36,6 +36,21 @@ page_kind: [framework]
 ## Educational Significance
 
 EC's value lies in offering conceptual vocabulary for asking better questions about [[educational-robotics|human-AI collaboration]] in learning, navigating between uncritical anthropomorphization of AI and reductive instrumentalism that treats it as a mere tool. It directly engages the [[cognitive-offloading]] debate, questions about [[agency]] and intellectual autonomy, and the reconceptualization of [[metacognition]] as collaborative. The framework positions [[human-ai-collaboration]] and [[pedagogical-agent]] roles within [[higher-ed]] and broader [[ai-education]] contexts, while its [[student-engagement|engagement]] with [[embodied-learning]] and [[constructivist]] traditions grounds it in existing [[learning-theories|learning theory]].
+
+## What this means for practice
+
+- **Instructors.** Make the distribution of cognitive work explicit in every task—state what the human decides, what the AI contributes, and where responsibility sits—so students see that an AI's functional agency never carries moral responsibility with it.
+- **Instructors.** Teach [[metacognition]] as a collaborative rather than a solo skill: have students articulate how different agents contribute, when to rely on AI output versus human judgment, and how the [[collaborative-learning|collaborative process]] is to be orchestrated.
+- **Designers.** Treat dynamic centrality and context-sensitive switching as design variables rather than background conditions, since different AI architectures generate qualitatively distinct collaborative dynamics and shift who leads a task.
+- **Researchers.** Measure whether distributed arrangements enhance or outsource reflection and self-direction instead of assuming either, because the framework states the empirical adequacy of ensemble cognition as an open question.
+- **Faculty developers.** Audit whose values the tools encode—efficiency over care, caution, and contextual sensitivity—and make that audit part of how staff exercise [[critical-thinking|critical judgment]] over AI contributions.
+
+## Limitations
+
+- This is a conceptual, philosophical analysis with no empirical data: the five features, functional agency, and ensemble cognition itself are argued rather than tested, and the authors list the framework's empirical adequacy as unresolved.
+- The framework is culturally situated in Western cognitive science, analytic philosophy of mind, and Anglo-American educational philosophy; its individual–AI emphasis may fit collectivist educational contexts poorly, and the authors call for engagement with Indigenous and Eastern traditions before claiming global applicability.
+- Granting AI functional agency risks the anthropomorphization the authors set out to avoid, and the collaboration emphasis may mask power relationships and inequalities embedded in AI systems rather than address them.
+- The transparency problem is identified, not solved: the opacity of AI decision-making is argued to be potentially incompatible with educational ideals of transparency and comprehensibility.
 
 ## Connected Concepts
 

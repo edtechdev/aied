@@ -1,7 +1,7 @@
 ---
 title: "Can we disrupt the momentum of the AI colonization of science education?"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [critical-pedagogy]
@@ -49,6 +49,20 @@ Avraamidou's constructive alternative is a **feminist and human-centered AI** th
 These questions tie directly to accountability, [[ethics]], and [[equity-in-ai-education]]. The essay warns that AI systems perpetuate biases, racism, and existing systems of oppression, and carry a heavy environmental footprint (an AI prompt's carbon footprint is 4–5× a search-engine query). Science education, she argues, does not need an AI utopia driven by "corporate, neoliberal, and eugenics paradigms" (Gebru & Torres, 2024), but rather pedagogies of care, affect, and cultural [[sustainability]] — spaces "where humanization of science learning and social transformation that transcend the algorithm can happen."
 
 The essay closes with an affirmative: *"Can we disrupt the momentum of the AI colonization of science education? Yes, we can—once we step outside of corporate and capitalist visions of science education and imagine more sustainable and socially just futures."*
+
+## What this means for practice
+
+- **Researchers.** Move AI research in science education beyond cognitive-only outcomes and study the social, relational, and embodied dimensions of learning that AI-driven tools leave unaddressed, including their socio-emotional effects.
+- **Teacher educators.** Teach critical AI literacy inside feminist [[pedagogy|pedagogies]], using Avraamidou's six questions — whose knowledge, who benefits, built on what data, who is accountable — as routine prompts for evaluating any AI tool before it enters a classroom.
+- **Administrators.** Write an institutional vision for AI instead of consuming what the industry offers, and require consent, bias, and environmental-impact review before adoption.
+- **Designers.** Build AI-supported curriculum around learners' identities, subjectivities, values, and cultures rather than around a prescribed "ideal" learning path that standardizes thinking.
+
+## Limitations
+
+- This is a four-page COMMENT (2570–2574) with no data of its own: its claims rest on argument and cited secondary literature, so it can warn about dehumanization and algorithmic monoculture but cannot measure either.
+- Its central empirical anchor, Heeg and Avraamidou's review of AI in school science, covers 2010–2021 — before the generative AI tools (ChatGPT) the essay mainly targets.
+- The critique is explicitly scoped to the Global North ("at least in the Global North"), so its account of industry capture may not describe science education elsewhere.
+- The feminist, human-centered alternative is programmatic: the essay offers a direction and six questions but no curriculum, implementation, or evaluation evidence.
 
 ## Connected Concepts
 

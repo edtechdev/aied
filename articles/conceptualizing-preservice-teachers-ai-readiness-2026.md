@@ -1,7 +1,7 @@
 ---
 title: "Conceptualizing pre-service teachers' readiness for AI integration into teaching practices: An intelligent-TPACK approach"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-08-16"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 assessment: [assessment]
@@ -26,6 +26,20 @@ confidence: high
 **Ethical dimension and factor structure.** The ETHICS factor showed the highest correlation with iTPACK (ρ = 0.833 for iTCK–iTPACK; ETHICS correlated most strongly with iTPACK and least with iTK), suggesting that responsible, accountable decision-making around AI tools may be enhanced when such tools are integrated into [[teacher-role|teaching]] and learning rather than approached solely through their technological properties. This mirrors Celik's original iTPACK findings and underscores the [[ethics]] and [[ai-literacy]] dimensions central to the framework.
 
 **Implication.** Validating readiness instruments for the pre-service population is a necessary step toward designing [[teacher-education]] curricula that prepare future teachers to integrate AI responsibly — a central concern of the knowledge base's teacher-education concept. The authors also recommend future work with SEM and additional control variables, and note the study was approved by the Ethics Committee of the Pontificia Universidad Católica de Chile (ID 250,310,001), with the instrument itself available in Appendix A.
+
+## What this means for practice
+
+- **Faculty developers.** Use the validated Spanish instrument (27 items, 3 dropped, five domains retained) to diagnose pre-service readiness before designing AI training, and begin with the ETHICS domain, which correlated most strongly with integrated iTPACK (ρ = 0.833).
+- **Faculty developers.** Front-load AI integration for underclassmen: upperclassmen reported higher readiness than underclassmen (ETHICS 4.77 vs. 4.12, p = 0.001).
+- **Instructors.** Teach AI through pedagogical and ethical integration rather than technological properties, since the ETHICS factor tracked iTPACK more closely than technical knowledge.
+- **Administrators.** Treat the public–private gap as an equity problem: public-university students scored higher on all five dimensions (e.g., ETHICS F = 35.38; iTK F = 13.87), so private institutions need targeted support.
+
+## Limitations
+
+- Cross-sectional, voluntary online survey (Google Forms) of 366 pre-service teachers at 11 Chilean universities: it measures perceived knowledge, not observed classroom integration, and cannot establish causal direction.
+- The instrument is a Spanish adaptation of an in-service measure, and three original items were removed after initial fit problems (items 6 and 7 from iTPK, item 26 from ETHICS), so the reported model reflects a post hoc modification.
+- Data come from one national system with one translation, and the sample skews female (65.03%) and senior (61.20%), so the five-factor structure is untested in other languages and teacher-education systems.
+- Group comparisons rest on collapsed categories (underclassmen vs. upperclassmen; public vs. private) analyzed with non-parametric Quade tests, since Shapiro–Wilk tests showed non-normal distributions for every factor (p < 0.001).
 
 ## Connected Concepts
 

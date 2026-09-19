@@ -1,7 +1,7 @@
 ---
 title: "Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning"
 created: "2026-08-19T13:00:00-04:00"
-updated: "2026-08-19T13:00:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [active-learning]
@@ -30,9 +30,20 @@ audience: [instructors, administrators]
 - **Notably neutral:** sentiment analysis showed 90% neutral responses, indicating students were still largely unfamiliar with ChatGPT's full capabilities — "we are still at the beginning of using this tool."
 - **[[academic-integrity|Academic integrity]] gap:** a third of surveyed students did not know about modifications to academic-integrity regulations regarding AI use.
 
-## Implications
+## What this means for practice
 
-The study emphasizes the need for **updated academic-integrity codes** and **new ethics for AI use** in [[higher-ed|higher education]]. Teachers should be prepared to use AI effectively and critically, and institutions should make AI-text detectors available for evaluation. When used responsibly, AI tools can help solve academic problems across knowledge domains, but implementation must be guided by [[ethics|ethical]] principles — responsible use, critical [[student-engagement|engagement]] with outputs, and [[bias-mitigation|fairness]]/transparency.
+- **Instructors.** Build output validation into the activity itself: students here were instructed to check ChatGPT against high-quality formal sources, and they valued its speed while doubting its veracity and depth.
+- **Instructors.** Coach critical interrogation alongside use — students worried the tool would supplant the [[teacher-role|teacher]] and weaken [[critical-thinking|critical thinking]], complex reasoning, and [[problem-solving]].
+- **Administrators.** Update [[academic-integrity|academic-integrity]] codes for AI use and publicize the changes, since a third of surveyed students did not know about the modifications to regulations already made.
+- **Administrators.** Make AI-text detectors and clear ethical-use guidance available for evaluation, and ground them in responsible use, [[bias-mitigation|fairness]], and transparency.
+- **Instructors.** Position ChatGPT as a support tool for personalized, [[self-regulated-learning|self-directed learning]] rather than an answer machine, extending information access without displacing teacher guidance.
+
+## Limitations
+
+- The study is a pilot that measures perceptions — a concluding Likert survey plus NLP of open-ended responses — with no measure of [[learning-gains|learning outcomes]] or skill development.
+- The two courses differ sharply in size — 94 biology students across six campuses versus 392 mathematics/data-science students — and the authors attribute some cross-course variation to the smaller biology sample.
+- Sentiment analysis returned 90% neutral responses, which the authors read as limited familiarity with ChatGPT, so the thematic evidence is dominated by undifferentiated sentiment.
+- All data come from two distance-learning courses at a single institution, Tecnológico de Monterrey, so curriculum and context effects cannot be separated from the tool.
 
 ## Connected Concepts
 

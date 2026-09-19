@@ -1,7 +1,7 @@
 ---
 title: "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support"
 created: "2026-08-19T09:35:00-04:00"
-updated: "2026-08-20T03:14:48-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics, machine-learning, student-modeling]
 assessment: [educational-measurement]
@@ -41,9 +41,20 @@ The framework is evaluated **offline on the OULAD dataset**, using snapshots con
 - **Semantic validation matters:** SHACL validation reveals infeasible plans that lighter optimization-only settings would otherwise accept — the paper's central [[research-methods-aied|methodological]] claim. Semantic feasibility and machine-checkability make recommendations genuinely operational rather than merely model-valid.
 - **Honest about causality:** the authors deliberately do *not* claim causal improvement in student outcomes. The contribution is demonstrating that recourse becomes more operationally meaningful when it is semantically constrained.
 
-## Implications for AI in education
+## What this means for practice
 
-SC2R speaks directly to the knowledge base's theme that prediction alone is not enough — that trustworthy, actionable educational AI requires aligning recommendations with real-world constraints and human oversight. It connects the [[learning-analytics]] literature on at-risk prediction with the explainability and recourse literature, and it offers a concrete mechanism (semantic validation) for making "actionable" AI recommendations genuinely enactable. Its emphasis on machine-checkable, constraint-respecting plans is a constructive response to concerns that predictive [[ai-education|AI in education]] can produce recommendations that institutions cannot or should not follow. It also aligns with the movement in the field toward moving "beyond prediction" toward decision support that respects human oversight and [[trust|trustworthiness]] (see [[ai-ed-evaluation]], [[human-in-the-loop-ai]], and the knowledge base's broader coverage of responsible [[ai-education|AI in education]]).
+- **Designers.** Encode timing, budget, immutability, and availability as machine-checkable constraints before any plan reaches an advisor: the paper's central result is that optimization alone accepts plans which violate them, and the SHACL layer was what caught the infeasible cases.
+- **Designers.** Use a calibrated logistic regression as the reference predictor (AUC 0.884 at the d−14 snapshot and 0.889 at d−7) rather than reaching automatically for nonlinear models — XGBoost and the TabTransformer-style model reached only 0.898 on the same d−14 split, a modest gain over the calibrated baseline.
+- **Designers.** Generate recourse over discrete action variables rather than feature-space perturbations, so each recommendation is a set of deliverable actions the institution can actually schedule and check.
+- **Administrators.** Present validated plans as decision support for instructors, advisors, and learning-support staff rather than as automated decisions; the framework's stated value is structuring and validating candidate plans before any practical use.
+- **Researchers.** Test the framework on richer pedagogical interaction data and report robustness across retrained models, since the current action vocabulary is simplified and retrain stability was the weaker robustness indicator.
+
+## Limitations
+
+- The evaluation is offline, model-based, and observational on the OULAD dataset; the authors state it does not establish that following a generated plan would improve student outcomes.
+- The action vocabulary is simplified and derived from structured learner activity signals rather than richer pedagogical interaction data, which narrows the interventions the framework can express.
+- Retrain stability is the weaker indicator, meaning some recommendations may remain sensitive to changes in the learned predictive boundary.
+- The counterfactual baseline (a Wachter-style search) was compared on a controlled 200-case subset only, while the full-scale integer-programming plans were scored offline (127,972 plans).
 
 ## Connected Concepts
 

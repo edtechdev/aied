@@ -1,7 +1,7 @@
 ---
 title: "The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [desirable-difficulties, metacognition, transfer-of-learning]
@@ -27,6 +27,19 @@ page_kind: [framework, synthesis]
 **Falsifiable hypotheses.** Four hypotheses are formalized, centered on H3: unrestricted AI use on deep-processing tasks produces a product–process dissociation (higher grades, lower unaided delayed transfer). H1–H4 specify surface facilitation, scaffold-contingent intermediate benefits, and metacognitive monitoring as a cross-level moderator.
 
 **Converging evidence and design.** The synthesis integrates product-outcome studies, process-sensitive [[qualitative-research|qualitative]] work, teacher-competency research and emerging neuro-scientific findings, and outlines a three-arm confirmatory design (unrestricted AI vs. dialog-partner AI vs. no-AI) plus telemetry (chat-log dynamics, Experience Sampling) to test the dissociation.
+
+## What this means for practice
+
+- **Instructors.** Assign the AI role by processing level: an efficiency tool for surface tasks, a guided scaffold at the intermediate level, and a dialog partner only where students keep the analysis, synthesis, and evaluation work, because the deep level carries the highest risk (H3).
+- **Instructors.** Judge learning by unaided delayed performance rather than by the quality of the AI-assisted product, since the framework predicts higher-rated assignments alongside lower transfer.
+- **Researchers.** Run the proposed three-arm design (unrestricted AI vs. dialog-partner AI vs. no-AI) with chat-log and Experience Sampling telemetry, and treat the product–process dissociation as a hypothesis rather than a settled finding.
+- **Designers.** Build in the boundary conditions the authors name — developmental stage, prior knowledge, and metacognitive monitoring accuracy — so a tool that helps a well-calibrated learner does not push a novice into habitual offloading.
+
+## Limitations
+
+- Theoretical article with no data of its own: the paradox, the three-level framework, and H1–H4 are proposals, and the authors retain genuine heterogeneity as a rival explanation to a single paradoxical mechanism.
+- The evidence it integrates comes from studies with different designs and measures — product-outcome experiments, process-sensitive qualitative work, teacher-competency surveys, and neuroscientific findings — and none measured product quality and unaided delayed transfer in the same learners.
+- Cognitive debt is described as an emerging construct, so it is not yet operationalized or validated, and the confirmatory design and telemetry that would test the framework are only outlined.
 
 ## Connected Concepts
 
