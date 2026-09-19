@@ -1,7 +1,7 @@
 ---
 title: "Beyond checking: verification quality, reliance calibration, and learning in generative AI-assisted higher education"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -44,10 +44,10 @@ A focal table maps ten representative studies (Urban 2025; Choi 2025; Chen and L
 
 ## Limitations
 
-- Searches were targeted rather than systematic, so the review estimates neither prevalence, effect sizes, nor causal sequence.
+- Searches were targeted rather than systematic, so the review estimates neither prevalence, effect sizes, nor causal sequence; the 7 August 2026 search cut-off and rapid model evolution mean the map should be read as a time-bounded snapshot.
 - The evidence set mixes small qualitative studies, direct higher-education GenAI studies, adjacent AI-advice and HCI designs, and foundational or mechanistic sources, which limits the strength of inference.
 - The seven-target map is an analytic ordering, not a validated causal model — and explicitly not a fixed temporal sequence, since learners may accept and then verify, or revisit evaluation after post-hoc doubt.
-- The 7 August 2026 search cut-off and rapid model evolution mean the map should be read as a time-bounded snapshot.
+
 - Several audited studies did not standardize or report the AI system, model version, or configuration, which limits comparability of reference standards.
 
 ## Connected Concepts

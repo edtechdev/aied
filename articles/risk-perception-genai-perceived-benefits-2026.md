@@ -1,7 +1,7 @@
 ---
 title: "The impact of risk perception on perceived benefits of generative artificial intelligence users—an empirical study based on university students"
 created: "2026-09-16T12:25:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 technology: [generative-ai, technology-acceptance-model]
 ethics: [hallucination-risk, privacy, trust]
@@ -49,8 +49,8 @@ Analysis proceeded through three-layer hierarchical [[research-methods-aied|hier
 - **Cross-sectional design** precludes causal inference; all relationships are statistical associations, and directionality remains unclear without longitudinal or experimental data.
 - **Sample limited to Chinese university students**, restricting generalizability to other populations and cultural contexts.
 - **Limited control variables** — AI literacy, digital competence, frequency of use, academic discipline, and prior training were not included as potential confounders.
-- **Composite scores treated as observed indicators** rather than latent factors; no confirmatory factor analysis was reported, so measurement error is unmodeled and construct-level validity claims are limited.
-- **Common method bias risk** from single-time-point [[self-report-measures|self-report data]]; the single-factor diagnostic used is low in sensitivity, and marker-variable or common latent factor analyses were not performed.
+- **Composite scores treated as observed indicators** rather than latent factors; no confirmatory factor analysis was reported, so measurement error is unmodeled and construct-level validity claims are limited; **Common method bias risk** from single-time-point [[self-report-measures|self-report data]]; the single-factor diagnostic used is low in sensitivity, and marker-variable or common latent factor analyses were not performed.
+
 
 ## Connected Concepts
 

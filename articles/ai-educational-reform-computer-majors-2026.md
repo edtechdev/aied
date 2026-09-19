@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Educational Reform: Enhancing Talent Cultivation in Computer-Related Majors for the Digital Era"
 created: "2026-09-16T11:00:00-04:00"
-updated: "2026-09-19T07:16:01-04:00"
+updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [personalized-learning]
@@ -41,10 +41,10 @@ The intervention had five components: [[curriculum-design]] restructuring built 
 
 ## Limitations
 
-- Single-institution setting with specific corporate partners (Huawei and Neusoft), limiting generalizability.
+- Single-institution setting with specific corporate partners (Huawei and Neusoft), limiting generalizability; applicability to non-computer disciplines and other institutions remains unverified.
 - Small sample (244 students) and short window (two consecutive semesters) preclude assessment of long-term effects or developmental trajectories.
 - Program-wide implementation meant no parallel control group; conclusions rest on a descriptive pre/no-reform cohort comparison.
-- Applicability to non-computer disciplines and other institutions remains unverified.
+
 - Outcomes rely partly on self-report (student and faculty surveys) and context-specific assessment rubrics.
 
 ## Connected Concepts
