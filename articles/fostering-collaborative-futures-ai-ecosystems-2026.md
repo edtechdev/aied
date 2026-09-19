@@ -1,7 +1,7 @@
 ---
 title: "Fostering collaborative futures: Multidisciplinary approaches to AI integration in educational ecosystems"
 created: "2026-08-23T15:00:00-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education]
 technology: [generative-ai, learning-analytics, llm]
@@ -34,6 +34,21 @@ A critically reflective reading surfaces four tensions. First, between pedagogic
 ## Recommendations and Policy Implications
 
 The findings converge strongly with UNESCO's Guidance for Generative [[ai-education|AI in Education]] and Research, but extend it by showing that these are empirically prioritized concerns that experts perceive as high-impact and, in several cases, highly challenging to enact. The paper organizes strategies for policymakers, researchers, and practitioners across domains including equitable access, data protection, and [[privacy]] (e.g., design AI-enhanced ecosystems guided by principles of inclusivity and equity such as [[inclusive-learning|universal design for learning]]); a shared vision of the education ecosystem; acceptable usage of AI; fostering a culture of [[lifelong-learning|lifelong learning]]; societal understanding of AI in education; and responsible use of [[multimodal]] data (e.g., research on the effects of bias in educational data and co-designing ecosystems with open data). Sustainable and ethical adoption cannot be achieved through piecemeal interventions but requires coordinated action across policy, practice, and research.
+
+## What this means for practice
+
+- **Administrators.** Fund [[ai-literacy|AI competence]] building for both learners and educators first; experts rated this the top trend for impact (M = 8.57) and importance (M = 8.64) across the whole panel.
+- **Administrators.** Treat the shift in teacher roles as a professional-identity issue, not a training logistics issue: it was rated among the most challenging themes (M = 8.40) and was the only top-ranked trend with a negative priority indicator, so top-down mandates without attention to teachers' experience invite resistance or superficial compliance.
+- **Policymakers.** Require explainability, reliability, fairness, and accountability as procurement conditions for AI agents (importance M = 7.84), and audit infrastructure, connectivity, device availability, and digital fluency before scaling deployments, since access gaps can let well-resourced institutions capture the benefits.
+- **Policymakers.** Set validity and reliability requirements for [[automated-assessment|automated assessment]] and feedback systems before adoption; the paper flags that these systems are trained on historically produced datasets that embed existing biases and can advantage or disadvantage learners by linguistic background, learning style, and socioeconomic context.
+- **Researchers.** Co-design AI-enhanced ecosystems with the stakeholders who use them and publish on bias in educational data and open-data approaches, since the panel identified research-practice-industry coordination as part of the agenda.
+
+## Limitations
+
+- The Delphi panel was N = 70 (36 female, 33 male, 1 not reported) recruited by convenience sampling across 18 countries; Ireland (n = 16) and Germany (n = 15) supplied nearly half the participants, so regional coverage is uneven.
+- Participants came from academia (n = 26), research (n = 23), industry (n = 5), policy (n = 8), and teachers (n = 8); students and parents — the target users of the systems under discussion — were not involved at this stage.
+- The authors state that the Delphi pursuit of consensus may narrow the scope of perspectives and that the persona-based discussions involved interpretive synthesis by the research team, so the findings are "a structured expert-informed synthesis rather than a direct aggregation of individual perspectives."
+- Priority ratings rest on expert perception using 10-point importance, impact, and challenge scales rather than measured outcomes, and the three dimensions did not differ significantly, F(2, 42) = 0.91907, p > .05.
 
 ## Connected Concepts
 

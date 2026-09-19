@@ -1,7 +1,7 @@
 ---
 title: "Generative AI as a Mediational Agent: Rethinking Learning in Sociocultural Theory"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-18T19:36:23-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [constructivist, distributed-cognition, learning-theories, pedagogy, sociocultural-learning]
 technology: [generative-ai]
@@ -37,6 +37,21 @@ Generative AI is exceptionally effective at improving immediate performance — 
 ## Implications for the Learning Sciences
 
 Viewing AI as a mediational agent redirects [[research-methods-aied|researchers]] from whether AI improves outcomes toward how patterns of participation change. [[scaffolding]] traditionally meant support from teachers, peers, or designed environments; mediational agents generate support dynamically without the social relationships that gave scaffolding its developmental significance. [[distributed-cognition|Distributed cognition]] asks how cognitive work is shared across people and artifacts; generative AI raises the sharper question of how cognitive responsibility should be distributed when artifacts contribute to reasoning itself. The framing supplies vocabulary for debates that otherwise oscillate between techno-optimism and alarmism, complementing work on [[framing-ai-use-for-students]], [[ai-literacy]], [[critical-thinking]], [[ethics]], and [[philosophy-of-ai-in-education]], while cautioning against non-accountable persuasive output such as [[ai-sycophancy]] that erodes the [[human-in-the-loop-ai|human judgment]] these habits protect.
+
+## What this means for practice
+
+- **Instructors.** Require learners to develop their own ideas, interpretations, or problem framings before consulting generative AI, so that they hold the intellectual foundation needed to evaluate the system's contributions rather than adopt them.
+- **Instructors.** Assess the judgment, not only the output: make accepting, rejecting, revising, interrogating, or redirecting an AI-generated contribution an explicit and graded part of the task, since the mediational-agent framing treats those decisions as part of the learning activity itself.
+- **Instructors.** Defend process over polish: because generative AI improves immediate performance while learning depends on generating ideas, wrestling with uncertainty, evaluating alternatives, and revising, design tasks in which the system supports that struggle instead of replacing it.
+- **Instructors.** Ask learners to account for what they genuinely learned and how the system shaped their thinking, since reflective self-[[regulation]] is proposed precisely because AI obscures the boundary between human and machine contributions.
+- **Researchers.** Study patterns of participation and the negotiation of authority, responsibility, and judgment during interaction rather than treating AI use as a binary condition or measuring learning only through performance gains.
+
+## Limitations
+
+- This is a conceptual essay (an EdArXiv preprint), not an empirical study: it presents no sample, intervention, or measured outcome, so it can neither show that the mediational-agent framing improves learning nor establish that learners actually enact the proposed habits.
+- The five human-first habits — primacy of human cognition, purposeful engagement, supervisory agency, epistemic vigilance, and reflective self-[[regulation]] — are derived analytically from sociocultural theory rather than tested, and the authors state that supervisory agency and epistemic vigilance take different forms across disciplines, so the set is not a validated curriculum.
+- The authors place the concept's own success criterion in the future tense — its value "will depend on whether the concept helps the field to notice phenomena that existing categories leave unexplained" — and the essay offers no operationalization or measurement for that criterion.
+- The argument treats generative AI as a single undifferentiated category, without distinguishing systems by capability, interface, or deployment, so its conceptual claims cannot be bounded to particular tools or settings.
 
 ## Connected Concepts
 

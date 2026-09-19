@@ -1,7 +1,7 @@
 ---
 title: "Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education"
 created: "2026-08-24T17:00:00-04:00"
-updated: "2026-08-24T17:00:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [adaptive-learning, ai-technologies, learning-analytics, personalized-learning, student-modeling]
@@ -22,9 +22,20 @@ page_kind: [framework]
 - **Leveraging the Model Context Protocol (MCP).** By building on MCP, a wide range of AI tools could share and act on learner context, enabling cross-tool context awareness.
 - **A multidisciplinary roadmap.** The white paper lays out concrete steps across cognitive, affective, and sociocultural dimensions for making teaching and learning systems context-aware.
 
-## Implications
+## What this means for practice
 
-This framework bears on the knowledge base's [[student-modeling]] and [[personalized-learning]] threads by arguing that effective AI in education needs a **holistic, context-aware model of the learner** — integrating cognitive, affective, and sociocultural factors — rather than relying on narrow or decontextualized signals. It connects to [[adaptive-learning]], [[ai-education]], and [[human-ai-collaboration]], and its focus on encoding long-term learner context speaks to concerns about [[cognitive-offloading]] and shallow personalization. The use of MCP as an interoperability standard is a concrete technical roadmap that could make context-aware AI practical across diverse educational tools and platforms.
+- **Designers.** Build a holistic model of the learner rather than a narrow, decontextualized one: encode cognitive, affective, and sociocultural factors across short-, medium-, and long-term timescales instead of single features or single moments.
+- **Designers.** Adopt the Model Context Protocol as the interoperability layer so that a range of [[adaptive-learning|adaptive]] and other AI tools can share and act on the same learner context, making context-aware personalization practical across [[ai-education|education]] platforms rather than locked inside one product.
+- **Designers.** Warm-start the system with slow-to-surface signals: dialogue recovery reached 91.4% for misconceptions but only 68.6% for conscientiousness and 60% for language proficiency, so capture those traits in the context data layer rather than waiting for a new learner to reveal them.
+- **Designers.** Treat privacy and performance as a managed tradeoff: establish the upper performance bound unconstrained by privacy protections first, then quantify how much learning utility each privacy-preserving mechanism costs before deploying.
+- **Researchers.** Control for raw domain mastery before attributing any gain to context awareness, using the roadmap's proposed baselines (Humanity's Last Exam, TutorBench, SocraticBench, LLF Bench) to verify tutoring moves, dialogic skill, and feedback-driven updating separately.
+
+## Limitations
+
+- This is a white paper and roadmap, not a deployed system: its four vignettes are demonstrations and simulated experiments, so no learning gains from an operational context-aware tutor are reported.
+- The quantitative evidence comes from simulated rather than real learners — Vignette 2 used a single synthetic student profile ("Maya") and Vignette 4 ran a pilot of 35 simulated interactions with the GPT-5.1 model on generated dialogues.
+- Vignette 4's pilot exposes an observability gap in the framework's own data: misconception recovery reached 91.4% and anxiety 100%, but conscientiousness recovered at only 68.6% and language proficiency at 60%, so key intended context signals are not reliably observable from dialogue alone.
+- The stated deployment thresholds (Cohen's d ≥ 0.20 on primary learning outcomes and ≥ 95% accuracy in classifying learner states against ground-truth measures) are proposed go/no-go criteria deferred to future efficacy trials; neither had been met or tested when the paper was written.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers"
 created: "2026-08-25T09:52:34-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 ethics: [global-south]
@@ -26,6 +26,19 @@ technology: [technology-acceptance-model]
 
 ## Discussion
 The study extends the [[technology-acceptance-model|technology adoption]] literature to the [[global-south|Ghanaian]] [[science-education]] context, where teacher readiness and perceptions are decisive for successful educational-technology implementation. Its contribution is to foreground the gap between favorable attitudes and moderate actual use — a finding that complicates simple "acceptance" narratives and points to [[teacher-ai-competency|teacher competency]] and [[governance|institutional]] support as the real levers for AI integration. For the knowledge base, it connects [[teacher-education|teacher education]], [[ai-literacy]], and technology-adoption theory, and reinforces the recurring theme that initial [[teacher-role|teacher]] enthusiasm must be matched by sustained [[educational-development|professional development]] and facilitating conditions to translate into classroom practice.
+
+## What this means for practice
+- **Instructors.** Convert positive attitudes into classroom use: assign small, concrete AI tasks (research, lesson planning, content explanation) that fit an existing lesson, since strong intentions alone left actual use moderate.
+- **Faculty developers.** Extend training beyond tool basics to sophisticated pedagogical functions, where participants were least confident, using hands-on and sustained rather than one-off sessions.
+- **Faculty developers.** Address facilitating conditions — digital infrastructure, curriculum alignment, and institutional support — because the intention–use gap was attributed to systemic barriers, not to attitudes.
+- **Administrators.** Build peer norms around AI use: social influence scored lowest of the UTAUT constructs (M = 3.66), indicating that teachers hesitate to advocate AI use among colleagues.
+- **Instructors.** Start from the tools teachers already use — ChatGPT was reported as frequently used by 69% of respondents — and scaffold from that familiarity toward pedagogical integration.
+
+## Limitations
+- Reliance on self-reported data from 380 pre-service science teachers, which may be influenced by social desirability bias or overestimation of AI use and competence.
+- Cross-sectional design captures perceptions and behaviors at a single point in time, limiting causal inference and tracking of adoption over time.
+- Only teacher perspectives were collected; students and school administrators were not included, though they affect AI integration.
+- Findings are specific to the Ghanaian context, and generalization to countries with different infrastructural and policy conditions should be treated with caution.
 
 ## Connected Concepts
 - [[stem-education|science education]]

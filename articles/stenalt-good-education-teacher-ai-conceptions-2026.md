@@ -1,7 +1,7 @@
 ---
 title: "Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI"
 created: "2026-08-25T07:58:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 pedagogy: [learning-theories, pedagogy]
@@ -32,11 +32,20 @@ Stenalt (2026) shifts focus from students and tools to **teachers' conceptions**
 - **Plurality and messiness:** the outcome spaces highlight that educational practice is plural and messy — there is no single "right" way to understand [[ai-education|AI in education]].
 - **Agency and teachers' labor:** the study points to the need to attend to teacher agency and the labor of integrating AI.
 
-## Implications
+## What this means for practice
 
-- **For [[teacher-role]] and [[teacher-ai-competency]]:** teacher conceptions of AI vary qualitatively and shape design; supporting teacher agency and acknowledging the labor of AI integration are essential, not just training.
-- **For [[curriculum-design]] and [[pedagogy]]:** the four design approaches provide a vocabulary for how educators actually design AI into learning, informing [[higher-ed|higher-education]] practice.
-- **For [[ai-literacy]]:** complements learner-focused AI literacy with the teacher-conception dimension — how educators frame "good education" with AI.
+- **Instructors.** Name the conception of AI your course design assumes — correct-tool knowledge, a resource for individual sense-making, or a disciplinary collaborator — because the four design approaches this study identified assign students different roles, from recipients of information to collaborators.
+- **Instructors.** Build tasks that require judgment about when *not* to use AI: the interviewees overwhelmingly framed [[ai-literacy]] as "how to do it" and rarely voiced opting out of AI activities or prioritizing differently.
+- **Instructors.** Use the four design approaches as shared vocabulary in course teams, so that design discussions surface which elements (purpose, context, values, method, technology) are being prioritized rather than assuming one correct use of AI.
+- **Faculty developers.** Design professional development around teachers' existing conceptions instead of tool training: the 16 interviewees held three conceptions of teaching-with-AI and three of learning-with-AI, so a single workshop model reaches only part of any faculty group.
+- **Administrators.** Treat AI-related concern as a considered position rather than a competence deficit: these teachers, positioned as actively developing their practice, did not adopt AI uncritically, and the study ties [[teacher-role|teacher agency]] and the labor of integration to how AI actually enters teaching.
+
+## Limitations
+
+- 16 teachers from 2 of Denmark's 8 universities, recruited by snowballing through university teachers and academic developers who were already adopting AI in teaching — the outcome spaces therefore over-represent engaged adopters, and the authors state that including teachers with less interest in AI would allow more extensive exploration.
+- The evidence is single semi-structured interviews of 45–60 minutes each; participants' course details and profiles were self-reported during the interviews rather than verified against institutional records.
+- Conceptions and approaches are interpreted as situated responses to context, and the authors state the analysis does not provide in-depth insight into teachers' agentic will and power — the study maps variation, not its causes.
+- No longitudinal component: the authors call for further investigation of how the identified positions develop and whether they remain robust over time.
 
 ## Connected Concepts
 

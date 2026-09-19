@@ -1,7 +1,7 @@
 ---
 title: "Distilling Black-Box Machine Learning into a Small, Self-Explaining Language Model for Learning Analytics"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-08-24T09:10:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 technology: [learning-analytics, llm]
 ethics: [trust]
@@ -40,6 +40,20 @@ Applied to a nationally representative dataset (HSLS:09, n = 9,167), the pipelin
 The paper's central lesson is that fluency and faithfulness are distinct properties. Across every condition, the mentee produces narrations that read well, cite covariates with correct calculation, and end with confident, actionable recommendations — yet in the severely imbalanced simulation it recommends actually harmful treatment to almost all harmed individuals under the X-learner. This danger can only be surfaced in a simulation where ground truth is known by construction, and it is especially concerning in [[learning-analytics]], where parents, students, and counselors are the least equipped to notice that a well-written explanation is wrong. The upstream model therefore deserves the most scrutiny, since it mostly determines what the mentee learns.
 
 The pipeline also carries favorable [[ethics|privacy and fairness]] properties. Because student records never leave the machine and are never sent to a third-party model provider, it enables local, [[human-in-the-loop-ai|human-in-the-loop]] decision support; the deployment runs on a commodity laptop with no network access, producing an estimate and explanation in about ten seconds. For [[bias-mitigation|fairness]], sensitive covariates can be dropped entirely in prediction tasks (fairness through unawareness) or handled at the decision stage in causal tasks, and the design extends naturally to distill multiple upstream models into one general analysis assistant. The simulation rests on only five replications and the empirical study on one dataset and outcome, and the mentee compresses effect magnitudes in every condition, so individual point estimates should be read with caution even where correlation is high — a limitation the paper exposes honestly rather than concealing behind [[qualitative-research|qualitative]] labels.
+
+## What this means for practice
+
+- **Software developers.** Audit every narration against the attribution it claims to describe rather than reading it for fluency, since a fine-tuned model writes equally well whether its mentor signal is exact or noisy; the audit checks arithmetic closure, cited covariates, decision fidelity, and the unsafe-treatment rate.
+- **Software developers.** Run a ground-truth [[simulation]] before deployment and inspect the unsafe-treatment rate, not only point accuracy: in the severely imbalanced condition the mentee recommended treatment for nearly every student, including those the ground truth marks as harmed.
+- **Software developers.** Attach minimum safeguards to any live deployment — report decision accuracy against the majority baseline and treat individual point estimates as approximate, since the mentee compresses effect magnitudes in every condition.
+- **Researchers.** Reproduce the pipeline with additional replications and across other ML and causal settings and datasets; the pipeline is currently evidenced by five replications plus one dataset, one treatment, and one outcome.
+
+## Limitations
+
+- The simulation rests on five replications, and the empirical application uses one dataset (HSLS:09, n = 9,167), one treatment (advanced mathematics coursework), and one outcome (four-year college enrollment).
+- The mentee compresses effect magnitudes in every condition — the correlation with truth falls to about 0.72 and the slope to about 0.50 under the realistic X-learner — so individual point estimates should be read with caution even where correlation is high; varying the mentee from Gemma E2B to 26B and from INT4 to BF16 did not remove the issue.
+- The decomposition describes statistical association within the fitted surface and is not a causal-path reading, and the mentee approximates the mentor's effect surface rather than acting as a causal estimator: it never observes treatment or outcome and performs no causal identification.
+- Passing the faithfulness audit does not guarantee sound decisions: 98.8% of narrations passed in full on the 1,834-student held-out split while the entire negative tail of the mentor's surface was truncated, so treatment was recommended for all students in the 97.1%-imbalanced case.
 
 ## Connected Concepts
 

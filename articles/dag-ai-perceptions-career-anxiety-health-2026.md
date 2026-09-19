@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence perceptions and career anxiety among health sciences students"
 created: "2026-08-25T07:48:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, social-emotional-learning]
@@ -30,11 +30,19 @@ Dağ, Nal, Topuz, Kılınç, Demir, & Bektaş (2026) extend the career-anxiety e
 - **Demographic effects:** income status (p = 0.011, β = −0.088) and educational attainment (p = 0.001, β = 0.208) significantly affected job search anxiety.
 - **Core conclusion:** AI anxiety is not merely a technology attitude but an important psychological factor shaping students' perceptions of their professional futures and fears of unemployment.
 
-## Implications
+## What this means for practice
 
-- **For [[career-development-and-readiness]]:** AI anxiety is a real psychological barrier to employment confidence across disciplines, including health sciences.
-- **For institutions:** enhancing educational programs and [[ai-literacy]]/career counseling services at the university level could significantly reduce AI-related career anxiety.
-- **For [[anxiety-and-stress]]:** corroborates the career-anxiety dimension with [[discipline-specific-aied|discipline-specific]] (health-sciences) evidence.
+- **Instructors.** Position AI as a tool that complements professional practice rather than replaces it: in human-interaction fields such as physical therapy, nursing, and midwifery, teach clinical decision support alongside ethical responsibility, empathy, and digital leadership instead of technical proficiency alone.
+- **Administrators.** Treat AI anxiety as a career-transition risk factor and embed [[ai-literacy]] in the health sciences curriculum at the institutional level, so AI is framed as a resource that transforms professional work rather than threatens professional identity.
+- **Administrators.** Expand free or low-cost reskilling and mentoring for low-income students, whose job search anxiety was significantly higher (p = 0.011); their concern traces to limited access to continuous learning, not to personal inadequacy.
+- **Faculty developers.** Have career counselors discuss AI and the labor market in terms of mixed skill sets, new job definitions, and adaptation strategies, not only risks, so students treat the job search as something they can act on.
+
+## Limitations
+
+- Cross-sectional design: 821 health sciences students were surveyed once (January–June 2024) at Turkish state universities, so the direction of the AI anxiety–job search anxiety relationship cannot be established.
+- The sample was 82.5% female, which makes meaningful gender comparisons difficult and weakens the model where gender matters.
+- Distribution through class representatives on WhatsApp produced a homogeneous, selection-biased sample that likely over-represented students with high anxiety, limiting generalizability.
+- Every variable was self-reported by the same respondents, risking common-method variance, and AIAS and JSAS total scores were used, so the results speak to general AI anxiety rather than its sub-dimensions.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Control vs. Agency: Exploring the History of AI in Education"
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-08-23T13:00:00-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist]
@@ -61,6 +61,21 @@ Looking across the history, several patterns emerge: technical decisions consist
 ## Relevance to the knowledge base
 
 This is a landmark historical piece that anchors the knowledge base's developing **history-of-aied** theme, providing essential intellectual context for the many contemporary [[intelligent-tutoring]] and [[generative-ai]] article entries. It offers the field's canonical origin story (the cybernetics-to-AI naming decision, the cognitive revolution) and its enduring conceptual framework (control vs. agency), which illuminates a wide range of knowledge base topics—from [[personalized-learning]]'s two forms to the [[pedagogical-agent]]-vs-tool debate, and from [[adaptive-learning]]'s alignment with institutional structures to constructionist tensions in [[ai-education]]. It connects directly to [[learning-theories]] (constructivism/constructionism, information-processing), [[agency]] (the essential tension), [[constructivist|constructionism]], [[creativity]], [[teacher-role]], and the ethics of [[ai-education|AI in education]]. Its cybernetic counterfactual is a distinctive theoretical contribution useful across the knowledge base.
+
+## What this means for practice
+
+- **Educators.** Name which form of personalization you are implementing before adopting a tool: "uniform outcomes, varied path" adapts pace, difficulty, and method toward the same predetermined curriculum, whereas "diverse outcomes" supports students in developing distinct talents and directions.
+- **Educators.** Expect new tools to conform to existing assessment and standardization structures rather than disrupt them — Anderson's cognitive tutors did exactly that when the team aligned design with curriculum standards — and treat transformation claims as something to verify in your own setting.
+- **Administrators.** Treat AI adoption as a governance decision with an explicit stance: the tutoring model fits institutional and corporate interests in measuring, tracking, and optimizing learning, while constructionist use requires tolerating ambiguous outcomes and rethinking how learning is assessed.
+- **Researchers.** Use the cybernetic counterfactual as an analytic lens, asking whether a design emphasizes interconnection over isolation, feedback over prediction, adaptation over optimization, and [[self-regulated-learning|self-regulation]] over external control.
+- **Researchers.** Study the language and institutional forces of the field itself, since the paper shows that terminological choices carry ideological commitments and that institutions repeatedly select approaches that reinforce existing structures.
+
+## Limitations
+
+- This is a historical and theoretical analysis, not an empirical study: it compares two contrasting cases, Anderson's cognitive tutors and Papert's constructionism, to represent a field-wide control-versus-agency tension, so it cannot establish how prevalent either stance is in current practice.
+- The pivotal claim that McCarthy's 1955 naming decision set the field's trajectory rests substantially on a retrospective interview with McCarthy (Nilsson, 2010) rather than archival records, so the causal weight assigned to that choice is interpretive.
+- The cybernetic counterfactual is speculative by construction — it describes what a different framing might have produced rather than a testable prediction — and is offered as a heuristic, not evidence.
+- The piece appeared as a TechTrends column and argues from secondary historical sources on AI and education, so its claims about the field's past were not subject to empirical replication.
 
 ## Connected Concepts
 

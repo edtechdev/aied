@@ -1,7 +1,7 @@
 ---
 title: "Credentials That Carry Their Evidence: Credential design, dynamic tiering, and approved use when AI agents can do the work"
 created: "2026-08-24T09:10:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, edtech-platform]
@@ -49,13 +49,21 @@ The infrastructure this requires is not exotic: learning environments that emit 
 4. **Dynamic tiering prices three honest states.** *Unaided*, *directed*, and *attested* certify increasingly weaker evidence of human reasoning, and tiers can upgrade or lapse as evidence accrues or decays, mirroring recertification in the professions.
 5. **Approved use beats prohibition.** Declaring, per assessment, which agent uses are permitted turns "Was an agent used?" (unanswerable) into "What did the human demonstrably do?" (measurable and worth paying for), recorded in the receipt's consent-and-attestation block.
 
-## Implications for AI in Education
+## What this means for practice
 
-- **Assessment design shifts from policing to evidence capture.** Rather than trying to detect or prohibit agents, institutions should design [[assessment|assessments]] whose reasoning traces are recorded as they happen, so the credential's signal survives [[agentic-ai|agentic]] learning environments.
-- **Open, portable evidence schemas become a public good.** The paper argues standards bodies — not vendors — should own the schema, echoing the knowledge base's [[governance]] concern about who controls the infrastructure of assessment in the age of [[generative-ai|generative AI]].
-- **Learner-controlled, minimal-by-default disclosure is a prerequisite.** Evidence-rich credentials carry real [[privacy]] and [[equity-in-ai-education|equity]] costs; the paper insists the learner controls disclosure and the receipt exists to be presented, not harvested.
-- **Tiering lets the market price honesty.** By naming *attested* credentials for what they are, dynamic tiering avoids a blanket discount on all credentials and gives employers, accreditors, and licensing boards an inspectable middle ground between full audit and unverified claim — a concrete alternative to [[academic-integrity|integrity policing]].
-- **Validity and circular-validation warnings apply directly.** The credential rests on a [[assessment-validity|chain of inferences]] (Kane, Messick); agents break the first link, and systems must avoid validating one model with another. This connects to the knowledge base's broader measurement concerns about [[educational-measurement]] under agentic AI.
+- **Institutions.** Issue the credential as a claim plus a hashed, inspectable receipt of what was observed, when, and under what conditions, rather than investing further in identity checks and [[remote-proctoring|proctoring]] that a student can pass while an agent does the work.
+- **Assessment designers.** Capture reasoning contemporaneously — predictions, test runs, explanations, and revisions after being wrong — and publish the rule that turns evidence into an estimate, with reference cases, so a verifier can recompute it from the record alone.
+- **Institutions.** Separate the environment that produces evidence, the issuer that summarizes it, and the verifier that checks it; the paper argues the developer of a learning system should never be its sole grader.
+- **Policymakers.** Declare approved use for each [[assessment|assessment]] and record it as a consent-and-attestation block in the receipt, replacing "was an agent used?" with the measurable question "what did the human demonstrably do?".
+- **Institutions.** State the tier on every credential — *unaided*, *directed*, or *attested* — allow learners to upgrade a credential with later evidence, and let a stale tier lapse rather than presenting an old demonstration as current — naming *attested* honestly lets the market price it instead of discounting every credential; keep disclosure learner-controlled and minimal by default, since reasoning traces carry [[privacy]] and [[equity-in-ai-education|equity]] costs.
+
+## Limitations
+
+- The paper is a position statement with no empirical study of its own; the author states that its claims are design arguments rather than findings, so the three design elements are proposals whose effect on credential value is untested.
+- The author discloses a conflict of interest as founder of Quantum Learning Machines, which develops measurement infrastructure of the kind proposed, including an open evidence schema and verifier; the argument is advanced by an interested party and cites an audit of the author's own measurement engine.
+- Evidence capture can be defeated if the environment itself is compromised — the design raises the cost of fabrication rather than eliminating it — and contemporaneous reasoning evidence is easier to obtain in simulation and interactive learning than in extended written work; tiering can be gamed by institutions that certify everything at the weakest tier, observation of reasoning carries equity and privacy costs that the paper assigns to policy work rather than mechanism, and the question of who owns the schema (standards bodies rather than vendors, the author argues) is left open.
+
+- The paper's own warnings bound the proposal: the credential rests on a [[assessment-validity|chain of inferences]] in which agents break the first link, and it insists the measurement layers must be validated with the same rigor as the assessments they replace, including avoiding circular validation in which one model certifies another.
 
 ## Connected Concepts
 

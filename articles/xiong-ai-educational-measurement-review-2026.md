@@ -1,7 +1,7 @@
 ---
 title: "A Decade of Reflection and Thematic Review on Artificial Intelligence's Impact on Educational Measurement"
 created: "2026-08-24T12:32:00-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T09:11:03-04:00"
 type: article
 technology: [generative-ai]
 assessment: [assessment, educational-measurement]
@@ -27,6 +27,21 @@ The review surfaces both opportunities and challenges. Opportunities include sca
 - **Opportunities:** scalability and richer diagnostic inference from AI-integrated measurement.
 - **Challenges:** interpretability, algorithmic bias, and construct validity.
 - Argues for a **new paradigm integrating measurement theory with AI methods** and for reconceptualizing constructs in the context of [[human-ai-collaboration|human–AI interaction]].
+
+## What this means for practice
+
+- **Assessment professionals.** In high-stakes decisions, favor interpretable models over the highest-performing ones; the review names the interpretability–performance trade-off as the central challenge of AI in [[educational-measurement|measurement]].
+- **Assessment professionals.** Constrain LLM scoring and feedback with rubrics and human validation — the reviewed literature shows LLMs can produce contradictory or inconsistent feedback across different aspects of a single response.
+- **Assessment professionals.** Rewrite constructs and validity arguments for human–AI collaboration rather than unassisted human performance; the review argues Classical Test Theory and [[item-response-theory|IRT]] validity models built on solo work no longer fit when AI is available to every learner.
+- **Researchers.** Log and report process evidence such as interaction traces and revision behaviors as part of the validity argument, treating it as evidence of learning-in-action rather than an incidental byproduct.
+- **Researchers.** Reconceptualize fairness and validity as properties of the whole instructional-assessment system, so that measured outcomes reflect equitable learning opportunities rather than differential access to AI tools.
+
+## Limitations
+
+- The journal synthesis rests on a final corpus of 313 peer-reviewed English articles published 2015–2025 and retrieved from four databases (Scopus, Web of Science, ERIC, PsycINFO); preprints, editorials, and non-English work were excluded by design.
+- Studies focused purely on algorithmic development without a demonstrated educational application, and AI-for-teaching studies without any measurement or assessment component, were excluded, so all four themes describe a deliberately measurement-facing slice of the literature.
+- Conference evidence comes from five venues (EARLI, NCME, AERA, ACE, ASCILITE), and the thematic structure comes from a four-topic LDA solution chosen by perplexity and coherence scores plus expert judgment — choices that shape the reported eras and themes.
+- It is a structured thematic synthesis, not a quantitative meta-analysis: no pooled effect sizes are reported, so the review cannot estimate how much AI improves measurement outcomes.
 
 ## Connected Concepts
 
