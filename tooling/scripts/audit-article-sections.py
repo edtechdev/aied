@@ -82,10 +82,17 @@ def _figure_patterns(token: str) -> list[str]:
         return []
     stripped = digits.lstrip("0") or "0"
     variants = {digits, stripped, "0" + stripped}
+    if "." in token:
+        trimmed = token.rstrip("0").rstrip(".")
+        trimmed_digits = re.sub(r"\D", "", trimmed)
+        if trimmed_digits:
+            variants.add(trimmed_digits)
+            variants.add(trimmed_digits.lstrip("0") or "0")
     patterns = []
     for variant in variants:
         body = r"[^\d]{0,1}".join(re.escape(ch) for ch in variant)
-        patterns.append(r"(?<!\d)\.?" + body + r"(?!\d)")
+        # trailing zeros may be present in the source (78.6 there, 78.60 here) but no other digit may follow
+        patterns.append(r"(?<!\d)\.?" + body + r"(?![0-9]*[1-9])")
     return patterns
 
 
@@ -111,6 +118,14 @@ def section(text: str, name: str) -> str | None:
 
 def headings(text: str) -> list[str]:
     return [m.group(1).strip() for m in HEADING.finditer(text)]
+
+
+DF_NOTATION = re.compile(r"\b[A-Za-z]\s*\(\s*\d+\s*,\s*\d+\s*\)|\(\s*\d+\s*,\s*\d+\s*\)")
+
+
+def strip_degrees_of_freedom(body: str) -> str:
+    """Remove F(1,41)-style degrees-of-freedom notation: not a figure to verify."""
+    return DF_NOTATION.sub(" ", body)
 
 
 def bullets(body: str) -> list[str]:
@@ -218,7 +233,7 @@ def audit(slug: str, known: set[str]) -> dict:
         result["report"].append("no usable saved full text: figures unverifiable")
     else:
         for label, body in ((PRACTICE, practice_body), (LIMITATIONS, limits_body)):
-            for hit in NUMBER.finditer(body):
+            for hit in NUMBER.finditer(strip_degrees_of_freedom(body)):
                 token = hit.group(0).strip(".,")
                 if len(token) < 3 or token in ("2025", "2026"):
                     continue
