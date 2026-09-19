@@ -1,7 +1,7 @@
 ---
 title: Special Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -47,6 +47,7 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]]
 - [[equity-in-ai-education]]
 - [[neurodiversity]]

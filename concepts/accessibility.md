@@ -1,7 +1,7 @@
 ---
 title: Accessibility
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -55,6 +55,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - **Math-accessible transcription of [[physics-education|physics]] videos (2026):** An AI workflow using Gemini (audio + 1 fps video sampling) and LuaLaTeX compiles instructional physics videos into PDF/UA-2 and ISO 32005 math-accessible PDFs that routinely pass accessibility validation — a practical, free path to making equation-heavy video content screen-readable for blind and low-vision students ([[gemini-lualatex-physics-video-transcription-2026]]).
 
 ## Connected Concepts
+- [[differential-effects-across-learner-groups]]
 - [[inclusive-learning]] — broader umbrella for designing education across learner variability
 - [[special-education]] — instructional domain for learners with diagnosed disabilities
 - [[universal-design-for-learning]] — proactive design framework

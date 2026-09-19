@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-19
 
-Articles: 1310 | Concepts: 207 | FAQs: 32
+Articles: 1310 | Concepts: 208 | FAQs: 32
 
 ## Concepts
 
@@ -1524,3 +1524,4 @@ Articles: 1310 | Concepts: 207 | FAQs: 32
 - [[zuo-instructor-power-genai-writing-2026]] — “Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI
 
 - [[interpreting-and-applying-aied-research]] — Interpreting and Applying AIEd Research
+- [[differential-effects-across-learner-groups]] — Differential Effects Across Learner Groups

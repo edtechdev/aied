@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 207
+**Total concepts:** 208
 
 ## Foundations of AI in education
 
@@ -283,6 +283,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`assistive-technology`** — Assistive Technology — phrases: assistive tech; assistive technology; AT tools; braille; screen reader; speech to text; text to speech
 - **`bias-mitigation`** — Bias Mitigation — phrases: algorithmic bias; algorithmic fairness; bias; bias mitigation; biases; de-biasing; debiasing; fairness
 - **`culturally-relevant-pedagogy`** — Culturally Relevant Pedagogy — phrases: culturally relevant; culturally relevant pedagogy; culturally responsive; culturally responsive pedagogy; culturally responsive teaching; culturally sustaining; culturally sustaining pedagogy
+- **`differential-effects-across-learner-groups`** — Differential Effects Across Learner Groups — phrases: differential effects; differential effects across learner groups; learner group differences; subgroup effects; who benefits from ai
 - **`digital-divide`** — Digital Divide — phrases: access gap; digital access; digital divide; digital inequality; technology gap
 - **`equity-in-ai-education`** — Equity — phrases: AI equity; educational equity; equitable; equity; equity concerns
 - **`global-south`** — Global South — phrases: developing countries; developing country; global south; low-income countries; low-resource context; majority world; non-Western context

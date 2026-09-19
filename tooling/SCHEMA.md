@@ -115,7 +115,7 @@ assessment: ai-detection | ai-feedback-quality | assessment | assessment-validit
 methods: ai-ed-evaluation | benchmark | design-based-research | meta-analysis-systematic-review | mixed-methods-research | network-analysis | qualitative-research | quantitative-research | rct | research-methods-aied | usability-research
 stakeholders: administrator | career-development-and-readiness | educational-technology-developers | learners | lifelong-learning | parents-and-families | professional-training | samr-model | stakeholders | student-experience | teacher-ai-competency | tpack
 institutions: change-management | educational-policy-ai | governance | regulation
-ethics: accessibility | ai-misuse-learning-harm | ai-sycophancy | ai-use-disclosure | assistive-technology | bias-mitigation | culturally-relevant-pedagogy | digital-divide | equity-in-ai-education | ethics | explainable-ai | global-south | guardrails | hallucination-risk | inclusive-learning | legal-issues-and-risks | multilingual-learning | neurodiversity | pedagogical-safety | privacy | sustainability | trust | trust-calibration | universal-design-for-learning
+ethics: accessibility | ai-misuse-learning-harm | ai-sycophancy | ai-use-disclosure | assistive-technology | bias-mitigation | culturally-relevant-pedagogy | differential-effects-across-learner-groups | digital-divide | equity-in-ai-education | ethics | explainable-ai | global-south | guardrails | hallucination-risk | inclusive-learning | legal-issues-and-risks | multilingual-learning | neurodiversity | pedagogical-safety | privacy | sustainability | trust | trust-calibration | universal-design-for-learning
 ```
 <!-- END GENERATED VOCABULARIES -->
 

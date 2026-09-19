@@ -1,7 +1,7 @@
 ---
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-19T06:35:00-04:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -51,6 +51,7 @@ Multilingual concerns also affect [[automated-assessment|automated assessment]]:
 
 ## Connected Concepts
 
+- [[differential-effects-across-learner-groups]]
 - [[language-learning]]
 - [[llm]]
 - [[equity-in-ai-education]]

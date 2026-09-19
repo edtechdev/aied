@@ -1078,6 +1078,14 @@ concepts:
     - math education
     - mathematics
     - mathematics education
+  differential-effects-across-learner-groups:
+    title: Differential Effects Across Learner Groups
+    aliases:
+    - differential effects
+    - differential effects across learner groups
+    - learner group differences
+    - subgroup effects
+    - who benefits from ai
   design-education:
     title: Design Education
     aliases:
@@ -2170,6 +2178,7 @@ sections:
   - label: Equity and access
     items:
     - equity-in-ai-education
+    - differential-effects-across-learner-groups
     - digital-divide
     - bias-mitigation
     - culturally-relevant-pedagogy
