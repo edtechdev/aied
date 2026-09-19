@@ -1,7 +1,7 @@
 ---
 title: "Situated AI ethics: a cultural-historical and ecological framework for education"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [learning-theories]

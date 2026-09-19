@@ -1,7 +1,7 @@
 ---
 title: "Assessing AI-TPACK readiness in mathematics teacher education: The role of self-efficacy and teaching beliefs"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 pedagogy: [self-efficacy]
 stakeholders: [tpack]

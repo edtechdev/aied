@@ -1,7 +1,7 @@
 ---
 title: "The critical-thinking paradox in generative AI-integrated learning: distinguishing efficiency from cognitive depth — a differentiated framework and testable propositions"
 created: "2026-08-16T10:19:32-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [desirable-difficulties, metacognition, transfer-of-learning]

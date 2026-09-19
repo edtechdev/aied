@@ -1,7 +1,7 @@
 ---
 title: "Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias"
 created: "2026-09-18T14:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [llm, generative-ai]

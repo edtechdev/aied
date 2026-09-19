@@ -1,7 +1,7 @@
 ---
 title: "Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [ai-literacy]
 audience: [instructors, faculty development]
