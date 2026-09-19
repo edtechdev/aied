@@ -234,12 +234,12 @@ the recorded DOI and Unpaywall. Add the PDF here (or re-run the fetch once acces
 Pages in this section now have a full text supplied by hand where one was missing; the entries below record what
 could not be checked before it arrived.
 
-`structrag-diagram-reasoning-ai-tutoring` states topology figures its saved source cannot confirm - edge-level
-F1 gains of 26.4 points on irregular, 23.1 on bridge/mesh and 21.6 on ring diagrams in the practice section, and
-85.8% and 81.4% diagram accuracy in the limitations - because the saved text stops at the 50,000-character cap
-before the results tables. The article is open access at https://doi.org/10.1186/s40561-026-00459-9, but Springer
-serves a robot page to scripted requests and the article page loads only the abstract, so the figures stay
-recorded rather than deleted until a PDF arrives.
+`structrag-diagram-reasoning-ai-tutoring` was the last page in this position: it stated edge-level F1 gains of
+26.4 points on irregular, 23.1 on bridge/mesh and 21.6 on ring diagrams, plus 85.8% and 81.4% diagram accuracy,
+while its saved text stopped at the 50,000-character cap before the results tables. All five figures were confirmed
+against the published article once a copy was supplied: the gains sentence appears in the results, and the accuracy
+figures are the reported performance on those two topologies, which the paper itself calls the weaker cases. The
+page now passes the audit with no unverified numbers.
 
 - `genai-chatgpt-adoption-ethics-students-2026` and `idea-framework-metacognitive-genai-2026` both state figures that
   their saved sources do not contain (185 excluded responses; adjusted prompt-quality differences of +11.77 and
