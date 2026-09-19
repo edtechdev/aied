@@ -1,7 +1,7 @@
 ---
 title: "AI Assistance for Discretionary Work: Increasing Feedback Provision in Higher Education"
 created: "2026-06-04T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [teacher-role]
 pedagogy: [scaffolding]
@@ -54,13 +54,20 @@ Interviews with all 11 TAs revealed that drafts functioned as **editable scaffol
 
 The increased provision did not degrade downstream outcomes. Students rated AI-assisted and non-assisted feedback as similarly useful (difference −0.01, p = 0.88), and interviews with a subset of 9 students suggested they valued the increased availability of personalized feedback while generally being unable to distinguish AI-assisted from non-assisted feedback. In other words, more feedback arrived, and its perceived quality was preserved.
 
-## Implications
+## What this means for practice
 
-- **AI as an initiation intervention, not just a productivity tool.** The flat time-per-character finding reframes AI assistance for discretionary work: its value lies in making beneficial work that is usually skipped happen at all, rather than in removing total effort. Designers should evaluate such systems on participation, not only efficiency or output quality.
-- **Human-in-the-loop constraints bound the effort savings.** A key limit surfaced by the study is that preserving human oversight — requiring TAs to review, adapt, and decide whether to send — means AI cannot remove as much total effort as a fully autonomous pipeline might. This is a deliberate trade-off against reliability and [[trust]].
-- **Scaffolding, not automation, maps to TA agency.** The results align with [[scaffolding]] and [[human-in-the-loop-ai]] literatures: drafts supported [[teacher-role|instructor agency]] rather than displacing it, and separating grading from feedback provision mitigated [[cognitive-offloading|over-reliance]]. This design pattern (assist-then-verify) is broadly applicable to other discretionary labor such as mentoring, documentation, and review.
-- **Scaling personalized feedback in large courses.** Because gains came without extra per-unit time and without quality loss, AI-assisted feedback scaffolding could be especially valuable in large-enrollment courses where TA time is scarce but personalized feedback is pedagogically important — extending [[personalized-learning]] and [[formative-assessment]] practice.
-- **Open questions.** Future work should test whether gains persist across semesters, whether different subject domains moderate the effect, and how sustained exposure shapes TA reliance and calibration of AI drafts over time.
+- **Instructors.** Target the AI at discretionary work rather than required work: with nothing else changed, showing TAs a draft lifted feedback provision by 10.81 percentage points (SE = 1.10, p < 0.001) in a course where giving feedback was optional.
+- **Instructors.** Surface the draft only after grading is finished, so the AI supports articulating and verifying a judgment the TA has already made instead of substituting for it — the two-stage design that limited [[trust-calibration|over-reliance]].
+- **Instructors.** Keep drafts use-or-edit-or-ignore: the flat time-per-character result (0.29 s/char) shows the design buys task initiation, not the removal of review effort, and TAs should keep spending that effort.
+- **Instructors.** Deploy the pattern where personalized [[feedback]] is pedagogically important but TA time is scarce — large-enrollment courses — and judge it on participation and perceived usefulness, not on efficiency alone.
+- **Instructors.** Treat human oversight as a fixed constraint, not an efficiency to optimize away; the authors are explicit that preserving review caps the possible effort savings relative to an autonomous pipeline.
+
+## Limitations
+
+- The randomized field experiment ran in a single 300-level machine learning course (enrollment 130–150) at one private R1 university across four homework assignments in one semester, with 11 TAs.
+- The claim that AI supports initiation rather than reducing effort is inferred from a behavioral proxy: time per character was not a direct measure of initiation cost, cognitive effort, or the work of checking and adapting drafts.
+- Several outcomes are self-reports — TA ratings of draft usefulness and student ratings of the feedback they received — and the student interviews covered a subset of 9 students.
+- Longer-run effects are untested: the authors call for work on whether gains persist across semesters, whether subject domain moderates the effect, and how sustained exposure shapes TA reliance on drafts.
 
 ## Connected Concepts
 

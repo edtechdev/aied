@@ -1,7 +1,7 @@
 ---
 title: "A scoping review of generative AI-powered agentic AI in education: Research landscape, agentic capabilities"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [learning-theories, scaffolding]
@@ -70,9 +70,20 @@ The review identifies several converging priorities:
 
 The review uses **OpenClaw** (Steinberger, 2026) — the fastest-growing [[open-source]] AI project in early 2026 — as an illustrative reference point for the "frontier agent paradigm": systems that feature governed tool orchestration via MCP, persistent memory, long-horizon planning, multi-agent coordination, and auditable action. The finding that these capabilities are largely absent from educational agentic systems is the review's most striking technology–application gap. While the authors are careful not to position OpenClaw as a normative target, its feature set serves as a useful [[benchmark]] for assessing how far educational systems lag behind general-purpose agentic infrastructure.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[ai-education|AI in education]], the review's map carries several concrete implications. First, the **technology–application gap** means the field is using only a narrow slice of available agentic capability; designers should test whether governed tool orchestration, persistent memory, and long-horizon planning can serve learning goals rather than assume simple [[conversational-ai|chatbot]] interaction is the ceiling. Second, the **weak theoretical grounding** (only 29% of studies) argues for pairing technical system-building with explicit [[learning-theories|learning theory]] and [[learning-design|instructional design]], so that automation is aligned with [[self-regulated-learning|learner cognition]] rather than replacing it. Third, the **[[research-methods-aied|methodological]] limits** — small, short-term, single-context samples — counsel caution when generalizing [[learning-gains|effectiveness claims]], and motivate the longitudinal and real-world validation the authors call for. Finally, the **governance and equity agenda** (ethics, [[human-in-the-loop-ai|human oversight]], [[equity-in-ai-education|equity]], [[academic-integrity]]) should be treated as core design constraints, not afterthoughts, especially as systems scale toward more autonomous and multi-agent coordination.
+- **Designers.** Test whether governed tool orchestration, persistent memory, and long-horizon planning can serve learning goals rather than assuming simple [[conversational-ai|chatbot]] interaction is the ceiling — the review's technology–application gap shows the field uses only a narrow slice of available agentic capability.
+- **Researchers.** Pair technical system-building with explicit [[learning-theories|learning theory]] and [[learning-design|instructional design]] so automation supports rather than replaces [[self-regulated-learning|learner cognition]]; only 138 of the 474 reviewed studies (29%) drew on educational theory.
+- **Researchers.** Treat [[learning-gains|effectiveness claims]] cautiously and design longitudinal, real-world validation studies, since most reviewed work uses small-scale, short-term, single-context samples.
+- **Administrators.** Make [[governance]], [[human-in-the-loop-ai|human oversight]], [[equity-in-ai-education|equity]], and [[academic-integrity]] core design constraints rather than afterthoughts as systems scale toward greater autonomy and multi-agent coordination.
+- **Instructors.** Scrutinize any agentic tutor before adoption for auditable action and human-in-the-loop checkpoints, because robust embedded governance was rare across the 474 systems reviewed.
+
+## Limitations
+
+- As a scoping review, the study conducted no meta-analysis and did not assess risk of bias in individual studies, so it maps the field's shape but cannot establish effectiveness.
+- The search was restricted to titles, abstracts, and keywords, and screening used an LLM-assisted strategy with two human reviewers, leaving relevant studies retrievable only through full-text indexing outside the corpus.
+- The evidence base itself is dominated by small-scale, short-term designs and post-2025 publication (278 of 474 studies in 2025, 146 in January–May 2026), limiting the maturity of any cumulative claim.
+- First authors are heavily concentrated in China (150, 31.6%) and the United States (93, 19.6%) — 51.2% combined — which the authors flag as a threat to generalizability across educational systems.
 
 ## Connected Concepts
 

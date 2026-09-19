@@ -1,7 +1,7 @@
 ---
 title: "Evolution of AI in Education: Agentic Workflows"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-education]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, pedagogical-llm-training]
@@ -48,9 +48,19 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 - **Orchestration overhead:** Coordination cost scales non-linearly with agent count.
 - **Latency:** Reflection and multi-agent negotiation introduce response delays.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[ai-education|AI in education]], the four-paradigm framework gives designers and [[research-methods-aied|researchers]] a shared vocabulary for describing and comparing [[agentic-ai|agentic]] systems — useful for choosing which paradigm (or combination) matches a given pedagogical goal: [[formative-assessment|formative]] uses favor reflective verification of [[feedback]], while skill domains with low hallucination tolerance favor tool use. The MASS result hints that multi-agent coordination can improve consistency in [[assessment]] tasks, but the highlighted interpretability and [[trust]] challenges caution against deploying opaque orchestration where [[stakeholders|learners and educators]] need to understand and contest outcomes. The framework also connects to capability-gap analyses (e.g., the [[meta-analysis-systematic-review|scoping review]] in [[agentic-ai-education-scoping-review]]), where most educational systems cluster in reflection and planning while advanced tool orchestration and multi-agent collaboration remain rare.
+- **Developers.** Pick the paradigm against the pedagogical goal rather than by default: use reflection where [[feedback]] must be verified before it reaches learners, and tool use where [[hallucination-risk|hallucination]] tolerance is low.
+- **Developers.** Budget explicitly for orchestration cost and chattiness in multi-agent designs — the paper reports that coordinating agents raises token usage and processing time and that improper coordination can degrade the whole system.
+- **Developers.** Surface which agent produced which part of a final score or explanation, because nested plan–tool–reflect traces turn multi-agent systems into a black box that learners and [[teacher-role|teachers]] cannot audit.
+- **Researchers.** Prioritize explainable agent reasoning and cross-population transfer studies, since the authors identify transparency, fairness, and transfer across heterogeneous learner populations and [[pedagogy|pedagogical]] settings as unresolved.
+
+## Limitations
+
+- The MASS proof of concept rests on a single benchmark: roughly 17,000 student-written argumentative essays from ASAP 2.0 scored 1–6 on a holistic rubric, compared against only three stand-alone LLMs (GPT-4o MAE 0.6129, DeepSeek 67B 0.7345, DeepSeek 1.3B 1.6956 vs. MASS 0.5612) — a scoring-accuracy result, not evidence of instructional benefit.
+- The reported consistency advantage is not uniform: Llama 3.3 70B produced a tighter error distribution (SD 0.783) than MASS (0.830), and the significance tests are reported only as p = 0.0 rather than as exact values.
+- The literature synthesis screened 378 unique records down to 93 included studies, and the authors state plainly that sustainability was treated as a follow-up research priority rather than analyzed, so lifecycle cost and equity fall outside its scope.
+- No learner-facing evaluation was conducted: the authors flag that transfer across learner populations and the interplay among instructors, learners, and agents remains unstudied, and the work carries no ethics, consent, or funding declarations because none applied.
 
 ## Connected Concepts
 

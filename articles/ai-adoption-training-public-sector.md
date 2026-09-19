@@ -1,7 +1,7 @@
 ---
 title: The Main Barrier to AI Adoption in the Public Sector is Lack of Training
 created: "2026-06-02T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, curriculum-design]
 pedagogy: [metacognition, scaffolding]
@@ -29,9 +29,19 @@ institutions: [change-management, educational-policy-ai]
 
 The paper reports two auditable, third-party-verifiable cases rather than a controlled experiment. The method was applied throughout 2024 at SES/CONT — a multidisciplinary team with no homogeneous legal background that was manually processing a caseload whose average processing time the SEI-GDF recorded at 17 days, 22 hours, and 11 minutes — and throughout 2025 at UCI/SEDET. Outcomes were drawn from the official indicators of the Federal District Government's Electronic Information System (SEI-GDF). The two units differed in profile: at SES/CONT the method reduced processing time while keeping documentary output stable, whereas at UCI/SEDET the time reduction was accompanied by simultaneous growth in document volume and analytical depth.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study is a concrete demonstration that [[ai-literacy]] behaves as a developmental capacity: the availability of capable models does not translate into adoption or productivity without structured [[scaffolding]]. For education, the four-layer sequence — literacy, protocol, prompt engineering, and audit — maps onto the kind of [[curriculum-design]] that pairs tool competence with disciplined workflow and verification. The absence of security incidents shows that productivity-oriented training can be compatible with rigorous governance, and the use of free models makes the approach accessible to organizations under budget constraints, a relevant consideration for resource-limited educational settings. The finding that gains differed across units reinforces the need to tailor training to [[governance|institutional]] context rather than assuming one-size-fits-all transfer.
+- **Instructors.** Sequence training as the paper's four layers — literacy, protocol, [[prompt-engineering|prompt engineering]], and audit — so tool competence is paired with a disciplined, verifiable workflow instead of generic model access.
+- **Instructors.** Keep critical review by a qualified professional as a functioning condition of use, with human review before any output is issued; the method accelerates output but does not replace technical knowledge.
+- **Administrators.** Build the protection layer before deployment — a documented AI governance framework, de-identified inputs, and conversation training disabled on the tools used — since neither unit recorded data leakage, voided decisions, or external compliance challenges.
+- **Administrators.** Invest in structured training rather than premium models: free, browser-accessible models were already available to every public servant but produced no productivity gain until the pedagogical method was introduced.
+
+## Limitations
+
+- The evidence is two observational case studies rather than a controlled experiment: the author assumed direction of each unit at the start of its cycle, so a change of leadership and a reorganization of document workflows coincide with the method and cannot be separated from it.
+- Outcomes rest on administrative indicators from the SEI-GDF system with no control unit or counterfactual, so the authors present the training-based account as the most parsimonious reading of the two cases rather than a demonstrated causal effect.
+- The financial results are modeled, not realized: the US$1.2–5.7 million mitigation range (central estimate US$3 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
+- Both cases come from Brazilian federal-district internal-control units with distinct mandates and baseline constraints, and the time gains diverged sharply between them (18.2% vs. 50%), so portability to other agencies or to educational institutions is untested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System"
 created: "2026-08-24T05:30:00-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 pedagogy: [icap-framework, problem-solving, scaffolding, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, personalized-learning, reinforcement-learning]
@@ -50,9 +50,13 @@ The authors draw on two data-driven approaches to [[personalized-learning|person
 
 **RQ3 — Effects by prior knowledge.** Using a median split into High/Low prior-knowledge subgroups, Low-BKT students significantly outperformed Low-Control (β = 9.4, p = .001), while Low-DRL showed only a marginal increase (β = 4.8, p = .08). Within the High group, High-DRL significantly beat High-Control (β = 6.81, p = .008). Interaction terms were non-significant, indicating the adaptive advantage did not differ significantly by prior knowledge. All conditions narrowed the achievement gap, but BKT achieved the largest reduction (77.1%), largely because the Control condition failed to improve low prior-knowledge students.
 
-## Implications
+## What this means for practice
 
-The findings demonstrate that varying the *type* of [[student-engagement|cognitive engagement]] through different problem representations can be an effective [[adaptive-learning|adaptive]] [[scaffolding]] strategy, with the [[icap-framework|ICAP framework]] supplying a principled basis for designing such adaptations. That BKT and DRL achieved comparable overall gains while adopting very different policies suggests the benefit may reside in adaptation itself rather than the specific algorithm — but the divergence raises design questions. DRL's strong preference for active (Guided) engagement over constructive (Buggy) and interactive (PS) modes, despite equivalent outcomes, questions when the cognitive cost of constructive or interactive engagement is worth it; the authors note that constructive and interactive activities may promote deeper, more [[transfer-of-learning|transferable]] learning that their time-weighted reward did not capture, potentially representing a missed pedagogical opportunity. For [[intelligent-tutoring|tutoring]] and [[learning-design]] practice, BKT's interpretable mastery estimates let teachers and learners understand why a particular scaffolding type was chosen, whereas DRL's learned policy is opaque — an interpretability gap worth weighing in settings where system decisions should be explainable. In [[student-modeling]] and policy-induction [[research-methods-aied|research]], the study supports treating engagement level as a legitimate, adaptive intervention dimension rather than a fixed pedagogical choice.
+- **Designers.** Vary the *type* of [[student-engagement|cognitive engagement]] rather than only the difficulty: assigning Guided worked examples (active) or Buggy examples (constructive) adaptively produced posttest means of 72.3 (BKT) and 72.5 (DRL) against 65.7 for random problem-type assignment, with the [[icap-framework|ICAP framework]] supplying the principled basis for the choice.
+- **Designers.** Route low [[prior-knowledge|prior-knowledge]] learners through an interpretable mastery rule: Low-BKT students significantly outperformed Low-Control (β = 9.4, p = .001) and BKT reduced the pre-to-post achievement gap by 77.1% (23.8 to 5.4), largely because the control condition failed to improve these students at all.
+- **Designers.** For high prior-knowledge learners, a reward-optimized policy can add more: High-DRL significantly beat High-Control (β = 6.81, p = .008), while High-BKT did not differ significantly from High-Control.
+- **Designers.** Weigh interpretability when choosing the policy: BKT's rule-level mastery estimates let teachers and learners see why a scaffolding type was selected, whereas DRL's learned policy is opaque — a genuine cost in settings where system decisions must be explainable.
+- **Researchers.** Audit what a reward function leaves out. DRL assigned only 4% Buggy problems under the reward `TestScore · (1 − ProblemTime)`, which the authors say did not capture the deeper, more [[transfer-of-learning|transferable]] learning that constructive and interactive engagement may produce — a potential missed pedagogical opportunity.
 
 ## Limitations
 

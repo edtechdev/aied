@@ -1,7 +1,7 @@
 ---
 title: "The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-08-22T17:55:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -49,9 +49,20 @@ While ACB cannot be reduced to a single score, the paper identifies indicators: 
 
 Methodologically, the paper argues that existing frameworks reach "ACB's door but do not enter" — performance-focused studies document what happens to *outcomes* under AI but not what learning *feels* like from the learner's perspective. It proposes **interpretative phenomenological analysis (IPA)** as a methodologically coherent path into the subjective layer ACB theorizes, clarifying whether the construct corresponds to something real in learners' lived experience. The moderating-variable model yields separately falsifiable predictive claims (e.g., cross-cohort comparisons of calibration error), designed to be refined or refuted by empirical encounter.
 
-## Implications for AI in education
+## What this means for practice
 
-ACB reframes the stakes of the knowledge base's [[learning-gains]] evidence: outcomes matter, but so does whether learners can *locate themselves* within their work. It connects to [[ai-misuse-learning-harm]] and [[cognitive-offloading|over-reliance]] threads by theorizing a cumulative, post-use consequence rather than an in-the-moment one. It cautions against both blanket indictment and blanket endorsement — the condition applies to a definable subset (sustained substitutive use during formative years in systems with unrestricted AI access), not the whole cohort, and the paper explicitly does not prescribe [[pedagogy|pedagogical]] fixes before the phenomenon is understood. Empirically, it bridges to work on [[student-experience]] and [[epistemic-proactivity-math|epistemic proactivity]], which likewise tracks how learners' relationship to AI-shaped cognition develops.
+- **Learners.** Treat a felt sense of understanding after reading fluent AI output as unreliable evidence of your own grasp, because that fluency is a property of the generated text rather than of your cognitive representation.
+- **Instructors.** Create structured opportunities for sustained independent cognitive work — the pedagogical response the paper names if the missing reference point is the problem — rather than treating AI-assisted and independent work as interchangeable.
+- **Instructors.** Separate availability from substitution: a student who used AI to check grammar while doing the thinking independently accumulated cognitive experience, while one who prompted AI for finished work may not have.
+- **Researchers.** Adopt interpretative phenomenological analysis with purposively sampled learners, because performance-focused studies document what happens to outcomes but not what learning feels like from the learner's perspective.
+- **Administrators.** Resist blanket indictment and blanket endorsement alike: the construct is proposed for a definable subset — sustained substitutive use during formative years in systems with unrestricted AI access — and the paper deliberately prescribes no fixes before the phenomenon is understood.
+
+## Limitations
+
+- It is a conceptual, theory-building paper with no participants, measures, or data: the three dimensions and the moderating-variable model are analytical constructs, and the paper states ACB "cannot be reduced to a single score."
+- The claim is prospective and untested: it concerns students entering college in 2026–27, so no cohort has yet been followed from secondary school into higher education.
+- The proposed evidence is a design, not a result: purposive sampling along AI-use frequency, mode, and depth, two rounds of semi-structured interviews plus reflective journals, and IPA analysis are outlined as future work.
+- The listed indicators (inability to describe one's own ability absent AI, conflating AI output quality with competence, disproportionate uncertainty on no-AI tasks, reading struggle as inefficiency) are described as entry points for inquiry rather than diagnostic criteria, and the construct's distinctness from [[cognitive-offloading|cognitive offloading]], metacognitive laziness, and the Dunning-Kruger effect is argued rather than measured.
 
 ## Connected Concepts
 

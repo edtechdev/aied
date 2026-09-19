@@ -1,7 +1,7 @@
 ---
 title: "Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing"
 created: "2026-08-26T05:52:00-04:00"
-updated: "2026-09-17T02:43:50-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -26,9 +26,20 @@ audience: [educators, instructors, assessment designers]
 - **Educators bear an unacknowledged [[affective-computing|affective]] cost.** The corpus registers derealisation, grief, and burnout as educators police AI use — what the authors call affective labor at scale, worsened by inconsistent [[educational-policy-ai|institutional policy]] and the normalization of AI as infrastructure. The authors link this to [[cognitive-offloading|automation bias]] and the instrumentalisation of higher education.
 - **Assessment culture makes AI use rational, not deviant.** Where rubrics reward fluency, polish, and citation over argumentation and intellectual risk, AI becomes the optimal response to the system's incentives. The authors therefore argue that treating AI use purely as misconduct individualizes a structural problem.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper reframes AI's central risk in [[higher-ed|higher education]] as the erosion of *intellectual struggle* — the very labor through which knowledge is formed, contested, and owned — rather than the narrower problem of [[ai-detection|detection]]. Its recommendations push toward [[assessment]] redesign that makes the labor of thinking visible and valued: process logs, staged drafts, in-class composition, and [[authentic-assessment|oral defenses]] that AI cannot meaningfully complete. It also argues for valuing voice over polish, addressing [[teacher-role|educator]] well-being as a structural rather than personal issue, and treating current uncertainty as a pedagogical opportunity that moves classrooms "from surveillance to dialogue." This connects to broader knowledge base themes of [[academic-integrity]], [[ai-misuse-learning-harm|AI misuse and learning harm]], and the debate over whether AI supports or displaces [[critical-thinking|critical thinking]].
+- **Instructors.** Redesign assessment so the labor of thinking is visible — process logs, staged drafts, in-class composition, and oral defenses AI cannot meaningfully complete — because AI-generated writing satisfies every surface criterion while bypassing the inquiry writing is meant to develop.
+- **Instructors.** Stop rewarding fluency and polish: where rubrics privilege grammatical compliance, structure, and citation over argumentation and intellectual risk, the paper argues AI use becomes the rational response to the system's incentives rather than a deviant act.
+- **Assessment designers.** Grade epistemic depth — disciplinary positioning, engagement with contested ideas, and intellectual risk — so a well-formed but vacuous submission cannot earn credit for thinking it did not do.
+- **Administrators.** Treat educators' grief, derealisation, and burnout while policing AI as a structural problem worsened by inconsistent [[educational-policy-ai|institutional policy]] and the normalization of AI as infrastructure, not as individual teacher stress.
+- **Instructors.** Move the classroom from surveillance to dialogue: the paper frames current uncertainty as a pedagogical opening and warns that framing AI use purely as misconduct individualizes a structural problem.
+
+## Limitations
+
+- The dataset is 49 Reddit posts retained from roughly 380 candidates gathered between October 2023 and February 2025; the authors describe them as informal, unverified, subjective, and emotionally inflected, and note that poster anonymity rules out follow-up.
+- The corpus captures educators only — self-identifying educators, plus three student posts — and excludes students, institutional leaders, and policymakers.
+- The interpretive design supports conceptual insight rather than generalization: the authors state the findings are not statistically generalizable and rely on cross-sectional data, offering a snapshot rather than a longitudinal view of change.
+- Both researchers are UK lecturers who had marked essays they suspected were AI-assisted and had redesigned assessments under uncertainty; the paper acknowledges this proximity as a limitation as well as a resource, and its planned comparison of AI-generated outputs with pre-AI student writing is reported as unused.
 
 ## Connected Concepts
 - [[academic-integrity]]

@@ -1,7 +1,7 @@
 ---
 title: "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [desirable-difficulties, learning-theories, metacognition, scaffolding, sociocultural-learning]
@@ -47,9 +47,19 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 3. **Human-in-the-loop oversight** — learners and educators retain control over agent initiation ([[human-in-the-loop-ai]])
 4. **Considered AI utilization** — purposeful, pedagogically justified agent use rather than maximal automation
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[ai-education|AI in education]], the paper turns "agent initiative" from a technical feature into a [[pedagogy|pedagogical]] design question. Designers should treat automation as a dial to be turned deliberately per principle rather than a default, preserving learner [[agency]] and [[metacognition|metacognitive]] ownership. The emphasis on **dynamic fading** connects directly to classic [[scaffolding]] and [[self-regulated-learning]] theory, suggesting agentic [[intelligent-tutoring|tutors]] should withdraw support as mastery grows rather than persist it. The **cultural misalignment** risk is a warning for [[personalized-learning|personalization]] that draws on learner profiles: context-aware retrieval must be grounded in genuinely local knowledge or it backfires. And the call for **human-in-the-loop oversight** makes the paper a useful companion to capability-gap findings (e.g., in [[agentic-ai-education-scoping-review]]) about how rarely educational agents embed [[governance]]. Together these principles provide a guardrail for deploying proactive agents in ways that support rather than supplant human learning.
+- **Instructional designers.** Design [[desirable-difficulties|friction]] into the agent's task loop rather than optimizing for smoothness — for example, have it ask the learner to explain how a known hobby connects to a new concept instead of drawing the connection for them.
+- **Instructional designers.** Specify fading rules before deployment, requiring real-time analytics that distinguish temporary task completion from durable mastery so [[scaffolding|scaffolds]] are withdrawn rather than persisting.
+- **Designers.** Put the teacher inside the agent's execution loop via escalation protocols, adjustable purpose and guardrails, and mid-session state interruptibility, instead of relegating educators to passive observers of chat logs.
+- **Designers.** Apply the SAMR model feature by feature: avoid agent support that only substitutes or augments an existing task and reserve the capability for tasks it genuinely modifies or redefines.
+
+## Limitations
+
+- This is a conceptual theoretical synthesis of six principles, not an empirical study: it reports no learner data, intervention, or outcome measures, so the implementation matrix is a design proposal rather than evidence that these strategies improve learning.
+- The "learning examples" in the matrix are illustrative rather than observed classroom cases, and the application of the six principles to agentic systems is argued rather than tested.
+- The recommendations — friction, dynamic fading, teacher-in-the-loop architecture, usage restraint — carry no implementation-cost, feasibility, or adoption evidence, so they remain untested design hypotheses.
+- The named failure modes (cognitive surrender, learners gaming reflective checkpoints, learned helplessness) are drawn from prior literature and not measured in an agentic deployment here.
 
 ## Connected Concepts
 

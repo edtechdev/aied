@@ -1,7 +1,7 @@
 ---
 title: Enacting Constructive Conflicts with AI Agents to Enhance Reconsideration among Novice Interaction Designers
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, critical-thinking, design-thinking, human-ai-collaboration]
 pedagogy: [collaborative-learning, scaffolding, student-ai-interaction]
@@ -32,13 +32,20 @@ Instead of designing AI agents to agree and expand, this study built an **antago
 
 The authors draw a clear design agenda for adversarial agents in [[ai-education|education]] and [[design-thinking|design]]. First, agents should treat disagreement **not as a one-shot critique but as a navigable space** — leaving room for designers to reframe the problem itself, not just answer comment-by-comment. Second, pushback should be **steerable and interactive** (designers could accept or revise in response), which appears to support confidence in working with stakeholder conflict. Third, synthetic opposition must **not be presented as a substitute for engaging real publics** — the agent surfaces *questions* designers should be aware of, but the authors caution against treating simulated perspectives as lived stakeholder input. Future agents could connect synthetic points to real-world evidence and help designers cluster critiques into broader tensions rather than reacting to each as a to-do item.
 
-## Practical Implications
+## What this means for practice
 
-- **Use disagreement deliberately in [[intelligent-tutoring|AI tutors]] and agents.** Well-steered antagonism can reduce premature agreement and promote genuine reconsideration — relevant beyond design, to [[critical-thinking]] and [[socratic-method]]-style learning where surfacing counter-evidence and stakeholder tensions helps students revise their reasoning.
-- **Design AI to help learners revise and constrain, not just expand.** Many [[generative-ai]] tools emphasize generating alternatives; this study shows an agent that enacts constructive conflict can be more valuable for *subtractive* work — recognizing what to revise or drop — which matters in [[assessment]], argumentation, and design tasks.
-- **Anticipate the emotional cost of conflict.** Productive friction is not uniformly pleasant; some learners may feel discouraged. Pair adversarial agents with interaction [[scaffolding|scaffolds]] that let students accept, revise, or discard pushback, and calibrate tone to the learner's [[student-experience|experience]] and confidence.
-- **Do not substitute synthetic critique for human/stakeholder input.** In educational contexts, agent-generated counter-perspectives should surface questions for learners to verify against real evidence or human [[feedback]] — never be treated as ground truth.
-- **For novice learners, scaffold the move from awareness to action.** The finding that unsupported novices never revised their ideas highlights the need for external prompts (human or agentic) that make the *costs* of keeping an idea visible and turn reconsideration into concrete edits.
+- **Instructors.** Replace agreeable AI brainstorming partners with a deliberately antagonistic reviewer for novice design work: in this study the unsupported self-review group never revised or deleted an idea at all, while the agent condition made roughly 3.6× more edits.
+- **Instructors.** Aim the pushback at stakeholder costs — [[accessibility]], [[privacy]], resistance to automation, alternative reporting channels — so students see why an idea must be constrained or dropped, not only what else they could add.
+- **Instructors.** Require students to verify every agent-raised concern against real evidence or real stakeholders; participants rated the pushback as contributing to their design (M = 5.33) but one felt discouraged ("they criticize me in every aspect I think of"), and the synthetic perspectives carry none of the weight of lived experience.
+- **Designers.** Make conflict steerable rather than terminal: let designers accept, revise, or discard each point so disagreement reads as a navigable space instead of a verdict, and give them room to reframe the problem rather than answer comment-by-comment.
+- **Designers.** Design for subtractive outcomes as well as expansive ones — the agent's chief value here was helping novices recognize what to revise, constrain, or discard, which is the harder move in [[critical-thinking]] and argumentation tasks.
+
+## Limitations
+
+- The between-subjects experiment involved only 45 design students (mean age 25.08, about 4 years of design/HCI study) in a single approximately 90-minute online session, redesigning one local civic reporting website; the authors therefore treat the point estimates as exploratory and likely somewhat inflated relative to true population effects.
+- The prototype tested only one adversarial tone and prompt style, so the study cannot say how more combative or more supportive forms of antagonism would change engagement.
+- All 45 design proposals were coded by the first author alone, and the agent misread relationships between ideas it could not see as connected (e.g., P19 had two linked ideas treated as separate features).
+- The design captured a single interaction per participant, so it cannot show how designers' responses to adversarial agents evolve with repeated exposure.
 
 ## Connected Concepts
 

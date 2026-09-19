@@ -1,7 +1,7 @@
 ---
 title: Mapping the Emerging Curriculum for AI-Assisted Software Engineering via Syllabus Analysis
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, curriculum-design, learning-design]
 technology: [ai-technologies, generative-ai]
@@ -18,6 +18,21 @@ audience: [curriculum designers, instructors]
 As [[generative-ai|Generative AI]] coding tools reshape professional software development, universities have begun designing courses to prepare students for AI-assisted development workflows. By analyzing the syllabi of these courses, we can gather empirical evidence about these courses, reveal how this emerging curricular area is being defined, and gain guidance for future [[curriculum-design|curriculum design]]. We analyzed 23 publicly available syllabi and course materials of upper-division, credit-bearing courses that meet specific criteria, including explicitly addressing [[generative-ai|Generative AI]] in software engineering. Through iterative [[qualitative-research|qualitative]] coding, we characterized courses' learning objectives, [[assessment|assessments]], topics, and documented AI tools. Our analysis reveals commonalities and differences among these courses that allow rese
 
 ng knowledge.
+
+## What this means for practice
+
+- **Curriculum designers.** Make generative AI central to graded software engineering work rather than documenting it as a policy item — every course in this sample was selected because AI was bound to graded tasks, not merely permitted.
+- **Curriculum designers.** Balance tool fluency against conceptual and evaluative knowledge: the courses emphasized critical evaluation of AI-generated code over generation speed, and documentation, brownfield development, responsible AI, and user-centered design appeared less consistently.
+- **Instructors.** Use the observed assessment mix as a starting template: project or capstone work was the largest component (median 50% of the grade, range 30–85%), followed by coding assignments (median 20%, range 10–60%).
+- **Instructors.** Grade reflection and review explicitly, since review/reflection and paper presentation each appeared in a minority of the 14 conventional percentage-based courses rather than being standard.
+- **Researchers.** Treat these 23 public syllabi as a documented baseline for studying how the curriculum for AI-assisted software engineering evolves, not as a description of typical practice.
+
+## Limitations
+
+- The analysis covers 23 publicly available syllabi from U.S. upper-division credit-bearing courses; courses behind login systems, with unpublished materials, non-indexed pages, or different terminology are missing, so the findings describe public U.S. course artifacts rather than national prevalence.
+- Inclusion criteria intentionally required generative AI to be central to graded software engineering work, so the results do not generalize to courses where AI use is optional, peripheral, or handled only as policy.
+- Public documentation varied across courses and each analysis used only the subset of courses with relevant materials, so counts describe documented objectives, topics, assessments, and tools rather than everything actually taught.
+- Coding characterized what course artifacts state; the study collected no data on what instructors or students actually did in these courses.
 
 ## Connected Concepts
 

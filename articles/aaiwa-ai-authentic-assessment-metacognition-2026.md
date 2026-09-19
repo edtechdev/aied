@@ -1,7 +1,7 @@
 ---
 title: "AI-mediated authentic assessment and metacognitive reflection: A mixed-methods study of the AAIWA model"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T07:42:07-04:00"
 type: article
 pedagogy: [metacognition]
 assessment: [authentic-assessment, feedback]
@@ -31,6 +31,21 @@ page_kind: [evaluation]
 **Qualitative themes.** Thematic analysis (n = 15 interviews) surfaced three themes: (1) enhanced metacognitive awareness, especially among developing-band students; (2) [[motivation|motivational]] enhancement through immediate, non-judgmental feedback (alongside concerns about occasional AI–instructor discrepancies); and (3) progressive internalization of structured reflection as an integrated learning process rather than an added assessment requirement.
 
 **Design context and implication.** Three structural conditions define the Indonesian implementation environment: infrastructural disparities constraining cloud-based AI, a teacher-centered [[pedagogy|pedagogical]] tradition where student self-assessment is undervalued, and a [[language-learning]] context requiring second/third-language cognitive processing. The authors caution the findings are associated with, not causally attributable to, AAIWA (no randomized control group), and call for controlled replication. The model offers a design for [[authentic-assessment]] with AI in [[teacher-education]] that keeps pedagogically critical decisions in a transparent rule-based layer while using LLMs for language articulation.
+
+## What this means for practice
+
+- **Assessment designers.** Keep every pedagogically consequential decision in a transparent rule-based layer and let the LLM only articulate the language: AAIWA gates feedback, branches on thresholds, and routes by error type in rules, with GPT-3.5-turbo used solely to render wording.
+- **Assessment designers.** Set rubric-score thresholds that control feedback intensity — directive scaffolding plus models at AWR ≤ 2.0, diagnostic explanation with revision cues at 2.1–3.0, and higher-order rhetorical prompts above 3.0 — instead of returning the same response to every draft.
+- **Teacher educators.** Sequence feedback so macro-structure (argument, evidence, coherence) is addressed before sentence-level correction, and route the depth of metacognitive prompts by the learner's measured reflection depth.
+- **Teacher educators.** Treat structured reflection as an input that recalibrates the next feedback cycle rather than a post-hoc requirement, and expect uneven development: planning (d = 0.84) and evaluation (d = 0.83) gained more than monitoring processes (d = 0.43).
+- **Instructors.** Tell students that feedback comes from a constrained prototype reviewed for bias by a single applied linguist rater, since interviews surfaced concern about occasional AI-instructor discrepancies — the score is a prompt for revision, not an authority.
+
+## Limitations
+
+- No randomized control group: the authors state the effect sizes (writing d = 0.92; reflection d = 0.98) are within-group change and cannot be partitioned between AAIWA-specific mechanisms and practice effects, maturation, or instructor support.
+- The intervention ran four weeks across four writing cycles, and participants' use of external AI tools was not systematically monitored.
+- The 75 pre-service teachers were clustered in three Indonesian universities and the authors report no multilevel modeling for that institutional clustering; the findings are bounded to Indonesian teacher education.
+- Measurement is self-report and single-rater: prior AWE experience and metacognitive reflection came from self-report (MRI Cronbach's α = 0.84; ICC(2,1) = .87), qualitative themes came from just 15 of the 75 participants, and one applied linguist rater reviewed feedback for cultural-linguistic bias, with the authors calling for a differential item functioning analysis.
 
 ## Connected Concepts
 
