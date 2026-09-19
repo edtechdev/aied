@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -167,6 +167,7 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 
 ## Connected Concepts
 
+- [[interpreting-and-applying-aied-research]]
 - [[ai-ed-evaluation]]
 - [[rct]]
 - [[benchmark]]

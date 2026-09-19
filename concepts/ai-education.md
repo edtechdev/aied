@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-19T05:45:00-04:00"
+updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -146,6 +146,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 - [[learning-sciences]] — the empirical field behind AIED
 - [[ethics]] — the ethical dimensions of AI in education
 - [[misconceptions]] — the mental models people bring to AI
+- [[interpreting-and-applying-aied-research]] — reading a study, and carrying a finding into practice
 - [[limitations-in-aied-research]] — cross-cutting limits of the evidence base
 - [[meta-analysis-systematic-review]] — what the reviews and meta-analyses establish
 - [[history-of-aied]] — how the field evolved

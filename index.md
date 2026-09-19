@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-19
 
-Articles: 1310 | Concepts: 206 | FAQs: 32
+Articles: 1310 | Concepts: 207 | FAQs: 32
 
 ## Concepts
 
@@ -1522,3 +1522,5 @@ Articles: 1310 | Concepts: 206 | FAQs: 32
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — "Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
 - [[zuo-instructor-power-genai-writing-2026]] — “Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI
+
+- [[interpreting-and-applying-aied-research]] — Interpreting and Applying AIEd Research
