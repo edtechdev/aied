@@ -1,7 +1,7 @@
 ---
 title: "Coach not crutch: Evidence that AI can improve writing skill despite reducing effort"
 created: "2026-08-15T18:32:07-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
@@ -28,11 +28,20 @@ page_kind: [evaluation, framework]
 - **AI teaches by example.** Participants who only viewed an AI-revised cover letter improved as much as those who practiced with the AI tool — the [[scaffolding]]/example function, not just practice, drives the gain.
 - **Two-channel framework.** AI simultaneously (a) reduces effort (crutch risk) and (b) improves the learning environment (coach benefit, e.g., worked examples). Skill outcomes hinge on the net effect.
 
-## Implications
+## What this means for practice
 
-- Challenges the blanket assumption that reduced effort from AI inevitably harms learning — the effect depends on what AI displaces (busywork vs. the skill itself) and how the tool scaffolds.
-- Supports a design principle: AI that surfaces examples, explanations, and feedback (a "coach") preserves or boosts skill, whereas AI that fully replaces the cognitive act (a "crutch") risks erosion.
-- Contrasts with studies documenting harmful offloading (e.g., unguarded tutors cutting exam scores); the outcome hinges on tool design and whether the learner stays in the loop — a shared thread across the knowledge base's [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] [[research-methods-aied|research]].
+- **Learners.** Practice the target skill with an AI tool rather than avoiding it on principle: participants who practiced cover letters with AI wrote better unaided letters than those who practiced alone (d = .38) or not at all (d = .46), and the advantage persisted to the one-day follow-up (d = .29).
+- **Learners.** Use the tool to obtain a worked example of the principle, not only a finished product: merely viewing one AI-revised letter, with no further practice, improved unaided writing as much as practicing with the tool did (d = .02 between those two conditions, p = .830).
+- **Learners.** Attempt the task on your own before consulting the tool — the paper notes that trying first has been shown to improve learning more than using AI first — and treat the gain as a single-exposure effect rather than license for habitual use.
+- **Learners.** Prefer AI over a search engine when you want guidance: practicing with AI beat googling tips and examples (d = .46) and personalized feedback from professional editors (d = .20) on the unaided test, and the AI-generated examples were themselves rated higher in quality (d = 1.66).
+- **Learners.** Judge the tool by what it shows you rather than by how hard the session felt: AI users spent less time and fewer keystrokes yet reported similar subjective effort, and did not over-report how much they had learned.
+
+## Limitations
+
+- All experiments ran on online Prolific samples of working adults rather than students in a course — Study 2 N = 2,238, Study 3 N = 2,997, and Study 4 N = 2,003, mostly college-educated, ages 18 to 95 — and the nationally representative survey (N = 2,472) covered only young adults aged 18–28.
+- The skill measured is one short, structured genre — a cover letter, scored by raters plus a hypothetical interview judgment. The authors themselves question whether gains from observing an AI example would transfer to math or programming, where the final answer often does not reveal the process that produced it.
+- Retention was probed only one day out, by recontacting a subsample of 800 participants of whom 633 responded (17–24% attrition, not differing by condition), and participants interacted with AI only once in the paradigm, so repeated use is untested.
+- Effort outcomes rest on behavioral proxies (time on task and keystrokes), and the keystrokes-per-minute metric was added after preregistration; the human-editor comparison used 49 editors who, on the authors' own check, got faster without getting worse as they worked, so the AI advantage is not an artifact of editor fatigue.
 
 ## Connected Concepts
 

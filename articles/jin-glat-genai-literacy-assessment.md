@@ -1,7 +1,7 @@
 ---
 title: "GLAT: The Generative AI Literacy Assessment Test"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
@@ -34,13 +34,20 @@ The instrument's items were built from a blueprint of 25 GenAI concepts organize
 - **External validity (RQ2).** In a study with 83 students using a RAG-based GenAI chatbot, GLAT scores significantly predicted AI-assisted task performance (β = 0.220, p = .040), controlling for baseline performance and [[visualization]] literacy.
 - **Outperforms self-report.** Self-reported ChatGPT literacy (Lee & Park, 2024) was not a significant predictor (β = −0.159, p = .118), whereas GLAT was — evidence that [[assessment-validity]] and predictive utility favor performance-based measurement over self-assessment.
 
-## Implications
+## What this means for practice
 
-The GLAT provides educators and [[research-methods-aied|researchers]] with a reliable, valid, performance-based tool for diagnosing GenAI literacy in [[higher-ed]], complementing or replacing biased self-report surveys. By identifying learners' actual GenAI competencies, it can guide targeted interventions and [[curriculum-design|curriculum design]] that build foundational GenAI knowledge, practical [[prompt-engineering|prompting]] skills, and [[ethics|ethical]] awareness.
+- **Instructors.** Diagnose GenAI literacy with a performance test rather than a self-rating: GLAT scores predicted AI-assisted task performance (β = 0.220, p = .040) while self-reported ChatGPT proficiency did not (β = −0.159, p = .118).
+- **Instructors.** Plan instruction around what the instrument measures — Know & Understand, Use & Apply, Evaluate & Create, and Ethics — and note that the test is most precise for low to moderate GenAI literacy (its information function peaked at θ = −0.8), the typical entry level.
+- **Curriculum designers.** Use the 25-concept blueprint (foundation models, prompt-based development, RAG, hallucination, copyright, privacy) to sequence GenAI content instead of teaching tool use in the abstract.
+- **Researchers.** Adopt the development path as a template for new AI assessments: [[item-response-theory|CTT item selection]], IRT validation of a 2PL model (RMSEA = 0.03, CFI = 0.97), then a within-subject external-validity study.
+- **Researchers.** Move beyond perceived competence: the GLAT model explained 32.1% of variance in GenAI-supported performance, and adding self-reported literacy did not improve prediction.
 
-Its successful use of [[item-response-theory]] and [[educational-measurement]] methods illustrates a model for developing psychometrically rigorous AI assessments, relevant to the broader [[ai-ed-evaluation]] agenda. The finding that objective test performance beats self-report for predicting real GenAI-supported [[learning-gains|learning outcomes]] reinforces calls to move beyond self-perception measures in AI literacy research.
+## Limitations
 
-The authors note important scope limits: GLAT was validated only with higher education students, uses specialized GenAI terminology, is delivered in English, and its external validity rests on a context-specific visual-analytics task. As [[generative-ai]] and [[llm]] [[ai-technologies|technologies]] evolve rapidly, the instrument must be continually updated and extended across educational levels, disciplines, and languages to remain relevant.
+- Validation covers [[higher-ed]] students only, the items use specialized GenAI terminology, and the instrument is delivered in English, so its use at other levels, disciplines, or languages is not established.
+- External validity rests on one context-specific task — a visual-analytics comprehension task completed by 83 students with a RAG-based GPT-4o chatbot — rather than on broader coursework outcomes.
+- Measurement precision is uneven: the test information function peaks at θ = −0.8, so GLAT separates low- to moderate-literacy learners better than high scorers.
+- Item quality was uneven by the authors' own criteria: five of 25 items were dropped for discrimination indices below 0.3, and retained difficulties spanned 0.25 to 0.90.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Automatic Large Language Models Creation of Interactive Learning Lessons"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-22T19:45:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design, human-ai-collaboration, learning-design]
 technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering, rag]
@@ -32,12 +32,19 @@ The three-segment approach achieved the highest average rating (14.67), while th
 
 Human lesson designers identified several strengths: substantial time savings in drafting scenarios and multiple-choice questions, generation of diverse and realistic scenarios, no observed biased or offensive content, and a clear foundation for iterative [[human-ai-collaboration|human–AI collaboration]]. Limitations included generic feedback that mostly explained the correct answer without targeted explanations of why options were wrong, inconsistent terminology (e.g., "learners" vs. "tutors") and unclear learning objectives, overly long and logically disconnected instruction sections, and non-authentic academic references that persisted even with RAG.
 
-## Implications for AI in education
+## What this means for practice
 
-- **Task decomposition matters for LLM content generation:** moderately decomposing lesson-generation into sub-tasks substantially improves quality versus one-step generation; over-decomposition can backfire.
-- **Hybrid human–AI workflow is essential:** LLMs excel at drafting scenarios and saving time, but educators must verify references, add targeted per-option feedback, and refine instructional clarity.
-- **RAG grounds but does not guarantee authenticity:** retrieval improves contextual relevance but did not prevent the model from producing non-existent references.
-- **Scalable tutor training:** automatic generation can expand access to effective professional-development lessons, particularly for novice tutors of middle-school math.
+- **Designers.** Decompose lesson generation into a small number of sub-tasks — three segments produced the highest-rated lessons in this system — rather than prompting the model for a whole lesson at once.
+- **Designers.** Require human verification of every citation: [[rag|RAG]] improved contextual relevance but the model still generated references that did not exist, even at the best segmentation setting.
+- **Designers.** Ask explicitly for per-option rationales, because generated [[feedback]] mostly explained only the correct answer and left the distractors unexplained.
+- **Designers.** Constrain terminology and section length in the prompt: generated lessons mixed "learners", "teachers", and "tutors", and produced instruction sections that were overly long and logically disconnected.
+- **Researchers.** Treat automated generation as a way to scale tutor-training content and test its learning effects directly, since the quality evidence here comes from human ratings of the lessons rather than from learner outcomes.
+
+## Limitations
+
+- The quality comparison rests on a very small content set: three tutor-training topics generated under five segmentation strategies, rated by two human coders who reached Cohen's κ = 0.72, with a third reviewer resolving disagreements.
+- Lessons were not tried with learners. Study RQ2 collected written questionnaire responses from two lesson designers, and the authors state that an experiment comparing LLM-generated with human-crafted lessons on participants' learning outcomes remains future work.
+- Evaluation used a single 17-code rubric adapted from one source — the authors note this and call for comparison with established rubrics in the field — and one model family, gpt-4o-2024-05-13, for all conditions.
 
 ## Connected Concepts
 

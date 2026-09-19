@@ -1,7 +1,7 @@
 ---
 title: "Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 audience: [instructors, faculty development]
@@ -29,6 +29,21 @@ level: [secondary, adult learning, teacher training]
 **Limitations.** Self-selection bias (AI-interested teachers may have over-responded), a small sample that may mask correlations, no AI definition provided to participants, and difficulty comparing literacy scores across different test versions limit generalizability.
 
 **Implication.** Post-qualification for in-service science educators should build both general [[ai-literacy]] and practical, pedagogically grounded AI use, connecting to [[tpack]], [[teacher-education]], and [[educational-development]] within [[stem-education]].
+
+## What this means for practice
+
+- **Instructors.** Put AI to work on subject-specific tasks — simulation, data processing, data acquisition — which teachers used least (subject-specific areas averaged 15 mentions versus 28.8 for general areas), rather than leaving it to generic information search.
+- **Faculty developers.** Embed AI post-qualification in science-subject contexts instead of offering standalone general courses: general [[ai-literacy]] showed no significant correlation with any aspect of AI use, including usage history (all p between .109 and 1.00).
+- **Faculty developers.** Route training through the two TPACKAI pathways — Pathway A from pedagogical content knowledge toward using AI as a teaching tool, Pathway B from AI content knowledge toward teaching about AI as a subject.
+- **Administrators.** Remove the access barrier before investing in training: lack of free access to AI tools was one of the two most cited reasons for non-use (n = 21).
+- **Instructors.** Define what AI means for your learners and make science-specific use cases explicit, since participants were given no definition of AI and the one significant subject correlation was chemistry teachers citing no subject-specific relevance (Cramer's V = 0.437).
+
+## Limitations
+
+- Self-selection bias: participation in the survey and interviews was voluntary, so teachers already interested in AI may have over-responded, potentially inflating the reported proportion of users.
+- Small samples — 64 valid literacy-test completions, 81 usage questionnaires after excluding 34 inconsistent cases, and 21 interviews — may have masked genuine correlations, notably between long-term and discontinued AI use.
+- Participants received no definition of AI or descriptions of the individual AI-use areas, so it cannot be assumed that all of them understood the items in the same way.
+- Comparing literacy scores against the Hornberger reference sample (n = 1286, 31 items, M = 18.79) is limited by different maximum scores (30 versus 31 items) and a different sample composition.
 
 ## Connected Concepts
 

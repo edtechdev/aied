@@ -1,7 +1,7 @@
 ---
 title: "Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -32,10 +32,6 @@ The study compared two parallel English classes (N = 118 first-year undergraduat
 - **Control:** GenAI students critically and consistently evaluated feedback accuracy and clarity, verified outputs, sometimes challenged and corrected inaccurate GenAI responses, and considered whether feedback fell within their [[sociocultural-learning]]. Peer evaluation was more often distorted by friendship bias and perceived peer proficiency, which could impede impartial evaluative judgment.
 - **Retrospect:** GenAI's immediate, iterative feedback enabled rapid confirmation of improvement and immediate self-reflection, helping students adjust feedback goals in subsequent cycles. Peer-group reflection was often delayed until later exams or assignments. Both groups recognized [[agency|learner agency]] as central to effective feedback use.
 
-## Implications
-
-The authors recommend strategically integrating GenAI into [[formative-assessment]] activities to scaffold self-regulatory behaviors and foster feedback literacy, while mitigating the interpersonal (friendship, anxiety) challenges of peer review. Yet the small effect size cautions that GenAI's advantage is not transformative on its own, and teachers' scaffolding — training, prompt guidelines, worksheets — is needed to support self-regulated interaction and guard against [[cognitive-offloading]] and [[metacognition|metacognitive]] laziness. Because peer feedback uniquely builds audience awareness and evaluative judgment through giving feedback, the authors propose multi-stage designs that combine GenAI (for immediate, psychologically safe processing support) with peer review (for practicing evaluative judgment), e.g., through anonymous peer feedback to mitigate friendship bias.
-
 ## Connection to Existing Knowledge Base
 
 - **[[self-regulated-learning]]**: This paper is a direct empirical test of scaffolding SRL processes to improve feedback literacy, showing how GenAI supports goal setting, planning, critical evaluation, and immediate self-reflection.
@@ -47,6 +43,20 @@ The authors recommend strategically integrating GenAI into [[formative-assessmen
 ## Methodological Notes
 
 Strengths include the mixed-methods design pairing a controlled quasi-experiment with fine-grained qualitative analysis across SRL phases. Limitations acknowledged by the authors: non-random assignment and small effect size may threaten internal validity; limited generalizability beyond the specific context; a short intervention (three cycles) that risks a novelty effect; and reliance on self-reported surveys and retrospective interviews, suggesting a need for more objective measures such as stimulated recall and [[learning-analytics|learning analytics]].
+
+## What this means for practice
+
+- **Instructors.** Scaffold GenAI self-assessment rather than assigning it bare: supply pre-trained rubrics, prompt guidelines, and worksheets, since the GenAI group's edge over peers was only 0.17 scale points (η²p = 0.03) and teacher scaffolding is what guards against [[cognitive-offloading]].
+- **Instructors.** Have the GenAI group set explicit feedback goals and refine prompts iteratively across cycles — goal setting, planning, and immediate self-reflection in the forethought and retrospect phases were the behaviors that distinguished it from the peer group.
+- **Instructors.** Sequence GenAI and peer review in a multi-stage design — ChatGPT-4o for immediate, psychologically safe processing support and peer interaction for the audience awareness and evaluative judgment that only giving feedback builds.
+- **Instructors.** Make peer feedback anonymous where viable: peer-group judgment was distorted by friendship bias and perceived peer proficiency, and peer students often chose partners by social convenience rather than feedback need.
+
+## Limitations
+
+- N = 118 first-year undergraduates in two intact parallel English classes at one university in Guangdong, China; groups were not randomly assigned, so class or instructor effects cannot be excluded.
+- The intervention ran three self-assessment cycles in a single semester, and the authors flag a possible novelty effect alongside the small effect size (η²p = 0.03).
+- Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics|learning-analytics]] measures.
+- Generalizability is limited to one EFL writing context with Mandarin L1 students.
 
 ## Connected Concepts
 

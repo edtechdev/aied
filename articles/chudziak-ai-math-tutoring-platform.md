@@ -1,7 +1,7 @@
 ---
 title: "AI-Powered Math Tutoring: Platform for Personalized and Adaptive Education"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-08-15"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [socratic-method]
@@ -37,6 +37,14 @@ Built on LangGraph, the multi-agent system's main interaction loop centers on a 
 - **Guided [[prompt-engineering|prompting]] validates the approach.** On the MathDial dataset, the "Tutor Prompt" (emphasizing Socratic questioning and [[scaffolding]]) significantly outperformed the "Base Prompt" for both GPT-4o and GPT-4o-mini, achieving superior Success@N and far lower Telling@N over interaction lengths — confirming the guided-tutoring strategy versus direct answer-giving in simulated dialogues.
 - **Model selection for task creation.** o3-mini(high) and Claude 3.5 Sonnet tied at highest [[problem-solving]] accuracy (90.00%) with access to the SymPy tool; Gemini 2.0 Flash scored 88.67%, GPT-4o 78.67%, GPT-4o-mini 77.33%. o3-mini(high) was selected for Task Creation due to top performance and step-decomposition ability.
 - **Personalization is memory-driven.** If LTM knows a student struggles with negative-sign distribution, the system proactively offers targeted hints, scaffolds problems differently, or gives corrective feedback; if a student prefers visual explanations, aids like function plotting are used — creating a responsive, individualized experience.
+
+## What this means for practice
+
+- **Designers.** Ship the prompt before the product: on MathDial a pedagogically informed Tutor Prompt significantly beat the base prompt for both GPT-4o and GPT-4o-mini, with higher Success@N and far lower Telling@N across interaction lengths.
+- **Designers.** Route mathematical generation to the strongest reasoning model you can afford — o3-mini(high) and Claude 3.5 Sonnet tied at 90.00% problem-solving accuracy with the SymPy tool, ahead of Gemini 2.0 Flash (88.67%), GPT-4o (78.67%), and GPT-4o-mini (77.33%).
+- **Designers.** Split personalization into two memories so support can be proactive: stable traits ([[prior-knowledge|prior knowledge]], [[misconceptions]], preferences, goals) in long-term memory and current-session context in working memory, letting the tutor offer a targeted hint or switch to a visual aid.
+- **Designers.** Ground tutoring responses in the course textbook through GraphRAG rather than unindexed retrieval, and emit a prerequisite [[knowledge-graph|DAG]] of learning paths so students revising for an exam see an ordered route through topics.
+- **Designers.** Give the tutoring agent callable tools — symbolic solver, function plotter, course-graph drawer — since tool access is what the model comparison granted and the guided dialogues assume.
 
 ## Limitations
 

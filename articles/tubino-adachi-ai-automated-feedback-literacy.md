@@ -1,7 +1,7 @@
 ---
 title: "Reconnecting relationships through technology: Developing feedback literacy capabilities through an AI automated feedback tool"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
@@ -39,10 +39,6 @@ The paper reports a University-wide teaching-and-learning pilot at a large Austr
 - **Feedback literacy affordances:** Use of the tool evidenced dimensions such as acknowledging feedback as a reciprocal process, processing feedback information, and acknowledging/regulating emotions. Notably, [[student-engagement|engagement]] (or its absence) appeared driven more by appreciation of feedback for improving writing than by students' capability to process feedback information.
 - **Not all students acted on these affordances:** Because the tool was optional, a relatively small share of students engaged, and teachers must scaffold awareness of feedback literacy dimensions and strategies for enacting them.
 
-## Implications
-
-The paper proposes reframing AI automated feedback tools from low-level outcome-feedback automation toward developing feedback literacy through academic writing. It argues that reframing will yield benefits for writing skills and learning strategies, not just drafts. Next-iteration proposals include (1) making the tool **student-facing and available across all units** so each student decides the task and writing aspects on which to seek feedback, with no teacher involvement — cultivating agency and self-regulated feedback literacy without adding workload or depending on teachers' own feedback literacy; and (2) adding **templates for three drafting stages** to guide students through the writing process, raising awareness of feedback's reciprocal nature and what an AI tool can and cannot do, fostering a student–AI partnership extendable to their teachers. This connects to debates on how [[ai-feedback-quality]] and the [[feedback|Feedback Loop]] can be operationalized inside [[formative-assessment]] and [[writing-education]], and how AI tools can support [[self-regulated-learning]] and student [[agency]].
-
 ## Connection to Existing Knowledge Base
 
 - **[[feedback|Feedback Loop]]**: The tool creates immediate, actionable feedback loops students can act on and re-submit against (multiple same-day submissions evidence iterative uptake).
@@ -57,6 +53,21 @@ The paper proposes reframing AI automated feedback tools from low-level outcome-
 ## Methodological Notes
 
 Strengths include a real-world, multi-faculty, large-scale pilot (~4,000 students) with authentic writing tasks and co-design with an edtech partner. Limitations acknowledged by the authors: the paper is a concise pilot report presenting preliminary insights and reflections rather than full evaluation; further detailed evaluation is required to refine the tool and the [[learning-design|learning design]] surrounding AI for teaching and learning.
+
+## What this means for practice
+
+- **Instructors.** Let students drive the tool themselves: set the micro-level parameters (sentence length, punctuation, grammar, text structure) and have students run it independently, which removes the judgment value and power structure that makes teacher feedback emotionally loaded and lets them exercise evaluative judgment.
+- **Instructors.** Scaffold awareness of feedback literacy dimensions explicitly rather than assuming access is enough — the tool was optional and average usage reached only about 13% of undergraduate and 12% of postgraduate students.
+- **Designers.** Make the tool student-facing and available across all units so each student decides which task and which aspects of writing to seek feedback on, building [[agency]] and self-regulated feedback literacy without adding teacher workload.
+- **Designers.** Add templates for three drafting stages so students encounter feedback's reciprocal nature and the limits of what an AI tool can do, setting up a student–AI partnership they can extend with their teachers.
+- **Faculty developers.** Design the tool around the seven dimensions of the learning-centered feedback literacy framework (Molloy et al., 2020) rather than around workload reduction, since those dimensions are what the pilot can actually evidence.
+
+## Limitations
+
+- The paper is a concise pilot report presenting preliminary insights and reflections rather than a full evaluation; the authors state that further detailed evaluation is required to refine the tool and the learning design around it.
+- Reach was large (~4,000 students across 29 units at Deakin University, 2021) but engagement was thin: average usage was ~13% in undergraduate units and ~12% in postgraduate units, ranging from none to 34% in postgraduate units.
+- There is no comparison condition and no outcome measure of feedback literacy; the evidence is usage data (submission counts and same-day resubmissions) plus consultations with teachers.
+- Usage concentrated among proactive, high-achieving students, so the observed patterns may not represent the wider student population.
 
 ## Connected Concepts
 

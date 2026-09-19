@@ -235,7 +235,8 @@ def audit(slug: str, known: set[str]) -> dict:
         for label, body in ((PRACTICE, practice_body), (LIMITATIONS, limits_body)):
             for hit in NUMBER.finditer(strip_degrees_of_freedom(body)):
                 token = hit.group(0).strip(".,")
-                if len(token) < 3 or token in ("2025", "2026"):
+                if len(token) < 3 or re.fullmatch(r'(?:19|20)\d{2}', token):
+                    continue
                     continue
                 if not figure_in_text(token, raw):
                     result["hard"].append(f"figure not in full text: {token} ({label})")

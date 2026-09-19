@@ -1,7 +1,7 @@
 ---
 title: "Don't believe the hype. AI myths and the need for a critical approach in higher education"
 created: "2026-08-15T16:09:27-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, educational-development]
 technology: [generative-ai]
@@ -30,9 +30,19 @@ institutions: [governance, regulation]
 
 **The corrective: critical AI literacy.** The authors call on intellectuals in higher education to lead a transformative agenda — embedding [[ai-literacy]] as a graduate attribute, supported by [[educational-development]], innovative assessment, and [[metacognition|metacognitive]] initiatives. This is intended to equip learners to critically evaluate digital content, challenge techno-optimistic narratives, and ensure AI serves human insight and social justice rather than perpetuating [[critical-thinking]]-eroding technological illusions.
 
-## Implications
+## What this means for practice
 
-The editorial positions [[critical-thinking]] and [[ai-literacy]] as essential graduate competencies in an era where GenAI increasingly shapes academic, professional, and public discourse. For institutions, it recommends integrating critical AI literacy into [[learning-design|course design]] and review processes and resisting profit-driven narratives from Big Tech. The paper also situates GenAI adoption within wider debates about [[governance]], [[equity-in-ai-education|equity]], and the environmental and labor costs of AI infrastructure, arguing that technology should be a tool for enhancing human intelligence rather than replacing or diminishing it.
+- **Faculty developers.** Embed critical [[ai-literacy]] in curricula and course review as a graduate attribute, teaching how AI systems are actually built — on click workers, data annotators, content moderators, and scraped, often copyrighted, human content — rather than presenting them as autonomous and objective.
+- **Instructors.** Teach the eight myths directly, including that AI is neither artificial nor intelligent and that [[ai-detection|AI detectors]] are unreliable, so learners can challenge techno-optimistic narratives rather than absorb them.
+- **Instructors.** Treat innovative assessment and [[metacognition|metacognitive]] initiatives as the integrity strategy instead of detection software, since model output is increasingly indistinguishable from human work.
+- **Administrators.** Weigh AI adoption against its equity, labor, and environmental costs — rare-mineral extraction in the Global South, energy and water consumption, offshored e-waste — and resist profit-driven Big Tech narratives in procurement and policy.
+- **Researchers.** Carry the geopolitical critique into [[governance]] work: China's ascent (e.g., DeepSeek's low-cost [[open-source]] models) unsettles the single-superpower assumption and raises questions about access, control, and export [[regulation]].
+
+## Limitations
+
+- The piece is an editorial in *Journal of Applied Learning & Teaching* 8(1), not an empirical study or systematic review: it asserts and counters eight myths using secondary literature and recent-events examples, so it cannot establish how common these beliefs are among educators or what effects they have.
+- Its evidence is documentary (e.g., Crawford, 2021, on labor and data extraction) and includes fast-moving examples such as DeepSeek's January 2025 release, so claims about market disruption date quickly.
+- As a normative argument for embedding critical AI literacy, it evaluates no intervention, no curriculum, and no learners; its recommendations remain untested.
 
 ## Connected Concepts
 

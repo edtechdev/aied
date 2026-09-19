@@ -1,7 +1,7 @@
 ---
 title: "Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources"
 created: "2026-08-15T09:23:09-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 
 technology: [generative-ai, llm, rag, edtech-platform, open-source]
@@ -42,13 +42,20 @@ A second motivation is [[sustainability]]: if every student query carries a clou
 6. **Compression raises hallucination, fine-tuning pulls it back.** Quantization increased hallucination for Qwen-7B (8.6% → 12.3%) and DeepSeek-MoE (7.2% → 10.4%), but the fine-tuned models recovered much of it (Qwen-7B 9.8%; DeepSeek-MoE **8.1%**). Crucially, this is measured by NLI entailment against the retrieved OER chunks rather than by self-report, and the agreement with expert judgment (κ = 0.76) is reported so readers can judge the instrument.
 7. **The ablation assigns credit precisely.** Removing metadata-enriched embeddings caused the largest accuracy loss (69.8% → 65.3%), while curriculum-specific attention masking and dynamic batching mainly improved energy efficiency, and KV caching mainly reduced latency.
 
-## Implications
+## What this means for practice
 
-For institutions weighing local deployment, the paper supplies the missing decision inputs: a hardware floor (12 GB VRAM), an accuracy ceiling for a 7B-class model on domain questions, a per-query energy figure, and a clear ordering of design choices — ground the model in your own licensed corpus first, then fine-tune, then compress with quantization-aware training rather than after the fact. The finding that fine-tuning beats plain quantization on both accuracy and hallucination is directly actionable for anyone running low-VRAM hardware.
+- **Designers.** Ground the model in your own licensed corpus before tuning anything else: the local LLM with no retrieval scored 52.3%, below the TF-IDF baseline (55.4%), while adding [[rag]] alone lifted it to 66.6%.
+- **Designers.** Quantize with fine-tuning rather than after it — quantization-aware training cut the FP16-to-4-bit gap to 1.7 pp (Qwen-7B) and 1.2 pp (DeepSeek-MoE) while reducing VRAM 38.7% and 37.9%, and pulled hallucination back to 8.1% for DeepSeek-MoE where plain quantization had raised it to 10.4%.
+- **Designers.** Spend effort on retrieval quality before caching tricks: removing metadata-enriched embeddings caused the largest accuracy swing (69.8% → 65.3%), while KV caching mainly reduced latency and dynamic batching and curriculum-specific attention masking mainly improved energy efficiency.
+- **Administrators.** Plan around one consumer GPU as the hardware floor (NVIDIA RTX 3060, 12 GB VRAM) and budget energy per query — the most efficient configuration used 1.8 mWh per query, about 0.54 Wh for 30 students submitting 10 queries each — when comparing on-premise deployment against cloud APIs.
+- **Administrators.** Insist on an openly licensed corpus, since open licensing is what allows documents to be indexed, adapted for instruction tuning, and served locally without negotiating rights.
 
-The choice of [[open-source|openly licensed material]] as the corpus is not incidental. Open licensing is what allows the documents to be indexed, adapted over for instruction tuning, and served locally without negotiating rights — the practical precondition for the whole deployment model, and a reason [[open-source|open education]] and local AI strategy belong in the same conversation.
+## Limitations
 
-The authors are also explicit about the limits, and they matter for [[ai-ed-evaluation|evaluation]] practice: the system is a knowledge-base assistant, not a validated tutor, so claims about learning gains remain untested; perplexity was measured as a local 500-token diagnostic rather than a corpus-level quality metric; the evaluators were the investigators (blinded to model identity) rather than independent external judges; and the evaluation data was drawn from English-medium OER platforms, which limits generalization to other languages and resource settings.
+- The authors characterize the system as a knowledge-base assistant, not a validated tutor: no controlled learner study was run, so no learning-gain claim can be made.
+- Evaluation was performed by the investigators (blinded to model identity), not by independent external judges.
+- Quality diagnostics are partial: perplexity was a local 500-token probe rather than a corpus-level measure, and hallucination was scored by a two-stage NLI procedure against retrieved OER chunks (κ = 0.76 agreement with expert judgment).
+- The corpus is 82 English-medium open-licensed Markdown documents benchmarked on a single consumer GPU, which limits generalization to other languages and resource settings.
 
 ## Connected Concepts
 

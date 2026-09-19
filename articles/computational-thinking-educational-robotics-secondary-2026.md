@@ -1,7 +1,7 @@
 ---
 title: "Computational Thinking to Enhance Educational Robotics in Secondary School's Curriculum"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-08-13"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [computational-thinking, curriculum-design]
 pedagogy: [problem-solving]
@@ -28,9 +28,13 @@ page_kind: [framework]
 
 This is a **conceptual/literature-analysis paper** (not an empirical study). It reviews the theoretical framework of computational thinking, relates its concepts and skills to 21st-century skills and STEAM subjects in the secondary-school curriculum, and develops a proposal for embedding computational-thinking concepts into official curricula to guide educational robotics practice. It draws on educational robotics and computational-thinking literature to establish the conceptual links.
 
-## Implications for AI in Education
+## What this means for practice
 
-The paper supports [[educational-robotics|robotics]] as a vehicle for developing [[computational-thinking]] in secondary schools, arguing that robots are most effective for learning when computational-thinking concepts are made explicit and aligned to the [[stem-education|STEAM]] curriculum. It connects computational thinking to [[k-12]] [[teacher-role|teaching]] and to 21st-century skills such as problem solving and critical thinking. For educators, it offers a framework for mapping computational-thinking competencies onto existing curriculum knowledge so robotics activities serve genuine learning goals rather than functioning as isolated technical exercises.
+- **Curriculum designers.** Map computational thinking explicitly onto the official curriculum: relate Brennan and Resnick's concepts, practices, and perspectives to the Digital Field's dimensions and competencies.
+- **Curriculum designers.** Use the paper's curricular adaptation table to assess one aspect at a time — CT knowledge, practice, or perspective, or a specific competency — while still reporting against official curriculum content.
+- **Educators.** Make computational thinking concepts explicit in robotics activities so that robots serve genuine learning goals rather than isolated technical exercises.
+- **Educators.** Embed robotics and CT activities in project-based learning, which the paper recommends as a basic methodology for the STEM/STEAM environment.
+- **Assessment designers.** Extend the adaptation proposal with a rubric that defines degrees of acquisition for every item, since the worked example does not evaluate all items or weight them equally.
 
 ## Limitations
 

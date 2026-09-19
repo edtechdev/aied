@@ -1,7 +1,7 @@
 ---
 title: "Learning-by-Teaching with ChatGPT: The Effect of a Teachable ChatGPT Agent on Programming Education"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-09-01T19:06:21-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -36,11 +36,20 @@ Learning-by-[[teacher-role|teaching]] is an effective [[active-learning]] strate
 - **Higher self-efficacy and self-regulated learning.** The teachable-ChatGPT group reported significantly higher **self-efficacy** (F = 37.26, η² = 0.75) and **cognitive strategies** (F = 18.97, η² = 0.61).
 - **Accountability drove effort.** Students were responsible for making the ChatGPT-generated code pass the judging platform, which motivated sustained effort and compelled them to articulate a personal understanding of the backtracking algorithm in plain natural language.
 
-## Implications
+## What this means for practice
 
-1. **Conversational teachable agents** extend learning-by-teaching beyond rule-based agents into natural-language, open-ended domains.
-2. **Design agent fallibility deliberately** — a teachable agent that is too competent (always correct) removes the error-correction practice that productive learning-by-teaching depends on. Pairing the tutee with an external success criterion (e.g., a judging platform) can restore that accountability.
-3. **Support SRL** — the teachable-agent interaction naturally [[scaffolding|scaffolds]] self-regulated learning, but may need explicit design (e.g., [[metacognition|metacognitive]] prompts) to do so consistently, and instructors should watch for [[cognitive-offloading|over-reliance]].
+- **Instructors.** Cast students as the teacher of a deliberately un-augmented LLM tutee and hold them accountable to an external success criterion — the experimental group had to make the ChatGPT-generated code pass the auto-judging platform, which drove sustained effort and forced plain-language articulation of the backtracking algorithm.
+- **Instructional designers.** Keep the teachable agent fallible: an agent that is always correct removes the error-correction practice learning-by-teaching depends on, and the control group made more submission attempts (2.90 vs. 1.95) without any correctness penalty.
+- **Instructional designers.** Seed the interaction with errors rather than relying on natural ones, since ChatGPT's tendency to produce correct code meant the intervention produced no significant gain in code correctness.
+- **Instructors.** Add explicit [[metacognition|metacognitive]] prompts to the teaching dialogue to sustain the self-regulated learning and [[self-efficacy]] gains the intervention produced, and watch for [[cognitive-offloading|over-reliance]].
+- **Instructional designers.** Ground the tutee's prompt design in a help-seeking model so it behaves like a realistic student — Gall's five-stage sequence (awareness of need, decision to seek help, identifying a source, eliciting help, reacting to help).
+
+## Limitations
+
+- The sample is small and single-site: 41 university students (20 experimental, 21 control), average age 21.2, from one institution, which the authors note may bias the results.
+- The intervention is short and single-task: a one-hour session on the classic eight-queens/backtracking problem in C++, so it captures short-term outcomes only and says nothing about retention.
+- The self-regulation and self-efficacy measures are self-report, taken from a 20-item adapted MSLQ, and the study did not collect or analyze the students' teaching conversations — so the quality of students' teaching messages and of the agent's replies went unmeasured.
+- Findings are not broken down by student demographics (age, educational background, gender), which the authors flag as a limitation on understanding differential effects.
 
 ## Connected Concepts
 

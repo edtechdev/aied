@@ -1,7 +1,7 @@
 ---
 title: "Beyond operational skills: Teachers' AI knowledge and interactions with generative AI in lesson planning"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, learning-design, teacher-role]
 technology: [generative-ai]
@@ -32,6 +32,21 @@ level: [k 12, teacher training]
 **Limitations.** The study is exploratory and qualitative; interaction and SWOT frequencies are descriptive rather than inferential, no generalizable effect sizes are reported, and the enacted-practice patterns observed in a workshop setting may not fully transfer to everyday classroom planning.
 
 **Implication.** [[teacher-education]] must move beyond operational AI skills to build pedagogically meaningful, ethical knowledge that teachers actually enact, connecting to [[teacher-education]], [[tpack]], and [[ai-literacy]] and to teachers' evolving [[teacher-role]].
+
+## What this means for practice
+
+- **Instructors.** Move from delegating to the model toward negotiating with it: task delegation dominated 54.8% of coded teacher turns and 68.8% of prompts showed low interactional [[agency]], so state your own pedagogical intent and constraints before prompting rather than asking GenAI to generate a whole lesson element.
+- **Instructors.** Use GenAI as a sounding board for differentiation and planning while reviewing every output — teachers valued it as a time saver but flagged inaccuracies, hallucinations, and the review time they demand.
+- **Faculty developers.** Design professional learning that closes the articulated–enacted gap: teachers described competence in technological (n = 22) and technological-pedagogical (n = 16) terms while enacting delegation, so use practice-based, [[prompt-engineering|log-based]] reflection rather than knowledge transmission.
+- **Faculty developers.** Make ethical reasoning explicit, since it surfaced in only n = 3 questionnaire responses, covering [[academic-integrity]], unreliability, bias, and [[cognitive-offloading|over-reliance]] — concerns teachers raised mainly as threats rather than as knowledge they claimed.
+- **Administrators.** Fund structured AI training rather than relying on incidental learning: most teachers reported acquiring AI knowledge from news and social media, and 32% reported using AI in teaching.
+
+## Limitations
+
+- Two in-person workshops produced 75 K-12 teachers (60 and 15), recruited by open invitation through one Swedish university's outreach network with voluntary participation, so respondents self-selected.
+- The workshop was a situated elicitation context, not a controlled intervention — about 1.5 hours of lesson planning, with sessions averaging ~4 prompts — so the delegation patterns observed may not transfer to everyday classroom planning.
+- Frequencies from the questionnaire (N = 61), approximately 1,300 prompt–response pairs from 60 participants, and 17 group SWOT reflections are descriptive; the study reports no inferential statistics or effect sizes.
+- Coding reliability is limited: a second researcher reviewed only about 15% of the coded material, and no formal inter-coder coefficient such as Cohen's Kappa was calculated.
 
 ## Connected Concepts
 

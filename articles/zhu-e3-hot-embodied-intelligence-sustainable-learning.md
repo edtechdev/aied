@@ -1,7 +1,7 @@
 ---
 title: "Fostering Sustainable Learning via Embodied Intelligence: The E3-HOT Framework for Higher-Order Thinking in the AI Era"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-08-30T05:30:00-04:00"
+updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [cognitive-psychology, constructivist, embodied-learning, learning-theories]
@@ -27,12 +27,19 @@ institutions: [educational-policy-ai]
 - **An illustrative four-week university "human–AI co-creation design project" vignette** walks through framing/exploration, synthesis/selection, prototyping/testing, and articulation/reflection, activating 12 facets across cognitive, conative, affective, sensorimotor, and knowledge dimensions — presented as a worked example, not an implemented study.
 - **Theory grounding** draws on embodied intelligence and 4E cognition (embodied, embedded, enacted, extended), [[constructivist]] [[learning-theories|learning theory]], [[situated-learning|situated learning]] theory, and [[self-regulated-learning]]/[[metacognition|metacognitive]] development, reframing sustainable learning as a shift from answer production to capacity preservation and growth.
 
-## Implications
+## What this means for practice
 
-- **Pedagogy:** Sustainable learning requires activities in which students repeatedly engage in context-grounded analysis, evidence-based evaluation, and iterative creation, rather than using generative tools as shortcuts to finished outputs. The aim is to ensure [[cognitive-offloading]] does not accumulate and erode [[agency|learner agency]].
-- **Design and governance:** Because embodied systems rely on noisy multimodal data, evidence collection must be bounded by pedagogical purpose, with teacher-configured logging and a clear separation between improvement-oriented evidence and data that could be repurposed for non-educational control. [[human-in-the-loop-ai|Human oversight]] is part of [[learning-design|instructional design]], not post hoc compliance.
-- **Equity and scale:** Multi-fidelity enactment is a sustainability constraint, not an option, because [[virtual-and-augmented-reality|immersive]] infrastructure is uneven. Integration should occur within existing curricula rather than as added modules, and [[governance|institutional]] support plus long-term planning are needed to avoid pilot-only demonstrations.
-- **Limitations:** No comparative empirical [[research-methods-aied|research]] across disciplines/classrooms has been conducted; the [[meta-analysis-systematic-review|scoping review]] was titles/abstracts/keywords only, so the framework is a structured, auditable design baseline rather than an exhaustive synthesis. Future work plans staged validation via design-based studies, quasi-experimental comparisons, and rubric-based expert audits of artifacts.
+- **Designers.** Design activities so students repeatedly perform context-grounded analysis, evidence-based evaluation, and iterative creation, rather than using generative tools as a shortcut to a finished output.
+- **Designers.** Constrain AI to prompts, critique, and strategy suggestions, and require students to articulate rationales and cite evidence before a claim is accepted.
+- **Designers.** Use the multi-fidelity substitution map to preserve mechanism–objective alignment when immersive infrastructure is unavailable — scenario scripts with props, structured observation checklists, and teacher-approved prompt cards instead of VR, wearables, or motion capture.
+- **Administrators.** Bound multimodal data collection by pedagogical purpose with teacher-configured logging, keep improvement evidence separate from data that could be repurposed for non-educational control, and integrate the approach within existing exercises rather than as added modules.
+- **Researchers.** Collect the seven evidence artifacts with their mandatory fields and rubric stubs so the framework can be audited and validated.
+
+## Limitations
+
+- E3-HOT is a conceptual design-and-evidence blueprint: no comparative empirical research across disciplines or classrooms has been conducted, and the four-week university "human–AI co-creation design project" is a worked example rather than an implemented study.
+- The background review was a design-oriented scoping process on titles, abstracts, and keywords only, so the framework is a structured, auditable design baseline rather than an exhaustive synthesis.
+- Validation remains planned rather than completed — small-scale design-based studies, quasi-experimental comparisons, and rubric-based expert audits of artifacts — so the paper claims no measured [[learning-gains|learning gains]].
 
 ## Connected Concepts
 
