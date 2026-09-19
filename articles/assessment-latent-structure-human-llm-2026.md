@@ -58,7 +58,7 @@ This paper contributes a *validity-oriented framework* for comparing latent stru
 - [[jin-glat-genai-literacy-assessment]] — GLAT: IRT-validated GenAI literacy test
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and reconceptualizing assessment validity
+- [[coauthorship-integrity-reconceptualising-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and reconceptualizing assessment validity
 - [[ground-truth-reliability-aied]] — Modernizing ground truth in AIED evaluation
 
 ## Citation

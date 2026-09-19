@@ -1,7 +1,7 @@
 ---
 title: Critical Pedagogy
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-19T04:50:00-04:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -37,6 +37,7 @@ Critical pedagogy is distinct from [[critical-thinking]]. Critical thinking is a
 - **Situated and cultural-historical ethics.** Critical approaches also argue that AI ethics in education must be *situated* — grounded in cultural-historical and ecological context rather than abstract principles.([[raffaghelli-situated-ai-ethics-2026]])
 - **Efficiency-first alignment discourse as an erasure of context.** [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] apply Fairclough's three-dimensional model to 14 pieces of gray literature (November 2022 – April 2025) advising higher-education practitioners to use [[generative-ai|generative AI]] for constructive alignment, and find a techno-solutionist discourse in which the tool is anthropomorphized as "an educational expert and assistant" and academic staff are positioned as supplying "subject matter expertise" while the system performs the pedagogical work. The analysis names the erasure of situated, disciplinary and critical context as one of three failure modes — alongside performativity (alignment that only looks aligned) and shallow alignment that conflates the constructive dimension with the aligned one — evidence that even advice about [[learning-design|course design]], ostensibly a neutral technical matter, carries the depoliticising logic critical pedagogues critique elsewhere.
 
+- **Human rights education as the test case for AI governance as formation.** [[kasa-malksoo-ai-human-rights-education-2026|Kasa-Mälksoo (2026)]] works through the UN's *about, through, for* framework in a law program and locates the difficulty not in the technology but in the pedagogy: students submitted polished written work and polished session designs without the engagement those artifacts are supposed to evidence, and the most critical thinking appeared in end-of-course writing rather than in class dialogue. Her conclusion shifts the educator's role rather than shrinking it — [[governance|AI governance]] becomes a professional responsibility students are trained to contest, and the [[llm|tool]] is directed rather than banned.
 ### The role of the educator
 
 Under critical pedagogy, educators are not neutral transmitters of AI skills but critical interlocutors and facilitators who help learners interrogate the politics of AI. This connects to the knowledge base's [[teacher-role]] and [[ai-literacy]] concepts, and to the broader concern with [[equity-in-ai-education]] and [[reducing-ai-misuse]]. The educator's task is to cultivate spaces where communities can collectively question, appropriate, or refuse AI — keeping education a site of imagination and social transformation.  [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] add a practical condition to that role: open-ended critical AI literacy work does not require educators to arrive as AI experts, only to be willing to explore alongside students — a joint student–teacher investigation of one specific system, electronic "hall passes" (not all of which are AI), surfaced and worked through [[misconceptions]] while deepening technical knowledge. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran and Arar (2026)]] give that role a constructionist, ethics-of-care shape: they treat [[prompt-engineering|prompt literacy]] as a rhetorical, ethical and reflective process rather than a technical optimization skill, and the framework's closing phase has students co-design a Personal AI Use Policy with their instructor, so the norms governing classroom AI use are authored by the people they govern rather than issued to them. 
@@ -56,6 +57,8 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+
+[[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodal composition as critical AI literacy pedagogy
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice

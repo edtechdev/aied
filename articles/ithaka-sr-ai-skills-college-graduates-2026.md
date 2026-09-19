@@ -81,7 +81,7 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 
 ## Connected Articles
 
-- [[ai-engineering-computing-workforce-gray-literature-2026]] — AI and the engineering/computing workforce: gray-literature review
+- [[ai-engineering-computing-workforce-grey-literature-2026]] — AI and the engineering/computing workforce: gray-literature review
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce readiness for smart manufacturing
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills-gap agenda
 - [[genai-skill-bypass-literacy]] — The GenAI skill bypass: divergent AI-literacy pathways

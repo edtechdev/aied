@@ -76,7 +76,7 @@ The DRL policy was trained on data from a single semester and may not generalize
 ## Connected Articles
 
 - [[icap-cognitive-engagement-llm-agents]] — Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework
-- [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred Scaffolding in AI-Assisted Mathematical Modeling
+- [[preferred-scaffolding-ai-mathematical-modelling]] — Preferred Scaffolding in AI-Assisted Mathematical Modeling
 - [[pedagogical-safety-rl]] — Pedagogical Safety in Reinforcement Learning for Tutoring
 - [[interactive-learning-dashboards-engagement]] — Interactive Learning Dashboards and Student Engagement
 

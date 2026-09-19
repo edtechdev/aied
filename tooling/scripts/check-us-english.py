@@ -107,8 +107,28 @@ PATTERNS = [
 PROTECTED = re.compile(r'("[^"\n]*"|\[\*[^\]\n]*\*\]\([^)\n]*\)|\*[A-Z][^*\n]{3,60}\*)')
 
 
+# Page slugs are identifiers, not prose: a page whose slug still carries a British
+# spelling (nine do, pending a rename) must be nameable in docs and notes without
+# the checker flagging the reference.
+SLUGS = set()
+
+
+def _load_slugs() -> None:
+    for sub in ("articles", "concepts", "faqs"):
+        d = REPO / sub
+        if d.exists():
+            for f in d.glob("*.md"):
+                SLUGS.add(f.stem)
+
+
+# A wikilink TARGET is a slug, not prose: nine pages still carry British spellings
+# in their slugs (modelling, judgement, personalising, grey) and the link may not be
+# respelled until those files are renamed. Keep the display text, drop the target.
+WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+
+
 def _strip_and_split(text: str) -> str:
-    """Remove frontmatter, the Citation section, and protected spans."""
+    """Remove frontmatter, the Citation section, protected spans, and link targets."""
     if text.startswith("---"):
         end = text.find("\n---", 3)
         if end != -1:
@@ -116,6 +136,10 @@ def _strip_and_split(text: str) -> str:
     cut = text.find("## Citation")
     if cut != -1:
         text = text[:cut]
+    text = re.sub(r"`[^`\n]*`", " ", text)   # inline code holds identifiers, not prose
+    text = WIKILINK.sub(lambda m: m.group(2) or "", text)
+    if SLUGS:
+        text = re.sub(r"(?<![A-Za-z-])(?:" + "|".join(re.escape(s) for s in sorted(SLUGS, key=len, reverse=True)) + r")(?![A-Za-z-])", " ", text)
     return PROTECTED.sub(" ", text)
 
 
@@ -163,6 +187,7 @@ def main() -> int:
     ap.add_argument("--quiet", action="store_true", help="counts only, no per-file lines")
     args = ap.parse_args()
 
+    _load_slugs()
     total_files, total_hits = 0, 0
     for path in targets(args.include_docs):
         hits = scan_file(path)

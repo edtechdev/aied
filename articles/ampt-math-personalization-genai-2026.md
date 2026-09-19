@@ -78,7 +78,7 @@ Several limitations qualify every claim here. The attitudinal study has no contr
 - [[ai-powered-personalized-learning-elementary-fractions-2026]] — AI-driven personalization of fractions learning and its relationship to interest in younger students
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem-posing ability in primary science
 - [[genai-assisted-problem-posing-physics-2026]] — student perceptions of generative AI-assisted problem posing in physics
-- [[ai-modeling-problem-generation-platform-2026]] — a platform approach to generating modeling problems with AI
+- [[ai-modelling-problem-generation-platform-2026]] — a platform approach to generating modeling problems with AI
 - [[generative-ai-reduced-study-time-math]] — how GenAI changes the time and learning on math problems
 - [[adaptive-scaffolding-cognitive-engagement-its]] — scaffolding cognitive engagement inside an intelligent tutoring system
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — design principles for LLM tutoring in primary mathematics

@@ -37,7 +37,7 @@ Cluster analysis of chatbot usage and discussion patterns showed that users in t
 - [[cognitive-offloading]]
 
 ## Connected Articles
-- [[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026]] — AI Tutors vs Tenacious Myths
+- [[ai-tutors-vs-tenacious-myths-personalised-dialogue-2026]] — AI Tutors vs Tenacious Myths
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: Student Cognitive Evolution Agent
 - [[inside-llm-student-simulator-reasoning-2026]] — Inside an LLM Student Simulator's Reasoning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual Tutoring and Computer-Assisted Learning Take-Up
