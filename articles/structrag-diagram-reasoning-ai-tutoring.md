@@ -1,7 +1,7 @@
 ---
 title: "Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-16T17:22:20-04:00"
+updated: "2026-09-19T12:59:12-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag, visualization]
@@ -40,11 +40,19 @@ page_kind: [framework]
 - Interviews with 12 STEM educators were positive: actionable structural feedback, adaptability across diagram types, and help explaining missing/ambiguous connections to students struggling with abstract topologies.
 - Limitations: dataset withheld (university [[teacher-role|teaching]] materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, [[transfer-of-learning|transfer]], [[motivation]], and [[cognitive-offloading|cognitive load]] in live tutoring contexts.
 
-## Practical Implications
+## What this means for practice
 
-- **Make diagram feedback structural, not just binary.** Because edge-level F1 stays high where whole-diagram accuracy fails, systems can already offer useful, auditable correction on the *most* missing or misrecognized connections — valuable for automated diagram-based assessment and hint generation in engineering and computing courses.
-- **Retrieval of canonical patterns beats raw image parsing.** For education developers, the transferable design lesson is that an intermediate graph representation plus a library of abstract topology templates lets an LLM reason over structure (and catch omissions) where end-to-end vision and OCR alone remain brittle on curved, occluded, or irregular diagrams.
-- **Pair this with human-gradable outputs.** The framework's explicit corrections and justifications are inspectable by instructors and students, supporting explainable [[automated-assessment]] of diagrammatic submissions rather than opaque auto-grading.
+- **Designers.** Make diagram feedback structural rather than binary: because edge-level F1 stays high (93.0%) where whole-diagram accuracy fails (89.3%), a system can name the specific missing or misrecognized connections even when the overall diagram is imperfect — the gains over OCR+CV are largest on irregular (26.4 points), bridge/mesh (23.1), and ring (21.6) topologies.
+- **Designers.** Retrieve canonical topology patterns by graph-edit-distance matching against a template library instead of relying on raw image parsing, node-level statistics, or example-based retrieval, and keep the intermediate graph representation explicit so recognition errors remain auditable.
+- **Designers.** Keep outputs human-gradable: the corrected JSON graph and its short justification are inspectable by instructors and students, supporting explainable [[automated-assessment]] of diagrammatic submissions rather than opaque auto-grading.
+- **Instructors.** Use the corrections as hints: identifying most of the missing connections already yields useful structure-aware feedback for students who struggle with abstract topologies, which was the main appeal reported by the 12 STEM educators interviewed.
+
+## Limitations
+
+- Evaluation is benchmark-only: 1,650 STEM diagram-based questions scored with GPT-4 (gpt-4-0613) and GPT-4o baselines, with no learner-outcome study, so effects on learning, retention, transfer, motivation, and cognitive load are untested — future live-tutoring work is called for.
+- Performance is uneven across topologies: accuracy falls to 85.8% on bridge/mesh and 81.4% on unclassified/irregular diagrams, and question-level accuracy requires an exact whole-diagram node-and-edge match, so partial failures are penalized in the main metric.
+- The evaluation dataset is withheld (it comes from university teaching materials; only schema, code, and prompts are released), so the reported numbers cannot be reproduced on the same items.
+- Ground truth was annotated by 12 STEM educators under a partially overlapping two-stage protocol, with each sample first checked independently by two educators and disagreements flagged as inconsistent, so the benchmark labels embed rater judgment.
 
 ## Connected Concepts
 
