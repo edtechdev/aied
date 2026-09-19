@@ -88,7 +88,7 @@ The limits are stated plainly. Fifteen students at one UK university, purposivel
 - [[qu-wang-disclose-or-not-genai-2026]] — Peer influence and psychological factors in disclosing generative AI use
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for academic writing
 - [[student-dependency-on-ai-literacy-self-efficacy-2026]] — Dependency on AI considered alongside literacy and academic self-efficacy
-- [[colbran-student-perspectives-genai-chatbots-2026]] — Human-centred mixed-methods account of student perspectives on AI chatbots
+- [[colbran-student-perspectives-genai-chatbots-2026]] — Human-centered mixed-methods account of student perspectives on AI chatbots
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi study on institutional policy and practice for generative AI
 - [[ai-dependence-academic-writing-ipace-2026]] — Factors behind dependence on generative AI in writing courses
 

@@ -10,7 +10,7 @@ to point the pipeline somewhere else. Everything below describes the workflow.
 **What this tooling does:**
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph), EdArXiv and PsyArXiv (by subject, e.g. Educational Psychology) for new papers in your domain
 - **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd — see `wiki.config.yaml` → `journal_scan.feeds`)
-- Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and a tag taxonomy
+- Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt`/`llms-full.txt`
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
@@ -127,8 +127,8 @@ wiki/
 
 ## Page Types
 
-- **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → Key Findings → Connected Concepts → Connected Articles → APA citation with hyperlinked title.
-- **Concept pages** (`concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → research themes with wikilinks → Connected Concepts → Connected Articles.
+- **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` → body sections → `## What this means for practice` → `## Limitations` (optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text).
+- **Concept pages** (`concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → `## Questions to Consider` (required) → `## Introduction` → body sections with wikilinks → Connected Concepts → Connected Articles.
 - **FAQ pages** (`faqs/<slug>.md`) — one per curated question-and-answer. Frontmatter → question heading → narrative answer with wikilinks (can link to concepts, articles, and other FAQs). No sources/citation. Listed on the journal page (❓), indexed in llms files, and linked from concept/article pages via `connected_faqs`.
 
 Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro templates.
@@ -154,7 +154,11 @@ python3 tooling/scripts/check_concepts.py
 # an error. This is a gate: `npm run verify` fails if any page disagrees with the registry.
 python3 tooling/scripts/validate-facets.py
 
-# Check the structured metadata fields (research_method, discipline, audience, level, category)
+# House style: US English. Scans prose only — page slugs, wikilink targets and inline code are
+# identifiers and are deliberately ignored, so the gate stays useful while a slug is pending rename.
+python3 tooling/scripts/check-us-english.py --include-docs
+
+# Check the structured metadata fields (research_method, discipline, audience, level, page_kind)
 # against the closed vocabularies in src/content.config.ts. Reports coverage per collection and
 # any value outside the list; the build rejects invalid values too, but this reports them in
 # seconds and names the pages. Absence is coverage, never an error: a study with no disciplinary
@@ -312,7 +316,7 @@ To fully reproduce the ingestion workflow (including the inline-link HARD GATE a
 - **`wiki-inline-links`** — the aggressive inline-link + list-formatting pass that runs on every new/enriched page before build (mirrored in `skills/research/wiki-inline-links/`)
 - **`wiki-epub-export`** — EPUB/PDF regeneration (`skills/research/wiki-epub-export/`)
 - **`wiki-journal-update`** — regenerates `journal.md` + `index.md` in the exact on-disk format (`skills/research/wiki-journal-update/`)
-- **`wiki-site-quality`** — static-site bug fixes: dup H1, broken links, dead/fragmented tags, markdown tables, journal date quoting, public-repo privacy checks (`skills/research/wiki-site-quality/`)
+- **`wiki-site-quality`** — static-site bug fixes: dup H1, broken links, dead metadata chips, markdown tables, journal date quoting, public-repo privacy checks (`skills/research/wiki-site-quality/`)
 - **`wiki-astro-frontend`** — editing the Astro frontend (homepage, concept map, sidebar, icons, PWA, JSON-LD, theming) (`skills/research/wiki-astro-frontend/`)
 
 See `cron/` for the job prompts that wire them together, and

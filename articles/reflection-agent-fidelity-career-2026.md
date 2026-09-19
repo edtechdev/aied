@@ -19,7 +19,7 @@ confidence: high
 
 ## Key Findings
 
-1. **Treatment fidelity split cleanly along verifiability.** Checkable constraints were honoured; behavioral constraints were not. Told not to flatter, the agent praised participants in roughly half its turns; told to challenge gently, it almost never did.
+1. **Treatment fidelity split cleanly along verifiability.** Checkable constraints were honored; behavioral constraints were not. Told not to flatter, the agent praised participants in roughly half its turns; told to challenge gently, it almost never did.
 2. **Rule violations left no visible trace in the transcript**, so routine output inspection would not have caught them — a finding with direct consequences for anyone deploying [[pedagogical-agent|pedagogical agents]].
 3. **Repeated decision demands, not daily behavior, tracked the worse outcome.** The survey posed each decision once; the agent re-posed it when a participant hesitated, and those pressed most ended most doubtful.
 4. **Day-to-day interaction made no detectable difference to how participants felt**, which isolates the decision-pressure mechanism from generic conversational effects.

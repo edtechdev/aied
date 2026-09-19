@@ -58,7 +58,7 @@ Twelve purposively sampled participants (nine academic developers, three learnin
 - [[anxiety-and-stress]] — impostor feelings, public failure and ethical discomfort in mediation work
 - [[academic-integrity]] — the plagiarism, dependency and cognitive-outsourcing concerns developers raised with lecturers
 - [[professional-training]] — peer-learning spaces as the vehicle for practitioner development
-- [[generative-ai]] — the technology participants' accounts centred on
+- [[generative-ai]] — the technology participants' accounts centered on
 - [[higher-ed]] — South African Historically Disadvantaged Institutions as the setting
 
 ## Connected Articles

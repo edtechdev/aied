@@ -3,12 +3,13 @@ title: Example Concept
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 type: concept
-tags: [concept-slug-1, concept-slug-2]  # MUST be real concept slugs (see SCHEMA.md)
 confidence: medium
+foundations: [ai-literacy]                  # facet fields: concept slugs, each from its own registry section
+pedagogy: [scaffolding]
 level: [higher ed]
 ---
 
-> **Synthesis:** This example concept page demonstrates how topics that appear across multiple articles are synthesized. Concept pages explain the concept itself (a broad idea), not any single paper, and link to all related articles.
+> **Synthesis:** This example concept page shows how a topic that appears across many articles is synthesized. A concept page explains the concept itself rather than any single paper, and links to the articles behind it. The concepts a page touches are named in the typed frontmatter fields above, and every value must be a real concept slug filed under that field's own registry section.
 
 ## Questions to Consider
 
@@ -29,3 +30,7 @@ level: [higher ed]
 ## Connected Articles
 
 - [[example-paper]]
+
+## Connected FAQs
+
+- [[example-faq]]

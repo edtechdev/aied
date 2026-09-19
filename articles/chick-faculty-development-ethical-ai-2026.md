@@ -24,7 +24,7 @@ confidence: high
 
 1. **A deliberately mixed, very small cohort.** Ten faculty completed UBRIDGE, six weekly two-hour sessions; teaching experience ran from 2 to 35 years and recruitment was purposive rather than enthusiast-only.
 2. **Confidence and perceptions moved sharply in one direction.** Initially 80% rated their confidence in guiding student AI use as low or nonexistent and 20% held negative views of AI in [[higher-ed|higher education]]; afterwards no one reported no confidence, 60% placed themselves at the top of the scale, and negative views fell to zero.
-3. **Concerns centred on integrity and [[cognitive-offloading|over-reliance]], not replacement.** [[academic-integrity|Academic integrity]] led pre-survey concerns (80%), then over-reliance (70%) and bias or inaccuracy (50%); equity and access were named by none.
+3. **Concerns centered on integrity and [[cognitive-offloading|over-reliance]], not replacement.** [[academic-integrity|Academic integrity]] led pre-survey concerns (80%), then over-reliance (70%) and bias or inaccuracy (50%); equity and access were named by none.
 4. **The capstone redesigns are the hardest evidence.** All ten redesigned a course component: 8 of 10 positioned AI as a scaffold rather than a replacement, 7 of 10 redefined their teaching purpose toward inquiry, and 6 of 10 embedded critique of AI bias.
 5. **Intentions were near universal; the enabling conditions were not.** All ten said they would keep integrating AI and recommend the institute, yet the same participants described contradictory policy signals, personal subscriptions for continued tool access, and no time support for the redesigns they had planned.
 
