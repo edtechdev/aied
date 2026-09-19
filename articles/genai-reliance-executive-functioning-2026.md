@@ -1,7 +1,7 @@
 ---
 title: "Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use"
 created: "2026-09-18T15:20:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-19T18:17:12-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning, metacognition, self-efficacy]
@@ -102,4 +102,4 @@ Implications follow the individual-differences frame. The consistency of the pat
 
 ## Citation
 
-Klarin, J., Hoff, E., & Daukantaitė, D. (2026). [*Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use*](https://osf.io/preprints/psyarxiv/2rafb_v4). PsyArXiv preprint. (Lund University)
+Klarin, J., Hoff, E., & Daukantaitė, D. (2026). [*Individual Differences in Reliance on Generative AI in Schoolwork: The Role of Executive Functioning Difficulties, Perceived Usefulness, and Habitual Use*](https://osf.io/preprints/psyarxiv/2rafb). PsyArXiv preprint, version 6, published 2026-09-17. (Lund University)
