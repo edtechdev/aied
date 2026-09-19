@@ -66,8 +66,9 @@ Authors (YYYY). [*Paper Title*](source_url). Venue/arXiv ID.
 
 Rules for the two sections above:
 - `## What this means for practice` is expected on every article page. Lead with **Instructors**; add other audience labels only when the paper supports a genuinely distinct implication, matched to the page's `audience:` facet. 3-5 bullets, imperative and derived — never "this could potentially suggest that instructors might consider".
-- `## Limitations` is written whenever the paper states threats to validity or they are plainly evident, and **omitted** rather than filled with boilerplate: "small sample, single institution, results may not generalise" with no numbers is a defect, not a limitation. When the limitation is the measurement, link `[[self-report-measures]]` instead of restating it.
-- **Body budget: 750-1,000 words** (frontmatter end → `## Connected Concepts`). The two sections are paid for out of the existing body, never bolted on top. Measure before committing, and never drop a distinct `[[wikilink]]` target to make the cut.
+- `## Limitations` is written whenever the paper states threats to validity or they are plainly evident, and **omitted** rather than filled with boilerplate: "small sample, single institution, results may not generalize" with no numbers is a defect, not a limitation. When the limitation is the measurement, link `[[self-report-measures]]` instead of restating it.
+- **A section under a legacy heading is not a missing section (census 2026-09-19).** Older pages carry the same two sections under dozens of names — `Implications`, `Implications for AI in Education`, `Implications for practice`, `Design implications`, `Limitations and open questions`, `What the Evidence Cannot Yet Support`, and so on. Before writing anything, read the page's headings: if one of them already holds implications-for-practice copy or limitation copy, **rename the heading to the canonical name** instead of adding a section. Two tests decide it, and both failures are real: a heading that *catalogues practices* ("Four practices that make judgment visible") or *analyses a mechanism* ("Effort, ownership, and what this means for cognitive offloading") is a body section, not the implications section, so leave it; and a heading that covers *both* ("Implications and limitations", "Classroom implications and limitations") has to be split into the two canonical sections, not renamed. Then check the order is still practice → limitations → Connected Concepts, because a legacy page may have had them the other way round. A batch that ends with 0 broken links and 0 duplicate headings still needs this order check.
+- **Body budget: 750-1,000 words** (frontmatter end → `## Connected Concepts`). The two sections are paid for out of the existing body, never bolted on top. Measure before committing, and never drop a distinct `[[wikilink]]` target to make the cut. When a page predates the budget and runs 2-3x over (many ingested 2026-09-13..18 do), add the missing sections and **report the page as over budget** rather than silently rewriting it — trimming a 2,000-word page back to the budget is its own pass with its own review, and doing it as a side effect of a section addition is how content gets lost.
 - Nothing comes after `## Citation` (the standing citation rule keeps it last): the page template appends Connected FAQs, the metadata table and the source buttons.
 
 ### Concept page structure (`concepts/{slug}.md`)
@@ -146,6 +147,14 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
   `python3 tooling/scripts/gen-concept-artifacts.py` — never hand-edit them. A new
   concept needs a `concepts:` entry (title + at least one alias) AND a place in a
   `sections:` group, then `python3 tooling/scripts/check_concepts.py` must pass.
+  Move a concept between sections by editing the registry's `sections:` list order
+  (the sidebar follows it), then re-run the generator; a section move also changes
+  which facet FIELD may hold that slug, so reroute the value on every page that
+  carries it or `validate-facets.py` fails.
+- **Article slug redirects** live in `src/data/articleRedirects.ts`, which is
+  **maintained by hand** (there is no registry block for article merges or renames;
+  `[slug].astro` reads its keys so old URLs keep resolving). Concept redirects are
+  the opposite — generated from the registry's `redirects:` block.
 
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)
@@ -165,6 +174,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
 - After ANY page change: run the HARD GATES (`python3 tooling/scripts/run-gates.py` or `npm run verify`), then `npm run build`, then `git add -A && git commit -m "..."`. **Never push without explicit per-occurrence approval** — commit locally, then ask.
+- **Delegating a section-writing batch to subagents (2026-09-19).** Fanning out "add the missing sections to these N pages" works, but a child's summary is a self-report, not evidence, so the parent verifies every page it was told about: the section is present and spelled exactly `## What this means for practice` / `## Limitations`, the order is practice → limitations → Connected Concepts → Connected Articles → Citation, the bullet count is inside 3-5 and 2-4, and every number in the added bullets appears in that page's `raw/papers/<slug>.md`. Give each child the same brief in its own `context` (it knows nothing of the conversation): the exact placement rule, "every number must appear in the full text — never invent one", "boilerplate limitations are a defect; omit the section and say why instead", "do not touch frontmatter, Connected lists or Citation", "US English", "verify a wikilink target exists before adding it", and "do not run the build or the gates — the parent does that". Two failure modes to plan for: a page with no saved full text (raw under ~3,000 chars) cannot get evidence-bound bullets at all, so exclude it and name it in the report rather than letting a child improvise; and children run in parallel on separate files, so no child may write `index.md`, `journal.md`, `log.md` or the registry.
 - **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concept + FAQ pages, with a Notice page and a clickable TOC). These are **local committed artifacts rebuilt ONLY on explicit request** — never automatically after content edits, and never by CI. Regenerate with `python3 tooling/build-epub.py` (requires `pandoc` and, for the PDF, `weasyprint`) and commit the result.
 
 ### Cron jobs
