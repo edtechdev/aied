@@ -1,7 +1,7 @@
 ---
 title: "Control vs. Agency: Exploring the History of AI in Education"
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-19T10:40:23-04:00"
 type: article
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist]
@@ -54,7 +54,7 @@ Today's debates about [[generative-ai|GenAI]] in education closely mirror the hi
 
 The ITS-as-tutor approach, while promising efficiency and [[accessibility]], raises concerns about surveillance, data collection, and standardization, fitting comfortably within existing educational structures and corporate interests. A more transformative vision of GenAI offers possibilities for student empowerment and creativity but requires rethinking assessment, accepting ambiguous outcomes, and tolerating greater uncertainty—threatening established hierarchies. Who decides how these tools are used, and whose interests are served, are governance questions: the ITS model aligns with corporate and institutional interests in measuring, tracking, and optimizing learning, while the constructionist model suggests a more democratic and potentially disruptive approach.
 
-## Lessons for GenAI: the cybernetic counterfactual
+## The cybernetic counterfactual
 
 Looking across the history, several patterns emerge: technical decisions consistently reflect deeper ideological positions; institutional forces repeatedly favor approaches that reinforce existing structures over transformative alternatives; and educators and [[research-methods-aied|researchers]] have consistently pushed back against dominant technological paradigms. The paper concludes by imagining the counterfactual—how different the educational technology landscape might look had McCarthy maintained Wiener's cybernetic framing. Instead of 'AI tutors,' we might speak of 'cybernetic learning systems' highlighting continuous feedback between learner and system; instead of 'personalized AI learning,' 'cybernetic adaptation' focusing on system-learner adjustment; the 'AI teaching assistant' might be a 'cybernetic learning mediator' facilitating connections rather than replacing human roles. These are not merely semantic differences: a cybernetic framing could emphasize interconnection over isolation, feedback over prediction, adaptation over optimization, and [[self-regulated-learning|self-regulation]] over external control, steering away from the fantasy of machines replicating human intelligence toward technologies that support human learning in more systemic, ecological ways.
 
