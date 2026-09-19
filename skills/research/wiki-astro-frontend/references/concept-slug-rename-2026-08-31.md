@@ -35,3 +35,13 @@ Renaming `evaluative-judgement` → `evaluative-judgment` surfaced three holders
 - **The inline-link scanner's alias dictionary keys are slugs, not phrases**: change the KEY (`'old': [...]` → `'new': [...]`) in BOTH the repo and installed copies of `inline_link_scan.py`, and any `never_link`/REJECT entry that names the slug (e.g. `('assessment literacy', 'evaluative-judgement')`). Keep the alias phrases — they legitimately name the old term.
 
 Also worth knowing: when the change is only a spelling variant (not a synonym), do NOT add a "formerly *Old Term*" note to the lead blockquote — readers saw the same words before and after. Add the note only when the visible term itself changed.
+
+## ARTICLE slug renames are a different procedure (2026-09-19)
+
+Nine article slugs still carried British spellings after the corpus prose moved to US English, so the wording leaked into URLs (`.../ai-modelling-problem-generation-platform-2026/`) and into any link a reader copied. Article renames differ from concept renames in three ways:
+
+- **Redirects live in `src/data/articleRedirects.ts`, maintained BY HAND** (there is no registry block to generate from, unlike `conceptRedirects.ts`). Append `'old-slug': 'new-slug',` inside the object and keep it `Record<string, string>`. `[slug].astro` reads the keys for `getStaticPaths`, so the old URL keeps resolving at 301 — verify by building and confirming `dist/articles/<old>/index.html` exists and carries the new URL.
+- **`[[old` link targets, `index.md`, `journal.md` and `log.md` all name article slugs**, so the sweep must cover those three files too, not just the content directories — a slug appears in `index.md`/`journal.md` once per page, and in `log.md` for every historical entry that mentioned it.
+- **`sources:` in the frontmatter points at the raw file's own name under `raw/papers/`, which is an input, not the page's slug, and is often a DOI-derived filename.** Leave `sources:` and `raw/` alone on a slug rename: `tooling/scripts/verify-number-grounding.py` reads those paths, and renaming them gains nothing.
+- Regenerate the title→slug maps (`gen-concept-artifacts.py` writes `metadataLinks.ts`) and the llms files, then run the gates: `check_concepts.py`, `validate-facets.py`, the us-English checker, `check_list_formatting.py`, and a scripted broken-link scan over `articles/ concepts/ faqs/`.
+- In the same commit message, say explicitly that page content was NOT edited — a slug rename that also changes prose is two changes and should be two commits.
