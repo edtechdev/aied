@@ -27,7 +27,7 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 ## Connections to Knowledge Base
 - Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on [[ai-feedback-quality|feedback quality]] over quantity
-- Extends [[llm-student-modeling-memory]] to assessment contexts — profiling over time
+- Extends [[nie-personavlm-long-term-personalization-2026]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
 ## Connected Concepts
 - [[automated-assessment]]
@@ -46,7 +46,7 @@ The self-referential approach aligns with [[personalized-learning]] goals and th
 - [[ground-truth-reliability-aied]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[sequenced-ai-feedback-learning]]
-- [[llm-student-modeling-memory]]
+- [[nie-personavlm-long-term-personalization-2026]]
 - [[icle-plus-plus-essay-scoring]]
 ## Citation
 Bannò, S., Knill, K., & Gales, M. (2026). [*Towards Self-Referential Analytic Assessment: A Profile-Based Approach to L2 Writing Evaluation with LLMs*](https://arxiv.org/abs/2605.04298).

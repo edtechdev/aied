@@ -58,7 +58,7 @@ The study states its own limitations. The dataset is restricted to Twitter, excl
 - [[ai-education]]
 ## Connected Articles
 
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[moral-panic-genai-classroom]]
 - [[youtube-frames-chatgpt-education]]
 ## Citation

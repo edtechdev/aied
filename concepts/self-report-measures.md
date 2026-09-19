@@ -21,7 +21,7 @@ methods: [quantitative-research, research-methods-aied]
 ## Questions to Consider
 
 - If a study says students "reported high engagement," what exactly was measured — and what would you need to see to conclude they actually engaged?
-- Teachers estimated their own [[ai-literacy|AI literacy]] 40% higher on average than a parallel performance measure found. Where would your own self-assessment most likely diverge from a test of the same skill, and why?
+- [[teacher-role|Teachers]] estimated their own [[ai-literacy|AI literacy]] 40% higher on average than a parallel performance measure found. Where would your own self-assessment most likely diverge from a test of the same skill, and why?
 - Satisfaction is easy to measure and easy to improve — a system tuned to please users will score well on it. Why might that make satisfaction a poor outcome measure for learning, and what would you measure instead?
 - "Nearly all students use AI for coursework" comes from asking students. What could asking rather than logging get wrong in either direction?
 - A survey gets 112 responses at a 31% response rate, or 90 responses from 572 invitations. Before accepting its percentages, what do you want to know about who did not answer?
@@ -70,7 +70,7 @@ Satisfaction is the most frequently self-reported outcome in this corpus, appear
 - [[sequenced-ai-feedback-learning|Work on sequenced AI feedback]] states the design principle directly: user satisfaction and behavioral engagement are not reliable proxies for learning gains, so learning must be measured directly.
 - [[puech-pedagogical-steering-llm-productive-failure-2025|On pedagogical steering]] notes that current language models are instruction-tuned to be helpful assistants that maximize user satisfaction, while a tutor's goal is to maximize learning — the two objectives can conflict, which makes satisfaction a potentially misleading target rather than merely a weak one.
 - [[preferred-scaffolding-ai-mathematical-modelling|A scaffolding study]] argues that perceived usefulness, ease of use, and immediate satisfaction should not be treated as sufficient indicators of [[scaffolding]] effectiveness.
-- [[llm-student-modeling-memory|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
+- [[nie-personavlm-long-term-personalization-2026|On personality-aligned student modeling]] observes that optimizing for user satisfaction is not the same as optimizing for learning outcomes, and that the two can come apart.
 
 The pattern worth carrying away: satisfaction is responsive to the wrong things when learning is the goal. A system that answers quickly, agrees readily, and reduces effort will be rated highly, and those same properties are the ones the knowledge base associates with reduced [[cognitive-offloading|productive struggle]] and inflated performance on AI-assisted work. Reported satisfaction and measured learning are not enemies; they are simply not substitutes, and treating the first as evidence of the second is the most common slippage this page documents.
 

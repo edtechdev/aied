@@ -69,7 +69,7 @@ Analytics for [[collaborative-learning]] environments that surface group dynamic
 
 ## Significance for AIED
 
-The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026]], [[ai-tutor-safety-harms]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
+The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026]], [[hazra-safetutors-pedagogical-safety-2026]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
 
 ## Connected Concepts
 
@@ -95,7 +95,7 @@ The XAI-ED framework has become a foundational reference in [[ai-education|AIED]
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074

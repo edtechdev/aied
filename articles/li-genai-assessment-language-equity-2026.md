@@ -37,7 +37,7 @@ Construct statements in [[higher-ed|higher education]] are often implicit: staff
 
 The line is illustrated with an essay in which a student has independently developed the claim that a housing policy produces unequal effects, chosen the evidence, and organised the analysis around three causal mechanisms. Asking a tool to correct grammar, shorten overlong sentences, or clarify transitions while preserving claims, evidence, paragraph order, and analytical relationships is language support, because the substantive architecture remains the student's. Asking it to decide which mechanism should lead, to combine two mechanisms into a new thesis, or to supply a counterargument is substitution, because form and substance are reshaped together. A rubric can separate the origin and quality of reasoning from the effectiveness of its communication, while recognising that major structural revision is substantive rather than linguistic.
 
-Li also draws on [[formative-assessment|formative assessment]] and feedback scholarship (Sadler, 1989; Boud & Molloy, 2013) to argue that integrity is not protected only at the point of sanction, and that designs requiring students to evidence judgement over time serve the same end better than surveillance.
+Li also draws on [[formative-assessment|formative assessment]] and [[feedback]] scholarship (Sadler, 1989; Boud & Molloy, 2013) to argue that integrity is not protected only at the point of sanction, and that designs requiring students to evidence judgement over time serve the same end better than surveillance.
 
 ## Equality logic, fair process, and reviewability
 

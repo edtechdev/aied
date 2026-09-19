@@ -104,7 +104,7 @@ The lightest intervention in this family is not prompting but parameter-efficien
 ## Relationship to Safety and Design
 
 Training for pedagogy is not just about accuracy — it is a **safety intervention**:
-- A model that rewards "guiding" over "answering" is less likely to commit [[ai-tutor-safety-harms|answer over-disclosure harms]]
+- A model that rewards "guiding" over "answering" is less likely to commit [[hazra-safetutors-pedagogical-safety-2026|answer over-disclosure harms]]
 - Theory-grounded agents (ISD-Agent-Bench) align with pedagogical principles that prevent [[metacognition|metacognitive suppression]]
 - However, training on pedagogical [[benchmark|benchmarks]] does not guarantee multi-turn safety; SafeTutors shows even specialized models degrade over sustained dialogue
 - **Grounding and validation can substitute for — or complement — training.** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that a frontier *untrained* GPT-4 produced ~35% too-general, incorrect, or answer-revealing hints when authoring ITS feedback, and that its own automated quality checks misaligned with human judgment — leading the authors to conclude that LLMs lack an internal model of instruction and that robust validation or domain-specific training is required before unsupervised learner-facing use, supporting the case that grounding and quality control are themselves pedagogical interventions alongside reward design.
@@ -116,7 +116,7 @@ Because tutoring requires corrective friction — challenging a student's incorr
 ## Open Questions
 
 1. Does pedagogical RL training generalize across subjects, or is [[discipline-specific-aied|subject-specific]] tuning (as SafeTutors suggests) always needed?
-2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[llm-student-modeling-memory]]) for personalized tutoring?
+2. Can the RL-SFT-RL pipeline be combined with longitudinal memory (see [[nie-personavlm-long-term-personalization-2026]]) for personalized tutoring?
 3. Would ISD-agent theory improve general tutoring conversation, or is it limited to macro-level [[curriculum-design|curriculum design]]?
 
 ## Connected Concepts

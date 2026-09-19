@@ -31,7 +31,7 @@ Mixed-methods designs integrate the breadth, precision, and causal power of quan
 ## How mixed methods appear in the knowledge base
 
 - **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
-- **Complementing outcome data with experience.** [[ai-tutor-safety-harms|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
+- **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of pedagogical harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
 - **Design and evaluation.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]] combines experimental outcome measurement with qualitative feedback from learners, integrating quantitative effect estimation with design guidance.
 
 ## Strengths and limitations
@@ -61,6 +61,6 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - [[fouad-bentley-trust-utility-gap-physics-2026]] — Trust–utility gap (survey + interviews)
 - [[same-ai-different-pathways]] — Mechanisms of AI-mediated learning across contexts
 - [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
-- [[ai-tutor-safety-harms]] — AI tutor safety and pedagogical harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
 

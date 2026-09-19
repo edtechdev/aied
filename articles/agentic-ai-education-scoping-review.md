@@ -95,7 +95,7 @@ For [[ai-education|AI in education]], the review's map carries several concrete 
 
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
-- [[principled-ai-education]] — Principled AI in Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[agentic-education-coding]] — Agentic Education with AI Coding Assistants
 - [[agents-that-teach-incidental-learning]] — Agents That Teach: Designing Incidental Learning Back into AI-Assisted Software Development
 - [[agentic-literacy-debt]] — Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named

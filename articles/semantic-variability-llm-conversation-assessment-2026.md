@@ -67,7 +67,7 @@ The results show that even for a single conversational turn, the semantic conten
 - [[socratic-tests-conversational-assessment]] — Socratic tests in conversational assessment
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the age of AI: output as evidence of learning
-- [[llm-tutoring-feedback-diagnosis-gap]] — LLM tutoring, feedback, and the diagnosis gap
+- [[yasir-llm-tutoring-agents-2026]] — LLM tutoring, feedback, and the diagnosis gap
 
 ## Citation
 

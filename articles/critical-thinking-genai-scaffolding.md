@@ -58,7 +58,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 ## Connection to Existing Frameworks
 
-This model aligns with the [[principled-ai-education]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026]] that pedagogically-designed AI outperforms raw LLM [[conversational-ai|chatbots]] on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on [[feedback-literacy|feedback literacy]] principles (Carless & Boud, 2018).
+This model aligns with the [[finkelstein-principled-ai-education-2025]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026]] that pedagogically-designed AI outperforms raw LLM [[conversational-ai|chatbots]] on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on [[feedback-literacy|feedback literacy]] principles (Carless & Boud, 2018).
 
 P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving [[agency|learner agency]] connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
@@ -103,7 +103,7 @@ Both scenarios emphasize the critical sequence: *independent thinking first, [[s
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT Critical and Creative Thinking: Systematic Review
 - [[scaffolding-critical-engagement-genai-minority-students]] — Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discours...
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritize Learning over Performance
-- [[principled-ai-education]] — Principled AI in Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base
 - [[sequenced-ai-feedback-learning]] — Assessing the Impact and Underlying Pathways of Sequenced AI Feedback on Student Learning
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking

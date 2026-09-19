@@ -31,7 +31,7 @@ Finkelstein insists the three anchors be settled before any tool is selected. **
 
 ## Core Mandate: Augment, Don't Displace
 
-"AI must augment, not displace, human capacities" is the through-line of the framework. Technology use is judged against enduring educational values: advancing meaningful learning rather than efficient content delivery, supporting democratic societies rather than individual skill acquisition alone, and preparing students for dynamic futures rather than today's job market. In practice this means asking whether a tool does something the learner should do themselves — if so, redesign. The mandate converges with [[ai-tutor-safety-harms|documented harms]] from displacing pedagogy, with the [[llm-fallacy-misattribution|misattribution of competence]] to AI systems, and with [[desirable-difficulties]] research showing that easier practice can harm long-term retention. It also reframes [[human-ai-collaboration]]: systems that reduce [[collaborative-learning]] to isolated machine interaction, or that erode belonging and agency, fail the principled test regardless of technical sophistication. The [[human-in-the-loop-ai|human-in-the-loop]] stance keeps the learner as the agent and the model as an instrument.
+"AI must augment, not displace, human capacities" is the through-line of the framework. Technology use is judged against enduring educational values: advancing meaningful learning rather than efficient content delivery, supporting democratic societies rather than individual skill acquisition alone, and preparing students for dynamic futures rather than today's job market. In practice this means asking whether a tool does something the learner should do themselves — if so, redesign. The mandate converges with [[hazra-safetutors-pedagogical-safety-2026|documented harms]] from displacing pedagogy, with the [[llm-fallacy-misattribution|misattribution of competence]] to AI systems, and with [[desirable-difficulties]] research showing that easier practice can harm long-term retention. It also reframes [[human-ai-collaboration]]: systems that reduce [[collaborative-learning]] to isolated machine interaction, or that erode belonging and agency, fail the principled test regardless of technical sophistication. The [[human-in-the-loop-ai|human-in-the-loop]] stance keeps the learner as the agent and the model as an instrument.
 
 ## Relationship to the Evidence Base
 
@@ -77,7 +77,7 @@ The framework works as a checklist for any AI-in-education initiative. First, st
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]] — AI Tools Scaffolding Metacognition in STEM
-- [[ai-tutor-safety-harms]] — AI Tutor Safety and Pedagogical Harms
+- [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms
 - [[critical-thinking-genai-scaffolding]] — Scaffolding Critical Thinking with Generative AI
 - [[llm-fallacy-misattribution]] — The LLM Fallacy and Misattribution of Competence
 - [[stanford-evidence-base-ai-k12-2026]] — AI in K-12 Evidence Base

@@ -75,7 +75,7 @@ Future directions call for ethical AI frameworks emphasizing transparency, fairn
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[ai-pedagogical-orientation]]
 ## Citation
 

@@ -42,7 +42,7 @@ confidence: high
 
 A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. The knowledge base treats identity as distributed across audiences rather than belonging to any single group.
 
-- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from [[agentic-ai|agentic]] acts and is threatened by authorship loss and competence doubt under AI.
+- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
 - **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
 - **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the knowledge base's explicit identity coverage concentrates on learners and teachers.
 

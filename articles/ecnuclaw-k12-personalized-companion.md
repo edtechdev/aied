@@ -31,7 +31,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 
 ## Open Questions
 
-- How does turn-by-turn profiling compare to [[llm-student-modeling-memory]] approaches using persistent memory architectures?
+- How does turn-by-turn profiling compare to [[nie-personavlm-long-term-personalization-2026]] approaches using persistent memory architectures?
 - Can the framework generalize beyond Chinese LLM providers and K-12 contexts?
 - What are the privacy implications of five-dimensional profiling, especially for minors in [[regulation]] contexts?
 
@@ -50,7 +50,7 @@ ECNUClaw advances the field of [[personalized-learning]] by operationalizing rea
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[llm-student-modeling-memory]]
+- [[nie-personavlm-long-term-personalization-2026]]
 ## Citation
 
 Zhou, Y., Li, J., & Zhang, Z. (2026). [*ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education*](https://arxiv.org/abs/2605.08040).

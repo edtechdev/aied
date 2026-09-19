@@ -49,7 +49,7 @@ This paper contributes directly to understanding how AI systems interact with le
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
 - [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
-- [[llm-student-modeling-memory]] — LLM Student Modeling and Long-Term Memory Architecture
+- [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
 
 ## Citation
 

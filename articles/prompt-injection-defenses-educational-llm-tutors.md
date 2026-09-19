@@ -28,7 +28,7 @@ institutions: [regulation]
 
 **NeMo Guardrails** blocks all attacks but incorrectly flags ~16% of benign requests — a rate that would seriously degrade the [[student-experience]] in real tutoring sessions. **Prompt Guard** provides middle-ground performance.
 
-The framework enables **evidence-based guardrail selection** under [[governance|institutional]] risk and usability requirements. This directly connects to [[ai-tutor-safety-harms]] concerns and the emerging field of [[pedagogical-safety-rl]]. The latency dimension is particularly important for real-time [[conversational-ai-tutors-framework]] where response delays degrade [[student-engagement|engagement]].
+The framework enables **evidence-based guardrail selection** under [[governance|institutional]] risk and usability requirements. This directly connects to [[hazra-safetutors-pedagogical-safety-2026]] concerns and the emerging field of [[pedagogical-safety-rl]]. The latency dimension is particularly important for real-time [[conversational-ai-tutors-framework]] where response delays degrade [[student-engagement|engagement]].
 
 The paper highlights that **educational settings have unique requirements**: false positives are more costly than in general-purpose [[conversational-ai|chatbots]], because blocking a student's learning interaction carries pedagogical harm. This aligns with findings in [[eduframetrap-llm-sycophancy-educational-safety]] that educational safety requires [[discipline-specific-aied|domain-specific]] [[benchmark|benchmarks]].
 
@@ -45,7 +45,7 @@ The paper highlights that **educational settings have unique requirements**: fal
 ## Connected Articles
 
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-tutor-safety-harms]]
+- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[pedagogical-safety-rl]]
 - [[conversational-ai-tutors-framework]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]

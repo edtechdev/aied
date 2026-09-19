@@ -34,7 +34,7 @@ This paper provides the **highest-level evidence synthesis** currently available
 - **Assessment:** How do we [[assessment-validity|validly assess]] programming skill when AI is available?
 - **Policy:** What guidance should [[regulation]] frameworks provide for AI in CS education?
 
-The meta-analytic approach provides more robust conclusions than individual studies like [[collaborative-ai-tutoring]] (ProPACT) or [[agentic-education-coding]] work on [[teacher-role|teaching]] Claude Code. It also connects to [[programming-its]] [[research-methods-aied|research]] on traditional [[intelligent-tutoring|intelligent tutoring]] for coding, providing a baseline for comparing AI-augmented approaches.
+The meta-analytic approach provides more robust conclusions than individual studies like [[golrang-propact-pair-programming-2026]] (ProPACT) or [[agentic-education-coding]] work on [[teacher-role|teaching]] Claude Code. It also connects to [[programming-its]] [[research-methods-aied|research]] on traditional [[intelligent-tutoring|intelligent tutoring]] for coding, providing a baseline for comparing AI-augmented approaches.
 
 The findings have implications beyond programming — the productivity-learning tension applies to [[writing-education]], [[language-learning]], and any domain where AI can produce acceptable output without the learner developing underlying skills (the [[llm-fallacy-misattribution]] problem).
 
@@ -60,7 +60,7 @@ The findings have implications beyond programming — the productivity-learning 
 ## Connected Articles
 
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[collaborative-ai-tutoring]]
+- [[golrang-propact-pair-programming-2026]]
 - [[agentic-education-coding]]
 - [[programming-its]]
 - [[llm-fallacy-misattribution]]

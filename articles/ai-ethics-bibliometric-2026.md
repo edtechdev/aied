@@ -60,7 +60,7 @@ This bibliometric paper provides field-level empirical grounding for the knowled
 
 ## Connected Articles
 
-- [[principled-ai-education]] — Principled approaches to AI in education
+- [[finkelstein-principled-ai-education-2025]] — Principled approaches to AI in education
 - [[teacher-ai-teaming-five-levels]] — Teacher–AI teaming across five levels
 - [[ai-communities-of-inquiry-2026]] — AI and communities of inquiry
 

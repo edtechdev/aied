@@ -18,7 +18,7 @@ confidence: high
 - Some scholars describe generative AI's spread into education as a form of 'colonization' that extracts data, labor, and resources from marginalized communities. Does that framing feel extreme, or does it name something real?
 - Critical AI literacy can include 'resisting AI' — refusing the inevitability of tech as a solution. In what situations might strategic refusal or non-use be a more responsible choice than adoption?
 - Who gets to decide what counts as authoritative knowledge? If [[ai-technologies|AI systems]] are positioned as authoritative, what happens to learners' own lived and community epistemologies?
-- Under critical pedagogy, a teacher is not a neutral transmitter of AI skills but a facilitator who helps learners interrogate the politics of AI. How comfortable are you with that role, and what would it ask of you?
+- Under critical pedagogy, a teacher is not a neutral transmitter of AI skills but a facilitator who helps [[learners]] interrogate the politics of AI. How comfortable are you with that role, and what would it ask of you?
 
 ## Introduction
 

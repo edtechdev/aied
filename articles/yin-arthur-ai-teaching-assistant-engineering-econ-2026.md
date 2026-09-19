@@ -43,7 +43,7 @@ discipline: [engineering education]
 ## Connected Articles
 
 - [[reddig-maclellan-personalized-feedback-llm-2026]] — LLM-based error diagnosis and personalized feedback for tutors on structured problems
-- [[llm-tutoring-feedback-diagnosis-gap]] — diagnosing feedback gaps in AI tutoring
+- [[yasir-llm-tutoring-agents-2026]] — diagnosing feedback gaps in AI tutoring
 - [[making-ai-tutoring-productive-mastery-math-2026]] — productive AI tutoring for mastery learning in mathematics
 - [[llm-formative-feedback-systematic-review-2026]] — systematic evidence on LLM-generated formative feedback
 - [[oatutor-open-source-adaptive-tutor-2023]] — an open-source adaptive tutoring platform

@@ -58,7 +58,7 @@ page_kind: [evaluation]
 
 - [[chatgpt-teachable-agent-programming-lbt-2024]] — ChatGPT as a teachable agent in programming
 - [[prompting-teachability-novice-personas-lbt-2026]] — Designing novice personas for teachability
-- [[ai-tutor-safety-harms]] — Safety and harms of AI tutoring
+- [[hazra-safetutors-pedagogical-safety-2026]] — Safety and harms of AI tutoring
 - [[curiobot-llm-tutoring-exploratory-learning]] — LLM tutoring for exploratory learning
 
 ## Citation

@@ -52,7 +52,7 @@ The framework was piloted through a faculty workshop series in a university [[ph
 
 - Extends [[universities-ai-era-rethinking]] by providing a concrete framework for institutional adaptation, not just rethinking
 - Complements [[educational-development]] by adding the change-agent and student-partner dimensions missing from playbook-centered approaches
-- Connects to [[principled-ai-education]] — the framework operationalizes Finkelstein's goals-models-technologies lens at the institutional level
+- Connects to [[finkelstein-principled-ai-education-2025]] — the framework operationalizes Finkelstein's goals-models-technologies lens at the institutional level
 - Relates to [[higher-ed]] and [[teacher-role]] — redefining instructor and institutional roles in AI-era education
 - Aligns with [[ai-literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
 - Contrasts with [[scaffolding]] and [[pedagogy-ai-mistakes]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
@@ -83,7 +83,7 @@ The framework was piloted through a faculty workshop series in a university [[ph
 
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: redesigning authentic assessment in an AI-mediated world (Kickbusch et al. 2025)
 - [[universities-ai-era-rethinking]]
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[pedagogy-ai-mistakes]]
 ## Citation
 

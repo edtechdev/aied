@@ -44,7 +44,7 @@ Cognitive offloading varied with teaching experience, school level, school type,
 - **[[ai-literacy|AI literacy]] must extend beyond technical proficiency** to reflective awareness and evaluative judgment about when, why, and how to delegate cognitive tasks. Guided reflection cycles (recognition, evaluation, delegation, observation, re-engagement) can support deliberate, ethical AI use.
 - **Teachers need pedagogical data literacy** to interpret AI-generated analytics, identify what is highlighted or obscured, and translate outputs into instructional decisions without over-reliance on automated indicators.
 - **Schools should cultivate reflective ecosystems** — collaborative design labs and professional learning communities that normalize open discussion of the cognitive, ethical, and emotional challenges of AI use.
-- **Policy should balance efficiency with cognitive [[well-being|well-being]]**, moving toward governance that monitors cognitive dependence, promotes reflective use, and safeguards teachers' attentional health (e.g., mandated reflection sessions, workload reviews, continuous ethical training).
+- **Policy should balance efficiency with cognitive [[well-being]]**, moving toward governance that monitors cognitive dependence, promotes reflective use, and safeguards teachers' attentional health (e.g., mandated reflection sessions, workload reviews, continuous ethical training).
 
 ## Connected Concepts
 

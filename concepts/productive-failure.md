@@ -109,6 +109,6 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Learning
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes
-- [[principled-ai-education]] — Principled AI in Education
+- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[crewscaler-ai-upskilling-framework]] — AI Upskilling Framework (productive failure as a tutoring protocol)
 

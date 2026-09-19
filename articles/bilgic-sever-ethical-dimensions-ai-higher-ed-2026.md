@@ -52,7 +52,7 @@ This paper grounds the knowledge base's treatment of [[ethics]] in [[higher-ed]]
 ## Connected Articles
 
 - [[ai-ethics-bibliometric-2026]]
-- [[principled-ai-education]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[shin-ai-policies-sld-2026]]
 - [[moral-panic-genai-classroom]]
 
