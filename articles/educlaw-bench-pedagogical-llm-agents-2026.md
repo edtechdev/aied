@@ -1,7 +1,7 @@
 ---
 title: "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners"
 created: "2026-08-05T04:33:04-04:00"
-updated: "2026-08-28T15:00:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agentic-ai, curriculum-design]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulation, student-modeling]
@@ -28,11 +28,20 @@ Large language models (LLMs) power educational applications from tutoring to ess
 5. **The five axes are largely independent.** Pairwise Spearman correlations on the openclaw adapter are near zero (e.g., ρ(I,III) ≈ −0.12), so a scalar composite would discard signal; a naive "one number" benchmark would hide which capability is failing.
 6. **Reinforcement fine-tuning can silently degrade pedagogy.** LoRA RFT on the Small tier drove metaclaw-rft to near-zero learning gain while holding helpfulness flat (4.73 → 4.76), but openclaw-rl-rft collapsed in helpfulness (3.19 → 2.30) with no loss of responsiveness — a collapse invisible to leak- or refusal-based checks, surfacing only on the pedagogy axes.
 
-## Implications
+## What this means for practice
 
-EduClaw-Bench makes the case that **tutoring must be evaluated over a sustained relationship, not a single turn or session**. The long-horizon finding directly challenges short-session [[benchmark|benchmarks]]: an agent can appear responsive while producing no durable [[learning-gains|learning gain]], and a reinforcement-trained system can optimize a reward while degrading its pedagogy. The joint base-model/harness result implies that [[intelligent-tutoring]] development must treat the [[llm|model]] and the agent harness as a coupled system, and that the knowledge base's existing [[agentic-ai]] evaluation methods should include [[simulation]]-based, long-horizon measurement rather than one-off prompts.
+- **Designers.** Benchmark a tutor over a sustained relationship before shipping it, not in a single session: every adapter plateaued by day 5–10, and openclaw's learning gain stalled near 0.28–0.29 against the ideal-learning reference.
+- **Designers.** Evaluate the base model and the agent harness as a coupled pair on every tier you intend to deploy — no adapter led the learning-gain axis on more than one of the three base-model tiers, so a single-tier leaderboard re-ranks the same systems.
+- **Designers.** Add the curriculum-design axes to your acceptance suite: even the best Gagné score reached only about 1.93 against a 5.0 ceiling, so exposing the [[knowledge-tracing|knowledge-tracing]] belief through the LMS does not by itself produce coherent instruction.
+- **Designers.** Re-audit pedagogy after any reinforcement fine-tuning: LoRA RFT drove metaclaw-rft to near-zero learning gain with helpfulness flat (4.73 → 4.76), and openclaw-rl-rft's helpfulness collapsed (3.19 → 2.30) without any leak- or refusal-based signal.
+- **Researchers.** Diagnose failures with the mode breakdown (no-curriculum 48.5% of runs, no-learning-gain 53.3%, answer disclosure ≈0%) and keep the five near-independent axes separate rather than collapsing them into a composite score.
 
-The curriculum-design axes connect to [[curriculum-design]] and the Gagné/Rosenshine traditions, reinforcing that [[student-modeling]] (here, KT-driven mastery) must be paired with pedagogical structure to produce coherent instruction. The calibration and field-study validation point toward [[ai-ed-evaluation]] that is psychometrically grounded rather than judged in a vacuum. The RFT collapse is a concrete warning for the [[pedagogical-llm-training|training and fine-tuning]] community: reward signals that ignore pedagogy can quietly destroy the very behaviors a tutor needs.
+## Limitations
+
+- The learner is simulated: the [[student-modeling|mastery model]] is trained on real-student data and calibrates well (ECE 0.049, Brier 0.033 over 1.19M attempts), but the paper states it remains a [[simulation]] rather than a full substitute for classroom learners.
+- Every run uses a single seed (42) and fixes student ability at "average"; the 55 scenarios vary only persona seeds, and multi-seed confidence intervals are left to future work.
+- Each tier is run with four LLM students (solarmini, llama-3.1-8b-instruct, qwen-2.5-7b-instruct, gemma3-4b-it), so a student succeeds about half the time (pass1 near 0.47) and all four rarely do together (pass4 near 0.11).
+- Helpfulness rests on a cross-family panel of three LLM judges scoring stratified 40-item samples per axis, and the live-classroom evidence is educator follow-up reports whose systematic analysis is left to future work.
 
 ## Connected Concepts
 

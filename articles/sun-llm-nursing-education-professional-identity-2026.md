@@ -1,7 +1,7 @@
 ---
 title: "When the algorithm enters the classroom: A critical integrative review of large language models, nursing education"
 created: "2026-09-07T08:25:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [curriculum-design, learner-identity]
 technology: [generative-ai, llm]
@@ -32,20 +32,13 @@ The review's central conceptual contribution formalizes a single criterion — w
 
 The authors propose this mechanism to reframe findings where AI appears to *outperform* nurses on relational metrics (e.g. an AI scoring higher than nurses on empathy ratings in a high-volume, 54.9 cases/hour context). Distinct from compassion fatigue (individual exhaustion) and emotional labor (managing emotional expression), it operates structurally: when systemic overwork makes authentic human empathic expression unsustainable and algorithmically consistent AI responses fill the gap, the AI appears comparatively empathetic — and the identity-constituting significance of nursing practice transfers to the algorithm. It reframes the policy question from "how effective is this technology?" to "what conditions are making this technology appear necessary?"
 
-## Implications for Educators and Curriculum Designers
-
-- **Design for cognitive agency, not efficiency.** Position LLMs as reasoning partners rather than answer sources; evaluate applications by their effect on students' independent reasoning, judgment, and reflection, not primarily on workload reduction.
-- **Apply the dual-pathway test.** LLMs are safest for displacing extraneous or routine work (documentation, information retrieval) and riskiest when they supply complete reasoning chains, ethical justifications, or individualized care plans — the cognitive work constitutive of [[professional-training|competence]].
-- **Assess capability, not just performance.** Outcomes measured while an LLM is available may index fluent performance rather than durable capability; use delayed, no-tool post-tests and transfer tasks on unfamiliar clinical presentations.
-- **Address equity and [[regulation]].** Mandating LLM integration without addressing access disparities (subscription costs, detection-tool bias against non-native speakers) risks widening educational inequities; frameworks should require evidence that implementations preserve developmental processes.
-
 ## What this means for practice
 
 - **Administrators.** Investigate the structural conditions that make AI look like the answer before adopting it: the review's Structural Empathy Suppression mechanism suggests an agent can outscore nurses on empathy ratings when caseloads and staffing already make sustained human empathy unsustainable.
 - **Curriculum designers.** Keep participatory formation experiences — clinical simulation, placement, patient and peer interaction — required and non-substitutable, because [[learner-identity|professional identity]] forms through participation rather than through receiving correct information.
-- **Researchers.** Target the highest-consequence gaps: the Evidence Gap Map found zero randomized or quasi-experimental studies of professional identity, only three of relational and ethical competency, and no study with follow-up beyond 12 months.
-- **Policymakers.** Require every implementation framework to state which cognitive work the LLM displaces and whether that work was extraneous to or constitutive of the competence being developed, turning the review's dual-pathway criterion into procurement and approval criteria.
-- **Medical educators.** Build structured nurse–AI collaboration exercises into clinical courses rather than AI answer services, since controlled evidence favors implementations that preserve student cognitive agency.
+- **Researchers.** Target the highest-consequence gaps: the Evidence Gap Map found zero randomized or quasi-experimental studies of professional identity, only three of relational and ethical competency, and no study with follow-up beyond 12 months — and measure capability rather than performance, since outcomes measured while an LLM is available may index fluent performance rather than durable capability, so use delayed, no-tool post-tests and transfer tasks on unfamiliar clinical presentations.
+- **Policymakers.** Require every implementation framework to state which cognitive work the LLM displaces and whether that work was extraneous to or constitutive of the competence being developed, turning the review's dual-pathway criterion into procurement and approval criteria — and require evidence that implementations preserve access as well as developmental processes, since paid-tier subscription costs and detection-tool bias against non-native speakers can widen inequities.
+- **Medical educators.** Build structured nurse–AI collaboration exercises into clinical courses rather than AI answer services — position LLMs as reasoning partners rather than answer sources, and judge them by their effect on students' independent reasoning, judgment and reflection rather than by workload reduction — since controlled evidence favors implementations that preserve student cognitive agency.
 
 ## Limitations
 

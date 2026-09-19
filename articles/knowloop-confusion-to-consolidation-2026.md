@@ -1,7 +1,7 @@
 ---
 title: "From Confusion to Consolidation: A Staged Conversational Workflow for Post-Lecture Review"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-08-26T15:35:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
@@ -43,12 +43,20 @@ The Consolidate stage consistently exposed gaps between what learners believed t
 - The transition into teach-back felt abrupt and anxiety-inducing
 - Participants wanted the ability to switch between Resolve and Consolidate fluidly
 
-## Design Implications
+## What this means for practice
 
-1. **Anchor AI support in learners' own difficulties** — confusion points, whether marked manually or inferred, provide [[personalized-learning|personalized]] entry points for review
-2. **Distinguish clarification from consolidation through separate agent roles** — these require qualitatively different conversational relationships
-3. **Support fluid transitions** between stages — learners experience Resolve and Consolidate as interleaved, not strictly sequential
-4. **Context-grounded AI outperforms general-purpose AI for lecture review** — knowing the lecture content enables more targeted, efficient support
+- **Instructors.** Have learners mark confusion moments live during a lecture and use those marks as the review agenda; confusion density varied so much across the 22 participants that no single lecture segment was reliably confusing for everyone.
+- **Instructors.** Separate the clarifying role from the teach-back role rather than relying on one assistant for both, because the two stages require qualitatively different conversational relationships.
+- **Learners.** Treat review as two distinct jobs — get the confusion point clarified first, then explain the idea aloud — since articulation surfaced gaps that clarification had left hidden.
+- **Instructors.** Build in fluid movement between clarification and teach-back; learners experienced the stages as interleaved, and the switch into teach-back landed as abrupt and anxiety-inducing.
+- **Designers.** Keep [[teacher-role|agent]] responses short, lecture-anchored and one confusion point at a time; participants found longer, text-heavy answers unhelpful and wanted room for broader exploration than the assistant allowed.
+
+## Limitations
+
+- The user study had 22 participants, all with [[stem-education|STEM]] backgrounds and low [[prior-knowledge|prior knowledge]] of the material, working through a single 18-minute introductory [[reinforcement-learning|reinforcement learning]] lecture — the authors call generalizability limited.
+- Only short-term review interactions were studied; no long-term learning outcomes were measured, so retention effects are unknown.
+- This is an exploratory qualitative experience study, not a controlled comparison against a no-AI condition or a general-purpose chatbot.
+- Individual differences in metacognitive ability were not assessed, though the authors expect them to shape confusion-marking behavior and workflow engagement.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Artificial intelligence in interdisciplinary higher education: A systematic review on opportunities, challenges and future directions"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration]
 ethics: [equity-in-ai-education, ethics]
@@ -36,18 +36,9 @@ methods: [meta-analysis-systematic-review]
 - **A deliberately broad definition of interdisciplinary:** Following Moran (2010), the review treats interdisciplinary as dialogue or interaction among two or more disciplines, acknowledging that multi-, inter-, cross- and transdisciplinary boundaries frequently blur in educational practice.
 - **A descriptive framework rather than a meta-analysis:** The review maps the field across six interdisciplinary forms, three research focuses and four AI roles (evaluator, agent, monitor, assistant), then synthesizes these into the interdisciplinary human-AI interactive learning model.
 
-## Implications for AI in Education
-
-- **Embed AI in genuinely integrative tasks:** Course instructors should design AI-supported activities that promote interdisciplinary [[problem-solving]] and cross-domain synthesis, keeping AI as a mediator of disciplinary boundaries rather than a substitute for human thinking.
-- **Build institutional governance first:** [[governance|Institutions]] should establish clear policies on AI ethics, bias, transparency and student data [[privacy]] before scaling AI across programs, ensuring integration is institutionally guided rather than technology-driven.
-- **Invest in sustained [[educational-development|professional development]]:** Educators need continuous training in practical [[ai-literacy|AI literacy]] so they move from passive users to active co-designers who can orchestrate AI roles and preserve [[pedagogy|pedagogical]] agency.
-- **Address equity and access explicitly:** [[stakeholders|Policymakers]] should ensure equitable access to AI tools and differentiated support by AI literacy, since access gaps, discipline-specific barriers and uneven literacy risk creating new disparities.
-- **Align AI use with sustainability and citizenship goals:** Programs should connect AI-supported interdisciplinary work to [[sustainability]] and global citizenship, embedding ethical reflection alongside technical training.
-- **Strengthen evaluation rigor:** Future studies should adopt longer interventions, larger samples and validated assessment instruments, and report effect sizes to counter the field's reliance on short, context-specific and hard-to-generalize designs.
-
 ## What this means for practice
 
-- **Instructors.** Design AI-supported activities that mediate disciplinary boundaries rather than substitute for human thinking, keeping AI in the assistant role it played in 43 of the 59 reviewed studies.
+- **Instructors.** Design AI-supported activities that mediate disciplinary boundaries rather than substitute for human thinking, keeping AI in the assistant role it played in 43 of the 59 reviewed studies and promoting interdisciplinary [[problem-solving]].
 - **Administrators.** Establish policies on AI ethics, bias, transparency and student data privacy before scaling AI across programs, so integration is institutionally guided rather than technology-driven.
 - **Administrators.** Fund sustained professional development and target access gaps explicitly, since the evidence base comes mostly from technologically advanced regions and educators need to move from passive users to active co-designers.
 - **Instructors.** Connect AI-supported interdisciplinary work to sustainability and global citizenship goals, embedding ethical reflection alongside technical training.

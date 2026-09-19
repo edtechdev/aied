@@ -1,7 +1,7 @@
 ---
 title: "Young People, Learning, and Generative AI: A Rapid Literature Review and Implications for PreK-12 Education"
 created: "2026-08-19T12:00:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, reducing-ai-misuse]
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
@@ -54,28 +54,11 @@ Building on Shaw and Nave's (2026) *cognitive surrender*, the review's central p
 
 These are not fixed properties of a practice but of how a practice is enacted. This connects directly to the knowledge base's treatment of [[cognitive-offloading|adaptive vs. maladaptive offloading]] and [[reducing-ai-misuse]].
 
-## Implications for teaching and learning
-
-- **Design for intentional GenAI use** tied to the learning goal; unmodified general-purpose tools are not neutral add-ons and can let students bypass the cognitive/metacognitive friction needed for learning.
-- **Clarify the pedagogical function** (from/with/about/by-shaping) to decide what agency, judgment, and accountability the activity requires.
-- **Foster [[agency|student agency]] in learning-relevant work** — judge GenAI use by what students remain able and responsible to do (read, reason, explain, check, revise, judge, monitor).
-- **Teach students to regulate GenAI tool use** — stage-appropriate guidance on when to use it, how to monitor its effects on thinking, and when independent effort is important. Especially important for younger learners and those with less prior knowledge.
-- **Evaluate learning beyond immediate performance** — evidence aligned with the intended purpose, including process records, oral explanations, transfer/delayed tasks, and capability demonstrated without GenAI.
-- **Position [[teacher-role|teachers]] to do what only teachers do** — relational, pedagogical, higher-order work; hybrid human–GenAI arrangements are promising but place *greater* demands on teacher expertise, requiring time, training, and support.
-
-## Implications for leadership, policy, and system design
-
-- **Move beyond adoption-or-ban.** Unrestricted use carries bypass risks; prohibiting all use leaves students underprepared for the open-ended tools they will meet beyond school.
-- **Build developmentally responsive guidance** — a staged approach responsive to age, prior knowledge, and self-regulatory capacity, distinguishing beneficial from detrimental offloading.
-- **Make learning visible across varied configurations** — assessment based on a range of evidence beyond the immediate product.
-- **Build system capacity, [[governance]], and shared responsibility** — professional learning, and treating [[governance]], [[equity-in-ai-education|equity]], and [[pedagogy]] together (uneven access, [[privacy]], safety, procurement).
-- **GenAI literacy is necessary but insufficient** — students also need foundational domain knowledge to reason and judge, alongside questioning, critique, synthesis, [[ethics|ethical]] judgment, and coordination skills.
-
 ## What this means for practice
 
 - **Instructors.** Name the pedagogical function before choosing the tool — learning [[generative-ai|from]], with, about, or by shaping GenAI — and judge the activity by what students remain responsible for: reading, reasoning, explaining, checking, revising, judging, and monitoring.
 - **Instructors.** Keep productive friction in the task by having tools withhold answers and prompt explanation, and evaluate with evidence beyond the immediate product (process records, oral explanations, delayed or transfer tasks, unaided performance), because gains are concentrated in immediate performance and learner-reported confidence.
-- **Instructors.** Teach [[self-regulated-learning|regulation]] of GenAI explicitly and stage it to age and prior knowledge — when to use it, how to monitor its effect on thinking, when independent effort is the point — since [[metacognition|metacognitive]] inequity leaves weaker self-regulators most exposed to detrimental offloading.
+- **Instructors.** Teach [[self-regulated-learning|regulation]] of GenAI explicitly and stage it to age and prior knowledge — when to use it, how to monitor its effect on thinking, when independent effort is the point — since [[metacognition|metacognitive]] inequity leaves weaker self-regulators most exposed to detrimental offloading. GenAI literacy is necessary but not sufficient: students also need the foundational domain knowledge to question, critique and judge what a tool produces.
 - **Learners.** Delegate after an initial attempt, then verify, elaborate, and connect the output to your own understanding; treat a fluent interaction as a prompt to check comprehension rather than proof that it landed, because perceived learning rises even when retention does not.
 - **Administrators.** Replace adoption-or-ban with developmentally responsive guidance and fund the training and [[governance]] hybrid human–GenAI arrangements demand: teacher–GenAI combinations often outperform either alone but require more teacher expertise, and access, privacy, safety, and procurement must be handled together.
 

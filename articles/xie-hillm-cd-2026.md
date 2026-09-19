@@ -1,7 +1,7 @@
 ---
 title: "HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis"
 created: "2026-08-09T10:38:47-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, cognitive-diagnosis, generative-ai, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -38,9 +38,20 @@ On MOOCCubeX across [[cs-education|Computer Science]], [[math-education|Mathemat
 - **+11.4% AUC** on computerized adaptive testing (CAT)
 - Ablation confirms both the concept tree structure and order-based distillation are essential
 
-## Implications for AI in Education
+## What this means for practice
 
-HiLLM-CD advances [[knowledge-tracing]] and [[student-modeling]] by making cognitive diagnosis fully automated and hierarchically interpretable. The concept tree approach connects to [[adaptive-learning]] systems that need structured student models for personalized content sequencing. By eliminating expert annotation requirements, it enables scalable deployment of [[cognitive-diagnosis]] to new domains. The LLM teacher approach for proficiency supervision suggests a broader pattern where LLMs guide learning of interpretable student representations, relevant to [[personalized-learning]] and [[intelligent-tutoring]].
+- **Software developers.** Take the unannotated path: the multi-agent pipeline induces concept trees and exercise-concept links from course text alone, so a new subject can be onboarded without commissioning an expert Q-matrix or prerequisite graph.
+- **Software developers.** Supervise proficiency with order-based distillation rather than absolute-value targets; the ablation shows the tree structure and the order-based supervision are each necessary for the reported gains, so neither can be dropped to simplify the build.
+- **Software developers.** Use the tree-structured encoder-decoder when you must estimate ability from few responses — propagating information along related concepts is what lets the model produce accurate estimates early in a [[knowledge-tracing|trace]].
+- **Designers.** Expose coarse-to-fine drill-down instead of a single overall proficiency score: in the reported case study a student's parent-node estimate looked moderate while the child "Selection algorithms" node was a critical weakness, and only the child level located the gap.
+- **Software developers.** Audit the generated concept structure against expert-built trees before scaling, and plan the audit deliberately — the paper's expert comparison covers two experts on one subject only.
+
+## Limitations
+
+- **Single platform.** All four subject datasets are built from one MOOC resource (MOOCCubeX, XuetangX), so the gains are untested against other course structures, assessment formats, or student populations.
+- **Very uneven subject samples.** Dataset sizes range from 47 students (Biology) and 51 (Mathematics) to 419 (Computer Science) and 571 (Physics), leaving the smallest subjects as the least stable evidence in the four-subject average.
+- **Reference is model-generated.** Proficiency quality is scored by alignment with a GPT-4.1 teacher's reference profile (Kendall's τ, Spearman's ρ, RMSE) rather than a human-verified ground truth, and expert agreement was checked only on the Mathematics subset.
+- **Not every baseline was unannotated.** For a fair comparison, prerequisite relations for one structure-aware baseline were manually annotated on the Mathematics dataset, so the "fully unannotated" setting describes HiLLM-CD's own pipeline rather than the whole experiment.
 
 ## Connected Concepts
 

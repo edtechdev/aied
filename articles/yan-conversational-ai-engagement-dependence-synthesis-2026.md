@@ -1,7 +1,7 @@
 ---
 title: "A Critical Narrative Synthesis of Psychological Correlates, Measurement, and Reported Findings on Conversational AI Engagement and Dependence-Related Constructs"
 created: "2026-09-06T08:20:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, student-engagement, well-being]
@@ -24,10 +24,6 @@ page_kind: [synthesis, framework]
 - **Both supportive and harmful experiences are reported:** [[qualitative-research|Qualitative]] and quasi-experimental work documents both relational support (perceived disclosure, lower loneliness in some settings) and distress linked to emotionally significant use, with limited, context-dependent evidence of short-term reductions in loneliness and social anxiety.
 - **Evidence is largely low leverage:** Of 22 first-order empirical records, 16 (72.7%) provided lower-leverage evidence for directional claims and six moderate-leverage evidence; none supported a firm causal model, and direct cross-cultural and platform-comparative research remains rare.
 - **A provisional framework:** Separating use orientation (instrumental-cognitive vs. relational-emotional) from regulation offers an interpretive — not validated — way to organize the field; frequent use, reliance, or attachment should not be labeled dependence without impaired control or functional harm.
-
-## Implications for AI in Education
-
-For educators and [[research-methods-aied|researchers]] the review clarifies a critical distinction relevant to [[ai-education|AI in education]]: productive [[cognitive-offloading|cognitive delegation]] to AI differs from dysregulated dependence, and claims about educational over-reliance (e.g. Zhai et al., 2024) must not be conflated with relational attachment or [[medical-education|clinical]] addiction constructs. It argues for design-matched claims and careful measurement — choosing instruments whose item content matches the intended construct — which matters for studies of [[student-engagement|engagement]] with [[intelligent-tutoring|AI tutors]] and chatbots in [[higher-ed|higher education]]. The provisional instrumental/relational framing also invites attention to how learners use AI for [[metacognition|thinking support]] versus emotional companionship, and to the [[ethics|ethical]] and [[well-being]] dimensions of emotionally significant AI use.
 
 ## What this means for practice
 

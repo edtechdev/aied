@@ -1,7 +1,7 @@
 ---
 title: "Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation"
 created: "2026-09-03T09:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [student-engagement]
@@ -38,10 +38,6 @@ The multimodal transformer achieved the best mean test performance (MAE 0.283, R
 2. **Runtime is feasible** — on an A100, the warm end-to-end pipeline averaged 50.65 ms per prediction window at a one-second stride (the temporal model itself 1.02 ms), supporting real-time classroom deployment.
 
 The core lesson is [[research-methods-aied|methodological]]: an in-processing regularizer that appears to equalize error on a validation split can fail when evaluated on new subjects, because demographic imbalance and subject-level variance are the real drivers of disparity.
-
-## Implications for Learning Analytics and Educational AI
-
-For [[learning-analytics]] and classroom AI, the paper argues that fairness cannot be certified from aggregate metrics or a single validation split. It recommends subgroup-aware evaluation, repeated subject-level (leave-subjects-out) validation, and datasets that are larger and more balanced demographically — precisely because a model can look fair on average while erring systematically for certain age or gender groups in the naturalistic classroom. This positions fair [[affective-computing|affective]] sensing as a distinct evaluation discipline within educational AI rather than a byproduct of good predictive accuracy, with direct relevance to how attention- and engagement-based [[assessment]] tools are validated before deployment.
 
 ## What this means for practice
 

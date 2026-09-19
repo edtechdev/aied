@@ -1,7 +1,7 @@
 ---
 title: "Interactive learning dashboards: rethinking learning visualisations as engagement tools"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent, visualization]
@@ -39,6 +39,21 @@ The paper challenges the dominant LAD paradigm of "show data → hope for insigh
 3. **LLMs enable scalable interactivity** — the pedagogical agent can ask personalized questions at scale, bringing ITS-style dialogue to dashboard contexts
 
 These findings connect to broader [[self-regulated-learning]] theory and the [[metacognition]] literature on judgment calibration.
+
+## What this means for practice
+
+- **Instructors.** Make learners commit to a Judgment of Learning before they can see a system rating; requiring the self-rating first is what produced the calibration gains, and 83% of participants submitted one just to see how the system rated them.
+- **Learning analytics designers.** Build an eliciting agent rather than a telling one. In the elicit condition judgment accuracy correlated with system mastery (r = 0.408, p < .001) while the tell condition showed no significant correlation with any metric (r = 0.143, p = 0.206).
+- **Learning analytics designers.** Adopt evolution of judgment accuracy as a dashboard outcome measure and track it over time: in the elicit condition the JoL–mastery correlation rose from r = 0.332 in the first period to r = 0.482 (p < .001) in the third, giving an instrument for whether [[metacognition|calibration]] actually improves.
+- **Instructors.** Plan for imperfect agent output and design around it. 13% of 284 randomly sampled LLM responses were faulty, concentrated when students asked for things outside the agent's intended capability, though the rate fell as students learned where it helped.
+- **Learning analytics designers.** Budget for inference cost and guardrails before a cohort-wide rollout: each student message triggered between one and ten API calls, and the authors flag the compounded cost and energy use of weekly use at scale.
+
+## Limitations
+
+- **Thirty self-selected, paid participants.** One introductory algorithms and data structures course at a single European university; the authors call the work an exploratory case rather than a confirmatory experiment and name self-selection bias explicitly.
+- **Engagement was incentivized.** Participants were compensated and asked to use the ILAD at least once a week for any three weeks, so the observed engagement levels cannot be read as voluntary adoption.
+- **Small cells behind the JoL findings.** Judgment observations split into n = 104 (elicit), 80 (tell), and 118 (none), falling to 18–37 per condition per time period; the authors state the small sample size limited the ability to claim significant differences.
+- **Short window and approximated engagement.** Five weeks of deployment with no direct behavioral measure of changed study practice or exam performance, and viewing of the static visualizations measured only through self-report.
 
 ## Connected Concepts
 

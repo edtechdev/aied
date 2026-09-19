@@ -1,7 +1,7 @@
 ---
 title: "CODE-GEN: A Human-in-the-Loop RAG-Based Agentic AI System for Multiple-Choice Question Generation"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, llm, rag]
@@ -77,9 +77,20 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 
 CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop-ai]] oversight must be maintained.
 
-### Implications for AI in Education
+## What this means for practice
 
-CODE-GEN offers a concrete, evidence-based map of the human-AI division of labor in educational content generation. For [[automated-question-generation]] in [[cs-education|programming education]], RAG grounding plus tool augmentation can scale the creation of context-aligned assessment banks, with AI reliably handling alignment to learning objectives and computational/code verification. But its results carry a caution for [[assessment-validity]] and [[trust]] systems: automated evaluators are not trustworthy ground truth by default, and pedagogically meaningful distractors and concept-elaborating feedback — central to measuring deep understanding and to targeting common [[misconceptions]] — remain human responsibilities. The design principle of treating a critique agent's judgment as an empirical object to be validated against experts is transferable beyond item generation, informing how [[human-in-the-loop-ai]] quality assurance should be structured across [[automated-assessment]] workflows. The system's weaker dimensions also flag where future work should focus: making automated generation and evaluation more pedagogically sophisticated rather than merely more technically fluent.
+- **Designers.** Delegate first the dimensions where correctness is computationally verifiable: human-validated success reached 98.6% for concept alignment, 97.9% for stem clarity, and 95.5% for code validity.
+- **Designers.** Keep expert reviewers on the pedagogical dimensions — distractor quality was the weakest at 79.9% success with 15.6% failure and distractor feedback at 86.1% — because these require anticipating common [[misconceptions]], not checking correctness.
+- **Designers.** Validate an automated [[human-in-the-loop-ai|critique agent]] against experts before trusting its verdicts: SME agreement ranged 82.5%–98.4%, and the Validator both approved instructionally shallow items and confused answer value with option position.
+- **Designers.** Augment both agents with deterministic tools (an arithmetic expression evaluator and a sandboxed Python runner) instead of relying on the model for computation and code execution.
+- **Researchers.** Treat the evaluator's judgment as an empirical object and keep the disagreement cases; the 131 qualitative feedback instances are a usable seed set for pedagogical alignment work.
+
+## Limitations
+
+- Six SMEs (three men, three women) rated 288 generated questions, yielding 2,016 human–AI rating pairs; the rater pool is small and all of them taught introductory programming.
+- The study is confined to introductory Python: the authors note the architecture is not domain-specific, but no other subject area was tested.
+- Items were rated by experts rather than deployed in a course, so effects on student learning or [[assessment-validity|assessment validity]] in authentic settings are unmeasured.
+- The Generator (GPT-4.1) and Validator (GPT-5-mini) are specific commercial models, so dimension-level success rates may not transfer to other backbones.
 
 ## Connected Concepts
 

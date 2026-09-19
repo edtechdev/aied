@@ -1,7 +1,7 @@
 ---
 title: "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts"
 created: "2026-08-06T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 technology: [generative-ai, multimodal, visualization]
 audience: [software developers]
@@ -38,11 +38,20 @@ The paper asks three questions: whether domain-specific fine-tuning can close th
 - **More images and prompt rewording did not rescue accuracy.** For 20 prompts on which all three models failed, four extra generations per prompt left SD-v3.5-Medium and Flux.1 inaccurate in all 40 instances and SDXL closer in only 3 of 20. Five reworded variants of five failed prompts also failed to help, leading the authors to conclude that accuracy depends mainly on the quality of fine-tuning rather than on prompting.
 - **Commercial systems were better at the general concept and still wrong on the details.** GPT-Image-2.0, Gemini-3.1-Flash-Image, and Midjourney were run on the same 300 prompts. GPT-Image-2.0 cost roughly \$64 and took about 16 hours with no failures; Gemini-3.1-Flash-Image cost about \$20 and finished in around 45 minutes but failed on 15 prompts with server errors (eventually rerun to zero); Midjourney was only accessible through a third-party API at ~\$30/month for about 375 images, generating 297 of 300. GPT-Image-2 and Gemini were substantially better than Midjourney at recognizing nuclear concepts, yet still missed design details — and Gemini produced annotated diagrams with correct English words used incorrectly, labeling a pump as a "compressor" in a thermal-cycle diagram.
 
-## Implications
+## What this means for practice
 
-For AIED, the paper's transferable lesson is about *evaluation validity in specialized domains*. A school or department adopting a generative image tool for [[visualization]] in a technical field cannot rely on off-the-shelf metrics to judge whether the tool is accurate: on nuclear imagery the standard embedding-based scores contradicted expert judgment, and only human assessment reliably identified which checkpoint was usable. The authors' recommendation to keep the qualitative step human echoes the wider [[ai-ed-evaluation|AI evaluation]] problem of benchmarks that are cheap to compute but wrong about the construct.
+- **Instructors.** Do not put generated diagrams in front of learners without expert checking in a safety-critical domain: on 300 prompts, SD-v3.5-Medium failed to produce a reasonably close image in 250 cases and SDXL failed in 84, while Flux.1 failed on all 300.
+- **Developers.** Rank checkpoints by human judgment rather than by embedding metrics; for both Stable Diffusion models the lowest KID and lowest CMMD belonged to different checkpoints, CLIP score ranked the zero-shot models best, and only the human comparison tracked expert assessment.
+- **Instructors.** Use commercial models for broad concept [[visualization]] but not for technical detail: GPT-Image-2.0 and Gemini-3.1-Flash-Image recognized nuclear concepts better than Midjourney, yet still missed design details, and Gemini labeled a pump as a "compressor" in a thermal-cycle diagram.
+- **Developers.** Do not generalize a domain-adaptation result across architectures: on the same 1,000 captioned images, [[generative-ai|fine-tuning]] substantially helped SDXL, gave limited gains for SD-v3.5-Medium, and produced no measurable improvement for Flux.1 — the [[ai-ed-evaluation|evaluation validity]] problem the study documents is that a cheap metric would have reported the opposite.
+- **Administrators.** Budget human assessor time and long training runs: the best SDXL checkpoints were the last ones saved (35,000 steps), and neither extra generations per prompt nor reworded prompts rescued the prompts all three models failed.
 
-The second lesson is about the limits of "just fine-tune it". Domain adaptation worked for one architecture and essentially failed for two others trained on the same data, so a domain-specific claim from one model is not evidence about another. Commercial models remain the more convenient default and were the better option for broad concept illustration, but the authors' conclusion is that they cannot yet be relied on for specialized nuclear imagery — a cautionary result that generalizes to any domain where plausible-looking but technically false visuals would mislead learners.
+## Limitations
+
+- The training corpus is 1,000 captioned images with captions taken from the source publications, which the authors state may be short and insufficiently descriptive; they call for datasets of hundreds of thousands of images.
+- Assessment depended on human involvement for every generation — a cost the authors list as a limitation — and the quantitative metrics required a reference image to be meaningful.
+- CLIP score disagreed with expert judgment, so the study ended with no validated automatic metric for this domain; the authors propose training a nuclear-specific embedding model.
+- Hardware constrained the comparison: only full fine-tunes of SDXL and SD-v3.5-Medium plus a LoRA fine-tune of Flux.1 at a 256×256 rank were possible, so larger models (SD-v3.5-Large, full Flux.1) were never tested.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Human-centered GenAI feedback design in higher education: a multisite experiment on direct, reflective, and hybrid approaches to scientific argumentation"
 created: "2026-08-07T04:33:04-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agency, critical-thinking]
 pedagogy: [self-regulated-learning, transfer-of-learning]
@@ -60,6 +60,21 @@ Direct GenAI [[feedback]] may encourage passive uptake — students outsource ev
 The core insight: **GenAI's educational value depends less on AI access per se than on whether feedback environments preserve student agency, evaluative judgment, and ownership during revision.**
 
 g revision.**
+
+## What this means for practice
+
+- **Instructors.** Sequence feedback so students evaluate their own work before reading AI critique: the reflective and hybrid conditions produced stronger feedback uptake, stronger [[self-regulated-learning|self-regulated learning]], and better delayed AI-free [[transfer-of-learning|transfer]] than direct AI feedback.
+- **Instructors.** Pair AI critique with [[peer-assessment|peer feedback]] instead of substituting it — the hybrid condition (self-evaluation → peer feedback → GenAI critique) showed the highest immediate argument-quality gains and the clearest advantage on conceptual learning.
+- **Instructional designers.** Build the revision process into the task, not just the feedback channel: gains were partially mediated by feedback uptake and self-regulated learning during revision, and the hybrid revision memo was capped at 100–150 words to force judgment rather than transcription.
+- **Faculty developers.** Model and require the four revision steps the paper identifies — interpret critique, compare it against criteria, judge its relevance, then revise — since direct GenAI encourages students to outsource evaluative judgment.
+- **Administrators.** Fund cross-site comparability work: a shared task-design protocol and a common analytic rubric across 4 universities and 3 science domains let the 48 sections be compared at all.
+
+## Limitations
+
+- Of 1,248 enrolled students, 72 were excluded for non-consent, course withdrawal before the first cycle, or absence from both the post-test and delayed-transfer sessions, and because research consent was voluntary the analytic sample may carry consent-based selection.
+- [[self-regulated-learning|Self-regulated learning]] rested substantially on self-report (a 12-item task-specific scale, McDonald's ω = .88) blended with LMS trace indicators, and feedback uptake was a four-indicator construct.
+- Argument-quality gains faced ceiling-related constraints on dimensions where drafts were already strong, which the authors addressed only through a supplementary baseline-adjusted final-score sensitivity model.
+- The 48-section cluster-randomized design assumed an intraclass correlation of .05 and was powered to detect effects of d = .25 and above, so smaller differences between conditions are not resolvable.
 
 ## Connected Concepts
 

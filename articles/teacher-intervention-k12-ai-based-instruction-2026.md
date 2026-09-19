@@ -1,7 +1,7 @@
 ---
 title: "Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects"
 created: "2026-09-12T13:10:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [agency, teacher-role]
 pedagogy: [scaffolding, student-engagement]
@@ -45,16 +45,6 @@ A [[meta-analysis-systematic-review|systematic review]] following PRISMA, coveri
 - **Support has to be balanced against autonomy.** Teachers provided cognitive support (questions, explanations, requests for justification, reflection prompts), affective-motivational support aimed at anxiety and participation, and procedural or self-regulatory support for reading and using AI feedback. But one study found teacher support aided relatedness satisfaction while having limited effect on autonomy, and another found teacher support mainly improved motivation with limited effects on cognitive outcomes — with independent thinking and problem solving more promoted in conditions without teacher support.
 - **Teachers redesign interaction, not just content.** They adjusted roles and participation balance within groups, designed heterogeneous groupings from AI-detected knowledge differences, mediated turn-taking between students and social robots, and restructured tasks around discussion, presentation and critical evaluation to reduce overdependence. In one system, modifying the design so some questions reached students without passing through the teacher showed control itself can be redistributed.
 - **Effects are positive but conditional and often perceptual.** Alert-based support was associated with improved science inquiry performance beyond that of comparable students, and proactive intervention with speech-recognition analytics with greater participation and confidence and reduced anxiety. For teachers, dashboards and reports expanded situational awareness and target selection, and generative AI was perceived as improving preparation efficiency — but one large-scale quantitative study found teacher orchestration was **not directly associated with student achievement**, with only limited indirect associations mediated by self-regulated learning, and many teacher-side claims rest on perception rather than measured outcomes.
-
-## Implications for AI in Education
-
-**Design for judgment, not for volume.** The review's most actionable claim is that information quantity is not the bottleneck and can be the problem. Dashboards and real-time alerts supported teachers in structured settings, but in others they overloaded attention or pulled focus away from teachers' own observation flow, and the burden concentrated in systems that continuously generate diagnostic output. Systems should prioritize and make interpretable what is worth acting on, and recommendations should be offered in a form teachers can accept, revise, defer or reject rather than execute.
-
-**Professional development beyond tool use.** If the core work is interpreting AI output, recontextualizing it for developmental level and task, deciding when and how hard to intervene, and orchestrating student-AI and peer interaction, then training centered on operating tools misses the point. The review argues for case-based development around interpretation, translation, intervention judgment, and balancing support against fading — including the counterintuitive part, that delaying intervention to let students explore is itself expertise.
-
-**Structural conditions decide feasibility.** A teacher who cannot physically reach every group that needs support cannot act on what the system detects, however accurate the detection is. Time for reviewing data, class size, support personnel, device access and time for post-lesson reflection and redesign are presented as part of the intervention, not as background logistics, and evaluation of AI in schools should track whether teachers actually have the authority and time to act on what the tools surface.
-
-**Limitations.** The corpus is unevenly distributed: concentrated in mathematics and science/STEM, in middle and high school, and in Western settings, especially the United States, so the findings transfer cautiously to other subjects, elementary classrooms and non-Western contexts. Studies are spread thinly across AI system types. Most importantly, in many studies the independent effect of teacher intervention could not be separated from system design, instructional structure, student characteristics or classroom context, so the review presents its effects as conditional outcomes and its framework as an explanation of how intervention operates rather than a causal model to be verified.
 
 ## What this means for practice
 

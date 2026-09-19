@@ -1,7 +1,7 @@
 ---
 title: "\"Is this a trap?\": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses"
 created: "2026-09-14T05:10:00-04:00"
-updated: "2026-09-19T07:04:04-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [self-efficacy, sociocultural-learning, student-engagement]
@@ -38,21 +38,12 @@ confidence: high
 - **Context of policy:** the institution allows four levels of GenAI adoption (no use; limited use with permission; use with acknowledgment; free use); all three courses operated at level two, but individual instructors set and communicated their own rules, and Hong Kong universities had briefly banned GenAI entirely in early 2023.
 - **Analysis:** descriptive statistics, Mann–Whitney U tests (non-parametric, chosen over t tests because data were not normally distributed), and iterative coding; findings rest on [[self-report-measures|self-reported data]], a single institution, and the low Course C response rate.
 
-## Implications for AI in Education
-
-- **Communicate with exemplars, not just rules:** Briefing slides and statements that GenAI is allowed did not prevent suspicion of a "trap"; instructors should show worked examples of acceptable and unacceptable use and give timely feedback on students' [[ai-use-disclosure|declarations]] and drafts.
-- **Align policy across the program:** Because students' behavior tracked the [[educational-policy-ai|prevailing institutional and program culture]] rather than any single course's instructions, program coordinators should harmonize how GenAI is framed, permitted, and acknowledged, as argued for program-wide assessment redesign.
-- **Personalize and contextualize assessment:** Reflective, experience-based tasks that connect to real professional issues made GenAI outputs look "too general", reducing reliance; instructors should raise the perceived significance of tasks through reflection and real-world anchoring rather than policing tools.
-- **Build [[self-efficacy|confidence]] and value deliberately:** Students who preferred working alone did so because they valued the learning opportunity and felt capable; [[scaffolding]] and feedback that strengthen competence and task value are therefore assessment-design levers, not adjuncts.
-- **Use teacher education to grow assessment literacy:** Embedding GenAI in teacher education assessments gives future teachers first-hand experience of [[ethics|ethical]], responsible use, addressing the gap between policy expectations and the finding that participants showed little intention to redesign their own school assessments.
-- **Do not assume adoption from availability:** With only 37.6% uptake, the study shows that permissive policy alone is a weak predictor of use; measure actual behavior and treat non-use as a legitimate, learning-oriented choice rather than non-compliance.
-
 ## What this means for practice
 
 - **Instructors.** Do not assume a permissive GenAI policy communicates itself: nine of the 11 interviewees described the allowance as a potential "trap", and only 37.6 percent of surveyed students (32 of 85) used GenAI in their assessments at all.
 - **Designers.** Show worked examples of acceptable and unacceptable use and give timely feedback on [[ai-use-disclosure|declarations]] instead of restating rules, since declarations diverged from survey answers in every course (Course A 8 declared vs 14 surveyed; Course B 6 vs 10; Course C 12 vs 8).
-- **Instructors.** Anchor assessment tasks in reflective, experience-based professional problems: non-adopters most often preferred to work alone (41 of 53, 77.4 percent) or feared being accused of plagiarism (22, 41.5 percent), while only 7 (13.2 percent) said they lacked the knowledge or skills to use GenAI.
-- **Administrators.** Harmonize GenAI rules across a program, because student behavior tracked the wider institutional culture — including a one-month institutional ban in 2023 and inconsistent rules in other courses — rather than any single course brief.
+- **Instructors.** Anchor assessment tasks in reflective, experience-based professional problems: non-adopters most often preferred to work alone (41 of 53, 77.4 percent) or feared being accused of plagiarism (22, 41.5 percent), while only 7 (13.2 percent) said they lacked the knowledge or skills to use GenAI; build [[self-efficacy|confidence]] and task value deliberately, since [[scaffolding]] and feedback that strengthen competence and value are assessment-design levers, not adjuncts.
+- **Administrators.** Harmonize GenAI rules across a program, because student behavior tracked the wider institutional culture — including a one-month institutional ban in 2023 and inconsistent rules in other courses — rather than any single course brief; use teacher education assessments to grow future teachers' assessment literacy, since embedding GenAI in them gives first-hand experience of responsible use that participants otherwise showed little intention of carrying into their own school assessments.
 - **Instructors.** Measure actual uptake and treat non-use as a legitimate choice: assessment engagement averaged 4.21 out of 5 with no significant difference between adopters and non-adopters (U = 781.5, p = 0.536), so tool use is not what carried [[student-engagement|engagement]].
 
 ## Limitations

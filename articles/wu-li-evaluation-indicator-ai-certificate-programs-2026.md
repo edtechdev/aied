@@ -1,7 +1,7 @@
 ---
 title: "Evaluation Indicator System for AI Certificate Programs"
 created: "2026-09-06T08:14:00-04:00"
-updated: "2026-09-19T07:12:05-04:00"
+updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 technology: [adaptive-learning]
@@ -25,7 +25,7 @@ page_kind: [evaluation, framework]
 - **Technology-first bias in credentialing:** Cross-cultural adaptability received the lowest strategic weight, indicating that early-stage AI certificate development prioritizes technical over cultural-adaptive concerns.
 - **Content knowledge outpaces integrated pedagogy:** The analysis revealed a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity, extending TPACK theory into the credential-evaluation domain.
 
-## Implications for AI in Education
+## What the work contributes
 
 This work provides a validated, expert-informed roadmap for evaluating the pedagogical-transformation potential of AI certificate programs in [[higher-ed|higher education]], an area with little systematic assessment despite the proliferation of credentials. For [[ai-literacy|AI education]] leaders and [[curriculum-design|curriculum]] planners it signals that resource allocation should target faculty [[teacher-education|TPACK development]] and continuous curriculum updating rather than technical infrastructure, and that [[adaptive-learning]] and real-time feedback support should be integrated into credential design. Methodologically, the fusion of Monte Carlo simulation with AHP-FAHP offers a replicable template for probabilistic robustness verification in multi-criteria educational evaluation, useful for [[assessment]] of emerging AI credentials and programs.
 
