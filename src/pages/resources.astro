@@ -3,6 +3,7 @@
 // what these resources are and lists every one, grouped by the kind of thing it is.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageTypeIcon from '../components/PageTypeIcon.astro';
 
 const resources = await getCollection('resources');
 const titleCase = (s: string) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
@@ -31,7 +32,7 @@ const groups = GROUP_ORDER.map((type) => ({
 ---
 
 <BaseLayout title="Resources">
-  <h1>🧰 Free Tools and Resources</h1>
+  <h1><PageTypeIcon kind="resource" size={20} />Free Tools and Resources</h1>
 
   <div style="line-height:1.7;color:var(--color);margin-bottom:1.5rem;">
     <p style="margin-bottom:0.75rem;">

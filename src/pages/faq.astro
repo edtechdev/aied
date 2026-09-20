@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PageTypeIcon from '../components/PageTypeIcon.astro';
 
 const faqs = await getCollection('faqs');
 const sorted = faqs.slice().sort((a, b) => {
@@ -10,7 +11,7 @@ const sorted = faqs.slice().sort((a, b) => {
 ---
 
 <BaseLayout title="FAQ">
-  <h1>❓ Frequently Asked Questions</h1>
+  <h1><PageTypeIcon kind="faq" size={20} />Frequently Asked Questions</h1>
 
   <div style="line-height:1.7;color:var(--color);margin-bottom:1.5rem;">
     <p style="margin-bottom:0.75rem;">

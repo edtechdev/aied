@@ -1,0 +1,17 @@
+---
+/**
+ * One inline page-type icon (article / concept / FAQ / resource), as used in the
+ * connected lists at the foot of a page and next to the index page headings.
+ * The SVG markup comes from src/lib/pageTypeIcons.ts so the markdown pipeline
+ * can draw the identical icon.
+ */
+import { pageTypeIcon, type PageKind } from '../lib/pageTypeIcons';
+
+interface Props {
+  kind: PageKind;
+  size?: number;
+}
+
+const { kind, size = 16 } = Astro.props;
+---
+<Fragment set:html={pageTypeIcon(kind, size)} />
