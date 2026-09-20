@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1318 | Concepts: 208 | FAQs: 32
+Articles: 1319 | Concepts: 208 | FAQs: 32
 
 ## Concepts
 
@@ -590,6 +590,7 @@ Articles: 1318 | Concepts: 208 | FAQs: 32
 - [[fekete-ethical-ai-literacy-gaps-2026]] — Between Promise and Practice: Bridging Ethical Artificial Intelligence Literacy Gaps Across Students, Educators, and Policy
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
 - [[finkelstein-principled-ai-education-2025]] — A principled way to think about AI in education: guidance for educators and policy makers based on goals, models
+- [[flipped-learning-genai-design-education-2026]] — Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[forap-pjbl-computing-education]] — Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio
 - [[formative-assessment]] — Formative Assessment
