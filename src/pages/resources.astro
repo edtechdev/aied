@@ -1,0 +1,122 @@
+---
+// The /resources index: a standalone, hand-written page (like /faq) that introduces
+// what these resources are and lists every one, grouped by the kind of thing it is.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const resources = await getCollection('resources');
+const titleCase = (s: string) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+// Grouped by the FIRST declared resource_type, so one tool that is both software and
+// a collection lands in a single place instead of being listed twice.
+const GROUP_ORDER = [
+  'software',
+  'ai tutor',
+  'agent skill',
+  'prompt or gem library',
+  'collection of tools',
+  'collection of activities',
+  'assessment instrument',
+  'open format or specification',
+  'ebook or guide',
+  'case study collection',
+  'dataset or benchmark',
+];
+const groups = GROUP_ORDER.map((type) => ({
+  type,
+  items: resources
+    .filter((r) => (r.data.resource_type || [])[0] === type)
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
+})).filter((g) => g.items.length > 0);
+---
+
+<BaseLayout title="Resources">
+  <h1>🧰 Free Tools and Resources</h1>
+
+  <div style="line-height:1.7;color:var(--color);margin-bottom:1.5rem;">
+    <p style="margin-bottom:0.75rem;">
+      A curated set of <strong>free tools, collections, instruments and formats</strong> for AI in
+      education — things you can go and use today rather than research you have to read first. They
+      are made mostly by educators, instructional designers, librarians and researchers, and many
+      were built with AI assistance by people who are not professional developers.
+    </p>
+    <p style="margin-bottom:0.75rem;">
+      Not everything here is interactive. Alongside browser tools and AI tutors you will find
+      libraries of ready-made prompts and "gems", collections of classroom activities, briefing and
+      policy documents, assessment instruments, and open file formats. Each entry says who made it,
+      what kind of thing it is, whether the source code is available, and what it costs to use.
+    </p>
+    <p>
+      Every entry links out to an external site that this knowledge base does not control, and the
+      links are re-checked periodically — each page shows the date its link was last confirmed. If
+      a tool has moved, gone closed, or deserves to be here and is missing, the fastest route is to
+      open an issue on the repository.
+    </p>
+  </div>
+
+  {resources.length === 0 && <p>No resources yet.</p>}
+
+  {groups.map((group) => (
+    <section style="margin-bottom:2rem;">
+      <h2 style="font-size:1.15rem;">{titleCase(group.type)}</h2>
+      <div class="resource-list">
+        {group.items.map((r) => {
+          const href = `/aied/resources/${r.id.replace('.md', '')}/`;
+          const facts = [
+            r.data.author,
+            ...(r.data.access || []).map(titleCase),
+            ...(r.data.level || []).map(titleCase),
+          ].filter(Boolean).join(' · ');
+          return (
+            <a href={href} class="resource-item">
+              <span class="resource-item-title">{r.data.title}</span>
+              <span class="resource-item-summary">{r.data.summary}</span>
+              <span class="resource-item-facts">{facts}</span>
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  ))}
+</BaseLayout>
+
+<style>
+  .resource-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 0.75rem;
+  }
+  .resource-item {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--card-border-color);
+    background: color-mix(in srgb, var(--primary) 4%, transparent);
+    transition: background 0.15s, border-color 0.15s;
+  }
+  .resource-item:hover {
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+    border-color: var(--primary);
+  }
+  .resource-item-title {
+    display: block;
+    font-weight: 600;
+    color: var(--primary);
+    font-size: 1.05rem;
+    line-height: 1.5;
+  }
+  .resource-item-summary {
+    display: block;
+    margin-top: 0.2rem;
+    line-height: 1.6;
+  }
+  .resource-item-facts {
+    display: block;
+    margin-top: 0.35rem;
+    font-size: 0.85rem;
+    color: var(--muted-color);
+  }
+</style>

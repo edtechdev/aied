@@ -24,6 +24,14 @@ const tagLabel = (tag: string): string => {
 const faq = faqs.find(f => f.id.replace('.md', '') === slug);
 if (!faq) return Astro.redirect('/aied/');
 
+// Connected Resources: slugs in frontmatter `connected_resources`, rendered the same
+// way on every page type, so a resource is reachable from the FAQ it answers.
+const resources = await getCollection('resources');
+const resourceById = new Map(resources.map(r => [r.id.replace('.md', ''), r]));
+const connectedResources = (faq.data.connected_resources || [])
+  .map(s => resourceById.get(s))
+  .filter((r): r is NonNullable<typeof r> => Boolean(r));
+
 const allArticles = await getCollection('articles');
 
 
@@ -75,6 +83,9 @@ const allTitles: Record<string, string> = {};
 
 const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
 const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedResources.length > 0) {
+  toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
+}
 ---
 
 <BaseLayout title={title} toc={toc}>
@@ -101,6 +112,24 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    {connectedResources.length > 0 && (
+      <section style="margin-top:2.5rem;" id="connected-resources">
+        <h2>Connected Resources</h2>
+        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
+          {connectedResources.map(r => (
+            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
+              <a href={`/aied/resources/${r.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+                🧰 {r.data.title}
+              </a>
+              {r.data.summary && (
+                <div style="color:var(--muted-color);font-size:0.9rem;margin-top:0.2rem;">{r.data.summary}</div>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
 
     <MetadataTable conceptTitles={conceptTitles} data={faq.data} />
     <SourceButtons filePath={`faqs/${faq.id}.md`} />

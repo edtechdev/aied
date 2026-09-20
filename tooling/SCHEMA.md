@@ -238,6 +238,65 @@ appear on the journal page (❓ badge), and are listed in concept/article "Conne
 via `connected_faqs`. Numbered lists inside a FAQ must be written as ONE contiguous block (no blank
 lines between items) so they don't render as repeated `1.` (see the list-formatting HARD GATE).
 
+### Resource page structure (`resources/<slug>.md`)
+
+```
+---
+title: "Pressing Prompts"
+created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+type: resource
+summary: "One sentence for the /resources listing and the exports."   # REQUIRED
+url: https://pressingprompts.org/                                     # REQUIRED, http(s)
+source_code: https://github.com/owner/repo                            # optional
+author: "Hannah Rozear, Remi Kalir and Aria Chernik"                  # REQUIRED, a person or a project
+author_url: https://pressingprompts.org/about                         # optional
+resource_type: [collection of activities]                             # REQUIRED (one or more)
+access: [free]                                                        # free | free with account | freemium
+license: "CC BY-NC-SA 4.0"                                            # optional, only when the site states one
+last_verified: "YYYY-MM-DD"                                            # REQUIRED, date the link was confirmed
+connected_resources: [pause-ai-use-self-examination]                  # existing resource slugs only
+foundations: [ai-literacy]                                            # facet/level/audience/discipline as on any page
+audience: [instructors]
+level: [higher ed]
+---
+
+> One-paragraph lede: what it is and why it matters.
+
+## What it is
+## What you can do with it            (subsections are free-form; no fixed set)
+## Who it is for
+## Notes and caveats                    (optional: ownership, data handling, limits the project states)
+## Connected Concepts
+
+[[critical-pedagogy]], [[inquiry-based-learning]], [[ai-literacy]]
+```
+
+Resource pages catalog **free tools, collections, instruments and open formats** a reader can go and
+use — not papers. They therefore have **no** `sources`, no `research_method`, no `page_kind`, no
+Citation section and no "What this means for practice"/"Limitations" pair: there is no study to
+summarize and no claim to ground. They do keep the typed facets, `level`, `audience` and `discipline`,
+so a resource joins the same concept graph and the same search filters as everything else.
+
+Requirements and conventions:
+
+- `url` is the point of the page. Never leave it empty, and never point it at a page that was not
+  actually opened — link rot is the failure mode here, which is why `last_verified` is mandatory.
+- `author` is a real person or the project itself. When a project publishes no author, name the
+  project (or the GitHub account) and say so in the body; **never invent a person**.
+- `resource_type` values: software, ai tutor, agent skill, prompt or gem library, collection of tools,
+  collection of activities, assessment instrument, open format or specification, ebook or guide,
+  case study collection, dataset or benchmark.
+- `access` describes what a reader has to give up to use it; `license` only records a licence the site
+  itself states.
+- `connected_resources` is frontmatter (validated against `resources/`), so the section can never
+  point at a page that does not exist. The same field is available on articles, concepts and FAQs.
+- Encyclopedia-style body, 150–300 words across the sections above, US English, `[[wikilinks]]` to
+  concepts in the body and a `## Connected Concepts` list naming the concepts the resource serves.
+- Rendered at `/aied/resources/<slug>/`; listed on the `/aied/resources/` index (grouped by first
+  `resource_type`), on `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and as the
+  closing "Free Tools and Resources" chapter of the EPUB/PDF exports.
+
 ### raw/ Frontmatter
 
 Raw sources ALSO get a small frontmatter block so re-ingests can detect drift:

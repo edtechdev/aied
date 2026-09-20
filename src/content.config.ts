@@ -7,6 +7,7 @@ import { FACET_VOCAB } from './data/facetVocab';
 const articlesDir = resolve(process.cwd(), 'articles');
 const conceptsDir = resolve(process.cwd(), 'concepts');
 const faqsDir = resolve(process.cwd(), 'faqs');
+const resourcesDir = resolve(process.cwd(), 'resources');
 
 // Keep `created`/`updated` as the ORIGINAL frontmatter string (e.g.
 // "2026-08-16T20:02:54-04:00"). We must NOT pass them through `z.date()`
@@ -38,6 +39,20 @@ const FAQ_SLUGS = new Set(
 // Shared schema: normalized to a string array, then every entry must be a real
 // FAQ slug (matched against the faqs collection, mirroring the Sveltia CMS
 // relation widget on the same field).
+// `connected_resources` is the same idea for resource pages: slugs from resources/.
+const RESOURCE_SLUGS = new Set(
+  readdirSync(resourcesDir)
+    .filter(f => f.endsWith('.md'))
+    .map(f => f.slice(0, -3)),
+);
+const connectedResources = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(slug => RESOURCE_SLUGS.has(slug)), {
+    message: 'connected_resources must be existing resource slugs',
+  });
+
 const connectedFaqs = z
   .any()
   .transform(v => (Array.isArray(v) ? v.map(String) : []))
@@ -206,6 +221,7 @@ const articles = defineCollection({
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
+    connected_resources: connectedResources,
     ...structuredMeta,
   }),
 });
@@ -219,6 +235,7 @@ const concepts = defineCollection({
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
     connected_faqs: connectedFaqs,
+    connected_resources: connectedResources,
     ...structuredMeta,
   }),
 });
@@ -231,8 +248,66 @@ const faqs = defineCollection({
     updated: timeField.optional().transform(v => v ?? ''),
     weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
     source_url: z.string().optional(),
+    connected_resources: connectedResources,
     ...structuredMeta,
   }),
 });
 
-export const collections = { articles, concepts, faqs };
+// ==== Resources (2026-09-20) ====
+// A resource is something a reader can go and use: a free tool, a collection of
+// tools or activities, a prompt library, an instrument pack, an open format. It is
+// NOT a paper — there is no study design, no citation of its own, and no claim to
+// ground — so this collection deliberately drops `sources`, `research_method` and
+// `page_kind`, and adds the fields that describe a link out: where it lives, what
+// it is, who made it, whether the code is open, and when the link was last checked.
+// The shared typed facets still apply, so a resource joins the same concept graph
+// and the same search filters as articles and concept pages.
+const RESOURCE_TYPES = [
+    'software',
+    'ai tutor',
+    'agent skill',
+    'prompt or gem library',
+    'collection of tools',
+    'collection of activities',
+    'assessment instrument',
+    'open format or specification',
+    'ebook or guide',
+    'case study collection',
+    'dataset or benchmark',
+];
+
+const httpUrl = (field: string) => z
+  .string()
+  .refine(v => /^https?:\/\/[^\s]+$/.test(v), {
+    message: `${field} must be an http(s) URL`,
+  });
+
+const resources = defineCollection({
+  loader: glob({ pattern: '*.md', base: resourcesDir }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    // One sentence for the /resources listing, so the index does not have to parse
+    // the body.
+    summary: z.string(),
+    url: httpUrl('url'),
+    source_code: httpUrl('source_code').optional(),
+    // Who made it. Some projects publish no individual author: put the project or
+    // account name and say so in the body rather than inventing a person.
+    author: z.string(),
+    author_url: httpUrl('author_url').optional(),
+    resource_type: enumList(...RESOURCE_TYPES),
+    access: enumList('free', 'free with account', 'freemium'),
+    license: z.string().optional(),
+    // External links rot: this is the date a person or a cron check last confirmed
+    // the url resolves. The link-checking script reads it.
+    last_verified: z.string(),
+    connected_resources: connectedResources,
+    // A resource page may point back at an FAQ it answers; optional, usually empty.
+    connected_faqs: connectedFaqs,
+    ...structuredMeta,
+  }),
+});
+
+export const collections = { articles, concepts, faqs, resources };

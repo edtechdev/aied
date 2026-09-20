@@ -1,7 +1,7 @@
 ---
 /**
  * StarButton.astro — a star/favorite toggle shown next to the page title on
- * article, concept, and FAQ pages. Clicking toggles the page's starred state
+ * article, concept, FAQ and resource pages. Clicking toggles the page's starred state
  * in the localStorage-backed store (see src/stores/stars.ts). The filled/empty
  * star reflects the current state on load and after toggling.
  */
@@ -9,7 +9,7 @@ import { pageKey } from '../stores/stars';
 
 interface Props {
   slug: string;
-  kind: 'concept' | 'article' | 'faq';
+  kind: 'concept' | 'article' | 'faq' | 'resource';
 }
 
 const { slug, kind } = Astro.props;
