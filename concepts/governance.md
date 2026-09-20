@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-20T08:15:50-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -153,3 +153,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
+- [[ai-adoption-readiness-ukraine-education-managers-2026]] — AI adoption readiness among Ukrainian education managers: barriers, typologies, policy
