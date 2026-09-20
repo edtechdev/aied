@@ -43,8 +43,19 @@ Students built a pipeline that scraped news for 29 [[business-education|ETFs]] a
 ## Connections to Agentic Workflows
 This model bridges [[agentic-workflows-education]] and practical classroom implementation. Where agentic workflows describe AI agent paradigms (reflection, planning, tool use, multi-agent collaboration), co-mentorship shows how those paradigms manifest in human-AI educational partnerships. The daily stand-up structure echoes the reflection loop in [[agentic-education-coding]]. The complementary division of labor—AI tactical execution paired with human strategic judgment—resonates with how [[agentic-ai|agentic AI]] is imagined in educational contexts, but grounds it in observed classroom practice.
 
-## Implications
-For educators, co-mentorship positions AI as a guided support tool rather than a replacement for mentorship, and the findings argue for explicitly building verification and skepticism into learning goals. Simple routines such as regular check-ins and shared documentation keep AI-assisted work transparent and allow errors to be caught early. Because students developed evaluation skills through repeated exposure to imperfect AI output under supervision, educators can treat [[hallucination-risk|imperfect AI output]] as a deliberate pedagogical resource rather than something to hide. This aligns with [[active-learning]] and [[experiential-learning|experiential]] approaches in which students learn through doing and guided failure, and it echoes the role of [[feedback]] and [[self-efficacy]] in sustaining momentum. Over the longer term, the arc toward [[trust-calibration|calibrated trust]] and independent debugging suggests co-mentorship may nurture [[self-directed-learning]] and [[lifelong-learning]] dispositions, though the authors caution that broader validation across more diverse cohorts and longitudinal outcomes is needed before generalizing.
+## What this means for practice
+
+- **Instructors.** Keep strategic work — problem framing, validation of modeling choices, interpretation of results — with humans, and delegate tactical execution (code scaffolding, hyperparameter suggestions, just-in-time explanations) to AI; that division of labor is what the ten-week project actually used.
+- **Curriculum designers.** Replace theory-first sequencing with a workflow-driven arc in which students define the steps their problem requires and execute each with AI support, which let students with limited AI and finance backgrounds reach a working predictive model.
+- **Instructors.** Treat imperfect AI output as curriculum rather than a hazard: each of the project's three recurring failure modes (plausible-but-incorrect code, missing niche knowledge, and loss of long-term project objectives) became a teaching moment that pushed students toward [[critical-thinking|independent verification]].
+- **Curriculum designers.** Keep an explicit hypothesis-testing lesson in the syllabus: the pipeline that scored 29 ETFs with gpt-5-mini sentiment underperformed models without sentiment, and mentors used that negative result to shift students from "proving ideas right" to "finding out what's true."
+
+## Limitations
+
+- This is a single case study of one ten-week financial forecasting project with high-school and early-undergraduate students; no control group or comparison cohort is reported.
+- All evidence comes from one project in one domain (ETF forecasting with news sentiment), so the reported division of labor between human mentors and AI tools is not shown to transfer to other subjects or project types.
+- The three failure modes and the students' arc toward skeptical evaluation rest on mentor observation during the project rather than on a measured instrument of verification skill.
+- The authors state that broader validation across more diverse cohorts and longitudinal outcomes is needed before the model can be generalized.
 
 ## Connected Concepts
 

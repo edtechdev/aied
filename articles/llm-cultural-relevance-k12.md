@@ -27,9 +27,19 @@ sources: ['raw/papers/2505.08083.md']
 
 The study combines a design component — building CulturAIEd around CRP/CRT frameworks, including a CRT checklist and demographic customization layered into the LLM's generative process — with an exploratory pilot conducted in preparation for a future [[mixed-methods-research|mixed-methods]] study. The pilot with four K-12 teachers examined how the tool influenced their confidence, efficiency, and [[pedagogy|pedagogical]] strategies in making learning activities culturally responsive. The authors situate the work against Ladson-Billings' CRP framework (academic success, cultural competence, sociopolitical consciousness) and Geneva Gay's Culturally Responsive Teaching.
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings suggest LLMs can help teachers integrate **culturally relevant components into instructional practice efficiently**, directly addressing common implementation barriers of limited time, curricular rigidity, and discomfort with cultural topics. Because AI literacy is an emerging subject with few resources tailored to diverse cultural and demographic contexts, tools like CulturAIEd point toward **culturally adaptive AI curricula** rather than the generalized approaches that dominate current programs. The work connects [[culturally-relevant-pedagogy]], [[ai-literacy]], and [[k-12]] teacher support, with implications for [[teacher-role]] and [[curriculum-design]] practice.
+- **Faculty developers.** Give teachers a structured CRP checklist plus a staged adaptation process — independent adaptation, then checklist-guided revision, then tool-assisted refinement — rather than dropping them straight into a generative tool; that three-phase design is what the pilot used and it maps onto the CRT levels of contributions, additive, transformation, and social action.
+- **Faculty developers.** Configure the generation step to take student demographic context as input, since teachers in the pilot valued the streamlined integration of demographic information and immediate actionable feedback as the source of their efficiency gains.
+- **Instructors.** Treat LLM output as a draft to be revised against what you know about your students: the authors warn that models trained on broad data can reproduce cultural clichés or stereotypes, and that a tool like CulturAIEd cannot replace teachers' contextual understanding.
+- **Administrators.** Fund CRP training and planning time rather than assuming a tool closes the gap, because teachers in this study described limited institutional support for CRP and the time it takes to know students beyond surface traits as the barriers they actually face.
+
+## Limitations
+
+- The pilot involved four K-12 teachers (N = 4) and is framed as exploratory; the authors state that the confidence and efficiency improvements should be interpreted as promising trends rather than conclusive evidence of efficacy.
+- Each participant took part in a single 90-120 minute semi-structured one-on-one Zoom session (pre-survey, adaptation tasks, post-survey, interviews), so there is no follow-up evidence about whether their classroom practice changed afterward.
+- The outcomes are self-reported confidence and perceived efficiency with no control comparison and no measure of student learning; the authors state that larger-scale studies with control comparisons are needed.
+- The tool was a demo built on gpt-4o-mini-2024-07-18, and the authors flag stereotype reproduction and the risk of "routinizing" CRP as unresolved risks rather than risks their design eliminated.
 
 ## Connected Concepts
 

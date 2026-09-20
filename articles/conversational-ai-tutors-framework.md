@@ -28,9 +28,20 @@ page_kind: [framework]
 
 Whereas most current ITS function, in essence, as interactive and adaptive problem sets with feedback and hints, conversational tutors hold the potential to simulate high-quality human tutoring by engaging with students' thoughts, questions, and misconceptions through natural language dialogue. Earlier dialogue systems such as AutoTutor and Watson Tutor demonstrated the possibility but were limited by rule-based response generation. Generative AI changes the capacity profile: interactive feedback can encourage constructive behaviors such as self-repair and knowledge construction, and tutorial dialogue can follow up on errors with diagnosis questions, supporting seamless [[formative-assessment|formative assessment]].
 
-## Implications for AI in Education
+## What this means for practice
 
-The keep/change/center/study framework gives [[research-methods-aied|researchers]] and developers a discipline for building conversational tutors that are both scalable and pedagogically grounded. It warns against discarding decades of ITS research in the rush to generative models: [[knowledge-tracing]] and affect detection remain the diagnostic backbone, while [[generative-ai]] supplies flexible delivery. For educators, the framework's emphasis on centering meaning-making and [[agency|student agency]] aligns with [[intelligent-tutoring]] goals and with [[scaffolding]] that keeps the learner active; its insistence on studying efficacy and integration reflects the reality that easy deployment of conversational agents has outpaced evidence about what works.
+- **Researchers.** Treat efficacy as an open question rather than a build detail: the framework's study element exists because conversational tutors can now be assembled quickly while their effectiveness is not established, so pair each build with a measured comparison of outcomes.
+- **Researchers.** Do not discard the older diagnostic stack — [[knowledge-tracing]], knowledge spaces, and epistemic [[affective-computing|emotion detection]] remain the backbone for identifying slips, missing mastery, and [[misconceptions]] — but verify its reach, since current models still diagnose knowledge states unreliably.
+- **Designers.** Keep meaning-making central in the interaction: use dialogue to follow up on errors with diagnosis questions and to support self-repair and knowledge construction, the behaviors that separate tutoring from an interactive problem set.
+- **Designers.** Design for a maintained learner state across turns rather than a single exchange, wiring [[scaffolding]] to [[formative-assessment|formative assessment]] so that help keeps the learner reasoning instead of supplying the answer.
+- **Instructors.** Teach students the tool's boundaries: the paper documents fabricated content, over-helpfulness that may reduce metacognitive effort, and unreliable knowledge-state diagnosis, so keep a human in the loop ([[human-in-the-loop-ai]]) wherever a tutoring decision has consequences.
+
+## Limitations
+
+- This is a synthesis, not a trial: the paper reports no new empirical data, so its keep/change/center/study recommendations rest on extrapolation from earlier dialogue systems such as AutoTutor and Watson Tutor and from existing deployments such as Khanmigo.
+- The argument for a delivery shift depends on documented model failure modes — inaccurate or fabricated content ("hallucinations"), tendencies toward over-helpfulness that may reduce students' metacognitive effort, and difficulty managing multi-turn dialogue that requires sustained pedagogical goals.
+- The components it keeps are themselves limited: knowledge tracing and related modeling remain constrained in accurately diagnosing students' knowledge states, which bounds how reliably a generative tutor can adapt to a learner.
+- The framework supplies no effect sizes, deployment thresholds, or cost figures, so it can support architecture and study design but cannot tell an institution whether a given conversational tutor will improve learning.
 
 ## Connected Concepts
 

@@ -47,12 +47,19 @@ Under the corrected evaluation pipeline, chronological alignment produces incons
 
 Task-specific hyperparameter optimization is a prerequisite for fair comparison. DKT improves from 0.6821 to 0.7480 AUC on assignment 439 purely from tuning, and optimal early-stopped epochs vary from 42.4 to 75.2 across assignments. ECKT proves more stable than Code-DKT, consistently matching or outperforming DKT and narrowing gaps where Code-DKT struggles, suggesting that structured integration of programming context is more robust than simple feature concatenation. Restoring the W0 projection component yields only marginal changes. Extending Lmax to 100 produces mostly degradation or negligible change across models, indicating that longer sequences introduce irrelevant or weakly informative interactions.
 
-## Implications
+## What this means for practice
 
-The paper's central message is [[research-methods-aied|methodological]]: performance claims in [[knowledge-tracing]] research are only as trustworthy as the protocols that produce them. For the [[ai-ed-evaluation]] and [[benchmark]] communities, model comparisons should be run under controlled, preregistered-style protocols — with causally valid attention, chronologically aligned sequences, and task-specific hyperparameter tuning — before informing [[student-modeling]] or [[automated-assessment|automated assessment]] tools. The re-evaluation also points to the value of re-analysis culture: revisiting established results with rigorous controls can narrow apparent gaps between sophisticated architectures and simpler baselines, redirecting research effort toward modeling choices that genuinely matter.
+- **Software developers.** Normalize the attention weights in code representation across the path dimension (dim=2) rather than the temporal dimension (dim=1) before reusing Code-DKT: normalizing over time lets a code feature's importance at time step *t* depend on future states, which inflates reported AUC.
+- Sort every attempt sequence by ServerTimestamp as an explicit preprocessing step — in a submit-and-fix debugging cycle the raw file order can place a later failure before an earlier success and leak future information into the input.
+- Tune hyperparameters per assignment instead of once globally: optimal early-stopped epochs ranged from 42.4 to 75.2 across assignments, and DKT's AUC on assignment 439 rose from 0.6821 to 0.7480 purely from task-specific tuning.
+- Keep the truncation at Lmax = 50 rather than extending it to 100: the longer setting produced mostly degradation or negligible change, suggesting extended histories add irrelevant or weakly informative interactions.
+- Benchmark against a properly tuned baseline before claiming architectural superiority, and prefer structured context integration (ECKT) over simple feature concatenation (Code-DKT), which underperformed the tuned DKT baseline on several assignments under causally valid settings.
 
-For [[assessment-validity]] and [[educational-measurement]], the study underscores that inflated metrics from data leakage undermine the validity of conclusions about learner competence. The practical guidance extends to CS [[cs-education]] and [[computational-thinking]] research: rapid submit-and-fix interaction patterns demand careful temporal ordering, and the choice of [[llm]]-based code representations should be justified by causal integrity rather than raw AUC. The authors also flag the study's limitation to a single dataset and a subset of PKT models, calling for extension of the rectified protocol to broader domains and architectures — a caution about generalizing from any single [[benchmark]] without [[limitations-in-aied-research]] awareness.
+## Limitations
 
+- The re-evaluation covers a single dataset — CodeWorkout, 69,627 interactions from 413 students across five assignments — and a subset of PKT models (DKT, Code-DKT, ECKT); the authors state that extending the rectified protocol to broader domains and architectures remains future work, so the corrected rankings are not yet shown to generalize.
+- Model comparisons rest on one 80/20 train/test split with five cross-validation folds, and hyperparameters were chosen by grid search on a single designated fold and then fixed across all folds, so the reported ordering is conditional on that one fold's selection.
+- The sequence-length finding rests on only two settings, Lmax = 50 and Lmax = 100, so intermediate truncations and other architecture families remain untested.
 ## Connected Concepts
 
 - [[knowledge-tracing]]

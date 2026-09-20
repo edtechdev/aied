@@ -73,22 +73,20 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 - Reveals current LLMs struggle with *structured [[pedagogy|pedagogical]] planning* (vs. reactive Q&A)
 - Aligns with: agentic reflection, planning, and tool use in educational contexts
 
-## Implications for AI in Education
+## What this means for practice
 
-### For LLM Development
-- **Teaching ability as benchmark dimension:** Should be evaluated alongside reasoning, coding, etc.
-- **Domain-specific training:** Models need pedagogy-grounded training, not just subject knowledge
-- **Structured vs. reactive:** TeachBench exposes the gap between knowing and teaching
+- **Researchers.** Evaluate teaching as a distinct capability rather than inferring it from solving: syllabus-grounded evaluation measures whether a model improves a learner's performance, whereas [[problem-solving]] and exam-centric [[benchmark|benchmarks]] such as MMLU, GSM8K, and AGIEval score answer correctness alone.
+- **Researchers.** Restrict [[teacher-role|teacher agents]] to syllabus knowledge points and example problems and hold the [[simulating-students|student agent]] fixed, so the model cannot be handed the items it is meant to teach and results stay reproducible across runs.
+- **Instructors.** Do not carry a model's teaching strength across subjects: the strongest result was a 7.63-point gain in mathematics with Qwen3-235B-A22B-Instruct, while [[physics-education|physics]] and [[chemistry-education|chemistry]] showed the weakest teaching outcomes.
+- **Designers.** Test whether worked examples help before attaching them to a tutor: incorporating example problems shifted models toward example-specific error correction instead of syllabus-grounded instruction.
+- **Instructors.** Judge a [[intelligent-tutoring|tutoring system]] on [[learning-gains|learning gains]] accumulated over multi-turn instruction, not on per-turn response quality or user satisfaction.
 
-### For ITS Design
-- **Syllabus grounding:** Effective teaching requires structured knowledge (cf. [[quantum-education-its|quantum ITS knowledge graph]])
-- **Multi-turn instruction:** Teaching effectiveness emerges over *sequences* of interactions, not single turns
-- **Evaluation rigor:** ITS should be evaluated on *learning gains*, not just user satisfaction
+## Limitations
 
-### For Benchmark Design
-- **Leakage control:** Don't give models the test questions they're supposed to teach
-- **Student proxies:** Fixed-capability student agents enable reproducible evaluation
-- **Outcome metrics:** Performance improvement > response quality scores
+- Teaching is measured with LLM-based student agents standing in as proxies for human learners; the authors state this controlled setting may not fully reflect the diversity and complexity of human learning behaviors.
+- No human teachers were included as a baseline, so the experiments rank models against one another rather than against human instructional performance.
+- The study of example-based teaching is limited to a specific interaction design; the authors note that alternative instructional protocols may produce different outcomes.
+- The benchmark is built from Gaokao (Chinese National College Entrance Examination) syllabi and questions across seven subjects — Mathematics, Physics, Chemistry, Biology, History, Geography, and Politics — so the domain rankings are tied to that exam's knowledge structure.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "AISSA: AI-based Student Slides Analysis Tool for Academic Presentations"
 created: "2026-05-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T08:29:17-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics, llm, visualization]
 assessment: [automated-assessment, automated-question-generation, formative-assessment]
@@ -19,7 +19,7 @@ page_kind: [evaluation]
 ## Key Findings
 1. AISSA combines [[llm|LLMs]] (ChatGPT 5.2) with [[learning-analytics|Learning Analytics]] dashboards to deliver [[automated-assessment|rubric-based scoring]] and structured [[feedback]] on presentation slides before students present.
 2. In a pilot with 46 final-year undergraduate students, AISSA reliably processed 90 presentations with end-to-end times of roughly 1–3 minutes per submission and no extraction or JSON-output errors.
-3. Students rated usability highly (average [[usability-research|System Usability Scale]] score of 83.38 out of 100) and adopted an iterative workflow of uploading drafts, reviewing feedback, revising, and resubmitting.
+3. Students rated usability highly (average [[usability-research|System Usability Scale]] score of 83.38) and adopted an iterative workflow of uploading drafts, reviewing feedback, revising, and resubmitting.
 4. The LLM integration proved economically feasible at an estimated \$0.06–0.07 USD per evaluation, while students selectively applied recommendations, sometimes disregarding suggestions that conflicted with their planned visual design.
 
 ## Background and Motivation
@@ -47,11 +47,20 @@ AISSA was deployed at Universidad Autónoma de Madrid within the MOSAIC-F framew
 ## Student Experience and Perceived Usability
 To assess perceived usability, the [[usability-research|System Usability Scale (SUS)]] was administered to all 46 students, with 30 responses yielding an excellent average score of 83.38. Semi-structured [[qualitative-research|interviews]] with a purposefully sampled subset of 20 students (chosen for [[equity-in-ai-education|gender parity]] and varied [[learning-gains|academic performance]]) found the platform highly intuitive: students adopted an iterative workflow of uploading drafts, refining work, and resubmitting without external technical support. Students perceived the AI-generated [[feedback]] as fair and useful, especially for technical design elements such as [[accessibility|font size]], visual consistency, and bibliography formatting. Notably, several students intentionally disregarded some recommendations that conflicted with their planned visual design or presentation strategy — evidence of selective, [[agency|agentic]] uptake of [[ai-feedback-quality|AI feedback]] rather than passive acceptance.
 
-## Implications
-AISSA demonstrates that combining [[llm|LLM]]-based analysis with [[learning-analytics|Learning Analytics dashboards]] is a promising path to scalable [[formative-assessment|formative feedback]] on presentation slides. For [[learning-design|practitioners]], the pilot suggests such tools can relieve the feedback bottleneck in large courses while supporting an iterative revision cycle that improves slide quality before the presentation. The [[human-in-the-loop-ai|human-in-the-loop]] design — where teachers review automated evaluations against their own assessments — keeps educators in control of final judgment, addressing concerns about [[trust]] in [[automated-assessment|automated scoring]]. The economic feasibility (cents per evaluation) and the modular, [[open-source|open]]-friendly architecture make the approach practical for broader adoption. The finding that students selectively apply feedback also points to the need to study [[student-ai-interaction|how learners engage]] with AI-generated recommendations and whether selective uptake leads to better outcomes than wholesale adoption or rejection.
+## What this means for practice
 
-## Limitations and Future Work
-The pilot is small and single-institution, so its results are preliminary. Future work will compare AISSA's LLM-based evaluations with [[human-ai-collaboration|human teacher assessments]] on both scores and feedback quality; study the [[pedagogy|pedagogical]] impact of iterative use on slide quality and final presentation performance; refine the AI pipeline by comparing proprietary and [[open-source|open-source models]] and extending the extracted feature set; and analyze whether students who selectively apply AISSA feedback achieve better outcomes than those who follow all recommendations or disregard them.
+- **Instructors.** Move slide feedback ahead of the presentation deadline rather than after it: the pilot scored and commented on 90 presentation decks with end-to-end turnaround of roughly 1–3 minutes per submission, enough for students to upload, revise, and resubmit within the assignment schedule.
+- **Instructors.** Keep the final judgment with the teacher, because the tool's [[human-in-the-loop-ai|human-in-the-loop]] design has instructors review the [[automated-assessment|automated evaluations]] against their own assessment, which is what preserves instructor authority over grades and [[trust]] in the scoring.
+- **Assessment designers.** Write the rubric as explicit scoring rules before launch: AISSA converts a teacher-defined 5-point Likert rubric plus extracted slide features into criterion-level feedback, so any criterion left implicit is effectively skipped.
+- **Instructional designers.** Budget the marginal cost per submission: about \$0.06–0.07 USD per evaluation, based on an average of 18,000 input tokens and 2,500–2,600 output tokens, with no extraction or JSON-output errors across the 90 presentations.
+- **Administrators.** Plan for selective uptake rather than compliance: several students intentionally disregarded recommendations that conflicted with their planned visual design or presentation strategy, so build in a step where students record which suggestions they accepted or rejected and why.
+
+## Limitations
+
+- Single-site, single-course pilot: 46 final-year telecommunication engineering students at Universidad Autónoma de Madrid over one trimester, so the 90 presentations processed, the per-submission turnaround, and the cost estimates are not evidence of what another course, level, or discipline would see.
+- The usability evidence is self-report from a partial sample — the System Usability Scale was administered to all 46 students but only 30 returned responses, and the qualitative findings come from 20 purposefully sampled interviews.
+- The study measured technical performance and perceived usability, not learning: no comparison against human teacher scores was run, and there is no evidence that iterative revision raised slide quality or presentation performance.
+- One model and one extraction pipeline were tested (GPT 5.2 through the OpenAI API, on features extracted from `.pptx` files), so how scores and feedback shift with other models or slide formats is unknown.
 
 ## Connected Concepts
 
