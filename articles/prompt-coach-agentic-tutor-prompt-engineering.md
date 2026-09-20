@@ -1,7 +1,7 @@
 ---
 title: "Prompt Coach: An Empirical Evaluation of an Agentic Tutor for Learning Prompt Engineering in Software Development"
 created: "2026-07-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [scaffolding]
@@ -33,17 +33,20 @@ PC operates as an agent within the developer's IDE, combining an assessment comp
 3. **PC targets developers' cognitive blind spots.** The largest gains appeared on the lowest-scoring baseline dimensions — Inclusion of Constraints (50.51), Error Handling (52.56), and Context Awareness (56.56) — while naturally strong dimensions like Clarity (79.87) and Output Requirements (70.07) improved less. This suggests PC is particularly effective at addressing the underspecification of constraints, edge cases, and contextual detail.
 4. **Strong trust and adoption readiness.** All learning dimensions scored a mean of 5.67–6.33 on a 7-point Likert scale; participants unanimously agreed PC improved their code-generation prompt-writing skills (100% agreement), expressed strong trust in its guidance, reported increased cognitive elaboration, and indicated they would integrate PC into their workflow and recommend it to colleagues.
 
-## Implications
+## What this means for practice
 
-Prompt Coach demonstrates that [[agentic-ai|agentic]] tutoring can deliver [[scaffolding]] and [[feedback]] in-flow, contextualized to real work, for an emerging skill that traditional instruction fails to teach. Its Socratic, self-correction emphasis aligns with [[formative-assessment]] practice and the [[socratic-method]] tradition, and its dimensional scoring offers a concrete model for [[intelligent-tutoring]] that diagnoses *which* facet of a complex skill a learner is weak on. The finding that prompt-writing proficiency is independent of programming experience implies that [[cs-education]] and [[professional-training]] must treat prompt fluency as its own learnable skill — echoing the knowledge base's [[prompt-based-programming-lesson]] — rather than expecting it to emerge from general expertise.
+- **Instructors.** Teach prompt crafting as its own explicit skill rather than assuming it follows from programming experience: baseline prompt quality was flat across a mean of 9.6 years of development experience (r = 0.11), so [[cs-education]] and [[professional-training]] cannot let prompt fluency emerge incidentally.
+- **Instructors.** Coach the dimensions learners overlook — Inclusion of Constraints, Error Handling, and Context Awareness, the three lowest baseline scores (50.51, 52.56, 56.56) — instead of re-teaching Clarity (79.87), where learners were already strong.
+- **Designers.** Put the tutor where the work happens: an IDE-resident agent that scores a prompt across eight dimensions and asks [[socratic-method|Socratic]] questions on the weakest ones produced statistically significant gains (63.04 → 71.69) after a single 60-minute session, so [[scaffolding]] and [[feedback]] can be delivered in flow rather than in a separate lesson.
+- **Designers.** Make guidance adaptive and self-correcting: PC lightens attention on mastered dimensions over time and never supplies the corrected prompt, which keeps the learner in the repair loop and aligns tool design with [[formative-assessment]].
+- **Faculty developers.** Treat agentic tutors as continuing [[professional-training]] for [[ai-literacy]]: participants unanimously agreed PC improved their prompt-writing (100% agreement) and most would integrate it into their regular workflow, so embedding AI-skill development in authentic work is a credible alternative to abstract instruction.
 
-For [[ai-literacy]] among practitioners, PC shows that AI-skill development can be embedded in authentic work rather than delivered as abstract instruction, with high trust and adoption readiness among working developers. The adaptive, in-flow design also speaks to the broader direction of [[agentic-ai|agentic learning systems]]: personalized, context-aware coaching that fades guidance as proficiency grows. Future directions — longer [[student-engagement|engagement]], retention measures, and downstream code quality — point toward the need for longitudinal evaluation of agentic tutors beyond a single session.
+## Limitations
 
-- **In-flow Socratic tutoring:** PC delivers [[scaffolding]] and [[feedback|Feedback Loop]] support directly inside the IDE, contextualized to the developer's code and the target model.
-- **Empirical gains:** Statistically significant prompt-quality improvement after one 60-minute session, aligning with findings in [[prompt-based-programming-lesson]] about prompt fluency as a learnable skill.
-- **Self-correction emphasis:** Targeted Socratic questions steer developers to repair their own prompts rather than receive answers, consistent with [[formative-assessment]] practice.
-- **Professional context:** Extends [[cs-education]] and [[professional-training]] beyond novices to working developers.
-- **Trust and adoption:** Participants reported high trust and unanimous belief PC improved their skills, contributing to [[ai-literacy]] for practitioners.
+- The evaluation is a single-arm, within-subjects pre/post design with 15 professional developers recruited from one organization and required to already use AI coding assistants; with no control group, the 13.73% mean gain cannot be separated from practice effects or task familiarity.
+- The learning phase was capped at 60 minutes because of limited participant availability, and each phase used only three APPS benchmark tasks (10 minutes each), so retention and downstream code quality are unmeasured and the post-learning scores rest on a small number of prompts per person.
+- Sessions ran in isolation from any real project codebase on a single benchmark, which removes exactly the project context the tutor is designed to exploit and limits generalizability beyond the APPS task family.
+- Prompt quality was scored by the system's own eight-dimension registry and learner perceptions by 7-point Likert items (means 5.67–6.33); neither measures independently verified code correctness or learning transfer.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Constructing Epistemic AI Literacy: Detecting Epistemic Aims and Processes in Student-AI Co-Programming"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, student-ai-interaction]
@@ -31,9 +31,20 @@ page_kind: [framework]
 
 The study operationalizes epistemic constructs that are normally hard to observe. Epistemic aims and processes were detected in student-AI co-programming interaction data, with manual annotation of a subset grounding the constructs. Complementary automated approaches — few-shot prompting with large language models and regex-based scripts — were then used interactively to label the full dataset at scale, providing a path from small-scale qualitative insight to large-scale measurement. The design responds to a limitation identified in a 2022 UNESCO report: AI education has typically taken a technology-oriented approach, ignoring the human and in-depth ethical questions of how AI is actually used in practice.
 
-## Implications for AI in Education
+## What this means for practice
 
-The finding that most student-GenAI interactions exhibit weak epistemic engagement — outsourcing and verification-seeking rather than mastery-oriented aims with justification — suggests that mere access to AI tools does not produce learning-oriented use. For [[scaffolding]] design in programming education, the work points to interventions that prompt students to construct questions, evaluate AI outputs, and justify their integration decisions, supporting the development of [[metacognition]] and [[self-regulated-learning]] alongside technical skill. The EAIL framework also connects AI literacy to epistemic practice in [[cs-education]]: curricula should cultivate the processes by which learners decide what to trust and why, rather than only measuring whether tasks are completed.
+- **Instructors.** Design for epistemic aims rather than task completion: only 11.1% of interactions coupled mastery-oriented aims with advanced strategies such as epistemic justification, so access to GenAI did not by itself produce learning-oriented use.
+- **Instructors.** Prompt the epistemic moves directly — construct a question, evaluate the AI output, justify why the answer is integrated — because 78.8% of interactions relied on outsourcing and verification-seeking.
+- **Designers.** Instrument the five observable strategies (outsourcing, explanation seeking, verification seeking, prompt monitoring, epistemic justification) so that [[formative-assessment|assessment]] can surface which epistemic process a student is actually running.
+- **Faculty developers.** Move [[ai-literacy]] curricula from tool mechanics to epistemic practice: teach students how to decide what to trust and why, not only how to operate a model.
+- **Researchers.** Use the framework's detection pipeline as a measurement instrument for [[student-experience]] at scale rather than relying on small hand-coded samples.
+
+## Limitations
+
+- The analysis is a secondary analysis of the StudyChat corpus: 200 complete co-programming chat sessions (about 2,000 prompts) randomly sampled from one undergraduate AI course at a single large U.S. research university, so the 78.8% and 11.1% figures describe that course and context.
+- Only 499 turns were manually annotated to establish the gold standard, and the scalable labeling that produced the full-dataset percentages was validated against that small set; the authors call for comparing additional labeling approaches and multiple LLMs within the same pipeline to test robustness.
+- The authors state the dataset's size and scope should be expanded as resources permit to enable stronger generalization and re-validation of the epistemic patterns.
+- Epistemic aims are inferred from discourse markers and linguistic indicators in logged dialogue, so the constructs are operationalizations of observable talk rather than direct evidence of a learner's intent.
 
 ## Connected Concepts
 - [[critical-thinking]]
