@@ -1,7 +1,7 @@
 ---
 title: Evaluating a Visual Query Tracer and Builder for Learning Declarative Logic Programming
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-20T03:44:50-04:00"
 type: article
 pedagogy: [active-learning, scaffolding]
 technology: [visualization]
@@ -24,9 +24,20 @@ Participants rated the tracer positively for building intuition about query eval
 - The tool functioned as [[scaffolding]] by making invisible computation concrete, helping novices connect declarative specifications to their execution semantics.
 - The results support the wider claim that [[visualization]] of formal/symbolic machinery aids learning in declarative logic programming and [[computational-thinking]] development.
 
-## Implications
+## What this means for practice
 
-The study suggests declarative and logic-programming courses can adopt visual query tracers not just as developer utilities but as [[pedagogy|pedagogical]] scaffolds. It reinforces the value of making computational processes observable — an insight shared with [[cs-education]] and knowledge-graph [[teacher-role|teaching]] approaches — and points toward integrating such visualization into [[active-learning]] and [[cs-education]] curricula.
+- **Instructors.** Adopt the Nemo Explain Visualizer as [[scaffolding]] in declarative logic programming courses, not only as a developer utility: the 14 participants reported that visual tracing is how they built intuition about query evaluation.
+- **Instructors.** Expect to prompt novices: less experienced participants only understood the program shortly before the third task and needed hints from the interviewers, while the most experienced participant identified the graph structure and purpose during the first task.
+- **Instructors.** Build validation checks into exercises, such as identifying equivalent ways to unrestrict a query, which most participants answered correctly during the interviews.
+- **Learners.** Trace queries node by node to connect declarative rules to execution semantics, and read the per-node performance strips to see where evaluation time goes.
+- **Learners.** Use the linked editor view to jump from a rule to its highlighted lines in the code, the movement between query and program the tool was extended to support.
+
+## Limitations
+
+- The evaluation involved 14 participants from a single university knowledge-graph course at varying levels of involvement rather than the full target group, and the authors call for evaluations that invite more participants sampling both experts and students.
+- No baseline condition (for example a command-line interface) was included, so the positive technology-acceptance and user-experience scores are evidence of subjective support only and cannot support quantitative claims about learning benefit.
+- Sessions were conducted in interviews with hints from the interviewers rather than unsupervised use, and no comprehension, grade or other learning-outcome measure was collected.
+- The study surfaced tool bugs (request queuing under rapid pagination, the replace-symbol interaction in the editor) and only discussed scalability, leaving node grouping, focus+context techniques and indicators for infinite recursion to future versions.
 
 ## Connected Concepts
 
