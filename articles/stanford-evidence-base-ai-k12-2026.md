@@ -1,7 +1,7 @@
 ---
 title: "The Evidence Base on AI in K-12: A 2026 Review"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, sociocultural-learning]
@@ -31,16 +31,6 @@ page_kind: [synthesis, evaluation]
 
 **Educator Evidence.** While the student-focused causal evidence is thin, the educator evidence base is even sparser. Very few high-quality studies examine how AI affects teacher practice, workload, or [[educational-development|professional development]] — a gap that is particularly concerning given the rapid push to deploy AI tools in classrooms and the documented [[genai-can-harm-teaching-rct-2026|risks of AI harming teaching quality]].
 
-## Implications for AI in Education
-
-This review is a watershed document for the field. It establishes that the evidence base for AI in K-12 education is not merely thin — it is *absent* for the populations and contexts where deployment is most aggressively pursued (U.S. K-12 classrooms). The finding that zero high-quality causal studies exist for U.S. K-12 students should give pause to every district [[administrator]], edtech vendor, and policy maker advocating for rapid AI adoption.
-
-The consistent pattern of immediate gains without durable transfer challenges the prevailing assumption that AI assistance automatically improves learning. It suggests that many AI education tools may function as **performance prosthetics** — helping students complete tasks in the moment without building the underlying knowledge that enables independent performance later. This distinction between assisted performance and genuine learning is well-established in [[rct|RCT-based education research]] but has been largely overlooked in the AI education hype cycle.
-
-The superiority of pedagogically designed tools over general-purpose AI is actionable: it implies that simply giving students access to ChatGPT or similar chatbots is not merely suboptimal but potentially harmful. Effective [[ai-education|AI in education]] requires deliberate [[learning-design|instructional design]] — [[scaffolding]], [[sociocultural-learning|ZPD]]-aligned support, refusal to bypass student thinking, and integration with established learning activities. This connects to broader work on [[ai-pedagogical-orientation]] and the growing recognition that [[access-not-enough-ai-tutoring-2026|access to AI tutoring is not enough]] without thoughtful pedagogical integration.
-
-For the research community, the review functions as both a wake-up call and a roadmap. It identifies urgent priorities: long-term studies with delayed post-tests, research in authentic U.S. K-12 settings, studies of educator use and impact, and research designs that disentangle assisted performance from durable learning. The [[k-12]] field urgently needs to move beyond descriptive and technical-computational papers (which together constitute 92% of the repository) toward rigorous causal designs.
-
 ## Tutoring-Specific vs. General-Purpose AI
 
 The single most consistent finding across the review is that **pedagogically designed, tutoring-specific AI consistently outperforms general-purpose chatbots** (e.g., ChatGPT, Gemini) on durable learning outcomes. The mechanism is preservation of learning work: tutoring-specific tools retain [[desirable-difficulties|productive struggle]] via graduated hints, avoid suppressing [[metacognition]], and calibrate to the [[sociocultural-learning|learner's zone of proximal development]] — where general-purpose AI that simply completes tasks short-circuits all three.
@@ -56,6 +46,21 @@ The single most consistent finding across the review is that **pedagogically des
 **Why this happens (learning-science mechanisms):** (1) **Desirable difficulties** — general-purpose AI removes productive struggle; tutoring tools preserve it via graduated hints. (2) **Germane load** — effective learning requires processing that feels effortful, which general AI short-circuits ([[cognitive-offloading|cognitive load / offloading]]). (3) **Metacognition suppression** — when AI completes reasoning, students lose practice in monitoring their own understanding. (4) **Expertise reversal** — novices need scaffolding, not answers; general AI gives answers while tutoring AI gives scaffolds.
 
 **Caveats:** The causal comparison base is tiny (most studies are single-condition AI-access vs. no-access, not head-to-head tutoring vs. general); "tutoring-specific" is not yet a standardized design category; and long-term transfer data (months or years out) is essentially absent.
+
+## What this means for practice
+
+- **Instructors.** Choose tutoring-specific tools with pedagogical guardrails — graduated hints, step-by-step reasoning, refusal to give direct answers — over general-purpose chatbots for practice work, since the general-purpose chatbot in Bastani et al. produced **~17% worse** closed-book exam performance while the guarded tutor mitigated that drop.
+- Check unassisted performance rather than practice grades: Chen et al. found LLM-Tutor raised homework scores without raising unassisted exam scores, so schedule closed-book checks before treating an improvement as learning.
+- Pair AI assistance with established study strategies rather than substituting for them — retention improved only when AI use was combined with traditional strategies such as note-taking (Kreijkes et al., 2026).
+- **Administrators.** Do not justify district-wide rollout with this evidence base: zero high-quality causal studies cover U.S. K-12 student settings, and the 14 causal studies of students are postsecondary or international high school, frequently single 20-minute sessions.
+- **Researchers.** Build delayed post-tests and unassisted outcome measures into every AI-in-classroom study, and target authentic U.S. K-12 settings and educator impact, since the review identifies those designs as missing rather than merely underrepresented.
+
+## Limitations
+
+- The review's repository is 87% arXiv preprints and its quality screening pairs an LLM pre-screen with human review against What Works Clearinghouse standards, so the 20 "strong causal" studies it identifies are judged on preprint reporting rather than re-analyzed primary data.
+- Search terms were limited to "education" combined with "AI" or "artificial intelligence," and pre-LLM rule-based intelligent tutoring systems were excluded, which bounds what the 818-paper repository can represent.
+- The causal studies it does contain are short-term and largely postsecondary or international, so the review cannot speak to year-long use in U.S. K-12 classrooms.
+- The saved full text is a truncated extraction; the source itself notes that the educator findings, policy implications, and recommendations were cut off, so those sections are not represented on this page.
 
 ## Connected Concepts
 

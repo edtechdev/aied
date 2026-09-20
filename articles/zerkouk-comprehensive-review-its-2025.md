@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Review of Intelligent Tutoring Systems
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogical-agent, pedagogical-llm-training]
@@ -46,15 +46,20 @@ This review provides the most comprehensive mapping of the [[intelligent-tutorin
 4. **Domain-specificity is real.** A system effective in math may fail in writing; claiming "general tutoring" without domain evidence is overstated.
 5. **[[ethics|Ethical]] and [[equity-in-ai-education|equity]] dimensions matter.** [[privacy|Data privacy]], [[bias-mitigation|algorithmic bias]], and [[academic-integrity|academic integrity]] are core determinants of whether ITS gains are sustainable and fair.
 
-## Implications
+## What this means for practice
 
-For researchers, this review provides both a taxonomy of the field and a methodological call to action. The mixed effectiveness findings underscore the need for [[rct]]-quality studies that can disentangle the effects of specific ITS features from confounds like novelty effects, instructor quality, and student self-selection. The review's emphasis on real educational settings — as opposed to laboratory studies — pushes the field toward ecologically valid research designs that mirror the [[ai-education]] challenges faced by practitioners.
+- **Researchers.** State the tutoring principles a system is meant to enact before evaluating it, because the review finds many implementations driven by technical capability rather than pedagogical grounding, which leaves their behavior untraceable to any stated theory.
+- Design [[rct|RCT-quality]] studies that separate the effect of a specific ITS feature from confounds such as novelty, instructor quality, and student self-selection, and run them in real educational settings rather than laboratories.
+- Pre-register the design and report a unified set of key performance indicators, since evaluation methods ranging from user surveys to pre/post testing currently block comparison and reproducibility across studies.
+- Disaggregate outcomes by gender, socioeconomic background, and prior-knowledge level; the review finds demographic disaggregation consistently absent from reported results.
+- **Designers.** Model metacognition, motivation, and affect alongside domain knowledge and embed [[learning-analytics]] from the first deployment, then treat benchmark scores as a starting point rather than evidence of classroom effectiveness and plan explicitly for [[curriculum-design|curriculum]] alignment, teacher training, and LMS integration.
 
-For system designers, the review's catalog of pedagogical gaps suggests concrete priorities: ITS should be built on explicit pedagogical frameworks rather than retrofitted onto technical architectures; domain-modeling should incorporate richer representations of learner cognition and affect; and [[learning-analytics]] should be embedded from the start to enable continuous improvement and evidence generation.
+## Limitations
 
-The review's identification of persistent student modeling limitations connects directly to emerging work on [[nie-personavlm-long-term-personalization-2026]] and [[history-aware-student-simulation]], which offer potential pathways toward more sophisticated learner representations. Similarly, the call for [[adaptive-learning]] that goes beyond simple difficulty adjustment toward truly personalized pedagogical experiences connects to the [[learnmate2-llm-adaptive-learning]] and [[nie-personavlm-long-term-personalization-2026]] research streams.
-
-For the [[edtech-platform]] industry and [[educational-policy-ai]] community, this review serves as a sobering reminder that technical capability does not guarantee educational effectiveness. The mixed evidence base should temper claims of AI tutoring as a silver bullet while also validating continued investment in rigorous ITS research and development. The path forward requires [[ai-ed-evaluation]] frameworks that match the sophistication of the systems being evaluated.
+- Inclusion required a sample of at least 100 participants and a validation period of at least 6 weeks, so smaller but well-controlled studies are systematically excluded from the 127 articles reviewed.
+- The review screened 37,617 records down to 127 articles plus 26 web reports, restricted to English-language, peer-reviewed work indexed in Web of Science, Scopus, IEEE Xplore, and Springer.
+- Its effectiveness conclusions rest on studies the review itself judges to be mostly short-term and controlled, measured in part by self-reported engagement and satisfaction that may not correlate with measured learning.
+- The headline figures — roughly 20% improvement for ITS and up to 98% for individual human tutoring — are drawn from heterogeneous evaluations with inconsistent outcome measures, so they are not a common effect size.
 
 ## Connected Concepts
 
