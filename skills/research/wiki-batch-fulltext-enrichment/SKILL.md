@@ -63,7 +63,10 @@ Delegate in waves (10-child concurrency limit). Each subagent gets: article path
 
 ## Pitfalls
 - **Never overwrite `AIED-BACKLOG.md`** — it is a real tracked file. If you accidentally write to it, `git checkout AIED-BACKLOG.md` to restore; save audits to a separate untracked file.
-- **Children write British spellings however firmly the brief forbids them.** Pages drafted by workers that copied phrasing out of a UK paper arrived with `modelling` (x16 on one page), `behaviour`, `artefact`, `labour`, `defence`, `generalisability`. Always run `check-us-english.py` after a wave and respell body prose only — never the `## Citation` (which reproduces the paper's own title) and never the frontmatter. A curated pair list beats a blanket `-ise` rule: `analyses` is correct US English as a noun, so a naive rule turns "meta-analyses" into "meta-analyzes".
+- **Children write British spellings however firmly the brief forbids them.** Pages drafted by workers that copied phrasing out of a UK paper arrived with `modelling` (x16 on one page), `behaviour`, `artefact`, `labour`, `defence`, `generalisability`. Always run
+  `check-us-english.py` after a wave and fix with `tooling/scripts/respell-us-english.py --changed`,
+  which respells body prose only — never the `## Citation` (which reproduces the paper's own title)
+  and never the frontmatter. A curated pair list beats a blanket `-ise` rule: `analyses` is correct US English as a noun, so a naive rule turns "meta-analyses" into "meta-analyzes".
 - **Word budgets drift in both directions.** Children asked for ~600-900 body words returned 900-1,958 when the section minimums plus five-to-seven findings set a higher floor, and reported the overshoot rather than hiding it; shorter pages came with sections at 96 words instead of 120-180. Read the reported counts and decide, rather than assuming the brief was met.
 - **Verify the numbers a page already carries before rewriting them away.** A page can hold genuine values that no stored copy of the source contains (see `wiki-source-acquisition`, "Corrupt, wrong or lossy stored sources"). Re-fetch the authoritative version before concluding the page invented a figure.
 - **Concurrency:** max 10 parallel subagents; dispatch the next wave only after the current one completes.
