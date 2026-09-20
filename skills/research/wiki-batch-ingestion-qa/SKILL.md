@@ -15,6 +15,7 @@ Use when a large batch of article pages was created (subagent fan-out or full-te
 
 ## QA checklist (run in order, all mechanical via Python)
 
+0. **The frontmatter block exists at all** — a subagent-created page can land with a body only: no `---` block, no `title`, no `created`, no `sources`. Every later check silently skips such a page (the facet validator walks frontmatter keys, the section auditor counts headings), so the batch reads clean while that page has no metadata at all. Before anything else, confirm the page count moved by exactly the batch size (`python3 tooling/scripts/validate-facets.py` prints the total) and that every new file starts with `---`. Repair a page with no block by writing the full frontmatter first (title, created/updated, type, confidence, sources, facets), then continue the checklist.
 1. **Double-H1 header titles** — established wiki articles have NO leading `# Title` H1 (body goes straight from frontmatter into the `> **Synthesis:**` blockquote). Subagent-created pages frequently emit a duplicate H1. Detect `^#\s` at the start of the body; remove it. **If the removed H1 contained wikilinks, re-add those links into the narrative body** (they're otherwise silently lost).
 2. **Links inside headings** — any `##` heading containing `[[...]]` violates the no-links-in-headings rule; remove the wikilink from the heading (keep the heading text plain).
 3. **Same-text pipes** `[[slug|slug]]` → bare `[[slug]]` (regex `\[\[([a-z0-9-]+)\|\1\]\]` → `[[\1]]`).

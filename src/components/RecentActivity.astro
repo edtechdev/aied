@@ -5,7 +5,7 @@
  * on-this-page TOC when present. On mobile the right rail stacks below the page
  * content (single-column grid), so this shows below the article/concept page.
  *
- * "Recently Added Pages" merges articles, concepts, and FAQs in one
+ * "Recently Added Pages" merges articles, concepts, FAQs and resources in one
  * reverse-chronological list (newest created first), with the same type icons
  * the journal page uses, so the sidebar reads like a teaser for /aied/journal.
  */
@@ -16,7 +16,7 @@ interface Item {
 }
 
 interface PageItem extends Item {
-  kind: 'article' | 'concept' | 'faq';
+  kind: 'article' | 'concept' | 'faq' | 'resource';
 }
 
 interface Props {
@@ -27,7 +27,7 @@ interface Props {
 const { pages, concepts } = Astro.props;
 
 // Lucide icons, identical to the journal page's per-type markers:
-// file-text (article), lightbulb (concept), circle-help (FAQ).
+// file-text (article), lightbulb (concept), circle-help (FAQ), toolbox (resource).
 const ICONS: Record<PageItem['kind'], string> = {
   article:
     '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>',
@@ -35,12 +35,15 @@ const ICONS: Record<PageItem['kind'], string> = {
     '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>',
   faq:
     '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
+  resource:
+    '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path><line x1="7" y1="12.5" x2="7" y2="14.5"></line><line x1="12" y1="12.5" x2="12" y2="14.5"></line><line x1="17" y1="12.5" x2="17" y2="14.5"></line></svg>',
 };
 
 const KIND_LABEL: Record<PageItem['kind'], string> = {
   article: 'Article',
   concept: 'Concept',
   faq: 'FAQ',
+  resource: 'Resource',
 };
 ---
 
