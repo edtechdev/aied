@@ -3,8 +3,8 @@
 #
 # Usage: commit-if-green.sh <message-file> <path> [<path> ...]
 #
-# Runs the US-English, list-formatting and facet gates over the whole repo, and the section audit over the paths
-# being committed when they are article pages. Any failure aborts before `git commit` runs, which is the point:
+# Runs the US-English, list-formatting and facet gates over the whole repo, and the section audit plus the
+# number-grounding check over the article pages being committed. Any failure aborts before `git commit` runs, which is the point:
 # committing past a red gate leaves the defect in history and needs an amend to remove.
 set -uo pipefail
 cd "$(dirname "$0")/../.." || exit 1
@@ -42,6 +42,12 @@ if [ "${#articles[@]}" -gt 0 ]; then
     printf 'GATE FAILED: section-audit\n%s\n' "$(printf '%s' "$out" | grep -E 'FAIL|^    - ' | head -12)"
     fail=1
   fi
+fi
+
+if [ "${#articles[@]}" -gt 0 ]; then
+  slugs=()
+  for p in "${articles[@]}"; do slugs+=("$(basename "${p%.md}")"); done
+  run_gate "number-grounding" python3 tooling/scripts/verify-number-grounding.py "${slugs[@]}"
 fi
 
 if [ $fail -ne 0 ]; then

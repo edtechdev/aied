@@ -4,6 +4,7 @@
 Usage:
     python3 tooling/scripts/verify-number-grounding.py <slug> [<slug> ...]
     python3 tooling/scripts/verify-number-grounding.py --all
+    python3 tooling/scripts/verify-number-grounding.py --changed   # article pages in the working tree
 
 For each article, every numeric token in the narrative body (everything between
 the frontmatter and the `## Citation` section) is tested against the article's
@@ -14,16 +15,20 @@ What this catches: invented or mis-transcribed statistics. A real case: an
 article asserted "78% domain accuracy vs 12% for the base model" while neither
 number appeared anywhere in the paper.
 
-Caveats: PDF text extraction causes false positives — leading-dot p-values
-(`.001`), digits broken across lines, table columns split onto separate lines,
-and enumeration digits. A miss means "investigate", not "fabrication": grep the
-raw file for the value before changing anything.
+Caveats: PDF and HTML text extraction causes false positives — leading-dot
+p-values (`.001`), digits broken across lines, table columns split onto separate
+lines, enumeration digits, and values duplicated by an HTML-to-text conversion
+(an arXiv HTML raw prints `0.6950.695`, which defeats a strict word boundary). A
+miss means "investigate", not "fabrication": grep the raw file for the value
+before changing anything, and requalify the page only when the source really does
+not carry the number.
 
 Exit code is 1 when any article has ungrounded numbers, 0 otherwise.
 """
 import glob
 import os
 import re
+import subprocess
 import sys
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -86,8 +91,25 @@ def ungrounded(slug):
     return misses
 
 
+def changed_slugs():
+    """Article slugs touched in the working tree, so the check can gate one commit."""
+    out = subprocess.run(['git', '-C', WIKI, 'status', '--porcelain', '--', 'articles'],
+                         capture_output=True, text=True).stdout
+    slugs = set()
+    for line in out.splitlines():
+        path = line[3:].strip().split(' -> ')[-1]
+        if path.startswith('articles/') and path.endswith('.md'):
+            slugs.add(os.path.basename(path)[:-3])
+    return sorted(slugs)
+
+
 def main(argv):
-    if not argv or argv[0] == '--all':
+    if argv and argv[0] == '--changed':
+        slugs = changed_slugs()
+        if not slugs:
+            print('No article pages changed in the working tree; nothing to ground.')
+            return 0
+    elif not argv or argv[0] == '--all':
         slugs = sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(WIKI, 'articles', '*.md')))
     else:
         slugs = argv
