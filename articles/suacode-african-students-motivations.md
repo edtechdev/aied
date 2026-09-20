@@ -1,7 +1,7 @@
 ---
 title: 'Why SuaCode?": Understanding African Students'' Motivations for Taking a Smartphone-Based Online Coding Course'
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T03:45:11-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [online-teaching-and-learning]
@@ -23,9 +23,18 @@ level: [secondary, higher ed]
 - Understanding learner motivations informs the design of accessible, AI-supported MOOCs for low-resource contexts.
 - The course is developed by the team behind the Kwame AI teaching assistant, connecting motivation [[research-methods-aied|research]] to AI-assisted programming learning.
 
-## Implications
+## What this means for practice
 
-Studying why learners enroll grounds [[learning-design|course design]] in actual learner needs, connecting to [[self-determination-theory]] and [[motivation]] research. Delivering coding education on smartphones in low-resource contexts directly engages [[digital-divide]] and [[equity-in-ai-education]], while the tie to the Kwame AI assistant links motivation findings to outcome evidence on AI-supported programming learning (see [[genai-meta-analysis-programming-learning]]).
+- **Learners.** Enroll with intrinsic goals you actually care about, such as improving yourself, learning alongside like-minded people, and gaining skills to address societal problems, because free and accessible content was not a strong enough motivator on its own while 68.7% of coded responses named intrinsic reasons.
+- **Learners.** Treat the peer community as part of the course rather than a side effect: learning with like-minded individuals was one of the intrinsic motives students named, so build study connections early in a [[cs-education]] MOOC.
+- **Learners.** Take the smartphone route seriously when desktop access is out of reach, since the course is delivered entirely on phones and offers an entry point where the [[digital-divide]] would otherwise exclude learners.
+
+## Limitations
+
+- Preliminary analysis: the study codes a random sample of 450 of the 3,000+ open-ended survey responses, and the authors expect the full set to surface additional codes.
+- Single instrument and single course: an open-ended response survey administered to self-identified African students already enrolled in SuaCode, with no comparison group, no follow-up, and no learning outcome measured.
+- Motivations are not yet linked to outcomes: persistence and learning-gains analyses remained in progress, and subgroup differences by gender, region, and age had not been examined.
+- Respondents are self-selected enrollees who chose to answer, so the findings speak for learners who both enrolled and responded in a context where less than 1% of African secondary-school leavers possess fundamental coding skills.
 
 ## Connected Concepts
 

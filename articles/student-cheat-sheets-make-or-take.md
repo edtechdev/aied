@@ -1,7 +1,7 @@
 ---
 title: "Make or Take: How Students Navigate Self-Created and Instructor-Provided Cheat Sheets"
 created: "2026-07-28T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T03:45:11-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [assessment]
@@ -22,9 +22,20 @@ audience: [instructors, assessment designers]
 - Constructing a cheat sheet operated as an active, generative study strategy (selection, condensation, organization), linking the choice directly to metacognitive and self-regulated learning rather than mere logistics.
 - The findings reframe exam policy: whether a student makes or takes a sheet shapes not just performance but the learning process itself, a tension that mirrors AI-driven [[cognitive-offloading|cognitive offloading]].
 
-## Implications
+## What this means for practice
 
-This work suggests exam designers should treat the cheat-sheet decision as a formative learning opportunity, not an administrative one. In the AI era the same tension recurs: when students can offload artifact construction to an [[llm]] or a provided resource, the metacognitive rehearsal of building a sheet may be lost, reinforcing the value of [[authentic-assessment]] and [[formative-assessment]] designs that reward the process of construction and [[self-efficacy]] development.
+- **Instructors.** Choose the cheat-sheet policy by the study behavior you want rather than by administrative convenience: students who built their own sheets reported significantly longer preparation time for the midterm and described selecting, organizing, and compressing material as studying itself.
+- **Assessment designers.** Design exams so that an instructor-provided sheet still demands the judgment the course certifies; across both formats students described sheets mainly as cutting recall time for formulas and definitions rather than replacing reasoning.
+- **Instructors.** State what a sheet may contain and how it may be used, because students reported over-reliance, difficulty locating information quickly, and frustration with legibility and space constraints even while valuing the sheets.
+- **Instructors.** Expect the choice to move: preferences were dynamic across the three exams, so treat make-vs-take as a per-student [[self-regulated-learning]] decision rather than a fixed rule for a course.
+- **Instructors.** Weigh offloading against [[metacognition|metacognitive]] rehearsal as AI enters preparation: if an [[llm]] drafts the artifact, the construction work that made self-created sheets valuable may be lost, which argues for [[authentic-assessment]] and [[formative-assessment]] designs that reward the process of construction.
+
+## Limitations
+
+- Single course and single term: one senior-level undergraduate software-requirements course taught by one instructor under one cheat-sheet policy, so the choices observed may not transfer to introductory programming, other exam structures, or online and hybrid delivery.
+- Small survey waves: 53, 50, and 44 responses across the three waves, with only 41 students completing all three and forming the longitudinal cohort used for the over-time analysis.
+- No artifact-level comparison: the study recorded how students reasoned about the options, not what the two sheet types actually contained, so overlap in content, organization, information density, and exam alignment is unknown.
+- AI-supported cheat-sheet creation was not examined, and no student in the data identified AI as a reason for choosing instructor-provided over self-created sheets.
 
 ## Connected Concepts
 
