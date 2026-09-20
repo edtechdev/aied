@@ -53,6 +53,31 @@ a real browser session, so step 3 is the fix rather than retrying the download.
   generation is a screening flag for the maintainer, not a page (see `wiki-batch-ingestion-qa`
   item 11).
 
+## Corrupt, wrong or lossy stored sources
+
+Three defects look identical from a page's perspective (its numbers cannot be verified) and need
+different fixes. Identify which one you have before touching the page:
+
+- **Binary saved as text.** `file -b raw/papers/<id>.md` reports `data` and the body has no prose:
+  a PDF was written with a `.md` extension. Re-fetch the PDF and replace the file, keeping the
+  original aside as `<name>.corrupt.bak`. Four such files in one sweep were all arXiv and all
+  recoverable in minutes.
+- **The raw holds a different paper.** Read the raw's own title and author line and compare with the
+  page's `## Citation` before enriching. A page citing arXiv 2605.01097 had a raw file holding an
+  explainable-knowledge-tracing study by other authors; every number on the page was missing from it,
+  which reads as fabrication until you check whose paper the raw actually is.
+- **The extraction dropped the tables.** A publisher PDF rendered by `pdftotext` loses table bodies,
+  and an OA landing page truncated by a character budget loses them too, so a page can carry genuine
+  regression coefficients and message-length means that no stored copy contains. Do **not** rewrite
+  the page from the lossy copy: fetch the authoritative version first (the published PDF, or the
+  rendered page via a real browser) and re-check. In one case the coefficients were absent from both
+  the stored text and a 200k-char HTML rendering but present in the published PDF — the page was
+  right and the source was wrong.
+
+A publisher PDF that answered an earlier scripted fetch with an HTML error page often succeeds on a
+retry that sends a browser user-agent plus `Accept: application/pdf`. Retry once before declaring a
+DOI-backed source unobtainable.
+
 ## Write-back contract for `raw/papers/<slug>.md`
 
 Keep `source_url`. Add `updated:`, a provenance field (`provided_pdf: pdf-sources/<slug>.pdf` for a
