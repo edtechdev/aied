@@ -1,7 +1,7 @@
 ---
 title: "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning"
 created: "2026-06-30T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -39,13 +39,20 @@ The construct connects [[generative-ai|GenAI]] use to established theories of [[
 
 The work is a [[theory-development-aied|theory-building]] contribution, offering a [[discipline-specific-aied|domain-specific]], process-sensitive account of how students regulate AI use — moving beyond the aggregate/survey approaches that dominate GenAI-in-education research.
 
-## Implications for AI tutor design and classrooms
+## What this means for practice
 
-**For AI tutor design,** systems should monitor how learner interaction develops *over time*, not only whether individual prompts are high quality. Tutors could detect reactive trajectories (repeated requesting, increasing verification, validation without further math work) and trigger targeted [[scaffolding]]. Crucially, a temporal perspective prevents premature scaffolding: isolated answer-seeking or verification is not necessarily problematic if embedded in a broader trajectory that includes conceptual, procedural, or constructive work. Scaffolding should respond to patterns of interaction, not single prompts out of context. This requires modeling the domain's knowledge components and epistemic practices — the study used Blum's framework for mathematical modeling.
+- **Instructors.** Build explicit AI routines into lessons: have students name their knowledge gaps before opening the tutor, restate AI responses in their own words, check whether the answer addressed their original uncertainty, and finish the transfer step with the AI switched off.
+- **Instructors.** Teach students which domain steps to keep for themselves. Delegating routine computation is less problematic once students have engaged with the underlying concepts, but leaning on the tutor to validate answers removes the monitoring and evaluating they would otherwise do on their own reasoning.
+- **Instructors.** Read student–AI transcripts as diagnostic evidence rather than chat logs. They show whether a student is stuck understanding the real-world situation, constructing a model, or carrying out the mathematical work, and where the student seeks support.
+- **Designers.** Monitor how a student's interaction develops over time instead of scoring individual prompts. Reactive trajectories — repeated requesting, growing verification, validation without further mathematical work — are the signal worth acting on, and this is also where [[cognitive-offloading|over-reliance]] on AI first becomes visible.
+- **Designers.** Avoid premature scaffolding. Isolated answer-seeking or verification is not necessarily a problem inside a broader productive trajectory, so trigger [[scaffolding]] on patterns of interaction rather than single prompts, and model the domain's knowledge components — as this study did with Blum's framework for [[math-education|mathematical modeling]] — so the response fits the epistemic step the student is on.
 
-**For classroom practice,** teachers should guide students in remaining epistemically proactive while using AI: identifying knowledge gaps before starting, explaining AI responses in their own words, checking whether a response addresses their original uncertainty, and completing transfer steps without AI support. Teachers should help students distinguish tasks that can be safely delegated to AI from those requiring preserved epistemic responsibility — for example, delegating routine computation is less problematic once students have engaged with underlying concepts, but relying on AI to validate answers may reduce opportunities for monitoring and evaluating one's own reasoning. Student–AI interactions can also become a source of diagnostic information for teachers, revealing how learning strategies develop, where students seek support, and which domain-specific steps they engage with or avoid.
+## Limitations
 
-The study is correlational (temporal indicators are not causal mechanisms), and the interaction was short, but it offers a process-sensitive complement to the knowledge base's [[cognitive-offloading|over-reliance]] and [[student-ai-interaction]] threads — showing that *how* AI use unfolds over time matters for learning as much as *whether* or *how much* it occurs.
+- 112 [[k-12|Grade-9]] students were recruited from three public German Gymnasium schools, but only 97 completed the post-AI-interaction assessment that the analysis depends on.
+- The study is correlational by design: the authors state that the temporal indicators cannot be interpreted as causal mechanisms, only as predictors of post-test performance.
+- Interaction was confined to a single short session embedded in one regular mathematics lesson, with pre- and post-test items drawn from the IQB VERA pool; the authors call for longitudinal replication of these [[student-ai-interaction]] findings.
+- Coding reliability was uneven, with only moderate agreement on some dimensions, especially the mathematical-modeling steps — the dimension that carried one of the two significant temporal predictors.
 
 ## Connected Concepts
 
