@@ -21,6 +21,21 @@ The paper contributes a design artifact: a framework of two task-specific declar
 
 This [[discipline-specific-aied|domain-specific]] approach is proposed as a foundation for fostering more honest assessment in Computer Science and other disciplines, aiming to better prepare students for professional environments where documenting GenAI workflows might be an essential job requirement. The work connects to broader discussions about the tension between [[educational-policy-ai|institutional regulation]] and [[student-experience|student practice]].
 
+## What this means for practice
+
+- **Instructors.** Replace the generic binary declaration with the paper's task-specific structures — one for writing-focused activities and one for coding assessments — so students name the cognitive stage the tool touched (for example, structural planning versus textual content generation, or code improvement versus code generation).
+- **Instructors.** Ask for extent, explanation, and example prompts, using the framework's three-point scale, so the declaration becomes a reflective instrument that supports [[academic-integrity]] rather than a compliance artifact.
+- **Instructors.** Read cohort-level declarations pedagogically: a class declaring Extensive use in Code Generation but Minor use in Understanding & Learning tells a different story from the reverse pattern, and should inform scaffolding and assessment redesign in the next task.
+- **Administrators.** Pair the framework with explicit institutional guidance on which tools are in scope, because IDE autocomplete, browser-based writing assistants, and search engines with AI-generated summaries sit on a spectrum with conversational tools like ChatGPT.
+- **Administrators.** Position the framework as complementary to policy-level instruments such as the AIAS rather than a substitute — it supplies the granular disclosure layer those instruments do not specify — and do not market it as a misconduct detector.
+
+## Limitations
+
+- This is a position and design paper: the framework is a design artifact developed for one Computer Science department from an existing taxonomy of [[generative-ai|GenAI]] usage, and the authors leave empirical evaluation (comparing declarations against observed workflow data) as future work.
+- It relies on accurate self-reporting, and the authors cite prior evidence that novice programmers can experience an illusion of competence and misattribute GenAI contributions to their own work.
+- It does not itself detect misconduct, and pairing it with detection tools raises well-documented reliability concerns.
+- The boundary of what counts as "GenAI use" is not always obvious to students, and transferability is open: the categories derive from a computing education taxonomy, so their reach into other disciplines remains untested.
+
 ## Connected Concepts
 
 - [[generative-ai]]

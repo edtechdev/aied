@@ -22,6 +22,21 @@ technology: [edtech-platform]
 
 The framework provides a scalable blueprint for [[academic-integrity|preserving pedagogical integrity]] in the AI era, enabling educators to enforce authentic coding discipline through [[formative-assessment|process-oriented monitoring]] rather than final-output evaluation. [[open-source|Open source]] on GitHub for [[governance|institutional]] adoption.
 
+## What this means for practice
+
+- **Instructors.** Treat telemetry as a screening signal, never as proof: the authors note that API-level event logs capture interaction patterns but not intent, so corroborate any flag with an oral interview about the flagged code, a comparison of exam performance against platform activity, and targeted plagiarism detection on notebook cells.
+- **Administrators.** Use the pilot's cost profile to justify a controlled trial rather than enterprise hardware — VISMATIC ran for 19 active students, logging 1,880 discrete API events over approximately 57 active student-hours on a single Raspberry Pi 5 node rated for a load of 10 to 20 students.
+- **Instructors.** Shift some assessment weight from the final artifact to the development process by reviewing session persistence, temporal rhythm, and workload composition alongside the submission, and use those signals for [[formative-assessment]] checkpoints rather than only for integrity policing.
+- **Software developers.** Keep student workloads on managed infrastructure and treat the closed course library and read-only materials as load-bearing controls, since the architecture depends on students being unable to download notebooks for local, offline execution.
+- **Administrators.** Pair deployment with a published data-protection rationale: the framework avoids passive keep-alive telemetry and keeps behavioral logs separate from official academic records, which is what makes [[academic-integrity|integrity monitoring]] defensible to students and regulators.
+
+## Limitations
+
+- The evidence base is a pilot cohort of 19 active students in a single computer graphics course, measured as 1,880 discrete API events over approximately 57 active student-hours — far too few cases to validate anomaly detection thresholds or estimate false-positive rates.
+- The authors state plainly that API-level event logs capture interaction patterns but not intent; a student may leave an automated script running for reasons unrelated to dishonesty or work offline and later upload solutions, so no flag in this study was corroborated against actual misconduct.
+- There is no control group or side-by-side comparison with an unmonitored JupyterHub deployment, so the security advantage is argued architecturally rather than measured; isolation results come from one single-tenant deployment observed between March and May.
+- The authors do not claim absolute security and describe the work as a risk-management approach, and the stated deterrence effect — that measuring dedication discourages shortcuts — is an expectation rather than an outcome the study measured.
+
 ## Connected Concepts
 - [[cs-education]]
 - [[open-source]]

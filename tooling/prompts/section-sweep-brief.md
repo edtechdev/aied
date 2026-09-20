@@ -13,9 +13,15 @@ exist, report it and skip it rather than substituting another page.
 ## Before you write
 
 Check whether the page already carries an OLDER heading covering the same ground: `## Implications`,
-`## Implications for AI in Education`, `## Implications for practice`, `## Limits`,
-`## Limits and Open Questions`. If it does, MERGE that section's substance into the canonical section and
-delete the legacy heading. Do not add a second section that repeats it, and do not drop anything substantive.
+`## Implications for AI in Education`, `## Relevance to AI in Education`, `## Implications for practice`,
+`## Limits`, `## Limits and Open Questions`. If it does, MERGE that section's substance into the canonical
+section and delete the legacy heading. Do not add a second section that repeats it, and do not drop
+anything substantive.
+
+`## Relevance to AI in Education` is the most common variant and the easiest to overlook: it usually opens
+with a stock sentence about the paper contributing to understanding how AI interacts with learners, then
+carries one or two real claims (a design implication, a statistic). Fold the claims into the practice
+bullets and delete the heading.
 
 ## What to add
 

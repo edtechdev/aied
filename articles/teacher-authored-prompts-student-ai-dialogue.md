@@ -62,13 +62,20 @@ The findings position teacher-authored prompts as critical orchestration levers 
 
 The work extends [[human-ai-collaboration]] and [[human-in-the-loop-ai]] scholarship by grounding human-AI complementarity in empirical classroom conditions, reinforcing transparency and [[agency|teacher agency]] by making AI behavior controllable and interpretable to teachers. It also carries implications for [[multilingual-learning|multilingual learners]] and [[personalized-learning|personalized learning at scale]], and for [[equity-in-ai-education|equitable access]] to cognitively demanding AI-mediated discussion.
 
-## Implications
+## What this means for practice
 
-- **Prompt features are actionable levers.** Teachers can reliably shift cognitive outcomes by adding explicit finish lines and "no direct answers" guardrails, connecting prompt engineering to [[formative-assessment]] and [[feedback]] design principles rather than treating AI as an autonomous tutor.
-- **Design-enactment gap needs support.** The persistent 38% under-reach in cognitive demand — approaching 50% at DOK 3 — underscores that high-quality prompt design does not guarantee enacted rigor, aligning with known gaps between intended and enacted [[scaffolding]].
-- **Teacher professional development should target authoring.** Because teachers under-used scaffolds, epistemic framing, and guardrails, [[teacher-education]] and [[teacher-ai-competency]] programs should train teachers as prompt architects who can surface the right levers without deep technical expertise.
-- **Monitoring affordances sustain orchestration.** Lightweight teacher-facing signals and one-click summarization kept concurrent conversations tractable, supporting [[teacher-role|orchestration]] without excessive overhead.
-- **Responsible-use design can be instantiated in prompts.** Constraints that discourage copying and answer-seeking while preserving student agency offer a concrete path for [[academic-integrity]] and [[governance|responsible AI]] in [[k-12]] settings.
+- **Instructors.** Add two prompt-level levers to every AI activity: an explicit finish line, which reduced the DOK gap by 0.22 levels (p < .001), and a "no direct answers" guardrail, which reduced AI final-answer rates by 8.5 percentage points. Treat these as [[formative-assessment]] and [[feedback]] design decisions rather than technical extras.
+- **Instructors.** Expect enacted rigor to fall short of the prompt's target and plan a mid-activity check for it: 38% of conversations under-reached the teacher-targeted DOK level, approaching 50% when the target was DOK 3.
+- **Instructors.** Write the prompt layer as a teaching artifact that names the AI's role, the expected epistemic work (justify, cite evidence, revise), pacing constraints, and completion criteria — only 29.8% of the 94 authored prompts included [[guardrails]], 41.5% included no [[scaffolding]] instruction, and 57.4% none for epistemic framing.
+- **Instructors.** Keep orchestration load tractable with lightweight monitoring signals, one-click conversation summaries, and a closure route that returns student-AI transcripts to peer or whole-class discussion.
+- **Researchers.** The systematic under-targeting of cognitive demand points past static prompt design toward dynamic scaffolding that adapts to student responses in real time; design studies that test adaptive dialogue against the [[prompt-engineering]] approach measured here.
+
+## Limitations
+
+- The study relies on observational data from a voluntary pilot: 16 of 21 recruited teachers implemented TASD, which limits causal inference and introduces possible selection bias, and unmeasured classroom or teacher characteristics may account for part of the prompt-outcome associations.
+- The sample was uneven across subject areas — English Language Arts represented 48% of conversations, Science 20%, and World Language 12% — leaving mathematics under-represented and limiting whether the design-enactment gap generalizes to subjects centered on procedural fluency and symbolic manipulation.
+- Prompts and conversations were coded with [[llm|LLMs]] (GPT-5.2 and GPT-4.1-mini) rather than entirely by hand, so measurement error remains, particularly in borderline DOK distinctions, even though a stratified subset of conversation codes reached 87% human-LLM agreement.
+- The sample was geographically bounded to participating pilot schools in Washington state, across four public school districts and one independent school, and the study collected no student learning-outcome measures.
 
 ## Connected Concepts
 

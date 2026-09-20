@@ -24,9 +24,20 @@ discipline: [math education]
 - Participants prioritized support for diagnosis and timely instructional response, framing low persistence as a situated instructional challenge rather than a pure analytics/usage gap.
 - The findings argue for teacher-facing systems that surface both cognitive and contextual evidence about persistence, not just engagement counts.
 
-## Implications
+## What this means for practice
 
-The '5% problem' is reframed from an analytics failure to a design problem for the [[teacher-role]]: systems should help educators interpret persistence and intervene at the right moment. This connects to [[learning-analytics]] and [[teacher-ai-competency]] agendas, suggesting [[adaptive-learning]] dashboards should support diagnostic interpretation rather than merely reporting usage.
+- **Instructors.** Treat stalled progress and quiet compliance as diagnostic signals rather than absence of effort: workshop participants described students who disengaged without visible frustration and named distinguishing confusion from avoidance as one of their hardest judgments.
+- Read platform usage time against context. The teachers attributed low persistence to motivation and buy-in, cognitive roadblocks, resilience under challenge, and contextual barriers such as attendance and unreliable devices, so a few minutes of practice time cannot by itself reveal which is at work.
+- Aim [[learning-analytics]] displays at interpretation rather than reporting — surfacing where a student has stalled and when to intervene — since teachers said tracking aggregate [[student-engagement]] metrics mattered less than knowing where students get stuck.
+- Pair each persistence priority with a concrete classroom response, such as reframing productive struggle or building independent problem-solving routines, because participants treated resilience as a teachable skill their current routines and dashboards did little to support.
+- Update the [[teacher-role]] expectations embedded in [[adaptive-learning]] rollouts: give teachers time and permission to investigate cause before the system nudges them toward more practice minutes.
+
+## Limitations
+
+- The evidence rests on one 90-minute participatory design workshop with 12 volunteer middle school mathematics teachers drawn from two schools in a single Pacific U.S. district, all using one platform (i-Ready Math).
+- The authors note that group discussion may have amplified vocal participants and that card-sort labels partially shaped later coding.
+- The workshop captured stated priorities rather than classroom behavior: triangulation with classroom observations, student interviews, or longitudinal prototype trials was not conducted and is what the authors say would test transferability.
+- Perspectives may reflect local implementation norms and partnership recruitment, so the four themes should be treated as a needs-finding result rather than a validated model of persistence.
 
 ## Connected Concepts
 

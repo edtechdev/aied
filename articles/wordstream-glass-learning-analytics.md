@@ -18,6 +18,20 @@ methods: [qualitative-research]
 
 Revisits WordStream (2009) as a quantitative encoding for qualitative learning analytics, demonstrating how structured coding can surface cohort-level trends while preserving individual narrative context. Data-driven learning analytics can surface trends across a student cohort over time, helping instructors improve the learning environment. WordStream, a visualization idiom for topic evolution, has been instantiated in two platforms toward this goal, including the Journal Data Dashboard. The work connects to [[human-in-the-loop-ai|human-in-the-loop]] and [[edtech-platform|platform]] design, supporting [[administrator|administrators]] and instructors in using [[learning-analytics]] to understand [[student-experience|student experience]].
 
+## What this means for practice
+
+- **Administrators.** Pilot analytics tools with the staff who will interpret them. Across all ten participants, the Dashboard was rated at or above the Maker on perceived ease of use and usefulness, and its advantage concentrated on exploring response detail.
+- **Instructors.** Keep every aggregate view linked to the text behind it. The Dashboard preserves an association from the visualization back to verbatim student responses, and that path between cohort trends and close reading is what these instructor–researchers valued most.
+- **Instructors.** Read a frequency encoding as an entry point, not a verdict. Participants disagreed substantively about whether frequency-based encodings can adequately represent qualitative data — some read them as a productive way in, others warned they obscure rare but critical responses — so inspect the long tail of uncommon terms before acting on a trend.
+- **Administrators.** Do not treat the dashboard as a replacement for the analyst. The study sampled deliberately for dual expertise in qualitative methods and classroom assessment, and participants judged the encodings while wearing both the teaching and the research hat.
+
+## Limitations
+
+- The sample is small (n=10) and purposive, chosen for dual expertise in qualitative methods and assessment, so the Likert ratings are descriptive indicators reported without inferential tests and the claims are interpretive, not generalizable.
+- All participants analyzed the same single corpus of student journals from one data visualization course; several anticipated that working with their own data would change their judgments.
+- The two platforms were deliberately asymmetric probes into different stages of an analytic workflow — the Dashboard for insight extraction, the Maker for visualization creation — rather than matched competitors, so the comparison reflects context of use as much as the artifacts.
+- The data are self-reported responses to a fixed instrument; the confirmatory items answered by the six Cycle 2 participants mitigate but do not eliminate the gap between stated and envisioned practice.
+
 ## Connected Concepts
 
 - [[administrator]]
