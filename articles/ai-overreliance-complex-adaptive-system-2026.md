@@ -70,6 +70,18 @@ A **cascade tipping result** (Prop. 3), building on Brock–Durlauf discrete cho
 - [[metacognition]]
 - [[critical-thinking]]
 
+- [[cognitive-offloading]]
+- [[trust-calibration]]
+- [[human-ai-collaboration]]
+- [[agentic-ai]]
+- [[llm]]
+- [[reducing-ai-misuse]]
+- [[ai-misuse-learning-harm]]
+- [[trust]]
+- [[metacognition]]
+- [[critical-thinking]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]] — The efficiency-gain illusion: People underestimate the rate of AI use and overestimate its benefits on simple tasks

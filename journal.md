@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-20 | Total entries: 1550
+Last updated: 2026-09-20 | Total entries: 1551
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
@@ -10,6 +10,7 @@ Last updated: 2026-09-20 | Total entries: 1550
 - 📄 [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in higher education: Autonomy, self-efficacy and innovation in early-career scientific training
 - 📄 [[ai-supported-automated-programming-assessment-2026]] — Design and Evaluation of an AI-Supported Automated Programming Assessment Environment for Concept-Aligned Reinforcement in Engineering and Computing Education
 - 📄 [[chatgpt-music-education-junior-high-2026]] — Junior high school student perspectives on the use of ChatGPT in music education
+- 📘 [[cognitive-surrender]] — Cognitive Surrender
 - 📄 [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
 - 🧰 [[drawsplat]] — DrawSplat
 - 📘 [[education-levels]] — Levels of Education

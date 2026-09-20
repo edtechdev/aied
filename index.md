@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1329 | Concepts: 212 | Resources: 9 | FAQs: 32
+Articles: 1329 | Concepts: 213 | Resources: 9 | FAQs: 32
 
 ## Concepts
 
@@ -386,6 +386,7 @@ Articles: 1329 | Concepts: 212 | Resources: 9 | FAQs: 32
 - [[cognitive-diagnosis]] — Cognitive Diagnosis
 - [[cognitive-load-transfer-knowledge-tracing-2026]] — Incorporating Cognitive Load and Knowledge Transfer for Multi-Domain Knowledge Tracing
 - [[cognitive-offloading]] — Cognitive Offloading
+- [[cognitive-surrender]] — Cognitive Surrender
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing: Volume vs. content
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading: Mechanisms, Interventions, and Educational Implications
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction

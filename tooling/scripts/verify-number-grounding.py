@@ -106,7 +106,7 @@ def spelled_forms(value):
     words = spell(int(value))
     if not words:
         return []
-    forms = {words, words.replace('-', ' '), words.replace(' ', '-')}
+    forms = {words, words.replace('-', ' '), words.replace(' ', '-'), words.replace('-', '')}
     for sep in (' hundred ', ' thousand '):
         if sep in words:
             forms.add(words.replace(sep, sep + 'and '))

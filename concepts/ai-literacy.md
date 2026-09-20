@@ -169,7 +169,38 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[k-12]] — school-level literacy
 - [[higher-ed]] — university-level literacy
 - [[self-report-measures]]
+- [[parents-and-families]]- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[explainable-ai]]
+- [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI literacy
+
+- [[generative-ai]] — the technology AI literacy targets
+- [[llm]] — the systems at the heart of AI literacy
+- [[cognitive-offloading]] — the over-reliance risk literacy counters
+- [[critical-thinking]] — core evaluative disposition
+- [[prompt-engineering]] — core practical competence
+- [[reducing-ai-misuse]] — literacy's behavioral payoff
+- [[icap-framework]] — engagement taxonomy for designing literacy instruction
+- [[metacognition]] — literacy as metacognitive social practice
+- [[self-regulated-learning]] — self-regulation as a literacy resource
+- [[academic-integrity]] — knowing what constitutes appropriate AI use
+- [[ai-education]] — the broader field
+- [[teacher-ai-competency]] — educator preparedness
+- [[educational-development]] — building educator literacy
+- [[equity-in-ai-education]] — fair distribution of literacy
+- [[digital-divide]] — the access/skills/outcomes gap
+- [[ethics]] — ethical awareness dimension
+- [[governance]] — institutional-level literacy
+- [[educational-policy-ai]] — policy framing
+- [[privacy]] — ethical/institutional concern
+- [[agency]] — human agency vs machine shift
+- [[ai-sycophancy]] — literacy skill of detecting agreement
+- [[trust-calibration]] — calibrating appropriate trust
+- [[k-12]] — school-level literacy
+- [[higher-ed]] — university-level literacy
+- [[self-report-measures]]
 - [[parents-and-families]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour workshop changed middle-school students' regulation of LLM interaction, while self-reports predicted nothing (Clerc et al. 2026)
 - [[genai-assessment-literacy-scale-2026]] — GAA-LS: validated Generative AI Assessment Literacy Scale for higher-ed students (Nie et al. 2026)

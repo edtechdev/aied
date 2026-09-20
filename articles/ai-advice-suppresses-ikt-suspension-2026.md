@@ -31,7 +31,7 @@ level: [adult learning]
 
 ## Why this matters for education
 
-Although the study is framed around general [[human-in-the-loop-ai|human judgment]] (fine visual details in films), its mechanism operates on the **availability and fluency of an answer, not its subject matter** — so it applies directly wherever AI supplies a confident response, including [[assessment]], homework, tutoring, and information-seeking in learning. The authors explicitly note this bears on [[cognitive-offloading]], the erosion of human [[agency]], and "cognitive surrender." For education specifically, the findings suggest that the mere presence of AI may suppress learners' willingness to withhold judgment and acknowledge uncertainty — a core metacognitive and epistemic skill ([[metacognition]], [[critical-thinking]]) — while inflating their confidence in wrong answers ([[trust-calibration]]) and eroding [[self-efficacy]]. It also implies that **the goal of AI-literacy instruction may be less to teach tool skill than to preserve learners' readiness to recognize and act on the limits of what they know** ([[ai-literacy]], [[reducing-ai-misuse]]), a challenge that sits at the heart of [[human-ai-collaboration]] and [[ai-education]].
+Although the study is framed around general [[human-in-the-loop-ai|human judgment]] (fine visual details in films), its mechanism operates on the **availability and fluency of an answer, not its subject matter** — so it applies directly wherever AI supplies a confident response, including [[assessment]], homework, tutoring, and information-seeking in learning. The authors explicitly note this bears on [[cognitive-offloading]], the erosion of human [[agency]], and "[[cognitive-surrender]]." For education specifically, the findings suggest that the mere presence of AI may suppress learners' willingness to withhold judgment and acknowledge uncertainty — a core metacognitive and epistemic skill ([[metacognition]], [[critical-thinking]]) — while inflating their confidence in wrong answers ([[trust-calibration]]) and eroding [[self-efficacy]]. It also implies that **the goal of AI-literacy instruction may be less to teach tool skill than to preserve learners' readiness to recognize and act on the limits of what they know** ([[ai-literacy]], [[reducing-ai-misuse]]), a challenge that sits at the heart of [[human-ai-collaboration]] and [[ai-education]].
 
 ## What this means for practice
 
@@ -64,6 +64,23 @@ Although the study is framed around general [[human-in-the-loop-ai|human judgmen
 - [[llm]]
 - [[higher-ed]]
 - [[ai-education]]
+
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[reducing-ai-misuse]]
+- [[ai-misuse-learning-harm]]
+- [[trust-calibration]]
+- [[trust]]
+- [[self-efficacy]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+- [[ai-education]]
+- [[cognitive-surrender]]
 
 ## Connected Articles
 

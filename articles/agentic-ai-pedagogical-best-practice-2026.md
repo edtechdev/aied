@@ -13,7 +13,7 @@ confidence: high
 audience: [instructional designers, edtech designers]
 page_kind: [framework]
 ---
-> **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalization]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *cognitive surrender*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization.
+> **Synthesis:** Education AI is shifting from passive [[conversational-ai|chatbots]] to **proactive [[agentic-ai|agents]]** that initiate and pursue goals. This offers [[personalized-learning|personalization]] but risks undermining **learner [[agency]] and cognitive effort** and can tip into what the authors call *[[cognitive-surrender]]*. The paper walks each of six [[pedagogy|pedagogical]] principles through what agentic initiative does to it, and proposes design responses — [[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization.
 
 > Woollaston, Flanagan, Wijerathne & Ogata (2026, AIED HAI-Agency Workshop) review six established pedagogical principles through the lens of **proactive agentic AI** and articulate the central tension: the more an agent automates, the less cognitive work the learner does. Their design response — **[[desirable-difficulties|intentional friction]], dynamic [[scaffolding]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, and considered AI utilization** — is a principled guardrail for the knowledge base's agentic-education literature.
 
@@ -76,6 +76,21 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 - [[agency]]
 
 - [[llm]]
+- [[agentic-ai]]
+- [[desirable-difficulties]]
+- [[prior-knowledge]]
+- [[formative-assessment]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[sociocultural-learning]]
+- [[human-in-the-loop-ai]]
+- [[collaborative-learning]]
+- [[self-regulated-learning]]
+- [[agency]]
+
+- [[llm]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring Whether LLM Tutors Teach or Solve: A Diagnostic for Educational Impact

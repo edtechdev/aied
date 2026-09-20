@@ -53,6 +53,18 @@ level: [higher ed]
 - [[transfer-of-learning]] — whether gains persist without the tool
 - [[human-ai-collaboration]] — the human–AI cognitive relationship
 
+- [[cognitive-offloading]] — the mechanism by which LLM reliance reduces cognitive engagement
+- [[generative-ai]] — the ChatGPT tool under study
+- [[writing-education]] — the educational context (essay writing)
+- [[metacognition]] — the self-monitoring LLM use suppresses
+- [[self-regulated-learning]] — the regulatory capacity at risk
+- [[agency]] — the ownership dimension
+- [[academic-integrity]] — authorship and original-work concerns
+- [[student-engagement]] — the engagement gradient across tools
+- [[transfer-of-learning]] — whether gains persist without the tool
+- [[human-ai-collaboration]] — the human–AI cognitive relationship
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[ai-writing-support-stage-ownership-2026]] — How AI writing support alters ownership by stage

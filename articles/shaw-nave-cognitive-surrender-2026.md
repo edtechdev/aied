@@ -1,7 +1,7 @@
 ---
 title: "Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender"
 created: "2026-08-22T18:45:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-20T15:41:34-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [metacognition]
@@ -15,7 +15,7 @@ level: [adult learning]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Shaw & Nave (2026) introduce **Tri-System Theory**, extending dual-process accounts of reasoning (System 1 intuition, System 2 deliberation) with **System 3 — artificial cognition that operates outside the brain**. A key prediction is **cognitive surrender**: adopting AI outputs with minimal scrutiny, overriding intuition and deliberation. Across three preregistered experiments (N = 1,372; 9,593 trials), participants consulted an AI assistant on a majority of trials; accuracy rose +25 pp when AI was accurate and fell −15 pp when it erred, and engaging System 3 increased confidence even after errors. This is a foundational [[theory-development-aied|theory-building]] contribution that distinguishes cognitive surrender from [[cognitive-offloading]], and reframes the knowledge base's [[ai-misuse-learning-harm|over-reliance]] and [[critical-thinking]] threads by showing a distinct, deeper abdication of evaluative control to AI.
+> **Synthesis:** Shaw & Nave (2026) introduce **Tri-System Theory**, extending dual-process accounts of reasoning (System 1 intuition, System 2 deliberation) with **System 3 — artificial cognition that operates outside the brain**. A key prediction is **cognitive surrender**: adopting AI outputs with minimal scrutiny, overriding intuition and deliberation. Across three preregistered experiments (N = 1,372; 9,593 trials), participants consulted an AI assistant on a majority of trials; accuracy rose +25 pp when AI was accurate and fell −15 pp when it erred, and engaging System 3 increased confidence even after errors. In the pooled data, AI-assisted trials averaged 77.0% confidence against 65.3% in brain-only trials, a gap of 11.7 points. This is a foundational [[theory-development-aied|theory-building]] contribution that distinguishes [[cognitive-surrender]] from [[cognitive-offloading]], and reframes the knowledge base's [[ai-misuse-learning-harm|over-reliance]] and [[critical-thinking]] threads by showing a distinct, deeper abdication of evaluative control to AI.
 
 ## Key Findings
 
@@ -69,6 +69,19 @@ Three preregistered experiments used an adapted Cognitive Reflection Test with A
 - [[agency]]
 - [[human-in-the-loop-ai]]
 - [[theory-development-aied]]
+
+- [[cognitive-offloading]]
+- [[critical-thinking]]
+- [[trust]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[ai-misuse-learning-harm]]
+- [[generative-ai]]
+- [[llm]]
+- [[agency]]
+- [[human-in-the-loop-ai]]
+- [[theory-development-aied]]
+- [[cognitive-surrender]]
 
 ## Connected Articles
 

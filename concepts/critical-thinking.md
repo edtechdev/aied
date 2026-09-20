@@ -62,6 +62,20 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
 
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[problem-based-learning]]
+- [[intelligent-tutoring]]
+- [[educational-development]]
+- [[teacher-role]]
+- [[student-experience]]
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)

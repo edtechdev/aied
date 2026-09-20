@@ -373,6 +373,15 @@ concepts:
     - cognitive modeling
     - diagnostic inference
     - misconception diagnosis
+  cognitive-surrender:
+    title: Cognitive Surrender
+    aliases:
+    - ai surrender
+    - cognitive surrender
+    - surrender
+    - surrender of judgment
+    - surrender to ai
+
   cognitive-offloading:
     title: Cognitive Offloading
     aliases:
@@ -1976,6 +1985,7 @@ sections:
     - ai-literacy
     - agentic-ai
     - cognitive-offloading
+    - cognitive-surrender
     - framing-ai-use-for-students
     - reducing-ai-misuse
     - academic-integrity

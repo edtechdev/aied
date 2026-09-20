@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 212
+**Total concepts:** 213
 
 ## Foundations of AI in education
 
@@ -14,6 +14,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`ai-education`** — AI in Education — phrases: ai education; ai in education; aied; artificial intelligence in education
 - **`ai-literacy`** — AI Literacy — phrases: ai competence; ai competency; AI fluency; ai literacy; AI skills; artificial intelligence literacy; conscious ai use; digital literacy; responsible ai use
 - **`cognitive-offloading`** — Cognitive Offloading — phrases: cognitive delegation; cognitive load; cognitive offloading; cognitive outsourcing; cognitive-load theory; mental offloading; offloading cognition; over reliance; over-reliance; overreliance
+- **`cognitive-surrender`** — Cognitive Surrender — phrases: ai surrender; cognitive surrender; surrender; surrender of judgment; surrender to ai
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design

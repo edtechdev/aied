@@ -49,7 +49,7 @@ Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 202
 ## Why this matters for the knowledge base
 
 - The canonical **cognitive-offloading** citation [[cognitive-offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
-- Conceptual bookend to the empirical [[rct|RCTs]] already in the knowledge base: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "cognitive surrender"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected [[ai-feedback-quality|AI feedback]] *matched* teachers — the "coach not crutch" design).
+- Conceptual bookend to the empirical [[rct|RCTs]] already in the knowledge base: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "[[cognitive-surrender]]"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected [[ai-feedback-quality|AI feedback]] *matched* teachers — the "coach not crutch" design).
 - Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
 
 ## What this means for practice
@@ -77,6 +77,16 @@ Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 202
 - [[higher-ed]]
 - [[learning-gains]]
 - [[rag]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[learning-gains]]
+- [[rag]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[coach-not-crutch-ai-writing]] — Coach not crutch: AI can improve writing skill despite reducing effort

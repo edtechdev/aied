@@ -19,6 +19,8 @@ metadata:
 
 ***
 
+> **Pitfall — an "is this mention already inside a link?" check must use BODY-LOCAL offsets (2026-09-20).** When hand-rolling a first-mention insert on a body slice, the natural guard is `body.rfind('[[', 0, i) > body.rfind(']]', 0, i)`. Calling it with the frontmatter offset still in scope (`raw.rfind('[[', start, i)`) compares raw-file positions against slice positions, so the guard always evaluates false and links get inserted **inside existing links**: `[[article-slug|label containing [[new-concept]]]]`, and worse, a label split mid-slug (`[[shaw-nave-cognitive-[[cognitive-surrender|surrender]]-2026]]`), which broke four pages in one pass. Rules: (a) slice the body once and compute every index against the slice; (b) assert per file afterwards that `raw.count('[[') == raw.count(']]')` and `not re.search(r'\[\[[^\]]*\[\[', raw)`; (c) if a file was already committed clean, recover it with `git checkout -- <file>` and redo the insert rather than trying to unwrap nested brackets — an unwrap loop that strips `[[slug|` prefixes leaves mangled text such as `surrender-2026]]`.
+
 > **Pitfall — never run `inline_link_scan.py --apply` against a wiki root that is a
 > symlink farm.** The scanner writes to `<wiki>/<collection>/<slug>.md`; if
 > `<wiki>/concepts` is a symlink to the real content directory, `--apply` rewrites

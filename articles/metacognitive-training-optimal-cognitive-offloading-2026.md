@@ -65,6 +65,13 @@ This study provides strong empirical grounding for the knowledge base's [[cognit
 - [[self-regulated-learning]]
 - [[student-experience]]
 
+- [[cognitive-offloading]]
+- [[metacognition]]
+- [[feedback]]
+- [[self-regulated-learning]]
+- [[student-experience]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026): the beliefs-vs-experiences framework this study empirically validates
