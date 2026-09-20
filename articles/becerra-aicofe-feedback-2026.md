@@ -1,7 +1,7 @@
 ---
 title: "AICoFe: Implementation and Deployment of an AI-Based Collaborative Feedback System for Higher Education"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics]
 assessment: [feedback, formative-assessment]
@@ -36,16 +36,19 @@ methods: [ai-ed-evaluation]
 
 The system treats AI as a **draft generator**, not a final deliverer — educators curate and compose the final feedback before it reaches students, so AI augments rather than replaces peer and teacher judgment.
 
-## Implications
+## What this means for practice
 
-AICoFE addresses a critical tension in [[ai-feedback-quality]]: the trade-off between efficiency and pedagogical authority. By adopting a [[human-in-the-loop-ai]] architecture rather than full automation, it demonstrates that AI can accelerate feedback workflows without displacing the teacher's interpretive role. This aligns with emerging best practices in [[ai-feedback-quality]] research, which increasingly emphasizes teacher agency over raw automation.
+- **Students.** Rate the AI-assisted feedback you receive for agreement and usefulness: those responses are the loop that tells instructors whether multi-model drafts add anything.
+- **Students.** Compare your self-evaluation against the external evaluation in the dashboard and use your presentation recording as evidence for that reflection.
+- **Students.** Treat the AI text you receive as teacher-composed feedback rather than raw model output, since sentences and paragraphs are selected and edited before delivery.
+- **Students.** Check the legend showing each model's contribution when a comment seems off-target, and say so in the embedded questionnaire.
 
-The multi-LLM pipeline is a practical response to the observation that different models excel at different dimensions of feedback — tone, specificity, actionability. Rather than selecting a single "best" LLM, AICoFE treats model diversity as a feature, surfacing complementary perspectives that the teacher can synthesize. This approach parallels work in  that leverages multiple AI-generated perspectives for richer formative assessment.
+## Limitations
 
-The [[learning-analytics]] component of AICoFE is notable for its role-specific design: teacher and student dashboards serve fundamentally different functions within the same platform, and the system's transparency features (source attribution, curation tracking) support both reflective practice and [[learning-analytics]] at scale.
-
-For [[higher-ed]] institutions facing growing assessment loads, AICoFE models a path where AI-assisted feedback scales without sacrificing the relational and interpretive dimensions of effective [[formative-assessment]].
-
+- The reported deployment involves approximately 80 students and 5 teachers across one undergraduate and one master's course at Universidad Autónoma de Madrid.
+- Evaluation evidence is student-perceived coherence and usefulness of the feedback plus system usability scores; effects on feedback quality, reflective learning, or presentation performance are stated as future analyses.
+- Comparison between AI-mediated and traditional manual feedback is also deferred, so the paper cannot yet show that AICoFe improves on existing practice.
+- Presentation recording is opt-in and GDPR-compliant, so only consenting participants' data enter the pipeline.
 ## Connected Concepts
 
 - [[formative-assessment]]

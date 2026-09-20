@@ -1,7 +1,7 @@
 ---
 title: "ProPACT: A Proactive AI-Driven Adaptive Collaborative Tutor for Pair Programming"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 pedagogy: [collaborative-learning, metacognition, scaffolding, sociocultural-learning]
 technology: [adaptive-learning, intelligent-tutoring, rag, affective-tutoring, learning-analytics]
@@ -62,6 +62,20 @@ ProPACT exemplifies tutoring-specific design in the sense of [[stanford-evidence
 
 For [[cs-education]], the study shows that real-time dyadic regulation is tractable and effective, and that eye tracking plus machine-learning forecasting is viable at classroom scale. For [[adaptive-learning|adaptive systems]] more broadly, the "tutoring" unit need not be an individual — collaboration itself can be scaffolded, complementing reviews such as [[ai-collaborative-learning-systematic-review]]. What remains untested is transfer: whether improved dyadic regulation carries into unsupervised pair work, where no tutor is watching.
 
+## What this means for practice
+
+- **Instructors.** Scaffold the pair rather than the person: monitor joint visual attention and joint mental effort and intervene before coordination breaks down, which raised debugging success (*t*[49.96] = −13.51) and speed.
+- **Instructors.** Escalate help in tiers and begin from doing nothing — gaze cues and dialogue prompts before any directive hint — so partners retain the coordination work themselves.
+- **Designers.** Treat collaborative state as a forecastable signal: an XGBoost model over JVA, JME, and individual mental effort predicted sub-optimal states 30 seconds ahead.
+- **Designers.** Test whether cheaper signals such as interaction logs, keystroke dynamics, or webcam gaze can carry the forecasting model before planning classroom deployment, since dual eye tracking is the scaling constraint.
+- **Instructors.** Verify that improved joint attention persists into pair work you do not supervise; this study could not test that transfer.
+
+## Limitations
+
+- Twenty-six dyads (19 female, 33 male) of undergraduate and master's students in computer science or engineering at a single European university.
+- The study ran in a controlled laboratory setting with short-duration debugging tasks, which the authors say may not generalize to classroom, remote, or industrial contexts.
+- The system depends on specialized sensing infrastructure — dual eye tracking and pupillometry — which poses practical and financial constraints for large-scale deployment.
+- Tasks contained only logical bugs and no syntax errors, so the forecaster has not been tested on open-ended or ambiguous programming work, and transfer to unsupervised pair work is untested.
 ## Connected Concepts
 
 - [[adaptive-learning]]

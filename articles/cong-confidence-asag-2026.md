@@ -1,7 +1,7 @@
 ---
 title: "Confidence Estimation in Automatic Short Answer Grading with LLMs"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 technology: [rag]
 assessment: [assessment, automated-assessment, psychometrically-aware-ai]
@@ -22,16 +22,20 @@ methods: [ai-ed-evaluation]
 3. **Hybrid fusion outperforms single-source approaches.** Combining model-based signals with aleatoric uncertainty via a Random Forest classifier (500 trees) followed by Platt scaling produced the best calibration, evaluated on both selective prediction (AUROC / AUARC) and reliability (ECE / MCE / Brier score). The hybrid framework acknowledges that both epistemic and aleatoric uncertainty contribute to grading unreliability.
 4. **Principled evaluation enables safe deployment.** By evaluating with selective prediction metrics rather than raw accuracy, the framework enables a practical workflow: high-confidence predictions can be auto-graded, while low-confidence cases are routed to human review. This is a more realistic deployment model than assuming perfect automation.
 
-## Implications
+## What this means for practice
 
-This work addresses a critical gap in : the gap between knowing that LLMs can grade short answers and trusting them enough to deploy in high-stakes settings. The central insight — that model confidence signals are unreliable on their own — is consistent with broader findings in [[automated-assessment|Confidence Aware AI Assessment]] and [[psychometrically-aware-ai]], which argue that AI assessment systems must be calibrated against human judgment uncertainty, not just accuracy.
+- **Designers.** Do not ship a short-answer grader on model-based confidence alone: verbalized, latent, and consistency-based signals each failed to separate correct from incorrect responses reliably.
+- **Designers.** Model dataset ambiguity explicitly — embed responses with a sentence encoder such as all-MiniLM-L6-v2, cluster them, and use within-cluster entropy — before setting an auto-grade threshold.
+- **Designers.** Fuse model-based signals with that aleatoric uncertainty through the Random Forest plus Platt scaling pipeline, which gave the best selective prediction and calibration on AUROC/AUARC and ECE/MCE/Brier.
+- **Designers.** Route by confidence rather than reviewing everything or trusting the model: high-confidence predictions can be auto-graded while low-confidence answers go to human review.
+- **Designers.** Recalibrate when the answer population or rubric changes, because the aleatoric component is a property of the dataset, not of the model.
 
-The explicit modeling of aleatoric uncertainty is particularly important for [[automated-assessment|Automated Grading]]. In ASAG, some student responses are genuinely ambiguous even to expert human raters — this is not a model failure but a property of the task. By modeling this inherent ambiguity through semantic clustering, the framework prevents the system from overconfidently misclassifying responses that are fundamentally uncertain.
+## Limitations
 
-For [[human-in-the-loop-ai]] workflows in educational assessment, the selective prediction approach provides a principled mechanism for triage: rather than requiring educators to review everything (defeating the purpose of automation) or trusting the model blindly (risking harm), the confidence framework identifies exactly which responses need human attention. This has practical implications for [[short-answer-scoring-quality-degradation]] [[research-methods-aied|research]] and the design of [[hybrid-e-assessment-semi-automated-grading]] systems.
-
-The use of [[rag]] and synthetic-data techniques for calibration could extend this framework beyond the SciEntsBank domain, enabling confidence-aware grading across diverse subject areas and languages.
-
+- Hardware limits confined the study to one state-of-the-art open-weight model, so cross-model generalization is untested.
+- Evaluation used a single dataset, SciEntsBank, and the authors call for diverse domains, model sizes, and annotation schemes before generalizing.
+- Consistency-based confidence came from 5 samples per item at temperatures between 0.2 and 1.0, a narrow sampling budget for estimating instability.
+- No educator study is reported, so how teachers interpret and act on confidence estimates in real grading workflows remains unknown.
 ## Connected Concepts
 
 - [[ai-ed-evaluation]]

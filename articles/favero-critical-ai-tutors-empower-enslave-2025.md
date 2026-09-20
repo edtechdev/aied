@@ -1,7 +1,7 @@
 ---
 title: "Critical AI Tutors: Empower or Enslave?"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 technology: [intelligent-tutoring]
@@ -28,16 +28,19 @@ This position paper occupies a critical counterpoint in the [[intelligent-tutori
 
 **Ethical concerns.** The paper catalogs significant ethical risks including [[academic-integrity]] erosion, questionable [[privacy]] practices in educational AI systems, and the broader societal implications of [[ai-making-us-stupid]] — a provocative framing that challenges the edtech optimism narrative.
 
-## Implications
+## What this means for practice
 
-The paper's most important contribution is its call for *critical [[ai-literacy|AI literacy]]* as a prerequisite for AI tutor deployment. Rather than banning AI tutors, the authors argue for what they call "critically informed use" — a framework where students, educators, and institutions actively interrogate AI tools rather than passively accepting them. This aligns with the [[critical-thinking]] tradition in education and extends it to the domain of [[ai-literacy-power-knowledge]].
+- **Students.** Interrogate every AI answer you receive: ask what it assumes, what it omits, and whether you could have produced it yourself, rather than reading fluency as correctness.
+- **Students.** Protect the effortful part of the work — drafting, retrieving, explaining — and reserve AI help for tasks you can already judge.
+- **Students.** Watch for the dependency signature this paper describes: falling confidence, unfavorable comparison against flawless machine output, and reluctance to attempt work unaided.
+- **Students.** Ask what a tutoring system records and who can see it before you use it, since the paper documents questionable privacy practices in educational AI.
 
-For system designers, the paper implies that [[hazra-safetutors-pedagogical-safety-2026]] frameworks must expand beyond immediate harm prevention to include long-term developmental impacts. An AI tutor that never harms a student in the moment but gradually erodes their cognitive independence should be considered unsafe. This reframes [[pedagogical-safety]] as encompassing not just what the tutor does but what kind of learner it produces.
+## Limitations
 
-The authors' emphasis on student voice — centering learner perspectives in design decisions — connects to the [[student-experience]] literature and the growing recognition that [[generative-ai-guardrails-harm-learning]] must be co-designed with the very populations they aim to protect.
-
-For educators and policymakers, this paper provides intellectual ammunition for resisting uncritical AI adoption. It suggests that [[regulation]] of educational AI should consider not just data privacy and bias but also cognitive and developmental outcomes — a position that resonates with calls in the [[governance]] community for holistic evaluation frameworks.
-
+- This is a position paper with no study design, participants, or measured outcomes; its claims are arguments from cognitive science and prior literature.
+- Student evidence comes from cited surveys — 1,200 young adults aged 18–24 and an international survey of 4,000 university students across 16 countries — not from data the authors collected.
+- Constructs such as cognitive atrophy and loss of agency are not operationalized into measurable variables, so the paper cannot estimate the size or speed of the effects it warns about.
+- Because it catalogs harms rather than comparing conditions with and without AI tutors, it cannot attribute learning losses to tutor use.
 ## Connected Concepts
 
 - [[cognitive-offloading]]
