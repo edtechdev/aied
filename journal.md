@@ -7,6 +7,10 @@
 - 📄 [[ai-adoption-readiness-ukraine-education-managers-2026]] — AI adoption readiness among Ukrainian education managers: Barriers, typologies, and policy implications
 - 📄 [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: Exploring teachers' contextual ethical reasoning through an STS lens
 - 📄 [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of university students in Ghana: A network and latent profile analyses
+- 📄 [[chatgpt-music-education-junior-high-2026]] — Junior high school student perspectives on the use of ChatGPT in music education
+- 📄 [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
+- 📄 [[school-leaders-ai-readiness-professional-development-2026]] — Exploring basic school leaders' AI readiness: The role of professional development
+- 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
 
 
 ## 2026-09-19
@@ -23,7 +27,7 @@
 - 📄 [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritise Learning over Performance
 
-Last updated: 2026-09-20 | Total entries: 1531
+Last updated: 2026-09-20 | Total entries: 1535
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)

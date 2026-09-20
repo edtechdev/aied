@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1323 | Concepts: 208 | FAQs: 32
+Articles: 1327 | Concepts: 208 | FAQs: 32
 
 ## Concepts
 
@@ -28,6 +28,7 @@ Articles: 1323 | Concepts: 208 | FAQs: 32
 - [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Towards an adaptive AI scaffold for developing student collaborative problem solving
+- [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
 - [[adaptive-learning]] — Adaptive Learning
 - [[adaptive-pretesting-retention]] — Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence from a Retention Study
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive Scaffolding for Cognitive Engagement in an Intelligent Tutoring System
@@ -344,6 +345,7 @@ Articles: 1323 | Concepts: 208 | FAQs: 32
 - [[chatgpt-impact-high-school-tests]] — Little Impact of ChatGPT Availability on High School Student Test Score Performance
 - [[chatgpt-inoculation-training-verification-2026]] — Student engagement with ChatGPT for educational tasks: Effects of inoculation training on verification intentions and behavior
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — Who Is Solving the Challenge? The Use of ChatGPT in Mathematics and Biology Courses Using Challenge-Based Learning
+- [[chatgpt-music-education-junior-high-2026]] — Junior high school student perspectives on the use of ChatGPT in music education
 - [[chatgpt-perception-online-learning-engagement-2026]] — How Does Students' Perception of ChatGPT Shape Online Learning Engagement and Performance?
 - [[chatgpt-programming-education-text-mining]] — Pedagogical Promise and Peril of AI: A Text Mining Analysis of ChatGPT Research Discussions in Programming Education
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT Solves All Tested Qiskit Homework Assignments
@@ -467,6 +469,7 @@ Articles: 1323 | Concepts: 208 | FAQs: 32
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
 - [[data-annotations-pedagogical-hints]] — Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Data Comics for Education: Evaluating Effectiveness, Benefits, and the Ethics of AI-Assisted Creation
+- [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
 - [[datacanvas-edu-synthetic-data-business-analytics-2026]] — DataCanvas-EDU: An Agentic Framework for Instructor-Guided Synthetic Data Generation in Business Analytics Education
 - [[de-barba-srl-genai-2026]] — Learner Agency Across Scales: An Integrative Perspective on Self-Regulated Learning in Algorithmically Mediated Environments
 - [[debugtracker-classroom-debugging]] — DebugTracker: Lightweight Process Evidence for Classroom Debugging
@@ -1241,6 +1244,7 @@ Articles: 1323 | Concepts: 208 | FAQs: 32
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: A Decision-Making Framework for Task Assignment with Generative AI
 - [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 - [[school-ai-education-readiness-gaps-agency-2026]] — Does school-based AI education narrow readiness gaps? The role of prior agency-related learning
+- [[school-leaders-ai-readiness-professional-development-2026]] — Exploring basic school leaders' AI readiness: The role of professional development
 - [[school-network-reorganization-optimization]] — School network reorganization under educational and spatial constraints using classical and quantum optimization
 - [[school-support-ai-learning-anxiety-control-value-2026]] — Multidimensional perceived school support and AI learning anxiety among university students: the mediating roles of control-value appraisals
 - [[schuetze-knowledge-tracing-forgetting-2026]] — Capturing Session-to-Session Dynamics of Learning and Forgetting: Testing the Limits of Knowledge Tracing Models
