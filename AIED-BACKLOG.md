@@ -5,7 +5,7 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-09-20
-**Total backlog:** 11 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 7 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
@@ -17,12 +17,8 @@
 
 ## Computers and Education Open (CEAO)
 
-- [Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics](https://www.sciencedirect.com/science/article/pii/S2666557326000911) — [DOI: 10.1016/j.caeo.2026.100420](https://doi.org/10.1016/j.caeo.2026.100420)
-- [Exploring basic school leaders' AI readiness: The role of professional development](https://www.sciencedirect.com/science/article/pii/S2666557326000807) — [DOI: 10.1016/j.caeo.2026.100409](https://doi.org/10.1016/j.caeo.2026.100409)
-- [Rethinking data privacy for AI adoption in African higher education: A meta-synthesis](https://www.sciencedirect.com/science/article/pii/S2666557326000790) — [DOI: 10.1016/j.caeo.2026.100408](https://doi.org/10.1016/j.caeo.2026.100408)
 - [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials and correlates](https://www.sciencedirect.com/science/article/pii/S2666557326000728) — [DOI: 10.1016/j.caeo.2026.100401](https://doi.org/10.1016/j.caeo.2026.100401)
 - [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
-- [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
 
 ## British Journal of Educational Technology (BJET)
 
