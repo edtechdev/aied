@@ -1,7 +1,7 @@
 ---
 title: "Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs in Accessible Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, rag, visualization]
@@ -23,6 +23,21 @@ discipline: [math education]
 ## Connections to AI in Education
 
 This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+
+## What this means for practice
+
+- **Instructors.** Produce tactile charts per lesson instead of per term: the pipeline generates print-ready binary STL files for all five chart types on a 150x150 mm plate in under 60 ms (25-51 ms), against roughly two hours of manual Fusion 360 modeling per chart in the baseline workflow.
+- **Instructors.** Keep the mandatory review step for charts derived from images: vision extraction identified chart type in every case over an informal sample of textbook charts but recovered most numeric values only within 5-10% visual estimation error, and produced title-case labels that overflowed the Braille margin and excess precision such as 12.3456 for a visually read 12.
+- **Instructors.** Check plate and label constraints before printing: plate dimensions are clamped to 80-250 mm with an 18 mm margin reserved for English text plus one Braille line, and only Grade 1 Braille is supported, so long or capitalized labels are the main overflow risk.
+- **Researchers.** Validate the tactile parameters and usability rather than only the geometry: the authors call for formal user studies measuring student comprehension and teacher task-completion time, and the parameter derivation layer is designed to be swapped so tactile-perception assumptions can be tested across all five chart types.
+- **Designers.** Reuse the shared scaffolding when extending the tool set: a new chart type requires only one module because baseplate, axis rails, tick marks, dual-format labels and STL export are reused automatically, and integrating directly with matplotlib or ggplot figure objects would remove manual data entry.
+
+## Limitations
+
+- No user study was conducted: the pipeline is evaluated through STL generation times and well-formedness of the binary output, and the authors state that formal studies of student comprehension and teacher task-completion time remain future work.
+- Extraction accuracy is not benchmarked; the vision layer was assessed on an informal sample of textbook chart images, and the 5-10% estimation error plus the two failure modes it produced motivated the mandatory editable review step rather than a measured error rate.
+- Performance figures come from a single plate size (150x150 mm) measured by a test harness, and primitive counts vary by chart type (214 for scatter, 218 for box plots against 172 for histogram and line), so timing and file-size behavior on other plate sizes is not established.
+- The roughly two-hours-per-chart baseline and the practical bottleneck claim come from engagement with a single statistics course (institution withheld), and support is limited to five chart types at Grade 1 Braille, with Grade 2 Braille and additional chart types named as future work.
 
 ## Connected Concepts
 
