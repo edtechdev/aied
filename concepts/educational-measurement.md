@@ -1,7 +1,7 @@
 ---
 title: Educational Measurement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -157,3 +157,4 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: model self-confidence, probabilistic scoring and ensembles as scoring reliability levers
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: development and validation of an instrument for motivations to use AI while reading
+- [[llm-distractor-generation-student-reasoning-2026]] — distractor quality criteria and the reasoning strategies behind them

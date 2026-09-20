@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -164,3 +164,4 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: reliability evidence for LLM scoring of divergent-thinking responses
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — The AI literacy measurement landscape: construct comparability and validity across instruments
+- [[gpt4-handwritten-math-exam-grading-2026]] — accuracy and agreement statistics that fall short of high-stakes thresholds

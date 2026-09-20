@@ -1,7 +1,7 @@
 ---
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -76,6 +76,9 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 **[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-augmented tutoring]]** operationalizes Socratic principles through retrieval, anchoring each response in authoritative course content rather than relying only on the model's parametric knowledge — addressing the gap that pedagogical quality alone is insufficient without content fidelity.
 
+
+[[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] applies Socratic questioning to a subject where withholding the answer is the whole task: teaching laypeople to see the logical fallacy in a persuasive text they believe is valid. Its dialogue agent decomposes the learner's own argument with the Toulmin model (claim, grounds, warrant), detects the learner's intent, and then selects exactly one of four strategies - Responding, Evidence, Assumption, Refutation - in a fixed priority order that mirrors the Toulmin structure, with a separate verifier agent checking after generation that the reply actually executed the chosen strategy and rephrasing it when it did not. The evaluation metrics are the Socratic failure modes rather than learning gains: divergence from the topic, stance change (caving to the learner's position), repetition, failure to refute, failure to ask for evidence, strategy fixation, unexplained fallacy terminology, and passive guidance. Across 1,000 simulated dialogues per framework with a GPT-4o backbone, LFTutor passed 84.5% of dialogues on average against 61.5% for a prompt that listed those same pitfalls and 31.2% for plain role-play prompting, and the ablation shows the gain is not from the Toulmin vocabulary but from verified strategy execution and intent-based selection. With 20 human participants debating the tutor, LFTutor scored significantly better on eight of nine Likert metrics, including helpfulness (4.15 against 1.65), with repetition the one dimension where the difference was not significant.
+
 ## Agency and critical use
 
 Favero et al. (2025) caution that even Socratic AI can undermine [[agency]] if students become dependent on the questioning structure rather than internalizing it. The goal is not permanent Socratic scaffolding but **scaffolded transfer** — students eventually Socratize themselves.
@@ -138,3 +141,4 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework

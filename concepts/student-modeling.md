@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -136,3 +136,7 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
+- [[misconception-acquisition-dynamics-llms-2026]] — the Expert Tutor Misconception Model as a computational analogue of knowledge of student misconceptions
+- [[llm-distractor-generation-student-reasoning-2026]] — modeling incorrect reasoning rather than correctness
+- [[swim-student-writing-simulation-2026]] — proficiency-conditioned modeling of student writing
