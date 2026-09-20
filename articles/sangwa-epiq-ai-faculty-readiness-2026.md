@@ -48,9 +48,20 @@ EPIQ interprets readiness unevenness as a predictable consequence of misalignmen
 
 EPIQ operationalizes readiness through a dashboard of threshold indicators across the four domains: structured [[ai-literacy]] pathways, applied workshops, and discipline-sensitive guidance for epistemic readiness; [[authentic-assessment|assessment redesign]], model valid disciplinary use cases, and instructional-design partnership for pedagogical readiness; policy maturity, resourcing, workload recognition, and coherent governance for institutional readiness; and compliance with [[online-teaching-and-learning|regular-and-substantive-interaction]] expectations plus due-process integrity workflows that privilege evidence-rich adjudication over detection alone for quality-and-compliance readiness.
 
-## Implications
+## What this means for practice
 
-This framework reframes readiness as a multidimensional sociotechnical condition required for credible AI-enabled and online higher education. It challenges detection-centered [[academic-integrity]] regimes, redirecting [[educational-policy-ai|policy]] toward assessment redesign and [[ai-literacy|literacy]] rather than [[ai-detection|surveillance tooling]]. It has direct implications for [[assessment-validity]], [[teacher-ai-competency]], [[educational-development]], and [[governance]], and echoes [[trust]] and equity concerns raised across the corpus. Institutions and governance bodies should sequence policy clarity and faculty capacity-building before ambitious [[generative-ai|AI]] and online scale-up, conditioning edtech procurement on transparent model limitations and bias-risk documentation (NIST AI RMF).
+- **Faculty developers.** Build applied, discipline-sensitive workshops instead of tool access alone: 72% of U.S. instructors have experimented with [[generative-ai|GenAI]], yet only 14% report confidence using it instructionally, so [[teacher-ai-competency|instructional confidence]] is the target rather than exposure.
+- **Administrators.** Sequence [[educational-policy-ai|policy]] clarity and faculty capacity-building ahead of AI or online scale-up: only 35% of institutions have institution-wide AI policies while 40% are still discussing them, and 80% of faculty do not find existing guidelines comprehensive.
+- **Instructors.** Redesign assessment toward [[authentic-assessment|authentic]], process-rich tasks rather than adopting [[ai-detection|detection]] tooling — 54% of faculty already see evaluation methods as needing significant change, and detectors are biased against [[multilingual-learning|non-native English writers]].
+- **Administrators.** Condition edtech procurement on transparent model limitations and bias-risk documentation, and fund the [[educational-development]] and [[learning-design]] roles that [[online-teaching-and-learning|online expansion]] depends on.
+- **Faculty developers.** Protect faculty autonomy and buy-in through workload recognition and shared [[governance]], since technical infrastructure alone does not produce scalable online quality.
+
+## Limitations
+
+- The study is an integrative secondary synthesis: it generated no original dataset and involved no human participants, interviews, or surveys by the authors, so its claims rest entirely on the sources selected for inclusion.
+- It draws on sources with different populations and instruments (global faculty, U.S. instructors, U.S. chief online officers), a constraint the authors state limits direct statistical comparability across estimates.
+- It privileges open and authoritative sources rather than paywalled sector reports, so member-only publications limit the detail that could be extracted.
+- Percentages are reproduced from cited surveys whose samples and question wording vary, so prevalence figures such as 61% and 72% are not a single measurement; the authors target robust directional patterns instead of fine-grained cross-survey comparison.
 
 ## Connected Concepts
 

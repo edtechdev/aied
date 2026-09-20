@@ -55,12 +55,20 @@ The risks cluster into four areas. **Academic integrity and misuse**: teachers r
 
 The authors' recommendations center on course-level [[educational-policy-ai|policies]] that distinguish guided learning from dishonesty, verification procedures (code walkthroughs, oral assessment), pedagogy that requires students to compare, critique, and justify AI-generated code, faculty training in [[ai-literacy|AI literacy]] and [[prompt-engineering|prompt construction]], and equitable infrastructure such as campus-wide licenses and [[accessibility|accessibility features]]. Future research should move beyond short-term classroom experiments to longitudinal studies of how consistent exposure affects problem-solving, code quality, persistence, and higher-order skills such as abstraction and [[design-thinking|design thinking]], and should compare instructional frameworks and cross-institutional/cross-cultural readiness.
 
-## Implications
+## What this means for practice
 
-- **For instructors**: [[generative-ai|generative AI]] is not inherently helpful or harmful—its value depends on structured pedagogy and active [[teacher-role|teacher facilitation]]. Use it for guided practice, debugging sessions, and feedback, but require students to explain, evaluate, and justify outputs to preserve authentic learning.
-- **For institutions**: the gap between heavy classroom emphasis and thin attention to assessment and governance is a warning sign. Universities need explicit course-level guidelines, verification mechanisms that confirm authorship, and equitable access to prevent a [[digital-divide|digital divide]].
-- **For assessment**: because AI detectors are unreliable and submissions increasingly mix AI and human work, assessment must shift toward process evidence—code walkthroughs, oral defense, version-controlled projects—rather than assuming output authenticity.
-- **For [[research-methods-aied|researchers]]**: the under-explored clusters—assessment design, prompting, model evaluation, and long-term learning effects—are the highest-value directions for future work, calling for longitudinal and cross-institutional designs.
+- **Learners.** Treat generated code as a draft to verify, not an answer to submit: in the reviewed studies students frequently encountered incomplete or incorrect code responses, and one study found only 30% of ChatGPT outputs fully usable.
+- **Learners.** Attempt the problem yourself before prompting, and practice explaining what generated code does: the corpus links frequent reliance to reduced motivation to solve problems independently, fewer and less effective software tests, and limited reasoning when students account for AI-generated code ([[cognitive-offloading|cognitive offloading]]).
+- **Instructors.** Place ChatGPT inside a structured instructional framework instead of leaving it open: the controlled applications reviewed reported gains in performance and [[critical-thinking|critical thinking]], whereas unmoderated use was associated with weaker persistence and debugging.
+- **Instructors.** Make students justify what they submit — code walkthroughs, oral assessments, and critique-and-compare tasks — because AI-content detectors performed poorly at distinguishing AI-generated from human-written code and cannot carry [[academic-integrity|integrity]] checks on their own.
+- **Administrators.** Write course-level rules and secure equitable access now rather than waiting for consensus: institutional [[governance|governance]] and assessment are the thinnest clusters in the corpus, and campus-wide licenses plus [[accessibility|accessibility]] features are the remedy the authors recommend against a [[digital-divide|digital divide]].
+
+## Limitations
+
+- The corpus is indexed and open-access, not the whole field: 229 Scopus records were reduced to 81 for initial review and then to 69 documents, and only open-access journal articles and conference papers were eligible.
+- The themes rest on one analytic configuration — LDA was fixed at four topics after iterations for coherence, and each document was assigned to a single primary topic by its highest probability score — so a paper spanning assessment and classroom practice is counted only once.
+- The reported cluster sizes are proportions of documents rather than of evidence: pedagogical implementation 0.19 (13 documents), student-centered learning and engagement 0.49 (34), AI infrastructure and human-AI collaboration 0.23 (16), and assessment, prompting, and model evaluation 0.09 (6).
+- The analysis measures published discourse through term frequencies, bigram and trigram patterns, and topic models, so it cannot show whether structured ChatGPT use improved student outcomes; the performance figures it repeats (a 0.91 grading correlation with instructors, a grading-time reduction of over 75 percent) come from the primary studies it reviews, not from this analysis.
 
 ## Connected Concepts
 

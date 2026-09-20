@@ -80,13 +80,20 @@ A pedagogy guide is injected into every challenge prompt as internal context, sh
 
 Conventional AI writing tools that generate or rewrite text risk creating [[cognitive-offloading|cognitive debt]] — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-method]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains, reframing [[ai-sycophancy|AI agreeableness]] and [[hallucination-risk|generation risk]] as design problems that constraint engineering can address.
 
-## Implications
+## What this means for practice
 
-- **For AI feedback design:** Prober.ai demonstrates that deliberately increasing the effort required to access revision support can improve learning outcomes — a direct challenge to tools that optimize for reducing cognitive load, and a model for treating [[desirable-difficulties|desirable difficulty]] as a design goal in [[ai-education|AI education]].
-- **For formative assessment:** gating directive feedback behind student reflection transforms AI feedback into a [[self-regulated-learning|self-regulation]] scaffold rather than a [[cognitive-offloading|ghostwriter]], with implications for [[ai-feedback-quality|feedback quality]] and [[feedback-literacy|feedback literacy]] in [[higher-ed|higher education]] and [[k-12|K–12]] [[writing-education|writing instruction]].
-- **For [[agency|student agency]]:** by refusing to produce text, Prober.ai protects [[student-ai-interaction|student agency]] and [[active-learning|active]] [[critical-thinking|critical engagement]], offering a constructive counterweight to [[ai-misuse-learning-harm|AI misuse]] and uncritical reliance on [[generative-ai|generative]] [[llm|language models]].
-- **For research:** the [[learning-analytics|instrumentation]] pipeline captures the full {question, defense, score, revision} trajectory, positioning Prober.ai for [[design-based-research|design-based research]] and controlled classroom studies that can empirically test whether pedagogical friction produces durable [[learning-gains|learning gains]].
-- **For scaling cognition-preserving AI:** the constraint methodology (persona prompts, structured outputs, reflection gating) is a transferable architectural template for keeping humans in the learning loop, though production deployment still requires durable data pipelines, authentication, and rate limiting.
+- **Instructors.** Gate revision help behind a written student defense: Prober.ai scores each defense 0–4 on filler content, a minimum length floor, reasoning markers, and topical relevance, and releases a concrete suggestion only once the gate clears — or after two coached attempts, so an earnest student is never trapped.
+- **Instructors.** Assign both critical roles when students review an argument: an expert "Reviewer #2" persona that targets claim, warrant, counterargument, and scope, and a novice "Confused Reader" persona that targets clarity, because logical rigor and communicative clarity are the two dimensions the design separates.
+- **Learners.** Answer the challenge questions in writing before opening any suggestion. The defense is itself the learning moment; skipping it converts the tool back into the [[cognitive-offloading|ghostwriter]] it was built to replace.
+- **Instructors.** Configure writing assistants with explicit negative constraints — do not rewrite the student's text, avoid yes/no questions, avoid leading toward a specific answer — so the model asks about weaknesses instead of smoothing them over.
+- **Instructors.** Use the instrumented pipeline as a [[formative-assessment|formative assessment]] record: it logs the full question, defense, reflection score, and revision trajectory, which supports studying whether friction produces durable improvement rather than assuming it.
+
+## Limitations
+
+- The prototype has not been evaluated in a controlled experimental setting with student participants; the authors state that claims about cognitive engagement preservation, writing improvement, and learning outcomes remain theoretical, and no controlled data has been collected.
+- Structured Outputs guarantee the form of the model's output, not its pedagogical quality: question quality and alignment vary across invocations, and the system has no rubric-based validation layer to reject or regenerate a weak question.
+- Question modules and diagnostic triggers are optimized for argumentative and persuasive essays; extending to narrative, expository, or analytical genres would require redesigning the argumentation parsing heuristics and question taxonomies.
+- Each session is treated independently, with no persistent learner model tracking recurring weaknesses or an improvement trajectory, and contextual highlighting relies on exact substring matching, so whitespace or punctuation differences can leave a legitimate excerpt unhighlighted.
 
 ## Connected Concepts
 

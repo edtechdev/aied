@@ -74,16 +74,6 @@ Pearson correlations found no meaningful associations: learning gains were uncor
 
 The authors acknowledge limitations that constrain causal interpretation: the absence of a control group and the small cohort limit statistical power and increase Type II error risk; and self-reported literacy measures are susceptible to over- or under-confidence. Yet the dissociation between perceived and objective competence is itself informative — it underscores the importance of [[trust-calibration|calibration]] and reflective judgment when integrating AI into instruction.
 
-## Implications
-
-**For pedagogy:** AI's fallibility can be productively harnessed rather than hidden. Instructors can design around error analysis — presenting students with erroneous outputs to diagnose and revise — to push activity up Bloom's taxonomy into [[critical-thinking|analysis, evaluation, and creation]]. The What/Why/How lesson framing and the critique-refinement cycle offer transferable templates beyond database design, with the mechanism generalizing across [[stem-education|STEM]] and other disciplines.
-
-**For AI literacy:** The weak negative correlation between perceived and objective AI competency suggests that confidence-based AI literacy measures are insufficient. Curricula should include objective, domain-level competency checks and explicit exercises that reveal AI limitations, fostering accurate [[trust-calibration|self-calibration]] rather than overconfidence.
-
-**For assessment and scaffolding:** The near-ceiling post-test clustering and the confidence gaps in DBMS use and SQL signal where [[scaffolding|scaffolded, hands-on]] practice matters most. Findings argue for adaptive [[ai-education|AI scaffolds]] that respond to learner progression and for combining [[formative-assessment|formative]] and [[summative-assessment|summative]] measures that track both conceptual understanding and evaluative skill.
-
-**For [[research-methods-aied|research]]:** The design-based orientation, while not causal, motivates controlled, multi-institution replication comparing AI-augmented and non-AI instruction — and argues for measuring AI literacy both subjectively and objectively in future work.
-
 ## Open questions
 
 - Does mistake-based pedagogy transfer across disciplines beyond STEM?
@@ -101,6 +91,21 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 - [[situated-learning|Situated]] in [[self-directed-learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
 - Connects to [[cognitive-offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
 - Relates to [[productive-failure]] and [[desirable-difficulties]]: structured confrontation with imperfect output functions as a productive struggle that deepens learning.
+
+## What this means for practice
+
+- **Instructors.** Design AI exercises around the model's fallibility rather than around its answers: hand students erroneous outputs — a schema that violates referential integrity, a query that drops a join — and require them to diagnose and repair the failure before proposing a corrected design.
+- **Instructors.** Use the What/Why/How lesson framing and a weekly critique-refinement cycle so that AI use moves students up [[critical-thinking|Bloom's taxonomy]] from application to analysis, evaluation, and creation instead of stopping at generation.
+- **Instructors.** Pair any self-report AI literacy survey with objective, domain-level competency checks; here students' self-assessments diverged from measured competency, which is the [[trust-calibration|calibration]] gap a short knowledge quiz makes visible to them.
+- **Learners.** Treat each AI output as a draft to be interrogated: ask the model to justify a schema or normalization choice, then test that justification against the rules you were taught.
+- **Instructors.** Concentrate [[scaffolding|scaffolds]] where confidence was lowest — database system use and SQL design — and assess evaluative skill alongside conceptual recall, since the seven pre/post items tested ER modeling, normalization, schema design, and basic queries only.
+
+## Limitations
+
+- Single-section, asynchronously delivered undergraduate course with 13 students; the authors report the small cohort limits statistical power and increases the risk of Type II error.
+- No control group, so the pre/post improvement (mean 4.25 to 6.83 out of 7, Cohen's *d*=1.49) cannot be separated from the curriculum, the instructor, or the midterm and final in which the post-test items were re-embedded.
+- AI and database literacy were self-reported on a 5-point Likert scale, which the authors note is susceptible to over- or under-confidence; perceived AI literacy correlated weakly and non-significantly with objective competency (r = −0.39, p ≈ 0.21).
+- Post-test scores clustered between 6 and 7 out of 7 (SD ≈ 0.39), leaving little headroom to detect further growth, and two of the seven items showed no significant improvement because pre-test scores were already high.
 
 ## Connected Concepts
 
