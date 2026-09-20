@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education"
 created: "2026-07-15T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-20T03:45:11-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, llm]
@@ -39,9 +39,13 @@ The study performs a **secondary/document analysis** comparing institutional pol
 - **Anthropomorphism appears only at course level:** 39% (N = 38) of syllabi describe GenAI in human terms — as a "tutor," "coach," or "assistant" — reflecting faculty and student mental models of the tools.
 - **CS as the policy canary:** institutional guidance concentrates on [[stem-education|STEM]] and especially [[cs-education|computer science]] (48% of institutions mention CS), consistent with GenAI's strength in programming and its training on coding corpora (StackOverflow, GitHub, online repositories).
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[governance]], the finding that institutional guidance is pro-use while classroom practice is restrictive suggests that effective governance requires **translating policy into concrete instructor support**, not just issuing top-down documents — otherwise instructors improvise inconsistent local rules. For computing education specifically, the study positions CS as the canary discipline for GenAI adoption: high student uptake forces instructors to confront policy gaps first. The authors characterize both levels as sending "mixed messages" because institutions and educators are **playing catch-up to student use**, compounded by fast-moving, vendor-controlled access. The gap between policy intent and classroom practice connects to [[educational-policy-ai]] and [[equity-in-ai-education]] debates about who sets AI-use rules and how consistently they apply across courses and students, and to [[teacher-ai-adoption-confidence]] — uneven instructor readiness to translate guidance into everyday practice.
+- **Administrators.** Translate pro-use institutional guidance into course-level instruments rather than relying on the policy document itself: of 116 institutions with GenAI policy, only 54 had detectable course-level guidance and just 47 had both, while half of the 98 computing syllabi (N = 49) prohibit GenAI use outright.
+- **Administrators.** Add formal citation guidance to the policy you already have. Syllabi lead on transparency — 83% (N = 81) require students to cite GenAI use and more than two-thirds treat uncredited use as an honor-code violation — but only 38% (N = 44) of institutions provide citation guidance of their own.
+- **Instructors.** Match the restriction to the activity instead of banning by default: 41% of syllabi (N = 40) permit partial use for specified activities and only 7% (N = 7) communicate encouragement, which leaves students guessing what is allowed in each course.
+- **Faculty developers.** Carry into course-level templates the content institutions emphasize but syllabi omit — curriculum and assessment reflection (50% of institutions), privacy (57%), Diversity/Equity/Inclusion (52%), and classroom ethics discussion (53%).
+- **Administrators.** Pilot the translation of institutional guidance into course rules in computer science first: 48% of institutions single out CS (N = 56) and student uptake there is high, so instructors improvise local rules that may contradict institutional guidance. This coordination gap connects to [[educational-policy-ai]] and [[equity-in-ai-education]] questions about who sets AI-use rules and how consistently they apply, and to [[teacher-ai-adoption-confidence]].
 
 ## Limitations
 
