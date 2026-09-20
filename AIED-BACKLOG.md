@@ -4,12 +4,25 @@
 >
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
-**Last updated:** 2026-09-19
-**Total backlog:** 0 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-09-20
+**Total backlog:** 11 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Computers and Education: Artificial Intelligence (CAEAI)
 
+- [Bridging the domain gap for VLMs: A scientific fine-tuning framework for precision and pedagogy in scientific education](https://www.sciencedirect.com/science/article/pii/S2666920X26001359) — [DOI: 10.1016/j.caeai.2026.100673](https://doi.org/10.1016/j.caeai.2026.100673)
+- [Federated learning for privacy-preserving at-risk student prediction in health professions education](https://www.sciencedirect.com/science/article/pii/S2666920X26001220) — [DOI: 10.1016/j.caeai.2026.100660](https://doi.org/10.1016/j.caeai.2026.100660)
+- [Standardized assessment of LLM English proficiency](https://www.sciencedirect.com/science/article/pii/S2666920X26001189) — (DOI pending Crossref indexing of the journal version)
+- [A socio-technical framework for educational excellence: Empirical validation of artificial intelligence integration](https://www.sciencedirect.com/science/article/pii/S2666920X26001098) — [DOI: 10.1016/j.caeai.2026.100647](https://doi.org/10.1016/j.caeai.2026.100647)
+- [Enhancing domain adaptation of LLM via model composition in solving medical exam questions](https://www.sciencedirect.com/science/article/pii/S2666920X26001001) — [DOI: 10.1016/j.caeai.2026.100638](https://doi.org/10.1016/j.caeai.2026.100638)
+
 ## Computers and Education Open (CEAO)
+
+- [Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics](https://www.sciencedirect.com/science/article/pii/S2666557326000911) — [DOI: 10.1016/j.caeo.2026.100420](https://doi.org/10.1016/j.caeo.2026.100420)
+- [Exploring basic school leaders' AI readiness: The role of professional development](https://www.sciencedirect.com/science/article/pii/S2666557326000807) — [DOI: 10.1016/j.caeo.2026.100409](https://doi.org/10.1016/j.caeo.2026.100409)
+- [Rethinking data privacy for AI adoption in African higher education: A meta-synthesis](https://www.sciencedirect.com/science/article/pii/S2666557326000790) — [DOI: 10.1016/j.caeo.2026.100408](https://doi.org/10.1016/j.caeo.2026.100408)
+- [Levels of AI awareness and pedagogical skills among Nigerian teachers: The differentials and correlates](https://www.sciencedirect.com/science/article/pii/S2666557326000728) — [DOI: 10.1016/j.caeo.2026.100401](https://doi.org/10.1016/j.caeo.2026.100401)
+- [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://www.sciencedirect.com/science/article/pii/S2666557326000133) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
+- [Junior high school student perspectives on the use of ChatGPT in music education](https://www.sciencedirect.com/science/article/pii/S2666557326000583) — [DOI: 10.1016/j.caeo.2026.100387](https://doi.org/10.1016/j.caeo.2026.100387)
 
 ## British Journal of Educational Technology (BJET)
 

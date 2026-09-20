@@ -3,6 +3,10 @@
 ## 2026-09-20
 - 📄 [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
 - 📄 [[flipped-learning-genai-design-education-2026]] — Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course
+- 📄 [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in higher education: Autonomy, self-efficacy and innovation in early-career scientific training
+- 📄 [[ai-adoption-readiness-ukraine-education-managers-2026]] — AI adoption readiness among Ukrainian education managers: Barriers, typologies, and policy implications
+- 📄 [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: Exploring teachers' contextual ethical reasoning through an STS lens
+- 📄 [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of university students in Ghana: A network and latent profile analyses
 
 
 ## 2026-09-19
@@ -19,7 +23,7 @@
 - 📄 [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritise Learning over Performance
 
-Last updated: 2026-09-20 | Total entries: 1527
+Last updated: 2026-09-20 | Total entries: 1531
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
