@@ -62,7 +62,7 @@ confidence: high
 - [[feedback-futures-genai]] — Feedback futures with generative AI
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
-- [[ai-internal-feedback-evaluative-Judgments]] — AI internal feedback and evaluative Judgment
+- [[ai-internal-feedback-evaluative-judgments]] — AI internal feedback and evaluative Judgment
 - [[metacognitive-ai-literacy-beyond-skills-gap-2026]] — Metacognitive AI literacy beyond the skills gap
 
 ## Citation

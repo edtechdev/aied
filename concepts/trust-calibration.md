@@ -75,6 +75,20 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[self-report-measures]]
 - [[ai-misuse-learning-harm]]
 
+- [[explainable-ai]]
+- [[ai-literacy]]
+- [[cognitive-offloading]]
+- [[hallucination-risk]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[human-ai-collaboration]]
+- [[misconceptions]]
+- [[reducing-ai-misuse]]
+- [[pedagogical-safety]]
+- [[self-report-measures]]
+- [[ai-misuse-learning-harm]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[student-perspectives-ai-writing-grading-2026]] — Student perspectives on transparent AI-assisted writing assessment (AlGhamdi 2026)
 - [[du-yuan-epistemic-dependence-2026]] — Six diagnostic criteria separating productive reliance from harmful dependence (Du & Yuan 2026)

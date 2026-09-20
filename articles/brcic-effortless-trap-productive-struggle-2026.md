@@ -53,6 +53,18 @@ page_kind: [framework]
 - [[k-12]]
 - [[reducing-ai-misuse]]
 
+- [[desirable-difficulties]]
+- [[cognitive-offloading]]
+- [[self-regulated-learning]]
+- [[scaffolding]]
+- [[socratic-method]]
+- [[self-efficacy]]
+- [[learning-gains]]
+- [[transfer-of-learning]]
+- [[k-12]]
+- [[reducing-ai-misuse]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[efficiency-gain-illusion-ai-overreliance]] — Efficiency gain illusion and AI over-reliance

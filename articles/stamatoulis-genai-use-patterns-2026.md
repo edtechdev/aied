@@ -58,6 +58,17 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 - [[ai-misuse-learning-harm]]
 - [[student-experience]]
 
+- [[generative-ai]]
+- [[higher-ed]]
+- [[ai-literacy]]
+- [[academic-integrity]]
+- [[cognitive-offloading]]
+- [[self-efficacy]]
+- [[reducing-ai-misuse]]
+- [[ai-misuse-learning-harm]]
+- [[student-experience]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment

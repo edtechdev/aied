@@ -83,6 +83,18 @@ This review converges with several existing threads. It resonates with [[reclaim
 - [[equity-in-ai-education]]
 - [[academic-integrity]]
 
+- [[cognitive-offloading]]
+- [[agency]]
+- [[ai-literacy]]
+- [[metacognition]]
+- [[trust-calibration]]
+- [[human-in-the-loop-ai]]
+- [[theory-development-aied]]
+- [[ethics]]
+- [[equity-in-ai-education]]
+- [[academic-integrity]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[reclaiming-epistemic-agency-co-agency-2026]] — Ecological Co-Agency Framework and human epistemic accountability (Poudyal 2026)
