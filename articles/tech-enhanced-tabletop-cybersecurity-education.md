@@ -1,7 +1,7 @@
 ---
 title: "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned"
 created: "2026-07-31T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 pedagogy: [active-learning]
 research_method: [system development, case study]
@@ -29,10 +29,20 @@ stakeholders: [professional-training]
 
 A cybersecurity tabletop exercise is a conversation between participants responsible for fulfilling a variety of roles during a cybersecurity incident. The paper describes the design, delivery, and evaluation of 25 TTXs using the IXP platform from October 2024 to March 2026. The exercise lifecycle — planning, development, delivery, and post-exercise reflection — structures the lessons learned, which include recommendations for realistic, well-thought-out scenarios and for instructor support during the exercise. Although the recommendations are grounded in cybersecurity, the authors argue they are not [[discipline-specific-aied|domain-specific]] and can be used for digital TTXs in other areas.
 
-## Implications for AI in Education
+## What this means for practice
 
-The work demonstrates how technology enhancement can close the gap between professional TTX practice and university teaching: automated scenario delivery, team discussion facilitation, and interaction-data collection turn an experiential exercise into a measurable learning event. The combination of [[experiential-learning|experiential learning]] with analytics is the platform's distinguishing value — instructors gain insight into team performance, communication patterns, and decision-making without manual observation, and students receive faster feedback. For [[active-learning]] and [[professional-training]] contexts beyond cybersecurity, the lessons learned offer a transferable template: prioritize realistic scenarios, design for instructor support, and instrument the exercise from the start so that evaluation is a byproduct of delivery rather than an afterthought. The work also contributes to [[cs-education]] practice and to [[learning-analytics]] approaches for hands-on, [[collaborative-learning]] formats in [[higher-ed]].
+- **Instructors.** Instrument the exercise before the first run so milestone timing, team decisions, scoring, and communication are captured as a byproduct of delivery rather than reconstructed afterward.
+- **Instructors.** Protect a structured debrief as a required phase: trainees in these exercises consistently wanted more debrief time than the schedule allowed, and the authors warn that the collected data goes unused without a facilitator who surfaces disagreement.
+- **Designers.** Start from realistic, well-thought-out scenarios and plan for instructor support during delivery — the two lessons the authors single out as decisive across the exercise lifecycle.
+- **Designers.** Accept the automation trade-off: on-demand exercises scale to hundreds of participants only if every evaluated element can be scored automatically, which pushes scenarios toward multiple-choice questionnaires and away from open-ended artifacts.
+- **Instructors.** Reuse the platform and existing trainee accounts across successive exercises so team performance can be compared between runs instead of rebuilding materials each term.
 
+## Limitations
+
+- The evidence is 25 exercises with 743 participants delivered on the authors' own IXP platform, so platform effects cannot be separated from instructional design.
+- The study is a system development and case study paper: feedback came from post-exercise questionnaires and instructor observations, with no comparison against paper-based tabletop exercises and no measured learning outcome.
+- The courses span many local contexts, including one course run over two years, a summer school, and a remote two-country exercise, so the 24 lessons learned are practitioner experience rather than a controlled comparison.
+- The digital format changes the comparison standard, since trainees judge a digital exercise against polished applications rather than against other tabletop exercises.
 ## Connected Concepts
 
 - [[cs-education]]

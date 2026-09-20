@@ -1,7 +1,7 @@
 ---
 title: "SafeTutors: Benchmarking Pedagogical Safety in AI Tutoring Systems"
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T03:43:02-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm]
@@ -76,6 +76,20 @@ SafeTutors sits at the intersection of [[ai-misuse-learning-harm|AI misuse and l
 
 For [[k-12]] contexts, where the stakes of pedagogical harm are highest and student oversight is thinnest, SafeTutors provides empirical evidence that current models are not safe enough for unsupervised deployment.
 
+## What this means for practice
+
+- **Designers.** Evaluate tutors across multi-turn conversations of 5–8 turns rather than single responses: harm rates rose from 17.7% single-turn to 77.8% multi-turn across all 11 tested models.
+- **Designers.** Do not treat parameter count or proprietary alignment as a safety strategy — the 72B model had a lower harm rate than the 7B on only 17 of 33 single-turn subject–dimension pairs.
+- **Designers.** Target pedagogical failure modes directly — answer over-disclosure, misconception reinforcement, abdication of scaffolding — instead of relying on toxicity and correctness filters.
+- **Designers.** Run subject-specific audits, because violation patterns differed significantly across mathematics, physics, and chemistry, so a mitigation validated in one domain need not transfer.
+- **Designers.** Require multi-turn pedagogical safety evidence before unsupervised K–12 deployment, since harm deepens as conversations lengthen.
+
+## Limitations
+
+- The benchmark covers three STEM subjects — mathematics, physics, and chemistry — and 11 models from 3.8B to 72B parameters plus GPT-5-mini, so conclusions stay inside that set.
+- Multi-turn evaluation spans 5–8 turns, a shorter horizon than semester-long tutoring, so longer-term degradation is inferred from a capped window.
+- Pedagogical scoring is automated using DeepSeek-32B and validated by two doctoral students on a stratified sample of 900 single-turn responses and 300 multi-turn conversations (Cohen's κ = 0.76), leaving most of the output set checked only by the model.
+- The 11-dimension, 48-sub-risk taxonomy is derived from learning-science literature and assembled by the authors rather than empirically discovered, so dimension boundaries are analytic choices.
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
