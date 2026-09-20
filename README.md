@@ -169,7 +169,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — AI agent skill definition (the `research-wiki` ingestion + export pipeline)
 - **`tooling/SCHEMA.md`** — Page conventions, the typed metadata fields (tags are retired), and the generated vocabulary lists
-- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker, US-English checker (`check-us-english.py`)
+- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker, US-English checker (`check-us-english.py`) and its fixer (`respell-us-english.py`)
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
 - **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views

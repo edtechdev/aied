@@ -164,6 +164,12 @@ python3 tooling/scripts/validate-facets.py
 # identifiers and are deliberately ignored, so the gate stays useful while a slug is pending rename.
 python3 tooling/scripts/check-us-english.py --include-docs
 
+# Fix what the checker reports. Rewrites body prose only: frontmatter and everything from
+# `## Citation` onward are left byte-identical, because a citation reproduces the title as the
+# journal printed it. Curated pair list on purpose — a blanket `-ise` rule would turn the
+# correct plural "analyses" into "analyzes".
+python3 tooling/scripts/respell-us-english.py --changed
+
 # Check the structured metadata fields (research_method, discipline, audience, level, page_kind)
 # against the closed vocabularies in src/content.config.ts. Reports coverage per collection and
 # any value outside the list; the build rejects invalid values too, but this reports them in
