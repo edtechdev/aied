@@ -138,6 +138,9 @@ def ungrounded(slug):
     raw_l = raw_n.lower()
     squeezed = re.sub(r'\s+', '', raw_n)
     body = re.sub(r'^---\n.*?\n---', '', article.split('## Citation')[0], flags=re.S)
+    # the Connected lists reproduce other pages' titles and slugs: they are an index,
+    # not a claim about this paper, so their digits are not checked here
+    body = re.sub(r'(?ms)^## Connected (?:Concepts|Articles|FAQs).*$', '', body)
     body = strip_identifiers(body)
     misses = []
     for value, number in numeric_tokens(body).items():
