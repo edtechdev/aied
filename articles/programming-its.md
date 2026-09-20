@@ -1,7 +1,7 @@
 ---
 title: Programming Intelligent Tutoring Systems
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T08:26:22-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
@@ -63,13 +63,19 @@ The upcoming EU AI Act classifies some AI-in-education applications as high risk
 - **Evaluation** — A/B testing with pre/post-tests to compare skill gains across pedagogical models once deployed course-long.
 - **Open source** — the alpha-stage code is released at the project's GitLab; the authors do not yet recommend it for deployment, only research use.
 
-## Implications
+## What this means for practice
 
-- **Language-specific scaffolding:** ITS hint strategies must adapt to language idioms (Pythonic vs. Java-esque solutions); Python's dynamic typing and REPL workflow demand different hints than statically-typed languages.
-- **Compliance as a design constraint:** satisfying the GDPR, EU AI Act, and research-ethics frameworks is feasible but labor-intensive and can delay deployment by a year; institutions should budget for it.
-- **Self-hosted open models:** avoiding commercial LLM APIs is a viable and arguably preferable route for privacy, reproducibility, environmental impact, and data security — even in a research context.
-- **Dual teaching-research design:** building consent-gated keystroke data collection into the tool enables rigorous evaluation of tutoring interventions without sacrificing privacy.
-- **Scalability:** an ITS can deliver individualized [[feedback]] to large cohorts where human tutors cannot scale, making it a practical response to the [[scaffolding]] demands of practice-intensive programming courses.
+- **Learners.** Use the hint button before reaching for a complete solution: the Step Generator predicts the next program state and the Hint Generator turns it into a hint that narrows the gap to that step without disclosing it, preserving the effort a copied answer removes and supplying individualized feedback where tutor capacity does not scale.
+- Opt in deliberately if you want your work to count as research data: keystroke-level recording is switched on only with explicit, additional consent, and SCRIPT remains usable as a pure teaching tool without it.
+- Expect guidance anchored to the task's knowledge components rather than to a generic answer key — the system was built because prior programming ITS rarely support Python, and hint content draws on the domain model's task context in an advanced data-science course.
+- Self-host an open-weight model rather than calling commercial LLM APIs: SCRIPT hosts open-weight models through Ollama, which the authors argue satisfies the EU AI Act's high-risk expectations while improving reproducibility through exact model versioning, plus privacy and environmental footprint.
+- Budget for compliance before deploying, especially in the EU: the authors' own semester-long rollout was postponed for a year while GDPR, EU AI Act, and research-ethics procedures were found and approved, and they advise anyone administering AI education systems under those rules to anticipate the effort.
+## Limitations
+
+- The system is at alpha stage and only part of the architecture in the paper's Figures 3 and 4 is implemented; the authors state plainly that it cannot yet be recommended for deployment and is offered for research use.
+- The adaptive outer loop is largely future work: the next-step and feedback modules already use task-contextual information, but learner-model context and revision of generated feedback through a certainty metric are described as planned rather than built.
+- Data privacy shaped the design and capped the evidence: the authors could not yet implement the system for mandatory task submissions, because coupling submissions to individual student identities would have raised the privacy risks they set out to avoid.
+- It is described only for a narrow setting — advanced undergraduate computer science courses in which Python is a new language, focused on data science — and the paper reports no student evaluation or learning-outcome data.
 
 ## Connected Concepts
 

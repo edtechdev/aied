@@ -1,7 +1,7 @@
 ---
 title: The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
 created: "2026-05-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T08:27:34-04:00"
 type: article
 pedagogy: [desirable-difficulties, scaffolding]
 technology: [generative-ai, llm, pedagogical-agent, rag]
@@ -50,17 +50,20 @@ Across the course, students receiving LLM-generated feedback reached correct sol
 
 Feedback structure influenced efficiency (time and attempts) rather than final success, since solution rates were high in every condition. Overall, more detailed guidance did not necessarily improve short-term performance; constraining feedback to fewer issues or to problem identification alone was generally more efficient. Large individual differences between students outweighed coarse measures like years of experience, and feedback effectiveness varied by content recency, suggesting that a single fixed feedback strategy is unlikely to be optimal for all students or tasks. This motivates [[adaptive-learning]] and [[personalized-learning]] approaches that adjust feedback structure based on student behavior and task characteristics, rather than fixed formats.
 
+## What this means for practice
+
+- **Instructors.** Constrain generated feedback so students do the localizing themselves: Single-Issue Feedback cut time-to-solution most (β = −0.214 on log time), ahead of Diagnostic (β = −0.194) and General (β = −0.122), so explanation-heavy output is not the stronger option.
+- **Instructional designers.** Ground feedback prompts in the current course materials and pass compiler error output as context: of the 31 feedback messages students voted Poor, 12 pointed to an older version of the taught technology and 7 reported no issue while tests were still failing, making [[hallucination-risk]] a routine failure mode rather than an edge case.
+- **Designers.** Make feedback structure adaptive to task and behavior instead of fixing one format per course: random slopes for hint type varied widely, so a subset of students saw little or no benefit.
+- **Instructors.** Treat faster time-to-solution as efficiency, not learning: effects appeared on time and attempts while solution rates were high in every condition, so [[learning-gains|learning outcomes]] still require longitudinal measurement.
+- **Designers.** Prefer formats that prompt another iteration over complete solutions — the pattern matches [[socratic-method]] and discovery-based tutoring and guards against [[cognitive-offloading]] and over-[[scaffolding]].
+
 ## Limitations
 
-Assignment–user pairs are non-independent because students saw different hint types across assignments; proficiency was self-reported rather than measured; the study ran in a single course and excluded long submissions, limiting generalizability; and outcomes capture short-term performance rather than long-term learning.
-
-## Implications
-
-- Design LLM feedback to limit [[cognitive-offloading|cognitive load]]: constrain output to fewer issues and diagnostic identification rather than complete solutions, supporting productive struggle over over-[[scaffolding]].
-- Ground feedback in current course materials via retrieval-augmented generation ([[rag]]) and include compiler error output as context, to counter outdated model knowledge and reduce [[hallucination-risk]].
-- Move toward adaptive feedback calibrated to task, history, and behavior instead of fixed formats, drawing on [[student-modeling]] and diagnostics rather than self-reported expertise.
-- Treat short-term efficiency cautiously: longitudinal evaluation of long-term [[learning-gains|learning outcomes]] is needed before claiming genuine learning gains.
-- For educators and tool builders, prioritize formats that prompt student action and iteration — a pattern consistent with [[socratic-method]] and discovery-based tutoring.
+- Assignment–user pairs are non-independent, because students saw different hint types across assignments.
+- Proficiency was self-reported rather than measured.
+- The study ran in a single course and excluded long submissions, which limits generalizability.
+- The outcomes capture short-term performance rather than long-term learning.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: "Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T08:28:24-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, educational-development]
 pedagogy: [metacognition]
@@ -56,11 +56,11 @@ Shift pedagogical expertise from **user's prompt** to **LLM's internal architect
 ### Efficiency Trade-off
 | System | Time (s) | Tokens (k) | Requests |
 |--------|-----------|-------------|----------|
-| SAS | 25 ± 16 | ~3.4 | 1 |
-| MAS-Roles | ~75 | ~24 | 5 |
-| MAS-CMD | 272 ± 168 | ~71.6 | 13 |
+| SAS | 25 ± 16 | 3,376 ± 1,601 | 1.00 ± 0.00 |
+| MAS-Roles | 77 ± 45 | 22,497 ± 7,157 | 5.4 |
+| MAS-CMD | 272 ± 168 | 71,638 ± 25,222 | 13.00 ± 0.00 |
 
-**Finding:** Highest quality requires ~11× more tokens and ~10× more time than baseline.
+**Finding:** MAS-CMD traded the highest rubric scores for substantially greater latency and usage: 272 ± 168 s, ~71.6k tokens and 13 requests, against 25 ± 16 s, ~3.4k tokens and one request for the single-agent baseline.
 
 ## Knowledge–Learning–Instruction (KLI) Framework
 
@@ -90,22 +90,20 @@ The KLI framework (Koedinger et al., 2012) aligns three elements:
 - **Both use agents:** TeachBench (teacher-student agents); this paper (instructional designer agents)
 - **Both find:** Raw solving ≠ pedagogical quality; structured frameworks needed
 
-## Implications for AI in Education
+## What this means for practice
 
-### For Tool Developers
-- **Embed pedagogy:** Don't rely on teachers to "prompt in" pedagogical quality
-- **[[agentic-ai|Multi-agent]] > single-agent:** Collaborative discussion produces more creative, contextual outputs
-- **Trade-off awareness:** Highest quality requires computational cost; offer tiered options balancing efficiency and quality
+- **Faculty developers.** Stop treating prompt skill as the entry requirement for pedagogical quality: 60% of surveyed public-school teachers use AI for teaching tasks, yet embedding the KLI framework inside a [[agentic-ai|multi-agent system]] moves that expertise into the architecture, so professional learning time can go to reviewing and adapting outputs instead of engineering prompts.
+- **Faculty developers.** Start teachers on the collaborative MAS-CMD design when quality matters: 20 practicing teachers described its outputs as "fantastic, creative, classroom-ready" and called the sequential design's offerings generic, even though the quantitative advantage showed up only on rubric criterion 5.2 (F(2, 38) = 4.75, p = .014).
+- **Faculty developers.** Put a pacing check in the review routine, since that was teachers' most common critique: generated activities were "a lot to unpack" and needed to be "broken up into some days" before classroom use.
+- **Administrators.** Budget the quality–efficiency trade-off explicitly: MAS-CMD took 272 ± 168 seconds and ~71.6k tokens across 13 requests per activity against 25 ± 16 seconds and ~3.4k tokens for the single-agent baseline, so tier tool choice by the stakes of the task rather than standardizing on one system.
+- **Researchers.** Do not read weak rubric agreement as evidence of no difference: overall expert agreement was −0.016 under Fleiss' κ while teacher preference in the [[qualitative-research|qualitative]] feedback was consistent, so pair rubric scoring with qualitative review when [[ai-ed-evaluation|evaluating]] creative artifacts.
 
-### For K-12 Educators
-- **Beyond [[conversational-ai|chatbots]]:** Specialized MAS tools can provide "print-ready" materials
-- **Teacher remains central:** AI as "instructional partner," not replacement
-- **Time savings:** Weekly AI users save ~5.9 hours/week; quality tools amplify this
+## Limitations
 
-### For Researchers
-- **[[ai-ed-evaluation|Evaluation]] challenge:** Low expert agreement (κ ≈ 0) suggests need for better rubrics
-- **Quality ≠ rubric scores:** Teachers' [[qualitative-research|qualitative]] preferences didn't always match statistical significance
-- **KLI as design principle:** [[learning-theories|Learning sciences]] frameworks can be operationalized in AI architectures
+- The study evaluated design, not implementation: 30 learning activities per system were reviewed by teachers and an LLM judge but never taught to students, so it supports claims about perceived quality, not about student [[student-engagement|engagement]] or learning outcomes.
+- The human evaluation rests on 20 practicing teachers (11 math, 9 science) in U.S. secondary schools, each rating 30 activities per system; inter-rater agreement was slight to poor (criterion 5.1 κ = 0.047, 5.2 κ = 0.053, 5.3 κ = −0.030, 5.4 κ = −0.043; overall κ = −0.016).
+- Only one rubric criterion separated the systems statistically (5.2: F(2, 38) = 4.75, p = .014, ηp2 = .20), and the LLM-as-a-judge companion reached a ceiling effect on criteria such as Foundational Alignment and Inclusivity, with the largest gap between systems under 7% of the scale.
+- Scope is one pedagogical framework and a fixed architecture set: the comparison covers KLI with three systems generated by gemini-2.5-flash (plus gemini-2.5-pro, gemini-2.0-flash, and gemini-2.0-flash-lite variants for the rubric comparison), so other instructional design models and agentic workflows remain untested.
 
 ## Connected Concepts
 

@@ -38,11 +38,19 @@ The problem: many teachers struggle with adoption because of limited training, u
 - **Attitudes were driven by confidence, not support.** Confidence had a strong positive effect on attitudes (β = 0.855, p < 0.001); the direct effect of support on attitudes was not significant (β = 0.128, p = 0.106). Concerns neither predicted attitudes (β = 0.220, p = 0.151) nor moderated the support–attitude relationship (β = −0.047, p = 0.173). The model explained 74.2% of the variance in attitudes (R² = 0.742, F = 205.9, p < 0.001).
 - **Full mediation.** In the mediation model, support predicted confidence (β = 0.58, p < .001) and confidence predicted attitudes (β = 0.85, p < .001), but with confidence in the model the direct effect of support on attitudes became non-significant (β = 0.03, p = .385). The indirect effect through confidence (a × b = 0.4961) was significant on the Sobel test (z = 12.63, p < .001).
 
-## Implications
+## What this means for practice
 
-For instructors and faculty developers, the practical reading is that support is necessary but not sufficient: it improves attitudes chiefly by raising confidence, so structured professional development, mentoring and technical assistance matter more than tool provision or mandates alone. Because concerns neither moderated nor directly drove the relationships, addressing apprehension head-on may be less productive than building [[self-efficacy]] through hands-on experience — a point of contact with [[educational-development]] and [[ai-literacy]].
+- **Instructors.** Build fluency through hands-on use rather than reassurance: confidence had a strong positive effect on attitudes (β = 0.855, p < 0.001), while concerns neither predicted attitudes (β = 0.220, p = 0.151) nor moderated the support–attitude relationship (β = −0.047, p = 0.173).
+- **Faculty developers.** Treat institutional support as necessary but not sufficient: it improved attitudes chiefly by raising confidence (indirect effect a × b = 0.4961, z = 12.63, p < .001), while its direct effect on attitudes was non-significant (β = 0.128, p = 0.106), so structured professional development, mentoring and technical assistance matter more than tool provision.
+- **Faculty developers.** Target the weakest confidence area directly, since confidence in handling technical issues was comparatively lower than general confidence in using AI tools.
+- **Administrators.** Embed [[ai-literacy]] in [[teacher-education]] programs, because resistance more often reflects systemic support gaps than individual reluctance: support had a strong effect on confidence (β = 0.537, p < 0.001; R² = 0.476), while support for internet reliability and infrastructure was only moderate.
 
-For institutions and policy, the authors argue that resistance to AI often reflects systemic support gaps rather than individual reluctance, and recommend embedding AI literacy in [[teacher-education]] programs. A limitation worth noting for readers is that the findings come from one Philippine province, so generalization to other contexts is a hypothesis rather than a result.
+## Limitations
+
+- The study is a cross-sectional self-report survey of 260 teachers recruited by purposive sampling from Pampanga, Philippines; the authors note that generalization beyond that province is a hypothesis rather than a result.
+- All four constructs were measured with a single 35-item, five-point Likert instrument administered once, so the support → confidence → attitude pathway rests on a statistical mediation model rather than on any manipulation.
+- Mediation was tested with the Baron and Kenny method and the Sobel test rather than bootstrapped or structural-equation approaches, so the indirect effect depends on a lower-power procedure.
+- The sample tilts toward secondary educators — 161 of 260 were secondary against 52 elementary and 47 college teachers, with over 75% of participants female — so estimates reflect that distribution.
 
 ## Connected Concepts
 
