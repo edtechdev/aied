@@ -192,5 +192,5 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[lftutor-logical-fallacy-education-2026]] — an LLM tutor for logical fallacies with verified intent-based strategy execution
-- [[caeai-ai-companions-learning-over-performance-2026]] — a design agenda for companions that prioritise learning over performance signals
+- [[caeai-ai-companions-learning-over-performance-2026]] — a design agenda for companions that prioritize learning over performance signals
 - [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving

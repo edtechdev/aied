@@ -1,7 +1,7 @@
 ---
 title: "SWIM: Student Writing Simulation via Proficiency-Conditioned Generation"
 created: "2026-09-19T21:07:40-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-19T22:08:08-04:00"
 type: article
 technology: [llm, generative-ai, simulating-students, student-modeling, pedagogical-llm-training, reinforcement-learning]
 assessment: [automated-essay-scoring, assessment]
@@ -59,13 +59,10 @@ The work is an experiment on ASAP/ASAP++, a trait-score-annotated corpus of eigh
 
 - Fidelity is defined by a frozen AES verifier and QWK against AES-predicted traits; the paper states that this proxy cannot replace [[human-in-the-loop-ai|human judgment]] of whether generated essays authentically resemble student writing.
 - The dataset covers eight English ASAP/ASAP++ prompts with limited proficiency distributions, so generalization to other languages, age groups, genres and rubric frameworks is untested.
-- Prompting methods are evaluated on a single fold while SFT and GRPO use five, so prompting and training numbers are not measured on identical evaluation samples.
-- Proficiency is modeled as a static trait profile; evolving knowledge, [[misconceptions]], motivation and writing strategies over time are outside the scope.
-- Both backbones are fine-tuned through QLoRA adapters, and conclusions about the supervision hierarchy rest on those two small open-weight models.
-- The independent-evaluator check is run on one fold only, and the evaluation-only verifier is itself fit to the evaluation data, so that result is read through the relative SFT to GRPO gain.
+- Prompting methods are evaluated on a single fold while SFT and GRPO use five, so prompting and training numbers are not measured on identical evaluation samples; the independent-evaluator check is run on one fold only, and the evaluation-only verifier is itself fit to the evaluation data, so that result is read through the relative SFT to GRPO gain.
+- Proficiency is modeled as a static trait profile, and both backbones are fine-tuned through QLoRA adapters, so evolving knowledge, [[misconceptions]], motivation and writing strategies over time are outside the scope and the conclusions about the supervision hierarchy rest on two small open-weight models.
 
 ## Connected Concepts
-
 - [[simulating-students]] — the task in question, extended here from short responses to full essays
 - [[automated-essay-scoring]] — both the evaluation metric and the reward source
 - [[writing-education]] — the domain and the construct being simulated

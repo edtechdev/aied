@@ -1,7 +1,7 @@
 ---
 title: "Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation for Multiple-Choice Questions"
 created: "2026-09-19T21:07:40-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-19T22:08:08-04:00"
 type: article
 technology: [llm, machine-learning]
 assessment: [automated-question-generation, assessment, educational-measurement]
@@ -24,7 +24,7 @@ confidence: high
 
 1. **Reasoning improves alignment.** Proportional match rises from direct [[prompt-engineering|prompting]] to chain-of-thought to reasoning: DeepSeek-V3.2 goes 0.34, 0.51, 0.52 on Eedi and 0.08, 0.13, 0.14 on SciQ; GLM-4.7 goes 0.42, 0.50, 0.52 and 0.12, 0.15, 0.15.
 2. **A ten-strategy taxonomy captures the process.** Tags cover interpretation (INTER), correct-answer reference (CORR), conceptual link (LINK), error description (ERR_DESC), error [[simulation]] (ERR_SIM), outcome instantiation (INST), plausibility (PLAUS), discriminability (DISCR), curation (CURATE) and reconsideration (RECON); annotation reached precision 0.97 and recall 0.95 on a 64-trace human-checked subset.
-3. **The domains use different construction strategies.** On Eedi, LINK appears in 1.1% of CoT and 1.7% of reasoning traces while ERR_DESC reaches 96.7%; on SciQ, LINK reaches 94.8% of CoT and 99.0% of reasoning traces and ERR_SIM is 0.0%.
+3. **The domains use different construction strategies.** LINK is prevalent on SciQ but nearly absent on Eedi, whereas ERR_DESC and ERR_SIM dominate on Eedi and appear only sporadically on SciQ; DISCR and RECON differ less sharply but consistently between the two datasets.
 4. **Models solve first, then inject an error.** 95.2% of traces construct a step-by-step solution, and 73.8% of those diverge at a specific step to insert a misconception.
 5. **Error simulation rarely fails.** Simulating a specific Eedi misconception, DeepSeek-V3.2 reaches mean accuracy 0.92 plus or minus 0.02, though only 62% of faithful distractors appear in the human-authored ground-truth set.
 6. **Correct-solution recovery is a primary bottleneck.** Giving the correct answer in the prompt raises proportional match by 6.4% relative on Eedi (0.52 to 0.56) and 30.7% on SciQ (0.14 to 0.18), both significant under a paired t-test at p<0.01.
@@ -56,11 +56,9 @@ Failures localize cleanly. Error simulation and the implicit reasoning structure
 - Reasoning traces describe what a model externalized, not what it internally computed, so the observed strategies should not be read as mechanistic claims.
 - Only two open-weight reasoning models (DeepSeek-V3.2, GLM-4.7) were annotated in depth; non-reasoning and closed-source models may show different strategy distributions.
 - The datasets are small and domain-bound: 429 Eedi math problems with annotated misconceptions and 500 sampled SciQ science questions.
-- Proportional match is measured against a finite set of human-authored distractors and ignores other plausible options; this is more acute on SciQ, where distractors were not curated around specific misconceptions.
-- The SciQ solution-anchoring gain (30.7% relative) rests on a small absolute change (0.14 to 0.18) relative to the confidence intervals.
+- Proportional match is measured against a finite set of human-authored distractors and ignores other plausible options, which is more acute on SciQ where distractors were not curated around specific misconceptions; the SciQ solution-anchoring gain (30.7% relative) rests on a small absolute change (0.14 to 0.18) relative to the confidence intervals.
 
 ## Connected Concepts
-
 - [[automated-question-generation]] — distractor generation is the task under study
 - [[student-modeling]] — the paper tests whether models can represent incorrect reasoning
 - [[misconceptions]] — misconception-based distractors are the preferred design
