@@ -127,8 +127,8 @@ def ungrounded(slug):
             continue
         if re.search(r'(?<![\d.])\.' + re.escape(value) + r'(?![\d])', raw_n):
             continue   # leading-dot form, e.g. the body prints "001" where the source writes ".001"
-        if value.startswith('0') and re.search(r'(?<![\d.])(?:0)?\.' + re.escape(value) + r'(?!\d)', raw_n):
-            continue   # the body drops the leading zero (".054") that the source prints as "0.054"
+        if re.search(r'(?<![\d.])(?:0)?\.' + re.escape(value) + r'(?!\d)', raw_n):
+            continue   # the page drops the leading zero (".054", ".944") that the source prints as "0.054"
         if len(value) >= 4 and value in squeezed:   # survives PDF line-wrap artefacts
             continue
         if any(form in raw_l for form in spelled_forms(value)):
