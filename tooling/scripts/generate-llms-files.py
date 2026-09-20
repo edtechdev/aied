@@ -182,6 +182,40 @@ def build_llms_full(articles, concepts, faqs):
         lines.append("")
     return "\n".join(lines) + "\n"
 
+def build_llms_concepts(concepts):
+    """Concept pages only, in full.
+
+    `llms-full.txt` carries every article, concept and FAQ and has grown past 15 MB,
+    which several chat products refuse to accept as an attachment or paste. The
+    concept pages are the part worth handing a general assistant: they are the
+    knowledge base's synthesis rather than one paper's findings, they carry the
+    wikilinks that let an assistant follow a thread, and they are roughly a quarter
+    of the full text. Articles stay out on purpose — a reader who wants a specific
+    study can point the assistant at that page's URL.
+    """
+    lines = []
+    lines.append("# AI in Education Knowledge Base — Concepts")
+    lines.append(f"> Full text of {len(concepts)} concept pages from the AI in Education Knowledge Base: "
+                 "the syntheses of what the research shows, rather than individual studies. "
+                 "Small enough to attach to a chat that will not take the complete file.")
+    lines.append("")
+    lines.append("Each page below is linked at its address on the site, so an assistant that can browse "
+                 "may prefer to follow the link; the text is included so an assistant that cannot browse "
+                 "can still answer from it. The individual research papers behind these syntheses are "
+                 "linked from each page and are not reproduced here.")
+    lines.append("")
+    lines.append("# Concepts")
+    lines.append("")
+    for c in concepts:
+        lines.append(f"## [{c['title']}]({c['url']})")
+        lines.append("")
+        lines.append(c['body'])
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+    return "\n".join(lines) + "\n"
+
+
 def main():
     articles, concepts, faqs = collect()
     os.makedirs(OUT, exist_ok=True)
@@ -190,10 +224,18 @@ def main():
         fh.write(build_llms_txt(articles, concepts, faqs))
     with open(os.path.join(OUT, 'llms-full.txt'), 'w', encoding='utf-8') as fh:
         fh.write(build_llms_full(articles, concepts, faqs))
+    with open(os.path.join(OUT, 'llms-concepts.txt'), 'w', encoding='utf-8') as fh:
+        fh.write(build_llms_concepts(concepts))
 
     print(f"Articles: {len(articles)}, Concepts: {len(concepts)}, FAQs: {len(faqs)}")
     print(f"llms.txt: {os.path.getsize(os.path.join(OUT, 'llms.txt'))} bytes")
     print(f"llms-full.txt: {os.path.getsize(os.path.join(OUT, 'llms-full.txt'))} bytes")
+    concepts_bytes = os.path.getsize(os.path.join(OUT, 'llms-concepts.txt'))
+    print(f"llms-concepts.txt: {concepts_bytes} bytes ({concepts_bytes / 1024 / 1024:.1f} MB)")
+    # This file exists to stay under chat attachment limits; say so if it stops doing that.
+    if concepts_bytes > 9_500_000:
+        print(f"WARNING: llms-concepts.txt is {concepts_bytes / 1024 / 1024:.1f} MB, over the 10 MB "
+              "attachment limit it exists to stay under — trim the concept bodies or split the file.")
 
 if __name__ == '__main__':
     main()
