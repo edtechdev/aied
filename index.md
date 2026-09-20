@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 
-Articles: 1317 | Concepts: 208 | FAQs: 32
+Articles: 1318 | Concepts: 208 | FAQs: 32
 
 ## Concepts
 
@@ -718,6 +718,7 @@ Articles: 1317 | Concepts: 208 | FAQs: 32
 - [[harmogen-ai-assessment-rubric-generation]] — A Hybrid Reasoning Framework for Artificial Intelligence Assessment Rubric Generation in Human and Automated Contexts: Evidence from an Undergraduate Programming Course
 - [[harnessing-ai-preservice-teachers-scoping-2026]] — Harnessing artificial intelligence for preservice teachers' development: A scoping review of applications, benefits, and challenges
 - [[hashmi-socratic-physics-chatbot-2025]] — Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot
+- [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
 - [[hawkins-feedback-literacy-ai-essay-writing]] — Summarise, elaborate, try again: exploring the effect of feedback literacy on AI-enhanced essay writing
 - [[hazel-prover-classroom-proof-assistant-2026]] — Hazel Prover: A Classroom Proof Assistant for Learning Structural Induction
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety and Pedagogical Harms

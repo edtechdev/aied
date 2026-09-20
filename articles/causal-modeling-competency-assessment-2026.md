@@ -1,35 +1,58 @@
 ---
 title: "Causal Modelling of Support Interventions for Student Competency Assessment"
 created: "2026-08-27T09:14:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-20T06:30:22-04:00"
 type: article
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, item-response-theory]
 research_method: [educational measurement]
-sources: ['raw/papers/causal-modeling-competency-assessment-2026.md']
+sources: ['raw/papers/2608.24632.md']
 confidence: high
 discipline: [cs education]
 audience: [assessment designers, researchers]
 level: [k 12]
 ---
 
-> **Synthesis:** Mangili, Antonucci, and Cabañas (2026) advocate adopting a structural causal modeling approach to [[educational-measurement|educational assessment]], moving beyond probabilistic belief updating toward a framework that explicitly supports interventional and counterfactual reasoning. They propose a protocol for constructing such a model and analyze the practical relevance of forms of reasoning inaccessible to standard associative models — including explicit modeling of interventions such as hints and related counterfactual scenario analysis. Although the protocol requires structural equations to be elicited from experts, the necessary information is purely logical and does not rely on probabilistic, less-tenable assumptions. They illustrate the approach using data from an assessment employing complex tasks designed to measure compulsory-school student algorithmic skills.
+Mangili, Antonucci, and Cabañas de Paz (2026) argue that [[educational-measurement|educational assessment]] should be rebuilt on structural causal models (SCMs) rather than the probabilistic belief updating that dominates psychometrics. Their protocol keeps the bipartite shape of a [[student-modeling|learner model]] but replaces noisy gates with structural equations (SEs) elicited from domain experts, so hints and other support conditions become explicit endogenous variables rather than incidental covariates.
+
+The gain is expressiveness: the model can ask what a student would have answered without the hint they used, or whether more help would have enabled a stronger algorithm. The paper is a methodological exploration, not a validated instrument — the authors state that they "do not claim evidence regarding the framework's impact on decision-making processes, or the correctness of the counterfactual estimates it produces."
+
+> **Synthesis:** Mangili, Antonucci, and Cabañas de Paz (2026) advocate moving learner modeling from Bayesian networks to structural causal models, contributing a protocol that elicits structural equations from experts and causal queries for assessment: marginal skill distributions, ordinal generalizations of Pearl's necessity and sufficiency, and individualized counterfactuals about help. Expert input is purely logical and the graph is acyclic by construction, so inference stays tractable. On a CAT battery taken by 109 students the elicited model is slightly less predictive than a Bayesian network learned from data (-287±18.5 versus -277±19.1 test log-likelihood) while supporting counterfactuals and calibration diagnoses the associative baseline cannot produce.
 
 ## Key Findings
 
-1. The paper advocates a structural causal modeling framework for [[student-modeling|student competency assessment]], moving beyond standard probabilistic (associative) belief updating.
-2. The framework explicitly supports interventional reasoning (e.g., modeling the effect of hints) and counterfactual scenario analysis, which standard item-response-theory-style models cannot express.
-3. A concrete protocol is proposed for constructing the causal model, with structural equations elicited from domain experts using purely logical information.
-4. Applied to compulsory-school algorithmic-skills assessment, the approach demonstrates identifiable and practically relevant interventional/counterfactual queries alongside group-level inferences.
-5. An expert-elicited causal model is more interpretable and supports explicit causal reasoning even where a purely data-driven approach might have comparable predictive accuracy.
+1. Structural causal models should replace [[item-response-theory|item response theory]] and Bayesian-network learner models, which cannot express interventions or counterfactuals.
+2. Structural equations are elicited from domain experts using purely logical information, not probabilistic assumptions.
+3. A causal EM back-propagation yields n compatible causal models; non-identifiable queries are reported as intervals, not point estimates.
+4. Queries include ordinal generalizations of Pearl's necessity and sufficiency for hints and skills, plus individualized counterfactuals.
+5. The use case covers 12 CAT questions (`fail`, `0D`, `1D`, `2D`), hints (`none`, `scheme`, `feedback`), skills `Salg` and `Saut`, propensity `R`, and data from 109 students.
+6. Predictive performance is lower but close: -287±18.5 versus -277±19.1 log-likelihood; accuracy 0.77±0.02 answers and 0.82±0.04 hints against 0.84±0.02 and 0.84±0.04.
+7. Luck marginals flag miscalibration: very good luck never exceeds 15% for the first six questions but can be above 30% for Q7–Q9, while bad luck reaches 0.76 for Q12.
 
-## The Causal Assessment Framework
+## From Bayesian Networks to Structural Causal Models
 
-Traditional empirical assessment is grounded in psychometric models such as [[item-response-theory]], which relate student competence levels to performance on assessment tasks but support only associative reasoning. The authors propose replacing the probabilistic updating framework with structural causal models that encode the generative process behind student responses, enabling questions of the form "what would happen if a student received a hint?" (intervention) or "would this student have succeeded had they not received support?" (counterfactual). This is directly relevant to [[formative-assessment]] and [[adaptive-learning]], where support interventions such as hints are central, and to [[learning-analytics]] pipelines that seek to evaluate the causal effect of instructional actions rather than mere correlation.
+Existing graphical approaches already encode causal intuitions — Bayesian knowledge tracing and influence-diagram tutoring systems model interventions or pedagogical decisions — but they stop short of the full SCM apparatus of interventions, counterfactuals, and identifiability. The authors treat this as an accuracy-neutral but capability-limiting gap: predictions need not suffer, yet inherently causal questions remain unanswerable. The transition looks natural to them because learner graphs are typically bipartite, with arcs from skills to questions mirroring the exogenous/endogenous split, and the noisy gates linking skills to answers are already a noisy version of the structural equations an SCM requires. Latent variables such as competence, autonomy, and luck then gain operative meaning fixed by the equations, so their marginals become interpretable group-level statements rather than free parameters.
 
-## Implications for AI in Education
+## The Elicitation Protocol
 
-By making interventions and counterfactuals explicit, causal assessment models align with the needs of [[intelligent-tutoring|intelligent tutoring]] and adaptive systems that must decide whether and how to intervene. The approach complements correlational [[learning-analytics]] by distinguishing the effect of a support action from the prior competence it targets, supporting more principled [[assessment]] design and interpretation. It also connects to the broader movement toward causal and interpretable methods in [[ai-education|AI in education]], where explainability of student models matters for [[teacher-role|educator]] trust and for fair, valid decisions.
+Four variable families are named. Skills are exogenous and latent, one node per competence, possibly shared across questions and thus acting as a confounder. Luck nodes capture question difficulty, slips, and guessing — explicitly analogous to noise terms in the SCM literature and to guessing/slip parameters in classical psychometrics. Hints are endogenous and observable, one per question, generated by a global help-seeking propensity `R` plus a question-specific deviation `WQ`. Experts supply only the structural relations: which skills each question needs and how latent states translate into expected answers and help-seeking patterns, with the competence rubric defining state spaces. The resulting graph is acyclic by construction, so the model is semi-Markovian and inference stays tractable, and allowing very unlikely outcomes mostly results in the learning procedure assigning them low probabilities when the data do not support them.
+
+## Causal Queries and What the Use Case Shows
+
+Two inference families are distinguished: group queries, which describe population proficiency, judge question quality, and estimate how help shapes performance, and individualized queries, which condition on one student's full answer and hint record. The authors stress why observational queries such as P(Q|H) will not do, since proficient students may under-use help while struggling students over-use it, confounding the effect of support with the competence driving help-seeking. In the CAT use case the propensity estimate is sharp (P(R = feedback) = 0.02, P(R = none) = 0.37) while skill marginals are mostly unconstrained, with only P(Salg = 0D) ∈ [0.02, 0.08] tight. Query sharpness varies, from a near-vacuous necessity interval (0.11 to 0.95 for Salg = 1D at Q6 = 1D) to a sufficiency lower bound of 0.94 for feedback at Q6 = 0D. A student who solved every task with 2D algorithms still yields P(Salg = 2D) ∈ [0.60, 1].
+
+## What this means for practice
+
+- **Instructors.** Hint usage is not a neutral covariate: students may perform better without help simply because stronger students do not ask for it, so help-seeking has to be read alongside the answer.
+- **Assessment designers.** Luck marginals act as a calibration report on a task battery — here flagging Q7–Q9 as likely under-calibrated and Q12 as unusually hard — while necessity and sufficiency bounds identify which tasks discriminate a skill level.
+- **Researchers.** The protocol converts an existing competence model into a causal one, but it is positioned as complementary to knowledge tracing: this framework models single-shot assessment, not temporal dynamics across repeated attempts.
+
+## Limitations
+
+- The learner model is illustrative, not validated: structure and parameterization were tested only on a small dataset (109 students, one CAT battery of 12 unplugged tasks for pupils aged 3 to 16 years) and only for predictive accuracy.
+- Evaluation is one comparison against one baseline over five-fold cross-validation — a Bayesian network learned from data — where the FSCM is inferior (-287±18.5 versus -277±19.1), so competitive accuracy has not been shown.
+- No external benchmark exists: empirically validated competence models paired with large interventional datasets are absent, as are comparable causal learner modeling frameworks for the same problem.
+- No causal claim is established — the authors do not claim evidence about decision-making impact or the correctness of the counterfactual estimates — and some queries return near-vacuous intervals (0.11 to 0.95).
 
 ## Connected Concepts
 

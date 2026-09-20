@@ -1,7 +1,7 @@
 ---
 title: Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
 created: "2026-07-29T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T06:30:22-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning, student-engagement]
 technology: [generative-ai, llm]
@@ -37,10 +37,20 @@ confidence: high
 - All groups (including baseline) significantly increased cognitive and metacognitive strategy use from pre to 12-week follow-up (p < .05) — the structured [[prompt-engineering|prompting]] concept itself supported [[self-regulated-learning|SRL]], unlike earlier structured-journal studies.
 - 32 of 97 users reported the auto-generated summaries helped them reflect on prior entries (an unprompted purpose).
 
-## Implications
+## What this means for practice
 
-- For reflective-learning-tool design: pair one-off course-style scaffolding with **recurring/[[adaptive-learning|adaptive]] support** (follow-up prompts, phase-specific guidance, timely interventions) to sustain engagement; the LLM assistant is the more promising candidate for durable engagement dynamics, but needs to be used (only 55.9% used it post-onboarding — a self-selection caveat).
-- Engagement measured as text length only; cognitive engagement/reflection quality untested. Implementation is a single instantiation; seasonal/semester effects possible; long-term effects beyond 3 weeks unverified.
+- **Learners.** Keep the [[scaffolding|journaling assistant]] switched on and write with it every session: assistant use predicted longer entries over time (B = 6.20 per assistant day, p < .001), whereas the course effect was constant and unrelated to days completed.
+- **Learners.** Treat the seven-day course as a starting routine rather than the whole program: course users were far more likely to write early (OR = 3.45, p < .001) but significantly fewer reached 10+ journal days (OR = 0.38, p < .001), most journaling one more day after finishing it.
+- **Instructors.** Assign a short structured [[self-regulated-learning]] course alongside the journal instead of leaving reflection unstructured: the course produced small significant gains in enjoyment (η² = 0.03) and perceived competence (η² = 0.04) and, unlike earlier structured-journal studies, cognitive and metacognitive strategy use rose in all groups by the 12-week follow-up.
+- **Designers.** Pair one-off course-style scaffolding with recurring, adaptive support — follow-up prompts, phase-specific guidance, timely interventions — because the static course stimulated early activity but did not sustain it, while the assistant's effect grew with use.
+- **Designers.** Do not deploy the assistant as a motivation fix: it had no significant effect on enjoyment (p = .67) or competence (p = .95) and only 55.91% of participants used it after onboarding.
+
+## Limitations
+
+- Behavioral engagement is operationalized as characters written per journal prompt — 5,181 messages after trimming the top 1% of message lengths and single-word responses — which does not capture cognitive engagement, reflective depth, or the quality of the produced entries.
+- Of 200 participants who installed the app, 179 completed the post-survey and 120 the follow-up, and the assistant was used by only 55.91% of participants after onboarding, a self-selection caveat for its effects.
+- The usage period is three weeks, so long-term effects remain unverified, and surveys were administered at different points in the semester, leaving room for seasonal and semester confounds.
+- The implementation is one instantiation of the design principles, so observed effects may stem from implementation issues rather than from the general concept of the intervention.
 
 ## Connected Concepts
 

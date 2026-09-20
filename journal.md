@@ -1,5 +1,9 @@
 # Journal
 
+## 2026-09-20
+- 📄 [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
+
+
 ## 2026-09-19
 - 📘 [[differential-effects-across-learner-groups]] — Differential Effects Across Learner Groups
 - 📘 [[interpreting-and-applying-aied-research]] — Interpreting and Applying AIEd Research
@@ -14,7 +18,7 @@
 - 📄 [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritise Learning over Performance
 
-Last updated: 2026-09-19 | Total entries: 1525
+Last updated: 2026-09-20 | Total entries: 1526
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)

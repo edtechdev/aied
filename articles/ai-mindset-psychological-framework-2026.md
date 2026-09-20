@@ -1,7 +1,7 @@
 ---
 title: "AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-20T06:30:22-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, theory-development-aied]
 pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy]
@@ -12,7 +12,7 @@ research_method: [survey, structural equation modeling, quantitative]
 level: [higher ed, adult learning]
 audience: [researchers, educators, learning designers]
 page_kind: [framework]
-sources: ['raw/papers/ai-mindset-psychological-framework-2026.md']
+sources: ['raw/papers/ai-mindset-psychological-framework-2026.md', 'raw/papers/ai-mindset-chbah-2026-100402.md']
 confidence: high
 ---
 
@@ -89,4 +89,4 @@ The results sit uneasily beside a literature that routinely finds self-efficacy 
 
 ## Citation
 
-Feng, S., Koch, M. J., & Carolus, A. (2026). [*AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use*](https://osf.io/preprints/psyarxiv/nkdyp_v1). *PsyArXiv Preprints*.
+Feng, S., Koch, M. J., & Carolus, A. (2026). [*AI Mindset – An Empirically Tested Theoretical Framework on the Psychological Factors Shaping AI Competence and AI Use*](https://doi.org/10.1016/j.chbah.2026.100402). *Computers in Human Behavior: Artificial Humans*.
