@@ -21,6 +21,21 @@ page_kind: [evaluation]
 
 The paper proposes a turn-level codebook combining SRL and [[metacognition|help-seeking constructs]] with [[llm]]-specific codes (agency over AI, epistemic vigilance). Results support the need for [[scaffolding|scaffolds]] that promote more agentic and epistemically proactive GenAI use, and hybrid human-AI analysis of interaction patterns. Contributes directly to the [[cognitive-offloading|over-reliance and cognitive offloading]] literature.
 
+## What this means for practice
+
+- **Instructors.** Require a student attempt before the AI responds. Across 808 student turns, requests for verification of understanding accounted for only 16.3% of requests even though 69.7% of students said they wanted the AI to check their understanding — the gap is an instructional design problem, not a motivation problem.
+- **Instructors.** Teach a short, explicit routine for [[self-regulated-learning]] that names monitoring and evaluation as required moves: MONITOR accounted for 5.7% and EVALUATE 3.4% of task-relevant turns, so students will not add these steps on their own.
+- **Designers.** Build monitoring and evaluation prompts into the tutoring interface as mandatory turns (for example, restate your goal, judge whether the last answer met it), since students selected 4.66 of 8 learning goals on average but rarely made their comprehension needs visible.
+- **Instructors.** Frame the task so that solution-seeking is a deliberate, discussed choice rather than a default: the only intention that reliably predicted its enacted behavior was "just give me the final solutions" (selected by 11.8%), and those students showed higher executive request rates (46.4% vs. 19.2%).
+- **Researchers.** Adopt the paper's hybrid human-AI coding workflow for interaction logs, but treat the AI pass as a first cut and plan a human validation layer, which in this study covered a stratified 30% of conversations.
+
+## Limitations
+
+- The study is explicitly work in progress: behavioral findings rely on AI coding alone (Gemini 2.5 Pro, frozen prompt), while the stratified 30% human-validation pass by mathematics-didactics and learning-sciences experts was still ongoing, so per-construct reliability is not reported.
+- Evidence comes from a single session with 98 Grade-9 students in three German Gymnasium schools (1,616 chat turns, 808 student turns), and the authors state that the single-session design limits conclusions about how AI-use strategies develop over time.
+- There is no control condition, so the pre-to-post decline (67.5% to 56.9%, p = .014) cannot be separated from ordinary test difficulty, exam proximity, or repeated-measure effects.
+- Eight of 106 recruited students were excluded for incomplete tasks or questionnaires, and the mathematics-modeling task required at least six valid task-related turns, so the analyzed behavior reflects a compliant subsample of a class-based sample.
+
 ## Connected Concepts
 
 - [[self-regulated-learning]]

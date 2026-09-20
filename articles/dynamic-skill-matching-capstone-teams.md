@@ -19,6 +19,20 @@ Team-based projects are a cornerstone of engineering and computing courses, but 
 
 - LLM-driven team formation outperforms CATME Team-Maker for skill coverage and preference alignment in capstone courses.
 
+## What this means for practice
+
+- **Instructors.** Run the three-stage pipeline (survey, LLM skill extraction, dynamic assignment) instead of forming [[collaborative-learning|capstone teams]] by hand: it fulfilled 98.4% (Fall 2023) and 91.9% (Spring 2024) of project skills against 90.4% and 89.6% for manual assignment, which took over 20 hours of instructor effort.
+- **Instructors.** Accept the small preference trade-off that automation brings, and say so to students: average preference toward the assigned project was 87.2 and 86.3 with the algorithm versus 88.7 and 87.6 for manual assignment, while random assignment managed only 58.2 and 64.0.
+- **Instructors.** Collect skill self-ratings and ranked project preferences as first-class inputs, then set expectations about project scope early: students who prioritized an "interesting topic" sometimes reported lower satisfaction when reality did not match.
+- **Designers.** Review the LLM-extracted project skills before assignment runs: the authors note that LLM-generated project skills still require manual verification.
+
+## Limitations
+
+- Evaluation covers two semesters of one program — the UC Merced computer science capstone — with Fall 2023 at 16 projects and 68 students and Spring 2024 at 22 unique projects, some of them shared by two teams.
+- The satisfaction evidence is a brief survey of only 22 previous capstone students, self-reported on seven Likert and multi-select items.
+- The algorithm depends on self-reported skills and preferences, leaving it vulnerable to misrepresentation, and the preference weight α requires manual tuning.
+- All skills are treated equally, with fulfillment resting on a single student's intermediate-level rating, so projects with many required skills can be favored over those with rare but critical skills.
+
 ## Connected Concepts
 
 - [[collaborative-learning]]

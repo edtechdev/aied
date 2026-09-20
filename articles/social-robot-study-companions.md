@@ -27,9 +27,20 @@ confidence: high
 
 Open-source social robots offer [[accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing hands-on learning, or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
 
-## Relevance to AI in Education
+## What this means for practice
 
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It shows that co-created open social robots with DfA/DfD design achieve excellent usability, and — more importantly — that perceived workload predicts student uptake of open hardware better than build time. For [[stem-education]] and [[human-ai-collaboration]] programs, the results suggest that accessibility interventions should target the subjective burden of assembly, not merely clock time, and that co-creation with students across diverse contexts (Guyana and Estonia) can surface pain points that designer-only processes miss. The work also connects to [[open-source]] and [[design-thinking]] values in education: repairability and tool-free service make the robot a site of continued learning rather than a disposable appliance, supporting the case for buildable platforms over pre-assembled ones in formal and informal settings.
+- **Instructors.** Select a buildable platform on perceived workload rather than clock time: first-time builders took 39.1 minutes (SD = 7.5) to assemble and still rated the hardware Good (SUS 74.6), so the binding constraint is how heavy the build feels, not how long it takes.
+- **Instructors.** Add an explicit part-identification and wiring step to the session, and label the physical parts: wiring and part identification accounted for the residual Mental Demand reported by end users, and one participant asked for labeled parts to reduce mental load.
+- **Instructors.** Pair video guidance with static step-by-step diagrams: six of seven participants named video the most helpful feature, yet the pause-act-rewind cycle made Orientation and Navigation the lowest-scoring documentation subscale.
+- **Instructors.** Test tool-free service access during onboarding: all seven participants reached the RPi's SD/USB ports, but one needed a prompt to locate the SD card slot and another initially missed the side-panel port latches.
+- **Designers.** Build tactile feedback into snap-fit joints and add hooks or compartments for wiring: first-time builders feared breaking the snap-fit components (a concern absent among the developers) and struggled to fit wires inside the housing.
+
+## Limitations
+
+- Study 1 benchmarked the RSC development team itself: four developers, two of them senior, evaluating a redesign they had worked on, which the authors flag as self-evaluation bias.
+- Study 2 validated only v4.1 with seven students from two partner universities (Guyana n = 4, Tartu n = 3), so user-side gains cannot be quantified as a within-subjects delta.
+- Study 1's task order may have inflated v4 performance through practice transfer, and the deliberately thinned alpha-stage v4.1 documentation means the cross-version documentation clarity scores do not fully reflect documentation quality.
+- Thematic coding lacked inter-rater reliability checks, and the single-session design cannot capture long-term attachment or perceived agency.
 
 ## Connected Concepts
 

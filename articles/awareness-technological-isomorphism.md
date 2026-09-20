@@ -21,6 +21,21 @@ The paper proposes a **three-stage [[pedagogy|pedagogical]] pathway** — Percep
 
 **Key contribution:** Provides a grounded, theory-based framework for helping elementary students see structural parallels between their own reasoning and AI, moving beyond general computational thinking toward metacognitive awareness of structural isomorphism. Empirical validation through a concrete fifth-grade lesson on data trends and prediction.
 
+## What this means for practice
+
+- **Instructors.** Anchor the AI lesson in a [[math-education|mathematics]] task students already command instead of a separate AI curriculum: the case uses trend-based estimation on the compound line graph — "approximately how many minutes it takes for the water temperature to drop to 70°C" — as the bridge on which students recognize AI operations inside skills they already have.
+- **Instructors.** Plan the activation moment around AI prediction failure in Stage 2 ("Comprehending AI," Grades 4–5): have students first run the manual mathematical investigation, then compare it with the algorithm's predictions and reflect on where the model goes wrong, rather than demonstrating a working tool.
+- **Instructors.** Keep the mathematics discipline-centric and treat AI as the scaffold, because activation of isomorphism awareness depends on students' thorough internalization of the underlying mathematical concept before the comparison is made.
+- **Learners.** Plot the points and estimate the unobserved value by hand before seeing any model output, so the parallel between "AI predicts the fifth data point based on the previous four" and their own reasoning is experienced rather than asserted.
+- **Instructors.** Build the three competencies the framework's scaling depends on — disciplinary insight to locate correspondences, pedagogical positioning that preserves subject centrality, and technical self-efficacy with LLMs that offer automated data visualization; programming is not a prerequisite.
+
+## Limitations
+
+- The evidence comes from a single instructional case: one Grade 5 "Compound Line Graphs" lesson from the Jiangsu Education Edition mathematics textbook, analyzed as design-based research rather than a controlled comparison.
+- Only the first two stages of the three-stage pathway were evaluated in fine-grained detail, leaving the final stage (internalization and creative application, "Creating AI") open for further operational development.
+- Cognitive shifts were judged predominantly through qualitative classroom discourse analysis and observational indicators, with no standardized psychometric instruments, so the authors call for validated measures before larger-scale validation.
+- Generalizability across regions and socio-economic school tiers is untested, and the authors flag how variation in students' mathematical baselines may alter progress through the activation and deepening phases.
+
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
 

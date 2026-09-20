@@ -21,6 +21,21 @@ page_kind: [evaluation]
 
 This work directly informs the design of [[formative-assessment|AI writing feedback systems]], highlighting the need to evaluate [[ai-feedback-quality|feedback quality]] beyond surface-level ratings and to consider [[pedagogy|pedagogical]] factors like [[writing-education|feedback anchoring and prioritization]]. Relevant to both [[k-12|secondary]] and [[higher-ed|higher education]] writing instruction.
 
+## What this means for practice
+
+- **Developers.** Treat comment length as a confound before claiming a quality win: LLM feedback received higher expert ratings on six of seven quality dimensions, but the authors attribute much of that advantage to models generating substantially longer comments.
+- **Developers.** Do not assume a model is choosing the right moment to intervene: instructors and models diverge on the specific sentences they flag, and human-machine urgency ranking reached only 38.5% exact agreement even though both distribute feedback similarly across argumentative goals and essay positions.
+- **Developers.** Preserve the dialogic register of expert feedback in generation: models write more complex comments and use fewer questions than trained instructors, a shift that changes how the feedback reads to a student.
+- **Developers.** Evaluate against the schema you actually intend to deploy, and expect it to underrepresent moves outside it: feedback here is tied to predefined argumentative goals and urgency ranks, which makes encouragement and praise hard to express.
+- **Developers.** Use the paired dataset as a benchmark for connecting rated quality to revision outcomes rather than optimizing toward expert quality ratings alone, since the rated-quality signal tracks length as much as usefulness.
+
+## Limitations
+
+- The corpus is 69 twelfth-grade argumentative essays with feedback elicited for the study rather than drawn from authentic instructional settings: feedback givers wrote on assigned essays with no ongoing relationship with the writer and no knowledge of the writer's history.
+- Expert quality ratings cover only a subset of the 2,340 comments — 1,430 ratings produced by two trained writing instructors — so the quality comparison rests on a two-rater panel.
+- Human feedback came from 14 recruited U.S.-based writing instructors under one shared protocol and one schema, on a single genre and grade level.
+- The goal-and-urgency schema privileges feedback organized around predefined argumentative moves and may draw attention disproportionately to the feedback types the schema makes easy to express, so results characterize feedback within that paradigm.
+
 ## Connected Concepts
 
 - [[formative-assessment]]

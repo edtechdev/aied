@@ -30,9 +30,19 @@ page_kind: [evaluation]
 
 The evaluation proceeded in two phases. First, a technical [[benchmark]]: multiple LLM-based chatbots solved the 70 MCQs under different [[prompt-engineering|prompting]] strategies, with results compared against students' own performance to calibrate what "good enough" means. Second, an educational user study: students in two university CS courses were given chatbot answers with explanations, and their performance was measured against conditions without such support. This two-part design separates raw model competence from actual learning impact.
 
-## Implications for AI in Education
+## What this means for practice
 
-The headline implication is that **model accuracy does not translate automatically into student learning**: even when chatbots answer correctly, exposing students to answers plus explanations failed to improve their MCQ performance. For CS education, this cautions against treating chatbot outputs as ready-made study aids; the value of LLM support likely depends on how it is integrated into exercises and feedback. The large gap between frontier and smaller models also matters for tool selection in [[higher-ed]] and [[cs-education]] contexts, as does the finding that MCQ-style support may need to be redesigned to produce measurable gains.
+- **Learners.** Attempt the questions unaided before opening a chatbot's answer key: presenting ChatGPT answers together with an explanation did not improve performance in general, and in the computer vision course the results for students with higher prior knowledge indicate that the output may negatively affect performance.
+- **Learners.** Compare a model's per-option labels against your own reasoning instead of deferring to them — the study found only limited agreement between models and students about which questions were easiest and hardest.
+- **Software developers.** Do not treat frontier-model accuracy as evidence that a study tool works: GPT-4o and GPT-5 clearly outperformed smaller models on the 70 MCQs, yet exposing their answers and explanations to students produced no significant effect at α = 0.05.
+- **Software developers.** Integrate model output into the exercise and its feedback rather than shipping it as a ready-made answer key, and keep visible that GPT-based models still make errors — the authors conclude that models require fine-tuning to course-specific material for educational use.
+
+## Limitations
+
+- Participants were recruited from two Master-level lectures at a single German university, and only approximately 30% of the students in those courses consented to take part.
+- Group sizes were small — 15, 10, and 11 participants in the IVDA setting and 16, 9, and 9 in the CV setting — and the authors cite the limited sample size and the small group of participants as grounds for larger studies.
+- No fixed effect was significant at α = 0.05; the closest result, the IVDA group × attempt interaction, only approached significance at p = 0.058, so the effect of chatbot output is a tendency rather than a conclusive finding.
+- Perceptions came from a self-report questionnaire — most questions used five-point Likert scales ranging from 1 (strongly disagree) to 5 (strongly agree) — and the benchmark itself is 70 MCQs written for one interactive visual data analysis lecture plus additional computer vision items.
 
 ## Connected Concepts
 

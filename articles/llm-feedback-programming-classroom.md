@@ -21,6 +21,21 @@ page_kind: [evaluation]
 
 This study provides one of the largest empirical validations of [[llm]]-based [[feedback|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[stem-education|CS education]].
 
+## What this means for practice
+
+- **Instructors.** Default to natural language hints over failing test cases for routine lab feedback: natural language feedback is significantly associated with higher completion rates and faster convergence to correct solutions, while test case feedback shows no reliable aggregate advantage in either.
+- **Instructors.** Check test case validity before delivery, or accept that roughly a third of it will mislead: only 66% of generated test cases were valid, and the effect of test case feedback depended critically on that validity.
+- **Instructors.** Do not count on test case feedback to reduce iteration: even valid test cases did not reduce subsequent submission counts in this course.
+- **Researchers.** Evaluate feedback quality rather than its mere presence — 92.5% of natural language instances were labeled helpful (409/442, with 5.4% vague) against 66% test case validity.
+- **Researchers.** Exploit the pre-lab/post-lab structure of a course to build within-course comparisons across instructional units instead of relying on a single end-of-term outcome.
+
+## Limitations
+
+- Feedback was conditionally triggered on incorrect submissions, so although conditions were randomized within labs, the authors state that all analyses are associative rather than causal.
+- The study includes no expert-authored human feedback baseline, so AI-generated modalities could not be compared against high-quality instructor feedback.
+- The outcome measures — test case pass rates, time to correctness, and iteration patterns — capture short-term dynamics rather than longer-term retention, conceptual understanding, or transfer to new problems.
+- Evidence comes from a single introductory Python course at one U.S. R1 institution in the Fall 2025 semester, where 215 of the 365 enrolled students consented and non-consenting students' data were excluded from all analyses.
+
 ## Connected Concepts
 
 - [[ai-feedback-quality]]
