@@ -71,6 +71,21 @@ Analytics for [[collaborative-learning]] environments that surface group dynamic
 
 The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026]], [[hazra-safetutors-pedagogical-safety-2026]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
 
+## What this means for practice
+
+- **Instructors.** Ask who the explanation is for before asking whether it exists: XAI-ED treats learners, teachers, administrators, parents, researchers, developers and policymakers as stakeholder groups whose explainability requirements differ, so a learner's "why this hint" is not a teacher's "who is at risk."
+- **Instructors.** Use explanations as teaching moves rather than as transparency features: the framework lists learning among the benefits of XAI and positions explanations as support for [[metacognition]] and [[self-regulated-learning]].
+- **Instructors.** Pair each explanation with a guardrail against its failure modes — explanation overload, misleading post-hoc rationales, confirmation bias, and [[trust-calibration|over-trust]] — because the framework names these as risks specific to providing explanations in education.
+- **Instructors.** Match the presentation approach to the model class and the audience instead of defaulting to one format: white-box models can be surfaced directly, while black-box models need post-hoc methods such as counterfactuals, feature importance rankings, or rule extraction.
+- **Instructors.** Plan the compliance pathway before deployment: the GDPR right to explanation and similar mandates are among the framework's listed benefits of explainability in [[intelligent-tutoring|tutoring]] and learning analytics systems.
+
+## Limitations
+
+- This is a conceptual paper, not an empirical study: it proposes six aspects of explainability and illustrates them with four case studies (OnTask, OATutor, SRES, and Connected Learning Analytics) but reports no measurement of whether any explanation improved learning, trust, or decision quality.
+- The framework is a synthesis of existing XAI literature and educational tool practice, so its six aspects function as organizing categories rather than validated causal claims.
+- The four case studies are drawn from pre-existing educational AI systems and show fit to the framework, not the framework's effectiveness; the paper reports no comparative data across them.
+- The pitfalls it names — explanation overload, misleading explanations, confirmation bias, over-trust, and gaming the system — are each described conceptually with no reported incidence or threshold at which they appear, and the mapping of explanation approaches to white-box, black-box, and glass-box model classes is argued rather than tested.
+
 ## Connected Concepts
 
 - [[teacher-role]]

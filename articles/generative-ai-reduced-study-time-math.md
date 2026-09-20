@@ -49,16 +49,20 @@ The divergence in study time **vanishes entirely under proctoring** for college 
 
 The authors introduce **cognitive surrender** to describe students offloading thinking to generative AI, producing a measurable population-level decline in durable knowledge. This represents a fundamental shift from [[cognitive-offloading]] as a deliberate, often [[metacognition|metacognitively]]-managed strategy to a passive, unreflective dependency — echoing the knowledge base's distinction between adaptive and maladaptive offloading and the mechanisms documented under [[reducing-ai-misuse]] and [[ai-misuse-learning-harm]].
 
-## Implications for AI in education
+## What this means for practice
 
-This study provides the strongest empirical evidence yet for the over-reliance phenomenon documented across the knowledge base, at population scale with objective behavioral measures rather than self-report. Direct implications include:
+- **Learners.** Notice the pattern this study names cognitive surrender and protect unassisted practice time: non-proctored performance rose while proctored retention items fell 25% in cumulative odds of a correct response.
+- **Instructors.** Ground high-stakes [[academic-integrity]] judgment in proctored, unassisted measures, because the post-ChatGPT time decline vanishes entirely under proctoring and the same estimator on non-proctored assessment yields a large opposite-signed increase that is impossible to attribute to anything other than AI assistance.
+- **Instructors.** Redesign [[assessment]] toward unassisted and process-based work, and build [[ai-literacy]] and [[self-regulated-learning]] training so students can recognize and resist passive dependency rather than only use the tools.
+- **Instructors.** Do not treat self-report or non-proctored performance as evidence of [[learning-gains|learning]]: only proctored items exposed the 25% retention decline, so outcome measures must control for AI [[accessibility]].
+- **Administrators.** Target [[regulation]] and [[educational-policy-ai|AI policy]] by level and platform, since the population-scale, objective behavioral evidence shows cumulative declines of 31.3% in high school and 9.0% in middle school against no detectable change in Grade 5, and [[math-education|math]] mastery platforms like ALEKS are directly affected because text-based problems are the most AI-susceptible.
 
-- **[[academic-integrity]] policy and assessment [[governance]]:** proctored, unassisted measures are essential because non-proctored performance is inflated by AI; the 25% proctored retention decline is the cost of unmonitored AI use.
-- **[[ai-literacy]] and [[self-regulated-learning]] [[curriculum-design|curriculum design]]:** students need training to recognize and resist cognitive surrender, not just to use tools.
-- **[[assessment]] redesign:** the proctoring result validates unassisted and process-based assessment as ways to reveal and protect durable learning.
-- **[[learning-gains]] measurement methodology:** outcome measures must control for AI [[accessibility]]; self-report and non-proctored performance systematically understate the harm.
-- **Educational [[regulation]] and [[educational-policy-ai|AI policy]]:** the age gradient and proctoring findings inform how policy should target different [[k-12]] and [[higher-ed]] levels.
-- **[[math-education]] specifically:** mastery platforms like ALEKS are directly affected, since text-based problems are the most AI-susceptible.
+## Limitations
+
+- The learning-time analysis uses ALEKS learning data while the retention analysis uses the ALEKS PPL placement dataset — different populations under different conditions — so the individual-level causal chain cannot be established with the current data.
+- AI use is never observed directly; all inferences come from behavioral signatures, validated by two falsification tests, and alternative behavioral explanations cannot be fully excluded.
+- ALEKS PPL placement performance reflects prior learning, test-taking familiarity, and platform experience rather than purely retention of concepts practiced during ALEKS learning, so a gap remains between it and a laboratory-grade retention test.
+- The retention analysis observes the mechanism only at the population level, even though the evidence is consistent with it.
 
 ## Connected Concepts
 

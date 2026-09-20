@@ -28,9 +28,20 @@ confidence: high
 
 A total of 162 university students (M_age = 20.1) participated in a GenAI-assisted abstract writing task. Prior to the task, students completed a validated GenAI Literacy Test assessing technical understanding, interaction skills, and related constructs. Using Epistemic Network Analysis, the [[research-methods-aied|researchers]] modeled and compared the questioning strategies of students with varying GenAI literacy levels, examining how literacy manifests in the structure of actual human-AI collaboration. The study was presented at the First International Workshop on Advancing AI Literacy with Learning Analytics (AI-LIT) at LAK26.
 
-## Implications for AI in Education
+## What this means for practice
 
-The study demonstrates that process data can characterize GenAI literacy in ways that self-reported questionnaires cannot: whether a student actually prompts iteratively, refines outputs, and manages [[hallucination-risk|hallucinations]] in real time is observable in interaction logs. For [[learning-analytics]] practice, this suggests building dashboards and automated assessments around behavioral markers of literate use — for example, detecting the shift from direct generation commands toward iterative refinement. The authors propose data-driven interventions that help learners move from transactional use to epistemic collaboration, such as prompting students to draft their own summary first and asking the AI for critique to improve learning depth. For [[writing-education]] and [[ai-literacy]] instruction, the findings argue for curricula that treat literacy as a developmental, behaviorally observable capacity shaped by structured [[scaffolding]] and strategic prompting, rather than a fixed trait measured once.
+- **Instructors.** Assess [[ai-literacy]] from interaction process, not a single questionnaire score: logs from 162 students, split at the median of a validated GenAI Literacy Test into a high group (n = 89) and a low group (n = 73), produced structurally distinct questioning networks under Epistemic Network Analysis.
+- **Instructors.** Ask students to draft their own summary first and request critique of it, then to refine iteratively: high-literacy networks linked AI Improvement Commands with Clarification Questions and Meta-Commands, an iterative sense-making-then-refinement cycle, whereas low-literacy students paired broad generation commands with basic fact retrieval.
+- **Designers.** Use interaction constraints that force synthesis rather than adoption: the study's custom platform imposed a 30-word limit per prompt and disabled copy-pasting, a directly reproducible lever for other tools.
+- **Instructors.** Treat low-literacy challenge questions as a teaching opening: the challenging-question link appeared in the low-literacy network mainly as a reaction to confusion or [[hallucination-risk|hallucinations]] rather than strategic critique, so make explicit how to question a model's logic.
+- **Designers.** Build [[learning-analytics]] dashboards around the observed behavioral markers — the shift from direct generation commands toward iterative refinement — to trigger real-time support instead of end-of-course [[self-report-measures|self-report]].
+
+## Limitations
+
+- Literacy grouping came from a median split on students' self-reported GenAI Literacy Test results rather than from an externally validated performance measure, yielding a high group (n = 89) and a low group (n = 73) within a single cohort.
+- Participants were 162 university students (M_age = 20.1) from one institution working on one academic abstract-writing task in one custom platform built on DeepSeek, so the interaction signatures may not transfer to other tasks, disciplines, or tools.
+- The paper reports preliminary findings presented at the AI-LIT workshop at LAK26, and its coding framework was adapted from prior work; human coding of a subset reached substantial but not perfect agreement (Cohen's κ = 0.75).
+- Because the analysis infers intent from behavioral codes alone, a challenge question logged as confusion-driven criticism and one logged as strategic critique are not distinguishable in the logs.
 
 ## Connected Concepts
 

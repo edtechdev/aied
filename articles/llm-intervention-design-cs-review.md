@@ -41,16 +41,10 @@ The review identifies four design elements that distinguish effective interventi
 
 Java interventions showed more consistent gains; Python — despite dominance in CS1 — lacks sufficient experimental isolation. The review also documents critical [[research-methods-aied|methodological]] weaknesses: inconsistent outcome operationalization, variable control group definitions, and chronic **underreporting of effect sizes and confidence intervals** — a concern that connects to broader efficacy-study design standards.
 
-## Relevance to AI in Education
-
-This review is valuable because it shifts the conversation from "do LLMs work?" to "**what design choices make LLMs effective?**" The evidence strongly supports [[scaffolding]]-based approaches over simple tool access, reinforcing findings across the [[genai-meta-analysis-programming-learning]] literature. The "tool frustration" paradox is an important contribution — it suggests that poorly designed [[generative-ai]] integration can be worse than no integration at all.
-
-For [[higher-ed]] contexts, the review provides actionable guidance: semester-long Virtual Tutor designs with structured feedback outperform short-term coding-assistant interventions. This aligns with [[code-review-genai-cs1]] work on structured feedback and the broader [[cs-education]] push toward [[computational-thinking]] over syntax mastery.
-
 ## What this means for practice
 
 - **Instructors.** Run LLM integration as a semester-long virtual tutor or peer with scaffolded feedback rather than a short-term coding assistant: all three tutor studies improved computational thinking and academic performance, while the eight task-and-coding-assistant studies split across measures.
-- **Instructors.** Teach prompt literacy and supply [[scaffolding]] before granting tool access, since students using LLMs without them reported significantly higher frustration than controls (p = 0.008, median 14 vs. 9) at equivalent performance.
+- **Instructors.** Teach prompt literacy and supply [[scaffolding]] before granting tool access, since students using LLMs without them reported significantly higher frustration than controls (p = 0.008, median 14 vs. 9) at equivalent performance — integration that skips that support is worse than no integration at all.
 - **Instructional designers.** Build interventions on the four elements the review isolates: sustained scaffolding with gradual withdrawal, transparent interaction patterns, explicit meta-skill instruction in [[prompt-engineering]], and assessment redesigned around code evaluation and prompt crafting.
 - **Researchers.** Pre-specify outcomes, control conditions, and effect sizes with confidence intervals in any new trial, because the reviewed studies operationalize outcomes inconsistently, define control groups differently, and chronically underreport effect sizes and intervals.
 

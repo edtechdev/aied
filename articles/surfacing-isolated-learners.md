@@ -45,6 +45,13 @@ Output is a ranked set of topic priorities with per-topic decision records expla
 
 This is one of the first systems to operationalize **[[human-ai-collaboration|human-AI co-agency]]** in classroom settings. The interpretable outputs help teachers [[trust]] and act on AI-provided priorities when grades are not yet available. By combining multiple weak signals, the system surfaces students who would otherwise be invisible — a critical capability for [[equity-in-ai-education|equitable instruction]].
 
+## What this means for practice
+
+- **Instructors.** Combine several weak process signals instead of acting on one: multi-signal integration separated isolated learners at AUC = 0.96 versus 0.91 for gap prevalence alone, and it surfaced 2 learners that no single signal flagged.
+- **Instructors.** Read the per-topic decision records before acting on the ranking: the top five mediated topics overlapped instructor concerns on 3/5 topics, with rank agreement of ρ = 0.80.
+- **Instructors.** Treat a mismatch between observed difficulty and student self-reports as a prompt to check in with the class, since agreement between mediated priorities and self-reported topic difficulty was modest (ρ = 0.46, p = .048).
+- **Instructors.** Revisit the [[learning-analytics|signal]] weights with the teaching team rather than treating them as tuned parameters: recommendations held across alternative profiles, with the top-10 topics overlapping 10/10 and removing the disagreement term leaving the top five unchanged (ρ = 0.96).
+
 ## Limitations
 
 - Single graduate [[cs-education|CS]] course (n=279 surveys, n=5 instructor interviews)

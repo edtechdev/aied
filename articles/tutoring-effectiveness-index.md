@@ -58,6 +58,21 @@ TEI demonstrates that simple lexical and structural signals can effectively stee
 
 es and sizes?
 
+## What this means for practice
+
+- **Software developers.** Rerank candidate responses at inference time before reaching for training: TEI@8 raised the improvement rate on pre-incorrect scenarios from 59.0% to 81.9% on a frozen model, with no [[reinforcement-learning|RL]].
+- **Software developers.** Budget the rerank explicitly: TEI@8 costs 4.1× the tokens of greedy decoding (16,334 vs 3,984) and roughly half the cost of Cons@8 (31,868).
+- **Software developers.** Keep verification language in the signal set and stop rewarding question-ending turns: dropping the verification term removes −.054 AUC and math-step density −.036, while the question-rate term carries a 1.0 penalty.
+- **Software developers.** Audit any [[pedagogical-llm-training|pedagogically fine-tuned]] tutor for reasoning collapse: the GRPO run behind this study's alignment tax cut thinking from 1,764 to 119 words per turn (−93%), with content-knowledge accuracy down 71% relative and pedagogical knowledge down 80%.
+- **Software developers.** Gate deployment on a student-outcome check rather than a judge score: the Student Δ Solve Rate crossed from +0.180 to −0.012, so an aligned tutor that passes rubric-style evaluation can still be detrimental.
+
+## Limitations
+
+- Student outcomes use GPT-4o-mini as a synthetic learner rather than real students.
+- All experiments are in mathematics, so the four weights and the signals behind them may need re-derivation for other subjects.
+- The Schoenfeld verification signal is regex-derived and surface-level: a GPT-4o-mini paragraph classifier disagrees with it on more than half of paragraphs.
+- The four TEI weights are fixed a priori from theory, and the Helpful and leak rates are LLM-judge metrics that inherit same-model bias; the primary outcome (Δ Solve Rate) does not.
+
 ## Connected Concepts
 
 - [[socratic-method]]

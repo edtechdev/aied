@@ -42,12 +42,20 @@ The evaluation proceeds along three dimensions. First, automated 7C collaboratio
 
 CLARA was designed around the idea that learners, educators, and AI should reason over the same representations. Rather than the conventional generate-and-consume pattern, where AI produces outputs a user accepts or rejects, the artifacts sit between user and AI as shared working material — visible, queryable, and interpretable by both. This practical notion of common ground suggests a design direction for [[ai-education|AI-augmented analytics]]: AI-generated representations as infrastructure that support ongoing [[human-ai-collaboration|inquiry]] from both sides, rather than as endpoints. The automated assessments also act as [[scaffolding|scaffolds]] rather than ground truth, making collaboration visible and discussable in ways raw transcripts or participation metrics do not.
 
-## Implications
+## What this means for practice
 
-- **For collaboration analytics:** LLM-generated 7C assessments are reliable enough to serve as structured entry points for interpreting discussions, accelerating the otherwise slow [[feedback|feedback loop]] of observation, analysis, and debriefing that builds collaboration literacy.
-- **For retrieval and grounding:** AI-produced artifacts can serve as self-created retrieval infrastructure, offloading the cognitive work of distilling noisy transcripts into analytical structure so agents can focus on synthesis — a pattern that generalizes beyond learning analytics.
-- **For design:** Rather than systems where AI generates insights for users to accept or reject, designers should build systems where AI generates representations that become shared working material for both human sensemaking and AI reasoning.
-- **For practice:** Artifacts give educators and learners a structured characterization to react to, agree with, push back on, or use as a starting point for deeper reflection — supporting the development of [[collaborative-learning|collaboration literacy]] itself.
+- **Instructors.** Debrief from the artifacts rather than replaying the recording: the concept map and 7C assessment give groups a structured characterization they can agree with, push back on, or use as a starting point, and the automated scores fell within the range of human expert variability (overall ρ = .701, p < .001). Treat them as [[scaffolding|scaffolds]], not ground truth.
+- **Instructors.** Ask the artifact-grounded agent the analytical questions you would otherwise reserve for manual review: full artifact access nearly doubled retrieval on analytical queries over transcript-only (Recall@5 = .371 to .739, MRR@5 = .942), and the agent drew higher ratings for groundedness, analytical depth, and helpfulness (r = .792, p = .001) without any difference in factual accuracy.
+- **Designers.** Index concept maps and 7C assessments in separate collections and expose that choice to the user, so a facilitator can restrict which artifact types the agent consults; CLARA's mixed-initiative controls exist precisely so users can compare representations.
+- **Designers.** Treat AI-produced artifacts as shared working material rather than endpoints — the architecture's principle is that both the user and the agent reason over the same representations, which is what makes the output open to challenge rather than simply accepted.
+- **Researchers.** Compare LLM and human assessments on the written reasoning as well as the score, and average repeated runs with presentation order randomized: CLARA used an independent judge model on behavioral alignment and evidence correspondence across all human-human and human-LLM pairs, with a blank key-evidence field treated as agreement when both analysts reached a similar conclusion.
+
+## Limitations
+
+- The collaboration assessment comparison rests on 10 discussions rated by human experts, a subset of the 35 discussions in the dataset; the authors state this is enough to identify meaningful patterns but not to make strong generalizations.
+- Only four education researchers served as experts and one was excluded after calibration review, leaving each discussion analyzed by 2 or 3 raters, which is why Krippendorff's alpha was used instead of ICC (the design produces missing cells) and why the authors caution that ICC estimates should be interpreted with caution given the number of raters.
+- The paired agent comparison has relatively limited power to detect small effects, which is why the paper reports effect sizes throughout.
+- The rating evaluation covers 46 agent responses judged by four external raters blind to the two-condition design, and the underlying dataset is 12 sessions of 35 discussions drawn from settings as varied as child workshops and college classrooms, with session lengths from 11.9 to 137.3 minutes — a single system on a single dataset, not a cross-site replication.
 
 ## Connected Concepts
 

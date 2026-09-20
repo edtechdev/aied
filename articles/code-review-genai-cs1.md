@@ -48,14 +48,20 @@ The study compares three semesters (Fall 2023, Fall 2024, and Fall 2025/CS1-CR) 
 
 The results were consistent across methods. Pairwise t-tests showed no statistically significant change in exam performance despite the new policies, with a ~2% improvement on Exam 1 for CS1-CR. The percentage of pasted-to-total characters rose from 61.0% to 68.1% (p < 0.0001) while paste-event counts stayed roughly constant — indicating students pasted larger blocks of AI-generated code. Surprisingly, time-on-task and keystroke counts did not decline, suggesting students engaged with the code just as much, likely motivated by upcoming reviews. As with much of this literature, the authors note there have been no [[rct|randomized controlled trials]] in this space, and pasted text cannot be definitively attributed to AI.
 
-## Implications
+## What this means for practice
 
-The results suggest that oral code review interviews paired with a flipped classroom offer an effective, scalable alternative to AI bans in [[cs-education|CS1]].
+- **Instructors.** Replace an AI ban with oral accountability: require a 15-minute code review interview within 48 hours of every coding assignment and let the interview carry 70% of the assignment grade, with the rubric score counting for the remaining 30%.
+- **Instructors.** Free the time the interviews need by moving to a [[active-learning|flipped classroom]] — the course dropped one of three weekly meetings and still raised pasted-to-total characters from 61.0% to 68.1% (p < 0.0001) with no statistically significant decline in exam scores.
+- **Instructors.** Fix the logistics before the [[pedagogy|pedagogy]]: TA inconsistency (33.7%) and scheduling difficulties (21.7%) drove the negative feedback, not student resistance to being interviewed, so invest in TA training and a scheduling process.
+- **Administrators.** Plan the staffing ratio before scaling: CS1-CR expanded from just under 100 to over 200 students while keeping the same 11 TAs, a constraint the authors flag as unresolved.
+- **Researchers.** Build the comparison the field still lacks: the authors state there have been no randomized controlled trials in this space, and this three-semester study is a proof of concept rather than causal evidence.
 
-- For [[assessment]] design, the study provides an [[authentic-assessment|authentic]], defensible alternative to [[ai-detection|AI detection]], which tends to foster adversarial dynamics and erode [[trust]] between instructors and students.
-- The findings reframe [[academic-integrity]] around demonstrated understanding rather than policing tool use — a stance aligned with [[ai-literacy]] and [[educational-policy-ai|policy]] that acknowledges AI tools as part of professional practice.
-- The flipped classroom resolves the [[higher-ed|scalability]] question that has blocked oral assessment adoption; TA training and scheduling logistics are the practical levers to refine.
-- The design supports [[self-efficacy|student confidence]] and [[motivation]] to understand code deeply, linking [[metacognition|metacognitive]] development to structured accountability rather than to [[cognitive-offloading|over-reliance]].
+## Limitations
+
+- No control group is possible in this design: because code reviews add contact time between students and teaching assistants, the authors state it is not clear how to construct a true control condition, making the Fall 2023, Fall 2024 and Fall 2025 comparison quasi-experimental.
+- Single course at a single institution: the Fall 2025 CS1-CR section enrolled 96 students with one instructor, and the end-of-semester survey covers the same N = 96.
+- Keystroke logs cannot identify AI use: pastes from outside the IDE are excluded to protect student privacy, so the authors cannot infer that all pasted text was AI-generated, and their analysis does not connect types of AI usage to performance on particular questions.
+- Student sentiment is self-reported: 90% reported the reviews motivated them to understand their code better and 65% that reviews helped them avoid over-reliance on AI tools, but these are survey responses paired only with exam scores, not an independent measure of understanding.
 
 ## Connected Concepts
 
