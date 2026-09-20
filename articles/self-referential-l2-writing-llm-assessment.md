@@ -21,14 +21,25 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 - **LLMs outperform single human raters** at identifying relative weaknesses (negative feedback) across proficiency aspects
 - **Human raters remain stronger** at identifying relative strengths (positive feedback)
 - Traditional rank-based correlation metrics **mask diagnostic behavior** — high correlations can hide poor intra-learner discrimination
-## Implications for AIED
-This connects to [[automated-assessment|Automated Grading]] but challenges its dominant evaluation paradigm. The finding that LLMs are strong at weakness detection but weaker at strength identification has practical implications for [[formative-assessment]] design — AI might best serve as a **complementary weakness detector** while teachers focus on strengths.
-The self-referential approach aligns with [[personalized-learning]] goals and the [[ai-learning-companions-framework]] emphasis on prioritizing learning over performance. It extends [[writing-education]] [[research-methods-aied|research]] on AI in composition and connects to [[automated-question-generation]] work on AI-generated assessment. The use of Rasch modeling for calibration connects to [[ground-truth-reliability-aied]] calls for more rigorous measurement in [[ai-education|AIED]].
 ## Connections to Knowledge Base
 - Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
 - Aligns with [[sequenced-ai-feedback-learning]] emphasis on [[ai-feedback-quality|feedback quality]] over quantity
 - Extends [[nie-personavlm-long-term-personalization-2026]] to assessment contexts — profiling over time
 - Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
+## What this means for practice
+
+- **Software developers.** Score each learner against their own profile instead of a cohort rank: classify every analytic aspect as a relative strength or weakness against that learner's mean, and report F0.5 for both feedback directions rather than a Spearman correlation against human scores, since high rank correlations can mask poor [[automated-essay-scoring|diagnostic]] behavior through intercorrelation and halo effects.
+- **Software developers.** Split the labor between model and teacher along the measured asymmetry — GPT-4.1 attained the highest average F0.5 for negative feedback (relative weaknesses) while the operational rater outperformed all three models on most Language aspects (Intelligibility, Accuracy, and Fluency) plus Comprehensibility and Purposefulness, so a model is best used to flag weaknesses and a teacher to confirm strengths.
+- **Software developers.** Budget for ensembles, not single raters: on Logicality it took an ensemble of three raters to outperform the best-performing models (GPT-4.1 on negative feedback and Llama 3.1 on positive feedback).
+- **Researchers.** Test the framework on a second corpus before trusting it. This is the first self-referential framework for analytic assessment, implemented zero-shot on one dataset, so treat profile-level outputs as diagnostic hypotheses rather than settled [[educational-measurement|measurement]].
+
+## Limitations
+
+- Everything rests on a single dataset — ICNALE GRA with N = 140 unique essays, four of them written by L1 speakers and kept rather than discarded — and the authors name that single-dataset reliance as their first caution.
+- The learner population is narrow: the data focuses on Asian learners within an English as a Lingua Franca framework, and generalization to other L1 backgrounds or other second languages is untested.
+- The strength/weakness split uses a one-standard-deviation threshold, which the authors describe as a heuristic choice rather than a psychometrically derived cutoff, and the Attitude aspects (Willingness and Involvement) show lower inter-rater agreement — so model-versus-human differences there likely reflect noise in the reference labels.
+- The model comparison is zero-shot and limited to three LLMs — GPT-4.1, Qwen 2.5 72B, and Llama 3.1 70B, the latter two 4-bit quantized — so quantization and prompt design are uncontrolled.
+
 ## Connected Concepts
 - [[automated-assessment]]
 - [[automated-essay-scoring]]

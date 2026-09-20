@@ -76,6 +76,21 @@ This is a strong result for AI feedback systems:
 - How does each modality (text vs. slides vs. audio) contribute to the overall effect?
 - Can [[multimodal]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
+## What this means for practice
+
+- **Learners.** Use AI feedback as a working explanation rather than a verdict: in this experiment the AI condition matched educator feedback on learning after controlling for pre-test scores (𝐹 = 0.91, partial 𝜂² = 0.0047) and was rated clearer, more specific, and less cognitively demanding.
+- **Learners.** Read the linked slide and play the audio narration alongside the text instead of skimming the text alone — the three channels are designed to carry context that any one of them omits.
+- **Instructors.** Keep live human feedback where it earns its cost. Educator feedback drove more total submissions on multiple-choice questions, while AI feedback lowered the barrier to revising open-ended answers.
+- **Instructors.** Do not assume AI feedback is the weaker option: it was rated equivalent on correctness, trust, and acceptance and better on all six experiential dimensions, including reduced [[cognitive-offloading|cognitive load]].
+- Target response latency that allows revision inside the same session — the system returned multiple-choice feedback in a median of 0.299 seconds and open-ended feedback in 6.23 seconds.
+
+## Limitations
+
+- The study was a single one-hour online session with 197 Prolific-recruited U.S. university students (87 in the business-as-usual group, 110 in the AI group), so it cannot address knowledge retention, delayed testing, or transfer.
+- The comparison condition used fixed, pre-authored educator feedback rather than live or adaptive human feedback, which may account for part of the AI system's perceptual advantage.
+- The two conditions differ on several confounded factors at once, including feedback source and slide presentation style, so the study cannot separate their individual contributions to learning.
+- Cognitive load was captured only as an overall perceived-load measure, which cannot distinguish a reduction in extraneous load from an increase in generative load.
+
 ## Connected Concepts
 - [[feedback]]
 - [[multimodal]]

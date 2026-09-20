@@ -32,6 +32,20 @@ The findings also matter for [[formative-assessment]] systems — if ASAS works 
 - Relevant to [[ground-truth-reliability-aied]] concerns about scoring validity
 - Connects to [[generate-then-validate-question-gen]] methodologies for AI assessment quality
 
+## What this means for practice
+
+- **Assessment designers.** Route only the extremes to automation and send predicted mid-range responses to a human. Few-shot models scored fully or almost fully correct answers (9-10) within less than one category of the gold score, while in the mid-range (score levels 4-7) all but one of the 48 model × score-level × item results exceeded two categories of average distance.
+- **Assessment professionals.** Report agreement by response quality, not in aggregate. For GPT-4o, 10-shot prompting achieved better overall agreement and better mid-range fairness than smaller example sets, and two-shot prompting degraded Item 2 performance by 3 categories or more, on average, for scores with 4-6 correct categories out of 10.
+- **Assessment designers.** Invest in task-specific adaptation rather than assuming fast deployment is sufficient. The fine-tuned classifiers trained on 669 student responses kept maximum mid-range distance to 1.5 categories, while the few-shot LLMs matched them on the extremes with very little task-specific data.
+- **Assessment professionals.** Audit scoring per score level and document the resulting U-shape as a known measurement bias, since the errors concentrate on responses from students whose knowledge is still developing and who may benefit most from [[formative-assessment]].
+- **Assessment professionals.** Plan the transition deliberately: use automation as a first pass on responses predicted to be extreme, accumulate human-scored mid-range data, and expand automation only as [[automated-assessment|automated scoring]] can be fine-tuned.
+
+## Limitations
+
+- The prompts were adopted from prior ASAS work and were originally designed and validated for GPT-4o; the authors state that alternative prompting strategies, or prompts tailored to each specific model, could yield different performance patterns.
+- The assessment consisted of two open-ended biology items, and the fine-tuning data came from 669 students in grades 10-12 attending 25 high schools in the first of two collection cycles, so generalizability to other items and domains remains to be established.
+- The study does not employ standard evaluation metrics such as Quadratic Weighted Kappa (QWK) or Pearson's correlation, which may hinder direct comparison with existing ASAS benchmarks.
+
 ## Connected Concepts
 
 - [[automated-assessment]]

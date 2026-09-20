@@ -44,6 +44,21 @@ The findings have implications beyond programming — the productivity-learning 
 - How do findings generalize beyond programming to other [[stem-education]] domains?
 - What instructional designs mitigate the learning cost while preserving productivity gains?
 
+## What this means for practice
+
+- **Instructors.** Treat a faster programming lab as a throughput gain, not a learning gain: GenAI assistance produced a moderate, statistically significant productivity effect (Hedges' g = 0.33, 95% CI: [0.09, 0.58]) while the pooled learning effect was g = 0.14 with a confidence interval that includes zero.
+- **Curriculum designers.** Decide deliberately whether students keep GenAI access during assessment. The learning evidence comes from exam performance comparisons and the effect depended strongly on contextual setting, including whether students retained access to GenAI during the test, so the access rule is a design decision, not a detail.
+- **Educators.** Do not port findings from a controlled trial into your own course unexamined: productivity gains were larger in controlled experimental settings with standardized tasks and smaller in real-world contexts, and heterogeneity across studies was extreme (I² = 99%).
+- **Curriculum designers.** Choose the [[transfer-of-learning|skill you intend to build]] before adding a coding assistant, because the productivity proxies used in these studies (task completion time, commits, and lines of output code) measure output produced, not [[cs-education|programming competence]] retained.
+- **Researchers.** Replicate with bias checks built in: the pre-registered review searched ACM, arXiv, Scopus and Web of Science for 2019–2025, yet Egger's mixed-effects regression test indicated significant funnel plot asymmetry, so effect sizes in this literature are likely inflated.
+
+## Limitations
+
+- The learning conclusion rests on a small base — 11 effect size estimates, against n = 23 studies and k = 27 effect sizes overall — and is not distinguishable from zero (Hedges' g = 0.14, 95% CI: [−0.18, 0.47], SE = 0.17, p = 0.389), with between-study variance of τ² = 0.25 (Q(10) = 54.96, p < 0.001).
+- Productivity is measured by proxies rather than by quality: the 16 effect sizes from n = 14 studies (m = 3535 participants; r = 6355 repositories) used task completion time, commits, and lines of output code, and only one study used lines of output code at all.
+- Publication bias is present: Egger's mixed-effects regression test indicated significant funnel plot asymmetry and small-study effects, so the productivity estimate is likely optimistic.
+- The productivity pool is dominated by one tool and a narrow set of languages: GitHub Copilot in n = 6 studies, with Java the most frequent language (n = 6), leaving other assistants and languages thinly evidenced.
+
 ## Connected Concepts
 
 - [[rct]]

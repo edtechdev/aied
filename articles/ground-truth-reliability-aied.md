@@ -82,6 +82,21 @@ The paper illustrates these shifts through case studies of **multimodal tutoring
 - How should the four shifts be adapted for fully automated annotation pipelines with no human raters?
 - Can uncertainty-aware labeling be standardized across the field, or is it inherently task-specific?
 
+## What this means for practice
+
+- **Researchers.** Report the whole annotation workflow — rater expertise and training, codebook development, how disagreements were reconciled, and how continuous multimodal data was segmented — rather than a standalone coefficient, since the authors note many studies fail to report internal reliability at all.
+- Stop treating κ > 0.8 as a gate. Read IRR as a diagnostic that localizes where raters disagree, and use that disagreement to refine the construct rather than discussing cases until the coefficient reaches 0.80.
+- Audit any LLM annotator before trusting it and keep an independent verification step in the loop: the paper cites evidence that showing annotators LLM pre-labels reduced their accuracy when the model was wrong.
+- Add at least one validity check beyond agreement to every labeled-dataset paper — multilabel annotation with confidence levels for ambiguous items, a predictive test that the label forecasts a distinct outcome, or a close-the-loop test of whether a model trained on the labels improves learning over a control condition.
+- Budget domain expertise into annotation design. For high-inference constructs such as [[student-engagement|engagement]], minimally trained crowd-workers are unlikely to approximate ground truth; the paper points to certified-observer protocols such as BROMP as the standard to normalize.
+
+## Limitations
+
+- This is a position and theoretical analysis paper with no new dataset and no experiment, so it argues the four shifts should improve reliability and validity rather than showing that they do.
+- Its concrete illustrations come from multimodal tutoring case examples, such as a transcript coded for student math errors through explicit visual and implicit verbal lenses; the prevalence of κ-threshold misuse is evidenced by cited cases rather than a systematic sample of AIED papers.
+- The paper sets no quantitative bar for sufficiency: it leaves the "minimum viable validity evidence" for different AIED use cases as an open question and does not resolve how the four shifts apply to fully automated pipelines with no human raters.
+- The automation-bias and LLM-annotation risks it raises are drawn from other researchers' studies, so those claims are not tested in this work.
+
 ## Connected Concepts
 - [[assessment-validity]]
 - [[educational-measurement]]

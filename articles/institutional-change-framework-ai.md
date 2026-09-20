@@ -36,14 +36,6 @@ institutions: [change-management]
 
 **6. Students:** Prior models treated students as recipients; in the AI era, students are often **ahead of faculty** in AI use and must be engaged as **partners in reform**. This aligns with broader calls in [[student-experience]] and [[ai-literacy]] for [[agency|student agency]] in AI-era education.
 
-## Design Implications
-
-1. **Privilege humble and local inquiries** — document and share local experiments rather than scaling unproven practices
-2. **Organize around pedagogical approaches** — anchor reform in durable pedagogical principles, not ephemeral tools
-3. **Reposition change agents as inquiry facilitators** — build faculty learning communities around shared questions
-4. **Engage students as partners** — leverage their AI experience in co-creating institutional responses
-5. **Build capacity for continuous adaptation** — design for ongoing change, not one-time adoption
-
 ## Application: Physics Department Workshop Series
 
 The framework was piloted through a faculty workshop series in a university [[physics-education|physics]] department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education]] and the workshop-based models in [[educational-development]].
@@ -64,6 +56,21 @@ The framework was piloted through a faculty workshop series in a university [[ph
 - What metrics track institutional adaptation progress under genuine uncertainty?
 - How do different institutional types ([[research-methods-aied|research]] universities, community colleges, liberal arts) shape framework application?
 - Can the framework be operationalized into assessment tools for institutional readiness?
+
+## What this means for practice
+
+- **Faculty developers.** Anchor workshop design in pedagogical approaches and the department's own teaching problems rather than in specific AI tools: the framework's tools dimension argues that AI changes on timescales of months, so tool-anchored reform risks obsolescence before evidence accumulates.
+- **Faculty developers.** Reposition the center for teaching and learning as a facilitator of collective inquiry rather than a broker of best practices — the physics workshop series surfaced what was happening in participants' courses instead of prescribing approved tools.
+- **Administrators.** Invest in sustained spaces for faculty inquiry and in dedicated expert support rather than in tool procurement, following the paper's Science Teaching Fellows precedent of funding discipline-based partners in course transformation, and build capacity for continuous adaptation rather than one-time adoption.
+- **Administrators.** Treat students as partners in the change process rather than its recipients: the framework holds that students are often ahead of faculty in AI use, so their existing practices are evidence about what is already happening in courses.
+- **Instructors.** Document and share local experiments with their limits stated and refuse to generalize them; the framework's answer to an absent evidence base is humble, local inquiry.
+
+## Limitations
+
+- **No empirical test of the framework.** The authors state plainly that they have not tested whether change initiatives designed in accordance with it produce positive outcomes relative to alternative approaches; it is a theoretical contribution.
+- **A single, brief case study.** Application is illustrated through one faculty workshop series in one university physics department, so the six dimensions are shown in a single discipline and institution type.
+- **Context-bound evidence.** The framework is drawn primarily from U.S.-based change initiatives, and the authors note that the relative weight of the dimensions and specific design implications may shift in different institutional contexts.
+- **Deliberately provisional.** The authors concede that the dimensions most salient today may be reordered as the technology and practices mature, and present the framework as a starting point rather than an exhaustive or final model; the workshop materials are available only from the corresponding author.
 
 ## Connected Concepts
 

@@ -86,6 +86,21 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 3. **Sustainable feedback via LLM:** Can a language model deliver feedback that students apply months later? The CDPK and ISD [[benchmark|benchmarks]] test [[pedagogy|pedagogical]] [[transfer-of-learning|knowledge transfer]] to models, not feedback sustainability transfer to students.
 4. **Social authenticity deficit:** Only 3 studies addressed social issues (citizenship, sustainability, ethics). How can AI assessment tools help students contribute to societal transformation rather than merely simulate it?
 
+## What this means for practice
+
+- **Instructors.** Co-design the rubric with students rather than handing one down: twenty-two studies stated the use of assessment rubrics, yet only Chang (2001), Kaya (2008), and Kearney and Perkins (2014) developed rubrics collaboratively with students, and in most cases students were passive users of the rubric.
+- **Assessment designers.** Build feedback students will reuse. Twenty-three studies adopted [[formative-assessment|formative feedback]] for immediate improvement, but only four studies used sustainable feedback that empowers students to become self-directed lifelong learners — the reactive pattern that current AI feedback tools reproduce.
+- **Curriculum designers.** Give students real [[agency|choice]] over what, how, when and where they take authentic assessment: only eight studies did. Pair that with ungraded self-reflection, since reflection was usually assigned as a graded task and risks performing for the assessor rather than supporting genuine [[self-regulated-learning|self-regulation]].
+- **Assessment designers.** Broaden authenticity beyond professional scenarios: most studies (n = 22) placed tasks in professional scenarios, six presented an authentic digital world, nine addressed students' personal experience, and only three addressed social issues such as citizenship, sustainability and ethics.
+- **Curriculum designers.** Design collaboration deliberately. Sixteen studies used group tasks and eighteen used individual ones; only three designed equitable collaboration between teachers and students (teacher roles were typically feedback giver, monitor or facilitator), and only five connected students with industry partners or community stakeholders.
+
+## Limitations
+
+- This is a scoping review of 37 empirical studies from 2000 to 2024: it maps how authentic assessment was designed, and its coding took the reported designs at face value without appraising research methodologies or study quality, so it cannot show whether any design produces the intended outcomes.
+- Western contexts are overrepresented — 27 of the included studies came from Western settings against 10 from Eastern ones, with Australia alone contributing 11, and the search covered English-language articles only, which the authors name as a limit on applicability elsewhere.
+- The underlying evidence is thin: sample sizes in the reviewed studies ranged from 5 to 493 participants, and only 29% included 100 or more.
+- Several headline gaps rest on very few studies: social authenticity on three, student choice on eight, and sustainable feedback on four.
+
 ## Connected Concepts
 
 - [[adaptive-learning]]

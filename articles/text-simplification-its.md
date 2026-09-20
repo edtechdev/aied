@@ -1,7 +1,7 @@
 ---
 title: "MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator"
 created: "2026-05-08T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T08:51:47-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [sociocultural-learning]
@@ -52,25 +52,19 @@ As **[[generative-ai]]** becomes prevalent in ITS, text simplification confronts
 
 MuTSE addresses these by letting evaluators toggle prompts and models on the fly, visually trace alignments, and detect conversational artifacts or semantic [[hallucination-risk|hallucinations]] via inline cosine-similarity scores — moving beyond aggregate [[benchmark|benchmarks]] toward reproducible, human-in-the-loop [[qualitative-research|qualitative]] assessment.
 
-## Implications for Adaptive Learning
+## What this means for practice
 
-### For ITS Design
-- **Content adaptation layer:** dynamic text simplification as part of **[[adaptive-learning]]**, matching complexity to a learner's current reading level rather than selecting from pre-existing corpora.
-- **Learner model integration:** simplification driven by real-time **[[student-modeling]]** and proficiency estimates, with outputs verified by educators.
-- **[[multimodal|Multi-modal]] and multilingual extension:** the multilingual embedding tier already spans 50+ languages, opening paths toward machine-translation evaluation and cross-lingual summarization.
+- **Researchers.** Compare prompt–model permutations instead of single averages. MuTSE runs P prompts × M models concurrently and presents every output in a side-by-side, toggleable matrix, so differences between prompting strategies and model architectures stay visible rather than collapsing into one score.
+- **Researchers.** Define your rating dimensions and weights before you start, then cross-check the scores against the system's real-time diagnostics — compression ratio, Flesch-Kincaid grade level, and Flesch Reading Ease. MuTSE ships with zero predefined metrics and normalizes custom scales (binary through continuous 100-point) into a weighted performance percentage, which sidesteps contested Likert conventions and lets the readability metrics flag conversational artifacts and semantic [[hallucination-risk|hallucinations]].
+- **Software developers.** Adopt the three-tier alignment cascade (multilingual SBERT embeddings, TF-IDF with word- and character-level n-grams, then normalized positional fallback) to suppress false-positive sentence alignments, and keep the deployment CPU-only by using the 384-dimensional MiniLM embedding tier.
+- **Software developers.** Expose the linearity bias λ (range 0-2, default 0.5) as a user-adjustable control recomputed on the client, so evaluators get instant visual feedback without redundant server calls, and export each session as structured JSON and CSV — the JSON preserving sentence-to-annotation mappings for fine-tuning or reward-[[pedagogical-llm-training|model training]], the CSV for exploratory analysis.
 
-### For Educator Workflows
-- **Human-in-the-loop quality assurance:** teachers validate automated simplifications (cf. **[[human-in-the-loop-ai]]**), preventing oversimplification that strips key concepts or undersimplification that frustrates learners — echoing the progressive-complexity logic of **[[scaffolding]]** and **[[sociocultural-learning]]**.
-- **Custom assessment criteria:** educators weight dimensions such as meaning preservation and fluency to match their own pedagogical goals rather than a one-size-fits-all rubric.
-
-### For NLP Research
-- **Annotated corpus construction:** structured JSON/CSV export supports building high-quality **[[educational-nlp]]** datasets, fine-tuning downstream models, and training reward models.
-- **Reproducible evaluation:** the real-time linearity heuristic lowers computational prerequisites, enabling CPU-only, local deployment that makes rigorous, customizable comparison accessible without specialized infrastructure.
-
+- **Instructors.** Drive simplification from real-time proficiency estimates rather than a fixed corpus level: dynamic simplification belongs inside an [[adaptive-learning]] loop, with [[student-modeling]] supplying the reading-level target, an educator verifying the output before learners see it, and quality weights (meaning preservation, fluency, concept coverage) set locally rather than accepted by default. Route those texts through human review ([[human-in-the-loop-ai]]) so the cascade supports [[scaffolding]] and [[sociocultural-learning]] instead of stripping key concepts.
 ## Limitations
 
-MuTSE's local JSON persistence does not scale to concurrent multi-user deployments — a relational database would be needed for large collaborative annotation campaigns. Cloud-based model access removes local GPU requirements but still imposes initial environment configuration friction. And while the alignment cascade is optimized for monolingual simplification, cross-lingual syntactic restructuring may not respect monotonic sentence order, so extending it to machine translation requires recalibrating λ.
-
+- MuTSE's local JSON persistence does not scale to concurrent multi-user deployments; a relational database would be needed for large collaborative annotation campaigns.
+- Cloud-based model access removes local GPU requirements but still imposes initial environment-configuration friction.
+- The alignment cascade is optimized for monolingual simplification; cross-lingual syntactic restructuring may not respect monotonic sentence order, so extending it to machine translation requires recalibrating λ.
 ## Connected Concepts
 
 - [[sociocultural-learning]]

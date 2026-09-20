@@ -28,6 +28,21 @@ The generated stories were designed for use by teachers, parents, and children i
 
 Fine-tuning designs were systematically compared, with the curriculum-derived training data providing curriculum alignment that general-purpose models lack. The [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] evaluation framework provides a template for assessing AI-generated educational content.
 
+## What this means for practice
+
+- **Instructors.** Treat fine-tuned compact models as your story *drafting* engine, not your author. Because all three 8B models were fine-tuned on 129 lessons from one expert-authored curriculum and then produced high stability, you get leveled first drafts cheaply — but pair every batch with your own [[curriculum-design|curriculum]] check before it reaches children.
+- **Instructors.** Screen generated stories rather than trusting the aggregate toxicity score. Mean toxicity was near zero, yet five stories or fewer in each set of 1,290 still contained body-shaming or distressing lines such as "you're too fat." Read what you plan to hand out.
+- **Instructors.** Keep human oversight in the loop for this age group in line with [[pedagogical-safety|pedagogical safety]] guidance: the authors themselves recommend these models as assistive tools for draft generation and adaptation rather than unsupervised replacements for teachers or caregivers.
+- **Designers and software developers.** Budget for a single-curriculum pilot, then expect to re-collect training data. Repetition in the fine-tuned outputs — recurring place names and characters — traced back to the source stories, so vocabulary variety in your training corpus sets a ceiling on the variety your model can produce.
+- **Administrators.** Local 8B deployment is the equity argument: a model that runs on modest hardware removes per-token API costs that make [[equity-in-ai-education]] hard to sustain across many classrooms. Note that the authors still found 8B too large for mobile devices.
+
+## Limitations
+
+- Model comparisons are not fully controlled: GPT-4o and Llama 3.3 70B were evaluated only under zero-shot prompting, with no prompt optimization or few-shot examples, so the difficulty gains should not be read as a general claim about model capability.
+- Fine-tuned models were evaluated on stories generated from the same 129 lessons used during training rather than a held-out set of unseen phoneme constraints, which limits what the results say about generalization to novel lesson inputs.
+- The Rewarded SFT model's scalar rewards were computed from the same automatic metrics later used for evaluation, so the model may have been optimized toward the evaluation proxies rather than true educational quality; no expert human evaluation corroborates the NLP-based scores.
+- Study data are entirely batch-generated stories, with no authentic narratives from children, parents, or teachers, and the experiments ran on three L4 GPUs under IRB and deployment constraints that also precluded a full RLHF pipeline.
+
 ## Connected Concepts
 
 - [[equity-in-ai-education]]
