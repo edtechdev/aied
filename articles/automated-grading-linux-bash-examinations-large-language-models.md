@@ -1,7 +1,7 @@
 ---
 title: Automated Grading of Linux/Bash Examinations Using Large Language Models
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -41,11 +41,20 @@ Grading command-line examinations by hand does not scale to rising enrollments i
 - **Complex questions resisted better prompts.** At L4 rubric guidance helped but no longer closed the gap — GPT's two variants converged at ICC = 0.820 — showing that multi-concept, system-wide reasoning cannot be rescued by rubric specificity alone.
 - **Score levels confirmed the difficulty ordering.** Human evaluators awarded 64.41% of available marks at L1, 64.18% at L2, 55.72% at L3 and 49.21% at L4. The overall human mean grade was 5.41 (median 5.70; 42.5% Fail, 5.3% Distinction) — a distribution the top models approximated in central tendency but not in shape.
 
-## Implications
+## What this means for practice
 
-For instructors and designers, the taxonomy is offered as an allocation rule rather than an automation switch: L1–L2 questions can be delegated to AI-assisted grading with confidence, while L3–L4 questions should route to human review or hybrid workflows. The uniform V1→V2 gains argue that rubric development is a prerequisite for automated grading rather than an optional step — a well-specified rubric raises agreement more than switching provider ecosystem, so [[prompt-engineering|prompt]] and rubric design deserve the investment first.
+- **Instructors.** Use the taxonomy as an allocation rule, not an automation switch: delegate L1–L2 items (`ls`, `cat`, basic file manipulation) to AI-assisted grading and route L3–L4 items, which need structural reasoning about pipelines, permissions, and multi-concept integration, to human review or hybrid workflows.
+- **Instructors.** Write the rubric before choosing a model: adding the full rubric plus a reference answer lifted every model (Gemini 0.829→0.888, Claude 0.809→0.863, GLM 0.793→0.844, GPT 0.779→0.847), a larger effect than switching vendor.
+- **Instructors.** Do not grade sequential, task-based examinations item by item with an LLM: models penalized answers whose paths or filenames differed from the reference solution even when the student had correctly created those artifacts in an earlier question, so a single surface discrepancy can cascade into a categorically invalid grade.
+- **Administrators.** Keep [[human-in-the-loop-ai|human oversight]] mandatory wherever grading requires interpreting student intent, because no frontier model matched the instructors' own agreement (ICC 0.888 for Gemini 3.0 Pro with the rubric against a human ceiling of 0.949).
+- **Researchers.** Treat automated-grading agreement as a function of question cognitive level: report results stratified by taxonomy level, since baseline variants collapsed at L3 (GPT V1 ICC = 0.728) while L4 resisted even rubric-guided prompting (GPT's variants converged at 0.820).
 
-The paper's most consequential caveat is about [[assessment-validity|validity]], not accuracy. Manual inspection found a recurring failure mode in which models penalized answers for using filenames or paths that differed from the reference solution even though the student had correctly created those artifacts in a preceding question. In sequential, task-based exams a single surface discrepancy can cascade across items and produce a categorically invalid grade for a student who demonstrated mastery. Because human graders interpret student intent — distinguishing productive approximations from genuine misconceptions — the authors conclude that frontier LLMs cannot yet substitute judgment on questions requiring structural reasoning, cross-item context, or intent recognition, and that [[human-in-the-loop-ai|human oversight]] stays necessary at the top of the taxonomy. The study's own scope limits the claim to a single course, one examination sitting and default model settings, with prompt variants and parameters such as temperature left for future work.
+## Limitations
+
+- All 1,200 responses came from a single 90-minute midterm in one second-year Operating Systems course at one Spanish university, so the taxonomy and the agreement figures are tied to one course, one examination sitting, and one assessment format.
+- Models ran at default settings under only two prompt variants; few-shot prompting, self-refinement, and parameters such as temperature were left unexplored, and the authors note the sample must grow across later sittings for stable statistics per taxonomy level.
+- The human reference rests on three experienced instructors grading a rubric refined over several terms, and the strongest model–human agreement (ICC(3,1) = 0.888) still trailed the instructors' own inter-rater reliability (0.949) — with MAE 0.100 points against 0.028 for humans.
+- The cross-question context failure mode was found by manual inspection of individual responses rather than measured statistically, so its frequency in the dataset is unknown.
 
 ## Connected Concepts
 
