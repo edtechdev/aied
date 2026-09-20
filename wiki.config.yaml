@@ -241,6 +241,21 @@ journal_scan:
       doi_prefix: ijaied
       open_access: true
       max_age_days: 90
+    # Scholastica-hosted, fully open access (CC BY). The journal covers
+    # instructional design and technology across K-12, higher ed, corporate,
+    # military and government settings, so most issues are NOT about AI: the
+    # weekly scan's relevance filter decides per article, and only AI-related
+    # pieces are ingested. It publishes in batches (an issue arrives every few
+    # months), hence the longer window: 120 days keeps the whole current issue
+    # inside the cutoff between mailings.
+    - id: joidat
+      name: Journal of Instructional Design and Technology
+      url: "https://joidat.scholasticahq.com/feed"
+      parser: parse_scholastica
+      journal: Journal of Instructional Design and Technology
+      source_id: joidat
+      open_access: true
+      max_age_days: 120
 
 citation_format: APA
 

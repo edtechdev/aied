@@ -8,7 +8,7 @@ import sys
 import html
 import time
 import os
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from urllib.request import urlopen, Request
 from xml.etree import ElementTree as ET
 
@@ -81,6 +81,14 @@ EMBEDDED_FEEDS = {
         "max_age_days": 90,
         "journal": "International Journal of Artificial Intelligence in Education",
         "doi_prefix": "ijaied",
+    },
+    "joidat": {
+        "name": "Journal of Instructional Design and Technology",
+        "url": "https://joidat.scholasticahq.com/feed",
+        "parser": "parse_scholastica",
+        "journal": "Journal of Instructional Design and Technology",
+        "source_id": "joidat",
+        "max_age_days": 120,
     },
 }
 
@@ -378,6 +386,52 @@ def parse_springer(root, cutoff, journal_name='International Journal of Educatio
 
     return articles
 
+def parse_scholastica(root, cutoff, feed):
+    """Parse a Scholastica-hosted RSS 2.0 feed (e.g. JOIDAT).
+
+    Item shape: <title>, <link> (article landing page), <description> (abstract
+    teaser), <pubDate> (RFC 822) and <guid> holding the DOI URL. The feed never
+    carries author names, so `authors` stays empty and the scan reads the article
+    page for them. Scholastica journals published through this platform are fully
+    open access (CC BY).
+    """
+    journal_name = feed.get('journal', feed['name'])
+    articles = []
+    for item in root.findall('.//item'):
+        title = clean(item.findtext('title') or '')
+        link = clean(item.findtext('link') or '')
+        if not title or not link:
+            continue
+        # Corrections, retractions and errata are notices about an existing
+        # article, not new work: skip them (the feed opens with one).
+        if any(w in title.lower() for w in ['correction', 'corrigendum', 'retraction', 'erratum']):
+            continue
+        desc = clean(item.findtext('description') or '')
+        parsed_date = parse_date(item.findtext('pubDate') or '')
+        # RFC 822 pubDates carry an offset; the cutoff is naive local time, so
+        # an aware datetime cannot be compared with it. Compare in UTC.
+        if parsed_date and parsed_date.tzinfo:
+            parsed_date = parsed_date.astimezone(timezone.utc).replace(tzinfo=None)
+        if parsed_date and cutoff and parsed_date < cutoff:
+            continue
+        doi = ''
+        m = re.search(r'doi\.org/(\S+)', clean(item.findtext('guid') or ''))
+        if m:
+            doi = m.group(1)
+        articles.append({
+            'title': title,
+            'url': link,
+            'authors': [],
+            'doi': doi,
+            'date': parsed_date.strftime('%Y-%m-%d') if parsed_date else '',
+            'summary': desc,
+            'journal': journal_name,
+            'source': feed.get('source_id', 'scholastica'),
+            'open_access': True,
+        })
+    return articles
+
+
 PARSERS = {
     'parse_caeai': lambda root, cutoff, feed: parse_caeai(
         root, cutoff,
@@ -387,6 +441,7 @@ PARSERS = {
     'parse_springer': lambda root, cutoff, feed: parse_springer(
         root, cutoff, journal_name=feed.get('journal', feed['name'])),
     'parse_bjet': lambda root, cutoff, feed: parse_bjet(root, cutoff),
+    'parse_scholastica': lambda root, cutoff, feed: parse_scholastica(root, cutoff, feed),
 }
 
 
