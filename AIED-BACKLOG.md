@@ -22,6 +22,10 @@
 
 ## British Journal of Educational Technology (BJET)
 
+## Journal of Instructional Design and Technology (JOIDAT)
+
+_No articles pending as of 2026-09-20._
+
 ## Ingested pages whose source text is truncated (PDF needed)
 
 These 54 pages are already in the knowledge base, but their saved full text
