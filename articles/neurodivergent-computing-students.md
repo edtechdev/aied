@@ -20,6 +20,19 @@ confidence: high
 
 The findings connect to broader concerns in [[equity-in-ai-education]] and [[equity-in-ai-education]]: as [[intelligent-tutoring|AI tutors]] and collaborative AI tools enter computing classrooms, their interaction models may inadvertently replicate the same structural ambiguities that disadvantage neurodivergent learners. The preference for defined roles and predictable structures mirrors themes in [[special-education]] about explicit [[scaffolding]]. For [[cs-education]], the study provides actionable design recommendations: instructors should provide structured assignments, use smaller consistent teams, and allow role self-selection. While preliminary (n=24), this is among the first studies to center neurodivergent voices in computing education [[research-methods-aied|research]], contributing to more [[student-experience|student-centered]] approaches to [[collaborative-learning]].
 
+## What this means for practice
+
+- **Learners.** Ask for recurring teams instead of one fixed semester-long group: 50% of neurodivergent students reported some discomfort with semester-long teams compared with 22% of neurotypical students.
+- **Instructors.** Provide fully structured assignments and define team roles explicitly: 87.5% of neurodivergent respondents were comfortable with fully structured assignments versus 16.67% with no structure provided, and interviewees described role assignment as reducing anxiety about the workload.
+- Keep teams small and stable — neurodivergent students preferred working with 3-4 people who meet on a recurring basis, which limits repeated social negotiation.
+- Do not treat self-disclosure as the default accommodation route; students described anonymous disclosure of access needs as a way to receive support while avoiding the emotional cost and stigma risk of naming a diagnosis.
+
+## Limitations
+
+- The survey drew 44 responses (24 neurodivergent, 20 neurotypical) plus 4 interviews, recruited by convenience sampling through computing-related Discord servers and Slack channels at multiple North American universities.
+- Only two neurodivergent identities were represented — students on the autism spectrum and students with ADHD — and the authors state the findings are not meant to generalize to the broader neurodivergent computing student population.
+- Comfort findings come from self-reported seven-point Likert ratings, and the qualitative evidence rests on 4 interviews, so the authors present the results as preliminary trends rather than validated effects.
+
 ## Connected Concepts
 
 - [[equity-in-ai-education]]

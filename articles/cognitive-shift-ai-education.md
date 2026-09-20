@@ -34,14 +34,6 @@ page_kind: [evaluation]
 
 This is a striking reversal from 2020, when AI was slightly favored.
 
-## Implications for AI Literacy and Learner Autonomy
-
-The findings directly challenge the assumption that increased AI exposure leads to increased AI trust. Instead, sustained use produces a more nuanced — and more skeptical — relationship. The design-oriented course's 90% HI preference suggests that **[[pedagogy|pedagogical]] framing matters**: courses that teach students to think critically *about* AI (not just *with* AI) accelerate this cognitive shift.
-
-This connects to [[contextual-sycophancy-ai-literacy]], which found that [[ai-literacy|AI literacy]] interventions alone may be insufficient to prevent [[cognitive-offloading|over-reliance]]. The cognitive shift documented here suggests a longer-term developmental trajectory: epistemic recalibration happens through immersion, not instruction.
-
-The paper's emphasis on **learner autonomy** and **epistemic agency** ties directly to [[genai-performance-vs-learning]], which warns that AI tools can improve task performance while undermining learning. The shift toward HI preference may reflect students' growing awareness of this tradeoff.
-
 ## Connections to Faculty Development
 
 For instructors, these results suggest that [[ai-education|AI education]] should explicitly surface the **value of human cognition** rather than treating AI as a neutral productivity tool. The [[ai-pedagogical-orientation]] framework shows that faculty AI orientation strongly predicts adoption — this paper adds that student orientation evolves dynamically and may benefit from [[curriculum-design|curricular]] [[scaffolding]].
@@ -52,6 +44,21 @@ For instructors, these results suggest that [[ai-education|AI education]] should
 - **Poll-based measurement** of HI vs. AI valuation
 - **Longitudinal design** spanning 6 years (2020–2026)
 - Workshop paper (ICLR HCAIR), not yet peer-reviewed at a major venue
+
+## What this means for practice
+
+- **Learners.** Reassess your own stance on purpose instead of letting it drift with exposure: the reversal toward HI appeared only after sustained use, and the authors' reading of it is a reappraisal of [[pedagogy|pedagogical]] framing — courses that teach students to think critically *about* AI, not just *with* it, accelerate the shift.
+- **Learners.** Treat AI use as a test of your [[cognitive-offloading|epistemic agency]] rather than a productivity default: the authors warn against sliding into dependency and argue that the point of the shift is to use AI for higher abstraction and [[metacognition]] without relinquishing foundational cognitive skills.
+- **Instructors.** Teach critical evaluation *about* AI inside the course where students use it, not in a separate literacy module: preference for HI climbed 36 percentage-points from 2025 in the design-oriented course (90%) against 12 percentage-points in the technical course (65%), and the paper attributes the sharper swing to how the course framed human intelligence.
+- **Instructors.** Collect an entering-beliefs poll in the opening lecture, before technical instruction, so the course's own starting point is visible — the original protocol used one anonymous forced-choice question at the first session of each course.
+- **Faculty developers.** Plan for the whole trajectory rather than for tool training: the paper frames the four phases (hype, distrust, trust, dependency) as a path to guide learners toward the trust phase while actively preventing a slide into dependency, which implies [[curriculum-design|curricular]] attention to judgment, synthesis, and moral reasoning under pervasive AI assistance.
+
+## Limitations
+
+- The evidence is a single forced-choice question administered to opportunistic classroom cohorts; the authors state it "does not support population-level inference or causal claims."
+- The 471 students were polled at the start of AI-focused courses between 2020 and 2026, with sparse observations the authors describe as not population-representative — there is no control condition and no individual-level follow-up.
+- The prompt itself is the measurement: a binary machine-intelligence-versus-human-intelligence choice necessarily simplifies a multidimensional relationship and may amplify contrast between the two.
+- Cohort composition, institutional context, and contemporaneous social or technological factors may each contribute to the observed pattern, and the four phases are offered as conceptual lenses that may overlap or recur, not as universal sequential stages.
 
 ## Connected Concepts
 

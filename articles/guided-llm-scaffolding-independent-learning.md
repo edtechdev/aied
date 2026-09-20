@@ -28,9 +28,20 @@ discipline: [math education]
 
 The design distinguishes between *assigned LLM access* and the *quality of students' actual interaction* with the model. The three balanced conditions isolate the effect of guidance: because the guided and unrestricted groups used the same platform, differences can be attributed to training and usage rules rather than tool availability. The use of LLM-free quizzes and a delayed final exam provides a no-help measure of whether AI-supported practice transferred to independent performance.
 
-## Implications for AI in Education
+## What this means for practice
 
-The central conclusion is that **LLM access alone is an incomplete educational intervention**: for [[intelligent-tutoring|AI Tutoring]] and [[curriculum-design]], the design challenge is to scaffold how students use LLMs so that these systems function as partners in reasoning rather than answer-getting tools. The findings support investing in [[prompt-engineering]]-style training and help-seeking guidance, and align with concerns about [[cognitive-offloading|Over-Reliance]] when access is unrestricted — while noting that the study's modest scale and single-course context warrant replication.
+- **Instructors.** Scaffold how students use the model rather than simply granting access: the guided and unrestricted groups shared the same platform, and the guided group showed higher rule-following compliance (2.43/6 vs. 3.21/6, d = 0.81, p = .025) driven mainly by process-oriented [[help-seeking]] and stepwise hints, while conceptual explanation was common in both groups.
+- **Instructors.** Keep high-stakes assessment LLM-free so assisted practice is not mistaken for learning: every quiz and the delayed final exam in this design was completed without LLM or external assistance, and unrestricted access supported practice-task completion more than independent no-help performance.
+- **Learners.** Preserve the reasoning work by asking for stepwise hints rather than final answers and by working in more turns: guided sessions contained more user turns on average (17.21 vs. 10.54) and more user text (2,645 vs. 1,410 characters).
+- **Designers.** Build [[prompt-engineering|prompt]] starters, hint-first workflows, reflection checkpoints, and verification checklists into the platform, since active-learning and verification behaviors were only partially adopted even after training — higher-agency strategies require stronger [[scaffolding]].
+- **Instructors.** Teach calibrated trust explicitly — when to rely on, question, or verify a model explanation — because the guided group had the highest well-calibrated rate (43%) and the strongest self-assessment–performance correlations, an [[ai-literacy|AI literacy]] gain rather than mere confidence.
+
+## Limitations
+
+- The final analytic sample was 37 of the 57 students who began the program (No-LLM 13, Unrestricted-LLM 12, Guided-LLM 12), after excluding students who missed two or more topic cycles, limiting statistical power.
+- Groups were balanced after Week 1 on prior Practice and Quiz scores rather than randomized, so the outcome findings are promising associations rather than definitive causal estimates, the final-exam comparison was directional rather than statistically confirmatory, and behavior-based regrouping moved two students in each LLM condition between guided and unguided categories.
+- Practice time was self-reported and transcript coding required human judgment despite five graders, and the Guided-LLM group received additional training and reminders that may have introduced attention, expectancy, or demand effects.
+- The study ran as a single four-week summer program in one undergraduate Probability and Statistics course at one university, so transfer to full-semester courses and other disciplines is untested.
 
 ## Connected Concepts
 

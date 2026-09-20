@@ -46,11 +46,20 @@ The design process was organized around the three stages of the pairing process 
 
 **After pairing.** The two challenges in this stage address ensuring smooth transitions back to [[self-regulated-learning|individual learning]] and evaluating collaboration outcomes to improve future pairings — underscoring that orchestration is an ongoing, iterative loop rather than a one-time event.
 
-## Implications
+## What this means for practice
 
-For the design of analytic-based classroom orchestration tools, the findings argue for a **phased, graduated-autonomy model**: begin with structured teacher guidance to establish classroom order and pairing quality, then progressively cede control to students as activities unfold and as learners demonstrate readiness and self-[[regulation]]. The convergence of both stakeholders on shared-control options — rather than either pole — is the central design signal: hybrid control tools should treat teacher authority and student autonomy as complementary dimensions, per the Eshel–Kohavi framing, rather than as a zero-sum tradeoff.
+- **Instructors.** Phase the handover of control instead of fixing it once: keep structured teacher guidance through preparation and initiation, then cede decision-making to students as the activity unfolds and learners demonstrate readiness and [[self-regulated-learning|self-regulation]].
+- **Instructors.** Gate the shift to collaboration on a readiness signal rather than the schedule — both teachers and students ranked "When students are ready" highest of the timing options, a mechanism that preserves teacher oversight while respecting student pacing.
+- **Instructors.** Assign partners yourself but leave role choice open: students ranked "Teacher decides" highest for partner assignment, while teachers favored "Teacher assigns, student chooses role," giving students input where it costs the pairing quality nothing.
+- **Instructors.** Keep content selection hybrid — propose the material and let students decide, or take their proposal and decide yourself — since both groups ranked full student choice lowest, citing immaturity and the risk of avoiding productive challenge.
+- **Instructors.** Automate supervision of collaboration quality so pairing does not add to your workload: teachers favored system detection of keywords and students favored an in-system help option for getting unstuck.
 
-For [[k-12]] practitioners and system designers, the study validates concerns that AI systems optimizing for efficiency can erode student [[agency]] and [[self-regulated-learning]] and can undermine teacher professional judgment. Practical guidance includes implementing a "ready to collaborate" signal to sequence transitions, offering limited student choice over roles and content within teacher-set parameters, and embedding automated supervision and assistance to sustain productive collaboration without overloading instructors. For researchers, the three-stage, multi-stakeholder design-space method offers a template for eliciting hybrid-control preferences in other orchestration contexts, and it bridges the [[collaborative-learning]] and [[human-in-the-loop-ai]] communities that have often addressed agency questions separately.
+## Limitations
+
+- The sample is small and self-selected: 30 participants (17 teachers and 13 students) recruited through network connections, snowballing and social media, with Phase 1 running 5 co-generation sessions and Phase 2 running 25 evaluation sessions.
+- The study captures stated preferences rather than classroom [[agency|agency]] in action: participants ranked 34 storyboard design ideas, 4 to 7 per challenge, in one-hour Zoom sessions and explained their reasoning, so no pairing decision was observed or measured in a live classroom.
+- The design space is knowingly incomplete: the authors state that certain regions, such as the challenge with full student control, remain unmapped.
+- The context is narrow — K-12 mathematics, pairing students inside an [[intelligent-tutoring|intelligent tutoring system]] that tracks mastery with [[knowledge-tracing|Bayesian knowledge tracing]] — so the rankings may not transfer to other subjects, ages, or tool designs.
 
 ## Connected Concepts
 

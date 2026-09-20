@@ -23,13 +23,6 @@ institutions: [educational-policy-ai]
 4. **Incentives for fair use** — motivations for appropriate and [[ethics|ethical]] AI usage
 5. **Flexibility of objectives** — organizational ability to adjust goals with AI integration
 
-## Relevance to AI in Education
-While framed broadly, the implications for [[teacher-role|teachers]] and educational institutions are direct. The learning curve factor is particularly salient: if practitioners cannot adapt quickly, AI tools may reduce rather than increase productivity — a finding that echoes [[cognitive-offloading-speedup-illusion|the cognitive offloading speedup illusion]] where users overestimate AI's time-saving benefits.
-
-The incentives factor connects to concerns in [[academic-integrity]] — if students and teachers lack incentives for fair AI use, productivity gains may be captured by surface-level efficiency while deeper learning suffers. The framework complements [[genai-assessment-governance|GenAI assessment governance]] by highlighting that technical capability alone is insufficient without attention to the human systems within which AI is deployed.
-
-For [[higher-ed]] institutions investing in AI infrastructure, this paper serves as a cautionary reminder that deployment without attention to training, incentives, and organizational readiness may fall short of promised gains — a finding consistent with [[ai-fatigue-academic-contexts|research on AI fatigue]] among students.
-
 ## What this means for practice
 
 - **Instructors.** Budget for the learning curve before promising time savings: if practitioners cannot adapt quickly, AI tools may reduce rather than increase productivity — the same overestimation pattern documented in [[cognitive-offloading-speedup-illusion]].

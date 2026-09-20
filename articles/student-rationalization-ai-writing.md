@@ -54,12 +54,20 @@ A striking finding is that continued AI use was **not always driven by indiffere
 
 AI-assisted writing lets students **reinterpret harm, authorship, responsibility, and contribution in unusually flexible ways**. Unlike traditional plagiarism (which involves a human victim), students can claim no victim exists. They claim ownership when AI output supports credit but distance themselves when it creates plagiarism or policy risks — externalizing responsibility in ways that echo **moral disengagement** (Bandura). This makes authorship contingent on context rather than stable.
 
-## Implications
+## What this means for practice
 
-1. **Policy alone is insufficient.** Because rationalizations are post hoc and the five sites diverge, writing clearer policies or escalating detection will not close the gap — interventions must operate at the sites where interpretation and practice form.
-2. **Design assignments for ethical reasoning, not just detection.** Educators should account for rationalization patterns in assignment and policy design, complementing detection-based approaches.
-3. **Build [[ai-literacy|AI literacy]] that includes ethical reasoning.** Students' ethical frameworks are underdeveloped and self-serving; explicit instruction should address the moral dimension of AI use, not just technical capability.
-4. **Avoid purely prohibitive policies.** Strict bans can intensify moral conflict and may not prevent use; pedagogy-led approaches that help students reason through authorship and harm are more promising.
+- **Learners.** Write out your own AI-use rule before a deadline forces the question, and check it against the course's formal policy — the study finds at least five sites where expectations diverge, and students' own normative views frequently depart from what the syllabus says.
+- **Learners.** Notice which justification you reach for first ("no human victim," "it's just busywork," "the ideas are still mine") and test it deliberately: the 23 rationalizations catalogued here were ad hoc and post hoc, used to explain behavior rather than to guide it.
+- **Learners.** Raise authorship questions with the instructor early. Students who wanted to obey a strict "never use AI" rule still used AI and reported genuine moral distress, so a prohibition on paper is not the same as a decision you can actually keep.
+- **Instructors.** Teach [[ethics|ethical]] reasoning about authorship and harm explicitly, not just the rules: students' justifications were underdeveloped and self-serving, and writing clearer policy or escalating [[ai-detection|detection]] will not close a gap that opens at interpretation and practice.
+- **Instructors.** Design assignments that make students account for their reasoning about contribution and harm, since purely prohibitive policies intensified moral conflict rather than preventing submissions.
+
+## Limitations
+
+- The sample is 20 undergraduate students from 12 U.S. universities (15 female, 5 male), all self-reporting AI use at "sometimes" or higher on a screening survey, so students who avoid AI and broader populations are not represented.
+- Instructors were never interviewed, so the authors cannot determine how faculty intended students to interpret or apply classroom AI policies — the "faculty intention" site is inferred rather than measured.
+- The behavioral evidence is self-report plus uneven documentation: not all participants supplied their syllabi, submitted assignments, and AI logs, which the authors say may limit the ability to fully capture their practices.
+- The findings describe a U.S. undergraduate writing context, and the authors interpret the rationalization taxonomy as a starting point requiring study in other writing-centered populations.
 
 ## Connected Concepts
 

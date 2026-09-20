@@ -24,6 +24,21 @@ page_kind: [framework, evaluation]
 - The workflow preserves qualitative depth while adding statistical power
 - Implications for [[learning-analytics]] and [[student-experience]] research methodology
 
+## What this means for practice
+
+- **Researchers.** Treat the model as an additional rater rather than ground truth: label a sample by hand as well, compute Cohen's kappa against the LLM at each time point (this study reported κ = 0.52 to 0.67), and reexamine quotations where the two disagree.
+- **Researchers.** Partition sentiment counts by each identity and lived-experience variable and run the tests per partition (Shapiro-Wilk for normality, then Student's t-test or the Wilcoxon rank-sum test) instead of reporting one pooled trend — only prior experience living abroad produced statistically significant differences across all three reflection time points.
+- **Researchers.** Keep manual quote extraction in the pipeline and delegate only the well-scoped labeling task; the LLM produced irrelevant quote lists here, so all analyzed quotations were extracted by hand.
+- **Researchers.** Budget for prompt iteration, output filtering, and the scripting and data-management setup before promising laboratory efficiencies — the study's prompts needed repeated tuning, the model produced extraneous commentary and duplicate labels for single quotes, and the authors question the payoff for small or one-off datasets.
+- **Researchers.** Use human–LLM divergence as an analytic resource: here the model assigned affect to statements the human coder read as neutral and descriptive, and those disagreements drove inter-rater discussion that sharpened coding criteria.
+
+## Limitations
+
+- The 151 reflections came from 51 of 80 students at a single large, research-intensive institution in the southwestern United States.
+- Measured effects were small to medium (Glass rank biserial coefficients from -.289 to .383 for the significant comparisons), so findings may not extend to other study abroad programs, particularly language immersion programs or longer stays.
+- The program was a month-long condensation of a semester-long course, and the analysis used three of the four reflection time points (two students omitted Reflection 3), with free time and pre-program arrival in Japan likely shaping what students wrote.
+- Model agreement was weakest at the first time point: 20% of Llama3's sentiment labels for Reflection 1 were not identified by the human coder, compared with 8% for Reflection 3 and 7% for Reflection 4.
+
 ## Connected Concepts
 
 - [[higher-ed]]

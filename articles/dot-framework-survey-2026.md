@@ -1,7 +1,7 @@
 ---
 title: "Practitioner beliefs and behaviors in AI-enhanced education: DOT framework survey evidence"
 created: "2026-05-29T19:01:35-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T08:17:35-04:00"
 type: article
 foundations: [ai-education, ai-literacy, design-thinking, teacher-role]
 technology: [human-in-the-loop-ai, open-source]
@@ -20,9 +20,9 @@ institutions: [change-management]
 
 ### Three-Factor Belief Structure
 Exploratory factor analysis of 19 Likert-scale items yielded a three-factor structure with strong reliability (overall α = .90):
-1. **AI Functional Capabilities** (α = .91) — perceived utility of AI tools for teaching tasks
+1. **AI Functional Capabilities** (α = .910) — perceived utility of AI tools for teaching tasks
 2. **Oversight and Governance** (α = .79) — need for human supervision, policy frameworks, and critical evaluation
-3. **Instructor Collaboration and Planning** (α = .85) — value of teamwork in AI integration design
+3. **Instructor Collaboration and Planning** (α = .851) — value of teamwork in AI integration design
 
 This factor structure provides a psychometric anchor for understanding how educators conceptualize AI's role — not as a monolithic "good or bad" judgment but as differentiated beliefs spanning capability, governance, and collaborative practice.
 
@@ -43,11 +43,20 @@ The DOT Framework integrates **Design Thinking stages** (Empathize → Define �
 
 This study provides the *first empirical evidence* supporting DOT as a descriptive model — practitioners' beliefs and behaviors partially map to its structure, but the gaps (needs assessment, feedback) reveal where the model is aspirational rather than descriptive of current practice.
 
-## Implications for ai-education
-- **Measurement**: The 19-item belief scale offers a validated starting point for [[ai-ed-evaluation]] studies
-- **[[educational-development|Professional Development]]**: Training should target the full design cycle, not just tool use — especially needs assessment and feedback integration
-- **Policy**: Institutional AI strategies need to address governance concerns while building on practitioners' existing favorable dispositions
-- **Future [[research-methods-aied|Research]]**: Confirmatory factor analysis needed; outcome-based studies linking DOT-aligned practices to instructional quality
+## What this means for practice
+
+- **Instructors.** Extend AI use beyond prompting and content generation into both ends of the design cycle: structured prompting with progressive refinement was the most widely used technique (n = 59, 81.9%), while needs assessment and feedback loops lagged.
+- **Instructors.** Treat AI as a fallible intern: review every output, keep the instructor as the epistemic authority, and experiment deliberately rather than delegating higher-order thinking.
+- **Faculty developers.** Prioritize training on evaluating bias and the limits of AI responses: 62.5% (n = 45) ranked it a top priority, against four respondents (5.6%) who called it unimportant.
+- **Administrators.** Treat policy, training, and infrastructure as prerequisites for AI integration rather than add-ons: each institutional barrier was selected by at least 38% of respondents, and no single challenge dominated in isolation.
+- **Researchers.** Start from the 19-item belief scale (overall α = .90) for [[ai-ed-evaluation|measurement]], but run confirmatory factor analysis before treating the three-factor structure as settled.
+
+## Limitations
+
+- The sample (n = 72) is small and self-selected, skewed toward highly engaged AI users in higher-education instructional roles; K-12 educators and student support professionals are underrepresented.
+- Self-report data allow social desirability bias, particularly on the items about critical evaluation and oversight of AI outputs.
+- The cross-sectional design cannot capture the iterative design, prototype, test, and revise processes the DOT Framework treats as central.
+- The three-factor solution is exploratory and hypothesis-generating, ceiling effects in the Oversight and Governance items reduced discriminative power, and some items did not load cleanly onto any factor.
 
 ## Connected Concepts
 
