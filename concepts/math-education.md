@@ -1,7 +1,7 @@
 ---
 title: Math Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
@@ -118,3 +118,7 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
+- [[llm-distractor-generation-student-reasoning-2026]] — algebra misconception-based distractor generation on the Eedi dataset
+- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models

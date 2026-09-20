@@ -1,7 +1,7 @@
 ---
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -146,3 +146,4 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting literacy and intrinsic motivation drive deep revision while external mandates have no direct effect (Li & Zhang 2026)
+- [[swim-student-writing-simulation-2026]] — student writing simulation conditioned on trait-level proficiency profiles

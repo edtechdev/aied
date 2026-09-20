@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -98,3 +98,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
+- [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate

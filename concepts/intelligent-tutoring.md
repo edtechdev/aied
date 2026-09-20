@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -191,3 +191,6 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[lftutor-logical-fallacy-education-2026]] — an LLM tutor for logical fallacies with verified intent-based strategy execution
+- [[caeai-ai-companions-learning-over-performance-2026]] — a design agenda for companions that prioritise learning over performance signals
+- [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving

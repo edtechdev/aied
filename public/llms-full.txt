@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 208 concepts, 1310 articles, and 32 FAQs.
+> Complete text of 208 concepts, 1317 articles, and 32 FAQs.
 
 # Concepts
 
@@ -169,6 +169,7 @@ Field-wide reviews of AI in education — the studies that survey the whole fiel
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
 - [[caruana-pre-university-ai-education-slr-2026]] — Pre-university AI education: systematic literature review of 42 studies
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[caeai-ai-companions-learning-over-performance-2026]] — a research agenda for AI companions built around learning rather than performance
 
 ---
 
@@ -1070,6 +1071,8 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
 - [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning
+
+- [[caeai-ai-companions-learning-over-performance-2026]] — designing companions that protect effortful learning
 
 ---
 
@@ -3182,6 +3185,8 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Dimension-specific critical-thinking gains in AI-supported multimodal writing (Lu et al. 2027)
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
+- [[lftutor-logical-fallacy-education-2026]] — teaching fallacy recognition through structured multi-turn dialogue
+- [[caeai-ai-companions-learning-over-performance-2026]] — learning over performance: what companions should be optimised and measured for
 
 ---
 
@@ -4401,6 +4406,9 @@ The **[[hashmi-socratic-physics-chatbot-2025|Socratic Physics Chatbot]]** provid
 
 **[[retrieval-augmented-tutoring-algorithm-kite|Retrieval-augmented tutoring]]** operationalizes Socratic principles through retrieval, anchoring each response in authoritative course content rather than relying only on the model's parametric knowledge — addressing the gap that pedagogical quality alone is insufficient without content fidelity.
 
+
+[[lftutor-logical-fallacy-education-2026|LFTutor (Shi et al., 2026)]] applies Socratic questioning to a subject where withholding the answer is the whole task: teaching laypeople to see the logical fallacy in a persuasive text they believe is valid. Its dialogue agent decomposes the learner's own argument with the Toulmin model (claim, grounds, warrant), detects the learner's intent, and then selects exactly one of four strategies - Responding, Evidence, Assumption, Refutation - in a fixed priority order that mirrors the Toulmin structure, with a separate verifier agent checking after generation that the reply actually executed the chosen strategy and rephrasing it when it did not. The evaluation metrics are the Socratic failure modes rather than learning gains: divergence from the topic, stance change (caving to the learner's position), repetition, failure to refute, failure to ask for evidence, strategy fixation, unexplained fallacy terminology, and passive guidance. Across 1,000 simulated dialogues per framework with a GPT-4o backbone, LFTutor passed 84.5% of dialogues on average against 61.5% for a prompt that listed those same pitfalls and 31.2% for plain role-play prompting, and the ablation shows the gain is not from the Toulmin vocabulary but from verified strategy execution and intent-based selection. With 20 human participants debating the tutor, LFTutor scored significantly better on eight of nine Likert metrics, including helpfulness (4.15 against 1.65), with repetition the one dimension where the difference was not significant.
+
 ## Agency and critical use
 
 Favero et al. (2025) caution that even Socratic AI can undermine [[agency]] if students become dependent on the questioning structure rather than internalizing it. The goal is not permanent Socratic scaffolding but **scaffolded transfer** — students eventually Socratize themselves.
@@ -4463,6 +4471,7 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
+- [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework
 
 ---
 
@@ -9516,6 +9525,10 @@ Not all pedagogical shaping requires retraining. [[yasar-llms-iterative-pedagogi
 
 The lightest intervention in this family is not prompting but parameter-efficient adaptation. [[lora-finetuned-control-systems-course-qa-2026|Lu et al. (2026)]] built 360 system–user–assistant dialogues from a Linear Control Systems course, restructured answers into a Solution–Method–Teaching-Points format, and applied LoRA to Qwen2.5-3B and 7B at ranks 4, 8 and 16. Structured-output coverage moved from near zero at base to roughly 1.00, and the best configuration (7B, r = 16) reached ROUGE-L 0.4093 with bootstrap confidence intervals for the gain entirely above zero — but gain per million adapter parameters fell monotonically as rank rose, so course-level alignment is a scale-and-rank trade-off rather than a free upgrade. The metrics measure similarity and formatting, not derivational accuracy.
 
+## Approach 4: Training Simulator Roles, Not Only Tutors
+
+The same post-training machinery is now pointed at the learner side of the interaction, and the results say the supervision budget matters more than the prompt. [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]] instruction-tuned three small models to *acquire* algebra misconceptions in two roles — a Novice Student Misconception Model holding one misconception, and an Expert Tutor Misconception Model holding ten — and measured both misconception accuracy and correct-solving accuracy. The student role showed a trade-off no prompt could fix: the learned error overgeneralised beyond its applicable problem types until correct examples were explicitly mixed into the training data, at ratios as low as one correct example per four misconception examples. The tutor role showed no such cost, with correct accuracy stable or rising from 93% to 98% when ten misconceptions were trained jointly, though classroom-scale samples were insufficient and rare misconceptions would require cross-institution data. Most decisively, neither role acquired anything when trained on final answers alone — misconception accuracy stayed below 30% at every data size — so step-level solution traces, not more examples, are the binding requirement. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak and Sachan, 2026)]] reaches the mirror conclusion for a writing simulator: rubric-grounded prompting gave limited proficiency control (best average trait QWK 0.577 for Claude Sonnet, 0.422 for GPT-5.4, near zero for prompting an open 7B model), supervised fine-tuning lifted a 7B model to 0.474 ± 0.023, and GRPO against an automated-essay-scoring-derived reward lifted it further to 0.618 ± 0.005 across every trait and prompt, with the reward designed as a dense trait-normalised accuracy because exact-match rewards are too sparse in the multi-trait setting.
+
 ## Synthesis: What Makes Pedagogical Training Work
 
 | Principle | EduQwen | ISD-Agent-Bench |
@@ -9585,6 +9598,8 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
+- [[misconception-acquisition-dynamics-llms-2026]] — data composition, correct-example mixing and step-level supervision for misconception-aware models
+- [[swim-student-writing-simulation-2026]] — supervised and reward-based training beat rubric prompting for proficiency control
 
 ---
 
@@ -9719,6 +9734,10 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[zhang-ml-student-progress-programming-2026]]
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — compact learner state plus a calibrated tracer as a recommender environment
+- [[misconception-acquisition-dynamics-llms-2026]] — the Expert Tutor Misconception Model as a computational analogue of knowledge of student misconceptions
+- [[llm-distractor-generation-student-reasoning-2026]] — modeling incorrect reasoning rather than correctness
+- [[swim-student-writing-simulation-2026]] — proficiency-conditioned modeling of student writing
 
 ---
 
@@ -9746,6 +9765,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[huang-interpretable-knowledge-tracing-2026]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
+- **Semantic, recommendation-oriented KT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel and Sachan, 2025)]] grounds the *input* rather than the architecture: an LLM annotates each question with solution steps and knowledge concepts aligned to the Common Core State Standards for Mathematics, contrastive learning aligns question, solution-step and concept embeddings (with false negatives removed by pre-clustering concept variants such as "interpreting a bar chart" and "reading information from a bar graph"), and a KC-calibration loss lets the tracer predict a concept-level knowledge state directly instead of inferring one by running the model over every question in that concept. The calibrated tracer then serves as the reinforcement-learning environment for exercise recommendation, where a model-based value estimation initialises the critic from the tracer itself. Across four tasks on XES3G5M averaged over 2,048 test students, non-RL baselines gave marginal or negative knowledge gains, value-based continuous methods beat policy-based ones, and the model-based value estimate improved them consistently — most sharply on the weakest-concept task, where the target changes at every step. Reported gains are percentage-of-maximum knowledge improvement, not learning outcomes, and the pipeline depends on generated solution steps whose quality the tracer inherits.
 - **Outcome-based knowledge tracing (OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] trace student knowledge within Outcome-Based Education systems by treating **course outcomes as the knowledge concepts themselves**, and substitute expert-validated OBE "affinity mappings" between course and program outcomes for attention- or graph-derived concept relations. A Memory Augmented Neural Network (MANN) models how each outcome's attainment impacts others, and domain-adaptive BERT fine-tuning enriches the outcome embeddings (with a GRU backbone beating LSTM). On live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes) OKT reached 89.81% AUC — outperforming DKT, DKVMN, EKT, and SimpleKT — while giving only competitive results on ASSISTments, confirming the advantage is tied to OBE-specific [[curriculum-design|curriculum]] structure.
 
 ### Relationship to other concepts
@@ -9798,6 +9818,7 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
 
 ---
 
@@ -9885,6 +9906,9 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving heterogeneous multi-LLM federated diagnosis
 - [[llm-common-modeling-mistakes-formalisms-2026]] — Mining common modeling mistakes at scale with LLM-generated, algorithmically validated bug-fixing transformations (Killich et al. 2026)
 - [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: DINA-based diagnosis of 14 learning objectives from existing physics concept inventories (Le et al. 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — LLM knowledge-concept annotation and calibrated concept-level knowledge states
+- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractors as a diagnostic item-design task
+- [[misconception-acquisition-dynamics-llms-2026]] — where the error enters the solution is the diagnostic bottleneck
 
 ---
 
@@ -9941,6 +9965,8 @@ A recurring question is whether simulating a distribution of learners is the bes
 
 Two 2026 threads sharpen the practical value of simulation. First, **authentic-data student models** — [[teachlm-post-training-llms-education|TeachLM]] trains a student model on 100,000 hours of real one-on-one tutor–student interactions (with rigorous anonymization), producing synthetic learners that enable fast, scalable, reproducible multi-turn evaluation of tutor behavior; this addresses the low authenticity and diversity of purely prompt-engineered student simulators. Second, **interactive instructional simulacra** — [[educasim-cs1-instructional-practice|EducaSim]] uses generative agents (with personas, course-grounded memories, and an LLM-as-judge speech oracle) to simulate a small-group section for teachers-in-training, adding runnable-code and voice interaction plus structured post-session feedback and self-reflection, and demonstrates low-cost, positive-uptake experiential [[pedagogy|teaching practice]] at the scale of massive [[online-teaching-and-learning|online courses]]. Both point to simulation serving not only evaluation but hands-on teacher preparation.
 
+A third 2026 thread concerns *how* a simulator is built rather than what it is used for, and it converges on one conclusion: prompting sets a ceiling that training removes. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak and Sachan, 2026)]] reformulates student writing simulation as proficiency-conditioned essay generation and compares rubric-grounded prompting, supervised fine-tuning on real score-essay pairs, and GRPO with an automated-essay-scoring-derived Proficiency Alignment Reward, scoring each generated essay against its target trait profile with Quadratic Weighted Kappa. Prompting gave limited control even to strong proprietary models (best average trait QWK 0.577 for Claude Sonnet, 0.422 for GPT-5.4, near zero for prompting an open 7B model), it aligned content-oriented traits far better than form (0.695 against 0.458), and it produced an idealised high-proficiency population, with a mean normalised Overall score of 0.74 against 0.58 for real students and a median length of 304 words against 167. Supervised fine-tuning moved a 7B model to 0.474 ± 0.023 and GRPO to 0.618 ± 0.005, the gains held on two independent scorers the policy never trained against, and the trained models recovered the human score and length distributions without any length supervision; authentic low-proficiency form stayed hardest, since trained models recovered syntax but wrote too few spelling and grammar errors while prompting simulated weakness mainly through superficial corruption. The same lesson arrives from the opposite direction in [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]], who instruction-tuned three small models to hold algebra misconceptions: data *composition* decided the outcome, because a single misconception overgeneralised and degraded correct solving until correct examples were mixed in, several misconceptions trained jointly without cost, and no misconception was acquired from final-answer-only supervision at any data size, leaving step-level solution traces as the binding requirement.
+
 ### Auditing AI with simulated students
 
 Beyond evaluating pedagogy, simulated students serve as a **test harness for auditing AI systems themselves** — a controlled way to probe how an AI behaves across diverse learner profiles before it touches real students. [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] illustrate this: they generated 4,500 synthetic student vignettes with three LLMs to audit whether current [[llm|large language models]] can act as prescriptive [[learning-analytics]] recommenders, finding limited sensitivity to student need and sharp cross-model inconsistency. Using simulated cohorts to stress-test an AI's recommendations (rather than only to train or evaluate tutors) is a growing role for the paradigm, closely tied to [[ai-ed-evaluation|evaluating AI in education]] and to [[equity-in-ai-education]] when the audit is meant to surface disparate treatment across learner types.
@@ -9996,6 +10022,9 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
 - [[agent-based-educational-science-2026]] — Toward Agent-based Educational Science: the simulation apparatus as the research instrument (Zhang, Jiang & Tang 2026)
 - [[meds-math-education-digital-shadows-2026]] — MEDS: a 28,000-record audit of math performance, confidence and anxiety in simulated students and AI assistants
+- [[swim-student-writing-simulation-2026]] — prompting versus SFT versus reward-based training for a student writing simulator
+- [[misconception-acquisition-dynamics-llms-2026]] — what has to be in the training data before a simulator holds a misconception at all
+- [[llm-distractor-generation-student-reasoning-2026]] — trace-level analysis of how models simulate incorrect student reasoning
 
 ---
 
@@ -10180,6 +10209,9 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[lftutor-logical-fallacy-education-2026]] — an LLM tutor for logical fallacies with verified intent-based strategy execution
+- [[caeai-ai-companions-learning-over-performance-2026]] — a design agenda for companions that prioritise learning over performance signals
+- [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving
 
 ---
 
@@ -10462,6 +10494,8 @@ Semantic recommenders replace co-occurrence with structure. [[hybrid-cf-kg-recom
 
 A third route avoids per-learner interaction data almost entirely. [[pattern-kc-programming-recommendation|Hoq and colleagues (2026)]] extract pattern-based knowledge components from each code sample and recommend related practice activities by the similarity of their knowledge-component sets. On an expert-organized corpus of introductory Python materials, the approach aligned with the instructors' own conceptual bundles and beat knowledge-component and embedding baselines on ranking metrics — evidence that instructional alignment can come from the material's semantics where learner histories are thin.
 
+A fourth route treats recommendation as a sequential decision rather than a ranking. [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel and Sachan, 2025)]] builds a semantically grounded knowledge tracer — an LLM annotates each question with solution steps and knowledge concepts, contrastive learning aligns question, step and concept embeddings, and a calibration loss lets the tracer predict a concept-level knowledge state directly — and then uses that tracer as the reinforcement-learning environment in which a policy selects the next exercise. Two design choices matter for the recommender problem specifically: the student state is a compact recurrent encoding rather than the full exercise history, so long sequences stay tractable in the replay buffer, and the reward is the change in predicted concept knowledge, computed without running inference over every question in the target concept. A model-based value estimation initialises the critic from the tracer, which improved continuous value-based agents across four tasks on XES3G5M (2,048 test students) and pushed them past discrete-action methods on the hardest one — recommending for the student's *weakest* concept, where the target changes at each step. Numbers are percentage-of-maximum knowledge improvement from a simulated environment, which is a weaker claim than measured learning, and the authors' own appendix notes that most tracing datasets record only a binary correctness label, so the misconception-level recommendation they sketch is not yet testable on existing data.
+
 ## Prerequisites and Path Sequencing
 
 Ranking a next item is easier than ordering a [[curriculum-design|curriculum]], because learning dependencies are directional. [[proprl-prerequisite-relation-learning|Cheng and colleagues (2026)]] argue that treating prerequisite discovery as ordinary link prediction fails on three properties of the relation: it is irreversible, its evidence is often multi-hop (*ci* → *ck* → *cj*) rather than a one-step learner transition, and its relevance is pair-specific, so a concept's representation should change depending on what it is paired with. Their ProPRL model adds an Irreversibility Constraint — an anti-symmetry regularizer penalizing high confidence in both directions of a pair — alongside a pair-conditioned gate weighting resource-aware evidence from a concept-resource hypergraph against behavior-aware evidence from a learning-behavior graph. It ranked first on all nine dataset–metric combinations across [[online-teaching-and-learning|MOOC]], LectureBank, and University Course datasets, improving on the strongest baseline by 1.96% to 6.11%, and the constraint raised the share of correctly ordered relations from 88.0% to 90.0%.
@@ -10529,6 +10563,7 @@ The evidence base has a consistent shape: strong offline ranking metrics, weak e
 - [[dual-ai-learning-pathways-sdt-2026]] — Autonomy support versus pressure predicting constructive or compulsive AI pathways (Shen & Arunrugstichai 2026)
 - [[ikram-ai-personalized-learning-review-2026]] — PRISMA review of personalized learning trends, pathways, and recommendation models (Ikram et al. 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: a Knowledge-Centric planning benchmark showing LLMs reach 90.9% validity but only 44.3% adaptivity (Liu et al. 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — exercise recommendation as a sequential decision over a semantically grounded tracer
 
 ---
 
@@ -11646,6 +11681,10 @@ Math education sits within the broader [[stem-education]] domain with distinctiv
 - [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
+- [[gpt4-handwritten-math-exam-grading-2026]] — GPT-4 grading of semi-open handwritten university mathematics answers
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantic knowledge-concept annotation and RL exercise sequencing on K-12 math corpora
+- [[llm-distractor-generation-student-reasoning-2026]] — algebra misconception-based distractor generation on the Eedi dataset
+- [[misconception-acquisition-dynamics-llms-2026]] — algebra mal-rule training dynamics in language models
 
 ---
 
@@ -12466,6 +12505,7 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 motivation, engagement and performance (Lu et al. 2026)
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts
 - [[empowerment-ai-assisted-deep-revision-efl-writing-2026]] — Prompting literacy and intrinsic motivation drive deep revision while external mandates have no direct effect (Li & Zhang 2026)
+- [[swim-student-writing-simulation-2026]] — student writing simulation conditioned on trait-level proficiency profiles
 
 ---
 
@@ -14259,6 +14299,8 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test for learning outcomes in the AI era (Saleh 2026)
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
+- [[gpt4-handwritten-math-exam-grading-2026]] — AI grading of semi-open handwritten answers
+- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractor design for multiple-choice items
 
 ---
 
@@ -15448,6 +15490,9 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 
 - **Selective automation for handwritten [[chemistry-education|chemistry]] (2026):** [[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros & Kortemeyer]] graded a 296-student handwritten general-chemistry final page-by-page against rubric images with a multimodal, reasoning LLM, achieving high run-to-run reliability on total scores (ICC(A,1) = 0.967) and strong total-score agreement with TA grading (R² = 0.91). Because item-level reliability varied sharply by format — textual and chemical-reaction answers graded reliably while drawing and graphing scored worse than random — raw agreement was judged inadequate for high-stakes use. They operationalize [[human-in-the-loop-ai|human deferral]] through confidence filters (partial-credit thresholds, an [[item-response-theory|IRT]]-based risk threshold, and problem-type exclusion) that convert raw AI scores into an accept/deferral policy, and show that false positives (AI crediting genuinely wrong answers) tend to go undetected since students rarely contest them — a concrete [[psychometrically-aware-ai|psychometrically grounded]] route to selective automation ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 
+
+- **Semi-open handwritten mathematics in a university exam (2026):** [[gpt4-handwritten-math-exam-grading-2026|Liu et al.]] graded a German undergraduate mathematics exam with GPT-4 across two extraction routes (pre-cut answer boxes versus whole pages), two optical-character-recognition routes and two rubric formats, reporting Krippendorff's alpha against human grades of 0.22-0.44 with accuracy 0.59-0.62 on the best workflows and per-problem accuracy spanning 0.27-0.91 - not acceptable for high-stakes summative use. Itemising multi-criteria grading rules generally did not improve agreement (it helped the partial-credit problem), free grading without a rubric was far worse (accuracy 0.50-0.51), and a probabilistic confidence filter meant to flag grades for human re-checking did not significantly improve accuracy while wrongly flagging 7-41 percent of responses as reliable. The study's transferable lesson is procedural: scan and transcribe the whole exam sheet with markers rather than cropping answer boxes, because students write across box borders; rewrite grading rules written for teaching assistants, since the model attempted unrequested derivations from a rule meant for a human; and note that the human-grading rules themselves paraphrased at an alpha of 0.88 among five variants, so prompt robustness is not the bottleneck.
+
 - **LLM comparative judgment for writing screening (2026):** Mercer & Reed used seven LLMs as pairwise comparative judges to score informational writing from 1,208 students in Grades 3–6 across three screening occasions. LLM-CJ scores correlated strongly with analytic rubric scores (r = .67–.73, strongest for Gemini-3.1 Pro) with AUC .82–.86 for proficiency; findings were stable across models, with little validity gain from costlier, more capable ones, while averaging three writing samples improved accuracy — sampling breadth mattered more than model choice. Predictive-bias patterns for [[multilingual-learning|multilingual learners]] matched human rubric scoring, supporting LLM-CJ as an efficient, low-cost screening approach ([[llm-comparative-judgment-writing-screening-2026]]).
 
 - **Quality-dependent alignment with instructor grading (2026):** Comparing ChatGPT, peers, and an instructor grading the *same* undergraduate [[group-work|group projects]], [[usher-faraon-who-grades-best-2026|Usher & Faraon found]] ChatGPT's alignment with the instructor *improved as project quality increased* — its largest overestimation was for low-quality work (≈ +14 points), shrinking to ≈ +2.5 points for high-quality projects. ChatGPT also graded higher on average than both peers and the instructor, a grade-inflation tendency that undermines its reliability as a standalone summative grader, especially for weaker submissions.
@@ -15538,6 +15583,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: three reliability upgrades for LLM-based scoring of open-ended responses
+- [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
 
 ---
 
@@ -15577,6 +15623,9 @@ Automated Essay Scoring has a long history in educational technology, from early
 
 **The human [[benchmark]], and what it can and cannot license.** [[opraise-automated-marking-ai-assessment-2026|The OpRaise study]] is the strongest test in this knowledge base of whether LLM marking is ready for routine use, and its answer turns on the benchmark rather than the model. It compared three frontier systems (Claude Opus 4.6, GPT-5.4, Gemini 3 Flash), each under 27 prompt configurations crossing rubric specificity, calibration and scoring strategy, against the moderated marks of 761 authentic Psychology essays from 125 students at three UK [[higher-ed|universities]]. Human marks were adopted as ground truth because academic judgment is the socially accepted standard, and the authors note that human markers agree only moderately with each other — which bounds how strong AI–human agreement could reasonably be demanded to be. Against that benchmark, agreement on the UK degree band ranged from **35 to 65 percent by institution** (63 percent at Cambridge, 53 percent at Nottingham, 35 percent at Manchester Metropolitan) and did not transfer between them, so the report's central recommendation is local validation on an institution's own [[assessment]] materials. Two findings generalize beyond this corpus. First, reliability and agreement pull apart: every model re-marked nearly identically (ICC 1.00, 1.00, 0.97) and the models agreed with each other more closely than with humans (three-model ICC 0.91), yet all three agreed on the degree band for only **56 percent** of submissions — self-consistency is not validity. Second, AI marks compressed toward the middle of the scale (a compression score of 0.47–0.82, with the crossover where AI and human agree on average sitting in the upper 50s to low 60s), making AI least accurate precisely at the grade boundaries that separate Firsts from Upper Seconds and passes from fails. Vocabulary range, connectives, sentence complexity and text length predicted AI marks with small but significant effects while their relationship with human marks was broadly negligible — a direct demonstration of the [[ai-scoring-language-bias-physics|linguistic-bias]] concern, and one that no prompting strategy tested removed.
 
+
+**AES as a training signal rather than a judge.** Scoring models are usually studied as evaluators, but SWIM uses one as a reward function: [[swim-student-writing-simulation-2026|Do, Kontak and Sachan (2026)]] freeze a multi-trait AES verifier and score it against generated student essays, turning the predicted trait profile into a dense per-essay reward (the mean trait-normalised distance from the target profile) for GRPO, deliberately not the Quadratic Weighted Kappa metric itself, because QWK is defined over a batch of target-prediction pairs and is not a per-sample signal, while exact-match rewards are too sparse in the multi-trait setting. The gains were re-checked against a DeBERTa scorer and an evaluation-only verifier the policy never trained against (0.598 versus 0.479 for SFT, and 0.647 versus 0.501), which is the check that separates genuine proficiency control from adaptation to the reward model. For AES research this is a second validity demand: a scorer used as a training target is being optimised against, so its own trait weighting and language biases propagate into everything the generator learns - the same feature-weighting asymmetries (grammatical accuracy, lexical sophistication and syntactic complexity weighted more heavily by models than by human raters) documented elsewhere on this page, now shaping training rather than only marks.
+
 ### Connections to related concepts
 
 AES sits at the intersection of [[automated-assessment]], [[writing-education]], and [[generative-ai]]. It connects to [[formative-assessment]] when used for feedback rather than grading, to [[feedback|Feedback Loop]] when integrated into iterative writing processes, and to [[ai-literacy]] when educators understand and calibrate AES tools. The [[assessment-validity]] and [[educational-measurement]] concepts are essential for ensuring AES scores are meaningful and fair.
@@ -15610,6 +15659,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[llm-essay-assessment-framework-reliability-2026]] — Framework for evaluating LLMs in essay assessment (Liu, Ye & Yan 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
+- [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
 
 ---
 
@@ -15865,6 +15915,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: reliability evidence for LLM scoring of divergent-thinking responses
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — The AI literacy measurement landscape: construct comparability and validity across instruments
+- [[gpt4-handwritten-math-exam-grading-2026]] — accuracy and agreement statistics that fall short of high-stakes thresholds
 
 ---
 
@@ -16075,6 +16126,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: model self-confidence, probabilistic scoring and ensembles as scoring reliability levers
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: development and validation of an instrument for motivations to use AI while reading
+- [[llm-distractor-generation-student-reasoning-2026]] — distractor quality criteria and the reasoning strategies behind them
 
 ---
 
@@ -21331,6 +21383,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[trust-calibration-chatbots-design-problem-2026]] — Trust calibration reframed as a design problem: a two-dimensional user typology and eight design propositions (Jaidka & Cai 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
+- [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate
 
 ---
 
@@ -42584,6 +42637,88 @@ Burriss, S. K., Eeds, A., Smith, B. E., Ziegler, H. H., Villanueva, A., & Dewees
 
 ---
 
+## [Building AI Companions that Prioritise Learning over Performance](https://edtechdev.github.io/aied/articles/caeai-ai-companions-learning-over-performance-2026/)
+
+> **Synthesis:** The argument of this position paper is that the problem with generative [[ai-education|AI in education]] is not weak [[prompt-engineering|prompting]] but a design objective: general-purpose models are built and tuned for task completion, so the better they get at helping, the more reliably they absorb the cognitive work through which capability develops. The paper responds not with another set of [[guardrails]] but with a definition and a design framework for [[agentic-ai|AI learning companions]], deliberately distinguishing companionship from assistance. It identifies three limits of prompt-level scaffolds that explain why they produce near-null learning effects, derives eight design commitments from them, organises those commitments into [[pedagogy|pedagogical]], adaptive and responsible design foundations, then reads five real deployments against the framework and finds that the adaptive loop, durable-learning evidence and inclusivity are where current systems fall short.
+
+## Key Findings
+
+1. The paper frames the central tension as learning versus performance: systems optimised for immediate task completion can improve output while weakening the cognitive, [[metacognition|metacognitive]] and self-regulatory processes that produce durable capability, a dynamic the authors describe as the learning-performance paradox.
+2. Prompt-level remedies are characterised as insufficient for three structural reasons: they are reactive rather than proactive, reaching only learners who already recognise that they need help; they are largely stateless with respect to [[prior-knowledge|prior knowledge]], goals, confidence and [[misconceptions]]; and they operate at the level of individual tasks rather than across a [[curriculum-design|curriculum]] or over time.
+3. The authors distinguish assistance from companionship: assistance helps with the task at hand, while companionship participates in the learner's development over time. A friendly tone, occasional questions and refusal to give direct answers do not by themselves produce companionship, since such a system can remain reactive, prompt-bound and weakly persistent.
+4. The stakes are extended beyond formal education to professional formation: if generative AI absorbs the routine but effortful work through which novices once built expertise, tasks get completed while the developmental experience is bypassed, with recent evidence that workers delegate routine tasks to AI and in some cases replace peer or subordinate interaction with AI assistance.
+5. An AI [[pedagogical-agent|learning companion]] is defined as a pedagogically grounded, adaptive and responsibly designed AI-mediated learning partner embedded in authentic learning environments and designed to support durable learning across diverse learner populations, with the term offered as a design and relational construct rather than a claim about machine intention or personhood.
+6. Eight design commitments follow from that definition: pedagogically grounded, adaptive, responsibly designed, character-based presence, agency-preserving, embedded in authentic learning environments, learning-centred and inclusive.
+7. The commitments are operationalised through three foundations, each with four components: a pedagogical foundation (deep and interactive learning, guided [[scaffolding]], learning to learn and higher-order learning, contextual learning), an adaptive foundation framed as capture, model, adapt and evolve, and a responsible design foundation covering security, transparency, accountability and inclusion.
+8. Five case studies written by researchers who led or contributed to the tools are analysed against the framework: Khanmigo, the RiPPLE student co-creation and peer [[edtech-platform|learning platform]], CodeHelp for scaffolded programming support, the JeepyTA teaching assistant for course discussion, and Recast, a university platform for educator-designed dialogic assistants.
+9. The cross-case synthesis finds the pedagogical foundation relatively mature but realised through different mechanisms, the adaptive foundation the most uneven with RiPPLE closest to persistent longitudinal learner modelling and CodeHelp and JeepyTA adapting only within sessions, and responsible design shaped by context rather than following one technical pattern.
+10. Agency preservation emerges as the strongest shared commitment and inclusivity the least realised: several tools provide scale, privacy, availability or multilingual interaction, but explicit design for diverse learner needs remains limited. Recognisable AI character is fully evident only in Khanmigo and RiPPLE.
+11. The research agenda names five priorities: evidence of durable learning rather than proximal indicators such as engagement, helpfulness or task completion; richer persistent learner models including metacognitive development; interaction strategies that preserve agency and [[desirable-difficulties|productive struggle]]; responsible design treated as a research object rather than a compliance layer; and inclusion and [[equity-in-ai-education|equity]] placed at the centre of companion design.
+
+## Why the definition carries the argument
+
+The paper's analytic move is to refuse the shortcut of calling any educationally prompted model a companion. Its definition is assembled from two prior traditions that it argues were each incomplete: general-purpose generative models, which bring conversational flexibility, scale and cross-domain reach but are organised around assistance, and earlier educational agents and [[intelligent-tutoring|tutoring systems]], which contribute companion roles, [[community-of-inquiry|social presence]], dialogue, learner modelling, feedback, [[adaptive-learning|adaptivity]], and the transparency tradition of open learner models and [[explainable-ai|explainable AI]] in education, together with [[bias-mitigation|algorithmic fairness]] work in education, but were limited by bounded domains, scripted interaction, authoring cost and system-led models of support that constrained [[agency|learner agency]].
+
+Generative AI, on this account, does not resolve those limitations so much as raise the stakes: because a companion draws on largely opaque training corpora and captures rich open-ended dialogue, what earlier narrow systems could treat as refinements become preconditions for trustworthy use. The eight commitments are assembled as the union of what each tradition lacked, which is why the adaptive foundation is defined as four operations over the learner rather than as a feature list, and why the responsible design foundation appears as a design foundation rather than as an appendix about compliance.
+
+The authors also spend care on what they are not claiming. Companion is a design and relational construct, not a claim that AI possesses care, understanding or the capacity to accompany a person; continuity resides in the design, governance and educational purpose of the system rather than in the model. Nor is the companion meant to substitute for educators and peers, since the same technical system can be deployed either to strengthen educational relationships or to reduce investment in them.
+
+## What the case studies expose
+
+Reading five deployments against the framework turns an abstract agenda into a gap analysis. The pedagogical foundation is where tools already converge, and the recurring design decision they identify is which forms of cognitive work remain with the learner: Khanmigo and CodeHelp withhold the direct solution, RiPPLE moves students into authoring and peer review, JeepyTA embeds support inside course discussion and formative feedback, and Recast supports educator-designed assistants for reflection and role-play.
+
+The adaptive foundation is where they diverge most, and persistent longitudinal adaptivity is named as the clearest gap between current implementations and the fuller vision. That diagnosis connects directly to work on [[student-modeling]] and [[knowledge-tracing]], which supply the machinery for exactly the cross-session learner state the case studies lack.
+
+Responsible design appears everywhere but in different sociotechnical forms: conversation visibility and parent or [[teacher-role|teacher]] oversight in a [[k-12]] platform, an [[learning-analytics|analytics]] dashboard reflecting a university position that accountability means knowing how its AI tools are used, instructor configurability and [[human-in-the-loop-ai|human review]] in course-bound assistants, and explainable learner modelling with human-gated decisions in the co-creation platform. The paper's point is that these are context-sensitive arrangements, not interchangeable templates.
+
+## What this means for practice
+
+- Judge an educational AI by what cognitive work it leaves with the learner, and by whether it can act before the learner asks for help rather than only after.
+- Treat persistent learner state as the design target, since in-session and task-local adaptation is the norm and the framework's clearest gap.
+- Evaluate against delayed retention, transfer, conceptual change and metacognitive growth instead of engagement, helpfulness or completion metrics.
+- Decide the institutional conditions of use, including oversight, data governance and whether the tool strengthens or substitutes for teaching relationships, before deployment rather than after.
+- Plan for learners who do not ask for help, and for those who over-rely on it, since proactive initiation and monitoring support are separate capabilities.
+
+## Limitations
+
+- The framework is a conceptual synthesis supported by illustrative rather than comparative evaluation; the cross-case ratings are authored judgments by people involved in the tools, not blind or independent assessments.
+- Five case studies, concentrated in university and platform deployments led by the authors' networks, cannot represent the diversity of educational AI, particularly non-English and low-resource settings.
+- The paper proposes what companions should be measured against but reports no new outcome data on durable learning, so the learning-performance paradox remains supported by other studies rather than tested here.
+- The eight commitments are normative and largely unfalsifiable in their current form; the paper does not specify thresholds at which a system would count as meeting each one.
+- Implementation cost, institutional incentive structures and teacher workloads are named as context but not analysed in depth, leaving the adoption side of responsible design underdeveloped.
+- Scope conditions are stated broadly, and the framework's applicability to [[early-childhood-elementary-ai-education|early childhood]], vocational and [[special-education|special education]] settings is not examined.
+
+## Connected Concepts
+
+- [[cognitive-offloading]] — the mechanism by which performance gains mask capability atrophy
+- [[agentic-ai]] — companions as persistent, proactive systems rather than answer services
+- [[framing-ai-use-for-students]] — how institutions frame what AI is for shapes what tools get built
+- [[pedagogical-agent]] — the earlier tradition the paper absorbs and extends
+- [[adaptive-learning]] — the adaptive foundation, and the gap in persistent adaptation
+- [[student-modeling]] — the learner state a companion must maintain across sessions
+- [[productive-failure]] — the effort the design must protect rather than optimise away
+- [[self-regulated-learning]] — planning, monitoring and evaluation as companion design targets
+- [[metacognition]] — the paper's proposal for metacognitive onloading
+- [[transfer-of-learning]] — the durable-learning outcome current systems rarely measure
+- [[explainable-ai]] — transparency from open learner models, now a precondition
+- [[equity-in-ai-education]] and [[inclusive-learning]] — the least realised commitment
+- [[trust-calibration]] — learner trust as a design responsibility, not a by-product
+- [[governance]] — institutional purposes and incentives as part of responsible design
+
+## Connected Articles
+
+- [[teachlm-post-training-llms-education]] — post-training approaches that make a system persist in a pedagogical role
+- [[educlaw-bench-pedagogical-llm-agents-2026]] — what pedagogical agents actually know about pedagogy when tested
+- [[yasir-llm-tutoring-agents-2026]] — tutoring agents evaluated against adaptive support criteria
+- [[ai-advice-suppresses-ikt-suspension-2026]] — learners who stop recognising what they do not know when assisted
+- [[pramod-agentic-ai-motivational-pathways-2026]] — how agentic AI use relates to motivational pathways
+
+## Citation
+
+Khosravi, H., Gašević, D., Sadiq, S., Yan, L., Lodge, J. M., Tangen, J. M., Denny, P., DiCerbo, K., Buckingham Shum, S., & Baker, R. S. (2026). [Building AI Companions that Prioritise Learning over Performance](https://doi.org/10.1016/j.caeai.2026.100680). *Computers and Education: Artificial Intelligence*.
+
+---
+
 ## [Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education](https://edtechdev.github.io/aied/articles/calibrating-trustworthiness-llm-education-2026/)
 
 > **Synthesis:** **Calibrating [[trust|Trustworthiness]]: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to [[pedagogy|pedagogical]] use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[learning-design]] [[edtech-platform]]
@@ -55598,6 +55733,83 @@ Wang, C., Petrie, C., Stouras, M., Ettlin, N., George, A., Mejia-Domenzain, P., 
 
 ---
 
+## [Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing](https://edtechdev.github.io/aied/articles/exrec-exercise-recommendation-knowledge-tracing-2025/)
+
+> **Synthesis:** Ozyurt, Almaci, Feuerriegel and Sachan target a weakness in [[knowledge-tracing]]-guided exercise recommenders: ID-based embeddings that ignore what a question asks, state defined as a full exercise history, reward needing inference over every question, and support for one [[reinforcement-learning]] algorithm. ExRec replaces each with a semantic pipeline. An [[llm]] annotates every question with solution steps and knowledge concepts (KCs) aligned to the Common Core State Standards, contrastive learning builds question and KC embeddings, a calibrated KT model predicts KC-level knowledge states, and a compact-state Markov decision process turns those into an RL reward. Its addition is model-based value estimation (MVE), initializing the critic from the KT model instead of at random. Across four tasks on XES3G5M and a replication on Eedi, non-RL baselines give marginal or negative gains, value-based continuous RL beats policy-based methods, and MVE consistently improves it. The work matters because semantic supervision and environment-aware value estimation make personalized sequencing practical and interpretable.
+
+## Key Findings
+
+1. **Prior KT-guided recommenders reduce to four limitations:** ID-based embeddings that overlook question semantics, state defined as the entire exercise history, reward requiring inference over all questions, and support for only one RL algorithm.
+2. **Annotation was steered toward a shared standard.** Aligning GPT-4o output to the Common Core State Standards produced 5,139 unique KC labels in 1,377 clusters, versus 8,378 KCs and 2,024 clusters in the authors' earlier pipeline.
+3. **Contrastive learning sharply improved retrieval.** Micro-averaged F1 for question retrieval within a KC cluster rose from 0.2305 with default LLM embeddings to 0.8865 after contrastive training.
+4. **KC calibration enabled direct KC-level prediction.** Frozen embeddings gave 81.26 AUC against 78.33 for ID-based initialization; calibration raised AUC to 81.65 and cut KC-level mean absolute error from 0.08 to 0.028.
+5. **Non-RL baselines do not solve the task.** Random and historical-data [[educational-policy-ai|policies]] produced marginal or negative knowledge gains across all four tasks.
+6. **Discrete methods dominate tasks 1 to 3, while value-based continuous methods beat policy-based ones.** DQN, C51, Rainbow and Discrete SAC were strong on the static tasks, and DDPG, TD3 and SAC consistently outperformed TRPO and PPO.
+7. **MVE boosts continuous value-based RL and wins task 4.** On the weakest-KC task, where the target KC can change each step, MVE lifted DDPG, TD3 and SAC beyond the discrete-action methods.
+8. **Improvements replicate on Eedi** (2,324,162 interactions, 47,560 students, 4,019 questions, 1,215 KCs), with percentage-of-maximum gains of SAC w/MVE 20.08, TD3 w/MVE 16.85, DDPG w/MVE 18.87, Rainbow 37.00, DQN 30.51 and random -2.31.
+
+## How the framework works
+
+ExRec is a four-module pipeline. Module 1 prompts GPT-4o at temperature 0 to generate solution steps, annotate KCs and map steps to KCs, told to follow the Common Core State Standards; annotating all 7,652 questions cost about 50 US dollars. Module 2 fine-tunes a BERT encoder with a contrastive loss over question-KC and solution step-KC pairs and clusters KC embeddings with HDBSCAN to suppress false negatives. Module 3 trains an LSTM knowledge tracing model on frozen question embeddings, then calibrates it so a KC embedding can be queried directly as a knowledge state, adding a KC loss to the prediction loss. Module 4 casts recommendation as an MDP whose state is the compact KT state, whose action is a question embedding, and whose reward is the change in predicted KC knowledge; MVE then uses the calibrated model to estimate critic values.
+
+## What the results show
+
+Evaluation uses XES3G5M (18,066 student histories, over 5.5 million interactions, 7,652 questions, 865 original leaf-level KCs), averaged over 2,048 test students across ten recommendation steps. Four tasks target different goals: global knowledge improvement, improvement in the practiced KC, improvement in an upcoming KC sampled from a KC transition matrix, and improvement in the student's weakest KC. The dataset's average correctness rate is 78 percent, placing the calibrated model's mean knowledge state at 0.78 and the maximum average improvement at +0.22 for tasks 1 to 3; task 4 permits upper bounds up to 0.64. Random and historical-data policies barely move knowledge, discrete-action methods are strong on tasks 1 to 3, and value-based continuous methods with MVE stay strong through task 4, with policy-based methods trailing.
+
+## Generalization and a proposed extension
+
+Two checks extend the main results. Tripling the question corpus with GPT-4o-generated items degraded default continuous-action models, whereas MVE variants held up and in several cases improved student knowledge. Visualized trajectories for one student under task 4 show the random policy producing no meaningful gain, DDPG moderate gains, and MVE larger gains that the extended corpus further improves; vanilla DDPG revisits one KC across several steps while MVE variants resolve concepts faster. The Eedi replication reports comparable absolute improvement, noting that Eedi's larger maximum possible gain (0.56 versus 0.21) makes its percentages look smaller. The appendix proposes a [[misconceptions|misconception]] extension: with answer-choice data, Module 1 would add misconception annotation, incorrect solution generation and step-misconception mapping; Module 2 an [MC] token and an L_mc loss; and Module 3 dual-task prediction of a misconception embedding, leaving Module 4 unchanged.
+
+## What this means for practice
+
+- **Model developers.** Build recommendation policies on semantic question and KC embeddings rather than ID lookups, and reuse a calibrated KT model to estimate critic values.
+- **Researchers.** Report improvements normalized against each task's maximum attainable gain, since equal raw gains look different when upper bounds differ (0.22 on XES3G5M versus 0.56 on Eedi).
+- **[[learning-analytics|Learning analytics]] designers.** Treat KC-level state estimation as a first-class output; querying the calibrated model by KC embedding lets a system show interpretable mastery trajectories rather than only next-item predictions.
+
+## Limitations
+
+- Both datasets are mathematics corpora, and XES3G5M questions were machine-translated from Chinese to English before annotation, so results may not transfer to other subjects or languages.
+- The KC annotations come from GPT-4o prompted against the Common Core State Standards, and their quality is asserted through cluster counts rather than an independent human agreement study.
+- The extended-corpus robustness test uses GPT-4o-generated questions, so it measures behavior on synthetic rather than naturally occurring new items.
+- Success is defined by the paper's own normalized metric, the percentage of maximum achievable knowledge-state improvement, which depends on assumptions about the calibrated model's mean knowledge state.
+- The misconception extension is a proposal only; current datasets record binary correctness, and no misconception results are reported.
+
+## Connected Concepts
+
+- [[knowledge-tracing]] — the semantic KT model is the environment and reward source
+- [[reinforcement-learning]] — exercise sequencing optimized through value-based and policy-based methods
+- [[recommender-systems-and-learning-paths]] — the core application is next-exercise sequencing
+- [[adaptive-learning]] — policies personalize the exercise each student receives
+- [[personalized-learning]] — the four tasks target individual knowledge states
+- [[llm]] — GPT-4o produces solution steps, KC annotations and the extended question corpus
+- [[machine-learning]] — contrastive representation learning plus calibrated sequence modeling
+- [[learning-analytics]] — interpretable KC-level knowledge-state trajectories
+- [[student-modeling]] — a compact state encodes each student's history
+- [[cognitive-diagnosis]] — KC-level state estimation is a diagnostic object
+- [[math-education]] — XES3G5M and Eedi are both mathematics datasets
+- [[k-12]] — problem content and the Common Core alignment are school mathematics
+
+## Connected Articles
+
+- [[misconception-acquisition-dynamics-llms-2026]] — misconception-aware training and its data requirements
+- [[huang-interpretable-knowledge-tracing-2026]] — an adjacent effort to make knowledge tracing interpretable
+- [[xie-hillm-cd-2026]] — LLM-based cognitive diagnosis against knowledge tracing
+- [[proprl-prerequisite-relation-learning]] — learning prerequisite structure for sequencing
+- [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — cognitive diagnosis driving personalized paths
+- [[skill-acquisition-without-temporal-info]] — modeling skill acquisition without full history
+- [[simulating-learner-task-selection]] — simulators that choose what a learner does next
+- [[graph-its-adaptive-algorithms-2026]] — adaptive algorithms inside an intelligent tutoring system
+- [[kt4eqg-personalized-question-generation]] — knowledge tracing applied to generating personalized questions
+- [[pattern-kc-programming-recommendation]] — KC patterns used for recommendation in a different domain
+- [[riedmann-reinforcement-learning-education-review-2026]] — a review of reinforcement learning in education
+- [[fair-explainable-edu-recommendations]] — fairness and explanation for educational recommenders
+
+## Citation
+
+Ozyurt, Y., Almaci, T., Feuerriegel, S., & Sachan, M. (2025). [Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing](https://proceedings.neurips.cc/paper_files/paper/2025/hash/13707aad517ddd6c09ea02e0f55e1e7a-Abstract-Conference.html). *Advances in Neural Information Processing Systems 38 (NeurIPS 2025)*.
+
+---
+
 ## [From Extended Minds to Coupling Flexibility: Cognitive Eco-Sourcing and Generative AI in Education](https://edtechdev.github.io/aied/articles/extended-minds-coupling-flexibility-2026/)
 
 > **Synthesis:** Di Paolo argues that debate about [[generative-ai]] in education is stuck in an enhancement-versus-diminishment oscillation that hides the question that actually matters: how cognitive labor is distributed when a learner recruits a technological resource. Building on the extended-mind tradition but moving past its concern with whether artifacts become part of the mind, the paper proposes cognitive eco-sourcing as the process of functionally recruiting distributed material, social and technological resources, and distinguishes four deliberately non-parallel, overlapping and time-variable forms of coupling: offloading, where demands are reorganized while the learner remains the principal performer; uploading, where a constructed niche stably supplies a function across agents and cohorts; delegation, where the resource executes an operation but the agent stays substantively inside the production loop with effective supervision and possible authorship; and outsourcing, which is external execution without effective supervision or authorship. These forms are analyzed through integration, execution, supervision and authorship, and judged against a developmental relevance criterion indexed to the target capacity and the learner's current competence. The central claim is conditional: no form is intrinsically beneficial or harmful. Education should therefore cultivate coupling flexibility, the developing ability to understand, evaluate, select and reorganize couplings as epistemic and educational aims change.
@@ -62472,6 +62684,83 @@ Wu, H.-N., Chu, M.-N., & Hsu, J.-L. (2026). [*Comparing GPT and human raters in 
 ## Citation
 
 Geschwind, S., Graf Lambsdorff, J., Voss, D., & Hackl, V. (2026). [GPT-4 feedback increases student activation and learning outcomes in higher education](https://doi.org/10.1016/j.ijaied.2026.100014). *International Journal of Artificial Intelligence in Education*, 36, 100014.
+
+---
+
+## [AI-assisted automated short answer grading of handwritten university-level mathematics exam](https://edtechdev.github.io/aied/articles/gpt4-handwritten-math-exam-grading-2026/)
+
+> **Synthesis:** Automated [[assessment]] of handwritten mathematics is a two-stage problem, and this study locates the failure in both stages at once. GPT-4 first has to read German-language handwriting that mixes prose, algebra and integrals, then has to apply grading rules that were originally written for teaching assistants. On a voluntary undergraduate mock exam, the best workflows reached an agreement with human graders, measured by Krippendorff's alpha, of only 0.22 to 0.44 and an accuracy of 0.59 to 0.62, which the authors state plainly is not acceptable for high-stakes [[summative-assessment|summative]] use. The paper's most useful contribution is diagnostic rather than technical: it separates transcription failure from grading-rule failure, shows that a probabilistic confidence filter meant to flag doubtful grades for human re-checking did not recover reliability because its average false-positive rate was 0.27, and derives exam-design lessons that any institution planning [[multimodal]] grading of pen-and-paper work should read before collecting data.
+
+## Key Findings
+
+1. The study graded a voluntary German undergraduate mathematics mock exam taken by 105 students, 54 of whom consented to the use of their answers. Problems were semi-open: students produced written reasoning and mathematics rather than selecting options, and wrote their answers in designated boxes on the exam sheet.
+2. Two extraction routes were compared: pre-cut answer boxes and whole graded pages. Two transcription engines were compared: Mathpix and GPT-4 with vision. Two [[prompt-engineering|prompting]] modes were compared: the original rubric formulations written for human staff and an itemised multi-criteria rewrite.
+3. Agreement with human-assigned grades on the most promising workflows averaged a Krippendorff's alpha of 0.22 with the original rubric and 0.31 with itemised rules on the pre-cut box route, and 0.30 and 0.40 respectively on the whole-page route. Accuracy across the same four workflows averaged 0.62, 0.44, 0.60 and 0.31.
+4. Grading without a rubric was clearly worse: accuracy 0.50 and alpha 0.32 when taking a single GPT-4 judgement, 0.51 and 0.34 under majority or averaged aggregation, against 0.69 and 0.60 for the best rubric-based approach.
+5. Itemising the grading rules helped unevenly. It improved alpha only on the partial-credit problem and did not rescue the overall picture, which the authors read as evidence that the bottleneck is not prompt detail but the model's grasp of mathematical substance.
+6. The system was robust to rewording. Five GPT-4-generated paraphrases of the itemised rules graded with a Krippendorff's alpha of 0.88 among themselves, so prompt-sensitivity to phrasing is not the limiting factor.
+7. The confidence filter failed in the direction that matters. Using the standard deviation of the model's probabilistic grade estimate as a reliability flag, the criterion identified correct grades with an accuracy between 0.44 and 0.94 per problem, averaging 0.69 once problems with too few correct answers were dropped, but the average false-positive rate was 0.27: roughly a quarter of the grades it marked reliable did not match the human grade, with per-problem rates from 7% to 41%.
+8. Transcription quality drove the rest. The average transcription success rate across problems was 83%, and the weakest problems were those where students wrote across answer-box borders or worked outside the box, which the pre-cut route simply lost.
+9. Per-problem agreement was extremely uneven, from 0.91 down to 0.27, so exam-level averages hide items on which [[automated-assessment|automated grading]] is effectively unusable. The authors also warn against supplying the question text with the grading prompt as a general fix, because earlier experiments showed the model "fixing" student answers, seeing what it expects.
+
+## Why the pipeline failed as a whole
+
+The paper's structure makes clear that two failure modes were being measured, not one. Reading the handwriting is a recognition task with its own error profile: Mathpix and GPT-4V differ in which problems they recover, GPT-4V at a higher sampling temperature preserved more of some short expressions, and both were derailed by the answer boxes themselves, which functioned as extraneous graphical elements on the page. Applying the rules is a judgement task that inherits the quality of both the transcription and the rule text.
+
+The rule-text failure is the more generalisable one. A grading rule written for a teaching assistant assumes a reader who knows the mathematics, infers intent, and ignores instructions meant for a later stage of marking. Handed to GPT-4, one such rule asked implicitly for a judgement while the model instead tried to determine the additional roots of an equation itself, a calculation outside its reliable competence. Rewriting the same rule as "judge as correct if the student found x = 1 as the only real solution; disregard any complex solutions for now" produced the intended verdict, which is a worked example of the difference between rules for people and rules for models.
+
+The confidence-filter result is the part with the widest implications. Confidence filtering is the standard remedy proposed whenever automated grading is used with [[human-in-the-loop-ai|a human in the loop]]: let the model grade the easy cases, and route low-confidence cases to a person. Here the criterion was not merely weak but systematically optimistic, since high-confidence accuracy concentrated on problems with many zero grades, and the cases it selected as reliable were disproportionately the ones where it was wrong. Selective automation that routes a quarter of its "confident" grades to students incorrectly is not a safety net.
+
+## Lessons for exam design and grading practice
+
+The authors' first recommendation is procedural and cheap: scan and transcribe the complete exam sheet including questions, and use textual markers such as "Problem N (n points):" and "Solution of Problem N" to cut the file afterwards with regular expressions, rather than cropping answer boxes. The markers survive optical character recognition and the layout can be reconstructed deterministically, whereas boxes lose answers written on the margins of the next problem.
+
+Second, grading rules need to be written differently for a model than for a marker, with explicit scope statements about what to disregard at each stage.
+
+Third, language proved not to be a barrier in these experiments: German and English graded at comparable accuracy and no explicit translation step was needed, though the authors caution that this does not generalise to less widely represented languages.
+
+Fourth, the authors report preliminary follow-up evidence that GPT-4o interprets handwritten mathematical expressions better than GPT-4V, which suggests the transcription half of the pipeline is improving faster than the judgement half.
+
+## What this means for practice
+
+- Treat handwriting recognition and grading-rule quality as separate risks to be measured separately; a single end-to-end accuracy figure hides which one is failing.
+- Do not rely on model confidence to decide what needs human review, because a high false-positive rate among "reliable" grades is worse than uniform human checking.
+- Write rubric text for the model's limitations, including what it should ignore, and expect rules inherited from teaching assistants to produce unrequested mathematical work.
+- Design exam sheets for the scanner: full-page capture with textual markers and generous answer space, decided before the exam is administered, since layout choices are unrecoverable afterwards.
+
+## Limitations
+
+- The exam was a voluntary mock, so students may not have applied themselves fully, and their handwriting may differ from that in a compulsory assessment; only 54 of 105 students consented to their answers being used.
+- Three problems had too few correct answers to be evaluated, and the analysis reports results on the remaining subset, so per-problem statistics rest on small samples.
+- The study evaluates one model generation, GPT-4 and GPT-4V, and the authors' own follow-up suggests GPT-4o is better at handwritten mathematics, so the absolute numbers are already dated.
+- Detection of handwriting and recognition of mathematical expressions remains an active research problem, and the paper does not attempt a specialised recognition pipeline.
+- The overall picture is a snapshot of a single university exam in one discipline and one national grading culture, and the authors do not claim the thresholds transfer.
+- No comparison is made against alternatives such as selective automation by item difficulty, ensemble grading, or investing the same effort in better human-marking logistics.
+
+## Connected Concepts
+
+- [[automated-assessment]] — the pipeline studied: recognition, rule application, and reliability flagging
+- [[assessment-validity]] — the paper's core concern, expressed through agreement statistics and false-positive rates
+- [[summative-assessment]] — the high-stakes use the authors explicitly rule out on this evidence
+- [[multimodal]] — vision-language transcription of handwriting as a precondition for grading
+- [[llm]] — the model class under test, with GPT-4V for transcription and GPT-4 for judgement
+- [[math-education]] — German undergraduate mathematics with semi-open written answers
+- [[authentic-assessment]] — handwritten semi-open tasks as authentic assessment, and what automating them costs in validity
+- [[human-in-the-loop-ai]] — the confidence-filter remedy, and why it underperformed here
+- [[assessment]] — the broader decision about what counts as reliable grading evidence
+- [[psychometrically-aware-ai]] — the agreement and reliability bar that these alpha values fail to reach
+
+## Connected Articles
+
+- [[llm-grading-self-preference-bias-2026]] — model graders favour their own outputs, another reason automated grading needs external anchors
+- [[humble-prompt-injection-ai-grading-red-team-2026]] — adversarial pressure on LLM grading, complementary to this study's reliability analysis
+- [[know-when-to-trust-ai-scoring-reliability-2026]] — reliability thresholds for automated scoring, which this study's alpha values fail to reach
+- [[llm-cognitive-diagnosis-handwritten-math]] — handwriting as an input channel for mathematics, from the diagnostic rather than the grading side
+- [[llms-do-not-grade-essays-like-humans-2026]] — the same divergence between model and human judgement in a text domain
+
+## Citation
+
+Liu, T., Chatain, J., Kobel-Keller, L., Kortemeyer, G., Willwacher, T., & Sachan, M. (2026). [AI-assisted automated short answer grading of handwritten university-level mathematics exam](https://doi.org/10.1093/teamat/hrag010). *Teaching Mathematics and its Applications: An International Journal of the IMA, 45*(1), 84–105.
 
 ---
 
@@ -70711,6 +71000,91 @@ Dawson, S., & Pardo, A. (2026). [*Leveraging complex systems: Leading for transf
 
 ---
 
+## [Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation](https://edtechdev.github.io/aied/articles/lftutor-logical-fallacy-education-2026/)
+
+> **Synthesis:** Shi, Wang, Ni, Pal Chowdhury and Sachan ask whether an [[llm]] can teach laypeople to recognize logical fallacies rather than simply flag them, and build LFTutor, an [[intelligent-tutoring]] system that steers every turn of a debate through intent-based [[pedagogy|pedagogical]] strategies. The framework decomposes a student's reply with the Toulmin model of argument structure, detects one of four student intents, selects one of four strategies (Responding, Evidence, Assumption, Refutation) ordered by Toulmin component priority, and routes the drafted reply through a verifier agent before it is sent.
+> Because no established metric set existed for this task, the authors derived eight evaluation dimensions from a pilot study and from education and argumentation literature: Divergence, Stance Change, Repetition, Lack of Refutation, Lack of Evidence Inquiry, Strategy Fixation, Unexplained LF Terms and Passive Guidance. Automatic evaluation with GPT-4o over 1,000 dialogues per framework gives LFTutor an average of 84.5% of dialogues passing each metric, against 61.5% for a heuristics-enhanced baseline and 31.2% for a role-play baseline; with adversarial students the gap narrows to 60.7% versus 30.2%. In a human study, 20 participants rated LFTutor significantly better on eight of nine metrics.
+> The contribution is double: a reusable way to measure [[critical-thinking]] tutoring quality through dialogue-level evaluation, and evidence that structured dialogue control, not a better prompt, is what separates a fallacy tutor from a debating [[conversational-ai|chatbot]].
+
+## Key Findings
+
+1. **LFTutor outperforms both baselines.** Over 1,000 GPT-4o dialogues per framework judged by QwQ-32B, it averaged 84.5% of dialogues passing each metric, against 61.5% for BASE W/ PROBLEMS and 31.2% for BASE.
+2. **Strategy verification carries the largest single effect.** Removing it cut Lack of Evidence Inquiry from 96.1 to 55.0 and Divergence from 84.6 to 66.0.
+3. **One strategy per turn beats several.** Allowing multiple strategies lowered Stance Change from 87.9 to 61.0, Strategy Fixation from 91.2 to 71.0, and Unexplained LF Terms from 95.0 to 75.0.
+4. **Strategy order matters.** Reversing the priority to Refutation-first dropped Passive Guidance from 43.6 to 23.0 and Unexplained LF Terms from 95.0 to 81.0.
+5. **The disagreement bank protects guidance.** Removing the Disagreement Check lowered Passive Guidance by 13.6 points (43.6 to 30.0) and raised Repetition by 13.7 points.
+6. **Adversarial students compress but do not erase the gain.** LFTutor averaged 60.7% against 30.2%, with the widest margin on Unexplained LF Terms (86.2 vs 49.5).
+7. **Human raters favored LFTutor on eight of nine metrics.** On a 1 to 5 Likert scale, Divergence rose from 1.65 to 3.30, Lack of Evidence Inquiry from 2.65 to 4.20, and Helpfulness from 1.65 to 4.15.
+8. **Repetition was the exception.** Participants rated LFTutor 3.10 against 2.65 (p = 0.08), because real participants varied their tactics and gave the baseline fewer openings to repeat; Passive Guidance stayed weakest at 43.6% automatic.
+
+## How the framework works
+
+LFTutor runs four steps each turn. The Disagreement Check consults a long-term memory bank of disagreement points: a genuinely new opposing claim is logged and handled, while repeated examples or assumptions cause the tutor to skip ahead and ask for fresh arguments. Intent Detection then classifies the reply into one or more of four intents mapped to Toulmin components: a request for clarification, missing evidence, missing assumptions, or a complete but flawed argument. Intent-based Strategy Selection picks one strategy from Responding, Evidence, Assumption and Refutation, following the priority of claim, grounds, warrant and rebuttal. Verified Strategy Execution drafts the reply and has a separate agent check that it respects the chosen strategy and stays on topic, with a failure triggering a rephrase. The design draws on [[socratic-method|Socratic questioning]] for open probing and on critical argumentation for targeted refutation, implemented as a [[pedagogical-agent]] on GPT-4o with no fine-tuning.
+
+## What the automatic evaluation shows
+
+Automatic evaluation used Elec2Deb20, a set of U.S. presidential debate sentences from 1960 to 2020, with student turns played by [[simulating-students|simulated students]]. Normal students defended the speaker's position with evidence; adversarial personas were built to trigger each known tutor weakness deliberately. Across eight metrics LFTutor led on almost every dimension, most sharply on Stance Change (87.9 against 48.1 for BASE W/ PROBLEMS) and Repetition (78.3 against 42.5). The heuristics baseline that was told to avoid known problems performed well early in a dialogue but lost focus as the conversation lengthened, which the authors read as evidence that warning a model about its flaws does not sustain quality. Under adversarial pressure the advantage narrowed to an average of 60.7%, and LFTutor's Divergence and Strategy Fixation fell because effort shifted from explaining fallacies to fending off irrelevant content.
+
+## What the human study found
+
+Twenty participants fluent in English debated each tutor for five to ten rounds on two Elec2Deb20 sentences they had previously judged logically valid, then rated tutor behavior on a 1 to 5 Likert scale. LFTutor scored significantly higher on eight of nine metrics, highly significantly (p < 0.01) for Divergence, Stance Change, Lack of Refutation, Lack of Evidence Inquiry and Passive Guidance, and significantly (p < 0.05) for Strategy Fixation, Unexplained LF Terms and Helpfulness. [[qualitative-research|Qualitative]] themes matched the numbers: ten of twenty participants called LFTutor more focused, nine praised its ample guidance, thirteen described BASE as debating in a general setting without specificity, and six found it easily persuaded. The authors note that real participants argued with more varied and inconsistent tactics than the simulated students, including emotional appeals, which is why Repetition behaved differently across the two settings.
+
+## Where it falls short
+
+Passive Guidance is the weak point: LFTutor passed it in only 43.6% of automatic dialogues. The authors attribute this to the absence of high-level, ordered dialogue goals that would let the tutor steer the conversation rather than react turn by turn, and propose combining such goals with the existing strategies. The framework also degrades when a student pushes it, with Divergence and Strategy Fixation falling under adversarial pressure because the tutor spends turns managing off-topic content. Cost bounds the evidence: the ablation study covered only 100 randomly sampled sentences because of budget limits, and automatic judging rests on one open reasoning model. The metric set itself omits dimensions the authors acknowledge matter, including emotional support, [[personalized-learning|personalization]] and ease of understanding. Improvement over the baseline is real but uneven rather than uniform.
+
+## What this means for practice
+
+- **Model developers.** Treat dialogue control as a pipeline, not a prompt. The ablation evidence points to per-turn intent detection plus an independent verification step as the load-bearing parts, so build and test those as separate stages rather than folding them into one system message.
+- **Researchers.** Adopt the eight-dimension rubric when comparing fallacy or argumentation tutors, and validate any automatic judge against human labels on your own task before reporting judge-scored gains.
+- **Educators.** Favor a tutor that commits to one pedagogical move per turn and holds its position under pressure; a model that concedes or mirrors the learner does not build the critical stance the exercise is meant to produce.
+- **Assessment designers.** Score tutoring dialogues at the dialogue level against explicit pass or fail criteria, and expect guidance-style dimensions to need ordered goals before a tutor can score well on them.
+
+## Limitations
+
+- The human study used 20 participants who were predominantly master's-level or doctoral students in technical fields, so the "laypeople" framing is broader than the sample.
+- Automatic evaluation rests on a single LLM judge validated at F1 above 73% per metric against three annotators, checked on 100 sampled dialogues; judge-scored gains inherit that error rate.
+- The ablation study used only 100 randomly sampled sentences and the normal student setting, so the component contributions carry wider uncertainty than the main results.
+- All tutoring dialogues are generated by simulated GPT-4o students, and participants argued with more varied tactics, which changed the Repetition result between settings.
+- Evaluation uses debate sentences from one dataset covering U.S. presidential debates; the authors note that alternative fallacy datasets are either LLM-generated or drawn from educational websites.
+- The metric set excludes emotional support, personalization and ease of understanding, which the authors name as gaps rather than as measured zeros.
+
+## Connected Concepts
+
+- [[socratic-method]] — open probing of the student's reasoning is one of the two pedagogical foundations
+- [[critical-thinking]] — fallacy recognition is treated as a trainable critical-thinking outcome
+- [[intelligent-tutoring]] — LFTutor is positioned as an LLM tutor, not a fallacy detector
+- [[pedagogical-agent]] — the tutor is implemented as a multi-agent pipeline with a verifier
+- [[conversational-ai]] — the intervention happens entirely in multi-turn debate dialogue
+- [[simulating-students]] — automatic evaluation depends on GPT-4o student personas, normal and adversarial
+- [[ai-sycophancy]] — concession to persuasion is one of the failure modes the design targets
+- [[scaffolding]] — strategies are ordered to build the argument component by component
+- [[prompt-engineering]] — the baseline comparison isolates structured steering from prompt heuristics
+- [[assessment-validity]] — the metric set and judge validation are the paper's measurement contribution
+- [[ai-ed-evaluation]] — the eight-dimension rubric is an evaluation framework for tutoring dialogues
+- [[critical-pedagogy]] — teaching laypeople to resist manipulative argument connects to critical pedagogy aims
+
+## Connected Articles
+
+- [[misconception-acquisition-dynamics-llms-2026]] — what training data a model needs before it can hold or recognize a faulty reasoning pattern
+- [[milicevic-socratic-trap-strategic-misconceptions-2026]] — how Socratic questioning interacts with strategic misconceptions
+- [[puech-pedagogical-steering-llm-productive-failure-2025]] — the pedagogical steering idea LFTutor builds on
+- [[yasir-llm-tutoring-agents-2026]] — a review of LLM tutoring agents and their pedagogical behavior
+- [[eduframetrap-llm-sycophancy-educational-safety]] — sycophancy as an educational safety problem
+- [[llm-fallacy-misattribution]] — how models identify and misattribute logical fallacies
+- [[socratic-ai-physics-tutor-taxonomy-2026]] — a taxonomy of Socratic tutoring moves in another subject
+- [[hashmi-socratic-physics-chatbot-2025]] — an earlier Socratic chatbot evaluated with students
+- [[measuring-llm-tutors-teach-vs-solve]] — measuring whether tutors teach rather than answer
+- [[ai-tutor-behavioral-evaluation]] — behavioral evaluation of AI tutor responses
+- [[rethinking-scaffolding-llm-tutors]] — when scaffolding helps and when it should be withdrawn
+- [[ai-literacy-warning-political-persuasion-2026]] — warnings and persuasion in political AI literacy
+
+## Citation
+
+Shi, M., Wang, J., Ni, J., Pal Chowdhury, S., & Sachan, M. (2026). [Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation](https://aclanthology.org/2026.acl-long.2209.pdf). *Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics*.
+
+---
+
 ## [Artificial Intelligence in Science Learning within the Framework of Situated Learning Theory: A Qualitative Investigation of Teachers' Perspectives](https://edtechdev.github.io/aied/articles/li-ai-science-situated-learning-teachers-2025/)
 
 > **Synthesis:** Shang Li (2025) presents a [[qualitative-research|qualitative]] study grounding AI integration in [[k-12|K-12]] [[stem-education|science education]] within [[situated-learning|Situated Learning Theory]] (SLT). Drawing on semi-structured interviews and open-ended questionnaires with fourteen Chinese science teachers (elementary through high school; [[physics-education|physics]], [[math-education|mathematics]], [[chemistry-education|chemistry]], and general science), the study investigates how AI tools influence students' learning processes and outcomes, transform classroom interaction and social construction, and reshape teachers' [[pedagogy|pedagogical]] identities. Findings show that [[simulation|virtual labs, simulations]], and [[intelligent-tutoring|intelligent tutoring systems]] enhance conceptual understanding and higher-order scientific skills, cultivate scientific identity through contextualized low-risk [[inquiry-based-learning|inquiry]], and deepen [[collaborative-learning|collaborative meaning-making]]. [[teacher-role|Teachers' roles]] shift from knowledge transmitters to facilitators, co-investigators, and [[ethics|ethical]] supervisors, while teachers simultaneously voice concerns about [[cognitive-offloading|overreliance]] and the erosion of core scientific abilities. The study positions AI tools as "mediational artifacts" that extend SLT by enabling digital [[sociocultural-learning|communities of practice]] and boundary-crossing between school, real-world, and interdisciplinary contexts.
@@ -72524,6 +72898,87 @@ Leinonen & Denny (2026). [Distinguishing Artificial from Authentic: Evaluating L
 ## Citation
 
 Yan, H., Xiong, J., Li, Y., & Chen, C. (2026). [*From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations*](https://arxiv.org/abs/2608.07523). (cs.CY).
+
+---
+
+## [Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation for Multiple-Choice Questions](https://edtechdev.github.io/aied/articles/llm-distractor-generation-student-reasoning-2026/)
+
+> **Synthesis:** Zengaffinen and colleagues ask whether [[llm|large language models]] can model not only what students know but how they fail, using [[automated-question-generation|distractor generation]] as the probe. Writing incorrect-but-plausible options for multiple-choice items forces a model to recover the correct solution, simulate a plausible student error, and judge whether the wrong answer would tempt a student. The authors build a taxonomy of ten reasoning strategies from learning-science literature and empirical coding of traces, then apply it to 885 traces from DeepSeek-V3.2 and GLM-4.7 on Eedi math and SciQ science items.
+> The taxonomy survives validation (precision 0.97, recall 0.95 on 64 traces), and reasoning prompts raise proportional match with human-authored distractors (DeepSeek 0.34 to 0.52 on Eedi; 0.08 to 0.14 on SciQ). The domains diverge sharply: on Eedi models describe and simulate specific [[misconceptions]], while on SciQ they rely on semantic similarity to the correct answer. Failure concentrates in recovering the correct solution and in discarding plausible candidates at selection.
+> For [[ai-education|AI in education]] the result is an interpretable map of where [[student-modeling]] succeeds and how correct-solution anchoring repairs it.
+
+## Key Findings
+
+1. **Reasoning improves alignment.** Proportional match rises from direct [[prompt-engineering|prompting]] to chain-of-thought to reasoning: DeepSeek-V3.2 goes 0.34, 0.51, 0.52 on Eedi and 0.08, 0.13, 0.14 on SciQ; GLM-4.7 goes 0.42, 0.50, 0.52 and 0.12, 0.15, 0.15.
+2. **A ten-strategy taxonomy captures the process.** Tags cover interpretation (INTER), correct-answer reference (CORR), conceptual link (LINK), error description (ERR_DESC), error [[simulation]] (ERR_SIM), outcome instantiation (INST), plausibility (PLAUS), discriminability (DISCR), curation (CURATE) and reconsideration (RECON); annotation reached precision 0.97 and recall 0.95 on a 64-trace human-checked subset.
+3. **The domains use different construction strategies.** On Eedi, LINK appears in 1.1% of CoT and 1.7% of reasoning traces while ERR_DESC reaches 96.7%; on SciQ, LINK reaches 94.8% of CoT and 99.0% of reasoning traces and ERR_SIM is 0.0%.
+4. **Models solve first, then inject an error.** 95.2% of traces construct a step-by-step solution, and 73.8% of those diverge at a specific step to insert a misconception.
+5. **Error simulation rarely fails.** Simulating a specific Eedi misconception, DeepSeek-V3.2 reaches mean accuracy 0.92 plus or minus 0.02, though only 62% of faithful distractors appear in the human-authored ground-truth set.
+6. **Correct-solution recovery is a primary bottleneck.** Giving the correct answer in the prompt raises proportional match by 6.4% relative on Eedi (0.52 to 0.56) and 30.7% on SciQ (0.14 to 0.18), both significant under a paired t-test at p<0.01.
+7. **Selection is a second bottleneck.** An oracle ranker over proposed candidates raises proportional match from 0.52 to 0.67 on Eedi and 0.14 to 0.29 on SciQ; the model argues against keeping 28% of valid candidates on Eedi and 15% on SciQ.
+8. **Some valid distractors are never generated.** 33% of human-authored distractors on Eedi and 71% on SciQ never appear in the reasoning trace.
+9. **Enforced structure adds nothing.** A prompt mandating explicit multi-step reasoning gives no significant gain (DeepSeek 0.52 to 0.55; GLM 0.52 to 0.52; p>0.05); the models already self-organize an effective structure.
+10. **Reasoning cuts invalid and redundant options.** Enabling reasoning lowers candidates equal to the correct answer by about 92% and repetitions by about 82% on Eedi, with correct-answer candidates falling 82% on SciQ.
+
+## How the taxonomy was built
+
+The taxonomy groups ten strategies into task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection (PLAUS, DISCR, CURATE), and a cross-cutting reconsideration tag (RECON). The authors combined two sources: the [[assessment]] design literature on misconception-based distractors, which prefers errors injected into an otherwise correct solution over surface perturbations, and [[qualitative-research|qualitative coding]] of real traces. Manual open coding of 48 traces surfaced all ten strategies; a model-assisted pass over 800 more recovered eight, missing only RECON. An LLM annotator then tagged spans across 885 traces from two models and two datasets, validated against human annotation on 64 traces. The taxonomy is diagnostic: it characterizes how a model reaches a distractor, not only whether its final set matches human items.
+
+## What the results show
+
+Reasoning helps, and it helps differently by domain. On Eedi, where every human distractor encodes a specific misconception, models follow a solve-first, error-injection process: error description and error simulation dominate and conceptual linking is nearly absent. On SciQ, which lacks misconception annotations, models fall back on similarity, establishing a conceptual link to the correct answer and using discriminability checks to confirm candidates are wrong. The shared skeleton resembles a best-of-N search. In reasoning mode DeepSeek-V3.2 explores 12.6 alternative incorrect solution paths per item on Eedi and 9.9 on SciQ before choosing three, against 5.9 and 5.5 under chain-of-thought. Strategy use follows a stable order, from interpretation and solution recovery through construction to curation and selection, emerging without instruction.
+
+## Where it fails
+
+Failures localize cleanly. Error simulation and the implicit reasoning structure rarely break, so the weak points are solution recovery and final selection. Supplying the correct answer in the prompt lifts proportional match, isolating unreliable [[cognitive-diagnosis|solution recovery]] as an upstream cause. An oracle ranker shows selection discards valid candidates the model already proposed, recovering roughly a third of otherwise-missed distractors on Eedi and a sixth on SciQ. The model's own plausibility and discriminability checks contribute: they reject invalid candidates only 1.5 to 1.9 times as often as valid ones. Low-scoring Eedi traces enumerate more student errors, possibly because a wider space of plausible errors makes any single author-written distractor harder to match. Proportional match understates fidelity where the ground truth is one of several valid distractor sets.
+
+## What this means for practice
+
+- **Model developers** building item-generation tools should anchor generation to an explicit, verified correct solution and treat candidate ranking as a separate stage, since the oracle gap shows selection discards valid options.
+- **Assessment designers** should expect domain-dependent behavior and concentrate [[human-in-the-loop-ai|human review]] on solution recovery and final set selection, the pipeline's two weak points.
+- **Researchers and educators** can reuse the ten-strategy taxonomy as an annotation scheme to inspect why a generated distractor is wrong, supporting [[cognitive-diagnosis|diagnostic]] intervention design and [[trust]] in automated item generation.
+
+## Limitations
+
+- Reasoning traces describe what a model externalized, not what it internally computed, so the observed strategies should not be read as mechanistic claims.
+- Only two open-weight reasoning models (DeepSeek-V3.2, GLM-4.7) were annotated in depth; non-reasoning and closed-source models may show different strategy distributions.
+- The datasets are small and domain-bound: 429 Eedi math problems with annotated misconceptions and 500 sampled SciQ science questions.
+- Proportional match is measured against a finite set of human-authored distractors and ignores other plausible options; this is more acute on SciQ, where distractors were not curated around specific misconceptions.
+- The SciQ solution-anchoring gain (30.7% relative) rests on a small absolute change (0.14 to 0.18) relative to the confidence intervals.
+
+## Connected Concepts
+
+- [[automated-question-generation]] — distractor generation is the task under study
+- [[student-modeling]] — the paper tests whether models can represent incorrect reasoning
+- [[misconceptions]] — misconception-based distractors are the preferred design
+- [[assessment]] — MCQ item quality is the practical stake
+- [[educational-measurement]] — distractors carry diagnostic information about understanding
+- [[benchmark]] — proportional match against human distractors is the evaluation frame
+- [[cognitive-diagnosis]] — distractors expose specific procedural gaps
+- [[prompt-engineering]] — prompting setting and solution anchoring are the manipulations
+- [[qualitative-research]] — open coding built the taxonomy
+- [[llm]] — the models whose traces are analyzed
+- [[problem-solving]] — items require solving before they can be failed
+- [[k-12]] — the datasets are grade-school and science questions
+
+## Connected Articles
+
+- [[misconception-acquisition-dynamics-llms-2026]] — teaching a model to hold a misconception through training data
+- [[llm-student-misconception-identification]] — surfacing real students' misconceptions from answer data
+- [[llm-student-simulation-misconception-faithfulness]] — whether simulators hold an assigned misconception
+- [[correct-answer-trap-misconceptions]] — the gap between correct answers and conceptual understanding
+- [[llm-misconception-difficulty-easy-trap]] — misconceptions and item difficulty estimation
+- [[student-misconceptions-conditionals-loops-taxonomy]] — a misconception taxonomy for a different subject
+- [[student-math-competence-clustering]] — clustering students by mathematical competence
+- [[llm-common-modeling-mistakes-formalisms-2026]] — common mistakes models make when modeling formalisms
+- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
+- [[valid-student-simulation-llm-2026]] — validity conditions for student simulation
+- [[generate-then-validate-question-gen]] — generating then validating assessment items
+- [[inside-llm-student-simulator-reasoning-2026]] — reasoning inside an LLM student simulator
+
+## Citation
+
+Zengaffinen, Y., Opedal, A., Rooein, D., Srivatsa, K. A., Sonkar, S., & Sachan, M. (2026). [Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation for Multiple-Choice Questions](https://arxiv.org/abs/2603.15547). *Findings of the Association for Computational Linguistics: EMNLP 2026*.
 
 ---
 
@@ -77535,6 +77990,101 @@ The study demonstrates the feasibility of integrating mindfulness into an ITS th
 
 ## Citation
 Rief, V., Hladký, M., Yoo, M., Heel, S., Sato, S., & Nagashima, T. (2026). [*Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning*](https://arxiv.org/abs/2609.02611). arXiv preprint arXiv:2609.02611.
+
+---
+
+## [Misconception Acquisition Dynamics in Large Language Models](https://edtechdev.github.io/aied/articles/misconception-acquisition-dynamics-llms-2026/)
+
+> **Synthesis:** Liu, Chen, Baraniuk, Sachan and Sonkar ask whether an [[llm]] can be *taught* to hold a misconception — and what that training does to its ability to solve problems correctly. They formalize two targets: the **Novice Student Misconception Model** (a [[simulating-students|simulated student]] that acquires one misconception) and the **Expert Tutor Misconception Model** (a tutor that acquires many [[misconceptions]] at once, a computational analogue of teachers' knowledge of student misconceptions). To study both under controlled data, they build **MalAlgoLib**, a graph-based generator of linear-equation problems with correct and misconception-specific solution traces (16 problem types, 20 misconceptions drawn from the algebra mal-rule literature).
+> The central finding is that the two models behave in opposite ways. The [[student-modeling|student model]] cannot localize a misconception: it overapplies the flawed step across problem types and its correct-solving accuracy falls as misconception accuracy rises, a trade-off that only disappears when correct examples are explicitly mixed into the training data. The tutor model shows no such trade-off: trained on ten misconceptions jointly, its overall correct accuracy stays stable or *improves* (93% to 98%), which the authors attribute to the contrastive signal that many error patterns provide. Neither model acquires anything, however, without **step-level supervision**: trained on final answers alone, misconception accuracy never exceeds about 30% regardless of data size.
+> This is a direct training-side complement to [[llm-student-simulation-misconception-faithfulness|misconception faithfulness]] research — that work showed simulators abandon their assigned misconception when corrected; this one shows what has to be true in the training data before a [[simulation|simulator]] holds one at all. The practical reading for [[pedagogical-llm-training]] is that data *[[writing-education|composition]]* (correct examples, step traces, multiple misconceptions) matters more than data *volume*.
+
+## Key Findings
+
+1. **Misconception acquisition is formalized as a two-property task.** A model acquires a misconception only if it reproduces the misconception on applicable problem types (misconception accuracy ≥ 90%) *and* preserves correct reasoning elsewhere — for the student model on non-applicable types, for the tutor model across all types.
+2. **Student-model training trades misconception accuracy against correct accuracy.** Across Llama-3.1-8B-Instruct, Phi-4-4B-Mini and Qwen-3-4B-Instruct, rising misconception accuracy came with a marked decline in both applicable and non-applicable correct accuracy — the learned error generalizes beyond the problem types it belongs to.
+3. **Mixing correct examples resolves the trade-off.** With the misconception sample count fixed at the level that reached >90% misconception accuracy and correct examples added at ratios of 0.25, 0.5 or 1.0, non-applicable correct accuracy recovered substantially, while misconception accuracy stayed high (for the distribution error M8, rising from 90.2% at 400 samples to 94.5% at 3200).
+4. **Tutor-model training shows no trade-off.** With 100–800 samples per misconception, misconception accuracy rose steadily while overall correct accuracy stayed stable or improved, from 93% to 98%, across all three base models; explicit mixing of correct examples was not needed.
+5. **Many misconceptions are cheaper to acquire than correct solving.** Although the base models needed 2,000 correct examples per problem type to reach 90% correct accuracy, several misconceptions were learned from far fewer samples, producing an S-shaped learning curve in misconception accuracy.
+6. **Data volume alone is not enough for multi-misconception tutoring.** In the small-sample regime (5–80 samples per misconception), only one of ten misconceptions passed the 90% threshold at 80 samples per misconception, and average misconception accuracy stayed below threshold.
+7. **Step-level supervision is the binding constraint.** Training on final (incorrect) answers only, with up to 1,600 samples for the student model and 800 for the tutor model, kept misconception accuracy below 30% for every model; for M3, M5 and M8 it fell below 1%.
+8. **Without steps, the tutor model also loses accuracy.** The no-steps tutor ablation degraded correct accuracy as training progressed, not only misconception accuracy.
+9. **Skewed real-world misconception frequencies are a deployment obstacle.** The authors note that misconception frequencies are heavily skewed even within a single school, so rare misconceptions may never supply enough training examples — real tutor-model training would likely require aggregating data across institutions.
+10. **The required data is largely uncollected.** Assessment data typically records final answers, not reasoning steps, so step-level supervision at scale depends on privacy-preserving collection infrastructure such as secure data enclaves and federated learning.
+
+## The two models and the dataset behind them
+
+The paper separates two educational needs that are often conflated. A *student* model exists to behave like one learner who holds one flawed rule, which is what evaluating a tutor, or training a [[teacher-role|teacher]], requires. A *tutor* model exists to recognize the whole range of errors a class produces — the computational analogue of teachers' knowledge of student misconceptions, a body of teacher knowledge linked in prior work to better learning outcomes than subject-matter knowledge alone. The two are formalized with different success criteria precisely because their jobs differ: the student model must stay correct where its misconception does not apply, whereas the tutor model must be able to solve *every* problem type correctly on request even though it was trained on errors in all of them.
+
+MalAlgoLib supplies the controlled data both need. Problem types are nodes in a directed acyclic graph, and each type implements a single-step reduction to a simpler type, mirroring how students actually work through an equation. A misconception is modelled as an *alternative* transition between types rather than as a rewritten problem generator, so one misconception can apply across many types, several misconceptions can be combined along one solution path, and new misconceptions can be added without touching existing type implementations. The library covers 16 linear-equation types and 20 misconceptions taken from the established algebra mal-rule taxonomies — errors such as distributing a factor to only the first term, treating multiplication as addition, dividing on one side only, or swapping the terms of a subtraction.
+
+## Why the student model overgeneralizes
+
+The student model's failure is a localization failure rather than a learning failure. Training on a single misconception does produce it reliably, but the model does not confine the flawed step to the problem types where the misconception is meaningful: correct accuracy falls on applicable *and* non-applicable types alike. The paper reads this as overgeneralization of the erroneous reasoning pattern — the model learns "this error" as a general behaviour rather than "this error, here."
+
+The fix is compositional rather than architectural. Once the misconception data is sufficient to reach the 90% acquisition threshold, adding correct examples at even a quarter of that volume restores correct reasoning without eroding the misconception. The distribution error is the worked example: misconception accuracy stayed at or above 90% while non-applicable accuracy recovered. The practical implication is that a faithful student simulator is specified by the *ratio* of correct to misconception examples, not by the misconception sample count alone.
+
+## Why the tutor model does not degrade
+
+The tutor result inverts the intuition that more error patterns should mean more contamination. Training on ten misconceptions jointly left overall correct accuracy stable or higher (93% to 98%), and the authors hypothesize that exposure to many error patterns gives the model a contrastive signal — seeing several ways a solution can go wrong helps it separate correct from incorrect reasoning in a way that a single misconception does not.
+
+Two caveats bound the claim. The first is sample size: at 5–80 samples per misconception, only one of ten misconceptions cleared the threshold, and a classroom's worth of students cannot supply enough data. The second is that this stability is measured on the authors' own metrics; the paper does not test whether a tutor model trained on errors behaves differently from an untrained model when it is asked to grade or diagnose unfamiliar student work.
+
+## Step-level supervision as the bottleneck
+
+The most transferable finding is negative and sharp. Given only final answers, neither model learns the misconception at any data size tested — accuracy stays under 30% overall and near zero for several misconceptions. The authors' interpretation is that a final answer does not say *where* the error entered the solution, so there is nothing for the model to attach the flawed step to; intermediate steps let the model localize the error to a specific algebraic operation.
+
+That makes the finding as much about data infrastructure as about modelling. Final answers are what assessments normally record, so step-level supervision at scale requires collecting student process data under privacy protection — secure data enclaves or federated learning — rather than simply training on existing response logs.
+
+## What this means for practice
+
+- **Model developers.** Specify simulator training data as a composition, not a volume: mix correct examples with misconception data for single-misconception student models, and include step-level solution traces for every misconception-aware model.
+- **Researchers.** Treat step-level data as a prerequisite rather than a nice-to-have: final-answer supervision failed to produce misconception acquisition in every model and at every data size tested here.
+- **Institutions.** Because misconception frequencies are skewed and classroom-scale samples are insufficient for tutor models, plan for cross-institution data aggregation and privacy-preserving collection if misconception-aware AI is a goal.
+- **Educators and assessment designers.** Record reasoning steps, not just final answers, wherever process data can be collected ethically — that is the raw material a misconception-aware tutor depends on.
+
+## Limitations
+
+- All experiments use synthetic algebra data generated by MalAlgoLib; the misconception taxonomy comes from published mal-rule research, but the training corpus is generated rather than drawn from real student work.
+- The three base models are small open-weight instruction-tuned models (Llama-3.1-8B-Instruct, Phi-4-4B-Mini, Qwen-3-4B-Instruct), so the acquisition dynamics may differ at larger scale or in models trained for mathematics.
+- Success is defined by fixed 90% thresholds on the paper's own metrics (misconception accuracy, correct accuracy on applicable and non-applicable items); a model that passes them need not produce the same *kind* of reasoning a student would.
+- The tutor model's improved correct accuracy is reported as a stable-or-improving trend from 93% to 98%, without an account of why the improvement occurs beyond the contrastive-signal hypothesis.
+- Coverage is limited to linear equations in one variable; whether the same dynamics hold for other domains, item formats, or multi-step conceptual reasoning is untested.
+
+## Connected Concepts
+
+- [[simulating-students]] — an instruction-tuned simulator holding a misconception is the student model's purpose
+- [[pedagogical-llm-training]] — the paper is a training-dynamics study of data composition and supervision
+- [[student-modeling]] — the tutor model is a computational analogue of knowledge of student misconceptions
+- [[intelligent-tutoring]] — misconception-aware models exist to support diagnostic, adaptive tutoring
+- [[cognitive-diagnosis]] — the localization question (where the error enters the solution) is the diagnostic question
+- [[knowledge-tracing]] — an alternative modeling tradition that tracks correctness rather than the nature of the error
+- [[math-education]] — algebra mal-rules are the paper's entire misconception taxonomy
+- [[llm]] — the models being instruction-tuned
+- [[generative-ai]] — the technology class under study
+- [[mastery-learning]] — correct-example mixing is a mastery-oriented data policy
+- [[problem-solving]] — the task domain is step-by-step equation solving
+- [[quantitative-research]] — controlled experiments varying data size and composition
+- [[k-12]] — the problem types come from grade-school algebra
+
+## Connected Articles
+
+- [[llm-student-simulation-misconception-faithfulness]] — simulators abandon an assigned misconception under corrective feedback
+- [[llm-student-misconception-identification]] — surfacing real students' misconceptions from quiz and lecture data
+- [[llm-distractor-generation-student-reasoning-2026]] — how models reason about misconceptions when writing distractors
+- [[swim-student-writing-simulation-2026]] — the same question for writing: prompting versus supervised and reward-based training
+- [[llm-misconception-difficulty-easy-trap]] — misconceptions and item difficulty estimation
+- [[correct-answer-trap-misconceptions]] — the gap between correct answers and conceptual understanding
+- [[student-misconceptions-conditionals-loops-taxonomy]] — a misconception taxonomy for a different subject area
+- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
+- [[valid-student-simulation-llm-2026]] — validity conditions for student simulation
+- [[teachlm-post-training-llms-education]] — post-training a model on authentic student data
+- [[simulating-students-java-programming-errors-llms]] — simulating student errors outside mathematics
+- [[cogevolution-student-cognitive-evolution-agent-2026]] — generative agents that model cognitive change over time
+
+## Citation
+
+Liu, N., Chen, X., Baraniuk, R., Sachan, M., & Sonkar, S. (2026). [Misconception Acquisition Dynamics in Large Language Models](https://arxiv.org/abs/2604.00818). *arXiv preprint* (cs.CY).
 
 ---
 
@@ -95402,6 +95952,93 @@ The study extends the [[tpack|TPACK]] framework — originally developed for pre
 ## Citation
 
 Sutedjo, A., Chowdhury, M., & Liu, S. P. (2026). [Assessing faculty self-perceived knowledge in using generative AI to teach 21st-century skills](https://doi.org/10.3389/feduc.2026.1913310). *Frontiers in Education, 11*, 1913310.
+
+---
+
+## [SWIM: Student Writing Simulation via Proficiency-Conditioned Generation](https://edtechdev.github.io/aied/articles/swim-student-writing-simulation-2026/)
+
+> **Synthesis:** Do, Kontak and Sachan ask whether an [[llm]] can be made to write like a student at a chosen proficiency level. They call the problem Student Writing [[simulation]] (SWIM) and formalize it as proficiency-conditioned essay generation. Given a writing prompt and a target trait-score profile from the ASAP/ASAP++ [[automated-essay-scoring]] corpus, a generator must produce an essay matching that profile. The paper compares three families of methods under one shared interface: rubric-grounded [[prompt-engineering]] (contrastive trait prompting and score-level rubric lookup, with five-shot variants), supervised fine-tuning on real score-essay pairs, and [[reinforcement-learning]] with a Proficiency Alignment Reward (PAR) from a frozen multi-trait AES verifier. Fidelity is measured as Quadratic Weighted Kappa (QWK) between the target profile and the AES-predicted profile of the generated essay.
+> The headline result is a supervision hierarchy. Prompting gives limited and uneven control: Claude Sonnet-4.6 reaches 0.577 average trait QWK and GPT-5.4 only 0.422, while open-weight Qwen models sit near zero. SFT reaches 0.474 and 0.428 on Qwen2.5-7B and Qwen3-4B, and GRPO with PAR pushes those to 0.618 and 0.674.
+> The residual gap is behavioral realism. Prompting over-predicts proficiency and generates over-long essays, and no method reproduces authentic low-proficiency spelling, casing and grammar. For [[writing-education]], the study argues that faithful [[simulating-students]] of writers needs explicit supervision plus a reward aimed at the whole trait profile.
+
+## Key Findings
+
+1. **Prompting alone gives limited and unequal proficiency control.** The best prompting configuration reaches 0.577 average trait-level QWK for Claude Sonnet-4.6 (SRLP with five-shot examples) and 0.422 for GPT-5.4, while Qwen2.5-7B-Instruct stays near zero under prompting (0.153 at best, SRLP + 5-shot; 0.007 naive).
+2. **Score-specific rubric lookup tends to beat coarse trait contrasts.** Across both proprietary models, SRLP generally outperformed contrastive trait prompting, and adding five-shot exemplar essays improved both strategies consistently.
+3. **Prompting steers what students write but not how they write.** Across all eight prompting configurations, content-oriented traits aligned far better than form-oriented ones; Claude's best setting scored 0.695 on content-oriented traits against 0.458 on form-oriented traits, with Conventions the weakest trait in every setting.
+4. **SFT from real score-essay pairs lifts alignment far beyond prompting on the same backbone.** On the shared comparison fold, Qwen2.5-7B-Instruct SFT scored 0.501 average trait QWK versus 0.036 for CTP + 5-shot and 0.153 for SRLP + 5-shot; across five folds it reached 0.474±0.023 while Qwen3-4B reached 0.428±0.062.
+5. **GRPO with PAR improves every trait and every prompt.** Average trait-level QWK rose to 0.618±0.005 for Qwen2.5-7B-Instruct and 0.674±0.060 for Qwen3-4B, gains of +0.144 and +0.246 over SFT, with prompt-level gains of +0.131 and +0.243.
+6. **The gains hold under independent evaluators.** Re-scoring with a DeBERTa-based scorer gave 0.598 for GRPO against 0.479 for SFT, and an evaluation-only verifier gave 0.647 against 0.501, closely tracking the original 0.618 against 0.474.
+7. **Prompting collapses proficiency variation toward the top.** Zero-shot generations had a mean normalized Overall score of 0.74 with 25% at the maximum, against 0.58 for real students, 0.57 for SFT and 0.53 for GRPO.
+8. **Trained models recover realistic essay length without length supervision.** Median length was 304 words under prompting, close to human 167 words for SFT (158) and GRPO (141).
+9. **Low-proficiency linguistic form is not reproduced.** For low targets, grammar errors per 100 words were 1.04 in real essays but 0.16 for SFT and 0.00 for GRPO, while Claude CTP overshot on casing (12.57 versus 0.65 real) and spelling (6.31 versus 4.22).
+10. **Prompt 8 is the exception where prompting wins.** With only 723 essays and roughly 650-word responses, GRPO trained models fell below Claude Sonnet with SRLP, and no method showed memorization (0.00% of generations exceeded ROUGE-L 0.7 against training essays).
+
+## How the task and methods are defined
+
+SWIM takes a writing prompt plus a target proficiency profile and asks a generator to produce an essay that both addresses the prompt and displays writing behavior consistent with that profile. The profile is a vector of rubric traits, such as Overall, Content, Organization, Word Choice, Sentence Fluency, Conventions, Prompt Adherence, Language and Narrativity, each with a prompt-specific integer range. The same textual input format is used everywhere: a system instruction to simulate a student, a trait-score block, the task prompt and source text, and a constraint to emit essay text without mentioning scores or rubric language. Because the interface is shared, the three methods differ only in how the generator is obtained. Alignment is checked by a frozen lightweight multi-trait AES verifier (ArTS, mean trait QWK 0.710 and prompt-level QWK 0.722 in these experiments) that maps an essay and prompt to predicted trait scores. Reported QWK is computed between the target profile and that AES-predicted profile, and the verifier is never updated, so improvements reflect the generator rather than co-adaptation with its evaluator.
+
+## What the results show
+
+The results describe how much supervision proficiency control requires. Rubric grounding helps at the margin, but prompting remains a weak instrument even for strong proprietary models: the best proprietary setting reaches 0.577 average trait QWK, and an open-weight 7B model under CTP + 5-shot is functionally unaligned at 0.036. Direct supervision from authentic score-essay pairs moves the same backbone to 0.501 on that fold and 0.474 across five folds. Reward optimization then adds a step change, with GRPO + PAR reaching 0.618 and 0.674 and improving all nine traits rather than a favored few. The paper attributes this breadth to PAR scoring agreement with the entire target profile, which forces the policy to coordinate several writing dimensions at once. Two corpus-level distributions support the reading that training changes behavior rather than just scores: SFT (0.57) and GRPO (0.53) match the human overall-score distribution (0.58) where prompting concentrates at 0.74, and trained essay lengths (158 and 141 words) land near the human median of 167.
+
+## Where simulation still fails
+
+Profile alignment and behavioral realism come apart on the lower end of the proficiency range. Under low-proficiency targets, Claude CTP reproduces roughly the right aggregate grammar error rate but simulates weakness through excessive casing and spelling errors and much simpler syntax, while SFT and GRPO recover syntactic structure yet generate unrealistically clean surface text: 0.16 (SFT) and 0.00 (GRPO) grammar errors per 100 words against 1.04 for real essays. The gap narrows at high proficiency, with SFT's grammar gap falling from 84% below the real rate at low targets to 5% below it at high targets. The authors connect this to the fluency prior of instruction-tuned models, which are optimized to be grammatical and well formed, making authentic disfluency hard to imitate. A second failure is prompt-level: Prompt 8, the longest responses with the smallest training set (723 essays, about 650 words), is the one setting where prompting beats both trained models, pointing to data scarcity and long-form generation as bottlenecks. The paper also warns that score alignment is not behavioral realism, since the AES proxy cannot fully replace expert judgment.
+
+## Method
+
+The work is an experiment on ASAP/ASAP++, a trait-score-annotated corpus of eight writing prompts covering argumentative, narrative and source-dependent tasks, with prompt sizes from 723 to 1,805 essays and prompts tied to prompt-specific traits and score ranges. The Style and Voice traits are excluded because each appears under a single prompt. SFT and GRPO follow a five-fold cross-validation protocol, while prompting methods are reported on a single fold because of the cost of long-form generation. SFT fine-tunes Qwen2.5-7B-Instruct and Qwen3-4B with QLoRA adapters on real score-essay pairs, and GRPO starts from the SFT checkpoint, sampling four essays per prompt, group-normalizing PAR advantages and updating the policy with a clipped PPO objective; the SFT checkpoint serves as the KL reference. PAR is a dense per-sample score, the mean trait-normalized closeness between target and predicted trait values, chosen because exact-match rewards are sparse across traits and QWK is defined only over batches. All experiments run on a single NVIDIA H100, about one hour per SFT epoch and eight hours per GRPO epoch.
+
+## What this means for practice
+
+- **Model developers.** Treat proficiency control as a training problem, not a prompting trick: fine-tune on authentic score-essay pairs and add a group-relative reward over the whole trait profile, since prompting left open-weight models near zero.
+- **Assessment designers and researchers.** Verify simulator gains on evaluators that never entered policy optimization, as this paper does with a DeBERTa scorer and an evaluation-only verifier, because reward-derived improvements can otherwise be adaptation to the reward model.
+- **Educators using simulated writers.** Expect simulated low-proficiency students to look like weak content with clean surface form, and do not use such essays to teach error diagnosis or to calibrate feedback on spelling and grammar.
+- **Administrators and developers planning corpus use.** Recognize that small, long-form prompts are where trained simulators lose to prompting, so pair any proficiency simulator with coverage checks across prompts rather than a single average.
+
+## Limitations
+
+- Fidelity is defined by a frozen AES verifier and QWK against AES-predicted traits; the paper states that this proxy cannot replace [[human-in-the-loop-ai|human judgment]] of whether generated essays authentically resemble student writing.
+- The dataset covers eight English ASAP/ASAP++ prompts with limited proficiency distributions, so generalization to other languages, age groups, genres and rubric frameworks is untested.
+- Prompting methods are evaluated on a single fold while SFT and GRPO use five, so prompting and training numbers are not measured on identical evaluation samples.
+- Proficiency is modeled as a static trait profile; evolving knowledge, [[misconceptions]], motivation and writing strategies over time are outside the scope.
+- Both backbones are fine-tuned through QLoRA adapters, and conclusions about the supervision hierarchy rest on those two small open-weight models.
+- The independent-evaluator check is run on one fold only, and the evaluation-only verifier is itself fit to the evaluation data, so that result is read through the relative SFT to GRPO gain.
+
+## Connected Concepts
+
+- [[simulating-students]] — the task in question, extended here from short responses to full essays
+- [[automated-essay-scoring]] — both the evaluation metric and the reward source
+- [[writing-education]] — the domain and the construct being simulated
+- [[pedagogical-llm-training]] — SFT and reward-based training for education-specific behavior
+- [[student-modeling]] — trait profiles as the modeled student state
+- [[prompt-engineering]] — rubric-grounded prompting baselines
+- [[reinforcement-learning]] — GRPO with the Proficiency Alignment Reward
+- [[llm]] — the generators being conditioned
+- [[generative-ai]] — the technology class under study
+- [[assessment]] — rubric traits and score ranges define the target
+- [[quantitative-research]] — controlled comparison with five-fold cross-validation
+- [[k-12]] — ASAP essays come from grade 7 to 10 writers
+
+## Connected Articles
+
+- [[misconception-acquisition-dynamics-llms-2026]] — the same supervision question for mathematics: what training data a simulator needs to hold an error
+- [[llm-student-simulation-misconception-faithfulness]] — simulators abandon assigned errors under correction, a related realism failure
+- [[simulating-students-llm-review-2026]] — the wider review of LLM-based student simulation
+- [[valid-student-simulation-llm-2026]] — validity conditions that any simulator must satisfy
+- [[studentsim-llm-student-simulators]] — general-purpose student simulators for tutoring interaction
+- [[simulating-students-diverse-cognitive-levels-2025]] — conditioning simulators on learner level rather than writing traits
+- [[inside-llm-student-simulator-reasoning-2026]] — what happens inside a simulator when it plays a learner
+- [[history-aware-student-simulation]] — simulating a learner state that changes over time
+- [[llms-do-not-grade-essays-like-humans-2026]] — the AES-side reliability problem that constrains this evaluation loop
+- [[gpt-human-rater-essay-assessment-2026]] — human and model rater agreement on essays
+- [[llm-essay-assessment-framework-reliability-2026]] — reliability framing for LLM essay scoring
+- [[pecuchova-automated-grading-open-ended-genai-2026]] — automated grading of open-ended student work
+
+## Citation
+
+Do, H., Kontak, J., & Sachan, M. (2026). [SWIM: Student Writing Simulation via Proficiency-Conditioned Generation](https://arxiv.org/abs/2609.03215). *Findings of the Association for Computational Linguistics: EMNLP 2026*.
 
 ---
 
