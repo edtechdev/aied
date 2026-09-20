@@ -1,7 +1,7 @@
 ---
 title: "Generative AI without guardrails can harm learning: Evidence from high school mathematics"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [scaffolding]
@@ -51,12 +51,19 @@ Students in the GPT Base arm performed *worse* on the exam but did **not** repor
 ## Design Lesson: What the Guardrails Did
 GPT Tutor differed from GPT Base in two ways: (1) the prompt instructed it to **give hints, not answers**, and (2) it was seeded with **teacher-authored problem-specific information** (correct solution, common mistakes, feedback guidance) — making its hints accurate and checkable. This labor-intensive [[prompt-engineering|prompt design]] is what neutralized the crutch effect. The authors note GPT Tutor remains *passive* (it doesn't proactively probe [[misconceptions]]) and call for combining [[pedagogy|pedagogical]] software tutors with generative AI, plus "co-pilot" models that assist human tutors rather than replace them.
 
-## Implications
-- **For the knowledge base:** This is the strongest *causal, field-deployed* evidence for the [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] phenomena, and a direct, preregistered demonstration of the [[genai-performance-vs-learning]] distinction (performance ↑, learning ↓). It complements [[generative-ai-reduced-study-time-math]] (population-scale behavioral evidence) and [[cognitive-offloading|Over-Reliance]] (lab causal evidence), and motivates [[scaffolding]] and [[socratic-method]] designs that preserve learning.
-- **For practice/policy:** Because ChatGPT-like tools are already widely used by students off-platform, the GPT Base harm is immediately relevant. Deployments where learning matters need explicit guardrails (hint-not-answer prompts, teacher-authored scaffolding, answer-checking).
+## What this means for practice
 
-## Limitations (per authors)
-Single topic (math), single high school in Turkey, Fall 2023 (early GPT-4 era), short-term outcomes only; writing and other subjects lack the objective grading used here. Generalizability to newer models and other contexts requires further study.
+- **Learners.** Demand hint-mode tutoring rather than answer-mode: GPT Base access left students 17% worse on the unassisted exam (beta = -0.054), while GPT Tutor's hint-not-answer guardrails reduced the harm to roughly zero (beta = -0.004) - the strongest causal, field-deployed evidence for the [[cognitive-offloading|over-reliance]] mechanism.
+- **Learners.** Do not read your sense of learning as evidence of it: GPT Base users scored worse on the exam yet did not report learning less, and GPT Tutor users believed they outperformed the control arm when exam scores were statistically indistinguishable.
+- **Learners.** Ask for the correct solution and the common mistakes rather than the answer: GPT Tutor's hints were accurate because they were seeded with teacher-authored, problem-specific information, while GPT Base answered only 51% of the 57 practice problems correctly.
+- **Learners.** Practice with the tool removed before trusting what it taught: assisted practice performance rose 48% (GPT Base) and 127% (GPT Tutor), yet exam gains did not follow and the narrowing of the grade gap during practice did not persist.
+
+## Limitations
+
+- One topic, one site, one snapshot: the field experiment ran on mathematics in a single high school in Turkey across Fall 2023-2024, in the early GPT-4 era, so replication with newer models and other contexts is required.
+- Outcomes are short-term only: the unassisted closed-book exam came after each 90-minute session, and the authors note that writing and other subjects lack the objective grading used here.
+- Study arms were assigned at the classroom level rather than individually, so treatment is clustered by class even though intention-to-treat, alternative specifications and absenteeism checks support the pattern.
+- Perceptions of learning were miscalibrated against measured exam performance in both AI arms, so self-reported learning or performance cannot serve as a gauge of the intervention's effect.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading, computational-thinking]
 technology: [generative-ai]
@@ -68,9 +68,20 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 - **Motivation over prohibition:** a guardrailed tutor helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation]], not bans — echoing [[self-regulated-learning]] and [[help-seeking]] theory.
 - Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production, connecting to [[cognitive-offloading]].
 
-## Implications for AI in Education
+## What this means for practice
 
-The framework reframes what a computational science course *produces*: not code, plots, or reports (now cheap and unlimited), but a student who can stand next to a result and defend it in the discipline's language. Several consequences follow for [[higher-ed]] practice. First, **AI-free conditions are now the only valid conditions for measuring coding fluency**, while orchestration of AI-assisted work must be assessed separately — the two are complementary, not competing, instruments. Second, the *verification gate* offers a transferable model for keeping [[human-in-the-loop-ai|human accountability]] at the center of AI-mediated learning, since a course with only quizzes certifies residue but never orchestration, and one with only defenses certifies orchestration on unverified foundations. Third, the equity dimension is unavoidable: if trustworthy certification requires human-scale assessment, students at institutions that cannot staff it receive systematically weaker credentials — a live challenge for [[reducing-ai-misuse|AI-use policy]] and [[governance|institutional]] [[curriculum-design]]. Finally, the framework's own closed loop — the agentic tools that broke artifact assessment were used by one professor in days to build the comment-stripping infrastructure of its replacement — illustrates how faculty [[teacher-role|roles]] and workflows may shift under agentic AI.
+- **Instructors.** Measure coding fluency only under AI-free conditions: weekly in-class coding quizzes in a lockdown browser capture the white-box residue once artifacts can be generated on demand.
+- **Instructors.** Measure orchestration separately with ten-minute oral defenses of comment-stripped AI-assisted work, probing uncommented code, plot interpretation and verification questions such as what the AI decided that the student did not.
+- **Instructors.** Gate the defense on verification: score the five rubric dimensions (code comprehension, method understanding, physics model and terminology, interpretation, verification), but require verification to reach the functional level for a pass regardless of total - a transferable model for keeping [[human-in-the-loop-ai|human accountability]] central when only one of the two instruments is used.
+- **Instructors.** Teach white-box before black-box by having students hand-code the 15-line Euler integrator and watch it fail at large step size, then grade the diagnosis of injected errors (a sign error, too-large dt, the wrong potential) instead of banning AI.
+- **Instructors.** Budget and defend the format with the author's arithmetic - 10 minutes times 15 students is 2.5 contact-hours per defended assignment, roughly 28 contact-hours a semester at about 11 defended assignments, with spot-defenses, TA-led and paired modes as named degraded options - and treat the equity gap for institutions that cannot staff human-scale assessment as an argument to take to administrators.
+
+## Limitations
+
+- This is a framework/position essay, not an empirical study: the five pillars, the load-bearing claim about verification and the two-instrument assessment design are argued and illustrated, and the author's own prescriptions were still awaiting validation with students in Fall 2026.
+- The first-person evidence comes from the easy case - a week-long June 2026 PICUP workshop after which one professor built an LMS dashboard and a comment-stripping tool without writing the code - and the author notes that a dashboard's correctness is observable in use, unlike a physics simulation's.
+- The single empirical probe of the guardrailed tutor was an end-of-semester survey in a sophomore computational course of about fifteen students that drew exactly one response, which the author describes as one instructor's reading of one semester.
+- The scalability arithmetic is partly estimated: the ten-minute defense length is measured from a semester of per-assignment defenses in two courses, but the fifteen-student cohort and the roughly 28 contact-hours per semester are projections, and no plan is offered for a 300-seat course.
 
 ## Connected Concepts
 
