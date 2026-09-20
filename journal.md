@@ -2,6 +2,7 @@
 
 ## 2026-09-20
 - 📄 [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
+- 📄 [[flipped-learning-genai-design-education-2026]] — Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course
 
 
 ## 2026-09-19
@@ -18,7 +19,7 @@
 - 📄 [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritise Learning over Performance
 
-Last updated: 2026-09-20 | Total entries: 1526
+Last updated: 2026-09-20 | Total entries: 1527
 
 ## 2026-09-18
 - 📄 [[aclime-pedagogical-agents-extended-reality-2026]] — Learning with pedagogical agents in extended reality: A conceptual research-based framework of agent-centered learning in immersive media environments (ACLIME)
