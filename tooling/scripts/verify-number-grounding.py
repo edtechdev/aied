@@ -23,6 +23,10 @@ miss means "investigate", not "fabrication": grep the raw file for the value
 before changing anything, and requalify the page only when the source really does
 not carry the number.
 
+A numeral is also accepted when the source spells it out: `33` passes when the
+raw reads "Thirty-three articles were reviewed in full text" (hyphenated, spaced
+and `hundred and` variants all count).
+
 Exit code is 1 when any article has ungrounded numbers, 0 otherwise.
 """
 import glob
@@ -68,11 +72,49 @@ def numeric_tokens(text):
     return tokens
 
 
+ONES = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine',
+        'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen',
+        'seventeen', 'eighteen', 'nineteen']
+TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety']
+
+
+def spell(n):
+    """English words for a whole number, as papers print it (hyphenated)."""
+    n = int(n)
+    if n < 0 or n > 999999:
+        return None
+    if n < 20:
+        return ONES[n]
+    if n < 100:
+        t, o = divmod(n, 10)
+        return TENS[t] + ('' if not o else '-' + ONES[o])
+    if n < 1000:
+        h, r = divmod(n, 100)
+        return ONES[h] + ' hundred' + ('' if not r else ' ' + (spell(r) or ''))
+    th, r = divmod(n, 1000)
+    return (spell(th) or '') + ' thousand' + ('' if not r else ' ' + (spell(r) or ''))
+
+
+def spelled_forms(value):
+    """Spelled-out variants of a numeral: hyphenated, spaced, and with 'and'."""
+    if '.' in value or not value.isdigit():
+        return []
+    words = spell(int(value))
+    if not words:
+        return []
+    forms = {words, words.replace('-', ' '), words.replace(' ', '-')}
+    for sep in (' hundred ', ' thousand '):
+        if sep in words:
+            forms.add(words.replace(sep, sep + 'and '))
+    return forms
+
+
 def ungrounded(slug):
     raw, article = load(slug)
     if raw is None or article is None:
         return None
     raw_n = normalize(raw)
+    raw_l = raw_n.lower()
     squeezed = re.sub(r'\s+', '', raw_n)
     body = re.sub(r'^---\n.*?\n---', '', article.split('## Citation')[0], flags=re.S)
     misses = []
@@ -84,9 +126,13 @@ def ungrounded(slug):
         if re.search(r'(?<![\d.])' + re.escape(value) + r'(?![\d])', raw_n):
             continue
         if re.search(r'(?<![\d.])\.' + re.escape(value) + r'(?![\d])', raw_n):
-            continue   # leading-dot form, e.g. "p < .001" written as "001" in the body
+            continue   # leading-dot form, e.g. the body prints "001" where the source writes ".001"
+        if value.startswith('0') and re.search(r'(?<![\d.])(?:0)?\.' + re.escape(value) + r'(?!\d)', raw_n):
+            continue   # the body drops the leading zero (".054") that the source prints as "0.054"
         if len(value) >= 4 and value in squeezed:   # survives PDF line-wrap artefacts
             continue
+        if any(form in raw_l for form in spelled_forms(value)):
+            continue   # the source spells the number out, e.g. "Thirty-three articles"
         misses.append(value)
     return misses
 
