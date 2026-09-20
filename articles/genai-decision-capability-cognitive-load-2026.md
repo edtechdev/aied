@@ -7,7 +7,7 @@ pedagogy: [cognitive-psychology, self-efficacy]
 technology: [generative-ai, technology-acceptance-model]
 ethics: [trust]
 research_method: [survey, structural equation modeling]
-audience: [researchers, educators, institutions]
+audience: [researchers, instructors, institutions]
 level: [higher ed]
 sources: ["raw/papers/genai-decision-capability-cognitive-load-2026.md"]
 confidence: high

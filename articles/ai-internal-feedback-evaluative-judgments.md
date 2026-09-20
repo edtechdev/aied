@@ -6,13 +6,12 @@ type: article
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment, feedback]
-research_method: [qualitative]
+methods: [qualitative-research]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-ai-internal-feedback-evaluative-judgments.md']
 confidence: high
 discipline: [writing education]
-audience: [educators, teacher educators]
+audience: [instructors, teacher educators]
 ---
 
 > **Synthesis:** Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback

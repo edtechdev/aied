@@ -5,7 +5,7 @@ updated: "2026-09-19T05:41:27-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [reporting-interpreting-aied-research]
-research_method: [meta-analysis, systematic review, research methods, literature review]
+research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]

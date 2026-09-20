@@ -8,7 +8,7 @@ foundations: [agentic-ai]
 pedagogy: [collaborative-learning]
 technology: [learning-analytics, simulation]
 confidence: medium
-research_method: [benchmark, system development]
+research_method: [system development]
 discipline: [cs education]
 audience: [researchers, learning analytics designers, edtech designers]
 page_kind: [evaluation]

@@ -5,11 +5,11 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [learning-analytics, machine-learning, student-modeling]
+methods: [benchmark]
 sources: ['raw/papers/zhang-ml-student-progress-programming-2026.md']
 confidence: high
-research_method: [benchmark, learning analytics]
 discipline: [cs education]
-audience: [learning analytics designers, instructors, educators]
+audience: [learning analytics designers, instructors]
 level: [k 12]
 page_kind: [evaluation]
 connected_faqs: [asynchronous-online-courses-ai]

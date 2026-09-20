@@ -6,11 +6,11 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [affective-computing]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative, survey]
+research_method: [survey]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2605.23123.md']
 confidence: high
 page_kind: [framework]

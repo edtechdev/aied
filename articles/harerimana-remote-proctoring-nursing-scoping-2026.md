@@ -4,17 +4,17 @@ created: "2026-09-18T04:11:33-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
-pedagogy: [anxiety-and-stress, online-teaching-and-learning, well-being]
+pedagogy: [anxiety-and-stress, online-teaching-and-learning, professional-training, well-being]
 technology: [edtech-platform, learning-analytics]
-assessment: [remote-proctoring, assessment-validity, summative-assessment]
+assessment: [assessment-validity, remote-proctoring, summative-assessment]
 methods: [meta-analysis-systematic-review]
-stakeholders: [student-experience, professional-training]
+stakeholders: [student-experience]
 institutions: [governance, regulation]
-ethics: [privacy, equity-in-ai-education, digital-divide]
-research_method: [systematic review, thematic analysis]
+ethics: [digital-divide, equity-in-ai-education, privacy]
+research_method: [thematic analysis]
 discipline: [nursing education]
 level: [higher ed]
-audience: [assessment designers, educators, administrators]
+audience: [assessment designers, instructors, administrators]
 page_kind: [synthesis]
 sources: ['raw/papers/harerimana-remote-proctoring-nursing-scoping-2026.md']
 confidence: high

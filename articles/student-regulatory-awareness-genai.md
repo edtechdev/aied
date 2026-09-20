@@ -5,8 +5,9 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
+methods: [quantitative-research]
 stakeholders: [student-experience]
-research_method: [survey, quantitative]
+research_method: [survey]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.12436.md']

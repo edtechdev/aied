@@ -5,9 +5,10 @@ updated: "2026-09-20T03:45:11-04:00"
 type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [online-teaching-and-learning]
+methods: [mixed-methods-research]
 ethics: [equity-in-ai-education, global-south]
 audience: [learners]
-research_method: [survey, mixed methods]
+research_method: [survey]
 discipline: [cs education]
 sources: ['raw/papers/2607.22940.md']
 confidence: high

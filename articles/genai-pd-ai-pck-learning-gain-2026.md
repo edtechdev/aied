@@ -5,11 +5,12 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [educational-development]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency, professional-training]
+stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
+pedagogy: [professional-training]
 research_method: [quasi-experiment, instrument development, survey]
-audience: [faculty development]
-level: [teacher training, adult learning]
+audience: [faculty developers]
+level: [teacher education, adult learning]
 sources: ['raw/papers/genai-pd-ai-pck-learning-gain-2026.md']
 confidence: high
 page_kind: [evaluation]

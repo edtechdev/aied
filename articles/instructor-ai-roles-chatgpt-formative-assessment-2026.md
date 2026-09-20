@@ -6,12 +6,13 @@ type: article
 foundations: [human-ai-collaboration]
 pedagogy: [self-regulated-learning]
 assessment: [formative-assessment]
-research_method: [qualitative, interviews]
+methods: [qualitative-research]
+research_method: [interviews]
 discipline: [chemistry education]
 sources: ['raw/papers/instructor-ai-roles-chatgpt-formative-assessment-2026.md']
 confidence: high
 audience: [teacher educators, instructors]
-level: [teacher training, higher ed]
+level: [teacher education, higher ed]
 ---
 > **Synthesis:** Ratniyom, Boonphadung, Intaraprasit, and Chumkaeo (2026) analyze how **pre-service science [[teacher-role|teachers]] across achievement levels** perceive the distinct roles of human instructors versus ChatGPT in a **ChatGPT-enhanced [[formative-assessment|formative assessment]]** of stoichiometry. The human instructor was viewed as an **adaptive expert**, toggling between *Simplifier* and *Elaborator* roles depending on learner achievement; ChatGPT was perceived as a **personalized self-regulated-learning tool** whose role shifted by achievement — a *Patient [[intelligent-tutoring|tutor]]* for low-achievers, a *Personal Coach* for medium-achievers, and an *Intellectual Sparring Partner* for high-achievers. The authors propose an **Instructor–AI Synergistic Learning Ecosystem** model reframing human–AI collaboration as complementary partnership rather than competition. 
 

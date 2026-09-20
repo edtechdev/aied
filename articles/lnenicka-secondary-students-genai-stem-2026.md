@@ -5,8 +5,8 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [conversational-ai, generative-ai]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods]
 discipline: [stem education]
 audience: [learners]
 level: [k 12]

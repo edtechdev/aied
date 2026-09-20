@@ -9,7 +9,6 @@ stakeholders: [student-experience]
 ethics: [bias-mitigation, hallucination-risk]
 research_method: [experiment]
 audience: [learners]
-
 sources: ['raw/papers/2605.18372.md']
 confidence: high
 level: [adult learning]

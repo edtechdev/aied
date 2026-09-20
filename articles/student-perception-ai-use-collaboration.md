@@ -10,7 +10,6 @@ research_method: [longitudinal study, survey]
 discipline: [cs education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2606.23237.md']
 confidence: medium
 ---

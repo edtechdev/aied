@@ -4,11 +4,12 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-18T09:10:00-04:00"
 weight: 65
 type: faq
-foundations: [educational-development, teacher-role]
-stakeholders: [teacher-ai-competency, tpack]
-research_method: [survey, mixed methods, case study]
-audience: [faculty development, teacher educators, administrators]
-level: [higher ed, teacher training, k 12]
+foundations: [educational-development, teacher-role, tpack]
+methods: [mixed-methods-research]
+stakeholders: [teacher-ai-competency]
+research_method: [survey, case study]
+audience: [faculty developers, teacher educators, administrators]
+level: [higher ed, teacher education, k 12]
 institutions: [change-management]
 ---
 

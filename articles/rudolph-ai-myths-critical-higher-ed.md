@@ -7,7 +7,7 @@ foundations: [academic-integrity, ai-literacy, critical-thinking, educational-de
 technology: [generative-ai]
 ethics: [ai-misuse-learning-harm, digital-divide]
 research_method: [theoretical analysis]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/rudolph-ai-myths-critical-higher-ed.md']
 confidence: medium

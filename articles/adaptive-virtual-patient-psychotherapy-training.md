@@ -4,9 +4,9 @@ created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [scaffolding]
+pedagogy: [professional-training, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience, professional-training]
+stakeholders: [student-experience]
 research_method: [system development]
 discipline: [medical education, stem education]
 audience: [learners]

@@ -6,7 +6,7 @@ type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy, course-ai-policy]
-audience: [administrators, instructors, faculty development]
+audience: [administrators, instructors, faculty developers]
 level: [higher ed, k 12]
 confidence: high
 institutions: [governance, regulation]

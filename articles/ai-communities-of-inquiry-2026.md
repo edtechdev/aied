@@ -10,7 +10,7 @@ level: [higher ed]
 page_kind: [framework]
 sources: ['raw/papers/ai-communities-of-inquiry-2026.md']
 confidence: medium
-audience: [educators, instructional designers, institutions]
+audience: [instructors, instructional designers, institutions]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

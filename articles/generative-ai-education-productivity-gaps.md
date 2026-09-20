@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 technology: [generative-ai, llm]
 ethics: [equity-in-ai-education]
-research_method: [randomized controlled trial]
 level: [adult learning, higher ed]
 sources: ['raw/papers/2608.04198v1.md']
 confidence: high

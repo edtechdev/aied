@@ -6,7 +6,7 @@ type: article
 technology: [intelligent-tutoring, llm, reinforcement-learning]
 assessment: [automated-assessment, formative-assessment]
 audience: [software developers]
-research_method: [benchmark, experiment]
+research_method: [experiment]
 sources: ['raw/papers/2605.30666.md']
 confidence: high
 discipline: [math education]

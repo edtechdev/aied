@@ -8,10 +8,8 @@ technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 assessment: [feedback]
 ethics: [privacy]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [cs education]
 level: [k 12]
-
 sources: ['raw/papers/2607.05571.md']
 confidence: high
 page_kind: [evaluation]

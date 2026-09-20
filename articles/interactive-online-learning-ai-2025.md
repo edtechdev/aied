@@ -6,7 +6,7 @@ type: article
 foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
 technology: [adaptive-learning, machine-learning, personalized-learning, student-modeling]
-research_method: [benchmark]
+methods: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/interactive-online-learning-ai-2025.md']
 confidence: medium

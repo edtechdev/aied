@@ -8,10 +8,10 @@ technology: [pedagogical-llm-training]
 stakeholders: [teacher-ai-competency]
 ethics: [ethics]
 research_method: [delphi]
-audience: [faculty development]
+audience: [faculty developers]
 sources: ['raw/papers/10.1080_10494820.2026.2615818.md']
 confidence: high
-level: [teacher training]
+level: [teacher education]
 ---
 
 > **Synthesis:** Chiu (2026) proposes the Human-Centric AI [[pedagogy]] (HCAP) framework, an evolution of the [[tpack|Technological Pedagogical Content Knowledge (TPACK)]] model designed for the [[generative-ai|generative AI]] era. Arguing that AI's agentic autonomy, epistemic complexities, and [[ethics|ethical]] dimensions render the established TPACK framework insufficient, HCAP integrates five knowledge domains: AI-Technological, AI-Content, AI-Pedagogical, Human-AI Collaborative, and Ethical Knowledge. A three-round Delphi study with 30 teachers across diverse subjects produced a consensus on 25 critical knowledge items, providing an empirically grounded model that translates theoretical AI pedagogy into actionable teacher competencies and equips educators to move from merely using AI to strategically orchestrating human-AI [[collaborative-learning|collaborative learning]].

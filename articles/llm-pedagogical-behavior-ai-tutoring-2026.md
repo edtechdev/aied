@@ -5,9 +5,9 @@ updated: "2026-09-19T08:58:00-04:00"
 type: article
 pedagogy: [scaffolding, student-ai-interaction]
 technology: [generative-ai, intelligent-tutoring, llm]
-assessment: [assessment]
+assessment: [assessment, educational-measurement]
 audience: [software developers]
-research_method: [instrument development, educational measurement]
+research_method: [instrument development]
 level: [higher ed]
 sources: ['raw/papers/llm-pedagogical-behavior-ai-tutoring-2026.md']
 confidence: high

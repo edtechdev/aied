@@ -8,7 +8,6 @@ technology: [affective-computing, llm, multimodal]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
 sources: ['raw/papers/muse-vlm-artistic-image-benchmark-2026.md']
 confidence: high
-research_method: [benchmark]
 discipline: [language learning]
 audience: [researchers, edtech designers]
 page_kind: [evaluation]

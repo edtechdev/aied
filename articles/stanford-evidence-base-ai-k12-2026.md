@@ -6,10 +6,9 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, sociocultural-learning]
 technology: [intelligent-tutoring]
+methods: [meta-analysis-systematic-review]
 audience: [instructors, administrators, researchers]
-research_method: [systematic review]
 level: [k 12]
-
 sources: ['raw/papers/stanford-evidence-base-ai-k12-2026.md']
 confidence: medium
 page_kind: [synthesis, evaluation]

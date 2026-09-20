@@ -5,7 +5,7 @@ updated: "2026-09-19T10:23:54-04:00"
 type: article
 pedagogy: [storytelling-in-education]
 technology: [educational-robotics, llm]
-level: [early childhood]
+level: [preschool]
 research_method: [user study]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']
 confidence: medium

@@ -6,10 +6,11 @@ type: article
 foundations: [educational-development, learning-design, teacher-role]
 technology: [generative-ai, prompt-engineering]
 connected_faqs: [faculty-development-ai]
+methods: [mixed-methods-research]
 sources: ['raw/papers/pishtari-teacher-ai-training-learning-design-2026.md']
-research_method: [experiment, mixed methods]
-audience: [instructors, faculty development, researchers, learning designers]
-level: [higher ed, teacher training]
+research_method: [experiment]
+audience: [instructors, faculty developers, researchers, learning designers]
+level: [higher ed, teacher education]
 confidence: high
 ---
 

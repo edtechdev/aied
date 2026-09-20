@@ -5,7 +5,6 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm, prompt-engineering]
 assessment: [assessment-validity, automated-assessment, formative-assessment]
-research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/cotal-formative-assessment-scoring-2026.md']
 confidence: high

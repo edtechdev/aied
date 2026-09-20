@@ -9,7 +9,6 @@ technology: [generative-ai, prompt-engineering]
 connected_faqs: [reducing-over-reliance]
 research_method: [experiment]
 level: [higher ed]
-
 sources: ['raw/papers/10.1007_s10648-026-10118-7.md']
 confidence: high
 audience: [instructors, instructional designers]

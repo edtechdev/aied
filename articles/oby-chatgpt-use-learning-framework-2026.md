@@ -10,7 +10,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/oby-chatgpt-use-learning-framework-2026.md']
 confidence: high
-audience: [educators, instructional designers, faculty development]
+audience: [instructors, instructional designers, faculty developers]
 page_kind: [framework]
 ---
 

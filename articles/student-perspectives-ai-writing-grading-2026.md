@@ -4,11 +4,12 @@ created: "2026-09-11T09:20:00-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, evaluative-judgment, feedback-literacy]
+methods: [qualitative-research]
 stakeholders: [student-experience]
 ethics: [ai-use-disclosure, trust]
 sources: ['raw/papers/2609.05346.md']
 confidence: high
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 discipline: [writing education, cs education]
 audience: [instructors, assessment designers, institutions]
 level: [higher ed]

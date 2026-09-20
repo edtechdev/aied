@@ -4,9 +4,9 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 audience: [instructors]
-level: [teacher training, adult learning]
+level: [teacher education, adult learning]
 sources: ['raw/papers/harnessing-ai-preservice-teachers-scoping-2026.md']
 confidence: high
 page_kind: [synthesis]

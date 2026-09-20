@@ -5,11 +5,12 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [generative-ai]
-research_method: [literature review, systematic review]
+methods: [meta-analysis-systematic-review]
+research_method: [literature review]
 audience: [instructors]
 sources: ['raw/papers/2511.19580.md']
 confidence: high
-level: [teacher training, adult learning]
+level: [teacher education, adult learning]
 page_kind: [framework]
 ---
 > **Synthesis:** Drawing on a systematic [[meta-analysis-systematic-review|literature review]], this UCL chapter proposes a five-level framework of [[human-ai-collaboration|teacher-AI teaming]]—transactional, situational, operational, praxical, and synergistic—to capture how [[generative-ai|GenAI]] interactions may replace, complement, or augment teacher competence. The framework moves beyond task division toward [[human-ai-collaboration|collaborative decision-making]] where teachers and AI engage in negotiation, constructive challenge, and co-reasoning.

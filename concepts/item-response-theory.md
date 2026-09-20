@@ -5,7 +5,6 @@ updated: "2026-09-17T09:40:00-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
-research_method: [educational measurement]
 confidence: medium
 ---
 

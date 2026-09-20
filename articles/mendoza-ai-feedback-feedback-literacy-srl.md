@@ -7,11 +7,11 @@ foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
+methods: [quantitative-research]
 ethics: [trust-calibration]
 audience: [learners, instructors]
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [k 12]
-
 sources: ['raw/papers/mendoza-ai-feedback-feedback-literacy-srl.md']
 confidence: high
 ---

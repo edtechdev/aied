@@ -6,6 +6,7 @@ type: article
 ethics: [ethics, global-south]
 stakeholders: [student-experience]
 technology: [generative-ai]
+methods: [latent-profile-analysis]
 audience: [instructors, researchers]
 level: [higher ed]
 sources: ['raw/papers/ai-ethical-awareness-ghana-students-2026.md']

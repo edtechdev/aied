@@ -8,7 +8,7 @@ technology: [cognitive-diagnosis, llm, machine-learning, multimodal, visualizati
 assessment: [educational-measurement]
 sources: ['raw/papers/geovad-bench-visual-chain-of-thought-geometry-2026.md']
 confidence: high
-research_method: [benchmark, system development]
+research_method: [system development]
 discipline: [math education, stem education]
 audience: [researchers, software developers, edtech designers]
 page_kind: [evaluation]

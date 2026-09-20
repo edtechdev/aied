@@ -8,10 +8,10 @@ technology: [generative-ai, technology-acceptance-model]
 ethics: [trust]
 connected_faqs: [institutional-ai-policy]
 research_method: [survey]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 sources: ['raw/papers/ai-adaptation-gap-higher-education-2026.md']
 confidence: high
-audience: [administrators, institutions, faculty development]
+audience: [administrators, institutions, faculty developers]
 institutions: [change-management, educational-policy-ai, governance]
 ---
 

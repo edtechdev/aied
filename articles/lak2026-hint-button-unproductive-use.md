@@ -5,8 +5,8 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [game-based-learning, help-seeking]
 technology: [intelligent-tutoring, learning-analytics]
+methods: [quantitative-research]
 stakeholders: [student-experience]
-research_method: [learning analytics, quantitative]
 discipline: [math education]
 audience: [learning analytics designers, instructional designers, researchers]
 level: [k 12]

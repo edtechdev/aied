@@ -6,7 +6,7 @@ type: article
 technology: [human-in-the-loop-ai, learning-analytics, machine-learning, student-modeling]
 assessment: [educational-measurement]
 ethics: [ethics]
-research_method: [system development, learning analytics]
+research_method: [system development]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.17618.md']

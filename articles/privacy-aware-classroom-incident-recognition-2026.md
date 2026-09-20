@@ -7,7 +7,6 @@ technology: [multimodal]
 assessment: [ai-detection]
 ethics: [privacy]
 audience: [software developers]
-research_method: [benchmark]
 level: [k 12]
 sources: ['raw/papers/2608.05115.md']
 confidence: medium

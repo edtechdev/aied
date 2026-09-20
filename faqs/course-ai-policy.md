@@ -7,9 +7,10 @@ type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
 assessment: [assessment]
 ethics: [ai-use-disclosure]
-research_method: [literature review, qualitative, survey]
-audience: [instructors, educators, curriculum designers]
+research_method: [literature review, survey]
+audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
+methods: [qualitative-research]
 institutions: [educational-policy-ai]
 ---
 

@@ -6,12 +6,13 @@ type: article
 foundations: [cognitive-offloading, learning-design, teacher-role]
 pedagogy: [constructivist]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 stakeholders: [teacher-ai-competency]
-research_method: [mixed methods, quasi-experiment]
+research_method: [quasi-experiment]
 audience: [instructors]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']
 confidence: high
-level: [teacher training, adult learning]
+level: [teacher education, adult learning]
 ---
 
 > **Synthesis:** Talebzadeh (2026) evaluates the **SAHAB** (Smart Indigenous [[pedagogy|Pedagogical]] System) model, which trains teachers to design learning units that integrate [[generative-ai|generative AI]], social [[constructivist|constructivism]], and Iran's Fundamental Reform Document (FRD) educational domains. Using a quasi-experimental single-group pretest–posttest design with all 33 eligible teachers at the Noor-e-Iman Educational Complex and a 12-hour intervention, the study found teacher competencies rose significantly from 3.05 to 4.33 (p < 0.001, Cohen's d = 1.18). [[qualitative-research|Qualitative]] thematic analysis revealed three core themes: reclamation of professional [[agency]], cognitive augmentation, and the operationalization of abstract educational standards. The author argues generative AI can function as a collaborative [[scaffolding|cognitive scaffold]] rather than a replacement, substantially reducing [[cognitive-offloading|cognitive load]] and shifting teachers from passive content deliverers to active designers.

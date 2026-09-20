@@ -5,9 +5,7 @@ updated: "2026-09-19T07:16:01-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, educational-measurement]
 ethics: [bias-mitigation, equity-in-ai-education, multilingual-learning]
-research_method: [educational measurement]
 discipline: [physics education]
-
 sources: ['raw/papers/2607.28210.md']
 confidence: high
 audience: [assessment professionals, researchers]

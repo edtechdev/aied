@@ -8,7 +8,6 @@ technology: [intelligent-tutoring]
 assessment: [automated-assessment]
 discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
-
 confidence: high
 ---
 

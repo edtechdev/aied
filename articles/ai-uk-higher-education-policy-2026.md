@@ -6,7 +6,6 @@ type: article
 ethics: [equity-in-ai-education, ethics]
 stakeholders: [administrator]
 connected_faqs: [institutional-ai-policy]
-research_method: [systematic review]
 audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/ai-uk-higher-education-policy-2026.md']

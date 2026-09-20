@@ -3,8 +3,7 @@ title: "Comparing the effectiveness of expert-written text, AI-generated text, a
 created: "2026-08-26T10:10:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [misconceptions]
-pedagogy: [cognitive-psychology, metacognition, refutation-text]
+pedagogy: [cognitive-psychology, metacognition, misconceptions, refutation-text]
 technology: [generative-ai]
 research_method: [quasi-experiment]
 discipline: [science education, physics education]

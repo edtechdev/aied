@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2604.02677.md']
 confidence: high
 discipline: [math education, writing education]

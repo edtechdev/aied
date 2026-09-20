@@ -5,8 +5,9 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, cognitive-diagnosis, generative-ai, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 sources: ['raw/papers/10.1145_3770855.3817769.md']
 confidence: high
 level: [higher ed]

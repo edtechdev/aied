@@ -4,8 +4,9 @@ created: "2026-09-16T15:58:20-04:00"
 updated: "2026-09-19T06:28:59-04:00"
 weight: 65
 type: faq
+methods: [meta-analysis-systematic-review]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
-research_method: [systematic review, meta-analysis, case study]
+research_method: [case study]
 audience: [instructors, learning designers, designers]
 level: [higher ed, k 12, special education]
 ---

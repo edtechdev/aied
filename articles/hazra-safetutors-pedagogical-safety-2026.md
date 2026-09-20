@@ -5,18 +5,15 @@ updated: "2026-09-20T03:43:02-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm]
-
 audience: [software developers]
-research_method: [benchmark]
 level: [k 12]
-
 sources: ['raw/papers/hazra-safetutors-pedagogical-safety-2026.md']
 confidence: medium
 discipline: [math education, physics education, chemistry education]
 page_kind: [evaluation, framework]
+methods: [benchmark]
 institutions: [regulation]
 ethics: [pedagogical-safety]
-
 ---
 
 > **Synthesis:** Conventional [[llm]] safety benchmarks focus on toxic outputs, jailbreaks, and bias. In education the primary risks are quieter: as Hazra et al. put it, *"Solving problems correctly and avoiding toxic language does not make a tutor safe. Tutoring-specific harm is qualitatively different."* **SafeTutors** is a benchmark that jointly evaluates safety and pedagogy in AI tutoring systems across [[math-education|mathematics]], [[physics-education|physics]], and [[chemistry-education|chemistry]], and it finds that **every tested model shows broad [[pedagogy|pedagogical]] harm**, with failure rates escalating from **17.7% in single-turn to 77.8% in multi-turn** student–tutor dialogue. The harms it measures — answer over-disclosure, [[misconceptions|misconception]] reinforcement, abdication of [[scaffolding]] — look "helpful" on the surface: the student gets a correct answer quickly. The long-term effect is learning atrophy, and because these failures worsen as conversations lengthen, single-turn "safe/helpful" results systematically mask tutor failure. Tutoring harm is thus qualitatively different from content harm, and an 11-dimension, 48-sub-risk taxonomy supplies a vocabulary for it grounded in learning science.

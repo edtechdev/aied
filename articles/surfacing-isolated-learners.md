@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [system development]
 audience: [instructors, learners]
 level: [higher ed]
-
 sources: ['raw/papers/2605.29240.md']
 confidence: medium
 discipline: [cs education]

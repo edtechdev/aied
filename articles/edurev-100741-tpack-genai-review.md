@@ -3,12 +3,11 @@ title: "Integrating Generative Artificial Intelligence into Student Learning: A 
 created: "2026-08-14T10:37:25-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
-foundations: [ai-literacy, educational-development, learning-design]
+foundations: [ai-literacy, educational-development, learning-design, tpack]
 technology: [generative-ai]
 assessment: [assessment]
-stakeholders: [student-experience, teacher-ai-competency, tpack]
-research_method: [meta-analysis, systematic review]
-audience: [learners, faculty development]
+stakeholders: [student-experience, teacher-ai-competency]
+audience: [learners, faculty developers]
 level: [higher ed, k 12]
 sources: ['raw/papers/edurev-100741-tpack-genai-review.md']
 confidence: high

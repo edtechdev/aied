@@ -4,7 +4,7 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, knowledge-tracing, learning-analytics, student-modeling]
-research_method: [benchmark]
+methods: [benchmark]
 sources: ['raw/papers/cognitive-load-transfer-knowledge-tracing-2026.md']
 confidence: high
 audience: [researchers, software developers, learning analytics designers]

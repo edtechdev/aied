@@ -13,7 +13,7 @@ ethics: [equity-in-ai-education, digital-divide, trust-calibration]
 discipline: [learning sciences]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed]
-audience: [educators, learning designers, researchers]
+audience: [instructors, learning designers, researchers]
 page_kind: [framework]
 sources: ['raw/papers/developing-effective-genai-users-motivation-2026.md']
 confidence: high

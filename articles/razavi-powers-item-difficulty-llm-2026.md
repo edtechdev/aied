@@ -5,12 +5,12 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [educational-nlp, llm, machine-learning]
 assessment: [assessment, automated-question-generation, educational-measurement, item-response-theory, psychometrically-aware-ai]
+methods: [benchmark]
 sources: ['raw/papers/razavi-powers-item-difficulty-llm-2026.md']
 confidence: high
-research_method: [educational measurement, benchmark]
 discipline: [math education, english education]
 audience: [assessment professionals, researchers, assessment designers]
-level: [elementary, k 12]
+level: [primary education, k 12]
 page_kind: [evaluation]
 ---
 

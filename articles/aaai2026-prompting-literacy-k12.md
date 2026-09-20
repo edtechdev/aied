@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [system development, experiment]
 audience: [instructors, learners]
 level: [k 12]
-
 sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high
 ---

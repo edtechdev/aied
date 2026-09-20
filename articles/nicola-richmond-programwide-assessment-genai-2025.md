@@ -6,8 +6,9 @@ type: article
 foundations: [curriculum-design, educational-development, teacher-role]
 technology: [generative-ai]
 assessment: [assessment]
-research_method: [qualitative, interviews]
-audience: [instructors, faculty development]
+methods: [qualitative-research]
+research_method: [interviews]
+audience: [instructors, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/nicola-richmond-programwide-assessment-genai-2025.md']
 confidence: medium

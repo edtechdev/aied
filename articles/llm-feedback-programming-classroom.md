@@ -8,7 +8,6 @@ assessment: [automated-assessment, feedback, formative-assessment]
 research_method: [system development]
 discipline: [stem education]
 level: [higher ed]
-
 sources: ['raw/papers/2606.08807.md']
 confidence: high
 audience: [instructors, researchers]

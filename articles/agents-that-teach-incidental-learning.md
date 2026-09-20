@@ -4,16 +4,14 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
-pedagogy: [self-regulated-learning]
+pedagogy: [professional-training, self-regulated-learning]
 technology: [generative-ai, llm, rag]
 audience: [instructors, software developers]
 research_method: [theoretical analysis]
 discipline: [cs education]
 level: [higher ed]
-
 sources: ['raw/papers/2607.06101.md']
 confidence: high
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Mehra et al. (2026) warn that as AI coding agents absorb substantial implementation work, developers lose the informal, effortful [[problem-solving]] through which software engineering expertise historically accumulated — a form of [[situated-learning|incidental learning]] that will not return on its own. They frame the accumulating understanding gap as **Knowledge Debt**, a developer-level analogue of Technical Debt incurred when agents execute changes the developer cannot fully explain. Rather than layering formal instruction onto the workflow, they propose six design principles (Contextual, Grounded, Ambient, Selective, Adaptive, Closed-Loop) and operationalize them in **SHIELD**, a multi-agent system that surfaces out-of-band, contextual learning moments drawn from the coding agent's own reasoning — without disrupting developer flow.

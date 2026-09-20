@@ -5,8 +5,9 @@ updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [survey, mixed methods]
+research_method: [survey]
 discipline: [design education, writing education]
 audience: [learners]
 level: [higher ed]

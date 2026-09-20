@@ -6,12 +6,13 @@ type: article
 sources: ["raw/papers/all-girls-genai-makerspace-gender-equity-2026.md"]
 foundations: [ai-literacy]
 technology: [generative-ai]
+methods: [qualitative-research]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
-research_method: [case study, qualitative, interviews]
+research_method: [case study, interviews]
 discipline: [stem education]
-audience: [educators, edtech designers, institutions]
+audience: [instructors, edtech designers, institutions]
 level: [k 12]
 page_kind: [framework]
 ---

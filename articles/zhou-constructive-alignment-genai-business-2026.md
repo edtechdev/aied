@@ -11,7 +11,7 @@ discipline: [business education]
 level: [higher ed]
 sources: ['raw/papers/zhou-constructive-alignment-genai-business-2026.md']
 confidence: medium
-audience: [instructors, curriculum designers, faculty development]
+audience: [instructors, curriculum designers, faculty developers]
 institutions: [change-management]
 ---
 

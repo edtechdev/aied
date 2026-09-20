@@ -5,8 +5,8 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, prompt-engineering]
+methods: [mixed-methods-research]
 audience: [learners, instructors]
-research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/caeai-same-ai-different-pathways.md']
 confidence: medium

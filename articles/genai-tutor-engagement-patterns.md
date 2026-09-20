@@ -6,7 +6,7 @@ type: article
 pedagogy: [student-engagement]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, rag]
 stakeholders: [student-experience]
-research_method: [learning analytics, secondary analysis]
+research_method: [secondary analysis]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2602.00447.md']

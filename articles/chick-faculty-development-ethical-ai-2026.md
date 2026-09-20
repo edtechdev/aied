@@ -3,17 +3,17 @@ title: "From fear to innovation: A case study of transformative faculty developm
 created: "2026-09-18T10:15:00-04:00"
 updated: "2026-09-19T02:35:00-04:00"
 type: article
-foundations: [ai-literacy, teacher-role, academic-integrity]
-pedagogy: [anxiety-and-stress, community-of-inquiry, self-efficacy]
+foundations: [academic-integrity, ai-literacy, teacher-role]
+pedagogy: [anxiety-and-stress, community-of-inquiry, professional-training, self-efficacy]
 technology: [generative-ai, llm]
 assessment: [assessment, authentic-assessment]
-methods: [qualitative-research, mixed-methods-research]
-stakeholders: [teacher-ai-competency, professional-training]
+methods: [mixed-methods-research, qualitative-research]
+stakeholders: [teacher-ai-competency]
 institutions: [change-management, educational-policy-ai]
-ethics: [universal-design-for-learning, equity-in-ai-education, ai-use-disclosure]
+ethics: [ai-use-disclosure, equity-in-ai-education, universal-design-for-learning]
 research_method: [case study, thematic analysis]
-level: [higher ed, teacher training]
-audience: [faculty development, instructors, administrators]
+level: [higher ed, teacher education]
+audience: [faculty developers, instructors, administrators]
 sources: ['raw/papers/chick-faculty-development-ethical-ai-2026.md']
 confidence: high
 ---

@@ -5,10 +5,10 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
-research_method: [mixed methods]
 discipline: [cs education]
 audience: [learners]
 level: [special education]

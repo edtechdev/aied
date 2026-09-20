@@ -5,7 +5,7 @@ updated: "2026-09-17T02:30:30-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
-research_method: [research methods, experiment]
+research_method: [experiment]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]

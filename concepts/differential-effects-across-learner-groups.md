@@ -5,9 +5,10 @@ updated: "2026-09-19T06:20:00-04:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
+methods: [meta-analysis-systematic-review, mixed-methods-research]
 stakeholders: [learners]
 assessment: [assessment-validity]
-research_method: [meta-analysis, quasi-experiment, survey, mixed methods]
+research_method: [quasi-experiment, survey]
 audience: [instructors, learning designers, administrators, researchers]
 page_kind: [evaluation, synthesis]
 confidence: medium

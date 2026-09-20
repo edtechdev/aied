@@ -10,7 +10,7 @@ research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/discobot-task-context-trust-educational-hri-2026.md']
 confidence: high
-audience: [designers, educators]
+audience: [designers, instructors]
 page_kind: [evaluation]
 ---
 

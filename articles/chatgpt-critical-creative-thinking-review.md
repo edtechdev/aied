@@ -6,8 +6,8 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking, learning-design]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai]
+methods: [meta-analysis-systematic-review]
 audience: [instructors, researchers]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-critical-creative-thinking-review.md']
 confidence: high

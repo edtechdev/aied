@@ -5,9 +5,10 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [curriculum-design]
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, machine-learning, student-modeling]
+methods: [benchmark]
 sources: ['raw/papers/pradeesh-outcome-knowledge-tracing-affinity-2026.md']
 confidence: high
-research_method: [benchmark, system development]
+research_method: [system development]
 audience: [learning analytics designers, researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation, framework]

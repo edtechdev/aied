@@ -11,7 +11,6 @@ audience: [learners, instructors]
 research_method: [experiment]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']
 confidence: high
 ---

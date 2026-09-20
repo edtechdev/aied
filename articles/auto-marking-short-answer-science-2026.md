@@ -5,11 +5,12 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [assessment, automated-assessment, automated-essay-scoring, formative-assessment]
+methods: [meta-analysis-systematic-review]
 sources: ['raw/papers/auto-marking-short-answer-science-2026.md']
 confidence: high
-research_method: [systematic review, literature review]
+research_method: [literature review]
 discipline: [science education]
-audience: [assessment professionals, researchers, educators]
+audience: [assessment professionals, researchers, instructors]
 page_kind: [synthesis]
 ---
 

@@ -6,11 +6,11 @@ type: concept
 foundations: [curriculum-design]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, personalized-learning]
 ethics: [explainable-ai]
+pedagogy: [lifelong-learning]
 confidence: medium
 audience: [instructors, learners, researchers, learning designers, software developers]
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
-stakeholders: [lifelong-learning]
 ---
 
 > **Recommender systems and learning paths** — the part of [[adaptive-learning|adaptive]] and [[personalized-learning]] technology that decides *what a learner should encounter next* and in what order: which resource, practice item, or course to rank toward them, and which sequence of concepts to walk through. Its two method [[parents-and-families|families]] are behavioral — [[machine-learning|collaborative filtering]] over interaction logs — and semantic — sequencing over a [[knowledge-graph|knowledge graph]] of concepts, resources, and prerequisite relations — increasingly fused into hybrid models. Because the output is a ranked list rather than a dialogue, the distinctive problems are selectivity and legitimacy: cold start and popularity bias under sparse data, the directional asymmetry of prerequisites, and whether a [[teacher-role|teacher]] or learner can understand, audit, and trust the list they are shown.

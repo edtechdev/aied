@@ -11,7 +11,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/genai-thoughtless-use-self-directed-learning-2026.md']
 confidence: high
-audience: [educators, institutions, researchers]
+audience: [instructors, institutions, researchers]
 ---
 
 > **Synthesis:** Zhao & Gu (2026), grounded in Social Cognitive Theory, survey 487 [[higher-ed|undergraduates]] in Henan Province, China, and use multi-group SEM to show that the **thoughtless use of [[generative-ai|generative AI]] (TUGA)** — adopting AI answers without [[critical-thinking|critically]] evaluating or understanding them — significantly undermines [[self-directed-learning|self-directed learning (SDL)]]. This negative effect operates both directly and through the partial mediation of [[self-efficacy|self-efficacy (SE)]] and [[motivation]]. Multi-group analysis reveals substantial **gender differences**: the negative impact of thoughtless use on motivation was stronger for male students, while effects on self-efficacy were stronger for female students.

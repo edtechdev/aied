@@ -5,11 +5,11 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, learning-analytics, llm]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [longitudinal study, qualitative, learning analytics]
+research_method: [longitudinal study]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/10.1016_j.chbr.2026.101130.md']
 confidence: high
 ---

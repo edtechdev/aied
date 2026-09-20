@@ -5,9 +5,9 @@ updated: "2026-09-20T08:08:49-04:00"
 type: article
 foundations: [ai-education]
 technology: [learning-analytics, personalized-learning]
+methods: [benchmark]
 ethics: [bias-mitigation]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/caeai-fair-recommendations.md']
 confidence: medium
 page_kind: [evaluation]

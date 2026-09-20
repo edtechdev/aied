@@ -6,8 +6,9 @@ type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction]
 assessment: [assessment, feedback]
-research_method: [mixed methods, survey, interviews]
-audience: [instructors, educators, students]
+methods: [mixed-methods-research]
+research_method: [survey, interviews]
+audience: [instructors, learners]
 level: [higher ed]
 sources: ['raw/papers/student-genai-use-views-writing.md']
 confidence: high

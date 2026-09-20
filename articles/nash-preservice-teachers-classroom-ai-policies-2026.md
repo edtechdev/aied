@@ -6,12 +6,13 @@ type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 technology: [generative-ai]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
-research_method: [qualitative, case study]
+research_method: [case study]
 discipline: [english education, writing education]
-level: [secondary, teacher training]
-audience: [teacher educators, educators, researchers]
+level: [secondary, teacher education]
+audience: [teacher educators, instructors, researchers]
 sources: ['raw/papers/nash-preservice-teachers-classroom-ai-policies-2026.md']
 confidence: high
+methods: [qualitative-research]
 institutions: [educational-policy-ai]
 ---
 

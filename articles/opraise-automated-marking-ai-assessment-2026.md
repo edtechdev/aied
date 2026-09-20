@@ -5,8 +5,8 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, feedback]
+methods: [mixed-methods-research, benchmark, qualitative-research]
 ethics: [bias-mitigation, ethics]
-research_method: [mixed methods, benchmark, qualitative]
 audience: [instructors, administrators, assessment professionals, institutions, researchers]
 level: [higher ed]
 sources: ['raw/papers/opraise-automated-marking-ai-assessment-2026.md']

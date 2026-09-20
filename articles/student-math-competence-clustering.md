@@ -5,9 +5,9 @@ updated: "2026-09-20T03:43:02-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [adaptive-learning, knowledge-tracing, learning-analytics, personalized-learning]
-assessment: [formative-assessment]
+assessment: [formative-assessment, educational-measurement]
+methods: [benchmark, quantitative-research]
 stakeholders: [student-experience]
-research_method: [benchmark, quantitative, educational measurement]
 discipline: [math education, stem education]
 audience: [learners]
 level: [secondary, k 12, higher ed]

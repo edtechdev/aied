@@ -5,7 +5,7 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 assessment: [assessment, educational-measurement, feedback]
-audience: [educators, assessment designers, institutions]
+audience: [instructors, assessment designers, institutions]
 research_method: "instrument development"
 sources: [raw/papers/10.3389_feduc.2026.1934632.md]
 confidence: high

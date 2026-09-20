@@ -6,7 +6,7 @@ type: concept
 foundations: [ai-education, ai-literacy, computational-thinking]
 pedagogy: [well-being]
 connected_faqs: [ai-guidance-children-under-13]
-level: [k 12, early childhood]
+level: [k 12, preschool]
 confidence: high
 ---
 

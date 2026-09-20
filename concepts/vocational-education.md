@@ -5,9 +5,9 @@ updated: "2026-09-17T14:04:23-04:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
-stakeholders: [career-development-and-readiness, professional-training]
+pedagogy: [career-development-and-readiness, professional-training]
 discipline: [vocational education]
-audience: [educators, instructors, curriculum designers, institutions]
+audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
 ---

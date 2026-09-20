@@ -11,7 +11,6 @@ connected_faqs: [reducing-over-reliance]
 research_method: [literature review]
 audience: [researchers, instructors]
 level: [higher ed]
-
 sources: ['raw/papers/cognitive-offloading-metacognitive-review-2026.md']
 confidence: high
 page_kind: [synthesis, framework]

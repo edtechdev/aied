@@ -7,9 +7,8 @@ foundations: [ai-literacy]
 pedagogy: [metacognition]
 technology: [human-in-the-loop-ai, intelligent-tutoring, learning-analytics, student-modeling]
 assessment: [automated-assessment]
-
 ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
-audience: [learners, researchers, designers, educators]
+audience: [learners, researchers, designers, instructors]
 confidence: high
 ---
 

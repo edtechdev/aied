@@ -5,17 +5,16 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 
 foundations: [teacher-role]
-pedagogy: [collaborative-learning, student-ai-interaction]
-technology: [human-in-the-loop-ai, visualization, edtech-platform]
+pedagogy: [collaborative-learning, professional-training, student-ai-interaction]
+technology: [edtech-platform, human-in-the-loop-ai, visualization]
 ethics: [privacy]
 sources:
   - raw/papers/breideband-community-builder-cobi-2026.md
 confidence: high
-research_method: [design-based research, user study]
+research_method: [user study]
 audience: [teachers, edtech designers, instructors]
 level: [k 12]
 methods: [design-based-research]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** **A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms** — This paper introduces the Community Builder (CoBi), a classroom-wide AI system that uses speech recognition and language understanding to create non-evaluative, privacy-preserving visualizations of uplifting small-group student discourse, intended to support students' [[collaborative-learning]] skills and community building. Through an interview study with three middle school teachers and 12 students plus two classroom pilots with 61 students across six [[k-12]] classrooms, the authors establish broad student and teacher buy-in, technical feasibility in noisy real-world classrooms, and the central finding that high-integrity use depends on substantial [[professional-training]] for teachers. The work surfaces transferable design principles around [[teacher-role]] facilitation, [[human-in-the-loop-ai]] orchestration, and navigating tensions between privacy, surveillance, and student agency.

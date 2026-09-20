@@ -6,12 +6,13 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
-research_method: [policy analysis, qualitative]
+research_method: [policy analysis]
 level: [higher ed]
 sources: ['raw/papers/adarkwah-genai-unesco-policy-2026.md']
 confidence: high
 audience: [policymakers, administrators, institutions]
 page_kind: [framework]
+methods: [qualitative-research]
 institutions: [educational-policy-ai, governance]
 ---
 

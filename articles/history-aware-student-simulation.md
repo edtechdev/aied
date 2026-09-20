@@ -5,8 +5,9 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, rag, reinforcement-learning]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [researchers, software developers]
 sources: ['raw/papers/2605.30051.md']
 confidence: high

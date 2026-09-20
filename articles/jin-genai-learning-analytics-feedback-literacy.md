@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [case study]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/jin-genai-learning-analytics-feedback-literacy.md']
 confidence: high
 ---

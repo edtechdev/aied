@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, computational-thinking, curriculum-design]
 ethics: [ethics]
 audience: [instructors, researchers]
-research_method: [systematic review]
 discipline: [stem education, science education]
 level: [k 12]
 sources: ['raw/papers/niri-steam-ai-literacy-review-2026.md']

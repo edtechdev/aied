@@ -5,7 +5,7 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [assessment-validity, automated-essay-scoring]
-research_method: [benchmark]
+methods: [benchmark]
 audience: [researchers, assessment designers]
 level: [higher ed]
 sources: ["raw/papers/llm-essay-scoring-feature-weighting-2026.md"]

@@ -9,7 +9,6 @@ ethics: [equity-in-ai-education, ethics]
 connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/policy-deficit-ai-sel-2026.md']
 confidence: high
-research_method: [systematic review]
 audience: [policymakers, researchers, institutions]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]

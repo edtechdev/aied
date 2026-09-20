@@ -7,7 +7,7 @@ foundations: [ai-literacy, educational-development]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 research_method: [theoretical analysis]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/critical-thinking-genai-scaffolding.md']
 confidence: medium

@@ -9,10 +9,9 @@ technology: [generative-ai]
 ethics: [ai-misuse-learning-harm, digital-divide, equity-in-ai-education, neurodiversity]
 research_method: [theoretical analysis]
 level: [adult learning]
-
 sources: ['raw/papers/sovereign-hive-titl-further-education-2026.md']
 confidence: high
-audience: [educators, policymakers, institutions]
+audience: [instructors, policymakers, institutions]
 page_kind: [framework]
 ---
 

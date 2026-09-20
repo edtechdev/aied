@@ -4,12 +4,11 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/pedagogy-first-technology-second-teacher-knowledge-2026.md"]
-foundations: [ai-education]
+foundations: [ai-education, tpack]
 pedagogy: [pedagogy]
-stakeholders: [tpack]
 confidence: medium
-research_method: [structural equation modeling, quantitative]
-audience: [teacher educators, faculty development, administrators]
+research_method: [structural equation modeling]
+audience: [teacher educators, faculty developers, administrators]
 level: [secondary, k 12]
 page_kind: [framework]
 methods: [quantitative-research]

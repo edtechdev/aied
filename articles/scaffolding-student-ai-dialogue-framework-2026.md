@@ -11,7 +11,7 @@ foundations: [ai-literacy]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]
 level: [secondary, k 12]
-audience: [educators, learning designers, edtech designers, designers, researchers]
+audience: [instructors, learning designers, edtech designers, designers, researchers]
 page_kind: [framework]
 sources: ['raw/papers/scaffolding-student-ai-dialogue-framework-2026.md']
 confidence: high

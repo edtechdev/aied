@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [problem-solving]
 technology: [affective-computing, affective-tutoring, human-in-the-loop-ai, learning-analytics, llm]
-research_method: [learning analytics]
 sources: ['raw/papers/2607.23317.md']
 confidence: high
 audience: [researchers, learning analytics designers]

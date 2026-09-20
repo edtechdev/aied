@@ -6,10 +6,8 @@ type: article
 technology: [llm]
 assessment: [automated-assessment, automated-essay-scoring, educational-measurement, formative-assessment]
 audience: [software developers]
-research_method: [benchmark, educational measurement]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/2607.27671.md']
 confidence: high
 page_kind: [evaluation]

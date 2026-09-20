@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
 stakeholders: [student-experience]
-research_method: [research methods]
 audience: [learners]
 level: [higher ed]
 confidence: high

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education, ai-literacy]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, personalized-learning]
 audience: [researchers]
-research_method: [systematic review]
 sources: ['raw/papers/raza-farooq-aied-review-2020-2025.md']
 confidence: high
 level: [higher ed]

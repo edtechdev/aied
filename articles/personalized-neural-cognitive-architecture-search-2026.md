@@ -7,7 +7,7 @@ sources: ["raw/papers/personalized-neural-cognitive-architecture-search-2026.md"
 technology: [adaptive-learning, cognitive-diagnosis, learning-analytics, personalized-learning]
 assessment: [educational-measurement]
 confidence: medium
-research_method: [system development, learning analytics]
+research_method: [system development]
 audience: [assessment designers, learning analytics designers, researchers]
 level: [higher ed]
 page_kind: [evaluation]

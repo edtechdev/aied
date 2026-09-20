@@ -12,7 +12,7 @@ sources: ['raw/papers/2608.28373.md']
 confidence: high
 research_method: [theoretical analysis]
 discipline: [medical education]
-audience: [medical educators, curriculum designers, educators]
+audience: [medical educators, curriculum designers, instructors]
 level: [higher ed]
 page_kind: [framework]
 ---

@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [llm, pedagogical-llm-training, rag, reinforcement-learning, open-source]
 ethics: [pedagogical-safety]
-
 audience: [software developers]
 research_method: [system development]
 sources: ['raw/papers/singh-eduqwen-pedagogical-rl-2026.md']

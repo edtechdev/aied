@@ -3,17 +3,15 @@ title: "Teacher Involvement in Developing Sustainable Education Materials for AI
 created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [learning-design, teacher-role]
+foundations: [learning-design, teacher-role, tpack]
 technology: [generative-ai]
-stakeholders: [tpack]
 ethics: [sustainability]
 research_method: [survey]
 audience: [instructors]
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 sources: ['raw/papers/riandi-teacher-ai-green-energy-education-2026.md']
 confidence: high
 discipline: [science education]
-
 ---
 > **Synthesis:** Riandi et al. (2026) examine the factors influencing teachers' ability to integrate AI into science and green energy education within the framework of **Education for Sustainable Development (ESD)**. Using a structural equation model based on the TPACK framework with 122 in-service teachers, they find that only two constructs significantly influence teachers' AI-integration capability: **use of AI in science and green energy** and **involvement in developing ESD-aligned teaching materials**. In contrast, abstract AI knowledge and attitudes toward AI did not show significant effects — underscoring the importance of practical [[student-engagement|engagement]] and contextual experience over abstract cognition.
 

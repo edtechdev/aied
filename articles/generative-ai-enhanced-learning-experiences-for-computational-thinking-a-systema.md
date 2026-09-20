@@ -5,12 +5,11 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-education, computational-thinking, learning-design]
 technology: [generative-ai, intelligent-tutoring]
-research_method: [systematic review]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/generative-ai-enhanced-learning-experiences-for-computational-thinking-a-systema.md']
 confidence: high
-audience: [educators, instructional designers, researchers]
+audience: [instructors, instructional designers, researchers]
 methods: [meta-analysis-systematic-review]
 ---
 

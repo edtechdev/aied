@@ -5,10 +5,10 @@ updated: "2026-09-17T14:18:00-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
+pedagogy: [lifelong-learning]
 audience: [instructors, administrators, learners]
 level: [adult learning, higher ed]
 confidence: high
-stakeholders: [lifelong-learning]
 ---
 
 > **Workplace learning** — the use of AI for workforce development, corporate learning, and professional skill acquisition. Professional training extends [[ai-education|AI in education]] beyond formal schooling into workplace and [[lifelong-learning|lifelong learning]] contexts.

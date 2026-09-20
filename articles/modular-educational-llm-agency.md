@@ -9,7 +9,6 @@ technology: [intelligent-tutoring, learning-analytics, llm]
 stakeholders: [student-experience]
 research_method: [system development, theoretical analysis]
 audience: [instructors, learners]
-
 sources: ['raw/papers/2605.30187.md']
 confidence: high
 page_kind: [framework]

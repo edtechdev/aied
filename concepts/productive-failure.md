@@ -5,9 +5,8 @@ updated: "2026-08-31T06:34:37-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
-technology: [generative-ai]
+technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
-research_method: [learning analytics]
 confidence: high
 ---
 

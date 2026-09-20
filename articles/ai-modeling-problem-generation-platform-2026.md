@@ -3,11 +3,12 @@ title: "Creating an AI-powered platform for generating modelling problems: A cas
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article
+methods: [mixed-methods-research]
 sources: ['raw/papers/ai-modeling-problem-generation-platform-2026.md']
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai, intelligent-tutoring]
 confidence: medium
-research_method: [system development, mixed methods, case study]
+research_method: [system development, case study]
 discipline: [math education]
 audience: [teachers, curriculum designers, instructional designers]
 level: [secondary]

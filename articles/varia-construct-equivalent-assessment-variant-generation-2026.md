@@ -6,9 +6,9 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [assessment-validity, authentic-assessment, automated-assessment]
+methods: [benchmark]
 sources: ['raw/papers/varia-construct-equivalent-assessment-variant-generation-2026.md']
 confidence: high
-research_method: [benchmark]
 audience: [assessment designers, researchers, institutions]
 page_kind: [evaluation]
 ---

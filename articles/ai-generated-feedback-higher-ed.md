@@ -11,7 +11,6 @@ stakeholders: [student-experience]
 research_method: [quasi-experiment]
 audience: [learners, instructors]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-2026-ai-generated-feedback-higher-ed.md']
 confidence: high
 page_kind: [evaluation]

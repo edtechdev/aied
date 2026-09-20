@@ -3,11 +3,12 @@ title: "Emotion-Aware Classroom Quality Assessment Leveraging IoT-Based Real-Tim
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+methods: [benchmark]
 sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
 technology: [affective-computing]
 confidence: medium
-research_method: [system development, benchmark]
-audience: [edtech designers, educators, researchers]
+research_method: [system development]
+audience: [edtech designers, instructors, researchers]
 level: [k 12]
 page_kind: [evaluation]
 ---

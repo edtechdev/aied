@@ -5,12 +5,12 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [learning-analytics, llm]
+methods: [qualitative-research]
 stakeholders: [student-experience]
 ethics: [hallucination-risk]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 audience: [learners]
 level: [higher ed, k 12]
-
 sources: ['raw/papers/2606.14920.md']
 confidence: high
 discipline: [cs education]

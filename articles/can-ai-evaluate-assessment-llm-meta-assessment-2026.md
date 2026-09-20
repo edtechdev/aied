@@ -6,7 +6,6 @@ type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [ai-feedback-quality, assessment, assessment-validity, automated-assessment, educational-measurement]
 ethics: [hallucination-risk]
-research_method: [educational measurement]
 level: [higher ed]
 sources: ['raw/papers/can-ai-evaluate-assessment-llm-meta-assessment-2026.md']
 confidence: medium

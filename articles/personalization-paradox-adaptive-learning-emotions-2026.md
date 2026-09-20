@@ -7,7 +7,7 @@ foundations: [agency, ai-literacy]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [adaptive-learning, personalized-learning]
 audience: [researchers, instructors, instructional designers, policymakers, edtech designers]
-research_method: [longitudinal survey, structural equation modeling]
+research_method: [longitudinal study, structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1915839.md']
 confidence: high
 level: [higher ed]

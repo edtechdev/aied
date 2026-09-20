@@ -5,7 +5,7 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [automated-assessment, feedback, formative-assessment]
-research_method: [design-based research]
+methods: [design-based-research]
 level: [higher ed]
 sources: ['raw/papers/ai-assisted-instructor-supervised-grading-feedback.md']
 confidence: high

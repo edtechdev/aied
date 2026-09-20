@@ -6,7 +6,6 @@ type: article
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, llm, personalized-learning, rag]
 assessment: [formative-assessment]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.13370.md']

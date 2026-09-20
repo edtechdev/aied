@@ -8,7 +8,6 @@ assessment: [automated-assessment]
 audience: [software developers]
 research_method: [system development]
 level: [higher ed, k 12]
-
 sources: ['raw/papers/2607.10647.md']
 confidence: medium
 page_kind: [evaluation]

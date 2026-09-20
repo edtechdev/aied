@@ -6,7 +6,7 @@ type: article
 foundations: [learning-design, teacher-role]
 pedagogy: [productive-failure]
 technology: [generative-ai, llm]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 discipline: [math education]
 audience: [instructors]
 level: [k 12]

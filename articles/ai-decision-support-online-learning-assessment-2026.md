@@ -7,7 +7,6 @@ foundations: [ai-education]
 pedagogy: [online-teaching-and-learning]
 technology: [ai-technologies, learning-analytics, machine-learning, personalized-learning]
 assessment: [automated-assessment]
-research_method: [systematic review]
 sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
 audience: [edtech designers, institutions]

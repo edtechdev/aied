@@ -5,8 +5,8 @@ updated: "2026-09-19T12:04:28-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-assessment]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [cs education]
 sources: ['raw/papers/llm-automated-grading-programming-comparison-2026.md']
 confidence: high

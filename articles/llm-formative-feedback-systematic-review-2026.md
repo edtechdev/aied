@@ -6,10 +6,10 @@ type: article
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, llm]
 assessment: [feedback, feedback-literacy, formative-assessment]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 sources: ['raw/papers/llm-formative-feedback-systematic-review-2026.md']
 confidence: high
-audience: [educators, researchers]
+audience: [instructors, researchers]
 level: [higher ed]
 page_kind: [synthesis]
 ---

@@ -11,7 +11,7 @@ level: [k 12]
 sources: ['raw/papers/2606.18030.md']
 confidence: high
 discipline: [math education]
-audience: [edtech designers, educators]
+audience: [edtech designers, instructors]
 ---
 
 > **Synthesis:** - Effective parent–child tutoring depends on preserving distinct, asymmetric roles: parents guide the learning process while children remain actively engaged in understanding and reasoning.

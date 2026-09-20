@@ -7,9 +7,7 @@ pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm]
 assessment: [automated-assessment, feedback]
 stakeholders: [student-experience]
-research_method: [benchmark]
 audience: [learners, software developers]
-
 sources: ['raw/papers/2607.28128.md']
 confidence: high
 page_kind: [evaluation]

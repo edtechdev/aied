@@ -5,9 +5,10 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [self-efficacy, student-engagement, well-being]
+methods: [quantitative-research]
 ethics: [ai-misuse-learning-harm]
-audience: [researchers, educators, administrators, policymakers, instructors]
-research_method: [quantitative, survey]
+audience: [researchers, administrators, policymakers, instructors]
+research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1889053.md']
 confidence: high
 level: [higher ed]

@@ -5,8 +5,9 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [active-learning, online-teaching-and-learning]
 technology: [generative-ai, llm, personalized-learning, rag]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods, user study]
+research_method: [user study]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed]

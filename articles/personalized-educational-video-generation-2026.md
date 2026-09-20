@@ -10,7 +10,7 @@ sources: ['raw/papers/personalized-educational-video-generation-2026.md']
 confidence: high
 research_method: [system development, user study]
 discipline: [science education, math education]
-audience: [educators, learners]
+audience: [instructors, learners]
 level: k 12
 ---
 

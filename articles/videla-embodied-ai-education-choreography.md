@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/videla-embodied-ai-education-choreography.md']
 confidence: high
 discipline: [cs education]
-audience: [researchers, educators]
+audience: [researchers, instructors]
 page_kind: [framework]
 ---
 

@@ -5,10 +5,11 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 technology: [conversational-ai, generative-ai, technology-acceptance-model]
+methods: [latent-profile-analysis]
 research_method: [survey]
 discipline: [stem education]
-audience: [faculty development]
-level: [higher ed, teacher training]
+audience: [faculty developers]
+level: [higher ed, teacher education]
 sources: ['raw/papers/chen-preservice-teachers-chatgpt-lpa-2026.md']
 confidence: high
 page_kind: [framework]

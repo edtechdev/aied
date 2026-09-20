@@ -5,13 +5,12 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [computational-thinking]
 assessment: [assessment]
-research_method: [meta-analysis, systematic review]
 discipline: [cs education, stem education]
 level: [k 12]
 page_kind: [synthesis]
 sources: ['raw/papers/astor-computational-thinking-meta-review-2026.md']
 confidence: high
-audience: [researchers, curriculum designers, educators]
+audience: [researchers, curriculum designers, instructors]
 methods: [meta-analysis-systematic-review]
 ---
 

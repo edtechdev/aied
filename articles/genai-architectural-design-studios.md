@@ -5,8 +5,9 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [active-learning]
 technology: [generative-ai]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative, case study]
+research_method: [case study]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.24752.md']

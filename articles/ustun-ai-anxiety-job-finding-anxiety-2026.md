@@ -9,7 +9,7 @@ research_method: [survey]
 level: [higher ed, adult learning]
 sources: ['raw/papers/ustun-ai-anxiety-job-finding-anxiety-2026.md']
 confidence: high
-audience: [administrators, educators]
+audience: [administrators, instructors]
 technology: [technology-acceptance-model]
 ---
 

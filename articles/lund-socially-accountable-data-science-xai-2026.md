@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design]
 ethics: [bias-mitigation, ethics, explainable-ai]
 research_method: [theoretical analysis]
-audience: [curriculum designers, instructors, educators, researchers]
+audience: [curriculum designers, instructors, researchers]
 level: [higher ed]
 discipline: [cs education]
 page_kind: [framework]

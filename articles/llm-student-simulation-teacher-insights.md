@@ -5,14 +5,14 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [community-of-inquiry, scaffolding]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulating-students]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 audience: [teacher educators, researchers]
-level: [teacher training, k 12]
+level: [teacher education, k 12]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
 confidence: high
 discipline: [math education]
 page_kind: [framework, evaluation]
-methods: [ai-ed-evaluation]
+methods: [ai-ed-evaluation, qualitative-research]
 ---
 
 > **Synthesis:** Semi-structured interviews with 12 teachers who tutored [[simulating-students|LLM-simulated students]] (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student [[simulation|simulations]].

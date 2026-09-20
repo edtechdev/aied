@@ -10,7 +10,7 @@ sources: ['raw/papers/mesny-innovative-assessment-grading-management-2026.md']
 confidence: high
 research_method: [literature review]
 discipline: [business education]
-audience: [faculty development, instructors, curriculum designers]
+audience: [faculty developers, instructors, curriculum designers]
 level: [higher ed]
 ---
 

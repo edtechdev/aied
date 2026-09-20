@@ -5,11 +5,11 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [learning-theories, metacognition]
+methods: [quantitative-research]
 stakeholders: [student-experience]
-research_method: [survey, quantitative]
+research_method: [survey]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/mdpi-2026-critical-genai-use-predictors.md']
 confidence: high
 page_kind: [evaluation]

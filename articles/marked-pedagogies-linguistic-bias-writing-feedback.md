@@ -5,9 +5,9 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [generative-ai, personalized-learning]
 assessment: [ai-feedback-quality, automated-assessment, feedback]
+methods: [benchmark]
 ethics: [bias-mitigation, equity-in-ai-education]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 level: [k 12]
 confidence: high

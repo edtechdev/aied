@@ -6,10 +6,10 @@ type: article
 foundations: [cognitive-offloading, critical-thinking]
 technology: [conversational-ai, llm, generative-ai, learning-analytics]
 pedagogy: [self-regulated-learning, metacognition]
-methods: [quantitative-research, qualitative-research]
-research_method: [secondary analysis, quantitative, mixed methods]
+methods: [quantitative-research, qualitative-research, mixed-methods-research]
+research_method: [secondary analysis]
 level: [higher ed]
-audience: [researchers, educators, instructors, learning analytics designers]
+audience: [researchers, instructors, learning analytics designers]
 page_kind: [evaluation]
 sources: ['raw/papers/student-cognitive-offloading-ai-higher-ed-2026.md']
 confidence: high

@@ -6,14 +6,13 @@ type: article
 foundations: [human-ai-collaboration, learning-design]
 technology: [personalized-learning]
 research_method: [system development]
-discipline: [engineering education]
+discipline: [engineering education, environmental education]
 level: [higher ed]
 sources: ['raw/papers/liu-ai-sustainable-engineering-education-2026.md']
 confidence: high
 audience: [instructors, curriculum designers, researchers]
 institutions: [educational-policy-ai]
 ethics: [sustainability]
-
 ---
 > **Synthesis:** Liu, Wang, Guo, and Tang (2026) propose **AI-SEE** (Artificial Intelligence-Integrated Sustainable Engineering Education), a [[pedagogy|pedagogical]] framework that integrates AI across the engineering [[curriculum-design|curriculum]] as both a cognitive [[scaffolding|scaffold]] and a resource for system-level analysis. Grounded in [[human-ai-collaboration]], AI-SEE comprises four pillars — intelligence-driven, green-empowered, responsibility-leading, and practice-integrated — and was tested with 144 undergraduates in transportation-related programs at Nantong University. The study reports that AI-SEE enhanced students' **sustainability consciousness** and translated it into behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with evidence of social diffusion effects beyond the classroom.
 

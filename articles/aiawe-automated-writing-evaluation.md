@@ -5,10 +5,10 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [generative-ai, llm, open-source]
 assessment: [automated-assessment]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [writing education]
-
 sources: ['raw/papers/2606.12801.md']
 confidence: high
 level: [adult learning, higher ed]

@@ -5,9 +5,8 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, socratic-method]
 technology: [intelligent-tutoring, llm, multimodal]
-research_method: [benchmark]
+methods: [benchmark]
 discipline: [stem education]
-
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
 audience: [edtech designers, researchers]

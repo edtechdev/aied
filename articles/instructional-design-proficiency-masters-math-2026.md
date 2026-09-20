@@ -10,7 +10,7 @@ confidence: medium
 research_method: [quasi-experiment]
 discipline: [math education]
 audience: [teacher educators, instructional designers]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 page_kind: [framework]
 ---
 

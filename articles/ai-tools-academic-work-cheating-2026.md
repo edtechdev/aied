@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
 stakeholders: [student-experience]
 ethics: [ai-misuse-learning-harm, ethics]
-research_method: [systematic review]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/ai-tools-academic-work-cheating-2026.md']

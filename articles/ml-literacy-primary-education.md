@@ -5,8 +5,9 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking, learning-design]
 technology: [machine-learning]
+methods: [mixed-methods-research]
 audience: [instructors, learners]
-research_method: [mixed methods, design and evaluation study]
+research_method: [design and evaluation study]
 level: [k 12]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']
 confidence: medium

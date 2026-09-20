@@ -11,7 +11,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/learn-framework-responsible-genai-pbl-2026.md']
 confidence: medium
-audience: [instructional designers, educators, assessment designers]
+audience: [instructional designers, instructors, assessment designers]
 page_kind: [framework]
 ---
 

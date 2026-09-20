@@ -5,12 +5,11 @@ updated: "2026-09-19T08:59:45-04:00"
 type: article
 technology: [generative-ai]
 assessment: [learning-gains]
-research_method: [meta-analysis, systematic review]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/genai-educational-outcomes-meta-analysis.md']
 confidence: high
-audience: [institutions, educators]
+audience: [institutions, instructors]
 methods: [ai-ed-evaluation, meta-analysis-systematic-review]
 ---
 

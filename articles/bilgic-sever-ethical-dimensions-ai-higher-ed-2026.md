@@ -4,9 +4,9 @@ created: "2026-08-23T14:00:00-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-education, teacher-role]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 ethics: [ethics, privacy]
-research_method: [mixed methods]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/bilgic-sever-ethical-dimensions-ai-higher-ed-2026.md']

@@ -6,12 +6,13 @@ type: article
 sources: ["raw/papers/rule-integrated-llm-tutoring-primary-math-2026.md"]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, prompt-engineering]
+methods: [design-based-research]
 ethics: [guardrails]
 confidence: medium
-research_method: [system development, design-based research, user study]
+research_method: [system development, user study]
 discipline: [math education]
-audience: [edtech designers, software developers, educators]
-level: [elementary]
+audience: [edtech designers, software developers, instructors]
+level: [primary education]
 page_kind: [evaluation]
 ---
 

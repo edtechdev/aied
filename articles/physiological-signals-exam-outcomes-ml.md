@@ -5,8 +5,8 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, llm, machine-learning, rag, edtech-platform]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [benchmark]
 audience: [learners]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.14960.md']

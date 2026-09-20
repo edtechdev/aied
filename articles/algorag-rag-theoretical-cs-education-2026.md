@@ -7,11 +7,12 @@ foundations: [computational-thinking]
 pedagogy: [problem-solving]
 technology: [educational-nlp, intelligent-tutoring, knowledge-graph, llm, rag]
 assessment: [automated-question-generation]
+methods: [benchmark]
 sources: ['raw/papers/algorag-rag-theoretical-cs-education-2026.md']
 confidence: high
-research_method: [system development, benchmark, design and evaluation study]
+research_method: [system development, design and evaluation study]
 discipline: cs education
-audience: [educators, researchers]
+audience: [instructors, researchers]
 level: higher ed
 page_kind: [evaluation]
 ---

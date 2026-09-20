@@ -8,11 +8,11 @@ assessment: [assessment-validity, educational-measurement]
 ethics: [equity-in-ai-education, global-south]
 sources: ['raw/papers/el-salvador-ai-tutoring-selection-claim-2026.md']
 confidence: high
-research_method: [secondary analysis, quantitative]
+research_method: [secondary analysis]
 level: [secondary]
 audience: [policymakers, researchers, assessment professionals]
 page_kind: [evaluation]
-methods: [ai-ed-evaluation, research-methods-aied]
+methods: [ai-ed-evaluation, research-methods-aied, quantitative-research]
 institutions: [educational-policy-ai]
 ---
 

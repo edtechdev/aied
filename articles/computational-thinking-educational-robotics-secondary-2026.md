@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/valls-computational-thinking-educational-robotics.md']
 confidence: medium
-audience: [curriculum designers, educators]
+audience: [curriculum designers, instructors]
 page_kind: [framework]
 ---
 

@@ -5,9 +5,10 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, philosophy-of-ai-in-education]
 technology: [generative-ai]
+methods: [qualitative-research]
 stakeholders: [stakeholders]
 ethics: [ethics]
-research_method: [qualitative, policy analysis]
+research_method: [policy analysis]
 audience: [administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/taylor-lacroix-purpose-before-policy-academic-integrity-2026.md']

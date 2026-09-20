@@ -6,11 +6,10 @@ type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, learning-analytics, technology-acceptance-model]
 ethics: [privacy]
-research_method: [design-based research]
 level: [higher ed]
 sources: ['raw/papers/10.1016_j.caeai.2026.100607.md']
 confidence: high
-audience: [institutions, instructional designers, educators]
+audience: [institutions, instructional designers, instructors]
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [design-based-research]
 institutions: [governance]

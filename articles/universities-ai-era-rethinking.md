@@ -7,7 +7,7 @@ foundations: [educational-development, teacher-role]
 assessment: [assessment-validity]
 stakeholders: [administrator, student-experience, teacher-ai-competency]
 research_method: [case study]
-audience: [instructors, administrators, faculty development, learners]
+audience: [instructors, administrators, faculty developers, learners]
 level: [higher ed]
 sources: ['raw/papers/2605.07056.md']
 confidence: medium

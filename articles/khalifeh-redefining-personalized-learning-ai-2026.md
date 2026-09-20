@@ -5,7 +5,6 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
 assessment: [item-response-theory]
-research_method: [systematic review]
 sources: ['raw/papers/khalifeh-redefining-personalized-learning-ai-2026.md']
 confidence: high
 audience: [researchers, designers]

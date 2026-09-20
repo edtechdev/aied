@@ -9,7 +9,6 @@ technology: [generative-ai]
 stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [instructors, researchers]
-
 sources: ['raw/papers/2607.28041.md']
 confidence: high
 ---

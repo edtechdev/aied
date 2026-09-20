@@ -13,7 +13,7 @@ institutions: [educational-policy-ai, change-management]
 ethics: [ai-sycophancy, hallucination-risk, bias-mitigation, equity-in-ai-education, trust, neurodiversity, sustainability]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed, secondary]
-audience: [educators, learning designers, researchers]
+audience: [instructors, learning designers, researchers]
 page_kind: [framework]
 sources: ['raw/papers/educating-minds-generative-ai-2026.md']
 confidence: high

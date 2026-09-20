@@ -11,7 +11,6 @@ connected_faqs: [ai-feedback-at-scale]
 research_method: [theoretical analysis]
 audience: [instructors, learners]
 level: [higher ed]
-
 sources: ['raw/papers/zhan-boud-dawson-genai-feedback-engagement.md']
 confidence: high
 page_kind: [framework]

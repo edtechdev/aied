@@ -5,8 +5,8 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [generative-ai, llm, personalized-learning]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/2607.28109.md']
 confidence: medium
 ---

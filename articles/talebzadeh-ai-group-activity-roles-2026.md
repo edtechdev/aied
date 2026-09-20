@@ -5,9 +5,9 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [educational-development, human-ai-collaboration, learning-design, teacher-role]
 technology: [generative-ai, personalized-learning]
+methods: [qualitative-research]
 stakeholders: [teacher-ai-competency]
-research_method: [qualitative]
-audience: [instructors, learning designers, researchers, faculty development]
+audience: [instructors, learning designers, researchers, faculty developers]
 level: [k 12]
 sources: ['raw/papers/talebzadeh-ai-group-activity-roles-2026.md']
 confidence: medium

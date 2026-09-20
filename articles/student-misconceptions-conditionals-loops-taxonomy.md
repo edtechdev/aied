@@ -7,14 +7,14 @@ foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
 stakeholders: [student-experience]
-research_method: [mixed methods, thematic analysis]
+research_method: [thematic analysis]
 discipline: [cs education, stem education]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 page_kind: [synthesis]
 sources: ['raw/papers/2605.26966.md']
-methods: [benchmark]
+methods: [benchmark, mixed-methods-research]
 ---
 
 Eckert and Kautz (Hamburg University of Technology) present a fine-grained taxonomy of novice programmers' difficulties reading and understanding two control-flow constructs: selection and iteration. It was built through the Extended Taxonomy Design Process (ETDP), which alternates between existing literature and the authors' own data — semi-structured interviews and written tests in introductory programming courses — and aims to give a harmonized framework for classifying student errors and judging whether a discovered error is new or a known facet.

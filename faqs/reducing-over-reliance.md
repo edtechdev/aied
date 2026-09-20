@@ -6,8 +6,9 @@ weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, help-seeking, metacognition, self-regulated-learning]
+methods: [mixed-methods-research]
 ethics: [trust-calibration]
-research_method: [literature review, experiment, mixed methods]
+research_method: [literature review, experiment]
 audience: [instructors, learning designers, instructional designers]
 level: [higher ed, secondary, k 12]
 ---

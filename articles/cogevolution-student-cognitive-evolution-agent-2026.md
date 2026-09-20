@@ -6,8 +6,9 @@ type: article
 pedagogy: [icap-framework]
 technology: [cognitive-diagnosis, generative-ai, knowledge-tracing, pedagogical-agent, simulating-students, student-modeling]
 assessment: [item-response-theory]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 sources: ['raw/papers/cogevolution-student-cognitive-evolution-agent-2026.md']
 confidence: medium
 discipline: [math education]

@@ -9,7 +9,7 @@ technology: [generative-ai, llm]
 assessment: [automated-question-generation]
 stakeholders: [student-experience]
 research_method: [user study, design and evaluation study]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/2605.13532.md']
 confidence: medium

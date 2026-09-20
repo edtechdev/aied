@@ -5,8 +5,8 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [computational-thinking]
 technology: [generative-ai]
-assessment: [assessment, assessment-validity, item-response-theory]
-research_method: [instrument development, educational measurement]
+assessment: [assessment, assessment-validity, item-response-theory, educational-measurement]
+research_method: [instrument development]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/zhang-ct-ai-training-test-2026.md']

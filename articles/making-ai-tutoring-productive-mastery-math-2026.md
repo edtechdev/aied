@@ -5,9 +5,8 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [help-seeking, metacognition]
-technology: [adaptive-learning, intelligent-tutoring, edtech-platform]
+technology: [adaptive-learning, intelligent-tutoring, edtech-platform, learning-analytics]
 assessment: [feedback, formative-assessment, learning-gains]
-research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
 confidence: high

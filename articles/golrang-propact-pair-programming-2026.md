@@ -9,7 +9,6 @@ assessment: [formative-assessment]
 audience: [software developers, instructional designers, instructors, edtech designers]
 research_method: [system development, experiment]
 discipline: [cs education]
-
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
 level: [higher ed]

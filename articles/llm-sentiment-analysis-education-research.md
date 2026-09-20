@@ -6,11 +6,11 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, learning-analytics, llm, edtech-platform]
 assessment: [automated-assessment, formative-assessment]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods, case study]
+research_method: [case study]
 audience: [researchers]
 level: [higher ed]
-
 sources: ['raw/papers/2605.27403.md']
 confidence: medium
 discipline: [language learning]

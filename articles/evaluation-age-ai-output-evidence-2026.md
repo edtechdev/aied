@@ -12,7 +12,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/evaluation-age-ai-output-evidence-2026.md']
 confidence: high
-audience: [educators, administrators, assessment designers]
+audience: [instructors, administrators, assessment designers]
 ---
 
 > **Synthesis:** Chowdhury and Khan (2026) examine the [[ethics|ethical]] challenges of [[assessment|educational evaluation]] in the age of [[generative-ai]], arguing that the core problem extends beyond academic dishonesty to a deeper misalignment between assessment practices and the [[learning-gains|learning outcomes]] they are meant to measure. When tasks that once served as proxies for understanding (essays, problem sets, code) can now be generated superficially by LLMs, evaluation regimes that rely on artificial constraints risk measuring compliance, access, or concealment rather than genuine understanding, reasoning, or judgment. Drawing on analysis of [[governance|institutional]] responses and original survey data on faculty perceptions, they advocate shifting from "output-as-evidence" to process-based evaluation models that preserve [[agency|student agency]] and accountability.

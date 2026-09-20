@@ -6,12 +6,11 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [learning-analytics, llm]
-assessment: [automated-assessment, formative-assessment]
+assessment: [automated-assessment, formative-assessment, educational-measurement]
+methods: [benchmark]
 audience: [instructors]
-research_method: [benchmark, educational measurement]
 discipline: [cs education]
 level: [higher ed, k 12]
-
 sources: ['raw/papers/2607.02432.md']
 confidence: high
 page_kind: [evaluation]

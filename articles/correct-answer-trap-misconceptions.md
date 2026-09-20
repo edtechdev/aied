@@ -5,9 +5,8 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 technology: [llm, student-modeling]
 assessment: [automated-assessment, formative-assessment]
-research_method: [benchmark]
+methods: [benchmark]
 level: [k 12]
-
 sources: ['raw/papers/2606.23205.md']
 confidence: medium
 discipline: [math education]

@@ -6,8 +6,7 @@ type: concept
 foundations: [ai-education]
 technology: [generative-ai]
 ethics: [ethics, sustainability]
-level: [higher ed, k 12, teacher training]
-
+level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 ---

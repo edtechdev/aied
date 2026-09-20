@@ -7,8 +7,6 @@ type: concept
 foundations: [academic-integrity]
 assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
-research_method: [randomized controlled trial]
-
 confidence: high
 methods: [rct]
 ---

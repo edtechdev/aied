@@ -7,7 +7,7 @@ foundations: [ai-literacy]
 pedagogy: [activity-theory-aied, student-ai-interaction]
 technology: [learning-analytics]
 audience: [instructors, researchers]
-research_method: [system development, learning analytics]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/moon-chat-anchored-learning-analytics-aied.md']
 confidence: high

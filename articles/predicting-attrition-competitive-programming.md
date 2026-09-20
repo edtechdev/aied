@@ -6,11 +6,12 @@ type: article
 pedagogy: [motivation, self-efficacy, student-engagement]
 technology: [learning-analytics, personalized-learning]
 assessment: [assessment]
+methods: [quantitative-research]
 sources: ['raw/papers/predicting-attrition-competitive-programming.md']
 confidence: high
-research_method: [learning analytics, survey, quantitative]
+research_method: [survey]
 discipline: [cs education]
-audience: [educators, learning analytics designers, institutions]
+audience: [instructors, learning analytics designers, institutions]
 level: [higher ed]
 page_kind: [evaluation]
 ---

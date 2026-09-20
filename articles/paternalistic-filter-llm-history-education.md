@@ -4,9 +4,9 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [llm]
+methods: [benchmark]
 stakeholders: [student-experience]
 ethics: [bias-mitigation, equity-in-ai-education]
-research_method: [benchmark]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.11292.md']

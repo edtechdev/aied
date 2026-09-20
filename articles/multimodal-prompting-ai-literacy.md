@@ -5,8 +5,9 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, multimodal, prompt-engineering]
+methods: [qualitative-research]
 audience: [learners, instructors]
-research_method: [qualitative, case study]
+research_method: [case study]
 level: [higher ed]
 sources: ['raw/papers/caeai-multimodal-prompting.md']
 confidence: medium

@@ -8,7 +8,6 @@ assessment: [automated-assessment, feedback, formative-assessment]
 stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
-
 sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---

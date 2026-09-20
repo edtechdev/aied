@@ -9,7 +9,7 @@ technology: [generative-ai, human-in-the-loop-ai]
 research_method: [theoretical analysis]
 sources: ['raw/papers/airis-hybrid-human-ai-cognition-2026.md']
 confidence: high
-audience: [researchers, instructional designers, educators]
+audience: [researchers, instructional designers, instructors]
 page_kind: [framework]
 ---
 

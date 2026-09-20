@@ -5,7 +5,7 @@ updated: "2026-09-17T02:27:38-04:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role]
 stakeholders: [teacher-ai-competency]
-audience: [faculty development, instructors]
+audience: [faculty developers, instructors]
 level: [adult learning]
 ---
 

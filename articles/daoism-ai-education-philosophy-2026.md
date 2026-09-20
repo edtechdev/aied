@@ -9,7 +9,7 @@ ethics: [ethics]
 sources: ['raw/papers/2609.10842.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [researchers, educators, curriculum designers]
+audience: [researchers, instructors, curriculum designers]
 page_kind: [framework]
 ---
 

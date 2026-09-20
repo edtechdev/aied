@@ -6,11 +6,10 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [inquiry-based-learning]
 technology: [conversational-ai, generative-ai]
-research_method: [systematic review]
 discipline: [stem education, science education]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
 confidence: high
-audience: [educators, instructional designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [higher ed, k 12]
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]

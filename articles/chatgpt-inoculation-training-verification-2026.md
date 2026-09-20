@@ -5,13 +5,13 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [student-engagement]
+methods: [mixed-methods-research]
 ethics: [trust-calibration]
 connected_faqs: [verify-ai-output]
 audience: [learners, instructors]
-research_method: [experiment, mixed methods]
+research_method: [experiment]
 discipline: [language learning]
 level: [higher ed]
-
 sources: ['raw/papers/chatgpt-inoculation-training-verification-2026.md']
 confidence: high
 page_kind: [evaluation]

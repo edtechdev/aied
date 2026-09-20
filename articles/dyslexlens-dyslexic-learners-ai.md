@@ -5,10 +5,11 @@ updated: "2026-09-16T15:58:20-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [llm]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
-research_method: [system development, mixed methods]
+research_method: [system development]
 discipline: [language learning]
 audience: [learners]
 level: [special education, k 12, higher ed]

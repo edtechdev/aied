@@ -6,12 +6,12 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [conversational-ai, learning-analytics, llm, prompt-engineering]
-research_method: [experiment, quantitative, process-outcome modeling]
-discipline: []
+methods: [quantitative-research]
+research_method: [experiment, process-outcome modeling]
 level: [higher ed]
 sources: ['raw/papers/10.1186_s41239-026-00617-6.md']
 confidence: high
-audience: [educators, researchers, instructional designers]
+audience: [instructors, researchers, instructional designers]
 page_kind: [evaluation]
 ---
 

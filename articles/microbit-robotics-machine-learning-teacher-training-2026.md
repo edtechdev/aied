@@ -10,7 +10,7 @@ discipline: [cs education]
 sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.md']
 confidence: high
 audience: [teacher educators, curriculum designers]
-level: [teacher training, higher ed]
+level: [teacher education, higher ed]
 page_kind: [evaluation]
 ---
 

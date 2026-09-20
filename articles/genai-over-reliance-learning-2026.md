@@ -6,12 +6,11 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 ethics: [ai-misuse-learning-harm]
 connected_faqs: [reducing-over-reliance]
 audience: [learners, instructors]
-research_method: [mixed methods]
 level: [higher ed]
-
 sources: ['raw/papers/10.3389_fpsyg.2026.1847369.md']
 confidence: high
 ---

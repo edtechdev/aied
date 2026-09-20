@@ -5,10 +5,10 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [pedagogy]
+methods: [design-based-research]
 stakeholders: [administrator]
 connected_faqs: [faculty-development-ai]
-research_method: [design-based research]
-audience: [faculty development, instructors, administrators]
+audience: [faculty developers, instructors, administrators]
 level: [higher ed]
 sources: ['raw/papers/crompton-faculty-technology-integration-standards-2026.md']
 confidence: high

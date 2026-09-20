@@ -4,11 +4,12 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, personalized-learning]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods, experiment]
+research_method: [experiment]
 discipline: [math education]
 audience: [learners]
-level: [elementary, k 12]
+level: [primary education, k 12]
 sources: ['raw/papers/2608.04892.md']
 confidence: high
 page_kind: [evaluation]

@@ -8,7 +8,6 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-an
 stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
-
 confidence: medium
 ---
 

@@ -5,8 +5,6 @@ updated: "2026-09-18T11:48:51-04:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
-research_method: [educational measurement]
-
 confidence: medium
 ---
 

@@ -8,7 +8,6 @@ assessment: [automated-assessment, automated-question-generation, formative-asse
 research_method: [experiment]
 discipline: [stem education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.19043.md']
 confidence: high
 audience: [researchers, assessment designers, instructors]

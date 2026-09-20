@@ -19,9 +19,10 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'Essentials', items: ['ai-education', 'misconceptions', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
+      { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied'] },
       { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'computational-thinking'] },
+      { label: 'Theories and frameworks', items: ['samr-model', 'tpack'] },
     ],
   },
   {
@@ -29,8 +30,9 @@ export const conceptIndex: ConceptSection[] = [
     blurb: 'How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates within.',
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'online-teaching-and-learning', 'video-education'] },
-      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
+      { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'misconceptions', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
       { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress'] },
+      { label: 'Lifelong and professional learning', items: ['career-development-and-readiness', 'lifelong-learning', 'professional-training'] },
     ],
   },
   {
@@ -46,7 +48,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'AI in the disciplines',
     blurb: 'How AI is applied across academic subjects and educational levels — the field\u2019s subject-area coverage.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
+      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'environmental-education', 'business-education', 'humanities-education', 'arts-design-and-media-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology'] },
       { label: 'Research fields', items: ['learning-sciences'] },
     ],
   },
@@ -54,6 +56,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Levels and contexts',
     groups: [
       { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'teacher-education'] },
+      { label: 'Bands and comparisons', items: ['education-levels'] },
     ],
   },
   {
@@ -67,20 +70,16 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Research methods and evaluation',
     groups: [
-      { label: 'Research methods', items: ['research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'network-analysis'] },
+      { label: 'Research methods', items: ['research-methods-aied', 'qualitative-research', 'quantitative-research', 'mixed-methods-research', 'design-based-research', 'usability-research', 'rct', 'meta-analysis-systematic-review', 'latent-profile-analysis', 'network-analysis'] },
       { label: 'Evaluation of AI systems', items: ['ai-ed-evaluation', 'benchmark'] },
     ],
   },
   {
     heading: 'People',
-    blurb: 'AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.',
     groups: [
-      { label: 'Learners', items: ['stakeholders', 'learners', 'student-experience', 'career-development-and-readiness'] },
-      { label: 'Families and communities', items: ['parents-and-families'] },
-      { label: 'Instructors and teaching frameworks', items: ['teacher-ai-competency', 'tpack', 'samr-model'] },
-      { label: 'Designers and developers', items: ['educational-technology-developers'] },
-      { label: 'Administrators and leaders', items: ['administrator'] },
-      { label: 'Lifelong and workplace learning', items: ['lifelong-learning', 'professional-training'] },
+      { label: 'Roles and audiences', items: ['administrator', 'educational-technology-developers', 'learners', 'librarians', 'parents-and-families', 'stakeholders'] },
+      { label: 'Learner experience', items: ['student-experience'] },
+      { label: 'Educator capability', items: ['teacher-ai-competency'] },
     ],
   },
   {

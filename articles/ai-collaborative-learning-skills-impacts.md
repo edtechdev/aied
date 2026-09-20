@@ -6,11 +6,10 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, creativity, problem-solving]
 technology: [generative-ai]
-research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/jerap-ai-collab-skills.md']
 confidence: high
-audience: [educators, instructional designers]
+audience: [instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 

@@ -8,9 +8,9 @@ pedagogy: [collaborative-learning, pedagogical-partnerships, student-ai-interact
 technology: [generative-ai]
 sources: ['raw/papers/lo-co-creating-custom-gpts-sap-2026.md']
 confidence: high
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 discipline: [science education]
-audience: [educators, designers, edtech designers]
+audience: [instructors, designers, edtech designers]
 level: [higher ed]
 methods: [qualitative-research]
 ---

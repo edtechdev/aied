@@ -7,9 +7,10 @@ foundations: [curriculum-design, educational-development, learning-design, teach
 pedagogy: [critical-pedagogy, pedagogy]
 technology: [generative-ai]
 assessment: [assessment]
-research_method: [qualitative, thematic analysis]
+methods: [qualitative-research]
+research_method: [thematic analysis]
 level: [higher ed]
-audience: [educators, curriculum designers, instructional designers, policymakers]
+audience: [instructors, curriculum designers, instructional designers, policymakers]
 sources: ['raw/papers/mcinnes-salvaging-constructive-alignment-genai-2026.md']
 confidence: high
 ---

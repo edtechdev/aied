@@ -4,7 +4,6 @@ created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-18T09:10:00-04:00"
 weight: 64
 foundations: [learning-design]
-
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
 ---

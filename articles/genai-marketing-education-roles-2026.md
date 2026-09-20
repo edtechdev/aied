@@ -4,17 +4,16 @@ created: "2026-08-05T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [learning-design, teacher-role]
-pedagogy: [pedagogy]
+pedagogy: [pedagogy, professional-training]
 technology: [generative-ai]
 ethics: [ethics]
-research_method: [mixed methods]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2608.03973.md']
 confidence: high
 discipline: [business education]
 connected_faqs: [asynchronous-online-courses-ai]
-stakeholders: [professional-training]
+methods: [mixed-methods-research]
 ---
 
 > **Synthesis:** **When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education** — Uses multipronged analysis (syllabi review, educator survey, [[qualitative-research|qualitative]] interviews) and Role Theory + [[community-of-inquiry]] model to propose three [[generative-ai|GAI]] roles in [[business-education|marketing education]]: tutor (grasping theoretical concepts), teammate (brainstorming and [[problem-solving]]), and tool. Each role influences [[teacher-role]], social, and cognitive presence differently. Identifies [[ethics|ethical considerations]]: data [[privacy]], [[ai-detection|plagiarism]], AI dependency, and [[assessment|assessment fairness]]. Provides concrete examples for GAI integration in courses.

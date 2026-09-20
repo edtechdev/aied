@@ -9,8 +9,8 @@ technology: [conversational-ai, human-in-the-loop-ai, pedagogical-agent, prompt-
 ethics: [culturally-relevant-pedagogy, global-south]
 sources: ['raw/papers/ai-personas-fieldwork-experiential-learning-2026.md']
 confidence: high
-research_method: [case study, qualitative]
-audience: [educators, instructors, curriculum designers, researchers]
+research_method: [case study]
+audience: [instructors, curriculum designers, researchers]
 level: [higher ed]
 methods: [qualitative-research]
 ---

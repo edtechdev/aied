@@ -9,7 +9,7 @@ research_method: [experiment]
 discipline: [math education]
 sources: ['raw/papers/preferred-scaffolding-ai-mathematical-modeling.md']
 confidence: high
-audience: [instructional designers, educators, edtech designers]
+audience: [instructional designers, instructors, edtech designers]
 level: [higher ed]
 page_kind: [evaluation]
 ---

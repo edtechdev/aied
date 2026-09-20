@@ -6,9 +6,9 @@ type: article
 foundations: [educational-development]
 pedagogy: [learning-theories]
 technology: [generative-ai]
-research_method: [qualitative]
+methods: [qualitative-research]
 discipline: [stem education, math education]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/caeai-genai-runaway-object.md']
 confidence: medium

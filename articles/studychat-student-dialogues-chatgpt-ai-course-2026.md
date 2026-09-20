@@ -6,11 +6,10 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning]
 technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [benchmark]
 discipline: [cs education]
 audience: [learners, software developers]
-
 sources: ['raw/papers/studychat-student-dialogues-chatgpt-ai-course-2026.md']
 confidence: high
 level: [higher ed]

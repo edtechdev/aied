@@ -6,10 +6,8 @@ type: article
 foundations: [cognitive-offloading, educational-development, teacher-role]
 technology: [generative-ai, rag]
 stakeholders: [student-experience, teacher-ai-competency]
-research_method: [randomized controlled trial]
-audience: [faculty development, instructors, learners]
+audience: [faculty developers, instructors, learners]
 level: [k 12]
-
 sources: ['raw/papers/genai-can-harm-teaching-rct-2026.md']
 confidence: high
 page_kind: [evaluation]

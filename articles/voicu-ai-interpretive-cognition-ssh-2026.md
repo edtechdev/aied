@@ -5,8 +5,9 @@ updated: "2026-09-19T12:04:28-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 pedagogy: [metacognition]
+methods: [qualitative-research]
 audience: [learners, instructors]
-research_method: [qualitative, theoretical analysis]
+research_method: [theoretical analysis]
 level: [secondary, higher ed]
 sources: ['raw/papers/voicu-ai-interpretive-cognition-ssh-2026.md']
 confidence: high

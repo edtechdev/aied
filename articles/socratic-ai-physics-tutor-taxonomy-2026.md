@@ -5,11 +5,10 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-education]
 pedagogy: [socratic-method]
-technology: [intelligent-tutoring, llm]
-research_method: [learning analytics, qualitative]
+technology: [intelligent-tutoring, llm, learning-analytics]
+methods: [qualitative-research]
 discipline: [physics education]
 level: [higher ed]
-
 sources: ['raw/papers/2608.07373.md']
 confidence: high
 audience: [researchers, instructional designers]

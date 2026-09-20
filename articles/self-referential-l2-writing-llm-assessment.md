@@ -6,11 +6,10 @@ type: article
 foundations: [ai-education]
 technology: [human-in-the-loop-ai, llm, personalized-learning]
 assessment: [automated-assessment, automated-question-generation]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.04298.md']
 confidence: medium
 page_kind: [evaluation]

@@ -10,7 +10,7 @@ ethics: [ethics]
 sources: ['raw/papers/teaching-with-robots-five-types-perspective-2026.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
-audience: [educators, teachers, researchers, designers]
+audience: [instructors, teachers, researchers, designers]
 level: [k 12, special education]
 page_kind: [framework]
 ---

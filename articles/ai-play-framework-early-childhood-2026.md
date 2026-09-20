@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13]
 audience: [instructors]
 research_method: [literature review]
 discipline: [cs education]
-level: [early childhood, k 12]
+level: [preschool, k 12]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
 confidence: high
 page_kind: [framework]

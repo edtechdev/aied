@@ -10,10 +10,10 @@ assessment: [educational-measurement, self-report-measures, learning-gains, asse
 methods: [mixed-methods-research, usability-research, quantitative-research]
 stakeholders: [learners, student-experience]
 ethics: [trust]
-research_method: [quasi-experiment, mixed methods, thematic analysis, survey]
+research_method: [quasi-experiment, thematic analysis, survey]
 level: [higher ed]
-discipline: [engineering education, cs education]
-audience: [instructors, instructional designers, researchers]
+discipline: [engineering education, cs education, library and information science]
+audience: [instructors, instructional designers, researchers, librarians]
 sources: ['raw/papers/ai-assisted-seminar-learning-information-literacy-2026.md']
 confidence: medium
 ---

@@ -10,7 +10,7 @@ assessment: [assessment]
 sources: ['raw/papers/refrain-amplify-genai-curriculum-2026.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [curriculum designers, administrators, faculty development]
+audience: [curriculum designers, administrators, faculty developers]
 level: [higher ed]
 page_kind: [framework]
 institutions: [governance]

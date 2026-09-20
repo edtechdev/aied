@@ -9,7 +9,6 @@ technology: [human-in-the-loop-ai]
 ethics: [ethics]
 audience: [instructors, learners]
 research_method: [theoretical analysis]
-
 sources: ['raw/papers/haiml-human-centered-ai-metacognitive-model-2026.md']
 confidence: medium
 level: [higher ed]

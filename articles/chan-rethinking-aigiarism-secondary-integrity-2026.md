@@ -4,9 +4,9 @@ created: "2026-08-28T14:30:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, framing-ai-use-for-students]
+methods: [qualitative-research]
 ethics: [ai-misuse-learning-harm, ai-use-disclosure, ethics]
 audience: [learners, instructors]
-research_method: [qualitative]
 level: [secondary, k 12, higher ed]
 sources: ['raw/papers/chan-rethinking-aigiarism-secondary-integrity-2026.md']
 confidence: high

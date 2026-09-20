@@ -4,14 +4,13 @@ created: "2026-08-22T05:12:36-04:00"
 updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [inquiry-based-learning]
-technology: [conversational-ai, generative-ai]
+technology: [conversational-ai, generative-ai, learning-analytics]
 assessment: [automated-question-generation]
-research_method: [learning analytics]
 discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/dai-chatbots-problem-posing-primary-2026.md']
 confidence: high
-audience: [educators, curriculum designers]
+audience: [instructors, curriculum designers]
 page_kind: [evaluation]
 methods: [network-analysis]
 ---

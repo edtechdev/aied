@@ -8,10 +8,9 @@ pedagogy: [active-learning, learning-by-teaching]
 technology: [generative-ai, intelligent-tutoring, llm]
 research_method: [quasi-experiment]
 discipline: [cs education]
-
 sources: ['raw/papers/raw-yang-socrates-lbt.md']
 confidence: high
-audience: [instructors, educators]
+audience: [instructors]
 level: [higher ed]
 page_kind: [framework]
 ---

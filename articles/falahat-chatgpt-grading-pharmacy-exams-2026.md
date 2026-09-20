@@ -4,10 +4,10 @@ created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm]
-assessment: [assessment-validity, automated-assessment]
+assessment: [assessment-validity, automated-assessment, educational-measurement]
+methods: [benchmark]
 sources: ['raw/papers/falahat-chatgpt-grading-pharmacy-exams-2026.md']
 confidence: high
-research_method: [benchmark, educational measurement]
 discipline: [medical education]
 audience: [assessment professionals, medical educators, instructors]
 level: [higher ed]

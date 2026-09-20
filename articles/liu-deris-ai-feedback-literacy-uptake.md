@@ -5,9 +5,9 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation, self-regulated-learning]
-assessment: [ai-feedback-quality, assessment, feedback, formative-assessment]
+assessment: [ai-feedback-quality, assessment, feedback, formative-assessment, educational-measurement]
 audience: [learners, instructors]
-research_method: [survey, educational measurement]
+research_method: [survey]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/liu-deris-ai-feedback-literacy-uptake.md']

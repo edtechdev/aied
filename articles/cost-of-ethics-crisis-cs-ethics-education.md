@@ -8,7 +8,7 @@ stakeholders: [teacher-ai-competency]
 ethics: [equity-in-ai-education, ethics, pedagogical-safety]
 research_method: [survey]
 discipline: [cs education]
-audience: [faculty development]
+audience: [faculty developers]
 sources: ['raw/papers/2605.09680.md']
 confidence: high
 level: [higher ed]

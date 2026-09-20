@@ -11,7 +11,6 @@ research_method: [experiment]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2606.28882.md']
 confidence: high
 ---

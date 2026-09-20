@@ -6,7 +6,7 @@ type: article
 foundations: [human-ai-collaboration, learning-design, teacher-role]
 pedagogy: [pedagogy]
 technology: [generative-ai]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 audience: [instructors]
 sources: ['raw/papers/kibar-ilgaz-ai-instructional-design-review-2026.md']
 confidence: high

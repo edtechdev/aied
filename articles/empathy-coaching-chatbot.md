@@ -8,7 +8,6 @@ assessment: [feedback]
 stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
-
 sources: ['raw/papers/2606.26641.md']
 confidence: medium
 level: [adult learning]

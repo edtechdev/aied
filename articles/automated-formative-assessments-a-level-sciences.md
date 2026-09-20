@@ -5,12 +5,13 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-assessment, formative-assessment]
-research_method: [quasi-experiment, mixed methods]
+methods: [mixed-methods-research]
+research_method: [quasi-experiment]
 discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2607.23566.md']
 confidence: high
-audience: [teachers, assessment designers, educators]
+audience: [teachers, assessment designers, instructors]
 ---
 
 > **Synthesis:** This quasi-experimental [[mixed-methods-research|mixed-methods]] longitudinal study (N=142) deploys a fully automated marking pipeline for handwritten mock examinations in A-Level sciences, removing the human-marking bottleneck that normally caps the frequency of formative mocks. High-frequency, automatically-marked [[formative-assessment]] cycles were associated with improved student outcomes, providing field evidence for the [[pedagogy|pedagogical]] payoff of [[automated-assessment|Automated Grading]] at upper-secondary level. The handwritten-work pipeline links to [[llm-handwritten-math-grading]] and [[cong-confidence-asag-2026]], while the [[human-in-the-loop-ai|human-in-the-loop]] trade-offs echo [[hybrid-e-assessment-semi-automated-grading]].

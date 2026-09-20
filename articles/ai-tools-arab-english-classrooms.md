@@ -6,11 +6,10 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 discipline: [language learning, writing education]
 audience: [instructors]
 level: [higher ed]
-
 sources: ['raw/papers/2607.05403.md']
 confidence: high
 page_kind: [synthesis]

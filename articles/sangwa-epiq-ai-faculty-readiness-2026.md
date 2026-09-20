@@ -7,7 +7,7 @@ foundations: [academic-integrity, ai-literacy, educational-development]
 assessment: [assessment-validity]
 stakeholders: [teacher-ai-competency]
 research_method: [secondary analysis, literature review]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/sangwa-epiq-ai-faculty-readiness-2026.md']
 confidence: high

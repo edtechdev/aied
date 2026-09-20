@@ -3,11 +3,11 @@ title: "Exploring basic school leaders' AI readiness: The role of professional d
 created: "2026-09-20T09:23:31-04:00"
 updated: "2026-09-20T09:23:31-04:00"
 type: article
-foundations: [ai-education, ai-literacy, educational-development, teacher-role, academic-integrity]
-pedagogy: [self-directed-learning, motivation]
+foundations: [academic-integrity, ai-education, ai-literacy, educational-development, teacher-role]
+pedagogy: [career-development-and-readiness, motivation, professional-training, self-directed-learning]
 technology: [generative-ai, technology-acceptance-model]
 methods: [qualitative-research]
-stakeholders: [administrator, career-development-and-readiness, professional-training]
+stakeholders: [administrator]
 institutions: [change-management, educational-policy-ai]
 ethics: [equity-in-ai-education, privacy]
 audience: [administrators, policymakers, researchers]

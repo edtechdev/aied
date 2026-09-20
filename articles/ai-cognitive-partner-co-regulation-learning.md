@@ -9,7 +9,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/ai-cognitive-partner-co-regulation-learning.md']
 confidence: high
-audience: [educators, researchers]
+audience: [instructors, researchers]
 page_kind: [framework]
 ---
 

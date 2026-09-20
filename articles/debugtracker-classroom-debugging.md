@@ -10,7 +10,6 @@ research_method: [system development]
 discipline: [cs education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2607.05871.md']
 confidence: high
 ---

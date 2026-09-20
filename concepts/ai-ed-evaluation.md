@@ -6,7 +6,6 @@ type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [assessment, assessment-validity, educational-measurement, formative-assessment]
-research_method: [benchmark, educational measurement]
 audience: [researchers, instructors, administrators]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, does-ai-help-students-learn, evaluating-ai-interventions-methods, reporting-interpreting-aied-research]

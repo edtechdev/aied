@@ -6,7 +6,7 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, prompt-engineering]
-research_method: [benchmark]
+methods: [benchmark]
 sources: ['raw/papers/raw-miller-bosch-teachability.md']
 confidence: high
 audience: [researchers, edtech designers]

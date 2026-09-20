@@ -6,7 +6,6 @@ type: concept
 pedagogy: [active-learning, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning]
 ethics: [pedagogical-safety]
-
 level: [special education, k 12, higher ed]
 confidence: medium
 

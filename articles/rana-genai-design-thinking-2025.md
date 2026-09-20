@@ -6,13 +6,13 @@ type: article
 foundations: [critical-thinking, design-thinking]
 pedagogy: [creativity, scaffolding]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 ethics: [ethics]
-research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/rana-genai-design-thinking-2025.md']
 confidence: high
 discipline: [design education]
-audience: [educators, faculty development]
+audience: [instructors, faculty developers]
 ---
 
 > **Synthesis:** [[mixed-methods-research|Mixed-methods]] analysis of 112 student reflections from a 12-week course examining how [[generative-ai]] tools (ChatGPT, DALL·E) operate across [[design-thinking]]'s five stages. Four themes emerged: Perceived Benefits (enhanced [[creativity]] and [[accessibility]]), Ethical Concerns (bias and authorship ambiguity), Hesitance & Acceptance (evolution from skepticism to strategic adoption), and Critical Validation (development of epistemic vigilance). Sentiment analysis showed 86% positive responses, while [[ethics|ethical]] concerns generated significant negative sentiment (62%). The authors conclude that [[generative-ai]], when pedagogically [[scaffolding|scaffolded]], augments rather than replaces [[human-in-the-loop-ai|human judgment]] — students evolved from passive users to critical evaluators. Published in JUTLP, DOI https://doi.org/10.53761/tjse2f36.

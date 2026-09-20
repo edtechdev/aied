@@ -10,7 +10,6 @@ assessment: [learning-gains]
 audience: [instructors]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
-
 sources: ['raw/papers/cell-2026-ai-making-us-stupid.md']
 confidence: high
 page_kind: [synthesis]

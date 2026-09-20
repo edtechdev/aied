@@ -3,10 +3,10 @@ title: "TibetCPR: A Multimodal Tactile Feedback System to Enhance Cardiopulmonar
 created: "2026-06-10T12:17:35-04:00"
 updated: "2026-09-20T08:08:49-04:00"
 type: article
-pedagogy: [scaffolding]
-technology: [generative-ai, intelligent-tutoring, llm, edtech-platform]
+pedagogy: [professional-training, scaffolding]
+technology: [edtech-platform, generative-ai, intelligent-tutoring, llm]
 assessment: [formative-assessment]
-stakeholders: [student-experience, professional-training]
+stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [adult learning, higher ed, k 12]

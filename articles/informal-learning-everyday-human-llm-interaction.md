@@ -6,10 +6,9 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai, llm]
+methods: [qualitative-research, quantitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative, quantitative]
 audience: [researchers, learners]
-
 sources: ['raw/papers/2607.17643.md']
 confidence: high
 ---

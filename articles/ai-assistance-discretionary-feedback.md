@@ -7,10 +7,9 @@ foundations: [teacher-role]
 pedagogy: [scaffolding]
 technology: [llm]
 assessment: [automated-assessment, feedback]
-research_method: [randomized controlled trial, experiment]
+research_method: [experiment]
 audience: [instructors]
 level: [higher ed]
-
 sources: ['raw/papers/2606.03095.md']
 confidence: high
 discipline: [cs education]

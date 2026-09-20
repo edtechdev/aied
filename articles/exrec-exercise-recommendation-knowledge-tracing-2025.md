@@ -4,8 +4,8 @@ created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
 type: article
 technology: [knowledge-tracing, reinforcement-learning, adaptive-learning, personalized-learning, recommender-systems-and-learning-paths, llm, machine-learning, learning-analytics]
-methods: [quantitative-research, usability-research]
-research_method: [experiment, benchmark]
+methods: [quantitative-research, usability-research, benchmark]
+research_method: [experiment]
 discipline: [math education]
 level: [k 12]
 audience: [researchers, software developers, learning analytics designers]

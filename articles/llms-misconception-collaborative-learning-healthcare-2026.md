@@ -3,14 +3,13 @@ title: "Implementing Large Language Models to Support Misconception-Based Collab
 created: "2026-08-26T10:07:00-04:00"
 updated: "2026-09-19T08:58:00-04:00"
 type: article
-foundations: [misconceptions]
-pedagogy: [cognitive-psychology, collaborative-learning, refutation-text]
+pedagogy: [cognitive-psychology, collaborative-learning, misconceptions, refutation-text]
 technology: [generative-ai, llm]
 research_method: [theoretical analysis]
 discipline: [medical education]
 sources: ['raw/papers/10.2196_81875.md']
 confidence: high
-audience: [medical educators, educators]
+audience: [medical educators, instructors]
 level: [higher ed]
 ---
 

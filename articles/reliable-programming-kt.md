@@ -6,7 +6,6 @@ type: article
 technology: [knowledge-tracing, learning-analytics]
 assessment: [automated-assessment]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/2605.04727.md']
 confidence: medium
 discipline: [cs education]

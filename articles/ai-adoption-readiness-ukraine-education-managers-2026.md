@@ -5,7 +5,7 @@ updated: "2026-09-20T09:20:51-04:00"
 type: article
 institutions: [governance, regulation, educational-policy-ai]
 technology: [generative-ai]
-methods: [quantitative-research]
+methods: [quantitative-research, latent-profile-analysis]
 audience: [administrators, researchers]
 level: [higher ed, k 12]
 sources: ['raw/papers/ai-adoption-readiness-ukraine-education-managers-2026.md']

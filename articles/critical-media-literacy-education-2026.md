@@ -4,8 +4,9 @@ created: "2026-08-12T12:37:38-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
+methods: [qualitative-research]
 ethics: [equity-in-ai-education, ethics]
-research_method: [qualitative, interviews, survey]
+research_method: [interviews, survey]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2608.10778.md']

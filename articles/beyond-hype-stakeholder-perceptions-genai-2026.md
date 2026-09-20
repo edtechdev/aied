@@ -5,8 +5,9 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [educational-development]
 technology: [generative-ai]
-stakeholders: [stakeholders, professional-training]
-research_method: [qualitative]
+methods: [qualitative-research]
+stakeholders: [stakeholders]
+pedagogy: [professional-training]
 audience: [administrators, instructors, researchers]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100381.md"]

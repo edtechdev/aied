@@ -8,7 +8,7 @@ foundations: [human-ai-collaboration]
 pedagogy: [problem-based-learning]
 technology: [generative-ai, simulation]
 confidence: medium
-research_method: [systematic review, thematic analysis]
+research_method: [thematic analysis]
 discipline: [medical education]
 audience: [medical educators, researchers, curriculum designers]
 page_kind: [synthesis]

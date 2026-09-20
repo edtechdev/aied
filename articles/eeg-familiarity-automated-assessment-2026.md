@@ -7,7 +7,6 @@ foundations: [limitations-in-aied-research]
 technology: [cognitive-diagnosis, learning-analytics, machine-learning, student-modeling]
 assessment: [automated-assessment, educational-measurement]
 audience: [software developers]
-research_method: [benchmark, educational measurement]
 page_kind: [evaluation]
 sources: ['raw/papers/eeg-familiarity-automated-assessment-2026.md']
 confidence: high

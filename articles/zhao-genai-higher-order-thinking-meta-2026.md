@@ -6,10 +6,9 @@ type: article
 foundations: [ai-education, critical-thinking]
 pedagogy: [cognitive-psychology, creativity, problem-solving, self-regulated-learning]
 technology: [generative-ai]
-research_method: [meta-analysis]
 sources: ['raw/papers/zhao-genai-higher-order-thinking-meta-2026.md']
 confidence: high
-audience: [educators, researchers]
+audience: [instructors, researchers]
 page_kind: [evaluation, synthesis]
 methods: [meta-analysis-systematic-review]
 ---

@@ -6,11 +6,11 @@ type: article
 foundations: [teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm, rag]
 assessment: [feedback, formative-assessment]
-research_method: [mixed methods, system development]
+methods: [mixed-methods-research]
+research_method: [system development]
 discipline: [writing education]
 audience: [instructors]
 level: [k 12]
-
 sources: ['raw/papers/2605.17055.md']
 confidence: high
 ---

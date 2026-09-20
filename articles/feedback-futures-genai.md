@@ -12,7 +12,6 @@ connected_faqs: [ai-feedback-at-scale]
 audience: [instructors, researchers]
 research_method: [theoretical analysis]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-2026-feedback-futures-genai.md']
 confidence: high
 page_kind: [synthesis]

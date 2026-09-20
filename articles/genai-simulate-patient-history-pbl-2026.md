@@ -5,7 +5,6 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [problem-based-learning]
 technology: [generative-ai, simulation]
-research_method: [mixed methods]
 discipline: [medical education]
 sources: ['raw/papers/genai-simulate-patient-history-pbl-2026.md']
 confidence: high

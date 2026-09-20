@@ -5,7 +5,7 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning, well-being]
 technology: [generative-ai]
-research_method: [longitudinal survey]
+research_method: [longitudinal study]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1837484.md']

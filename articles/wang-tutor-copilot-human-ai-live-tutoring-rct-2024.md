@@ -5,10 +5,10 @@ updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [human-in-the-loop-ai, intelligent-tutoring]
+methods: [rct]
 ethics: [equity-in-ai-education]
-research_method: [randomized controlled trial]
 discipline: [learning sciences]
-audience: [researchers, edtech designers, policymakers, educators]
+audience: [researchers, edtech designers, policymakers, instructors]
 level: [k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/2410.03017.md']

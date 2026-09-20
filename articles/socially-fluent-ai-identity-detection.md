@@ -8,7 +8,6 @@ technology: [affective-computing, intelligent-tutoring, llm, rag]
 stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [researchers]
-
 sources: ['raw/papers/2605.23426.md']
 confidence: high
 ---

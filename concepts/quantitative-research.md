@@ -4,7 +4,7 @@ created: "2026-08-24T02:05:00-04:00"
 updated: "2026-09-12T11:20:00-04:00"
 type: concept
 assessment: [educational-measurement]
-research_method: [survey, research methods, educational measurement, experiment]
+research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 ---

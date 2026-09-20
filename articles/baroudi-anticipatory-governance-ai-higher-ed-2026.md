@@ -5,9 +5,9 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [ai-education]
 ethics: [ethics]
+methods: [meta-analysis-systematic-review]
 stakeholders: [administrator]
 connected_faqs: [institutional-ai-policy]
-research_method: [systematic review]
 audience: [administrators]
 level: [higher ed]
 sources: ['raw/papers/baroudi-anticipatory-governance-ai-higher-ed-2026.md']

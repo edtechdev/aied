@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, ai-education]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, pedagogical-llm-training]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/2504.20082.md']
 confidence: medium
 page_kind: [framework]

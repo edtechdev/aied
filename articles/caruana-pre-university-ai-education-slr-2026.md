@@ -6,9 +6,8 @@ type: article
 foundations: [ai-education, ai-literacy, curriculum-design, teacher-role]
 technology: [generative-ai]
 ethics: [digital-divide, equity-in-ai-education]
-research_method: [systematic review]
 audience: [instructors]
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 sources: ['raw/papers/caruana-pre-university-ai-education-slr-2026.md']
 confidence: high
 methods: [meta-analysis-systematic-review]

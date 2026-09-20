@@ -5,13 +5,13 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency, professional-training]
+stakeholders: [teacher-ai-competency]
+pedagogy: [professional-training]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
-research_method: [systematic review]
 discipline: [language learning, english education]
-audience: [teacher educators, teachers, faculty development]
-level: [teacher training, higher ed]
+audience: [teacher educators, teachers, faculty developers]
+level: [teacher education, higher ed]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

@@ -4,10 +4,9 @@ created: "2026-05-23T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
-technology: [generative-ai]
+technology: [generative-ai, learning-analytics]
 assessment: [assessment, learning-gains]
 stakeholders: [student-experience]
-research_method: [learning analytics]
 discipline: [stem education, math education]
 audience: [learners]
 level: [k 12, higher ed]

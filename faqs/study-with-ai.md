@@ -8,7 +8,7 @@ foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, help-seeking, metacognition, self-efficacy, self-regulated-learning]
 ethics: [trust-calibration]
 research_method: [experiment, literature review, survey]
-audience: [learners, students, instructors]
+audience: [learners, instructors]
 level: [higher ed, secondary]
 ---
 

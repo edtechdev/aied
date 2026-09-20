@@ -11,9 +11,9 @@ methods: [quantitative-research]
 stakeholders: [student-experience]
 sources: ['raw/papers/eight-mode-ai-engagement-typology-2026.md']
 confidence: high
-research_method: [instrument development, quantitative, survey]
+research_method: [instrument development, survey]
 level: [higher ed]
-audience: [researchers, learning designers, educators]
+audience: [researchers, learning designers, instructors]
 page_kind: [evaluation]
 ---
 

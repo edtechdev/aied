@@ -7,7 +7,6 @@ foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
 technology: [intelligent-tutoring]
 level: [k 12]
-
 confidence: high
 ---
 

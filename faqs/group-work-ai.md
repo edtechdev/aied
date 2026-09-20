@@ -7,7 +7,8 @@ type: faq
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
 assessment: [assessment, group-work, peer-assessment]
-research_method: [systematic review, interviews, mixed methods]
+methods: [meta-analysis-systematic-review, mixed-methods-research]
+research_method: [interviews]
 audience: [instructors, learning designers, assessment designers]
 level: [higher ed, secondary]
 ---

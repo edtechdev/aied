@@ -6,12 +6,13 @@ type: article
 foundations: [design-thinking]
 pedagogy: [collaborative-learning, creativity, self-efficacy]
 technology: [generative-ai, virtual-and-augmented-reality]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 sources: ['raw/papers/genai-xr-architectural-design-education-2026.md']
 confidence: high
-research_method: [mixed methods, quasi-experiment, interviews, thematic analysis]
+research_method: [quasi-experiment, interviews, thematic analysis]
 discipline: engineering education
-audience: [educators, instructors, designers, researchers]
+audience: [instructors, designers, researchers]
 level: [higher ed]
 ---
 

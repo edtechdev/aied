@@ -4,7 +4,6 @@ created: "2026-08-09T10:44:35-04:00"
 updated: "2026-09-18T09:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
-
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
 connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]

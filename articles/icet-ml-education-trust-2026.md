@@ -10,7 +10,7 @@ sources: ['raw/papers/icet-ml-education-trust-2026.md']
 confidence: high
 research_method: [theoretical analysis, position paper]
 discipline: [cs education]
-audience: [educators, curriculum designers, researchers]
+audience: [instructors, curriculum designers, researchers]
 level: [k 12]
 page_kind: [framework]
 ---

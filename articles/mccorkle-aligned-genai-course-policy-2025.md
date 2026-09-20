@@ -6,10 +6,10 @@ type: article
 foundations: [academic-integrity, curriculum-design, educational-development, framing-ai-use-for-students]
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment]
-stakeholders: [career-development-and-readiness]
+methods: [design-based-research]
 connected_faqs: [course-ai-policy]
-research_method: [design-based research]
-audience: [instructors, faculty development, instructional designers, curriculum designers]
+pedagogy: [career-development-and-readiness]
+audience: [instructors, faculty developers, instructional designers, curriculum designers]
 level: [higher ed]
 sources: ['raw/papers/mccorkle-aligned-genai-course-policy-2025.md']
 confidence: high

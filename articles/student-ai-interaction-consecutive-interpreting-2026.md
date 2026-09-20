@@ -4,9 +4,10 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition, student-engagement]
 technology: [intelligent-tutoring]
+methods: [quantitative-research]
 sources: ['raw/papers/student-ai-interaction-consecutive-interpreting-2026.md']
 confidence: high
-research_method: [experiment, quantitative]
+research_method: [experiment]
 discipline: [language learning]
 audience: [instructors, researchers]
 level: [higher ed]

@@ -5,11 +5,12 @@ updated: "2026-09-19T10:40:23-04:00"
 type: article
 pedagogy: [well-being]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
+methods: [quantitative-research]
 sources: ['raw/papers/mindful-llm-math-tutoring-2026.md']
 confidence: high
-research_method: [experiment, quantitative]
+research_method: [experiment]
 discipline: [math education]
-audience: [educators, edtech designers, instructional designers]
+audience: [instructors, edtech designers, instructional designers]
 level: [secondary, k 12]
 ---
 

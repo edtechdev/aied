@@ -6,10 +6,10 @@ type: article
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [language learning]
-
 sources: ['raw/papers/2608.03952v1.md']
 confidence: high
 level: [adult learning]

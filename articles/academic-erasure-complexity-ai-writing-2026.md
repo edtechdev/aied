@@ -7,13 +7,14 @@ foundations: [academic-integrity, cognitive-offloading, critical-thinking]
 pedagogy: [student-ai-interaction]
 technology: [generative-ai]
 assessment: [ai-detection, assessment]
+methods: [qualitative-research]
 ethics: [ethics]
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/10.1080_13562517.2026.2707601.md']
 confidence: high
-audience: [educators, instructors, assessment designers]
+audience: [instructors, assessment designers]
 ---
 
 > **Synthesis:** Nwagboso & Atuba (2026) introduce *academic erasure* — the way [[generative-ai|generative AI]] produces fluent, structurally compliant writing while eroding the epistemic labor, critical thinking, and authentic voice that [[writing-education|academic writing]] is meant to cultivate. Analyzing 49 Reddit posts from educators, they identify seven forms of erasure (epistemic labor, authentic voice, educator efficacy, trust, [[pedagogy|pedagogical]] method, the human–AI boundary, and [[governance|institutional]] legibility) and frame the phenomenon as the joint effect of two mechanisms: *epistemic delegation* (offloading thinking to AI) and *epistemic singularity* (the homogenization of voice into an AI-optimized register). The study reframes AI's risk in [[higher-ed|higher education]] as less about plagiarism than about the loss of intellectual struggle, urging [[assessment]] and pedagogy toward process, voice, and depth.

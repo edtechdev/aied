@@ -6,9 +6,9 @@ type: article
 foundations: [ai-literacy]
 assessment: [educational-measurement, self-report-measures, assessment]
 methods: [quantitative-research]
-research_method: [instrument development, quantitative, survey]
+research_method: [instrument development, survey]
 level: [higher ed, adult learning]
-audience: [researchers, assessment designers, educators]
+audience: [researchers, assessment designers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/gails-generative-ai-literacy-scale-2026.md']
 confidence: high

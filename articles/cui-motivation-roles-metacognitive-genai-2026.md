@@ -6,7 +6,7 @@ type: article
 foundations: [agency]
 pedagogy: [metacognition, motivation, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]
-research_method: [mixed methods, qualitative]
+methods: [mixed-methods-research, qualitative-research, network-analysis]
 level: [higher ed]
 sources: ['raw/papers/cui-motivation-roles-metacognitive-genai-2026.md']
 confidence: high

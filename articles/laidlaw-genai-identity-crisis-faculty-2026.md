@@ -9,7 +9,7 @@ technology: [generative-ai]
 stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [theoretical analysis]
-audience: [faculty development, instructors]
+audience: [faculty developers, instructors]
 level: [higher ed, adult learning]
 sources: ['raw/papers/laidlaw-genai-identity-crisis-faculty-2026.md']
 confidence: high
