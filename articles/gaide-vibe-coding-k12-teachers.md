@@ -1,7 +1,7 @@
 ---
 title: A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [active-learning]
@@ -19,6 +19,21 @@ page_kind: [framework]
 GAIDE, a Design-Thinking-based framework, supports K-12 teachers (non-programmers) in building AI-powered learning tools via vibe coding; an eight-week workshop raised participating teachers' AI literacy, showing learning-by-creating as a professional-development model.
 
 This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[educational-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
+
+## What this means for practice
+
+- **Instructors.** Anchor a vibe-coding project in a real classroom problem: the three teachers designed their tools against the U.S. Presidential AI Challenge, and the Design Thinking empathy stage kept the work tied to their own students.
+- **Faculty developers.** Mentor the design process stage by stage rather than the finished artifact — four faculty mentors supported three teachers across eight weekly online sessions, and the CORDTRA analysis mapped mentor support onto each design stage.
+- **Faculty developers.** Treat AI ethics as a design topic rather than a compliance rule: teachers shifted from "making sure students are not cheating" to reasoning about bias, hallucination, and transparency in their own tools.
+- **Instructors.** Budget prototyping time outside the sessions: teachers were asked to continue building between workshops because the eight sessions ran short.
+- **Faculty developers.** Model learning-by-creating for [[professional-training]]: the workshop raised teachers' [[ai-literacy]] by having them build AI-powered tools, not by explaining AI to them.
+
+## Limitations
+
+- Three K-12 teachers and four faculty mentors, recruited by snowball sampling from rural East Tennessee, completed a single eight-week online workshop with no control group.
+- The AI-literacy findings come from thematic analysis of pre- and post-interviews, so they capture self-reported perception rather than tested capability.
+- Teachers continued prototyping outside the sessions because of time constraints, so the recorded video and CORDTRA diagrams cover only part of the design work.
+- All three teachers volunteered for the Presidential AI Challenge, so their motivation likely exceeds that of a typical K-12 teacher cohort.
 
 ## Connected Concepts
 
