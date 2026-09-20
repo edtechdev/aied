@@ -25,6 +25,19 @@ page_kind: [evaluation]
 
 This work complements [[genai-tutor-engagement-patterns]] by shifting focus from tutoring to student-initiated LLM use in authentic academic tasks. The EDM 2026 acceptance places it within the [[learning-analytics]] community's growing interest in modeling AI-augmented learning behaviors. Findings also inform [[educational-development]] strategies for guiding student AI use.
 
+## What this means for practice
+
+- **Instructors.** Front-load explicit guidance on LLM use in the first weeks of a course: students who reported no LLM use outperformed users on Midterm 1 with a large effect size, and only later in the term did the LLM group close the gap by roughly 10%.
+- **Instructors.** Teach the difference between student-driven and LLM-driven prompting rather than banning or permitting tools wholesale, because students whose use was mostly student-driven scored about 10% higher on Midterm 1 than those relying on LLM-driven support.
+- **Instructors.** Track how much of the work is delegated, not just whether a tool was opened: the 7 High-Reliance students (LLM use in more than 50% of submissions) trailed the 16 Low-Reliance students (5–33% of submissions) by 7–8% on all three midterms.
+- **Learners.** Use the LLM to interrogate your own reading of a paper — the [[critical-thinking-genai-scaffolding|student-driven]] patterns in this course, such as soliciting counterarguments, were associated with better exam performance than asking the model to generate content.
+
+## Limitations
+
+- The data cover 68 students across two offerings of a single research-oriented course (37 and 31), so the usage patterns are specific to that course and setting.
+- Usage frequency and type come from students' self-reported weekly assignments rather than logged interactions, so the categories rest on what students chose to record.
+- Subgroup comparisons between High-Reliance and Low-Reliance students were not tested statistically because the groups were highly imbalanced (7 vs 16), so those differences are descriptive trends.
+- Students self-selected into LLM use with no restrictions and no control group, so the midterm gap cannot be read as an effect of LLM use.
 ## Connected Concepts
 
 - [[ai-literacy]]

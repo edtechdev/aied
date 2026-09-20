@@ -86,6 +86,21 @@ This paper directly informs several threads in the knowledge base:
 - Can the resubmission problem be solved by requiring reflection prompts between hint levels?
 - Would a hybrid design (direct feedback + optional hints) preserve learning while maintaining positive affect?
 
+## What this means for practice
+
+- **Learners.** Do not guess your way up a hint ladder. In the layered condition, students who accumulated three or more submissions on a task scored lower (indirect effect = −0.19, p = .03), a sign of trial-and-error rather than thinking.
+- **Learners.** When you already know what to fix, direct corrective feedback is the safer bet: the layered group scored significantly lower on the post-test overall (B = −0.83, p = .02) despite feeling more encouraged.
+- **Instructors.** Cap resubmissions per task, or require a brief written reflection between attempts. Frequent submissions strongly predicted worse post-test scores (B = −0.33, p = .001).
+- **Instructors.** Never read encouragement or satisfaction ratings as evidence of [[learning-gains|learning]]. Layered feedback raised perceived encouragement and mental effort, yet the effort self-report did not predict performance (p = .77) and the net effect on learning was negative.
+- **Instructors.** Default to direct feedback when the goal is short-term performance in online higher education, and reserve sequenced designs for courses where motivation and independence are the priority — the design the authors note retains value for the long term.
+
+## Limitations
+
+- The final dataset is 199 U.S. college students recruited through Prolific (100 layered, 99 non-layered, mean age 32) after attention-check screening of 215 — a convenience sample of online learners.
+- The study ran in a single course context and is a single-session design with no delayed post-test, so long-term retention and transfer were not measured.
+- The learning-by-doing tasks were relatively low-level by the authors' own account and may not have engaged higher-order thinking.
+- Process data came mainly from log traces; there was no direct measure of how learners attended to or processed the feedback, and the authors call for richer instruments such as eye-tracking.
+
 ## Connected Concepts
 
 - [[formative-assessment]]

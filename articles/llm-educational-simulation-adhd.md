@@ -36,6 +36,21 @@ The simulation methodology also raises questions about [[hazra-safetutors-pedago
 - Can temporal stability be improved through [[prompt-engineering|prompt engineering]] or fine-tuning?
 - What is the [[ethics|ethical]] boundary for using [[simulating-students|simulated students]] in [[rct]] designs?
 
+## What this means for practice
+
+- **Software developers.** Build scripted, task-anchored interactions rather than open-ended chat when simulated learners must stay in character: scripted interactions with explicit task prompts eliminated observer-rated behavioral drift entirely, a reduction of up to 97% relative to unscripted dialog.
+- **Software developers.** Treat interaction structure as a stronger lever than model selection. The study crossed five LLMs with three prompt designs and four persona conditions, and stability turned out to be conditional on interaction design rather than intrinsic LLM capability.
+- **Software developers.** Test the middle of your persona distribution, not only the extremes: within-conversation drift occurred in unscripted dialog for both high- and moderate-intensity ADHD personas, so partially specified profiles are the ones simulated worst.
+- **Learners.** Use simulated student scenarios as rehearsal, not as a model of real neurodivergent classmates: self-reported persona characteristics stayed stable while observer-rated behavioral expression of high- and moderate-intensity personas declined across the 9-turn conversations.
+- **Software developers.** Set the persona explicitly, because without persona instructions baseline LLM student representation skews toward high ADHD symptoms — a bias the authors trace to pretraining material drawn disproportionately from clinical and special education contexts.
+
+## Limitations
+
+- The study covers one diagnostic construct only; generalization to personas combining multiple human characteristics, and to comorbid conditions such as ADHD with anxiety, remains for future research, and the authors note this limits ecological validity for educational [[simulation|simulation]].
+- Only two interaction structures were tested — scripted and unscripted. Other structures such as increasing [[scaffolding]], or supportive versus challenging tutor personas, were not explored, so the minimal intervention for behavioral stability is unknown.
+- Observer-rated behavioral expression was scored by three independent LLM raters blind to persona instructions, so the behavioral stability measures are themselves model-generated rather than human-coded.
+- Between-conversation stability rests on single-turn, context-free instantiations (N = 4,968), and within-conversation stability on 20 conversations of 9 turns (N = 3,952) — a short interaction window relative to the sustained, path-dependent interactions of real tutoring or teacher training.
+
 ## Connected Concepts
 
 - [[adaptive-learning]]

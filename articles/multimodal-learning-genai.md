@@ -131,6 +131,21 @@ The guide includes 15+ educator case studies spanning:
 3. **[[assessment-validity|Assessment validity]]**: When students use GenAI to create multimodal assessment artifacts, how can assessors distinguish genuine human meaning-making from AI-generated polish?
 4. **Scaling the MMLD-AI model**: Can the six engagement types be operationalized as automatic learning design recommendations, or does human pedagogical judgment remain essential?
 
+## What this means for practice
+
+- **Instructors.** Require critique before adoption: build tasks in which students must extend, adapt, critique, or even abandon genAI output rather than submit it wholesale. The guide names uncritical adoption as its first challenge to creative thinking.
+- **Instructors.** Protect unmediated work. The guide warns that the convenience of these tools can foster dependence that erodes independent research, critical analysis, and [[self-regulated-learning|self-regulation]], so state explicitly when GenAI may support a task and when the task is to be done without it.
+- **Instructional designers.** Insert deliberate pause points for [[metacognition|reflection]] into AI-mediated tasks: automated summaries and visualizations can supply answers too quickly and compress the stages of the learning cycle where reflection happens.
+- **Faculty developers.** Choose platforms by purpose rather than novelty. Work through the guide's selection checks — the intended learning outcome, whether visuals, audio or video are genuinely needed, students' digital skills and device access, and bias, privacy and representation — and keep the vetted tools list current, because free access and premium tiers change constantly.
+- **Faculty developers.** Design for the tasks students themselves valued: in the project's focus groups, students responded positively to [[authentic-assessment|real-world]] tasks such as building websites or designing exhibitions, which points to assessment artifacts worth the multimodal effort.
+
+## Limitations
+
+- The guide is a synthesis, not an empirical study: it reports data from a literature review, a case-study collection exercise, a survey, and focus groups with educational developers, educators, and students from a 2024/25 SEDA Small Grants project, and measures no learning outcome of its own.
+- Its case studies are practitioner submissions reproduced in full in an appendix rather than controlled comparisons — one describes 198 students in a single marketing module across three stages — and none is tested against a no-GenAI condition.
+- The environmental argument cannot be quantified: the guide notes precise energy costs for different GenAI platforms are very difficult to extract from their producers and suppliers, so it demonstrates only that multimodal generation uses substantially more energy than text, not how much.
+- The evidence base ages quickly and the guide says so: GenAI advanced even during final editing (it reports GPT-5's release in that window), and its cases were gathered from self-selected practitioners already using GenAI, so they document early adopters rather than typical practice.
+
 ## Connected Concepts
 
 - [[adaptive-learning]]

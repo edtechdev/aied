@@ -124,6 +124,7 @@ def strip_identifiers(text):
     text = re.sub(r'\[\[[^\]]*\]\]', ' ', text)
     text = re.sub(r'\]\([^)]*\)', ' ', text)
     text = re.sub(r'\[\d+(?:\s*,\s*\d+)*\]', ' ', text)   # citation markers: [7,15], [12]
+    text = re.sub(r'\b[KG][-–]?12\b', ' ', text)            # the K-12 term, not the number 12
     text = re.sub(r'arXiv[:\s]*\d{4}\.\d{4,5}', ' ', text, flags=re.I)
     text = re.sub(r'\b10\.\d{4,}/[^\s)\]"\']*', ' ', text)
     return text

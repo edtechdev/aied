@@ -61,6 +61,21 @@ CAC connects to several threads in [[ai-education|AI education]] [[research-meth
 - **Domain breadth**: The initial implementation is [[discipline-specific-aied|domain-specific]] — can CAC generalize across subjects?
 - **Bounded rationality in practice**: Does bounded-knowledge AI actually improve educational outcomes compared to unbounded LLM tutors?
 
+## What this means for practice
+
+- **Designers.** Treat the explicit knowledge base, not the language model, as the editable surface: expose skills, [[misconceptions]], and strategies as inspectable entries that an educator can correct without retraining the model.
+- **Designers.** Add a selective retrieval layer before scaling the knowledge base. In the proof of concept the agent stalled once the base grew to 188 Declarative Memory entries, because similarity-based retrieval stopped surfacing newly added items.
+- Run a knowledge-ablation check before deployment: remove a core knowledge entry and confirm the agent then fails problems that require it. If it still answers correctly, the executor is drawing on pretraining rather than the compiled representation.
+- Match executor scale to the domain instead of assuming one size works. A 2B SLM was needed to hold the structured output format, while the authors report that larger models solve problems on their own and smaller ones break instruction-following.
+- **Researchers.** Validate compiled knowledge components against real learner data — for example by building a [[knowledge-tracing|knowledge tracing]] model on them — before presenting them as a [[student-modeling|learner model]].
+
+## Limitations
+
+- The contribution is an early proof of concept: 27 biology problems from a single dataset, OLI_Biology from CMU DataShop, and none of the design goals were validated against student traces.
+- The run was terminated at the 28th problem after 150 failed compilation iterations, so behavior once the knowledge base keeps growing beyond 188 entries is untested.
+- Every component ran zero-shot with no fine-tuning, and after six instruction-tuned SLMs below 1 billion parameters failed to follow the structured format the design narrowed to one 2B model (Qwen2.5-2B) — results may therefore be model-specific.
+- The two proposed checks on remaining black-box reliance, knowledge ablation against answer persistence and downstream validation through [[knowledge-tracing|knowledge tracing]], are described as future work rather than executed tests.
+
 ## Connected Concepts
 
 - [[adaptive-learning]]

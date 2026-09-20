@@ -44,6 +44,20 @@ The finding that LLMs lag behind top human students on these riddles reinforces 
 - Can the benchmark be extended to other African and Global South educational systems?
 - What does the clue-progression format reveal about LLM reasoning vs. retrieval?
 
+## What this means for practice
+
+- **Developers.** Do not read benchmark-topping scores as instructional readiness: GPT-5.4 with high reasoning effort led the offline benchmark at 86.54% EM accuracy, yet in the real-time proxy the best LLM result of 75.64% EM accuracy and 366 points still trailed the best student teams at 78.21% EM accuracy and 377 points.
+- **Developers.** Build practice items with progressive clue revelation, where earlier clues are vaguer and worth more (5 points on the first, 4 on the second, 3 thereafter), so that exercises reward incremental reasoning rather than a single retrieval step.
+- **Developers.** Evaluate K-12 [[stem-education|STEM]] reasoning against a human baseline and on [[global-south|Global South]] content: NSMQ Riddles draws 1.8K riddles from 11 years of Ghana's National Science and Maths Quiz, a coverage that general benchmarks such as MMLU and GSM8K do not provide.
+- **Developers.** Instrument how many clues a model needs as well as whether it answers correctly, since accuracy alone hides the difference between recognizing an answer early and arriving at it only after most of the riddle has been revealed.
+
+## Limitations
+
+- The real-time proxy evaluation used only one year of the NSMQ (2019) because annotations of the required metadata and compute resources were limited; the authors list more years as future work.
+- That evaluation is a proxy rather than a true competition simulation: annotated audio of the contests was unavailable, and actual points depend on whether the student or the model answers first in a live round.
+- The riddles appear publicly on YouTube, so contamination of model training data is possible; the authors state they did not assess it and list de-contamination analysis as future work.
+- The student comparison uses retrospective real-world team performance rather than matched conditions, and only 156 riddles carried the metadata needed for the points analysis.
+
 ## Connected Concepts
 
 - [[automated-question-generation]]

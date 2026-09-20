@@ -35,6 +35,20 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - Can the deep learning scaffolding generalize across disciplines beyond the tested contexts?
 - What is the instructor's role when AI handles adaptive questioning within Moodle?
 
+## What this means for practice
+
+- **Instructors.** Keep every AI-generated quiz or study guide in the "Unapproved" state until a teacher reviews it; participants rated the system's resistance to hallucination at 4.44/5 precisely because nothing reached students without human sign-off.
+- **Instructional designers.** Tune retrieval to the discipline instead of using one default: 512-character chunks with a temperature of 0.3 reached a RAGAS faithfulness of 0.97 on STEM material, while humanities material needed 1000-character chunks at 0.1 to hold a context recall of 1.00 and an average faithfulness of 0.98.
+- **Software developers.** Hold retrieval at Top-K = 10 — raising it to 15 gained no recall and significantly worsened context precision through irrelevant-material distraction — and evaluate a Socratic "deep understanding" mode on context recall (0.98) rather than answer relevancy, which it scores low by design.
+- **Instructors.** Ground the assistant strictly in teacher-verified course documents and use the dashboard logs to see which topics students actually query, letting the tutor carry the [[formative-assessment]] workload that 14 out of 18 users named, with the chat interface, as the system's most useful features.
+
+## Limitations
+
+- The human evaluation rests on 18 participants from the authors' own university, of whom 83.3% were students and 11.1% instructors — a single-site usability sample, not a representative or multi-institutional one.
+- Outcomes are self-reported: a 1–5 Likert survey plus open-ended questions, with an overall recommendation of 4.00/5 and relevance-and-accuracy rating of 4.06/5. There is no control group, no comparison with Moodle without the tutor, and no measure of [[learning-gains|learning gains]].
+- The shift from "surface learning" to deep conceptual understanding is the system's design goal, not a tested result: the automated scores (Ragas LLM-as-a-judge faithfulness of 0.97 and 0.98) judge grounding rather than correctness, and the human side measured usability and perceived utility rather than understanding.
+- All configuration findings come from one deployment on a single Moodle server using NLP and Machine Learning course notes and three specific models (Gemini Flash 2.0, GPT-4o-mini, Llama 3.1), so the optimal chunk size and temperature may not transfer to other courses or models.
+
 ## Connected Concepts
 
 - [[scaffolding]]

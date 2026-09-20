@@ -1,7 +1,7 @@
 ---
 title: "Knowledge without Wisdom: Measuring Misalignment between LLMs and Intended Impact"
 created: "2026-05-07T04:33:04-04:00"
-updated: "2026-09-18T19:55:59-04:00"
+updated: "2026-09-20T08:50:26-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [llm, pedagogical-llm-training]
@@ -46,7 +46,7 @@ Some models align moderately with expert ratings, but alignment with student lea
 Both benchmark-weighted aggregation and unanimous-voting ensembles **worsened** alignment with learning. Aggregating multiple misaligned models compounds the problem rather than averaging it out.
 
 ### Finding 4: Model/Prompt Selection = 15% of Error
-Choice of LLM and prompting strategy accounts for only ~15% of misalignment. The remaining ~85% is **shared across all models** — common pretraining data and objectives are the dominant driver. [[prompt-engineering|Prompt engineering]] and model selection are weak levers.
+Choice of LLM and prompting strategy accounts for only ~15% of misalignment; the rest is **shared across all models** — common pretraining data and objectives are the dominant driver. [[prompt-engineering|Prompt engineering]] and model selection are weak levers.
 
 ## Broader Implications
 
@@ -62,6 +62,21 @@ This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|
 - Can pretraining on authentic classroom data (not just Internet text) close the alignment gap?
 - Are there tasks where the alignment gap is smaller (e.g., factual tutoring vs. [[qualitative-research|qualitative]] judgment)?
 - How does this interact with [[llm-fallacy-misattribution]] — do students [[trust-calibration|over-trust]] misaligned AI outputs?
+
+## What this means for practice
+
+- **Instructors.** Do not read a model's agreement with expert ratings as evidence that it understands your classroom: some models align moderately with expert human raters while their alignment with student learning gains is often near zero or negative.
+- **Researchers.** Report dependence against intended outcomes, not just expert agreement. The human raters in this study show a real signal with VAMs (Kendall τb 0.11/0.03 and 0.14/0.06) that the 16 LLMs largely fail to reproduce, even though LLM-LLM agreement was substantially higher than LLM-human agreement.
+- **Researchers.** Stop treating multi-model [[benchmark|benchmarking]] ensembles as a safety net: both benchmark-weighted aggregation and unanimous-voting ensembles worsened alignment with learning rather than averaging the error out.
+- **Instructors.** Expect model and prompt choice to be weak levers. Selection of LLM or prompting strategy accounts for only 15% of all measured misalignment error, and reasoning-enhanced variants showed no measurable improvement, so upgrading models is unlikely to repair pedagogical validity.
+- **Software developers.** Plan evaluation around how the model is used, not only what it predicts: the dominant variance shares sit in classroom-text-conditioned interactions (LLM×ITEM×OBS 0.19, LLM×PROMPT×OBS 0.14), meaning failures attach to particular kinds of instructional evidence rather than to a deficient model.
+
+## Limitations
+
+- Teaching-quality measures come from the NCTE Main Study, which comprises observations of roughly 350 4th and 5th-grade mathematics teachers across four U.S. school districts, so generalization from U.S. primary mathematics classrooms to all classrooms is not demonstrable here.
+- Expert ratings pertain solely to a subset of rating items on a specific rubric — 7 observation dimensions drawn from MQI and CLASS — which may limit conclusions about other tasks of classroom instructional support.
+- Value-added measures are imperfect, high-variance estimates of causal impact and transcript segments are partial, lossy views of instruction; the authors present their variance decomposition as a statement about where misalignment concentrates under this measurement system, not as a definitive census of all sources of pedagogical effectiveness.
+- Estimates are conditional on the sampled items, segments, models, and prompt families (16 LLMs, 3 zero-shot prompt techniques), and the authors flag that the test set may have unobserved confounding factors in its construction.
 
 ## Connected Concepts
 
