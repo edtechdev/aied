@@ -19,6 +19,20 @@ page_kind: [framework, evaluation]
 
 For [[writing-education]], this represents a paradigm shift. Traditional [[automated-essay-scoring|automated writing evaluation]] focuses on final text quality, missing the process-level decisions that constitute real learning. The HiL-MDP framework aligns with process-oriented writing [[pedagogy]] — capturing where students accept, modify, or reject AI suggestions provides rich diagnostic information beyond what a final essay grade reveals. The work connects to [[cyberscholar-genai-writing-feedback]] and [[structured-llm-feedback-programming]] by establishing that interaction structure (when/how suggestions appear) significantly affects user behavior. For [[becerra-aicofe-feedback-2026]], the acceptance/editing metrics offer a template for evaluating collaborative feedback workflows. Accepted to IJCAI 2026, this work bridges [[human-in-the-loop-ai]] theory with practical writing tool design, advancing [[llm]]-based educational technology beyond static quality assessment toward dynamic interaction modeling.
 
+## What this means for practice
+
+- **Designers.** Treat acceptance and editing cost as two separate design targets rather than one quality score — the two metrics come apart across models, with GPT-5.1 achieving the highest HAR overall while Gemini-2.5-Pro attained the lowest KED.
+- Log accept, edit, and reject decisions at paragraph granularity and report them by document position: paragraph-level acceptance rates rose monotonically from the front to the middle and back sections of articles across all evaluated models and interaction settings.
+- Tune proactivity thresholds to writing stage and domain; acceptance rates were consistently lower in Creative than in Scientific domains, so one threshold will over-suggest or under-suggest depending on the genre.
+- Model interaction history instead of treating each suggestion as stateless: moving from L1 to L2 yielded systematic gains in acceptance and reduced editing effort, and proactive collaboration lowered window switching and completion time for the 30 study participants.
+
+## Limitations
+
+- The offline evaluation substitutes a human simulator: user feedback is abstracted into behavioral proxies grounded in observed co-writing patterns, so HAR and KED approximate acceptance behavior rather than measuring it.
+- The validation user study rests on 30 participants recruited from universities and technology companies, using a single unified LLM backend (GPT-5.1).
+- The framework covers one instantiation of co-writing — proactive suggestion-based completion; the authors state that generalization to other collaborative forms, such as outlining assistance or structural critiquing, remains an open question.
+- The controlled dataset contains 60 human-authored articles across 16 domains and 1,688 continuation queries, and the authors note the absence of the longitudinal user studies needed to show how writing preferences evolve.
+
 ## Connected Concepts
 
 - [[writing-education]]

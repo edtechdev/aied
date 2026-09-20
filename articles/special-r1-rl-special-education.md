@@ -48,6 +48,20 @@ This is the first multi-turn pedagogical [[reinforcement-learning|RL]] framework
 
 ring systems?
 
+## What this means for practice
+
+- **Software developers.** Condition both the prompt and the reward on the learner's disability profile rather than either one alone: the full model raised judge-rated Fit from 6.75 to 8.40, and the ablations show the persona-aware Thinking Reward pays off only alongside adaptive [[prompt-engineering]].
+- **Software developers.** Make out-of-domain checks part of the release gate: the full model stayed within 0.01 of the best variant on the generic OpenLearnLM benchmark (8.53), so a disability-conditioned tutor should be tested on generic material too.
+- **Software developers.** Do not assume a text-only interface serves every profile: specific learning disability in mathematics remained the weakest profile, dropping below 7.8 on overall Fit, and its rubric calls for visual or manipulative representations a text-only tutor cannot deliver.
+- **Software developers.** Evaluate on multi-turn dialogue with diverse learner personas (this study used 690 dialogues) rather than single-turn exchanges, since both the Fit gains and the SPED-rubric Helpfulness improvement (0.720 to 0.768) are defined over multi-turn tutoring.
+
+## Limitations
+
+- Every student in the evaluation was a disability-conditioned LLM simulator; validating that judge-based gains transfer to real learners would require an IRB-approved study with special-education teachers.
+- All main rewards and evaluation scores come from GPT-4o-mini, with judge bias bounded only by a 10% Gemma-3-27B cross-judge check.
+- The accept/reject judge saturates in the Normal and SPED-static conditions, leaving the GRPO run little usable gradient outside the adaptive setting.
+- All tutors are 7-8B models, so behavior at larger scales is untested, and only five disability profiles are modeled.
+
 ## Connected Concepts
 
 - [[reinforcement-learning]]

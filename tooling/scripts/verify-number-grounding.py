@@ -27,6 +27,10 @@ A numeral is also accepted when the source spells it out: `33` passes when the
 raw reads "Thirty-three articles were reviewed in full text" (hyphenated, spaced
 and `hundred and` variants all count).
 
+Identifiers are not checked at all: wikilink and link targets, arXiv ids and DOIs
+are stripped before tokenizing, so a slug like `stanford-evidence-base-ai-k12-2026`
+no longer reports a "12" that was never a claim.
+
 Exit code is 1 when any article has ungrounded numbers, 0 otherwise.
 """
 import glob
@@ -109,6 +113,22 @@ def spelled_forms(value):
     return forms
 
 
+def strip_identifiers(text):
+    """Remove things that look numeric but are identifiers, not claims.
+
+    Wikilink targets, bare wikilinks and markdown link URLs are slugs and URLs:
+    `[[stanford-evidence-base-ai-k12-2026]]` carries a "12" that is part of a slug,
+    not a statistic. arXiv ids and DOIs are identifiers too. Both classes were
+    producing review noise on pages that were otherwise fully grounded.
+    """
+    text = re.sub(r'\[\[[^\]]*\]\]', ' ', text)
+    text = re.sub(r'\]\([^)]*\)', ' ', text)
+    text = re.sub(r'\[\d+(?:\s*,\s*\d+)*\]', ' ', text)   # citation markers: [7,15], [12]
+    text = re.sub(r'arXiv[:\s]*\d{4}\.\d{4,5}', ' ', text, flags=re.I)
+    text = re.sub(r'\b10\.\d{4,}/[^\s)\]"\']*', ' ', text)
+    return text
+
+
 def ungrounded(slug):
     raw, article = load(slug)
     if raw is None or article is None:
@@ -117,6 +137,7 @@ def ungrounded(slug):
     raw_l = raw_n.lower()
     squeezed = re.sub(r'\s+', '', raw_n)
     body = re.sub(r'^---\n.*?\n---', '', article.split('## Citation')[0], flags=re.S)
+    body = strip_identifiers(body)
     misses = []
     for value, number in numeric_tokens(body).items():
         if value in YEARS:
@@ -129,6 +150,8 @@ def ungrounded(slug):
             continue   # leading-dot form, e.g. the body prints "001" where the source writes ".001"
         if re.search(r'(?<![\d.])(?:0)?\.' + re.escape(value) + r'(?!\d)', raw_n):
             continue   # the page drops the leading zero (".054", ".944") that the source prints as "0.054"
+        if value.startswith('0.') and re.search(r'(?<![\d.])\.' + re.escape(value[2:]) + r'(?!\d)', raw_n):
+            continue   # the reverse: the page prints "0.054" where the source prints ".054"
         if len(value) >= 4 and value in squeezed:   # survives PDF line-wrap artefacts
             continue
         if any(form in raw_l for form in spelled_forms(value)):

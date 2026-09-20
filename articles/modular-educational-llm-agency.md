@@ -23,6 +23,21 @@ page_kind: [framework]
 - **Accepted at AISoLA 2025** under the Responsible and Trusted AI track, positioning this work at the intersection of formal methods for AI safety and [[intelligent-tutoring]] system design. The modular approach resonates with calls for [[agentic-literacy-debt]] frameworks that ensure agent deployments are accompanied by appropriate [[governance]].
 - **Teacher-in-the-loop design:** The architecture preserves a [[teacher-role]] by making the system's pedagogical decisions observable and auditable, rather than black-box. This connects to work on [[rubric-aware-grading-rec-cbm]] which similarly emphasizes interpretability in educational AI.
 
+## What this means for practice
+
+- **Instructors.** Choose or build tutoring tools that route each request to a task-specific module — a hint generator that withholds the solution, a concept explainer, a correctness checker, and a boundary-keeping fallback — rather than one general-purpose chatbot prompt in which every pedagogical role competes.
+- **Designers.** Make each response traceable to the module that produced it: MALA requires a hidden reasoning step (classifying a student's partial solution as correct, incorrect, or partially correct) before the visible reply, so a bad [[scaffolding|scaffold]] can be corrected in one module without disturbing the others.
+- **Instructors.** Require guidance over answers. The paper's hint module refused to provide the full solution even when a user pressed with escalating urgency and claimed they would otherwise fail the course.
+- **Learners.** Ask for the next step, or submit your own partial solution for checking, instead of requesting the finished answer — the feedback module is built to evaluate your reasoning and explain the logic behind a correction.
+- **Administrators.** Treat modularity as an oversight requirement, not just a design taste: it is what lets a reviewer see why a particular [[intelligent-tutoring|tutoring]] intervention was selected and intervene at a fine-grained level.
+
+## Limitations
+
+- The empirical evidence comes from one observational deployment: the final three weeks of a single statistics lecture for undergraduate computer scientists, covering 62 distinct usernames and 128 initiated conversations on one GPT-4o-based prototype.
+- There is no control group. The authors explain that withholding a potentially beneficial tool to create one raises fairness concerns, forcing observational designs, and that voluntary participation introduces self-selection bias.
+- Engagement, not learning, is what was measured: 95 of the conversations were judged genuine learning attempts by automated GPT-5 analysis and 63% were resolved or partially resolved, but only 97 chats were multi-turn and no relationship to course performance is established.
+- Linking interaction logs to exam data required explicit informed consent, which the authors state can significantly limit the sample size and demographic representativeness, and they describe the deployment as promising qualitative evidence needing larger-scale evaluation that accounts for motivational biases.
+
 ## Connected Concepts
 
 - [[cognitive-offloading]]

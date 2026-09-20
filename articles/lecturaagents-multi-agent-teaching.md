@@ -27,16 +27,12 @@ page_kind: [framework]
 
 At its core, LecturaAgents mirrors a professor–student relationship: a ProfessorAgent orchestrates specialized agents across the full teaching pipeline, from researching content to planning, designing, evaluating, and delivering instruction. Two mechanisms distinguish it from prior work. First, an **adaptive embodied teaching mechanism** lets the ProfessorAgent execute visible, pedagogically motivated teaching actions — handwriting, highlighting, underlining — over content in a teaching environment while speaking. Second, the **Teaching Action-Speech Alignment (TASA) algorithm** employs salience-based heuristics and temporal semantic segmentation to generate coherent teaching action sequences aligned with learner profiles. The [[multimodal]], embodied dimension is what positions the framework as pedagogically grounded [[personalized-learning]] rather than mere content generation.
 
-## Relevance to AI in Education
-
-This paper contributes directly to understanding how AI systems interact with learners in authentic educational settings. It introduces hierarchical multi-agent architectures for embodied, personalized teaching that adapts lecture content and actions to individual learners, positioning LecturaAgents as a pedagogically well-grounded framework for personalized learning at scale. The expert-validated rubric evaluation across educational levels makes the framework relevant to [[intelligent-tutoring]] and [[pedagogical-llm-training]] research on embodied and multimodal instruction.
-
 ## What this means for practice
 
 - **Developers.** Ship the embodied teaching layer, not just content generation: the gains over baselines came from visible, pedagogically motivated actions (handwriting, highlighting, underlining) aligned to learner profiles by the Teaching Action-Speech Alignment algorithm.
 - **Developers.** Budget for orchestration cost, because the authors report that multi-agent orchestration can introduce latency and compute overhead.
 - **Developers.** Constrain the teaching-action set deliberately: action-speech alignment relies on offline heuristics with a limited set of supported actions, which constrains embodied instruction across different slide layouts.
-- **Instructors.** Keep expert review in the loop, since the framework can inherit LLM failure modes such as factual errors, inconsistent reasoning, and prompt or tool sensitivity.
+- **Instructors.** Keep expert review in the loop, since the framework can inherit LLM failure modes such as factual errors, inconsistent reasoning, and prompt or tool sensitivity. The study's own material was validated for high school, undergraduate, and master's levels, but that rubric scoring rested on five expert educators, so plan for expert capacity rather than assuming the framework self-certifies.
 
 ## Limitations
 

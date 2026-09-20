@@ -41,12 +41,20 @@ Across the model results, a consistent pattern emerges: **responsible AI use doe
 2. **Peer sensitivity drives cascade speed.** When students are highly responsive to peer practices, modest changes in assessment incentives can trigger rapid norm cascades; weak peer sensitivity leads to gradual, incomplete transitions. This explains why perceptions of peer behavior strongly influence the legitimacy of AI use.
 3. **Proportionality matters.** Responsible AI use emerges most robustly when the reward for reflection is proportionate to the effort required. When reflective tasks impose high cognitive or time demands without sufficient assessment value, opportunistic AI use persists even under generous incentives — a formal explanation for why well-intentioned but overly burdensome assessment interventions fail.
 
-## Implications
+## What this means for practice
 
-1. **Explains policy ineffectiveness.** Weak or misaligned incentives allow opportunistic practices to persist despite institutional [[regulation]] and policy pronouncements — because students respond to assessment structures, not just stated rules.
-2. **Assessment redesign over surveillance.** Modest, well-calibrated assessment redesign — such as requiring students to reflect on their AI interactions — can have disproportionate, cohort-wide effects, supporting [[pedagogy]]-led governance over surveillance.
-3. **Calibrate reward to effort.** Reflective assessments must be meaningfully valued and proportionate to their demands; burdensome reflection tasks without sufficient value will not shift behavior.
-4. **Leverage peer norms.** Because peer sensitivity drives rapid cascades, interventions that shift visible peer behavior can accelerate adoption of responsible norms.
+- **Instructors.** Make reflection a scored component of the assessment rather than an optional add-on: in the model, responsible AI use stays rare until the reflection reward crosses a critical threshold near r ≈ 1.5, after which it rapidly dominates the cohort.
+- **Instructors.** Calibrate the reward to the effort. When reflective work costs more than it earns in assessment value, opportunistic AI use remains the stable outcome even with generous incentives attached.
+- **Instructors.** Assess reflection for substance, not presence: symbolic or minimally embedded reflection stays at consistently low frequency across the whole incentive range, so superficial submissions should not earn the reward.
+- **Administrators.** Expect threshold effects rather than proportional ones. Peer sensitivity determines the speed of change — a sharp transition at β = 0.5 versus a gradual, incomplete shift at β = 0.01 — so interventions that shift visible peer practice can accelerate norm change far faster than policy statements.
+- **Administrators.** Prefer assessment redesign over surveillance when justifying [[governance|institutional]] responses, since the model treats student behavior as a strategic response to assessment structures and perceived fairness rather than to stated rules.
+
+## Limitations
+
+- The results are analytical and simulation-based: conclusions rest on a finite-population model with N = 100 under Fermi imitation updating, and the authors state that empirical validation through surveys, behavioral experiments, or interactive assessment settings is still needed to ground the predictions.
+- Parameters are illustrative rather than estimated from data: payoffs a = 1, b = 0, c = 1, d = 2, reflection effort cost κ = 1, superficial reflection factor σ = 0.4, legitimacy cost δ = 1, and misuse penalty τ = 1, with peer sensitivity β = 0.1 in the baseline (probed at 0.01 and 0.5). Quantitative thresholds such as r ≈ 1.5 are therefore model-relative, not measured classroom values.
+- The model compresses student AI use into four factors — learning value, effort, perceived fairness, and transparency — plus one reflection mechanism, so it cannot test other plausible drivers such as disciplinary conventions or detection pressure.
+- Peer influence is represented by a single sensitivity parameter instead of measured student networks, so the cascade dynamics are not calibrated against observed cohort structure.
 
 ## Connected Concepts
 

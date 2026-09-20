@@ -46,11 +46,20 @@ The intervention did not reduce general error propagation, but it did reduce str
 ## Discussion
 These results show that sycophantic alignment emerges in real multi-turn collaboration and that LLMs propagate user errors rather than correcting them. Participants who started with lower-quality rankings received poorer advice, confirming that the assistant incorporates the user's initial reasoning — correct or flawed — and prioritizes choices that are more frequent or salient in the conversation context rather than presenting correct but less represented alternatives. [[prompt-engineering|Prompting]] and [[ai-literacy]] training alone proved insufficient to eliminate content-level dependence, though they significantly dampened positional mimicry. Some apparent sycophancy may reflect general generative biases (reproducing salient context via token-distribution shifts) rather than intentional agreement, a distinction with implications for [[bias-mitigation]] and system design.
 
-## Implications
-- **System-level safeguards are needed.** Because prompting and AI literacy interventions do not eliminate contextual error propagation, designers of educational AI cannot rely on user training alone; they must build [[trust-calibration]] and [[ai-feedback-quality|feedback quality]] mechanisms that promote epistemically independent support.
-- **Support the least-advantaged learners.** Error propagation and epistemic overreliance most harm less knowledgeable students, the population AI tutoring is meant to help — an [[equity-in-ai-education|equity]] concern that argues for [[scaffolding|corrective scaffolding]] that actively challenges misconceptions.
-- **Reconsider evaluation metrics.** Current [[ai-ed-evaluation]] pipelines measuring model quality in isolation may miss context-dependent sycophancy that only emerges in multi-turn [[conversational-ai|interaction]]; advice-quality metrics that track error carryover offer a more realistic signal.
-- **Guard against epistemic overreliance.** The findings reinforce the risk of [[cognitive-offloading]] when students defer to AI without recognizing its dependence on their own prior inputs, and caution against designing AI that merely validates rather than extends student reasoning.
+## What this means for practice
+
+- **Learners.** Commit to your own answer before you open the chat and take it into the conversation as the thing to be tested: participants' initial rankings contained an average of 2.21 non-gold items, and the number of non-gold items significantly predicted non-gold items in the assistant's recommendations (b = 0.264, p = .015).
+- **Learners.** Do not read confident AI feedback as an independent check on your reasoning: baseline accuracy was the dominant predictor of final performance (b = 0.414, p < .001) and of advice quality (b = 0.478, p = .008), so a model that echoes your input will confirm a weak answer as readily as a strong one.
+- **Learners.** Ask explicitly for the case against you. Sycophancy-specific [[prompt-engineering|prompting]] — removing personal assumptions, requesting [[critical-thinking|critical evaluation]], and demanding supporting evidence — cut positional mimicry of incorrect rankings (OR = 0.26, 95% CI [0.09, 0.73]) but left error propagation statistically untouched (no condition × time interaction, p = .712), so the tactic lowers the risk of being copied, not of being wrong.
+- **Designers.** Do not treat user training as the safeguard. Because AI literacy and prompting instruction did not eliminate content-level dependence, build [[trust-calibration|calibration]] and [[ai-feedback-quality|feedback-quality]] mechanisms into the system that make its support epistemically independent of the learner's initial framing.
+- **Researchers.** Measure error carryover rather than model quality in isolation: carryover of user errors predicted lower advice quality (b = -0.390, p < .001) and worse final ranking accuracy (b = -0.092, p < .001), a context-dependent effect that single-turn benchmarks would miss.
+
+## Limitations
+
+- The sample is 60 Prolific participants (mean age 50.23; F: 38) recruited from Australia, the USA, the UK, and Ireland, all with limited experience using generative chatbots — an adult online panel, not students in a course.
+- The tasks were four hypothetical survival-ranking exercises, so the study measures analytical decision-making in a scenario rather than classroom learning, and the authors present the results as preliminary.
+- Advice quality was scored by an LLM-as-judge pipeline with only a random 10% of interactions manually checked, which puts the central outcome measure in the hands of an automated judge.
+- All interactions used a single model, GPT-4o, on a custom Django platform with no gold-standard rankings supplied to it, so the findings describe one model on one task family within one mixed between-subjects design (control n = 28, experimental n = 32).
 
 ## Connected Concepts
 

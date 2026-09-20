@@ -49,11 +49,20 @@ In the Conceptualize step, teachers highlight key concepts that students should 
 
 In the Synthesize step, scaffolding questions are generated. The screen keeps the Concepts Graph on the right while a Questions tab hosts question groups on the left. Teachers attach any number of concepts to a question group and click 'Generate questions' to produce five questions addressing what students should consider. Teachers can generate any number of groups, accept, reject, or modify every generated question, and collect accepted questions in a question bank before saving and printing them to paper or PDF.
 
-## Implications
+## What this means for practice
 
-Concept Catalyst models a collaborative division of labor between teacher and AI that has broad implications for [[learning-design|instructional design]] and [[ai-education|AI in education]]. By structuring generation around visual concept mapping and teacher review, it positions the LLM as a suggestion engine rather than an autonomous author, keeping the [[human-in-the-loop-ai|human in the loop]] and aligning with [[ai-tpack-teacher-multi-agent-workflow|TPACK-based frameworks]] that situate AI within teachers' existing professional practice.
+- **Instructors.** Decompose the challenge before writing questions: run it through Summarize to get a 200-word summary you can edit, then highlight and link the concepts students must address in Conceptualize before attaching them to a question group.
+- **Instructors.** Work in question groups and review every item: attach concepts to a group, generate its five questions, and accept, reject or modify each one before it reaches the question bank and is printed.
+- **Instructors.** Treat the concept graph as reflection, not drafting — moving and connecting concept buttons is where unanticipated relationships between concepts surface, and the three stages are deliberately non-linear, so revisit them as the design challenge clarifies.
+- **Instructors.** Keep a non-tool route to the same [[scaffolding|scaffolds]]: the authors state that access to AI-supported tools is disproportionate across socio-economic classes, so prepare a paper-based alternative for the same activity.
+- **Instructors.** Check every generated question against your own [[teacher-role|professional judgment]] before class: the authors note LLMs may not be reliable enough in a fully automated capacity, which is why the tool keeps decision-making with the teacher.
 
-The tool's focus on [[teacher-role|teacher agency]] offers a template for reducing workload in [[curriculum-design|curriculum design]] and [[project-based-learning|project-based learning]] without eroding professional judgment. Its iterative, non-linear three-stage flow supports reflective practice — a lever known to improve teaching — and its visual [[knowledge-graph]] interaction makes abstract conceptual structure tangible. At the same time, the authors acknowledge structural limitations: access to AI-supported tools remains disproportionate across socio-economic classes, a concern that connects to broader questions of [[equity-in-ai-education|equity]] and [[digital-divide|the digital divide]]. As LLM-based tooling matures, the teacher-as-editor model here points toward more trustworthy [[trust|human-AI collaboration]], though [[hallucination-risk|reliability]] and equitable access remain open challenges for classroom deployment.
+## Limitations
+
+- This is a system-development demo and not an evaluation: the paper reports the tool's design, and the positive feedback on efficiency, quality, and diversity of content comes from an earlier Wizard-of-Oz study of the underlying framework rather than from testing Concept Catalyst as built.
+- The tool is entirely teacher-facing and students never interact with the system, so the paper provides no evidence about whether the generated questions improve student learning or documentation practice.
+- Claims about reduced preparation time and reduced cognitive load are design intentions rather than measurements — the paper reports no participant count, no preparation-time data, and no comparison against writing scaffold questions unaided.
+- The authors name one structural constraint directly: access to AI-supported tools is disproportionate between socio-economic classes, which limits where the tool can be used equitably.
 
 ## Connected Concepts
 
