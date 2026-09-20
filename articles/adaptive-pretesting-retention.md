@@ -3,10 +3,9 @@ title: Do Gains from Generative AI-Enabled Adaptive Pretesting Persist? Evidence
 created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
-technology: [adaptive-learning, personalized-learning, rag]
+technology: [adaptive-learning, personalized-learning, rag, learning-analytics]
 assessment: [formative-assessment, learning-gains]
 connected_faqs: [study-with-ai]
-research_method: [randomized controlled trial, learning analytics]
 level: [higher ed]
 sources: ['raw/papers/2606.22328.md']
 confidence: medium

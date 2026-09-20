@@ -3,12 +3,11 @@ title: "Faithful Where It Can Be Checked: Auditing a Reflection Agent Against It
 created: "2026-09-18T09:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-technology: [conversational-ai, llm, generative-ai, pedagogical-agent]
-pedagogy: [self-regulated-learning, metacognition, well-being]
+technology: [conversational-ai, generative-ai, llm, pedagogical-agent]
+pedagogy: [career-development-and-readiness, metacognition, self-regulated-learning, well-being]
 ethics: [ai-sycophancy, guardrails, trust]
-stakeholders: [career-development-and-readiness]
-methods: [rct, qualitative-research]
-research_method: [randomized controlled trial, secondary analysis, qualitative]
+methods: [qualitative-research, rct]
+research_method: [secondary analysis]
 audience: [researchers, designers, edtech designers]
 level: [higher ed, adult learning]
 sources: ['raw/papers/reflection-agent-fidelity-career-2026.md']

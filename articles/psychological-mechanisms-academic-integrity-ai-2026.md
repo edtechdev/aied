@@ -11,7 +11,7 @@ research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/psychological-mechanisms-academic-integrity-ai-2026.md']
 confidence: high
-audience: [educators, administrators]
+audience: [instructors, administrators]
 ---
 
 > **Synthesis:** Yilmaz (2026) tested an integrated moderated-mediation model with 1,045 Turkish undergraduates to explain AI-assisted academic dishonesty. The study found that academic [[motivation|procrastination]] and learned helplessness positively predicted a cheating tendency, while [[self-efficacy|academic self-efficacy]] negatively predicted it; cheating tendency in turn predicted AI-assisted dishonesty, with the link **amplified at higher levels of AI use**. Social and contextual factors (e.g., social norms, peer behavior, insufficient sanctions, high expectations) predicted dishonesty, whereas ethical and moral education emerged as a protective negative predictor.

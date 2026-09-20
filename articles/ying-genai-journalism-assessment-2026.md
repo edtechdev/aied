@@ -7,13 +7,14 @@ foundations: [academic-integrity]
 pedagogy: [experiential-learning]
 technology: [generative-ai]
 assessment: [assessment]
+methods: [mixed-methods-research]
 ethics: [ethics]
-research_method: [mixed methods, case study]
+research_method: [case study]
 level: [higher ed]
 sources: ['raw/papers/ying-genai-journalism-assessment-2026.md']
 confidence: medium
 discipline: [writing education]
-audience: [educators, instructional designers]
+audience: [instructors, instructional designers]
 ---
 
 > **Synthesis:** This paper presents a practice-based [[curriculum-design|curriculum]] intervention that embeds [[generative-ai|generative AI (GenAI)]] into an undergraduate journalism [[assessment]] item, framed by an ethical model integrating Colin Beard's [[experiential-learning|experiential learning design]] with Bloom's revised taxonomy. GenAI promises efficiencies and new creative possibilities for students yet threatens [[academic-integrity|academic integrity]], [[agency|authorship]], and the core values of the profession. The triadic **values–processes–competencies** framework [[scaffolding|scaffolds]] students from human-only reporting to AI-integrated work and critical reflection, converting their intuitive concerns into explicit competencies in ethical decision-making, [[prompt-engineering|prompt engineering]] and verification. [[qualitative-research|Qualitative]] data from a second-year journalism unit at an Australian global campus in Sarawak, Malaysia show students already use GenAI strategically but hold deep concerns about accuracy, originality and disclosure.

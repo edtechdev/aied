@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy, educational-development]
 research_method: [survey]
 discipline: [stem education, math education]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/caeai-ai-tpack-math.md']
 confidence: medium

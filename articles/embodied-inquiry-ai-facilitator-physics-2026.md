@@ -3,16 +3,16 @@ title: "Embodied Inquiry with AI as Facilitator: An Exploratory Case Study"
 created: "2026-08-13T09:28:20-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article
-pedagogy: [socratic-method]
+pedagogy: [professional-training, socratic-method]
 technology: [generative-ai, pedagogical-agent]
-research_method: [qualitative, case study]
+research_method: [case study]
 discipline: [physics education, stem education, science education]
 level: [higher ed]
 sources: ['raw/papers/2607.21349.md']
 confidence: high
 audience: [instructors, instructional designers]
 page_kind: [framework]
-stakeholders: [professional-training]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** Tufino & Damiani (2026) explore where a language-based AI can stand within an inquiry activity without displacing embodied experience, using a Master's-level physics education course investigating the statics of fluids via the ISLE approach. In a two-phase design, students first built the buoyancy model with their own hands without AI; a purpose-configured AI assistant then facilitated applying the model to a new phenomenon. The paper discusses what a language-based facilitator cannot reach and the value of a design in which AI **complements** embodied inquiry rather than replacing it. The work connects to [[physics-education]], [[socratic-method]], and [[pedagogical-agent]] theory.

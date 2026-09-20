@@ -5,7 +5,8 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback-literacy]
-research_method: [mixed methods, quasi-experiment]
+methods: [mixed-methods-research]
+research_method: [quasi-experiment]
 discipline: [language learning]
 sources: ['raw/papers/sutama-chatgpt-eportfolio-speaking-2026.md']
 confidence: high

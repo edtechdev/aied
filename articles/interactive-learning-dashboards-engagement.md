@@ -5,7 +5,8 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent, visualization]
-research_method: [mixed methods, case study]
+methods: [mixed-methods-research]
+research_method: [case study]
 discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/interactive-learning-dashboards-engagement.md']

@@ -9,7 +9,6 @@ foundations: [ai-literacy]
 pedagogy: [scaffolding]
 ethics: [hallucination-risk]
 audience: [researchers, software developers]
-research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/yasir-llm-tutoring-agents-2026.md']
 confidence: high

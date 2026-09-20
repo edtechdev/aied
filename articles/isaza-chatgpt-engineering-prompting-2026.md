@@ -5,12 +5,12 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, learning-analytics, prompt-engineering]
-research_method: [quantitative, learning analytics]
+methods: [quantitative-research]
 discipline: [engineering education]
 level: [higher ed]
 sources: ['raw/papers/isaza-chatgpt-engineering-prompting-2026.md']
 confidence: high
-audience: [instructors, educators]
+audience: [instructors]
 page_kind: [evaluation]
 ---
 

@@ -3,7 +3,7 @@ title: "A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts:
 created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-19T08:49:57-04:00"
 type: article
-pedagogy: [metacognition, scaffolding, self-regulated-learning]
+pedagogy: [lifelong-learning, metacognition, professional-training, scaffolding, self-regulated-learning]
 technology: [adaptive-learning, llm]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2605.24142.md']
@@ -11,7 +11,6 @@ confidence: high
 audience: [instructional designers, researchers]
 level: [adult learning]
 page_kind: [framework]
-stakeholders: [lifelong-learning, professional-training]
 ---
 
 > **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.

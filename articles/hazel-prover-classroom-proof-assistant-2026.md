@@ -6,8 +6,9 @@ type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
 assessment: [feedback, formative-assessment]
+methods: [design-based-research]
 audience: [software developers]
-research_method: [system development, design-based research]
+research_method: [system development]
 discipline: [cs education, math education]
 sources: ['raw/papers/hazel-prover-classroom-proof-assistant-2026.md']
 confidence: high

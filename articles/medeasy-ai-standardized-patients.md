@@ -3,7 +3,7 @@ title: "MedEasy: Designing AI Standardized Patients for Clinical Consultation Tr
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-pedagogy: [active-learning]
+pedagogy: [active-learning, professional-training]
 technology: [generative-ai, intelligent-tutoring, simulation]
 assessment: [feedback]
 audience: [software developers]
@@ -13,7 +13,6 @@ sources: ['raw/papers/2606.17512.md']
 confidence: high
 discipline: [medical education]
 page_kind: [evaluation]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Gao et al. (2026) present MedEasy, a multi-agent system that simulates standardized patients with varying conditions for medical consultation training. By organizing virtual-patient practice through patient dialogue, [[medical-education|clinical]] actions, decision submission, documentation and feedback, it outperforms script-based approaches in realism and adaptability — supporting [[professional-training|clinical]] [[simulation|training]] with [[feedback]]-rich [[active-learning|practice]].

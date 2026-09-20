@@ -7,11 +7,11 @@ foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, self-efficacy, student-ai-interaction]
 technology: [conversational-ai, generative-ai, llm, prompt-engineering]
 assessment: [learning-gains]
+methods: [quantitative-research, qualitative-research]
 sources: ['raw/papers/oppenheimer-llms-collaborative-learning-partners-2026.md']
 confidence: medium
-research_method: [quantitative, qualitative]
 discipline: [writing education]
-audience: [instructors, educators, instructional designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 ---
 

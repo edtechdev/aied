@@ -4,7 +4,9 @@ created: "2026-06-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [generative-ai, llm]
-stakeholders: [student-experience, lifelong-learning]
+stakeholders: [student-experience]
+pedagogy: [lifelong-learning]
+methods: [latent-profile-analysis]
 research_method: [survey]
 audience: [learners]
 sources: ['raw/papers/caeai-conversational-ai-informal.md']

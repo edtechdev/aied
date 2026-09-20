@@ -6,9 +6,10 @@ type: article
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
 assessment: [assessment, assessment-validity]
+methods: [qualitative-research]
 ethics: [trust]
-research_method: [qualitative, interviews]
-audience: [instructors, faculty development, researchers]
+research_method: [interviews]
+audience: [instructors, faculty developers, researchers]
 level: [higher ed]
 sources: ['raw/papers/luo-dawson-value-judgments-grading-2026.md']
 confidence: high

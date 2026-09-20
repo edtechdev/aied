@@ -4,13 +4,13 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [academic-integrity, ai-education, cognitive-offloading]
+technology: [learning-analytics]
 assessment: [feedback]
 stakeholders: [student-experience]
 ethics: [hallucination-risk]
-research_method: [literature review, learning analytics]
+research_method: [literature review]
 discipline: [stem education]
 audience: [learners]
-
 sources: ['raw/papers/2605.00361.md']
 confidence: medium
 page_kind: [synthesis]

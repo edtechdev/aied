@@ -5,8 +5,8 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [learning-analytics, llm, personalized-learning, rag]
 assessment: [assessment]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [benchmark, learning analytics]
 audience: [learners, software developers]
 level: [k 12]
 sources: ['raw/papers/2606.15349.md']

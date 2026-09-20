@@ -3,16 +3,16 @@ title: "Towards trustworthy and explainable-by-design large language models for 
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [teacher-role, human-ai-collaboration]
-pedagogy: [pedagogy, scaffolding]
-technology: [llm, educational-nlp, human-in-the-loop-ai]
-assessment: [automated-assessment, educational-measurement, assessment-validity, psychometrically-aware-ai]
+foundations: [human-ai-collaboration, teacher-role]
+pedagogy: [pedagogy, professional-training, scaffolding]
+technology: [educational-nlp, human-in-the-loop-ai, llm]
+assessment: [assessment-validity, automated-assessment, educational-measurement, psychometrically-aware-ai]
 methods: [ai-ed-evaluation, quantitative-research]
-stakeholders: [teacher-ai-competency, professional-training]
+stakeholders: [teacher-ai-competency]
 institutions: [governance]
-ethics: [explainable-ai, trust, bias-mitigation]
+ethics: [bias-mitigation, explainable-ai, trust]
 research_method: [system development, experiment]
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 audience: [researchers, teacher educators, assessment professionals]
 sources: ['raw/papers/li-explainable-trustworthy-llm-teacher-assessment-2025.md']
 confidence: high

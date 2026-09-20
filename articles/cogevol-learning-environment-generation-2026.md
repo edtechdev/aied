@@ -6,9 +6,10 @@ type: article
 foundations: [agentic-ai, ai-education, curriculum-design, teacher-role]
 technology: [generative-ai, llm, multimodal]
 assessment: [automated-assessment]
+methods: [benchmark]
 sources: ['raw/papers/cogevol-learning-environment-generation-2026.md']
 confidence: high
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [edtech designers, software developers, instructional designers]
 ---
 

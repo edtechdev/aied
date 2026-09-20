@@ -6,7 +6,7 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai, llm]
 assessment: [assessment, automated-assessment]
-research_method: [benchmark]
+methods: [benchmark]
 discipline: [cs education]
 sources: ['raw/papers/chatgpt-qiskit-homework-autogradable-2026.md']
 confidence: high

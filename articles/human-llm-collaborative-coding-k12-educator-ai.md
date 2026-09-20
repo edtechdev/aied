@@ -6,7 +6,6 @@ type: article
 foundations: [human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm]
 stakeholders: [teacher-ai-competency]
-research_method: [qualitative, research methods]
 audience: [instructors]
 level: [k 12]
 page_kind: [evaluation]

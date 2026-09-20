@@ -3,11 +3,10 @@ title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
 updated: "2026-08-31T06:34:37-04:00"
 type: concept
-pedagogy: [scaffolding]
+pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-stakeholders: [lifelong-learning, professional-training]
 ---
 
 > **Lifelong learning and AI** — how AI supports continuous education and skill development beyond formal schooling, and how it reshapes adult and workplace learning. AI can personalize, scaffold, and make learning-on-demand more accessible for adults, while also raising questions about autonomy, self-direction, and who controls the learning process in AI-mediated environments.

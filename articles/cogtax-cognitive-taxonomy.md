@@ -6,7 +6,7 @@ type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag]
 assessment: [formative-assessment]
-research_method: [benchmark]
+methods: [benchmark]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.00140.md']

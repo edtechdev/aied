@@ -6,10 +6,10 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [socratic-method]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning, rag, student-modeling]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [math education]
-
 sources: ['raw/papers/chudziak-ai-math-tutoring-platform.md']
 confidence: medium
 page_kind: [framework]

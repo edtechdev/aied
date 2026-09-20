@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/vetter-hidden-cost-disclosure-genai-2026.md']
 source_url: 'https://doi.org/10.2139/ssrn.5755762'
 confidence: medium
-audience: [instructors, administrators, faculty development]
+audience: [instructors, administrators, faculty developers]
 institutions: [educational-policy-ai]
 ---
 

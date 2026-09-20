@@ -5,11 +5,10 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
-research_method: [mixed methods]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
-audience: [teacher educators, educators, instructional designers]
+audience: [teacher educators, instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 

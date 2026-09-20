@@ -7,7 +7,6 @@ type: concept
 foundations: [academic-integrity]
 technology: [generative-ai, learning-analytics]
 assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment]
-research_method: [educational measurement]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high

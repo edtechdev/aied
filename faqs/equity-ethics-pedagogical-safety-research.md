@@ -5,7 +5,6 @@ updated: "2026-09-19T06:28:59-04:00"
 weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
-research_method: [research methods]
 methods: [research-methods-aied]
 ---
 

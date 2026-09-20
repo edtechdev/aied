@@ -8,7 +8,7 @@ pedagogy: [cognitive-psychology, well-being]
 technology: [educational-robotics, generative-ai, pedagogical-agent]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [literature review]
-level: [early childhood, k 12]
+level: [preschool, k 12]
 sources: ['raw/papers/ai-toys-child-development-2026.md']
 confidence: high
 audience: [edtech designers, designers, researchers]

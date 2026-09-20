@@ -6,7 +6,7 @@ type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, student-ai-interaction, student-engagement]
 technology: [human-in-the-loop-ai, learning-analytics, llm]
-research_method: [benchmark]
+methods: [benchmark]
 level: [higher ed]
 sources: ['raw/papers/2607.28643.md']
 confidence: high

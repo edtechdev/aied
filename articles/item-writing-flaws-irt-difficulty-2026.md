@@ -7,7 +7,6 @@ sources: ["raw/papers/item-writing-flaws-irt-difficulty-2026.md"]
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
-research_method: [educational measurement]
 discipline: [stem education]
 audience: [assessment professionals, assessment designers, researchers]
 page_kind: [evaluation]

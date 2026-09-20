@@ -5,16 +5,15 @@ updated: "2026-09-20T08:50:39-04:00"
 type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, pedagogical-llm-training, rag]
+methods: [benchmark]
 stakeholders: [student-experience]
 ethics: [pedagogical-safety]
-research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/2604.08263.md']
 confidence: medium
 discipline: [math education]
 level: [k 12]
 page_kind: [evaluation]
-
 ---
 
 > **Synthesis:** Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):

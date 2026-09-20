@@ -5,8 +5,9 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, curriculum-design, learning-design]
 technology: [ai-technologies, generative-ai]
+methods: [qualitative-research]
 ethics: [ethics]
-research_method: [qualitative, secondary analysis]
+research_method: [secondary analysis]
 level: [higher ed]
 sources: ['raw/papers/2608.05898.md']
 confidence: medium

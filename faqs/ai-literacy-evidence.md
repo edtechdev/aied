@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
-research_method: [educational measurement, literature review]
+research_method: [literature review]
 level: [higher ed]
 ---
 

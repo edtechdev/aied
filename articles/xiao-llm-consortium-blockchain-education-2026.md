@@ -6,9 +6,10 @@ type: article
 pedagogy: [online-teaching-and-learning]
 technology: [llm, personalized-learning]
 assessment: [assessment]
+methods: [benchmark]
 ethics: [privacy, trust]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/xiao-llm-consortium-blockchain-education-2026.md']
 confidence: high

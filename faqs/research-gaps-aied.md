@@ -5,9 +5,10 @@ updated: "2026-09-19T06:28:59-04:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
+technology: [learning-analytics]
 assessment: [learning-gains]
 ethics: [equity-in-ai-education, differential-effects-across-learner-groups]
-research_method: [research methods, literature review, learning analytics]
+research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]

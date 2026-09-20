@@ -7,9 +7,10 @@ foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition, student-engagement]
 technology: [generative-ai]
 assessment: [assessment]
-research_method: [qualitative, thematic analysis]
+methods: [qualitative-research]
+research_method: [thematic analysis]
 level: [higher ed]
-audience: [educators, students]
+audience: [instructors, learners]
 sources: ['raw/papers/yan-cognitive-outsourcing-genai-assessments-2026.md']
 confidence: high
 ---

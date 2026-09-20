@@ -6,9 +6,10 @@ type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, personalized-learning]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 ethics: [hallucination-risk, trust-calibration]
-research_method: [case study, mixed methods, thematic analysis]
+research_method: [case study, thematic analysis]
 level: [higher ed]
 sources: ['raw/papers/sidorkin-ai-generated-course-readings-2026.md']
 confidence: high

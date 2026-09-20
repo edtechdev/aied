@@ -5,7 +5,7 @@ updated: "2026-09-20T03:44:50-04:00"
 type: article
 pedagogy: [active-learning, scaffolding]
 technology: [visualization]
-research_method: [qualitative]
+methods: [qualitative-research]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.18864.md']

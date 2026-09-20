@@ -3,12 +3,13 @@ title: "Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive D
 created: "2026-09-14T09:12:54-04:00"
 updated: "2026-09-19T07:04:04-04:00"
 type: article
-foundations: [misconceptions]
 technology: [cognitive-diagnosis, educational-nlp, knowledge-graph, llm, personalized-learning, student-modeling]
 assessment: [item-response-theory, psychometrically-aware-ai]
+methods: [benchmark]
+pedagogy: [misconceptions]
 sources: ['raw/papers/process-grounded-language-cognitive-diagnosis-2026.md']
 confidence: high
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [math education]
 audience: [researchers, edtech designers, software developers]
 level: [k 12]

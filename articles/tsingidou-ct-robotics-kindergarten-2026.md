@@ -7,12 +7,11 @@ foundations: [computational-thinking]
 technology: [educational-robotics]
 assessment: [assessment]
 connected_faqs: [ai-guidance-children-under-13]
-research_method: [systematic review]
 discipline: [stem education]
-level: [early childhood, k 12]
+level: [preschool, k 12]
 sources: ['raw/papers/tsingidou-ct-robotics-kindergarten-2026.md']
 confidence: high
-audience: [educators, curriculum designers, researchers]
+audience: [instructors, curriculum designers, researchers]
 methods: [meta-analysis-systematic-review]
 ---
 

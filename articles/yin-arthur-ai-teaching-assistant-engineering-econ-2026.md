@@ -5,9 +5,10 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [intelligent-tutoring, machine-learning]
 assessment: [feedback, formative-assessment]
+methods: [benchmark]
 sources: ['raw/papers/yin-arthur-ai-teaching-assistant-engineering-econ-2026.md']
 confidence: high
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [instructors, edtech designers, software developers]
 level: [higher ed]
 discipline: [engineering education]

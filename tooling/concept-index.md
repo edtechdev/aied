@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 208
+**Total concepts:** 212
 
 ## Foundations of AI in education
 
@@ -17,7 +17,6 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`educational-development`** — Educational Development — phrases: academic development; academic developer; academic developers; educator development; faculty development; professional development; staff development; teacher development
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design
-- **`misconceptions`** — Misconceptions about AI — phrases: AI misconceptions; learner misconceptions; misconception; misconceptions; misconceptions about AI; student misconceptions about AI
 - **`reducing-ai-misuse`** — Reducing AI Misuse — phrases: ai misuse prevention; AI misuse reduction; mitigating AI misuse; preventing AI misuse; reduce ai misuse; reducing ai misuse
 - **`teacher-role`** — Teaching — phrases: educator role; educators; faculty; instructor; instructors; role of educators; teacher; teacher agency; teacher role; teachers; teaching role
 
@@ -39,6 +38,11 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`design-thinking`** — Design Thinking — phrases: design process; design thinking
 - **`human-ai-collaboration`** — Human AI Collaboration — phrases: co-pilot; human collaboration; human-ai collaboration; human-ai interaction; human-AI teaming; human-computer interaction; human-machine collaboration; hybrid intelligence
 - **`learner-identity`** — Learner Identity — phrases: identity development; identity work; learner identity; professional identity; student identity
+
+### Theories and frameworks
+
+- **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
+- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge; tpack
 
 ## Learning and instruction
 
@@ -75,6 +79,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`icap-framework`** — ICAP Framework — phrases: icap; ICAP framework; interactive-constructive-active-passive
 - **`learning-theories`** — Learning Theories — phrases: learning science; learning theories; learning theory; theories of learning
 - **`metacognition`** — Metacognition — phrases: meta-cognition; meta-cognitive; metacognition; metacognitive; self-monitoring
+- **`misconceptions`** — Misconceptions about AI — phrases: AI misconceptions; learner misconceptions; misconception; misconceptions; misconceptions about AI; student misconceptions about AI
 - **`motivation`** — Motivation — phrases: achievement goal; achievement goals; extrinsic motivation; goal orientation; goal orientations; intrinsic motivation; learner motivation; motivation; motivational; student motivation
 - **`prior-knowledge`** — Prior Knowledge — phrases: activate prior knowledge; activation of prior knowledge; prior knowledge; prior knowledge activation; prior knowledge state; prior-knowledge
 - **`refutation-text`** — Refutation Text — phrases: refutation text; refutation texts; refutational text
@@ -98,6 +103,12 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`student-ai-interaction`** — Student-AI Interaction — phrases: ai interaction; interactions with AI; learner-AI interaction; student ai interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; student-ai interaction
 - **`student-engagement`** — Student Engagement — phrases: behavioral engagement; engagement; engagement indicators; engagement measurement; engagement metrics; learner engagement; student engagement
 - **`well-being`** — Well-Being — phrases: mental health; student wellbeing; well being; well-being; wellbeing
+
+### Lifelong and professional learning
+
+- **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
+- **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
+- **`professional-training`** — Workplace Learning — phrases: professional education; professional training; reskilling; vocational training; workforce development
 
 ## Technologies and techniques
 
@@ -157,6 +168,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`discipline-specific-aied`** — AIEd in the Disciplines — phrases: AI in the disciplines; disciplinary education; discipline-specific; discipline-specific AIEd; domain-specific; domain-specific AIED; subject-specific; subject-specific AIED
 - **`engineering-education`** — Engineering Education — phrases: biomedical engineering; engineering; engineering education
 - **`english-education`** — English Education (EAP / EFL / ESL) — phrases: english as a foreign language; english education
+- **`environmental-education`** — Environmental Education — phrases: climate education; environmental education; environmental literacy; green skills education; sustainability education
 - **`humanities-education`** — Humanities and Social Science Education — phrases: HSS education; humanities; humanities and social science education; humanities education; liberal arts education
 - **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
 - **`language-learning`** — Language Learning — phrases: efl; english; esl; foreign language; foreign language learning; language acquisition; language education; language learning; second language; second language acquisition; SLA; tefl
@@ -184,6 +196,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`special-education`** — Special Education — phrases: disabled learners; disabled students; exceptional learners; learners with disabilities; special education; special needs; special needs education; students with disabilities
 - **`teacher-education`** — Professional Development — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
+
+### Bands and comparisons
+
+- **`education-levels`** — Levels of Education — phrases: levels of education; education levels; level of education; schooling bands
 
 ## Assessment and measurement
 
@@ -220,6 +236,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Research methods
 
 - **`design-based-research`** — Design-Based Research — phrases: dbr; design based research; design-based; design-based research
+- **`latent-profile-analysis`** — Latent Profile Analysis — phrases: latent class; latent class analysis; latent profile; latent profile analysis; lpa; mixture modeling; person-centered analysis
 - **`meta-analysis-systematic-review`** — Meta-Analysis and Systematic Review — phrases: literature review; meta-analysis; meta-analytic; PRISMA; scoping review; systematic review; systematically review
 - **`mixed-methods-research`** — Mixed-Methods Research — phrases: mixed methods; mixed-methods
 - **`network-analysis`** — Network Analysis — phrases: ena; epistemic network; epistemic network analysis; network analysis; sna; social network; social network analysis; tna; transition network; transition network analysis
@@ -236,35 +253,22 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ## People
 
-### Learners
-
-- **`career-development-and-readiness`** — Career Development and Readiness — phrases: AI career anxiety; career adapt-abilities; career adaptability; career development; career readiness; employability; workforce readiness
-- **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
-- **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
-- **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
-
-### Families and communities
-
-- **`parents-and-families`** — Parents and Families — phrases: caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
-
-### Instructors and teaching frameworks
-
-- **`samr-model`** — SAMR Model — phrases: SAMR; SAMR framework; SAMR model; Substitution Augmentation Modification Redefinition
-- **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
-- **`tpack`** — Technological Pedagogical Content Knowledge (TPACK) — phrases: technological pedagogical content knowledge; tpack
-
-### Designers and developers
-
-- **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
-
-### Administrators and leaders
+### Roles and audiences
 
 - **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
+- **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
+- **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
+- **`librarians`** — Librarians — phrases: academic librarian; embedded librarian; information science; librarian; librarians; library and information science; library science; school librarian
+- **`parents-and-families`** — Parents and Families — phrases: caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
+- **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
 
-### Lifelong and workplace learning
+### Learner experience
 
-- **`lifelong-learning`** — Lifelong Learning — phrases: continuous learning; life-long learning; lifelong learning; lifelong learning and AI; upskilling
-- **`professional-training`** — Workplace Learning — phrases: professional education; professional training; reskilling; vocational training; workforce development
+- **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
+
+### Educator capability
+
+- **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 
 ## Institutions and policy
 

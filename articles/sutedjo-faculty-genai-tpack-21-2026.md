@@ -3,14 +3,14 @@ title: "Assessing faculty self-perceived knowledge in using generative AI to tea
 created: "2026-09-09T02:58:00-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article
-foundations: [educational-development, teacher-role]
+foundations: [educational-development, teacher-role, tpack]
 pedagogy: [self-efficacy]
 technology: [generative-ai]
-stakeholders: [tpack]
+methods: [quantitative-research]
 connected_faqs: [faculty-development-ai]
-research_method: [survey, quantitative]
+research_method: [survey]
 discipline: [learning sciences]
-audience: [faculty development, institutions, instructors]
+audience: [faculty developers, institutions, instructors]
 level: [higher ed]
 sources: ['raw/papers/sutedjo-faculty-genai-tpack-21-2026.md']
 confidence: high

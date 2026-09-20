@@ -3,14 +3,13 @@ title: "Beyond operational skills: Teachers' AI knowledge and interactions with 
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
-foundations: [ai-literacy, learning-design, teacher-role]
+foundations: [ai-literacy, learning-design, teacher-role, tpack]
 technology: [generative-ai]
-stakeholders: [tpack]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 audience: [instructors]
 sources: ['raw/papers/teachers-ai-knowledge-genai-lesson-planning-2026.md']
 confidence: high
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 ---
 
 > **Synthesis:** Velander (2026) investigates how [[k-12]] teachers conceptualize and enact AI-related professional knowledge during [[generative-ai|GenAI]]-supported lesson planning, combining three data sources from two in-person workshops (April–May 2025; 75 K-12 teachers total, 60 and 15 respectively): a pre-workshop questionnaire (N = 61), interaction logs of ~1,300 prompt–response pairs from 60 participants planning lessons with a GPT-4.o-based [[conversational-ai|chatbot]] over ~1.5 hours, and group-based SWOT reflections from 17 groups. Using the Intelligent [[tpack]] (I-TPACK) framework for questionnaire and SWOT coding and a collaborative [[problem-solving]] (CPS) framework for the interaction logs, the study finds that teachers most often articulate AI competence in technological (TK, n = 22) and technological-[[pedagogy|pedagogical]] (TPK, n = 16) terms, with [[ethics]] mentioned explicitly only rarely (EK, n = 3). Yet in enacted practice teachers predominantly delegated task responsibility to the GenAI system (task delegation 54.8%; low interactional [[agency]] 68.8%), positioning GenAI as the primary generator of instructional content rather than negotiating or co-constructing outputs — revealing a gap between the knowledge teachers claim and the knowledge they enact.

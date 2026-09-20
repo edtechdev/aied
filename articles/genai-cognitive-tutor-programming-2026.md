@@ -3,12 +3,13 @@ title: "Beyond Immediate Resolution: Generative AI as an Informal Cognitive Tuto
 created: "2026-09-09T09:05:09-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article
-foundations: [cognitive-offloading, misconceptions]
-pedagogy: [scaffolding, self-regulated-learning]
+foundations: [cognitive-offloading]
+pedagogy: [misconceptions, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
+methods: [quantitative-research]
 sources: ['raw/papers/genai-cognitive-tutor-programming-2026.md']
 confidence: high
-research_method: [survey, quantitative]
+research_method: [survey]
 discipline: [cs education]
 audience: [instructors, curriculum designers, researchers]
 level: [higher ed]

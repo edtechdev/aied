@@ -7,13 +7,13 @@ foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [assessment]
 ethics: [ai-use-disclosure]
-research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/gonsalves-student-non-compliance-ai-declarations-2025.md']
 source_url: 'https://doi.org/10.1080/02602938.2024.2415654'
 confidence: high
 discipline: [business education]
-audience: [educators, administrators, assessment designers]
+audience: [instructors, administrators, assessment designers]
+methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---
 

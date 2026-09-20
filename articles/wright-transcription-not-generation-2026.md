@@ -3,13 +3,13 @@ title: "Transcription is not generation: Distinguishing non-generative AI tool u
 created: "2026-09-18T04:13:24-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, reducing-ai-misuse, framing-ai-use-for-students]
-pedagogy: [cognitive-psychology, desirable-difficulties]
-technology: [generative-ai, speech-and-voice-technologies, multimodal]
-assessment: [assessment-validity, ai-detection, assessment]
+foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
+pedagogy: [cognitive-psychology, desirable-difficulties, professional-training]
+technology: [generative-ai, multimodal, speech-and-voice-technologies]
+assessment: [ai-detection, assessment, assessment-validity]
 ethics: [accessibility, assistive-technology, equity-in-ai-education]
 institutions: [educational-policy-ai, regulation]
-stakeholders: [learners, student-experience, professional-training]
+stakeholders: [learners, student-experience]
 research_method: [policy analysis, theoretical analysis]
 level: [higher ed]
 audience: [administrators, policymakers, instructors]

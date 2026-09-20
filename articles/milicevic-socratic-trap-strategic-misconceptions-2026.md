@@ -3,14 +3,13 @@ title: "The Socratic trap: Benchmarking the capacity of large language models to
 created: "2026-09-18T05:09:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [misconceptions, critical-thinking, ai-literacy]
-pedagogy: [socratic-method, cognitive-psychology, prior-knowledge]
-technology: [llm, generative-ai, educational-nlp, prompt-engineering]
+foundations: [ai-literacy, critical-thinking]
+pedagogy: [cognitive-psychology, misconceptions, prior-knowledge, socratic-method]
+technology: [educational-nlp, generative-ai, llm, prompt-engineering]
 assessment: [automated-question-generation, educational-measurement]
-methods: [benchmark, ai-ed-evaluation]
-stakeholders: [learners, educational-technology-developers]
-ethics: [hallucination-risk, trust-calibration, guardrails]
-research_method: [benchmark, quantitative]
+methods: [ai-ed-evaluation, benchmark, quantitative-research]
+stakeholders: [educational-technology-developers, learners]
+ethics: [guardrails, hallucination-risk, trust-calibration]
 discipline: [cs education]
 level: [higher ed]
 audience: [researchers, instructors, assessment designers]

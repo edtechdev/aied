@@ -6,12 +6,13 @@ type: article
 foundations: [ai-education]
 pedagogy: [motivation, student-engagement]
 technology: [generative-ai, technology-acceptance-model]
-research_method: [mixed methods, survey]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/tian-genai-learning-adoption-pathways-2026.md']
 confidence: high
 audience: [administrators, policymakers, instructors]
 page_kind: [framework]
+methods: [mixed-methods-research]
 institutions: [change-management]
 ---
 

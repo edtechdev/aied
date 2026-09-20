@@ -6,14 +6,14 @@ type: article
 foundations: [curriculum-design, learner-identity]
 technology: [generative-ai, llm]
 ethics: [equity-in-ai-education]
-research_method: [systematic review]
+pedagogy: [professional-training]
 discipline: [nursing education, medical education]
-audience: [medical educators, educators, curriculum designers, researchers, policymakers]
+audience: [medical educators, instructors, curriculum designers, researchers, policymakers]
 level: [higher ed]
 page_kind: [framework, synthesis]
 sources: ['raw/papers/sun-llm-nursing-education-professional-identity-2026.md']
 confidence: high
-stakeholders: [professional-training]
+methods: [meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Sun et al. (2026) argue that [[llm|large language model]] (LLM) [[research-methods-aied|research]] in nursing education has asked what LLMs *can do* while neglecting what their integration does to the processes through which a novice becomes an expert nurse. This critical integrative review of 489 studies across 47 countries reframes the evidence through an integrated lens (Benner's skill acquisition, [[cognitive-offloading|cognitive load]] theory, automation bias, Wenger's identity formation), finding the same technology both enhances and erodes nursing competence depending on whether it displaces cognitive work that is extraneous to, or constitutive of, the competence being developed. The authors' Evidence Gap Map shows the domains of greatest policy consequence ([[learner-identity|professional identity]], relational and [[ethics|ethical]] competency, long-term outcomes) rest on the least rigorous evidence, and they introduce the *Professional Identity Tension Model* and *Structural Empathy Suppression* to guide future research and design.

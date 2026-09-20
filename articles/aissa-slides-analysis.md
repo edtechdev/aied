@@ -7,7 +7,6 @@ technology: [human-in-the-loop-ai, learning-analytics, llm, visualization]
 assessment: [automated-assessment, automated-question-generation, formative-assessment]
 research_method: [system development]
 level: [higher ed]
-
 sources: ['raw/papers/2605.04729.md']
 confidence: medium
 discipline: [engineering education]

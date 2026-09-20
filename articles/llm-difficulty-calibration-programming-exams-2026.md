@@ -5,7 +5,6 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 technology: [learning-analytics]
 assessment: [assessment, automated-assessment, educational-measurement, item-response-theory]
-research_method: [educational measurement]
 page_kind: [evaluation]
 sources: ['raw/papers/llm-difficulty-calibration-programming-exams-2026.md']
 confidence: high

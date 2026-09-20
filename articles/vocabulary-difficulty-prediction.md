@@ -6,7 +6,6 @@ type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag, open-source]
 assessment: [formative-assessment]
-research_method: [benchmark]
 discipline: [language learning, writing education]
 level: [k 12]
 sources: ['raw/papers/2605.14257.md']

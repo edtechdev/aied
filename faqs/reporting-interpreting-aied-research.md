@@ -7,7 +7,7 @@ type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
 assessment: [assessment-validity]
 ethics: [ai-use-disclosure]
-research_method: [research methods, literature review, meta-analysis]
+research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]

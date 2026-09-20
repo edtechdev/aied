@@ -6,7 +6,7 @@ type: article
 pedagogy: [metacognition, online-teaching-and-learning, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, feedback]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 level: [higher ed]
 sources: ['raw/papers/yilmaz-genai-feedback-srl-online-higher-ed-2026.md']
 confidence: high

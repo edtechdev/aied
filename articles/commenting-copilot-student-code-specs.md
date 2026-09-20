@@ -4,9 +4,9 @@ created: "2026-07-14T04:33:04-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article
 foundations: [ai-literacy]
-technology: [llm, rag]
+technology: [llm, rag, learning-analytics]
 stakeholders: [student-experience]
-research_method: [secondary analysis, learning analytics]
+research_method: [secondary analysis]
 discipline: [stem education, cs education]
 audience: [learners]
 level: [higher ed]

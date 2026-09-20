@@ -5,9 +5,9 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
-technology: [generative-ai, llm]
+technology: [generative-ai, llm, learning-analytics]
+methods: [qualitative-research, network-analysis]
 stakeholders: [student-experience]
-research_method: [qualitative, learning analytics]
 audience: [learners, instructors]
 level: [higher ed]
 sources: ['raw/papers/2607.08698.md']

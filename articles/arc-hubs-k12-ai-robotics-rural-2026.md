@@ -3,15 +3,14 @@ title: "Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framewor
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
-pedagogy: [learning-by-teaching]
+pedagogy: [career-development-and-readiness, learning-by-teaching]
 technology: [educational-robotics]
-stakeholders: [career-development-and-readiness]
 ethics: [digital-divide, equity-in-ai-education]
 sources: ['raw/papers/arc-hubs-k12-ai-robotics-rural-2026.md']
 confidence: high
 research_method: [design and evaluation study]
-level: [k 12, teacher training]
-audience: [educators, administrators]
+level: [k 12, teacher education]
+audience: [instructors, administrators]
 discipline: [stem education, cs education]
 ---
 

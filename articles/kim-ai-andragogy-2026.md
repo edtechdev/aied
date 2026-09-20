@@ -6,7 +6,8 @@ type: article
 foundations: [agency, ai-education]
 pedagogy: [self-directed-learning]
 technology: [affective-computing, generative-ai, human-in-the-loop-ai, personalized-learning]
-research_method: [qualitative, interviews]
+methods: [qualitative-research]
+research_method: [interviews]
 level: [adult learning]
 sources: ['raw/papers/kim-ai-andragogy-2026.md']
 confidence: high

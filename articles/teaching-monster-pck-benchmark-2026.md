@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai]
 technology: [generative-ai, pedagogical-agent]
 audience: [software developers]
-research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.08852.md']
 confidence: high

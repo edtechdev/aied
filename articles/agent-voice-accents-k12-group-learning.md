@@ -5,11 +5,12 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
-research_method: [mixed methods, experiment]
+research_method: [experiment]
 audience: [learners, instructors]
-level: [teacher training, k 12]
+level: [teacher education, k 12]
 sources: ['raw/papers/2606.12805.md']
 confidence: high
 ---

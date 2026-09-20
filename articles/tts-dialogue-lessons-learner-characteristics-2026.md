@@ -7,7 +7,6 @@ foundations: [critical-thinking]
 pedagogy: [experiential-learning, motivation, student-engagement]
 technology: [generative-ai]
 research_method: [experiment]
-
 sources: ['raw/papers/tts-dialogue-lessons-learner-characteristics-2026.md']
 confidence: high
 audience: [instructional designers, edtech designers, instructors]

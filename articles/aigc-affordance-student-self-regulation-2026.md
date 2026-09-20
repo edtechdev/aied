@@ -4,9 +4,10 @@ type: article
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
 technology: [generative-ai]
 assessment: [feedback]
+methods: [mixed-methods-research]
 sources: ['raw/papers/aigc-affordance-student-self-regulation-2026.md']
 confidence: medium
-research_method: [survey, mixed methods, structural equation modeling]
+research_method: [survey, structural equation modeling]
 discipline: [business education]
 audience: [instructors, researchers, learning designers]
 level: [higher ed]

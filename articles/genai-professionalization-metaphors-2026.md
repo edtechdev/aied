@@ -5,9 +5,10 @@ updated: "2026-09-19T08:23:28-04:00"
 type: article
 foundations: [learner-identity]
 technology: [generative-ai]
-stakeholders: [career-development-and-readiness, student-experience, professional-training]
-research_method: [qualitative, mixed methods]
-audience: [researchers, educators]
+methods: [mixed-methods-research, qualitative-research]
+stakeholders: [student-experience]
+pedagogy: [career-development-and-readiness, professional-training]
+audience: [researchers, instructors]
 level: [higher ed]
 sources: ["raw/papers/genai-professionalization-metaphors-2026.md"]
 confidence: high

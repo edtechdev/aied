@@ -5,9 +5,9 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 stakeholders: [teacher-ai-competency]
-research_method: [systematic review, thematic analysis]
+research_method: [thematic analysis]
 discipline: [language learning]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/governing-unseen-ai-literacy-language-teachers-2026.md']
 confidence: high

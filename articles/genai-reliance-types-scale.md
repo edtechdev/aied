@@ -5,12 +5,12 @@ updated: "2026-09-20T03:45:11-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai]
+assessment: [educational-measurement]
 stakeholders: [student-experience]
-research_method: [survey, educational measurement]
+research_method: [survey]
 discipline: [writing education]
 audience: [researchers, instructors]
 level: [higher ed]
-
 sources: ['raw/papers/2607.14301.md']
 confidence: high
 ---

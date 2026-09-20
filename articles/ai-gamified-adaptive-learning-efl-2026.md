@@ -7,7 +7,6 @@ pedagogy: [game-based-learning]
 technology: [adaptive-learning, technology-acceptance-model]
 assessment: [educational-measurement]
 audience: [researchers, instructors]
-research_method: [educational measurement]
 sources: ['raw/papers/10.3389_feduc.2026.1929123.md']
 confidence: high
 discipline: [language learning]

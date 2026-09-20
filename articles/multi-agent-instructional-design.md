@@ -7,9 +7,8 @@ foundations: [agentic-ai, ai-literacy, educational-development]
 pedagogy: [metacognition]
 technology: [human-in-the-loop-ai]
 ethics: [pedagogical-safety]
-
 research_method: [system development]
-audience: [faculty development]
+audience: [faculty developers]
 level: [k 12]
 sources: ['raw/papers/2508.16659.md']
 confidence: high

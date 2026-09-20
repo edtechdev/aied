@@ -12,7 +12,6 @@ audience: [instructors, administrators]
 research_method: [theoretical analysis]
 discipline: [stem education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.24837.md']
 confidence: high
 page_kind: [framework]

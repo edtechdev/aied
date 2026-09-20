@@ -8,7 +8,6 @@ pedagogy: [learning-theories, scaffolding]
 technology: [generative-ai]
 research_method: [theoretical analysis]
 discipline: [writing education]
-
 sources: ['raw/papers/2607.24751.md']
 confidence: medium
 audience: [designers, edtech designers, instructors]

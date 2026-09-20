@@ -6,9 +6,8 @@ type: article
 foundations: [agentic-ai, ai-literacy, human-ai-collaboration]
 pedagogy: [self-regulated-learning]
 technology: [intelligent-tutoring, learning-analytics, llm, prompt-engineering]
+methods: [benchmark]
 audience: [researchers]
-research_method: [benchmark]
-
 sources: ['raw/papers/principal-trait-analysis-human-ai-skills-2026.md']
 confidence: high
 discipline: [cs education]

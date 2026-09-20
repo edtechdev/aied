@@ -5,12 +5,11 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [llm]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods]
 discipline: [writing education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2606.28749.md']
 confidence: high
 ---

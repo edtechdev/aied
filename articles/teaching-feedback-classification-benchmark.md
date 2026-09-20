@@ -5,10 +5,9 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [educational-development, teacher-role]
 assessment: [automated-assessment, feedback, formative-assessment]
-research_method: [benchmark]
-audience: [instructors, faculty development, software developers]
+methods: [benchmark]
+audience: [instructors, faculty developers, software developers]
 level: [higher ed]
-
 sources: ['raw/papers/2607.11873.md']
 confidence: medium
 page_kind: [evaluation]

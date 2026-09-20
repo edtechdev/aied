@@ -8,12 +8,11 @@ technology: [human-in-the-loop-ai, intelligent-tutoring]
 stakeholders: [stakeholders]
 ethics: [ethics, explainable-ai, privacy]
 sources: ['raw/papers/ko-hughes-vsd-student-centered-its-2026.md']
-research_method: [design-based research, qualitative]
 audience: [researchers, instructional designers, software developers]
 level: [higher ed]
 confidence: high
 discipline: [math education]
-methods: [design-based-research]
+methods: [design-based-research, qualitative-research]
 ---
 
 > **Synthesis:** Ko and Hughes (2026) apply Value Sensitive Design (VSD) to the design of student-centered [[intelligent-tutoring|intelligent tutoring systems]] (ITS). Working with community college students, instructors, instructional designers, and field experts (developers and data scientists), they ran the VSD cycle of conceptual, empirical, and technical investigations and produced a value-oriented prototype. The work documents how learners and instructors -- a stakeholder group historically left out of learning-platform design -- articulate values, surfacing persistent value tensions (transparency vs. interpretability, privacy vs. instructional insight, [[agency|student agency]] vs. system-guided [[scaffolding]]) that designers must manage rather than resolve.

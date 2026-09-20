@@ -3,12 +3,12 @@ title: "Context-aware prompting for collaborative problem solving skill identifi
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+methods: [benchmark]
 sources: ["raw/papers/context-aware-prompting-cps-skill-identification-2026.md"]
 pedagogy: [collaborative-learning, problem-solving]
 technology: [learning-analytics, prompt-engineering]
 assessment: [educational-measurement]
 confidence: medium
-research_method: [educational measurement, benchmark]
 audience: [assessment professionals, learning analytics designers, researchers]
 ---
 

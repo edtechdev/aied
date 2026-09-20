@@ -6,11 +6,11 @@ type: article
 pedagogy: [constructivist]
 technology: [generative-ai, technology-acceptance-model]
 ethics: [global-south]
-research_method: [mixed methods]
 audience: [instructors, administrators, researchers]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100378.md"]
 confidence: high
+methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---
 

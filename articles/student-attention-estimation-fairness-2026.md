@@ -6,11 +6,10 @@ type: article
 foundations: [ai-education]
 pedagogy: [student-engagement]
 technology: [affective-computing, learning-analytics, multimodal]
-assessment: [assessment]
+assessment: [assessment, educational-measurement]
 ethics: [equity-in-ai-education]
 sources: ['raw/papers/student-attention-estimation-fairness-2026.md']
 confidence: high
-research_method: [educational measurement, learning analytics]
 audience: [learning analytics designers, assessment professionals, researchers]
 ---
 

@@ -9,7 +9,7 @@ research_method: [experiment]
 discipline: [cs education]
 sources: ['raw/papers/jost-llm-programming-education-learning-outcomes.md']
 confidence: high
-audience: [educators, curriculum designers]
+audience: [instructors, curriculum designers]
 level: [higher ed]
 page_kind: [evaluation]
 ---

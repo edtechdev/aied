@@ -4,9 +4,10 @@ created: "2026-05-26T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-literacy]
+methods: [quantitative-research]
 stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
-research_method: [survey, quantitative]
+research_method: [survey]
 audience: [learners]
 level: [k 12]
 sources: ['raw/papers/2605.26010.md']

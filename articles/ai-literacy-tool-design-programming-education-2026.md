@@ -9,7 +9,7 @@ technology: [generative-ai]
 ethics: [ai-misuse-learning-harm]
 sources: ['raw/papers/ai-literacy-tool-design-programming-education-2026.md']
 confidence: high
-research_method: [mixed methods, experiment]
+research_method: [experiment]
 level: [higher ed]
 audience: [instructors, researchers]
 discipline: [cs education]

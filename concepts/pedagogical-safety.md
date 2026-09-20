@@ -8,7 +8,6 @@ foundations: [cognitive-offloading]
 technology: [llm, rag]
 ethics: [ethics, hallucination-risk]
 level: [k 12]
-
 confidence: high
 institutions: [governance, regulation]
 ---

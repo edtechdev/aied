@@ -5,9 +5,10 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency, professional-training]
+methods: [mixed-methods-research]
+stakeholders: [teacher-ai-competency]
 ethics: [global-south]
-research_method: [mixed methods]
+pedagogy: [professional-training]
 audience: [teacher educators, researchers, policymakers]
 level: [k 12]
 sources: ["raw/papers/ukraine-ai-literacy-secondary-framework-2026.md"]

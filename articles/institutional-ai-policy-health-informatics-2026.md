@@ -6,14 +6,15 @@ type: article
 foundations: [academic-integrity, curriculum-design]
 technology: [generative-ai]
 ethics: [ethics, privacy]
+pedagogy: [professional-training]
 sources: ['raw/papers/institutional-ai-policy-health-informatics-2026.md']
-audience: [administrators, curriculum designers, faculty development, institutions, medical educators, policymakers, researchers]
+audience: [administrators, curriculum designers, faculty developers, institutions, medical educators, policymakers, researchers]
 level: [higher ed]
-research_method: [mixed methods, policy analysis, quantitative, qualitative]
+research_method: [policy analysis]
 discipline: [medical education, information technology]
 confidence: high
 institutions: [educational-policy-ai, governance]
-stakeholders: [professional-training]
+methods: [mixed-methods-research, qualitative-research, quantitative-research]
 ---
 
 > **Synthesis:** **Institutional approaches to AI policy and guidance in health informatics and information management education** — A convergent [[mixed-methods-research|mixed-methods]] environmental scan of all 48 CAHIIM-accredited health informatics (HI) and health information management (HIM) master's programs in the United States found that 40 programs (83%) published at least one AI-related document, but most of those documents function as advisory guidance rather than formal policy. Content clusters tightly around [[academic-integrity]] and responsible student conduct, while [[privacy]], intellectual property, health-data [[regulation]], and equitable access appear far less often, and health-data terms such as electronic health records are absent entirely. Latent Dirichlet Allocation topic modeling identified four themes: academic integrity and student AI use, student use of [[generative-ai|generative AI]] tools, AI and data tools in university research, and student engagement with ChatGPT. The authors argue that [[educational-policy-ai|academic AI policy]] in HI and HIM education has been separated from [[curriculum-design]] and from healthcare [[governance]] competencies, leaving [[professional-training|professional preparation]] for AI governance outside the reach of the documents that students actually receive.

@@ -6,7 +6,7 @@ type: article
 pedagogy: [metacognition, scaffolding, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, rag]
 audience: [software developers]
-research_method: [experiment, benchmark]
+research_method: [experiment]
 level: [k 12]
 sources: ['raw/papers/2605.12788.md']
 confidence: high

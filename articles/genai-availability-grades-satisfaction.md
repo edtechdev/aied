@@ -3,10 +3,10 @@ title: Generative AI Availability, Grades, and Student Satisfaction at a Large U
 created: "2026-07-24T04:33:04-04:00"
 updated: "2026-09-20T03:45:11-04:00"
 type: article
-technology: [generative-ai, llm]
+technology: [generative-ai, llm, learning-analytics]
 assessment: [learning-gains]
 stakeholders: [student-experience]
-research_method: [secondary analysis, learning analytics]
+research_method: [secondary analysis]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2607.21534.md']

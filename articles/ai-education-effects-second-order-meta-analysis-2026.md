@@ -4,12 +4,11 @@ created: "2026-09-18T14:00:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, quantitative-research]
-research_method: [meta-analysis, systematic review, quantitative]
 assessment: [learning-gains]
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, intelligent-tutoring]
 level: [k 12, higher ed]
-audience: [researchers, educators, policymakers, administrators]
+audience: [researchers, instructors, policymakers, administrators]
 page_kind: [synthesis]
 sources: ['raw/papers/ai-education-effects-second-order-meta-analysis-2026.md']
 confidence: high

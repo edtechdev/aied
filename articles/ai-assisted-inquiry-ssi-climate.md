@@ -10,8 +10,8 @@ assessment: [assessment]
 sources: ['raw/papers/ai-assisted-inquiry-ssi-climate.md']
 confidence: high
 research_method: [quasi-experiment]
-discipline: [science education]
-audience: [educators, curriculum designers, researchers]
+discipline: [science education, environmental education]
+audience: [instructors, curriculum designers, researchers]
 page_kind: [evaluation]
 ---
 

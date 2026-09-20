@@ -6,13 +6,13 @@ type: article
 technology: [educational-nlp, learning-analytics, llm]
 ethics: [bias-mitigation, equity-in-ai-education]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 page_kind: [evaluation]
 sources: ['raw/papers/nspa-neuro-symbolic-pedagogical-alignment-2026.md']
 confidence: high
 discipline: [math education]
-level: [elementary]
-methods: [ai-ed-evaluation]
+level: [primary education]
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** Fang and Liu (2026) introduce the Neuro-Symbolic [[pedagogy|Pedagogical]] Alignment (NSPA) framework for long-horizon classroom discourse analysis, using [[llm]] inside a Judge-Critique-Refine Direct Preference Optimization (DPO) loop to quantify high-inference constructs such as Student Reasoning and Teacher Uptake. A novel Dialect-Invariant Contrastive Learning objective uses style-transfer augmentation to decouple semantic reasoning from surface linguistic variation, directly mitigating algorithmic bias against non-standard dialects. Evaluated on 1,660 elementary [[math-education]] lessons from the National Center for Teacher Effectiveness corpus, NSPA lifts reasoning-chain detection by 14.2 percentage points over state-of-the-art discriminative baselines and cuts African American Vernacular English false negatives by 18.4 points, while scores correlate significantly (ρ = 0.10) with value-added measures of teacher effectiveness. It advances equitable, [[equity-in-ai-education|equity-aware]] automated discourse analysis as a proxy for [[learning-gains]].

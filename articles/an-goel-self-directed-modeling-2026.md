@@ -5,9 +5,9 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [self-directed-learning]
 technology: [adaptive-learning, learning-analytics, simulation, student-modeling]
+methods: [quantitative-research]
 sources: ['raw/papers/an-goel-self-directed-modeling-2026.md']
 confidence: high
-research_method: [learning analytics, quantitative]
 discipline: [science education]
 audience: [learning analytics designers, researchers, instructional designers]
 page_kind: [evaluation]

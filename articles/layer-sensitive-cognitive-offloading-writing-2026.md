@@ -6,12 +6,13 @@ type: article
 foundations: [agency, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning, transfer-of-learning]
 technology: [generative-ai]
-research_method: [quasi-experiment, quantitative]
+methods: [quantitative-research]
+research_method: [quasi-experiment]
 discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1906199.md']
 confidence: high
-audience: [researchers, educators, instructional designers]
+audience: [researchers, instructors, instructional designers]
 page_kind: [evaluation]
 ---
 

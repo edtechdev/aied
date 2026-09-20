@@ -9,10 +9,10 @@ technology: [generative-ai, llm]
 ethics: [ethics]
 sources: ['raw/papers/10.1186_s41239-026-00609-6.md']
 confidence: high
-research_method: [qualitative]
 audience: [institutions, researchers]
 level: [higher ed]
 page_kind: [framework]
+methods: [qualitative-research]
 institutions: [governance]
 ---
 

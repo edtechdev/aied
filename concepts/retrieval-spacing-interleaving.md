@@ -9,7 +9,7 @@ technology: [generative-ai, llm]
 assessment: [formative-assessment, assessment]
 stakeholders: [learners]
 level: [higher ed, k 12]
-audience: [educators, learners, learning designers]
+audience: [instructors, learners, learning designers]
 page_kind: [synthesis]
 confidence: high
 ---

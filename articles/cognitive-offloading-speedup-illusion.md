@@ -9,7 +9,6 @@ technology: [llm]
 stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
-
 sources: ['raw/papers/2605.23177.md']
 confidence: high
 ---

@@ -5,9 +5,9 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [llm, prompt-engineering]
+methods: [benchmark]
 ethics: [bias-mitigation, digital-divide, equity-in-ai-education, inclusive-learning]
 audience: [learners, instructors]
-research_method: [benchmark]
 sources: ['raw/papers/2608.08942.md']
 confidence: high
 page_kind: [evaluation]

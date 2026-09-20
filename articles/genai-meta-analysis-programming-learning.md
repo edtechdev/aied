@@ -5,12 +5,11 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, llm]
 assessment: [assessment-validity, learning-gains]
-research_method: [meta-analysis]
 discipline: [cs education, writing education]
 level: [higher ed]
 sources: ['raw/papers/2605.04779.md']
 confidence: high
-audience: [researchers, educators, curriculum designers]
+audience: [researchers, instructors, curriculum designers]
 page_kind: [evaluation, synthesis]
 methods: [meta-analysis-systematic-review, rct]
 institutions: [regulation]

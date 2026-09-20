@@ -6,10 +6,10 @@ type: article
 pedagogy: [creativity, project-based-learning, inquiry-based-learning, game-based-learning]
 foundations: [ai-literacy, critical-thinking, design-thinking]
 technology: [generative-ai, llm, multimodal]
-level: [k 12, elementary, secondary]
-audience: [educators, curriculum designers, researchers, teachers]
+level: [k 12, primary education, secondary]
+audience: [instructors, curriculum designers, researchers, teachers]
 methods: [meta-analysis-systematic-review]
-research_method: [systematic review, literature review]
+research_method: [literature review]
 page_kind: [synthesis]
 sources: ['raw/papers/genai-creativity-k12-scoping-review-2026.md']
 confidence: high

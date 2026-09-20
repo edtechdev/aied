@@ -5,10 +5,11 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative, case study]
+research_method: [case study]
 discipline: [writing education]
-audience: [instructors, faculty development, learners]
+audience: [instructors, faculty developers, learners]
 level: [higher ed]
 sources: ['raw/papers/zuo-instructor-power-genai-writing-2026.md']
 confidence: high

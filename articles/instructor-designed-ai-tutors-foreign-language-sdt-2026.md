@@ -5,12 +5,11 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring, personalized-learning, prompt-engineering]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [mixed methods]
 discipline: [language learning]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/higheredu-05-00078.md']
 confidence: high
 ---

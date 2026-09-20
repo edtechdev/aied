@@ -9,7 +9,7 @@ ethics: [ethics]
 research_method: [literature review, position paper]
 sources: ['raw/papers/kostopoulos-agentic-ai-education-2025.md']
 confidence: high
-audience: [researchers, educators, designers]
+audience: [researchers, instructors, designers]
 level: [higher ed]
 institutions: [governance]
 ---

@@ -6,7 +6,6 @@ type: article
 technology: [educational-nlp, generative-ai, llm, multimodal, visualization]
 assessment: [automated-assessment]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [math education]
 confidence: high
 level: [k 12]

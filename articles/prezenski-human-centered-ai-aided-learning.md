@@ -9,7 +9,6 @@ ethics: [equity-in-ai-education, ethics]
 research_method: [literature review]
 audience: [instructors]
 level: [higher ed]
-
 sources: ['raw/papers/prezenski-human-centered-ai-aided-learning.md']
 confidence: high
 ---

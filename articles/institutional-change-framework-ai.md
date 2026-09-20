@@ -8,7 +8,7 @@ pedagogy: [pedagogy, scaffolding]
 stakeholders: [student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
-audience: [faculty development, administrators, instructors]
+audience: [faculty developers, administrators, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.12757.md']
 confidence: high

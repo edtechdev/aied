@@ -5,9 +5,10 @@ updated: "2026-09-19T07:09:40-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, psychometrically-aware-ai]
+methods: [benchmark]
 sources: ['raw/papers/2609.05143.md']
 confidence: high
-research_method: [benchmark, educational measurement, secondary analysis]
+research_method: [secondary analysis]
 discipline: [writing education]
 audience: [assessment professionals, policymakers, institutions]
 level: [secondary]

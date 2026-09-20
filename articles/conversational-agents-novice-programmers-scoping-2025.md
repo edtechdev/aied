@@ -6,12 +6,12 @@ type: article
 pedagogy: [scaffolding]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, multimodal]
 assessment: [feedback]
+methods: [meta-analysis-systematic-review]
 ethics: [equity-in-ai-education]
-research_method: [systematic review]
 discipline: [cs education]
 sources: ['raw/papers/conversational-agents-novice-programmers-scoping-2025.md']
 confidence: high
-audience: [educators, instructional designers, software developers]
+audience: [instructors, instructional designers, software developers]
 level: [higher ed]
 page_kind: [synthesis]
 ---

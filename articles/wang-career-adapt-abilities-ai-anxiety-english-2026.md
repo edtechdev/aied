@@ -5,6 +5,7 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, self-efficacy, well-being]
+methods: [latent-profile-analysis]
 audience: [learners]
 research_method: [survey]
 level: [higher ed, adult learning]

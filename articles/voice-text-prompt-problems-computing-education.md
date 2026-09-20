@@ -5,8 +5,8 @@ updated: "2026-09-20T06:30:22-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering]
+methods: [qualitative-research, mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [qualitative, mixed methods]
 discipline: [cs education]
 audience: [learners]
 sources: ['raw/papers/2607.05808.md']

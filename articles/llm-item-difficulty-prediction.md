@@ -6,7 +6,6 @@ type: article
 technology: [adaptive-learning, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 assessment: [assessment]
 audience: [software developers]
-research_method: [benchmark]
 level: [higher ed, k 12]
 sources: ['raw/papers/2606.28186.md']
 confidence: high

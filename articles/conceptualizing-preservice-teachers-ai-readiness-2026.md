@@ -3,12 +3,11 @@ title: "Conceptualizing pre-service teachers' readiness for AI integration into 
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
-foundations: [ai-literacy]
+foundations: [ai-literacy, tpack]
 assessment: [assessment]
-stakeholders: [tpack]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 research_method: [survey]
-level: [teacher training]
+level: [teacher education]
 sources: ['raw/papers/conceptualizing-preservice-teachers-ai-readiness-2026.md']
 confidence: high
 ---

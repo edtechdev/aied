@@ -9,7 +9,6 @@ assessment: [ai-feedback-quality, learning-gains]
 audience: [learners]
 research_method: [experiment, survey]
 discipline: [writing education]
-
 sources: ['raw/papers/coach-not-crutch-ai-writing.md']
 confidence: high
 level: [adult learning]

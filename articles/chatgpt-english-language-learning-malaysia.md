@@ -5,12 +5,13 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory]
 technology: [generative-ai, pedagogical-agent]
-research_method: [qualitative, interviews]
+methods: [qualitative-research]
+research_method: [interviews]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/chatgpt-english-language-learning-malaysia.md']
 confidence: high
-audience: [educators, instructors]
+audience: [instructors]
 ---
 
 > **Synthesis:** Annamalai and colleagues (2026) conducted a [[qualitative-research|qualitative]] thematic analysis with 25 students from a Malaysian [[higher-ed|higher education]] institution to understand their [[motivation]] for using ChatGPT in [[language-learning|English language learning]]. Grounded in [[self-determination-theory|Self-Determination Theory]] (SDT), the results demonstrated that ChatGPT contributes positively to English language competence, social connections, and independent learning processes. ChatGPT emerged as a helpful resource for enhancing grammar, [[writing-education|writing]], and conversational tasks, supporting learners' autonomy, relatedness, and competence. The study suggests ChatGPT allows [[teacher-role|educators]] to prioritize higher-order thinking and intricate areas of language training, while flagging the tool's tendency to produce inaccurate information and its limited capacity to ensure content accuracy — underscoring the need to complement AI interactions with human interaction.

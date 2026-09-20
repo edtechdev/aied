@@ -4,9 +4,10 @@ created: "2026-05-15T04:33:04-04:00"
 updated: "2026-09-20T08:50:39-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm]
+methods: [benchmark]
 stakeholders: [student-experience]
 ethics: [hallucination-risk, pedagogical-safety]
-research_method: [benchmark, system development]
+research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.06669.md']
 confidence: medium

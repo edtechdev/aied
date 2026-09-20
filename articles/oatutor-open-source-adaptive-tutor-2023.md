@@ -8,7 +8,6 @@ audience: [software developers]
 research_method: [system development]
 discipline: [math education]
 level: [higher ed]
-
 sources: ['raw/papers/oatutor-open-source-adaptive-tutor-2023.md']
 confidence: high
 page_kind: [evaluation]

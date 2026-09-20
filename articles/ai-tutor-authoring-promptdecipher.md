@@ -5,11 +5,12 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, educational-development, teacher-role]
 technology: [intelligent-tutoring, llm, edtech-platform]
-research_method: [system development, design-based research]
-audience: [instructors, faculty development]
+methods: [design-based-research]
+research_method: [system development]
+audience: [instructors, faculty developers]
 sources: ['raw/papers/2605.16605.md']
 confidence: high
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 page_kind: [framework]
 ---
 

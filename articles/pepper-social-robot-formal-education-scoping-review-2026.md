@@ -5,8 +5,8 @@ updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [teacher-role]
 technology: [educational-robotics]
+methods: [meta-analysis-systematic-review]
 ethics: [inclusive-learning]
-research_method: [systematic review]
 audience: [instructors]
 level: [k 12, higher ed]
 sources: ['raw/papers/10.1007_s44322-026-00072-1.md']

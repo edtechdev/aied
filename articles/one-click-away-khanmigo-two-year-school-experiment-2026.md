@@ -4,14 +4,13 @@ created: "2026-08-17T17:57:00-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [help-seeking, student-engagement]
-technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, learning-analytics]
 assessment: [learning-gains]
 ethics: [equity-in-ai-education]
-research_method: [learning analytics]
 discipline: [math education]
 level: [k 12]
 confidence: high
-audience: [educators, administrators, policymakers]
+audience: [instructors, administrators, policymakers]
 sources: [raw/papers/one-click-away-khanmigo-two-year-school-experiment-2026.md]
 ---
 

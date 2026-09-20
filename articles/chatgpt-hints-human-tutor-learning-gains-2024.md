@@ -6,10 +6,9 @@ type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
 assessment: [feedback, learning-gains]
+methods: [rct]
 ethics: [hallucination-risk]
-research_method: [randomized controlled trial]
 discipline: [math education]
-
 sources: ['raw/papers/chatgpt-hints-human-tutor-learning-gains-2024.md']
 confidence: high
 audience: [instructional designers, edtech designers, researchers]

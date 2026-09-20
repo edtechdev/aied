@@ -5,7 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
-research_method: [literature review, research methods]
+research_method: [literature review]
 page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]

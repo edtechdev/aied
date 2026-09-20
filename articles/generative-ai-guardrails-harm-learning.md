@@ -5,14 +5,12 @@ updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [scaffolding]
-technology: [generative-ai, intelligent-tutoring]
+technology: [generative-ai, intelligent-tutoring, learning-analytics]
 assessment: [learning-gains]
 stakeholders: [student-experience]
-research_method: [randomized controlled trial, learning analytics]
 discipline: [stem education]
 audience: [learners]
 level: [k 12]
-
 sources: ['raw/papers/pnas-2025-guardrails-harm-learning.md']
 confidence: high
 page_kind: [evaluation]

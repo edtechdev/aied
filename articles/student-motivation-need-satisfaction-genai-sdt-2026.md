@@ -5,7 +5,8 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [motivation, self-determination-theory, self-regulated-learning, student-engagement]
 technology: [generative-ai]
-research_method: [survey, quantitative]
+methods: [quantitative-research, latent-profile-analysis]
+research_method: [survey]
 audience: [teachers, researchers]
 level: [secondary, k 12]
 sources: ["raw/papers/10.1016_j.caeo.2026.100348.md"]

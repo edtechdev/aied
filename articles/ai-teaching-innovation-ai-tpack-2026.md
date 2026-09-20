@@ -9,7 +9,7 @@ audience: [researchers, administrators, edtech designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 page_kind: [framework]
 technology: [technology-acceptance-model]
 ---

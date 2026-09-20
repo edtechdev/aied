@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
-
 confidence: high
 ---
 

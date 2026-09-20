@@ -6,11 +6,11 @@ type: article
 foundations: [agency]
 pedagogy: [collaborative-learning, pedagogical-partnerships]
 technology: [generative-ai]
+methods: [qualitative-research]
 ethics: [equity-in-ai-education, ethics, privacy]
 sources: ['raw/papers/chang-co-designing-ai-youth-relational-privacy-2025.md']
 confidence: high
-research_method: [qualitative]
-audience: [designers, edtech designers, educators]
+audience: [designers, edtech designers, instructors]
 level: [secondary, k 12]
 page_kind: [framework]
 ---

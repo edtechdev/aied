@@ -7,13 +7,11 @@ foundations: [agency, ai-education, cognitive-offloading, human-ai-collaboration
 technology: [generative-ai, learning-analytics]
 assessment: [formative-assessment]
 ethics: [pedagogical-safety]
-
 sources: ['raw/papers/ssail-safe-sound-ai-learning-2026.md']
 confidence: high
 research_method: [theoretical analysis, position paper]
 audience: [instructional designers, edtech designers, researchers]
 page_kind: [framework]
-
 ---
 
 > **Synthesis:** Rahimi (2026) proposes **SSAIL** (Safe and Sound AI for Learning), a conceptual design framework responding to a "learning paradox": [[generative-ai|generative AI]] can help learners produce better work while simultaneously performing the cognitive work those learners need to do to build their own competencies. He argues this creates a learning-safety problem that conventional concerns about accuracy, bias, privacy, or harmful outputs do not capture. SSAIL begins from the competencies humans should develop, maintain, and exercise: **Learning Safety** protects those competencies from foreseeable harm, while **Learning Soundness** supports their intended development. Using evidence-centered design, it operationalizes safety through two coupled questions — whether the learner is developing the intended competencies and whether the environment supports and protects that development — answered via [[formative-assessment|stealth assessment]] of the learner and [[ai-ed-evaluation|AI evaluation]] of the system, informing adaptive decisions about tasks, supports, [[guardrails]], [[agency]], and cognitive responsibility. The goal is not dependence on a well-guarded system but the capacity to regulate AI use through internal guardrails built through guided practice.

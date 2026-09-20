@@ -6,13 +6,11 @@ type: article
 foundations: [computational-thinking]
 pedagogy: [game-based-learning]
 technology: [educational-robotics]
-research_method: [systematic review]
 level: [k 12, higher ed]
-
 sources: ['raw/papers/mubarrat-game-based-gamified-robotics-review-2026.md']
 confidence: high
 discipline: [cs education, stem education]
-audience: [educators, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

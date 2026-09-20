@@ -6,11 +6,11 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [problem-based-learning, scaffolding]
 technology: [conversational-ai, generative-ai, personalized-learning]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 level: [k 12]
 sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium
-audience: [teachers, educators, instructional designers]
+audience: [teachers, instructors, instructional designers]
 page_kind: [framework]
 ---
 

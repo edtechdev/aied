@@ -6,9 +6,9 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai, prompt-engineering]
+methods: [mixed-methods-research, network-analysis]
 ethics: [equity-in-ai-education, multilingual-learning]
 audience: [learners, instructors]
-research_method: [mixed methods]
 level: [higher ed, k 12]
 sources: ['raw/papers/2607.28630.md']
 confidence: high

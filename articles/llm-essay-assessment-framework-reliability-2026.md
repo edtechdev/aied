@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [educational-nlp, llm]
 assessment: [assessment-validity, automated-essay-scoring]
-research_method: [benchmark]
 audience: [researchers, assessment designers]
 level: [higher ed]
 sources: ["raw/papers/llm-essay-assessment-framework-reliability-2026.md"]

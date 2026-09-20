@@ -8,10 +8,15 @@
 // phrase-valued fields (discipline, level, study design, intended audience) resolve
 // through a generated value-to-slug map. Everything else renders as plain text.
 //
+// The field NAME links to the concept page that reads as the umbrella for the whole
+// field - 'Intended audience' to the stakeholders page, 'Study design' and 'Research
+// methods' to the research methods page - so a reader can find out what a field
+// means, not only which values a page carries. Generated map: FIELD_UMBRELLAS.
+//
 // On a phone the two-column table has nowhere to go, so below 640px - the site's
 // main breakpoint - each row becomes a stacked block: the field name on its own
 // line, its values underneath.
-import { METADATA_LINKS } from '../data/metadataLinks';
+import { METADATA_LINKS, FIELD_UMBRELLAS } from '../data/metadataLinks';
 import { FACET_VOCAB, FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 
 interface Props {
@@ -56,10 +61,22 @@ const rows = ROWS.map((row) => {
       const slug = isFacet
         ? value
         : (METADATA_LINKS[row.key] && METADATA_LINKS[row.key][value]) || null;
-      const text = slug ? (conceptTitles[slug] || titleCase(value)) : titleCase(value);
+      // A facet value IS a concept slug, so its page title is the better label. A
+      // phrase-valued field keeps its own wording - 'Music Education' must not be
+      // relabelled 'Arts, Design and Media Education' just because that page is its
+      // umbrella - and the link simply goes to the concept page that covers it.
+      const text = isFacet
+        ? (slug ? (conceptTitles[slug] || titleCase(value)) : titleCase(value))
+        : titleCase(value);
       return { text, slug };
     });
-  return { label: row.label, items };
+  const umbrella = FIELD_UMBRELLAS[row.key];
+  return {
+    label: row.label,
+    items,
+    // only link a field name to a page that actually exists in this build
+    umbrella: umbrella && conceptTitles[umbrella] ? umbrella : null,
+  };
 }).filter((row) => row.items.length > 0);
 ---
 
@@ -70,7 +87,15 @@ const rows = ROWS.map((row) => {
       <tbody>
         {rows.map((row) => (
           <tr>
-            <th scope="row" class="metadata-label">{row.label}</th>
+            <th scope="row" class="metadata-label">
+              {row.umbrella ? (
+                <a href={`/aied/concepts/${row.umbrella}/`} title={`What "${row.label}" covers`}>
+                  {row.label}
+                </a>
+              ) : (
+                row.label
+              )}
+            </th>
             <td class="metadata-values">
               {row.items.map((item, i) => (
                 <>

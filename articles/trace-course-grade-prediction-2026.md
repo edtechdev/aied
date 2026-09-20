@@ -6,7 +6,6 @@ type: article
 technology: [knowledge-tracing, learning-analytics, machine-learning, personalized-learning, student-modeling]
 assessment: [educational-measurement]
 audience: [software developers]
-research_method: [educational measurement]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.13409.md']

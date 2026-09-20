@@ -6,11 +6,10 @@ type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [llm]
 assessment: [automated-assessment, feedback]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.21614.md']
 confidence: medium
 page_kind: [evaluation]

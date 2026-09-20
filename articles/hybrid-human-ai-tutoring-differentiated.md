@@ -4,10 +4,10 @@ created: "2026-05-14T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education]
-technology: [intelligent-tutoring, personalized-learning]
+technology: [intelligent-tutoring, personalized-learning, learning-analytics]
 assessment: [learning-gains]
 ethics: [equity-in-ai-education]
-research_method: [quasi-experiment, learning analytics]
+research_method: [quasi-experiment]
 level: [k 12]
 sources: ['raw/papers/2605.11155.md']
 confidence: high

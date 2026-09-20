@@ -5,13 +5,13 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design, human-ai-collaboration, learning-design]
 technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering, rag]
+pedagogy: [professional-training]
 audience: [software developers]
 research_method: [system development]
 discipline: [math education]
 sources: ['raw/papers/lin-llm-interactive-lesson-generation.md']
 confidence: high
-level: [teacher training]
-stakeholders: [professional-training]
+level: [teacher education]
 ---
 
 > **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school [[math-education|mathematics]] online. The system combines [[prompt-engineering|prompt engineering]] with a [[rag|Retrieval-Augmented Generation]] (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging [[help-seeking|Help-Seeking]] Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design [[research-methods-aied|research]] (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic [[feedback]], unclear sections, unreliable references), supporting a hybrid [[human-ai-collaboration|human–AI lesson-generation]] workflow.

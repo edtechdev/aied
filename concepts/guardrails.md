@@ -4,7 +4,6 @@ created: "2026-08-25T08:30:00-04:00"
 updated: "2026-09-18T09:40:00-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
-
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
 level: [k 12]
 confidence: high

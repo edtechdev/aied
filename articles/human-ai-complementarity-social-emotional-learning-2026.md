@@ -9,7 +9,7 @@ technology: [affective-computing, generative-ai, pedagogical-agent]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [experiment]
 audience: [researchers, teachers]
-level: [early childhood, elementary]
+level: [preschool, primary education]
 sources: ["raw/papers/10.1016_j.caeo.2026.100331.md"]
 confidence: high
 page_kind: [evaluation, framework]

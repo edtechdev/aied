@@ -7,8 +7,6 @@ foundations: [agentic-ai, ai-literacy]
 technology: [llm, personalized-learning]
 assessment: [feedback, formative-assessment]
 audience: [researchers, instructors, software developers]
-research_method: [benchmark]
-
 sources: ['raw/papers/2601.21375.md']
 confidence: high
 discipline: [math education, physics education, chemistry education]

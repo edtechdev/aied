@@ -9,7 +9,7 @@ assessment: [assessment]
 research_method: [quasi-experiment]
 sources: ['raw/papers/aivaluate-anxiety-assessment-2026.md']
 confidence: high
-audience: [assessment designers, assessment professionals, educators]
+audience: [assessment designers, assessment professionals, instructors]
 level: [secondary]
 ---
 

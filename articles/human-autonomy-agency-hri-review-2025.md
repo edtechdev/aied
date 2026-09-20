@@ -7,7 +7,6 @@ foundations: [agency]
 pedagogy: [well-being]
 technology: [educational-robotics]
 ethics: [ethics]
-research_method: [systematic review]
 sources: ['raw/papers/glawe-human-autonomy-agency-hri-2025.md']
 confidence: high
 audience: [researchers, designers]

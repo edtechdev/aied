@@ -6,7 +6,6 @@ type: article
 technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training, open-source]
 assessment: [automated-assessment]
 stakeholders: [student-experience]
-research_method: [benchmark]
 audience: [learners, software developers]
 level: [higher ed]
 sources: ['raw/papers/2605.02661.md']

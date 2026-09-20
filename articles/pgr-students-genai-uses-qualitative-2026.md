@@ -10,9 +10,9 @@ ethics: [ai-use-disclosure, hallucination-risk, privacy, equity-in-ai-education,
 methods: [qualitative-research]
 institutions: [educational-policy-ai, change-management]
 stakeholders: [teacher-ai-competency, student-experience]
-research_method: [qualitative, interviews, thematic analysis]
+research_method: [interviews, thematic analysis]
 level: [higher ed]
-audience: [researchers, administrators, educators]
+audience: [researchers, administrators, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/pgr-students-genai-uses-qualitative-2026.md']
 confidence: high

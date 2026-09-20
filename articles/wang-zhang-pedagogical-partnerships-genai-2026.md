@@ -6,8 +6,8 @@ type: article
 foundations: [agency, critical-thinking, human-ai-collaboration]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 ethics: [trust]
-research_method: [mixed methods]
 level: [higher ed]
 sources: ['raw/papers/wang-zhang-pedagogical-partnerships-genai-2026.md']
 confidence: high

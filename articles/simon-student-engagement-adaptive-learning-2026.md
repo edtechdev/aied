@@ -5,7 +5,7 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 pedagogy: [motivation, online-teaching-and-learning, student-engagement]
 technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 sources: ['raw/papers/simon-student-engagement-adaptive-learning-2026.md']
 confidence: high
 audience: [learning designers, instructors]

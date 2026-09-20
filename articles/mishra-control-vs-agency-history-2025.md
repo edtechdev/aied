@@ -9,7 +9,7 @@ technology: [generative-ai, intelligent-tutoring]
 research_method: [theoretical analysis, policy analysis]
 sources: ['raw/papers/mishra-control-vs-agency-history-2025.md']
 confidence: high
-audience: [researchers, educators]
+audience: [researchers, instructors]
 page_kind: [framework]
 ---
 

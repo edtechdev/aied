@@ -5,10 +5,11 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 technology: [generative-ai]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 discipline: [engineering education]
-audience: [faculty development, learners]
+audience: [faculty developers, learners]
 level: [higher ed]
 sources: ['raw/papers/engineering-faculty-metaphors-ai-understanding-2026.md']
 confidence: high

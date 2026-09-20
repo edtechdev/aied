@@ -9,7 +9,7 @@ assessment: [ai-feedback-quality, feedback, formative-assessment, learning-gains
 sources: ['raw/papers/gpt4-feedback-student-activation-2026.md']
 confidence: high
 research_method: [experiment]
-audience: [instructors, educators, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed]
 ---
 

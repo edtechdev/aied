@@ -3,10 +3,9 @@ title: "AI-Generated versus Human-Developed Assessment Tasks in EFL Context: Ins
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
-foundations: [human-ai-collaboration]
+foundations: [human-ai-collaboration, tpack]
 assessment: [ai-feedback-quality, assessment, automated-assessment]
-stakeholders: [tpack]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 discipline: [language learning]
 sources: ['raw/papers/ai-vs-human-assessment-efl-tpck-2026.md']
 confidence: high

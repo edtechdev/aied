@@ -5,8 +5,8 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [conversational-ai, generative-ai]
 assessment: [assessment, automated-assessment]
+methods: [mixed-methods-research, quantitative-research, qualitative-research]
 stakeholders: [student-experience]
-research_method: [mixed methods, quantitative, qualitative]
 audience: [instructors, learning designers, researchers]
 level: [higher ed]
 sources: ['raw/papers/usher-faraon-who-grades-best-2026.md']

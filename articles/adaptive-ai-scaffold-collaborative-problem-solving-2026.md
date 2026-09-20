@@ -5,7 +5,6 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 pedagogy: [collaborative-learning, problem-solving, scaffolding]
 technology: [adaptive-learning, learning-analytics]
-research_method: [learning analytics]
 level: [k 12]
 sources: ['raw/papers/adaptive-ai-scaffold-collaborative-problem-solving-2026.md']
 confidence: high

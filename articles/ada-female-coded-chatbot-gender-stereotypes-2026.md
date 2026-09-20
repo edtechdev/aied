@@ -11,7 +11,7 @@ sources: ['raw/papers/ada-female-coded-chatbot-gender-stereotypes-2026.md']
 confidence: high
 research_method: [quasi-experiment, system development]
 discipline: [math education, stem education]
-audience: [educators, edtech designers]
+audience: [instructors, edtech designers]
 level: [secondary, k 12]
 ---
 

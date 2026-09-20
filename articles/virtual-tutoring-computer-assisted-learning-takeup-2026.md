@@ -6,8 +6,8 @@ type: article
 pedagogy: [help-seeking, student-engagement]
 technology: [adaptive-learning, human-in-the-loop-ai, intelligent-tutoring, edtech-platform]
 assessment: [learning-gains]
+methods: [rct]
 ethics: [equity-in-ai-education]
-research_method: [randomized controlled trial]
 discipline: [math education]
 level: [k 12]
 confidence: high

@@ -3,12 +3,12 @@ title: "Know When to Trust: Making AI Scoring More Reliable for Educational Asse
 created: "2026-09-18T12:05:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-assessment: [automated-assessment, automated-essay-scoring, assessment-validity, psychometrically-aware-ai]
+assessment: [automated-assessment, automated-essay-scoring, assessment-validity, psychometrically-aware-ai, educational-measurement]
 technology: [llm, generative-ai]
 foundations: [ai-literacy]
 methods: [quantitative-research]
 ethics: [trust-calibration]
-research_method: [instrument development, quantitative, educational measurement]
+research_method: [instrument development]
 level: [higher ed]
 audience: [assessment professionals, assessment designers, researchers]
 page_kind: [evaluation]

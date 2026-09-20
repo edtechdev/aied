@@ -5,9 +5,9 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, formative-assessment]
+methods: [benchmark]
 ethics: [privacy]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 sources: ['raw/papers/caeai-100666-llm-essay-grading.md']
 confidence: high

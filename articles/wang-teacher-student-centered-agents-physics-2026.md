@@ -5,7 +5,8 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [motivation, student-ai-interaction, student-engagement]
 technology: [affective-computing, generative-ai, intelligent-tutoring, llm, pedagogical-agent, prompt-engineering]
-research_method: [experiment, quantitative]
+methods: [quantitative-research]
+research_method: [experiment]
 discipline: [physics education]
 audience: [learners, instructors, researchers]
 level: [secondary]

@@ -6,7 +6,7 @@ type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 technology: [adaptive-learning, learning-analytics, personalized-learning, visualization, edtech-platform]
 stakeholders: [student-experience]
-research_method: [system development, case study, learning analytics]
+research_method: [system development, case study]
 discipline: [stem education]
 audience: [instructors, learners]
 level: [higher ed]

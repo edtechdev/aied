@@ -10,7 +10,6 @@ audience: [learners]
 research_method: [survey]
 discipline: [medical education]
 level: [higher ed]
-
 sources: ['raw/papers/10.3389_fpsyg.2026.1883053.md']
 confidence: high
 page_kind: [evaluation]

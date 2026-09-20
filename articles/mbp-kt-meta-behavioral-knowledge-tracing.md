@@ -4,8 +4,9 @@ created: "2026-05-13T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [adaptive-learning, knowledge-tracing, learning-analytics]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.08697.md']
 confidence: medium

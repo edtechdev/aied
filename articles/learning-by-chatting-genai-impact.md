@@ -10,7 +10,6 @@ stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2606.11669.md']
 confidence: high
 page_kind: [evaluation]

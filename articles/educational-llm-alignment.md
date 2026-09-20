@@ -6,13 +6,13 @@ type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [llm, pedagogical-llm-training]
 ethics: [bias-mitigation, ethics]
-research_method: [educational measurement, benchmark]
 audience: [researchers, instructors, software developers]
 sources: ['raw/papers/hardy-knowledge-without-wisdom-llm-misalignment-2026.md']
 confidence: medium
 discipline: [math education]
-level: [elementary, k 12]
+level: [primary education, k 12]
 page_kind: [evaluation]
+assessment: [educational-measurement]
 methods: [benchmark]
 ---
 

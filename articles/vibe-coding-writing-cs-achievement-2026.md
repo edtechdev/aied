@@ -5,8 +5,9 @@ updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, prompt-engineering, vibe-coding]
+methods: [quantitative-research]
 sources: ['raw/papers/2603.14133.md']
-research_method: [quantitative, experiment]
+research_method: [experiment]
 discipline: [cs education, writing education]
 audience: [researchers, curriculum designers, instructors, software developers]
 level: [higher ed]

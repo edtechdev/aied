@@ -6,7 +6,7 @@ type: article
 technology: [generative-ai, simulation, multimodal]
 pedagogy: [experiential-learning, active-learning, inquiry-based-learning, problem-solving]
 discipline: [physics education, engineering education]
-audience: [instructors, students]
+audience: [instructors, learners]
 level: [higher ed]
 research_method: [case study]
 methods: [qualitative-research]

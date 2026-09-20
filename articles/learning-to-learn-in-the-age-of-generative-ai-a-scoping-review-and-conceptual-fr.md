@@ -6,10 +6,8 @@ type: article
 foundations: [agency, ai-education]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
-research_method: [systematic review]
 discipline: [language learning]
 level: [higher ed]
-
 sources: ['raw/papers/learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr.md']
 confidence: high
 audience: [researchers, instructors]

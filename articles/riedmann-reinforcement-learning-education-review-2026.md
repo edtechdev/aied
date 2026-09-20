@@ -7,7 +7,6 @@ technology: [adaptive-learning, intelligent-tutoring, machine-learning, personal
 sources:
   - raw/papers/riedmann-reinforcement-learning-education-review-2026.md
 confidence: high
-research_method: [systematic review]
 audience: [researchers, learning analytics designers, instructional designers]
 level: [higher ed]
 page_kind: [synthesis, evaluation]

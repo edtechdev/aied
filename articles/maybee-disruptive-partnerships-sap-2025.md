@@ -6,12 +6,13 @@ type: article
 
 foundations: [agency, ai-literacy, curriculum-design, learning-design, teacher-role]
 pedagogy: [pedagogical-partnerships]
+methods: [qualitative-research]
 ethics: [equity-in-ai-education]
 sources:
   - 'raw/papers/maybee-disruptive-partnerships-sap-2025.md'
 confidence: high
-research_method: [case study, qualitative, thematic analysis]
-audience: [educators, curriculum designers, faculty development]
+research_method: [case study, thematic analysis]
+audience: [instructors, curriculum designers, faculty developers]
 level: [higher ed]
 ---
 

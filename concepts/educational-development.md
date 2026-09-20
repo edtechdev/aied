@@ -6,7 +6,7 @@ connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-devel
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
 stakeholders: [teacher-ai-competency]
-audience: [faculty development, instructors]
+audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]

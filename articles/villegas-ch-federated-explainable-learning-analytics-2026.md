@@ -5,7 +5,7 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 technology: [learning-analytics, machine-learning]
 ethics: [privacy]
-research_method: [experiment, learning analytics]
+research_method: [experiment]
 audience: [learning analytics designers, researchers, institutions, administrators]
 level: [higher ed]
 page_kind: [evaluation]

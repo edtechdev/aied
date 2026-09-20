@@ -7,13 +7,14 @@ foundations: [design-thinking]
 technology: [human-in-the-loop-ai, llm]
 assessment: [assessment, authentic-assessment]
 ethics: [accessibility, inclusive-learning, multilingual-learning, privacy]
+pedagogy: [professional-training]
 sources: ['raw/papers/ai-supported-oral-assessment-tvet-2026.md']
 confidence: high
-research_method: [system development, mixed methods]
+research_method: [system development]
 discipline: [vocational education]
 audience: [assessment designers, instructors, institutions]
 level: [higher ed]
-stakeholders: [professional-training]
+methods: [mixed-methods-research]
 ---
 
 > **Synthesis:** AkoVoice is an offline-capable, voice-based assessment tool trialled in four Level 3 Automotive classes and one Level 3 Engineering class at Toi Ohomai Institute of Technology, and its defining design choice is to keep AI in the role of evidence-surfacer rather than judge — a [[human-in-the-loop-ai|human-in-the-loop]] arrangement that preserves the judgment of the human assessor. The 33 learners surveyed judged speaking in real time a natural fit for this kind of [[authentic-assessment|authentic assessment]], with none disagreeing that voice felt right compared with a written [[eportfolio|portfolio]] and 21 of 33 (64%) calling the task realistic. Because the whole assessment cycle runs on learner-owned phones against a single mid-range laptop hosting open-weight [[llm|LLMs]], [[accessibility]] and data-residency constraints that block cloud tools in steel-framed workshops are addressed rather than assumed away. The work extends the [[design-thinking]] tradition of human-centered AI design into assessment and demonstrates that [[multilingual-learning|multilingual]] capture and cross-framework evidence transfer are feasible without surrendering learner data.

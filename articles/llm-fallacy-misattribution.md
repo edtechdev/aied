@@ -8,10 +8,9 @@ pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, rag]
 research_method: [theoretical analysis]
 level: [k 12, higher ed]
-
 sources: ['raw/papers/kim-llm-fallacy-misattribution-2026.md']
 confidence: high
-audience: [educators, assessment designers, instructors]
+audience: [assessment designers, instructors]
 page_kind: [framework]
 ---
 

@@ -5,7 +5,6 @@ updated: "2026-09-15T12:56:46-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
-research_method: [educational measurement]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]

@@ -4,8 +4,7 @@ created: "2026-08-19T17:30:00-04:00"
 updated: "2026-09-03T15:00:00-04:00"
 type: concept
 foundations: [academic-integrity]
-assessment: [assessment, authentic-assessment, summative-assessment]
-research_method: [educational measurement]
+assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
 level: [higher ed, k 12]
 page_kind: [evaluation]
 confidence: high

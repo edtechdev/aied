@@ -6,7 +6,6 @@ type: article
 technology: [multimodal]
 assessment: [assessment, automated-assessment, educational-measurement]
 audience: [software developers]
-research_method: [educational measurement, benchmark]
 level: [higher ed]
 sources: ['raw/papers/multimodal-exam-obe-rubrics-2026.md']
 confidence: high

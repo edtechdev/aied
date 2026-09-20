@@ -3,12 +3,13 @@ title: "Chat as Learning: Student-AI Conversations as Discipline-Associated Cogn
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+assessment: [educational-measurement]
+methods: [quantitative-research]
 sources: ["raw/papers/student-ai-conversations-cognitive-engagement-2026.md"]
 foundations: [critical-thinking]
 pedagogy: [student-ai-interaction, student-engagement]
-technology: [generative-ai, prompt-engineering]
+technology: [generative-ai, prompt-engineering, learning-analytics]
 confidence: medium
-research_method: [learning analytics, quantitative, educational measurement]
 audience: [researchers, edtech designers]
 level: [higher ed]
 ---

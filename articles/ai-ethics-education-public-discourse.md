@@ -6,10 +6,11 @@ type: article
 foundations: [academic-integrity, ai-education, ai-literacy]
 ethics: [equity-in-ai-education, ethics]
 audience: [researchers, administrators]
-research_method: [longitudinal study, quantitative]
+research_method: [longitudinal study]
 level: [higher ed]
 sources: ['raw/papers/2607.12295.md']
 confidence: medium
+methods: [quantitative-research]
 institutions: [educational-policy-ai, governance]
 ---
 

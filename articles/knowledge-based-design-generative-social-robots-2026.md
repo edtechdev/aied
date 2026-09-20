@@ -5,8 +5,9 @@ updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring]
+methods: [qualitative-research]
 ethics: [ethics, privacy]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 level: [higher ed]
 sources: ['raw/papers/vonschallen-knowledge-based-gsr-higher-ed-2026.md']
 confidence: high

@@ -6,12 +6,12 @@ type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/mind-the-student-engagement-prediction-2026.md']
 confidence: high
-methods: [ai-ed-evaluation]
+methods: [ai-ed-evaluation, benchmark]
 ---
 
 > **Synthesis:** Predicting [[student-engagement|student engagement]] from online tutoring videos is difficult because engagement is a multidimensional construct comprising behavioral, emotional, and cognitive states, and prediction is complicated by high inter-person variability and the subjectivity of engagement annotation. Kantarci and colleagues develop a [[multimodal]] framework that integrates implicit spatiotemporal features from pretrained video, audio, and image encoders with structured behavioral modalities such as head pose, gaze, facial action units, emotion, and wavelet-based audio features, fused via a Perceiver IO latent bottleneck. Student and instructor personalities are modeled as variational posteriors over learnable embeddings, and evidential regression and spectral-normalized Gaussian process classification heads provide uncertainty-aware prediction. The framework is benchmarked on the CASED challenge test set.

@@ -6,8 +6,8 @@ type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [learning-theories, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, open-source]
+methods: [meta-analysis-systematic-review]
 audience: [researchers, instructors]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/agentic-ai-education-scoping-review-2026.md']
 confidence: high

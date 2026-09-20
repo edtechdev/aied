@@ -6,7 +6,6 @@ type: article
 pedagogy: [help-seeking, self-regulated-learning]
 technology: [llm]
 connected_faqs: [reducing-over-reliance, study-with-ai]
-research_method: [qualitative]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/viberg-efficiency-effectiveness-srl-llm-help-seeking-2026.md']

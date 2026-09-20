@@ -9,10 +9,9 @@ technology: [intelligent-tutoring, personalized-learning]
 research_method: [case study]
 discipline: [stem education]
 level: [k 12, higher ed]
-
 sources: ['raw/papers/2605.05144.md']
 confidence: medium
-audience: [instructors, educators, curriculum designers]
+audience: [instructors, curriculum designers]
 page_kind: [framework]
 ---
 

@@ -10,7 +10,7 @@ assessment: [educational-measurement]
 ethics: [ethics]
 confidence: medium
 research_method: [instrument development, structural equation modeling, survey]
-audience: [instructional designers, educators, researchers]
+audience: [instructional designers, instructors, researchers]
 level: [secondary, higher ed]
 page_kind: [evaluation]
 ---

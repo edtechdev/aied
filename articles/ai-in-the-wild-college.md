@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, learning-analytics, llm]
 stakeholders: [student-experience]
-research_method: [learning analytics]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.29442.md']

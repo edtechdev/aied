@@ -6,10 +6,9 @@ type: article
 pedagogy: [scaffolding]
 technology: [llm]
 assessment: [feedback]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 discipline: [cs education]
 level: [higher ed]
-
 sources: ['raw/papers/2607.21257.md']
 confidence: high
 audience: [instructional designers, researchers]

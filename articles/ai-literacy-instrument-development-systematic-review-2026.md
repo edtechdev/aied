@@ -6,9 +6,9 @@ type: article
 foundations: [ai-literacy]
 assessment: [educational-measurement, self-report-measures, assessment]
 methods: [meta-analysis-systematic-review]
-research_method: [systematic review, instrument development, secondary analysis]
+research_method: [instrument development, secondary analysis]
 level: [higher ed, k 12]
-audience: [researchers, assessment designers, educators]
+audience: [researchers, assessment designers, instructors]
 page_kind: [synthesis]
 sources: ['raw/papers/ai-literacy-instrument-development-systematic-review-2026.md']
 confidence: high

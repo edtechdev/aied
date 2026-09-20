@@ -6,14 +6,14 @@ type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction, well-being]
 technology: [conversational-ai, human-in-the-loop-ai]
-
+methods: [qualitative-research]
 ethics: [ethics, pedagogical-safety]
 connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
 confidence: high
-research_method: [qualitative, interviews, thematic analysis]
-audience: [teachers, educators, policymakers, designers]
-level: [k 12, elementary, secondary]
+research_method: [interviews, thematic analysis]
+audience: [teachers, instructors, policymakers, designers]
+level: [k 12, primary education, secondary]
 ---
 
 > **Synthesis:** Scenario-based interviews with 33 US [[k-12]] teachers found that they welcomed AI companions in academic roles such as tutor and study buddy but worried that intimate companions remove the developmental friction through which adolescents learn to sustain human relationships. Teachers decided whether to intervene less by perceived harm than by jurisdiction, applying three ordered tests — visibility, the academic-versus-relational divide, and a safety override — and described an escalation ladder of whole-class teaching, quiet watching, a private one-on-one conversation, and referral. From their converging accounts the authors introduce **AI companion literacy** as a relational extension of [[ai-literacy]]: knowing that a companion is a program rather than a person, what is safe to disclose, what dependence looks like, and what unmet need lies behind the turn to it. The proposed literacy is shared work across the jurisdictions of counselors, parents, platforms and [[stakeholders|policymakers]], spiralling across grade levels rather than owned by any single [[teacher-role|teacher]].

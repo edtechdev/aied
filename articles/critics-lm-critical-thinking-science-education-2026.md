@@ -11,7 +11,7 @@ sources: ['raw/papers/critics-lm-critical-thinking-science-education-2026.md']
 confidence: medium
 research_method: [position paper]
 discipline: [science education, language learning]
-audience: [researchers, educators, teachers, assessment designers]
+audience: [researchers, instructors, teachers, assessment designers]
 level: [higher ed, secondary]
 ---
 

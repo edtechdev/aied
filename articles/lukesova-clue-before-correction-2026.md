@@ -6,7 +6,7 @@ type: article
 pedagogy: [metacognition, productive-failure, self-regulated-learning]
 technology: [generative-ai]
 assessment: [feedback]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/lukesova-clue-before-correction-2026.md']

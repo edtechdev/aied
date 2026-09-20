@@ -6,9 +6,10 @@ type: article
 foundations: [academic-integrity]
 pedagogy: [learning-theories]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 ethics: [trust]
 connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
-research_method: [mixed methods, survey]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/qu-wang-disclose-or-not-genai-2026.md']
 confidence: high

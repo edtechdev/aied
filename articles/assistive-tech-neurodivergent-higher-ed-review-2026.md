@@ -5,10 +5,10 @@ created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-19T10:16:11-04:00"
 foundations: [limitations-in-aied-research]
 technology: [generative-ai, virtual-and-augmented-reality]
+methods: [meta-analysis-systematic-review, qualitative-research]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 sources: ['raw/papers/assistive-tech-neurodivergent-higher-ed-review-2026.md']
 confidence: high
-research_method: [systematic review, qualitative]
 level: [higher ed]
 audience: [institutions, researchers, instructional designers]
 page_kind: [synthesis]

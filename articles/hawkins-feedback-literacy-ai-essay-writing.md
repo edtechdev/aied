@@ -7,11 +7,11 @@ foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
+methods: [qualitative-research]
 audience: [learners, instructors]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/hawkins-feedback-literacy-ai-essay-writing.md']
 confidence: high
 ---

@@ -6,7 +6,8 @@ weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, feedback-literacy, formative-assessment]
-research_method: [experiment, mixed methods, systematic review]
+methods: [mixed-methods-research, meta-analysis-systematic-review]
+research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 ---

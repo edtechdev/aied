@@ -10,7 +10,6 @@ assessment: [feedback]
 stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
-
 sources: ['raw/papers/metacognitive-training-optimal-cognitive-offloading-2026.md']
 confidence: high
 page_kind: [evaluation]

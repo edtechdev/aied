@@ -6,10 +6,11 @@ type: article
 foundations: [academic-integrity, agency]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
+methods: [design-based-research]
 sources: ['raw/papers/2609.03413.md']
 confidence: high
-research_method: [design-based research, theoretical analysis]
-audience: [educators, instructional designers, researchers]
+research_method: [theoretical analysis]
+audience: [instructors, instructional designers, researchers]
 level: [higher ed]
 page_kind: [framework]
 ---

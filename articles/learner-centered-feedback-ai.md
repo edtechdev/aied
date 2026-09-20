@@ -8,10 +8,9 @@ pedagogy: [scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, rag]
 assessment: [feedback]
 connected_faqs: [ai-feedback-at-scale]
-research_method: [mixed methods, qualitative]
-audience: [instructors, faculty development]
+methods: [mixed-methods-research, qualitative-research]
+audience: [instructors, faculty developers]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
 confidence: high
 ---

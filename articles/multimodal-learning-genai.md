@@ -11,7 +11,7 @@ research_method: [literature review]
 level: [higher ed]
 sources: ['raw/papers/varga-atkins-educators-guide-multimodal-learning-genai-2025.md']
 confidence: high
-audience: [educators, instructional designers, faculty development]
+audience: [instructors, instructional designers, faculty developers]
 ---
 
 > **Synthesis:** The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:

@@ -6,8 +6,8 @@ type: article
 foundations: [academic-integrity]
 technology: [llm]
 assessment: [ai-detection]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 level: [higher ed]
 sources: ['raw/papers/2607.20446.md']
 confidence: high

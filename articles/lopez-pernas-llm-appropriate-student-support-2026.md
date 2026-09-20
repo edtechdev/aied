@@ -5,9 +5,9 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [human-in-the-loop-ai, learning-analytics, llm]
 assessment: [ai-feedback-quality]
+methods: [benchmark]
 ethics: [equity-in-ai-education]
 audience: [software developers]
-research_method: [benchmark]
 level: [higher ed]
 sources: ['raw/papers/lopez-pernas-llm-appropriate-student-support-2026.md']
 confidence: high

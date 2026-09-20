@@ -5,9 +5,9 @@ updated: "2026-09-20T08:08:49-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
-technology: [generative-ai, intelligent-tutoring, llm]
+technology: [generative-ai, intelligent-tutoring, llm, learning-analytics]
+methods: [quantitative-research]
 stakeholders: [student-experience]
-research_method: [learning analytics, quantitative]
 discipline: [writing education, stem education]
 audience: [learners]
 level: [higher ed, k 12]

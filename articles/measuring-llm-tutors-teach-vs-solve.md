@@ -8,10 +8,8 @@ pedagogy: [scaffolding]
 technology: [intelligent-tutoring, learning-analytics, llm]
 assessment: [feedback]
 stakeholders: [student-experience]
-research_method: [benchmark]
 audience: [learners, software developers]
 level: [k 12]
-
 sources: ['raw/papers/2606.16206.md']
 confidence: high
 page_kind: [evaluation, framework]

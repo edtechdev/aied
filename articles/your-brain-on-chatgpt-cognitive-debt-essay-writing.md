@@ -10,7 +10,7 @@ research_method: [experiment]
 sources: ['raw/papers/your-brain-on-chatgpt-cognitive-debt-essay-writing.md']
 confidence: high
 discipline: [writing education]
-audience: [educators, researchers, instructors]
+audience: [researchers, instructors]
 level: [higher ed]
 ---
 

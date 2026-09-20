@@ -15,7 +15,7 @@
 
 export const FACET_VOCAB = {
 
-  // Foundations of AI in education (24 concepts) — registry section: Foundations of AI in education
+  // Foundations of AI in education (25 concepts) — registry section: Foundations of AI in education
   foundations: [
     'academic-integrity',
     'agency',
@@ -35,19 +35,21 @@ export const FACET_VOCAB = {
     'learner-identity',
     'learning-design',
     'limitations-in-aied-research',
-    'misconceptions',
     'philosophy-of-ai-in-education',
     'reducing-ai-misuse',
+    'samr-model',
     'teacher-role',
     'theories-and-frameworks',
     'theory-development-aied',
+    'tpack',
   ],
-  // Learning and instruction (48 concepts) — registry section: Learning and instruction
+  // Learning and instruction (52 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
     'anxiety-and-stress',
     'behaviorism',
+    'career-development-and-readiness',
     'cognitive-psychology',
     'collaborative-learning',
     'community-of-inquiry',
@@ -64,8 +66,10 @@ export const FACET_VOCAB = {
     'inquiry-based-learning',
     'learning-by-teaching',
     'learning-theories',
+    'lifelong-learning',
     'mastery-learning',
     'metacognition',
+    'misconceptions',
     'motivation',
     'online-teaching-and-learning',
     'pedagogical-partnerships',
@@ -74,6 +78,7 @@ export const FACET_VOCAB = {
     'problem-based-learning',
     'problem-solving',
     'productive-failure',
+    'professional-training',
     'project-based-learning',
     'refutation-text',
     'retrieval-spacing-interleaving',
@@ -155,11 +160,12 @@ export const FACET_VOCAB = {
     'self-report-measures',
     'summative-assessment',
   ],
-  // Research methods and evaluation (11 concepts) — registry section: Research methods and evaluation
+  // Research methods and evaluation (12 concepts) — registry section: Research methods and evaluation
   methods: [
     'ai-ed-evaluation',
     'benchmark',
     'design-based-research',
+    'latent-profile-analysis',
     'meta-analysis-systematic-review',
     'mixed-methods-research',
     'network-analysis',
@@ -169,20 +175,16 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // People (12 concepts) — registry section: People
+  // People (8 concepts) — registry section: People
   stakeholders: [
     'administrator',
-    'career-development-and-readiness',
     'educational-technology-developers',
     'learners',
-    'lifelong-learning',
+    'librarians',
     'parents-and-families',
-    'professional-training',
-    'samr-model',
     'stakeholders',
     'student-experience',
     'teacher-ai-competency',
-    'tpack',
   ],
   // Institutions and policy (4 concepts) — registry section: Institutions and policy
   institutions: [

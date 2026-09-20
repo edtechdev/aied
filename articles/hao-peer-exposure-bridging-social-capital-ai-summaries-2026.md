@@ -5,7 +5,7 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 pedagogy: [collaborative-learning, online-teaching-and-learning, scaffolding, student-engagement]
 technology: [generative-ai, llm]
-research_method: [design-based research, mixed methods]
+methods: [design-based-research, mixed-methods-research, network-analysis]
 level: [higher ed]
 audience: [researchers, instructors]
 sources: ['raw/papers/hao-peer-exposure-bridging-social-capital-ai-summaries-2026.md']

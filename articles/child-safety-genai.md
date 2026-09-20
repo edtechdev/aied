@@ -4,11 +4,10 @@ created: "2026-07-02T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [generative-ai, llm, rag]
-
+methods: [benchmark]
 ethics: [equity-in-ai-education, privacy, pedagogical-safety]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [software developers]
-research_method: [benchmark]
 level: [k 12]
 sources: ['raw/papers/2607.00395.md']
 confidence: high

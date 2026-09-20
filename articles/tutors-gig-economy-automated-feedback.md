@@ -10,7 +10,6 @@ research_method: [survey]
 discipline: [language learning]
 audience: [instructors]
 level: [higher ed]
-
 sources: ['raw/papers/2606.22609.md']
 confidence: medium
 page_kind: [evaluation]

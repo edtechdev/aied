@@ -9,7 +9,6 @@ assessment: [assessment-validity, educational-measurement]
 ethics: [hallucination-risk]
 sources: ['raw/papers/frontier-models-physics-benchmark-audit-2026.md']
 confidence: high
-research_method: [benchmark]
 discipline: [physics education, science education]
 audience: [researchers, assessment professionals]
 level: [higher ed]

@@ -7,7 +7,6 @@ foundations: [teacher-role]
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [learning-analytics, machine-learning, visualization]
 ethics: [privacy, trust]
-research_method: [mixed methods]
 audience: [instructors, learning analytics designers]
 sources: ['raw/papers/mejia-domenzain-ml-findings-teachers-blended-2026.md']
 confidence: high

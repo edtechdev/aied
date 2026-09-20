@@ -3,13 +3,14 @@ title: "From simulation to flight: Simulation-assisted drone learning with teach
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+methods: [mixed-methods-research]
 sources: ["raw/papers/simulation-assisted-drone-learning-stem-2026.md"]
 foundations: [teacher-role]
 technology: [generative-ai, intelligent-tutoring, simulation]
 confidence: medium
-research_method: [quasi-experiment, mixed methods]
+research_method: [quasi-experiment]
 discipline: [stem education]
-audience: [educators, curriculum designers, instructional designers]
+audience: [instructors, curriculum designers, instructional designers]
 level: [secondary]
 page_kind: [evaluation]
 ---

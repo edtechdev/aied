@@ -8,7 +8,7 @@ foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai]
 discipline: [stem education]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
 ---

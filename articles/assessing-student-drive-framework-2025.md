@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, learning-analytics]
 assessment: [assessment, authentic-assessment, educational-measurement, formative-assessment]
 audience: [instructors]
-research_method: [educational measurement]
 level: [higher ed]
 sources: ['raw/papers/assessing-student-drive-framework-2025.md']
 confidence: medium

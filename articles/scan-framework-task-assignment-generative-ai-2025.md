@@ -4,13 +4,12 @@ created: "2026-09-18T12:05:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [cognitive-offloading, human-ai-collaboration]
-pedagogy: [metacognition, sociocultural-learning, self-regulated-learning, scaffolding]
+pedagogy: [lifelong-learning, metacognition, professional-training, scaffolding, self-regulated-learning, sociocultural-learning]
 technology: [generative-ai]
 ethics: [ai-sycophancy]
-stakeholders: [professional-training, lifelong-learning]
 research_method: [theoretical analysis]
 level: [higher ed]
-audience: [educators, students]
+audience: [instructors, learners]
 page_kind: [framework]
 sources: ['raw/papers/scan-framework-task-assignment-generative-ai-2025.md']
 confidence: high

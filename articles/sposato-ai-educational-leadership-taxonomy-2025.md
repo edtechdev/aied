@@ -7,7 +7,7 @@ foundations: [ai-education, ai-literacy, educational-development, human-ai-colla
 ethics: [ethics, trust]
 stakeholders: [administrator]
 research_method: [literature review, theoretical analysis]
-audience: [administrators, faculty development]
+audience: [administrators, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/sposato-ai-educational-leadership-taxonomy-2025.md']
 confidence: high

@@ -4,15 +4,14 @@ created: "2026-09-16T00:58:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [agentic-ai, design-thinking]
-pedagogy: [collaborative-learning, creativity, embodied-learning, project-based-learning, student-engagement]
+pedagogy: [collaborative-learning, creativity, embodied-learning, professional-training, project-based-learning, student-engagement]
 technology: [generative-ai, simulation, virtual-and-augmented-reality]
 sources: ['raw/papers/ai-ive-pbl-vocational-design-creativity-2026.md']
 confidence: high
 discipline: [vocational education]
 research_method: [quasi-experiment]
-audience: [educators, instructors, designers, researchers]
+audience: [instructors, designers, researchers]
 level: [higher ed]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** This study proposes and tests an instructional model — **AI-IVE-PBL** — that combines [[project-based-learning|project-based learning]] with an AI-enabled immersive virtual environment ([[virtual-and-augmented-reality|VR]] headsets, a 3D modeling tool, and an [[llm]]-backed AI teaching assistant rendered as a digital human) in a first-year vocational interior design course. The model is specified as four dimensions (teachers, students, agents, teaching phases) driving a five-phase closed loop — discovery, envisioning, modeling, communication, refinement — with *sustained idea-developing discourse* (SIDD) as the cognitive engine. In a 12-week two-group quasi-experiment (63 valid responses; AI-IVE-PBL n = 31 vs. traditional PBL n = 32), the immersive-plus-agent condition raised design ability (η²p = .138) and creative ability (η²p = .111) under ANCOVA, lifted cognitive (d = 0.90) and behavioral (d = 0.75) [[student-engagement|engagement]], raised [[motivation]] (d = 0.74) and satisfaction (d = 0.69), and *lowered* reported [[cognitive-offloading|cognitive load]] (d = −0.52). Two outcomes moved in the hypothesized direction without reaching significance: innovative thinking and [[affective-computing|affective]] engagement. All outcomes are [[self-report-measures|self-report]].

@@ -6,9 +6,9 @@ type: article
 foundations: [computational-thinking]
 pedagogy: [student-engagement]
 technology: [adaptive-learning, learning-analytics]
-assessment: [assessment]
+assessment: [assessment, educational-measurement]
 stakeholders: [student-experience]
-research_method: [secondary analysis, educational measurement]
+research_method: [secondary analysis]
 audience: [learners]
 sources: ['raw/papers/2605.08943.md']
 confidence: high

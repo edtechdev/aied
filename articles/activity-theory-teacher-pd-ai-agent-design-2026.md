@@ -6,7 +6,7 @@ type: article
 foundations: [agentic-ai, teacher-role]
 pedagogy: [activity-theory-aied, self-determination-theory]
 technology: [generative-ai]
-research_method: [design-based research]
+methods: [design-based-research]
 audience: [instructors]
 level: [k 12, adult learning]
 sources: ['raw/papers/2605.12934.md']

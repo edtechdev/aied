@@ -5,7 +5,8 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [collaborative-learning, metacognition, student-ai-interaction]
 technology: [intelligent-tutoring, learning-analytics, llm]
-research_method: [mixed methods, educational measurement]
+assessment: [educational-measurement]
+methods: [mixed-methods-research]
 sources: ['raw/papers/2607.28651.md']
 confidence: high
 audience: [researchers, learning analytics designers]

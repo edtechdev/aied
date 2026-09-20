@@ -9,9 +9,10 @@ technology: [generative-ai]
 ethics: [ai-misuse-learning-harm, equity-in-ai-education]
 sources: ['raw/papers/uneven-impact-generative-ai-student-learning-2026.md']
 confidence: high
-research_method: [survey, quantitative]
+research_method: [survey]
 level: [higher ed]
 audience: [researchers, instructors, administrators]
+methods: [quantitative-research]
 institutions: [educational-policy-ai]
 ---
 

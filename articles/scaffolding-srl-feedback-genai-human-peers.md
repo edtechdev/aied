@@ -8,10 +8,10 @@ pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 assessment: [ai-feedback-quality, feedback, formative-assessment, peer-assessment]
 connected_faqs: [ai-feedback-at-scale]
+methods: [mixed-methods-research]
 audience: [learners, instructors]
-research_method: [mixed methods, quasi-experiment]
+research_method: [quasi-experiment]
 discipline: [writing education]
-
 sources: ['raw/papers/scaffolding-srl-feedback-genai-human-peers.md']
 confidence: high
 level: [higher ed]

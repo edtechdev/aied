@@ -5,9 +5,9 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [educational-robotics]
 assessment: [learning-gains]
+methods: [meta-analysis-systematic-review]
 ethics: [accessibility, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
-research_method: [meta-analysis, systematic review]
 level: [special education]
 sources: ['raw/papers/zhang-ai-students-disabilities-meta-analysis-2024.md']
 confidence: high

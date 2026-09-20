@@ -4,11 +4,11 @@ created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
-pedagogy: [motivation, self-determination-theory]
-stakeholders: [teacher-ai-competency, professional-training]
-research_method: [mixed methods]
-audience: [faculty development]
-level: [secondary, teacher training, higher ed, k 12]
+pedagogy: [motivation, professional-training, self-determination-theory]
+methods: [mixed-methods-research]
+stakeholders: [teacher-ai-competency]
+audience: [faculty developers]
+level: [secondary, teacher education, higher ed, k 12]
 sources: ['raw/papers/10.1080_02619768.2026.2621848.md']
 confidence: high
 page_kind: [framework]

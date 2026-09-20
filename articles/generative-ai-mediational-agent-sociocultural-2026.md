@@ -8,7 +8,7 @@ technology: [generative-ai]
 research_method: [theoretical analysis]
 sources: ['raw/papers/generative-ai-mediational-agent-sociocultural-2026.md']
 confidence: high
-audience: [researchers, educators]
+audience: [researchers, instructors]
 page_kind: [framework]
 ---
 

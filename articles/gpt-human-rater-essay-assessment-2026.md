@@ -5,9 +5,9 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [llm]
 assessment: [assessment, automated-essay-scoring]
+methods: [benchmark]
 ethics: [bias-mitigation]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education, language learning]
 sources: ['raw/papers/gpt-human-rater-essay-assessment-2026.md']
 confidence: high

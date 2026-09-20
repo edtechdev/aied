@@ -10,7 +10,7 @@ research_method: [system development, design and evaluation study]
 discipline: [engineering education, stem education]
 sources: ['raw/papers/mechanical-engineering-ai-curriculum-2026.md']
 confidence: high
-audience: [curriculum designers, instructors, faculty development]
+audience: [curriculum designers, instructors, faculty developers]
 level: [higher ed]
 ---
 

@@ -6,7 +6,6 @@ type: article
 technology: [learning-analytics, llm]
 ethics: [trust]
 audience: [software developers]
-research_method: [benchmark, learning analytics]
 page_kind: [evaluation]
 sources: ['raw/papers/distilling-self-explaining-lm-learning-analytics-2026.md']
 confidence: high

@@ -6,8 +6,8 @@ type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 technology: [generative-ai]
 assessment: [ai-detection, assessment-validity]
+methods: [qualitative-research]
 ethics: [ai-misuse-learning-harm, ethics]
-research_method: [qualitative]
 level: [higher ed]
 sources: ['raw/papers/roe-ai-humanizers-legitimacy-assessment-2026.md']
 confidence: high

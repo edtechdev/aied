@@ -6,12 +6,13 @@ type: article
 foundations: [learning-design]
 pedagogy: [self-efficacy]
 technology: [generative-ai]
+assessment: [educational-measurement]
 stakeholders: [teacher-ai-competency]
-research_method: [survey, educational measurement]
+research_method: [survey]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
 confidence: high
-audience: [teacher educators, faculty development, institutions]
-level: [teacher training, adult learning]
+audience: [teacher educators, faculty developers, institutions]
+level: [teacher education, adult learning]
 ---
 
 > **Synthesis:** This PLS-SEM study of 434 in-service [[teacher-role|teachers]] in the Dominican Republic designs and psychometrically validates an extended [[technology-acceptance-model|Technology Acceptance Model]] (TAM) instrument for assessing teacher digital competence in integrating [[generative-ai|generative AI]] tools into curriculum planning. All 12 hypothesized paths were supported, and **behavioral intention emerged as the main predictor of digital competence** (β = 0.479), with [[self-efficacy]] exerting the largest effect on perceived enjoyment (f² = 1.839). The model demonstrated strong reliability, convergent and discriminant validity, and good explanatory power (BI R² = 0.694; DC R² = 0.230), positioning behavioral intention as a strategic priority for [[teacher-ai-competency]] development.

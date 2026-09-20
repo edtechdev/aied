@@ -8,11 +8,10 @@ pedagogy: [motivation, socratic-method, student-engagement]
 technology: [personalized-learning, rag, technology-acceptance-model]
 sources: ['raw/papers/domain-specific-chatbot-stem-enthusiasm-2025.md']
 confidence: high
-research_method: [randomized controlled trial, quantitative]
-audience: [educators, researchers, instructional designers, edtech designers]
+audience: [instructors, researchers, instructional designers, edtech designers]
 level: [secondary, k 12]
 discipline: [stem education, math education]
-methods: [rct]
+methods: [rct, quantitative-research]
 ---
 
 > **Synthesis:** Rücker and Becker-Genschow (2025) report a cluster-[[rct|randomized controlled trial]] of ADA, a domain-specific [[generative-ai|generative AI]] [[conversational-ai|chatbot]] customized for secondary [[math-education]], compared with conventional differentiation materials in [[stem-education]]. 195 ninth-grade students in German schools worked through the Heron method for estimating square roots in a single lesson with a pre-post assessment. Students accepted ADA strongly on every [[technology-acceptance-model]] dimension and showed significantly higher situational interest in the chatbot condition, while learning performance, emotional responses and cognitive load moved in the expected direction without reaching significance. The authors frame the performance results as trends rather than confirmed gains and conclude that ADA enhanced [[motivation|motivational]] engagement more than immediate achievement.

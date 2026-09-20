@@ -5,8 +5,9 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [online-teaching-and-learning, self-regulated-learning]
 technology: [generative-ai, llm]
+methods: [design-based-research]
 ethics: [global-south, inclusive-learning, multilingual-learning]
-research_method: [system development, design-based research]
+research_method: [system development]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/bilingual-llm-lecture-companion-srl-2026.md']

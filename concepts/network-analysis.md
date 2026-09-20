@@ -4,7 +4,6 @@ created: "2026-08-22T01:40:00-04:00"
 updated: "2026-09-01T12:30:00-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
-research_method: [learning analytics, research methods]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 ---

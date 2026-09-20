@@ -7,7 +7,6 @@ foundations: [agentic-ai]
 pedagogy: [collaborative-learning, community-of-inquiry, scaffolding]
 technology: [pedagogical-agent]
 assessment: [learning-gains]
-research_method: [systematic review]
 sources: ['raw/papers/ba-ai-agents-cscl-review-2026.md']
 confidence: high
 audience: [researchers, instructional designers]

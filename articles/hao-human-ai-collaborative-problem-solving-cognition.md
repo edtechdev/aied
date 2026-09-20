@@ -6,7 +6,8 @@ type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, distributed-cognition, problem-solving, self-regulated-learning]
 technology: [learning-analytics]
-research_method: [mixed methods, survey]
+methods: [mixed-methods-research, network-analysis]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/hao-human-ai-collaborative-problem-solving-cognition.md']
 confidence: high

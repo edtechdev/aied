@@ -10,7 +10,7 @@ ethics: [ethics]
 research_method: [literature review]
 sources: ['raw/papers/10.3389_fpsyg.2026.1827795.md']
 confidence: high
-audience: [researchers, educators]
+audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [synthesis, framework]
 ---

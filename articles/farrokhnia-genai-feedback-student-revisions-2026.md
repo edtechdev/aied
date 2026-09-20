@@ -12,7 +12,7 @@ discipline: [writing education]
 level: [higher ed]
 sources: ['raw/papers/farrokhnia-genai-feedback-student-revisions-2026.md']
 confidence: high
-audience: [instructors, assessment designers, educators]
+audience: [instructors, assessment designers]
 ---
 
 > **Synthesis:** Farrokhnia et al. (2026) run a randomized three-group experiment with 70 university students to compare teacher feedback against ChatGPT feedback produced with two prompting techniques — Zero-shot and chain-of-thought (CoT) — for argumentative essay writing in Persian. They find that CoT prompting yields significantly higher-quality feedback than both Zero-shot prompting and a human teacher, but that this quality advantage does not translate into greater essay revision gains. Teacher feedback, rated lower in quality, produces comparable improvement in revised essays. The authors conclude that feedback quality alone is insufficient; students' [[student-engagement|engagement]] with and uptake of feedback are the decisive factors, motivating a hybrid model in which teachers help students interpret and apply [[generative-ai|GenAI]] feedback.

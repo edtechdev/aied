@@ -7,11 +7,11 @@ foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai, llm]
 assessment: [feedback]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [theoretical analysis, benchmark]
+research_method: [theoretical analysis]
 audience: [learners, instructors]
 level: [higher ed]
-
 sources: ['raw/papers/2607.08009.md']
 confidence: high
 page_kind: [framework, evaluation]

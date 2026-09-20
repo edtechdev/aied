@@ -9,7 +9,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/ensemble-cognition-philosophy-ai-education.md']
 confidence: high
-audience: [researchers, educators]
+audience: [researchers, instructors]
 page_kind: [framework]
 ---
 

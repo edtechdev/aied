@@ -9,7 +9,7 @@ assessment: [assessment, assessment-validity]
 research_method: [theoretical analysis]
 sources: ['raw/papers/coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene.md']
 confidence: high
-audience: [assessment designers, assessment professionals, educators]
+audience: [assessment designers, assessment professionals, instructors]
 level: [higher ed]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
