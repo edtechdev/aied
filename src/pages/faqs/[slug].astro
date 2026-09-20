@@ -5,6 +5,7 @@ import SourceButtons from '../../components/SourceButtons.astro';
 import JsonLd from '../../components/JsonLd.astro';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
+import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
 export async function getStaticPaths() {
@@ -113,23 +114,16 @@ if (connectedResources.length > 0) {
       <Fragment set:html={rendered.html} />
     </div>
 
-    {connectedResources.length > 0 && (
-      <section style="margin-top:2.5rem;" id="connected-resources">
-        <h2>Connected Resources</h2>
-        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
-          {connectedResources.map(r => (
-            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
-              <a href={`/aied/resources/${r.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
-                🧰 {r.data.title}
-              </a>
-              {r.data.summary && (
-                <div style="color:var(--muted-color);font-size:0.9rem;margin-top:0.2rem;">{r.data.summary}</div>
-              )}
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
+    <ConnectedList
+      id="connected-resources"
+      heading="Connected Resources"
+      items={connectedResources.map((r: any) => ({
+        href: `/aied/resources/${r.id.replace('.md', '')}/`,
+        title: r.data.title,
+        kind: 'resource' as const,
+        summary: r.data.summary,
+      }))}
+    />
 
     <MetadataTable conceptTitles={conceptTitles} data={faq.data} />
     <SourceButtons filePath={`faqs/${faq.id}.md`} />

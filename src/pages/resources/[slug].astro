@@ -13,6 +13,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
+import ConnectedList from '../../components/ConnectedList.astro';
 import { renderMarkdown } from '../../lib/markdown';
 
 export async function getStaticPaths() {
@@ -114,38 +115,26 @@ const pagefindFilterPairs: string[] = metaFields
       <Fragment set:html={rendered.html} />
     </div>
 
-    {connectedResources.length > 0 && (
-      <section style="margin-top:2.5rem;" id="connected-resources">
-        <h2>Connected Resources</h2>
-        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
-          {connectedResources.map(r => (
-            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
-              <a href={`/aied/resources/${r.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
-                🧰 {r.data.title}
-              </a>
-              {r.data.summary && (
-                <div style="color:var(--muted-color);font-size:0.9rem;margin-top:0.2rem;">{r.data.summary}</div>
-              )}
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
+    <ConnectedList
+      id="connected-resources"
+      heading="Connected Resources"
+      items={connectedResources.map((r: any) => ({
+        href: `/aied/resources/${r.id.replace('.md', '')}/`,
+        title: r.data.title,
+        kind: 'resource' as const,
+        summary: r.data.summary,
+      }))}
+    />
 
-    {connectedFaqs.length > 0 && (
-      <section style="margin-top:2.5rem;" id="connected-faqs">
-        <h2>Connected FAQs</h2>
-        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
-          {connectedFaqs.map(f => (
-            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
-              <a href={`/aied/faqs/${f.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
-                ❓ {f.data.title}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </section>
-    )}
+    <ConnectedList
+      id="connected-faqs"
+      heading="Connected FAQs"
+      items={connectedFaqs.map((f: any) => ({
+        href: `/aied/faqs/${f.id.replace('.md', '')}/`,
+        title: f.data.title,
+        kind: 'faq' as const,
+      }))}
+    />
 
     <MetadataTable conceptTitles={conceptTitles} data={resource.data} />
     <SourceButtons filePath={`resources/${resource.id}.md`} />

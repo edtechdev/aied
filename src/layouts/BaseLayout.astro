@@ -346,6 +346,45 @@ const recentConceptItems = recentConcepts.map(c => ({
     }
     /* Prevent the dark anti-flash background from leaking into light mode. */
     html[data-theme=light] { background-color: var(--background-color); }
+    /* === Connected lists (page-footer sections) ===
+       Two sources render these lists: markdown bodies ("## Connected Concepts",
+       "## Connected Articles" — the pipeline adds .connected-list) and templates
+       (Connected FAQs/Resources via ConnectedList.astro). Both mark each item
+       with a page-type icon instead of a bullet, and each icon is an inline
+       Lucide SVG (src/lib/pageTypeIcons.ts) rather than an emoji, so it takes
+       its colour from the theme instead of the emoji font. */
+    :global(.connected-list) {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0 0;
+    }
+    :global(.connected-list > li) {
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--card-border-color);
+    }
+    :global(.connected-list > li > a) {
+      font-weight: 500;
+      color: var(--primary);
+      text-decoration: none;
+    }
+    :global(.connected-list > li > a:hover) {
+      text-decoration: underline;
+    }
+    :global(.page-type-icon) {
+      display: inline-block;
+      vertical-align: -0.15em;
+      margin-right: 0.4rem;
+      color: var(--muted-color);
+    }
+    :global(a:hover > .page-type-icon),
+    :global(.connected-list > li > a:hover .page-type-icon) {
+      color: var(--primary);
+    }
+    :global(.connected-summary) {
+      color: var(--muted-color);
+      font-size: 0.9rem;
+      margin-top: 0.2rem;
+    }
     /* === Embed mode (?embed): strip all site chrome and show only content. ===
        [data-embed] is set on <html> by a head script when the URL carries
        ?embed. Hide the header, both sidebars/rail, nav, footer, the page-meta

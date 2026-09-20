@@ -1,0 +1,44 @@
+---
+/**
+ * A "Connected …" section at the foot of a page — the FAQ and resource lists
+ * that come from frontmatter (Connected Concepts / Connected Articles are
+ * markdown sections instead, and get their icons in src/lib/markdown.ts).
+ *
+ * Each item carries its page-type icon rather than an emoji or a bullet, so the
+ * list reads as a set of typed destinations. Styling lives in BaseLayout's
+ * global styles under ".connected-list" / ".page-type-icon".
+ */
+import PageTypeIcon from './PageTypeIcon.astro';
+import type { PageKind } from '../lib/pageTypeIcons';
+
+export interface ConnectedItem {
+  href: string;
+  title: string;
+  kind: PageKind;
+  summary?: string;
+}
+
+interface Props {
+  id: string;
+  heading: string;
+  items: ConnectedItem[];
+}
+
+const { id, heading, items } = Astro.props;
+---
+{items.length > 0 && (
+  <section style="margin-top:2.5rem;" id={id}>
+    <h2>{heading}</h2>
+    <ul class="connected-list">
+      {items.map((item) => (
+        <li>
+          <a href={item.href}>
+            <PageTypeIcon kind={item.kind} />
+            {item.title}
+          </a>
+          {item.summary && <div class="connected-summary">{item.summary}</div>}
+        </li>
+      ))}
+    </ul>
+  </section>
+)}
