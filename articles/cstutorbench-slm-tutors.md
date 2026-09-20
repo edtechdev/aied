@@ -1,7 +1,7 @@
 ---
 title: "CSTutorBench: Benchmarking Small Language Models as Tutors for Block-Based Programming"
 created: "2026-07-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -25,6 +25,20 @@ methods: [benchmark]
 - **Depth gap:** Models ace surface tone but leak answers and ignore debugging history — aligning with [[ai-tutor-behavioral-evaluation]] concerns.
 - **Family over size:** Instruction-tuning and model family beat raw parameter count, refining [[cs-education]] tutor selection.
 - **[[prompt-engineering]] leverage:** A rubric-grounded prompt revision lifted 10/11 models, echoing [[scaffolding]] practice.
+
+## What this means for practice
+
+- **Designers.** Benchmark candidate models on the target tutoring domain before deployment: across 11 models (4B–120B parameters), models met surface criteria such as vocabulary and tone but struggled to avoid answer leakage and to engage with student debugging histories.
+- **Designers.** Do not select by parameter count: an 8B model reached 77% while qwen3-coder at 30B scored 52%.
+- **Designers.** Spend a [[prompt-engineering]] iteration before discarding a model: the rubric-grounded prompt revision improved 10 of 11 models, by 6.6 to 16.2 percentage points (mean 11.2).
+- **Instructors.** Ask for criterion-level results rather than aggregate scores, because the revision mainly lifted the four type-specific criteria while accuracy and actionability moved little.
+
+## Limitations
+
+- The benchmark contains only 17 questions, and builds_on_success is scored on a single question, which limits the precision of the per-criterion comparisons.
+- The revised prompt was written in response to the first prompt's weaknesses and tested on the same 17 questions with no held-out subset, so the reported gains may conflate improvement with overfitting.
+- Every item is single-turn, so the benchmark cannot capture the multi-turn dialogue of real tutoring, and no students were evaluated — higher rubric scores may not predict learning outcomes.
+- The automated judge (Claude Sonnet 4) showed instancing inconsistency, varying how it weighted or combined criteria across model-trial combinations.
 
 ## Connected Concepts
 

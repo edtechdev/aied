@@ -1,7 +1,7 @@
 ---
 title: "The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy"
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 technology: [generative-ai, llm, rag]
@@ -18,6 +18,20 @@ confidence: high
 Rasch analysis of n=158 GenAI-literacy self-assessments reveals students show an inverted skill profile (mastering creation before conceptual foundations), weak correlation with academics (r=0.188); a skill bypass gives fragile fluency where prompting self-efficacy masks low AI-mechanics literacy, arguing against one-size-fits-all curricula.
 
 This work connects to core knowledge base themes: [[ai-literacy]] [[higher-ed]] [[cognitive-offloading|Over-Reliance]] [[generative-ai]] [[educational-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
+
+## What this means for practice
+
+- **Faculty developers.** Diagnose skill profiles before assigning modules: the difficulty order of skills correlated only weakly between students and academics (r = 0.188), so one shared induction sequence will misplace one cohort.
+- **Faculty developers.** Replace the linear literacy ladder with modular, diagnostic-driven interventions that let learners skip foundations they already hold.
+- **Administrators.** Read confident prompting as a warning sign rather than evidence of literacy — the inverted student profile self-reports "Create"-level work before foundational AI mechanics.
+- **Faculty developers.** Assess AI mechanics separately from prompt-writing confidence so a fragile sense of fluency becomes visible before learners rely on it.
+
+## Limitations
+
+- The analysis rests on 158 self-assessment responses (98 students, 34 academics, 26 professional staff), and the authors acknowledge the small sample size.
+- The instrument measures self-perceived ability, which the authors note does not always equate to performance.
+- Because Differential Item Functioning needs larger samples for adequate power, the study used deterministic Guttman ordering instead, reporting uncertainty through 95% confidence intervals on subgroup item-difficulty rank correlations.
+- Responses cover a 4-level × 7-item instrument, and the authors report low internal consistency and variance in person-fit across the population.
 
 ## Connected Concepts
 
