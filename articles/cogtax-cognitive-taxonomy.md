@@ -1,7 +1,7 @@
 ---
 title: "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education"
 created: "2026-07-02T04:33:04-04:00"
-updated: "2026-09-16T17:12:13-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, rag]
@@ -21,9 +21,20 @@ page_kind: [framework]
 
 - Proposes CogTax, a four-level cognitive taxonomy for command-line computing education that integrates Bloom's Revised Taxonomy with operational impact dimensions, achieving 89% accuracy in automated classification.
 
-## Connections to AI in Education
+## What this means for practice
 
-This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+- **Instructors.** Audit an existing command bank for level distribution before teaching with it, so the cognitive depth of the assessment is explicit rather than assumed.
+- **Instructors.** Give students immediate feedback on the complexity level of commands they meet in documentation or online resources, and flag higher-level commands for additional [[scaffolding]].
+- **Assessment designers.** Calibrate item difficulty across the four levels instead of treating all command-line tasks as comparable; the classifier agrees with expert labels on 89% of held-out commands.
+- **Assessment designers.** Graduate accommodations by taxonomy level — for example, longer time extensions for higher-level commands — rather than granting one blanket extension.
+- **Instructors.** Keep pedagogical oversight of whatever the classifier automates, using its level labels to sequence content and target support rather than as a substitute for instructional judgment.
+
+## Limitations
+
+- The evaluation rests on 585 Linux/bash commands in a single language and environment: 117 authentic exam commands held out for testing and 468 synthetic commands written by three computer science professors.
+- The training partition was deliberately balanced across levels (L1 143, L2 151, L3 144, L4 147), which the authors note contrasts with the naturally skewed distributions of real educational contexts where introductory commands predominate.
+- Cross-language transfer to PowerShell, SQL, or other command-line systems is untested; the authors list empirical validation of the generalization hypothesis as future work.
+- The structural branch reads abstract syntax trees only, so it cannot separate commands with identical syntax but different operational meaning — the principal limitation of purely syntactic analysis.
 
 ## Connected Concepts
 

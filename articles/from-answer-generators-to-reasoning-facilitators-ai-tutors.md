@@ -1,7 +1,7 @@
 ---
 title: "From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -31,9 +31,20 @@ page_kind: [framework]
 
 The study contributes a broader framework for educational AI called the **Reasoning-Centered Product Loop**, organized around orienting learners' cognitive investment — making answer access an entry point into reasoning rather than an endpoint — and visualizing to coordinate mental models across representations. Its goal is to structurally support the inspection, local repair, [[curriculum-design|curriculum]] verification, and delayed retrieval of mathematical reasoning "in the wild."
 
-## Implications for AI in Education
+## What this means for practice
 
-The findings push back on the assumption that withholding answers is always the right tutoring strategy: in time-pressured settings, the final answer can help students decide whether to invest effort in self-explanation, error search, or full solution reading. The design question is how to make answer access an entry point into reasoning rather than an endpoint — a principle that generalizes beyond high-stakes exam preparation to [[scaffolding]]-oriented [[intelligent-tutoring|AI Tutoring]] design more broadly.
+- **Instructors.** Make the final answer quickly available in time-pressured settings and treat it as a decision point, since students repurposed answer-first shortcuts as checkpoints for deciding whether to self-explain, search for an error, or read the full solution.
+- **Instructors.** Verify that generated methods stay inside the syllabus, blocking advanced vector-based or calculus approaches that junior-high students preparing for the Zhongkao cannot use in the exam.
+- **Instructors.** Add step-specific affordances such as "Explain this step" and "Simpler method," and coordinate the diagram with the text so auxiliary lines highlight as each step appears — these lowered the interaction cost of reasoning repair.
+- **Instructors.** Segment captured problems by knowledge point into a wrong-book and schedule the review for weekends, converting immediate transfer tasks into spaced [[metacognition|metacognitive]] practice.
+- **Learners.** Use an answer-first check to decide whether a problem deserves full effort, then repair the specific step that failed instead of re-reading the whole [[scaffolding|scaffolded]] solution.
+
+## Limitations
+
+- The field deployment lasted only 12 calendar days, so novelty or Hawthorne effects may explain some usage rather than stable learning behavior.
+- Only 12 junior-high students participated: all 12 contributed telemetry, 10 completed interviews, and 8 completed contextual observations — enough for formative analysis, not for population-level claims.
+- A system-reliability incident on May 20 and 21 left no started solve completed, depressing the 56.4% solve-completion funnel, so that figure mixes user behavior with system stability.
+- The evidence covers interaction behavior and perceived reasoning support, not measured learning gains; the authors call for pre/post assessments and delayed transfer tasks.
 
 ## Connected Concepts
 
