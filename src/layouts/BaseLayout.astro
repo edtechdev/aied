@@ -19,6 +19,7 @@ const { title = siteConfig.name, description = siteConfig.name, hideHeaderSearch
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
 const faqs = await getCollection('faqs');
+const resources = await getCollection('resources');
 
 // slug -> title lookup (only existing concepts render links)
 const conceptMap: Record<string, string> = {};
@@ -63,6 +64,7 @@ const recentPages = [
   ...articles.map(a => ({ kind: 'article' as const, entry: a })),
   ...concepts.map(c => ({ kind: 'concept' as const, entry: c })),
   ...faqs.map(f => ({ kind: 'faq' as const, entry: f })),
+  ...resources.map(r => ({ kind: 'resource' as const, entry: r })),
 ]
   .filter(p => p.entry.data.created)
   .sort((a, b) => (b.entry.data.created || '').localeCompare(a.entry.data.created || ''))
@@ -84,10 +86,11 @@ const recentConcepts = concepts
   .slice(0, 15);
 
 // Formatted item arrays for the RecentActivity component
-const SECTIONS: Record<'article' | 'concept' | 'faq', string> = {
+const SECTIONS: Record<'article' | 'concept' | 'faq' | 'resource', string> = {
   article: 'articles',
   concept: 'concepts',
   faq: 'faqs',
+  resource: 'resources',
 };
 const recentPageItems = recentPages.map(p => ({
   kind: p.kind,
@@ -603,16 +606,20 @@ const recentConceptItems = recentConcepts.map(c => ({
       button.theme-toggle {
         border-radius: 8px;
       }
+      /* The toolbox icon (added 2026-09-20) pushed the theme toggle off the right
+         edge of an Android phone screen. FAQ is the icon to drop: the toolbar
+         cannot spare search, journal or the toolbox, and FAQ stays one tap away
+         in the sidebar's FAQ tab, the footer nav and the /faq page itself. */
+      .header-icons .header-icon[title="FAQ"] { display: none; }
     }
 
     /* Tablet / narrow-desktop (640–1023px): the full title + search field +
-       7 icons don't fit on one row, so the title truncates and the theme button
-       overflows. The search box ("Ctrl K") and the two least-essential icons
-       (RSS + GitHub) are desktop-only (≥1024px); drop them here too. */
+       icons don't fit on one row, so the title truncates and the theme button
+       overflows. The search box ("Ctrl K") and the least-essential icon (RSS)
+       are desktop-only (≥1024px); drop them here too. */
     @media (max-width: 1023px) {
       .header-search { display: none; }
-      .header-icons .header-icon[title="RSS feed"],
-      .header-icons .header-icon[title="GitHub repository"] { display: none; }
+      .header-icons .header-icon[title="RSS feed"] { display: none; }
     }
 
     main {
