@@ -21,6 +21,21 @@ page_kind: [framework]
 
 The framework emphasizes [[equity-in-ai-education|cultural contextualization]] of AI tools, community-driven problem identification, and [[student-experience|student-centered]] design processes. Relevant to [[higher-ed|higher education]] contexts seeking to integrate [[ai-education|AI education]] with socially meaningful projects.
 
+## What this means for practice
+
+- **Instructors.** Sequence community-engaged AI design as three explicit events rather than an open-ended project: Week 3 field co-design at the museum partner, Week 4 alignment of proposals with named UN Sustainable Development Goals (the project used SDG 4, SDG 8, SDG 11 and SDG 17), and Week 7 mutual validation in front of community partners, staff and peers.
+- **Instructors.** Recruit community partners as co-designers with a defined role — the museum contributed three bilingual (Mandarin/English) educators — so that validation criteria come from the community rather than from the course rubric.
+- **Learners.** Design for the partner's real audience and constraints: the students shipped a bilingual, high-contrast [[culturally-relevant-pedagogy|culturally contextualized]] interface because the museum's audiences read Chinese and English and included visitors needing accessibility support.
+- **Instructors.** Treat learners as knowledge producers by releasing [[collaborative-learning|student work]] as open-source artifacts and giving students a stated authorial role, which moved them from "data sources" to co-authors analyzing their own learning.
+- **Administrators.** Keep human review in the loop for any AI-generated output that reaches the public or a partner, since the reported workflow assumes systematic review of AI outputs by the project team.
+
+## Limitations
+
+- The evidence is a bounded case study of just 2 undergraduate students — the first two authors of the paper — so the researchers are also the participants, and the account of their agency is partly self-report.
+- All design claims come from a single 7-week course section, one museum partner, and one interdisciplinary Computation and Design major at one university in China, even though the course cap is N = 18 students drawn from three divisions.
+- The authors claim analytical rather than statistical generalization, and name multi-site and longitudinal validation as future work; as a single-site pilot, generalizability is unestablished.
+- Only three museum educators acted as community partners and the prototype was validated through participatory feedback at Week 7 rather than through comparative evaluation against human-only baselines, which the authors also list as outstanding.
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]

@@ -27,9 +27,20 @@ page_kind: [evaluation]
 
 **Challenges:** Limited accuracy and [[cognitive-offloading|Over-Reliance]] emerged as the most pressing concerns. While an overwhelming majority valued [[ethics|ethical considerations]], only slightly more than half were satisfied with [[privacy]] protections. Students favored partial or optional GenAI integration into curricula.
 
-## Implications
+## What this means for practice
 
-The study highlights the need for [[higher-ed]] institutions to develop nuanced policies that balance GenAI's potential benefits against risks of over-reliance and [[assessment-validity|assessment validity]]. Disciplinary differences suggest that [[educational-development]] programs should tailor guidance to specific fields rather than adopting one-size-fits-all approaches.
+- **Learners.** Treat GenAI as an entry point rather than an endpoint: nearly 70% reported high or very high willingness to use it for initial exploration of innovation-related problems, and more than half used it for research proposal development and brainstorming, so reserve interpretive judgment and argument construction for yourself.
+- **Learners.** Check output against sources before building on it: limited accuracy was the most cited challenge (81.42%), 67.10% reported encountering inaccurate information frequently or very frequently, and only a further 31.04% encountered it occasionally.
+- **Learners.** Monitor how your own thinking changes: 65.03% reported increased active-learning motivation but 12.57% reported a decline, and views on independent thinking split between 22.08% significant improvement and 34.21% improvement against 23.39% decline and 2.73% significant decline — build tool-free stretches into writing and analysis work.
+- **Administrators.** Tailor guidance by discipline instead of issuing one-size-fits-all policy: 65.68% agreed GenAI aligns with their discipline while 31.26% were neutral, and privacy satisfaction was divided (56.94% satisfied, 37.27% neutral, 5.80% dissatisfied), pointing to field-specific [[educational-development|faculty development]] rather than a single institution-wide mandate.
+- **Administrators.** Repair [[assessment-validity|assessment validity]] before reading reported gains as learning: a notably larger majority reported academic performance gains, but the authors caution these may partly reflect conventional [[assessment]] practices that cannot distinguish AI-assisted from independent work, making nuanced [[academic-integrity]] policy a prerequisite rather than an afterthought.
+
+## Limitations
+
+- Self-report is the only outcome measure and the authors expect bias in both directions — students may over- or under-estimate the learning benefits of AI use — while the exclusive use of one anonymized questionnaire constrained interpretive depth.
+- The sample is imbalanced: of 915 valid respondents, 736 were female (80.44%) and education-related majors accounted for 48.31%, which limits external validity and the precision of the gender and cross-discipline contrasts.
+- No causal or longitudinal claim is supportable: the comparisons across groups with different durations of GenAI use were between different participants, so the design cannot capture within-individual change over time.
+- Coverage limits: roughly 1000 responses collected anonymously in January 2025 through Wenjuanxing were reduced to 915 valid [[humanities-education|HSS]] responses, and discipline-level analysis was restricted to four fields (education, economics and management, arts, and law) because of sample-size limits.
 
 ## Connected Concepts
 

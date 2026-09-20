@@ -20,6 +20,21 @@ Key findings highlight that [[equity-in-ai-education|equity-oriented]] [[ai-educ
 
 The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[educational-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and [[accessibility]] over technical depth.
 
+## What this means for practice
+
+- **Faculty developers.** Anchor every activity in local, concrete material instead of abstract technical explanation: an image-spotting game using local landmarks and sports teams drew strong engagement, and attendees identified AI-generated images correctly in 82% of responses.
+- **Faculty developers.** Design the event around participation-driven logistics — timing, location, hybrid access, transportation and room arrangement — because one session reached 48 attendees in person and 6 virtually only through active facilitation and accessibility support.
+- **Learners.** Say your concern out loud in the room even if it feels unresolved: pre-session worries about privacy (21 of 28, 75%) and technology companies' ability to self-regulate (26 of 35, 76%) persisted afterwards, but became more specific and actionable.
+- **Faculty developers.** Present AI as neither only beneficial nor only harmful and surface the tension directly: the session left underlying concerns intact while taking the share answering "don't know/not familiar enough to say (about AI)" from 23% (8 of 35) in the pre-survey to 0% (0 of 24) in the post-survey.
+- **Faculty developers.** Treat interactive polls as a scaffold for discussion rather than an assessment, and follow the [[lifelong-learning|adult learning]] principle of building on what attendees already know rather than starting from technical mechanisms.
+
+## Limitations
+
+- Single-site case study: one [[educational-development|education]] session in a predominantly African American community on the east side of one Midwestern city, with 54 attendees (48 in person and 6 virtual), so no claim about other communities or about repetition over time is supported.
+- Response coverage was partial and self-reported: 37 of the 54 attendees completed the pre-survey and roughly 22-25 completed the post-survey depending on the question, and only 25 participants provided demographic information.
+- The sample skews older than typical adult learners: 22 participants reported ages, and 17 of them were 55 or above; prior schooling ranged from 10 with college-level education and 8 with some college to 6 with a high school education or less.
+- Interpretations may reflect the research team's own commitments: the authors acknowledge their commitments, expertise and relationships shaped the analysis, and the senior author, who also served as PI, has maintained decade-long collaborative relationships with both community partners.
+
 ## Connected Concepts
 
 - [[adult-learning]]

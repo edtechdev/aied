@@ -32,9 +32,19 @@ methods: [benchmark]
 
 The diagnostic exploits the fact that public tutoring benchmarks (MathTutorBench, TutorBench) score models on multiple rubrics. By separating rubric items into solving-oriented and pedagogy-oriented composites, the authors compute a per-model gap that reveals whether a model's benchmark standing reflects [[teacher-role|teaching]] quality or merely answer production. The correlational analysis across eight models quantifies how partially aligned the two dimensions are, while the rubric analysis identifies which specific behaviors — guiding questions, calibrated hints, non-disclosive scaffolding — benchmarks already reward.
 
-## Implications for AI in Education
+## What this means for practice
 
-For the [[benchmark]] community and for AI tutor deployment, the findings argue for **reporting solving-oriented and pedagogy-oriented scores separately** and for making disclosure-sensitive, student-agency-preserving criteria more explicit. A model that tops a solving leaderboard should not be assumed to be a good tutor; evaluation infrastructure must measure learning support directly. This connects to [[scaffolding]] and to the design of [[intelligent-tutoring|AI Tutoring]] systems where the goal is not the fastest answer but durable student understanding.
+- **Learners.** Judge a tutor on how it teaches rather than how well it answers: across eight publicly reported models the correlation between solving-oriented and pedagogy-oriented composite scores was only r = 0.421.
+- **Learners.** Look for the behaviors that tutoring rubrics already reward — guiding questions, calibrated hints, and non-disclosive scaffolding that preserves your agency — rather than a tool that produces the fastest complete answer.
+- **Software developers.** Report solving-oriented and pedagogy-oriented scores separately on tutoring leaderboards instead of a single aggregate helpfulness figure, and re-check a model shortlist under pedagogy-oriented rubrics, because several models shift meaningfully in rank between the two evaluations.
+- **Software developers.** Add a disclosure-sensitive dimension that penalizes giving away full solutions where the learner context calls for scaffolding; the diagnostic requires no new data collection and runs on rubric items that public [[benchmark|benchmarks]] such as MathTutorBench and TutorBench already publish.
+
+## Limitations
+
+- The analysis measures no downstream student outcomes, so it cannot be read as evidence that one model causes better learning than another.
+- The MathTutorBench reanalysis covers only eight public models, which the authors call statistically fragile for the reported Pearson correlation; r = 0.421 is presented as a descriptive diagnostic with leave-one-out robustness rather than a population estimate.
+- The TutorBench analysis rests on a 30-example public sample and a deterministic metadata mapping rather than independent human coders, so it should be read as an auditable heuristic characterization of public rubric priorities, not a validated annotation study.
+- Because the work analyzes public artifacts rather than raw generations, it does not directly measure answer disclosure turn by turn, and its claims depend on benchmark design choices — different task groupings or alternative rubrics could change the reported gaps.
 
 ## Connected Concepts
 

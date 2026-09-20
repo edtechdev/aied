@@ -31,9 +31,19 @@ confidence: high
 
 The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre = 199, Npost = 136)** from two co-educational government schools who participated in a one-day AI literacy workshop. Statistical regression methods controlling for year level and school were used to examine gender differences in AI literacy, safety awareness, and STEM career aspirations before and after the intervention.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[k-12]] [[ai-literacy]] curricula, the findings support **gender-responsive [[curriculum-design|curriculum design]]**: [[student-engagement|engagement]] patterns differ by gender before instruction — females already using AI for schoolwork, males more engaged with deepfake content — so safety education and career aspiration support should be differentiated rather than uniform. The partial narrowing of the STEM career gap after a single-day intervention suggests short, well-designed workshops can be an effective [[equity-in-ai-education]] lever in [[stem-education]], while the deepfake findings point to a concrete safety target for male students.
+- **Instructors.** Treat the one-day workshop as an equity lever but schedule follow-up: female students showed significant gains in AI and computer science career interest while male interest remained static, yet neither group's average response reached the "interested" level across all three career domains.
+- **Instructors.** Aim deepfake safety education explicitly at male students and cover the ethics of sharing synthetic media: males were more likely to have shared deepfake content (23.2% vs. 10.0%), while female students were more likely to have reported deepfakes (14.1% vs 24.0%).
+- **Instructors.** Differentiate the workshop instead of delivering it uniformly, because entry behavior already diverges: female students were significantly more likely to use AI for schoolwork and to seek advice from AI tools, and male students reported significantly higher STEM career interest.
+- **Researchers.** Disaggregate workshop outcomes by gender in [[k-12]] [[ai-literacy]] evaluations: results that are not disaggregated hide the gender-differentiated pattern found here.
+
+## Limitations
+
+- The sample is two regional, co-educational government schools in New South Wales; single-sex schools and Year 9 were excluded to avoid a gender-school confound, which limits generalizability.
+- Attrition between waves was large: Npre = 199 against Npost = 136, with straight-line responses removed (npre = 5, npost = 9) and students with nonbinary, declined, or other gender labels excluded at n ≤ 9.
+- Surveys were administered anonymously on paper and could not be paired, so the reported gains are group-level and may be subject to self-reporting bias.
+- The deepfake measure was a multi-select item that did not differentiate benign from harmful content such as sexualised imagery, so the male-sharing rate mixes both.
 
 ## Connected Concepts
 

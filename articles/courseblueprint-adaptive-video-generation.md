@@ -16,6 +16,21 @@ page_kind: [framework]
 
 > **Synthesis:** Islam et al. (2026) address a core limitation of generative text-to-video for education: while visually fluent, such systems lack [[pedagogy|pedagogical]] content knowledge (PCK). CourseBlueprint provides a structured pipeline producing adaptive pedagogical videos grounded in a course corpus (undergraduate biomedical-imaging course BMED 2300, 23 lectures, 1,116 slides). The pipeline includes four components with typed intermediate representations and validation: a scaffolding module with prerequisite concept graphs, an adaptive controller assigning style specifications per learner persona, an [[student-engagement|engagement]] generator using a fixed rhetorical contract (hook→retrieval→core→analogy→forward contract), and a deterministic slide-image override mechanism. Ablation results show removing the engagement contract crashes the engagement score from 5.00 to 1.20. The slide override converts a 0/9 corpus-grounding failure into 9/10 successful matches. This work demonstrates that [[generative-ai]] for education needs explicit pedagogical structure — not just fluency — and connects to [[scaffolding]], [[personalized-learning]], and [[generative-ai]] [[research-methods-aied|research]] in [[higher-ed]].
 
+## What this means for practice
+
+- **Designers.** Ground generation in a real course corpus instead of the model's pedagogical content knowledge alone. The pipeline indexes twenty-three lectures and 1,116 slides from BMED 2300 so each retrieved unit links a textual explanation to a specific instructor slide image.
+- **Designers.** Make engagement an explicit typed contract rather than an instruction to "be more engaging": removing the engagement contract crashed the engagement score from 5.00 to 1.20, while the hook→retrieval→core→analogy→forward structure held the score up.
+- **Designers.** Add a deterministic override for slide reuse. When retrieval confidence is high, reusing the instructor slide converted a 0/9 corpus-eligible-slide failure into 9/10 successful matches on the same topic.
+- **Designers.** Resolve prerequisites before generation. The scaffolding module builds a prerequisite concept graph, applies a cycle-break algorithm, and colors nodes by stage so the build chain (simple back-projection → blurring → filtering → filtered back-projection) is validated rather than left to the generator.
+- **Designers.** Decide the accuracy-cost trade-off deliberately: the optional verifier is disabled in the reported experiments, so factual correctness is supported by retrieval but not independently verified, and enabling it is the cheaper fix than regenerating video.
+
+## Limitations
+
+- The evaluation covers ten generated videos from five in-corpus topics and a single learner persona, so it cannot establish robustness across learner profiles or topic types; out-of-corpus topics fall back to placeholder slides and lose the course-grounding benefit entirely.
+- No human learners were measured. The authors state this limits any claim about learning effectiveness and describe a planned within-subjects study with n=20 undergraduate biomedical-engineering students, Latin-square topic ordering, and 5-point Likert ratings per PCK dimension as the next step.
+- The judge is drawn from the same model family as the generator, which raises self-preference risk; the reported within-judge variance is small (σ̄=0.063, α≈0.97), but that does not establish agreement across model families.
+- The ablation isolates only the engagement module, with scaffolding-off and adaptive-off conditions left to future work, so the results are a focused contrast between the full system and a no-engagement variant rather than a causal decomposition of all four components.
+
 ## Connected Concepts
 
 - [[adaptive-learning]]

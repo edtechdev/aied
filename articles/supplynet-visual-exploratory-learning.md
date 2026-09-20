@@ -24,9 +24,20 @@ stakeholders: [professional-training]
 
 **User study results** suggest SupplyNet increases [[student-engagement|engagement]] and supports perceived understanding of supply chain dynamics, demonstrating the potential of pairing contextual multi-agent simulation with [[visualization]] for [[active-learning]] in operational domains.
 
-## Implications for AI in Education
+## What this means for practice
 
-SupplyNet represents a novel application of [[intelligent-tutoring]] principles beyond traditional academic subjects into professional education. The system's use of [[generative-ai]] agents to create adaptive, responsive simulation environments points toward broader applications in [[stem-education]] and professional training where complex systems understanding is required.
+- **Designers.** Ship layered support rather than one information density. In the user study, novices relied on immediate visual cues such as color saturation in the Timeline Tree Map, while advanced participants went straight to the Analysis Console and found the visuals secondary, so the same screen cannot serve both groups.
+- **Designers.** Make counterfactual history a first-class feature: participants valued revisiting earlier decisions and testing alternatives without irreversible penalty, which is what the branchable Timeline Tree Map provides.
+- **Instructors.** Set a task goal that forces causal reasoning. Playing to maximize profit under a think-aloud protocol made the link between decisions and outcomes visible — 13 of 14 participants rated SupplyNet highly on connecting decisions to performance, against 3 for the baseline.
+- **Designers.** Budget onboarding time for multi-view systems: participants received a 15-minute interactive tutorial covering the Graph Structure View, Timeline Tree Map, and Analysis Console before a 30-minute task session.
+- **Designers.** Treat the framework as transferable only with domain partners. Adapting it to subjects like public health or urban planning requires collaborating with domain instructors to validate the graph schema, transition rules, agent behavior, event design, and assessment metrics.
+
+## Limitations
+
+- The user study recruited 14 participants (4 female, 10 male, aged 21–28) via university platforms, all with foundational supply chain knowledge, so the findings concern perceived usability, engagement, and learning support in a student sample rather than measured learning outcomes.
+- Evaluation rests on self-report: a five-point Likert questionnaire and semi-structured interviews after two roughly 90-minute sessions, with no delayed post-test of what participants retained or transferred.
+- The comparison covers one domain and a single baseline simulation (the HBS Beer Game), and the authors state cross-subject deployment still needs domain-specific graph schemas, agent heuristics, and performance metrics to be defined with instructors.
+- Computational cost scales with the agent count, and the authors note that while simulation cost at the current scale is acceptable, it could become a concern in custom mode as network size grows.
 
 ## Connected Concepts
 

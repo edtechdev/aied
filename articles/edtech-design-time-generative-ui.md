@@ -29,9 +29,20 @@ confidence: medium
 
 The paper argues that accessibility belongs in the authoring layer. When interfaces are generated at runtime, instructors cannot review what each learner receives, and learners who need audio-first, simplified-text, interactive, or low-bandwidth representations are served only after a fixed design has already constrained the content's details. Generating and verifying multiple representations at design time makes representation diversity an explicit part of content creation, consistent with [[learning-design]] practice, and avoids the cost of running inference separately for every learner.
 
-## Implications for AI in Education
+## What this means for practice
 
-For [[equity-in-ai-education]] in [[edtech-platform]] design, the proposal implies that generative UI should be judged not only by what it delivers to learners but by where verification happens in the workflow. Putting instructors in the loop at design time supports [[teacher-role]] oversight and aligns adaptive content with UDL principles, while the elimination of per-learner inference costs matters for low-bandwidth and resource-constrained settings. The authors present this as an argument and [[research-methods-aied|research]] agenda rather than an implemented system.
+- **Designers.** Move representation generation into the authoring layer: produce the interactive, audio, text-simplified, and low-bandwidth variants of each content card once at design time and store the instructor-approved versions, instead of adapting delivery per learner at runtime.
+- **Instructors.** Verify each generated variant against its underlying semantic card before release — that it preserves the learning objective, avoids misleading simplifications, and matches the pedagogical purpose of the card — using a strategy-detail-verify structure in which the system explains why the representation was generated.
+- **Instructors.** Keep approved variants in a card repository and let the client pick by context (a web client the interactive version, a mobile-first client simplified text and audio, a WhatsApp-based client the low-bandwidth representation) rather than locking content into one fixed form.
+- **Administrators.** Cost the paradigm at authoring time rather than per learner: once approved, a representation can be delivered without repeatedly invoking an [[llm|LLM]], which matters for large courses, high-enrollment systems, and low-resource settings.
+- **Researchers.** Test whether variants are interchangeable learning-wise before treating modality matching as an accessibility win, since the authors present that equivalence as an empirical claim rather than a finding.
+
+## Limitations
+
+- This is an argument and research agenda, not an implemented system: no prototype, deployment, or learner outcome data is reported, so the cost, accuracy, and deployability claims remain untested.
+- Its central assumption is left unvalidated by the paper itself: that card variants are interchangeable from a learning perspective "is an empirical claim that requires validation."
+- Prior work found interactive and adaptive systems can disproportionately benefit lower-performing learners, and it is unclear whether offering modality-matched representations amplifies or mitigates those effects.
+- Hallucination risk is not uniform across representations — errors in audio narration or interactive components may be less transparent to learners — and the multi-variant review workflow that would catch them is proposed rather than evaluated.
 
 ## Connected Concepts
 - [[generative-ai]]

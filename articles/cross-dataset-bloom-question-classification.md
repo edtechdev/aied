@@ -31,9 +31,18 @@ page_kind: [evaluation]
 
 The motivation is practical: Bloom's taxonomy supports the systematic design, analysis, and alignment of instructional activities and assessments, but manually classifying assessment questions is time-consuming, especially for large item banks or repeated course offerings. The study compares two families of approaches — supervised ML/DL models and prompted LLMs — under cross-dataset conditions, moving beyond the within-dataset evaluations that dominated prior work. Because labeling is subjective and teacher-dependent, the authors also assessed how prompting strategies could be tailored (in-context examples, course-specific action verbs), and they validated the instructor-facing tooling with a usability study.
 
-## Implications for AI in Education
+## What this means for practice
 
-For instructors and institutions, the results suggest that [[llm]]-based classification with tailored prompting is a more portable approach than training supervised models for Bloom's taxonomy labeling, reducing the burden of maintaining dataset-specific models. The lightweight UI demonstrates a realistic deployment path for classifying large question banks, supporting [[formative-assessment]] and [[automated-assessment]] workflows while keeping the instructor in control. The finding that supervised models do not transfer across datasets is also a cautionary lesson for [[educational-nlp]] generally: strong within-dataset results should not be assumed to generalize, and evaluation designs should include cross-dataset conditions. The work connects to [[teacher-role]] discussions about how AI can shoulder routine classification labor so that instructors focus on higher-level design and feedback.
+- **Instructors.** Build the classification prompt from your own course materials: the best-performing strategy combined example questions per Bloom level with the course-specific action verbs extracted from them, reaching weighted F1-scores up to 0.84 with GPT-5.
+- **Instructors.** Do not deploy a Bloom labeler trained on another institution's dataset without re-validating it: models trained on a single dataset lost an average of 0.28 weighted F1 when applied to unseen datasets.
+- **Instructors.** Route large question banks through the lightweight CSV/Excel tool instead of labeling by hand: in the usability study (N = 50), participants reported low workload (mental demand 2.32, effort 2.46, frustration 1.68 on a 1–5 scale) and mean SUS 78.2 (SD = 14.07).
+- **Researchers.** Report cross-dataset conditions alongside within-dataset accuracy when evaluating [[educational-nlp|educational NLP]] models, since within-dataset strength did not predict portability here.
+
+## Limitations
+
+- The usability study drew N = 50 participants recruited via Prolific who used the interface for 10 minutes on one of their real courses; the authors state that feedback from real instructors is still needed for practical deployment.
+- The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly open-source alternatives, to assess robustness and cost-effectiveness.
+- Five datasets are the entire evidence base, and transfer depends on direction: one dataset pair lost only 0.04 weighted F1 against an average cross-dataset decrease of 0.28.
 
 ## Connected Concepts
 
