@@ -1,7 +1,7 @@
 ---
 title: "Misconception Acquisition Dynamics in Large Language Models"
 created: "2026-09-19T21:07:40-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-19T22:08:08-04:00"
 type: article
 technology: [llm, generative-ai, student-modeling, simulating-students, pedagogical-llm-training]
 pedagogy: [problem-solving, mastery-learning]
@@ -36,11 +36,11 @@ confidence: high
 
 The paper separates two educational needs that are often conflated. A *student* model exists to behave like one learner who holds one flawed rule, which is what evaluating a tutor, or training a [[teacher-role|teacher]], requires. A *tutor* model exists to recognize the whole range of errors a class produces — the computational analogue of teachers' knowledge of student misconceptions, a body of teacher knowledge linked in prior work to better learning outcomes than subject-matter knowledge alone. The two are formalized with different success criteria precisely because their jobs differ: the student model must stay correct where its misconception does not apply, whereas the tutor model must be able to solve *every* problem type correctly on request even though it was trained on errors in all of them.
 
-MalAlgoLib supplies the controlled data both need. Problem types are nodes in a directed acyclic graph, and each type implements a single-step reduction to a simpler type, mirroring how students actually work through an equation. A misconception is modelled as an *alternative* transition between types rather than as a rewritten problem generator, so one misconception can apply across many types, several misconceptions can be combined along one solution path, and new misconceptions can be added without touching existing type implementations. The library covers 16 linear-equation types and 20 misconceptions taken from the established algebra mal-rule taxonomies — errors such as distributing a factor to only the first term, treating multiplication as addition, dividing on one side only, or swapping the terms of a subtraction.
+MalAlgoLib supplies the controlled data both need. Problem types are nodes in a directed acyclic graph, and each type implements a single-step reduction to a simpler type, mirroring how students actually work through an equation. A misconception is modeled as an *alternative* transition between types rather than as a rewritten problem generator, so one misconception can apply across many types, several misconceptions can be combined along one solution path, and new misconceptions can be added without touching existing type implementations. The library covers 16 linear-equation types and 20 misconceptions taken from the established algebra mal-rule taxonomies — errors such as distributing a factor to only the first term, treating multiplication as addition, dividing on one side only, or swapping the terms of a subtraction.
 
 ## Why the student model overgeneralizes
 
-The student model's failure is a localization failure rather than a learning failure. Training on a single misconception does produce it reliably, but the model does not confine the flawed step to the problem types where the misconception is meaningful: correct accuracy falls on applicable *and* non-applicable types alike. The paper reads this as overgeneralization of the erroneous reasoning pattern — the model learns "this error" as a general behaviour rather than "this error, here."
+The student model's failure is a localization failure rather than a learning failure. Training on a single misconception does produce it reliably, but the model does not confine the flawed step to the problem types where the misconception is meaningful: correct accuracy falls on applicable *and* non-applicable types alike. The paper reads this as overgeneralization of the erroneous reasoning pattern — the model learns "this error" as a general behavior rather than "this error, here."
 
 The fix is compositional rather than architectural. Once the misconception data is sufficient to reach the 90% acquisition threshold, adding correct examples at even a quarter of that volume restores correct reasoning without eroding the misconception. The distribution error is the worked example: misconception accuracy stayed at or above 90% while non-applicable accuracy recovered. The practical implication is that a faithful student simulator is specified by the *ratio* of correct to misconception examples, not by the misconception sample count alone.
 
@@ -54,7 +54,7 @@ Two caveats bound the claim. The first is sample size: at 5–80 samples per mis
 
 The most transferable finding is negative and sharp. Given only final answers, neither model learns the misconception at any data size tested — accuracy stays under 30% overall and near zero for several misconceptions. The authors' interpretation is that a final answer does not say *where* the error entered the solution, so there is nothing for the model to attach the flawed step to; intermediate steps let the model localize the error to a specific algebraic operation.
 
-That makes the finding as much about data infrastructure as about modelling. Final answers are what assessments normally record, so step-level supervision at scale requires collecting student process data under privacy protection — secure data enclaves or federated learning — rather than simply training on existing response logs.
+That makes the finding as much about data infrastructure as about modeling. Final answers are what assessments normally record, so step-level supervision at scale requires collecting student process data under privacy protection — secure data enclaves or federated learning — rather than simply training on existing response logs.
 
 ## What this means for practice
 
@@ -65,14 +65,12 @@ That makes the finding as much about data infrastructure as about modelling. Fin
 
 ## Limitations
 
-- All experiments use synthetic algebra data generated by MalAlgoLib; the misconception taxonomy comes from published mal-rule research, but the training corpus is generated rather than drawn from real student work.
+- All experiments use synthetic algebra data generated by MalAlgoLib; the misconception taxonomy comes from published mal-rule research, but the training corpus is generated rather than drawn from real student work, and coverage is limited to linear equations in one variable.
 - The three base models are small open-weight instruction-tuned models (Llama-3.1-8B-Instruct, Phi-4-4B-Mini, Qwen-3-4B-Instruct), so the acquisition dynamics may differ at larger scale or in models trained for mathematics.
 - Success is defined by fixed 90% thresholds on the paper's own metrics (misconception accuracy, correct accuracy on applicable and non-applicable items); a model that passes them need not produce the same *kind* of reasoning a student would.
-- The tutor model's improved correct accuracy is reported as a stable-or-improving trend from 93% to 98%, without an account of why the improvement occurs beyond the contrastive-signal hypothesis.
-- Coverage is limited to linear equations in one variable; whether the same dynamics hold for other domains, item formats, or multi-step conceptual reasoning is untested.
+- The tutor model's improved correct accuracy is reported as a stable-or-improving trend from 93% to 98%, without an account of why the improvement occurs beyond the contrastive-signal hypothesis, and whether the same dynamics hold for other domains, item formats or multi-step conceptual reasoning is untested.
 
 ## Connected Concepts
-
 - [[simulating-students]] — an instruction-tuned simulator holding a misconception is the student model's purpose
 - [[pedagogical-llm-training]] — the paper is a training-dynamics study of data composition and supervision
 - [[student-modeling]] — the tutor model is a computational analogue of knowledge of student misconceptions
