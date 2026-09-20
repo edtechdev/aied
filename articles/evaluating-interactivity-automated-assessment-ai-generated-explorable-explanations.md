@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Interactivity: Toward Automated Assessment of AI-Generated Explorable Explanations"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -29,9 +29,20 @@ page_kind: [evaluation]
 
 Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses — the factors that critically shape learners' conceptual understanding. EE-Eval addresses this by framing interactivity as testable behavioral models rather than an emergent byproduct of [[llm]] generation. The resulting FSM comparison supports pedagogically grounded, actionable [[human-ai-collaboration]] in creating interactive educational content.
 
-## Implications for AI in Education
+## What this means for practice
 
-For educators and tool builders, EE-Eval offers a diagnostic lens: instead of asking only whether generated content runs correctly, one can ask whether the interaction logic a [[generative-ai]] system produced actually serves the intended learning goals. By externalizing interaction logic into an inspectable graph, the framework transforms evaluation into a reflective diagnostic tool for the increasingly common practice of generating [[active-learning]] materials with LLMs, supporting quality assurance at scale.
+- **Instructors.** Ask whether interaction logic serves the learning goal rather than whether the artifact merely runs: modeling interaction as a state machine correlated with human interactivity judgments at r = 0.728, while unit testing correlated negatively (r = −0.600).
+- **Designers.** Specify the intended learner-controllable states and transitions as an "ideal" FSM before generating content, so the extracted graph can be compared against pedagogical intent instead of judged on appearance.
+- **Designers.** Read the extracted FSM as a defect list — missing states, state-action pairs without feedback, unreachable transitions — and fix those before publishing an activity built from any of the 6 models tested.
+- **Researchers.** Pair interaction-level signals with outcome measures, because the framework captures pedagogical coherence at the interaction level and not learning gains.
+- **Instructors.** Do not screen generated [[active-learning]] materials on visual or code-execution checks alone; those baselines track surface appearance rather than interaction behavior.
+
+## Limitations
+
+- Finite state machines are an abstraction that may not capture highly continuous or emergent interaction patterns, potentially simplifying rich user experiences into discrete transitions.
+- Evaluation quality depends on the accuracy of automated FSM extraction from generated artifacts, which may introduce noise or bias despite few-shot prompting.
+- The "ideal FSMs" encode domain assumptions about effective interaction design that may not generalize across topics or pedagogical contexts.
+- EE-Eval assesses interaction structure only; it does not evaluate content correctness, visual clarity, or actual learning outcomes.
 
 ## Connected Concepts
 

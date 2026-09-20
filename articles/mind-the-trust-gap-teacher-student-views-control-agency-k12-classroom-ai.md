@@ -1,7 +1,7 @@
 ---
 title: "Mind the Trust Gap: Identifying (Mis)alignments in Teacher-Student Views Toward Control and Agency in K-12 Classroom AI"
 created: "2026-07-03T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding, student-ai-interaction]
@@ -29,9 +29,20 @@ confidence: high
 
 The speed-dating study paired participants with a series of storyboard scenarios depicting classroom AI systems, eliciting rapid, repeated judgments across design situations. The pair-matching analysis then explicitly compared teacher and student responses on shared topics, revealing where views aligned and where they diverged. The design foregrounds the classroom as a **multi-stakeholder environment** in which the same technology is perceived differently depending on role.
 
-## Implications for AI in Education
+## What this means for practice
 
-The misalignments identified in this study complicate the common assumption that more AI personalization is uniformly desirable. Because students and teachers differ on trust, control, and the social-emotional dimensions of learning with AI, classroom AI design must negotiate **competing preferences** rather than optimize for a single user. The findings also highlight that **teacher-student relationships outside of AI use** shape how both groups view the technology, suggesting that trust-building and communication — not just interface design — are needed to fill the perspective gap. This connects to [[human-in-the-loop-ai]] and to the design of [[intelligent-tutoring]] systems in [[k-12]] settings.
+- **Instructors.** Treat control over classroom AI as something to negotiate with students rather than a default to configure, because the 16 students and 15 teachers diverged on how much they trust AI and on the social and emotional aspects of learning with it.
+- **Instructors.** Keep an override for every automatic assignment and show students that it exists, since teachers cited incorrect assessment of students — tasks not matching actual knowledge levels — as their central risk with AI decision making.
+- **Instructors.** Discuss what the system infers and monitors rather than leaving it to the tool, since students argued teachers understand them as whole persons in ways detected information cannot capture.
+- **Learners.** Ask which data a classroom AI system used before accepting its placement or pacing decisions, and raise disagreement with your teacher instead of silently working around it.
+- **Instructors.** Address the social and emotional dimensions of AI-mediated learning explicitly, and build trust through ordinary teacher-student relationships outside AI use — the authors report those relationships shaped how both groups viewed the technology.
+
+## Limitations
+
+- Storyboards directed participants' thinking toward the classroom situations depicted, and the study used [[intelligent-tutoring|intelligent tutoring systems]] as its example, so views on other AI tools such as generative AI could differ.
+- Data were collected in Germany, where AI-based tools are not yet fully realized in schools; the authors expect views to shift once teachers and students experience AI systems in classrooms.
+- The samples were small and mismatched: two participating teachers taught only students younger than 12 while the student sample was 12 and above, and participants were compensated, which may have influenced what they shared.
+- Older students generally shared more thoughts than younger students, which the authors suspect masked details that only younger students had considered.
 
 ## Connected Concepts
 
