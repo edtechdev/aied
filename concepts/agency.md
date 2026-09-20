@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-20T08:15:50-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -40,6 +40,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 - **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of [[k-12|school]] AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
 - **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgment — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgment rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
+- **Epistemic delegation in early-career research:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]] frame AI dependence among doctoral and postdoctoral researchers as *epistemic delegation* — the transfer of problem framing, method choice, and interpretive authority to the intelligent system — and found it negatively associated with both [[self-efficacy|research self-efficacy]] and research autonomy, with supervisory support buffering the loss. It extends agency debates from learner autonomy to the formation of the researcher themselves.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
@@ -107,6 +108,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
+- [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
