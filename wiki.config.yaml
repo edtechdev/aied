@@ -47,6 +47,14 @@ build:
     - python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py . --all
     # House style is US English: British forms in body prose are a defect.
     - python3 tooling/scripts/check-us-english.py
+    # Article page shape: the practice and Limitations sections, their bullet counts
+    # (practice 3-5, Limitations 2-4) and the section order, on the pages touched here.
+    - python3 tooling/scripts/audit-article-sections.py --changed
+    # Every number in an article body must appear in that page's raw source. A hit means
+    # "investigate", not "fabrication": PDF extraction produces leading-dot and
+    # line-broken false positives. Scoped to changed pages so a legacy page's pre-existing
+    # token shapes do not block unrelated work.
+    - python3 tooling/scripts/verify-number-grounding.py --changed
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit

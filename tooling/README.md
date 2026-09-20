@@ -127,13 +127,19 @@ wiki/
 
 ## Page Types
 
-- **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` → body sections → `## What this means for practice` → `## Limitations` (optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text).
+- **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text). `audit-article-sections.py` is the gate on the order and the counts.
 - **Concept pages** (`concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → `## Questions to Consider` (required) → `## Introduction` → body sections with wikilinks → Connected Concepts → Connected Articles.
 - **FAQ pages** (`faqs/<slug>.md`) — one per curated question-and-answer. Frontmatter → question heading → narrative answer with wikilinks (can link to concepts, articles, and other FAQs). No sources/citation. Listed on the journal page (❓), indexed in llms files, and linked from concept/article pages via `connected_faqs`.
 
 Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro templates.
 
 **Inline hyperlink rule (HARD GATE):** after creating/enriching any article or concept page, run the inline-link pass (see `wiki-inline-links` skill) — hyperlink every concept mentioned in the page body narrative to its concept page (aggressive, including conceptually-similar phrases), and fix self-links, links in `##` headings, same-text links `[[slug|slug]]`, and broken links. Verify 0 self-links, 0 heading links, balanced brackets, and 0 broken links **before** `npm run build`. A green build does NOT substitute for this editorial pass.
+
+**Number-grounding rule (HARD GATE):** every numeric token in an article body must appear in that page's raw source. `python3 tooling/scripts/verify-number-grounding.py --changed` (or a list of slugs) reports the tokens it cannot locate; `commit-if-green.sh` runs it over the article pages being committed. A reported token means *investigate*: leading-dot p-values (`.001`), digits broken across PDF lines and values duplicated by an HTML conversion (`0.6950.695`) are extraction artefacts, and the fix is to confirm the number in the raw, not to rewrite the claim to match a broken extraction. A statistic that genuinely is not in the source gets deleted or requalified.
+
+**Article-section rule (HARD GATE):** `python3 tooling/scripts/audit-article-sections.py --changed` checks the section order (citation last), that the practice section immediately precedes Limitations, and the bullet counts (practice 3–5, Limitations 2–4). Trim an over-long Limitations list by folding weaker bullets into stronger ones rather than discarding evidence.
+
+**Commit route (HARD GATE):** commit through `bash tooling/scripts/commit-if-green.sh <message-file> <paths...>`. It runs the US-English, list-formatting and facet gates, the section audit and the number-grounding check over the paths being committed, refuses the commit when any fails, and greps the staged diff for personal identifiers. A plain `git commit` skips all of it, and the defect then surfaces during the next release instead of here.
 
 **List-formatting rule (HARD GATE):** ordered/bulleted lists whose consecutive items are separated by a blank line render broken — each item restarts at `1.` (CommonMark splits them into separate lists). Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` before build and fix every reported page by removing the blank line between consecutive list items. A green build does NOT catch this; the maintainer flags it repeatedly.
 
@@ -169,10 +175,24 @@ python3 tooling/scripts/audit-metadata.py --missing level   # list the pages lac
 python3 tooling/scripts/audit-metadata.py --check-docs      # fail if SCHEMA.md drifted from the schema
 python3 tooling/scripts/audit-metadata.py --write-docs      # regenerate SCHEMA.md's list from the schema
 
+# Check an article page's sections: order, practice immediately before Limitations,
+# practice 3-5 bullets, Limitations 2-4 bullets, Citation last.
+python3 tooling/scripts/audit-article-sections.py --changed
+python3 tooling/scripts/audit-article-sections.py --all
+
+# Ground every number in an article body in its raw source. --changed scopes it to the
+# working tree; a reported token is an instruction to investigate, not a verdict.
+python3 tooling/scripts/verify-number-grounding.py --changed
+python3 tooling/scripts/verify-number-grounding.py <slug> [<slug> ...]
+
 # Run EVERY hard gate declared in wiki.config.yaml (build.gates), in order.
 # A green build does NOT substitute for these.
 python3 tooling/scripts/run-gates.py        # or: npm run verify
 python3 tooling/scripts/run-gates.py --list
+
+# Commit only when the gates are green (US English, list formatting, facets, section audit,
+# number grounding, then a personal-identifier scan of the staged diff).
+bash tooling/scripts/commit-if-green.sh /tmp/msg.txt articles/<new-page>.md public/llms-full.txt
 
 # Show the effective configuration / a single value
 python3 tooling/scripts/wiki_config.py
@@ -182,7 +202,8 @@ python3 tooling/scripts/wiki_config.py --cap run_python     # your agent's pytho
 # Build the Astro site (also emits the PWA: manifest.webmanifest + sw.js + workbox runtime)
 npm run build
 
-# Deploy (GitHub Actions deploys dist/ on push)
+# Deploy (GitHub Actions deploys dist/ on push). Push only with explicit approval; CI
+# rebuilds the whole site on every push.
 git add -A && git commit -m "..." && git push
 ```
 
