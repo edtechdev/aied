@@ -1,7 +1,7 @@
 ---
 title: "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential"
 created: "2026-07-15T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-20T03:45:11-04:00"
 type: article
 pedagogy: [active-learning, scaffolding]
 technology: [generative-ai, llm, pedagogical-llm-training, personalized-learning]
@@ -48,6 +48,21 @@ Post-lesson questionnaires on 5-point scales yielded 229 valid responses (93.5%)
 - **Direction for designers and researchers.** The authors suggest reducing extraneous load through pauses, subtitles, and speaker-name overlays, and extending the approach to other learner populations such as university students and vocational trainees, plus quantitative measurement of instructor effort at each stage.
 
 **Limitations (as stated by the authors).** The fixed order and differing lesson content prevent separation of format effects from content effects — format differences on "useful in the future" are likely content-driven. Anonymous collection means the two questionnaire rounds cannot be matched, so independence of observations is not guaranteed, the repeated cross-sectional comparison is treated as an approximation, and selection bias cannot be ruled out. Only immediate subjective evaluation was measured: knowledge retention, transfer, and sustained viewing behavior were not, and no pre-/post-tests were run. The questionnaire items were created in-house with reliability coefficients (e.g. Cronbach's α), factor analysis, and scale validity unverified, so results should be read as self-assessed differences on individual items rather than construct-level changes such as "ARCS attention improved." The authors accordingly call for a randomized crossover design, anonymous-ID tracking of individual learners, and pre-/post-test measurement of retention — and note that these results, obtained under a fixed-order design, require replication before being generalized as effects of lesson format. These constraints place the study firmly within familiar [[limitations-in-aied-research|AIED methodological limitations]].
+
+## What this means for practice
+
+- **Instructors.** Replace instructor-voice video with TTS narration where production time is the bottleneck. In a quasi-experiment with 245 first-year high school students, the three formats were statistically equivalent on comprehension, concentration, and overall evaluation (Friedman p > .14 for all three metrics; TOST equivalence within Δ = ±0.5, p < .0001).
+- **Instructors.** Choose dialogue-format narration when comprehension is the priority: dialogue TTS beat single-speaker TTS on comprehension (p = .006, q = .025, OR = 2.24), cognitive engagement (p = .019, q = .048), and being able to explain the content to a friend (p = .004, q = .021).
+- **Designers.** Accept the trade-off knowingly: single TTS was rated significantly more natural (p < .001, r = −.238), so reserve the Expert-×-Novice dialogue format for material where its framing does work that audio polish cannot.
+- **Software developers.** Keep the educator review gate at every one of the three pipeline stages — slide generation, narration scripting, and TTS rendering — because the system's value rests on staged human supervision rather than one-shot automation.
+- **Software developers.** Check prior-knowledge balance before claiming a format effect: 66.0% of the dialogue group reported knowing "nothing at all" about the content versus 34.1% of the single-TTS group (χ²(1) = 43.05, p < .001), an imbalance the authors treat as making the dialogue advantage conservative.
+
+## Limitations
+
+- Format effects cannot be separated from content and order effects: the same cohort experienced three lessons in a fixed order with different content (May 21, June 25, and July 23, 2025), and the authors attribute the "useful in the future" difference to content rather than format.
+- Questionnaires were collected anonymously, so the single-TTS (N = 229) and dialogue (N = 206) rounds cannot be matched to individuals; independence of observations is not guaranteed, selection bias cannot be ruled out, and the repeated cross-sectional comparison is treated only as an approximation.
+- Measurement covered immediate subjective evaluation alone: knowledge retention, transfer, and sustained viewing behavior were not measured, and no pre-/post-tests were run.
+- All items were created in-house with reliability coefficients, factor analysis, and scale validity left unverified, so results are self-assessed differences on individual items rather than construct-level changes such as ARCS attention or germane load.
 
 ## Connected Concepts
 
