@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-20 | Total entries: 1558
+Last updated: 2026-09-20 | Total entries: 1560
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
@@ -14,6 +14,7 @@ Last updated: 2026-09-20 | Total entries: 1558
 - 📄 [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning
 - 📘 [[cognitive-surrender]] — Cognitive Surrender
 - 📄 [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
+- 🧰 [[deeptutor]] — DeepTutor
 - 🧰 [[drawsplat]] — DrawSplat
 - 📘 [[education-levels]] — Levels of Education
 - 🧰 [[edugems]] — EduGems
@@ -26,6 +27,7 @@ Last updated: 2026-09-20 | Total entries: 1558
 - 📘 [[latent-profile-analysis]] — Latent Profile Analysis
 - 🧰 [[lesson-md]] — LESSON.md
 - 📘 [[librarians]] — Librarians
+- 🧰 [[openmaic]] — OpenMAIC
 - 🧰 [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
 - 📄 [[petricini-zipf-ai-use-ethics-matrix-2026]] — Designing for Virtuous AI Use: The AI-Use Ethics Matrix in AI-Mediated Classrooms
 - 🧰 [[playlab]] — Playlab
