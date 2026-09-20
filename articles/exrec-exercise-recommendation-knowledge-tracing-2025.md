@@ -1,7 +1,7 @@
 ---
 title: "Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing"
 created: "2026-09-19T21:07:40-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-19T22:08:08-04:00"
 type: article
 technology: [knowledge-tracing, reinforcement-learning, adaptive-learning, personalized-learning, recommender-systems-and-learning-paths, llm, machine-learning, learning-analytics]
 methods: [quantitative-research, usability-research]
@@ -49,12 +49,10 @@ Two checks extend the main results. Tripling the question corpus with GPT-4o-gen
 
 - Both datasets are mathematics corpora, and XES3G5M questions were machine-translated from Chinese to English before annotation, so results may not transfer to other subjects or languages.
 - The KC annotations come from GPT-4o prompted against the Common Core State Standards, and their quality is asserted through cluster counts rather than an independent human agreement study.
-- The extended-corpus robustness test uses GPT-4o-generated questions, so it measures behavior on synthetic rather than naturally occurring new items.
+- The extended-corpus robustness test uses GPT-4o-generated questions, so it measures behavior on synthetic rather than naturally occurring new items, and the misconception extension is a proposal only, since current datasets record binary correctness and no misconception results are reported.
 - Success is defined by the paper's own normalized metric, the percentage of maximum achievable knowledge-state improvement, which depends on assumptions about the calibrated model's mean knowledge state.
-- The misconception extension is a proposal only; current datasets record binary correctness, and no misconception results are reported.
 
 ## Connected Concepts
-
 - [[knowledge-tracing]] — the semantic KT model is the environment and reward source
 - [[reinforcement-learning]] — exercise sequencing optimized through value-based and policy-based methods
 - [[recommender-systems-and-learning-paths]] — the core application is next-exercise sequencing

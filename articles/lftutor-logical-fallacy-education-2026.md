@@ -1,7 +1,7 @@
 ---
 title: "Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation"
 created: "2026-09-19T21:07:40-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-19T22:08:08-04:00"
 type: article
 foundations: [critical-thinking]
 pedagogy: [socratic-method, problem-solving]
@@ -21,9 +21,9 @@ confidence: high
 ## Key Findings
 
 1. **LFTutor outperforms both baselines.** Over 1,000 GPT-4o dialogues per framework judged by QwQ-32B, it averaged 84.5% of dialogues passing each metric, against 61.5% for BASE W/ PROBLEMS and 31.2% for BASE.
-2. **Strategy verification carries the largest single effect.** Removing it cut Lack of Evidence Inquiry from 96.1 to 55.0 and Divergence from 84.6 to 66.0.
-3. **One strategy per turn beats several.** Allowing multiple strategies lowered Stance Change from 87.9 to 61.0, Strategy Fixation from 91.2 to 71.0, and Unexplained LF Terms from 95.0 to 75.0.
-4. **Strategy order matters.** Reversing the priority to Refutation-first dropped Passive Guidance from 43.6 to 23.0 and Unexplained LF Terms from 95.0 to 81.0.
+2. **The framework's controls, not its vocabulary, drive the gains.** Four ablations are reported (removing the disagreement check, removing strategy verification and correction, reversing the priority order of the pedagogical strategies, and allowing multiple strategies per turn), and each lowers pass rates on a subset of the metrics relative to the full system, with strategy verification the single largest contributor.
+3. **Strategy order matters.** Reversing the priority from Responding-Evidence-Assumption-Refutation to Refutation-Assumption-Evidence-Responding reduces pass rates, so the fixed ordering is doing work beyond the presence of the four strategies.
+4. **Ablation evidence is bounded by budget.** The ablation study was run on a randomly sampled subset of the sentences rather than the full set, which the authors give as a cost limitation.
 5. **The disagreement bank protects guidance.** Removing the Disagreement Check lowered Passive Guidance by 13.6 points (43.6 to 30.0) and raised Repetition by 13.7 points.
 6. **Adversarial students compress but do not erase the gain.** LFTutor averaged 60.7% against 30.2%, with the widest margin on Unexplained LF Terms (86.2 vs 49.5).
 7. **Human raters favored LFTutor on eight of nine metrics.** On a 1 to 5 Likert scale, Divergence rose from 1.65 to 3.30, Lack of Evidence Inquiry from 2.65 to 4.20, and Helpfulness from 1.65 to 4.15.
@@ -39,7 +39,7 @@ Automatic evaluation used Elec2Deb20, a set of U.S. presidential debate sentence
 
 ## What the human study found
 
-Twenty participants fluent in English debated each tutor for five to ten rounds on two Elec2Deb20 sentences they had previously judged logically valid, then rated tutor behavior on a 1 to 5 Likert scale. LFTutor scored significantly higher on eight of nine metrics, highly significantly (p < 0.01) for Divergence, Stance Change, Lack of Refutation, Lack of Evidence Inquiry and Passive Guidance, and significantly (p < 0.05) for Strategy Fixation, Unexplained LF Terms and Helpfulness. [[qualitative-research|Qualitative]] themes matched the numbers: ten of twenty participants called LFTutor more focused, nine praised its ample guidance, thirteen described BASE as debating in a general setting without specificity, and six found it easily persuaded. The authors note that real participants argued with more varied and inconsistent tactics than the simulated students, including emotional appeals, which is why Repetition behaved differently across the two settings.
+Twenty participants fluent in English debated each tutor for five to ten rounds on two Elec2Deb20 sentences they had previously judged logically valid, then rated tutor behavior on a 1 to 5 Likert scale. LFTutor scored significantly higher on eight of nine metrics, highly significant for Divergence, Stance Change, Lack of Refutation, Lack of Evidence Inquiry and Passive Guidance (p = 0.00 in the paper's table), and significant for Strategy Fixation, Unexplained LF Terms and Helpfulness (p = 0.01 to 0.03). [[qualitative-research|Qualitative]] themes matched the numbers: ten of twenty participants called LFTutor more focused, nine praised its ample guidance, thirteen described BASE as debating in a general setting without specificity, and six found it easily persuaded. The authors note that real participants argued with more varied and inconsistent tactics than the simulated students, including emotional appeals, which is why Repetition behaved differently across the two settings.
 
 ## Where it falls short
 
@@ -55,14 +55,11 @@ Passive Guidance is the weak point: LFTutor passed it in only 43.6% of automatic
 ## Limitations
 
 - The human study used 20 participants who were predominantly master's-level or doctoral students in technical fields, so the "laypeople" framing is broader than the sample.
-- Automatic evaluation rests on a single LLM judge validated at F1 above 73% per metric against three annotators, checked on 100 sampled dialogues; judge-scored gains inherit that error rate.
+- Automatic evaluation rests on a single LLM judge validated at F1 above 73% per metric against three annotators, checked on 100 sampled dialogues, so judge-scored gains inherit that error rate; the metric set also excludes emotional support, personalization and ease of understanding, which the authors name as gaps rather than as measured zeros.
 - The ablation study used only 100 randomly sampled sentences and the normal student setting, so the component contributions carry wider uncertainty than the main results.
-- All tutoring dialogues are generated by simulated GPT-4o students, and participants argued with more varied tactics, which changed the Repetition result between settings.
-- Evaluation uses debate sentences from one dataset covering U.S. presidential debates; the authors note that alternative fallacy datasets are either LLM-generated or drawn from educational websites.
-- The metric set excludes emotional support, personalization and ease of understanding, which the authors name as gaps rather than as measured zeros.
+- All tutoring dialogues are generated by simulated GPT-4o students on debate sentences from one dataset covering U.S. presidential debates, and participants argued with more varied tactics, which changed the Repetition result between settings.
 
 ## Connected Concepts
-
 - [[socratic-method]] — open probing of the student's reasoning is one of the two pedagogical foundations
 - [[critical-thinking]] — fallacy recognition is treated as a trainable critical-thinking outcome
 - [[intelligent-tutoring]] — LFTutor is positioned as an LLM tutor, not a fallacy detector
