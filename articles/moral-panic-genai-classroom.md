@@ -1,7 +1,7 @@
 ---
 title: "Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption"
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, rag]
@@ -43,6 +43,21 @@ Mixed: 53% preferred the new split format (paper knowledge + take-home applied);
 
 ## Interpretation: design beats ban
 The integrated redesign **resolved both [[academic-integrity]] and authenticity concerns** by splitting the quiz: a high-integrity paper knowledge test + a high-authenticity, open-resource applied task where GenAI use was taught. The authors caution they likely over-learned the "moral panic" lesson — assuming universal, effective GenAI adoption — when in reality uptake was partial and often ineffective. Their conclusion: monitor our own hypotheses about student GenAI use, keep learning objectives central, and **design authentic assessments for the new environment** rather than condemn the technology.
+
+## What this means for practice
+
+- **Instructors.** Redesign the assessment rather than banning the tool: the 2025 GenAI-integrated condition recovered applied-question performance to pre-GenAI levels by moving knowledge questions to a paper quiz and teaching GenAI use on the open-resource applied portion.
+- **Instructors.** Teach the summarizing workflow explicitly, because in the GenAI-available condition applied performance fell significantly below baseline on Quizzes 4, 5 and 6, which the authors read as students being less prepared or unable to evaluate GenAI output.
+- **Instructors.** Monitor score spread, not only the mean: GenAI availability accounted for 88% of the variance in applied-question performance (omega-squared = 0.88) and 78% of knowledge-question variability (omega-squared = 0.78), and paper delivery produced the lowest, most stable variability - read as greater [[equity-in-ai-education|equity]].
+- **Instructors.** Design authentic, open-resource applied tasks that GenAI cannot answer directly, since the authors argue the split quiz resolves [[academic-integrity]] and [[authentic-assessment]] concerns at once.
+- **Researchers.** Treat cohort patterns as hypotheses about student behavior: the authors caution that they over-learned the moral panic lesson by assuming universal and effective GenAI adoption when uptake was partial and often ineffective.
+
+## Limitations
+
+- Small-N design: eight course sections across three conditions (pre-GenAI n = 3, GenAI-available n = 3, GenAI-integrated n = 2), even though each quiz drew 84-202 students; the authors report effect sizes as the primary evidence and urge caution with the inferential statistics.
+- Retrospective and non-experimental: students were only indirectly exposed to different treatment conditions across six years, so causation cannot be determined and alternative explanations for the cohort differences remain open.
+- With eight sections, assumptions of normality and sphericity cannot be meaningfully evaluated, and the authors acknowledge the mixed-design ANOVA was chosen despite that limit.
+- The format pilot drew 28 respondents from 149 students (53%, n = 15, preferred the split format) and ran on the final quiz, so the authors note that the positive sentiment may be inflated.
 
 ## Connected Concepts
 

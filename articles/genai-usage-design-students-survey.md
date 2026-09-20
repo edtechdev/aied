@@ -1,7 +1,7 @@
 ---
 title: "A study of GenAI usage by Design Students: Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026"
 created: "2026-07-22T04:33:04-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-20T03:44:50-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
@@ -36,13 +36,20 @@ The introduction situates the study against a large existing literature — a bi
 - **Journals confirm heavy secondary-research reliance and light primary-research reliance.** Almost all reported phases showed near-universal adoption for finding initial information, summarizing papers, transcribing/summarizing interviews, and editing or polishing text; by contrast, developing an argument, planning and interpreting primary research, and structuring data collection were usually kept in students' own control. Students described cross-checking AI output with academic databases and institutional reports, and all said they manually verified AI-generated sources or summaries, often through group discussion.
 - **Concrete numbers on mistrust in the journals' domain.** Students used GenAI for maps, diagrams, comparison tables and transcription, but did not use available tools for synthetic participants, personas or videos, despite these having been presented in class. The journals were filled unevenly, some highly detailed and others generic.
 
-## Implications
+## What this means for practice
 
-For design educators the paper's sharpest point is about **the status of research in the curriculum**. The authors argue that the survey pattern — GenAI concentrated in secondary research, writing and editing, with planning and interpretation retained — suggests students may not perceive the research phase as part of their creative process, and so treat it as legitimately delegatable. They offer two readings: that secondary research is genuinely too complex and time-consuming without assistance, or that it is insufficiently valued as a design activity. Either way, they call for the research phase to be better acknowledged and integrated into learning, and for the human-heavy primary research phase to be strengthened so students "attribute more value" to collecting their own data.
+- **Learners.** Verify every AI-supplied source yourself: the journals show students cross-checking output against academic databases and institutional reports and manually verifying AI-generated references and summaries, often through group discussion.
+- **Learners.** Keep track of which phases you are delegating: students most often handed off editing (77.5%) and finding information (74.5%) while retaining planning, argument development and interpretation, and the authors read that split as a signal about which work the curriculum values.
+- **Learners.** Give primary research the same standing as AI-assisted secondary research: adoption was near-universal for finding information, summarizing papers and polishing text, but light in developing and interpreting primary research.
+- **Learners.** Move from consuming GenAI to making with it, through custom GPTs, low/no-code app creation or adapting open-source models, the shift the authors propose for design education.
+- **Learners.** Re-examine your habits yearly rather than treating them as settled: the authors recommend repeating the survey as a longitudinal instrument because growing familiarity can slide into face-value acceptance of AI output.
 
-The second lesson concerns [[ai-literacy]]. The picture is partly reassuring: students engaged in systematic, often collective verification of AI output, consistent with their low [[trust]] in its accuracy, and the authors see this as evidence of reflective experimentation rather than uncritical adoption. But they warn that growing familiarity could slide into complacency and face-value acceptance, and they recommend repeating the survey yearly as a longitudinal instrument to track evolving practice — a caution relevant to any [[discipline-specific-aied|disciplinary AI integration]] and [[educational-policy-ai|AI policy]] that assumes static student behavior. A final proposal is to move students from being consumers of GenAI to makers of their own tools, through low/no-code app creation, custom GPTs and adapting open-source models.
+## Limitations
 
-**Caveats the paper states.** The study is a single-institution survey; the journal data are self-reports gathered in a context of evaluation, so they carry an element of self-validation and express what students take to be acceptable AI use for an assignment — and because the journals were filled unevenly they offer only a partial picture of practice. The authors also note the course itself framed experimenting with GenAI as acceptable as long as it was reported, which may shape what students disclosed.
+- Single-institution survey: 280 students completed the questionnaire at the Politecnico di Milano School of Design and this analysis reports the 223 English-version respondents, with no significant differences found by gender, year of enrollment, design domain or language.
+- The journal data are self-reports gathered in a context of evaluation, so they carry self-validation and express what students take to be acceptable AI use for an assignment; the course itself framed experimenting with GenAI as acceptable as long as it was reported.
+- The journals were filled unevenly, some highly detailed and others generic, and overall 100 students completed the form on two group assignments, so as a corpus they give only a partial picture of practice.
+- Item-level n varies across the survey tables (n = 202-231) and the ownership, [[creativity]] and [[trust]] measures are self-report, so results such as the 31% reporting a perceived loss of ownership rest on different respondent subsets.
 
 ## Connected Concepts
 
