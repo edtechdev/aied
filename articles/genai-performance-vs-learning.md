@@ -1,7 +1,7 @@
 ---
 title: "Distinguishing performance gains from learning when using generative AI"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-18T03:50:00-04:00"
+updated: "2026-09-20T08:50:39-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning, scaffolding, motivation, self-efficacy, transfer-of-learning]
@@ -49,16 +49,24 @@ The authors propose a [[cognitive-psychology]]-informed agenda with three moves.
 2. **Clarify how generative AI affects encoding, consolidation and retrieval.** The relationship between cognitive load and deep encoding is unresolved; paradigms from cognitive load theory can be used to probe it, and identifying the mechanisms is what would let a claim about learning be mechanistic rather than correlational.
 3. **Study long-term effects** — knowledge retention and skill development over time, and how AI-assisted learning interacts with [[prior-knowledge|prior knowledge]], which the authors flag as unexamined.
 
-## Practical Recommendations
-
-For [[teacher-role|educators]] and for people designing AI learning tools, the piece gives two:
-
-- **Promote active metacognition.** Ask learners to critically evaluate AI-generated output instead of accepting it. The corresponding design test is whether the rubric-checking, draft-evaluation and reflection that the tool could do are still being done by the learner.
-- **Balance efficiency with autonomy.** Use generative AI to *support* rather than replace independent cognitive effort, and blend [[ai-feedback-quality|AI feedback]] with opportunities for unaided [[problem-solving|problem solving]] — the combination is what keeps the tool from becoming the crutch.
-
 ## Implications for AIED design and evidence
 
-The distinction changes what a study has to measure, and the knowledge base already contains the causal demonstration the comment asked for. [[generative-ai-guardrails-harm-learning]] reports a field [[rct]] in which an unguarded GPT-4 style tutor raised assisted practice performance by 48% while *reducing* later unassisted exam scores by 17%, and a [[guardrails|guardrailed]] 'hint-not-answer' tutor eliminated the harm — the performance/learning gap measured on both sides, in one design. [[metacognitively-discordant-completion-genai-2026]] documents the metacognitive failure in its most uncomfortable form: learners who notice they do not understand and submit the AI-assisted answer anyway. [[absent-cognitive-baseline-2026]] gives the classroom-level version of the self-efficacy paradox, [[cognitive-offloading-llm-synthesis-writing]] shows the offloading profile differing by what is offloaded rather than how much, and [[shaw-nave-cognitive-surrender-2026]] names the disposition that makes delegation habitual. For designers, the practical consequence is that optimizing for task success is not a neutral objective — a system tuned on assisted performance can be working against the outcome its own evaluation claims.
+The distinction changes what a study has to measure, and the knowledge base already contains the causal demonstration the comment asked for. [[generative-ai-guardrails-harm-learning]] reports a field [[rct]] in which an unguarded GPT-4 style tutor raised assisted practice performance while *reducing* later unassisted exam scores, and a [[guardrails|guardrailed]] 'hint-not-answer' tutor eliminated the harm — the performance/learning gap measured on both sides, in one design. [[metacognitively-discordant-completion-genai-2026]] documents the metacognitive failure in its most uncomfortable form: learners who notice they do not understand and submit the AI-assisted answer anyway. [[absent-cognitive-baseline-2026]] gives the classroom-level version of the self-efficacy paradox, [[cognitive-offloading-llm-synthesis-writing]] shows the offloading profile differing by what is offloaded rather than how much, and [[shaw-nave-cognitive-surrender-2026]] names the disposition that makes delegation habitual. For designers, the practical consequence is that optimizing for task success is not a neutral objective — a system tuned on assisted performance can be working against the outcome its own evaluation claims.
+
+## What this means for practice
+
+- **Instructors.** Score an unassisted version of the task. Undergraduates who produced quality peer feedback with generative AI assistance showed significant performance boosts that *diminished once the assistance was removed* — the gain lived in the tool, not in the learner.
+- **Instructors.** Require learners to do the rubric-checking, draft-evaluation and reflection themselves. In a randomized controlled study of argumentative essay writing, frequent generative AI use fostered "metacognitive laziness" in undergraduates, who handed the evaluative work to the tool instead of [[metacognition|doing it]].
+- **Instructors.** Spend the working memory that offloading frees on deeper processing rather than on finishing faster: undergraduates who relied heavily on ChatGPT for information gathering showed weaker argumentation and reasoning than those who used traditional, cognitively demanding research methods.
+- **Designers.** Do not tune a system on assisted task success. Perceived confidence and efficiency measured during AI-assisted work read high while technological dependence rises in the same learners, so an evaluation run inside the tool can certify the outcome it is eroding.
+- **Researchers.** Label and measure the two constructs separately: a [[meta-analysis-systematic-review|meta-analysis]] of 69 studies reported that generative AI improves student "academic performance" with a Hedge's *g* of 0.7 while pooling immediate task success, and only [[transfer-of-learning|retention and transfer]] measures taken after the tool is gone can support a learning claim.
+
+## Limitations
+
+- **The piece reports no primary data.** It is a comment in *Nature Reviews Psychology* (4, 435–436) that re-reads others' results, so it can reframe a literature but cannot establish that the performance/learning gap holds in any particular course.
+- **Its central claim is an argument from what was measured.** The indictment that the field reports performance and calls it learning is inferred from the pooled outcome measures — immediate task success across the 69 studies — not from a delayed unassisted measure that failed.
+- **The mechanism claims lean on a small set of cited results.** The cognitive load, metacognition, motivation and self-efficacy arguments each rest on one or two studies, so they function as framing for future tests rather than as demonstrated effects.
+- **The authors state the evidence base is incomplete.** How generative AI influences encoding, consolidation and retrieval is unresolved, and the interaction between AI-assisted learning and prior knowledge "remain[s] to be examined" — the agenda is a call for research, not a settled finding.
 
 ## Connected Concepts
 
@@ -80,7 +88,7 @@ The distinction changes what a study has to measure, and the knowledge base alre
 
 ## Connected Articles
 
-- [[generative-ai-guardrails-harm-learning]] — The causal demonstration: +48% assisted practice, −17% unassisted exam, removed by guardrails
+- [[generative-ai-guardrails-harm-learning]] — The causal demonstration that guardrails removed the assisted-practice harm
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitive laziness in its most visible form: aware pass-through of non-understanding
 - [[absent-cognitive-baseline-2026]] — Why AI-native students cannot locate their own cognitive boundary
 - [[cognitive-offloading-llm-synthesis-writing]] — Profiling what gets offloaded in LLM-mediated writing

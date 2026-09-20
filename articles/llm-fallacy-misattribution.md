@@ -60,17 +60,19 @@ Three system properties enable the fallacy via two cognitive mediators:
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors' Cognitive (fluency illusion) and [[ethics|Ethical]]-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
 - [[self-regulated-learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
 
-## Implications for Education
+## What this means for practice
 
-**Assessment integrity:** Completed assignments may reflect LLM capability rather than student learning. Observable outputs are unreliable proxies when AI mediation is invisible (both to human and automated evaluators).
+- **Instructors.** Require an explain-in-your-own-words step before submission and an unaided re-performance of the same task afterward: the misattribution persists whether the AI output is correct or hallucinated, so fluent work is never by itself evidence of the student's own competence.
+- **Instructors.** Name the mechanism out loud with students — polished, fluent output acts as a metacognitive cue for competence — and have them check their own [[cognitive-offloading|offloading]] rather than read ease as mastery. The fallacy needs a task that demands domain expertise, a seamless interaction, and fluent output, which is exactly AI-assisted writing, coding, and [[problem-solving]].
+- **Assessment designers.** Replace output-only grading with process-aware evidence of the human/system split, such as contribution provenance or an in-class unaided demonstration. AI mediation is invisible to both human and automated evaluators, and grades that rise while [[transfer-of-learning]] does not weaken what a credential signals.
+- **Designers.** Cut the system properties that enable the fallacy: surface the reasoner's trace to reduce opacity and require iterative user refinement to reduce interactional immediacy, keeping the boundary between user contribution and system generation salient throughout the task.
 
-**Metacognitive [[scaffolding]] needed:** Interventions should help users correctly attribute contribution — e.g., requiring students to explain AI-generated content in their own words before submission, or using "explain-to-a-peer" protocols.
+## Limitations
 
-**Tool design:** Systems that surface their reasoning process (reducing opacity) or require iterative refinement by the user (reducing immediacy) may mitigate the fallacy.
-
-**Necessary conditions:** The fallacy emerges when (a) a task involves LLM-mediated output generation requiring domain expertise, (b) the interaction is seamless enough that the human/system boundary is not salient, and (c) the output exhibits fluency associated with skilled human performance. In education these conditions are nearly definitional for AI-assisted writing, coding, and [[problem-solving]].
-
-**Credential inflation:** Because AI can raise short-term performance (assignment grades) while weakening the relationship between performance and competence, the LLM fallacy directly threatens the validity of [[authentic-assessment]] and the signaling function of educational credentials — degrees risk signaling AI-output-production skill rather than independently grounded expertise.
+- The framework is conceptual and reports no dataset of its own: the authors present its cross-domain patterns as conceptual and cross-contextual rather than controlled empirical validation, so capability divergence (∆C) is defined rather than measured.
+- Its evidence base is secondhand. The mechanisms draw on prior studies (e.g., Nam et al., 2024; Karny et al., 2024), so the framework inherits those samples, designs, and domain limits without adding new observations of learners.
+- The paper itself was drafted through a human–AI collaborative workflow, with LLMs used for drafting support, structural refinement, language optimization, and iterative conceptual exploration under the NLD-P prompting framework — a disclosed method that leaves the interpretive analysis non-independent of the technology being theorized.
+- The domain illustrations (computational, linguistic, analytical, creative, professional signaling) are assembled from existing literature as cross-contextual patterns; none is tested against unaided performance in a controlled setting.
 
 ## Connected Concepts
 

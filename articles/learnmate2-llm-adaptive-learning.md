@@ -29,6 +29,19 @@ The study demonstrates that LLM-powered [[personalized-learning]] can bridge the
 
 The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on [[metacognition|metacognitive]] support tools.
 
+## What this means for practice
+
+- **Instructors.** Adopt the full closed-loop workflow rather than a single feature: in the 16-participant comparison, the combined system produced significantly higher quiz scores than Khan Academy with Gemini-2.5 Pro (Quiz 1 M=13.375 vs 10.875, p=.0126; Quiz 2 M=7.875 vs 5.875, p=.0012).
+- **Designers.** Compare a new supplement against what students already do — the baseline here was an online platform paired with a general-purpose LLM, not the bare platform, so a measured advantage over Khan Academy alone would overstate the benefit.
+- **Instructors.** Prioritize real-time contextual assistance if you can pilot only one component: StudyMate was the only feature with significantly higher System Usability Scale scores (p=.0148).
+- **Designers.** Plan for sustained engagement beyond a single [[scaffolding|scaffolded]] session — participants asked for reminder notifications, and the studying and [[adaptive-learning|adaptation]] components are built for longer-term use than a 1.5-hour study can test.
+
+## Limitations
+
+- The evaluation draws on only 40 participants (24 in the preliminary study, 16 in the final study) in a single-session, within-subjects design of roughly 1.5 hours.
+- All course materials came from Khan Academy's World History Project, so the findings may not transfer to STEM or other knowledge types.
+- Outcomes rest on learner-reported perceptions and quiz performance rather than expert assessment of the quality of generated plans and responses.
+- The baseline paired Khan Academy with Gemini-2.5 Pro rather than a platform with built-in LLM support such as KhanMigo, so the advantage over integrated systems is untested.
 ## Connected Concepts
 
 - [[adaptive-learning]]

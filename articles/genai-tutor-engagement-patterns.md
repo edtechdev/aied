@@ -39,6 +39,20 @@ This study analyzes de-identified interaction logs from a commercial LMS with an
 
 Context mattered. At highly selective universities, the proportion of deep engagement (19.36% vs. 12.42%) and routine-learning engagement (58.88% vs. 40.41%) was significantly higher, while exam-driven engagement was lower (10.65% vs. 36.98%). [[stem-education|STEM]] courses showed significantly more shallow (15.41% vs. 8.56%) and routine-learning engagement and less exam-driven engagement than non-STEM courses, while STEM students were overall less likely to adopt the tutor (51% vs. 71% adoption). Adoption and usage intensity were not significantly associated with institutional selectivity. For [[learning-analytics]] and [[equity-in-ai-education]] in [[higher-ed]], the takeaway is that "engagement" is not a single behavior: interventions and regulations should target specific patterns — such as shallow, copy-paste-heavy use — rather than treating all GenAI Tutor use alike, especially since students who engaged shallowly were more likely to remain in that mode over time, pointing to a risk group for [[cognitive-offloading|Over-Reliance]] without deep processing.
 
+## What this means for practice
+
+- **Learners.** Have at least one understanding-oriented exchange per session instead of pasting a prompt and copying the answer: shallow sessions were a minority (10.4%) but students who used the tutor that way seldom moved out of it later in the semester.
+- **Instructors.** Design tasks so shallow use is not the path of least resistance. STEM courses, with their weekly closed-ended problems, showed significantly more shallow engagement (15.41% vs. 8.56%) than non-STEM courses.
+- **Administrators.** Monitor engagement quality rather than adoption or usage volume — selectivity was not significantly associated with adoption or usage intensity, but it was with the mix of engagement types (deep engagement 19.36% vs. 12.42% at highly selective institutions).
+- **Researchers.** Pair these interaction-log patterns with outcome measures. The authors state that identifying shallow engagement from copy-paste and answer-seeking indicators still requires validation against [[learning-gains|learning outcomes]] and other process measures.
+
+## Limitations
+
+- The evidence is one semester (Spring 2025) of interaction logs from a single commercial LMS's GenAI Tutor, labeled from behavioral, cognitive, and temporal session features rather than from any learning outcome.
+- The analyses cover classes and institutions with high GenAI Tutor adoption — 11,406 students in 200 classes across ten post-secondary institutions — so the estimates may not hold in settings where the tool is rarely used.
+- The study has no data on students' use of general-purpose [[generative-ai|GenAI]] tools, and students who adopted the tutor may be more motivated than those who did not, which limits attribution of the patterns to the tutor itself.
+- Shallow engagement was inferred from indicators such as copy-pasting and direct answer requests; the authors describe that identification as needing further validation.
+
 ## Connected Concepts
 
 - [[higher-ed]]

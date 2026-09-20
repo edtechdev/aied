@@ -81,6 +81,21 @@ Both scenarios emphasize the critical sequence: *independent thinking first, [[s
 - How should [[educational-development|faculty development]] programs train instructors to implement these principles at scale?
 - What empirical evidence is needed to validate the framework's efficacy claims?
 
+## What this means for practice
+
+- **Instructors.** Preserve [[desirable-difficulties|cognitive friction]]: require independent thinking and a first draft before any AI consultation, then use the LLM to generate counterarguments rather than answers (P1).
+- **Instructors.** Embed evaluation as standard practice rather than an optional add-on, with structured checkpoints where students ask which perspectives an AI output prioritizes, what is absent, and which claims lack justification.
+- **Instructors.** Align assessment with the cognition you intend: reward reasoning quality over surface fluency and assess how students interpret, question, and integrate AI-generated content rather than how polished the output reads (P7).
+- **Faculty developers.** Prepare educators for the shift from facilitator to "cognitive orchestrator" (UNESCO, 2023), covering how LLMs work, how to sequence AI-free and AI-mediated phases, and ethical sensitivity to data provenance, algorithmic bias, and platform dependency.
+- **Faculty developers.** Plan for systemic constraints rather than assuming good design spreads on its own: reported barriers include ethical concerns, fragmented curricula, inadequate infrastructure, and limited faculty training, and institutional policy frameworks remain uneven on data privacy, equity, and continuous evaluation.
+
+## Limitations
+
+- The study is conceptual and theoretical: it reports no human participants, no dataset, and no empirical validation of the framework's effectiveness.
+- The design principles rest on established theory and recent research but are untested in classrooms; the authors call for classroom-based interventions, design-based research, or comparative studies before efficacy claims are made.
+- The authors state that effectiveness and applicability may vary across disciplines, institutional contexts, and learner populations, since higher education systems differ in technological infrastructure, faculty expertise, and policy environments.
+- The analytics indicators the framework proposes — prompt formulation and revision patterns, draft modification sequences, transitions between AI-free and AI-mediated phases — are not directly observable measures of learning and are described as requiring pedagogical interpretation rather than automated classification.
+
 ## Connected Concepts
 
 - [[agency]]

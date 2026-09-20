@@ -49,6 +49,21 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 - How does institutional rethinking interact with [[finkelstein-principled-ai-education-2025]] frameworks?
 - Which structural incentives most effectively convert informal educator experimentation into scaled, recognized innovation?
 
+## What this means for practice
+
+- **Administrators.** Locate your institution on the four-level framework before funding more tools: many institutions currently operate around Level 0 or Level 1, where experimentation depends on motivated individual educators and is unrecognized in workload or promotion structures.
+- **Administrators.** Recognize AI-driven curriculum redesign in workload models and embed AI-enabled teaching innovation in promotion and teaching award criteria, so that scaling does not depend on unrecognized effort by individual educators.
+- **Instructors.** Redesign assessment toward reasoning and justification rather than trying to contain AI: the case units use live pitches, reflective portfolios, and viva voce to make students justify, explain, and adapt their thinking in real time.
+- **Faculty developers.** Build shared sensemaking about change rather than assuming that new tools or individual experimentation will suffice; the paper cites Kezar (2018) on change efforts that falter under implicit and overly simplistic theories of change.
+- **Administrators.** Create institutional pilots or funded initiatives that scale successful teaching innovations beyond individual courses, since isolated innovations otherwise remain unrecognized and unable to spread.
+
+## Limitations
+
+- The framework is illustrated through a small, purposively chosen set of cases — AI-enabled curriculum initiatives in several units at the authors' own institution, plus published accounts of a Macquarie University unit and a Nanjing Normal University unit delivered to over 250 undergraduate students — rather than a systematic or representative sample of institutions.
+- The authors state that it is not completely clear whether the flagship "AI-native" examples (LSI and SUTD) are genuinely at the strategic adoption stage, so level assignments rest on public positioning rather than verified practice.
+- No outcome data on student learning, or on the effects of the recommended workload and promotion changes, are reported; the strategic steps are recommendations to be tested rather than evaluated interventions.
+- Case evidence spans Australia, the UK/Singapore, and China, and the paper notes that national policy levers such as TEQSA guidance may push adoption toward Level 2 or toward fragmented, ad hoc responses — a contingency the framework does not model.
+
 ## Connected Concepts
 
 - [[educational-development]]
