@@ -2,6 +2,7 @@ import { markdownToHtml, defineHastPlugin } from 'satteri';
 import Slugger from 'github-slugger';
 import katex from 'katex';
 import { CONCEPT_REDIRECTS } from '../data/conceptRedirects';
+import { CONNECTED_SECTION_KIND, pageTypeIcon, type PageKind } from './pageTypeIcons';
 
 export interface Heading {
   text: string;
@@ -127,6 +128,48 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
     },
   });
 
+  // Connected lists: `## Connected Concepts` / `## Connected Articles` render as
+  // plain bullet lists, and a bullet says nothing about what a link points at.
+  // Mark the list `.connected-list` and prepend the same Lucide page-type icon
+  // the sidebar and journal use, so concepts and articles are distinguishable at
+  // a glance. State is per-render (this plugin is built inside the render call)
+  // and tracks the most recent h2, since the sections are `h2` followed by the
+  // list.
+  let connectedKind: PageKind | null = null;
+  const connectedListPlugin = defineHastPlugin({
+    name: 'wiki-connected-lists',
+    element: [
+      {
+        filter: ['h2'],
+        visit(node, ctx) {
+          connectedKind = CONNECTED_SECTION_KIND[ctx.textContent(node).trim().toLowerCase()] ?? null;
+        },
+      },
+      {
+        filter: ['ul'],
+        visit(node, ctx) {
+          const kind = connectedKind;
+          if (!kind) return;
+          connectedKind = null;
+          ctx.setProperty(node, 'className', ['connected-list']);
+          for (const child of node.children as any[]) {
+            if (!isElement(child) || child.tagName !== 'li') continue;
+            // Put the icon inside the item's own link where there is one (every
+            // connected entry is a wikilink), matching ConnectedList.astro — so
+            // it also picks up the link's hover colour.
+            const link = (child.children as any[]).find(
+              (c) => isElement(c) && c.tagName === 'a',
+            );
+            ctx.prependChild((link ?? child) as any, {
+              type: 'raw',
+              value: pageTypeIcon(kind),
+            });
+          }
+        },
+      },
+    ],
+  });
+
   // Render Sätteri math (`<code class="language-math ...">`) to KaTeX HTML.
   const mathPlugin = defineHastPlugin({
     name: 'wiki-math',
@@ -159,7 +202,7 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
 
   const { html } = markdownToHtml(md, {
     features: { gfm: true, math: true, frontmatter: true },
-    hastPlugins: [blockquotePlugin, mathPlugin, headingPlugin],
+    hastPlugins: [blockquotePlugin, connectedListPlugin, mathPlugin, headingPlugin],
   });
 
   return { html, headings };
