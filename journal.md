@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-20 | Total entries: 1551
+Last updated: 2026-09-20 | Total entries: 1558
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
@@ -9,7 +9,9 @@ Last updated: 2026-09-20 | Total entries: 1551
 - 📄 [[ai-ethical-awareness-ghana-students-2026]] — Artificial intelligence ethical awareness of university students in Ghana: A network and latent profile analyses
 - 📄 [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in higher education: Autonomy, self-efficacy and innovation in early-career scientific training
 - 📄 [[ai-supported-automated-programming-assessment-2026]] — Design and Evaluation of an AI-Supported Automated Programming Assessment Environment for Concept-Aligned Reinforcement in Engineering and Computing Education
+- 📄 [[austin-ai-agents-assignment-redesign-2026]] — When AI Agents Can Complete the Assignment: Practical Strategies for Designing Tasks That Still Require Human Thinking
 - 📄 [[chatgpt-music-education-junior-high-2026]] — Junior high school student perspectives on the use of ChatGPT in music education
+- 📄 [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning
 - 📘 [[cognitive-surrender]] — Cognitive Surrender
 - 📄 [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
 - 🧰 [[drawsplat]] — DrawSplat
@@ -25,10 +27,15 @@ Last updated: 2026-09-20 | Total entries: 1551
 - 🧰 [[lesson-md]] — LESSON.md
 - 📘 [[librarians]] — Librarians
 - 🧰 [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
+- 📄 [[petricini-zipf-ai-use-ethics-matrix-2026]] — Designing for Virtuous AI Use: The AI-Use Ethics Matrix in AI-Mediated Classrooms
+- 🧰 [[playlab]] — Playlab
 - 🧰 [[pressing-prompts]] — Pressing Prompts
+- 📄 [[reed-resource-literacy-genai-composition-2026]] — Addressing Resource Literacy Through Structured AI Integration in Online English Composition
 - 📄 [[school-leaders-ai-readiness-professional-development-2026]] — Exploring basic school leaders' AI readiness: The role of professional development
 - 📄 [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: Exploring teachers' contextual ethical reasoning through an STS lens
 - 🧰 [[teacherserver]] — TeacherServer
+- 📄 [[wood-moss-ai-arc-agency-responsible-ai-2026]] — Cultivating Agency and Responsible AI Use Through the AI-ARC Framework
+- 📄 [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI Intrapreneurship: Educators as Frontline Innovators in the Age of Generative AI
 
 ## 2026-09-19
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritize Learning over Performance

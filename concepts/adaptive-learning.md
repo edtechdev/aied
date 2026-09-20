@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-20T16:38:31-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -51,6 +51,8 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - **Correctness-based adaptivity can stop practice too early.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] found that adaptive systems inferring mastery from correctness risk terminating practice before learners encounter contexts where the learned action should be withheld — leaving deceptive overgeneralization undetected. They recommend including "do-not-act" detector tasks before mastery stopping rules trigger, so adaptation tests conditional understanding (knowing when to withhold an action), not only correctness.
 
 - **Engagement profiles as adaptation targets.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] traced 315 online learners building 822 models in VERA and classified their engagement into Observation, Construction, and Exploration profiles, finding that learners tend to progress from construction-focused behavior toward fuller, hypothesis-driven Exploration while Observation persists across phases. They argue adaptive and personalized design should recognize these profiles and target feedback (e.g., recommending similar models or supporting deeper conceptual understanding) to move surface-level observers toward more integrative, full-cycle modeling.
+
+- **The gain came from sequencing, not from a smarter tutor.** [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al. (2026)]] trained a personalized tutor with LLM-guided reinforcement learning and deployed it in a five-month Python course across ten Taipei [[k-12|high schools]], randomizing 770 students between adaptive and fixed easy-to-hard problem sequences. Adaptive sequencing raised the in-person, unassisted [[summative-assessment|final exam]] score by 0.156 SD (0.150 SD with controls) — while mediation analysis attributed the effect almost entirely to engagement (0.185 SD via time on task, 0.149 SD via attempts) rather than to easier or harder material, and gains were largest for beginners and lower-tier schools. The adaptive lever was the order of practice, not the quality of the chat.
 
 ## Connected Concepts
 
@@ -119,3 +121,4 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[an-goel-self-directed-modeling-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[sidorkin-ai-generated-course-readings-2026]] — Learner-requested adaptation of AI-generated readings, with no student model (Sidorkin 2026)
+- [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Adaptive problem sequencing beats fixed sequencing: +0.156 SD on an unassisted exam, mediated by engagement rather than difficulty (Chung et al. 2026)
