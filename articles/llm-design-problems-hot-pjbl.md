@@ -1,7 +1,7 @@
 ---
 title: LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [project-based-learning, scaffolding]
 technology: [generative-ai, llm]
@@ -31,9 +31,20 @@ Bridges [[generative-ai]] generation with [[formative-assessment]] and [[active-
 
 The study triangulates three perspectives: instructor perceptions (surveys with 31 instructors), LLM generation capability (80 generated DPs evaluated for quality and expert agreement), and [[student-experience|student experience]] (performance data plus keystroke logs). The negligible correlation between DP performance and traditional project grades is the key psychometric signal: it indicates the assessment captures a different construct — transfer-oriented higher-order thinking — than project artifacts alone.
 
-## Implications for AI in Education
+## What this means for practice
 
-DPs appear to be a **useful complement to traditional assessments**, particularly in situations where AI use or collaboration may undermine individual learning: because DPs demand application in novel scenarios, they are harder to complete by simply reusing project artifacts or generated code. The strong expert agreement on LLM-generated prompts makes scalable HOT assessment feasible, and the keystroke evidence connects DP work to deeper engagement. This positions LLM-generated DPs as a practical instrument for [[formative-assessment]] and for evaluating transfer in project-based computing education.
+- **Instructors.** Add a short, individually completed DP alongside the project artifact and grade it separately, particularly where AI use or collaboration may undermine individual learning: 28.2% of students were Implementers who scored well on the project but below passing on the DP, and DP grades correlated negligibly with project grades (Spearman's ρ from −0.05 to 0.03).
+- **Instructors.** Frame DPs as transfer tasks in novel scenarios and say how much scope is expected, because open-ended demand creates a student-expert feasibility gap: students rated Feasibility lowest of the five criteria (M = 3.63, 14% disagreeing) while experts rated the same prompts at 0.94 or above.
+- **Instructors.** Administer DPs on screen rather than on paper when the rubric rewards justification: the paper-based course averaged 44.80 words and 3.93/8, against 126.04 words and 6.64/8 and 154.80 words and 7.60/8 in the two web-based courses, and word count correlated with DP grade (ρ = 0.67).
+- **Designers.** Budget instructor review into any generation pipeline instead of shipping model output as final: only 40/80 generated DPs (50%) drew perfect scores from both raters, and the rest included 13/80 too close to the original project, 16/80 ambiguous in scope, and 4/80 that lowered cognitive demand with an obvious solution path.
+- **Designers.** Prompt a reasoning-oriented model by default — it beat the standard model on scenario quality (0.97 vs. 0.77, p < 0.001, d = 0.88) and feasibility (1.00 vs. 0.94, p = 0.018) — but keep human review in the loop, since students rated the two model types identically and student–expert agreement on the 39 shared DPs was κ = −0.11.
+
+## Limitations
+
+- The expert evaluation of the 80 generated DPs was conducted by two of the authors, which the paper states may introduce confirmation bias; it was mitigated through rubric calibration (Cohen's κ = 0.66 overall), criterion-level agreement checks, and triangulation with student ratings.
+- Course comparisons are confounded by administration mode: one of the three deployments (DT3) used paper while the other two used a web-based interface.
+- Keystroke metrics — mean initial planning latency of 167.2s and 114.6s, 12–16 characters deleted per 100 typed, and about 15 pauses per session longer than 10 seconds — are indirect behavioral proxies for planning, revision, and synthesis rather than direct measures of cognition.
+- Classroom deployment samples are small and uneven, at 28, 40, and 10 students across the three courses, and because DPs are open-ended, grading remains subjective and may require additional support to scale.
 
 ## Connected Concepts
 
