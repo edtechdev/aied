@@ -13,11 +13,12 @@ A free, linked knowledge base on artificial intelligence in education — resear
 - **Articles** — one page per paper: key findings, methods, and an APA citation with a linked full text.
 - **Concepts** — synthesized topic pages that connect related research (e.g. *feedback*, *assessment*, *teacher-role*), each with pre-reading questions, an introduction, and links to supporting articles.
 - **FAQs** — curated answers to common questions, cross-linked to the concepts and articles behind them.
+- **Resources** — 🧰 free tools, collections, assessment instruments and open formats worth using, each with an access note, a last-verified date, and the concepts it serves.
 - Every page links to related pages via `[[wikilink]]`s, so you can follow a topic across the whole knowledge base.
 
 ### Use it with your own AI assistant
 
-The knowledge base is agent-ready: it publishes `llms.txt` (a catalog of every page with one-line descriptions), `llms-concepts.txt` (full text of the concept pages, about 3 MB) and `llms-full.txt` (full text of every page, about 15 MB), so any AI chatbot or agent can use it as a grounded research reference.
+The knowledge base is agent-ready: it publishes `llms.txt` (a one-line catalog of every article, concept and FAQ), `llms-concepts.txt` (full text of the concept pages, about 3.5 MB) and `llms-full.txt` (full text of every article, concept and FAQ, about 15 MB), so any AI chatbot or agent can use it as a grounded research reference. Resource pages are listed on the site and in the offline exports but are deliberately left out of the llms files, since their content lives on the external site they link to.
 
 Copy-paste this prompt into your AI assistant:
 
@@ -46,7 +47,7 @@ The knowledge base is also published as downloadable eBooks, generated from the 
 - **EPUB** — `https://edtechdev.github.io/aied/aied.epub`
 - **PDF** — `https://edtechdev.github.io/aied/aied.pdf`
 
-Both contain the home introduction, the *Use-With-AI* page, all **concept pages** (organized into chapters by umbrella group, with a clickable, numbered table of contents), and the **FAQ pages**. They contain only the concept and FAQ pages — not the hundreds of article summaries.
+Both contain the home introduction, the *Use-With-AI* page, all **concept pages** (organized into chapters by umbrella group, with a clickable, numbered table of contents), the **FAQ pages**, and a closing **Free Tools and Resources** appendix. They contain the concept, FAQ and resource pages — not the hundreds of article summaries.
 
 ### License
 
@@ -60,7 +61,7 @@ Code in this repository is licensed under the **MIT License**; the knowledge-bas
 
 - **Astro 7** static site generator, deployed via GitHub Actions to GitHub Pages at base path `/aied`.
 - **Pagefind** for full-text search, **RSS + sitemap**, **JSON-LD** schema.org structured data.
-- Content lives in markdown collections (`articles/`, `concepts/`, `faqs/`) defined in `src/content.config.ts`; the build runs `astro check` + `astro build` + Pagefind + a service-worker step.
+- Content lives in markdown collections (`articles/`, `concepts/`, `faqs/`, `resources/`) defined in `src/content.config.ts`; the build runs `astro check` + `astro build` + Pagefind + a service-worker step.
 
 ### Site configuration: `site.config.json`
 
@@ -74,17 +75,18 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 ├── articles/          # Article pages (one markdown file per paper)
 ├── concepts/          # Synthesized concept pages (topic overviews)
 ├── faqs/              # Curated FAQ pages (question-and-answer)
+├── resources/         # Free tools, collections and instruments, each with an access + last-verified note
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts) — gitignored, not committed
 ├── src/
 │   ├── config/        # siteConfig.ts (wraps site.config.json with types)
 │   ├── layouts/       # BaseLayout.astro (nav, search, footer)
 │   ├── lib/           # jsonld.ts (schema.org helpers), content.config.ts (schema)
 │   ├── components/    # JsonLd.astro, SourceButtons.astro
-│   └── pages/         # index, journal, search, faq, ai, rss, + dynamic pages
+│   └── pages/         # index, journal, search, faq, resources, ai, rss, + dynamic pages
 ├── public/
-│   ├── llms.txt         # Agent-ready catalog (every page, one line each)
+│   ├── llms.txt         # Agent-ready catalog (every article, concept and FAQ, one line each)
 │   ├── llms-concepts.txt # Full text of the concept pages (~3 MB)
-│   ├── llms-full.txt    # Full text of every page (~15 MB)
+│   ├── llms-full.txt    # Full text of every article, concept and FAQ (~15 MB)
 │   ├── aied.epub      # Offline EPUB version (concepts + FAQs)
 │   ├── aied.pdf       # Offline PDF version (concepts + FAQs)
 │   ├── epub-cover.png # Book cover used by the EPUB/PDF
@@ -101,6 +103,7 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 - **Article pages** — frontmatter (title, `created`/`updated` full quoted timestamps, type, **`sources`**, confidence, plus the typed metadata fields) → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional: omit when the study gives no basis) → Connected Concepts → Connected Articles → Connected FAQs → **`## Citation` last**. The citation hyperlinks the paper's own title; the body carries no separate PDF or DOI link line. One page per paper. `audit-article-sections.py` enforces the section order and those counts.
 - **Concept pages** — frontmatter → synthesis blockquote → `## Questions to Consider` (pre-reading questions, required on every concept page) → `## Introduction` → body with wikilinks → Connected Concepts → Connected Articles.
 - **FAQ pages** — frontmatter → question heading → narrative answer with wikilinks. Curated answers; no sources, no Citation. Linked to concept and article pages via a **Connected FAQs** section (frontmatter `connected_faqs`).
+- **Resource pages** — frontmatter (`url`, `resource_type`, `access`, `license`, `last_verified`, plus the typed metadata fields) → a fact block (visit, source, author, type, access, license, last verified) → short prose → Metadata table → Connected Concepts / Connected Resources. No `## Citation` — these are not papers. `check-resource-links.py` re-checks every external URL.
 - All inter-page links use `[[wikilink]]` syntax, which the Astro templates render as hyperlinks.
 - **Typed metadata replaced tags** (retired 2026-09-17). The concepts a page touches are named in the facet fields — `foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics` — each taking concept slugs filed under that field's own registry section, alongside the phrase fields `research_method`, `discipline`, `level`, `audience` and `page_kind`. They render as the Metadata table at the foot of every page and drive the PageFind facets and the page's schema.org keywords. A value of the wrong kind fails the build. See [`tooling/SCHEMA.md`](tooling/SCHEMA.md).
 - **Structured data** — every page emits schema.org JSON-LD (`Article`/`DefinedTerm`/`FAQPage` as appropriate). See [`docs/json-ld.md`](docs/json-ld.md).
@@ -142,7 +145,7 @@ The EPUB/PDF and cover are committed artifacts built locally (like `llms-full.tx
 Scheduled jobs keep the knowledge base up to date:
 
 1. **Daily scan** — searches arXiv (cs.CY, cs.HC, cs.CL, cs.AI, physics.ed-ph) and EdArXiv for new AI-in-education papers.
-2. **Weekly journal scan** — ingests open-access articles from journal RSS feeds (Computers and Education: Artificial Intelligence, British Journal of Educational Technology, and others).
+2. **Weekly journal scan** — ingests open-access articles from journal RSS feeds (Computers and Education: Artificial Intelligence, British Journal of Educational Technology, the Journal of Instructional Design and Technology, and others). The feed list and each journal's freshness window live in `wiki.config.yaml` → `journal_scan.feeds`; batch-publishing journals get a longer window so a quiet mailing does not blank them out.
 3. **Manual ingestion** — PDFs or preprint URLs can be sent at any time.
 
 Each run filters for relevance, skips already-ingested items, creates article pages (and updates concept pages), rebuilds the site, and commits + pushes to GitHub Pages.
@@ -159,6 +162,7 @@ Each run filters for relevance, skips already-ingested items, creates article pa
 | An article's sections rejected | `python3 tooling/scripts/audit-article-sections.py --changed` — reports missing practice/Limitations sections, wrong bullet counts (practice 3–5, Limitations 2–4) and citations that are not last |
 | A number in a page is not in its source | `python3 tooling/scripts/verify-number-grounding.py <slug>` — grounded means the token appears in `raw/papers/<file>.md`. Leading-dot p-values, table columns split across lines and values duplicated by the HTML conversion (`0.6950.695`) are false positives: grep the raw before changing prose |
 | British spelling crept in | `python3 tooling/scripts/check-us-english.py --include-docs` — house style is US English; the checker ignores slugs, link targets and inline code |
+| A resource link has rotted | `python3 tooling/scripts/check-resource-links.py` — re-checks every resource URL and reports the `last_verified` date that needs bumping |
 | YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 
 ---
@@ -170,7 +174,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — AI agent skill definition (the `research-wiki` ingestion + export pipeline)
 - **`tooling/SCHEMA.md`** — Page conventions, the typed metadata fields (tags are retired), and the generated vocabulary lists
-- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), readfile-corruption checker, US-English checker (`check-us-english.py`) and its fixer (`respell-us-english.py`)
+- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), resource link checker (`check-resource-links.py`), readfile-corruption checker, US-English checker (`check-us-english.py`) and its fixer (`respell-us-english.py`)
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
 - **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views

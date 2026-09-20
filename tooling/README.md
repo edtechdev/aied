@@ -9,8 +9,8 @@ to point the pipeline somewhere else. Everything below describes the workflow.
 
 **What this tooling does:**
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph), EdArXiv and PsyArXiv (by subject, e.g. Educational Psychology) for new papers in your domain
-- **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd — see `wiki.config.yaml` → `journal_scan.feeds`)
-- Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
+- **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd, JOIDAT — see `wiki.config.yaml` → `journal_scan.feeds`). Each feed carries its own freshness window, so a batch-publishing journal is not blanked out between mailings.
+- Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, one `faqs/<slug>.md` per curated question and one `resources/<slug>.md` per external tool or collection, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt` / `llms-concepts.txt` / `llms-full.txt`
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
@@ -110,6 +110,7 @@ wiki/
 ├── articles/          # One page per paper (synthesis, findings, citations)
 ├── concepts/          # One page per broad topic (synthesizes multiple papers)
 ├── faqs/              # Curated FAQ pages (question-and-answer)
+├── resources/         # External tools, collections, instruments and open formats a reader can go and use
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
 ├── concepts.registry.yaml  # Concept vocabulary: slugs, titles, phrases, sections, redirects
 ├── wiki.config.yaml   # Pipeline config: paths, gates, scan sources, journal feeds, agent block
@@ -130,6 +131,7 @@ wiki/
 - **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text). `audit-article-sections.py` is the gate on the order and the counts.
 - **Concept pages** (`concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → `## Questions to Consider` (required) → `## Introduction` → body sections with wikilinks → Connected Concepts → Connected Articles.
 - **FAQ pages** (`faqs/<slug>.md`) — one per curated question-and-answer. Frontmatter → question heading → narrative answer with wikilinks (can link to concepts, articles, and other FAQs). No sources/citation. Listed on the journal page (❓), indexed in llms files, and linked from concept/article pages via `connected_faqs`.
+- **Resource pages** (`resources/<slug>.md`) — one per external resource worth pointing readers at: a tool, a collection, an assessment instrument, an open format. Frontmatter carries `url` (required), `resource_type`, `access` (full-text accessibility for the reader), `license` and `last_verified`; the body is a fact block → short prose → Metadata table → Connected Concepts / Connected Resources. No `## Citation` — a resource is not a paper. Listed on `/resources/`, in `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and in the closing chapter of the EPUB/PDF. `python3 tooling/scripts/check-resource-links.py` re-checks every URL and flags the `last_verified` dates that need bumping.
 
 Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro templates.
 
@@ -148,6 +150,9 @@ Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro 
 ```bash
 # Fetch journal RSS feeds (outputs JSON to stdout)
 python3 tooling/scripts/fetch-rss-feeds.py
+
+# Re-check every resource URL and its last_verified date
+python3 tooling/scripts/check-resource-links.py
 
 # Regenerate agent-ready files
 python3 tooling/scripts/generate-llms-files.py
@@ -219,7 +224,7 @@ The site publishes machine-readable files for AI agents:
 
 - **`llms.txt`** — complete catalog: every article, concept, and FAQ, one line each
 - **`llms-concepts.txt`** — full text of the concept pages only, about 3 MB: the file to hand a chat that rejects the larger one
-- **`llms-full.txt`** — full text of every page, about 15 MB
+- **`llms-full.txt`** — full text of every article, concept and FAQ, about 15 MB (resource pages are excluded: their content lives on the external site they link to)
 - **`robots.txt`** — search indexing + sitemap
 - **JSON-LD structured data** — a linked schema.org `@graph` on every page, generated by `src/lib/jsonld.ts` + `src/components/JsonLd.astro` (see `docs/json-ld.md`)
 
