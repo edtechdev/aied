@@ -291,7 +291,7 @@ Requirements and conventions:
   itself states.
 - `connected_resources` is frontmatter (validated against `resources/`), so the section can never
   point at a page that does not exist. The same field is available on articles, concepts and FAQs.
-- Encyclopedia-style body, 150–300 words across the sections above, US English, `[[wikilinks]]` to
+- Encyclopedia-style body, roughly 200–350 words across the sections above (a platform with several capability areas sits at the top of that range), US English, `[[wikilinks]]` to
   concepts in the body and a `## Connected Concepts` list naming the concepts the resource serves.
 - Rendered at `/aied/resources/<slug>/`; listed on the `/aied/resources/` index (grouped by first
   `resource_type`), on `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and as the
