@@ -35,7 +35,7 @@ import glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 FACET_VOCAB_TS = os.path.join(ROOT, 'src', 'data', 'facetVocab.ts')
-COLLECTIONS = ('articles', 'concepts', 'faqs')
+COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 OTHER_FIELDS = ('discipline', 'level', 'audience', 'research_method', 'page_kind')
 
 

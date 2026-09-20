@@ -33,6 +33,7 @@ const articles = await getCollection('articles');
 
 
 const faqs = await getCollection('faqs');
+const resources = await getCollection('resources');
 // Tag chips use the page's own title ("Well-Being", not "well being"); long titles
 // are skipped so a chip stays short.
 const tagLabel = (tag: string): string => {
@@ -48,6 +49,13 @@ const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
+
+// Connected Resources: slugs in frontmatter `connected_resources`. Loaded from the
+// resources collection so the section shows the resource's own title and summary.
+const resourceById = new Map(resources.map(r => [r.id.replace('.md', ''), r]));
+const connectedResources = (concept.data.connected_resources || [])
+  .map(s => resourceById.get(s))
+  .filter((r): r is NonNullable<typeof r> => Boolean(r));
 
 // Connected FAQs: slugs in frontmatter `connected_faqs`
 const connectedFaqs = (concept.data.connected_faqs || [])
@@ -98,6 +106,9 @@ const toc = rendered.headings.filter(h => h.depth <= 3);
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
+if (connectedResources.length > 0) {
+  toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
+}
 ---
 <BaseLayout title={title} toc={toc}>
   <JsonLd
@@ -135,6 +146,24 @@ if (connectedFaqs.length > 0) {
               <a href={`/aied/faqs/${f.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
                 ❓ {f.data.title}
               </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {connectedResources.length > 0 && (
+      <section style="margin-top:2.5rem;" id="connected-resources">
+        <h2>Connected Resources</h2>
+        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
+          {connectedResources.map(r => (
+            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
+              <a href={`/aied/resources/${r.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+                🧰 {r.data.title}
+              </a>
+              {r.data.summary && (
+                <div style="color:var(--muted-color);font-size:0.9rem;margin-top:0.2rem;">{r.data.summary}</div>
+              )}
             </li>
           ))}
         </ul>

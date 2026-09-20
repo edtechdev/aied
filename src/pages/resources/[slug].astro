@@ -1,0 +1,200 @@
+---
+// A resource page: a free tool, collection, instrument pack or open format a reader
+// can go and use. Unlike articles and concept pages there is no study to summarize,
+// so the header carries what a reader needs to decide whether to click through -
+// the link, who made it, what kind of thing it is, and when the link was last
+// checked - and the body says what it does and where its limits are.
+//
+// Field labels of the metadata table link to their umbrella concept page (see
+// MetadataTable.astro); Connected Resources comes from frontmatter so it can be
+// validated and rendered the same way on every page type.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SourceButtons from '../../components/SourceButtons.astro';
+import MetadataTable from '../../components/MetadataTable.astro';
+import StarButton from '../../components/StarButton.astro';
+import { renderMarkdown } from '../../lib/markdown';
+
+export async function getStaticPaths() {
+  const resources = await getCollection('resources');
+  return resources.map(r => ({ params: { slug: r.id.replace('.md', '') } }));
+}
+
+const { slug } = Astro.params;
+const resources = await getCollection('resources');
+const concepts = await getCollection('concepts');
+const articles = await getCollection('articles');
+const faqs = await getCollection('faqs');
+const resource = resources.find(r => r.id.replace('.md', '') === slug);
+if (!resource) return Astro.redirect('/aied/resources/');
+
+const resourceById = new Map(resources.map(r => [r.id.replace('.md', ''), r]));
+const faqById = new Map(faqs.map(f => [f.id.replace('.md', ''), f]));
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  concepts.map((c) => [c.id.replace('.md', ''), c.data.title]),
+);
+const connectedResources = (resource.data.connected_resources || [])
+  .map(s => resourceById.get(s))
+  .filter((r): r is NonNullable<typeof r> => Boolean(r));
+const connectedFaqs = (resource.data.connected_faqs || [])
+  .map(s => faqById.get(s))
+  .filter((f): f is NonNullable<typeof f> => Boolean(f));
+
+const allTitles: Record<string, string> = {};
+[...concepts, ...articles, ...faqs, ...resources].forEach(c => { allTitles[c.id.replace('.md', '')] = c.data.title; });
+const articleSlugs = new Set(articles.map(a => a.id.replace('.md', '')));
+const conceptSlugs = new Set(concepts.map(c => c.id.replace('.md', '')));
+const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
+
+const { title, created, updated, url, source_code, author, author_url, resource_type, access, license, last_verified } = resource.data;
+const body = resource.body || '';
+const rendered = renderMarkdown(body, { pageTitle: title, articleSlugs, conceptSlugs, faqSlugs, titles: allTitles });
+const toc = rendered.headings.filter(h => h.depth <= 3);
+if (connectedResources.length > 0) toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
+if (connectedFaqs.length > 0) toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
+const createdDisplay = (created || '').split('T')[0];
+const updatedDisplay = (updated || created || '').split('T')[0];
+// Values are lowercase enum strings in frontmatter; display them as written.
+const titleCase = (s: string) => s.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+const metaFields: { name: string; values: string[] | undefined }[] = [
+  { name: 'foundations', values: resource.data.foundations },
+  { name: 'pedagogy', values: resource.data.pedagogy },
+  { name: 'technology', values: resource.data.technology },
+  { name: 'assessment', values: resource.data.assessment },
+  { name: 'methods', values: resource.data.methods },
+  { name: 'institutions', values: resource.data.institutions },
+  { name: 'stakeholders', values: resource.data.stakeholders },
+  { name: 'ethics', values: resource.data.ethics },
+  { name: 'level', values: resource.data.level },
+  { name: 'audience', values: resource.data.audience },
+  { name: 'discipline', values: resource.data.discipline },
+  { name: 'resource_type', values: resource_type },
+  { name: 'access', values: access },
+];
+const pagefindFilterPairs: string[] = metaFields
+  .flatMap(({ name, values }) => (values || []).map((v) => `${name}:${v}`));
+---
+
+<BaseLayout title={title} toc={toc}>
+  <article data-pagefind-filter="page_type:resource" data-pagefind-weight="2">
+    {pagefindFilterPairs.map((pair) => <meta data-pagefind-filter={pair} />)}
+    <div class="page-header" id="top">
+      <p class="page-type-badge" style="font-size:0.8rem;color:var(--muted-color);margin-bottom:0.25rem;"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M2 9h20v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 9V7a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path><line x1="7" y1="13" x2="7" y2="15"></line><line x1="12" y1="13" x2="12" y2="15"></line><line x1="17" y1="13" x2="17" y2="15"></line></svg>Resource</p>
+      <h1>{title}</h1>
+      <div class="page-meta" style="color:var(--muted-color);font-size:0.9rem;margin-bottom:0.75rem;">
+        <StarButton slug={slug} kind="resource" />
+        created {createdDisplay}{updated ? ` · updated ${updatedDisplay}` : ''}
+      </div>
+
+      <div class="resource-bar">
+        <a class="resource-visit" href={url} target="_blank" rel="noopener">
+          Open {title} <span aria-hidden="true">↗</span>
+        </a>
+        <div class="resource-facts">
+          <div>
+            <strong>Made by</strong>{' '}
+            {author_url ? <a href={author_url} target="_blank" rel="noopener">{author}</a> : author}
+          </div>
+          {source_code && (
+            <div><strong>Source code</strong> <a href={source_code} target="_blank" rel="noopener">available <span aria-hidden="true">↗</span></a></div>
+          )}
+          <div>
+            <strong>Type</strong>{' '}
+            {(resource_type || []).map((t: string) => <span class="resource-chip">{titleCase(t)}</span>)}
+            {(access || []).map((a: string) => <span class="resource-chip resource-chip-access">{titleCase(a)}</span>)}
+          </div>
+          {license && <div><strong>License</strong> {license}</div>}
+          <div><strong>Link checked</strong> {last_verified}</div>
+        </div>
+        <p class="resource-url"><a href={url} target="_blank" rel="noopener">{url}</a></p>
+      </div>
+    </div>
+
+    <div style="line-height:1.8" data-pagefind-body>
+      <Fragment set:html={rendered.html} />
+    </div>
+
+    {connectedResources.length > 0 && (
+      <section style="margin-top:2.5rem;" id="connected-resources">
+        <h2>Connected Resources</h2>
+        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
+          {connectedResources.map(r => (
+            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
+              <a href={`/aied/resources/${r.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+                🧰 {r.data.title}
+              </a>
+              {r.data.summary && (
+                <div style="color:var(--muted-color);font-size:0.9rem;margin-top:0.2rem;">{r.data.summary}</div>
+              )}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    {connectedFaqs.length > 0 && (
+      <section style="margin-top:2.5rem;" id="connected-faqs">
+        <h2>Connected FAQs</h2>
+        <ul style="list-style:none;padding:0;margin:0.5rem 0 0 0;">
+          {connectedFaqs.map(f => (
+            <li style="padding:0.5rem 0;border-bottom:1px solid var(--card-border-color);">
+              <a href={`/aied/faqs/${f.id.replace('.md', '')}/`} style="font-weight:500;color:var(--primary);text-decoration:none;">
+                ❓ {f.data.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <MetadataTable conceptTitles={conceptTitles} data={resource.data} />
+    <SourceButtons filePath={`resources/${resource.id}.md`} />
+  </article>
+</BaseLayout>
+
+<style>
+  .resource-bar {
+    margin: 1.25rem 0 0.5rem;
+    padding: 1rem 1.1rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--primary) 4%, transparent);
+  }
+  .resource-visit {
+    display: inline-block;
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 1.05rem;
+    padding: 0.5rem 0.9rem;
+    border: 1px solid var(--primary);
+    border-radius: 8px;
+  }
+  .resource-visit:hover { background: color-mix(in srgb, var(--primary) 12%, transparent); }
+  .resource-facts {
+    margin-top: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.3rem;
+    font-size: 0.95rem;
+  }
+  .resource-facts strong { color: var(--muted-color); font-weight: 600; margin-right: 0.35rem; }
+  .resource-chip {
+    display: inline-block;
+    font-size: 0.8rem;
+    padding: 0.1rem 0.5rem;
+    margin: 0.15rem 0.25rem 0.15rem 0;
+    border-radius: 999px;
+    border: 1px solid var(--card-border-color);
+    background: var(--card-background-color);
+    color: var(--color);
+  }
+  .resource-chip-access { border-style: dashed; }
+  .resource-url {
+    margin: 0.85rem 0 0;
+    font-size: 0.85rem;
+    overflow-wrap: break-word;
+  }
+  .resource-url a { color: var(--muted-color); text-decoration: none; }
+  .resource-url a:hover { text-decoration: underline; }
+</style>

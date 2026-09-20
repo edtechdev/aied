@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-20 | Total entries: 1541
+Last updated: 2026-09-20 | Total entries: 1550
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
@@ -11,14 +11,23 @@ Last updated: 2026-09-20 | Total entries: 1541
 - 📄 [[ai-supported-automated-programming-assessment-2026]] — Design and Evaluation of an AI-Supported Automated Programming Assessment Environment for Concept-Aligned Reinforcement in Engineering and Computing Education
 - 📄 [[chatgpt-music-education-junior-high-2026]] — Junior high school student perspectives on the use of ChatGPT in music education
 - 📄 [[data-privacy-ai-african-higher-education-2026]] — Rethinking data privacy for AI adoption in African higher education: A meta-synthesis of stakeholder perceptions and policy implications
+- 🧰 [[drawsplat]] — DrawSplat
 - 📘 [[education-levels]] — Levels of Education
+- 🧰 [[edugems]] — EduGems
 - 📘 [[environmental-education]] — Environmental Education
 - 📄 [[flipped-learning-genai-design-education-2026]] — Integrating Flipped Learning and Generative AI for Practice-Based Design Education: Evidence from a Knit Yarn Design Course
 - 📄 [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
+- 🧰 [[id-toolbox]] — The ID Toolbox
+- 🧰 [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
+- 🧰 [[jev-sandbox]] — Jev Sandbox
 - 📘 [[latent-profile-analysis]] — Latent Profile Analysis
+- 🧰 [[lesson-md]] — LESSON.md
 - 📘 [[librarians]] — Librarians
+- 🧰 [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
+- 🧰 [[pressing-prompts]] — Pressing Prompts
 - 📄 [[school-leaders-ai-readiness-professional-development-2026]] — Exploring basic school leaders' AI readiness: The role of professional development
 - 📄 [[teachers-contextual-ethical-reasoning-ai-2026]] — Ethical principles of AI in education: Exploring teachers' contextual ethical reasoning through an STS lens
+- 🧰 [[teacherserver]] — TeacherServer
 
 ## 2026-09-19
 - 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritize Learning over Performance

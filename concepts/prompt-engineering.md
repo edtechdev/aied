@@ -10,6 +10,7 @@ stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high
+connected_resources: [edugems]
 ---
 
 > **Prompt engineering** — the practice of designing and refining inputs to large language models to achieve desired outputs. In education, prompt engineering serves dual roles: as a learner skill (students must learn to prompt effectively) and as a system design lever (developers craft prompts that shape [[intelligent-tutoring|AI tutoring]] behavior).

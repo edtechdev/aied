@@ -7,6 +7,7 @@ foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
 ethics: [equity-in-ai-education, ethics]
 confidence: high
+connected_resources: [pressing-prompts]
 ---
 
 > **Critical Pedagogy** — an educational approach, rooted in the work of Paulo Freire and later critical theorists such as Henry Giroux, that treats teaching and learning as inherently political acts. Rather than merely transmitting skills or knowledge, critical pedagogy asks who benefits from education, whose knowledge is privileged, and how schooling reproduces or resists systems of power and oppression. In AI-in-education, critical pedagogy interrogates the corporate and capitalist logics shaping AI adoption, centers the voices and epistemologies of marginalized communities, and treats [[ai-literacy|AI literacy]] as a practice of resistance and social transformation rather than mere technical competence.

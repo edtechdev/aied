@@ -11,7 +11,7 @@
 
 import { persistentAtom } from '@nanostores/persistent';
 
-export type PageKind = 'concept' | 'article' | 'faq';
+export type PageKind = 'concept' | 'article' | 'faq' | 'resource';
 
 /** Default starred pages (pre-seeded for everyone). */
 export const DEFAULT_STARRED = [
