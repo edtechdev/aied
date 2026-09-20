@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1329 | Concepts: 213 | Resources: 9 | FAQs: 32
+Articles: 1335 | Concepts: 213 | Resources: 10 | FAQs: 32
 
 ## Concepts
 
@@ -1558,5 +1558,6 @@ Articles: 1329 | Concepts: 213 | Resources: 9 | FAQs: 32
 - [[jev-sandbox]] — Jev Sandbox
 - [[lesson-md]] — LESSON.md
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
+- [[playlab]] — Playlab
 - [[pressing-prompts]] — Pressing Prompts
 - [[teacherserver]] — TeacherServer
