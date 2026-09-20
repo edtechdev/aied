@@ -1,7 +1,7 @@
 ---
 title: "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis"
 created: "2026-07-14T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [active-learning, scaffolding, self-regulated-learning]
 technology: [llm, reinforcement-learning, visualization]
@@ -29,9 +29,20 @@ A [[reinforcement-learning]] artifact grounded in [[active-learning]] and [[stem
 
 The tool was validated without human-subject data through three complementary evaluations: (i) correctness of the learned values and policy against a value-iteration ground truth on the identical MDP; (ii) hyperparameter sweeps over α, γ, and ε demonstrating that every [[pedagogy|pedagogical]] claim the tool makes is reproducible; and (iii) a reward-editing study in which editing the pit reward produced distinct failure modes: with a pit reward of +5 the optimal policy still reaches the goal (V*(s0)=6.38), yet Q-learning converges to the pit in 10/10 seeds — an exploration failure — whereas with a pit reward of +20 (above the 7.774 threshold) the optimal policy genuinely prefers the pit (V*(s0)=16.86) and Q-learning agrees in 10/10 seeds — true reward misspecification. The paper also situates the tool against existing gridworld visualizers via a feature comparison, grounds it in learning-by-doing pedagogy, and includes a 50-minute lesson plan; the tool and all experiment code are openly available.
 
-## Implications for AI in Education
+## What this means for practice
 
-Reinforcement learning is usually introduced through the Bellman update, yet the equation often remains abstract to undergraduates: they watch policy arrows converge but rarely observe how each value is computed or why an action is chosen. By making the numeric update and every decision visible and exportable, Q-Learning Lab supports [[self-regulated-learning]] and reflective inquiry in quantitative courses, and its learn–export–analyze loop gives instructors a reproducible way to diagnose common student confusions — such as conflating exploration failure with reward misspecification — that surface only when learners analyze their own agent's traces.
+- **Instructors.** Assign the learn–export–analyze loop rather than a demonstration: have students run their own agent, export the CSV trace, and build learning curves, value heatmaps, and visitation maps from their own data, so the analysis is learner-generated rather than shown.
+- **Instructors.** Run the two-regime reward-editing exercise in class: a pit reward of +5 leaves the optimal policy reaching the goal (V*(s0) = 6.38) while Q-learning converges to the pit in 10/10 seeds, whereas +20 makes pit-seeking genuinely optimal (V*(s0) = 16.86) with agreement in 10/10 seeds, and only a Bellman-optimal cross-check separates the two.
+- **Instructors.** Use the live Bellman-substitution panel to make the numeric update concrete, and have students predict the greedy-versus-random decision before each step executes, since the trace logs the full pre-action Q-row for every transition.
+- **Learners.** Verify before labeling: before calling a pit-seeking agent an example of reward hacking, compute the Bellman-optimal policy on the same MDP, because identical behavior can come from an under-optimized agent or from a badly specified objective.
+- **Instructors.** Present the 5×5 world as a first encounter and not as evidence about hyperparameters, since most settings eventually succeed on a deterministic grid; lean on the vivid failures (γ = 0, pit-seeking) and say plainly that the small MDP compresses contrasts.
+
+## Limitations
+
+- The tool was validated entirely without human-subject data — correctness against value-iteration ground truth on the identical MDP, hyperparameter sweeps over α, γ, and ε, and a reward-editing study at 10 seeds per regime — so the evaluation establishes algorithmic fidelity and reproducibility but no student learning gains, and the classroom study with a pre/post concept inventory is deferred.
+- Scope is deliberately narrow: tabular Q-learning on a deterministic, fully observable, single-agent 5×5 gridworld, with stochastic transitions, function approximation, continuing tasks, and multi-agent settings out of scope by design.
+- The small MDP produces ceiling effects — most hyperparameter settings, including all tested α values, converge — so the tool should not be presented as evidence that hyperparameters do not matter.
+- The on-screen trace keeps only the latest 500 steps and fast-training mode skips logging, so long training runs are only partially traced.
 
 ## Connected Concepts
 
