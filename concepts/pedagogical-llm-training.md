@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -91,6 +91,10 @@ Not all pedagogical shaping requires retraining. [[yasar-llms-iterative-pedagogi
 
 The lightest intervention in this family is not prompting but parameter-efficient adaptation. [[lora-finetuned-control-systems-course-qa-2026|Lu et al. (2026)]] built 360 system–user–assistant dialogues from a Linear Control Systems course, restructured answers into a Solution–Method–Teaching-Points format, and applied LoRA to Qwen2.5-3B and 7B at ranks 4, 8 and 16. Structured-output coverage moved from near zero at base to roughly 1.00, and the best configuration (7B, r = 16) reached ROUGE-L 0.4093 with bootstrap confidence intervals for the gain entirely above zero — but gain per million adapter parameters fell monotonically as rank rose, so course-level alignment is a scale-and-rank trade-off rather than a free upgrade. The metrics measure similarity and formatting, not derivational accuracy.
 
+## Approach 4: Training Simulator Roles, Not Only Tutors
+
+The same post-training machinery is now pointed at the learner side of the interaction, and the results say the supervision budget matters more than the prompt. [[misconception-acquisition-dynamics-llms-2026|Liu et al. (2026)]] instruction-tuned three small models to *acquire* algebra misconceptions in two roles — a Novice Student Misconception Model holding one misconception, and an Expert Tutor Misconception Model holding ten — and measured both misconception accuracy and correct-solving accuracy. The student role showed a trade-off no prompt could fix: the learned error overgeneralised beyond its applicable problem types until correct examples were explicitly mixed into the training data, at ratios as low as one correct example per four misconception examples. The tutor role showed no such cost, with correct accuracy stable or rising from 93% to 98% when ten misconceptions were trained jointly, though classroom-scale samples were insufficient and rare misconceptions would require cross-institution data. Most decisively, neither role acquired anything when trained on final answers alone — misconception accuracy stayed below 30% at every data size — so step-level solution traces, not more examples, are the binding requirement. [[swim-student-writing-simulation-2026|SWIM (Do, Kontak and Sachan, 2026)]] reaches the mirror conclusion for a writing simulator: rubric-grounded prompting gave limited proficiency control (best average trait QWK 0.577 for Claude Sonnet, 0.422 for GPT-5.4, near zero for prompting an open 7B model), supervised fine-tuning lifted a 7B model to 0.474 ± 0.023, and GRPO against an automated-essay-scoring-derived reward lifted it further to 0.618 ± 0.005 across every trait and prompt, with the reward designed as a dense trait-normalised accuracy because exact-match rewards are too sparse in the multi-trait setting.
+
 ## Synthesis: What Makes Pedagogical Training Work
 
 | Principle | EduQwen | ISD-Agent-Bench |
@@ -160,3 +164,5 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
+- [[misconception-acquisition-dynamics-llms-2026]] — data composition, correct-example mixing and step-level supervision for misconception-aware models
+- [[swim-student-writing-simulation-2026]] — supervised and reward-based training beat rubric prompting for proficiency control

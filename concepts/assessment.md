@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -158,3 +158,5 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test for learning outcomes in the AI era (Saleh 2026)
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
+- [[gpt4-handwritten-math-exam-grading-2026]] — AI grading of semi-open handwritten answers
+- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractor design for multiple-choice items

@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 stakeholders: [student-experience]
@@ -31,6 +31,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[huang-interpretable-knowledge-tracing-2026]] adapts knowledge tracing for conversational tutoring
 - **LLM-enhanced:** [[xie-hillm-cd-2026|HiLLM-CD]] uses LLMs for automated concept tree construction and hierarchical proficiency inference
+- **Semantic, recommendation-oriented KT:** [[exrec-exercise-recommendation-knowledge-tracing-2025|ExRec (Ozyurt, Almaci, Feuerriegel and Sachan, 2025)]] grounds the *input* rather than the architecture: an LLM annotates each question with solution steps and knowledge concepts aligned to the Common Core State Standards for Mathematics, contrastive learning aligns question, solution-step and concept embeddings (with false negatives removed by pre-clustering concept variants such as "interpreting a bar chart" and "reading information from a bar graph"), and a KC-calibration loss lets the tracer predict a concept-level knowledge state directly instead of inferring one by running the model over every question in that concept. The calibrated tracer then serves as the reinforcement-learning environment for exercise recommendation, where a model-based value estimation initialises the critic from the tracer itself. Across four tasks on XES3G5M averaged over 2,048 test students, non-RL baselines gave marginal or negative knowledge gains, value-based continuous methods beat policy-based ones, and the model-based value estimate improved them consistently — most sharply on the weakest-concept task, where the target changes at every step. Reported gains are percentage-of-maximum knowledge improvement, not learning outcomes, and the pipeline depends on generated solution steps whose quality the tracer inherits.
 - **Outcome-based knowledge tracing (OKT):** [[pradeesh-outcome-knowledge-tracing-affinity-2026|Pradeesh et al. (2026)]] trace student knowledge within Outcome-Based Education systems by treating **course outcomes as the knowledge concepts themselves**, and substitute expert-validated OBE "affinity mappings" between course and program outcomes for attention- or graph-derived concept relations. A Memory Augmented Neural Network (MANN) models how each outcome's attainment impacts others, and domain-adaptive BERT fine-tuning enriches the outcome embeddings (with a GRU backbone beating LSTM). On live [[engineering-education|engineering]]-program LMS data (2,416 students, 966 outcomes) OKT reached 89.81% AUC — outperforming DKT, DKVMN, EKT, and SimpleKT — while giving only competitive results on ASSISTments, confirming the advantage is tied to OBE-specific [[curriculum-design|curriculum]] structure.
 
 ### Relationship to other concepts
@@ -83,3 +84,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
+- [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation

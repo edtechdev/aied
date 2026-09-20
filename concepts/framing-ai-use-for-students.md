@@ -1,7 +1,7 @@
 ---
 title: Framing AI Use for Students
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -109,3 +109,4 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning
 
+- [[caeai-ai-companions-learning-over-performance-2026]] — designing companions that protect effortful learning

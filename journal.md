@@ -6,6 +6,13 @@
 - 📘 [[theories-and-frameworks]] — Theories and Frameworks
 - 📄 [[kasa-malksoo-ai-human-rights-education-2026]] — Challenges and opportunities of using artificial intelligence in human rights education: Reflections from higher education practice
 - 📄 [[pramod-agentic-ai-motivational-pathways-2026]] — Agentic AI in educational environments and its association with social and motivational pathways to learning performance
+- 📄 [[misconception-acquisition-dynamics-llms-2026]] — Misconception Acquisition Dynamics in Large Language Models
+- 📄 [[swim-student-writing-simulation-2026]] — SWIM: Student Writing Simulation via Proficiency-Conditioned Generation
+- 📄 [[lftutor-logical-fallacy-education-2026]] — Tackling the Root of Misinformation by Teaching Laypeople about Logical Fallacies via Socratic Questioning and Critical Argumentation
+- 📄 [[exrec-exercise-recommendation-knowledge-tracing-2025]] — Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing
+- 📄 [[llm-distractor-generation-student-reasoning-2026]] — Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation for Multiple-Choice Questions
+- 📄 [[gpt4-handwritten-math-exam-grading-2026]] — AI-assisted automated short answer grading of handwritten university-level mathematics exam
+- 📄 [[caeai-ai-companions-learning-over-performance-2026]] — Building AI Companions that Prioritise Learning over Performance
 
 Last updated: 2026-09-19 | Total entries: 1525
 
