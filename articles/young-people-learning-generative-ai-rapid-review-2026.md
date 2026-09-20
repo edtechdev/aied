@@ -46,7 +46,7 @@ The evidence does **not** support a simple beneficial-or-harmful conclusion. Rep
 
 ## The surrender–offloading–agency continuum
 
-Building on Shaw and Nave's (2026) *cognitive surrender*, the review's central practical framework distinguishes how students relate to GenAI across **cognitive, metacognitive, and affective** dimensions:
+Building on Shaw and Nave's (2026) *[[cognitive-surrender]]*, the review's central practical framework distinguishes how students relate to GenAI across **cognitive, metacognitive, and affective** dimensions:
 
 - **Surrender** — responsibility for learning-relevant work shifts to GenAI, often without deliberate awareness (accepting answers unchecked; letting GenAI decide what/how/when to learn; mistaking a fluent interaction for understanding).
 - **Offloading** — the learner intentionally delegates selected work (summarizing after an initial attempt, using GenAI for a study plan). This can support performance but only becomes learning if the student checks, elaborates, and connects output to their own understanding.
@@ -92,6 +92,29 @@ These are not fixed properties of a practice but of how a practice is enacted. T
 - [[learning-gains]]
 - [[philosophy-of-ai-in-education]]
 - [[higher-ed]]
+
+- [[k-12]]
+- [[generative-ai]]
+- [[cognitive-offloading]]
+- [[reducing-ai-misuse]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[ai-literacy]]
+- [[assessment]]
+- [[educational-policy-ai]]
+- [[equity-in-ai-education]]
+- [[teacher-education]]
+- [[student-engagement]]
+- [[transfer-of-learning]]
+- [[desirable-difficulties]]
+- [[feedback]]
+- [[scaffolding]]
+- [[agency]]
+- [[human-ai-collaboration]]
+- [[learning-gains]]
+- [[philosophy-of-ai-in-education]]
+- [[higher-ed]]
+- [[cognitive-surrender]]
 
 ## Connected Articles
 

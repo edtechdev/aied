@@ -54,6 +54,18 @@ A [[quantitative-research|quantitative]] study grounded in Social Cognitive Theo
 - [[generative-ai]]
 - [[higher-ed]]
 
+- [[self-directed-learning]]
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[self-efficacy]]
+- [[motivation]]
+- [[ai-misuse-learning-harm]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[generative-ai]]
+- [[higher-ed]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — Generative AI use and [[learning-gains|learning outcomes]]

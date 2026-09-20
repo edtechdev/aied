@@ -32,7 +32,7 @@ The core concept, articulated in [[genai-performance-vs-learning]], is that gene
 
 ### Mechanisms of harm
 
-- **Cognitive surrender** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
+- **[[cognitive-surrender]]** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When [[student-engagement|engagement]] analysis shows students mostly "ask for the answer," learning harm follows.
 - **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
@@ -82,6 +82,19 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[scaffolding]]
 - [[generative-ai]]
 - [[student-experience]]
+
+- [[self-directed-learning]]
+- [[remote-proctoring]]
+- [[cognitive-offloading]]
+- [[academic-integrity]]
+- [[assessment]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[metacognition]]
+- [[scaffolding]]
+- [[generative-ai]]
+- [[student-experience]]
+- [[cognitive-surrender]]
 
 ## Connected Articles
 

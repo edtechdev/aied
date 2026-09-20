@@ -77,6 +77,20 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[ai-ed-evaluation]]
 - [[community-of-inquiry]]
 
+- [[learning-theories]]
+- [[philosophy-of-ai-in-education]]
+- [[limitations-in-aied-research]]
+- [[research-methods-aied]]
+- [[generative-ai]]
+- [[constructivist]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[learning-gains]]
+- [[ai-education]]
+- [[ai-ed-evaluation]]
+- [[community-of-inquiry]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]

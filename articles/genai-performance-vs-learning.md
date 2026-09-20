@@ -86,6 +86,23 @@ The distinction changes what a study has to measure, and the knowledge base alre
 - [[theory-development-aied]] — theory development in AI in education
 - [[research-methods-aied]] — the methodological conflation the piece diagnoses
 
+- [[cognitive-offloading]] — the displacement of internal cognitive effort
+- [[metacognition]] — the evaluative reflection generative AI may bypass
+- [[self-regulated-learning]] — the planning–monitoring–evaluating loop at risk
+- [[self-efficacy]] — confidence that can rise as capability declines
+- [[motivation]] — intrinsic motivation and the learner's diminished role
+- [[self-determination-theory]] — autonomy and engagement as motivational preconditions
+- [[transfer-of-learning]] — the durable-knowledge criterion
+- [[prior-knowledge]] — an interaction the authors flag as unexamined
+- [[scaffolding]] — design that preserves cognitive engagement
+- [[socratic-method]] — dialogue that promotes elaboration
+- [[assessment]] — the measures that decide what counts as learning
+- [[learning-gains]] — the outcome the performance/learning distinction refines
+- [[generative-ai]] — the technology under analysis
+- [[theory-development-aied]] — theory development in AI in education
+- [[research-methods-aied]] — the methodological conflation the piece diagnoses
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[generative-ai-guardrails-harm-learning]] — The causal demonstration that guardrails removed the assisted-practice harm

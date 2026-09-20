@@ -102,7 +102,27 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[human-ai-collaboration]] — shared direction of AI-mediated interaction
 - [[agentic-ai]] — autonomous AI that can redistribute agency in groups
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
+- [[social-emotional-learning]] — Social-Emotional Learning- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[pedagogical-partnerships]] — Pedagogical Partnerships
+- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
+
+- [[self-directed-learning]]
+- [[self-regulated-learning]]
+- [[motivation]]
+- [[self-efficacy]]
+- [[student-experience]]
+- [[metacognition]]
+- [[ethics]]
+- [[cognitive-offloading]]
+- [[educational-robotics]]
+- [[behaviorism]]
+- [[framing-ai-use-for-students]]
+- [[human-ai-collaboration]] — shared direction of AI-mediated interaction
+- [[agentic-ai]] — autonomous AI that can redistribute agency in groups
+- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[social-emotional-learning]] — Social-Emotional Learning
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

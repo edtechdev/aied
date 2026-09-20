@@ -148,6 +148,27 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[llm]] — the underlying model of AI tools
 - [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[metacognition]] — the cognitive monitoring SRL relies on
+- [[self-efficacy]] — a forethought-phase belief driving effort
+- [[scaffolding]] — graduated support that preserves regulatory demand
+- [[feedback]] — input learners regulate around
+- [[feedback-literacy]] — the capacity to act on feedback
+- [[help-seeking]] — a strategic SRL behavior
+- [[motivation]] — the reciprocal partner of self-regulation
+- [[cognitive-offloading]] — the risk when AI removes regulatory work
+- [[generative-ai]] — the technology that can scaffold or short-circuit SRL
+- [[ai-literacy]] — regulatory competence in AI use
+- [[self-directed-learning]] — the broader autonomy construct
+- [[agency]] — the learner's capacity to act with intention, central to regulation, integration, and positioning
+- [[adaptive-learning]] — personalization that can support regulation
+- [[formative-assessment]] — continuous feedback for regulation
+- [[learning-by-teaching]] — a strategy building self-regulation
+- [[intelligent-tutoring]] — systems that scaffold SRL
+- [[llm]] — the underlying model of AI tools
+- [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[genai-performance-vs-learning]] — offloading planning, monitoring and evaluating short-circuits the SRL loop (Yan et al. 2025)
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation

@@ -116,6 +116,24 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[learning-theories]]
 - [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
 
+- [[learners]] — Learners: the umbrella for the learner-side concepts
+- [[self-regulated-learning]]
+- [[cognitive-offloading]]
+- [[scaffolding]]
+- [[agentic-ai]]
+- [[formative-assessment]]
+- [[self-directed-learning]]
+- [[ai-literacy]]
+- [[problem-based-learning]]
+- [[intelligent-tutoring]]
+- [[human-in-the-loop-ai]]
+- [[adaptive-learning]]
+- [[authentic-assessment]]
+- [[student-experience]]
+- [[learning-theories]]
+- [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)

@@ -75,6 +75,16 @@ Where most offloading research captures the *moment* of AI use, this paper forma
 - [[intelligent-tutoring]] — the assistive systems whose withdrawal students face
 - [[llm]] — the underlying model technology
 
+- [[cognitive-offloading]] — the central mechanism whose post-withdrawal dynamics the paper formalizes
+- [[generative-ai]] — the tool class whose withdrawal is studied
+- [[metacognition]] — situational awareness and metacognitive calibration as what degrades
+- [[transfer-of-learning]] — whether induced skill loss generalizes/washes out
+- [[self-regulated-learning]] — scheduled unassisted practice as intervention
+- [[critical-thinking]] — the outcome that offloading research links to reliance
+- [[intelligent-tutoring]] — the assistive systems whose withdrawal students face
+- [[llm]] — the underlying model technology
+- [[cognitive-surrender]]
+
 ## Connected Articles
 
 - [[cognitive-offloading-speedup-illusion]] — the speedup illusion that masks reduced learning during use

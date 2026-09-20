@@ -103,7 +103,26 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[pedagogical-safety]]
 - [[trust-calibration]]
 - [[agentic-ai]]
+- [[cognitive-offloading]]- [[guardrails]]
+- [[formative-assessment]]
+- [[automated-assessment]]
+- [[scaffolding]]
+- [[teacher-role]]
+- [[ai-literacy]]
+- [[intelligent-tutoring]]
+- [[feedback]]
+- [[student-experience]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[educational-development]]
+- [[generative-ai]]
+- [[agency]]
+- [[pedagogical-safety]]
+- [[trust-calibration]]
+- [[agentic-ai]]
 - [[cognitive-offloading]]
+- [[cognitive-surrender]]
+
 ## Connected Articles
 - [[lee-learner-question-types-ai-education-2026]] — Expert-labeled question classification: humans govern labeling, augmentation, and error analysis (Lee, Atif & Kang 2026)
 - [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
