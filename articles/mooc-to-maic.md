@@ -1,7 +1,7 @@
 ---
 title: "From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents"
 created: "2026-08-04T04:33:04-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-09-20T17:36:00-04:00"
 type: article
 foundations: [agentic-ai, curriculum-design]
 pedagogy: [online-teaching-and-learning]
@@ -12,12 +12,14 @@ sources: ['raw/papers/2409.03512.md']
 confidence: high
 level: [higher ed]
 connected_faqs: [asynchronous-online-courses-ai]
+connected_resources: [openmaic]
 ---
 
 > **Synthesis:** MAIC (Massive AI-empowered Course) proposes a new paradigm for [[online-teaching-and-learning|online education]] that replaces the MOOC's "one video for N students" broadcast with an LLM-driven multi-agent classroom of "N agents for 1 student." By building all agents on a unified [[llm]] foundation, MAIC balances scalability with adaptivity — and collapses course-production cost from roughly **\$25,000 and 60 hours** per MOOC to **under \$2 and 30 minutes**. Piloted at Tsinghua University across two courses with **100,000+ learning records from 500+ students**, it deploys specialized Teacher, Assistant, Classmate, and Analyzer agents and is released [[open-source|open source]] as **OpenMAIC**.
 
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
+**Published version:** [Journal of Computer Science and Technology (2026)](https://doi.org/10.1007/s11390-025-6000-0)
 **Source code (OpenMAIC):** https://github.com/THU-MAIC/OpenMAIC
 
 ### Overview
@@ -43,12 +45,6 @@ MAIC deploys a suite of specialized AI agents:
 - **Analyzer Agent:** Diagnoses student performance from quiz results and recommends prerequisite learning paths
 - **Manager Agent:** Maintains order and assists, controlling the class
 
-### Key Innovations
-
-1. **Unified LLM Foundation:** Unlike prior systems that used separate models for recommendation, dialogue, and assessment, MAIC builds all agents on a shared LLM foundation, enabling deeper integration across teaching and learning tasks.
-2. **Course Creation at Scale:** The system can generate full course materials (slides, textbooks, exercises, videos) from instructor-provided course descriptions. Traditional MOOC production costs ~25K USD and 60 hours per course; MAIC reduces this to under 2 USD and 30 minutes.
-3. **[[personalized-learning|Personalization]] Loop:** Students receive adaptive quizzes, personalized feedback, and dynamically recommended learning paths based on their performance patterns — rooted in the "teaching in accordance with individual aptitudes" philosophy.
-
 ### Pilot at Tsinghua University
 
 - **100,000+ learning records** from over **500 students**
@@ -58,7 +54,7 @@ MAIC deploys a suite of specialized AI agents:
 
 ### Significance
 
-MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), supporting the vision of an open collaborative hub for AI-driven education [[research-methods-aied|research]].
+MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agentic-ai]] in education. It demonstrates how LLM-driven multi-agent systems can transform the MOOC paradigm from one-size-fits-all broadcasting to truly adaptive, personalized [[intelligent-tutoring]] at scale. The platform is released as open source under the name **OpenMAIC** ([github.com/THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)), MIT-licensed and actively developed: version 1.0.0 (August 2026) added an agent workbench that plans and revises whole courses, durable sessions that can be canceled, resumed or steered, uploaded materials the agent builds from, and 24 built-in course skills; lessons export as editable `.pptx` or interactive `.html`, and the classroom can be self-hosted with Docker or one-click Vercel, or tried on a hosted demo with your own model provider keys. That scale of adoption — more than 38,000 stars by September 2026 — is what makes its "open collaborative hub for AI-driven education" [[research-methods-aied|research]] claim concrete rather than aspirational.
 
 ## What this means for practice
 
@@ -79,7 +75,6 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[pedagogical-agent]]
-
 - [[agentic-ai]]
 - [[generative-ai]]
 - [[rag]]
