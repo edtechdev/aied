@@ -1,7 +1,7 @@
 ---
 title: "DebugTracker: Lightweight Process Evidence for Classroom Debugging"
 created: "2026-07-08T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [intelligent-tutoring, learning-analytics]
 assessment: [feedback, formative-assessment]
@@ -22,6 +22,21 @@ confidence: high
 - **Lightweight, language-agnostic capture:** VS Code-standard mechanisms reduce instructor setup burden, supporting [[cs-education]] at scale.
 - **AI-assisted practice feedback:** Optional automated feedback loops tie into [[feedback|Feedback Loop]] [[research-methods-aied|research]].
 - **Learning analytics:** Append-only event logs feed [[learning-analytics]] on how students debug, informing [[student-experience]] design.
+
+## What this means for practice
+
+- **Instructors.** Separate coached practice from graded work explicitly: Training Mode adds process prompts and hints, while Evaluation Mode disables prompts, solution hints, and after-session feedback and marks its reports as assessment traces.
+- **Instructors.** Grade from the exported timeline and Markdown report instead of final code alone, so the reproduce–observe–hypothesize–edit–verify chain is visible.
+- **Instructors.** Require a checkpoint at each stage — a timestamped failure observation, hypothesis, or verification note — since those checkpoints are what make the process reviewable.
+- **Researchers.** Use the append-only JSONL events for [[learning-analytics]] on how students debug, without imposing a single prescribed workflow.
+- **Designers.** Keep capture task-scoped and privacy-conscious: DebugTracker records task-relevant metadata rather than full keystroke replay and installs from a VSIX with no extra services.
+
+## Limitations
+
+- Validation covers implementation correctness only: 16 automated checks and an 11-case manual trial matrix over Python, TypeScript, and Java, plus packaged VSIX installation on three operating systems.
+- The authors state that this validation does not yet demonstrate usefulness in a real classroom; the study measuring review time, inter-rater agreement, and feedback specificity is planned, not reported.
+- The three language tasks deliberately share one intended bug, so the cross-language evidence comes from a single debugging chain.
+- Debugger evidence depends on the relevant VS Code language extension, so capture is not fully language-agnostic.
 
 ## Connected Concepts
 
