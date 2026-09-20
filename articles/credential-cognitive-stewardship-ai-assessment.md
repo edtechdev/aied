@@ -1,7 +1,7 @@
 ---
 title: What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education
 created: "2026-07-23T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [generative-ai, llm, rag]
 assessment: [assessment-validity, formative-assessment]
@@ -46,11 +46,20 @@ The framework uses five recurring delegation types: **access support** (translat
 
 The audit scored public [[educational-policy-ai|institutional policy]] packages (the set of official sources through which each university tells students how GenAI may be used in assessed work) across the UK (11), Australia (5), New Zealand (2), Canada (5), and the US (7). A pre-specified, source-grounded scoring codebook was applied by four open-weight [[llm|LLMs]] as structured coders, with scores averaged to dampen single-model bias. The audit treated public guidance as a reader-facing artifact — what a student, instructor, or reviewer can see about claim, boundary, evidence, and safeguard. Between-model agreement was a sensitivity measure, not validation, so exact score levels are exploratory descriptions.
 
-## Implications for AI in education
+## What this means for practice
 
-The takeaway is that **permission categories are necessary but insufficient**: universities need [[educational-policy-ai|policies]] that make the certification logic visible — what learners may delegate, what they must still demonstrate, and how institutions will protect fair evidence rather than merely monitor AI use. This shifts the [[assessment-validity]] question from detection and [[academic-integrity]] enforcement toward specifying delegation boundaries per learning claim.
+- **Administrators.** Start from the certified claim rather than the tool: name the cognitive operations a credential must still evidence, then write the delegation boundary from that claim, which shifts [[assessment-validity]] work away from [[ai-detection|detection]] and [[academic-integrity]] enforcement.
+- **Administrators.** Require every AI-use category to state what evidence stays valid under it: across the 30 audited packages, delegation boundaries averaged 2.47/4 while evidence standards averaged only 1.89/4, and only 23% of packages covered inspecting, challenging and correcting AI output.
+- **Faculty developers.** Publish scenarios and worked examples for the uses your guidance handles worst, since substitution was clear in 83% of packages while process support, [[feedback]], and programming workflow ranged from 1.17 to 2.32 out of 4.
+- **Administrators.** Treat [[privacy]], [[accessibility]], due process, non-AI alternatives and workload as conditions of the warrant rather than exceptions: packages averaged only 2.75 of 8 safeguards and workload/proportionality appeared in 4%; disclosure and monitoring can make students more visible to the institution without making assessment fairer, and surveillance harms fall unevenly on racialized, disabled, low-income, international and linguistically marginalized learners.
+- **Researchers.** Do not anchor policy in today's model weaknesses such as hallucination or bias; ask which human capacities must remain visible even when task performance can be delegated, and treat stewardship as a [[governance]] arrangement rather than an assessment technique.
 
-Cognitive stewardship is a [[governance]] arrangement, not merely an assessment technique. It matters that disclosure and monitoring can make students *more visible* to the institution without making assessment *fairer*, and that surveillance harms may fall unevenly on racialized, disabled, low-income, international, and linguistically marginalized learners — [[privacy]] and accessibility are therefore conditions of stewardship, not exceptions: the relevant question is whether assistance bypasses the learning claim or enables access to it. The framework also cautions against relying on today's AI weaknesses (hallucination, bias) as the stable foundation for educational policy — the stronger question is which human capacities should remain visible even when task performance can be delegated. This connects to the knowledge base's [[theory-development-aied|theory-building]] thread and complements [[ai-assessment-scale-reform]] and [[universities-ai-era-rethinking]] on redesigning credentials for [[ai-education|AI-mediated education]].
+## Limitations
+
+- The corpus is purposive, not representative: 30 public policy packages from five English-speaking systems (United Kingdom 11, Australia 5, New Zealand 2, Canada 5, United States 7), assembled to compare visible policy designs rather than to estimate worldwide prevalence.
+- Scores came from four open-weight LLMs applying a single codebook with no independently human-coded comparison set, so between-model agreement is a sensitivity measure rather than validation: mean standard deviation was 0.57 for delegation-boundary scores, 0.53 for evidence-standard scores and 0.42 for learning-claim scores, with high-variation cases appearing in 13 to 22 of the 30 packages depending on the scenario.
+- The audit measures published policy text, not classroom practice, institutional intention or learning outcomes, and the constructs sit on different scale maxima (learning claim 0-3; boundary and evidence 0-4), so exact score levels are exploratory descriptions.
+
 
 ## Connected Concepts
 
