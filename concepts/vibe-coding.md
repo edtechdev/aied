@@ -1,7 +1,7 @@
 ---
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-09-08T03:05:00-04:00"
+updated: "2026-09-20T16:38:31-04:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -47,6 +47,8 @@ Vibe coding reopens core questions about what is learned when AI automates imple
 
 Vibe coding connects naturally to [[prompt-engineering]] (prompt quality is the mechanism of prose-driven development), [[cs-education]] (as the domain where the technique is most used and most contested), [[computational-thinking]] (the mental modeling that predicts success even without code access), [[writing-education]] (writing becoming a programming skill), and [[agentic-ai]] (directing a model toward an artifact rather than hand-building it). It also intersects with [[ai-literacy]] and [[teacher-role]], since the ability to build one's own tools changes what teachers and learners can do. Finally, it raises [[academic-integrity]] and assessment questions identical to those AI code generation raises across computing education.
 
+A faculty-level case study in this knowledge base supplies the organizational layer. [[zimmer-ai-intrapreneurship-faculty-innovation-2026|Zimmer (2026)]] describes *AI intrapreneurship* — educators building their own tools instead of waiting for institutional procurement — including an author who does not code using Claude Code to build a checker for 321 course links. The decisive enablers were organizational rather than technical: work discretion, rewards, and time availability, the last described as most obviously in deficit in academic settings and undercut by promotion and tenure. The security picture stayed sober, since Veracode's 2025 analysis found only 55% of AI-generated code secure, so vibe-coded classroom tools still need a review pass before handling student data or connecting to an LMS.
+
 ## Connected Concepts
 
 - [[generative-ai]]
@@ -70,3 +72,4 @@ Vibe coding connects naturally to [[prompt-engineering]] (prompt quality is the 
 - [[code-to-learn-genai-artifact-construction-2026]] — Code to Learn with Generative AI: A Theoretically Grounded Framework for Artifact Construction in Upper-Secondary Education
 - [[reshaping-cs-education-genai]] — Reshaping Undergraduate CS Education for Generative AI
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
+- [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
