@@ -5,10 +5,10 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [academic-integrity, educational-development]
 technology: [generative-ai]
+methods: [meta-analysis-systematic-review]
 ethics: [bias-mitigation, equity-in-ai-education, ethics]
-research_method: [systematic review]
 discipline: [engineering education]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/ethical-use-ai-engineering-education-review-2026.md']
 confidence: high

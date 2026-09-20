@@ -7,7 +7,7 @@ foundations: [ai-literacy, educational-development, learning-design]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
 stakeholders: [teacher-ai-competency]
-audience: [instructors, faculty development, learners]
+audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai]
 

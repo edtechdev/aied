@@ -7,7 +7,6 @@ foundations: [ai-education]
 ethics: [bias-mitigation, ethics, privacy]
 sources: ['raw/papers/agarwal-ethical-values-norms-aied-2026.md']
 confidence: high
-research_method: [systematic review]
 audience: [policymakers, institutions, designers]
 page_kind: [framework]
 methods: [meta-analysis-systematic-review]

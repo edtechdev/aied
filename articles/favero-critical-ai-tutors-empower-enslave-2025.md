@@ -8,7 +8,6 @@ technology: [intelligent-tutoring]
 stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
-
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']
 confidence: medium
 institutions: [regulation]

@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai]
 research_method: [quasi-experiment]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed]
 sources: ['raw/papers/caeai-quest-ai-inquiry.md']
 confidence: medium

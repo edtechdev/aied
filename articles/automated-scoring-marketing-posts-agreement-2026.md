@@ -5,9 +5,9 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 technology: [llm, simulation]
 assessment: [assessment-validity, automated-assessment, automated-essay-scoring, educational-measurement, feedback]
+methods: [benchmark]
 sources: ['raw/papers/automated-scoring-marketing-posts-agreement-2026.md']
 confidence: high
-research_method: [benchmark, educational measurement]
 discipline: [business education, writing education]
 audience: [assessment designers, assessment professionals, researchers]
 level: [higher ed]

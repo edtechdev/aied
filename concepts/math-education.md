@@ -9,7 +9,6 @@ stakeholders: [student-experience]
 discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]
-
 confidence: high
 ---
 

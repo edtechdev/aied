@@ -7,7 +7,6 @@ foundations: [ai-education]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [adaptive-learning, intelligent-tutoring]
 assessment: [feedback]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/banihashem-ai-srl-systematic-mapping-review-2025.md']
 confidence: high

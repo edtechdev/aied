@@ -7,10 +7,10 @@ foundations: [ai-education]
 pedagogy: [motivation]
 technology: [generative-ai]
 research_method: [survey]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 sources: ['raw/papers/motivation-shape-future-education-ai-switzerland-china.md']
 confidence: high
-audience: [teacher educators, faculty development, researchers]
+audience: [teacher educators, faculty developers, researchers]
 page_kind: [framework]
 ---
 

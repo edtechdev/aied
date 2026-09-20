@@ -3,7 +3,7 @@ title: Toward Accessible Psychotherapy Training Using AI-Driven Interactive Pati
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
-pedagogy: [active-learning]
+pedagogy: [active-learning, professional-training]
 technology: [generative-ai, llm, simulation]
 assessment: [feedback]
 research_method: [system development]
@@ -13,7 +13,6 @@ confidence: high
 discipline: [medical education]
 audience: [medical educators, instructors]
 page_kind: [framework]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Riachi et al. (2026) introduce AI-driven interactive patient avatars for psychotherapy training, providing accessible, repeatable practice with measurable skill improvement in evidence-based therapy techniques. Because opportunities for safe, standardized training are limited by [[ethics|ethical]], logistical and resource constraints, the system enables trainees to practice evidence-based interventions such as Acceptance and Commitment Therapy (ACT) with meaningful [[feedback]] and measurable skill gains — extending [[simulation|simulated]] [[professional-training|professional training]] to psychotherapy.

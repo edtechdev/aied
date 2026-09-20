@@ -7,10 +7,11 @@ foundations: [ai-education, ai-literacy, critical-thinking, curriculum-design]
 ethics: [equity-in-ai-education, ethics, sustainability]
 sources: ['raw/papers/2609.10489.md']
 confidence: high
-research_method: [survey, quantitative]
+research_method: [survey]
 audience: [policymakers, curriculum designers, researchers]
 level: [adult learning, higher ed]
 page_kind: [framework]
+methods: [quantitative-research]
 institutions: [governance]
 ---
 

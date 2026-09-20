@@ -4,10 +4,12 @@ created: "2026-06-26T04:33:04-04:00"
 updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
-stakeholders: [student-experience, lifelong-learning]
+methods: [design-based-research]
+stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
-research_method: [case study, design-based research]
-audience: [learners, faculty development]
+pedagogy: [lifelong-learning]
+research_method: [case study]
+audience: [learners, faculty developers]
 level: [adult learning, higher ed, k 12]
 sources: ['raw/papers/2606.26565.md']
 confidence: high

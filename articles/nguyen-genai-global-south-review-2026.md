@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
 ethics: [equity-in-ai-education, global-south]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/nguyen-genai-global-south-review-2026.md']
 confidence: high

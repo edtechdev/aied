@@ -7,7 +7,7 @@ foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [assessment]
 ethics: [equity-in-ai-education]
-audience: [instructors, learners, faculty development, administrators]
+audience: [instructors, learners, faculty developers, administrators]
 level: [higher ed, k 12]
 connected_faqs: [top-10-findings-ai-education-instructors]
 

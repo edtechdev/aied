@@ -5,7 +5,7 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, knowledge-tracing, llm]
-research_method: [experiment, benchmark]
+research_method: [experiment]
 level: [higher ed]
 sources: ['raw/papers/2605.05648.md']
 confidence: high

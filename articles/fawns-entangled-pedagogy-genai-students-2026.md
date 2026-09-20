@@ -9,8 +9,7 @@ technology: [generative-ai]
 stakeholders: [student-experience]
 sources: ['raw/papers/fawns-entangled-pedagogy-genai-students-2026.md']
 confidence: high
-research_method: [qualitative]
-audience: [policymakers, educators, administrators]
+audience: [policymakers, instructors, administrators]
 level: [higher ed]
 methods: [qualitative-research]
 ---

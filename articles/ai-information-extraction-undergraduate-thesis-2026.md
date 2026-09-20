@@ -3,13 +3,14 @@ title: "From Literature to Research-Based Learning: An AI-Powered Information Ex
 created: "2026-09-01T12:00:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
+methods: [mixed-methods-research]
 sources: ["raw/papers/ai-information-extraction-undergraduate-thesis-2026.md"]
 pedagogy: [inquiry-based-learning, self-directed-learning]
 technology: [generative-ai, knowledge-graph]
 confidence: medium
-research_method: [system development, mixed methods, user study]
+research_method: [system development, user study]
 discipline: [stem education]
-audience: [educators, instructional designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 ---

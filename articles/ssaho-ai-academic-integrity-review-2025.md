@@ -7,11 +7,10 @@ foundations: [academic-integrity]
 technology: [generative-ai]
 assessment: [ai-detection, assessment]
 ethics: [ai-misuse-learning-harm, ethics]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/ssaho-ai-academic-integrity-review-2025.md']
 confidence: high
-audience: [administrators, institutions, educators]
+audience: [administrators, institutions, instructors]
 methods: [meta-analysis-systematic-review]
 institutions: [educational-policy-ai]
 ---

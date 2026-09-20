@@ -5,10 +5,10 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [cognitive-psychology, socratic-method, student-engagement]
 technology: [affective-computing, generative-ai, intelligent-tutoring]
-assessment: [assessment]
+assessment: [assessment, educational-measurement]
 sources: ['raw/papers/socratic-nuclear-ai-learning.md']
 confidence: high
-research_method: [experiment, educational measurement]
+research_method: [experiment]
 audience: [edtech designers, instructional designers, researchers]
 ---
 

@@ -3,13 +3,14 @@ title: "An Exploratory Machine Learning Approach to Understanding Determinants o
 created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+methods: [quantitative-research]
 sources: ["raw/papers/determinants-chatgpt-use-higher-education-2026.md"]
 pedagogy: [student-engagement]
 technology: [learning-analytics, technology-acceptance-model]
 assessment: [educational-measurement]
 confidence: medium
-research_method: [survey, learning analytics, quantitative]
-audience: [institutions, educators, policymakers]
+research_method: [survey]
+audience: [institutions, instructors, policymakers]
 level: [higher ed]
 ---
 

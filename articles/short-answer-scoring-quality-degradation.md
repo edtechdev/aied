@@ -5,8 +5,7 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm, open-source]
 assessment: [assessment-validity, automated-assessment, formative-assessment]
-research_method: [benchmark, experiment]
-
+research_method: [experiment]
 sources: ['raw/papers/2605.07647.md']
 confidence: medium
 audience: [assessment professionals, assessment designers]

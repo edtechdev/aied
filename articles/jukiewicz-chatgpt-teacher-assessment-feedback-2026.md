@@ -8,8 +8,7 @@ assessment: [assessment, feedback]
 sources:
   - raw/papers/jukiewicz-chatgpt-teacher-assessment-feedback-2026.md
 confidence: high
-research_method: [systematic review]
-audience: [educators, assessment designers, instructors]
+audience: [assessment designers, instructors]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

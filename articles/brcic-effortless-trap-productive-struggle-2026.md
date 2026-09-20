@@ -5,13 +5,13 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [cognitive-offloading, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding, self-regulated-learning]
+technology: [learning-analytics]
 assessment: [learning-gains]
 connected_faqs: [reducing-over-reliance, asynchronous-online-courses-ai]
-research_method: [learning analytics]
 level: [k 12]
 sources: ['raw/papers/brcic-effortless-trap-productive-struggle-2026.md']
 confidence: high
-audience: [educators, administrators]
+audience: [instructors, administrators]
 page_kind: [framework]
 ---
 

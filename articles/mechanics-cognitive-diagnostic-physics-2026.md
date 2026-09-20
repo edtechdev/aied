@@ -7,7 +7,6 @@ technology: [adaptive-learning, cognitive-diagnosis]
 assessment: [assessment-validity, automated-assessment, educational-measurement, formative-assessment, item-response-theory]
 sources: ['raw/papers/mechanics-cognitive-diagnostic-physics-2026.md']
 confidence: high
-research_method: [educational measurement]
 level: [higher ed]
 audience: [assessment designers, instructors, researchers]
 discipline: [physics education, stem education]

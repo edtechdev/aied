@@ -9,9 +9,8 @@ technology: [generative-ai]
 stakeholders: [student-experience]
 research_method: [survey, longitudinal study]
 discipline: [cs education, stem education]
-audience: [learners, faculty development]
+audience: [learners, faculty developers]
 level: [higher ed]
-
 sources: ['raw/papers/2605.16292.md']
 confidence: high
 page_kind: [evaluation]

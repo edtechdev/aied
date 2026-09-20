@@ -9,11 +9,10 @@ technology: [generative-ai]
 ethics: [ai-misuse-learning-harm]
 research_method: [survey]
 level: [higher ed, adult learning]
-
 sources: ['raw/papers/10.3389_fpsyg.2026.1848291.md']
 confidence: high
 discipline: [vocational education]
-audience: [educators, institutions]
+audience: [instructors, institutions]
 ---
 
 > **Synthesis:** Wang and Zhang (2026) examined how AI-assisted autonomous learning relates to reduced academic accomplishment among 1,264 vocational college students in China, focusing on the mediating role of hardiness (commitment, control, challenge). Using structural equation modeling, they found AI-assisted autonomous learning was negatively associated with hardiness and positively associated with reduced academic accomplishment, with hardiness partially mediating the relationship — the indirect effect accounted for a substantial proportion of the total effect. The study extends [[research-methods-aied|research]] on [[higher-ed|AI in higher education]] by suggesting AI-assisted learning has implications beyond efficiency and convenience for students' psychological resources and academic self-evaluation.

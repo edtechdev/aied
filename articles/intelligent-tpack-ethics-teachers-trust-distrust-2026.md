@@ -3,12 +3,12 @@ title: "Unpacking ethics-domain of intelligent-TPACK scale in relation to in-ser
 created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
-foundations: [ai-literacy]
-stakeholders: [tpack]
+foundations: [ai-literacy, tpack]
+methods: [qualitative-research]
 ethics: [ethics, trust]
-audience: [instructors, faculty development]
-research_method: [qualitative, case study]
-level: [k 12, teacher training]
+audience: [instructors, faculty developers]
+research_method: [case study]
+level: [k 12, teacher education]
 sources: ['raw/papers/intelligent-tpack-ethics-teachers-trust-distrust-2026.md']
 confidence: high
 page_kind: [framework]

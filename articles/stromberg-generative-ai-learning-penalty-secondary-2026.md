@@ -13,7 +13,7 @@ research_method: [quasi-experiment, secondary analysis]
 level: [k 12]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']
 confidence: high
-audience: [policymakers, educators, administrators]
+audience: [policymakers, instructors, administrators]
 methods: [rct]
 ---
 > **Synthesis:** Strömberg, Lei, and Wu (2026) provide large-scale quasi-experimental evidence of a **"[[generative-ai|generative AI]] learning penalty."** Using 30 months of panel data on 26,811 Chinese secondary students (grades 7–12), they exploit staggered generative-AI adoption in a difference-in-differences design. AI adoption raises homework scores by 18% and cuts homework completion time by 30%, but *lowers* monthly closed-book exam scores by 20% within six months, and high-stakes entrance-exam scores by 18–24% only after about two years. The learning losses are concentrated among the roughly 81% of AI users whose behavior indicates **homework outsourcing**; AI users who keep homework time comparable to non-users learn as efficiently.

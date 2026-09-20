@@ -6,8 +6,8 @@ type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [active-learning]
 technology: [generative-ai, llm]
-research_method: [design-based research]
-audience: [instructors, faculty development]
+methods: [design-based-research]
+audience: [instructors, faculty developers]
 level: [k 12]
 sources: ['raw/papers/2607.05406.md']
 confidence: high

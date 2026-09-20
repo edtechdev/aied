@@ -10,7 +10,6 @@ assessment: [formative-assessment]
 stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
-
 sources: ['raw/papers/2607.05557.md']
 confidence: high
 ---

@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, ai-education]
 technology: [llm, rag]
 audience: [software developers]
-research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/jeon-isd-agent-bench-2026.md']
 confidence: medium

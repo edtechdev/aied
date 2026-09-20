@@ -6,9 +6,10 @@ type: article
 pedagogy: [mastery-learning, motivation, prior-knowledge, self-regulated-learning]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, student-modeling]
 assessment: [formative-assessment, learning-gains]
+methods: [rct]
 ethics: [differential-effects-across-learner-groups]
-research_method: [experiment, randomized controlled trial]
-level: [k 12, elementary]
+research_method: [experiment]
+level: [k 12, primary education]
 discipline: [math education]
 audience: [instructors, researchers]
 confidence: high

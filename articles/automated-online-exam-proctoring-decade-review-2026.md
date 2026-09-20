@@ -8,7 +8,6 @@ pedagogy: [online-teaching-and-learning]
 technology: [machine-learning]
 assessment: [remote-proctoring]
 ethics: [privacy]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/automated-online-exam-proctoring-decade-review-2026.md']
 confidence: high

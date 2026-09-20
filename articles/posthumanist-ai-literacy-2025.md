@@ -5,9 +5,10 @@ updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [academic-integrity, agency, ai-literacy]
 technology: [generative-ai]
+methods: [qualitative-research]
 stakeholders: [student-experience]
 ethics: [multilingual-learning]
-research_method: [qualitative, case study]
+research_method: [case study]
 discipline: [writing education, language learning]
 audience: [instructors, learners]
 sources: ['raw/papers/10.1016_j.compcom.2025.102933.md']

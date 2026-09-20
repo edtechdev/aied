@@ -4,14 +4,14 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, learning-design]
-technology: [rag, edtech-platform]
-research_method: [thematic analysis, qualitative]
+technology: [edtech-platform, rag]
+pedagogy: [professional-training]
+research_method: [thematic analysis]
 level: [adult learning, higher ed]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
 audience: [designers, instructors]
-methods: [usability-research]
-stakeholders: [professional-training]
+methods: [qualitative-research, usability-research]
 ---
 
 > **Synthesis:** Drawing on longitudinal deployment data from the National AI Institute for [[adult-learning|Adult Learning]] and Online Education (AI-ALOE), this DIS 2026 paper synthesizes 19 empirically grounded design guidelines for AI-powered adult learning [[ai-technologies|technologies]]. The guidelines span cognitive, social, and [[teacher-role|teaching]] presence dimensions and are derived from reflexive thematic analysis of ~1,600 stakeholder statements across seven deployed systems. The work also provides a heuristic evaluation method and an interactive guideline exploration tool.

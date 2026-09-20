@@ -9,7 +9,6 @@ technology: [llm, rag]
 audience: [learners, instructors]
 research_method: [experiment, survey]
 discipline: [cs education]
-
 sources: ['raw/papers/trust-reliance-ai-education-2026.md']
 confidence: high
 level: [higher ed]

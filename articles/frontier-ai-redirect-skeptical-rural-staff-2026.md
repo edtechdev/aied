@@ -5,9 +5,9 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 sources: ["raw/papers/frontier-ai-redirect-skeptical-rural-staff-2026.md"]
 technology: [conversational-ai, human-in-the-loop-ai, llm]
+methods: [benchmark, quantitative-research]
 ethics: [trust]
 confidence: medium
-research_method: [benchmark, quantitative]
 audience: [administrators, policymakers, researchers]
 level: [k 12]
 page_kind: [evaluation]

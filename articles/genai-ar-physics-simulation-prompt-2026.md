@@ -8,7 +8,7 @@ research_method: [system development, case study]
 discipline: [physics education, stem education]
 sources: ['raw/papers/2607.24709.md']
 confidence: high
-audience: [teachers, students]
+audience: [teachers, learners]
 level: [higher ed]
 page_kind: [framework]
 ---

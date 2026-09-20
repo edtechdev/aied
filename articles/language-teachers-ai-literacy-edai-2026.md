@@ -6,12 +6,13 @@ type: article
 sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
 foundations: [ai-literacy]
 assessment: [educational-measurement]
+methods: [quantitative-research]
 stakeholders: [teacher-ai-competency]
 confidence: medium
-research_method: [instrument development, educational measurement, quantitative]
+research_method: [instrument development]
 discipline: [english education, language learning]
 audience: [teacher educators, assessment professionals, researchers]
-level: [teacher training, higher ed]
+level: [teacher education, higher ed]
 page_kind: [framework]
 ---
 

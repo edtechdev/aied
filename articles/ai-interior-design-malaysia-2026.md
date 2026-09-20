@@ -6,6 +6,7 @@ type: article
 foundations: [curriculum-design, teacher-role]
 technology: [generative-ai]
 ethics: [equity-in-ai-education]
+pedagogy: [professional-training]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]
@@ -13,7 +14,6 @@ sources: ['raw/papers/ai-interior-design-malaysia-2026.md']
 confidence: medium
 discipline: [design education]
 institutions: [educational-policy-ai]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** This article examines how generative AI and intelligent [[visualization]] platforms are reshaping interior design practice in Malaysia, shifting designers from primary form-generators toward critical mediators and curators of machine outputs. It explores the implications for university curricula, arguing that professional education must integrate technical proficiency with critical and [[ethics|ethical]] judgment, and addresses emerging needs for professional [[regulation]].

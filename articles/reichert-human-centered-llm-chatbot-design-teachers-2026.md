@@ -6,15 +6,14 @@ type: article
 foundations: [human-ai-collaboration, teacher-role]
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, human-in-the-loop-ai, llm]
-
 ethics: [guardrails, pedagogical-safety]
-research_method: [qualitative, thematic analysis, user study]
+research_method: [thematic analysis, user study]
 discipline: [learning sciences]
 level: [secondary]
 audience: [teachers, designers, edtech designers]
 sources: ['raw/papers/reichert-human-centered-llm-chatbot-design-teachers-2026.md']
 confidence: high
-methods: [usability-research]
+methods: [usability-research, qualitative-research]
 ---
 
 > **Synthesis:** Reichert, Briceno, Tabarsi, and Barnes (2026) report a participatory design study in which six secondary teachers enrolled in a Research Experiences for Teachers summer program created low-fidelity paper prototypes of [[generative-ai|generative AI]] [[conversational-ai|chatbots]] for their own classrooms. Through inductive [[qualitative-research|qualitative analysis]] of a structured focus group and affinity diagramming of the prototypes, the authors show that teachers consistently conceptualized AI as a "bounded expert": a system with specialized capability confined to a strictly defined domain and operating under human supervision rather than as an autonomous agent. Boundedness operates along two dimensions — authority boundaries, in which teachers retain ultimate control because professional responsibility for student learning and safety cannot be delegated, and expertise boundaries, in which teachers see AI as lacking their contextual knowledge of individual students, classroom dynamics, and institutional norms. The teachers articulated a multi-layered safety architecture with four interconnected components — content scoping, content presentation, student adaptation, and teacher oversight — that operationalizes bounded authority through three protective layers: domain boundaries that restrict scope, content filtering that enables safe personalization, and teacher override that preserves human judgment in ambiguous cases. Mapping the designs onto Gagné's nine events of instruction revealed selective delegation: teachers welcomed AI assistance for presenting content, supplying practice problems, and offering [[formative-assessment|formative]] [[feedback]], yet refused to delegate objective-setting or [[summative-assessment|summative]] [[assessment]].

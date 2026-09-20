@@ -5,9 +5,10 @@ updated: "2026-09-19T09:08:46-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
+methods: [mixed-methods-research]
 audience: [teacher educators, researchers, instructors]
-research_method: [mixed methods, quasi-experiment]
-level: [higher ed, teacher training]
+research_method: [quasi-experiment]
+level: [higher ed, teacher education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1853510.md']
 confidence: high
 discipline: [language learning, english education]

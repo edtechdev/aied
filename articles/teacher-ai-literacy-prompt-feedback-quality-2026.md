@@ -6,12 +6,13 @@ updated: "2026-09-19T14:23:47-04:00"
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
 assessment: [ai-feedback-quality, feedback, feedback-literacy]
+methods: [quantitative-research]
 stakeholders: [teacher-ai-competency]
 sources: ['raw/papers/teacher-ai-literacy-prompt-feedback-quality-2026.md']
 confidence: high
-research_method: [quasi-experiment, quantitative]
-level: [teacher training, higher ed]
-audience: [teacher educators, researchers, faculty development]
+research_method: [quasi-experiment]
+level: [teacher education, higher ed]
+audience: [teacher educators, researchers, faculty developers]
 connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation, framework]
 ---

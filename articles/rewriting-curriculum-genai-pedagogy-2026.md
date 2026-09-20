@@ -5,12 +5,12 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [curriculum-design, learning-design]
 technology: [generative-ai]
-research_method: [mixed methods, bibliometric, systematic review]
+research_method: [bibliometric]
 level: [higher ed]
 sources: ['raw/papers/rewriting-curriculum-genai-pedagogy-2026.md']
 confidence: high
 audience: [administrators, curriculum designers]
-methods: [meta-analysis-systematic-review]
+methods: [meta-analysis-systematic-review, mixed-methods-research]
 ---
 
 > **Synthesis:** Sabani et al. (2026) examine how [[generative-ai]] is driving a more profound transformation of [[higher-ed]] pedagogy and [[curriculum-design|curriculum]] beyond [[writing-education]] support, proposing an AI-Augmented Learning System framework that treats GenAI as a catalyst for curricular reconfiguration. Using a triangulated [[mixed-methods-research|mixed-methods]] design — a scoping review, bibliometric mapping (VOSviewer, n=209), a [[meta-analysis-systematic-review|systematic review]] of 36 peer-reviewed articles (2023–2025), and ten interviews with academic leaders across five institutions in Australia and Indonesia — they identify five interrelated system shifts: from static to dynamic AI-integrated curricula, teacher-centered to AI-augmented facilitation, knowledge transmission to capability development, local experimentation to institutional [[governance]], and fragmented to ecosystemic integration. Interpreted through [[constructivist|constructivism]], connectivism, [[tpack]], the [[samr-model|SAMR model]] and constructive alignment, the framework is offered as an analytical heuristic rather than a prescriptive blueprint.

@@ -8,10 +8,10 @@ technology: [conversational-ai, generative-ai, llm]
 ethics: [trust-calibration]
 sources: ['raw/papers/ai-literacy-warning-political-persuasion-2026.md']
 confidence: high
-research_method: [experiment, randomized controlled trial, quantitative]
+research_method: [experiment]
 level: [adult learning]
-audience: [educators, learners, researchers, policymakers]
-methods: [meta-analysis-systematic-review, rct]
+audience: [instructors, learners, researchers, policymakers]
+methods: [meta-analysis-systematic-review, rct, quantitative-research]
 ---
 
 > **Synthesis:** This preregistered two-experiment study (total N = 3,208 US adults) finds that a brief, light-touch [[ai-literacy|AI literacy]] warning — simply telling people that [[llm|LLMs]] can be prompted to persuade and may present information selectively — cut the persuasive effect of an opinion-shifting chatbot conversation by roughly one-half (−48.1%, 95% CI [−59.5%, −36.8%]). The warning worked without depressing participants' general trust in [[generative-ai|generative AI]], which is the key design property for teachers: the aim is [[trust-calibration|calibrated trust]] rather than blanket skepticism. For [[ai-literacy|AI literacy]] instruction the result is encouraging because the intervention is free, one-paragraph-long, and requires no training or facilitation, though the authors stress it is a proof of concept rather than a complete defense against [[ai-sycophancy|sycophantic]] or manipulative [[conversational-ai|conversational AI]].

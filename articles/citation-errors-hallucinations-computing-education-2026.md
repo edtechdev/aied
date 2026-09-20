@@ -10,7 +10,7 @@ ethics: [hallucination-risk]
 connected_faqs: [reporting-interpreting-aied-research, verify-ai-output]
 sources: ['raw/papers/citation-errors-hallucinations-computing-education-2026.md']
 confidence: high
-research_method: [bibliometric, quantitative]
+research_method: [bibliometric]
 discipline: [cs education]
 level: [higher ed]
 audience: [researchers, instructors]

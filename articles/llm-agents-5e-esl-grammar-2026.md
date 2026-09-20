@@ -3,12 +3,13 @@ title: "Designing large language model-based agents with 5E framework for ESL le
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
+methods: [mixed-methods-research]
 sources: ["raw/papers/llm-agents-5e-esl-grammar-2026.md"]
 foundations: [agentic-ai]
 pedagogy: [inquiry-based-learning]
 technology: [llm]
 confidence: medium
-research_method: [experiment, mixed methods]
+research_method: [experiment]
 discipline: [language learning, english education]
 audience: [instructors, designers, researchers]
 page_kind: [evaluation]

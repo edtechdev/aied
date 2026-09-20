@@ -10,7 +10,7 @@ research_method: [interviews]
 discipline: [cs education]
 sources: ['raw/papers/liu-tool-tutor-crutch-programming-2026.md']
 confidence: high
-audience: [instructors, educators, instructional designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 ---

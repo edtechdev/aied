@@ -6,12 +6,11 @@ type: article
 foundations: [learning-design]
 technology: [human-in-the-loop-ai, llm, visualization, edtech-platform]
 ethics: [trust-calibration]
-research_method: [design-based research]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.04006.md']
 confidence: high
 audience: [learning designers, edtech designers, researchers]
-methods: [ai-ed-evaluation]
+methods: [ai-ed-evaluation, design-based-research]
 ---
 
 > **Synthesis:** **Calibrating [[trust|Trustworthiness]]: Co-Designing Metrics and Visualizations for Evaluating LLMs in Education** — Longitudinal co-design with learning engineers building an LLM-powered digital textbook. Co-constructed five trustworthiness metrics with 20 measures tailored to [[pedagogy|pedagogical]] use. Designed visualizations mapping trustworthiness violations onto LLM res... [[llm]] [[ai-ed-evaluation]] [[cognitive-offloading|Over-Reliance]] [[human-in-the-loop-ai]] [[learning-design]] [[edtech-platform]]

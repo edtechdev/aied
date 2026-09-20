@@ -9,7 +9,7 @@ methods: [quantitative-research]
 research_method: [experiment]
 discipline: [math education]
 level: [k 12]
-audience: [researchers, software developers, educators]
+audience: [researchers, software developers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/2604.00818.md']
 confidence: high

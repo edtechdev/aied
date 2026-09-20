@@ -10,7 +10,7 @@ ethics: [trust]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, literature review]
 level: [higher ed]
-audience: [learning designers, educators, researchers, edtech designers]
+audience: [learning designers, instructors, researchers, edtech designers]
 page_kind: [framework]
 sources: ['raw/papers/aclime-pedagogical-agents-extended-reality-2026.md']
 confidence: high

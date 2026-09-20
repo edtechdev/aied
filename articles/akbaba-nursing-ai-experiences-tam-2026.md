@@ -4,17 +4,17 @@ created: "2026-09-08T02:39:31-04:00"
 updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [ai-literacy]
-pedagogy: [well-being]
+pedagogy: [professional-training, well-being]
 technology: [generative-ai, technology-acceptance-model]
 ethics: [equity-in-ai-education]
 sources: ['raw/papers/akbaba-nursing-ai-experiences-tam-2026.md']
-research_method: [qualitative, interviews]
+research_method: [interviews]
 discipline: [nursing education, medical education]
 audience: [medical educators, researchers, curriculum designers, administrators]
 level: [higher ed]
 confidence: high
 page_kind: [evaluation]
-stakeholders: [professional-training]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** A COREQ-guided descriptive qualitative study of AI experiences in nursing education: semi-structured interviews with 28 participants (16 nursing students, 12 faculty) across two universities, analyzed deductively through the Technology Acceptance Model (TAM) with inductive extension. Four TAM-aligned categories emerged (perceived ease of use, perceived usefulness, behavioral intention, actual use). Students used AI mainly for presentations, visual content, and clinical case analysis; faculty for course materials, academic writing, and administration. Notably, AI was also described as a source of cognitive, instructional, and psychosocial support — a relational dimension TAM does not explicitly capture. Concerns included reduced critical thinking, misinformation, plagiarism, and unequal access.

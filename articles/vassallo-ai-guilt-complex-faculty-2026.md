@@ -4,15 +4,15 @@ created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
 foundations: [academic-integrity, theory-development-aied]
-pedagogy: [anxiety-and-stress, motivation, well-being]
+pedagogy: [anxiety-and-stress, motivation, professional-training, well-being]
 technology: [generative-ai, technology-acceptance-model]
 methods: [mixed-methods-research, qualitative-research, quantitative-research]
-stakeholders: [teacher-ai-competency, professional-training]
-institutions: [educational-policy-ai, change-management]
-ethics: [ethics, trust, ai-use-disclosure]
-research_method: [mixed methods, thematic analysis]
+stakeholders: [teacher-ai-competency]
+institutions: [change-management, educational-policy-ai]
+ethics: [ai-use-disclosure, ethics, trust]
+research_method: [thematic analysis]
 level: [higher ed]
-audience: [instructors, faculty development, researchers]
+audience: [instructors, faculty developers, researchers]
 sources: ['raw/papers/vassallo-ai-guilt-complex-faculty-2026.md']
 confidence: high
 ---

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [generative-ai]
 audience: [researchers, instructors]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/liang-genai-systematic-review-human-ai-2026.md']
 confidence: high

@@ -6,11 +6,11 @@ type: article
 pedagogy: [active-learning, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, visualization]
 assessment: [feedback]
+methods: [design-based-research]
 stakeholders: [student-experience]
-research_method: [system development, design-based research]
+research_method: [system development]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2607.06721.md']
 confidence: high
 discipline: [cs education]

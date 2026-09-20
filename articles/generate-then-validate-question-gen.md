@@ -5,8 +5,9 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [generative-ai, llm]
 assessment: [automated-assessment, automated-question-generation]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [stem education]
 sources: ['raw/papers/2512.10110.md']
 confidence: high

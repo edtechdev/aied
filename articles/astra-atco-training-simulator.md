@@ -3,7 +3,7 @@ title: "ASTRA: A Scalable Next-Generation ATCO Training Simulator with Autonomou
 created: "2026-06-18T04:33:04-04:00"
 updated: "2026-09-19T08:58:00-04:00"
 type: article
-pedagogy: [active-learning]
+pedagogy: [active-learning, professional-training]
 technology: [adaptive-learning, intelligent-tutoring, llm, simulation]
 research_method: [system development]
 sources: ['raw/papers/2606.18319.md']
@@ -11,7 +11,6 @@ confidence: medium
 discipline: [vocational education]
 audience: [designers, software developers]
 level: [adult learning]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** ASTRA uses autonomous AI sim-pilots to deliver scalable air traffic control (ATCO) training, reducing reliance on human role-players while maintaining realistic scenario complexity. By replacing specialized human trainers ("simpilots") who must role-play both pilots and ATCOs, the system increases training capacity and uses [[llm|LLM]]-driven simulation to support [[professional-training|professional]] [[simulation|training]] at scale.

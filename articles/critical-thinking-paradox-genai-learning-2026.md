@@ -9,7 +9,6 @@ technology: [generative-ai]
 audience: [instructors, researchers]
 connected_faqs: [top-10-findings-ai-education-instructors]
 research_method: [theoretical analysis]
-
 sources: ['raw/papers/critical-thinking-paradox-genai-learning-2026.md']
 confidence: high
 page_kind: [framework, synthesis]

@@ -7,10 +7,11 @@ foundations: [academic-integrity, ai-education, ai-literacy, critical-thinking]
 technology: [generative-ai]
 ethics: [ethics, privacy]
 audience: [learners, instructors, administrators]
-research_method: [survey, structural equation modeling, educational measurement]
+research_method: [survey, structural equation modeling]
 sources: ['raw/papers/10.3389_feduc.2026.1942426.md']
 confidence: high
 level: [higher ed]
+assessment: [educational-measurement]
 institutions: [governance]
 ---
 

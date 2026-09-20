@@ -5,11 +5,10 @@ updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [llm]
 assessment: [feedback, formative-assessment]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 level: [secondary, k 12, higher ed]
-
 sources: ['raw/papers/2606.06271.md']
 confidence: high
 page_kind: [evaluation]

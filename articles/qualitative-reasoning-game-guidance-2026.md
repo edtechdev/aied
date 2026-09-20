@@ -8,9 +8,9 @@ pedagogy: [game-based-learning, problem-solving, scaffolding]
 assessment: [feedback]
 ethics: [explainable-ai]
 methods: [qualitative-research]
-research_method: [system development, qualitative]
+research_method: [system development]
 discipline: [stem education]
-audience: [researchers, edtech designers, educators]
+audience: [researchers, edtech designers, instructors]
 sources: ['raw/papers/qualitative-reasoning-game-guidance-2026.md']
 confidence: high
 ---

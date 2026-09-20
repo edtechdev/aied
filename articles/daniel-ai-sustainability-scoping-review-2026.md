@@ -5,7 +5,7 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [ai-education]
 ethics: [ethics, sustainability]
-research_method: [systematic review]
+discipline: [environmental education]
 level: [higher ed]
 sources: ['raw/papers/daniel-ai-sustainability-scoping-review-2026.md']
 confidence: high

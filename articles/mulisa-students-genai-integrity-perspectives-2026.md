@@ -11,9 +11,9 @@ methods: [qualitative-research, research-methods-aied]
 stakeholders: [student-experience, learners]
 institutions: [educational-policy-ai, governance]
 ethics: [ai-misuse-learning-harm, equity-in-ai-education, global-south]
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 level: [higher ed]
-audience: [educators, administrators, researchers]
+audience: [instructors, administrators, researchers]
 sources: ['raw/papers/mulisa-students-genai-integrity-perspectives-2026.md']
 confidence: high
 ---

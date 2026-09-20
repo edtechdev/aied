@@ -3,7 +3,7 @@ title: AI Coaching for Accelerating Human Skill Development with Reinforcement L
 created: "2026-06-25T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
-pedagogy: [scaffolding]
+pedagogy: [professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, personalized-learning]
 assessment: [formative-assessment]
 research_method: [system development, experiment]
@@ -11,7 +11,6 @@ sources: ['raw/papers/2606.25337.md']
 confidence: medium
 audience: [instructional designers, researchers]
 page_kind: [framework]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** This paper explores how an [[embodied-learning|embodied]] [[agentic-ai|AI agent]] can act as a [[scaffolding|coach]] that accelerates human motor-skill development using [[adaptive-learning|reinforcement learning]]. The authors argue that effective coaching requires dynamically balancing guidance with learner autonomy — too much assistance leads to [[cognitive-offloading|Over-Reliance]] and skill atrophy, while too little leaves learners struggling.

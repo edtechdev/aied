@@ -10,7 +10,7 @@ foundations: [teacher-role, learning-design]
 methods: [usability-research]
 research_method: [user study, system development]
 discipline: [stem education]
-audience: [educators, edtech designers, instructors]
+audience: [edtech designers, instructors]
 sources: ['raw/papers/generative-ui-education-learning-interactives-2026.md']
 confidence: high
 ---

@@ -6,7 +6,6 @@ type: article
 technology: [generative-ai, llm, multimodal]
 assessment: [assessment, automated-assessment]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [physics education, stem education]
 sources: ['raw/papers/2608.25398.md']
 confidence: high

@@ -6,7 +6,6 @@ type: article
 technology: [llm, multimodal, student-modeling]
 assessment: [automated-assessment, educational-measurement, item-response-theory, psychometrically-aware-ai]
 audience: [software developers]
-research_method: [educational measurement]
 sources: ['raw/papers/2608.10154.md']
 confidence: high
 discipline: [math education]

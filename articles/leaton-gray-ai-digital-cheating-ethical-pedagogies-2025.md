@@ -12,7 +12,7 @@ institutions: [educational-policy-ai, governance]
 ethics: [ethics, trust, ai-misuse-learning-harm]
 research_method: [theoretical analysis]
 level: [higher ed]
-audience: [educators, administrators, researchers]
+audience: [instructors, administrators, researchers]
 sources: ['raw/papers/leaton-gray-ai-digital-cheating-ethical-pedagogies-2025.md']
 confidence: high
 ---

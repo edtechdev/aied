@@ -8,9 +8,9 @@ assessment: [automated-assessment, educational-measurement, item-response-theory
 ethics: [trust]
 sources: ['raw/papers/cvengros-grading-handwritten-chemistry-ai-2026.md']
 confidence: high
-research_method: [educational measurement, case study]
+research_method: [case study]
 discipline: [chemistry education]
-audience: [assessment professionals, instructors, faculty development]
+audience: [assessment professionals, instructors, faculty developers]
 level: [higher ed]
 page_kind: [evaluation]
 ---

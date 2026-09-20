@@ -8,12 +8,10 @@ pedagogy: [active-learning, project-based-learning, scaffolding, student-engagem
 technology: [generative-ai]
 assessment: [feedback]
 ethics: [digital-divide]
-research_method: [systematic review]
 level: [higher ed]
-
 sources: ['raw/papers/long-ai-higher-ed-engagement-teaching-methods-2026.md']
 confidence: high
-audience: [educators, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [framework]
 methods: [meta-analysis-systematic-review]
 ---

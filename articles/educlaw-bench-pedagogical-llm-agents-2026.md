@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, curriculum-design]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulation, student-modeling]
 audience: [software developers]
-research_method: [benchmark]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.03206.md']
 confidence: high

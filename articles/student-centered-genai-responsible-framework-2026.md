@@ -10,7 +10,7 @@ ethics: [ethics, trust-calibration]
 sources: ['raw/papers/student-centered-genai-responsible-framework-2026.md']
 confidence: high
 research_method: [literature review]
-audience: [learners, educators, instructional designers]
+audience: [learners, instructors, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 institutions: [governance]

@@ -4,7 +4,7 @@ created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading, human-ai-collaboration]
-pedagogy: [learning-theories]
+pedagogy: [learning-theories, lifelong-learning, professional-training]
 technology: [generative-ai, rag]
 research_method: [theoretical analysis]
 sources: ['raw/papers/2607.29380.md']
@@ -13,7 +13,6 @@ audience: [policymakers, researchers]
 level: [adult learning]
 page_kind: [framework]
 institutions: [educational-policy-ai]
-stakeholders: [lifelong-learning, professional-training]
 ---
 
 > **Synthesis:** This conceptual paper ([[theory-development-aied|theory development]] in HRD) introduces the **Cognitive Commons** framework, integrating commons theory, HRD scholarship, and [[distributed-cognition|distributed cognition]] to explain how individually rational AI adoption decisions can collectively deplete the shared expertise pool professions require for renewal. It distinguishes **Internalized Mastery** (deep domain knowledge built through sustained practice) from **Distributed Mastery** (orchestrating human–AI systems) and develops the **Validation Tether**: effective AI oversight depends on the very expertise that AI adoption may undermine. Early labor-market and clinical evidence suggests disruption to expertise-regeneration pathways in highly AI-exposed sectors, five factors determine occupational vulnerability, and [[governance]] may form at organizational, professional-association, and policy levels.

@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
 assessment: [assessment, educational-measurement]
-research_method: [educational measurement]
 discipline: [stem education]
 level: [higher ed]
 confidence: high

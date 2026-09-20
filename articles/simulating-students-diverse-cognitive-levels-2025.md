@@ -5,8 +5,9 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [agentic-ai, computational-thinking]
 technology: [cognitive-diagnosis, generative-ai, knowledge-graph, llm, simulating-students, student-modeling]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 sources: ['raw/papers/2505.19997.md']
 confidence: high
 discipline: [cs education]

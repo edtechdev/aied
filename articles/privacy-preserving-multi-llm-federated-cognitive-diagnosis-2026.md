@@ -4,10 +4,11 @@ created: "2026-09-04T09:05:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [adaptive-learning, cognitive-diagnosis, generative-ai, llm]
+methods: [benchmark]
 ethics: [privacy, trust-calibration]
 sources: ['raw/papers/2609.02947.md']
 confidence: high
-research_method: [benchmark, system development]
+research_method: [system development]
 audience: [researchers, learning analytics designers]
 page_kind: [framework]
 ---

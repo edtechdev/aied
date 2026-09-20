@@ -6,11 +6,10 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, problem-solving]
 technology: [generative-ai]
-research_method: [design-based research]
 level: [higher ed]
 sources: ['raw/papers/jel-ai-collab-dbr.md']
 confidence: high
-audience: [instructional designers, educators, faculty development]
+audience: [instructional designers, instructors, faculty developers]
 methods: [design-based-research]
 ---
 

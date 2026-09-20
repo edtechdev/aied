@@ -9,7 +9,6 @@ technology: [generative-ai, human-in-the-loop-ai]
 assessment: [feedback]
 research_method: [theoretical analysis]
 audience: [instructors]
-
 sources: ['raw/papers/10.3389_fpsyg.2026.1844841.md']
 confidence: medium
 discipline: [humanities education]

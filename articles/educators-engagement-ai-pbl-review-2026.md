@@ -6,7 +6,6 @@ type: article
 foundations: [teacher-role]
 pedagogy: [problem-based-learning]
 technology: [generative-ai]
-research_method: [systematic review]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/educators-engagement-ai-pbl-review-2026.md']

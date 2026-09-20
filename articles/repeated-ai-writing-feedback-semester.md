@@ -11,7 +11,6 @@ research_method: [survey]
 discipline: [writing education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2607.16115.md']
 confidence: high
 page_kind: [evaluation]

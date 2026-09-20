@@ -7,11 +7,11 @@ foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, simulation]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
+methods: [quantitative-research]
 audience: [learners, instructors]
-research_method: [experiment, quantitative]
+research_method: [experiment]
 discipline: [writing education, language learning]
 level: [higher ed]
-
 sources: ['raw/papers/feedback-literacy-scripts-eap-writing.md']
 confidence: medium
 ---

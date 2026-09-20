@@ -5,8 +5,9 @@ updated: "2026-09-19T10:23:54-04:00"
 type: article
 foundations: [ai-education]
 technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, student-modeling]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2608.10492.md']
 confidence: high

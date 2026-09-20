@@ -8,8 +8,8 @@ technology: [learning-analytics]
 ethics: [digital-divide]
 sources: ['raw/papers/2609.04125.md']
 confidence: high
-research_method: [learning analytics, survey]
-audience: [educators, instructional designers]
+research_method: [survey]
+audience: [instructors, instructional designers]
 level: [higher ed]
 connected_faqs: [asynchronous-online-courses-ai]
 ---

@@ -6,8 +6,9 @@ type: article
 foundations: [agentic-ai, ai-literacy, curriculum-design]
 pedagogy: [metacognition, scaffolding]
 technology: [intelligent-tutoring, llm, prompt-engineering]
+methods: [quantitative-research]
 audience: [learners, instructors]
-research_method: [quasi-experiment, quantitative]
+research_method: [quasi-experiment]
 level: [higher ed]
 sources: ['raw/papers/2606.01375.md']
 confidence: high

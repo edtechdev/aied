@@ -6,7 +6,6 @@ type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
 connected_faqs: [reporting-interpreting-aied-research]
-research_method: [benchmark]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]

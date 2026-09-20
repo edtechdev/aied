@@ -7,10 +7,9 @@ foundations: [ai-literacy]
 technology: [learning-analytics, llm, personalized-learning, edtech-platform]
 assessment: [feedback]
 stakeholders: [student-experience]
-research_method: [system development, case study, learning analytics]
+research_method: [system development, case study]
 audience: [instructors, researchers, software developers]
 level: [higher ed]
-
 sources: ['raw/papers/2605.30303.md']
 confidence: high
 page_kind: [framework, evaluation]

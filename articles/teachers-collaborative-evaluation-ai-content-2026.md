@@ -7,12 +7,12 @@ foundations: [critical-thinking, teacher-role]
 technology: [generative-ai]
 assessment: [formative-assessment]
 connected_faqs: [faculty-development-ai]
+methods: [mixed-methods-research]
 sources: ['raw/papers/teachers-collaborative-evaluation-ai-content.md']
 confidence: high
-research_method: [mixed methods]
 discipline: [science education]
 audience: [teachers, teacher educators]
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 page_kind: [evaluation]
 ---
 

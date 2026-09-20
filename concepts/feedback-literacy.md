@@ -8,7 +8,6 @@ foundations: [ai-literacy]
 pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
-
 confidence: high
 ---
 

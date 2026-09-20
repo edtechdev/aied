@@ -4,9 +4,10 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
 type: article
 technology: [generative-ai, technology-acceptance-model]
+methods: [quantitative-research]
 ethics: [hallucination-risk, privacy, trust]
 audience: [researchers, instructors, administrators, policymakers]
-research_method: [survey, quantitative]
+research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1866428.md']
 confidence: high
 level: [higher ed]

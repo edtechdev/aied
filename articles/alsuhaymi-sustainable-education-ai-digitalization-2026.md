@@ -7,12 +7,14 @@ foundations: [ai-education, philosophy-of-ai-in-education]
 pedagogy: [critical-pedagogy]
 technology: [generative-ai]
 ethics: [ethics, sustainability]
-research_method: [theoretical analysis, qualitative]
+discipline: [environmental education]
+research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/alsuhaymi-sustainable-education-ai-digitalization-2026.md']
 confidence: high
 audience: [administrators, institutions, policymakers]
 page_kind: [framework]
+methods: [qualitative-research]
 institutions: [governance]
 ---
 > **Synthesis:** Alsuhaymi and Atallah (2026) offer a [[qualitative-research|qualitative]], value-[[critical-thinking|critical analysis]] of whether — and under what conditions — AI contributes to sustainable education in the age of digitalization. They argue AI does not exert a uniform, inherently positive or negative influence on educational sustainability; its effects are **conditional and governance-mediated**. Distinguishing *sustainable education* (a value-based, human-centered project), *sustainability in education*, and *education for sustainable development* (ESD), the authors show that AI contributes to sustainable education only when its adoption is subordinated to explicit educational values and human-centered purposes — and undermines it when technologization and commodification are allowed to erode those values.

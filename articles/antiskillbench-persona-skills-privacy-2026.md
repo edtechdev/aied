@@ -8,7 +8,6 @@ pedagogy: [student-ai-interaction]
 technology: [personalized-learning, rag]
 ethics: [bias-mitigation, privacy]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/2608.03700.md']
 confidence: high
 page_kind: [evaluation]

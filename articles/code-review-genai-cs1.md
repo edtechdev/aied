@@ -7,12 +7,12 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
 technology: [generative-ai]
 assessment: [formative-assessment]
+methods: [mixed-methods-research]
 stakeholders: [student-experience]
-research_method: [quasi-experiment, mixed methods]
+research_method: [quasi-experiment]
 discipline: [cs education]
 audience: [instructors, learners]
 level: [higher ed]
-
 sources: ['raw/papers/2605.21374.md']
 confidence: high
 ---

@@ -7,11 +7,10 @@ foundations: [curriculum-design]
 technology: [personalized-learning, simulation]
 assessment: [automated-assessment]
 ethics: [ethics]
-research_method: [systematic review]
 discipline: [nursing education, medical education]
 sources: ['raw/papers/alrazeeni-transforming-nursing-education-ai-2026.md']
 confidence: high
-audience: [medical educators, faculty development]
+audience: [medical educators, faculty developers]
 level: [higher ed]
 methods: [meta-analysis-systematic-review]
 ---

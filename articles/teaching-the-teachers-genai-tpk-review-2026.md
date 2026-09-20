@@ -4,13 +4,13 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
 technology: [generative-ai]
-stakeholders: [tpack]
+methods: [meta-analysis-systematic-review]
 ethics: [ethics]
-research_method: [systematic review]
+foundations: [tpack]
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high
-audience: [teacher educators, faculty development]
-level: [teacher training, higher ed, adult learning]
+audience: [teacher educators, faculty developers]
+level: [teacher education, higher ed, adult learning]
 page_kind: [framework]
 ---
 

@@ -10,7 +10,7 @@ ethics: [ethics, trust]
 sources: ['raw/papers/matthews-five-guiding-principles-ai-sap-trust-2025.md']
 confidence: high
 research_method: [position paper]
-audience: [instructors, faculty development, institutions]
+audience: [instructors, faculty developers, institutions]
 level: [higher ed]
 page_kind: [framework]
 ---

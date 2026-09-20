@@ -9,7 +9,7 @@ ethics: [trust]
 sources: ['raw/papers/anastasia-shared-agency-partnership-framework-2026.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [educators, instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed, adult learning]
 page_kind: [framework]
 ---

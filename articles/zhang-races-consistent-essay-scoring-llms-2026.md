@@ -5,8 +5,9 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [assessment, assessment-validity, automated-assessment, automated-essay-scoring]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 sources: ['raw/papers/zhang-races-consistent-essay-scoring-llms-2026.md']
 confidence: high
 discipline: [writing education]

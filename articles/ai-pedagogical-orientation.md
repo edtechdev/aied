@@ -5,10 +5,11 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [pedagogy, scaffolding]
+methods: [mixed-methods-research]
 stakeholders: [teacher-ai-competency]
-research_method: [survey, mixed methods]
+research_method: [survey]
 discipline: [stem education]
-audience: [faculty development, instructors]
+audience: [faculty developers, instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.18140.md']
 confidence: high

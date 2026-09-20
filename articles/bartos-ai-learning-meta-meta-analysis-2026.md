@@ -9,7 +9,7 @@ assessment: [learning-gains]
 connected_faqs: [reporting-interpreting-aied-research]
 sources: ['raw/papers/bartos-ai-learning-meta-meta-analysis-2026.md']
 confidence: high
-research_method: [meta-analysis, secondary analysis]
+research_method: [secondary analysis]
 audience: [researchers, policymakers]
 page_kind: [synthesis, evaluation]
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]

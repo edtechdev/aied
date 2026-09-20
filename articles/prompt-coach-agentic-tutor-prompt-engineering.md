@@ -4,7 +4,7 @@ created: "2026-07-08T04:33:04-04:00"
 updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy]
-pedagogy: [scaffolding]
+pedagogy: [professional-training, scaffolding]
 technology: [intelligent-tutoring, llm]
 assessment: [feedback, formative-assessment]
 audience: [instructors, software developers]
@@ -13,7 +13,6 @@ discipline: [cs education]
 sources: ['raw/papers/2607.06074.md']
 confidence: high
 level: [adult learning]
-stakeholders: [professional-training]
 ---
 
 > **Synthesis:** Mehra et al. (2026) introduce **Prompt Coach (PC)**, an [[agentic-ai|agentic tutor]] embedded in-flow within a developer's IDE that teaches prompt crafting through [[socratic-method|Socratic]] guidance, and evaluate it in an early empirical study with 15 professional developers. PC scores prompt quality across eight dimensions and surfaces targeted questions that guide self-correction, grounded in the developer's codebase and the target [[llm]]'s behavior. After a single 60-minute session, participants showed statistically significant improvement in prompt-writing proficiency (mean 63.04 → 71.69, +13.73%), with the largest gains on dimensions developers commonly overlook ([[inclusive-learning|Inclusion]] of Constraints, Error Handling, Context Awareness), plus strong trust and adoption readiness. The study positions agentic tutoring as a promising paradigm for in-flow, context-aware learning of emerging software-engineering skills.

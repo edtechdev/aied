@@ -3,7 +3,7 @@ title: Design-Based Research
 created: "2026-08-24T02:30:00-04:00"
 updated: "2026-09-17T14:46:00-04:00"
 type: concept
-research_method: [design-based research, research methods, literature review]
+research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 ---

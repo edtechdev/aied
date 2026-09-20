@@ -7,7 +7,6 @@ foundations: [academic-integrity, agentic-ai, ai-literacy, educational-developme
 technology: [generative-ai, intelligent-tutoring]
 assessment: [assessment]
 ethics: [ethics]
-research_method: [systematic review]
 audience: [instructors, administrators, researchers, instructional designers]
 level: [higher ed]
 sources: ['raw/papers/baradziej-agentic-ai-higher-education-2026.md']

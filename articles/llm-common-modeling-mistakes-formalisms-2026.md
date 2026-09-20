@@ -3,12 +3,12 @@ title: "Finding Common Mistakes In Modelling With Mathematical Formalisms Using 
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T06:58:22-04:00"
 type: article
-foundations: [misconceptions]
 technology: [cognitive-diagnosis, generative-ai, learning-analytics, llm, visualization]
 assessment: [automated-assessment, feedback, formative-assessment]
+pedagogy: [misconceptions]
 sources: ['raw/papers/llm-common-modeling-mistakes-formalisms-2026.md']
 confidence: high
-research_method: [system development, learning analytics, design and evaluation study]
+research_method: [system development, design and evaluation study]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, researchers, software developers]

@@ -8,10 +8,9 @@ pedagogy: [self-regulated-learning]
 technology: [learning-analytics, llm]
 assessment: [feedback, formative-assessment]
 stakeholders: [student-experience]
-research_method: [quasi-experiment, learning analytics]
+research_method: [quasi-experiment]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2608.11625.md']
 confidence: high
 ---

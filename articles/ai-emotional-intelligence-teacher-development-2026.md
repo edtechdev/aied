@@ -11,7 +11,7 @@ audience: [researchers, administrators, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935683.md']
 confidence: high
-level: [teacher training]
+level: [teacher education]
 page_kind: [framework, evaluation]
 ---
 

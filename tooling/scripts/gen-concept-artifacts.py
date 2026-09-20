@@ -177,8 +177,37 @@ def render_redirects_ts(reg):
 # methods, and 'instructional designers' is not the generic stakeholders page.
 LINK_FIELDS = ('research_method', 'discipline', 'audience', 'level')
 LINK_EXCLUDE = {
-    'audience': {'researchers', 'instructional designers', 'policymakers'},
+    # 'researchers' is not research methods; the designer phrases are not the generic
+    # stakeholders page; 'instructors' and 'teachers' are audiences, not the teaching
+    # role the alias would send them to; 'literature review' is not the systematic
+    # review concept; and the library discipline is not the librarians people page.
+    'audience': {'researchers', 'instructional designers', 'policymakers',
+                 'instructors', 'teachers'},
+    'research_method': {'literature review'},
+    'discipline': {'library and information science'},
 }
+# Fields where only an exact slug match may link: a level value must not be relabelled
+# by a broader band page ('undergraduate' is not simply higher education).
+LINK_EXACT_ONLY = {'level'}
+
+# Each metadata field whose vocabulary has one page that reads as the umbrella for
+# the whole field. The page metadata table links the field LABEL to that page, so a
+# reader can move from "Intended audience: instructors" to what the field itself
+# means. Fields without a genuine umbrella (level, page_kind, the foundations
+# catch-all) are omitted rather than pointed at a near-miss.
+FIELD_UMBRELLAS = (
+    ('research_method', 'research-methods-aied'),
+    ('methods', 'research-methods-aied'),
+    ('discipline', 'discipline-specific-aied'),
+    ('level', 'education-levels'),
+    ('audience', 'stakeholders'),
+    ('stakeholders', 'stakeholders'),
+    ('pedagogy', 'pedagogy'),
+    ('technology', 'ai-technologies'),
+    ('assessment', 'assessment'),
+    ('institutions', 'educational-policy-ai'),
+    ('ethics', 'ethics'),
+)
 
 
 def render_metadata_links_ts(reg):
@@ -200,6 +229,8 @@ def render_metadata_links_ts(reg):
             slug = value.replace(' ', '-')
             if slug in reg['concepts']:
                 pairs[value] = slug
+            elif field in LINK_EXACT_ONLY:
+                continue
             elif value.lower() in alias_to_slug:
                 pairs[value] = alias_to_slug[value.lower()]
         if pairs:
@@ -210,10 +241,18 @@ def render_metadata_links_ts(reg):
     header = ("// Field values that have a concept page, for the page metadata table.\n"
               "// A phrase like 'cs education' or 'systematic review' links to its concept page;\n"
               "// generated so a renamed concept cannot leave a stale link behind.\n"
+              "// FIELD_UMBRELLAS maps a metadata field to the concept page that reads as the\n"
+              "// umbrella for that whole field - the table links the field label there.\n"
               "// GENERATED FILE - do not edit by hand.\n"
-              "// Source: src/content.config.ts (vocabularies) + concepts.registry.yaml (aliases)\n\n")
-    return (header + "export const METADATA_LINKS: Record<string, Record<string, string>> = {\n"
-            + "\n".join(lines) + "\n};\n")
+              "// Source: tooling/scripts/gen-concept-artifacts.py + src/content.config.ts\n"
+              "//         (vocabularies) + concepts.registry.yaml (aliases)\n\n")
+    umbrellas = "export const FIELD_UMBRELLAS: Record<string, string> = {\n"
+    for field, slug in FIELD_UMBRELLAS:
+        umbrellas += f"  {ts_str(field)}: {ts_str(slug)},\n"
+    umbrellas += "};\n\n"
+    return (header + umbrellas
+            + "export const METADATA_LINKS: Record<string, Record<string, string>> = {\n"
+            + "\n".join(lines) + "\n};")
 
 
 def render_facet_vocab_ts(reg):

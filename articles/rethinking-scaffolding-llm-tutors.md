@@ -6,7 +6,7 @@ type: article
 pedagogy: [help-seeking, scaffolding]
 technology: [intelligent-tutoring, llm]
 stakeholders: [student-experience]
-research_method: [benchmark, secondary analysis]
+research_method: [secondary analysis]
 audience: [learners]
 sources: ['raw/papers/2606.15766.md']
 confidence: high

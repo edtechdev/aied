@@ -6,9 +6,10 @@ type: article
 foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, human-ai-collaboration, reducing-ai-misuse]
 pedagogy: [desirable-difficulties, scaffolding]
 technology: [generative-ai]
+methods: [qualitative-research]
 ethics: [ethics]
 audience: [instructors, learners]
-research_method: [theoretical analysis, qualitative]
+research_method: [theoretical analysis]
 sources: ['raw/papers/2608.17451.md']
 confidence: high
 level: [secondary]

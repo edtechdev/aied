@@ -3,13 +3,13 @@ title: "Pre-service teachers' agency during their interactions with generative A
 created: "2026-09-01T09:11:26-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [agency, learning-design]
+foundations: [agency, learning-design, tpack]
 pedagogy: [scaffolding]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency, tpack]
+stakeholders: [teacher-ai-competency]
 research_method: [experiment]
 audience: [teacher educators, researchers]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 sources: ["raw/papers/10.1016_j.caeo.2026.100325.md"]
 confidence: high
 ---

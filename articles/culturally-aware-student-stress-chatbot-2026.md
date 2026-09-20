@@ -5,11 +5,12 @@ updated: "2026-09-19T07:09:40-04:00"
 type: article
 pedagogy: [anxiety-and-stress, well-being]
 technology: [conversational-ai, machine-learning]
+methods: [benchmark]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education, ethics, global-south]
 connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [edtech designers, administrators, researchers]
 level: [higher ed]
 page_kind: [evaluation]

@@ -5,8 +5,8 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 technology: [llm, edtech-platform]
 assessment: [assessment, automated-assessment, feedback]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 sources: ['raw/papers/bandit-driven-llm-essay-scoring-2026.md']
 confidence: high

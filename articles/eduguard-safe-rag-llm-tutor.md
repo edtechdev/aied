@@ -8,9 +8,7 @@ technology: [generative-ai, intelligent-tutoring, llm, pedagogical-llm-training,
 assessment: [feedback]
 ethics: [hallucination-risk]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [stem education]
-
 sources: ['raw/papers/2607.15738.md']
 confidence: high
 level: [higher ed]

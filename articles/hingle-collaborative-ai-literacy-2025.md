@@ -6,8 +6,8 @@ type: article
 foundations: [ai-literacy, learning-design]
 pedagogy: [collaborative-learning]
 technology: [llm]
+methods: [meta-analysis-systematic-review]
 audience: [instructors, researchers]
-research_method: [systematic review]
 level: [k 12, higher ed]
 sources: ['raw/papers/hingle-collaborative-ai-literacy-2025.md']
 confidence: high

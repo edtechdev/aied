@@ -5,8 +5,9 @@ updated: "2026-09-19T08:58:00-04:00"
 type: article
 pedagogy: [sociocultural-learning, student-ai-interaction]
 technology: [learning-analytics, llm, multimodal]
+methods: [qualitative-research]
 ethics: [equity-in-ai-education]
-research_method: [qualitative, case study]
+research_method: [case study]
 level: [k 12]
 sources: ['raw/papers/youth-enter-chat-llm-student-talk-2026.md']
 confidence: high

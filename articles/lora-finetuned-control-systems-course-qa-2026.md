@@ -10,7 +10,7 @@ sources: ['raw/papers/lora-finetuned-control-systems-course-qa-2026.md']
 confidence: high
 research_method: [experiment, system development]
 discipline: engineering education
-audience: [educators, researchers]
+audience: [instructors, researchers]
 level: higher ed
 page_kind: [evaluation]
 ---

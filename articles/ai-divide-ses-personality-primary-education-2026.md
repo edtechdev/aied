@@ -4,11 +4,12 @@ created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:04:44-04:00"
 type: article
 sources: ["raw/papers/ai-divide-ses-personality-primary-education-2026.md"]
+methods: [quantitative-research]
 ethics: [digital-divide, equity-in-ai-education]
 confidence: medium
-research_method: [survey, quantitative]
-audience: [policymakers, educators, researchers]
-level: [elementary]
+research_method: [survey]
+audience: [policymakers, instructors, researchers]
+level: [primary education]
 ---
 
 > **Synthesis:** Wang and colleagues investigate whether integrating AI into primary education deepens the digital divide and educational inequality, and whether socioeconomic status (SES) or personality traits matter more for that risk. Using survey and national registry data from **4,497 Grade 6 students** in the Netherlands, the study models the mediating roles of AI usage and digital literacy in the links between student background, personality, and [[learning-gains|academic performance]].

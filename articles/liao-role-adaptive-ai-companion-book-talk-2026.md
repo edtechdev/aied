@@ -6,7 +6,7 @@ type: article
 foundations: [human-ai-collaboration]
 technology: [conversational-ai, generative-ai, pedagogical-agent]
 connected_faqs: [ai-guidance-children-under-13]
-research_method: [mixed methods, quantitative, qualitative]
+methods: [mixed-methods-research, quantitative-research, qualitative-research]
 audience: [instructors, learning designers, researchers]
 level: [k 12]
 sources: ['raw/papers/liao-role-adaptive-ai-companion-book-talk-2026.md']

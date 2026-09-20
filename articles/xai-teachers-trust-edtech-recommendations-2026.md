@@ -8,7 +8,7 @@ technology: [machine-learning, edtech-platform, technology-acceptance-model]
 stakeholders: [teacher-ai-competency]
 ethics: [trust, trust-calibration]
 audience: [instructors, researchers, edtech designers]
-research_method: [mixed methods, experiment]
+research_method: [experiment]
 level: [k 12]
 sources: ['raw/papers/xai-teachers-trust-edtech-recommendations-2026.md']
 confidence: high

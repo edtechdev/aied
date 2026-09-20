@@ -6,10 +6,11 @@ type: article
 pedagogy: [anxiety-and-stress, self-efficacy, well-being]
 technology: [learning-analytics, machine-learning, technology-acceptance-model]
 assessment: [self-report-measures]
+methods: [quantitative-research]
 ethics: [equity-in-ai-education, trust, trust-calibration]
 sources: ['raw/papers/trust-in-ai-psychological-profiles-ml-2026.md']
 confidence: high
-research_method: [survey, quantitative, learning analytics]
+research_method: [survey]
 audience: [researchers, instructors, administrators]
 level: [higher ed]
 page_kind: [evaluation]

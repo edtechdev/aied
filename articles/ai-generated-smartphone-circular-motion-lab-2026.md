@@ -5,7 +5,8 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, personalized-learning]
-research_method: [experiment, mixed methods]
+methods: [mixed-methods-research]
+research_method: [experiment]
 discipline: [physics education, stem education, science education]
 sources: ['raw/papers/2607.28352.md']
 confidence: high

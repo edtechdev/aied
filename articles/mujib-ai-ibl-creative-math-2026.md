@@ -11,7 +11,7 @@ discipline: [math education]
 level: [k 12]
 sources: ['raw/papers/mujib-ai-ibl-creative-math-2026.md']
 confidence: high
-audience: [educators, curriculum designers]
+audience: [instructors, curriculum designers]
 page_kind: [evaluation]
 ---
 

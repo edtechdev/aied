@@ -5,7 +5,6 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 technology: [ai-technologies, technology-acceptance-model]
 stakeholders: [student-experience]
-research_method: [meta-analysis]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/teo-ai-adoption-tertiary-meta-analysis-2026.md']

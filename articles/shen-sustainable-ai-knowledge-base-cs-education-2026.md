@@ -7,7 +7,6 @@ type: article
 technology: [generative-ai, llm, rag, edtech-platform, open-source]
 ethics: [privacy, sustainability]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [cs education]
 page_kind: [evaluation]
 sources: ['raw/papers/shen-sustainable-ai-knowledge-base-cs-education-2026.md']

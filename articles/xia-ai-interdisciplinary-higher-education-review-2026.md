@@ -5,10 +5,9 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration]
 ethics: [equity-in-ai-education, ethics]
-research_method: [systematic review]
 level: [higher ed]
 page_kind: [framework, synthesis]
-audience: [researchers, educators, policymakers]
+audience: [researchers, instructors, policymakers]
 sources: ['raw/papers/xia-ai-interdisciplinary-higher-education-review-2026.md']
 confidence: high
 discipline: [stem education]

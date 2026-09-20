@@ -5,10 +5,9 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, personalized-learning]
-research_method: [systematic review]
 sources: ['raw/papers/ikram-ai-personalized-learning-review-2026.md']
 confidence: high
-audience: [researchers, educators]
+audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]

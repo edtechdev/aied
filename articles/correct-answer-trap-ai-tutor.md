@@ -7,10 +7,9 @@ foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
 assessment: [automated-assessment, formative-assessment]
+methods: [benchmark]
 audience: [researchers, instructors]
-research_method: [benchmark]
 level: [higher ed]
-
 sources: ['raw/papers/2605.23925.md']
 confidence: high
 discipline: [math education]

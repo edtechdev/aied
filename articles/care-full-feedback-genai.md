@@ -11,7 +11,6 @@ ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis]
 audience: [instructors]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-2026-care-full-feedback-genai.md']
 confidence: high
 ---

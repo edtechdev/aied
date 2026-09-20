@@ -10,7 +10,7 @@ foundations: [ai-literacy, academic-integrity]
 methods: [research-methods-aied]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
-audience: [instructors, educators, administrators, assessment designers]
+audience: [instructors, administrators, assessment designers]
 page_kind: [framework]
 sources: ['raw/papers/ai-assisted-assessment-instruction-higher-ed-2026.md']
 confidence: high

@@ -8,7 +8,6 @@ pedagogy: [metacognition]
 stakeholders: [student-experience]
 ethics: [hallucination-risk, trust-calibration]
 audience: [learners]
-
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
 ---

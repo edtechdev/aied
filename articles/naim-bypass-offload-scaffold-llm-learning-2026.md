@@ -9,7 +9,7 @@ ethics: [ai-misuse-learning-harm]
 sources: ['raw/papers/naim-bypass-offload-scaffold-llm-learning-2026.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [researchers, instructional designers, educators]
+audience: [researchers, instructional designers, instructors]
 page_kind: [framework]
 ---
 

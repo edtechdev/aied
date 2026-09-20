@@ -5,8 +5,9 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 pedagogy: [metacognition]
 assessment: [authentic-assessment, feedback]
-research_method: [system development, mixed methods]
-level: [teacher training]
+methods: [mixed-methods-research]
+research_method: [system development]
+level: [teacher education]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']
 confidence: high
 discipline: [writing education, language learning]

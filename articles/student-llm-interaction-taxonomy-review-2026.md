@@ -6,12 +6,11 @@ type: article
 pedagogy: [self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, learning-analytics, llm]
 assessment: [ai-feedback-quality, assessment]
-research_method: [systematic review, research methods]
 level: [higher ed]
 sources: ['raw/papers/student-llm-interaction-taxonomy-review-2026.md']
 confidence: high
 audience: [researchers, learning analytics designers]
-methods: [research-methods-aied]
+methods: [research-methods-aied, meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Borchers, Jansen, and Weidlich (2026) conduct a rapid [[meta-analysis-systematic-review|scoping review]] of how student interactions with large language models are defined and categorized, finding that research remains conceptually fragmented. Across 46 categorizations drawn from 33 studies, they identify substantial variation in data sources, category-construction approaches, and units of analysis, which prevents comparison across studies and understanding of when LLM use supports learning. The review argues for a convergent taxonomy of learning-oriented [[llm]] interactions. It provides a methodological foundation for the [[student-experience]] literature and for interpreting [[learning-analytics]] and self-regulatory evidence across heterogeneous studies.

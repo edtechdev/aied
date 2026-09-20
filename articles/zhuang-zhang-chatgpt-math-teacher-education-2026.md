@@ -5,14 +5,15 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [teacher-role]
 technology: [generative-ai, pedagogical-llm-training, simulating-students, simulation]
+pedagogy: [professional-training]
 sources: ['raw/papers/zhuang-zhang-chatgpt-math-teacher-education-2026.md']
 confidence: high
-research_method: [system development, qualitative]
+research_method: [system development]
 discipline: [math education]
 audience: [teacher educators, instructional designers]
-level: [teacher training]
+level: [teacher education]
 page_kind: [framework]
-stakeholders: [professional-training]
+methods: [qualitative-research]
 ---
 
 > **Synthesis:** This study designed *Student GPT*, a custom ChatGPT-based chatbot that role-plays a middle school student holding common misconceptions in ratio reasoning, giving preservice secondary mathematics teachers low-risk, personalized practice-based teaching experience in [[math-education|mathematics education]]. Analyzing teacher–bot chat histories through an inductive qualitative coding framework (the Affective, Communicative, Technical "ACT" framework), the authors found the simulated student performed well on clarity, relevance, error types, knowledge, and consistency, but struggled with authentic student tone and role confusion. The work demonstrates how [[generative-ai]] can power [[simulation]] role-playing to support [[teacher-education]] practice-based teaching.

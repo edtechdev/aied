@@ -7,12 +7,11 @@ foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai]
 assessment: [feedback]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [qualitative]
 discipline: [language learning]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/tandf-2026-chatgpt-feedback-engagement.md']
 confidence: high
 institutions: [regulation]

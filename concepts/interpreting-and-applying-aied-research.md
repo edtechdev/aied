@@ -4,7 +4,7 @@ created: "2026-09-19T05:41:27-04:00"
 updated: "2026-09-19T06:50:00-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
-research_method: [research methods, benchmark, educational measurement, literature review, meta-analysis]
+research_method: [literature review]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied, meta-analysis-systematic-review, quantitative-research]
 assessment: [assessment-validity, educational-measurement, self-report-measures, learning-gains]
 ethics: [ai-use-disclosure]

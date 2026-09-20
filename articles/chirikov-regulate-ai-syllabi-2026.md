@@ -7,11 +7,12 @@ foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
 assessment: [assessment]
 connected_faqs: [course-ai-policy]
-research_method: [quantitative, longitudinal]
+research_method: [longitudinal study]
 audience: [instructors, administrators, policymakers, researchers]
 level: [higher ed]
 sources: ['raw/papers/chirikov-regulate-ai-syllabi-2026.md']
 confidence: high
+methods: [quantitative-research]
 institutions: [educational-policy-ai, governance, regulation]
 ---
 

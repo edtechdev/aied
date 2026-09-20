@@ -5,8 +5,8 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [adaptive-learning, educational-nlp, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 assessment: [formative-assessment]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100616.md']
 confidence: high
 page_kind: [evaluation]

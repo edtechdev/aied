@@ -6,7 +6,7 @@ type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
 assessment: [assessment-validity, educational-measurement]
-research_method: [research methods, benchmark, educational measurement, literature review]
+research_method: [literature review]
 page_kind: [evaluation]
 confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]

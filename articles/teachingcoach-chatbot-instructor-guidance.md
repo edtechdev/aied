@@ -8,7 +8,7 @@ pedagogy: [scaffolding]
 technology: [llm]
 stakeholders: [teacher-ai-competency]
 research_method: [system development]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/2603.18189.md']
 confidence: medium

@@ -6,8 +6,9 @@ type: article
 foundations: [agentic-ai]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning, rag]
 assessment: [automated-question-generation]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 sources: ['raw/papers/2604.26962.md']
 confidence: high
 level: [higher ed]

@@ -7,11 +7,11 @@ foundations: [agency, ai-literacy, teacher-role]
 pedagogy: [scaffolding, self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
-research_method: [design-based research, case study]
+methods: [design-based-research]
+research_method: [case study]
 discipline: [writing education]
 audience: [learners, instructors]
 level: [higher ed]
-
 sources: ['raw/papers/tubino-adachi-ai-automated-feedback-literacy.md']
 confidence: medium
 ---

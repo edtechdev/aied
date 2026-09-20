@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 audience: [learners, instructors]
 research_method: [literature review]
-level: [k 12, teacher training]
+level: [k 12, teacher education]
 sources: ['raw/papers/young-people-learning-generative-ai-rapid-review-2026.md']
 confidence: high
 institutions: [educational-policy-ai]

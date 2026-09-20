@@ -7,10 +7,9 @@ foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, learning-analytics, llm]
 assessment: [automated-assessment, formative-assessment]
+methods: [mixed-methods-research]
 audience: [learners, instructors]
-research_method: [mixed methods]
 level: [secondary, higher ed, k 12]
-
 sources: ['raw/papers/2607.01692.md']
 confidence: high
 discipline: [math education]

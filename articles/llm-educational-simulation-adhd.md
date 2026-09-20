@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm]
 stakeholders: [student-experience]
-research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.06307.md']
 confidence: medium

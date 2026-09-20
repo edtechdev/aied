@@ -7,12 +7,11 @@ foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
 technology: [generative-ai]
 assessment: [formative-assessment]
+methods: [design-based-research]
 stakeholders: [student-experience]
-research_method: [design-based research]
 discipline: [cs education]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2607.05068.md']
 confidence: high
 ---

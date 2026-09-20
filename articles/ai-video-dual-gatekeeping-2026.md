@@ -10,7 +10,7 @@ research_method: [system development, user study]
 audience: [instructors]
 sources: ['raw/papers/ai-video-dual-gatekeeping-2026.md']
 confidence: high
-level: [teacher training]
+level: [teacher education]
 ---
 
 > **Synthesis:** Kim, Baek, and Kwak (2026) argue that [[generative-ai|generative AI]] video authoring pipelines for education need "structured refusal" to prevent aesthetically polished but pedagogically flawed content. They introduce PedaCo, a dual-gatekeeping system with two layers: a script-stage review where [[teacher-role|educators]] iteratively reshape AI drafts against Mayer's Cognitive Theory of Multimedia Learning, and a post-synthesis automated metric flagging violations in instructional coherence and narrative–visual synchronization. A within-subject study with 23 educators and automated metrics across seven topics show both layers independently improve the same instructional dimensions, reframing [[human-in-the-loop-ai|principled resistance]] as a productive partner to, rather than opponent of, AI.

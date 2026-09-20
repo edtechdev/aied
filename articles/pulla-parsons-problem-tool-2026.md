@@ -3,12 +3,12 @@ title: "Pulla: A Parsons Problem Tool for Fine-Grained Behavioral Tracing and In
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
 type: article
-foundations: [misconceptions]
 technology: [learning-analytics, visualization]
 assessment: [automated-assessment, feedback, formative-assessment]
+pedagogy: [misconceptions]
 sources: ['raw/papers/pulla-parsons-problem-tool-2026.md']
 confidence: high
-research_method: [system development, learning analytics]
+research_method: [system development]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, software developers, learning analytics designers]

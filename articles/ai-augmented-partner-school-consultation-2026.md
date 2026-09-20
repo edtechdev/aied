@@ -4,13 +4,13 @@ created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [human-ai-collaboration, teacher-role]
-pedagogy: [problem-solving]
-technology: [generative-ai, conversational-ai, llm]
-stakeholders: [teacher-ai-competency, professional-training]
+pedagogy: [problem-solving, professional-training]
+technology: [conversational-ai, generative-ai, llm]
+stakeholders: [teacher-ai-competency]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]
 level: [k 12, special education]
-audience: [educators, administrators, researchers]
+audience: [instructors, administrators, researchers]
 page_kind: [framework]
 sources: ['raw/papers/ai-augmented-partner-school-consultation-2026.md']
 confidence: high

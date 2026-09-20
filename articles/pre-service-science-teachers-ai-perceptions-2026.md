@@ -5,10 +5,10 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [ai-literacy]
 ethics: [global-south]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 research_method: [survey]
 discipline: [science education]
-level: [higher ed, teacher training]
+level: [higher ed, teacher education]
 sources: ['raw/papers/pre-service-science-teachers-ai-perceptions-2026.md']
 confidence: high
 page_kind: [evaluation]

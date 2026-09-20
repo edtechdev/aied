@@ -6,12 +6,12 @@ type: article
 foundations: [agentic-ai, ai-literacy, educational-development, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, rag]
+methods: [mixed-methods-research]
 stakeholders: [teacher-ai-competency]
-research_method: [mixed methods]
-audience: [faculty development, instructors]
+audience: [faculty developers, instructors]
 sources: ['raw/papers/2605.13906.md']
 confidence: medium
-level: [teacher training, k 12]
+level: [teacher education, k 12]
 page_kind: [framework]
 ---
 

@@ -5,8 +5,9 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [computational-thinking]
 pedagogy: [self-regulated-learning]
+technology: [learning-analytics]
 assessment: [learning-gains]
-research_method: [learning analytics]
+methods: [network-analysis]
 discipline: [cs education]
 level: [k 12]
 sources: ['raw/papers/computational-thinking-aica-2026.md']

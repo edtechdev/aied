@@ -6,7 +6,6 @@ type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 assessment: [learning-gains]
 ethics: [equity-in-ai-education]
-research_method: [meta-analysis, systematic review]
 level: [k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/burneo-can-edtech-close-learning-gaps-2026.md']

@@ -4,12 +4,15 @@ created: "2026-09-13T11:05:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
 type: article
 pedagogy: [online-teaching-and-learning, self-efficacy]
-stakeholders: [teacher-ai-competency, tpack]
+assessment: [educational-measurement]
+methods: [quantitative-research]
+stakeholders: [teacher-ai-competency]
 ethics: [digital-divide, equity-in-ai-education, global-south]
-research_method: [quantitative, survey, educational measurement]
+foundations: [tpack]
+research_method: [survey]
 discipline: [science education]
-audience: [teacher educators, educators, researchers, policymakers, curriculum designers, administrators]
-level: [higher ed, teacher training]
+audience: [teacher educators, instructors, researchers, policymakers, curriculum designers, administrators]
+level: [higher ed, teacher education]
 page_kind: [framework, evaluation]
 sources: ['raw/papers/ai-training-science-teacher-tpack-distance-2026.md']
 confidence: high

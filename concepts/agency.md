@@ -9,7 +9,6 @@ stakeholders: [student-experience]
 ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]
-
 confidence: high
 ---
 

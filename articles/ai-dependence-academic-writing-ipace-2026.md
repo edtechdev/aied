@@ -4,8 +4,8 @@ created: "2026-09-16T11:00:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [academic-integrity, ai-education, ai-literacy, cognitive-offloading]
+methods: [mixed-methods-research]
 audience: [researchers, instructors, administrators]
-research_method: [mixed methods]
 sources: ['raw/papers/10.3389_fpsyg.2026.1905037.md']
 confidence: high
 discipline: [writing education]

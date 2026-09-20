@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, curriculum-design, teacher-role]
 pedagogy: [learning-theories, pedagogy]
 stakeholders: [teacher-ai-competency]
-research_method: [qualitative]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']

@@ -4,16 +4,15 @@ created: "2026-08-14T09:17:22-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [agency, cognitive-offloading]
-pedagogy: [metacognition, motivation, self-regulated-learning]
+pedagogy: [lifelong-learning, metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 ethics: [trust-calibration]
 research_method: [theoretical analysis]
 level: [adult learning]
 sources: ['raw/papers/andragogy-cognitive-delegation-genai-2026.md']
 confidence: high
-audience: [educators, researchers]
+audience: [instructors, researchers]
 page_kind: [framework]
-stakeholders: [lifelong-learning]
 ---
 
 > **Synthesis:** Hyoung (2026) revisits Knowles's six andragogical assumptions under AI-mediated cognitive delegation. Because generative AI can participate in identifying needs, setting goals, interpreting information, solving problems, producing outputs, and evaluating performance, the paper argues that behavioral independence is insufficient evidence of meaningful self-direction. Five analytical dimensions are derived — need and goal ownership, delegation control, epistemic calibration, cognitive recoverability and transfer, and motivational autonomy — to assess whether learners remain genuinely self-directed. The work bridges [[adult-learning]] with [[cognitive-offloading]], [[self-regulated-learning]], and appropriate-reliance [[research-methods-aied|research]] for [[adult-learning]] in the [[generative-ai]] era.

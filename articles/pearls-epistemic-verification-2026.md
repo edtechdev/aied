@@ -11,7 +11,7 @@ ethics: [ethics, trust-calibration]
 sources: ['raw/papers/pearls-epistemic-verification-2026.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [educators, assessment designers, researchers]
+audience: [instructors, assessment designers, researchers]
 level: [higher ed]
 page_kind: [framework]
 ---

@@ -5,14 +5,14 @@ updated: "2026-09-19T10:56:42-04:00"
 type: article
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [metacognition]
-technology: [generative-ai]
+technology: [generative-ai, learning-analytics]
 assessment: [assessment]
 stakeholders: [student-experience]
 ethics: [ethics]
 sources: ['raw/papers/10.1186_s41239-026-00621-w.md']
 confidence: high
-research_method: [survey, learning analytics]
-audience: [curriculum designers, educators]
+research_method: [survey]
+audience: [curriculum designers, instructors]
 level: [higher ed]
 institutions: [governance]
 ---

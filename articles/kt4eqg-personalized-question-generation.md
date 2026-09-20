@@ -5,7 +5,8 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
 assessment: [automated-assessment, automated-question-generation]
-research_method: [benchmark, system development]
+methods: [benchmark]
+research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/2605.23933.md']
 confidence: medium

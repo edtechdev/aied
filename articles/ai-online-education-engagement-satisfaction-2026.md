@@ -6,7 +6,6 @@ type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [conversational-ai, intelligent-tutoring]
 stakeholders: [student-experience]
-research_method: [systematic review]
 audience: [learners]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high

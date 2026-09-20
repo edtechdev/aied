@@ -5,12 +5,11 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education, human-ai-collaboration]
 technology: [generative-ai, llm]
-research_method: [qualitative]
 discipline: [stem education, cs education]
 level: [higher ed]
 sources: ['raw/papers/2608.02955v1.md']
 confidence: high
-audience: [instructors, educators]
+audience: [instructors]
 methods: [qualitative-research]
 ---
 

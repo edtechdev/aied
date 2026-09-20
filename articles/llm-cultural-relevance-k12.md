@@ -8,7 +8,7 @@ pedagogy: [pedagogy]
 technology: [generative-ai, llm]
 ethics: [equity-in-ai-education, inclusive-learning]
 research_method: [design and evaluation study, user study]
-audience: [faculty development]
+audience: [faculty developers]
 level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2505.08083.md']

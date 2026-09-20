@@ -6,9 +6,9 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [socratic-method, problem-solving]
 technology: [llm, conversational-ai, intelligent-tutoring, pedagogical-agent, simulating-students]
-methods: [mixed-methods-research]
-research_method: [user study, quantitative]
-audience: [researchers, educators, instructors]
+methods: [mixed-methods-research, quantitative-research]
+research_method: [user study]
+audience: [researchers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/acl2026-lftutor.md']
 confidence: high

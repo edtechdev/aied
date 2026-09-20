@@ -10,7 +10,6 @@ assessment: [assessment-validity, automated-assessment, formative-assessment]
 audience: [instructors, researchers]
 research_method: [experiment]
 level: [higher ed]
-
 sources: ['raw/papers/2605.27402.md']
 confidence: medium
 page_kind: [evaluation]

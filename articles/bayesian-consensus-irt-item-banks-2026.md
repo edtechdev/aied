@@ -8,7 +8,6 @@ assessment: [assessment-validity, automated-question-generation, educational-mea
 sources: ['raw/papers/bayesian-consensus-irt-item-banks-2026.md']
 confidence: high
 level: [adult learning]
-research_method: [educational measurement]
 audience: [assessment professionals, researchers]
 discipline: [language learning]
 ---

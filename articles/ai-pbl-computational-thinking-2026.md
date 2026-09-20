@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 sources: ['raw/papers/ai-pbl-computational-thinking-2026.md']
 confidence: medium
 discipline: [cs education, stem education]
-audience: [educators, curriculum designers, instructors]
+audience: [curriculum designers, instructors]
 page_kind: [evaluation]
 ---
 

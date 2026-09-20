@@ -5,11 +5,10 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [human-in-the-loop-ai, llm]
 assessment: [feedback]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.23535.md']
 confidence: high
 page_kind: [framework, evaluation]

@@ -4,10 +4,9 @@ created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article
 pedagogy: [self-regulated-learning]
-technology: [adaptive-learning, generative-ai, intelligent-tutoring, knowledge-graph]
+technology: [adaptive-learning, generative-ai, intelligent-tutoring, knowledge-graph, learning-analytics]
 assessment: [learning-gains]
 audience: [software developers]
-research_method: [learning analytics]
 sources: ['raw/papers/graph-its-adaptive-algorithms-2026.md']
 confidence: high
 discipline: [cs education]

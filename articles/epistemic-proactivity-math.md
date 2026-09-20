@@ -5,9 +5,9 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
-technology: [llm]
+technology: [llm, learning-analytics]
 stakeholders: [student-experience]
-research_method: [process-outcome modeling, learning analytics]
+research_method: [process-outcome modeling]
 discipline: [stem education, math education]
 audience: [learners]
 level: [k 12]

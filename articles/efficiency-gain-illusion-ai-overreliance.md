@@ -8,7 +8,6 @@ technology: [generative-ai, rag]
 stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
-
 sources: ['raw/papers/2605.22687.md']
 confidence: medium
 level: [adult learning]

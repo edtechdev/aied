@@ -6,11 +6,12 @@ type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]
 connected_faqs: [ai-guidance-children-under-13]
-research_method: [mixed methods, user study]
+methods: [mixed-methods-research]
+research_method: [user study]
 level: [k 12]
 sources: ['raw/papers/sanoubari-remind-robot-roleplay-2026.md']
 confidence: medium
-audience: [educators, designers]
+audience: [instructors, designers]
 ---
 
 > **Synthesis:** Sanoubari, Fernandes, Rebello, Pan, Houston, and Dautenhahn (2026) present REMind, an educational robot-mediated role-play game designed to support anti-bullying bystander intervention among children. REMind invites players to observe a bullying scenario enacted by social robots, reflect on the perspectives of the characters, and rehearse defending strategies by puppeteering a robotic avatar. Evaluated through a [[mixed-methods-research|mixed-methods]] play-testing study with 18 children aged 9–10, the findings suggest the experience supported learning goals related to self-efficacy, perspective-taking, understanding outcomes of defending, and intervention strategies — highlighting Robot-Mediated Applied Drama (RMAD) as a novel [[pedagogy|pedagogical]] framework for social-emotional learning.

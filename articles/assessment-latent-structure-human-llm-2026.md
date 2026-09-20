@@ -5,7 +5,6 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [generative-ai, llm]
 assessment: [assessment-validity, educational-measurement, item-response-theory, psychometrically-aware-ai]
-research_method: [educational measurement]
 level: [secondary, k 12, higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/assessment-latent-structure-human-llm-2026.md']

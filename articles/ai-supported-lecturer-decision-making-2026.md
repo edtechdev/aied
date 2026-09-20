@@ -4,9 +4,9 @@ type: article
 foundations: [learning-design, teacher-role]
 technology: [learning-analytics]
 assessment: [assessment, feedback]
+methods: [meta-analysis-systematic-review, qualitative-research]
 sources: ['raw/papers/ai-supported-lecturer-decision-making-2026.md']
 confidence: high
-research_method: [systematic review, qualitative]
 audience: [instructors, researchers, administrators, learning designers]
 level: [higher ed]
 page_kind: [framework]

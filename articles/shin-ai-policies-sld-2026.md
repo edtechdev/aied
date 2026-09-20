@@ -5,11 +5,12 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 ethics: [accessibility, equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
-research_method: [mixed methods, delphi]
+research_method: [delphi]
 level: [special education]
 sources: ['raw/papers/shin-ai-policies-sld-2026.md']
 confidence: high
 audience: [policymakers, administrators, teacher educators]
+methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---
 

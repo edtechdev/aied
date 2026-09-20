@@ -4,10 +4,10 @@ created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, learner-identity]
-pedagogy: [motivation, self-determination-theory, self-efficacy, student-engagement]
-stakeholders: [career-development-and-readiness]
+pedagogy: [career-development-and-readiness, motivation, self-determination-theory, self-efficacy, student-engagement]
+methods: [quantitative-research]
 audience: [researchers, instructors, administrators, curriculum designers]
-research_method: [structural equation modeling, survey, quantitative]
+research_method: [structural equation modeling, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1892204.md']
 confidence: high
 level: [higher ed]

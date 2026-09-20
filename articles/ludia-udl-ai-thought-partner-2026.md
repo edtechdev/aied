@@ -7,10 +7,10 @@ foundations: [ai-education, learning-design]
 ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]
-level: [teacher training]
+level: [teacher education]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
 confidence: high
-audience: [instructional designers, educators]
+audience: [instructional designers, instructors]
 technology: [edtech-platform]
 ---
 

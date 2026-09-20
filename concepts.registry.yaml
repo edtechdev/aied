@@ -38,6 +38,13 @@ concepts:
     - adaptive systems
     - adaptive testing
     - adaptivity
+  education-levels:
+    title: Levels of Education
+    aliases:
+    - levels of education
+    - education levels
+    - level of education
+    - schooling bands
   educational-technology-developers:
     title: Educational Technology Developers
     aliases:
@@ -637,6 +644,14 @@ concepts:
     aliases:
     - english as a foreign language
     - english education
+  environmental-education:
+    title: Environmental Education
+    aliases:
+    - climate education
+    - environmental education
+    - environmental literacy
+    - green skills education
+    - sustainability education
   eportfolio:
     title: E-Portfolio
     aliases:
@@ -945,6 +960,16 @@ concepts:
     - second language acquisition
     - SLA
     - tefl
+  latent-profile-analysis:
+    title: Latent Profile Analysis
+    aliases:
+    - latent class
+    - latent class analysis
+    - latent profile
+    - latent profile analysis
+    - lpa
+    - mixture modeling
+    - person-centered analysis
   learners:
     title: Learners
     aliases:
@@ -1002,6 +1027,17 @@ concepts:
     - learning theories
     - learning theory
     - theories of learning
+  librarians:
+    title: Librarians
+    aliases:
+    - academic librarian
+    - embedded librarian
+    - information science
+    - librarian
+    - librarians
+    - library and information science
+    - library science
+    - school librarian
   lifelong-learning:
     title: Lifelong Learning
     aliases:
@@ -1937,7 +1973,6 @@ sections:
   - label: Essentials
     items:
     - ai-education
-    - misconceptions
     - ai-literacy
     - agentic-ai
     - cognitive-offloading
@@ -1964,6 +1999,10 @@ sections:
     - curriculum-design
     - critical-thinking
     - computational-thinking
+  - label: Theories and frameworks
+    items:
+    - samr-model
+    - tpack
 - heading: Learning and instruction
   blurb: How AI supports teaching and learning — the pedagogies, learning theories, and learner-facing processes AI operates
     within.
@@ -2008,6 +2047,7 @@ sections:
     - transfer-of-learning
     - prior-knowledge
     - icap-framework
+    - misconceptions
     - refutation-text
     - activity-theory-aied
     - retrieval-spacing-interleaving
@@ -2022,6 +2062,11 @@ sections:
     - problem-solving
     - mastery-learning
     - anxiety-and-stress
+  - label: Lifelong and professional learning
+    items:
+    - career-development-and-readiness
+    - lifelong-learning
+    - professional-training
 - heading: Technologies and techniques
   blurb: 'The technical layer: the AI models and methods that power education technology, and the learner-modeling and tutoring
     systems built on them.'
@@ -2083,6 +2128,7 @@ sections:
     - writing-education
     - language-learning
     - english-education
+    - environmental-education
     - business-education
     - humanities-education
     - arts-design-and-media-education
@@ -2105,6 +2151,10 @@ sections:
     - vocational-education
     - special-education
     - teacher-education
+  - label: Bands and comparisons
+    items:
+    - education-levels
+
 - heading: Assessment and measurement
   blurb: How AI both assesses learners and reshapes how we evaluate AI systems and their impact.
   groups:
@@ -2146,38 +2196,28 @@ sections:
     - usability-research
     - rct
     - meta-analysis-systematic-review
+    - latent-profile-analysis
     - network-analysis
   - label: Evaluation of AI systems
     items:
     - ai-ed-evaluation
     - benchmark
 - heading: People
-  blurb: AI changes the role of every stakeholder in education — learners, teachers, and the institutions that support them.
   groups:
-  - label: Learners
-    items:
-    - stakeholders
-    - learners
-    - student-experience
-    - career-development-and-readiness
-  - label: Families and communities
-    items:
-    - parents-and-families
-  - label: Instructors and teaching frameworks
-    items:
-    - teacher-ai-competency
-    - tpack
-    - samr-model
-  - label: Designers and developers
-    items:
-    - educational-technology-developers
-  - label: Administrators and leaders
+  - label: Roles and audiences
     items:
     - administrator
-  - label: Lifelong and workplace learning
+    - educational-technology-developers
+    - learners
+    - librarians
+    - parents-and-families
+    - stakeholders
+  - label: Learner experience
     items:
-    - lifelong-learning
-    - professional-training
+    - student-experience
+  - label: Educator capability
+    items:
+    - teacher-ai-competency
 - heading: Institutions and policy
   groups:
   - label: Institutions

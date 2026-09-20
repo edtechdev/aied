@@ -3,11 +3,11 @@ title: "How to Train Your Dragon: Evaluating Prompting and Fine-Tuning for GPT-B
 created: "2026-09-01T10:00:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article
+methods: [benchmark]
 sources: ["raw/papers/gpt-item-generation-l2-listening-2026.md"]
 technology: [llm, prompt-engineering]
 assessment: [educational-measurement]
 confidence: medium
-research_method: [benchmark]
 discipline: [language learning]
 audience: [assessment professionals, assessment designers, researchers]
 page_kind: [evaluation]

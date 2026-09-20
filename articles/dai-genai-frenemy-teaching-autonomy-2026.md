@@ -5,10 +5,11 @@ updated: "2026-09-19T10:14:00-04:00"
 type: article
 foundations: [academic-integrity, agency, cognitive-offloading, educational-development, human-ai-collaboration, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
-research_method: [mixed methods, survey, thematic analysis]
+methods: [mixed-methods-research]
+research_method: [survey, thematic analysis]
 level: [higher ed]
 page_kind: [framework]
-audience: [educators, teachers, institutions, policymakers]
+audience: [instructors, teachers, institutions, policymakers]
 sources: ['raw/papers/dai-genai-frenemy-teaching-autonomy-2026.md']
 confidence: high
 ---

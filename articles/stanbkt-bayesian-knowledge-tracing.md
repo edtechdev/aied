@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, visualization, open-source]
 audience: [software developers, researchers]
-research_method: [benchmark]
 sources: ['raw/papers/2605.23048.md']
 confidence: high
 level: [k 12]

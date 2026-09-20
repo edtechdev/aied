@@ -6,7 +6,6 @@ type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm]
-research_method: [benchmark]
 discipline: [math education]
 audience: [instructors, software developers]
 level: [k 12]

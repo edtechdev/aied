@@ -4,12 +4,13 @@ created: "2026-05-21T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking]
-pedagogy: [constructivist]
+pedagogy: [constructivist, professional-training]
 technology: [generative-ai, personalized-learning]
 assessment: [educational-measurement]
-stakeholders: [student-experience, professional-training]
+methods: [mixed-methods-research]
+stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
-research_method: [mixed methods, survey, thematic analysis]
+research_method: [survey, thematic analysis]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2605.21361.md']

@@ -5,8 +5,9 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
+methods: [design-based-research]
 stakeholders: [student-experience]
-research_method: [system development, design-based research]
+research_method: [system development]
 discipline: [cs education, stem education]
 audience: [learners]
 level: [k 12]

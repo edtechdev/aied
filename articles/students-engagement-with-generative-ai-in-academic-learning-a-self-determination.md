@@ -6,11 +6,11 @@ type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai, learning-analytics]
+methods: [qualitative-research, network-analysis]
 stakeholders: [student-experience]
 ethics: [privacy]
-research_method: [qualitative, interviews]
+research_method: [interviews]
 audience: [learners]
-
 sources: ['raw/papers/10.1016_j.caeai.2026.100606.md']
 confidence: high
 level: [higher ed]

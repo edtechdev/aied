@@ -5,7 +5,6 @@ updated: "2026-09-20T06:30:22-04:00"
 type: article
 technology: [adaptive-learning, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, item-response-theory]
-research_method: [educational measurement]
 sources: ['raw/papers/2608.24632.md']
 confidence: high
 discipline: [cs education]

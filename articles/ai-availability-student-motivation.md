@@ -5,11 +5,11 @@ updated: "2026-09-19T08:04:44-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [llm]
+methods: [qualitative-research]
 stakeholders: [student-experience]
-research_method: [interviews, qualitative]
+research_method: [interviews]
 audience: [learners]
 level: [higher ed]
-
 sources: ['raw/papers/2606.30480.md']
 confidence: high
 discipline: [cs education]

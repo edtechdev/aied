@@ -4,8 +4,8 @@ created: "2026-08-06T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article
 technology: [generative-ai, multimodal, visualization]
+methods: [benchmark]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2608.04030.md']

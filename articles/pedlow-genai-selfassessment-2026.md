@@ -6,12 +6,13 @@ type: article
 foundations: [academic-integrity, agency]
 technology: [generative-ai]
 assessment: [assessment]
+methods: [mixed-methods-research]
 ethics: [ethics]
-research_method: [survey, mixed methods]
+research_method: [survey]
 level: [higher ed]
 sources: ['raw/papers/pedlow-genai-selfassessment-2026.md']
 confidence: medium
-audience: [educators, faculty development]
+audience: [instructors, faculty developers]
 ---
 > **Synthesis:** Pedlow and Maldon (2026) investigate how guided reflection embedded within [[assessment|self-assessment]] can support students to engage responsibly and confidently with [[generative-ai|generative AI (GenAI)]] in learning and [[assessment]], while maintaining [[academic-integrity|academic integrity]]. Conducted at an Australian university (Edith Cowan) with commencing undergraduate and postgraduate students across nursing, health sciences, engineering and science (2021–2025), the study implemented pre- and post-semester [[assessment|self-assessments]] combining Likert-scale confidence items with an open-ended prompt inviting reflection on the [[ethics|ethical implications]] of GenAI use. Findings indicate that students recognized both the benefits and limitations of GenAI, demonstrating growing [[ethics|ethical awareness]] and [[critical-thinking|critical evaluation]] of its role in academic work. Reflections revealed persistent tensions between efficiency and [[academic-integrity|academic integrity]], uncertainty about [[governance|institutional]] expectations, and a shift from risk aversion and fear toward deliberate boundary-setting, disclosure, and critical vigilance. Students reported an increased sense of personal responsibility, describing the reflective process as confidence-building during their transition to [[higher-ed|higher education]]. The authors frame [[ethics|ethical]] GenAI use not as compliance but as a developmental capability, positioning guided reflection within [[assessment|self-assessment]] as a scalable, student-centered [[pedagogy|pedagogical]] strategy that fosters readiness, [[self-regulated-learning|self-regulated learning]], and [[agency|learner agency]].
 

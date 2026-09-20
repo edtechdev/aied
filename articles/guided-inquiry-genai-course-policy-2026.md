@@ -10,9 +10,10 @@ ethics: [ethics]
 connected_faqs: [course-ai-policy]
 sources: ['raw/papers/2608.28501.md']
 confidence: high
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 audience: [instructors, administrators, curriculum designers]
 level: [higher ed]
+methods: [qualitative-research]
 institutions: [governance]
 ---
 

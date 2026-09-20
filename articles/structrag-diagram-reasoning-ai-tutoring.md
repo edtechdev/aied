@@ -6,10 +6,10 @@ type: article
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag, visualization]
 assessment: [automated-assessment, feedback]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [stem education]
-
 sources: ['raw/papers/sle-2026-structrag-diagram-reasoning.md']
 confidence: high
 level: [higher ed]

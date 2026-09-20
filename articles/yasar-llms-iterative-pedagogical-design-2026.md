@@ -6,12 +6,11 @@ type: article
 foundations: [learning-design]
 pedagogy: [situated-learning]
 technology: [llm, pedagogical-llm-training, prompt-engineering]
-assessment: [feedback, formative-assessment]
+assessment: [feedback, formative-assessment, educational-measurement]
 sources: ['raw/papers/yasar-llms-iterative-pedagogical-design-2026.md']
 confidence: high
-research_method: [educational measurement, design-based research]
 discipline: [design education]
-audience: [educators, assessment designers, instructional designers]
+audience: [instructors, assessment designers, instructional designers]
 level: [higher ed]
 methods: [design-based-research]
 ---

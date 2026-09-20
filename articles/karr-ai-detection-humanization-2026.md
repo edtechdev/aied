@@ -8,11 +8,12 @@ technology: [generative-ai, llm]
 assessment: [ai-detection, assessment]
 ethics: [equity-in-ai-education]
 sources: ['raw/papers/2608.11256.md']
-research_method: [experiment, quantitative]
+research_method: [experiment]
 discipline: [cs education, language learning, writing education]
 audience: [policymakers, researchers, instructors, administrators]
 level: [higher ed]
 confidence: high
+methods: [quantitative-research]
 institutions: [educational-policy-ai]
 ---
 

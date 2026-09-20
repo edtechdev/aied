@@ -5,9 +5,9 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 technology: [pedagogical-llm-training]
+methods: [design-based-research]
 stakeholders: [teacher-ai-competency]
-research_method: [design-based research]
-audience: [faculty development]
+audience: [faculty developers]
 level: [higher ed, k 12]
 sources: ['raw/papers/genai-literacy-training-teacher-education-dbr-2026.md']
 confidence: high

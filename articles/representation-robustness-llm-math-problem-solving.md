@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [llm, rag, reinforcement-learning]
 assessment: [assessment-validity]
-research_method: [benchmark]
 discipline: [stem education, math education]
 sources: ['raw/papers/2607.20520.md']
 confidence: high

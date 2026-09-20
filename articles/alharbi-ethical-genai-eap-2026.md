@@ -5,8 +5,8 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 ethics: [ethics]
-research_method: [mixed methods]
 discipline: [language learning]
 audience: [instructors]
 level: [higher ed]

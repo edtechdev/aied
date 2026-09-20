@@ -7,7 +7,6 @@ foundations: [computational-thinking]
 pedagogy: [socratic-method]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, pedagogical-agent]
 assessment: [educational-measurement]
-research_method: [educational measurement]
 discipline: [physics education]
 sources: ['raw/papers/hashmi-socratic-physics-chatbot-2025.md']
 confidence: medium

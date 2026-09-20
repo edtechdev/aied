@@ -5,7 +5,8 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [constructivist, motivation, student-engagement]
 technology: [personalized-learning]
-research_method: [quasi-experiment, mixed methods]
+methods: [mixed-methods-research]
+research_method: [quasi-experiment]
 discipline: [chemistry education]
 level: [k 12]
 sources: ['raw/papers/context-based-ai-secondary-chemistry-2026.md']

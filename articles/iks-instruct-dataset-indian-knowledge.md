@@ -5,8 +5,9 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [learning-theories]
 technology: [llm, personalized-learning, open-source]
+methods: [benchmark]
 audience: [software developers]
-research_method: [system development, benchmark]
+research_method: [system development]
 discipline: [language learning]
 sources: ['raw/papers/2607.23322.md']
 confidence: medium

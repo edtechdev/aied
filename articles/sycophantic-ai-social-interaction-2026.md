@@ -9,7 +9,6 @@ technology: [affective-computing, generative-ai]
 ethics: [ai-sycophancy, ethics, trust]
 audience: [learners, researchers]
 research_method: [experiment, survey]
-
 sources: ['raw/papers/sycophantic-ai-social-interaction-2026.md']
 confidence: high
 ---

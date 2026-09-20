@@ -5,9 +5,10 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm, personalized-learning]
 assessment: [ai-feedback-quality, feedback]
+methods: [benchmark]
 sources: ['raw/papers/reddig-maclellan-personalized-feedback-llm-2026.md']
 confidence: high
-research_method: [benchmark, system development]
+research_method: [system development]
 discipline: [math education]
 audience: [edtech designers, instructors, researchers]
 level: [higher ed]

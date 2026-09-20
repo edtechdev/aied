@@ -5,7 +5,7 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 pedagogy: [metacognition]
 technology: [llm, prompt-engineering]
-research_method: [design-based research]
+methods: [design-based-research]
 discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/llms-text-linguistics-teaching-2026.md']

@@ -6,7 +6,7 @@ type: article
 foundations: [ai-education, learning-design, teacher-role]
 pedagogy: [constructivist, experiential-learning, situated-learning]
 technology: [adaptive-learning, personalized-learning]
-research_method: [systematic review]
+methods: [meta-analysis-systematic-review]
 audience: [instructors]
 sources: ['raw/papers/vargas-situated-learning-ai-review-2024.md']
 confidence: high

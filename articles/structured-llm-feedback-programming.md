@@ -9,7 +9,6 @@ assessment: [feedback]
 research_method: [experiment]
 discipline: [stem education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.16933.md']
 confidence: high
 audience: [instructors, instructional designers, software developers]

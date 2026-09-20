@@ -7,8 +7,8 @@ technology: [generative-ai]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, global-south, inclusive-learning]
 sources: ['raw/papers/khlaif-assistive-genai-visually-impaired-2026.md']
 confidence: high
-research_method: [qualitative, case study]
-audience: [educators, institutions, instructional designers]
+research_method: [case study]
+audience: [instructors, institutions, instructional designers]
 level: [higher ed]
 methods: [qualitative-research]
 ---

@@ -5,11 +5,12 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 foundations: [curriculum-design]
 technology: [educational-nlp, learning-analytics, llm, machine-learning, multimodal]
+methods: [benchmark]
 sources: ['raw/papers/bird-multimodal-educational-literature-2026.md']
 confidence: high
-research_method: [benchmark, system development]
+research_method: [system development]
 discipline: [english education]
-audience: [educators, edtech designers, researchers]
+audience: [instructors, edtech designers, researchers]
 level: [k 12, secondary]
 page_kind: [evaluation]
 ---

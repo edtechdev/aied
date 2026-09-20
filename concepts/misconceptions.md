@@ -9,7 +9,6 @@ technology: [generative-ai]
 stakeholders: [student-experience]
 ethics: [trust-calibration]
 audience: [learners, instructors]
-
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 ---

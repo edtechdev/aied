@@ -7,13 +7,13 @@ foundations: [ai-education]
 pedagogy: [metacognition, self-regulated-learning, sociocultural-learning]
 technology: [human-in-the-loop-ai, pedagogical-llm-training]
 assessment: [assessment, formative-assessment]
-research_method: [theoretical analysis, systematic review]
+research_method: [theoretical analysis]
 level: [higher ed]
 page_kind: [evaluation]
 sources: ['raw/papers/zhan-boud-du-authentic-assessment-scoping-review-2025.md']
 confidence: high
 audience: [assessment designers, instructors, curriculum designers]
-methods: [ai-ed-evaluation]
+methods: [ai-ed-evaluation, meta-analysis-systematic-review]
 ---
 
 > **Synthesis:** Wiggins (1990) proposed AA as a counterbalance to standardized tests: direct examination of "student performance on worthy intellectual tasks."

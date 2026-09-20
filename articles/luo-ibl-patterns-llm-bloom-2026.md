@@ -6,11 +6,11 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [inquiry-based-learning, metacognition, self-efficacy, self-regulated-learning]
 technology: [conversational-ai, llm]
-research_method: [mixed methods, qualitative]
+methods: [mixed-methods-research, qualitative-research]
 level: [higher ed]
 sources: ['raw/papers/luo-ibl-patterns-llm-bloom-2026.md']
 confidence: high
-audience: [instructional designers, educators, researchers]
+audience: [instructional designers, instructors, researchers]
 page_kind: [framework]
 ---
 

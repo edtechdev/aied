@@ -3,14 +3,15 @@ title: "“If we are good friends, AI doesn't spy so much”: Children's knowled
 created: "2026-09-18T12:35:00-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [misconceptions, ai-literacy]
+foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai]
-ethics: [privacy, ai-misuse-learning-harm]
+ethics: [ai-misuse-learning-harm, privacy]
 stakeholders: [learners, parents-and-families]
 methods: [qualitative-research]
-research_method: [interviews, thematic analysis, qualitative]
-level: [elementary, k 12]
-audience: [educators, learners, researchers]
+pedagogy: [misconceptions]
+research_method: [interviews, thematic analysis]
+level: [primary education, k 12]
+audience: [instructors, learners, researchers]
 page_kind: [evaluation]
 sources: ['raw/papers/children-ai-safety-misconceptions-2026.md']
 confidence: high

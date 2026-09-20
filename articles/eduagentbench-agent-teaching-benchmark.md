@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, teacher-role]
 pedagogy: [scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm, pedagogical-llm-training]
-research_method: [benchmark]
 audience: [instructors, software developers]
 sources: ['raw/papers/2605.14322.md']
 confidence: medium

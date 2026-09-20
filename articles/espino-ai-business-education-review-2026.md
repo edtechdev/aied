@@ -5,7 +5,6 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
-research_method: [systematic review]
 discipline: [business education]
 level: [higher ed]
 sources: ['raw/papers/espino-ai-business-education-review-2026.md']

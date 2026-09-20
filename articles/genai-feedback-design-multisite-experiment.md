@@ -13,7 +13,7 @@ level: [higher ed]
 sources: ['raw/papers/genai-feedback-design-multisite-experiment.md']
 confidence: high
 discipline: [science education]
-audience: [instructors, faculty development, instructional designers]
+audience: [instructors, faculty developers, instructional designers]
 ---
 
 > **Synthesis:** A multisite, cluster-randomized field experiment (1,176 first-year undergraduates, 48 sections, 4 universities, 3 science domains) compares four [[feedback]] designs for scientific argumentation: peer-only, direct [[generative-ai|GenAI]], reflective GenAI (self-evaluation then AI critique), and hybrid (self-evaluation + peer + GenAI). The hybrid condition produced the highest argument-quality gains and clearest advantage on conceptual learning; reflective and hybrid designs both outperformed direct GenAI on delayed AI-free [[transfer-of-learning|transfer]]. Findings suggest that GenAI's educational value depends less on AI access than on preserving student [[agency]], evaluative judgment, and ownership during revision.

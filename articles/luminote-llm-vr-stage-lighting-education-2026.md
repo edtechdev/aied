@@ -2,7 +2,7 @@
 title: "LumiNote: LLM-Assisted Multimodal Instruction for VR Stage Lighting Education"
 type: article
 foundations: [learning-design, teacher-role]
-pedagogy: [experiential-learning]
+pedagogy: [experiential-learning, professional-training]
 technology: [generative-ai, human-in-the-loop-ai, llm, multimodal, virtual-and-augmented-reality]
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T07:04:04-04:00"
@@ -11,8 +11,7 @@ confidence: high
 research_method: [system development, user study]
 discipline: [humanities education]
 level: [higher ed]
-audience: [instructors, learning designers, designers, students]
-stakeholders: [professional-training]
+audience: [instructors, learning designers, designers, learners]
 ---
 
 > **Synthesis:** Stage lighting instruction requires instructors to hold four layers together at once — aesthetic intent, fixture-level operations, visible stage effects, and learner-facing explanations — and existing [[virtual-and-augmented-reality|VR]] systems simulate lighting hardware without supporting that live teaching work. Liang et al. build LumiNote, an [[llm]]-assisted VR system that turns spoken [[pedagogy|pedagogical]] intent, anchored by a laser pointer, into instructor-reviewable spatial annotations, executable lighting demonstrations, and real-time jargon explanations. Across 55 instructor prompts and 531 generated actions, assistance proved most valuable for expressive, under-specified goals (visual effects: 212 of 245 actions applied) and weakest for fixture-specific requests, where 26 of 28 rejections traced to directional-reference misreads such as "left light." Instructors used suggestions as a [[human-in-the-loop-ai|controllable refinement process]] — 86.4% of rejected or modified actions triggered a new prompt rather than manual adjustment — shifting effort from [[simulation|manual demonstration setup]] toward pedagogical expression while keeping [[teacher-role|authority]] over the lesson. The study's central caution is a representation mismatch: the cues instructors rated most useful for externalizing expert reasoning were not the cues novices found easiest to follow.

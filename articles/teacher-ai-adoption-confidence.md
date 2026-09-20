@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 stakeholders: [teacher-ai-competency]
 research_method: [survey]
-audience: [instructors, faculty development]
+audience: [instructors, faculty developers]
 level: [k 12, higher ed]
 sources: ['raw/papers/2605.00343.md']
 confidence: high

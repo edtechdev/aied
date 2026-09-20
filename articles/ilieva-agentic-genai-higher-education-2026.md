@@ -6,13 +6,14 @@ type: article
 foundations: [academic-integrity, agentic-ai]
 technology: [generative-ai, human-in-the-loop-ai, pedagogical-agent, personalized-learning]
 ethics: [ai-use-disclosure, trust]
-research_method: [design-based research, survey]
+research_method: [survey]
 discipline: [business education]
 audience: [learners, instructors, administrators, curriculum designers, researchers]
 level: [higher ed]
 page_kind: [framework]
 sources: ['raw/papers/ilieva-agentic-genai-higher-education-2026.md']
 confidence: medium
+methods: [design-based-research]
 institutions: [governance]
 ---
 

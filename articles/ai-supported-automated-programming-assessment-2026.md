@@ -3,11 +3,10 @@ title: "Design and Evaluation of an AI-Supported Automated Programming Assessmen
 created: "2026-09-20T11:52:19-04:00"
 updated: "2026-09-20T11:52:19-04:00"
 type: article
-foundations: [misconceptions]
-pedagogy: [mastery-learning, motivation, self-efficacy, self-regulated-learning]
-technology: [generative-ai, llm, learning-analytics, conversational-ai]
+pedagogy: [mastery-learning, misconceptions, motivation, self-efficacy, self-regulated-learning]
+technology: [conversational-ai, generative-ai, learning-analytics, llm]
 assessment: [automated-assessment, feedback, formative-assessment, learning-gains]
-ethics: [guardrails, ai-use-disclosure]
+ethics: [ai-use-disclosure, guardrails]
 research_method: [experiment, system development]
 discipline: [cs education]
 level: [higher ed]

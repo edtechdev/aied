@@ -5,10 +5,11 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai, technology-acceptance-model]
+methods: [quantitative-research]
 ethics: [ai-use-disclosure, ethics]
 connected_faqs: [study-with-ai]
-research_method: [survey, quantitative]
-audience: [instructors, students, administrators]
+research_method: [survey]
+audience: [instructors, learners, administrators]
 level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100323.md"]
 confidence: high

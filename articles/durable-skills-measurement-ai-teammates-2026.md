@@ -9,10 +9,10 @@ technology: [simulating-students]
 assessment: [assessment, educational-measurement, group-work]
 sources: ['raw/papers/durable-skills-measurement-ai-teammates-2026.md']
 confidence: high
-research_method: [experiment, user study, quantitative]
+research_method: [experiment, user study]
 audience: [assessment designers, researchers, edtech designers]
 level: [higher ed, secondary]
-methods: [ai-ed-evaluation]
+methods: [ai-ed-evaluation, quantitative-research]
 ---
 
 > **Synthesis:** [[problem-solving|Collaborative problem solving]], [[creativity]] and [[critical-thinking]] are the skills employers most want and educational systems least measure, because valid assessment demands either naturalistic group interaction or psychometric control, and the two pull apart. This paper's proposal is an "Executive LLM" that plays every AI teammate in a group task with Gemini, holds the scoring rubric, and deliberately steers the conversation toward situations that force the participant to demonstrate the skill being assessed. Across 373 conversations from 188 participants, skill-matched Executive steering raised the share of conversations yielding ratable evidence to 92.4% for project management and 85% for conflict resolution, significantly above unconstrained [[agentic-ai|independent agent]] teams, while LLM scoring agreed with expert annotators about as well as the two human experts agreed with each other (Kappa 0.45–0.64). The design reframes assessment as an adaptive test of complex behavior: a [[simulating-students|simulated]] partner engineered for evidence density rather than a standardized task assumed to elicit it.

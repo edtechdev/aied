@@ -6,6 +6,7 @@ type: article
 foundations: [agentic-ai, cognitive-offloading]
 pedagogy: [student-ai-interaction]
 technology: [cognitive-diagnosis, intelligent-tutoring, learning-analytics, llm]
+methods: [network-analysis]
 research_method: [system development, experiment]
 discipline: [cs education]
 level: [higher ed]

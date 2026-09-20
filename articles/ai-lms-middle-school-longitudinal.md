@@ -5,8 +5,9 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning, edtech-platform]
 assessment: [formative-assessment]
+methods: [design-based-research]
 stakeholders: [student-experience]
-research_method: [design-based research, survey]
+research_method: [survey]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium

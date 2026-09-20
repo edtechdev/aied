@@ -6,12 +6,13 @@ type: article
 foundations: [ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [experiential-learning, pedagogy]
 technology: [llm, prompt-engineering]
+methods: [qualitative-research]
 sources: ['raw/papers/llms-unplugged-teaching-resources-2026.md']
 confidence: high
-research_method: [system development, qualitative]
+research_method: [system development]
 discipline: cs education
-audience: [educators, teachers, teacher educators]
-level: [secondary, higher ed, adult learning, teacher training]
+audience: [instructors, teachers, teacher educators]
+level: [secondary, higher ed, adult learning, teacher education]
 ---
 
 > **Synthesis:** LLMs Unplugged is a practitioner-designed resource suite that teaches the [[llm]] training-to-generation pipeline entirely offline, using hand-built n-gram models, tally grids and dice-based weighted sampling — extending the long tradition of CS Unplugged into language modeling and [[ai-literacy]]. The curriculum runs students through a Training lesson (counting which words follow which words) and a Generation lesson (sampling next words from those counts), then offers Extensions on LoRA tuning, [[reinforcement-learning|RLHF]], synthetic data, temperature and truncation, beam search, tool use, word embeddings and context columns. The author reports delivery to roughly 400 participants in groups of five to fifty, spanning school-age learners, undergraduates from across campus and senior public-service executives, with the majority of participants being senior Australian Public Service leaders. It is explicitly a practitioner paper rather than a controlled study: there is no pre/post testing, no control group and no [[quantitative-research|quantitative]] [[learning-gains]] data, so the evidence is [[qualitative-research|qualitative]] reception rather than measured effect. The core [[pedagogy|pedagogical]] claim is that participants leave with a corrected mental model — that LLMs do probabilistic next-word generation at scale rather than reasoning or understanding.

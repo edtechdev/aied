@@ -11,7 +11,7 @@ ethics: [ai-use-disclosure]
 methods: [research-methods-aied]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
-audience: [instructors, educators, administrators, curriculum designers]
+audience: [instructors, administrators, curriculum designers]
 page_kind: [framework]
 sources: ['raw/papers/open-learning-practices-genai-response-2026.md']
 confidence: high

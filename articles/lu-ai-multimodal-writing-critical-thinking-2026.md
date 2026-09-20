@@ -6,10 +6,10 @@ type: article
 foundations: [critical-thinking]
 pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]
 connected_faqs: [ai-guidance-children-under-13]
-research_method: [mixed methods]
+methods: [mixed-methods-research]
 discipline: [writing education, language learning]
-audience: [teachers, students, researchers]
-level: [elementary, k 12]
+audience: [teachers, learners, researchers]
+level: [primary education, k 12]
 sources: ['raw/papers/lu-ai-multimodal-writing-critical-thinking-2026.md']
 confidence: high
 ---

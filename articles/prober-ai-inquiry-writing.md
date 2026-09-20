@@ -11,7 +11,6 @@ audience: [learners, instructors]
 research_method: [system development]
 discipline: [writing education]
 level: [higher ed]
-
 sources: ['raw/papers/2605.05598.md']
 confidence: medium
 ---

@@ -6,11 +6,12 @@ weight: 75
 type: faq
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
+methods: [meta-analysis-systematic-review]
 stakeholders: [parents-and-families]
 ethics: [privacy, pedagogical-safety]
-research_method: [literature review, experiment, systematic review]
-audience: [teachers, educators, administrators, policymakers]
-level: [early childhood, elementary, k 12]
+research_method: [literature review, experiment]
+audience: [teachers, instructors, administrators, policymakers]
+level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 ---
 

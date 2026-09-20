@@ -9,7 +9,7 @@ technology: [generative-ai, prompt-engineering]
 sources: ['raw/papers/2609.09856.md']
 confidence: high
 research_method: [position paper, theoretical analysis]
-audience: [educators, researchers, instructional designers]
+audience: [instructors, researchers, instructional designers]
 page_kind: [framework]
 ---
 

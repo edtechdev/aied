@@ -5,8 +5,9 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning, prompt-engineering]
+methods: [benchmark]
 stakeholders: [student-experience]
-research_method: [system development, benchmark]
+research_method: [system development]
 audience: [learners, software developers]
 level: [k 12]
 sources: ['raw/papers/2606.20138.md']

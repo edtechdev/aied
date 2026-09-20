@@ -6,11 +6,12 @@ type: article
 foundations: [agency, ai-literacy]
 pedagogy: [creativity, critical-pedagogy, storytelling-in-education, student-engagement]
 technology: [multimodal]
+methods: [qualitative-research]
 ethics: [ethics]
-research_method: [qualitative, thematic analysis]
+research_method: [thematic analysis]
 discipline: [english education]
 level: [secondary]
-audience: [educators, teachers]
+audience: [instructors, teachers]
 sources: ['raw/papers/burriss-multimodal-composition-critical-ai-literacy-2026.md']
 confidence: high
 ---

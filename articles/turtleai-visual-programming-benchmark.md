@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [multimodal, visualization]
 audience: [software developers]
-research_method: [benchmark]
 discipline: [cs education]
 level: [k 12]
 sources: ['raw/papers/2606.03626.md']

@@ -5,8 +5,8 @@ updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-education]
 technology: [adaptive-learning, knowledge-graph, learning-analytics, multimodal, personalized-learning]
+methods: [benchmark]
 audience: [software developers, researchers]
-research_method: [benchmark]
 sources: ['raw/papers/10.1016_j.caeai.2026.100678.md']
 confidence: high
 discipline: [language learning]

@@ -6,8 +6,7 @@ type: article
 pedagogy: [learning-theories]
 technology: [educational-nlp, generative-ai, learning-analytics, llm]
 assessment: [automated-assessment]
-research_method: [benchmark, learning analytics]
-
+methods: [benchmark]
 sources: ['raw/papers/caeai-human-llm-coding.md']
 confidence: high
 audience: [researchers, learning analytics designers]

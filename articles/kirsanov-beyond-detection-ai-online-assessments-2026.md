@@ -13,7 +13,7 @@ sources: ['raw/papers/kirsanov-beyond-detection-ai-online-assessments-2026.md']
 source_url: 'https://doi.org/10.1007/s10805-025-09691-3'
 confidence: high
 discipline: [business education]
-audience: [educators, assessment designers, administrators]
+audience: [instructors, assessment designers, administrators]
 connected_faqs: [asynchronous-online-courses-ai]
 ---
 

@@ -3,9 +3,10 @@ title: "Guarded adoption of generative AI in higher education: high-achieving st
 type: article
 foundations: [agency, cognitive-offloading, critical-thinking, learner-identity]
 technology: [generative-ai]
+methods: [mixed-methods-research]
 sources: ['raw/papers/guarded-adoption-genai-higher-education-2026.md']
 confidence: high
-research_method: [survey, mixed methods]
+research_method: [survey]
 audience: [instructors, researchers, administrators]
 level: [higher ed]
 page_kind: [framework]

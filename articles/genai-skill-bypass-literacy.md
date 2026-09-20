@@ -5,10 +5,10 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 technology: [generative-ai, llm, rag]
-research_method: [survey, educational measurement]
-audience: [faculty development]
+assessment: [educational-measurement]
+research_method: [survey]
+audience: [faculty developers]
 level: [higher ed]
-
 sources: ['raw/papers/2607.05411.md']
 confidence: high
 ---

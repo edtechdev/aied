@@ -6,11 +6,12 @@ type: article
 pedagogy: [pedagogical-partnerships, self-regulated-learning, student-engagement]
 technology: [generative-ai]
 assessment: [assessment, formative-assessment]
+methods: [qualitative-research]
 sources: ['raw/papers/williams-ingle-assessment-co-creation-ai-2025.md']
 confidence: high
-research_method: [case study, qualitative, thematic analysis]
+research_method: [case study, thematic analysis]
 discipline: [medical education]
-audience: [assessment designers, educators, instructors]
+audience: [assessment designers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 ---

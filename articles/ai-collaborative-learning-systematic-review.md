@@ -5,11 +5,10 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, learning-analytics]
-research_method: [systematic review]
 level: [higher ed]
 sources: ['raw/papers/ssho-ai-collab-learning-review.md']
 confidence: high
-audience: [educators, institutions, researchers]
+audience: [instructors, institutions, researchers]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

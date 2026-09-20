@@ -6,7 +6,6 @@ type: article
 technology: [generative-ai, intelligent-tutoring, llm]
 stakeholders: [student-experience]
 ethics: [hallucination-risk, pedagogical-safety]
-research_method: [benchmark]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.12748.md']
 confidence: high

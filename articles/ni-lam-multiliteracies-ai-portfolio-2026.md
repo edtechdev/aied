@@ -6,7 +6,8 @@ type: article
 pedagogy: [student-engagement]
 technology: [generative-ai]
 assessment: [assessment, automated-assessment, eportfolio, feedback]
-research_method: [qualitative, thematic analysis]
+methods: [qualitative-research]
+research_method: [thematic analysis]
 discipline: [language learning]
 sources: ['raw/papers/ni-lam-multiliteracies-ai-portfolio-2026.md']
 confidence: medium

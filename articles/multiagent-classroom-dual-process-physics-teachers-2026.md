@@ -7,8 +7,7 @@ foundations: [agentic-ai]
 technology: [simulation]
 research_method: [experiment]
 discipline: [physics education, stem education]
-level: [teacher training, higher ed]
-
+level: [teacher education, higher ed]
 sources: ['raw/papers/2608.05820.md']
 confidence: medium
 audience: [teacher educators, researchers]
