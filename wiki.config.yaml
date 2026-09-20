@@ -24,6 +24,7 @@ site:
 paths:
   articles: articles
   concepts: concepts
+  resources: resources          # free tools/collections/instruments a reader can use
   faqs: faqs
   raw_papers: raw/papers          # gitignored: raw full text of each source
   pdf_sources: pdf-sources        # gitignored: original PDFs, never deleted

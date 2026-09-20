@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1329 | Concepts: 212 | FAQs: 32
+Articles: 1329 | Concepts: 212 | Resources: 9 | FAQs: 32
 
 ## Concepts
 
@@ -1547,3 +1547,15 @@ Articles: 1329 | Concepts: 212 | FAQs: 32
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
 - [[zuo-instructor-power-genai-writing-2026]] — “Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI
+
+## Resources
+
+- [[drawsplat]] — DrawSplat
+- [[edugems]] — EduGems
+- [[id-toolbox]] — The ID Toolbox
+- [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
+- [[jev-sandbox]] — Jev Sandbox
+- [[lesson-md]] — LESSON.md
+- [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
+- [[pressing-prompts]] — Pressing Prompts
+- [[teacherserver]] — TeacherServer

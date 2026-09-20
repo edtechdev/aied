@@ -11,6 +11,7 @@ ethics: [trust-calibration]
 audience: [learners]
 connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students-learn, how-ai-impacts-students, addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai, asynchronous-online-courses-ai]
 confidence: high
+connected_resources: [pause-ai-use-self-examination]
 ---
 
 > **Cognitive offloading** — the use of external tools (including AI) to reduce internal cognitive demand, shifting mental work from the learner to the system. In [[ai-education]], cognitive offloading is the central mechanism through which AI tools can either support or undermine learning: appropriate offloading frees cognitive resources for higher-order thinking, while excessive offloading bypasses the processing required for durable learning. **Over-reliance** is the harmful end of this spectrum — the unproductive pattern where offloading crosses from strategic support into learning displacement.

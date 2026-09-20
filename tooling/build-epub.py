@@ -29,6 +29,7 @@ ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
 
 CONCEPTS_DIR = os.path.join(WIKI, 'concepts')
 FAQS_DIR = os.path.join(WIKI, 'faqs')
+RESOURCES_DIR = os.path.join(WIKI, 'resources')
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 OUT = os.path.join(WIKI, 'public', 'aied.epub')
 
@@ -336,6 +337,100 @@ for path in faq_paths:
     slug = os.path.basename(path)[:-3]
     title, body = process_md(path, slug, 3)  # FAQ at H3
     parts.append(f"\n### {title} {{#{slug}}}\n\n{body}")
+
+# --- Resources chapter (2026-09-20) ---
+# Free tools, collections, instruments and open formats, listed LAST: they point
+# outside the knowledge base, so they belong at the back of the book as a toolbox
+# rather than inside the argument. Grouping mirrors src/pages/resources.astro
+# (by the FIRST declared resource_type) so the site page and the exports agree.
+resources_intro = """# Free Tools and Resources
+
+A curated set of **free tools, collections, instruments and formats** for AI in education — things a reader can go and use, rather than research to read first. They are made mostly by educators, instructional designers, librarians and researchers, and many were built with AI assistance by people who are not professional developers.
+
+Not everything here is interactive. Alongside browser tools you will find libraries of ready-made prompts and "gems", collections of classroom activities, briefing and policy documents, assessment instruments, and open file formats. Each entry says who made it, what kind of thing it is, whether the source code is available, and what it costs to use. Every entry links to an external site this knowledge base does not control; the link-checked date records when a link was last confirmed to work. The same list lives at the knowledge base site under Resources.
+
+"""
+parts.append(resources_intro)
+
+RESOURCE_GROUP_ORDER = [
+    'software', 'ai tutor', 'agent skill', 'prompt or gem library',
+    'collection of tools', 'collection of activities', 'assessment instrument',
+    'open format or specification', 'ebook or guide', 'case study collection',
+    'dataset or benchmark',
+]
+
+
+def _rf(fm, name):
+    """Read one scalar frontmatter field, quoted or bare."""
+    m = re.search(r'^' + name + r':\s*(?:"([^"]*)"|(.+?))\s*$', fm, re.M)
+    if not m:
+        return ''
+    return (m.group(1) or m.group(2) or '').strip()
+
+
+def _rlist(fm, name):
+    m = re.search(r'^' + name + r':\s*\[(.*?)\]', fm, re.M)
+    if not m:
+        return []
+    return [t.strip().strip('"') for t in m.group(1).split(',') if t.strip()]
+
+
+resource_paths = sorted(glob.glob(os.path.join(RESOURCES_DIR, '*.md')))
+resource_titles = {}
+resource_fields = {}
+for path in resource_paths:
+    slug = os.path.basename(path)[:-3]
+    fm = open(path, encoding='utf-8').read().split('\n---\n', 1)[0]
+    resource_titles[slug] = page_title(open(path, encoding='utf-8').read(), slug)
+    resource_fields[slug] = {
+        'url': _rf(fm, 'url'),
+        'source_code': _rf(fm, 'source_code'),
+        'author': _rf(fm, 'author'),
+        'author_url': _rf(fm, 'author_url'),
+        'type': _rlist(fm, 'resource_type'),
+        'access': _rlist(fm, 'access'),
+        'license': _rf(fm, 'license'),
+        'checked': _rf(fm, 'last_verified'),
+        'connected': _rlist(fm, 'connected_resources'),
+    }
+
+for group_type in RESOURCE_GROUP_ORDER:
+    members = [os.path.basename(p)[:-3] for p in resource_paths
+               if (resource_fields[os.path.basename(p)[:-3]]['type'] or [''])[0] == group_type]
+    if not members:
+        continue
+    parts.append("\n## " + group_type.title() + "\n")
+    for slug in sorted(members, key=lambda s: resource_titles[s]):
+        f = resource_fields[slug]
+        title, body = process_md(os.path.join(RESOURCES_DIR, slug + '.md'), slug, 3)
+        head = []
+        if f['url']:
+            head.append("- **Open it:** [" + f['url'] + "](" + f['url'] + ")")
+        if f['author']:
+            who = "[" + f['author'] + "](" + f['author_url'] + ")" if f['author_url'] else f['author']
+            head.append("- **Made by:** " + who)
+        if f['source_code']:
+            head.append("- **Source code:** [" + f['source_code'] + "](" + f['source_code'] + ")")
+        bits = []
+        if f['type']:
+            bits.append('Type: ' + ', '.join(t.title() for t in f['type']))
+        if f['access']:
+            bits.append('Access: ' + ', '.join(a.title() for a in f['access']))
+        if f['license']:
+            bits.append('License: ' + f['license'])
+        if bits:
+            head.append('- ' + ' · '.join(bits))
+        if f['checked']:
+            head.append("- **Link checked:** " + f['checked'])
+        extra = ''
+        if f['connected']:
+            lines = ['\n## Connected Resources\n']
+            for other in f['connected']:
+                if other in resource_titles:
+                    lines.append("- [" + resource_titles[other] + "](#" + other + ")")
+            if len(lines) > 1:
+                extra = '\n' + '\n'.join(lines) + '\n'
+        parts.append("\n### " + title + " {#" + slug + "}\n\n" + '\n'.join(head) + '\n\n' + body.rstrip() + extra)
 
 combined = '\n\n'.join(parts)
 

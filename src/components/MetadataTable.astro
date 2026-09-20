@@ -47,6 +47,11 @@ const ROWS: { key: string; label: string }[] = [
     label: FACET_LABELS_MAP[field] || field,
   })),
   { key: 'page_kind', label: 'Page kind' },
+  // Resource pages carry fields no other page type has. They are absent elsewhere,
+  // and `rows` filters empty rows out, so adding them here is safe for every page.
+  { key: 'resource_type', label: 'Type of resource' },
+  { key: 'access', label: 'Access' },
+  { key: 'license', label: 'License' },
 ];
 
 const titleCase = (s: string) =>

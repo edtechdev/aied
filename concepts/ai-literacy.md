@@ -9,6 +9,7 @@ audience: [faculty developers, instructors, learners]
 level: [higher ed, k 12]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence, faculty-ai-competencies, addressing-common-misconceptions-ai-education, ai-guidance-children-under-13, verify-ai-output]
 confidence: high
+connected_resources: [edugems, pressing-prompts]
 ---
 
 > **AI literacy** — the knowledge, skills, and critical dispositions needed to understand, evaluate, and effectively use AI [[ai-technologies]] in educational contexts. AI literacy spans foundational understanding of how AI works, practical competence in using AI tools, critical [[ai-ed-evaluation|evaluation of AI]] outputs, and ethical awareness of AI's societal implications.
