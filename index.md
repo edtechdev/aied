@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-20
 
-Articles: 1335 | Concepts: 213 | Resources: 10 | FAQs: 32
+Articles: 1335 | Concepts: 213 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
@@ -1551,12 +1551,14 @@ Articles: 1335 | Concepts: 213 | Resources: 10 | FAQs: 32
 
 ## Resources
 
+- [[deeptutor]] — DeepTutor
 - [[drawsplat]] — DrawSplat
 - [[edugems]] — EduGems
 - [[id-toolbox]] — The ID Toolbox
 - [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
 - [[jev-sandbox]] — Jev Sandbox
 - [[lesson-md]] — LESSON.md
+- [[openmaic]] — OpenMAIC
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
 - [[playlab]] — Playlab
 - [[pressing-prompts]] — Pressing Prompts
