@@ -27,7 +27,7 @@ institutions: [governance]
 4. **Authorship is not the same as ownership of meaning.** Because AI assistance is iterative and interwoven with drafting, who produced the words explains less than what claim the performance warrants, shifting the task from policing provenance to gathering complementary evidence of understanding.
 5. **Valid under one set of conditions does not mean valid under another.** An AI-supported coursework score may not support claims about independent competence, and an AI-restricted exam may underrepresent the capability that responsible AI use in professional settings requires.
 6. **A defensible interpretation does not justify every decision.** Even a bounded, well-supported claim may be insufficient for progression, certification or selection, which requires separate warrants for thresholds, weighting and the resolution of inconsistent results.
-7. **Redesigns trade one validity pressure for another.** Oral defences can improve attribution while reducing reliability or accessibility, and authentic tasks can improve extrapolation while complicating scoring, so responses should be chosen for the inference they strengthen and checked for what they weaken elsewhere.
+7. **Redesigns trade one validity pressure for another.** Oral defenses can improve attribution while reducing reliability or accessibility, and authentic tasks can improve extrapolation while complicating scoring, so responses should be chosen for the inference they strengthen and checked for what they weaken elsewhere.
 
 ## The redesign sequence and the matrix
 
