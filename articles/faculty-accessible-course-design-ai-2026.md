@@ -15,7 +15,7 @@ technology: [generative-ai]
 methods: [mixed-methods-research]
 ---
 
-> **Synthesis:** A [[mixed-methods-research|mixed-methods]] study at one Ontario university asked 69 professors about accessibility and [[universal-design-for-learning]] at a moment when accommodation demand had outgrown the services designed to meet it: university enrolments in the province rose 17% between 2013 and 2022 while registrations with accessibility services rose 126%. Most respondents knew the vocabulary and believed they already designed accessible courses, but 46% said the institution does not provide sufficient resources, and the [[qualitative-research|qualitative]] themes include a novel complaint — that [[generative-ai]] is undoing assessment options faculty had relied on for [[accessibility]].
+> **Synthesis:** A [[mixed-methods-research|mixed-methods]] study at one Ontario university asked 69 professors about accessibility and [[universal-design-for-learning]] at a moment when accommodation demand had outgrown the services designed to meet it: university enrollments in the province rose 17% between 2013 and 2022 while registrations with accessibility services rose 126%. Most respondents knew the vocabulary and believed they already designed accessible courses, but 46% said the institution does not provide sufficient resources, and the [[qualitative-research|qualitative]] themes include a novel complaint — that [[generative-ai]] is undoing assessment options faculty had relied on for [[accessibility]].
 
 ## Key Findings
 1. **Awareness was high, implementation uneven.** 77% of 69 respondents were aware of UDL while 21% were unaware, and of 20 commonly used accessibility techniques, four were unfamiliar to more than 20% of respondents.
