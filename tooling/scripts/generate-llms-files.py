@@ -182,22 +182,24 @@ def build_llms_full(articles, concepts, faqs):
         lines.append("")
     return "\n".join(lines) + "\n"
 
-def build_llms_concepts(concepts):
-    """Concept pages only, in full.
+def build_llms_concepts(concepts, faqs):
+    """Concept and FAQ pages, in full.
 
     `llms-full.txt` carries every article, concept and FAQ and has grown past 15 MB,
     which several chat products refuse to accept as an attachment or paste. The
-    concept pages are the part worth handing a general assistant: they are the
-    knowledge base's synthesis rather than one paper's findings, they carry the
-    wikilinks that let an assistant follow a thread, and they are roughly a quarter
+    concept and FAQ pages are the part worth handing a general assistant: the
+    concepts are the knowledge base's synthesis rather than one paper's findings,
+    the FAQs are the questions those syntheses answer, both carry the wikilinks
+    that let an assistant follow a thread, and together they are roughly a quarter
     of the full text. Articles stay out on purpose — a reader who wants a specific
     study can point the assistant at that page's URL.
     """
     lines = []
-    lines.append("# AI in Education Knowledge Base — Concepts")
-    lines.append(f"> Full text of {len(concepts)} concept pages from the AI in Education Knowledge Base: "
-                 "the syntheses of what the research shows, rather than individual studies. "
-                 "Small enough to attach to a chat that will not take the complete file.")
+    lines.append("# AI in Education Knowledge Base — Concepts and FAQs")
+    lines.append(f"> Full text of {len(concepts)} concept pages and {len(faqs)} FAQ pages from the AI in "
+                 "Education Knowledge Base: the syntheses of what the research shows, and the "
+                 "questions those syntheses answer. Small enough to attach to a chat that will not "
+                 "take the complete file.")
     lines.append("")
     lines.append("Each page below is linked at its address on the site, so an assistant that can browse "
                  "may prefer to follow the link; the text is included so an assistant that cannot browse "
@@ -213,6 +215,15 @@ def build_llms_concepts(concepts):
         lines.append("")
         lines.append("---")
         lines.append("")
+    lines.append("# FAQs")
+    lines.append("")
+    for f in faqs:
+        lines.append(f"## [{f['title']}]({f['url']})")
+        lines.append("")
+        lines.append(f['body'])
+        lines.append("")
+        lines.append("---")
+        lines.append("")
     return "\n".join(lines) + "\n"
 
 
@@ -225,17 +236,18 @@ def main():
     with open(os.path.join(OUT, 'llms-full.txt'), 'w', encoding='utf-8') as fh:
         fh.write(build_llms_full(articles, concepts, faqs))
     with open(os.path.join(OUT, 'llms-concepts.txt'), 'w', encoding='utf-8') as fh:
-        fh.write(build_llms_concepts(concepts))
+        fh.write(build_llms_concepts(concepts, faqs))
 
     print(f"Articles: {len(articles)}, Concepts: {len(concepts)}, FAQs: {len(faqs)}")
     print(f"llms.txt: {os.path.getsize(os.path.join(OUT, 'llms.txt'))} bytes")
     print(f"llms-full.txt: {os.path.getsize(os.path.join(OUT, 'llms-full.txt'))} bytes")
     concepts_bytes = os.path.getsize(os.path.join(OUT, 'llms-concepts.txt'))
-    print(f"llms-concepts.txt: {concepts_bytes} bytes ({concepts_bytes / 1024 / 1024:.1f} MB)")
+    print(f"llms-concepts.txt: {concepts_bytes} bytes ({concepts_bytes / 1024 / 1024:.1f} MB, "
+          f"{len(concepts)} concepts + {len(faqs)} FAQs)")
     # This file exists to stay under chat attachment limits; say so if it stops doing that.
     if concepts_bytes > 9_500_000:
         print(f"WARNING: llms-concepts.txt is {concepts_bytes / 1024 / 1024:.1f} MB, over the 10 MB "
-              "attachment limit it exists to stay under — trim the concept bodies or split the file.")
+              "attachment limit it exists to stay under — trim the concept or FAQ bodies, or split the file.")
 
 if __name__ == '__main__':
     main()

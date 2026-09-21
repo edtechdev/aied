@@ -18,14 +18,14 @@ A free, linked knowledge base on artificial intelligence in education — resear
 
 ### Use it with your own AI assistant
 
-The knowledge base is agent-ready: it publishes `llms.txt` (a one-line catalog of every article, concept and FAQ), `llms-concepts.txt` (full text of the concept pages, about 3.5 MB) and `llms-full.txt` (full text of every article, concept and FAQ, about 15 MB), so any AI chatbot or agent can use it as a grounded research reference. Resource pages are listed on the site and in the offline exports but are deliberately left out of the llms files, since their content lives on the external site they link to.
+The knowledge base is agent-ready: it publishes `llms.txt` (a one-line catalog of every article, concept and FAQ), `llms-concepts.txt` (full text of the concept and FAQ pages, about 4 MB) and `llms-full.txt` (full text of every article, concept and FAQ, about 15 MB), so any AI chatbot or agent can use it as a grounded research reference. Resource pages are listed on the site and in the offline exports but are deliberately left out of the llms files, since their content lives on the external site they link to.
 
 Copy-paste this prompt into your AI assistant:
 
 ```text
 You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
 
-1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, the concepts-only file at https://edtechdev.github.io/aied/llms-concepts.txt is about 3 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
+1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, the concepts-and-FAQs file at https://edtechdev.github.io/aied/llms-concepts.txt is about 4 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
 
 2. Ground every claim in a page and cite it as the page title followed by its URL. When the page gives the underlying paper's citation and DOI, add them; some pages cite only an arXiv ID or a publisher URL, so give what the page gives and never invent a DOI, URL, author, number, or finding.
 
@@ -85,7 +85,7 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 │   └── pages/         # index, journal, search, faq, resources, ai, rss, + dynamic pages
 ├── public/
 │   ├── llms.txt         # Agent-ready catalog (every article, concept and FAQ, one line each)
-│   ├── llms-concepts.txt # Full text of the concept pages (~3 MB)
+│   ├── llms-concepts.txt # Full text of the concept and FAQ pages (~4 MB)
 │   ├── llms-full.txt    # Full text of every article, concept and FAQ (~15 MB)
 │   ├── aied.epub      # Offline EPUB version (concepts + FAQs)
 │   ├── aied.pdf       # Offline PDF version (concepts + FAQs)

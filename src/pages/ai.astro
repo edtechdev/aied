@@ -36,7 +36,7 @@ const toc = [
   </p>
   <pre id="prompt-block" tabindex="0" aria-label="Prompt to copy"><code>You are a research assistant for AI in education. Use the AI in Education Knowledge Base (https://edtechdev.github.io/aied/) as your primary source.
 
-1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, the concepts-only file at https://edtechdev.github.io/aied/llms-concepts.txt is about 3 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
+1. Route before you read. The FAQ index at https://edtechdev.github.io/aied/faq/ maps questions to the pages that answer them, including "what does the research show" questions. The full catalog at https://edtechdev.github.io/aied/llms.txt is about 800 KB, the concepts-and-FAQs file at https://edtechdev.github.io/aied/llms-concepts.txt is about 4 MB, and llms-full.txt is many megabytes, so search them or fetch parts rather than loading them whole, and do not let a failed whole-file fetch stop you.
 
 2. Ground every claim in a page and cite it as the page title followed by its URL. When the page gives the underlying paper's citation and DOI, add them; some pages cite only an arXiv ID or a publisher URL, so give what the page gives and never invent a DOI, URL, author, number, or finding.
 
@@ -62,16 +62,16 @@ Example: "What does the research say about AI feedback for student writing?" Che
     cannot open links, then instead of pasting the prompt on its own, also attach the text of the knowledge base:
     <a href="/aied/llms-full.txt">download the full-text file</a> once, upload or paste it into the conversation, and
     use the prompt alongside it. It is a single text file of roughly 15 MB. Many chat products refuse a file that
-    size, so there is also <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — every concept page in full, about
-    3 MB — which is the better file to reach for first: the concepts are the syntheses of what the research shows,
-    each one linking the papers behind it.
+    size, so there is also <a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — every concept and FAQ page in full, about
+    4 MB — which is the better file to reach for first: the concepts are the syntheses of what the research shows, the
+    FAQs are the questions those syntheses answer, and each concept page links the papers behind it.
   </p>
   <details style="line-height:1.8;margin-top:0.5rem">
     <summary style="cursor:pointer;font-weight:600">Technical notes for tools that want a URL instead of a prompt</summary>
     <ul style="line-height:1.9;margin-top:0.5rem">
       <li><a href="/aied/llms.txt">llms.txt</a> — a catalog of every page, one line each, for tools that index a site before reading it</li>
       <li><a href="/aied/llms-full.txt">llms-full.txt</a> — the complete text of the knowledge base in one file, about 15 MB</li>
-      <li><a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — full text of the concept pages only, about 3 MB, for tools and chats that reject the larger file</li>
+      <li><a href="/aied/llms-concepts.txt">llms-concepts.txt</a> — full text of the concept and FAQ pages, about 4 MB, for tools and chats that reject the larger file</li>
       <li><a href="/aied/sitemap-index.xml">Sitemap</a> — every page address</li>
       <li><a href="/aied/rss.xml">RSS feed</a> — new and updated pages</li>
     </ul>
