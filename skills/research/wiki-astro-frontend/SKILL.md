@@ -16,7 +16,7 @@ category: research
 > script.** Commands: `python3 tooling/scripts/gen-concept-artifacts.py`
 > (regenerate), `python3 tooling/scripts/check_concepts.py` (validate: missing
 > pages, title drift, alias claimed twice, stale views), `python3
-> tooling/scripts/run-gates.py` (all HARD GATES). Pipeline settings (paths, scan
+> tooling/scripts/run-gates.py` (all HARD GATES — permission-gated: propose the run and wait for a yes). Pipeline settings (paths, scan
 > sources, journal feeds, agent tool mapping) live in **`wiki.config.yaml`** —
 > load it via `tooling/scripts/wiki_config.py` rather than hardcoding a path,
 > journal or tool name. Historical notes below that reference
