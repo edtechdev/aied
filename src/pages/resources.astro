@@ -29,9 +29,16 @@ const groups = GROUP_ORDER.map((type) => ({
     .filter((r) => (r.data.resource_type || [])[0] === type)
     .sort((a, b) => a.data.title.localeCompare(b.data.title)),
 })).filter((g) => g.items.length > 0);
+
+// One on-this-page TOC entry per tool type, so the right rail lists the kinds of
+// thing on the page (Software, AI Tutor, ...) and the sticky aside can jump to
+// them. The id goes on the group's <h2>, which is what BaseLayout's
+// scroll-margin-top rule and the TOC's scrollspy expect.
+const anchor = (s: string) => s.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const toc = groups.map((g) => ({ text: titleCase(g.type), slug: anchor(g.type), depth: 2 }));
 ---
 
-<BaseLayout title="Resources">
+<BaseLayout title="Resources" toc={toc}>
   <h1><PageTypeIcon kind="resource" size={20} />Free Tools and Resources</h1>
 
   <div style="line-height:1.7;color:var(--color);margin-bottom:1.5rem;">
@@ -59,65 +66,28 @@ const groups = GROUP_ORDER.map((type) => ({
 
   {groups.map((group) => (
     <section style="margin-bottom:2rem;">
-      <h2 style="font-size:1.15rem;">{titleCase(group.type)}</h2>
-      <div class="resource-list">
+      <h2 id={anchor(group.type)} style="font-size:1.15rem;">{titleCase(group.type)}</h2>
+      <ul class="connected-list">
         {group.items.map((r) => {
           const href = `/aied/resources/${r.id.replace('.md', '')}/`;
-          const facts = [
-            r.data.author,
-            ...(r.data.access || []).map(titleCase),
-            ...(r.data.level || []).map(titleCase),
-          ].filter(Boolean).join(' · ');
           return (
-            <a href={href} class="resource-item">
-              <span class="resource-item-title">{r.data.title}</span>
-              <span class="resource-item-summary">{r.data.summary}</span>
-              <span class="resource-item-facts">{facts}</span>
-            </a>
+            <li>
+              <a href={href}><PageTypeIcon kind="resource" />{r.data.title}</a>
+              {r.data.summary && <div class="connected-summary">{r.data.summary}</div>}
+            </li>
           );
         })}
-      </div>
+      </ul>
     </section>
   ))}
 </BaseLayout>
 
 <style>
-  .resource-list {
-    display: flex;
-    flex-direction: column;
-    gap: 0.6rem;
-    margin-top: 0.75rem;
-  }
-  .resource-item {
-    display: block;
-    text-decoration: none;
-    color: inherit;
-    padding: 0.75rem 1rem;
-    border-radius: 8px;
-    border: 1px solid var(--card-border-color);
-    background: color-mix(in srgb, var(--primary) 4%, transparent);
-    transition: background 0.15s, border-color 0.15s;
-  }
-  .resource-item:hover {
-    background: color-mix(in srgb, var(--primary) 12%, transparent);
-    border-color: var(--primary);
-  }
-  .resource-item-title {
-    display: block;
-    font-weight: 600;
-    color: var(--primary);
-    font-size: 1.05rem;
-    line-height: 1.5;
-  }
-  .resource-item-summary {
-    display: block;
-    margin-top: 0.2rem;
-    line-height: 1.6;
-  }
-  .resource-item-facts {
-    display: block;
-    margin-top: 0.35rem;
-    font-size: 0.85rem;
-    color: var(--muted-color);
+  /* Each entry reuses the foot-of-page connected-list look (page-type icon, title,
+     summary in muted smaller text) instead of the old bordered card, which drops
+     the per-item metadata line and most of the vertical space it took. The list
+     styling itself is global, in BaseLayout. */
+  .connected-list {
+    margin-top: 0.5rem;
   }
 </style>
