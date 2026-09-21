@@ -14,6 +14,7 @@ const LABELS_MAP: Record<string, string> = Object.fromEntries(
   FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
 );
 const filterBar = [
+  { filter: 'page_type', label: 'Type' },
   { filter: 'discipline', label: 'Discipline' },
   { filter: 'level', label: 'Level' },
   { filter: 'audience', label: 'Intended audience' },
@@ -21,10 +22,6 @@ const filterBar = [
   ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: LABELS_MAP[field] || field })),
   { filter: 'page_kind', label: 'Page kind' },
 ];
-// `page_type` is NOT in the dropdown bar: it is rendered as toggle pills (see
-// .type-pills below), because a popup menu for the page types overflowed the
-// viewport on phones; pills/toggles were requested instead.
-const TYPE_FILTER = 'page_type';
 const concepts = await getCollection('concepts');
 const facetLabels: Record<string, string> = {};
 for (const c of concepts) {
@@ -42,18 +39,6 @@ for (const c of concepts) {
     <pagefind-config bundle-path="/aied/pagefind/" faceted></pagefind-config>
     <div class="search-controls">
       <pagefind-input placeholder="Search articles, concepts, and FAQs..."></pagefind-input>
-    </div>
-    <div class="type-filter">
-      <span class="type-filter-label" id="type-filter-label">Type</span>
-      <div
-        class="type-pills"
-        role="group"
-        aria-labelledby="type-filter-label"
-        data-filter={TYPE_FILTER}
-      >
-        {/* Buttons are rendered by the script below, which reads the facet's
-            live values and counts from Pagefind. */}
-      </div>
     </div>
     <div class="filter-bar">
       {filterBar.map((f) => (
@@ -129,87 +114,54 @@ for (const c of concepts) {
     gap: 0.5rem;
     margin-bottom: 1.25rem;
   }
-  .type-filter {
-    display: flex;
-    align-items: baseline;
-    flex-wrap: wrap;
-    gap: 0.5rem 0.75rem;
-    margin-bottom: 0.75rem;
-  }
-  .type-filter-label {
-    font-size: 0.9rem;
-    font-weight: 600;
-    color: var(--muted-color);
-  }
-  .type-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-  }
-  .type-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.4rem 0.9rem;
-    font-size: 0.9rem;
-    font-family: inherit;
-    line-height: 1.4;
-    border: 2px solid var(--card-border-color);
-    border-radius: 999px;
-    background: var(--card-background-color);
-    color: var(--color);
-    cursor: pointer;
-    white-space: nowrap;
-  }
-  .type-pill:hover {
-    border-color: var(--primary);
-  }
-  .type-pill[aria-pressed='true'] {
-    border-color: var(--primary);
-    background: color-mix(in srgb, var(--primary) 16%, transparent);
-    font-weight: 600;
-  }
-  .type-pill:focus-visible {
-    outline: 2px solid var(--primary);
-    outline-offset: 2px;
-  }
-  .type-pill-count {
-    font-size: 0.8rem;
-    color: var(--muted-color);
-  }
-  .type-pill[aria-pressed='true'] .type-pill-count {
-    color: inherit;
-  }
   pagefind-filter-dropdown {
     flex: 0 0 auto;
   }
-  pagefind-filter-dropdown::part(trigger) {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.5rem 0.9rem;
-    font-size: 0.9rem;
-    border: 2px solid var(--card-border-color);
-    border-radius: 6px;
-    background: var(--card-background-color);
-    color: var(--color);
-    cursor: pointer;
-    white-space: nowrap;
+  /* PageFind's component UI has NO shadow DOM (there is no `attachShadow`
+     anywhere in pagefind-component-ui.js), so every `::part(...)` rule that used
+     to live here matched nothing and none of it ever applied. The styles below
+     target PageFind's real light-DOM classes instead. Two consequences:
+       - they must be wrapped in `:global()`, because Astro's scoping would
+         otherwise append this component's `[data-astro-cid-...]` attribute to
+         selectors for elements PageFind creates at runtime, which never carry it;
+       - PageFind styles these same classes through `:is(*, #\#):is(*, #\#):is(*, #\#)`
+         (ID-level specificity), so overriding a property PageFind sets needs
+         `!important`. PageFind sets trigger height/padding/font-size/border,
+         so those carry it; things it leaves alone (colour, radius on the menu)
+         do not need it. */
+  :global(.pf-dropdown-trigger) {
+    gap: 0.4rem !important;
+    height: auto !important;
+    padding: 0.5rem 0.9rem !important;
+    font-size: 0.9rem !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
+    background: var(--card-background-color) !important;
+    color: var(--color) !important;
   }
-  pagefind-filter-dropdown::part(trigger):hover {
-    border-color: var(--primary);
+  :global(.pf-dropdown-trigger:hover),
+  :global(.pf-dropdown-trigger.open) {
+    border-color: var(--primary) !important;
   }
-  pagefind-filter-dropdown::part(menu) {
-    background: var(--card-background-color);
-    border: 2px solid var(--card-border-color);
-    border-radius: 6px;
+  :global(.pf-dropdown-selected-badge) {
+    color: var(--color) !important;
+    background: color-mix(in srgb, var(--primary) 18%, transparent) !important;
   }
-  pagefind-filter-dropdown::part(option) {
-    font-size: 0.9rem;
-    color: var(--color);
+  :global(.pf-dropdown-menu) {
+    background: var(--card-background-color) !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
   }
-  pagefind-filter-dropdown::part(option):hover {
-    background: color-mix(in srgb, var(--primary) 10%, transparent);
+  :global(.pf-dropdown-option) {
+    font-size: 0.9rem !important;
+    color: var(--color) !important;
+  }
+  :global(.pf-dropdown-option:hover),
+  :global(.pf-dropdown-option-focused) {
+    background: color-mix(in srgb, var(--primary) 10%, transparent) !important;
+  }
+  :global(.pf-dropdown-option-count) {
+    color: var(--muted-color) !important;
   }
   /* Keep the dropdown popup inside the viewport on small screens. PageFind
      styles the menu with high-specificity selectors (`:is(*, #\#):is(*, #\#):is(*, #\#)`),
@@ -233,154 +185,63 @@ for (const c of concepts) {
     }
   }
 
-  pagefind-input::part(input) {
-    width: 100%;
-    padding: 0.75rem 1rem;
-    font-size: 1.05rem;
-    border: 2px solid var(--card-border-color);
-    border-radius: 6px;
-    background: var(--card-background-color);
+  /* The search box. PageFind sets height/font-size/border and pads the inline
+     sides (32px start for the magnifier icon, 36px end for the clear button), so
+     we override the rest and leave that inline padding alone -- replacing the
+     whole `padding` shorthand would slide the text under the icon. */
+  :global(.pf-input) {
+    height: auto !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+    font-size: 1.05rem !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
+    background: var(--card-background-color) !important;
   }
-  pagefind-input::part(input):focus {
-    border-color: var(--primary);
-    outline: none;
+  :global(.pf-input:focus-visible) {
+    border-color: var(--primary) !important;
+    outline: none !important;
   }
 
-  pagefind-summary::part(summary) {
-    margin-bottom: 0.75rem;
-    font-size: 0.9rem;
-    color: var(--muted-color);
+  :global(.pf-summary) {
+    margin-bottom: 0.75rem !important;
+    font-size: 0.9rem !important;
+    color: var(--muted-color) !important;
   }
 
-  pagefind-results::part(result) {
-    padding: 1rem 0;
-    border-bottom: 1px solid var(--card-border-color);
+  :global(.pf-result) {
+    padding: 1rem 0 !important;
+    border-bottom: 1px solid var(--card-border-color) !important;
   }
-  pagefind-results::part(result-title) {
-    font-size: 1.1rem;
-    font-weight: 600;
-    color: var(--primary);
+  :global(.pf-result-link) {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: var(--primary) !important;
     text-decoration: none;
   }
-  pagefind-results::part(result-title):hover {
+  :global(.pf-result-link:hover) {
     text-decoration: underline;
   }
-  pagefind-results::part(result-excerpt) {
-    font-size: 0.9rem;
-    line-height: 1.5;
-    color: var(--muted-color);
-    margin-top: 0.25rem;
+  :global(.pf-result-excerpt) {
+    margin-top: 0.25rem !important;
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+    color: var(--muted-color) !important;
+    /* PageFind ships `white-space: nowrap` + ellipsis, i.e. one truncated line.
+       Let excerpts wrap to a readable block instead. */
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
   }
-  pagefind-results::part(result-filters) {
-    margin-top: 0.5rem;
-    display: flex;
-    gap: 0.3rem;
-    flex-wrap: wrap;
+  :global(.pf-heading-chips) {
+    margin-top: 0.5rem !important;
+    display: flex !important;
+    gap: 0.3rem !important;
+    flex-wrap: wrap !important;
+    list-style: none !important;
+    padding: 0 !important;
   }
 </style>
-
-<script is:inline>
-  // Type filter as toggle pills. Pagefind's component UI ships no pill/checkbox
-  // standalone component (only the popup dropdown, and a pane that renders EVERY
-  // facet at once), so the page_type facet is driven through the instance API:
-  // `inst.availableFilters` gives live values + counts, `inst.triggerFilters()`
-  // re-runs the current search with a new filter set. Any search routed through
-  // the instance (including the URL restore in the script below) fires the
-  // "search" event, which is what keeps the pill states in sync.
-  (function () {
-    const API = document.querySelector('.type-pills');
-    if (!API) return;
-    const FILTER = API.getAttribute('data-filter') || 'page_type';
-    // Used only until Pagefind's index reports the facet's real values.
-    const FALLBACK = ['article', 'concept', 'faq'];
-    const label = (v) => v.replace(/[-_]/g, ' ').replace(/^\w/, (c) => c.toUpperCase());
-
-    let inst = null;
-    let counts = null;
-    let values = [];
-
-    const currentFilters = () => {
-      const f = (inst && inst.searchFilters) || {};
-      const out = {};
-      for (const [k, v] of Object.entries(f)) {
-        const list = Array.isArray(v) ? v.slice() : [];
-        if (list.length) out[k] = list;
-      }
-      return out;
-    };
-
-    const selected = () => new Set(currentFilters()[FILTER] || []);
-
-    const render = () => {
-      const on = selected();
-      API.textContent = '';
-      for (const v of values) {
-        const btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'type-pill';
-        btn.dataset.value = v;
-        btn.setAttribute('aria-pressed', on.has(v) ? 'true' : 'false');
-        btn.textContent = label(v);
-        if (counts && typeof counts[v] === 'number') {
-          const c = document.createElement('span');
-          c.className = 'type-pill-count';
-          c.textContent = String(counts[v]);
-          btn.appendChild(c);
-        }
-        btn.addEventListener('click', () => {
-          const next = currentFilters();
-          const set = new Set(next[FILTER] || []);
-          if (set.has(v)) set.delete(v);
-          else set.add(v);
-          if (set.size) next[FILTER] = [...set];
-          else delete next[FILTER];
-          if (inst && typeof inst.triggerFilters === 'function') inst.triggerFilters(next);
-          render();
-        });
-        API.appendChild(btn);
-      }
-    };
-
-    const readFacet = () => {
-      const avail = (inst && inst.availableFilters) || null;
-      const facet = avail && avail[FILTER];
-      if (facet && Object.keys(facet).length) {
-        values = Object.keys(facet).sort();
-        counts = facet;
-        return true;
-      }
-      return false;
-    };
-
-    let settled = 0;
-    const attempt = () => {
-      const C = window.PagefindComponents;
-      if (C && C.getInstanceManager) {
-        try { inst = C.getInstanceManager().getInstance('default'); } catch { inst = null; }
-      }
-      if (!inst) { setTimeout(attempt, 200); return; }
-
-      if (!inst.__typePillsHooked) {
-        inst.__typePillsHooked = true;
-        inst.on('search', () => { readFacet(); render(); });
-        inst.on('filters', () => { readFacet(); render(); });
-      }
-
-      const got = readFacet();
-      if (!got && !values.length) values = FALLBACK.slice();
-      render();
-
-      // The facet values arrive with the worker/index load, after ~4-6s on a
-      // cold load. Re-read a few times so the pills pick up real counts, then
-      // stop polling.
-      settled += 1;
-      if (settled < 40 && !got) setTimeout(attempt, 300);
-      else if (settled < 40) setTimeout(attempt, 500);
-    };
-
-    setTimeout(attempt, 300);
-  })();
-</script>
 
 <script is:inline>
   // Sync the search term AND selected filters to the URL so searches can be
