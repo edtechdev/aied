@@ -76,7 +76,6 @@ The authors interpret the large effects through the lens of focus on immediate, 
 - [[generative-ai]]
 - [[professional-training]]
 - [[teacher-ai-competency]]
-
 - [[tpack]]
 ## Connected Articles
 

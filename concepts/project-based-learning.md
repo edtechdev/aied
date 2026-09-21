@@ -60,7 +60,6 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-
 - [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
@@ -71,9 +70,7 @@ PBL connects to [[active-learning]], [[experiential-learning]], [[collaborative-
 - [[academic-league-of-ai-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: project-based tutoring data from Polygence
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-
 - [[tsingidou-ct-robotics-kindergarten-2026]] — PBL is a dominant CT learning strategy
-
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[project-based-digital-storytelling-art-design-2026]] — Project-based digital storytelling framework for art/design education in the AI era
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: AI agents and robotics within the Project Approach in early childhood (Yang, Li & Lee 2025)

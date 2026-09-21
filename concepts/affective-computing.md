@@ -46,7 +46,6 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - **Empathy engineered through prompt design, not sensing.** Affective support does not require affect detection: [[wang-teacher-student-centered-agents-physics-2026|Wang et al. (2026)]] obtained a large difference in *empathy perception* (21.27 vs. 18.24; r = 0.53) between two LLM [[physics-education|physics]] agents that differed only in prompt-specified role and conversational moves — perspective-taking openings ("You have this question because…"), [[misconceptions|misconception]] diagnosis, and a comprehension check at the end of each round — while model, platform, and temperature were held constant. This is a useful counterweight to sensor-driven affective computing: the perceived emotional quality of a [[pedagogical-agent]] can be designed into the interaction script, while also reminding designers that perceived empathy is a self-report construct rather than evidence of genuine affective understanding ([[student-ai-interaction]]).
 ## Connected Concepts
 - [[anxiety-and-stress]]
-
 - [[cognitive-offloading]]
 - [[student-experience]]
 - [[k-12]]
@@ -62,7 +61,6 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[social-emotional-learning]] — Social-Emotional Learning
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Empathy perception from prompt-designed agent roles in physics learning (Wang et al. 2026)
-
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
@@ -76,6 +74,5 @@ Affective computing sits at the intersection of [[affective-tutoring]] (its peda
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning

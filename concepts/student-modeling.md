@@ -101,7 +101,6 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[ai-guided-learning-audiovideo-2026]]
 - [[multimodal-item-parameter-estimation-2026]]
-
 - [[at-risk-students-ml-prediction]]
 - [[correct-answer-trap-misconceptions]]
 - [[cross-subject-validity-delayed-start]]
@@ -123,11 +122,9 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for multi-turn evaluation
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping

@@ -98,7 +98,6 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
 - [[brcic-effortless-trap-productive-struggle-2026]] — Six-move model of learning and AI placement (Brcic & Frljic 2026)
-
 - [[agentic-ai-pedagogical-best-practice-2026]]
 - [[finkelstein-principled-ai-education-2025]]
 - [[structured-llm-feedback-programming]]
@@ -110,7 +109,6 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[sequenced-ai-feedback-learning]]
 - [[critical-thinking-genai-scaffolding]]
 - [[epistemic-emotions-collaborative-problem-solving]]
-
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific AI preserves productive struggle vs. general-purpose chatbots
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Productive friction built into GenAI tools supports learning
@@ -120,6 +118,5 @@ TutorMoments operationalizes desirable-difficulty principles as evaluation crite
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
-
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[rachatasumrit-example-problem-ratio-2026]]

@@ -82,7 +82,6 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[colbran-student-perspectives-genai-chatbots-2026]] — Student perspectives on GenAI chatbots (mixed methods)
 - [[saihi-ahmed-genai-adoption-personas-higher-ed-2026]] — Adoption personas for AI chatbots
-
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
 - [[conversational-ai-tutors-framework]] — Conversational AI tutors framework
 - [[measuring-llm-tutors-teach-vs-solve]] — Measuring whether LLM tutors teach or solve
@@ -95,7 +94,6 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
-
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — The substitution-to-scaffolding AI harm cycle
 - [[lee-wu-gender-motivation-genai-achievement-2026]] — Gender and motivation in GenAI achievement
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)

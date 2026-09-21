@@ -41,7 +41,6 @@ The framework provides a scalable blueprint for [[academic-integrity|preserving 
 - [[cs-education]]
 - [[open-source]]
 - [[automated-assessment]]
-
 - [[stem-education]]
 - [[academic-integrity]]
 - [[formative-assessment]]

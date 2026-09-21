@@ -66,7 +66,6 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-
 - [[business-education]]
 - [[cs-education]]
 - [[math-education]]
@@ -97,7 +96,6 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, tutor, or crutch: grounded theory of AI-assisted programming
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
-
 - [[becker-chatgpt-typology-physics-2026]]
 - [[ai-powered-personalized-learning-elementary-fractions-2026]]
 - [[concept-catalyst-engineering-scaffolds]]
@@ -106,9 +104,7 @@ A concentrated batch of 2026 *International Journal of STEM Education* studies s
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[avraamidou-ai-colonization-science-education]]
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-
 - [[astor-computational-thinking-meta-review-2026]] — CT as a 21st-century skill across STEM
-
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)
 - [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
 - [[luo-tahir-chatgpt-steam-lesson-planning-2026]]

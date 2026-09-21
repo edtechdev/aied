@@ -60,7 +60,6 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 
 ## Connected Concepts
 - [[anxiety-and-stress]]
-
 - [[academic-integrity]]
 - [[summative-assessment]]
 - [[assessment]]
@@ -81,7 +80,6 @@ Remote proctoring exists on a spectrum. **Online proctoring** typically involves
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Comprehensive review of academic dishonesty in automated proctoring
 - [[ssaho-ai-academic-integrity-review-2025]] — AI and academic integrity: systematic review
-
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety
 - [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Under surveillance: mapping remote proctoring practices in nursing student assessment

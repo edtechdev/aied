@@ -96,7 +96,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry (grounded in constructivist/Deweyan pragmatism)
 - [[cognitive-psychology]] — Cognitivism, the third classical pole of learning theory
-
 - [[active-learning]]
 - [[learning-by-teaching]]
 - [[scaffolding]]
@@ -125,7 +124,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory and measurement program for learning-by-construction with GenAI
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-
 - [[ai-vocational-education-training-review]] — Constructivism espoused but behaviorist AI dominates in VET; the "Turing Trap"
 - [[generative-refusal-ai-tools-for-thought]] — AI tools that withhold generation to protect constructive thought
 - [[genai-mindtool-generative-learning]] — GenAI as a thinking tool supporting learner construction
@@ -149,8 +147,6 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

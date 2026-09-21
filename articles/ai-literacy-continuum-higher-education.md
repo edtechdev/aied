@@ -46,7 +46,6 @@ The five stages are explicitly intended as a diagnostic device, not just a descr
 
 ## Connected Concepts
 - [[reducing-ai-misuse]]
-
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[ethics]]

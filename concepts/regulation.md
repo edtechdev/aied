@@ -76,7 +76,6 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[dot-framework-survey-2026]] — Technology-adoption frameworks
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
 - [[generative-ai-reduced-study-time-math]] — Age gradient and proctoring findings inform AI policy
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over binding policy: internal AI rules across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Law school GenAI policy scored on five dimensions: prohibitive by default, instructor discretion, periodic review (Gutowski & Hurley 2025)

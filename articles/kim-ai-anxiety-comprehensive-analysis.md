@@ -43,7 +43,6 @@ This review positions AI Anxiety as a distinct psychological phenomenon — broa
 
 ## Connected Concepts
 - [[career-development-and-readiness]] — the fear of replacement / career dimension
-
 - [[anxiety-and-stress]]
 - [[generative-ai]]
 - [[ai-literacy]]

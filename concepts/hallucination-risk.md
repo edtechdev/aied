@@ -53,7 +53,6 @@ Hallucination in educational AI takes several forms documented in this knowledge
 - [[productive-failure]]
 ## Connected Articles
 - [[ivory-psychology-assessment-integrity-2026]] — Fabricated citations and self-contradicting outputs inside passable student work (Ivory et al. 2026)
-
 - [[llm-cognitive-diagnosis-handwritten-math]]
 - [[llm-fallacy-misattribution]]
 - [[yasir-llm-tutoring-agents-2026]]

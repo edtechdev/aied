@@ -157,7 +157,6 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[tact-pedagogically-adaptive-esl-tutoring]]- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
-
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]

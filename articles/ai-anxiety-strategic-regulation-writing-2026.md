@@ -42,7 +42,6 @@ discipline: [writing education]
 ## Connected Concepts
 
 - [[anxiety-and-stress]] — the productive-anxiety construct this study develops
-
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]

@@ -56,7 +56,6 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 ## Connected Articles
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[motibo-digital-storytelling-robots-motivation-2026]] — MotiBo
 - [[remind-robot-mediated-roleplay-antibullying-2026]] — REMind
@@ -71,5 +70,4 @@ Embodied learning connects to [[educational-robotics]], [[educational-robotics]]
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
-
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)

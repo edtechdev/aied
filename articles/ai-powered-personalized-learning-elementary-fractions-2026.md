@@ -33,7 +33,6 @@ Examines AI-powered personalized [[learning-gains|learning]] in elementary fract
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
-
 - [[math-education]]
 - [[adaptive-learning]]
 - [[personalized-learning]]

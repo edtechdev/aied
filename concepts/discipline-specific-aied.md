@@ -121,7 +121,6 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 ## Connected Articles
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — Systematic review of AI in interdisciplinary higher education (59 studies)
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
-
 - [[fowlin-operationalizing-learning-principles-ai]] — Operationalizing learning principles with AI in health-professions education
 - [[designing-ai-professional-development-itpack-2026]] — Intelligent-TPACK-based AI professional development
 - [[teaching-the-teachers-genai-tpk-review-2026]] — GenAI-specific TPK in teacher education
@@ -132,7 +131,6 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[ai-writing-support-stage-ownership-2026]] — Stage-based AI writing support and ownership
 - [[ai-engineering-education-balancing-act]] — The balancing act of AI in engineering education
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy and career adaptability in business education
-
 - [[jiang-genai-activity-theory-disciplines-2026]] — Activity theory: disciplinary differences in GenAI use and disclosure (560 students)
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing education: gains in knowledge and confidence, inconsistent effects on psychomotor skill
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — GenAI as scaffold or shortcut in postgraduate IT learning

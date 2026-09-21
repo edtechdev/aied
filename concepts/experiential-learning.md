@@ -62,7 +62,6 @@ Experiential learning connects to [[active-learning]], [[project-based-learning]
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
-
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — GenAI in Cybersecurity Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[edusim-llm-robotic-simulation-education-2026]] — EduSim-LLM

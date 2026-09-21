@@ -84,7 +84,6 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 
 ## Connected Concepts
 - [[anxiety-and-stress]]
-
 - [[ai-literacy]]
 - [[affective-computing]]
 - [[well-being]]
@@ -115,6 +114,5 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots and Collective Efficacy
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy: Affective Math Tutoring
 - [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)

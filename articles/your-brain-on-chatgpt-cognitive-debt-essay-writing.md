@@ -52,7 +52,6 @@ level: [higher ed]
 - [[student-engagement]] — the engagement gradient across tools
 - [[transfer-of-learning]] — whether gains persist without the tool
 - [[human-ai-collaboration]] — the human–AI cognitive relationship
-
 - [[cognitive-offloading]] — the mechanism by which LLM reliance reduces cognitive engagement
 - [[generative-ai]] — the ChatGPT tool under study
 - [[writing-education]] — the educational context (essay writing)

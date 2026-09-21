@@ -69,7 +69,6 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 ## Connected Articles
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-
 - [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — The teacher-student trust gap over control and agency in K-12 classroom AI
 - [[qu-wang-disclose-or-not-genai-2026]] — Disclosing AI use is driven by relational factors and comfort with instructors, not policy
 - [[genai-teacher-feedback-comparison]] — GenAI and teacher feedback serve different, complementary trust needs
@@ -88,7 +87,6 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[best-response-student-ai-dialog-2026]] — Trust in student-AI dialogue
 - [[ai-adaptation-gap-higher-education-2026]] — Perceived usefulness as the strongest predictor of AI trust in higher ed
 - [[bassett-ai-detectors-education-2026]] — Trust and distrust of AI detection systems
-
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms

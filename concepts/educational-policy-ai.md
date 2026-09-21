@@ -79,7 +79,6 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
-
 - [[regulation]]
 - [[governance]]
 - [[educational-development]]
@@ -111,7 +110,6 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[wright-transcription-not-generation-2026]] — Transcription is not generation: over-inclusive AI rules, format conversion and disability accommodation (Wright 2026)
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance for AI in higher education (scoping review)
 - [[institutional-ai-policy-health-informatics-2026]] — AI policy documents across all 48 accredited health informatics master's programs: mostly guidance, centered on academic integrity (Eldredge et al. 2026)
-
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
@@ -121,14 +119,12 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[genai-student-experiences-uk-he-survey-2026]]
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
-
 - [[genai-policies-higher-ed-computing]]
 - [[institutional-change-framework-ai]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
 - [[genai-higher-education-systematic-review-2026]]
-
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 - [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
@@ -136,14 +132,12 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-
 - [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

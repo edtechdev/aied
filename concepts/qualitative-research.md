@@ -84,7 +84,6 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 
 ## Connected Articles
 - [[chain-behind-claim-warrantability-2026]] — warrantability standard for AI-assisted qualitative analysis
-
 - [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch: a grounded theory of AI-assisted programming
 - [[trio-ethnography-llm-programming-education]] — A trio-ethnography of interpretation evolution in LLM-supported programming
 - [[absent-cognitive-baseline-2026]] — Theorizing a structural gap in AI-native students' self-assessment
@@ -101,5 +100,4 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed GenAI framework via case study
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
-
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners

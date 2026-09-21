@@ -52,7 +52,6 @@ The study operationalizes epistemic constructs that are normally hard to observe
 - [[cs-education]]
 - [[generative-ai]]
 - [[human-ai-collaboration]]
-
 - [[ai-literacy]]
 - [[student-experience]]
 - [[scaffolding]]

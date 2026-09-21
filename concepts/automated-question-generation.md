@@ -101,6 +101,5 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[zerkouk-comprehensive-review-its-2025]] — Comprehensive review of intelligent tutoring systems
 - [[socratic-tests-conversational-assessment]] — Socratic tests: conversational assessment
 - [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
-
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment

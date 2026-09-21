@@ -143,7 +143,6 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[self-regulated-learning]] — Regulating offloading decisions
 - [[trust-calibration]] — Knowing when to trust and when to question AI
 - [[retrieval-spacing-interleaving]] — the counter-practice to letting a model retrieve on the learner's behalf
-
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[ai-literacy]] — Knowing when to offload and recognizing reliance patterns
 - [[agency]] — Diminished when AI substitutes for the learner's cognition
@@ -184,7 +183,6 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education
 - [[cognitive-offloading-metacognitive-review-2026]] — Meta-cognitive insights into cognitive offloading (Guo & Ye 2026)
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive training facilitates optimal cognitive offloading (Ngai & Gilbert 2026)

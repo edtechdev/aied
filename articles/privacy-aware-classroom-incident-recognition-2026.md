@@ -36,7 +36,6 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 - [[benchmark]]
 - [[learning-analytics]]
 - [[simulation]]
-
 - [[privacy]]
 - [[k-12]]
 - [[multimodal]]

@@ -49,7 +49,6 @@ The study's context is secondary school teachers (largely in Chinese/Hong Kong a
 - [[k-12]]
 - [[motivation]]
 - [[self-determination-theory]]
-
 - [[tpack]]
 ## Connected Articles
 

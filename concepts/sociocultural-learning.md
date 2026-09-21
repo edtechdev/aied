@@ -69,7 +69,6 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 ## Connected Articles
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[youth-enter-chat-llm-student-talk-2026]] — When Youth Enter The Chat: Validation of LLM-Based Measures of Student Talk
-
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI tutoring
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education frameworks
@@ -78,5 +77,4 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity as network effect via Actor-Network Theory

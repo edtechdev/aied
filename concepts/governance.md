@@ -88,7 +88,6 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[ai-use-disclosure]] — AI use and disclosure statements
-
 - [[remote-proctoring]]
 - [[ethics]]
 - [[higher-ed]]

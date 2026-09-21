@@ -44,7 +44,6 @@ Physiological stress indicators — electrodermal activity, heart rate, and skin
 - [[educational-measurement]]
 - [[ai-ed-evaluation]]
 - [[well-being]]
-
 - [[affective-computing]]
 - [[learning-analytics]]
 - [[human-in-the-loop-ai]]

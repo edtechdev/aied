@@ -131,7 +131,6 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — GenAI-supported AI literacy tools
 - [[liu-emerging-tech-tefl-review-2026]] — AI-powered EFL tools
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)

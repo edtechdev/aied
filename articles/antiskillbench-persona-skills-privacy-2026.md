@@ -39,7 +39,6 @@ Persona skills distill personal interaction histories into portable and executab
 - [[benchmark]]
 - [[trust]]
 - [[generative-ai]]
-
 - [[privacy]]
 - [[agentic-ai]]
 - [[student-experience]]

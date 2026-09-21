@@ -119,7 +119,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[assessment-validity]] — validity of the inference from submitted work to learning
 - [[agentic-ai]] — autonomous systems that operate tools and platforms, including an LMS
 - [[community-of-inquiry]] — Community of Inquiry
-
 - [[remote-proctoring]]
 - [[pedagogy]]
 - [[learning-design]]
@@ -162,7 +161,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[genai-marketing-education-roles-2026]] — AI as tutor, teammate and tool: roles and their effects on presence
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: assessment design for online settings
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
-
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
@@ -184,7 +182,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in the Era of AI
 - [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
-
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[zhang-ml-student-progress-programming-2026]]
 - [[personalized-ai-generated-videos-preference-2026]] — Students prefer personalized AI-generated videos over non-personalized human-recorded ones (Tomlinson et al. 2026)

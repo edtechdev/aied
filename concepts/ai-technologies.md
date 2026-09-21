@@ -78,7 +78,6 @@ The technical strand is inseparable from the knowledge base's other themes:
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
-
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
 - [[educational-llm-alignment]] — Aligning LLMs for education

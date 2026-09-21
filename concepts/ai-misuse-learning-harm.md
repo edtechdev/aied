@@ -82,7 +82,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[scaffolding]]
 - [[generative-ai]]
 - [[student-experience]]
-
 - [[self-directed-learning]]
 - [[remote-proctoring]]
 - [[cognitive-offloading]]
@@ -113,7 +112,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
 - [[ai-dependency-self-efficacy-teacher-support-burnout-2026]] — AI dependency fully mediates the path from self-efficacy and teacher support to learning burnout (Huang et al. 2026)

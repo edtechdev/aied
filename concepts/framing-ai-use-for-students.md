@@ -107,5 +107,4 @@ Students are also framed by the wider media and public discourse around [[ai-edu
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — Instructors frame AI as critical/responsible use; employers frame it as productivity
 - [[ssaho-ai-academic-integrity-review-2025]] — Building a culture of academic integrity via clear expectations
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Human-first habits of participation in AI-mediated learning
-
 - [[caeai-ai-companions-learning-over-performance-2026]] — designing companions that protect effortful learning

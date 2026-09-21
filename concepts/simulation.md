@@ -54,7 +54,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
-
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive Virtual Patients for Psychotherapy Training
 - [[ai-enabled-serious-games]] — AI-Enabled Serious Games
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
@@ -68,7 +67,6 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[educasim-cs1-instructional-practice]] — EducaSim: simulated small-group section for teacher practice
-
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)

@@ -63,7 +63,6 @@ CoI remains theoretically valuable but its operationalizations need refinement: 
 
 ## Connected Concepts
 - [[community-of-inquiry]] — Community of Inquiry
-
 - [[generative-ai]]
 - [[llm]]
 - [[critical-thinking]]

@@ -65,7 +65,6 @@ These findings connect to broader [[self-regulated-learning]] theory and the [[m
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]
 - [[self-assessment]]
-
 - [[visualization]]
 ## Connected Articles
 

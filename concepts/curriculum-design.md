@@ -56,7 +56,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
-
 - [[business-education]]
 - [[learning-design]]
 - [[ai-literacy]]
@@ -89,7 +88,6 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
 - [[ai-generated-interactive-fiction-education-2026]]
-
 - [[reshaping-cs-education-genai]]
 - [[ase-26-agentic-software-engineering-curriculum]]
 - [[ai-assisted-se-curriculum-syllabus-analysis-2026]]
@@ -103,12 +101,10 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — AI Skills Framework: 26 assessable skills for curriculum mapping
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
 - [[caruana-pre-university-ai-education-slr-2026]] — Preparing learners and teachers for an AI-driven future: SLR of pre-university AI education (Caruana et al. 2026)
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
