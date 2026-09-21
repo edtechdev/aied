@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-21T04:56:34-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -26,6 +26,8 @@ connected_resources: [id-toolbox, lesson-md]
 ## Introduction
 
 Learning design bridges AI capabilities and effective pedagogy. Where [[curriculum-design]] addresses *what* to teach at the program level, learning design addresses *how* to teach it at the course and lesson level. The articles in this knowledge base explore both AI as a tool for learning designers and learning-design principles for building effective [[intelligent-tutoring|AI tutoring]] systems.
+
+What that design work involves in practice is itself an empirical question. [[tang-chatbots-learning-design-2026|Tang et al. (2026)]] coded 1,378 designer-chatbot turns from five novice learning designers working with a chatbot embedded in a design tool, and found the dialogue clustered on intended learning outcomes and pedagogical approach rather than content generation. Designers returned to outcomes repeatedly as an alignment check while turning curriculum components into concrete tasks, and the assistant's role shifted across phases, from clarifying terms to supporting task design to running a verification pass before a deadline. Design support, on this evidence, is less about producing material than about keeping design intent coherent.
 
 ### Key research themes
 
@@ -98,6 +100,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 ## Connected Articles
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
+- [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
 - [[zhou-constructive-alignment-genai-business-2026]]
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-communities-of-inquiry-2026]]

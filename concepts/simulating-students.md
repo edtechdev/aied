@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-21T04:56:31-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
@@ -22,6 +22,8 @@ confidence: high
 ## Introduction
 
 Simulated students are a [[research-methods-aied|methodological]] tool: agents that stand in for real learners so that tutoring systems, curricula, and instructional strategies can be evaluated and iterated without recruiting cohorts of human students. [[llm|Large language models]] have made this paradigm far more scalable and linguistically realistic than the rule-based simulated learners that preceded them, while also introducing new validity challenges.
+
+AI-mediated approximations sharpen the question the page cares about: whom the simulation represents, and what the teacher is meant to notice. In mathematics teacher education, [[bondurant-shaughnessy-ai-pedagogies-practice-2026|text-based simulated student work and chatbot partners]] used in rehearsal extend the approximations of practice that already organize professional training. One chatbot study produced four distinct questioning profiles, yet pre-service teachers' self-assessments did not align with the interaction quality observers recorded, which makes automated post-rehearsal feedback that increased probing and exploring questions a useful but insufficient guide. The simulator, the candidate and the feedback all have to be read together.
 
 ### Why simulate students
 
@@ -107,6 +109,7 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[inside-llm-student-simulator-reasoning-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: fine-tuned authentic student model for synthetic dialogues
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section for teacher practice
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 

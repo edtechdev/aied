@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-20
+Last updated: 2026-09-21
 
-Articles: 1335 | Concepts: 213 | Resources: 12 | FAQs: 32
+Articles: 1338 | Concepts: 213 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
