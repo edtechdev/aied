@@ -75,7 +75,6 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[arts-design-and-media-education]]
 ## Connected Articles
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
 - [[adhd-video-segmentation-computing-education]] — AI-segmented videos with fixed pauses
@@ -86,7 +85,6 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[pepper-robot-sign-language-lis-2025]] — Pepper robot supporting sign language
 - [[genai-minoritized-knowledges-disability]] — Critical perspective on AI and disability-centered knowledge
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

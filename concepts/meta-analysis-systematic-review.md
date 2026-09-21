@@ -134,7 +134,6 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[espino-ai-business-education-review-2026]]
 - [[khalifeh-redefining-personalized-learning-ai-2026]] — Redefining personalized learning: systematic review
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review
-
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[ai-vocational-education-training-review]] — First systematic review of AI in vocational education and training
@@ -151,10 +150,8 @@ Within the knowledge base's methodological landscape, meta-analysis and systemat
 - [[human-autonomy-agency-hri-review-2025]] — Review of human autonomy and agency in human-robot interaction
 - [[rail-ed-genai-literacy-teacher-education]] — Review of GenAI literacy in teacher education
 - [[student-llm-interaction-taxonomy-review-2026]]
-
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
 - [[daniel-ai-sustainability-scoping-review-2026]] — Scoping review of AI for sustainability and sustainable AI (Daniel et al. 2026)
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review classifying 22 AI-integration studies with FACETS + SAMR; most sit at Substitution/Augmentation

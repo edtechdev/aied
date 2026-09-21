@@ -55,7 +55,6 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 ## Connected Concepts
 - [[vibe-coding]]
 - [[guardrails]]
-
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[agentic-ai]]
@@ -83,7 +82,6 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[llms-text-linguistics-teaching-2026]] — LLMs in text linguistics teaching
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[lin-llm-interactive-lesson-generation]] — LLM generation of interactive tutor-training lessons (Lin et al. 2025)
-
 - [[aaai2026-prompting-literacy-k12]]
 - [[ai-adoption-training-public-sector]]
 - [[ase-26-agentic-software-engineering-curriculum]]
@@ -101,13 +99,10 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
 - [[learnlm-improving-gemini-learning]] — LearnLM: pedagogical instruction following vs prompt engineering
 - [[teachlm-post-training-llms-education]] — TeachLM: prompt engineering as a stopgap
-
 - [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[isaza-chatgpt-engineering-prompting-2026]] — Prompting behaviors predict engineering student performance
-
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)

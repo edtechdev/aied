@@ -46,7 +46,6 @@ page_kind: [framework]
 - [[human-ai-collaboration]]
 - [[ai-education]]
 - [[culturally-relevant-pedagogy]]
-
 - [[reducing-ai-misuse]]
 - [[equity-in-ai-education]]
 

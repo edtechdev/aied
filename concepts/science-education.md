@@ -64,7 +64,6 @@ Teacher readiness is decisive. [[pre-service-science-teachers-ai-perceptions-202
 - [[ai-grading-handwritten-physics-2026]] — Large-scale AI grading of handwritten physics assessments
 - [[avraamidou-ai-colonization-science-education]] — Critical commentary on AI colonization of science education
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Pre-service science teachers' AI perceptions and acceptance
-
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[auto-marking-short-answer-science-2026]]
 - [[an-goel-self-directed-modeling-2026]]

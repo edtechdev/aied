@@ -36,7 +36,6 @@ Proposes a four-component AI literacy framework for legal translation profession
 
 ## Connected Concepts
 - [[language-learning]]
-
 - [[ai-literacy]]
 - [[generative-ai]]
 - [[professional-training]]

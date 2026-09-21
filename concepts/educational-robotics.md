@@ -63,7 +63,6 @@ A defining theme is that robots are effective when they support genuine learning
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]] — Early childhood and elementary AI education
-
 - [[computational-thinking]]
 - [[cs-education]]
 - [[stem-education]]
@@ -88,7 +87,6 @@ A defining theme is that robots are effective when they support genuine learning
 ## Connected Articles
 
 - [[pepper-social-robot-formal-education-scoping-review-2026]] — Scoping Review of the Pepper Robot in Formal Education
-
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[white-wu-robotics-ai-education-2026]] — Robotics and AI in Education
 - [[computational-thinking-educational-robotics-secondary-2026]] — Computational Thinking and Educational Robotics
@@ -108,11 +106,8 @@ A defining theme is that robots are effective when they support genuine learning
 - [[game-based-gamified-robotics-education-review-2026]] — Game-Based and Gamified Robotics Education
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
-
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Robot-mediated CT in kindergarten
-
 - [[ai-toys-child-development-2026]] — AI-enabled toys and child development
-
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[creative-project-approach-ai-early-childhood-2025]] — The Creative Project Approach: integrating coding and generative social robots into early-childhood projects (Yang, Li & Lee 2025)
 - [[teaching-with-robots-five-types-perspective-2026]] — Five functionally distinct types of classroom robot, from scripted demonstration to one-to-one empathic dialogue (Christ et al. 2026)

@@ -121,7 +121,6 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-
 - [[ai-literacy-assessment-misalignment]] — AI Literacy Assessment: Self-Reported vs Performance Misalignment
 - [[generative-ai-reduced-study-time-math]] — Faster Completion, Less Learning: Generative AI Reduced Study Time on Math Problems and the Knowledge They Build
 - [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
@@ -131,12 +130,10 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[absent-cognitive-baseline-2026]] — The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[ai-changing-teaching-workflows]] — How AI Is Changing Teaching Workflows
-
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[genai-educational-outcomes-meta-analysis]]
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Immediate performance vs durable learning distinction
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: homework outsourcing harms learning
-
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[ai-assisted-collaborative-learning-model-dbr]] — AI-Assisted Collaborative Learning model DBR (critical thinking +24.1%, problem-solving gains)
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs general AI
@@ -152,7 +149,6 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[computational-thinking-aica-2026]] — Computational Thinking Levels and AI Coding Assistants (2026)
-
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive ICAP scaffolding in an ITS (BKT vs DRL)
 - [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analysis: adaptive/AI EdTech raises learning ~0.125 sd
 - [[gpt4-feedback-student-activation-2026]]

@@ -64,7 +64,6 @@ Although the study is framed around general [[human-in-the-loop-ai|human judgmen
 - [[llm]]
 - [[higher-ed]]
 - [[ai-education]]
-
 - [[cognitive-offloading]]
 - [[metacognition]]
 - [[critical-thinking]]

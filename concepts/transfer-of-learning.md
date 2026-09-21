@@ -98,7 +98,6 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[educational-llm-alignment]]
 - [[cognitive-offloading-speedup-illusion]]

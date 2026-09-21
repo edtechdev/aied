@@ -81,7 +81,6 @@ Learner identity connects to [[agency]] (identity is enacted through agentic aut
 
 ## Connected Articles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
-
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for a viable professional identity in a GenAI future

@@ -73,7 +73,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pedagogical-safety]]
 - [[self-report-measures]]
 - [[ai-misuse-learning-harm]]
-
 - [[explainable-ai]]
 - [[ai-literacy]]
 - [[cognitive-offloading]]
@@ -95,7 +94,6 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[fouad-bentley-trust-utility-gap-physics-2026]]
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-
 - [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance on AI in Education
 - [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking

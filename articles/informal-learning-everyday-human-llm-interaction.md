@@ -59,7 +59,6 @@ Conversations were analyzed at three scales — conversations, turns, and adjace
 ## Connected Concepts
 - [[cognitive-offloading]]
 - [[critical-thinking]]
-
 - [[llm]]
 - [[ai-literacy]]
 - [[student-experience]]

@@ -84,7 +84,6 @@ The design does establish a cheap, replicable and diagnostic method: code each s
 
 ## Connected Articles
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program 90% passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
-
 - [[academic-dishonesty-automated-proctoring-ai-2026]] — Review of academic dishonesty and automated proctoring in the AI era
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long systematic review of automated online exam proctoring
 - [[conijn-fear-big-brother-proctored-exams-2022]] — The fear of Big Brother: proctoring's negative side-effects on test anxiety

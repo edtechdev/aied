@@ -71,7 +71,6 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
@@ -84,8 +83,6 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
 - [[teachlm-post-training-llms-education]] — TeachLM: anonymization and consent for authentic learning data
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

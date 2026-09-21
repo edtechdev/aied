@@ -178,9 +178,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-
 - [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: assessment automation is a leading AI use case, mostly at SAMR Substitution/Augmentation
 - [[auto-marking-short-answer-science-2026]]

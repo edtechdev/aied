@@ -70,7 +70,6 @@ Professional training differs from academic education in its focus on applied sk
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[cdpk-pedagogy-benchmark-llms]] — LLM pedagogical-knowledge benchmark (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
-
 - [[crewscaler-ai-upskilling-framework]]
 - [[ai-coaching-rl-skill-development]]
 - [[adaptive-virtual-patient-psychotherapy-training]]
@@ -82,9 +81,7 @@ Professional training differs from academic education in its focus on applied sk
 - [[residencyrl-clinical-rl-training-2026]]
 - [[ithaka-sr-ai-skills-college-graduates-2026]] — HiBob AI Skills Framework validated with instructors and employers
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]

@@ -166,9 +166,7 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[astor-computational-thinking-meta-review-2026]] — Meta-review situating CT in CS education
-
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
-
 - [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[zhang-ml-student-progress-programming-2026]]
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in a software PBL course; throughput vs. comprehension

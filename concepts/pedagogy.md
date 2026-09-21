@@ -70,7 +70,6 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
-
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[learning-theories]]
 - [[learning-sciences]]
@@ -100,11 +99,9 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[icet-ml-education-trust-2026]] — Addressing Trust in AI Systems through Education: A Didactic Perspective
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — 'Pedagogy first, technology second' — TPAIK outweighs technical TAIK for student outcomes (Shen et al. 2026)
 - [[wang-zhang-pedagogical-partnerships-genai-2026]] — Pedagogical partnerships with generative AI
-
 - [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[instructional-guidance-genai-learning]] — How instructional guidance shapes GenAI learning effects
-
 - [[generative-ai-guardrails-harm-learning]] — Guardrailed (hint-not-answer) tutoring eliminates the exam penalty
 - [[agentic-ai-pedagogical-best-practice-2026]] — The automation-vs-learning tension in agentic AI
 - [[jeon-isd-agent-bench-2026]] — Grounding agents in instructional-design theory
@@ -116,7 +113,6 @@ The key cross-cutting finding, consistent with the knowledge base's [[learning-g
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[liu-ai-literacy-interventions-meta-analysis-2026]] — Instructional approaches in AI literacy interventions
 

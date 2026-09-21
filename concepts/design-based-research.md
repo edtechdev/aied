@@ -80,6 +80,5 @@ DBR is the signature method of the [[learning-sciences|learning sciences]] — t
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Six DBR studies implementing AIDA at the Open University
 - [[critical-thinking-genai-scaffolding]] — DBR for GenAI critical-thinking scaffolding
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — DBR for a science-integrated AI literacy curriculum (Moore et al. 2026)
-
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

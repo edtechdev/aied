@@ -75,7 +75,6 @@ institutions: [regulation]
 - [[human-ai-collaboration]]
 - [[critical-thinking]]
 - [[equity-in-ai-education]]
-
 - [[generative-ai]]- [[network-analysis]]
 
 ## Connected Articles

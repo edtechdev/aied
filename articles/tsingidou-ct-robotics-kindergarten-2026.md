@@ -45,7 +45,6 @@ Methodologically, the review notes that although several CT frameworks exist in 
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
-
 - [[computational-thinking]] — the skill being fostered
 - [[educational-robotics]] — the mediating technology
 - [[k-12]] — the kindergarten / early-childhood setting

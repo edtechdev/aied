@@ -83,7 +83,6 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 ## Connected Articles
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI feedback without teacher framing raises the feedback-literacy bar (Brunnström & Palmqvist 2026)
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
-
 - [[sutama-chatgpt-eportfolio-speaking-2026]]
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[mendoza-ai-feedback-feedback-literacy-srl]] — Feedback literacy moderates AI feedback → self-regulated learning (Mendoza et al. 2026)

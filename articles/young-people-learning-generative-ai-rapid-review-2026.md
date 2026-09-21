@@ -92,7 +92,6 @@ These are not fixed properties of a practice but of how a practice is enacted. T
 - [[learning-gains]]
 - [[philosophy-of-ai-in-education]]
 - [[higher-ed]]
-
 - [[k-12]]
 - [[generative-ai]]
 - [[cognitive-offloading]]

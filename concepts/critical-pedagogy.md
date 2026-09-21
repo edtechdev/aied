@@ -71,7 +71,6 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Developmental-critical model for interpretive cognition in the humanities
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
-
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision for designing generative AI toward learner flourishing
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Human-centered GenAI engagement framework built on Freire, constructionism and an ethics of care
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Critical Digital Pedagogy and decolonial epistemologies applied to academic development in the Global South

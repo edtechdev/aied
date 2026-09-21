@@ -68,6 +68,5 @@ Change management is the institutional complement to classroom-level integration
 - [[ai-uk-higher-education-policy-2026]] — national policy intent vs. institutional capacity in UK higher education
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — organizational and technological drivers of AI adoption
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
-
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity

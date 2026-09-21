@@ -128,7 +128,6 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[ai-literacy-assessment-misalignment]] — Self-reported vs performance AI literacy misalignment
 - [[teacher-education-ai-literacy-sdt-2026]] — Teacher AI literacy through self-determination theory
 - [[acceptance-ai-english-tools-2026]] — AI acceptance measures for English learning tools
-
 - [[llm-difficulty-calibration-programming-exams-2026]] — From evaluated models to evaluation aids
 - [[llm-item-difficulty-prediction]] — Cognitive evaluation of LLM item-difficulty prediction
 - [[multimodal-item-parameter-estimation-2026]] — Multimodal item-parameter estimation
@@ -140,7 +139,6 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[xiong-ai-educational-measurement-review-2026]] — Decade thematic review of AI in educational measurement
-
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — AI-PBLS scale; empowerment and ethical awareness mediating PBL-to-satisfaction in AI literacy courses (Zhu & Kong 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding

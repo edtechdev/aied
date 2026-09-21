@@ -61,7 +61,6 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 ## Connected Concepts
 
 - [[learning-gains]]
-
 - [[problem-based-learning]]
 - [[learning-by-teaching]]
 - [[scaffolding]]
@@ -91,7 +90,6 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[ai-pbl-computational-thinking-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[beck-genai-literacy-economics-hands-on]] — Active-learning GenAI framework for economics (Beck & Brodersen 2025)
-
 - [[lak2026-hint-button-unproductive-use]]
 - [[efficiency-gain-illusion-ai-overreliance]]
 - [[neurodivergent-computing-students]]
@@ -105,9 +103,7 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[academic-league-of-ai-2026]] — Academic League of AI: project-based active learning
 - [[chatgpt-math-biology-challenge-based-learning-2025]] — ChatGPT in challenge-based biology/math courses
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-
 - [[mujib-ai-ibl-creative-math-2026]] — AI-supported IBL and creative mathematical performance
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
-
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 

@@ -39,7 +39,6 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-
 - [[learning-theories]]
 - [[constructivist]]
 - [[experiential-learning]]
@@ -63,5 +62,4 @@ Situated learning connects closely to [[embodied-learning]] (both stress the gro
 - [[panciroli-ai-literacy-episodes-situated-learning]]
 - [[fowlin-operationalizing-learning-principles-ai]]
 - [[videla-embodied-ai-education-choreography]]
-
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design

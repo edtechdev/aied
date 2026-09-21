@@ -69,7 +69,6 @@ Three preregistered experiments used an adapted Cognitive Reflection Test with A
 - [[agency]]
 - [[human-in-the-loop-ai]]
 - [[theory-development-aied]]
-
 - [[cognitive-offloading]]
 - [[critical-thinking]]
 - [[trust]]

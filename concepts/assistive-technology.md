@@ -62,7 +62,6 @@ A 2026 scoping review of digital assistive [[ai-technologies|technologies]] for 
 - [[text-simplification-its]] — LLM-based text simplification for intelligent tutoring
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for Deaf/Hard-of-Hearing learners
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

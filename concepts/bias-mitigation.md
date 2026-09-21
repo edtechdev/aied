@@ -78,7 +78,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[differential-effects-across-learner-groups]]
 - [[explainable-ai]]
 - [[guardrails]]
-
 - [[equity-in-ai-education]]
 - [[ethics]]
 - [[ai-ed-evaluation]]
@@ -102,7 +101,6 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[ai-online-education-engagement-satisfaction-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
 - [[paternalistic-filter-llm-history-education]] — The paternalistic filter and differential refusals
@@ -117,5 +115,4 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned biases in automated writing feedback
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
-
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education

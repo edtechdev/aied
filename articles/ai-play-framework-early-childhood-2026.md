@@ -58,7 +58,6 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
-
 - [[ai-literacy]]
 - [[k-12]]
 - [[computational-thinking]]

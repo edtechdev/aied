@@ -54,5 +54,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[genai-can-harm-teaching-rct-2026]] — Generative AI can harm teaching: an RCT
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs
-
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science

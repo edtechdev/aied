@@ -92,7 +92,6 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)
 - [[omniphys-multimodal-physics-benchmark-2026]]
 - [[benzion-ai-physics-simulations-virtual-lab]] — Using AI to rapidly generate physics simulations / virtual labs (Ben-Zion et al. 2025)
-
 - [[hashmi-socratic-physics-chatbot-2025]]
 - [[socratic-ai-physics-tutor-taxonomy-2026]]
 - [[fouad-bentley-trust-utility-gap-physics-2026]]

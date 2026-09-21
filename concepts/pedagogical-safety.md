@@ -60,7 +60,6 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 
 ## Connected Concepts
 - [[guardrails]] — the design mechanisms that implement safety
-
 - [[hallucination-risk]]
 - [[rag]]
 - [[k-12]]
@@ -94,7 +93,6 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teacher-designed safety layers: domain boundaries, filtering, and override
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-
 - [[eduzone-llm-safety-k12]]
 - [[eduguard-safe-rag-llm-tutor]]
 - [[hazra-safetutors-pedagogical-safety-2026]]

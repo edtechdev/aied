@@ -80,7 +80,6 @@ Because young learners are more vulnerable and less able to self-regulate their 
 - [[elementary-writing-genai-systematic-review-2026]] — Elementary writing instruction in the age of GenAI
 - [[awareness-technological-isomorphism]] — Technological isomorphism in elementary math
 - [[icub-humanoid-storytelling-llm-hri-2025]] — LLM humanoid storytelling with children
-
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[play-ai-pre-k-kindergarten-ai-literacy-2026]] — Play With AI (PL-AI): play-centered AI literacy curriculum for pre-K and kindergarten (Lee 2026)
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children

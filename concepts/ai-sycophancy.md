@@ -58,7 +58,6 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 ## Connected Concepts
 - [[guardrails]]
-
 - [[generative-ai]]
 - [[pedagogical-safety]]
 - [[cognitive-offloading]]
@@ -80,7 +79,6 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[collaborative-learning]]
 - [[benchmark]]
 - [[guardrails]]
-
 - [[generative-ai]]
 - [[pedagogical-safety]]
 - [[cognitive-offloading]]
@@ -107,7 +105,6 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Sycophancy as the loss of corrective feedback, in work and in relationships
-
 - [[sycophantic-ai-social-interaction-2026]] — Sycophantic AI makes human interaction feel more effortful and less satisfying over time
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
 - [[contextual-sycophancy-ai-literacy]] — The Hidden Cost of Contextual Sycophancy: an AI Literacy Intervention

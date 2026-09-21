@@ -52,7 +52,6 @@ page_kind: [framework]
 - [[transfer-of-learning]]
 - [[k-12]]
 - [[reducing-ai-misuse]]
-
 - [[desirable-difficulties]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]

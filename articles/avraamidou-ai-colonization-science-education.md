@@ -74,7 +74,6 @@ The essay closes with an affirmative: *"Can we disrupt the momentum of the AI co
 - [[equity-in-ai-education]]
 - [[reducing-ai-misuse]]
 - [[academic-integrity]]
-
 - [[ai-misuse-learning-harm]]
 
 ## Connected Articles

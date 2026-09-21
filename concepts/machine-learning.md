@@ -75,7 +75,6 @@ Machine learning also appears in education as a *subject*. In [[microbit-robotic
 - [[adaptive-scaffolding-cognitive-engagement-its]] — Adaptive scaffolding of cognitive engagement in an ITS (BKT vs DRL)
 - [[pedagogical-safety-rl]] — Formal framework for pedagogical safety in educational reinforcement learning
 - [[automated-online-exam-proctoring-decade-review-2026]] — Decade-long review of deep-learning automated proctoring
-
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML

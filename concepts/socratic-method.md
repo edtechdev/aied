@@ -129,7 +129,6 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[critical-thinking-genai-scaffolding]]
 - [[generative-ai-guardrails-harm-learning]]
 - [[pedagogy-ai-mistakes]]
-
 - [[stanford-evidence-base-ai-k12-2026]] — Structured Socratic hints vs. open-ended general-purpose Q&A
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
@@ -137,6 +136,5 @@ The Socratic method is closely tied to [[scaffolding]] (providing just enough su
 - [[wang-safety-gap-productive-struggle-2026]] — The Safety Gap: Restoring Productive Struggle
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-
 - [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[lftutor-logical-fallacy-education-2026]] — Socratic questioning plus critical argumentation in a four-step fallacy-tutoring framework

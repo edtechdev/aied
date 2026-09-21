@@ -58,7 +58,6 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 ## Connected Concepts
 
 - [[learning-gains]]
-
 - [[pedagogical-safety]]
 - [[agentic-ai]]
 - [[ai-education]]
@@ -84,7 +83,6 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
-
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-student-engagement-online-learning-review-2025]]
@@ -108,20 +106,15 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[agents-that-teach-incidental-learning]]
 - [[ai-tutor-authoring-promptdecipher]]
 - [[educasim-cs1-instructional-practice]] — EducaSim: generative student agents for instructional practice
-
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
 - [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-
 - [[preferred-scaffolding-ai-mathematical-modeling]] — Preferred scaffolding in AI-supported mathematical modeling
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: pedagogical avatars co-constituted with learners in creative networks
