@@ -5,6 +5,7 @@
 //   slug: string
 //   title: string
 //   created, updated: string (ISO timestamps)
+//   published?: string  (the PAPER's publication date: YYYY-MM-DD, YYYY-MM or YYYY)
 //   keywords: string[]  (the page's typed metadata values)
 //   body: string (markdown body)
 //   sources: string[] (article frontmatter sources)
@@ -12,12 +13,13 @@
 import { SITE, ORG_ID, WEBSITE_ID, doiFromSources, urlFromText, firstParagraph, conceptId, faqId } from '../lib/jsonld';
 import siteConfig from '../config/siteConfig';
 
-const { type, slug, title, created = '', updated = '', keywords = [], body = '', sources = [], connectedConceptSlugs = [], connectedFaqSlugs = [] } = Astro.props as {
+const { type, slug, title, created = '', updated = '', published = '', keywords = [], body = '', sources = [], connectedConceptSlugs = [], connectedFaqSlugs = [] } = Astro.props as {
   type: 'article' | 'concept' | 'faq';
   slug: string;
   title: string;
   created?: string;
   updated?: string;
+  published?: string;
   keywords?: string[];
   body?: string;
   sources?: string[];
@@ -82,7 +84,9 @@ function articleGraph() {
     "@type": "ScholarlyArticle",
     "@id": doi ? `https://doi.org/${doi}` : `${pageUrl}#source`,
     "name": title,
-    "datePublished": created.split('-')[0]
+    // The paper's own publication date. `published` is authoritative; the fallback is
+    // only the ingestion year, which is why older papers used to be dated wrong here.
+    "datePublished": published || created.split('-')[0]
   };
   if (doi) {
     scholarly.identifier = `https://doi.org/${doi}`;

@@ -2,6 +2,7 @@
 title: A light-touch AI literacy intervention helps protect against AI political persuasion
 created: "2026-09-16T09:40:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
+published: "2026-09"
 type: article
 foundations: [ai-literacy, critical-thinking]
 technology: [conversational-ai, generative-ai, llm]

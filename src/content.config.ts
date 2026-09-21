@@ -19,6 +19,21 @@ const timeField = z
   .union([z.date(), z.string()])
   .transform(v => (v instanceof Date ? v.toISOString() : String(v)));
 
+// The date the PAPER was published, which is NOT the same as `created` (the date
+// this page was ingested — see the cron prompts: created is deliberately the
+// ingestion date, so a paper published last year but ingested today still shows up
+// in "Recent Articles"). Kept as a string, because the precision available depends
+// on the source: a journal PDF may carry a full date, arXiv gives a submission day,
+// a book chapter often only a year. Accepted forms are 'YYYY-MM-DD', 'YYYY-MM' and
+// 'YYYY'; anything else fails the build rather than rendering a mystery date.
+const publishedField = z
+  .union([z.date(), z.string()])
+  .transform(v => (v instanceof Date ? v.toISOString().split('T')[0] : String(v).trim()))
+  .refine(v => /^\d{4}(-\d{2}(-\d{2})?)?$/.test(v), {
+    message: 'published must be YYYY, YYYY-MM or YYYY-MM-DD',
+  })
+  .optional();
+
 // ==== Editorial validation (2026-09-05) ====
 // Concept references are typed: each facet field accepts only the concept slugs of
 // one registry section. `concepts/` is committed (unlike raw/),
@@ -217,6 +232,7 @@ const articles = defineCollection({
     title: z.string(),
     created: timeField,
     updated: timeField.optional().transform(v => v ?? ''),
+    published: publishedField,
     sources: z.array(rawSourcePath),
     confidence: z.enum(['high', 'medium', 'low']),
     source_url: z.string().optional(),
