@@ -1,7 +1,7 @@
 ---
 title: "Understanding Student Dependency on AI: The Role of AI Literacy, Academic Self-Efficacy, and Resource Management Strategies"
 created: "2026-08-21T13:05:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-21T14:13:55-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [help-seeking, motivation, self-efficacy, self-regulated-learning, student-engagement]
@@ -17,9 +17,9 @@ confidence: medium
 
 ## Key Findings
 
-- **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132), mirroring academic self-efficacy (β = −0.197). This suggests a "compensatory" mechanism: strong skills enable offloading, but strong self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
-- **The model explained 27.3% of variance** in AI dependency (F(8,469)=22.03) — a meaningful improvement over the 22.1% from a single aggregate AI literacy score, confirming that multidimensional treatment adds explanatory value.
-- **Effort regulation predicted lower dependency** (β = −0.134); **general academic [[help-seeking|help seeking]] predicted higher dependency** (β = 0.124); time/study management was not significant. The help-seeking measure captures human sources, so the finding does not show AI substituting for human help.
+- **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132). Academic self-efficacy correlated negatively with dependency on its own (r = −0.24) but entered the full model positively (β = 0.20). The pattern suggests a compensatory mechanism for AI-specific confidence: strong skills enable offloading, while strong AI self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
+- **The model explained 27.3% of variance** in AI dependency (F(8, 469) = 22.03, p < 0.001; R² = 0.273, adjusted R² = 0.261; N = 478), which the authors read as support for treating AI literacy as multidimensional rather than as a single aggregate score.
+- **Effort regulation predicted lower dependency** (β = −0.13); **general academic [[help-seeking|help seeking]] predicted higher dependency** (β = 0.12); time/study management was not significant (β = 0.05, p = 0.374). The help-seeking measure captures human sources, so the finding does not show AI substituting for human help.
 - **Four student profiles emerged** (K-means cluster analysis): **HL** (high literacy, low dependency — most adaptive), **MM** (moderate/moderate), **LL** (low/low), and **HH** (high literacy, high dependency). The HL profile scored highest on academic self-efficacy, time/study management, and effort regulation; HH — despite strong technical knowledge — did not lead on any self-regulation measure, suggesting reliance may undermine learner autonomy and create an illusion of competence.
 - **The dual structure within AI literacy** (skills that enable use vs. beliefs that govern reliance) is a novel contribution to the AI-dependency literature, supporting calls to treat [[ai-literacy]] as multidimensional rather than unitary.
 
