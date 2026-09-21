@@ -14,7 +14,6 @@ const LABELS_MAP: Record<string, string> = Object.fromEntries(
   FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
 );
 const filterBar = [
-  { filter: 'page_type', label: 'Type' },
   { filter: 'discipline', label: 'Discipline' },
   { filter: 'level', label: 'Level' },
   { filter: 'audience', label: 'Intended audience' },
@@ -22,6 +21,10 @@ const filterBar = [
   ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: LABELS_MAP[field] || field })),
   { filter: 'page_kind', label: 'Page kind' },
 ];
+// `page_type` is NOT in the dropdown bar: it is rendered as toggle pills (see
+// .type-pills below), because a popup menu for the page types overflowed the
+// viewport on phones; pills/toggles were requested instead.
+const TYPE_FILTER = 'page_type';
 const concepts = await getCollection('concepts');
 const facetLabels: Record<string, string> = {};
 for (const c of concepts) {
@@ -39,6 +42,18 @@ for (const c of concepts) {
     <pagefind-config bundle-path="/aied/pagefind/" faceted></pagefind-config>
     <div class="search-controls">
       <pagefind-input placeholder="Search articles, concepts, and FAQs..."></pagefind-input>
+    </div>
+    <div class="type-filter">
+      <span class="type-filter-label" id="type-filter-label">Type</span>
+      <div
+        class="type-pills"
+        role="group"
+        aria-labelledby="type-filter-label"
+        data-filter={TYPE_FILTER}
+      >
+        {/* Buttons are rendered by the script below, which reads the facet's
+            live values and counts from Pagefind. */}
+      </div>
     </div>
     <div class="filter-bar">
       {filterBar.map((f) => (
@@ -114,6 +129,57 @@ for (const c of concepts) {
     gap: 0.5rem;
     margin-bottom: 1.25rem;
   }
+  .type-filter {
+    display: flex;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 0.5rem 0.75rem;
+    margin-bottom: 0.75rem;
+  }
+  .type-filter-label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--muted-color);
+  }
+  .type-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .type-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.9rem;
+    font-family: inherit;
+    line-height: 1.4;
+    border: 2px solid var(--card-border-color);
+    border-radius: 999px;
+    background: var(--card-background-color);
+    color: var(--color);
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .type-pill:hover {
+    border-color: var(--primary);
+  }
+  .type-pill[aria-pressed='true'] {
+    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 16%, transparent);
+    font-weight: 600;
+  }
+  .type-pill:focus-visible {
+    outline: 2px solid var(--primary);
+    outline-offset: 2px;
+  }
+  .type-pill-count {
+    font-size: 0.8rem;
+    color: var(--muted-color);
+  }
+  .type-pill[aria-pressed='true'] .type-pill-count {
+    color: inherit;
+  }
   pagefind-filter-dropdown {
     flex: 0 0 auto;
   }
@@ -147,20 +213,21 @@ for (const c of concepts) {
   }
   /* Keep the dropdown popup inside the viewport on small screens. PageFind
      styles the menu with high-specificity selectors (`:is(*, #\#):is(*, #\#):is(*, #\#)`),
-     so `!important` is required. On mobile we switch the menu to `position:fixed`
-     anchored to the viewport's right edge (and cap height + width) so it can
-     never spill off the side or bottom of the screen. */
+     so `!important` is required. On mobile we pin the menu to the viewport
+     (position:fixed + 1rem insets) so it cannot spill off either side or the
+     bottom. The `transform: none` reset is load-bearing: PageFind's own
+     `@media (max-width: 640px)` block centers the menu on its trigger with
+     `left: 50%; transform: translateX(-50%)`; the left:50% is overridden above
+     but the transform was NOT, so the fixed box was still shifted left by half
+     its width and hung off the LEFT edge of phone screens. */
   @media (max-width: 640px) {
     :global(.pf-dropdown-menu) {
       position: fixed !important;
-      top: 1rem !important;
-      left: 1rem !important;
-      right: 1rem !important;
-      bottom: auto !important;
       inset: 1rem 1rem auto 1rem !important;
+      transform: none !important;
       min-width: 0 !important;
       width: auto !important;
-      max-width: none !important;
+      max-width: calc(100vw - 2rem) !important;
       max-height: min(70vh, 24rem) !important;
       z-index: 1000 !important;
     }
@@ -211,6 +278,109 @@ for (const c of concepts) {
     flex-wrap: wrap;
   }
 </style>
+
+<script is:inline>
+  // Type filter as toggle pills. Pagefind's component UI ships no pill/checkbox
+  // standalone component (only the popup dropdown, and a pane that renders EVERY
+  // facet at once), so the page_type facet is driven through the instance API:
+  // `inst.availableFilters` gives live values + counts, `inst.triggerFilters()`
+  // re-runs the current search with a new filter set. Any search routed through
+  // the instance (including the URL restore in the script below) fires the
+  // "search" event, which is what keeps the pill states in sync.
+  (function () {
+    const API = document.querySelector('.type-pills');
+    if (!API) return;
+    const FILTER = API.getAttribute('data-filter') || 'page_type';
+    // Used only until Pagefind's index reports the facet's real values.
+    const FALLBACK = ['article', 'concept', 'faq'];
+    const label = (v) => v.replace(/[-_]/g, ' ').replace(/^\w/, (c) => c.toUpperCase());
+
+    let inst = null;
+    let counts = null;
+    let values = [];
+
+    const currentFilters = () => {
+      const f = (inst && inst.searchFilters) || {};
+      const out = {};
+      for (const [k, v] of Object.entries(f)) {
+        const list = Array.isArray(v) ? v.slice() : [];
+        if (list.length) out[k] = list;
+      }
+      return out;
+    };
+
+    const selected = () => new Set(currentFilters()[FILTER] || []);
+
+    const render = () => {
+      const on = selected();
+      API.textContent = '';
+      for (const v of values) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'type-pill';
+        btn.dataset.value = v;
+        btn.setAttribute('aria-pressed', on.has(v) ? 'true' : 'false');
+        btn.textContent = label(v);
+        if (counts && typeof counts[v] === 'number') {
+          const c = document.createElement('span');
+          c.className = 'type-pill-count';
+          c.textContent = String(counts[v]);
+          btn.appendChild(c);
+        }
+        btn.addEventListener('click', () => {
+          const next = currentFilters();
+          const set = new Set(next[FILTER] || []);
+          if (set.has(v)) set.delete(v);
+          else set.add(v);
+          if (set.size) next[FILTER] = [...set];
+          else delete next[FILTER];
+          if (inst && typeof inst.triggerFilters === 'function') inst.triggerFilters(next);
+          render();
+        });
+        API.appendChild(btn);
+      }
+    };
+
+    const readFacet = () => {
+      const avail = (inst && inst.availableFilters) || null;
+      const facet = avail && avail[FILTER];
+      if (facet && Object.keys(facet).length) {
+        values = Object.keys(facet).sort();
+        counts = facet;
+        return true;
+      }
+      return false;
+    };
+
+    let settled = 0;
+    const attempt = () => {
+      const C = window.PagefindComponents;
+      if (C && C.getInstanceManager) {
+        try { inst = C.getInstanceManager().getInstance('default'); } catch { inst = null; }
+      }
+      if (!inst) { setTimeout(attempt, 200); return; }
+
+      if (!inst.__typePillsHooked) {
+        inst.__typePillsHooked = true;
+        inst.on('search', () => { readFacet(); render(); });
+        inst.on('filters', () => { readFacet(); render(); });
+      }
+
+      const got = readFacet();
+      if (!got && !values.length) values = FALLBACK.slice();
+      render();
+
+      // The facet values arrive with the worker/index load, after ~4-6s on a
+      // cold load. Re-read a few times so the pills pick up real counts, then
+      // stop polling.
+      settled += 1;
+      if (settled < 40 && !got) setTimeout(attempt, 300);
+      else if (settled < 40) setTimeout(attempt, 500);
+    };
+
+    setTimeout(attempt, 300);
+  })();
+</script>
 
 <script is:inline>
   // Sync the search term AND selected filters to the URL so searches can be
