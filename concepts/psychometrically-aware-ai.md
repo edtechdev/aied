@@ -49,7 +49,6 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 ## Connected Articles
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
-
 - [[llm-psychometric-calibration-cdp]] — Aligning LLM assessment with psychometric calibration
 - [[llm-item-difficulty-prediction]] — LLM prediction of item difficulty
 - [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
@@ -57,7 +56,6 @@ Psychometrically aware AI sits at the intersection of [[educational-measurement]
 - [[competency-based-education-genai-production-2026]] — Competency-based education with GenAI
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Comparing AI literacy instruments: jangle and jingle pairs across 55 constructs

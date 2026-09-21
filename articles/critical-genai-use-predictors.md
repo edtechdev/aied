@@ -60,7 +60,6 @@ page_kind: [evaluation]
 ## Connected Concepts
 - [[cognitive-offloading]]
 - [[reducing-ai-misuse]]
-
 - [[ai-literacy]]
 - [[higher-ed]]
 - [[metacognition]]

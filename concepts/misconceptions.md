@@ -119,10 +119,8 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-
 - [[rudolph-ai-myths-critical-higher-ed]] — Don't believe the hype: eight AI myths and the need for a critical approach in higher education
 - [[drawedumath-vlm-struggling-students-2026]] — VLMs misdiagnose student math errors (DrawEduMath, Lucy et al. 2026)
-
 - [[student-rationalization-ai-writing]] — Student Rationalization of AI Writing
 - [[genai-skill-bypass-literacy]] — GenAI Skill Bypass and Literacy
 - [[trust-reliance-ai-education-2026]] — Trust and Reliance in AI Education

@@ -47,7 +47,6 @@ The paper argues that accessibility belongs in the authoring layer. When interfa
 - [[generative-ai]]
 - [[rag]]
 - [[assessment-validity]]
-
 - [[affective-computing]]
 - [[knowledge-tracing]]
 - [[personalized-learning]]

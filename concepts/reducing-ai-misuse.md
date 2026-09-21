@@ -76,7 +76,6 @@ Educative levers look different again once integrity is treated as a practice to
 - [[framing-ai-use-for-students]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
 - [[ai-misuse-learning-harm]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]
@@ -98,7 +97,6 @@ Educative levers look different again once integrity is treated as a practice to
 - [[ivory-psychology-assessment-integrity-2026]] — Version-control evidence trails and reproducible analysis documents as misuse deterrents (Ivory et al. 2026)
 - [[ai-tools-academic-work-cheating-2026]]
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: placement rule for AI use (Brcic & Frljic 2026)
-
 - [[generative-ai-guardrails-harm-learning]] — GenAI Without Guardrails Can Harm Learning
 - [[genai-performance-vs-learning]] — Distinguishing Performance Gains from Learning
 - [[ai-assessment-scale-reform]] — The AI Assessment Scale and Assessment Reform

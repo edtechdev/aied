@@ -70,7 +70,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[group-work]] — Group work
-
 - [[problem-based-learning]]
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[active-learning]]
@@ -99,7 +98,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-
 - [[ai-pbl-computational-thinking-2026]]
 - [[educators-engagement-ai-pbl-review-2026]]
 - [[pbl-structural-conditions-ai-2026]]
@@ -109,11 +107,9 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[neurodivergent-computing-students]]
-
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teacher-student-agency-orchestration]]
 - [[golrang-propact-pair-programming-2026]]
-
 - [[vargas-situated-learning-ai-review-2024]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
@@ -122,11 +118,9 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[academic-league-of-ai-2026]] — Academic League of AI: collaborative, project-based AI education
 - [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
-
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding

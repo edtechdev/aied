@@ -70,7 +70,6 @@ Preliminary findings are reported descriptively and interpretatively, without cl
 - [[human-in-the-loop-ai]]
 - [[agentic-ai]]
 - [[pedagogical-agent]]
-
 - [[intelligent-tutoring]]
 - [[scaffolding]]
 - [[cognitive-offloading]]

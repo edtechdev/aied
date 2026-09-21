@@ -69,7 +69,6 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
 - [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
-
 - [[ai-scoring-language-bias-physics]]
 - [[choi-anchor-aes-prompting-2025]]
 - [[icle-plus-plus-essay-scoring]]

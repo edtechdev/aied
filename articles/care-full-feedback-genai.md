@@ -54,7 +54,6 @@ confidence: high
 - [[higher-ed]]
 - [[human-in-the-loop-ai]]
 - [[teacher-role]]
-
 - [[ai-education]]
 - [[ethics]]
 - [[generative-ai]]

@@ -65,5 +65,4 @@ Across these twelve works, visualization emerges as a dual-use medium: AI increa
 - [[data-comics-for-education-evaluating-effectiveness-benefits-ethics]] — Effectiveness, benefits, and ethics of AI-assisted data comics
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
 - [[aissa-slides-analysis]] — AI-based student slides analysis tool for academic presentations
-
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms

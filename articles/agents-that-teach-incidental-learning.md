@@ -71,7 +71,6 @@ A comprehension check closes the loop, refining the Concept Map and informing fu
 ## Connected Concepts
 - [[cs-education]]
 - [[human-ai-collaboration]]
-
 - [[cognitive-offloading]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]

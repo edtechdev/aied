@@ -47,7 +47,6 @@ page_kind: [evaluation]
 - [[teacher-role]]
 - [[higher-ed]]
 - [[k-12]]
-
 - [[tpack]]
 ## Connected Articles
 

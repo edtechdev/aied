@@ -115,7 +115,6 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Scaffolding is a dominant CT learning strategy
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — AI across the pedagogies of practice in mathematics teacher education: structured rehearsal feedback raised probing questions (Bondurant & Shaughnessy 2026)

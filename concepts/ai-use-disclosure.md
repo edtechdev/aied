@@ -88,12 +88,10 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[parents-and-families]]
 ## Connected Articles
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
-
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure: disclosure and faculty accusations
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
-
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[teichmann-detecting-undetectable-misconduct-2026]] — Declarations as education rather than detection
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — The cost of honesty as a design threshold in assessment

@@ -112,7 +112,6 @@ The 2026 durable-skills work inverts the usual direction of simulation. Instead 
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a single describing agent beats simulating a distribution of students for predicting dropout and design critique

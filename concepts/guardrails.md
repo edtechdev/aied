@@ -103,7 +103,6 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[reflection-agent-fidelity-career-2026]] — Faithful Where It Can Be Checked: Auditing a Reflection Agent Against Its System Prompt in a Randomized Trial
 - [[scaffolding-student-ai-dialogue-framework-2026]] — The SCAFFOLD framework for steering students-AI dialogue, with its classroom pilot
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-
 - [[generative-ai-guardrails-harm-learning]] — the canonical field RCT on guardrails
 - [[eduzone-llm-safety-k12]] — K-12 LLM safety framework
 - [[eduguard-safe-rag-llm-tutor]] — RAG-based safety for tutors
@@ -116,5 +115,4 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[llm-unlearning-math-privacy]] — model-level unlearning
 - [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
 - [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
-
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)

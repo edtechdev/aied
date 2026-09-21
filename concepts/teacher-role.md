@@ -133,7 +133,6 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-
 - [[business-education]]
 - [[educational-development]]
 - [[teacher-ai-competency]]
@@ -180,7 +179,6 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[ai-interior-design-malaysia-2026]]
 - [[critical-media-literacy-education-2026]]
-
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
 - [[ai-changing-teaching-workflows]]
@@ -203,13 +201,11 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: evaluating LLM instructional-design agents
-
 - [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with AI
 - [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
@@ -224,7 +220,6 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[stanford-evidence-base-ai-k12-2026]] — Stanford evidence base for AI in K-12
 - [[finkelstein-principled-ai-education-2025]] — Principled AI education
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing teacher digital competence for GenAI curriculum design
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)

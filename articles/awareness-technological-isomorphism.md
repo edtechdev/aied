@@ -39,7 +39,6 @@ The paper proposes a **three-stage [[pedagogy|pedagogical]] pathway** — Percep
 
 ## Connected Concepts
 - [[early-childhood-elementary-ai-education]]
-
 - [[stem-education]]
 - [[ai-literacy]]
 - [[transfer-of-learning]]

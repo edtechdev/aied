@@ -61,7 +61,6 @@ The ethical and equity dimensions are the least adequately addressed. Schiff (20
 
 ## Connected Concepts
 - [[educational-robotics]]
-
 - [[ai-education]]
 - [[ai-literacy]]
 - [[ethics]]

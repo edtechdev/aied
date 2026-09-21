@@ -74,7 +74,6 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 - [[collaborative-learning]]
 - [[self-regulated-learning]]
 - [[agency]]
-
 - [[llm]]
 - [[agentic-ai]]
 - [[desirable-difficulties]]
@@ -87,7 +86,6 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 - [[collaborative-learning]]
 - [[self-regulated-learning]]
 - [[agency]]
-
 - [[llm]]
 - [[cognitive-surrender]]
 

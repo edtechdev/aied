@@ -44,7 +44,6 @@ These findings highlight a significant gap between [[regulation|institutional re
 ## Connected Concepts
 
 - [[governance]]
-
 - [[generative-ai]]
 - [[higher-ed]]
 - [[regulation]]

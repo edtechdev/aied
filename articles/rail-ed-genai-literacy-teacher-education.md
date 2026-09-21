@@ -54,7 +54,6 @@ Aligned with the UNESCO [[teacher-ai-competency|AI Competency Framework for Teac
 - [[k-12]]
 - [[ai-education]]
 - [[curriculum-design]]
-
 - [[tpack]]
 - [[generative-ai]]
 - [[ai-literacy]]

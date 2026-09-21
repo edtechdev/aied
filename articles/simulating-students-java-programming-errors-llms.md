@@ -45,7 +45,6 @@ This work extends [[research-methods-aied|research]] on [[llm-student-simulation
 ## Connected Concepts
 - [[cs-education]]
 - [[simulating-students]]
-
 - [[learning-by-teaching]]
 - [[llm]]
 - [[intelligent-tutoring]]

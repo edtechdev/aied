@@ -118,7 +118,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[benali-genai-academic-writing-2026]]
 - [[coach-not-crutch-ai-writing]] — AI writing tools can improve writing skill despite reducing effort (Lira et al. 2025)
-
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[pairr-ai-peer-review-2025]] — Peer and AI Review + Reflection (PAIRR)
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
@@ -139,7 +138,6 @@ Writing education connects to [[automated-essay-scoring]], [[ai-feedback-quality
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[student-genai-use-views-writing]] — Student use of and views on GenAI for writing (Kuznetsov, Sheely & Baker 2026)

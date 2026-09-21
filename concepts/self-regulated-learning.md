@@ -147,7 +147,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[intelligent-tutoring]] — systems that scaffold SRL
 - [[llm]] — the underlying model of AI tools
 - [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
-
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[metacognition]] — the cognitive monitoring SRL relies on
 - [[self-efficacy]] — a forethought-phase belief driving effort
@@ -187,7 +186,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[atif-dickson-deane-scaffold-shortcut-genai-srl-2026]] — Scaffold or shortcut? GenAI dual role in SRL
 - [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — LLM-mediated help-seeking in STEM: layered, instrumental, and verified
 - [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
-
 - [[mejeh-fromm-srl-adaptive-learning-feedback-2026]]
 - [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[yilmaz-genai-feedback-srl-online-higher-ed-2026]] — GenAI feedback and SRL: perceived source matters
@@ -199,7 +197,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
 - [[ai-learning-assistants-higher-ed-large-scale]] — AI learning assistants in higher ed at scale
-
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[decreasing-digital-distraction-college-online-learning-2026]] — SRL and lower digital distraction in online learning (Shi et al. 2026)

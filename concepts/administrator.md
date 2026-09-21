@@ -59,7 +59,6 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 ## Connected Articles
 - [[sposato-ai-educational-leadership-taxonomy-2025]] — AI in educational leadership: comprehensive taxonomy
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-
 - [[alrahmi-org-drivers-ai-adoption-he-2026]]
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy and institutional decision-making
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being

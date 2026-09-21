@@ -66,7 +66,6 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds
 - [[quantum-education-its]] — Quantum education intelligent tutoring (ITAS)
@@ -81,7 +80,5 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[concept-catalyst-engineering-scaffolds]] — Concept Catalyst engineering scaffolds
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-driven cognitive diagnosis
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-
-
 - [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[ai-information-extraction-undergraduate-thesis-2026]] — AI-powered information extraction supporting undergraduate thesis and research-based learning (An et al. 2026)

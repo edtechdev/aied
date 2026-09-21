@@ -95,7 +95,6 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[cognitive-offloading]]
 - [[educational-policy-ai]]
 - [[ai-education]]
-
 - [[tpack]]
 - [[teacher-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
@@ -110,7 +109,6 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
 - [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
-
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
@@ -130,11 +128,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[raffaghelli-situated-ai-ethics-2026]]
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
-
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
-
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
-
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)

@@ -61,7 +61,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[student-experience]]
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[biology-education]] — Biology education and AI: lab teaching assistants, AI literacy in biology, critical thinking, specialized tools
-
 - [[metacognition]]
 - [[cognitive-offloading]]
 - [[ai-literacy]]
@@ -114,7 +113,6 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-
 - [[student-ai-conversations-cognitive-engagement-2026]] — Discipline-associated Bloom-level cognitive engagement in student-AI conversations (Chang & Li 2026)
 - [[ai-assisted-inquiry-ssi-climate]] — AI-Assisted Inquiry in Socio-Scientific Issues on Climate Change
 - [[demir-akar-ai-media-literacy-children-2026]] — AI-based critical media literacy program for children

@@ -81,7 +81,6 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 ## Connected Articles
 
 - [[genai-student-experiences-uk-he-survey-2026]] — Student experiences of GenAI in UK higher education
-
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy (students and institutions)
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
 - [[ai-tpack-mathematics-teacher-education-2026]] — AI-TPACK readiness in mathematics teacher education
@@ -89,5 +88,4 @@ Identity is the human anchor of the stakeholder landscape: it is what AI must su
 - [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education
 - [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
-
 - [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)

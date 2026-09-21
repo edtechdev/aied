@@ -82,7 +82,6 @@ Language learning has emerged as a significant AI in education domain because la
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[ai-guided-learning-audiovideo-2026]]
-
 - [[ai-interlocutor-l2-spoken-dialogue]]
 - [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[self-referential-l2-writing-llm-assessment]]
@@ -95,11 +94,9 @@ Language learning has emerged as a significant AI in education domain because la
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[instructor-designed-ai-tutors-foreign-language-sdt-2026]] — Instructor-Designed AI Tutors in University Foreign Language Education: A Mixed-Methods Study of Learner Motivation and Reflective Learning Experience Based on Self-Determination Theory
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-
 - [[chatgpt-english-language-learning-malaysia]] — Students' ChatGPT experiences in English language learning
 - [[tts-dialogue-lessons-learner-characteristics-2026]] — Learner characteristics × TTS dialogue-format interactions
 - [[liu-emerging-tech-tefl-review-2026]] — Meta-analysis of emerging tech for EFL
-
 - [[wang-goal-setting-ai-engagement-2026]] — Goal-setting theory: teacher support, achievement goals, and engagement in AI-assisted English learning (758 Chinese students)
 - [[language-teachers-ai-literacy-edai-2026]] — Teachers' AI Literacy Scale (TAILS) psychometric study (ED-AI framework)
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI

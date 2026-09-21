@@ -78,7 +78,6 @@ The authors introduce **cognitive surrender** to describe students offloading th
 - [[metacognition]]
 - [[ai-misuse-learning-harm]]
 - [[reducing-ai-misuse]]
-
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[academic-integrity]]

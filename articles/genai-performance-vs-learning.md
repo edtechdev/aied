@@ -84,7 +84,6 @@ The distinction changes what a study has to measure, and the knowledge base alre
 - [[generative-ai]] — the technology under analysis
 - [[theory-development-aied]] — theory development in AI in education
 - [[research-methods-aied]] — the methodological conflation the piece diagnoses
-
 - [[cognitive-offloading]] — the displacement of internal cognitive effort
 - [[metacognition]] — the evaluative reflection generative AI may bypass
 - [[self-regulated-learning]] — the planning–monitoring–evaluating loop at risk

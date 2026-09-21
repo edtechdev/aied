@@ -54,7 +54,6 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[anxiety-and-stress]]
-
 - [[student-experience]]
 - [[social-emotional-learning]]
 - [[affective-computing]]
@@ -69,7 +68,6 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — The Relationship Between AI Anxiety and Academic Motivation
 - [[wu-psychological-adaptation-ai-japanese-learning-2026]] — Profiles and Transitions of Psychological Adaptation in AI-Assisted Japanese Language Learning
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — A Critical Narrative Synthesis of Conversational AI Engagement and Dependence
-
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
 - [[sec-ai-literacy-narrative-review-2026]] — Integrating Social-Emotional Competencies Into AI Literacy
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
@@ -78,8 +76,6 @@ Well-being connects to [[student-experience]] (as a dimension of learners' overa
 - [[ai-chatbot-collective-efficacy-collaborative-learning]] — AI Chatbots, Collective Efficacy, and Collaboration
 - [[sovereign-hive-titl-further-education-2026]]
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
-
-
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision oriented toward learner flourishing
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

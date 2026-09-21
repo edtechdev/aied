@@ -63,7 +63,6 @@ Special education is a domain where AI's capacity for personalization and adapta
 
 ## Connected Articles
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-
 - [[special-r1-rl-special-education]]
 - [[dyslexlens-dyslexic-learners-ai]]
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
@@ -72,6 +71,5 @@ Special education is a domain where AI's capacity for personalization and adapta
 - [[genai-minoritized-knowledges-disability]]
 - [[embodied-string-learning-blindness-low-vision-musicians]]
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

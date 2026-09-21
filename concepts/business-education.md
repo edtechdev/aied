@@ -67,13 +67,11 @@ Business is one of the fields where generative AI adoption is fastest, so busine
 
 ## Connected Articles
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE: agentic GAI support in an e-commerce course, perceived benefits and risks (Ilieva et al. 2026)
-
 - [[drummond-genai-business-schools-framework-2026]] — Student-informed framework for GenAI in business schools (Drummond & Dale 2026)
 - [[espino-ai-business-education-review-2026]] — A decade of AI in business education (Espino & Espino 2026)
 - [[zhou-constructive-alignment-genai-business-2026]] — Constructive alignment of GenAI in business higher education (Zhou et al. 2026)
 - [[rook-plumb-genai-curricula-student-insights-2026]] — Student insights on integrating GenAI into curricula (Rook & Plumb 2026)
 - [[alrahmi-org-drivers-ai-adoption-he-2026]] — Organizational drivers of AI adoption in higher education (Al-Rahmi 2026)
-
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[automated-scoring-marketing-posts-agreement-2026]] — Agreement and error in automated scoring of student marketing posts

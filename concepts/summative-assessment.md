@@ -73,7 +73,6 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[automated-online-exam-proctoring-decade-review-2026]]
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant summative assessment
-
 - [[ivory-psychology-assessment-integrity-2026]] — 90% of psychology assessments passable at minimum effort (Ivory et al. 2026)
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — The generative AI learning penalty: proctored/closed-book exam evidence
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation; homework-heavy courses (Chirikov 2026)
@@ -92,7 +91,6 @@ The knowledge base's assessment literature consistently emphasizes that [[assess
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: productive struggle and the illusion of learning
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks in EFL
 - [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]

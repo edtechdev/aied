@@ -66,7 +66,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[community-of-inquiry]] — Community of Inquiry (presences as human-GenAI sociotechnical accomplishments)
-
 - [[student-ai-interaction]]
 - [[generative-ai]]
 - [[ai-literacy]]
@@ -100,7 +99,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[tang-chatbots-learning-design-2026]] — Designers use an embedded chatbot for alignment checks on outcomes and pedagogy, not content generation
-
 - [[agent-voice-accents-k12-group-learning]]
 - [[chat-debugging-human-ai-collaboration-circuits]]
 - [[generativism-learning-theory]]
@@ -125,19 +123,15 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
 - [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
 - [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
 - [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
-
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
 - [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)

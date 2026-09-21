@@ -100,7 +100,6 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 ## Connected Articles
 - [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-
 - [[adhd-video-segmentation-computing-education]]
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM-powered question generation for Deaf and Hard of Hearing learners
 - [[text-simplification-its]] — Text Simplification for Intelligent Tutoring
@@ -118,7 +117,6 @@ Inclusive learning is deeply connected to [[equity-in-ai-education]] — accessi
 - [[bilingual-llm-lecture-companion-srl-2026]]
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[dabaghi-ai-dyslexia-education-review-2026]] — AI to help people with dyslexia in education
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education

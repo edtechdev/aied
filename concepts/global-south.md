@@ -69,7 +69,6 @@ The scaling record is part of that picture, and it is sobering. Programs that wo
 - [[genai-minoritized-knowledges-disability]] — Marginalization of minoritized knowledges
 - [[llm-cultural-relevance-k12]] — LLMs for Culturally Relevant K-12 Pedagogy
 - [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning

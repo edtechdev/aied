@@ -41,7 +41,6 @@ institutions: [educational-policy-ai]
 - [[human-ai-collaboration]]
 - [[professional-training]]
 - [[generative-ai]]
-
 - [[teacher-role]]
 - [[academic-integrity]]
 - [[higher-ed]]

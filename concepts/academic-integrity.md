@@ -136,7 +136,6 @@ The clearest disciplinary case for redesign over detection comes from computing 
 
 ## Connected Concepts
 - [[ai-use-disclosure]] — AI use and disclosure statements
-
 - [[assessment-validity]]
 - [[ai-literacy]]
 - [[ai-detection]]
@@ -216,16 +215,11 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[best-response-student-ai-dialog-2026]] — Mandernach 2026: from policing to dialog via learning verification
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-
 - [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? risk perceptions and ChatGPT usage
-
 - [[qu-wang-disclose-or-not-genai-2026]] — To disclose or not to disclose: peer influence and GenAI use
-
 - [[soft-barriers-copying-ai-programming-2026]] — Copy-paste resistance in AI-assisted programming
-
 - [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic erasure: the disappearance of complexity under AI-supported writing
-
 - [[jiang-genai-activity-theory-disciplines-2026]] — Disciplinary differences in GenAI disclosure
 - [[chan-rethinking-aigiarism-secondary-integrity-2026]] — Secondary students' ethical reasoning about AI-giarism (Chan 2026)
 - [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — GenAI and authentic assessment integrity (Kofinas et al. 2025)
@@ -234,7 +228,6 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[taylor-lacroix-purpose-before-policy-academic-integrity-2026]] — Purpose before policy: academic integrity and GenAI (Taylor & LaCroix 2026)
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — AI humanizers and the performance of legitimacy in assessment (Roe et al. 2026)
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
-
 - [[ethical-conditions-llm-exam-preparation-2026]] — Ethical conditions for LLM adoption in exam preparation (Pérez-Portabella et al. 2026)
 - [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)

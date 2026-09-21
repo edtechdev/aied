@@ -112,7 +112,6 @@ Theory-grounded training (see [[pedagogical-llm-training|ISD-Agent-Bench, EduQwe
 - [[pedagogical-llm-training]]
 - [[self-regulated-learning]]
 - [[sociocultural-learning]]
-
 - [[ai-ed-evaluation]]
 - [[ai-education]]
 - [[higher-ed]]

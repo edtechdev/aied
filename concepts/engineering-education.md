@@ -74,7 +74,6 @@ The knowledge base's engineering education coverage is still developing. Sub-are
 
 ## Connected Articles
 - [[mechanical-engineering-ai-curriculum-2026]] — Project-Based AI Education Curriculum in Thermal Engineering
-
 - [[pbl-biomedical-engineering-genai-2026]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[tam-critical-use-genai-engineering-2026]] — Extended TAM with critical use for engineering/CS students

@@ -98,7 +98,6 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (TPACK-related DBR)
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[rewriting-curriculum-genai-pedagogy-2026]] — Rewriting the curriculum: GenAI-driven pedagogical change
-
 - [[edurev-100741-tpack-genai-review]] — Integrating generative AI into student learning: A systematic review from a TPACK perspective
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK through teacher multi-agent workflows
 - [[ai-tpack-preservice-math-teachers]] — AI-TPACK readiness among pre-service mathematics teachers
@@ -113,7 +112,6 @@ TPACK is the organizing framework for the teacher-side of the knowledge base's e
 - [[genai-runaway-object-math-higher-ed]] — GenAI and mathematics in higher education
 - [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
 - [[riandi-teacher-ai-green-energy-education-2026]] — Teacher involvement in AI integration for green energy education (Riandi et al. 2026)
-
 - [[utility-value-intervention-teach-responsibly-genai-2026]] — Utility-value intervention effects in learning to teach responsibly with GenAI (Boos, Eder & Lachner 2026)
 - [[sutedjo-faculty-genai-tpack-21-2026]] — Faculty self-perceived TPACK-21 knowledge for GenAI in higher education (Sutedjo, Chowdhury & Liu 2026)
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)

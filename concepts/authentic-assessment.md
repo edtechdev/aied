@@ -72,7 +72,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 
 ## Connected Concepts
 - [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-
 - [[eportfolio]]
 - [[problem-based-learning]]
 - [[assessment]]
@@ -95,7 +94,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
-
 - [[benali-genai-academic-writing-2026]]
 - [[ying-genai-journalism-assessment-2026]]
 - [[pedlow-genai-selfassessment-2026]]
@@ -121,7 +119,6 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[chen-zou-genai-group-assessment-agency-2026]] — Authenticity criteria that led student groups to reduce GenAI use

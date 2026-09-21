@@ -105,7 +105,6 @@ The constructive question shifts from "how do we prevent students from using AI?
 
 ## Connected Articles
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
-
 - [[best-response-student-ai-dialog-2026]]
 - [[ai-tools-academic-work-cheating-2026]]
 - [[detecting-llm-generated-text-latent-prompt]] — EchoPrompt: Latent Prompt Restoration Detector

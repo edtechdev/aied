@@ -67,7 +67,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[academic-dishonesty-automated-proctoring-ai-2026]]
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
-
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
 - [[aaai2026-prompting-literacy-k12]] — Teaching Responsible Use of AI Chatbots to K-12 Students
@@ -78,7 +77,6 @@ The digital divide is a core concern of [[equity-in-ai-education]] research, clo
 - [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
 - [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
-
 - [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — ARC: rural robotics access follows mentorship geography, not device access (Jacobson et al. 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital inequality as distributive problem vs. algorithmic coloniality as epistemic one, in South African HDIs

@@ -57,7 +57,6 @@ Philosophy of AI in education and [[theory-development-aied|theory development i
 
 ## Connected Articles
 - [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
-
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: a philosophical framework for human–AI cognition
 - [[elsayed-pedagogical-symbiosis-posthuman-learner]] — Pedagogical Symbiosis and the Post-Human Learner
 - [[videla-embodied-ai-education-choreography]] — Embodied, post-cognitivist critique of disembodied AI in education
