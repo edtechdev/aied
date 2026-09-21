@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-21T04:56:34-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -44,6 +44,8 @@ The knowledge base's research converges on several interconnected dimensions:
 ## The competency gap
 
 A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[automated-assessment|calibrated self-assessment]].
+
+The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
 
 **The gap also shows up as non-participation.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] surveyed 1,057 US college faculty in late 2025 and found 26% do not use [[generative-ai|generative AI]] tools at all, with a third choosing not to use them for teaching and non-use concentrated in the arts and [[humanities-education|humanities]] (40%). The institutional side of the gap was larger than the individual one: 68% said their schools had not prepared faculty to use generative AI for teaching and mentoring, and faculty named colleagues' resistance (82%) and unfamiliarity (83%) as the leading obstacles to departmental adoption — a picture in which capability-building, peer norms and policy all have to move together.
 
@@ -107,6 +109,7 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
 - [[cdpk-pedagogy-benchmark-llms]] — Benchmarking LLM pedagogical knowledge (CDPK + SEND)
 - [[melo-llm-classroom-observation-teach-2026]] — LLM classroom observation for teacher professional development (Melo et al. 2026)
+- [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Generative AI across representations, decompositions and approximations: rehearsal, structured feedback and the accuracy cautions
 
 - [[edurev-100741-tpack-genai-review]] — Systematic review of GenAI in student learning from a TPACK perspective
 - [[genai-pd-ai-pck-learning-gain-2026]] — Efficacy of an intensive GenAI professional development program
@@ -143,3 +146,4 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — Six-week faculty institute from fear to ethical integration, symbiotic pedagogy and AIPACK (Chick, Morello & Staffey 2026)
+- [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation

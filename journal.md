@@ -1,6 +1,11 @@
 # Journal
 
-Last updated: 2026-09-20 | Total entries: 1560
+Last updated: 2026-09-21 | Total entries: 1563
+
+## 2026-09-21
+- 📄 [[ai-integration-instructional-design-collaboratory-2026]] — AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation
+- 📄 [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
+- 📄 [[tang-chatbots-learning-design-2026]] — Investigating the Role of Chatbots in Facilitating Learning Design
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
