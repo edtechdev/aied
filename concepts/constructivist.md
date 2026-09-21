@@ -148,5 +148,4 @@ Constructivism also shapes how AI literacy itself is taught. If knowledge is con
 - [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
 - [[educational-robotics-pathways-2026]] — Pathways to Learning AI-Powered Educational Robotics (2026)
 - [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)

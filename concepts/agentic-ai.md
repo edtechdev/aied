@@ -1,7 +1,7 @@
 ---
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-09-19T04:50:00-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -161,77 +161,52 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[prompt-engineering]]
 - [[curriculum-design]]
 - [[metacognition]]
-- [[rag]]
-- [[student-experience]]
 - [[adaptive-learning]]
 - [[educational-development]]
 - [[human-in-the-loop-ai]]
-- [[human-ai-collaboration]]
 - [[agency]]
 - [[cognitive-offloading]]
 - [[desirable-difficulties]]
 - [[sociocultural-learning]]
-- [[ai-ed-evaluation]]
-- [[benchmark]]
 - [[simulation]]
 - [[pedagogical-safety]]
 - [[ai-education]]
-- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, [[pedagogical-llm-training|LLM training]], robotics, RAG, agentic)
 - [[equity-in-ai-education]]
 - [[authentic-assessment]]
 - [[teacher-role]]
 - [[learning-design]]
 - [[teacher-ai-competency]]
 - [[academic-integrity]]
-- [[ai-use-disclosure]]
 - [[online-teaching-and-learning]]
 - [[educational-policy-ai]]
 
 ## Connected Articles
 
-[[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
 - [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
 - [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]]
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
 - [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
 - [[ai-agents-constructive-conflict-design-education-2026]] — Constructive conflict AI agents in design education
-- [[ai-adoption-training-public-sector]] — AI adoption and training in the public sector
-- [[ai-enabled-serious-games]] — AI-enabled serious games
 - [[ai-tpack-teacher-multi-agent-workflow]] — Teacher TPACK and multi-agent workflows
-- [[antiskillbench-persona-skills-privacy-2026]] — Persona skills and privacy benchmarking
-- [[ase-26-agentic-software-engineering-curriculum]] — Agentic software engineering curriculum
 - [[code-gen]] — Code generation agents
-- [[deeptutor]] — DeepTutor
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — Pedagogical LLM agent benchmark
 - [[guided-llm-scaffolding-independent-learning]] — Guided LLM scaffolding for independent learning
 - [[learnmate2-llm-adaptive-learning]] — LearnMate-2 adaptive learning agents
-- [[pchl-he-framework-genai-content-creation-2026]] — GenAI content creation framework in higher ed
 - [[cyberagents-gamified-cybersecurity-learning-2026]] — Gamified cybersecurity learning agents
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]] — Agentic AI in clinical simulation
-- [[educasim-cs1-instructional-practice]] — EducaSim: generative agents simulate a CS1 section
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[bozkurt-ghost-students-agentic-ai-2026]] — Ghost students and the agentic-AI verification gap (Bozkurt et al. 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; validity failure via the human-production assumption (Hadjisolomou & El-Haddad 2026)
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: a describing agent as a learning-experience evaluator (predicts dropout, gives design feedback before students engage)
 - [[spec-driven-development-ai-agents-sdpbl-2026]] - SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[llm-qualitative-coding-consensus-2026]] — How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding

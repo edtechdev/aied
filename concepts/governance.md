@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-21T08:08:32-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -109,14 +109,11 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[ai-literacy-sdg-governance-framework-2026]] — AI literacy as a governance capacity for sustainable development: the AIRE Taxonomy and AI–SDG Nexus (Islam, Morshed & Islam 2026)
 - [[tan-aigem-ai-educational-management-2026]] — AIGEM framework for AI governance in educational management
 - [[institutional-ai-policy-health-informatics-2026]] — AI policy and guidance documents across 48 CAHIIM-accredited health informatics programs: governance as non-binding, integrity-centric guidance (Eldredge et al. 2026)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
 - [[gonsalves-student-non-compliance-ai-declarations-2025]] — Student non-compliance with AI use declarations
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
-- [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
@@ -125,36 +122,17 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[wright-transcription-not-generation-2026]] — Over-inclusive "AI" prohibitions, format conversion and the reasonable-adjustment problem (Wright 2026)
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as evidence: uneven governance, the duty to understand and the diagnostic value of non-use (Zagami 2026)
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
-- [[adarkwah-genai-unesco-policy-2026]]
-- [[enright-staff-perspectives-genai-2026]]
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[ai-distance-education-systematic-review-2026]]
-- [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[leveraging-complex-systems-leading-for-transformative-change]] — SPARK: Leading for Transformative Change
 - [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' Engagement With GenAI (SDT)
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026
-- [[stanford-evidence-base-ai-k12-2026]] — The Stanford Evidence Base for AI in K-12
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Authentic Assessment Redesign
-- [[ethical-ai-higher-ed-game-theory]] — Ethical AI in Higher Education
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[genai-declaration-frameworks-higher-education]] — AI declaration frameworks
 - [[genai-assessment-governance]] — Assessment governance under GenAI
 - [[ai-uk-higher-education-policy-2026]] — AI in UK higher-education policy
 - [[raza-farooq-aied-review-2020-2025]] — Comprehensive review of AIED research
-- [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
 - [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — Value-critical approach to sustainable education and AI (Alsuhami & Atallah 2026)
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
-- [[ai-adoption-readiness-ukraine-education-managers-2026]] — AI adoption readiness among Ukrainian education managers: barriers, typologies, policy

@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T11:27:36-04:00"
+updated: "2026-09-21T13:25:29-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -147,25 +147,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[intelligent-tutoring]] — systems that scaffold SRL
 - [[llm]] — the underlying model of AI tools
 - [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[metacognition]] — the cognitive monitoring SRL relies on
-- [[self-efficacy]] — a forethought-phase belief driving effort
-- [[scaffolding]] — graduated support that preserves regulatory demand
-- [[feedback]] — input learners regulate around
-- [[feedback-literacy]] — the capacity to act on feedback
-- [[help-seeking]] — a strategic SRL behavior
-- [[motivation]] — the reciprocal partner of self-regulation
-- [[cognitive-offloading]] — the risk when AI removes regulatory work
-- [[generative-ai]] — the technology that can scaffold or short-circuit SRL
-- [[ai-literacy]] — regulatory competence in AI use
-- [[self-directed-learning]] — the broader autonomy construct
-- [[agency]] — the learner's capacity to act with intention, central to regulation, integration, and positioning
-- [[adaptive-learning]] — personalization that can support regulation
-- [[formative-assessment]] — continuous feedback for regulation
-- [[learning-by-teaching]] — a strategy building self-regulation
-- [[intelligent-tutoring]] — systems that scaffold SRL
-- [[llm]] — the underlying model of AI tools
-- [[retrieval-spacing-interleaving]] — scheduling, self-testing and study-strategy choices learners make
 - [[cognitive-surrender]]
 
 ## Connected Articles
@@ -173,13 +154,8 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[aigc-affordance-student-self-regulation-2026]] — AIGC Affordance and Student Self-Regulation
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — AI-interaction literacy: steering a chatbot demanded the SRL it was meant to support (Brunnström & Palmqvist 2026)
 - [[5p-reflection-model-genai-2026]] — The 5P reflection model for the GenAI era (Kadel et al. 2026)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[refrain-amplify-genai-curriculum-2026]] — Refrain-then-amplify curriculum framework for sequencing GenAI (Torres-Sahli et al. 2026)
-- [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
 - [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
@@ -196,7 +172,6 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Mixed evidence on metacognition/self-regulation with GenAI
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and the self-regulation tension
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner in co-regulated learning
-- [[ai-learning-assistants-higher-ed-large-scale]] — AI learning assistants in higher ed at scale
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — Student motivation and need satisfaction in GenAI classrooms (Schweder, Hagenauer & Raufelder 2026)
 - [[decreasing-digital-distraction-college-online-learning-2026]] — SRL and lower digital distraction in online learning (Shi et al. 2026)

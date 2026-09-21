@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T08:08:16-04:00"
+updated: "2026-09-21T13:25:53-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -114,38 +114,16 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Take-home exams: assess the qualitative phase, move recall in-class (Brunnström & Palmqvist 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[varia-construct-equivalent-assessment-variant-generation-2026]] — Construct-equivalent assessment variant generation (Lee 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[gpt-item-generation-l2-listening-2026]] — Prompting vs. fine-tuning for GPT-based L2 listening item generation (Aryadoust & Wong 2026)
-- [[item-writing-flaws-irt-difficulty-2026]] — Impact of item-writing flaws on IRT difficulty and discrimination (Schmucker & Moore 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[ai-agents-complete-lms-assessment-validity-2026]] — AI agents completing LMS tasks; human-production assumption & agentic validity (Hadjisolomou & El-Haddad 2026)
 - [[semantic-variability-llm-conversation-assessment-2026]]
-- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]]
 - [[assessment-latent-structure-human-llm-2026]] — Do assessment instruments measure the same thing for humans and LLMs? (Strugatski et al. 2026)
 - [[multimodal-embodied-cognition-oral-explanations-2026]] — A Multimodal Framework for Embodied Cognition in Oral Explanations
-- [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[melo-llm-classroom-observation-teach-2026]] — Validating LLM-based classroom observation against expert ratings (Melo et al. 2026)
-- [[competency-based-education-genai-production-2026]]
 - [[genai-performance-vs-learning]]
 - [[ai-scoring-language-bias-physics]]
-- [[ai-assessment-scale-reform]]
-- [[beyond-detection-authentic-assessment-ai-2025]]
-- [[confidence-aware-student-drawing-assessment]]
-- [[cong-confidence-asag-2026]]
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[end-of-assessment-ai-disruption-transformation-2026]]
 - [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
-- [[zhang-ct-ai-training-test-2026]] — Computational Thinking in AI Training Test (CTAT)
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
-- [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[xiong-ai-educational-measurement-review-2026]] — Construct validity as a central challenge
-- [[questionnaire-teachers-genai-uses-validation-2026]] — Questionnaire on teachers' uses of generative AI (Pérez-Montesdeoca et al. 2026)
 - [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
@@ -158,6 +136,3 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy 0.69 and 0.61 on 192 texts; hybrid-writing failure and EFL misclassification risk (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive prohibitions: transcription is not generation, so the rule sanctions what it was not designed to catch (Wright 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: reliability evidence for LLM scoring of divergent-thinking responses
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — The AI literacy measurement landscape: construct comparability and validity across instruments
-- [[gpt4-handwritten-math-exam-grading-2026]] — accuracy and agreement statistics that fall short of high-stakes thresholds

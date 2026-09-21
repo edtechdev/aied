@@ -1,11 +1,15 @@
 # Journal
 
-Last updated: 2026-09-21 | Total entries: 1573
+Last updated: 2026-09-21 | Total entries: 1577
 
 ## 2026-09-21
+- 📄 [[adaptive-ai-model-teacher-educators-2025]] — Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model
 - 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education
 - 📄 [[ai-integration-instructional-design-collaboratory-2026]] — AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation
+- 📄 [[ai-literacy-correlates-affective-behavioral-cognitive-2025]] — How AI literacy correlates with affective, behavioral, cognitive and contextual variables: A systematic review
+- 📄 [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Development of an AI literacy self-assessment questionnaire in upper primary school students
 - 📄 [[ai-refusal-higher-education-diagnostic-non-use-2026]] — AI refusal in higher education: the right to refuse, the duty to understand and the diagnostic value of non-use
+- 📄 [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Assessing teachers' AI literacy: a systematic review of measurement tools
 - 📄 [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
 - 📄 [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
 - 📄 [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education

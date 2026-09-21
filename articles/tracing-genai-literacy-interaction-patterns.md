@@ -53,7 +53,8 @@ A total of 162 university students (M_age = 20.1) participated in a GenAI-assist
 - [[metacognition]]
 - [[agentic-ai]]
 - [[learning-analytics]]
-- [[writing-education]]- [[network-analysis]]
+- [[writing-education]]
+- [[network-analysis]]
 - [[self-report-measures]]
 
 ## Connected Articles

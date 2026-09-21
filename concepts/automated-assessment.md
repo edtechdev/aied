@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-21T13:08:36-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -139,48 +139,21 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
 - [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[omniphys-multimodal-physics-benchmark-2026]]
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[zhang-races-consistent-essay-scoring-llms-2026]] — RACES: reward-aligned consistent essay scoring with LLMs
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[genai-oop-programming-assessments-2026]] — GenAI performance on authentic introductory OOP assessments (Lepp & Kaimre 2026)
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the quality of AI-generated exams: a large-scale field study
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
-- [[melo-llm-classroom-observation-teach-2026]] — Validating LLM automated classroom observation (Melo et al. 2026)
-- [[learner-centered-feedback-ai]] — AI learner-centered feedback: teachers' practices and perceptions (PolyFeed)
-- [[competency-based-education-genai-production-2026]] — Competency-based education and GenAI
-- [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[multimodal-item-parameter-estimation-2026]] — Multimodal item parameter estimation
 - [[automated-formative-assessments-a-level-sciences]] — Automated formative assessments in A-level sciences
 - [[cong-confidence-asag-2026]] — Confidence-aware automatic short-answer grading
 - [[ai-scoring-language-bias-physics]] — AI scoring language bias in physics
 - [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
-- [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
 - [[choi-anchor-aes-prompting-2025]] — Anchor-based automated essay scoring prompting
 - [[cotal-formative-assessment-scoring-2026]] — CoTAL formative assessment scoring
 - [[automated-grading-linux-bash-examinations-large-language-models]] — Automated grading of Linux Bash exams with LLMs
 - [[confidence-aware-student-drawing-assessment]] — Confidence-aware assessment of student-drawn figures
-- [[psyscore-essay-scoring-zpd-feedback]] — Psychometrically-aware trait-adaptive essay scoring
-- [[learning-to-prompt-adaptive-tutoring]] — Adaptive prompting in tutoring
-- [[code-anchor-multi-view-visualization]] — Code-anchor multi-view visualization
-- [[llm-psychometric-calibration-cdp]] — LLM psychometric calibration
-- [[llm-item-difficulty-prediction]] — LLM item-difficulty prediction
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: automatic evaluation of generated math diagrams
-- [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: bias in automated writing feedback
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for rubric-based teaching quality assessment
-- [[end-of-assessment-ai-disruption-transformation-2026]]
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]]
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[multimodal-exam-obe-rubrics-2026]] — Multimodal exam dataset with OBE rubrics
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: assessment automation is a leading AI use case, mostly at SAMR Substitution/Augmentation
 - [[auto-marking-short-answer-science-2026]]
 - [[pecuchova-automated-grading-open-ended-genai-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
@@ -191,5 +164,4 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
-- [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: three reliability upgrades for LLM-based scoring of open-ended responses
 - [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking

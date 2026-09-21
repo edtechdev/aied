@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-21T13:25:08-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -141,12 +141,8 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
-- [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
-- [[banihashem-ai-srl-systematic-mapping-review-2025]]
 - [[mishra-control-vs-agency-history-2025]] — Traces ITS lineage from 1960s-70s expert systems to cognitive tutors
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
 - [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
@@ -160,37 +156,14 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[stanford-evidence-base-ai-k12-2026]] — Tutoring-specific vs. general-purpose AI: evidence on durable learning outcomes
 - [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors and pedagogical safety
 - [[kar-mathbuddy-affective-math-tutoring-2025]] — MathBuddy affective math tutoring
-- [[chudziak-ai-math-tutoring-platform]] — Multi-agent AI math tutoring platform (Chudziak & Kostka 2025)
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[learnlm-improving-gemini-learning]] — LearnLM: improving Gemini for learning
 - [[teachlm-post-training-llms-education]] — TeachLM: post-training LLMs with authentic learning data
-- [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[tact-pedagogically-adaptive-esl-tutoring]] — TACT pedagogically adaptive ESL tutoring
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[ai-pedagogical-accompaniment-amico]] — AI pedagogical accompaniment (AMICO)
-- [[ai-metacognition-stem-review]] — AI and metacognition in STEM
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Meta-analytic evidence on AI tutoring (~0.12 sd)
-- [[liu-emerging-tech-tefl-review-2026]] — ITS among EFL emerging technologies
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[simulation-assisted-drone-learning-stem-2026]] — Simulation-assisted drone learning with teacher-AI co-designed scaffolds
-- [[studentsim-llm-student-simulators]] — StudentSim: Training LLM-based Student Simulators
-- [[socratic-nuclear-ai-learning]] — Socrates went Nuclear: Comparing Interaction Strategies for AI in Learning
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[reddig-maclellan-personalized-feedback-llm-2026]]
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[riedmann-reinforcement-learning-education-review-2026]]
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
-- [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
-- [[lftutor-logical-fallacy-education-2026]] — an LLM tutor for logical fallacies with verified intent-based strategy execution
-- [[caeai-ai-companions-learning-over-performance-2026]] — a design agenda for companions that prioritize learning over performance signals
 - [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving

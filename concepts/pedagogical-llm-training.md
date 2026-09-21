@@ -138,7 +138,8 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[authentic-assessment]]
 - [[ai-sycophancy]]
 - [[ai-feedback-quality]]
-- [[bias-mitigation]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[bias-mitigation]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 
@@ -155,7 +156,8 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[nsmq-riddles-science-math-benchmark]]
 - [[singh-eduqwen-pedagogical-rl-2026]]
 - [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks
-- [[tact-pedagogically-adaptive-esl-tutoring]]- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
+- [[tact-pedagogically-adaptive-esl-tutoring]]
+- [[learnlm-improving-gemini-learning]] — LearnLM: Improving Gemini for Learning
 - [[teachlm-post-training-llms-education]] — TeachLM: Post-Training LLMs for Education Using Authentic Learning Data
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[reddig-maclellan-personalized-feedback-llm-2026]]

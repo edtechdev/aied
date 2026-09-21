@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-09-17T14:16:00-04:00"
+updated: "2026-09-21T13:04:27-04:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
@@ -107,10 +107,6 @@ These underrepresented disciplines would benefit from dedicated concept pages an
 - [[humanities-education]]
 - [[k-12]]
 - [[higher-ed]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[assessment]]
 - [[equity-in-ai-education]]
 - [[arts-design-and-media-education]]
 - [[design-education]]

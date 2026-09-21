@@ -74,7 +74,8 @@ The authors are explicit that next-turn response quality is not the same as long
 - [[scaffolding]]
 - [[intelligent-tutoring]]
 - [[pedagogical-llm-training]]
-- [[pedagogical-safety]]- [[english-education]]
+- [[pedagogical-safety]]
+- [[english-education]]
 
 ## Connected Articles
 

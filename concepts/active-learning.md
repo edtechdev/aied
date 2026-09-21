@@ -83,7 +83,8 @@ Active learning is one of the strongest levers on [[learning-gains|learning gain
 - [[embodied-learning]]
 - [[simulation]]
 - [[game-based-learning]]
-- [[help-seeking]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[help-seeking]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[espino-ai-business-education-review-2026]]

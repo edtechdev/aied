@@ -1,7 +1,7 @@
 ---
 title: AI Sycophancy
 created: "2026-08-18T16:45:00-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-21T13:04:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [affective-computing, generative-ai, llm]
@@ -71,35 +71,12 @@ Sycophancy is tightly coupled to [[cognitive-offloading]] and [[llm-fallacy-misa
 - [[ai-literacy]]
 - [[bias-mitigation]]
 - [[hallucination-risk]]
-- [[reducing-ai-misuse]]
 - [[pedagogical-llm-training]]
 - [[simulating-students]]
 - [[student-modeling]]
 - [[misconceptions]]
 - [[collaborative-learning]]
 - [[benchmark]]
-- [[guardrails]]
-- [[generative-ai]]
-- [[pedagogical-safety]]
-- [[cognitive-offloading]]
-- [[feedback]]
-- [[ai-feedback-quality]]
-- [[trust]]
-- [[trust-calibration]]
-- [[ethics]]
-- [[affective-computing]]
-- [[social-emotional-learning]]
-- [[ai-literacy]]
-- [[bias-mitigation]]
-- [[hallucination-risk]]
-- [[reducing-ai-misuse]]
-- [[pedagogical-llm-training]]
-- [[simulating-students]]
-- [[student-modeling]]
-- [[misconceptions]]
-- [[collaborative-learning]]
-- [[benchmark]]
-- [[cognitive-surrender]]
 
 ## Connected Articles
 

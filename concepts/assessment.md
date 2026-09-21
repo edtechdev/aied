@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-21T13:08:36-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -99,49 +99,21 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[peer-assessment]]
 ## Connected Articles
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
-- [[ivory-psychology-assessment-integrity-2026]] — Program-wide AI susceptibility of psychology assessments (Ivory et al. 2026)
 - [[mccorkle-aligned-genai-course-policy-2025]] — Task-level AI permissions derived from what is assessed (McCorkle 2025)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[usher-faraon-who-grades-best-2026]] — Comparing ChatGPT, peer, and instructor grading across project quality levels (Usher & Faraon 2026)
-- [[biology-degree-integrity-genai-cheating-2026]] — Can students cheat their way to a biology degree? A case study of the vulnerability of biology course grades to academic dishonesty in the era of generative AI
-- [[semantic-variability-llm-conversation-assessment-2026]]
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
 - [[responsible-assessment-ai-era-stanford-2026]] — Responsible assessment in the AI era
 - [[beyond-detection-authentic-assessment-ai-2025]] — Beyond detection: authentic assessment
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship integrity and assessment validity
 - [[competency-based-education-genai-production-2026]] — Competency-based education after generative AI
 - [[genai-assessment-governance]] — Evidence-centered governance of generative AI in assessment
-- [[llm-difficulty-calibration-programming-exams-2026]] — LLM-based difficulty calibration for programming exams
-- [[ai-literacy-assessment-misalignment]] — AI literacy and assessment misalignment
-- [[hybrid-e-assessment-semi-automated-grading]] — Hybrid e-assessment and semi-automated grading
-- [[cotal-formative-assessment-scoring-2026]] — Formative assessment scoring
 - [[cong-confidence-asag-2026]] — Automatic short-answer grading
-- [[ai-assessment-scale-reform]] — AI assessment scale reform
-- [[ithaka-sr-ai-skills-college-graduates-2026]] — Lack of shared AI-skills assessment frameworks in higher education
 - [[ssaho-ai-academic-integrity-review-2025]] — AI integrity review: detection must pair with assessment redesign
-- [[young-people-learning-generative-ai-rapid-review-2026]] — Evaluate learning beyond immediate GenAI-supported performance
-- [[generative-ai-reduced-study-time-math]] — Proctored, unassisted measures essential; non-proctored inflated by AI
 - [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering oral exams as authentic, AI-resistant assessment
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based assessment
-- [[end-of-assessment-ai-disruption-transformation-2026]] — End of assessment: AI disruption and transformation of assessment
-- [[can-ai-evaluate-assessment-llm-meta-assessment-2026]] — Can AI evaluate assessment? LLM meta-assessment
 - [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[aivaluate-anxiety-assessment-2026]] — AIvaluate: LLM-Augmented Assessment of Student Anxiety (2026)
 - [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
 - [[asynchronous-oral-assessment-2026]] — Asynchronous Oral Assessments in the AI Era (Pentland 2026)
-- [[harmogen-ai-assessment-rubric-generation]] — HARMOGEN-R: AI assessment rubric generation
-- [[irt-human-genai-mcq-responses]] — Using IRT to separate human and GenAI MCQ responses
 - [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
-- [[ai-writes-code-student-writes-model-2026]] — Model authorship: theory & measurement for learning-by-construction with GenAI
-- [[code-to-learn-genai-artifact-construction-2026]] — CtL-GenAI: constructionism framework for artifact construction
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment design with AI
-- [[nicola-richmond-programwide-assessment-genai-2025]] — Program-wide assessment redesign for generative AI
-- [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
-- [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
-- [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
-- [[astor-computational-thinking-meta-review-2026]] — Assessment as one of five dominant CT themes
 - [[xiong-ai-educational-measurement-review-2026]] — AI reshaping assessment practice
 - [[walton-bearman-assessment-judgment-2025]] — Judgment in students' work with GenAI on assessment tasks (26 students, scroll-back)
 - [[stamatoulis-genai-use-patterns-2026]] — Patterns of GenAI use (evaluative integration vs low-verification uptake) and outcomes
@@ -151,8 +123,3 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
-- [[human-capability-test-learning-outcomes-ai-2026]] — A human capability test for learning outcomes in the AI era (Saleh 2026)
-- [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
-- [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
-- [[gpt4-handwritten-math-exam-grading-2026]] — AI grading of semi-open handwritten answers
-- [[llm-distractor-generation-student-reasoning-2026]] — misconception-based distractor design for multiple-choice items
