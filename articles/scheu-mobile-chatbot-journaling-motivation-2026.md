@@ -5,7 +5,6 @@ updated: "2026-09-20T06:30:22-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning, student-engagement]
 technology: [generative-ai, llm]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

@@ -10,7 +10,7 @@ methods: [qualitative-research]
 ethics: [ethics, privacy]
 confidence: medium
 research_method: [interviews]
-audience: [teacher educators, curriculum designers]
+audience: [faculty developers, curriculum designers]
 level: [teacher education]
 ---
 

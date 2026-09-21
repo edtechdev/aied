@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, learning-analytics, llm]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/2606.29442.md']

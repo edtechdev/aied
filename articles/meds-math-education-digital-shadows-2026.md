@@ -8,11 +8,10 @@ pedagogy: [anxiety-and-stress, cognitive-psychology, problem-solving, self-effic
 technology: [llm, simulation, simulating-students, student-modeling, generative-ai, learning-analytics, affective-computing, prompt-engineering]
 assessment: [assessment, self-report-measures, psychometrically-aware-ai, educational-measurement, learning-gains]
 methods: [benchmark, quantitative-research]
-stakeholders: [learners, student-experience, educational-technology-developers]
 ethics: [bias-mitigation, trust-calibration, hallucination-risk]
 discipline: [math education, stem education]
 level: [k 12, higher ed]
-audience: [researchers, instructors, edtech designers, learning analytics designers]
+audience: [researchers, instructors, instructional designers, learning analytics designers, learners, educational technology developers]
 page_kind: [evaluation]
 sources: ['raw/papers/meds-math-education-digital-shadows-2026.md']
 confidence: high

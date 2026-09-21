@@ -2,8 +2,8 @@
 """Validate the typed facet fields on every page.
 
 Until 2026-09-17 each page carried a `tags:` list of concept slugs, and the facet
-fields (`foundations`, `pedagogy`, `technology`, `assessment`, `stakeholders`,
-`ethics`) were derived from it by looking up which section of
+fields (`foundations`, `pedagogy`, `technology`, `assessment`, `methods`,
+`institutions`, `ethics`) were derived from it by looking up which section of
 `concepts.registry.yaml` each tag belonged to. That derivation was mechanical but
 one-directional: the tag list was the authoring surface and the facets a projection
 of it.

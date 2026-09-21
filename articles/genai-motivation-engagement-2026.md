@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
 technology: [generative-ai, personalized-learning]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

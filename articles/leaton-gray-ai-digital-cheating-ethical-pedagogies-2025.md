@@ -7,12 +7,11 @@ foundations: [academic-integrity, reducing-ai-misuse, framing-ai-use-for-student
 pedagogy: [critical-pedagogy, motivation, self-efficacy, self-determination-theory]
 technology: [generative-ai, llm]
 assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment]
-stakeholders: [student-experience, learners]
 institutions: [educational-policy-ai, governance]
 ethics: [ethics, trust, ai-misuse-learning-harm]
 research_method: [theoretical analysis]
 level: [higher ed]
-audience: [instructors, administrators, researchers]
+audience: [instructors, administrators, researchers, learners]
 sources: ['raw/papers/leaton-gray-ai-digital-cheating-ethical-pedagogies-2025.md']
 confidence: high
 ---

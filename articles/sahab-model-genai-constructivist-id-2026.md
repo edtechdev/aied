@@ -3,11 +3,10 @@ title: "Evaluating the Effectiveness of Generative Artificial Intelligence in Em
 created: "2026-08-25T09:52:34-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article
-foundations: [cognitive-offloading, learning-design, teacher-role]
+foundations: [cognitive-offloading, learning-design, teacher-role, teacher-ai-competency]
 pedagogy: [constructivist]
 technology: [generative-ai]
 methods: [mixed-methods-research]
-stakeholders: [teacher-ai-competency]
 research_method: [quasi-experiment]
 audience: [instructors]
 sources: ['raw/papers/sahab-model-genai-constructivist-id-2026.md']

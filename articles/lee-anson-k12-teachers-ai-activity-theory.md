@@ -6,7 +6,6 @@ type: article
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied]
 technology: [generative-ai]
-stakeholders: [student-experience]
 audience: [instructors, learners]
 level: [k 12]
 sources: ['raw/papers/lee-anson-k12-teachers-ai-activity-theory.md']

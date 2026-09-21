@@ -10,7 +10,7 @@ assessment: [assessment, educational-measurement, group-work]
 sources: ['raw/papers/durable-skills-measurement-ai-teammates-2026.md']
 confidence: high
 research_method: [experiment, user study]
-audience: [assessment designers, researchers, edtech designers]
+audience: [assessment designers, researchers, instructional designers]
 level: [higher ed, secondary]
 methods: [ai-ed-evaluation, quantitative-research]
 ---

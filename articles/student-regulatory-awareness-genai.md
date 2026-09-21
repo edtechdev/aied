@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 methods: [quantitative-research]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

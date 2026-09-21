@@ -3,10 +3,9 @@ title: "When faculty ask, 'what's the point of teaching?': GenAI as identity cri
 created: "2026-08-15T07:40:37-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
-foundations: [academic-integrity, ai-literacy, educational-development, teacher-role]
+foundations: [academic-integrity, ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [learning-theories]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 research_method: [theoretical analysis]
 audience: [faculty developers, instructors]

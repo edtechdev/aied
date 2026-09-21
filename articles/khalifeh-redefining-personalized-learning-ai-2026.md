@@ -7,7 +7,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-an
 assessment: [item-response-theory]
 sources: ['raw/papers/khalifeh-redefining-personalized-learning-ai-2026.md']
 confidence: high
-audience: [researchers, designers]
+audience: [researchers, instructional designers]
 page_kind: [framework, synthesis]
 methods: [meta-analysis-systematic-review]
 ---

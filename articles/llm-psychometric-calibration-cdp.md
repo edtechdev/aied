@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [adaptive-learning, knowledge-tracing, llm, personalized-learning]
 assessment: [formative-assessment]
-stakeholders: [student-experience]
 audience: [researchers, software developers]
 level: [higher ed]
 sources: ['raw/papers/2607.26317.md']

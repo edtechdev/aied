@@ -9,7 +9,7 @@ connected_faqs: [ai-guidance-children-under-13, course-ai-policy]
 research_method: [case study]
 discipline: [english education, writing education]
 level: [secondary, teacher education]
-audience: [teacher educators, instructors, researchers]
+audience: [faculty developers, instructors, researchers]
 sources: ['raw/papers/nash-preservice-teachers-classroom-ai-policies-2026.md']
 confidence: high
 methods: [qualitative-research]

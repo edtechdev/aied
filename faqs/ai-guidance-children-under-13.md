@@ -7,10 +7,9 @@ type: faq
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
 methods: [meta-analysis-systematic-review]
-stakeholders: [parents-and-families]
 ethics: [privacy, pedagogical-safety]
 research_method: [literature review, experiment]
-audience: [teachers, instructors, administrators, policymakers]
+audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 ---

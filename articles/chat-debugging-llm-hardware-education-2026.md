@@ -5,7 +5,6 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [llm]
-stakeholders: [student-experience]
 research_method: [system development]
 discipline: [cs education, stem education]
 audience: [learners]

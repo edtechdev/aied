@@ -8,7 +8,7 @@ technology: [generative-ai]
 level: [higher ed, teacher education]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
-audience: [teacher educators, instructors, instructional designers]
+audience: [faculty developers, instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 

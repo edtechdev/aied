@@ -10,7 +10,7 @@ ethics: [trust]
 sources: ['raw/papers/vahedian-children-attitudes-ai-chatbot-2026.md']
 confidence: high
 research_method: [thematic analysis]
-audience: [designers, instructors, researchers]
+audience: [instructional designers, instructors, researchers]
 level: [primary education, k 12]
 ---
 

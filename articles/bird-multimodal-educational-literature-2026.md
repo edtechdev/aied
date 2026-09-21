@@ -10,7 +10,7 @@ sources: ['raw/papers/bird-multimodal-educational-literature-2026.md']
 confidence: high
 research_method: [system development]
 discipline: [english education]
-audience: [instructors, edtech designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [k 12, secondary]
 page_kind: [evaluation]
 ---

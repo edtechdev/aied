@@ -6,7 +6,7 @@ type: article
 foundations: [agentic-ai, learning-design]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm, simulating-students, student-modeling]
-audience: [instructors, learning designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 sources: ['raw/papers/ai-web-agents-lesson-design-2025.md']
 confidence: high

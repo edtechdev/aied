@@ -6,7 +6,6 @@ type: article
 pedagogy: [scaffolding]
 technology: [llm]
 assessment: [feedback]
-stakeholders: [student-experience]
 research_method: [experiment]
 discipline: [stem education]
 audience: [learners]

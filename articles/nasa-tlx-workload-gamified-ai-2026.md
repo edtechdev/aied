@@ -6,7 +6,6 @@ type: article
 foundations: [learning-design]
 pedagogy: [game-based-learning, motivation, self-regulated-learning]
 technology: [learning-analytics]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

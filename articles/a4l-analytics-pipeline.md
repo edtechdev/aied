@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [learning-analytics, llm, personalized-learning, edtech-platform]
 assessment: [feedback]
-stakeholders: [student-experience]
 research_method: [system development, case study]
 audience: [instructors, researchers, software developers]
 level: [higher ed]

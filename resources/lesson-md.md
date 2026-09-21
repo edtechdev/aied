@@ -10,12 +10,11 @@ author_url: https://lxdintegral.com/
 foundations: [learning-design]
 pedagogy: [online-teaching-and-learning]
 technology: [open-source, multimodal]
-stakeholders: [educational-technology-developers]
 resource_type: [open format or specification, agent skill]
 access: [free]
 last_verified: "2026-09-20"
 level: [higher ed]
-audience: [instructional designers, curriculum designers, edtech designers, software developers]
+audience: [instructional designers, curriculum designers, software developers, educational technology developers]
 confidence: high
 connected_resources: [id-toolbox]
 ---

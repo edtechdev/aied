@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [llm, learning-analytics]
-stakeholders: [student-experience]
 research_method: [process-outcome modeling]
 discipline: [stem education, math education]
 audience: [learners]

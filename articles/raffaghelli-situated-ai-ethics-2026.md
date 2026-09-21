@@ -3,15 +3,14 @@ title: "Situated AI ethics: a cultural-historical and ecological framework for e
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-09-19T12:04:28-04:00"
 type: article
-foundations: [ai-education]
+foundations: [ai-education, teacher-ai-competency]
 pedagogy: [learning-theories]
-stakeholders: [teacher-ai-competency]
 ethics: [equity-in-ai-education, ethics]
 research_method: [theoretical analysis, case study]
 level: [higher ed]
 sources: ['raw/papers/raffaghelli-situated-ai-ethics-2026.md']
 confidence: high
-audience: [policymakers, teacher educators]
+audience: [policymakers, faculty developers]
 page_kind: [framework]
 ---
 

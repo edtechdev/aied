@@ -8,7 +8,7 @@ pedagogy: [career-development-and-readiness, metacognition, self-regulated-learn
 ethics: [ai-sycophancy, guardrails, trust]
 methods: [qualitative-research, rct]
 research_method: [secondary analysis]
-audience: [researchers, designers, edtech designers]
+audience: [researchers, instructional designers]
 level: [higher ed, adult learning]
 sources: ['raw/papers/reflection-agent-fidelity-career-2026.md']
 confidence: high

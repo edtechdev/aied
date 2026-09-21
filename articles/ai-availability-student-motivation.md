@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [llm]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 research_method: [interviews]
 audience: [learners]
 level: [higher ed]

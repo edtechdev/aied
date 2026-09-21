@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, ai-literacy, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [case study]
 audience: [researchers]
 level: [higher ed]

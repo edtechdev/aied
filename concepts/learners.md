@@ -6,7 +6,6 @@ type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
 technology: [student-modeling, knowledge-tracing, simulating-students, adaptive-learning, personalized-learning]
-stakeholders: [stakeholders, student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]
 level: [higher ed, k 12, adult learning]
 audience: [learners, instructors, researchers]

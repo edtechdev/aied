@@ -8,7 +8,7 @@ assessment: [assessment, learning-gains]
 sources: ['raw/papers/ai-tutoring-micro-rct-gcse-science-2026.md']
 confidence: high
 discipline: [science education, biology education, chemistry education, physics education]
-audience: [instructors, researchers, teachers]
+audience: [instructors, researchers]
 level: [secondary, k 12]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, rct, mixed-methods-research]

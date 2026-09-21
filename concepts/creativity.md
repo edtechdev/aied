@@ -6,7 +6,6 @@ type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
 technology: [generative-ai]
-stakeholders: [student-experience]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]

@@ -3,8 +3,7 @@ title: "What Competencies Do Faculty Need in Regard to AI?"
 created: "2026-08-25T09:20:00-04:00"
 updated: "2026-09-17T02:27:38-04:00"
 weight: 70
-foundations: [ai-literacy, educational-development, teacher-role]
-stakeholders: [teacher-ai-competency]
+foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 ---

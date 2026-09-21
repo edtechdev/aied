@@ -7,9 +7,8 @@ pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, maste
 foundations: [cognitive-offloading]
 technology: [generative-ai, llm]
 assessment: [formative-assessment, assessment]
-stakeholders: [learners]
 level: [higher ed, k 12]
-audience: [instructors, learners, learning designers]
+audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 ---

@@ -13,7 +13,7 @@ resource_type: [software, collection of tools]
 access: [free]
 last_verified: "2026-09-20"
 level: [k 12]
-audience: [teachers, learners]
+audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
 ---

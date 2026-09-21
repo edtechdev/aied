@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai, learning-analytics, llm, personalized-learning]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, llm, rag]
-stakeholders: [student-experience]
 research_method: [case study]
 discipline: [stem education]
 audience: [instructors, curriculum designers]

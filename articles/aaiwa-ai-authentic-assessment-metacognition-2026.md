@@ -11,7 +11,7 @@ level: [teacher education]
 sources: ['raw/papers/aaiwa-ai-authentic-assessment-metacognition-2026.md']
 confidence: high
 discipline: [writing education, language learning]
-audience: [assessment designers, teacher educators]
+audience: [assessment designers, faculty developers]
 page_kind: [evaluation]
 ---
 

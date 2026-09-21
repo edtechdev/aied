@@ -4,14 +4,13 @@ created: "2026-09-01T14:00:00-04:00"
 updated: "2026-09-19T08:23:28-04:00"
 type: article
 sources: ["raw/papers/language-teachers-ai-literacy-edai-2026.md"]
-foundations: [ai-literacy]
+foundations: [ai-literacy, teacher-ai-competency]
 assessment: [educational-measurement]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency]
 confidence: medium
 research_method: [instrument development]
 discipline: [english education, language learning]
-audience: [teacher educators, assessment professionals, researchers]
+audience: [faculty developers, assessment professionals, researchers]
 level: [teacher education, higher ed]
 page_kind: [framework]
 ---

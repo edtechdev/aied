@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, pedagogical-agent]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

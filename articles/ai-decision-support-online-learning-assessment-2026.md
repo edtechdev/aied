@@ -9,7 +9,7 @@ technology: [ai-technologies, learning-analytics, machine-learning, personalized
 assessment: [automated-assessment]
 sources: ['raw/papers/ai-decision-support-online-learning-assessment-2026.md']
 confidence: medium
-audience: [edtech designers, institutions]
+audience: [instructional designers, institutions]
 page_kind: [framework]
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [meta-analysis-systematic-review]

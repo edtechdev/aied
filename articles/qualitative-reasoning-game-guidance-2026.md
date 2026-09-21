@@ -10,7 +10,7 @@ ethics: [explainable-ai]
 methods: [qualitative-research]
 research_method: [system development]
 discipline: [stem education]
-audience: [researchers, edtech designers, instructors]
+audience: [researchers, instructional designers, instructors]
 sources: ['raw/papers/qualitative-reasoning-game-guidance-2026.md']
 confidence: high
 ---

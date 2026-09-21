@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai, rag]
-stakeholders: [student-experience]
 research_method: [position paper, theoretical analysis]
 audience: [administrators, instructors]
 level: [higher ed]

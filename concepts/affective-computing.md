@@ -5,7 +5,6 @@ updated: "2026-09-11T00:52:00-04:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: medium

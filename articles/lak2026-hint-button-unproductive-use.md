@@ -6,7 +6,6 @@ type: article
 pedagogy: [game-based-learning, help-seeking]
 technology: [intelligent-tutoring, learning-analytics]
 methods: [quantitative-research]
-stakeholders: [student-experience]
 discipline: [math education]
 audience: [learning analytics designers, instructional designers, researchers]
 level: [k 12]

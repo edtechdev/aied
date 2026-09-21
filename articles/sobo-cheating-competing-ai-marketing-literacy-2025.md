@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, framing-ai-use-for-students]
 methods: [design-based-research, mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [ai-use-disclosure, ethics]
 audience: [learners]
 level: [higher ed]

@@ -7,7 +7,7 @@ type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
-audience: [instructors, learning designers, learners]
+audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 ---
 

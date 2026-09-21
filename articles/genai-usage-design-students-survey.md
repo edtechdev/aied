@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 research_method: [survey]
 discipline: [design education, writing education]
 audience: [learners]

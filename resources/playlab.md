@@ -7,15 +7,14 @@ summary: "A nonprofit creator platform where educators build, share and evaluate
 url: https://www.playlab.ai/
 author: "Playlab (501(c)(3) nonprofit)"
 author_url: https://www.playlab.ai/about
-foundations: [ai-literacy, learning-design]
+foundations: [ai-literacy, learning-design, teacher-ai-competency]
 technology: [generative-ai, llm, rag]
 ethics: [privacy, guardrails]
-stakeholders: [teacher-ai-competency, educational-technology-developers]
 resource_type: [software, collection of tools]
 access: [free with account]
 last_verified: "2026-09-20"
 level: [k 12, higher ed]
-audience: [teachers, instructors, edtech designers]
+audience: [instructors, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [teacherserver, edugems]
 ---

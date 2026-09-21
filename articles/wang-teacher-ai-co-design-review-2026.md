@@ -3,10 +3,9 @@ title: "Reimagining teacher-AI co-design in learning task design: trends and per
 created: "2026-09-02T09:50:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [human-ai-collaboration, learning-design, teacher-role]
+foundations: [human-ai-collaboration, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency]
-audience: [instructors, learning designers, researchers, faculty developers]
+audience: [instructors, instructional designers, researchers, faculty developers]
 level: [higher ed, k 12]
 sources: ['raw/papers/wang-teacher-ai-co-design-review-2026.md']
 confidence: high

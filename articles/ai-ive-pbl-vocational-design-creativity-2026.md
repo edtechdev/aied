@@ -10,7 +10,7 @@ sources: ['raw/papers/ai-ive-pbl-vocational-design-creativity-2026.md']
 confidence: high
 discipline: [vocational education]
 research_method: [quasi-experiment]
-audience: [instructors, designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [higher ed]
 ---
 

@@ -5,7 +5,6 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 pedagogy: [learning-by-teaching]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 research_method: [system development]
 discipline: [language learning]
 audience: [learners]

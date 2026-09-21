@@ -3,9 +3,8 @@ title: Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educato
 created: "2026-08-03T04:33:04-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
-foundations: [human-ai-collaboration, teacher-role]
+foundations: [human-ai-collaboration, teacher-role, teacher-ai-competency]
 technology: [generative-ai, llm]
-stakeholders: [teacher-ai-competency]
 audience: [instructors]
 level: [k 12]
 page_kind: [evaluation]

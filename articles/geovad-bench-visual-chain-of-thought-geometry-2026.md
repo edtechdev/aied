@@ -10,7 +10,7 @@ sources: ['raw/papers/geovad-bench-visual-chain-of-thought-geometry-2026.md']
 confidence: high
 research_method: [system development]
 discipline: [math education, stem education]
-audience: [researchers, software developers, edtech designers]
+audience: [researchers, software developers, instructional designers]
 page_kind: [evaluation]
 methods: [benchmark]
 ---

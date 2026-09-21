@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [conversational-ai]
-stakeholders: [stakeholders]
 ethics: [digital-divide, equity-in-ai-education]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium

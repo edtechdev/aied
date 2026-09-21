@@ -3,13 +3,12 @@ title: "From Research Assistant to Surrogate Supervisor: A Qualitative Study Exp
 created: "2026-09-18T15:20:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, ai-literacy, cognitive-offloading, agency, learner-identity]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading, agency, learner-identity, teacher-ai-competency]
 pedagogy: [self-regulated-learning, metacognition, help-seeking]
 technology: [generative-ai, llm, conversational-ai]
 ethics: [ai-use-disclosure, hallucination-risk, privacy, equity-in-ai-education, multilingual-learning]
 methods: [qualitative-research]
 institutions: [educational-policy-ai, change-management]
-stakeholders: [teacher-ai-competency, student-experience]
 research_method: [interviews, thematic analysis]
 level: [higher ed]
 audience: [researchers, administrators, instructors]

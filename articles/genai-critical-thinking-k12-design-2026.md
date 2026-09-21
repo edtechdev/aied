@@ -3,12 +3,11 @@ title: "Vicious or Virtuous? Designing Generative AI-Powered Learning Experience
 created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [critical-thinking, ai-literacy, cognitive-offloading, human-ai-collaboration, agency]
+foundations: [critical-thinking, ai-literacy, cognitive-offloading, human-ai-collaboration, agency, teacher-ai-competency]
 pedagogy: [scaffolding, self-regulated-learning, metacognition, inquiry-based-learning]
 technology: [generative-ai, llm, conversational-ai, prompt-engineering]
 assessment: [evaluative-judgment, feedback, ai-feedback-quality]
 methods: [research-methods-aied, meta-analysis-systematic-review]
-stakeholders: [stakeholders, teacher-ai-competency, learners]
 institutions: [educational-policy-ai]
 ethics: [ethics, hallucination-risk, trust-calibration]
 level: [k 12, secondary]

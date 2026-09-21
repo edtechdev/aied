@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 sources: ['raw/papers/metacognitively-discordant-completion-genai-2026.md']

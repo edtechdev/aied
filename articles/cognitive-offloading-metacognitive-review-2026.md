@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [student-experience]
 connected_faqs: [reducing-over-reliance]
 research_method: [literature review]
 audience: [researchers, instructors]

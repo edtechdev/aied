@@ -9,7 +9,7 @@ research_method: [experiment]
 sources: ['raw/papers/adaptive-scaffolding-cognitive-engagement-its.md']
 confidence: medium
 discipline: [math education]
-audience: [instructional designers, researchers, edtech designers]
+audience: [instructional designers, researchers]
 level: [higher ed]
 page_kind: [evaluation]
 ---

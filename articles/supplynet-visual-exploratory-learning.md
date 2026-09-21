@@ -9,7 +9,7 @@ research_method: [system development, user study]
 sources: ['raw/papers/2606.24694.md']
 confidence: high
 discipline: [business education]
-audience: [instructional designers, designers]
+audience: [instructional designers]
 level: [adult learning]
 ---
 

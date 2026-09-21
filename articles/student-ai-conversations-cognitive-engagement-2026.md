@@ -10,7 +10,7 @@ foundations: [critical-thinking]
 pedagogy: [student-ai-interaction, student-engagement]
 technology: [generative-ai, prompt-engineering, learning-analytics]
 confidence: medium
-audience: [researchers, edtech designers]
+audience: [researchers, instructional designers]
 level: [higher ed]
 ---
 

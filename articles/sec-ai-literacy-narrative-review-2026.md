@@ -3,10 +3,9 @@ title: "Exploring interfaces and implications for integrating social-emotional c
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [ai-education, ai-literacy]
+foundations: [ai-education, ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, social-emotional-learning]
 technology: [affective-computing]
-stakeholders: [teacher-ai-competency]
 ethics: [ethics]
 audience: [researchers, instructors]
 research_method: [literature review]

@@ -12,7 +12,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
 discipline: [math education]
 research_method: [user study, experiment]
 level: [k 12, secondary]
-audience: [instructors, learning designers, edtech designers, researchers]
+audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
 sources: ['raw/papers/ampt-math-personalization-genai-2026.md']
 confidence: high

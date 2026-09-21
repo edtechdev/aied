@@ -5,7 +5,7 @@ updated: "2026-09-15T12:56:46-04:00"
 type: concept
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimodal, personalized-learning]
-audience: [instructors, learning designers]
+audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
 ---

@@ -12,7 +12,7 @@ sources:
   - raw/papers/breideband-community-builder-cobi-2026.md
 confidence: high
 research_method: [user study]
-audience: [teachers, edtech designers, instructors]
+audience: [instructors, instructional designers]
 level: [k 12]
 methods: [design-based-research]
 ---

@@ -8,12 +8,11 @@ pedagogy: [collaborative-learning, sociocultural-learning, scaffolding]
 technology: [recommender-systems-and-learning-paths, knowledge-graph, edtech-platform, human-in-the-loop-ai, educational-nlp]
 assessment: [educational-measurement, self-report-measures, learning-gains, assessment-validity]
 methods: [mixed-methods-research, usability-research, quantitative-research]
-stakeholders: [learners, student-experience]
 ethics: [trust]
 research_method: [quasi-experiment, thematic analysis, survey]
 level: [higher ed]
 discipline: [engineering education, cs education, library and information science]
-audience: [instructors, instructional designers, researchers, librarians]
+audience: [instructors, instructional designers, researchers, librarians, learners]
 sources: ['raw/papers/ai-assisted-seminar-learning-information-literacy-2026.md']
 confidence: medium
 ---

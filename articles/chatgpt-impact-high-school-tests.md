@@ -5,7 +5,6 @@ updated: "2026-09-16T15:48:59-04:00"
 type: article
 foundations: [academic-integrity, ai-education, cognitive-offloading]
 technology: [generative-ai, rag]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [k 12]

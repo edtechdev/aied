@@ -3,10 +3,9 @@ title: "From AI literacy to AI-integrated inquiry-based science teaching: the se
 created: "2026-09-16T12:25:00-04:00"
 updated: "2026-09-19T09:19:18-04:00"
 type: article
-foundations: [ai-literacy, teacher-role, tpack]
+foundations: [ai-literacy, teacher-role, tpack, teacher-ai-competency]
 pedagogy: [inquiry-based-learning, pedagogy, self-efficacy]
-stakeholders: [teacher-ai-competency]
-audience: [researchers, teacher educators, teachers, policymakers]
+audience: [researchers, faculty developers, instructors, policymakers]
 research_method: [structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1911909.md']
 confidence: high

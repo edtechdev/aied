@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [student-engagement]
 technology: [intelligent-tutoring, rag]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 audience: [learners]
 level: [k 12]

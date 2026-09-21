@@ -10,7 +10,7 @@ technology: [generative-ai, llm, intelligent-tutoring]
 methods: [quantitative-research]
 research_method: [experiment]
 level: [higher ed]
-audience: [researchers, learning designers, instructors]
+audience: [researchers, instructional designers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/structured-reflection-ai-explanatory-feedback-2026.md']
 confidence: high

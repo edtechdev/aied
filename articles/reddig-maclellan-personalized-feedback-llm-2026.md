@@ -10,7 +10,7 @@ sources: ['raw/papers/reddig-maclellan-personalized-feedback-llm-2026.md']
 confidence: high
 research_method: [system development]
 discipline: [math education]
-audience: [edtech designers, instructors, researchers]
+audience: [instructional designers, instructors, researchers]
 level: [higher ed]
 ---
 

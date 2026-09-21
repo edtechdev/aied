@@ -8,7 +8,7 @@ pedagogy: [creativity, professional-training]
 technology: [generative-ai]
 assessment: [assessment-validity]
 discipline: [design education]
-audience: [instructors, designers, curriculum designers, faculty developers]
+audience: [instructors, instructional designers, curriculum designers, faculty developers]
 level: [higher ed]
 confidence: high
 ---

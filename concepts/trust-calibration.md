@@ -5,7 +5,6 @@ updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
-stakeholders: [student-experience]
 ethics: [hallucination-risk, trust-calibration]
 audience: [learners]
 confidence: high

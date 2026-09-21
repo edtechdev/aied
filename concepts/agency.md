@@ -5,7 +5,6 @@ updated: "2026-09-20T08:15:50-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
-stakeholders: [student-experience]
 ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]

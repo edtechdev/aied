@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm, rag]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
 audience: [learners]
 level: [higher ed]

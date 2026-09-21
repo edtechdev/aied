@@ -3,16 +3,15 @@ title: "AI Literacy of Teachers: Prompt Engineering and Model Selection as Predi
 type: article
 created: "2026-09-17T09:40:00-04:00"
 updated: "2026-09-19T14:23:47-04:00"
-foundations: [ai-literacy]
+foundations: [ai-literacy, teacher-ai-competency]
 technology: [generative-ai, llm, prompt-engineering]
 assessment: [ai-feedback-quality, feedback, feedback-literacy]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency]
 sources: ['raw/papers/teacher-ai-literacy-prompt-feedback-quality-2026.md']
 confidence: high
 research_method: [quasi-experiment]
 level: [teacher education, higher ed]
-audience: [teacher educators, researchers, faculty developers]
+audience: [faculty developers, researchers]
 connected_faqs: [top-10-findings-ai-education-instructors]
 page_kind: [evaluation, framework]
 ---

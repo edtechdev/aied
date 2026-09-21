@@ -6,7 +6,6 @@ type: article
 foundations: [learner-identity]
 pedagogy: [pedagogical-partnerships, student-ai-interaction, well-being]
 technology: [generative-ai]
-stakeholders: [student-experience]
 sources: ['raw/papers/fawns-entangled-pedagogy-genai-students-2026.md']
 confidence: high
 audience: [policymakers, instructors, administrators]

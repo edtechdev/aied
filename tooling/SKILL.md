@@ -71,7 +71,7 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
    - Path: `articles/<slug>.md`
    - Frontmatter (required): `title`, `created`, `updated`, `type: article`, `sources`, `confidence` (`high`/`medium`/`low`).
      There is no `tags` field (retired 2026-09-17): the concepts a page touches go in the typed fields instead —
-     the topic facets (`pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics`, `foundations`),
+     the topic facets (`pedagogy`, `technology`, `assessment`, `methods`, `institutions`, `ethics`, `foundations`),
      whose allowed values are the concept slugs of that facet's own registry section, plus the phrase fields
      (`page_kind`, `research_method`, `discipline`, `level`, `audience`). `validate-facets.py` is a gate on all of it.
    - **`created`/`updated` must be full QUOTED date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates — the sidebar and RSS sort by string comparison, and unquoted ISO shifts to UTC (next day). `created` = ingestion date+time (not paper pub date). Display is date-only; the time is internal for sorting. Bump `updated` on any significant body edit and rebuild so the sidebar refreshes.

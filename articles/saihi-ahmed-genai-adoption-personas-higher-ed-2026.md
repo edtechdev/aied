@@ -5,7 +5,6 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 ethics: [ethics, trust]
 research_method: [survey]
 audience: [learners, instructors]

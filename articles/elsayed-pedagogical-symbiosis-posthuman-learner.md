@@ -9,7 +9,7 @@ research_method: [theoretical analysis]
 level: [higher ed]
 sources: ['raw/papers/elsayed-pedagogical-symbiosis-posthuman-learner.md']
 confidence: high
-audience: [teacher educators, curriculum designers]
+audience: [faculty developers, curriculum designers]
 page_kind: [framework]
 ---
 

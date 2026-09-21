@@ -5,7 +5,6 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [self-efficacy]
 technology: [generative-ai, llm, simulation]
-stakeholders: [student-experience]
 sources: ['raw/papers/jiang-ai-powered-simulation-nursing-education-2026.md']
 confidence: high
 discipline: [nursing education, medical education]

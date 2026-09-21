@@ -12,7 +12,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [case study, interviews]
 discipline: [stem education]
-audience: [instructors, edtech designers, institutions]
+audience: [instructors, instructional designers, institutions]
 level: [k 12]
 page_kind: [framework]
 ---

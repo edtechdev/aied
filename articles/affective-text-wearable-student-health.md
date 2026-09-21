@@ -4,7 +4,6 @@ created: "2026-05-17T04:33:04-04:00"
 updated: "2026-09-19T07:42:07-04:00"
 type: article
 technology: [affective-computing, affective-tutoring, learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [secondary analysis, longitudinal study]
 audience: [learners]
 level: [higher ed]

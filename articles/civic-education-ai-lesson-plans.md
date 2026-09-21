@@ -3,11 +3,10 @@ title: "Civic education in the age of AI: Should we trust AI-generated lesson pl
 created: "2026-05-09T04:33:04-04:00"
 updated: "2026-09-20T08:26:15-04:00"
 type: article
-foundations: [ai-literacy, teacher-role]
+foundations: [ai-literacy, teacher-role, teacher-ai-competency]
 technology: [generative-ai, pedagogical-llm-training]
 assessment: [formative-assessment]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency]
 ethics: [equity-in-ai-education]
 research_method: [thematic analysis]
 audience: [instructors]

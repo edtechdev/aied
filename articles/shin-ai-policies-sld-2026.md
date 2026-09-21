@@ -9,7 +9,7 @@ research_method: [delphi]
 level: [special education]
 sources: ['raw/papers/shin-ai-policies-sld-2026.md']
 confidence: high
-audience: [policymakers, administrators, teacher educators]
+audience: [policymakers, administrators, faculty developers]
 methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---

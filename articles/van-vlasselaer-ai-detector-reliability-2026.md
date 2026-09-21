@@ -3,15 +3,14 @@ title: "Who wrote this? Evaluating the reliability of AI detection tools in high
 created: "2026-09-18T04:15:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, reducing-ai-misuse, limitations-in-aied-research]
+foundations: [academic-integrity, reducing-ai-misuse, limitations-in-aied-research, teacher-ai-competency]
 technology: [generative-ai, llm, machine-learning]
 assessment: [ai-detection, assessment-validity, summative-assessment]
 methods: [benchmark, quantitative-research]
-stakeholders: [learners, teacher-ai-competency]
 institutions: [educational-policy-ai, governance]
 ethics: [trust, trust-calibration, equity-in-ai-education]
 level: [higher ed]
-audience: [instructors, administrators, researchers]
+audience: [instructors, administrators, researchers, learners]
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating]
 page_kind: [evaluation]
 sources: ['raw/papers/van-vlasselaer-ai-detector-reliability-2026.md']

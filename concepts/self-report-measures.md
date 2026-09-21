@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
 assessment: [assessment-validity, educational-measurement, learning-gains]
-stakeholders: [student-experience]
 ethics: [trust-calibration]
 research_method: [survey]
 audience: [researchers, instructors]

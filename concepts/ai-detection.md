@@ -6,7 +6,6 @@ type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
 assessment: [ai-detection, assessment, assessment-validity]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 audience: [learners]
 level: [higher ed]

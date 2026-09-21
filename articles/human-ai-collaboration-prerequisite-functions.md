@@ -6,7 +6,6 @@ type: article
 foundations: [teacher-role]
 pedagogy: [active-learning, scaffolding]
 technology: [intelligent-tutoring, learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
 level: [k 12]

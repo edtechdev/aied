@@ -10,7 +10,7 @@ methods: [quantitative-research, benchmark]
 research_method: [instrument development]
 discipline: [science education]
 level: [k 12, secondary]
-audience: [researchers, assessment designers, learning designers, instructors]
+audience: [researchers, assessment designers, instructional designers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/rubric-guided-genai-creativity-assessment-games-2026.md']
 confidence: high

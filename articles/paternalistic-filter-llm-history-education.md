@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [llm]
 methods: [benchmark]
-stakeholders: [student-experience]
 ethics: [bias-mitigation, equity-in-ai-education]
 audience: [learners]
 level: [higher ed]

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics, llm, visualization]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners, instructors, software developers]
 sources: ['raw/papers/2605.17263.md']

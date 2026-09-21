@@ -6,7 +6,6 @@ type: article
 foundations: [curriculum-design]
 pedagogy: [student-engagement]
 technology: [educational-nlp, generative-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 research_method: [system development, user study]
 audience: [learners]
 level: [higher ed]

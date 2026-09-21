@@ -7,7 +7,6 @@ foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
 technology: [affective-computing]
 assessment: [remote-proctoring]
-stakeholders: [student-experience]
 audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]

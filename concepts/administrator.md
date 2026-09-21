@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, learning-analytics, llm]
-stakeholders: [administrator, student-experience]
 connected_faqs: [institutional-ai-policy]
 discipline: [stem education]
 audience: [administrators, instructors]

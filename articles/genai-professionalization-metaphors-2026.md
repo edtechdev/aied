@@ -6,7 +6,6 @@ type: article
 foundations: [learner-identity]
 technology: [generative-ai]
 methods: [mixed-methods-research, qualitative-research]
-stakeholders: [student-experience]
 pedagogy: [career-development-and-readiness, professional-training]
 audience: [researchers, instructors]
 level: [higher ed]

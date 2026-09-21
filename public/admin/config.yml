@@ -82,7 +82,7 @@ collections:
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
         required: false
       - name: level
         label: Level
@@ -145,7 +145,7 @@ collections:
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
         required: false
       - name: level
         label: Level
@@ -233,7 +233,7 @@ collections:
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, designers, edtech designers, educators, faculty development, institutions, instructional designers, instructors, learners, learning analytics designers, learning designers, medical educators, policymakers, researchers, software developers, students, teacher educators, teachers]
+        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
         required: false
       - name: level
         label: Level

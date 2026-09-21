@@ -6,7 +6,6 @@ type: article
 pedagogy: [motivation, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring, personalized-learning, prompt-engineering]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 discipline: [language learning]
 audience: [learners]
 level: [higher ed]

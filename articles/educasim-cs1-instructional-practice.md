@@ -9,7 +9,7 @@ technology: [pedagogical-agent, simulating-students, simulation]
 research_method: [system development]
 discipline: [cs education]
 confidence: high
-audience: [teacher educators, instructors, instructional designers]
+audience: [faculty developers, instructors, instructional designers]
 level: [teacher education, higher ed]
 page_kind: [evaluation]
 sources: [raw/papers/2603.11444.md]

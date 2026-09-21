@@ -5,7 +5,6 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [student-engagement]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

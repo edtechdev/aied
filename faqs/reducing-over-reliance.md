@@ -9,7 +9,7 @@ pedagogy: [desirable-difficulties, help-seeking, metacognition, self-regulated-l
 methods: [mixed-methods-research]
 ethics: [trust-calibration]
 research_method: [literature review, experiment]
-audience: [instructors, learning designers, instructional designers]
+audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 ---
 

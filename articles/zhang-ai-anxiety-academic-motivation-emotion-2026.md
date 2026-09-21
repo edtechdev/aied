@@ -5,7 +5,6 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 pedagogy: [metacognition, motivation, self-efficacy, well-being]
 technology: [generative-ai]
-stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [survey]
 audience: [learners]

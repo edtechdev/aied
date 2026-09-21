@@ -3,9 +3,8 @@ title: "The University AI Didn''t Replace: Rethinking Universities in the AI Era
 created: "2026-05-08T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-foundations: [educational-development, teacher-role]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 assessment: [assessment-validity]
-stakeholders: [administrator, student-experience, teacher-ai-competency]
 research_method: [case study]
 audience: [instructors, administrators, faculty developers, learners]
 level: [higher ed]

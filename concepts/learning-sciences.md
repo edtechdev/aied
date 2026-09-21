@@ -7,7 +7,7 @@ foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
 technology: [intelligent-tutoring, learning-analytics]
 discipline: [learning sciences]
-audience: [researchers, instructional designers, learning designers, instructors, policymakers]
+audience: [researchers, instructional designers, instructors, policymakers]
 level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high

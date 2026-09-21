@@ -3,12 +3,11 @@ title: "'Co-pilot won't teach you to be a nurse': nursing academics' perspective
 created: "2026-09-18T04:11:08-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [academic-integrity, critical-thinking, teacher-role]
+foundations: [academic-integrity, critical-thinking, teacher-role, teacher-ai-competency]
 pedagogy: [career-development-and-readiness, professional-training, scaffolding, student-ai-interaction, transfer-of-learning]
 technology: [generative-ai, simulation]
 assessment: [assessment-validity, authentic-assessment]
 methods: [qualitative-research]
-stakeholders: [teacher-ai-competency]
 institutions: [educational-policy-ai, governance]
 ethics: [ai-misuse-learning-harm, ethics, trust]
 research_method: [thematic analysis]

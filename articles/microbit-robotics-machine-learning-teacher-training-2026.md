@@ -9,7 +9,7 @@ research_method: [quasi-experiment]
 discipline: [cs education]
 sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.md']
 confidence: high
-audience: [teacher educators, curriculum designers]
+audience: [faculty developers, curriculum designers]
 level: [teacher education, higher ed]
 page_kind: [evaluation]
 ---

@@ -5,7 +5,6 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 assessment: [assessment-validity, automated-assessment, evaluative-judgment, feedback-literacy]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 ethics: [ai-use-disclosure, trust]
 sources: ['raw/papers/2609.05346.md']
 confidence: high

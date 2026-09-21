@@ -7,7 +7,6 @@ type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]

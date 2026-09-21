@@ -5,7 +5,6 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [motivation, problem-solving, self-regulated-learning, transfer-of-learning]
 technology: [generative-ai, prompt-engineering]
-stakeholders: [student-experience]
 discipline: [physics education]
 audience: [learners]
 sources: ['raw/papers/2608.12523.md']

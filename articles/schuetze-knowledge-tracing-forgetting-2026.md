@@ -8,7 +8,7 @@ technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, machin
 sources: ['raw/papers/schuetze-knowledge-tracing-forgetting-2026.md']
 confidence: high
 research_method: [secondary analysis, process-outcome modeling]
-audience: [researchers, learning analytics designers, edtech designers]
+audience: [researchers, learning analytics designers, instructional designers]
 page_kind: [evaluation, framework]
 ---
 

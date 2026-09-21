@@ -10,7 +10,7 @@ research_method: [experiment, survey]
 discipline: [cs education]
 sources: ['raw/papers/llm-adaptive-programming-error-explanations-2026.md']
 confidence: high
-audience: [instructors, software developers, edtech designers]
+audience: [instructors, software developers, instructional designers]
 level: [adult learning]
 ---
 

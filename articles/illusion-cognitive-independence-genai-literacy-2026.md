@@ -5,7 +5,7 @@ updated: "2026-09-19T07:16:01-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [self-regulated-learning, student-engagement]
-audience: [instructors, researchers, learning designers]
+audience: [instructors, researchers, instructional designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_feduc.2026.1861548.md']
 confidence: high

@@ -6,10 +6,9 @@ type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
 methods: [meta-analysis-systematic-review, mixed-methods-research]
-stakeholders: [learners]
 assessment: [assessment-validity]
 research_method: [quasi-experiment, survey]
-audience: [instructors, learning designers, administrators, researchers]
+audience: [instructors, instructional designers, administrators, researchers, learners]
 page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]

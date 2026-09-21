@@ -8,7 +8,7 @@ pedagogy: [collaborative-learning, scaffolding, self-regulated-learning]
 connected_faqs: [ai-guidance-children-under-13]
 methods: [mixed-methods-research]
 discipline: [writing education, language learning]
-audience: [teachers, learners, researchers]
+audience: [instructors, learners, researchers]
 level: [primary education, k 12]
 sources: ['raw/papers/lu-ai-multimodal-writing-critical-thinking-2026.md']
 confidence: high

@@ -5,7 +5,6 @@ updated: "2026-09-18T19:55:59-04:00"
 type: article
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
 technology: [llm]
-stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 level: [k 12]

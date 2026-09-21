@@ -3,10 +3,9 @@ title: "Teacher education for artificial intelligence literacy through a self-de
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article
-foundations: [ai-literacy, educational-development]
+foundations: [ai-literacy, educational-development, teacher-ai-competency]
 pedagogy: [motivation, professional-training, self-determination-theory]
 methods: [mixed-methods-research]
-stakeholders: [teacher-ai-competency]
 audience: [faculty developers]
 level: [secondary, teacher education, higher ed, k 12]
 sources: ['raw/papers/10.1080_02619768.2026.2621848.md']

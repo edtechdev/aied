@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [conversational-ai, generative-ai]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners]
 level: [k 12]

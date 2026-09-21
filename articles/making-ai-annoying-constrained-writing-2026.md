@@ -6,7 +6,7 @@ type: article
 foundations: [learning-design]
 pedagogy: [scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
-audience: [teachers, instructional designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [secondary]
 sources: ["raw/papers/10.1016_j.caeo.2026.100343.md"]
 confidence: high

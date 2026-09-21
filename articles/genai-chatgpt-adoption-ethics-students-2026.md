@@ -4,7 +4,6 @@ created: "2026-08-16T10:55:19-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
 technology: [conversational-ai, generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 ethics: [ethics, trust]
 research_method: [survey, structural equation modeling]
 audience: [learners]

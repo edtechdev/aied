@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm]
-stakeholders: [student-experience]
 ethics: [bias-mitigation, equity-in-ai-education]
 research_method: [theoretical analysis]
 discipline: [stem education]

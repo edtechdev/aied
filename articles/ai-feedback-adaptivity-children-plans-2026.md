@@ -9,7 +9,7 @@ pedagogy: [scaffolding, self-regulated-learning, metacognition]
 methods: [rct, quantitative-research, mixed-methods-research]
 research_method: [experiment]
 level: [primary education, k 12]
-audience: [instructors, researchers, learning designers]
+audience: [instructors, researchers, instructional designers]
 page_kind: [evaluation]
 sources: ['raw/papers/ai-feedback-adaptivity-children-plans-2026.md']
 confidence: high

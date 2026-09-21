@@ -11,7 +11,7 @@ research_method: [system development]
 discipline: [language learning]
 sources: ['raw/papers/2608.08990.md']
 confidence: high
-audience: [designers, edtech designers, software developers]
+audience: [instructional designers, software developers]
 level: [adult learning]
 ---
 

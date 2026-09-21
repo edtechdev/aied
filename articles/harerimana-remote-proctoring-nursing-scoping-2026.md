@@ -8,7 +8,6 @@ pedagogy: [anxiety-and-stress, online-teaching-and-learning, professional-traini
 technology: [edtech-platform, learning-analytics]
 assessment: [assessment-validity, remote-proctoring, summative-assessment]
 methods: [meta-analysis-systematic-review]
-stakeholders: [student-experience]
 institutions: [governance, regulation]
 ethics: [digital-divide, equity-in-ai-education, privacy]
 research_method: [thematic analysis]

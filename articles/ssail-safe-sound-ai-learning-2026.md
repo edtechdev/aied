@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 sources: ['raw/papers/ssail-safe-sound-ai-learning-2026.md']
 confidence: high
 research_method: [theoretical analysis, position paper]
-audience: [instructional designers, edtech designers, researchers]
+audience: [instructional designers, researchers]
 page_kind: [framework]
 ---
 

@@ -3,15 +3,14 @@ title: "Pioneering Teacher Educators Navigating AI Integration in Pre-Service Te
 created: "2026-09-16T08:12:19-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article
-foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
+foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 assessment: [authentic-assessment]
-stakeholders: [teacher-ai-competency]
 ethics: [digital-divide]
 sources: ['raw/papers/teacher-educators-ai-integration-preservice-2026.md']
 confidence: high
 research_method: [interviews, thematic analysis]
-audience: [teacher educators, instructors, institutions]
+audience: [faculty developers, instructors, institutions]
 level: [higher ed, teacher education]
 page_kind: [framework]
 methods: [qualitative-research]

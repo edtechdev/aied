@@ -5,7 +5,6 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 technology: [generative-ai]
-stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [longitudinal study]
 audience: [instructors, administrators]

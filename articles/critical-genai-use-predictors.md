@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [learning-theories, metacognition]
 methods: [quantitative-research]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

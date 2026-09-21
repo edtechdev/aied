@@ -10,7 +10,7 @@ ethics: [ethics]
 sources: ['raw/papers/2609.07715.md']
 confidence: high
 research_method: [position paper]
-audience: [designers, edtech designers, researchers]
+audience: [instructional designers, researchers]
 page_kind: [framework]
 ---
 

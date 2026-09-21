@@ -13,7 +13,6 @@ confidence: high
 page_kind: [framework]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-stakeholders: [administrator]
 ---
 
 > **Synthesis:** A conceptual study that synthesizes scholarly literature, international policy reports, and global standards to develop the Artificial Intelligence Governance for Educational Management (AIGEM) Framework. AIGEM positions AI not merely as instructional technology but as a strategic organizational capability in educational management, integrating six dimensions: AI Strategic Leadership, Responsible AI Governance, AI-Driven Decision Intelligence, Human-AI Collaborative Intelligence, AI Competency Development, and Sustainable Educational Value Creation. The framework aligns responsible AI implementation with SDG 4, 8, 9, and 16, and proposes six testable theoretical propositions (P1-P6).

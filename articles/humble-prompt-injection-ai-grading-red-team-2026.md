@@ -3,17 +3,16 @@ title: "Ethical implications of prompt injection in AI-mediated grading: An adve
 created: "2026-09-18T04:30:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, reducing-ai-misuse, human-ai-collaboration]
+foundations: [academic-integrity, reducing-ai-misuse, human-ai-collaboration, teacher-ai-competency]
 technology: [generative-ai, llm, prompt-engineering, ai-technologies]
 assessment: [automated-assessment, assessment-validity, automated-essay-scoring, summative-assessment]
 methods: [ai-ed-evaluation, quantitative-research]
-stakeholders: [student-experience, teacher-ai-competency, learners]
 institutions: [educational-policy-ai, governance]
 ethics: [trust, guardrails, trust-calibration]
 research_method: [experiment]
 discipline: [information technology]
 level: [higher ed]
-audience: [instructors, administrators, researchers]
+audience: [instructors, administrators, researchers, learners]
 sources: ['raw/papers/humble-prompt-injection-ai-grading-red-team-2026.md']
 confidence: high
 ---

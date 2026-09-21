@@ -6,7 +6,6 @@ type: article
 foundations: [agency, ai-literacy, cognitive-offloading, critical-thinking, teacher-role]
 pedagogy: [student-ai-interaction]
 technology: [generative-ai]
-stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [design and evaluation study, thematic analysis]
 audience: [instructors, learners]

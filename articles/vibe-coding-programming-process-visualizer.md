@@ -5,7 +5,6 @@ updated: "2026-09-20T03:43:02-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 technology: [adaptive-learning, learning-analytics, personalized-learning, visualization, edtech-platform]
-stakeholders: [student-experience]
 research_method: [system development, case study]
 discipline: [stem education]
 audience: [instructors, learners]

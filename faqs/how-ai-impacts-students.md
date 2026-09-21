@@ -5,7 +5,6 @@ updated: "2026-09-17T02:43:50-04:00"
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 audience: [learners]
 ---

@@ -3,17 +3,16 @@ title: "Educational integrity in GenAI-augmented assessment: making judgment vis
 created: "2026-09-18T04:12:00-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article
-foundations: [academic-integrity, human-ai-collaboration, theory-development-aied]
+foundations: [academic-integrity, human-ai-collaboration, theory-development-aied, teacher-ai-competency]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai]
 assessment: [evaluative-judgment, assessment, ai-detection, authentic-assessment]
 methods: [research-methods-aied]
-stakeholders: [learners, teacher-ai-competency]
 institutions: [governance, educational-policy-ai]
 ethics: [ai-use-disclosure, equity-in-ai-education, trust]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
-audience: [assessment designers, instructors, administrators]
+audience: [assessment designers, instructors, administrators, learners]
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating]
 page_kind: [framework]
 sources: ['raw/papers/sharma-judgment-visible-genai-assessment-2026.md']

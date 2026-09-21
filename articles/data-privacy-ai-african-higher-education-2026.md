@@ -6,10 +6,9 @@ type: article
 ethics: [privacy, trust, ethics, global-south, legal-issues-and-risks, equity-in-ai-education, digital-divide]
 institutions: [governance, regulation, educational-policy-ai]
 technology: [generative-ai, learning-analytics, intelligent-tutoring]
-stakeholders: [administrator, learners, stakeholders]
 methods: [meta-analysis-systematic-review, qualitative-research]
 foundations: [ai-literacy]
-audience: [instructors, administrators, policymakers]
+audience: [instructors, administrators, policymakers, learners]
 level: [higher ed]
 sources: ['raw/papers/data-privacy-ai-african-higher-education-2026.md']
 confidence: medium
