@@ -26,7 +26,7 @@ Agentic systems, operating within the broader digital ecosystem of an educationa
 | [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge; algorithmic generalizations may also misjudge what a learner knows |
 | [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
 | [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
-| [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-regulated-learning|self-assessment]] loops |
+| [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-assessment]] loops |
 | [[scaffolding]] | Automated scaffolds stay static instead of being dynamically withdrawn (fading) |
 | [[metacognition]] | Agent initiation displaces the learner's own planning, monitoring, evaluation |
 

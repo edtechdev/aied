@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-18T12:02:23-04:00"
+updated: "2026-09-21T11:27:36-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -51,7 +51,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand
-- The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive self-evaluation) even when the [[llm]] assistant alone did not
+- The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 
@@ -100,6 +100,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[agentic-ai]]

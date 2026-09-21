@@ -1,7 +1,7 @@
 ---
 title: "Assuring quality learning in a gen AI-integrated future: The role of adaptive capabilities. *TEQSA*, June 2026"
 created: "2026-08-22T18:30:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-21T11:30:46-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [lifelong-learning, metacognition, self-regulated-learning]
@@ -35,7 +35,7 @@ institutions: [educational-policy-ai]
 ## Five propositions of practice
 
 1. **Establish adaptive capabilities as core graduate attributes.** Embedding the four capabilities operationalizes Threshold Standards graduate-attribute requirements across disciplines, aligned with the National Skills Taxonomy and Australian Digital Capability Framework. Professional learning for educators focuses on [[scaffolding]] students' adaptive capabilities within human–gen AI networks.
-2. **Build institutional infrastructure for learning process evidence.** Invest in systematic capacity to collect and analyze data on learning processes — traces students generate as they plan, monitor, seek feedback, revise, and interact with gen AI (time-stamped edits, resource-use patterns, [[problem-solving]] sequences, metacognitive prompts, structured self-assessments) — prioritizing student [[agency]], privacy and transparency (e.g., open learner models).
+2. **Build institutional infrastructure for learning process evidence.** Invest in systematic capacity to collect and analyze data on learning processes — traces students generate as they plan, monitor, seek feedback, revise, and interact with gen AI (time-stamped edits, resource-use patterns, [[problem-solving]] sequences, metacognitive prompts, structured [[self-assessment|self-assessments]]) — prioritizing student [[agency]], privacy and transparency (e.g., open learner models).
 3. **Design learning environments that promote adaptive capabilities** through evidence-informed [[pedagogy|pedagogical]] practices, including [[desirable-difficulties|desirable difficulties]] and the value of productive struggle.
 4. **Transform pedagogical practice toward process-focused assessment.** Rebalance assessment so learning-process documentation complements (not replaces) product evaluation. [[learning-analytics|Learning analytics]] make processes visible; [[research-methods-aied|research]] (e.g., Raković et al. 2023) shows process features can explain more variance in performance than product features alone. Requires training educators and fading scaffolding as students develop [[self-regulated-learning|self-regulated learning]].
 5. **Foster collaborative innovation across institutions.** Cross-institutional collaboration shares resources, research findings and approaches, building sector-wide capacity while prioritizing human agency and educational effectiveness over technological capability.
@@ -61,6 +61,7 @@ institutions: [educational-policy-ai]
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[lifelong-learning]]
 - [[distributed-cognition]]
 - [[collaborative-learning]]

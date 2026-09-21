@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-18T12:02:23-04:00"
+updated: "2026-09-21T11:27:36-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -29,7 +29,7 @@ SRL is the process whereby learners actively manage their own learning through t
 
 1. **Forethought:** Goal setting, strategic planning, [[self-efficacy]] beliefs
 2. **Performance:** Strategy deployment, self-observation, [[cognitive-psychology|attention]] focusing
-3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
+3. **Self-reflection:** [[self-assessment]], causal attribution, adaptation
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
@@ -129,6 +129,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[metacognition]] — the cognitive monitoring SRL relies on
+- [[self-assessment]]
 - [[self-efficacy]] — a forethought-phase belief driving effort
 - [[scaffolding]] — graduated support that preserves regulatory demand
 - [[feedback]] — input learners regulate around

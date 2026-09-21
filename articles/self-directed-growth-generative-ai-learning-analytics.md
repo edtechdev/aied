@@ -1,7 +1,7 @@
 ---
 title: "Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework"
 created: "2026-08-16T04:26:01-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-21T11:30:46-04:00"
 type: article
 foundations: [agency]
 pedagogy: [learning-theories, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learning analytics designers, instructional designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Mao (2025) proposes a conceptual framework that integrates [[generative-ai|Generative AI]] (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and [[summative-assessment|summative]] self-assessment within GAI-supported environments. The paper argues that sustainable learner [[agency]] and [[equity-in-ai-education|educational equity]] depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative [[scaffolding|scaffold]] rather than a content provider.
+> **Synthesis:** Mao (2025) proposes a conceptual framework that integrates [[generative-ai|Generative AI]] (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and [[summative-assessment|summative]] [[self-assessment]] within GAI-supported environments. The paper argues that sustainable learner [[agency]] and [[equity-in-ai-education|educational equity]] depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative [[scaffolding|scaffold]] rather than a content provider.
 
 ## Key Findings
 
@@ -41,6 +41,7 @@ page_kind: [framework]
 ## Connected Concepts
 
 - [[self-directed-learning]]
+- [[self-assessment]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[personalized-learning]]

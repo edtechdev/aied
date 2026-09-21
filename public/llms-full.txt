@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 213 concepts, 1347 articles, and 32 FAQs.
+> Complete text of 214 concepts, 1347 articles, and 32 FAQs.
 
 # Concepts
 
@@ -1778,7 +1778,7 @@ The knowledge base's research converges on several interconnected dimensions:
 
 ## The competency gap
 
-A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[automated-assessment|calibrated self-assessment]].
+A key finding is the **gap between [[self-report-measures|self-reported]] and performance-based competency**. [[ai-literacy-assessment-misalignment|Research on AI-literacy assessment]] documents a substantial discrepancy (up to ~40%) between what teachers *believe* they can do and what they can actually *demonstrate* — teachers confident in AI skills often lack foundational prompting and evaluation abilities. This motivates **[[assessment|performance-based assessment]]** of teacher competency rather than reliance on self-report, and connects to [[self-assessment|calibrated self-assessment]].
 
 The gap is visible in the artifact as well as in the self-report. A [[ai-integration-instructional-design-collaboratory-2026|cross-institutional faculty collaboratory in teacher preparation]], in which teacher educators designed AI into their own methods courses, reported that candidates could produce polished AI-assisted lesson plans while being unable to explain why a plan fit the learners and the standards, since the plan itself says nothing about the reasoning behind it. Grading the justification rather than the product is one response. The [[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice frame]] suggests another, treating rehearsal as an approximation of practice: AI-mediated rehearsal with structured post-rehearsal feedback raised candidates' use of probing and exploring questions, yet candidates' own judgments of their performance still diverged from what observers recorded.
 
@@ -6203,7 +6203,7 @@ SRL is the process whereby learners actively manage their own learning through t
 
 1. **Forethought:** Goal setting, strategic planning, [[self-efficacy]] beliefs
 2. **Performance:** Strategy deployment, self-observation, [[cognitive-psychology|attention]] focusing
-3. **Self-reflection:** Self-evaluation, causal attribution, adaptation
+3. **Self-reflection:** [[self-assessment]], causal attribution, adaptation
 
 Proficient self-regulated learners employ cognitive strategies to improve success and utilize [[metacognition]] to refine their learning processes continuously.([[scheu-mobile-chatbot-journaling-motivation-2026]])
 
@@ -6303,6 +6303,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[metacognition]] — the cognitive monitoring SRL relies on
+- [[self-assessment]]
 - [[self-efficacy]] — a forethought-phase belief driving effort
 - [[scaffolding]] — graduated support that preserves regulatory demand
 - [[feedback]] — input learners regulate around
@@ -6718,7 +6719,7 @@ When AI is designed to support reflection rather than replace it, metacognition 
 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
 - **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand
-- The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive self-evaluation) even when the [[llm]] assistant alone did not
+- The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
 
@@ -6767,6 +6768,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
 - [[agentic-ai]]
@@ -15535,7 +15537,7 @@ Evaluative judgment is the capacity to appraise quality — one's own work, peer
 - **It is developed, not transmitted.** Judgment grows through repeated acts of comparison — against exemplars, explicit criteria, and peers' differing approaches — which is why exemplars, calibration exercises, and [[peer-assessment|peer assessment]] are its natural pedagogies.
 - **It is domain-[[situated-learning|situated]].** It is exercised inside a discipline's standards of evidence and argument, so it cannot be assessed generically any more than [[transfer-of-learning|transfer]] can be assumed.
 
-It is closely related to, but narrower than, authenticity in assessment: [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work; evaluative judgment asks whether the learner can tell good work from poor work.
+It is closely related to, but narrower than, authenticity in assessment: [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work; evaluative judgment asks whether the learner can tell good work from poor work. [[self-assessment]] appraises the learner's own work, competence, or progress against criteria, whereas evaluative judgment extends that appraisal to peers' work and to the output of an AI system as well.
 
 ## Why generative AI made it central
 
@@ -15584,6 +15586,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[feedback]]
 - [[feedback-literacy]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[authentic-assessment]]
 - [[academic-integrity]]
 - [[self-regulated-learning]]
@@ -15709,6 +15712,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[formative-assessment]]
 - [[summative-assessment]]
 - [[peer-assessment]]
+- [[self-assessment]]
 - [[automated-assessment]]
 - [[assessment]]
 - [[authentic-assessment]]
@@ -15822,7 +15826,7 @@ AI changes feedback in two directions that both raise the stakes of feedback lit
 
 ### Connections to related concepts
 
-Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the self-evaluation and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-assessment]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
+Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the [[self-assessment]] and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-assessment]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
 
 ## Connected Concepts
 
@@ -15833,6 +15837,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[self-regulated-learning]]
 - [[ai-literacy]]
 - [[peer-assessment]]
+- [[self-assessment]]
 - [[writing-education]]
 - [[metacognition]]
 - [[trust-calibration]]
@@ -16061,6 +16066,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[feedback]]
 - [[ai-feedback-quality]]
 - [[feedback-literacy]]
+- [[self-assessment]]
 - [[learning-analytics]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
@@ -16524,7 +16530,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 ## Introduction
 
-Peer assessment is an assessment design choice in which students take on part of the evaluative work usually reserved for instructors. Its forms differ in what students produce and what is at stake: peer feedback (comments on a draft, usually [[formative-assessment|formative]] and low-stakes), peer grading (a mark contributing to a grade), peer code review, and group or team assessment (where peers assess the collective product or one another's contributions). The form determines what students practice — giving a criteria-based comment builds [[evaluative-judgment|evaluative judgment]] differently from assigning a number, and defending one's own code orally builds something different again.
+Peer assessment is an assessment design choice in which students take on part of the evaluative work usually reserved for instructors. Its forms differ in what students produce and what is at stake: peer feedback (comments on a draft, usually [[formative-assessment|formative]] and low-stakes), peer grading (a mark contributing to a grade), peer code review, and group or team assessment (where peers assess the collective product or one another's contributions). The form determines what students practice — giving a criteria-based comment builds [[evaluative-judgment|evaluative judgment]] differently from assigning a number, and defending one's own code orally builds something different again. [[self-assessment]], the sibling practice, turns that same criteria-based scrutiny on the learner's own work, whereas peer assessment directs it at a peer's submission and the audience awareness that comes with it.
 
 The research base agrees that peer assessment produces learning and disagrees about how much depends on design. It gives students an authentic audience, develops evaluative judgment through criteria-based responding, and builds the social context that supports [[student-engagement|engagement]] and [[motivation]]. Its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students get clear criteria and training. That dependency is where AI enters, as a consistent, rubric-driven complement to the specific, context-aware feedback peers give, and increasingly as a scaffold built into the peer-assessment process itself.
 
@@ -16576,6 +16582,7 @@ The open questions are about the strength of the evidence, not only about design
 
 - [[writing-education]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[ai-feedback-quality]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]
@@ -16611,6 +16618,116 @@ The open questions are about the strength of the evidence, not only about design
 - [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
 - [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
+
+---
+
+## [Self-Assessment](https://edtechdev.github.io/aied/concepts/self-assessment/)
+
+> **Self-assessment** — judging your own work, competence, or progress against criteria, and the practices and instruments built on that act. The term carries two faces that are easy to collapse into one. As an **instructional technique** it is self-grading, rubric-based self-review, self-checking, and guided reflection: activities meant to develop the [[metacognition|monitoring]] and [[evaluative-judgment|judgment]] that [[self-regulated-learning]] runs on. As an **educational measure** it is a [[self-report-measures|self-report instrument]], in which a learner's estimate of their own skill, confidence, or learning stands in for an observation nobody made. It sits beside [[peer-assessment]] as the other half of students-as-assessors, and inherits the same dependence on [[scaffolding]] and explicit criteria. Both faces turn on the same faculty and both fail in the same direction: the estimate is systematically generous, and the more a learner's submitted work can be produced by a [[generative-ai|generative AI]] tool, the less that work says about whether the faculty is there at all.
+
+## Questions to Consider
+
+- When you finish a piece of your own work, what tells you whether it is good: the criteria you were handed, the criteria you have internalized, or how it feels? Could you tell which one you actually used?
+- In a study of 288 K-12 teachers, a self-reported measure of [[ai-literacy|AI literacy]] correlated with an objective measure of the same skill at only r = 0.07 to r = 0.24. Where in your own practice would a self-estimate most likely diverge from a test of the same skill, and why there rather than somewhere else?
+- Self-grading can save instructor time and build judgment, and it can also hand out a mark the student has not earned. What would have to be true about the task, the rubric, and the training for a self-grade to carry credit?
+- If a tool can produce the essay, what is left for a student to assess about their own learning? What would you ask them to estimate instead?
+- Students who assess a peer's work and students who assess their own are doing different things. Which one transfers better to the next task, and what evidence would settle it?
+
+## Introduction
+
+Self-assessment is one of the older ideas in education and one of the more confused ones in practice, because two distinct things travel under the name. The first is a technique: students reviewing their own work against criteria, grading it, checking it, reflecting on it. The second is a measurement: the learner's own rating of their skill, confidence, or learning, used as data. The technique is judged by what it develops in the learner; the measurement is judged by whether the number can be trusted.
+
+Both matter in an AI-era [[assessment|assessment design]], and they matter for different reasons. The technique is where [[evaluative-judgment|evaluative judgment]] is trained, and evaluative judgment is exactly the capability that becomes scarce when a [[llm|language model]] can produce competent-looking work on demand. The measurement is where the field routinely overstates what it knows, because a self-report cannot measure learning: it can only record what someone says about it.
+
+## Self-assessment as an instructional technique
+
+The practices that fall under this heading are familiar: self-grading against a rubric, self-review of a draft before submission, self-checking of problem solutions, reflective prompts asking what a learner would do differently, and prediction tasks where a student estimates their performance and then compares. Their purpose is developmental. A student who reviews their own draft against criteria is rehearsing the appraisal that peer review and instructor feedback also train, and is building the internal standard they will use when nobody is watching.
+
+Evidence that the technique works, and about which version works, comes mainly from writing and from self-regulated learning research. In a comparative study of feedback literacy, first-year undergraduates (N = 118 in China, 56 in a GenAI group and 62 in a peer group) worked through three self-assessment cycles across one semester. The GenAI group's advantage over the peer group was small, only 0.17 scale points (partial eta squared = 0.03), and the study's practical conclusion is the one that recurs: self-assessment needs scaffolding. Pre-trained rubrics, prompt guidelines, and worksheets are what separate a self-assessment cycle that builds [[feedback-literacy]] from one that produces [[cognitive-offloading|offloading]].
+
+Self-assessment is also where the cycle of [[self-regulated-learning]] becomes visible as a skill rather than a disposition. In an undergraduate statistics study, students who received explicit training in reasoning-focused scaffolding (stepwise hints and verification prompts) performed better on a later task attempted with no model assistance and showed better self-assessment calibration than students who leaned on the model uncritically. The interesting part is the second measure: the trained group's estimates of their own understanding aligned better with what they could actually do. A technique aimed at reflection changed a measurement property of the learner.
+
+### Calibration training
+
+The most direct technique is calibration training, where a student predicts their score or confidence before seeing a result and then compares the prediction with the outcome. In an AI-assisted writing study, a feedback literacy script improved writing quality, feedback uptake, and deep revision, while an Assessment-Performance Calibration Activity primarily improved the accuracy of students' self-assessment and reduced overconfidence. Combining the two produced the largest writing gains and the strongest retention after AI support was withdrawn, though the calibration activity alone remained the better route to accurate self-estimates. That division of labor is the practical point: feedback literacy improves what a student does with comments, calibration improves how well they know their own standing, and they are not the same intervention.
+
+An essay-level paper on [[ethics|ethical]] AI use at one Australian university treated guided self-assessment as the vehicle rather than the subject: across commencing nursing, health sciences, engineering, and science students from 2021 to 2025, pre- and post-semester self-assessments combined Likert confidence items with an open reflection prompt, and the authors argued that [[ethics|ethical]] practice is a developmental capability to be built through reflection rather than a compliance rule to be enforced.
+
+### What AI adds to the technique
+
+AI changes three things about the technique. It can generate the items and rubrics, which makes repeated self-assessment cycles cheap. It can be the thing assessed, which is how [[evaluative-judgment|evaluative judgment]] gets trained: a student judging an AI draft is practicing appraisal with an unlimited supply of material. And it can make the learner's judgment visible as process evidence. In interactive learning dashboards, a conventional analytics dashboard was extended with a Judgment of Learning self-assessment feature and a conversational agent, on the argument that eliciting a learner's own judgment does more for engagement than telling them what the data shows. Institutional frameworks have started to treat the same process traces, including structured self-assessments and metacognitive prompts, as evidence of adaptive capabilities that a transcript cannot show.
+
+## Self-assessment as a measure
+
+Used as a measure, self-assessment usually arrives dressed as something else: a confidence rating on a Likert scale, a predicted score, a Judgment of Learning item, or a taxonomy-based inventory of perceived skill. It is one family within the wider set of [[self-report-measures]], and it inherits that family's categorical limit. A self-report cannot measure learning or behavior; it can measure only what a person is willing to say about their learning or behavior, and those two things come apart often enough in this research base to be a finding in its own right.
+
+### How accurate the estimates are
+
+Accuracy is the headline problem, and the direction is consistent. The cleanest evidence comes from a study that built parallel self-report and objective measures of teacher [[ai-literacy|AI literacy]] inside a single framework. Across 288 K-12 teachers, correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24, and latent profile analysis found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the reverse pattern, and the remaining profiles clustered near the mean or split by prior AI literacy experience. Two measures of one skill, built by the same team on the same construct, share almost nothing.
+
+Accuracy also depends on what is being estimated. A psychometric analysis of a taxonomy-based GenAI literacy self-assessment with 158 university staff and students found an inverted profile, with respondents claiming mastery of creation before the conceptual foundations underneath it, and only a weak correlation (r = 0.188) between student and academic profiles. A survey of teacher-education students found the same shape from the other side: nearly all (97.8%) rated critical media analysis important while only 13.8% said their coursework addressed it, and fewer than half (44.9%) believed they had the skills to analyze media information critically. Self-assessed media competence lagged self-assessed importance.
+
+Two mechanisms explain the generosity. The first is motivational and well documented outside this literature: people rate themselves generously, and the least competent overestimate most. The second is specific to AI-native cohorts. A 2026 theoretical paper on the **absent cognitive baseline** argues that sustained substitutive AI use during the formative secondary and high-school years reduces the independent cognitive encounters that any academic self-assessment depends on. The claim is structural rather than individual: self-assessment works by comparing a current performance with a record of previous ones, and where the record was never built, the estimate has nothing to be calibrated against. That is presented as distinct from [[cognitive-offloading|offloading]] and [[cognitive-surrender|surrender]], which describe processes during AI use, because the gap persists when the tool is absent.
+
+### Self-assessment as an outcome variable
+
+The measurement face also shows up in evaluation design, where self-assessment instruments are used as outcome measures. One study of AI-assisted assessment of complex reports in higher education explicitly evaluates learning with validated feedback literacy and self-assessment instruments alongside subsequent performance and comparison with a control group. That is defensible when the instrument measures a belief the study is actually about, such as [[self-efficacy]] or perceived competence, and misleading when it is treated as a stand-in for achievement. The recurring critique of [[ai-ed-evaluation|AI intervention studies]] applies with full force here.
+
+## What generative AI changes
+
+The two faces converge under generative AI, because the tool attacks the link both of them rely on: that a learner's submitted work is evidence about the learner.
+
+Where the work can be produced on demand, a sound essay no longer demonstrates the judgment behind it, and asking a student to assess a draft they did not write is a different task from assessing one they did. This is why [[assessment-validity|assessment validity]] arguments have moved from detection toward redesign, and why self-assessment moves from a study aid to a component of the assessment design itself: the judgment a student makes about a piece of AI output, on the record and with reasons, is evidence in a way that the output is not.
+
+It also introduces a naming hazard worth stating plainly. **AI self-evaluation** is not this concept. When a paper reports that a model assesses its own reasoning or grades its own output, that is model evaluation and belongs with [[automated-assessment]] and the study of [[pedagogical-llm-training|model training]] and simulated learners; one tutoring study makes the practical version of the point, arguing that feedback should be conditioned on a separate diagnostic classifier rather than on the model's self-assessed reasoning validity. Learner self-assessment and model self-assessment share a vocabulary and nothing else.
+
+## Implications for practice
+
+- **Scaffold the technique.** Rubrics, prompt guidelines, and worksheets are what make a self-assessment cycle developmental. Bare self-assessment, like bare AI feedback, tends to produce reassurance rather than judgment.
+- **Train calibration separately from feedback use.** Prediction-and-compare activities change the accuracy of self-estimates; feedback-literacy work changes what students do with comments. If accuracy is the goal, run the calibration activity.
+- **Keep self-grades low-stakes unless the training is real.** A self-grade is a claim about learning made by the person it benefits, and the overestimation profiles in the AI-literacy study are not a small bias to absorb in a summative mark.
+- **Use self-report where it is honest.** Confidence, perceived competence, and willingness to disclose AI use are legitimate things to measure by asking. Achievement is not.
+- **Ask for judgment, not opinion.** The most defensible AI-era self-assessment asks a student to appraise a specific piece of work against criteria and justify the call, which is trainable, inspectable, and connected to [[evaluative-judgment]].
+- **Watch the cohort effect.** For students whose formative years included substitutive AI use, an accurate self-estimate may be unavailable rather than merely optimistic, which shifts the instructional task from correcting overconfidence to rebuilding the experiential record it needs.
+
+## Connected Concepts
+
+- [[evaluative-judgment]]
+- [[self-report-measures]]
+- [[peer-assessment]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[feedback-literacy]]
+- [[formative-assessment]]
+- [[assessment-validity]]
+- [[self-efficacy]]
+- [[scaffolding]]
+- [[cognitive-offloading]]
+- [[cognitive-surrender]]
+- [[trust-calibration]]
+- [[assessment]]
+- [[learning-gains]]
+- [[educational-measurement]]
+- [[ai-literacy]]
+
+## Connected Articles
+
+- [[pedlow-genai-selfassessment-2026]] — Pre- and post-semester self-assessments on ethical GenAI use across nursing, health sciences, engineering and science cohorts (Pedlow et al. 2026)
+- [[rethinking-ai-writing-feedback-literacy]] — Feedback literacy scripts versus calibration training in AI-assisted writing (2026)
+- [[scaffolding-srl-feedback-genai-human-peers]] — Three self-assessment cycles comparing scaffolded GenAI feedback with peer feedback, N = 118 (2026)
+- [[guided-llm-scaffolding-independent-learning]] — Verification-focused scaffolding improved independent performance and self-assessment calibration in statistics (2026)
+- [[absent-cognitive-baseline-2026]] — Academic self-assessment without the experiential record to calibrate against (2026)
+- [[ai-literacy-assessment-misalignment]] — Self-reported and objective measures of teacher AI literacy correlate only weakly, r = 0.07 to 0.24 (Zhang et al. 2026)
+- [[genai-skill-bypass-literacy]] — Rasch analysis of 158 GenAI-literacy self-assessments: an inverted skill profile (2026)
+- [[self-directed-growth-generative-ai-learning-analytics]] — Self-assessment placed at the center of a self-directed growth framework (2026)
+- [[tripartite-feedback-framework-ai-assessment-2026]] — Validated self-assessment instruments used as learning outcomes in AI-assisted assessment (2026)
+- [[ai-feedback-enactment-workflow-2026]] — Enacting AI feedback raised uptake and self-assessment confidence (2026)
+- [[interactive-learning-dashboards-engagement]] — A Judgment of Learning self-assessment feature inside an interactive dashboard (2026)
+- [[lodge-adaptive-capabilities-genai-future-2026]] — Structured self-assessments as process evidence for adaptive capabilities (Lodge et al. 2026)
+- [[critical-media-literacy-education-2026]] — Self-assessed media competence lags perceived importance (2026)
+- [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
+- [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
+- [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
 
 ---
 
@@ -17452,7 +17569,7 @@ The consequence is a set of claims that look similar in a results section but di
 - "Students learned more with the tutor" — an outcome, not establishable by asking at all.
 - "Teachers are confident using AI" — a self-belief, not evidence of competence.
 
-Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply.
+Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply. [[self-assessment]] is a member of that wider family rather than a synonym for it: where self-report measures reach attitudes, trust, and satisfaction, self-assessment turns the learner's estimate specifically onto their own skill, confidence, or learning.
 
 ## The perception–behavior gap
 
@@ -17527,6 +17644,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 - [[interpreting-and-applying-aied-research]]
 - [[educational-measurement]]
+- [[self-assessment]]
 - [[research-methods-aied]]
 - [[quantitative-research]]
 - [[qualitative-research]]
@@ -26341,7 +26459,7 @@ Beau, A., Flaquière, D., & Lazar, G. (2026). [*AI-Assisted Research Competency 
 
 ## [The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment](https://edtechdev.github.io/aied/articles/absent-cognitive-baseline-2026/)
 
-> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
+> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
 
 ## Key Findings
 
@@ -26352,7 +26470,7 @@ Beau, A., Flaquière, D., & Lazar, G. (2026). [*AI-Assisted Research Competency 
    - **De-normalization of cognitive struggle** (normative-interpretive plane): struggle loses its status as a meaningful learning signal and is reinterpreted as inefficiency.
 
 3. **Three groups of moderating variables.** ACB is most likely to emerge when three conditions co-occur: substitutive and frequent AI use during the formative years, limited [[prior-knowledge|prior knowledge]] and underdeveloped self-regulated learning, and an environment providing little structured guidance for AI use. **Use-level** moderators include the mode of interaction (substitutive vs. complementary) and frequency; **learner-level** include prior knowledge (strong learners benefit, weak learners are harmed) and SRL capacity; **environment-level** include guided vs. unguided AI architectures.
-4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* self-assessment, whether confident or cautious).
+4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* [[self-assessment]], whether confident or cautious).
 5. **The central shift in analytical level.** Most [[ai-education]] [[research-methods-aied|research]] asks whether AI improves or harms performance. ACB asks whether sustained AI use during formative years may alter a learner's *ability to assess their own learning*: "generative AI may change not only what students can do academically, but the conditions under which they come to know what they can do."
 
 ## Theoretical foundations
@@ -26393,6 +26511,7 @@ Methodologically, the paper argues that existing frameworks reach "ACB's door bu
 ## Connected Concepts
 
 - [[metacognition]]
+- [[self-assessment]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[student-experience]]
@@ -28274,7 +28393,7 @@ Agentic systems, operating within the broader digital ecosystem of an educationa
 | [[prior-knowledge|Prior knowledge activation]] | Agents pre-fetching content bypass the retrieval practice that activates prior knowledge; algorithmic generalizations may also misjudge what a learner knows |
 | [[collaborative-learning]] | Agent initiative crowds out peer negotiation and role-taking |
 | [[problem-based-learning]] | Goal-directed agents resolve problems before learners grapple with them |
-| [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-regulated-learning|self-assessment]] loops |
+| [[formative-assessment]] | Agent-generated [[feedback]] pre-empts learners' own [[self-assessment]] loops |
 | [[scaffolding]] | Automated scaffolds stay static instead of being dynamically withdrawn (fading) |
 | [[metacognition]] | Agent initiation displaces the learner's own planning, monitoring, evaluation |
 
@@ -32182,7 +32301,7 @@ Bearman, M., Corbin, T., Walton, J., Tai, J., Nieminen, J. H., Dawson, P., Crawf
 
 ## [Making AI-Generated Feedback Matter: From Provision to Student Enactment](https://edtechdev.github.io/aied/articles/ai-feedback-enactment-workflow-2026/)
 
-> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].
+> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher [[self-assessment]] confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].
 
 ## From Provision to Enactment
 
@@ -32230,6 +32349,7 @@ The design's key strength is that the Enacted Feedback workflow scaffolds three 
 
 - [[feedback]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[human-ai-collaboration]]
 - [[learning-analytics]]
 - [[formative-assessment]]
@@ -33741,14 +33861,14 @@ Zou, J., Li, N., Wang, X., & Du, J. (2026). [From AI literacy to AI-integrated i
 
 ## [How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures](https://edtechdev.github.io/aied/articles/ai-literacy-assessment-misalignment/)
 
-> **Synthesis:** Highlights critical misalignment between self-reported [[ai-literacy|AI literacy]] and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
+> **Synthesis:** Compares parallel self-report and objective-based measures of [[ai-literacy|AI literacy]] built inside the same Concept, Use, Evaluate, Ethics framework for 288 K-12 teachers, and finds the two barely agree. Correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24, and latent profile analysis found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the opposite pattern, and the rest clustered near the mean or split by prior AI literacy experience.
 
 ## Key Findings
 
 - The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of teacher AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
 - Confirmatory factor analyses supported construct validity with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
 - Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR ≈ OB), and a unique low-SR/low-OB profile concentrated among teachers without prior AI literacy experience.
-- The divergence between perceived and demonstrated competence has direct implications for professional development: self-assessment alone is an unreliable basis for planning AI training.
+- The divergence between perceived and demonstrated competence has direct implications for professional development: [[self-assessment]] alone is an unreliable basis for planning AI training.
 - The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable learning-analytics interventions tailored to teacher subgroups.
 
 ## Study Design & Method
@@ -33781,6 +33901,7 @@ The [[research-methods-aied|research]] responds to the widespread adoption of AI
 - [[educational-development]]
 - [[learning-analytics]]
 - [[self-report-measures]]
+- [[self-assessment]]
 
 ## Connected Articles
 
@@ -51342,7 +51463,7 @@ Hefter, M. H., Paaßen, B., & Berthold, K. (2026). [*GenAI knowledge, epistemic 
 2. **[[teacher-education|Teacher training]] gap.** Teachers are inadequately trained to manage these tools effectively, which directly hinders the development of students' [[critical-thinking]]. Institutional priorities favor technological and instructional skills over media education.
 3. **Critical media literacy as the remedy.** Students and experts agree the goal should be a critical media literacy that goes beyond tool use to help learners question and evaluate the content they consume, within an ethical and reflective framework that promotes participatory and critical citizenship.
 4. **Low conceptual awareness among students.** While 97.8% of surveyed students recognize the importance of tools for critical media analysis, only 13.8% say these skills were addressed in their coursework; only 2.13% were familiar with all three of media education, media literacy, and educommunication.
-5. **Self-assessed competence lags perceived importance.** Just under half of students (44.9%) feel they have the skills to critically analyze media information, and 45.7% feel ready to work with media content — a gap between the high value placed on these skills and actual readiness.
+5. **[[self-assessment|Self-assessed competence]] lags perceived importance.** Just under half of students (44.9%) feel they have the skills to critically analyze media information, and 45.7% feel ready to work with media content — a gap between the high value placed on these skills and actual readiness.
 6. **Media literacy as an experiential process.** More frequent and more diverse media consumption correlates with higher perceived critical competence, suggesting critical skills also develop through meaningful everyday media [[student-engagement|engagement]] beyond formal education.
 
 ## Background and Research Questions
@@ -51399,6 +51520,7 @@ The study also underscores that [[equity-in-ai-education|digital inequity]] is a
 ## Connected Concepts
 
 - [[ai-literacy]]
+- [[self-assessment]]
 - [[critical-thinking]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
@@ -63670,7 +63792,7 @@ Mool, A., Schmid, J., Johnston, T., Smith McCoy, K.J., et al. (2026). [*Using ge
 
 ## [The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy](https://edtechdev.github.io/aied/articles/genai-skill-bypass-literacy/)
 
-> **Synthesis:** Higher education institutions are increasingly expected to ensure that both students and staff develop Generative AI (GenAI) literacies. In response, they are introducing professional development programs and embedding GenAI skills within student curricula. However, current educational frameworks typically assume a linear progression of GenAI literacy, implying that foundational technical understanding must precede creative application. This paper challenges such an assumption through a psychometric analysis of a taxonomy-based self-assessment instrument (n = 158). We applied Rasch [[educational-measurement|measurement theory]] and Guttman ordering to map the latent perceived order of difficulty of GenAI skills across students, academics, and professional staff. Results reveal a fundamental divergence in perceived competence profiles: while academics follow a more traditional linear path, students exhibit an inverted profile, frequently mastering high-level creation tasks before acquiring foundational conceptual understanding. Furthermore, the correlation of skill difficulty between students and academics was weak (r = 0.188). We argue that this skill bypass creates a fragile sense of fluency, where high [[self-efficacy]] in [[prompt-engineering|prompting]] masks low literacy in AI mechanics. These findings challenge the one-size-fits-all curricula and provide the empirical basis for diagnostic-driven, modular interventions that foster genuine human-AI synergy.
+> **Synthesis:** Higher education institutions are increasingly expected to ensure that both students and staff develop Generative AI (GenAI) literacies. In response, they are introducing professional development programs and embedding GenAI skills within student curricula. However, current educational frameworks typically assume a linear progression of GenAI literacy, implying that foundational technical understanding must precede creative application. This paper challenges such an assumption through a psychometric analysis of a taxonomy-based [[self-assessment]] instrument (n = 158). We applied Rasch [[educational-measurement|measurement theory]] and Guttman ordering to map the latent perceived order of difficulty of GenAI skills across students, academics, and professional staff. Results reveal a fundamental divergence in perceived competence profiles: while academics follow a more traditional linear path, students exhibit an inverted profile, frequently mastering high-level creation tasks before acquiring foundational conceptual understanding. Furthermore, the correlation of skill difficulty between students and academics was weak (r = 0.188). We argue that this skill bypass creates a fragile sense of fluency, where high [[self-efficacy]] in [[prompt-engineering|prompting]] masks low literacy in AI mechanics. These findings challenge the one-size-fits-all curricula and provide the empirical basis for diagnostic-driven, modular interventions that foster genuine human-AI synergy.
 
 Rasch analysis of n=158 GenAI-literacy self-assessments reveals students show an inverted skill profile (mastering creation before conceptual foundations), weak correlation with academics (r=0.188); a skill bypass gives fragile fluency where prompting self-efficacy masks low AI-mechanics literacy, arguing against one-size-fits-all curricula.
 
@@ -63699,6 +63821,7 @@ This work connects to core knowledge base themes: [[ai-literacy]] [[higher-ed]] 
 - [[educational-development]]
 - [[self-efficacy]]
 - [[educational-measurement]]
+- [[self-assessment]]
 - [[curriculum-design]]
 ## Connected Articles
 
@@ -66384,7 +66507,7 @@ Hingle, A., & Johri, A. (2026). [*A Guided Inquiry Approach to Students Co-Desig
 
 ## [Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics](https://edtechdev.github.io/aied/articles/guided-llm-scaffolding-independent-learning/)
 
-> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and [[self-assessment]] calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings
 
@@ -66420,6 +66543,7 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 - [[prompt-engineering]]
 - [[curriculum-design]]
 - [[metacognition]]
+- [[self-assessment]]
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 - [[help-seeking]]
@@ -69051,7 +69175,7 @@ The study is a randomized controlled experiment with 179 participants recruited 
 
 ## Results
 
-Participants' [[metacognition|self-assessments]] correlated meaningfully with measured performance (strongest for general [[machine-learning]] knowledge, ρ = .71), yet the dimensions they could introspect accurately were not the ones driving inequality. LLM-condition participants scored significantly higher on the post-intervention exam (M = .56 vs. .48) and dropped out at far lower rates, with preferences and attrition converging as revealed-preference signals. Crucially, GPA (p = .59) and [[prior-knowledge|prior knowledge]] (p = .2) showed no significant interaction with treatment, while the Treatment × AIC interaction was positive and significant. A three-way interaction showed that novices with low prior knowledge benefited most — but only when they had high AIC. Scaffolding compressed heterogeneity (SD dropped from .22 to .14), while additional study time yielded no gains.
+Participants' [[self-assessment|self-assessments]] correlated meaningfully with measured performance (strongest for general [[machine-learning]] knowledge, ρ = .71), yet the dimensions they could introspect accurately were not the ones driving inequality. LLM-condition participants scored significantly higher on the post-intervention exam (M = .56 vs. .48) and dropped out at far lower rates, with preferences and attrition converging as revealed-preference signals. Crucially, GPA (p = .59) and [[prior-knowledge|prior knowledge]] (p = .2) showed no significant interaction with treatment, while the Treatment × AIC interaction was positive and significant. A three-way interaction showed that novices with low prior knowledge benefited most — but only when they had high AIC. Scaffolding compressed heterogeneity (SD dropped from .22 to .14), while additional study time yielded no gains.
 
 ## Discussion and Implications
 
@@ -70183,7 +70307,7 @@ Ocak, C., & Caskurlu, S. (2026). [*Unpacking ethics-domain of intelligent-TPACK 
 
 ## [Interactive learning dashboards: rethinking learning visualisations as engagement tools](https://edtechdev.github.io/aied/articles/interactive-learning-dashboards-engagement/)
 
-> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
+> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) [[self-assessment]] feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
 
 ## Study Design
 
@@ -70233,8 +70357,9 @@ These findings connect to broader [[self-regulated-learning]] theory and the [[m
 - [[metacognition]]
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 
-- visualization
+- [[visualization]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...
@@ -72766,7 +72891,7 @@ The authors connect the requirements to three instructional-design traditions, a
 ## What this means for practice
 
 - **Instructors.** Sequence AI access by demonstrated competence rather than by calendar or permission — withhold it during foundational weeks, permit guided use with mandatory code-explanation tasks, then require reflective critique — and make verification a graded, observable component of the task, because the 36 studies showing efficiency gains sit alongside 21 showing those gains do not transfer without it.
-- **Curriculum designers.** Treat AI literacy as taught rather than assumed: [[prompt-engineering|prompt engineering]], output verification and error analysis do not develop through exposure alone, and students performed significantly worse correcting [[llm|LLM]]-generated code than on traditional programming exam tasks.
+- **Curriculum designers.** Treat AI literacy as taught rather than assumed: [[prompt-engineering|prompt engineering]], output verification and error analysis do not develop through exposure alone, and students performed significantly worse correcting [[llm]]-generated code than on traditional programming exam tasks.
 - **Curriculum designers.** Add an oral or process-visible element to at least one high-stakes assessment per course — the review's highest-leverage single intervention — rather than relying on detection, which rests on only 3 of the 72 studies.
 - **Administrators.** Close the implementation gap with faculty development and assessment redesign rather than more primary research: most instructors operate at a tolerance rather than transformation level, and 70% of one national sample of faculty explicitly requested training on AI-resistant assessment design.
 - **Researchers.** Treat the setting as a standing research agenda: how students learn alongside tools that perform the very tasks they are taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
@@ -72795,7 +72920,7 @@ The authors connect the requirements to three instructional-design traditions, a
 - [[summative-assessment]]
 - [[evaluative-judgment]]
 - zone of proximal development
-- desirable difficulties
+- [[desirable-difficulties]]
 - cognitive load
 - [[student-ai-interaction]]
 
@@ -78865,7 +78990,7 @@ Lock, J., Arteaga, S., & Johnson, C. (2025). [Integrating AI in Online Learning 
 ## Five propositions of practice
 
 1. **Establish adaptive capabilities as core graduate attributes.** Embedding the four capabilities operationalizes Threshold Standards graduate-attribute requirements across disciplines, aligned with the National Skills Taxonomy and Australian Digital Capability Framework. Professional learning for educators focuses on [[scaffolding]] students' adaptive capabilities within human–gen AI networks.
-2. **Build institutional infrastructure for learning process evidence.** Invest in systematic capacity to collect and analyze data on learning processes — traces students generate as they plan, monitor, seek feedback, revise, and interact with gen AI (time-stamped edits, resource-use patterns, [[problem-solving]] sequences, metacognitive prompts, structured self-assessments) — prioritizing student [[agency]], privacy and transparency (e.g., open learner models).
+2. **Build institutional infrastructure for learning process evidence.** Invest in systematic capacity to collect and analyze data on learning processes — traces students generate as they plan, monitor, seek feedback, revise, and interact with gen AI (time-stamped edits, resource-use patterns, [[problem-solving]] sequences, metacognitive prompts, structured [[self-assessment|self-assessments]]) — prioritizing student [[agency]], privacy and transparency (e.g., open learner models).
 3. **Design learning environments that promote adaptive capabilities** through evidence-informed [[pedagogy|pedagogical]] practices, including [[desirable-difficulties|desirable difficulties]] and the value of productive struggle.
 4. **Transform pedagogical practice toward process-focused assessment.** Rebalance assessment so learning-process documentation complements (not replaces) product evaluation. [[learning-analytics|Learning analytics]] make processes visible; [[research-methods-aied|research]] (e.g., Raković et al. 2023) shows process features can explain more variance in performance than product features alone. Requires training educators and fading scaffolding as students develop [[self-regulated-learning|self-regulated learning]].
 5. **Foster collaborative innovation across institutions.** Cross-institutional collaboration shares resources, research findings and approaches, building sector-wide capacity while prioritizing human agency and educational effectiveness over technological capability.
@@ -78891,6 +79016,7 @@ Lock, J., Arteaga, S., & Johnson, C. (2025). [Integrating AI in Online Learning 
 - [[ai-literacy]]
 - [[metacognition]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[lifelong-learning]]
 - [[distributed-cognition]]
 - [[collaborative-learning]]
@@ -87139,7 +87265,7 @@ Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Think
 
 ## [Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education](https://edtechdev.github.io/aied/articles/pedlow-genai-selfassessment-2026/)
 
-> **Synthesis:** Pedlow and Maldon (2026) investigate how guided reflection embedded within [[assessment|self-assessment]] can support students to engage responsibly and confidently with [[generative-ai|generative AI (GenAI)]] in learning and [[assessment]], while maintaining [[academic-integrity|academic integrity]]. Conducted at an Australian university (Edith Cowan) with commencing undergraduate and postgraduate students across nursing, health sciences, engineering and science (2021–2025), the study implemented pre- and post-semester [[assessment|self-assessments]] combining Likert-scale confidence items with an open-ended prompt inviting reflection on the [[ethics|ethical implications]] of GenAI use. Findings indicate that students recognized both the benefits and limitations of GenAI, demonstrating growing [[ethics|ethical awareness]] and [[critical-thinking|critical evaluation]] of its role in academic work. Reflections revealed persistent tensions between efficiency and [[academic-integrity|academic integrity]], uncertainty about [[governance|institutional]] expectations, and a shift from risk aversion and fear toward deliberate boundary-setting, disclosure, and critical vigilance. Students reported an increased sense of personal responsibility, describing the reflective process as confidence-building during their transition to [[higher-ed|higher education]]. The authors frame [[ethics|ethical]] GenAI use not as compliance but as a developmental capability, positioning guided reflection within [[assessment|self-assessment]] as a scalable, student-centered [[pedagogy|pedagogical]] strategy that fosters readiness, [[self-regulated-learning|self-regulated learning]], and [[agency|learner agency]].
+> **Synthesis:** Pedlow and Maldon (2026) investigate how guided reflection embedded within [[self-assessment]] can support students to engage responsibly and confidently with [[generative-ai|generative AI (GenAI)]] in learning and [[assessment]], while maintaining [[academic-integrity|academic integrity]]. Conducted at an Australian university (Edith Cowan) with commencing undergraduate and postgraduate students across nursing, health sciences, engineering and science (2021–2025), the study implemented pre- and post-semester [[self-assessment|self-assessments]] combining Likert-scale confidence items with an open-ended prompt inviting reflection on the [[ethics|ethical implications]] of GenAI use. Findings indicate that students recognized both the benefits and limitations of GenAI, demonstrating growing [[ethics|ethical awareness]] and [[critical-thinking|critical evaluation]] of its role in academic work. Reflections revealed persistent tensions between efficiency and [[academic-integrity|academic integrity]], uncertainty about [[governance|institutional]] expectations, and a shift from risk aversion and fear toward deliberate boundary-setting, disclosure, and critical vigilance. Students reported an increased sense of personal responsibility, describing the reflective process as confidence-building during their transition to [[higher-ed|higher education]]. The authors frame [[ethics|ethical]] GenAI use not as compliance but as a developmental capability, positioning guided reflection within [[self-assessment]] as a scalable, student-centered [[pedagogy|pedagogical]] strategy that fosters readiness, [[self-regulated-learning|self-regulated learning]], and [[agency|learner agency]].
 
 ## Key Findings
 - **Guided reflection raised [[ethics|ethical]] awareness**: students moved from pre-intervention risk aversion and fear (e.g. "I have never used GenAI as I'm too scared of breaching [[academic-integrity|academic integrity]]") toward more defined strategies for ethical [[student-engagement|engagement]] around disclosure, accountability, and critical vigilance over outputs.
@@ -87147,13 +87273,13 @@ Hosseini, H. (2026). [*The Pedagogy of AI Mistakes: Fostering Higher-Order Think
 - **Undergraduates vs. postgraduates diverged**: undergraduates showed the strongest gains in [[academic-integrity|academic integrity]] skills but *decreased* confidence in using GenAI for learning/assessment (a realignment of understanding toward its limits and complexities), whereas postgraduates improved consistently from a lower baseline in assessment-related GenAI use.
 - **Tensions between efficiency and integrity persisted**: reflections surfaced ongoing concerns about referencing, acknowledgment, [[bias-mitigation|fairness]], reliability, [[hallucination-risk|hallucinations]], and intellectual property — procedural and ethical complexity that a reflective intervention alone did not resolve.
 - **Reflection fostered [[agency|learner agency]] and personal responsibility**: students described the reflective process as confidence-building during their transition to university, linking ethical use to professional identity and resisting [[cognitive-offloading|over-reliance]] on [[generative-ai|GenAI]].
-- **[[assessment|Self-assessment]] reframes ethical inquiry as pedagogy**: embedding GenAI-focused reflection within [[assessment|self-assessment]] shifts the focus from compliance and detection toward critical, self-regulated engagement, offering a scalable model adaptable across disciplines and year levels.
+- **[[self-assessment]] reframes ethical inquiry as pedagogy**: embedding GenAI-focused reflection within [[self-assessment]] shifts the focus from compliance and detection toward critical, self-regulated engagement, offering a scalable model adaptable across disciplines and year levels.
 
 ## Study Design & Method
-The study used a **pre-test/post-test quasi-experimental design** (Rogers & Revesz, 2019) underpinned by a descriptive [[qualitative-research|qualitative]] methodology (Braun & Clarke, 2013). Participants were commencing undergraduate (n=491) and postgraduate (n=206) students at Edith Cowan University recruited via convenience sampling across nursing, health sciences, engineering and science. The intervention was an [[assessment|self-assessment]] survey, co-designed with students and staff, originally developed in 2021 for academic and digital literacy and expanded with GenAI-specific questions in 2023. It addressed four domains: (1) confidence in [[academic-integrity|academic integrity]] practices, (2) confidence using GenAI for [[assessment]] preparation, (3) confidence using GenAI for learning, and (4) an open-ended [[ethics|ethical]] reflection ("Have you considered the ethical implications of using GenAI? If yes, how?"). [[quantitative-research|Quantitative]] items used a four-point confidence scale and were analyzed descriptively with paired-samples t-tests on matched responses (n=25); open-ended responses were analyzed using Braun & Clarke's six-phase inductive thematic analysis with peer debriefing for credibility. Pre-surveys (n=697) were administered in Orientation/Weeks 1–2; post-surveys (n=67) in Weeks 12–13. Instrument reliability was excellent (Cronbach's α = .94 pre, .93 post). The authors note high pre-test but variable post-test response rates as a limitation, particularly for the matched subsample.
+The study used a **pre-test/post-test quasi-experimental design** (Rogers & Revesz, 2019) underpinned by a descriptive [[qualitative-research|qualitative]] methodology (Braun & Clarke, 2013). Participants were commencing undergraduate (n=491) and postgraduate (n=206) students at Edith Cowan University recruited via convenience sampling across nursing, health sciences, engineering and science. The intervention was an [[self-assessment]] survey, co-designed with students and staff, originally developed in 2021 for academic and digital literacy and expanded with GenAI-specific questions in 2023. It addressed four domains: (1) confidence in [[academic-integrity|academic integrity]] practices, (2) confidence using GenAI for [[assessment]] preparation, (3) confidence using GenAI for learning, and (4) an open-ended [[ethics|ethical]] reflection ("Have you considered the ethical implications of using GenAI? If yes, how?"). [[quantitative-research|Quantitative]] items used a four-point confidence scale and were analyzed descriptively with paired-samples t-tests on matched responses (n=25); open-ended responses were analyzed using Braun & Clarke's six-phase inductive thematic analysis with peer debriefing for credibility. Pre-surveys (n=697) were administered in Orientation/Weeks 1–2; post-surveys (n=67) in Weeks 12–13. Instrument reliability was excellent (Cronbach's α = .94 pre, .93 post). The authors note high pre-test but variable post-test response rates as a limitation, particularly for the matched subsample.
 
 ## What this means for practice
-- **Instructors.** Embed a short confidence-rating plus open-reflection [[assessment|self-assessment]] in orientation or the first weeks of a unit and repeat it at semester end, so ethical inquiry about [[generative-ai|GenAI]] becomes part of academic development rather than an externally imposed rule.
+- **Instructors.** Embed a short confidence-rating plus open-reflection [[self-assessment]] in orientation or the first weeks of a unit and repeat it at semester end, so ethical inquiry about [[generative-ai|GenAI]] becomes part of academic development rather than an externally imposed rule.
 - **Instructors.** Teach the procedural conventions explicitly alongside [[ethics|ethical]] reflection — referencing, acknowledgment, and record-keeping — since confidence in [[academic-integrity|academic integrity]] rose most in exactly those areas.
 - **Instructors.** Read the responses to locate students starting from the lowest confidence, where gains were largest, and treat the reflective prompt as a low-cost way to surface deliberation about boundaries, disclosure, and accountability.
 - **Faculty developers.** Frame [[academic-integrity|academic integrity]] work as educative and student-centered rather than compliance- and detection-driven, and scaffold [[metacognition|metacognitive awareness]] and [[self-regulated-learning|self-regulated learning]] for GenAI-mediated environments. Note the paper's CC BY-ND (no derivatives) license before adapting its materials.
@@ -87168,6 +87294,7 @@ The study used a **pre-test/post-test quasi-experimental design** (Rogers & Reve
 - [[generative-ai]]
 - [[ethics]]
 - [[assessment]]
+- [[self-assessment]]
 - [[authentic-assessment]]
 - [[academic-integrity]]
 - [[agency]]
@@ -92984,7 +93111,7 @@ ASSESSMENT, R., ERA, I.T.A., a, K.I.F., Conference, F., McGee, N.J., Thille, C.,
 
 ## [Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development](https://edtechdev.github.io/aied/articles/rethinking-ai-writing-feedback-literacy/)
 
-> **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves self-assessment accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
+> **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves [[self-assessment]] accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
 
 ## Core Finding
 
@@ -93015,7 +93142,7 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 
 ## Methodological Notes
 
-Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, baseline-adjusted SAA models, and inter-rater reliability (Cohen's κ = 0.85 EAR; 0.82 revision depth; ICC 0.92 writing score). Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
+Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, and baseline-adjusted self-assessment accuracy models. Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
 
 ## What this means for practice
 
@@ -93036,6 +93163,7 @@ Strengths include a controlled factorial design with process data (decision shee
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[writing-education]]
 - [[ai-literacy]]
 - [[metacognition]]
@@ -94601,7 +94729,7 @@ Wang, D., & Bian, C. (2026). [Scaffolding critical engagement with GenAI: Transf
 
 ## The Study
 
-The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three self-assessment cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behavior Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
+The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three [[self-assessment]] cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behavior Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
 
 ## Findings Across the SRL Phases
 
@@ -94632,7 +94760,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 
 - N = 118 first-year undergraduates in two intact parallel English classes at one university in Guangdong, China; groups were not randomly assigned, so class or instructor effects cannot be excluded.
 - The intervention ran three self-assessment cycles in a single semester, and the authors flag a possible novelty effect alongside the small effect size (η²p = 0.03).
-- Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics|learning-analytics]] measures.
+- Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics]] measures.
 - Generalizability is limited to one EFL writing context with Mandarin L1 students.
 
 ## Connected Concepts
@@ -94642,6 +94770,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 - [[feedback]]
 - [[formative-assessment]]
 - [[peer-assessment]]
+- [[self-assessment]]
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[generative-ai]]
@@ -95450,7 +95579,7 @@ Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces
 
 ## [Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework](https://edtechdev.github.io/aied/articles/self-directed-growth-generative-ai-learning-analytics/)
 
-> **Synthesis:** Mao (2025) proposes a conceptual framework that integrates [[generative-ai|Generative AI]] (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and [[summative-assessment|summative]] self-assessment within GAI-supported environments. The paper argues that sustainable learner [[agency]] and [[equity-in-ai-education|educational equity]] depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative [[scaffolding|scaffold]] rather than a content provider.
+> **Synthesis:** Mao (2025) proposes a conceptual framework that integrates [[generative-ai|Generative AI]] (GAI) and [[learning-analytics|learning analytics]] to cultivate **Self-Directed Growth** — a competency enabling learners to iteratively drive their own developmental pathways across contexts. At its core is the **Aspire to Potentials for Learners (A2PL)** model, which reconceptualizes learner aspirations, complex thinking, and [[summative-assessment|summative]] [[self-assessment]] within GAI-supported environments. The paper argues that sustainable learner [[agency]] and [[equity-in-ai-education|educational equity]] depend less on access than on building the Capacity to Aspire and clear developmental pathways, positioning GAI as a non-prescriptive collaborative [[scaffolding|scaffold]] rather than a content provider.
 
 ## Key Findings
 
@@ -95478,6 +95607,7 @@ Palmquist, A., Sigurdardottir, H. D., & Myhre, H. (2025). [*Exploring interfaces
 ## Connected Concepts
 
 - [[self-directed-learning]]
+- [[self-assessment]]
 - [[self-regulated-learning]]
 - [[learning-analytics]]
 - [[personalized-learning]]
@@ -98098,7 +98228,7 @@ Sposato, M. (2025). [*Artificial intelligence in educational leadership: a compr
 - [[llm]]
 - [[privacy]]
 - [[active-learning]]
-- Qualitative Research
+- [[qualitative-research]]
 - [[student-experience]]
 - [[trust-calibration]]
 
@@ -104816,7 +104946,7 @@ Ren, McDowell & Zhou (2026). [Beyond Perspectives: A Trio-Ethnography of Interpr
 9. **A four-stage implementation pathway with explicit [[human-in-the-loop-ai|human-in-the-loop]] requirements.** Stage 1 deploys mature commercial tools for structural and presentational feedback; Stage 2 develops AI-supported intermediate checking framed as *flagging potential issues for expert review* rather than producing feedback, starting with high-frequency human oversight of all outputs and scaling back only as evidence demonstrates acceptable reliability and security; Stage 3 has staff generate high-level feedback themselves, deciding whether time freed earlier is reinvested in depth or elsewhere; Stage 4 integrates all three into student-facing delivery with clear attribution. The operational procedure (Report Assessment & Feedback) defines the fact-check points and rubric first, has the system produce low- and intermediate-level reports, has the assessor modify them, add high-level feedback, then rank all comments into a Final Feedback Report that the assessor approves — with assessment of both the frequency and the *type* of human action retained as evidence.
 10. **Human-in-the-loop frequency is a design decision with a default.** High-frequency oversight buys quality control, rapid error detection, accountability and calibration but can erode the efficiency gains that motivated AI use and bottleneck peak periods; low-frequency spot-checking scales and speeds turnaround but risks undetected error propagation across submissions, weaker accountability, and inequity if some students receive more thorough review than others. Rather than prescribing a universal answer, the framework requires the trade-off to be made deliberately against disciplinary norms, assessment stakes, cohort size and institutional resources, and sets a default: begin with high-frequency oversight and reduce it only on substantial evidence of acceptable reliability, security and fairness — the burden of proof resting on demonstrating that reduced oversight is safe.
 11. **The pedagogical questions are left open rather than answered.** The paper asks whether automated correction of formatting and grammar builds professional communication skill or merely produces correctly formatted documents; whether automated factual checking develops self-verification habits or creates dependency on external validation that undermines [[agency|autonomy]]; whether students engage with *why* an error occurred or simply fix flagged items; and whether multi-source feedback (human, AI verification, automated checking) supports [[evaluative-judgment|evaluative judgment]] or multiplies information in a way that reinforces transmission models of feedback. Its [[equity-in-ai-education|equity]] mandate is similarly a requirement rather than a result: training-data bias, differential treatment of non-standard expression styles, [[accessibility]] for disabled students, and unequal institutional access to AI-assisted feedback are named as live risks to be audited with disaggregated outcome monitoring.
-12. **An evaluation design is specified as the price of adoption.** [[quantitative-research|Quantitative]] evidence would cover efficiency (turnaround time, staff time per submission, total workload against control modules), consistency (inter-marker reliability for high-level feedback, low- and intermediate-level consistency, AI error frequency), quality (student satisfaction, independently rated specificity and actionability) and learning (subsequent performance, validated feedback-literacy and self-assessment instruments, [[learning-gains|learning gains]] versus control). [[qualitative-research|Qualitative]] evidence would cover student focus groups on clarity, usefulness and [[trust|trustworthiness]], staff interviews on workload, judgment processes and professional identity, process documentation, and systematic analysis of AI errors, security incidents and equity impacts. Matched control modules are required; randomized assignment gives the strongest inference but may be infeasible, so the paper accepts pre–post comparison across years or mixed-cohort within-subject designs, with a staged approach beginning from low-cost proxies such as turnaround time, flagged error rates and human–AI agreement in spot checks.
+12. **An evaluation design is specified as the price of adoption.** [[quantitative-research|Quantitative]] evidence would cover efficiency (turnaround time, staff time per submission, total workload against control modules), consistency (inter-marker reliability for high-level feedback, low- and intermediate-level consistency, AI error frequency), quality (student satisfaction, independently rated specificity and actionability) and learning (subsequent performance, validated feedback-literacy and [[self-assessment]] instruments, [[learning-gains|learning gains]] versus control). [[qualitative-research|Qualitative]] evidence would cover student focus groups on clarity, usefulness and [[trust|trustworthiness]], staff interviews on workload, judgment processes and professional identity, process documentation, and systematic analysis of AI errors, security incidents and equity impacts. Matched control modules are required; randomized assignment gives the strongest inference but may be infeasible, so the paper accepts pre–post comparison across years or mixed-cohort within-subject designs, with a staged approach beginning from low-cost proxies such as turnaround time, flagged error rates and human–AI agreement in spot checks.
 
 ## Relationship to Existing Frameworks
 
@@ -104840,6 +104970,7 @@ The paper is deliberately conceptual and reports **no empirical validation and n
 - [[automated-assessment]]
 - [[human-in-the-loop-ai]]
 - [[feedback-literacy]]
+- [[self-assessment]]
 - [[assessment-validity]]
 - [[academic-integrity]]
 - [[rag]]
