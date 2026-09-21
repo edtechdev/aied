@@ -424,7 +424,14 @@ for group_type in RESOURCE_GROUP_ORDER:
             head.append("- **Link checked:** " + f['checked'])
         extra = ''
         if f['connected']:
-            lines = ['\n## Connected Resources\n']
+            # H4, not H2. A resource entry is an H3, so an H2 heading here became
+            # a TOC entry in its own right and captured the resources that
+            # followed it (the PDF numbering ran 14.1 Software, 14.2 Connected
+            # Resources, 14.3 Connected Resources... and the EPUB nav repeated
+            # it ten times). H4 matches the level the resource page's own
+            # subheadings are shifted to, and stays out of the TOC at
+            # --toc-depth=3 while remaining visible in the body.
+            lines = ['\n#### Connected Resources\n']
             for other in f['connected']:
                 if other in resource_titles:
                     lines.append("- [" + resource_titles[other] + "](#" + other + ")")
