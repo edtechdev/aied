@@ -4,7 +4,6 @@ created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
 ethics: [equity-in-ai-education, ethics]
-stakeholders: [administrator]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 level: [higher ed]

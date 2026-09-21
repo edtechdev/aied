@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
 assessment: [ai-feedback-quality, peer-assessment]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, multilingual-learning]
 research_method: [case study]
 discipline: [writing education]

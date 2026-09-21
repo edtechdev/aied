@@ -9,12 +9,11 @@ technology: [generative-ai, llm]
 assessment: [assessment]
 ethics: [equity-in-ai-education, ethics, inclusive-learning, ai-use-disclosure]
 institutions: [educational-policy-ai, governance]
-stakeholders: [student-experience]
 methods: [qualitative-research]
 research_method: [position paper]
 discipline: [legal education]
 level: [higher ed]
-audience: [instructors, curriculum designers, teacher educators]
+audience: [instructors, curriculum designers, faculty developers]
 sources: ['raw/papers/kasa-malksoo-ai-human-rights-education-2026.md']
 confidence: medium
 ---

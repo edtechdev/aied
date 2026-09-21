@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, curriculum-design, learning-design]
 pedagogy: [mastery-learning, scaffolding]
 technology: [personalized-learning]
-stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [theoretical analysis]
 audience: [learners, instructors]

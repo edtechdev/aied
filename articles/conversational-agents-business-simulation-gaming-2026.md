@@ -11,7 +11,7 @@ discipline: [business education]
 level: [higher ed]
 sources: ["raw/papers/conversational-agents-business-simulation-gaming-2026.md"]
 confidence: medium
-audience: [instructional designers, instructors, designers]
+audience: [instructional designers, instructors]
 ---
 
 > **Synthesis:** Wenzel, Geiger, and Liening use [[design-based-research|Action Design Research]] to design, build, and evaluate "Lara," an AI-enhanced [[conversational-ai|conversational agent]] that provides adaptive instructional support within [[game-based-learning|business simulation games]] (BSGs) for entrepreneurial learning. Grounded in educational psychology and information systems [[research-methods-aied|research]] — spanning [[cognitive-offloading|cognitive load]], [[self-determination-theory|self-determination]], emotion, and social presence theories — the study produces the CAIS-GBL framework (four design principles, fifteen design features) instantiated in Lara and evaluated across two build–intervention–evaluation cycles. The design is deliberately framed by an equity-by-design stance and the [[universal-design-for-learning|Universal Design for Learning]] (UDL) principles, aiming to provide [[adaptive-learning|adaptive]] support that removes learning barriers rather than reinforcing [[digital-divide|educational disparities]].

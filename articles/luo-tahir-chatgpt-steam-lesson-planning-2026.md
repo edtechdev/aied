@@ -11,7 +11,7 @@ sources: ["raw/papers/luo-tahir-chatgpt-steam-lesson-planning-2026.md"]
 confidence: high
 research_method: [experiment]
 discipline: [stem education]
-audience: [teachers, curriculum designers, teacher educators]
+audience: [instructors, curriculum designers, faculty developers]
 level: [preschool, primary education]
 ---
 

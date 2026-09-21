@@ -7,7 +7,6 @@ foundations: [ai-literacy, curriculum-design]
 pedagogy: [metacognition]
 technology: [generative-ai, learning-analytics]
 assessment: [assessment]
-stakeholders: [student-experience]
 ethics: [ethics]
 sources: ['raw/papers/10.1186_s41239-026-00621-w.md']
 confidence: high

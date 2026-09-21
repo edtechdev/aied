@@ -5,7 +5,6 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [agency, ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 research_method: [survey, case study]
 audience: [instructors, researchers, institutions]
 sources: ['raw/papers/10.3389_feduc.2026.1885253.md']

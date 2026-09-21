@@ -8,7 +8,7 @@ pedagogy: [motivation, online-teaching-and-learning, scaffolding, student-engage
 technology: [generative-ai, learning-analytics, multimodal, prompt-engineering]
 assessment: [feedback]
 research_method: [experiment, user study]
-audience: [learners, instructors, learning designers, researchers]
+audience: [learners, instructors, instructional designers, researchers]
 level: [higher ed]
 sources: ['raw/papers/wang-chatgpt-comments-video-learning-scaffolding-2026.md']
 confidence: high

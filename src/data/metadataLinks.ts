@@ -13,7 +13,6 @@ export const FIELD_UMBRELLAS: Record<string, string> = {
   'discipline': 'discipline-specific-aied',
   'level': 'education-levels',
   'audience': 'stakeholders',
-  'stakeholders': 'stakeholders',
   'pedagogy': 'pedagogy',
   'technology': 'ai-technologies',
   'assessment': 'assessment',
@@ -53,9 +52,10 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
   },
   audience: {
     'administrators': 'administrator',
-    'edtech designers': 'educational-technology-developers',
+    'educational technology developers': 'educational-technology-developers',
     'learners': 'learners',
     'librarians': 'librarians',
+    'parents and families': 'parents-and-families',
   },
   level: {
     'adult learning': 'adult-learning',

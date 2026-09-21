@@ -6,7 +6,7 @@ type: article
 pedagogy: [motivation, self-determination-theory]
 technology: [pedagogical-agent]
 ethics: [equity-in-ai-education, trust, trust-calibration]
-audience: [researchers, instructors, designers, administrators]
+audience: [researchers, instructors, instructional designers, administrators]
 research_method: [longitudinal study, structural equation modeling]
 sources: ['raw/papers/10.3389_fpsyg.2026.1900061.md']
 confidence: high

@@ -3,17 +3,16 @@ title: "Governing generative AI in higher education: Emerging policy approaches 
 created: "2026-09-18T05:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, framing-ai-use-for-students, ai-literacy]
+foundations: [academic-integrity, framing-ai-use-for-students, ai-literacy, teacher-ai-competency]
 pedagogy: [pedagogy]
 technology: [generative-ai, edtech-platform]
 assessment: [assessment, assessment-validity, ai-detection]
 methods: [qualitative-research]
-stakeholders: [teacher-ai-competency, learners]
 institutions: [educational-policy-ai, governance]
 ethics: [ai-use-disclosure, equity-in-ai-education, privacy]
 research_method: [policy analysis]
 level: [higher ed]
-audience: [administrators, policymakers, instructors]
+audience: [administrators, policymakers, instructors, learners]
 connected_faqs: [institutional-ai-policy, course-ai-policy, faculty-ai-competencies]
 sources: ['raw/papers/qian-governing-genai-higher-ed-policy-2026.md']
 confidence: high

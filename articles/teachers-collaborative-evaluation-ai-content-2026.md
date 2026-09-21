@@ -11,7 +11,7 @@ methods: [mixed-methods-research]
 sources: ['raw/papers/teachers-collaborative-evaluation-ai-content.md']
 confidence: high
 discipline: [science education]
-audience: [teachers, teacher educators]
+audience: [instructors, faculty developers]
 level: [k 12, teacher education]
 page_kind: [evaluation]
 ---

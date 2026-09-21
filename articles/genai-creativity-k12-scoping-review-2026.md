@@ -7,7 +7,7 @@ pedagogy: [creativity, project-based-learning, inquiry-based-learning, game-base
 foundations: [ai-literacy, critical-thinking, design-thinking]
 technology: [generative-ai, llm, multimodal]
 level: [k 12, primary education, secondary]
-audience: [instructors, curriculum designers, researchers, teachers]
+audience: [instructors, curriculum designers, researchers]
 methods: [meta-analysis-systematic-review]
 research_method: [literature review]
 page_kind: [synthesis]

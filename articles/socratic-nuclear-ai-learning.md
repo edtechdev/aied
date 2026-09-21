@@ -9,7 +9,7 @@ assessment: [assessment, educational-measurement]
 sources: ['raw/papers/socratic-nuclear-ai-learning.md']
 confidence: high
 research_method: [experiment]
-audience: [edtech designers, instructional designers, researchers]
+audience: [instructional designers, researchers]
 ---
 
 > **Synthesis:** A randomized study of 50 participants comparing three designs for user-[[generative-ai|AI]] interaction in a learning context using [[affective-computing|brain sensing]] (a Muse EEG headband): (1) an unrestricted conversational bot like ChatGPT, (2) a pedagogically constrained [[socratic-method|Socratic]]-mode bot that guides through hints without giving final answers, and (3) an adaptive mode that limits the number of questions the user can ask.

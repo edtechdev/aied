@@ -6,15 +6,15 @@ type: resource
 summary: "A large free library of single-purpose teaching generators — lesson plans, worksheets, IEP goals, rubrics, case studies, math problems — for K-12 teachers and college faculty."
 url: https://teacherserver.com/
 author: "TeacherServer project"
+foundations: [teacher-ai-competency]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
 assessment: [formative-assessment, assessment]
-stakeholders: [teacher-ai-competency]
 resource_type: [collection of tools, software]
 access: [free with account]
 last_verified: "2026-09-20"
 level: [k 12, higher ed]
-audience: [teachers, instructors, teacher educators]
+audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
 ---

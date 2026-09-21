@@ -9,7 +9,7 @@ sources: ['raw/papers/karaismailoglu-ai-lesson-plans-science-experts-2026.md']
 confidence: high
 research_method: [case study]
 discipline: [science education, stem education]
-audience: [teachers, teacher educators, curriculum designers]
+audience: [instructors, faculty developers, curriculum designers]
 level: [k 12, teacher education]
 page_kind: [evaluation]
 methods: [qualitative-research]

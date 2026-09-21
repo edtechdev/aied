@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 technology: [generative-ai]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 research_method: [interviews]
 discipline: [engineering education]
 audience: [faculty developers, learners]

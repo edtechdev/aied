@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [active-learning, scaffolding, student-engagement]
 technology: [affective-computing, generative-ai, llm]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [k 12]

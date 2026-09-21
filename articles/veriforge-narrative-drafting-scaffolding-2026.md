@@ -10,7 +10,7 @@ research_method: [system development, interviews]
 discipline: [writing education]
 sources: ['raw/papers/veriforge-narrative-drafting-scaffolding-2026.md']
 confidence: high
-audience: [designers, software developers, edtech designers]
+audience: [instructional designers, software developers]
 ---
 
 > **Synthesis:** Sun et al. (2026) present VeriForge, a mixed-initiative [[generative-ai]] writing system that assumes initiative over domain discovery while the author retains initiative over narrative synthesis, using proactive highlighting, dual-stream querying with source-anchored Knowledge Cards, and a spatial Knowledge Canvas to surface latent knowledge gaps without homogenizing voice.

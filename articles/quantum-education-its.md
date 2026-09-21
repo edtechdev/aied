@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2604.24807.md']
 confidence: high
-audience: [instructors, instructional designers, edtech designers]
+audience: [instructors, instructional designers]
 page_kind: [framework]
 ---
 

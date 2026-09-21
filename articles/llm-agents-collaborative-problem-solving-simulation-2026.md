@@ -10,7 +10,7 @@ technology: [learning-analytics, llm, simulating-students]
 connected_faqs: [group-work-ai]
 confidence: medium
 research_method: [system development]
-audience: [researchers, learning analytics designers, edtech designers]
+audience: [researchers, learning analytics designers, instructional designers]
 page_kind: [framework]
 methods: [benchmark, network-analysis]
 ---

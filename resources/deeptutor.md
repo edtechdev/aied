@@ -14,9 +14,8 @@ foundations: [agentic-ai, ai-literacy]
 pedagogy: [mastery-learning, self-regulated-learning, scaffolding]
 technology: [intelligent-tutoring, personalized-learning, rag, llm]
 assessment: [automated-question-generation]
-stakeholders: [educational-technology-developers]
 level: [higher ed]
-audience: [instructors, learners, researchers, edtech designers]
+audience: [instructors, learners, researchers, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [openmaic]
 ---

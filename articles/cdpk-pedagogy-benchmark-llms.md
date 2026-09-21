@@ -3,10 +3,9 @@ title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
 created: "2026-08-15T15:31:07-04:00"
 updated: "2026-09-19T10:03:37-04:00"
 type: article
-foundations: [teacher-role]
+foundations: [teacher-role, teacher-ai-competency]
 technology: [llm]
 assessment: [educational-measurement]
-stakeholders: [teacher-ai-competency]
 pedagogy: [professional-training]
 audience: [instructors, software developers]
 level: [k 12, special education]

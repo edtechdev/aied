@@ -11,7 +11,7 @@ research_method: [system development]
 discipline: [cs education]
 sources: ['raw/papers/2608.07965.md']
 confidence: high
-audience: [instructional designers, edtech designers]
+audience: [instructional designers]
 level: [higher ed]
 page_kind: [framework, evaluation]
 ---

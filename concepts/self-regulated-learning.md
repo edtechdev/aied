@@ -6,7 +6,6 @@ type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
 assessment: [formative-assessment]
-stakeholders: [student-experience]
 connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]

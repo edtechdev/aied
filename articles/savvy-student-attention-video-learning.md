@@ -5,9 +5,8 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [student-engagement]
 technology: [learning-analytics, multimodal, visualization, edtech-platform]
-stakeholders: [student-experience]
 research_method: [system development]
-audience: [teachers, learning analytics designers]
+audience: [instructors, learning analytics designers]
 level: [higher ed]
 sources: ['raw/papers/2607.29413.md']
 confidence: high

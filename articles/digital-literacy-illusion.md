@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-literacy]
 methods: [quantitative-research]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [survey]
 audience: [learners]

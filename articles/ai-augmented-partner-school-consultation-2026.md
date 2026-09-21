@@ -3,10 +3,9 @@ title: "Artificial intelligence as an augmented partner in school consultation: 
 created: "2026-09-18T14:40:00-04:00"
 updated: "2026-09-19T07:16:01-04:00"
 type: article
-foundations: [human-ai-collaboration, teacher-role]
+foundations: [human-ai-collaboration, teacher-role, teacher-ai-competency]
 pedagogy: [problem-solving, professional-training]
 technology: [conversational-ai, generative-ai, llm]
-stakeholders: [teacher-ai-competency]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]
 level: [k 12, special education]

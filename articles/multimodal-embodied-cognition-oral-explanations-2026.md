@@ -12,7 +12,7 @@ discipline: [engineering education, math education, stem education]
 level: [higher ed]
 sources: ['raw/papers/multimodal-embodied-cognition-oral-explanations-2026.md']
 confidence: high
-audience: [researchers, assessment designers, edtech designers]
+audience: [researchers, assessment designers, instructional designers]
 page_kind: [framework]
 ---
 

@@ -9,7 +9,7 @@ technology: [educational-robotics]
 ethics: [ethics]
 sources: ['raw/papers/glawe-human-autonomy-agency-hri-2025.md']
 confidence: high
-audience: [researchers, designers]
+audience: [researchers, instructional designers]
 page_kind: [framework, evaluation]
 methods: [meta-analysis-systematic-review]
 institutions: [governance]

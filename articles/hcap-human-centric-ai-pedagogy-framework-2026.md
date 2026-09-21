@@ -3,9 +3,8 @@ title: "Human-Centric Artificial Intelligence Pedagogy (HCAP) framework develope
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T12:17:22-04:00"
 type: article
-foundations: [ai-education, ai-literacy, educational-development, learning-design]
+foundations: [ai-education, ai-literacy, educational-development, learning-design, teacher-ai-competency]
 technology: [pedagogical-llm-training]
-stakeholders: [teacher-ai-competency]
 ethics: [ethics]
 research_method: [delphi]
 audience: [faculty developers]

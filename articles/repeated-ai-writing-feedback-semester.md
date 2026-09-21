@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
 assessment: [feedback, formative-assessment]
-stakeholders: [student-experience]
 research_method: [survey]
 discipline: [writing education]
 audience: [learners]

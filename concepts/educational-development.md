@@ -4,8 +4,7 @@ created: "2026-08-09T07:47:05-04:00"
 updated: "2026-09-19T02:05:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
-foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
-stakeholders: [teacher-ai-competency]
+foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [higher ed, k 12]
 confidence: high

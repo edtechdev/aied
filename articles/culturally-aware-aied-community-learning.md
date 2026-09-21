@@ -5,7 +5,6 @@ updated: "2026-09-18T19:55:59-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [intelligent-tutoring]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [case study]
 audience: [learners, instructors]

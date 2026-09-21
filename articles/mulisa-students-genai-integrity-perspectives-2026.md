@@ -8,12 +8,11 @@ pedagogy: [motivation, student-ai-interaction]
 technology: [generative-ai, conversational-ai]
 assessment: [assessment, assessment-validity, authentic-assessment]
 methods: [qualitative-research, research-methods-aied]
-stakeholders: [student-experience, learners]
 institutions: [educational-policy-ai, governance]
 ethics: [ai-misuse-learning-harm, equity-in-ai-education, global-south]
 research_method: [thematic analysis]
 level: [higher ed]
-audience: [instructors, administrators, researchers]
+audience: [instructors, administrators, researchers, learners]
 sources: ['raw/papers/mulisa-students-genai-integrity-perspectives-2026.md']
 confidence: high
 ---

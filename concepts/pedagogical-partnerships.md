@@ -6,7 +6,7 @@ type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
 assessment: [assessment]
-audience: [instructors, learners, learning designers, administrators]
+audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 ---

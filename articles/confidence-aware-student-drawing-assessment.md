@@ -9,7 +9,7 @@ discipline: [stem education]
 level: [k 12]
 sources: ['raw/papers/2606.20264.md']
 confidence: high
-audience: [teachers, assessment designers, researchers]
+audience: [instructors, assessment designers, researchers]
 page_kind: [evaluation]
 ---
 

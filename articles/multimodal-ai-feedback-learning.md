@@ -5,7 +5,6 @@ updated: "2026-09-18T19:55:59-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, learning-analytics, llm, multimodal, rag]
 assessment: [automated-assessment, feedback, formative-assessment]
-stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 sources: ['raw/papers/2601.15280.md']

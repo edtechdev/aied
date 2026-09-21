@@ -10,7 +10,7 @@ research_method: [survey]
 discipline: [math education]
 sources: ['raw/papers/ai-tpack-mathematics-teacher-education-2026.md']
 confidence: high
-audience: [teacher educators, researchers]
+audience: [faculty developers, researchers]
 level: [teacher education, higher ed]
 page_kind: [evaluation]
 ---

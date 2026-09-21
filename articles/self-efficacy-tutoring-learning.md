@@ -5,7 +5,6 @@ updated: "2026-09-16T17:22:20-04:00"
 type: article
 pedagogy: [self-regulated-learning]
 technology: [intelligent-tutoring, personalized-learning]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

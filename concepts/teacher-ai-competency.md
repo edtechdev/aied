@@ -7,7 +7,6 @@ type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
 pedagogy: [self-efficacy]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]

@@ -3,9 +3,8 @@ title: "Efficacy of an Intensive Generative AI Professional Development Program 
 created: "2026-08-11T13:10:53-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [educational-development]
+foundations: [educational-development, teacher-ai-competency]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
 pedagogy: [professional-training]
 research_method: [quasi-experiment, instrument development, survey]

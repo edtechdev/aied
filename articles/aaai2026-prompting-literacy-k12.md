@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education, ai-literacy]
 technology: [llm, rag, simulation]
 assessment: [automated-assessment]
-stakeholders: [student-experience]
 research_method: [system development, experiment]
 audience: [instructors, learners]
 level: [k 12]

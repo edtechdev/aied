@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [experiment]
 audience: [learners, instructors]

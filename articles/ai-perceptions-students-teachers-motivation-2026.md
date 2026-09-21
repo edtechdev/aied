@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [survey]
 audience: [learners, instructors]

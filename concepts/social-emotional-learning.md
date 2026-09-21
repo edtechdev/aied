@@ -3,10 +3,9 @@ title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
 updated: "2026-09-17T02:43:50-04:00"
 type: concept
-foundations: [ai-literacy]
+foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
 technology: [affective-computing]
-stakeholders: [student-experience, teacher-ai-competency]
 ethics: [ethics]
 connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
 audience: [learners]

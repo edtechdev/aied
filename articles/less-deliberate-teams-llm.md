@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 pedagogy: [collaborative-learning, student-engagement]
 technology: [generative-ai, llm, rag, learning-analytics]
-stakeholders: [student-experience]
 research_method: [longitudinal study]
 audience: [learners]
 level: [higher ed]

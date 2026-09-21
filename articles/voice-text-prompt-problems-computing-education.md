@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering]
 methods: [qualitative-research, mixed-methods-research]
-stakeholders: [student-experience]
 discipline: [cs education]
 audience: [learners]
 sources: ['raw/papers/2607.05808.md']

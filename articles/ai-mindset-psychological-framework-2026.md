@@ -3,14 +3,13 @@ title: "AI Mindset – An Empirically Tested Theoretical Framework on the Psycho
 created: "2026-09-18T14:20:00-04:00"
 updated: "2026-09-20T06:36:30-04:00"
 type: article
-foundations: [ai-literacy, human-ai-collaboration, theory-development-aied, tpack]
+foundations: [ai-literacy, human-ai-collaboration, theory-development-aied, tpack, teacher-ai-competency]
 pedagogy: [anxiety-and-stress, motivation, self-determination-theory, self-efficacy]
 technology: [generative-ai, technology-acceptance-model]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency]
 research_method: [survey, structural equation modeling]
 level: [higher ed, adult learning]
-audience: [researchers, instructors, learning designers]
+audience: [researchers, instructors, instructional designers]
 page_kind: [framework]
 sources: ['raw/papers/ai-mindset-psychological-framework-2026.md', 'raw/papers/ai-mindset-chbah-2026-100402.md']
 confidence: high

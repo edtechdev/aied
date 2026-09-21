@@ -9,7 +9,7 @@ research_method: [instrument development, system development, user study]
 level: [higher ed]
 sources: ['raw/papers/aper-chatbot-collective-efficacy.md']
 confidence: high
-audience: [instructional designers, instructors, edtech designers]
+audience: [instructional designers, instructors]
 methods: [design-based-research]
 ---
 

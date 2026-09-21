@@ -8,7 +8,7 @@ assessment: [assessment]
 sources: ['raw/papers/zhang-platform-scores-miss-ai-teaching-agents-2026.md']
 research_method: [design and evaluation study]
 discipline: [medical education]
-audience: [medical educators, researchers, assessment designers, edtech designers]
+audience: [medical educators, researchers, assessment designers, instructional designers]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high

@@ -3,11 +3,10 @@ title: "The Architecture of Roles in AI-Designed Group Activities: A comparative
 created: "2026-09-02T09:55:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [educational-development, human-ai-collaboration, learning-design, teacher-role]
+foundations: [educational-development, human-ai-collaboration, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai, personalized-learning]
 methods: [qualitative-research]
-stakeholders: [teacher-ai-competency]
-audience: [instructors, learning designers, researchers, faculty developers]
+audience: [instructors, instructional designers, researchers, faculty developers]
 level: [k 12]
 sources: ['raw/papers/talebzadeh-ai-group-activity-roles-2026.md']
 confidence: medium

@@ -3,9 +3,8 @@ title: "Faculty Readiness for AI-Supported Teaching and Scalable Online Program 
 created: "2026-04-02T08:44:33-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
-foundations: [academic-integrity, ai-literacy, educational-development]
+foundations: [academic-integrity, ai-literacy, educational-development, teacher-ai-competency]
 assessment: [assessment-validity]
-stakeholders: [teacher-ai-competency]
 research_method: [secondary analysis, literature review]
 audience: [faculty developers]
 level: [higher ed]

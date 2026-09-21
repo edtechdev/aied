@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, agency, critical-thinking, philosophy-of-ai-in-education]
 technology: [generative-ai]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 research_method: [interviews]
 audience: [learners]
 level: [higher ed]

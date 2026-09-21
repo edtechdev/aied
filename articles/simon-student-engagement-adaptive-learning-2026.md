@@ -8,7 +8,7 @@ technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
 methods: [meta-analysis-systematic-review]
 sources: ['raw/papers/simon-student-engagement-adaptive-learning-2026.md']
 confidence: high
-audience: [learning designers, instructors]
+audience: [instructional designers, instructors]
 level: [higher ed, k 12]
 page_kind: [evaluation]
 ---

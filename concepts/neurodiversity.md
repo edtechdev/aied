@@ -3,10 +3,9 @@ title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-19T06:35:00-04:00"
 type: concept
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
-audience: [learners, instructors, learning designers]
+audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 ---

@@ -11,7 +11,7 @@ ethics: [ethics]
 research_method: [thematic analysis]
 discipline: [english education]
 level: [secondary]
-audience: [instructors, teachers]
+audience: [instructors]
 sources: ['raw/papers/burriss-multimodal-composition-critical-ai-literacy-2026.md']
 confidence: high
 ---

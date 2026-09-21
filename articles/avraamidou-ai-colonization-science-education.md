@@ -10,7 +10,7 @@ research_method: [theoretical analysis]
 discipline: [science education]
 sources: ['raw/papers/avraamidou-ai-colonization-science-education.md']
 confidence: high
-audience: [researchers, teacher educators]
+audience: [researchers, faculty developers]
 level: [k 12, higher ed]
 ---
 

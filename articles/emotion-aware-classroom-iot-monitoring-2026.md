@@ -8,7 +8,7 @@ sources: ["raw/papers/emotion-aware-classroom-iot-monitoring-2026.md"]
 technology: [affective-computing]
 confidence: medium
 research_method: [system development]
-audience: [edtech designers, instructors, researchers]
+audience: [instructional designers, instructors, researchers]
 level: [k 12]
 page_kind: [evaluation]
 ---

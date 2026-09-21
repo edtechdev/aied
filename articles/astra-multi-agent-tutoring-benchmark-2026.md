@@ -10,7 +10,7 @@ technology: [learning-analytics, simulation]
 confidence: medium
 research_method: [system development]
 discipline: [cs education]
-audience: [researchers, learning analytics designers, edtech designers]
+audience: [researchers, learning analytics designers, instructional designers]
 page_kind: [evaluation]
 methods: [benchmark]
 ---

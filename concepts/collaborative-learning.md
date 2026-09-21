@@ -5,7 +5,6 @@ updated: "2026-09-17T07:39:56-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]

@@ -5,10 +5,10 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 technology: [prompt-engineering]
 methods: [mixed-methods-research]
-stakeholders: [teacher-ai-competency]
 connected_faqs: [faculty-development-ai]
+foundations: [teacher-ai-competency]
 pedagogy: [professional-training]
-audience: [faculty developers, instructors, administrators, teacher educators, researchers]
+audience: [faculty developers, instructors, administrators, researchers]
 research_method: [quasi-experiment, survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1890508.md']
 confidence: high

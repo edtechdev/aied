@@ -4,7 +4,6 @@ created: "2026-08-07T04:33:04-04:00"
 updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [curriculum-design]
-stakeholders: [administrator, student-experience]
 research_method: [system development]
 discipline: [cs education]
 audience: [learners, administrators]

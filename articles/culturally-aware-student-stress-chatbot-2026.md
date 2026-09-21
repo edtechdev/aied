@@ -11,7 +11,7 @@ connected_faqs: [ai-anxiety-wellbeing]
 sources: ['raw/papers/2609.11199.md']
 confidence: medium
 research_method: [system development]
-audience: [edtech designers, administrators, researchers]
+audience: [instructional designers, administrators, researchers]
 level: [higher ed]
 page_kind: [evaluation]
 ---

@@ -6,7 +6,6 @@ type: article
 foundations: [teacher-role]
 pedagogy: [scaffolding]
 technology: [learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [survey, instrument development]
 discipline: [stem education]
 audience: [learners, instructors]

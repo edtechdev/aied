@@ -9,7 +9,7 @@ technology: [reinforcement-learning, llm, intelligent-tutoring, adaptive-learnin
 pedagogy: [mastery-learning, scaffolding]
 methods: [rct]
 level: [secondary]
-audience: [researchers, edtech designers, instructors]
+audience: [researchers, instructional designers, instructors]
 ---
 
 > **Synthesis:** [[generative-ai|Generative AI]] has made [[intelligent-tutoring|chatbot tutors]] easy to deploy, but most of them sit and wait: they answer whatever a student asks, when the student asks it, and they depend on learners who often lack the [[self-regulated-learning|self-regulation]] to steer their own practice. Chung and colleagues argue this reactive paradigm leaves the technology's potential untapped. They built a tutoring [[edtech-platform|platform]] that couples a guarded GenAI chatbot for Python with a [[reinforcement-learning|reinforcement learning]] algorithm that actively selects the next practice problem, drawing on student-chatbot conversations, code-edit traces, and solution attempts to estimate a continuous knowledge state and choose among four difficulty levels. Deployed with the Taipei City Government and the American Institute in Taiwan across ten Taipei [[k-12|high schools]] in a five-month Python certification course, students were randomized between this adaptive sequence and a fixed easy-to-hard sequence. Adaptive sequencing raised performance on an in-person, unassisted [[summative-assessment|final exam]] by 0.150 standard deviations. The gain ran almost entirely through increased engagement rather than through easier or harder material, showing that personalizing the problem sequence, not just the chatbot, is what moves outcomes.

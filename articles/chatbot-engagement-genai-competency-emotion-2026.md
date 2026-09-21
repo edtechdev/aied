@@ -5,9 +5,8 @@ updated: "2026-09-19T08:33:23-04:00"
 type: article
 pedagogy: [motivation, self-efficacy, student-engagement]
 technology: [conversational-ai, generative-ai]
-stakeholders: [student-experience]
 research_method: [survey, structural equation modeling]
-audience: [researchers, learning designers]
+audience: [researchers, instructional designers]
 level: [higher ed]
 sources: ["raw/papers/chatbot-engagement-genai-competency-emotion-2026.md"]
 confidence: high

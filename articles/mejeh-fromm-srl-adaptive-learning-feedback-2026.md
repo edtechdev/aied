@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/mejeh-fromm-srl-adaptive-learning-feedback-2026.md']
 confidence: high
 discipline: [math education]
-audience: [instructional designers, instructors, learning designers]
+audience: [instructional designers, instructors]
 ---
 
 > **Synthesis:** Mejeh and Fromm investigate how differentiated feedback types — **directive, informative, and transformative** — delivered through an [[adaptive-learning|adaptive learning technology (ALT)]] and taken up by learners relate to [[self-regulated-learning|self-regulated learning (SRL)]] across its pre-actional, actional, and post-actional phases. In a study of 194 students in a stochastics course using an ALT over eight weeks, analyzed with self-report + trace data via hierarchical linear modeling, they find that task value, [[self-efficacy]], goal orientation, and positive emotions in the pre-actional phase positively influence regulatory behavior in the actional phase, while negative emotions hinder it. However, adaptive feedback's moderating effects were **limited and sometimes negative** — transformative feedback may contribute to [[cognitive-offloading|cognitive overload]] — underscoring that feedback effectiveness is context-dependent and must be tailored to learners' needs.

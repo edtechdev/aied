@@ -10,7 +10,7 @@ research_method: [survey]
 level: [higher ed, teacher education]
 sources: ['raw/papers/motivation-shape-future-education-ai-switzerland-china.md']
 confidence: high
-audience: [teacher educators, faculty developers, researchers]
+audience: [faculty developers, researchers]
 page_kind: [framework]
 ---
 

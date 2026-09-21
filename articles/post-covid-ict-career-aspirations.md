@@ -3,11 +3,10 @@ title: "Learning after COVID-19 and the ICT career aspirations: Are students ent
 created: "2026-05-28T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
-foundations: [ai-literacy]
+foundations: [ai-literacy, teacher-ai-competency]
 technology: [generative-ai, llm]
 assessment: [automated-assessment]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency]
 ethics: [equity-in-ai-education]
 audience: [learners, instructors]
 research_method: [secondary analysis]

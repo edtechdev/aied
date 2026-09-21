@@ -6,7 +6,7 @@ type: article
 pedagogy: [online-teaching-and-learning, student-engagement, video-education]
 technology: [adaptive-learning, generative-ai, multimodal, personalized-learning]
 methods: [quantitative-research]
-audience: [instructors, learning designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 sources: ['raw/papers/personalized-ai-generated-videos-preference-2026.md']
 confidence: high

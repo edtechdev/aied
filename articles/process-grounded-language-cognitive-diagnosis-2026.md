@@ -11,7 +11,7 @@ sources: ['raw/papers/process-grounded-language-cognitive-diagnosis-2026.md']
 confidence: high
 research_method: [system development]
 discipline: [math education]
-audience: [researchers, edtech designers, software developers]
+audience: [researchers, instructional designers, software developers]
 level: [k 12]
 page_kind: [evaluation]
 ---

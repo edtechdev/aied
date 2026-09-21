@@ -6,12 +6,11 @@ type: article
 foundations: [teacher-role]
 assessment: [feedback, ai-feedback-quality, formative-assessment]
 ethics: [trust, bias-mitigation, ai-use-disclosure]
-stakeholders: [learners]
 pedagogy: [self-regulated-learning]
 methods: [quantitative-research]
 research_method: [experiment, survey]
 level: [higher ed, secondary]
-audience: [researchers, teacher educators, instructors]
+audience: [researchers, faculty developers, instructors, learners]
 page_kind: [evaluation]
 sources: ['raw/papers/perceptions-teacher-vs-ai-feedback-bias-2026.md']
 confidence: high

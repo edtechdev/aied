@@ -10,7 +10,7 @@ research_method: [experiment]
 discipline: [physics education, stem education, science education]
 sources: ['raw/papers/2607.28352.md']
 confidence: high
-audience: [teachers, instructors]
+audience: [instructors]
 page_kind: [framework]
 ---
 

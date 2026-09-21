@@ -10,7 +10,7 @@ methods: [qualitative-research]
 ethics: [equity-in-ai-education, ethics, privacy]
 sources: ['raw/papers/chang-co-designing-ai-youth-relational-privacy-2025.md']
 confidence: high
-audience: [designers, edtech designers, instructors]
+audience: [instructional designers, instructors]
 level: [secondary, k 12]
 page_kind: [framework]
 ---

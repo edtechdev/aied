@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 technology: [generative-ai, learning-analytics]
 assessment: [assessment, learning-gains]
-stakeholders: [student-experience]
 discipline: [stem education, math education]
 audience: [learners]
 level: [k 12, higher ed]

@@ -3,9 +3,8 @@ title: "Understanding what good education is: a phenomenographic investigation o
 created: "2026-08-25T07:58:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article
-foundations: [ai-literacy, curriculum-design, teacher-role]
+foundations: [ai-literacy, curriculum-design, teacher-role, teacher-ai-competency]
 pedagogy: [learning-theories, pedagogy]
-stakeholders: [teacher-ai-competency]
 audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/stenalt-good-education-teacher-ai-conceptions-2026.md']

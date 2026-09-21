@@ -5,7 +5,6 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 foundations: [ai-education]
 technology: [generative-ai, learning-analytics]
-stakeholders: [student-experience]
 research_method: [survey]
 discipline: [cs education, stem education]
 audience: [learners]

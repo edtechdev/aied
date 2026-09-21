@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [learning-theories]
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [instructors, researchers]
 sources: ['raw/papers/2607.28041.md']

@@ -14,9 +14,8 @@ foundations: [agentic-ai, learning-design]
 pedagogy: [project-based-learning, online-teaching-and-learning]
 technology: [generative-ai, llm, multimodal, conversational-ai]
 assessment: [automated-question-generation]
-stakeholders: [educational-technology-developers]
 level: [higher ed, k 12]
-audience: [instructors, curriculum designers, edtech designers, learners]
+audience: [instructors, curriculum designers, instructional designers, learners, educational technology developers]
 confidence: high
 connected_resources: [deeptutor, lesson-md]
 ---

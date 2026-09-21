@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.12988.md']
 confidence: high
 discipline: [cs education]
-audience: [instructors, designers, software developers]
+audience: [instructors, instructional designers, software developers]
 page_kind: [evaluation]
 ---
 

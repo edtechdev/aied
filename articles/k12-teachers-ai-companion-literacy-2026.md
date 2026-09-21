@@ -12,7 +12,7 @@ connected_faqs: [ai-guidance-children-under-13]
 sources: ['raw/papers/k12-teachers-ai-companion-literacy-2026.md']
 confidence: high
 research_method: [interviews, thematic analysis]
-audience: [teachers, instructors, policymakers, designers]
+audience: [instructors, policymakers, instructional designers]
 level: [k 12, primary education, secondary]
 ---
 

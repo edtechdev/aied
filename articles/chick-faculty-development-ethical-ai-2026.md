@@ -3,12 +3,11 @@ title: "From fear to innovation: A case study of transformative faculty developm
 created: "2026-09-18T10:15:00-04:00"
 updated: "2026-09-19T02:35:00-04:00"
 type: article
-foundations: [academic-integrity, ai-literacy, teacher-role]
+foundations: [academic-integrity, ai-literacy, teacher-role, teacher-ai-competency]
 pedagogy: [anxiety-and-stress, community-of-inquiry, professional-training, self-efficacy]
 technology: [generative-ai, llm]
 assessment: [assessment, authentic-assessment]
 methods: [mixed-methods-research, qualitative-research]
-stakeholders: [teacher-ai-competency]
 institutions: [change-management, educational-policy-ai]
 ethics: [ai-use-disclosure, equity-in-ai-education, universal-design-for-learning]
 research_method: [case study, thematic analysis]

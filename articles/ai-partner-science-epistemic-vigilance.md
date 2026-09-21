@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [scaffolding]
 technology: [learning-analytics, llm, personalized-learning]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, hallucination-risk]
 research_method: [theoretical analysis]
 audience: [learners]

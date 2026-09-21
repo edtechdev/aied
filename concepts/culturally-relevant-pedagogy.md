@@ -5,7 +5,6 @@ updated: "2026-09-17T02:43:50-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]
 audience: [learners]
 level: [k 12, higher ed]

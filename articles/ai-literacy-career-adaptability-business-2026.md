@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education, ai-literacy]
 pedagogy: [self-efficacy]
 assessment: [assessment]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [survey]
 audience: [learners]

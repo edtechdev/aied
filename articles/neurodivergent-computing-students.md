@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 discipline: [cs education]

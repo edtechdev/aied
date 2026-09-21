@@ -9,7 +9,7 @@ technology: [generative-ai]
 research_method: [experiment]
 sources: ['raw/papers/tts-dialogue-lessons-learner-characteristics-2026.md']
 confidence: high
-audience: [instructional designers, edtech designers, instructors]
+audience: [instructional designers, instructors]
 level: [secondary]
 discipline: [language learning]
 ---

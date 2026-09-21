@@ -8,7 +8,7 @@ pedagogy: [creativity, embodied-learning, project-based-learning]
 technology: [multimodal]
 assessment: [authentic-assessment]
 confidence: medium
-audience: [instructors, learners, designers, curriculum designers]
+audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 ---
 

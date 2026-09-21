@@ -4,7 +4,6 @@ created: "2026-08-12T21:20:35-04:00"
 updated: "2026-09-16T15:58:20-04:00"
 type: concept
 foundations: [learning-design]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]

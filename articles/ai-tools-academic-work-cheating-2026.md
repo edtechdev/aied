@@ -4,7 +4,6 @@ created: "2026-08-20T04:40:00-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking]
-stakeholders: [student-experience]
 ethics: [ai-misuse-learning-harm, ethics]
 audience: [learners, instructors]
 level: [higher ed]

@@ -3,12 +3,11 @@ title: "The AI Challenge: How college faculty assess the present and future of h
 created: "2026-09-18T08:10:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [academic-integrity, critical-thinking, ai-literacy]
+foundations: [academic-integrity, critical-thinking, ai-literacy, teacher-ai-competency]
 pedagogy: [metacognition, student-ai-interaction]
 technology: [generative-ai]
 assessment: [ai-detection, assessment-validity]
 methods: [quantitative-research]
-stakeholders: [teacher-ai-competency, student-experience]
 institutions: [educational-policy-ai, governance, change-management]
 ethics: [ai-misuse-learning-harm, trust, equity-in-ai-education]
 research_method: [survey]

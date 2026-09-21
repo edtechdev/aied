@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 pedagogy: [help-seeking, scaffolding]
 technology: [intelligent-tutoring, llm]
-stakeholders: [student-experience]
 research_method: [secondary analysis]
 audience: [learners]
 sources: ['raw/papers/2606.15766.md']

@@ -12,7 +12,7 @@ sources: ['raw/papers/2609.06095.md']
 confidence: high
 research_method: [interviews, thematic analysis]
 discipline: [cs education]
-audience: [instructors, edtech designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [higher ed]
 ---
 

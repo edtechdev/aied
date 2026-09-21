@@ -8,7 +8,7 @@ pedagogy: [collaborative-learning, creativity, sociocultural-learning]
 technology: [generative-ai, pedagogical-agent]
 sources: ['raw/papers/trikonet-trivalence-co-creativity-2026.md']
 confidence: high
-audience: [researchers, designers]
+audience: [researchers, instructional designers]
 page_kind: [framework]
 methods: [design-based-research]
 ---

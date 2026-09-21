@@ -11,7 +11,7 @@ discipline: [learning sciences]
 level: [higher ed, k 12]
 sources: ['raw/papers/10.1002_jcal.70311.md']
 confidence: high
-audience: [researchers, instructional designers, edtech designers]
+audience: [researchers, instructional designers]
 page_kind: [framework]
 ---
 

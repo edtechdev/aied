@@ -5,10 +5,9 @@ updated: "2026-09-20T16:21:36-04:00"
 type: article
 sources: ['raw/papers/zimmer-ai-intrapreneurship-faculty-innovation-2026.md']
 confidence: high
-foundations: [ai-literacy, teacher-role]
+foundations: [ai-literacy, teacher-role, teacher-ai-competency]
 technology: [generative-ai, vibe-coding]
 assessment: [assessment]
-stakeholders: [teacher-ai-competency, administrator]
 institutions: [change-management]
 level: [higher ed]
 audience: [instructors, faculty developers, administrators]

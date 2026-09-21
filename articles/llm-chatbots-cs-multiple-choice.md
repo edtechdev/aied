@@ -6,7 +6,6 @@ type: article
 technology: [learning-analytics, llm]
 assessment: [automated-assessment]
 methods: [benchmark]
-stakeholders: [student-experience]
 discipline: [stem education]
 audience: [learners, software developers]
 level: [higher ed, k 12]

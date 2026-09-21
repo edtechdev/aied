@@ -3,15 +3,14 @@ title: "Transforming Curriculum Design with Generative AI: A Model for Assessing
 created: "2026-08-23T10:00:00-04:00"
 updated: "2026-09-19T09:11:03-04:00"
 type: article
-foundations: [learning-design]
+foundations: [learning-design, teacher-ai-competency]
 pedagogy: [self-efficacy]
 technology: [generative-ai]
 assessment: [educational-measurement]
-stakeholders: [teacher-ai-competency]
 research_method: [survey]
 sources: ['raw/papers/guillen-curriculum-genai-teacher-competence-2026.md']
 confidence: high
-audience: [teacher educators, faculty developers, institutions]
+audience: [faculty developers, institutions]
 level: [teacher education, adult learning]
 ---
 

@@ -10,7 +10,7 @@ sources: ['raw/papers/mindful-llm-math-tutoring-2026.md']
 confidence: high
 research_method: [experiment]
 discipline: [math education]
-audience: [instructors, edtech designers, instructional designers]
+audience: [instructors, instructional designers]
 level: [secondary, k 12]
 ---
 

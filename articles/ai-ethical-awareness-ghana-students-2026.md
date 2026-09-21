@@ -4,7 +4,6 @@ created: "2026-09-20T08:15:50-04:00"
 updated: "2026-09-20T09:23:48-04:00"
 type: article
 ethics: [ethics, global-south]
-stakeholders: [student-experience]
 technology: [generative-ai]
 methods: [latent-profile-analysis]
 audience: [instructors, researchers]

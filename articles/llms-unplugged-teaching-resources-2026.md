@@ -11,7 +11,7 @@ sources: ['raw/papers/llms-unplugged-teaching-resources-2026.md']
 confidence: high
 research_method: [system development]
 discipline: cs education
-audience: [instructors, teachers, teacher educators]
+audience: [instructors, faculty developers]
 level: [secondary, higher ed, adult learning, teacher education]
 ---
 

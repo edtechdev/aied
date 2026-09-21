@@ -3,10 +3,9 @@ title: Faculty Orientations Shape Adoption of AI in Research and Teaching
 created: "2026-05-19T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
-foundations: [ai-literacy, educational-development, teacher-role]
+foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [pedagogy, scaffolding]
 methods: [mixed-methods-research]
-stakeholders: [teacher-ai-competency]
 research_method: [survey]
 discipline: [stem education]
 audience: [faculty developers, instructors]

@@ -6,12 +6,11 @@ type: article
 pedagogy: [scaffolding, self-regulated-learning, sociocultural-learning, critical-pedagogy]
 technology: [conversational-ai, llm, pedagogical-agent]
 ethics: [privacy, ai-misuse-learning-harm, trust, pedagogical-safety]
-stakeholders: [learners, parents-and-families]
 foundations: [ai-literacy]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]
 level: [secondary, k 12]
-audience: [instructors, learning designers, edtech designers, designers, researchers]
+audience: [instructors, instructional designers, researchers, learners, parents and families]
 page_kind: [framework]
 sources: ['raw/papers/scaffolding-student-ai-dialogue-framework-2026.md']
 confidence: high

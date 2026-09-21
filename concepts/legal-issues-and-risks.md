@@ -5,7 +5,6 @@ updated: "2026-09-18T09:00:00-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
-stakeholders: [administrator, student-experience]
 institutions: [educational-policy-ai, governance, regulation]
 ethics: [accessibility, ai-use-disclosure, equity-in-ai-education, hallucination-risk, privacy]
 pedagogy: [professional-training]

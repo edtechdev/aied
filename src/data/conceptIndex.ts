@@ -19,7 +19,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Foundations of AI in education',
     blurb: 'The umbrella view of the field itself — what AI in education is, how it evolved, and the cross-cutting themes (AI literacy, human–AI collaboration, agency) that shape every other strand.',
     groups: [
-      { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'learning-design', 'educational-development'] },
+      { label: 'Essentials', items: ['ai-education', 'ai-literacy', 'agentic-ai', 'cognitive-offloading', 'cognitive-surrender', 'framing-ai-use-for-students', 'reducing-ai-misuse', 'academic-integrity', 'teacher-role', 'teacher-ai-competency', 'learning-design', 'educational-development'] },
       { label: 'The field', items: ['history-of-aied', 'interpreting-and-applying-aied-research', 'limitations-in-aied-research', 'philosophy-of-ai-in-education', 'theories-and-frameworks', 'theory-development-aied'] },
       { label: 'Cross-cutting themes', items: ['human-ai-collaboration', 'agency', 'learner-identity', 'design-thinking', 'curriculum-design', 'critical-thinking', 'computational-thinking'] },
       { label: 'Theories and frameworks', items: ['samr-model', 'tpack'] },
@@ -31,7 +31,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'online-teaching-and-learning', 'video-education'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'misconceptions', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
-      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress'] },
+      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress', 'student-experience'] },
       { label: 'Lifelong and professional learning', items: ['career-development-and-readiness', 'lifelong-learning', 'professional-training'] },
     ],
   },
@@ -78,8 +78,6 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'People',
     groups: [
       { label: 'Roles and audiences', items: ['administrator', 'educational-technology-developers', 'learners', 'librarians', 'parents-and-families', 'stakeholders'] },
-      { label: 'Learner experience', items: ['student-experience'] },
-      { label: 'Educator capability', items: ['teacher-ai-competency'] },
     ],
   },
   {

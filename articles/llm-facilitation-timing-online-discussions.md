@@ -10,7 +10,7 @@ methods: [benchmark]
 level: [higher ed]
 sources: ['raw/papers/2607.28643.md']
 confidence: high
-audience: [researchers, instructors, edtech designers]
+audience: [researchers, instructors, instructional designers]
 connected_faqs: [asynchronous-online-courses-ai]
 discipline: [language learning]
 ---

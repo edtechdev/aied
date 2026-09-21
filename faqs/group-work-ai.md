@@ -9,7 +9,7 @@ pedagogy: [collaborative-learning]
 assessment: [assessment, group-work, peer-assessment]
 methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
-audience: [instructors, learning designers, assessment designers]
+audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 ---
 

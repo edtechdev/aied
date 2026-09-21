@@ -8,10 +8,9 @@ pedagogy: [experiential-learning, scaffolding, creativity, motivation, self-dire
 technology: [generative-ai, edtech-platform, multimodal]
 assessment: [formative-assessment, learning-gains, self-report-measures]
 methods: [mixed-methods-research, quantitative-research, qualitative-research]
-stakeholders: [student-experience, learners]
 research_method: [quasi-experiment, survey, interviews]
 discipline: [design education]
-audience: [instructors, instructional designers]
+audience: [instructors, instructional designers, learners]
 level: [higher ed]
 confidence: medium
 sources: ['raw/papers/2609.18505.md']

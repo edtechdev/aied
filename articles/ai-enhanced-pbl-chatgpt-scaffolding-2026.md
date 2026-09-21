@@ -10,7 +10,7 @@ methods: [mixed-methods-research]
 level: [k 12]
 sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium
-audience: [teachers, instructors, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [framework]
 ---
 

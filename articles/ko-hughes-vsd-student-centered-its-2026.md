@@ -5,7 +5,6 @@ updated: "2026-09-19T07:12:05-04:00"
 type: article
 foundations: [agency]
 technology: [human-in-the-loop-ai, intelligent-tutoring]
-stakeholders: [stakeholders]
 ethics: [ethics, explainable-ai, privacy]
 sources: ['raw/papers/ko-hughes-vsd-student-centered-its-2026.md']
 audience: [researchers, instructional designers, software developers]

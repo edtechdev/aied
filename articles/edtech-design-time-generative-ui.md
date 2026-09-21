@@ -4,7 +4,6 @@ created: "2026-06-16T04:33:04-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: article
 technology: [adaptive-learning, learning-analytics, llm, personalized-learning, edtech-platform]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [theoretical analysis]
 audience: [learners]

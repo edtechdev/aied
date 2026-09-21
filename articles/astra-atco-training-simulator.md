@@ -9,7 +9,7 @@ research_method: [system development]
 sources: ['raw/papers/2606.18319.md']
 confidence: medium
 discipline: [vocational education]
-audience: [designers, software developers]
+audience: [instructional designers, software developers]
 level: [adult learning]
 ---
 

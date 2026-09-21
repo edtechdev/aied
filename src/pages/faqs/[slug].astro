@@ -50,9 +50,9 @@ const articleSlugs = new Set(allArticles.map(a => a.id.replace('.md', '')));
 const conceptSlugs = new Set(allConcepts.map(c => c.id.replace('.md', '')));
 const faqSlugs = new Set(faqs.map(f => f.id.replace('.md', '')));
 
-const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, stakeholders, institutions, ethics } = faq.data;
+const { title, created, updated, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, institutions, ethics } = faq.data;
 // JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
-const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(stakeholders || []), ...(ethics || []), ...(page_kind || []), ...(methods || []), ...(institutions || []),];
+const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(ethics || []), ...(page_kind || []), ...(methods || []), ...(institutions || []),];
 // Build PageFind filter facets from the structured metadata fields.
 // Emit one <meta> per name:value pair (PageFind parses only the LAST inline
 // filter in a comma-joined list, so each facet must be its own element).
@@ -63,7 +63,6 @@ const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'assessment', values: assessment },
   { name: 'methods', values: methods },
   { name: 'institutions', values: institutions },
-  { name: 'stakeholders', values: stakeholders },
   { name: 'ethics', values: ethics },
   { name: 'level', values: level },
   { name: 'audience', values: audience },

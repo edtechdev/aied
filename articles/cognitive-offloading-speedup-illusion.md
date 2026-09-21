@@ -6,7 +6,6 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [metacognition]
 technology: [llm]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 sources: ['raw/papers/2605.23177.md']

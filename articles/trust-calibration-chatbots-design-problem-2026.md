@@ -7,7 +7,7 @@ foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai, llm]
 ethics: [explainable-ai, hallucination-risk, trust, trust-calibration]
 connected_faqs: [verify-ai-output]
-audience: [researchers, designers, instructors, policymakers]
+audience: [researchers, instructional designers, instructors, policymakers]
 research_method: [theoretical analysis]
 sources: ['raw/papers/10.3389_fpsyg.2026.1935527.md']
 confidence: high

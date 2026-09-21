@@ -4,13 +4,12 @@ created: "2026-09-18T13:40:00-04:00"
 updated: "2026-09-19T10:23:54-04:00"
 type: article
 technology: [conversational-ai, llm]
-stakeholders: [learners, parents-and-families]
 ethics: [privacy, trust]
 pedagogy: [social-emotional-learning, help-seeking, well-being]
 methods: [quantitative-research]
 research_method: [survey]
 level: [secondary, k 12]
-audience: [researchers, instructors, administrators]
+audience: [researchers, instructors, administrators, learners, parents and families]
 page_kind: [evaluation]
 sources: ['raw/papers/adolescent-chatbot-self-disclosure-help-seeking-2026.md']
 confidence: high

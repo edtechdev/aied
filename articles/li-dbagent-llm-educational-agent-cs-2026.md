@@ -12,7 +12,7 @@ discipline: [cs education]
 level: [higher ed]
 sources: ['raw/papers/li-dbagent-llm-educational-agent-cs-2026.md']
 confidence: high
-audience: [instructors, edtech designers]
+audience: [instructors, instructional designers]
 page_kind: [evaluation]
 ---
 

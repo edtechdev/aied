@@ -11,7 +11,7 @@ ethics: [guardrails]
 confidence: medium
 research_method: [system development, user study]
 discipline: [math education]
-audience: [edtech designers, software developers, instructors]
+audience: [instructional designers, software developers, instructors]
 level: [primary education]
 page_kind: [evaluation]
 ---

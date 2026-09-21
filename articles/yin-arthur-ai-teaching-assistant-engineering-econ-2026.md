@@ -9,7 +9,7 @@ methods: [benchmark]
 sources: ['raw/papers/yin-arthur-ai-teaching-assistant-engineering-econ-2026.md']
 confidence: high
 research_method: [system development]
-audience: [instructors, edtech designers, software developers]
+audience: [instructors, instructional designers, software developers]
 level: [higher ed]
 discipline: [engineering education]
 ---

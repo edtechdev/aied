@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [pedagogy]
 methods: [design-based-research]
-stakeholders: [administrator]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors, administrators]
 level: [higher ed]

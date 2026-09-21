@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
 technology: [conversational-ai, generative-ai]
-stakeholders: [student-experience]
 research_method: [survey]
 discipline: [physics education, stem education, science education]
 audience: [learners]

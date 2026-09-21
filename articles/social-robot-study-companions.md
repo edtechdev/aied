@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [human-ai-collaboration]
 technology: [intelligent-tutoring]
-stakeholders: [student-experience]
 research_method: [system development, user study]
 discipline: [stem education]
 audience: [learners]

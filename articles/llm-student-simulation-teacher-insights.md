@@ -6,7 +6,7 @@ type: article
 pedagogy: [community-of-inquiry, scaffolding]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulating-students]
 research_method: [interviews]
-audience: [teacher educators, researchers]
+audience: [faculty developers, researchers]
 level: [teacher education, k 12]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
 confidence: high

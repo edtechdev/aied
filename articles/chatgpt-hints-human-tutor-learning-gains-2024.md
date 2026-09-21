@@ -11,7 +11,7 @@ ethics: [hallucination-risk]
 discipline: [math education]
 sources: ['raw/papers/chatgpt-hints-human-tutor-learning-gains-2024.md']
 confidence: high
-audience: [instructional designers, edtech designers, researchers]
+audience: [instructional designers, researchers]
 level: [adult learning]
 page_kind: [evaluation]
 ---

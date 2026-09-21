@@ -9,7 +9,7 @@ sources: ['raw/papers/aigc-affordance-student-self-regulation-2026.md']
 confidence: medium
 research_method: [survey, structural equation modeling]
 discipline: [business education]
-audience: [instructors, researchers, learning designers]
+audience: [instructors, researchers, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:29-04:00"

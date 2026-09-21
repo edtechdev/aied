@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [system development, theoretical analysis]
 audience: [instructors, learners]
 sources: ['raw/papers/2605.30187.md']

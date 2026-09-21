@@ -8,7 +8,7 @@ research_method: [design and evaluation study]
 sources: ['raw/papers/benzion-ai-physics-simulations-virtual-lab.md']
 confidence: high
 discipline: [physics education, stem education]
-audience: [instructors, teachers]
+audience: [instructors]
 level: [higher ed]
 ---
 

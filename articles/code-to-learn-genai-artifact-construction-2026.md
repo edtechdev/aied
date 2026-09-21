@@ -11,7 +11,7 @@ discipline: [cs education]
 level: [k 12]
 sources: ['raw/papers/code-to-learn-genai-artifact-construction-2026.md']
 confidence: medium
-audience: [teachers, curriculum designers, instructional designers]
+audience: [instructors, curriculum designers, instructional designers]
 page_kind: [framework]
 ---
 

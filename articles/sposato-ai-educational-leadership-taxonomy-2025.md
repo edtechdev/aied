@@ -5,7 +5,6 @@ updated: "2026-09-19T09:24:40-04:00"
 type: article
 foundations: [ai-education, ai-literacy, educational-development, human-ai-collaboration]
 ethics: [ethics, trust]
-stakeholders: [administrator]
 research_method: [literature review, theoretical analysis]
 audience: [administrators, faculty developers]
 level: [higher ed]

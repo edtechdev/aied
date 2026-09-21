@@ -5,8 +5,7 @@ updated: "2026-09-17T15:20:00-04:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
-stakeholders: [educational-technology-developers]
-audience: [edtech designers, software developers, designers, learning analytics designers, instructional designers, institutions]
+audience: [instructional designers, software developers, learning analytics designers, institutions, educational technology developers]
 page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]

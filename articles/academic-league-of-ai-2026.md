@@ -5,7 +5,6 @@ updated: "2026-09-19T07:42:07-04:00"
 type: article
 foundations: [ai-education, ai-literacy, computational-thinking, curriculum-design]
 pedagogy: [active-learning, collaborative-learning, community-of-inquiry, project-based-learning]
-stakeholders: [student-experience]
 research_method: [case study]
 audience: [learners]
 level: [higher ed]

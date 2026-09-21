@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [generative-ai, learning-analytics, llm]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 research_method: [longitudinal study]
 audience: [learners]
 level: [higher ed]

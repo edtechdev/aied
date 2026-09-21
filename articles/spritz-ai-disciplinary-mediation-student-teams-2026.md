@@ -6,7 +6,6 @@ type: article
 foundations: [human-ai-collaboration]
 pedagogy: [collaborative-learning, project-based-learning]
 technology: [conversational-ai, llm]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 sources: ['raw/papers/spritz-ai-disciplinary-mediation-student-teams-2026.md']

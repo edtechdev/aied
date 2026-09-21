@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [metacognition]
 technology: [generative-ai, llm]
-stakeholders: [student-experience]
 research_method: [experiment]
 discipline: [writing education]
 audience: [learners]

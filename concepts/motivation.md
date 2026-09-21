@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
 technology: [affective-computing]
-stakeholders: [student-experience]
 connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high

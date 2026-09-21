@@ -4,7 +4,6 @@ created: "2026-05-16T04:33:04-04:00"
 updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 ethics: [hallucination-risk, pedagogical-safety]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.12748.md']

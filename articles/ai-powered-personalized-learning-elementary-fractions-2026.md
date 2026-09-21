@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [adaptive-learning, generative-ai, personalized-learning]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 research_method: [experiment]
 discipline: [math education]
 audience: [learners]

@@ -6,7 +6,6 @@ type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
 assessment: [ai-feedback-quality, formative-assessment, group-work]
-stakeholders: [student-experience]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]

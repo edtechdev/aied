@@ -10,7 +10,7 @@ technology: [generative-ai]
 confidence: medium
 research_method: [case study]
 discipline: [design education]
-audience: [instructors, curriculum designers, designers]
+audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 ---

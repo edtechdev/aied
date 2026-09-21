@@ -11,7 +11,7 @@ methods: [mixed-methods-research]
 ethics: [ai-use-disclosure]
 research_method: [survey, interviews, thematic analysis]
 level: [higher ed, teacher education]
-audience: [teacher educators, instructors, assessment designers, policymakers]
+audience: [faculty developers, instructors, assessment designers, policymakers]
 sources: ['raw/papers/zou-is-this-a-trap-student-teachers-genai-2026.md']
 confidence: high
 ---

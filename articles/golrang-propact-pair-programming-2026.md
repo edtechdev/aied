@@ -6,7 +6,7 @@ type: article
 pedagogy: [collaborative-learning, metacognition, scaffolding, sociocultural-learning]
 technology: [adaptive-learning, intelligent-tutoring, rag, affective-tutoring, learning-analytics]
 assessment: [formative-assessment]
-audience: [software developers, instructional designers, instructors, edtech designers]
+audience: [software developers, instructional designers, instructors]
 research_method: [system development, experiment]
 discipline: [cs education]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']

@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 sources: ['raw/papers/ai-writes-code-student-writes-model-2026.md']
 confidence: medium
 discipline: [science education, cs education]
-audience: [curriculum designers, assessment designers, teachers]
+audience: [curriculum designers, assessment designers, instructors]
 level: [secondary]
 ---
 

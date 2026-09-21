@@ -9,7 +9,7 @@ technology: [learning-analytics]
 assessment: [assessment]
 research_method: [secondary analysis]
 discipline: [learning sciences]
-audience: [learning designers, instructional designers, curriculum designers, instructors, researchers]
+audience: [instructional designers, curriculum designers, instructors, researchers]
 level: [higher ed, k 12, adult learning]
 sources: ['raw/papers/learning-paths-patterns-learning-design-2026.md']
 confidence: high

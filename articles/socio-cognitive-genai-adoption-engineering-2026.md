@@ -5,7 +5,6 @@ updated: "2026-09-19T09:38:08-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, global-south]
 research_method: [survey]
 discipline: [engineering education]

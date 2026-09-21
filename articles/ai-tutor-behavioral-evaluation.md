@@ -10,7 +10,7 @@ level: [higher ed]
 sources: ['raw/papers/2605.05648.md']
 confidence: high
 discipline: [cs education]
-audience: [researchers, edtech designers, instructors]
+audience: [researchers, instructional designers, instructors]
 methods: [benchmark]
 ---
 

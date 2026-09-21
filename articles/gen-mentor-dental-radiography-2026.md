@@ -5,7 +5,7 @@ updated: "2026-09-19T08:23:28-04:00"
 type: article
 technology: [generative-ai, human-in-the-loop-ai, llm, simulation]
 research_method: [design and evaluation study]
-audience: [medical educators, researchers, designers]
+audience: [medical educators, researchers, instructional designers]
 level: [higher ed]
 sources: ["raw/papers/gen-mentor-dental-radiography-2026.md"]
 confidence: high

@@ -14,7 +14,7 @@ resource_type: [prompt or gem library]
 access: [free with account]
 last_verified: "2026-09-20"
 level: [k 12]
-audience: [teachers, curriculum designers, learners]
+audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
 ---

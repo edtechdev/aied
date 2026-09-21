@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, social-emotional-learning]
 methods: [mixed-methods-research]
-audience: [teacher educators, researchers, instructors]
+audience: [faculty developers, researchers, instructors]
 research_method: [quasi-experiment]
 level: [higher ed, teacher education]
 sources: ['raw/papers/10.3389_fpsyg.2026.1853510.md']

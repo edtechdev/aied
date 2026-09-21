@@ -3,13 +3,12 @@ title: "AI Literacy in Secondary Education: Framework, Assessment, and Professio
 created: "2026-09-01T09:45:00-04:00"
 updated: "2026-09-19T08:33:23-04:00"
 type: article
-foundations: [ai-literacy, educational-development]
+foundations: [ai-literacy, educational-development, teacher-ai-competency]
 technology: [generative-ai]
 methods: [mixed-methods-research]
-stakeholders: [teacher-ai-competency]
 ethics: [global-south]
 pedagogy: [professional-training]
-audience: [teacher educators, researchers, policymakers]
+audience: [faculty developers, researchers, policymakers]
 level: [k 12]
 sources: ["raw/papers/ukraine-ai-literacy-secondary-framework-2026.md"]
 confidence: high

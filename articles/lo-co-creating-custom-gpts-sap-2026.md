@@ -10,7 +10,7 @@ sources: ['raw/papers/lo-co-creating-custom-gpts-sap-2026.md']
 confidence: high
 research_method: [thematic analysis]
 discipline: [science education]
-audience: [instructors, designers, edtech designers]
+audience: [instructors, instructional designers]
 level: [higher ed]
 methods: [qualitative-research]
 ---

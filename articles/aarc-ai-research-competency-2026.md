@@ -9,7 +9,7 @@ technology: [generative-ai]
 sources: ['raw/papers/aarc-ai-research-competency.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [teachers, curriculum designers]
+audience: [instructors, curriculum designers]
 level: [secondary, k 12]
 page_kind: [framework]
 ---

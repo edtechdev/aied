@@ -6,11 +6,10 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [self-regulated-learning, metacognition, self-efficacy]
 technology: [generative-ai, llm]
-stakeholders: [student-experience, learners]
 methods: [quantitative-research]
 research_method: [survey, structural equation modeling]
 level: [secondary, k 12]
-audience: [researchers, instructors, learning designers]
+audience: [researchers, instructors, instructional designers, learners]
 page_kind: [evaluation]
 sources: ['raw/papers/genai-reliance-executive-functioning-2026.md']
 confidence: high

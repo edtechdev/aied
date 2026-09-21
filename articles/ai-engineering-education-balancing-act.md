@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 technology: [learning-analytics, llm]
-stakeholders: [student-experience]
 research_method: [survey, literature review]
 discipline: [stem education]
 audience: [learners, instructors]

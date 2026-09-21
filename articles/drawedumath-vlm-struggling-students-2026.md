@@ -12,7 +12,7 @@ level: [k 12]
 page_kind: [evaluation]
 sources: ['raw/papers/drawedumath-vlm-struggling-students-2026.md']
 confidence: high
-audience: [researchers, edtech designers]
+audience: [researchers, instructional designers]
 methods: [ai-ed-evaluation, benchmark]
 ---
 

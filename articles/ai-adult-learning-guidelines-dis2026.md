@@ -10,7 +10,7 @@ research_method: [thematic analysis]
 level: [adult learning, higher ed]
 sources: ['raw/papers/ai-adult-learning-guidelines-dis2026.md']
 confidence: high
-audience: [designers, instructors]
+audience: [instructional designers, instructors]
 methods: [qualitative-research, usability-research]
 ---
 

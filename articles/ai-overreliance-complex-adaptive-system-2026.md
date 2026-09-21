@@ -10,7 +10,7 @@ connected_faqs: [reducing-over-reliance]
 research_method: [process-outcome modeling, theoretical analysis]
 sources: ['raw/papers/ai-overreliance-complex-adaptive-system-2026.md']
 confidence: high
-audience: [researchers, edtech designers, designers]
+audience: [researchers, instructional designers]
 page_kind: [framework]
 ---
 

@@ -8,7 +8,7 @@ technology: [adaptive-learning, educational-nlp, intelligent-tutoring, pedagogic
 research_method: [literature review]
 sources: ['raw/papers/zerkouk-comprehensive-review-its-2025.md']
 confidence: medium
-audience: [researchers, edtech designers]
+audience: [researchers, instructional designers]
 page_kind: [synthesis, evaluation]
 ---
 

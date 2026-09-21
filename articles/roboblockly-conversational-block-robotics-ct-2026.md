@@ -11,7 +11,7 @@ level: [k 12]
 sources: ['raw/papers/li-roboblockly-conversational-block-2026.md']
 confidence: high
 discipline: [cs education]
-audience: [teachers, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [framework]
 ---
 

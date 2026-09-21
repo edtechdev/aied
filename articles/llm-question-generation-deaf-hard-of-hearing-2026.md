@@ -6,7 +6,6 @@ type: article
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
 assessment: [automated-question-generation]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education, inclusive-learning]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]

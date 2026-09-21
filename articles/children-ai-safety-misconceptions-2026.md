@@ -6,12 +6,11 @@ type: article
 foundations: [ai-literacy]
 technology: [conversational-ai, generative-ai]
 ethics: [ai-misuse-learning-harm, privacy]
-stakeholders: [learners, parents-and-families]
 methods: [qualitative-research]
 pedagogy: [misconceptions]
 research_method: [interviews, thematic analysis]
 level: [primary education, k 12]
-audience: [instructors, learners, researchers]
+audience: [instructors, learners, researchers, parents and families]
 page_kind: [evaluation]
 sources: ['raw/papers/children-ai-safety-misconceptions-2026.md']
 confidence: high

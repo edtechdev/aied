@@ -8,12 +8,11 @@ pedagogy: [student-ai-interaction]
 technology: [generative-ai]
 assessment: [self-report-measures, educational-measurement, assessment-validity]
 methods: [quantitative-research]
-stakeholders: [learners, student-experience]
 institutions: [educational-policy-ai]
 ethics: [ethics, ai-misuse-learning-harm, ai-use-disclosure]
 research_method: [survey]
 level: [higher ed]
-audience: [researchers, instructors]
+audience: [researchers, instructors, learners]
 sources: ['raw/papers/reed-ai-literacy-ethical-judgment-scenarios-2026.md']
 confidence: high
 ---

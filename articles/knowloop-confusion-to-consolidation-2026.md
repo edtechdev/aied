@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [learning-by-teaching, scaffolding]
 technology: [conversational-ai, pedagogical-agent, personalized-learning]
-stakeholders: [student-experience]
 research_method: [system development, user study]
 audience: [learners]
 level: [higher ed]

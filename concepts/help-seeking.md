@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 connected_faqs: [reducing-over-reliance, study-with-ai]
 audience: [learners]
 level: [higher ed, k 12]

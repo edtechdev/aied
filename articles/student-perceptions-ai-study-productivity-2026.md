@@ -6,7 +6,6 @@ updated: "2026-09-19T06:05:00-04:00"
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
 technology: [generative-ai]
 assessment: [learning-gains, self-report-measures]
-stakeholders: [student-experience]
 sources: ['raw/papers/student-perceptions-ai-study-productivity-2026.md']
 confidence: high
 research_method: [survey]

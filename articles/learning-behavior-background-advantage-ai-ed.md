@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [generative-ai, personalized-learning, rag, learning-analytics]
 assessment: [learning-gains]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 audience: [learners]
 sources: ['raw/papers/2607.10101.md']

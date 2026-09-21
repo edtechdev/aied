@@ -5,7 +5,6 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [ai-literacy]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [trust-calibration]
 discipline: [physics education, stem education]
 audience: [learners]

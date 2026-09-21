@@ -5,12 +5,11 @@ updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [generative-ai, simulation, multimodal, personalized-learning]
 pedagogy: [active-learning, scaffolding, student-engagement]
-stakeholders: [learners, educational-technology-developers]
 foundations: [teacher-role, learning-design]
 methods: [usability-research]
 research_method: [user study, system development]
 discipline: [stem education]
-audience: [edtech designers, instructors]
+audience: [instructional designers, instructors, learners, educational technology developers]
 sources: ['raw/papers/generative-ui-education-learning-interactives-2026.md']
 confidence: high
 ---
