@@ -1595,6 +1595,24 @@ concepts:
     - science inquiry
     - science learning
     - science teaching
+  self-assessment:
+    title: Self-Assessment
+    aliases:
+    - self assessment
+    - self-assessment
+    - self-assessments
+    - self-assess
+    - self-assessment accuracy
+    - self-assessment calibration
+    - self-assessment instrument
+    - self-assessment instruments
+    - self-appraisal
+    - self-check
+    - self-checking
+    - self-evaluation
+    - self-evaluate
+    - self-graded
+    - self-grading
   self-determination-theory:
     title: Self-Determination Theory
     aliases:
@@ -2185,6 +2203,7 @@ sections:
     - group-work
     - eportfolio
     - peer-assessment
+    - self-assessment
     - automated-assessment
     - automated-essay-scoring
     - automated-question-generation

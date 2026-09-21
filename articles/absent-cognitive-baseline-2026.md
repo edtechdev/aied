@@ -1,7 +1,7 @@
 ---
 title: "The Absent Cognitive Baseline: Theorizing a Structural Gap in AI-Native College Students' Academic Self-Assessment"
 created: "2026-08-10T09:10:02-04:00"
-updated: "2026-09-19T07:42:07-04:00"
+updated: "2026-09-21T11:27:24-04:00"
 type: article
 foundations: [ai-education, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -14,7 +14,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
+> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ page_kind: [framework]
    - **De-normalization of cognitive struggle** (normative-interpretive plane): struggle loses its status as a meaningful learning signal and is reinterpreted as inefficiency.
 
 3. **Three groups of moderating variables.** ACB is most likely to emerge when three conditions co-occur: substitutive and frequent AI use during the formative years, limited [[prior-knowledge|prior knowledge]] and underdeveloped self-regulated learning, and an environment providing little structured guidance for AI use. **Use-level** moderators include the mode of interaction (substitutive vs. complementary) and frequency; **learner-level** include prior knowledge (strong learners benefit, weak learners are harmed) and SRL capacity; **environment-level** include guided vs. unguided AI architectures.
-4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* self-assessment, whether confident or cautious).
+4. **Distinct from adjacent constructs.** ACB differs from [[cognitive-offloading]] (a momentary strategy; ACB is the cumulative condition that may result from extended offloading), metacognitive laziness (a process *during* AI use; ACB persists even when AI is absent), and the Dunning-Kruger effect (which predicts overconfidence; a student with ACB lacks the experiential record to ground *any* [[self-assessment]], whether confident or cautious).
 5. **The central shift in analytical level.** Most [[ai-education]] [[research-methods-aied|research]] asks whether AI improves or harms performance. ACB asks whether sustained AI use during formative years may alter a learner's *ability to assess their own learning*: "generative AI may change not only what students can do academically, but the conditions under which they come to know what they can do."
 
 ## Theoretical foundations
@@ -66,6 +66,7 @@ Methodologically, the paper argues that existing frameworks reach "ACB's door bu
 ## Connected Concepts
 
 - [[metacognition]]
+- [[self-assessment]]
 - [[cognitive-offloading]]
 - [[self-regulated-learning]]
 - [[student-experience]]

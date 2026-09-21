@@ -1,7 +1,7 @@
 ---
 title: "How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures"
 created: "2026-05-08T07:38:00-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-21T12:05:47-04:00"
 type: article
 foundations: [ai-literacy, educational-development]
 pedagogy: [self-regulated-learning]
@@ -14,14 +14,14 @@ level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2601.06101.md']
 ---
-> **Synthesis:** Highlights critical misalignment between self-reported [[ai-literacy|AI literacy]] and actual performance. Teachers overestimate their AI skills by 40% on average. Performance-based assessments correlate better (r=0.72) with classroom AI integration than self-reports (r=0.31).
+> **Synthesis:** Compares parallel self-report and objective-based measures of [[ai-literacy|AI literacy]] built inside the same Concept, Use, Evaluate, Ethics framework for 288 K-12 teachers, and finds the two barely agree. Correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24, and latent profile analysis found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the opposite pattern, and the rest clustered near the mean or split by prior AI literacy experience.
 
 ## Key Findings
 
 - The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of teacher AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
 - Confirmatory factor analyses supported construct validity with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
 - Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR ≈ OB), and a unique low-SR/low-OB profile concentrated among teachers without prior AI literacy experience.
-- The divergence between perceived and demonstrated competence has direct implications for professional development: self-assessment alone is an unreliable basis for planning AI training.
+- The divergence between perceived and demonstrated competence has direct implications for professional development: [[self-assessment]] alone is an unreliable basis for planning AI training.
 - The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable learning-analytics interventions tailored to teacher subgroups.
 
 ## Study Design & Method
@@ -54,6 +54,7 @@ The [[research-methods-aied|research]] responds to the widespread adoption of AI
 - [[educational-development]]
 - [[learning-analytics]]
 - [[self-report-measures]]
+- [[self-assessment]]
 
 ## Connected Articles
 

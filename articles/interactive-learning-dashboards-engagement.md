@@ -1,7 +1,7 @@
 ---
 title: "Interactive learning dashboards: rethinking learning visualisations as engagement tools"
 created: "2026-08-08T04:33:04-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-09-21T11:30:46-04:00"
 type: article
 pedagogy: [metacognition, self-regulated-learning, student-engagement]
 technology: [intelligent-tutoring, learning-analytics, llm, pedagogical-agent, visualization]
@@ -14,7 +14,7 @@ confidence: high
 audience: [instructors, learning analytics designers]
 ---
 
-> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) self-assessment feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
+> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) [[self-assessment]] feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more reflection and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
 
 ## Study Design
 
@@ -64,8 +64,9 @@ These findings connect to broader [[self-regulated-learning]] theory and the [[m
 - [[metacognition]]
 - [[pedagogical-agent]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 
-- visualization
+- [[visualization]]
 ## Connected Articles
 
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple D...

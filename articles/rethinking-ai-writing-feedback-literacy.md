@@ -1,7 +1,7 @@
 ---
 title: "Rethinking AI-assisted writing instruction: feedback literacy scripts, calibration training, and student writing development"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-21T12:05:47-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning]
@@ -15,7 +15,7 @@ sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']
 confidence: high
 ---
 
-> **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves self-assessment accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
+> **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves [[self-assessment]] accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
 
 ## Core Finding
 
@@ -46,7 +46,7 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 
 ## Methodological Notes
 
-Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, baseline-adjusted SAA models, and inter-rater reliability (Cohen's κ = 0.85 EAR; 0.82 revision depth; ICC 0.92 writing score). Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
+Strengths include a controlled factorial design with process data (decision sheets, calibration logs), multiple outcome dimensions, and baseline-adjusted self-assessment accuracy models. Limitations acknowledged by the author: a sample confined to English majors at one university, the APCA group's lower raw self-assessment error at baseline, and EAR measured directly only in the FRAC and combined groups.
 
 ## What this means for practice
 
@@ -67,6 +67,7 @@ Strengths include a controlled factorial design with process data (decision shee
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[writing-education]]
 - [[ai-literacy]]
 - [[metacognition]]

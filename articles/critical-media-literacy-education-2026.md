@@ -1,7 +1,7 @@
 ---
 title: "Technology, Education and Critical Media Literacy: Potential, Challenges, and Opportunities"
 created: "2026-08-12T12:37:38-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-21T11:30:46-04:00"
 type: article
 foundations: [ai-literacy, critical-thinking, curriculum-design, teacher-role]
 methods: [qualitative-research]
@@ -21,7 +21,7 @@ confidence: medium
 2. **[[teacher-education|Teacher training]] gap.** Teachers are inadequately trained to manage these tools effectively, which directly hinders the development of students' [[critical-thinking]]. Institutional priorities favor technological and instructional skills over media education.
 3. **Critical media literacy as the remedy.** Students and experts agree the goal should be a critical media literacy that goes beyond tool use to help learners question and evaluate the content they consume, within an ethical and reflective framework that promotes participatory and critical citizenship.
 4. **Low conceptual awareness among students.** While 97.8% of surveyed students recognize the importance of tools for critical media analysis, only 13.8% say these skills were addressed in their coursework; only 2.13% were familiar with all three of media education, media literacy, and educommunication.
-5. **Self-assessed competence lags perceived importance.** Just under half of students (44.9%) feel they have the skills to critically analyze media information, and 45.7% feel ready to work with media content — a gap between the high value placed on these skills and actual readiness.
+5. **[[self-assessment|Self-assessed competence]] lags perceived importance.** Just under half of students (44.9%) feel they have the skills to critically analyze media information, and 45.7% feel ready to work with media content — a gap between the high value placed on these skills and actual readiness.
 6. **Media literacy as an experiential process.** More frequent and more diverse media consumption correlates with higher perceived critical competence, suggesting critical skills also develop through meaningful everyday media [[student-engagement|engagement]] beyond formal education.
 
 ## Background and Research Questions
@@ -78,6 +78,7 @@ The study also underscores that [[equity-in-ai-education|digital inequity]] is a
 ## Connected Concepts
 
 - [[ai-literacy]]
+- [[self-assessment]]
 - [[critical-thinking]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]

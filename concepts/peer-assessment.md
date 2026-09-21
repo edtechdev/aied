@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-21T11:27:05-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -25,7 +25,7 @@ audience: [learners, instructors]
 
 ## Introduction
 
-Peer assessment is an assessment design choice in which students take on part of the evaluative work usually reserved for instructors. Its forms differ in what students produce and what is at stake: peer feedback (comments on a draft, usually [[formative-assessment|formative]] and low-stakes), peer grading (a mark contributing to a grade), peer code review, and group or team assessment (where peers assess the collective product or one another's contributions). The form determines what students practice — giving a criteria-based comment builds [[evaluative-judgment|evaluative judgment]] differently from assigning a number, and defending one's own code orally builds something different again.
+Peer assessment is an assessment design choice in which students take on part of the evaluative work usually reserved for instructors. Its forms differ in what students produce and what is at stake: peer feedback (comments on a draft, usually [[formative-assessment|formative]] and low-stakes), peer grading (a mark contributing to a grade), peer code review, and group or team assessment (where peers assess the collective product or one another's contributions). The form determines what students practice — giving a criteria-based comment builds [[evaluative-judgment|evaluative judgment]] differently from assigning a number, and defending one's own code orally builds something different again. [[self-assessment]], the sibling practice, turns that same criteria-based scrutiny on the learner's own work, whereas peer assessment directs it at a peer's submission and the audience awareness that comes with it.
 
 The research base agrees that peer assessment produces learning and disagrees about how much depends on design. It gives students an authentic audience, develops evaluative judgment through criteria-based responding, and builds the social context that supports [[student-engagement|engagement]] and [[motivation]]. Its quality depends heavily on [[scaffolding]] — how well it is structured, and whether students get clear criteria and training. That dependency is where AI enters, as a consistent, rubric-driven complement to the specific, context-aware feedback peers give, and increasingly as a scaffold built into the peer-assessment process itself.
 
@@ -77,6 +77,7 @@ The open questions are about the strength of the evidence, not only about design
 
 - [[writing-education]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[ai-feedback-quality]]
 - [[ai-literacy]]
 - [[self-regulated-learning]]

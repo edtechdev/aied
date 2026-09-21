@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-21
 
-Articles: 1347 | Concepts: 213 | Resources: 12 | FAQs: 32
+Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era
@@ -1263,6 +1263,7 @@ Articles: 1347 | Concepts: 213 | Resources: 12 | FAQs: 32
 - [[science-educators-ai-literacy-postqualification-2026]] — Science educators' AI literacy and AI usage in teaching: Implications for post-qualification programs
 - [[science-integrated-ai-literacy-curriculum-dbr-2026]] — Design of a Science-Integrated Secondary School AI Literacy Curriculum: A Youth & AI Expert Guided Design-Based Research Approach
 - [[sec-ai-literacy-narrative-review-2026]] — Exploring interfaces and implications for integrating social-emotional competencies into AI literacy for education: a narrative review
+- [[self-assessment]] — Self-Assessment
 - [[self-determination-theory]] — Self-Determination Theory
 - [[self-directed-growth-generative-ai-learning-analytics]] — Fostering Self-Directed Growth with Generative AI: Toward a New Learning Analytics Framework
 - [[self-directed-learning]] — Self-Directed Learning
