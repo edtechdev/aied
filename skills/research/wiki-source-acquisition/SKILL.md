@@ -107,3 +107,33 @@ audits to a separate untracked file and never overwrite the backlog wholesale.
 
 - `references/publisher-blocked-source-recovery.md` — real-browser extraction recipe, container
   selectors, stale-DOM de-duplication guards, trailing-widget trimming, write-back thresholds.
+
+## Truncated raws: how to notice, and what they hide (2026-09-21)
+
+- **The tell is a raw file of roughly 50,000 characters whose body stops mid-sentence.** The fetch
+  pipeline caps at the 50k boundary, so an over-long paper lands in `raw/papers/` looking complete
+  while every results table past the cut is missing. Compare the length and read the last line: an
+  abrupt stop ("...served as the u") is truncation, not the paper's ending.
+- **A truncated raw makes an article's numbers unverifiable and hides real errors.** The
+  number-grounding gate reports the whole page at once (a dozen or more flags), which reads like
+  fabrication but is usually just the missing tail. One recovered page turned out to carry a genuine
+  sign error: the page stated an academic self-efficacy coefficient as negative when the paper's
+  regression table gives it positive, having copied a bivariate correlation into a regression claim.
+  Recover the source and re-read the numbers before touching the page.
+- **Recovery routes that work from a plain scripted fetch**: the arXiv version of the same paper
+  (search the title; an Elsevier-hosted OA article is often on arXiv, and the arXiv full text is
+  fetchable as a PDF), and the publisher's own PDF path for MDPI
+  (`https://www.mdpi.com/<issn>/<vol>/<issue>/<article>/pdf`). A ScienceDirect landing page returns
+  only navigation, so it is not a source even when the DOI resolves.
+- **Record the recovery in the raw file's frontmatter** (`version:` noting the previous copy was cut
+  off at the 50k boundary, plus the URL actually used). The next reader needs to know why the file
+  changed length.
+
+## Number-grounding flags on review pages are often false positives
+
+The gate checks a page's numeric claims against that page's OWN `sources:` file. A review or
+comparison page whose summary table states another study's figure (attributed by wikilink, e.g.
+"only 20/818 papers meet causal standards" pointing at another article page) cannot be verified that
+way, and flags every figure in the table. Verify each one in the CITED page's raw source instead;
+when they all check out, treat the gate result as a structural false positive rather than rewriting
+the table.
