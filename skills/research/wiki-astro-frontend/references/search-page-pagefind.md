@@ -19,7 +19,7 @@ Style these real classes instead (all confirmed present in `pagefind-component-u
 Two mechanical requirements:
 
 - **Wrap every third-party selector in `:global(...)`.** Inside an Astro scoped `<style>`, a bare `.pf-input` compiles to `.pf-input[data-astro-cid-…]` and matches nothing, because Pagefind's elements carry no scope attribute.
-- **`!important` is required for any property Pagefind itself sets.** Its selectors are `:is(*, #\#):is(*, #\#):is(*, #\#) .pf-…` and the escaped `#\#` counts as ID weight, which beats any plain class. Properties Pagefind leaves alone (colour, radius on the menu) apply without it, but adding it uniformly is simpler than auditing each one.
+- **`!important` is required for any property Pagefind itself sets.** Its selectors are `:is(*, #\#):is(*, #\#):is(*, #\#) .pf-…` and the escaped `#\#` counts as ID weight, which beats any plain class. Properties Pagefind leaves alone (color, radius on the menu) apply without it, but adding it uniformly is simpler than auditing each one.
 
 Verification before assuming a class exists: `grep -c attachShadow dist/pagefind/pagefind-component-ui.js` and `grep -o '\.pf-[a-z-]*' dist/pagefind/pagefind-component-ui.css | sort -u`. Then confirm the rules survived the build *unscoped* by grepping the compiled page's inline `<style>` in `dist/search/index.html` — the search page's CSS is inlined there, NOT in `dist/_astro/*.css`, so a file-only check reports a false "missing".
 
