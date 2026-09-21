@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-18T11:48:51-04:00"
+updated: "2026-09-21T04:56:32-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -23,6 +23,8 @@ pedagogy: [student-ai-interaction]
 ## Introduction
 
 Human-AI collaboration describes how learners, teachers, and [[ai-technologies|AI systems]] divide cognitive work — who does what, who decides, and how [[trust]] and [[agency]] are maintained. Rather than [[framing-ai-use-for-students|framing AI]] as either a replacement or a passive tool, collaboration research treats AI as a partner with complementary strengths whose value depends on how responsibility is shared and monitored. At the level of observable behavior, [[student-ai-interaction]] captures how learners enact this relationship in practice — the questions, prompts, and verification moves they make with AI moment to moment.
+
+The division of labor also runs through the people who design the interaction. Across [[ai-integration-instructional-design-collaboratory-2026|twelve teacher-education course implementations]], faculty positioned AI as a thinking partner, critique generator or rehearsal tool while candidates kept responsibility for evaluating, adapting and justifying decisions, yet the same white paper reports that candidates devalued feedback they had already judged useful once AI authorship was disclosed, an episode it calls the balloon popping effect. An [[tang-chatbots-learning-design-2026|analysis of 1,378 designer-chatbot turns]] points the other way on generation: designers used an embedded assistant mainly for alignment checks on learning outcomes and pedagogical approach rather than for producing content. In both cases the human's evaluative judgment, not the model's output, carries the learning.
 
 ### Benefits, risks, and design implications
 
@@ -86,6 +88,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[productive-failure]]
 ## Connected Articles
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Secondary teachers design classroom chatbots as bounded experts under human supervision
+- [[ai-integration-instructional-design-collaboratory-2026]] — Twelve teacher-education course implementations treat AI integration as an instructional design problem
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: first RCT of human-AI scaling expertise to novice tutors
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
@@ -96,6 +99,7 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
+- [[tang-chatbots-learning-design-2026]] — Designers use an embedded chatbot for alignment checks on outcomes and pedagogy, not content generation
 
 - [[agent-voice-accents-k12-group-learning]]
 - [[chat-debugging-human-ai-collaboration-circuits]]
