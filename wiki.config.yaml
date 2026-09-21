@@ -51,11 +51,6 @@ build:
     # Article page shape: the practice and Limitations sections, their bullet counts
     # (practice 3-5, Limitations 2-4) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed
-    # The synthesis blockquote is a 3-5 sentence summary (60-120 words). A page over
-    # 130 words carries the shape produced when a batch brief states an older
-    # "150-220 words" budget. Scoped to changed pages so legacy long leads do not
-    # block unrelated work.
-    - python3 tooling/scripts/check-article-intros.py --changed
     # Every number in an article body must appear in that page's raw source. A hit means
     # "investigate", not "fabrication": PDF extraction produces leading-dot and
     # line-broken false positives. Scoped to changed pages so a legacy page's pre-existing

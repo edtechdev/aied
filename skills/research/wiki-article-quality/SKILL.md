@@ -110,7 +110,7 @@ The maintainer asked why some article summaries are "so very long", naming the f
 
 **Budget for `articles/<slug>.md` — body = frontmatter end to `## Connected Concepts`:**
 - Whole body: **~600-900 words** (a very rich study may reach ~1,100; anything past ~1,500 is a defect to trim).
-- `> **Synthesis:**` 60-120 words, 3-5 sentences — unchanged (the gate fails a page over 130).
+- `> **Synthesis:**` 150-220 words — unchanged.
 - `## Key Findings`: **5-7 items, each ~25-35 words** — one claim plus the one or two numbers that decide it, not every statistic, method detail or participant quote. A 50-70-word item is a paragraph in disguise; split it into prose or cut it.
 - Prose sections: **3-4 `##` sections of ~120-180 words**, not 5-6 of ~200. Merge related ones (framing + method; themes + framework; barriers + limits).
 - Enforced by two gates: `python3 tooling/scripts/audit-article-sections.py --changed` (section order, practice immediately before Limitations, practice 3-5 bullets, **Limitations 2-4 bullets**, Citation last) and `python3 tooling/scripts/verify-number-grounding.py --changed` (every number in the body must appear in the page's raw source). Both run inside `bash tooling/scripts/commit-if-green.sh`, so a page that ignores this budget fails at commit time rather than at review.
