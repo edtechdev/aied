@@ -63,11 +63,6 @@ This study provides strong empirical grounding for the knowledge base's [[cognit
 - [[feedback]]
 - [[self-regulated-learning]]
 - [[student-experience]]
-- [[cognitive-offloading]]
-- [[metacognition]]
-- [[feedback]]
-- [[self-regulated-learning]]
-- [[student-experience]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

@@ -42,7 +42,8 @@ confidence: high
 - [[teacher-role]]
 - [[llm]]
 - [[feedback]]
-- [[multimodal]]- [[network-analysis]]
+- [[multimodal]]
+- [[network-analysis]]
 
 ## Connected Articles
 

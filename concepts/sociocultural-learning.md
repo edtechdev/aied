@@ -76,5 +76,4 @@ The sociocultural strand is tightly coupled to [[cognitive-offloading|Cognitive 
 - [[text-simplification-its]] — Text simplification in ITS
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Sydney rapid review of GenAI in PreK-12
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as cognitive partner and co-regulation
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity as network effect via Actor-Network Theory

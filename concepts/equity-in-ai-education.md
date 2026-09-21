@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-21T08:08:19-04:00"
+updated: "2026-09-21T13:25:53-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -112,49 +112,25 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
 - [[adeniranye-ai-integration-nigerian-higher-education-2026]] — Institutional structures, digital inequality, and AI integration in Nigerian higher education
-- [[du-yuan-epistemic-dependence-2026]] — Epistemic plurality and justice in AI-mediated learning (Du & Yuan 2026)
-- [[llm-comparative-judgment-writing-screening-2026]] — Validity of Large Language Model Comparative Judgment for Universal Writing Screening
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
-- [[ai-divide-ses-personality-primary-education-2026]] — SES, personality, and AI divides in primary education (Wang et al. 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
-- [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
-- [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in AI-mediated education
-- [[nguyen-genai-global-south-review-2026]] — GenAI in the Global South: systematic review
 - [[prompt-privilege-equitable-ai-access-2026]] — Prompt Privilege: measuring & mitigating accessibility disparities in LLM access
 - [[ai-scoring-language-bias-physics]] — Language bias in AI-based scoring
 - [[gender-bias-transfer-llm-writing]] — Gender bias transfer in LLM-assisted writing
 - [[genai-minoritized-knowledges-disability]] — Generative AI and the marginalization of minoritized knowledges
 - [[structural-silence-underrepresented-language-ai-2026]] — Structural silence: underrepresented languages in AI infrastructure
-- [[fair-explainable-edu-recommendations]] — Fair and explainable educational recommendations
 - [[genai-higher-education-systematic-review-2026]] — GenAI in higher education: systematic review
-- [[neurodivergent-computing-students]] — Neurodivergent computing students
 - [[ai-lifelong-learning-policy]] — AI and lifelong-learning policy
 - [[generative-ai-education-productivity-gaps]] — Does generative AI narrow education-based productivity gaps?
-- [[suacode-african-students-motivations]] — African students' motivations for computing
 - [[genai-linguistic-diversity-academic-writing]] — Linguistic diversity in AI-mediated academic writing
-- [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — Scaffolded AI literacy (SAIL) framework for equitable learning
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough
 - [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Female-coded chatbot as role model reducing math gender stereotypes
-- [[community-centered-ai-education-adults]] — Community-centered AI education for adults
-- [[ai-literacy-equity-programming-policy]] — AI literacy, equity, and programming policy
-- [[ai-uk-higher-education-policy-2026]] — UK higher-education AI policy
-- [[genai-policies-higher-ed-computing]] — GenAI policies in higher-education computing
 - [[paternalistic-filter-llm-history-education]] — Paternalistic filtering in LLM-based history education
-- [[connected-ai-lesson-planning-vietnam]] — Connected AI lesson planning in Vietnam
 - [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
-- [[pre-service-science-teachers-ai-perceptions-2026]] — Ghanaian science teachers' AI acceptance
 - [[ground-truth-reliability-aied]] — Ground-truth reliability in AIED
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: stereotype-aligned feedback bias across student attributes
-- [[multilingual-adaptive-learning-nigeria-2026]] — AI-Based Adaptive Learning Platform for Multilingual Low-Resource Contexts
-- [[raffaghelli-situated-ai-ethics-2026]] — Situated AI ethics for education
-- [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — Socialist humanist AI literacy + fair use
-- [[burneo-can-edtech-close-learning-gaps-2026]] — Highlights absence of low-income-country evidence
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
-- [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[genai-use-usefulness-student-experience-australia-2026]] — Student experience of GenAI usefulness in Australian higher ed (Chung et al. 2026)
 - [[all-girls-genai-makerspace-gender-equity-2026]] — All-girls GenAI makerspace workshops and gender equity in computing
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — Mapping review: integration evidence heavily skewed to North America/Asia, minimal Global South representation
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[demographic-signals-llm-student-assessment-2026]] — Implicit (conversation-history) demographic signals shift LLM scoring, feedback and answering (Rooein, Benedetto & Hovy 2026)
@@ -162,4 +138,3 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — The right to refuse is unevenly distributed: refusal as evidence of institutional under-preparation (Zagami 2026)
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — South African HDIs: context as an epistemic principle, and equity as a condition of adoption

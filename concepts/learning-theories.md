@@ -1,7 +1,7 @@
 ---
 title: Learning Theories
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-09-17T14:18:00-04:00"
+updated: "2026-09-21T13:04:27-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories, metacognition, self-regulated-learning]
@@ -75,13 +75,11 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[constructivist]]
 - [[metacognition]]
 - [[distributed-cognition]]
-- [[situated-learning]]
 - [[self-regulated-learning]]
 - [[self-determination-theory]]
 - [[self-efficacy]]
 - [[motivation]]
 - [[sociocultural-learning]]
-- [[activity-theory-aied]]
 - [[scaffolding]]
 - [[transfer-of-learning]]
 - [[learning-gains]]
@@ -94,11 +92,8 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[learning-design]]
 - [[learning-sciences]]
 - [[philosophy-of-ai-in-education]]
-- [[critical-pedagogy]]
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[theory-development-aied]] — Theory Development in AI in Education
-- [[productive-failure]] — Productive Failure
 ## Connected Articles
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
@@ -120,5 +115,4 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
 - [[rachatasumrit-example-problem-ratio-2026]]

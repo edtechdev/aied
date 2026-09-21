@@ -59,7 +59,7 @@ Under critical pedagogy, educators are not neutral transmitters of AI skills but
 
 ## Connected Articles
 
-[[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
+- [[kasa-malksoo-ai-human-rights-education-2026]] — Human rights education, reflective practice, and teaching AI governance as professional formation (Kasa-Mälksoo 2026)
 
 - [[burriss-multimodal-composition-critical-ai-literacy-2026]] — Multimodal composition as critical AI literacy pedagogy
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of techno-solutionist GenAI constructive-alignment advice

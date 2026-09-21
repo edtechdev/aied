@@ -55,7 +55,6 @@ Centers on [[llm]] tutors in [[student-experience]] and the harms catalogd under
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 ## Citation
 
 Alexis Popovici, Andrei Ionascu, Adrian-Marius Dumitran (2026). [The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students](https://arxiv.org/abs/2607.11292). arXiv preprint.

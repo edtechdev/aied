@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-21T08:08:19-04:00"
+updated: "2026-09-21T13:20:18-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -102,23 +102,6 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[human-ai-collaboration]] — shared direction of AI-mediated interaction
 - [[agentic-ai]] — autonomous AI that can redistribute agency in groups
 - [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
-- [[social-emotional-learning]] — Social-Emotional Learning- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[pedagogical-partnerships]] — Pedagogical Partnerships
-- [[learner-identity]] — evolving disciplinary, professional, creative, and academic learner identities
-- [[self-directed-learning]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[self-efficacy]]
-- [[student-experience]]
-- [[metacognition]]
-- [[ethics]]
-- [[cognitive-offloading]]
-- [[educational-robotics]]
-- [[behaviorism]]
-- [[framing-ai-use-for-students]]
-- [[human-ai-collaboration]] — shared direction of AI-mediated interaction
-- [[agentic-ai]] — autonomous AI that can redistribute agency in groups
-- [[chemistry-education]] — Chemistry education and AI: labs, formative assessment, LLM limits, philosophy of experimentation
 - [[social-emotional-learning]] — Social-Emotional Learning
 - [[cognitive-surrender]]
 
@@ -128,52 +111,25 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
 - [[ai-mediated-research-agency-formation-2026]] — AI-mediated research agency formation in early-career scientific training
 - [[student-centered-genai-responsible-framework-2026]] — Student-facing framework for responsible GenAI use in higher education (Alsammani 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[school-ai-education-readiness-gaps-agency-2026]] — School AI education narrows psychological but not cognitive readiness gaps
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and six criteria separating productive reliance from harmful dependence (Du & Yuan 2026)
-- [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ai-pedagogical-accompaniment-amico]] — AI-enabled pedagogical accompaniment supporting STEM identity
-- [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use
 - [[t2i-competence-paradox-2026]] — The competence paradox: creative identity in text-to-image GenAI use
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[your-brain-on-chatgpt-cognitive-debt-essay-writing]]
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency as the essential tension in AIED history
-- [[ying-genai-journalism-assessment-2026]]
-- [[pedlow-genai-selfassessment-2026]]
-- [[dollinger-equitable-assessment-ai-2026]]
-- [[ai-communities-of-inquiry-2026]]
-- [[genai-chinese-higher-education-integrity-2026]] — Gen-AI in Chinese higher education: integrity and engagement
 - [[idea-framework-metacognitive-genai-2026]] — The IDEA framework for metacognitively regulated GenAI use
 - [[daoism-ai-education-philosophy-2026]] — Alternative AI Philosophy: Daoism as Method for AI in Education
-- [[voicu-ai-interpretive-cognition-ssh-2026]]
 - [[human-autonomy-agency-hri-review-2025]] — Human Autonomy and Agency in HRI
 - [[roboblockly-conversational-block-robotics-ct-2026]] — RoboBlockly Studio
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini
 - [[knowledge-based-design-generative-social-robots-2026]] — Knowledge-Based Design for Generative Social Robots
 - [[andragogy-cognitive-delegation-genai-2026]]
-- [[self-directed-growth-generative-ai-learning-analytics]]
-- [[ensemble-cognition-philosophy-ai-education]]
-- [[ojeda-ramirez-community-based-ai-learning]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
-- [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[li-mroziak-reorienting-critical-ai-literacy]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Foster student agency in learning-relevant work
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
-- [[ai-advice-suppresses-ikt-suspension-2026]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
 - [[preservice-teacher-agency-genai-design-learning-2026]] — Pre-service teacher agency during GenAI interactions in design for learning (Krushinskaia, Elen & Raes 2026)
 - [[emancipatory-ai-learner-flourishing-2026]] — Emancipatory vision: agency as zero-sum with tool agency
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks

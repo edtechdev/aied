@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-17T14:07:13-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -94,53 +94,23 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 ## Connected Articles
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
-- [[emotion-aware-classroom-iot-monitoring-2026]] — Emotion-aware classroom quality assessment via IoT-based real-time monitoring (Nguyen et al. 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
-- [[tutortrace-learner-behavioral-states-2026]]
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[causal-modeling-competency-assessment-2026]] — Causal Modeling of Support Interventions for Student Competency Assessment
-- [[de-barba-srl-genai-2026]] — Learner agency across scales: regulation, integration, positioning
-- [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a context-aware learning partner over time
-- [[espino-ai-business-education-review-2026]]
-- [[ai-student-engagement-online-learning-review-2025]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-decision-support-online-learning-assessment-2026]]
-- [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
-- [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
-- [[principal-trait-analysis-human-ai-skills-2026]] — Principal Trait Analysis: data-driven traits of human-AI collaboration
-- [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
-- [[ai-guided-learning-audiovideo-2026]]
 - [[at-risk-students-ml-prediction]]
 - [[engagement-intensity-learner-modeling]]
 - [[misiejuk-cognitive-offloading-prompting-2026]]
 - [[teaching-feedback-classification-benchmark]]
 - [[wordstream-glass-learning-analytics]]
-- [[llm-difficulty-calibration-programming-exams-2026]]
 - [[trace-course-grade-prediction-2026]]
 - [[student-llm-interaction-taxonomy-review-2026]]
-- [[self-directed-growth-generative-ai-learning-analytics]]
-- [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[student-ai-inquiry-types-cs2-2026]] — Analysis of Types of Inquiries in Student-AI Interaction
-- [[shap-llm-rationales-teaching-quality-assessment]] — SHAP vs LLM rationales for teaching quality assessment
-- [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
-- [[li-dbagent-llm-educational-agent-cs-2026]] — LLM-based educational agent (DBagent) in CS education
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
 - [[bayesian-cognitive-diagnosis-personalized-learning-paths]] — Bayesian cognitive diagnosis for personalized learning paths
-- [[cogevolution-student-cognitive-evolution-agent-2026]] — CogEvolution: generative agent simulating students' cognitive evolution
-- [[assessing-student-drive-framework-2025]] — DRIVE: assessing learning through GenAI interaction (DRI + Visible Expertise)
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
-- [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[determinants-chatgpt-use-higher-education-2026]] — ML/SHAP determinants of future ChatGPT use in higher education
-- [[personalized-neural-cognitive-architecture-search-2026]] — AutoML personalized neural cognitive architecture search for learner profiles
-- [[predicting-attrition-competitive-programming]] — Predicting Student Attrition in Competitive Programming
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping
 - [[an-goel-self-directed-modeling-2026]]
@@ -150,7 +120,5 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[pulla-parsons-problem-tool-2026]] — Pulla: process-level behavioral tracing and instructor-facing difficulty analysis in Parsons problems (Prol et al. 2026)
 - [[a4l-analytics-pipeline]]
 - [[huang-interpretable-knowledge-tracing-2026]]
-- [[human-vs-llm-ordered-coding]]
 - [[league-ethical-governance-student-data-2026]]
 - [[precision-education-student-digital-twins-2026]]
-- [[savvy-student-attention-video-learning]]

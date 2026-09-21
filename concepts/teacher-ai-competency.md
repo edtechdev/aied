@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-21T04:56:34-04:00"
+updated: "2026-09-21T12:50:58-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -61,6 +61,8 @@ The knowledge base's PD literature identifies effective approaches:
 - **Co-design and pedagogical prompt literacy are competencies, not add-ons.** A [[meta-analysis-systematic-review|systematic review]] of teacher–AI co-design of learning tasks ([[wang-teacher-ai-co-design-review-2026|Wang, Liu & Islam 2026]], 28 studies) finds the dominant collaboration mode is AI as assistant/content generator, and locates a gap in teachers' fuller co-design and dialogic partnership capacities. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] shows PD that pairs technical AI training with pedagogical reasoning — building "pedagogical prompt literacy" (encoding [[tpack|PCK]] into prompts) — is what lets teachers turn AI output into effective [[collaborative-learning|differentiated group activities]].
 - **Institutional support:** [[educational-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], , [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 
+A design-based counterexample treats competency as situational rather than a rung on a ladder. [[adaptive-ai-model-teacher-educators-2025|Eyal's 2025 design-based study with 22 higher-education teacher educators]] had participants examine five published assessment frameworks and co-design an alternative organized around three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development. The model rejects fixed competency levels and allows non-linear progression, and it ships with a 20-item reflective self-assessment questionnaire rated 1 to 5. Its validation is qualitative only, with no quantitative reliability testing, so it stands as a design contribution rather than a validated instrument.
+
 ## Teacher AI competency and the transforming teacher role
 
 As AI takes over routine instructional and assessment tasks, the teacher's distinctive contribution shifts toward orchestration, judgment, and relationship: deciding when and how AI is used, scaffolding [[agency|student agency]] and critical use, ensuring equity, and providing the social and emotional support AI cannot. This reframes teacher competency around [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[ethics|ethical judgment]], and [[self-regulated-learning|supporting self-regulated learning]] — connecting to [[teacher-role]] and [[cognitive-offloading|guarding against over-reliance]].
@@ -76,6 +78,8 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 ### A Psychometric Instrument for Teacher AI Competency
 
 - A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy specifically within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument's development fills a gap in assessments that target students or general users, supporting the measurement of teacher AI competency.
+
+The instrument landscape itself has since been reviewed. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 systematic review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found the field methodologically monotonous: 31 (93.9%) are self-report scales of perceived confidence, only two (6.1%) test knowledge objectively, and none use performance-based tasks. Internal consistency was the strongest quality domain (28 of 33 at Grade A) and fairness the weakest, with five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Content also lags the technology, since 29 instruments (87.9%) target general AI concepts and only four (12.1%), all from 2025, address generative AI.
 
 ## Connected Concepts
 
@@ -142,3 +146,5 @@ As AI takes over routine instructional and assessment tasks, the teacher's disti
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — Six-week faculty institute from fear to ethical integration, symbiotic pedagogy and AIPACK (Chick, Morello & Staffey 2026)
 - [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
+- [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)

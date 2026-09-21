@@ -49,7 +49,8 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 - [[automated-question-generation]]
 - [[human-in-the-loop-ai]]
 - [[llm]]
-- [[educational-measurement]]- [[english-education]]
+- [[educational-measurement]]
+- [[english-education]]
 
 ## Connected Articles
 - [[ai-learning-companions-framework]]

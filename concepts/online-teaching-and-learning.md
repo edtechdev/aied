@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-17T07:54:52-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -119,7 +119,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[assessment-validity]] — validity of the inference from submitted work to learning
 - [[agentic-ai]] — autonomous systems that operate tools and platforms, including an LMS
 - [[community-of-inquiry]] — Community of Inquiry
-- [[remote-proctoring]]
 - [[pedagogy]]
 - [[learning-design]]
 - [[active-learning]]
@@ -130,24 +129,17 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[academic-integrity]]
 - [[ai-misuse-learning-harm]]
 - [[ai-literacy]]
-- [[generative-ai]]
 - [[intelligent-tutoring]]
 - [[personalized-learning]]
 - [[adaptive-learning]]
-- [[adult-learning]]
-- [[higher-ed]]
 - [[student-engagement]]
 - [[digital-divide]]
-- [[privacy]]
 - [[governance]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
 - [[authentic-assessment]]
 - [[guardrails]]
 - [[ai-detection]]
-- [[pedagogical-safety]]
-- [[conversational-ai]]
-- [[video-education]] — Video in Education: the video medium and AI-generated/personalized video
 
 ## Connected Articles
 - [[ai-agents-complete-lms-assessment-validity-2026]] — Autonomous agents completed unproctored LMS assessments end to end: an assessment-validity problem (Hadjisolomou & El-Haddad 2026)
@@ -163,14 +155,9 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[reconceptualizing-community-inquiry-generative-ai]] — Reconceptualizing Community of Inquiry in the age of generative AI
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[lock-integrating-ai-online-learning-higher-ed-2025]] — Integrating AI in online learning in higher education: a four-theme critical literature review
-- [[academic-dishonesty-automated-proctoring-ai-2026]]
-- [[automated-online-exam-proctoring-decade-review-2026]]
 - [[ai-online-education-engagement-satisfaction-2026]]
-- [[interactive-online-learning-ai-2025]]
-- [[ai-communities-of-inquiry-2026]]
 - [[ai-distance-education-systematic-review-2026]]
 - [[ai-decision-support-online-learning-assessment-2026]]
-- [[chatgpt-perception-online-learning-engagement-2026]]
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 - [[learnmate2-llm-adaptive-learning]] — LearnMate²: Personalized and Adaptive Support System for Online Learning
 - [[llm-facilitation-timing-online-discussions]] — Human and LLM Facilitator Tendencies in Online Discussions
@@ -178,8 +165,6 @@ Whatever combination an instructor chooses, one constraint should shape it. Onli
 - [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors
 - [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of]] — Implementing AIDA at the Open University
 - [[ai-adult-learning-guidelines-dis2026]] — Guidelines for Designing AI Technologies to Support Adult Learning
-- [[engagement-forecasting-its]] — Forecasting Effort and Progress in Online Learning
-- [[critical-thinking-biological-sciences-ai-2025]] — Promoting Critical Thinking in the Era of AI
 - [[deeptutor]] — DeepTutor: Toward Agentic Personalized Tutoring
 - [[educasim-cs1-instructional-practice]] — EducaSim: scalable role play for massive online courses
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms

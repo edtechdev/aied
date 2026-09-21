@@ -87,7 +87,6 @@ The paper is explicit about what its evidence does and does not cover. MUSE meas
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]] — Format-dependent limits of multimodal grading in handwritten chemistry
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI tutoring in STEM and the error taxonomy
 - [[geovad-bench-visual-chain-of-thought-geometry-2026]] — Diagnosing intermediate visual constructions rather than final answers
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Construct-level auditing of multimodal LLM instructional judgments
 - [[omniphys-multimodal-physics-benchmark-2026]] — Multimodal physics benchmark for model evaluation

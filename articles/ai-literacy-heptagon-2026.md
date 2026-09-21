@@ -61,7 +61,6 @@ The study used an integrative literature review (distinct from a meta-analysis, 
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric AI Pedagogy (HCAP) Framework
 - [[finkelstein-principled-ai-education-2025]] — Principled AI Education Framework
-- [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in Higher Education: A Systematic Review
 
 ## Citation

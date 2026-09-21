@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -97,13 +97,10 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 ## Connected Articles
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Preservice English teachers' classroom AI policies: what they permitted, limited, and banned (Nash & Burriss 2026)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment
-- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
-- [[guided-inquiry-genai-course-policy-2026]] — A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies
 - [[mccorkle-aligned-genai-course-policy-2025]] — Deriving allowed and unallowed GenAI uses task by task from what is assessed (McCorkle 2025)
 - [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi (Chirikov 2026)
 - [[chirikov-ai-grade-inflation-2026]] — AI task displacement as a mechanism of grade inflation (Chirikov 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
-- [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on governing generative AI in higher education
 - [[qian-governing-genai-higher-ed-policy-2026]] — Guidance over policy: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Five-factor comparison of law school GenAI policies in a sector making policy without an evidence base (Gutowski & Hurley 2025)
@@ -112,36 +109,14 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[institutional-ai-policy-health-informatics-2026]] — AI policy documents across all 48 accredited health informatics master's programs: mostly guidance, centered on academic integrity (Eldredge et al. 2026)
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive stewardship for AI-mediated assessment (30-university policy audit)
 - [[adarkwah-genai-unesco-policy-2026]]
-- [[alrahmi-org-drivers-ai-adoption-he-2026]]
-- [[fekete-ethical-ai-literacy-gaps-2026]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ethical-ai-higher-ed-game-theory]] — Coordination game framework for ethical AI use in higher education (Ogbo et al. 2026)
-- [[genai-student-experiences-uk-he-survey-2026]]
-- [[ai-interior-design-malaysia-2026]]
-- [[critical-media-literacy-education-2026]]
 - [[genai-policies-higher-ed-computing]]
 - [[institutional-change-framework-ai]]
 - [[ai-assessment-scale-reform]]
 - [[stanford-evidence-base-ai-k12-2026]]
 - [[ai-uk-higher-education-policy-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)- [[ithaka-sr-ai-skills-college-graduates-2026]] — Most institutions lack coherent AI-skills strategy and assessment frameworks
 - [[ssaho-ai-academic-integrity-review-2025]] — Call for explicit, co-developed AI-use policies
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Move beyond adoption-or-ban; staged, developmentally responsive guidance
-- [[ai-science-chemistry-education-systematic-review-2025]] — Systematic review of AI in science/chemistry education
-- [[unesco-ai-guidelines-chemical-education-2026]] — UNESCO AI guidelines translated to chemical education; epistemic drift
-- [[context-based-ai-secondary-chemistry-2026]] — Context-based 7E + AI instruction in secondary chemistry
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
-- [[lnenicka-secondary-students-genai-stem-2026]] — What secondary students do with GenAI tools across STEM
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[roe-assessment-twins-2026]] — Assessment twins for strengthening assessment validity in the age of GenAI (Roe, Perkins & Giray 2026)
-- [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[bassett-ai-detectors-education-2026]] — Heads we win, tails you lose: AI detectors in education (Bassett et al. 2026)
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
-- [[longitudinal-ai-usage-ethics-policy-teacher-education-2026]] — Longitudinal GenAI usage, ethics, and policy in teacher education (Parker et al. 2026)
-- [[genai-integration-constructivist-higher-ed-bangladesh-2026]] — GenAI integration in Bangladeshi higher ed through constructivism (Alam et al. 2026)
-- [[beyond-hype-stakeholder-perceptions-genai-2026]] — Stakeholder perceptions of GenAI in higher ed (Humble & Mozelius 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
@@ -149,4 +124,3 @@ A [[meta-analysis-systematic-review|systematic review]] of 65 papers at the inte
 - [[li-genai-assessment-language-equity-2026]] — A purpose-based support–substitution boundary with calibrated disclosure and decision rubrics (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: grades changed undetected, and the policy-level response (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — 130 governance indicators for authenticating assessment, and the external pressure reform needs (Coates, Croucher & Calderon 2025)
-- [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Institutional AI policy rhetoric loosely coupled to infrastructure and practice at two South African HDIs

@@ -44,7 +44,8 @@ This work connects to core knowledge base themes: [[language-learning]] [[higher
 - [[cognitive-offloading]]
 - [[teacher-role]]
 - [[scaffolding]]
-- [[generative-ai]]- [[english-education]]
+- [[generative-ai]]
+- [[english-education]]
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-21T04:56:32-04:00"
+updated: "2026-09-21T13:08:36-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -89,51 +89,21 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Secondary teachers design classroom chatbots as bounded experts under human supervision
 - [[ai-integration-instructional-design-collaboratory-2026]] — Twelve teacher-education course implementations treat AI integration as an instructional design problem
 - [[wang-tutor-copilot-human-ai-live-tutoring-rct-2024]] — Tutor CoPilot: first RCT of human-AI scaling expertise to novice tutors
-- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
-- [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
-- [[genai-counter-learner-groupthink-2025]]
-- [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era
 - [[think-first-chatgpt-later-2026]] — Think First, ChatGPT Later: Independent Human Creativity
 - [[principal-trait-analysis-human-ai-skills-2026]] — Data-driven "traits" of human–AI collaboration
-- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated vs human-developed assessment tasks in EFL
 - [[haiml-human-centered-ai-metacognitive-model-2026]]
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
 - [[tang-chatbots-learning-design-2026]] — Designers use an embedded chatbot for alignment checks on outcomes and pedagogy, not content generation
-- [[agent-voice-accents-k12-group-learning]]
-- [[chat-debugging-human-ai-collaboration-circuits]]
-- [[generativism-learning-theory]]
 - [[student-mental-models-genai]]
 - [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[genai-higher-education-systematic-review-2026]]
-- [[ai-feedback-enactment-workflow-2026]]
 - [[ai-cognitive-partner-co-regulation-learning]]
-- [[ensemble-cognition-philosophy-ai-education]]
 - [[ojeda-ramirez-community-based-ai-learning]]
-- [[elsayed-pedagogical-symbiosis-posthuman-learner]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
-- [[videla-embodied-ai-education-choreography]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[substitution-to-scaffolding-ai-harm-cycle-2026]] — From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
 - [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a Mediational Agent
-- [[young-people-learning-generative-ai-rapid-review-2026]] — GenAI across learners, contexts, cultures
-- [[ai-supported-experimental-design-chemistry-2026]] — AI-supported experimental design in practical chemistry
-- [[instructor-ai-roles-chatgpt-formative-assessment-2026]] — Instructor and AI roles in ChatGPT-enhanced formative assessment
-- [[philosophy-experimentation-ai-chemistry-2026]] — Philosophy of experimentation in chemistry with AI
-- [[critical-thinking-biological-sciences-ai-2025]] — Critical thinking in biological sciences and AI
-- [[chatgpt-virtual-lab-teaching-assistant-biology-2026]] — ChatGPT as a virtual lab teaching assistant in biology
-- [[beyond-chatgpt-ai-tools-biological-education-2026]] — Review of AI tools in biological education
 - [[conversational-ai-agents-umbrella-review-2026]] — Umbrella review of conversational AI agents in education
-- [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[cognitive-commons-ai-expertise-regeneration]] — The tragedy of the cognitive commons: AI and expertise regeneration
-- [[strydom-human-gai-paradigms-2026]] — Framing human-AI dynamics: seven GAI engagement paradigms (Strydom 2026)
-- [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
 - [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[generative-ai-mediational-agent-sociocultural-2026]] — Generative AI as a mediational agent
-- [[fear-awe-genai-metaphor-workshops-2025]] — Making sense of GenAI through metaphor workshops
-- [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
-- [[genai-scenario-based-healthcare-education-2026]] — Systematic review of GenAI in scenario-based healthcare education (Neto et al. 2026)
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
@@ -141,5 +111,4 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[oppenheimer-llms-collaborative-learning-partners-2026]]
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
-- [[llm-qualitative-coding-consensus-2026]] — How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automation, augmentation and collaboration as a continuum of task assignment
