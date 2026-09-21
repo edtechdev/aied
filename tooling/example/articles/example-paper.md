@@ -16,7 +16,7 @@ audience: [instructors, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This example article page shows the structure and conventions used throughout the knowledge base. The blockquote summary runs 150-220 words and states what the paper did, how it was done, and what it found. Article pages cover individual papers; broader topics that synthesize several papers belong on concept pages. The concepts a page touches are named in the typed frontmatter fields above — each one a real concept slug filed under that field's own registry section.
+> **Synthesis:** This example article page shows the structure and conventions used throughout the knowledge base. The blockquote summary runs 60-120 words (3-5 sentences) and states what the paper did, how it was done, and what it found. Article pages cover individual papers; broader topics that synthesize several papers belong on concept pages. The concepts a page touches are named in the typed frontmatter fields above — each one a real concept slug filed under that field's own registry section.
 
 ## Key Findings
 
