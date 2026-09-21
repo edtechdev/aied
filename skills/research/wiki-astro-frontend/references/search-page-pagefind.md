@@ -1,19 +1,35 @@
 # Search page (src/pages/search.astro) — Pagefind filter UI
 
-## Current markup (2026-09-20)
+## Current markup (2026-09-20, after the pills revert)
 
 - `<pagefind-config bundle-path="/aied/pagefind/" faceted>` — `faceted` is what makes filters populate/show on page LOAD without typing a query (also shows all results initially). Without it the dropdowns show empty skeletons until a search runs.
-- **`page_type` is NO LONGER a dropdown.** It is a pill/toggle row: `.type-filter` > `.type-pills` (`data-filter="page_type"`) rendered by an inline script. Reason: on phones the popup for the page types kept hanging off the screen edge; pills/toggles were requested instead.
-- One `<pagefind-filter-dropdown>` per remaining facet, in this order: `discipline`, `level`, `audience`, `research_method`, then the `FACET_DISPLAY_ORDER` facets, then `page_kind`.
-- Multi-select popups by default (only `single-select` makes them single). Each trigger shows a `0` selected-count badge.
+- `page_type` **is a dropdown again, first in the bar**, followed by `discipline`, `level`, `audience`, `research_method`, the `FACET_DISPLAY_ORDER` facets, then `page_kind`.
+- All styling targets Pagefind's real light-DOM classes (see below). There are **no `::part()` rules left**: they were dead code.
 
-## Pagefind component UI has NO shadow DOM, so `::part()` is dead code (2026-09-20)
+## Pagefind's component UI has NO shadow DOM, so `::part()` is dead code
 
-`dist/pagefind/pagefind-component-ui.js` contains **zero** `attachShadow` calls and zero `adoptedStyleSheets`: these web components render in LIGHT DOM. `::part()` only matches shadow parts, so every `::part(trigger)`, `::part(menu)`, `::part(option)`, `::part(input)`, `::part(summary)`, `::part(result)` rule in `search.astro` silently does nothing. Style the real light-DOM classes instead (`.pf-dropdown-trigger`, `.pf-dropdown-menu`, `.pf-dropdown-option`, plus the input/summary/result classes). The facet-slug to title rewrite script is only half-affected: it walks `el.shadowRoot` (always null) but also recurses into light-DOM children, which is why it still works.
+`dist/pagefind/pagefind-component-ui.js` contains **zero** `attachShadow` calls and zero `adoptedStyleSheets`: the components render in LIGHT DOM. `::part()` only matches shadow parts, so `::part(trigger)`, `::part(menu)`, `::part(option)`, `::part(input)`, `::part(summary)`, `::part(result)`, `::part(result-title)` matched nothing — years of intended styling silently never applied.
 
-Verify before assuming a part exists: `grep -c attachShadow dist/pagefind/pagefind-component-ui.js` and `grep -o 'pf-dropdown-trigger\|pf-dropdown-menu' dist/pagefind/pagefind-component-ui.css`.
+Style these real classes instead (all confirmed present in `pagefind-component-ui.js`):
 
-## Mobile popup overflow: the missing `transform: none` (2026-09-20)
+- dropdown: `.pf-dropdown-wrapper`, `.pf-dropdown-trigger`, `.pf-dropdown-trigger-label`, `.pf-dropdown-selected-badge` (the count badge), `.pf-dropdown-arrow`, `.pf-dropdown-menu`, `.pf-dropdown-options`, `.pf-dropdown-option`, `.pf-dropdown-option-label`, `.pf-dropdown-option-count`, `.pf-dropdown-option-focused` (keyboard focus class), `.pf-dropdown-clear`
+- search box: `.pf-input-wrapper`, `.pf-input`, `.pf-input-clear`
+- results: `.pf-summary`, `.pf-results`, `.pf-result` (the `<li>`), `.pf-result-card`, `.pf-result-content`, `.pf-result-title` (a `<p>`), `.pf-result-link` (the `<a>`), `.pf-result-excerpt`, `.pf-heading-chips` (sub-result link list)
+
+Two mechanical requirements:
+
+- **Wrap every third-party selector in `:global(...)`.** Inside an Astro scoped `<style>`, a bare `.pf-input` compiles to `.pf-input[data-astro-cid-…]` and matches nothing, because Pagefind's elements carry no scope attribute.
+- **`!important` is required for any property Pagefind itself sets.** Its selectors are `:is(*, #\#):is(*, #\#):is(*, #\#) .pf-…` and the escaped `#\#` counts as ID weight, which beats any plain class. Properties Pagefind leaves alone (colour, radius on the menu) apply without it, but adding it uniformly is simpler than auditing each one.
+
+Verification before assuming a class exists: `grep -c attachShadow dist/pagefind/pagefind-component-ui.js` and `grep -o '\.pf-[a-z-]*' dist/pagefind/pagefind-component-ui.css | sort -u`. Then confirm the rules survived the build *unscoped* by grepping the compiled page's inline `<style>` in `dist/search/index.html` — the search page's CSS is inlined there, NOT in `dist/_astro/*.css`, so a file-only check reports a false "missing".
+
+### One trap worth remembering: `.pf-input` keeps its own inline padding
+
+Pagefind sets `padding-inline-start: 32px` (magnifier icon) and `padding-inline-end: 36px` (clear button) on `.pf-input`. Overriding the `padding` shorthand slides the typed text under the icon. Override `height`, `padding-top`/`padding-bottom`, `font-size`, `border`, `border-radius`, `background` instead.
+
+`.pf-result-excerpt` ships `white-space: nowrap` + ellipsis, i.e. one clipped line per result; `white-space: normal`, `overflow: visible`, `text-overflow: clip` gives a readable wrapping excerpt.
+
+## Mobile popup overflow: the missing `transform: none`
 
 Symptom: every dropdown menu popped off the LEFT edge of phone screens, even after an earlier attempt pinned the menu to the viewport.
 
@@ -47,31 +63,21 @@ The working rule:
 }
 ```
 
-Two rules that are easy to get wrong:
-
-- Keep the selector wrapped in `:global(...)`. Inside an Astro scoped `<style>`, a bare `.pf-dropdown-menu` compiles to `.pf-dropdown-menu[data-astro-cid-…]` and matches nothing, because Pagefind's elements carry no scope attribute.
-- `!important` is required: Pagefind's selector is `:is(*, #\#):is(*, #\#):is(*, #\#) .pf-dropdown-menu`, and the escaped `#\#` counts as ID weight.
-
 General lesson: when overriding a third-party popup, audit EVERY geometric property the third party sets (`left`, `inset`, `transform`, `margin`) rather than only the ones that look wrong. Overriding `left` while leaving `transform` is what left this half-fixed.
 
-## Driving a single facet from custom UI (the Type pills)
+## Custom filter UI (pills): attempted, reverted — the Astro scoping trap
 
-Pagefind's component UI ships no pill/checkbox standalone component, and `pagefind-filter-pane` renders EVERY facet at once, so it cannot serve one field. Drive the facet through the instance API:
+A pill/toggle row replaced the Type dropdown (Pagefind ships no standalone pill component; `pagefind-filter-pane` renders every facet at once). It was reverted: the pills came out as **huge default browser buttons** because the pill CSS lived in the component's scoped `<style>` block while the buttons were created at runtime by JS. Astro's scoping appends `[data-astro-cid-…]` to the selectors, and runtime-created elements never carry that attribute, so **not one pill rule applied**. Any element a client script creates must be styled through `:global()`, or carry the scope attribute itself.
+
+The instance-API knowledge is still worth keeping for any future custom filter UI:
 
 - instance: `window.PagefindComponents.getInstanceManager().getInstance('default')` (poll for it; do not rely on module import timing)
-- live values + counts: `inst.availableFilters[facet]` (e.g. `{article: 120, concept: 90, faq: 12}`); this is populated with the worker/index load, ~4–6s on a cold load, so poll a few times and render a static fallback first
+- live values + counts: `inst.availableFilters[facet]` (e.g. `{article: 120, concept: 90, faq: 12}`); populated with the worker/index load, ~4-6s on a cold load, so poll a few times and render a static fallback first
 - current selections: `inst.searchFilters` (object of facet to array)
 - re-run with new filters: `inst.triggerFilters(newFilters)` — reuses `inst.searchTerm`, so the typed query survives; `triggerSearchWithFilters(term, filters)` when you also need to set the term
-- resync: `inst.on('search', (term, filters) => …)` and `inst.on('filters', ({available, total}) => …)`. The `search` event also fires for the URL-restore path, which is what keeps pills correct on a shared/bookmarked URL
+- resync: `inst.on('search', (term, filters) => …)` and `inst.on('filters', ({available, total}) => …)`. The `search` event also fires for the URL-restore path, which keeps custom UI correct on a shared/bookmarked URL
 - delete a facet's key from the filter object when its last value is deselected, otherwise the URL writer persists an empty array
 
-### Verify this without a browser
+### Verify a custom widget without a browser
 
-The headless browser tool cannot reach this host's preview server (private address, blocked), so extract the inline script and `eval` it in Node against a stub DOM:
-
-- read `src/pages/search.astro`, take the `<script is:inline>` block containing `type-pills`, `eval` it
-- stub `document.querySelector('.type-pills')` and `document.createElement` with a tiny fake element (`children`, `attributes`, `dataset`, `handlers`, `textContent`, `appendChild`, `setAttribute`, `addEventListener`)
-- stub `window.PagefindComponents.getInstanceManager().getInstance()` with a fake instance carrying `availableFilters`, `searchFilters`, an `on()` registry and a `triggerFilters()` that records its payload
-- then assert: pills render with counts, click sets `{page_type:['concept']}`, second click adds, third removes, clearing all drops the key, and an externally-fired `search` event flips `aria-pressed`
-
-A ~40-line harness exercises the whole logic. Also run `node --check` on the extracted inline scripts from `dist/search/index.html` to catch syntax errors.
+The headless browser tool cannot reach this host's preview server (private address, blocked), so extract the inline script and `eval` it in Node against a stub DOM: stub `document.querySelector`, `document.createElement` (tiny fake element with `children`, `attributes`, `dataset`, `handlers`, `textContent`, `appendChild`, `setAttribute`, `addEventListener`) and a fake Pagefind instance carrying `availableFilters`, `searchFilters`, `on()`, `triggerFilters()`. A ~40-line harness can then assert render-with-counts, toggle on/off, multi-select, key removal on clear, and resync from an externally fired `search` event. Also run `node --check` on the inline scripts extracted from `dist/search/index.html`.

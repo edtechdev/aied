@@ -359,6 +359,12 @@ const recentConceptItems = recentConcepts.map(c => ({
       margin: 0.5rem 0 0 0;
     }
     :global(.connected-list > li) {
+      /* Hide the bullet on the ITEM, not just on the list: pico ships
+         `ul li { list-style: square }`, a declaration directly on the `li`,
+         which beats the `list-style: none` inherited from `.connected-list`
+         above. The connected lists mark each item with a page-type icon, so the
+         pico square was the only bullet still showing. */
+      list-style: none;
       padding: 0.5rem 0;
       border-bottom: 1px solid var(--card-border-color);
     }
