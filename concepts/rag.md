@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-15T11:40:00-04:00"
+updated: "2026-09-21T09:28:29-04:00"
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]
@@ -27,6 +27,7 @@ confidence: high
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
 - **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
+- **Course-specific academic support:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single programming module's approved teaching materials to serve students who hesitate to approach a lecturer, and 89% of the 15 evaluating students rated its responses highly aligned with course materials; the design point is that grounding is an institutional answer to the mismatch between general-purpose [[llm|LLMs]] and module-level expectations.
 
 ### RAG vs fine-tuning
 
@@ -60,3 +61,4 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education

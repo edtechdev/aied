@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-18T09:40:00-04:00"
+updated: "2026-09-21T09:28:29-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -32,6 +32,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 **Socratic AI tutoring in physics** is the most developed theme, with three articles deploying [[llm]]-powered Socratic dialogue in real physics courses. **[[hashmi-socratic-physics-chatbot-2025|Hashmi et al.]]** demonstrated that sustained Socratic interaction with an AI chatbot dramatically improves question specificity in introductory mechanics, with 150 STEM majors in a live course. **[[socratic-ai-physics-tutor-taxonomy-2026|Hashmi & Rebello]]** built a bottom-up taxonomy of 357 student discourse categories from the same deployment, revealing that meta-procedural turns — where students cede strategic control to the tutor — dominate student interactions. Both contribute to broader [[socratic-method]] research and connect to [[intelligent-tutoring|AI Tutoring]] and [[intelligent-tutoring]] frameworks.
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
+
+**Perception change without behavior change** is what [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] add to this picture. A reflective lesson on how LLMs work, taught in a required first-year course for physics majors, raised skepticism sharply — agreement that LLMs can leave students with a false sense of confidence rose from 58% to 88%, and the belief that an LLM outperforms the average physics student fell from 54% to 32% — while convenience (71% agreement) and deadline pressure (65%) remained the dominant reasons for use. The lesson's limits are as informative as its effect: [[ai-literacy]] instruction shifted what students said about these tools and not the pressures that make them reach for one, which is why an intervention of this kind belongs alongside problem and policy design rather than in place of it.
 
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
 
@@ -110,3 +112,4 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
+- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction

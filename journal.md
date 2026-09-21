@@ -1,14 +1,20 @@
 # Journal
 
-Last updated: 2026-09-21 | Total entries: 1566
+Last updated: 2026-09-21 | Total entries: 1572
 
 ## 2026-09-21
 - 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education
 - 📄 [[ai-integration-instructional-design-collaboratory-2026]] — AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation
 - 📄 [[ai-refusal-higher-education-diagnostic-non-use-2026]] — AI refusal in higher education: the right to refuse, the duty to understand and the diagnostic value of non-use
 - 📄 [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
+- 📄 [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
+- 📄 [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
+- 📄 [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
+- 📄 [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
+- 📄 [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
 - 📄 [[tang-chatbots-learning-design-2026]] — Investigating the Role of Chatbots in Facilitating Learning Design
 - 📄 [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
+- 📄 [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
