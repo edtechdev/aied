@@ -61,6 +61,7 @@ Create `articles/<slug>.md` with:
 title: "Full Paper Title"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+published: YYYY-MM-DD        # the PAPER's publication date (YYYY-MM-DD, YYYY-MM or YYYY); omit if unknown
 type: article
 technology: [llm]           # typed facet fields: concept slugs from one registry section
 pedagogy: [scaffolding]
@@ -75,6 +76,7 @@ page_kind: [framework]  # optional: framework, synthesis, evaluation
 ```
 
 **Structure — FIXED order:** synthesis blockquote → `## Key Findings` → 3-4 `##` prose sections → `## What this means for practice` → `## Limitations` → `## Connected Concepts` → `## Connected Articles` → `## Citation` (LAST). Nothing goes after `## Citation`.
+- **`published`:** the article's own publication date, which is NOT `created` (the ingestion date — Recent Articles and the journal sort by that). Use the feed's or publisher's date at whatever precision it gives (`YYYY-MM-DD`, `YYYY-MM` or `YYYY`), never an invented day, and omit the field when the feed carries no date. It renders as `published … · added …` in the page header.
 - **Synthesis blockquote:** 3-5 sentences covering what was studied, method, key findings, significance (from the full abstract, not the RSS snippet)
 - **Key Findings section:** 3-5 contiguous bullets with the most important results (do NOT duplicate the synthesis text)
 - **What this means for practice:** lead with **Instructors**, then a labeled bullet for faculty developers/designers, administrators/institutions, researchers or developers only when the paper supports a genuinely distinct implication (match the page's `audience:` facet). 3-5 bullets, imperative and derived from this page's findings — no hedging.
