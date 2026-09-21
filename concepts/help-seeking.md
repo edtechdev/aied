@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-09-20T16:38:31-04:00"
+updated: "2026-09-21T09:28:29-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -56,6 +56,8 @@ Two simple, interpretable indicators — premature hint requests and superficial
 Explicit training in **reasoning-focused help-seeking** — requesting stepwise hints and verification rather than final answers — produces better outcomes than uncritical reliance. In a quasi-experimental undergraduate statistics study, guided LLM access (with training on reasoning-oriented help-seeking) led to stronger independent performance and better self-assessment calibration than unrestricted LLM access. The lesson: **LLM access alone is an incomplete intervention**; the design challenge is to scaffold *how* students use AI so it functions as a reasoning partner rather than an answer-getting tool.([[guided-llm-scaffolding-independent-learning]])
 
 Interaction cost is part of the same question. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]] identify a **Referential Barrier** and an **Expressive Barrier** that stop pen-based learners from asking an [[llm|LLM]] anything at all: pointing at a diagram region or an equation term cannot be expressed in typed prose, and the effort of formulation lands exactly when a question is most fragile. Their Penquiry system resolves reference by snapping ink marks to document elements and expands sparse ink keywords into full queries through autocompletion; two iterative studies of 16 participants each found the cognitive and physical overhead of inquiry fell significantly. Whether lower asking cost produces *better* help-seeking or merely more of it is left open, and the authors propose temporally adaptive autocompletion — foundational verification early in a session, higher-level prompts later — as a route from reduced friction to [[scaffolding|fading support]] rather than a permanent crutch.
+
+A third lever on the cost of asking is *where* the help comes from. [[course-specific-rag-help-seeking-higher-ed-2026|Gray and Hobbs (2026)]] built Beacon, a course-specific [[rag|retrieval-augmented]] assistant grounded in one programming module's approved materials, and evaluated it with 15 computing students and four academics. 89% of participants rated its answers highly aligned with course materials and 66.7% said it supported rather than replaced their learning, though only around half to 60% reported gains in understanding or confidence. The motivation is the barrier this section documents: 62.5% of those students said they sometimes avoided asking for help when they needed it and 75% reported anxiety when a topic did not make sense, so a private, module-grounded channel is offered as a first rung before approaching a lecturer. The academics interviewed kept the counter-argument alive — they valued that Beacon withheld full solutions and worried that unrestricted tools let students skip a development stage — which is why the design earns its place by refusing to complete the work.
 
 ### Calibrating trust through transparency
 
@@ -133,3 +135,4 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance: consulting GenAI before independent thought, search, or an instructor predicts both benefit and harm (Manikonda et al. 2026)
 - [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education

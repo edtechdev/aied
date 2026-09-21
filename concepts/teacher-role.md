@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-21T09:28:29-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -36,6 +36,8 @@ Teaching here names the professional role as AI reshapes it: less content delive
 - **[[teacher-education|Preservice]] preparation:** [[ai-tpack-preservice-math-teachers|TPACK-based training]] and [[educational-development]] programs prepare future teachers for AI-augmented classrooms before they enter them. [[zhuang-zhang-chatgpt-math-teacher-education-2026|Simulated-student role-play]] extends this into hands-on practice: a custom ChatGPT bot (Student GPT) playing a mathematically [[misconceptions|misconception]]-ridden middle schooler lets preservice teachers rehearse diagnosing and guiding student reasoning in a low-risk setting, preparing them for a central teaching task — reading and remediating student thinking.
 
 - **A teacher-facing frontier the evidence base has barely entered:** [[edustories-classroom-case-studies-2026|Štefánik et al. (2026)]] assemble **Edustories**, 1,492 teacher-written case studies of real elementary and high-school classrooms — challenging student behavior, the intervention the teacher attempted, and what followed — precisely because most AI-in-education research has targeted individualized student assistance while most teaching happens in collective classrooms. [[benchmark|Benchmarking]] four language-model families on predicting whether an intervention succeeded, the strongest models reached 58% accuracy against 64% for human experts; the authors read the gap in both directions, as a limit on current [[teacher-ai-competency|teacher-facing]] assistance and as evidence of emerging potential. What the page gains from it is a measured ceiling rather than a capability claim: advice to teachers needs to be better than expert judgment before it can be trusted, and today the ordering is the other way.
+
+- **Where AI actually enters the work, by task:** [[where-ai-enters-teacher-work-2026|Holster (2026)]] separates adoption from allocation using TALIS 2024 data from 56,669 teachers, with an allocation sample of 24,058 AI users across 46 education systems. A task rated one point above a teacher's own mean demand was more likely to receive AI help (OR = 1.163), but the direction differs by task: planning rises with demand (OR = 1.084), assessment and marking falls (OR = 0.921), and special-education support and adaptation rises steeply (OR = 1.442, a predicted spread from 34.0% to 50.3% across the demand range). The [[teacher-ai-competency|competency]] and policy reading is that teachers already keep high-stakes marking human while reaching for AI on individualized adaptation work, so guidance that treats teacher AI use as a single behavior will miss where support is actually needed.
 
 ### What the changing role actually looks like: concrete examples
 
@@ -245,3 +247,4 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
 - [[k12-teachers-ai-companion-literacy-2026]] — Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
+- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
