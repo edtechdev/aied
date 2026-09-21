@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 213 concepts, 1341 articles, and 32 FAQs.
+> Complete text of 213 concepts, 1347 articles, and 32 FAQs.
 
 # Concepts
 
@@ -789,7 +789,9 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 **Not all offloaded friction is excess friction.** [[zohar-bloom-inzlicht-against-frictionless-ai-2026|Zohar, Bloom and Inzlicht (2026)]] draw the distinction that the offloading literature needs: previous [[ai-technologies]] removed *excess* friction — tedious or insurmountable obstacles with little learning or meaning value — whereas generative AI in intellectual work also strips away *beneficial* friction, letting a learner move from ideation to evaluation without questioning the output. They marshal the associative evidence bluntly: people who use AI struggle to accurately recall or reproduce their own work, acquire fewer skills, show less transfer, and perform worse when AI support is removed — converging with the cognitive-debt findings from EEG studies of essay writing with an AI assistant. Their argument also supplies the motivational half of the mechanism that pure cognitive accounts miss: because effort signals that our actions matter, offloading it reduces appraised purpose and meaning, and as AI substitutes for effort in a domain the motivational payoff of effort there erodes, deepening reliance further. The paper's corrective is a gradient rather than a prohibition — preserve moderate struggle, remove what only overwhelms ([[desirable-difficulties]], [[motivation]]).
 
 - **Dependent versus autonomous offloading — the distinction that sets the outcome:** [[family-school-autonomy-support-genai-2026|Fan, Li and Zhang (2026)]] organize the GenAI evidence around a sharpened version of this boundary, drawing on a three-wave study of 589 students and early-career knowledge workers: *dependent* offloading delegates core thinking to the tool and was associated with transferred [[agency]], lower intrinsic motivation and poorer perceived cognitive outcomes, while *autonomous* offloading keeps epistemic agency with the learner and showed the opposite pattern. The finding that matters most for detection is that immediate performance benefits did not differ between the two modes, so a learner resolving tasks fluently on any given day gives no signal about which mode they are in. The same review records the wider split in the evidence — a three-level [[meta-analysis-systematic-review|meta-analysis]] of moderate overall benefit (g = 0.499; g = 0.669 for comprehension, cognition and creativity) against associations between dependence, fatigue and weaker [[critical-thinking]] — and traces maladaptive use to externalized self-regulation rather than to technology addiction.
-- **Three interaction pathways, not one behavior.** The Neuroplasticity-AI Interaction Model (NAIM) separates direct bypass, where the model supplies the solution and generative effort disappears; cognitive offloading, where specific sub-processes are delegated and the effect depends on whether those sub-processes are the learning target; and scaffolding, where the model constrains help to preserve effortful processing ([[naim-bypass-offload-scaffold-llm-learning-2026]]). The model is calibrated against the strongest available field evidence: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students raised practice performance by 48% yet left a 17% deficit on the unassisted exam, whereas hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. Offloading is therefore harmful only in the bypass configuration, and the operative design variable is whether the model substitutes for the graded target skill. ([[naim-bypass-offload-scaffold-llm-learning-2026]])
+- **Three interaction pathways, not one behavior.** The Neuroplasticity-AI Interaction Model (NAIM) separates direct bypass, where the model supplies the solution and generative effort disappears; cognitive offloading, where specific sub-processes are delegated and the effect depends on whether those sub-processes are the learning target; and scaffolding, where the model constrains help to preserve effortful processing ([[naim-bypass-offload-scaffold-llm-learning-2026]])
+
+Two controlled studies in the recent batch pin down the two halves of this claim — whether the behavior shifts, and what it was protecting. [[metacognitive-feedback-anti-deskilling-offloading-2026|Maier et al. (2026)]] made the learning consequence of offloading visible before each choice in a preregistered experiment with 704 participants practicing fraction arithmetic: odds of offloading an answer fell to OR = 0.47 and odds of answering a later unaided test item correctly rose to OR = 1.51, while an effort-based reward moved neither outcome. Offloading compounded within the session — after offloading one item, participants offloaded the next in 69.7% of cases without the feedback and 55.9% with it — and a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success (OR = 0.68). [[chatgpt-programming-performance-retention-ownership-2026|Bergh et al. (2026)]] supply the outcome-side complement: 55 computer science undergraduates who coded with ChatGPT scored 89% against 69% without it, recalled less of the same material immediately (41% vs. 53%) and at 48 hours (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81%. Read together, the feedback study shows the behavior can be shifted without restricting access to the tool, and the programming study shows what the shifted behavior was protecting.. The model is calibrated against the strongest available field evidence: unrestricted GPT-4 access in a study of nearly 1,000 high-school [[math-education|mathematics]] students raised practice performance by 48% yet left a 17% deficit on the unassisted exam, whereas hint-constrained GPT Tutor produced a 127% practice gain with the exam deficit largely eliminated. Offloading is therefore harmful only in the bypass configuration, and the operative design variable is whether the model substitutes for the graded target skill. ([[naim-bypass-offload-scaffold-llm-learning-2026]])
 
 ## Connected Concepts
 
@@ -898,6 +900,8 @@ Cognitive offloading (and its harmful form, over-reliance) connects fundamentall
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: motivations for AI use during reading, and their link to offloading
 - [[chatgpt-writing-cognitive-impact-2026]] — a writing-to-learn experiment in which ChatGPT-assisted writing produced less knowledge gain than an unaided control
 - [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
+- [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
 
 ---
 
@@ -1528,6 +1532,8 @@ Teaching here names the professional role as AI reshapes it: less content delive
 
 - **A teacher-facing frontier the evidence base has barely entered:** [[edustories-classroom-case-studies-2026|Štefánik et al. (2026)]] assemble **Edustories**, 1,492 teacher-written case studies of real elementary and high-school classrooms — challenging student behavior, the intervention the teacher attempted, and what followed — precisely because most AI-in-education research has targeted individualized student assistance while most teaching happens in collective classrooms. [[benchmark|Benchmarking]] four language-model families on predicting whether an intervention succeeded, the strongest models reached 58% accuracy against 64% for human experts; the authors read the gap in both directions, as a limit on current [[teacher-ai-competency|teacher-facing]] assistance and as evidence of emerging potential. What the page gains from it is a measured ceiling rather than a capability claim: advice to teachers needs to be better than expert judgment before it can be trusted, and today the ordering is the other way.
 
+- **Where AI actually enters the work, by task:** [[where-ai-enters-teacher-work-2026|Holster (2026)]] separates adoption from allocation using TALIS 2024 data from 56,669 teachers, with an allocation sample of 24,058 AI users across 46 education systems. A task rated one point above a teacher's own mean demand was more likely to receive AI help (OR = 1.163), but the direction differs by task: planning rises with demand (OR = 1.084), assessment and marking falls (OR = 0.921), and special-education support and adaptation rises steeply (OR = 1.442, a predicted spread from 34.0% to 50.3% across the demand range). The [[teacher-ai-competency|competency]] and policy reading is that teachers already keep high-stakes marking human while reaching for AI on individualized adaptation work, so guidance that treats teacher AI use as a single behavior will miss where support is actually needed.
+
 ### What the changing role actually looks like: concrete examples
 
 The abstraction "orchestrator" is easier to grasp through concrete, day-to-day shifts in instructor work:
@@ -1736,6 +1742,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
 - [[k12-teachers-ai-companion-literacy-2026]] — Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
+- [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
 
 ---
 
@@ -7805,6 +7812,8 @@ Explicit training in **reasoning-focused help-seeking** — requesting stepwise 
 
 Interaction cost is part of the same question. [[penquiry-pen-based-llm-qa-2026|Rhee et al. (2026)]] identify a **Referential Barrier** and an **Expressive Barrier** that stop pen-based learners from asking an [[llm|LLM]] anything at all: pointing at a diagram region or an equation term cannot be expressed in typed prose, and the effort of formulation lands exactly when a question is most fragile. Their Penquiry system resolves reference by snapping ink marks to document elements and expands sparse ink keywords into full queries through autocompletion; two iterative studies of 16 participants each found the cognitive and physical overhead of inquiry fell significantly. Whether lower asking cost produces *better* help-seeking or merely more of it is left open, and the authors propose temporally adaptive autocompletion — foundational verification early in a session, higher-level prompts later — as a route from reduced friction to [[scaffolding|fading support]] rather than a permanent crutch.
 
+A third lever on the cost of asking is *where* the help comes from. [[course-specific-rag-help-seeking-higher-ed-2026|Gray and Hobbs (2026)]] built Beacon, a course-specific [[rag|retrieval-augmented]] assistant grounded in one programming module's approved materials, and evaluated it with 15 computing students and four academics. 89% of participants rated its answers highly aligned with course materials and 66.7% said it supported rather than replaced their learning, though only around half to 60% reported gains in understanding or confidence. The motivation is the barrier this section documents: 62.5% of those students said they sometimes avoided asking for help when they needed it and 75% reported anxiety when a topic did not make sense, so a private, module-grounded channel is offered as a first rung before approaching a lecturer. The academics interviewed kept the counter-argument alive — they valued that Beacon withheld full solutions and worried that unrestricted tools let students skip a development stage — which is why the design earns its place by refusing to complete the work.
+
 ### Calibrating trust through transparency
 
 A classroom experiment with 252 students found that **warning students about AI fallibility increased help-seeking** in a math tutoring system. Transparency about potential system errors improved learners' engagement with the system — connecting help-seeking to [[trust-calibration]] and [[hallucination-risk]].([[ai-fallibility-warning-help-seeking]])
@@ -7881,6 +7890,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[halani-designing-for-reach-2026]] — Designing for reach: the student alone with AI and access to help
 - [[uneven-impact-generative-ai-student-learning-2026]] — Early reliance: consulting GenAI before independent thought, search, or an instructor predicts both benefit and harm (Manikonda et al. 2026)
 - [[reed-resource-literacy-genai-composition-2026]] — Resource literacy in online composition: the bottleneck is recognizing when help is needed (Reed 2026)
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
 
 ---
 
@@ -9321,6 +9331,7 @@ A complementary line of work reframes LLMs from static graders into emulators of
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
 - **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
+- **Course-specific academic support:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single programming module's approved teaching materials to serve students who hesitate to approach a lecturer, and 89% of the 15 evaluating students rated its responses highly aligned with course materials; the design point is that grounding is an institutional answer to the mismatch between general-purpose [[llm|LLMs]] and module-level expectations.
 
 ### RAG vs fine-tuning
 
@@ -9354,6 +9365,7 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
+- [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
 
 ---
 
@@ -12702,6 +12714,8 @@ Physics education [[research-methods-aied|research]] has become a proving ground
 
 **Student AI adoption and trust** explores how physics students actually use AI tools. **[[fouad-bentley-trust-utility-gap-physics-2026|Fouad & Bentley]]** found a 50-point trust-utility gap: 91% use AI for coursework but only 41% trust it, with students spontaneously identifying AI failure modes in visual-spatial reasoning and circuits. **[[becker-chatgpt-typology-physics-2026|Becker et al.]]** developed a two-profile typology — 70% "Pragmatic Users" and 30% "Skeptical Non-Users" — from 1,189 survey responses, showing both groups make calculated risk-utility trade-offs. These studies advance [[ai-literacy]] and [[trust-calibration]] research, and challenge one-size-fits-all [[educational-policy-ai|AI policies]].
 
+**Perception change without behavior change** is what [[physics-students-llm-perceptions-instruction-2026|O'Brien et al. (2026)]] add to this picture. A reflective lesson on how LLMs work, taught in a required first-year course for physics majors, raised skepticism sharply — agreement that LLMs can leave students with a false sense of confidence rose from 58% to 88%, and the belief that an LLM outperforms the average physics student fell from 54% to 32% — while convenience (71% agreement) and deadline pressure (65%) remained the dominant reasons for use. The lesson's limits are as informative as its effect: [[ai-literacy]] instruction shifted what students said about these tools and not the pressures that make them reach for one, which is why an intervention of this kind belongs alongside problem and policy design rather than in place of it.
+
 **Assessment and computational thinking** examines how AI can evaluate physics learning. **[[llm-computational-thinking-physics-2026|Savage et al.]]** used LLMs to assess [[computational-thinking|computational thinking]] growth in introductory physics, finding LLMs can scale CT assessment but struggle with complex constructs like Systems Thinking. **[[ai-scoring-language-bias-physics|Feser & Tschisgale]]** demonstrated that AI scoring systematically underestimates linguistically weak students' physics explanations — a finding that connects to [[assessment-validity]], [[bias-mitigation]], and [[equity-in-ai-education]].
 
 **Psychometric infrastructure for diagnostic assessment.** [[mechanics-cognitive-diagnostic-physics-2026|Le et al. (2026)]] invert the usual AI-in-physics question: rather than asking whether a model can solve or grade physics, they ask whether the field's own research-based [[assessment|assessments]] can be made to diagnose it. Mapping FCI, FMCE and EMCS items onto 14 fine-grained learning objectives and fitting a DINA cognitive-diagnostic model to 24,394 posttest responses from 807 courses at 79 institutions via the LASSO platform, they built the Mechanics [[cognitive-diagnosis|Cognitive Diagnostic]] — reported as the first cognitive diagnostic computerized adaptive test in physics. The FCI and EMCS fit well (RMSEA2 = 0.033 and 0.022) while the FMCE fit only marginally (0.065), and the authors trace that misfit to instrument design rather than modeling: 42 of 43 scored FMCE items share scenario stems in chained sets, creating the local item dependence that DINA's conditional-independence assumption forbids (the FCI blocks 13 of 30 items; the EMCS none). Classification accuracy met the low-stakes [[formative-assessment|formative]] benchmark for 19 of 22 objective–assessment combinations; the three failures were EMCS energy objectives whose items overlap by roughly 70 percent, so mastery of one cannot be separated from the others. The significance for physics teaching is that instruments courses already administer can be repurposed to deliver actionable, objective-level feedback *during* instruction rather than a retrospective posttest score — provided the diagnostic claims are pitched at the resolution the item bank can actually support.
@@ -12779,6 +12793,7 @@ Physics education sits within the broader [[stem-education]] domain but has dist
 - [[chatgpt-qiskit-homework-autogradable-2026]] — ChatGPT solves Qiskit homework; autogradable design
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[mechanics-cognitive-diagnostic-physics-2026]] — Mechanics Cognitive Diagnostic: turning the FCI, FMCE and EMCS into a 14-objective cognitive diagnostic (Le et al. 2026)
+- [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
 
 ---
 
@@ -21017,6 +21032,8 @@ UDL rests on the insight that learner variability is the norm, not the exception
 [[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
 Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI [[conversational-ai|conversational agents]] in business [[simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
+
+AI also appears in this literature as an obstacle to UDL rather than an instrument of it. In [[faculty-accessible-course-design-ai-2026|Sidhu, Atif and Newland's (2026)]] mixed-methods study of 69 professors at one Ontario university, one of the four key themes is that [[generative-ai|generative AI]] is reversing progress in accessible course design; the title quotation, "AI is reducing options I had used", comes from their interviews, because the take-home and drafting-based assignments that had done inclusion work are the ones an AI can now complete outright. Their faculty-level findings show why that setback lands on an already thin base: 90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility, yet fewer than half (46%) thought the university offered sufficient resources for it, and roughly a fifth had never heard of techniques as basic as OCR-readable PDFs or color-independent links. Demand is outrunning provision — Ontario university enrollments grew 17% from 2013 to 2022 while registrations with accessibility services rose 126% — so the case the study makes is that UDL support has to be resourced to compensate for the assessment options AI removed.
 ### Connections
 
 UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational [[bias-mitigation|fairness]] and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a [[k-12]] term), it is often the right page to link for college and university disabled-learner research.
@@ -21076,6 +21093,7 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
+- [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
 
 ---
 
@@ -46168,6 +46186,66 @@ Grume et al. (2026). [Pedagogical Promise and Peril of AI: A Text Mining Analysi
 
 ---
 
+## [Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership](https://edtechdev.github.io/aied/articles/chatgpt-programming-performance-retention-ownership-2026/)
+
+> **Synthesis:** In a controlled between-subjects experiment, 55 [[higher-ed|undergraduate]] [[cs-education|computer science]] students at one university completed three introductory C programming tasks with or without ChatGPT-4.5. The AI-assisted group scored 20 points higher on the coding assessment (89% vs. 69%) yet recalled less of the same material immediately (41% vs. 53%) and 48 hours later (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81% in the no-AI group. Because the loss of recall information over 48 hours did not differ between conditions, the gap reads as weaker encoding during [[cognitive-offloading|AI-assisted work]] rather than faster forgetting, which puts [[generative-ai]] assistance and artifact-based [[assessment]] in direct tension.
+
+## Key Findings
+1. **Assisted performance rose while retention fell.** The ChatGPT group scored 89% on the coding assessment against 69% without AI, but 41% vs. 53% on the immediate cued-recall quiz and 39% vs. 52% at 48 hours.
+2. **Ownership halved.** Students who worked with ChatGPT attributed 45% of the submitted code to themselves, compared with 81% in the conventional web-search condition.
+3. **Mental effort rose less across tasks under AI.** [[self-report-measures|Self-reported]] effort increased less across the three tasks in the ChatGPT condition (Holm-adjusted p = .047), the load signature that [[cognitive-offloading]] research predicts.
+4. **The physiological channels were inconclusive.** Confirmatory pupillometry and heart-rate-variability tests detected no significant differences in trajectories between conditions, and the authors report substantial data loss that limits their interpretation.
+5. **Four of 59 participants were excluded for protocol reasons** — one AI-assigned participant never used the assistant and three did not attempt the third task — leaving 29 AI-assisted and 26 no-[[simulating-students|AI students]] in the analysis.
+6. **Forgetting rates did not differ.** Both groups lost roughly two points of recall over 48 hours, so the AI group's deficit was already present at the immediate quiz: lower initial encoding rather than accelerated decay.
+7. **Prior experience was covaried.** Prior programming experience (any language, and C specifically) was modeled as a covariate on performance and retention, and prior ChatGPT familiarity on ownership, so the headline gaps are adjusted estimates.
+
+## Coding scores and recall move in opposite directions
+The result that makes this study worth reading is not that AI helps students finish programming tasks faster; several [[meta-analysis-systematic-review|meta-analyses]] already report that. It is that the two outcome measures diverged inside the same session, with the same students. Participants solved introductory C problems and then answered a ten-question cued-recall quiz on the material, first immediately and again 48 hours later. The [[generative-ai]] group's coding advantage was large, and its recall disadvantage was present at both measurement points, which rules out differential forgetting as the explanation. The design also pseudo-randomly assigned participants to the two conditions so that gender was balanced across them.
+
+## Ownership and the artifact-as-proxy problem
+Students in the ChatGPT condition claimed less than half of the code they submitted (45%), against 81% without AI, a difference the authors treat as [[learner-identity|psychological ownership]] rather than a grading artifact. The [[pedagogy|pedagogical]] problem is that most programming assessment assumes the submitted artifact is a sufficient proxy for what a student knows, and this experiment is a direct test of that assumption: the artifact improved while the underlying recall fell. Instructors who grade only the working program therefore see the strongest scores from the students with the weakest retention, which is a [[assessment-validity|validity]] problem before it is an AI problem.
+
+## What the load measures could and could not show
+Cognitive load was measured on four channels: self-reported effort and difficulty (Paas scale), mean pupil diameter from a research-grade eye tracker, heart-rate variability, and task performance. Only the self-report channel produced a significant between-condition result, with effort rising less across tasks under AI assistance. The authors state plainly that the confirmatory physiological tests detected no significant trajectory differences and that substantial data loss limits their interpretation, so the load story rests on a single self-report measure — a measured claim rather than a general one about the physiology of [[cognitive-psychology|cognitive load]]. The design is nonetheless notable for trying.
+
+## What this means for practice
+- **Instructors.** Grade learning, not only the artifact: follow AI-assisted coding work with an unaided recall or explanation task, because submitted code substantially overstates what students in this study could reproduce two days later.
+- **Assessment designers.** Treat ownership as a signal worth collecting. A short self-report of how much of the work the student attributes to themselves tracked the retention outcome here at no measurement cost.
+- **Researchers.** The 48-hour window and the 55-student single-site sample bound what this design can support; a longer retention interval and a delayed-transfer task are the obvious next studies.
+
+## Limitations
+- One university, 55 of 59 recruited students analyzed, with 29 in the AI condition and 26 without, so the study is powered for large effects only.
+- The confirmatory physiological load channels lost substantial data and detected no significant differences; the cognitive-load conclusion rests on self-reported effort.
+- Retention was measured at 48 hours only, so nothing here shows whether the recall gap persists, widens, or closes with practice.
+- Assistance was ChatGPT-4.5, and no data-collection window is reported, so the size of the performance advantage is specific to that model generation.
+
+## Connected Concepts
+- [[cognitive-offloading]]
+- [[generative-ai]]
+- [[cs-education]]
+- [[learning-gains]]
+- [[assessment]]
+- [[assessment-validity]]
+- [[learner-identity]]
+- [[problem-solving]]
+- [[self-report-measures]]
+- [[metacognition]]
+
+## Connected Articles
+- [[cognitive-offloading-llm-synthesis-writing]] — Profiling cognitive offloading in LLM-mediated synthesis writing
+- [[jost-llm-programming-education-learning-outcomes]] — The Impact of Large Language Models on Programming Education and Student Learning
+- [[genai-meta-analysis-programming-learning]] — A meta-analysis of the effect of generative AI on productivity and learning in programming
+- [[liu-tool-tutor-crutch-programming-2026]] — Tool, Tutor, or Crutch?: A Grounded Theory of Cognitive Scaffolding and Offloading
+- [[llm-interaction-depth-task-quality-recall-2026]] — What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall
+- [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it
+- [[ai-writing-support-stage-ownership-2026]] — From Planning to Revision: How AI Writing Support at Different Stages Alters Ownership
+- [[soft-barriers-copying-ai-programming-2026]] — Do Not Copy/Paste: Soft Barriers for Copying in AI-Assisted Programming
+
+## Citation
+Bergh, C., Tag, B., Vassar, A., & Renzella, J. (2026). [Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership](https://arxiv.org/abs/2609.21194). arXiv:2609.21194.
+
+---
+
 ## [ChatGPT Solves All Tested Qiskit Homework Assignments](https://edtechdev.github.io/aied/articles/chatgpt-qiskit-homework-autogradable-2026/)
 
 > **Synthesis:** This empirical study by Kaltchenko and Tiwana (Wilfrid Laurier University) tests whether [[cs-education|introductory quantum-computing]] homework can remain [[automated-assessment|autogradable]] while still forcing students to run, review, and interpret their own results rather than banning [[generative-ai|AI]]. Three [[assessment|Qiskit assignment packages]] were built — seeded basis-state circuits, Quantum Fourier Transform (QFT) with inverse-transform recovery, and seeded Deutsch–Jozsa — each wrapped in deterrence layers (deterministic [[personalized-learning|personalization]], non-palindromic bitstrings, varied measurement maps, simulator execution, machine-readable JSON submissions, hidden references, circuit metrics, reflections, optional IBM Quantum execution). For each package a single fixed student-visible instance was tested in 50 separate ChatGPT sessions (150 total); all 150 final artifacts executed and passed the grader, giving each instance zero observed ChatGPT-resiliency under the study's operational definition. The analysis explains why the defenses failed — seeds changed parameters rather than task structure, expected results stayed derivable from visible logic, [[scaffolding]] exposed key steps, and hidden grading verified consistency rather than authorship — and argues that correct artifacts must be complemented by direct assessment of understanding (supervised modification, oral defense, prediction, transfer), a core concern for [[academic-integrity]] and [[llm]] use in [[physics-education]].
@@ -50614,6 +50692,66 @@ Abdalla, M., Abdalla, S., Cappello, A., Dowling, K., Metaxa, D., Widder, D. G., 
 ## Citation
 
 Cohn, C., Ashwin T S, Mohammed, N., & Biswas, G. (2026). [CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323). Under review, Computers and Education: Artificial Intelligence.
+
+---
+
+## [Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education](https://edtechdev.github.io/aied/articles/course-specific-rag-help-seeking-higher-ed-2026/)
+
+> **Synthesis:** Fifteen [[cs-education|computing]] students and four academics evaluated Beacon, a course-specific [[rag|retrieval-augmented generation]] assistant built from a single programming module's approved teaching materials. Students rated its answers highly relevant to the course (89%), found it clear (88% very or somewhat clear) and intuitive (73.3%), and most said it supported rather than replaced their learning (66.7%). The study's argument is about [[help-seeking]]: 62.5% of respondents said they sometimes avoided asking for help even when they needed it, and the authors position a private, module-grounded tool as a first rung for students who hesitate to approach a lecturer.
+
+## Key Findings
+1. **Alignment with course materials was the strongest result.** 89% of participants rated the system's responses as highly aligned with course materials, and 56% found outputs consistently logical.
+2. **Clarity and [[usability-research|usability]] scored well.** 44% reported the system was very clear and a further 44% somewhat clear; 73.3% found it intuitive, 73.35% easy to use, and 66.7% were confident navigating it.
+3. **Self-reported learning support was moderate.** 53.35% agreed Beacon improved their understanding of programming concepts, 53.3% felt more confident solving problems, and 60% felt more confident tackling difficult topics.
+4. **The tool was seen as additive, not a substitute.** 66.7% said Beacon supported rather than replaced their learning and 80% agreed it helped, while students still described verifying important information themselves.
+5. **The help-seeking baseline was the problem the design targets.** 62.5% of respondents said they sometimes avoided asking for help when they needed it and 75% reported [[anxiety-and-stress|anxiety]] when they did not understand a topic.
+6. **Academics valued the refusal to give answers.** Staff praised the pseudocode, simple starting structures and links to module materials, and worried that unrestricted AI tools let students "skip that development stage".
+7. **The evaluation is small and [[qualitative-research|qualitative]] at its core.** Nine interviews were conducted — five with students and four with academics — and 15 students completed the task scenarios, nine in a two-hour in-person workshop and six remotely.
+
+## Grounding answers in the module is the design idea
+Beacon retrieves from university-curated teaching materials before generating a response, which is the mechanism the authors test against the known failure mode of general-purpose tools: answers that are inaccurate, insufficiently contextualized, or pitched above a novice's level. Students in this study had experienced that failure directly, describing explanations that exceeded their current understanding and left them more confused. Grounding is therefore not a technical nicety but the feature that makes a [[intelligent-tutoring|tutoring-style]] assistant usable inside a specific [[curriculum-design|curriculum]], and the 89% relevance rating is the students' own version of the same claim.
+
+## The tension between access and bypass
+Staff interviews carry the counter-argument the paper is careful to preserve: a tool that students turn to before office hours may also be a tool that lets them avoid the productive discomfort of debugging. Academics were reassured that Beacon withholds full solutions and provides scaffolded steps, and the authors frame the target as an intermediary space between independent study and formal support rather than a replacement for [[teacher-role|teaching staff]]. That is a design position with a measurable consequence — the system's answers were judged educationally appropriate precisely because they refused to be complete.
+
+## Equity as the stated motivation
+The framing is about unequal access to support rather than about efficiency. Students who are anxious, uncertain of expectations, or low in confidence seek help less often even where support exists, so the paper's contribution is a design that lowers the social cost of asking. The authors also name the risk that course-specific AI advantages students already able to evaluate generated answers critically, which is why the tool's transparency about its sources matters for [[equity-in-ai-education|equity in AI education]] and not only for trust.
+
+## What this means for practice
+- **Instructors.** Ground any course AI assistant in your own approved materials, and require it to scaffold rather than supply solutions; in this study that design choice is what made staff and students accept it.
+- **Software developers.** Treat help-seeking hesitation as the target metric. Logging when students choose a private AI channel instead of asking a lecturer tells you whether the tool is broadening access or absorbing contact.
+- **Administrators.** A course-specific assistant needs a maintenance owner, since its credibility rests entirely on keeping the retrieval sources aligned with current module materials.
+
+## Limitations
+- One programming module at one institution, with 15 students completing the scenarios and nine interviews, so the study reports perceptions rather than comparative outcomes.
+- All [[self-report-measures|questionnaire]] results are self-report usability and confidence ratings; no control condition or learning-outcome measure was collected.
+- The system was evaluated shortly after introduction, so novelty effects on ratings cannot be separated from the design.
+- The authors declare no conflict of interest but built the system they evaluated, which is a developer-as-researcher design rather than an independent test.
+
+## Connected Concepts
+- [[help-seeking]]
+- [[rag]]
+- [[llm]]
+- [[scaffolding]]
+- [[cs-education]]
+- [[trust-calibration]]
+- [[intelligent-tutoring]]
+- [[equity-in-ai-education]]
+- [[anxiety-and-stress]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[eduguard-safe-rag-llm-tutor]] — EduGuard: A Safe RAG-Based LLM Tutor for Programming Education
+- [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving
+- [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education
+- [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
+- [[regulating-ai-tutor-adolescent-srl]] — Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning
+- [[ai-fallibility-warning-help-seeking]] — Warning About AI Fallibility Increases Help-Seeking in an Intelligent Tutoring System
+- [[llm-programming-support-governance-cs-education]] — Exploring the Design Space of LLM-Based Programming Support in CS Education
+- [[structured-llm-feedback-programming]] — The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance
+
+## Citation
+Gray, A., & Hobbs, J. (2026). [Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education](https://arxiv.org/abs/2609.21600). arXiv:2609.21600.
 
 ---
 
@@ -58532,6 +58670,65 @@ Di Paolo, L. D. (2026). [*From Extended Minds to Coupling Flexibility: Cognitive
 ## Citation
 
 Anthis, Z., & Kyriakidou-Zacharoudiou, A. (2026). [*Face value: How avatar identity shapes epistemic trust in AI-mediated learning*](https://doi.org/10.1016/j.caeai.2026.100610). *Computers and Education: Artificial Intelligence*, 10, 100610.
+
+---
+
+## [“AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world](https://edtechdev.github.io/aied/articles/faculty-accessible-course-design-ai-2026/)
+
+> **Synthesis:** A [[mixed-methods-research|mixed-methods]] study at one Ontario university asked 69 professors about accessibility and [[universal-design-for-learning]] at a moment when accommodation demand had outgrown the services designed to meet it: university enrollments in the province rose 17% between 2013 and 2022 while registrations with accessibility services rose 126%. Most respondents knew the vocabulary and believed they already designed accessible courses, but 46% said the institution does not provide sufficient resources, and the [[qualitative-research|qualitative]] themes include a novel complaint — that [[generative-ai]] is undoing assessment options faculty had relied on for [[accessibility]].
+
+## Key Findings
+1. **Awareness was high, implementation uneven.** 77% of 69 respondents were aware of UDL while 21% were unaware, and of 20 commonly used accessibility techniques, four were unfamiliar to more than 20% of respondents.
+2. **Self-assessment ran ahead of practice.** 87% agreed they actively consider accessibility when designing a course and 90% believed they create an accessible learning environment, yet seven of the 20 techniques showed no uptake even among faculty who knew them.
+3. **Support was the missing piece.** Just 46% agreed the university offers sufficient resources on making courses more accessible, with 25% disagreeing and 29% neutral.
+4. **Assessment variety and pre-posted materials led implementation.** 88.41% actively offered varied assessment forms and 88.41% posted slideshows before the lecture, while 13 of 20 techniques reached at least 66.7% active or beginning implementation.
+5. **The blind spots are concrete and cheap to fix.** 30.43% had never heard of OCR-readable PDFs, 26.09% of high-contrast slides, and 20.29% of not relying on color alone to distinguish links or text.
+6. **Generative AI entered the study as an obstacle.** Faculty described AI reversing accessible [[learning-design|course design]] progress — the source of the paper's title quotation — and called for support to keep UDL viable in its face.
+7. **Recorded lectures were contested.** The theme of lecture recordings as an accessibility measure split faculty, and the authors treat the controversy itself as a finding about how faculty [[well-being|wellbeing]] and accommodation demands interact.
+
+## An awareness gap that is not really an awareness gap
+The numbers describe a familiar pattern: professionals endorse the goal and mis-estimate their own performance. Nearly 90% of respondents believed they provide an accessible environment while roughly a third had never encountered a technique as basic as producing text-selectable PDFs. The study's framing is generous rather than accusatory — the barrier it identifies is capacity, since fewer than half felt the institution gave them enough resources, and 20 techniques is more than any one instructor can adopt without support. The actionable reading is that targeted lists and short workshops can close specific blind spots that general exhortation to care about accessibility does not.
+
+## Why generative AI appears as a setback
+The title quotation comes from the study's own faculty interviews, and it captures an interaction the AI-in-education literature rarely reports: the arrival of [[generative-ai]] restricted [[assessment]] formats that had been doing accessibility work — take-home tasks, annotated drafting, problem sets whose value came from the process of producing them. Faculty saw the same assignments that lowered barriers for [[special-education|students with disabilities]] become the ones AI could complete outright, which pushes instructors back toward in-person, invigilated, or more complex assessment. Read this way, AI is not only a technology to make accessible; it is also a force that removes [[inclusive-learning|inclusive]] options from the design space, and the paper argues that UDL support has to be funded and staffed to compensate.
+
+## Faculty wellbeing as a design constraint
+The fourth theme is that accessibility work is uncompensated and invisible, and that its cumulative load sits alongside a rising accommodation caseload. The authors' recommendations stay inside that constraint: additional resources, forums where faculty can discuss common challenges, better coordination with accessibility services, and recognition for the front-loaded work of designing an accessible course. None of these is a technology fix, which is the point — the study's evidence is about what the institution is willing to spend, not about a tool that could substitute.
+
+## What this means for practice
+- **Instructors.** Audit for the four blind spots the data names: text-selectable PDFs, high-contrast slides, color-independent links and text, and physical access to the room. Each is a one-time fix rather than a redesign.
+- **Faculty developers.** Run the survey as an intervention. Participants reported that completing it raised their awareness of techniques they had not considered, which makes a self-audit instrument a cheap workshop activity.
+- **Administrators.** Fund UDL support to compensate for what AI removed. Faculty in this study reported losing assessment formats that had previously worked as accessibility accommodations, and replacing them requires protected time.
+
+## Limitations
+- One Ontario university, 69 survey respondents, with a self-selected sample of faculty willing to answer questions about accessibility.
+- Implementation was measured by [[self-report-measures|self-report]] rather than by inspecting course sites, so the 87% and 90% agreement figures describe intent and belief, not verified practice.
+- The AI-related theme rests on a small qualitative interview set, so it identifies a concern rather than estimates its prevalence.
+- The study reports no student data, so the impact of the faculty practices on students with disabilities is inferred rather than observed.
+
+## Connected Concepts
+- [[universal-design-for-learning]]
+- [[accessibility]]
+- [[inclusive-learning]]
+- [[assistive-technology]]
+- [[neurodiversity]]
+- [[generative-ai]]
+- [[teacher-role]]
+- [[educational-development]]
+- [[assessment]]
+- [[higher-ed]]
+
+## Connected Articles
+- [[ludia-udl-ai-thought-partner-2026]] — LUDIA: A Design and Evidence Statement
+- [[genai-minoritized-knowledges-disability]] — Generative AI, minoritized knowledges and disability
+- [[dyslexlens-dyslexic-learners-ai]] — DyslexLens: AI support for dyslexic learners
+- [[tactile-statistical-graphs-accessibility]] — Touching and Feeling the Data: A Reusable Software Pipeline for Tactile Statistical Graphs
+- [[chick-faculty-development-ethical-ai-2026]] — Faculty development for ethical AI
+- [[watson-rainie-ai-challenge-faculty-survey-2026]] — The AI challenge: faculty survey findings
+- [[shin-ai-policies-sld-2026]] — AI policies for students with learning disabilities
+
+## Citation
+Sidhu, G., Atif, F., & Newland, F. (2026). [“AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world](https://doi.org/10.35542/osf.io/e4hmv_v1). *EdArXiv*.
 
 ---
 
@@ -81189,6 +81386,66 @@ Benazet i Montobbio, P., Rotter, J., & Hernández-Leo, D. (2026). [Experiential 
 
 ---
 
+## [Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants](https://edtechdev.github.io/aied/articles/metacognitive-feedback-anti-deskilling-offloading-2026/)
+
+> **Synthesis:** A preregistered online experiment with 704 participants tested two ways of reducing [[cognitive-offloading]] to an [[llm|LLM]] assistant without restricting access to it. [[metacognition|Metacognitive]] feedback, which made the consequences of offloading explicit, reduced answer offloading (OR = 0.47) and raised the odds of answering a later unaided test item correctly (OR = 1.51); an effort-based reward changed neither outcome. Because a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success, the feedback intervention worked on the mechanism that matters, and it did so as a design choice rather than a rule.
+
+## Key Findings
+1. **Metacognitive feedback reduced offloading and improved unaided performance.** Odds of offloading an answer fell to OR = 0.47 (95% CI [0.22, 1.00], p = .026) and odds of answering a later unaided test item correctly rose to OR = 1.51 (95% CI [0.98, 2.33], p = .030).
+2. **The effort-based reward changed neither outcome.** Offloading under the reward condition was not significantly lower (OR = 0.66, 95% CI [0.31, 1.40], p = .139) and unaided test performance was not higher.
+3. **Offloading tracked deskilling dose-responsively.** A 10-percentage-point increase in offloaded learning items was associated with 32% lower odds of answering a test item correctly (OR = 0.68, 95% CI [0.62, 0.74], p < .001).
+4. **Offloading momentum is real.** After offloading one item, participants offloaded the next in 69.7% of cases without metacognitive feedback and 55.9% with it.
+5. **Nobody was worse off for using AI.** Participants in the AI-only condition did not have significantly lower odds of answering a final-test item correctly than the no-AI control (OR = 0.80, 95% CI [0.42, 1.51], p = .244).
+6. **The intervention changed how much was offloaded, not whether AI was used.** Both conditions used the assistant at nearly identical rates (66.7% vs. 68.6% used it at least once; 38.2% vs. 39.4% requested at least one complete answer).
+7. **The design was a preregistered 2×2 plus control.** 704 UK participants on Prolific practiced fraction arithmetic with an assistant that returned solutions only on explicit request, then took an unaided test.
+
+## Metacognitive feedback as a design choice, not a restriction
+The paper's contribution is the comparison between two interventions that both leave the assistant available. Metacognitive feedback told participants what offloading implies for their own learning before they chose; the reward paid them for using less extensive assistance. Only the feedback moved behavior, and it moved the outcome that matters, unaided [[problem-solving|problem solving]] on the final test. That pattern is consistent with [[self-regulated-learning]] accounts, in which the learner needs a reason to monitor their own use rather than an incentive to ration it, and it connects to the broader finding that making the costs of [[cognitive-offloading|assistance]] salient changes use without producing refusal.
+
+## Why the incentive failed
+The reward condition requested help on 77.1% as many learning items as the AI-only condition, yet its estimates never reached significance, and the authors report no evidence that the reward affected either preregistered outcome. The likely reading is that the reward competed with the immediate value of getting the answer correct during practice. For tool designers, the practical lesson is that a point system bolted onto an AI assistant is not a substitute for telling learners, in the moment of choice, what the shortcut costs them — an argument that lands on the [[feedback]] and [[motivation]] literature rather than on incentive design.
+
+## Offloading momentum
+The momentum result is the most actionable number in the paper: once a participant offloaded one item, they offloaded the next roughly seven times in ten without metacognitive feedback, and a little over half the time with it. Offloading therefore behaves like a sticky behavior pattern within a session rather than an independent decision per item, which suggests that interventions aimed at the first few items of a practice sequence will have outsized effect. It also means measurement at a single point in a session will understate or overstate a learner's typical reliance.
+
+## What this means for practice
+- **Instructors.** Put the consequence in front of the choice: a short statement of what asking the assistant for a full solution does to later unaided performance reduced offloading in this experiment, and it does not require banning the tool.
+- **Software developers.** Treat the first items of a practice sequence as the intervention point, since offloading compounds once it starts, and prefer in-context messages about learning consequences over reward mechanics.
+- **Researchers.** Report offloading and unaided performance together; a study that measures only AI use or only test scores cannot see the trade-off this design isolates.
+
+## Limitations
+- Participants were 704 UK Prolific adults meeting strict approval-rate and first-language criteria, practicing fraction arithmetic, so both the task and the population are narrower than classroom learners.
+- The intervention was tested in a single short session with one immediate unaided test; no delayed retention or transfer measure was collected.
+- The reward manipulation produced a directionally consistent but non-significant effect, so it is not evidence that incentives cannot work, only that this one did not.
+- Outcomes are single-item offloading and test decisions aggregated to proportions, measured online without supervision of how the assistant was actually consulted.
+
+## Connected Concepts
+- [[cognitive-offloading]]
+- [[cognitive-surrender]]
+- [[metacognition]]
+- [[self-regulated-learning]]
+- [[llm]]
+- [[generative-ai]]
+- [[learning-gains]]
+- [[motivation]]
+- [[desirable-difficulties]]
+- [[student-ai-interaction]]
+
+## Connected Articles
+- [[metacognitive-training-optimal-cognitive-offloading-2026]] — Metacognitive Training Facilitates Optimal Cognitive Offloading
+- [[cognitive-offloading-metacognitive-review-2026]] — Meta-Cognitive Insights into Cognitive Offloading
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of Student Cognitive Offloading to AI in Higher Education
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI
+- [[thinking-with-ai-reasoning-without-it-2026]] — Thinking with AI, reasoning without it
+- [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
+- [[efficiency-gain-illusion-ai-overreliance]] — The efficiency gain illusion and AI over-reliance
+
+## Citation
+Maier, S., Schwabe, K., Schneider, M., & Feuerriegel, S. (2026). [Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants](https://arxiv.org/abs/2609.20143). arXiv:2609.20143.
+
+---
+
 ## [A Taxonomy of Metacognitive Learning Scenarios in Professional Contexts: Integrating Systems Theory with Empirical Constraints](https://edtechdev.github.io/aied/articles/metacognitive-learning-scenarios-taxonomy/)
 
 > **Synthesis:** This paper addresses a fundamental gap in [[metacognition]] [[research-methods-aied|research]]: the lack of systematic integration of metacognitive theories into scenario taxonomies capable of guiding AI-enhanced [[educational-development|professional development]]. By synthesizing four major theoretical frameworks into a six-node open systems model, the authors create a rigorous taxonomy of metacognitive learning scenarios.
@@ -87977,6 +88234,66 @@ At the nominal level, students preferring a chatbot that initiates guided inquir
 ## Citation
 
 Sirnoorkar, A., & Mamidpalliwar, O. (2026). [*Students' epistemological beliefs and their chatbot preferences in AI-mediated physics learning*](https://arxiv.org/abs/2607.29385). Proceedings of the 2026 Physics Education Research Conference.
+
+---
+
+## [Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction](https://edtechdev.github.io/aied/articles/physics-students-llm-perceptions-instruction-2026/)
+
+> **Synthesis:** First-year physics majors at Virginia Tech answered anonymous surveys before and after a reflective lesson on how large language models work and how they affect learning. Skepticism rose sharply — 88% came to believe that [[llm|LLMs]] can leave students with a false sense of confidence, up from 58% — and agreement that an LLM outperforms the average physics student fell from 54% to 32%. Use did not follow perception: convenience and deadline pressure remained the dominant reasons for turning to these tools, and the authors describe the result as a standing tension between recognized risk and convenient practice.
+
+## Key Findings
+1. **Instruction raised skepticism about false confidence.** 88% of students agreed after the lesson that LLMs can leave them with a false sense of confidence about their understanding, up from 58% before it.
+2. **Belief in superior capability dropped.** Agreement that LLMs are currently better at solving problems than the average physics student fell from 54% to 32% across the lesson.
+3. **Students expect strong [[problem-solving]] performance.** 79% agreed that LLMs can solve introductory physics problems with high accuracy, against 13% disagreement.
+4. **Dependence was widely acknowledged before instruction.** 81% agreed that over-relying on LLMs to complete coursework may make them dependent on the tools later, with 10% disagreement.
+5. **Convenience and deadlines drove use.** 71% agreed convenience motivated their LLM use and 65% cited deadline pressure, both well ahead of reasons grounded in learning.
+6. **Comfort with machines over people was split, not settled.** 42% agreed they felt more comfortable getting help from an LLM than from an instructor or TA, and 38% disagreed; comfort over classmates was 38% agreement against 40% disagreement.
+7. **The survey itself was small and unlinked.** 53 students participated before the lesson and 42 after, and because responses were anonymous the authors flag attrition between the two surveys as a sampling-bias risk.
+
+## A reflective lesson changes beliefs faster than behavior
+The instructional package had three parts: a problem-solving activity done both with and without the LLM, instruction on the internal functioning of [[llm|language models]] as probabilistic token predictors, and a review of research on LLM impacts on learning. The measurable movement was almost entirely on the belief side. That is a useful and honest finding for anyone who assumes an [[ai-literacy]] lesson changes use: perceptions shifted toward [[critical-thinking|critical evaluation]], while the convenience and deadline motivations that actually drive [[student-ai-interaction|student AI use]] were left untouched by a single lesson.
+
+## Why convenience is the binding constraint
+Deadline pressure and convenience are properties of the course and the week, not of the student's beliefs. A physics course that assigns hard problem sets due Friday while teaching skepticism about LLMs has set up a conflict it has not resolved, and the authors' own framing names the tension directly: students recognize the risks of [[cognitive-offloading|over-reliance]], false confidence, and reduced conceptual understanding and use the tools anyway. The design implication is that [[self-regulated-learning|self-regulation]] support has to reach the moment of use — practice structures, hint systems, or problem designs that make struggling productive — rather than relying on belief change alone.
+
+## Measuring perception is not measuring learning
+Every number in this study is self-report from anonymous surveys, with no linked pre/post pairs and no performance or retention measure. The authors are explicit that attrition creates sampling bias for aggregate change, and they deliberately did not measure whether students actually learned more or less with the tool. The study therefore documents what students say about their use, and its value is in that scope: a well-instrumented picture of a required first-year course's perception profile, which other [[physics-education]] instructors can compare against.
+
+## What this means for practice
+- **Instructors.** Pair any lesson on how LLMs work with a change to the conditions of use. Beliefs shifted in this study while convenience-driven use did not, so a policy or task redesign has to carry the behavioral half.
+- **Course and [[curriculum-design|curriculum]] designers.** Address deadline pressure explicitly, since it was the second strongest motivator reported; alternative submission timing or scaffolded problem sets act on the stated driver rather than on attitudes.
+- **Learning designers.** Build the reflective lesson into the course sequence rather than delivering it once; the belief shift this study measured is the easier half, and repeated contact with how these models actually work is what keeps it available when a deadline arrives.
+
+## Limitations
+- 53 pre-lesson and 42 post-lesson responses from one required first-year course for physics majors at a single institution, with anonymous surveys that cannot be linked across the two waves.
+- All measures are [[self-report-measures|self-reported]] beliefs and stated use; no observation of actual use, no measure of learning or retention, and therefore no evidence about effects on [[learning-gains|learning]].
+- The intervention was a single lesson taught by the course instructors, one of whom was also an undergraduate learning assistant during the study, so researcher and instructor roles overlap.
+- The pre and post comparisons are aggregate percentages rather than matched individuals, which the authors identify as a sampling-bias risk.
+
+## Connected Concepts
+- [[llm]]
+- [[physics-education]]
+- [[self-regulated-learning]]
+- [[metacognition]]
+- [[cognitive-offloading]]
+- [[ai-literacy]]
+- [[student-ai-interaction]]
+- [[trust-calibration]]
+- [[higher-ed]]
+- [[self-report-measures]]
+- [[student-engagement]]
+
+## Connected Articles
+- [[becker-chatgpt-typology-physics-2026]] — Pragmatic users and skeptical nonusers: A qualitative typology of ChatGPT adoption in physics
+- [[genai-assisted-problem-posing-physics-2026]] — Exploring Students' Perceptions of Using Generative AI-Assisted Problem Posing
+- [[probing-ai-generated-physics-solutions-2026]] — Probing AI-generated physics solutions
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — The trust-utility gap in physics students' use of AI
+- [[wang-teacher-student-centered-agents-physics-2026]] — Comparing teacher-centered and student-centered agents based on prompt engineering
+- [[multiagent-classroom-dual-process-physics-teachers-2026]] — Multi-agent classroom simulation with physics teachers
+- [[physics-chatbot-epistemological-beliefs-2026]] — Physics chatbot use and epistemological beliefs
+
+## Citation
+O'Brien, J., Ellis, M., Robinson, A., Simonetti, J., & Ramakrishnan, N. (2026). [Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction](https://arxiv.org/abs/2609.21037). arXiv:2609.21037.
 
 ---
 
@@ -108102,6 +108419,64 @@ Weidlich also repositions authenticity, which is often treated as either a compe
 ## Citation
 
 Weidlich, J. (2026). [Which inference is at risk? Assessment validity reasoning and generative AI](https://doi.org/10.1080/02602938.2026.2734795). *Assessment & Evaluation in Higher Education*. Advance online publication.
+
+---
+
+## [Where Artificial Intelligence Enters Teacher Work](https://edtechdev.github.io/aied/articles/where-ai-enters-teacher-work-2026/)
+
+> **Synthesis:** Using TALIS 2024 data from 56,669 teachers, with a primary allocation analysis of 24,058 AI users across 46 education systems, this study separates [[generative-ai|AI]] adoption from task allocation: which parts of a [[teacher-role|teacher]]'s work the tool actually enters. AI use rises with perceived task demand, and within a teacher it tracks the task they find harder — but the pattern is not uniform. Lesson planning and [[special-education]] support attract AI (OR = 1.084 and OR = 1.442), while [[assessment]] and marking pull away from it (OR = 0.921), the opposite of what a simple effort-reduction story predicts.
+
+## Key Findings
+1. **Adoption rises with demand but only modestly.** A one-point increase in average task demand across three matched domains was associated with 8.4% higher odds of reporting any AI use (OR = 1.084, 95% CI [1.050, 1.120], p < .001).
+2. **Allocation is within-teacher.** A focal task one point above the same teacher's own mean demand was associated with higher odds of AI use on that task (OR = 1.163, 95% CI [1.127, 1.200], p < .001).
+3. **Task effects diverge sharply from one another** (F(2, 48) = 52.53, p < .001): lesson planning OR = 1.084, assessment/marking OR = 0.921, and special-education support/adaptation OR = 1.442.
+4. **Predicted allocation spreads widely.** Moving from one point below to one point above a teacher's mean demand raised predicted planning use from 68.5% to 71.6%, lowered assessment/marking use from 37.1% to 33.6%, and raised special-education support use from 34.0% to 50.3%.
+5. **The prespecified task mapping beat the alternatives.** The intended three-pair demand-to-task correspondence produced the strongest within-teacher alignment (OR = 1.167) of all six possible assignments, ahead of the next strongest at OR = 1.118.
+6. **The analyzed sample was filtered for stability.** Systems entered the allocation analysis only with at least 150 AI adopters, 30 sampled schools, and AI-module observation for 20% of sampled teachers across 46 nonoverlapping systems.
+7. **Most AI use is preparation, not grading.** Among AI users, 64% reported generating lesson plans or activities with AI while 26% reported using it to assess or grade student work.
+
+## Adoption and allocation are different questions
+The paper's methodological point is that asking whether teachers use AI tells you nothing about where the tool lands in their work. Adoption here is a teacher-level yes/no; allocation is a within-teacher comparison between tasks, which is why the analysis can separate a teacher who uses AI for everything from one who uses it only where they feel most stretched. The design also holds teacher and system constant by construction, so the estimated task effects are not contaminated by the fact that teachers who feel overloaded differ from those who do not. The strongest system-average predictor remained modest, which the authors read as evidence that demand shapes use within a teacher's week more than it sorts teachers into adopters and non-adopters.
+
+## The assessment inversion
+The finding with the most direct implication is that assessment and marking are the one domain where higher perceived demand predicts less AI use — a negative slope, not a null one. The plausible reading is that grading carries accountability, judgment and integrity stakes that planning does not, so a teacher under time pressure may still keep the marking in their own hands. Whatever the mechanism, the direction matters for [[educational-policy-ai|policy]]: mandates that encourage AI in assessment are pushing against a pattern that teachers are already following, and the paper's own institutional framing acknowledges that guidance must account for where staff themselves draw the line.
+
+## Special-education support as the demand-driven case
+The largest allocation effect, OR = 1.442 for special-education support and adaptation, identifies the work where teachers most reach for AI when it feels demanding. Predicted use there rises by more than 16 percentage points across the demand range. This is a double-edged result: the same adaptation task that AI makes tractable is the one where generic outputs are least likely to be adequate, since support plans are individualized and legally consequential. It also points to a training gap, because teachers are most likely to use AI unsupervised in the most sensitive part of their [[teacher-ai-competency|practice]].
+
+## What this means for practice
+- **Policymakers.** Target guidance at the tasks where use concentrates. Support and adaptation planning is where teachers reach for AI under pressure, and it needs the most explicit standards rather than blanket encouragement or prohibition.
+- **Administrators.** Treat planning and grading differently in [[educational-development|professional development]]. The data show teachers already keep high-stakes marking human, so training effort belongs on judgment calibration for the adaptation work they are doing with AI.
+- **Researchers.** Study allocation, not just adoption; a teacher-level adoption indicator cannot distinguish the preparation assistant from the grading assistant and will misread both.
+
+## Limitations
+- TALIS is cross-sectional and [[self-report-measures|self-reported]]: demand is the teacher's perception of their work, not an observed time-use measure, so the analysis is correlational and cannot establish that demand causes AI use.
+- The allocation sample covers 46 nonoverlapping education systems after size rules of at least 150 AI adopters, 30 schools and 20% AI-module observation, which trades system coverage for estimate stability.
+- Country-level and system-level moderation is summarized rather than interpreted case by case, so pooled slopes may not describe any single education system.
+- Task demand is measured at the domain level, so a teacher's single rating stands in for a whole category of work such as all assessment and marking.
+
+## Connected Concepts
+- [[teacher-role]]
+- [[teacher-ai-competency]]
+- [[educational-policy-ai]]
+- [[generative-ai]]
+- [[automated-assessment]]
+- [[special-education]]
+- [[career-development-and-readiness]]
+- [[professional-training]]
+- [[k-12]]
+
+## Connected Articles
+- [[ai-changing-teaching-workflows]] — How AI is changing teaching workflows
+- [[school-leaders-ai-readiness-professional-development-2026]] — School leaders' AI readiness and professional development
+- [[tan-aigem-ai-educational-management-2026]] — AI in educational management
+- [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment?
+- [[talebzadeh-ai-green-education-2026]] — The Role of Artificial Intelligence in Green Education: Optimizing Teacher Workflow
+- [[crompton-faculty-technology-integration-standards-2026]] — Faculty technology integration standards
+- [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making machine learning findings accessible to teachers
+
+## Citation
+Holster, J. (2026). [Where Artificial Intelligence Enters Teacher Work](https://doi.org/10.35542/osf.io/a39rp_v1). *EdArXiv*.
 
 ---
 
