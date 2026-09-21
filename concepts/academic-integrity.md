@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-20T16:38:31-04:00"
+updated: "2026-09-21T08:08:20-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -49,6 +49,8 @@ The enforcement machinery that sits on top of integrity policy is itself a desig
 [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] supply the empirical counterpart by coding every GenAI misconduct case at one regional Australian university over three years: 1,162 cases carrying 1,855 evidence items, each rated for relevance, credibility and inferential force. Detector output was the evidence most reached for and least able to bear weight — Turnitin or similarity reports carried 100% Weak inferential force and standalone detector output 100% Low credibility, and detector evidence fell to 0.5% of items by 2025 as institutions absorbed what it could not prove — while the strongest evidence types were those that do not rest on probabilistic text classification: student admissions, observed prohibited exam behavior, and independently verified fabricated references, which were the largest structural shift at 22.3% of items. Their sharpest criticism is structural rather than evidentiary, since "there is no requirement for investigators to assess the probative quality of evidence before progressing an allegation, no minimum evidentiary threshold at any stage of the pipeline," so evidence quality bore no reliable relationship to case outcomes. They also record how policy caught up with practice: the assessment policy in force through 2024 said nothing about AI, and from January 2025 a revised policy permitted approved authenticity software while prohibiting the upload of student work to third-party AI-detection tools.
 
 A second failure is one of scope rather than proof. [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions written at the level of platform identity rather than function capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — alongside the generative drafting they mean to bar, even though the peer-reviewed computer science literature treats recognition and generation as distinct operations. The cost lands unevenly: students with conditions affecting fine motor control, handwriting legibility or typing accuracy have relied on exactly those tools, and as standalone voice-to-text products are discontinued or degraded, AI-powered transcription is filling the functional gap, so an over-inclusive rule removes a primary means of producing legible work, making the dispute an [[accessibility]] and [[equity-in-ai-education|equity]] one before it is an integrity one. Wright's remedy is a function-based definition of generative AI plus four operational criteria — fidelity, non-augmentation, traceability and attestation — that give a student a structured route to rebut a transcription-only allegation while leaving the burden of proof with the institution.
+
+Detection's evidentiary problem is also a validity problem. Because AI assistance is iterative and interwoven with drafting rather than outsourced wholesale, authorship and ownership of meaning come apart, and a sound submitted product may not establish that the student exercised the judgment the task was meant to target. Detector performance varies across tasks, disciplines and model versions, and disclosed or suspected AI use can act as a biasing cue for markers, so a detection response adds construct-irrelevant variance rather than removing it. Where integrity debates ask who produced the words, a validity account asks what claim about the student the performance warrants.
 
 ### The rationalization problem
 
@@ -159,6 +161,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[predictors-ethical-genai-use-higher-ed-2026]] — SEM predictors of ethical GenAI use in higher education (Tabares-Cruz et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal and non-use as diagnostic evidence, and the duty to justify non-use where AI shapes assessment (Zagami 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
@@ -204,6 +207,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive Stewardship for AI-Mediated Assessment
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and the AI Viva
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and construct-irrelevant variance under GenAI (Weidlich 2026)
 - [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review

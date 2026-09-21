@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-18T13:30:00-04:00"
+updated: "2026-09-21T08:08:19-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -46,6 +46,8 @@ The feedback loop is the cyclical process where AI systems assess student work, 
 The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback quality]] — accuracy, specificity, timeliness, and actionability. [[becerra-aicofe-feedback-2026|AI peer feedback systems]] add a social dimension to the loop.
 
 **The human in the loop:** feedback loops are not purely automated — teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an [[llm]] rephraser) find teachers use professional judgment to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/[[affective-computing|affective]] dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
+
+The relational reading cuts deeper than substitution. In workshops with 12 students and 18 educators, [[ai-feedback-ecosystem-higher-education-2026|Bearman et al. (2026)]] found students treated AI as an additional but flawed source, weighing it against rubrics, lecture notes, discussion boards and educator comments, and using it as a holding pattern when human responses were slow; one pasted thin educator comments into a chatbot to work out what to do next. AI's presence changed relations rather than merely adding comments, to the point that one student stopped trusting peer discussion-board feedback as probably AI-written. The authors therefore propose humans-as-the-loop: people helping people build stronger feedback relationships over time, in place of oversight of machine output.
 
 ### How AI transforms feedback
 
@@ -130,6 +132,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
 - [[care-full-feedback-genai]] — Care-full feedback design with GenAI
 - [[feedback-futures-genai]] — Feedback futures with GenAI
+- [[ai-feedback-ecosystem-higher-education-2026]] — The feedback ecosystem in higher education: AI reworks feedback relations, and humans as the loop (Bearman et al. 2026)
 - [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
 - [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing

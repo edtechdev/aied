@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-20T08:15:50-04:00"
+updated: "2026-09-21T08:08:19-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -69,6 +69,8 @@ A structural reading of agency appears in [[ai-agents-joyful-assessment-third-sp
 - **Identity is internalized agency.** Repeated agentic acts — choosing, authoring, persisting — are how a learner comes to see themselves as an agentic, competent person. Identity is the sediment of agency across time, reinforced by recognition and belonging.
 - **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labor]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
 - **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[explainable-ai|transparency]]); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
+
+This distinction between enacted agency and stable identity applies to refusal. As [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] describes it, declining a chatbot for assessed writing, prohibiting it for unaided reasoning, resisting automated triage in student support, or delaying procurement are separate relations to separate systems, spanning personal, pedagogical, professional, administrative, and institutional levels rather than one durable disposition. That right is unevenly allocated: students with academic confidence can decline without penalty, while those needing language, accessibility, or rapid-feedback support read refusal as lost opportunity, and secure academics refuse on principle while casual staff feel pressure to adopt. Where AI sits in infrastructure, refusal is displaced from individual opt-out into procurement, audit, and contestability.
 
 ## The Ecological Co-Agency Framework: agency as an epistemic design problem
 
@@ -182,3 +184,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
 - [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)

@@ -1,11 +1,14 @@
 # Journal
 
-Last updated: 2026-09-21 | Total entries: 1563
+Last updated: 2026-09-21 | Total entries: 1566
 
 ## 2026-09-21
+- 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education
 - 📄 [[ai-integration-instructional-design-collaboratory-2026]] — AI Integration as Instructional Design: Lessons from a Cross-Institutional Faculty Collaboratory in Teacher Preparation
+- 📄 [[ai-refusal-higher-education-diagnostic-non-use-2026]] — AI refusal in higher education: the right to refuse, the duty to understand and the diagnostic value of non-use
 - 📄 [[bondurant-shaughnessy-ai-pedagogies-practice-2026]] — Responsible Integration of AI into Pedagogies of Practice in Mathematics Teacher Education
 - 📄 [[tang-chatbots-learning-design-2026]] — Investigating the Role of Chatbots in Facilitating Learning Design
+- 📄 [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
 
 ## 2026-09-20
 - 📄 [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
