@@ -63,7 +63,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
-      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
+      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'self-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
       { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'self-report-measures', 'ai-detection', 'remote-proctoring', 'learning-gains'] },
     ],
   },

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 213
+**Total concepts:** 214
 
 ## Foundations of AI in education
 
@@ -221,6 +221,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`formative-assessment`** — Formative Assessment — phrases: assessment for learning; formative; formative assessment
 - **`group-work`** — Group Work — phrases: collaborative assessment; group assessment; group assessments; group project; group projects; group work; group-based assessment; groupwork; team-based assessment
 - **`peer-assessment`** — Peer Assessment — phrases: peer assessment; peer feedback; peer grading; peer evaluation; peer review
+- **`self-assessment`** — Self-Assessment — phrases: self assessment; self-assessment; self-assessments; self-assess; self-assessment accuracy; self-assessment calibration; self-assessment instrument; self-assessment instruments; self-appraisal; self-check; self-checking; self-evaluation; self-evaluate; self-graded; self-grading
 - **`summative-assessment`** — Summative Assessment — phrases: closed-book exam; examination; final exam; high-stakes test; oral exam; proctored exam; summative; summative assessment
 
 ### Measurement and validity

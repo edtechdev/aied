@@ -45,7 +45,7 @@ methods: [qualitative-research]
 - [[llm]]
 - [[privacy]]
 - [[active-learning]]
-- Qualitative Research
+- [[qualitative-research]]
 - [[student-experience]]
 - [[trust-calibration]]
 

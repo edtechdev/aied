@@ -73,7 +73,7 @@ The authors connect the requirements to three instructional-design traditions, a
 ## What this means for practice
 
 - **Instructors.** Sequence AI access by demonstrated competence rather than by calendar or permission — withhold it during foundational weeks, permit guided use with mandatory code-explanation tasks, then require reflective critique — and make verification a graded, observable component of the task, because the 36 studies showing efficiency gains sit alongside 21 showing those gains do not transfer without it.
-- **Curriculum designers.** Treat AI literacy as taught rather than assumed: [[prompt-engineering|prompt engineering]], output verification and error analysis do not develop through exposure alone, and students performed significantly worse correcting [[llm|LLM]]-generated code than on traditional programming exam tasks.
+- **Curriculum designers.** Treat AI literacy as taught rather than assumed: [[prompt-engineering|prompt engineering]], output verification and error analysis do not develop through exposure alone, and students performed significantly worse correcting [[llm]]-generated code than on traditional programming exam tasks.
 - **Curriculum designers.** Add an oral or process-visible element to at least one high-stakes assessment per course — the review's highest-leverage single intervention — rather than relying on detection, which rests on only 3 of the 72 studies.
 - **Administrators.** Close the implementation gap with faculty development and assessment redesign rather than more primary research: most instructors operate at a tolerance rather than transformation level, and 70% of one national sample of faculty explicitly requested training on AI-resistant assessment design.
 - **Researchers.** Treat the setting as a standing research agenda: how students learn alongside tools that perform the very tasks they are taught to do, what [[assessment-validity|assessment validity]] means when AI systems pass the same examinations as students, and which redesigns preserve learning when the tools are simultaneously instrument, tutor and threat.
@@ -102,7 +102,7 @@ The authors connect the requirements to three instructional-design traditions, a
 - [[summative-assessment]]
 - [[evaluative-judgment]]
 - zone of proximal development
-- desirable difficulties
+- [[desirable-difficulties]]
 - cognitive load
 - [[student-ai-interaction]]
 

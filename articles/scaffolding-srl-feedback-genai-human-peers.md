@@ -1,7 +1,7 @@
 ---
 title: "Fostering feedback literacy by scaffolding self-regulated feedback: a comparative study of GenAI and human peers"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-21T11:27:24-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -24,7 +24,7 @@ level: [higher ed]
 
 ## The Study
 
-The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three self-assessment cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behavior Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
+The study compared two parallel English classes (N = 118 first-year undergraduates in China; GenAI group n = 56, Peer group n = 62) over three [[self-assessment]] cycles across one semester. Students engaged in self-assessment activities requiring interaction with external feedback: the GenAI group used ChatGPT-4o with pre-trained rubrics and prompt guidelines, while the Peer group completed structured peer-review worksheets with a high-quality exemplar. Feedback literacy was measured with a 19-item adaptation of the Feedback Literacy Behavior Scale (Dawson et al., 2024) targeting the receptive/processing dimensions (seek, make sense, use, manage affect), with α = 0.904. [[qualitative-research|Qualitative]] data came from semi-structured interviews (nine students per group) analyzed thematically through Zhan et al.'s (2025) self-[[regulation]] feedback model, which frames feedback interaction across forethought, control, and retrospect phases.
 
 ## Findings Across the SRL Phases
 
@@ -55,7 +55,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 
 - N = 118 first-year undergraduates in two intact parallel English classes at one university in Guangdong, China; groups were not randomly assigned, so class or instructor effects cannot be excluded.
 - The intervention ran three self-assessment cycles in a single semester, and the authors flag a possible novelty effect alongside the small effect size (η²p = 0.03).
-- Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics|learning-analytics]] measures.
+- Feedback literacy was measured with a 19-item self-report scale (α = 0.904) plus retrospective interviews with only nine students per group — no behavioral, stimulated-recall, or [[learning-analytics]] measures.
 - Generalizability is limited to one EFL writing context with Mandarin L1 students.
 
 ## Connected Concepts
@@ -65,6 +65,7 @@ Strengths include the mixed-methods design pairing a controlled quasi-experiment
 - [[feedback]]
 - [[formative-assessment]]
 - [[peer-assessment]]
+- [[self-assessment]]
 - [[scaffolding]]
 - [[ai-literacy]]
 - [[generative-ai]]

@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-21 | Total entries: 1572
+Last updated: 2026-09-21 | Total entries: 1573
 
 ## 2026-09-21
 - 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education
@@ -12,6 +12,7 @@ Last updated: 2026-09-21 | Total entries: 1572
 - 📄 [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
 - 📄 [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
 - 📄 [[physics-students-llm-perceptions-instruction-2026]] — Skepticism vs. Convenience: Physics Students' Perceptions and Use of Large Language Models Before and After Instruction
+- 📘 [[self-assessment]] — Self-Assessment
 - 📄 [[tang-chatbots-learning-design-2026]] — Investigating the Role of Chatbots in Facilitating Learning Design
 - 📄 [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
 - 📄 [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work

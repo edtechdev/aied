@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-21T12:24:40-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -20,7 +20,7 @@ methods: [quantitative-research, research-methods-aied, qualitative-research]
 ## Questions to Consider
 
 - If a study says students "reported high engagement," what exactly was measured — and what would you need to see to conclude they actually engaged?
-- [[teacher-role|Teachers]] estimated their own [[ai-literacy|AI literacy]] 40% higher on average than a parallel performance measure found. Where would your own self-assessment most likely diverge from a test of the same skill, and why?
+- In one study, self-reported and objective measures of teacher [[ai-literacy|AI literacy]] correlated at only r = 0.07 to r = 0.24 across four dimensions. Where would your own [[self-assessment]] most likely diverge from a test of the same skill, and why?
 - Satisfaction is easy to measure and easy to improve — a system tuned to please users will score well on it. Why might that make satisfaction a poor outcome measure for learning, and what would you measure instead?
 - "Nearly all students use AI for coursework" comes from asking students. What could asking rather than logging get wrong in either direction?
 - A survey gets 112 responses at a 31% response rate, or 90 responses from 572 invitations. Before accepting its percentages, what do you want to know about who did not answer?
@@ -46,13 +46,13 @@ The consequence is a set of claims that look similar in a results section but di
 - "Students learned more with the tutor" — an outcome, not establishable by asking at all.
 - "Teachers are confident using AI" — a self-belief, not evidence of competence.
 
-Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply.
+Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply. [[self-assessment]] is a member of that wider family rather than a synonym for it: where self-report measures reach attitudes, trust, and satisfaction, self-assessment turns the learner's estimate specifically onto their own skill, confidence, or learning.
 
 ## The perception–behavior gap
 
 The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
 
-[[ai-literacy-assessment-misalignment|A study that built parallel self-report and objective measures of teacher AI literacy]] found teachers **overestimate their AI skills by 40% on average**, with confirmatory factor analysis supporting the construct validity of both measures while showing a **low correlation between the self-report and objective factors**. The two instruments were credible; they simply measured different things. The same study found performance-based scores correlated with classroom AI integration at r = 0.72 while self-reports correlated at r = 0.31.
+[[ai-literacy-assessment-misalignment|A study that built parallel self-report and objective measures of teacher AI literacy]] found **weak agreement between the self-report and objective factors (r = 0.07 to r = 0.24)** in a sample of 288 teachers, with confirmatory factor analysis supporting the construct validity of both measures while showing a **low correlation between the self-report and objective factors**. The two instruments were credible; they simply measured different things. In the full sample of 288 teachers the correlations between the objective and self-reported factors ran from r = 0.07 to r = 0.24, and latent profile analysis found 43 teachers who rated themselves high while scoring lower on the objective measure against 59 who showed the reverse pattern.
 
 [[jin-glat-genai-literacy-assessment|GLAT]] reaches the same conclusion from the other direction: its 20-item performance-based test predicted performance on [[generative-ai|GenAI]]-supported learning tasks in a within-subject study of 83 students, **while self-reported ChatGPT literacy did not**. The authors' framing is blunt — instruments in this area overwhelmingly rely on self-reported surveys, "which capture perceived rather than actual competence and are prone to bias and overestimation."
 
@@ -121,6 +121,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 - [[interpreting-and-applying-aied-research]]
 - [[educational-measurement]]
+- [[self-assessment]]
 - [[research-methods-aied]]
 - [[quantitative-research]]
 - [[qualitative-research]]

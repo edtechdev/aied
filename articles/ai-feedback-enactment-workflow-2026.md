@@ -1,7 +1,7 @@
 ---
 title: "Making AI-Generated Feedback Matter: From Provision to Student Enactment"
 created: "2026-08-13T09:28:20-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-21T11:30:46-04:00"
 type: article
 foundations: [human-ai-collaboration]
 pedagogy: [self-regulated-learning]
@@ -14,7 +14,7 @@ sources: ['raw/papers/2608.11625.md']
 confidence: high
 ---
 
-> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].
+> **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher [[self-assessment]] confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].
 
 ## From Provision to Enactment
 
@@ -62,6 +62,7 @@ The design's key strength is that the Enacted Feedback workflow scaffolds three 
 
 - [[feedback]]
 - [[self-regulated-learning]]
+- [[self-assessment]]
 - [[human-ai-collaboration]]
 - [[learning-analytics]]
 - [[formative-assessment]]

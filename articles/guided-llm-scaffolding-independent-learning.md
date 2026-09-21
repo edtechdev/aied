@@ -1,7 +1,7 @@
 ---
 title: "Beyond Access: Guided LLM Scaffolding for Independent Learning in Undergraduate Statistics"
 created: "2026-06-02T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-21T11:27:24-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, curriculum-design]
 pedagogy: [metacognition, scaffolding]
@@ -15,7 +15,7 @@ confidence: high
 discipline: [math education]
 ---
 
-> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and self-assessment calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and [[self-assessment]] calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
 
 ## Key Findings
 
@@ -51,6 +51,7 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 - [[prompt-engineering]]
 - [[curriculum-design]]
 - [[metacognition]]
+- [[self-assessment]]
 - [[agentic-ai]]
 - [[cognitive-offloading]]
 - [[help-seeking]]

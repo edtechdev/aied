@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-20T16:38:31-04:00"
+updated: "2026-09-21T11:27:05-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -34,7 +34,7 @@ Evaluative judgment is the capacity to appraise quality — one's own work, peer
 - **It is developed, not transmitted.** Judgment grows through repeated acts of comparison — against exemplars, explicit criteria, and peers' differing approaches — which is why exemplars, calibration exercises, and [[peer-assessment|peer assessment]] are its natural pedagogies.
 - **It is domain-[[situated-learning|situated]].** It is exercised inside a discipline's standards of evidence and argument, so it cannot be assessed generically any more than [[transfer-of-learning|transfer]] can be assumed.
 
-It is closely related to, but narrower than, authenticity in assessment: [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work; evaluative judgment asks whether the learner can tell good work from poor work.
+It is closely related to, but narrower than, authenticity in assessment: [[authentic-assessment|authentic assessment]] asks whether a task resembles worthwhile real-world work; evaluative judgment asks whether the learner can tell good work from poor work. [[self-assessment]] appraises the learner's own work, competence, or progress against criteria, whereas evaluative judgment extends that appraisal to peers' work and to the output of an AI system as well.
 
 ## Why generative AI made it central
 
@@ -83,6 +83,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[feedback]]
 - [[feedback-literacy]]
 - [[formative-assessment]]
+- [[self-assessment]]
 - [[authentic-assessment]]
 - [[academic-integrity]]
 - [[self-regulated-learning]]
