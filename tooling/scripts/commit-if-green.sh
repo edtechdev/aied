@@ -1,6 +1,11 @@
 #!/usr/bin/env bash
 # Commit only when the gates are green.
 #
+# PERMISSION-GATED: this script RUNS the gate suite, so it may only be used after
+# the maintainer has explicitly approved a gate run. Propose the run (name the gates
+# and what they check) and wait; a plain `git commit` is the default otherwise. Same
+# class as the EPUB/PDF/llms rebuilds, which also wait for a request.
+#
 # Usage: commit-if-green.sh <message-file> <path> [<path> ...]
 #
 # Runs the US-English, list-formatting and facet gates over the whole repo, and the section audit plus the
