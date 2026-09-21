@@ -61,9 +61,9 @@ const connectedFaqs = (article.data.connected_faqs || [])
   .map(s => faqById.get(s))
   .filter((f): f is NonNullable<typeof f> => Boolean(f));
 
-const { title, created, updated, published, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, stakeholders, institutions, ethics } = article.data;
+const { title, created, updated, published, research_method, discipline, audience, level, page_kind, foundations, pedagogy, technology, assessment, methods, institutions, ethics } = article.data;
 // JSON-LD keywords: the typed fields, which replaced the old per-page tag list.
-const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(stakeholders || []), ...(ethics || []), ...(page_kind || []), ...(methods || []), ...(institutions || []),];
+const metadataKeywords: string[] = [...(research_method || []), ...(discipline || []), ...(level || []), ...(audience || []), ...(foundations || []), ...(pedagogy || []), ...(technology || []), ...(assessment || []), ...(ethics || []), ...(page_kind || []), ...(methods || []), ...(institutions || []),];
 // Build PageFind filter facets from the structured metadata fields.
 // Each metadata field becomes a facet group. We emit one <meta> element per
 // `name:value` pair (PageFind requires each inline filter to be its own
@@ -76,7 +76,6 @@ const metaFields: { name: string; values: string[] | undefined }[] = [
   { name: 'assessment', values: assessment },
   { name: 'methods', values: methods },
   { name: 'institutions', values: institutions },
-  { name: 'stakeholders', values: stakeholders },
   { name: 'ethics', values: ethics },
   { name: 'level', values: level },
   { name: 'audience', values: audience },

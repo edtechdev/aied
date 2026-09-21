@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high

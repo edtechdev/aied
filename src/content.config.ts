@@ -124,7 +124,6 @@ const structuredMeta = {
     technology: facetList('technology'),
     assessment: facetList('assessment'),
     methods: facetList('methods'),
-    stakeholders: facetList('stakeholders'),
     institutions: facetList('institutions'),
     ethics: facetList('ethics'),
     // Study design and data collection. Values that duplicate a concept page's own
@@ -184,27 +183,29 @@ const structuredMeta = {
         'vocational education',
         'writing education',
     ),
+    // Readership only: who the page is written for. The People section keeps its
+    // concept pages for browsing, but it no longer backs a metadata field - the
+    // retired `stakeholders` field restated this one (audience: learners beside
+    // stakeholders: student-experience on 174 pages) or filed topics that belong in
+    // a topic facet (teacher-ai-competency, student-experience).
     audience: enumList(
         'administrators',
         'assessment designers',
         'assessment professionals',
         'curriculum designers',
-        'designers',
-        'edtech designers',
+        'educational technology developers',
         'faculty developers',
         'institutions',
         'instructional designers',
         'instructors',
         'learners',
         'learning analytics designers',
-        'learning designers',
         'librarians',
         'medical educators',
+        'parents and families',
         'policymakers',
         'researchers',
         'software developers',
-        'teacher educators',
-        'teachers',
     ),
     level: enumList(
         'adult learning',

@@ -9,7 +9,7 @@ technology: [generative-ai, learning-analytics, personalized-learning]
 research_method: [theoretical analysis]
 sources: ['raw/papers/self-directed-growth-generative-ai-learning-analytics.md']
 confidence: high
-audience: [learning analytics designers, designers]
+audience: [learning analytics designers, instructional designers]
 page_kind: [framework]
 ---
 

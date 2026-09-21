@@ -11,7 +11,7 @@ technology: [llm]
 confidence: medium
 research_method: [experiment]
 discipline: [language learning, english education]
-audience: [instructors, designers, researchers]
+audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
 ---
 

@@ -5,7 +5,6 @@ updated: "2026-09-19T08:58:00-04:00"
 type: article
 foundations: [learning-design]
 pedagogy: [game-based-learning, motivation, self-determination-theory]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed, adult learning]

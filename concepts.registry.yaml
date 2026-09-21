@@ -48,6 +48,7 @@ concepts:
   educational-technology-developers:
     title: Educational Technology Developers
     aliases:
+    - educational technology developers
     - edtech designers
     - edtech developers
     - educational software developers
@@ -1313,6 +1314,7 @@ concepts:
   parents-and-families:
     title: Parents and Families
     aliases:
+    - parents and families
     - caregivers
     - families
     - family engagement
@@ -1990,6 +1992,7 @@ sections:
     - reducing-ai-misuse
     - academic-integrity
     - teacher-role
+    - teacher-ai-competency
     - learning-design
     - educational-development
   - label: The field
@@ -2072,6 +2075,7 @@ sections:
     - problem-solving
     - mastery-learning
     - anxiety-and-stress
+    - student-experience
   - label: Lifelong and professional learning
     items:
     - career-development-and-readiness
@@ -2222,12 +2226,6 @@ sections:
     - librarians
     - parents-and-families
     - stakeholders
-  - label: Learner experience
-    items:
-    - student-experience
-  - label: Educator capability
-    items:
-    - teacher-ai-competency
 - heading: Institutions and policy
   groups:
   - label: Institutions

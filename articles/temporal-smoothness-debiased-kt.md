@@ -5,7 +5,6 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, personalized-learning]
 methods: [benchmark]
-stakeholders: [student-experience]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.05958.md']
 confidence: medium

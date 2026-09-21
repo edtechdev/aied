@@ -10,7 +10,7 @@ level: [higher ed]
 sources: ['raw/papers/2608.04166.md']
 confidence: high
 discipline: [design education]
-audience: [instructors, designers]
+audience: [instructors, instructional designers]
 ---
 > **Synthesis:** Han & Martelaro (2026) build an **antagonistic** [[agentic-ai|AI design agent]] that enacts *constructive conflict* — drawing on adversarial design theory and agonistic pluralism to actively surface [[stakeholders|stakeholder]] pushback rather than agree and expand the design space. In a between-subjects experiment with **45 novice interaction design students** across three conditions (Self Reflection, Stepwise Guidance, Interactive [[student-engagement|Engagement]]), the agent-interactive condition produced significantly more design revisions, broader consideration of conflicting stakeholder perspectives, and higher-quality final proposals than the unsupported baseline — turning reconsideration from awareness into concrete action.
 

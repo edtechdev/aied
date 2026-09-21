@@ -5,7 +5,6 @@ updated: "2026-09-19T10:03:37-04:00"
 type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [digital-divide, trust]
 connected_faqs: [reducing-over-reliance]
 audience: [learners]

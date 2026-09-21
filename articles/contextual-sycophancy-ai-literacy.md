@@ -5,7 +5,6 @@ updated: "2026-09-17T02:26:00-04:00"
 type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm, pedagogical-llm-training]
-stakeholders: [student-experience]
 ethics: [bias-mitigation, hallucination-risk]
 research_method: [experiment]
 audience: [learners]

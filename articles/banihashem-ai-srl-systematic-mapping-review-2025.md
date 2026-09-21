@@ -10,7 +10,7 @@ assessment: [feedback]
 level: [higher ed]
 sources: ['raw/papers/banihashem-ai-srl-systematic-mapping-review-2025.md']
 confidence: high
-audience: [researchers, learning designers, instructional designers]
+audience: [researchers, instructional designers]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

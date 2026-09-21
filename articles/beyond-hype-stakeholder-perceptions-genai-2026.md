@@ -6,7 +6,6 @@ type: article
 foundations: [educational-development]
 technology: [generative-ai]
 methods: [qualitative-research]
-stakeholders: [stakeholders]
 pedagogy: [professional-training]
 audience: [administrators, instructors, researchers]
 level: [higher ed]

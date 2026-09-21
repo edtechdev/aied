@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 pedagogy: [self-regulated-learning]
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [literature review, theoretical analysis]
 audience: [learners]
 sources: ['raw/papers/nesnin-cognitive-offloading-ai-students-2026.md']

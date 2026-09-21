@@ -6,7 +6,6 @@ type: article
 pedagogy: [professional-training, scaffolding]
 technology: [edtech-platform, generative-ai, intelligent-tutoring, llm]
 assessment: [formative-assessment]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [adult learning, higher ed, k 12]

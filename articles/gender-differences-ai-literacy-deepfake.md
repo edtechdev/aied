@@ -5,7 +5,6 @@ updated: "2026-09-17T02:30:30-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [learning-analytics, llm]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [survey]
 discipline: [stem education]

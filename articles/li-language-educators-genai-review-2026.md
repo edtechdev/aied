@@ -3,14 +3,13 @@ title: "A Systematic Review of Language Educators' Practices and Development wit
 created: "2026-09-03T13:40:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article
-foundations: [teacher-role]
+foundations: [teacher-role, teacher-ai-competency]
 technology: [generative-ai]
-stakeholders: [teacher-ai-competency]
 pedagogy: [professional-training]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
 discipline: [language learning, english education]
-audience: [teacher educators, teachers, faculty developers]
+audience: [faculty developers, instructors]
 level: [teacher education, higher ed]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]

@@ -3,9 +3,8 @@ title: SAMR Model
 created: "2026-09-10T09:50:00-04:00"
 updated: "2026-09-10T09:50:00-04:00"
 type: concept
-foundations: [educational-development, learning-design, tpack]
+foundations: [educational-development, learning-design, tpack, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
-stakeholders: [teacher-ai-competency]
 page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]

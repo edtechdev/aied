@@ -5,7 +5,6 @@ updated: "2026-09-19T21:07:40-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
-stakeholders: [student-experience]
 connected_faqs: [course-ai-policy]
 audience: [learners]
 level: [higher ed, k 12]

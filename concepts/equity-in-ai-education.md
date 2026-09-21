@@ -5,7 +5,6 @@ updated: "2026-09-19T06:35:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 ethics: [bias-mitigation, culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, inclusive-learning, neurodiversity]
 discipline: [language learning]
 audience: [learners, instructors]

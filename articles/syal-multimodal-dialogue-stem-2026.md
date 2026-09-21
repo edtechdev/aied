@@ -9,7 +9,7 @@ methods: [benchmark]
 discipline: [stem education]
 sources: ['raw/papers/syal-multimodal-dialogue-stem-2026.md']
 confidence: medium
-audience: [edtech designers, researchers]
+audience: [instructional designers, researchers]
 page_kind: [evaluation]
 ---
 

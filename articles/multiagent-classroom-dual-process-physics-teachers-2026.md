@@ -10,7 +10,7 @@ discipline: [physics education, stem education]
 level: [teacher education, higher ed]
 sources: ['raw/papers/2608.05820.md']
 confidence: medium
-audience: [teacher educators, researchers]
+audience: [faculty developers, researchers]
 ---
 
 > **Synthesis:** Tufino (2026) pilots a simulated [[agentic-ai|multi-agent]] AI classroom where five AI students each enact distinct dual-process theory (DPT) reasoning hazards, giving prospective [[physics-education|physics]] teachers rare practice in responding to authentic student reasoning. Fifteen graduate students showed significant improvement in diagnostic scores (p=0.014, r=0.79), but during the [[simulation]] itself used predominantly uniform guiding questions — revealing a knowing-doing gap on the developmental trajectory toward responsive [[pedagogy|teaching]].

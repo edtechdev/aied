@@ -7,7 +7,7 @@ technology: [generative-ai, multimodal]
 assessment: [assessment]
 ethics: [accessibility, inclusive-learning]
 confidence: medium
-audience: [instructors, learners, researchers, designers]
+audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 ---

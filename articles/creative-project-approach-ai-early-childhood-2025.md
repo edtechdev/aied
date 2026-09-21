@@ -8,7 +8,7 @@ pedagogy: [creativity, project-based-learning, social-emotional-learning]
 technology: [educational-robotics, generative-ai]
 connected_faqs: [ai-guidance-children-under-13]
 research_method: [theoretical analysis]
-audience: [instructors, learning designers, teacher educators]
+audience: [instructors, instructional designers, faculty developers]
 level: [k 12, preschool]
 sources: ['raw/papers/creative-project-approach-ai-early-childhood-2025.md']
 confidence: high

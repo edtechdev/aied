@@ -7,7 +7,7 @@ assessment: [assessment, feedback]
 methods: [meta-analysis-systematic-review, qualitative-research]
 sources: ['raw/papers/ai-supported-lecturer-decision-making-2026.md']
 confidence: high
-audience: [instructors, researchers, administrators, learning designers]
+audience: [instructors, researchers, administrators, instructional designers]
 level: [higher ed]
 page_kind: [framework]
 created: "2026-09-13T08:04:56-04:00"

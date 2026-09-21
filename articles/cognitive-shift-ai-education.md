@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, educational-development]
 pedagogy: [scaffolding]
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [survey, longitudinal study]
 discipline: [cs education, stem education]
 audience: [learners, faculty developers]

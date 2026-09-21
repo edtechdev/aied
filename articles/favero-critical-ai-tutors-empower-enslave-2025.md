@@ -5,7 +5,6 @@ updated: "2026-09-20T03:43:02-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 technology: [intelligent-tutoring]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 sources: ['raw/papers/favero-critical-ai-tutors-empower-enslave-2025.md']

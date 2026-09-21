@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [learners]

@@ -3,10 +3,9 @@ title: "Development and evaluation of artificial intelligence literacy training 
 created: "2026-08-10T17:33:14-04:00"
 updated: "2026-09-19T10:43:18-04:00"
 type: article
-foundations: [ai-literacy, educational-development]
+foundations: [ai-literacy, educational-development, teacher-ai-competency]
 technology: [pedagogical-llm-training]
 methods: [design-based-research]
-stakeholders: [teacher-ai-competency]
 audience: [faculty developers]
 level: [higher ed, k 12]
 sources: ['raw/papers/genai-literacy-training-teacher-education-dbr-2026.md']

@@ -8,11 +8,10 @@ pedagogy: [cognitive-psychology, misconceptions, prior-knowledge, socratic-metho
 technology: [educational-nlp, generative-ai, llm, prompt-engineering]
 assessment: [automated-question-generation, educational-measurement]
 methods: [ai-ed-evaluation, benchmark, quantitative-research]
-stakeholders: [educational-technology-developers, learners]
 ethics: [guardrails, hallucination-risk, trust-calibration]
 discipline: [cs education]
 level: [higher ed]
-audience: [researchers, instructors, assessment designers]
+audience: [researchers, instructors, assessment designers, educational technology developers, learners]
 sources: ['raw/papers/milicevic-socratic-trap-strategic-misconceptions-2026.md']
 confidence: high
 ---

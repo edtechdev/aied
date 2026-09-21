@@ -8,7 +8,7 @@ pedagogy: [motivation, professional-training]
 technology: [generative-ai]
 ethics: [ethics]
 research_method: [experiment]
-audience: [teacher educators, researchers]
+audience: [faculty developers, researchers]
 level: [higher ed, teacher education]
 sources: ["raw/papers/10.1016_j.caeo.2026.100324.md"]
 confidence: high

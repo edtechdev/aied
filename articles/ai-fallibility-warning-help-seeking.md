@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [help-seeking]
 technology: [intelligent-tutoring, llm]
-stakeholders: [student-experience]
 ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment]
 audience: [learners]

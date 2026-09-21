@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 technology: [generative-ai, rag]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 sources: ['raw/papers/2605.22687.md']

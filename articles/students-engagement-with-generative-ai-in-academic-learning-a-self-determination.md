@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-th
 pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai, learning-analytics]
 methods: [qualitative-research, network-analysis]
-stakeholders: [student-experience]
 ethics: [privacy]
 research_method: [interviews]
 audience: [learners]

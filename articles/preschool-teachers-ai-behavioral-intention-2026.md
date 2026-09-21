@@ -8,7 +8,7 @@ pedagogy: [anxiety-and-stress, self-efficacy]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 research_method: [survey, structural equation modeling]
-audience: [administrators, teacher educators, edtech designers]
+audience: [administrators, faculty developers, instructional designers]
 level: [preschool, teacher education]
 page_kind: [framework, evaluation]
 methods: [quantitative-research]

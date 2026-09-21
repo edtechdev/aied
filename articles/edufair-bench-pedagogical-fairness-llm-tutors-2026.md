@@ -8,7 +8,7 @@ ethics: [bias-mitigation, equity-in-ai-education, pedagogical-safety]
 sources: ['raw/papers/edufair-bench-pedagogical-fairness-llm-tutors-2026.md']
 confidence: high
 discipline: [math education, physics education, chemistry education]
-audience: [researchers, edtech designers]
+audience: [researchers, instructional designers]
 level: [secondary, k 12]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark]

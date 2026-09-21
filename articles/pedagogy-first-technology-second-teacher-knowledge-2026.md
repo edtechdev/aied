@@ -8,7 +8,7 @@ foundations: [ai-education, tpack]
 pedagogy: [pedagogy]
 confidence: medium
 research_method: [structural equation modeling]
-audience: [teacher educators, faculty developers, administrators]
+audience: [faculty developers, administrators]
 level: [secondary, k 12]
 page_kind: [framework]
 methods: [quantitative-research]

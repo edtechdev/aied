@@ -6,7 +6,6 @@ type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, human-in-the-loop-ai]
 assessment: [automated-assessment, feedback, formative-assessment]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 sources: ['raw/papers/2604.07469.md']

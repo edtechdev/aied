@@ -5,7 +5,6 @@ updated: "2026-09-17T02:30:30-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high

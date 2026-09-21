@@ -8,7 +8,7 @@ research_method: [literature review]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied, meta-analysis-systematic-review, quantitative-research]
 assessment: [assessment-validity, educational-measurement, self-report-measures, learning-gains]
 ethics: [ai-use-disclosure]
-audience: [instructors, administrators, learning designers, software developers, researchers]
+audience: [instructors, administrators, instructional designers, software developers, researchers]
 page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied]

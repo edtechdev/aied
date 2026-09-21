@@ -6,7 +6,6 @@ type: article
 foundations: [ai-education]
 ethics: [ethics]
 methods: [meta-analysis-systematic-review]
-stakeholders: [administrator]
 connected_faqs: [institutional-ai-policy]
 audience: [administrators]
 level: [higher ed]

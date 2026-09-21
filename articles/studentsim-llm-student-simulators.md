@@ -8,7 +8,7 @@ methods: [benchmark]
 sources: ['raw/papers/studentsim-llm-student-simulators.md']
 confidence: high
 research_method: [system development]
-audience: [researchers, edtech designers, learning analytics designers]
+audience: [researchers, instructional designers, learning analytics designers]
 page_kind: [framework, evaluation]
 ---
 

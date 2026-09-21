@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education]
 sources: ['raw/papers/muse-vlm-artistic-image-benchmark-2026.md']
 confidence: high
 discipline: [language learning]
-audience: [researchers, edtech designers]
+audience: [researchers, instructional designers]
 page_kind: [evaluation]
 methods: [benchmark]
 ---

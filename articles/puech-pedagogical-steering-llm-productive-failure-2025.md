@@ -10,7 +10,7 @@ discipline: [math education]
 level: [k 12]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']
 confidence: high
-audience: [edtech designers, researchers]
+audience: [instructional designers, researchers]
 page_kind: [evaluation]
 ---
 

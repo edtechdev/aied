@@ -5,13 +5,12 @@ updated: "2026-09-19T07:22:56-04:00"
 type: article
 pedagogy: [motivation, self-efficacy]
 technology: [conversational-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 sources: ['raw/papers/ada-female-coded-chatbot-gender-stereotypes-2026.md']
 confidence: high
 research_method: [quasi-experiment, system development]
 discipline: [math education, stem education]
-audience: [instructors, edtech designers]
+audience: [instructors, instructional designers]
 level: [secondary, k 12]
 ---
 

@@ -3,8 +3,7 @@ title: "Governing the Unseen: A Systematic Review of AI Literacy among Language 
 created: "2026-08-16T10:19:32-04:00"
 updated: "2026-09-19T09:38:08-04:00"
 type: article
-foundations: [ai-literacy, educational-development]
-stakeholders: [teacher-ai-competency]
+foundations: [ai-literacy, educational-development, teacher-ai-competency]
 research_method: [thematic analysis]
 discipline: [language learning]
 audience: [faculty developers]

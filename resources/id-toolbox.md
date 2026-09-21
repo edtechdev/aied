@@ -10,12 +10,11 @@ author_url: https://nextgenailearning.com/about
 foundations: [learning-design]
 pedagogy: [online-teaching-and-learning]
 assessment: [formative-assessment]
-stakeholders: [educational-technology-developers]
 resource_type: [collection of tools, software]
 access: [free]
 last_verified: "2026-09-20"
 level: [higher ed]
-audience: [instructional designers, learning designers, edtech designers, faculty developers]
+audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
 ---

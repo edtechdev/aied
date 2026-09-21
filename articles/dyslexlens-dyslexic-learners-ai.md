@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 technology: [llm]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 research_method: [system development]

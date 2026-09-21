@@ -9,7 +9,7 @@ research_method: [system development]
 level: [higher ed]
 sources: ['raw/papers/vonschallen-teachy-mini-gsr-2026.md']
 confidence: high
-audience: [designers, edtech designers]
+audience: [instructional designers]
 ---
 > **Synthesis:** Vonschallen, Kaufmann, Oberle, Eyssel, and Schmiedel (2026) operationalize knowledge-based design (KBD) requirements for generative social robots (GSRs) by implementing them in the Reachy Mini robot platform through system [[prompt-engineering|prompting]], [[rag|retrieval-augmented]] generation, and stateful prompt orchestration, producing Teachy Mini — a GSR tutoring system for higher education. Recognizing that GSRs powered by LLMs offer personalized tutoring but also risks (misinformation, missing transparency, reinforcing incorrect responses), the authors conducted a preliminary evaluation study in which participants (N = 24) completed a robot-guided learning session about research methodologies, learning with either the robot or another mode.
 ## Key Findings

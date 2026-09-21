@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm]
-stakeholders: [student-experience]
 research_method: [experiment]
 audience: [learners]
 level: [higher ed]

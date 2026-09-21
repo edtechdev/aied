@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, teacher-role]
 pedagogy: [metacognition]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics]
-stakeholders: [student-experience]
 ethics: [bias-mitigation, equity-in-ai-education, privacy]
 research_method: [theoretical analysis]
 audience: [instructors, learners]

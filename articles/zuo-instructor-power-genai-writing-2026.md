@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, educational-development, teacher-role]
 technology: [generative-ai]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 research_method: [case study]
 discipline: [writing education]
 audience: [instructors, faculty developers, learners]

@@ -5,10 +5,9 @@ updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [llm, multimodal, conversational-ai]
 pedagogy: [self-directed-learning, help-seeking, active-learning, student-ai-interaction]
-stakeholders: [learners]
 methods: [usability-research]
 research_method: [user study, system development]
-audience: [learners, designers, edtech designers]
+audience: [learners, instructional designers]
 level: [higher ed]
 sources: ['raw/papers/penquiry-pen-based-llm-qa-2026.md']
 confidence: high

@@ -6,10 +6,9 @@ type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
 technology: [generative-ai, llm, knowledge-graph, recommender-systems-and-learning-paths, human-in-the-loop-ai, educational-nlp]
-stakeholders: [stakeholders, learners, student-experience]
 ethics: [trust, trust-calibration, ethics]
 institutions: [governance, educational-policy-ai]
-audience: [librarians]
+audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 ---

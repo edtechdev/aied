@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading]
 technology: [llm]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 discipline: [writing education]
 audience: [learners]
 level: [higher ed]

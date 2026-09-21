@@ -5,7 +5,7 @@ updated: "2026-09-19T09:19:18-04:00"
 type: article
 foundations: [ai-education, ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
-audience: [researchers, administrators, edtech designers]
+audience: [researchers, administrators, instructional designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy, cognitive-offloading, critical-thinking]
 technology: [generative-ai, technology-acceptance-model]
 methods: [quantitative-research]
-stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [survey, structural equation modeling]
 discipline: [cs education, engineering education]

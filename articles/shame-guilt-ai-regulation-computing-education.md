@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [learning-analytics, llm]
 methods: [qualitative-research]
-stakeholders: [student-experience]
 ethics: [hallucination-risk]
 research_method: [interviews]
 audience: [learners]

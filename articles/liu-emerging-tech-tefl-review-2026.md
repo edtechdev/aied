@@ -8,7 +8,7 @@ discipline: [language learning, english education]
 level: [k 12, higher ed]
 sources: ['raw/papers/liu-emerging-tech-tefl-review-2026.md']
 confidence: high
-audience: [teachers, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [synthesis, evaluation]
 methods: [meta-analysis-systematic-review]
 ---

@@ -9,7 +9,7 @@ technology: [generative-ai, llm]
 methods: [research-methods-aied]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed]
-audience: [researchers, instructors, learning designers]
+audience: [researchers, instructors, instructional designers]
 page_kind: [framework]
 sources: ['raw/papers/extended-minds-coupling-flexibility-2026.md']
 confidence: high

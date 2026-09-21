@@ -8,7 +8,7 @@ technology: [adaptive-learning, knowledge-graph, learning-analytics, personalize
 ethics: [explainable-ai]
 pedagogy: [lifelong-learning]
 confidence: medium
-audience: [instructors, learners, researchers, learning designers, software developers]
+audience: [instructors, learners, researchers, instructional designers, software developers]
 level: [higher ed, k 12]
 discipline: [cs education, learning sciences]
 ---

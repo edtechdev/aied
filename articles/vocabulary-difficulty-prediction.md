@@ -10,7 +10,7 @@ discipline: [language learning, writing education]
 level: [k 12]
 sources: ['raw/papers/2605.14257.md']
 confidence: high
-audience: [researchers, edtech designers, assessment designers]
+audience: [researchers, instructional designers, assessment designers]
 methods: [benchmark]
 ---
 

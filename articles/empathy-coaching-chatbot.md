@@ -5,7 +5,6 @@ updated: "2026-09-20T04:00:38-04:00"
 type: article
 technology: [affective-computing, affective-tutoring, llm, personalized-learning]
 assessment: [feedback]
-stakeholders: [student-experience]
 research_method: [experiment, survey]
 audience: [learners]
 sources: ['raw/papers/2606.26641.md']

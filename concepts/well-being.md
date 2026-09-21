@@ -5,7 +5,6 @@ updated: "2026-09-17T02:43:50-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
-stakeholders: [student-experience]
 ethics: [ethics]
 audience: [learners]
 level: [higher ed]

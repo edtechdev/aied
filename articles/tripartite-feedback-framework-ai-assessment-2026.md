@@ -11,7 +11,7 @@ connected_faqs: [verify-ai-output]
 sources: ['raw/papers/tripartite-feedback-framework-ai-assessment-2026.md']
 confidence: high
 research_method: [theoretical analysis]
-audience: [instructors, assessment designers, designers, researchers]
+audience: [instructors, assessment designers, instructional designers, researchers]
 level: [higher ed]
 page_kind: [framework]
 ---

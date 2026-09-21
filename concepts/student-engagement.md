@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
 technology: [generative-ai, learning-analytics]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high

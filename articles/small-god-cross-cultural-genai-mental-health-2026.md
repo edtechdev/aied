@@ -5,12 +5,11 @@ updated: "2026-09-19T06:05:00-04:00"
 type: article
 pedagogy: [social-emotional-learning, well-being]
 technology: [conversational-ai, llm, generative-ai]
-stakeholders: [learners]
 ethics: [trust, privacy]
 methods: [qualitative-research]
 research_method: [thematic analysis]
 level: [higher ed, adult learning]
-audience: [researchers, instructors]
+audience: [researchers, instructors, learners]
 page_kind: [evaluation]
 sources: ['raw/papers/small-god-cross-cultural-genai-mental-health-2026.md']
 confidence: high

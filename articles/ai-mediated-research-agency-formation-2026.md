@@ -5,7 +5,6 @@ updated: "2026-09-20T09:21:50-04:00"
 type: article
 technology: [generative-ai]
 foundations: [agency, human-ai-collaboration]
-stakeholders: [student-experience]
 audience: [researchers, instructors]
 level: [higher ed]
 sources: ['raw/papers/ai-mediated-research-agency-formation-2026.md']

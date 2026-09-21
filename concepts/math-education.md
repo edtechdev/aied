@@ -5,7 +5,6 @@ updated: "2026-09-19T21:07:40-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]

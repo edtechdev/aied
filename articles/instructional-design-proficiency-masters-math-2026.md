@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 confidence: medium
 research_method: [quasi-experiment]
 discipline: [math education]
-audience: [teacher educators, instructional designers]
+audience: [faculty developers, instructional designers]
 level: [higher ed, teacher education]
 page_kind: [framework]
 ---

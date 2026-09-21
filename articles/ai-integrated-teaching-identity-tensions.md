@@ -3,14 +3,13 @@ title: "‘Resistance is futile?’: identity tensions and principled selectivit
 created: "2026-09-12T07:45:00-04:00"
 updated: "2026-09-19T07:32:15-04:00"
 type: article
-foundations: [agency, teacher-role]
+foundations: [agency, teacher-role, teacher-ai-competency]
 pedagogy: [pedagogy]
 technology: [generative-ai]
 methods: [qualitative-research]
-stakeholders: [teacher-ai-competency]
 ethics: [ethics]
 research_method: [thematic analysis, interviews]
-audience: [instructors, teacher educators, faculty developers]
+audience: [instructors, faculty developers]
 level: [higher ed, teacher education]
 page_kind: [framework]
 sources: ['raw/papers/ai-integrated-teaching-identity-tensions.md']

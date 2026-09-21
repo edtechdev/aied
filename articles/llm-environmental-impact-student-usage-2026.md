@@ -4,7 +4,6 @@ created: "2026-08-26T09:00:00-04:00"
 updated: "2026-09-19T08:58:00-04:00"
 type: article
 technology: [generative-ai, llm]
-stakeholders: [student-experience]
 ethics: [ethics]
 research_method: [system development, survey]
 discipline: [cs education, environmental education]

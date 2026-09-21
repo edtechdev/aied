@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [adaptive-learning, knowledge-tracing, learning-analytics]
 methods: [benchmark]
-stakeholders: [student-experience]
 research_method: [system development]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.08697.md']

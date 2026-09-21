@@ -4,7 +4,6 @@ created: "2026-06-23T04:33:04-04:00"
 updated: "2026-09-19T07:37:16-04:00"
 type: article
 technology: [intelligent-tutoring, llm, personalized-learning]
-stakeholders: [student-experience]
 research_method: [experiment]
 discipline: [language learning]
 audience: [learners]

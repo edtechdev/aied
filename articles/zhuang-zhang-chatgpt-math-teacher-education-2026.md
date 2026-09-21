@@ -10,7 +10,7 @@ sources: ['raw/papers/zhuang-zhang-chatgpt-math-teacher-education-2026.md']
 confidence: high
 research_method: [system development]
 discipline: [math education]
-audience: [teacher educators, instructional designers]
+audience: [faculty developers, instructional designers]
 level: [teacher education]
 page_kind: [framework]
 methods: [qualitative-research]

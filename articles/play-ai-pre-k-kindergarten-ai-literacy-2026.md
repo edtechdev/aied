@@ -9,7 +9,7 @@ pedagogy: [game-based-learning]
 technology: [educational-robotics]
 connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
-audience: [instructors, curriculum designers, teacher educators]
+audience: [instructors, curriculum designers, faculty developers]
 level: [preschool]
 methods: [design-based-research, qualitative-research]
 ---

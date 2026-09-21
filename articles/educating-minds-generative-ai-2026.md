@@ -8,12 +8,11 @@ pedagogy: [learning-theories, scaffolding, distributed-cognition, embodied-learn
 technology: [generative-ai, llm, intelligent-tutoring, personalized-learning, conversational-ai]
 assessment: [assessment, learning-gains]
 methods: [research-methods-aied]
-stakeholders: [learners, educational-technology-developers, stakeholders]
 institutions: [educational-policy-ai, change-management]
 ethics: [ai-sycophancy, hallucination-risk, bias-mitigation, equity-in-ai-education, trust, neurodiversity, sustainability]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed, secondary]
-audience: [instructors, learning designers, researchers]
+audience: [instructors, instructional designers, researchers, learners, educational technology developers]
 page_kind: [framework]
 sources: ['raw/papers/educating-minds-generative-ai-2026.md']
 confidence: high

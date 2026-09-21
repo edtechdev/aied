@@ -10,7 +10,7 @@ sources: ['raw/papers/rachatasumrit-example-problem-ratio-2026.md']
 confidence: high
 research_method: [experiment, process-outcome modeling]
 discipline: [math education, learning sciences]
-audience: [researchers, instructional designers, edtech designers]
+audience: [researchers, instructional designers]
 page_kind: [synthesis]
 ---
 

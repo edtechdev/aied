@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [self-efficacy]
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [survey]
 audience: [learners]
 level: [higher ed]

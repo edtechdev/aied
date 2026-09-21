@@ -15,7 +15,7 @@
 
 export const FACET_VOCAB = {
 
-  // Foundations of AI in education (26 concepts) — registry section: Foundations of AI in education
+  // Foundations of AI in education (27 concepts) — registry section: Foundations of AI in education
   foundations: [
     'academic-integrity',
     'agency',
@@ -39,12 +39,13 @@ export const FACET_VOCAB = {
     'philosophy-of-ai-in-education',
     'reducing-ai-misuse',
     'samr-model',
+    'teacher-ai-competency',
     'teacher-role',
     'theories-and-frameworks',
     'theory-development-aied',
     'tpack',
   ],
-  // Learning and instruction (52 concepts) — registry section: Learning and instruction
+  // Learning and instruction (53 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -95,6 +96,7 @@ export const FACET_VOCAB = {
     'storytelling-in-education',
     'student-ai-interaction',
     'student-engagement',
+    'student-experience',
     'transfer-of-learning',
     'video-education',
     'well-being',
@@ -176,17 +178,6 @@ export const FACET_VOCAB = {
     'research-methods-aied',
     'usability-research',
   ],
-  // People (8 concepts) — registry section: People
-  stakeholders: [
-    'administrator',
-    'educational-technology-developers',
-    'learners',
-    'librarians',
-    'parents-and-families',
-    'stakeholders',
-    'student-experience',
-    'teacher-ai-competency',
-  ],
   // Institutions and policy (4 concepts) — registry section: Institutions and policy
   institutions: [
     'change-management',
@@ -230,7 +221,6 @@ export const FACET_FIELDS = [
   { field: 'technology', label: 'Technologies and techniques' },
   { field: 'assessment', label: 'Assessment and measurement' },
   { field: 'methods', label: 'Research methods and evaluation' },
-  { field: 'stakeholders', label: 'People' },
   { field: 'institutions', label: 'Institutions and policy' },
   { field: 'ethics', label: 'Equity, ethics, and responsible use' },
 ] as const;
@@ -243,7 +233,6 @@ export const FACET_DISPLAY_ORDER = [
   'technology',
   'assessment',
   'methods',
-  'stakeholders',
   'institutions',
   'ethics',
   'foundations',

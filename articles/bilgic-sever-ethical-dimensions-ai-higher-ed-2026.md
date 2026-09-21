@@ -5,7 +5,6 @@ updated: "2026-09-19T08:49:57-04:00"
 type: article
 foundations: [academic-integrity, ai-education, teacher-role]
 methods: [mixed-methods-research]
-stakeholders: [student-experience]
 ethics: [ethics, privacy]
 audience: [learners, instructors]
 level: [higher ed]

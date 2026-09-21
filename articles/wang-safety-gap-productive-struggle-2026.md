@@ -6,7 +6,6 @@ type: article
 foundations: [cognitive-offloading]
 pedagogy: [productive-failure, scaffolding, socratic-method]
 technology: [generative-ai]
-stakeholders: [student-experience]
 ethics: [trust]
 research_method: [theoretical analysis]
 discipline: [medical education]

@@ -6,8 +6,7 @@ type: article
 technology: [conversational-ai, generative-ai]
 assessment: [assessment, automated-assessment]
 methods: [mixed-methods-research, quantitative-research, qualitative-research]
-stakeholders: [student-experience]
-audience: [instructors, learning designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [higher ed]
 sources: ['raw/papers/usher-faraon-who-grades-best-2026.md']
 confidence: high

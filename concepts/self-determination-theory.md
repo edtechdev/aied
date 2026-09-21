@@ -3,10 +3,9 @@ title: Self-Determination Theory
 created: "2026-08-10T17:38:45-04:00"
 updated: "2026-09-17T02:26:00-04:00"
 type: concept
-foundations: [ai-education]
+foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
 technology: [affective-computing]
-stakeholders: [student-experience, teacher-ai-competency]
 audience: [learners]
 confidence: high
 ---

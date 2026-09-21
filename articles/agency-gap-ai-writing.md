@@ -6,7 +6,6 @@ type: article
 foundations: [agentic-ai, ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, rag]
-stakeholders: [student-experience]
 ethics: [equity-in-ai-education]
 research_method: [experiment]
 discipline: [writing education, medical education]

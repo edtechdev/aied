@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-based-research]
 ethics: [guardrails]
-audience: [instructors, learning designers, instructional designers]
+audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
 ---
 

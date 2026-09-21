@@ -6,7 +6,6 @@ type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
 technology: [generative-ai]
-stakeholders: [student-experience]
 ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high

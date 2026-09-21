@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-education, cognitive-offloading]
 technology: [learning-analytics]
 assessment: [feedback]
-stakeholders: [student-experience]
 ethics: [hallucination-risk]
 research_method: [literature review]
 discipline: [stem education]

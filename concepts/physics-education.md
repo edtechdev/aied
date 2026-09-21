@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
 technology: [generative-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]

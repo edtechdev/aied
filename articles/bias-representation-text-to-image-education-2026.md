@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy]
 technology: [generative-ai, multimodal]
 ethics: [bias-mitigation, equity-in-ai-education]
-audience: [researchers, policymakers, designers]
+audience: [researchers, policymakers, instructional designers]
 level: [k 12, higher ed]
 sources: ["raw/papers/bias-representation-text-to-image-education-2026.md"]
 confidence: high

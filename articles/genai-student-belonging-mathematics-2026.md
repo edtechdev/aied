@@ -6,12 +6,11 @@ type: article
 foundations: [agency]
 pedagogy: [motivation, student-engagement]
 technology: [generative-ai, llm, personalized-learning]
-stakeholders: [student-experience, learners]
 methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, user study]
 discipline: [math education]
 level: [k 12, secondary]
-audience: [instructors, learning designers, edtech designers]
+audience: [instructors, instructional designers, learners]
 page_kind: [evaluation]
 sources: ['raw/papers/genai-student-belonging-mathematics-2026.md']
 confidence: high

@@ -9,7 +9,7 @@ ethics: [trust-calibration]
 page_kind: [evaluation]
 sources: ['raw/papers/2608.04006.md']
 confidence: high
-audience: [learning designers, edtech designers, researchers]
+audience: [instructional designers, researchers]
 methods: [ai-ed-evaluation, design-based-research]
 ---
 

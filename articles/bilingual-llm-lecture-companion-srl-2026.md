@@ -12,7 +12,7 @@ discipline: [language learning]
 level: [higher ed]
 sources: ['raw/papers/bilingual-llm-lecture-companion-srl-2026.md']
 confidence: high
-audience: [edtech designers, instructional designers]
+audience: [instructional designers]
 ---
 
 > **Synthesis:** Malhotra (2026) describes a browser-based lecture companion built for bilingual and connectivity-limited contexts, specifically the English-Hindi and 'Hinglish' mixing common in Indian classrooms. It records live lectures, transcribes them in the browser, and uses an LLM to turn transcripts into structured notes and study material, addressing conditions that most published systems ignore: tidy single-language English audio and reliable internet. The paper presents the architecture, theoretical framework, comparative and [[usability-research|usability]] evaluations, and a pre-registered outcomes protocol. It advances [[self-regulated-learning]] support and [[inclusive-learning]] for multilingual and resource-constrained [[higher-ed]] settings, connecting to [[language-learning]] and the [[digital-divide]].

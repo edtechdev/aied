@@ -10,7 +10,7 @@ assessment: [feedback, formative-assessment, learning-gains]
 discipline: [math education]
 level: [k 12]
 confidence: high
-audience: [edtech designers, instructors]
+audience: [instructional designers, instructors]
 page_kind: [evaluation]
 sources: [raw/papers/making-ai-tutoring-productive-mastery-math-2026.md]
 ---

@@ -6,7 +6,6 @@ type: article
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
-stakeholders: [student-experience]
 research_method: [system development]
 audience: [instructors, researchers, software developers]
 level: [higher ed]

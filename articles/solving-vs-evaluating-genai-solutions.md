@@ -4,7 +4,6 @@ created: "2026-07-31T04:33:04-04:00"
 updated: "2026-09-20T03:43:02-04:00"
 type: article
 technology: [generative-ai]
-stakeholders: [student-experience]
 research_method: [experiment]
 discipline: [cs education, stem education]
 audience: [learners]

@@ -6,7 +6,6 @@ type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
 technology: [generative-ai, llm, prompt-engineering]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high

@@ -3,11 +3,10 @@ title: "The Impact of Explainable AI on Teachers' Trust and Acceptance of AI EdT
 created: "2026-09-03T15:00:00-04:00"
 updated: "2026-09-19T07:22:56-04:00"
 type: article
-foundations: [ai-education, teacher-role]
+foundations: [ai-education, teacher-role, teacher-ai-competency]
 technology: [machine-learning, edtech-platform, technology-acceptance-model]
-stakeholders: [teacher-ai-competency]
 ethics: [trust, trust-calibration]
-audience: [instructors, researchers, edtech designers]
+audience: [instructors, researchers, instructional designers]
 research_method: [experiment]
 level: [k 12]
 sources: ['raw/papers/xai-teachers-trust-edtech-recommendations-2026.md']

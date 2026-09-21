@@ -3,14 +3,13 @@ title: "Building AI Companions that Prioritize Learning over Performance"
 created: "2026-09-19T21:07:40-04:00"
 updated: "2026-09-19T22:08:08-04:00"
 type: article
-foundations: [ai-education, framing-ai-use-for-students, cognitive-offloading, agentic-ai, teacher-role]
+foundations: [ai-education, framing-ai-use-for-students, cognitive-offloading, agentic-ai, teacher-role, teacher-ai-competency]
 pedagogy: [self-regulated-learning, metacognition, productive-failure, scaffolding, transfer-of-learning]
 technology: [llm, generative-ai, conversational-ai, pedagogical-agent, adaptive-learning, student-modeling]
 ethics: [trust-calibration, equity-in-ai-education, explainable-ai, privacy, inclusive-learning]
-stakeholders: [learners, teacher-ai-competency, educational-technology-developers]
 institutions: [governance, change-management]
 research_method: [position paper]
-audience: [researchers, designers, instructors, institutions, policymakers]
+audience: [researchers, instructional designers, instructors, institutions, policymakers, learners, educational technology developers]
 page_kind: [framework]
 sources: ['raw/papers/caeai2026-ai-companions-learning-over-performance.md']
 confidence: high

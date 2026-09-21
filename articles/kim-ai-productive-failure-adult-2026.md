@@ -11,7 +11,7 @@ research_method: [interviews]
 level: [adult learning, higher ed]
 sources: ['raw/papers/kim-ai-productive-failure-adult-2026.md']
 confidence: high
-audience: [instructional designers, edtech designers]
+audience: [instructional designers]
 ---
 
 > **Synthesis:** Kim, Lin, Yu and Detrick (2026) investigate how adult learners perceive AI applications for supporting [[productive-failure]]-based learning and what design principles AI systems should follow. Through focus groups with 35 graduate students who developed AI application storyboards and paper prototypes, they map AI support onto the phases of productive failure (generation & exploration; consolidation & knowledge assembly) and derive five design principles: [[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], reflective design, emotional design, and open knowledge/resource utilization. The core message: AI should **preserve [[desirable-difficulties|productive struggle]] while offering targeted, non-directive support** — not substitute for it.

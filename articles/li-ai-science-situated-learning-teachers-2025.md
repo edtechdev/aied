@@ -11,7 +11,7 @@ research_method: [interviews]
 sources: ['raw/papers/li-ai-science-situated-learning-teachers-2025.md']
 confidence: high
 discipline: [science education, stem education]
-audience: [teachers, teacher educators]
+audience: [instructors, faculty developers]
 level: [k 12, teacher education]
 ---
 

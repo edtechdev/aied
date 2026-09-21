@@ -11,7 +11,7 @@ research_method: [interviews]
 level: [adult learning]
 sources: ['raw/papers/kim-ai-andragogy-2026.md']
 confidence: high
-audience: [designers, edtech designers, instructors]
+audience: [instructional designers, instructors]
 page_kind: [framework]
 ---
 

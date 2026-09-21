@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 foundations: [ai-literacy]
 technology: [affective-computing, generative-ai, llm, edtech-platform]
-stakeholders: [administrator, student-experience]
 connected_faqs: [ai-anxiety-wellbeing]
 research_method: [system development]
 audience: [learners, administrators]

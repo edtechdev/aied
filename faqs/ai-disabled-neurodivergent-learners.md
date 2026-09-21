@@ -7,7 +7,7 @@ type: faq
 methods: [meta-analysis-systematic-review]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
 research_method: [case study]
-audience: [instructors, learning designers, designers]
+audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 ---
 

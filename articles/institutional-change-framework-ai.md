@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [agentic-ai, ai-education, educational-development]
 pedagogy: [pedagogy, scaffolding]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [faculty developers, administrators, instructors]

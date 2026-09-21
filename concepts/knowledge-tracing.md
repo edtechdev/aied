@@ -4,7 +4,6 @@ created: "2026-06-23T10:44:35-04:00"
 updated: "2026-09-19T21:07:40-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
-stakeholders: [student-experience]
 audience: [learners]
 confidence: medium
 ---

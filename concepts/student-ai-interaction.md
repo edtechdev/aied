@@ -6,7 +6,6 @@ type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
 technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, prompt-engineering]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high

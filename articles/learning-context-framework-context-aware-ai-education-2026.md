@@ -6,7 +6,7 @@ type: article
 foundations: [ai-education, cognitive-offloading, human-ai-collaboration]
 technology: [adaptive-learning, ai-technologies, learning-analytics, personalized-learning, student-modeling]
 research_method: [theoretical analysis]
-audience: [software developers, researchers, edtech designers]
+audience: [software developers, researchers, instructional designers]
 sources: ['raw/papers/learning-context-framework-context-aware-ai-education-2026.md']
 confidence: high
 page_kind: [framework]

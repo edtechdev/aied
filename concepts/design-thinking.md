@@ -5,7 +5,6 @@ updated: "2026-09-16T14:32:03-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: low

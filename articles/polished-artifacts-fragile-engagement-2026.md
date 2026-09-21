@@ -9,7 +9,7 @@ technology: [generative-ai]
 research_method: [theoretical analysis]
 sources: ['raw/papers/polished-artifacts-fragile-engagement-2026.md']
 confidence: high
-audience: [researchers, designers]
+audience: [researchers, instructional designers]
 ---
 
 > **Synthesis:** Drawing on CSCL [[research-methods-aied|research]] traditions, this paper conceptualizes the risk of reduced epistemic effort when learners use generative AI to produce knowledge artifacts. It identifies two strands of risk: a social-cognitive strand grounded in automation bias (attributing greater epistemic competence to AI) and an artifact-oriented strand focused on polished external artifacts inducing epistemic closure. The paper appeals to structure AI participation as an argumentative partner or challenger to preserve conflict and iterative refinement without diminishing human epistemic effort.

@@ -6,7 +6,6 @@ type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai]
 assessment: [educational-measurement]
-stakeholders: [student-experience]
 research_method: [survey]
 discipline: [writing education]
 audience: [researchers, instructors]

@@ -11,7 +11,7 @@ level: [higher ed]
 sources: ['raw/papers/tandf-ai-internal-feedback-evaluative-judgments.md']
 confidence: high
 discipline: [writing education]
-audience: [instructors, teacher educators]
+audience: [instructors, faculty developers]
 ---
 
 > **Synthesis:** Unravelling undergraduates' development of evaluative judgments through AI-supported internal feedback

@@ -8,7 +8,7 @@ pedagogy: [motivation, socratic-method, student-engagement]
 technology: [personalized-learning, rag, technology-acceptance-model]
 sources: ['raw/papers/domain-specific-chatbot-stem-enthusiasm-2025.md']
 confidence: high
-audience: [instructors, researchers, instructional designers, edtech designers]
+audience: [instructors, researchers, instructional designers]
 level: [secondary, k 12]
 discipline: [stem education, math education]
 methods: [rct, quantitative-research]

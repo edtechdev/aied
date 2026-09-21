@@ -45,7 +45,6 @@ FACET_SECTIONS = [
     ('technology', 'Technologies and techniques', 'Technologies and techniques'),
     ('assessment', 'Assessment and measurement', 'Assessment and measurement'),
     ('methods', 'Research methods and evaluation', 'Research methods and evaluation'),
-    ('stakeholders', 'People', 'People'),
     ('institutions', 'Institutions and policy', 'Institutions and policy'),
     ('ethics', 'Equity, ethics, and responsible use', 'Equity, ethics, and responsible use'),
 ]
@@ -174,13 +173,13 @@ def render_redirects_ts(reg):
 # The link is generated from the registry (slug match or a registered alias), never
 # hand-written, so a renamed concept cannot leave a stale link behind. Aliases that
 # collide across ideas are excluded deliberately: 'researchers' is not research
-# methods, and 'instructional designers' is not the generic stakeholders page.
+# methods, and 'instructional designers' is not the generic concepts page.
 LINK_FIELDS = ('research_method', 'discipline', 'audience', 'level')
 LINK_EXCLUDE = {
     # 'researchers' is not research methods; the designer phrases are not the generic
-    # stakeholders page; 'instructors' and 'teachers' are audiences, not the teaching
-    # role the alias would send them to; 'literature review' is not the systematic
-    # review concept; and the library discipline is not the librarians people page.
+    # concepts page; 'instructors' is an audience, not the teaching role its alias
+    # would send it to; 'literature review' is not the systematic review concept; and
+    # the library discipline is not the librarians people page.
     'audience': {'researchers', 'instructional designers', 'policymakers',
                  'instructors', 'teachers'},
     'research_method': {'literature review'},
@@ -201,7 +200,6 @@ FIELD_UMBRELLAS = (
     ('discipline', 'discipline-specific-aied'),
     ('level', 'education-levels'),
     ('audience', 'stakeholders'),
-    ('stakeholders', 'stakeholders'),
     ('pedagogy', 'pedagogy'),
     ('technology', 'ai-technologies'),
     ('assessment', 'assessment'),
@@ -283,7 +281,7 @@ def render_facet_vocab_ts(reg):
     out.append("// metadata table. Foundations sits next to Page kind at the end: the two")
     out.append("// read least clearly as field names, so they are kept together and late.")
     out.append("export const FACET_DISPLAY_ORDER = [")
-    for field in ('pedagogy', 'technology', 'assessment', 'methods', 'stakeholders', 'institutions', 'ethics', 'foundations'):
+    for field in ('pedagogy', 'technology', 'assessment', 'methods', 'institutions', 'ethics', 'foundations'):
         out.append(f"  {ts_str(field)},")
     out.append("] as const;")
     out.append("")

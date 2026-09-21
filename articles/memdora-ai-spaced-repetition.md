@@ -5,7 +5,6 @@ updated: "2026-09-19T12:17:22-04:00"
 type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, generative-ai]
-stakeholders: [student-experience]
 connected_faqs: [study-with-ai]
 research_method: [system development]
 audience: [learners, software developers]

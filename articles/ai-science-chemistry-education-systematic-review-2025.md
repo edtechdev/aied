@@ -8,7 +8,7 @@ ethics: [ethics]
 discipline: [chemistry education, science education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
-audience: [researchers, teacher educators]
+audience: [researchers, faculty developers]
 level: [k 12, higher ed, teacher education]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]

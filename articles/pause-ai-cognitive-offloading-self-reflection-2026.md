@@ -12,7 +12,7 @@ sources: ['raw/papers/pause-ai-cognitive-offloading-self-reflection-2026.md']
 confidence: high
 research_method: [position paper, system development]
 discipline: [learning sciences]
-audience: [instructors, designers, researchers]
+audience: [instructors, instructional designers, researchers]
 level: [adult learning]
 page_kind: [framework]
 ---

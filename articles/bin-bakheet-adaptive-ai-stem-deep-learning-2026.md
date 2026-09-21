@@ -12,7 +12,7 @@ discipline: [stem education, science education]
 level: [k 12]
 sources: ['raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md']
 confidence: medium
-audience: [teachers, instructional designers]
+audience: [instructors, instructional designers]
 page_kind: [evaluation]
 ---
 

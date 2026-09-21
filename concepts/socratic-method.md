@@ -7,7 +7,6 @@ foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
-stakeholders: [student-experience]
 audience: [learners]
 level: [higher ed]
 confidence: high

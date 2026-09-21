@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education]
 discipline: [math education]
 level: [k 12]
 confidence: high
-audience: [administrators, policymakers, edtech designers]
+audience: [administrators, policymakers, instructional designers]
 sources: [raw/papers/virtual-tutoring-computer-assisted-learning-takeup-2026.md]
 ---
 

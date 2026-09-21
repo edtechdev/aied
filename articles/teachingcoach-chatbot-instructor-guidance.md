@@ -3,10 +3,9 @@ title: "TeachingCoach: A Fine-Tuned Scaffolding Chatbot for Instructional Guidan
 created: "2026-05-11T04:33:04-04:00"
 updated: "2026-09-16T15:51:16-04:00"
 type: article
-foundations: [educational-development, teacher-role]
+foundations: [educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [scaffolding]
 technology: [llm]
-stakeholders: [teacher-ai-competency]
 research_method: [system development]
 audience: [instructors, faculty developers]
 level: [higher ed]

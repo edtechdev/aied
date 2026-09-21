@@ -3,16 +3,15 @@ title: "Beyond the algorithm: academic developers as digital mediators in Global
 created: "2026-09-18T11:12:00-04:00"
 updated: "2026-09-19T06:05:00-04:00"
 type: article
-foundations: [ai-literacy, educational-development, teacher-role]
+foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [anxiety-and-stress, critical-pedagogy, professional-training]
 technology: [generative-ai]
 ethics: [digital-divide, equity-in-ai-education, global-south]
 institutions: [change-management, educational-policy-ai, governance]
-stakeholders: [teacher-ai-competency]
 methods: [qualitative-research]
 research_method: [interviews, thematic analysis]
 level: [higher ed]
-audience: [faculty developers, learning designers, administrators]
+audience: [faculty developers, instructional designers, administrators]
 sources: ['raw/papers/beyond-the-algorithm-academic-developers-digital-mediators-2026.md']
 confidence: high
 ---

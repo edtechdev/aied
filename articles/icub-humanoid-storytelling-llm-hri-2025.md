@@ -9,7 +9,7 @@ level: [preschool]
 research_method: [user study]
 sources: ['raw/papers/lombardi-humanoid-storytelling-child-2025.md']
 confidence: medium
-audience: [researchers, designers]
+audience: [researchers, instructional designers]
 page_kind: [framework]
 methods: [usability-research]
 ---

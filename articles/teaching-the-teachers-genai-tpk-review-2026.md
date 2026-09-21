@@ -9,7 +9,7 @@ ethics: [ethics]
 foundations: [tpack]
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high
-audience: [teacher educators, faculty developers]
+audience: [faculty developers]
 level: [teacher education, higher ed, adult learning]
 page_kind: [framework]
 ---

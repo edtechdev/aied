@@ -7,7 +7,6 @@ foundations: [academic-integrity, ai-education, ai-literacy, educational-develop
 pedagogy: [career-development-and-readiness, motivation, professional-training, self-directed-learning]
 technology: [generative-ai, technology-acceptance-model]
 methods: [qualitative-research]
-stakeholders: [administrator]
 institutions: [change-management, educational-policy-ai]
 ethics: [equity-in-ai-education, privacy]
 audience: [administrators, policymakers, researchers]

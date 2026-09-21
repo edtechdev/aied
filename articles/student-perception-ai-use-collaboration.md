@@ -5,7 +5,6 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 foundations: [cognitive-offloading]
 technology: [intelligent-tutoring]
-stakeholders: [student-experience]
 research_method: [longitudinal study, survey]
 discipline: [cs education]
 audience: [learners]

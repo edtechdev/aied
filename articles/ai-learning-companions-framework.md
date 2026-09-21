@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [adaptive-learning, llm, personalized-learning]
-stakeholders: [student-experience]
 research_method: [theoretical analysis]
 audience: [learners]
 sources: ['raw/papers/2605.04816.md']

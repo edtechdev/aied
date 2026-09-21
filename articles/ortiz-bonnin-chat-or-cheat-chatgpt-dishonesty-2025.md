@@ -5,7 +5,6 @@ updated: "2026-09-19T09:11:03-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [conversational-ai, generative-ai, technology-acceptance-model]
-stakeholders: [student-experience]
 ethics: [privacy]
 research_method: [survey]
 audience: [learners]

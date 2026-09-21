@@ -6,7 +6,6 @@ type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, intelligent-tutoring, learning-analytics, machine-learning, pedagogical-llm-training, rag]
 methods: [benchmark]
-stakeholders: [student-experience]
 ethics: [pedagogical-safety]
 audience: [learners, software developers]
 sources: ['raw/papers/2604.08263.md']

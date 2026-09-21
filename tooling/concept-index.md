@@ -19,6 +19,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`framing-ai-use-for-students`** — Framing AI Use for Students — phrases: ai use framing; communicating AI policy; convincing students of AI; framing ai; framing AI for students; framing AI use; persuading students about AI; student buy-in
 - **`learning-design`** — Learning Design — phrases: course design; course design decisions; instructional design; instructional development; learning design
 - **`reducing-ai-misuse`** — Reducing AI Misuse — phrases: ai misuse prevention; AI misuse reduction; mitigating AI misuse; preventing AI misuse; reduce ai misuse; reducing ai misuse
+- **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 - **`teacher-role`** — Teaching — phrases: educator role; educators; faculty; instructor; instructors; role of educators; teacher; teacher agency; teacher role; teachers; teaching role
 
 ### The field
@@ -103,6 +104,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`social-emotional-learning`** — Social-Emotional Learning — phrases: emotional learning; sel; social emotional; social emotional learning; social-emotional learning
 - **`student-ai-interaction`** — Student-AI Interaction — phrases: ai interaction; interactions with AI; learner-AI interaction; student ai interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; student-ai interaction
 - **`student-engagement`** — Student Engagement — phrases: behavioral engagement; engagement; engagement indicators; engagement measurement; engagement metrics; learner engagement; student engagement
+- **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
 - **`well-being`** — Well-Being — phrases: mental health; student wellbeing; well being; well-being; wellbeing
 
 ### Lifelong and professional learning
@@ -257,19 +259,11 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Roles and audiences
 
 - **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
-- **`educational-technology-developers`** — Educational Technology Developers — phrases: edtech designers; edtech developers; educational software developers; edtech companies
+- **`educational-technology-developers`** — Educational Technology Developers — phrases: educational technology developers; edtech designers; edtech developers; educational software developers; edtech companies
 - **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
 - **`librarians`** — Librarians — phrases: academic librarian; embedded librarian; information science; librarian; librarians; library and information science; library science; school librarian
-- **`parents-and-families`** — Parents and Families — phrases: caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
+- **`parents-and-families`** — Parents and Families — phrases: parents and families; caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
 - **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
-
-### Learner experience
-
-- **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
-
-### Educator capability
-
-- **`teacher-ai-competency`** — Teacher AI Competency — phrases: teacher ai competence; teacher ai competency; teacher AI readiness; teacher digital competence
 
 ## Institutions and policy
 

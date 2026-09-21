@@ -5,7 +5,6 @@ updated: "2026-09-19T07:37:16-04:00"
 type: article
 pedagogy: [online-teaching-and-learning, student-engagement]
 technology: [conversational-ai, intelligent-tutoring]
-stakeholders: [student-experience]
 audience: [learners]
 sources: ['raw/papers/ai-online-education-engagement-satisfaction-2026.md']
 confidence: high

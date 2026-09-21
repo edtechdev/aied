@@ -3,15 +3,14 @@ title: "Authentic and functional dialogue with AI-based student avatars: Evidenc
 created: "2026-09-20T06:06:47-04:00"
 updated: "2026-09-20T06:30:22-04:00"
 type: article
-foundations: [teacher-role, theories-and-frameworks]
+foundations: [teacher-role, theories-and-frameworks, teacher-ai-competency]
 pedagogy: [experiential-learning, professional-training, scaffolding, sociocultural-learning, student-ai-interaction]
 technology: [conversational-ai, llm, pedagogical-agent, simulating-students, simulation, speech-and-voice-technologies]
 assessment: [self-report-measures]
 methods: [mixed-methods-research, qualitative-research]
 research_method: [case study]
-stakeholders: [teacher-ai-competency]
 ethics: [pedagogical-safety, privacy]
-audience: [teacher educators, instructors, researchers]
+audience: [faculty developers, instructors, researchers]
 level: [teacher education, higher ed]
 confidence: high
 sources: ['raw/papers/hauk-student-avatars-dialogue-teacher-education-2026.md']

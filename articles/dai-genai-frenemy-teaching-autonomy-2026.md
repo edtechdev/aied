@@ -9,7 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, thematic analysis]
 level: [higher ed]
 page_kind: [framework]
-audience: [instructors, teachers, institutions, policymakers]
+audience: [instructors, institutions, policymakers]
 sources: ['raw/papers/dai-genai-frenemy-teaching-autonomy-2026.md']
 confidence: high
 ---

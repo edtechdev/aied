@@ -5,12 +5,11 @@ updated: "2026-09-19T06:05:00-04:00"
 type: article
 technology: [llm, educational-nlp]
 pedagogy: [student-engagement, collaborative-learning]
-foundations: [teacher-role]
-stakeholders: [teacher-ai-competency, learners]
+foundations: [teacher-role, teacher-ai-competency]
 assessment: [ai-feedback-quality]
 methods: [benchmark, quantitative-research]
 level: [primary education, secondary]
-audience: [researchers, teachers, teacher educators]
+audience: [researchers, instructors, faculty developers, learners]
 sources: ['raw/papers/edustories-classroom-case-studies-2026.md']
 confidence: high
 ---
