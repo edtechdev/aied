@@ -11,7 +11,8 @@ Read-only: this script never edits a page. It reports the pages that need a
 human normalisation, so a bulk pass can be reviewed before it runs.
 
 Defects (exit 1): no blockquote at all, an unlabelled blockquote, a venue/author
-line presented as the synthesis, synthesis text repeated later in the body.
+line presented as the synthesis, synthesis text repeated later in the body, and a
+synthesis LONGER than the cap (default 130 words -- the shape is 3-5 sentences).
 Advisory (does not fail the run unless --strict): a synthesis under 25 words.
 A short lead can be a perfectly good summary, so it is reported separately.
 
@@ -21,6 +22,9 @@ Usage:
     python3 tooling/scripts/check-article-intros.py --json
     python3 tooling/scripts/check-article-intros.py --quiet       # summary only
     python3 tooling/scripts/check-article-intros.py --strict      # short leads fail too
+    python3 tooling/scripts/check-article-intros.py --changed      # pages dirty in git
+    python3 tooling/scripts/check-article-intros.py --max 150      # loosen the cap
+    python3 tooling/scripts/check-article-intros.py --max 0        # no length cap
 
 Exit status: 0 clean, 1 findings (defects, plus advisories under --strict).
 """
@@ -29,10 +33,16 @@ import glob
 import json
 import os
 import re
+import subprocess
 import sys
 
 FM = re.compile(r'^---\n(.*?)\n---\n', re.DOTALL)
 MIN_WORDS = 25
+# The article shape is a 3-5 sentence summary (see AGENTS.md). 3-5 sentences of
+# dense prose runs 60-120 words, so 130 is the ceiling rather than a target: it
+# catches the 170-270 word blocks that batch ingestion briefs produced when they
+# carried the older "150-220 words" budget.
+MAX_WORDS = 130
 VENUE_NOISE = re.compile(
     r'doi:|CC BY|Taylor & Francis|Springer|Elsevier|Wiley|SAGE|'
     r'^\s*>?\s*\*\*(?:Authors?|Year|Venue|Conference|Journal|DOI)\b|'
@@ -88,12 +98,21 @@ def main():
     ap.add_argument('--quiet', action='store_true')
     ap.add_argument('--strict', action='store_true',
                     help='count a synthesis shorter than 25 words as a defect')
+    ap.add_argument('--max', type=int, default=MAX_WORDS,
+                    help=f'fail a synthesis longer than this many words (default {MAX_WORDS}, 0 disables)')
+    ap.add_argument('--changed', action='store_true',
+                    help='only pages modified in the working tree (git status articles)')
     ap.add_argument('paths', nargs='*', default=['articles/*.md'])
     a = ap.parse_args()
 
     files = []
     for pat in a.paths:
         files.extend(sorted(glob.glob(pat)))
+    if a.changed:
+        dirty = subprocess.run(['git', 'status', '--porcelain', 'articles'],
+                               capture_output=True, text=True).stdout
+        changed = {ln.split()[-1].rsplit('/', 1)[-1] for ln in dirty.splitlines() if ln.strip()}
+        files = [f for f in files if f.rsplit('/', 1)[-1] in changed]
     findings = []
     advisory = []
     checked = 0
@@ -120,6 +139,8 @@ def main():
             else:
                 advisory.append({'page': f, 'issue': f'short synthesis ({len(text.split())} words)',
                                  'lead': text[:110]})
+        elif a.max and len(text.split()) > a.max:
+            issues.append(f'synthesis over {a.max} words ({len(text.split())})')
         if text and len(text.split()) > MIN_WORDS and text in after:
             issues.append('synthesis text repeated later in the body')
         if issues:
@@ -136,7 +157,8 @@ def main():
             print(f'\nShort leads (advisory, {len(advisory)}):')
             for x in advisory:
                 print(f'{x["page"]}: {x["issue"]}')
-        print(f'\nChecked {checked} page(s); {len(findings)} defect(s), '
+        cap = f'cap {a.max} words' if a.max else 'no length cap'
+        print(f'\nChecked {checked} page(s) [{cap}]; {len(findings)} defect(s), '
               f'{len(advisory)} short lead(s) reported as advisory.')
     return 1 if findings else 0
 

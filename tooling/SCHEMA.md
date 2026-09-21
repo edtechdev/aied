@@ -161,7 +161,7 @@ page body instead (see Update Policy below).
 
 ### Article page body structure
 ```
-> **Synthesis:** 150-220 words: what the paper does, how, and what it finds
+> **Synthesis:** 60-120 words (3-5 sentences): what the paper does, how, and what it finds
 
 ## Key Findings
 - 5-7 contiguous bullets, one finding each (no blank lines between them)
