@@ -51,9 +51,9 @@ const toc = groups.map((g) => ({ text: titleCase(g.type), slug: anchor(g.type), 
     <p style="margin-bottom:0.75rem;">
       Not everything here is interactive. Alongside browser tools and AI tutors you will find
       libraries of ready-made prompts and "gems", collections of classroom activities, briefing and
-      policy documents, assessment instruments, and open file formats. Each entry opens a page that
-      says who made it, what kind of thing it is, whether the source code is available, and what it
-      costs to use.
+      policy documents, assessment instruments, and open file formats. Each entry is a short summary
+      that links to a page saying who made it, what kind of thing it is, whether the source code is
+      available, what it costs to use, and when its link was last checked.
     </p>
     <p>
       Every entry links out to an external site that this knowledge base does not control, and the
@@ -86,8 +86,7 @@ const toc = groups.map((g) => ({ text: titleCase(g.type), slug: anchor(g.type), 
 <style>
   /* Each entry reuses the foot-of-page connected-list look (page-type icon, title,
      summary in muted smaller text) instead of the old bordered card, which drops
-     the per-item metadata line and most of the vertical space it took. The list
-     styling itself is global, in BaseLayout. */
+     the card padding and border. The list styling itself is global, in BaseLayout. */
   .connected-list {
     margin-top: 0.5rem;
   }
