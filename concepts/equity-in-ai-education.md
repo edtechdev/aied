@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-19T06:35:00-04:00"
+updated: "2026-09-21T08:08:19-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -35,6 +35,8 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Model-specific demographic priors in synthetic data:** [[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al. (2026)]] found that when LLMs generated student vignettes, each model imposed distinct demographic tendencies — GPT produced more Global North profiles and used they/them pronouns, Qwen produced more [[global-south|Global South]] profiles, and Mistral skewed toward she/her. Even the *construction* of learner data by an [[llm]] thus carries regional and gendered priors that can propagate into downstream recommendations, an under-examined equity risk.
 - **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
 - **Bridging divides for disabled learners:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] found that GenAI levels the playing field for visually impaired undergraduates across digital, geographic, and socioeconomic divides, framing inclusion as both an infrastructural and a cultural matter — extending digital equity discourse beyond access to belonging, voice, and representation.
+
+Preparation matters more than preference, and the right to refuse is unevenly distributed. Students with strong academic confidence can refuse AI without penalty, while students who need language support, accessibility support or rapid feedback experience refusal as a loss of opportunity, and casual staff may feel pressure to adopt tools that cut preparation time without cutting responsibility. Where a duty to understand is imposed without training, secure infrastructure and clear policy, it becomes hidden workload, and refusal turns into a predictable response to institutional under-preparation rather than resistance to the technology ([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
 
 ## Representational equity
 
@@ -160,5 +162,6 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[demographic-signals-llm-student-assessment-2026]] — Implicit (conversation-history) demographic signals shift LLM scoring, feedback and answering (Rooein, Benedetto & Hovy 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty on AI's present and future: 81% expect wider digital inequities, 26% do not use the tools
 - [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — The right to refuse is unevenly distributed: refusal as evidence of institutional under-preparation (Zagami 2026)
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — South African HDIs: context as an epistemic principle, and equity as a condition of adoption

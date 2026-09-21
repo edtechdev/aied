@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-21T08:08:16-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -61,6 +61,8 @@ The knowledge base argues that maintaining assessment validity requires redesign
 A design-level counterpart comes from the same population the redesign argument usually ignores. [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] found that reflective and personalized tasks were widely judged too personal for AI help, while a knowledge-heavy assessment in another course prompted strong intent to use generative AI for references — so what students did with AI tracked the construct the task asked them to evidence. The lesson for validity is precise rather than celebratory: design can remove the payoff from generic substitution, but the same study warns against reading an opt-out cohort as proof that it did, since a substantial share of non-use was attributed to fear of wrongful plagiarism accusation rather than to the task resisting AI.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] supplies a redesign argument on the integrity side that turns integrity evidence into validity evidence. Extending Eaton's (2023) postplagiarism framing into assessment design, he argues that detection- and verification-based integrity models are misaligned with work in which human judgment and machine generation are entangled, and reframes integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment]] — the capacity to weigh options, justify academic choices and assume responsibility under epistemic uncertainty. The design consequence is that integrity should be evidenced rather than inferred: annotated decision trails, verification of GenAI-contributed claims, oral defense and version history are offered as integrity artifacts, and he is explicit that the difference from [[authentic-assessment]] is epistemic — authenticity asks whether a task mirrors real-world practice, integrity-oriented design asks whether learners can justify decisions and assume responsibility against disciplinary standards, so integrity becomes an assessable criterion embedded in the task architecture. He names the validity risk of his own proposal rather than leaving it implicit: requiring documented reasoning privileges learners fluent in reflective discourse and risks "the replacement of one compliance regime with another", because judgment as evidence "remains relational and situated rather than mechanically verifiable" — the same interpretive-reliability problem this page records for every AI-mediated assessment.
+
+[[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] reframes redesign as a question of which inference a change is meant to protect. Working from Kane's argument-based validity, he separates five pressures that debate tends to collapse into one: construct underrepresentation, construct-irrelevant variance, attribution of performance, conditional extrapolation, and unsupported score use. AI use is not automatically a threat, because tool use is germane where the intended construct is AI-supported professional judgment and bypasses the target performance where it is unaided reasoning, so construct and AI conditions have to be specified together. His caution for redesign follows, since interventions trade one pressure for another: oral defenses may strengthen attribution while reducing reliability or accessibility.
 
 ### Connections
 
@@ -153,6 +155,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Separating five validity pressures and checking what a redesign weakens (Weidlich 2026)
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
