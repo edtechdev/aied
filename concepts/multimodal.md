@@ -1,7 +1,7 @@
 ---
 title: Multimodal AI
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-21T13:04:37-04:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -74,7 +74,6 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 ## Connected Concepts
 - [[generative-ai]]
 - [[llm]]
-- [[educational-nlp]]
 - [[knowledge-graph]]
 - [[intelligent-tutoring]]
 - [[ai-literacy]]
@@ -91,7 +90,6 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[higher-ed]]
 - [[equity-in-ai-education]]
 - [[privacy]]
-- [[edtech-platform]]
 - [[stem-education]]
 - [[inclusive-learning]]
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
@@ -105,9 +103,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[ni-lam-multiliteracies-ai-portfolio-2026]]
 - [[drawedumath-vlm-struggling-students-2026]] — VLM performance on handwritten student math work (DrawEduMath, Lucy et al. 2026)
 - [[multimodal-learning-genai]] — Educator's guide to multimodal learning with generative AI (MMLD-AI model)
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[syal-multimodal-dialogue-stem-2026]] — The Multimodal Interference Effect and structured-dialogue recovery in STEM
-- [[syal-multimodal-dialogue-stem-2026]] — Multimodal AI tutoring in STEM and the error taxonomy
 - [[multimodal-ai-feedback-learning]] — Multimodal AI feedback matches educators on learning, exceeds on perceptions
 - [[multimodal-prompting-ai-literacy]] — Students' multimodal prompting as epistemic work in AI literacy
 - [[multimodal-item-parameter-estimation-2026]] — Estimating IRT item parameters with multimodal LLMs
@@ -120,14 +116,10 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[nuclear-diffusion-text-to-image-learning-2026]] — Text-to-image learning in nuclear engineering education
 - [[privacy-aware-classroom-incident-recognition-2026]] — Privacy-aware multimodal classroom sensing
 - [[genai-cybersecurity-ocr-multimodal-instruction-2025]] — Multimodal OCR instruction in cybersecurity education
-- [[golrang-propact-pair-programming-2026]] — Multimodal interactions in pair programming with AI
 - [[cfes-p24-multimodal-slide-auditing-2026]] — CFES-P24: Benchmarking Multimodal LLMs for Slide Auditing
 - [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: evaluating visual math diagrams from LLM-generated code
-- [[conversational-agents-novice-programmers-scoping-2025]] — Scoping review of conversational agents for novice programmers
 - [[ai-grading-handwritten-physics-2026]] — AI grading of handwritten physics assessments (Olympiad)
 - [[gemini-lualatex-physics-video-transcription-2026]] — Gemini+LuaLaTeX math-accessible physics video transcription
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
-- [[cogevol-learning-environment-generation-2026]] — CogEvol: Learning Environment Generation
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature
 - [[lu-ai-multimodal-writing-critical-thinking-2026]] — Multimodal AI composing and critical thinking in primary writing (Lu et al. 2027)
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]

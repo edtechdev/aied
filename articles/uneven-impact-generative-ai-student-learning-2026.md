@@ -82,7 +82,6 @@ The limitations are stated plainly and should constrain how the numbers are read
 - [[equity-in-ai-education]] — premium access and tool breadth sort benefits, and breadth tracks lower independent confidence
 - [[self-efficacy]] — confidence without GenAI falls as usage and reported benefits rise
 - [[critical-thinking]] — reduced critical thinking is the concern most tightly linked to lower perceived learning
-- [[student-ai-interaction|help-seeking ordering]] — consulting GenAI before instructor or search as a distinct behavior
 - [[assessment]] — the authors' conclusion that course design must make the reasoning behind AI-assisted work visible
 
 ## Connected Articles

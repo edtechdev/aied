@@ -75,18 +75,6 @@ Beyond the table, the paper flags two further risks of proactive initiative: **[
 - [[self-regulated-learning]]
 - [[agency]]
 - [[llm]]
-- [[agentic-ai]]
-- [[desirable-difficulties]]
-- [[prior-knowledge]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[sociocultural-learning]]
-- [[human-in-the-loop-ai]]
-- [[collaborative-learning]]
-- [[self-regulated-learning]]
-- [[agency]]
-- [[llm]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

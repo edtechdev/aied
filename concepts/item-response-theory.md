@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-21T12:49:59-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -38,6 +38,8 @@ IRT treats ability (θ) and item parameters (difficulty, discrimination, sometim
 
 - **Divide-and-conquer calibration for continuously evolving banks:** [[bayesian-consensus-irt-item-banks-2026|Jewsbury et al. (2026)]] treat IRT recalibration as a scaling problem rather than a fitting problem. When AI-based item generation and feature-based parameter prediction make a bank larger, sparser and continuously updated, refitting the full response history at every update grows steadily costlier; their *consensus calibration* instead calibrates each time period once and combines a new period with already-computed earlier posteriors. Two features separate it from existing IRT divide-and-conquer work: the periods do not share a latent metric, so each is linked to a reference metric by a robust Haebara criterion solved *separately for every posterior draw* (carrying linking error into the linked posteriors), and each period is its own hierarchical fit contributing an estimated prior, so the naive product of posteriors must have that prior divided out and a consensus prior reinstated — reducing to the Bayesian committee machine rule when the priors are fixed. Against a pooled benchmark on four quarterly periods of the Duolingo English Test, posterior means agreed at r = .998 (difficulty) and .991 (log-discrimination) with posterior SDs at r = .970 and .920, leaving mild under-dispersion (SD ratio 0.91–0.98) that was largest in the lowest per-period exposure tertile. It is IRT calibration re-engineered for the delivery conditions AI-generated item banks create.
 
+- **How rarely IRT anchors instrument validation:** an appraisal of teacher AI literacy instruments quantifies IRT's absence rather than its use. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] graded 33 instruments against a decision matrix adapted from COSMIN and Terwee et al. (2007); structural validity was strong, with 24 (72.7%) at Grade A through CFA, PLS-SEM or IRT modeling, yet none used IRT or Rasch as its primary evidence, and only five instruments (15.2%) reported measurement invariance or differential item functioning evidence. The authors argue for IRT and performance tasks alongside self-assessment to separate validated capability from reported confidence.
+
 ### Connections
 
 IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], underpins [[adaptive-learning]] (adaptive item selection) and [[student-modeling]], and connects to [[psychometrically-aware-ai]] (AI assessment aligned with measurement theory) and [[knowledge-tracing]]. It features in [[llm-difficulty-calibration-programming-exams-2026|LLM difficulty calibration]] for programming assessment.
@@ -71,3 +73,4 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments

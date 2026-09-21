@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T11:27:36-04:00"
+updated: "2026-09-21T13:00:10-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -105,31 +105,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[scaffolding]]
 - [[agentic-ai]]
 - [[formative-assessment]]
-- [[self-directed-learning]]
 - [[ai-literacy]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[learning-theories]]
-- [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
-- [[learners]] — Learners: the umbrella for the learner-side concepts
-- [[self-regulated-learning]]
-- [[cognitive-offloading]]
-- [[scaffolding]]
-- [[agentic-ai]]
-- [[formative-assessment]]
-- [[self-directed-learning]]
-- [[ai-literacy]]
-- [[problem-based-learning]]
-- [[intelligent-tutoring]]
-- [[human-in-the-loop-ai]]
-- [[adaptive-learning]]
-- [[authentic-assessment]]
-- [[student-experience]]
-- [[learning-theories]]
 - [[retrieval-spacing-interleaving]] — judgments of learning and the fluency illusion that retrieval practice corrects
 - [[cognitive-surrender]]
 
@@ -139,7 +115,6 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
 - [[du-yuan-epistemic-dependence-2026]] — Epistemic dependence in AI-mediated learning (Du & Yuan 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
-- [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
 - [[llm-interaction-depth-task-quality-recall-2026]] — What students ask matters: LLM interaction depth, task quality, and immediate recall (Tsiligkiris 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[lim-bannert-student-regulation-genai-chatbot-2026]] — How students regulate learning with a genAI chatbot
@@ -154,7 +129,6 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[ai-making-us-stupid]] — Is AI making us stupid? critique of cognitive offloading
 - [[stanford-evidence-base-ai-k12-2026]] — General-purpose AI suppresses metacognition by completing reasoning
 - [[young-people-learning-generative-ai-rapid-review-2026]] — Miscalibration gap and metacognitive inequity with GenAI
-- [[generative-ai-reduced-study-time-math]] — Shift from deliberate offloading to passive dependency
 - [[ai-advice-suppresses-ikt-suspension-2026]] — AI advice suppresses willingness to say "I don't know", even with wrong advice and accuracy incentives
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and pedagogical best practice: the tension between automation and learning
 - [[cognitive-offloading-speedup-illusion]] — Cognitive offloading and the speedup illusion in human-AI interaction
@@ -163,17 +137,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[pedagogy-ai-mistakes]] — The Pedagogy of AI Mistakes: Fostering Higher-Order Thinking (Hosseini 2026)
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
-- [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning
-- [[chatgpt-critical-creative-thinking-review]] — ChatGPT critical and creative thinking: systematic review
-- [[zhao-genai-higher-order-thinking-meta-2026]] — GenAI and higher-order thinking meta-analysis
-- [[student-rationalization-ai-writing]] — Student rationalization of AI use in academic writing (Kim et al. 2026)
-- [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner: human-AI co-regulation in learning
-- [[buggy-genai-code-student-responses]] — How students respond to buggy GenAI code
-- [[ai-learning-companions-framework]] — Building AI companions that prioritize learning over performance
-- [[teachers-reflective-regulators-cognition-offloading]] — Teachers as reflective regulators of cognition
-- [[ai-overreliance-complex-adaptive-system-2026]] — AI overreliance modeled as a complex adaptive system
-- [[llm-adaptive-programming-error-explanations-2026]] — LLM adaptive explanations of programming errors
-- [[student-perceptions-ai-study-productivity-2026]] — Students' Perceptions of Artificial Intelligence Tools for Study Productivity and Learning: An Exploratory Survey Study
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
-- [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: real-time evaluation, reflection and learning as the mechanism that reassigns tasks over time

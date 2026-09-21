@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-21T13:04:37-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -77,15 +77,12 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[scaffolding]]
 - [[teacher-role]]
 - [[human-in-the-loop-ai]]
-- [[student-experience]]
 - [[equity-in-ai-education]]
 - [[ai-literacy]]
 - [[k-12]]
 - [[higher-ed]]
-- [[cs-education]]
 - [[inclusive-learning]]
 - [[neurodiversity]]
-- [[learning-theories]]
 - [[distributed-cognition]]
 - [[self-regulated-learning]]
 - [[project-based-learning]]
@@ -93,24 +90,19 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[trust-calibration]]
 - [[pedagogical-agent]]
 - [[student-modeling]]
-- [[student-engagement]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[student-engagement]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
-- [[ai-pbl-computational-thinking-2026]]
-- [[educators-engagement-ai-pbl-review-2026]]
-- [[pbl-structural-conditions-ai-2026]]
 - [[genai-counter-learner-groupthink-2025]]
 - [[ai-communities-of-inquiry-2026]]
 - [[polished-artifacts-fragile-engagement-2026]]
 - [[epistemic-emotions-collaborative-problem-solving]]
 - [[hingle-collaborative-ai-literacy-2025]]
 - [[neurodivergent-computing-students]]
-- [[robot-assisted-language-learning-meta-analysis-2026]] — Meta-analysis of AI-enhanced embodied robot-assisted language learning
 - [[teacher-student-agency-orchestration]]
-- [[golrang-propact-pair-programming-2026]]
-- [[vargas-situated-learning-ai-review-2024]]
 - [[niari-ai-pedagogical-mediator-collaborative-learning]]
 - [[hao-human-ai-collaborative-problem-solving-cognition]]
 - [[golrang-propact-pair-programming-2026]] — ProPACT: proactive AI adaptive collaborative tutor for pair programming
@@ -119,9 +111,6 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[icap-cognitive-engagement-llm-agents]] — Extended ICAP framework for measuring engagement in collaborative dialogue
 - [[llm-facilitation-timing-online-discussions]] — LLM facilitation timing in online collaborative discussions
 - [[ba-ai-agents-cscl-review-2026]] — AI agents in computer-supported collaborative learning review
-- [[lodge-adaptive-capabilities-genai-future-2026]] — Adaptive capabilities for assuring quality learning in a gen AI-integrated future (Lodge et al. 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
-- [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
 - [[wei-perkins-genai-student-collaboration-scoping-2026]] — GenAI and student group work: a scoping review (Wei & Perkins 2026)
 - [[context-aware-prompting-cps-skill-identification-2026]] — Context-aware prompting for automated collaborative problem-solving skill coding
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration

@@ -1,7 +1,7 @@
 ---
 title: Self-Assessment
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-09-21T12:05:47-04:00"
+updated: "2026-09-21T12:50:58-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -55,9 +55,13 @@ Used as a measure, self-assessment usually arrives dressed as something else: a 
 
 Accuracy is the headline problem, and the direction is consistent. The cleanest evidence comes from a study that built parallel self-report and objective measures of teacher [[ai-literacy|AI literacy]] inside a single framework. Across 288 K-12 teachers, correlations between the objective and self-reported factors ranged from r = 0.07 to r = 0.24, and latent profile analysis found six profiles: 43 teachers rated themselves consistently high while scoring lower on the objective measure, 59 showed the reverse pattern, and the remaining profiles clustered near the mean or split by prior AI literacy experience. Two measures of one skill, built by the same team on the same construct, share almost nothing.
 
+The field-level picture matches that single study. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 review of teacher AI literacy measurement tools]] appraised 33 instruments published between 2019 and 2025 and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks. The authors' reading is the one this page's measurement face turns on: a self-report score records reported confidence rather than capability, so it cannot stand in for competence, and they argue for performance tasks and item-response-theory analysis alongside self-assessment to separate validated capability from reported confidence.
+
 Accuracy also depends on what is being estimated. A psychometric analysis of a taxonomy-based GenAI literacy self-assessment with 158 university staff and students found an inverted profile, with respondents claiming mastery of creation before the conceptual foundations underneath it, and only a weak correlation (r = 0.188) between student and academic profiles. A survey of teacher-education students found the same shape from the other side: nearly all (97.8%) rated critical media analysis important while only 13.8% said their coursework addressed it, and fewer than half (44.9%) believed they had the skills to analyze media information critically. Self-assessed media competence lagged self-assessed importance.
 
 Two mechanisms explain the generosity. The first is motivational and well documented outside this literature: people rate themselves generously, and the least competent overestimate most. The second is specific to AI-native cohorts. A 2026 theoretical paper on the **absent cognitive baseline** argues that sustained substitutive AI use during the formative secondary and high-school years reduces the independent cognitive encounters that any academic self-assessment depends on. The claim is structural rather than individual: self-assessment works by comparing a current performance with a record of previous ones, and where the record was never built, the estimate has nothing to be calibrated against. That is presented as distinct from [[cognitive-offloading|offloading]] and [[cognitive-surrender|surrender]], which describe processes during AI use, because the gap persists when the tool is absent.
+
+Developmental stage sets one boundary on accuracy, and the youngest learners are where a validated self-assessment instrument is scarcest. [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon's 2025 validation study of an AI literacy self-assessment questionnaire for upper primary students]] built a 15-item measure for Grades 4 to 6 across Learning About AI, Learning About How AI Works, and Learning for Life with AI, confirming a three-factor structure in samples of 335 and 579 students with an overall Cronbach's alpha of .934. The authors are explicit about the genre's limit: self-assessment accuracy depends on metacognitive ability that is still maturing in children, so scores index perceived understanding rather than demonstrated competence, and the instrument is intended for formative diagnosis.
 
 ### Self-assessment as an outcome variable
 
@@ -118,3 +122,5 @@ It also introduces a naming hazard worth stating plainly. **AI self-evaluation**
 - [[age-tiered-ai-literacy-guidebooks-2026]] — Developmentally tiered AI literacy materials, with measurement of acceptance and validity (2026)
 - [[chatgpt-critical-creative-thinking-review]] — Triangulating AI feedback with peer, instructor, and self-assessment (2026)
 - [[yasir-llm-tutoring-agents-2026]] — Why feedback should not rest on a model's self-assessed reasoning validity (Yasir et al. 2026)
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item AI literacy self-assessment questionnaire for Grades 4 to 6, with the metacognitive limits of child self-report (Thianwan & Srikoon 2025)
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — 31 of 33 teacher AI literacy instruments are self-report, two test knowledge objectively, none use performance tasks (Zainal, Mohd Matore & Maat 2026)

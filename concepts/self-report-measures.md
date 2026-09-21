@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-21T12:24:40-04:00"
+updated: "2026-09-21T12:49:59-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -48,6 +48,8 @@ The consequence is a set of claims that look similar in a results section but di
 
 Two implications follow for anyone reading or designing this research. First, whether a self-report instrument is even measuring its named construct is an empirical question, answered by validation rather than by the plausibility of the items. Second, the direction of the temptation in AI in education is consistent: tools are evaluated by how users feel about them, and feeling is precisely the part that self-report captures most cheaply. [[self-assessment]] is a member of that wider family rather than a synonym for it: where self-report measures reach attitudes, trust, and satisfaction, self-assessment turns the learner's estimate specifically onto their own skill, confidence, or learning.
 
+A validated instrument can make that limit precise rather than vague. The AI Literacy Self-Assessment Questionnaire (AIL-SAQ) of [[ai-literacy-self-assessment-questionnaire-primary-2025|Thianwan and Srikoon (2025)]] is a 15-item scale confirmed with a stable three-factor structure across two samples (n = 335 exploratory, n = 579 confirmatory) and an overall Cronbach's alpha of .934. Its authors are explicit that it records perceived understanding, attitudes, and awareness rather than demonstrated skill, and that self-assessment accuracy depends on metacognitive ability still maturing in children, so a child's self-estimate is a weaker signal than an adult's.
+
 ## The perception–behavior gap
 
 The strongest self-report finding in this knowledge base is not that self-report is biased in general but that reported and observed behavior diverge in specific, documented ways.
@@ -61,6 +63,8 @@ Behavioral estimates show the same split. [[predicting-attrition-competitive-pro
 Sometimes asking and observing are set up head to head. [[student-llm-interaction-taxonomy-review-2026|A scoping review of 46 categorizations from 33 studies]] found the literature split about evenly between self-report and interaction-log data, and concluded that categories "often reflect the measurement approach as much as the interaction itself" — with self-report studies capturing perceptions and intentions while log-based studies capture observable conversational behavior, and the two rarely integrated. [[tracing-genai-literacy-interaction-patterns|Process-data work on GenAI literacy]] makes the constructive version of the point: whether a student prompts iteratively, refines output, and manages [[hallucination-risk|hallucinations]] is observable in interaction logs and not in a questionnaire.
 
 A 2026 structured review and exploratory [[meta-analysis-systematic-review|meta-analysis]] of measures for competent [[generative-ai]] use puts a pooled number on that gap from the other direction: pooling three directly reported same-sample subjective–objective correlations (combined reported N = 2,765) gave r = .055 (Hartung–Knapp 95% CI [−.047, .156]), and adding a fourth study's cross-factor correlations reached only r = .079. All three primary effects came from a single research program, the largest contributor's reported correlation and p-value could not be reconciled, and the review concludes that self-report cannot stand in for objective performance scores — while noting that the performance instruments are themselves narrow, covering foundation knowledge rather than the oversight and reliance behaviors that matter at work ([[competent-generative-ai-use-measures-review-2026|Verí (2026)]]).
+
+The instrument literature itself can be read as evidence of the gap's scale. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat (2026)]] appraised 33 instruments for teacher AI literacy and found that 31 (93.9%) were self-report scales of perceived confidence, only two (6.1%) tested knowledge objectively, and none used performance-based tasks between 2019 and 2025. Their conclusion is the one this page keeps reaching from other directions: self-report scores index confidence rather than capability, so they cannot stand in for competence when groups or programs are compared.
 
 Outcome measures inherit the same gap. [[pramod-agentic-ai-motivational-pathways-2026|Pramod and Patil (2026)]] model the path from [[agentic-ai|agentic AI]] through motivation and social presence to what they label learning performance with a coefficient of 0.671 — the strongest relationship in the study — and their own limitations section states that this dependent variable reflects learners' perceptions and not exam results, assignment performance or learning analytics. That is the pattern to read carefully in pathway models generally: a large coefficient on a perceived outcome quantifies how consistently students believe something helped, and says nothing yet about whether it did.
 
@@ -137,7 +141,7 @@ The knowledge base's constructive answers are consistent, and none of them requi
 
 ## Connected Articles
 
-[[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Engagement predicts perceived rather than measured performance in an agentic AI path model (Pramod & Patil 2026)
 
 - [[ai-literacy-assessment-misalignment]] — Parallel self-report and objective measures of teacher AI literacy
 - [[jin-glat-genai-literacy-assessment]] — GLAT: a performance-based alternative to self-report
@@ -157,3 +161,5 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[competent-generative-ai-use-measures-review-2026]] — Beyond AI Literacy: A Structured Review and Exploratory Meta-Analysis of Measures for Competent Generative-AI Use
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: a validated self-report measure of motivations for AI use in reading
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based

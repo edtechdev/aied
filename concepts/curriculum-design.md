@@ -70,7 +70,8 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[agentic-ai]]
 - [[metacognition]]
 - [[prompt-engineering]]
-- [[collaborative-learning]]- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
+- [[collaborative-learning]]
+- [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI-for-constructive-alignment guidance (McInnes et al. 2026)

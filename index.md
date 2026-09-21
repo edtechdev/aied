@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-21
 
-Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1351 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era
@@ -26,6 +26,7 @@ Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[activity-theory-teachers-adoption-ai-sem-2026]] — Activity theory as a lens on teachers' adoption of AI technologies: A structural equation modeling
 - [[ada-female-coded-chatbot-gender-stereotypes-2026]] — Bridging the Gender Gap in STEM Education with AI: Female-Coded Chatbot as Role Model and Learning Assistant
 - [[adapt-adaptive-lesson-plan-transformer]] — AdaPT: Adaptive Lesson Plan Transformer for Cross-Regional and Differentiated Instruction
+- [[adaptive-ai-model-teacher-educators-2025]] — Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]] — Towards an adaptive AI scaffold for developing student collaborative problem solving
 - [[adaptive-intelligent-tutoring-primary-mathematics-2026]] — Effectiveness of adaptive versus non-adaptive intelligent tutoring systems in early primary mathematics
 - [[adaptive-learning]] — Adaptive Learning
@@ -142,6 +143,7 @@ Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[ai-literacy-assessment-misalignment]] — How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
 - [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
 - [[ai-literacy-continuum-higher-education]] — Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education
+- [[ai-literacy-correlates-affective-behavioral-cognitive-2025]] — How AI literacy correlates with affective, behavioral, cognitive and contextual variables: A systematic review
 - [[ai-literacy-course-satisfaction-pbl-scale-2026]] — Enhancing AI Literacy Course Satisfaction Through Empowerment in AI Problem-Solving and Ethical Awareness: Development and Validation of an AI Project-Based Learning Scale
 - [[ai-literacy-equity-programming-policy]] — Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon: A Structured Approach to AI Literacy in Higher Education
@@ -151,6 +153,7 @@ Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Clarifying the Conceptual Landscape in AI Literacy Measurement: A Large Language Model Based Approach
 - [[ai-literacy-power-knowledge]] — AI Literacy: An Exercise in Power-Knowledge
 - [[ai-literacy-sdg-governance-framework-2026]] — Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework
+- [[ai-literacy-self-assessment-questionnaire-primary-2025]] — Development of an AI literacy self-assessment questionnaire in upper primary school students
 - [[ai-literacy-tool-design-programming-education-2026]] — AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education
 - [[ai-literacy-warning-political-persuasion-2026]] — A light-touch AI literacy intervention helps protect against AI political persuasion
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High
@@ -249,6 +252,7 @@ Articles: 1347 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR Technology in College English Speaking Instruction: The Role of Feedback Internalization and Metacognitive Strategies
 - [[assessing-quality-ai-generated-exams-field-2025]] — Assessing the Quality of AI-Generated Exams: A Large-Scale Field Study
 - [[assessing-student-drive-framework-2025]] — Assessing students' DRIVE: A framework to evaluate learning through interactions with generative AI
+- [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Assessing teachers' AI literacy: a systematic review of measurement tools
 - [[assessment]] — Assessment
 - [[assessment-latent-structure-human-llm-2026]] — Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
 - [[assessment-team-problem-solving-computing-education]] — Assessment in Team Problem-Solving Exercises in Computing Education

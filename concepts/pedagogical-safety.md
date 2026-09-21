@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Safety
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T09:40:00-04:00"
+updated: "2026-09-21T13:04:27-04:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13]
 type: concept
 foundations: [cognitive-offloading]
@@ -77,15 +77,12 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[trust]]
 - [[scaffolding]]
 - [[misconceptions]]
-- [[metacognition]]
 - [[ai-sycophancy]]
 - [[simulating-students]]
 - [[self-regulated-learning]]
-- [[ai-literacy]]
 - [[simulation]]
 - [[ai-misuse-learning-harm]]
 - [[human-in-the-loop-ai]]
-- [[social-emotional-learning]]
 
 ## Connected Articles
 
@@ -99,7 +96,6 @@ Pedagogical safety is the protective layer connecting [[hallucination-risk]], [[
 - [[paternalistic-filter-llm-history-education]]
 - [[llm-unlearning-math-privacy]]
 - [[llm-children-reading-story-generation]]
-- [[hazra-safetutors-pedagogical-safety-2026]]
 - [[llm-student-simulation-misconception-faithfulness]]
 - [[ai-tutor-authoring-promptdecipher]]
 - [[pedagogical-safety-rl]]

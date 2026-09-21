@@ -69,17 +69,6 @@ Three preregistered experiments used an adapted Cognitive Reflection Test with A
 - [[agency]]
 - [[human-in-the-loop-ai]]
 - [[theory-development-aied]]
-- [[cognitive-offloading]]
-- [[critical-thinking]]
-- [[trust]]
-- [[metacognition]]
-- [[ai-literacy]]
-- [[ai-misuse-learning-harm]]
-- [[generative-ai]]
-- [[llm]]
-- [[agency]]
-- [[human-in-the-loop-ai]]
-- [[theory-development-aied]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

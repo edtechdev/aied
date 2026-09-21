@@ -82,17 +82,6 @@ The most important practical nuance is that the harm is **selective by assessmen
 - [[scaffolding]]
 - [[generative-ai]]
 - [[student-experience]]
-- [[self-directed-learning]]
-- [[remote-proctoring]]
-- [[cognitive-offloading]]
-- [[academic-integrity]]
-- [[assessment]]
-- [[self-regulated-learning]]
-- [[motivation]]
-- [[metacognition]]
-- [[scaffolding]]
-- [[generative-ai]]
-- [[student-experience]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

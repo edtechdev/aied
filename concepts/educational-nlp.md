@@ -49,7 +49,8 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[metacognition]]
 - [[rct]]
 - [[learning-analytics]]
-- [[educational-policy-ai]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[educational-policy-ai]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[lee-learner-question-types-ai-education-2026]] — Transformer classification of learner questions into constructivist roles (Lee, Atif & Kang 2026)
@@ -57,7 +58,8 @@ Educational NLP underpins both the analysis of learner language ([[student-model
 - [[studychat-student-dialogues-chatgpt-ai-course-2026]] — The StudyChat dataset of student–LLM dialogues in an AI course
 - [[nspa-neuro-symbolic-pedagogical-alignment-2026]] — Neuro-symbolic pedagogical alignment (NSPA)
 - [[ai-generated-interactive-fiction-education-2026]]
-- [[zerkouk-comprehensive-review-its-2025]]- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
+- [[zerkouk-comprehensive-review-its-2025]]
+- [[diagramir-educational-math-diagram-evaluation]] — DiagramIR: IR-based evaluation of math diagrams
 - [[shap-llm-rationales-teaching-quality-assessment]] — SHAP and LLM rationales for rubric-based teaching quality
 - [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[bird-multimodal-educational-literature-2026]] — Multimodal fusion for classifying educational literature

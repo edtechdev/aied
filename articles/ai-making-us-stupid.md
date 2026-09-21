@@ -77,14 +77,6 @@ Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 202
 - [[higher-ed]]
 - [[learning-gains]]
 - [[rag]]
-- [[cognitive-offloading]]
-- [[ai-literacy]]
-- [[metacognition]]
-- [[self-regulated-learning]]
-- [[generative-ai]]
-- [[higher-ed]]
-- [[learning-gains]]
-- [[rag]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

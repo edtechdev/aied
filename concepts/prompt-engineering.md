@@ -66,7 +66,8 @@ Prompt engineering connects to [[scaffolding]] — well-designed prompts can sca
 - [[generative-ai]]
 - [[learning-design]]
 - [[cs-education]]
-- [[higher-ed]]- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
+- [[higher-ed]]
+- [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 
 ## Connected Articles
 - [[wang-teacher-student-centered-agents-physics-2026]] — Agent role and constraint prompts as the design variable in physics learning (Wang et al. 2026)

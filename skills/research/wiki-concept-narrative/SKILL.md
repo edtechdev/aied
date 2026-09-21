@@ -39,3 +39,9 @@ The wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-faq-pages`, `wiki-a
 
 ## Support files
 - (none yet)
+
+## Pitfalls
+
+- **A citation wrapped in parentheses can never be the subject of a sentence (2026-09-21).** A delegated brief that shows the inline form as `([[slug|label]])` reliably comes back with sentences built that way, e.g. "...mapped more broadly. ([[slug|a 2026 review of teacher AI literacy instruments]]) appraised 33 instruments..." That is a fragment with no subject, and it repeats across every page of the batch. Reserve the parenthetical form for appositives mid-sentence ("A cross-level study of AI education ([[slug|46 teachers, 2,832 students]]) found..."). When the source is the sentence's subject, link the subject itself and keep the label inside the link: `[[slug|A 2026 review of teacher AI literacy instruments]] appraised 33 instruments...`. Audit leftovers with a regex matching a parenthetical wikilink immediately followed by a reporting verb (`synthesized|developed|appraised|found|had|built|validated|examined|tested|analyzed|surveyed|reported|showed`); a mid-sentence appositive is a false positive, so read each hit's context before editing.
+- **The same insertion can leave a link to the page's own slug.** Grep each edited page for `[[<its own slug>` (with `|` or `]]`) and strip the brackets rather than deleting the phrase: a self-link renders as a link back to the page the reader is already on.
+- **Label the study, not the instrument, when the label is the subject.** "Thianwan and Srikoon's 2025 AI Literacy Self-Assessment Questionnaire built a 15-item measure" is wrong (an instrument did not build itself); the same sentence with the label "Thianwan and Srikoon's 2025 validation study of an AI literacy self-assessment questionnaire" is right.

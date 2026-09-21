@@ -69,16 +69,6 @@ A **cascade tipping result** (Prop. 3), building on Brock–Durlauf discrete cho
 - [[trust]]
 - [[metacognition]]
 - [[critical-thinking]]
-- [[cognitive-offloading]]
-- [[trust-calibration]]
-- [[human-ai-collaboration]]
-- [[agentic-ai]]
-- [[llm]]
-- [[reducing-ai-misuse]]
-- [[ai-misuse-learning-harm]]
-- [[trust]]
-- [[metacognition]]
-- [[critical-thinking]]
 - [[cognitive-surrender]]
 
 ## Connected Articles

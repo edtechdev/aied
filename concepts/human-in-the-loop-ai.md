@@ -1,7 +1,7 @@
 ---
 title: Human-in-the-Loop
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-21T13:20:18-04:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -103,23 +103,6 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[pedagogical-safety]]
 - [[trust-calibration]]
 - [[agentic-ai]]
-- [[cognitive-offloading]]- [[guardrails]]
-- [[formative-assessment]]
-- [[automated-assessment]]
-- [[scaffolding]]
-- [[teacher-role]]
-- [[ai-literacy]]
-- [[intelligent-tutoring]]
-- [[feedback]]
-- [[student-experience]]
-- [[self-regulated-learning]]
-- [[metacognition]]
-- [[educational-development]]
-- [[generative-ai]]
-- [[agency]]
-- [[pedagogical-safety]]
-- [[trust-calibration]]
-- [[agentic-ai]]
 - [[cognitive-offloading]]
 - [[cognitive-surrender]]
 
@@ -128,42 +111,23 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[ilieva-agentic-genai-higher-education-2026]] — Human supervision and governance as the third layer of agentic GAI course design (Ilieva et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (learners in the tutoring loop)
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — HITL AI-assisted scoring in a large-scale national writing assessment (Curi et al. 2026)
-- [[du-yuan-epistemic-dependence-2026]] — Relational epistemic agency and criteria for productive reliance vs. harmful dependence (Du & Yuan 2026)
 - [[ai-teammate-task-distribution-medical-training-2026]] — SCAN framework: rethinking AI task distribution in medical training (Tsim et al. 2026)
-- [[ai-communities-of-inquiry-2026]]
-- [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[agentic-ai-education-scoping-review]]
-- [[agentic-literacy-debt]] — Agentic literacy debt: the structural AI-literacy gap from autonomous agents (Nama 2026)
-- [[ai-changing-teaching-workflows]]
-- [[ai-literacy-legal-translation-2026]]
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[becerra-aicofe-feedback-2026]]
 - [[calibrating-trustworthiness-llm-education-2026]]
-- [[chatgpt-critical-creative-thinking-review]]
-- [[civic-education-ai-lesson-plans]]
 - [[code-gen]]
-- [[concept-catalyst-engineering-scaffolds]]
 - [[cong-confidence-asag-2026]]
-- [[correct-answer-trap-ai-tutor]]
-- [[cyberscholar-genai-writing-feedback]]
 - [[eduagentbench-agent-teaching-benchmark]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
-- [[veriforge-narrative-drafting-scaffolding-2026]]
-- [[spritz-ai-disciplinary-mediation-student-teams-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[sc2r-counterfactual-recourse-educational-2026]] — From Student Risk Prediction to SC2R: Counterfactual Recourse
-- [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[bin-bakheet-adaptive-ai-stem-deep-learning-2026]] — Adaptive AI-based STEM program for deep learning
 - [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
-- [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[kim-ai-andragogy-2026]] — AI Applications in Supporting Andragogy (Kim et al. 2026)
 - [[scaffolding-systematic-reviews-2026]] — Scaffolding Systematic Reviews with Mentoring and AI (Wang 2026)
 - [[ai-ethics-bibliometric-2026]] — AI Ethics and Professional Judgment: A Bibliometric Analysis (Mazlan et al. 2026)
 - [[ai-assisted-instructor-supervised-grading-feedback]] — AI-assisted instructor-supervised grading and feedback
-- [[distilling-self-explaining-lm-learning-analytics-2026]] — Distilling self-explaining LM for learning analytics
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[frontier-ai-redirect-skeptical-rural-staff-2026]] — Algorithmic audit: how frontier LLMs redirect skeptical rural K-12 staff

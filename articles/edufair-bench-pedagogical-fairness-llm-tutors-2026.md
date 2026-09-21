@@ -83,7 +83,6 @@ The Opposite condition asks whether the residual gender signal is tutor-driven o
 ## Connected Articles
 
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI Tutor Safety Harms
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors: Pedagogical Safety of LLM Tutors
 - [[llm-pedagogical-behavior-ai-tutoring-2026]] — LLM Pedagogical Behavior in AI Tutoring
 - [[ai-tutoring-quality-k12-methodologies-2026]] — AI Tutoring Quality in K-12: Methodologies
 - [[machines-misread-pedagogical-quality]] — Machines Misread Pedagogical Quality
