@@ -660,11 +660,11 @@ const recentConceptItems = recentConcepts.map(c => ({
 
     /* Tablet / narrow-desktop (640–1023px): the full title + search field +
        icons don't fit on one row, so the title truncates and the theme button
-       overflows. The search box ("Ctrl K") and the least-essential icon (RSS)
-       are desktop-only (≥1024px); drop them here too. */
+       overflows. The search box ("Ctrl K") is desktop-only (≥1024px); drop it
+       here too. The header's RSS icon is gone entirely now (2026-09-21) — the
+       feed link lives in the footer and next to the intro on /journal. */
     @media (max-width: 1023px) {
       .header-search { display: none; }
-      .header-icons .header-icon[title="RSS feed"] { display: none; }
     }
 
     main {
@@ -1208,19 +1208,6 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="12" y1="17" x2="12.01" y2="17"></line>
           </svg>
         </a>
-        <a href="/aied/journal" class="header-icon" title="Journal" aria-label="Journal">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-            <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
-            <path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"></path>
-          </svg>
-        </a>
-        <a href="/aied/rss.xml" class="header-icon" title="RSS feed" aria-label="RSS feed">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <path d="M4 11a9 9 0 0 1 9 9"></path>
-            <path d="M4 4a16 16 0 0 1 16 16"></path>
-            <circle cx="5" cy="19" r="1"></circle>
-          </svg>
-        </a>
         <a href="/aied/resources" class="header-icon" title="Tools and resources" aria-label="Tools and resources">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
@@ -1228,6 +1215,12 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="7" y1="12.5" x2="7" y2="14.5"></line>
             <line x1="12" y1="12.5" x2="12" y2="14.5"></line>
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
+          </svg>
+        </a>
+        <a href="/aied/journal" class="header-icon" title="Journal" aria-label="Journal">
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+            <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
+            <path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"></path>
           </svg>
         </a>
         <button id="theme-toggle" class="header-icon theme-toggle" type="button" title="Toggle light/dark mode" aria-label="Toggle light/dark mode" aria-pressed="false">
