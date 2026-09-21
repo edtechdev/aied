@@ -6,7 +6,7 @@ Static site built with Astro, deployed to GitHub Pages from `main` branch at htt
 
 ### Page types
 
-Three content collections: **articles**, **concepts**, and **faqs**, each in their own directory with strict structure.
+Four content collections: **articles**, **concepts**, **resources**, and **faqs**, each in their own directory with strict structure.
 
 ### Article page structure (`articles/{slug}.md`)
 
@@ -26,11 +26,12 @@ discipline: [math education, physics education]  # optional
 audience: [instructors, learners, researchers, administrators]  # intended audience (optional)
 level: [early childhood, k 12, higher ed, adult learning]  # optional
 # Topic facets: concept slugs from THEIR OWN registry section (optional, no tags field).
+# Seven registry sections back a field. The People section backs NONE (field retired
+# 2026-09-21): readership is asked once, in `audience:` above.
 pedagogy: [scaffolding]       # Learning and instruction
 technology: [llm]             # Technologies and techniques
 assessment: [feedback]        # Assessment and measurement
 methods: [rct]                # Research methods and evaluation
-stakeholders: [student-experience]  # People
 institutions: [governance]    # Institutions and policy
 ethics: [academic-integrity]  # Equity, ethics, and responsible use
 foundations: [ai-literacy]    # Foundations of AI in education
@@ -170,12 +171,19 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 - **Source preservation (HARD RULE):** when a source PDF arrives in chat, copy it to `pdf-sources/<article-slug>.pdf` (or `<arXiv-id>.pdf`) BEFORE extracting its text, and never delete the original afterwards. The chat document cache rotates to a handful of recent files, so a PDF left only there is unrecoverable within days, while `raw/papers/<id>.md` is a derived artifact, not the original. `pdf-sources/` is gitignored — verify with `git status --short` that it never appears in a commit. Downloaded PDFs awaiting ingest belong in the same folder, not in a scratch directory.
 - **Full-text integrity:** save the complete paper text (cap 250,000 chars, not 50,000) — a body cut off at exactly ~50,000 chars is the old truncation signature and usually means the results, discussion and limitations are missing. Re-fetch from the source (arXiv PDF, or the publisher's open-access HTML/PDF) and rewrite the raw file before enriching that page.
 - **Tool generation (screen before writing, not after):** note the model version a study actually used (method section: `GPT-3`, `GPT-4`, "the free version", a dated build) and its data-collection window, and put both in the ingest summary — the mechanical gates cannot catch a well-designed study that describes a tool nobody can open anymore. Then choose one: state the vintage in a `## Limitations` bullet when the study's mechanism finding survives, scope the effect claim to its generation for capability or benchmark comparisons ("in the GPT-3.5-era comparison, X outperformed Y"), or backlog the paper in `AIED-BACKLOG.md` when the capability comparison is its whole contribution. Never put the caveat in `## Citation`, and never edit the paper's title to hint at it: the citation states what the paper is, limits state what it can support.
-- Frontmatter carries **no `tags:` field** (retired 2026-09-17; the schema rejects it and a page that re-adds one fails the build). Every concept a page touches is named in a typed facet field whose values are concept slugs from the matching `concepts.registry.yaml` section, and the Metadata table hyperlinks each value to its concept page. Optional fields (`level`, `audience`, `discipline`, `research_method`, `page_kind`) use closed vocabularies from `tooling/SCHEMA.md` and become PageFind search facets.
+- Frontmatter carries **no `tags:` field** (retired 2026-09-17; the schema rejects it and a page that re-adds one fails the build). Every concept a page touches is named in a typed facet field whose values are concept slugs from the matching `concepts.registry.yaml` section, and the Metadata table hyperlinks each value to its concept page. The People section backs no field: it keeps its role pages for browsing, and `audience` alone answers who a page is written for. Optional fields (`level`, `audience`, `discipline`, `research_method`, `page_kind`) use closed vocabularies from `tooling/SCHEMA.md` and become PageFind search facets.
 - Citation: single APA line with hyperlinked title, NO "Full text" blocks, NO bullet prefix
 - Delete stub pages with < 300 chars of real body content
-- After ANY page change: run the HARD GATES (`python3 tooling/scripts/run-gates.py` or `npm run verify`), then `npm run build`, then `git add -A && git commit -m "..."`. **Never push without explicit per-occurrence approval** — commit locally, then ask.
-- **Delegating a section-writing batch to subagents (2026-09-19).** Fanning out "add the missing sections to these N pages" works, but a child's summary is a self-report, not evidence, so the parent verifies every page it was told about: the section is present and spelled exactly `## What this means for practice` / `## Limitations`, the order is practice → limitations → Connected Concepts → Connected Articles → Citation, the bullet count is inside 3-5 and 2-4, and every number in the added bullets appears in that page's `raw/papers/<slug>.md`. Give each child the same brief in its own `context` (it knows nothing of the conversation): the exact placement rule, "every number must appear in the full text — never invent one", "boilerplate limitations are a defect; omit the section and say why instead", "do not touch frontmatter, Connected lists or Citation", "US English", "verify a wikilink target exists before adding it", and "do not run the build or the gates — the parent does that". Two failure modes to plan for: a page with no saved full text (raw under ~3,000 chars) cannot get evidence-bound bullets at all, so exclude it and name it in the report rather than letting a child improvise; and children run in parallel on separate files, so no child may write `index.md`, `journal.md`, `log.md` or the registry.
+- After ANY page change: `npm run build`, then `git add -A && git commit -m "..."`. **The HARD GATE suite (`python3 tooling/scripts/run-gates.py` / `npm run verify`) is PERMISSION-GATED: propose the run, name the gates you would run and what each would check, and run nothing until the maintainer approves that specific run.** A green build, a risky-looking diff, an earlier approval and a subagent's own judgment are not permission. Once approved the gates are mandatory before a commit. **Never push without explicit per-occurrence approval** — commit locally, then ask.
+- **Delegating a section-writing batch to subagents (2026-09-19).** Fanning out "add the missing sections to these N pages" works, but a child's summary is a self-report, not evidence, so the parent verifies every page it was told about: the section is present and spelled exactly `## What this means for practice` / `## Limitations`, the order is practice → limitations → Connected Concepts → Connected Articles → Citation, the bullet count is inside 3-5 and 2-4, and every number in the added bullets appears in that page's `raw/papers/<slug>.md`. Give each child the same brief in its own `context` (it knows nothing of the conversation): the exact placement rule, "every number must appear in the full text — never invent one", "boilerplate limitations are a defect; omit the section and say why instead", "do not touch frontmatter, Connected lists or Citation", "US English", "verify a wikilink target exists before adding it", and "do not run the build, and never run the gate suite — it is permission-gated and the parent must ask for it first". Two failure modes to plan for: a page with no saved full text (raw under ~3,000 chars) cannot get evidence-bound bullets at all, so exclude it and name it in the report rather than letting a child improvise; and children run in parallel on separate files, so no child may write `index.md`, `journal.md`, `log.md` or the registry.
 - **Offline EPUB/PDF (build-related):** the site also publishes `public/aied.epub` and `public/aied.pdf` (concept + FAQ pages, with a Notice page and a clickable TOC). These are **local committed artifacts rebuilt ONLY on explicit request** — never automatically after content edits, and never by CI. Regenerate with `python3 tooling/build-epub.py` (requires `pandoc` and, for the PDF, `weasyprint`) and commit the result.
+
+### `llms.txt` / `llms-full.txt`
+
+`python3 tooling/scripts/generate-llms-files.py` writes `public/llms.txt` and
+`public/llms-full.txt`. They are **local committed artifacts rebuilt ONLY on explicit
+request**, exactly like the EPUB and the PDF: never automatically after a content edit,
+never by CI, and never by a subagent.
 
 ### Cron jobs
 
