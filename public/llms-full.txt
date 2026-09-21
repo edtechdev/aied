@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 213 concepts, 1338 articles, and 32 FAQs.
+> Complete text of 213 concepts, 1341 articles, and 32 FAQs.
 
 # Concepts
 
@@ -1290,6 +1290,8 @@ The enforcement machinery that sits on top of integrity policy is itself a desig
 
 A second failure is one of scope rather than proof. [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions written at the level of platform identity rather than function capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — alongside the generative drafting they mean to bar, even though the peer-reviewed computer science literature treats recognition and generation as distinct operations. The cost lands unevenly: students with conditions affecting fine motor control, handwriting legibility or typing accuracy have relied on exactly those tools, and as standalone voice-to-text products are discontinued or degraded, AI-powered transcription is filling the functional gap, so an over-inclusive rule removes a primary means of producing legible work, making the dispute an [[accessibility]] and [[equity-in-ai-education|equity]] one before it is an integrity one. Wright's remedy is a function-based definition of generative AI plus four operational criteria — fidelity, non-augmentation, traceability and attestation — that give a student a structured route to rebut a transcription-only allegation while leaving the burden of proof with the institution.
 
+Detection's evidentiary problem is also a validity problem. Because AI assistance is iterative and interwoven with drafting rather than outsourced wholesale, authorship and ownership of meaning come apart, and a sound submitted product may not establish that the student exercised the judgment the task was meant to target. Detector performance varies across tasks, disciplines and model versions, and disclosed or suspected AI use can act as a biasing cue for markers, so a detection response adds construct-irrelevant variance rather than removing it. Where integrity debates ask who produced the words, a validity account asks what claim about the student the performance warrants.
+
 ### The rationalization problem
 
 Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[misconceptions|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
@@ -1399,6 +1401,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[ivory-psychology-assessment-integrity-2026]] — A whole psychology program passable at minimum effort, and the marking criteria that let it through (Ivory et al. 2026)
 - [[predictors-ethical-genai-use-higher-ed-2026]] — SEM predictors of ethical GenAI use in higher education (Tabares-Cruz et al. 2026)
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Student teachers declined GenAI under a permissive policy; "trap" framing and survey–declaration gap
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal and non-use as diagnostic evidence, and the duty to justify non-use where AI shapes assessment (Zagami 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[kumar-genai-computing-education-systematic-review-2026]] — Detection evidence is thin (3 studies of 72); redesign carries the weight
 - [[mccorkle-aligned-genai-course-policy-2025]] — Aligned GenAI course policy: assessment-derived permissions, transparent rationale (McCorkle 2025)
@@ -1444,6 +1447,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[genai-declaration-frameworks-higher-education]] — Structuring Transparency: GenAI Declaration Frameworks
 - [[credential-cognitive-stewardship-ai-assessment]] — Cognitive Stewardship for AI-Mediated Assessment
 - [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — Coauthorship Integrity and the AI Viva
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and construct-irrelevant variance under GenAI (Weidlich 2026)
 - [[genai-student-experiences-uk-he-survey-2026]] — GenAI Student Experiences: UK HE Survey
 - [[metacognitively-discordant-completion-genai-2026]] — Metacognitively Discordant Completion
 - [[genai-higher-education-systematic-review-2026]] — GenAI in Higher Education: Systematic Review
@@ -2946,6 +2950,8 @@ A structural reading of agency appears in [[ai-agents-joyful-assessment-third-sp
 - **Distinct failure modes.** Agency is eroded by [[cognitive-offloading|over-reliance]] and passive acceptance (the learner stops directing reasoning); identity is eroded by authorship loss and competence threat (the learner stops feeling the output is theirs, or that they belong in the domain). [[jin-emergent-learner-agency-implicit-hai-2026|Implicit AI redistribution of epistemic labor]] is chiefly an agency concern; the [[t2i-competence-paradox-2026|competence paradox]] in creative fields is chiefly an identity concern.
 - **Both must be designed for.** Agency-oriented design preserves control and choice (bounded [[desirable-difficulties|friction]], [[human-in-the-loop-ai|human-in-the-loop]] oversight, [[explainable-ai|transparency]]); identity-oriented design protects authorship and recognition ([[authentic-assessment|authentic assessment]], clear attribution of AI vs. human contribution, tasks that let learners claim a domain). Protecting agency without protecting authorship keeps control but not self-worth — and vice versa.
 
+This distinction between enacted agency and stable identity applies to refusal. As [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] describes it, declining a chatbot for assessed writing, prohibiting it for unaided reasoning, resisting automated triage in student support, or delaying procurement are separate relations to separate systems, spanning personal, pedagogical, professional, administrative, and institutional levels rather than one durable disposition. That right is unevenly allocated: students with academic confidence can decline without penalty, while those needing language, accessibility, or rapid-feedback support read refusal as lost opportunity, and secure academics refuse on principle while casual staff feel pressure to adopt. Where AI sits in infrastructure, refusal is displaced from individual opt-out into procurement, audit, and contestability.
+
 ## The Ecological Co-Agency Framework: agency as an epistemic design problem
 
 [[reclaiming-epistemic-agency-co-agency-2026|Poudyal (2026)]] reframes learner agency as fundamentally an *epistemic* concern: [[generative-ai|generative AI]] does not simply add a tool but reassigns epistemological authority — the ability to produce knowledge, validate claims, and create evidence of learning — from teachers to students to machines. The paper's **Ecological Co-Agency Framework** treats co-agency as the relationship between three interdependent dimensions, all bounded by a non-negotiable condition of human epistemic accountability:
@@ -3058,6 +3064,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: co-creativity and agency in socio-technical networks
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
 - [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
 
 ---
 
@@ -15636,6 +15643,8 @@ The effectiveness of a feedback loop depends on [[ai-feedback-quality|feedback q
 
 **The human in the loop:** feedback loops are not purely automated — teachers often mediate AI-generated feedback before it reaches learners. [[learner-centered-feedback-ai|Studies of AI feedback tools for teachers]] (e.g., the PolyFeed tool combining an ML detector with an [[llm]] rephraser) find teachers use professional judgment to **accept, edit, or reject** AI suggestions — an "assist but verify" pattern — and systematically moderate exaggerated praise and generic suggestions to protect authenticity and voice. The **relational/[[affective-computing|affective]] dimension** of feedback (student–teacher relationship, encouragement) most strongly resists AI delegation, suggesting this part of the loop remains inherently human. This human-in-the-loop mediation connects to [[human-in-the-loop-ai]] and to [[teacher-role]].
 
+The relational reading cuts deeper than substitution. In workshops with 12 students and 18 educators, [[ai-feedback-ecosystem-higher-education-2026|Bearman et al. (2026)]] found students treated AI as an additional but flawed source, weighing it against rubrics, lecture notes, discussion boards and educator comments, and using it as a holding pattern when human responses were slow; one pasted thin educator comments into a chatbot to work out what to do next. AI's presence changed relations rather than merely adding comments, to the point that one student stopped trusting peer discussion-board feedback as probably AI-written. The authors therefore propose humans-as-the-loop: people helping people build stronger feedback relationships over time, in place of oversight of machine output.
+
 ### How AI transforms feedback
 
 AI changes feedback in three consequential directions, each raising the stakes of the other facets:
@@ -15719,6 +15728,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
 - [[care-full-feedback-genai]] — Care-full feedback design with GenAI
 - [[feedback-futures-genai]] — Feedback futures with GenAI
+- [[ai-feedback-ecosystem-higher-education-2026]] — The feedback ecosystem in higher education: AI reworks feedback relations, and humans as the loop (Bearman et al. 2026)
 - [[learner-centered-feedback-ai]] — Learner-centered AI feedback practices
 - [[genai-feedback-design-multisite-experiment]] — Multi-site GenAI feedback design
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
@@ -15793,6 +15803,8 @@ Feedback literacy is widely framed as a set of interrelated capabilities — the
 
 AI changes feedback in two directions that both raise the stakes of feedback literacy. First, AI dramatically increases the *volume and immediacy* of feedback ([[ai-feedback-quality]], [[feedback|Feedback Loop]]), so students confront far more feedback they must triage and evaluate. Second, AI-generated feedback carries distinct risks — inaccuracy, [[hallucination-risk|hallucination]], and the "illusion of mastery" — that demand [[critical-thinking|critical evaluation]] skills [[cognitive-offloading|Over-Reliance]] [[llm-fallacy-misattribution]]. Feedback literacy therefore becomes a core component of [[ai-literacy]]: knowing not only how to prompt an AI for feedback, but how to judge whether the feedback is worth acting on and how to convert it into genuine learning rather than task completion.
 
+[[ai-feedback-ecosystem-higher-education-2026|Bearman and colleagues (2026)]] add a further demand to that list. In their workshop study, students were not managing one feedback source but a network: they weighed educator comments against AI output, rubrics, course materials and peers, and when human feedback was slow they kept working with AI as a holding pattern, revising later if it had misled them. The authors suggest students can act as their own human-as-the-loop by managing those relations from the granular task to the broader trajectory, which is itself a feedback-literacy capability. Their warning is that thin or late educator comments are what push students toward unverified sources.
+
 ### Connections to related concepts
 
 Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Loop]] (the provision side it complements), [[formative-assessment]] (the assessment cycle it feeds), and [[self-regulated-learning]] (the self-evaluation and adaptation it supports). It is a subset of [[ai-literacy]] when applied to AI-generated feedback, intersects with [[peer-assessment]] in collaborative contexts, and is particularly consequential for [[writing-education]]. It also connects to [[metacognition]] and [[trust-calibration]] — the ability to judge whether feedback is trustworthy.
@@ -15833,6 +15845,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[care-full-feedback-genai]] — Care-full feedback design with GenAI
 - [[ai-generated-feedback-higher-ed]] — AI-generated feedback in higher education
 - [[feedback-futures-genai]] — Feedback futures with GenAI
+- [[ai-feedback-ecosystem-higher-education-2026]] — AI reworks the relations among students, educators, peers and materials in the feedback ecosystem (Bearman et al. 2026)
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
@@ -17002,6 +17015,8 @@ A design-level counterpart comes from the same population the redesign argument 
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] supplies a redesign argument on the integrity side that turns integrity evidence into validity evidence. Extending Eaton's (2023) postplagiarism framing into assessment design, he argues that detection- and verification-based integrity models are misaligned with work in which human judgment and machine generation are entangled, and reframes integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment]] — the capacity to weigh options, justify academic choices and assume responsibility under epistemic uncertainty. The design consequence is that integrity should be evidenced rather than inferred: annotated decision trails, verification of GenAI-contributed claims, oral defense and version history are offered as integrity artifacts, and he is explicit that the difference from [[authentic-assessment]] is epistemic — authenticity asks whether a task mirrors real-world practice, integrity-oriented design asks whether learners can justify decisions and assume responsibility against disciplinary standards, so integrity becomes an assessable criterion embedded in the task architecture. He names the validity risk of his own proposal rather than leaving it implicit: requiring documented reasoning privileges learners fluent in reflective discourse and risks "the replacement of one compliance regime with another", because judgment as evidence "remains relational and situated rather than mechanically verifiable" — the same interpretive-reliability problem this page records for every AI-mediated assessment.
 
+[[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] reframes redesign as a question of which inference a change is meant to protect. Working from Kane's argument-based validity, he separates five pressures that debate tends to collapse into one: construct underrepresentation, construct-irrelevant variance, attribution of performance, conditional extrapolation, and unsupported score use. AI use is not automatically a threat, because tool use is germane where the intended construct is AI-supported professional judgment and bypasses the target performance where it is unaided reasoning, so construct and AI conditions have to be specified together. His caution for redesign follows, since interventions trade one pressure for another: oral defenses may strengthen attribution while reducing reliability or accessibility.
+
 ### Connections
 
 Assessment validity connects to [[authentic-assessment]], [[automated-assessment|Automated Grading]], [[automated-assessment|Confidence Aware AI Assessment]], [[formative-assessment]], [[academic-integrity]], and [[rct]] (which relies on valid outcome measures).
@@ -17093,6 +17108,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[teichmann-detecting-undetectable-misconduct-2026]] — The misconduct procedure as a validity problem
 - [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — Assessment validity under imperfect information: a response-region model
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Separating five validity pressures and checking what a redesign weakens (Weidlich 2026)
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[el-salvador-ai-tutoring-selection-claim-2026]] — Bounding the learning claim of El Salvador's AI tutoring pilot (Restrepo Morales et al. 2026)
@@ -17572,6 +17588,8 @@ The most recent empirical evaluations make those error rates concrete rather tha
 
 The definitional and procedural problems sit alongside the statistical ones. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that blanket prohibitions on "AI use" are drafted around platform identity rather than function, so they capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — along with the generative drafting they mean to bar; because detectors read low-perplexity writing as machine authorship, the resulting false positives fall hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] reaches the design-side version of the same conclusion, positioning detection as a supplementary layer of integrity infrastructure at most, since it asks whether GenAI was used rather than how decisions were made.
 
+Detection research also carries a validity argument that outlasts questions of accuracy. Weidlich (2026) treats detector output as a conditional, probabilistic signal that may prompt further inquiry but cannot by itself establish misconduct or competence, which makes detection-centered governance an insufficient basis for upholding [[assessment-validity|assessment validity]]. Classification performance varies systematically across tools, task types, disciplines, model versions and human-AI editing practices, with formulaic STEM writing especially susceptible to algorithmic bias. Attempts to restore assessment security through detection then risk introducing construct-irrelevant variance, threatening fairness and the interpretation of scores.
+
 ## Why not to use (or try to use) AI detectors
 
 [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argue that generative AI detection should **not be used in education at all**, on grounds that go beyond "be careful" to "this is conceptually unsound." Their case consolidates the reasons against relying on AI detectors:
@@ -17645,6 +17663,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[munoz-misconduct-allegation-evidence-2026]] — Detector output is the weakest-rated evidence type in 1,162 real misconduct case files
 - [[wright-transcription-not-generation-2026]] — Blanket "AI use" rules conflate transcription with generation
 - [[sharma-judgment-visible-genai-assessment-2026]] — Detection demoted to a supplementary layer behind visible judgment
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Detection as a conditional signal, and why security responses add construct-irrelevant variance (Weidlich 2026)
 
 ---
 
@@ -19736,6 +19755,8 @@ AI governance operates at two levels the knowledge base treats together: the *in
 
 A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. This includes the design and enforcement of [[ai-use-disclosure|AI use and disclosure statements]]: research shows that mandatory declarations fail when they feel punitive or ambiguous ([[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]), and that clear, consistent, trust-based policy is what actually fosters disclosure. The knowledge base's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[ai-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinized). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines. The scope of a prohibition is itself a governance decision: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that rules barring "generative AI" without distinguishing generation from format conversion capture assistive transcription tools and turn policy misapplication into misconduct allegations, burdening disabled and [[equity-in-ai-education|equity]]-exposed students — a governance failure that [[legal-issues-and-risks|legal issues and risks]] treats as an equalities question as much as an integrity one.
 
+Evidence that [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] gathers from high-stakes arenas points to uneven governance rather than simple refusal: partial adoption and incomplete policy in assessment, admissions and disciplinary processes, with institutional delay operating as a governance stance rather than a failure. The institutional task is to interpret refusal well enough to improve governance, asking which decisions require human review, which systems require audit, which uses require disclosure, and which procurement choices require public justification. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] adds the assessment-specific corollary: detector scores are conditional probabilistic signals that cannot by themselves establish misconduct, so detection-centered governance is an insufficient basis for defending assessment claims.
+
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The knowledge base's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
@@ -19789,11 +19810,13 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[qian-governing-genai-higher-ed-policy-2026]] — Governance by guidance: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Faculty governance, instructor discretion and periodic review in law school GenAI policy (Gutowski & Hurley 2025)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive "AI" prohibitions, format conversion and the reasonable-adjustment problem (Wright 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as evidence: uneven governance, the duty to understand and the diagnostic value of non-use (Zagami 2026)
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[enright-staff-perspectives-genai-2026]]
@@ -20001,6 +20024,8 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - **Socioeconomic gradients:** [[ai-lifelong-learning-policy|AI and lifelong-learning policy]] and [[generative-ai-education-productivity-gaps|productivity-gap experiments]] examine how AI can either narrow or widen gaps among different learner groups.
 - **Bridging divides for disabled learners:** [[khlaif-assistive-genai-visually-impaired-2026|Khlaif et al. (2026)]] found that GenAI levels the playing field for visually impaired undergraduates across digital, geographic, and socioeconomic divides, framing inclusion as both an infrastructural and a cultural matter — extending digital equity discourse beyond access to belonging, voice, and representation.
 
+Preparation matters more than preference, and the right to refuse is unevenly distributed. Students with strong academic confidence can refuse AI without penalty, while students who need language support, accessibility support or rapid feedback experience refusal as a loss of opportunity, and casual staff may feel pressure to adopt tools that cut preparation time without cutting responsibility. Where a duty to understand is imposed without training, secure infrastructure and clear policy, it becomes hidden workload, and refusal turns into a predictable response to institutional under-preparation rather than resistance to the technology ([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
+
 ## Representational equity
 
 - **Bias in training data and outputs:** AI training data largely reflects dominant cultural perspectives. [[gender-bias-transfer-llm-writing|Gender bias transfer research]] shows LLM-assisted writing can contaminate student work with gender bias; [[paternalistic-filter-llm-history-education|history-education filters]] and [[ai-scoring-language-bias-physics|AI scoring]] can encode Western-centric and linguistically biased assumptions.
@@ -20125,6 +20150,7 @@ Equity in [[ai-education|AI education]] addresses three overlapping concerns: wh
 - [[demographic-signals-llm-student-assessment-2026]] — Implicit (conversation-history) demographic signals shift LLM scoring, feedback and answering (Rooein, Benedetto & Hovy 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty on AI's present and future: 81% expect wider digital inequities, 26% do not use the tools
 - [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — The right to refuse is unevenly distributed: refusal as evidence of institutional under-preparation (Zagami 2026)
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — South African HDIs: context as an epistemic principle, and equity as a condition of adoption
 
@@ -32074,6 +32100,68 @@ Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to I
 
 ---
 
+## [How artificial intelligence transforms the feedback ecosystem in higher education](https://edtechdev.github.io/aied/articles/ai-feedback-ecosystem-higher-education-2026/)
+
+> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from human-[[human-ai-collaboration|in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
+
+## Key Findings
+
+1. **AI changes relations, not just the supply of comments.** Students generated and interpreted AI feedback in association with rubrics, lecture notes, discussion boards and educator comments, so each source altered the meaning of the others rather than being interchangeable.
+2. **Students preferred educator judgment but often could not reach it.** They privileged comments from educators they had relationships with, and one student described booking a meeting that took over a month and never happened, ending in a few email bullet points.
+3. **AI functioned as a holding pattern under time pressure.** Rather than wait for human responses, students continued substantial work with AI output and asked on the discussion board in parallel, editing later if the AI had misled them.
+4. **AI was used to translate thin human feedback.** One student pasted a generic set of comments into a chatbot to work out what to do differently next time, and described reaching a better understanding of what the educator had meant.
+5. **Its presence made peer feedback look suspect.** One student said she no longer trusted peers' discussion board comments because they had probably had AI write the answers, illustrating a loss of faith in peer feedback as a channel.
+6. **Educators were cautious and mostly at pilot stage.** Their caution was about ceding authority to general-purpose AI, and one institutional trial where students prompted the tool and received finished answers rather than commentary on their own work.
+7. **AI both increased educator workload and produced distance.** Commenting on longer AI-assisted submissions took more time without efficiency gains, and the authors sensed growing distance between staff and students.
+
+## Why time is the hinge
+
+Temporality runs through the analysis. AI output is privileged because it arrives immediately, and the authors note that speed can descend into diminished quality when efficiency is over-prioritized. That trade is unevenly available: students with lives that make it hard to reach the preferred [[teacher-role|teacher feedback]] are the ones most likely to accept the efficient option, which is why the paper treats timing as an [[equity-in-ai-education|equity]] question and not only a matter of convenience. Time also changed on the educator side, where AI-assisted submissions lengthened grading without easing it, and where the significant investment required to rework feedback practices with AI competes with everything else. Set against that, the students who gave two hours to a workshop about improving their own feedback practice suggest feedback work is not only instrumental: for some it is time invested in a meaningful relation.
+
+## Human-as-the-loop, not human-in-the-loop
+
+The automated feedback literature proposes a human-[[human-ai-collaboration|in-the-loop]] who oversees and amends machine-generated comments, and that framing now runs through AI assessment work. The authors argue it is insufficient because current systems address outputs rather than learning trajectories: an AI provides instant information about a task, while an educator relates, challenges and evaluates a learner against a trajectory over time. Their alternative puts people in the business of helping other people build stronger feedback relationships, whether educator, a longitudinal cohort of peers, or students managing their own network of sources as a form of [[feedback-literacy]]. The paradox they draw out is that concentrating on the whole ecosystem brings the teacher back into relief rather than displacing them: educators introduce students to feedback relations, use assessment design to create immediately useful ones, and can point to relationships beyond the course. Peer or family relations can serve the same function, which matters because professionals rely on a feedback community long after university.
+
+## What this means for practice
+
+- **Instructors.** Ask what a feedback source is doing in a student's network rather than whether it can substitute for your comments, and design assessments so that the relations you want students to have are immediately useful.
+- **Assessment designers and professionals.** Treat rubric clarity and the availability of human response as part of the same system: thin or late human comments push students toward AI, and the same students have the least room to wait.
+- **Researchers.** The ecosystem frame is offered as a sensitizing concept for qualitative work, so studies that record only one actor's experience will miss the shifts in relations reported here.
+
+## Limitations
+
+- The study is exploratory with a limited participant pool from a single institutional context: 12 students and 18 educators from one university attending workshops on AI and feedback.
+- Participants self-selected through interest in AI and feedback, so students and educators who avoid AI may hold different views.
+- The authors state explicitly that the ecosystem conceptualization did not emerge inductively from the data and is not wholly original, even though the analysis itself was inductively derived.
+
+## Connected Concepts
+
+- [[feedback]]
+- [[feedback-literacy]]
+- [[formative-assessment]]
+- [[human-ai-collaboration]]
+- [[teacher-role]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[self-regulated-learning]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[care-full-feedback-genai]] — feedback encounters as matters of care when generative AI mediates them
+- [[teachingcoach-chatbot-instructor-guidance]] — a chatbot built to give instructors feedback on their own teaching
+- [[access-not-enough-ai-tutoring-2026]] — human support as the condition for engagement with AI tutoring
+- [[feedback-futures-genai]] — what human and GenAI feedback capacities can and cannot reach
+- [[genai-teacher-feedback-comparison]] — student perceptions of usefulness and trust in AI versus teacher feedback
+
+## Citation
+
+Bearman, M., Corbin, T., Walton, J., Tai, J., Nieminen, J. H., Dawson, P., Crawford, N., & Boud, D. (2026). [How artificial intelligence transforms the feedback ecosystem in higher education](https://doi.org/10.1080/02602938.2026.2730625). *Assessment & Evaluation in Higher Education*. Advance online publication.
+
+---
+
 ## [Making AI-Generated Feedback Matter: From Provision to Student Enactment](https://edtechdev.github.io/aied/articles/ai-feedback-enactment-workflow-2026/)
 
 > **Synthesis:** Alsaiari et al. (2026) report a large-scale quasi-experimental sequential cohort study (13,037 students; 51,296 student-authored resources; 70 course offerings) comparing three AI-mediated feedback workflows implemented in the RiPPLE platform. Students in the **Enacted Feedback** condition — prompted to select feedback suggestions, evaluate their relevance, and engage in targeted AI dialogue anchored to those selections — showed significantly higher uptake of AI-generated feedback (26.2% estimated probability) than **Directed Feedback** (14.1%) or **[[self-directed-learning|Self-Directed]] Feedback** (0.1%), along with higher self-assessment confidence and submitted-work quality. The finding positions **student enactment**, not comment quality, as the decisive variable in [[ai-feedback-quality|AI feedback]], connecting to [[feedback|Feedback Loop]], [[feedback-literacy]], [[self-regulated-learning]], and [[human-ai-collaboration]] [[research-methods-aied|research]].
@@ -36183,6 +36271,72 @@ The paper adds two under-discussed requirements to that workflow. The first is t
 ## Citation
 
 Fong, Y., Xiang, J., Chan, T.-Y. D., Lee, K., & Lau, E. Y. H. (2026). [*I code or AI code: A comparative evaluation of AI-rated scores in classroom observations*](https://arxiv.org/abs/2609.18274). arXiv preprint arXiv:2609.18274.
+
+---
+
+## [AI refusal in higher education: the right to refuse, the duty to understand and the diagnostic value of non-use](https://edtechdev.github.io/aied/articles/ai-refusal-higher-education-diagnostic-non-use-2026/)
+
+> **Synthesis:** Zagami argues that refusal deserves to be treated as evidence rather than as a problem to be corrected. Refusal in higher education is not one behavior: a student declining a chatbot for assessed writing, a course team prohibiting it for unaided reasoning, an academic refusing to delegate formative judgment to automated feedback, staff resisting automated triage in student support, and a university delaying procurement are different relations to different systems, and the paper insists they be read separately. Its central distinction is between private refusal, which should be protected, and role-based refusal, which carries a duty to justify non-use where AI materially shapes learning, teaching, assessment, research, administration or governance. Crucially, that duty is not a requirement to adopt: understanding includes the capacity to reject, restrict, audit and critique, so [[ai-literacy]] has to cover deciding when a system should not be used. Where AI is infrastructural, refusal cannot be an individual opt-out at all, and it moves to procurement, audit and contestability.
+
+## Key Findings
+
+1. **Refusal and non-use are not the same thing.** Non-use may come from lack of access, confidence, time or training, while refusal is a decision that use conflicts with a value, responsibility or purpose, so a reported refusal rate conflates stances that call for different institutional responses.
+2. **Outright student non-use is rare in the evidence cited.** A 2025 HEPI/Kortext survey of 1,041 UK undergraduates found 92% had used AI tools and 88% had used [[generative-ai]] tools for assessment-related purposes, which is near-normalization rather than mature adoption.
+3. **Faculty refusal is more substantial than student refusal.** Shata's 2025 study of 294 full-time faculty at two mid-sized U.S. public universities found 33.6% reported not using generative AI, with reasons spanning readiness, value, professional identity and perceived threat to human intelligence.
+4. **The duty to understand applies to roles, not persons.** A teacher educator preparing graduates for AI-mediated schools, a researcher using AI-enabled search, professional staff working inside AI-enabled support systems and leaders approving procurement all have to understand systems they may personally avoid.
+5. **Refusal is one of the most important forms of AI literacy.** Understanding includes rejecting, restricting and auditing, so the serious question is not whether someone uses AI but whether they can justify their relation to it against the purpose, context and consequences of the work.
+6. **The right to refuse is unevenly distributed.** Students with academic confidence can refuse without penalty while students needing language, accessibility or rapid-feedback support experience refusal as lost opportunity, and secure academics can refuse on principle while casual staff feel pressure to adopt.
+7. **Institutional delay is part of the same picture.** Uneven governance rather than simple refusal shows up in partial adoption and incomplete policy for assessment, admissions and disciplinary processes, where the risk is treating technological intensity as educational improvement.
+
+## What refusal is diagnosing
+
+The paper's contribution is interpretive. Where students refuse, universities are prompted to ask whether rules, assessment design or support are unclear, or whether students are defending a meaningful relation to learning. Where students use AI covertly, the questions turn to whether [[assessment-validity]] holds, whether workload is excessive and whether policy has produced fear instead of learning. Where academics refuse, the questions concern professional agency, workload and scholarly craft; where professional staff resist, management is asked what those staff can see about procedural fairness, confidentiality and care. Refusal becomes [[agency]] exercised in a specific institutional setting rather than a technical deficit, and the diagnostic frame sits alongside the growing body of work on why students and staff decline or delay AI in ways their institutions do not anticipate.
+
+## Why the ethical field is wider than integrity
+
+Zagami argues that the usual higher education debate, focused on academic integrity, hallucination, privacy and authorship, is necessary but not sufficient. A fuller account of AI refusal also attends to how systems are built: energy-intensive computation, data-center infrastructure, mineral and water use, and the hidden human labor of data labeling, content moderation and maintenance, along with the appropriation of creative and scholarly work into training data. Citing Crawford on AI as extractive infrastructure, Bender and colleagues on the scale of environmental and social cost, and Gray and Suri on ghost work, the paper holds that these concerns widen the field of decision rather than settling it in favor of blanket refusal. Where a university asks students or staff to use AI, it should be able to explain what is known and not known about data practices, labor dependencies, environmental cost, security risks and alternatives. This is where equity enters: those conditions fall hardest on the people with the least room to refuse.
+
+## What this means for practice
+
+- **Instructors.** Provide non-AI pathways where AI use is not essential to the learning outcome, and say plainly what each task is meant to evidence, so that refusing a tool does not mean refusing the learning.
+- **Academic developers.** Treat refusal as part of AI capability rather than a deficit: the training aim is defensible judgment about using, restricting and declining systems, not tool familiarity.
+- **Administrators and institutions.** Preserve human review, contestability and escalation in administrative AI, and define what AI should not do rather than only how it can be scaled.
+- **Policymakers and program leaders.** Make refusal practically possible through clear alternatives, transparent rules, secure tools, workload recognition and protection from covert productivity expectations, since a duty to understand imposed without training or infrastructure becomes hidden workload.
+
+## Limitations
+
+- This is a Comment piece: it develops a conceptual and diagnostic category and explicitly does not measure refusal prevalence or review the literature systematically.
+- The sector evidence is indicative and drawn from studies with different populations and methods, which the paper says should not be read as comparable measures of a single refusal rate.
+- The vocabulary of private refusal, principled role-based non-use, bounded use and compulsory adoption is proposed rather than tested, so how well it holds up against institutional practice is an open question.
+
+## Connected Concepts
+
+- [[ai-literacy]]
+- [[agency]]
+- [[equity-in-ai-education]]
+- [[academic-integrity]]
+- [[governance]]
+- [[educational-policy-ai]]
+- [[change-management]]
+- [[assessment-validity]]
+- [[ai-detection]]
+- [[privacy]]
+- [[sustainability]]
+- [[critical-thinking]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[generative-refusal-ai-tools-for-thought]] — refusal as a design relation between writers and AI tools for thought
+- [[paternalistic-filter-llm-history-education]] — differential refusal and epistemic injustice in LLM-mediated history education
+- [[guarded-adoption-genai-higher-education-2026]] — guarded adoption as the middle ground between uptake and resistance
+- [[becker-chatgpt-typology-physics-2026]] — pragmatic users and skeptical nonusers as a typology of adoption
+
+## Citation
+
+Zagami, J. (2026). [AI refusal in higher education: The right to refuse, the duty to understand and the diagnostic value of non-use](https://doi.org/10.1080/07294360.2026.2694409). *Higher Education Research & Development, 45*(7), 2287-2294.
 
 ---
 
@@ -107887,6 +108041,67 @@ Wei, Y., & Perkins, M. (2026). [*Generative AI and student collaboration: A scop
 ## Citation
 
 Weidlich, J., Gašević, D., Drachsler, H., & Kirschner, P. A. (2025). [ChatGPT in Education: An Effect in Search of a Cause](https://doi.org/10.1111/jcal.70105). *Journal of Computer Assisted Learning, 41*(5), e70105.
+
+---
+
+## [Which inference is at risk? Assessment validity reasoning and generative AI](https://edtechdev.github.io/aied/articles/weidlich-inference-at-risk-assessment-validity-2026/)
+
+> **Synthesis:** Weidlich argues that generative AI has not created one assessment problem but several that debate collapses together, and that treating them as academic integrity misses what is actually at stake: the meaning of the evidence. Working from Kane's argument-based validity, he sets out a case where a student submits a strong take-home essay and then performs poorly in a supervised oral explanation, and shows that the discrepancy alone cannot tell you what capability the essay now evidences, whether the score reflects tool access or marker response, how much of the work belongs to the student, or what decision the combined evidence can justify. From there he separates five pressures on the inference chain, offers a five-step redesign sequence that starts with specifying the intended claim and the AI conditions, and gives a Validity Reasoning Matrix that links each concern to a threatened inference, a design question and the local evidence needed.
+
+## Key Findings
+
+1. **The same symptom admits several diagnoses.** A gap between an AI-permitted essay and a supervised oral establishes neither misconduct nor competence: it can indicate [[academic-integrity|construct underrepresentation]], [[assessment-validity|construct-irrelevant variance]], an attribution problem, a mismatch between performances, or an unclear rule for combining evidence.
+2. **AI use is not automatically a threat to validity.** If the construct is AI-supported professional judgment, tool use is germane to it; if the construct is unaided disciplinary reasoning, the same use bypasses the target performance, so construct and AI conditions must be specified together.
+3. **Detection adds construct-irrelevant variance rather than removing it.** Detector performance varies across tasks, disciplines and model versions, and disclosed or suspected AI use can act as a biasing cue for markers, so a security response can contaminate score meaning and fairness.
+4. **Authorship is not the same as ownership of meaning.** Because AI assistance is iterative and interwoven with drafting, who produced the words explains less than what claim the performance warrants, shifting the task from policing provenance to gathering complementary evidence of understanding.
+5. **Valid under one set of conditions does not mean valid under another.** An AI-supported coursework score may not support claims about independent competence, and an AI-restricted exam may underrepresent the capability that responsible AI use in professional settings requires.
+6. **A defensible interpretation does not justify every decision.** Even a bounded, well-supported claim may be insufficient for progression, certification or selection, which requires separate warrants for thresholds, weighting and the resolution of inconsistent results.
+7. **Redesigns trade one validity pressure for another.** Oral defenses can improve attribution while reducing reliability or accessibility, and authentic tasks can improve extrapolation while complicating scoring, so responses should be chosen for the inference they strengthen and checked for what they weaken elsewhere.
+
+## The redesign sequence and the matrix
+
+The practical contribution is a five-step sequence: specify what a high score means, specify the AI conditions under which that interpretation should hold, locate the vulnerable inference by asking which warrant the concern calls into question, choose a design response while checking what it changes elsewhere in the chain, and identify what local evidence the stakes require. Proportionality governs the last step, with low-stakes formative tasks needing condition statements, exemplars and modest monitoring, while progression, award and certification decisions need secure complementary tasks, moderation, an explicit mapping between outcomes and the assessment mix, and a review of equity effects. The same matrix works at both levels: an instructor uses it to decide whether a task needs redesign, extra attribution evidence or clearer conditions, while a program can see whether a curriculum leans too heavily on polished take-home products. Applied to one case-analysis essay, it yields different redesigns for independent reasoning, AI-supported analysis, writing fluency, capability in target settings and formative use.
+
+## Where authenticity fits
+
+Weidlich also repositions authenticity, which is often treated as either a competing principle to validity or a property that protects a task from AI. In this account authenticity is backing for particular inferences, especially domain representation and extrapolation: an assessment is authentic to the extent that it samples relevant features of the target practice under defensible conditions in a way that supports the intended interpretation and use of the score. That makes authenticity a claim needing warrant rather than a label that settles the argument, and explains why tasks can be authentic in scenario yet weak in [[critical-thinking|attribution]] evidence, or faithful to current practice yet misaligned with educational aims. Consequences and incentives are handled as a cross-cutting design consideration rather than a separate inference, because a regime that rewards polished products over defensible reasoning has an incentive problem before it has a misconduct problem, and because measures introduced for security can change anxiety, accessibility, workload and trust.
+
+## What this means for practice
+
+- **Instructors.** Write the claim and the AI conditions before choosing a task, and check each redesign for the inference it weakens rather than assuming that restriction solves the problem.
+- **Assessment designers and professionals.** Use complementary evidence of the student's own control over AI-assisted work, such as justified recommendations, source-use explanations or a focused follow-up, instead of relying on provenance or detection.
+- **Administrators.** Match the strength of local validation to the stakes, and treat equity effects of new controls as part of justification rather than an afterthought.
+- **Program teams.** Audit the assessment mix for over-reliance on one kind of evidence, and ground high-stakes decisions in multiple sources rather than a single data point.
+
+## Limitations
+
+- The argument is conceptual and design-oriented: the author states that the proposed validity reasoning approach is not a validated protocol and its practical value should be examined empirically.
+- Whether educators and program teams can apply the matrix consistently, make better redesign decisions with it, and gather the evidence it asks for under ordinary workload constraints is untested.
+- The framework can structure disciplinary deliberation but cannot determine whether AI-supported performance should be central, peripheral or restricted in a given field, and AI condition statements may be misunderstood or experienced as shifting responsibility onto students.
+
+## Connected Concepts
+
+- [[assessment-validity]]
+- [[academic-integrity]]
+- [[ai-detection]]
+- [[critical-thinking]]
+- [[ai-literacy]]
+- [[equity-in-ai-education]]
+- [[governance]]
+- [[generative-ai]]
+- [[llm]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — coauthorship integrity as a reconceptualization of assessment validity
+- [[roe-assessment-twins-2026]] — assessment twins as a way to strengthen validity in the generative AI era
+- [[beyond-detection-authentic-assessment-ai-2025]] — redesigning authentic assessment rather than policing detection
+- [[mohamed-temimi-assessment-imperfect-information-disclosure-2026]] — assessment design under imperfect information about AI use
+
+## Citation
+
+Weidlich, J. (2026). [Which inference is at risk? Assessment validity reasoning and generative AI](https://doi.org/10.1080/02602938.2026.2734795). *Assessment & Evaluation in Higher Education*. Advance online publication.
 
 ---
 
