@@ -54,6 +54,8 @@ collections:
       - { name: created, widget: hidden }
       - { name: updated, widget: hidden }
       - { name: type, widget: hidden }
+      # The paper's own publication date, distinct from created (the ingestion date)
+      - { name: published, label: Published, widget: string, required: false, hint: "Date the PAPER was published: YYYY-MM-DD, YYYY-MM or YYYY. Never invent a day; leave blank if unknown." }
       # tags must be real concept slugs (enforced by src/content.config.ts)
       - name: tags
         label: Tags

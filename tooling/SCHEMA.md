@@ -27,6 +27,7 @@ frontmatter are ignored at build time, so keep to this list.
 title: Page Title
 created: "YYYY-MM-DDTHH:MM:SS±HH:MM"
 updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"
+published: "YYYY-MM-DD"                # articles only, optional: the PAPER's publication date
 type: article | concept | faq
 confidence: high | medium | low        # how well-supported the claims are
 sources: [raw/papers/source-name.md]   # articles only
@@ -148,7 +149,8 @@ other FAQs.
 **`created` / `updated` MUST store full quoted date+time timestamps** (e.g. `"2026-08-16T20:47:13-04:00"`), never bare dates. Reasons:
 - The right sidebar ("Recently Added Articles" / "Recently Updated Concepts") and RSS sort by these fields via **string comparison** — date-only values tie within a day and fall back to alphabetical order. Full timestamps give correct reverse-chronological ordering.
 - YAML parses an *unquoted* ISO timestamp into a JS `Date` in UTC, shifting an Eastern-evening value to the next calendar day. **Always quote** the value so the schema preserves the original string.
-- `created` should be the wiki ingestion date (with time), NOT the paper's publication date — Recent Articles and the journal sort by it.
+- `created` should be the wiki ingestion date (with time), NOT the paper's publication date — Recent Articles and the journal sort by it. The paper's own date goes in **`published`**.
+- **`published` (articles only, optional)** records when the paper was published, so a page can be dated honestly: an older paper ingested today shows `published 2025-11-04 · added 2026-09-20` in the page header, and the JSON-LD `ScholarlyArticle` carries the paper's real date instead of the ingestion year. Precision follows the source: `YYYY-MM-DD` when the PDF or arXiv line gives a day, `YYYY-MM` for a month-only journal issue, `YYYY` when only the year is known — never invent a day. It is a plain string (bare dates are fine and preferred); any other shape fails the build. It is NOT used for sorting, so leave it off a page rather than guessing.
 - When you make a **significant body edit** to a page (not just frontmatter or Connected Articles/Concepts lists), bump `updated` to the current date+time and rebuild so the sidebar refreshes.
 
 Pages **display** date-only everywhere (article/concept page headers, sidebar) via `.split('T')[0]`; the time is stored internally for sorting only.
