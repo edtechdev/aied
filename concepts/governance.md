@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-20T08:15:50-04:00"
+updated: "2026-09-21T08:08:32-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -63,6 +63,8 @@ AI governance operates at two levels the knowledge base treats together: the *in
 
 A central arena of AI governance is **how institutions govern assessment** — the rules that determine what counts as acceptable AI use, how AI-assisted work is declared, and how summative measures are safeguarded. This includes the design and enforcement of [[ai-use-disclosure|AI use and disclosure statements]]: research shows that mandatory declarations fail when they feel punitive or ambiguous ([[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves 2025]], [[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. 2026]]), and that clear, consistent, trust-based policy is what actually fosters disclosure. The knowledge base's research distinguishes between *detection-based* governance (policing AI use, e.g., via [[ai-detection]]) and *design-based* governance (redesigning [[summative-assessment|summative]] and [[authentic-assessment|authentic]] assessment so AI use is expected, declared, and scrutinized). [[genai-assessment-governance|Evidence-centered governance of generative AI in assessment]] and [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] argue that governance must pair any detection with assessment redesign, while the choice of AI-resistant summative formats (oral exams, proctored/closed-book measures, code-review interviews — see [[summative-assessment]]) is itself a governance decision. Large-scale evidence [[stromberg-generative-ai-learning-penalty-secondary-2026|(Strömberg, Lei, & Wu 2026)]] underscores the importance of governing summative measures, since ungoverned homework can be inflated by AI while actual learning declines. The scope of a prohibition is itself a governance decision: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that rules barring "generative AI" without distinguishing generation from format conversion capture assistive transcription tools and turn policy misapplication into misconduct allegations, burdening disabled and [[equity-in-ai-education|equity]]-exposed students — a governance failure that [[legal-issues-and-risks|legal issues and risks]] treats as an equalities question as much as an integrity one.
 
+Evidence that [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026)]] gathers from high-stakes arenas points to uneven governance rather than simple refusal: partial adoption and incomplete policy in assessment, admissions and disciplinary processes, with institutional delay operating as a governance stance rather than a failure. The institutional task is to interpret refusal well enough to improve governance, asking which decisions require human review, which systems require audit, which uses require disclosure, and which procurement choices require public justification. [[weidlich-inference-at-risk-assessment-validity-2026|Weidlich (2026)]] adds the assessment-specific corollary: detector scores are conditional probabilistic signals that cannot by themselves establish misconduct, so detection-centered governance is an insufficient basis for defending assessment claims.
+
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The knowledge base's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
@@ -116,11 +118,13 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[vetter-hidden-cost-disclosure-genai-2026]] — The hidden cost of disclosure
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Student AI disclosure, stigma, and self-regulated learning
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — How students use and hide AI in online assessments
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk: assessment validity reasoning and generative AI (Weidlich 2026)
 - [[ai-adaptation-gap-higher-education-2026]] — The AI Adaptation Gap in Higher Education
 - [[crompton-governing-genai-higher-ed-delphi-2026]] — Global Delphi on GenAI governance and policy
 - [[qian-governing-genai-higher-ed-policy-2026]] — Governance by guidance: instructor-set syllabus rules and a four-unit support ecosystem across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — Faculty governance, instructor discretion and periodic review in law school GenAI policy (Gutowski & Hurley 2025)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive "AI" prohibitions, format conversion and the reasonable-adjustment problem (Wright 2026)
+- [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as evidence: uneven governance, the duty to understand and the diagnostic value of non-use (Zagami 2026)
 - [[baroudi-anticipatory-governance-ai-higher-ed-2026]] — Anticipatory governance and leadership for AI
 - [[adarkwah-genai-unesco-policy-2026]]
 - [[enright-staff-perspectives-genai-2026]]

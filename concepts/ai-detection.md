@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-21T08:08:19-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -49,6 +49,8 @@ Research consistently cautions against standalone reliance on detection:
 The most recent empirical evaluations make those error rates concrete rather than generic. [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge and Mesbah (2026)]] ran Turnitin and Originality over a balanced 192-text corpus of genuine EFL coursework, professional writing, AI output, and 50/50 hybrids: macro accuracy reached only 0.69 and 0.61, both fell below a macro F1 of 0.55, and both were effectively useless on the hybrid texts (Originality's sensitivity 0.02), with accuracy dropping significantly as texts lengthened and again on scientific writing, plus a borderline-significant tendency to misclassify legitimate EFL student work. [[van-vlasselaer-ai-detector-reliability-2026|Van Vlasselaer, Van Droogenbroeck and Spruyt (2026)]] tested four commercial tools against a ground-truth-controlled corpus of 160 master's theses: three of them (Turnitin, GPTZero, Copyleaks) failed almost completely on fully AI-generated papers, while only Pangram performed convincingly — and when applied to 1,163 genuinely submitted theses it flagged 45.5% of them, a figure the authors insist is not a prevalence rate because live submissions have no ground truth. Both studies land on the same procedural conclusion: a detector score can prompt closer review, but it is not a finding.
 
 The definitional and procedural problems sit alongside the statistical ones. [[wright-transcription-not-generation-2026|Wright (2026)]] argues that blanket prohibitions on "AI use" are drafted around platform identity rather than function, so they capture non-generative format conversion — speech-to-text transcription, OCR, plain text to LATEX — along with the generative drafting they mean to bar; because detectors read low-perplexity writing as machine authorship, the resulting false positives fall hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] reaches the design-side version of the same conclusion, positioning detection as a supplementary layer of integrity infrastructure at most, since it asks whether GenAI was used rather than how decisions were made.
+
+Detection research also carries a validity argument that outlasts questions of accuracy. Weidlich (2026) treats detector output as a conditional, probabilistic signal that may prompt further inquiry but cannot by itself establish misconduct or competence, which makes detection-centred governance an insufficient basis for upholding [[assessment-validity|assessment validity]]. Classification performance varies systematically across tools, task types, disciplines, model versions and human-AI editing practices, with formulaic STEM writing especially susceptible to algorithmic bias. Attempts to restore assessment security through detection then risk introducing construct-irrelevant variance, threatening fairness and the interpretation of scores.
 
 ## Why not to use (or try to use) AI detectors
 
@@ -123,3 +125,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[munoz-misconduct-allegation-evidence-2026]] — Detector output is the weakest-rated evidence type in 1,162 real misconduct case files
 - [[wright-transcription-not-generation-2026]] — Blanket "AI use" rules conflate transcription with generation
 - [[sharma-judgment-visible-genai-assessment-2026]] — Detection demoted to a supplementary layer behind visible judgment
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Detection as a conditional signal, and why security responses add construct-irrelevant variance (Weidlich 2026)
