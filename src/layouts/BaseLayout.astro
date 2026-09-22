@@ -15,7 +15,7 @@ import { localeDir, hasTranslation, DEFAULT_LOCALE } from '../i18n/config';
 import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { strings } from '../i18n';
-import { TRANSLATED_ROUTES, localeHref, localizeHref, translationMapFrom } from '../i18n/config';
+import { TRANSLATED_ROUTES, localeHref, localizeHref, setTranslationMap, translationMapFrom } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
 import 'katex/dist/katex.min.css';
@@ -49,6 +49,9 @@ const pageRoute = route ?? (routeFromUrl === '/' ? '/' : routeFromUrl);
 // counterparts in the other languages and an untranslated page does not.
 const translations = await getCollection('translations');
 const translationMap = translationMapFrom(translations as any);
+// Publish it before anything renders: the link helpers consult it, so a link in
+// authored copy to a translated content page moves into the locale with the page.
+setTranslationMap(translationMap);
 
 // The language switcher is offered where a translation is meaningful: the three
 // page-level routes and the concept, FAQ and resource pages. Article pages are
@@ -1368,7 +1371,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 
         <div class="sidebar-panel" id="sidebar-panel-concepts" role="tabpanel" data-sidebar-panel="concepts">
           <div class="sidebar-heading">
-            <a href="/aied/concepts/ai-education/">{chrome.umbrellaConcept}</a>
+            <a href={localizeHref('/aied/concepts/ai-education/', locale)}>{chrome.umbrellaConcept}</a>
             <span class="sidebar-count">{fill(chrome.countConcepts, { count: indexedCount })}</span>
           </div>
           {conceptIndex.map((section, si) => (
@@ -1383,7 +1386,7 @@ const recentConceptItems = recentConcepts.map(c => ({
                       <div class="nav-group-label">{group.label}</div>
                       <ul class="nav-list">
                         {items.map(slug => (
-                          <li><a href={`/aied/concepts/${slug}/`}>{conceptMap[slug]}</a></li>
+                          <li><a href={localizeHref(`/aied/concepts/${slug}/`, locale)}>{conceptMap[slug]}</a></li>
                         ))}
                       </ul>
                     </div>
@@ -1396,7 +1399,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 
         <div class="sidebar-panel" id="sidebar-panel-faqs" role="tabpanel" data-sidebar-panel="faqs" hidden>
           <div class="sidebar-heading">
-            <a href="/aied/faq">{chrome.frequentlyAskedQuestions}</a>
+            <a href={localizeHref('/aied/faq', locale)}>{chrome.frequentlyAskedQuestions}</a>
             <span class="sidebar-count">{fill(chrome.countFaqs, { count: sidebarFaqs.length })}</span>
           </div>
           <FaqSidebarList faqs={sidebarFaqs} locale={locale} />
@@ -1467,6 +1470,31 @@ const recentConceptItems = recentConcepts.map(c => ({
   <script is:inline>
     import("/aied/pagefind/pagefind-component-ui.js");
   </script>
+  {/* A reader who picked a language last time lands in it: the default-locale home
+      page is the entry point, so it is the one place that reads the stored choice
+      back. Picking English again stores 'en' and stops the redirect. */}
+  {pageRoute === '/' && locale === DEFAULT_LOCALE && (
+    <script is:inline define:vars={{ codes: siteConfig.i18n.locales.map((l) => l.code) }}>
+      (() => {
+        let stored = null;
+        try {
+          stored = localStorage.getItem('aied-locale');
+        } catch {
+          return; // private mode, or storage disabled
+        }
+        if (!stored || stored === 'en' || !codes.includes(stored)) return;
+        try {
+          // once per session, so a deliberate return to the English home page sticks
+          if (sessionStorage.getItem('aied-locale-applied') === stored) return;
+          sessionStorage.setItem('aied-locale-applied', stored);
+        } catch {
+          /* no session storage: the redirect below is still safe, it cannot loop */
+        }
+        location.replace('/aied/' + stored + '/');
+      })();
+    </script>
+  )}
+
   <!-- PWA service worker registration (bundled so the virtual module resolves) -->
   <script>
     // Header row layout. Every control the row can carry stays in it; the ones that
