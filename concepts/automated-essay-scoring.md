@@ -1,7 +1,7 @@
 ---
 title: Automated Essay Scoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -81,3 +81,4 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
 - [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing

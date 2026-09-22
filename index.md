@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-22
 
-Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1357 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
@@ -314,6 +314,7 @@ Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[bloom-aligned-educational-control-llms]] — From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs
 - [[book-level-synthetic-textbook-organization]] — Beyond Rephrasing: Book-Level Organization Improves Synthetic Textbook Data for Mid-Training
 - [[bots-blocks-project-based-robotics-education-2026]] — Bots and Blocks: Presenting a Project-Based Approach for Robotics Education
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 - [[bozkurt-ghost-students-agentic-ai-2026]] — The Devil is in the Details: AI Agents, Ghost Students, and the Crisis of Verified Presence in an Agentic AI World
 - [[brcic-effortless-trap-productive-struggle-2026]] — The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning
 - [[breideband-community-builder-cobi-2026]] — A Feasibility and Implementation Integrity Study of the Community Builder (CoBi): An AI-based Collaboration Support System in K-12 Classrooms
@@ -857,6 +858,7 @@ Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[learner-identity]] — Learner Identity
 - [[learners]] — Learners
 - [[learning-analytics]] — Learning Analytics
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[learning-analytics-to-educational-interventions-2026]] — From Learning Analytics to Educational Interventions: Enhancing Decision-Making and Learning Design
 - [[learning-behavior-background-advantage-ai-ed]] — Learning behavior accounts for background-related advantage in AI-assisted education
 - [[learning-by-chatting-genai-impact]] — Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning
@@ -932,6 +934,7 @@ Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[llm-fallacy-misattribution]] — The LLM Fallacy: Misattribution in AI-Assisted Cognitive Workflows
 - [[llm-feedback-programming-classroom]] — A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming
 - [[llm-formative-feedback-systematic-review-2026]] — LLM-generated formative feedback in education: A qualitative systematic literature review
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - [[llm-grading-self-preference-bias-2026]] — Risks of Using Large Language Models in Grading: LLMs and Humans Prefer LLM-Generated Writing Over Human's but LLMs Show a Stronger Systematic Bias
 - [[llm-handwritten-math-grading]] — Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs
 - [[llm-interaction-depth-task-quality-recall-2026]] — What Students Ask Matters: LLM Interaction Depth, Task Quality, and Immediate Recall in Higher Education
@@ -1110,6 +1113,7 @@ Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Pedagogy first, technology second: Cross-level relationships between teacher professional knowledge and student
 - [[pedlow-genai-selfassessment-2026]] — Raising Ethical Awareness of GenAI Use Through Student Self-Assessment in the Transition to Higher Education
 - [[peer-assessment]] — Peer Assessment
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[penny-transition-network-analysis-efl-writing-2026]] — Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing
 - [[penquiry-pen-based-llm-qa-2026]] — Penquiry: A Pen-based Interactive In-situ Q&A System Leveraging LLMs
 - [[pepper-robot-sign-language-lis-2025]] — Using the Pepper Robot to Support Sign Language Communication

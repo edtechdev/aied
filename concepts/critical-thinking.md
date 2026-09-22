@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -109,3 +109,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
 - [[lftutor-logical-fallacy-education-2026]] — teaching fallacy recognition through structured multi-turn dialogue
 - [[caeai-ai-companions-learning-over-performance-2026]] — learning over performance: what companions should be optimized and measured for
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback

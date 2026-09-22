@@ -1,7 +1,7 @@
 ---
 title: Feedback Literacy
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-21T11:27:36-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -104,4 +104,5 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 

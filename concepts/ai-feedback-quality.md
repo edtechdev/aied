@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -113,3 +113,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

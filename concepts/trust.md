@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -94,3 +94,4 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[trust-in-ai-psychological-profiles-ml-2026]] — Three student profiles in which AI trust tracks resilience and stress rather than demographics (Kumar et al. 2026)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback

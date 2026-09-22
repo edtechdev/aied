@@ -1,8 +1,12 @@
 # Journal
 
-Last updated: 2026-09-22 | Total entries: 1579
+Last updated: 2026-09-22 | Total entries: 1583
 
 ## 2026-09-22
+- 📄 [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
+- 📄 [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
+- 📄 [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
+- 📄 [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 - 🧰 [[gemini-notebook]] — Gemini Notebook
 - 📄 [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - 📄 [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education

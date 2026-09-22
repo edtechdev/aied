@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-09-21T11:27:05-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -114,3 +114,4 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
 - [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
