@@ -47,6 +47,29 @@ const he: HomeStrings = {
   statsHeading: 'מה יש במאגר הידע',
   statsIntro:
     'כל עמוד כאן מתוארך, ומאגר הידע גדל עם פרסומם וסקירתם של מחקרים חדשים בגישה פתוחה. המספרים שלהלן נקראים מהתוכן הנוכחי; התאריך הוא מועד העדכון האחרון של עמוד.',
+  conceptMap: {
+    title: 'מפת מושגים של בינה מלאכותית בחינוך',
+    desc:
+      'מפה רדיאלית שבה בינה מלאכותית בחינוך במרכז, מחוברת לשנים עשר מושגי על: ' +
+      'מידול, למידה, שוויון, משוב, אוריינות AI, הערכה, תחומי דעת, פדגוגיה, ' +
+      'אתיקה, טכנולוגיות, הערכת התערבויות ומחקר. בחירת כל צומת תפתח את העמוד שלו.',
+    navLabel: 'מושגי בינה מלאכותית בחינוך',
+    center: 'בינה מלאכותית בחינוך',
+    nodes: {
+      'student-modeling': 'מידול',
+      'learning-theories': 'למידה',
+      'equity-in-ai-education': 'שוויון',
+      feedback: 'משוב',
+      'ai-literacy': 'אוריינות AI',
+      assessment: 'הערכה',
+      'discipline-specific-aied': 'תחומי דעת',
+      pedagogy: 'פדגוגיה',
+      ethics: 'אתיקה',
+      'ai-technologies': 'טכנולוגיות',
+      'ai-ed-evaluation': 'הערכת התערבויות',
+      'research-methods-aied': 'מחקר',
+    },
+  },
   toc: [
     { text: 'ניווט באתר', slug: 'navigating-the-site', depth: 2 },
     { text: 'שיחה עם מאגר הידע', slug: 'chat-with-the-knowledge-base', depth: 2 },

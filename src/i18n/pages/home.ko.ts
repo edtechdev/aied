@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const ko: HomeStrings = {
@@ -61,6 +69,29 @@ const ko: HomeStrings = {
   statsHeading: '지식베이스에 담긴 내용',
   statsIntro:
     '이곳의 모든 페이지에는 날짜가 붙어 있으며, 새로운 오픈 액세스 연구가 발표되고 검토됨에 따라 지식베이스는 계속 커집니다. 아래 수치는 현재 내용을 기준으로 집계한 것이고, 날짜는 가장 최근의 페이지 갱신일입니다.',
+  conceptMap: {
+    title: '교육에서의 인공지능 개념 지도',
+    desc:
+      '교육에서의 인공지능을 중심으로 열두 개의 최상위 개념이 연결된 방사형 지도입니다: ' +
+      '모델링, 학습, 형평성, 피드백, AI 리터러시, 평가, 전공 분야, 교수법, ' +
+      '윤리, 기술, 검증, 연구. 노드를 선택하시면 해당 페이지가 열립니다.',
+    navLabel: '교육에서의 인공지능 개념',
+    center: '교육에서의 인공지능',
+    nodes: {
+      'student-modeling': '모델링',
+      'learning-theories': '학습',
+      'equity-in-ai-education': '형평성',
+      feedback: '피드백',
+      'ai-literacy': 'AI 리터러시',
+      assessment: '평가',
+      'discipline-specific-aied': '전공 분야',
+      pedagogy: '교수법',
+      ethics: '윤리',
+      'ai-technologies': '기술',
+      'ai-ed-evaluation': '검증',
+      'research-methods-aied': '연구',
+    },
+  },
   toc: [
     { text: '사이트 둘러보기', slug: 'navigating-the-site', depth: 2 },
     { text: '지식베이스와 대화하기', slug: 'chat-with-the-knowledge-base', depth: 2 },

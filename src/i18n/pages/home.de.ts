@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const de: HomeStrings = {
@@ -61,6 +69,30 @@ const de: HomeStrings = {
   statsHeading: 'Was in der Wissensbasis enthalten ist',
   statsIntro:
     'Jede Seite ist datiert, und die Wissensbasis wächst, während neue Open-Access-Forschung veröffentlicht und geprüft wird. Die Zahlen unten stammen aus dem aktuellen Bestand; das Datum ist die jüngste Aktualisierung einer Seite.',
+  conceptMap: {
+    title: 'Konzeptkarte zu KI in der Bildung',
+    desc:
+      'Eine radiale Karte mit KI in der Bildung im Zentrum, verbunden mit zwölf übergeordneten ' +
+      'Konzepten: Modellierung, Lernen, Gerechtigkeit, Feedback, KI-Kompetenz, Assessment, ' +
+      'Fächer, Pädagogik, Ethik, Technologien, Evaluation und Forschung. Wählen Sie einen ' +
+      'beliebigen Knoten aus, um seine Seite zu öffnen.',
+    navLabel: 'Konzepte zu KI in der Bildung',
+    center: 'KI in der Bildung',
+    nodes: {
+      'student-modeling': 'Modellierung',
+      'learning-theories': 'Lernen',
+      'equity-in-ai-education': 'Gerechtigkeit',
+      feedback: 'Feedback',
+      'ai-literacy': 'KI-Kompetenz',
+      assessment: 'Assessment',
+      'discipline-specific-aied': 'Fächer',
+      pedagogy: 'Pädagogik',
+      ethics: 'Ethik',
+      'ai-technologies': 'Technologien',
+      'ai-ed-evaluation': 'Evaluation',
+      'research-methods-aied': 'Forschung',
+    },
+  },
   toc: [
     { text: 'Orientierung auf der Website', slug: 'navigating-the-site', depth: 2 },
     { text: 'Mit der Wissensbasis chatten', slug: 'chat-with-the-knowledge-base', depth: 2 },

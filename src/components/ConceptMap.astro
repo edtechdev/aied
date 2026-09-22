@@ -5,30 +5,45 @@
 // rectangles, larger type, no inter-node lines. On small screens a legible
 // flex-wrap list of the same links is shown instead of the scaled-down SVG.
 
-const center = { slug: 'ai-education', label: 'AI in Education' };
+// Labels arrive as copy from the page (src/i18n/pages/home.<locale>.ts), so the map
+// reads in the active language; the English labels below are the fallback for a
+// locale that has not translated the map yet.
+const { copy } = Astro.props;
+
+const FALLBACK = {
+  title: 'Concept map of AI in Education',
+  desc: 'A radial map with AI in Education at the center, connected to twelve top-level concepts.',
+  navLabel: 'AI in Education concepts',
+  center: 'AI in Education',
+  nodes: {} as Record<string, string>,
+};
+const c = { ...FALLBACK, ...(copy ?? {}) };
+const label = (slug: string, english: string) => c.nodes[slug] ?? english;
+
+const center = { slug: 'ai-education', label: c.center };
 
 // Outer umbrella nodes (concept slug, short display label) — two rings
 const inner = [
-  { slug: 'student-modeling',        label: 'Modeling' },
-  { slug: 'learning-theories',        label: 'Learning' },
-  { slug: 'equity-in-ai-education',   label: 'Equity' },
-  { slug: 'feedback',                 label: 'Feedback' },
-  { slug: 'ai-literacy',              label: 'AI Literacy' },
-  { slug: 'assessment',               label: 'Assessment' },
+  { slug: 'student-modeling',        label: label('student-modeling', 'Modeling') },
+  { slug: 'learning-theories',        label: label('learning-theories', 'Learning') },
+  { slug: 'equity-in-ai-education',   label: label('equity-in-ai-education', 'Equity') },
+  { slug: 'feedback',                 label: label('feedback', 'Feedback') },
+  { slug: 'ai-literacy',              label: label('ai-literacy', 'AI Literacy') },
+  { slug: 'assessment',               label: label('assessment', 'Assessment') },
 ];
 const outer = [
-  { slug: 'discipline-specific-aied', label: 'Disciplines' },
-  { slug: 'pedagogy',                   label: 'Pedagogy' },
-  { slug: 'ethics',                   label: 'Ethics' },
-  { slug: 'ai-technologies',         label: 'Technologies' },
-  { slug: 'ai-ed-evaluation',         label: 'Evaluation' },
-  { slug: 'research-methods-aied',    label: 'Research' },
+  { slug: 'discipline-specific-aied', label: label('discipline-specific-aied', 'Disciplines') },
+  { slug: 'pedagogy',                   label: label('pedagogy', 'Pedagogy') },
+  { slug: 'ethics',                   label: label('ethics', 'Ethics') },
+  { slug: 'ai-technologies',         label: label('ai-technologies', 'Technologies') },
+  { slug: 'ai-ed-evaluation',         label: label('ai-ed-evaluation', 'Evaluation') },
+  { slug: 'research-methods-aied',    label: label('research-methods-aied', 'Research') },
 ];
 
 // geometry
 const CX = 450, CY = 375;
 const RECT_W = 138, RECT_H = 48;
-const FONT = 16, FONT_SMALL = 13;
+const FONT = 16, FONT_SMALL = 13, FONT_TINY = 11;
 
 function ring(ringNodes: typeof inner, radius: number, startDeg: number) {
   const n = ringNodes.length;
@@ -44,8 +59,18 @@ const outerPlaced = ring(outer, 280, 0);
 const allPlaced = [...innerPlaced, ...outerPlaced];
 const spokes = allPlaced.map((p) => ({ x1: CX, y1: CY, x2: p.x, y2: p.y }));
 
+// Labels vary a lot in length once translated (German compounds, Japanese
+// compounds), and the boxes are fixed, so step the type size down rather than
+// letting a long label spill outside its rectangle. Counted in code points so a
+// multi-byte script is not penalised per byte.
+// The center label sits in a 190px box at a fixed size; translated names can be
+// nearly twice the English length, so it steps down too.
+const centerFont = [...center.label].length >= 16 ? 15 : 20;
+
 function labelFont(label: string): number {
-  return label.length >= 16 ? FONT_SMALL : FONT;
+  const n = [...label].length;
+  if (n >= 17) return FONT_TINY;
+  return n >= 12 ? FONT_SMALL : FONT;
 }
 ---
 <!-- Desktop / tablet: radial SVG -->
@@ -57,12 +82,8 @@ function labelFont(label: string): number {
     aria-labelledby="concept-map-title concept-map-desc"
     xmlns="http://www.w3.org/2000/svg"
   >
-    <title id="concept-map-title">Concept map of AI in Education</title>
-    <desc id="concept-map-desc">
-      A radial map with AI in Education at the center, connected to twelve top-level concepts:
-      Modeling, Learning, Assessment, Feedback, AI Literacy, Equity, Disciplines, Pedagogy,
-      Ethics, Technologies, Evaluation, and Research. Select any node to open its page.
-    </desc>
+    <title id="concept-map-title">{c.title}</title>
+    <desc id="concept-map-desc">{c.desc}</desc>
     <!-- background card matching the site's theme -->
     <rect x="0" y="0" width="900" height="750" rx="16" fill="var(--cmap-bg)" />
 
@@ -76,7 +97,7 @@ function labelFont(label: string): number {
       <g class="concept-map-node">
         <rect x={CX - 95} y={CY - 31} width="190" height="62" rx="16" fill="#7dd3fc" />
         <rect x={CX - 95} y={CY - 31} width="190" height="62" rx="16" fill="none" stroke="#0d1418" stroke-width="2" />
-        <text x={CX} y={CY + 7} text-anchor="middle" fill="#0b1220" font-size="20" font-weight="700" font-family="inherit">AI in Education</text>
+        <text x={CX} y={CY + 7} text-anchor="middle" fill="#0b1220" font-size={centerFont} font-weight="700" font-family="inherit">{center.label}</text>
       </g>
     </a>
 
@@ -94,8 +115,8 @@ function labelFont(label: string): number {
 </div>
 
 <!-- Mobile: legible flex-wrap list of the same links -->
-<nav class="concept-map-mobile" aria-label="AI in Education concepts">
-  <a class="concept-map-mobile-item concept-map-mobile-center" href={`/aied/concepts/${center.slug}/`}>AI in Education</a>
+<nav class="concept-map-mobile" aria-label={c.navLabel}>
+  <a class="concept-map-mobile-item concept-map-mobile-center" href={`/aied/concepts/${center.slug}/`}>{center.label}</a>
   {allPlaced.map((p) => (
     <a class="concept-map-mobile-item" href={`/aied/concepts/${p.slug}/`}>{p.label}</a>
   ))}
@@ -119,6 +140,12 @@ function labelFont(label: string): number {
     border-radius: 16px;
     border: 1px solid var(--muted-border-color);
     background: var(--cmap-bg);
+  }
+  .concept-map text {
+    direction: inherit;
+  }
+  :global(html[dir='rtl']) .concept-map text {
+    direction: rtl;
   }
   .concept-map a { cursor: pointer; }
   .concept-map .concept-map-node { transition: opacity 0.15s ease; }

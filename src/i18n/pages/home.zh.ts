@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const en: HomeStrings = {
@@ -61,6 +69,29 @@ const en: HomeStrings = {
   statsHeading: '知识库包含什么',
   statsIntro:
     '这里的每个页面都标有日期，随着新的开放获取研究发表并通过审核，知识库会不断扩充。下面的计数取自当前的内容；日期是最近一次页面更新。',
+  conceptMap: {
+    title: '教育中的人工智能概念图',
+    desc:
+      '一张以教育中的人工智能为中心的辐射状概念图，连接十二个顶层概念：' +
+      '建模、学习、公平、反馈、AI素养、评估、学科、教学法、' +
+      '伦理、技术、评价和研究。选择任意节点即可打开对应页面。',
+    navLabel: '教育中的人工智能概念',
+    center: '教育中的人工智能',
+    nodes: {
+      'student-modeling': '建模',
+      'learning-theories': '学习',
+      'equity-in-ai-education': '公平',
+      feedback: '反馈',
+      'ai-literacy': 'AI素养',
+      assessment: '评估',
+      'discipline-specific-aied': '学科',
+      pedagogy: '教学法',
+      ethics: '伦理',
+      'ai-technologies': '技术',
+      'ai-ed-evaluation': '评价',
+      'research-methods-aied': '研究',
+    },
+  },
   toc: [
     { text: '在站内浏览', slug: 'navigating-the-site', depth: 2 },
     { text: '与知识库对话', slug: 'chat-with-the-knowledge-base', depth: 2 },

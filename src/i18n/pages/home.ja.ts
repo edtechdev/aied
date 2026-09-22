@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const ja: HomeStrings = {
@@ -62,6 +70,29 @@ const ja: HomeStrings = {
   statsHeading: 'ナレッジベースに含まれるもの',
   statsIntro:
     'ここにあるページにはすべて日付が付いており、新しいオープンアクセス研究が発表・レビューされるにつれてナレッジベースは成長します。以下の件数は現在の内容から読み取ったもので、日付は最も新しいページ更新日です。',
+  conceptMap: {
+    title: '教育におけるAIの概念マップ',
+    desc:
+      '教育におけるAIを中心に据え、12の最上位概念：' +
+      'モデリング、学習、公平性、フィードバック、AIリテラシー、評価、専門分野、教授法、' +
+      '倫理、技術、検証、研究をつないだ放射状のマップです。任意のノードを選ぶと、そのページが開きます。',
+    navLabel: '教育におけるAIの概念',
+    center: '教育におけるAI',
+    nodes: {
+      'student-modeling': 'モデリング',
+      'learning-theories': '学習',
+      'equity-in-ai-education': '公平性',
+      feedback: 'フィードバック',
+      'ai-literacy': 'AIリテラシー',
+      assessment: '評価',
+      'discipline-specific-aied': '専門分野',
+      pedagogy: '教授法',
+      ethics: '倫理',
+      'ai-technologies': '技術',
+      'ai-ed-evaluation': '検証',
+      'research-methods-aied': '研究',
+    },
+  },
   toc: [
     { text: 'サイトの見方', slug: 'navigating-the-site', depth: 2 },
     { text: 'ナレッジベースとチャットする', slug: 'chat-with-the-knowledge-base', depth: 2 },
