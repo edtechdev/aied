@@ -1,4 +1,5 @@
 ---
+import { strings } from '../i18n';
 /**
  * PrevNextNav.astro — previous/next pagination shown at the foot of pages that
  * participate in the linear reading order (home, use-with-AI, concepts, FAQs).
@@ -14,22 +15,26 @@ interface Props {
   items: NavItem[];
   /** The current page's path (e.g. Astro.url.pathname). */
   currentUrl: string;
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
 
-const { items, currentUrl } = Astro.props;
+const { items, currentUrl, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
 const cur = normalizePath(currentUrl);
 const idx = items.findIndex((i) => normalizePath(i.url) === cur);
 
 const prev = idx > 0 ? items[idx - 1] : null;
 const next = idx >= 0 && idx < items.length - 1 ? items[idx + 1] : null;
 ---
+---
 
 {
   prev !== null || next !== null ? (
-    <nav class="prevnext" aria-label="Page navigation">
+    <nav class="prevnext" aria-label={chrome.pageNavigation}>
       {prev !== null ? (
         <a class="pn-cell pn-prev" href={prev.url} rel="prev">
-          <span class="pn-caption" aria-hidden="true">←&nbsp;Previous</span>
+          <span class="pn-caption" aria-hidden="true">←&nbsp;{chrome.previous}</span>
           <span class="pn-title">{prev.label}</span>
         </a>
       ) : (
@@ -37,7 +42,7 @@ const next = idx >= 0 && idx < items.length - 1 ? items[idx + 1] : null;
       )}
       {next !== null ? (
         <a class="pn-cell pn-next" href={next.url} rel="next">
-          <span class="pn-caption" aria-hidden="true">Next&nbsp;→</span>
+          <span class="pn-caption" aria-hidden="true">{chrome.next}&nbsp;→</span>
           <span class="pn-title">{next.label}</span>
         </a>
       ) : (

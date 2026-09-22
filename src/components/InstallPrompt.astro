@@ -13,6 +13,10 @@
  * banner simply never appears there.
  */
 import siteConfig from '../config/siteConfig';
+import { strings } from '../i18n';
+const { locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
+---
 ---
 
 <div class="install-prompt" data-install-prompt hidden>
@@ -20,10 +24,10 @@ import siteConfig from '../config/siteConfig';
     <span class="ip-icon" aria-hidden="true">📲</span>
     <div class="ip-text">
       <span class="ip-title">Install the {siteConfig.shortName} app</span>
-      <span class="ip-sub">Add to your home screen for offline access.</span>
+      <span class="ip-sub">{chrome.installHint}</span>
     </div>
-    <button class="ip-install" type="button" data-ip-install>Install</button>
-    <button class="ip-close" type="button" data-ip-close aria-label="Dismiss install prompt">×</button>
+    <button class="ip-install" type="button" data-ip-install>{chrome.install}</button>
+    <button class="ip-close" type="button" data-ip-close aria-label={chrome.dismissInstall}>×</button>
   </div>
 </div>
 

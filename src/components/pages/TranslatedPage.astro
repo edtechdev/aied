@@ -6,6 +6,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import TranslationNotice from '../TranslationNotice.astro';
+import ConnectedList from '../ConnectedList.astro';
 import MetadataTable from '../MetadataTable.astro';
 import SourceButtons from '../SourceButtons.astro';
 import { renderMarkdown } from '../../lib/markdown';
@@ -13,6 +14,7 @@ import { strings } from '../../i18n';
 
 const { entry, locale, pageType } = Astro.props;
 const s = strings(locale).ui;
+const chrome = s.chrome;
 const data = entry.data;
 const slug = entry.id.split('/').pop().replace(/\.md$/, '');
 const translationOf = data.translation_of || `${pageType}/${slug}`;
@@ -21,6 +23,7 @@ const englishPath = `/aied/${translationOf}/`;
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
 const faqs = await getCollection('faqs');
+const resources = await getCollection('resources');
 const titles: Record<string, string> = {};
 [...concepts, ...articles, ...faqs].forEach((c) => {
   titles[c.id.replace(/\.md$/, '')] = c.data.title;
@@ -35,8 +38,23 @@ const rendered = renderMarkdown(entry.body || '', {
   faqSlugs: new Set(faqs.map((f) => f.id.replace(/\.md$/, ''))),
   titles,
 });
+// Connected FAQs and Connected resources come from frontmatter, exactly as they do on
+// the English page, so a translation carries the same sections and TOC entries.
+const byId = new Map(
+  [...faqs, ...resources].map((c) => [c.id.replace(/\.md$/, ''), c] as const),
+);
+const connectedFaqs = (data.connected_faqs || [])
+  .map((id: string) => byId.get(id.replace(/\.md$/, '')))
+  .filter(Boolean);
+const connectedResources = (data.connected_resources || [])
+  .map((id: string) => byId.get(id.replace(/\.md$/, '')))
+  .filter(Boolean);
+
 const toc = rendered.headings.filter((h) => h.depth <= 3);
-const badge = pageType.replace(/s$/, '').toUpperCase();
+if (connectedFaqs.length > 0) toc.push({ text: chrome.metadataLabels.connected_faqs, slug: 'connected-faqs', depth: 2 });
+if (connectedResources.length > 0) toc.push({ text: chrome.metadataLabels.connected_resources, slug: 'connected-resources', depth: 2 });
+const kindLabels: Record<string, string> = { concepts: chrome.concepts, resources: chrome.resources, faqs: chrome.faqs };
+const badge = kindLabels[pageType as string] ?? pageType;
 const createdDisplay = (data.created || '').split('T')[0];
 const updatedDisplay = (data.updated || data.created || '').split('T')[0];
 ---
@@ -51,14 +69,14 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       <p class="page-type-badge">{badge}</p>
       <h1>{data.title}</h1>
       <div class="page-meta">
-        created {createdDisplay}{data.updated ? ` · updated ${updatedDisplay}` : ''}
+        {chrome.metadataLabels.created} {createdDisplay}{data.updated ? ` · ${chrome.metadataLabels.updated} ${updatedDisplay}` : ''}
       </div>
       {pageType === 'resources' && data.url && (
         <p class="resource-line">
           <a href={data.url}>{data.url.replace(/^https?:\/\//, '')}</a>
           {data.author ? ` · ${data.author}` : ''}
           {data.access ? ` · ${(data.access || []).join(', ')}` : ''}
-          {data.last_verified ? ` · last verified ${data.last_verified}` : ''}
+          {data.last_verified ? ` · ${chrome.lastVerified} ${data.last_verified}` : ''}
         </p>
       )}
     </div>
@@ -67,8 +85,29 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       <Fragment set:html={rendered.html} />
     </div>
 
-    <MetadataTable conceptTitles={conceptTitles} data={data} />
-    <SourceButtons filePath={`${locale}/${translationOf}.md`} />
+    <ConnectedList
+      id="connected-faqs"
+      heading={chrome.metadataLabels.connected_faqs}
+      items={connectedFaqs.map((f: any) => ({
+        href: `/aied/faqs/${f.id.replace('.md', '')}/`,
+        title: f.data.title,
+        kind: 'faq' as const,
+      }))}
+    />
+
+    <ConnectedList
+      id="connected-resources"
+      heading={chrome.metadataLabels.connected_resources}
+      items={connectedResources.map((r: any) => ({
+        href: `/aied/resources/${r.id.replace('.md', '')}/`,
+        title: r.data.title,
+        kind: 'resource' as const,
+        summary: r.data.summary,
+      }))}
+    />
+
+    <MetadataTable conceptTitles={conceptTitles} data={data} locale={locale} />
+    <SourceButtons filePath={`${locale}/${translationOf}.md`} locale={locale} />
   </article>
 </BaseLayout>
 

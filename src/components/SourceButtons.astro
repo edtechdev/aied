@@ -1,4 +1,5 @@
 ---
+import { strings } from '../i18n';
 // Muted pill buttons (Source / History / Edit / Chat / Embed) linking to the
 // markdown source of this page in the GitHub repository. Placed at the bottom
 // of article, concept, and FAQ pages, before the site footer. The Embed pill is
@@ -8,7 +9,8 @@
 // the link pills (Astro scoping would not apply the pill style across a separate
 // component). The dialog/script are deliberately placed here so they stay with
 // the button.
-const { filePath } = Astro.props; // e.g. "articles/absent-cognitive-baseline-2026.md"
+const { filePath, locale = 'en' } = Astro.props; // e.g. "articles/absent-cognitive-baseline-2026.md"
+const chrome = strings(locale).ui.chrome;
 const owner = 'edtechdev';
 const repo = 'aied';
 const branch = 'main';
@@ -16,6 +18,7 @@ const base = `https://github.com/${owner}/${repo}`;
 const blob = `${base}/blob/${branch}/${filePath}`;
 const commits = `${base}/commits/${branch}/${filePath}`;
 const edit = `${base}/edit/${branch}/${filePath}`;
+---
 ---
 <div class="source-buttons" style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-top:2.5rem;padding-top:1rem;border-top:1px solid var(--card-border-color);">
   <a class="source-pill" href={blob} target="_blank" rel="noopener noreferrer">
@@ -42,12 +45,12 @@ const edit = `${base}/edit/${branch}/${filePath}`;
 
 <dialog class="embed-dialog" data-embed-dialog aria-labelledby="embed-dialog-title">
   <div class="embed-dialog-inner">
-    <h3 id="embed-dialog-title">Embed this page</h3>
+    <h3 id="embed-dialog-title">{chrome.embedThisPage}</h3>
     <p class="embed-desc">Copy the code below to embed a chromeless version of this page in a learning management system or other website. The embedded view hides the site header, navigation, and footer.</p>
-    <textarea readonly class="embed-code" data-embed-code rows="4" spellcheck="false" aria-label="Embed code"></textarea>
+    <textarea readonly class="embed-code" data-embed-code rows="4" spellcheck="false" aria-label={chrome.embedCode}></textarea>
     <div class="embed-actions">
-      <button type="button" class="source-pill embed-copy" data-embed-copy>Copy code</button>
-      <button type="button" class="source-pill embed-close" data-embed-close>Close</button>
+      <button type="button" class="source-pill embed-copy" data-embed-copy>{chrome.copyCode}</button>
+      <button type="button" class="source-pill embed-close" data-embed-close>{chrome.close}</button>
     </div>
   </div>
 </dialog>

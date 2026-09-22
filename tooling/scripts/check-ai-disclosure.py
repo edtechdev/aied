@@ -45,7 +45,9 @@ WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # Translated content lives in locale folders mirroring the content root; a
 # translated page carries its own ai_assist record (role 'translation').
-LOCALE_DIRS = ('es', 'fr', 'zh')
+# Every locale that can hold translated content pages (site.config.json i18n.locales
+# minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
+LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'ja', 'ko', 'pt', 'zh', 'ar')
 ROLES = {'drafting', 'revision', 'link classification', 'summarization', 'translation', 'none'}
 DEPTHS = {'full text', 'abstract only', 'metadata only'}
 VERIFIED = {'citation', 'numbers', 'quotes', 'links'}
