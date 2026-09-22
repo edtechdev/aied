@@ -6,13 +6,20 @@
 import { LOCALES, switcherEntries, localeLabel } from '../i18n/config';
 import { strings } from '../i18n';
 
-const { locale = 'en', route = '/', translationMap, align = 'right' } = Astro.props;
+const {
+  locale = 'en',
+  route = '/',
+  translationMap,
+  align = 'right',
+  variant = 'button',
+} = Astro.props;
 const ui = strings(locale).ui;
 const entries = switcherEntries(route, locale, translationMap);
 const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
 ---
 
-<div class={`lang-switcher align-${align}`} data-lang-switcher>
+<div class={`lang-switcher align-${align}`} data-lang-switcher data-variant={variant}>
+  {variant === 'button' && (
   <button
     type="button"
     class="lang-toggle"
@@ -29,7 +36,9 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     </svg>
     <span class="lang-code">{current.code.toUpperCase()}</span>
   </button>
+  )}
 
+  {variant === 'button' ? (
   <div class="lang-menu" data-lang-menu hidden role="menu" aria-label={ui.chooseLanguage}>
     <p class="lang-menu-title">{ui.chooseLanguage}</p>
     <ul>
@@ -49,7 +58,29 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
         </li>
       ))}
     </ul>
-  </div>
+    </div>
+  ) : (
+    <div class="lang-inline" role="menu" aria-label={ui.chooseLanguage}>
+      <p class="lang-menu-title">{ui.chooseLanguage}</p>
+      <ul>
+        {entries.map((e) => (
+          <li>
+            <a
+              href={e.href}
+              role="menuitem"
+              class:list={['lang-item', { current: e.current, untranslated: !e.translated }]}
+              aria-current={e.current ? 'true' : undefined}
+              title={!e.translated ? ui.notTranslatedHint : undefined}
+              hreflang={e.code}
+            >
+              <span class="lang-label">{e.label}</span>
+              {!e.translated && <span class="lang-flag">{ui.notTranslated}</span>}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
 </div>
 
 <style>

@@ -11,6 +11,7 @@ import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
 import InstallPrompt from '../components/InstallPrompt.astro';
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, translationMapFrom } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
@@ -710,11 +711,17 @@ const recentConceptItems = recentConcepts.map(c => ({
       button.theme-toggle {
         border-radius: 8px;
       }
-      /* The toolbox icon (added 2026-09-20) pushed the theme toggle off the right
-         edge of an Android phone screen. FAQ is the icon to drop: the toolbar
-         cannot spare search, journal or the toolbox, and FAQ stays one tap away
-         in the sidebar's FAQ tab, the footer nav and the /faq page itself. */
-      .header-icons .header-icon[title="FAQ"] { display: none; }
+      /* FAQ is not in the row any more: it lives in the header's more menu, which
+         also carries the language list and the GitHub link, so the row keeps its
+         six controls at every width without shrinking the icons. */
+      /* Below 420px six controls plus the title do not fit on one line at the
+         current icon size, so tools and journal step into the more menu instead of
+         the row growing a second line or the icons shrinking. */
+      @media (max-width: 419px) {
+        .header-icon.header-icon-narrow-hide {
+          display: none;
+        }
+      }
     }
 
     /* Tablet / narrow-desktop (640–1023px): the full title + search field +
@@ -999,10 +1006,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       max-width: 70rem;
     }
 
-    /* Language switcher: not in the header (it pushed the theme toggle off screen at
-       narrow widths). One instance sits at the top of the right sidebar on tall
-       layouts and one above "On this page" in the content column below that; only
-       one of the two is ever displayed. */
+    /* Language list: at the top of the right sidebar on tall layouts, and in the
+       header's more menu below 1280px, where there is no room for a second column.
+       One place at a time, never both. */
     .lang-switcher-slot {
       margin-bottom: 1rem;
     }
@@ -1012,9 +1018,6 @@ const recentConceptItems = recentConcepts.map(c => ({
     @media (min-width: 1280px) {
       .lang-switcher-slot.lang-switcher-sidebar {
         display: block;
-      }
-      .lang-switcher-slot.lang-switcher-inline {
-        display: none;
       }
     }
 
@@ -1279,14 +1282,7 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
         </a>
-        <a href={localizeHref('/aied/faq', locale)} class="header-icon" title="FAQ" aria-label="FAQ">
-          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-            <circle cx="12" cy="12" r="10"></circle>
-            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
-            <line x1="12" y1="17" x2="12.01" y2="17"></line>
-          </svg>
-        </a>
-        <a href={localizeHref('/aied/resources', locale)} class="header-icon" title="Tools and resources" aria-label="Tools and resources">
+        <a href={localizeHref('/aied/resources', locale)} class="header-icon header-icon-narrow-hide" title="Tools and resources" aria-label="Tools and resources">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
             <path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path>
@@ -1295,7 +1291,7 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
           </svg>
         </a>
-        <a href={localizeHref('/aied/journal', locale)} class="header-icon" title="Journal" aria-label="Journal">
+        <a href={localizeHref('/aied/journal', locale)} class="header-icon header-icon-narrow-hide" title="Journal" aria-label="Journal">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
             <path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"></path>
@@ -1305,6 +1301,15 @@ const recentConceptItems = recentConcepts.map(c => ({
           <svg id="theme-icon-moon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
           <svg id="theme-icon-sun" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
         </button>
+        <HeaderMoreMenu
+          locale={locale}
+          route={pageRoute}
+          translationMap={translationMap}
+          faqHref={localizeHref('/aied/faq', locale)}
+          toolsHref={localizeHref('/aied/resources', locale)}
+          journalHref={localizeHref('/aied/journal', locale)}
+          showLanguage={showSwitcher}
+        />
       </nav>
     </div>
   </header>
@@ -1373,11 +1378,6 @@ const recentConceptItems = recentConcepts.map(c => ({
 
       <!-- Middle: page content -->
       <div class="middle">
-        {showSwitcher && (
-          <div class="lang-switcher-slot lang-switcher-inline">
-            <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} align="left" />
-          </div>
-        )}
         {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
         <slot />
         <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} />
