@@ -9,6 +9,12 @@ ethics: [hallucination-risk, trust-calibration]
 audience: [learners]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, reducing-over-reliance, verify-ai-output, study-with-ai]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: revision
+    date: "2026-09-22"
+    agent: hermes-agent
 ---
 
 > **Trust calibration** — the metacognitive capacity to align one's confidence in an AI system with its actual reliability in a given context, knowing when to trust and when to question its output. Trust calibration is the direct antidote to [[cognitive-offloading|Over-Reliance]]: it is the skill of matching trust to evidence rather than to an AI's confident fluency.

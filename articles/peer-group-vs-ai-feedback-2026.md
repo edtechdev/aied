@@ -19,6 +19,14 @@ source_url: https://doi.org/10.14742/ajet.11467
 sources: ['raw/papers/peer-group-vs-ai-feedback-2026.md']
 confidence: high
 connected_faqs: [ai-feedback-at-scale, group-work-ai, redesign-assessment-ai-era]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, links]
 ---
 
 > **Synthesis:** This [[mixed-methods-research|mixed-methods]] study puts a [[conversational-ai|chat assistant]] and student groups side by side in the same [[peer-assessment]] task, and the most useful result is that the comparison does not hold still. In the first of two three-week rounds, [[feedback]] from peer groups, rated blind on effectiveness, constructiveness, accuracy, completeness and concreteness, scored no differently from [[generative-ai|ChatGPT]]-4o's. In the second round the model pulled ahead on constructiveness, accuracy and concreteness. What students said about the two sources also divided cleanly: group feedback was comprehensive, context-sensitive and sometimes subjective; model feedback was constructive, criteria-faithful and objective, but formulaic and occasionally robotic. Both sources were adopted at high rates — 85.09% of 127 revisions drew on one or both — and the students who accepted AI feedback most readily ended up with stronger designs. The paper's own framing is the useful discipline here: use AI as a supplementary feedback source under [[human-in-the-loop-ai|human oversight]], and treat its fluency as unvalidated.

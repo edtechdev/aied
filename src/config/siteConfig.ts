@@ -20,6 +20,24 @@ export interface SiteConfig {
     name: string;
     contactUrl: string;
   };
+  // People accountable for the corpus and for individual pages. Page frontmatter
+  // references these by id so names live in one place; AI systems are never listed
+  // here (see AI-USE.md).
+  contributors: Array<{
+    id: string;
+    kind: 'human' | 'ai';
+    role: string;
+    name: string;
+    contactUrl?: string;
+  }>;
+  // Standing AI-use disclosure: which models are in use and since when. The policy
+  // text itself lives in AI-USE.md.
+  aiDisclosure: {
+    started: string;
+    policy: string;
+    harness: string;
+    models: Array<{ id: string; since: string; note?: string }>;
+  };
   license: {
     name: string;
     fullName: string;

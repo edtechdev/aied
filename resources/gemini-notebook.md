@@ -16,6 +16,13 @@ pedagogy: [self-directed-learning, retrieval-spacing-interleaving, video-educati
 audience: [learners, instructors, researchers]
 level: [secondary, higher ed]
 confidence: high
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+verified: [links]
 ---
 
 **Gemini Notebook** is Google Labs' [[rag|retrieval-augmented]] study and research assistant, known as NotebookLM until the July 2026 rename. A notebook is a set of sources the reader chooses — PDFs, documents, slides, websites, pasted text, or the transcripts of YouTube videos — and every answer the assistant gives is drawn from that material with citations back to it. Where a general-purpose [[conversational-ai|chat assistant]] answers from its training data, Gemini Notebook answers from the reader's own shelf of documents, and that constraint is the product.
