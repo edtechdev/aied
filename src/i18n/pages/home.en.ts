@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const en: HomeStrings = {
@@ -61,6 +69,29 @@ const en: HomeStrings = {
   statsHeading: 'What is in the knowledge base',
   statsIntro:
     'Every page here is dated, and the knowledge base grows as new open-access research is published and reviewed. The counts below are read from the current contents; the date is the most recent page update.',
+  conceptMap: {
+    title: 'Concept map of AI in Education',
+    desc:
+      'A radial map with AI in Education at the center, connected to twelve top-level concepts: ' +
+      'Modeling, Learning, Equity, Feedback, AI Literacy, Assessment, Disciplines, Pedagogy, ' +
+      'Ethics, Technologies, Evaluation, and Research. Select any node to open its page.',
+    navLabel: 'AI in Education concepts',
+    center: 'AI in Education',
+    nodes: {
+      'student-modeling': 'Modeling',
+      'learning-theories': 'Learning',
+      'equity-in-ai-education': 'Equity',
+      feedback: 'Feedback',
+      'ai-literacy': 'AI Literacy',
+      assessment: 'Assessment',
+      'discipline-specific-aied': 'Disciplines',
+      pedagogy: 'Pedagogy',
+      ethics: 'Ethics',
+      'ai-technologies': 'Technologies',
+      'ai-ed-evaluation': 'Evaluation',
+      'research-methods-aied': 'Research',
+    },
+  },
   toc: [
     { text: 'Navigating the site', slug: 'navigating-the-site', depth: 2 },
     { text: 'Chat with the knowledge base', slug: 'chat-with-the-knowledge-base', depth: 2 },
