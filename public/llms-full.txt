@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 214 concepts, 1351 articles, and 32 FAQs.
+> Complete text of 214 concepts, 1353 articles, and 32 FAQs.
 
 # Concepts
 
@@ -161,6 +161,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 
 Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
@@ -330,6 +331,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Evaluating emerging technology as a skill-building goal
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Mapping the AI literacy instrument corpus: 55 constructs, jangle and jingle pairs, LLM-based coding
@@ -1490,6 +1493,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
@@ -1581,6 +1585,8 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Ground AI generation in a structured instructional model.** AI content is only as good as the pedagogical structure behind it — explicit structure, not AI fluency, determines quality. Design around a recognized model (ADDIE, Dick & Carey, rapid prototyping) and encode pedagogical decisions explicitly rather than relying on the model to infer them.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
 
+**Adopt a principle-level framework as well as an instructional model.** A course-level model structures one design; a published framework sets the criteria that many designs should satisfy. An example worth reading in full is Digital Promise's *Powerful Learning with Emerging Technology*, which organizes its guidance under three principles — Evidence-Based, Learner-Centered, Skill-Building — each expanded into practices and strategies, and attaches [[privacy]], [[explainable-ai|explainability]] and fairness to particular practices as safety obligations rather than optional extras.([[powerful-learning-with-emerging-technology-2025]])
+
 **Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[multi-agent-instructional-design]])
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
@@ -1624,6 +1630,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
 - [[zhou-constructive-alignment-genai-business-2026]]
@@ -1762,6 +1769,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Guidance for product teams as well as educators
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
@@ -2581,6 +2589,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
@@ -2932,6 +2941,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Critical thinking as understanding and evaluating AI
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
@@ -3561,6 +3571,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Protecting human connection in AI-mediated collaboration
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -3836,6 +3847,7 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 
 ## Connected Articles
 
+- [[powerful-learning-with-emerging-technology-2025]] — Designing for productive struggle in educational technology
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
@@ -4949,6 +4961,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Three design principles for emerging technology: evidence-based, learner-centered, skill-building
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -6173,6 +6186,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability and productive struggle as metacognitive design
 - [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
@@ -7466,6 +7480,8 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Scaffolding creativity instead of completing it
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
@@ -8240,6 +8256,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
@@ -8397,6 +8414,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
@@ -10304,6 +10322,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — Educator-reported tutoring and chatbot tools in a 2026 typology
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
@@ -11418,6 +11437,10 @@ Platforms in AI in education perform several distinct functions:
 
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.([[access-not-enough-ai-tutoring-2026]])
 
+### Which tools educators report using, and what gates access
+
+A rare census of educator-reported platform choice comes from a 2026 typology built from 211 educators across nine countries: the tools that reach classrooms are disproportionately the ones with a free tier, because a publicly available free version was an inclusion criterion, and the most-nominated entries are general-purpose assistants and media generators rather than purpose-built platforms. Roughly half of the fifty tools listed produce images, audio, video or slide decks, while document-grounded assistants (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) form the most coherent cluster in the research category. Dedicated [[intelligent-tutoring|tutoring]] systems appear as a small, subject-specific group rather than the center of reported use — which frames the take-up problem above in a wider setting, where a platform competes for attention against general-purpose tools that students and instructors already have open.([[typology-generative-ai-tools-education-2026]])
+
 ### The platform model matters: open vs. proprietary
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
@@ -11465,6 +11488,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[educational-technology-developers]]
 
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -18964,6 +18988,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[parents-and-families]]
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Free-tier availability as the gate on which tools reach educators
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
@@ -19652,6 +19677,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Accessibility as a learner-centered requirement
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
@@ -20552,6 +20578,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Privacy as a safety obligation attached to agency
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
@@ -20985,6 +21012,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability as a metacognitive design requirement
 - [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
@@ -37858,7 +37886,7 @@ Liang, S.-Z., Li, Z.-C., Hsu, Y.-M., & Xu, J.-L. (2026). [AIGC affordance and st
 4. **Four conceptually distinct motives emerged.** Task-oriented (strategic use to construct meaning, clarify, explain and organize); Feel-good (a consistent emotional and social tendency to make reading more enjoyable, engaging or emotionally manageable); Translation (overcoming language barriers, translating, reading in a non-native language); and Low-effort (minimizing effort when tired, disengaged or indifferent). The EFA loading of "when I am tired" was kept on Low-effort despite a secondary loading on Task-oriented, flagged for the CFA to resolve.
 5. **Study 2's CFA finalised 21 items.** On 414 new participants the 25-item model was only adequate (CFI .90; TLI .89; GFI .84; RMSEA .08; SRMR .06). Removing four items highly correlated with others — "to make academic reading easier", "to make leisure reading easier", "for academic reading", "for professional reading" — made the scale more motivation-oriented and less about a reading context, improving fit to CFI .95, TLI .95, GFI .91, RMSEA .056, SRMR .046. Study 2 also required participants to confirm prior experience using AI for reading and gated entry on Prolific approval rates of 90–100% across up to 500 prior submissions.
 6. **Reliability spans excellent to acceptable.** Cronbach's α was .95 for Task-oriented, .89 for Translation, .84 for Feel-good and .67 for Low-effort — the last being a two-item subscale, which the authors argue is acceptable at that length (Iacobucci & Duhachek, 2003).
-7. **Convergent and divergent validity both behaved.** All four subscales correlated positively with AIMS Intrinsic Motivation (Task-oriented r = .59; Feel-good r = .48; Translation r = .31; Low-effort r = .27) and Identified [[regulation]] (r = .57, .48, .26, .28 respectively), strongest for the intentional, self-endorsed motives. Task-switching preference was uncorrelated with every subscale except a small effect for Feel-good (r = .11, p = .03), and no subscale differed by ADHD diagnosis (45 of 411 reporting one; all F < 3.02, all p > .083) or learning-disability diagnosis (33 reporting one; all F < 2.07, all p > .15).
+7. **Convergent and divergent validity both behaved.** All four subscales correlated positively with AIMS Intrinsic Motivation (Task-oriented r = .59; Feel-good r = .48; Translation r = .31; Low-effort r = .27) and Identified [[regulation]] (r = .57, .48, .26, .28 respectively), strongest for the intentional, self-endorsed motives. Task-switching preference was uncorrelated with every subscale except a small effect for Feel-good (r = .11, p = .03), and no subscale differed by ADHD diagnosis (45 participants reported one; all F < 3.02, all p > .083) or learning-disability diagnosis (33 reporting one; all F < 2.07, all p > .15).
 8. **The correlates say what Low-effort is.** Need for cognition was negatively related to Low-effort (r = −.18) and marginally negatively to Feel-good (r = −.09), but uncorrelated with Task-oriented and Translation. Perceived usefulness and ease of use from a modified [[technology-acceptance-model|Technology Acceptance Model]] correlated positively with all four motives, usefulness more strongly, with Task-oriented leading (r = .64 usefulness, r = .47 ease of use) and Translation weakest (r = .20 on both).
 
 ## Item generation and the theoretical grounding of the motives
@@ -85407,7 +85435,7 @@ Mahbub Ul Alam (2026). [*PAUSE: A Privacy-Preserving Self-Reflection Tool for AI
 ## Key Findings
 
 - **Modularized PBL+AI framework:** The design comprises four interdependent modules—problem formation via authentic biomedical problem briefs with curated deidentified datasets, AI-supported knowledge inquiry, [[problem-solving]] with robustness and reproducibility evaluation, and presentation through written reports, oral demos, and [[peer-assessment|peer assessment]].
-- **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, Δ = +27.3 points, p = 0.042) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%, p = 0.037).
+- **Grade distribution shift:** Post-integration cohorts (2021–2023) showed higher A-rates (66.4% vs. 39.1% control, Δ = +27.3 points, p = 0.042) and fewer low grades (6.1% vs. 22.4%), a trend that persisted after excluding the COVID-19-affected year (A-rate 67.4% vs. 39.1%, p = 0.0367).
 - **Coding fluency as an enabler:** Students with more coding experience performed better (exploratory OLS β ≈ +1.88 points per year, p = 0.022), suggesting foundational coding readiness enables productive GenAI use for ideation and code assistance.
 - **High [[research-methods-aied|research]] productivity:** Implementation-focused PBL yielded 16 student-authored peer-reviewed publications addressing biomedical AI problems (e.g., wearable COVID-19 detection, graph-based single-cell RNA severity classification, synthetic augmentation for transplant-rejection imaging).
 - **Strong teamwork outcomes:** Peer evaluations remained high across courses (BHI 89.8–94.6%, MIP 88.8–90.6%, biostatistics ~92–94%), indicating effective collaboration under AI-augmented PBL.
@@ -87620,6 +87648,69 @@ The study is a small qualitative case study of two students in one [[governance|
 ## Citation
 
 Wang, Z., & Wang, C. (2025). [*A posthumanist approach to AI literacy*](https://doi.org/10.1016/j.compcom.2025.102933).
+
+---
+
+## [Powerful Learning with Emerging Technology](https://edtechdev.github.io/aied/articles/powerful-learning-with-emerging-technology-2025/)
+
+> **Synthesis:** This Digital Promise report is a design framework rather than a study: a landscape scan — 59 expert interviews and focus groups, a review of 238 articles, and a mapping of 30 existing edtech frameworks — condensed into three principles that emerging technology for learning should satisfy. **Evidence-Based** asks products to apply research, measure learning meaningfully, and be built with the people who hold relevant expertise. **Learner-Centered** asks for [[agency]], [[metacognition]] and [[accessibility]] by design, with [[privacy]], [[explainable-ai|explainability]] and fairness treated as safety obligations rather than features. **Skill-Building** asks that tools develop the durable human capacities — [[critical-thinking]], [[creativity]], [[collaborative-learning|collaboration]] — instead of completing the thinking on the learner's behalf. Each principle carries practices and strategies for both developers and educators, illustrated by product spotlights the publisher explicitly labels as illustrations rather than endorsements.
+
+### Overview
+
+Digital Promise frames the report as guidance for "developers, educators, and learners" on designing and implementing emerging technologies — a category the authors leave deliberately open, noting that the research they cite comes from studies of existing tools such as [[generative-ai]] while the framework is written for tools that do not exist yet. The stated motivation is a division of labor: technology should absorb work that is repetitive or procedural and leave the human parts of learning intact, an argument the conclusion makes directly when it insists that "humans are centered in the design of these tools so that emerging technology enhances human capabilities, rather than replacing or diminishing them."
+
+The framework is therefore a specification for [[learning-design]], with the unusual feature that it addresses vendors and instructors in the same document. A practice tells both audiences what the principle looks like; a strategy tells them what to do about it, either in product design or in implementation. Its claims are normative and its examples are drawn from commercial products, and the report is candid about both: the spotlights carry a disclaimer on the companion web page that they are "not an endorsement of products or their efficacy."
+
+### Key Findings
+
+1. **The framework rests on a three-part landscape scan, not on outcome data.** Expert interviews were the primary source — 59 researchers, practitioners and field experts in interviews and focus groups, coded inductively into 23 themes — supported by a review of 238 articles and a mapping of 30 existing edtech frameworks to find overlap and gaps.
+2. **Three principles organize everything: Evidence-Based, Learner-Centered, Skill-Building.** The companion framework document presents each as a hierarchy of one principle, several practices, and actionable strategies, and the authors ask that the recommendations be applied across principles rather than picked from individually.
+3. **Evidence-Based includes measurement and collaboration, not only research citation.** "Apply Research" (leverage [[learning-theories|learning theories]], integrate research-based instructional practices) sits beside "Use Meaningful Measures" (define learning outcomes, plan for iterative product improvement) and "Leverage Relevant Expertise" (collaborate with experts throughout development, co-design with educators and learners).
+4. **Learner-Centered is specified as agency, metacognition and accessibility.** Agency means choice, relevance and purpose; metacognition means designing for [[productive-failure|productive struggle]] and [[self-regulated-learning|reflection]]; accessibility means [[assistive-technology|assistive technologies]], [[multimodal|multimodality]] and support for translanguaging — with [[multilingual-learning|translanguaging]] treated as a design requirement rather than a translation feature.
+5. **Safety is woven in as three spotlights tied to specific practices.** [[privacy]] attaches to agency and requires collecting only necessary learner data and securing it; [[explainable-ai|explainability]] attaches to metacognition and asks tools to tell users when AI is generating [[feedback]] or content and let them customize it; fairness attaches to accessibility and asks that outputs not create or perpetuate stereotypes.
+6. **Skill-Building targets the human capacities AI could erode.** The report asks tools to [[inquiry-based-learning|foster inquiry]], teach learners to understand and evaluate [[ai-literacy|emerging technologies]], scaffold [[creativity]] rather than producing content for the learner, and preserve human-to-human connection alongside AI-mediated [[collaborative-learning|collaboration]].
+7. **The developer-facing advice pushes back on software-first thinking.** The report's closing expert quote — from Amira Learning's chief AI scientist — argues that teams should "start with a strong [[pedagogy|pedagogical]] framework" and work out where AI helps, warning that LLMs out of the box do not do the guided part of instruction well.
+
+### What the framework asks for
+
+The principles are not a checklist of features; each expands into practices, and each practice into strategies that a product team or an instructor can act on. Evidence-Based runs from the theoretical (which [[learning-theories|learning theories]] a product encodes) through the procedural (how learning outcomes are defined, how [[educational-measurement|learning is measured]] and how product iterations are tested) to the social (who is in the room during development). Learner-Centered turns learner variability into an engineering requirement: [[personalized-learning|personalization]], relevance and purpose for [[agency]]; [[desirable-difficulties|productive struggle]], reflective opportunity and explained AI for [[metacognition]]; assistive technology, multimodality and translanguaging for access. Skill-Building is the shortest section and the most pointed: critical thinking is defined as the ability to use, understand and evaluate emerging technologies; creativity is protected by insisting that tools scaffold the creative process rather than complete it; collaboration is protected by designing for human connection first.
+
+### Product spotlights and what they illustrate
+
+The report profiles tools against its practices, and the pattern is instructive: Amira is presented as an AI reading tutor shaped by reading research, LearnLM as an example of building with domain expertise, GIANT Remix as co-design with teachers, learners and families, ST Math as [[mastery-learning|mastery-based progression]] that keeps difficulty productive, MATHia as making learner data legible to the learner, Be My Eyes as computer vision for accessibility, Kasi as multimodal expression through drawing and manipulatives, TalkingPoints as multilingual [[parents-and-families|family engagement]], Playlab as helping learners and educators use, understand and evaluate AI models, and OKO and TeachFX as collaboration-facing designs. Reading them together shows what the framework rewards — instruments that keep the learner's own thinking in the loop — and why it has little to say about products that simply accelerate output.
+
+### A framework, not a finding
+
+Nothing here is an effect size. The principles were derived from expert opinion and a literature landscape scan, which makes them useful as a shared vocabulary for procurement, design review and professional learning, and unreliable as evidence that any practice improves learning on its own. The report is aware of the gap and builds measurement into the framework itself — "define learning outcomes" and "plan for iterative improvements" are strategies inside the Evidence-Based principle — which puts the burden of proof on the products rather than on the framework. That is the right place for it, and it means a reader who wants to know whether a specific tool works still has to go to [[learning-gains|outcome studies]] rather than to this document.
+
+## What this means for practice
+
+- **Developers and designers:** treat the practices as review gates rather than a feature list — who holds pedagogical expertise on the team, which learning theory the interaction encodes, which outcome the tool will be measured against, and what the learner sees when the AI is wrong.
+- **Instructors and instructional designers:** the Learner-Centered and Skill-Building strategies translate directly into classroom checks: does the tool let learners choose, does it let them struggle productively, does it scaffold creativity or replace it, and does it preserve peer-to-peer talk.
+- **Procurement and evaluation:** the Evidence-Based principle is a usable questionnaire for a vendor conversation — which research base, which measures, which co-design partners — while the three safety spotlights name what to ask about privacy, explainability and fairness in the data processing agreement.
+- **Anyone citing the framework:** cite it for vocabulary and shared criteria, not for efficacy; the report supplies the criteria by which a tool's own evidence should be judged.
+
+## Limitations
+
+- **Consensus and literature synthesis, not evidence of effect.** The principles come from 59 expert interviews and a 238-article landscape scan; no learner outcomes were measured, and the framework itself has not been tested against learning gains.
+- **The expert pool spans the industry.** The publisher describes the interviewees as developers, designers, investors, researchers and practitioners, and the product spotlights are chosen by the publisher from companies in the field, so commercial interests are present in the evidence base even though the spotlights are labeled as illustrations rather than endorsements.
+- **Examples skew toward [[k-12]] products in the United States.** The spotlights are largely school-facing tools from US vendors; the framework's transfer to [[higher-ed|higher education]] and to other educational systems is asserted through the strategies rather than demonstrated with cases.
+- **Guidance is not falsifiable at the level of a strategy.** "Scaffold creativity" and "create opportunities for human connection" name directions for design without specifying thresholds, so two teams can satisfy the wording and build very different products.
+
+## Connected Concepts
+[[learning-design]], [[theories-and-frameworks]], [[ai-literacy]], [[educational-development]], [[agency]], [[metacognition]], [[productive-failure]], [[accessibility]], [[creativity]], [[collaborative-learning]], [[critical-thinking]], [[privacy]], [[explainable-ai]], [[equity-in-ai-education]], [[personalized-learning]], [[multimodal]]
+
+## Connected Articles
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
+- [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
+- [[halani-designing-for-reach-2026]] — Designing for Reach: human-centered design and learner variability
+- [[genai-critical-thinking-k12-design-2026]] — Generative AI and critical thinking in K-12 design
+- [[haiml-human-centered-ai-metacognitive-model-2026]] — Human-centered AI and a metacognitive model of learning with AI
+
+## Citation
+
+Mills, K., Noakes, S., Pattenhouse, M., Shell, A., & Vollavanh, A. (2025). [Powerful Learning with Emerging Technology](https://digitalpromise.org/powerful-learning/powerful-learning-with-emerging-technologies/). *Digital Promise*.
 
 ---
 
@@ -98332,9 +98423,9 @@ Piatnitckaia, L., Corneloup, V., Bühler, B., Terzimehić, N., Kasneci, E., & Ze
 
 ## Key Findings
 
-- **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132), mirroring academic self-efficacy (β = −0.197). This suggests a "compensatory" mechanism: strong skills enable offloading, but strong self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
-- **The model explained 27.3% of variance** in AI dependency (F(8,469)=22.03) — a meaningful improvement over the 22.1% from a single aggregate AI literacy score, confirming that multidimensional treatment adds explanatory value.
-- **Effort regulation predicted lower dependency** (β = −0.134); **general academic [[help-seeking|help seeking]] predicted higher dependency** (β = 0.124); time/study management was not significant. The help-seeking measure captures human sources, so the finding does not show AI substituting for human help.
+- **Multidimensional AI literacy operates in opposing directions.** The skill-based dimensions (using/understanding AI: β = 0.404, the strongest predictor; detecting AI: β = 0.108) were positively associated with dependency. In contrast, **AI self-efficacy** (confidence in one's own AI competence) was negatively associated (β = −0.132). Academic self-efficacy correlated negatively with dependency on its own (r = −0.24) but entered the full model positively (β = 0.20). The pattern suggests a compensatory mechanism for AI-specific confidence: strong skills enable offloading, while strong AI self-efficacy buffers against it ([[cognitive-offloading]], [[self-efficacy]]).
+- **The model explained 27.3% of variance** in AI dependency (F(8, 469) = 22.03, p < 0.001; R² = 0.273, adjusted R² = 0.261; N = 478), which the authors read as support for treating AI literacy as multidimensional rather than as a single aggregate score.
+- **Effort regulation predicted lower dependency** (β = −0.13); **general academic [[help-seeking|help seeking]] predicted higher dependency** (β = 0.12); time/study management was not significant (β = 0.05, p = 0.374). The help-seeking measure captures human sources, so the finding does not show AI substituting for human help.
 - **Four student profiles emerged** (K-means cluster analysis): **HL** (high literacy, low dependency — most adaptive), **MM** (moderate/moderate), **LL** (low/low), and **HH** (high literacy, high dependency). The HL profile scored highest on academic self-efficacy, time/study management, and effort regulation; HH — despite strong technical knowledge — did not lead on any self-regulation measure, suggesting reliance may undermine learner autonomy and create an illusion of competence.
 - **The dual structure within AI literacy** (skills that enable use vs. beliefs that govern reliance) is a novel contribution to the AI-dependency literature, supporting calls to treat [[ai-literacy]] as multidimensional rather than unitary.
 
@@ -104450,6 +104541,83 @@ TutorTrace speaks directly to the knowledge base's [[research-methods-aied|resea
 ## Citation
 
 Barron, D., Tang, X., Dwisantika, R., Kim, M., Smith, D. H., Cui, J., & Chen, Y. (2026). [*TutorTrace: A dataset and taxonomy for classifying learner behavioral states during AI-assisted programming education*](https://arxiv.org/abs/2608.26184). arXiv:2608.26184 / UIST '26.
+
+---
+
+## [Typology of Generative AI Tools for Education](https://edtechdev.github.io/aied/articles/typology-generative-ai-tools-education-2026/)
+
+> **Synthesis:** This typology is a usage census of [[generative-ai]] in education rather than a study of its effects. A late-2025 [[self-report-measures|questionnaire]] reached 211 [[teacher-role|educators]] across nine countries, who nominated the tools they actually used inside nine pre-defined categories; a tool survived into the final list only if two or more educators named it, and only if it was publicly available with a free version. Fifty tools cleared that bar, ordered within each category from most to least reported. The value for readers is the short list itself, not a verdict: it shows where educator attention has concentrated — general-purpose [[conversational-ai|chat assistants]], media generation, document-grounded research tools, and a thinner layer of classroom-specific tutoring and teacher-facing tools — while the criteria that make it usable also build in its biases.
+
+### Overview
+
+The 2026 Typology of Generative AI Tools for Education continues a series the same lead author began with the Typology of Web 2.0 Learning Technologies (2015) and the Typology of Free Web-based Learning Technologies (2020), each of which mapped the educational technology landscape of its moment. This iteration keeps the form of the earlier typologies — categories, named tools, one-line descriptions, links — and changes the subject to systems that generate text, images, audio, video, slides and study materials on request. Its stated purpose is informed, critical tool selection: the authors treat finding a tool as the beginning of integration rather than the end of it, and they place the deciding judgment with educator [[agency]] and [[ai-literacy|AI literacy]] rather than with the list itself.
+
+Two design decisions shape everything in the list. The first is the unit of evidence: educators were asked which tools they used per category, so the typology records *nomination frequency*, not adoption rates, [[learning-gains|learning gains]] or satisfaction. The second is an access filter: only [[edtech-platform|platforms]] that were publicly available and offered some free functionality were eligible, which is why the list is dominated by freemium products and contains no institution-licensed-only systems. The authors are explicit that the list is neither exhaustive nor stable, and that the classification reflects each tool's most common educational use case rather than its full capability set.
+
+### Key Findings
+
+1. **The typology is built from educator nominations, not measurement.** 211 completed responses from nine countries, spanning elementary school, [[k-12|high school]] and [[higher-ed|higher education]], produced 50 tools across nine categories; the inclusion threshold was two or more independent nominations.
+2. **Multi-purpose tools break the categories.** ChatGPT appears in three categories (general-purpose [[llm|large language models]], image creation, and presentation generation) and Canva, Copilot and Curipod each appear twice, so the nine categories describe typical use rather than product identity.
+3. **Free access was an inclusion criterion, not an afterthought.** The authors required publicly available platforms with a free tier, and note that the sector runs on a freemium model in which advanced features, storage and higher limits sit behind a subscription — often with age restrictions that decide whether students can use a tool at all.
+4. **Document-grounded research tools form the most coherent cluster.** The research and study category is led by tools that answer questions over sources the user supplies — NotebookLM, Elicit, SciSpace, Humata, Heuristi and Research Rabbit — rather than general-purpose search.
+5. **AI tutoring is present but not consolidated.** The tutoring and [[conversational-ai|chatbot]] category is the smallest of the teaching-facing groups, led by Khanmigo and otherwise populated by subject- or classroom-specific systems (Cogniti, TutorAI, Class Companion, Trellis, MathGPT), a different picture from the general-purpose assistants at the top of the list.
+6. **Presentation generation attracted the most distinct products.** Ten tools appear in that category, from prompt-to-deck generators (Gamma, Presentations.AI, Beautiful.AI, Storyd) to educator-specific slide makers (Chalkie, Curipod) and the AI design features built into Canva and PowerPoint.
+7. **The authors expect the framework to grow.** They anticipate more categories and more tools per category, single out AI coding tools as a likely future addition for teachers, and argue for working *with* generative AI rather than adopting a fear-based posture, while keeping [[human-in-the-loop-ai|human judgment]] and [[pedagogy|pedagogical]] expertise central.
+
+### How the typology was built
+
+A Generative AI Pedagogies and Technologies Questionnaire was distributed internationally, predominantly through professional education networks on LinkedIn and Facebook. Respondents were given the nine categories and asked to nominate the specific tools they used within each; an additional "Other Miscellaneous" category captured anything that did not fit. 211 educators completed it, from nine countries and across elementary, high school and higher education. The response dataset is published alongside the typology.
+
+Two filters were then applied: a tool had to be reported by more than one educator (frequency greater than one), and the platform had to be publicly available with a free version. Fifty unique tools met both conditions. Within each category, tools are listed from most to least frequently reported. The authors describe the frequency threshold as a way to separate tools with some real traction from individual experiments. This is the same design logic as the two earlier typologies, which were also built from self-reported educator use rather than from procurement data or platform telemetry — a continuity that matters when the resulting list is read as a picture of the field.
+
+### The nine categories
+
+- **General-purpose [[llm|large language models]]** — ChatGPT, Microsoft Copilot, Google Gemini (formerly Bard), Claude, Perplexity, DeepSeek. Conversational systems for [[learning-design|lesson planning]], content creation, explanation, question answering and dialogue.
+- **Image creation tools** — Canva AI tools, Adobe Firefly, DALL·E, Midjourney, ChatGPT's DALL·E integration, Copilot, Stable Diffusion. Text-to-image generation for materials, posters and illustrations, including one [[open-source]] model that can run locally.
+- **Audio and music generation tools** — Suno, ElevenLabs, Audiobox, Udio, Stable Audio. Song and music generation, [[speech-and-voice-technologies|voice synthesis]] and sound effects for videos, podcasts and language work.
+- **Video generation tools** — Sora, Veo, FlexClip, HeyGen, Fliki, Clipchamp. Text-to-video generation alongside editors and avatar tools that assemble [[video-education|instructional video]].
+- **Presentation generation tools** — Gamma, Presentations.AI, Beautiful.AI, Canva, Designer in PowerPoint, Storyd, Chalkie, ChatGPT, Curipod, Prezi. The largest category in the typology, spanning prompt-to-deck generators, educator-specific slide makers and AI design features inside existing software.
+- **Research and study tools** — NotebookLM, Elicit, SciSpace, Humata, Heuristi, Research Rabbit. Document-grounded question answering, summarization and literature discovery.
+- **AI tutoring and chatbot tools** — Khanmigo, Cogniti, TutorAI, Class Companion, Trellis, MathGPT. [[intelligent-tutoring|Tutoring]] and classroom support systems, several of them [[socratic-method|Socratic]] in design.
+- **Custom education tools** — Diffit, Magic School, Brisk, EduAide, Curipod, Wayground (formerly Quizizz). Teacher-facing platforms for [[personalized-learning|differentiated readings]], lesson materials, [[assessment|assessments]] and [[feedback]].
+- **Other miscellaneous tools** — Character.AI, Skybox AI, MasterpieceX. Role-play characters, 360-degree scene generation for immersive settings, and 3D model creation.
+
+### Cross-cutting patterns
+
+Read across the nine categories, three patterns matter more than any single entry. The first is a split between tools aimed at teachers and tools aimed at teaching: the custom education category is teacher-facing by design (differentiation, materials, [[automated-assessment|grading support]], interactive lessons), while the tutoring category faces students directly and is where [[discipline-specific-aied|subject-specific]] systems have found a niche that general-purpose assistants have not displaced. The second is that media generation dominates the middle of the list. Image, audio, video and presentation tools together account for roughly half of the fifty entries, which suggests that the most widely reported use of generative [[ai-education|AI in education]] is production — making materials — rather than instruction or [[assessment]]. The third is that [[creativity]] and production tools are largely undifferentiated products, whereas the research and study cluster is defined by a shared architecture: [[rag|retrieval]] over user-supplied sources. That architectural difference is the closest the typology comes to a distinction in kind rather than in popularity.
+
+### What the typology does not measure
+
+Nothing in the list speaks to learning outcomes, cost of ownership, privacy terms, accessibility, or the quality of what the tools produce. Presence in the typology means two educators named a tool, which is a statement about visibility in professional networks and about the low friction of free tiers. A reader looking for evidence that a tool improves learning has to look elsewhere; a reader deciding what to pilot now has a defensible starting short list and a documented method for how it was assembled. The list is also already out of date in small ways that the authors anticipated — NotebookLM was renamed Gemini Notebook in July 2026, and Quizizz became Wayground — which is the practical cost of a snapshot format with website links.
+
+## What this means for practice
+
+- **Use it to build a short list, not to settle a choice.** Pick the category that matches the teaching task, take the top two or three tools, then test them against your own material before adopting anything.
+- **Check access terms before class use.** "Free" in this typology means a publicly available free tier, not a free product: limits, storage and advanced features are subscription-gated, and the free tiers carry age restrictions that decide whether a tool can be given to students.
+- **Prefer source-grounded tools where accuracy matters.** For study, revision and research tasks, the document-grounded tools answer over material you supplied, which makes their output checkable in a way that open-ended chat is not.
+- **Re-verify names, prices and features before reuse.** A 2025 snapshot with links ages quickly, and both renames and tier changes have already occurred since the survey.
+- **Treat the classification as a use case, not a product boundary.** If a tool you already have appears in a category you had not considered, the typology is evidence that other educators are using it that way, not that the tool is designed for it.
+
+## Limitations
+
+- **Convenience sample from professional networks.** The questionnaire was distributed mainly through LinkedIn and Facebook education networks, so the respondents are self-selected, the nine countries are not identified, and the reported frequencies are not population estimates of educator tool use.
+- **Self-reported nominations set a deliberately low bar.** Two independent mentions are enough for inclusion, and the authors present the list as tools with "at least minimal traction," not as evidence of institutional adoption.
+- **The free-version criterion excludes a whole class of tools.** Institution-licensed platforms, textbook-integrated assistants and tools that require a school account are absent by construction, so the typology under-represents the tools that districts and universities may actually have available.
+- **The evidence is about use, not effect.** No outcome, cost, [[privacy]] or [[accessibility]] data were collected, and the authors position the list as a starting point for [[critical-thinking|critical evaluation]] rather than a recommendation.
+
+## Connected Concepts
+[[ai-education]], [[generative-ai]], [[edtech-platform]], [[ai-literacy]], [[ai-technologies]], [[llm]], [[intelligent-tutoring]], [[creativity]], [[equity-in-ai-education]], [[agency]]
+
+## Connected Articles
+- [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
+- [[genai-usage-design-students-survey]] — A study of GenAI usage by Design Students (Politecnico di Milano, 2025/2026)
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — One Click Away: Khanmigo in a two-year school experiment
+- [[ai-generated-slides-student-perception]] — AI-Generated Slides: Are They Good? Can Students Tell?
+- [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Generative Artificial Intelligence (GAI) in Teaching and Learning Processes at the K-12 Level: A Systematic Review
+
+## Citation
+
+Bower, M., Torrington, J., & Lai, J. W. M. (2026). [Typology of Generative AI Tools for Education](https://doi.org/10.35542/osf.io/4eqrk_v1). *EdArXiv preprint*.
 
 ---
 
