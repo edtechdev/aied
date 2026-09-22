@@ -1,0 +1,221 @@
+---
+/**
+ * Overflow ("more") menu in the header.
+ *
+ * Holds the two things the header row cannot carry at every width: the language
+ * entries (below 1280px; above that the right sidebar shows them) and the FAQ
+ * link, which used to be dropped outright on small screens to keep the theme
+ * toggle on screen. The GitHub link sits here too — it never fit in the row at
+ * all and lived only in the footer.
+ */
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import { strings } from '../i18n';
+import siteConfig from '../config/siteConfig';
+
+const {
+  locale = 'en',
+  route = '/',
+  translationMap,
+  faqHref,
+  toolsHref,
+  journalHref,
+  showLanguage = false,
+} = Astro.props;
+
+const ui = strings(locale).ui;
+---
+
+<div class="more-menu" data-more-menu>
+  <button
+    type="button"
+    class="header-icon more-toggle"
+    data-more-toggle
+    aria-haspopup="true"
+    aria-expanded="false"
+    aria-label={ui.more}
+    title={ui.more}
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+      <path d="m7 6 5 5 5-5"></path>
+      <path d="m7 13 5 5 5-5"></path>
+    </svg>
+  </button>
+
+  <div class="more-panel" data-more-panel hidden role="menu" aria-label={ui.more}>
+    {showLanguage && (
+      <div class="more-section">
+        <LanguageSwitcher
+          locale={locale}
+          route={route}
+          translationMap={translationMap}
+          align="left"
+          variant="inline"
+        />
+      </div>
+    )}
+    <ul class="more-links">
+      <li class="more-narrow-only">
+        <a href={toolsHref} role="menuitem" class="more-item">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+            <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
+            <path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path>
+          </svg>
+          <span>{ui.toolsLink}</span>
+        </a>
+      </li>
+      <li class="more-narrow-only">
+        <a href={journalHref} role="menuitem" class="more-item">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="9"></circle>
+            <path d="M12 7.5v5l3.2 1.9"></path>
+          </svg>
+          <span>{ui.journalLink}</span>
+        </a>
+      </li>
+      <li>
+        <a href={faqHref} role="menuitem" class="more-item">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+          <span>{ui.faqLink}</span>
+        </a>
+      </li>
+      <li>
+        <a href={siteConfig.repoUrl} role="menuitem" class="more-item" target="_blank" rel="noopener noreferrer">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" focusable="false">
+            <path d="M12 .5a12 12 0 0 0-3.79 23.4c.6.11.82-.26.82-.58v-2.2c-3.34.72-4.04-1.4-4.04-1.4-.55-1.4-1.34-1.77-1.34-1.77-1.1-.75.08-.73.08-.73 1.21.09 1.85 1.24 1.85 1.24 1.08 1.84 2.83 1.31 3.52 1 .11-.78.42-1.31.76-1.61-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.13-.3-.54-1.52.11-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6.01 0c2.29-1.55 3.3-1.23 3.3-1.23.65 1.66.24 2.88.12 3.18.77.84 1.23 1.91 1.23 3.22 0 4.61-2.8 5.62-5.48 5.92.43.37.81 1.1.81 2.22v3.29c0 .32.22.7.83.58A12 12 0 0 0 12 .5z"></path>
+          </svg>
+          <span>{ui.githubLink}</span>
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<style>
+  .more-menu {
+    position: relative;
+    display: inline-flex;
+  }
+  /* Same box as the header row icons (they are styled in the layout, which cannot
+     reach a button rendered by this component). */
+  .more-toggle {
+    width: 2.6rem;
+    height: 2.6rem;
+    margin: 0;
+    padding: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--muted-color);
+    border: 1px solid var(--muted-border-color);
+    border-radius: 8px;
+    background: transparent;
+    font: inherit;
+    line-height: 1;
+    box-shadow: none;
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s, background 0.15s;
+  }
+  .more-toggle:hover,
+  .more-toggle:focus-visible {
+    color: var(--primary);
+    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 10%, transparent);
+    outline: none;
+  }
+  /* Rows that only exist while the header row is too narrow to hold them. */
+  .more-narrow-only {
+    display: none;
+  }
+  @media (max-width: 419px) {
+    .more-narrow-only {
+      display: block;
+    }
+  }
+  .more-panel {
+    position: absolute;
+    top: calc(100% + 0.4rem);
+    right: 0;
+    z-index: 60;
+    min-width: 15rem;
+    max-width: calc(100vw - 1.5rem);
+    max-height: min(70dvh, 32rem);
+    overflow-y: auto;
+    padding: 0.5rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    background: var(--card-background-color);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  }
+  .more-panel[hidden] {
+    display: none;
+  }
+  .more-section + .more-links {
+    margin-top: 0.35rem;
+    padding-top: 0.35rem;
+    border-top: 1px solid var(--card-border-color);
+  }
+  .more-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .more-item {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.45rem 0.5rem;
+    border-radius: 6px;
+    color: var(--color);
+    text-decoration: none;
+    font-size: 0.92rem;
+  }
+  .more-item:hover,
+  .more-item:focus-visible {
+    background: color-mix(in srgb, var(--primary) 10%, transparent);
+  }
+  .more-item svg {
+    flex-shrink: 0;
+    color: var(--muted-color);
+  }
+  /* Above 1280px the right sidebar carries the language list, so the menu holds
+     only the two links there. */
+  @media (min-width: 1280px) {
+    .more-section {
+      display: none;
+    }
+  }
+</style>
+
+<script>
+  // One handler per menu: open/close on the button, close on an outside click,
+  // on Escape, or after a link inside it is chosen.
+  document.querySelectorAll('[data-more-menu]').forEach((root) => {
+    const btn = root.querySelector('[data-more-toggle]') as HTMLButtonElement | null;
+    const panel = root.querySelector('[data-more-panel]') as HTMLElement | null;
+    if (!btn || !panel) return;
+    const setOpen = (open: boolean) => {
+      panel.hidden = !open;
+      btn.setAttribute('aria-expanded', String(open));
+    };
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      setOpen(panel.hidden);
+    });
+    panel.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).closest('a')) setOpen(false);
+    });
+    document.addEventListener('click', (e) => {
+      if (!panel.hidden && !root.contains(e.target as Node)) setOpen(false);
+    });
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !panel.hidden) {
+        setOpen(false);
+        btn.focus();
+      }
+    });
+  });
+</script>

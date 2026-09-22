@@ -1,9 +1,20 @@
 /**
- * Interface strings (chrome) per locale: the language switcher and the notice
- * shown on a translated page. Docs-site generators ship translated UI packs for
- * their own chrome; this is the equivalent for the pages translated here.
+ * Interface strings (chrome) per locale: the header's more menu, the language
+ * switcher and the notice shown on a translated page. Docs-site generators ship
+ * translated UI packs for their own chrome; this is the equivalent for the pages
+ * translated here.
  */
 export interface UiStrings {
+  /** Accessible name of the overflow ("more") button in the header. */
+  more: string;
+  /** Label of the tools and resources entry in the overflow menu. */
+  toolsLink: string;
+  /** Label of the journal entry in the overflow menu. */
+  journalLink: string;
+  /** Label of the FAQ entry in the overflow menu. */
+  faqLink: string;
+  /** Label of the GitHub entry in the overflow menu. */
+  githubLink: string;
   /** Label and accessible name of the language switcher button. */
   language: string;
   /** Heading inside the switcher popover. */
@@ -18,14 +29,20 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  language: "Langue",
-  chooseLanguage: "Choisir une langue",
-  notTranslated: "Anglais seulement",
-  notTranslatedHint: "Cette page n'est pas encore traduite, le lien ouvre donc la page d'accueil de cette langue.",
+const fr: UiStrings = {
+  more: 'Plus',
+  toolsLink: 'Outils et ressources',
+  journalLink: 'Journal',
+  faqLink: 'FAQ',
+  githubLink: 'GitHub',
+  language: 'Langue',
+  chooseLanguage: 'Choisir une langue',
+  notTranslated: 'Anglais seulement',
+  notTranslatedHint:
+    'Cette page n\'est pas encore traduite, le lien ouvre donc la page d\'accueil de cette langue.',
   translationNoticeHtml:
-    "Cette page est traduite en français, mais la base de connaissances elle-même, y compris ses pages d'articles, de concepts et de FAQ, est rédigée en anglais.",
+    'Cette page est traduite en français, mais la base de connaissances elle-même, y compris ses pages d\'articles, de concepts et de FAQ, est rédigée en anglais.',
   originalPageLabel: 'Lire cette page en anglais',
 };
 
-export default en;
+export default fr;
