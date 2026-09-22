@@ -13,8 +13,6 @@ export interface UiStrings {
   journalLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
-  /** Label of the GitHub entry in the overflow menu. */
-  githubLink: string;
   /** Label and accessible name of the language switcher button. */
   language: string;
   /** Heading inside the switcher popover. */
@@ -34,7 +32,6 @@ const zh: UiStrings = {
   toolsLink: '工具与资源',
   journalLink: '日志',
   faqLink: '常见问题',
-  githubLink: 'GitHub',
   language: '语言',
   chooseLanguage: '选择语言',
   notTranslated: '仅英文',

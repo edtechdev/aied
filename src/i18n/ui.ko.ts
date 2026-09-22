@@ -27,18 +27,18 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  more: 'More',
-  toolsLink: 'Tools and resources',
-  journalLink: 'Journal',
+const ko: UiStrings = {
+  more: '더 보기',
+  toolsLink: '도구와 리소스',
+  journalLink: '저널',
   faqLink: 'FAQ',
-  language: 'Language',
-  chooseLanguage: 'Choose a language',
-  notTranslated: 'English only',
+  language: '언어',
+  chooseLanguage: '언어 선택',
+  notTranslated: '영어만 제공',
   notTranslatedHint:
-    'This page is not translated yet, so the link opens that language home page.',
-  translationNoticeHtml: '',
-  originalPageLabel: 'Read this page in English',
+    '이 페이지는 아직 번역되지 않았으므로, 해당 링크는 그 언어의 홈 페이지를 엽니다.',
+  translationNoticeHtml: '이 페이지는 한국어로 번역되었지만, 지식베이스 자체(문서 페이지, 개념 페이지, FAQ 페이지 포함)는 영어로 작성되었습니다.',
+  originalPageLabel: '이 페이지를 영어로 읽기',
 };
 
-export default en;
+export default ko;

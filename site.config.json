@@ -15,15 +15,50 @@
       },
       {
         "code": "es",
-        "label": "Español"
+        "label": "Español",
+        "style": "Neutral Spanish; keep 'prompt' untranslated"
       },
       {
         "code": "fr",
-        "label": "Français"
+        "label": "Français",
+        "style": "Standard French; keep product names in English"
       },
       {
         "code": "zh",
-        "label": "中文"
+        "label": "中文",
+        "style": "Simplified Chinese; keep product names in English"
+      },
+      {
+        "code": "de",
+        "label": "Deutsch",
+        "style": "Standard German (de-DE), formal Sie"
+      },
+      {
+        "code": "ja",
+        "label": "日本語",
+        "style": "Japanese, polite です・ます form"
+      },
+      {
+        "code": "ko",
+        "label": "한국어",
+        "style": "Korean, polite -습니다체"
+      },
+      {
+        "code": "pt",
+        "label": "Português",
+        "style": "Brazilian Portuguese, informal você"
+      },
+      {
+        "code": "ar",
+        "label": "العربية",
+        "dir": "rtl",
+        "style": "Modern Standard Arabic; on first use keep a technical term in Latin script in parentheses"
+      },
+      {
+        "code": "he",
+        "label": "עברית",
+        "dir": "rtl",
+        "style": "Modern Hebrew; on first use keep a technical term in Latin script in parentheses"
       }
     ]
   },

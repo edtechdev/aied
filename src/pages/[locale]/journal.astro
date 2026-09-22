@@ -1,0 +1,14 @@
+---
+// Localized journal page: one route per locale other than the default.
+// Copy comes from src/i18n/pages/journal.<locale>.ts.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import JournalPage from '../../components/pages/JournalPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<JournalPage locale={locale!} />

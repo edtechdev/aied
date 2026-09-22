@@ -25,8 +25,8 @@ export const LOCALES = I18N.locales;
 export const LOCALE_CODES = LOCALES.map((l) => l.code);
 export const NON_DEFAULT_LOCALES = LOCALE_CODES.filter((c) => c !== DEFAULT_LOCALE);
 
-/** Routes that exist as real translations today. Everything else is English-only. */
-export const TRANSLATED_ROUTES = ['/', '/ai', '/search'] as const;
+/** Routes that exist as real page-level translations today, one route per page. */
+export const TRANSLATED_ROUTES = ['/', '/ai', '/search', '/resources', '/journal', '/faq'] as const;
 
 export type Locale = string;
 
@@ -36,6 +36,21 @@ export function isLocale(code: string | undefined): code is Locale {
 
 export function localeLabel(code: Locale): string {
   return LOCALES.find((l) => l.code === code)?.label || code;
+}
+
+/**
+ * Text direction for a locale. `dir` comes from the locale entry in
+ * site.config.json and defaults to `ltr`, the same rule the reference docs site
+ * uses. The direction is set on <html>; content that falls back to another
+ * language keeps ITS direction, so English shown under Arabic still reads
+ * left-to-right.
+ */
+export function localeDir(code: Locale): 'ltr' | 'rtl' {
+  return LOCALES.find((l) => l.code === code)?.dir === 'rtl' ? 'rtl' : 'ltr';
+}
+
+export function isRtl(code: Locale): boolean {
+  return localeDir(code) === 'rtl';
 }
 
 /**

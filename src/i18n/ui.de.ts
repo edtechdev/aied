@@ -27,18 +27,19 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  more: 'More',
-  toolsLink: 'Tools and resources',
+const de: UiStrings = {
+  more: 'Mehr',
+  toolsLink: 'Werkzeuge und Ressourcen',
   journalLink: 'Journal',
   faqLink: 'FAQ',
-  language: 'Language',
-  chooseLanguage: 'Choose a language',
-  notTranslated: 'English only',
+  language: 'Sprache',
+  chooseLanguage: 'Sprache wählen',
+  notTranslated: 'Nur auf Englisch',
   notTranslatedHint:
-    'This page is not translated yet, so the link opens that language home page.',
-  translationNoticeHtml: '',
-  originalPageLabel: 'Read this page in English',
+    'Diese Seite ist noch nicht übersetzt, der Link öffnet daher die Startseite dieser Sprache.',
+  translationNoticeHtml:
+    'Diese Seite wurde maschinell ins Deutsche übersetzt; die Wissensbasis selbst und ihre Artikel-, Konzept- und FAQ-Seiten sind auf Englisch verfasst.',
+  originalPageLabel: 'Diese Seite auf Englisch lesen',
 };
 
-export default en;
+export default de;

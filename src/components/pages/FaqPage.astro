@@ -1,0 +1,74 @@
+---
+// FAQ index, rendered for any locale from src/i18n/pages/faq.<locale>.ts. The
+// questions come from the `faqs` collection and stay in English until those pages
+// are translated.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../PageTypeIcon.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { strings } from '../../i18n';
+import { localizeHref, localizeHtml } from '../../i18n/config';
+
+const { locale } = Astro.props;
+const s = strings(locale).faq;
+const ui = strings(locale).ui;
+
+const faqs = await getCollection('faqs');
+const sorted = faqs.slice().sort((a, b) => {
+  const w = (b.data.weight ?? 0) - (a.data.weight ?? 0);
+  return w !== 0 ? w : (a.data.created || '').localeCompare(b.data.created || '');
+});
+---
+
+<BaseLayout title={s.title} locale={locale}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><PageTypeIcon kind="faq" size={20} />{s.h1}</h1>
+
+  <div class="page-intro">
+    <p set:html={localizeHtml(s.introHtml, locale)} />
+    <p set:html={localizeHtml(s.assistantHtml, locale)} />
+  </div>
+
+  {sorted.length === 0 && <p>{s.empty}</p>}
+
+  <div class="faq-list">
+    {sorted.map(f => {
+      const href = localizeHref(`/aied/faqs/${f.id.replace('.md', '')}/`, locale);
+      return <a href={href} class="faq-item">{f.data.title}</a>;
+    })}
+  </div>
+</BaseLayout>
+
+<style>
+  .page-intro {
+    line-height: 1.7;
+    color: var(--color);
+    margin-bottom: 1.5rem;
+  }
+  .page-intro p {
+    margin-bottom: 0.75rem;
+  }
+  .faq-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+    margin-top: 1rem;
+  }
+  .faq-item {
+    display: block;
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+    font-size: 1.05rem;
+    line-height: 1.5;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid var(--card-border-color);
+    background: color-mix(in srgb, var(--primary) 4%, transparent);
+    transition: background 0.15s, color 0.15s, border-color 0.15s;
+  }
+  .faq-item:hover {
+    background: color-mix(in srgb, var(--primary) 12%, transparent);
+    border-color: var(--primary);
+  }
+</style>

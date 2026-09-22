@@ -27,18 +27,18 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  more: 'More',
-  toolsLink: 'Tools and resources',
-  journalLink: 'Journal',
+const ja: UiStrings = {
+  more: 'その他',
+  toolsLink: 'ツールとリソース',
+  journalLink: 'ジャーナル',
   faqLink: 'FAQ',
-  language: 'Language',
-  chooseLanguage: 'Choose a language',
-  notTranslated: 'English only',
+  language: '言語',
+  chooseLanguage: '言語を選択',
+  notTranslated: '英語のみ',
   notTranslatedHint:
-    'This page is not translated yet, so the link opens that language home page.',
+    'このページはまだ翻訳されていないため、リンクはその言語のホームページを開きます。',
   translationNoticeHtml: '',
-  originalPageLabel: 'Read this page in English',
+  originalPageLabel: 'このページを英語で読む',
 };
 
-export default en;
+export default ja;
