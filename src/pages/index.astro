@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import ConceptMap from '../components/ConceptMap.astro';
+import KnowledgeBaseStats from '../components/KnowledgeBaseStats.astro';
 import siteConfig from '../config/siteConfig';
 
 const articles = await getCollection('articles');
@@ -15,6 +16,7 @@ const toc = [
   { text: 'Developers', slug: 'developers', depth: 3 },
   { text: 'Administrators', slug: 'administrators', depth: 3 },
   { text: 'Researchers', slug: 'researchers', depth: 3 },
+  { text: 'What is in the knowledge base', slug: 'whats-in-the-knowledge-base', depth: 2 },
 ];
 
 // === RSS ===
@@ -50,7 +52,7 @@ export const GET = () => {
 
   <h2 id="navigating-the-site">Navigating the site</h2>
   <p class="intro-paragraph">
-    Browse the strand-by-strand index in the left sidebar to see how the field is organised, or <a href="/aied/search">search</a> the whole knowledge base if you already have a topic in mind. Article pages condense one paper into its purpose, methods, and findings, with a full citation and links to related work; concept pages gather what the research says about one idea and link to the studies behind it. If you would rather start from a question, the <a href="/aied/faq">FAQ index</a> collects the ones visitors ask first, from course AI policy to whether to run AI detectors. The concept map above shows what connects to what; <a href="/aied/concepts/ai-education/">AI in Education</a> is the map page behind it, grouping the concepts into about a dozen umbrella strands.
+    Browse the strand-by-strand index in the left sidebar to see how the field is organised, or <a href="/aied/search">search</a> the whole knowledge base if you already have a topic in mind. Article pages condense one paper into its purpose, methods, and findings, with a full citation and links to related work; concept pages gather what the research says about one idea and link to the studies behind it. If you would rather start from a question, the <a href="/aied/faq">FAQ index</a> collects the ones visitors ask first, from course AI policy to whether to run AI detectors; if you would rather start from a tool, the <a href="/aied/resources">resources page</a> lists free tools, collections and instruments you can go and use, each saying who made it and what it costs. The concept map above shows what connects to what; <a href="/aied/concepts/ai-education/">AI in Education</a> is the map page behind it, grouping the concepts into about a dozen umbrella strands.
   </p>
 
   <h2 id="chat-with-the-knowledge-base">Chat with the knowledge base</h2>
@@ -87,6 +89,12 @@ export const GET = () => {
   <p class="intro-paragraph">
     <a href="/aied/concepts/research-methods-aied/">Research methods in AIED</a>, <a href="/aied/concepts/theories-and-frameworks/">theories and frameworks</a>, <a href="/aied/concepts/ai-ed-evaluation/">evaluating an AI in education intervention</a>, <a href="/aied/concepts/educational-measurement/">educational measurement</a>, <a href="/aied/concepts/learning-gains/">measuring learning gains</a>, and the <a href="/aied/concepts/limitations-in-aied-research/">cross-cutting limits of this evidence base</a>.
   </p>
+
+  <h2 id="whats-in-the-knowledge-base">What is in the knowledge base</h2>
+  <p class="intro-paragraph">
+    Every page here is dated, and the knowledge base grows as new open-access research is published and reviewed. The counts below are read from the current contents; the date is the most recent page update.
+  </p>
+  <KnowledgeBaseStats />
 
 </BaseLayout>
 
