@@ -1,30 +1,20 @@
 ---
 /**
- * Overflow ("more") menu in the header.
+ * Header overflow menu.
  *
- * Holds the two things the header row cannot carry at every width: the language
- * entries (below 1280px; above that the right sidebar shows them) and the FAQ
- * link, which used to be dropped outright on small screens to keep the theme
- * toggle on screen. The GitHub link sits here too — it never fit in the row at
- * all and lived only in the footer.
+ * The header row holds every control it has room for; when they stop fitting, the
+ * layout moves the lowest-priority ones in here, so the menu's contents are exactly
+ * whatever did not fit at the current width — icons only, each keeping its
+ * accessible name and tooltip. The chevron itself is hidden while the row fits
+ * everything, so a wide screen shows no overflow control at all.
  */
-import LanguageSwitcher from './LanguageSwitcher.astro';
 import { strings } from '../i18n';
 
-const {
-  locale = 'en',
-  route = '/',
-  translationMap,
-  faqHref,
-  toolsHref,
-  journalHref,
-  showLanguage = false,
-} = Astro.props;
-
+const { locale = 'en' } = Astro.props;
 const ui = strings(locale).ui;
 ---
 
-<div class="more-menu" data-more-menu>
+<div class="more-menu" data-more-menu hidden>
   <button
     type="button"
     class="header-icon more-toggle"
@@ -41,47 +31,7 @@ const ui = strings(locale).ui;
   </button>
 
   <div class="more-panel" data-more-panel hidden role="menu" aria-label={ui.more}>
-    <ul class="more-links">
-      <li class="more-narrow-only">
-        <a href={toolsHref} role="menuitem" class="more-item">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-            <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
-            <path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path>
-          </svg>
-          <span>{ui.toolsLink}</span>
-        </a>
-      </li>
-      <li class="more-narrow-only">
-        <a href={journalHref} role="menuitem" class="more-item">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-            <circle cx="12" cy="12" r="9"></circle>
-            <path d="M12 7.5v5l3.2 1.9"></path>
-          </svg>
-          <span>{ui.journalLink}</span>
-        </a>
-      </li>
-      <li>
-        <a href={faqHref} role="menuitem" class="more-item">
-          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
-            <circle cx="12" cy="12" r="10"></circle>
-            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
-            <line x1="12" y1="17" x2="12.01" y2="17"></line>
-          </svg>
-          <span>{ui.faqLink}</span>
-        </a>
-      </li>
-    </ul>
-    {showLanguage && (
-      <div class="more-section">
-        <LanguageSwitcher
-          locale={locale}
-          route={route}
-          translationMap={translationMap}
-          align="left"
-          variant="inline"
-        />
-      </div>
-    )}
+    <div class="more-slot" data-overflow-slot></div>
   </div>
 </div>
 
@@ -117,21 +67,17 @@ const ui = strings(locale).ui;
     background: color-mix(in srgb, var(--primary) 10%, transparent);
     outline: none;
   }
-  /* Tools and journal sit in the menu at every width: the row keeps them where
-     there is room, and at the narrowest sizes they are only reachable from here. */
-  .more-narrow-only {
-    display: block;
-  }
   .more-panel {
     position: absolute;
     top: calc(100% + 0.4rem);
     inset-inline-end: 0;
     z-index: 60;
-    min-width: 15rem;
+    min-width: 0;
     max-width: calc(100vw - 1.5rem);
     max-height: min(70dvh, 32rem);
     overflow-y: auto;
-    padding: 0.5rem;
+    overflow-x: hidden;
+    padding: 0.35rem;
     border: 1px solid var(--card-border-color);
     border-radius: 8px;
     background: var(--card-background-color);
@@ -140,46 +86,25 @@ const ui = strings(locale).ui;
   .more-panel[hidden] {
     display: none;
   }
-  .more-links + .more-section {
-    margin-top: 0.35rem;
-    padding-top: 0.35rem;
-    border-block-start: 1px solid var(--card-border-color);
+  /* Items that did not fit the row: one icon per row, no visible labels. */
+  .more-slot {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.15rem;
   }
-  .more-links {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  .more-item {
+  .more-slot :global(a),
+  .more-slot :global(button),
+  .more-slot :global(.lang-switcher) {
     display: flex;
     align-items: center;
-    gap: 0.55rem;
-    padding: 0.45rem 0.5rem;
-    border-radius: 6px;
-    color: var(--color);
-    text-decoration: none;
-    font-size: 0.92rem;
-  }
-  .more-item:hover,
-  .more-item:focus-visible {
-    background: color-mix(in srgb, var(--primary) 10%, transparent);
-  }
-  .more-item svg {
-    flex-shrink: 0;
-    color: var(--muted-color);
-  }
-  /* Above 1280px the right sidebar carries the language list, so the menu holds
-     only the two links there. */
-  @media (min-width: 1280px) {
-    .more-section {
-      display: none;
-    }
+    justify-content: flex-start;
   }
 </style>
 
 <script>
-  // One handler per menu: open/close on the button, close on an outside click,
-  // on Escape, or after a link inside it is chosen.
+  // Open/close on the button, close on an outside click, on Escape, or after a
+  // control inside it is used. What the slot holds is the layout script's business.
   document.querySelectorAll('[data-more-menu]').forEach((root) => {
     const btn = root.querySelector('[data-more-toggle]') as HTMLButtonElement | null;
     const panel = root.querySelector('[data-more-panel]') as HTMLElement | null;
