@@ -1,0 +1,14 @@
+---
+// Localized FAQ index: one route per locale other than the default.
+// Copy comes from src/i18n/pages/faq.<locale>.ts.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import FaqPage from '../../components/pages/FaqPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<FaqPage locale={locale!} />

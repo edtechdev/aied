@@ -1,0 +1,121 @@
+---
+// Journal page, rendered for any locale from src/i18n/pages/journal.<locale>.ts.
+// Every entry comes from the content collections (English until those pages are
+// translated), so entry links keep their authored targets.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../PageTypeIcon.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { strings } from '../../i18n';
+import { localizeHref } from '../../i18n/config';
+
+const { locale } = Astro.props;
+const s = strings(locale).journal;
+const ui = strings(locale).ui;
+
+const articles = await getCollection('articles');
+const concepts = await getCollection('concepts');
+const faqs = await getCollection('faqs');
+const resources = await getCollection('resources');
+
+const allItems = [
+  ...articles.map(a => ({ ...a, kind: 'article' as const })),
+  ...concepts.map(c => ({ ...c, kind: 'concept' as const })),
+  ...faqs.map(f => ({ ...f, kind: 'faq' as const })),
+  ...resources.map(r => ({ ...r, kind: 'resource' as const })),
+];
+
+const byDate: Record<string, typeof allItems> = {};
+allItems.forEach(item => {
+  const d = item.data.created.split('T')[0];
+  (byDate[d] ||= []).push(item);
+});
+// Within each day, reverse-chronological by created timestamp (string compare works
+// because the timestamps are full ISO).
+Object.values(byDate).forEach(list => {
+  list.sort((a, b) => (b.data.created || '').localeCompare(a.data.created || ''));
+});
+const dates = Object.keys(byDate).sort().reverse();
+
+const ICONS: Record<string, string> = {
+  article: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>',
+  faq: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>',
+  resource: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path><path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path><line x1="7" y1="12.5" x2="7" y2="14.5"></line><line x1="12" y1="12.5" x2="12" y2="14.5"></line><line x1="17" y1="12.5" x2="17" y2="14.5"></line></svg>',
+  concept: '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.3rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>',
+};
+
+const BASES: Record<string, string> = {
+  article: '/aied/articles',
+  faq: '/aied/faqs',
+  resource: '/aied/resources',
+  concept: '/aied/concepts',
+};
+
+const counts = {
+  articles: articles.length,
+  concepts: concepts.length,
+  faqs: faqs.length,
+  resources: resources.length,
+};
+
+const rssIcon = '<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.2rem;"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg>';
+const rssHref = localizeHref('/aied/rss.xml', locale);
+const rssHtml = `<a href="${rssHref}" style="color:var(--primary);font-weight:500;text-decoration:none;">${rssIcon}${s.rssLabel}</a>`;
+const intro = s.introTemplate
+  .replace(/\{(\w+)\}/g, (_m, k: string) => (k === 'rss' ? rssHtml : String((counts as any)[k] ?? '')));
+---
+
+<BaseLayout title={s.title} locale={locale}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><PageTypeIcon kind="article" size={20} />{s.h1}</h1>
+  <p class="journal-intro" set:html={intro} />
+
+  {dates.map(date => (
+    <details class="journal-day" open={date === dates[0]}>
+      <summary>
+        {date} — {byDate[date].length} {byDate[date].length === 1 ? s.pageSingular : s.pagePlural}
+      </summary>
+      {byDate[date].map(item => {
+        const href = `${BASES[item.kind]}/${item.id.replace('.md', '')}/`;
+        return (
+          <div class="journal-entry">
+            <a href={href} set:html={`<span>${ICONS[item.kind]}</span> ${item.data.title}`}></a>
+          </div>
+        );
+      })}
+    </details>
+  ))}
+</BaseLayout>
+
+<style>
+  .journal-intro {
+    line-height: 1.7;
+    margin-bottom: 1.25rem;
+  }
+  .journal-rss {
+    color: var(--primary);
+    font-weight: 500;
+    text-decoration: none;
+  }
+  .journal-day {
+    margin-bottom: 0.75rem;
+    border: 1px solid var(--card-border-color);
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+  }
+  .journal-day summary {
+    cursor: pointer;
+    font-weight: bold;
+    color: var(--primary);
+    font-size: 1.05rem;
+  }
+  .journal-entry {
+    padding-block: 0.4rem;
+    padding-inline: 1.2rem 0;
+    border-inline-start: 2px solid var(--primary);
+    margin: 0.3rem 0;
+  }
+  .journal-entry a {
+    font-weight: 500;
+  }
+</style>

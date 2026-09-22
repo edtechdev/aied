@@ -13,8 +13,6 @@ export interface UiStrings {
   journalLink: string;
   /** Label of the FAQ entry in the overflow menu. */
   faqLink: string;
-  /** Label of the GitHub entry in the overflow menu. */
-  githubLink: string;
   /** Label and accessible name of the language switcher button. */
   language: string;
   /** Heading inside the switcher popover. */
@@ -34,7 +32,6 @@ const es: UiStrings = {
   toolsLink: 'Herramientas y recursos',
   journalLink: 'Diario',
   faqLink: 'Preguntas frecuentes',
-  githubLink: 'GitHub',
   language: 'Idioma',
   chooseLanguage: 'Elige un idioma',
   notTranslated: 'Solo en inglés',
