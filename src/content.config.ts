@@ -384,4 +384,55 @@ const resources = defineCollection({
   }),
 });
 
-export const collections = { articles, concepts, faqs, resources };
+// ==== Locale content (i18n, 2026-09-22) ====
+// The layout, applied to this repo: the default locale sits at the content
+// root (`articles/`, `concepts/`, `faqs/`, `resources/`) and every other locale is
+// a top-level folder named by its code, mirroring that structure —
+//   fr/faqs/designing-ai-into-learning.md -> /aied/fr/faqs/designing-ai-into-learning/
+// Only translated pages exist in a locale folder; everything else falls back to the
+// English page at its English URL, so nothing dead-ends.
+//
+// The typed facet fields are copied from the English page and stay in English: they
+// are vocabulary keys (concept slugs) that the search facets and the registry use,
+// not prose. `translation_of` records which English page this is a translation of.
+const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh'];
+
+const translations = defineCollection({
+  loader: glob({
+    pattern: `{${LOCALE_CONTENT_DIRS.join(',')}}/{concepts,faqs,resources}/*.md`,
+    base: process.cwd(),
+  }),
+  schema: z.object({
+    title: z.string(),
+    created: timeField,
+    updated: timeField.optional().transform(v => v ?? ''),
+    // The English page this translates, as a content-relative path without the
+    // extension, e.g. 'faqs/designing-ai-into-learning'.
+    translation_of: z.string(),
+    // One-line note about the translation for readers: who or what produced it and
+    // whether a human has read it. Kept in frontmatter so it travels with the file.
+    translation_note: z.string().optional(),
+    // Resource fields. A translated resource page carries the same link, author and
+    // access terms as the English one; the values stay in English (a product name is
+    // not translated) and are rendered on the translated page as they are on the
+    // English one. Declared here because Zod strips unknown keys silently: without
+    // them the translated resource page would lose its link and credit line.
+    summary: z.string().optional(),
+    url: httpUrl('url').optional(),
+    source_code: httpUrl('source_code').optional(),
+    author: z.string().optional(),
+    author_url: httpUrl('author_url').optional(),
+    resource_type: enumList(...RESOURCE_TYPES).optional(),
+    access: enumList('free', 'free with account', 'freemium').optional(),
+    license: z.string().optional(),
+    last_verified: z.string().optional(),
+    weight: z.number().catch(0).transform(v => Number.isFinite(v) ? v : 0).optional(),
+    confidence: z.enum(['high', 'medium', 'low']).optional(),
+    connected_resources: connectedResources,
+    connected_faqs: connectedFaqs,
+    ...structuredMeta,
+    ...provenance,
+  }),
+});
+
+export const collections = { articles, concepts, faqs, resources, translations };

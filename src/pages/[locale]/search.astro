@@ -1,0 +1,15 @@
+---
+// Localized search page (/aied/<locale>/search/). The pagefind index is built
+// from every page in every language, so this searches the whole corpus; only the
+// chrome is translated for now.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import SearchPage from '../../components/pages/SearchPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<SearchPage locale={locale} />

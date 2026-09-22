@@ -1,0 +1,65 @@
+---
+// Home page, rendered for any locale from src/i18n/pages/home.<locale>.ts.
+// The English route is /aied/, other locales are /aied/<code>/ (see src/pages).
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ConceptMap from '../ConceptMap.astro';
+import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { strings } from '../../i18n';
+import { localizeHtml } from '../../i18n/config';
+
+const { locale } = Astro.props;
+const s = strings(locale).home;
+const ui = strings(locale).ui;
+const L = (html: string) => localizeHtml(html, locale);
+---
+
+<BaseLayout title={s.title} locale={locale} toc={s.toc}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1 class="page-title">{s.h1}</h1>
+  <ConceptMap />
+
+  <p class="intro-paragraph" set:html={L(s.introHtml)} />
+
+  <h2 id="navigating-the-site">{s.navHeading}</h2>
+  <p class="intro-paragraph" set:html={L(s.navHtml)} />
+
+  <h2 id="chat-with-the-knowledge-base">{s.chatHeading}</h2>
+  <p class="intro-paragraph" set:html={L(s.chatHtml)} />
+
+  <h2 id="starting-points">{s.startingHeading}</h2>
+  <p class="intro-paragraph" set:html={s.startingIntro} />
+
+  {s.groups.map((g) => (
+    <>
+      <h3 id={g.id}>{g.heading}</h3>
+      <p class="intro-paragraph" set:html={L(g.html)} />
+    </>
+  ))}
+
+  <KnowledgeBaseStats heading={s.statsHeading} intro={s.statsIntro} />
+</BaseLayout>
+
+<style>
+  .page-title {
+    margin: 0 0 1.25rem 0;
+    font-size: 1.6rem;
+  }
+  .intro-paragraph {
+    color: var(--muted-color);
+    margin-bottom: 1.25rem;
+    font-size: 1.02rem;
+    line-height: 1.7;
+  }
+  h2 {
+    margin: 1.9rem 0 0.9rem 0;
+    font-size: 1.2rem;
+  }
+  h3 {
+    margin: 1.4rem 0 0.5rem 0;
+    font-size: 1.05rem;
+  }
+  .intro-paragraph :global(a) {
+    font-weight: 500;
+  }
+</style>

@@ -43,6 +43,9 @@ import yaml
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
+# Translated content lives in locale folders mirroring the content root; a
+# translated page carries its own ai_assist record (role 'translation').
+LOCALE_DIRS = ('es', 'fr', 'zh')
 ROLES = {'drafting', 'revision', 'link classification', 'summarization', 'translation', 'none'}
 DEPTHS = {'full text', 'abstract only', 'metadata only'}
 VERIFIED = {'citation', 'numbers', 'quotes', 'links'}
@@ -103,7 +106,7 @@ def main() -> int:
 
     only_changed = changed_paths() if args.changed else None
     pages = []
-    for coll in COLLECTIONS:
+    for coll in [*COLLECTIONS, *(os.path.join(l, c) for l in LOCALE_DIRS for c in COLLECTIONS)]:
         pages += sorted(glob.glob(os.path.join(WIKI, coll, '*.md')))
 
     errors: list[str] = []

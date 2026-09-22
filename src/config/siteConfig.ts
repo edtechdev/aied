@@ -37,6 +37,17 @@ export interface SiteConfig {
     harness: string;
     models: Array<{ id: string; since: string; note?: string }>;
   };
+  // Internationalization. `defaultLocale` has no URL prefix (the
+  // `hideDefaultLocalePrefix: true` convention): /aied/ is English, /aied/fr/ is
+  // French. `fallbackLocale` is what a locale shows for a page it has not
+  // translated yet. Adding a locale here is what makes it routable and puts it in
+  // the language switcher — nothing else has to change.
+  i18n: {
+    defaultLocale: string;
+    fallbackLocale?: string | null;
+    hideDefaultLocalePrefix?: boolean;
+    locales: Array<{ code: string; label: string }>;
+  };
   license: {
     name: string;
     fullName: string;

@@ -1,0 +1,13 @@
+---
+// Localized "use with your own AI assistant" page (/aied/<locale>/ai/).
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import AiPage from '../../components/pages/AiPage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<AiPage locale={locale} />

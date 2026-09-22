@@ -1,0 +1,335 @@
+---
+// Search page, rendered for any locale from src/i18n/pages/search.<locale>.ts.
+// The pagefind index itself is global (built from every page), so a localized
+// search page searches the same corpus; only the chrome is translated here.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { getCollection } from 'astro:content';
+import { FACET_FIELDS, FACET_DISPLAY_ORDER } from '../../data/facetVocab';
+import { strings } from '../../i18n';
+
+const { locale } = Astro.props;
+const s = strings(locale).search;
+const ui = strings(locale).ui;
+
+// Facet values that are concept slugs read poorly in a filter dropdown as
+// 'self-regulated-learning'; map them to their concept page titles for display.
+const LABELS_MAP: Record<string, string> = Object.fromEntries(
+  FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
+);
+const filterBar = [
+  { filter: 'page_type', label: s.filterLabels.page_type },
+  { filter: 'discipline', label: s.filterLabels.discipline },
+  { filter: 'level', label: s.filterLabels.level },
+  { filter: 'audience', label: s.filterLabels.audience },
+  { filter: 'research_method', label: s.filterLabels.research_method },
+  ...(FACET_DISPLAY_ORDER as readonly string[]).map((field) => ({ filter: field, label: LABELS_MAP[field] || field })),
+  { filter: 'page_kind', label: s.filterLabels.page_kind },
+];
+const concepts = await getCollection('concepts');
+const facetLabels: Record<string, string> = {};
+for (const c of concepts) {
+  facetLabels[c.id.replace(/\.md$/, '')] = c.data.title;
+}
+---
+
+<BaseLayout title={s.title} locale={locale} hideHeaderSearch>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><svg class="page-type-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>{s.h1}</h1>
+  <p style="color:var(--muted-color);margin-bottom:1rem;">
+    {s.intro}
+  </p>
+
+  <div class="search-corpus">
+    <p style="color:var(--muted-color);margin-bottom:0.5rem;">
+      {s.corpusIntro}
+    </p>
+    <KnowledgeBaseStats />
+  </div>
+
+  <div class="search-interface">
+    <pagefind-config bundle-path="/aied/pagefind/" faceted></pagefind-config>
+    <div class="search-controls">
+      <pagefind-input placeholder={s.placeholder}></pagefind-input>
+    </div>
+    <div class="filter-bar">
+      {filterBar.map((f) => (
+        <pagefind-filter-dropdown filter={f.filter} label={f.label}></pagefind-filter-dropdown>
+      ))}
+    </div>
+    <pagefind-summary></pagefind-summary>
+    <pagefind-results show-excerpt></pagefind-results>
+  </div>
+</BaseLayout>
+
+<link href="/aied/pagefind/pagefind-component-ui.css" rel="stylesheet" />
+
+<script is:inline define:vars={{ facetLabels }}>
+  // Pagefind's filter dropdowns render the raw filter value, so the typed facet
+  // values (concept slugs) would read as 'self-regulated-learning'. Rewrite any
+  // text node inside a dropdown's shadow DOM whose whole content is a known
+  // concept slug into that concept's page title. Everything else, and any
+  // dropdown whose internals change, is left untouched.
+  (() => {
+    const labels = facetLabels || {};
+    const walk = (node) => {
+      for (const child of node.childNodes || []) {
+        if (child.nodeType === 3) {
+          const key = child.nodeValue.trim();
+          if (key && labels[key]) child.nodeValue = child.nodeValue.replace(key, labels[key]);
+        } else if (child.nodeType === 1) {
+          if (child.shadowRoot) walk(child.shadowRoot);
+          if (child.childNodes && child.childNodes.length) walk(child);
+        }
+      }
+    };
+    const apply = () => {
+      document.querySelectorAll('.filter-bar pagefind-filter-dropdown').forEach((el) => {
+        walk(el);
+      });
+    };
+    // The dropdowns build their options after hydration and re-render them when
+    // opened, so re-apply on any childList change inside the filter bar. This
+    // cannot loop: our rewrite edits text nodes, which childList does not watch.
+    const bar = document.querySelector('.filter-bar');
+    if (bar) {
+      new MutationObserver(() => {
+        if (bar.__facetBusy) return;
+        bar.__facetBusy = true;
+        requestAnimationFrame(() => { apply(); bar.__facetBusy = false; });
+      }).observe(bar, { childList: true, subtree: true });
+    }
+    window.addEventListener('load', () => { apply(); setTimeout(apply, 400); });
+    document.addEventListener('pagefind-ui-loaded', apply);
+  })();
+</script>
+
+<style>
+  .search-interface {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .search-corpus {
+    max-width: 800px;
+    margin: 0 auto 1.25rem auto;
+  }
+  .search-controls {
+    display: flex;
+    gap: 0.75rem;
+    margin-bottom: 1.5rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  .search-controls pagefind-input {
+    flex: 1;
+    min-width: 250px;
+  }
+  .filter-bar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1.25rem;
+  }
+  pagefind-filter-dropdown {
+    flex: 0 0 auto;
+  }
+  /* PageFind's component UI has NO shadow DOM (there is no `attachShadow`
+     anywhere in pagefind-component-ui.js), so every `::part(...)` rule that used
+     to live here matched nothing and none of it ever applied. The styles below
+     target PageFind's real light-DOM classes instead. Two consequences:
+       - they must be wrapped in `:global()`, because Astro's scoping would
+         otherwise append this component's `[data-astro-cid-...]` attribute to
+         selectors for elements PageFind creates at runtime, which never carry it;
+       - PageFind styles these same classes through `:is(*, #\#):is(*, #\#):is(*, #\#)`
+         (ID-level specificity), so overriding a property PageFind sets needs
+         `!important`. PageFind sets trigger height/padding/font-size/border,
+         so those carry it; things it leaves alone (colour, radius on the menu)
+         do not need it. */
+  :global(.pf-dropdown-trigger) {
+    gap: 0.4rem !important;
+    height: auto !important;
+    padding: 0.5rem 0.9rem !important;
+    font-size: 0.9rem !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
+    background: var(--card-background-color) !important;
+    color: var(--color) !important;
+  }
+  :global(.pf-dropdown-trigger:hover),
+  :global(.pf-dropdown-trigger.open) {
+    border-color: var(--primary) !important;
+  }
+  :global(.pf-dropdown-selected-badge) {
+    color: var(--color) !important;
+    background: color-mix(in srgb, var(--primary) 18%, transparent) !important;
+  }
+  :global(.pf-dropdown-menu) {
+    background: var(--card-background-color) !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
+  }
+  :global(.pf-dropdown-option) {
+    font-size: 0.9rem !important;
+    color: var(--color) !important;
+  }
+  :global(.pf-dropdown-option:hover),
+  :global(.pf-dropdown-option-focused) {
+    background: color-mix(in srgb, var(--primary) 10%, transparent) !important;
+  }
+  :global(.pf-dropdown-option-count) {
+    color: var(--muted-color) !important;
+  }
+  /* Keep the dropdown popup inside the viewport on small screens. PageFind
+     styles the menu with high-specificity selectors (`:is(*, #\#):is(*, #\#):is(*, #\#)`),
+     so `!important` is required. On mobile we pin the menu to the viewport
+     (position:fixed + 1rem insets) so it cannot spill off either side or the
+     bottom. The `transform: none` reset is load-bearing: PageFind's own
+     `@media (max-width: 640px)` block centers the menu on its trigger with
+     `left: 50%; transform: translateX(-50%)`; the left:50% is overridden above
+     but the transform was NOT, so the fixed box was still shifted left by half
+     its width and hung off the LEFT edge of phone screens. */
+  @media (max-width: 640px) {
+    :global(.pf-dropdown-menu) {
+      position: fixed !important;
+      inset: 1rem 1rem auto 1rem !important;
+      transform: none !important;
+      min-width: 0 !important;
+      width: auto !important;
+      max-width: calc(100vw - 2rem) !important;
+      max-height: min(70vh, 24rem) !important;
+      z-index: 1000 !important;
+    }
+  }
+
+  /* The search box. PageFind sets height/font-size/border and pads the inline
+     sides (32px start for the magnifier icon, 36px end for the clear button), so
+     we override the rest and leave that inline padding alone -- replacing the
+     whole `padding` shorthand would slide the text under the icon. */
+  :global(.pf-input) {
+    height: auto !important;
+    padding-top: 0.75rem !important;
+    padding-bottom: 0.75rem !important;
+    font-size: 1.05rem !important;
+    border: 2px solid var(--card-border-color) !important;
+    border-radius: 6px !important;
+    background: var(--card-background-color) !important;
+  }
+  :global(.pf-input:focus-visible) {
+    border-color: var(--primary) !important;
+    outline: none !important;
+  }
+
+  :global(.pf-summary) {
+    margin-bottom: 0.75rem !important;
+    font-size: 0.9rem !important;
+    color: var(--muted-color) !important;
+  }
+
+  :global(.pf-result) {
+    padding: 1rem 0 !important;
+    border-bottom: 1px solid var(--card-border-color) !important;
+  }
+  :global(.pf-result-link) {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: var(--primary) !important;
+    text-decoration: none;
+  }
+  :global(.pf-result-link:hover) {
+    text-decoration: underline;
+  }
+  :global(.pf-result-excerpt) {
+    margin-top: 0.25rem !important;
+    font-size: 0.9rem !important;
+    line-height: 1.5 !important;
+    color: var(--muted-color) !important;
+    /* PageFind ships `white-space: nowrap` + ellipsis, i.e. one truncated line.
+       Let excerpts wrap to a readable block instead. */
+    white-space: normal !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+  }
+  :global(.pf-heading-chips) {
+    margin-top: 0.5rem !important;
+    display: flex !important;
+    gap: 0.3rem !important;
+    flex-wrap: wrap !important;
+    list-style: none !important;
+    padding: 0 !important;
+  }
+</style>
+
+<script is:inline>
+  // Sync the search term AND selected filters to the URL so searches can be
+  // bookmarked and shared. Uses ?q=<term>&f=<base64 JSON of filters>.
+  // Runs on an interval (independent of the PageFind module load timing) so it
+  // reliably attaches once the components are registered.
+  (function () {
+    const readParams = () => {
+      const p = new URLSearchParams(window.location.search);
+      let filters = {};
+      try {
+        const f = p.get("f");
+        if (f) filters = JSON.parse(atob(f));
+      } catch {}
+      return { q: p.get("q") || "", filters };
+    };
+
+    const writeParams = (q, filters) => {
+      const p = new URLSearchParams();
+      if (q) p.set("q", q);
+      const hasFilters = Object.keys(filters || {}).some((k) => (filters[k] || []).length);
+      if (hasFilters) p.set("f", btoa(JSON.stringify(filters)));
+      const qs = p.toString();
+      const url = qs ? window.location.pathname + "?" + qs : window.location.pathname;
+      window.history.replaceState({}, "", url);
+    };
+
+    const { q, filters } = readParams();
+    let attached = false;
+    let retry = 0;
+
+    let attemptCount = 0;
+    const attempt = () => {
+      const C = window.PagefindComponents;
+      if (!C || !C.getInstanceManager) { setTimeout(attempt, 200); return; }
+      let inst;
+      try { inst = C.getInstanceManager().getInstance("default"); } catch { inst = null; }
+      if (!inst) { setTimeout(attempt, 200); return; }
+
+      // Persist on every search — but never write an empty state.
+      if (!attached) {
+        attached = true;
+        inst.on("search", (term, f) => {
+          const ff = f || {};
+          const hasFilters = Object.keys(ff).some((k) => (ff[k] || []).length);
+          if (!term && !hasFilters) return;
+          writeParams(term, ff);
+        });
+      }
+
+      // Restore the query using fixed timing: PageFind's faceted init re-renders
+      // the input and does NOT settle until ~5.5s after load. Wait past that,
+      // then set the input value + dispatch input (what a real user typing does —
+      // fills the box AND runs the search). A pure set+dispatch is sufficient.
+      const input = document.querySelector("pagefind-input input");
+      if (!input) { setTimeout(attempt, 200); return; }
+      if (!q && !Object.keys(filters).length) return;
+      if (Date.now() < window.__pfStart + 5500) { setTimeout(attempt, 250); return; }
+      attemptCount += 1;
+      if (attemptCount <= 3 && input.value !== q) {
+        input.value = q;
+        input.dispatchEvent(new Event("input", { bubbles: true }));
+        if (Object.keys(filters).length) {
+          try { inst.triggerSearchWithFilters(q, filters); } catch {}
+        }
+        setTimeout(attempt, 500);
+        return;
+      }
+      attemptCount = 0;
+    };
+    window.__pfStart = Date.now();
+    setTimeout(attempt, 300);
+  })();
+</script>
