@@ -6,6 +6,7 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
+reviewed_by: [editor]
 ---
 
 # What Competencies Do Faculty Need in Regard to AI?

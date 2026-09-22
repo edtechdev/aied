@@ -9,6 +9,7 @@ audience: [instructional designers, software developers, learning analytics desi
 page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
+reviewed_by: [editor]
 ---
 
 > **Educational Technology Developers** — the people and organizations that build educational technology: product designers, software developers, learning engineers, learning-analytics designers, and the edtech companies, university labs and [[open-source]] projects they work in. In AI in education this is the role that turns a model capability into something a teacher or learner can actually use, and it carries decisions no later stage can undo: what evidence a design claim rests on, how far a [[learning-analytics|analytics]] pipeline or a [[intelligent-tutoring|tutoring]] system is grounded in the institution's own licensed material, whether teachers and learners are included in design, which [[learning-design|instructional design]] assumptions are baked into the defaults, and what happens to the product after the funding stops. Across the knowledge base's system reports and deployment studies, the recurring lesson is that the deployment context, not the model, is usually the binding constraint.

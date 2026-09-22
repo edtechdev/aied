@@ -10,6 +10,7 @@ ethics: [equity-in-ai-education]
 discipline: [english education, language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **English education** — the application of AI to the [[teacher-role|teaching]] and learning of English, especially **English for Academic Purposes (EAP)** and English language teaching more broadly (EFL/ESL/L2). This is a [[discipline-specific-aied|discipline-specific]] [[ai-education|AIEd]] strand distinct from both general [[language-learning]] (second/foreign-language acquisition of any language) and [[writing-education]] (writing as a general skill): it centers on English as a target language and academic register, with its own signature pedagogies — communicative competence, genre-based academic writing, corrective feedback, and reading/writing in an academic register — that shape how AI is designed, used, and evaluated.

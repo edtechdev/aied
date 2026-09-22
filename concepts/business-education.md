@@ -8,6 +8,7 @@ technology: [generative-ai]
 discipline: [business education]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **AI in business education** — the application of artificial intelligence to the teaching and learning of business, economics, and management, and the preparation of students for a GenAI-integrated workplace. Business schools face a double imperative: integrating AI *into* the curriculum as a subject and [[pedagogy|pedagogical]] tool, while also preparing students to *use* generative AI responsibly and effectively in professional practice.

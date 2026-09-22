@@ -5,6 +5,7 @@ updated: "2026-09-18T06:20:00-04:00"
 weight: 88
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
+reviewed_by: [editor]
 ---
 
 # How Can I Reduce AI Cheating in My Course?

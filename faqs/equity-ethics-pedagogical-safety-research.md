@@ -6,6 +6,7 @@ weight: 60
 
 ethics: [accessibility, digital-divide, equity-in-ai-education, ethics, privacy, pedagogical-safety]
 methods: [research-methods-aied]
+reviewed_by: [editor]
 ---
 
 # How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?

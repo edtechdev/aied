@@ -6,6 +6,7 @@ type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **AIEd in the Disciplines** — the application of artificial intelligence to teaching and learning within specific academic subjects, where each discipline's signature pedagogies, methods, theories, and concerns shape how AI is designed, used, and evaluated. Rather than treating [[ai-education|AI in education]] as a single generic phenomenon, this overview organizes the knowledge base's discipline-specific coverage and surfaces the cross-cutting themes that run through subject-area AIEd research.

@@ -8,6 +8,7 @@ pedagogy: [behaviorism, learning-theories]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Behaviorism** — the learning theory that treats learning as a change in observable behavior produced by stimulus–response associations and reinforcement, rather than by changes in internal mental states. In [[ai-education|AI in education]], behaviorist principles underlie the drill-and-practice, immediate-feedback, and adaptive-pacing designs that dominate many [[intelligent-tutoring]] and [[adaptive-learning]] systems.([[ai-vocational-education-training-review]])

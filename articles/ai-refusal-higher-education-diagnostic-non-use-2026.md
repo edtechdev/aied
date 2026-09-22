@@ -15,6 +15,7 @@ technology: [generative-ai, llm, learning-analytics]
 assessment: [assessment-validity, ai-detection]
 institutions: [governance, educational-policy-ai, change-management]
 ethics: [equity-in-ai-education, privacy, sustainability]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Zagami argues that refusal deserves to be treated as evidence rather than as a problem to be corrected. Refusal in higher education is not one behavior: a student declining a chatbot for assessed writing, a course team prohibiting it for unaided reasoning, an academic refusing to delegate formative judgment to automated feedback, staff resisting automated triage in student support, and a university delaying procurement are different relations to different systems, and the paper insists they be read separately. Its central distinction is between private refusal, which should be protected, and role-based refusal, which carries a duty to justify non-use where AI materially shapes learning, teaching, assessment, research, administration or governance. Crucially, that duty is not a requirement to adopt: understanding includes the capacity to reject, restrict, audit and critique, so [[ai-literacy]] has to cover deciding when a system should not be used. Where AI is infrastructural, refusal cannot be an individual opt-out at all, and it moves to procurement, audit and contestability.

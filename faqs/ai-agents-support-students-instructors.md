@@ -5,6 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
+reviewed_by: [editor]
 ---
 
 # How Can AI Agents Support Students and Instructors?

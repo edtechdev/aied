@@ -14,6 +14,7 @@ audience: [instructors, instructional designers, learners]
 level: [higher ed]
 confidence: medium
 sources: ['raw/papers/2609.18505.md']
+reviewed_by: [editor]
 ---
 
 Qu, Ling, and Yang (2026) report an instructional framework that joins flipped learning, an exemplar gallery, and GenAI-assisted visual prototyping in an undergraduate knit yarn design course. In practice-based studio work, visual intentions must become feasible material outcomes, and in knit design those decisions are bound to yarn properties, stitch structures, machine operation, and the cost of physical sampling.

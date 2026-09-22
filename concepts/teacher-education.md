@@ -8,6 +8,7 @@ connected_faqs: [faculty-development-ai]
 audience: [instructors]
 level: [teacher education, k 12, adult learning]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **[[educational-development|Professional development]]** — the preparation and ongoing professional development of teachers, spanning pre-service teacher training (initial certification programs) and in-service professional development. In AI-in-education [[research-methods-aied|research]], teacher education has become a central concern because teachers' AI literacy, technological-[[pedagogy|pedagogical]] knowledge, [[ethics|ethical]] fluency, and readiness to integrate AI into instruction determine whether AI adoption in classrooms succeeds. This concept organizes the knowledge base's substantial coverage of how AI reshapes the preparation, knowledge, beliefs, and practice of both prospective and practicing teachers.

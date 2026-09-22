@@ -6,6 +6,7 @@ type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Item response theory (IRT)** — a family of psychometric models that estimate latent ability from item responses by modeling the relationship between a learner's ability and the probability of answering each item correctly. IRT models item difficulty and discrimination, enabling measurement precision and adaptive testing. In the AI era, IRT meets [[llm|LLMs]] in [[llm-item-difficulty-prediction]] and [[llm-psychometric-calibration-cdp]]: AI predicts and calibrates item difficulty, potentially improving measurement precision and feeding [[adaptive-learning]].

@@ -9,6 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
+reviewed_by: [editor]
 ---
 
 # How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?

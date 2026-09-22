@@ -10,6 +10,7 @@ assessment: [feedback]
 discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **AI tutoring / intelligent tutoring** — the use of AI to provide personalized, adaptive, scalable instructional support: from classical Intelligent Tutoring Systems (ITS) that model student knowledge, adapt instruction, and scaffold [[problem-solving]], to conversational and agent-based tutors built on [[llm|LLMs]]. Effectiveness hinges on [[pedagogy|pedagogical]] design ([[scaffolding]], feedback quality, autonomy balance) rather than the model alone — see [[measuring-llm-tutors-teach-vs-solve]] and [[socratic-method]].

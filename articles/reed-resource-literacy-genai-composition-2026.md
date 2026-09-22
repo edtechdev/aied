@@ -12,6 +12,7 @@ ethics: [universal-design-for-learning]
 discipline: [english education]
 level: [higher ed]
 audience: [instructors, curriculum designers]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Erica Reed argues that the deeper instructional problem in online first-year [[writing-education|composition]] is not generative AI but resource literacy — students' ability to identify, evaluate, select, and strategically use academic supports. Drawing on three years of iteration in fully online [[higher-ed|college]] courses at Cochise College, she describes the CLEAR cycle (Clarify, Locate, Engage, Assess [[feedback|Feedback]], and Revise/Reflect), which treats [[generative-ai]] as one optional resource among rubrics, tutors, [[librarians]], peers, and [[teacher-role|instructor]]. CLEAR rests on five design commitments: GenAI is optional, transparent, evaluated, one resource among many, and paired with reflection. Reed reports that students used GenAI mainly for brainstorming and clarification rather than full essay production; that reflection and disclosure reduced [[cognitive-offloading|overreliance]]; that comparing [[ai-feedback-quality|AI feedback]] with rubric criteria strengthened [[evaluative-judgment]] and human [[help-seeking]]; and that optionality preserved [[agency]]. Her recommendation is design-level: embed task clarification, resource planning, feedback comparison, and structured reflection into ordinary coursework so resource use becomes teachable.

@@ -6,6 +6,7 @@ weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
+reviewed_by: [editor]
 ---
 
 # What Are Best Practices and Tips for Designing Effective Educational AI Software?

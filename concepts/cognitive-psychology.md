@@ -6,6 +6,7 @@ type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Cognitive psychology / cognitivism** — the family of theories that explain learning through internal mental processes — attention, perception, memory, reasoning, and metacognition — rather than through observable behavior alone. In [[ai-education|AI in education]], cognitivist assumptions underpin the field's most distinctive contributions: [[intelligent-tutoring]] systems that model learner knowledge, [[knowledge-tracing]] and [[cognitive-diagnosis]] that track what a learner knows, [[feedback]] designs grounded in error diagnosis, and the whole [[student-modeling|learner modeling and adaptive instruction]] family. Cognitivism is the middle ground between [[behaviorism]] (learning as behavioral change) and [[constructivist|constructivism]] (learning as active meaning-making), and it is the theoretical lens most closely tied to the computer metaphor of the mind that animated early AIED.

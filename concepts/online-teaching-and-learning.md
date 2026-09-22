@@ -9,6 +9,7 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
+reviewed_by: [editor]
 ---
 
 > **Online teaching and learning** — the pedagogy and practice of teaching and learning that happens through digital, network-mediated environments rather than in a shared physical classroom. It spans fully online courses, Massive Open Online Courses (MOOC), blended and hybrid formats, and distance education. For the knowledge base, the central question is how [[generative-ai]] reshapes the opportunities, challenges, and recommended practices of teaching at a distance — from scalable [[personalized-learning|personalization]] to new [[academic-integrity]] and [[cognitive-offloading]] risks.

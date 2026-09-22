@@ -6,6 +6,7 @@ type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Cognitive diagnosis** — the inference of a learner's latent knowledge state — the specific concepts, skills, and misconceptions they have or lack — from their responses or behavior. It is the assessment-side counterpart to [[knowledge-tracing]], focused on characterizing *what* a student knows rather than only predicting their next performance.

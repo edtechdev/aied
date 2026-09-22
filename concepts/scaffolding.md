@@ -9,6 +9,7 @@ pedagogy: [metacognition, sociocultural-learning, socratic-method]
 technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Scaffolding** — structured support that helps learners accomplish tasks they cannot yet complete independently, with support fading as competence grows. In [[ai-education]], scaffolding is the primary design principle for ensuring AI tools support learning rather than replace it.

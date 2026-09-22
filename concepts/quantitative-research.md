@@ -7,6 +7,7 @@ assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
+reviewed_by: [editor]
 ---
 
 > **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation]], and [[self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.

@@ -8,6 +8,7 @@ pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based
 technology: [generative-ai]
 discipline: [stem education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Inquiry-based learning (IBL)** — a learner-centered [[pedagogy]] in which students develop understanding by posing questions, exploring independently, and constructing knowledge through a cycle of inquiry, reflection, and revision, with the instructor [[scaffolding]] rather than lecturing. In the AI era, IBL's question-driven, exploration-centered structure has become a focal point: [[generative-ai|generative AI]] and [[llm]] tools can serve as interactive "co-inquirers" that support questioning and investigation — but only when designed to preserve rather than bypass the cognitive work of inquiry.

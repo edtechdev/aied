@@ -11,6 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
+reviewed_by: [editor]
 ---
 
 # How Do I Keep Students from Over-Relying on AI?

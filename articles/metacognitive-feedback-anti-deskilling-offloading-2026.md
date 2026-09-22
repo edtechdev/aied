@@ -14,6 +14,7 @@ pedagogy: [metacognition, self-regulated-learning]
 technology: [llm, generative-ai]
 assessment: [learning-gains]
 methods: [rct]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** A preregistered online experiment with 704 participants tested two ways of reducing [[cognitive-offloading]] to an [[llm|LLM]] assistant without restricting access to it. [[metacognition|Metacognitive]] feedback, which made the consequences of offloading explicit, reduced answer offloading (OR = 0.47) and raised the odds of answering a later unaided test item correctly (OR = 1.51); an effort-based reward changed neither outcome. Because a ten-percentage-point rise in offloading was associated with 32% lower odds of unaided success, the feedback intervention worked on the mechanism that matters, and it did so as a design choice rather than a rule.

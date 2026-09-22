@@ -7,6 +7,7 @@ confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
+reviewed_by: [editor]
 ---
 
 > **Human-AI collaboration** — the division of cognitive labor between people and models — is the knowledge base's core interaction theme: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]], and [[teacher-student-agency-orchestration]] examine trust, agency, and complementary roles ([[human-in-the-loop-ai]], [[agentic-ai]]). The defining question is whether the partnership **preserves or replaces** the learner's own cognitive work — the same arrangement can support learning or substitute for it depending on how responsibility is shared.

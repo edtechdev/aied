@@ -9,6 +9,7 @@ audience: [learners, instructors, faculty developers, administrators]
 level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Higher Education** — the integration of artificial intelligence into university [[teacher-role|teaching]], learning, assessment, and [[administrator|administration]]. Higher education is the most-studied context in the knowledge base, with over 100 articles examining how AI transforms college-level instruction, [[educational-policy-ai|institutional policy]], and [[student-experience|student experience]]. AI in higher education is both the dominant setting for [[ai-education|AIED]] [[research-methods-aied|research]] and the site where its tensions are most visible — between [[generative-ai|generative AI]]'s promise of scalable [[personalized-learning|personalization]] and its risks to [[academic-integrity|integrity]], [[cognitive-offloading|learning]], [[privacy]], and [[equity-in-ai-education|equity]]. It encompasses both undergraduate and graduate study, including professional programs such as [[medical-education|medicine]] and [[business-education|business]].

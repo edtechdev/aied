@@ -10,6 +10,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
+reviewed_by: [editor]
 ---
 
 > **Arts, design and media education** — the studio- and performance-based disciplines in which learning happens by making: architecture and spatial design, interior design, music performance, [[writing-education|composition]] and analysis, visual art and image generation, digital media and [[storytelling-in-education|digital storytelling]], and stage and performance technology. Across the articles in this knowledge base the recurring questions are whether [[generative-ai]] erodes craft and skill development or moves it up a level, how critique and the [[assessment]] of creative work change when a polished artifact is cheap to produce, how much of each discipline rests on [[embodied-learning|embodied]] and material practice, and who is included when creative tools become generative. Coverage is concentrated in [[higher-ed|higher education]] and in single-studio or single-course studies, so most findings below are case evidence rather than discipline-wide claims.

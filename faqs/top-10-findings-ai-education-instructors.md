@@ -7,6 +7,7 @@ foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
 audience: [instructors]
+reviewed_by: [editor]
 ---
 
 # What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?

@@ -9,6 +9,7 @@ pedagogy: [metacognition, motivation, self-regulated-learning]
 technology: [generative-ai]
 assessment: [assessment]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **AI misuse and learning harm** — the causal relationship between students offloading [[cognitive-offloading|cognitive work]] to [[generative-ai|generative AI]] and reduced durable learning, even when immediate task performance rises. The defining feature is a performance–learning gap: AI inflates assisted performance while degrading unassisted, closed-book, and retention outcomes.

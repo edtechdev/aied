@@ -15,6 +15,7 @@ technology: [generative-ai, llm]
 assessment: [assessment-validity, ai-detection]
 ethics: [equity-in-ai-education]
 institutions: [governance]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Weidlich argues that generative AI has not created one assessment problem but several that debate collapses together, and that treating them as academic integrity misses what is actually at stake: the meaning of the evidence. Working from Kane's argument-based validity, he sets out a case where a student submits a strong take-home essay and then performs poorly in a supervised oral explanation, and shows that the discrepancy alone cannot tell you what capability the essay now evidences, whether the score reflects tool access or marker response, how much of the work belongs to the student, or what decision the combined evidence can justify. From there he separates five pressures on the inference chain, offers a five-step redesign sequence that starts with specifying the intended claim and the AI conditions, and gives a Validity Reasoning Matrix that links each concern to a threatened inference, a design question and the local evidence needed.

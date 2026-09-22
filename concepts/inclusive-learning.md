@@ -8,6 +8,7 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-d
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Inclusive Learning** — the design and delivery of educational experiences that accommodate diverse learner needs, spanning physical, cognitive, sensory, and situational differences. In AI in education, inclusive learning [[research-methods-aied|research]] examines both how AI tools can remove barriers for disabled and neurodivergent learners and how [[ai-technologies|AI systems]] themselves must be designed to avoid creating new accessibility gaps.

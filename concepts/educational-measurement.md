@@ -8,6 +8,7 @@ technology: [educational-nlp, knowledge-tracing, learning-analytics]
 assessment: [assessment-validity, item-response-theory, psychometrically-aware-ai]
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Educational measurement** — the psychometric theory and methods for quantifying and validating learning and its constructs — runs through the knowledge base's [[item-response-theory]], [[knowledge-tracing]], and [[assessment-validity]] pages. The [[llm]] era forces measurement to reconcile classical psychometrics with new AI-generated response streams: automated scoring, AI-predicted difficulty, and [[multimodal]] traces must be validated against established measurement principles to preserve reliability and validity.

@@ -11,6 +11,7 @@ ethics: [ethics, ai-use-disclosure]
 technology: [generative-ai]
 level: [higher ed]
 audience: [instructors, curriculum designers]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Wood and Moss propose the AI-ARC framework (Ask, Reflect, Create) as a simple, student-facing alternative to educator-centric AI guidance. Their argument is normative, not empirical: [[ai-literacy|responsible AI use]] is not a limit on [[agency]] but its strongest expression, and students act ethically by using AI with judgment, reflection, and purpose rather than avoiding it. AI-ARC adapts the authors' earlier AI-ICE model — itself derived from the ICE model of Ideas, Connections, and Extensions — shifting its purpose from evaluating engagement with AI to guiding it. Ask replaces Ideas, Reflect replaces Connections, and Create replaces Extensions, moving [[learners]] from curiosity through critical and ethical evaluation to original authorship. Drawing on Bandura's account of agency, the paper argues that AI efficiency can erode [[critical-thinking]] and offers designers a heuristic: map objectives to ARC stages, build reflection checkpoints, and treat responsible use as part of [[academic-integrity|academic integrity]]. The framework is proposed, not tested.

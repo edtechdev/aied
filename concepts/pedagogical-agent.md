@@ -10,6 +10,7 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis**: [[pedagogy|Pedagogical]] agents are AI-driven conversational interfaces embedded in learning environments that use pedagogical strategies (eliciting, telling, scaffolding) to support [[student-engagement|learner engagement]], reflection, and metacognition. Designs vary from simple information providers to interactive dialogue partners that adapt to learner states.

@@ -9,6 +9,7 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
+reviewed_by: [editor]
 ---
 
 This FAQ is organized by stakeholder group and uses a **refutation approach**: name the misconception, explain why it may seem plausible, reject the inaccurate belief directly, and replace it with a more useful mental model. It is based on the AI in Education knowledge base, especially its syntheses of [[misconceptions|Misconceptions about AI]], [[ai-literacy|AI Literacy]], [[cognitive-offloading|Cognitive Offloading]], and [[refutation-text|Refutation Text]]. 

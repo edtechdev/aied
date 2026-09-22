@@ -9,6 +9,7 @@ ethics: [ethics]
 connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Learner agency** — the capacity of learners to act intentionally, make choices, and exercise control over their own learning. In [[ai-education|AI in education]], agency is a central concern because AI tools can both support and undermine learners' control: well-designed AI preserves and amplifies learner autonomy, while over-reliance or passive acceptance of AI output can erode it. Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], and the [[ethics|ethical]] design of AI systems, and is closely related to the psychological concepts of autonomy and sense of agency.

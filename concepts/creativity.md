@@ -9,6 +9,7 @@ technology: [generative-ai]
 audience: [learners]
 confidence: high
 discipline: [cs education, math education, writing education]
+reviewed_by: [editor]
 ---
 
 > **Creativity** — the capacity to generate novel and valuable ideas, solutions, or artifacts. In the AI era, creativity is a central educational stake: [[generative-ai|generative AI]] can both amplify creative work (as a divergent-thinking partner) and undermine it (by homogenizing output and replacing the generative process).

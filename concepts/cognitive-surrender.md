@@ -12,6 +12,7 @@ level: [higher ed, adult learning]
 connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students-learn, how-ai-impacts-students]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Cognitive surrender** — adopting an AI system's output without doing the reasoning that would let you evaluate it. Where [[cognitive-offloading]] asks *how much* mental work a learner delegates and whether the delegation is calibrated, surrender asks whether the learner keeps the evaluative role at all: the answer arrives, is accepted, and becomes the person's own position without the checking that would have constituted [[critical-thinking|judgment]]. The term comes from [[shaw-nave-cognitive-surrender-2026|Shaw and Nave's (2026) Tri-System Theory]], which locates it as a distinct failure from both offloading and [[ai-misuse-learning-harm|over-reliance]].

@@ -12,6 +12,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
+reviewed_by: [editor]
 ---
 
 # How Should Parents and Teachers Approach AI with Children Under 13?

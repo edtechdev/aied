@@ -14,6 +14,7 @@ level: [higher ed]
 audience: [instructors, instructional designers, software developers, administrators]
 sources: ['raw/papers/pramod-agentic-ai-motivational-pathways-2026.md']
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Pramod and Patil surveyed 398 students enrolled in business and management programs across India who had already used AI-supported learning platforms, and tested one structural model with PLS-SEM: do [[agentic-ai|agentic AI]] environments reach perceived learning performance through motivation, through social presence, or both? Both pathways ran. Perceived autonomy was the strongest motivational driver (β = 0.504), ahead of competence (0.425) and relatedness (0.189); interactivity (0.468) and information sharing (0.323) built perceived social presence far more than a collaborative environment did (0.184). Motivation and social presence then predicted [[student-engagement|learner engagement]] at similar strength (0.533 and 0.493), and engagement predicted perceived learning performance at 0.671, the largest coefficient in the model. The authors read the result as a design argument: agentic AI should be built as a learning partner that protects autonomy and creates social presence, not as an automation layer. Every construct, performance included, was self-reported in a single cross-sectional wave.

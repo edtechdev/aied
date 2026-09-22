@@ -11,6 +11,7 @@ institutions: [governance, educational-policy-ai]
 audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Librarians** — the library and information professionals who teach information literacy, staff research consultations, build collections and discovery systems, and increasingly sit as the human counterpart to AI search and recommendation tools. In the knowledge base's research they appear as the people who handle the credibility question a model cannot settle — whether a patent, a technical standard, or an industry report deserves to be relied on — and as partners in course and policy co-design. Their place in [[ai-education|AI in education]] is therefore double: as educators who teach source evaluation and search strategy, and as the [[human-in-the-loop-ai|human layer]] inside systems built around AI retrieval.

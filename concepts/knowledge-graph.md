@@ -6,6 +6,7 @@ type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Knowledge graph** — a structured representation of concepts and their relationships used to model domain knowledge, student understanding, and learning dependencies in [[ai-education|AI in education]] systems. Knowledge graphs enable AI systems to reason about what students know, what they need to learn next, and how concepts relate to each other.

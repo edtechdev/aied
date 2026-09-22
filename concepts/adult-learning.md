@@ -10,6 +10,7 @@ level: [adult learning, higher ed]
 confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
+reviewed_by: [editor]
 ---
 > **Adult learning** — the theory and practice of educating adults (andragogy), and how AI tools and technologies can be designed to support adult learners' [[agency|autonomy]], prior experience, and real-world relevance. Explored across 9 articles in this knowledge base.
 

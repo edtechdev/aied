@@ -12,6 +12,7 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
+reviewed_by: [editor]
 ---
 
 # What Are Notable Gaps in the Research Literature on AI in Education?

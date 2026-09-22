@@ -13,6 +13,7 @@ audience: [researchers, software developers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/2604.00818.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Liu, Chen, Baraniuk, Sachan and Sonkar ask whether an [[llm]] can be *taught* to hold a misconception — and what that training does to its ability to solve problems correctly. They formalize two targets: the **Novice Student Misconception Model** (a [[simulating-students|simulated student]] that acquires one misconception) and the **Expert Tutor Misconception Model** (a tutor that acquires many [[misconceptions]] at once, a computational analogue of teachers' knowledge of student misconceptions). To study both under controlled data, they build **MalAlgoLib**, a graph-based generator of linear-equation problems with correct and misconception-specific solution traces (16 problem types, 20 misconceptions drawn from the algebra mal-rule literature).

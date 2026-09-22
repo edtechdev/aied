@@ -13,6 +13,7 @@ audience: [assessment designers, instructors, researchers]
 page_kind: [evaluation]
 sources: ['raw/papers/teamat2026-handwritten-math-grading.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Automated [[assessment]] of handwritten mathematics is a two-stage problem, and this study locates the failure in both stages at once. GPT-4 first has to read German-language handwriting that mixes prose, algebra and integrals, then has to apply grading rules that were originally written for teaching assistants. On a voluntary undergraduate mock exam, the best workflows reached an agreement with human graders, measured by Krippendorff's alpha, of only 0.22 to 0.44 and an accuracy of 0.59 to 0.62, which the authors state plainly is not acceptable for high-stakes [[summative-assessment|summative]] use. The paper's most useful contribution is diagnostic rather than technical: it separates transcription failure from grading-rule failure, shows that a probabilistic confidence filter meant to flag doubtful grades for human re-checking did not recover reliability because its average false-positive rate was 0.27, and derives exam-design lessons that any institution planning [[multimodal]] grading of pen-and-paper work should read before collecting data.

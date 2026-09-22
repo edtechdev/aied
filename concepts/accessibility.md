@@ -8,6 +8,7 @@ foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, universal-design-for-learning]
 level: [special education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Accessibility** — the design of educational technology, content, and interfaces so that they can be perceived, operated, and understood by people with disabilities and diverse needs. In [[ai-education|AI in education]], accessibility covers concrete, operational barriers to the *medium* of learning: video captions, alt text, transcripts, screen-reader and keyboard compatibility, color contrast, text simplification, tactile output, sign-language support, and compatibility with assistive [[ai-technologies|technologies]].

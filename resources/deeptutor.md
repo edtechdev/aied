@@ -18,6 +18,7 @@ level: [higher ed]
 audience: [instructors, learners, researchers, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [openmaic]
+reviewed_by: [editor]
 ---
 
 **DeepTutor** is the open-source implementation of the tutoring framework evaluated in [[deeptutor|the DeepTutor study]], and it has grown well past that paper's scope into a general agent-native learning workspace. Tutoring, problem solving, quiz generation, mastery practice, research and visualization share one capability runtime and one session context, so the learner profile built while solving problems conditions the explanations and practice items that follow.

@@ -12,6 +12,7 @@ methods: [meta-analysis-systematic-review, rct, mixed-methods-research, design-b
 ethics: [guardrails]
 audience: [instructors, instructional designers]
 level: [higher ed, adult learning]
+reviewed_by: [editor]
 ---
 
 # How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?

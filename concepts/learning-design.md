@@ -12,6 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [id-toolbox, lesson-md]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision

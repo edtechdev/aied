@@ -7,6 +7,7 @@ technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > Multilingual learning in AI education concerns how educational [[ai-technologies|technologies]] and LLM-based systems support learners across languages, dialects, and low-resource linguistic contexts — and the risks of linguistic exclusion when AI systems are built primarily for dominant languages.

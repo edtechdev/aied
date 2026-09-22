@@ -9,6 +9,7 @@ assessment: [assessment, educational-measurement]
 discipline: [stem education]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Multimodal AI** — [[ai-technologies|AI systems]] that process, understand, or generate content across multiple modalities — text, images, audio, video, and structured data — and the educational questions these systems raise. In [[ai-education|AI in education]], multimodal AI appears in three distinct roles: as the *learning content* learners create and engage with ([[multimodal-learning-genai|multimodal learning]]), as the *capability boundary* of tutoring systems that must interpret diagrams and graphs ([[syal-multimodal-dialogue-stem-2026|multimodal tutoring]]), and as the *assessment signal* used to evaluate understanding ([[multimodal-item-parameter-estimation-2026|multimodal measurement]]).

@@ -11,6 +11,7 @@ audience: [administrators, curriculum designers, instructional designers, instru
 level: [higher ed, adult learning]
 confidence: high
 institutions: [governance]
+reviewed_by: [editor]
 ---
 
 > **Information Technology Education** — the branch of computing education that prepares practitioners to select, deploy, secure, administer, and govern the socio-technical systems organizations actually run, rather than to study computation as a discipline in its own right. Its closest neighbor, and the source of most boundary confusion, is [[cs-education]]: computer science education centers on algorithms, programming, and formal foundations, whereas IT education centers on applied configuration, cybersecurity, data and information management, and the organizational [[governance]] of those systems. [[generative-ai|Generative AI]] reaches the field twice over — as an object students must learn to evaluate, secure, and regulate, and as an instrument that tutors them, classifies their questions, and quietly rewrites the [[professional-training|professional]] pathways they are being prepared for.

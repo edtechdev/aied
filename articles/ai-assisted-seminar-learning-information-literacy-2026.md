@@ -15,6 +15,7 @@ discipline: [engineering education, cs education, library and information scienc
 audience: [instructors, instructional designers, researchers, librarians, learners]
 sources: ['raw/papers/ai-assisted-seminar-learning-information-literacy-2026.md']
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Engineering teams need information literacy spanning patents, technical standards, and industry reports that generic AI recommenders rarely cover or judge. Huang built a platform fusing three components: a collaborative-filtering and NLP recommendation engine, an embedded librarian module for human consultation, and a seminar layer for peer discussion. A quasi-experimental pre-/post-test with 60 engineering students from three programs compared the integrated platform (n = 30) with conventional library instruction (n = 30) over an eight-week intervention. The experimental group gained 0.78 points overall on an ACRL-based instrument versus 0.25 for controls, with large within-group effect sizes (Cohen's d = 1.12–1.45), and search skills improved most (+0.87). Logs and interviews show where the human layer carried the load: 312 librarian consultations, source-evaluation questions dominating at 38.5%, and librarian assistance rated highest for satisfaction (4.3/5.0). The design treats AI as a retrieval engine and humans as evaluators; its single-site, non-randomized structure keeps the findings preliminary.

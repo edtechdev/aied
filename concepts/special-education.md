@@ -8,6 +8,7 @@ ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Special Education** — the design and delivery of instruction for learners with disabilities, spanning cognitive, physical, sensory, and neurodevelopmental differences. [[ai-education|AI in education]] [[research-methods-aied|research]] in this knowledge base explores how AI tools can support diverse learner needs through [[personalized-learning|personalization]], [[scaffolding|adaptive scaffolding]], and accessible interfaces — while also examining the risks of [[ai-technologies|AI systems]] that overlook or marginalize disabled learners.

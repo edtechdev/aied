@@ -10,6 +10,7 @@ discipline: [language learning, writing education]
 level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Writing** — the use of AI tools for writing instruction, [[assessment]], [[feedback]], and the study of how [[generative-ai|generative AI]] reshapes the writing process itself. Writing education is one of the most AI-affected domains, because LLMs excel at the very activities writing instruction centers on — text generation, revision, and evaluation. [[research-methods-aied|Research]] in this area spans [[automated-assessment|automated scoring]], AI feedback quality, writing-process support, second-language writing, academic integrity, and the deeper question of how AI changes what it means to write and to be a writer.

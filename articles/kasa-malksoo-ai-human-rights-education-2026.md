@@ -16,6 +16,7 @@ level: [higher ed]
 audience: [instructors, curriculum designers, faculty developers]
 sources: ['raw/papers/kasa-malksoo-ai-human-rights-education-2026.md']
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Kasa-Mälksoo argues that the hard problem AI poses for human rights education is pedagogical rather than technological. Working from more than ten years teaching human rights in a specialized master's program at the University of Tartu, and from her own integration of [[generative-ai|generative AI]] into course design, assignments and assessment across 2023–25, she examines AI through the UN's tripartite framework of education *about*, *through* and *for* human rights, tested against the principles of participation, equality and inclusion. The direct evidence is two classroom episodes. Written work grew polished while class discussion lost the "uncertainty and intellectual struggle" of a genuine encounter with difficult scholarship, and critical views that students never voiced in class appeared in end-of-course written feedback — what she reads as dialogic retreat into [[ai-use-disclosure|AI-mediated]] channels. Her conclusion is not prohibition but direction: [[critical-pedagogy|human rights education]] should shape how AI is used, teach [[governance|AI governance]] as a professional responsibility, and resist uses that bypass dialogue.

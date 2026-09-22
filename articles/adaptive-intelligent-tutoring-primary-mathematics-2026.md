@@ -14,6 +14,7 @@ discipline: [math education]
 audience: [instructors, researchers]
 confidence: high
 sources: ['raw/papers/adaptive-intelligent-tutoring-primary-mathematics-2026.md']
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** This field experiment isolates one adaptive mechanism, dynamic task difficulty, by comparing two versions of the same second-grade mathematics tutor. Both were built by the research team on the CTAT+TutorShop platform and were identical in content, interface, feedback, and spoken hints; they differed only in whether task selection followed a [[knowledge-tracing|Bayesian Knowledge Tracing]] mastery estimate. N = 132 second-grade students (mean age 7.66 years) were randomly assigned to the adaptive (n = 65) or non-adaptive (n = 67) version, practiced for 30 min, and completed paper-based pre- and posttests. Against the hypothesis, condition had no significant effect on posttest performance, F(1, 124) = 0.32, p = .574, and no effect on mental effort, subjective difficulty, or enjoyment. Exploratory analyses showed that non-adaptive students reached higher average mastery probabilities (M = 0.67 vs. M = 0.58, p = .006) and that conscientiousness moderated perceptions but not achievement.

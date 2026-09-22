@@ -9,6 +9,7 @@ assessment: [assessment-validity, feedback, formative-assessment]
 audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Evaluative judgment** — the capacity to make sound judgments about the quality of one's own work and the work of others, against criteria one can reason about rather than recite. In the [[generative-ai|generative AI]] era it has moved from a desirable graduate attribute to a load-bearing capability: when a tool can produce plausible finished work, the capability that distinguishes a competent learner is the ability to appraise that output — to judge what is good, what is wrong, what to accept, what to reject, and why. This makes evaluative judgment a legitimate object of [[assessment]] in its own right, and the practical pivot for moving institutions from [[ai-detection|detection]] toward [[assessment-validity|validity-centered]] and [[authentic-assessment|authentic]] assessment design.

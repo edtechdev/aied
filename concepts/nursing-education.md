@@ -12,6 +12,7 @@ audience: [medical educators, curriculum designers, instructors, researchers]
 level: [higher ed]
 page_kind: [synthesis]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Nursing Education** — the preparation of nurses for licensed practice, and the subfield of [[medical-education|health-professions education]] where AI is currently most studied. AI enters nursing curricula through [[simulation]] with virtual patients and mannequins, [[llm|LLM]]-based study and clinical-reasoning support, [[automated-assessment|automated assessment]], and adaptive platforms for at-risk learners. Its object is distinctive: nursing competence fuses psychomotor skill, relational practice, and [[learner-identity|professional identity]] formation, so a technology that raises measured performance can simultaneously erode the developmental work that produces a nurse.

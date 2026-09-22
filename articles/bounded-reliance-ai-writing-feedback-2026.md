@@ -20,6 +20,7 @@ sources: ['raw/papers/bounded-reliance-ai-writing-feedback-2026.md']
 confidence: high
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale, reducing-over-reliance]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

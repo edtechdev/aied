@@ -16,6 +16,7 @@ pedagogy: [professional-training, scaffolding]
 technology: [generative-ai, simulation]
 assessment: [feedback]
 ethics: [equity-in-ai-education]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Bondurant and Shaughnessy take the three pedagogies of practice that organize practice-based teacher education, representations, decompositions and approximations, and ask what generative AI adds to each. Their answer is expansion with conditions: AI can curate cases, flag discourse patterns and staff rehearsal scenarios, but every gain depends on review by a teacher educator who can judge accuracy, equity and cognitive demand. The commentary assembles the evidence base for each pedagogy, from FERPA-compliant case generation and mixed-reality simulations to automated post-rehearsal feedback, and names the recurring failure modes: generated tasks that quietly lower the demand of the mathematics, analyses whose accuracy cannot be assumed, and candidates whose self-assessment diverges from what observers see in their [[teacher-role|teaching]]. It closes with six guiding questions that function as a pre-adoption checklist for mathematics teacher educators, and with the argument that AI should support professional judgment rather than standardize it.

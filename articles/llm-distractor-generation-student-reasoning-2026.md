@@ -13,6 +13,7 @@ audience: [researchers, assessment designers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/2603.15547.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Zengaffinen and colleagues ask whether [[llm|large language models]] can model not only what students know but how they fail, using [[automated-question-generation|distractor generation]] as the probe. Writing incorrect-but-plausible options for multiple-choice items forces a model to recover the correct solution, simulate a plausible student error, and judge whether the wrong answer would tempt a student. The authors build a taxonomy of ten reasoning strategies from learning-science literature and empirical coding of traces, then apply it to 885 traces from DeepSeek-V3.2 and GLM-4.7 on Eedi math and SciQ science items.

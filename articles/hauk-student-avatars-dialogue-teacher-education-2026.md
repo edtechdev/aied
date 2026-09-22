@@ -15,6 +15,7 @@ level: [teacher education, higher ed]
 confidence: high
 sources: ['raw/papers/hauk-student-avatars-dialogue-teacher-education-2026.md']
 source_url: https://doi.org/10.1111/bjet.70087
+reviewed_by: [editor]
 ---
 
 Hauk, Menter and Schorling (2026) tested whether a short rehearsal with an AI-based student avatar gives preservice teachers a usable opportunity to practice educational dialogue in practice-based teacher education (PBTE). In a Civic Education module at Leipzig University in the winter semester 2024/25, N = 21 preservice teachers each held a 10-minute, one-to-one voice conversation with an avatar named "Marco", a lower-secondary student whose disparaging remark about immigrants and their language skills created a controversy-oriented critical incident. Sessions used the browser-based GPTAvatar-WebGL application — Whisper speech recognition, GPT-4o response generation, GoogleVoice and ElevenLabs speech output — and were followed by a 30-minute guided debriefing.

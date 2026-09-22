@@ -7,6 +7,7 @@ foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Constructivism** — the [[learning-theories|learning theory]] that knowledge is actively built by the learner through experience, reflection, and interaction, rather than passively received from an instructor or system. In [[ai-education|AI in education]], constructivism underlies the design commitment that AI tools should support learners' own knowledge construction — [[prompt-engineering|prompting]], questioning, and [[scaffolding]] — rather than perform the [[cognitive-offloading|cognitive work]] for them.([[ai-vocational-education-training-review]])([[genai-mindtool-generative-learning]])

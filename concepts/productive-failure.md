@@ -8,6 +8,7 @@ pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, me
 technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Productive Failure (PF)** — an instructional approach, grounded in [[constructivist|constructivist theory]] and developed by Manu Kapur, that engages learners with problems targeting concepts they have **not yet learned**, having them struggle to generate solutions *before* receiving direct instruction (Kapur, 2008; Kapur & Bielaczyc, 2012). Rather than treating failure as something to avoid, PF treats initial struggle and error as a powerful catalyst: learners activate and differentiate [[prior-knowledge|prior knowledge]], surface [[misconceptions]], and prepare to learn better from subsequent instruction — leading to deeper understanding, better retention, and enhanced [[transfer-of-learning|knowledge transfer]].

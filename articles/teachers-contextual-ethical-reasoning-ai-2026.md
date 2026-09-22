@@ -9,6 +9,7 @@ audience: [instructors, researchers]
 level: [k 12]
 sources: ['raw/papers/teachers-contextual-ethical-reasoning-ai-2026.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Adelana, Ebubedike, Crabb, and Rienties (2026) examined how in-service secondary [[teacher-role|STEAM teachers]] in a low-resource Nigerian context understand the Ethical Principles of AI in Education (EPAI-Ed). Under a Socio-Technical Systems (STS) lens they ran a two-stage [[qualitative-research|qualitative]] design: a 21-item think-aloud protocol (n = 30) and follow-up interviews (n = 10). Despite lacking formal AI ethics training, teachers are not "ethics empty" — they reason from common sense and professional experience, shaped by professional identity, classroom realities, cultural norms, and contextual vulnerabilities. They converged on transparency, human oversight, and co-designed governance but split over context-specific training data, and the authors argue for aligning their context-based beliefs with global frameworks.

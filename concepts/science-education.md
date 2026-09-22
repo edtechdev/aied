@@ -7,6 +7,7 @@ discipline: [science education, stem education]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-17T02:30:30-04:00"
+reviewed_by: [editor]
 ---
 
 > **[[stem-education|Science education]]** — the study and practice of how students learn science and how to teach it, now being reshaped by generative AI (LLMs, simulations, virtual labs, and AI grading) across [[physics-education|physics]], chemistry, and [[biology-education|biology]]. The science-education articles in this knowledge base reveal a field negotiating a core tension: AI demonstrably supports inquiry, misconception correction, and assessment at scale, yet its value depends on instructional design, and it carries real risks of [[cognitive-offloading|over-reliance]], hallucination, and dehumanized, profit-driven learning.

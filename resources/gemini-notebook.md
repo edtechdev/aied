@@ -17,6 +17,7 @@ audience: [learners, instructors, researchers]
 level: [secondary, higher ed]
 confidence: high
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

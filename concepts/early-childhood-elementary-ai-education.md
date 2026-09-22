@@ -8,6 +8,7 @@ pedagogy: [well-being]
 connected_faqs: [ai-guidance-children-under-13]
 level: [k 12, preschool]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, [[personalized-learning|personalized learning]] in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.

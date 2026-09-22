@@ -10,6 +10,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In [[ai-education|AI in education]], help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and [[pedagogy|pedagogical]] agents are designed precisely to elicit productive help-seeking rather than answer-seeking.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])

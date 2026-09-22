@@ -8,6 +8,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Assistive Technology** — devices, software, and services that help people with disabilities perceive, operate, communicate, and participate in learning and daily life. In [[ai-education|AI in education]], assistive technology spans screen readers, speech-to-text and text-to-speech, captioning, braille and tactile output, sign-language tools, and increasingly AI-powered accommodations that adapt content and interaction to individual needs.

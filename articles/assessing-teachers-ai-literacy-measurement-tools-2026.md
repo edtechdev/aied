@@ -11,6 +11,7 @@ audience: [instructors, faculty developers, researchers]
 level: [k 12, higher ed, teacher education]
 confidence: high
 sources: ['raw/papers/assessing-teachers-ai-literacy-measurement-tools-2026.md']
+reviewed_by: [editor]
 ---
 > **Synthesis:** Zainal, Mohd Matore, and Maat catalog the instruments used to measure [[teacher-ai-competency|teacher AI literacy]], searching four databases for empirical instrument development published between 2019 and 2025 and appraising 33 studies against a bespoke framework adapted from COSMIN and Terwee et al. (2007). The headline pattern is what the authors call methodological monotony: 31 of 33 instruments (93.9%) are [[self-report-measures|self-report]] scales of perceived confidence, only two (6.1%) test knowledge objectively, and no performance-based tasks were found. [[educational-measurement|Measurement]] quality is lopsided. Internal consistency is the strongest domain (28 of 33, 84.8% at Grade A) while fairness is the weakest, with only five instruments (15.2%) reporting measurement invariance or differential item functioning evidence. Content also lags the technology: 29 instruments (87.9%) target general AI concepts and only four (12.1%), all from 2025, address generative AI. The authors read the field as technically sound but inferentially fragile, and argue for [[item-response-theory]] and performance tasks alongside [[self-assessment]] to separate validated capability from reported confidence.
 
