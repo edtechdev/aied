@@ -14,6 +14,7 @@ import LanguageSwitcher from '../components/LanguageSwitcher.astro';
 import { localeDir, hasTranslation, DEFAULT_LOCALE } from '../i18n/config';
 import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
+import { strings } from '../i18n';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, translationMapFrom } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
@@ -57,6 +58,7 @@ const translationMap = translationMapFrom(translations as any);
 // lives at the top of the right sidebar (desktop-tall layouts, >= 1280px) and above
 // "On this page" in the content column below that.
 /** Direction of the locale being viewed; the chrome mirrors for an RTL locale. */
+const ui = strings(locale).ui;
 const pageDir = localeDir(locale);
 /** Page-level routes, keyed by the copy module that renders them. */
 const PAGE_ROUTE_KIND: Record<string, PageKey> = {
@@ -737,17 +739,9 @@ const recentConceptItems = recentConcepts.map(c => ({
       button.theme-toggle {
         border-radius: 8px;
       }
-      /* FAQ is not in the row any more: it lives in the header's more menu, which
-         also carries the language list and the GitHub link, so the row keeps its
-         six controls at every width without shrinking the icons. */
-      /* Below 420px six controls plus the title do not fit on one line at the
-         current icon size, so tools and journal step into the more menu instead of
-         the row growing a second line or the icons shrinking. */
-      @media (max-width: 419px) {
-        .header-icon.header-icon-narrow-hide {
-          display: none;
-        }
-      }
+      /* Which controls sit in the row is decided by the layout script from the
+         space actually available, not by a breakpoint: whatever does not fit moves
+         into the overflow menu and the chevron appears with it. */
     }
 
     /* Tablet / narrow-desktop (640–1023px): the full title + search field +
@@ -1040,19 +1034,11 @@ const recentConceptItems = recentConcepts.map(c => ({
       max-width: 70rem;
     }
 
-    /* Language list: at the top of the right sidebar on tall layouts, and in the
-       header's more menu below 1280px, where there is no room for a second column.
-       One place at a time, never both. */
-    .lang-switcher-slot {
-      margin-bottom: 1rem;
-    }
-    .lang-switcher-slot.lang-switcher-sidebar {
-      display: none;
-    }
-    @media (min-width: 1280px) {
-      .lang-switcher-slot.lang-switcher-sidebar {
-        display: block;
-      }
+    /* The language selector is a header control like the rest: icon only, and it
+       steps into the overflow menu when the row runs out of room. */
+    .header-icon-slot {
+      display: inline-flex;
+      align-items: center;
     }
 
     /* === Right column: single scrollable pane (TOC + recent activity) === */
@@ -1307,19 +1293,26 @@ const recentConceptItems = recentConcepts.map(c => ({
         </div>
       )}
       <nav class="header-icons" aria-label="Knowledge base tools">
-        <a href={localizeHref('/aied/ai', locale)} class="header-icon" title="Chat with AI" aria-label="Chat with AI">
+        <a href={localizeHref('/aied/ai', locale)} class="header-icon" data-overflow-item data-priority="5" title="Chat with AI" aria-label="Chat with AI">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path>
             <path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"></path>
           </svg>
         </a>
-        <a href={localizeHref('/aied/search', locale)} class="header-icon" title="Search" aria-label="Search">
+        <a href={localizeHref('/aied/search', locale)} class="header-icon" data-overflow-item data-priority="6" title="Search" aria-label="Search">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="11" cy="11" r="8"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
         </a>
-        <a href={localizeHref('/aied/resources', locale)} class="header-icon header-icon-narrow-hide" title="Tools and resources" aria-label="Tools and resources">
+        <a href={localizeHref('/aied/faq', locale)} class="header-icon" data-overflow-item data-priority="3" title={ui.faqLink} aria-label={ui.faqLink}>
+          <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
+            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+          </svg>
+        </a>
+        <a href={localizeHref('/aied/resources', locale)} class="header-icon" data-overflow-item data-priority="2" title={ui.toolsLink} aria-label={ui.toolsLink}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
             <path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path>
@@ -1328,25 +1321,22 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
           </svg>
         </a>
-        <a href={localizeHref('/aied/journal', locale)} class="header-icon header-icon-narrow-hide" title="Journal" aria-label="Journal">
+        <a href={localizeHref('/aied/journal', locale)} class="header-icon" data-overflow-item data-priority="1" title={ui.journalLink} aria-label={ui.journalLink}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
             <path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"></path>
           </svg>
         </a>
+        {showSwitcher && (
+          <div class="header-icon-slot" data-overflow-item data-priority="4">
+            <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} labelStyle="none" />
+          </div>
+        )}
         <button id="theme-toggle" class="header-icon theme-toggle" type="button" title="Toggle light/dark mode" aria-label="Toggle light/dark mode" aria-pressed="false">
           <svg id="theme-icon-moon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
           <svg id="theme-icon-sun" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
         </button>
-        <HeaderMoreMenu
-          locale={locale}
-          route={pageRoute}
-          translationMap={translationMap}
-          faqHref={localizeHref('/aied/faq', locale)}
-          toolsHref={localizeHref('/aied/resources', locale)}
-          journalHref={localizeHref('/aied/journal', locale)}
-          showLanguage={showSwitcher}
-        />
+        <HeaderMoreMenu locale={locale} />
       </nav>
     </div>
   </header>
@@ -1424,11 +1414,6 @@ const recentConceptItems = recentConcepts.map(c => ({
            On mobile this rail stacks below the content in the single-column
            grid, so the recent lists also appear below the page there. -->
       <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
-        {showSwitcher && (
-          <div class="lang-switcher-slot lang-switcher-sidebar">
-            <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} align="left" />
-          </div>
-        )}
         {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} />}
         <div class="recent-rail">
           <RecentActivity pages={recentPageItems} concepts={recentConceptItems} />
@@ -1480,6 +1465,79 @@ const recentConceptItems = recentConcepts.map(c => ({
     import("/aied/pagefind/pagefind-component-ui.js");
   </script>
   <!-- PWA service worker registration (bundled so the virtual module resolves) -->
+  <script>
+    // Header row layout. Every control the row can carry stays in it; the ones that
+    // do not fit move into the overflow menu, lowest priority first, and the chevron
+    // only exists while the menu holds something. Priority is the data-priority
+    // attribute: higher stays in the row longer.
+    (() => {
+      const nav = document.querySelector('.header-icons') as HTMLElement | null;
+      const menu = document.querySelector('[data-more-menu]') as HTMLElement | null;
+      const container = nav?.parentElement as HTMLElement | null;
+      if (!nav || !menu || !container) return;
+      const slot = menu.querySelector('[data-overflow-slot]') as HTMLElement | null;
+      const theme = nav.querySelector('#theme-toggle') as HTMLElement | null;
+      const all = [...nav.querySelectorAll('[data-overflow-item]')] as HTMLElement[];
+      if (!all.length || !slot || !theme) return;
+      // The order the markup lists them in is the order they are shown in; priority
+      // (higher stays longer) only decides who steps aside when the row is tight.
+      const visualOrder = all.slice();
+      const byPriority = all
+        .slice()
+        .sort((a, b) => Number(b.dataset.priority) - Number(a.dataset.priority));
+      // lowest priority first: this is the order they are given up in
+      const giveUp = byPriority.slice().reverse();
+      const left = container.querySelector('.header-left') as HTMLElement | null;
+      const search = container.querySelector('.header-search') as HTMLElement | null;
+      let frame = 0;
+
+      const visibleChildren = (): HTMLElement[] =>
+        ([...nav.children] as HTMLElement[]).filter((el) => !el.hidden && el.offsetParent !== null);
+
+      const restore = () => {
+        for (const el of visualOrder) nav.insertBefore(el, theme);
+        slot.replaceChildren();
+        menu.hidden = false; // the chevron has to be measured with the rest
+      };
+
+      const rowWidth = (gap: number) => {
+        const kids = visibleChildren();
+        return kids.reduce((sum, el) => sum + el.offsetWidth, 0) + gap * Math.max(0, kids.length - 1);
+      };
+
+      const layout = () => {
+        restore();
+        const styles = getComputedStyle(container);
+        const gap = parseFloat(styles.columnGap || styles.gap) || 0;
+        const pad =
+          (parseFloat(styles.paddingInlineStart) || 0) + (parseFloat(styles.paddingInlineEnd) || 0);
+        // The search box is the flexible child of the row, so it gives up space
+        // before a control does: reserve a usable minimum for it and treat the rest
+        // as the room the controls have. Only when they cannot fit even that does
+        // one step into the menu.
+        const SEARCH_MIN = 160;
+        const searching = Boolean(search && search.offsetParent);
+        const used = (left ? left.offsetWidth : 0) + (searching ? SEARCH_MIN : 0);
+        const available = container.clientWidth - pad - used - gap * 2;
+        for (const el of giveUp) {
+          if (rowWidth(gap) <= available) break;
+          slot.appendChild(el);
+        }
+        menu.hidden = slot.children.length === 0;
+      };
+
+      const schedule = () => {
+        cancelAnimationFrame(frame);
+        frame = requestAnimationFrame(layout);
+      };
+
+      schedule();
+      window.addEventListener('resize', schedule);
+      window.addEventListener('load', schedule);
+      document.fonts?.ready?.then(schedule);
+    })();
+  </script>
+
   <script>
     import '../pwa';
   </script>
