@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const ar: HomeStrings = {
@@ -61,6 +69,29 @@ const ar: HomeStrings = {
   statsHeading: 'ما تحتويه قاعدة المعارف',
   statsIntro:
     'كل صفحة هنا مؤرَّخة، وتنمو قاعدة المعارف كلما نُشر بحث جديد مفتوح الوصول ورُوجع. والأعداد أدناه مقروءة من المحتويات الحالية؛ والتاريخ هو أحدث تحديث لصفحة.',
+  conceptMap: {
+    title: 'خريطة مفاهيم الذكاء الاصطناعي في التعليم',
+    desc:
+      'خريطة شعاعية يقع «الذكاء الاصطناعي في التعليم» في مركزها، وتتصل باثني عشر محورًا جامعًا: ' +
+      'النمذجة، والتعلّم، والإنصاف، والتغذية الراجعة، والثقافة بالذكاء الاصطناعي، والتقييم، ' +
+      'والتخصصات، وأصول التدريس، والأخلاقيات، والتقنيات، والتقويم، والبحث. اختر أي عقدة لتفتح صفحتها.',
+    navLabel: 'مفاهيم الذكاء الاصطناعي في التعليم',
+    center: 'الذكاء الاصطناعي في التعليم',
+    nodes: {
+      'student-modeling': 'النمذجة',
+      'learning-theories': 'التعلّم',
+      'equity-in-ai-education': 'الإنصاف',
+      feedback: 'التغذية الراجعة',
+      'ai-literacy': 'الثقافة بالذكاء الاصطناعي',
+      assessment: 'التقييم',
+      'discipline-specific-aied': 'التخصصات',
+      pedagogy: 'أصول التدريس',
+      ethics: 'الأخلاقيات',
+      'ai-technologies': 'التقنيات',
+      'ai-ed-evaluation': 'التقويم',
+      'research-methods-aied': 'البحث',
+    },
+  },
   toc: [
     { text: 'التنقّل في الموقع', slug: 'navigating-the-site', depth: 2 },
     { text: 'محادثة قاعدة المعارف', slug: 'chat-with-the-knowledge-base', depth: 2 },

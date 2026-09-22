@@ -19,6 +19,14 @@ export interface HomeStrings {
   statsHeading: string;
   statsIntro: string;
   toc: Array<{ text: string; slug: string; depth: number }>;
+  /** Home page concept map: node labels are looked up by concept slug. */
+  conceptMap: {
+    title: string;
+    desc: string;
+    navLabel: string;
+    center: string;
+    nodes: Record<string, string>;
+  };
 }
 
 const pt: HomeStrings = {
@@ -61,6 +69,30 @@ const pt: HomeStrings = {
   statsHeading: 'O que há na base de conhecimento',
   statsIntro:
     'Cada página aqui traz sua data, e a base de conhecimento cresce conforme nova pesquisa de acesso aberto é publicada e revisada. As contagens abaixo são lidas do conteúdo atual; a data é a atualização mais recente de uma página.',
+  conceptMap: {
+    title: 'Mapa de conceitos de IA na educação',
+    desc:
+      'Um mapa radial com IA na educação no centro, conectado a doze conceitos de nível ' +
+      'superior: Modelagem, Aprendizagem, Equidade, Feedback, Letramento em IA, Avaliação, ' +
+      'Disciplinas, Pedagogia, Ética, Tecnologias, Avaliação de IA e Pesquisa. Selecione ' +
+      'qualquer nó para abrir a página correspondente.',
+    navLabel: 'Conceitos de IA na educação',
+    center: 'IA na educação',
+    nodes: {
+      'student-modeling': 'Modelagem',
+      'learning-theories': 'Aprendizagem',
+      'equity-in-ai-education': 'Equidade',
+      feedback: 'Feedback',
+      'ai-literacy': 'Letramento em IA',
+      assessment: 'Avaliação',
+      'discipline-specific-aied': 'Disciplinas',
+      pedagogy: 'Pedagogia',
+      ethics: 'Ética',
+      'ai-technologies': 'Tecnologias',
+      'ai-ed-evaluation': 'Avaliação de IA',
+      'research-methods-aied': 'Pesquisa',
+    },
+  },
   toc: [
     { text: 'Como navegar pelo site', slug: 'navigating-the-site', depth: 2 },
     { text: 'Converse com a base de conhecimento', slug: 'chat-with-the-knowledge-base', depth: 2 },
