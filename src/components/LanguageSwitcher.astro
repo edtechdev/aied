@@ -12,6 +12,7 @@ const {
   translationMap,
   align = 'right',
   variant = 'button',
+  labelStyle = 'code',
 } = Astro.props;
 const ui = strings(locale).ui;
 const entries = switcherEntries(route, locale, translationMap);
@@ -29,12 +30,14 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     aria-label={`${ui.language}: ${localeLabel(locale)}`}
     title={`${ui.language}: ${localeLabel(locale)}`}
   >
-    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+    <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
       <circle cx="12" cy="12" r="10"></circle>
       <line x1="2" y1="12" x2="22" y2="12"></line>
       <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
     </svg>
-    <span class="lang-code">{current.code.toUpperCase()}</span>
+    {labelStyle !== 'none' && (
+      <span class="lang-code">{labelStyle === 'name' ? current.label : current.code.toUpperCase()}</span>
+    )}
   </button>
   )}
 
@@ -88,21 +91,35 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     position: relative;
     display: inline-flex;
   }
+  /* Same box and glyph as the header row's icon buttons, which is what keeps the
+     globe the same size and on the same baseline as the icons beside it. */
   .lang-toggle {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: 0.3rem;
-    padding: 0.35rem 0.5rem;
-    border: 1px solid transparent;
-    border-radius: 6px;
-    background: none;
-    color: inherit;
+    min-width: 2.6rem;
+    height: 2.6rem;
+    margin: 0;
+    padding: 0 0.35rem;
+    color: var(--muted-color);
+    border: 1px solid var(--muted-border-color);
+    border-radius: 8px;
+    background: transparent;
+    line-height: 1;
+    box-shadow: none;
     cursor: pointer;
+    transition: color 0.15s, border-color 0.15s, background 0.15s;
   }
   .lang-toggle:hover,
   .lang-toggle:focus-visible {
-    border-color: var(--card-border-color);
-    background: color-mix(in srgb, var(--primary) 8%, transparent);
+    color: var(--primary);
+    border-color: var(--primary);
+    background: color-mix(in srgb, var(--primary) 10%, transparent);
+    outline: none;
+  }
+  .lang-toggle svg {
+    flex: 0 0 auto;
   }
   .lang-code {
     font-size: 0.75rem;
@@ -118,6 +135,8 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     max-width: calc(100vw - 1.5rem);
     max-height: min(70dvh, 30rem);
     overflow-y: auto;
+    /* A row wider than its popover must wrap inside it, never escape it. */
+    overflow-x: hidden;
     padding: 0.5rem;
     border: 1px solid var(--card-border-color);
     border-radius: 8px;
@@ -139,6 +158,24 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     border-color: var(--card-border-color);
     background: var(--card-background-color);
   }
+  /* Phone: the list is pinned to the viewport (a bottom sheet) instead of hanging
+     off its trigger, so no entry can sit past the right edge however many
+     languages there are. */
+  @media (max-width: 640px) {
+    .lang-menu {
+      position: fixed;
+      inset-inline: 0.75rem;
+      inset-block: auto 0.75rem;
+      max-width: none;
+      min-width: 0;
+      max-height: min(65dvh, 26rem);
+      box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.28);
+    }
+    .lang-switcher.align-left .lang-menu,
+    .lang-switcher.align-right .lang-menu {
+      inset-inline: 0.75rem;
+    }
+  }
   .lang-menu-title {
     margin: 0.15rem 0.4rem 0.4rem 0.4rem;
     font-size: 0.75rem;
@@ -146,16 +183,34 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     letter-spacing: 0.04em;
     color: var(--muted-color);
   }
-  .lang-menu ul {
+  /* The language list is inside the header's <nav>, where the base stylesheet lays
+     nav lists out horizontally: the locales then ran off the right edge however many
+     there were. Stack them explicitly, one per row, and let each row fill the
+     popover. */
+  .lang-menu ul,
+  .lang-inline ul {
+    display: flex;
+    flex-direction: column;
     list-style: none;
     margin: 0;
     padding: 0;
+  }
+  .lang-menu li,
+  .lang-inline li {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  .lang-menu li::marker {
+    content: '';
   }
   .lang-item {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 0.6rem;
+    min-width: 0;
     padding: 0.4rem 0.5rem;
     border-radius: 6px;
     color: var(--color);
@@ -169,7 +224,12 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
   .lang-item.current {
     font-weight: 700;
   }
+  .lang-label {
+    min-width: 0;
+    overflow-wrap: anywhere;
+  }
   .lang-flag {
+    flex: 0 0 auto;
     font-size: 0.7rem;
     color: var(--muted-color);
     border: 1px solid var(--card-border-color);
