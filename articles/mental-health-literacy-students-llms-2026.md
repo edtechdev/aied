@@ -20,6 +20,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Richter et al. (2026) asked 150 psychology students at one German university — 70 in their first semester and 80 further along — to classify 15 [[well-being|mental health]] myths and 15 facts as correct, incorrect, or do not know, then put the same 30 statements to GPT-5.4, Claude Sonnet 4.5, DeepSeek V3.2, and GLM-5 across 80 independent runs each. Students judged myths more accurately than facts (first-semester 75.2% vs. 55.4%; advanced 87.7% vs. 69.3%), advanced students beat first-semester students on both, and every model beat both student groups overall. The item-level analysis is what makes the study useful: accuracy ranged from 73.3% to 100% depending on model and statement type, some errors recurred in all 80 runs, and on individual items students beat every model.

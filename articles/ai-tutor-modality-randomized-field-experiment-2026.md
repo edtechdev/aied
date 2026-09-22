@@ -22,6 +22,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** A preregistered randomized field experiment in a [[higher-ed|graduate]] corporate-finance module of Boston University's online MBA separates two design margins usually bundled together: how an [[intelligent-tutoring|AI tutor]] teaches and how students talk to it. Eighty-six students were randomized between a structured tutor grounded in course materials and a holdout where consumer AI stayed freely available, while within the tutored arm each student's channel alternated weekly between voice and text. Structure mattered: tutored students gained 6.63 more points of 55 (p = .007), and the share of written answers reaching relational quality rose from 8% to 49% against 8% to 27% in holdout. Modality did not — weekly mastery was equivalent across voice and text even as voice nearly doubled [[student-ai-interaction|interaction density]] and cost 2.8× more to deliver. Voice reads as an engagement and adoption lever, not a learning technology.

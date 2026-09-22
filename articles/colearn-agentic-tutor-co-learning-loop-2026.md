@@ -20,6 +20,7 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
 connected_faqs: [developing-ai-tutor]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** CoLearn argues that a wrong answer is diagnostic content rather than a single bit, and builds an [[intelligent-tutoring|agentic tutor]] around that premise. A persistent learner-state memory stores per-topic mastery and mined misconceptions, updated by a soft-evidence variant of [[knowledge-tracing|Bayesian Knowledge Tracing]] in which an [[llm]] grader acts as a continuous observation function. That memory drives [[automated-question-generation|question generation]] toward the learner's weakest topic, and the loop is exposed through a dashboard and a built-in blind A/B test so the [[personalized-learning|personalization]] can be inspected rather than trusted. In blind comparison, adaptive questions were preferred over random-topic ones 68% of the time in [[biology-education|Biology]] and 69% in [[chemistry-education|Chemistry]], and the agent's mastery estimates converged toward hidden ground truth.
