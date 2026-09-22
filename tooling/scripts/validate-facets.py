@@ -41,7 +41,7 @@ COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # must be valid slugs too, so they are validated here.
 # Every locale that can hold translated content pages (site.config.json i18n.locales
 # minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
-LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'ja', 'ko', 'pt', 'zh', 'ar')
+LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh', 'ar')
 OTHER_FIELDS = ('discipline', 'level', 'audience', 'research_method', 'page_kind')
 
 

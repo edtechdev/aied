@@ -395,7 +395,7 @@ const resources = defineCollection({
 // The typed facet fields are copied from the English page and stay in English: they
 // are vocabulary keys (concept slugs) that the search facets and the registry use,
 // not prose. `translation_of` records which English page this is a translation of.
-const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he'];
+const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he', 'hi'];
 
 const translations = defineCollection({
   loader: glob({
