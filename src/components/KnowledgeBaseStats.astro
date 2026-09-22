@@ -39,8 +39,11 @@ const latestLabel = latestDate
       timeZone: 'UTC',
     })
   : '';
+const { heading = '', intro = '' } = Astro.props;
 ---
 
+{heading && <h2 id="whats-in-the-knowledge-base">{heading}</h2>}
+{intro && <p class="kb-stats-intro">{intro}</p>}
 <ul class="kb-stats" aria-label="What the knowledge base contains">
   {items.map((item) => (
     <li class="kb-stat">
@@ -65,6 +68,14 @@ const latestLabel = latestDate
 </ul>
 
 <style>
+  /* Matches the .intro-paragraph treatment on the home page, which is scoped to
+     that page and so cannot reach this component's markup. */
+  .kb-stats-intro {
+    color: var(--muted-color);
+    margin-bottom: 1.25rem;
+    font-size: 1.02rem;
+    line-height: 1.7;
+  }
   .kb-stats {
     display: flex;
     flex-wrap: wrap;
