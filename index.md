@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-22
 
-Articles: 1357 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1359 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
@@ -139,6 +139,7 @@ Articles: 1357 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[ai-learning-companions-framework]] — Building AI Companions that Prioritise Learning over Performance
 - [[ai-learning-tools-engineering-education-needs]] — Designing Needs- and Attention-Aware AI Learning Tools for Engineering Education: Insights from Psychological Outcomes
 - [[ai-lifelong-learning-policy]] — Artificial Intelligence in Lifelong Learning: Opportunities and Challenges in Adult Education Policy
+- [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19: A value-based, practical framework for public service media organisations
 - [[ai-literacy]] — AI Literacy
 - [[ai-literacy-ai-integrated-inquiry-science-teaching-2026]] — From AI literacy to AI-integrated inquiry-based science teaching: the serial mediating roles of AI-TPACK and science teaching self-efficacy among Chinese pre-service science teachers
 - [[ai-literacy-assessment-misalignment]] — How to Assess AI Literacy: Misalignment Between Self-Reported and Objective-Based Measures
@@ -853,6 +854,7 @@ Articles: 1357 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[league-ethical-governance-student-data-2026]] — Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics
 - [[learn-framework-responsible-genai-pbl-2026]] — The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning
 - [[learnai-just-in-time-ai-cocreation-university-2026]] — LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University
+- [[learner-agency-ai-simulation-2026]] — Exploring learner agency in an AI-supported simulation environment for complex systems education
 - [[learner-ai-interaction-patterns-oop]] — Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course
 - [[learner-centered-feedback-ai]] — Enhancing learner-centered feedback with AI: teachers'' practices and perceptions
 - [[learner-identity]] — Learner Identity

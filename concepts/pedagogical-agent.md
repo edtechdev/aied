@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-18T13:00:00-04:00"
+updated: "2026-09-22T09:59:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -80,6 +80,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[teacher-role]]
 
 ## Connected Articles
+- [[learner-agency-ai-simulation-2026]] — An optional conversational agent learners could ignore: 235 inputs, uneven uptake, no relationship to gains
 - [[wang-teacher-student-centered-agents-physics-2026]] — Student-centered agent role outperforms teacher-centered role across performance, load, flow, and empathy (Wang et al. 2026)
 - [[aclime-pedagogical-agents-extended-reality-2026]] — ACLIME: conceptual framework for pedagogical agents in AR/VR — tutor vs role-playing partner, realism, presence, cognitive load (Ross & Kaspar 2026)
 - [[mindful-llm-math-tutoring-2026]] — Beyond Problem Solving: Large Language Models for Emotional and Reflective Support in Mathematics Learning

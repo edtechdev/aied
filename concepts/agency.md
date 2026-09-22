@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-22T09:59:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -39,6 +39,7 @@ Agency matters because learning is most effective when learners are active, inte
 - **Design for agency:** Knowledge-based design for [[educational-robotics|generative social robots]] ([[teachy-mini-generative-social-robot-higher-ed-2026|Teachy Mini]]) addresses risks like overreliance that undermine learner agency.
 - **Prior agency predicts who benefits:** [[school-ai-education-readiness-gaps-agency-2026|Liang et al. (2026)]], drawing on Bandura's Social Cognitive Theory, showed that students' **prior self-initiated AI learning** (a behavioral manifestation of agency) predicted how much they gained from a year of [[k-12|school]] AI instruction — high-agency learners entered with the strongest readiness, while school curricula narrowed psychological gaps but left cognitive ones intact. Structured instruction and prior agency-related learning worked *synergistically*, not as substitutes.
 - **Principled selectivity as teacher agency under technological change:** [[ai-integrated-teaching-identity-tensions|Adiozaman and Segar (2026)]] interviewed two experienced academics three times across a semester and found they navigated AI-mediated teaching neither by adopting nor by resisting wholesale, but through deliberate, context-sensitive decisions guided by pedagogical values, ethical commitment and professional judgment — a pattern the authors call *principled selectivity*, in which refusal of a particular use counts as judgment rather than as failed adoption. It is the teacher-side counterpart to the learner findings above: uneven AI use can be an exercise of agency, not evidence of its absence.
+- **Access to choice is not the same as agency in action:** [[learner-agency-ai-simulation-2026|Su, Nair and Nagashima (2026)]] randomized 69 [[higher-ed|university]] students into a 2 × 2 design crossing parameter control of a flocking [[simulation]] with access to an optional [[pedagogical-agent|conversational agent]], and found no reliable effect of either affordance on [[learning-gains|learning gains]] once prior knowledge was controlled (parameter control F(1, 50) = 0.04, p = .849; agent F(1, 50) = 2.68, p = .108). Gains tracked *how* the control was used: slider time in the most conceptually complex lesson predicted higher gains (β = .11, p = .007) while the same behavior in the easier lesson predicted lower ones (β = −.04, p = .047), and engagement with the optional agent ranged from 0 to 32 questions per learner without relating to outcomes. The authors read this as agency being *enacted rather than granted*: the design question is what helps a learner decide what is worth changing and notice the consequences.
 - **Epistemic delegation in early-career research:** [[ai-mediated-research-agency-formation-2026|Han and Liu (2026)]] frame AI dependence among doctoral and postdoctoral researchers as *epistemic delegation* — the transfer of problem framing, method choice, and interpretive authority to the intelligent system — and found it negatively associated with both [[self-efficacy|research self-efficacy]] and research autonomy, with supervisory support buffering the loss. It extends agency debates from learner autonomy to the formation of the researcher themselves.
 
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
@@ -107,6 +108,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
 - [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
