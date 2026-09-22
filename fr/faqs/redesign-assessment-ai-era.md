@@ -1,0 +1,40 @@
+---
+title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
+created: "2026-09-22T19:10:56-04:00"
+updated: "2026-09-22T19:10:56-04:00"
+weight: 84
+foundations: [academic-integrity]
+assessment: [assessment, assessment-validity, authentic-assessment]
+translation_of: faqs/redesign-assessment-ai-era
+translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-22"
+    agent: hermes-agent
+---
+
+*Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
+
+# Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?
+
+**Commencez par énoncer explicitement quelle capacité la note est censée représenter.** Évaluez-vous ce qu'un étudiant peut faire de manière autonome, ce qu'il peut accomplir de manière appropriée avec l'IA, sa capacité à évaluer et à diriger l'IA, ou une combinaison de ces éléments ? La page [[assessment-validity|Validité de l'évaluation]] de la base de connaissances traite cela comme un problème de validité : une production soignée n'est plus une preuve suffisante que l'étudiant possède la capacité apparemment démontrée par cette production. C'est la moitié « évaluation » du même argument ; la moitié « application » se trouve dans [[reduce-ai-cheating]], et le cadre général de validité traverse [[evaluating-ai-interventions-methods]].
+
+## Le risque de substitution de construit
+
+L'article [[authentic-products-authenticated-processes-2026|From Authentic Products to Authenticated Processes]] nomme ce risque **substitution de construit** : l'évaluateur attribue à l'étudiant un produit médié par l'IA et mesure par inadvertance les capacités de l'outil plutôt que celles de l'étudiant. Sa réponse recommandée consiste à rendre visibles le raisonnement, le jugement, la vérification, l'itération et la responsabilité de l'étudiant, par des approches comme les remises par étapes, les justifications de décisions annotées, les traces de processus, les déclarations d'usage de la rétroaction, les soutenances orales et d'autres formes de preuves de processus authentifiées.
+
+[[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed et Temimi]] reformulent le même problème comme un problème d'**information imparfaite** plutôt que de moralité : l'étudiant sait comment le travail a été produit, l'établissement ne voit que la production et des traces partielles, si bien que la question de conception devient *quelle réponse étudiante chaque environnement d'évaluation rend la plus attractive*. Leur modèle de régions de réponse compare trois choix (aucun usage de l'IA, usage [[ai-use-disclosure|divulgué]] et usage dissimulé) et montre que les règles, la surveillance, la divulgation et la refonte agissent par des canaux différents et ne réussissent que lorsque la réponse la plus attractive s'aligne sur la finalité de l'évaluation. Deux résultats portent directement sur l'architecture. La dissuasion passe par la **discrimination** d'un détecteur entre usage dissimulé et travail légitime, et non par son taux brut de détection ; ainsi, lorsque les faux positifs augmentent plus vite que les vrais positifs, une surveillance renforcée peut rendre la dissimulation relativement *plus* attractive. Et la refonte n'oriente les étudiants vers un usage responsable que si la grille récompense réellement les preuves de processus ; sinon, elle reste cosmétique. Leur règle pratique est de concevoir pour l'étudiant le plus tenté de dissimuler plutôt que pour le plus consciencieux.
+
+## Une architecture d'évaluation solide
+
+En pratique, une architecture d'évaluation solide combine souvent une **tâche authentique assistée par l'IA** avec une forme de **vérification indépendante**. Selon la discipline, cela peut inclure une brève explication orale, une application en classe, une démonstration en direct, un [[eportfolio|portfolio]] annoté, une courte composante sans assistance ou un questionnement sur les décisions clés.
+
+Le concept d'[[authentic-assessment|évaluation authentique]] insiste aussi sur un travail intellectuel réaliste, un défi cognitif, l'agentivité de l'étudiant, la rétroaction et l'authenticité sociale ou professionnelle, et pas simplement sur le fait de rendre les devoirs classiques plus difficiles à réaliser par l'IA. Les composantes orales et en direct exigent une attention particulière à l'anxiété, aux aménagements liés au handicap, aux différences linguistiques et aux biais de l'évaluateur.
+
+Une architecture appréciée, sans surveillance, est la **variation de tâche par étudiant**, où chaque candidat reçoit une version superficiellement distincte mais équivalente sur le plan du construit de la même tâche afin que les réponses ne puissent pas être utilement partagées ; elle dépend des capacités plutôt que d'être acquise gratuitement. [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]], un [[benchmark|référentiel]] de 600 variantes générées réparties sur 60 cellules de conditions, a constaté que les modèles de pointe se regroupaient étroitement sur un score d'intégrité conjoint (0.81–0.88) tandis que les références non de pointe s'effondraient à 0.50–0.55, et qu'aucune stratégie de [[prompt-engineering|sollicitation]] n'optimisait à la fois la diversité de surface et l'équivalence de construit. La variation à grande échelle ne peut pas être présumée à partir de la sollicitation seule ; un établissement devrait donc valider son propre couple modèle-invite avant de considérer la garantie comme réelle.
+
+La refonte fonctionne rarement devoir par devoir. Dans une étude [[qualitative-research|qualitative]] portant sur 12 universitaires et 17 étudiants d'une grande université australienne, [[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond et al.]] ont constaté que les deux groupes s'accordaient sur la nécessité de changer l'évaluation, mais soulignaient des frictions systémiques (délais longs, contraintes d'accréditation pour de grandes cohortes, charge de travail et coût) et concluaient que la refonte *prend tout un village* : une équipe à l'échelle du programme combinant expertise en conception d'évaluation, en [[generative-ai|IA générative]], en contenu disciplinaire, en industrie et en données probantes, avec des points de littératie en IA générative et d'assurance de l'apprentissage placés stratégiquement tout au long d'un diplôme. La méthode au niveau de la tâche qui rend cela réalisable est celle que documente [[mccorkle-aligned-genai-course-policy-2025|McCorkle]] : inventorier chaque étape qu'un étudiant réalise, se demander pour chacune « qu'est-ce que j'évalue, précisément ? », et dériver la frontière de l'IA de la réponse, ce qui est aussi la manière dont les attentes qui sous-tendent [[reduce-ai-cheating]] deviennent explicites et applicables.
+
+La finalité compte autant que la mécanique. [[ai-agents-joyful-assessment-third-space-2026|El Khoury et Ma]] soutiennent qu'une réforme organisée uniquement autour de la prévention de la fraude est trop défensive et proposent une **évaluation joyeuse**, sûre, émotionnellement réactive, autonomisante et favorable à l'[[agency|agentivité]] de l'étudiant, dans laquelle l'intégrité est une *conséquence* d'une bonne conception plutôt que son point de départ. Leur exemple concret utilise un [[agentic-ai|agent d'IA]] conçu par l'enseignant pour faire répéter les étudiants avant le jugement et pour produire un rapport de preuves aligné sur la grille, mais la répartition du travail est énoncée clairement : l'IA organise les preuves, l'enseignant les interprète.
