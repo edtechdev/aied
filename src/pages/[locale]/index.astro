@@ -1,0 +1,15 @@
+---
+// Localized home page: one route per locale in site.config.json (`i18n.locales`)
+// other than the default locale, which keeps the unprefixed URL. Copy comes from
+// src/i18n/pages/home.<locale>.ts.
+import { NON_DEFAULT_LOCALES } from '../../i18n/config';
+import HomePage from '../../components/pages/HomePage.astro';
+
+export function getStaticPaths() {
+  return NON_DEFAULT_LOCALES.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+---
+
+<HomePage locale={locale} />
