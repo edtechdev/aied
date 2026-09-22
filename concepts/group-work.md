@@ -1,7 +1,7 @@
 ---
 title: Group Work
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -130,3 +130,4 @@ A second line of research treats AI as a participant rather than a tool, and its
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

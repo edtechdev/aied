@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -139,3 +139,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

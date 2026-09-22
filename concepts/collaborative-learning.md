@@ -1,7 +1,7 @@
 ---
 title: Collaborative Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -122,3 +122,4 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

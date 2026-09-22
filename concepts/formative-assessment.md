@@ -1,7 +1,7 @@
 ---
 title: Formative Assessment
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T11:27:36-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -144,3 +144,4 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education

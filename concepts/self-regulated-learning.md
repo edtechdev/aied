@@ -1,7 +1,7 @@
 ---
 title: Self-Regulated Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T13:25:29-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -178,3 +178,4 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: a learner-facing loop of task identification, justification and post-task reflection
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

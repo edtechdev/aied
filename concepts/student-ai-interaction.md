@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -87,3 +87,5 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

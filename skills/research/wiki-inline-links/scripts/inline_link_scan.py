@@ -352,6 +352,12 @@ REJECT_PAIRS = {
     ('edtech', 'edtech-platform'),                   # "edtech frameworks" = the field, not the platform layer
     ('instructional designers', 'stakeholders'),      # readership noun, not the stakeholder page
     ('questionnaire', 'self-report-measures'),        # a vendor-review question list, not a research instrument
+    # --- 2026-09-22, four-paper ingest: false positives hand-reverted ---
+    ('evaluations', 'ai-ed-evaluation'),              # students' appraisals, not evaluating an intervention
+    ('over-reliance', 'cognitive-offloading'),        # the overreliance problem, not the CLT construct
+    ('model families', 'parents-and-families'),       # model families, not households
+    ('model family', 'parents-and-families'),
+    ('miscalibration', 'trust-calibration'),          # grade-band calibration error, not trust calibration
     # --- 2026-09-22, Bower typology ingest: false positives hand-reverted ---
     ('biases', 'bias-mitigation'),                   # "the criteria build in its biases", not mitigation
     ('professional education', 'professional-training'),  # educator networks, not training programs

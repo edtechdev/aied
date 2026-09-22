@@ -1,7 +1,7 @@
 ---
 title: Human AI Collaboration
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-21T13:08:36-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
@@ -112,3 +112,6 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automation, augmentation and collaboration as a continuum of task assignment
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing

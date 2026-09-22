@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T07:47:22-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -36,6 +36,10 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 - **Context awareness:** recognizing that [[trust|trustworthiness]] varies by task — a well-trodden topic the model has seen extensively is safer than an obscure, high-stakes, or fast-moving one.
 - **Stakes adjustment:** applying more scrutiny where errors are costly (submitted work, medical or legal claims) and less where they are benign.
 - **Metacognitive monitoring:** tracking when and why one over-trusts, which connects calibration to [[metacognition]] and [[self-regulated-learning]].
+
+### Where the limit on reliance actually sits
+
+Calibration research usually treats trust as a single judgment. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]] show the appraisal splits into dimensions that are not equally binding. Interviewing 17 EFL undergraduates after a semester of using GROK for feedback on their writing, they found perceived *expertise* high — students credited the tool with improving vocabulary, grammar, structure and coherence, and read its explanations for suggested revisions as evidence of competence — while *trustworthiness*, mainly about what happened to their data, and *goodwill*, with feedback experienced as impersonal and at times demotivating, stayed low. Reliance followed the weak dimensions rather than the strong one: students authorized the tool for broad language feedback and reserved individualized, relational guidance for the instructor. The implication for calibration is that improving accuracy does not move the ceiling on use; data transparency and the instructional framing around a tool are themselves calibration interventions.
 
 ### Calibration as a design problem
 
@@ -97,3 +101,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
 - [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
