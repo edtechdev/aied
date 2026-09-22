@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-13T09:58:46-04:00"
+updated: "2026-09-22T09:59:00-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -33,6 +33,8 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 - **The "authenticity gap" bounds what AI simulation can replace.** In [[medical-education|clinical]] simulation, [[jiang-ai-powered-simulation-nursing-education-2026|Jiang et al. (2026)]]'s [[mixed-methods-research|mixed-methods]] systematic review of AI-powered nursing simulation (19 studies, N=1,253) finds AI effective for cognitive knowledge and affective outcomes but inconsistent for complex psychomotor skills. Their concept of an **authenticity gap** — a learner-perceived shortfall in emotional resonance, nonverbal cue recognition, and tactile/physical examination dimensions — explains *why* AI simulation is best for highly structured objectives (foundational communication, history-taking) and should sit in a **stepped simulation continuum** that hands advanced psychomotor and emotionally complex scenarios to human-standardized patients and clinical placement. Technical instability (e.g., speech-recognition delays) can also add extraneous [[cognitive-offloading|cognitive load]] and anxiety, so fidelity and stability are themselves design levers. This parallels [[genai-scenario-based-healthcare-education-2026|Neto et al.'s]] finding that hybrid human–AI approaches outperform fully automated ones.
 - **Teacher-AI co-designed simulations.** Interactive simulations that support both conceptual learning and competency development are scarce in hands-on domains, and GenAI output often lacks pedagogical validity. In [[stem-education|drone-based STEM education]], teacher-AI co-designed simulations embedded in an otherwise identical hands-on curriculum were evaluated with a quasi-experimental pretest–posttest design across 30 secondary students, examining whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]] ([[simulation-assisted-drone-learning-stem-2026]]). Separately, [[agentic-ai|multi-agent]] tutoring [[benchmark|benchmarks]] such as ASTRA use simulated socially intelligent agents to study participation-balanced collaboration in [[cs-education|introductory programming]] ([[astra-multi-agent-tutoring-benchmark-2026]]).
 
+- **Learner control in simulation is enacted, not granted.** A 2 × 2 experiment in a flocking simulation ([[learner-agency-ai-simulation-2026|Su, Nair and Nagashima 2026]]) gave some students parameter sliders, some an optional conversational agent and some both; every condition improved, but neither affordance produced a reliable difference once prior knowledge was controlled (p = .849 and p = .108). What predicted [[learning-gains|gains]] was where and how long learners manipulated parameters: sustained slider use in the most conceptually complex lesson was positively associated with gains, and the same behavior in the easier lesson negatively. For simulation builders the implication is that offering controls is not the intervention — helping learners decide what to change, and register what changed, is.
+
 ### Connections
 
 Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagogical-agent]]. It is a mechanism for experiential and [[constructivist]] learning and is amplified by AI's ability to generate adaptive, realistic practice environments.
@@ -52,6 +54,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[virtual-and-augmented-reality]] — the model, not the modality — immersive environments usually render a simulation
 
 ## Connected Articles
+- [[learner-agency-ai-simulation-2026]] — Parameter control and an optional AI agent in a complex-systems simulation: gains tracked enactment, not access
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[genai-simulate-patient-history-pbl-2026]]
 - [[alrazeeni-transforming-nursing-education-ai-2026]] — AI in nursing education: systematic review (simulation, assessment)
@@ -76,3 +79,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[an-goel-self-directed-modeling-2026]]
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review (authenticity gap, stepped continuum)
+- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
