@@ -1,7 +1,7 @@
 ---
 title: Productive Failure
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-22T09:59:57-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -54,7 +54,7 @@ Learning from errors depends on feedback that helps learners see what was wrong 
 A major theme in the knowledge base's [[research-methods-aied|research]] is the tension between AI's helpfulness and the preservation of productive struggle:
 
 - **The risk: AI erases the struggle.** Overly "helpful," Oracle-style AI that supplies answers directly can eliminate the productive struggle necessary for schema construction, creating what [[wang-safety-gap-productive-struggle-2026|Wang & Shan (2026)]] call the **Safety Gap** — the divergence between a student's AI-assisted performance and their internal, unassisted capability. This connects to [[cognitive-offloading]]: AI that substitutes for effort erodes the very capacities education builds.
-- **The design response: AI that scaffolds struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive five design principles for AI supporting productive-failure-based learning ([[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], reflective design, emotional design, open knowledge), emphasizing that AI should preserve struggle while offering non-directive support. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be *steered* to follow productive-failure pedagogy (withhold solutions, elicit multiple attempts), at the cost of perceived helpfulness.
+- **The design response: AI that scaffolds struggle.** [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] derive five design principles for AI supporting productive-failure-based learning ([[human-ai-collaboration|human-AI collaboration]], [[usability-research|usability]], reflective design, emotional design, open knowledge), emphasizing that AI should preserve struggle while offering non-directive support. [[puech-pedagogical-steering-llm-productive-failure-2025|Puech et al. (2025)]] show [[llm]] tutors can be *steered* to follow productive-failure pedagogy (withhold solutions, elicit multiple attempts), at the cost of perceived helpfulness. CoMeT (Hou et al. 2026) prices that cost and locates the middle: its escalating tutor was 0.42 scale points more frustrating than the tutor that answered on request (p < .001) and 0.29 less frustrating than the one that only asked questions (p = .011), with distress detected in 8.4% of its sessions against 16.0% under the withholding tutor, and it surrendered the full answer in 6.1% of sessions. A floor that opens on an explicit statement of giving up rather than on frustration follows from the same design — without one, the learners who most need the demand route around it.
 - **AI as a tool for PF design:** [[rhaimi-productivemath-2025|ProductiveMath]] uses [[generative-ai|generative AI]] to help teachers create high-quality PF problems — addressing the challenge that designing productive-failure activities is effortful.
 - **AI-generated errors as provocations:** the [[pedagogy-ai-mistakes|pedagogy of AI mistakes]] deliberately leverages AI errors and [[hallucination-risk|hallucinations]] as [[teacher-role|teaching]] tools, aligning with productive-failure thinking by treating erroneous output as a cognitive provocation.
 
@@ -113,3 +113,4 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 - [[finkelstein-principled-ai-education-2025]] — Principled AI in Education
 - [[crewscaler-ai-upskilling-framework]] — AI Upskilling Framework (productive failure as a tutoring protocol)
 
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does

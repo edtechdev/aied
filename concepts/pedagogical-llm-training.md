@@ -1,7 +1,7 @@
 ---
 title: Training Pedagogical LLMs for Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -166,3 +166,4 @@ Because tutoring requires corrective friction — challenging a student's incorr
 - [[lora-finetuned-control-systems-course-qa-2026]] — LoRA Fine-Tuned Models for Control Systems Course Q&A: A Multidimensional Evaluation of Model Scale and Rank Effects
 - [[misconception-acquisition-dynamics-llms-2026]] — data composition, correct-example mixing and step-level supervision for misconception-aware models
 - [[swim-student-writing-simulation-2026]] — supervised and reward-based training beat rubric prompting for proficiency control
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching

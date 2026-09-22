@@ -1,7 +1,7 @@
 ---
 title: Misconceptions about AI
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-09-18T13:00:00-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -133,3 +133,4 @@ These refutations are deliberately written in the [[refutation-text]] form so th
 - [[milicevic-socratic-trap-strategic-misconceptions-2026]] — SocraticTrap-CS: fluent, authoritative explanations that are wrong conceptually rather than factually (Miličević et al. 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden instructions in a submitted file can raise an AI-graded mark with no visible warning (Humble 2026)
 - [[children-ai-safety-misconceptions-2026]] — Children's AI-safety misconceptions: friendship with a robot misread as a privacy guarantee (Leisten et al. 2026)
+- [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models

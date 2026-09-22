@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -74,3 +74,4 @@ Benchmarks connect to [[ai-ed-evaluation]] and [[assessment-validity]] — witho
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA synthetic benchmark for multi-agent tutoring and participation-balanced collaboration
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[muse-vlm-artistic-image-benchmark-2026]] — MUSE: annotation-first, task-generative benchmark construction, and dimension-level non-redundancy across 12 artistic-imagery tasks (Zhu et al. 2026)
+- [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models

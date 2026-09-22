@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-22T10:03:01-04:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -60,6 +60,8 @@ Automated grading is one of the most mature and widely-deployed [[ai-education|A
 - **Rubric engineering for open-ended scoring in medical education:** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] asked whether GPT-4 could reliably score open-ended questions on pre-clerkship [[medical-education|medical]] exams. After three iterations of human-driven rubric refinement at two US schools, inter-rater reliability with faculty reached substantial-to-almost-perfect agreement for three of four questions using analytic and holistic rubrics (weighted kappa up to 0.94), while the holistic-rubric item stalled at moderate (κw = 0.54). Error-pattern analysis showed discrepancies were traceable to both raters — GPT-4 over-scored when students offered multiple answers or used rubric-absent vocabulary, whereas faculty were often "overly generous" graders — leading the authors to recommend keeping [[human-in-the-loop-ai|humans in the loop]] (e.g., faculty scoring a subset to confirm accuracy). Because roughly 82% of US medical schools grade pre-clerkship work pass/fail, exact AI score agreement is often unnecessary for operational use.
 
 - **HITL scoring for a large-scale national writing assessment (2026):** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] scale prompt-based [[llm]] scoring to a real high-stakes Spanish writing exam (~5,000–6,000 responses/year), achieving 60–80% item accuracy and 90%+ output consistency across a 15-item analytic rubric, with a deterministic NLP checker replacing the LLM on the spelling item (100% consistency). Its distinctive contribution is decision-oriented validation over model-centric metrics: the AI's systematic under-grading bias, converted via [[item-response-theory|IRT]]-and-Bookmark into proficiency levels, produces pass/fail discrepancies in 15.3–16.5% of cases — all of which the [[human-in-the-loop-ai|human-in-the-loop]] workflow routes to expert review, cutting responses needing full human scoring by at least 50% while preserving decision quality. This grounds hybrid grading in operational assessment rather than proof-of-concept datasets.
+- **Per-dimension agreement shows where an assessor cannot detect change:** [[sophie-clinical-communication-ai-assessment-2026|SOPHIE 2.0 (Hasan et al., 2026)]] validated an LLM judge against the consensus of all human rating sources — standardized patients and third-party raters — on a three-dimension clinical communication rubric, reaching Pearson 0.759 and ICC(A,1) 0.746 from transcripts alone, inside the spread of the individual human raters rather than outside it. Its weakest dimension was Be Explicit (correlations of 0.414–0.598 across candidate judges), and that was also the only dimension whose scores did not move measurably across the two encounters (Δ = 0.014, p = 0.1204) — so per-dimension agreement can indicate in advance which dimensions an automated assessor is unable to show improvement on.
+
 ### Confidence-aware assessment
 
 A central design goal within automated assessment is **confidence awareness**: AI assessment systems that report calibrated uncertainty alongside their scores, rather than issuing a single unqualified prediction. A confidence-aware grader not only produces a grade or classification but also signals how certain it is, so that low-confidence cases can be flagged for human review and users can calibrate their [[trust]] in the system. This is central to responsible automated assessment and connects closely to [[psychometrically-aware-ai]] and [[trust-calibration]].
@@ -175,3 +177,5 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
 - [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
 - [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
+- [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
+- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice

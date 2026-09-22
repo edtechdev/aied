@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -128,3 +128,4 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[munoz-misconduct-allegation-evidence-2026]] — What misconduct allegation files actually contain as evidence, and the process evidence they lack (Munoz et al. 2026)
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy and hybrid-writing failure: why detection is weak fallback evidence (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions: transcription is not generation (Wright 2026)
+- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
