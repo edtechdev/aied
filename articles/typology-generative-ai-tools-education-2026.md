@@ -18,6 +18,14 @@ sources: ['raw/papers/typology-generative-ai-tools-education-2026.md']
 confidence: high
 connected_resources: [gemini-notebook]
 connected_faqs: [study-with-ai, ai-save-instructor-time]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, links]
 ---
 
 > **Synthesis:** This typology is a usage census of [[generative-ai]] in education rather than a study of its effects. A late-2025 [[self-report-measures|questionnaire]] reached 211 [[teacher-role|educators]] across nine countries, who nominated the tools they actually used inside nine pre-defined categories; a tool survived into the final list only if two or more educators named it, and only if it was publicly available with a free version. Fifty tools cleared that bar, ordered within each category from most to least reported. The value for readers is the short list itself, not a verdict: it shows where educator attention has concentrated — general-purpose [[conversational-ai|chat assistants]], media generation, document-grounded research tools, and a thinner layer of classroom-specific tutoring and teacher-facing tools — while the criteria that make it usable also build in its biases.

@@ -19,6 +19,14 @@ source_url: https://doi.org/10.5281/zenodo.22828386
 sources: ['raw/papers/bounded-reliance-ai-writing-feedback-2026.md']
 confidence: high
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale, reducing-over-reliance]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, links]
 ---
 
 > **Synthesis:** This [[qualitative-research|qualitative]] case study asks not whether [[feedback|AI-generated feedback]] is accurate but how learners appraise it as a *source*. Seventeen undergraduate [[english-education|English as a foreign language]] students in a Turkish translation department used GROK across a fifteen-week academic writing course and were interviewed about the experience. Read through Source Credibility Theory, their accounts split along the theory's three dimensions: they granted the system high **expertise**, describing it as competent on vocabulary, grammar, structure and coherence and valuing the explanations it gave for its suggestions; they doubted its **trustworthiness**, mainly over what happened to their data; and they questioned its **goodwill**, finding the feedback impersonal and at times demotivating. The three judgments dissociated, and it was the latter two — not competence — that set the limit on how far students would rely on the tool. What they settled on was a division of labor: AI for broad language concerns, instructors for individualized and relational guidance.

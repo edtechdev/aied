@@ -18,6 +18,14 @@ sources: ['raw/papers/powerful-learning-with-emerging-technology-2025.md']
 confidence: high
 connected_resources: [playlab]
 connected_faqs: [designing-ai-into-learning, designing-educational-ai-software]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, links]
 ---
 
 > **Synthesis:** This Digital Promise report is a design framework rather than a study: a landscape scan — 59 expert interviews and focus groups, a review of 238 articles, and a mapping of 30 existing edtech frameworks — condensed into three principles that emerging technology for learning should satisfy. **Evidence-Based** asks products to apply research, measure learning meaningfully, and be built with the people who hold relevant expertise. **Learner-Centered** asks for [[agency]], [[metacognition]] and [[accessibility]] by design, with [[privacy]], [[explainable-ai|explainability]] and fairness treated as safety obligations rather than features. **Skill-Building** asks that tools develop the durable human capacities — [[critical-thinking]], [[creativity]], [[collaborative-learning|collaboration]] — instead of completing the thinking on the learner's behalf. Each principle carries practices and strategies for both developers and educators, illustrated by product spotlights the publisher explicitly labels as illustrations rather than endorsements.

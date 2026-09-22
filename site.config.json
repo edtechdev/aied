@@ -12,6 +12,27 @@
     "name": "Doug Holton",
     "contactUrl": "https://mastodon.social/@dougholton"
   },
+  "contributors": [
+    {
+      "id": "editor",
+      "kind": "human",
+      "role": "editor",
+      "name": "Doug Holton",
+      "contactUrl": "https://mastodon.social/@dougholton"
+    }
+  ],
+  "aiDisclosure": {
+    "started": "2026-09-22",
+    "policy": "AI-USE.md",
+    "harness": "Hermes Agent",
+    "models": [
+      {
+        "id": "deepseek/deepseek-v4.1-flash",
+        "since": "2026-09-22",
+        "note": "default model for drafting and revising page text"
+      }
+    ]
+  },
   "license": {
     "name": "CC0 1.0",
     "fullName": "CC0 1.0 Universal Public Domain Dedication",

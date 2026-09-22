@@ -10,6 +10,12 @@ assessment: [assessment, assessment-validity, automated-assessment, automated-es
 ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: revision
+    date: "2026-09-22"
+    agent: hermes-agent
 ---
 
 > **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — and ranges from direct automated grading to confidence-aware systems that report calibrated uncertainty alongside their scores.
