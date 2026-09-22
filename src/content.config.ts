@@ -258,7 +258,7 @@ const provenance = {
   reviewed_by: z.array(contributorId).optional(),
   // Ordered record of AI contributions to the current text. A page with no AI
   // involvement would carry role 'none'; absence means 'not recorded' (pages
-  // created before the record began).
+  // created before the per-page fields were introduced).
   ai_assist: z
     .array(
       z.object({

@@ -36,7 +36,9 @@ CONTRIBUTOR_NAME_LIST = ' and '.join(c['name'] for c in HUMAN_CONTRIBUTORS) or E
 AI_DISCLOSURE = SITE.get('aiDisclosure', {})
 AI_MODEL_IDS = [m['id'] for m in AI_DISCLOSURE.get('models', []) if m.get('id')]
 AI_MODELS_TEXT = ', '.join(AI_MODEL_IDS) if AI_MODEL_IDS else 'a large language model'
-AI_STARTED = AI_DISCLOSURE.get('started', '')
+AI_MODEL_HISTORY = '; '.join(f"{m['id']} from {m['since']}"
+                             for m in AI_DISCLOSURE.get('models', [])
+                             if m.get('id') and m.get('since'))
 AI_POLICY = AI_DISCLOSURE.get('policy', 'AI-USE.md')
 AI_HOW_MADE = (
     f'<p><strong>How this text was made:</strong> the pages are drafted by large '
@@ -45,8 +47,9 @@ AI_HOW_MADE = (
     f'Concept and FAQ pages are syntheses written across the article summaries '
     f'published on the site. No AI system is listed as an author or contributor. '
     f'Citations are checked against the publisher record, figures in the text are '
-    f'checked against the extracted source files, and the per-page record of AI use '
-    f'begins {AI_STARTED}. The full disclosure, including what is not verified, is in '
+    f'checked against the extracted source files, and the models behind the corpus are '
+    f'on record with the date each took over ({AI_MODEL_HISTORY}). The full disclosure, '
+    f'including what is not verified, is in '
     f'<code>{AI_POLICY}</code> in the source repository.</p>'
 )
 ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL

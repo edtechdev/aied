@@ -52,7 +52,7 @@ build:
     # (practice 3-5, Limitations 2-4) and the section order, on the pages touched here.
     - python3 tooling/scripts/audit-article-sections.py --changed
     # AI-use / provenance fields: valid values everywhere, and present on pages
-    # created on or after the date the record began (see AI-USE.md).
+    # created on or after the date the per-page fields were introduced (see AI-USE.md).
     - python3 tooling/scripts/check-ai-disclosure.py
     # Per-change provenance: commits should carry AI-Model/AI-Role trailers.
     # Advisory (exit 0) because commits made before the convention cannot be fixed.

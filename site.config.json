@@ -22,14 +22,18 @@
     }
   ],
   "aiDisclosure": {
-    "started": "2026-09-22",
     "policy": "AI-USE.md",
     "harness": "Hermes Agent",
     "models": [
       {
         "id": "deepseek/deepseek-v4.1-flash",
-        "since": "2026-09-22",
+        "since": "2026-09-11",
         "note": "default model for drafting and revising page text"
+      },
+      {
+        "id": "deepseek/deepseek-v4.0-flash-0731",
+        "since": "2026-08-12",
+        "note": "previous default model, in use until 2026-09-11"
       }
     ]
   },
