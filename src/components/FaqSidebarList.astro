@@ -5,6 +5,7 @@
  * Receives the FAQ collection already sorted by `weight`.
  */
 import { strings } from '../i18n';
+import { localizeHref } from '../i18n/config';
 
 interface Props {
   /** FAQ entries sorted descending by `weight`. */
@@ -20,7 +21,7 @@ const chrome = strings(locale).ui.chrome;
 <div class="faq-sidebar-list">
   {faqs.length === 0 && <p class="faq-sidebar-empty">{chrome.noFaqsYet}</p>}
   {faqs.map(f => (
-    <a href={`/aied/faqs/${f.slug}/`} class="faq-sidebar-link">{f.title}</a>
+    <a href={localizeHref(`/aied/faqs/${f.slug}/`, locale)} class="faq-sidebar-link">{f.title}</a>
   ))}
 </div>
 

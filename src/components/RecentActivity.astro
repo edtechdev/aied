@@ -1,5 +1,6 @@
 ---
 import { strings } from '../i18n';
+import { localizeHref } from '../i18n/config';
 /**
  * RecentActivity.astro — the "Recently Added Pages" and "Recently Updated
  * Concepts" sidebar lists. Rendered once in BaseLayout's right rail, after the
@@ -116,7 +117,7 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
       </li>
     ))}
   </ul>
-  <p class="recent-more"><a href="/aied/journal">{chrome.viewAllPages}</a></p>
+  <p class="recent-more"><a href={localizeHref('/aied/journal', locale)}>{chrome.viewAllPages}</a></p>
 </details>
 
 <details class="recent-block" open data-state-key="recent:concepts">

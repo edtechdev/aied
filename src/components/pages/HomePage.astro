@@ -17,7 +17,7 @@ const L = (html: string) => localizeHtml(html, locale);
 <BaseLayout title={s.title} locale={locale} toc={s.toc}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
   <h1 class="page-title">{s.h1}</h1>
-  <ConceptMap copy={s.conceptMap} />
+  <ConceptMap copy={s.conceptMap} locale={locale} />
 
   <p class="intro-paragraph" set:html={L(s.introHtml)} />
 

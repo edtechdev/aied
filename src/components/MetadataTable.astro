@@ -18,6 +18,7 @@
 import { strings } from '../i18n';
 import { METADATA_LINKS, FIELD_UMBRELLAS } from '../data/metadataLinks';
 import { FACET_VOCAB, FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
+import { localizeHref } from '../i18n/config';
 
 interface Props {
   // slug -> concept page title, for readable labels
@@ -99,7 +100,7 @@ const rows = ROWS.map((row) => {
           <tr>
             <th scope="row" class="metadata-label">
               {row.umbrella ? (
-                <a href={`/aied/concepts/${row.umbrella}/`} title={`What "${row.label}" covers`}>
+                <a href={localizeHref(`/aied/concepts/${row.umbrella}/`, locale)} title={`What "${row.label}" covers`}>
                   {row.label}
                 </a>
               ) : (
@@ -110,7 +111,7 @@ const rows = ROWS.map((row) => {
               {row.items.map((item, i) => (
                 <>
                   {i > 0 ? ', ' : ''}
-                  {item.slug ? <a href={`/aied/concepts/${item.slug}/`}>{item.text}</a> : item.text}
+                  {item.slug ? <a href={localizeHref(`/aied/concepts/${item.slug}/`, locale)}>{item.text}</a> : item.text}
                 </>
               ))}
             </td>

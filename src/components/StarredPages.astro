@@ -10,6 +10,7 @@ import { strings } from '../i18n';
  * so starred concepts show a friendly label.
  */
 import { DEFAULT_STARRED } from '../stores/stars';
+import { DEFAULT_LOCALE, currentTranslationMap, localizeHref } from '../i18n/config';
 
 interface Props {
   /** slug -> display title (concepts and any other pages the sidebar knows). */
@@ -20,6 +21,10 @@ interface Props {
 
 const { titles, locale = 'en' } = Astro.props;
 const chrome = strings(locale).ui.chrome;
+// The list is built in the browser from localStorage, so hand the script what it
+// needs to point an entry at this locale: the prefix, and which routes exist here.
+const localeBase = locale === DEFAULT_LOCALE ? '' : `/${locale}`;
+const translatedRoutes = currentTranslationMap()[locale] ?? [];
 
 const defaultEntries = DEFAULT_STARRED.map((key) => {
   const parts = key.split('/');
@@ -33,12 +38,12 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     <span class="starred-count" data-starred-count data-count-label={chrome.starredCount} data-none-label={chrome.starredNone}>{chrome.starredCount.replace('{count}', '0')}</span>
   </div>
 
-  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles}>
+  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles} data-locale-base={localeBase} data-translated={JSON.stringify(translatedRoutes)}>
     <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
       <summary>{chrome.concepts}</summary>
       <ul class="starred-list" data-starred-list="concept">
         {defaultEntries.filter(e => e.kind === 'concept').map(e => (
-          <li><a href={`/aied/concepts/${e.slug}/`}>{e.title}</a></li>
+          <li><a href={localizeHref(`/aied/concepts/${e.slug}/`, locale)}>{e.title}</a></li>
         ))}
       </ul>
     </details>
@@ -113,6 +118,8 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
   import { starredStore } from '../stores/stars';
 
   const groups = document.querySelector<HTMLElement>('[data-starred-groups]');
+  const localeBase = groups?.dataset.localeBase || '';
+  const translatedRoutes = new Set<string>(JSON.parse(groups?.dataset.translated || '[]'));
   if (!groups) throw new Error('starred groups missing');
   const countEl = document.querySelector<HTMLElement>('[data-starred-count]');
 
@@ -155,7 +162,8 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
             const slug = key.split('/')[1];
             let title = titles[slug] || slug;
             if (title.length > 50) title = title.slice(0, 50).trimEnd() + '…';
-            return `<li><a href="/aied/${path}/${slug}/" title="${title}">${title}</a></li>`;
+            const base = translatedRoutes.has(`/${path}/${slug}`) ? localeBase : '';
+            return `<li><a href="/aied${base}/${path}/${slug}/" title="${title}">${title}</a></li>`;
           })
           .join('');
       }
