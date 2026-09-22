@@ -163,6 +163,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 
 Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
@@ -332,6 +333,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Evaluating emerging technology as a skill-building goal
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Mapping the AI literacy instrument corpus: 55 constructs, jangle and jingle pairs, LLM-based coding
@@ -1492,6 +1495,7 @@ The instrument landscape itself has since been reviewed. [[assessing-teachers-ai
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[pedagogy-first-technology-second-teacher-knowledge-2026]] — Teacher professional knowledge in K-12 AI education: TAIK vs TPAIK and student learning (Shen et al. 2026)
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
@@ -1583,6 +1587,8 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Ground AI generation in a structured instructional model.** AI content is only as good as the pedagogical structure behind it — explicit structure, not AI fluency, determines quality. Design around a recognized model (ADDIE, Dick & Carey, rapid prototyping) and encode pedagogical decisions explicitly rather than relying on the model to infer them.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
 
+**Adopt a principle-level framework as well as an instructional model.** A course-level model structures one design; a published framework sets the criteria that many designs should satisfy. An example worth reading in full is Digital Promise's *Powerful Learning with Emerging Technology*, which organizes its guidance under three principles — Evidence-Based, Learner-Centered, Skill-Building — each expanded into practices and strategies, and attaches [[privacy]], [[explainable-ai|explainability]] and fairness to particular practices as safety obligations rather than optional extras.([[powerful-learning-with-emerging-technology-2025]])
+
 **Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[multi-agent-instructional-design]])
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
@@ -1626,6 +1632,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
 - [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
 - [[zhou-constructive-alignment-genai-business-2026]]
@@ -1764,6 +1771,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Guidance for product teams as well as educators
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
@@ -2583,6 +2591,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
@@ -2934,6 +2943,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Critical thinking as understanding and evaluating AI
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
@@ -3563,6 +3573,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Protecting human connection in AI-mediated collaboration
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[adaptive-ai-scaffold-collaborative-problem-solving-2026]]
 - [[genai-counter-learner-groupthink-2025]]
@@ -3838,6 +3849,7 @@ Productive failure connects to [[learning-theories]] (constructivism), [[desirab
 
 ## Connected Articles
 
+- [[powerful-learning-with-emerging-technology-2025]] — Designing for productive struggle in educational technology
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support PF Problem Design
@@ -4951,6 +4963,7 @@ Learning theories also appear as content in [[ai-literacy|AI literacy]] curricul
 - [[ai-education]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Three design principles for emerging technology: evidence-based, learner-centered, skill-building
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[airis-hybrid-human-ai-cognition-2026]] — AI-Augmented Inquiry and Regulation in Hybrid Systems (AIRIS)
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)
@@ -6175,6 +6188,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability and productive struggle as metacognitive design
 - [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
@@ -7468,6 +7482,8 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Scaffolding creativity instead of completing it
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[rana-genai-design-thinking-2025]]
 - [[chatgpt-critical-creative-thinking-review]] — ChatGPT and Critical and Creative Thinking: Systematic Review
@@ -8242,6 +8258,7 @@ The technical strand is inseparable from the knowledge base's other themes:
 
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education
 - [[genai-meta-analysis-programming-learning]] — Meta-analysis of GenAI's effect on productivity and learning in programming
 - [[cstutorbench-slm-tutors]] — Small language model tutoring benchmarks
@@ -8399,6 +8416,7 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[generative-ui-education-learning-interactives-2026]] — Harnessing Generative UI for Education: Tailored Learning Interactives
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
@@ -10306,6 +10324,7 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[k-12]]
 - [[speech-and-voice-technologies]]
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — Educator-reported tutoring and chatbot tools in a 2026 typology
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS in community college developmental math
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
@@ -11420,6 +11439,10 @@ Platforms in AI in education perform several distinct functions:
 
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.([[access-not-enough-ai-tutoring-2026]])
 
+### Which tools educators report using, and what gates access
+
+A rare census of educator-reported platform choice comes from a 2026 typology built from 211 educators across nine countries: the tools that reach classrooms are disproportionately the ones with a free tier, because a publicly available free version was an inclusion criterion, and the most-nominated entries are general-purpose assistants and media generators rather than purpose-built platforms. Roughly half of the fifty tools listed produce images, audio, video or slide decks, while document-grounded assistants (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) form the most coherent cluster in the research category. Dedicated [[intelligent-tutoring|tutoring]] systems appear as a small, subject-specific group rather than the center of reported use — which frames the take-up problem above in a wider setting, where a platform competes for attention against general-purpose tools that students and instructors already have open.([[typology-generative-ai-tools-education-2026]])
+
 ### The platform model matters: open vs. proprietary
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
@@ -11467,6 +11490,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[educational-technology-developers]]
 
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice
@@ -18966,6 +18990,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[parents-and-families]]
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Free-tier availability as the gate on which tools reach educators
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)
@@ -19654,6 +19679,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Accessibility as a learner-centered requirement
 - [[seung-basham-cognitive-offloading-swld-2026]] — GenAI cognitive offloading for students with learning disabilities
 - [[shin-ai-policies-sld-2026]] — AI policies and accommodations for students with specific learning disabilities
 - [[zhang-ai-students-disabilities-meta-analysis-2024]] — Meta-analysis of AI interventions for students with disabilities
@@ -20554,6 +20580,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[student-experience]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Privacy as a safety obligation attached to agency
 - [[villegas-ch-federated-explainable-learning-analytics-2026]] — Federated and explainable learning analytics for privacy-preserving academic risk modeling (Villegas-Ch et al. 2026)
 - [[preservice-teachers-responsible-genai-2026]] — Privacy concerns of pre-service teachers about responsible GenAI use (Kohnke et al. 2026)
 - [[learning-analytics-to-educational-interventions-2026]] — From learning analytics to educational interventions: enablers of trustworthy LA-based interventions (Svetec, Divjak & Kadoić 2026)
@@ -20987,6 +21014,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability as a metacognitive design requirement
 - [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)
