@@ -114,6 +114,14 @@ PATTERNS = [
     (re.compile(r"(?<![A-Za-z])" + re.escape(w) + r"(?![A-Za-z])", re.I), w, us)
     for w, us in sorted(WORDS.items(), key=lambda kv: -len(kv[0]))
 ]
+# Published titles reproduce the source's own spelling, including British forms: a
+# Connected Articles blurb is the linked page's title, and respelling it would misquote
+# the paper. List each such title span verbatim here (the checker cannot tell a quoted
+# title from prose in a blurb, and the italic-span protection is capped at 60 chars).
+QUOTED_TITLES = (
+    "Evidence from personalised dialogue interventions in education",  # Corbett & Tangen 2025, CHB
+)
+
 PROTECTED = re.compile(r'("[^"\n]*"|\[\*[^\]\n]*\*\]\([^)\n]*\)|\*[A-Z][^*\n]{3,60}\*)')
 
 
@@ -150,7 +158,10 @@ def _strip_and_split(text: str) -> str:
     text = WIKILINK.sub(lambda m: m.group(2) or "", text)
     if SLUGS:
         text = re.sub(r"(?<![A-Za-z-])(?:" + "|".join(re.escape(s) for s in sorted(SLUGS, key=len, reverse=True)) + r")(?![A-Za-z-])", " ", text)
-    return PROTECTED.sub(" ", text)
+    text = PROTECTED.sub(" ", text)
+    for title in QUOTED_TITLES:
+        text = text.replace(title, " ")
+    return text
 
 
 # Generated files are written by tooling from the registry (which keeps British
