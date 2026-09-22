@@ -49,6 +49,10 @@ The knowledge base is also published as downloadable eBooks, generated from the 
 
 Both contain the home introduction, the *Use-With-AI* page, all **concept pages** (organized into chapters by umbrella group, with a clickable, numbered table of contents), the **FAQ pages**, and a closing **Free Tools and Resources** appendix. They contain the concept, FAQ and resource pages — not the hundreds of article summaries.
 
+### How this was made
+
+Pages are drafted by language models from the source papers and reviewed, corrected and published by a human editor, who is accountable for what appears here. The full account — which models, in what roles, what the scripts verify, what nothing verifies, and why no AI system is listed as an author — is in [AI-USE.md](AI-USE.md). It is also on the Notice page of both offline editions.
+
 ### License
 
 Code in this repository is licensed under the **MIT License**; the knowledge-base content (markdown, HTML) is released to the public domain under **CC0 1.0 Universal**. See [LICENSE](LICENSE).
@@ -69,9 +73,12 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 
 **Do not hardcode these values in code or docs — read them from the config instead.** Astro imports it via `src/config/siteConfig.ts`; Python tooling (the EPUB/PDF builder, llms generator, RSS fetcher) opens it with `json.load`. To rename the site or change any metadata, edit `site.config.json`, then rebuild the site and regenerate the EPUB/PDF/llms files.
 
+The same file holds the two blocks that back the AI-use disclosure: **`contributors`** (the people accountable for the corpus, referenced by id from page frontmatter so no name is written into a page) and **`aiDisclosure`** (the models in use with the date each took over, the agent harness, and the date the record began). The policy text they implement is [`AI-USE.md`](AI-USE.md). Adding a model means editing the config first: the disclosure gate refuses a page that names a model the config does not list.
+
 ### Repository layout
 
 ```
+├── AI-USE.md          # Policy: how the corpus is made, which models, what a human checks
 ├── articles/          # Article pages (one markdown file per paper)
 ├── concepts/          # Synthesized concept pages (topic overviews)
 ├── faqs/              # Curated FAQ pages (question-and-answer)
@@ -108,6 +115,18 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 - **Typed metadata replaced tags** (retired 2026-09-17). The concepts a page touches are named in the facet fields — `foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `stakeholders`, `institutions`, `ethics` — each taking concept slugs filed under that field's own registry section, alongside the phrase fields `research_method`, `discipline`, `level`, `audience` and `page_kind`. They render as the Metadata table at the foot of every page and drive the PageFind facets and the page's schema.org keywords. A value of the wrong kind fails the build. See [`tooling/SCHEMA.md`](tooling/SCHEMA.md).
 - **Structured data** — every page emits schema.org JSON-LD (`Article`/`DefinedTerm`/`FAQPage` as appropriate). See [`docs/json-ld.md`](docs/json-ld.md).
 
+### How AI use is disclosed
+
+Every page here was drafted by a language model and reviewed by a person, so the corpus says so rather than leaving a reader to guess. [`AI-USE.md`](AI-USE.md) is the policy text: which models are used and for what, what the editor does, what the scripts verify, what nothing verifies, and the position that no AI system is listed as an author or contributor.
+
+The record itself is split by granularity, because one level cannot answer the other's question:
+
+- **Per change** — the commit. `tooling/scripts/commit-if-green.sh` stamps each commit with `AI-Model`, `AI-Role` and `AI-Agent` trailers (and `Human-Review` when a reviewer id is given). A frontmatter field records only whoever produced the text as it now stands; commits cannot go stale, survive a page rewrite, and read back with `git log --format='%(trailers)'`.
+- **Per page** — the frontmatter, in the markdown only, never rendered by the site or the editions: `contributors` and `reviewed_by` (contributor ids resolved from `site.config.json`), `ai_assist` (model, role, date for each AI contribution to the current text), `source_depth` for articles (full text, abstract only, metadata only — for a summarizing corpus this matters more than the model name) and `verified` (which checks ran). `reviewed_by` is set only where a human actually read the page; it is never a default.
+- **Per corpus** — the standing statement, which also reaches readers: the Notice page of `aied.epub` and `aied.pdf` names the models, the human oversight and the limits of the record, all read from `site.config.json`.
+
+The record begins 2026-09-22 and is not backfilled: pages published earlier carry no model claim, because naming a model for them would be inference, not record. Two gates enforce this — `tooling/scripts/check-ai-disclosure.py` (valid values, and a record required on pages created on or after that date) and the advisory `tooling/scripts/check-ai-disclosure-trailers.py` (commits with no trailers).
+
 ### Local development
 
 ```bash
@@ -118,8 +137,13 @@ npm install
 npm run dev
 
 # Run every hard gate declared in wiki.config.yaml (registry, facets, generated views,
-# inline links, list formatting, US English, article sections, number grounding)
+# inline links, list formatting, US English, article sections, number grounding,
+# AI-use disclosure)
 npm run verify
+
+# Commit through the gate route: it runs the gates, scans the staged diff for personal
+# details, and stamps the AI-use trailers (AI_MODEL / AI_ROLE / AI_REVIEWED_BY override)
+bash tooling/scripts/commit-if-green.sh message.txt articles/example.md
 
 # Build the static site (astro check + astro build; outputs to dist/)
 npm run build
@@ -174,7 +198,9 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/README.md`** — Complete setup guide
 - **`tooling/SKILL.md`** — AI agent skill definition (the `research-wiki` ingestion + export pipeline)
 - **`tooling/SCHEMA.md`** — Page conventions, the typed metadata fields (tags are retired), and the generated vocabulary lists
-- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), resource link checker (`check-resource-links.py`), readfile-corruption checker, US-English checker (`check-us-english.py`) and its fixer (`respell-us-english.py`)
+- **`tooling/scripts/`** — RSS fetcher (`fetch-rss-feeds.py`), llms generator (`generate-llms-files.py`), backlink tool (`add-backlinks.py`), resource link checker (`check-resource-links.py`), readfile-corruption checker, US-English checker (`check-us-english.py`) and its fixer (`respell-us-english.py`), AI-use disclosure gate (`check-ai-disclosure.py`) and the advisory trailer check (`check-ai-disclosure-trailers.py`)
+- **`tooling/scripts/commit-if-green.sh`** — the commit route: gates, personal-identifier scan of the staged diff, then a commit stamped with the AI-use trailers
+- **`tooling/ai-commit.sh`** — stamps a commit with the `AI-Model` / `AI-Role` / `AI-Agent` (and `Human-Review`) trailers, validating model and contributor ids against `site.config.json`
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
 - **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views

@@ -141,7 +141,9 @@ Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro 
 
 **Article-section rule (HARD GATE):** `python3 tooling/scripts/audit-article-sections.py --changed` checks the section order (citation last), that the practice section immediately precedes Limitations, and the bullet counts (practice 3–5, Limitations 2–4). Trim an over-long Limitations list by folding weaker bullets into stronger ones rather than discarding evidence.
 
-**Commit route (HARD GATE):** commit through `bash tooling/scripts/commit-if-green.sh <message-file> <paths...>`. It runs the US-English, list-formatting and facet gates, the section audit and the number-grounding check over the paths being committed, refuses the commit when any fails, and greps the staged diff for personal identifiers. A plain `git commit` skips all of it, and the defect then surfaces during the next release instead of here.
+**Commit route (HARD GATE):** commit through `bash tooling/scripts/commit-if-green.sh <message-file> <paths...>`. It runs the US-English, list-formatting and facet gates, the section audit and the number-grounding check over the paths being committed, refuses the commit when any fails, and greps the staged diff for personal identifiers. It commits through `tooling/ai-commit.sh`, so the commit also carries the AI-use trailers (`AI-Model` / `AI-Role` / `AI-Agent`, plus `Human-Review` when `AI_REVIEWED_BY` names a contributor id); `AI_ROLE=drafting,revision` records what the change actually did, and `AI_MODEL=…` a model other than the configured default. A plain `git commit` skips all of it, and the defect then surfaces during the next release instead of here.
+
+**AI-use disclosure rule (HARD GATE, added 2026-09-22):** a corpus drafted by a model should say so, at three granularities, because one cannot answer another's question. The **policy** is `AI-USE.md` at the repo root (which models, in what roles, what the editor does, what the scripts verify, what nothing verifies, and that no AI system is an author). The **values** live in `site.config.json`: `aiDisclosure.models` (id + `since`) and `contributors` (`kind: human`), and pages reference contributors by id so no name is written into a page. **Per page**, frontmatter carries `contributors`, `reviewed_by`, `ai_assist` (`model`, `role`, `date`), `source_depth` (articles: full text / abstract only / metadata only) and `verified` — markdown only, never rendered. **Per change**, the commit carries the trailers, because a page field records only whoever produced the text as it now stands and goes stale on the next rewrite. Gates: `python3 tooling/scripts/check-ai-disclosure.py` requires a record on pages created on or after the start date and validates every value against the config; `python3 tooling/scripts/check-ai-disclosure-trailers.py` reports commits without trailers (advisory). Set `reviewed_by` only where a human actually read the page, and add a new model to `site.config.json` before any page names it.
 
 **List-formatting rule (HARD GATE):** ordered/bulleted lists whose consecutive items are separated by a blank line render broken — each item restarts at `1.` (CommonMark splits them into separate lists). Run `python3 skills/research/wiki-inline-links/scripts/check_list_formatting.py <WIKI> --all` before build and fix every reported page by removing the blank line between consecutive list items. A green build does NOT catch this; the maintainer flags it repeatedly.
 
@@ -196,14 +198,29 @@ python3 tooling/scripts/audit-article-sections.py --all
 python3 tooling/scripts/verify-number-grounding.py --changed
 python3 tooling/scripts/verify-number-grounding.py <slug> [<slug> ...]
 
+# Validate the AI-use disclosure fields on every page and require a record on pages
+# created on or after aiDisclosure.started in site.config.json.
+python3 tooling/scripts/check-ai-disclosure.py
+
+# Report commits that carry no AI-Model / AI-Role trailers (advisory, never fails).
+python3 tooling/scripts/check-ai-disclosure-trailers.py
+python3 tooling/scripts/check-ai-disclosure-trailers.py --range origin/main..HEAD
+
 # Run EVERY hard gate declared in wiki.config.yaml (build.gates), in order.
 # A green build does NOT substitute for these.
 python3 tooling/scripts/run-gates.py        # or: npm run verify
 python3 tooling/scripts/run-gates.py --list
 
 # Commit only when the gates are green (US English, list formatting, facets, section audit,
-# number grounding, then a personal-identifier scan of the staged diff).
+# number grounding, then a personal-identifier scan of the staged diff). The commit is
+# stamped with the AI-use trailers; AI_ROLE / AI_MODEL / AI_REVIEWED_BY override the defaults.
 bash tooling/scripts/commit-if-green.sh /tmp/msg.txt articles/<new-page>.md public/llms-full.txt
+
+# Stamp the trailers alone, when you are committing without the gate suite. Stage first;
+# this wrapper never adds files and never pushes.
+git add -A
+bash tooling/ai-commit.sh -m "Fix a typo" --no-ai                       # human-only edit
+bash tooling/ai-commit.sh -m "Revise the intro" --role revision --reviewed-by editor
 
 # Show the effective configuration / a single value
 python3 tooling/scripts/wiki_config.py
@@ -213,9 +230,14 @@ python3 tooling/scripts/wiki_config.py --cap run_python     # your agent's pytho
 # Build the Astro site (also emits the PWA: manifest.webmanifest + sw.js + workbox runtime)
 npm run build
 
+# Regenerate the committed offline artifacts after content changes (the Notice page reads
+# site.config.json, so a change to the AI-use disclosure also needs a rebuild)
+python3 tooling/scripts/generate-llms-files.py
+python3 tooling/build-epub.py
+
 # Deploy (GitHub Actions deploys dist/ on push). Push only with explicit approval; CI
 # rebuilds the whole site on every push.
-git add -A && git commit -m "..." && git push
+git push
 ```
 
 ## Agent-Ready Files

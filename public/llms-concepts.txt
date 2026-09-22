@@ -360,6 +360,8 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework for Ukrainian secondary educators (Marienko et al. 2026)
 - [[niri-steam-ai-literacy-review-2026]] — STEAM education for AI literacy: systematic review
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -1222,6 +1224,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection against AI-mediated grading: hidden instructions that change the grade undetected (Humble 2026)
 - [[petricini-zipf-ai-use-ethics-matrix-2026]] — The AI-Use Ethics Matrix: anxious compliance, and why clarity alone can push students into efficient circumvention (Petricini & Zipf 2026)
 - [[austin-ai-agents-assignment-redesign-2026]] — Grading the reasoning trail when AI agents can complete the assignment (Austin 2026)
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -2491,6 +2494,9 @@ Human-AI collaboration connects to [[human-in-the-loop-ai]] (oversight), [[agent
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: automation, augmentation and collaboration as a continuum of task assignment
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -2988,6 +2994,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[critics-lm-critical-thinking-science-education-2026]] — CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education
 - [[lftutor-logical-fallacy-education-2026]] — teaching fallacy recognition through structured multi-turn dialogue
 - [[caeai-ai-companions-learning-over-performance-2026]] — learning over performance: what companions should be optimized and measured for
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 ---
 
@@ -3601,6 +3608,7 @@ Collaborative learning occupies the top of the [[icap-framework|ICAP framework]]
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI as coordination infrastructure in student groups: intensified, restrained, and non-enacted use
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -5804,6 +5812,7 @@ The collective lesson: **SRL is the core mechanism distinguishing critical from 
 - [[conversational-agents-business-simulation-gaming-2026]] — CAIS-GBL framework for AI conversational agents in business simulation games (Wenzel et al. 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: a learner-facing loop of task identification, justification and post-task reflection
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -6217,6 +6226,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -7580,6 +7590,8 @@ Non-use is itself an interaction pattern that [[pedagogy]] must plan for. [[zou-
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[student-reception-genai-analogies-computing-2026]] — Flawed but Memorable: Student Critical Reception of Interest-Personalized GenAI Analogies in Computing Education
 - [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -11208,6 +11220,7 @@ Process-level instrumentation is the descriptive layer's next step down. [[pulla
 - [[huang-interpretable-knowledge-tracing-2026]]
 - [[league-ethical-governance-student-data-2026]]
 - [[precision-education-student-digital-twins-2026]]
+- [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 
 ---
 
@@ -14517,6 +14530,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector inaccuracy and hybrid-writing failure: human judgment as the recommended replacement for the verdict (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Function, not platform: judging what a tool did rather than what it is (Wright 2026)
 - [[austin-ai-agents-assignment-redesign-2026]] — UnBlooms and the Discernment Rate: grading the reasoning trail behind AI-assisted work (Austin 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -14669,6 +14683,8 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[tripartite-feedback-framework-ai-assessment-2026]] — Tripartite framework: sorting feedback by epistemic status and the five boundary principles for AI involvement (Venetsanos 2026)
 - [[structured-reflection-ai-explanatory-feedback-2026]] — Benefit or bottleneck? Structured reflection on AI explanatory feedback (Asher, Gold & Carvalho 2025)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -14767,6 +14783,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 - [[ai-feedback-critical-thinking-writing-2026]] — AI feedback and critical thinking in writing
 - [[repeated-ai-writing-feedback-semester]] — Repeated AI writing feedback across a semester
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 ---
 
@@ -14875,6 +14892,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -15013,6 +15031,7 @@ Formative assessment systems can shift from learning-support tools to behavior-m
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
 - [[ai-feedback-adaptivity-children-plans-2026]] — Adaptivity makes feedback effective: evidence from AI-generated feedback on children's plans
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -15344,6 +15363,7 @@ A second line of research treats AI as a participant rather than a tool, and its
 - [[dollinger-equitable-assessment-ai-2026]] — Equitable assessment in the AI era
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -15508,6 +15528,7 @@ The open questions are about the strength of the evidence, not only about design
 - [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
 - [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
+- [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 
 ---
 
@@ -15665,6 +15686,8 @@ Automated grading is one of the most mature and widely-deployed [[ai-education|A
 - **Benchmarking GenAI models for open-ended grading:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] benchmarked eleven GenAI and sentence-embedding models against two expert human graders on 1,885 open-ended responses to 24 software-engineering questions. Only GPTo1 reached almost-perfect agreement (Fleiss' Kappa 0.82, low false positives and false negatives across grade categories), with Claude3 and PaLM2 close behind; context-sensitive [[generative-ai|GenAI]] models robustly handled short, diversely-phrased student answers, while reference-based embedding models (e.g., BERT's 345 false positives) systematically penalized correct-but-divergently-worded responses — evidence that model choice, not just grading format, shapes reliability for free-text [[assessment|open-ended assessment]].
 - **Mixed-format exam grading (2026):** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] evaluated ChatGPT-5 against human faculty grading of a 21-item pharmacy exam (16 students) spanning multiple-choice, select-all-that-apply, fill-in-the-blank, listing, short-answer, and essay items. Concordance was substantial-to-near-perfect for objective item types (CCC 0.935–1.000 — aided by correct answers supplied during grading) but collapsed for listing (0.621–0.708), short-answer (≈0 to negative), and essay (0.341–0.854) items; providing a structured rubric did not consistently improve full-exam agreement (71.1% without vs 68.2% with). The study sharpens a methodological point that recurs across automated assessment — moderate percent accuracy frequently coexists with low [[assessment-validity|concordance]] — so accuracy alone overstates reliability, and it recommends [[human-in-the-loop-ai|hybrid grading]] for complex, subjective, or high-stakes items.
 
+- **Cross-family grade-band calibration on authentic marked essays (2026):** [[llm-grade-bands-calibration-bias-2026|Kerwat, Donaldson & Mahomed (2026)]] ran eight pre-specified configurations from four model families (GPT-OSS 20B, GPT-OSS 120B, Qwen 32B and Llama 3.1 8B, each at two temperatures) over the same locked cohort of 114 BAWE/Coventry essays carrying institutional Merit and Distinction labels, with one shared prompt that permitted four bands. Exact band agreement ranged from 18.4% to 54.4%: Llama 3.1 8B at temperature 0.5 led (54.4% exact, 98.2% within one band, MAE 0.474, near-zero bias) while GPT-OSS 120B was weakest (18.4%) and systematically *undergraded*, by an average of 1.316 bands at temperature 0.5, with Distinction accuracy trailing Merit accuracy throughout. The locked cohort contained no Pass or Fail references, so this is Merit–Distinction discrimination rather than reliability across the full grade range, and temperature was no cure — it helped one family descriptively, left another unchanged, and significantly worsened GPT-OSS 20B (39.5% to 29.8% exact). Two lessons transfer beyond the study: grade distance and directional bias reveal what agreement statistics hide, and model size is no proxy for [[assessment-validity|assessment validity]].
+
 - **Rubric engineering for open-ended scoring in medical education:** [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] asked whether GPT-4 could reliably score open-ended questions on pre-clerkship [[medical-education|medical]] exams. After three iterations of human-driven rubric refinement at two US schools, inter-rater reliability with faculty reached substantial-to-almost-perfect agreement for three of four questions using analytic and holistic rubrics (weighted kappa up to 0.94), while the holistic-rubric item stalled at moderate (κw = 0.54). Error-pattern analysis showed discrepancies were traceable to both raters — GPT-4 over-scored when students offered multiple answers or used rubric-absent vocabulary, whereas faculty were often "overly generous" graders — leading the authors to recommend keeping [[human-in-the-loop-ai|humans in the loop]] (e.g., faculty scoring a subset to confirm accuracy). Because roughly 82% of US medical schools grade pre-clerkship work pass/fail, exact AI score agreement is often unnecessary for operational use.
 
 - **HITL scoring for a large-scale national writing assessment (2026):** [[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al. (2026)]] scale prompt-based [[llm]] scoring to a real high-stakes Spanish writing exam (~5,000–6,000 responses/year), achieving 60–80% item accuracy and 90%+ output consistency across a 15-item analytic rubric, with a deterministic NLP checker replacing the LLM on the spelling item (100% consistency). Its distinctive contribution is decision-oriented validation over model-centric metrics: the AI's systematic under-grading bias, converted via [[item-response-theory|IRT]]-and-Bookmark into proficiency levels, produces pass/fail discrepancies in 15.3–16.5% of cases — all of which the [[human-in-the-loop-ai|human-in-the-loop]] workflow routes to expert review, cutting responses needing full human scoring by at least 50% while preserving decision quality. This grounds hybrid grading in operational assessment rather than proof-of-concept datasets.
@@ -15782,6 +15805,7 @@ Automated assessment connects to [[assessment-validity]] (quality assurance), [[
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Red-team evaluation of prompt injection hidden in student submissions against AI-mediated grading (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework for automated teacher assessment with trust-gated inference (Li et al. 2025)
 - [[gpt4-handwritten-math-exam-grading-2026]] — handwritten semi-open mathematics grading with a confidence filter for human re-checking
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -15857,6 +15881,7 @@ AES sits at the intersection of [[automated-assessment]], [[writing-education]],
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[know-when-to-trust-ai-scoring-reliability-2026]] — Know When to Trust: self-confidence, weighted probabilistic scoring and ensembling improve LLM scoring agreement
 - [[swim-student-writing-simulation-2026]] — a frozen AES verifier used as a dense training reward for a writing generator
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -16085,6 +16110,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy 0.69 and 0.61 on 192 texts; hybrid-writing failure and EFL misclassification risk (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive prohibitions: transcription is not generation, so the rule sanctions what it was not designed to catch (Wright 2026)
 - [[sharma-judgment-visible-genai-assessment-2026]] — Integrity made visible through evaluative judgment rather than detection (Sharma 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -16296,6 +16322,7 @@ Educational measurement is the foundation for [[item-response-theory]], [[assess
 - [[llm-distractor-generation-student-reasoning-2026]] — distractor quality criteria and the reasoning strategies behind them
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A validated 15-item self-assessment questionnaire for upper-primary AI literacy (Thianwan & Srikoon 2025)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic appraisal of 33 teacher AI literacy instruments across COSMIN-style quality domains (Zainal et al. 2026)
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -19345,6 +19372,7 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[lopez-pernas-llm-appropriate-student-support-2026]] — Can AI deliver appropriate support for diverse student profiles? A large-scale evaluation
 - [[bias-representation-text-to-image-education-2026]] — Bias and representation in AI-generated text-to-image: systematic review (Alon et al. 2026)
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
+- [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 
 ---
 
@@ -20602,6 +20630,7 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-preserving federated LLM cognitive diagnosis
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 ---
 
@@ -20837,6 +20866,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[student-perspectives-ai-writing-grading-2026]] — Who Should Grade My Work? Student Perspectives on Transparent AI-Assisted Writing Assessment in Higher Education
 - [[trust-in-ai-psychological-profiles-ml-2026]] — Three student profiles in which AI trust tracks resilience and stress rather than demographics (Kumar et al. 2026)
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 ---
 
@@ -20867,6 +20897,10 @@ Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without 
 - **Context awareness:** recognizing that [[trust|trustworthiness]] varies by task — a well-trodden topic the model has seen extensively is safer than an obscure, high-stakes, or fast-moving one.
 - **Stakes adjustment:** applying more scrutiny where errors are costly (submitted work, medical or legal claims) and less where they are benign.
 - **Metacognitive monitoring:** tracking when and why one over-trusts, which connects calibration to [[metacognition]] and [[self-regulated-learning]].
+
+### Where the limit on reliance actually sits
+
+Calibration research usually treats trust as a single judgment. [[bounded-reliance-ai-writing-feedback-2026|Serpil & Mor (2026)]] show the appraisal splits into dimensions that are not equally binding. Interviewing 17 EFL undergraduates after a semester of using GROK for feedback on their writing, they found perceived *expertise* high — students credited the tool with improving vocabulary, grammar, structure and coherence, and read its explanations for suggested revisions as evidence of competence — while *trustworthiness*, mainly about what happened to their data, and *goodwill*, with feedback experienced as impersonal and at times demotivating, stayed low. Reliance followed the weak dimensions rather than the strong one: students authorized the tool for broad language feedback and reserved individualized, relational guidance for the instructor. The implication for calibration is that improving accuracy does not move the ceiling on use; data transparency and the instructional framing around a tool are themselves calibration interventions.
 
 ### Calibration as a design problem
 
@@ -20928,6 +20962,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading: a tool that suppressed and contradicted its own warnings (Humble 2026)
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Trust-gated inference and explainable-by-design assessment, with trust left unmeasured (Li et al. 2025)
 - [[gpt4-handwritten-math-exam-grading-2026]] — confidence filtering of AI grades and its false-positive rate
+- [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 
 ---
 
