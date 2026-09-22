@@ -14,10 +14,10 @@ ai_assist:
     date: "2026-09-22"
     agent: hermes-agent
 ---
+*Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
 # Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?
 
-*Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle.*
 
 **Partez de l'objectif et du processus d'apprentissage, et non de la fonctionnalité d'IA.** Le concept de [[pedagogy|pédagogies et stratégies d'enseignement]] de la base de connaissances souligne qu'une même IA peut servir d'appui, d'interlocuteur [[socratic-method|socratique]], de partenaire de rétroaction, de [[simulation]] ou de générateur de réponses selon la conception pédagogique. Ce qui compte, c'est de savoir si la configuration préserve l'activité qui produit l'apprentissage visé.
 
