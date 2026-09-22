@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-21T13:25:53-04:00"
+updated: "2026-09-22T03:05:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -108,6 +108,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[parents-and-families]]
 ## Connected Articles
 
+- [[typology-generative-ai-tools-education-2026]] — Free-tier availability as the gate on which tools reach educators
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
 - [[kumar-genai-computing-education-systematic-review-2026]] — Skill-gap vs resource-gap: two equity mechanisms requiring different remedies
 - [[brunnstrom-ai-interaction-literacy-srl-2026]] — Unguided GenAI may widen gaps: the interaction-management competence (Brunnström & Palmqvist 2026)

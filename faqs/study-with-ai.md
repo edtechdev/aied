@@ -1,7 +1,7 @@
 ---
 title: "How Should I Use AI to Study and Learn Effectively?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-09-17T03:00:00-04:00"
+updated: "2026-09-22T03:05:00-04:00"
 weight: 60
 type: faq
 foundations: [cognitive-offloading]
@@ -10,6 +10,7 @@ ethics: [trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
+connected_resources: [gemini-notebook]
 ---
 
 # How Should I Use AI to Study and Learn Effectively?

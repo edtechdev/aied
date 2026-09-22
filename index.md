@@ -1,10 +1,11 @@
 # Index
 
-Last updated: 2026-09-21
+Last updated: 2026-09-22
 
-Articles: 1351 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1352 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
+
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era
 - [[a4l-analytics-pipeline]] — Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains
 - [[aaai2026-prompting-literacy-k12]] — Learning to Use AI for Learning: Teaching Responsible Use of AI Chatbot to K-12 Students Through an AI Literacy Module
@@ -1457,6 +1458,7 @@ Articles: 1351 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals
 - [[tutors-gig-economy-automated-feedback]] — Supporting Tutors in the Gig Economy with Automated Feedback: A Case Study on Ringle
 - [[tutortrace-learner-behavioral-states-2026]] — TutorTrace: A Dataset and Taxonomy for Classifying Learner Behavioral States during AI-Assisted Programming Education
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[tzirides-thinking-through-ai-2025]] — Thinking Through AI: Advancing Cognitive and Collaborative Research for AI in Education
 - [[ukraine-ai-literacy-secondary-framework-2026]] — AI Literacy in Secondary Education: Framework, Assessment, and Professional Development in the Ukrainian Context
 - [[understanding-student-effort-response-time]] — Understanding Student Effort Using Response-Time Propensities During Problem Solving
@@ -1558,17 +1560,19 @@ Articles: 1351 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — Against frictionless AI
 - [[zou-is-this-a-trap-student-teachers-genai-2026]] — Is this a trap?": Student teachers' perceptions and adoption of GenAI in assessments in three teacher education courses
 - [[zuo-instructor-power-genai-writing-2026]] — “Will AI steal my glory?”: Power relations perceived by college instructors when grappling with Generative AI
+
 ## Resources
 
 - [[deeptutor]] — DeepTutor
 - [[drawsplat]] — DrawSplat
 - [[edugems]] — EduGems
+- [[gemini-notebook]] — Gemini Notebook
 - [[id-toolbox]] — The ID Toolbox
 - [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
-- [[jev-sandbox]] — Jev Sandbox
 - [[lesson-md]] — LESSON.md
 - [[openmaic]] — OpenMAIC
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
 - [[playlab]] — Playlab
 - [[pressing-prompts]] — Pressing Prompts
 - [[teacherserver]] — TeacherServer
+

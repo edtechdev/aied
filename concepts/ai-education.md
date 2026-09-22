@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T03:10:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -171,6 +171,7 @@ AI in education connects to every concept in the knowledge base — it is the fi
 
 Field-wide reviews of AI in education — the studies that survey the whole field or a whole educational level rather than one topic:
 
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[raza-farooq-aied-review-2020-2025]] — Review of Artificial Intelligence in Education from 2020 to 2025
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
