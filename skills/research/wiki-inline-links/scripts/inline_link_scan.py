@@ -348,6 +348,10 @@ REJECT_PAIRS = {
     ('domain-specific', 'discipline-specific-aied'), # adjective, not the discipline page
     ('cognitive load', 'cognitive-offloading'),      # CLT construct, not offloading
     ('assessment literacy', 'assessment-validity'),  # literacy, not validity evidence
+    # --- 2026-09-22, Digital Promise framework ingest: false positives hand-reverted ---
+    ('edtech', 'edtech-platform'),                   # "edtech frameworks" = the field, not the platform layer
+    ('instructional designers', 'stakeholders'),      # readership noun, not the stakeholder page
+    ('questionnaire', 'self-report-measures'),        # a vendor-review question list, not a research instrument
     # --- 2026-09-22, Bower typology ingest: false positives hand-reverted ---
     ('biases', 'bias-mitigation'),                   # "the criteria build in its biases", not mitigation
     ('professional education', 'professional-training'),  # educator networks, not training programs

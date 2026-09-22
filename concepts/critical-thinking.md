@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -64,6 +64,7 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Critical thinking as understanding and evaluating AI
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — XAI-augmented UTAUT2: habit as strongest predictor, four adoption profiles (Jácome-Vásconez et al. 2026)
 - [[pearls-epistemic-verification-2026]] — PEARLS framework for epistemic agency and verifying AI output (Wang 2026)
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)

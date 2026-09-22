@@ -1,7 +1,7 @@
 ---
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T02:05:00-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -97,6 +97,7 @@ For faculty developers, academic leaders, and [[stakeholders|instructional desig
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Guidance for product teams as well as educators
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views

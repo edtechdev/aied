@@ -1,9 +1,10 @@
 # Journal
 
-Last updated: 2026-09-22 | Total entries: 1578
+Last updated: 2026-09-22 | Total entries: 1579
 
 ## 2026-09-22
 - 🧰 [[gemini-notebook]] — Gemini Notebook
+- 📄 [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - 📄 [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 
 ## 2026-09-21
