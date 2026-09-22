@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T15:42:00-04:00"
+updated: "2026-09-22T03:05:00-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -41,6 +41,10 @@ Platforms in AI in education perform several distinct functions:
 ### Take-up, not capability, is often the binding constraint
 
 A platform can be effective in principle yet fail in practice if learners do not use it. Two [[rct|RCTs]] of an [[ai-literacy|AI literacy]] (reading) tutoring platform found that **nearly half of control students never used the platform** and users averaged only 2–5 minutes per week — far below the dosage needed for reading gains. An in-person engagement tutor raised usage and engagement substantially but still did not produce achievement gains, and platform users skewed toward higher-achieving students, raising equity concerns.([[access-not-enough-ai-tutoring-2026]])
+
+### Which tools educators report using, and what gates access
+
+A rare census of educator-reported platform choice comes from a 2026 typology built from 211 educators across nine countries: the tools that reach classrooms are disproportionately the ones with a free tier, because a publicly available free version was an inclusion criterion, and the most-nominated entries are general-purpose assistants and media generators rather than purpose-built platforms. Roughly half of the fifty tools listed produce images, audio, video or slide decks, while document-grounded assistants (NotebookLM, Elicit, SciSpace, Humata, Research Rabbit) form the most coherent cluster in the research category. Dedicated [[intelligent-tutoring|tutoring]] systems appear as a small, subject-specific group rather than the center of reported use — which frames the take-up problem above in a wider setting, where a platform competes for attention against general-purpose tools that students and instructors already have open.([[typology-generative-ai-tools-education-2026]])
 
 ### The platform model matters: open vs. proprietary
 
@@ -89,6 +93,7 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[educational-technology-developers]]
 
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — What 211 educators reported using: 50 tools in nine categories
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[virtual-tutoring-computer-assisted-learning-takeup-2026]] — Virtual tutoring with CAL: an experiment in take-up and learning
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI tutoring productive: mastery-based math practice

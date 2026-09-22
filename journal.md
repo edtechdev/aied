@@ -1,6 +1,10 @@
 # Journal
 
-Last updated: 2026-09-21 | Total entries: 1577
+Last updated: 2026-09-22 | Total entries: 1578
+
+## 2026-09-22
+- 🧰 [[gemini-notebook]] — Gemini Notebook
+- 📄 [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 
 ## 2026-09-21
 - 📄 [[adaptive-ai-model-teacher-educators-2025]] — Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model
@@ -42,7 +46,6 @@ Last updated: 2026-09-21 | Total entries: 1577
 - 📄 [[hauk-student-avatars-dialogue-teacher-education-2026]] — Authentic and functional dialogue with AI-based student avatars: Evidence from a practice-based teacher education program
 - 🧰 [[id-toolbox]] — The ID Toolbox
 - 🧰 [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
-- 🧰 [[jev-sandbox]] — Jev Sandbox
 - 📘 [[latent-profile-analysis]] — Latent Profile Analysis
 - 🧰 [[lesson-md]] — LESSON.md
 - 📘 [[librarians]] — Librarians

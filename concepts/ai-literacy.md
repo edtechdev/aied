@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T12:50:58-04:00"
+updated: "2026-09-22T03:05:00-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -167,6 +167,7 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[higher-ed]] — university-level literacy
 - [[ai-education]] — the broader field
 ## Connected Articles
+- [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[ai-literacy-heptagon-2026]] — The AI Literacy Heptagon
 - [[ai-literacy-continuum-higher-education]] — A Practical Five-Stage Continuum for AI Literacy
 - [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — Mapping the AI literacy instrument corpus: 55 constructs, jangle and jingle pairs, LLM-based coding
