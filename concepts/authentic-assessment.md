@@ -10,6 +10,7 @@ technology: [generative-ai]
 assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Authentic assessment** — the design of assessments that examine student performance on worthy, realistic intellectual tasks, rather than isolated, standardized test items. Originating with Wiggins (1990) as a counterbalance to standardized tests, authentic assessment has evolved from replicating workplace tasks toward a multi-dimensional framework encompassing professional, digital, personal, and social authenticity. [[generative-ai|Generative AI]] has made authentic assessment newly essential: any task a [[llm|language model]] can credibly simulate in a take-home setting loses its validity as evidence of original student competence, so authentic forms must be redesigned around what AI cannot credibly counterfeit.

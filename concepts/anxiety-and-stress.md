@@ -11,6 +11,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
+reviewed_by: [editor]
 ---
 
 > **Anxiety and stress** — the negative emotional states that AI integration can induce in learners and educators (fear of being [[legal-issues-and-risks|falsely accused]], surveillance stress, worries about competence or [[academic-integrity|integrity]]), alongside the positive uses of AI to detect, monitor, and alleviate stress and anxiety. This concept sits within the broader [[well-being]] family and overlaps with [[social-emotional-learning]] and [[affective-computing]], but names the specific emotion-construct — and its productive as well as harmful sides — that AI-in-education [[research-methods-aied|research]] now studies directly.

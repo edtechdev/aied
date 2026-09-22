@@ -11,6 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Self-assessment** — judging your own work, competence, or progress against criteria, and the practices and instruments built on that act. The term carries two faces that are easy to collapse into one. As an **instructional technique** it is self-grading, rubric-based self-review, self-checking, and guided reflection: activities meant to develop the [[metacognition|monitoring]] and [[evaluative-judgment|judgment]] that [[self-regulated-learning]] runs on. As an **educational measure** it is a [[self-report-measures|self-report instrument]], in which a learner's estimate of their own skill, confidence, or learning stands in for an observation nobody made. It sits beside [[peer-assessment]] as the other half of students-as-assessors, and inherits the same dependence on [[scaffolding]] and explicit criteria. Both faces turn on the same faculty and both fail in the same direction: the estimate is systematically generous, and the more a learner's submitted work can be produced by a [[generative-ai|generative AI]] tool, the less that work says about whether the faculty is there at all.

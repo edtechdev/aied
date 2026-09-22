@@ -7,6 +7,7 @@ type: concept
 foundations: [ai-education, ai-literacy]
 ethics: [accessibility, equity-in-ai-education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Digital divide** — the unequal distribution of access to, skills for, and benefits from digital (and increasingly AI) [[ai-technologies|technologies]] across individuals, communities, and nations. In AI education, the digital divide is a central equity concern: [[generative-ai|generative AI]] is rapidly reshaping learning, and the gap between those who can use it effectively and critically and those who cannot threatens to deepen existing educational inequalities.

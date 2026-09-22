@@ -11,6 +11,7 @@ audience: [learners, instructors]
 level: [primary education, k 12]
 confidence: high
 sources: ['raw/papers/ai-literacy-self-assessment-questionnaire-primary-2025.md']
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Thianwan and Srikoon (2025) build and validate the AI Literacy Self-Assessment Questionnaire (AIL-SAQ), a 15-item [[self-report-measures|self-report]] instrument for students in Grades 4 to 6 (ages 9 to 12) in Khon Kaen Province, Thailand. The scale covers Learning About AI (LAI), Learning About How AI Works (HAI), and Learning for Life with AI (FAI), and is framed explicitly as [[self-assessment]] of perceived [[ai-literacy]] rather than a benchmark of competence. Study 1 (n = 335) used exploratory factor analysis to recover a three-factor structure; Study 2 (n = 579) confirmed it with excellent fit and an overall Cronbach's alpha of .934. The developmental case is the paper's real argument: children at this stage reason about systems and fairness well enough to report on their own emerging understanding, and a validated instrument gives teachers a formative diagnostic they otherwise lack. The authors are also unusually careful about the genre's limit, stating that self-assessment accuracy is constrained by children's developing [[metacognition|metacognitive abilities]] and that scores index perceived rather than demonstrated competence.

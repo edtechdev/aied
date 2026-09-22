@@ -7,6 +7,7 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
+reviewed_by: [editor]
 ---
 
 # How Is AI Impacting Students?

@@ -12,6 +12,7 @@ audience: [researchers, software developers, learning analytics designers]
 page_kind: [framework]
 sources: ['raw/papers/neurips2025-exrec.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Ozyurt, Almaci, Feuerriegel and Sachan target a weakness in [[knowledge-tracing]]-guided exercise recommenders: ID-based embeddings that ignore what a question asks, state defined as a full exercise history, reward needing inference over every question, and support for one [[reinforcement-learning]] algorithm. ExRec replaces each with a semantic pipeline. An [[llm]] annotates every question with solution steps and knowledge concepts (KCs) aligned to the Common Core State Standards, contrastive learning builds question and KC embeddings, a calibrated KT model predicts KC-level knowledge states, and a compact-state Markov decision process turns those into an RL reward. Its addition is model-based value estimation (MVE), initializing the critic from the KT model instead of at random. Across four tasks on XES3G5M and a replication on Eedi, non-RL baselines give marginal or negative gains, value-based continuous RL beats policy-based methods, and MVE consistently improves it. The work matters because semantic supervision and environment-aware value estimation make personalized sequencing practical and interpretable.

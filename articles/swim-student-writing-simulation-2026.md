@@ -13,6 +13,7 @@ audience: [researchers, software developers]
 page_kind: [evaluation]
 sources: ['raw/papers/2609.03215.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Do, Kontak and Sachan ask whether an [[llm]] can be made to write like a student at a chosen proficiency level. They call the problem Student Writing [[simulation]] (SWIM) and formalize it as proficiency-conditioned essay generation. Given a writing prompt and a target trait-score profile from the ASAP/ASAP++ [[automated-essay-scoring]] corpus, a generator must produce an essay matching that profile. The paper compares three families of methods under one shared interface: rubric-grounded [[prompt-engineering]] (contrastive trait prompting and score-level rubric lookup, with five-shot variants), supervised fine-tuning on real score-essay pairs, and [[reinforcement-learning]] with a Proficiency Alignment Reward (PAR) from a frozen multi-trait AES verifier. Fidelity is measured as Quadratic Weighted Kappa (QWK) between the target profile and the AES-predicted profile of the generated essay.

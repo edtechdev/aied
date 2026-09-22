@@ -8,6 +8,7 @@ technology: [generative-ai, intelligent-tutoring, prompt-engineering, rag]
 assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Large Language Models (LLMs)** — [[machine-learning|neural network]] models trained on vast text corpora that generate human-like text, powering most modern [[ai-education|AI in education]] applications. LLMs are the computational backbone of generative AI tutoring, assessment, and content generation in education.

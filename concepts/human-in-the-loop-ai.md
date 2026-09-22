@@ -11,6 +11,7 @@ level: [higher ed, k 12]
 confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
+reviewed_by: [editor]
 ---
 
 > **Human-in-the-loop** — the design pattern in which educational [[ai-technologies|AI systems]] strategically interleave automated generation with human expert judgment, preserving [[pedagogy|pedagogical]] quality and safety while scaling production. Rather than fully automating assessment, feedback, or instruction, HITL keeps a human (instructor, subject-matter expert, or learner) in the decision loop where their judgment has the highest marginal value — for evaluating quality, adjudicating edge cases, and protecting [[agency|learner agency]] and safety. The central design question is not *whether* to include humans, but *where* in the pipeline their oversight is most valuable and least replaceable.

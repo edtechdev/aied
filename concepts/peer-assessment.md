@@ -9,6 +9,7 @@ assessment: [ai-feedback-quality, formative-assessment, group-work]
 confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
+reviewed_by: [editor]
 ---
 
 > **Peer assessment** — the practice in which students evaluate, grade, or give [[feedback]] on one another's work, through written peer review, peer grading, peer code review, or group and team assessment. In [[writing-education|writing]] [[pedagogy]] it is a long-standing best practice: students learn both from receiving criteria-based feedback and from providing it, and peer talk about shared work correlates with deeper learning, audience awareness, and social development. In the AI era it is being re-examined as an [[assessment|assessment design]] choice rather than a single activity — a human complement to [[ai-feedback-quality|AI-generated feedback]], a training ground for [[feedback-literacy]], and a site where [[academic-integrity]] and [[agency|student agency]] are renegotiated.

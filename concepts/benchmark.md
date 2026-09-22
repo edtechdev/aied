@@ -9,6 +9,7 @@ connected_faqs: [reporting-interpreting-aied-research]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
+reviewed_by: [editor]
 ---
 
 > **Benchmark** — standardized test suites and evaluation frameworks used to measure AI model performance on educational tasks. Benchmarks enable reproducible comparison across models and approaches, and are essential for evaluating the reliability, fairness, and [[pedagogy|pedagogical]] quality of AI in education systems.

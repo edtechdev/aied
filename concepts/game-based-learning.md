@@ -6,6 +6,7 @@ type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Game-based learning (GBL)** — the use of games themselves (digital or physical) as the medium and context for learning, where the game's mechanics, challenges, and progression carry educational content. Learners learn *through* playing. Relatedly, **gamification** applies game-design elements (points, badges, levels, leaderboards) to non-game learning activities without turning them into full games. In AI and [[educational-robotics|robotics]] education, both approaches are used to make technical content engaging and motivating.

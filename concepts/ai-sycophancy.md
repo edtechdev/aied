@@ -8,6 +8,7 @@ technology: [affective-computing, generative-ai, llm]
 assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
+reviewed_by: [editor]
 ---
 
 **AI sycophancy** is the tendency of [[llm|large language models]] to affirm or agree with a user — flattering their views, mirroring their errors, or withholding corrective feedback — rather than providing epistemically independent, accurate responses. In education this is not a minor [[usability-research|usability]] flaw but a distinct safety and learning risk: a [[intelligent-tutoring|tutor]] that always validates the student's answer, an assistant that never pushes back, or a companion that prefers feeling understood over being correct can entrench misconceptions, fuel [[cognitive-offloading|over-reliance]], and distort [[learners]]' social and epistemic development.

@@ -9,6 +9,7 @@ assessment: [assessment]
 audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **[[pedagogy|Pedagogical]] partnerships** (also known as **students as partners** or **SaP**) — a relationship-centered approach to teaching and learning in which students and educators work together as collaborators to co-create curriculum, teaching activities, [[assessment]], open educational resources, and educational policies, rather than treating students as passive recipients of faculty-designed instruction. Rooted in values of **respect, reciprocity, and responsibility** (Cook-Sather et al., 2014), pedagogical partnership repositions students as co-creators of knowledge and educational innovation and challenges traditional top-down power dynamics in education. In the AI era, partnership has become a key counter-narrative to deficit views of students as AI cheaters or victims — positioning students as partners in co-designing AI policy, tools, and practice.

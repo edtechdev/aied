@@ -11,6 +11,7 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Agentic [[ai-education]]** — AI systems that autonomously plan, execute, and adapt multi-step workflows to achieve learning goals, going beyond single-turn Q&A to act as persistent, goal-directed collaborators: [[intelligent-tutoring|AI tutors]] that scaffold over extended interactions, multi-agent systems that orchestrate instructional designs, and agents that co-regulate learning. This paradigm shift from a prompt-responding tool to an active collaborator carries both promise and risk: agentic AI can personalize and deepen learning, but it also threatens [[agency]], [[cognitive-offloading|cognitive effort]], and control. The knowledge base's [[agentic-ai-education-scoping-review|scoping review]], [[tool-invariant-framework-agentic-ai|tool-invariant framework]], and [[agentic-ai-pedagogical-best-practice-2026|pedagogical best-practice]] articles examine this tension.

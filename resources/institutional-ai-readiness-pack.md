@@ -18,6 +18,7 @@ last_verified: "2026-09-20"
 level: [higher ed, graduate]
 audience: [administrators, researchers, policymakers]
 confidence: high
+reviewed_by: [editor]
 ---
 
 **The Institutional AI Readiness Pack** turns a competency framework for responsible AI in academic research into instruments a university can actually run. Each file is offered in HTML, Word and PDF, and the whole pack downloads as a zip under CC BY 4.0 with attribution — no permission needed to adapt it into your own documents.

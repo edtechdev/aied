@@ -8,6 +8,7 @@ assessment: [ai-detection, assessment-validity]
 ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 institutions: [educational-policy-ai, governance]
+reviewed_by: [editor]
 ---
 
 # Should We Use AI Detectors?

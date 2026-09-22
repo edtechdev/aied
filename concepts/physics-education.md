@@ -10,6 +10,7 @@ discipline: [physics education, stem education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Physics Education** — the study of how students learn physics and how to teach it more effectively, spanning Socratic [[intelligent-tutoring|AI tutoring]], [[computational-thinking|computational thinking]] assessment, student [[trust]] and AI adoption patterns, automated scoring validity, and teacher preparation. The physics education articles in this knowledge base are notable for their domain-specificity: they explore how AI tools interact with the unique cognitive demands of physics reasoning — visual-spatial thinking, mathematical modeling, abstract systems thinking, and multi-step [[problem-solving]].

@@ -18,6 +18,7 @@ level: [k 12]
 audience: [instructors, learners]
 confidence: high
 connected_resources: [id-toolbox]
+reviewed_by: [editor]
 ---
 
 **DrawSplat** is a free, browser-based workspace that collects small single-purpose tools for teaching. Teach with the collaborative whiteboard, or open a focused environment: **GridSplat** for spreadsheets, formulas and charts, **ShowSplat** for slides, **WriteSplat** for classroom documents, **ListSplat** for simple databases, plus a quiz and flashcard studio, image editor, chart builder, video editor and Markdown studio. Saved work and preferences live in the browser's local storage, and cloud save is opt-in.

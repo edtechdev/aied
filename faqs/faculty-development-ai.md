@@ -10,6 +10,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
+reviewed_by: [editor]
 ---
 
 # How Do I Design Faculty Development for AI That Actually Changes Practice?

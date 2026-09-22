@@ -8,6 +8,7 @@ foundations: [learning-design]
 pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learning-theories]
 technology: [educational-nlp, learning-analytics]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **The ICAP Framework** (Interactive–Constructive–Active–Passive) — a taxonomy of cognitive engagement developed by Michelene Chi that classifies learner behavior into four modes of knowledge change, ordered from least to most cognitively engaged: *passive*, *active*, *constructive*, and *interactive*. In AI in education, ICAP provides both a design target (build tools that elicit constructive and interactive engagement rather than passive consumption) and an evaluation lens (measure whether learners and AI systems are actually engaged at the higher modes).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])

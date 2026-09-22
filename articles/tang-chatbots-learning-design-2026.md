@@ -15,6 +15,7 @@ foundations: [learning-design, human-ai-collaboration]
 pedagogy: [scaffolding]
 technology: [generative-ai, pedagogical-agent, llm]
 methods: [qualitative-research]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Tang and colleagues ask what novice learning designers actually do with a chatbot that sits inside a design tool, and answer it with dialogue structure rather than satisfaction ratings. Five Masters students, selected from a cohort of 24 for their extended exchanges with the LDFacilitator chatbot embedded in the Learning Design Studio platform, produced 1,378 coded designer-chatbot turns. A two-level coding scheme built on a multilevel [[learning-design]] framework was applied by two coders with high agreement, and the coded sequences were modeled as a first-order Markov process. The transition network shows designers parking on intended learning outcomes and pedagogical approach, then converting curriculum components into concrete tasks, with regular detours into course context and platform navigation. A single long dialogue, tracked across three intensive working periods, shows the chatbot playing a different role in each: term clarification, then task design alongside long stretches of independent work, then a broad pre-deadline check.

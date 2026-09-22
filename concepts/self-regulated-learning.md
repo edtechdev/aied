@@ -10,6 +10,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-cour
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > Self-regulated learning (SRL) describes learners as active participants who can shape and develop their cognitive and behavioral actions in a successful way. AI tools can either [[scaffolding|scaffold]] SRL development or inadvertently short-circuit it by removing the regulatory demands that build expertise.([[scheu-mobile-chatbot-journaling-motivation-2026]])([[stanford-evidence-base-ai-k12-2026]])

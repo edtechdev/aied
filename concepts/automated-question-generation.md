@@ -8,6 +8,7 @@ assessment: [assessment, automated-assessment, automated-question-generation, ed
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
+reviewed_by: [editor]
 ---
 
 > **Automated question generation (AQG)** — the use of AI, especially NLP and [[llm|large language models (LLMs)]], to generate [[assessment|educational assessment]] items (multiple-choice, short-answer, fill-in-the-blank, coding, and performance questions) automatically from source material or learning objectives. AQG enables assessment at scale — producing [[formative-assessment|formative]] quizzes, adaptive exercises, and practice items — but quality varies dramatically across item types and requires validation to avoid hallucinated or poorly calibrated questions. It is a core component of [[automated-assessment]] and a key enabler of [[adaptive-learning]] and [[personalized-learning]].

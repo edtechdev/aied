@@ -13,6 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 
 confidence: high
 institutions: [educational-policy-ai]
+reviewed_by: [editor]
 ---
 
 > **AI in Education (AIED)** — the broad, interdisciplinary field that applies artificial intelligence to teaching and learning, and studies its design, use, evaluation, and consequences. As the knowledge base's umbrella concept, AI in education encompasses **AI for education** (using AI to improve instruction and assessment) and **education about AI** (developing AI literacy and critical understanding). It sits at the intersection of instructional technology, the [[learning-sciences|learning sciences]] — the empirical research field that asks whether a learner changed rather than only whether a tool performed — computer science, [[educational-policy-ai|educational policy]], [[ethics]], and [[equity-in-ai-education|equity]]. This page is an introduction to the field and a map to every concept the knowledge base covers.

@@ -9,6 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
+reviewed_by: [editor]
 ---
 
 # How Do We Write and Implement an Institutional AI Policy?

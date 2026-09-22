@@ -8,6 +8,7 @@ ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
 level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
+reviewed_by: [editor]
 ---
 
 > **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.

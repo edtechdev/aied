@@ -6,6 +6,7 @@ type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Simulation** — the use of modeled environments, agents, or scenarios to support learning through practice and feedback in contexts that are safe, repeatable, and often otherwise inaccessible. Simulations let learners act, make errors, and see consequences without real-world cost, and are increasingly powered by AI and agent-based modeling.

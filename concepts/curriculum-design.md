@@ -11,6 +11,7 @@ discipline: [stem education]
 audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Curriculum Design** — the process of planning and structuring what is taught across courses, programs, and institutions, including learning objectives, content sequencing, assessment strategies, and skill progression. In the AI era, curriculum design must balance foundational knowledge with emerging AI competencies, determining not just what students learn but how they learn to work with and critically evaluate AI tools.

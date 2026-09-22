@@ -7,6 +7,7 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
+reviewed_by: [editor]
 ---
 
 # What Is the Evidence on AI Literacy Interventions in Higher Education?

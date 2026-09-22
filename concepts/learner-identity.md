@@ -9,6 +9,7 @@ audience: [learners]
 confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
+reviewed_by: [editor]
 ---
 
 > **Learner identity** — the evolving sense of who one is (and who one is becoming) as a learner, encompassing disciplinary, professional, creative, and academic identities. In [[ai-education|AI in education]], [[generative-ai|generative AI]] presses on learner identity in two directions at once: it can *support* identity formation ([[scaffolding]] disciplinary belonging and confidence) while also *threatening* it (undermining perceived authorship, competence, and authentic learning). Understanding learner identity is central to designing AI that affirms rather than erodes learners' sense of self.

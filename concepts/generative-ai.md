@@ -7,6 +7,7 @@ foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Generative AI** — AI systems capable of producing text, code, images, and other content, most prominently large language models like GPT-4 and Claude. Generative AI is the technology driving the current wave of [[ai-education|AI in education]] [[research-methods-aied|research]].

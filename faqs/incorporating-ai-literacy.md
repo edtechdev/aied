@@ -6,6 +6,7 @@ weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
+reviewed_by: [editor]
 ---
 
 # How Should I Incorporate AI Literacy into My Course?

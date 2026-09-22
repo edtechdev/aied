@@ -7,6 +7,7 @@ assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feed
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 discipline: [engineering education, humanities education, writing education]
+reviewed_by: [editor]
 ---
 
 This FAQ is written for instructors who have to decide, course by course and assignment by assignment, what AI should be allowed to do in student writing. It draws on the [[ai-education|AI in Education]] knowledge base, especially its syntheses of [[writing-education|AI in writing education]], [[cognitive-offloading|Cognitive Offloading]], [[ai-feedback-quality|AI Feedback Quality]], [[feedback-literacy|Feedback Literacy]], and [[academic-integrity|Academic Integrity]].

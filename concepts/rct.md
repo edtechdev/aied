@@ -9,6 +9,7 @@ research_method: [experiment]
 level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
+reviewed_by: [editor]
 ---
 
 > **Randomized controlled trial (RCT)** — a research design in which participants are randomly assigned to a treatment or control condition to estimate the causal effect of an intervention on an outcome. In [[ai-education|AI in education]], RCTs are the gold standard for establishing whether an AI tool or [[pedagogy|pedagogical]] approach *causes* [[learning-gains|learning gains]], engagement changes, or other outcomes, rather than merely correlating with them.

@@ -9,6 +9,7 @@ technology: [adaptive-learning, affective-computing, generative-ai, intelligent-
 audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable [[pedagogy|pedagogical]] gains, but the same [[affective-computing|affective]] sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])

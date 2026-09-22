@@ -6,6 +6,7 @@ type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Conversational AI (CAI) agents** — AI-driven speech- or text-based agents that simulate and automate conversations, from rule-based chatbots to NLP/ML and [[multimodal]] LLM-based assistants — are among the most widely used AI interfaces in education, valued for [[teacher-role|teaching]], psychological, and metacognitive support even as technical, cognitive, and [[ethics|ethical]] concerns persist.

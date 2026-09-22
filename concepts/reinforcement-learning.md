@@ -9,6 +9,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 
+reviewed_by: [editor]
 ---
 
 > **Reinforcement learning** trains AI tutors and agents through reward signals: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]], and [[ai-coaching-rl-skill-development]] align RL with pedagogical objectives, including safety and skill transfer ([[intelligent-tutoring]], [[agentic-ai]]).

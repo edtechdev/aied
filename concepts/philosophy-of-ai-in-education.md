@@ -7,6 +7,7 @@ foundations: [agency, ai-education, human-ai-collaboration, philosophy-of-ai-in-
 pedagogy: [learning-theories]
 ethics: [ethics]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Philosophy of AI in Education** — the branch of educational philosophy that examines the fundamental conceptual questions raised by artificial intelligence in [[teacher-role|teaching]] and learning: What is the nature of knowledge and thinking when machines participate in them? What is the learner when cognition is distributed across human and artificial systems? What forms of [[agency]], responsibility, and personhood apply to AI, and what does education owe learners in an AI-mediated world? Distinct from (but connected to) the knowledge base's [[learning-theories]] page, which catalogs theories of *how learning happens*, the philosophy of AI in education asks the deeper questions of *what learning, mind, and the learner fundamentally are* under AI-mediated conditions.

@@ -11,6 +11,7 @@ audience: [instructors, faculty developers, instructional designers]
 level: [higher ed, teacher education]
 confidence: high
 sources: ['raw/papers/adaptive-ai-model-teacher-educators-2025.md']
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Eyal (2025) argues that most frameworks for measuring [[ai-literacy]] impose fixed competency levels and overlook context, then builds an alternative with practitioners. Using [[design-based-research]], 22 higher-education teacher educators examined five published assessment models, tested them against real dilemmas, and co-designed the Adaptive Artificial-Intelligence-Literacy Model (AALM). The model replaces linear ladders with three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development (growth over time as technology and roles change). The axes overlap in named CF_PN, PN_DD, and DD_CF zones around a central AI-literacy area. It also produced a 20-item reflective self-assessment questionnaire rated 1 to 5. Eyal casts [[teacher-ai-competency]] as situational rather than uniform: a pre-service teacher in a resource-limited Bedouin region, a math exam coach, a social-science novice, and a school principal need different competencies. The work ties AI literacy to [[metacognition]] and reflective practice, and reframes [[professional-training]] around [[teacher-role]] flexibility instead of standardized rubrics.

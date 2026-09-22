@@ -6,6 +6,7 @@ type: concept
 research_method: [interviews, case study]
 confidence: high
 methods: [qualitative-research, research-methods-aied]
+reviewed_by: [editor]
 ---
 
 > **Qualitative research** — the family of empirical methods that study how people *experience, interpret, and make meaning* of phenomena, typically through words, observations, and artifacts rather than numbers. In [[ai-education|AI in education]], qualitative methods reveal *how* students and teachers actually experience [[generative-ai|AI tools]] — the meanings, tensions, harms, and mechanisms that standardized measures miss. Because AI-in-education is fast-moving and its effects are often mediated by context, perception, and contested constructs like [[trust]] and [[agency]], qualitative work is essential alongside [[quantitative-research|quantitative]] designs (see [[research-methods-aied]]).

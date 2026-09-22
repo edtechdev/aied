@@ -11,6 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
+reviewed_by: [editor]
 ---
 
 # How Should I Handle AI in Group and Collaborative Assignments?

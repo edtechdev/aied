@@ -11,6 +11,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai, asynchronous-online-cour
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > Metacognition — thinking about one's own thinking — is both a target of [[ai-education|AI education]] [[research-methods-aied|research]] (can AI tools develop students' metacognitive skills?) and a risk factor (AI completing tasks may suppress metacognitive practice).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])

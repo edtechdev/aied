@@ -9,6 +9,7 @@ pedagogy: [active-learning, scaffolding]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Active Learning** — instructional approaches that engage students in doing things and thinking about what they are doing, rather than passively receiving information. In AI in education, active learning research examines both how AI tools can support active learning pedagogies and how active engagement with AI tools — rather than passive consumption — affects learning outcomes.

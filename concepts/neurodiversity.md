@@ -8,6 +8,7 @@ connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learn
 audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Neurodiversity** — the framing that neurological differences such as autism, ADHD, dyslexia, and dyspraxia are natural variations in [[cognitive-psychology|human cognition]] rather than deficits to be corrected. In education, a neurodiversity-affirming approach designs learning environments that accommodate and leverage these differences rather than forcing conformity to a single cognitive norm.

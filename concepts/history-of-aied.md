@@ -7,6 +7,7 @@ foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **History of AI in Education** — the study of how artificial intelligence and education have co-evolved since the mid-20th century, and how past conceptual, terminological, and design choices continue to shape today's debates about AI in learning. Rather than treating generative AI as a sudden, unprecedented force, a historical lens reveals recurring tensions — control vs. agency, standardization vs. creativity, automation vs. augmentation — that have structured AI in education since its origins.

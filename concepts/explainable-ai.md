@@ -10,6 +10,7 @@ assessment: [automated-assessment]
 ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Explainable AI (XAI) in education** is the design and study of making an AI system's decisions legible to its educational stakeholders — [[learners]], teachers, [[administrator|administrators]], [[parents-and-families|parents]], researchers, and [[stakeholders|policymakers]]. The central distinction the field insists on: explaining **subject matter** (why a fact is true) is not the same as explaining an **AI system's decision** (why this learner was assigned this activity, why this response was marked incorrect, what evidence supports a risk prediction). Education brings distinctive explainability needs — noisy learning data, explanations that can directly support [[metacognition]] and [[self-regulated-learning]], and stakeholders who require fundamentally different explanation types. The operative design question is **explanation quality**, not mere explanation availability: an explanation that is technically present but unreadable, misleading, or misaligned to its audience can do more harm than no explanation at all.

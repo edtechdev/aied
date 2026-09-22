@@ -8,6 +8,7 @@ pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learn
 technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Transfer of Learning** — the extent to which knowledge or skills acquired in one context (e.g., practice with an AI tool) persist and apply in a different context (e.g., independent performance without the tool). In [[ai-education|AI in education]], transfer is the central open question: whether performance gains students show *with* AI tools translate into durable learning they can demonstrate *without* them.

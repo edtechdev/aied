@@ -6,6 +6,7 @@ type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Experiential learning** — learning through direct experience, reflection, and the application of knowledge in authentic or hands-on contexts ("learning by doing"). Drawing on Kolb's experiential learning cycle (concrete experience, reflective observation, abstract conceptualization, active experimentation), experiential approaches emphasize that learners learn most deeply when they act, observe the results, and reflect. In [[ai-education|AI education]], experiential learning includes hands-on labs, project-based work, [[educational-robotics|robotics]], [[simulation|simulations]], and real-world [[problem-solving|problem solving]].

@@ -6,6 +6,7 @@ type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Adaptive learning** — AI-driven educational systems that adjust content, pacing, and instructional strategies based on individual learner characteristics and performance. Adaptive learning is the operational goal of much [[ai-education|AI in education]] [[research-methods-aied|research]]: using [[student-modeling|student models]] to personalize instruction.

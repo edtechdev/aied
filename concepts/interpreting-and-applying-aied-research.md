@@ -12,6 +12,7 @@ audience: [instructors, administrators, instructional designers, software develo
 page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied]
+reviewed_by: [editor]
 ---
 
 > **Interpreting and applying AIEd research** — how to decide whether an AI-in-education finding is worth acting on, whether you teach, run a program, design a course, or build software. You do not need statistics to use this page. It starts with the question a practitioner actually has — *should I do this?* — works through the few things that answer it, and keeps the technical detail in a later section for anyone who wants or needs it. The short version: a finding is worth acting on when you know what was compared, what was measured, who was studied, and whether the tool still exists in the form that was studied. Most claims that reach instructors, administrators and developers fail one of those four.

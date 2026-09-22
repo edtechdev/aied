@@ -17,6 +17,7 @@ level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [teacherserver, edugems]
+reviewed_by: [editor]
 ---
 
 **Playlab** is a creator platform where educators build their own AI apps instead of choosing from someone else's template. An app is grounded in your own curriculum, rubrics and references rather than general model knowledge, runs on a model you pick (Anthropic, OpenAI, Google, Meta) with the cost visible while you build, and can draw on pre-mapped knowledge graphs for Illustrative Mathematics, OpenSciEd, state standards and OER Commons.

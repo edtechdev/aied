@@ -12,6 +12,7 @@ audience: [researchers, instructors]
 page_kind: [evaluation]
 sources: ['raw/papers/acl2026-lftutor.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Shi, Wang, Ni, Pal Chowdhury and Sachan ask whether an [[llm]] can teach laypeople to recognize logical fallacies rather than simply flag them, and build LFTutor, an [[intelligent-tutoring]] system that steers every turn of a debate through intent-based [[pedagogy|pedagogical]] strategies. The framework decomposes a student's reply with the Toulmin model of argument structure, detects one of four student intents, selects one of four strategies (Responding, Evidence, Assumption, Refutation) ordered by Toulmin component priority, and routes the drafted reply through a verifier agent before it is sent.

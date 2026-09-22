@@ -9,6 +9,7 @@ page_kind: [framework]
 audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **The SAMR model** — a technology-integration framework developed by Ruben Puentedura that classifies the extent to which a technology transforms learning along four levels: **Substitution, Augmentation, Modification, and Redefinition**. The lower two levels (Substitution, Augmentation) *enhance* an existing task — the technology does what was done before, better or more conveniently; the upper two (Modification, Redefinition) *transform* it — the task itself changes to something not previously possible. In [[ai-education|AI in education]], SAMR is the standard lens for asking whether [[generative-ai|generative AI]] is being used to incrementally improve existing practice or to reconceptualize learning, and it sits alongside [[tpack|TPACK]] as a way of describing how teachers integrate technology rather than why they accept it.

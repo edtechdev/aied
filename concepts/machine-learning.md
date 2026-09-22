@@ -5,6 +5,7 @@ technology: [ai-technologies, generative-ai, learning-analytics, machine-learnin
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
 updated: "2026-09-17T02:43:50-04:00"
+reviewed_by: [editor]
 ---
 
 > **Machine learning** — the technical foundation of AI in education: algorithms that infer patterns, predictions, and policies from educational data rather than from hand-coded rules. It spans supervised learning (classifying at-risk students, predicting grades), unsupervised learning (discovering learner clusters), reinforcement learning (inducing tutoring and scaffolding policies), and deep learning (neural models for sequences, courses, and visual behavior). [[generative-ai|Generative AI]] is the latest and most visible subset, but it sits atop a much older stack of predictive and adaptive machinery.

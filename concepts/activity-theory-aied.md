@@ -9,6 +9,7 @@ technology: [generative-ai, learning-analytics]
 audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Activity theory** (Cultural-Historical Activity Theory, CHAT) — a Vygotskian framework that analyzes learning and work as *tool-mediated, object-oriented, collective activity systems* composed of subject, object, tools/mediating artifacts, community, rules, and division of labor. In [[ai-education|AI in education]], activity theory is used both as an **analytic lens** (to understand how AI reshapes the activity systems of teaching, learning, and research) and as a **design tool** (to diagnose systemic contradictions and redesign interventions). It frames AI systems — [[generative-ai|generative AI]] included — as *mediating artifacts* that reconfigure the division of labor, rules, and community of educational activity, for better and worse.

@@ -12,6 +12,7 @@ audience: [instructors, learners, researchers]
 level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/ai-literacy-correlates-affective-behavioral-cognitive-2025.md']
+reviewed_by: [editor]
 ---
 > **Synthesis:** Bewersdorff, Nerdel and Zhai synthesize the empirical evidence linking [[ai-literacy]] to surrounding variables, analyzing 31 studies that used six of the 15 instruments catalogued by Lintner (2024), covering 14 countries and a combined sample of N = 12,071. Structuring results with the affect, behavior, cognition framework extended by a background and surrounding category, they find consistently strong positive correlations with AI self-efficacy, positive AI attitudes, [[motivation]] and digital competencies, and negative correlations with [[anxiety-and-stress|AI anxiety]]. Demographic variables barely move the needle: age, gender and socio-economic status show weak or non-significant correlations. The decisive caveat is measurement. Self-assessment scales produced substantially stronger correlations than the single performance-based test, with AI self-efficacy correlating at r = .84 versus r = .26 after weighting, which the authors read as [[self-efficacy]] and [[assessment-validity]] entanglement, and possible metacognitive inflation, rather than as evidence about [[ai-literacy]] itself.
 

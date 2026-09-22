@@ -9,6 +9,7 @@ assessment: [authentic-assessment, automated-assessment, formative-assessment]
 ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
+reviewed_by: [editor]
 ---
 
 > **Assessment validity** — whether assessments measure what they claim to measure. [[ai-education]] raises fundamental validity questions: do [[automated-assessment|AI-graded]] assessments assess student learning or [[prompt-engineering|AI prompting skill]]? Does AI use invalidate traditional assessment assumptions?

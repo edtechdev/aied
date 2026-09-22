@@ -11,6 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
+reviewed_by: [editor]
 ---
 
 # How Should I Use AI to Study and Learn Effectively?

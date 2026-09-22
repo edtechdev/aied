@@ -8,6 +8,7 @@ pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, meta
 connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Desirable difficulties** — the finding (Bjork) that harder, effortful retrieval conditions — spacing, [[retrieval-spacing-interleaving|retrieval practice]], interleaving, and generation — improve long-term learning more than easier, massed conditions — is the theoretical counterweight to AI that smooths away [[cognitive-offloading|cognitive work]]. In the AI era the principle warns that tools which eliminate productive struggle may raise immediate performance while undercutting durable learning. **Desirable difficulties, cognitive friction, and productive friction are used as overlapping synonyms** for this intentional effort: the knowledge base treats them as the same core idea viewed from different fields, with the nuances between the labels spelled out in the section below. Closely allied concepts — **confusion**, and **productive struggle** — mark the zone where this effortful processing is expected (and desirable) to occur.

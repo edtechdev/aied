@@ -9,6 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, ethics]
 audience: [learners, instructors]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Bias mitigation in AI education** — the identification, measurement, and reduction of unfair, identity-patterned behavior in [[intelligent-tutoring|AI tutors]], scorers, recommenders, and educational systems. Bias can enter at any stage of the AI pipeline — training data, model behavior, prompts, scoring, and deployment — and manifest as differential treatment of learners based on language, gender, race, culture, or other identity characteristics. Mitigation spans data curation, debiasing algorithms, [[prompt-engineering|prompt design]], fair-scoring methods, explainability, and evaluation. It is the technical counterpart to [[equity-in-ai-education]] and a core concern of [[ethics]] in AI education.

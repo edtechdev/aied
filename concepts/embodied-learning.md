@@ -7,6 +7,7 @@ foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Embodied learning** — the [[pedagogy|pedagogical]] principle that learning is grounded in bodily experience, physical interaction, and the sensory-motor context of the learner. Embodied approaches hold that cognition is not purely abstract but shaped by the body and its interaction with the environment. In [[ai-education|AI in education]], embodiment is realized through [[educational-robotics|educational robots]] and [[educational-robotics|social robots]], whose physical presence grounds abstract concepts (such as program logic or social skills) in observable, manipulable behavior.

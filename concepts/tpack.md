@@ -8,6 +8,7 @@ technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Technological [[pedagogy|Pedagogical]] Content Knowledge (TPACK)** — the framework (Mishra & Koehler, 2006) describing the integrated knowledge teachers need to use technology effectively in teaching: the interplay of Technological Knowledge (TK), Pedagogical Knowledge (PK), and Content Knowledge (CK), and their intersections. In the AI era, TPACK has been extended to **AI-TPACK** / **GenAI-TPACK**, modeling how teachers integrate generative AI into content-area instruction. It is the dominant theoretical lens for understanding how [[teacher-ai-competency|teacher AI competency]] is structured and built through [[educational-development|professional development]].

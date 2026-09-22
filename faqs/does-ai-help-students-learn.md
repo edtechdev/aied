@@ -8,6 +8,7 @@ pedagogy: [active-learning]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
+reviewed_by: [editor]
 ---
 
 # Does Using AI Actually Help My Students Learn?

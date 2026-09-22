@@ -8,6 +8,7 @@ technology: [educational-robotics]
 discipline: [language learning]
 level: [k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Storytelling in education** — the use of narrative as a [[pedagogy|pedagogical]] tool to engage learners, convey meaning, and support knowledge construction, creativity, and emotional connection. Storytelling is a natural and motivating way for learners to make sense of the world, and it is increasingly combined with technology — including AI and [[educational-robotics|social robots]] — to create interactive, adaptive narrative experiences. Digital and robot-mediated storytelling can add interactivity, [[personalized-learning|personalization]], and embodiment that conventional (paper-based or slide-based) storytelling lacks.

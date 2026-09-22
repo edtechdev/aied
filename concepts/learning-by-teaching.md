@@ -8,6 +8,7 @@ technology: [generative-ai, intelligent-tutoring]
 assessment: [feedback]
 discipline: [cs education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Learning by teaching (LbT)** — the instructional framework, grounded in the protégé effect, in which students deepen their understanding by explaining material to a peer, tutee, or agent. Decades of work in LbT and peer tutoring show that explaining concepts, anticipating misunderstandings, and responding to questions consolidate understanding and support transfer. In the AI era, **teachable agents** — and increasingly **LLMs configured as novice tutees** — operationalize LbT at scale, positioning students as instructors who must explain, correct, and fill gaps.

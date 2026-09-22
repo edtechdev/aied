@@ -11,6 +11,7 @@ connected_faqs: [ai-guidance-children-under-13, ai-anxiety-wellbeing]
 audience: [learners]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Social-emotional learning (SEL)** — the process of developing the competencies that enable individuals to synchronize thoughts, emotions, and actions to foster positive interactions with oneself and others: self-awareness, self-management, social awareness, relationship skills, and responsible decision-making (the CASEL framework). In AI in education, SEL is increasingly recognized as critical because the rapid integration of [[generative-ai|generative AI]] into learning raises questions about students' [[well-being]], sociability, empathy, and trust — and because technical AI literacy alone is insufficient for navigating AI-mediated learning environments.

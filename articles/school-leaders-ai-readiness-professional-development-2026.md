@@ -13,6 +13,7 @@ audience: [administrators, policymakers, researchers]
 level: [k 12, secondary]
 sources: ['raw/papers/school-leaders-ai-readiness-professional-development-2026.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Awodiji and Adeoye (2026) interviewed eight basic school leaders — heads of department, principals and vice principals from public and private schools in Ibadan, Oyo State, Nigeria — to examine [[career-development-and-readiness|readiness]] for [[ai-education|AI in education]] and the role of professional development. The semi-structured interviews ran 35 to 60 minutes and were analyzed thematically in ATLAS.ti. Awareness was broad but shallow: leaders treated AI as an extension of familiar digital tools, and most learned through the internet, colleagues or chance community seminars rather than institutional training. None reported formal, leadership-focused AI training, so [[educational-development|professional development]] emerged as the missing link between positive attitudes and practice. Structural barriers — unreliable electricity, high data costs and scarce devices — dominated, and public schools carried the heavier burden, though attitudes and ethical worries were shared. Framed by the Technology Acceptance Model and UTAUT, the study concludes that leaders are eager but not ready, and that perceived usefulness cannot compensate for absent facilitating conditions.

@@ -11,6 +11,7 @@ discipline: [engineering education, stem education]
 audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Engineering Education** — the study of how students learn engineering and how to teach it effectively, spanning how AI transforms engineering pedagogy, assessment, faculty development, and the engineering workforce. The engineering education articles in this knowledge base cluster around several themes: the [[engineering-faculty-metaphors-ai-understanding-2026|figurative language]] instructors use to make sense of AI, [[ethical-use-ai-engineering-education-review-2026|ethical governance]] of AI use, [[multimodal-embodied-cognition-oral-explanations-2026|embodied and multimodal assessment]] of conceptual understanding, and how AI is reshaping the [[ai-engineering-computing-workforce-grey-literature-2026|engineering and computing workforce]].

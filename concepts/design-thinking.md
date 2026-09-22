@@ -8,6 +8,7 @@ technology: [generative-ai]
 audience: [learners]
 level: [higher ed]
 confidence: low
+reviewed_by: [editor]
 ---
 > **Design Thinking** — a key concept in [[ai-education|AI in education]] research: a human-centered, iterative problem-solving process (typically Empathize → Define → Ideate → Prototype → Test) that moves learners from understanding a problem to producing and refining a solution. Explored across 8 articles in this knowledge base.
 

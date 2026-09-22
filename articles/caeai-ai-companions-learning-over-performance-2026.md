@@ -13,6 +13,7 @@ audience: [researchers, instructional designers, instructors, institutions, poli
 page_kind: [framework]
 sources: ['raw/papers/caeai2026-ai-companions-learning-over-performance.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** The argument of this position paper is that the problem with generative [[ai-education|AI in education]] is not weak [[prompt-engineering|prompting]] but a design objective: general-purpose models are built and tuned for task completion, so the better they get at helping, the more reliably they absorb the cognitive work through which capability develops. The paper responds not with another set of [[guardrails]] but with a definition and a design framework for [[agentic-ai|AI learning companions]], deliberately distinguishing companionship from assistance. It identifies three limits of prompt-level scaffolds that explain why they produce near-null learning effects, derives eight design commitments from them, organizes those commitments into [[pedagogy|pedagogical]], adaptive and responsible design foundations, then reads five real deployments against the framework and finds that the adaptive loop, durable-learning evidence and inclusivity are where current systems fall short.

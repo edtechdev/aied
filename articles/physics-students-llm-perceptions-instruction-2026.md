@@ -14,6 +14,7 @@ pedagogy: [self-regulated-learning, metacognition]
 technology: [llm]
 assessment: [self-report-measures]
 methods: [quantitative-research]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** First-year physics majors at Virginia Tech answered anonymous surveys before and after a reflective lesson on how large language models work and how they affect learning. Skepticism rose sharply — 88% came to believe that [[llm|LLMs]] can leave students with a false sense of confidence, up from 58% — and agreement that an LLM outperforms the average physics student fell from 54% to 32%. Use did not follow perception: convenience and deadline pressure remained the dominant reasons for turning to these tools, and the authors describe the result as a standing tension between recognized risk and convenient practice.

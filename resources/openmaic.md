@@ -18,6 +18,7 @@ level: [higher ed, k 12]
 audience: [instructors, curriculum designers, instructional designers, learners, educational technology developers]
 confidence: high
 connected_resources: [deeptutor, lesson-md]
+reviewed_by: [editor]
 ---
 
 **OpenMAIC** is the open-source release of the MAIC multi-agent classroom described in [[mooc-to-maic|the MAIC study]]: describe a topic or attach your own materials and it generates a full lesson — slides, quizzes, interactive HTML simulations and project-based activities — then delivers it through AI teachers and AI classmates who speak, draw on a whiteboard and take part in discussion. It is the code behind a classroom that can be run rather than only read about.
