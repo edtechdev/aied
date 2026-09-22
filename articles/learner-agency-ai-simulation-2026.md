@@ -1,7 +1,7 @@
 ---
 title: "Exploring learner agency in an AI-supported simulation environment for complex systems education"
 created: "2026-09-22T09:39:00-04:00"
-updated: "2026-09-22T10:08:00-04:00"
+updated: "2026-09-22T10:24:00-04:00"
 type: article
 published: "2026-09-21"
 foundations: [agency, human-ai-collaboration, learning-design]
@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Sixty-nine [[higher-ed|university students]] were randomized into a 2 × 2 design crossing access to simulation parameter controls with access to an optional [[conversational-ai|conversational agent]], and fifty-five were analyzed. Every condition improved significantly from pretest to posttest, but after controlling for [[prior-knowledge|prior knowledge]] neither choice made a reliable difference: parameter control F(1, 50) = 0.04, p = .849; the AI agent F(1, 50) = 2.68, p = .108; their interaction F(1, 50) = 0.01, p = .917. What did predict [[learning-gains|learning gains]] was the interaction logs — time spent manipulating parameters in the most complex lesson predicted higher gains (β = .11, p = .007) while the same behavior in the intermediate lesson predicted lower ones (β = −.04, p = .047). Engagement with the AI agent was extremely uneven (235 inputs across 30 learners, ranging from 0 to 32, median 3) and unrelated to outcomes. The study's argument is that [[agency|learner agency]] in AI-supported environments is a question of [[self-regulated-learning|enactment]], not of whether a choice was offered.
+> **Synthesis:** Sixty-nine [[higher-ed|university students]] were randomized into a 2 × 2 design crossing access to simulation parameter controls with access to an optional [[conversational-ai|conversational agent]]; fifty-five were analyzed. Every condition improved from pretest to posttest, but after controlling for [[prior-knowledge|prior knowledge]] neither choice made a reliable difference to [[learning-gains|learning gains]] — offering control did not, on its own, change what students learned. What did track gains was the interaction logs: time spent manipulating parameters in the most conceptually complex lesson predicted higher gains, the same behavior in the easier lesson predicted lower ones, and engagement with the optional agent was so uneven (0 to 32 questions per learner) that it bore no relation to outcomes. The study's argument is that in AI-supported environments [[agency|learner agency]] is a question of [[self-regulated-learning|enactment]], not of whether a choice was offered.
 
 ### Overview
 
