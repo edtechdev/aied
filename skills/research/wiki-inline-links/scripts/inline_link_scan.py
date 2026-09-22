@@ -326,6 +326,9 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    ('API processing', 'automated-assessment'),    # "batch API processing vs conversational review"
+    ('grade', 'feedback'),                           # "rather than a grade" — a mark, not feedback
+    ('errors on individual topics', 'hallucination-risk'),  # recurring item-level model errors, not hallucination
     ('research', 'research-methods-aied'),           # "a public research university"
     ('researchers', 'research-methods-aied'),        # "for researchers, the study argues"
     ('teaching', 'teacher-role'),                    # verb sense: "teaching feedback evaluation"

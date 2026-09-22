@@ -1,18 +1,30 @@
 # Journal
 
-Last updated: 2026-09-22 | Total entries: 1585
+Last updated: 2026-09-22 | Total entries: 1598
 
 ## 2026-09-22
 - 📄 [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19: A value-based, practical framework for public service media organisations
 - 📄 [[learner-agency-ai-simulation-2026]] — Exploring learner agency in an AI-supported simulation environment for complex systems education
+- 📄 [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
+- 📄 [[adapted-stories-social-story-intervention-2026]] — AI-Assisted Social Story Intervention for Special Education: The Design of AdaptED Stories
+- 📄 [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
+- 📄 [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- 📄 [[mental-health-literacy-students-llms-2026]] — Mental Health Literacy Across Psychology Students and Large Language Models
+- 📄 [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- 📄 [[context-prompts-physics-assignments-2026]] — Artificial Intelligence Driven Physics Assignments using Context Prompts
+- 📄 [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- 📄 [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
+- 📄 [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- 📄 [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- 📄 [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
+- 📄 [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
 - 📄 [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - 📄 [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - 📄 [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - 📄 [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
-- 🧰 [[gemini-notebook]] — Gemini Notebook
 - 📄 [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
+- 🧰 [[gemini-notebook]] — Gemini Notebook
 - 📄 [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
-
 ## 2026-09-21
 - 📄 [[adaptive-ai-model-teacher-educators-2025]] — Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model
 - 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education
