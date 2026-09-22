@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-22T09:59:57-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -51,7 +51,7 @@ Key findings:
 When AI is designed to support reflection rather than replace it, metacognition can be strengthened:
 
 - **Learning journals** are a classic metacognitive practice: by reflecting on learning processes, students increase awareness of their cognition
-- **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand
+- **Structured prompts** that ask students to self-explain, evaluate strategies, or identify knowledge gaps preserve metacognitive demand. CoMeT (Hou et al. 2026) gives that phrase a definition and an empirical warrant: it treats metacognitive demand as a quantity distinct from [[cognitive-offloading|cognitive load]] — what the learner must decide, state, or judge before help arrives, not simply what remains when help is withheld — and held it statistically equivalent to a tutor that withheld answers by design (p_TOST = .004) while its own support escalated and faded one rung at a time. Fading held when the learner's turn was aimed at the decision under support: turns aimed elsewhere drew a later concession 40.3% of the time against 28.8% for aimed turns, an 11.5-point difference, so what a tutor must read for is where the learner's attention sits rather than how much effort the turn displays.
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment]]) even when the [[llm]] assistant alone did not
 
 - **Surfacing interaction patterns that learners cannot see.** [[student-ai-interaction-consecutive-interpreting-2026|Kuang, Li and Weng (2026)]] tracked eye movements, note-taking and speech while 22 interpreting trainees worked with a speech-recognition and machine-translation system, and found that the way students divided [[cognitive-psychology|attention]] between AI output and their own notes was invisible to them: 58.3% changed profile between task stages, and the heaviest readers of AI output scored lowest on delivery fluency and target language quality. The pedagogical consequence is that reflection has to be scaffolded by external evidence, because a learner's strategy is not introspectable — the authors argue for guiding students to describe and evaluate why they worked a given way at each stage.
@@ -141,3 +141,4 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[lukesova-clue-before-correction-2026]] — Clue Before Correction: ChatGPT for Autonomous Language Learning
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does

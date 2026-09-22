@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T04:56:34-04:00"
+updated: "2026-09-22T09:59:57-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -46,7 +46,7 @@ reviewed_by: [editor]
 
 Scaffolding connects to [[cognitive-offloading|Over-Reliance]] (scaffolding that doesn't fade creates dependency), Cognitive Load Theory (scaffolding manages cognitive load), [[feedback|Feedback Loop]] (scaffolding provides [[formative-assessment|formative]] feedback), and [[ai-literacy]] (learners must recognize when scaffolding is beneficial vs. when it displaces learning).
 
-Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for [[agentic-ai]].
+Agents must scaffold dynamically, not statically: [[agentic-ai-pedagogical-best-practice-2026|Woollaston et al. (2026)]] identify that automated scaffolds risk staying static instead of being withdrawn as competence grows, and recommend dynamic scaffolds that adapt and fade — a key guardrail for [[agentic-ai]]. CoMeT (Hou et al. 2026) supplies both the separation and the warrant for *when* to fade: its support climbs one rung each time a learner does not use it and drops to the lightest rung on take-up, holding [[metacognition|metacognitive demand]] statistically equivalent to a withholding tutor (p_TOST = .004) while delivering an artifact in 48.1% of sessions against 23.7% — more system labor, not less. The trigger it validated is aim rather than depth: after a full demonstration the tutor later conceded 30.3% of what was still open, after a pasted artifact 25.9%, after a bare assertion 20.4% and after a request to build 33.7%, whereas turns not aimed at the decision under support drew a later concession 40.3% of the time against 28.8% for aimed turns (11.5-point difference, 95% bootstrap interval [2.1, 22.4]). Take-up was sparse — 37.0% after the first ask and 21.8% after the third — so a fade rule keyed to learner effort would read a non-answer as readiness.
 
 Scaffolding must be situation-appropriate, not maximal: [[zhang-tutormoments-2026|Zhang et al. (2026)]] introduce TutorMoments, which evaluates whether LM tutors scaffold only when support is needed, push for rigor when the student is ready, and avoid over-scaffolding (reducing cognitive demand more than the situation requires). Minimally prompted frontier models default to over-scaffolding at the expense of productive struggle.
 
@@ -125,3 +125,5 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[sidorkin-ai-generated-course-readings-2026]] — Comprehension prompts as a scaffold dial in AI-generated course readings (Sidorkin 2026)
 - [[ai-literacy-tool-design-programming-education-2026]] — A hint-budgeted AI Study Coach: scaffolded vs unrestricted GenAI use, and why the constraint alone did not produce learning (Azimi 2026)
 - [[scan-framework-task-assignment-generative-ai-2025]] — SCAN: scaffolding reframed as deciding which sub-zone a task belongs to
+- [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
+- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning

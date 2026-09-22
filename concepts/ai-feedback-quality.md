@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-22T10:03:01-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -60,6 +60,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 
 AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Accuracy:** Does the feedback correctly identify errors and strengths? ([[automated-assessment|Automated Grading]], [[automated-essay-scoring]])
+- **Retrievability of evidence:** Can the system actually reach the evidence it is judging? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari and Martí (2026)]] separate evidence present in a submission from evidence available after processing — an equation, graph or unit may be included in a report yet never retrieved, so feedback about that criterion rests on nothing — making retrieval a dimension of quality distinct from accuracy or calibration. Their response is to require each score to cite concrete evidence from the report, so an observation that cannot be traced back to the text is visible as unsupported.
 - **Helpfulness:** Does the feedback guide improvement? ([[feedback|Feedback Loop]], [[becerra-aicofe-feedback-2026]])
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
 - **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
@@ -115,3 +116,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
+- [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice

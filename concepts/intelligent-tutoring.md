@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-22T09:59:57-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -74,7 +74,7 @@ For instructors deploying AI tutors and developers building them, the knowledge 
 
 **Evaluate tutors on whether they teach, not just solve.** A model that tops a solving leaderboard is not necessarily a good tutor — task-solving ability and learning-supportive behavior correlate only partially (r ≈ 0.42), and several models shift rank when scored on pedagogy. Report and scrutinize **solving and pedagogy scores separately**, and prioritize tutors that score on guiding questions, calibrated hints, and non-disclosive scaffolding over those that produce fast answers.([[measuring-llm-tutors-teach-vs-solve]])([[ai-tutoring-quality-k12-methodologies-2026]])
 
-**Design for pedagogical structure, not frequency.** The educational payoff of AI tutoring depends on *how* the tool is used and designed, not on how often it is used. Instructor-designed tutors scoped to course objectives, learner proficiency, and a curated knowledge base outperform unstructured general-purpose [[conversational-ai|chatbot]] use.([[instructor-designed-ai-tutors-foreign-language-sdt-2026]])
+**Design for pedagogical structure, not frequency.** The educational payoff of AI tutoring depends on *how* the tool is used and designed, not on how often it is used. Instructor-designed tutors scoped to course objectives, learner proficiency, and a curated knowledge base outperform unstructured general-purpose [[conversational-ai|chatbot]] use.([[instructor-designed-ai-tutors-foreign-language-sdt-2026]]) A preregistered randomized field experiment tested that claim against the realistic alternative rather than an AI-free baseline: 86 students in an online-MBA corporate-finance module were assigned to a tutor grounded in the module's own lectures, readings and problem sets or to a holdout that kept standard resources with consumer AI freely available, and tutored students gained 6.63 more points of 55 (95% CI [+1.95, +11.31], p = .007) while the share of short written answers at relational quality or better rose from 8% to 49% against 8% to 27%. Channel was the null margin — voice nearly doubled interaction density and cost 2.8× more to deliver, yet weekly mastery differed by −0.01 points of 11 (p = .98) — which makes delivery format an adoption and engagement lever rather than a learning technology. The holdout did not close the gap either: the nine students reporting external-AI use gained no more than the eight reporting none (+10.3 versus +12.8 of 55, p = .45).
 
 **Use iterative live evaluation to keep improving.** Because LLMs are opaque, treat evaluation as the engine of improvement: instrument a small set of quality and [[student-engagement|engagement metrics]], run live experiments on models, [[prompt-engineering|prompting]], personalization, and agents, and let data drive changes — the same discipline Khan Academy applies to its [[k-12]] tutor (Khanmigo).([[ai-tutoring-quality-k12-methodologies-2026]])
 
@@ -169,3 +169,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[yin-arthur-ai-teaching-assistant-engineering-econ-2026]]
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment

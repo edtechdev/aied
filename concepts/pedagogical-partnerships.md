@@ -1,7 +1,7 @@
 ---
 title: "Pedagogical Partnerships"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-08-31T10:15:48-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -116,3 +116,4 @@ For educators and institutions seeking to adopt pedagogical partnership, the kno
 - [[anastasia-shared-agency-partnership-framework-2026]] — Shared Agency: The Agency Partnership Framework for Instructor–Student Collaboration
 - [[maybee-disruptive-partnerships-sap-2025]] — Disruptive Partnerships: Collaborating with Students in Information Studies
 - [[student-centered-genai-responsible-framework-2026]] — Student-centered framework for responsible generative AI use
+- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community

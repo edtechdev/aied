@@ -1,7 +1,7 @@
 ---
 title: "Retrieval, Spacing and Interleaving"
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-09-18T12:20:00-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -107,3 +107,4 @@ Interleaving's inclusion here therefore rests on the same theoretical family as 
 - [[nie-personavlm-long-term-personalization-2026]] — Longitudinal student memory and its open relation to spaced repetition and forgetting curves
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — Retrieval practice in the Tools layer of a learning-to-learn framework
 - [[agentic-ai-pedagogical-best-practice-2026]] — Pre-fetching agents bypass retrieval practice; the case for intentional friction
+- [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment

@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-20T17:40:00-04:00"
+updated: "2026-09-22T09:52:55-04:00"
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, open-source]
@@ -101,3 +101,4 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 - [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
 - [[agentic-ai-education-scoping-review]]
 - [[academiclaw-student-agent-benchmark]]
+- [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
