@@ -20,6 +20,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** SOPHIE 2.0 turns the authors' earlier single-scenario AI-patient trial into a browser-based, self-service platform: 24 clinical scenarios, an [[embodied-learning|embodied]] talking avatar, immediate personalized feedback, and an LLM judge scoring the 3E communication skills — Empower, Be Explicit, and Empathize. Validated against archived ratings from standardized patients and third-party raters, the selected judge (GPT-5.4 with low reasoning) reached Pearson 0.759 and ICC(A,1) 0.746 against the human consensus, inside the range of individual raters rather than outside it, from transcripts alone. In a remote study of 59 clinicians and students, 92% found it engaging, 86% easy to use, and 83% clinically relevant, and automated scores rose from the first to the second encounter. With no control condition, that rise cannot be attributed to training; what the study establishes is the feasibility of [[automated-assessment]] for [[medical-education|clinical communication training]].

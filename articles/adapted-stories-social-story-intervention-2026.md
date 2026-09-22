@@ -21,6 +21,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** AdaptED Stories lets [[special-education]] practitioners draft, personalize, and deliver Social Stories for autistic children: a student profile of comprehension level, interests, and challenges steers an [[llm]] that writes the narrative, while a cartoon avatar built from the child's photo makes the child the protagonist of the visuals. Nineteen [[neurodiversity|autism]] practitioners co-designed the system across four phases, and seven who used the refined version returned a mean System [[usability-research|Usability]] Scale score of 86.8. Expert review of 21 generated stories rated coherence, empathy, and grammaticality at 4.90 of 5, yet practitioners described the images as generically Western and the behavior tracker as mismatched to how they judge progress. The design argument: review alone is insufficient, and practitioners also need controls expressing cultural and clinical intent before the model generates.

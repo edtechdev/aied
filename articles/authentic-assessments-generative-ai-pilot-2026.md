@@ -22,6 +22,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** RMIT University built Assessment Authentifire, a custom GPT-4.1 deployed inside its secure Virtual Assistant for [[edtech-platform|Learning platform]], to draft [[authentic-assessment|authentic assessments]] from a course guide, and piloted it with eight experienced course coordinators across STEM and Health. Each coordinator used it on a course they were currently teaching, critiqued the output, and contributed practice-informed revisions as a co-investigator. Thematic and cross-case analysis found the tool worked as an ideation partner that strengthened design and built [[teacher-ai-competency|assessment literacy]], while its outputs repeatedly missed disciplinary context and topic sequencing. One coordinator met fabricated references and unrealistic time estimates that survived repeated [[prompt-engineering|prompting]]. All eight refused end-to-end automation, locating [[evaluative-judgment|academic judgment]] rather than the model as the thing that makes an assessment fit for a discipline.

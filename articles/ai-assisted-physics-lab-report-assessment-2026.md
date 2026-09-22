@@ -19,6 +19,7 @@ connected_faqs: [ai-feedback-at-scale]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Abreu, Stari, and Martí revisit a previously reported experience in which [[generative-ai|ChatGPT]] models graded and commented on experimental physics laboratory reports alongside instructors, and ask what actually determines whether the output is usable. Their answer moves the question away from "can the model reason about physics" toward document conditions: a report can contain an equation, a graph, or a unit that the model never successfully retrieves, so an [[assessment-validity|apparently sound assessment]] may rest on evidence that was never available. They compare batch API processing against conversational review, propose a three-stage workflow that keeps [[evaluative-judgment|teacher judgment]] on the final decision, and argue that the strongest contribution of these tools is systematized information about recurring difficulties rather than a grade.

@@ -22,6 +22,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Across 7,462 applications to a US public policy master's program in six admissions cycles, this study shows how fast [[generative-ai]] writing moved through a process that had explicitly banned it. By 2025, 56.1% of applicants submitted at least one essay a commercial detector classified as primarily AI-written — 69.3% of international applicants against 38.6% of domestic ones. The essays improved, mostly on grammar, style, and clarity, yet each flagged essay was associated with a 1.5 percentage point lower admission probability, rising to 2.6 points once essay quality was held constant. An experiment with five admissions officers suggests why: they distinguished AI from human writing above chance and rated essays they believed AI-generated lower, so the penalty ran through [[evaluative-judgment]] rather than enforcement.

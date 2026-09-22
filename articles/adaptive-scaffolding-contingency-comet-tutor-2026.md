@@ -22,6 +22,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** The usual fix for AI-assisted [[cognitive-offloading]] is to give less away, which conflates two quantities: the cognitive load a system carries and the [[metacognition|metacognitive demand]] a learner faces before help arrives. This paper separates them and builds CoMeT, whose support climbs one rung each time a learner does not use it at a decision point and drops to the lightest rung on take-up. Across three Python tasks, 131 [[adult-learning|adult learners]] met CoMeT, an unrestricted assistant, and a question-only tutor. CoMeT matched the withholding tutor's demand, delivered an artifact twice as often as the answer-on-request tutor, sat between the baselines on frustration, and surrendered the full answer once in sixteen sessions. Fading held when the learner's turn was aimed at the decision under support, whatever its depth — an answer to what a [[scaffolding]] system must read.

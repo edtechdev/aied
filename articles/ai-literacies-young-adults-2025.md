@@ -26,6 +26,7 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers, links]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** A commissioned report from the *Responsible Innovation Centre for Public Media Futures* (BBC R&D), BRAID and We Are Open Co-op argues that provision for 14–19-year-olds has tilted toward technical and functional AI skills and away from critical evaluation, and that public service media are unusually well placed to correct it. Its evidence is a landscape review of more than 40 AI literacy frameworks, 35 expert interviews and survey data collected between March and June 2025. The contribution is a framework of six competency areas (understanding AI systems and their contexts; practical and responsible use of tools; [[creativity]], agency and participation; confidence, adaptability and [[lifelong-learning|lifelong learning]]; critical evaluation of outputs and systems; and [[ethics|ethical]], societal and environmental awareness) grounded in five values and paired with three progression levels — *Understanding and Applying*, *Analysing and Evaluating*, *Synthesising and Specialising* — plus an assessment guide and seven recommendations for public service media. The report is explicit that it is plural, not singular: **AI literacies**, connected to the [[digital-divide|digital]], media and information literacies that preceded them.

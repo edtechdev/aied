@@ -21,6 +21,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Rodriguez and Wulff describe a lightweight way to put [[generative-ai]] to work in an introductory physics course: the instructor writes a context prompt that fixes the AI's role, task, and boundaries, and students carry that prompt into a sustained dialogue about one or two course topics. In an asynchronous course of roughly 70 students, the graded artifact was the [[student-ai-interaction|transcript]] rather than a final answer, so credit tracked evidence of genuine exchange — the design move that pushes students past answer-seeking and toward [[socratic-method|Socratic dialogue]]. Because the framing lives in the instructor's [[prompt-engineering|prompt]] instead of inside a proprietary tutor, the same template can be edited for a new course or topic, and a companion reflection prompt extends it to elaboration, application, and transfer.
