@@ -30,10 +30,9 @@ export interface SiteConfig {
     name: string;
     contactUrl?: string;
   }>;
-  // Standing AI-use disclosure: which models are in use and since when. The policy
-  // text itself lives in AI-USE.md.
+  // Standing AI-use disclosure: which models are in use, and from which date each
+  // took over. The policy text itself lives in AI-USE.md.
   aiDisclosure: {
-    started: string;
     policy: string;
     harness: string;
     models: Array<{ id: string; since: string; note?: string }>;

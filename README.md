@@ -73,7 +73,7 @@ All site-wide metadata lives in a single file, [`site.config.json`](site.config.
 
 **Do not hardcode these values in code or docs — read them from the config instead.** Astro imports it via `src/config/siteConfig.ts`; Python tooling (the EPUB/PDF builder, llms generator, RSS fetcher) opens it with `json.load`. To rename the site or change any metadata, edit `site.config.json`, then rebuild the site and regenerate the EPUB/PDF/llms files.
 
-The same file holds the two blocks that back the AI-use disclosure: **`contributors`** (the people accountable for the corpus, referenced by id from page frontmatter so no name is written into a page) and **`aiDisclosure`** (the models in use with the date each took over, the agent harness, and the date the record began). The policy text they implement is [`AI-USE.md`](AI-USE.md). Adding a model means editing the config first: the disclosure gate refuses a page that names a model the config does not list.
+The same file holds the two blocks that back the AI-use disclosure: **`contributors`** (the people accountable for the corpus, referenced by id from page frontmatter so no name is written into a page) and **`aiDisclosure`** (the models in use with the date each took over, and the agent harness). The policy text they implement is [`AI-USE.md`](AI-USE.md). Adding a model means editing the config first: the disclosure gate refuses a page that names a model the config does not list.
 
 ### Repository layout
 

@@ -96,13 +96,21 @@ generative image model, that will be disclosed on the page that uses it, since
 publishers and platform disclosure rules treat generated images as their own
 category.
 
-## Records start here
+## Model history
 
-Per-page AI records begin on **2026-09-22**. Pages created before that date were
-produced by a mix of models over several months, and the model behind any individual
-page from that period cannot be reconstructed reliably, so those pages carry no
-`ai_assist` entry rather than a guess. The corpus-level statement above still
-applies to them: they were drafted by AI systems and reviewed by a human editor.
+Two models are on record as having drafted and revised this corpus:
+
+| Model | In use from |
+| --- | --- |
+| DeepSeek 4.1 Flash | 2026-09-11 |
+| DeepSeek 4.0 Flash 0731 | 2026-08-12 |
+
+Pages created before 2026-08-12 predate this record. Concept pages are also rewritten
+wholesale as new research arrives, so a page's `created` date is not a reliable proxy
+for the model behind the text now on it. The entry that settles that question is the
+per-page `ai_assist` record, which names the model behind the change that produced the
+current text; that field was introduced on 2026-09-22, so a page without one means the
+change predates the field, not that AI was uninvolved.
 
 ## Reusing this disclosure
 

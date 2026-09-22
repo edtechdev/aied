@@ -7,7 +7,8 @@ repository, the offline editions and any harvested copy carry the disclosure.
 
 What is checked
   HARD (exit 1)
-    - a page created on or after aiDisclosure.started (site.config.json) has no
+    - a page created on or after RECORD_START (the date the per-page fields
+      were introduced) has no
       `ai_assist` record and no `contributors` entry
     - a `contributors`/`reviewed_by` id is not a human in site.config.json
     - an `ai_assist` model is neither 'unknown' nor listed in the disclosure
@@ -32,6 +33,11 @@ import os
 import re
 import subprocess
 import sys
+
+# The date the per-page fields (ai_assist, reviewed_by) were introduced. Pages created
+# on or after it must carry a record; older pages are covered by the corpus-level model
+# history in AI-USE.md instead, since their text predates the field.
+RECORD_START = '2026-09-22'
 
 import yaml
 
@@ -90,7 +96,7 @@ def main() -> int:
     with open(os.path.join(WIKI, 'site.config.json'), encoding='utf-8') as fh:
         cfg = json.load(fh)
     ai = cfg.get('aiDisclosure', {})
-    started = str(ai.get('started') or '')
+    started = RECORD_START
     known_models = {m['id'] for m in ai.get('models', []) if m.get('id')}
     humans = {c['id'] for c in cfg.get('contributors', []) if c.get('kind') == 'human'}
     non_human = {c['id'] for c in cfg.get('contributors', []) if c.get('kind') != 'human'}
@@ -153,7 +159,7 @@ def main() -> int:
             required += 1
             if not assists:
                 errors.append(f'{rel}: created {created} but carries no ai_assist record'
-                              f' (records begin {started}; see AI-USE.md)')
+                              f' (per-page records begin {started}; see AI-USE.md)')
             if not contribs:
                 errors.append(f'{rel}: created {created} but names no contributors')
         if assists:
@@ -163,7 +169,7 @@ def main() -> int:
 
     print(f'AI-use disclosure: {recorded} page(s) carry an ai_assist record; '
           f'{reviewed} assert a human review; {required} page(s) were created on or '
-          f'after {started or "(no start date set)"} and are required to carry both.')
+          f'after {started} and are required to carry both.')
     if errors:
         print(f'FAILED - {len(errors)} disclosure defect(s):')
         for e in errors[:80]:
