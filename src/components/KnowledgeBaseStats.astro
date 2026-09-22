@@ -1,0 +1,111 @@
+---
+// How much the knowledge base holds, as a row of pills: article, concept, FAQ and
+// resource counts plus the date of the most recent content update.
+//
+// Both the home page and the search page render this, so the numbers are computed
+// once from the same collections and cannot drift apart. The date is the latest
+// `updated` timestamp across every page in every collection (falling back to
+// `created`), which is what `index.md` calls its "Last updated" line.
+//
+// Styles live here, not in the parent pages: Astro scopes a component's <style> to
+// the component's own markup, so a rule written in index.astro would never match
+// these elements.
+import { getCollection } from 'astro:content';
+
+const [articles, concepts, faqs, resources] = await Promise.all([
+  getCollection('articles'),
+  getCollection('concepts'),
+  getCollection('faqs'),
+  getCollection('resources'),
+]);
+
+const items = [
+  { count: articles.length, label: 'articles', href: '' },
+  { count: concepts.length, label: 'concepts', href: '' },
+  { count: faqs.length, label: 'FAQs', href: '/aied/faq' },
+  { count: resources.length, label: 'resources', href: '/aied/resources' },
+];
+
+const stamps = [...articles, ...concepts, ...faqs, ...resources]
+  .map((page: any) => page.data.updated || page.data.created || '')
+  .filter((value: string) => value)
+  .sort();
+const latestDate = (stamps.pop() || '').split('T')[0];
+const latestLabel = latestDate
+  ? new Date(`${latestDate}T12:00:00Z`).toLocaleDateString('en-US', {
+      month: 'long',
+      day: 'numeric',
+      year: 'numeric',
+      timeZone: 'UTC',
+    })
+  : '';
+---
+
+<ul class="kb-stats" aria-label="What the knowledge base contains">
+  {items.map((item) => (
+    <li class="kb-stat">
+      {item.href ? (
+        <a href={item.href}>
+          <strong>{item.count}</strong> {item.label}
+        </a>
+      ) : (
+        <span>
+          <strong>{item.count}</strong> {item.label}
+        </span>
+      )}
+    </li>
+  ))}
+  {latestLabel && (
+    <li class="kb-stat kb-stat-date">
+      <span>
+        last updated <strong>{latestLabel}</strong>
+      </span>
+    </li>
+  )}
+</ul>
+
+<style>
+  .kb-stats {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    list-style: none;
+    padding: 0;
+    margin: 0.25rem 0 1.5rem 0;
+  }
+  .kb-stat {
+    display: inline-flex;
+    align-items: center;
+    margin: 0;
+    padding: 0.35rem 0.85rem;
+    border-radius: 999px;
+    border: 1px solid var(--card-border-color);
+    background: var(--card-background-color);
+    font-size: 0.9rem;
+    line-height: 1.4;
+    color: var(--color);
+  }
+  .kb-stat strong {
+    font-weight: 600;
+    color: var(--primary);
+    margin-right: 0.3rem;
+  }
+  .kb-stat a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .kb-stat a:hover {
+    color: var(--primary);
+    text-decoration: underline;
+  }
+  /* The date pill reads as metadata, not as another count. */
+  .kb-stat-date {
+    border-style: dashed;
+    color: var(--muted-color);
+    font-size: 0.85rem;
+  }
+  .kb-stat-date strong {
+    color: var(--muted-color);
+    font-weight: 600;
+  }
+</style>

@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import KnowledgeBaseStats from '../components/KnowledgeBaseStats.astro';
 import { getCollection } from 'astro:content';
 import { FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 
@@ -31,9 +32,17 @@ for (const c of concepts) {
 
 <BaseLayout title="Search" hideHeaderSearch>
   <h1><svg class="page-type-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>Search</h1>
-  <p style="color:var(--muted-color);margin-bottom:1.5rem;">
+  <p style="color:var(--muted-color);margin-bottom:1rem;">
     Search across articles and concepts. Use the filters to narrow results.
   </p>
+
+  <div class="search-corpus">
+    <p style="color:var(--muted-color);margin-bottom:0.5rem;">
+      Everything in the knowledge base is searchable — including the FAQs and the free tools and
+      resources pages. It currently holds:
+    </p>
+    <KnowledgeBaseStats />
+  </div>
 
   <div class="search-interface">
     <pagefind-config bundle-path="/aied/pagefind/" faceted></pagefind-config>
@@ -96,6 +105,10 @@ for (const c of concepts) {
   .search-interface {
     max-width: 800px;
     margin: 0 auto;
+  }
+  .search-corpus {
+    max-width: 800px;
+    margin: 0 auto 1.25rem auto;
   }
   .search-controls {
     display: flex;
