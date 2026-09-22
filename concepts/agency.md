@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-21T13:20:18-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -106,6 +106,7 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ssail-safe-sound-ai-learning-2026]] — SSAIL: A Design Framework for Safe and Sound AI for Learning
