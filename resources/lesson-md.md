@@ -17,6 +17,7 @@ level: [higher ed]
 audience: [instructional designers, curriculum designers, software developers, educational technology developers]
 confidence: high
 connected_resources: [id-toolbox]
+reviewed_by: [editor]
 ---
 
 **LESSON.md** is an open format for block-based eLearning content: a Markdown file with YAML frontmatter and `:::` directives for text, images and knowledge checks, readable by a person and parseable by any tool. It exists because course content is usually locked inside one authoring tool, and because large language models can only help with lessons they can actually read.

@@ -5,6 +5,7 @@ updated: "2026-09-20T12:39:59-04:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Latent profile analysis (LPA)** — a person-centered method that sorts a sample into unobserved subgroups (profiles) when each case is described by several variables at once. It is the continuous-indicator member of the mixture-modeling family; its sibling **latent class analysis (LCA)** applies the same logic to categorical indicators. Both ask a different question from the [[quantitative-research|variable-centered]] models that dominate AI-in-education research: not "how much does X predict Y on average" but "how many different kinds of learner, [[teacher-role|teacher]], or manager hide inside that average." In this knowledge base the method shows that one AI tool lands very differently across subgroups — five ethical-awareness profiles among Ghanaian undergraduates, six readiness typologies among Ukrainian education managers, four [[generative-ai|ChatGPT]]-acceptance profiles among Taiwanese pre-service teachers.

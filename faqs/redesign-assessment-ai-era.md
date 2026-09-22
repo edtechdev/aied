@@ -5,6 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
+reviewed_by: [editor]
 ---
 
 # How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?

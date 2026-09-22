@@ -7,6 +7,7 @@ foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Trust** — the willingness of learners, educators, and institutions to rely on a person or an AI system for learning, judgment, and decision-making. In [[ai-education|AI in education]], trust spans two related but distinct domains: **trust in AI** (confidence in the competence, transparency, reliability, and benevolence of an AI system or agent) and **interpersonal trust** (the relational trust between students and instructors, between learners and peers, and across the institution). Both are double-edged: appropriate trust enables productive [[student-engagement|engagement]], while over-trust invites [[cognitive-offloading|over-reliance]] and under-trust blocks beneficial use. The central challenge is **calibration** — aligning trust to actual reliability, whether that reliability belongs to a model or to a person.

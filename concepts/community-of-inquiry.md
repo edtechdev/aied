@@ -9,6 +9,7 @@ technology: [generative-ai]
 level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
+reviewed_by: [editor]
 ---
 
 > **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.

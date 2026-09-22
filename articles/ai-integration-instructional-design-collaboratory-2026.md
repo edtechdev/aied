@@ -17,6 +17,7 @@ technology: [generative-ai, llm]
 assessment: [feedback]
 ethics: [equity-in-ai-education]
 institutions: [educational-policy-ai, change-management]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** The AmplifyGAIN Center convened 15 teacher educators from 13 U.S. institutions for a semester-long EPP Faculty Collaboratory, and 12 of them completed the design-implementation cycle that this white paper synthesizes. Its central claim is a reframing: integrating [[generative-ai]] into teacher preparation is an instructional design problem, not a tool adoption problem. Five themes carry the evidence, and each is a design lesson rather than a recommendation to adopt or prohibit. AI works when it supports [[teacher-ai-competency|professional judgment]] instead of supplying answers; disciplinary reasoning has to come first, because AI that arrives too early bypasses the analysis a methods course exists to build; critique of AI output must be written into the assignment, since candidates did not question outputs on their own; what counts as responsible use depends on the course; and integration costs faculty more design work, not less. The paper opens with a classroom episode it names the balloon popping effect, where candidates devalued feedback they had already judged useful once they learned AI produced it.

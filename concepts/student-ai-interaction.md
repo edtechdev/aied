@@ -9,6 +9,7 @@ technology: [generative-ai, intelligent-tutoring, learning-analytics, llm, promp
 audience: [learners]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Student-AI interaction** — the patterns, processes, and cognitive work in how learners engage with [[generative-ai|generative AI]] systems during learning and [[problem-solving|problem solving]]. [[research-methods-aied|Research]] here characterizes what students ask of AI, how prompts and dialogues evolve, and how interaction quality relates to [[learning-gains|learning outcomes]], [[cognitive-offloading]], and [[agency]].

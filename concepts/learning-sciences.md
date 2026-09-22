@@ -12,6 +12,7 @@ level: [k 12, higher ed, adult learning]
 page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
+reviewed_by: [editor]
 ---
 
 > **Learning sciences** — the interdisciplinary research field that studies how people learn and how to design environments in which learning happens, drawing on [[cognitive-psychology|cognitive psychology]], [[learning-theories|learning theory]], computer science and linguistics, and judging its designs with empirical evidence rather than theory alone. In this knowledge base it is the research field around [[ai-education|AI in education]] rather than one of the school subjects: it supplies the mechanisms that AI systems operationalize (knowledge components, [[mastery-learning|mastery thresholds]], [[transfer-of-learning|transfer]]), the design objects they are embedded in ([[learning-design|planned course sequences]], [[intelligent-tutoring|tutors]], [[feedback]] regimes) and the standards by which they are judged ([[learning-gains]], [[assessment-validity]], [[equity-in-ai-education|equity]]). Its organizing question is not whether a tool performs well but whether a learner changed.

@@ -10,6 +10,7 @@ audience: [instructors, researchers]
 level: [higher ed]
 sources: ['raw/papers/ai-ethical-awareness-ghana-students-2026.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Acquah and colleagues (2026) assessed the artificial-intelligence ethical awareness (AIEA) of 509 undergraduates at the University of Cape Coast, Ghana — 295 (58 percent) male, 214 (42 percent) female — across human autonomy, beneficence, and fairness, using a nine-item scale developed in Hong Kong. Confirmatory factor analysis supported the three-factor structure, though human autonomy's average variance extracted of 0.382 fell short of the 0.50 threshold. [[network-analysis|Network analysis]] linked the items through 30 of 36 possible connections, with the item holding that AI "can never replace ultimate human responsibility" bridging most strongly to concerns about benefits outweighing risks. Latent profile analysis retained five profiles, from "Comprehensive Very High" (26.1 percent) to "Low Ethical Awareness" (4.5 percent, beneficence 2.06), while gender made no meaningful difference. The authors frame AI ethical awareness as coherent yet unevenly distributed, with implications for [[ethics|AI ethics]] curricula in [[global-south|Ghana]].

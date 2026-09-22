@@ -15,6 +15,7 @@ pedagogy: [career-development-and-readiness]
 technology: [generative-ai]
 assessment: [automated-assessment]
 methods: [quantitative-research]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Using TALIS 2024 data from 56,669 teachers, with a primary allocation analysis of 24,058 AI users across 46 education systems, this study separates [[generative-ai|AI]] adoption from task allocation: which parts of a [[teacher-role|teacher]]'s work the tool actually enters. AI use rises with perceived task demand, and within a teacher it tracks the task they find harder — but the pattern is not uniform. Lesson planning and [[special-education]] support attract AI (OR = 1.084 and OR = 1.442), while [[assessment]] and marking pull away from it (OR = 0.921), the opposite of what a simple effort-reduction story predicts.

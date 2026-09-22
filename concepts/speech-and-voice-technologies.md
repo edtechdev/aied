@@ -10,6 +10,7 @@ confidence: medium
 audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
+reviewed_by: [editor]
 ---
 
 > **Speech and voice [[ai-technologies|technologies]]** — the family of AI systems in which the spoken channel carries the interaction: automatic speech recognition (ASR) that transcribes, analyses, and grades what a learner says; text-to-speech (TTS) that generates narrated or dialogue-form instruction; voice-first agents that hold real-time spoken conversation with learners; and automated capture and scoring of oral performance. Where [[conversational-ai]] research is mostly about text chatbots and [[language-learning]] covers second-language pedagogy broadly, this page follows the audio itself — what a speech interface changes about learning, what it costs, and who it includes or excludes when the interface is a voice rather than a screen.

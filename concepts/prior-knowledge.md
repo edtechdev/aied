@@ -7,6 +7,7 @@ foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Prior knowledge** — the existing knowledge, skills, beliefs, and mental models a learner brings to a new learning task. It is the single most powerful predictor of subsequent learning: new information is interpreted through — and integrated with — what the learner already knows, so instruction that activates and builds on prior knowledge produces stronger, more durable learning than instruction that treats every learner as a blank slate. In [[ai-education|AI in education]], prior knowledge is central to [[student-modeling]] (adapting [[personalized-learning|instruction]] to the learner's current state), to the [[constructivist]] principle that knowledge is actively constructed atop existing mental models, and to the risk that AI tools which pre-fetch and surface content bypass the [[retrieval-spacing-interleaving|retrieval practice]] that activates prior knowledge.

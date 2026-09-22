@@ -14,6 +14,7 @@ pedagogy: [help-seeking, scaffolding]
 technology: [rag, llm]
 ethics: [equity-in-ai-education]
 methods: [usability-research, mixed-methods-research]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Fifteen [[cs-education|computing]] students and four academics evaluated Beacon, a course-specific [[rag|retrieval-augmented generation]] assistant built from a single programming module's approved teaching materials. Students rated its answers highly relevant to the course (89%), found it clear (88% very or somewhat clear) and intuitive (73.3%), and most said it supported rather than replaced their learning (66.7%). The study's argument is about [[help-seeking]]: 62.5% of respondents said they sometimes avoided asking for help even when they needed it, and the authors position a private, module-grounded tool as a first rung for students who hesitate to approach a lecturer.

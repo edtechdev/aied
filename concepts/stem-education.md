@@ -9,6 +9,7 @@ assessment: [automated-assessment]
 discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **STEM Education** — science, technology, engineering, and mathematics education is the most common domain for [[ai-education|AI in education]] [[research-methods-aied|research]] in the knowledge base. STEM's structured knowledge, clear right/wrong answers, and computational nature make it an ideal testbed for [[intelligent-tutoring|AI tutoring]] and assessment.

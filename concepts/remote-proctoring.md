@@ -9,6 +9,7 @@ assessment: [remote-proctoring, summative-assessment]
 ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Remote proctoring** — the monitoring of examinations when students take them away from a supervised physical venue, ranging from a human proctor watching via webcam or control center to fully automated AI-based proctoring systems (AIPS) that use machine/deep learning to verify identity and flag suspicious behavior. It is the primary means of preserving [[summative-assessment]] validity and [[academic-integrity|academic integrity]] in [[online-teaching-and-learning|online and distance learning]], where in-person invigilation is often unfeasible — but it raises serious concerns about [[privacy]], academic surveillance, equity, fairness, and the erosion of [[trust]], costs that can themselves harm the learning environment it is meant to protect.

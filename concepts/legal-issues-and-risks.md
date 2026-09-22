@@ -13,6 +13,7 @@ level: [higher ed]
 audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Legal Issues and Risks** — the exposure institutions, staff and students incur when [[generative-ai|generative AI]] is governed badly in education: a student wrongly accused of cheating on the strength of a detector score, a proctoring system that watches and records more than the assessment requires, an over-broad rule that penalizes an assistive tool, or a policy too vague to be enforced consistently. The risk is not one legal question but several, arriving together — evidentiary (whether the accusation can be evidenced at all), contractual and procedural (whether the institution followed its own rules and gave the student a fair hearing), equality-based (whether the rule burdens disabled or non-native-speaker students), and data-protection-based (what the surveillance collected and where it was stored). It is distinct from [[academic-integrity]], which is the conduct framework being enforced: this page is about what happens when that enforcement is challenged.

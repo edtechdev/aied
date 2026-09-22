@@ -9,6 +9,7 @@ discipline: [math education, stem education]
 audience: [learners, instructors]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Math Education** — the study of how students learn mathematics and how AI can support mathematics teaching, spanning affective tutoring, cognitive diagnosis from handwritten work, [[desirable-difficulties|productive struggle]] evaluation, help-seeking behavior, teacher-AI collaboration for visual generation, and [[student-ai-interaction|student-AI interaction]] trajectories. Math education is the most active [[discipline-specific-aied|domain-specific]] [[research-methods-aied|research]] area in this knowledge base, with 10 articles that collectively explore how AI can support — and sometimes undermine — mathematical learning from elementary fractions through higher education.

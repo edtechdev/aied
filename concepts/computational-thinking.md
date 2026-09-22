@@ -8,6 +8,7 @@ technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
 discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Computational thinking** — a problem-solving approach involving decomposition, pattern recognition, abstraction, and algorithmic design. In AI education, computational thinking is both a prerequisite for understanding AI systems and a skill that AI tools can help develop.

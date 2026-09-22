@@ -9,6 +9,7 @@ assessment: [assessment, automated-assessment]
 discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Automated Essay Scoring (AES)** — the use of AI to evaluate and score written essays, spanning traditional statistical approaches, fine-tuned language models, and increasingly accessible [[llm]]-based prompting strategies. AES [[research-methods-aied|research]] in this knowledge base covers scoring accuracy, fairness and bias, psychometric validity, and practical [[accessibility]] for educators.

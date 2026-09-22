@@ -10,6 +10,7 @@ assessment: [formative-assessment]
 audience: [learners]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Socratic Method** — a [[pedagogy|pedagogical]] approach rooted in guided questioning and dialogue rather than direct instruction, now being adapted for generative AI tutoring systems. In [[ai-education|AI in education]], the Socratic method is operationalized through LLMs that ask probing questions, scaffold reasoning, and withhold direct answers — aiming to promote deeper understanding and [[desirable-difficulties|productive struggle]] rather than answer-fetching.([[hashmi-socratic-physics-chatbot-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])

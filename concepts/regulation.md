@@ -9,6 +9,7 @@ connected_faqs: [ai-guidance-children-under-13, institutional-ai-policy]
 level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
+reviewed_by: [editor]
 ---
 
 > **AI regulation** — the laws, policies, and governance frameworks that control how AI is developed and deployed in educational settings. Regulation in the knowledge base spans government policy, institutional governance, and industry [[self-regulated-learning|self-regulation]].

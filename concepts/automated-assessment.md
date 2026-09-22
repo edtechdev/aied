@@ -11,6 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: revision

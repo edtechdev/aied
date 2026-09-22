@@ -6,6 +6,7 @@ type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Psychometrically aware AI** — AI assessment systems aligned with measurement theory — is the standard advanced in [[llm-psychometric-calibration-cdp]], [[llm-item-difficulty-prediction]], [[automated-assessment|Confidence Aware AI Assessment]], and [[item-response-theory]]: calibrated, uncertainty-aware AI assessment preserves reliability and validity rather than substituting raw model confidence for psychometric evidence.

@@ -20,6 +20,7 @@ sources: ['raw/papers/peer-group-vs-ai-feedback-2026.md']
 confidence: high
 connected_faqs: [ai-feedback-at-scale, group-work-ai, redesign-assessment-ai-era]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

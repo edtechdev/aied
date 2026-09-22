@@ -11,6 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai]
 
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Teaching** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the knowledge base documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments. This page goes beyond describing that shift — it details what teachers actually *do* differently, how they can adapt their practice, and how they connect to [[learning-design]], [[ai-literacy]], and [[academic-integrity]].

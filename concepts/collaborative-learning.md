@@ -10,6 +10,7 @@ connected_faqs: [group-work-ai, asynchronous-online-courses-ai]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Collaborative Learning** — instructional approaches where students work together to solve problems, complete tasks, or construct knowledge, supported or mediated by AI tools. In [[ai-education|AI in education]], collaborative learning [[research-methods-aied|research]] spans AI as a collaboration partner, AI as a mediator of human collaboration, and the design of collaborative AI tutoring systems.

@@ -11,6 +11,7 @@ connected_faqs: [group-work-ai]
 audience: [instructors, learners]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Group work** — learning and graded work produced by a team rather than an individual, used to develop collaboration, communication, and shared responsibility while also generating an outcome and often a grade for each member. It sits where [[assessment|assessment design]] and [[collaborative-learning|collaborative learning]] meet, and it inherits the tensions of both: free-riding and social loafing, unequal contributions, conflict avoidance, and the difficulty of attributing a collective product to individual learning. [[generative-ai|Generative AI]] intensifies these because teams must now negotiate whose and what kind of AI [[student-engagement|engagement]] counts as acceptable — a negotiation that [[agency]] [[research-methods-aied|research]] shows can resolve in opposite directions within a single cohort, and that [[agentic-ai|AI agents]] joining the group can themselves reshape.

@@ -9,6 +9,7 @@ technology: [generative-ai]
 connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Critical thinking** — the ability to analyze, evaluate, and synthesize information — is both a skill that AI tools can help develop and a competency that students must apply when using AI. In [[ai-education|AI in education]] [[research-methods-aied|research]], critical thinking appears in two interrelated forms: as a learning objective ([[teacher-role|teaching]] students to think critically) and as a safeguard against uncritical AI reliance.

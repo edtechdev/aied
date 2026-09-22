@@ -10,6 +10,7 @@ ethics: [sustainability, ethics, global-south]
 institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 ## Questions to Consider

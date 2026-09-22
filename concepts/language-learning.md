@@ -9,6 +9,7 @@ ethics: [equity-in-ai-education]
 discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Language Learning** — the study of how AI supports second language (L2) acquisition, writing development, and linguistic diversity in educational settings. [[ai-education|AI in education]] [[research-methods-aied|research]] in this knowledge base spans AI interlocutors for spoken dialogue, [[automated-essay-scoring|automated writing evaluation]] for L2 learners, reading support, and concerns about language bias in AI scoring systems.

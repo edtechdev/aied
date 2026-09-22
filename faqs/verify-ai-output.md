@@ -9,6 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
+reviewed_by: [editor]
 ---
 
 # How Do I Teach Students to Verify AI Output?

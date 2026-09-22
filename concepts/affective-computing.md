@@ -8,6 +8,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-an
 audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Affective computing** in education uses physiological and behavioral signals to sense learner emotion and adapt instruction — see [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]], and [[kar-mathbuddy-affective-math-tutoring-2025]]. The knowledge base also documents emotional risks of [[student-ai-interaction|AI interaction]], including [[sycophantic-ai-social-interaction-2026]] and [[shame-guilt-ai-regulation-computing-education]].

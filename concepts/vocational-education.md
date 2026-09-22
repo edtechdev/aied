@@ -10,6 +10,7 @@ discipline: [vocational education]
 audience: [instructors, curriculum designers, institutions]
 level: [adult learning, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Vocational education and training** — the segment of education that prepares people for named occupations, trades and technical roles, organized around practice-proximal competence rather than disciplinary knowledge. Where [[professional-training|workplace learning]] describes upskilling for the already employed, VET includes initial preparation for a trade; where [[higher-ed|higher education]] names degree study, VET is often non-degree and framed by national qualification frameworks. Its defining features are that learners are assessed on what they can do with equipment, that instruction happens near the workshop, simulator or worksite, and that the human trainers who carry practical instruction are frequently the binding constraint. In AI research VET appears both as a distinct learner population — one whose academic confidence is tied to demonstrated skill and occupational identity — and as a distinct evidence base, thinner and more fragmented than the school or university literature.

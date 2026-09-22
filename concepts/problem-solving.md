@@ -7,6 +7,7 @@ foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Problem solving** — the process of formulating, analyzing, and resolving novel or complex challenges — is a core 21st-century competency that AI tools both amplify and threaten. Across the knowledge base's articles, generative AI functions as a scaffold, a dialogic partner, and an answer engine, and its educational value hinges on whether learners remain the primary decision-makers or outsource their reasoning to the machine. This tension between efficiency and deeper cognitive and regulatory [[student-engagement|engagement]] defines current [[research-methods-aied|research]] on AI and problem solving.

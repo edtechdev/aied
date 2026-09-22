@@ -48,7 +48,10 @@ the drafted text, corrects errors of substance and tone, and approves publicatio
 Corrections during review are not always visible in the page history, so the
 `reviewed_by` field records which pages a person has actually read, and it is left
 empty where that has not happened. An empty field is not a claim that the page is
-unreviewed; it means the record does not assert a review.
+unreviewed; it means the record does not assert a review. The first review pass
+covered every concept, FAQ and resource page and the articles created in the four
+days before it; articles published earlier carry no review claim, which is the
+honest state of the record rather than a statement that nobody has looked at them.
 
 ## What is recorded on each page
 

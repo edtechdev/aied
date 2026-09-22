@@ -10,6 +10,7 @@ connected_faqs: [ai-guidance-children-under-13]
 discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 > **Robots in education (educational robotics)** — the use of physical or simulated robots as tools for [[teacher-role|teaching]] and learning. Educational robotics spans a wide spectrum: from programmable kits that teach computational thinking and programming, to socially assistive and humanoid robots that tutor, tell stories, model sign language, or rehearse social skills. It is valued for fostering [[problem-solving|problem solving]], [[critical-thinking|critical thinking]], [[creativity]], and STEAM engagement, and for making abstract computing concepts tangible through embodied interaction. The knowledge base's robotics corpus spans [[curriculum-design|curriculum]]-integrated programming, LLM-powered conversational tutors, socially assistive [[storytelling-in-education|storytelling]] robots, and role-play for social-emotional learning. It is underpinned by two closely related areas absorbed here: **social robots** (robots designed for social interaction and relationship-building) and **human–robot interaction (HRI)** (the study of how people perceive, trust, and learn with robots).
 

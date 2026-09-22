@@ -19,6 +19,7 @@ sources: ['raw/papers/llm-grade-bands-calibration-bias-2026.md']
 confidence: high
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

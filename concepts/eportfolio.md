@@ -9,6 +9,7 @@ assessment: [assessment, authentic-assessment, automated-assessment, feedback, f
 discipline: [language learning]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **E-Portfolio (e-portfolio)** — a digital collection of a learner's work, reflections, and evidence of achievement, used for [[assessment]], learning, and evaluation. In the AI era, e-portfolios have emerged as a relatively **AI-robust and AI-assisted** assessment form: they capture the *process* of learning (reasoning, drafting, reflection) rather than just the final artifact, making them valuable against the collapse of the artifact-as-proxy, and [[generative-ai|generative AI]] can support their creation, [[feedback]], and evaluation.

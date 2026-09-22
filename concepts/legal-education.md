@@ -14,6 +14,7 @@ level: [higher ed]
 audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every program faces: whether assisted performance on law-school tasks is evidence of the analysis the license depends on. Its structure is unusual. In the United States, [[governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.

@@ -9,6 +9,7 @@ audience: [researchers, instructors]
 level: [higher ed]
 sources: ['raw/papers/ai-mediated-research-agency-formation-2026.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Han and Liu (2026) examined how [[generative-ai|generative AI]] reshapes the [[agency|agency]] of early-career researchers in doctoral and postdoctoral training. They define AI dependence as reliance on intelligent tools as the primary source of cognitive support in judgment-intensive research tasks, and read its risk as *epistemic delegation* — the transfer of problem framing, methodological choice, and interpretive authority to the system. Among 420 astronomy doctoral and postdoctoral researchers in China, dependence was negatively associated with research autonomy and research [[self-efficacy|self-efficacy]], both positively associated with innovative research behavior; supervisory support weakened the negative associations with autonomy and innovation, while the self-efficacy interaction fell short of significance. The study shifts the debate from AI-enabled productivity to AI-mediated researcher formation.

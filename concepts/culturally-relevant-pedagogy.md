@@ -9,6 +9,7 @@ ethics: [equity-in-ai-education, inclusive-learning]
 audience: [learners]
 level: [k 12, higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Culturally relevant pedagogy** — introduced by Gloria Ladson-Billings (1995), centers marginalized students' cultural references in [[curriculum-design|curriculum design]]. It rests on three pillars: **academic success** (rigorous standards that honor cultural identity), **cultural competence** (critical consciousness about culture and power), and **[[critical-pedagogy|sociopolitical consciousness]]** (empowering students to challenge inequitable systems). As AI tools enter classrooms, CRP has become a central lens for evaluating whether [[generative-ai|AI]] amplifies or erases non-dominant cultural knowledge.

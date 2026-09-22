@@ -10,6 +10,7 @@ connected_faqs: [ai-guidance-children-under-13]
 confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
+reviewed_by: [editor]
 ---
 
 > **Parents and families** — the household as a stakeholder in [[ai-education|AI in education]]: the caregivers who tutor their children at home, choose and pay for tools, supervise or fail to notice what those tools do, and receive whatever their school communicates about AI. The page collects the evidence on AI-mediated parent–child [[intelligent-tutoring|tutoring]] and [[conversational-ai|conversational]] companions used in the home, on the handoffs between home and school, on parents' own [[ai-literacy]], and on the [[equity-in-ai-education|equity]] consequences of home devices, connectivity and cost. Its scope is the family as an actor — what families do with AI, what reaches them from school, and what the research does and does not establish about the results.

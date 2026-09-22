@@ -11,6 +11,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
+reviewed_by: [editor]
 ---
 
 > **Assessment** — the process of gathering and interpreting evidence about what learners know and can do, and the methods used to evaluate learning. [[ai-education]] has fundamentally reshaped assessment: it powers [[automated-assessment|automated grading and scoring]], generates and adapts assessment items, and raises deep questions about what assessments actually measure when students can use AI. Assessment is the umbrella concept that organizes the knowledge base's coverage of [[formative-assessment]], [[automated-assessment|automated grading]], [[assessment-validity|validity]], and [[educational-measurement]].

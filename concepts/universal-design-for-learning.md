@@ -9,6 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 audience: [learners]
 level: [special education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Universal Design for Learning (UDL)** — an educational framework that designs instruction to be accessible and effective for the widest range of learners by proactively building in flexible means of [[student-engagement|engagement]], representation, and action/expression, rather than retrofitting accommodations for individuals.

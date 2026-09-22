@@ -6,6 +6,7 @@ type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Knowledge tracing** — modeling what learners know over time by tracking their performance on exercises and predicting future mastery. It is the knowledge base's richest modeling thread, spanning Bayesian, deep learning, and [[llm|LLM-enhanced]] approaches to tracking student knowledge as it evolves.

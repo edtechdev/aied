@@ -18,6 +18,7 @@ level: [k 12, higher ed]
 audience: [instructors, faculty developers]
 confidence: high
 connected_resources: [edugems]
+reviewed_by: [editor]
 ---
 
 **TeacherServer** is a free collection of AI generators aimed at educators, organised into two sets: fifteen most-used tools for K-12 teachers and fifteen for college faculty, inside a total of 1,194 tools. Each tool is a form: you describe what you need, refine the response in conversation, then save or share the result.

@@ -12,6 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
+reviewed_by: [editor]
 ---
 
 # How Do I Write a Course AI Policy and Communicate It to Students?

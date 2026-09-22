@@ -12,6 +12,7 @@ audience: [instructors, instructional designers, administrators, researchers, le
 page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied]
+reviewed_by: [editor]
 ---
 
 > **Differential effects across learner groups** — what [[ai-education|AI in education]] research finds about how the *use* of AI and its *effects* differ across kinds of learners: [[special-education|students with disabilities]] and [[neurodiversity|neurodivergent students]], second-language and [[multilingual-learning|multilingual learners]], girls and boys, minoritized students, students from lower-income backgrounds, rural students, first-generation students, international students, and [[adult-learning|adult learners]]. The pattern worth carrying away is uneven in two directions at once: some strands have real evidence (disability, language) while others are close to empty (first-generation, international, refugee), and even the strong strands rarely establish that a *group* differs — they establish that a tool helped or harmed a sample of that group, which is a different claim. This page maps what exists, what it shows, and the methodological reasons a group average is not a prediction about a learner.

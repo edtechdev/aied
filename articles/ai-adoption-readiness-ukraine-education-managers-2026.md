@@ -10,6 +10,7 @@ audience: [administrators, researchers]
 level: [higher ed, k 12]
 sources: ['raw/papers/ai-adoption-readiness-ukraine-education-managers-2026.md']
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Kremen and colleagues (2026) surveyed 395 education managers across 23 of Ukraine's 24 administrative regions in September 2025 to measure AI adoption [[governance|readiness]] in a post-Soviet transitional setting. Personal readiness (M=3.83, SD=0.96) significantly exceeded system readiness (M=3.15, SD=0.93) — a 0.68-point gap (d=0.73) — with regulatory absence (58.5%) and digital competency gaps (53.9%) the most prevalent barriers. Latent Class Analysis identified six provisional manager typologies, the Competency-constrained class the largest at 25.6%, and fuzzy-set [[qualitative-research|qualitative comparative analysis]] found no barrier necessary and no configuration sufficient for low readiness. The authors argue for differentiated, typology-based training and stronger regulatory frameworks.

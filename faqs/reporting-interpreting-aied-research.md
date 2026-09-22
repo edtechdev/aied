@@ -11,6 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
+reviewed_by: [editor]
 ---
 
 # What Are Best Practices for Reporting and Interpreting AI in Education Research?

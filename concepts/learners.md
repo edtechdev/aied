@@ -11,6 +11,7 @@ level: [higher ed, k 12, adult learning]
 audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Learners are the primary audience of [[ai-education|AI in education]] — the students in [[k-12]], [[higher-ed]] and [[adult-learning]] whose work, understanding, and sense of self AI now shapes. This page is the umbrella for the knowledge base's learner-side coverage: what learners experience ([[student-experience]]), who they are becoming ([[learner-identity]]), what they still choose ([[agency]]), how they actually interact with the tool ([[student-ai-interaction]]), whether their effort and [[self-regulated-learning|self-regulation]] hold up under it ([[cognitive-offloading]]), and how AI systems model them ([[student-modeling]]). The recurring finding across that research is that the same tool helps and harms different learners differently — gains concentrate where [[prior-knowledge|prior knowledge]], [[ai-literacy|AI literacy]] and verification habits are already present, and reversal concentrates where AI substitutes for the thinking the task was meant to build.

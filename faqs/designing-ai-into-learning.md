@@ -5,6 +5,7 @@ updated: "2026-09-17T02:26:00-04:00"
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
+reviewed_by: [editor]
 ---
 
 # How Should AI Be Designed Into the Learning Experience?

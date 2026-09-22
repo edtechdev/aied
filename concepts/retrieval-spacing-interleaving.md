@@ -11,6 +11,7 @@ level: [higher ed, k 12]
 audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Retrieval, spacing and interleaving** — the three concrete study techniques that make practice effortful and, as a result, make what is learned durable. Retrieval practice asks the learner to produce an answer from memory rather than recognize one; spacing distributes that practice across time instead of massing it into one session; interleaving mixes problem types instead of blocking them. What unites them is a shared signature: each lowers performance *during* practice while raising retention *after* it — the [[transfer-of-learning|performance–learning gap]] in operational form. They are the workhorses of [[cognitive-psychology]], and in [[ai-education|AI-supported learning]] they are the specific behaviors that [[generative-ai|generative AI]] most easily erases, because an [[llm|LLM]] that answers on demand removes the retrieval, flattens the schedule, and smooths away the mixing. This page is the *techniques* page. The principle behind them — Bjork's effort–learning trade-off, why harder practice produces more durable learning — is treated on [[desirable-difficulties]]; this page covers what each technique is, what the corpus's studies measured, and how AI implements or undermines them.

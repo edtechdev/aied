@@ -8,6 +8,7 @@ technology: [adaptive-learning, generative-ai, learning-analytics, llm, multimod
 audience: [instructors, instructional designers]
 level: [higher ed, k 12]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Video in education** — the use of video as a medium for [[teacher-role|teaching]] and learning, and how [[generative-ai|generative AI]] is reshaping it: AI-generated and AI-[[personalized-learning|personalized]] instructional videos, AI avatars and presenters, adaptive video generation, video-based [[learning-analytics|learning analytics]] and attention/[[student-engagement|engagement]] sensing, and AI support for lecture-video consumption. The knowledge base treats video as both an established online-learning medium and a rapidly evolving site of AI innovation, spanning [[online-teaching-and-learning|online]], hybrid, and in-person teaching.

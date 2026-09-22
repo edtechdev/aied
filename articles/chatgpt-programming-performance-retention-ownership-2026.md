@@ -15,6 +15,7 @@ pedagogy: [problem-solving]
 technology: [generative-ai]
 assessment: [learning-gains]
 methods: [quantitative-research]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** In a controlled between-subjects experiment, 55 [[higher-ed|undergraduate]] [[cs-education|computer science]] students at one university completed three introductory C programming tasks with or without ChatGPT-4.5. The AI-assisted group scored 20 points higher on the coding assessment (89% vs. 69%) yet recalled less of the same material immediately (41% vs. 53%) and 48 hours later (39% vs. 52%), and attributed only 45% of the submitted code to themselves against 81% in the no-AI group. Because the loss of recall information over 48 hours did not differ between conditions, the gap reads as weaker encoding during [[cognitive-offloading|AI-assisted work]] rather than faster forgetting, which puts [[generative-ai]] assistance and artifact-based [[assessment]] in direct tension.

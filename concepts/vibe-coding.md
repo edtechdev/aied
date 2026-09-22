@@ -9,6 +9,7 @@ audience: [instructors, curriculum designers, researchers, software developers]
 level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
+reviewed_by: [editor]
 ---
 
 > **Vibe coding** — building software by iteratively prompting a large language model and judging the resulting behavior, without directly reading or editing the underlying source code. Popularized by Andrej Karpathy in 2025 as the workflow where one "forgets the code even exists," vibe coding is the LLM-native realization of natural-language programming and end-user development — framings now treated as synonyms in this knowledge base — in which prose becomes the primary programming interface.

@@ -14,6 +14,7 @@ audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/chatgpt-music-education-junior-high-2026.md']
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Weng and Chiang asked 508 Taiwanese junior high school students what shaped their attitude toward using [[generative-ai|ChatGPT]] for lyric learning, and answered by welding experiential marketing (XM) — Sense, Feel, Think, Act and Relate — onto the [[technology-acceptance-model|Technology Acceptance Model]]. Structural equation modeling shows the integrated model explaining 53% of the variance in attitude toward use and 63.4% in perceived enjoyment, with XM → PEOU the strongest path (Std. β = 0.630, p < 0.001). Enjoyment mediated the link from experience to attitude (PE → ATU, Std. β = 0.369, p < 0.001), and intention to use followed attitude (b = 0.716, p < 0.001). The paper argues that rational acceptance constructs under-explain emotion-driven coursework, so emotional involvement and [[prompt-engineering|prompt design]] are instructional variables rather than backdrop. It is cross-sectional and single-region, and never names the ChatGPT model version students used, so the emotional mechanism is well-evidenced while causal and technical claims stay modest.

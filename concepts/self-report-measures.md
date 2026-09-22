@@ -13,6 +13,7 @@ page_kind: [evaluation]
 connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-learn, reporting-interpreting-aied-research]
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
+reviewed_by: [editor]
 ---
 
 > **Self-report measures** — instruments in which the person being studied is also the source of the data: questionnaires and surveys, interviews, diaries, self-assessed competence, self-estimated usage, perceived learning, and satisfaction. They are the workhorse of [[ai-education|AI in education]] research — in this knowledge base 139 article pages carry a survey method tag, more than any design except experiment and [[benchmark]] — and they are the only practical way to reach attitudes, beliefs, intentions, and [[self-efficacy]]. Their limit is categorical rather than statistical: a self-report cannot measure behavior or learning, only what someone says about behavior or learning, and the two come apart in this research base often enough to be a finding in its own right.

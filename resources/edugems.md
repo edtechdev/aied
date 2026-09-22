@@ -17,6 +17,7 @@ level: [k 12]
 audience: [instructors, curriculum designers, learners]
 confidence: high
 connected_resources: [teacherserver, id-toolbox]
+reviewed_by: [editor]
 ---
 
 **EduGems** is a collection of pre-made prompts — "Gems" — for educators using Google Gemini. Each entry has its own page with a description and buttons to use the Gem or make your own copy, so a teacher can run a working prompt in Gemini without writing one from scratch.

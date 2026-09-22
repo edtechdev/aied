@@ -9,6 +9,7 @@ technology: [generative-ai]
 discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Problem-based learning (PBL)** — a learner-centered pedagogy in which students acquire knowledge and skills by working to understand and resolve a realistic, often ill-structured problem, with a facilitator guiding inquiry rather than delivering instruction. In the AI era, PBL's structural features — problem-driven inquiry, [[collaborative-learning|collaborative knowledge construction]], facilitation over instruction, and [[metacognition|metacognitive reflection]] — have emerged as the same conditions under which [[generative-ai|generative AI]] integration becomes educationally productive rather than substitutive.

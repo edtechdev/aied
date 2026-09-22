@@ -6,6 +6,7 @@ type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Distributed Cognition** — the theoretical perspective that cognition is not confined to an individual mind but is distributed across people, tools, artifacts, and environments. In AI-in-education [[research-methods-aied|research]], this framework has become central for understanding [[human-ai-collaboration|human–AI collaboration]]: rather than viewing AI as a neutral tool that supports an otherwise self-contained learner, distributed cognition treats thinking as emerging from the interplay between learners, AI systems, peers, and their shared context. It reframes questions of [[agency]], responsibility, and [[learning-gains|learning outcomes]] in terms of how cognitive work is apportioned across a human–AI system.

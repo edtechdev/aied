@@ -8,6 +8,7 @@ pedagogy: [learning-theories]
 assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Theories and frameworks** — the map of the explanatory and organizational structures this knowledge base uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); measurement models make learning claims testable ([[item-response-theory|item response theory]], [[assessment-validity]], [[self-report-measures]]). Use this page when you want to know which lens a finding rests on — and what that lens can and cannot support.

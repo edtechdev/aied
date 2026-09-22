@@ -10,6 +10,7 @@ discipline: [medical education]
 audience: [learners, instructors]
 level: [higher ed]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Medical and Health Professions Education (HPE)** — the teaching and training of medical, nursing, pharmacy, and allied health professionals. AI is reshaping this domain through clinical [[simulation]], [[reinforcement-learning|reinforcement learning]] trainers, [[adaptive-learning|adaptive learning]], and the application of foundational learning principles (experiential, situated, and distributed cognition) in health-professions contexts. Because HPE is high-stakes, competency-based, and clinically embedded, it raises distinct questions about AI's role in skill acquisition, patient safety, and the educator's judgment. Nursing, the most heavily studied program in HPE, now has a page of its own — [[nursing-education]] — where the competence boundary, identity-formation, and workforce evidence that this page carries only in outline is developed in full.

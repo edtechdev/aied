@@ -9,6 +9,7 @@ technology: [adaptive-learning, generative-ai, human-in-the-loop-ai, learning-an
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, formative-assessment]
 connected_faqs: [ai-feedback-at-scale]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Formative assessment** — assessment designed to inform ongoing instruction and learning, as opposed to [[summative-assessment|summative]] evaluation. In AI education, formative assessment is both transformed by AI and essential to it: AI systems can generate, validate, and adapt formative items and feedback at scale, while formative feedback is a primary mechanism through which [[intelligent-tutoring|AI tutors]] and [[adaptive-learning|adaptive systems]] support learning. The knowledge base's [[research-methods-aied|research]] examines AI-generated formative items, AI-generated feedback, and the design and evaluation of these systems.

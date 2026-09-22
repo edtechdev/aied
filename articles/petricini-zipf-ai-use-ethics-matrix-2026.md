@@ -11,6 +11,7 @@ assessment: [assessment, evaluative-judgment]
 technology: [generative-ai]
 level: [higher ed]
 audience: [instructors, instructional designers]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Petricini and Zipf argue that the ethical problem in AI-mediated classrooms is a design problem, not a compliance problem. From prior empirical work and 30 student interviews they build the AI-Use Ethics Matrix, plotting students' intention and effort against the clarity and support of institutional guidance to yield four quadrants: Virtuous Tool Use, Anxious Compliance, Opportunistic Shortcuts, and Efficient Circumvention. Their central claim is that ethical [[generative-ai]] use is an emergent property of learning environments rather than a trait of individual students: intention without clarity produces uncertainty and risk, while clarity without intention produces compliance without learning. Prohibition and detection fail, they argue, because those responses judge outputs rather than intentions and because surveillance communicates distrust, pushing legitimate AI use underground. The matrix is offered as a generative design tool and translated into three interlocking principles — explicit, pedagogically grounded guidance; process-centered assignments; and conditions that cultivate student [[agency]].

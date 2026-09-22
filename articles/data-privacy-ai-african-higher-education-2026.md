@@ -12,6 +12,7 @@ audience: [instructors, administrators, policymakers, learners]
 level: [higher ed]
 sources: ['raw/papers/data-privacy-ai-african-higher-education-2026.md']
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Duncan (2026) conducted a [[meta-analysis-systematic-review|qualitative meta-synthesis]] of 18 studies published between 2020 and 2025 on how students and educators in Sub-Saharan African higher education perceive [[privacy|data privacy]] in AI-enhanced learning and how that shapes adoption. Following PRISMA 2020 and the ENTREQ framework, a search of ERIC and PubMed identified 103 records; after duplicate removal 94 unique studies remained, 70 were excluded at title-and-abstract screening, 24 went to full-text assessment, and 6 more were excluded, leaving 18. Coding in ATLAS.ti used open, axial, and selective coding, interpreted through Privacy Calculus Theory and Contextual Integrity Theory. Students clustered around data security and control, transparency and consent, fear of misuse and surveillance, and infrastructural and data-literacy vulnerability. Educators emphasized institutional accountability, consent and student rights, capacity and training, and risk–benefit balancing. Both groups recognized risk and demanded stronger safeguards, but students foregrounded personal control while educators foregrounded [[governance]] and compliance, with privacy concerns reducing [[trust]] and constraining adoption.

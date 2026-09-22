@@ -9,6 +9,7 @@ technology: [affective-computing]
 connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Motivation** — the psychological processes that initiate, direct, and sustain goal-directed behavior. In [[ai-education|AI in education]], motivation [[research-methods-aied|research]] examines how AI tools affect learners' and teachers' motivation — whether AI [[scaffolding|scaffolds]] or undermines persistence, curiosity, and intrinsic engagement — and how motivational states shape the effectiveness of AI-mediated learning.

@@ -7,6 +7,7 @@ foundations: [agentic-ai, teacher-role]
 technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge-tracing, llm, pedagogical-agent, simulation, student-modeling]
 audience: [instructors]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Simulating students** — using LLM-based agents to model learner behavior, cognition, and social dynamics for educational research, design, and training. Simulated students let researchers evaluate pedagogical approaches, model diverse learner profiles, test educational AI before deployment, and train teachers — tasks that are difficult, slow, or ethically constrained to do systematically with real learners.

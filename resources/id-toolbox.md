@@ -17,6 +17,7 @@ level: [higher ed]
 audience: [instructional designers, faculty developers, educational technology developers]
 confidence: high
 connected_resources: [drawsplat, lesson-md, edugems]
+reviewed_by: [editor]
 ---
 
 **The ID Toolbox** is a growing set of free, single-purpose utilities for the parts of instructional design that are tedious rather than creative. Nothing requires an account or an email, and the tools that read your files run entirely in the browser, so a draft course never has to be uploaded anywhere.

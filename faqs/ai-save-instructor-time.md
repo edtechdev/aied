@@ -6,6 +6,7 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
+reviewed_by: [editor]
 ---
 
 # How Can AI Save Me Time as an Instructor?

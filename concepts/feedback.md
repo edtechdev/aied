@@ -6,6 +6,7 @@ type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Feedback** — information provided to a learner about their performance or understanding that is intended to close the gap between current and desired performance. In [[ai-education|AI in education]], feedback has become a central and rapidly transforming theme: [[ai-technologies|AI systems]] now generate, deliver, and even teach students how to use feedback, reshaping every stage of the feedback process.

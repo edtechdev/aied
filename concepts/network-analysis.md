@@ -6,6 +6,7 @@ type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
+reviewed_by: [editor]
 ---
 
 > **Network analysis** — the family of [[research-methods-aied|research methods]] that model entities (people, concepts, actions, or codes) as **nodes** connected by **edges** representing relationships or transitions, then analyze the structure and dynamics of the resulting network to reveal patterns invisible to frequency counts or pairwise comparisons. In AI-in-education research, network analysis is used to map interaction patterns between learners and AI tools, model how knowledge or discourse elements co-occur, and trace temporal sequences of behavior. It includes distinct variants — **Epistemic Network Analysis** (ENA, modeling the co-occurrence of codes/constructs), **Social Network Analysis** (SNA, modeling relationships between people), and **Transition Network Analysis** (TNA, modeling temporal sequences of states) — each of which operationalizes "learning as connection" in a different way.([[tracing-genai-literacy-interaction-patterns]])([[penny-transition-network-analysis-efl-writing-2026]])([[misiejuk-cognitive-offloading-prompting-2026]])

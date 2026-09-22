@@ -19,6 +19,7 @@ confidence: high
 connected_resources: [playlab]
 connected_faqs: [designing-ai-into-learning, designing-educational-ai-software]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

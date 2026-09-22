@@ -18,6 +18,7 @@ level: [higher ed]
 audience: [instructors, librarians]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
+reviewed_by: [editor]
 ---
 
 **Pressing Prompts** is an openly accessible teaching resource for higher education instructors who want to run critical conversations about AI. Thirteen topics sit in three clusters — *Trust and Truth* (can we trust AI, bias, disinformation), *Power and Access* (sustainability, hidden labour, the AI divide, copyright) and *Self and Society* (whether AI harms critical thinking, privacy and surveillance, companionship and sycophancy).

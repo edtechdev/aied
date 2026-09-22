@@ -11,6 +11,7 @@ assessment: [assessment]
 institutions: [change-management]
 level: [higher ed]
 audience: [instructors, faculty developers, administrators]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Zimmer argues that [[generative-ai]] disrupted [[higher-ed|higher education]] faster than institutions could respond, and that the answer is not top-down strategy but educator-led "AI intrapreneurship." Drawing on intrapreneurship theory (Pinchot, 1985; Neessen et al., 2019), he defines it across three interdependent modes: building AI-powered [[pedagogy|pedagogical]] tools, building AI-resilient [[assessment]] and learning strategies, and reclaiming bandwidth by using AI to cut administrative burden. The case rests on a documented gap — 72% of surveyed US instructors have used generative AI for at least one instructional purpose, yet only 14% feel confident using it for teaching — and on his claim that AI both created the disruption and lowered the barrier to answering it, through [[vibe-coding]] and no-code building. He maps concrete use cases and organizational enablers, then concludes that universities must learn to recognize, support and scale faculty-built innovation or "risk being innovated around by their own faculty." Students and employers, he warns, may otherwise stop treating the degree as evidence of learning.

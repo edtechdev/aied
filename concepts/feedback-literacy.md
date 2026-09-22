@@ -9,6 +9,7 @@ pedagogy: [self-regulated-learning]
 assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessment, peer-assessment]
 discipline: [writing education]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Feedback literacy** — the capabilities and dispositions students need to understand, evaluate, and act on feedback to improve their learning. It is the learner-side counterpart to feedback provision: whereas [[ai-feedback-quality]] and [[feedback|Feedback Loop]] concern the quality and mechanics of the feedback system, feedback literacy concerns the learner's capacity to seek, make sense of, judge, and use feedback productively.

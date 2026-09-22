@@ -5,6 +5,7 @@ updated: "2026-09-19T21:07:40-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
+reviewed_by: [editor]
 ---
 
 > **Learner modeling and adaptive instruction** — the umbrella for how AI represents learners (what they know, feel, and need) and how it uses those representations to adapt [[teacher-role|teaching]]. The family spans the *modeling* layer — **student modeling**, [[knowledge-tracing]], [[cognitive-diagnosis]], and [[simulating-students|simulating students]] — and the *adaptive systems* that consume those models — [[intelligent-tutoring]], [[adaptive-learning]], and [[personalized-learning]]. The shared question: *how does a system know what a learner knows, and what should it teach next?*

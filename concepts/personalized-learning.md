@@ -9,6 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, person
 audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Personalized learning** — tailoring educational experiences to individual [[student-modeling|learner profiles]], including prior knowledge, learning pace, preferences, and [[affective-computing|affective]] states. AI enables personalization at scale, though the gap between *system personalization* and *learner-perceived personalization* remains an open measurement challenge. Alongside [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]], it is one of the application-side members of the [[student-modeling|learner modeling and adaptive instruction]] family — consuming learner models to adapt instruction.

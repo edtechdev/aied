@@ -13,6 +13,7 @@ institutions: [educational-policy-ai, governance]
 ethics: [differential-effects-across-learner-groups, equity-in-ai-education, privacy, pedagogical-safety]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
 confidence: medium
+reviewed_by: [editor]
 ---
 
 > **Levels of education** — the bands that organize this knowledge base's `level` metadata: **preschool**, **primary education**, **middle school**, **secondary**, **k 12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education** and **[[teacher-role|teacher]] education**. This page is the umbrella for that field rather than a duplicate of any single band page: it explains what changes as you move across the bands, why the school/university break matters more than the subject being taught, and where the AI evidence is dense and where it is thin.

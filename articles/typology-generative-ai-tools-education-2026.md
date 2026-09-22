@@ -19,6 +19,7 @@ confidence: high
 connected_resources: [gemini-notebook]
 connected_faqs: [study-with-ai, ai-save-instructor-time]
 contributors: [editor]
+reviewed_by: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting

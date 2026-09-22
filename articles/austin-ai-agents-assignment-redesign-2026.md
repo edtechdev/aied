@@ -11,6 +11,7 @@ assessment: [evaluative-judgment, authentic-assessment]
 technology: [generative-ai, llm]
 level: [higher ed]
 audience: [instructors, instructional designers]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Austin argues that [[agentic-ai]] tools built on Anthropic Claude, OpenAI Codex, and browser-integrated systems such as Perplexity Comet can independently navigate course [[edtech-platform|platforms]], complete multi-step workflows, and submit finished work, making the assignment workflow itself — not the paragraph or essay — the unit of concern. The problem she names is narrower than cheating: most tasks measure completion rather than thinking, so polished output has become a false signal of understanding. Rather than petitioning vendors or relying on [[ai-detection|detection]] that judge the product, she proposes the Multi-Stage [[student-ai-interaction|AI Interaction]] Model and the UnBlooms™ Framework, which design tasks around agents' structural weaknesses: no lived memory, confident ignorance, inconsistency across linked responses, and no local knowledge. Practitioners get redesigns across disciplines, a five-level scale for assessing AI-mediated thinking, and a Discernment Rate offered as a classroom-level signal. The contribution is a shift from prohibition and detection toward what instructors control: the structure of the work they assign.
