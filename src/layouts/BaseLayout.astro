@@ -1521,7 +1521,12 @@ const recentConceptItems = recentConcepts.map(c => ({
         const SEARCH_MIN = 160;
         const searching = Boolean(search && search.offsetParent);
         const used = (left ? left.offsetWidth : 0) + (searching ? SEARCH_MIN : 0);
-        const available = container.clientWidth - pad - used - gap * 2;
+        // Measure against the VIEWPORT, not the container's own width: once the row
+        // overflows, the container is as wide as its contents, so comparing against it
+        // reports "fits" while the last controls sit past the right edge — the loop
+        // then never gives anything up and the header pushes the page sideways.
+        const viewport = document.documentElement.clientWidth;
+        const available = Math.min(container.clientWidth, viewport) - pad - used - gap * 2;
         for (const el of giveUp) {
           if (rowWidth(gap) <= available) break;
           slot.appendChild(el);

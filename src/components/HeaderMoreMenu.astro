@@ -86,7 +86,10 @@ const ui = strings(locale).ui;
   .more-panel[hidden] {
     display: none;
   }
-  /* Items that did not fit the row: one icon per row, no visible labels. */
+  /* Items that did not fit the row: one icon per row, no visible labels. Each row is
+     the control's own box, so centre its glyph exactly as the header row does — a
+     flex-start override here sits the link icons ~6px left of the language globe,
+     because that control carries its own inline padding. */
   .more-slot {
     display: flex;
     flex-direction: column;
@@ -94,11 +97,21 @@ const ui = strings(locale).ui;
     gap: 0.15rem;
   }
   .more-slot :global(a),
-  .more-slot :global(button),
+  .more-slot :global(button) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   .more-slot :global(.lang-switcher) {
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: center;
+  }
+  /* The globe button's own inline padding is what offsets it inside its box; drop it
+     in the panel so its glyph lands on the same centre line as the rows above. */
+  .more-slot :global(.lang-toggle) {
+    padding-inline: 0;
+    justify-content: center;
   }
 </style>
 
