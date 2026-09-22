@@ -4,6 +4,29 @@
   "brandName": "AIEd Knowledge Base",
   "description": "A knowledge base on artificial intelligence in education.",
   "lang": "en",
+  "i18n": {
+    "defaultLocale": "en",
+    "fallbackLocale": "en",
+    "hideDefaultLocalePrefix": true,
+    "locales": [
+      {
+        "code": "en",
+        "label": "English"
+      },
+      {
+        "code": "es",
+        "label": "Español"
+      },
+      {
+        "code": "fr",
+        "label": "Français"
+      },
+      {
+        "code": "zh",
+        "label": "中文"
+      }
+    ]
+  },
   "url": "https://edtechdev.github.io/aied",
   "basePath": "/aied",
   "repoUrl": "https://github.com/edtechdev/aied",

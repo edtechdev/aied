@@ -36,6 +36,10 @@ import glob
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 FACET_VOCAB_TS = os.path.join(ROOT, 'src', 'data', 'facetVocab.ts')
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
+# Translated content lives in locale folders mirroring the content root
+# layout). Its facet values are copied from the English page and
+# must be valid slugs too, so they are validated here.
+LOCALE_DIRS = ('es', 'fr', 'zh')
 OTHER_FIELDS = ('discipline', 'level', 'audience', 'research_method', 'page_kind')
 
 
@@ -73,7 +77,7 @@ def main():
     errors = []
     warnings = []
     checked = 0
-    for collection in COLLECTIONS:
+    for collection in [*COLLECTIONS, *(os.path.join(l, c) for l in LOCALE_DIRS for c in COLLECTIONS)]:
         for path in sorted(glob.glob(os.path.join(ROOT, collection, '*.md'))):
             fm = frontmatter(path)
             if fm is None:

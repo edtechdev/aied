@@ -10,11 +10,60 @@ import StarredPages from '../components/StarredPages.astro';
 import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
 import InstallPrompt from '../components/InstallPrompt.astro';
+import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import { TRANSLATED_ROUTES, localeHref, localizeHref, translationMapFrom } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
 import siteConfig from '../config/siteConfig';
 import 'katex/dist/katex.min.css';
 
-const { title = siteConfig.name, description = siteConfig.name, hideHeaderSearch = false, toc = [] } = Astro.props;
+const {
+  title = siteConfig.name,
+  description = siteConfig.name,
+  hideHeaderSearch = false,
+  toc = [],
+  // i18n: the locale this page is rendered in, and the site-relative route it
+  // corresponds to (used by the language switcher to link the same page in the
+  // other languages). `route` defaults to the current URL minus base path and
+  // locale prefix, so translated pages do not have to pass it.
+  locale = siteConfig.i18n.defaultLocale,
+  route,
+} = Astro.props;
+
+// Site-relative route of this page, e.g. '/' , '/ai' , '/search'.
+const routeFromUrl = (() => {
+  const base = siteConfig.basePath;
+  let p = Astro.url.pathname;
+  if (base && p.startsWith(base)) p = p.slice(base.length);
+  const segs = p.split('/').filter(Boolean);
+  const codes = siteConfig.i18n.locales.map((l) => l.code);
+  if (segs.length && codes.includes(segs[0]) && segs[0] !== siteConfig.i18n.defaultLocale) segs.shift();
+  return '/' + segs.join('/');
+})();
+const pageRoute = route ?? (routeFromUrl === '/' ? '/' : routeFromUrl);
+// Translated content pages (es/fr/zh folders). The map drives the language
+// switcher and the hreflang alternates, so a translated FAQ links to its
+// counterparts in the other languages and an untranslated page does not.
+const translations = await getCollection('translations');
+const translationMap = translationMapFrom(translations as any);
+
+// The language switcher is offered where a translation is meaningful: the three
+// page-level routes and the concept, FAQ and resource pages. Article pages are
+// hundreds of single-paper summaries that are not translated, so the switch would
+// only ever say "English only" there — it is hidden instead. The header holds no
+// switcher either: at narrow widths it pushed the theme toggle off screen, so it
+// lives at the top of the right sidebar (desktop-tall layouts, >= 1280px) and above
+// "On this page" in the content column below that.
+const showSwitcher =
+  pageRoute === '/' ||
+  (TRANSLATED_ROUTES as readonly string[]).includes(pageRoute) ||
+  /^\/(concepts|faqs|resources)\//.test(pageRoute);
+
+const translatedLocales = siteConfig.i18n.locales.filter(
+  (l) =>
+    l.code === siteConfig.i18n.defaultLocale ||
+    (TRANSLATED_ROUTES as readonly string[]).includes(pageRoute) ||
+    !!translationMap[l.code]?.includes(pageRoute),
+);
 
 const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
@@ -106,8 +155,18 @@ const recentConceptItems = recentConcepts.map(c => ({
 ---
 
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang={locale} data-theme="dark">
 <head>
+  {/* hreflang alternates: every locale that has this page, plus x-default at the
+      default locale — the behaviour wanted for a partially translated site. */}
+  {translatedLocales.length > 1 && (
+    <>
+      {translatedLocales.map((l) => (
+        <link rel="alternate" hreflang={l.code} href={siteConfig.url + localeHref(pageRoute, l.code).slice(siteConfig.basePath.length)} />
+      ))}
+      <link rel="alternate" hreflang="x-default" href={siteConfig.url + localeHref(pageRoute, siteConfig.i18n.defaultLocale).slice(siteConfig.basePath.length)} />
+    </>
+  )}
   <script is:inline>
     // Embed mode: if the URL carries ?embed (or ?embed=1), mark <html> and force
     // light mode BEFORE first paint so the chromeless page never flashes dark.
@@ -940,6 +999,25 @@ const recentConceptItems = recentConcepts.map(c => ({
       max-width: 70rem;
     }
 
+    /* Language switcher: not in the header (it pushed the theme toggle off screen at
+       narrow widths). One instance sits at the top of the right sidebar on tall
+       layouts and one above "On this page" in the content column below that; only
+       one of the two is ever displayed. */
+    .lang-switcher-slot {
+      margin-bottom: 1rem;
+    }
+    .lang-switcher-slot.lang-switcher-sidebar {
+      display: none;
+    }
+    @media (min-width: 1280px) {
+      .lang-switcher-slot.lang-switcher-sidebar {
+        display: block;
+      }
+      .lang-switcher-slot.lang-switcher-inline {
+        display: none;
+      }
+    }
+
     /* === Right column: single scrollable pane (TOC + recent activity) === */
     .right-col {
       padding-left: 0.5rem;
@@ -1147,7 +1225,7 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="3" y1="18" x2="21" y2="18" />
           </svg>
         </button>
-        <a href={`${siteConfig.basePath}/`} class="brand-link">
+        <a href={localeHref('/', locale)} class="brand-link">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" class="brand-logo" role="img" aria-label={`${siteConfig.brandName} logo`}>
             <!-- Rounded-square tile: background + border follow the light/dark theme. -->
             <rect x="0" y="0" width="96" height="96" rx="22" fill="var(--logo-bg)" />
@@ -1189,26 +1267,26 @@ const recentConceptItems = recentConcepts.map(c => ({
         </div>
       )}
       <nav class="header-icons" aria-label="Knowledge base tools">
-        <a href="/aied/ai" class="header-icon" title="Chat with AI" aria-label="Chat with AI">
+        <a href={localizeHref('/aied/ai', locale)} class="header-icon" title="Chat with AI" aria-label="Chat with AI">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path>
             <path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"></path>
           </svg>
         </a>
-        <a href="/aied/search" class="header-icon" title="Search" aria-label="Search">
+        <a href={localizeHref('/aied/search', locale)} class="header-icon" title="Search" aria-label="Search">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="11" cy="11" r="8"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
         </a>
-        <a href="/aied/faq" class="header-icon" title="FAQ" aria-label="FAQ">
+        <a href={localizeHref('/aied/faq', locale)} class="header-icon" title="FAQ" aria-label="FAQ">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="12" cy="12" r="10"></circle>
             <path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path>
             <line x1="12" y1="17" x2="12.01" y2="17"></line>
           </svg>
         </a>
-        <a href="/aied/resources" class="header-icon" title="Tools and resources" aria-label="Tools and resources">
+        <a href={localizeHref('/aied/resources', locale)} class="header-icon" title="Tools and resources" aria-label="Tools and resources">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M2 9a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v9a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2z"></path>
             <path d="M8 8V6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5V8"></path>
@@ -1217,7 +1295,7 @@ const recentConceptItems = recentConcepts.map(c => ({
             <line x1="17" y1="12.5" x2="17" y2="14.5"></line>
           </svg>
         </a>
-        <a href="/aied/journal" class="header-icon" title="Journal" aria-label="Journal">
+        <a href={localizeHref('/aied/journal', locale)} class="header-icon" title="Journal" aria-label="Journal">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
             <path d="M11.998 2.5A9.503 9.503 0 0 0 3.378 8H5.75a.75.75 0 0 1 0 1.5H2a1 1 0 0 1-1-1V4.75a.75.75 0 0 1 1.5 0v1.697A10.997 10.997 0 0 1 11.998 1C18.074 1 23 5.925 23 12s-4.926 11-11.002 11C6.014 23 1.146 18.223 1 12.275a.75.75 0 0 1 1.5-.037 9.5 9.5 0 0 0 9.498 9.262c5.248 0 9.502-4.253 9.502-9.5s-4.254-9.5-9.502-9.5Z"></path>
             <path d="M12.5 7.25a.75.75 0 0 0-1.5 0v5.5c0 .27.144.518.378.651l3.5 2a.75.75 0 0 0 .744-1.302L12.5 12.315V7.25Z"></path>
@@ -1295,6 +1373,11 @@ const recentConceptItems = recentConcepts.map(c => ({
 
       <!-- Middle: page content -->
       <div class="middle">
+        {showSwitcher && (
+          <div class="lang-switcher-slot lang-switcher-inline">
+            <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} align="left" />
+          </div>
+        )}
         {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
         <slot />
         <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} />
@@ -1304,6 +1387,11 @@ const recentConceptItems = recentConcepts.map(c => ({
            On mobile this rail stacks below the content in the single-column
            grid, so the recent lists also appear below the page there. -->
       <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
+        {showSwitcher && (
+          <div class="lang-switcher-slot lang-switcher-sidebar">
+            <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} align="left" />
+          </div>
+        )}
         {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} />}
         <div class="recent-rail">
           <RecentActivity pages={recentPageItems} concepts={recentConceptItems} />

@@ -1,0 +1,23 @@
+---
+// Notice shown at the top of a translated page: the page is translated, the rest
+// of the knowledge base is not (yet). Empty string = render nothing, which is what
+// the default locale uses.
+const { locale, html } = Astro.props;
+const show = locale !== 'en' && !!html;
+---
+
+{show && <p class="translation-notice" set:html={html} />}
+
+<style>
+  .translation-notice {
+    margin: 0 0 1.25rem 0;
+    padding: 0.7rem 0.9rem;
+    border: 1px solid var(--card-border-color);
+    border-left: 3px solid var(--primary);
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--primary) 6%, transparent);
+    color: var(--muted-color);
+    font-size: 0.9rem;
+    line-height: 1.6;
+  }
+</style>

@@ -1,0 +1,93 @@
+---
+// A translated content page (FAQ, concept or resource) rendered from a locale
+// folder: fr/faqs/x.md, es/concepts/y.md, zh/resources/z.md. It mirrors the English
+// page's chrome so a translation looks like the page it translates, and adds a note
+// that the surrounding knowledge base is in English.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import MetadataTable from '../MetadataTable.astro';
+import SourceButtons from '../SourceButtons.astro';
+import { renderMarkdown } from '../../lib/markdown';
+import { strings } from '../../i18n';
+
+const { entry, locale, pageType } = Astro.props;
+const s = strings(locale).ui;
+const data = entry.data;
+const slug = entry.id.split('/').pop().replace(/\.md$/, '');
+const translationOf = data.translation_of || `${pageType}/${slug}`;
+const englishPath = `/aied/${translationOf}/`;
+
+const concepts = await getCollection('concepts');
+const articles = await getCollection('articles');
+const faqs = await getCollection('faqs');
+const titles: Record<string, string> = {};
+[...concepts, ...articles, ...faqs].forEach((c) => {
+  titles[c.id.replace(/\.md$/, '')] = c.data.title;
+});
+const conceptTitles: Record<string, string> = Object.fromEntries(
+  concepts.map((c) => [c.id.replace(/\.md$/, ''), c.data.title]),
+);
+const rendered = renderMarkdown(entry.body || '', {
+  pageTitle: data.title,
+  articleSlugs: new Set(articles.map((a) => a.id.replace(/\.md$/, ''))),
+  conceptSlugs: new Set(concepts.map((c) => c.id.replace(/\.md$/, ''))),
+  faqSlugs: new Set(faqs.map((f) => f.id.replace(/\.md$/, ''))),
+  titles,
+});
+const toc = rendered.headings.filter((h) => h.depth <= 3);
+const badge = pageType.replace(/s$/, '').toUpperCase();
+const createdDisplay = (data.created || '').split('T')[0];
+const updatedDisplay = (data.updated || data.created || '').split('T')[0];
+---
+
+<BaseLayout title={data.title} locale={locale} toc={toc} route={`/${translationOf}`}>
+  <TranslationNotice
+    locale={locale}
+    html={`${s.translationNoticeHtml} <a href="${englishPath}">${s.originalPageLabel}</a>`}
+  />
+  <article data-pagefind-filter={`page_type:${pageType.replace(/s$/, '')}`}>
+    <div class="page-header" id="top">
+      <p class="page-type-badge">{badge}</p>
+      <h1>{data.title}</h1>
+      <div class="page-meta">
+        created {createdDisplay}{data.updated ? ` · updated ${updatedDisplay}` : ''}
+      </div>
+      {pageType === 'resources' && data.url && (
+        <p class="resource-line">
+          <a href={data.url}>{data.url.replace(/^https?:\/\//, '')}</a>
+          {data.author ? ` · ${data.author}` : ''}
+          {data.access ? ` · ${(data.access || []).join(', ')}` : ''}
+          {data.last_verified ? ` · last verified ${data.last_verified}` : ''}
+        </p>
+      )}
+    </div>
+
+    <div style="line-height:1.8" data-pagefind-body>
+      <Fragment set:html={rendered.html} />
+    </div>
+
+    <MetadataTable conceptTitles={conceptTitles} data={data} />
+    <SourceButtons filePath={`${locale}/${translationOf}.md`} />
+  </article>
+</BaseLayout>
+
+<style>
+  .page-type-badge {
+    font-size: 0.8rem;
+    color: var(--muted-color);
+    margin-bottom: 0.25rem;
+    letter-spacing: 0.04em;
+  }
+  .page-meta {
+    color: var(--muted-color);
+    font-size: 0.9rem;
+    margin-bottom: 0.75rem;
+  }
+  .resource-line {
+    font-size: 0.9rem;
+    color: var(--muted-color);
+    margin: 0 0 0.75rem 0;
+    word-break: break-word;
+  }
+</style>

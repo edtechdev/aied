@@ -1,0 +1,21 @@
+---
+// Translated concept page, e.g. /aied/es/concepts/<slug>/.
+// The file lives at <locale>/concepts/<slug>.md and declares `translation_of: concepts/<slug>`.
+import { getCollection } from 'astro:content';
+import TranslatedPage from '../../../components/pages/TranslatedPage.astro';
+
+export async function getStaticPaths() {
+  const translations = await getCollection('translations');
+  return translations
+    .filter((e) => e.id.split('/')[1] === 'concepts')
+    .map((e) => ({
+      params: { locale: e.id.split('/')[0], slug: e.id.split('/')[2].replace(/\.md$/, '') },
+      props: { entry: e },
+    }));
+}
+
+const { locale } = Astro.params;
+const { entry } = Astro.props;
+---
+
+<TranslatedPage entry={entry} locale={locale} pageType="concepts" />

@@ -9,7 +9,9 @@ rule for body prose, section headings, and Connected-list blurbs.
 
 Scope and exclusions
 --------------------
-* Scans `articles/`, `concepts/`, `faqs/` body prose only.
+* Scans `articles/`, `concepts/`, `faqs/` body prose only. The locale folders
+* (es/, fr/, zh/) are deliberately out of scope: that prose is not English, so a
+* British-spelling rule has nothing to say about it.
 * Skips frontmatter (facet values and `sources:` are slugs/paths, never prose).
 * Skips everything from `## Citation` onward - a citation reproduces the
   published record verbatim and must never be respelled.
