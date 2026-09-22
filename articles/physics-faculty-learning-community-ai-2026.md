@@ -22,6 +22,7 @@ connected_faqs: [faculty-development-ai, faculty-ai-competencies]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Perl-Nussbaum and Finkelstein document one department's answer to [[generative-ai]] arriving before anyone was ready: a faculty learning community of six biweekly sessions in which physics faculty read their own local data, tested AI against real anonymized student homework in small groups, and built a shared resource repository rather than receiving a training package. The design follows their framework for [[change-management|institutional change]] in the AI era, treating AI as an arrival technology that bypasses the usual evidence base and repositioning the workshop leaders from experts to facilitators of collective inquiry. Sessions moved through course policy, classroom conversation, homework correction, AI-integrated tasks, and assessment, with students treated as partners whose reported use set the agenda.

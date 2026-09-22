@@ -26,6 +26,7 @@ ai_assist:
     agent: hermes-agent
 source_depth: full text
 verified: [citation, numbers, links]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** Sixty-nine [[higher-ed|university students]] were randomized into a 2 × 2 design crossing access to simulation parameter controls with access to an optional [[conversational-ai|conversational agent]]; fifty-five were analyzed. Every condition improved from pretest to posttest, but after controlling for [[prior-knowledge|prior knowledge]] neither choice made a reliable difference to [[learning-gains|learning gains]] — offering control did not, on its own, change what students learned. What did track gains was the interaction logs: time spent manipulating parameters in the most conceptually complex lesson predicted higher gains, the same behavior in the easier lesson predicted lower ones, and engagement with the optional agent was so uneven (0 to 32 questions per learner) that it bore no relation to outcomes. The study's argument is that in AI-supported environments [[agency|learner agency]] is a question of [[self-regulated-learning|enactment]], not of whether a choice was offered.

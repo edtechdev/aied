@@ -21,6 +21,7 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
 connected_faqs: [developing-ai-tutor]
+reviewed_by: [editor]
 ---
 
 > **Synthesis:** PIVOT treats the [[video-education|instructional video]] as something to be verified and assessed rather than merely rendered. Its three stages wrap [[generative-ai]] output in a pedagogy-structured storyboard, a [[multimodal]] verification harness, and misconception-aware remediation before a learner ever sees the result. Across 40 STEM topics spanning four domains, PIVOT scored 7.58 on a 10-point frame-level video rubric against 6.62 and 6.20 for two code-centric baselines, and 0.89 on narration quality. In expert evaluation, 96.9% of 32 instructors said the video → quiz → remediation workflow worked better than an instructional video alone, which is the paper's real claim: [[pedagogy|pedagogical]] structure, not rendering fidelity, is what makes generated video teach.
