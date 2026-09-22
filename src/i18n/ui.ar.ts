@@ -27,18 +27,19 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  more: 'More',
-  toolsLink: 'Tools and resources',
-  journalLink: 'Journal',
-  faqLink: 'FAQ',
-  language: 'Language',
-  chooseLanguage: 'Choose a language',
-  notTranslated: 'English only',
+const ar: UiStrings = {
+  more: 'المزيد',
+  toolsLink: 'الأدوات والموارد',
+  journalLink: 'السجل',
+  faqLink: 'الأسئلة الشائعة',
+  language: 'اللغة',
+  chooseLanguage: 'اختر لغة',
+  notTranslated: 'بالإنجليزية فقط',
   notTranslatedHint:
-    'This page is not translated yet, so the link opens that language home page.',
-  translationNoticeHtml: '',
-  originalPageLabel: 'Read this page in English',
+    'لم تُترجم هذه الصفحة بعد، لذا يفتح الرابط الصفحة الرئيسية لتلك اللغة.',
+  translationNoticeHtml:
+    'هذه الصفحة مترجمة إلى العربية، أما قاعدة المعارف نفسها، بما في ذلك صفحات المقالات والمفاهيم والأسئلة الشائعة، فهي مكتوبة بالإنجليزية.',
+  originalPageLabel: 'اقرأ هذه الصفحة بالإنجليزية',
 };
 
-export default en;
+export default ar;

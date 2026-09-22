@@ -11,6 +11,8 @@ import FaqSidebarList from '../components/FaqSidebarList.astro';
 import PrevNextNav from '../components/PrevNextNav.astro';
 import InstallPrompt from '../components/InstallPrompt.astro';
 import LanguageSwitcher from '../components/LanguageSwitcher.astro';
+import { localeDir, hasTranslation, DEFAULT_LOCALE } from '../i18n/config';
+import { hasPageCopy, type PageKey } from '../i18n';
 import HeaderMoreMenu from '../components/HeaderMoreMenu.astro';
 import { TRANSLATED_ROUTES, localeHref, localizeHref, translationMapFrom } from '../i18n/config';
 import { buildNavItems } from '../lib/nav';
@@ -54,6 +56,30 @@ const translationMap = translationMapFrom(translations as any);
 // switcher either: at narrow widths it pushed the theme toggle off screen, so it
 // lives at the top of the right sidebar (desktop-tall layouts, >= 1280px) and above
 // "On this page" in the content column below that.
+/** Direction of the locale being viewed; the chrome mirrors for an RTL locale. */
+const pageDir = localeDir(locale);
+/** Page-level routes, keyed by the copy module that renders them. */
+const PAGE_ROUTE_KIND: Record<string, PageKey> = {
+  '/': 'home',
+  '/ai': 'ai',
+  '/search': 'search',
+  '/resources': 'resources',
+  '/journal': 'journal',
+  '/faq': 'faq',
+};
+/**
+ * Direction of the page's own text. A page showing fallback copy — an English
+ * article under an RTL locale, say — keeps the direction of the language it is
+ * actually written in, while the surrounding chrome mirrors. */
+const pageKind = PAGE_ROUTE_KIND[pageRoute];
+const pageIsLocalized =
+  locale === DEFAULT_LOCALE
+    ? true
+    : pageKind
+      ? hasPageCopy(pageKind, locale)
+      : hasTranslation(pageRoute, locale, translationMap);
+const contentDir = pageIsLocalized ? pageDir : 'ltr';
+
 const showSwitcher =
   pageRoute === '/' ||
   (TRANSLATED_ROUTES as readonly string[]).includes(pageRoute) ||
@@ -156,7 +182,7 @@ const recentConceptItems = recentConcepts.map(c => ({
 ---
 
 <!DOCTYPE html>
-<html lang={locale} data-theme="dark">
+<html lang={locale} dir={pageDir} data-theme="dark">
 <head>
   {/* hreflang alternates: every locale that has this page, plus x-default at the
       default locale — the behaviour wanted for a partially translated site. */}
@@ -439,7 +465,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     :global(.page-type-icon) {
       display: inline-block;
       vertical-align: -0.15em;
-      margin-right: 0.4rem;
+      margin-inline-end: 0.4rem;
       color: var(--muted-color);
     }
     :global(a:hover > .page-type-icon),
@@ -520,7 +546,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       gap: 0.15rem;
       flex-shrink: 0;
     }
-    .header-left .brand-link { margin-left: 0.15rem; }
+    .header-left .brand-link { margin-inline-start: 0.15rem; }
     .nav-toggle {
       display: inline-flex;
       align-items: center;
@@ -698,7 +724,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       .brand-link .brand-logo {
         width: 2.6rem;
         height: 2.6rem;
-        margin-right: 0.15rem;
+        margin-inline-end: 0.15rem;
       }
       .header-icon,
       button.theme-toggle,
@@ -834,16 +860,17 @@ const recentConceptItems = recentConcepts.map(c => ({
     .sidebar {
       position: fixed;
       top: var(--drawer-top, 4rem);
-      left: 0;
+      inset-inline-start: 0;
       z-index: 35;
       height: calc(100dvh - var(--drawer-top, 4rem));
       width: 17rem;
       max-width: 80vw;
-      transform: translateX(-105%);
+      transform: translateX(-105%); /* the drawer slides in from the inline start */
+      inset-inline-start: 0;
       transition: transform 0.25s ease;
       overflow-y: auto;
       background: var(--background-color);
-      border-right: 1px solid var(--card-border-color);
+      border-inline-end: 1px solid var(--card-border-color);
       padding: 1rem 1.25rem 1.5rem 1rem;
     }
     /* The data-nav-open attribute lives on <html>, so the attribute
@@ -865,9 +892,16 @@ const recentConceptItems = recentConcepts.map(c => ({
         transition: none;
         z-index: auto;
         background: transparent;
-        border-right: 1px solid var(--card-border-color);
+        border-inline-end: 1px solid var(--card-border-color);
         padding: 0 0.5rem 0 0;
       }
+    }
+    /* Under [dir="rtl"] the drawer enters from the right. The :not() guard keeps
+       this from overriding the open state, which is the same specificity and set
+       earlier in this file. Every other rule here uses logical sides, so the
+       direction attribute does the mirroring. */
+    @media (max-width: 1023px) {
+      :global([dir="rtl"]:not([data-nav-open])) .sidebar { transform: translateX(105%); }
     }
     .sidebar-heading {
       margin-bottom: 0.75rem;
@@ -919,7 +953,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       position: relative;
     }
     /* Vertical divider between tabs so each reads as a distinct tab. */
-    .sidebar-tab + .sidebar-tab { border-left: 1px solid var(--card-border-color); }
+    .sidebar-tab + .sidebar-tab { border-inline-start: 1px solid var(--card-border-color); }
     .sidebar-tab svg { flex-shrink: 0; }
     .sidebar-tab:hover { color: var(--primary); background: color-mix(in srgb, var(--primary) 6%, transparent); }
     /* Selected tab: subtle tinted highlight plus a small accent bar underneath. */
@@ -962,7 +996,7 @@ const recentConceptItems = recentConcepts.map(c => ({
                 .nav-section > summary::after { content: none; display: none; }
         .nav-section > summary .nav-chev {
           flex-shrink: 0;
-          margin-left: auto;  /* push the chevron to the right of the header */
+          margin-inline-start: auto;  /* push the chevron to the inline end of the header */
           color: var(--muted-color);
           transition: transform 0.15s ease;
         }
@@ -984,7 +1018,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       list-style: none;
       margin: 0;
       padding: 0;
-      border-left: 1px solid var(--muted-border-color);
+      border-inline-start: 1px solid var(--muted-border-color);
     }
     .nav-list li { margin: 0; }
     .nav-list a {
@@ -1023,8 +1057,8 @@ const recentConceptItems = recentConcepts.map(c => ({
 
     /* === Right column: single scrollable pane (TOC + recent activity) === */
     .right-col {
-      padding-left: 0.5rem;
-      border-left: 1px solid var(--card-border-color);
+      padding-inline-start: 0.5rem;
+      border-inline-start: 1px solid var(--card-border-color);
     }
     @media (min-width: 1024px) {
       .right-col {
@@ -1126,7 +1160,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     }
     .footer-text { color: var(--muted-color); font-size: 0.8rem; }
     .footer-text strong { font-weight: 500; }
-    .footer-text .ai-sparkle { margin-right: 0.15rem; }
+    .footer-text .ai-sparkle { margin-inline-end: 0.15rem; }
     .footer-disclaimer { color: var(--muted-color); font-size: 0.8rem; }
     .footer-contact { color: var(--muted-color); font-size: 0.8rem; }
     .footer-link { color: var(--primary); text-decoration: none; }
@@ -1139,11 +1173,14 @@ const recentConceptItems = recentConcepts.map(c => ({
       border-bottom: 2px solid var(--primary);
     }
     .blockquote {
-      border-left: 4px solid var(--primary);
+      border-inline-start: 4px solid var(--primary);
       padding: 1rem 1.5rem;
       margin: 1.5rem 0;
       background: var(--card-background-color);
-      border-radius: 0 8px 8px 0;
+      border-start-start-radius: 0;
+      border-end-start-radius: 0;
+      border-start-end-radius: 8px;
+      border-end-end-radius: 8px;
     }
     .tag-chip {
       display: inline-block;
@@ -1163,7 +1200,7 @@ const recentConceptItems = recentConcepts.map(c => ({
     .heading-anchor {
       color: var(--muted-color);
       text-decoration: none;
-      margin-left: 0.15rem;
+      margin-inline-start: 0.15rem;
       opacity: 0;
       font-weight: 400;
       transition: opacity 0.15s ease;
@@ -1377,7 +1414,7 @@ const recentConceptItems = recentConcepts.map(c => ({
       </aside>
 
       <!-- Middle: page content -->
-      <div class="middle">
+      <div class="middle" dir={contentDir}>
         {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
         <slot />
         <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} />

@@ -27,18 +27,19 @@ export interface UiStrings {
   originalPageLabel: string;
 }
 
-const en: UiStrings = {
-  more: 'More',
-  toolsLink: 'Tools and resources',
-  journalLink: 'Journal',
+const pt: UiStrings = {
+  more: 'Mais',
+  toolsLink: 'Ferramentas e recursos',
+  journalLink: 'Diário',
   faqLink: 'FAQ',
-  language: 'Language',
-  chooseLanguage: 'Choose a language',
-  notTranslated: 'English only',
+  language: 'Idioma',
+  chooseLanguage: 'Escolha um idioma',
+  notTranslated: 'Só em inglês',
   notTranslatedHint:
-    'This page is not translated yet, so the link opens that language home page.',
-  translationNoticeHtml: '',
-  originalPageLabel: 'Read this page in English',
+    'Esta página ainda não foi traduzida, então o link abre a página inicial desse idioma.',
+  translationNoticeHtml:
+    'Esta página foi traduzida para o português, mas a base de conhecimento e suas páginas de artigo, de conceito e de perguntas frequentes estão escritas em inglês.',
+  originalPageLabel: 'Ler esta página em inglês',
 };
 
-export default en;
+export default pt;

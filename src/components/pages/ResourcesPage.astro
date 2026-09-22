@@ -1,0 +1,101 @@
+---
+// Resources index, rendered for any locale from src/i18n/pages/resources.<locale>.ts.
+// The entries come from the `resources` collection and stay in English until those
+// pages are translated, so their links are left as authored.
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PageTypeIcon from '../PageTypeIcon.astro';
+import TranslationNotice from '../TranslationNotice.astro';
+import { strings } from '../../i18n';
+import { localizeHref, localizeHtml } from '../../i18n/config';
+
+const { locale } = Astro.props;
+const s = strings(locale).resources;
+const ui = strings(locale).ui;
+const L = (html: string) => localizeHtml(html, locale);
+
+const resources = await getCollection('resources');
+
+// Grouped by the FIRST declared resource_type, so one tool that is both software and
+// a collection lands in a single place instead of being listed twice.
+const GROUP_ORDER = [
+  'software',
+  'ai tutor',
+  'agent skill',
+  'prompt or gem library',
+  'collection of tools',
+  'collection of activities',
+  'assessment instrument',
+  'open format or specification',
+  'ebook or guide',
+  'case study collection',
+  'dataset or benchmark',
+];
+const groups = GROUP_ORDER.map((type) => ({
+  type,
+  items: resources
+    .filter((r) => (r.data.resource_type || [])[0] === type)
+    .sort((a, b) => a.data.title.localeCompare(b.data.title)),
+})).filter((g) => g.items.length > 0);
+
+// One on-this-page TOC entry per tool type, so the right rail lists the kinds of
+// thing on the page. The id goes on the group's <h2>, which is what BaseLayout's
+// scroll-margin-top rule and the TOC's scrollspy expect.
+const anchor = (s: string) => s.replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+const toc = groups.map((g) => ({
+  text: s.groupLabels[g.type] || g.type,
+  slug: anchor(g.type),
+  depth: 2,
+}));
+---
+
+<BaseLayout title={s.title} locale={locale} toc={toc}>
+  <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
+  <h1><PageTypeIcon kind="resource" size={20} />{s.h1}</h1>
+
+  <div class="page-intro">
+    {s.introHtml.map((p) => <p set:html={L(p)} />)}
+  </div>
+
+  {resources.length === 0 && <p>{s.empty}</p>}
+
+  {groups.map((group) => (
+    <section>
+      <h2 id={anchor(group.type)} class="group-heading">{s.groupLabels[group.type] || group.type}</h2>
+      <ul class="connected-list">
+        {group.items.map((r) => {
+          const href = localizeHref(`/aied/resources/${r.id.replace('.md', '')}/`, locale);
+          return (
+            <li>
+              <a href={href}><PageTypeIcon kind="resource" />{r.data.title}</a>
+              {r.data.summary && <div class="connected-summary">{r.data.summary}</div>}
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+  ))}
+</BaseLayout>
+
+<style>
+  .page-intro {
+    line-height: 1.7;
+    color: var(--color);
+    margin-bottom: 1.5rem;
+  }
+  .page-intro p {
+    margin-bottom: 0.75rem;
+  }
+  .group-heading {
+    font-size: 1.15rem;
+  }
+  section {
+    margin-bottom: 2rem;
+  }
+  /* Each entry reuses the foot-of-page connected-list look (page-type icon, title,
+     summary in muted smaller text) instead of the old bordered card. The list
+     styling itself is global, in BaseLayout. */
+  .connected-list {
+    margin-top: 0.5rem;
+  }
+</style>

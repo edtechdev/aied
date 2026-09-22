@@ -112,9 +112,12 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
   .lang-menu {
     position: absolute;
     top: calc(100% + 0.35rem);
-    right: 0;
+    inset-inline-end: 0;
     z-index: 60;
     min-width: 13rem;
+    max-width: calc(100vw - 1.5rem);
+    max-height: min(70dvh, 30rem);
+    overflow-y: auto;
     padding: 0.5rem;
     border: 1px solid var(--card-border-color);
     border-radius: 8px;
@@ -127,8 +130,8 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
   /* In a narrow column (right sidebar, mobile content column) the menu opens
      left-aligned so it cannot spill off the side of the page. */
   .lang-switcher.align-left .lang-menu {
-    left: 0;
-    right: auto;
+    inset-inline-start: 0;
+    inset-inline-end: auto;
   }
   .lang-switcher.align-left .lang-toggle {
     width: 100%;

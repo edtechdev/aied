@@ -46,7 +46,14 @@ export interface SiteConfig {
     defaultLocale: string;
     fallbackLocale?: string | null;
     hideDefaultLocalePrefix?: boolean;
-    locales: Array<{ code: string; label: string }>;
+    locales: Array<{
+      code: string;
+      label: string;
+      /** Text direction; omitted means "ltr". */
+      dir?: 'ltr' | 'rtl';
+      /** Freeform guidance for a translator working on this locale. */
+      style?: string;
+    }>;
   };
   license: {
     name: string;
