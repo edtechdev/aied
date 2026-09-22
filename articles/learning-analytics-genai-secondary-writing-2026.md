@@ -18,6 +18,14 @@ source_url: https://genai-la.genai-learning.online/
 sources: ['raw/papers/learning-analytics-genai-secondary-writing-2026.md']
 confidence: high
 connected_faqs: [reducing-over-reliance, writing-instruction-ai-best-practices]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: drafting
+    date: "2026-09-22"
+    agent: hermes-agent
+source_depth: full text
+verified: [citation, numbers, links]
 ---
 
 > **Synthesis:** This exploratory study tests a different remedy for the over-reliance problem than instruction or policy: show students their own use of [[generative-ai]] as data. Forty-six Grade 9 English students in Hong Kong wrote an argumentative essay over three weeks on a platform instrumented with three [[learning-analytics]] dashboards — time-on-tool charts, a [[academic-integrity|plagiarism]] checker that highlights text overlapping with the model's replies, and charts classifying each prompt as performance-oriented or learning-oriented against the class. The technical question was whether the model can code student prompts reliably enough to power such a dashboard; it can, at a macro F1 of 0.757, with weaker agreement on structure and rhetoric prompts. The behavioral question got a thinner answer: only a third of the class opened the dashboards at all, the group differences in final plagiarism rate and learning-oriented prompt ratio were not statistically reliable, and the students who never looked at the prompt charts actually averaged a *higher* learning-oriented ratio. The honest reading is that the dashboards are buildable and some students who saw them changed course, but voluntary exposure — not the [[visualization]] itself — is the binding constraint.

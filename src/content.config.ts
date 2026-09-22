@@ -227,6 +227,59 @@ const structuredMeta = {
     ),
 };
 
+// Provenance and AI-use disclosure (added 2026-09-22). Not rendered by the site:
+// the fields travel with the markdown so the repository, the offline editions and
+// any harvested copy of the corpus carry the record. The policy these fields
+// implement is AI-USE.md; AI systems are never listed as contributors, because
+// authorship requires accountability they cannot carry (COPE/ICMJE position).
+//
+// `ai_assist` describes the AI contributions to the text as it now stands, newest
+// last. The per-change record is in git: commits made with tooling/ai-commit.sh
+// carry AI-Model/AI-Role trailers, which survive page rewrites that would leave a
+// frontmatter field stale.
+const contributorId = z
+  .string()
+  .regex(/^[a-z0-9][a-z0-9-]*$/, 'contributor id: lowercase, hyphenated (see site.config.json)');
+
+const aiRole = z.enum([
+  'drafting',
+  'revision',
+  'link classification',
+  'summarization',
+  'translation',
+  'none',
+]);
+
+const provenance = {
+  // People accountable for the page, by id, resolved from site.config.json.
+  contributors: z.array(contributorId).optional(),
+  // People who have actually read and checked the page. Absent means the record
+  // does not assert a review; it is never set as a default.
+  reviewed_by: z.array(contributorId).optional(),
+  // Ordered record of AI contributions to the current text. A page with no AI
+  // involvement would carry role 'none'; absence means 'not recorded' (pages
+  // created before the record began).
+  ai_assist: z
+    .array(
+      z.object({
+        model: z.string().min(1),
+        role: aiRole,
+        // Unquoted YAML dates arrive as Date objects, so accept both and store ISO.
+        date: z
+          .union([z.string(), z.date()])
+          .optional()
+          .transform(v => (v instanceof Date ? v.toISOString().slice(0, 10) : (v ?? ''))),
+        agent: z.string().optional(),
+      }),
+    )
+    .optional(),
+  // How much of the source the page was written from. Articles only: concept and
+  // FAQ pages synthesize across many sources.
+  source_depth: enumList('full text', 'abstract only', 'metadata only'),
+  // Which checks were run on the page.
+  verified: enumList('citation', 'numbers', 'quotes', 'links'),
+};
+
 const articles = defineCollection({
   loader: glob({ pattern: '*.md', base: articlesDir }),
   schema: z.object({
@@ -240,6 +293,7 @@ const articles = defineCollection({
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
     ...structuredMeta,
+    ...provenance,
   }),
 });
 
@@ -254,6 +308,7 @@ const concepts = defineCollection({
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
     ...structuredMeta,
+    ...provenance,
   }),
 });
 
@@ -267,6 +322,7 @@ const faqs = defineCollection({
     source_url: z.string().optional(),
     connected_resources: connectedResources,
     ...structuredMeta,
+    ...provenance,
   }),
 });
 
@@ -324,6 +380,7 @@ const resources = defineCollection({
     // A resource page may point back at an FAQ it answers; optional, usually empty.
     connected_faqs: connectedFaqs,
     ...structuredMeta,
+    ...provenance,
   }),
 });
 
