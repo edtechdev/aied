@@ -61,7 +61,24 @@ if [ $fail -ne 0 ]; then
 fi
 
 git add "$@" || exit 1
-git commit -q -F "$msg" || exit 1
+
+# Stamp the AI-use trailers rather than calling `git commit` directly: the model
+# and role behind a change belong in the commit because a frontmatter field only
+# records whoever produced the current text. Override with AI_ROLE (comma-separated),
+# AI_MODEL and AI_REVIEWED_BY (a contributor id from site.config.json).
+role_flags=()
+IFS=',' read -r -a _roles <<< "${AI_ROLE:-drafting}"
+for _r in "${_roles[@]}"; do
+  _r="$(printf '%s' "$_r" | xargs)"
+  [ -n "$_r" ] && role_flags+=(--role "$_r")
+done
+model_flags=()
+[ -n "${AI_MODEL:-}" ] && model_flags=(--model "$AI_MODEL")
+review_flags=()
+[ -n "${AI_REVIEWED_BY:-}" ] && review_flags=(--reviewed-by "$AI_REVIEWED_BY")
+
+bash tooling/ai-commit.sh --message-file "$msg" "${role_flags[@]}" \
+  ${model_flags[@]+"${model_flags[@]}"} ${review_flags[@]+"${review_flags[@]}"} || exit 1
 git log --oneline -1
 # Personal-detail check. The patterns live in a gitignored file so that the guard itself never puts those
 # strings into a tracked file: ~/.hermes/pii-patterns.txt, one extended-regex per line.

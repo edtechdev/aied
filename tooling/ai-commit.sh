@@ -14,8 +14,9 @@
 #
 # Options:
 #   -m, --message TEXT   commit message (required; may be repeated for paragraphs)
-#   --role ROLE          what the AI did in this change (repeatable). One of the
-#                        roles listed in site.config.json aiDisclosure.roles.
+#   -F, --message-file F read the message from a file (used by commit-if-green.sh)
+#   --role ROLE          what the AI did in this change (repeatable; default
+#                        drafting). Use --no-ai for a pure human edit.
 #   --model ID           model that did the work (repeatable; defaults to $AI_MODEL
 #                        or the first model in site.config.json)
 #   --agent NAME         harness or tool name (default: site.config.json harness)
@@ -31,6 +32,7 @@ WIKI="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 CONFIG="$WIKI/site.config.json"
 
 MESSAGES=()
+MESSAGE_FILE=""
 ROLES=()
 MODELS=()
 AGENT=""
@@ -41,6 +43,7 @@ EXTRA=()
 while [[ $# -gt 0 ]]; do
   case "$1" in
     -m|--message) MESSAGES+=("$2"); shift 2 ;;
+    -F|--message-file) MESSAGE_FILE="$2"; shift 2 ;;
     --role) ROLES+=("$2"); shift 2 ;;
     --model) MODELS+=("$2"); shift 2 ;;
     --agent) AGENT="$2"; shift 2 ;;
@@ -52,8 +55,12 @@ while [[ $# -gt 0 ]]; do
   esac
 done
 
-if [[ ${#MESSAGES[@]} -eq 0 ]]; then
-  echo "error: at least one -m/--message is required" >&2
+if [[ ${#MESSAGES[@]} -eq 0 && -z "$MESSAGE_FILE" ]]; then
+  echo "error: a -m/--message or -F/--message-file is required" >&2
+  exit 2
+fi
+if [[ -n "$MESSAGE_FILE" && ! -f "$MESSAGE_FILE" ]]; then
+  echo "error: no such message file: $MESSAGE_FILE" >&2
   exit 2
 fi
 
@@ -63,17 +70,19 @@ if [[ ! -f "$CONFIG" ]]; then
 fi
 
 # Read the disclosure block. python3 is already required by the rest of tooling/.
-read -r DEFAULT_MODEL DEFAULT_AGENT ROLE_LIST CONTRIBUTOR_IDS <<<"$(python3 - "$CONFIG" <<'PY'
+# Tab-separated: the role list contains a space ("link classification"), so
+# whitespace-splitting the fields would truncate it.
+IFS=$'\t' read -r DEFAULT_MODEL DEFAULT_AGENT ROLE_LIST CONTRIBUTOR_IDS <<<"$(python3 - "$CONFIG" <<'PY'
 import json, sys
 cfg = json.load(open(sys.argv[1], encoding='utf-8'))
 ai = cfg.get('aiDisclosure', {})
 models = [m['id'] for m in ai.get('models', []) if m.get('id')]
 roles = ['drafting', 'revision', 'link classification', 'summarization', 'translation', 'none']
 humans = [c['id'] for c in cfg.get('contributors', []) if c.get('kind') == 'human']
-print(models[0] if models else 'unknown',
-      (ai.get('harness') or 'unknown').replace(' ', '-'),
-      ','.join(roles),
-      ','.join(humans))
+print('\t'.join([models[0] if models else 'unknown',
+                (ai.get('harness') or 'unknown').replace(' ', '-'),
+                ','.join(roles),
+                ','.join(humans)]))
 PY
 )"
 
@@ -101,11 +110,12 @@ done
 
 ARGS=()
 for msg in "${MESSAGES[@]}"; do ARGS+=(-m "$msg"); done
+[[ -n "$MESSAGE_FILE" ]] && ARGS+=(-F "$MESSAGE_FILE")
 for m in "${MODELS[@]}"; do ARGS+=(--trailer "AI-Model: $m"); done
 if [[ ${#ROLES[@]} -gt 0 ]]; then
   ARGS+=(--trailer "AI-Role: $(IFS=', '; echo "${ROLES[*]}")")
 else
-  ARGS+=(--trailer "AI-Role: drafted")
+  ARGS+=(--trailer "AI-Role: drafting")   # default when --role is not given
 fi
 [[ -n "$AGENT" ]] && ARGS+=(--trailer "AI-Agent: $AGENT")
 for who in "${REVIEWED_BY[@]:-}"; do
