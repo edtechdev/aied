@@ -348,6 +348,9 @@ REJECT_PAIRS = {
     ('domain-specific', 'discipline-specific-aied'), # adjective, not the discipline page
     ('cognitive load', 'cognitive-offloading'),      # CLT construct, not offloading
     ('assessment literacy', 'assessment-validity'),  # literacy, not validity evidence
+    # --- 2026-09-22, Bower typology ingest: false positives hand-reverted ---
+    ('biases', 'bias-mitigation'),                   # "the criteria build in its biases", not mitigation
+    ('professional education', 'professional-training'),  # educator networks, not training programs
     # --- 2026-09-18, PsyArXiv preprint batch: false positives hand-reverted ---
     ('self-confidence', 'self-efficacy'),            # model token confidence, not the learner trait
     ('stem', 'stem-education'),                      # survey item stem, not the subject area
