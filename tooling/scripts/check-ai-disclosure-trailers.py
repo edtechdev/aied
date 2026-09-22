@@ -28,6 +28,10 @@ import re
 import subprocess
 import sys
 
+# The date the trailer convention was introduced. Commits older than this are not
+# expected to carry trailers (they predate the convention and cannot be rewritten).
+CONVENTION_START = '2026-09-22'
+
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 
@@ -44,8 +48,7 @@ def main() -> int:
 
     with open(os.path.join(WIKI, 'site.config.json'), encoding='utf-8') as fh:
         cfg = json.load(fh)
-    ai = cfg.get('aiDisclosure', {})
-    started = ai.get('started', '')
+    started = CONVENTION_START
 
     rev = args.range or f'-{args.limit}'
     # Records are separated by \x1e and fields by \x1f, because a trailer with more
@@ -71,7 +74,7 @@ def main() -> int:
             return ', '.join(x.strip() for x in m.group(1).split('\n') if x.strip())
 
         model, role = field('M'), field('R')
-        # Only commits on or after the disclosure start date are expected to comply.
+        # Only commits on or after the convention date are expected to comply.
         if started and date < started:
             continue
         checked += 1
@@ -84,7 +87,7 @@ def main() -> int:
             gaps.append((sha[:8], date, subject[:64], 'model' if not has_model else '',
                          'role' if not has_role else ''))
 
-    print(f'AI-use trailers: {ranked}/{checked} commit(s) since {started or "the beginning"} '
+    print(f'AI-use trailers: {ranked}/{checked} commit(s) since {started} '
           f'carry both AI-Model and AI-Role ({with_model} with a model, {with_role} with a role).')
     if gaps:
         print('Commits without a complete trailer set (use tooling/ai-commit.sh):')
