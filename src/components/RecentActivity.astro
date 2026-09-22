@@ -1,4 +1,5 @@
 ---
+import { strings } from '../i18n';
 /**
  * RecentActivity.astro — the "Recently Added Pages" and "Recently Updated
  * Concepts" sidebar lists. Rendered once in BaseLayout's right rail, after the
@@ -22,9 +23,12 @@ interface PageItem extends Item {
 interface Props {
   pages: PageItem[];
   concepts: Item[];
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
 
-const { pages, concepts } = Astro.props;
+const { pages, concepts, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
 
 // Lucide icons, identical to the journal page's per-type markers:
 // file-text (article), lightbulb (concept), circle-help (FAQ), toolbox (resource).
@@ -45,6 +49,7 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
   faq: 'FAQ',
   resource: 'Resource',
 };
+---
 ---
 
 <style>
@@ -102,7 +107,7 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
 </style>
 
 <details class="recent-block" open data-state-key="recent:pages">
-  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>Recently Added Pages</summary>
+  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"></path><path d="M14 2v4a2 2 0 0 0 2 2h4"></path><path d="M16 13H8"></path><path d="M16 17H8"></path><path d="M10 9H8"></path></svg>{chrome.recentlyAddedPages}</summary>
   <ul class="recent-list">
     {pages.map(p => (
       <li>
@@ -111,11 +116,11 @@ const KIND_LABEL: Record<PageItem['kind'], string> = {
       </li>
     ))}
   </ul>
-  <p class="recent-more"><a href="/aied/journal">View all pages →</a></p>
+  <p class="recent-more"><a href="/aied/journal">{chrome.viewAllPages}</a></p>
 </details>
 
 <details class="recent-block" open data-state-key="recent:concepts">
-  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>Recently Updated Concepts</summary>
+  <summary><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:inline-block;vertical-align:-0.15em;margin-right:0.35rem;"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>{chrome.recentlyUpdatedConcepts}</summary>
   <ul class="recent-list">
     {concepts.map(c => (
       <li>

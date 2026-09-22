@@ -15,6 +15,7 @@
 // On a phone the two-column table has nowhere to go, so below 640px - the site's
 // main breakpoint - each row becomes a stacked block: the field name on its own
 // line, its values underneath.
+import { strings } from '../i18n';
 import { METADATA_LINKS, FIELD_UMBRELLAS } from '../data/metadataLinks';
 import { FACET_VOCAB, FACET_FIELDS, FACET_DISPLAY_ORDER } from '../data/facetVocab';
 
@@ -23,18 +24,22 @@ interface Props {
   conceptTitles: Record<string, string>;
   // the page's frontmatter
   data: Record<string, any>;
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
 
-const { conceptTitles, data } = Astro.props;
+const { conceptTitles, data, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
+const L = (key: string, fallback: string) => chrome.metadataLabels[key] || fallback;
 
 // Page-level fields first: they describe the page itself (how it was studied, who
 // it is for). Then the topic facets, in the one shared display order, read from the
 // generated labels so a facet can never be called something the sidebar does not.
 const PAGE_ROWS: { key: string; label: string }[] = [
-  { key: 'research_method', label: 'Study design' },
-  { key: 'discipline', label: 'Discipline' },
-  { key: 'level', label: 'Level' },
-  { key: 'audience', label: 'Intended audience' },
+  { key: 'research_method', label: L('research_method', 'Study design') },
+  { key: 'discipline', label: L('discipline', 'Discipline') },
+  { key: 'level', label: L('level', 'Level') },
+  { key: 'audience', label: L('audience', 'Intended audience') },
 ];
 const FACET_LABELS_MAP: Record<string, string> = Object.fromEntries(
   FACET_FIELDS.map((f) => [f.field as string, f.label as string]),
@@ -45,12 +50,12 @@ const ROWS: { key: string; label: string }[] = [
     key: field,
     label: FACET_LABELS_MAP[field] || field,
   })),
-  { key: 'page_kind', label: 'Page kind' },
+  { key: 'page_kind', label: L('page_kind', 'Page kind') },
   // Resource pages carry fields no other page type has. They are absent elsewhere,
   // and `rows` filters empty rows out, so adding them here is safe for every page.
-  { key: 'resource_type', label: 'Type of resource' },
-  { key: 'access', label: 'Access' },
-  { key: 'license', label: 'License' },
+  { key: 'resource_type', label: L('resource_type', 'Type of resource') },
+  { key: 'access', label: L('access', 'Access') },
+  { key: 'license', label: L('license', 'License') },
 ];
 
 const titleCase = (s: string) =>
@@ -83,10 +88,11 @@ const rows = ROWS.map((row) => {
   };
 }).filter((row) => row.items.length > 0);
 ---
+---
 
 {rows.length > 0 && (
   <section id="metadata" class="metadata-section">
-    <h2>Metadata</h2>
+    <h2>{chrome.metadata}</h2>
     <table class="metadata-table">
       <tbody>
         {rows.map((row) => (

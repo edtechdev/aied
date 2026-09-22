@@ -1,4 +1,5 @@
 ---
+import { strings } from '../i18n';
 /**
  * StarButton.astro — a star/favorite toggle shown next to the page title on
  * article, concept, FAQ and resource pages. Clicking toggles the page's starred state
@@ -10,18 +11,22 @@ import { pageKey } from '../stores/stars';
 interface Props {
   slug: string;
   kind: 'concept' | 'article' | 'faq' | 'resource';
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
 
-const { slug, kind } = Astro.props;
+const { slug, kind, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
 const key = pageKey(kind, slug);
+---
 ---
 <button
   type="button"
   class="star-btn"
   data-star-key={key}
-  aria-label="Star this page"
+  aria-label={chrome.starThisPage}
   aria-pressed="false"
-  title="Star this page"
+  title={chrome.starThisPage}
 >
   <svg class="star-icon" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
     <!-- Outline star: shown when NOT starred (empty look) -->

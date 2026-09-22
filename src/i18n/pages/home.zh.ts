@@ -31,8 +31,8 @@ export interface HomeStrings {
 
 const en: HomeStrings = {
   title: '首页',
-  h1: 'AI in Education Knowledge Base',
-  introHtml: `欢迎来到 <strong>AI in Education Knowledge Base</strong>：这是一个关于<a href="/aied/concepts/ai-education/">教育中的人工智能</a>的免费公共资源，面向从事教学、学习、设计或管理工作的人。它把近期开放获取的研究凝练成简短、结构清晰的页面，供你阅读并付诸实践。关于它的制作方式：页面由 AI 智能体生成和更新，并由网站开发者提供编辑指导。每一项论断都注明其依据的论文，出处可供核查。`,
+  h1: '教育中的人工智能知识库',
+  introHtml: `欢迎来到 <strong>教育中的人工智能知识库</strong>：这是一个关于<a href="/aied/concepts/ai-education/">教育中的人工智能</a>的免费公共资源，面向从事教学、学习、设计或管理工作的人。它把近期开放获取的研究凝练成简短、结构清晰的页面，供你阅读并付诸实践。关于它的制作方式：页面由 AI 智能体生成和更新，并由网站开发者提供编辑指导。每一项论断都注明其依据的论文，出处可供核查。`,
   navHeading: '在站内浏览',
   navHtml: `在左侧边栏按主题逐条浏览索引，可以看到这个领域是如何组织的；如果你心里已经有想找的主题，也可以<a href="/aied/search">搜索</a>整个知识库。文章页面把一篇论文提炼为研究目的、方法和发现，并附上完整的引文和相关研究的链接；概念页面汇集研究对某个概念的论述，并链接到其依据的研究。如果你更想从问题入手，<a href="/aied/faq">常见问题索引</a>汇集了访客最先提出的那些问题，从课程的人工智能政策到是否该使用 AI 检测工具；如果你更想从工具入手，<a href="/aied/resources">资源页面</a>列出了可以直接使用的免费工具、资料集和测评工具，并标明制作者和费用。上方的概念图展示了概念之间的关联；<a href="/aied/concepts/ai-education/">教育中的人工智能</a>就是概念图背后的页面，它把概念归入十来个总括主题。`,
   chatHeading: '与知识库对话',
