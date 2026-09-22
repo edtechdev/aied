@@ -8,7 +8,11 @@
 // Labels arrive as copy from the page (src/i18n/pages/home.<locale>.ts), so the map
 // reads in the active language; the English labels below are the fallback for a
 // locale that has not translated the map yet.
-const { copy } = Astro.props;
+import { localizeHref } from '../i18n/config';
+
+const { copy, locale = 'en' } = Astro.props;
+/** The map's nodes are translated pages, so their links follow the locale. */
+const conceptHref = (slug: string) => localizeHref(`/aied/concepts/${slug}/`, locale);
 
 const FALLBACK = {
   title: 'Concept map of AI in Education',
@@ -93,7 +97,7 @@ function labelFont(label: string): number {
     ))}
 
     <!-- center node (clickable) -->
-    <a href={`/aied/concepts/${center.slug}/`}>
+    <a href={conceptHref(center.slug)}>
       <g class="concept-map-node">
         <rect x={CX - 95} y={CY - 31} width="190" height="62" rx="16" fill="#7dd3fc" />
         <rect x={CX - 95} y={CY - 31} width="190" height="62" rx="16" fill="none" stroke="#0d1418" stroke-width="2" />
@@ -103,7 +107,7 @@ function labelFont(label: string): number {
 
     <!-- outer nodes (clickable rounded rectangles) -->
     {allPlaced.map((p) => (
-      <a href={`/aied/concepts/${p.slug}/`}>
+      <a href={conceptHref(p.slug)}>
         <g class="concept-map-node">
           <rect x={p.x - RECT_W / 2} y={p.y - RECT_H / 2} width={RECT_W} height={RECT_H} rx="14" fill="#7dd3fc" />
           <rect x={p.x - RECT_W / 2} y={p.y - RECT_H / 2} width={RECT_W} height={RECT_H} rx="14" fill="none" stroke="#0d1418" stroke-width="2" />
@@ -116,9 +120,9 @@ function labelFont(label: string): number {
 
 <!-- Mobile: legible flex-wrap list of the same links -->
 <nav class="concept-map-mobile" aria-label={c.navLabel}>
-  <a class="concept-map-mobile-item concept-map-mobile-center" href={`/aied/concepts/${center.slug}/`}>{center.label}</a>
+  <a class="concept-map-mobile-item concept-map-mobile-center" href={conceptHref(center.slug)}>{center.label}</a>
   {allPlaced.map((p) => (
-    <a class="concept-map-mobile-item" href={`/aied/concepts/${p.slug}/`}>{p.label}</a>
+    <a class="concept-map-mobile-item" href={conceptHref(p.slug)}>{p.label}</a>
   ))}
 </nav>
 

@@ -49,6 +49,7 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
         <li>
           <a
             href={e.href}
+            data-locale-code={e.code}
             role="menuitem"
             class:list={['lang-item', { current: e.current, untranslated: !e.translated }]}
             aria-current={e.current ? 'true' : undefined}
@@ -242,6 +243,20 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
 <script>
   // One delegated handler per switcher: open/close on the button, close on an
   // outside click, on Escape, or when a language is chosen.
+  // Remember the reader's choice: the default-locale home page reads this back and
+  // offers that language instead of the English one.
+  document.querySelectorAll('[data-lang-code]').forEach((link) => {
+    link.addEventListener('click', () => {
+      const code = (link as HTMLElement).dataset.localeCode;
+      if (!code) return;
+      try {
+        localStorage.setItem('aied-locale', code);
+      } catch {
+        /* private mode: the choice simply does not persist */
+      }
+    });
+  });
+
   document.querySelectorAll('[data-lang-switcher]').forEach((root) => {
     const btn = root.querySelector('[data-lang-toggle]') as HTMLButtonElement | null;
     const menu = root.querySelector('[data-lang-menu]') as HTMLElement | null;

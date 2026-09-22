@@ -1,5 +1,6 @@
 ---
 import { strings } from '../i18n';
+import { localizeHref } from '../i18n/config';
 // Muted pill buttons (Source / History / Edit / Chat / Embed) linking to the
 // markdown source of this page in the GitHub repository. Placed at the bottom
 // of article, concept, and FAQ pages, before the site footer. The Embed pill is
@@ -33,7 +34,7 @@ const edit = `${base}/edit/${branch}/${filePath}`;
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg>
     Edit
   </a>
-  <a class="source-pill" href="/aied/ai" title="Chat with AI">
+  <a class="source-pill" href={localizeHref('/aied/ai', locale)} title="Chat with AI">
     <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"/><path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"/></svg>
     Chat
   </a>

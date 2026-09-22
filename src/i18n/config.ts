@@ -74,11 +74,26 @@ export function translationMapFrom(
   return map;
 }
 
+/**
+ * The map the current build is rendering with. The layout sets it once per page
+ * before any copy renders, so a link helper deep in a component can consult it
+ * without every call site threading the map through props.
+ */
+let activeMap: TranslationMap = {};
+
+export function setTranslationMap(map: TranslationMap): void {
+  activeMap = map;
+}
+
+export function currentTranslationMap(): TranslationMap {
+  return activeMap;
+}
+
 /** True when `route` (site-relative, e.g. '/ai') has a translation for `locale`. */
 export function hasTranslation(route: string, locale: Locale, map?: TranslationMap): boolean {
   if (locale === DEFAULT_LOCALE) return true;
   if ((TRANSLATED_ROUTES as readonly string[]).includes(route)) return true;
-  return !!map?.[locale]?.includes(route.replace(/\/+$/, '') || '/');
+  return !!((map ?? activeMap)[locale]?.includes(route.replace(/\/+$/, '') || '/'));
 }
 
 /** True when `route` is inherently translated (the three page-level routes). */
