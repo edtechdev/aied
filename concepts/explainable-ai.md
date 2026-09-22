@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -93,6 +93,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[regulation]]
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability as a metacognitive design requirement
 - [[lund-socially-accountable-data-science-xai-2026]] — A four-pillar framework (answerability, responsibility, enforcement, reflexivity) for teaching XAI as accountability practice (Lund et al. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Value-sensitive design of student-centered ITS (collaborative vs. raw explanations)
 - [[xai-education-framework]] — XAI-ED: the foundational framework for explainable AI in education (Khosravi et al. 2022)

@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-22
 
-Articles: 1352 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1353 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
@@ -1138,6 +1138,7 @@ Articles: 1352 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[post-covid-ict-career-aspirations]] — Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?
 - [[post-instrumental-learning-capacity-dissolution]] — When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution
 - [[posthumanist-ai-literacy-2025]] — A Posthumanist Approach to AI Literacy
+- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[pradeesh-outcome-knowledge-tracing-affinity-2026]] — Outcome-based knowledge tracing with affinity mapping and memory augmented outcome impact
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Agentic AI in educational environments and its association with social and motivational pathways to learning performance
 - [[pre-service-science-teachers-ai-perceptions-2026]] — Perceptions and Acceptance of Artificial Intelligence in Science Education Programmes: Voices of Pre-Service Science Teachers

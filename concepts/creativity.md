@@ -1,7 +1,7 @@
 ---
 title: Creativity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 type: concept
 foundations: [critical-thinking, design-thinking]
 pedagogy: [constructivist, problem-solving]
@@ -74,6 +74,7 @@ Creativity connects to [[critical-thinking]] and to [[constructivist]] learning.
 - [[scaffolding]]
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Scaffolding creativity instead of completing it
 - [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent learner agency in implicit human-AI collaboration: supportive vs. contrarian personas
 - [[rana-genai-design-thinking-2025]]

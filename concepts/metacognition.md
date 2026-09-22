@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-21T13:00:10-04:00"
+updated: "2026-09-22T04:20:00-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -110,6 +110,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[powerful-learning-with-emerging-technology-2025]] — Explainability and productive struggle as metacognitive design
 - [[genai-performance-vs-learning]] — the performance/learning distinction, and metacognitive laziness as offloaded evaluation (Yan et al. 2025)
 - [[clerc-ai-literacy-workshop-llm-regulation-2026]] — a two-hour AI literacy workshop shifted middle-school students' LLM-interaction regulation, unlike their self-reported metacognition (Clerc et al. 2026)
 - [[student-ai-interaction-consecutive-interpreting-2026]] — Student-AI Interaction in Computer-Assisted Consecutive Interpreting
