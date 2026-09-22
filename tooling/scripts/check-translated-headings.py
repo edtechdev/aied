@@ -13,7 +13,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-LOCALES = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he']
+LOCALES = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he', 'hi']
 
 # Kept in step with src/i18n/sectionHeadings.ts by CONNECTED_HEADINGS below; the script
 # parses that module so the two can never disagree.

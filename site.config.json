@@ -59,6 +59,11 @@
         "label": "עברית",
         "dir": "rtl",
         "style": "Modern Hebrew; on first use keep a technical term in Latin script in parentheses"
+      },
+      {
+        "code": "hi",
+        "label": "हिन्दी",
+        "style": "Standard Hindi (Devanagari); keep Latin acronyms AI and AIEd as-is"
       }
     ]
   },

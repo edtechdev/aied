@@ -20,7 +20,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 COLLECTIONS = ('concepts', 'faqs', 'resources')
-LOCALE_DIRS = ('ar', 'de', 'es', 'fr', 'he', 'ja', 'ko', 'pt', 'zh')
+LOCALE_DIRS = ('ar', 'de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh')
 
 FRONTMATTER = re.compile(r'^---\n(.*?)\n---\n', re.S)
 

@@ -47,7 +47,7 @@ COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # translated page carries its own ai_assist record (role 'translation').
 # Every locale that can hold translated content pages (site.config.json i18n.locales
 # minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
-LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'ja', 'ko', 'pt', 'zh', 'ar')
+LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh', 'ar')
 ROLES = {'drafting', 'revision', 'link classification', 'summarization', 'translation', 'none'}
 DEPTHS = {'full text', 'abstract only', 'metadata only'}
 VERIFIED = {'citation', 'numbers', 'quotes', 'links'}
