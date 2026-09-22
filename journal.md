@@ -1,8 +1,10 @@
 # Journal
 
-Last updated: 2026-09-22 | Total entries: 1583
+Last updated: 2026-09-22 | Total entries: 1585
 
 ## 2026-09-22
+- 📄 [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19: A value-based, practical framework for public service media organisations
+- 📄 [[learner-agency-ai-simulation-2026]] — Exploring learner agency in an AI-supported simulation environment for complex systems education
 - 📄 [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - 📄 [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - 📄 [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI

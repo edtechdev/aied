@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-22T09:59:00-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -85,7 +85,8 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - **Infrastructure is equity:** addressing the [[digital-divide|digital divide]] and underrepresented-language infrastructure is a precondition for equitable AI, not a secondary concern.
 - **Representation matters in content and assessment:** AI-curated materials and [[automated-assessment|automated assessment]] must reflect and not penalize diverse learners, cultures, languages, and knowledge systems.
 - **Pair access with support:** providing tools is insufficient; learners need skills, conditions, and culturally relevant [[scaffolding]] to benefit.
-- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]], [[governance]]) must embed equity as a guiding principle.
+- **Reach the audiences formal education misses:** the [[ai-literacies-young-adults-2025|AI Literacies framework for public service media]] argues that provision will keep reaching the already-advantaged unless it is designed otherwise, names young people who are digitally or otherwise marginalized as those with the fewest opportunities through formal education, and proposes targeted partnerships plus national-reach provision — not universal publication — as the remedy.
+- **Policy and governance:** institutional AI policy ([[educational-policy-ai]], [[governance]]) must embed equity as a guiding principle.
 
 ## Connected Concepts
 
@@ -108,6 +109,7 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[parents-and-families]]
 ## Connected Articles
+- [[ai-literacies-young-adults-2025]] — Equity as a delivery problem: reaching young people formal education misses
 
 - [[typology-generative-ai-tools-education-2026]] — Free-tier availability as the gate on which tools reach educators
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise report: AI marking of 761 university essays across three UK universities
