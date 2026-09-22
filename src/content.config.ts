@@ -395,7 +395,7 @@ const resources = defineCollection({
 // The typed facet fields are copied from the English page and stay in English: they
 // are vocabulary keys (concept slugs) that the search facets and the registry use,
 // not prose. `translation_of` records which English page this is a translation of.
-const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh'];
+const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he'];
 
 const translations = defineCollection({
   loader: glob({
@@ -412,6 +412,11 @@ const translations = defineCollection({
     // One-line note about the translation for readers: who or what produced it and
     // whether a human has read it. Kept in frontmatter so it travels with the file.
     translation_note: z.string().optional(),
+    // The English page's `updated` value at the moment this translation was made.
+    // Translating is expensive, so a translation is only redone when the source text
+    // actually changed: check-translation-staleness.py compares this against the
+    // English page and reports the ones that moved on.
+    source_updated: timeField.optional(),
     // Resource fields. A translated resource page carries the same link, author and
     // access terms as the English one; the values stay in English (a product name is
     // not translated) and are rendered on the translated page as they are on the

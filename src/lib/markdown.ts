@@ -3,6 +3,16 @@ import Slugger from 'github-slugger';
 import katex from 'katex';
 import { CONCEPT_REDIRECTS } from '../data/conceptRedirects';
 import { CONNECTED_SECTION_KIND, pageTypeIcon, type PageKind } from './pageTypeIcons';
+import { allConnectedHeadings } from '../i18n/sectionHeadings';
+
+/**
+ * The English headings plus every locale's translated pair: a translated page's
+ * "Connected concepts" list must be recognised too, not just the English one.
+ */
+const CONNECTED_HEADINGS_ALL: Record<string, PageKind> = {
+  ...CONNECTED_SECTION_KIND,
+  ...allConnectedHeadings(),
+};
 
 export interface Heading {
   text: string;
@@ -142,7 +152,7 @@ export function renderMarkdown(text: string, opts: RenderOptions): { html: strin
       {
         filter: ['h2'],
         visit(node, ctx) {
-          connectedKind = CONNECTED_SECTION_KIND[ctx.textContent(node).trim().toLowerCase()] ?? null;
+          connectedKind = CONNECTED_HEADINGS_ALL[ctx.textContent(node).trim().toLowerCase()] ?? null;
         },
       },
       {

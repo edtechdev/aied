@@ -37,7 +37,7 @@ const L = (html: string) => localizeHtml(html, locale);
     </>
   ))}
 
-  <KnowledgeBaseStats heading={s.statsHeading} intro={s.statsIntro} />
+  <KnowledgeBaseStats heading={s.statsHeading} intro={s.statsIntro} locale={locale} />
 </BaseLayout>
 
 <style>

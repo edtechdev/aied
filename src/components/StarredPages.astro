@@ -1,4 +1,5 @@
 ---
+import { strings } from '../i18n';
 /**
  * StarredPages.astro — a collapsible section at the top of the left sidebar
  * listing the pages the user has starred (persisted in localStorage via
@@ -13,24 +14,28 @@ import { DEFAULT_STARRED } from '../stores/stars';
 interface Props {
   /** slug -> display title (concepts and any other pages the sidebar knows). */
   titles: Record<string, string>;
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
 
-const { titles } = Astro.props;
+const { titles, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
 
 const defaultEntries = DEFAULT_STARRED.map((key) => {
   const parts = key.split('/');
   return { key, kind: parts[0], slug: parts[1], title: titles[parts[1]] || parts[1] };
 });
 ---
+---
 <div class="starred-pages">
   <div class="sidebar-heading starred-heading">
-    <span class="starred-title">★ Starred</span>
-    <span class="starred-count" data-starred-count>0 starred</span>
+    <span class="starred-title">★ {chrome.starred}</span>
+    <span class="starred-count" data-starred-count data-count-label={chrome.starredCount} data-none-label={chrome.starredNone}>{chrome.starredCount.replace('{count}', '0')}</span>
   </div>
 
-  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)}>
+  <div class="starred-groups" data-starred-groups data-titles={JSON.stringify(titles)} data-label-concepts={chrome.concepts} data-label-faqs={chrome.faqs} data-label-articles={chrome.articles}>
     <details class="starred-group" open data-starred-group="concept" data-state-key="starred-group:concept">
-      <summary>Concepts</summary>
+      <summary>{chrome.concepts}</summary>
       <ul class="starred-list" data-starred-list="concept">
         {defaultEntries.filter(e => e.kind === 'concept').map(e => (
           <li><a href={`/aied/concepts/${e.slug}/`}>{e.title}</a></li>
@@ -39,12 +44,12 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     </details>
 
     <details class="starred-group" open data-starred-group="faq" data-state-key="starred-group:faq">
-      <summary>FAQs</summary>
+      <summary>{chrome.faqs}</summary>
       <ul class="starred-list" data-starred-list="faq"></ul>
     </details>
 
     <details class="starred-group" open data-starred-group="article" data-state-key="starred-group:article">
-      <summary>Articles</summary>
+      <summary>{chrome.articles}</summary>
       <ul class="starred-list" data-starred-list="article"></ul>
     </details>
   </div>
@@ -118,15 +123,20 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
     titles = {};
   }
 
+  // The script cannot read the frontmatter, so the visible labels it needs come from
+  // data attributes while the paths (never shown) stay here.
   const KIND_META = {
-    concept: { label: 'Concepts', path: 'concepts' },
-    faq: { label: 'FAQs', path: 'faqs' },
-    article: { label: 'Articles', path: 'articles' },
+    concept: { label: groups.dataset.labelConcepts || 'Concepts', path: 'concepts' },
+    faq: { label: groups.dataset.labelFaqs || 'FAQs', path: 'faqs' },
+    article: { label: groups.dataset.labelArticles || 'Articles', path: 'articles' },
   } as const;
 
   const render = () => {
     const keys = starredStore.get();
-    if (countEl) countEl.textContent = `${keys.length} starred`;
+    if (countEl) {
+      const template = countEl.dataset.countLabel || '{count} starred';
+      countEl.textContent = template.replace('{count}', String(keys.length));
+    }
     const byKind: Record<string, string[]> = { concept: [], faq: [], article: [] };
     for (const key of keys) {
       const kind = key.split('/')[0];
@@ -137,7 +147,7 @@ const defaultEntries = DEFAULT_STARRED.map((key) => {
       if (!list) continue;
       const items = byKind[kind];
       if (items.length === 0) {
-        list.innerHTML = '<li class="starred-empty">None</li>';
+        list.innerHTML = `<li class="starred-empty">${countEl?.dataset.noneLabel || 'None'}</li>`;
       } else {
         const path = KIND_META[kind].path;
         list.innerHTML = items

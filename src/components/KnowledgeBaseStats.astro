@@ -12,6 +12,12 @@
 // these elements.
 import { getCollection } from 'astro:content';
 
+import { strings } from '../i18n';
+const { heading = '', intro = '', locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
+// Months and the numeral format follow the page's language, not the build machine's.
+const dateLocale = ({ zh: 'zh-CN', pt: 'pt-BR' } as Record<string, string>)[locale] || locale;
+
 const [articles, concepts, faqs, resources] = await Promise.all([
   getCollection('articles'),
   getCollection('concepts'),
@@ -20,10 +26,10 @@ const [articles, concepts, faqs, resources] = await Promise.all([
 ]);
 
 const items = [
-  { count: articles.length, label: 'articles', href: '' },
-  { count: concepts.length, label: 'concepts', href: '' },
-  { count: faqs.length, label: 'FAQs', href: '/aied/faq' },
-  { count: resources.length, label: 'resources', href: '/aied/resources' },
+  { count: articles.length, label: chrome.statsArticles, href: '' },
+  { count: concepts.length, label: chrome.statsConcepts, href: '' },
+  { count: faqs.length, label: chrome.statsFaqs, href: '/aied/faq' },
+  { count: resources.length, label: chrome.statsResources, href: '/aied/resources' },
 ];
 
 const stamps = [...articles, ...concepts, ...faqs, ...resources]
@@ -32,19 +38,19 @@ const stamps = [...articles, ...concepts, ...faqs, ...resources]
   .sort();
 const latestDate = (stamps.pop() || '').split('T')[0];
 const latestLabel = latestDate
-  ? new Date(`${latestDate}T12:00:00Z`).toLocaleDateString('en-US', {
+  ? new Date(`${latestDate}T12:00:00Z`).toLocaleDateString(dateLocale, {
       month: 'long',
       day: 'numeric',
       year: 'numeric',
       timeZone: 'UTC',
     })
   : '';
-const { heading = '', intro = '' } = Astro.props;
+---
 ---
 
 {heading && <h2 id="whats-in-the-knowledge-base">{heading}</h2>}
 {intro && <p class="kb-stats-intro">{intro}</p>}
-<ul class="kb-stats" aria-label="What the knowledge base contains">
+<ul class="kb-stats" aria-label={chrome.statsAria}>
   {items.map((item) => (
     <li class="kb-stat">
       {item.href ? (
@@ -61,7 +67,7 @@ const { heading = '', intro = '' } = Astro.props;
   {latestLabel && (
     <li class="kb-stat kb-stat-date">
       <span>
-        last updated <strong>{latestLabel}</strong>
+        {chrome.statsLastUpdated} <strong>{latestLabel}</strong>
       </span>
     </li>
   )}

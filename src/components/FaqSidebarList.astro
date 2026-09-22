@@ -4,14 +4,21 @@
  * "FAQs" tab, ordered by weight (highest first), matching the FAQ index page.
  * Receives the FAQ collection already sorted by `weight`.
  */
+import { strings } from '../i18n';
+
 interface Props {
   /** FAQ entries sorted descending by `weight`. */
   faqs: { slug: string; title: string }[];
+  /** Locale whose chrome strings this component renders. */
+  locale?: string;
 }
-const { faqs } = Astro.props;
+
+const { faqs, locale = 'en' } = Astro.props;
+const chrome = strings(locale).ui.chrome;
 ---
+
 <div class="faq-sidebar-list">
-  {faqs.length === 0 && <p class="faq-sidebar-empty">No FAQs yet.</p>}
+  {faqs.length === 0 && <p class="faq-sidebar-empty">{chrome.noFaqsYet}</p>}
   {faqs.map(f => (
     <a href={`/aied/faqs/${f.slug}/`} class="faq-sidebar-link">{f.title}</a>
   ))}

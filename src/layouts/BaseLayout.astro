@@ -59,6 +59,10 @@ const translationMap = translationMapFrom(translations as any);
 // "On this page" in the content column below that.
 /** Direction of the locale being viewed; the chrome mirrors for an RTL locale. */
 const ui = strings(locale).ui;
+const chrome = ui.chrome;
+// Chrome strings carry {placeholders} so a translation can move them around.
+const fill = (template: string, vars: Record<string, string | number>) =>
+  template.replace(/\{(\w+)\}/g, (_, key: string) => String(vars[key] ?? ''));
 const pageDir = localeDir(locale);
 /** Page-level routes, keyed by the copy module that renders them. */
 const PAGE_ROUTE_KIND: Record<string, PageKey> = {
@@ -233,7 +237,7 @@ const recentConceptItems = recentConcepts.map(c => ({
   </script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>{title} — {siteConfig.name}</title>
+  <title>{title} — {chrome.siteName}</title>
   <!-- Critical dark background so navigation never flashes white before the
        external stylesheet loads (the site is always dark-themed). -->
   <style is:inline>
@@ -264,7 +268,7 @@ const recentConceptItems = recentConcepts.map(c => ({
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content={siteConfig.shortName} />
   <!-- Open Graph (link previews) -->
-  <meta property="og:site_name" content={siteConfig.name} />
+  <meta property="og:site_name" content={chrome.siteName} />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
@@ -1237,14 +1241,14 @@ const recentConceptItems = recentConcepts.map(c => ({
   <header data-nav-header>
     <div class="container">
       <div class="header-left">
-        <button class="nav-toggle" data-nav-toggle type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <button class="nav-toggle" data-nav-toggle type="button" aria-label={chrome.toggleNavigation} aria-expanded="false">
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <line x1="3" y1="6" x2="21" y2="6" />
             <line x1="3" y1="12" x2="21" y2="12" />
             <line x1="3" y1="18" x2="21" y2="18" />
           </svg>
         </button>
-        <button id="sidebar-toggle" class="sidebar-toggle" type="button" title="Collapse sidebar" aria-label="Collapse sidebar" aria-pressed="false">
+        <button id="sidebar-toggle" class="sidebar-toggle" type="button" title={chrome.collapseSidebar} aria-label={chrome.collapseSidebar} aria-pressed="false" data-expand-label={chrome.expandSidebar} data-collapse-label={chrome.collapseSidebar}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <line x1="3" y1="6" x2="21" y2="6" />
             <line x1="3" y1="12" x2="21" y2="12" />
@@ -1252,7 +1256,7 @@ const recentConceptItems = recentConcepts.map(c => ({
           </svg>
         </button>
         <a href={localeHref('/', locale)} class="brand-link">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" class="brand-logo" role="img" aria-label={`${siteConfig.brandName} logo`}>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" class="brand-logo" role="img" aria-label={`${chrome.siteBrand} logo`}>
             <!-- Rounded-square tile: background + border follow the light/dark theme. -->
             <rect x="0" y="0" width="96" height="96" rx="22" fill="var(--logo-bg)" />
             <rect x="1" y="1" width="94" height="94" rx="21" fill="none" stroke="var(--logo-border)" stroke-width="1.5" />
@@ -1282,24 +1286,24 @@ const recentConceptItems = recentConcepts.map(c => ({
             <rect x="26" y="38" width="44" height="20" rx="10" fill="#7dd3fc" />
             <text x="48" y="52" text-anchor="middle" font-family="inherit" font-size="12" font-weight="700" fill="#0b1220">AIEd</text>
           </svg>
-          <span class="brand-full">{siteConfig.brandName}</span>
+          <span class="brand-full" title={chrome.siteName}>{chrome.siteBrand}</span>
           <span class="brand-short">{siteConfig.shortName}</span>
         </a>
       </div>
       {!hideHeaderSearch && (
         <div class="header-search">
           <pagefind-config bundle-path="/aied/pagefind/"></pagefind-config>
-          <pagefind-searchbox placeholder="Search articles, concepts, and FAQs..."></pagefind-searchbox>
+          <pagefind-searchbox placeholder={chrome.searchPlaceholder}></pagefind-searchbox>
         </div>
       )}
-      <nav class="header-icons" aria-label="Knowledge base tools">
-        <a href={localizeHref('/aied/ai', locale)} class="header-icon" data-overflow-item data-priority="5" title="Chat with AI" aria-label="Chat with AI">
+      <nav class="header-icons" aria-label={chrome.knowledgeBaseTools}>
+        <a href={localizeHref('/aied/ai', locale)} class="header-icon" data-overflow-item data-priority="5" title={chrome.chatWithAi} aria-label={chrome.chatWithAi}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path>
             <path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"></path>
           </svg>
         </a>
-        <a href={localizeHref('/aied/search', locale)} class="header-icon" data-overflow-item data-priority="6" title="Search" aria-label="Search">
+        <a href={localizeHref('/aied/search', locale)} class="header-icon" data-overflow-item data-priority="6" title={chrome.search} aria-label={chrome.search}>
           <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
             <circle cx="11" cy="11" r="8"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
@@ -1332,7 +1336,7 @@ const recentConceptItems = recentConcepts.map(c => ({
             <LanguageSwitcher locale={locale} route={pageRoute} translationMap={translationMap} labelStyle="none" />
           </div>
         )}
-        <button id="theme-toggle" class="header-icon theme-toggle" type="button" title="Toggle light/dark mode" aria-label="Toggle light/dark mode" aria-pressed="false">
+        <button id="theme-toggle" class="header-icon theme-toggle" type="button" title={chrome.themeToggle} aria-label={chrome.themeToggle} aria-pressed="false">
           <svg id="theme-icon-moon" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
           <svg id="theme-icon-sun" xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="display:none;"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
         </button>
@@ -1344,28 +1348,28 @@ const recentConceptItems = recentConcepts.map(c => ({
   <main class="container">
     <div class="docs-layout">
       <!-- Left: collapsible concept navigation (drawer on mobile) -->
-      <button class="nav-backdrop" data-nav-toggle type="button" aria-label="Close navigation"></button>
-      <aside class="sidebar" data-nav-drawer aria-label="Concept navigation">
+      <button class="nav-backdrop" data-nav-toggle type="button" aria-label={chrome.closeNavigation}></button>
+      <aside class="sidebar" data-nav-drawer aria-label={chrome.conceptNavigation}>
         <!-- Sidebar tabs: Concepts (default), FAQs, Starred -->
-        <div class="sidebar-tabs" role="tablist" aria-label="Sidebar sections">
+        <div class="sidebar-tabs" role="tablist" aria-label={chrome.sidebarSections}>
           <button class="sidebar-tab" role="tab" data-sidebar-tab="concepts" aria-selected="true" aria-controls="sidebar-panel-concepts">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="9" y1="18" x2="15" y2="18"></line><line x1="10" y1="22" x2="14" y2="22"></line><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5.76.76 1.23 1.52 1.41 2.5z"></path></svg>
-            <span>Concepts</span>
+            <span>{chrome.concepts}</span>
           </button>
           <button class="sidebar-tab" role="tab" data-sidebar-tab="faqs" aria-selected="false" aria-controls="sidebar-panel-faqs">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"></circle><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"></path><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
-            <span>FAQs</span>
+            <span>{chrome.faqs}</span>
           </button>
           <button class="sidebar-tab" role="tab" data-sidebar-tab="starred" aria-selected="false" aria-controls="sidebar-panel-starred">
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2l2.9 6.26 6.6.72-4.9 4.55 1.35 6.47L12 16.9 6.05 20l1.35-6.47-4.9-4.55 6.6-.72L12 2z"></path></svg>
-            <span>Starred</span>
+            <span>{chrome.starred}</span>
           </button>
         </div>
 
         <div class="sidebar-panel" id="sidebar-panel-concepts" role="tabpanel" data-sidebar-panel="concepts">
           <div class="sidebar-heading">
-            <a href="/aied/concepts/ai-education/">AI in Education</a>
-            <span class="sidebar-count">{indexedCount} concepts</span>
+            <a href="/aied/concepts/ai-education/">{chrome.umbrellaConcept}</a>
+            <span class="sidebar-count">{fill(chrome.countConcepts, { count: indexedCount })}</span>
           </div>
           {conceptIndex.map((section, si) => (
             <details class="nav-section" open={si === 0} data-state-key={`nav:${si}:${section.heading}`}>
@@ -1392,31 +1396,31 @@ const recentConceptItems = recentConcepts.map(c => ({
 
         <div class="sidebar-panel" id="sidebar-panel-faqs" role="tabpanel" data-sidebar-panel="faqs" hidden>
           <div class="sidebar-heading">
-            <a href="/aied/faq">Frequently Asked Questions</a>
-            <span class="sidebar-count">{sidebarFaqs.length} FAQs</span>
+            <a href="/aied/faq">{chrome.frequentlyAskedQuestions}</a>
+            <span class="sidebar-count">{fill(chrome.countFaqs, { count: sidebarFaqs.length })}</span>
           </div>
-          <FaqSidebarList faqs={sidebarFaqs} />
+          <FaqSidebarList faqs={sidebarFaqs} locale={locale} />
         </div>
 
         <div class="sidebar-panel" id="sidebar-panel-starred" role="tabpanel" data-sidebar-panel="starred" hidden>
-          <StarredPages titles={allTitles} />
+          <StarredPages titles={allTitles} locale={locale} />
         </div>
       </aside>
 
       <!-- Middle: page content -->
       <div class="middle" dir={contentDir}>
-        {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} />}
+        {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} title={chrome.onThisPage} />}
         <slot />
-        <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} />
+        <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} locale={locale} />
       </div>
 
       <!-- Right: on-this-page TOC (content pages) + recent activity.
            On mobile this rail stacks below the content in the single-column
            grid, so the recent lists also appear below the page there. -->
-      <aside class="right-col" aria-label={toc.length > 0 ? "On this page" : "Recent activity"}>
-        {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} />}
+      <aside class="right-col" aria-label={toc.length > 0 ? chrome.onThisPage : chrome.recentActivity}>
+        {toc.length > 0 && <TableOfContents headings={toc} variant="desktop" pageTitle={title} title={chrome.onThisPage} />}
         <div class="recent-rail">
-          <RecentActivity pages={recentPageItems} concepts={recentConceptItems} />
+          <RecentActivity pages={recentPageItems} concepts={recentConceptItems} locale={locale} />
         </div>
       </aside>
     </div>
@@ -1425,13 +1429,13 @@ const recentConceptItems = recentConcepts.map(c => ({
   <footer>
     <div class="container">
       <div class="footer-nav">
-        <a href={`${siteConfig.basePath}/`}>Home</a> ·
-        <a href={`${siteConfig.basePath}/search`}>Search</a> ·
-        <a href={`${siteConfig.basePath}/journal`}>Journal</a> ·
-        <a href={`${siteConfig.basePath}/ai`}>Use with AI</a> ·
-        <a href={`${siteConfig.basePath}/resources`}>Resources</a> ·
+        <a href={`${siteConfig.basePath}/`}>{chrome.home}</a> ·
+        <a href={`${siteConfig.basePath}/search`}>{chrome.search}</a> ·
+        <a href={`${siteConfig.basePath}/journal`}>{ui.journalLink}</a> ·
+        <a href={`${siteConfig.basePath}/ai`}>{chrome.useWithAi}</a> ·
+        <a href={`${siteConfig.basePath}/resources`}>{chrome.resources}</a> ·
         <a href={siteConfig.repoUrl}>GitHub</a> ·
-        <a href={`${siteConfig.basePath}/rss.xml`}>RSS</a>
+        <a href={`${siteConfig.basePath}/rss.xml`}>{chrome.rss}</a>
       </div>
     </div>
     <div class="container">
@@ -1445,18 +1449,17 @@ const recentConceptItems = recentConcepts.map(c => ({
 
         <!-- Licensing Statement -->
         <p class="footer-text">
-          <span class="ai-sparkle" aria-hidden="true">✨</span> This website was generated by an <strong>AI agent</strong> and is dedicated to the public domain under a <a href={siteConfig.license.url} class="footer-link" target="_blank" rel="noopener noreferrer">{siteConfig.license.name}</a> license. No rights reserved.
+          <span class="ai-sparkle" aria-hidden="true">✨</span> <Fragment set:html={fill(chrome.footerLicenseHtml, { licenseUrl: siteConfig.license.url, licenseName: siteConfig.license.name })} />
         </p>
 
         <!-- Accuracy Disclaimer -->
         <p class="footer-disclaimer">
-          ⚠️ Disclaimer: AI-generated output may contain inaccuracies or errors.
+          ⚠️ {chrome.disclaimer}
         </p>
 
         <!-- Call to Action / Contact -->
         <p class="footer-contact">
-          Found an issue with the content?<br>
-          Please <a href={siteConfig.issuesUrl} class="footer-link" target="_blank" rel="noopener noreferrer">report it on GitHub</a>, or contact the site developer, <a href={siteConfig.editor.contactUrl} class="footer-link" target="_blank" rel="noopener noreferrer">{siteConfig.editor.name}</a>.
+          <Fragment set:html={fill(chrome.footerIssuesHtml, { issuesUrl: siteConfig.issuesUrl, contactUrl: siteConfig.editor.contactUrl, editorName: siteConfig.editor.name })} />
         </p>
       </footer>
     </div>
@@ -1656,8 +1659,10 @@ const recentConceptItems = recentConcepts.map(c => ({
         if (collapsed) root.setAttribute('data-sidebar-collapsed', '');
         else root.removeAttribute('data-sidebar-collapsed');
         btn.setAttribute('aria-pressed', collapsed ? 'true' : 'false');
-        btn.title = collapsed ? 'Expand sidebar' : 'Collapse sidebar';
-        btn.setAttribute('aria-label', collapsed ? 'Expand sidebar' : 'Collapse sidebar');
+        const expandLabel = btn.dataset.expandLabel || 'Expand sidebar';
+        const collapseLabel = btn.dataset.collapseLabel || 'Collapse sidebar';
+        btn.title = collapsed ? expandLabel : collapseLabel;
+        btn.setAttribute('aria-label', collapsed ? expandLabel : collapseLabel);
       };
       let collapsed = false;
       try { collapsed = localStorage.getItem(KEY) === '1'; } catch (e) {}
