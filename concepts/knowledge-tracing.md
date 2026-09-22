@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T10:03:01-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
@@ -27,6 +27,7 @@ Knowledge tracing transforms raw exercise responses into estimates of what a stu
 ### Approaches represented in the knowledge base
 
 - **Bayesian approaches:** [[stanbkt-bayesian-knowledge-tracing]] standardizes BKT implementations, while [[mbp-kt-meta-behavioral-knowledge-tracing]] incorporates meta-behavioral signals
+- **Soft-evidence BKT with an LLM observation function:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] keeps the BKT structure but replaces the binary correct/incorrect observation — standard BKT's input — with a continuous one: an [[llm]] grader emits graded mastery evidence plus a confidence weight, blended into a confidence-shrunk posterior and gated so that a clearly wrong answer cannot raise the estimate, which makes the update a variant that generalizes standard BKT rather than a strict reduction of it. Whether that observation function is trustworthy depends on the learner: mean evidence separated ability tiers cleanly (0.25 weak / 0.67 mixed / 0.77 strong) while within-tier correlation with true mastery was only r ≈ 0.15 / 0.48 / 0.41, leaving the traced state an agent's belief about the learner rather than a calibrated measurement.
 - **Neural and hybrid models:** [[neural-symbolic-knowledge-tracing]] combines symbolic reasoning with [[machine-learning|neural networks]]; [[explainable-probabilistic-kt]] advances interpretable probabilistic models
 - **Hypergraph memory networks:** [[thymen-temporal-hypergraph-knowledge-tracing-2026|THyMeN]] augments memory-based tracing (DKVMN) with temporal hypergraph reasoning, modeling dynamic higher-order interactions among concepts that co-occur within multi-skill questions
 - **Dialogue-based KT:** [[huang-interpretable-knowledge-tracing-2026]] adapts knowledge tracing for conversational tutoring
@@ -83,3 +84,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[schuetze-knowledge-tracing-forgetting-2026]]
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop

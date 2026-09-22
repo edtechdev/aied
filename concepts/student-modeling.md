@@ -1,7 +1,7 @@
 ---
 title: "Learner Modeling and Adaptive Instruction"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-19T21:07:40-04:00"
+updated: "2026-09-22T10:03:01-04:00"
 type: concept
 technology: [adaptive-learning, cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, simulating-students, student-modeling]
 confidence: high
@@ -65,7 +65,7 @@ Across the whole family, the defining validity challenge is the same: the learne
 
 ## LLM-era modeling
 
-Recent advances use [[llm|LLMs]] for richer modeling. The [[xie-hillm-cd-2026|HiLLM-CD framework]] represents students as proficiency trees; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] construct evidence-grounded knowledge representations from diverse data sources; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLMs enable automated model construction from educational text and higher-fidelity [[simulating-students|student simulation]], reducing reliance on expert annotation — while sharpening the fidelity concerns above. Learner-model signals also *ground* LLM reasoning: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that feeding GPT-4 a student's Bayesian [[knowledge-tracing]] skill estimate along with the tutor's interface structure sharply improved its error diagnosis (logical-error identification rising from 40% to 81% on factoring; ~87.8% overall), while multi-step problems and responses containing several errors remained the weakest cases — evidence that coupling a formal learner model to an LLM strengthens, but does not guarantee, sound inference about a real student.
+Recent advances use [[llm|LLMs]] for richer modeling. The [[xie-hillm-cd-2026|HiLLM-CD framework]] represents students as proficiency trees; [[multimodal-knowledge-graph-educational-reasoning|multimodal approaches]] construct evidence-grounded knowledge representations from diverse data sources; [[inside-llm-student-simulator-reasoning-2026|LLMs now simulate students with reasoning]]. LLMs enable automated model construction from educational text and higher-fidelity [[simulating-students|student simulation]], reducing reliance on expert annotation — while sharpening the fidelity concerns above. Learner-model signals also *ground* LLM reasoning: [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora & MacLellan (2025)]] found that feeding GPT-4 a student's Bayesian [[knowledge-tracing]] skill estimate along with the tutor's interface structure sharply improved its error diagnosis (logical-error identification rising from 40% to 81% on factoring; ~87.8% overall), while multi-step problems and responses containing several errors remained the weakest cases — evidence that coupling a formal learner model to an LLM strengthens, but does not guarantee, sound inference about a real student. [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] shows what a persistent version of that coupling looks like: mastery and mined misconceptions are stored per (learner, subject) rather than as per-session logs, so evidence accumulates across sessions, and the memory is written by an LLM-graded observation function while staying inspectable to the learner through mastery bars and a label naming what each generated question was chosen to probe. Its controls make the writing step explicit — with the memory read but no longer updated, the share of items aimed at a genuinely weak skill fell from 0.72 to 0.57 — and it keeps this page's qualification intact: the stored mastery is the agent's belief about the learner, not a measurement of their knowledge.
 
 ## Connections to other concepts
 
@@ -138,3 +138,4 @@ Learner modeling and adaptive instruction feed into [[learning-analytics]] ([[vi
 - [[misconception-acquisition-dynamics-llms-2026]] — the Expert Tutor Misconception Model as a computational analogue of knowledge of student misconceptions
 - [[llm-distractor-generation-student-reasoning-2026]] — modeling incorrect reasoning rather than correctness
 - [[swim-student-writing-simulation-2026]] — proficiency-conditioned modeling of student writing
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop

@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-15T12:56:46-04:00"
+updated: "2026-09-22T10:03:01-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -31,6 +31,7 @@ The knowledge base's research illustrates several approaches:
 
 - **Generate-then-validate pipelines:** [[generate-then-validate-question-gen|Generate-Then-Validate]] introduces a generation → validation → refinement loop that reduces LLM hallucination by 62% compared to direct generation, achieving 89% accuracy on [[stem-education|STEM]] datasets and a 23% improvement in relevance. The validation step filters invalid or low-quality items, and failed items trigger re-generation with corrective prompts.
 - **Knowledge-tracing-based generation:** [[kt4eqg-personalized-question-generation|KT4EQG]] generates personalized exercise questions guided by [[knowledge-tracing|knowledge tracing]], tailoring items to each learner's knowledge state rather than generating generic questions.
+- **Misconception-bound distractors as diagnostic labels:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] attaches each distractor to a single mined misconception and marks exactly one correct option, so an item is generated with its diagnostic targets built in and can then be graded deterministically with no [[llm]] call — about 7.6 seconds and roughly $0.005 per round on the authors' live deployment, against about 32 seconds and $0.015 for an LLM-graded short-answer round. The binding is only as good as the misconception labels behind it, since mined misconceptions matched the target misconceptions at F1 ≈ 0.56, and its item choices served a genuinely weak skill 0.72 of the time.
 - **Cognitive-depth-aware generation:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examines whether generated items tap [[critical-thinking|higher-order thinking]] (creation, evaluation) or only memorization, connecting to Bloom's taxonomy and [[educational-measurement]].
 - **[[pedagogy|Pedagogical]] pipelines:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] uses a multi-stage pipeline for pedagogically sound question generation from course materials.
 - **Accessibility-aware generation:** [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al.]] design an LLM-powered question-generation system for [[inclusive-learning|Deaf and Hard of Hearing learners]], introducing Visual and Emotion question strategies that target moments of visual or emotional difficulty in video, and iteratively refining questions with the target community to ensure linguistic accessibility.
@@ -104,3 +105,5 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[llm-turing-test-italian-legal-exams-2026]] — LLM Turing test in legal exams
 - [[razavi-powers-item-difficulty-llm-2026]] — Estimating item difficulty using LLMs and tree-based ML
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
+- [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
