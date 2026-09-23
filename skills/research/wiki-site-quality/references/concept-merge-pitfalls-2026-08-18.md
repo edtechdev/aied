@@ -30,7 +30,7 @@ tags — distinguish these from wikilinks.
 "previous header − 1". A cron ingest can add articles while you work.
 
 Observed 2026-08-18: the header said **849**; the merge deleted one concept, but recounting
-`ls articles/*.md | wc -l` + `ls concepts/*.md | wc -l` gave **848** because the cron had
+`ls content/en/articles/*.md | wc -l` + `ls content/en/concepts/*.md | wc -l` gave **848** because the cron had
 added +2 articles since the 849 header was written. If you just decrement (849→848) you'd be
 wrong for the wrong reason and likely off by the cron delta.
 

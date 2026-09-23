@@ -60,7 +60,7 @@ concepts = {x[:-3] for x in os.listdir('concepts') if x.endswith('.md')}
 arts = {x[:-3] for x in os.listdir('articles') if x.endswith('.md')}
 red = dict(re.findall(r"'([a-z-]+)': '([a-z-]+)'", open('src/data/conceptRedirects.ts').read()))
 allslugs = concepts | arts | set(red.keys())
-c = open('concepts/<new-umbrella>.md').read()
+c = open('content/en/concepts/<new-umbrella>.md').read()
 missing = [l for l in re.findall(r'\[\[([a-z0-9-]+)(?:\|[^\]]+)?\]\]', c) if l not in allslugs]
 print(missing)  # must be []
 ```

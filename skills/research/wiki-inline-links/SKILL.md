@@ -27,7 +27,7 @@ metadata:
 > the real pages (that is how a "dry run" in a temp dir once modified 176 concept
 > files, caught only by `git status`). For a safe trial, COPY the pages into a scratch dir, or just run report mode (no
 > `--apply`) and review the suggestions.
-> After any `--apply`, always diff: `git status --short concepts/ articles/`.
+> After any `--apply`, always diff: `git status --short content/en/concepts/ content/en/articles/`.
 > **Pitfall — never re-run `--apply` over pages you have already hand-corrected
 > (2026-09-16).** `--apply` is deterministic: it re-inserts every link it proposed the
 > first time, including the ones you deliberately reverted. Re-running a batch pass over
@@ -39,7 +39,7 @@ metadata:
 >
 > **Supplementary check for mis-applied links.** Grep the narrative for a list of the
 > display texts you previously rejected and confirm none came back, e.g.:
-> `grep -nE '\[\[(writing-education|stakeholders|quantitative-research|higher-ed|self-efficacy|metacognition)\|' articles/*.md`
+> `grep -nE '\[\[(writing-education|stakeholders|quantitative-research|higher-ed|self-efficacy|metacognition)\|' content/en/articles/*.md`
 > then read each hit's sentence.
 
 
@@ -52,7 +52,7 @@ metadata:
 > pass. When linking by hand: compute the frontmatter end (`raw.split('---', 2)`), restrict
 > the search to the **body only**, and re-check afterwards that
 > `'[[' not in raw.split('---', 2)[1]` for every page you touched. A wiki-wide sweep is
-> cheap: loop `articles/`, `concepts/`, `faqs/` and assert no `[[` appears in the
+> cheap: loop `content/en/articles/`, `content/en/concepts/`, `content/en/faqs/` and assert no `[[` appears in the
 > frontmatter of any page.
 
 > **Pitfall — `--apply` alone is an INCOMPLETE pass (2026-09-16, maintainer-caught).**
@@ -109,7 +109,7 @@ Adds and fixes inline `[[wikilinks]]` in the **body narratives** of wiki article
 > Pair with `research-wiki` (Phase 1 ingestion + Phase 2 Astro export). This skill is the editorial linking pass that runs on top of every newly created/enriched page.
 
 ## When to Use
-- A new `articles/<slug>.md` or `concepts/<slug>.md` page has been created (manual or cron)
+- A new `content/en/articles/<slug>.md` or `content/en/concepts/<slug>.md` page has been created (manual or cron)
 - An existing page's narrative has been edited and needs its links re-scanned
 - The user reports missing inline links, self-links, or links in headings on any page
 - **Cron**: every article/concept ingestion must include this linking pass before build/deploy

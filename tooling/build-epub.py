@@ -9,6 +9,9 @@ internal anchors so navigation works inside the reader.
 """
 import os, re, glob, subprocess, datetime, json, sys
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts'))
+sys.path.insert(0, os.path.join(WIKI, 'tooling', 'scripts'))
+from content_paths import collection as _collection  # noqa: E402
+import content_paths  # noqa: E402
 from wikilink_text import smart_title, WIKILINK_RE  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -54,16 +57,16 @@ AI_HOW_MADE = (
 )
 ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
 
-CONCEPTS_DIR = os.path.join(WIKI, 'concepts')
-FAQS_DIR = os.path.join(WIKI, 'faqs')
-RESOURCES_DIR = os.path.join(WIKI, 'resources')
+CONCEPTS_DIR = str(content_paths.collection('concepts'))
+FAQS_DIR = str(content_paths.collection('faqs'))
+RESOURCES_DIR = str(content_paths.collection('resources'))
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 OUT = os.path.join(WIKI, 'public', 'aied.epub')
 
 # --- load slug sets + redirects ---
 concept_slugs = {c[:-3] for c in os.listdir(CONCEPTS_DIR) if c.endswith('.md')}
 faq_slugs = {f[:-3] for f in os.listdir(FAQS_DIR) if f.endswith('.md')}
-article_slugs = {a[:-3] for a in os.listdir(os.path.join(WIKI,'articles')) if a.endswith('.md')}
+article_slugs = {a[:-3] for a in os.listdir(content_paths.collection('articles')) if a.endswith('.md')}
 
 # FAQ slug -> title map (for the Connected FAQs sections)
 faq_titles = {}
@@ -216,7 +219,7 @@ def astro_body_markdown(astro_path, chapter_h1):
     m = re.search(r'<BaseLayout\b[^>]*>(.*?)</BaseLayout>', src, re.S)
     body = m.group(1) if m else src
 
-    n_articles = len([f for f in os.listdir(os.path.join(WIKI,'articles')) if f.endswith('.md')])
+    n_articles = len([f for f in os.listdir(content_paths.collection('articles')) if f.endswith('.md')])
     n_concepts = len(concept_slugs)
     body = body.replace('{articles.length}', str(n_articles))
     body = body.replace('{concepts.length}', str(n_concepts))

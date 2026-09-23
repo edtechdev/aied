@@ -6,7 +6,7 @@ Concepts live in THREE places that silently fall out of sync, and a user may ask
 left sidebar match the actual number of Concepts on the site?" — **verify with code, never
 assume, and never count by hand.**
 
-1. `concepts/*.md` — the actual concept pages (ground truth).
+1. `content/en/concepts/*.md` — the actual concept pages (ground truth).
 2. `src/data/conceptIndex.ts` — the **left sidebar**. Its `items` arrays group slugs by
    section (e.g. "Learning theories and processes", "Institutions and systems").
 3. `tooling/concept-index.md` — the canonical/alias reference, with a `## Canonical concepts`
@@ -24,7 +24,7 @@ they were pages, and its "Total concepts" header was stale (156 vs true 172).
 ```python
 import os, re
 # 1. actual files (ground truth)
-actual = set(f[:-3] for f in os.listdir("concepts/") if f.endswith(".md"))
+actual = set(f[:-3] for f in os.listdir("content/en/concepts/") if f.endswith(".md"))
 # 2. sidebar slugs — grep all single-quoted slug tokens from conceptIndex.ts
 ts = open("src/data/conceptIndex.ts").read()
 index_slugs = set(re.findall(r"'([a-z0-9-]+)'", ts))
@@ -57,5 +57,5 @@ are empty.
 
 When adding a concept to `tooling/concept-index.md`, insert the `- **`slug`** — Title` line in
 the alphabetical spot in the `## Canonical concepts` section, and set the `**Total concepts:**`
-header to the true count computed from `concepts/*.md`. Leave the `## Merged / absorbed`
+header to the true count computed from `content/en/concepts/*.md`. Leave the `## Merged / absorbed`
 redirects untouched (they are intentionally not counted).

@@ -24,6 +24,8 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 CONFIG = os.path.join(ROOT, 'src', 'content.config.ts')
 SCHEMA_MD = os.path.join(ROOT, 'tooling', 'SCHEMA.md')
 BEGIN_MARKER = '<!-- BEGIN GENERATED VOCABULARIES (source: src/content.config.ts) -->'
@@ -133,7 +135,7 @@ def main() -> int:
     missing: list[str] = []
 
     for coll in COLLECTIONS:
-        for path in sorted(glob.glob(os.path.join(ROOT, coll, '*.md'))):
+        for path in sorted(glob.glob(content_paths.glob_md(coll))):
             totals[coll] += 1
             fm = frontmatter(path)
             slug = f'{coll}/{os.path.basename(path)[:-3]}'

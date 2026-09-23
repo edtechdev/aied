@@ -11,6 +11,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wikilink_text import resolve_wikilinks, strip_md_links  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 
 # Single source of truth for site-wide metadata (shared with the Astro site
 # and build-epub.py via site.config.json at the repo root).
@@ -45,7 +47,7 @@ def load_titles():
     """
     titles = {}
     for d in ('concepts', 'articles', 'faqs'):
-        dirpath = os.path.join(WIKI, d)
+        dirpath = str(content_paths.collection(d))
         if not os.path.isdir(dirpath):
             continue
         for f in os.listdir(dirpath):
@@ -98,7 +100,7 @@ def concept_order():
 def collect():
     articles, concepts, faqs = [], [], []
     for d, store in [('articles', articles), ('concepts', concepts), ('faqs', faqs)]:
-        dirpath = os.path.join(WIKI, d)
+        dirpath = str(content_paths.collection(d))
         if not os.path.isdir(dirpath):
             continue
         for f in sorted(os.listdir(dirpath)):

@@ -6,7 +6,7 @@ A dedicated concept page is justified when a term is discussed in **>= 3 article
 wiki (the maintainer's threshold) even if it currently only appears inline inside other concept
 pages. Example: "prior knowledge" appeared in 19 articles and was covered inline inside 7 concept
 pages (math-education, constructivist, help-seeking, icap-framework, simulating-students,
-socratic-method, personalized-learning) but had no page of its own → create `concepts/prior-knowledge.md`.
+socratic-method, personalized-learning) but had no page of its own → create `content/en/concepts/prior-knowledge.md`.
 
 Confirm the threshold and that no existing concept already covers it before creating.
 
@@ -16,7 +16,7 @@ New concept pages require FOUR registration touch-points, not just writing the .
 Missing any of them produces an invisible-but-broken concept (page exists, but no sidebar entry,
 no linkable slug for the scanner, no phrase in the concept index):
 
-1. **Write the page** `concepts/<slug>.md` — frontmatter (title, created, updated, type: concept,
+1. **Write the page** `content/en/concepts/<slug>.md` — frontmatter (title, created, updated, type: concept,
    tags, confidence), lead blockquote `> **<Name>** — ...`, body sections, `## Connected Concepts`
    and `## Connected Articles`. Use `^[[article-slug]]` inline footnote refs for key sources and
    include those articles in Connected Articles too. Remove duplicate entries in Connected lists.

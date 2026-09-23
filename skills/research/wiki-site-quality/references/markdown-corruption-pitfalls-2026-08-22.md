@@ -18,7 +18,7 @@ They render as visible backslash text on the page, usually in the first narrativ
 **Detect across the WHOLE wiki, not just the file you were asked to fix:**
 
 ```bash
-grep -rlP '\\u[0-9a-fA-F]{4}|\\n|\\t|\\r' articles/ concepts/
+grep -rlP '\\u[0-9a-fA-F]{4}|\\n|\\t|\\r' content/en/articles/ content/en/concepts/
 ```
 
 **Fix:** replace each literal code with the real character (`\u2014` → `—`, `\u00e1` → `á`), and turn literal `\n\n` into an actual blank line (paragraph break). Do NOT "repair" the token into anything else — the codes are unambiguous.
@@ -36,7 +36,7 @@ In CommonMark, a **blank line between numbered list items breaks the ordered lis
 **Detect other occurrences across the wiki:**
 
 ```bash
-grep -rlP '^\d+\. .*\n\n^\d+\. ' articles/ concepts/
+grep -rlP '^\d+\. .*\n\n^\d+\. ' content/en/articles/ content/en/concepts/
 ```
 
 Same blank-line rule applies to any markdown list meant to be continuous (bulleted lists are also affected but the "every item shows 1" symptom is specific to ordered lists).

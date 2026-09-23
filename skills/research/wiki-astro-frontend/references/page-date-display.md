@@ -22,7 +22,7 @@ const updatedDisplay = (updated || created || '').split('T')[0];
 ```
 
 ## The bug (fixed)
-Before 2026-08-22, `articles/[slug].astro` destructured only `created` (not `updated`) and rendered just `{confIcon} {confidence} · {createdDisplay}` — so significantly-updated articles showed NO revision date, while concept pages already showed both. The article template was changed to read `updated` and render the `· updated {date}` segment conditionally.
+Before 2026-08-22, `content/en/articles/[slug].astro` destructured only `created` (not `updated`) and rendered just `{confIcon} {confidence} · {createdDisplay}` — so significantly-updated articles showed NO revision date, while concept pages already showed both. The article template was changed to read `updated` and render the `· updated {date}` segment conditionally.
 
 ## Rule of thumb
 - The `· updated {date}` segment renders ONLY when an `updated` frontmatter field is present, so a freshly-created page with no update just shows `created`.

@@ -33,6 +33,8 @@ import sys
 from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
+import content_paths
+
 
 # British form -> US form. Only unambiguous prose words: words that are also
 # correct US English (analysis, emphasis, promise, enterprise, supervised, rise,
@@ -135,8 +137,8 @@ SLUGS = set()
 
 def _load_slugs() -> None:
     for sub in ("articles", "concepts", "faqs"):
-        d = REPO / sub
-        if d.exists():
+        d = content_paths.collection(sub)
+        if d.is_dir():
             for f in d.glob("*.md"):
                 SLUGS.add(f.stem)
 
@@ -190,8 +192,8 @@ def scan_file(path: Path) -> dict:
 
 def targets(include_docs: bool):
     for sub in ("articles", "concepts", "faqs"):
-        d = REPO / sub
-        if d.exists():
+        d = content_paths.collection(sub)
+        if d.is_dir():
             yield from sorted(d.glob("*.md"))
     if include_docs:
         for p in [REPO / "AGENTS.md", REPO / "README.md"]:

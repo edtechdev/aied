@@ -35,13 +35,39 @@ Why --apply exists:
 """
 import os, re, sys, json
 
+def content_base(wiki):
+    """Folder holding the default-locale collections inside `wiki`.
+
+    Reads the wiki's `site.config.json` `content` block when present - the layout
+    wiki.config.yaml documents, <content root>/<locale>/<collection>/ - and falls
+    back to the flat layout (concepts/ directly under the wiki root) otherwise, so
+    the same script works in every wiki this skill is used on.
+    """
+    root = default = ''
+    try:
+        with open(os.path.join(wiki, 'site.config.json'), encoding='utf-8') as fh:
+            data = json.load(fh)
+        cfg = data.get('content') or {}
+        root = cfg.get('root') or ''
+        default = cfg.get('defaultDir') or (data.get('i18n') or {}).get('defaultLocale') or ''
+    except (OSError, ValueError):
+        pass   # no site.config.json (or unreadable): a legacy wiki, flat layout
+    if not root:
+        return wiki
+    return os.path.join(wiki, root, default) if default else os.path.join(wiki, root)
+
+
 def load_concepts(wiki):
     concepts = {}
-    for f in os.listdir(f'{wiki}/concepts'):
+    base = content_base(wiki)
+    cdir = os.path.join(base, 'concepts')
+    if not os.path.isdir(cdir):
+        return concepts
+    for f in os.listdir(cdir):
         if not f.endswith('.md'):
             continue
         slug = f[:-3]
-        txt = open(f'{wiki}/concepts/{f}', encoding='utf-8').read()
+        txt = open(os.path.join(cdir, f), encoding='utf-8').read()
         m = re.search(r'^title:\s*["\']?(.*?)["\']?\s*$', txt, re.M)
         concepts[slug] = m.group(1) if m else slug
     return concepts
@@ -636,8 +662,9 @@ def main():
     args = [a for a in args if a != '--apply']
     pages = []
     if args and args[0] == '--all':
+        base = content_base(wiki)
         for d in ['articles', 'concepts', 'faqs']:
-            dd = f'{wiki}/{d}'
+            dd = os.path.join(base, d)
             if not os.path.isdir(dd):
                 continue
             for f in os.listdir(dd):
@@ -645,15 +672,16 @@ def main():
                     pages.append((f[:-3], d))
     else:
         for s in args:
+            base = content_base(wiki)
             for d in ['articles', 'concepts', 'faqs']:
-                if os.path.exists(f'{wiki}/{d}/{s}.md'):
+                if os.path.exists(os.path.join(base, d, f'{s}.md')):
                     pages.append((s, d))
                     break
             else:
                 print(f"(skip {s}: not found)")
     total_applied = 0
     for slug, d in pages:
-        path = f'{wiki}/{d}/{slug}.md'
+        path = os.path.join(content_base(wiki), d, f'{slug}.md')
         del REJECTED_HITS[:]
         try:
             n, edits, _ = apply_links(path, slug, concepts, dry_run=not apply_mode)

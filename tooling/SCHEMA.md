@@ -11,7 +11,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
-- **Three page types:** `articles/<slug>.md` for individual papers, `concepts/<slug>.md` for broad topics that synthesize multiple papers, and `faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to concepts/articles via `connected_faqs` (below).
+- **Three page types:** `content/en/articles/<slug>.md` for individual papers, `content/en/concepts/<slug>.md` for broad topics that synthesize multiple papers, and `content/en/faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to content/en/concepts/articles via `connected_faqs` (below).
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
@@ -218,7 +218,7 @@ section.
 ```
 (No citation section — concepts synthesize multiple sources.)
 
-### FAQ page body structure (`faqs/<slug>.md`)
+### FAQ page body structure (`content/en/faqs/<slug>.md`)
 ```
 ---
 title: "Question being answered?"
@@ -232,7 +232,7 @@ audience: [instructors]
 # Question being answered?
 
 Narrative answer with [[wikilinks]] to concepts, articles, and other FAQs
-(mirror the aggressive inline-link convention of articles/concepts).
+(mirror the aggressive inline-link convention of content/en/articles/concepts).
 ```
 FAQ pages have **no** Connected Concepts/Connected Articles/Citation sections and **no** `sources`
 field (they are curated answers, not paper summaries). They are indexed in `llms.txt`/`llms-full.txt`,
@@ -240,7 +240,7 @@ appear on the journal page (❓ badge), and are listed in concept/article "Conne
 via `connected_faqs`. Numbered lists inside a FAQ must be written as ONE contiguous block (no blank
 lines between items) so they don't render as repeated `1.` (see the list-formatting HARD GATE).
 
-### Resource page structure (`resources/<slug>.md`)
+### Resource page structure (`content/en/resources/<slug>.md`)
 
 ```
 ---
@@ -291,7 +291,7 @@ Requirements and conventions:
   case study collection, dataset or benchmark.
 - `access` describes what a reader has to give up to use it; `license` only records a licence the site
   itself states.
-- `connected_resources` is frontmatter (validated against `resources/`), so the section can never
+- `connected_resources` is frontmatter (validated against `content/en/resources/`), so the section can never
   point at a page that does not exist. The same field is available on articles, concepts and FAQs.
 - Encyclopedia-style body, roughly 200–350 words across the sections above (a platform with several capability areas sits at the top of that range), US English, `[[wikilinks]]` to
   concepts in the body and a `## Connected Concepts` list naming the concepts the resource serves.
@@ -345,7 +345,7 @@ When new information conflicts with existing content:
 4. Flag for user review in the lint report
 
 ## Journal (`journal.md`)
-- Reverse chronological index of all ingested articles/papers/concepts/FAQs.
+- Reverse chronological index of all ingested content/en/articles/papers/concepts/FAQs.
 - Automatically regenerated: sorted by `created` date in frontmatter, newest first.
 - Shows: type badge (📄 article / 🏷️ concept / ❓ FAQ), wikilink to page, source reference, full title, and tags.
 - Excludes low-confidence stubs with no sources.

@@ -73,8 +73,8 @@ For tags with ≥5 articles but no matching concept page (needed for tag page su
 
 | Concept Stub | Tag | Articles |
 |-------------|-----|----------|
-| `concepts/agentic-ai.md` | `agentic-ai` | 15 |
-| `concepts/ai-tutoring.md` | `ai-tutoring` | 5 |
+| `content/en/concepts/agentic-ai.md` | `agentic-ai` | 15 |
+| `content/en/concepts/ai-tutoring.md` | `ai-tutoring` | 5 |
 
 ## Detection Script
 

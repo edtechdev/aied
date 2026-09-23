@@ -13,7 +13,7 @@ updates the sidebar, the site TOC, and the offline TOCs in one place.
 Correct sequence (do ALL of these, not just the .ts edit):
 1. **`src/data/conceptIndex.ts`** — remove the slug from its old group, add it to
 the new group (keep alphabetical-ish order within the group).
-2. **`concepts/ai-education.md`** — the umbrella page's narrative lists which
+2. **`content/en/concepts/ai-education.md`** — the umbrella page's narrative lists which
 concepts live in which group. Update the matching bullet (e.g. the
 `- **Core pedagogies:** ...` line, the `- **Ethics and responsibility:**` line, or
 the `## Foundations ... cross-cutting themes` paragraph) so prose matches the

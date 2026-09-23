@@ -1,13 +1,13 @@
 # Article citation & frontmatter quality audit
 
-A reusable workflow for cleaning up `articles/*.md` files across the wiki. the maintainer
+A reusable workflow for cleaning up `content/en/articles/*.md` files across the wiki. the maintainer
 flags articles whose citation is mangled, whose header mentions "arXiv" as a
 standalone source, or whose tags are duplicated. Run this as a class-level sweep
 when he says "clean up / fix any other articles like this one."
 
 ## The audit — deterministic scans (run via `execute_code`/Python, not grep)
 
-Scan every `articles/*.md`; for each, pull the `## Citation` block and frontmatter.
+Scan every `content/en/articles/*.md`; for each, pull the `## Citation` block and frontmatter.
 
 ### 1. Mangled citations (garbage in the author field)
 The worst failures look like:

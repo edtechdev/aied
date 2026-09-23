@@ -37,7 +37,7 @@ run_gate "list-formatting" python3 skills/research/wiki-inline-links/scripts/che
 run_gate "facets" python3 tooling/scripts/validate-facets.py
 
 articles=()
-for p in "$@"; do case "$p" in articles/*.md) articles+=("$PWD/$p");; esac; done
+for p in "$@"; do case "$p" in content/*/articles/*.md|articles/*.md) articles+=("$PWD/$p");; esac; done
 if [ "${#articles[@]}" -gt 0 ]; then
   printf '%s\n' "${articles[@]}" > /tmp/commit-if-green-slugs.txt
   out="$(python3 tooling/scripts/audit-article-sections.py --slugs-file /tmp/commit-if-green-slugs.txt 2>&1)"
