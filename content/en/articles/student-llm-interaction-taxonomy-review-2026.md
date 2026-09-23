@@ -1,7 +1,7 @@
 ---
 title: "Toward Convergence in Student-LLM Interactions: A Rapid Scoping Review and Taxonomy for Learning-Oriented Use"
 created: "2026-08-14T09:17:22-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-23T16:29:16-04:00"
 type: article
 pedagogy: [self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, learning-analytics, llm]
@@ -41,7 +41,7 @@ To integrate these divergent categorizations, the review adopts the *interaction
 
 ## Toward a Shared Taxonomy
 
-The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The authors situate these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM [[student-engagement|engagement]] produces learning rather than mere completion. They position the taxonomy as complementary to other pathways toward convergence: meta-theoretical frameworks distinguishing learning- versus performance-oriented engagement, application of established theories such as ICAP and Bloom, and new AI-specific theories like Agentivism. Integrating interaction taxonomies with [[learning-analytics]] and adaptive educational systems is identified as a promising direction for correlating instructional dialogue acts with rates of skill acquisition and [[learning-gains]].
+The lack of shared terminology motivates a convergent taxonomy of learning-oriented use. The authors situate these interaction categories within [[self-regulated-learning]] and [[learning-analytics]], supporting [[research-methods-aied]] for synthesizing evidence on [[ai-feedback-quality]] and the conditions under which student-LLM [[student-engagement|engagement]] produces learning rather than mere completion. They position the taxonomy as complementary to other pathways toward convergence: meta-theoretical frameworks distinguishing learning- versus performance-oriented engagement, application of established theories such as ICAP and Bloom, and new AI-specific theories like [[yan-agentivism-learning-theory-ai-2026|Agentivism]]. Integrating interaction taxonomies with [[learning-analytics]] and adaptive educational systems is identified as a promising direction for correlating instructional dialogue acts with rates of skill acquisition and [[learning-gains]].
 
 ## What this means for practice
 
