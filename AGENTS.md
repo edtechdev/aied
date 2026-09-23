@@ -6,9 +6,24 @@ Static site built with Astro, deployed to GitHub Pages from `main` branch at htt
 
 ### Page types
 
-Four content collections: **articles**, **concepts**, **resources**, and **faqs**, each in their own directory with strict structure.
+Every markdown page lives under ONE content root, addressed as
+`<content root>/<locale>/<collection>/<slug>.md` — here `content/en/…` for the
+English pages and `content/<code>/…` for a translation:
 
-### Article page structure (`articles/{slug}.md`)
+    content/<locale>/{articles,concepts,resources,faqs}/<slug>.md
+
+The root and the default (source-language) folder are configuration, not code:
+`content.root` and `content.defaultDir` in `site.config.json`, where `defaultDir`
+defaults to `i18n.defaultLocale`. The build reads them through
+`src/config/content.ts` and the tooling through `tooling/scripts/content_paths.py`,
+so moving the tree means editing two values and nothing else. Keep it that way: no
+script may hardcode the root. A locale folder holds only the pages that exist in
+that language; every other page falls back to the English one at its English URL.
+
+Four content collections — **articles**, **concepts**, **resources** and **faqs** —
+each a folder inside a locale folder, with strict structure.
+
+### Article page structure (`content/en/articles/{slug}.md`)
 
 Every article page follows this fixed section order — Synthesis → Key Findings → 3-4 body sections → What this means for practice → Limitations → Connected Concepts → Connected Articles (the page template appends Connected FAQs after them) → Citation (last, per the standing rule):
 
@@ -72,7 +87,7 @@ Rules for the two sections above:
 - **Body budget: 750-1,000 words** (frontmatter end → `## Connected Concepts`). The two sections are paid for out of the existing body, never bolted on top. Measure before committing, and never drop a distinct `[[wikilink]]` target to make the cut. When a page predates the budget and runs 2-3x over (many ingested 2026-09-13..18 do), add the missing sections and **report the page as over budget** rather than silently rewriting it — trimming a 2,000-word page back to the budget is its own pass with its own review, and doing it as a side effect of a section addition is how content gets lost.
 - Nothing comes after `## Citation` (the standing citation rule keeps it last): the page template appends Connected FAQs, the metadata table and the source buttons.
 
-### Concept page structure (`concepts/{slug}.md`)
+### Concept page structure (`content/en/concepts/{slug}.md`)
 
 Every concept page has synthesis → Questions to Consider → Introduction → body → Connected sections:
 
@@ -100,7 +115,7 @@ own context. One contiguous bulleted list (no blank lines between items).
 
 Narrative intro labeling the start of the body.
 
-Rich body content with embedded wikilinks to related articles/concepts.
+Rich body content with embedded wikilinks to related articles and concepts.
 
 ## Connected Concepts
 - [[concept-slug-1]]
@@ -111,7 +126,7 @@ Rich body content with embedded wikilinks to related articles/concepts.
 (max 25)
 ```
 
-### FAQ page structure (`faqs/{slug}.md`)
+### FAQ page structure (`content/en/faqs/{slug}.md`)
 
 Every FAQ page is a curated question-and-answer:
 
@@ -132,12 +147,16 @@ Narrative answer with embedded [[wikilinks]] to concepts, articles, and other FA
 
 FAQ pages have **no** `sources`, **no** Connected Concepts/Connected Articles/Citation sections — they
 are curated answers, not paper summaries. Their narrative follows the same inline-link convention as
-articles/concepts (link every concept mention). To surface a FAQ on a concept/article page, add the
+articles and concepts (link every concept mention). To surface a FAQ on a concept/article page, add the
 FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs** section).
 
 ### Sources of truth
 
 - **Site identity** (name, URL, base path, editor, license, theme): `site.config.json`.
+- **Content location**: `site.config.json` (`content.root`, `content.defaultDir`) — the
+  one place the markdown tree's path is set; resolve it through
+  `tooling/scripts/content_paths.py` (or `wiki_config.path(cfg, 'concepts')`) rather
+  than writing a content path by hand.
 - **Pipeline + scan settings** (paths, gate/build commands, arXiv sources, journal
   feeds, relevance filter, agent tool mapping): `wiki.config.yaml`. Read it with
   `python3 tooling/scripts/wiki_config.py` — never hardcode a path, journal, arXiv
@@ -169,7 +188,7 @@ FAQ slug to that page's `connected_faqs` frontmatter (renders a **Connected FAQs
 ### Rules
 - NO duplicate H1 headings in body (template adds the title)
 - NO duplicate sections (one Connected Concepts, one Connected Articles)
-- FAQ narratives follow the same inline-link convention as articles/concepts (link every concept mention, including links to other FAQs); `connected_faqs` on concept/article pages drives the Connected FAQs section
+- FAQ narratives follow the same inline-link convention as articles and concepts (link every concept mention, including links to other FAQs); `connected_faqs` on concept/article pages drives the Connected FAQs section
 - **Inline hyperlink rule (wiki-style, HARD GATE):** whenever a concept is mentioned by name in the BODY of a concept or article page, hyperlink that mention to the concept's page (e.g. `[[constructivist]]` in a sentence, or piped `[[cognitive-offloading|doing the cognitive work]]` when display text differs from the slug). Do this for every concept mention in body prose — exactly as wikis do — in addition to the Connected Concepts/Articles lists at the bottom. Use the most specific concept slug that matches the mention's meaning (not a looser one), and prefer the dedicated umbrella page when one exists (e.g. link plain "feedback" to `[[feedback]]`, not `[[feedback-loop]]`). **This pass is a BLOCKING PREREQUISITE before `npm run build` / commit / push / deploy on every newly created or enriched page — a green build does NOT substitute for it.** Load the `wiki-inline-links` skill and run the pass + verification (0 self-links, 0 heading links, balanced brackets, 0 broken links) on every new page first.
 - **Link targets come from the alias registry:** `concepts.registry.yaml` maps phrases (aliases) to concept pages, and matching is exact-string. A phrase registered as an alias of the wrong concept links there everywhere ("inclusive design" was an alias of `accessibility`, so inclusion language pointed at the accessibility page), and plurals or gerunds never match ("survey instrument" does not match "surveys"). When a link target looks wrong: check the registry first, read the source's own framing before deciding, fix the registry and every page already mis-linked, add the missing plural forms (no alias may map to two concepts), then re-run `python3 tooling/scripts/gen-concept-artifacts.py`. Prefer adding an alias over inventing a near-synonym concept page.
 - **US English (house style):** body prose, section headings and Connected-list blurbs use US spelling — behavior, program, modeling, judgment, organization, center, artifact, generalize, analyze, and -ize verbs (organize, prioritize, standardize). Never respell the `## Citation` section, a quoted paper title, or quoted participant text: those reproduce the published record verbatim. Check before build with `python3 tooling/scripts/check-us-english.py` (add `--include-docs` to check AGENTS.md, tooling/*.md and skills/*.md too). The checker deliberately ignores page slugs, wikilink targets and inline code — those are identifiers, not prose — so it stays green while a slug awaits a rename, and a respelling pass must never rewrite a link target. Renaming a slug to a US spelling is a separate pass: update every `[[…]]` target in the same commit, and add a redirect for the old slug (`src/data/articleRedirects.ts` for an article slug, the registry's `redirects:` block for a concept), then confirm the old URL still resolves and the new one builds.

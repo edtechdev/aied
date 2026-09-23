@@ -11,7 +11,7 @@ AI in Education — research, products, policies, and pedagogical debates around
 - When updating a page, always bump the `updated` date+time (see Frontmatter above)
 - Every new page must be added to `index.md` under the correct section
 - Every action must be appended to `log.md` (local-only, gitignored like `raw/` — not committed; persists on the local repo for scan-complete anchors)
-- **Three page types:** `content/en/articles/<slug>.md` for individual papers, `content/en/concepts/<slug>.md` for broad topics that synthesize multiple papers, and `content/en/faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to content/en/concepts/articles via `connected_faqs` (below).
+- **Three page types:** `content/en/articles/<slug>.md` for individual papers, `content/en/concepts/<slug>.md` for broad topics that synthesize multiple papers, and `content/en/faqs/<slug>.md` for curated question-and-answer pages. An article belongs on a concept page's Connected Articles list; a concept page explains the concept itself, not any single paper; a FAQ answers a specific question and connects to concepts and articles via `connected_faqs` (below).
 - **Provenance markers:** On pages that synthesize 3+ sources, append `^[raw/papers/source-file.md]`
   at the end of paragraphs whose claims come from a specific source. This lets a reader trace each
   claim back without re-reading the whole raw file. Optional on single-source pages where the
@@ -232,7 +232,7 @@ audience: [instructors]
 # Question being answered?
 
 Narrative answer with [[wikilinks]] to concepts, articles, and other FAQs
-(mirror the aggressive inline-link convention of content/en/articles/concepts).
+(mirror the aggressive inline-link convention of articles and concepts).
 ```
 FAQ pages have **no** Connected Concepts/Connected Articles/Citation sections and **no** `sources`
 field (they are curated answers, not paper summaries). They are indexed in `llms.txt`/`llms-full.txt`,

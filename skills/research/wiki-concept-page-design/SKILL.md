@@ -58,7 +58,7 @@ See `references/historical-concept-page.md` for the history-of-aied pattern (cre
 
 ### Concept-rename workflow (when you rename an umbrella)
 1. `git mv`/`os.rename` `content/en/concepts/<old>.md` → `content/en/concepts/<new>.md`; update frontmatter `title:`.
-2. Replace the old slug everywhere in `.md` (articles, concepts, index.md, journal.md, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in content/en/articles/concepts.
+2. Replace the old slug everywhere in `.md` (articles, concepts, index.md, journal.md, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in articles and concepts.
 3. Update `src/data/conceptIndex.ts` (sidebar) and `tooling/concept-index.md` (canonical list, alphabetical spot).
 4. Fix piped display labels that still say the old title (e.g. `[[new-slug|Accessible Learning]]` → `[[new-slug|Inclusive Learning]]`).
 5. Add a **301 redirect** `'old-slug': 'new-slug'` in `src/data/conceptRedirects.ts` so old links resolve (verify live: old URL title says "Redirecting to: /aied/concepts/new/").
