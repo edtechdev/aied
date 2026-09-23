@@ -33,7 +33,7 @@ Synchronous suggestions increased efficiency but led to contextual misalignment 
 - Single task and single session: 48 participants (16 per variant) completed one academic-writing task in about an hour, so the findings rest on a short, low-stakes opinion-piece prompt and may not extend to other writing or to longer collaboration.
 - Humanlikeness was simulated with heuristics: the agent's timing and cursor behavior were tuned to the mean and standard deviation of human keypresses rather than being genuinely human, and the authors note this may itself have shaped participant behavior.
 - The authors state their conclusions rest on qualitative findings because of the sample size, so the study establishes exploratory patterns rather than measured effects.
-- Convenience sample: participants were recruited through external Slack channels and the institute's paid-study listing, compensated $16 CAD, and averaged 28.1 years old (range 19 to 54).
+- Convenience sample: participants were recruited through external Slack channels and the institute's paid-study listing, compensated \$16 CAD, and averaged 28.1 years old (range 19 to 54).
 
 ## Connected Concepts
 

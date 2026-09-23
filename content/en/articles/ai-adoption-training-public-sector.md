@@ -40,7 +40,7 @@ The paper reports two auditable, third-party-verifiable cases rather than a cont
 
 - The evidence is two observational case studies rather than a controlled experiment: the author assumed direction of each unit at the start of its cycle, so a change of leadership and a reorganization of document workflows coincide with the method and cannot be separated from it.
 - Outcomes rest on administrative indicators from the SEI-GDF system with no control unit or counterfactual, so the authors present the training-based account as the most parsimonious reading of the two cases rather than a demonstrated causal effect.
-- The financial results are modeled, not realized: the US$1.2–5.7 million mitigation range (central estimate US$3 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
+- The financial results are modeled, not realized: the US\$1.2–5.7 million mitigation range (central estimate US\$3 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
 - Both cases come from Brazilian federal-district internal-control units with distinct mandates and baseline constraints, and the time gains diverged sharply between them (18.2% vs. 50%), so portability to other agencies or to educational institutions is untested.
 
 ## Connected Concepts

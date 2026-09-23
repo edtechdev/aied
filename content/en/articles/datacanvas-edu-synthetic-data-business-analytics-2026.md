@@ -45,7 +45,7 @@ A generated dataset can look realistic while failing to instantiate the pattern 
 
 - The framework is illustrated with a single WindowDash food-delivery case (15,000 orders, nine designed patterns) and evaluated on no students; no preparation-time, revision-effort or material-quality data is reported, and the authors list those as future studies.
 - Validity of the synthetic distributions against real business data is untested, and the authors warn that generation and verification may share the same mistaken assumption, so an incorrect pattern can propagate into both the case and its rubric.
-- One of the nine designed patterns, price-rating sensitivity for slow orders, rests on three observations above $100 and longer than 45 minutes; the authors concede these "provide limited support" and require the reference explanation to state that limitation alongside the finding.
+- One of the nine designed patterns, price-rating sensitivity for slow orders, rests on three observations above \$100 and longer than 45 minutes; the authors concede these "provide limited support" and require the reference explanation to state that limitation alongside the finding.
 - The [[agentic-ai|agentic]] pipeline depends on an external agent environment (it ships as an AI Agent Skill), and generation quality is bound to the model and the code the agent writes, which the paper does not benchmark.
 
 ## Connected Concepts

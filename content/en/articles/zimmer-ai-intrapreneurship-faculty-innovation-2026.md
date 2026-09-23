@@ -23,7 +23,7 @@ reviewed_by: [editor]
 - Institutional response lags the disruption: 57% of institutions treat AI as a strategic priority, yet only 22% had an institution-wide AI strategy and 39% formal acceptable use [[educational-policy-ai|policies]].
 - The author argues for redesign over detection, pointing to Australia's TEQSA Two-Lane Approach and the AI Assessment Scale's "five-level framework for calibrating AI use."
 - Vibe coding lowers the barrier: Karpathy coined the term in February 2025, and the author — who says he does not know how to code — used Claude Code to build a link-checker for 321 course links.
-- Hornsby et al.'s (2002) Corporate Entrepreneurship Assessment Instrument names five organizational enablers, and Adobe's Kickbox gave each employee a kit with $1,000 in seed funding and "no approval requirement."
+- Hornsby et al.'s (2002) Corporate Entrepreneurship Assessment Instrument names five organizational enablers, and Adobe's Kickbox gave each employee a kit with \$1,000 in seed funding and "no approval requirement."
 
 ## Why assessment, not detection, forced the issue
 

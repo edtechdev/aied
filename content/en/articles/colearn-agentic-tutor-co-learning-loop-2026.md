@@ -31,7 +31,7 @@ reviewed_by: [editor]
 3. **Belief error shrank under the adaptive condition.** Final mastery mean absolute error was 0.12 under Adaptive versus 0.16 (Random-topic) and 0.20 (Frozen), and mean update magnitude decayed from 0.14 to 0.10 as estimates locked on.
 4. **Grading evidence tracked ability tiers but not individuals.** Mean evidence rose cleanly across tiers (0.25 weak / 0.67 mixed / 0.77 strong), but within-tier correlation with true mastery was only r ≈ 0.15 / 0.48 / 0.41 — weakest, and worst, for low-ability learners.
 5. **Misconception mining is imperfect.** Mined misconception labels matched personas' assigned misconceptions at F1 ≈ 0.56 across 132 rounds, so the diagnostic layer recovers roughly half the labeled misconceptions it targets.
-6. **A short-answer round costs about 32 seconds and $0.015.** Multiple-choice rounds are graded deterministically with no LLM call and run about four times faster at 7.6 seconds and roughly $0.005 per round on the live single-node deployment.
+6. **A short-answer round costs about 32 seconds and \$0.015.** Multiple-choice rounds are graded deterministically with no LLM call and run about four times faster at 7.6 seconds and roughly \$0.005 per round on the live single-node deployment.
 7. **Learners rated it usable.** 16 raters scored 13 Likert items at a mean of 4.0 out of 5, no dimension below ≈3.7, and 12 of 16 (75%) would reuse it; responsiveness rated lowest.
 
 ## A memory that is written, not just read
@@ -46,7 +46,7 @@ The contribution distinguishing CoLearn from a conventional [[adaptive-learning]
 ## What this means for practice
 - **Instructors.** Treat a wrong answer as a label, not a score: tagging each distractor with the misconception it embodies turns a response into a diagnostic signal at no LLM cost.
 - **Faculty developers.** Ask for the frozen-memory control when evaluating an adaptive tutor; CoLearn's targeting advantage falls from 0.72 to 0.57 once the memory stops accumulating.
-- **Developers.** Budget for grading: short-answer rounds cost about 32 seconds and $0.015 each, while deterministic multiple-choice grading is roughly four times faster at 7.6 seconds.
+- **Developers.** Budget for grading: short-answer rounds cost about 32 seconds and \$0.015 each, while deterministic multiple-choice grading is roughly four times faster at 7.6 seconds.
 - **Researchers.** Report within-tier reliability alongside pooled correlation — CoLearn's pooled r = 0.68 falls to r ≈ 0.15 for low-ability learners.
 
 ## Limitations

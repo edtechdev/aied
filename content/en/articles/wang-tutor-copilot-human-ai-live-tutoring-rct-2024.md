@@ -53,7 +53,7 @@ In post-study interviews (~20 treatment tutors), tutors found Tutor CoPilot help
 - **Instructors.** Give novice tutors real-time, expert-derived suggestions during live sessions instead of pre-service training alone: treated sessions raised exit-ticket mastery from 62 to 66 percent (p < 0.01).
 - **Instructors.** Aim the support at the weakest tutors first — students of lower-rated tutors gained 9 percentage points (56 to 65 percent), matching higher-rated tutors' control-group students.
 - **Designers.** Present options across pedagogical strategies (hint, worked example, simplify the question, minor correction) so tutors keep judgment, and warn tutors that suggestions can come back above grade level and need simplifying.
-- **Administrators.** Fund it as a supplement at roughly $20 per tutor per year, orders of magnitude below the $3,300+ typical figure for [[educational-development|professional development]], and do not expect rapid test-score gains, since two months of use produced no statistically significant improvement on end-of-year math assessments.
+- **Administrators.** Fund it as a supplement at roughly \$20 per tutor per year, orders of magnitude below the \$3,300+ typical figure for [[educational-development|professional development]], and do not expect rapid test-score gains, since two months of use produced no statistically significant improvement on end-of-year math assessments.
 
 ## Limitations
 
