@@ -29,7 +29,7 @@ MAIC (Massive AI-empowered Course) proposes a new form of online education that 
 ### Key Findings
 
 1. **"N agents for 1 student."** A suite of specialized LLM-driven agents (Teacher, Assistant, Classmate, Analyzer) constructs an AI-augmented classroom that dynamically adapts [[teacher-role|teaching]] to each student's interactions and inquiries, balancing scalability with adaptivity.
-2. **Course creation at scale.** MAIC generates full course materials (slides, textbooks, exercises, videos) from instructor-provided course descriptions — reducing production from ~\$25K USD and 60 hours per course to under \$2 USD and 30 minutes.
+2. **Course creation at scale.** MAIC generates full course materials (slides, textbooks, exercises, videos) from instructor-provided course descriptions — reducing production from ~\$25,000 USD and 60 hours per course to under \$2 USD and 30 minutes.
 3. **Unified LLM foundation.** Unlike prior systems that used separate models for recommendation, dialogue, and assessment, MAIC builds all agents on a shared LLM foundation, enabling deeper integration across teaching and learning tasks.
 4. **Standardized course preparation.** A Read + Plan workflow transforms static slide decks into highly structured, [[adaptive-learning|adaptive learning]] resources, using [[multimodal]] LLMs (e.g., GPT-4V) for slide extraction, description generation, and tree-style knowledge taxonomy construction.
 5. **Initial pilot evidence.** At Tsinghua, two courses ("Toward Artificial General Intelligence" and "How to Study in the University") generated 100,000+ behavioral records from 500+ students over three months, with initial observations suggesting improved engagement versus traditional MOOC formats.

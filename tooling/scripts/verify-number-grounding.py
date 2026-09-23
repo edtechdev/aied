@@ -63,6 +63,11 @@ def load(slug):
 
 
 def normalize(text):
+    # PDF extraction frequently splits numbers ("100, 000", "US$ 94.8") and sometimes
+    # inserts a space where a thousands separator was; collapse those before comparing
+    # so a correctly grounded figure is not reported as missing.
+    text = re.sub(r'(?<=\d)\s+(?=\d\d\d\b)', '', text)
+    text = re.sub(r'(?<=\d)\s+(?=\d)', '', text)
     return (text.replace(',', '').replace('\u2013', '-').replace('\u2212', '-')
                 .replace('%', '').replace('$', ''))
 
@@ -129,6 +134,9 @@ def strip_identifiers(text):
     text = re.sub(r'\b[KG][-–]?12\b', ' ', text)            # the K-12 term, not the number 12
     text = re.sub(r'arXiv[:\s]*\d{4}\.\d{4,5}', ' ', text, flags=re.I)
     text = re.sub(r'\b10\.\d{4,}/[^\s)\]"\']*', ' ', text)
+    # release identifiers ("version 1.0.0", "v2.1") are labels, not measured claims
+    text = re.sub(r'(?i)\bversions?\s+v?\d+(?:\.\d+)+', ' ', text)
+    text = re.sub(r'\bv\d+(?:\.\d+)+\b', ' ', text)
     return text
 
 

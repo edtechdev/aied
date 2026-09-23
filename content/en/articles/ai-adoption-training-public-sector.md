@@ -19,11 +19,11 @@ institutions: [change-management, educational-policy-ai]
 ## Key Findings
 
 - Across two Brazilian federal-district government units with distinct mandates, official indicators recorded by the SEI-GDF system showed substantial productivity gains after the training method was applied: average case processing time fell by 18.2% at the Sectoral Internal Control Office of the Federal District Department of Health (SES/CONT) during 2024, and by 50% at the Internal Control Unit of the Federal District Department of Economic Development, Labor and Income (UCI/SEDET) during 2025.
-- UCI/SEDET's gains were not only temporal: technical-report production rose 92%, the unit issued 288 formal recommendations to public managers, and it analyzed cases totaling US\$104.3 million in financial volume — an average of 2.27 recommendations per report, indicating increased analytical intensity rather than mere output volume.
+- UCI/SEDET's gains were not only temporal: technical-report production rose 85%, the unit issued 286 formal recommendations to public managers, and it analyzed cases totaling US\$94.8 million in financial volume — spread across the 122 technical reports consolidated for 2025, indicating increased analytical intensity rather than mere output volume.
 - In neither unit did internal control mechanisms identify any information-security incident, sensitive-data leakage, or formal compliance challenge from external oversight bodies during the period examined.
 - The determining barrier to adoption observed in these units was not technological but training-related: free, browser-accessible AI models were available to every public servant, yet were not being used productively until a structured pedagogical method was introduced.
 - The four-layer method — literacy, protocol, prompt engineering, and audit — was designed to comply with international and national data-protection law and with the principles of public [[administrator|administration]], supporting its portability across agencies with distinct mandates.
-- A note-by-note review of the 288 recommendations (with classification by nature and materiality) identified material implications for US\$48.1 million in payments and contracts analyzed; applying a probability matrix calibrated to public-audit literature, potential mitigation is estimated between US\$1.2 million (conservative) and US\$5.7 million (optimistic), with a central estimate of US\$3 million.
+- A note-by-note review of the 286 recommendations (with classification by nature and materiality) identified material implications for US\$43.7 million in payments and contracts analyzed; applying a probability matrix calibrated to public-audit literature, potential mitigation is estimated between US\$1.1 million (conservative) and US\$5.2 million (optimistic), with a central estimate of US\$2.8 million.
 
 ## Study Design & Method
 
@@ -40,7 +40,7 @@ The paper reports two auditable, third-party-verifiable cases rather than a cont
 
 - The evidence is two observational case studies rather than a controlled experiment: the author assumed direction of each unit at the start of its cycle, so a change of leadership and a reorganization of document workflows coincide with the method and cannot be separated from it.
 - Outcomes rest on administrative indicators from the SEI-GDF system with no control unit or counterfactual, so the authors present the training-based account as the most parsimonious reading of the two cases rather than a demonstrated causal effect.
-- The financial results are modeled, not realized: the US\$1.2–5.7 million mitigation range (central estimate US\$3 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
+- The financial results are modeled, not realized: the US\$1.1–5.2 million mitigation range (central estimate US\$2.8 million) depends on a probability matrix drawn from international public-audit literature rather than local data, and the study does not track whether managers complied with the recommendations.
 - Both cases come from Brazilian federal-district internal-control units with distinct mandates and baseline constraints, and the time gains diverged sharply between them (18.2% vs. 50%), so portability to other agencies or to educational institutions is untested.
 
 ## Connected Concepts

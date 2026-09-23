@@ -54,6 +54,12 @@ const webPage = {
   "about": type === 'concept' ? { "@id": `${pageUrl}#concept` } : undefined
 };
 
+// Structured data must carry plain prose: markdown escapes in the source (for example
+// an escaped currency sign, written so the math renderer leaves it alone) are a
+// presentation detail and would show up as a stray backslash in search snippets.
+const plain = (text?: string) =>
+  text ? text.replace(/\\(?=[$%&_#*\[\]()<>~|])/g, '') : text;
+
 // mentions = connected concepts + connected FAQs as graph references
 const mentions = [
   ...(connectedConceptSlugs || []).map(s => ({ "@id": conceptId(s) })),
@@ -69,7 +75,7 @@ function articleGraph() {
       "@id": `${pageUrl}#summary`,
       "url": pageUrl,
       "headline": title,
-      "description": summary || undefined,
+      "description": plain(summary) || undefined,
       "datePublished": datePublished,
       "dateModified": dateModified,
       "author": { "@id": ORG_ID },
@@ -116,7 +122,7 @@ function conceptGraph() {
     "@id": `${pageUrl}#article`,
     "url": pageUrl,
     "headline": title,
-    "description": summary || undefined,
+    "description": plain(summary) || undefined,
     "about": { "@id": `${pageUrl}#concept` },
     "publisher": { "@id": ORG_ID },
     "keywords": keywordList.length ? keywordList : undefined,
@@ -129,7 +135,7 @@ function conceptGraph() {
       "@type": "DefinedTerm",
       "@id": `${pageUrl}#concept`,
       "name": title,
-      "description": summary || undefined,
+      "description": plain(summary) || undefined,
       "url": pageUrl,
       "inDefinedTermSet": { "@id": `${SITE}/concepts/#vocabulary` }
     },
@@ -153,7 +159,7 @@ function faqGraph() {
           "name": questionName,
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": answerText || undefined
+            "text": plain(answerText) || undefined
           }
         }
       ]
