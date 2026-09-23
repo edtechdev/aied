@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T09:59:48-04:00"
+updated: "2026-09-23T09:53:16-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -71,7 +71,7 @@ Procedures matter as much as policies, and their evidentiary basis has collapsed
 
 ### The socio-emotional dimension
 
-Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulation-computing-education|Shame-and-guilt research]] with students shows these emotions regulate when and how AI use becomes visible, producing **hiding behaviors and selective disclosure** — and that they coexist with continued use, creating cycles of reduced agency and moral tension rather than behavior change. Students even describe their AI use in language of addiction. The implication: detection-heavy, surveillance-oriented policy risks **driving [[ai-misuse-learning-harm|misuse]] underground** rather than addressing it, undermining the candid negotiation that productive use requires.
+Integrity enforcement has a neglected emotional cost. [[shame-guilt-ai-regulation-computing-education|Shame-and-guilt research]] with students shows these emotions regulate when and how AI use becomes visible, producing **hiding behaviors and selective disclosure** — and that they coexist with continued use, creating cycles of reduced agency and moral tension rather than behavior change. That is why [[social-norms-ai-use|the norms around AI use]] regulate visibility more effectively than they regulate use. Students even describe their AI use in language of addiction. The implication: detection-heavy, surveillance-oriented policy risks **driving [[ai-misuse-learning-harm|misuse]] underground** rather than addressing it, undermining the candid negotiation that productive use requires.
 
 The obverse of hiding is declining, and it carries its own emotional cost. Among the 85 student teachers [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] surveyed under an assessment policy that explicitly permitted generative AI, 62.4% (53) chose not to use it at all, and the adopters' use was shallow and corrective — proofreading (43.8%) and clarity checks (34.4%) far outnumbered text generation (18.8%) and brainstorming (12.5%). Fear of [[legal-issues-and-risks|wrongful accusation]], not technical difficulty, did much of the work: 41.5% of non-adopters named it, against 13.2% citing missing knowledge or skills, while 77.4% framed non-use simply as a preference for working alone. When a permissive policy is read as a trap, the safe response is refusing the offer — which costs the institution the AI-integrated work it was trying to invite.
 
@@ -155,6 +155,7 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[k-12]]
 - [[ai-education]]
 - [[legal-issues-and-risks]]
+- [[social-norms-ai-use]] — the informal rules that sit under formal policy
 
 ## Connected Articles
 

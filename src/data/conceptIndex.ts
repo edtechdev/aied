@@ -31,7 +31,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Core pedagogies', items: ['pedagogy', 'active-learning', 'collaborative-learning', 'project-based-learning', 'problem-based-learning', 'productive-failure', 'inquiry-based-learning', 'experiential-learning', 'game-based-learning', 'learning-by-teaching', 'scaffolding', 'socratic-method', 'critical-pedagogy', 'pedagogical-partnerships', 'storytelling-in-education', 'online-teaching-and-learning', 'video-education'] },
       { label: 'Learning theories and processes', items: ['learning-theories', 'behaviorism', 'constructivist', 'cognitive-psychology', 'sociocultural-learning', 'distributed-cognition', 'situated-learning', 'embodied-learning', 'community-of-inquiry', 'self-regulated-learning', 'self-determination-theory', 'motivation', 'self-efficacy', 'self-directed-learning', 'metacognition', 'desirable-difficulties', 'transfer-of-learning', 'prior-knowledge', 'icap-framework', 'misconceptions', 'refutation-text', 'activity-theory-aied', 'retrieval-spacing-interleaving'] },
-      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress', 'student-experience'] },
+      { label: 'Learner engagement and experience', items: ['student-engagement', 'help-seeking', 'social-emotional-learning', 'well-being', 'creativity', 'student-ai-interaction', 'problem-solving', 'mastery-learning', 'anxiety-and-stress', 'student-experience', 'social-norms-ai-use'] },
       { label: 'Lifelong and professional learning', items: ['career-development-and-readiness', 'lifelong-learning', 'professional-training'] },
     ],
   },
@@ -63,7 +63,7 @@ export const conceptIndex: ConceptSection[] = [
     heading: 'Assessment and measurement',
     blurb: 'How AI both assesses learners and reshapes how we evaluate AI systems and their impact.',
     groups: [
-      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'self-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
+      { label: 'Assessment and feedback', items: ['assessment', 'evaluative-judgment', 'feedback', 'feedback-literacy', 'ai-feedback-quality', 'formative-assessment', 'summative-assessment', 'authentic-assessment', 'group-work', 'eportfolio', 'peer-assessment', 'self-assessment', 'oral-assessment', 'automated-assessment', 'automated-essay-scoring', 'automated-question-generation'] },
       { label: 'Measurement and validity', items: ['assessment-validity', 'psychometrically-aware-ai', 'educational-measurement', 'item-response-theory', 'self-report-measures', 'ai-detection', 'remote-proctoring', 'learning-gains'] },
     ],
   },

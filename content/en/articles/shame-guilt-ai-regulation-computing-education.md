@@ -1,7 +1,7 @@
 ---
 title: 'Stuck in a Spiral": Shame and Guilt as Social Regulators of AI Use in Computing Education'
 created: "2026-06-16T04:33:04-04:00"
-updated: "2026-09-19T08:49:57-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 technology: [learning-analytics, llm]
@@ -52,6 +52,7 @@ The study interviewed 19 computing students and analyzed their relationships wit
 - [[well-being]]
 - [[ai-misuse-learning-harm]]
 - [[ethics]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

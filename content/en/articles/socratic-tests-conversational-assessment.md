@@ -1,7 +1,7 @@
 ---
 title: "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations"
 created: "2026-08-03T04:33:04-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 pedagogy: [learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -38,6 +38,7 @@ A stated goal is human-AI alignment for [[assessment-validity|measurement reliab
 ## Connected Concepts
 
 - [[assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[assessment-validity]]
 - [[authentic-assessment]]
 - [[automated-question-generation]]

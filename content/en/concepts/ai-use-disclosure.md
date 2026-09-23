@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -87,6 +87,7 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[ai-misuse-learning-harm]] — the harm disclosure is meant to make visible
 - [[ai-detection]]
 - [[parents-and-families]]
+- [[social-norms-ai-use]] — why learners choose to hide rather than disclose
 ## Connected Articles
 - [[guided-inquiry-genai-course-policy-2026]] — Students co-designing GenAI course policies via guided inquiry (Hingle & Johri 2026)
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Beyond detection: how students use and hide AI in online assessments

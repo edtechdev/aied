@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-18T19:19:18-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -109,6 +109,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ethics]] — the fairness of surveillance and false accusations
 - [[teacher-role]] — educator-side anxiety
 - [[assessment]] — AI-mediated assessment anxiety
+- [[social-norms-ai-use]] — the affective cost of visibility
 
 ## Connected Articles
 - [[ai-anxiety-strategic-regulation-writing-2026]] — AI anxiety as a productive strategic-regulation signal

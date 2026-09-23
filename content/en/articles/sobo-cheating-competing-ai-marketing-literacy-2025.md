@@ -1,7 +1,7 @@
 ---
 title: "Cheating or Competing? University Students' Experience of AI Marketing and What It Means for AI Literacy Programming"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, critical-thinking, framing-ai-use-for-students]
 methods: [design-based-research, mixed-methods-research]
@@ -53,6 +53,7 @@ confidence: high
 - [[ai-misuse-learning-harm]]
 - [[agency]]
 - [[trust]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

@@ -1,7 +1,7 @@
 ---
 title: "Detecting the Undetectable? Reassessing Academic Misconduct Procedures in the Era of Generative AI"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -98,6 +98,7 @@ None of this requires an AI-proof assessment or a retreat to mass invigilation. 
 - [[higher-ed]]
 - [[educational-policy-ai]]
 - [[governance]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

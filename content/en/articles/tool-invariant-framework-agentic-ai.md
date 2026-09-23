@@ -1,7 +1,7 @@
 ---
 title: A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI
 created: "2026-07-19T04:33:04-04:00"
-updated: "2026-09-20T03:44:50-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, cognitive-offloading, computational-thinking]
 technology: [generative-ai]
@@ -74,7 +74,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 - **Instructors.** Measure orchestration separately with ten-minute oral defenses of comment-stripped AI-assisted work, probing uncommented code, plot interpretation and verification questions such as what the AI decided that the student did not.
 - **Instructors.** Gate the defense on verification: score the five rubric dimensions (code comprehension, method understanding, physics model and terminology, interpretation, verification), but require verification to reach the functional level for a pass regardless of total - a transferable model for keeping [[human-in-the-loop-ai|human accountability]] central when only one of the two instruments is used.
 - **Instructors.** Teach white-box before black-box by having students hand-code the 15-line Euler integrator and watch it fail at large step size, then grade the diagnosis of injected errors (a sign error, too-large dt, the wrong potential) instead of banning AI.
-- **Instructors.** Budget and defend the format with the author's arithmetic - 10 minutes times 15 students is 2.5 contact-hours per defended assignment, roughly 28 contact-hours a semester at about 11 defended assignments, with spot-defenses, TA-led and paired modes as named degraded options - and treat the equity gap for institutions that cannot staff human-scale assessment as an argument to take to administrators.
+- **Instructors.** Budget and defend the format with the author's arithmetic - ten minutes times fifteen students comes to two and a half contact-hours per defended assignment, and at roughly eleven defended assignments per term the course projects to some 28 contact-hours a semester, with spot-defenses, TA-led and paired modes as named degraded options - and treat the equity gap for institutions that cannot staff human-scale assessment as an argument to take to administrators.
 
 ## Limitations
 
@@ -87,6 +87,7 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 - [[ai-detection]]
 - [[formative-assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[automated-essay-scoring]]
 - [[student-experience]]
 - [[ai-ed-evaluation]]
