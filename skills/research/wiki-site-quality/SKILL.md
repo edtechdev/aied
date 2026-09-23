@@ -18,7 +18,7 @@ Apply quality fixes to a static HTML site generated from a markdown wiki. Covers
 - **Markdown tables render as raw text** instead of HTML tables
 - **Journal date headers have quotes** (`## "2026-07-31"`) from unquoted frontmatter dates
 - **Public repo files contain private paths** (e.g., `<WIKI>`) or cron job IDs
-- **Concept counts are out of sync** — sidebar vs `tooling/concept-index.md` vs `concepts/*.md`
+- **Concept counts are out of sync** — sidebar vs `tooling/concept-index.md` vs `content/en/concepts/*.md`
   (see `references/concept-count-reconciliation-2026-08-26.md` for the 3-registry reconciliation
   recipe: the `## Merged / absorbed` redirects must NOT be counted, and counts must be recomputed
   from the file tree, never carried forward)
@@ -146,7 +146,7 @@ tr:nth-child(even) { background: rgba(0,0,0,0.02); }
 - GitHub Pages CDN caches aggressively -- verify fixes on raw.githubusercontent.com first, then wait 1-2 minutes for CDN refresh.
 - GitHub Pages requires an empty `.nojekyll` file at repo root.
 - **Quoted date values in YAML frontmatter break journal regeneration**: When a concept page has `created: "2026-07-31"` (quoted), the journal regeneration script produces `## "2026-07-31"` as a date header. The journal HTML parser regex `## \d{4}-\d{2}-\d{2}` does NOT match the quoted version, so entries under that header are silently dropped from journal.html AND the index.html journal section. **Fix**: strip quotes from the `created` value in the journal regeneration script: `created = line.split(":", 1)[1].strip().strip('"').strip("'")`. After fixing, check for existing quoted headers in journal.md with `grep '## "' journal.md` and remove the quotes. Also check for duplicate date sections (two `## 2026-07-31` headers) that result from the quoted-date entry being grouped separately, and merge them.
-- **index.md header corruption from regex replacement**: When using `re.sub(r'\*\*Last updated:\*\* \S+', ...)` on index.md, the regex may consume the closing `**` of the next field (e.g., `**Total pages**`), corrupting the header line. The regex `\*\*Last updated:.*?\*\*` with non-greedy `.*?` can match across field boundaries. **Fix**: use precise patterns: `re.sub(r'\*\*Last updated:\*\* \S+', ...)` — don't use `.*?` across fields. After regeneration, verify the header line contains no `{` template placeholders, no double dates, and that the total page count matches `ls concepts/*.md | wc -l`.
+- **index.md header corruption from regex replacement**: When using `re.sub(r'\*\*Last updated:\*\* \S+', ...)` on index.md, the regex may consume the closing `**` of the next field (e.g., `**Total pages**`), corrupting the header line. The regex `\*\*Last updated:.*?\*\*` with non-greedy `.*?` can match across field boundaries. **Fix**: use precise patterns: `re.sub(r'\*\*Last updated:\*\* \S+', ...)` — don't use `.*?` across fields. After regeneration, verify the header line contains no `{` template placeholders, no double dates, and that the total page count matches `ls content/en/concepts/*.md | wc -l`.
 - **Table `<p>` wrapping**: After table HTML is restored from placeholders, it may still be wrapped in `<p><table>...</table></p>`. Apply cleanup regex: `re.sub(r'<p><table>', r'<table>', html)` and `re.sub(r'</table></p>', r'</table>', html)`.
 - **Public repo privacy**: README.md and config files committed to public GitHub repos must not contain local filesystem paths (`/home/user/...`), cron job IDs, or machine hostnames. Use relative paths and generic descriptions instead.
 - **Retired: the tag/slug collision.** The collision was between a generated tag page and an article page sharing a path. Tags are gone and no tag pages are generated, so an article slug can no longer collide with a tag page. The lesson that generalises: any value that is also a page slug must not be used as a taxonomy key that generates its own file.
@@ -163,7 +163,7 @@ Canonical concept-page structure to verify against: synthesis blockquote → `##
 
 1. `grep -c '<h1>' pages/*.html` -- every page should have exactly 1
 2. `grep -l 'href="pages/' pages/*.html` -- should return nothing
-3. **No tags anywhere**: `grep -rn '^tags:' articles/ concepts/ faqs/` should return nothing, and so should `grep -rn 'data-tags' src/`. A reappearing `tags:` line means something re-added the retired field.
+3. **No tags anywhere**: `grep -rn '^tags:' content/en/articles/ content/en/concepts/ content/en/faqs/` should return nothing, and so should `grep -rn 'data-tags' src/`. A reappearing `tags:` line means something re-added the retired field.
 4. **Typed metadata gate passes**: `python3 tooling/scripts/validate-facets.py` exits 0. Every facet value is a concept slug from that field's own registry section, no concept sits in two facet fields, and no page is left with zero typed values.
 5. **Metadata table renders**: an article page shows the typed fields in a table at the foot of the page (one row per field, values linked to their concept pages), and no tag chips appear anywhere.
 6. **No tags output**: `ls tags 2>/dev/null` is empty or absent, and the nav carries Chat with AI, Search, FAQ, Journal and RSS, never a Tags link.

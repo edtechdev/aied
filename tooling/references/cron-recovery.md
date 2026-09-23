@@ -60,7 +60,7 @@ Format:
 
 ### 5. Create Daily Digest
 
-Path: `concepts/daily-digest-YYYY-MM-DD.md`
+Path: `content/en/concepts/daily-digest-YYYY-MM-DD.md`
 
 Frontmatter: `type: digest`, `created`, `sources`. Body: one subsection per paper with title, authors, venue, and a 2-4 sentence summary of what was found and why it matters.
 

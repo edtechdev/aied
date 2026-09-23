@@ -20,6 +20,20 @@ site:
 
 # ---------------------------------------------------------------------------
 # Where the content lives
+#
+# Every markdown page sits under ONE content root, so the whole knowledge base
+# can be opened as a single vault in Obsidian (or read by any other tool) and so
+# this repository can be re-pointed at another topic by editing the root:
+#
+#   <content root>/<locale>/<collection>/<slug>.md
+#
+# The content root and the folder holding the DEFAULT locale come from
+# `site.config.json` (`content.root`, `content.defaultDir`) because the Astro
+# build reads the same two values in src/config/content.ts. Change them there and
+# both sides move together; nothing here hardcodes the root again.
+#
+# The values below are collection names INSIDE a locale folder (and, for the
+# non-collection entries, paths relative to the repo root).
 # ---------------------------------------------------------------------------
 paths:
   articles: articles

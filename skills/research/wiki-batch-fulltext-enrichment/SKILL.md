@@ -6,7 +6,7 @@ category: research
 
 # Wiki Batch Full-Text Enrichment
 
-Use when the user asks to **enrich a backlog of thin/abstract-only wiki articles in batches** (e.g. "tackle them in batches, prioritizing thinnest first"), or when a batch of `articles/*.md` pages have `raw/papers/*.md` sources that hold only an abstract (raw body < ~3000 chars).
+Use when the user asks to **enrich a backlog of thin/abstract-only wiki articles in batches** (e.g. "tackle them in batches, prioritizing thinnest first"), or when a batch of `content/en/articles/*.md` pages have `raw/papers/*.md` sources that hold only an abstract (raw body < ~3000 chars).
 
 ## Hard gate (the maintainer's standing rule, 2026-08-24)
 **Never create or enrich a wiki article page unless you can download and save the full text.** If full text cannot be fetched (paywall/CAPTCHA/publisher block), add the article to `<WIKI>/AIED-BACKLOG.md` under its journal section, list it in the report's FULL_TEXT_PENDING, update the backlog total, and notify the maintainer so he can send the PDF. Do NOT create abstract-only pages. Save full text as `raw/papers/<id>.md` (gitignored, local-only, never committed).
@@ -26,7 +26,7 @@ When a batch also touches concept pages, run the significance screen **first**: 
 ### 1. Audit which articles are thin
 Two different failure modes, and they need different triage:
 
-**(a) The article page is thin.** Scan every `articles/*.md` and measure the *narrative* body — everything from the end of the frontmatter to the first `## Connected`/`## Citation` heading — in **words, not characters** (character counts are dominated by wikilinks and frontmatter). Real audit of 1,142 articles: pages last edited before mid-August 2026 clustered at 70-300 narrative words, ~200 of them with two headings or fewer and ~40 with no prose paragraphs at all (bullets only). Practical threshold: **under ~300 words is a rewrite, not a touch-up.**
+**(a) The article page is thin.** Scan every `content/en/articles/*.md` and measure the *narrative* body — everything from the end of the frontmatter to the first `## Connected`/`## Citation` heading — in **words, not characters** (character counts are dominated by wikilinks and frontmatter). Real audit of 1,142 articles: pages last edited before mid-August 2026 clustered at 70-300 narrative words, ~200 of them with two headings or fewer and ~40 with no prose paragraphs at all (bullets only). Practical threshold: **under ~300 words is a rewrite, not a touch-up.**
 
 **(b) The raw source is truncated.** Raw files ingested before the 250k cap was adopted stop at ~50,300-50,800 characters and almost always cut off **before the results/discussion/limitations** — the exact material enrichment needs. **Use the exact-cap signature, not the size band: a body of 50,000-50,003 characters is a certain truncation; a body in the 40k-49k range is usually a complete short paper** (re-fetching those returns the same or slightly less text, so classify by re-fetch rather than by size). Real corpus: ~246 of 455 arXiv candidates were genuinely truncated and recovered a median of +32k characters each; of the files still sitting exactly at the cap afterwards, 112 of 123 were publisher/DOI sources with no fetchable PDF. A thin article over a truncated source cannot be fixed by reading harder — refresh first (step 1c). Quick test — read the last ~400 characters of the raw file; if it ends mid-section, it is truncated.
 

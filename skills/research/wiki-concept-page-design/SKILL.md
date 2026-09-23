@@ -38,7 +38,7 @@ Avoid thin pages: a page with no distinct evidence base, or that only restates w
 ## If creating: pipeline (mirror the wiki's normal ingestion)
 
 1. Verify all Tier-1 article slugs and related concept slugs exist before writing.
-2. Write `concepts/<slug>.md` with frontmatter (created/updated ISO timestamps), a Synthesis blockquote, a **`## Questions to Consider` pre-reading section** (2-7 open questions, immediately after the blockquote — for instructors/learning designers/students/researchers/administrators/software developers; surface misconceptions, activate prior knowledge, connect to other concepts, raise equity/ethics), followed by a **`## Introduction` heading** that labels the start of the narrative body, then body sections, Connected Concepts, Connected Articles, and a **hyperlinked Citation** (title → URL, never bare — the maintainer flags missing links).
+2. Write `content/en/concepts/<slug>.md` with frontmatter (created/updated ISO timestamps), a Synthesis blockquote, a **`## Questions to Consider` pre-reading section** (2-7 open questions, immediately after the blockquote — for instructors/learning designers/students/researchers/administrators/software developers; surface misconceptions, activate prior knowledge, connect to other concepts, raise equity/ethics), followed by a **`## Introduction` heading** that labels the start of the narrative body, then body sections, Connected Concepts, Connected Articles, and a **hyperlinked Citation** (title → URL, never bare — the maintainer flags missing links).
 3. **Register in BOTH** `src/data/conceptIndex.ts` (sidebar, placed in the right group) and `tooling/concept-index.md`.
 4. Add **back-links** from connected concept pages + Tier-1 articles (they should link back to the new concept).
 5. Add tasteful **inline links** in the new page's narrative; run the inline-link scan; fix same-text pipes `[[x|x]]` immediately.
@@ -57,8 +57,8 @@ See `references/sub-concept-within-umbrella.md` for the full constellation table
 See `references/historical-concept-page.md` for the history-of-aied pattern (create-a-history-concept, the required "recent impact of generative AI" section, and the broad-vs-narrow terminology rule).
 
 ### Concept-rename workflow (when you rename an umbrella)
-1. `git mv`/`os.rename` `concepts/<old>.md` → `concepts/<new>.md`; update frontmatter `title:`.
-2. Replace the old slug everywhere in `.md` (articles, concepts, index.md, journal.md, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in articles/concepts.
+1. `git mv`/`os.rename` `content/en/concepts/<old>.md` → `content/en/concepts/<new>.md`; update frontmatter `title:`.
+2. Replace the old slug everywhere in `.md` (articles, concepts, index.md, journal.md, log.md, raw) — use a scripted sweep, then grep to confirm **zero** remaining occurrences in content/en/articles/concepts.
 3. Update `src/data/conceptIndex.ts` (sidebar) and `tooling/concept-index.md` (canonical list, alphabetical spot).
 4. Fix piped display labels that still say the old title (e.g. `[[new-slug|Accessible Learning]]` → `[[new-slug|Inclusive Learning]]`).
 5. Add a **301 redirect** `'old-slug': 'new-slug'` in `src/data/conceptRedirects.ts` so old links resolve (verify live: old URL title says "Redirecting to: /aied/concepts/new/").

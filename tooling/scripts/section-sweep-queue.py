@@ -30,7 +30,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-ARTICLES = ROOT / "articles"
+import content_paths
+
+ARTICLES = content_paths.collection("articles")
 RAW = ROOT / "raw" / "papers"
 
 PRACTICE = "What this means for practice"

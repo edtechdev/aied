@@ -35,12 +35,12 @@ A genuinely enriched page contains **information the reader could not get by ski
 - **Mechanisms**: *why* the result happened (e.g. "the tutee's fluent correct answers gave students no error-correction practice").
 - **The "so what"**: what it means for instructors, developers, researchers, students.
 
-**Never fabricate.** Do not invent a number, DOI, URL, or research finding the source does not contain. If you cannot find a concrete value, say so qualitatively rather than inventing precision. Do not invent cross-links to pages that do not exist (verify against `concepts/`, `articles/`, `faqs/` dirs).
+**Never fabricate.** Do not invent a number, DOI, URL, or research finding the source does not contain. If you cannot find a concrete value, say so qualitatively rather than inventing precision. Do not invent cross-links to pages that do not exist (verify against `content/en/concepts/`, `content/en/articles/`, `content/en/faqs/` dirs).
 
 ## Step 1 — Read before you touch anything
 
 1. Load the relevant skills: `research-wiki`, `wiki-inline-links` (HARD GATE + link rules), and any targeted one (`wiki-concept-narrative`, `wiki-article-quality`). These encode the canonical page structures and the hard rules below.
-2. Read the target page in full (`concepts/<slug>.md`, `articles/<slug>.md`, or `faqs/<slug>.md`).
+2. Read the target page in full (`content/en/concepts/<slug>.md`, `content/en/articles/<slug>.md`, or `content/en/faqs/<slug>.md`).
 3. Read the raw source in full (`raw/papers/<slug>.md` for articles).
 4. **Assess**: is the page a stub, or already well-formed and well-linked? If well-formed, the task is *genuine deepening*, not format/link repair — don't waste edits rearranging what's already correct.
 

@@ -17,7 +17,7 @@ import os, re, yaml
 from collections import defaultdict
 
 WIKI = "<WIKI_PATH>"
-CONCEPTS = os.path.join(WIKI, "concepts")
+CONCEPTS = os.path.join(WIKI, "content", "en", "concepts")
 TODAY = "2026-07-15"
 EM = "\u2014"  # em dash — DO NOT replace with a hyphen
 

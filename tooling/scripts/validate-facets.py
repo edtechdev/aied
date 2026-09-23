@@ -34,6 +34,8 @@ import sys
 import glob
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 FACET_VOCAB_TS = os.path.join(ROOT, 'src', 'data', 'facetVocab.ts')
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # Translated content lives in locale folders mirroring the content root
@@ -41,7 +43,7 @@ COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # must be valid slugs too, so they are validated here.
 # Every locale that can hold translated content pages (site.config.json i18n.locales
 # minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
-LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh', 'ar')
+LOCALE_DIRS = tuple(content_paths.TRANSLATED)
 OTHER_FIELDS = ('discipline', 'level', 'audience', 'research_method', 'page_kind')
 
 
@@ -79,8 +81,9 @@ def main():
     errors = []
     warnings = []
     checked = 0
-    for collection in [*COLLECTIONS, *(os.path.join(l, c) for l in LOCALE_DIRS for c in COLLECTIONS)]:
-        for path in sorted(glob.glob(os.path.join(ROOT, collection, '*.md'))):
+    for name, locale in ([(c, content_paths.DEFAULT_DIR) for c in COLLECTIONS]
+                         + [(c, l) for l in LOCALE_DIRS for c in COLLECTIONS]):
+        for path in sorted(glob.glob(content_paths.glob_md(name, locale))):
             fm = frontmatter(path)
             if fm is None:
                 continue

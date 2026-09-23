@@ -147,7 +147,7 @@ tail -50 <WIKI_PATH>/log.md | grep -E "^## \[2026-...-..\]" | tail -1
 # ## [YYYY-MM-DD] scan checkpoint | last_arxiv_scan_date: YYYY-MM-DD
 ```
 
-Alternatively, read the most recent `daily-digest-*.md` in `concepts/` — the filename itself encodes the last scan date. After completing the scan, save a checkpoint to `log.md`:
+Alternatively, read the most recent `daily-digest-*.md` in `content/en/concepts/` — the filename itself encodes the last scan date. After completing the scan, save a checkpoint to `log.md`:
 ```
 ## [YYYY-MM-DD] scan checkpoint | last_arxiv_scan_date: YYYY-MM-DD
 ```
@@ -220,7 +220,7 @@ curl -s -o /dev/null -w "%{http_code}" http://localhost:8080/
 ```
 
 ### Daily Digest
-Save the summary as `concepts/daily-digest-YYYY-MM-DD.md` for archival reference. **If a digest for today already exists** (e.g., from an earlier cron invocation or manual run), update it in-place rather than creating a duplicate. Append new papers under a sub-heading (e.g., `### Web Search Catch-Up`) with a note that they were discovered separately. Update the total paper count in the intro line. Do NOT create a second digest file for the same date.
+Save the summary as `content/en/concepts/daily-digest-YYYY-MM-DD.md` for archival reference. **If a digest for today already exists** (e.g., from an earlier cron invocation or manual run), update it in-place rather than creating a duplicate. Append new papers under a sub-heading (e.g., `### Web Search Catch-Up`) with a note that they were discovered separately. Update the total paper count in the intro line. Do NOT create a second digest file for the same date.
 
 ## Error Handling
 
@@ -231,7 +231,7 @@ Save the summary as `concepts/daily-digest-YYYY-MM-DD.md` for archival reference
 - **arXiv 500 Server Error (API down)**: Unlike 429 rate-limiting, HTTP 500 means the arXiv API server is down or malfunctioning — retries with exponential backoff are unlikely to help and waste time. After at most 2 attempts, abandon the API and switch immediately to listing-page extraction (`web_extract` on `arxiv.org/list/cs.HC/recent` and `arxiv.org/list/cs.CY/recent`). These listing pages are served from a different infrastructure (static/cached) and remain available even when the API is down. Report `✗ HTTP 500 (API down, used listing pages)` in the source status — this is distinct from a rate-limit failure and should be noted separately in the summary. Validated May 2026: both cs.CY and cs.HC APIs returned 500 simultaneously, listing pages yielded 3 catch-up papers.
 - **arXiv API: terminal() HTTP block**: The `terminal()` tool's security scanner blocks plain HTTP URLs. The arXiv export API is HTTP-only. Always use `execute_code` with Python's `urllib` to query arXiv — never `terminal()` with `curl`. HTTPS export.arxiv.org may work as an alternative but can hit different rate-limit paths.
 - **execute_code `read_file` incompatibility**: In `execute_code` scripts, do NOT use `read_file` from `<TOOLS>` — it returns a dict with unpredictable key structure in the sandbox. Use Python's built-in `open()` and `os.listdir()` for all file reading. `write_file` from <TOOLS> is safe to use in execute_code for writes.
-- **Index regeneration**: After ingestion, fully rebuild `index.md` by scanning all files in `concepts/` and parsing each file's YAML frontmatter with Python's `open()` + `yaml.safe_load()`. Never regex-parse the existing index — the regex will miss entries with non-standard formatting, causing silent data loss.
+- **Index regeneration**: After ingestion, fully rebuild `index.md` by scanning all files in `content/en/concepts/` and parsing each file's YAML frontmatter with Python's `open()` + `yaml.safe_load()`. Never regex-parse the existing index — the regex will miss entries with non-standard formatting, causing silent data loss.
 - YAML frontmatter: quote titles containing colons (`title: "X: Y"`)
 - All file operations via `execute_code` with Python (terminal may fail on HTTP security scans or directory issues)
 - **Memory unavailable**: The `memory` tool may be disabled in some environments. When it is, fall back to a 3-day search window and note in the summary that the scan date was not persisted.

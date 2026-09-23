@@ -6,7 +6,7 @@ category: research
 
 # Resource Pages
 
-A **resource page** (`resources/<slug>.md`) points readers at an external tool, collection, instrument
+A **resource page** (`content/en/resources/<slug>.md`) points readers at an external tool, collection, instrument
 or open format they can go and use. It is not a paper summary: there is no study to ground, so the
 page carries no `sources`, no `research_method`, no `page_kind`, no Citation and no
 practice/Limitations pair. Everything about the page type lives in `tooling/SCHEMA.md`
@@ -57,7 +57,7 @@ articles > faqs > concepts, so a `[[resource-slug]]` written in any markdown bod
 at all.
 
 The supported connection is the **`connected_resources` frontmatter field**, which validates against
-`resources/` and renders a *Connected Resources* section. It works on **article, concept and FAQ
+`content/en/resources/` and renders a *Connected Resources* section. It works on **article, concept and FAQ
 pages as well as resource pages** — that is how a paper page points at the software release of the
 same work, and how two sibling tools point at each other. Never hand-write a `## Connected
 Resources` body section.
@@ -73,7 +73,7 @@ outcome rather than assuming it.
 
 - `index.md` — add the page to `## Resources` **and** increment the `Resources:` count on the first
   line; the counts line and the section must agree. Rebuild the section by listing the actual
-  `resources/*.md` slugs and sorting them rather than hand-inserting a line — a hand-inserted entry
+  `content/en/resources/*.md` slugs and sorting them rather than hand-inserting a line — a hand-inserted entry
   is easy to place out of order or duplicate, and it stays invisible until the page renders.
 - `journal.md` — add the entry under today's date with the 🧰 badge and increment `Total entries`.
   Journal totals are **articles + concepts + resources** (FAQs are not journalled).

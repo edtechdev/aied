@@ -19,11 +19,11 @@ are rewritten to the canonical page. Validated end-to-end on 2026-08-18 (engagem
 ## Rewrite inbound links
 
 - Rewrite every `[[<absorbed>]]` → `[[<canonical>]]` and `[[<absorbed>|display]]` →
-  `[[<canonical>|display]]` (PRESERVE the pipe display) across ALL articles/ and concepts/
+  `[[<canonical>|display]]` (PRESERVE the pipe display) across ALL content/en/articles/ and content/en/concepts/
   markdown. Do this with a script; a simple `re.sub` on the wikilink pattern suffices.
 - Plain-prose mentions of the absorbed concept (not wikilinks, e.g. "the engagement-metrics
   literature") should become `[[<canonical>|display]]` links per the inline-hyperlink rule.
-- In a concept hub page (e.g. `concepts/ai-education.md`) that lists BOTH the canonical
+- In a concept hub page (e.g. `content/en/concepts/ai-education.md`) that lists BOTH the canonical
   name and the absorbed name as separate items, COLLAPSE the duplicate — keep only the
   canonical item, since both now resolve to the same page.
 

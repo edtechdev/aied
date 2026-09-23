@@ -78,7 +78,7 @@ copy too. Two rules to keep in mind when touching them:
 cd <WIKI>
 python3 tooling/scripts/sync-skills.py --check      # only real drift should remain
 python3 tooling/scripts/wiki_config.py --check      # config ↔ repo consistency
-python3 tooling/scripts/check_concepts.py           # registry ↔ concepts/ ↔ views
+python3 tooling/scripts/check_concepts.py           # registry ↔ content/en/concepts/ ↔ views
 python3 tooling/scripts/run-gates.py                # the HARD GATES from the config
 npm run build                                       # clean build
 ```

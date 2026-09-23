@@ -18,11 +18,11 @@ Use when the user asks to **delete an article page** in the AI-ed research wiki 
            if f.endswith(".md") and f != "log.md":   # log.md is historical plain-text — LEAVE it
                if slug in open(os.path.join(root,f)).read(): hits.append(...)
    ```
-   Typical refs: `index.md`, `journal.md`, `AUDIT-abstract-only-articles.md`, several `articles/*.md`, several `concepts/*.md`.
+   Typical refs: `index.md`, `journal.md`, `AUDIT-abstract-only-articles.md`, several `content/en/articles/*.md`, several `content/en/concepts/*.md`.
 
 2. **Classify each reference as narrative vs list-line.** For each occurrence, check whether it sits on a Connected-list line (`ln.lstrip().startswith("- [[")`) or in body narrative. Use: `pre.endswith("- [[") or '\n- [[' in pre[-8:]` to detect list membership.
 
-3. **Delete the article file + raw source.** `articles/<slug>.md` and `raw/papers/<slug>.md` (the raw is gitignored so its deletion is invisible to git — still remove it).
+3. **Delete the article file + raw source.** `content/en/articles/<slug>.md` and `raw/papers/<slug>.md` (the raw is gitignored so its deletion is invisible to git — still remove it).
 
 4. **Remove list-lines** from every `.md` file (except `log.md`): drop any line whose `lstrip().startswith("-")` and contains the slug. This covers `index.md`, `journal.md`, and Connected Articles lines in articles + concepts. `AUDIT-abstract-only-articles.md` rows start with `|` not `-`, so handle separately (drop rows starting with `|` that contain the slug).
 
@@ -37,7 +37,7 @@ Use when the user asks to **delete an article page** in the AI-ed research wiki 
 
 7. **Fix the audit count** in `AUDIT-abstract-only-articles.md`. After removing rows, recount data rows precisely: lines starting with `| ` and NOT starting with `| ---` (exclude the header `| Article page |` and separator `|---|`). Update BOTH header mentions: `## The N prematurely-ingested articles` and `These **N wiki articles`. **Never hand-count** — the number drifts (multiple deletions/enrichments per session).
 
-8. **Verify — no dangling references.** Re-walk the wiki for the slug (excluding `log.md`, which is allowed to keep historical plain-text entries). Expect ZERO hits in active pages. Then check **link integrity** on every touched page: no broken targets (link resolves to `concepts/` ∪ `articles/` filenames ∪ `conceptRedirects.ts`). A common post-deletion break: pages that cited the deleted article still link to its slug.
+8. **Verify — no dangling references.** Re-walk the wiki for the slug (excluding `log.md`, which is allowed to keep historical plain-text entries). Expect ZERO hits in active pages. Then check **link integrity** on every touched page: no broken targets (link resolves to `content/en/concepts/` ∪ `content/en/articles/` filenames ∪ `conceptRedirects.ts`). A common post-deletion break: pages that cited the deleted article still link to its slug.
 
 9. **Build, commit, push, verify live.** Regen llms files + `npm run build` (must be green) → commit (mention "audit N→M") → push → wait ~55s → `gh run list` BOTH workflows green → curl the deleted article URL for **404** (and touched pages for 200). A green build does NOT mean the deletion is live — verify the 404.
 

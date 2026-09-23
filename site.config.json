@@ -4,6 +4,10 @@
   "brandName": "AIEd Knowledge Base",
   "description": "A knowledge base on artificial intelligence in education.",
   "lang": "en",
+  "content": {
+    "root": "content",
+    "defaultDir": "en"
+  },
   "i18n": {
     "defaultLocale": "en",
     "fallbackLocale": "en",

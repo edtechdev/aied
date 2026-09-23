@@ -8,7 +8,7 @@ Moved out of SKILL.md (2026-09-19) to keep the main skill under its size limit.
 - **`wiki-inline-links` skill** — Dedicated aggressive inline-link pass: term→slug dictionary, conceptually-similar phrase mapping, self-link/heading/same-text cleanup, and verification. Load after every page creation/enrichment (manual and cron).
 - `scripts/add-backlinks.py` — Re-runnable back-link addition script
 - `scripts/fetch-rss-feeds.py` — Journal RSS feed fetcher (CAEAI, BJET; output JSON for the weekly ingestion cron)
-- `scripts/generate-llms-files.py` — Regenerates `public/llms.txt` and `public/llms-full.txt` from articles/ + concepts/
+- `scripts/generate-llms-files.py` — Regenerates `public/llms.txt` and `public/llms-full.txt` from articles/ + content/en/concepts/
 - `build-epub.py` — Regenerates the offline `public/aied.epub` (pandoc) and `public/aied.pdf` (pandoc + weasyprint) from the wiki markdown; also post-processes the EPUB (Notice page, CC0 badge, landmarks, hard-coded TOC numbering)
 - `pdf-style.css` — Print layout for the PDF (A4, page numbers, cover page, clickable blue TOC)
 - `gen-epub-cover.mjs` — Renders the book cover `public/epub-cover.png` (sharp)

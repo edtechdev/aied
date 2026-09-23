@@ -35,7 +35,7 @@ Those future-dated pages then out-sorted the genuine, honest-timestamp ingestion
    accidentally future-dated `created` values, correcting them to honest times.
 3. **Verify by re-deriving the order**, not by trusting a green build:
    ```
-   collect `created:` from all .md under articles/ + concepts/ + faqs/, sort descending
+   collect `created:` from all .md under articles/ + concepts/ + content/en/faqs/, sort descending
    ```
    Confirm the target batch is at the top of its day group before committing.
 

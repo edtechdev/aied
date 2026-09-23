@@ -25,8 +25,10 @@ except ImportError:
     sys.exit("PyYAML is required: pip install pyyaml")
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 REGISTRY = os.path.join(WIKI, 'concepts.registry.yaml')
-CONCEPTS_DIR = os.path.join(WIKI, 'concepts')
+CONCEPTS_DIR = str(content_paths.collection('concepts'))
 REDIRECTS_TS = os.path.join(WIKI, 'src', 'data', 'conceptRedirects.ts')
 INDEX_TS = os.path.join(WIKI, 'src', 'data', 'conceptIndex.ts')
 

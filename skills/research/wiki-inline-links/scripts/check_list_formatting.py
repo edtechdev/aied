@@ -10,6 +10,7 @@ Usage:
 
 Exit code 0 = no defects, 1 = defects found (list them). Stdlib only.
 """
+import json
 import os
 import re
 import sys
@@ -59,21 +60,46 @@ def scan_file(path):
     return issues
 
 
+def content_base(wiki):
+    """Folder holding the default-locale collections inside `wiki`.
+
+    Reads the wiki's `site.config.json` `content` block when present - the layout
+    wiki.config.yaml documents, <content root>/<locale>/<collection>/ - and falls
+    back to the flat layout (concepts/ directly under the wiki root) otherwise, so
+    the same script works in every wiki this skill is used on.
+    """
+    root = default = ''
+    try:
+        with open(os.path.join(wiki, 'site.config.json'), encoding='utf-8') as fh:
+            data = json.load(fh)
+        cfg = data.get('content') or {}
+        root = cfg.get('root') or ''
+        default = cfg.get('defaultDir') or (data.get('i18n') or {}).get('defaultLocale') or ''
+    except (OSError, ValueError):
+        pass   # no site.config.json (or unreadable): a legacy wiki, flat layout
+    if not root:
+        return wiki
+    return os.path.join(wiki, root, default) if default else os.path.join(wiki, root)
+
 def main():
     if len(sys.argv) < 3:
         print(__doc__)
         return 2
     wiki = sys.argv[1]
+    base = content_base(wiki)
     targets = []
     if "--all" in sys.argv[2:]:
         for d in ("articles", "concepts"):
-            for f in sorted(os.listdir(os.path.join(wiki, d))):
+            dd = os.path.join(base, d)
+            if not os.path.isdir(dd):
+                continue
+            for f in sorted(os.listdir(dd)):
                 if f.endswith(".md"):
-                    targets.append(os.path.join(wiki, d, f))
+                    targets.append(os.path.join(dd, f))
     else:
         for slug in sys.argv[2:]:
             for d in ("articles", "concepts"):
-                p = os.path.join(wiki, d, slug + ".md")
+                p = os.path.join(base, d, slug + ".md")
                 if os.path.exists(p):
                     targets.append(p)
     failures = 0

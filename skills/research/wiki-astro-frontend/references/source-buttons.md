@@ -6,10 +6,10 @@ it; do not re-implement per template.
 
 ## Usage
 ```astro
-<SourceButtons filePath={`faqs/${faq.id}.md`} />
+<SourceButtons filePath={`content/en/faqs/${faq.id}.md`} />
 ```
-One prop: `filePath` relative to repo root (e.g. `articles/<slug>.md`,
-`concepts/<slug>.md`, `faqs/<slug>.md`). It builds the GitHub links against
+One prop: `filePath` relative to repo root (e.g. `content/en/articles/<slug>.md`,
+`content/en/concepts/<slug>.md`, `content/en/faqs/<slug>.md`). It builds the GitHub links against
 `edtechdev/aied` @ `main` and adds the site's Chat link.
 
 ## Current button set (final 2026-08-30)
@@ -33,7 +33,7 @@ Styled as muted pill buttons (`.source-pill`, rounded 999px, border
 ## How FAQ got it
 The FAQ template `src/pages/faqs/[slug].astro` originally had no source buttons.
 On 2026-08-24 it was added by importing `SourceButtons` and dropping
-`<SourceButtons filePath={`faqs/${faq.id}.md`} />` after the `data-pagefind-body`
+`<SourceButtons filePath={`content/en/faqs/${faq.id}.md`} />` after the `data-pagefind-body`
 div. Since the component is shared, all FAQ pages got the buttons at once.
 
 ## Notes

@@ -19,8 +19,10 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 COLLECTIONS = ('concepts', 'faqs', 'resources')
-LOCALE_DIRS = ('ar', 'de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh')
+LOCALE_DIRS = tuple(content_paths.TRANSLATED)
 
 FRONTMATTER = re.compile(r'^---\n(.*?)\n---\n', re.S)
 
@@ -47,14 +49,14 @@ def main():
     # English page -> its last edit
     source = {}
     for collection in COLLECTIONS:
-        for path in glob.glob(os.path.join(ROOT, collection, '*.md')):
-            slug = os.path.relpath(path, ROOT)[:-3]
+        for path in glob.glob(content_paths.glob_md(collection)):
+            slug = f'{collection}/{os.path.basename(path)[:-3]}'
             source[slug] = frontmatter(path).get('updated', '')
 
     stale, fresh, unrecorded, orphan = [], [], [], []
     for locale in LOCALE_DIRS:
         for collection in COLLECTIONS:
-            for path in glob.glob(os.path.join(ROOT, locale, collection, '*.md')):
+            for path in glob.glob(content_paths.glob_md(collection, locale)):
                 fm = frontmatter(path)
                 target = fm.get('translation_of', '')
                 rel = os.path.relpath(path, ROOT)

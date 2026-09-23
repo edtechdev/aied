@@ -6,8 +6,8 @@ When the user asks whether the repo's `AGENTS.md` needs updating after site/proc
 1. Read `AGENTS.md` (top of repo).
 2. Compare the page-structure templates (article / concept / FAQ) against a sample of REAL pages. Grep the actual structure:
    ```
-   grep -h "^## " concepts/<sample>.md | sort | uniq -c
-   grep -h "^## " articles/<sample>.md | sort | uniq -c
+   grep -h "^## " content/en/concepts/<sample>.md | sort | uniq -c
+   grep -h "^## " content/en/articles/<sample>.md | sort | uniq -c
    ```
    Real pages are the ground truth — the skill and AGENTS.md may both be stale relative to them.
 3. Verify the editorial rules (inline-link HARD GATE, list-formatting gate, narrative integration, full quoted timestamps) match the canonical `research-wiki` skill wording.

@@ -27,6 +27,9 @@ try:
 except ImportError:
     sys.exit("PyYAML is required: pip install pyyaml")
 
+# Same directory: the content-path resolver (reads site.config.json's `content`).
+import content_paths
+
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 CONFIG_PATH = os.path.join(WIKI, 'wiki.config.yaml')
 # Per-machine overrides (host/port and similar). Gitignored: a clone that has one
@@ -69,10 +72,34 @@ def get(cfg, dotted, default=None):
 
 
 def path(cfg, key):
-    """Absolute path for entries in the `paths:` block (key 'root' = repo root)."""
-    root = cfg['paths']['root']
+    """Absolute path for entries in the `paths:` block.
+
+    'root' is the repo root. The four collections (articles, concepts, faqs,
+    resources) are folder names INSIDE a locale folder, so they resolve through
+    content_paths to <repo>/<content root>/<default locale>/<name> - see
+    site.config.json's `content` block. Everything else is repo-root relative.
+    """
+    if key == 'root':
+        return cfg['paths']['root']
+    if key in content_paths.COLLECTIONS:
+        return str(content_paths.collection(key))
     value = cfg['paths'].get(key)
-    return root if key == 'root' or value in (None, '.') else os.path.join(root, value)
+    return os.path.join(cfg['paths']['root'], value) if value not in (None, '.') else cfg['paths']['root']
+
+
+def collection_dir(cfg, name, locale=None):
+    """Absolute path to one collection in one locale: <content>/<locale>/<name>."""
+    return str(content_paths.collection(name, locale or content_paths.DEFAULT_DIR))
+
+
+def locales(cfg):
+    """Locale codes in site order (default locale first), for translated scans."""
+    return list(content_paths.LOCALES)
+
+
+def translated_locales(cfg):
+    """Every locale except the default one - the folders holding translations."""
+    return list(content_paths.TRANSLATED)
 
 
 def capability(cfg, name, default=None):
