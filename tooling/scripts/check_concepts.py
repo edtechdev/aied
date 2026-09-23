@@ -125,7 +125,7 @@ def main():
         print(f"ERROR {e}")
     if errors:
         sys.exit(f"\n{len(errors)} registry error(s)")
-    print("OK — registry is consistent with concepts/ and the generated views.")
+    print(f"OK — registry is consistent with {content_paths.rel(content_paths.collection('concepts'))}/ and the generated views.")
 
 
 if __name__ == '__main__':

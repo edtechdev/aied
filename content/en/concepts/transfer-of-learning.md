@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-09-11T09:40:00-04:00"
+updated: "2026-09-22T21:36:22-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -111,3 +111,4 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[puech-pedagogical-steering-llm-productive-failure-2025]] — Pedagogical Steering of LLMs for Productive Failure
 - [[rachatasumrit-example-problem-ratio-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
+- [[shi-genai-experiential-learning-management-education-2026]] — argues that protected classroom simulations can form decision habits that fail outside them

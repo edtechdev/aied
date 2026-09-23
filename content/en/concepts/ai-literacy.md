@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-22T09:59:00-04:00"
+updated: "2026-09-22T21:38:08-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -200,3 +200,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[hingle-collaborative-ai-literacy-2025]] — Collaborative AI Literacy Framework
 - [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — reframes AI literacy as judging which interpretive work should not be delegated
