@@ -6,7 +6,7 @@ category: research
 
 # Wiki FAQ Pages (AI in Education research wiki)
 
-Use when the user sends a FAQ **question + draft answer** (markdown or text) to add to the AI-ed wiki at `<WIKI>`, or asks to extend the FAQ page type, wire FAQ↔concept links, or fix FAQ rendering/search/indexing. Complements the user-owned wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-article-quality` — those govern content/en/articles/concepts/inline links; THIS skill owns the FAQ page type).
+Use when the user sends a FAQ **question + draft answer** (markdown or text) to add to the AI-ed wiki at `<WIKI>`, or asks to extend the FAQ page type, wire FAQ↔concept links, or fix FAQ rendering/search/indexing. Complements the user-owned wiki skills (`research-wiki`, `wiki-inline-links`, `wiki-article-quality` — those govern articles and concepts/inline links; THIS skill owns the FAQ page type).
 
 ## The FAQ page type (architecture added 2026-08-24)
 

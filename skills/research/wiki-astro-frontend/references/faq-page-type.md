@@ -9,7 +9,7 @@ llms files, listed on the journal, and linked from a header `?` icon.
 - Source dir: `<WIKI>/faqs/*.md` (gitignored-adjacent? NO — tracked).
 - `src/content.config.ts` adds a `faqs` collection: glob `*.md` in `content/en/faqs/`,
   schema = `title`, `created`, `updated` (optional), `tags`. Uses the SAME
-  `timeField` union transform as content/en/articles/concepts (keep `-04:00` string,
+  `timeField` union transform as articles and concepts (keep `-04:00` string,
   never route through `z.date()`+toISOString which shifts the day).
 - Add to `export const collections = { articles, concepts, faqs }`.
 
