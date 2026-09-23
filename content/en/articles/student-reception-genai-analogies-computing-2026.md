@@ -56,7 +56,7 @@ The authors recommend three [[learning-design|design]] moves and one [[teacher-r
 
 ## Limitations
 
-- Ten students recruited by email from a pool of 667 CS2 completers, each paid $30 per session, so several of the reported patterns rest on one or two accounts.
+- Ten students recruited by email from a pool of 667 CS2 completers, each paid \$30 per session, so several of the reported patterns rest on one or two accounts.
 - Personalization is confounded with explanation format — personalized items were analogies and generic items were technical prose — so the engagement and trust effects cannot be attributed to personalization alone.
 - Presentation order was counterbalanced within each concept, but the concept order (linked lists before recursion) was fixed for every participant.
 - The reflexive thematic analysis reports no intercoder reliability or consensus codebook, and participants' interests leaned toward gaming, sports and popular media, the very reference space one participant found alienating.

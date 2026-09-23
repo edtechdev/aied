@@ -38,12 +38,12 @@ Although the study is framed around general [[human-in-the-loop-ai|human judgmen
 - **Researchers.** Score judgment suspension itself rather than only correctness: assessments and experiments that reward any output miss the near-elimination of "I don't know" that AI availability produced (0.06 vs. 0.36 in Study 1a).
 - **Researchers.** Build structured opportunities to acknowledge uncertainty — process documentation, calibrated-confidence prompts, metacognitive reflection — instead of only rewarding final answers, and treat unsolicited AI defaults (search summaries, autocomplete, writing assistants) as threats to that practice, since automatically displayed advice caused the same collapse.
 - **Researchers.** Target instruction at verification and calibration — monitoring confidence, recognizing when to withhold, overriding AI output — rather than at tool skill, as the results imply technical [[ai-literacy|AI literacy]] does not protect learners' readiness to suspend judgment.
-- **Researchers.** Instrument verification behavior directly and test the boundary conditions: whether suspension collapses when AI advice is usually correct, and whether real-consequence stakes differ from the modest $0.10 accuracy incentives used here.
+- **Researchers.** Instrument verification behavior directly and test the boundary conditions: whether suspension collapses when AI advice is usually correct, and whether real-consequence stakes differ from the modest \$0.10 accuracy incentives used here.
 
 ## Limitations
 
 - All five experiments (N = 3,132) used a single class of stimuli — fine visual details in films — deliberately chosen because they reliably induce [[hallucination-risk|hallucinations]], so the AI was almost always wrong; whether judgment suspension collapses to the same degree when advice is usually correct is left open by the authors.
-- Participants were US-based Prolific respondents paid a £0.30 base rate and $0.10 per correct answer in the stakes conditions; whether errors with real-world rather than monetary consequences behave the same is untested.
+- Participants were US-based Prolific respondents paid a £0.30 base rate and \$0.10 per correct answer in the stakes conditions; whether errors with real-world rather than monetary consequences behave the same is untested.
 - The design did not record whether participants who overrode the AI consulted other sources such as the open Internet or another model, so successful overrides cannot be attributed to reduced AI reliance rather than increased use of alternatives.
 - The incentives, though effective, were modest, and the authors state that whether larger or reputational stakes would close more of the gap to baseline remains unknown.
 

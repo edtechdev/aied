@@ -43,7 +43,7 @@ The two experiments span the convergent–divergent spectrum of learning tasks (
 ## Limitations
 
 - Both experiments used Prolific crowdworkers rather than students in classes: Experiment 1 recruited 614 participants and retained 315 after attention and authenticity checks — nearly half lost, leaving the study underpowered against its preregistered targets — and Experiment 2 retained 247 of 419.
-- Crowdworkers were paid $8.17 per hour, so the authors judge compensation rather than learning to be the dominant motivation and treat the reported effect sizes as conservative lower bounds rather than predictions for field deployment.
+- Crowdworkers were paid \$8.17 per hour, so the authors judge compensation rather than learning to be the dominant motivation and treat the reported effect sizes as conservative lower bounds rather than predictions for field deployment.
 - Interactions were deliberately time-bounded at five-minute lessons and five-minute writing sessions, on SAT-level math problems and NYT writing prompts chosen for experimental tractability, so whether the peer-modeling and diversity benefits persist or attenuate over semester-length work is untested.
 - The two studies capture only two realizations of cognition — unassisted performance on isomorphic math problems and assisted essay quality with confidence, cognitive load, and idea diversity — and the writing study measures no learning transfer, while agent count, error types, role specializations, and interaction structure were each held fixed.
 

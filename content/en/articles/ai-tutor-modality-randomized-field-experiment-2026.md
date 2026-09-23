@@ -33,7 +33,7 @@ reviewed_by: [editor]
 3. **Voice and text were learning-equivalent.** Within students, weekly mastery differed by −0.01 points of 11 (p = .98), and two one-sided tests rejected any true difference larger than ±0.3 SD (p = .018).
 4. **Voice transformed the process.** On equal engaged time, students produced 1.34 dialogue turns per minute in voice weeks against 0.75 in text (31 of 32 students higher) and asked 11.3 questions against 4.6.
 5. **The thinking pause collapsed under speech.** Median tutor-to-student reply gaps were 27 seconds in voice against 54 in text; typed turns spent 25.9 seconds before the first keystroke plus 13.9 seconds composing.
-6. **Voice carried a 2.8× cost premium.** Five weeks for the 52-seat tutored arm cost $562.59 — $413.46 voice and $149.13 text — at $0.22 per voice minute and $0.0165 per text message, with language-model charges 69.5% of spend.
+6. **Voice carried a 2.8× cost premium.** Five weeks for the 52-seat tutored arm cost \$562.59 — \$413.46 voice and \$149.13 text — at \$0.22 per voice minute and \$0.0165 per text message, with language-model charges 69.5% of spend.
 7. **Ambient consumer AI did not close the gap.** Holdout students used consumer tools in 21–42% of weeks, yet the nine reporting external-AI use gained no more than the eight reporting none (+10.3 versus +12.8 of 55, p = .45).
 
 ## What the design separates

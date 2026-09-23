@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Bespoke takes a human instructor's existing [[video-education|lecture]] transcript and regenerates the whole lecture — slides, narration, and charts — for a stated professional audience and duration. From 31 graduate lectures it produced 209 videos across healthcare, finance, energy, and a generic audience, at about $0.22 of API cost per minute. Twenty-five domain-matched experts rated 92 of them on a five-point rubric anchored at "a standard MOOC lecture's quality," judging 87% at or above that bar (mean 3.42 out of 5). Quality held across industries, durations, and a 21-lecture held-out set; voice, slide timing, and layout were the recurring defects.
+> **Synthesis:** Bespoke takes a human instructor's existing [[video-education|lecture]] transcript and regenerates the whole lecture — slides, narration, and charts — for a stated professional audience and duration. From 31 graduate lectures it produced 209 videos across healthcare, finance, energy, and a generic audience, at about \$0.22 of API cost per minute. Twenty-five domain-matched experts rated 92 of them on a five-point rubric anchored at "a standard MOOC lecture's quality," judging 87% at or above that bar (mean 3.42 out of 5). Quality held across industries, durations, and a 21-lecture held-out set; voice, slide timing, and layout were the recurring defects.
 
 ## Key Findings
 1. **Experts judged most regenerated lectures MOOC-comparable.** Reviewers placed 87% of 92 videos at or above the rubric midpoint written as "comparable to a standard [[online-teaching-and-learning|MOOC]] lecture" (95% CI [76%, 96%]).
@@ -34,7 +34,7 @@ ai_assist:
 4. **Personalization depth ran ahead of audience calibration.** [[personalized-learning|Industry framing]] reached B1 = 3.86 (94.6% at 3 or above) against B2 = 3.52; naming an industry added 0.32 points (3.97 vs. 3.65).
 5. **Production was weakest, and voice drove it down.** Production averaged D = 3.41, with voice at D1 = 3.16 (SD = 1.09) — the lowest item, and 29% of videos below 3.
 6. **Quality held on the held-out set.** The 21 lectures unused during development scored G = 3.36 against 3.51 on the 10 development lectures; medium and long differed by 0.17 (p = 0.60).
-7. **A video minute cost about $0.22 in API calls.** Generation ran Claude Sonnet 4.6 against GPT-5.2 with a bound of three refinement iterations; a typical video cost about $5.
+7. **A video minute cost about \$0.22 in API calls.** Generation ran Claude Sonnet 4.6 against GPT-5.2 with a bound of three refinement iterations; a typical video cost about \$5.
 
 ## A pipeline that compiles artifacts instead of pixels
 Bespoke is a directed acyclic graph with a fixed stage order and one branch: a generate–validate–refine loop that always terminates. Five stages write audience-specific objectives, plan the lecture around a retrieved domain paper, write narration, build slides and charts in parallel, and reveal slide elements as the narrator reaches them. Objectives precede content, following [[learning-design|backward design]], and Mayer's multimedia principles serve as generation prompts and named validation criteria. Nothing is rendered as pixel video: slides are HTML with rendered math and charts are generated code, because text-to-video models struggle with equations. Cross-model review has Claude Sonnet 4.6 generating and GPT-5.2 checking, so no model grades only its own output.
@@ -49,7 +49,7 @@ The dimensions separate cleanly in the comments. [[pedagogy|Pedagogy]] and produ
 The paper positions its lever against two neighbors: [[recommender-systems-and-learning-paths|recommendation]], which chooses among videos that already exist, and in-video Q&A, which adds interaction to a fixed recording. Regenerating a lecture for a stated professional group changes what the artifact contains rather than how it is routed. It also differs from the closest compile-to-video system, LASEV, by producing lectures of 5 to 45 minutes instead of one-minute examples. Generic-audience versions were no neutral baseline: shorter than the seed and conversational in register, they still averaged B1 = 3.65.
 
 ## What this means for practice
-- **Instructors.** Repurpose a seed transcript you already own instead of re-recording: at about $0.22 per video minute, an industry variant is cheap enough to trial.
+- **Instructors.** Repurpose a seed transcript you already own instead of re-recording: at about \$0.22 per video minute, an industry variant is cheap enough to trial.
 - **Instructional designers.** Spend the human pass where reviewers located the defects — voice, reveal timing, and slide rendering — rather than on audience calibration (B2 = 3.52).
 - **Administrators.** Clear rights before scaling: generated variants inherit the seed instructor's copyright and any citation obligations from retrieved case studies.
 - **[[educational-technology-developers|Educational technology developers]].** Compile slides, narration, and charts rather than generating pixel video, and route duration arithmetic, missing images, and overflow to code.

@@ -45,7 +45,7 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 
 ## Limitations
 
-- All five studies were run online with Prolific samples of U.S. adults paid a median of about $12/hour, so the participants are advice-seeking adults rather than learners in a course.
+- All five studies were run online with Prolific samples of U.S. adults paid a median of about \$12/hour, so the participants are advice-seeking adults rather than learners in a course.
 - Three of the five studies (2, 3, and 5) observed a single conversation; Study 5 gave participants only three conversational turns with each of the three AI styles before asking which they would most want to continue with.
 - Study 4's outcomes are self-reported — anticipated effort of being understood by a close other, social satisfaction, weekly relative preference — rather than observed changes in participants' relationships.
 - The longitudinal arm recruited 1,400 participants for 12 sessions over three weeks and lost 15.7% of AI-condition participants versus 10% of the no-AI control, with missing data handled under a missing-at-random assumption; the reported analyses also departed from the preregistration by omitting the baseline relative-preference covariate and by using random intercepts only instead of the specified random slopes.

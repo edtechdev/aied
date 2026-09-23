@@ -37,7 +37,7 @@ page_kind: [synthesis]
 
 ## Limitations
 
-- The human experiment recruited 103 participants through Mechanical Turk for a session of roughly 20 minutes paying $3.00; 8 were excluded for failing to complete the task, leaving 95 across four conditions (n = 20 to 32), and no demographic information was collected.
+- The human experiment recruited 103 participants through Mechanical Turk for a session of roughly 20 minutes paying \$3.00; 8 were excluded for failing to complete the task, leaving 95 across four conditions (n = 20 to 32), and no demographic information was collected.
 - The study tested a single short lab task — calculating the area of four geometric shapes — so it is evidence about one content domain and material set, with a power analysis that targeted a moderate interaction effect of f = 0.35 at 85% power.
 - The retention interval was not controlled: it varied with how quickly each participant answered 30 trivia questions, and the authors included its duration as a covariate precisely because prior work shows the benefit of practice is moderated by retention-interval length.
 - The simulated agents received binary corrective feedback after practice trials while the human participants completed retrieval trials without feedback; the authors argue this is unlikely to change the comparison, citing reliable testing effects under no-feedback conditions, but the two conditions were not identical.
