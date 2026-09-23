@@ -1,7 +1,7 @@
 ---
 title: Open Source
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-23T18:38:50-04:00"
 type: concept
 foundations: [agentic-ai, ai-education, curriculum-design]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, edtech-platform, open-source]
@@ -10,6 +10,7 @@ ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 confidence: medium
+connected_resources: [vibes-diy, onmicro-ai]
 methods: [benchmark]
 reviewed_by: [editor]
 ---
