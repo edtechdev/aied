@@ -1,7 +1,7 @@
 ---
 title: "Play-Testing REMind: Evaluating an Educational Robot-Mediated Role-Play Game"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-23T12:14:30-04:00"
 type: article
 pedagogy: [self-efficacy, social-emotional-learning]
 technology: [educational-robotics, simulation]
@@ -41,6 +41,7 @@ The evaluation involved a small sample (18 children aged 9–10) in a play-testi
 
 ## Connected Concepts
 
+- [[simulation]] — robot-mediated role-play as a simulation-based rehearsal method
 - [[educational-robotics]]
 - [[social-emotional-learning]]
 - [[k-12]]
