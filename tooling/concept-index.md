@@ -131,7 +131,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`prompt-engineering`** — Prompt Engineering — phrases: prompt design; prompt engineering; prompt literacy; prompting; prompting strategies; prompting strategy
 - **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
-- **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient
+- **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient; scenario-based learning
 - **`speech-and-voice-technologies`** — Speech and Voice Technologies — phrases: automatic speech recognition; pronunciation feedback; speech recognition; spoken dialogue; text-to-speech; voice assistant; voice-first
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
 - **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive environment; immersive learning; immersive simulation; metaverse; mixed reality; virtual environment; virtual reality
