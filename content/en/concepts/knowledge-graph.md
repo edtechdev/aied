@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-09-16T14:32:03-04:00"
+updated: "2026-09-23T09:35:30-04:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, student-modeling]
@@ -40,6 +40,7 @@ Knowledge graphs are a recurring structural mechanism across the knowledge base'
 - **Instructionally structured graphs for resource recommendation:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] decompose each teaching-resource entity into four instructional dimensions (teaching context, cognitive level, technological feature, cultural adaptability), compute user-dependent semantic similarity over those dimensions, and fuse it with collaborative filtering via an ability- and progress-aware coefficient — encoding pedagogical structure directly into the recommendation signal rather than treating resources as consumption items.
 - **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
+- **Human-curated literary graphs, and what an audit exposes:** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] graphs literary premises — 1,455 axiom records, 1,464 mappings to 149 works, and 472 typed relationships — with [[llm|language models]] proposing candidate formulations that human curators selected and grounded. Its recomputed audit is as instructive as its structure: every endpoint resolves and no duplicate or self-link remains, yet 1,448 of the 1,455 axioms map to exactly one work (so cross-work reuse is sparse), the context taxonomy cannot separate its two context types, and no provenance record survives, leaving the snapshot unable to reconstruct its own pipeline. Structural validity is not interpretive quality, and a curated graph without provenance can be neither audited nor refreshed.
 
 ## LLM-driven knowledge graph construction
 
@@ -66,6 +67,7 @@ Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curr
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — A curator-built graph of 1,455 literary axioms with a structural audit and no provenance record (Liu & Zhao 2026)
 - [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026]] — Ontology-based layered hybrid knowledge model for personalized e-learning
 - [[learnity-graphs-lifelong-learning-framework-2026]] — Learnity graphs for lifelong learning
 - [[veriforge-narrative-drafting-scaffolding-2026]] — Veriforge: narrative-drafting scaffolds

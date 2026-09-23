@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-17T09:40:00-04:00"
+updated: "2026-09-23T09:35:30-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -73,6 +73,8 @@ Bernstein and Sibia (2026) sharpen a distinction between interest personalizatio
 
 A third axis of personalization is the *goal*, and it is the input AI planners handle worst. [[personapath-personalized-learning-paths-2026|Liu et al. (2026)]] paired 2,000 synthetic learner personas with a 347-textbook, 4,092-concept prerequisite graph and asked ten LLMs to plan, step by step, which knowledge a learner should study to reach a stated target unit. The models produced structurally sound curricula — DeepSeek-V3.1 reached 90.9% on prerequisite-and-hallucination validity — while failing to adapt them to the learner: adaptivity topped out at 44.7%, DeepSeek-V3.1's final pass rate was 29.5% in Basic Education and 14.6% in Higher Education, and removing the mastery field from the persona cost up to 26.1 percentage points of adaptivity while leaving validity almost unchanged. Generating the whole path in one pass instead of interactively raised validity by as much as 30.8 points while cutting adaptivity by 28.8. The claim "personalized" is a claim about responding to a learner's state, and the state variable is the part these planners can most easily do without — a computational counterpart to the measurement concern above.
 
+A fourth axis is the *audience* rather than the individual learner: [[bespoke-industry-personalized-lecture-videos-2026|Bespoke]] regenerates an existing lecture for a named professional group (healthcare, finance, or energy), and its expert raters scored industry-framed versions 0.32 points higher on personalization depth (3.97 vs. 3.65) while audience calibration lagged (3.52). Tailoring to a cohort rather than to a learner is a cheaper and more tractable form of personalization, but the rubric that measured it assessed judged fit, not learner outcomes.
+
 ## Prompt-conditioned micro-personalization
 
 [[prompt-engineering-personalization-ai-teaching-assistant-2026|Basu, Kakar & Goel (2026)]] show that the gap between system and perceived personalization can be addressed at the response level. Their framework for the Jill Watson [[llm]]/[[rag]] tutor combines learner-selected preferences (abstraction, verbosity, perception, processing, understanding) with system-inferred cognitive demand ([[cognitive-diagnosis|Bloom's Taxonomy]]) to produce 96 micro-profiles adapted at each interaction via [[prompt-engineering|structured prompt conditioning]] — no retraining, no [[discipline-specific-aied|domain-specific]] authoring. This is a hybrid of [[adaptive-learning|adaptability]] (learner-driven preference selection) and adaptivity (system-driven cognitive assessment), showing that personalization of *how* content is presented can be both scalable and perceptible to learners.
@@ -99,6 +101,7 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[online-teaching-and-learning]] — Online Teaching and Learning
 - [[recommender-systems-and-learning-paths]]
 ## Connected Articles
+- [[bespoke-industry-personalized-lecture-videos-2026]] — Industry-personalized lecture video regeneration from a seed transcript: audience-level tailoring, rated by domain experts (Puech et al. 2026)
 - [[prompt-engineering-personalization-ai-teaching-assistant-2026]] — Prompt-engineering micro-personalization of an AI teaching assistant (Basu, Kakar & Goel 2026)
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
 - [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know (Stanford SCALE/NSSA brief)
