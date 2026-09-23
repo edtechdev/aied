@@ -1,7 +1,7 @@
 ---
 title: Student Engagement
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-09-21T13:00:10-04:00"
+updated: "2026-09-23T09:35:30-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -59,6 +59,8 @@ The choice of metric is definitional: a study that measures engagement as *time-
 
 - **Behavioral telemetry from learning platforms:** [[engagement-forecasting-its|Effort and progress forecasting]], [[learning-engagement-assistant-lea|Learning Engagement Assistant]], [[engagement-assessment-video|video engagement assessment]], and [[interactive-learning-dashboards-engagement|learning dashboards]] translate behavioral and physiological signals (attention, activity, persistence) into engagement metrics used for adaptive feedback and instructor intervention.
 
+- **Physiological sensing adds a modality — and a baseline problem.** [[e3sense-multimodal-learner-engagement-sensing-2026|E3Sense]] co-locates dry-electrode EEG, eye-tracking glasses, and forehead electrodermal electrodes on the head and predicts 450 segment-level engagement ratings from 30 university participants on a five-level ordinal scale: AdaBoost over the fused [[multimodal]] representation reached 75.0% balanced within-one-level accuracy against 63.0% for always predicting the most common rating. The narrowness of that gap is the point — within-one credit hands a sensor-free baseline most of its score on skewed ratings — and asking learners what engagement means to them moved the same measure from 64.6% to 71.5%, evidence that the [[self-report-measures|self-report]] label, not only the sensor, decides what such analytics can claim.
+
 - **Engagement as a learner-modeling signal:** [[engagement-intensity-learner-modeling|Engagement intensity as a learner-modeling signal]] uses engagement strength to inform adaptive AI systems, positioning engagement metrics as inputs to [[student-modeling]] and [[adaptive-learning]] rather than merely evaluation outputs.
 
 ### Engagement vs. learning
@@ -108,6 +110,7 @@ Student engagement connects to [[motivation]] and [[self-determination-theory]] 
 - [[productive-failure]]
 ## Connected Articles
 
+- [[e3sense-multimodal-learner-engagement-sensing-2026]] — Head-confined EEG, eye tracking, and EDA predict five-level engagement ratings, while learners' own definitions shift the mapping (Anupkrishnan et al. 2026)
 - [[student-attention-estimation-fairness-2026]] — Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation
 - [[ai-student-engagement-online-learning-review-2025]]
 - [[ai-online-education-engagement-satisfaction-2026]]

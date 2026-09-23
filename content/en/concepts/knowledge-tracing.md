@@ -1,7 +1,7 @@
 ---
 title: Knowledge Tracing
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-09-22T10:03:01-04:00"
+updated: "2026-09-23T09:34:59-04:00"
 type: concept
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
@@ -42,6 +42,8 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 **A caveat: mastery is not correctness.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that BKT's two-state (learned/unlearned) assumption can be violated by *deceptive overgeneralization* — learners can appear mastered yet systematically misapply a skill when a hidden application constraint is violated. This argues for tracing conditional understanding (knowing *when to withhold* an action), not only action correctness, when mastery estimates drive [[adaptive-learning|adaptive]] stopping rules.
 
 **A related caveat concerns *how* tracing models are validated versus deployed.** [[schuetze-knowledge-tracing-forgetting-2026|Schuetze, Yan, and Carvalho (2025)]] fit BKT, BKT-with-Forgetting, and the Additive Factors Model to a multi-session successive-relearning dataset and found they reproduce learning trends when fit retroactively to all sessions (acceptable AUC ≈ 0.74–0.79); but under **time-based cross-validation** — training on one session to predict the next, the realistic applied setting — all three overestimate future performance by roughly 47–58%, fail to capture the [[desirable-difficulties|spacing effect]], and can even predict the wrong ordinal ordering across practice conditions. Tellingly, models *without* an explicit forgetting mechanism performed about as well as the forgetting-augmented versions as sessions accumulated, suggesting forgetting was partly absorbed into other parameters (e.g., per-student intercepts in AFM) rather than genuinely modeled. The authors tie this to the learning-versus-performance distinction: popular models conflate high in-the-moment performance with high likelihood of long-term retention. The practical implication is that a tracer that looks good on retrospective fit can mislead the adaptive systems consuming its mastery estimates, arguing for walk-forward evaluation and models that account for retention interval, spacing, and between-session forgetting.
+
+**A further caveat concerns the evidence rule that feeds the update.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran four update rules over identical ASSISTments 2012–13 event sequences, differing only in how they score rows completed with help, on a confirmatory half of 12,716 students and 985,813 scored events. Reading a hinted or retried row as a failed first attempt predicted later unaided performance best (pooled AUC 0.658); crediting any completion predicted it worst (0.604), barely above a constant that knows only skill difficulty (0.595). The same choice governs the mastery count: crediting completions declared 93.9% of 113,428 student–skill pairs mastered against 72.8% under the strict rule, and the pairs the lenient rule declared ahead of strict went on to 70.9% unaided accuracy against 85.7% where the two agreed, below the 0.744 base rate. A traced state is therefore partly a function of the scoring convention rather than of the learner alone, so a mastery estimate consumed by an [[adaptive-learning|adaptive]] gate should carry the rule that produced it.
 
 ## Connected Concepts
 
@@ -85,3 +87,4 @@ Knowledge tracing is closely related to [[student-modeling]] — while knowledge
 - [[simulating-learner-task-selection]] — Simulating learners' task-selection strategies and system constraints in mastery learning (Noh, Chowdhary, Ooge, Aleven & Borchers 2026)
 - [[exrec-exercise-recommendation-knowledge-tracing-2025]] — semantically grounded tracing with KC-calibrated states, used as an RL environment for recommendation
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[crediting-assisted-work-inflates-mastery-2026]] — Which evidence rule decides a mastery claim (Srivastava 2026)
