@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T09:53:16-04:00"
+updated: "2026-09-23T18:38:50-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ assessment: [ai-detection, assessment-validity, authentic-assessment]
 level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, regulation]
-connected_resources: [institutional-ai-readiness-pack]
+connected_resources: [institutional-ai-readiness-pack, process-feedback]
 reviewed_by: [editor]
 ---
 
