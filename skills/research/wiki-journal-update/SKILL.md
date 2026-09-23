@@ -27,12 +27,12 @@ Last updated: <YYYY-MM-DD> | Total entries: <N>
 
 ### Non-negotiables
 1. **Date headers are `## YYYY-MM-DD`** — the full 10-char date (`## 2026-09-01`), derived from `created[:10]` with any surrounding quotes stripped first. NO leading `"` quote, NO truncation. A header like `## "2026-09-0` is a BUG (introduced by accidentally quoting + slicing the date).
-2. **Icons:** articles `📄`, concept pages `📘`. No other icons.
+2. **Icons:** articles `📄`, concept pages `📘`, resources `🧰`. No other icons. **Resource pages are included**, with `type: resource` and the 🧰 icon; FAQ pages are not listed in journal.md.
 3. **Single-line entries:** each entry is ONE line `- {icon} [[{slug}]] — {title}` with an em-dash (`—`, U+2014) separator. There is NO separate two-line `  - Title` form.
 4. **Titles are plain** — NOT wrapped in quotes.
 5. **Grouping:** group entries by `created` date, sort date-groups newest-first (`2026-09-01` before `2026-08-31`).
 6. **Within a date group:** sort alphabetically by slug, lowercase.
-7. **Header count:** `Total entries: N` = number of `- ` entry lines (articles + concepts). Must equal the sum of included pages, which must equal the on-disk file count (`len(content/en/articles/*.md) + len(content/en/concepts/*.md)`).
+7. **Header count:** `Total entries: N` = number of `- ` entry lines (articles + concepts + resources). Must equal the sum of included pages, which must equal the on-disk file count (`len(content/en/articles/*.md) + len(content/en/concepts/*.md)`).
 8. **Which pages are included — ALL of them.** This wiki has **NO stub pages**: every article and concept file is a real, fully-authored page that lives in `index.md` and on the site. Include every `type: article` page and every `type: concept` page. **Do NOT skip pages that have `sources: []` or omit `sources:`** — an empty `sources:` field on an article just means it has no raw/ source pointer (many fully-authored articles lack one); it is NOT a stub and MUST be in the journal. (A prior skill note said to skip empty-`sources` concepts as "low-confidence stubs" — that is obsolete: there are no such stub pages in the current wiki, and applying the skip silently dropped real articles from the journal.)
 
 ## Common failure modes (all observed)
@@ -64,8 +64,8 @@ def parse_fm(content):
     return {}
 
 entries = []  # (created_date, slug, icon, title)
-for sub, icon in (('articles', '\U0001F4C4'), ('concepts', '\U0001F4D8')):  # 📄 📘
-    for fn in sorted(os.listdir(os.path.join(WIKI, sub))):
+for sub, icon in (('articles', '\U0001F4C4'), ('concepts', '\U0001F4D8'), ('resources', '\U0001F9F0')):  # 📄 📘
+    for fn in sorted(os.listdir(os.path.join(WIKI, 'content', 'en', sub))):
         if not fn.endswith('.md'): continue
         slug = fn[:-3]
         fm = parse_fm(open(os.path.join(WIKI, sub, fn), encoding='utf-8').read())
@@ -160,3 +160,17 @@ Non-negotiables:
 
 ## Repository mirror
 This skill is mirrored in the AI Ed Wiki repo at `skills/research/wiki-journal-update/`. Keep the installed copy (`<SKILLS_DIR>/research/wiki-journal-update/`) and the repo copy in sync after every edit (they differ only in path literals: the repo copy uses `<WIKI>` placeholders; the installed copy uses an absolute local path).
+
+## Two defects observed in practice (fix these, don't repeat them)
+
+- **A hand-rolled `key: value` frontmatter parser silently damages titles.** Titles containing a colon or an inner
+  quotation mark (for example `AI Advice Suppresses People's Willingness to Say "I Don't Know"`) get truncated at the
+  first colon, or keep one layer of quotes after a single `strip('"')` call. Use `yaml.safe_load` and strip only a
+  matching outer quote pair. The corruption is invisible until a reader notices a title that stops mid-sentence.
+- **Regenerating must preserve the whole committed format, including sections you are not thinking about.** Dropping
+  index.md's `## Resources` section, or the `Resources: <R>` count in its header, is a regression even though the
+  article and concept counts reconcile. Diff the regenerated files against `HEAD` and confirm every section and header
+  field is still present before committing.
+
+Paths: content now lives under `content/en/` (articles, concepts, faqs, resources). The pre-content-root `articles/`
+and `concepts/` roots no longer exist, so any snippet using `os.path.join(WIKI, sub)` needs the `content/en/` prefix.
