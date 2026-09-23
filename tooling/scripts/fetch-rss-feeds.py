@@ -90,6 +90,14 @@ EMBEDDED_FEEDS = {
         "source_id": "joidat",
         "max_age_days": 120,
     },
+    "aalhe": {
+        "name": "Intersection: A Journal at the Intersection of Assessment and Learning",
+        "url": "https://aalhe.scholasticahq.com/feed",
+        "parser": "parse_scholastica",
+        "journal": "Intersection: A Journal at the Intersection of Assessment and Learning",
+        "source_id": "aalhe",
+        "max_age_days": 120,
+    },
 }
 
 def clean(text):
@@ -404,7 +412,9 @@ def parse_scholastica(root, cutoff, feed):
             continue
         # Corrections, retractions and errata are notices about an existing
         # article, not new work: skip them (the feed opens with one).
-        if any(w in title.lower() for w in ['correction', 'corrigendum', 'retraction', 'erratum']):
+        if any(w in title.lower() for w in ['correction', 'corrigendum', 'retraction', 'erratum',
+                                       "editor's note", 'editors note', 'welcome to',
+                                       'front matter', 'table of contents']):
             continue
         desc = clean(item.findtext('description') or '')
         parsed_date = parse_date(item.findtext('pubDate') or '')

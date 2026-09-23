@@ -25,6 +25,11 @@ See the current list with `python3 tooling/scripts/wiki_config.py --get journal_
 
 The fetcher filters out corrigenda, retractions, errata, and issue info — only original research articles remain.
 
+**A source broader than [YOUR_DOMAIN] needs its topical fit stated here.** A general subject-area
+journal scanned by a narrow-topic pipeline will otherwise feed off-topic work into the ingest step:
+name the source in this prompt and say what to keep (per-item relevance filter), and give the source
+its own section heading in the backlog file, since that heading is the append target even while empty.
+
 ### 2. Check for existing articles — CONTENT-based dedup (HARD)
 Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `content/en/articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
 

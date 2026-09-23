@@ -26,6 +26,8 @@
 
 _No articles pending as of 2026-09-20._
 
+## Intersection: A Journal at the Intersection of Assessment and Learning (AALHE)
+
 ## Ingested pages whose source text is truncated (PDF needed)
 
 These 54 pages are already in the knowledge base, but their saved full text
