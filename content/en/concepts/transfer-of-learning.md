@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-09-22T21:36:22-04:00"
+updated: "2026-09-23T16:28:35-04:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -70,6 +70,8 @@ The limited evidence suggests transfer is possible when:
 - **The practice format is matched to the knowledge being transferred.** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit, Koedinger & Carvalho (2025)]] find that retrieval-practice gains frequently fail to transfer to unfamiliar problems — they strengthen memory for a procedure without enabling its use in new contexts — and that durable generalization to novel applications requires pairing practice with worked examples that support skill induction; the optimal example–problem ratio therefore depends on whether the content is a verbatim fact or a generalizable skill.
 - **Learner expertise is calibrated** — the tool adapts support to readiness rather than defaulting to full assistance
 
+- **Transfer as the criterion that separates learning from assistance.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] build their theory of human-AI learning around transfer under reduced support: assisted performance counts as learning only if the capability persists once the support is withdrawn, which makes transfer the test rather than one outcome among several. Their proposition is directional, that requiring source checking or justification during AI-supported work should improve delayed performance, while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
+
 This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose [[conversational-ai|chatbots]], and with [[scaffolding]] principles about fading support as competence grows.
 
 ### Unanswered questions
@@ -96,6 +98,8 @@ Transfer of learning connects to [[metacognition]] (self-monitoring of understan
 - [[learning-theories]]
 - [[productive-failure]] — Productive Failure
 ## Connected Articles
+- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — Layer-sensitive cognitive offloading in GenAI-assisted writing (Chen 2026)
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[critical-thinking-paradox-genai-learning-2026]] — The critical-thinking paradox in GenAI-integrated learning

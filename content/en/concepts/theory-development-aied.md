@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-23T16:28:35-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -32,6 +32,8 @@ Theory development in AIEd sits at the boundary between the applied [[learning-t
 A growing cluster of articles explicitly creates new theory for the AI era rather than applying existing frames:
 
 - **Generativism.** [[generativism-learning-theory|Generativism]] is proposed as a new learning theory, arguing that behaviorism, cognitivism, [[constructivist|constructivism]], and connectivism show significant conceptual limitations as [[generative-ai|generative AI]] proliferates — a direct bid to name a distinct theoretical paradigm for AI-mediated learning.
+- **Agentivism.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] propose Agentivism as a mid-range learning theory for human-AI interaction, defining learning as durable growth in human capability rather than successful task completion with AI, and specifying four mechanisms: delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support. What separates it from the other bids on this page is falsifiability: it states six propositions, including that learning is stronger when AI preserves learner responsibility for problem framing, criteria setting and justification than when it supplies answers, and that requiring verification should improve delayed performance while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
+
 - **Epistemic co-agency.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] builds "toward a theory of epistemic co-agency," a theory-informed model of how learners and GenAI systems jointly produce knowledge and understanding.
 - **The absent cognitive baseline (ACB).** [[absent-cognitive-baseline-2026|The Absent Cognitive Baseline]] theorizes a structural gap in AI-native students' academic self-assessment — a three-dimension framework explaining why students overestimate their learning when AI inflates performance.
 - **The cognitive commons.** [[cognitive-commons-ai-expertise-regeneration|Cognitive commons and expertise regeneration]] draws on common-pool-resource theory and [[distributed-cognition|distributed cognition]] to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal.
@@ -80,6 +82,8 @@ Theory development and [[philosophy-of-ai-in-education|the philosophy of AI in e
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+
 - [[deceptive-overgeneralization-adaptive-learning-2026]] — Deceptive overgeneralization: adaptive mastery can stop practice before learners know when to withhold an action (An, McLaren & Stamper 2026)
 - [[reclaiming-epistemic-agency-co-agency-2026]]
 - [[generativism-learning-theory]] — Generativism as a new learning theory

@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-22T21:38:08-04:00"
+updated: "2026-09-23T16:28:35-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -86,6 +86,8 @@ The framework's boundary condition requires **contestability** (the ability to q
 
 A closely related framing is **relational epistemic agency** ([[du-yuan-epistemic-dependence-2026|Du & Yuan 2026]]), which agrees that agency is socially enabled and technologically mediated rather than a matter of isolation from dependence. Where the Ecological Co-Agency Framework stresses human epistemic accountability as a non-negotiable boundary, Du and Yuan retain an explicit *asymmetry*: AI systems may shape and extend reasoning without possessing reciprocal responsibility or legitimate authority. Their six diagnostic criteria — contestability, recoverability, transfer, traceability, distributed responsibility, and epistemic plurality — provide a practical test for when a human–AI relation preserves the learner's capacity to participate in how claims are formed, assessed, and accepted, versus when it merely delivers a product. Agency on this account is not independence from tools but the capacity to judge responsibly *with, through, and against* the systems that mediate knowledge.
 
+- **Delegated agency as a mechanism, not only a risk.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] treat the delegation of cognitive work to AI as part of how learning happens, not merely a threat to it: in their account assisted performance becomes durable capability only when the learner keeps responsibility for framing the problem, setting criteria, and justifying answers, a division of labor they call delegated agency. That makes the allocation itself the design variable, since the same tool can preserve or dissolve learner agency depending on which responsibilities it absorbs.
+
 ## Connected Concepts
 - [[learners]] — Learners: the umbrella for the learner-side concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
@@ -108,6 +110,8 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[cognitive-surrender]]
 
 ## Connected Articles
+- [[yan-agentivism-learning-theory-ai-2026]] — A mid-range learning theory for human-AI interaction, with four mechanisms and six testable propositions (Yan and Gašević 2026)
+
 - [[learner-agency-ai-simulation-2026]] — Access to choice vs. agency enacted: sliders, an optional AI agent and learning in a flocking simulation
 - [[powerful-learning-with-emerging-technology-2025]] — Agency as one of three design principles
 - [[guarded-adoption-genai-higher-education-2026]] — Guarded Adoption of Generative AI in Higher Education
