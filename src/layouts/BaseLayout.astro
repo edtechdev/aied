@@ -1555,8 +1555,17 @@ const recentConceptItems = recentConcepts.map(c => ({
         // then never gives anything up and the header pushes the page sideways.
         const viewport = document.documentElement.clientWidth;
         const available = Math.min(container.clientWidth, viewport) - pad - used - gap * 2;
+        // Keep a slot's worth of room in hand before an icon counts as fitting. The
+        // controls are uniform in size, so a row that sits flush against its budget
+        // sits on a knife edge: a few pixels of difference in what an engine measures
+        // here — font metrics in the brand, a wider glyph, a reserved scrollbar — puts
+        // one more icon over the edge, and a control then appears in a different place
+        // in the row in one browser than in another. Headroom makes the set the same
+        // in every engine at the same width.
+        const unit = Math.round(Math.max(...all.map((el) => el.offsetWidth), 0) + gap);
+        const headroom = Math.max(8, Math.round(unit / 2));
         for (const el of giveUp) {
-          if (rowWidth(gap) <= available) break;
+          if (rowWidth(gap) + headroom <= available) break;
           slot.appendChild(el);
         }
         menu.hidden = slot.children.length === 0;
