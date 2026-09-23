@@ -333,3 +333,23 @@ The inventory of support files, scripts and reference documents that ship with t
 - **Post-regeneration sanity check**: verify ALL newly ingested slugs appear in both `index.md` and `journal.md` by searching for them with Python `open().read()`. Silent YAML parse failures (unquoted colons, `sources: null`, read_file corruption) can drop entries with no error.
 - **Three-Way Count Reconciliation (Astro-era)**: After rebuild, these counts MUST agree: (a) `len([f for f in os.listdir('articles') if f.endswith('.md')])` + `len([f for f in os.listdir('concepts') if f.endswith('.md')])`, (b) the number of `- [[slug]]` lines in `index.md`, and (c) the number of article+concept pages in the built site. `npm run build` prints the page count — trust it as authoritative. Reconcile before declaring the run complete. **Note: this wiki's `index.md` uses ONE `## Concepts` section that alphabetically mixes both articles AND concepts (no separate `## Articles` section).** The header `**Total pages:** N` reflects the actual file count (articles + concepts), which is NOT the same as the number of `- [[slug]]` index lines (the index omits some pages). When updating the header, set it to the real `os.listdir` file count (articles + concepts), not the index line count — they differ (e.g. 786 pages vs 702 index lines).
 - Count HTML files against concept page count after export
+
+### When gate 10 flags a number, check the source before the page
+
+The check compares each figure on a page against the page's raw source, so a flag
+means "not found there", not "wrong". Three causes are common, and the fix differs
+for each:
+
+1. **The paper was revised.** Versioned preprints sometimes reconcile and update
+   their metrics; the page may carry a superseded value while the raw (refreshed
+   later) holds the current one. Correct the page against the raw.
+2. **The figure lives in a table or figure caption.** Text extraction frequently
+   drops tables and captions, so a correctly cited number can look ungrounded.
+   Fetch the table or caption and record it in the raw with a note; do not change
+   the page.
+3. **The number is not from the paper at all** (a repository star count, a price,
+   a live figure). Verify it at its real source and record a dated observation in
+   the raw, so the page's provenance is explicit instead of implied.
+
+Only whitelist a number when it is genuinely unverifiable, and never adjust a page
+to satisfy the checker.
