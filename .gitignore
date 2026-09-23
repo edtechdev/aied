@@ -18,6 +18,7 @@ wiki.config.local.yaml
 
 # Obsidian
 .obsidian/
+*.base
 
 # Python bytecode
 __pycache__/

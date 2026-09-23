@@ -76,6 +76,9 @@ build:
     # line-broken false positives. Scoped to changed pages so a legacy page's pre-existing
     # token shapes do not block unrelated work.
     - python3 tooling/scripts/verify-number-grounding.py --changed
+    # Frontmatter date fields must stay quoted strings: an unquoted ISO timestamp is a
+    # YAML date, which the schema normalises to UTC and can shift to the next calendar day.
+    - python3 tooling/scripts/check-frontmatter-dates.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit
