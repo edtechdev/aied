@@ -10,7 +10,7 @@ to point the pipeline somewhere else. Everything below describes the workflow.
 **What this tooling does:**
 - **Daily scans** arXiv (cs.CY/cs.HC/cs.CL/cs.AI + physics.ed-ph), EdArXiv and PsyArXiv (by subject, e.g. Educational Psychology) for new papers in your domain
 - **Weekly journal scans** pull open-access articles from journal RSS feeds (CAEAI, CEAO, BJET, Frontiers in Psychology, IJETHE, IJAiEd, JOIDAT — see `wiki.config.yaml` → `journal_scan.feeds`). Each feed carries its own freshness window, so a batch-publishing journal is not blanked out between mailings.
-- Ingests papers into a structured markdown wiki: one `articles/<slug>.md` per paper, one `concepts/<slug>.md` per broad topic, one `faqs/<slug>.md` per curated question and one `resources/<slug>.md` per external tool or collection, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
+- Ingests papers into a structured markdown wiki: one `content/en/articles/<slug>.md` per paper, one `content/en/concepts/<slug>.md` per broad topic, one `content/en/faqs/<slug>.md` per curated question and one `content/en/resources/<slug>.md` per external tool or collection, with cross-links and typed metadata (facet concept fields plus phrase fields; the old free-form tag list is retired)
 - Publishes an **Astro 7 static site** with Pagefind full-text search, sitemap, RSS, and agent-ready `llms.txt` / `llms-concepts.txt` / `llms-full.txt`
 - Publishes **offline EPUB and PDF versions** (`aied.epub`, `aied.pdf`) with a clickable, numbered table of contents and a Notice page
 - Deploys to GitHub Pages with a single `git push` (GitHub Actions)
@@ -74,8 +74,8 @@ mkdir -p articles concepts raw/papers
 cp tooling/example/index.md .
 cp tooling/example/journal.md .
 cp tooling/example/log.md .
-cp tooling/example/articles/* articles/
-cp tooling/example/concepts/* concepts/
+cp tooling/example/articles/* content/en/articles/
+cp tooling/example/concepts/* content/en/concepts/
 cp tooling/example/raw/papers/* raw/papers/
 ```
 
@@ -88,7 +88,7 @@ cp tooling/example/concepts.registry.example.yaml concepts.registry.yaml
 ```
 
 ```bash
-python3 tooling/scripts/check_concepts.py     # registry vs concepts/ vs generated views
+python3 tooling/scripts/check_concepts.py     # registry vs content/en/concepts/ vs generated views
 python3 tooling/scripts/gen-concept-artifacts.py   # regenerate the views from the registry
 ```
 
@@ -107,10 +107,12 @@ Create them with `agent cron create` using the prompt files, setting `workdir` t
 
 ```
 wiki/
-├── articles/          # One page per paper (synthesis, findings, citations)
-├── concepts/          # One page per broad topic (synthesizes multiple papers)
-├── faqs/              # Curated FAQ pages (question-and-answer)
-├── resources/         # External tools, collections, instruments and open formats a reader can go and use
+├── content/                  # Every markdown page, one tree:
+│   ├── en/articles/          #   one page per paper (synthesis, findings, citations)
+│   ├── en/concepts/          #   one page per broad topic (synthesizes multiple papers)
+│   ├── en/faqs/              #   curated FAQ pages (question-and-answer)
+│   ├── en/resources/         #   external tools, collections, instruments, open formats
+│   └── <locale>/             #   translations, mirroring the default collections
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts)
 ├── concepts.registry.yaml  # Concept vocabulary: slugs, titles, phrases, sections, redirects
 ├── wiki.config.yaml   # Pipeline config: paths, gates, scan sources, journal feeds, agent block
@@ -128,10 +130,10 @@ wiki/
 
 ## Page Types
 
-- **Article pages** (`articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text). `audit-article-sections.py` is the gate on the order and the counts.
-- **Concept pages** (`concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → `## Questions to Consider` (required) → `## Introduction` → body sections with wikilinks → Connected Concepts → Connected Articles.
-- **FAQ pages** (`faqs/<slug>.md`) — one per curated question-and-answer. Frontmatter → question heading → narrative answer with wikilinks (can link to concepts, articles, and other FAQs). No sources/citation. Listed on the journal page (❓), indexed in llms files, and linked from concept/article pages via `connected_faqs`.
-- **Resource pages** (`resources/<slug>.md`) — one per external resource worth pointing readers at: a tool, a collection, an assessment instrument, an open format. Frontmatter carries `url` (required), `resource_type`, `access` (full-text accessibility for the reader), `license` and `last_verified`; the body is a fact block → short prose → Metadata table → Connected Concepts / Connected Resources. No `## Citation` — a resource is not a paper. Listed on `/resources/`, in `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and in the closing chapter of the EPUB/PDF. `python3 tooling/scripts/check-resource-links.py` re-checks every URL and flags the `last_verified` dates that need bumping.
+- **Article pages** (`content/en/articles/<slug>.md`) — one per paper. Frontmatter → synthesis blockquote → `## Key Findings` (5–7 contiguous items) → 3–4 body sections → `## What this means for practice` (3–5 bullets) → `## Limitations` (2–4 bullets, optional) → Connected Concepts → Connected Articles → Connected FAQs → `## Citation` (always the last section; the paper's title is the only hyperlinked text). `audit-article-sections.py` is the gate on the order and the counts.
+- **Concept pages** (`content/en/concepts/<slug>.md`) — one per broad topic that synthesizes multiple articles. Frontmatter → synthesis → `## Questions to Consider` (required) → `## Introduction` → body sections with wikilinks → Connected Concepts → Connected Articles.
+- **FAQ pages** (`content/en/faqs/<slug>.md`) — one per curated question-and-answer. Frontmatter → question heading → narrative answer with wikilinks (can link to concepts, articles, and other FAQs). No sources/citation. Listed on the journal page (❓), indexed in llms files, and linked from concept/article pages via `connected_faqs`.
+- **Resource pages** (`content/en/resources/<slug>.md`) — one per external resource worth pointing readers at: a tool, a collection, an assessment instrument, an open format. Frontmatter carries `url` (required), `resource_type`, `access` (full-text accessibility for the reader), `license` and `last_verified`; the body is a fact block → short prose → Metadata table → Connected Concepts / Connected Resources. No `## Citation` — a resource is not a paper. Listed on `/resources/`, in `index.md` under `## Resources`, in `journal.md` with a 🧰 badge, and in the closing chapter of the EPUB/PDF. `python3 tooling/scripts/check-resource-links.py` re-checks every URL and flags the `last_verified` dates that need bumping.
 
 Inter-page links use `[[wikilink]]` syntax, rendered as hyperlinks by the Astro templates.
 
@@ -159,7 +161,7 @@ python3 tooling/scripts/check-resource-links.py
 # Regenerate agent-ready files
 python3 tooling/scripts/generate-llms-files.py
 
-# Validate the concept registry against concepts/ and the generated views
+# Validate the concept registry against content/en/concepts/ and the generated views
 python3 tooling/scripts/check_concepts.py
 
 # Validate the typed facet fields (pedagogy, technology, ...). Each field holds concept
@@ -214,7 +216,7 @@ python3 tooling/scripts/run-gates.py --list
 # Commit only when the gates are green (US English, list formatting, facets, section audit,
 # number grounding, then a personal-identifier scan of the staged diff). The commit is
 # stamped with the AI-use trailers; AI_ROLE / AI_MODEL / AI_REVIEWED_BY override the defaults.
-bash tooling/scripts/commit-if-green.sh /tmp/msg.txt articles/<new-page>.md public/llms-full.txt
+bash tooling/scripts/commit-if-green.sh /tmp/msg.txt content/en/articles/<new-page>.md public/llms-full.txt
 
 # Stamp the trailers alone, when you are committing without the gate suite. Stage first;
 # this wrapper never adds files and never pushes.
@@ -297,7 +299,7 @@ Check them with:
 
 ```bash
 python3 tooling/scripts/wiki_config.py --check     # paths, gates, sources, preview, agent block
-python3 tooling/scripts/check_concepts.py          # registry vs concepts/ vs generated views
+python3 tooling/scripts/check_concepts.py          # registry vs content/en/concepts/ vs generated views
 ```
 
 Machine-specific settings (the preview's host and port, for example) go in
@@ -350,7 +352,7 @@ script-only cron watchdog (no LLM, silent while the preview is fresh).
 | Site not updating | GitHub Actions deploy workflow ran? Actions tab → astro-deploy |
 | Search index stale | Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
-| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/` or `concepts/` |
+| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `content/en/articles/` or `content/en/concepts/` |
 | Numbered list shows every item as `1.` | Blank lines between consecutive list items split them into separate lists — run `check_list_formatting.py` and remove the blank lines |
 | YAML parsing errors | Titles with colons must be quoted: `title: "X: Y"` |
 | Paywalled articles | Hybrid journals (BJET) — the weekly cron skips paywalled articles and reports them |

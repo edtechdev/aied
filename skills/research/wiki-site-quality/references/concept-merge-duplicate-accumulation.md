@@ -8,7 +8,7 @@ Surfaced during the third merge of the day (`block-programming` → `cs-educatio
 
 When multiple concepts are merged into one canonical over time, hub/connected pages that
 listed each absorbed slug separately become duplicated after each rewrite. Seen in
-`concepts/discipline-specific-aied.md`:
+`content/en/concepts/discipline-specific-aied.md`:
 
 - Before any merge the line read `[[cs-education]] / [[programming-education]] /
   [[block-programming]]`.
@@ -25,7 +25,7 @@ After EVERY merge's link-rewrite pass, grep the canonical slug across hub pages 
 duplicates:
 
 ```bash
-grep -n "<canonical>" concepts/discipline-specific-aied.md concepts/ai-education.md
+grep -n "<canonical>" content/en/concepts/discipline-specific-aied.md content/en/concepts/ai-education.md
 ```
 
 Watch for:
@@ -35,6 +35,6 @@ Watch for:
 - Self-referential links on the canonical page ITSELF (its own body prose linking the absorbed
   slug, which now resolves to itself) → convert to `[[canonical|display]]` or drop.
 
-`concepts/ai-education.md`, `concepts/discipline-specific-aied.md`, and the canonical page's
+`content/en/concepts/ai-education.md`, `content/en/concepts/discipline-specific-aied.md`, and the canonical page's
 own Connected Concepts/Articles are the usual spots. A single bare `- [[canonical]]` entry is
 the correct end state.

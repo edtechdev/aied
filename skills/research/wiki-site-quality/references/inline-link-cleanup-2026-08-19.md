@@ -51,4 +51,4 @@ synthesis blockquote (dropping the newline), breaking YAML — always split/rewr
 - No nested `[[` `[[`.
 - Balanced `[[`/`]]` counts.
 - Frontmatter `---` delimiter intact on its own line.
-- All targets resolve against concepts/ + articles/ slugs.
+- All targets resolve against concepts/ + content/en/articles/ slugs.

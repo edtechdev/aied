@@ -33,7 +33,9 @@ import urllib.error
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-RESOURCES = os.path.join(ROOT, 'resources')
+import content_paths
+
+RESOURCES = str(content_paths.collection('resources'))
 TIMEOUT = 20
 UA = 'Mozilla/5.0 (compatible; aied-resource-link-check/1.0)'
 
@@ -65,7 +67,7 @@ def check(url):
 def main():
     update = '--update' in sys.argv
     if not os.path.isdir(RESOURCES):
-        print('no resources/ directory')
+        print(f'no {content_paths.rel(RESOURCES)} directory')
         return 0
     today = dt.date.today().isoformat()
     dead, blocked, stale = [], [], []

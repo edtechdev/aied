@@ -16,9 +16,9 @@ Pair with `references/concept-merge-workflow.md` for the sibling merge operation
    `[[slug|display]]`. Add a "Practical guidance for <educators>" section with article-backed
    bullets — the wiki maintainer values actionable, source-grounded advice.
 4. **Expand Connected Concepts and Connected Articles** to reflect the newly covered themes.
-   Verify every linked concept slug exists (`[ -f concepts/$c.md ]`).
+   Verify every linked concept slug exists (`[ -f content/en/concepts/$c.md ]`).
 5. **Verify all article slugs resolve** before committing — extract `[[slug]]` from the body
-   and stat each against articles/ + concepts/. Fix any typo'd slug (0 broken links).
+   and stat each against articles/ + content/en/concepts/. Fix any typo'd slug (0 broken links).
 
 ## Rules
 

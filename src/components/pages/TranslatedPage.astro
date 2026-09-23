@@ -9,6 +9,7 @@ import TranslationNotice from '../TranslationNotice.astro';
 import ConnectedList from '../ConnectedList.astro';
 import MetadataTable from '../MetadataTable.astro';
 import SourceButtons from '../SourceButtons.astro';
+import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
 
@@ -107,7 +108,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
     />
 
     <MetadataTable conceptTitles={conceptTitles} data={data} locale={locale} />
-    <SourceButtons filePath={`${locale}/${translationOf}.md`} locale={locale} />
+    <SourceButtons filePath={contentRepoPath(locale, `${translationOf}.md`)} locale={locale} />
   </article>
 </BaseLayout>
 

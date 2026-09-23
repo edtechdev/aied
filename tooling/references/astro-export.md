@@ -17,7 +17,7 @@ Use this phase when the user asks to build the wiki's static site, or when a cro
    ```bash
    python3 tooling/scripts/generate-llms-files.py
    ```
-   This rebuilds `public/llms.txt` and `public/llms-full.txt` from the current `articles/`, `concepts/`, and `faqs/` markdown.
+   This rebuilds `public/llms.txt` and `public/llms-full.txt` from the current `content/en/articles/`, `content/en/concepts/`, and `content/en/faqs/` markdown.
 3. **Build the Astro site** — Run:
    ```bash
    cd [WIKI_PATH]

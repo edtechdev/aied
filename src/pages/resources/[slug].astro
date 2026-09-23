@@ -11,6 +11,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SourceButtons from '../../components/SourceButtons.astro';
+import { contentFilePath } from '../../config/content';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
@@ -136,7 +137,7 @@ const pagefindFilterPairs: string[] = metaFields
     />
 
     <MetadataTable conceptTitles={conceptTitles} data={resource.data} />
-    <SourceButtons filePath={`resources/${resource.id}.md`} />
+    <SourceButtons filePath={contentFilePath('resources', resource.id)} />
   </article>
 </BaseLayout>
 

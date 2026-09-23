@@ -32,7 +32,7 @@ Last updated: <YYYY-MM-DD> | Total entries: <N>
 4. **Titles are plain** — NOT wrapped in quotes.
 5. **Grouping:** group entries by `created` date, sort date-groups newest-first (`2026-09-01` before `2026-08-31`).
 6. **Within a date group:** sort alphabetically by slug, lowercase.
-7. **Header count:** `Total entries: N` = number of `- ` entry lines (articles + concepts). Must equal the sum of included pages, which must equal the on-disk file count (`len(articles/*.md) + len(concepts/*.md)`).
+7. **Header count:** `Total entries: N` = number of `- ` entry lines (articles + concepts). Must equal the sum of included pages, which must equal the on-disk file count (`len(content/en/articles/*.md) + len(content/en/concepts/*.md)`).
 8. **Which pages are included — ALL of them.** This wiki has **NO stub pages**: every article and concept file is a real, fully-authored page that lives in `index.md` and on the site. Include every `type: article` page and every `type: concept` page. **Do NOT skip pages that have `sources: []` or omit `sources:`** — an empty `sources:` field on an article just means it has no raw/ source pointer (many fully-authored articles lack one); it is NOT a stub and MUST be in the journal. (A prior skill note said to skip empty-`sources` concepts as "low-confidence stubs" — that is obsolete: there are no such stub pages in the current wiki, and applying the skip silently dropped real articles from the journal.)
 
 ## Common failure modes (all observed)
@@ -128,7 +128,7 @@ Expect `Scanned N page(s). Defects: 0`.
 Regenerate `journal.md` in Phase-1 ingestion (research-wiki skill) AFTER creating article/concept pages and adding reciprocal links, BEFORE `index.md` and the Astro build. Then regenerate `index.md`, `public/llms.txt`/`llms-full.txt` (`python3 tooling/scripts/generate-llms-files.py`), then `npm run build`.
 
 ## index.md — same regen family, same discipline
-`index.md` is regenerated alongside journal.md every batch and is subject to the SAME format-regression class. Do NOT treat it as an append-only file — collect all slugs+titles from `articles/` AND `concepts/` (NOT faqs — FAQ slugs are not listed in the ## Concepts list), sort alphabetically by slug (lowercase), and rewrite the whole file.
+`index.md` is regenerated alongside journal.md every batch and is subject to the SAME format-regression class. Do NOT treat it as an append-only file — collect all slugs+titles from `content/en/articles/` AND `content/en/concepts/` (NOT faqs — FAQ slugs are not listed in the ## Concepts list), sort alphabetically by slug (lowercase), and rewrite the whole file.
 
 Exact format (Astro-era, verified against committed batch):
 ```
@@ -147,7 +147,7 @@ Non-negotiables:
 1. **Header** has `Last updated: <YYYY-MM-DD>` on its own line, then `Articles: <A> | Concepts: <C> | FAQs: <F>` (counts from `os.listdir`), then `## Concepts`.
 2. **Title line is `- [[slug]] — Title` with NO surrounding quotes** (em-dash separator, matching the journal).
 3. **One `## Concepts` section** listing articles + concepts only (alphabetical). FAQ slugs are counted in the header but are NOT entries in this list.
-4. **`Total pages` reconciliation:** the number of `- [[` lines must equal `len(articles/*.md) + len(concepts/*.md)`, and the header `Articles`/`Concepts` counts must match those `os.listdir` counts. New-article presence check: the just-ingested slug MUST appear after regen.
+4. **`Total pages` reconciliation:** the number of `- [[` lines must equal `len(content/en/articles/*.md) + len(content/en/concepts/*.md)`, and the header `Articles`/`Concepts` counts must match those `os.listdir` counts. New-article presence check: the just-ingested slug MUST appear after regen.
 
 ## Pitfalls
 - **Truncated date headers**: `## "2026-09-0` is a bug. Header must be `## 2026-09-01` (13 chars: `## ` + 10-char date). Never prefix a `"`; strip quotes from `created` before slicing.

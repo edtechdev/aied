@@ -6,7 +6,7 @@ Validated renaming `instructional-design`→`learning-design` and `faculty-devel
 - In content, replace `[[old` only when IMMEDIATELY followed by `]]` or `|`, so you never corrupt ARTICLE slugs that merely contain the token as a prefix (e.g. `[[curriculum-as-code-instructional-design-2026]]` is a real article and must survive):
   - links: `re.compile(r'\[\['+old+r'(?=\]\]|\|)')`
   - tags: `re.compile(r'(?<=\s|\[)'+old+r'(?=\s*[,)\]])')`
-- Post-check that NO `[[old` (followed by `]]`/`|`) and NO old tag token remains in any concepts/ articles/ faqs/ file.
+- Post-check that NO `[[old` (followed by `]]`/`|`) and NO old tag token remains in any content/en/concepts/ content/en/articles/ content/en/faqs/ file.
 - Use `git mv` so git records the rename.
 
 ## `tooling/concept-index.md` canonical list is ALPHABETICAL
@@ -43,5 +43,5 @@ Nine article slugs still carried British spellings after the corpus prose moved 
 - **Redirects live in `src/data/articleRedirects.ts`, maintained BY HAND** (there is no registry block to generate from, unlike `conceptRedirects.ts`). Append `'old-slug': 'new-slug',` inside the object and keep it `Record<string, string>`. `[slug].astro` reads the keys for `getStaticPaths`, so the old URL keeps resolving at 301 — verify by building and confirming `dist/articles/<old>/index.html` exists and carries the new URL.
 - **`[[old` link targets, `index.md`, `journal.md` and `log.md` all name article slugs**, so the sweep must cover those three files too, not just the content directories — a slug appears in `index.md`/`journal.md` once per page, and in `log.md` for every historical entry that mentioned it.
 - **`sources:` in the frontmatter points at the raw file's own name under `raw/papers/`, which is an input, not the page's slug, and is often a DOI-derived filename.** Leave `sources:` and `raw/` alone on a slug rename: `tooling/scripts/verify-number-grounding.py` reads those paths, and renaming them gains nothing.
-- Regenerate the title→slug maps (`gen-concept-artifacts.py` writes `metadataLinks.ts`) and the llms files, then run the gates: `check_concepts.py`, `validate-facets.py`, the us-English checker, `check_list_formatting.py`, and a scripted broken-link scan over `articles/ concepts/ faqs/`.
+- Regenerate the title→slug maps (`gen-concept-artifacts.py` writes `metadataLinks.ts`) and the llms files, then run the gates: `check_concepts.py`, `validate-facets.py`, the us-English checker, `check_list_formatting.py`, and a scripted broken-link scan over `content/en/articles/ content/en/concepts/ content/en/faqs/`.
 - In the same commit message, say explicitly that page content was NOT edited — a slug rename that also changes prose is two changes and should be two commits.

@@ -7,15 +7,15 @@ llms files, listed on the journal, and linked from a header `?` icon.
 ## Content collection
 
 - Source dir: `<WIKI>/faqs/*.md` (gitignored-adjacent? NO — tracked).
-- `src/content.config.ts` adds a `faqs` collection: glob `*.md` in `faqs/`,
+- `src/content.config.ts` adds a `faqs` collection: glob `*.md` in `content/en/faqs/`,
   schema = `title`, `created`, `updated` (optional), `tags`. Uses the SAME
-  `timeField` union transform as articles/concepts (keep `-04:00` string,
+  `timeField` union transform as content/en/articles/concepts (keep `-04:00` string,
   never route through `z.date()`+toISOString which shifts the day).
 - Add to `export const collections = { articles, concepts, faqs }`.
 
 ## Page template — `src/pages/faqs/[slug].astro`
 
-Mirrors `articles/[slug].astro`'s markdown renderer, but the wikilink resolver
+Mirrors `content/en/articles/[slug].astro`'s markdown renderer, but the wikilink resolver
 must resolve against THREE slug sets: article, concept, AND faq slugs.
 ```
 const articleSlugs = new Set(allArticles.map(a=>a.id.replace('.md','')));
@@ -64,7 +64,7 @@ article pages, shown ONLY when ≥1 FAQ is connected.
   `connected_faqs: z.any().transform(v=>Array.isArray(v)?v.map(String):[]).optional()`
 - **Frontmatter** on the concept/article page: `connected_faqs: [<faq-slug>]`
   (e.g. `[top-10-findings-ai-education-instructors]`).
-- **Template** (both `articles/[slug].astro` and `concepts/[slug].astro`):
+- **Template** (both `content/en/articles/[slug].astro` and `content/en/concepts/[slug].astro`):
   ```
   const faqs = await getCollection('faqs');
   const faqById = new Map(faqs.map(f=>[f.id.replace('.md',''),f]));
@@ -86,5 +86,5 @@ article pages, shown ONLY when ≥1 FAQ is connected.
   slugs). Keep the aggressive-inline-links standard.
 - Frontmatter: clean `title`, full ISO `-04:00` timestamps, `tags`.
 - The first FAQ was "Top 10 Findings from AI in Education Research That
-  Instructors Should Know About?" (`faqs/top-10-findings-ai-education-instructors.md`),
+  Instructors Should Know About?" (`content/en/faqs/top-10-findings-ai-education-instructors.md`),
   connected to ai-education, teacher-role, and instructional-design.

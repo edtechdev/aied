@@ -7,15 +7,15 @@ From your wiki root:
 cp tooling/example/index.md .
 cp tooling/example/journal.md .
 cp tooling/example/log.md .
-cp -r tooling/example/articles/* articles/
-cp -r tooling/example/concepts/* concepts/
+cp -r tooling/example/articles/* content/en/articles/
+cp -r tooling/example/concepts/* content/en/concepts/
 cp -r tooling/example/raw/papers/* raw/papers/
 ```
 
 Then replace the placeholder dates and content with your own.
 
 Finally create your concept vocabulary — copy the starter registry to the repo
-root and edit it (every entry needs a matching `concepts/<slug>.md` page):
+root and edit it (every entry needs a matching `content/en/concepts/<slug>.md` page):
 
 ```bash
 cp tooling/example/concepts.registry.example.yaml concepts.registry.yaml
@@ -29,8 +29,8 @@ place.
 
 ## Page types
 
-- **`articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Connected Concepts → Connected Articles → Citation
-- **`concepts/<slug>.md`** — one page per broad topic that synthesizes multiple articles
+- **`content/en/articles/<slug>.md`** — one page per paper: synthesis → Key Findings → Connected Concepts → Connected Articles → Citation
+- **`content/en/concepts/<slug>.md`** — one page per broad topic that synthesizes multiple articles
 
 ## Inline-link HARD GATE
 

@@ -65,7 +65,7 @@ Code in this repository is licensed under the **MIT License**; the knowledge-bas
 
 - **Astro 7** static site generator, deployed via GitHub Actions to GitHub Pages at base path `/aied`.
 - **Pagefind** for full-text search, **RSS + sitemap**, **JSON-LD** schema.org structured data.
-- Content lives in markdown collections (`articles/`, `concepts/`, `faqs/`, `resources/`) defined in `src/content.config.ts`; the build runs `astro check` + `astro build` + Pagefind + a service-worker step.
+- Content lives in markdown collections (`content/en/articles/`, `content/en/concepts/`, `content/en/faqs/`, `content/en/resources/`) defined in `src/content.config.ts`; the build runs `astro check` + `astro build` + Pagefind + a service-worker step.
 
 ### Site configuration: `site.config.json`
 
@@ -79,10 +79,10 @@ The same file holds the two blocks that back the AI-use disclosure: **`contribut
 
 ```
 ├── AI-USE.md          # Policy: how the corpus is made, which models, what a human checks
-├── articles/          # Article pages (one markdown file per paper)
-├── concepts/          # Synthesized concept pages (topic overviews)
-├── faqs/              # Curated FAQ pages (question-and-answer)
-├── resources/         # Free tools, collections and instruments, each with an access + last-verified note
+├── content/           # ALL markdown content, one tree (open it in Obsidian)
+│   ├── en/            #   the default locale: articles, concepts, faqs, resources
+│   ├── es/            #   translations, same four collections (en is the source)
+│   └── ...            #   one folder per locale code in site.config.json
 ├── raw/papers/        # Raw source text (arXiv, PDFs, RSS abstracts) — gitignored, not committed
 ├── src/
 │   ├── config/        # siteConfig.ts (wraps site.config.json with types)
@@ -143,7 +143,7 @@ npm run verify
 
 # Commit through the gate route: it runs the gates, scans the staged diff for personal
 # details, and stamps the AI-use trailers (AI_MODEL / AI_ROLE / AI_REVIEWED_BY override)
-bash tooling/scripts/commit-if-green.sh message.txt articles/example.md
+bash tooling/scripts/commit-if-green.sh message.txt content/en/articles/example.md
 
 # Build the static site (astro check + astro build; outputs to dist/)
 npm run build
@@ -181,7 +181,7 @@ Each run filters for relevance, skips already-ingested items, creates article pa
 | Site not updating | Confirm the GitHub Actions deploy workflow ran: Actions tab → astro-deploy |
 | Search index stale | Search is Pagefind-based — run `npm run build` so `dist/pagefind/` regenerates |
 | llms.txt out of date | `python3 tooling/scripts/generate-llms-files.py` then `npm run build` |
-| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `articles/`, `concepts/` or `faqs/`, or a redirect entry in `src/data/conceptRedirects.ts` / `src/data/articleRedirects.ts` |
+| Broken wikilinks | Links use `[[slug]]` — the slug must match a file in `content/en/articles/`, `content/en/concepts/` or `content/en/faqs/`, or a redirect entry in `src/data/conceptRedirects.ts` / `src/data/articleRedirects.ts` |
 | Metadata rejected by the build | `python3 tooling/scripts/validate-facets.py` — a facet value must be a concept filed under that field's own registry section |
 | An article's sections rejected | `python3 tooling/scripts/audit-article-sections.py --changed` — reports missing practice/Limitations sections, wrong bullet counts (practice 3–5, Limitations 2–4) and citations that are not last |
 | A number in a page is not in its source | `python3 tooling/scripts/verify-number-grounding.py <slug>` — grounded means the token appears in `raw/papers/<file>.md`. Leading-dot p-values, table columns split across lines and values duplicated by the HTML conversion (`0.6950.695`) are false positives: grep the raw before changing prose |
@@ -203,7 +203,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/ai-commit.sh`** — stamps a commit with the `AI-Model` / `AI-Role` / `AI-Agent` (and `Human-Review`) trailers, validating model and contributor ids against `site.config.json`
 - **`tooling/references/`** — Pipeline architecture, filtering strategies, recovery procedures
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
-- **`tooling/scripts/check_concepts.py`** — validates the concept registry against `concepts/` and the generated views
+- **`tooling/scripts/check_concepts.py`** — validates the concept registry against `content/en/concepts/` and the generated views
 - **`tooling/scripts/gen-concept-artifacts.py`** — regenerates the concept views from the registry
 - **`tooling/scripts/run-gates.py`** — runs every HARD GATE declared in `wiki.config.yaml` (also `npm run verify`)
 - **`tooling/scripts/sync-skills.py`** — reports/refreshes drift between the repo's `skills/` mirrors and the agent's installed copies

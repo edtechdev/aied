@@ -26,6 +26,10 @@ Exit status: 0 clean, 1 findings (defects, plus advisories under --strict).
 """
 import argparse
 import glob
+import os
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import content_paths  # the content root lives in site.config.json
 import json
 import os
 import re
@@ -88,7 +92,7 @@ def main():
     ap.add_argument('--quiet', action='store_true')
     ap.add_argument('--strict', action='store_true',
                     help='count a synthesis shorter than 25 words as a defect')
-    ap.add_argument('paths', nargs='*', default=['articles/*.md'])
+    ap.add_argument('paths', nargs='*', default=[content_paths.glob_md('articles')])
     a = ap.parse_args()
 
     files = []

@@ -26,7 +26,7 @@ Authors, A. B., & Author, C. D. (Year). [*Paper title*](https://doi.org/10.xxxx/
 3. **Wikilink inside the citation title** — e.g. `*...[[learning-gains|Learning Gains]]...*`
    inside the link text. Citations must NOT contain internal `[[wikilinks]]`; replace with plain text.
 
-## Detection (Python in execute_code, over articles/*.md)
+## Detection (Python in execute_code, over content/en/articles/*.md)
 
 For each `## Citation` section, extract the `[text](url)` link and flag if:
 - link text (minus `*`) matches a journal name (Assessment & Evaluation in Higher

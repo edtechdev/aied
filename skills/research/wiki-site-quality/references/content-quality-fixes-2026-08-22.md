@@ -14,12 +14,12 @@ Symptoms seen:
 
 Detect:
 ```bash
-grep -rlP '\\u[0-9a-fA-F]{4}|\\n|\\t|\\r' articles/ concepts/
+grep -rlP '\\u[0-9a-fA-F]{4}|\\n|\\t|\\r' content/en/articles/ content/en/concepts/
 # per-file clean check:
-grep -cP '\\u|\\n' articles/<slug>.md   # 0 = clean
+grep -cP '\\u|\\n' content/en/articles/<slug>.md   # 0 = clean
 ```
 
-Fix: replace each escape with the real character — `\u2014`→`—`, `\u00e1`→`á` — and split `\n\n` into an actual blank line. Scan the whole `articles/`+`concepts/` tree afterward until the grep returns nothing.
+Fix: replace each escape with the real character — `\u2014`→`—`, `\u00e1`→`á` — and split `\n\n` into an actual blank line. Scan the whole `content/en/articles/`+`content/en/concepts/` tree afterward until the grep returns nothing.
 
 Note: the escaped code can sit inside **frontmatter** too (e.g. a `Hern\u00e1ndez-Leo` name in a Citation line within the body, or a mangled `tags:`/`sources:` line). If a build fails with a YAML parse error at a specific line, check that line for a leaked `[[link]]` or escape sequence that clobbered a frontmatter token.
 
@@ -31,7 +31,7 @@ A numbered list with **blank lines between the items** breaks CommonMark ordered
 
 Detect:
 ```bash
-grep -rlP '^\d+\. .*\n\n^\d+\. ' articles/ concepts/
+grep -rlP '^\d+\. .*\n\n^\d+\. ' content/en/articles/ content/en/concepts/
 ```
 
 Fix: remove the blank lines so items 1..N form one continuous ordered list. (Distinct from bullet lists, where blank lines are usually fine.)

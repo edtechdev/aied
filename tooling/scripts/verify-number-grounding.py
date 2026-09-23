@@ -40,11 +40,13 @@ import subprocess
 import sys
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 YEARS = {str(y) for y in range(1990, 2031)}
 
 
 def load(slug):
-    path = os.path.join(WIKI, 'articles', slug + '.md')
+    path = str(content_paths.collection('articles') / (slug + '.md'))
     if not os.path.exists(path):
         return None, None
     text = open(path, encoding='utf-8').read()
@@ -166,12 +168,13 @@ def ungrounded(slug):
 
 def changed_slugs():
     """Article slugs touched in the working tree, so the check can gate one commit."""
-    out = subprocess.run(['git', '-C', WIKI, 'status', '--porcelain', '--', 'articles'],
+    articles = content_paths.rel(content_paths.collection('articles'))
+    out = subprocess.run(['git', '-C', WIKI, 'status', '--porcelain', '--', articles],
                          capture_output=True, text=True).stdout
     slugs = set()
     for line in out.splitlines():
         path = line[3:].strip().split(' -> ')[-1]
-        if path.startswith('articles/') and path.endswith('.md'):
+        if path.startswith(articles + '/') and path.endswith('.md'):
             slugs.add(os.path.basename(path)[:-3])
     return sorted(slugs)
 
@@ -183,7 +186,7 @@ def main(argv):
             print('No article pages changed in the working tree; nothing to ground.')
             return 0
     elif not argv or argv[0] == '--all':
-        slugs = sorted(os.path.basename(p)[:-3] for p in glob.glob(os.path.join(WIKI, 'articles', '*.md')))
+        slugs = sorted(p.stem for p in content_paths.collection('articles').glob('*.md'))
     else:
         slugs = argv
     bad = 0

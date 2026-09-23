@@ -42,12 +42,14 @@ RECORD_START = '2026-09-22'
 import yaml
 
 WIKI = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
+
 COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')
 # Translated content lives in locale folders mirroring the content root; a
 # translated page carries its own ai_assist record (role 'translation').
 # Every locale that can hold translated content pages (site.config.json i18n.locales
 # minus the default locale). Keep in step with src/content.config.ts LOCALE_CONTENT_DIRS.
-LOCALE_DIRS = ('de', 'es', 'fr', 'he', 'hi', 'ja', 'ko', 'pt', 'zh', 'ar')
+LOCALE_DIRS = tuple(content_paths.TRANSLATED)
 ROLES = {'drafting', 'revision', 'link classification', 'summarization', 'translation', 'none'}
 DEPTHS = {'full text', 'abstract only', 'metadata only'}
 VERIFIED = {'citation', 'numbers', 'quotes', 'links'}
@@ -108,8 +110,9 @@ def main() -> int:
 
     only_changed = changed_paths() if args.changed else None
     pages = []
-    for coll in [*COLLECTIONS, *(os.path.join(l, c) for l in LOCALE_DIRS for c in COLLECTIONS)]:
-        pages += sorted(glob.glob(os.path.join(WIKI, coll, '*.md')))
+    for locale, name in ([(content_paths.DEFAULT_DIR, c) for c in COLLECTIONS]
+                         + [(l, c) for l in LOCALE_DIRS for c in COLLECTIONS]):
+        pages += sorted((content_paths.CONTENT / locale / name).glob('*.md'))
 
     errors: list[str] = []
     required = recorded = reviewed = 0

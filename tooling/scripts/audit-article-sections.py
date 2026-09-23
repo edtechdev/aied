@@ -40,7 +40,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-ARTICLES = ROOT / "articles"
+import content_paths
+
+ARTICLES = content_paths.collection("articles")
 RAW = ROOT / "raw" / "papers"
 
 PRACTICE = "What this means for practice"
@@ -173,7 +175,7 @@ def full_text(page_text: str) -> str:
 def all_slugs() -> set[str]:
     slugs: set[str] = set()
     for folder in ("articles", "concepts", "faqs"):
-        for path in (ROOT / folder).glob("*.md"):
+        for path in content_paths.collection(folder).glob("*.md"):
             slugs.add(path.stem)
     return slugs
 
@@ -209,7 +211,7 @@ def select(args) -> list[str]:
         slugs.append(path.stem)
     if args.changed:
         out = subprocess.run(
-            ["git", "status", "--porcelain", "articles"],
+            ["git", "status", "--porcelain", "--", content_paths.rel(content_paths.collection("articles"))],
             cwd=ROOT, capture_output=True, text=True,
         ).stdout
         changed = {ln.split()[-1].split("/")[-1][:-3] for ln in out.splitlines() if ln.strip()}

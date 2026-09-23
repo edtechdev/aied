@@ -26,13 +26,13 @@ See the current list with `python3 tooling/scripts/wiki_config.py --get journal_
 The fetcher filters out corrigenda, retractions, errata, and issue info — only original research articles remain.
 
 ### 2. Check for existing articles — CONTENT-based dedup (HARD)
-Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
+Read /tmp/rss-articles.json. For EVERY candidate, extract its DOI (and title) and search **the contents** of `content/en/articles/` AND `raw/papers/` for that DOI string and a normalized title match before treating it as new.
 
 **CRITICAL — do NOT dedup by filename.** Article and raw-source files are **descriptive-slugged** (e.g. `agentic-ai-education-scoping-review-2026.md`), NOT DOI-derived (there is no `raw/papers/10.1016-j.caeai.2026.100653.md`). A filename match therefore MISSES already-ingested papers, which is how fully-ingested articles ended up re-added to the backlog on 2026-09-06. The reliable signal is the **DOI string itself**, which always appears (a) in the article's `## Citation` as `](https://doi.org/<doi>)` and (b) in the raw file's `source_url:` frontmatter.
 
 Robust procedure:
 1. For each candidate, get its DOI from Crossref (`curl -s https://api.crossref.org/works/<doi>` → `message.DOI`). If no DOI, fall back to title.
-2. Grep that DOI (and the normalized title, lowercase/punctuation-stripped) across ALL of `articles/*.md` and `raw/papers/*.md` **file contents** with `grep -l` / Python. Match on the DOI substring (it appears in the Citation and raw `source_url`) OR a normalized-title substring.
+2. Grep that DOI (and the normalized title, lowercase/punctuation-stripped) across ALL of `content/en/articles/*.md` and `raw/papers/*.md` **file contents** with `grep -l` / Python. Match on the DOI substring (it appears in the Citation and raw `source_url`) OR a normalized-title substring.
 3. If ANY existing article or raw source contains the DOI or matching title → **already ingested; skip** (do not add to backlog, do not refetch).
 4. Only articles with NO DOI/title match anywhere are new.
 
@@ -54,7 +54,7 @@ For each NEW article, fetch the article page URL using `web_extract`.
 **If the article is open access but full text CANNOT be retrieved** (e.g., the publisher blocks scraping with CAPTCHA/bot protection, as ScienceDirect does; or the fetch times out after retries): **DO NOT create an article page in the wiki.** Instead add the article to `AIED-BACKLOG.md` under its journal section (format: `- [Title](article-url) — [DOI: xxx](doi-url)`), include it in the report's FULL_TEXT_PENDING list, and update the backlog's total count. The maintainer will manually download each PDF and send it for full-text ingestion. Do NOT ingest an abstract-only article into the wiki when full text is unavailable.
 
 ### 4. Write article files
-Create `articles/<slug>.md` with:
+Create `content/en/articles/<slug>.md` with:
 
 ```yaml
 ---
@@ -83,8 +83,8 @@ page_kind: [framework]  # optional: framework, synthesis, evaluation
 - **Limitations:** 2-4 bullets, each with a concrete fact from the paper (sample and recruitment, one site, incentives, self-report measures, researcher role conflict, no follow-up). Generic "small sample, single institution" boilerplate is a defect; omit the section if the paper gives no basis. Link `[[self-report-measures]]` when the limitation is the measure.
 - **Length budget: 750-1,000 words** for the body (frontmatter end → `## Connected Concepts`) — the two sections above come out of the body, not on top of it.
 - **House style: US English.** Write US English (behavior, program, modeling, judgment, organization, center, artifact, and -ize verbs); never respell the `## Citation` section or a quoted paper title. Verify with `python3 tooling/scripts/check-us-english.py` (a build gate).
-- **Connected Concepts:** 3-6 genuinely related concepts from `concepts/`
-- **Connected Articles:** 2-4 genuinely related articles from `articles/`
+- **Connected Concepts:** 3-6 genuinely related concepts from `content/en/concepts/`
+- **Connected Articles:** 2-4 genuinely related articles from `content/en/articles/`
 - **Citation:** APA format with hyperlinked title (DOI link)
 - **Article body must be substantial** — at least ~1,000 characters of synthesis/findings beyond the blockquote. A title + one-line blockquote is a stub; expand with key contributions, findings, and implications.
 - **Write the citation yourself in APA format** (Authors, Year. *Title*. URL). NEVER paste the Elsevier/ScienceDirect auto-generated citation from the publisher page — it comes out garbled (author lists like "ScienceDirect, C.L.A.A., ... & Access), L.C.B."). Get the real author list from Crossref: `curl -s https://api.crossref.org/works/<doi>` (fields: message.author[].family/given, message.title, message.volume, message.page).

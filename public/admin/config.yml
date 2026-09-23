@@ -43,7 +43,7 @@ collections:
   - name: articles
     label: Articles
     label_singular: Article
-    folder: /articles
+    folder: /content/en/articles
     extension: md
     format: frontmatter
     summary: "{{title}} — {{confidence | default('medium')}}"
@@ -120,7 +120,7 @@ collections:
   - name: concepts
     label: Concepts
     label_singular: Concept
-    folder: /concepts
+    folder: /content/en/concepts
     extension: md
     format: frontmatter
     summary: "{{title}} — {{confidence | default('medium')}}"
@@ -199,7 +199,7 @@ collections:
   - name: faqs
     label: FAQs
     label_singular: FAQ
-    folder: /faqs
+    folder: /content/en/faqs
     extension: md
     format: frontmatter
     summary: "{{title}} — {{weight}}"

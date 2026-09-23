@@ -11,11 +11,11 @@ Validated 2026-08-29 on the AI Ed Wiki: enriched `research_method` for all 945 a
 ### 1. Generate the input slug files FIRST (before dispatching)
 ```python
 # all articles lacking research_method
-no_method=[f.split('/')[-1][:-3] for f in glob.glob('articles/*.md') if not re.search(r'^research_method:', open(f).read().split('---')[1], re.M)]
+no_method=[f.split('/')[-1][:-3] for f in glob.glob('content/en/articles/*.md') if not re.search(r'^research_method:', open(f).read().split('---')[1], re.M)]
 open('/tmp/audit_method_slugs.txt','w').write('\n'.join(no_method))
 
 # all AI-literacy tagged articles
-ai=[f.split('/')[-1][:-3] for f in glob.glob('articles/*.md') if 'ai-literacy' in open(f).read().split('---')[1]]
+ai=[f.split('/')[-1][:-3] for f in glob.glob('content/en/articles/*.md') if 'ai-literacy' in open(f).read().split('---')[1]]
 open('/tmp/audit_audience_slugs.txt','w').write('\n'.join(ai))
 
 # per-concept body-keyword candidates (e.g. visualization: hits>=3)

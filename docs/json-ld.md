@@ -6,7 +6,7 @@ Every page in the wiki emits a **schema.org JSON-LD** graph so that search engin
 
 - `src/lib/jsonld.ts` — helper functions (site constants, DOI extraction from `sources`, first-paragraph summary, concept/FAQ `@id` builders).
 - `src/components/JsonLd.astro` — the component that assembles and emits the `<script type="application/ld+json">` block.
-- Each page template (`articles/[slug].astro`, `concepts/[slug].astro`, `faqs/[slug].astro`) renders `<JsonLd>` with its page type, metadata, body, and connected slugs.
+- Each page template (`content/en/articles/[slug].astro`, `content/en/concepts/[slug].astro`, `content/en/faqs/[slug].astro`) renders `<JsonLd>` with its page type, metadata, body, and connected slugs.
 
 ## The graph structure
 

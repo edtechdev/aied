@@ -3,11 +3,18 @@ import { glob } from 'astro/loaders';
 import { readdirSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { FACET_VOCAB } from './data/facetVocab';
+import { COLLECTIONS, CONTENT_ROOT, DEFAULT_LOCALE_DIR, TRANSLATED_LOCALES } from './config/content';
 
-const articlesDir = resolve(process.cwd(), 'articles');
-const conceptsDir = resolve(process.cwd(), 'concepts');
-const faqsDir = resolve(process.cwd(), 'faqs');
-const resourcesDir = resolve(process.cwd(), 'resources');
+// Every page lives at <content root>/<locale>/<collection>/<slug>.md; the root
+// and the default locale's folder are configuration (site.config.json `content`),
+// so a clone can be re-pointed at another folder or another topic without code
+// changes. See src/config/content.ts.
+const contentDir = (...parts: string[]) => resolve(process.cwd(), CONTENT_ROOT, ...parts);
+
+const articlesDir = contentDir(DEFAULT_LOCALE_DIR, 'articles');
+const conceptsDir = contentDir(DEFAULT_LOCALE_DIR, 'concepts');
+const faqsDir = contentDir(DEFAULT_LOCALE_DIR, 'faqs');
+const resourcesDir = contentDir(DEFAULT_LOCALE_DIR, 'resources');
 
 // Keep `created`/`updated` as the ORIGINAL frontmatter string (e.g.
 // "2026-08-16T20:02:54-04:00"). We must NOT pass them through `z.date()`
@@ -384,23 +391,27 @@ const resources = defineCollection({
   }),
 });
 
-// ==== Locale content (i18n, 2026-09-22) ====
-// The layout, applied to this repo: the default locale sits at the content
-// root (`articles/`, `concepts/`, `faqs/`, `resources/`) and every other locale is
-// a top-level folder named by its code, mirroring that structure —
-//   fr/faqs/designing-ai-into-learning.md -> /aied/fr/faqs/designing-ai-into-learning/
+// ==== Locale content (i18n, 2026-09-22; content root 2026-09-22) ====
+// The layout, applied to this repo: one content root holds every language,
+//     <content root>/<locale>/<collection>/<slug>.md
+// with the default locale in its own folder alongside the others:
+//   content/en/faqs/designing-ai-into-learning.md -> /aied/faq/designing-ai-into-learning/
+//   content/fr/faqs/designing-ai-into-learning.md -> /aied/fr/faqs/designing-ai-into-learning/
+// The root and the default folder are configuration (site.config.json `content`),
+// and the locale list comes from `i18n.locales`, so adding a language or moving
+// the tree needs no code change here.
+//
 // Only translated pages exist in a locale folder; everything else falls back to the
 // English page at its English URL, so nothing dead-ends.
 //
-// The typed facet fields are copied from the English page and stay in English: they
-// are vocabulary keys (concept slugs) that the search facets and the registry use,
-// not prose. `translation_of` records which English page this is a translation of.
-const LOCALE_CONTENT_DIRS = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he', 'hi'];
+// Collection ids stay `<locale>/<collection>/<slug>` (relative to the content root),
+// which is what the [locale] routes and `translation_of` use.
+const TRANSLATED_COLLECTIONS = COLLECTIONS.filter((name) => name !== 'articles');
 
 const translations = defineCollection({
   loader: glob({
-    pattern: `{${LOCALE_CONTENT_DIRS.join(',')}}/{concepts,faqs,resources}/*.md`,
-    base: process.cwd(),
+    pattern: `{${TRANSLATED_LOCALES.join(',')}}/{${TRANSLATED_COLLECTIONS.join(',')}}/*.md`,
+    base: resolve(process.cwd(), CONTENT_ROOT),
   }),
   schema: z.object({
     title: z.string(),
