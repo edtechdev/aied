@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T12:49:59-04:00"
+updated: "2026-09-23T14:21:44-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -48,6 +48,11 @@ reviewed_by: [editor]
   prompt design by a wide margin. Faculty readiness, on this evidence, is produced by provision and permission — what a center offers
   and what it allows — rather than by the national system it sits in.
 
+- **Brief training shifts judgments, not intentions.** A three-hour pre-post pilot with 100 German teachers ([[mesenhoeller-teachers-ai-differentiation-acceptance-2026|Mesenhöller and Böhme, 2026]]) found that perceived usefulness (d = .32) and perceived ease of use (d = .25) rose significantly after a short practice-oriented session on AI for differentiation, while behavioral intention did not move from an already high baseline (M = 3.07). The authors read the gap as a sign that acceptance depends on conditions a session cannot supply, such as time, infrastructure and clear institutional rules. Short formats are worth running, but pairing them with those conditions is what turns favorable judgment into use.
+- **Sustained monitoring, not one-off workshops, for initial training.** A systematic review of 11 studies of AI in initial teacher training for primary mathematics ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al., 2026]]) found that nine interventions were a single session or a few sessions embedded in existing courses, that attitudes were usually sampled once after the fact, and that ethics appeared in only three studies. The authors argue AI competency needs to develop across the whole training sequence, from a preparatory phase into the practicum and the early years of practice, with monitoring that follows that progression.
+- **Exposure and repetition, not demographics, track favorable perceptions.** In a mixed-methods study of 302 Turkish primary mathematics teachers ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci and Uygun, 2026]]), prior AI training (t = 3.661) and frequency of AI use (F = 41.280) were the variables most consistently associated with positive views, while willingness (M = 3.98) and attitudes (M = 3.82) sat well above personal experience (M = 3.00). The authors treat prior training as the clearest lever schools can act on, which points to repeated, sustained use rather than a single introduction.
+- **Role rotation as the load-bearing structure.** A design-based study of 62 pre-service educational psychologists in Kazakhstan ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al., 2026]]) rotated students through four professional positions over eight weeks, with generative AI supplying preliminary ideas. The authors argue the value lay in the rotation rather than in the tool, since each role framed the same case differently, and later cycles showed more requests for theoretical justification. They report engagement rather than measured gains, having collected no pre-post competence measures.
+
 ### Distinct from academic education
 
 Professional training differs from academic education in its focus on applied skills, immediate workplace relevance, and adult learner characteristics. [[adult-learning]] theory and [[adult-learning]] principles inform professional AI training design. Its other boundary is [[vocational-education|vocational education and training]]: VET admits people who do not yet hold the occupation and closes with a trade or technical qualification, so it carries initial occupational preparation and the qualification frameworks that certify it, whereas professional training starts from an existing role — reskilling, continuing professional education or vendor certification — and assumes the competence VET awards.
@@ -91,3 +96,7 @@ Professional training differs from academic education in its focus on applied sk
 - [[faculty-development-centers-genai-training-optimization-2026]] — Comparative survey showing institutional conditions, not national context, explain faculty GenAI readiness gaps (Bi et al. 2026)
 - [[adaptive-ai-model-teacher-educators-2025]] — Teacher educators co-design an adaptive AI literacy model and a reflective questionnaire (Eyal 2025)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review showing teacher AI literacy instruments lag generative AI, marking the training target (Zainal et al. 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Three-hour PD raised German teachers' perceived usefulness and ease of use, but not intention to use AI for differentiation
+- [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Review of AI in initial teacher training for primary mathematics: brief tool-focused training is not enough
+- [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survey linking prior AI training and frequency of use to Turkish primary teachers' positive perceptions
+- [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as the structuring mechanism for AI-supported professional preparation
