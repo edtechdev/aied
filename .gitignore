@@ -38,3 +38,5 @@ feed.xml
 /tags/
 # Permanent store for original source PDFs sent in chat (never committed)
 pdf-sources/
+# weasyprint temp files left in the repo root by the PDF build
+toPdfViaTempFile*
