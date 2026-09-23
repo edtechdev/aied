@@ -1,7 +1,7 @@
 ---
 title: "Assessment Design Under Imperfect Information: Generative AI, Disclosure, and Student Response in Higher Education"
 created: "2026-09-10T05:52:45-04:00"
-updated: "2026-09-19T10:40:23-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -99,6 +99,7 @@ Two cautions attach to the table. It describes a representative student, while r
 - [[evaluative-judgment]]
 - [[higher-ed]]
 - [[formative-assessment]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

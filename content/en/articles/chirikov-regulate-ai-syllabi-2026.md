@@ -1,7 +1,7 @@
 ---
 title: "How Instructors Regulate AI in College: Evidence from 31,000 Course Syllabi"
 created: "2026-09-02T04:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, teacher-role]
 technology: [generative-ai]
@@ -65,6 +65,7 @@ institutions: [educational-policy-ai, governance, regulation]
 - [[cognitive-offloading]]
 - [[ai-misuse-learning-harm]]
 - [[discipline-specific-aied]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

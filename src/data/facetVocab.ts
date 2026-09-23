@@ -45,7 +45,7 @@ export const FACET_VOCAB = {
     'theory-development-aied',
     'tpack',
   ],
-  // Learning and instruction (53 concepts) — registry section: Learning and instruction
+  // Learning and instruction (54 concepts) — registry section: Learning and instruction
   pedagogy: [
     'active-learning',
     'activity-theory-aied',
@@ -91,6 +91,7 @@ export const FACET_VOCAB = {
     'self-regulated-learning',
     'situated-learning',
     'social-emotional-learning',
+    'social-norms-ai-use',
     'sociocultural-learning',
     'socratic-method',
     'storytelling-in-education',
@@ -138,7 +139,7 @@ export const FACET_VOCAB = {
     'virtual-and-augmented-reality',
     'visualization',
   ],
-  // Assessment and measurement (23 concepts) — registry section: Assessment and measurement
+  // Assessment and measurement (24 concepts) — registry section: Assessment and measurement
   assessment: [
     'ai-detection',
     'ai-feedback-quality',
@@ -157,6 +158,7 @@ export const FACET_VOCAB = {
     'group-work',
     'item-response-theory',
     'learning-gains',
+    'oral-assessment',
     'peer-assessment',
     'psychometrically-aware-ai',
     'remote-proctoring',

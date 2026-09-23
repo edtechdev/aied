@@ -1,7 +1,7 @@
 ---
 title: "Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future"
 created: "2026-08-19T17:10:00-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 foundations: [academic-integrity, critical-thinking]
 technology: [generative-ai]
@@ -39,6 +39,7 @@ This is a **review/essay** (not an empirical study) in *Educational [[research-m
 ## Connected Concepts
 
 - [[assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[authentic-assessment]]
 - [[academic-integrity]]
 - [[reducing-ai-misuse]]

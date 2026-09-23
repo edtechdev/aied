@@ -1,7 +1,7 @@
 ---
 title: "The fear of Big Brother: The potential negative side-effects of proctored exams"
 created: "2026-08-25T07:42:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [anxiety-and-stress, social-emotional-learning]
@@ -59,6 +59,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 - [[digital-divide]] — internet-literacy and technology gaps
 - [[ethics]] — the fairness of surveillance
 - [[trust]] — the surveillance-vs-trust tension
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

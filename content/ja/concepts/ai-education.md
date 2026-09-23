@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
-created: 2026-09-22T14:35:13-04:00
-updated: 2026-09-22T14:35:13-04:00
+created: "2026-09-22T14:35:13-04:00"
+updated: "2026-09-22T14:35:13-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]

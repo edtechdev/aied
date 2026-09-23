@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-23T09:53:16-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -50,7 +50,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Affective and well-being impacts
 
 - **Positive:** AI can offer low-pressure, on-demand help and reduce anxiety about asking questions, supporting [[well-being]] and confidence.
-- **Negative:** AI use is associated with [[anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being. Assessment conditions add their own pressure: [[harerimana-remote-proctoring-nursing-scoping-2026|a scoping review of remote proctoring in nursing assessment]] finds students anxious about connectivity and about being wrongly accused of cheating, first-time users of an invigilation app describing it as anxiety-inducing and reporting difficulty concentrating while watched, and roughly a fifth hitting browser-extension or connectivity failures despite preparatory resources.
+- **Negative:** AI use is associated with [[anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being. These pressures are local and social rather than written down: see [[social-norms-ai-use|social norms of AI use]]. Assessment conditions add their own pressure: [[harerimana-remote-proctoring-nursing-scoping-2026|a scoping review of remote proctoring in nursing assessment]] finds students anxious about connectivity and about being wrongly accused of cheating, first-time users of an invigilation app describing it as anxiety-inducing and reporting difficulty concentrating while watched, and roughly a fifth hitting browser-extension or connectivity failures despite preparatory resources.
 
 ### Identity impacts
 
@@ -104,6 +104,7 @@ Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 - [[self-report-measures]]
 - [[student-engagement]] — how AI systems measure and respond to student behavior
+- [[social-norms-ai-use]] — how AI use becomes visible to peers
 
 ## Connected Articles
 - [[shame-guilt-ai-regulation-computing-education]] — Shame and guilt as social regulators of AI use

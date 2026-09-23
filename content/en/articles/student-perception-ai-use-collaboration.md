@@ -1,7 +1,7 @@
 ---
 title: Students' Perception Accuracy of Partners' AI Use and its Relation to Collaboration Performance
 created: "2026-06-23T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [cognitive-offloading]
 technology: [intelligent-tutoring]
@@ -39,6 +39,7 @@ confidence: medium
 - [[collaborative-learning]]
 - [[human-ai-collaboration]]
 - [[trust]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 ## Connected Articles
 
 - [[golrang-propact-pair-programming-2026]]

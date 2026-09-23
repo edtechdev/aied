@@ -1,7 +1,7 @@
 ---
 title: "Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -90,6 +90,7 @@ In three groups, the group setting changed nothing. Work was partitioned into di
 - [[ai-education]]
 - [[student-experience]]
 - [[learning-design]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

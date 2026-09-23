@@ -1,7 +1,7 @@
 ---
 title: "Under surveillance: Mapping remote proctoring practices in the assessment of nursing students — a scoping review"
 created: "2026-09-18T04:11:33-04:00"
-updated: "2026-09-19T12:17:22-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, reducing-ai-misuse]
 pedagogy: [anxiety-and-stress, online-teaching-and-learning, professional-training, well-being]
@@ -83,6 +83,7 @@ The adoption history in the review explains the gap between claim and evidence. 
 - [[student-experience]] — preference, acceptance and the burden of being watched
 - [[summative-assessment]] — high-stakes examination conditions that proctoring changes
 - [[well-being]] — the balance the authors place against exam security
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 
