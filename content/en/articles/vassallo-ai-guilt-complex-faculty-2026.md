@@ -53,14 +53,14 @@ Five reconciliation strategies appeared: tool framing, comparing AI to calculato
 ## What this means for practice
 
 - **Academic developers.** Technical training and usage policy will not resolve a problem that is partly emotional and identity-based: only 34 respondents (31.2%) saw clear guidelines at their institution, and clarity correlated only weakly with lower guilt (r = −.25).
-- **Institutions.** Create spaces for open discussion of moral concerns and collective boundary-setting rather than relying on top-down mandates, since a mandate addresses behaviour while anticipatory guilt sits upstream of it.
+- **Institutions.** Create spaces for open discussion of moral concerns and collective boundary-setting rather than relying on top-down mandates, since a mandate addresses behavior while anticipatory guilt sits upstream of it.
 - **Academic development programs.** Treat guilt and identity concern as normal transitional responses rather than faults to correct: a temporal trajectory in which remembered guilt diminished with continued use runs through the open-ended responses.
 - **Mentors and senior colleagues.** Consider mentorship by senior academics who have integrated AI, because guilt fell with career stage (early-career M = 2.71, mid-career M = 2.50, senior M = 2.03; the early-to-senior difference was 0.68, p = .037) and falls hardest on those facing the greatest professional pressure.
 - **Individuals weighing AI use.** Structure low-stakes experimentation as the route through anticipatory anxiety, since the guilt paradox suggests discomfort fades with use rather than before it.
 ## Limitations
 
 - The 3.5% response rate (109 of about 3,100 academic staff) means the findings describe a self-selected minority willing to engage with questions about [[anxiety-and-stress|AI and moral emotions]]; the 2,991 non-respondents are discussed as a contextual signal about the state of ethical debate rather than as a comparison group.
-- The cross-sectional design prevents causal inference, so guilt preventing adoption cannot be separated from low adoption sustaining guilt, which is the ambiguity at the centre of the guilt paradox.
+- The cross-sectional design prevents causal inference, so guilt preventing adoption cannot be separated from low adoption sustaining guilt, which is the ambiguity at the center of the guilt paradox.
 - The setting is a single institution in a single country, which limits transferability, although patterns were consistent across disciplines within the sample; longitudinal, multi-institutional and cross-cultural validation are named as priorities.
 - The AI Guilt Index is new, so convergent and discriminant validity remain untested despite its internal consistency (α = 0.88), and the four profiles are heuristic categories rather than stable typologies; all results are framed as hypothesis-generating.
 ## Connected Concepts
