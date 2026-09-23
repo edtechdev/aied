@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-09-19T05:55:00-04:00"
+updated: "2026-09-23T17:12:00-04:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -11,54 +11,98 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Theories and frameworks** — the map of the explanatory and organizational structures this knowledge base uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); measurement models make learning claims testable ([[item-response-theory|item response theory]], [[assessment-validity]], [[self-report-measures]]). Use this page when you want to know which lens a finding rests on — and what that lens can and cannot support.
+
+> **Theories and frameworks** — the working inventory of explanatory and organizational structures this knowledge base actually uses. Theories explain why learning happens ([[learning-theories]], [[self-determination-theory]], [[sociocultural-learning]], [[activity-theory-aied|activity theory]]); frameworks organize design, teaching, and adoption decisions ([[tpack]], [[samr-model|SAMR]], [[technology-acceptance-model|technology adoption models]], [[icap-framework|ICAP]], [[universal-design-for-learning|universal design for learning]]); models make learning claims testable and computable ([[item-response-theory|item response theory]], [[assessment-validity]], [[knowledge-tracing]]). Use this page to find the lens a study rests on, or to pick one for your own work.
 
 ## Questions to Consider
 
 - A theory predicts what happens when something changes; a framework tells you what to attend to. When a study reports a gain under a framework's banner but makes no prediction that could have failed, what has actually been learned?
-- [[tpack|TPACK]], [[samr-model|SAMR]], [[universal-design-for-learning|UDL]], the [[technology-acceptance-model|adoption models]] and [[icap-framework|ICAP]] all predate [[llm|large language models]]. Which parts of them still hold when the tool can write, explain, and adapt on its own — and how would you tell?
+- [[tpack|TPACK]], [[samr-model|SAMR]], [[universal-design-for-learning|UDL]], the [[technology-acceptance-model|adoption models]] and [[icap-framework|ICAP]] all predate [[llm|large language models]]. Which parts of them still hold when the tool can write, explain, and adapt on its own, and how would you tell?
+- Several of the theories catalogued below were coined for AI within the last few years. What would it take for one of them to be wrong, and has anyone tried to show that?
 - Adoption is often reported as movement through stages. If a colleague reports that their course moved "from substitution to redefinition" this year, what independent evidence would you ask for before believing it?
-- [[item-response-theory|A measurement model]] can be fitted, compared, and shown to be wrong; a framework cannot. When you decide whether to trust a claim about AI and learning, where does your confidence actually come from — the framework that named the outcome, or the instrument that measured it?
 - Much of this field applies borrowed theory rather than testing it. Pick a finding you rely on: could it be reframed as a test of [[self-determination-theory|a theory]], and what measurement would that require?
-- [[philosophy-of-ai-in-education|Philosophy]] asks whether a goal was worth pursuing; theory asks whether the mechanism behind it is real. Which of those two questions does your institution's AI strategy leave unanswered?
 
-## Theory, framework, model: what each word promises
+## Introduction
 
-The three labels are used loosely in the literature, but they promise different things, and the difference decides what a claim built on them can support:
+Every AI tutor, feedback system, and dashboard embeds assumptions about how people learn, whether or not the designers state them. This page collects the theories, frameworks, and models those assumptions come from, ordered loosely by how much of the current research literature leans on them, and says briefly what each one is good for. The distinctions among the three labels are real but minor, and they are summarized near the end rather than treated as the subject. What matters practically is which lens a claim rests on, and whether that lens can support the claim.
 
-- **A theory explains a mechanism.** It names the parts that do the work and predicts what happens when they change: [[self-determination-theory|self-determination theory]] predicts that satisfying autonomy, competence, and relatedness raises motivation, and it fails if it does not; [[sociocultural-learning|sociocultural theory]] treats learning as mediated by tools and social interaction; [[activity-theory-aied|activity theory]] takes the whole activity system, contradictions included, as the unit of analysis. Theories are falsifiable, which is why studies that test them can report effect sizes.
-- **A framework organizes or prescribes.** It names the components to attend to and how they relate, usually without predicting magnitudes: [[tpack|TPACK]] names the knowledge a teacher blends; [[samr-model|SAMR]] stages substitution through redefinition; [[icap-framework|ICAP]] ranks engagement modes as passive, active, constructive, interactive; [[universal-design-for-learning|UDL]] prescribes multiple means of representation, action, and engagement; [[technology-acceptance-model|technology adoption models]] frame adoption as intention driven by perceived usefulness and ease.
-- **A model is a formal representation.** In this knowledge base that usually means measurement or computational modeling — [[item-response-theory|item response theory]] for item and ability estimation, [[knowledge-tracing|knowledge tracing]] and [[student-modeling|learner modeling]] for estimating a learner's state over time. A model can be fitted, compared, and shown to be wrong in a way a framework cannot.
-- **The labels overlap, and that is fine.** [[community-of-inquiry|Community of inquiry]] is both a theory of the learning experience and a design framework; [[activity-theory-aied|activity theory]] is explanatory and analytic at once. Read the label as a clue about what the source claims, not as a filing category.
+## Learning theories the literature applies
 
-## Where each node lives
+These explain mechanisms: they name the parts that do the work and predict what follows when those parts change. In the AI literature they are mostly borrowed from psychology and the [[learning-sciences|learning sciences]], and used as interpretive frames around a new tool.
 
-The knowledge base files these nodes by topic, so an inventory is spread across sections:
+- **[[learning-theories|Learning theories (umbrella)]]** — the family as a whole, including the classical poles of [[behaviorism|behaviorism]] and [[constructivist|constructivism]] and the "constructivism in name, behaviorism in practice" gap that recurs in AI implementations. Connectivism and cognitive load theory are covered here too.
+- **[[constructivist|Constructivism]]** — learning as active knowledge construction. It underwrites project-based work, dialogue-based AI tutoring, and the critique that drill-and-feedback systems violate their own stated pedagogy.
+- **[[sociocultural-learning|Sociocultural theory]]** — learning as mediated by tools and social interaction, which is why AI gets theorized as a mediating artifact rather than a mere aid.
+- **[[activity-theory-aied|Activity theory]]** — takes the whole activity system, contradictions included, as the unit of analysis. Common in teacher-facing AI studies, where the interesting finding is usually the tension among tools, rules, and community.
+- **[[situated-learning|Situated learning]]** and **[[embodied-learning|Embodied learning]]** — learning as tied to context and to the body, the counterweight to treating AI as a purely linguistic medium.
+- **[[distributed-cognition|Distributed cognition]]** — thinking spread across people and artifacts, which frames AI assistance as a redistribution of cognitive labor rather than a substitution for it.
+- **[[community-of-inquiry|Community of inquiry]]** — the social, cognitive, and teaching presences that make an online experience work; a theory of the experience and a design frame at once.
+- **[[self-determination-theory|Self-determination theory]]** — autonomy, competence, and relatedness as motivational preconditions. Often the explanation offered when AI use raises engagement without raising learning.
+- **[[cognitive-psychology|Cognitivism]]** — information processing, working memory, and the divergence between the feeling of learning and actual learning.
 
-- **Learning theories and processes** (Learning and instruction): [[learning-theories]] as the umbrella, with [[behaviorism]], [[cognitive-psychology|cognitivism]], [[constructivist|constructivism]], [[sociocultural-learning]], [[distributed-cognition]], [[situated-learning]], [[embodied-learning]], [[community-of-inquiry]], [[activity-theory-aied|activity theory]], [[self-determination-theory]], [[icap-framework|ICAP]], [[self-regulated-learning]], [[self-efficacy]], [[metacognition]], [[desirable-difficulties]], [[transfer-of-learning]], [[retrieval-spacing-interleaving|retrieval, spacing and interleaving]], and [[refutation-text]].
-- **Teaching and integration frameworks** (People; Technologies): [[teacher-ai-competency]], [[tpack|TPACK]], [[samr-model|SAMR]] for what an educator needs and how deeply a tool reshapes a task; [[technology-acceptance-model|technology adoption models]], [[change-management]], and [[open-source|openness]] for whether a system is taken up at all.
-- **Design and inclusion frameworks** (Foundations; Equity): [[learning-design]], [[design-thinking]], [[curriculum-design]], [[universal-design-for-learning|UDL]], [[accessibility]], and [[inclusive-learning]].
-- **Measurement and evaluation models** (Assessment and measurement; Research methods and evaluation): [[item-response-theory|IRT]], [[assessment-validity]], [[educational-measurement]], [[psychometrically-aware-ai]], [[self-report-measures]], [[benchmark|benchmarks]], [[ai-ed-evaluation|AI ed evaluation]], and [[design-based-research]] as the method that generates theory from designed interventions.
-- **Field-level theory** (Foundations): [[history-of-aied|the field's history]], [[limitations-in-aied-research|cross-cutting limitations of the evidence]], [[philosophy-of-ai-in-education]], and [[theory-development-aied|theory development]].
+## Models of the learner and of the learning process
 
-## How this differs from philosophy of AI in education
+- **[[self-regulated-learning|Self-regulated learning]]** — planning, monitoring, and evaluating one's own learning. The workhorse construct for asking whether AI support reaches the phases that matter or only execution.
+- **[[metacognition|Metacognition]]** — thinking about one's own thinking, and the construct most often named when AI is accused of doing the thinking for students.
+- **[[motivation|Motivation]]** — why learners engage, and the construct that separates engagement from learning in AI studies.
+- **[[self-efficacy|Self-efficacy]]** — belief in one's capability, distinct from competence, and a frequent mediator between AI use and outcomes.
+- **[[agency|Agency]]** — who directs the work: the construct behind the field's control-versus-autonomy tension, and behind the delegated-agency mechanism in the newest theory.
+- **[[desirable-difficulties|Desirable difficulties]]**, **[[retrieval-spacing-interleaving|retrieval, spacing, and interleaving]]**, and **[[refutation-text|refutation text]]** — findings that make friction pedagogically valuable, applied to decisions about how much an AI should do.
+- **[[transfer-of-learning|Transfer of learning]]** — whether capability persists once support is withdrawn, which recent theory treats as the criterion separating learning from assistance rather than one outcome among several.
 
-[[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions: what education is *for*, what counts as a good learner, whether a machine can teach, and what the word "intelligence" in the field's name commits us to. It interrogates the aims and categories the other two levels take for granted, and it does not predict effect sizes. The distinction matters in practice: a study can be philosophically naive and theoretically sound, or philosophically rich and empirically empty. Use philosophy to ask whether the goal was worth pursuing; use theories to ask whether the mechanism is real; use frameworks to ask whether the design attended to the right things.
+## Teaching, integration, and adoption frameworks
 
-## How this differs from theory development in AI in education
+- **[[tpack|TPACK]]** — the teacher knowledge that blends technology, pedagogy, and content; the default framework for teacher-facing AI studies.
+- **[[technology-acceptance-model|Adoption models]]** — intention as a function of perceived usefulness and ease of use. Used widely enough that the field's reliance on intention rather than behavior is a standing critique.
+- **[[icap-framework|ICAP]]** — ranks engagement as passive, active, constructive, interactive; useful for asking what mode an AI interaction actually affords.
+- **[[samr-model|SAMR]]** — substitution through redefinition. Popular as a maturity story, weak as a measurement instrument.
+- **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility|accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and equity work.
+- **[[learning-design|Learning design]]**, **[[curriculum-design|Curriculum design]]**, and **[[design-thinking|Design thinking]]** — how tasks, sequences, and programs are structured before any tool is chosen.
+- **[[change-management|Change management]]** — whether a system is taken up at all, which is usually an institutional question rather than a pedagogical one.
 
-[[theory-development-aied|Theory development]] is the meta-activity — how the field builds, borrows, adapts, and tests theory: which constructs it imports from psychology and the [[learning-sciences|learning sciences]], which it coins itself, how it theorizes about a technical target that changes every year, and the standing critique that much AIED work applies existing theory rather than testing it. This page is the inventory of what the field currently holds; theory development is about producing and revising the inventory.
+## Measurement and computational models
 
-## Finding the right lens
+- **[[item-response-theory|Item response theory]]** — item and ability estimation, and the model that makes a test's numbers interpretable.
+- **[[educational-measurement|Educational measurement]]** — the instrument landscape, including the measures built specifically for AI literacy.
+- **[[assessment-validity|Validity]]** — whether an instrument measures the construct it claims, which decides whether a reported outcome supports the theoretical claim attached to it.
+- **[[self-report-measures|Self-report measures]]** — the dominant and most fragile source of evidence in this literature; several constructs above are known to diverge sharply between self-report and performance.
+- **[[knowledge-tracing|Knowledge tracing]]** and **[[student-modeling|Student modeling]]** — estimating a learner's state over time from interaction data.
+- **[[cognitive-diagnosis|Cognitive diagnosis]]** — attributing performance to specific skill components, the modeling counterpart to diagnostic teaching.
+- **[[benchmark|Benchmarks]]**, **[[ai-ed-evaluation|AI education evaluation]]**, and **[[psychometrically-aware-ai|psychometric awareness in AI design]]** — how systems and interventions are scored, compared, and audited.
+- **[[design-based-research|Design-based research]]** — the method that generates theory from designed interventions rather than testing it in advance.
 
-- **Instructors** starting from a problem rather than a theory can work backwards: if learners are not engaging, [[icap-framework|ICAP]] and [[self-determination-theory|SDT]] name different causes and suggest different fixes; if the question is whether to adopt a tool at all, [[technology-acceptance-model|adoption models]] and [[samr-model|SAMR]] ask different things about it.
-- **Learning designers** get the most from the design frameworks — [[universal-design-for-learning|UDL]], [[learning-design]], and [[scaffolding]] — paired with a theory that predicts what will happen when the scaffolding is removed.
-- **Researchers** should state which node the study claims and whether the design can actually test it; measurement models ([[item-response-theory|IRT]], [[assessment-validity]], [[self-report-measures]]) decide whether the reported outcome supports that claim.
-- **Administrators** meet frameworks as adoption and change questions — [[technology-acceptance-model|adoption models]], [[change-management]], [[samr-model|SAMR]] — where a stage model is often used as a maturity story rather than an instrument.
+## Theories coined for the AI era
+
+Four proposals in the knowledge base build theory rather than borrow it. They are article pages rather than concept nodes, because each one is a single argument:
+
+- **[[generativism-learning-theory|Generativism]]** — a new learning theory arguing that the classical four show significant conceptual limitations as generative AI proliferates.
+- **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Epistemic co-agency]]** — a model of how learners and AI systems jointly produce knowledge and understanding.
+- **[[absent-cognitive-baseline-2026|The absent cognitive baseline]]** — theorizes why AI-native students overestimate their own learning when AI inflates performance.
+- **[[yan-agentivism-learning-theory-ai-2026|Agentivism]]** — a mid-range theory naming four mechanisms (delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support) and stating six testable propositions.
+
+## Telling the three labels apart
+
+The words are used loosely in the literature, and the difference is worth one paragraph rather than a whole page:
+
+- **A theory explains a mechanism** and predicts what happens when its parts change. It can fail, which is why studies that test one can report effect sizes.
+- **A framework organizes or prescribes.** It names the components to attend to, usually without predicting magnitudes, and it cannot be falsified.
+- **A model is a formal representation**, most often of measurement or of the learner's state. It can be fitted, compared, and shown to be wrong in a way a framework cannot.
+- **The labels overlap.** [[community-of-inquiry|Community of inquiry]] is a theory and a design frame at once; [[activity-theory-aied|activity theory]] is explanatory and analytic. Treat the label as a clue about what a source claims, not as a filing category.
+
+## Related layers
+
+Two neighbouring pages are deliberately about something else. [[philosophy-of-ai-in-education|Philosophy of AI in education]] asks normative and conceptual questions — what education is *for*, whether a machine can teach — and does not predict effect sizes; a study can be philosophically naive and theoretically sound, or the reverse. [[theory-development-aied|Theory development]] is the meta-activity of building, borrowing, and revising theory, including the standing critique that much AIED work applies existing theory rather than testing it. This page is the inventory; theory development is about producing and revising the inventory.
+
+## Choosing a lens when the question is practical
+
+- **Instructors** starting from a problem can work backwards: if learners are not engaging, [[icap-framework|ICAP]] and [[self-determination-theory|SDT]] name different causes and suggest different fixes; if the question is whether to adopt a tool at all, [[technology-acceptance-model|adoption models]] and [[samr-model|SAMR]] ask different things about it.
+- **Learning designers** get the most from the design frames — [[universal-design-for-learning|UDL]], [[learning-design]], and [[scaffolding]] — paired with a theory that predicts what happens when the scaffolding is removed.
+- **Researchers** should state which node a study claims and whether the design can actually test it; the measurement models ([[item-response-theory|IRT]], [[assessment-validity]], [[self-report-measures]]) decide whether a reported outcome supports that claim.
+- **Administrators** meet these frameworks as adoption and change questions, where a stage model is often used as a maturity story rather than an instrument.
 
 ## What frameworks cannot do
 
-Frameworks are not evidence. They are borrowed, usually from pre-LLM contexts, and localized by whoever applies them; they can be used as branding; and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims that rest on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
+Frameworks are not evidence. They are usually borrowed from pre-LLM contexts and localized by whoever applies them, they can function as branding, and stage models invite checkbox adoption that reports movement through levels rather than learning. Claims resting on a framework should be read alongside [[limitations-in-aied-research|the field's cross-cutting limitations]], the [[assessment-validity|validity]] of whatever measured the outcome, and the known limits of [[self-report-measures|self-report]].
 
 ## Connected Concepts
 
@@ -79,9 +123,9 @@ Frameworks are not evidence. They are borrowed, usually from pre-LLM contexts, a
 - [[educating-minds-generative-ai-2026]] — theory-heavy synthesis of generative AI and learning
 - [[activity-theory-teacher-pd-ai-agent-design-2026]] — activity theory applied to teacher professional development
 - [[activity-theory-teachers-adoption-ai-sem-2026]] — activity theory and teacher adoption
-- [[ai-literacy-measurement-conceptual-landscape-llm-2026]] — how a construct is conceptualized before it is measured
+- [[generativism-learning-theory]] — a learning theory proposed for the generative AI era
+- [[learning-with-machines-toward-a-theory-of-epistemic-co-agency]] — toward a theory of epistemic co-agency
+- [[absent-cognitive-baseline-2026]] — theorizing a structural gap in AI-native students' self-assessment
+- [[yan-agentivism-learning-theory-ai-2026]] — a mid-range learning theory for human-AI interaction
 - [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
-- [[alsheikh-mapping-ai-integration-higher-education-2026]] — integration-depth mapping in higher education
-- [[ai-supported-instruction-stem-meta-analysis-2026]] — what meta-analysis can and cannot say about AI-supported instruction
 - [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension
-- [[ai-literacy-sdg-governance-framework-2026]] — a governance framework for AI literacy
