@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 214
+**Total concepts:** 216
 
 ## Foundations of AI in education
 
@@ -102,6 +102,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`mastery-learning`** — Mastery Learning — phrases: mastery learning; mastery-based learning; mastery-based progression
 - **`problem-solving`** — Problem Solving — phrases: collaborative problem solving; computational problem solving; creative problem solving; problem solving; problem-solving
 - **`social-emotional-learning`** — Social-Emotional Learning — phrases: emotional learning; sel; social emotional; social emotional learning; social-emotional learning
+- **`social-norms-ai-use`** — Social Norms of AI Use — phrases: ai use norms; hidden curricula; hidden curriculum; hidden norms; implicit norms; implicit rules; informal curriculum; informal norms; informal rules; normative pressure; norms of ai use; social norms of ai use; unwritten rules
 - **`student-ai-interaction`** — Student-AI Interaction — phrases: ai interaction; interactions with AI; learner-AI interaction; student ai interaction; student AI use; student prompting; student questions to AI; student-AI dialogue; student-ai interaction
 - **`student-engagement`** — Student Engagement — phrases: behavioral engagement; engagement; engagement indicators; engagement measurement; engagement metrics; learner engagement; student engagement
 - **`student-experience`** — Student Experience — phrases: learner experience; student accountability; student experience; student experiences; student voice
@@ -131,7 +132,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`rag`** — RAG (Retrieval-Augmented Generation) — phrases: rag; retrieval augmentation; retrieval augmented; retrieval-augmented; retrieval-augmented generation
 - **`reinforcement-learning`** — Reinforcement Learning — phrases: reinforcement learning; reward model; RLHF
 - **`simulation`** — Simulation — phrases: simulation; simulation-based learning; simulations; simulator; virtual lab; virtual laboratory; virtual patient
-- **`speech-and-voice-technologies`** — Speech and Voice Technologies — phrases: automatic speech recognition; oral assessment; pronunciation feedback; speech recognition; spoken dialogue; text-to-speech; voice assistant; voice-first
+- **`speech-and-voice-technologies`** — Speech and Voice Technologies — phrases: automatic speech recognition; pronunciation feedback; speech recognition; spoken dialogue; text-to-speech; voice assistant; voice-first
 - **`vibe-coding`** — Vibe Coding — phrases: building software by prompting; end user development; end-user development; natural language programming; natural-language programming; prompt-driven programming; vibe coding; vibe-coding
 - **`virtual-and-augmented-reality`** — Virtual and Augmented Reality — phrases: augmented reality; extended reality; head mounted display; head-mounted display; immersive environment; immersive learning; immersive simulation; metaverse; mixed reality; virtual environment; virtual reality
 - **`visualization`** — Visualization — phrases: dashboards; data visualization; visual analytics; visual representations; visualisation; visualization; visualizations
@@ -220,9 +221,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`feedback-literacy`** — Feedback Literacy — phrases: feedback competency; feedback literacy; feedback skills
 - **`formative-assessment`** — Formative Assessment — phrases: assessment for learning; formative; formative assessment
 - **`group-work`** — Group Work — phrases: collaborative assessment; group assessment; group assessments; group project; group projects; group work; group-based assessment; groupwork; team-based assessment
+- **`oral-assessment`** — Oral Assessment — phrases: oral assessment; oral assessments; oral defence; oral defense; oral exam; oral exams; oral examination; oral examinations; oral viva; viva; viva voce; vivas
 - **`peer-assessment`** — Peer Assessment — phrases: peer assessment; peer feedback; peer grading; peer evaluation; peer review
 - **`self-assessment`** — Self-Assessment — phrases: self assessment; self-assessment; self-assessments; self-assess; self-assessment accuracy; self-assessment calibration; self-assessment instrument; self-assessment instruments; self-appraisal; self-check; self-checking; self-evaluation; self-evaluate; self-graded; self-grading
-- **`summative-assessment`** — Summative Assessment — phrases: closed-book exam; examination; final exam; high-stakes test; oral exam; proctored exam; summative; summative assessment
+- **`summative-assessment`** — Summative Assessment — phrases: closed-book exam; examination; final exam; high-stakes test; proctored exam; summative; summative assessment
 
 ### Measurement and validity
 

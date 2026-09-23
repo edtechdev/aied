@@ -1,7 +1,7 @@
 ---
 title: "Exploring student anxiety and experience in performance-based assessments using AIvaluate: an LLM-augmented emotionally"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 pedagogy: [well-being]
 technology: [affective-computing, conversational-ai, generative-ai, llm, pedagogical-agent]
@@ -65,6 +65,7 @@ This article adds an evidence-based, within-subjects study of an emotionally int
 ## Connected Concepts
 
 - [[assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[conversational-ai]]
 - [[pedagogical-agent]]
 - [[affective-computing]]

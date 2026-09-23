@@ -1,7 +1,7 @@
 ---
 title: "A Multimodal Framework for Embodied Cognition in Oral Explanations"
 created: "2026-08-17T10:15:00-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 pedagogy: [embodied-learning]
 technology: [llm, multimodal]
@@ -70,6 +70,7 @@ Analysis of two undergraduate engineering students (127 and 58 total gestures; 9
 - [[multimodal]]
 - [[learning-analytics]]
 - [[assessment-validity]]
+- [[oral-assessment]] — Oral Assessment
 - [[math-education]]
 - [[llm]]
 - [[generative-ai]]

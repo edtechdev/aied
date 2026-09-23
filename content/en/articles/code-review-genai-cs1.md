@@ -1,7 +1,7 @@
 ---
 title: Combating Harms of Generative AI in CS1 with Code Review Interviews and a Flipped Classroom
 created: "2026-05-21T04:33:04-04:00"
-updated: "2026-09-16T15:47:46-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -65,6 +65,7 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 ## Connected Concepts
 
 - [[academic-integrity]]
+- [[oral-assessment]] — Oral Assessment
 - [[ai-literacy]]
 - [[metacognition]]
 - [[cognitive-offloading]]

@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -66,6 +66,7 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 - [[ai-sycophancy]]
 - [[human-ai-collaboration]]
 - [[remote-proctoring]]
+- [[social-norms-ai-use]] — the social risk that norms and disclosure run on
 
 ## Connected Articles
 - [[ilieva-agentic-genai-higher-education-2026]] — Perceived risk correlates positively with continued-use intention: informed adoption (Ilieva et al. 2026)

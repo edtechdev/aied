@@ -1311,6 +1311,21 @@ concepts:
     - open weights
     - open-source
     - OSS
+  oral-assessment:
+    title: Oral Assessment
+    aliases:
+    - oral assessment
+    - oral assessments
+    - oral defence
+    - oral defense
+    - oral exam
+    - oral exams
+    - oral examination
+    - oral examinations
+    - oral viva
+    - viva
+    - viva voce
+    - vivas
   parents-and-families:
     title: Parents and Families
     aliases:
@@ -1693,6 +1708,22 @@ concepts:
     - social emotional
     - social emotional learning
     - social-emotional learning
+  social-norms-ai-use:
+    title: Social Norms of AI Use
+    aliases:
+    - ai use norms
+    - hidden curricula
+    - hidden curriculum
+    - hidden norms
+    - implicit norms
+    - implicit rules
+    - informal curriculum
+    - informal norms
+    - informal rules
+    - normative pressure
+    - norms of ai use
+    - social norms of ai use
+    - unwritten rules
   sociocultural-learning:
     title: Sociocultural Learning
     aliases:
@@ -1732,7 +1763,6 @@ concepts:
     title: Speech and Voice Technologies
     aliases:
     - automatic speech recognition
-    - oral assessment
     - pronunciation feedback
     - speech recognition
     - spoken dialogue
@@ -1804,7 +1834,6 @@ concepts:
     - examination
     - final exam
     - high-stakes test
-    - oral exam
     - proctored exam
     - summative
     - summative assessment
@@ -2094,6 +2123,7 @@ sections:
     - mastery-learning
     - anxiety-and-stress
     - student-experience
+    - social-norms-ai-use
   - label: Lifelong and professional learning
     items:
     - career-development-and-readiness
@@ -2204,6 +2234,7 @@ sections:
     - eportfolio
     - peer-assessment
     - self-assessment
+    - oral-assessment
     - automated-assessment
     - automated-essay-scoring
     - automated-question-generation

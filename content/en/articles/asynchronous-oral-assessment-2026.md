@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Oral Assessments: Enhancing Integrity, Engagement, and Communication in the AI Era"
 created: "2026-08-23T10:00:00-04:00"
-updated: "2026-09-19T09:11:03-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 foundations: [academic-integrity]
 pedagogy: [student-engagement]
@@ -63,6 +63,7 @@ This paper is a significant empirical contribution to the knowledge base's [[ass
 ## Connected Concepts
 
 - [[assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[authentic-assessment]]
 - [[academic-integrity]]
 - [[student-engagement]]

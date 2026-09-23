@@ -1,7 +1,7 @@
 ---
 title: "Designing AI-Supported Oral Assessment in TVET"
 created: "2026-09-14T09:12:54-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-23T08:37:10-04:00"
 type: article
 foundations: [design-thinking]
 technology: [human-in-the-loop-ai, llm]
@@ -70,6 +70,7 @@ What the work contributes is nonetheless specific: a method for voice assessment
 ## Connected Concepts
 
 - [[authentic-assessment]]
+- [[oral-assessment]] — Oral Assessment
 - [[assessment]]
 - [[accessibility]]
 - [[inclusive-learning]]

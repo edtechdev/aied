@@ -1,7 +1,7 @@
 ---
 title: "The AI guilt complex: Moral emotions and ethical dilemmas in academic technology adoption"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [academic-integrity, theory-development-aied, teacher-ai-competency]
 pedagogy: [anxiety-and-stress, motivation, professional-training, well-being]
@@ -73,6 +73,7 @@ The 3.5% response rate limits generalizability, and the author is explicit that 
 - [[self-report-measures]] — the AI Guilt Index as a new instrument needing validation
 - [[ai-use-disclosure]] — disclosure avoidance as the behavioral correlate of guilt
 - [[theory-development-aied]] — anticipatory guilt in cognitive augmentation as a new construct
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 

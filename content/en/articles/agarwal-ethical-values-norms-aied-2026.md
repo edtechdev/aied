@@ -1,7 +1,7 @@
 ---
 title: "Identifying the ethical values and norms for artificial intelligence in education: A systematic literature review"
 created: "2026-09-03T14:00:00-04:00"
-updated: "2026-09-19T07:22:56-04:00"
+updated: "2026-09-23T09:52:53-04:00"
 type: article
 foundations: [ai-education]
 ethics: [bias-mitigation, ethics, privacy]
@@ -50,6 +50,7 @@ institutions: [educational-policy-ai, governance]
 - [[bias-mitigation]]
 - [[privacy]]
 - [[meta-analysis-systematic-review]]
+- [[social-norms-ai-use]] — the informal rules around AI use
 
 ## Connected Articles
 
