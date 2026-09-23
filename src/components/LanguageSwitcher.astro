@@ -159,22 +159,15 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     border-color: var(--card-border-color);
     background: var(--card-background-color);
   }
-  /* Phone: the list is pinned to the viewport (a bottom sheet) instead of hanging
-     off its trigger, so no entry can sit past the right edge however many
-     languages there are. */
+  /* Phone: stay anchored to the trigger. The base rule above already clamps the
+     width to the viewport and scrolls a long list, so a narrow screen needs no
+     sheet detached from the button that opened it: a list pinned to the bottom of
+     the screen is not where a reader who just tapped the globe is looking. */
   @media (max-width: 640px) {
     .lang-menu {
-      position: fixed;
-      inset-inline: 0.75rem;
-      inset-block: auto 0.75rem;
-      max-width: none;
-      min-width: 0;
-      max-height: min(65dvh, 26rem);
-      box-shadow: 0 -4px 24px rgba(0, 0, 0, 0.28);
-    }
-    .lang-switcher.align-left .lang-menu,
-    .lang-switcher.align-right .lang-menu {
-      inset-inline: 0.75rem;
+      max-width: min(18rem, calc(100vw - 1.5rem));
+      max-height: min(60dvh, 24rem);
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
     }
   }
   .lang-menu-title {
