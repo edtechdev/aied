@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-22T09:59:00-04:00"
+updated: "2026-09-22T21:36:22-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -80,3 +80,4 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
 - [[jiang-ai-powered-simulation-nursing-education-2026]] — AI-powered simulation in nursing: mixed methods systematic review (authenticity gap, stepped continuum)
 - [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
+- [[shi-genai-experiential-learning-management-education-2026]] — a dynamic business simulation in which the model generates disruptive events mid-decision

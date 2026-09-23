@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-22
 
-Articles: 1372 | Concepts: 214 | Resources: 12 | FAQs: 32
+Articles: 1374 | Concepts: 214 | Resources: 12 | FAQs: 32
 
 ## Concepts
 
@@ -1095,6 +1095,7 @@ Articles: 1372 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[nursing-education]] — Nursing Education
 - [[oatutor-open-source-adaptive-tutor-2023]] — OATutor: An Open-source Adaptive Tutoring System and Curated Content Library for Learning Sciences Research
 - [[oby-chatgpt-use-learning-framework-2026]] — Beyond Task Completion: A Theoretical Integration and Framework for Guiding Students' ChatGPT Use for Learning
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Co-Constructing AI Boundaries: Agency, Judgment, and Ethical Literacy in AI-Mediated Meaning-Making
 - [[oecd-digital-education-outlook-2026]] — OECD Digital Education Outlook 2026: Exploring Effective Uses of Generative AI in Education
 - [[ojeda-ramirez-community-based-ai-learning]] — Community-Based AI Learning: Redistributing Artificial Intelligence's Epistemic Authority in Education
 - [[olvet-genai-scoring-open-ended-medical-2026]] — Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?
@@ -1311,6 +1312,7 @@ Articles: 1372 | Concepts: 214 | Resources: 12 | FAQs: 32
 - [[shap-llm-rationales-teaching-quality-assessment]] — From Scoring to Explanations: Evaluating SHAP and LLM Rationales for Rubric-based Teaching Quality Assessment
 - [[sharma-judgment-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgment visible
 - [[shaw-nave-cognitive-surrender-2026]] — Thinking—Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning and the Rise of Cognitive Surrender
+- [[shi-genai-experiential-learning-management-education-2026]] — From Memorization to Experiential Learning: Reconfiguring Classroom Pedagogy in Management Education through Generative AI
 - [[shen-sustainable-ai-knowledge-base-cs-education-2026]] — Towards sustainable AI knowledge-base assistants in computer science education: on-premise deployment and optimization with open educational resources
 - [[shin-ai-policies-sld-2026]] — Addressing the Void of AI Policies in Education for Students With Specific Learning Disabilities
 - [[short-answer-scoring-quality-degradation]] — Quality-Conditioned Agreement in Automated Short Answer Scoring: Mid-Range Degradation and the Impact of Task-Specific Adaptation

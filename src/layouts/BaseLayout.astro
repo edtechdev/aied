@@ -1413,7 +1413,11 @@ const recentConceptItems = recentConcepts.map(c => ({
       <!-- Middle: page content -->
       <div class="middle" dir={contentDir}>
         {toc.length > 0 && <TableOfContents headings={toc} variant="mobile" pageTitle={title} title={chrome.onThisPage} />}
+        <!-- export:page:start --><!-- The offline exporters (tooling/build-epub.py) take the
+             chapter copy from these markers in the built HTML: the site chrome, the mobile TOC and
+             the prev/next rail must not end up inside the book. Keep them around the slot only. -->
         <slot />
+        <!-- export:page:end --><!-- /export markers -->
         <PrevNextNav items={navItems} currentUrl={Astro.url.pathname} locale={locale} />
       </div>
 

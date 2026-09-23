@@ -53,7 +53,7 @@ def fix_file(path, dry_run=False):
 
 def main():
     parser = argparse.ArgumentParser(description='Detect/fix read_file corruption in wiki pages')
-    parser.add_argument('--concepts-dir', required=True, help='Path to concepts/ directory')
+    parser.add_argument('--concepts-dir', required=True, help='Path to the default locale\'s concepts/ directory')
     parser.add_argument('--fix', action='store_true', help='Apply fixes (default: detect only)')
     parser.add_argument('--dry-run', action='store_true', help='Show what would change without writing')
     args = parser.parse_args()

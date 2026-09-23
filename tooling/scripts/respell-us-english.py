@@ -20,6 +20,7 @@ import subprocess
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import content_paths
 
 PAIRS = {
     'behavioural': 'behavioral', 'behaviours': 'behaviors', 'behaviour': 'behavior',
@@ -91,7 +92,12 @@ def fix(path):
 
 
 def changed_pages():
-    out = subprocess.run(['git', '-C', ROOT, 'status', '--porcelain', 'articles/', 'concepts/', 'faqs/'],
+    # Resolve the collections through the content root (site.config.json `content`):
+    # the old bare 'articles/' paths no longer exist, and git would quietly return
+    # nothing, leaving this pass reporting "no pages changed" while pages were dirty.
+    paths = [content_paths.rel(content_paths.collection(name)) + '/'
+             for name in ('articles', 'concepts', 'faqs')]
+    out = subprocess.run(['git', '-C', ROOT, 'status', '--porcelain', '--', *paths],
                          capture_output=True, text=True).stdout
     return [os.path.join(ROOT, line.split()[-1]) for line in out.splitlines() if line.strip().endswith('.md')]
 
