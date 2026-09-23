@@ -27,7 +27,6 @@ const idx = items.findIndex((i) => normalizePath(i.url) === cur);
 const prev = idx > 0 ? items[idx - 1] : null;
 const next = idx >= 0 && idx < items.length - 1 ? items[idx + 1] : null;
 ---
----
 
 {
   prev !== null || next !== null ? (
