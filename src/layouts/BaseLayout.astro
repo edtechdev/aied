@@ -690,13 +690,28 @@ const recentConceptItems = recentConcepts.map(c => ({
     /* Default to the full "AIEd Knowledge Base" label; show the compact
        "AIEd KB" only when the browser is narrow and the header is tight.
        On mobile the label is dropped entirely to make room — the logo alone
-       identifies the site. */
+       identifies the site.
+
+       Match a SHORT viewport as well as a narrow one. Keyed on width alone the
+       wordmark came back when a phone was turned sideways: the row then had far
+       less room for its controls than in portrait even though the viewport was
+       wider, so turning the phone pushed a control into the chevron menu that had
+       been visible before, and the header seemed to lose buttons as it gained
+       space. A landscape phone is wide but short. */
     .brand-short { display: none; }
+    .brand-full {
+      /* Never let the wordmark eat the row it shares with the controls: on a
+         narrow window it ellipsizes instead of pushing icons into the menu. */
+      max-width: min(22rem, 40vw);
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
     @media (max-width: 600px) {
       .brand-full { display: none; }
       .brand-short { display: inline; }
     }
-    @media (max-width: 640px) {
+    @media (max-width: 640px), (max-height: 480px) {
       .brand-full, .brand-short { display: none; }
     }
     /* Mobile: single row. A fixed CSS grid cannot reflow into extra rows the
