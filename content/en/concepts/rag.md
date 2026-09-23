@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-23T09:34:44-04:00"
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, pedagogical-llm-training, edtech-platform]
 ethics: [hallucination-risk, pedagogical-safety]
@@ -30,6 +30,7 @@ reviewed_by: [editor]
 - **Textbook and materials indexing:** [[book-level-synthetic-textbook-organization|Synthetic textbook organization]] indexes educational content for retrieval. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extends retrieval to structured diagrams.
 - **Training pipeline integration:** [[pedagogical-llm-training|Pedagogical LLM training]] uses RAG to ground tutor training in educational best practices.
 - **Course-specific academic support:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] retrieves from a single programming module's approved teaching materials to serve students who hesitate to approach a lecturer, and 89% of the 15 evaluating students rated its responses highly aligned with course materials; the design point is that grounding is an institutional answer to the mismatch between general-purpose [[llm|LLMs]] and module-level expectations.
+- **Ingest-time structure versus query-time retrieval:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiled the same DS3001 machine-learning course corpus into seven cross-referenced wiki concept pages carrying source citations, and set it against a tuned vector-RAG baseline of chunked-embedding retrieval. Over 59 human-written questions the compiled wiki out-answered the tuned index (9.95 vs. 9.05 of 10, with a bootstrap CI on the difference excluding zero) and was more often grounded in the material the answerer actually saw (98% vs. 81%), with both gaps roughly tripling on questions that needed material from more than one page (cross-page scores 9.93 vs. 8.14, where RAG's grounded rate fell from 87% to 64%). The grounding gap was not a retrieval failure: only 2 of vector RAG's 11 ungrounded answers were retrieval misses, while the other 9 had the relevant excerpts in context and still added unsupported detail — evidence that structure at ingest constrains elaboration, not just access.
 
 ### RAG vs fine-tuning
 
@@ -62,3 +63,4 @@ RAG serves a complementary role to [[llm]] fine-tuning — retrieval provides up
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education
+- [[wiki-llm-indexing-ml-classes-2026]] — Potential for Enhanced Learning in Machine Learning Classes by Using Wiki LLM Indexing

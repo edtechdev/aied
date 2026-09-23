@@ -1,7 +1,7 @@
 ---
 title: Speech and Voice Technologies
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-09-22T09:59:48-04:00"
+updated: "2026-09-23T09:34:44-04:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -37,6 +37,8 @@ The most consistent message from the ASR work is that the tool is not the treatm
 A second strand asks whether AI pronunciation feedback changes learners' disposition to speak. [[genai-pronunciation-feedback-wtc-2026|Lu et al. (2026)]] surveyed 1,701 Chinese university EFL learners and used covariance-based structural equation modeling with bias-corrected bootstrapping to test whether perceptions of [[generative-ai]] pronunciation feedback related to willingness to communicate, with pronunciation [[self-efficacy]] as mediator. The association was positive, and self-efficacy partially mediated it: the indirect path accounted for 69.9% of the total effect while a direct effect remained. All constructs were [[self-report-measures|self-reported]] at one time point, so the study describes a mechanism learners perceive rather than one that was manipulated.
 
 Automated pronunciation feedback can also be built without error labels. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] describes Profy, which learns what good and poor pronunciation look like from largely unannotated speech via self-supervised learning, then shows learners which waveform regions drove the judgment and how far their acoustics sit from native-speaker distributions. With 10 Japanese learners of English rated by five American listeners, intelligibility improved, and unlike an elicited-imitation baseline the pre- and post-practice confidence intervals did not overlap — a small sample, but one that gives *where* and *how much* rather than a binary verdict.
+
+ASR also serves the classroom in a second role — converting spoken input into text that learners read. [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] rendered a 2,692-token Medical English coursebook passage on proteins with one text-to-speech voice (15:27, female Canadian) and submitted the identical audio to four online ASR services, then measured both word error rate (WER) and **coverage** (returned words as a share of the reference). The two free services returned near-complete transcripts (87.96% and 88.34% coverage, WER 15.23% and 15.00%), while the two paid services exported only previews (32.76% and 55.35% coverage, WER 73.21% and 48.77%). The measurement point is that WER alone conflates unavailable text with inaccurate text and would rank an export restriction as a transcription failure, so coverage belongs beside the error rate. Deletions dominated every service and clustered on structural markers such as figure references and page numbers, but a handful of meaning-altering substitutions — imino → amino, cystine → cysteine, protonated → protonatid, pH → phase — each inverted a biochemical fact, which is why the authors propose a three-stage workflow (generate the input, export the full transcript, verify domain terminology) before a transcript reaches learners, and why a terminology pass is the cheapest guardrail for medical English.
 
 ## TTS and Voice-Generated Instruction
 
@@ -107,3 +109,4 @@ Almost every strong claim here rests on one short study. The two TTS lesson stud
 - [[ai-guided-learning-audiovideo-2026]] — Adaptive audio speed, voice-preserving video summaries, and unlabeled pronunciation feedback
 - [[llm-question-generation-deaf-hard-of-hearing-2026]] — LLM question generation for deaf and hard-of-hearing learners
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability

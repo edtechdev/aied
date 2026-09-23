@@ -6,7 +6,7 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-18T12:02:23-04:00"
+updated: "2026-09-23T09:34:59-04:00"
 reviewed_by: [editor]
 ---
 
@@ -36,6 +36,8 @@ With a running model of mastery, the system's job becomes deciding *what to pres
 
 **A critical caveat to mastery inference: correctness is not mastery.** [[deceptive-overgeneralization-adaptive-learning-2026|An, McLaren, and Stamper (2026)]] show that learners who overgeneralize a skill — producing correct actions while omitting a critical application constraint — can appear mastered, leading [[knowledge-tracing]]-based mastery stopping rules to end practice before they encounter a case where the action should be *withheld*. The remedy is to assess *when to withhold* the action, not just how to execute it: include "do-not-act" detector tasks before the mastery threshold triggers, paired with [[feedback]] that names the missing constraint. Mastery is better understood as discrimination of application constraints plus action execution, not correctness alone.
 
+**A second caveat concerns the evidence rule behind the threshold.** [[crediting-assisted-work-inflates-mastery-2026|Srivastava (2026)]] ran four update rules over identical event sequences from the ASSISTments 2012–13 mathematics logs — a confirmatory half of 12,716 students and 985,813 scored events — and found the declared mastery count moved with the rule rather than with the learners: crediting any completion put 93.9% of 113,428 student–skill pairs past the 0.95 posterior, against 72.8% when hinted or retried rows were read as failed first attempts. The pairs the lenient rule declared ahead of the strict rule went on to 70.9% unaided accuracy against 85.7% where the rules agreed, below the 0.744 base rate. A progression gate that counts assisted completions therefore certifies learners whose later independent work sits below average, which makes the treatment of [[help-seeking|help]] inside the update rule — not the numeric threshold itself — the decision that fixes what a mastery badge certifies.
+
 ## Practice, Retention, and the Limits of AI Support
 
 Mastery also depends on durable retention, not merely a single correct performance. Cognitive science on [[retrieval-spacing-interleaving|retrieval practice]] and the forgetting curve motivates spacing practice after the mastery threshold is reached. AI spaced-repetition systems such as Memdora generate practice materials at the point of reading and offer a taxonomy of cognitively grounded retrieval interactions, scheduled by state-of-the-art algorithms, so that achieved mastery is reinforced over time rather than lost within hours. These designs draw on [[cognitive-psychology]] and the principle of [[desirable-difficulties]] to make the effort of retrieval itself part of the learning process.
@@ -64,3 +66,4 @@ Standards-based grading is the assessment counterpart to mastery learning, and [
 - [[ai-generated-traces-novice-programmers]] — Context-dependent, learner-moderated effects of AI-generated learning media on performance
 - [[ai-literacy-continuum-higher-education]] — A five-stage developmental continuum for moving students from uncritical tool use to critical AI competence
 - [[mesny-innovative-assessment-grading-management-2026]]
+- [[crediting-assisted-work-inflates-mastery-2026]] — Crediting assisted work inflates mastery: which evidence rule decides who is declared mastered (Srivastava 2026)
