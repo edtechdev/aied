@@ -170,6 +170,13 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
       box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
     }
   }
+  /* Set on the ancestors of an open popover that would otherwise clip it (the
+     chevron menu and its wrapper on a narrow screen). !important is required:
+     the header script sets the panel's overflow inline when the menu opens, and
+     an inline style outranks any ordinary rule. */
+  :global([data-lang-unclip]) {
+    overflow: visible !important;
+  }
   .lang-menu-title {
     margin: 0.15rem 0.4rem 0.4rem 0.4rem;
     font-size: 0.75rem;
@@ -254,7 +261,33 @@ const current = LOCALES.find((l) => l.code === locale) || LOCALES[0];
     const btn = root.querySelector('[data-lang-toggle]') as HTMLButtonElement | null;
     const menu = root.querySelector('[data-lang-menu]') as HTMLElement | null;
     if (!btn || !menu) return;
+    // The switcher can sit inside the header's chevron overflow menu on a narrow
+    // screen, and that menu and its wrapper clip their overflow (they hide and
+    // scroll their contents). An absolutely positioned popover inside them is then
+    // cut down to nothing: the reader taps the globe and no list appears. Let the
+    // popover escape its ancestors while it is open. Mark them, and let a CSS rule
+    // with !important do the work: the header script sets the panel's overflow as
+    // an INLINE style whenever it opens or resizes, so an inline override here is
+    // stomped a moment after it is applied.
+    const marked: HTMLElement[] = [];
+    const restoreClipping = () => {
+      for (const el of marked.splice(0)) delete el.dataset.langUnclip;
+    };
+    const releaseClipping = () => {
+      restoreClipping();
+      let el = root.parentElement;
+      while (el && el !== document.documentElement) {
+        const cs = getComputedStyle(el);
+        if (cs.overflowX !== 'visible' || cs.overflowY !== 'visible') {
+          el.dataset.langUnclip = '';
+          marked.push(el);
+        }
+        el = el.parentElement;
+      }
+    };
     const setOpen = (open: boolean) => {
+      if (open) releaseClipping();
+      else restoreClipping();
       menu.hidden = !open;
       btn.setAttribute('aria-expanded', String(open));
     };
