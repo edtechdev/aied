@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-23
 
-Articles: 1411 | Concepts: 216 | Resources: 12 | FAQs: 32
+Articles: 1411 | Concepts: 216 | Resources: 16 | FAQs: 32
 
 ## Concepts
 
@@ -1619,8 +1619,13 @@ Articles: 1411 | Concepts: 216 | Resources: 12 | FAQs: 32
 - [[id-toolbox]] — The ID Toolbox
 - [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
 - [[lesson-md]] — LESSON.md
+- [[mglearn]] — mglearn Classroom Resources
+- [[onmicro-ai]] — OnMicro.AI
 - [[openmaic]] — OpenMAIC
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
 - [[playlab]] — Playlab
 - [[pressing-prompts]] — Pressing Prompts
+- [[process-feedback]] — Process Feedback
 - [[teacherserver]] — TeacherServer
+- [[vibes-diy]] — Vibes DIY
+
