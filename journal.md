@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-22 | Total entries: 1598
+Last updated: 2026-09-22 | Total entries: 1600
 
 ## 2026-09-22
 - 📄 [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19: A value-based, practical framework for public service media organisations
@@ -25,6 +25,9 @@ Last updated: 2026-09-22 | Total entries: 1598
 - 📄 [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - 🧰 [[gemini-notebook]] — Gemini Notebook
 - 📄 [[typology-generative-ai-tools-education-2026]] — Typology of Generative AI Tools for Education
+- 📄 [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — Co-Constructing AI Boundaries: Agency, Judgment, and Ethical Literacy in AI-Mediated Meaning-Making
+- 📄 [[shi-genai-experiential-learning-management-education-2026]] — From Memorization to Experiential Learning: Reconfiguring Classroom Pedagogy in Management Education through Generative AI
+
 ## 2026-09-21
 - 📄 [[adaptive-ai-model-teacher-educators-2025]] — Rethinking artificial-intelligence literacy through the lens of teacher educators: The adaptive AI model
 - 📄 [[ai-feedback-ecosystem-higher-education-2026]] — How artificial intelligence transforms the feedback ecosystem in higher education

@@ -8,13 +8,12 @@ Wiki [[wikilinks]] that resolve to concepts/FAQs present in the EPUB become
 internal anchors so navigation works inside the reader.
 """
 import os, re, glob, subprocess, datetime, json, sys
-sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'scripts'))
-sys.path.insert(0, os.path.join(WIKI, 'tooling', 'scripts'))
-from content_paths import collection as _collection  # noqa: E402
-import content_paths  # noqa: E402
-from wikilink_text import smart_title, WIKILINK_RE  # noqa: E402
 
 WIKI = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+sys.path.insert(0, os.path.join(WIKI, 'tooling', 'scripts'))
+import content_paths  # noqa: E402
+from wikilink_text import smart_title, WIKILINK_RE  # noqa: E402
 
 # Single source of truth for site-wide metadata — shared with the Astro site
 # (src/config/siteConfig.ts) and the other tooling scripts.
@@ -210,6 +209,56 @@ parts = []
 
 import html as _html
 
+def _strip_element(html_text, class_fragment):
+    """Remove every element whose class contains class_fragment, with its content.
+
+    Non-greedy regexes stop at the first closing tag, which leaves orphaned markup
+    behind for nested widgets (the concept map nests several levels). Count nesting
+    of the same tag name instead."""
+    out, pos = [], 0
+    open_re = re.compile(r'<([a-z][a-z0-9]*)\b[^>]*class="[^"]*' + re.escape(class_fragment) + r'[^"]*"[^>]*>',
+                         re.I)
+    while True:
+        m = open_re.search(html_text, pos)
+        if not m:
+            out.append(html_text[pos:])
+            break
+        tag = m.group(1)
+        out.append(html_text[pos:m.start()])
+        depth, i = 1, m.end()
+        step = re.compile(rf'<(/?){tag}\b[^>]*?(/?)>', re.I)
+        while depth and i < len(html_text):
+            n = step.search(html_text, i)
+            if not n:
+                i = len(html_text)
+                break
+            if n.group(1) == '/':
+                depth -= 1
+            elif not n.group(2):
+                depth += 1
+            i = n.end()
+        pos = i
+    return ''.join(out)
+
+
+def _built_page_html(astro_path):
+    """Map a page under src/pages to its built file under dist/ (or None).
+
+    Used when a page's chapter copy cannot be read from the .astro source, e.g.
+    index.astro now renders <HomePage locale="en" /> and the text lives in the
+    i18n modules. The built page is the same copy with those expressions already
+    resolved."""
+    rel = os.path.relpath(astro_path, os.path.join(WIKI, 'src', 'pages'))
+    stem = rel[:-len('.astro')] if rel.endswith('.astro') else rel
+    candidates = [
+        os.path.join(WIKI, 'dist', stem + '.html'),
+        os.path.join(WIKI, 'dist', stem, 'index.html'),
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            return c
+    return None
+
 def astro_body_markdown(astro_path, chapter_h1):
     """Extract the body content of a .astro page (between <BaseLayout> and
     </BaseLayout>) and convert its simple HTML to markdown, so the EPUB always
@@ -217,7 +266,30 @@ def astro_body_markdown(astro_path, chapter_h1):
     Concept/FAQ/wiki links become internal EPUB anchors; external links stay."""
     src = open(astro_path, encoding='utf-8').read()
     m = re.search(r'<BaseLayout\b[^>]*>(.*?)</BaseLayout>', src, re.S)
-    body = m.group(1) if m else src
+    body = m.group(1) if m else None
+    if body is None:
+        # The page may delegate its markup to a component (index.astro renders
+        # <HomePage locale="en" />), in which case there is no literal body to
+        # read here and the chapter copy comes from the built page instead,
+        # where the i18n expressions are already resolved.
+        built = _built_page_html(astro_path)
+        if built:
+            html = open(built, encoding='utf-8').read()
+            bm = re.search(r'<!--\s*export:page:start\s*-->(.*?)<!--\s*export:page:end\s*-->',
+                           html, re.S)
+            body = bm.group(1) if bm else None
+            if body:
+                # Site widgets that belong to the web page, not to the book.
+                body = _strip_element(body, 'concept-map')
+    if body is None:
+        # Never fall back to the raw .astro source: it exports TS and a
+        # frontmatter block, which pandoc then fails to parse as YAML.
+        raise SystemExit(
+            f'build-epub: no chapter body for {os.path.relpath(astro_path, WIKI)}. '
+            'Expected <BaseLayout>...</BaseLayout> in the page or in the component it '
+            'renders, or a built page under dist/. Run the site build first. '
+            'Refusing to export the raw source.'
+        )
 
     n_articles = len([f for f in os.listdir(content_paths.collection('articles')) if f.endswith('.md')])
     n_concepts = len(concept_slugs)
@@ -480,6 +552,12 @@ def _unlist_use(m):
     body = re.sub(r'(?m)^(## .+)$', r'\1 {.unlisted}', m.group(2))
     return m.group(1) + body
 combined = use_chap.sub(_unlist_use, combined)
+
+# A bare `---` line (a page's <hr>) is read by pandoc as the START of a YAML
+# metadata block, so the following prose is then parsed as YAML and the build
+# dies with "mapping values are not allowed in this context". Emit an explicit
+# thematic break instead.
+combined = re.sub(r'(?m)^-{3,}[ \t]*$', '***', combined)
 
 md_path = os.path.join(WIKI, 'dist', 'aied-export.md')
 os.makedirs(os.path.dirname(md_path), exist_ok=True)

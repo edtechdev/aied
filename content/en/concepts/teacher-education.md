@@ -1,7 +1,7 @@
 ---
 title: Professional Development
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-17T14:46:00-04:00"
+updated: "2026-09-22T21:38:08-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role, tpack]
 connected_faqs: [faculty-development-ai]
@@ -133,3 +133,4 @@ Beyond content and beliefs, teacher preparation increasingly uses **simulated cl
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[teachers-collaborative-evaluation-ai-content-2026]] — Teachers' collaborative evaluation of AI-generated content as professional development (Gat, Usher & Barak 2026)
 - [[ai-training-science-teacher-tpack-distance-2026]] — Campus versus distance comparison of 186 science student teachers' AI-related TPACK and training levels
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — traces pre-service teachers building AI boundaries in a semester-long literacy ethnography

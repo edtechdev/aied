@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-22T09:59:00-04:00"
+updated: "2026-09-22T21:38:08-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -140,3 +140,4 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[chen-zou-genai-group-assessment-agency-2026]] — Three patterns of agency in GenAI-mediated group assessment: intensified, restrained, and not enacted
 - [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
+- [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
