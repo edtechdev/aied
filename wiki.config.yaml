@@ -279,6 +279,16 @@ journal_scan:
       source_id: joidat
       open_access: true
       max_age_days: 120
+    - id: aalhe
+      name: "Intersection: A Journal at the Intersection of Assessment and Learning"
+      url: "https://aalhe.scholasticahq.com/feed"
+      parser: parse_scholastica
+      journal: "Intersection: A Journal at the Intersection of Assessment and Learning"
+      source_id: aalhe
+      # Broader than AI in education: keep only items about AI or generative AI
+      topical_fit: assessment of learning in higher education
+      open_access: true
+      max_age_days: 120
 
 citation_format: APA
 
