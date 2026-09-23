@@ -60,7 +60,7 @@ MAIC represents a convergence point for [[generative-ai]], [[rag]], and [[agenti
 
 - **Designers.** Build every classroom agent on one shared [[llm]] foundation rather than a separate model per function, so teaching, assessment, recommendation, and [[learning-analytics|learning analytics]] draw on the same representation of the course.
 - **Instructors.** Convert existing slide decks into structured [[adaptive-learning|adaptive learning]] resources with a read-and-plan workflow grounded in a knowledge taxonomy, so generated exercises and explanations stay aligned with the course outline.
-- **Administrators.** Weigh course development decisions against the reported production cost: generating full materials (slides, textbook, exercises, video) fell from roughly $25,000 and 60 hours per course to under $2 and 30 minutes.
+- **Administrators.** Weigh course development decisions against the reported production cost: generating full materials (slides, textbook, exercises, video) fell from roughly \$25,000 and 60 hours per course to under \$2 and 30 minutes.
 - **Instructors.** Keep humans over generated content and over the class: the pilot routed AI-produced material through subject-matter experts and teaching assistants and retained instructor intervention, and students reported that AI classmates do not replace the discussion and after-class explanation a human teacher provides.
 - **Researchers.** Treat the engagement and thinking gains as preliminary observation and test them against controlled outcome data on completion and [[self-regulated-learning|self-regulated learning]]; the open-source OpenMAIC release is positioned as shared infrastructure for that [[intelligent-tutoring|tutoring]] research.
 

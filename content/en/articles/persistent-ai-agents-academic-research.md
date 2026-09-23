@@ -23,7 +23,7 @@ Most evaluations of AI systems still treat them as models, benchmarks, or short 
 2. Active system time was 579.7 hours under the primary 30-minute capped-gap rule and 674.1 hours under the 60-minute sensitivity cap — system-activity estimates, not human labor hours.
 3. The inventory identified 502 memory-related files, 17 configured agent directories, 57 skill files, 4,309 main-session files, and 5,760 all-agent session files.
 4. Memory-derived records identified 482 output-proxy events (5.02 per active day) and 1,423 dated memory sections across 10 artifact-surface categories, while the same layer logged 889 failure, verification, correction, or protocol-proxy events (9.26 per day).
-5. The strict May 1–May 25 subset held 73,950,305 recorded tokens: 61,278,669 cache-read (82.9%), 10,697,394 input, 754,633 output, 1,219,609 cache-write. Direct-spend tracking found approximately US$1,961 in observed system-related spending, with invoice reconciliation incomplete.
+5. The strict May 1–May 25 subset held 73,950,305 recorded tokens: 61,278,669 cache-read (82.9%), 10,697,394 input, 754,633 output, 1,219,609 cache-write. Direct-spend tracking found approximately US\$1,961 in observed system-related spending, with invoice reconciliation incomplete.
 
 ## What PARE-M Measures
 
