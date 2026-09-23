@@ -1,7 +1,7 @@
 ---
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-22T21:36:22-04:00"
+updated: "2026-09-23T12:14:06-04:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -27,6 +27,8 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 
 - **AI-powered environments:** adaptive simulations adjust difficulty and scenarios to a learner's state, linking to [[adaptive-learning]] and [[reinforcement-learning]]-based coaching.
 - **Simulated agents:** AI can simulate patients (for medical training), students (for [[teacher-role|teacher]] practice), or conversation partners, making high-stakes interpersonal practice accessible and repeatable. In [[teacher-education|teacher education]], [[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang and Zhang (2025)]] built *Student GPT*, a custom ChatGPT [[conversational-ai|chatbot]] that role-played a [[k-12|middle school]] student holding common ratio-reasoning [[misconceptions]], giving preservice [[math-education|mathematics]] teachers affordable, content-specific practice at diagnosing student thinking — and used an [[affective-computing|Affective]], Communicative, Technical (ACT) coding framework to systematically assess the simulated student's role-play strengths (clarity, relevance, error consistency) and authenticity weaknesses (teacher-like tone, role confusion).
+- **Role-play puts the learner in the part.** Where simulated agents supply the counterpart, role-play gives the learner that part instead. [[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari and colleagues (2026)]] had 18 children aged 9-10 watch a bullying scene enacted by social robots, reason about each character's position, then rehearse defending by puppeteering a robotic avatar, and reported gains in perceived [[self-efficacy]] for defending plus better-calibrated beliefs about whether confronting a bully actually stops it. Their framing, robot-mediated applied drama, keeps a human facilitator in the Forum Theatre role and confines automation to narrative control, which is a useful reminder that the demanding part of role-play is the reflection rather than the machinery. [[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga and Johnson (2025)]] place role-play alongside simulation among the strategies that AI-supported online learning draws on.
+
 - **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test tutoring systems and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling]] and [[knowledge-tracing]].
 - **Trust and fidelity:** the value of a simulation depends on how faithfully it models the real context — and on the learner's awareness of its limits, connecting to [[trust-calibration]].
 - **[[generative-ai|GenAI]] in simulation-based learning.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] [[meta-analysis-systematic-review|systematically review]] GenAI across scenario-, case-, problem-, and simulation-based learning in healthcare education, finding positive outcomes for higher-order cognitive skills but inconsistent results elsewhere, with hybrid [[human-ai-collaboration|human-AI collaboration]] outperforming fully automated approaches. [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger, and Liening (2026)]] develop AI conversational agents for adaptive support in business simulation games, addressing the common gap of limited [[formative-assessment|formative]] feedback and structured reflection in simulation-based learning.
@@ -64,6 +66,7 @@ Simulation connects to [[active-learning]], [[adaptive-learning]], and [[pedagog
 - [[astra-atco-training-simulator]] — ASTRA: ATCO Training Simulator
 - [[supplynet-visual-exploratory-learning]] — SupplyNet: Visual Exploratory Learning
 - [[medeasy-ai-standardized-patients]] — MedEASY: AI Standardized Patients
+- [[remind-robot-mediated-roleplay-antibullying-2026]] — Robot-mediated role-play game for bystander intervention (applied drama)
 - [[hdr-brachytherapy-agentic-ai-simulation-2026]]
 - [[residencyrl-clinical-rl-training-2026]]
 - [[li-ai-science-situated-learning-teachers-2025]]
