@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-22T09:59:57-04:00"
+updated: "2026-09-23T14:23:07-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -80,6 +80,8 @@ This distinction yields the principle of **timing-component matching**: feedback
 
 [[metacognitive-training-optimal-cognitive-offloading-2026|Ngai & Gilbert (2026)]] provide direct causal evidence that metacognitive calibration is a *trainable* skill. In two preregistered experiments (N=164, N=416), **just five practice trials pairing a performance prediction with veridical feedback** improved calibration and reduced bias. A four-group additive design isolated the causal component: **making predictions alone was ineffective; adding performance feedback drove the improvement; explicitly labeling over-/underconfidence added nothing further**. Critically, the improvement acted on *absolute* calibration — raising confidence in the underconfident and lowering it in the overconfident — so it corrected [[trust-calibration|miscalibration]] in both directions rather than shifting everyone one way (which is why signed/directional effects were null). This strengthens the "experiences not beliefs" account above and shows the *minimum viable metacognitive training*: prediction + immediate, task-specific feedback.
 
+- **A brief reflection prompt sharpens monitoring during AI-supported decisions.** [[ren-metacognitive-awareness-genai-reliance-2026|Ren (2026)]] added three reflection prompts before finalizing answers in a three-condition experiment with 342 undergraduates: acceptance of incorrect ChatGPT advice fell from 62.4% to 39.7% (*OR* = 0.40) and awareness calibration rose (0.59 vs. 0.41), while recommendation accuracy and alignment with correct advice stayed high. Reflection made reliance more discriminative rather than uniformly defensive, which supports treating reliance as a monitoring problem rather than a question of how much AI is used.
+
 ## Implications for Tool Design
 
 1. **Preserve the "friction" of thinking:** If AI writes the reflection, the student does not build metacognitive skill. Journaling assistants should scaffold, not author.
@@ -96,6 +98,10 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - **Explanation-seeking depth predicts task quality, not recall.** [[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris (2026)]] shows explanation-seeking prompts (depth) in LLM interaction predict task quality but not immediate recall, interpreting the dissociation via elaboration (comprehension) vs. retrieval practice (consolidation) — and suggesting explanation-seeking correlates with metacognitive monitoring, though retrieval demands must be added for durable retention.
 
 - **Self-reported metacognition is a weak proxy for regulation *with* an LLM.** [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]] gave 116 [[k-12|middle-school]] students a two-hour AI literacy workshop and then measured their LLM interaction during science problems: trained students accepted underspecified prompts less often (51.5% vs. 66.7%), asked follow-up questions after a weak response far more often (59.2% vs. 27.9%, *d* = 0.80) and judged answer correctness more sensitively to prompt quality (interaction OR = 2.52). Neither a general metacognitive-awareness scale (Jr. MAI) nor GenAI self-reports predicted those behaviors or final performance (*r* = .04 and *r* = .01) — monitoring and control during [[generative-ai|generative AI]] use is task-specific, and observable behavior carries more information than the self-report instruments built to capture it.
+
+- **Automated scoring reached the performance phase, not the planning that precedes it.** [[chen-automated-scoring-interpreting-self-regulated-learning-2026|Chen and Liu (2026)]] gave 46 interpreting students 14 weeks of weekly automated scoring with a returned score, marked errors, and a reference rendition: the automated group gained more overall (*d* = 1.03), but only monitoring during practice correlated with score gains (*r* = 0.42) while pre-learning planning sat near the scale midpoint (M = 3.01). Evaluation and reflection carried the second-highest mean (3.87 of 5) yet showed a near-zero link to gains (*r* = 0.10), so a high reflection score should not be read as productive reflection.
+- **Verification literacy pays off only through metacognitive self-regulation.** [[davor-ai-supported-learning-higher-order-outcomes-2026|Davor, Larbi and Boateng (2026)]] surveyed 533 university students and found that AI verification literacy had no direct association with critical thinking or technical problem-solving; it mattered only indirectly, through metacognitive self-regulation (a full mediation pattern). [[cognitive-offloading|Cognitive offloading]] tendency ran the other way, predicting lower self-regulation (-.294) along with lower critical thinking (-.240) and problem-solving (-.312).
+- **The evaluator's own monitoring is metacognitive work too.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that an AI-generated diagnostic inference is not raw evidence but an interpretation already made, so teachers must integrate it with their own observations in a process they call *meta-diagnosis*, deciding deliberately whether to accept, reject, or modify it. That places a second metacognitive loop beside the learner's: not only how the student regulates thinking with AI, but how the teacher evaluates what the system claims about that thinking.
 
 ## Connected Concepts
 
@@ -142,3 +148,7 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[miles-prompt-literacy-human-centered-genai-framework-2026]] — Reflection on the prompting process and authorship development in the Prompt Literacy Cycle (Miles, Haber-Curran & Arar 2026)
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[adaptive-scaffolding-contingency-comet-tutor-2026]] — Adaptive Scaffolding Needs Contingency: An AI Tutor That Escalates and Fades on What the Learner Does
+- [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cut acceptance of incorrect AI advice and improved awareness calibration (Ren 2026)
+- [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring reinforced monitoring but not planning, and self-reported reflection stayed unproductive (Chen & Liu 2026)
+- [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verification literacy acting only through metacognitive self-regulation (Davor, Larbi & Boateng 2026)
+- [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)

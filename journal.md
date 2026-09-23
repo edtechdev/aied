@@ -1,8 +1,9 @@
 # Journal
 
-Last updated: 2026-09-23 | Total entries: 1638
+Last updated: 2026-09-23 | Total entries: 1639
 
 ## 2026-09-23
+- 📄 [[yan-agentivism-learning-theory-ai-2026]] — Agentivism: a learning theory for the age of artificial intelligence
 - 📄 [[ahangama-designing-assessments-genai-era-ict-framework-2026]] — Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education
 - 📄 [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Trust and interaction design in AI-enabled systems: a systematic literature review
 - 📄 [[baker-taylorizable-process-textual-detector-development-2026]] — A Taylorizable Process for Textual Detector Development for Research-Practice Partnerships
