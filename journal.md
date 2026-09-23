@@ -1,8 +1,31 @@
 # Journal
 
-Last updated: 2026-09-23 | Total entries: 1615
+Last updated: 2026-09-23 | Total entries: 1638
 
 ## 2026-09-23
+- 📄 [[ahangama-designing-assessments-genai-era-ict-framework-2026]] — Designing assessments in the generative AI era: A tailored assessment framework for ICT tertiary education
+- 📄 [[abramson-trust-interaction-design-ai-enabled-systems-review-2026]] — Trust and interaction design in AI-enabled systems: a systematic literature review
+- 📄 [[baker-taylorizable-process-textual-detector-development-2026]] — A Taylorizable Process for Textual Detector Development for Research-Practice Partnerships
+- 📄 [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Impact of automated scoring on interpreting performance and self-regulated learning: evidence from a pedagogical experiment
+- 📄 [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Evaluation of primary school teachers’ use and perceptions of artificial intelligence in primary school mathematics instruction: a mixed-methods study
+- 📄 [[daniuseviciute-brazaite-ai-inclusive-education-teachers-visions-2026]] — AI in inclusive education: teachers’ visions of future-oriented practices
+- 📄 [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Artificial intelligence-supported learning and higher-order cognitive outcomes: the mediating role of metacognitive self-regulation
+- 📄 [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — Rethinking teachers’ diagnostic skills in AI-supported formative assessment: from diagnosis to meta-diagnosis
+- 📄 [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Psychological predictors of continued ChatGPT use among university students: the roles of AI literacy, trust, and academic self-efficacy
+- 📄 [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Designing an AI-integrated role-rotation pedagogical model to support competence-related learning in pre-service educational psychologists
+- 📄 [[mendonca-llm-feedback-perceived-usefulness-programming-2026]] — Perceived usefulness and intention to use large language model-generated feedback across three educational levels: a user-centred study in programming
+- 📄 [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Empowering teachers to use AI for differentiation: changes in teachers’ acceptance of AI-based technologies following participation in a short professional development training session
+- 📄 [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — The role of generative AI in facilitating children’s creative thinking and cognitive development: a systematic scoping review
+- 📄 [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Artificial intelligence in initial teacher training for pre-service primary school teachers in mathematics: a systematic review
+- 📄 [[ren-metacognitive-awareness-genai-reliance-2026]] — College students’ metacognitive awareness of generative-AI reliance: an experimental study of decision confidence and attribution bias
+- 📄 [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Helpful or harmful? Generative AI dependence, self-reported critical thinking disposition, and self-perceived employability among business students
+- 📄 [[suria-martinez-academic-self-efficacy-motor-disabilities-2026]] — Between perceived competence and artificial intelligence: academic self-efficacy profiles in university students with motor disabilities
+- 📄 [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Generative artificial intelligence in university chemistry education: a critical review using Johnstone’s chemistry triplet and Biggs’ 3P model
+- 📄 [[wang-reflective-ai-use-engagement-programming-2026]] — Reflective AI use and student engagement in AI-supported programming: technology acceptance, programming self-efficacy, and behavioral trace evidence
+- 📄 [[yu-designing-ai-literacy-self-determination-2026]] — Designing for AI literacy: psychological mechanisms and self-determination
+- 📄 [[zhang-ai-willingness-to-communicate-efl-review-2026]] — Impacts of artificial intelligence on willingness to communicate and its key antecedents in EFL contexts: a systematic review (2015–2026)
+- 📄 [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modeling and measuring graduate students’ generative AI literacy: a study based on Marzano’s taxonomy
+- 📄 [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Adaptive teaching assistance model combining generative AI and big data analytics
 - 📘 [[social-norms-ai-use]] — Social Norms of AI Use
 - 📄 [[bespoke-industry-personalized-lecture-videos-2026]] — Bespoke: Generating MOOC-Quality Industry-Personalized Lecture Videos at Scale
 - 📄 [[ai-mediated-input-medical-english-asr-2026]] — AI-Mediated Input Transformation in Medical English: Speech Recognition and Transcript Reliability
