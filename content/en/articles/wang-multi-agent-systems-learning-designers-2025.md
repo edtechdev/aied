@@ -1,7 +1,7 @@
 ---
 title: "Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design"
 created: "2026-09-24T02:23:32-04:00"
-updated: "2026-09-24T02:23:32-04:00"
+updated: "2026-09-24T05:17:09-04:00"
 type: article
 sources: ['raw/papers/wang-multi-agent-systems-learning-designers-2025.md']
 confidence: medium
@@ -21,57 +21,58 @@ level: [k 12]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Wang, Xiao, Hou, and Stamper (2025) treat the weakness of LLM-generated instructional materials as a design problem rather than a prompting problem, moving pedagogical expertise out of the teacher's prompt and into the model's architecture. They embed the Knowledge-Learning-Instruction (KLI) framework in a multi-agent system whose agents identify knowledge components, choose a learning process, select an instructional principle, and draft an activity, then compare three generators: a single-agent baseline that mimics a typical teacher request, a role-based system that runs those stages in sequence, and a collaborative system in which three agents holding different curriculum-design personas draft, critique, and revise before a decision agent selects a final activity. Twenty practicing secondary math and science teachers rated 30 activities against the Quality Matters K-12 standards, and an LLM judge scored 120 activities across four models. Rubric differences were small and often not significant, but teachers clearly preferred the collaborative system for creativity, real-world context, and classroom readiness, at a far higher computational cost.
+> **Synthesis:** Wang, Xiao, Hou, and Stamper (2025) treat weak LLM-generated instructional materials as a design problem rather than a prompting problem, moving pedagogical expertise out of the teacher's prompt and into the model's architecture. They embed the Knowledge-Learning-Instruction (KLI) framework in a multi-agent system and compare a single-agent baseline, a role-based system that runs the KLI stages in sequence, and a collaborative system where three agents with different curriculum-design personas draft, critique, and revise before a decision agent selects a final activity. Twenty practicing secondary math and science teachers rated 30 activities against the Quality Matters K-12 standards. Rubric differences were small, but teachers preferred the collaborative system for creativity, real-world context, and classroom readiness at far higher computational cost.
 
 ## Key Findings
 
-- **The central move is architectural.** Putting KLI in the agent pipeline rather than in the teacher's prompt answers the prompting gap that limits untrained users.
-- **Teachers rated the collaborative system highest** on all four Quality Matters criteria and the total score, with a mean of 10.05 against 9.55 for the baseline.
-- **Only active learning reached significance**, F(2, 38) = 4.75, p = .014, where the collaborative system was rated above only the sequential role-based system.
-- **Expert agreement was weak**: Fleiss' kappa was 0.047 and 0.053 on two criteria and -0.016 aggregated, which the authors read as evidence that rubrics miss what teachers value.
-- **The collaborative system cost far more**: 272 seconds, about 71,638 tokens, and 13 requests per activity, against one request for the baseline.
-- **The LLM judge separated systems by at most 0.7 points**, under 7 percent of the scale, and saturated on alignment and inclusivity.
+- **The prompting gap motivates the architecture.** A survey of 2,232 public-school teachers found 60 percent already used AI for teaching tasks, yet unguided prompts produce shallow, misaligned materials that reviewers called "a mile high and an inch deep."
+- **Teachers rated the collaborative system highest** on all four Quality Matters criteria and the total score (10.05 against 9.55), but **only active learning reached significance**, F(2, 38) = 4.75, p = .014, and there against only the role-based system.
+- **Expert agreement was weak**: Fleiss' kappa was 0.047 and 0.053 on two criteria, -0.030 and -0.043 on the others, and -0.016 pooled, which the authors read as rubrics missing what teachers value.
+- **The collaborative system cost far more**: 272 seconds, about 71,638 tokens, and 13 requests per activity against one for the baseline, while the LLM judge separated systems by at most 0.7 points and saturated on alignment and inclusivity.
+- **The role-based pipeline scored lowest**, so collaboration between agents, not the presence of agents, mattered.
 
 ## The three systems and the KLI framework inside them
 
-Three generators were built for the same task. The baseline single-agent system appends subject domain, grade level, standard alignment, and learning objective to the phrase "Generate learning activity". The role-based multi-agent system turns KLI into a five-stage pipeline: a knowledge component agent identifies the facts, concepts, principles, or procedures to be learned, a learning process agent selects the relevant process, an instructional principle agent chooses a method such as spacing or worked examples, a design agent drafts the activity, and a feedback agent checks coherence before deciding whether to iterate. The collaborative system gives three agents different curriculum-design personas, has each draft independently, then runs a conquer and merge discussion in which agents critique and revise before a decision agent selects the final activity, while KLI supplies the reasoning they follow.
+Three generators were built for the same task. The baseline appends subject domain, grade level, standard alignment, and learning objective to the phrase "Generate learning activity". The role-based system turns KLI into a five-stage pipeline: a knowledge component agent identifies the facts, concepts, principles, or procedures to be learned, a learning process agent selects the relevant process, an instructional principle agent chooses a method such as spacing or worked examples, a design agent drafts the activity, and a feedback agent checks coherence. The collaborative system gives three agents the curriculum-design personas Behaviorist, Constructivist, and Aesthetic, drawn from a set of teacher personas; each drafts independently, then a conquer and merge discussion has them critique and revise before a decision agent picks the final activity.
+
+The KLI framework (Koedinger, Corbett, and Perfetti 2012) aligns knowledge components, learning processes such as fluency building and sense-making, and instructional principles such as spacing, worked examples, and prompted self-explanation.
 
 ## What the rubric missed and the teachers saw
 
-The quantitative and qualitative results diverge, and the authors treat the divergence as a finding. Rubric scores clustered tightly, and the total-score ANOVA did not reach conventional significance even though a non-parametric check suggested an overall difference. Written feedback, by contrast, separated the systems sharply. Teachers praised the baseline for relevant topics but found its handouts unfinished and its pacing off. They credited the role-based system with a step-by-step structure and both formative and summative assessments, then faulted it as generic and occasionally unresponsive to a differentiation request. The collaborative system drew the strongest praise for creativity, a real-world urban planning theme, and a complete package with worksheet, exit ticket, and teacher dialogue, though some lessons were seen as too large for one class period.
+The quantitative and qualitative results diverge: rubric scores clustered tightly, and the total-score ANOVA missed conventional significance even though a non-parametric check, chi-square of 6.24 with p = .044, suggested an overall difference, while written feedback separated the systems. Teachers praised the baseline for relevant topics but found its handouts unfinished, its pacing off, and its outputs needed lots of editing. They credited the role-based system with step-by-step structure and both formative and summative assessments, then faulted it as generic and sometimes unresponsive to a differentiation request. The collaborative system drew the strongest praise, called fantastic, creative, and classroom-ready, for a real-world urban planning theme and a complete package with worksheet, exit ticket, and teacher dialogue, though some lessons were too large for one class period.
 
 ## Cost, judges, and the ceiling problem
 
-The paper also reports what the extra quality costs. Generation time, token use, and requests rise steeply from the baseline through the sequential system to the collaborative one, a quality and efficiency trade-off for any tool intended for schools. Automatic evaluation with an LLM judge ran over 120 activities spanning four models, with the strongest totals for the collaborative system on the more capable model. Differences stayed small, and several dimensions saturated near the maximum, which limits how far the rubric can distinguish outputs. The authors also note known weaknesses of automated judging, including a bias toward longer outputs and a positivity bias, and conclude that automated scoring should complement rather than replace expert teacher judgment on a creative design.
+Time, tokens, and requests rise steeply from the baseline through the sequential system to the collaborative one: the role-based system needed about 77 seconds and 22,497 tokens across 5.4 requests, roughly three times the baseline's time and seven times its tokens. An LLM judge ran over 120 activities spanning four models, with the strongest totals for the collaborative system on the more capable model, and differences stayed small while several dimensions saturated near the maximum. The authors note known weaknesses of automated judging, including bias toward longer outputs and a positivity bias, and conclude that scoring should complement teacher judgment.
 
 ## What this means for practice
 
-- **Put the pedagogy in the tool, not the prompt.** A pipeline that carries instructional theory lets teachers generate sound activities without the prompt-engineering skill the study finds most teachers lack.
-- **Judge materials by teacher utility, not only rubric alignment.** Teachers valued complete packages with worksheets, exit tickets, and teacher dialogue, and alignment scores did not separate the systems.
-- **Keep expert teachers in the loop, and budget for cost.** An automated judge missed the differences teachers named, and the preferred design used about ten times the time and twenty times the tokens of the baseline.
-- **Do not assume any multi-agent design helps.** The sequential pipeline scored lowest of the three, so collaboration between agents, not the presence of agents, is what mattered.
+- **Put the pedagogy in the tool, not the prompt.** A pipeline that carries instructional theory lets the 60 percent of teachers already using AI generate sound activities without the prompt-engineering skill most lack.
+- **Judge materials by teacher utility, not only rubric alignment.** Teachers valued complete packages with worksheets, exit tickets, and teacher dialogue; alignment scores did not separate the systems, and the most common critique was that activities were too much for one period.
+- **Keep expert teachers in the loop, and budget for cost.** An automated judge missed what teachers named, and the preferred design used about ten times the time and twenty times the tokens of the baseline.
+- **Read design quality and teaching quality as separate targets.** The paper implements the principled-AI agenda of augmenting the learning sciences, unlike teaching benchmarks such as TeachBench, which score instructional ability.
 
 ## Limitations
 
-- **Designs were evaluated, not implemented.** Activities were rated by teachers and models but never tested with students, leaving no evidence about effects on learning or engagement.
-- **Reliability was low and the sample small.** Expert agreement fell below chance when criteria were pooled, and the 20 raters were secondary math and science teachers in the United States only.
-- **One framework, a fixed set of architectures.** The study embeds one pedagogical framework in specific agent workflows, leaving other theories and multi-agent designs untested.
+- **Designs were evaluated, not implemented.** Activities were rated by teachers and models but never tested with students, leaving no evidence about learning or engagement.
+- **Reliability was low and the sample small.** Expert agreement fell below chance when criteria were pooled, and the 20 raters were secondary math and science teachers (11 math, 9 science) in the United States only.
+- **One framework, a fixed set of architectures.** The study embeds one pedagogical framework in specific agent workflows, generated with gemini-2.5-flash plus three other Gemini models for the judge comparison, so other theories and designs are untested.
 
 ## Connected Concepts
 
 - [[pedagogical-agent]]
 - [[curriculum-design]]
 - [[learning-design]]
-- [[generative-ai]]
 - [[prompt-engineering]]
 - [[active-learning]]
 
 ## Connected Articles
 
-- [[multi-agent-instructional-design]]
+- [[finkelstein-principled-ai-education-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[agentic-workflows-education]]
 - [[multi-agent-llm-social-learning]]
+- [[teachbench-llm-teaching-evaluation]]
 
 ## Citation
 

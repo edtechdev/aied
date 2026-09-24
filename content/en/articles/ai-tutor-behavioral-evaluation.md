@@ -84,14 +84,14 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[ai-pedagogical-accompaniment-amico]]
 - [[cong-confidence-asag-2026]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[golrang-propact-pair-programming-2026]]
 - [[cstutorbench-slm-tutors]]
 - [[huang-interpretable-knowledge-tracing-2026]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). [*The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*](https://arxiv.org/abs/2605.05648)

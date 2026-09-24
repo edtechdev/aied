@@ -74,11 +74,11 @@ The two education-specialized models, among the strongest education-oriented sys
 ## Connected Articles
 
 - [[teachbench-llm-teaching-evaluation]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[nsmq-riddles-science-math-benchmark]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[knowledge-distillation-ai-tutor-evaluation]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 

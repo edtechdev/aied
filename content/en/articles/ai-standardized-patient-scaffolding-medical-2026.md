@@ -84,7 +84,7 @@ The authors advance "functional complementarity" as the organizing model: AI age
 - [[genai-simulate-patient-history-pbl-2026]] — Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
 - [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
 - [[genai-scenario-based-healthcare-education-2026]] — Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration

@@ -79,8 +79,8 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI Tutoring

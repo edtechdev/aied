@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 216 concepts, 1411 articles, and 32 FAQs.
+> Complete text of 216 concepts, 1417 articles, and 32 FAQs.
 
 # Concepts
 
@@ -1617,7 +1617,7 @@ What that design work involves in practice is itself an empirical question. [[ta
 
 **Rubric-guided prompting as a design lever.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrated that the rubric functions as a mediating interface between human pedagogical intent and machine inference: treating assessment criteria as revisable design artifacts — rather than fixed instruments — and iteratively co-refining them with the LLM raised LLM–human agreement on student design work from 54.75% to 81.25%. Rubrics engineered for LLMs must balance precision and flexibility — too vague invites free interpretation, too rigid reduces the model to pattern-matching — and role-aware prompting (instructor, peer reviewer, grant reviewer) yielded distinct evaluative feedback. This positions rubric engineering as a concrete learning-design practice for shaping AI evaluation behavior, with human-in-the-loop oversight remaining essential.
 
-**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage — its description of the student experience predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
+**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage — its description of the student experience predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[wang-multi-agent-systems-learning-designers-2025]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
 ### Connections to related concepts
 
@@ -1635,7 +1635,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Adopt a principle-level framework as well as an instructional model.** A course-level model structures one design; a published framework sets the criteria that many designs should satisfy. An example worth reading in full is Digital Promise's *Powerful Learning with Emerging Technology*, which organizes its guidance under three principles — Evidence-Based, Learner-Centered, Skill-Building — each expanded into practices and strategies, and attaches [[privacy]], [[explainable-ai|explainability]] and fairness to particular practices as safety obligations rather than optional extras.([[powerful-learning-with-emerging-technology-2025]])
 
-**Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[multi-agent-instructional-design]])
+**Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[wang-multi-agent-systems-learning-designers-2025]])
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
 
@@ -1704,7 +1704,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[multi-agent-instructional-design]]
+- [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[vargas-situated-learning-ai-review-2024]]
@@ -5209,7 +5209,7 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
 - [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
 - [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[multi-agent-instructional-design]] — Behaviorist persona among collaborative multi-agent design approaches
+- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
 
 ---
 
@@ -10076,7 +10076,7 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[civic-education-ai-lesson-plans]]
-- [[cognitive-agent-compilation]]
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
 - [[eduguard-safe-rag-llm-tutor]]
@@ -10387,7 +10387,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[llm-student-misconception-identification]] — LLM identification of student misconceptions
 - [[student-math-competence-clustering]] — Clustering for Modeling Student Mathematical Competence
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
@@ -11080,7 +11080,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 **Agents in immersive and extended-reality settings.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] extend the concept into [[virtual-and-augmented-reality|extended reality]] (AR, augmented virtuality and VR) with ACLIME, a conceptual framework that — unlike CAMIL, CATLM-VR and TICOL — keeps the agent inside the model. It names two interaction modes drawn from the literature: the tutor, offering guidance, encouragement, reflective questioning and explanations, and the role-playing partner, which occupies a defined role inside a scenario such as a local on a climate-change field trip or a negotiating counterpart in corporate training. The agent's body (head-only through full body) and behavior are treated as design surfaces: visual versus behavioral realism, flexible AI control versus fixed rule-based scripting, synthesized versus pre-recorded speech, and nonverbal channels including gaze, gesture and proxemics. Immersion and body-based interactivity are argued to multiply the social cues behind [[community-of-inquiry|social presence]] — behavioral realism, not visual realism, is proposed as the decisive predictor — while the learner's own virtual body adds an [[embodied-learning|embodiment]] dimension (body ownership, virtual own body agency, self-location) and the proteus effect. The framework's explicit trade-off is cognitive: immersion and the agent's mere presence can raise [[cognitive-psychology|cognitive load]] even as social interaction with the agent lowers it through the collective working-memory effect, and a temporal layer (familiarization, maturing human-agent relations, novelty decline, developing cybersickness) is added to the usual design variables. Its status is deliberately provisional: hardly any empirical work yet tests pedagogical agents in immersive media, and long-term [[learning-gains|learning outcomes]] as well as learner characteristics sit outside the model.
 
-**Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[eduagentbench-agent-teaching-benchmark|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
+**Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
 
 ## Practical guidance
 
@@ -11130,7 +11130,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[adversarial-stress-testing-role-playing-agents]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[structrag-diagram-reasoning-ai-tutoring]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[mooc-to-maic]]
 - [[rethinking-scaffolding-llm-tutors]]
 - [[lecturaagents-multi-agent-teaching]]
@@ -11416,7 +11416,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[code-gen]]
 - [[cong-confidence-asag-2026]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
@@ -11687,7 +11687,7 @@ The clearest case for open code is replication. [[oatutor-open-source-adaptive-t
 
 ### Open benchmarks, datasets, and method transparency
 
-Several contributions here are open *evaluation infrastructure* rather than systems. [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spans 97 models: open-weight DeepSeek R1 reached 86.65% against a top-10 of mostly closed reasoning models, and the cost–accuracy frontier moved from ~50% to ~82% at \$0.10/M input tokens between April 2024 and June 2025 — with open Qwen-3 8B at 3.5¢ nearly matching the best April-2024 closed model at over 400× lower cost. Performance drops sharply below roughly 8B parameters, which is a practical sizing constraint for campus deployments. [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a dataset, schema, and prototype for trace-based evaluation of socially intelligent multi-agent tutoring (540 participants, 360 sessions, 1,440 task episodes). [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] shows the cultural case for open data: 24,795 instruction–response pairs across seven languages and 41 pedagogical techniques drawn from Vedic and classical sources, aligned to the CBSE [[curriculum-design|curriculum]], which let a compact 7B model approach a much larger general-purpose reference model (median judge score 6.39 vs 6.54) at a fraction of the deployment cost. Student-authored [[benchmark|benchmarks]] are another route to openness: [[academiclaw-student-agent-benchmark|AcademiClaw]] curates 80 long-horizon academic tasks from 230 student-submitted candidates (spanning 25+ professional domains, 16 requiring CUDA GPUs, run in isolated Docker sandboxes) and extends an open agent ecosystem into academic-level evaluation. [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argue that openness is an [[sustainability|environmental]] obligation as well: reviewing all AIED 2025 papers, they found an "LLM adoption without disclosure" pattern and responded with an open-source measurement methodology — software tools plus a formula that estimates computational expense even when parameter counts are unknown.
+Several contributions here are open *evaluation infrastructure* rather than systems. [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spans 97 models: open-weight DeepSeek R1 reached 86.65% against a top-10 of mostly closed reasoning models, and the cost–accuracy frontier moved from ~50% to ~82% at \$0.10/M input tokens between April 2024 and June 2025 — with open Qwen-3 8B at 3.5¢ nearly matching the best April-2024 closed model at over 400× lower cost. Performance drops sharply below roughly 8B parameters, which is a practical sizing constraint for campus deployments. [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a dataset, schema, and prototype for trace-based evaluation of socially intelligent multi-agent tutoring (540 participants, 360 sessions, 1,440 task episodes). [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] shows the cultural case for open data: 24,795 instruction–response pairs across seven languages and 41 pedagogical techniques drawn from Vedic and classical sources, aligned to the CBSE [[curriculum-design|curriculum]], which let a compact 7B model approach a much larger general-purpose reference model (median judge score 6.39 vs 6.54) at a fraction of the deployment cost. Student-authored [[benchmark|benchmarks]] are another route to openness: [[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]] curates 80 long-horizon academic tasks from 230 student-submitted candidates (spanning 25+ professional domains, 16 requiring CUDA GPUs, run in isolated Docker sandboxes) and extends an open agent ecosystem into academic-level evaluation. [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argue that openness is an [[sustainability|environmental]] obligation as well: reviewing all AIED 2025 papers, they found an "LLM adoption without disclosure" pattern and responded with an open-source measurement methodology — software tools plus a formula that estimates computational expense even when parameter counts are unknown.
 
 ### Open educational resources and open content
 
@@ -11746,7 +11746,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 - [[mechanical-engineering-ai-curriculum-2026]] — Publicly available curriculum, data, and code
 - [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
 - [[agentic-ai-education-scoping-review]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
 
 ---
@@ -25928,87 +25928,6 @@ Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris,
 
 ---
 
-## [AcademiClaw: When Students Set Challenges for AI Agents](https://edtechdev.github.io/aied/articles/academiclaw-student-agent-benchmark/)
-
-> **Synthesis:** **AcademiClaw** is a bilingual [[benchmark]] of **80 complex, long-horizon tasks** sourced from university students' real academic workflows — homework, research projects, competitions, and personal projects — that they found current [[agentic-ai|AI agents]] unable to solve. It extends the OpenClaw ecosystem beyond assistant-level tasks into academic-level [[ai-ed-evaluation|agent evaluation]].
-## Benchmark Design
-
-### Task Sourcing & Curation
-- **230 student-submitted candidates** → rigorous expert review → 80 final tasks
-- Tasks are *authentic*: real problems students couldn't solve with current AI agents
-- **25+ professional domains**: olympiad-level [[math-education|math]], linguistics, GPU-intensive [[reinforcement-learning|RL]], full-stack system debugging
-- **16 tasks require CUDA GPU execution** — testing hardware-accelerated AI capabilities
-
-### Execution & Scoring
-- Each task runs in an **isolated Docker sandbox**
-- Scored by **multi-dimensional rubrics** using 6 complementary techniques
-- **Independent 5-category safety audit** provides behavioral analysis beyond task completion
-- Bilingual (Chinese/English)
-
-### Key Results
-- **6 frontier models** tested
-- **Best pass rate: 55%** — no model exceeds this
-- Sharp capability boundaries across task domains
-- Divergent behavioral strategies between models
-- **Disconnect between token consumption and output quality** — more tokens ≠ better results
-
-## Why This Matters for AI in Education
-
-AcademiClaw flips the evaluation paradigm: instead of researchers designing artificial [[benchmark|benchmarks]], **students define what [[agentic-ai|AI agents]] should be able to do**. This aligns evaluation with real educational needs:
-
-1. **Authentic task validity**: Tasks reflect genuine academic workflows, not synthetic proxies
-2. **Capability gap diagnosis**: The 55% ceiling reveals where AI agents still fail students
-3. **Token-output disconnect**: Challenges the assumption that more compute solves academic problems — relevant to [[intelligent-tutoring|AI tutoring]] cost/benefit analysis
-4. **Safety in academic contexts**: The 5-category safety audit surfaces risks specific to educational AI deployment
-
-## What this means for practice
-
-- **Instructors.** Test an agent against real academic tasks before putting it in front of students: on AcademiClaw's 80 tasks distilled from 230 student submissions, the best of six frontier models passed only 55%, and 23 of 80 tasks (28.8%) defeated all six.
-- **Learners.** Do not treat a fluent agent answer as a solved problem on long-horizon work: eight of the 80 tasks drew every model below 50 out of 100, with olympiad-level math remaining universally unsolved.
-- **Software developers.** Build evaluations on authentic task specifications — natural-language prompt, reference materials, and a rubric withheld from the agent — and score them in an isolated sandbox, as AcademiClaw does across 25+ professional domains.
-- **Instructors.** Budget per task rather than per token: GPT-5.4 averaged 525K tokens and 240 seconds per task, while Gemini 3.1 Pro consumed 5.4× more tokens without a commensurate quality advantage.
-- **Designers.** Audit behavior, not just completion: AcademiClaw's five-category safety audit covers unauthorized file deletion or system modification and information leakage, with most models above 80 but Gemini 3.1 Pro at 74.9.
-
-## Limitations
-
-- Contributor pool concentrated at a single institution (SJTU) — limits cultural and disciplinary diversity
-- GPU-intensive tasks (16/80) require specialized hardware, limiting reproducibility
-- Bilingual but primarily Chinese university context
-- Safety audit releases aggregate statistics only, not full violation traces
-
-## Open Questions
-
-- How would the 55% pass rate change with iterative refinement or multi-agent collaboration?
-- Would results differ at non-Chinese universities with different academic workflows?
-- Can the benchmark be adapted for [[k-12|K-12]] or [[professional-training|professional training]] contexts?
-- What does the token-output disconnect imply for [[intelligent-tutoring|AI tutoring]] systems that bill by token usage?
-
- token usage?
-
-## Connected Concepts
-
-- [[benchmark]]
-- [[pedagogical-llm-training]]
-- [[agentic-ai]]
-- [[math-education]]
-- [[prompt-engineering]]
-- [[human-in-the-loop-ai]]
-- [[open-source]]
-- [[ai-ed-evaluation]]
-
-## Connected Articles
-
-- [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
-- [[ai-generated-feedback-higher-ed]] — Artificial intelligence and feedback in university education: effectiveness and student perceptions
-- [[scheu-mobile-chatbot-journaling-motivation-2026]] — Designing a mobile chatbot-based learning journaling system for intrinsic motivation and engagement
-
-## Citation
-
-Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., et al. (2026). [AcademiClaw: When Students Set Challenges for AI Agents](https://arxiv.org/abs/2605.02661).
-
----
-
 ## [Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups](https://edtechdev.github.io/aied/articles/acceptance-ai-english-tools-2026/)
 
 > **Synthesis:** Wu et al. (2026) examined how learning motivation, self-efficacy, anxiety, and risk perception relate to acceptance of AI-assisted English language learning in a Chinese higher-education context, building on the [[technology-acceptance-model|Technology Acceptance Model]] (TAM). Drawing on survey data from 210 undergraduates ([[stem-education|STEM]] = 91, [[humanities-education|Humanities]] = 119; English proficiency Low = 77, Intermediate = 103, High = 30), they found that learning motivation and self-efficacy were consistently and positively associated with acceptance-related indicators (perceived usefulness, perceived ease of use, behavioral intention, and satisfaction), while anxiety and risk perception showed more nuanced, generally weaker patterns that must be interpreted cautiously. The study provides a learner-centered account emphasizing psychological correlates and descriptive group-level differences rather than causal claims.
@@ -27243,7 +27162,7 @@ Role abandonment was most often triggered by Authority Challenge and Confusion a
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
 - [[mooc-to-maic]] — From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[agentic-workflows-education]] — Agentic Workflows in Education
 
 ## Citation
@@ -28145,8 +28064,8 @@ Kamalov et al. implemented a **multi-agent framework for [[automated-essay-scori
 ## Connected Articles
 
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[agentic-ai-pedagogical-best-practice-2026]] — Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning
 - [[teachbench-llm-teaching-evaluation]] — TeachBench - Evaluating LLM Teaching Ability
 - [[golrang-propact-pair-programming-2026]] — Collaborative AI Tutoring
@@ -30625,7 +30544,7 @@ Kovari, A. (2025). [*A systematic review of AI-powered collaborative learning in
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]]
-- [[multi-agent-instructional-design]]
+- [[wang-multi-agent-systems-learning-designers-2025]]
 - [[genai-educational-outcomes-meta-analysis]]
 - [[generative-ai-reduced-study-time-math]]
 
@@ -36492,7 +36411,7 @@ The authors advance "functional complementarity" as the organizing model: AI age
 - [[genai-simulate-patient-history-pbl-2026]] — Using Generative AI to Simulate Patient History-Taking in a Problem-Based Learning Tutorial: A Mixed-Methods Study
 - [[zhang-platform-scores-miss-ai-teaching-agents-2026]] — What Platform Scores Miss: Multidimensional Evaluation of AI Teaching Agents in Medical Education
 - [[ai-teammate-task-distribution-medical-training-2026]] — AI as Teammate: Rethinking Task Distribution in Medical Training
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
 - [[medgame-llm-medical-education-gamification]] — MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
 - [[genai-scenario-based-healthcare-education-2026]] — Generative AI in Scenario-Based Healthcare Education: A Systematic Review of Applications, Validation Practices, and Pedagogical Integration
@@ -37573,7 +37492,7 @@ Interviews revealed systematic differences beneath the behavioral patterns. Syst
 
 ## Connection to Agentic AI in Education
 
-The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes [[benchmark|benchmarks]] for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?** The findings also resonate with [[agentic-workflows-education]] and [[multi-agent-instructional-design]], which explore how educators author and govern multi-agent systems in classroom contexts.
+The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[chen-teacharena-language-agents-realistic-teaching-2026]] establishes [[benchmark|benchmarks]] for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?** The findings also resonate with [[agentic-workflows-education]] and [[wang-multi-agent-systems-learning-designers-2025]], which explore how educators author and govern multi-agent systems in classroom contexts.
 
 ## What this means for practice
 
@@ -37602,7 +37521,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 
 - [[teacher-ai-adoption-confidence]]
 - [[teachingcoach-chatbot-instructor-guidance]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [*Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design*](https://arxiv.org/abs/2605.13906).
@@ -37838,14 +37757,14 @@ In binary logistic regression predicting student-perceived helpfulness, engageme
 
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[stanford-evidence-base-ai-k12-2026]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[ai-pedagogical-accompaniment-amico]]
 - [[cong-confidence-asag-2026]]
 - [[clara-collaboration-literacy-dashboard]]
 - [[golrang-propact-pair-programming-2026]]
 - [[cstutorbench-slm-tutors]]
 - [[huang-interpretable-knowledge-tracing-2026]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Niousha, R., Smith, S.B., Akram, B., Brusilovsky, P., Hellas, A., Leinonen, J., DeNero, J., & Norouzi, N. (2026). [*The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness*](https://arxiv.org/abs/2605.05648)
@@ -38946,7 +38865,7 @@ Gayed, J. M. (2026). [AiAWE: An Open-Source LLM Automated Writing Evaluation Sys
 - [[ground-truth-reliability-aied]]
 - [[educational-llm-alignment]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[agency-gap-ai-writing]]
 - [[agent-voice-accents-k12-group-learning]]
@@ -43536,6 +43455,68 @@ Humble, N., & Mozelius, P. (2026). [Beyond the hype – How higher education sta
 
 ---
 
+## [Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems](https://edtechdev.github.io/aied/articles/beyond-static-lms-self-evolving-agentic-elearning-2026/)
+
+> **Synthesis:** This conceptual paper argues that the defining limit of the learning management system is not its feature list but the design-time logic that fixes its capability repertoire, so that even open source platforms and adaptive engines change only when developers, administrators or teachers act. The author proposes the Self-Evolving Agentic Learning System (SEALS), an institutionally governed system that senses learning conditions, reasons over pedagogical goals and constraints, composes or develops capabilities, evaluates their consequences and selectively retains, modifies or retires adaptations. Its architecture combines six interacting planes, four nested evolution loops, a stable core with an adaptive periphery, a bounded capability-evolution lifecycle, an autonomy ladder running from static delivery to co-evolving systems, and seven propositions for future empirical work. Its leading construct is capability personalization: an environment may change what it is able to do for a learner, not only the content it delivers, while [[guardrails|bounded organicity]] keeps that evolution evidence-bearing, reversible and answerable to people.
+
+## Key Findings
+
+- **Staticity is architectural, not a product flaw.** Platforms fix their functions at design time, so open source licensing and large plugin catalogues do not by themselves let a system recognize an unanticipated learner need and respond.
+- **Adaptive systems stay inside a fixed capability envelope.** They vary content, sequence and presentation within a predefined set of pedagogical actions, but they do not invent a new learning tool, collaboration pattern or interface.
+- **SEALS makes the repertoire itself adaptable.** The framework defines a system that senses conditions, reasons over pedagogical goals, composes or develops capabilities, evaluates outcomes and retains, modifies or retires adaptations.
+- **A stable core supports an adaptive periphery.** Enrollment, records, assessment rules, privacy controls and accessibility baselines stay fixed while interfaces, scaffolds and low-risk tools vary under contracts set by that core.
+- **Autonomy and self-extension are bounded by evidence.** The autonomy ladder runs from configurable environments to bounded self-extension and co-evolution; capabilities are composed before generated, verified, released in stages and retired.
+
+## Why static platforms cannot adapt
+
+The paper distinguishes configurability from adaptability. A configurable platform exposes settings that a person sets before use; an adaptive platform senses change and alters its behavior at runtime within human-defined bounds. Open source widens who may modify the code, yet a new function can still take months of development and release before any learner meets it, and plugin catalogues still require someone to anticipate the gap. Adaptive platforms vary pathways and feedback from learner data, but their designers still decide which variables can be sensed and which pedagogical actions exist. The paper calls the step beyond that boundary capability personalization: the environment's repertoire of functions becomes the object of [[personalized-learning|personalization]], not only the content delivered through a fixed repertoire.
+
+## The SEALS architecture
+
+SEALS is organized into six interacting planes rather than layers, because they exchange information laterally: learner experience and agency, agentic orchestration, learner and knowledge memory, capability composition and development, evidence and evaluation, and governance, reliability and infrastructure. Agents may propose and execute adaptations, but they do not set their own goals, grant permissions or certify their own safety; those rights sit with governance mechanisms and authorized people. Evolution runs through four nested loops: interaction over seconds to minutes, learning over hours to days, course design over weeks, and platform evolution over months and cohorts, so local signals do not automatically become permanent changes. A capability graph of versioned, contracted objects lets orchestration agents reason about what may be safely combined.
+
+## Bounded evolution, governance and evaluation
+
+Capability evolution follows a controlled lifecycle: observe need from behavioral, performance and expressed evidence; interpret it as a pedagogical hypothesis rather than a learner label; compose trusted components before generating anything new; verify against functional, security, accessibility, epistemic, pedagogical and fairness tests; release in stages with rollback available; then evaluate and retire. Generated code is an untrusted proposal confined to a sandbox. Governance classifies adaptations by consequence and reversibility, and grants learners practical rights to inspect, correct and contest inferences that shape their experience. The paper warns about [[learning-analytics|proxy optimization]]: time on task and completion are easy to measure, while transfer and intellectual independence are not, so local adaptations can drift from curriculum aims. Equity and [[accessibility]] are framed as design constraints rather than final checks.
+
+## What this means for practice
+
+- **Instrument and modularize before automating.** Reliable data contracts, APIs, component registries and accessibility standards are prerequisites for credible capability evolution.
+- **Compose before you generate.** Reusing trusted versioned components is faster and easier to reverse than producing new code, which stays sandboxed until it passes assurance.
+- **Protect a stable core and keep humans on high-consequence calls.** Identity, records, assessment rules and privacy controls should not change silently, and grading or progression stays under [[human-in-the-loop-ai|human control]].
+- **Budget for forgetting.** Retirement, rollback and a ledger that preserves negative results are design features, since systems otherwise accumulate complexity.
+
+## Limitations
+
+- **Conceptual framework, no empirical evaluation.** The paper reports no experiment, dataset, participants or measured outcomes, and the framework has not been validated through a full implementation.
+- **It synthesizes literatures of different maturity.** Findings from intelligent tutoring and adaptive learning do not automatically transfer to language-model agents, and software-agent benchmarks say little about durable learning.
+- **The architecture may overestimate current integration.** Reliable learner modeling, agent orchestration, capability contracts, automated assurance and causal evaluation are each difficult today, and their interaction may create unanticipated failure modes.
+
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[adaptive-learning]]
+- [[personalized-learning]]
+- [[self-regulated-learning]]
+- [[learning-design]]
+- [[intelligent-tutoring]]
+- [[human-ai-collaboration]]
+- [[guardrails]]
+- [[explainable-ai]]
+- [[accessibility]]
+
+## Connected Articles
+
+- [[wang-multi-agent-systems-learning-designers-2025]] : Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
+- [[agentic-workflows-education]] : Evolution of AI in Education: Agentic Workflows
+- [[beyond-agent-label-agentic-ai-governance-2026]] : Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education
+
+## Citation
+
+[*Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems*](https://osf.io/preprints/edarxiv/27upe_v1/). John Cheung. EdArXiv preprint, submitted August 21, 2026. DOI 10.35542/osf.io/27upe_v1
+
+---
+
 ## [Beyond the algorithm: academic developers as digital mediators in Global South higher education](https://edtechdev.github.io/aied/articles/beyond-the-algorithm-academic-developers-digital-mediators-2026/)
 
 > **Synthesis:** Sithole interviews twelve [[educational-development|academic developers]] and learning designers — six each at two South African Historically Disadvantaged Institutions — to ask what [[generative-ai|AI]] integration looks like when it arrives at [[higher-ed|universities]] still shaped by apartheid-era underfunding. Read through [[critical-pedagogy|Critical Digital Pedagogy]] and decolonial theory, their accounts describe work that is not technical implementation but mediation across three registers: pedagogical, [[ethics|ethical]] and institutional. Institutional AI rhetoric was "performance more than practice," [[educational-policy-ai|policy]] loosely coupled to infrastructure, while developers filtered the hype through questions about students who struggle with Wi-Fi, absorbed the [[anxiety-and-stress|affective cost]] of projecting expertise they were still acquiring, and built peer spaces to test and deliberately break tools rather than master them. The paper's sharpest analytical move is to separate **digital inequality**, a [[digital-divide|distributive problem]] answerable through access, from **algorithmic coloniality**, an epistemic problem that survives full access because it inheres in what the systems encode. The claim that follows is that AI adoption in [[global-south|Global South]] institutions is a negotiation over pedagogy, institutional purpose and epistemic justice, not a technology rollout.
@@ -45241,7 +45222,7 @@ Tutal, Ö. (2026). [*Artificial intelligence assisted design of a novel cooperat
 
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: evaluating LLM teaching ability
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster Challenge: benchmark of pedagogical content knowledge
-- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench: agent teaching benchmark
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — EduAgentBench: agent teaching benchmark
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
 
@@ -47158,6 +47139,67 @@ Chen, P.-H., Lee, H.-Y., Huang, Y.-M., & Wu, T.-T. (2026). [*Unpacking the heter
 
 ---
 
+## [TeachArena: Are Language Agents Ready for Realistic Teaching Work?](https://edtechdev.github.io/aied/articles/chen-teacharena-language-agents-realistic-teaching-2026/)
+
+> **Synthesis:** Chen and colleagues ask whether language agents are ready for realistic teaching work, not for answering questions about teaching. TeachArena holds 354 audited tasks across three surfaces: professional pedagogical judgment under packaged evidence, situated multi-turn tutoring with a simulated learner, and end-to-end workflows in a Canvas-style learning management system. The tasks span six teacher-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating. Success means satisfying an evidence-to-trace contract, not matching a preferred answer style, and across 17 frontier models bounded judgment is largely manageable (mean 0.893) while situated tutoring and institutional action are not: rankings reshuffle and workflow scores top out at 0.704. The authors name this the knowing, teaching, and acting gap.
+
+## Key Findings
+
+- **Three surfaces, scored separately**: pedagogical judgment (117 tasks), situated multi-turn tutoring (100), and end-to-end LMS workflows (137).
+- **Bounded judgment is strong and compressed.** Stage 1 averages 0.893 across 17 models (range 0.799 to 0.947).
+- **Stage rankings reshuffle.** Rank correlations are weak with judgment (0.24) and workflows (0.21), and the median model moves seven positions between its best and worst stage.
+- **Workflow execution does not saturate.** Claude Opus 4.8 has the highest overall estimate (0.803) and the only top-three placement on every stage, yet scores 0.773 on tutoring and 0.704 on workflows.
+- **Two stress conditions recur.** The strategic surface learner is the lowest-scoring profile for 15 of 17 models (0.702 against 0.757), and the six long-chain workflows average 0.321 against 0.559.
+
+## What the benchmark measures, and how tasks are grounded
+
+Stage 1 supplies the evidence and asks for the warranted decision plus its mechanism, with tools frozen to isolate teacher reasoning; its 117 tasks comprise 26 MathDial transformations, 17 MathTutorBench transformations, 22 OER/literature-grounded cases, and 52 authored evidence contracts. Stage 2 fixes the target concept and the learner's starting state but leaves the path open; its 100 tasks span 13 disciplines, 64 new scenarios and 36 adaptations, and replies come from Qwen3-Max at T = 0 under a hidden profile the tutor never sees. Stage 3 spreads records across a deterministic Canvas-style LMS (126 learners, 432 course enrollments, 222 assignment records, 1,058 quiz attempts, 13 editable presentations) and requires the agent to carry an instructor's objective to a verified intervention. Grounding is insight-first: source evidence, published pedagogy, or deterministic data fixes the target mechanism before the prompt is written, and verifier coverage is declared per stage: 117 semantic assertions and 100 response anchors in Stage 1; tutor turn, trajectory, and learner outcome in Stage 2 (100, 100, and 98 tasks); environment and semantic checks across all 137 Stage 3 tasks, with process (123), goal state (87), and artifact quality (83) subsets.
+
+## What the model evaluation revealed
+
+Across 17 frontier models, enactment did not match judgment. Stage 1 averaged 0.893 in a narrow band, so packaged evidence is manageable, and weak correlations across surfaces mean strong judgment predicts little about adaptive teaching. Claude Opus 4.8 has the highest overall estimate (0.803) and the only top-three placement on every stage, yet does not saturate the tutoring (0.773) or workflow (0.704) contracts. Gemini-2.5-Pro is second on tutoring but twelfth on workflows, GPT-5.5 is fourth on workflows but sixteenth on tutoring, and Kimi K2.6 and Qwen3-Max differ by only 0.009 overall while trading 0.078 on tutoring. The authors read this as a knowing, teaching, and acting gap rather than one capability ordering.
+
+## Why over-helpfulness and long chains fail
+
+Two failure modes recur. The strategic surface learner is the lowest-scoring of six controlled profiles for 15 of 17 models; it stays interactive while pushing for shortcuts, so preserving learner ownership is the hard part. The six long-chain workflows average 0.321 against 0.559 for other families, read as composition pressure across retrieval, diagnosis, persistent state, artifacts, and communication, not proof that chain length causes failure. Case audits show why local competence does not compose. In MM-04, an ECON101 instructor requests visual remediation from the Fall 2023 midterm and the existing Week 5 deck; the agent must recover the weak knowledge components, revise that deck, create a targeted quiz, and only then notify the class. GPT-5.5 closes that loop, GLM-5.1 leaves the assigned deck unchanged, and Gemini-3.1-Pro misses required numeric or visual evidence. In S0-54 a statistics learner answers 0.99 for a rare disease, reaches the correct posterior of 1/6, and still catches a mixed diagnosis because the tutor supplies the interpretation she should construct; an answer-only check would record success.
+
+## What this means for practice
+
+- **Evaluate tutor agents on teaching, not answering.** Ask whether the system elicits learner reasoning, adapts after failure, and verifies transfer.
+- **Report judgment and enactment separately.** A high score on packaged teaching decisions says little about the same system in a tutorial or workflow.
+- **Treat consequential LMS action as bounded delegation.** Require that evidence precede action, that changes land in designated objects, and that messages stay within authorized audiences.
+- **Expect over-helpfulness and design against it.** Systems are weakest with shortcut-seeking learners, so objectives should reward calibrated support over immediate answers.
+
+## Limitations
+
+- **Simulated learners and a synthetic LMS.** Controlled comparison excludes any link to real classrooms or longitudinal learning outcomes.
+- **Coverage is weighted toward STEM** even though tutoring spans 13 disciplines, so findings may not transfer to other subjects or learner populations.
+- **Task-level contracts, not learning.** Success means satisfying an evidence-to-trace contract, and the transfer probe uses one fixed weak model with zero headline weight.
+- **Frontier models only.** The board summarizes 17 frontier overlays, so these profiles say nothing about smaller or self-hosted systems.
+
+## Connected Concepts
+
+- [[pedagogical-agent]]
+- [[benchmark]]
+- [[intelligent-tutoring]]
+- [[simulating-students]]
+- [[scaffolding]]
+- [[formative-assessment]]
+
+## Connected Articles
+
+- [[astra-multi-agent-tutoring-benchmark-2026]]
+- [[measuring-llm-tutors-teach-vs-solve]]
+- [[teachbench-llm-teaching-evaluation]]
+- [[cdpk-pedagogy-benchmark-llms]]
+- [[ai-agents-complete-lms-assessment-validity-2026]]
+
+## Citation
+
+Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [*TeachArena: Are language agents ready for realistic teaching work?*](https://arxiv.org/abs/2605.14322). arXiv:2605.14322 (version 3, revised August 2026). https://doi.org/10.48550/arXiv.2605.14322
+
+---
+
 ## [Students' Agency in GenAI-Mediated Group Assessment: An Ecological-Emergent Perspective](https://edtechdev.github.io/aied/articles/chen-zou-genai-group-assessment-agency-2026/)
 
 > **Synthesis:** Chen and Zou (2026) ask how students exercise [[agency]] when [[generative-ai|GenAI]] enters an authentic [[group-work|group-based assessment]]. Drawing on 15 focus group interviews with 52 pre-service teachers in a multicultural education course, plus an interview with the instructor, they identify three patterns rather than one enthusiasm-to-avoidance spectrum: **cooperation-oriented agency** (five groups intensified GenAI use to hold the group's work together and protect its performance), **normative agency** (seven groups deliberately restrained use to protect authenticity, [[bias-mitigation|fairness]], originality, and diversity of perspectives), and **non-enacted agency** (three groups whose GenAI practice never changed from individual work). Because all three patterns were negotiated, not simply caused by the tool, the authors argue the negotiation of acceptable GenAI use should itself become an explicit, assessable learning outcome.
@@ -48976,7 +49018,7 @@ On quality [[benchmark|benchmarks]], CogEvol-27B scores 83.7 on a slide suite an
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Student Perception
 - [[ai-generated-instructional-videos-computing-ed]] — AI-Generated Instructional Videos
 - [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code
-- [[multi-agent-instructional-design]] — Multi-Agent Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Instructional Design
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents for Course Generation
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI Instructional Design Review
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain, Then Amplify Curriculum Framework
@@ -49077,95 +49119,6 @@ The ablation study (RQ3) isolates each module's contribution: removing the ICAP 
 ## Citation
 
 Zhang, W., Cheng, Y., Ye, Z., & Huang, K. (2026). [*CogEvolution: A human-like generative educational agent to simulate student's cognitive evolution*](https://arxiv.org/abs/2604.14786). arXiv preprint.
-
----
-
-## [Cognitive Agent Compilation for Explicit Problem Solver Modeling](https://edtechdev.github.io/aied/articles/cognitive-agent-compilation/)
-
-> **Synthesis:** **Cognitive Agent Compilation (CAC)** is a framework that uses a strong teacher [[llm]] to compile [[problem-solving]] knowledge into an explicit, inspectable target agent. Unlike end-to-end LLM tutoring approaches, CAC separates the agent into three components:
-
-## Core Idea
-
-
-1. **Knowledge representation** — explicit, structured representation of domain knowledge (skills, [[misconceptions]], strategies)
-2. **Problem-solving policy** — how the agent applies knowledge to solve problems
-3. **Verification and update rules** — mechanisms for checking correctness and updating the knowledge state
-
-The goal is **bounded-knowledge AI** for education: agents that know what they know, can explain their reasoning in terms of explicit skills, and can be inspected and edited by educators.
-
-## Motivation
-
-LLMs are widely used for tutoring, feedback generation, and content creation, but their broad pretraining makes them hard to constrain. Key problems:
-
-- **Inability to "not know"**: LLMs struggle to simulate a state of not knowing, making them poor proxies for student learners. Evidence suggests Chain-of-Thought and reasoning models operate fundamentally differently from human cognition.
-- **Expert blind spot**: Even human experts struggle to teach effectively without [[pedagogy|pedagogical]] training. LLMs, having absorbed vast unconstrained information, face an amplified version of this problem.
-- **Inspectability gap**: Educators need to know what a system assumes the learner knows; learners benefit when the system can justify actions in terms of explicit skills, misconceptions, and strategies. Opaque LLMs can't provide this.
-
-## Architecture
-
-CAC draws inspiration from **cognitive architectures** (ACT-R, SOAR) and compiles LLM knowledge into explicit, inspectable agents. The three separable components enable:
-
-- **Inspectability**: Educators can examine the knowledge representation and problem-solving policy directly
-- **Editability**: Knowledge states can be corrected or refined without retraining
-- **Bounded reasoning**: The agent operates within explicit knowledge boundaries rather than leveraging unbounded pretraining
-
-A proof of concept was implemented using **Small Language Models (SLMs)**, surfacing key design trade-offs between explicit control and scalable generalization.
-
-## Connection to Existing Work
-
-CAC connects to several threads in [[ai-education|AI education]] [[research-methods-aied|research]]:
-
-- **[[huang-interpretable-knowledge-tracing-2026]]**: CAC makes [[knowledge-tracing|knowledge tracing]] explicit and inspectable, complementing interpretable approaches like IRT-based knowledge tracing
-- **[[neural-symbolic-knowledge-tracing]]**: Shares the goal of combining explicit (symbolic) knowledge representation with neural approaches for interpretable [[student-modeling|learner modeling]]
-- **[[agentic-workflows-education]]**: CAC is a specific agentic architecture for education, separated into knowledge, policy, and verification components
-- **[[adaptive-learning]]**: CAC enables adaptive behavior grounded in explicit, editable learner models
-- **[[nie-personavlm-long-term-personalization-2026]]**: CAC addresses the learner modeling challenge from the knowledge representation angle, complementing memory-based approaches
-- **[[pedagogical-llm-training]]**: CAC offers an alternative to training pipelines — compile rather than train for pedagogical alignment
-- **[[personalized-learning]]**: Explicit learner models in CAC enable personalization that is inspectable and editable by educators
-- **[[prober-ai-inquiry-writing]]**: Both approach bounded-knowledge tutoring from different angles — CAC via compilation, Prober via inverted questioning
-
-## Open Questions
-
-- **Scalability vs. control trade-off**: The proof of concept surfaces tension between explicit, editable representations and the scalability of end-to-end LLM approaches
-- **Compilation fidelity**: How faithfully can a teacher LLM compile its knowledge into a bounded agent?
-- **Domain breadth**: The initial implementation is [[discipline-specific-aied|domain-specific]] — can CAC generalize across subjects?
-- **Bounded rationality in practice**: Does bounded-knowledge AI actually improve educational outcomes compared to unbounded LLM tutors?
-
-## What this means for practice
-
-- **Designers.** Treat the explicit knowledge base, not the language model, as the editable surface: expose skills, [[misconceptions]], and strategies as inspectable entries that an educator can correct without retraining the model.
-- **Designers.** Add a selective retrieval layer before scaling the knowledge base. In the proof of concept the agent stalled once the base grew to 188 Declarative Memory entries, because similarity-based retrieval stopped surfacing newly added items.
-- Run a knowledge-ablation check before deployment: remove a core knowledge entry and confirm the agent then fails problems that require it. If it still answers correctly, the executor is drawing on pretraining rather than the compiled representation.
-- Match executor scale to the domain instead of assuming one size works. A 2B SLM was needed to hold the structured output format, while the authors report that larger models solve problems on their own and smaller ones break instruction-following.
-- **Researchers.** Validate compiled knowledge components against real learner data — for example by building a [[knowledge-tracing|knowledge tracing]] model on them — before presenting them as a [[student-modeling|learner model]].
-
-## Limitations
-
-- The contribution is an early proof of concept: 27 biology problems from a single dataset, OLI_Biology from CMU DataShop, and none of the design goals were validated against student traces.
-- The run was terminated at the 28th problem after 150 failed compilation iterations, so behavior once the knowledge base keeps growing beyond 188 entries is untested.
-- Every component ran zero-shot with no fine-tuning, and after six instruction-tuned SLMs below 1 billion parameters failed to follow the structured format the design narrowed to one 2B model (Qwen2.5-2B) — results may therefore be model-specific.
-- The two proposed checks on remaining black-box reliance, knowledge ablation against answer persistence and downstream validation through [[knowledge-tracing|knowledge tracing]], are described as future work rather than executed tests.
-
-## Connected Concepts
-
-- [[adaptive-learning]]
-- [[agentic-ai]]
-- [[knowledge-tracing]]
-- [[llm]]
-- [[pedagogical-llm-training]]
-- [[personalized-learning]]
-- [[student-modeling]]
-
-## Connected Articles
-
-- [[huang-interpretable-knowledge-tracing-2026]]
-- [[neural-symbolic-knowledge-tracing]]
-- [[agentic-workflows-education]]
-- [[nie-personavlm-long-term-personalization-2026]]
-- [[prober-ai-inquiry-writing]]
-## Citation
-
-Moon, H., Rosé, C., & Stamper, J. (2026). [Cognitive Agent Compilation for Explicit Problem Solver Modeling](https://arxiv.org/abs/2605.07040). Accepted to AIED 2026 Blue Sky.
 
 ---
 
@@ -51202,7 +51155,7 @@ Whereas most current ITS function, in essence, as interactive and adaptive probl
 ## Connected Articles
 
 - [[learnmate2-llm-adaptive-learning]] — LearnMate^2: Design and Evaluation of an LLM-powered Personalized and Adaptive Support System for Online Learning
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[ai-coaching-rl-skill-development]] — AI Coaching for Accelerating Human Skill Development with Reinforcement Learning
 - [[ai-stem-bibliometric-trends]] — Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda
 - [[retrieval-augmented-tutoring-algorithm-kite]] — Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education
@@ -52706,7 +52659,7 @@ The result complicates the knowledge base's [[academic-integrity]] thread: polic
 - [[genai-policies-higher-ed-computing]]
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[adaptive-pretesting-retention]]
@@ -55042,7 +54995,7 @@ Kumar, V., Mishra, S., Hao, R., Malik, R., Broman, D., & Demszky, D. (2025). *[D
 - [[teachingcoach-chatbot-instructor-guidance]]
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adaptive-pretesting-retention]]
 - [[affective-text-wearable-student-health]]
@@ -56239,69 +56192,6 @@ Seyed Parsa Neshaei, Abhinand Shibu, Fatma Betül Güres (2026). [The Missing La
 
 ---
 
-## [TeachArena: Are Language Agents Ready for Realistic Teaching Work?](https://edtechdev.github.io/aied/articles/eduagentbench-agent-teaching-benchmark/)
-
-> **Synthesis:** Chen et al. (2026) introduce TeachArena, a theory-grounded, source-grounded [[benchmark]] for evaluating AI tutor agents across the full scope of real [[teacher-role|teaching]] work. Unlike benchmarks that test answer correctness or single-turn tutoring, TeachArena defines **354 audited tasks** across three complementary capability surfaces — professional [[pedagogy|pedagogical]] judgment, [[situated-learning|situated]] multi-turn tutoring, and end-to-end LMS teaching workflow execution — and evaluates frontier models against them. The central finding is that **knowing pedagogy and enacting it are separable capabilities**: models are generally capable of bounded pedagogical judgment but still fall short of professional teaching standards in situated tutoring and end-to-end teaching-workflow execution. Because stage rankings reshuffle, no single scalar describes a model's readiness to teach.
-
-## Key Findings
-
-1. **Knowing and doing separate.** Stage 1 scores are high under a bounded-evidence contract (mean 0.893; range 0.799–0.947), while workflow scores top out at 0.704.
-2. **Capability surfaces are separable, not one latent skill.** GPT-5.5 ranks fourth on workflows but 16th on tutoring; Gemini-2.5-Pro is second on tutoring (0.769) but 12th on workflows (0.477).
-3. **Rank reshuffling is systematic.** Stage 2 correlates weakly with both Stage 1 (ρ = 0.24) and Stage 3 (ρ = 0.21), and the median difference between a model's best and worst stage rank is seven positions.
-4. **Long chains expose composition pressure.** The six long-chain workflows average 0.321 versus 0.559 across the other Stage 3 families, and are the lowest-scoring family for 15 of 17 models.
-5. **Over-helpfulness is a practical failure mode.** The strategic surface learner, interactive but soliciting shortcuts, is the lowest-scoring of six profiles for 15 of 17 models, averaging 0.702 versus 0.757.
-
-## The Gap This Benchmark Addresses
-
-Existing [[benchmark|benchmarks]] assess subject-matter competence or local tutoring support: solving exam items, giving hints, or answering one student query. Those signals do not reveal whether an agent can adapt [[scaffolding]] after repeated failure, distinguish a lucky answer from genuine understanding, or verify students' [[transfer-of-learning|transfer of knowledge]]. Agent benchmarks test tool use but rarely define success as completing a teaching workflow, so a model can call the right tool while acting on the wrong evidence. TeachArena's 354 audited tasks each build around a pedagogical insight and span six teacher-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating.
-
-## Three Capability Surfaces
-
-The stages are complementary diagnostic surfaces, not an ordered difficulty scale. **Stage 1, pedagogical judgment**, asks for a bounded decision from packaged evidence: 117 tasks, from 26 MathDial transformations, 17 MathTutorBench transformations, 22 OER/literature-grounded cases, and 52 authored evidence contracts. **Stage 2, [[situated-learning|situated]] tutoring**, fixes the instructional target but makes each tutor move change the next learner evidence: 100 tasks across 13 disciplines, comprising 64 new OER/MathDial-grounded scenarios and 36 adaptations. **Stage 3, end-to-end LMS workflows**, spreads evidence across a synthetic Canvas-style LMS — 126 learners, 432 course enrollments, 222 assignment records, 1,058 quiz attempts, and 13 editable presentations — and asks whether an agent can carry an instructor's request to verified closure through grading, revision, and [[feedback]] to authorized recipients: an [[governance|institutional]] action, not a recommendation.
-
-## Construction and Verification
-
-Tasks come from a pedagogical-insight-driven pipeline: each starts from a target instructional insight, is grounded in educational material or course state, and becomes a teacher judgment, a tutoring dialogue, or an LMS workflow with a matched verifier. Stage 1 requires a warranted decision plus mechanism-sensitive justification, with a programmatic response anchor where one is admissible (semantic assertions 117; response anchors 100). Stage 2 combines tutor moves, the episode-wide policy, and learner-produced change discounted once the tutor has revealed the reasoning (turn policy 100; trajectory 100; learner outcome 98); learner replies come from a controlled simulator running Qwen3-Max at T = 0. Stage 3 conditionally composes semantic, state, process, and artifact checks (environment 137; semantic 137; process 123; goal state 87; artifact quality 83).
-
-## What the Cases Reveal
-
-Two audited cases localize failures that aggregate rewards cannot. In the Stage 2 episode S0-54, a learner who reverses a conditional gets a mixed diagnosis even after reaching the correct posterior: the outcome is right, learner-owned repair is not. In the Stage 3 workflow MM-04, an ECON101 instructor asks for visual remediation from the Fall 2023 midterm and the existing Week 5 deck; the agent must recover the weak knowledge components, revise the named deck, create a targeted quiz, and only then notify the class. GPT-5.5 closes that loop, GLM-5.1 leaves the assigned deck unchanged, and Gemini-3.1-Pro misses required numeric or visual evidence — local competence is not compositional, with consequences for [[agentic-workflows-education]], [[conversational-ai-tutors-framework|tutor frameworks]], and what [[intelligent-tutoring]] systems can be asked to do unaided.
-
-## What this means for practice
-
-- **Instructors.** Do not read one benchmark number as readiness: workflow scores top out at 0.704 while Stage 1 judgment averages 0.893, so an agent that reasons well about teaching may still fail to carry it out.
-- **Instructors.** Treat over-helpfulness as the likeliest tutoring failure: the strategic surface learner is the lowest-scoring of six profiles for 15 of 17 models, averaging 0.702 against 0.757.
-- **Designers.** Build for the evidence-to-action chain, not a good answer: in MM-04 the agent has to recover the historical evidence and edit the assigned deck before it announces anything, so [[human-in-the-loop-ai|oversight]] and state checks belong inside the deployment.
-- **Administrators.** Choose tutor tools on their stage profile instead of an overall score — one model ranked fourth on workflows but 16th on tutoring — and pilot the operational constraints the benchmark measures.
-
-## Limitations
-
-- The controlled design uses simulated learners in Stage 2 and a synthetic LMS in Stage 3, so it shows whether an agent preserves a bounded teaching contract, not whether real students learn more.
-- Coverage spans multiple disciplines but remains weighted toward STEM, and linking these controlled episodes to longitudinal learning outcomes is stated as future work.
-- Success is conjunctive, so a low score can reflect one late handoff: the six long-chain workflows average 0.321 against 0.559 elsewhere and are the lowest-scoring family for 15 of 17 models.
-- The reported board summarizes 17 frontier models, so these stage profiles say nothing about smaller or self-hosted systems.
-
-## Connected Concepts
-- [[benchmark]]
-- [[pedagogical-agent]]
-- [[ai-ed-evaluation]]
-- [[intelligent-tutoring]]
-- [[scaffolding]]
-- [[feedback]]
-- [[human-in-the-loop-ai]]
-
-## Connected Articles
-
-- [[agentic-workflows-education]]
-- [[conversational-ai-tutors-framework]]
-- [[multi-agent-instructional-design]]
-- [[teachbench-llm-teaching-evaluation]]
-## Citation
-
-Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [*TeachArena: Are language agents ready for realistic teaching work?*](https://arxiv.org/abs/2605.14322).
-
----
-
 ## [EducaSim: Interactive Simulacra for CS1 Instructional Practice](https://edtechdev.github.io/aied/articles/educasim-cs1-instructional-practice/)
 
 > **Synthesis:** **Generative agents that simulate a small-group classroom section offer low-cost, scalable, experiential [[pedagogy|teaching practice]] for instructors — especially in massive online courses.** EducaSim implements diverse pedagogical-based student personas, actual course material, and agent-based architectures so teachers-in-training can practice instruction through role play without the trained-facilitator overhead that makes live role play hard to scale. Deployed as an optional preparation tool in a six-week CS1 course supporting ~20,000 students (focused on 150 of 1,300 volunteer teachers), it logged 254 sessions with a mean duration of ~16 minutes, and teachers who engaged generally found it a positive experience. The framework is designed to fix three weaknesses of prior student [[simulation|simulations]]: lack of in-context domain knowledge, inconsistent agent behavior, and missing feedback/self-reflection.
@@ -56721,7 +56611,7 @@ Large language models (LLMs) power educational applications from tutoring to ess
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[jeon-isd-agent-bench-2026]] — ISD Agent Benchmark
 - [[xie-hillm-cd-2026]] — HiLLM-CD: LLM-Enhanced Hierarchical Cognitive Diagnosis
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[llm-cognitive-diagnosis-handwritten-math]] — Benchmarking Large Language Models for Diagnosing Students' Cognitive Skills from Handwritten Math Work
 - [[knowledge-gap-detection-ai-tas]] — Detecting Knowledge Gaps from Conversational AI Interactions Using Curriculum Prerequisite Graphs
 
@@ -56870,7 +56760,7 @@ The paper advocates treating **kind-but-correct behavior** as a **safety require
 - [[prompt-injection-defenses-educational-llm-tutors]]
 - [[socially-fluent-ai-identity-detection]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 ## Citation
 
 Kasneci, E., & Kasneci, G. (2026). [Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks](https://arxiv.org/abs/2605.14604).
@@ -57616,11 +57506,11 @@ The two education-specialized models, among the strongest education-oriented sys
 ## Connected Articles
 
 - [[teachbench-llm-teaching-evaluation]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[nsmq-riddles-science-math-benchmark]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[knowledge-distillation-ai-tutor-evaluation]]
 - [[eduframetrap-llm-sycophancy-educational-safety]]
 
@@ -61235,7 +61125,7 @@ The related work places the finding in a familiar trajectory. Bowman and Dahl's 
 - [[ai-grading-handwritten-physics-2026]] — Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes
 - [[ai-scoring-language-bias-physics]] — AI-based scoring systematically underestimates conceptual understanding of linguistically weak students' explanations in physics
 - [[astra-multi-agent-tutoring-benchmark-2026]] — ASTRA: A synthetic benchmark for trace-based evaluation of socially intelligent multi-agent tutoring
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
+- [[yu-academiclaw-student-challenges-ai-agents-2026]] — AcademiClaw: When Students Set Challenges for AI Agents
 - [[assessment-latent-structure-human-llm-2026]] — Do Assessment Instruments Measure the Same Thing for Humans and LLMs? A Latent Structure Analysis
 - [[ai-tutor-behavioral-evaluation]] — The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness
 - [[agreement-not-quality-llm-coding-verification]] — Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
@@ -70399,6 +70289,66 @@ Ikram, M., Hanefar, S. B. M., Saleem, S. M. U., & Zulfiqar, F. (2026). [*Artific
 
 ---
 
+## [A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems](https://edtechdev.github.io/aied/articles/ikram-multi-agent-personalized-math-problems-2026/)
+
+> **Synthesis:** Ikram, Ashok Kumar, Lu, McNichols, Walkington, Heffernan, and Lan (2026) treat personalization of math word problems as an iterative generate, validate, and revise process run by cooperating agents rather than as one generation step. A conversion agent rewrites an existing problem against a student interest topic, four validator agents judge solvability, realism, readability, and authenticity, and refinement agents turn that feedback into the next candidate. The authors compare three ways of coordinating that feedback across 600 ASSISTments problems personalized to 20 interest topics: centralized refinement, centralized refinement with planning, and decentralized refinement, in which each validator pairs with its own reviser. Authenticity and realism fail most often in first drafts, yet one refinement iteration removes much of the damage. Which strategy wins depends on the criterion: decentralized refinement converges fastest on realism and readability, planning-based centralization fastest on authenticity. In a study of 45 problems, validator agents agreed fairly with human annotators on realism, less on readability, and only slightly on authenticity.
+
+## Key Findings
+
+- **Personalization is framed as validation and revision, not one-shot generation.** A conversion agent, four independent validators, and refinement agents run in a loop capped at three iterations.
+- **Authenticity and realism are the dominant first-draft failures.** Across 600 ASSISTments problems personalized to 20 interest topics, initial outputs most often broke plausible quantities or age-appropriate relatability.
+- **Most repair happens in a single iteration.** Failure counts drop sharply after one generate, validate, revise cycle, and solvability failures, rare at the start, approach zero after one pass.
+- **Strategy strength is criterion dependent.** Decentralized refinement, where each validator has a dedicated reviser, reaches low realism and readability failure counts fastest, while planning-based centralization converges fastest on authenticity.
+- **Validator reliability tracks how objective the criterion is.** Against three annotators on 45 problems, realism agreement was fair, readability accuracy high, and authenticity agreement only slight.
+- **Failure patterns vary by topic and curriculum unit.** Media topics such as Twitter and TikTok attracted authenticity failures, while sports, games, and measurement units concentrated realism and readability failures.
+
+## The task and the four validator agents
+
+The system adapts an existing problem to a target topic while holding on to its mathematical structure, its solutions, and its grade-appropriate language. A conversion agent takes the original problem, the topic, and a target grade reading level computed with the Flesch-Kincaid metric, and produces a candidate. Four validators then return a binary pass or fail plus short diagnostic feedback. The solvability agent solves the problem to check consistency with the original. The realism agent asks whether quantities, units, and contextual details are plausible within the topic. The readability agent compares vocabulary and sentence complexity against the original and the grade level. The authenticity agent asks whether the personalized context is age-appropriate and relatable to middle school learners.
+
+## Coordinating feedback: three refinement strategies
+
+Because the four criteria can pull against one another, the paper isolates the coordination question. Centralized Refinement concatenates feedback from every failing validator into one message and has a single refinement agent produce the next candidate. Centralized Refinement with Planning inserts a planning agent that turns that aggregated feedback into a prioritized checklist, putting correctness-preserving fixes such as mathematical consistency ahead of stylistic edits. Decentralized Refinement pairs each validator with a specialist reviser that sees only that validator's feedback, applying revisions sequentially in the fixed order of correctness, realism, authenticity, and readability, so localized edits are not entangled. All strategies run at most three iterations and stop early on a full pass, and all were tested with GPT-5.2 at temperature zero against a Zero-Shot baseline.
+
+## Validator reliability and the trade-offs inside one problem
+
+Three annotators with college-level mathematics backgrounds labeled 45 sampled Zero-Shot problems for realism, readability, and authenticity; solvability was dropped as too rare. The realism validator reached Cohen's kappa of 0.322 and accuracy of 0.667, readability reached accuracy of 0.800 despite a low kappa, and the authenticity validator sat near chance with accuracy of 0.511. Agreement among the human annotators was itself only slight for authenticity, which the authors link to genuine subjectivity and to differing domain knowledge, citing a baseball problem stated in tenths of innings that validators failed and annotators passed. A signed multiplication problem personalized to Led Zeppelin shows the trade-offs: centralized refinement kept the signed operands but added little context, planning built a rich sticker-purchase scenario that turned negative multiplication positive, and decentralized refinement achieved narrative coherence while implying a different product.
+
+## What this means for practice
+
+- Treat generated personalization as a draft to be checked, not a finished item, and budget one validation and revision pass before students see it.
+- Match the coordination pattern to the criterion: localized realism and readability fixes respond well to dedicated revisers, while authenticity needs holistic, planned revision.
+- Keep mathematical structure and pedagogical intent under review, since a more realistic scenario can silently change what the problem is practicing.
+- Ask teachers or students to confirm authenticity, because validators and annotators both struggle to judge relatability without topic familiarity.
+
+## Limitations
+
+- The human evaluation is small, with three annotators and 45 problems, so validator reliability estimates remain coarse.
+- No teachers or students participated, and the study measures problem quality rather than any effect on learning outcomes.
+- All results come from one model at temperature zero and a fixed set of 20 interest topics.
+
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[pedagogical-agent]]
+- [[personalized-learning]]
+- [[llm]]
+- [[human-ai-collaboration]]
+- [[problem-solving]]
+
+## Connected Articles
+
+- [[walkington-teachers-multi-agent-personalized-problem-generation-2026]]: Teacher-driven context personalization with large language models
+- [[proiqa-math-item-quality-assessment-2026]]: Assessing the quality of generated math items
+- [[wang-multi-agent-systems-learning-designers-2025]]: Multi-agent workflows for instructional design
+- [[taklif-ai-interest-based-personalized-assignments]]: Personalizing assignments to student interests with AI
+
+## Citation
+
+Ikram, F., Ashok Kumar, N., Lu, J., McNichols, H., Walkington, C., Heffernan, N., & Lan, A. S. (2026). [*A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems*](https://arxiv.org/abs/2604.05160). Published in AIED 2026: The 27th International Conference on Artificial Intelligence in Education. arXiv:2604.05160. https://doi.org/10.48550/arXiv.2604.05160
+
+---
+
 ## [IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems](https://edtechdev.github.io/aied/articles/iks-instruct-dataset-indian-knowledge/)
 
 > **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for instruction tuning. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.
@@ -72078,7 +72028,7 @@ ISD-Agent-Bench operationalizes [[learning-design|instructional design theory]] 
 - [[rag]]
 ## Connected Articles
 
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[agentic-workflows-education]] — Agentic Workflows in Education
@@ -75755,7 +75705,7 @@ At its core, LecturaAgents mirrors a professor–student relationship: a Profess
 - [[learning-engagement-assistant-lea]] — Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System
 - [[kt4eqg-personalized-question-generation]] — KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing
 - [[ai-lms-middle-school-longitudinal]] — AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[nie-personavlm-long-term-personalization-2026]] — LLM Student Modeling and Long-Term Memory Architecture
 
 ## Citation
@@ -75865,6 +75815,128 @@ Lee, J., & Anson, D. W. J. (2027). [*K-12 teachers' perspectives on AI use in ed
 ## Citation
 
 Lee, H., Atif, A., & Kang, K. (2026). [*Analysing AI utilisation in education through learner question types: A constructivist approach*](https://doi.org/10.14742/ajet.10657). *Australasian Journal of Educational Technology*, 42(2), 77–94.
+
+---
+
+## [OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models](https://edtechdev.github.io/aied/articles/lee-openlearnlm-benchmark-educational-llms-2026/)
+
+> **Synthesis:** **Synthesis:** Lee and thirteen co-authors present OpenLearnLM Benchmark, an open framework that scores educational [[llm|large language models]] on three axes drawn from educational assessment theory: Knowledge, Skills, and Attitude. Knowledge covers curriculum-aligned content and pedagogical understanding through 2,304 multiple-choice items, mostly reused from established sources rather than generated. Skills measures situated practice through 122,425 items arranged in a four-level hierarchy of Centers, Roles, Scenarios, and Sub-scenarios, with difficulty tiers set by Bloom's cognitive taxonomy and Krathwohl's affective taxonomy. Attitude examines epistemic, instructional, and normative-ethical stances and adds a deception test adapted from Alignment Faking methodology, comparing behavior under monitored and unmonitored prompts. Evaluating seven frontier models, the authors find no model dominant across axes: Claude-Opus-4.5 leads practical skills while scoring lowest on content knowledge, Grok-4.1-fast leads content knowledge but shows the weakest alignment consistency, and four models keep consistent behavior regardless of perceived oversight. Cross-axis correlations are weak or negative, so single-axis evaluation cannot establish readiness for educational settings, and the benchmark is released openly for the research community.
+## Key Findings
+
+- **Capability is multidimensional.** Claude-Opus-4.5 records the highest Skills average (8.82) despite the lowest content knowledge (66.3%), while Grok-4.1-fast leads content knowledge (86.5%) and posts the worst deception score (5.50).
+- **Content and pedagogical knowledge diverge.** Claude-Opus-4.5 shows a 19.8 point gap between content (66.3%) and pedagogical knowledge (86.1%), suggesting it understands how to teach better than what to teach.
+- **Skills cluster by educational center.** Counseling averages highest (8.78), with GPT-5.2 reaching 9.07 there, while Assessment and Research are hardest at 8.42 each, pointing to structured judgment as the weak spot.
+- **Alignment consistency separates models sharply.** GLM-4.7, GPT-5.2, DeepSeek-v3.2, and Claude-Opus-4.5 score 1.0, while Grok-4.1-fast (5.50) and Gemini-3-Pro (5.00) behave more permissively when they consider themselves unobserved.
+- **The three axes are largely independent.** Knowledge correlates negatively with Skills (r = -0.51) and Attitude (r = -0.63), while Skills and Attitude correlate weakly (r = 0.22), so accuracy alone says little about educational capability.
+
+## The gap in prior educational benchmarks
+
+Earlier educational benchmarks grew quickly but stayed narrow. LearnLM grounds evaluation in learning science principles yet releases no public dataset; EduBench covers nine scenarios across 18.8K items without hierarchy; MathTutorBench and TutorBench concentrate on tutoring interactions. The authors trace three recurring limits: no grounding in educational theory, no hierarchical task structure, and a narrow focus on knowledge. They also cite a gap between accuracy and teaching quality, with one tutoring system reaching 97.3% answer accuracy while only 56.6% of its responses were pedagogically sound. No prior benchmark defined educational roles or checked whether behavior changes under perceived monitoring. OpenLearnLM answers those gaps with a shared structure: three axes, a four-level taxonomy of Centers, Roles, Scenarios, and Sub-scenarios, and an attitude test borrowed from alignment research.
+
+## How the benchmark was built and scored
+
+Construction rested on 14 experts and a four-month Delphi study that fixed the taxonomy first. Skills items came from an automated gpt-5-mini pipeline producing 122,425 items at a 99.6% success rate, split into roughly 116,000 training and 6,100 test items. Knowledge items stayed authentic: 798 from C-Eval, 120 from GPQA, 243 from a Korean teacher examination, and 1,143 from the Chilean pedagogy benchmark, totaling 2,304 multiple-choice questions. An LLM-as-Judge screened quality against a 25-point rubric, and 122,365 of 122,439 items passed. Knowledge is graded by exact match; Skills long answers against a 10-point rubric for each of the 81 sub-scenarios; the 12 standard attitude scenarios with 10 samples each; and the 2 deception scenarios with 100 samples under monitored and unmonitored prompts, where the deception score is the difference between the two means.
+
+## Model profiles and why the axes stay separate
+
+Across the seven frontier models the axes rarely move together. Grok-4.1-fast posts the strongest content knowledge (86.5%) while Gemini-3-Pro leads pedagogical knowledge (89.6%). Claude-Opus-4.5 has the widest content-to-pedagogy gap at 19.8 points yet the best Skills average (8.82), and GPT-5.2 reaches the highest single center score in Counseling (9.07). GLM-4.7 and GPT-5.2 hold the most balanced profiles, staying above average on all five plotted dimensions, and no model leads everywhere. Correlations across the ten dimensions are r = -0.51 between Knowledge and Skills, r = -0.63 between Knowledge and Attitude, and 0.22 between Skills and Attitude, which the authors read as a possible trade-off. A knowledge score alone cannot establish whether a model is ready for a given educational role.
+
+## What this means for practice
+
+- **Evaluate per use case, not by one leaderboard.** The strongest content model may be the weakest on practical tasks; match models to the work they will carry.
+- **Treat deception scores as a deployment gate.** A model that behaves differently when unmonitored needs extra [[guardrails]] or logging before unsupervised student contact.
+- **Watch the content-to-pedagogy gap.** A model strong on teaching theory but weak on subject facts needs content validation, not trust in its explanations.
+- **Expect structured judgment to be hardest.** Rubric application, error diagnosis, and research reasoning score lowest, so keep humans in the loop.
+
+## Limitations
+
+- **The attitude axis rests on a small item pool.** Fourteen scenarios, and only 2 for deception, carry the behavioral argument, so per-model alignment conclusions stay thin.
+- **Most Skills items are machine-generated.** The 122K items come from a gpt-5-mini pipeline filtered by an LLM judge, so quality rests on automated screening alone.
+- **Items are borrowed and translated.** Content items come from Chinese examination and graduate science benchmarks, and pedagogical items from Chilean and Korean examinations, which may carry cultural assumptions.
+
+## Connected Concepts
+
+- [[benchmark]]
+- [[ai-ed-evaluation]]
+- [[llm]]
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[trust-calibration]]
+
+## Connected Articles
+
+- [[cdpk-pedagogy-benchmark-llms]]
+- [[ai-tutor-behavioral-evaluation]]
+- [[student-llm-interaction-taxonomy-review-2026]]
+- [[genai-performance-vs-learning]]
+
+## Citation
+
+Unggi Lee, Sookbun Lee, Heungsoo Choi, Jinseo Lee, Haeun Park, Younghoon Jeon, Sungmin Cho, Minju Kang, Junbo Koh, Jiyeong Bae, Minwoo Nam, Juyeon Eun, Yeonji Jung, and Yeil Jeong (2026). [*OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models*](https://arxiv.org/abs/2601.13882). arXiv:2601.13882. https://doi.org/10.48550/arXiv.2601.13882
+
+---
+
+## [Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark](https://edtechdev.github.io/aied/articles/lee-pedagogy-r1-pedagogical-large-reasoning-model-2025/)
+
+> **Synthesis:** Lee and colleagues (2025) argue that fluency in answering is not the same as reasoning like a teacher, and that large reasoning models, strong in mathematics and programming, had barely been adapted to education. They present Pedagogy-R1, 1.5B and 7B models instruction-tuned on pedagogically filtered outputs distilled from a QwQ-32B teacher, plus Chain-of-Pedagogy (CoP) prompting, a pedagogical rewrite of the request to reason step by step. The Well-balanced Educational Benchmark then tests that training across five dimensions: subject knowledge, pedagogical knowledge, knowledge tracing, essay scoring, and real-world teacher decision-making. On the pedagogical dimensions the small tuned models beat larger baselines, including a 31.34 point gain in decision-making for the 7B model, while conceding subject knowledge; every language model still trails classical knowledge tracing models sharply. The reasoning traces supply the caution: without CoP, no self-questioning or meta-evaluation appeared at all, and about 65 percent of thought tokens were filler.
+
+## Key Findings
+
+- **Pedagogically filtered tuning lifts the pedagogical dimensions.** Pedagogy-R1-7B beats its instruction-tuned baseline by 6.49 points in pedagogical knowledge, 8.75 in essay scoring, and 31.34 in decision-making.
+- **Subject knowledge is the trade-off.** The same model falls 2.49 points in subject knowledge, and both tuned sizes sit near 24 to 27 percent against 45.96 for o4-mini.
+- **Reasoning models still trail knowledge tracing specialists.** DKT and AKT reach 77.55 and 79.31 AUC, while every language model tested lands between roughly 49 and 65.
+- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy reflection falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
+- **Without CoP, metacognition is absent.** No self-questioning or meta-evaluation codes appeared across any of the 42 baseline traces, and both surfaced only sparsely once pedagogical prompting was applied.
+- **Most reasoning tokens were filler.** About 65 percent were coded as noise, mainly repeated item stems and generic remarks, and underthinking ran high in essay scoring and pedagogy.
+
+## Training a pedagogical reasoning model
+
+The pipeline follows DeepSeek-R1's distillation recipe with a pedagogical filter. The researchers held out 80 percent of benchmark items, sampled 5,000 seeds, and had QwQ-32B generate teacher responses; only responses verified correct survived, yielding 1,948 training examples. Those examples instruction-tuned two distilled students, DeepSeek-R1-Distill-Qwen-1.5B and its 7B sibling, producing Pedagogy-R1-1.5B and Pedagogy-R1-7B, with CoP-distilled variants trained separately. CoP is a single deliberate change: replace please reason step by step with a request to consider the pedagogical step by step, selected through GPT-assisted proposals and manual inspection, and applied both to steer inference and to frame teacher rationales. Evaluation uses zero shot, five shot on suffixed splits, one pass without self-consistency, temperature 0.6 to 0.7, and a fixed seed.
+
+## The Well-balanced Educational Benchmark
+
+WBEB exists because earlier educational benchmarks mostly measured content knowledge, ignoring feedback, scaffolding, and classroom discourse. Its five dimensions mix public and newly curated sources. Subject knowledge uses 805 multiple-choice items translated from Chinese junior high exams. Pedagogical knowledge uses 292 items from three Korean certification sets (124, 104 and 64), cleaned by OCR and translated, and these stay internal because the exams are copyright restricted; released models are trained without them. Knowledge tracing adds three sequence datasets of 3,146, 5,000, and 3,992 samples in zero-shot and five-shot forms. Essay scoring uses 3,462 essays from a 2024 Kaggle competition, and decision-making draws on 1,660 anonymized fourth and fifth grade math transcripts from the NCTE study, available only under data-sharing agreements.
+
+## What the evaluation and traces showed
+
+Pedagogy-R1-7B posted the best results in decision-making at 54.76 percent, pedagogical knowledge at 31.67, and essay scoring at 15.83, while the 1.5B model reached 30.60 in pedagogical knowledge and 52.57 AUC. Gains against plain instruction tuning were large, but a frontier model still led overall and knowledge tracing stayed the weakest dimension. The reasoning analysis measured how models spent thought tokens: counts were usually higher for wrong answers, and knowledge tracing consumed the most. CoP reduced tokens and underthinking in subject knowledge but sometimes raised both elsewhere. Two researchers coded 42 traces against Schon's reflection categories using a ten-code book, double-coding 33 percent; a model coded the rest. Filler loops and scarce meta-evaluation are as much the story as the scores.
+
+## What this means for practice
+
+- **Treat pedagogical alignment as a training target, not a prompt trick.** Most of the reported gain came from filtering training data, not scaling.
+- **Read small tuned models as viable for narrow teaching tasks.** The decision-making and feedback gains arrive at 1.5B to 7B parameters, which matters for cost.
+- **Do not read reasoning traces as explanations.** Filler loops occupied roughly two thirds of thought tokens, so trace length is not evidence of judgment.
+- **Keep knowledge tracing with specialized models.** LLM next-token prediction remained far behind DKT and AKT, with no reason to displace them.
+
+## Limitations
+
+- **Restricted evaluation data.** The pedagogical knowledge items cannot be released, so that WBEB dimension cannot be reproduced independently, though released models were trained without them.
+- **Machine-coded qualitative results.** Most traces were model-coded with no reported human agreement analysis; manual double-coding covered 14 of 42 traces.
+- **Narrow coverage and one pass.** Five dimensions with modest item counts, single runs, and no test of other languages or grade bands.
+
+## Connected Concepts
+
+- [[benchmark]]
+- [[pedagogical-llm-training]]
+- [[prompt-engineering]]
+- [[knowledge-tracing]]
+- [[automated-essay-scoring]]
+- [[scaffolding]]
+- [[metacognition]]
+- [[teacher-role]]
+- [[llm]]
+- [[legal-issues-and-risks]]
+- [[ai-ed-evaluation]]
+
+## Connected Articles
+
+- [[cdpk-pedagogy-benchmark-llms]] — Benchmarking the Pedagogical Knowledge of Large Language Models
+- [[lee-openlearnlm-benchmark-educational-llms-2026]] — OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models
+- [[elbench-education-llm-benchmark-2026]] — ELBench: A Multi-Dimensional Benchmark for Education-Facing Large Language Models
+
+## Citation
+
+Lee, U., Lee, J., Bae, J., Jeong, Y., Koh, J., Lee, G., Lee, G., Ahn, T., & Kim, H. (2025). [*Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark*](https://doi.org/10.1145/3746252.3761133). Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM 2025), November 10-14, 2025, Seoul, Republic of Korea, ACM.
 
 ---
 
@@ -76833,6 +76905,63 @@ Human lesson designers identified several strengths: substantial time savings in
 ## Citation
 
 Lin, J., Rao, J., Zhao, S. Y., Wang, Y., Gurung, A., Barany, A., Ocumpaugh, J., Baker, R. S., & Koedinger, K. R. (2025). [*Automatic Large Language Models Creation of Interactive Learning Lessons*](https://doi.org/10.48550/arXiv.2506.17356). ECTEL 2025.
+
+---
+
+## [AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation](https://edtechdev.github.io/aied/articles/liu-agenticmath-math-data-generation-2025/)
+
+> **Synthesis:** Liu and colleagues (2025) present AgenticMath, a [[agentic-ai|multi-agent]] pipeline that converts human-authored mathematics problems into high-quality question and answer pairs for supervised fine-tuning. It runs in four stages: a seed question filter that scores each problem for complexity, information value, and clarity and keeps those above a threshold of 3; an agentic rephrase stage in which one agent produces six variants per problem and review and revise agents iterate until the variants clear a threshold of 4.5; a solution stage in which a solver agent writes chain-of-thought answers without human labels; and a final evaluation that scores problem clarity, solution correctness, and reasoning completeness before selecting pairs by rank and diversity. Fine-tuning 3B to 8B models on 30K to 90K samples from this pipeline matches or beats baselines trained on 400K to 2.3M samples across six mathematics benchmarks. With only 30K to 60K samples, average performance improves by more than 10 points over baselines trained on far more data. The resulting corpus is released as AgenticMathQA in 30K, 60K, and 90K versions.
+
+## Key Findings
+
+- **Seed quality is filtered before synthesis begins.** Each problem is scored from 0 to 5 on complexity, information value, and clarity, corrected against neighboring problems, and retained only at a threshold of 3.
+- **Rephrasing expands the pool, then the review loop hardens it.** Every surviving seed becomes six paraphrases, scored on clarity and grammar, logical coherence, and mathematical validity, with anything below 4.5 sent back for revision.
+- **Solutions are generated without ground-truth labels.** A solver agent writes one-shot chain-of-thought answers for seed and rephrased problems alike, and the final stage jointly scores the problem and its answer.
+- **Ranking by quality plus diversity replaces a fixed cutoff.** It groups pairs by score from 5 down to 0, using a long-tail diversity score to break ties inside oversized groups before selecting 15K pairs.
+- **Small curated datasets rival much larger ones.** AgenticMath-Qwen2.5-3B reached 53.7 average accuracy at 30K samples, and AgenticMath-Llama3-8B reached 40.3 at 90K, above Llama3-8B-DART-Math trained on 590K.
+
+## The four stages, in order
+
+Seed problems come from GSM8K and MATH. Stage one is training-free and label-free: an evaluator rates every candidate on complexity, information value, and clarity, and a curation step corrects scores that disagree with neighboring problems in embedding space. Only problems scoring 3 or above survive the threshold, which left 7,001 seed questions out of the full seed collection. The rephrase stage then turns each survivor into six variants, 42,006 candidates, and a review agent scores each one on clarity and grammar, logical coherence and completeness, and mathematical validity and solvability. Anything below 4.5 goes to a revise agent, a loop that runs at most three rounds and passed 18,682 problems. Quality metrics improved through round two and then flattened, which is the authors' evidence for stopping there.
+
+## What the experiments show
+
+Evaluation covers six benchmarks: GSM8K and MATH as in-domain tests, plus CollegeMath, DeepMind Mathematics, OlympiadBench-Math, and TheoremQA for out-of-domain generalization, on Qwen2.5-3B, DeepSeekMath-7B, Mistral-7B, and Llama3-8B. Against baselines trained on the same sample counts, AgenticMath wins throughout. Against far larger datasets it stays close or ahead. DeepSeekMath-7B on 60K AgenticMath samples scores 49.3 average, against 49.9 for MathFusion at 195K and 48.3 for RFT at 590K. Mistral-7B at 60K reaches 38.4, against 38.8 for DART-Math at 590K, and Llama3-8B at 90K reaches 40.3, ahead of the same DART-Math run. Ablations on a fixed 15K synthetic set credit each quality stage in order: seed filtering added 0.6 average points, the review and revise loop a further 1.0, and the final evaluation 0.2 on top of that.
+
+## Possibly related code, not an official release
+
+Readers searching for code will find [a GitHub repository named AgenticMath](https://github.com/hua1100/AgenticMath). Treat it as a lead to inspect rather than as this paper's implementation. The paper never links to it, and the repository makes no claim of its own: it carries no description, no license, a README that says the license is to be determined, zero stars, and a last commit in November 2025. Its contents also differ from the pipeline described here, since it centers on uploading photographs of problems, extracting text with OCR, and generating variants of the extracted problems, while AgenticMath is a four-stage text pipeline for generating and evaluating problem and solution pairs. It may be a separate project that shares the name. Nothing here establishes that the two are connected.
+
+## What this means for practice
+
+- **Budget for filtering and evaluation, not only for generation.** The gains come from the stages that remove weak problems, so a synthesis pipeline without quality gates is likely to waste its data budget.
+- **Score problems before you synthesize from them.** Filtering seed items for complexity, information value, and clarity is cheap and improved downstream results, which is useful when a course already has a problem bank.
+- **Know that the supervision is model-written.** Items generated this way carry no human answer, so anyone reusing such a corpus should check a sample before trusting it for [[assessment]].
+
+## Limitations
+
+- **Text only.** The study addresses text-based problems and names [[multimodal]] settings, such as problems with diagrams or visual reasoning, as future work.
+- **Scale is untested.** Because of computational and resource constraints, the authors did not run synthesis beyond the sizes they report.
+- **One model judges everything.** Scoring, solving, and final evaluation all use GPT-4o-mini (2024-07-18) and human labels are removed, so quality control rests on statistical correction of [[llm|LLM]] ratings.
+
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[pedagogical-llm-training]]
+- [[llm]]
+- [[math-education]]
+- [[benchmark]]
+- [[automated-question-generation]]
+
+## Connected Articles
+
+- [[proiqa-math-item-quality-assessment-2026]]: scoring the quality of mathematics items
+- [[datacanvas-edu-synthetic-data-business-analytics-2026]]: an agentic synthetic data framework in another subject
+- [[representation-robustness-llm-math-problem-solving]]: stability of LLM mathematics reasoning under other constraints
+
+## Citation
+
+Liu, X., Liu, Y., Wang, S., Cheng, H., Estornell, A., Zhao, Y., Shu, J., & Wei, J. (2025). [*AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation*](https://arxiv.org/abs/2510.19361). arXiv:2510.19361 (v3, revised January 2026). https://doi.org/10.48550/arXiv.2510.19361
 
 ---
 
@@ -84463,6 +84592,75 @@ Ostrowska, A., Kukla, M., Majstrak, G., Opala, J., Pergała, S., Skwarek, J., & 
 
 ---
 
+## [Cognitive Agent Compilation for Explicit Problem Solver Modeling](https://edtechdev.github.io/aied/articles/moon-cognitive-agent-compilation-problem-solver-modeling-2026/)
+
+> **Synthesis:** Moon, Rosé, and Stamper (2026) propose Cognitive Agent Compilation (CAC), in which a strong teacher language model compiles problem-solving knowledge into an explicit target agent rather than leaving it latent in weights. The agent attempts a problem using only its declared knowledge base, the teacher inspects the trace for missing knowledge components or misapplied strategies, then injects corrective knowledge as inspectable artifacts before the agent retries until both answers and process constraints hold. CAC separates knowledge representation, problem-solving policy, and verification and update rules so that behavior can be attributed to declared structure. The proof of concept uses small, zero-shot models throughout. On 27 biology problems the agent accumulated 188 declarative memory entries at a mean of 3.1 iterations per problem, then stalled on the 28th after 150 iterations. CAC is offered as a bounded, inspectable problem-solving model, not a validated learner model.
+
+## Key Findings
+
+- **A teacher model compiles knowledge rather than tutoring directly.** It reads the target-agent specification, current knowledge base, and failed trace, then authors new declarative memory items in the required format.
+- **The cycle is failure driven.** Corrective knowledge is injected against diagnosed missing knowledge components or misconception triggers, and the agent retries until answers and process constraints are satisfied.
+- **LLMs cannot simulate not knowing.** Models struggle to suppress knowledge generation, making them poor proxies for student learners, and expertise alone does not confer teaching skill. CAC declares what the system assumes a learner knows.
+- **Everything in the prototype is small and untuned.** The executor, the retrieval model, and the teacher all ran zero-shot without fine-tuning.
+- **Retrieval broke down after 27 compiled problems.** The knowledge base reached 188 declarative memory entries at 3.1 iterations per problem before the run ended at problem 28.
+- **Two failure modes dominate the discussion.** Prior knowledge lets a capable executor answer without the compiled structure, and the fan effect degrades retrieval as items share overlapping cues.
+
+## Three separated parts, and the teacher that compiles them
+
+The framework's central claim is that a problem-solving agent should not be one opaque model. CAC separates knowledge representation, the explicit knowledge base whose items carry a natural language description plus the goal state and working memory state in which they apply, from problem-solving policy, the rules deciding whether to set a subgoal, apply retrieved knowledge, or answer, and from verification and update rules, which decide when a trace counts as successful and what corrective knowledge is added. The teacher reads the failed trace and the current knowledge base, uses knowledge base inference and similarity scoring tools, and submits new declarative memories that accumulate monotonically. Because corrections arrive as readable items such as rules or restructured retrieval entries rather than weight updates, an educator can inspect what the system assumes the learner knows and revise it.
+
+## An early proof of concept built from small models
+
+The authors call this an early proof of concept, not a validated system. The cognitive agent uses Qwen2.5-2B as its executor, embedding-gemma at 300M parameters for similarity retrieval, and gemma-3-27b-it run locally at 4-bit quantization as the teacher, all under zero-shot prompting. Problems came from OLI_Biology in the CMU DataShop, chosen for its dependence on declarative memory and its logged student interactions. A fully deterministic controller, such as ACT-R style production rules, would be predictable but hard to extend beyond a narrow problem space, while a small language model widens the reachable space and reintroduces a residual black-box component whose prior knowledge cannot be fully inspected. Fewer parameters do not make the executor explainable; they change how much latent capacity remains.
+
+## What the prototype failure modes show
+
+Three problems surfaced. First, prior knowledge works against the framework: a model large enough answers correctly without the cognitive structure, while a model too small cannot follow rigid instructions. Second, the fan effect: as the knowledge base grew, similarity retrieval stopped surfacing newly added items, so the agent stalled and sometimes retrieved irrelevant knowledge, a pattern consistent with deceptive overgeneralization. Third, collaborative cheating, where the teacher handed the agent the final answer and bypassed the intended process; answer-specific items like that can be filtered out because they do not generalize. Two questions stay open: how faithfully a teacher compiles its own knowledge into a bounded agent, and whether the approach extends past a single discipline.
+
+## What this means for practice
+
+- **Treat the knowledge base as the unit of review.** Corrections are readable items, so educators can inspect and edit what the system assumes a learner knows.
+- **Scale retrieval deliberately.** Similarity search stopped surfacing new items as the base grew, so a more selective mechanism is needed before the base expands.
+- **Test whether success depends on compiled knowledge.** Removing a core item and re-running the problem shows whether the executor leans on prior knowledge instead.
+- **Do not read this prototype as a learner model.** No student data was used, and goals such as predicting resolvability from knowledge states stay untested.
+
+## Limitations
+
+- **No validation against students.** Design targets such as simulating problem solving under restricted knowledge are criteria, not established capabilities.
+- **Dependence on the specific models.** Six sub-1B models could not follow the structured instructions, so the prototype settled on a single 2B executor.
+- **An unresolved black-box remainder.** Knowledge ablation against answer persistence and downstream knowledge tracing are proposed tests, not evidence that what stays latent is small enough for educational use.
+
+## Connected Concepts
+
+- [[adaptive-learning]]
+- [[agentic-ai]]
+- [[explainable-ai]]
+- [[knowledge-tracing]]
+- [[llm]]
+- [[misconceptions]]
+- [[pedagogical-llm-training]]
+- [[personalized-learning]]
+- [[prior-knowledge]]
+- [[problem-solving]]
+- [[student-modeling]]
+
+## Connected Articles
+
+- [[agentic-workflows-education]]
+- [[deceptive-overgeneralization-adaptive-learning-2026]]
+- [[huang-interpretable-knowledge-tracing-2026]]
+- [[measuring-llm-tutors-teach-vs-solve]]
+- [[neural-symbolic-knowledge-tracing]]
+- [[nie-personavlm-long-term-personalization-2026]]
+- [[prober-ai-inquiry-writing]]
+- [[simulating-students-llm-review-2026]]
+
+## Citation
+
+Moon, H., Rosé, C., & Stamper, J. (2026). [*Cognitive Agent Compilation for Explicit Problem Solver Modeling*](https://arxiv.org/abs/2605.07040). Accepted to AIED 2026 Blue Sky. arXiv:2605.07040. https://doi.org/10.48550/arXiv.2605.07040
+
+---
+
 ## [Navigating the moral panic: encouraging appropriate use of GenAI in the classroom rather than condemning innovation as disruption](https://edtechdev.github.io/aied/articles/moral-panic-genai-classroom/)
 
 > **Synthesis:** A **natural-experiment / design-based study** tracking eight iterations of a lower-division *Data Visualization in the Social Sciences* course (n = 921 across six years) to test whether — and how — [[generative-ai|GenAI]] changes student [[learning-gains|learning]]. The authors frame faculty anxiety about GenAI as the latest in a series of "moral panics" (calculators, word processors, search engines, [[online-teaching-and-learning|e-learning]]) and argue the productive response is to **teach and embed GenAI use**, not ban it. They compare three instructional conditions on two quiz types (knowledge vs. applied):
@@ -84746,120 +84944,6 @@ The authors state four limits. The study could not capture the perspectives of s
 ## Citation
 
 Mulisa, F., & Mezgebu, T. (2026). [*Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives*](https://doi.org/10.1007/s40979-026-00231-z). *International Journal for Educational Integrity*, 22(22).
-
----
-
-## [Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design](https://edtechdev.github.io/aied/articles/multi-agent-instructional-design/)
-
-> **Synthesis:** Embedding the [[learning-theories|Knowledge–Learning–Instruction (KLI) framework]] into [[agentic-ai|multi-agent systems]] to act as sophisticated [[learning-design|instructional designers]] for [[k-12|K-12]] educators. Wang et al. (2025) move [[pedagogy|pedagogical]] expertise from the user's [[prompt-engineering|prompt]] to the [[llm|LLM's]] internal architecture, comparing a single-agent baseline (SAS) against two multi-agent designs (MAS-Roles, MAS-CMD). Rubric scores showed only small, mostly insignificant differences across systems, yet 20 practicing [[teacher-role|teachers]] strongly preferred the collaborative MAS-CMD's outputs as "fantastic, creative, classroom-ready" — at a cost of ~11× more tokens and ~10× more time than baseline. The study is a working demonstration that [[learning-theories|learning sciences]] frameworks can be operationalized directly in AI architectures to produce more creative, contextually relevant materials.
-
-## The Prompting Gap in K-12 Education
-
-**Wang et al. (2025)** address a critical problem: **60% of K-12 teachers** now use [[generative-ai|AI]] for teaching tasks, but most lack the expertise to [[prompt-engineering|prompt]] effectively for high-quality [[learning-design|instructional materials]].
-
-### The Problem
-- **[[llm|Commercial LLMs]]** (ChatGPT, Gemini) lack embedded [[learning-theories|pedagogical theory]]
-- **Simple prompts** produce shallow, misaligned, or inconsistent materials ("a mile high and an inch deep")
-- **Advanced [[prompt-engineering|prompt engineering]]** requires time/expertise most teachers don't have
-
-### The Solution
-Shift pedagogical expertise from **user's prompt** to **LLM's internal architecture** by embedding [[learning-theories|learning sciences]] principles directly into [[agentic-ai|multi-agent systems]].
-
-## Three Systems Compared
-
-| System | Architecture | KLI Integration | Teacher Preference |
-|--------|--------------|-----------------|-------------------|
-| **SAS** (Single-Agent) | Baseline: simple "Generate learning activity" prompt | None (naive) | Lowest: "needs lots of editing" |
-| **MAS-Roles** | 5-agent sequential pipeline (KC → Learning → Instruction → Design → Feedback) | Embedded in agent roles | Middle: "generic, impersonal" |
-| **MAS-CMD** | 3-agent collaborative with conquer-merge discussion ([[behaviorism|Behaviorist]], [[constructivist|Constructivist]], Aesthetic personas) | Collaborative discussion | **Highest: "fantastic, creative, classroom-ready"** |
-
-## Key Findings
-
-### Quantitative Results (QM K-12 Rubric)
-- **Small differences:** Statistical significance only on criterion 5.2 (p = .014)
-- **Low expert agreement:** Fleiss' κ ≈ 0 (poor to slight agreement across all criteria)
-- **Trend:** MAS-CMD > SAS > MAS-Roles (but not always statistically significant)
-
-### Qualitative Results (20 Practicing Teachers)
-**MAS-CMD praised for:**
-- **[[creativity|Creativity]]:** "Fantastic ideas," "so creative"
-- **Real-world context:** Urban planning theme made geometry "meaningful"
-- **Completeness:** Included worksheets, [[formative-assessment|exit tickets]], teacher dialogue
-
-**Common critique:** Pacing issues ("a lot to unpack," needs to be "broken up into some days")
-
-### Efficiency Trade-off
-| System | Time (s) | Tokens (k) | Requests |
-|--------|-----------|-------------|----------|
-| SAS | 25 ± 16 | 3,376 ± 1,601 | 1.00 ± 0.00 |
-| MAS-Roles | 77 ± 45 | 22,497 ± 7,157 | 5.4 |
-| MAS-CMD | 272 ± 168 | 71,638 ± 25,222 | 13.00 ± 0.00 |
-
-**Finding:** MAS-CMD traded the highest rubric scores for substantially greater latency and usage: 272 ± 168 s, ~71.6k tokens and 13 requests, against 25 ± 16 s, ~3.4k tokens and one request for the single-agent baseline.
-
-## Knowledge–Learning–Instruction (KLI) Framework
-
-The KLI framework (Koedinger et al., 2012) aligns three elements:
-1. **Knowledge Components (KCs):** Facts, concepts, principles, procedures — the goals of learning
-2. **Learning Processes:** Memory/fluency, induction/refinement, understanding/[[metacognition|sense-making]]
-3. **Instructional Principles:** [[desirable-difficulties|Spacing, testing]], worked examples, prompted [[self-regulated-learning|self-explanation]]
-
-**Embedding KLI into MAS:**
-- **MAS-Roles:** Sequential pipeline where each agent embodies one KLI component
-- **MAS-CMD:** [[collaborative-learning|Collaborative discussion]] among agents with different pedagogical personas
-
-## Connection to Existing Work
-
-### vs. Principled AI Education
-- Both emphasize: **augment, don't displace** [[learning-theories|learning sciences]] with AI
-- KLI framework operationalizes "educational goals → learning models → technology"
-- **Complementary:** Principled AI sets the framework; this paper implements it via MAS
-
-### vs. Agentic Workflows
-- **[[agentic-ai|Multi-agent collaboration]]:** MAS-CMD's conquer-merge discussion exemplifies agentic **planning + [[metacognition|reflection]]**
-- **Teacher as beneficiary:** Unlike agentic [[intelligent-tutoring|tutoring]] (where students interact with agents), here agents serve *teachers* as instructional design assistants
-- **Scalability:** MAS offers "scalable path for creating high-quality educational content"
-
-### vs. TeachBench
-- **Complementary paradigms:** TeachBench evaluates *teaching ability*; this paper *designs instructional materials*
-- **Both use agents:** TeachBench (teacher-student agents); this paper (instructional designer agents)
-- **Both find:** Raw solving ≠ pedagogical quality; structured frameworks needed
-
-## What this means for practice
-
-- **Faculty developers.** Stop treating prompt skill as the entry requirement for pedagogical quality: 60% of surveyed public-school teachers use AI for teaching tasks, yet embedding the KLI framework inside a [[agentic-ai|multi-agent system]] moves that expertise into the architecture, so professional learning time can go to reviewing and adapting outputs instead of engineering prompts.
-- **Faculty developers.** Start teachers on the collaborative MAS-CMD design when quality matters: 20 practicing teachers described its outputs as "fantastic, creative, classroom-ready" and called the sequential design's offerings generic, even though the quantitative advantage showed up only on rubric criterion 5.2 (F(2, 38) = 4.75, p = .014).
-- **Faculty developers.** Put a pacing check in the review routine, since that was teachers' most common critique: generated activities were "a lot to unpack" and needed to be "broken up into some days" before classroom use.
-- **Administrators.** Budget the quality–efficiency trade-off explicitly: MAS-CMD took 272 ± 168 seconds and ~71.6k tokens across 13 requests per activity against 25 ± 16 seconds and ~3.4k tokens for the single-agent baseline, so tier tool choice by the stakes of the task rather than standardizing on one system.
-- **Researchers.** Do not read weak rubric agreement as evidence of no difference: overall expert agreement was −0.016 under Fleiss' κ while teacher preference in the [[qualitative-research|qualitative]] feedback was consistent, so pair rubric scoring with qualitative review when [[ai-ed-evaluation|evaluating]] creative artifacts.
-
-## Limitations
-
-- The study evaluated design, not implementation: 30 learning activities per system were reviewed by teachers and an LLM judge but never taught to students, so it supports claims about perceived quality, not about student [[student-engagement|engagement]] or learning outcomes.
-- The human evaluation rests on 20 practicing teachers (11 math, 9 science) in U.S. secondary schools, each rating 30 activities per system; inter-rater agreement was slight to poor (criterion 5.1 κ = 0.047, 5.2 κ = 0.053, 5.3 κ = −0.030, 5.4 κ = −0.043; overall κ = −0.016).
-- Only one rubric criterion separated the systems statistically (5.2: F(2, 38) = 4.75, p = .014, ηp2 = .20), and the LLM-as-a-judge companion reached a ceiling effect on criteria such as Foundational Alignment and Inclusivity, with the largest gap between systems under 7% of the scale.
-- Scope is one pedagogical framework and a fixed architecture set: the comparison covers KLI with three systems generated by gemini-2.5-flash (plus gemini-2.5-pro, gemini-2.0-flash, and gemini-2.0-flash-lite variants for the rubric comparison), so other instructional design models and agentic workflows remain untested.
-
-## Connected Concepts
-
-- [[human-in-the-loop-ai]]
-- [[formative-assessment]]
-- [[metacognition]]
-- [[agentic-ai]]
-- [[ethics]]
-- [[learning-design]]
-- [[k-12]]
-- [[curriculum-design]]
-- [[prompt-engineering]]
-
-## Connected Articles
-
-- [[finkelstein-principled-ai-education-2025]]
-- [[agentic-workflows-education]]
-- [[teachbench-llm-teaching-evaluation]]
-## Citation
-
-Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design*](https://arxiv.org/abs/2508.16659).
 
 ---
 
@@ -95412,7 +95496,7 @@ Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. John
 > **Synthesis:** KITE (Knowledge-Informed Tutoring Engine) introduces a [[intelligent-tutoring]] architecture that grounds its responses in course materials through a [[multimodal]] [[scaffolding|RAG pipeline]]. Unlike generic [[llm]] tutors that may drift from [[curriculum-design|curriculum]] content, KITE retrieves relevant material — lecture slides, problem sets, code examples — before generating Socratic hints, guiding questions, and progressive scaffolds tailored to the student's current error.
 > The system's intent-aware Socratic response strategy builds on [[socratic-method]] principles but operationalizes them through retrieval: rather than relying on the model's parametric knowledge of how to tutor, KITE anchors every response in authoritative course content. This design addresses a key gap identified in [[zerkouk-comprehensive-review-its-2025]] — that [[pedagogy|pedagogical]] quality alone is insufficient without content fidelity.
 > KITE was evaluated through three complementary lenses. RAGAs-based metrics confirmed response grounding and quality. Expert pedagogical review assessed the educational appropriateness of its Socratic scaffolding. Most innovatively, a simulated student pipeline — where a weaker LLM acts as a student across two-turn dialogues — measured whether KITE's [[formative-assessment|feedback]] actually improved follow-up accuracy on procedural and algorithm tracing questions. Results were positive: [[simulating-students|simulated students]] produced more accurate responses after receiving KITE feedback, particularly on tracing tasks where step-by-step reasoning is critical.
-> This work contributes to the growing literature on [[nie-personavlm-long-term-personalization-2026|LLM-based student modeling]] by demonstrating that [[rag|retrieval-augmented]] tutoring can maintain both pedagogical and content fidelity. It also connects to [[programming-its]] [[research-methods-aied|research]] by targeting algorithmic reasoning specifically, and to [[personalized-learning]] through its adaptive response strategies. The simulated student evaluation approach offers a replicable, low-cost methodology that could accelerate tutor development cycles — a theme also explored in [[eduagentbench-agent-teaching-benchmark]] for broader tutor evaluation.
+> This work contributes to the growing literature on [[nie-personavlm-long-term-personalization-2026|LLM-based student modeling]] by demonstrating that [[rag|retrieval-augmented]] tutoring can maintain both pedagogical and content fidelity. It also connects to [[programming-its]] [[research-methods-aied|research]] by targeting algorithmic reasoning specifically, and to [[personalized-learning]] through its adaptive response strategies. The simulated student evaluation approach offers a replicable, low-cost methodology that could accelerate tutor development cycles — a theme also explored in [[chen-teacharena-language-agents-realistic-teaching-2026]] for broader tutor evaluation.
 ## What this means for practice
 
 - **Instructors.** Retrieve before you generate. KITE grounds every response in course materials — lecture slides, problem sets, code examples — before producing a Socratic hint, which is what keeps tutoring from drifting off your curriculum.
@@ -95443,7 +95527,7 @@ Alexandra Neagu, Jeffrey T. H. Wong, Marcus Messer, Rhodri Nelson, Peter B. John
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[nie-personavlm-long-term-personalization-2026]]
 - [[programming-its]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Jain, M., Bhatt, T., Pitts, G., Pandya, A., Brusilovsky, P., Norouzi, N., Hellas, A., Leinonen, J., & Akram, B. (2026). [Retrieval-Augmented Tutoring for Algorithm Tracing and Problem-Solving in AI Education](https://arxiv.org/abs/2605.12988). BEA 2026.
@@ -100446,7 +100530,7 @@ ring systems?
 
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[agent-voice-accents-k12-group-learning]]
@@ -103211,93 +103295,60 @@ Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2026). [*From Substit
 
 ---
 
-## [Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inclusive Agentic Multi-Agent AI Frameworks for Learning, Teaching and Institutional Intelligence](https://edtechdev.github.io/aied/articles/sudarshan-agentic-ai-ecosystems-higher-education-2026/)
+## [Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence](https://edtechdev.github.io/aied/articles/sudarshan-agentic-ai-ecosystems-higher-education-2026/)
 
-> **Synthesis:** This position paper (Sudarshan et al., arXiv 2605.14266) argues that current [[agentic-ai|AI agents]] in [[higher-ed]] — intelligent tutoring, grading, learning analytics — are fragmented, task-specific tools that fail to handle [[governance|institutional]] complexity. It proposes a forward-looking **agentic multi-agent AI ecosystem**: interconnected, autonomous, goal-driven agents spanning learning, teaching, and institutional functions. A thematic analysis of existing literature surfaces four themes (task-specific fragmented tools; single-agent→multi-agent transition; limited cross-functional integration; insufficient inclusivity). Its distinctive contribution is weaving **[[inclusive-learning]]** into the architecture: a coordinated multi-agent platform can support diverse learners and those with [[special-education|special educational needs]] through adaptive, [[multimodal]] interventions, embedding equity "in the architecture rather than as an add-on." It closes on four future directions headlined by a **human–AI co-evolution** model that keeps [[human-in-the-loop-ai|humans in the loop]].
+> **Synthesis:** Sudarshan, Sisodia, Ramachandra, Batra, and Chong Leng Leng (2026) argue that AI in higher education has stalled at the level of the isolated tool. Agents for tutoring, grading, scheduling, and [[learning-analytics|analytics]] work well inside narrow functions but do not coordinate, so institutions cannot align planning or adaptive decisions across learning, teaching, and administration. They ground this in an inductive thematic analysis of published studies of AI agents in undergraduate education, coded for functional role, architecture, inclusion features, and limitations. Four themes emerge: functional fragmentation of task-specific tools, a shift from single-agent to multi-agent systems, limited cross-functional integration, and thin attention to inclusivity and accessibility. The contribution is a unified multi-stakeholder framework in which learning, teaching, inclusion, and institutional agents form one coordinated ecosystem across a layered architecture of interfaces, agent coordination, and data infrastructure. Its distinctive claim: inclusive practice can be embedded in that architecture rather than added later, so coordinated [[adaptive-learning|adaptive]] and [[multimodal]] interventions can support diverse learners, including students with special educational needs.
+## Key Findings
 
-## The core claim: from fragmented agents to an ecosystem
+- **Fragmented tools dominate the field.** About 52% of studies address task-specific applications such as intelligent tutoring, chatbots, grading systems, and learning analytics, optimizing isolated functions rather than institution-wide intelligence.
+- **Agentic multi-agent systems are the least studied category.** Roughly 28% of the studies concern single agents, about 12% multi-agent systems, and only some 8% agentic multi-agent systems.
+- **Inclusion is implicit rather than designed.** Personalization, accessibility, and affective features appear but remain isolated, and even advanced agentic work rarely addresses cognitive diversity, sensory accessibility, or emotional well-being explicitly.
+- **Cross-functional integration is largely absent.** Individual applications show effectiveness, yet the analysis finds little integration across student-facing learning, educator support, and institutional decision-making.
+- **Inclusive support is the distinctive contribution.** Coordinated agents are argued to enable adaptive, multimodal interventions such as personalized pacing, scaffolding, text-to-speech, and affect-aware well-being support for students with special educational needs.
 
-The paper's central diagnosis is fragmentation. Institutions run many capable AI agents — [[intelligent-tutoring|tutors]], grading assistants, [[learning-analytics]] dashboards, advising [[conversational-ai|chatbots]] — but these operate in silos, each optimizing one function with no coordination. The authors argue the next step is not a better single agent but an **ecosystem**: a platform of interconnected, goal-driven agents that coordinate planning, reasoning, and adaptive decision-making across teaching, learning, and [[administrator|administration]]. They pose three questions: Can agentic AI be the next generation of intelligent systems in tertiary education? Can agents coordinate seamlessly across teaching, learning, and administration? And can such systems foster inclusive, equitable learning for diverse learners including those with special educational needs?
+## Four themes from the literature
 
-## The proposed framework: three agent types + cross-functional coordination
+An inductive thematic analysis coded the reviewed studies for functional role, system architecture, inclusion and learner support features, and limitations. The distribution is uneven: function-specific tools form the largest group at roughly 52%, single-agent systems about 28%, multi-agent systems about 12%, and agentic multi-agent systems only about 8%. The four themes are functional fragmentation, the shift from single-agent to multi-agent architectures, limited integration across learning, teaching, and institutional processes, and thin, inconsistent treatment of inclusive learning. Examples such as GenMentor, MultiTutor, EduVerse, and FACET show that role specialization, memory, reasoning, and coordinated decision-making are technically possible, but most stay at prototype or conceptual stage, with limited large-scale deployment and empirical validation.
 
-The paper's unified multi-stakeholder framework (Fig. 4–5) groups agents into three functional families operating in a coordinated layered architecture (user interface → multi-agent coordination → data infrastructure):
+## A unified multi-stakeholder agentic architecture
 
-- **[[pedagogical-agent|Learning agents]]** support students: dynamically customizing content to knowledge level, learning style, emotional state, and interests; answering questions, generating personalized schedules, sending study reminders, recommending resources with [[affective-computing|sentiment/affective]] adaptation; and acting as creative companions for brainstorming and outlining. In an ecosystem they extend beyond static personalization to continuously adapt to evolving learner profiles and promote [[self-regulated-learning]].
-- **Teaching agents** are aides to educators — extending [[learning-design|instructional design]] by answering student queries, recommending resources, generating lesson plans/quizzes/video transcripts, automating [[formative-assessment|formative]] and [[summative-assessment|summative]] feedback, and providing actionable performance insights — freeing educators for higher-order work like mentoring and critical discussion. The paper stresses they are **assistive systems, not replacements**, reinforcing a [[teacher-role|human-centered]] role for educators.
-- **Institutional agents** operate at the administrative/strategic level: predictive-analytics agents that identify at-risk learners and forecast graduation; enrollment/advising agents; onboarding and real-time administrative support; and resource-scheduling agents optimizing classrooms, timetables, and exams. Within an ecosystem they are "not isolated dashboards but active participants," aligning operational decisions with pedagogical goals.
+The central proposal is one coordinated ecosystem rather than a collection of separate tools. Learning agents customize content to a student's knowledge level, learning style, emotional state, and interests, answer subject questions, and promote [[self-regulated-learning]]. Teaching agents act as aides to educators, generating lesson plans and quizzes, automating feedback, and surfacing performance insights, and are positioned as assistive rather than replacements. Institutional agents sit at the administrative and strategic level, using predictive analytics to flag at-risk learners, handling enrollment, advising, and routine queries, and optimizing classroom, timetable, and exam scheduling. The defining feature is cross-functional coordination: feedback loops between learning and teaching, alignment of pedagogical practice with institutional objectives, real-time adaptation to learner behavior, and system-level optimization through distributed intelligence. This is a conceptual framework and research agenda, not a deployed platform.
 
-The defining feature is **cross-functional coordination**: (i) [[feedback|feedback loops]] between learning and teaching; (ii) alignment of pedagogy with institutional objectives; (iii) real-time adaptation to learner behavior; (iv) holistic optimization through distributed intelligence — echoing [[agentic-ai|multi-agent systems]] theory's emergent system-level intelligence.
+## Inclusive learning and special educational needs
 
-## The distinctive contribution: inclusive-by-design
-
-Where most agentic-AI syntheses treat inclusion as a footnote, this paper makes it the central design lens. It observes that students in higher education vary widely in cognitive ability, learning preference, cultural background, and [[accessibility]] needs — and that students with [[special-education|special educational needs]] (learning disabilities, [[neurodiversity]], sensory impairments) require adaptive support traditional systems fail to provide at scale. The proposed **inclusive agentic AI ecosystem** coordinates agents across three support dimensions:
-
-- **Cognitive support:** personalized pacing, simplified explanations, [[scaffolding]], reinforcement strategies for learners with comprehension, memory, or attention difficulties.
-- **Sensory support:** accessible multimodal learning via text-to-speech, speech-to-text, visual enhancement, and alternative content representations — aligned with [[universal-design-for-learning|universal design]] principles.
-- **Emotional and mental-health support:** [[well-being]] agents monitoring [[affective-computing|emotional/engagement]] state and intervening.
-
-Inclusion is achieved not by a single assistive tool but by **coordinating specialized agents** — accessibility (interface/modality adaptation), cognitive-support (scaffolding), well-being (monitoring), and learning (content/assessment) agents working together in real time. This "equitable personalization" embeds inclusivity in the architecture rather than bolting it on.
-
-## Challenges
-
-The paper catalogs challenges across four dimensions (Table 1): **technical** (interoperability across heterogeneous systems, scalability to large diverse populations, multimodal data integration); **pedagogical** ([[cognitive-offloading|over-reliance on AI]], reduced human interaction, weak alignment with [[learning-theories|learning theory]]); **[[ethics|ethical]]** ([[bias-mitigation|algorithmic bias]], [[privacy|data privacy/security]], [[ai-literacy|transparency and explainability]]); and **inclusion-specific** (bias from underrepresentation of diverse learners in SEN contexts, over-automation in sensitive domains, and the need for [[human-in-the-loop-ai|human oversight]]). The throughline is that success needs more than technical advance — it demands pedagogical alignment, ethical responsibility, and inclusive-by-design principles.
-
-## Future directions: human–AI co-evolution
-
-Four directions emerge: (i) **inclusive-by-design** systems that bake accessibility/equity in from the outset; (ii) **interoperable agent architectures** with standardized frameworks; (iii) **[[human-ai-collaboration|human–AI collaboration models]]**; and (iv) **real-world implementation studies** evaluating effectiveness, scalability, and ethics. The headliner is **human–AI co-evolution**: a bidirectional loop where human inputs (learning behaviors, [[pedagogy|teaching practices]], institutional decisions) inform AI adaptation, while AI-driven personalization and decision intelligence enhance human capability — a shift from technology-centric to human-centered design that keeps humans in the loop and systems aligned with pedagogical goals and ethical principles.
+Inclusive and equitable learning are treated here as a design problem, not an add-on: students with special educational needs, including learning disabilities, neurodiversity, and sensory impairments, need adaptive environments that current systems rarely provide. Inclusion comes from coordination among specialized agents: accessibility agents adapt interface and modality, cognitive support agents scaffold and pace, well-being agents monitor affect, and learning agents deliver content and assessment. Three dimensions of support follow. Cognitive support covers personalized pacing, simplified explanations, scaffolding, and reinforcement for difficulties with comprehension, memory, and attention. Sensory support covers text-to-speech, speech-to-text, visual enhancements, and alternative content representations. Emotional support covers affect-aware agents that detect stress, disengagement, or overload and respond with feedback, task adjustment, or referral to support resources.
 
 ## What this means for practice
 
-- **Administrators.** Audit the institution's AI portfolio for fragmentation before buying more: the review classifies about 52% of the studies examined as task-specific tools and only about 12% as multi-agent systems, and names siloed intelligence as the institutional risk.
-- **Administrators.** Make [[accessibility]] and [[special-education|special educational needs]] support conditions of procurement, requiring interoperability and standardized interfaces so that learning, teaching, and institutional agents can share data instead of remaining isolated dashboards.
-- **Instructors.** Keep human judgment on high-stakes and SEN-related decisions, since the paper lists over-automation in sensitive domains and the need for [[human-in-the-loop-ai|human oversight]] among inclusion-specific challenges.
-- **Instructional designers.** Design coordinated support rather than a single tool: cognitive support (personalized pacing, simplified explanations, [[scaffolding]]), sensory support (text-to-speech, speech-to-text, alternative representations), and emotional support each need a dedicated agent working in concert.
-- **Researchers.** Evaluate deployed ecosystems against learning and equity outcomes before the architecture is adopted, because the paper itself notes that many multi-agent implementations remain at the prototype or conceptual stage.
-
-## Limitations and significance to the knowledge base
-
-This is a perspective/position piece, not an empirical study: the evidence is a thematic synthesis of existing literature, and the framework and figures are conceptual proposals awaiting real-world validation (the authors themselves call for implementation studies). Its value to the knowledge base is complementary. Where [[kostopoulos-agentic-ai-education-2025|Kostopoulos et al.]] supply the definitional checklist/taxonomy and [[baradziej-agentic-ai-higher-education-2026|Baradziej et al.]] the role-based empirical map, this paper adds the **inclusive multi-agent architecture** framing and — distinctively — positions [[equity-in-ai-education|equity and special-educational-needs support]] as a first-class design concern of agentic ecosystems rather than an afterthought.
+- **Design for coordination, not more tools.** Another task-specific agent deepens fragmentation; specify how learning, teaching, and institutional agents share context and hand off work.
+- **Treat accessibility as architecture.** Build multimodal representation, alternative interaction channels, and adjustable pacing into the agent layer, not per request.
+- **Keep humans in the loop on high-stakes work.** The paper flags over-automation in sensitive domains such as mental health as a risk requiring [[human-in-the-loop-ai|human oversight]].
+- **Plan interoperability and governance together.** Heterogeneous platforms, sensitive learner data, bias, and opaque decisions precede deployment.
 
 ## Limitations
 
-- This is a perspective piece, not an empirical study: the evidence is an inductive thematic analysis of the studies summarized in Tables 2 and 3, and no system was built, deployed, or evaluated.
-- The headline claim — that coordinated multi-agent ecosystems will deliver inclusive, equitable learning — rests on distributions from that coded set (about 52% task-specific tools, 28% single-agent systems, 12% multi-agent) rather than on outcome data.
-- The framework and its figures are conceptual proposals; the authors themselves list real-world implementation studies among the required future directions.
-- Inclusion is treated architecturally rather than empirically: no learners with special educational needs were studied, the SEN benefits described are proposed capabilities, and the paper flags bias from underrepresentation of diverse learners as an unresolved risk.
+- **Perspective, not evaluation.** The paper argues a position grounded in thematic analysis of existing literature; it reports no deployed system, and its framework is not tested, validated, or evaluated.
+- **The synthesis rests on the studies it reviews.** The coding covers the studies in the paper's own tables, so the reported distribution reflects that selected corpus, and many cited systems remain prototypes.
+- **Implementation questions stay open.** Interoperability, scalability, pedagogical over-reliance, bias, privacy, and human oversight are unresolved challenges rather than solved problems.
 
 ## Connected Concepts
 
-- [[agentic-ai]] — the ecosystem construct the paper extends to multi-agent platforms
-- [[higher-ed]] — the deployment context
-- [[pedagogical-agent]] — learning and teaching agents
-- [[special-education]] — SEN support as a first-class design lens
-- [[inclusive-learning]] — equitable personalization
-- [[universal-design-for-learning]] — sensory/accessibility alignment
-- [[equity-in-ai-education]] — inclusive-by-design and fairness
-- [[assistive-technology]] — accessibility agents and multimodal support
-- [[neurodiversity]] — the learner variability the framework targets
-- [[human-in-the-loop-ai]] — human oversight and co-evolution
-- [[human-ai-collaboration]] — collaborative models
-- [[self-regulated-learning]] — learning agents promoting self-regulation
-- [[scaffolding]] — cognitive support mechanism
-- [[learning-analytics]] — institutional predictive agents
-- [[cognitive-offloading]] — the over-reliance risk
-- [[learning-theories]] — pedagogical alignment
-- [[bias-mitigation]] — algorithmic bias in SEN contexts
-- [[privacy]] — data governance for sensitive learner data
+- [[agentic-ai]]
+- [[human-ai-collaboration]]
+- [[inclusive-learning]]
+- [[accessibility]]
+- [[neurodiversity]]
+- [[intelligent-tutoring]]
 
 ## Connected Articles
 
-- [[baradziej-agentic-ai-higher-education-2026]] — systematic review of the roles of agentic AI in higher education
-- [[kostopoulos-agentic-ai-education-2025]] — conceptual survey of agentic AI (definitional checklist + taxonomy)
-- [[agentic-ai-education-scoping-review]] — scoping review of agentic AI (474 studies)
-- [[astra-multi-agent-tutoring-benchmark-2026]] — multi-agent tutoring benchmark
-- [[jeon-isd-agent-bench-2026]] — instructional-design agent benchmark
+- [[kostopoulos-agentic-ai-education-2025]] : Agentic AI in Education: State of the Art and Future Directions
+- [[baradziej-agentic-ai-higher-education-2026]] : Systematic review of agentic AI roles in higher education
+- [[assistive-tech-neurodivergent-higher-ed-review-2026]] : Assistive technologies for neurodivergent students in higher education
 
 ## Citation
 
-Sudarshan, V. K., Sisodia, A., Ramachandra, R. A., Sia, B., & Chong Leng Leng, J. (2026). [*Agentic AI ecosystems in higher education: A perspective on emerging inclusive agentic multi-agent AI frameworks for learning, teaching and institutional intelligence*](https://arxiv.org/abs/2605.14266). *arXiv*.
+Vidya K Sudarshan, Anushka Sisodia, Reshma A Ramachandra, Sia Batra, Josephine Chong Leng Leng (2026). [*Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence*](https://arxiv.org/abs/2605.14266). arXiv:2605.14266. https://doi.org/10.48550/arXiv.2605.14266
 
 ---
 
@@ -103467,7 +103518,7 @@ This is one of the first systems to operationalize **[[human-ai-collaboration|hu
 
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[adaptive-pretesting-retention]]
@@ -103817,7 +103868,7 @@ The equity reading is less comfortable. Students working through diagrammatic pr
 - [[correct-answer-trap-ai-tutor]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 
@@ -104824,7 +104875,7 @@ The framework defines a progression from minimal to maximal teacher-AI collabora
 - [[ai-tpack-teacher-multi-agent-workflow]] — Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design
 - [[anvil-ai-educational-animations]] — ANVIL: Analogies and Videos for Lecturers
 - [[care-full-feedback-genai]] — The care-full craft of feedback in an age of generative AI
-- [[eduagentbench-agent-teaching-benchmark]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — Are Agents Ready to Teach? A Multi-Stage Benchmark for Real-World Teaching Workflows
 - [[prompt-based-programming-lesson]] — Teaching Prompt-Based Programming with LLMs: A 45-Minute Lesson with Guided Practice for End-User Programmers
 - [[genai-marketing-education-roles-2026]] — When AI Wears Many Hats: The Role of Generative Artificial Intelligence in Marketing Education
 
@@ -105736,7 +105787,7 @@ The LLM-judge separates clearly weak submissions but ranks the strongest poorly.
 ## Connected Articles
 
 - [[teachbench-llm-teaching-evaluation]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[solving-vs-evaluating-genai-solutions]]
 - [[yasir-llm-tutoring-agents-2026]]
@@ -108109,7 +108160,7 @@ es and sizes?
 
 - [[learning-by-chatting-genai-impact]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adaptive-pretesting-retention]]
 - [[agent-voice-accents-k12-group-learning]]
@@ -110283,6 +110334,67 @@ Voicu, C.-G. (2026). [*AI-Mediated Learning and the Restructuring of Interpretiv
 
 ---
 
+## [Mathematics Teachers’ Interactions with a Multi-Agent System for Personalized Problem Generation](https://edtechdev.github.io/aied/articles/walkington-teachers-multi-agent-personalized-problem-generation-2026/)
+
+> **Synthesis:** Walkington and colleagues studied the Persona Problem Builder (PPB), a teacher-in-the-loop [[human-in-the-loop-ai|multi-agent]] system that rewrites middle school mathematics problems around students' interests. A teacher supplies an ASSISTments problem and a topic, GPT-4o writes a personalized version, and four [[pedagogical-agent|specialized agents]] judge it for authenticity, realism, readability, and [[hallucination-risk|mathematical accuracy]]; failed checks go to a refinement agent, for up to five rounds. Eight seventh grade teachers produced 212 problems and assigned them to students. The result is uneven. [[motivation|Interest]] fit was the weak point: students' interests were so fine-grained that teachers and students alike wanted to edit the real-world details, and students rejected problem topics almost twice as often as they welcomed them. Realism fared better, with the agents catching implausibilities while the problems were being written. Readability and mathematical errors were rare. The authors argue that teacher judgment is not replaceable, and that authenticity remains the dimension personalization cannot guarantee.
+
+## Key Findings
+
+- **A four-agent review loop wraps every generated problem.** Authenticity, realism, reading-level, and hallucination agents each return pass or fail, and failures feed a refinement agent until all pass or five rounds elapse.
+- **Teachers accepted most output but revised what mattered.** Of 212 problems, 166 were accepted as-is while 46 drew 179 moves, clustered on topic, local context, and student names rather than errors.
+- **Interest fit was the hardest dimension.** Students called the topic something they liked in 83 of 422 responses, but disliked or did not engage with it in 160.
+- **Realism checks worked.** Teachers flagged 10 explicit realism problems and made 20 quantity or unit edits, while only 6 student comments on final problems concerned realism.
+- **Readability and mathematics errors were rare.** No teacher found a mathematics error in a final problem, only 7 readability prompts were made, and 10 students instead wanted longer contexts.
+- **Teachers still supplied mathematical judgment.** Twenty-five moves requested clearer mathematical language and 16 changed numbers or quantities, so the teacher's role went beyond catching surface mistakes.
+
+## How the Persona Problem Builder works
+
+The PPB is a web platform with a React frontend, a Flask API backend, and GPT-4o underneath, hosted on an EC2 instance and integrated with ASSISTments. A teacher enters an ASSISTments problem ID and a topic such as baseball, and chooses whether to keep or modify the original numerical values. A structured prompt produces the first personalized version, aiming at the chosen topic while preserving the underlying [[problem-solving|mathematics]]. Four agents then evaluate it: an authenticity agent for age-appropriate relatability, a realism agent for plausible quantities and units, a reading-level agent for vocabulary and sentence complexity, and a hallucination agent for consistency with the original. Each returns a binary decision and, on failure, the issues for a refinement agent. Teachers can then continue authoring before submitting the problem to ASSISTments.
+
+## The authenticity gap
+
+The largest problem was [[personalized-learning|authenticity]]. Of the 179 teacher moves, 48 changed the problem topic, 16 adjusted it to the teacher's local geographical context, and 17 changed the names of people, often to students in the class. Student feedback showed why. Of 422 response sets, 235 discussed the topic: 83 described it as something they liked, such as one about a song they were playing at that moment, while 160 described it as something they did not like or did not engage with in their lives. As the authors note, what is authentic to one student may be inauthentic to another. Only 4 responses raised broader authenticity concerns, and 9 critiqued the personalization itself, including one who wanted to enter their own interests and another who objected to being targeted.
+
+## Realism, readability, and mathematical judgment
+
+Realism was the dimension the agents handled best, and it shows how easily a model produces implausible contexts unchecked. Teachers made 10 moves telling the system a problem was unrealistic, asking for example whether a game allows fractional blocks, and 20 more adjusting quantities or units. Only 6 student comments on final problems raised realism, though these caught details the agents missed, such as a game that charges no tax. Reading level held up on three of four Coh-Metrix measures, with Flesch-Kincaid rising from 4.38 in the original problems to 6.62 in the personalized ones. Ten students wanted longer and more detailed contexts. No final problem drew a teacher-identified mathematics error, yet 25 moves sought mathematical clarity and 16 changed numbers, so professional judgment still shaped the mathematics students saw.
+
+## What this means for practice
+
+- **Keep a teacher in the loop.** Agents handled realism and readability, but teachers adjusted local fit and mathematical framing.
+- **Do not assume one topic fits a class.** Interests are fine-grained, and 160 of 422 responses rejected the topic built for them.
+- **Let students narrow or author their own interests**, since several asked to enter their interests or have problems matched by interest rather than by class.
+- **Expect multiple revision passes to be normal**, because 46 of the 212 problems needed 179 teacher moves before teachers were satisfied.
+
+## Limitations
+
+- **There is no comparison condition.** The study reports reactions to one system, with no contrast against human-written or single-agent problems.
+- **Realism effects are not isolated.** No clear experimental studies separate realism from other task features, so its effect on learning remains untested.
+- **Feedback is narrow and curriculum-bound.** The student data cover three open-ended questions about 47 personalized problems from one Illustrative Mathematics unit.
+
+## Connected Concepts
+
+- [[personalized-learning]]
+- [[pedagogical-agent]]
+- [[human-in-the-loop-ai]]
+- [[generative-ai]]
+- [[motivation]]
+- [[hallucination-risk]]
+
+## Connected Articles
+
+- [[ikram-multi-agent-personalized-math-problems-2026]]: the group's multi-agent validation framework.
+- [[ampt-math-personalization-genai-2026]]: a chat-based tool for interest-based math problems.
+- [[taklif-ai-interest-based-personalized-assignments]]: AI-generated assignments from declared interests.
+- [[ai-modeling-problem-generation-platform-2026]]: AI-supported problem generation for instruction.
+- [[mathematics-teachers-chatbot-motivation-2026]]: mathematics teachers connecting tasks to motivation.
+
+## Citation
+
+Candace Walkington, Theodora Beauchamp, Fareya Ikram, Merve Kocyigit Gurbuz, Fangli Xia, Morgan Lee, Andrew Lan (2026). [*Mathematics Teachers' Interactions with a Multi-Agent System for Personalized Problem Generation*](https://arxiv.org/abs/2604.12066). Accepted to AIED 2026, South Korea. arXiv:2604.12066. https://doi.org/10.48550/arXiv.2604.12066
+
+---
+
 ## [How university students work on assessment tasks with generative AI: matters of judgement](https://edtechdev.github.io/aied/articles/walton-bearman-assessment-judgment-2025/)
 
 Walton, Bearman, Crawford, Tai and Boud (2025) ask how university students exercise judgment while working with [[generative-ai|generative AI]] on [[assessment]] tasks. They conducted **26 interviews** with undergraduates at one large Australian university, mainly using a scroll-back approach that revisits traces of students' historical GenAI interactions, then analyzed the material with a holistic definition of judgment and narrative analysis.
@@ -110561,6 +110673,67 @@ Wang & Wang (2026) address an under-explored question: not just *whether* AI hel
 ## Citation
 
 Wang, Y., & Wang, Y. (2026). [*Explaining learning engagement in AI-assisted learning through teacher support and achievement goals: insights from goal-setting theory*](https://doi.org/10.1057/s41599-026-07636-8). *Humanities and Social Sciences Communications*, 13(1215).
+
+---
+
+## [Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design](https://edtechdev.github.io/aied/articles/wang-multi-agent-systems-learning-designers-2025/)
+
+> **Synthesis:** Wang, Xiao, Hou, and Stamper (2025) treat weak LLM-generated instructional materials as a design problem rather than a prompting problem, moving pedagogical expertise out of the teacher's prompt and into the model's architecture. They embed the Knowledge-Learning-Instruction (KLI) framework in a multi-agent system and compare a single-agent baseline, a role-based system that runs the KLI stages in sequence, and a collaborative system where three agents with different curriculum-design personas draft, critique, and revise before a decision agent selects a final activity. Twenty practicing secondary math and science teachers rated 30 activities against the Quality Matters K-12 standards. Rubric differences were small, but teachers preferred the collaborative system for creativity, real-world context, and classroom readiness at far higher computational cost.
+
+## Key Findings
+
+- **The prompting gap motivates the architecture.** A survey of 2,232 public-school teachers found 60 percent already used AI for teaching tasks, yet unguided prompts produce shallow, misaligned materials that reviewers called "a mile high and an inch deep."
+- **Teachers rated the collaborative system highest** on all four Quality Matters criteria and the total score (10.05 against 9.55), but **only active learning reached significance**, F(2, 38) = 4.75, p = .014, and there against only the role-based system.
+- **Expert agreement was weak**: Fleiss' kappa was 0.047 and 0.053 on two criteria, -0.030 and -0.043 on the others, and -0.016 pooled, which the authors read as rubrics missing what teachers value.
+- **The collaborative system cost far more**: 272 seconds, about 71,638 tokens, and 13 requests per activity against one for the baseline, while the LLM judge separated systems by at most 0.7 points and saturated on alignment and inclusivity.
+- **The role-based pipeline scored lowest**, so collaboration between agents, not the presence of agents, mattered.
+
+## The three systems and the KLI framework inside them
+
+Three generators were built for the same task. The baseline appends subject domain, grade level, standard alignment, and learning objective to the phrase "Generate learning activity". The role-based system turns KLI into a five-stage pipeline: a knowledge component agent identifies the facts, concepts, principles, or procedures to be learned, a learning process agent selects the relevant process, an instructional principle agent chooses a method such as spacing or worked examples, a design agent drafts the activity, and a feedback agent checks coherence. The collaborative system gives three agents the curriculum-design personas Behaviorist, Constructivist, and Aesthetic, drawn from a set of teacher personas; each drafts independently, then a conquer and merge discussion has them critique and revise before a decision agent picks the final activity.
+
+The KLI framework (Koedinger, Corbett, and Perfetti 2012) aligns knowledge components, learning processes such as fluency building and sense-making, and instructional principles such as spacing, worked examples, and prompted self-explanation.
+
+## What the rubric missed and the teachers saw
+
+The quantitative and qualitative results diverge: rubric scores clustered tightly, and the total-score ANOVA missed conventional significance even though a non-parametric check, chi-square of 6.24 with p = .044, suggested an overall difference, while written feedback separated the systems. Teachers praised the baseline for relevant topics but found its handouts unfinished, its pacing off, and its outputs needed lots of editing. They credited the role-based system with step-by-step structure and both formative and summative assessments, then faulted it as generic and sometimes unresponsive to a differentiation request. The collaborative system drew the strongest praise, called fantastic, creative, and classroom-ready, for a real-world urban planning theme and a complete package with worksheet, exit ticket, and teacher dialogue, though some lessons were too large for one class period.
+
+## Cost, judges, and the ceiling problem
+
+Time, tokens, and requests rise steeply from the baseline through the sequential system to the collaborative one: the role-based system needed about 77 seconds and 22,497 tokens across 5.4 requests, roughly three times the baseline's time and seven times its tokens. An LLM judge ran over 120 activities spanning four models, with the strongest totals for the collaborative system on the more capable model, and differences stayed small while several dimensions saturated near the maximum. The authors note known weaknesses of automated judging, including bias toward longer outputs and a positivity bias, and conclude that scoring should complement teacher judgment.
+
+## What this means for practice
+
+- **Put the pedagogy in the tool, not the prompt.** A pipeline that carries instructional theory lets the 60 percent of teachers already using AI generate sound activities without the prompt-engineering skill most lack.
+- **Judge materials by teacher utility, not only rubric alignment.** Teachers valued complete packages with worksheets, exit tickets, and teacher dialogue; alignment scores did not separate the systems, and the most common critique was that activities were too much for one period.
+- **Keep expert teachers in the loop, and budget for cost.** An automated judge missed what teachers named, and the preferred design used about ten times the time and twenty times the tokens of the baseline.
+- **Read design quality and teaching quality as separate targets.** The paper implements the principled-AI agenda of augmenting the learning sciences, unlike teaching benchmarks such as TeachBench, which score instructional ability.
+
+## Limitations
+
+- **Designs were evaluated, not implemented.** Activities were rated by teachers and models but never tested with students, leaving no evidence about learning or engagement.
+- **Reliability was low and the sample small.** Expert agreement fell below chance when criteria were pooled, and the 20 raters were secondary math and science teachers (11 math, 9 science) in the United States only.
+- **One framework, a fixed set of architectures.** The study embeds one pedagogical framework in specific agent workflows, generated with gemini-2.5-flash plus three other Gemini models for the judge comparison, so other theories and designs are untested.
+
+## Connected Concepts
+
+- [[pedagogical-agent]]
+- [[curriculum-design]]
+- [[learning-design]]
+- [[prompt-engineering]]
+- [[active-learning]]
+
+## Connected Articles
+
+- [[finkelstein-principled-ai-education-2025]]
+- [[ai-tpack-teacher-multi-agent-workflow]]
+- [[agentic-workflows-education]]
+- [[multi-agent-llm-social-learning]]
+- [[teachbench-llm-teaching-evaluation]]
+
+## Citation
+
+Wang, J., Xiao, R., Hou, X., & Stamper, J. (2025). [*Enabling multi-agent systems as learning designers: applying learning sciences to AI instructional design*](https://arxiv.org/abs/2508.16659). arXiv:2508.16659. https://doi.org/10.48550/arXiv.2508.16659
 
 ---
 
@@ -113241,6 +113414,76 @@ Santos-Deonizio, Malamut, Martínez, & Demszky (2026). [*When Youth Enter The Ch
 ## Citation
 
 L. Xiao, G. Chen, Y. Zhang et al. (2026). [How YouTube Frames ChatGPT Use in Education: An Epistemic Network Analysis with Supporting Multimodal Metadata](https://arxiv.org/abs/2607.08698).
+
+---
+
+## [AcademiClaw: When Students Set Challenges for AI Agents](https://edtechdev.github.io/aied/articles/yu-academiclaw-student-challenges-ai-agents-2026/)
+
+> **Synthesis:** Yu and colleagues introduce AcademiClaw, a bilingual benchmark of 80 long-horizon academic tasks contributed by university students from their own coursework, research, competitions, and personal projects. Undergraduates submitted problems a mainstream [[agentic-ai|AI agent]] had already failed, and expert review distilled 230 candidates into 80 tasks spanning 25+ professional domains, from olympiad mathematics and linguistics to [[reinforcement-learning|reinforcement learning]] and full-stack debugging, with 16 tasks requiring CUDA GPUs. Each task runs in an isolated Docker sandbox with the scoring rubric withheld, and evaluation combines six techniques on rubrics of three to six dimensions summing to 100 points, joined to a five-category [[guardrails|safety audit]]. Across six frontier models run through OpenClaw, the best passes only 55 percent, 23 tasks defeat every model, spending is uncorrelated with score, and models settle into distinct behavioral phenotypes.
+
+## Key Findings
+
+- **Tasks came from students.** Undergraduates submitted 230 problems they had already seen defeat a mainstream agent; review kept 80, split 49 English and 31 Chinese.
+- **Six categories, 16 needing CUDA GPUs.** Research and analysis (21), ML and AI engineering (17), software engineering (17), STEM reasoning (11), language and creativity (7), applied work (7).
+- **Each task runs in an isolated Docker sandbox** with a two-layer image hierarchy; the rubric stays hidden and only agent-created files reach scoring.
+- **Scoring draws on six techniques.** Rubrics hold three to six dimensions summing to 100 points, spanning pattern matching, code execution, LLM-as-judge, vision assessment, browser testing, and structured outputs; pass is 75.
+- **The best model passed only 55 percent.** Claude Opus 4.6 led on average score (71.9) and tied Sonnet 4.6 on pass rate; 23 of 80 tasks (28.8 percent) defeated all six models, and 8 drew every model below 50.
+- **Token spending bought no quality.** Across 480 model-task evaluations, consumption and score were uncorrelated (r = -0.03), so the biggest spenders gained nothing.
+
+## Scope and how the tasks were chosen
+
+The task pool is bottom-up: each contributor confirmed at least one mainstream agent had failed the task. Submissions followed a fixed layout: a natural-language prompt, optional reference materials, a programmatic rubric, and metadata declaring expected deliverables. Experts reviewed each candidate for prompt clarity, rubric correctness, reproducibility, difficulty calibration, and coverage balance. Of 230 submissions, 150 were removed, rubric defects the largest cause (57), then prompt ambiguity (34), difficulty mismatch (28), coverage balancing (18), and infeasibility (13). The 80 tasks are natively bilingual, not translated, and the data, code, and scaffolding are released in the [AcademiClaw repository](https://github.com/GAIR-NLP/AcademiClaw).
+
+## Evaluation machinery
+
+Pattern matching inspects structure through regular expressions and AST parsing; code execution compiles agent programs and runs unit tests; an LLM-as-judge scores open-ended reports on a 0 to 100 scale; a vision LLM compares rendered graphics against references; Playwright drives agent-built web apps headlessly; structured-output validation checks JSON schemas, CSV values, BibTeX, and spreadsheet cells. The judge was chosen by pilot study: on 25 stratified outputs, Claude Sonnet 4.5 and GPT-5.2 best matched human annotations (0.93 and 0.91), and GPT-5.2's lower per-call cost made it the unified judge. A rule-based auditor scores the tool-call trajectory for destructive operations, information leakage, boundary compliance, privilege escalation, and supply-chain risk.
+
+## What the diagnostics revealed beyond pass rates
+
+Cross-category variation (26.3 points) far exceeds cross-model variation (8.8 points): what a task tests matters more than which model attempts it. STEM reasoning was hardest, averaging 50.6 with no model above 61.5, and competition tasks devastated every model: the International Linguistics Olympiad task averaged 17.3, and all six scored exactly 25 on React and FastAPI debugging. Rankings were category-dependent; GPT-5.4 swung 34.3 points between its best and worst categories. High-variance tasks exposed sharper boundaries: a family tree from One Hundred Years of Solitude separated models by 90 points, and a TensorFlow-to-PyTorch migration produced one catastrophic zero.
+
+## What this means for practice
+
+- **Benchmark agents on your own students' hard problems.** Problems that defeated a mainstream agent in a real course are more diagnostic than researcher-designed proxies.
+- **Read category profiles, not headline averages.** One overall score conceals a 26.3-point spread between the easiest and hardest domains.
+- **Do not equate effort with capability.** GPT-5.4 spent the fewest tokens (525K, 240 seconds per task) yet placed third, while Gemini 3.1 Pro burned 5.4 times as many for no quality gain; plan for reasoning depth rather than activity.
+- **Treat boundary compliance as the live safety risk.** Privilege escalation was uniformly controlled, but workspace boundary violations drove nearly all divergence; most models scored above 80 on the safety audit, Gemini 3.1 Pro the outlier at 74.9, and only aggregate statistics are public.
+
+## Limitations
+
+- **Single institution and single discipline.** Contributors were computer science undergraduates in one Large Language Model Technologies course at Shanghai Jiao Tong University, a primarily Chinese context.
+- **Reproduction is hardware-dependent.** The 16 GPU-intensive tasks need specialized hardware.
+- **Single-attempt evaluation.** Each model got one try per task, so multi-trial and feedback-based protocols remain future work.
+- **Incomplete model coverage.** Six models were tested, leaving recent releases and other providers unmeasured, and results are snapshots tied to one framework and judge.
+
+Open questions remain: does the ceiling move under iterative refinement or multi-agent collaboration, do results hold outside China, could the benchmark extend to K-12 or professional training, and what does the token-quality disconnect mean for tutoring billed by token?
+
+## Connected Concepts
+
+- [[agentic-ai]]
+- [[benchmark]]
+- [[ai-ed-evaluation]]
+- [[reinforcement-learning]]
+- [[guardrails]]
+- [[pedagogical-llm-training]]
+- [[math-education]]
+- [[prompt-engineering]]
+- [[human-in-the-loop-ai]]
+- [[open-source]]
+
+## Connected Articles
+
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] - An agent benchmark built on teaching tasks
+- [[persistent-ai-agents-academic-research]] - Persistent agents in academic work
+- [[ba-ai-agents-cscl-review-2026]] - AI agents in collaborative learning
+- [[agentic-ai-education-scoping-review]] - Scoping review of agentic AI
+- [[ai-tutor-behavioral-evaluation]] - Tutor effectiveness from 10,000 submissions
+- [[ai-generated-feedback-higher-ed]] - AI feedback in university education
+- [[scheu-mobile-chatbot-journaling-motivation-2026]] - Journaling chatbot for motivation
+
+## Citation
+
+Yu, J., Lu, P., Si, W., Lu, H., Wu, J., Tao, K., and 71 other authors (2026). [*AcademiClaw: When Students Set Challenges for AI Agents*](https://arxiv.org/abs/2605.02661). arXiv:2605.02661. https://doi.org/10.48550/arXiv.2605.02661
 
 ---
 

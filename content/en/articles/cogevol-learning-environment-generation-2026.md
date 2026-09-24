@@ -68,7 +68,7 @@ On quality [[benchmark|benchmarks]], CogEvol-27B scores 83.7 on a slide suite an
 - [[ai-generated-slides-student-perception]] — AI-Generated Slides: Student Perception
 - [[ai-generated-instructional-videos-computing-ed]] — AI-Generated Instructional Videos
 - [[curriculum-as-code-instructional-design-2026]] — Curriculum as Code
-- [[multi-agent-instructional-design]] — Multi-Agent Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Instructional Design
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents for Course Generation
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI Instructional Design Review
 - [[refrain-amplify-genai-curriculum-2026]] — Refrain, Then Amplify Curriculum Framework

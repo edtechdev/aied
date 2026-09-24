@@ -65,7 +65,7 @@ The paper advocates treating **kind-but-correct behavior** as a **safety require
 - [[prompt-injection-defenses-educational-llm-tutors]]
 - [[socially-fluent-ai-identity-detection]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 ## Citation
 
 Kasneci, E., & Kasneci, G. (2026). [Sycophancy is an educational safety risk: Why LLM tutors need sycophancy benchmarks](https://arxiv.org/abs/2605.14604).

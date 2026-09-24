@@ -1619,7 +1619,7 @@ What that design work involves in practice is itself an empirical question. [[ta
 
 **Rubric-guided prompting as a design lever.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] demonstrated that the rubric functions as a mediating interface between human pedagogical intent and machine inference: treating assessment criteria as revisable design artifacts — rather than fixed instruments — and iteratively co-refining them with the LLM raised LLM–human agreement on student design work from 54.75% to 81.25%. Rubrics engineered for LLMs must balance precision and flexibility — too vague invites free interpretation, too rigid reduces the model to pattern-matching — and role-aware prompting (instructor, peer reviewer, grant reviewer) yielded distinct evaluative feedback. This positions rubric engineering as a concrete learning-design practice for shaping AI evaluation behavior, with human-in-the-loop oversight remaining essential.
 
-**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage — its description of the student experience predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[multi-agent-instructional-design]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
+**AI agents for instructional design** extend the field into [[agentic-ai|agentic AI]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** is the first standardized, theory-grounded benchmark for evaluating LLM-based instructional design agents — its 25,795-scenario Context Matrix (51 contextual variables × 33 ISD sub-steps from ADDIE) shows that agents grounded in classical ISD frameworks (ADDIE, Dick & Carey, Rapid Prototyping ISD) outperform theory-free agents, empirically validating that instructional design is a structured discipline rather than a generic prompting task. Agents are not only *builders* of designs but also *critics* of them: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] use a single autonomous web agent that navigates a multi-step online lesson like a student to evaluate a learning design *before* real learners engage — its description of the student experience predicts where novices will drop out and surfaces actionable design feedback, outperforming every baseline and even a simulated cohort of students on a global CS1 course. This frames pre-launch, agentic evaluation as a low-cost complement to human design iteration. **[[wang-multi-agent-systems-learning-designers-2025]]** and **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** explore multi-agent frameworks that orchestrate role-based agents around instructional-design models, while **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** examines how teachers and agents jointly apply technological-pedagogical-content knowledge. This work connects instructional design to [[benchmark|benchmarking]], [[ai-ed-evaluation]], and the design of [[curriculum-design|curriculum]] at scale.
 
 ### Connections to related concepts
 
@@ -1637,7 +1637,7 @@ For instructional designers, course developers, and engineers building AI-assist
 
 **Adopt a principle-level framework as well as an instructional model.** A course-level model structures one design; a published framework sets the criteria that many designs should satisfy. An example worth reading in full is Digital Promise's *Powerful Learning with Emerging Technology*, which organizes its guidance under three principles — Evidence-Based, Learner-Centered, Skill-Building — each expanded into practices and strategies, and attaches [[privacy]], [[explainable-ai|explainability]] and fairness to particular practices as safety obligations rather than optional extras.([[powerful-learning-with-emerging-technology-2025]])
 
-**Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[multi-agent-instructional-design]])
+**Use role-based multi-agent workflows for content production.** Instead of one generic prompt, orchestrate distinct agents/roles (teaching faculty, instructional designer, course coordinator) that collaborate through a defined pipeline — this mirrors how real course teams work and yields more complete materials than a single prompt.([[instructional-agents-multi-agent-course-gen]])([[wang-multi-agent-systems-learning-designers-2025]])
 
 **Provide instructional guidance, not just AI access.** Whether learners interact with AI directly or with AI-generated materials, guidance built on learning theory (e.g. a stepwise prompting [[scaffolding|scaffold]] grounded in generative-learning principles) drives higher-order outcomes; access alone does not. Design the learning activity around how the mind learns, and treat AI as a cognitive "mindtool" that extends thinking rather than replacing it.([[instructional-guidance-genai-learning]])([[genai-mindtool-generative-learning]])
 
@@ -1706,7 +1706,7 @@ For instructional designers, course developers, and engineers building AI-assist
 - [[jeon-isd-agent-bench-2026]]
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
-- [[multi-agent-instructional-design]]
+- [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
 - [[vargas-situated-learning-ai-review-2024]]
@@ -5211,7 +5211,7 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
 - [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
 - [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[multi-agent-instructional-design]] — Behaviorist persona among collaborative multi-agent design approaches
+- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
 
 ---
 
@@ -10078,7 +10078,7 @@ Because tutoring requires corrective friction — challenging a student's incorr
 
 - [[zerkouk-comprehensive-review-its-2025]]
 - [[civic-education-ai-lesson-plans]]
-- [[cognitive-agent-compilation]]
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]]
 - [[contextual-sycophancy-ai-literacy]]
 - [[educational-llm-alignment]]
 - [[eduguard-safe-rag-llm-tutor]]
@@ -10389,7 +10389,7 @@ Cognitive diagnosis connects to [[knowledge-tracing]], [[student-modeling]], [[e
 - [[llm-misconception-difficulty-easy-trap]] — The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty
 - [[llm-student-misconception-identification]] — LLM identification of student misconceptions
 - [[student-math-competence-clustering]] — Clustering for Modeling Student Mathematical Competence
-- [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - [[eeg-familiarity-automated-assessment-2026]] — Automating Learner Assessment: EEG-Based Familiarity Prediction
 - [[educlaw-bench-pedagogical-llm-agents-2026]] — EduClaw-Bench: diagnosing from simulated learners
 - [[huang-interpretable-knowledge-tracing-2026]] — Interpretable knowledge tracing
@@ -11082,7 +11082,7 @@ A pedagogical agent is an interactive AI component within a learning system that
 
 **Agents in immersive and extended-reality settings.** [[aclime-pedagogical-agents-extended-reality-2026|Ross and Kaspar (2026)]] extend the concept into [[virtual-and-augmented-reality|extended reality]] (AR, augmented virtuality and VR) with ACLIME, a conceptual framework that — unlike CAMIL, CATLM-VR and TICOL — keeps the agent inside the model. It names two interaction modes drawn from the literature: the tutor, offering guidance, encouragement, reflective questioning and explanations, and the role-playing partner, which occupies a defined role inside a scenario such as a local on a climate-change field trip or a negotiating counterpart in corporate training. The agent's body (head-only through full body) and behavior are treated as design surfaces: visual versus behavioral realism, flexible AI control versus fixed rule-based scripting, synthesized versus pre-recorded speech, and nonverbal channels including gaze, gesture and proxemics. Immersion and body-based interactivity are argued to multiply the social cues behind [[community-of-inquiry|social presence]] — behavioral realism, not visual realism, is proposed as the decisive predictor — while the learner's own virtual body adds an [[embodied-learning|embodiment]] dimension (body ownership, virtual own body agency, self-location) and the proteus effect. The framework's explicit trade-off is cognitive: immersion and the agent's mere presence can raise [[cognitive-psychology|cognitive load]] even as social interaction with the agent lowers it through the collective working-memory effect, and a temporal layer (familiarization, maturing human-agent relations, novelty decline, developing cybersickness) is added to the usual design variables. Its status is deliberately provisional: hardly any empirical work yet tests pedagogical agents in immersive media, and long-term [[learning-gains|learning outcomes]] as well as learner characteristics sit outside the model.
 
-**Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[eduagentbench-agent-teaching-benchmark|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
+**Evaluation and benchmarks.** Measuring a pedagogical agent requires testing pedagogy, not content. [[teaching-monster-pck-benchmark-2026|The Teaching Monster Challenge]] benchmarks Pedagogical Content Knowledge by asking agents to adapt a lesson to a specified learner persona, finding systems strong on content but weak at adapting it — and revealing that LLM-judges mis-rank strong systems. [[chen-teacharena-language-agents-realistic-teaching-2026|EduAgentBench]] evaluates agents across professional pedagogical judgment, [[situated-learning|situated]] multi-turn tutoring, and canvas-style workflow completion, showing models fall short of professional teaching standards. [[ai-generated-interactive-fiction-education-2026|AI-generated interactive fiction]] adds a design-evaluation angle: coherence and quiz integration, not generation capability, limit usefulness for the [[student-experience|student experience]].
 
 ## Practical guidance
 
@@ -11132,7 +11132,7 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[adversarial-stress-testing-role-playing-agents]]
 - [[teaching-monster-pck-benchmark-2026]]
 - [[structrag-diagram-reasoning-ai-tutoring]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[mooc-to-maic]]
 - [[rethinking-scaffolding-llm-tutors]]
 - [[lecturaagents-multi-agent-teaching]]
@@ -11418,7 +11418,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[code-gen]]
 - [[cong-confidence-asag-2026]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
@@ -11689,7 +11689,7 @@ The clearest case for open code is replication. [[oatutor-open-source-adaptive-t
 
 ### Open benchmarks, datasets, and method transparency
 
-Several contributions here are open *evaluation infrastructure* rather than systems. [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spans 97 models: open-weight DeepSeek R1 reached 86.65% against a top-10 of mostly closed reasoning models, and the cost–accuracy frontier moved from ~50% to ~82% at \$0.10/M input tokens between April 2024 and June 2025 — with open Qwen-3 8B at 3.5¢ nearly matching the best April-2024 closed model at over 400× lower cost. Performance drops sharply below roughly 8B parameters, which is a practical sizing constraint for campus deployments. [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a dataset, schema, and prototype for trace-based evaluation of socially intelligent multi-agent tutoring (540 participants, 360 sessions, 1,440 task episodes). [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] shows the cultural case for open data: 24,795 instruction–response pairs across seven languages and 41 pedagogical techniques drawn from Vedic and classical sources, aligned to the CBSE [[curriculum-design|curriculum]], which let a compact 7B model approach a much larger general-purpose reference model (median judge score 6.39 vs 6.54) at a fraction of the deployment cost. Student-authored [[benchmark|benchmarks]] are another route to openness: [[academiclaw-student-agent-benchmark|AcademiClaw]] curates 80 long-horizon academic tasks from 230 student-submitted candidates (spanning 25+ professional domains, 16 requiring CUDA GPUs, run in isolated Docker sandboxes) and extends an open agent ecosystem into academic-level evaluation. [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argue that openness is an [[sustainability|environmental]] obligation as well: reviewing all AIED 2025 papers, they found an "LLM adoption without disclosure" pattern and responded with an open-source measurement methodology — software tools plus a formula that estimates computational expense even when parameter counts are unknown.
+Several contributions here are open *evaluation infrastructure* rather than systems. [[cdpk-pedagogy-benchmark-llms|The Pedagogy Benchmark]] (CDPK + SEND, built from genuine Chilean teacher-exam items) spans 97 models: open-weight DeepSeek R1 reached 86.65% against a top-10 of mostly closed reasoning models, and the cost–accuracy frontier moved from ~50% to ~82% at \$0.10/M input tokens between April 2024 and June 2025 — with open Qwen-3 8B at 3.5¢ nearly matching the best April-2024 closed model at over 400× lower cost. Performance drops sharply below roughly 8B parameters, which is a practical sizing constraint for campus deployments. [[astra-multi-agent-tutoring-benchmark-2026|ASTRA]] releases a dataset, schema, and prototype for trace-based evaluation of socially intelligent multi-agent tutoring (540 participants, 360 sessions, 1,440 task episodes). [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] shows the cultural case for open data: 24,795 instruction–response pairs across seven languages and 41 pedagogical techniques drawn from Vedic and classical sources, aligned to the CBSE [[curriculum-design|curriculum]], which let a compact 7B model approach a much larger general-purpose reference model (median judge score 6.39 vs 6.54) at a fraction of the deployment cost. Student-authored [[benchmark|benchmarks]] are another route to openness: [[yu-academiclaw-student-challenges-ai-agents-2026|AcademiClaw]] curates 80 long-horizon academic tasks from 230 student-submitted candidates (spanning 25+ professional domains, 16 requiring CUDA GPUs, run in isolated Docker sandboxes) and extends an open agent ecosystem into academic-level evaluation. [[aied-carbon-footprint-reporting|Eimler et al. (2026)]] argue that openness is an [[sustainability|environmental]] obligation as well: reviewing all AIED 2025 papers, they found an "LLM adoption without disclosure" pattern and responded with an open-source measurement methodology — software tools plus a formula that estimates computational expense even when parameter counts are unknown.
 
 ### Open educational resources and open content
 
@@ -11748,7 +11748,7 @@ Openness of content and openness of models are complements elsewhere too. OATuto
 - [[mechanical-engineering-ai-curriculum-2026]] — Publicly available curriculum, data, and code
 - [[mooc-to-maic]] — LLM-driven course generation and the changing economics of course production
 - [[agentic-ai-education-scoping-review]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[omniedu-open-educational-foundation-models-2026]] — OmniEdu: Open Foundation Models for Learning and Teaching
 
 ---
