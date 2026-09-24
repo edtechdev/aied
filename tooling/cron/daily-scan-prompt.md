@@ -31,9 +31,32 @@ Use `python3 tooling/scripts/wiki_config.py --get scan.sources` to print the
 current list.
 
 ### arXiv API
-Query each `type: arxiv_api` source from the config via `execute_code` + Python
-`urllib` (see `references/arxiv-api-query-pattern.md`), filtering titles with the
-source's `keywords`.
+
+**All arXiv access goes through the rate-limited client** —
+`python3 tooling/scripts/arxiv_fetch.py`. Do not hand-roll a `urllib` loop, and never
+fetch arXiv in parallel: arXiv's [terms of use](https://info.arxiv.org/help/api/tou.html)
+allow **no more than one request every three seconds, from a single connection**, and
+the limit counts every machine under this operator as a whole, so a loop over
+categories or two subagents fetching their own pages both exceed it. The client holds
+an exclusive cross-process lock across each request, so it cannot be exceeded even if
+several of your steps run the client at once — it will simply serialize and take
+3 seconds per request.
+
+Query each `type: arxiv_api` source from the config via that client (see
+`references/arxiv-api-query-pattern.md`), filtering titles with the source's
+`keywords`. A scan over the configured categories therefore costs about 3 seconds per
+category; that is the correct, expected cost.
+
+```bash
+# one category (repeat the call per category; the client paces them)
+python3 tooling/scripts/arxiv_fetch.py --query "cat:cs.CY AND (ti:education OR ti:learning) AND submittedDate:[START TO END]" --max 20
+# new articles in a category, when the dated query returns nothing (e.g. a weekend)
+python3 tooling/scripts/arxiv_fetch.py --rss cs.CY
+```
+
+If a fetch using another transport is unavoidable (the browser tool), claim the window
+first: `python3 tooling/scripts/arxiv_fetch.py --reserve --hold <seconds>`, and
+serialize — never parallel.
 
 Query format:
 ```

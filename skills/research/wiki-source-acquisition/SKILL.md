@@ -13,6 +13,12 @@ findings into concept narratives, and page-format rules live in their own skills
 
 ## Order of attempts
 
+> **arXiv's rate limit applies to every fetch in this skill**: no more than one request every
+> three seconds, from a single connection at a time, across all machines one operator
+> controls (<https://info.arxiv.org/help/api/tou.html>). Claim the window before a scripted
+> or browser fetch of an arXiv URL with `python3 tooling/scripts/arxiv_fetch.py --reserve
+> --hold <seconds>`, and never fetch two arXiv sources concurrently.
+
 1. **Scripted fetch of the canonical PDF** — arXiv, or any publisher that still serves PDFs to a
    plain `curl` with a normal user-agent.
 2. **OpenAlex OA lookup** for a DOI-backed source: `https://api.openalex.org/works/doi:<doi>`, then
