@@ -70,7 +70,7 @@ Three annotators with college-level mathematics backgrounds labeled 45 sampled Z
 
 - [[walkington-teachers-multi-agent-personalized-problem-generation-2026]]: Teacher-driven context personalization with large language models
 - [[proiqa-math-item-quality-assessment-2026]]: Assessing the quality of generated math items
-- [[multi-agent-instructional-design]]: Multi-agent workflows for instructional design
+- [[wang-multi-agent-systems-learning-designers-2025]]: Multi-agent workflows for instructional design
 - [[taklif-ai-interest-based-personalized-assignments]]: Personalizing assignments to student interests with AI
 
 ## Citation

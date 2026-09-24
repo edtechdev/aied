@@ -24,6 +24,15 @@ export default defineConfig({
     // page for the same paper; keep the old slug resolving for inbound links.
     '/articles/cognitive-agent-compilation':
       '/aied/articles/moon-cognitive-agent-compilation-problem-solver-modeling-2026',
+    // Consolidated into the single page for the same paper; keeps inbound links resolving.
+    '/articles/academiclaw-student-agent-benchmark':
+      '/aied/articles/yu-academiclaw-student-challenges-ai-agents-2026',
+    // Consolidated into the single page for the same paper; keeps inbound links resolving.
+    '/articles/eduagentbench-agent-teaching-benchmark':
+      '/aied/articles/chen-teacharena-language-agents-realistic-teaching-2026',
+    // Consolidated into the single page for the same paper; keeps inbound links resolving.
+    '/articles/multi-agent-instructional-design':
+      '/aied/articles/wang-multi-agent-systems-learning-designers-2025',
   },
   integrations: [pagefind(), sitemap()],
   vite: {

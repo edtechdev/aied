@@ -51,7 +51,7 @@ ISD-Agent-Bench operationalizes [[learning-design|instructional design theory]] 
 - [[rag]]
 ## Connected Articles
 
-- [[multi-agent-instructional-design]] — Multi-Agent Systems for Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] — Multi-Agent Systems for Instructional Design
 - [[educational-llm-alignment]] — Educational LLM Alignment
 - [[agentic-ai-education-scoping-review]] — Agentic AI in Education: A Scoping Review of Research Landscape, Capabilities, and the Frontier Agent Paradigm
 - [[agentic-workflows-education]] — Agentic Workflows in Education

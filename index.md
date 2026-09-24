@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-23
 
-Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
+Articles: 1417 | Concepts: 216 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -16,7 +16,6 @@ Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 - [[academic-erasure-complexity-ai-writing-2026]] — Academic Erasure: The Disappearance of Complexity Under AI-Supported Writing
 - [[academic-integrity]] — Academic Integrity
 - [[academic-league-of-ai-2026]] — Academic League of Artificial Intelligence: An Integrative Perspective of Teaching, Research, and Extension
-- [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
 - [[acceptance-ai-english-tools-2026]] — Acceptance of AI-Assisted English Language Learning Tools in Higher Education: Psychological Correlates Across Disciplinary and Proficiency Groups
 - [[access-not-enough-ai-tutoring-2026]] — Access is Not Enough: Human Support Improves Engagement with AI Tutoring
 - [[accessibility]] — Accessibility
@@ -544,7 +543,6 @@ Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 - [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
 - [[edtech-design-time-generative-ui]] — The Missing Layer: Why EdTech Needs Design-Time Generative UI, Not Just Runtime Personalization
 - [[edtech-platform]] — Edtech Platform
-- [[eduagentbench-agent-teaching-benchmark]] — TeachArena: Are Language Agents Ready for Realistic Teaching Work?
 - [[educasim-cs1-instructional-practice]] — EducaSim: Interactive Simulacra for CS1 Instructional Practice
 - [[educating-minds-generative-ai-2026]] — Educating minds with generative AI
 - [[education-levels]] — Levels of Education
@@ -1066,7 +1064,6 @@ Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 - [[motivation-shape-future-education-ai-switzerland-china]] — Motivation to shape the future of education with Artificial Intelligence: An international comparison between Switzerland and China
 - [[mujib-ai-ibl-creative-math-2026]] — Evaluating the Impact of AI-Supported Inquiry-Based Learning on Students' Creative Mathematical Performance, Critical Problem-Solving Skills, and Attitudes Toward Mathematics
 - [[mulisa-students-genai-integrity-perspectives-2026]] — Tools facilitate cheating, or partner supports learning? GenAI and academic integrity issues from students' perspectives
-- [[multi-agent-instructional-design]] — Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
 - [[multi-agent-llm-social-learning]] — Beyond the AI Tutor: Social Learning with LLM Agents
 - [[multi-site-vr-immersive-learning]] — Design and Implementation of a Real-time Multi-site Immersive Learning System Using Photon Fusion
 - [[multiagent-classroom-dual-process-physics-teachers-2026]] — A multi-agent AI classroom based on dual-process reasoning hazards: a pilot with prospective physics teachers
@@ -1612,6 +1609,7 @@ Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 
 ## Resources
 
+- [[clarity]] — Clarity
 - [[claw-ed]] — Claw-ED
 - [[deeptutor]] — DeepTutor
 - [[drawsplat]] — DrawSplat
@@ -1619,16 +1617,22 @@ Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 - [[edugems]] — EduGems
 - [[gemini-notebook]] — Gemini Notebook
 - [[id-toolbox]] — The ID Toolbox
+- [[idstack]] — idstack
 - [[institutional-ai-readiness-pack]] — The Institutional AI Readiness Pack
 - [[lesson-md]] — LESSON.md
 - [[liascript]] — LiaScript
+- [[master-instructional-design]] — Master Instructional Design
+- [[matt-pocock-skills]] — Skills for Real Engineers
 - [[mglearn]] — mglearn Classroom Resources
+- [[multi-agent-instructional-design-system]] — Multi-Agent Instructional Design System
 - [[onmicro-ai]] — OnMicro.AI
 - [[openmaic]] — OpenMAIC
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination
+- [[pedagogical-promptbook]] — The Pedagogical Promptbook
 - [[playlab]] — Playlab
 - [[pressing-prompts]] — Pressing Prompts
 - [[process-feedback]] — Process Feedback
 - [[teacherserver]] — TeacherServer
 - [[vibes-diy]] — Vibes DIY
+- [[writing-rhetoric-studies-in-the-loop]] — Writing and Rhetoric Studies in the Loop: A GenAI Prompt Library
 

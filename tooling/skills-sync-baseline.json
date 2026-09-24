@@ -1,1 +1,6 @@
-{}
+{
+  "tooling/cron/weekly-rss-scan-prompt.md": {
+    "installed": "1784c89c733077bd",
+    "repo": "a045029da228b746"
+  }
+}

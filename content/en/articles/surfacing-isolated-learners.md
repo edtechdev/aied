@@ -73,7 +73,7 @@ This is one of the first systems to operationalize **[[human-ai-collaboration|hu
 
 - [[a4l-analytics-pipeline]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adapt-adaptive-lesson-plan-transformer]]
 - [[adaptive-pretesting-retention]]

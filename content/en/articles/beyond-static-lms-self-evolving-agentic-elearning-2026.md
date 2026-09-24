@@ -71,7 +71,7 @@ Capability evolution follows a controlled lifecycle: observe need from behaviora
 
 ## Connected Articles
 
-- [[multi-agent-instructional-design]] : Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
+- [[wang-multi-agent-systems-learning-designers-2025]] : Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
 - [[agentic-workflows-education]] : Evolution of AI in Education: Agentic Workflows
 - [[beyond-agent-label-agentic-ai-governance-2026]] : Beyond the Agent Label: Evidence Maturity, Human Monitoring, and Governance of Agentic AI in Higher Education
 
