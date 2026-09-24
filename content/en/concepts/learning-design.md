@@ -10,7 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [id-toolbox, lesson-md, onmicro-ai, vibes-diy]
+connected_resources: [id-toolbox, lesson-md, onmicro-ai, vibes-diy, liascript]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:

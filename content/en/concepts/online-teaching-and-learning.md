@@ -8,6 +8,7 @@ pedagogy: [online-teaching-and-learning, pedagogy]
 technology: [generative-ai]
 level: [higher ed]
 confidence: high
+connected_resources: [liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
 ---
