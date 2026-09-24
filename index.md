@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-23
 
-Articles: 1411 | Concepts: 216 | Resources: 17 | FAQs: 32
+Articles: 1420 | Concepts: 216 | Resources: 19 | FAQs: 32
 
 ## Concepts
 
@@ -1612,8 +1612,10 @@ Articles: 1411 | Concepts: 216 | Resources: 17 | FAQs: 32
 
 ## Resources
 
+- [[claw-ed]] — Claw-ED
 - [[deeptutor]] — DeepTutor
 - [[drawsplat]] — DrawSplat
+- [[education-agent-skills]] — Education Agent Skills
 - [[edugems]] — EduGems
 - [[gemini-notebook]] — Gemini Notebook
 - [[id-toolbox]] — The ID Toolbox

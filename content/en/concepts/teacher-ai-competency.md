@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-23T12:54:50-04:00"
+updated: "2026-09-24T02:22:12-04:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -11,6 +11,7 @@ ethics: [equity-in-ai-education]
 audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
+connected_resources: [claw-ed]
 reviewed_by: [editor]
 ---
 
