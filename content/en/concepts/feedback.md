@@ -1,7 +1,7 @@
 ---
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -68,6 +68,9 @@ AI changes feedback in three consequential directions, each raising the stakes o
 
 Effort, however, is not automatically the missing ingredient. In a preregistered between-subjects experiment with 302 US adults learning introductory Python, [[structured-reflection-ai-explanatory-feedback-2026|Asher, Gold & Carvalho (2025)]] paired personalized [[llm|Claude Sonnet 3.5]] explanatory feedback with a structured three-step self-explanation prompt — for each incorrect code section, what the correct code does and why the learner's own attempt failed — and the added reflection bought nothing. Reflective Practice participants spent 4.1 minutes reviewing feedback against 2.1 minutes in plain Practice (t(267) = 11.30, p < .001), which left room for only 2.0 practice problems instead of 3.4 (t(267) = 8.20, p < .001); each problem was worth the same either way (Reflection × problem-number OR = 1.03, z = 0.23, p = .486), so Practice ended with higher mastery, 79% versus 65% (d = .41), and never fell behind on near-[[transfer-of-learning|transfer]], far-transfer, or code-evaluation items. Reflection also failed to deliver the metacognitive benefit it targeted: judgments of learning did not differ across arms, and the practice conditions were better calibrated (underconfident by 11 points, against video watchers 20 points overconfident, d = −.93) and reported less [[cognitive-offloading|distraction]] (d = −.80) than reflective learners, whose reflections averaged only 35 words. The authors' reading is that the AI feedback had already supplied the [[scaffolding]] that self-explanation normally adds — a message that names the error, explains the correct approach and describes the underlying concept leaves little for a reflection prompt to do — and that writing reflections while still learning unfamiliar syntax competed directly with the varied repetition that builds transferable skill. This locates a boundary condition for [[desirable-difficulties]] and [[productive-failure]] on the processing-depth axis: effort pays when it drives additional retrieval, application or comparison, and is redundant when the learner is already receiving a personalized explanation of their specific error. It also bears on how [[ai-feedback-quality|feedback quality]] interacts with [[self-regulated-learning|uptake]]: the more elaborated and targeted the feedback, the narrower the space for an added layer to add value, which shifts design attention from deepening one episode to spending scarce practice minutes on volume, problem variability, and timing reflection to moments such as a detected plateau — the study tested a single unvetted enhancement, and the authors note that these variants remain open.
 
+
+- **Focus and adaptivity are separable dimensions of feedback.** Annotation of teacher and LLM comments in three university writing courses with seven feedback focus types shows that most models cover nearly every type while none matches the teacher's distribution across them, and none shifts its focus across draft stages the way an expert instructor does ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
+
 ### Feedback across assessment contexts
 
 The knowledge base's feedback research spans the full range of assessment contexts, each with distinct feedback dynamics:
@@ -80,6 +83,9 @@ The knowledge base's feedback research spans the full range of assessment contex
 A key cross-context insight is that **the reliability of feedback depends on the integrity of the assessment it is attached to**: feedback is only as trustworthy as the measure it responds to. In the AI era this pushes educators toward [[authentic-assessment|authentic]] and AI-resistant [[summative-assessment|summative formats]] where the feedback a student receives reflects genuine learning rather than AI-assisted output.
 
 The "assessment for learning" paradigm reframes feedback as an overarching philosophy rather than a component. [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais & Galy (2026)]] synthesize the wider higher-education literature to frame [[formative-assessment|formative]], ongoing, and individualized feedback as central to that philosophy, balancing formative with summative purposes and foregrounding [[agency|student agency]], self-[[regulation]], and [[metacognition|metacognitive]] skill. They note, however, that in [[business-education|management education]] feedback-rich practices remain unevenly adopted: self- and peer-assessment (a site of peer feedback) dominate the literature, while reassessment — which uses feedback-driven second chances to improve learning — is virtually absent.
+
+
+- **Demonstrated actionability is not enacted actionability.** In a scoping review of 421 studies applying NLP to open-ended student evaluation of teaching comments, 61.3% produced output at the level of a demonstrated result or stronger, but only 11.6% showed evidence that intended users evaluated or used it ([[nlp-student-evaluation-teaching-scoping-review-2026|Eicher & da Silva, 2026]]).
 
 ### The provision-uptake pairing
 
@@ -159,3 +165,6 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-21T13:00:10-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -86,6 +86,9 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 
 [[learning-analytics-to-educational-interventions-2026|Svetec, Divjak & Kadoić (2026)]] identify **ethics & data governance** as one of seven enablers of trustworthy LA-based educational interventions — policies for the ethical use of LA and AI, data privacy, security, and accountability — and position [[trust|trustworthiness]] (including leadership and governance that support implementation) as the prerequisite for meaningful data-informed interventions.
 
+
+- **Governance can be designed into the tool.** A six-dimension governance profile - pedagogical grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and dashboards, and asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
+
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships
 - [[ai-use-disclosure]] — AI use and disclosure statements
@@ -137,3 +140,7 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[perrotta-zero-shot-governance-2026]] — Zero-shot governance: general-purpose AI in policy (Perrotta 2026)
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

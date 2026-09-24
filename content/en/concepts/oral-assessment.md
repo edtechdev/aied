@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-09-23T09:25:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -68,6 +68,9 @@ Three findings cut against reading oral scores as learning gains. [[asynchronous
 
 The binding constraint is staffing and hardware rather than pedagogy, and the corpus is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
 
+
+- **The scale ceiling is the design constraint.** In a workshop with 73 [[cs-education|computing]] educators, oral and interactive assessment was reported as the strongest available evidence of individual understanding and the least scalable remedy; the mitigations participants described were distribution and sampling - shared teaching-assistant pools, peer assessment weighted below a final exam, and calling on a rotating subset of students ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
 ## Connected Concepts
 
 - [[assessment]] — the broader field this format sits inside
@@ -94,3 +97,4 @@ The binding constraint is staffing and hardware rather than pedagogy, and the co
 - [[tool-invariant-framework-agentic-ai]] — Oral defenses of AI-assisted work
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Spoken clinical interviews under a simulated-patient system
 - [[pgr-students-genai-uses-qualitative-2026]] — The doctoral viva under generative AI
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -64,4 +64,4 @@ Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qual
 - [[genai-feedback-design-multisite-experiment]] — Human-centered GenAI feedback design (multisite)
 - [[hazra-safetutors-pedagogical-safety-2026]] — AI tutor safety and pedagogical harms
 - [[becker-chatgpt-typology-physics-2026]] — A qualitative typology of ChatGPT adoption in physics
-
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

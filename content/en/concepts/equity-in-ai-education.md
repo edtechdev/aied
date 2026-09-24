@@ -1,7 +1,7 @@
 ---
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-22T09:59:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -142,3 +142,5 @@ Preparation matters more than preference, and the right to refuse is unevenly di
 - [[li-genai-assessment-language-equity-2026]] — Drawing the support-substitution line: GenAI assessment rules and EAL students' compliance burden
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — The right to refuse is unevenly distributed: refusal as evidence of institutional under-preparation (Zagami 2026)
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — Scenario-based ethical judgment and AI literacy among 531 undergraduates
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

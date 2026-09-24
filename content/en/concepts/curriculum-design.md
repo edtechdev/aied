@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-09-17T02:27:38-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -114,3 +114,5 @@ Curriculum design connects directly to [[learning-design]] — curriculum define
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[ai-particle-physics-education-redesign-2026]] — AI in Particle Physics Education: Research Problems and Foundational Skills
 - [[sidorkin-ai-generated-course-readings-2026]] — AI-generated weekly readings as a textbook substitute, with sourcing and review caveats (Sidorkin 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

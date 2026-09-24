@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -38,6 +38,7 @@ The knowledge base's [[research-methods-aied|research methods]] page details the
 - **Small sample sizes.** Many AIED studies are underpowered — too few participants to reliably detect meaningful effects or to support the strong claims sometimes drawn from them.
 - **Validity and measurement.** [[assessment-validity|Construct validity]] is often thin: proxies for "learning," "[[student-engagement|engagement]]," or "literacy" vary widely, and instruments are not always validated for the population or construct being studied. [[benchmark|Benchmark]] accuracy does not equal educational effectiveness.
 - **Self-report and survey data.** A large share of the corpus relies on self-reported attitudes, motivation, and usage. Self-report is subject to bias — respondents overestimate competence, under-report [[ai-misuse-learning-harm|misuse]], and misjudge their own behavior — so perception-based measures frequently diverge from objective performance (see [[ai-literacy-assessment-misalignment]] and [[educational-measurement]]).
+- **Standardizing within each dataset can hide a misstatement of spread.** When synthetic educational cohorts were standardized by their own dispersion, the fact that their weekly structure varied 2.6 to 4.9 times less than the real cohorts' became invisible to the reported statistics - routine preprocessing, in the authors' words not a hypothetical worry ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
 
 ## The speed problem: AI evolves faster than findings
 
@@ -115,3 +116,8 @@ The purpose of this knowledge base is to help close that gap — to make it easi
 - [[frontier-models-physics-benchmark-audit-2026]] — How Good Are Frontier Models at Physics? Expert Re-Grading Reveals Broken Evaluations and Near-Saturation of Leading Benchmarks
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — Inclusion criteria used as the rigor threshold, and a heterogeneity figure that changes with the model (Doğan et al. 2026)
 - [[domain-specific-chatbot-stem-enthusiasm-2025]] — A cluster-randomized classroom trial whose performance outcome did not reach significance (Rücker & Becker-Genschow 2025)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

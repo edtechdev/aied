@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T18:38:50-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -68,6 +68,9 @@ Peer accountability does not always point toward integrity, as [[chen-zou-genai-
 Policy inconsistency across the institution produced exactly the guessing the coordination account predicts. Nine of the eleven interviewees in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] framed their own course's explicit permission to use generative AI as a possible "trap" — a lure to identify students who could not resist — even though the policy was open and written into the assessment guidelines; students generalized from bans and warnings encountered elsewhere rather than reading their own course's rules on their own terms. The authors' conclusion follows the mechanism rather than the wording: per-course clarity was not enough, and [[educational-policy-ai|program- or institution-level]] consistency is needed so that students stop inferring intent from the surrounding culture.
 
 Procedures matter as much as policies, and their evidentiary basis has collapsed for AI. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] argues that the misconduct procedure universities imported from plagiarism rests on a premise generative AI dismantled: that prohibited use can be detected and proved. Unlike text-matching software, which can point to a copied source, AI-text classifiers identify no source because none exists — they output a probabilistic judgment about style that degrades under paraphrase, misclassifies non-native speakers systematically, and cannot be explained or cross-examined, while skilled or lightly edited use leaves no trace at all. Persisting anyway reverses the burden of proof (the student is asked to prove a negative), strains every element of procedural justice, and lands the harm of false accusation hardest on the already disadvantaged. The proposed remedy is twofold: publish an evidentiary standard under which detector output alone never grounds a finding, with graduated education-first responses, and move institutional effort into validity-centered and authentic assessment design. [[mohamed-temimi-assessment-imperfect-information-disclosure-2026|Mohamed and Temimi (2026)]] supply the mechanism-level counterpart from the student's side: because each assessment environment makes some response most attractive, prohibition leaves concealment attractive when verification is thin, monitoring makes hidden use costlier without making disclosure safe, and only redesign — lowering the payoff from outsourcing while raising the value of visible reasoning — moves students toward responsible use. Their sharpest result is that deterrence runs through a detector's discrimination between hidden use and legitimate work rather than its catch rate, so when false positives rise faster than true positives, stronger monitoring can make concealment relatively more attractive.
+
+
+- **Integrity duty can be rewritten as individual competence.** Across 366 GenAI higher-education abstracts, the word integrity appears 461 times but only 6 of 166 obligation expressions name students, so verification and disclosure surface as skills students are expected to have rather than obligations institutions enforce ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 
 ### The socio-emotional dimension
 
@@ -191,3 +194,5 @@ The clearest disciplinary case for redesign over detection comes from computing 
 - [[austin-ai-agents-assignment-redesign-2026]] — Grading the reasoning trail when AI agents can complete the assignment (Austin 2026)
 - [[learning-analytics-genai-secondary-writing-2026]] — Using Learning Analytics to Support Secondary School Students' Writing with Generative AI
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

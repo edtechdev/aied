@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-09-21T12:49:59-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -164,3 +164,4 @@ The knowledge base's constructive answers are consistent, and none of them requi
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: a validated self-report measure of motivations for AI use in reading
 - [[ai-literacy-self-assessment-questionnaire-primary-2025]] — A 15-item self-assessment instrument for upper-primary students, explicit about what perceived competence can establish
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Review finding 31 of 33 teacher AI literacy instruments self-report and none performance-based
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses

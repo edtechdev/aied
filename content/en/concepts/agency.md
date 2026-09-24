@@ -1,7 +1,7 @@
 ---
 title: Learner Agency
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-09-23T16:28:35-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -45,6 +45,7 @@ Agency matters because learning is most effective when learners are active, inte
 Agency connects to [[self-regulated-learning]], [[motivation]], [[self-efficacy]], [[student-experience]], [[human-ai-collaboration]], [[ethics]], [[cognitive-offloading|Over-Reliance]], and [[metacognition]]. It is a core consideration in [[educational-robotics|robotics]], [[intelligent-tutoring|tutoring]], and the design of [[pedagogical-agent|AI learning agents]].
 
 - **Bounded use as epistemic control, not reluctance.** [[guarded-adoption-genai-higher-education-2026|Zagami (2026)]] reports that higher-achieving students in a 484-response [[higher-ed|university]] survey showed lower active AI engagement and lower [[self-report-measures|perceived learning]] impact while *also* reporting lower AI-related disengagement, and described their own use as verification-intensive: outputs checked, then subordinated to their own reasoning. Read as agency rather than avoidance, the pattern is a deliberate retention of judgment — students keeping authorship of the conclusion while using the tool for clarification and summarization.
+- **Acting, knowing, and answering are not the same thing.** A corpus-assisted discourse analysis of 366 [[generative-ai|GenAI]] higher-education abstracts names AI as an actor 2,050 times without ever making it answerable, while responsibility for judging outputs and verifying claims is placed on students: grammatical activation, functional agency, epistemic authority and normative accountability come apart ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 
 ## Agency as an emergent, interactional phenomenon
 
@@ -145,3 +146,5 @@ A closely related framing is **relational epistemic agency** ([[du-yuan-epistemi
 - [[ai-integrated-teaching-identity-tensions]] — Principled selectivity as teacher agency in AI-integrated teaching (Adiozaman & Segar 2026)
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — Refusal as diagnostic evidence: non-use as a situated relation and the uneven right to decline AI (Zagami 2026)
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — epistemic authority asserted through interruption, correction and refusal rather than maximal tool use
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

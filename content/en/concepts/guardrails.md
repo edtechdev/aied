@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-18T09:40:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -117,3 +117,4 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[pedagogical-safety-rl]] — reward shaping for pedagogical safety
 - [[residencyrl-clinical-rl-training-2026]] — safety-aligned RL in clinical training
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

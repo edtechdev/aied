@@ -1,7 +1,7 @@
 ---
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -35,6 +35,7 @@ Privacy is the precondition for trustworthy AI in education. Because AI systems 
 - **Surveillance and the surveillance-privacy tension.** Constant AI monitoring — even when well-intentioned — can feel invasive. Research on [[ai-fatigue-academic-contexts|AI fatigue]], [[remote-proctoring|remote proctoring]], and [[cognitive-offloading|over-reliance]] connects privacy to student [[well-being]]: when AI watches and tracks continuously, it shapes behavior and anxiety, not just data flows. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana et al. (2026)]] catalogued what [[remote-proctoring|proctoring]] systems actually capture — facial images, identity documents, room scans including 360-degree sweeps, microphone audio, facial recognition, screen recordings, lockdown events, and keystroke and mouse tracking, with mobile invigilation adding GPS and selfie checks — and found privacy and algorithmic accountability largely absent from the six studies that met their inclusion criteria, supplied instead from adjacent work: 83% of respondents in one cited survey expressed surveillance fears, 58% discomfort and 72% data-privacy concerns, while cross-border vendor contracts left instruments like GDPR and South Africa's POPIA offering limited control. The legal exposure that follows from retaining and processing that data — who the controller is, how long it is kept, who may access it, whether consent was genuinely voluntary — is mapped on [[legal-issues-and-risks]].
 - **The personalization-privacy tradeoff.** [[personalized-learning]] requires detailed learner data to function, creating a structural tension with privacy. The knowledge base explores approaches that balance personalization with data minimization — enough data to adapt, not so much that the learner is fully exposed. This is the practical form of the "how much is proportionate?" question.
 - **Data stewardship as a core ethical value.** [[agarwal-ethical-values-norms-aied-2026|Agarwal et al. (2026)]], a [[meta-analysis-systematic-review|systematic review]] of 25 articles, identify data stewardship (definitions using data/information) as one of six main ethical values for [[ai-education|AI in education]], alongside non-discrimination, human oversight, goodwill, explicability, and educational aptness. The review finds the values are tightly coupled and can conflict — e.g., explicability vs. accuracy/privacy and non-discrimination vs. data stewardship — producing ethical dilemmas, and that no norms on data stewardship address end users directly, leaving learners largely passive in the ethical literature.
+- **Privacy is deferred rather than decided.** Twelve interviews with edtech professionals and an audit of 48 platform privacy policies show privacy recognized as important and then postponed across the product lifecycle, with responsibility delegated to cloud providers, policy documents and downstream schools - a pattern that weak privacy feedback keeps invisible, since silence looks like proof of safety ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ## Child safety and K-12 protections
 
@@ -90,3 +91,6 @@ Privacy connects to [[learning-analytics]] (the data collector), [[personalized-
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
 - [[bounded-reliance-ai-writing-feedback-2026]] — Bounded Reliance: A Source Credibility Perspective on EFL Students' Engagement with AI-Generated Writing Feedback
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

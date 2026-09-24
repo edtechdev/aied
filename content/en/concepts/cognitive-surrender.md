@@ -1,7 +1,7 @@
 ---
 title: Cognitive Surrender
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-09-20T15:37:15-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -120,3 +120,4 @@ The evidence for surrender as a named construct rests heavily on one program of 
 - [[brcic-effortless-trap-productive-struggle-2026]] — placing AI so the task stays effortful
 - [[metacognitive-training-optimal-cognitive-offloading-2026]] — calibration training
 - [[family-school-autonomy-support-genai-2026]] — dependent versus autonomous offloading
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

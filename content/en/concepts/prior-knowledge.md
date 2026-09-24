@@ -1,7 +1,7 @@
 ---
 title: Prior Knowledge
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-09-18T12:02:23-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
@@ -80,3 +80,4 @@ Generative AI has made prior knowledge a central design consideration rather tha
 - [[chudziak-ai-math-tutoring-platform]] — AI math tutoring platform
 - [[kim-ai-productive-failure-adult-2026]] — Designing AI Systems to Support Productive-Failure-Based Learning
 - [[rachatasumrit-example-problem-ratio-2026]]
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses

@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-09-18T13:00:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -95,3 +95,4 @@ Motivation is the parent construct of [[self-determination-theory]], which speci
 - [[genai-writing-program-primary-l2-motivation-engagement]] — Construct-specific motivation gains in a primary L2 GenAI writing program (Lu et al. 2026)
 - [[air-scale-motivations-ai-reading-2026]] — The AIR Scale: four motive families for reaching for AI while reading
 - [[genai-math-relevance-intervention-2026]] — GenAI relevance dialogue raised relevance as identification but left class interest flat
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
