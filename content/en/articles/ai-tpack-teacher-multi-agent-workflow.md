@@ -1,7 +1,7 @@
 ---
 title: "Modeling AI-TPACK in Practice: Insights from Teachers'' Multi-Agent Workflow Design"
 created: "2026-05-17T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-24T06:37:39-04:00"
 type: article
 foundations: [agentic-ai, ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -33,7 +33,7 @@ Sixty-one K-12 in-service teachers from a coastal city in Southern China attende
 
 ## Three Behavioral Archetypes
 
-Cluster 1 (n=18) was configuration-intensive: Content Configuration dominated (32.5%) with editing and testing rates 3–4× higher than other clusters, and Markov analysis revealed bi-directional Testing–Configuration loops — a tightly coupled refinement cycle. These Systematic Optimizers iteratively refined complex multi-agent architectures. Cluster 2 (n=35) balanced creation and browsing (Object Creation 25.2%, Browsing Own Content 27.1%), with Template Cloning transitioning to Object Creation at nearly twice the rate of other clusters (0.684) and sustained Creation self-loops (0.458) — the Prolific Creators, rapidly prototyping pragmatic tools via scaffolding. Cluster 3 (n=8) was browsing-dominant (29% Browsing Own Content) with the lowest editing rate (1.7%) and high Template Cloning self-loops (0.482), indicating hesitant creation followed by validation-seeking rather than sustained production — the Passive Observers.
+Cluster 1 (n=18) was configuration-intensive: Content Configuration dominated (32.5%) with editing and testing rates 3–4× higher than other clusters, and Markov analysis revealed bi-directional Testing–Configuration loops — a tightly coupled refinement cycle. These Systematic Optimizers iteratively refined complex multi-agent architectures. Cluster 2 (n=35) balanced creation and browsing (Object Creation 25.2%, Browsing Own Content 27.1%), with Template Cloning transitioning to Object Creation at nearly twice the rate of other clusters (0.684) and sustained Creation self-loops (0.458) — the Prolific Creators, rapidly prototyping pragmatic tools via scaffolding. Cluster 3 (n=8) was browsing-dominant (29% Browsing Own Content) with the lowest editing rate (1.70%) and high Template Cloning self-loops (0.482), indicating hesitant creation followed by validation-seeking rather than sustained production — the Passive Observers.
 
 ## AI-TPACK Manifestations in Workflow Designs
 
