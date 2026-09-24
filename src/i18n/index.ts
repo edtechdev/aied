@@ -17,6 +17,7 @@ import type { SearchStrings } from './pages/search.en';
 import type { ResourcesStrings } from './pages/resources.en';
 import type { JournalStrings } from './pages/journal.en';
 import type { FaqStrings } from './pages/faq.en';
+import type { NotFoundStrings } from './pages/notFound.en';
 import type { UiStrings } from './ui.en';
 
 export interface PageStrings {
@@ -26,15 +27,19 @@ export interface PageStrings {
   resources: ResourcesStrings;
   journal: JournalStrings;
   faq: FaqStrings;
+  notFound: NotFoundStrings;
   ui: UiStrings;
 }
 
 export type PageKey = Exclude<keyof PageStrings, 'ui'>;
 
-const PAGE_KEYS: PageKey[] = ['home', 'ai', 'search', 'resources', 'journal', 'faq'];
+const PAGE_KEYS: PageKey[] = ['home', 'ai', 'search', 'resources', 'journal', 'faq', 'notFound'];
 
-/** `./pages/home.es.ts` -> kind 'home', locale 'es' */
-const PAGE_FILE = /^\.\/pages\/([a-z-]+)\.([a-z]{2}(?:-[A-Za-z]{2,4})?)\.ts$/;
+/** `./pages/home.es.ts` -> kind 'home', locale 'es'. Kinds may be camelCase
+ *  (`notFound.en.ts`), which is why the class includes uppercase: the kind has to
+ *  match the `PageStrings` key, and a file the pattern rejects is skipped in
+ *  silence, leaving that page with `undefined` copy at render time. */
+const PAGE_FILE = /^\.\/pages\/([A-Za-z-]+)\.([a-z]{2}(?:-[A-Za-z]{2,4})?)\.ts$/;
 /** `./ui.es.ts` -> 'es' */
 const UI_FILE = /^\.\/ui\.([a-z]{2}(?:-[A-Za-z]{2,4})?)\.ts$/;
 
@@ -81,4 +86,4 @@ export function strings(locale: string): PageStrings {
   return value;
 }
 
-export type { HomeStrings, AiStrings, SearchStrings, ResourcesStrings, JournalStrings, FaqStrings, UiStrings };
+export type { HomeStrings, AiStrings, SearchStrings, ResourcesStrings, JournalStrings, FaqStrings, NotFoundStrings, UiStrings };

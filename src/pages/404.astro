@@ -1,0 +1,10 @@
+---
+// 404 page. Astro builds this to `404.html`, which GitHub Pages serves for any
+// unknown path under the site root — including a locale-prefixed path with no
+// page behind it, which is why the copy is the default locale's and there is no
+// per-locale 404 route: a static host has exactly one error document.
+import NotFoundPage from '../components/pages/NotFoundPage.astro';
+import { DEFAULT_LOCALE } from '../i18n/config';
+---
+
+<NotFoundPage locale={DEFAULT_LOCALE} />
