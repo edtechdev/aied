@@ -51,7 +51,7 @@ const toc = groups.map((g) => ({
 
 <BaseLayout title={s.title} locale={locale} toc={toc}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
-  <h1><PageTypeIcon kind="resource" size={20} />{s.h1}</h1>
+  <h1><PageTypeIcon kind="resource" size={32} />{s.h1}</h1>
 
   <div class="page-intro">
     {s.introHtml.map((p) => <p set:html={L(p)} />)}

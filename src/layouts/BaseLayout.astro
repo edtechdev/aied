@@ -691,6 +691,14 @@ const recentConceptItems = recentConcepts.map(c => ({
       box-shadow: none;
     }
     header a { color: var(--header-text, #ffffff); text-decoration: none; }
+    /* The language switcher is styled by its own component, which colors its
+       button with --muted-color. Every control beside it in the header renders in
+       the header text color, so the globe reads as dimmer than its neighbours
+       (measured: max ink luminance 196 against 246). Match the row here rather
+       than in the component, so the sidebar's switcher keeps its own styling.
+       :global() is required: the button belongs to the child component and does
+       not carry this layout's scope attribute, so a scoped rule never matches. */
+    :global(.header-icon-slot .lang-toggle) { color: var(--header-text, #ffffff); }
     .brand-link {
       display: inline-flex;
       align-items: center;
