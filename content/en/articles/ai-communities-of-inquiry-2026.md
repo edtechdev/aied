@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Intelligence and Communities of Inquiry: Reimagining Educational Experiences'
 created: "2026-08-20T04:40:00-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-24T06:37:39-04:00"
 type: article
 pedagogy: [collaborative-learning, community-of-inquiry, metacognition, online-teaching-and-learning]
 technology: [generative-ai]
@@ -20,7 +20,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 
 - **A coherent theoretical framework is essential:** The authors argue AI adoption must move beyond ad hoc implementation; the CoI framework, a [[constructivist|collaborative-constructivist]] process model grounded in critical reflection and discourse, is well suited to guide responsible integration of [[generative-ai|generative AI]] (Stenbom & Garrison, 2026).
 - **AI is a sociotechnical actor, not a neutral tool:** Within a [[online-teaching-and-learning|community of inquiry]], AI intersects with [[teacher-role|Teaching]], Social, and Cognitive Presence in different ways, and may assume multiple, coexisting roles depending on design and positioning.
-- **Five roles for AI in a community of inquiry:** (1) support for [[learning-design|learning design]], (2) independent resource for learners, (3) support function and guide for instructors via analytics, (4) [[agentic-ai|AI agent]] as a member of the community, and (5) sustained dialogical relationship of inquiry between human and AI agent.
+- **Five roles for AI in a community of inquiry:** (i) support for [[learning-design|learning design]], (ii) independent resource for learners, (iii) support function and guide for instructors via analytics, (iv) [[agentic-ai|AI agent]] as a member of the community, and (v) sustained dialogical relationship of inquiry between human and AI agent.
 - **Risks of uncritical adoption:** If reflective inquiry is bypassed, learners may become passive recipients of AI-generated information, accept outputs uncritically, and forfeit the cognitive [[student-engagement|engagement]] and authenticity essential to deep learning.
 - **Shared [[metacognition]] is the responsible pathway:** Comprising self- and co-[[self-regulated-learning|regulation]] (each with monitoring and management functions), shared metacognition enables learners to audit and verify AI results and maintain reflective responsibility, supported by the Shared Metacognition instrument (Garrison & Akyol, 2015a, 2015b).
 - **[[learning-analytics|Learning analytics]] and [[human-in-the-loop-ai|human oversight]]:** AI-driven analytics can reveal learning processes and support monitoring of presences, but must be balanced against risks of bias and oversimplification; the human instructor remains in charge, with AI serving as adviser.
