@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-23
 
-Articles: 1417 | Concepts: 216 | Resources: 26 | FAQs: 32
+Articles: 1417 | Concepts: 216 | Resources: 25 | FAQs: 32
 
 ## Concepts
 
@@ -1624,7 +1624,6 @@ Articles: 1417 | Concepts: 216 | Resources: 26 | FAQs: 32
 - [[master-instructional-design]] — Master Instructional Design
 - [[matt-pocock-skills]] — Skills for Real Engineers
 - [[mglearn]] — mglearn Classroom Resources
-- [[multi-agent-instructional-design-system]] — Multi-Agent Instructional Design System
 - [[onmicro-ai]] — OnMicro.AI
 - [[openmaic]] — OpenMAIC
 - [[pause-ai-use-self-examination]] — PAUSE: Patterns of AI Use Self-Examination

@@ -1,13 +1,12 @@
 # Journal
 
-Last updated: 2026-09-24 | Total entries: 1659
+Last updated: 2026-09-24 | Total entries: 1658
 
 ## 2026-09-24
 
 - 🧰 [[clarity]] — Clarity
 - 🧰 [[idstack]] — idstack
 - 🧰 [[master-instructional-design]] — Master Instructional Design
-- 🧰 [[multi-agent-instructional-design-system]] — Multi-Agent Instructional Design System
 
 - 📄 [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark
 - 📄 [[beyond-static-lms-self-evolving-agentic-elearning-2026]] — Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems
