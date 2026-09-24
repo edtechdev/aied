@@ -350,6 +350,28 @@ for each:
 3. **The number is not from the paper at all** (a repository star count, a price,
    a live figure). Verify it at its real source and record a dated observation in
    the raw, so the page's provenance is explicit instead of implied.
+4. **The raw is not text at all.** A source saved under a `.md` name can be the
+   PDF itself, so the page is grounded and the raw is the defect. Check before
+   touching prose: `python3 -c "t=open('raw/papers/<id>.md',encoding='utf-8',errors='replace').read(); print(len(t), t.count(chr(0)), t[:40])"`.
+   A large file that starts `%PDF` with hundreds of NUL bytes and zero decimals
+   while the page cites several is this case. Re-fetch the real full text, replace
+   the raw, keep the corrupt copy beside it as `<name>.corrupt.bak`, and leave the
+   page alone.
+5. **The flag is an editorial ordinal, not a measure.** A wiki-added list number
+   ("(4) AI agent as a member of the community") has no counterpart in a source
+   that writes the same list as plain bullets. Renumber the list with roman
+   numerals, as other pages here do, rather than deleting a claim the source
+   supports.
+6. **Precision differs, the figure does not.** A source stating `1.70%` will not
+   match a page's `1.7%` under a literal search. Print the source's precision.
+
+Verify the WHOLE flagged set, not only the page you opened. One red page can
+disguise three: run
+`python3 tooling/scripts/verify-number-grounding.py $(git show --name-only --format= HEAD -- 'content/en/articles/*.md' | sed 's|content/en/articles/||; s|\.md$||' | tr '\n' ' ')`
+after a commit and check the exit code without a pipe. `--changed` compares against
+HEAD, so on a clean tree it reports "nothing to ground" and passes vacuously; that
+silence is not a green gate. The same run also names deleted pages as
+"[no raw source found - cannot verify]", which is expected and not a defect.
 
 Only whitelist a number when it is genuinely unverifiable, and never adjust a page
 to satisfy the checker.
