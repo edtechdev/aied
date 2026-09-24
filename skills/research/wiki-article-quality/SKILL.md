@@ -237,6 +237,8 @@ A batch of ten pages over 2,600 words was cut to 900-1,000 with zero lost links 
 
 **Do not use `--slugs-file` with `check_list_formatting.py`.** It silently scans 0 pages and reports a green "Defects: 0" — a false pass. Run it with `--all`.
 
+**An in-budget page can still be structurally off-contract.** The word count is one check and the section shape is another. A page can measure inside the budget and still have no `## Key Findings` section and nine prose sections (both predating any trim), which no gate flags because the auditor's canon covers only `## What this means for practice` and `## Limitations`. When you touch a page for length, check its shape in the same pass: the fixed order is Synthesis, Key Findings (5-7 items of 25-35 words), 3-4 prose sections, practice, limitations, Connected lists, Citation. Restoring a missing Key Findings section costs 150-200 words, so plan to cut that much prose in the same edit to stay in budget, and re-home any `[[wikilink]]` that lived in the removed text.
+
 **Delegate one page per child**, give each child the page's before count, the exact measurement command, the invariants list, and the gates to run; then re-verify centrally. Child summaries are self-reports: in this batch one claimed a clean auditor run on a page carrying six hard-gate list defects.
 
 ## Wikilink routing (site architecture — how `[[slug]]` renders to URLs)
