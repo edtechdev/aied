@@ -1,8 +1,13 @@
 # Journal
 
-Last updated: 2026-09-24 | Total entries: 1655
+Last updated: 2026-09-24 | Total entries: 1659
 
 ## 2026-09-24
+
+- 🧰 [[clarity]] — Clarity
+- 🧰 [[idstack]] — idstack
+- 🧰 [[master-instructional-design]] — Master Instructional Design
+- 🧰 [[multi-agent-instructional-design-system]] — Multi-Agent Instructional Design System
 
 - 📄 [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark
 - 📄 [[beyond-static-lms-self-evolving-agentic-elearning-2026]] — Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems
@@ -15,6 +20,9 @@ Last updated: 2026-09-24 | Total entries: 1655
 - 📄 [[lee-openlearnlm-benchmark-educational-llms-2026]] — OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models
 - 📄 [[ikram-multi-agent-personalized-math-problems-2026]] — A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems
 
+- 🧰 [[pedagogical-promptbook]] — The Pedagogical Promptbook
+- 🧰 [[writing-rhetoric-studies-in-the-loop]] — Writing and Rhetoric Studies in the Loop: A GenAI Prompt Library
+- 🧰 [[matt-pocock-skills]] — Skills for Real Engineers
 ## 2026-09-23
 
 - 🧰 [[claw-ed]] — Claw-ED
@@ -1788,7 +1796,6 @@ Last updated: 2026-09-24 | Total entries: 1655
 
 ## 2026-05-15
 - 📄 [[computational-thinking-ai-agent-creation]] — Computational Thinking Development in AI Agent Creation: A Mixed-Methods Study
-- 📄 [[eduagentbench-agent-teaching-benchmark]] — TeachArena: Are Language Agents Ready for Realistic Teaching Work?
 - 📄 [[eduframetrap-llm-sycophancy-educational-safety]] — Sycophancy is an Educational Safety Risk: Why LLM Tutors Need Sycophancy Benchmarks
 - 📄 [[international-students-conversational-ai-adaptation]] — Understanding How International Students in the U.S. Are Using Conversational AI to Support Cross-Cultural Adaptation
 - 📄 [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: A Drop-in, FERPA-Compliant Local-LLM Autograder for Upper-Division STEM Coursework
@@ -1821,7 +1828,6 @@ Last updated: 2026-09-24 | Total entries: 1655
 - 📄 [[understanding-student-effort-response-time]] — Understanding Student Effort Using Response-Time Propensities During Problem Solving
 
 ## 2026-05-11
-- 📄 [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
 - 📄 [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
 - 📄 [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - 📄 [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
@@ -1857,7 +1863,6 @@ Last updated: 2026-09-24 | Total entries: 1655
 - 📄 [[ecnuclaw-k12-personalized-companion]] — ECNUClaw: A Learner-Profiled Intelligent Study Companion Framework for K-12 Personalized Education
 - 📄 [[engagement-assessment-video]] — EduGage: Methods and Dataset for Sensor-Based Momentary Assessment of Engagement in Self-Guided Video Learning
 - 📄 [[generate-then-validate-question-gen]] — Generate-Then-Validate: Question Generation for Education
-- 📄 [[multi-agent-instructional-design]] — Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
 - 📄 [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling
 - 📄 [[nsmq-riddles-science-math-benchmark]] — NSMQ Riddles: A Benchmark of Scientific and Mathematical Riddles for Quizzing Large Language Models
 - 📄 [[pedagogical-safety-rl]] — Pedagogical Safety in Educational Reinforcement Learning

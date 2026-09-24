@@ -91,7 +91,7 @@ es and sizes?
 
 - [[learning-by-chatting-genai-impact]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[adaptive-pretesting-retention]]
 - [[agent-voice-accents-k12-group-learning]]

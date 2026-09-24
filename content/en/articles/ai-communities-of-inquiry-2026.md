@@ -55,7 +55,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 ## Connected Articles
 
 - [[ai-metacognition-stem-review]]
-- [[multi-agent-instructional-design]]
+- [[wang-multi-agent-systems-learning-designers-2025]]
 - [[genai-educational-outcomes-meta-analysis]]
 - [[generative-ai-reduced-study-time-math]]
 

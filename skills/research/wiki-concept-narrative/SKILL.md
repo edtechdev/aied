@@ -14,6 +14,12 @@ Use when working in the AI-in-education research wiki (`<WIKI>`) and a new artic
 >
 > "Update the skills and cron job to include this step of updating concept narratives when an article makes a significant contribution to the concept."
 
+## The distinguishing test (maintainer-flagged 2026-09-23)
+
+Revise a concept page **only** where an article makes a contribution that is BOTH significant and **distinguishing**: it must change what the page says, or add an insight the page does not already carry, and a reader must be able to tell it apart from the bullets already there. An article that provides another example of a finding the page states, a second instrument measuring a construct the page already discusses, or a replication of an existing claim does NOT qualify, however solid the study is. Skip it, record why, and insert nothing: revising a page for every article that touches it is the failure mode this test exists to prevent.
+
+Check prior coverage before writing, not after. Grep the page's current text for the claim's operative terms (for a fading-scaffold point, `fade`/`fading`; for a literacy-scale point, `scale`/`instrument`) and read what is already there. Two of forty insertions in one batch failed this test on review: a fading-monitoring point on a page that already carried fading seven times, and a scale caveat on a page already discussing scale limits. A batch child will insert for every listed article unless the brief states the bar AND an expected skip rate.
+
 ## What to do
 
 0. **Run the significance screen BEFORE writing anything (2026-09-15).** For each candidate (article, concept) pair, answer the delete test first: if the inserted sentences were deleted, would the page lose something it does not already have? Only pairs that pass get an edit. Do not enrich broadly and audit afterwards: a post-hoc audit costs roughly the same token and review budget again, and every insertion that survives un-reviewed stays on the site. Read the article's findings and the target section's existing coverage before proposing any sentence. A screen over ~6 candidate pages takes minutes; auditing ~35 already-edited pages took 10 reviewers. **Leaving a page untouched is a valid, expected outcome.**

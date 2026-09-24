@@ -81,5 +81,5 @@ Behaviorism also appears in how learners encounter AI as a topic. The theory is 
 - [[ai-vocational-education-training-review]] — Behaviorist AI designs dominate VET practice despite espoused constructivism; the "Turing Trap"
 - [[generativism-learning-theory]] — Behaviorism among the four dominant theories generative AI is prompting a rethink of
 - [[ccct-cooperative-learning-technique]] — Behaviorism cited in cooperative-learning design for higher education
-- [[multi-agent-instructional-design]] — Behaviorist persona among collaborative multi-agent design approaches
+- [[wang-multi-agent-systems-learning-designers-2025]] — Behaviorist persona among collaborative multi-agent design approaches
 

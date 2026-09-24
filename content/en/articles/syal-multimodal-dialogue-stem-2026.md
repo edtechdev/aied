@@ -84,7 +84,7 @@ The equity reading is less comfortable. Students working through diagrammatic pr
 - [[correct-answer-trap-ai-tutor]]
 - [[ai-tutor-behavioral-evaluation]]
 - [[aaai2026-prompting-literacy-k12]]
-- [[academiclaw-student-agent-benchmark]]
+- [[yu-academiclaw-student-challenges-ai-agents-2026]]
 - [[access-not-enough-ai-tutoring-2026]]
 - [[stanford-evidence-base-ai-k12-2026]]
 

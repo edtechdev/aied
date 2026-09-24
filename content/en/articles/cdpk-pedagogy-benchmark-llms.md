@@ -62,7 +62,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 - [[teachbench-llm-teaching-evaluation]] — TeachBench: evaluating LLM teaching ability
 - [[teaching-monster-pck-benchmark-2026]] — Teaching Monster Challenge: benchmark of pedagogical content knowledge
-- [[eduagentbench-agent-teaching-benchmark]] — EduAgentBench: agent teaching benchmark
+- [[chen-teacharena-language-agents-realistic-teaching-2026]] — EduAgentBench: agent teaching benchmark
 - [[elbench-education-llm-benchmark-2026]] — ELBench: education LLM benchmark
 - [[tutoring-effectiveness-index]] — The Tutoring Effectiveness Index
 

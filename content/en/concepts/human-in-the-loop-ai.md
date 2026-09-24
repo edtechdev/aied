@@ -119,7 +119,7 @@ Human-in-the-loop design is not merely a safety measure—it is a **resource-all
 - [[calibrating-trustworthiness-llm-education-2026]]
 - [[code-gen]]
 - [[cong-confidence-asag-2026]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 - [[llm-difficulty-calibration-programming-exams-2026]]
 - [[llms-do-not-grade-essays-like-humans-2026]] — LLMs do not grade essays like humans (Mathew et al. 2026)
 - [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation

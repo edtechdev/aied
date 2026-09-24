@@ -45,7 +45,7 @@ Interviews revealed systematic differences beneath the behavioral patterns. Syst
 
 ## Connection to Agentic AI in Education
 
-The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[eduagentbench-agent-teaching-benchmark]] establishes [[benchmark|benchmarks]] for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?** The findings also resonate with [[agentic-workflows-education]] and [[multi-agent-instructional-design]], which explore how educators author and govern multi-agent systems in classroom contexts.
+The multi-agent workflow framing positions this work at the intersection of [[agentic-ai]] and teacher professional learning. As [[chen-teacharena-language-agents-realistic-teaching-2026]] establishes [[benchmark|benchmarks]] for what agent tutors should do, this study addresses the complementary question: **how should teachers learn to design and orchestrate those agents?** The findings also resonate with [[agentic-workflows-education]] and [[wang-multi-agent-systems-learning-designers-2025]], which explore how educators author and govern multi-agent systems in classroom contexts.
 
 ## What this means for practice
 
@@ -74,7 +74,7 @@ The multi-agent workflow framing positions this work at the intersection of [[ag
 
 - [[teacher-ai-adoption-confidence]]
 - [[teachingcoach-chatbot-instructor-guidance]]
-- [[eduagentbench-agent-teaching-benchmark]]
+- [[chen-teacharena-language-agents-realistic-teaching-2026]]
 ## Citation
 
 Sun, Y., Xin, H., Li, S., Niu, Q., Chai, C. S., Huang, L., & Chen, G. (2026). [*Modeling AI-TPACK in practice: Insights from teachers' multi-agent workflow design*](https://arxiv.org/abs/2605.13906).
