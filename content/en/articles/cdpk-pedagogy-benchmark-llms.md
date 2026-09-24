@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking the Pedagogical Knowledge of Large Language Models"
 created: "2026-08-15T15:31:07-04:00"
-updated: "2026-09-19T10:03:37-04:00"
+updated: "2026-09-24T06:37:39-04:00"
 type: article
 foundations: [teacher-role, teacher-ai-competency]
 technology: [llm]
@@ -32,7 +32,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Instructors.** Choose a model for the pedagogical job with the cost–accuracy value frontier rather than by leaderboard rank: the gap between first and second place on CDPK is under 1%, while at roughly 10 cents per million input tokens accuracy climbed from about 50% (April 2024) to 82% (June 2025).
 - **Instructors.** Treat a high CDPK score as a starting point for selecting tools, not as evidence of teaching judgment: the estimated human baseline of about 50% comes from 25,000+ Chilean teachers, and knowledge benchmarks cannot cover classroom management, teacher–student relationships, or motivating learners.
 - **Designers.** Benchmark your candidate models before shipping a lesson-planning, assessment-support, or professional-learning tool, since accuracy across 97 models spreads from 28% to 89% on CDPK and 29% to 86% on SEND.
-- **Designers.** Test small on-device models where connectivity and hardware are limited: Liquid AI's LFM-7B reached 61% for 1¢ per million tokens and Gemma-3n E4B 64%, though performance drops sharply below roughly 8B parameters.
+- **Designers.** Test small on-device models where connectivity and hardware are limited: Liquid AI's LFM-7B reached 62% for 1¢ per million tokens and Gemma-3n E4B 64%, though performance drops sharply below roughly 8B parameters.
 - **Administrators.** Pair deployment with [[human-in-the-loop-ai|human-in-the-loop]] review wherever a model's pedagogical knowledge score approaches or passes the human baseline, to avoid [[cognitive-offloading|over-reliance]] and an illusion of expertise among teachers.
 
 ## Limitations
