@@ -1,0 +1,35 @@
+---
+// 404 page body. It is the search page plus the message that the page was not
+// found, so both render the same SearchInterface component and cannot drift.
+//
+// The content is wrapped in `data-pagefind-ignore`: a "Page Not Found" result in
+// the index is noise for every reader, and Pagefind honours that attribute.
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import KnowledgeBaseStats from '../KnowledgeBaseStats.astro';
+import SearchInterface from '../SearchInterface.astro';
+import { strings } from '../../i18n';
+
+const { locale } = Astro.props;
+const s = strings(locale).notFound;
+---
+
+<BaseLayout title={s.title} locale={locale} hideHeaderSearch>
+  <div data-pagefind-ignore>
+    <h1>{s.h1}</h1>
+    <p style="line-height:1.7" set:html={s.messageHtml} />
+    <p style="line-height:1.7" set:html={s.searchHtml} />
+
+    <div class="search-corpus">
+      <KnowledgeBaseStats locale={locale} />
+    </div>
+  </div>
+
+  <SearchInterface locale={locale} />
+</BaseLayout>
+
+<style>
+  .search-corpus {
+    max-width: 800px;
+    margin: 0 auto 1.25rem auto;
+  }
+</style>
