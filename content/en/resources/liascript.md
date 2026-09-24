@@ -1,7 +1,7 @@
 ---
 title: "LiaScript"
 created: "2026-09-23T20:15:00-04:00"
-updated: "2026-09-23T20:15:00-04:00"
+updated: "2026-09-24T04:57:47-04:00"
 type: resource
 summary: "An open Markdown dialect that turns a plain text file into an interactive course in the browser, with quizzes and runnable code, plus a multi-agent assistant for building courses with it."
 url: https://liascript.github.io/
@@ -10,7 +10,7 @@ author: "André Dietrich and contributors"
 resource_type: [open format or specification, software, collection of tools]
 access: [free]
 license: "BSD-3-Clause"
-last_verified: "2026-09-23"
+last_verified: "2026-09-24"
 foundations: [learning-design]
 pedagogy: [online-teaching-and-learning, active-learning]
 technology: [open-source]
@@ -23,7 +23,9 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
 reviewed_by: [editor]
----**LiaScript** is an extended Markdown dialect plus an interpreter for it. One plain text file becomes an interactive course: the same document can be read as a narrative, played as slides, or worked through as a course, all in the browser. Nothing needs installing to write or to read one.
+---
+
+**LiaScript** is an extended Markdown dialect plus an interpreter for it. One plain text file becomes an interactive course: the same document can be read as a narrative, played as slides, or worked through as a course, all in the browser. Nothing needs installing to write or to read one.
 
 ## What you can do with it
 
@@ -31,7 +33,7 @@ Quizzes come in the forms a teacher expects, including multiple choice, matrix q
 
 ## The teaching agent for building courses
 
-The project also publishes a **teaching agent** for authoring LiaScript courses, licensed under the Boost Software License 1.0. Four agents for teaching, visual design, learner review, and publishing work around a single project file holding the course state, with a define-first workflow: objectives, audience, and didactics are settled before any material is written, and validation gates follow. A draft can be reviewed from a named learner persona to check cognitive load and assumed prior knowledge. The agent is editor-agnostic, generating configurations for Claude Code, Copilot, Codex, Cursor, or a web chat from one specification, and the repository doubles as a worked example, holding a six-unit course on the EU NIS2 Directive and a document describing how it was produced.
+The project also publishes a **[teaching agent](https://github.com/LiaScript/teaching-agent)** for authoring LiaScript courses, licensed under the Boost Software License 1.0. Four agents for teaching, visual design, learner review, and publishing work around a single project file holding the course state, with a define-first workflow: objectives, audience, and didactics are settled before any material is written, and validation gates follow. A draft can be reviewed from a named learner persona to check cognitive load and assumed prior knowledge. The agent is editor-agnostic, generating configurations for Claude Code, Copilot, Codex, Cursor, or a web chat from one specification, and the repository doubles as a worked example, holding a six-unit course on the EU NIS2 Directive and a document describing how it was produced.
 
 ## Notes and caveats
 
