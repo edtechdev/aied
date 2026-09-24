@@ -42,6 +42,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 import content_paths
 
+# Body-word budget for a new article page, from the page contract (AGENTS.md and the
+# scan prompt): 750-1,000 words, counted from the end of the frontmatter through the
+# first Connected section. Reported rather than failed -- see the note in audit().
+WORD_BUDGET_MIN = 750
+WORD_BUDGET_MAX = 1000
+
 ARTICLES = content_paths.collection("articles")
 RAW = ROOT / "raw" / "papers"
 
@@ -219,6 +225,22 @@ def select(args) -> list[str]:
     return slugs
 
 
+def body_for_budget(text: str) -> str:
+    """The body the word budget applies to: from the end of the frontmatter to the
+    first Connected section (the same region the page contract names)."""
+    t = text
+    if t.startswith("---"):
+        parts = t.split("---", 2)
+        if len(parts) == 3:
+            t = parts[2]
+    cut = re.search(r"^##\s+Connected\s+(?:Concepts|Articles)", t, re.M)
+    return t[: cut.start()] if cut else t
+
+
+def body_words(text: str) -> int:
+    return len(re.findall(r"\b[\w'’-]+\b", body_for_budget(text)))
+
+
 def audit(slug: str, known: set[str]) -> dict:
     path = ARTICLES / f"{slug}.md"
     result = {"slug": slug, "hard": [], "report": []}
@@ -282,6 +304,16 @@ def audit(slug: str, known: set[str]) -> dict:
         result["report"].append("older practice-type heading still present: " + "; ".join(legacy_practice))
     if legacy_limits:
         result["report"].append("older limits-type heading still present: " + "; ".join(legacy_limits))
+
+    # Body-word budget (WORD_BUDGET_MIN-WORD_BUDGET_MAX, frontmatter end through the
+    # first Connected section). REPORTED, never failed: most of the corpus predates
+    # the budget, so a hard gate would fail pages that were accepted long ago instead
+    # of catching a page written today. The count is always returned so a writer can
+    # see where it stands, and the note names the number when it is over.
+    words = body_words(text)
+    result["words"] = words
+    if words > WORD_BUDGET_MAX:
+        result["report"].append(f"body is {words} words (budget {WORD_BUDGET_MIN}-{WORD_BUDGET_MAX})")
     return result
 
 
@@ -307,6 +339,12 @@ def main() -> int:
             "checked": len(results),
             "hard_defects": hard,
             "clean": len(results) - len(hard),
+            "over_word_budget": [
+                {"slug": r["slug"], "words": r.get("words")}
+                for r in results
+                if r.get("words") and r["words"] > WORD_BUDGET_MAX
+            ],
+            "word_budget": [WORD_BUDGET_MIN, WORD_BUDGET_MAX],
             "reported": with_notes,
         }, indent=2))
     else:
@@ -314,11 +352,17 @@ def main() -> int:
             print(f"FAIL {r['slug']}")
             for issue in r["hard"]:
                 print(f"     - {issue}")
+        over = [r for r in results if r.get("words") and r["words"] > WORD_BUDGET_MAX]
         print(
             f"{len(results) - len(hard)} of {len(results)} page(s) pass; "
             f"{len(hard)} with hard defects; "
-            f"{len(with_notes)} with items for a cleanup pass."
+            f"{len(with_notes)} with items for a cleanup pass; "
+            f"{len(over)} over the {WORD_BUDGET_MIN}-{WORD_BUDGET_MAX} word budget."
         )
+        for r in sorted(over, key=lambda x: -x["words"])[:10]:
+            print(f"  over budget {r['slug']}: {r['words']} words")
+        if len(over) > 10:
+            print(f"  ... and {len(over) - 10} more over budget")
         if with_notes and not hard:
             for r in with_notes[:10]:
                 print(f"  note {r['slug']}: " + "; ".join(r["report"]))
