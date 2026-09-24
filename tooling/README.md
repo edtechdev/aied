@@ -103,6 +103,14 @@ Two cron jobs (see `cron/` for the prompts):
 
 Create them with `agent cron create` using the prompt files, setting `workdir` to your wiki path.
 
+## Data sources and acknowledgement
+
+The scan queries arXiv through `tooling/scripts/arxiv_fetch.py`, which is the only place in this project that talks to arXiv. It holds an exclusive cross-process lock for the duration of each request and waits at least three seconds between requests, because arXiv's [API terms of use](https://info.arxiv.org/help/api/tou.html) limit an operator to **one request every three seconds and a single connection at a time, counted across all machines under that operator's control**. Anything else that reaches arXiv — the browser tool, a `curl`, an ad-hoc script — must call `python3 tooling/scripts/arxiv_fetch.py --reserve --hold <seconds>` first, which claims the same window.
+
+Prefer the endpoint arXiv blesses for the job: OAI-PMH (`--oai`) to catch up on metadata in bulk, RSS (`--rss`) for new articles in a category, and the legacy API (`--query`) for a targeted query. Never fetch arXiv in parallel, and never fetch full texts or PDFs from arXiv — link to the abstract page instead.
+
+> Thank you to arXiv for use of its open access interoperability.
+
 ## Wiki Structure
 
 ```

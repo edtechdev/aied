@@ -59,9 +59,36 @@ Use this phase when the user asks to ingest research papers (arXiv or non-arXiv)
 *In interactive sessions, prefer `execute_code` for bulk Python work — use Python's `open()`/`os` modules for ALL file I/O (not `read_file` from `<TOOLS>`, which returns an incompatible dict format in the execute_code sandbox). `write_file` from <TOOLS> works correctly in execute_code. In cron contexts, `execute_code` availability varies \u2014 use `execute_code` if it passes the probe, otherwise fall back to `terminal()` with explicit `workdir=~`. Always probe first. **Primary approach: write complex scripts to `/tmp/` via `write_file`, then run with `terminal('python3 /tmp/script.py', workdir='~')`** or embed in `execute_code()` when available. Use inline `python3 -c "..."` only for short (<20 line) one-off logic (e.g. simple parsing, file count checks). For multi-phase ingestion (fetching, ingesting, backlinks, index, journal, static site), break into separate phase-scripts — this avoids command-length truncation and isolates failures. `web_extract` replaces `urllib`-based API calls when `execute_code` is unavailable.*
 
 1. **Fetch Metadata**
-   - arXiv papers: Use arXiv API. **RELIABILITY ORDERING (prevailing):** (1) `web_extract` on listing pages (`arxiv.org/list/<cat>/recent`) as the primary method for daily scans — these are static/cached, bypass rate limits AND HTTP blocks, and show ALL categories' recent submissions grouped by announcement date. The listing pages include cross-listings and can be paged with `?skip=50&show=50` for large categories (cs.AI, cs.CL routinely have 500+ entries). After fetching, read the cached full-text file (footer shows the path) with `read_file(path=..., offset=..., limit=200)` to see mid-week entries that the head+tail truncation omitted. (2) `execute_code` with Python `urllib` for API queries — useful only for narrow keyword/title searches with specific date windows. Beware that `execute_code` has a 300s hard timeout: a multi-API combined fetch (cs.CY + cs.HC + cs.CL + cs.AI + Semantic Scholar + OpenAlex) will time out. Use `execute_code` only for single-category API calls or non-arXiv sources. (3) Terminal with `curl --retry 5 --retry-delay 2` to `https://export.arxiv.org/api/query` — only as last resort, and NEVER with HTTP (gets blocked by security scanner) or with `*` wildcard markers in dates (gets glob-expanded).
-   - If API returns 429 rate limit, follow `arxiv` skill fallback. **Preferred first pass in both interactive and cron contexts:** use `browser_navigate` + `browser_console` with the JavaScript query from `references/arxiv-listing-extraction.md` (Section 0) — it extracts arXiv IDs and titles directly from listing pages with no HTML parsing. For categories with 100+ entries (cs.AI, cs.CL), supplement with curl-HTML extraction (Section 1) for the full batch.
-   - **Narrow date-window daily scans (cron):** for a tight `submittedDate` window (last-scan→today), `execute_code` + `urllib` against the arXiv API is the clean PRIMARY — date-precise and bypasses the terminal HTTP block. Use listing-page/`web_extract` only as fallback when the API returns 0 on a weekend or errors (see weekend / HTTP-500 pitfalls). See `references/validated-4-source-daily-scan-2026-07-16.md` for the exact 4-source recipe.
+   - arXiv papers: **all arXiv access goes through the rate-limited client
+     `python3 tooling/scripts/arxiv_fetch.py`** (`--query`, `--rss`, `--oai`), which enforces
+     arXiv's terms of use: **no more than one request every three seconds, from a single
+     connection at a time, counting every machine under your control as a whole**
+     (<https://info.arxiv.org/help/api/tou.html>). The client holds an exclusive cross-process
+     lock across each request, so a multi-category scan costs about 3s PER CATEGORY by design and
+     cannot be sped up by parallelizing. Never run two arXiv fetches at once, including from
+     separate subagents, and never hand a subagent its own arXiv work while another is running.
+     Prefer the endpoint arXiv blesses for the job: OAI-PMH (`--oai`) for a catch-up harvest, RSS
+     (`--rss`) for new articles in a category, the legacy API (`--query`) for a targeted query.
+     Use `export.arxiv.org` and `rss.arxiv.org`. Do NOT scrape the main site's listing pages
+     (`arxiv.org/list/<cat>/recent`) - the bulk-data guidance reserves them for interactive
+     readers. They are a genuine LAST resort when no other path is reachable from the host; then
+     pace them by claiming the window first (`arxiv_fetch.py --reserve --hold <seconds>`), one
+     page at a time.
+   - If a fetch must use another transport (the browser tool, a `curl`), claim the window as just
+     described and serialize. `terminal()` `curl` to the API is itself a last resort: never HTTP,
+     and never `*` in a date field (the shell glob-expands it).
+   - **Weekend / empty API window**: a `submittedDate` filter over Sat-Mon can return 0 because
+     arXiv does not process weekend submissions. Fall back to the category's RSS feed (`--rss`),
+     not to listing pages.
+   - **A host may be unable to reach arXiv from a shell at all**: an egress filter can answer with
+     an immediate HTTP 406 (about 0.25s, no `Server` header) that is not an arXiv response, while a
+     raw TLS connection to `export.arxiv.org:443` returns 200 Atom XML from the same host. When
+     that happens the browser tool is the working transport, and the pacing rules above still
+     apply to it.
+   - **Saving full text**: keep a paper's full text locally for research (this repo's `raw/` is
+     local-only and gitignored); never redistribute a PDF or serve arXiv content, and always link
+     back to the abstract page. Acknowledge arXiv: "Thank you to arXiv for use of its open access
+     interoperability."
    - Non-arXiv sources: Try HTML metadata fetch first. If Access Denied, fallback to PDF download via `curl`, extract text with `pdftotext`.
 2. **Save Raw Source**
    - `raw/papers/<arxiv_id>.md` with frontmatter: `source_url`, `ingested_date`, `sha256`

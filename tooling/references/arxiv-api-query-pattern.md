@@ -1,74 +1,97 @@
-# arXiv API Query Pattern (execute_code + urllib)
+# arXiv Query Pattern (through the rate-limited client)
 
-Proven pattern for daily-scan arXiv queries. Works in both interactive and cron
-(where `execute_code` is available) — Python's `urllib` reaches the HTTP arXiv
-API even though the `terminal()` security scanner blocks raw HTTP.
+All arXiv access goes through **`tooling/scripts/arxiv_fetch.py`**. Do not write a
+fresh `urllib` snippet: the pacing is enforced in that one place, and a hand-rolled
+loop over categories is exactly how the limit gets broken.
 
-## Why not terminal() curl?
-The terminal scanner blocks `http://` URLs (arXiv API is HTTP-only). `execute_code`
-Python `urllib.request` is NOT subject to that scanner. Verified 2026-07 across
-cs.CY / cs.HC / cs.CL / cs.AI: all returned authoritative, date-precise results.
+## The rules (arXiv API terms of use)
 
-## Snippet (drop into execute_code — runs all four categories)
+<https://info.arxiv.org/help/api/tou.html>
 
-```python
-import urllib.request, urllib.parse, xml.etree.ElementTree as ET, json, time
+- **No more than one request every three seconds, and requests limited to a single
+  connection at a time.**
+- The limit counts **all machines under your control as a whole**, so it is not
+  per-process and not per-agent: five category queries in a loop, a retry storm, or
+  two subagents each fetching their own arXiv page all violate it while looking
+  innocent in isolation.
+- Prefer the endpoint arXiv blesses for the job (see `bulk_data.html`): **OAI-PMH**
+  to bulk-download or keep metadata up to date, **RSS** for new articles in a
+  category, and the **legacy API** for a targeted query.
+- Use `export.arxiv.org` and `rss.arxiv.org`. The main site is for interactive
+  readers, so do not scrape its listing pages.
+- Do not store and serve arXiv e-prints (PDFs, source) from your servers unless the
+  licence permits it — link back to the **abstract page** instead. Saving a paper's
+  full text locally for research use is fine (this repo's `raw/` is local-only and
+  gitignored); redistributing it is not.
+- Acknowledge arXiv: *"Thank you to arXiv for use of its open access
+  interoperability."*
 
-ns = {"atom": "http://www.w3.org/2005/Atom",
-      "arxiv": "http://arxiv.org/schemas/atom",
-      "opensearch": "http://a9.com/-/spec/opensearch/1.1/"}
-# Window: startDate..endDate as YYYYMMDDHHMM (use 0000 / 2359)
-START = "202607040000"; END = "202607072359"
-KW = ("(ti:education OR ti:learning OR ti:student OR ti:teacher OR ti:classroom "
-      "OR ti:tutor OR ti:school OR ti:curriculum OR ti:pedagog OR ti:grading "
-      "OR ti:feedback OR ti:literacy OR ti:assessment OR ti:metacognit)")
+The client holds an exclusive cross-process lock for the duration of each request and
+spaces requests at least 3 seconds apart, measured from the end of the previous one,
+so the limit holds even when several processes or agents call it at once.
 
-def api(cat, mx):
-    params = urllib.parse.urlencode({
-        "search_query": f"cat:{cat} AND {KW} AND submittedDate:[{START} TO {END}]",
-        "sortBy": "submittedDate", "sortOrder": "descending", "max_results": mx})
-    url = f"http://export.arxiv.org/api/query?{params}"
-    for i in range(5):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 AIEdScan"})
-            with urllib.request.urlopen(req, timeout=40) as r:
-                return r.read().decode("utf-8", "replace")
-        except Exception as e:
-            time.sleep(2 * (2 ** i))
-    return ""
+## Usage
 
-def parse(xmlt):
-    out = []
-    root = ET.fromstring(xmlt)
-    for e in root.findall("atom:entry", ns):
-        aid = e.find("atom:id", ns).text.split("/abs/")[1].split("v")[0]
-        title = " ".join(e.find("atom:title", ns).text.split())
-        pub = e.find("atom:published", ns).text[:10]
-        authors = [a.find("atom:name", ns).text for a in e.findall("atom:author", ns)]
-        abstract = " ".join(e.find("atom:summary", ns).text.split())
-        cats = [c.get("term") for c in e.findall("atom:category", ns)]
-        out.append({"arxiv_id": aid, "title": title, "published": pub,
-                    "authors": authors, "abstract": abstract, "categories": cats})
-    return out
+```bash
+# Targeted query (legacy API, export.arxiv.org)
+python3 tooling/scripts/arxiv_fetch.py --query "cat:cs.CY AND ti:education AND submittedDate:[202607040000 TO 202607072359]" --max 20
 
-combined = {}
-for cat, mx in [("cs.CY", 20), ("cs.HC", 10), ("cs.CL", 15), ("cs.AI", 15)]:
-    try:
-        res = parse(api(cat, mx))
-        for p in res:
-            combined[p["arxiv_id"]] = p
-    except Exception as e:
-        print(f"{cat} ERROR: {e}")
-print("TOTAL unique arXiv:", len(combined))
+# New articles in a category (RSS) — the right tool for "what's new"
+python3 tooling/scripts/arxiv_fetch.py --rss cs.CY --rss cs.HC
+
+# Catch-up metadata harvest (OAI-PMH), the documented bulk path
+python3 tooling/scripts/arxiv_fetch.py --oai cs.CY --days 3
 ```
 
-## Notes
-- **Init `ns` dict ABOVE the try/except blocks** so a failure in one category
-  doesn't cause `NameError` in the next (cascading scope failure).
-- `urlencode` preserves `+` as the arXiv AND/space separator — do NOT use
-  `quote(query, safe='')` (it encodes `+` as `%2B` → empty results).
-- Keyword false positives: cs.CL/cs.AI hits are often pure-ML titles that merely
-  contain "learning" (e.g. "Learning Gradient Flows"). Verify the abstract is
-  education-applied before ingesting.
-- Weekend windows (Sat–Mon): the `submittedDate` API filter returns 0 because
-  arXiv doesn't process weekend submissions. Fall back to listing pages then.
+Each prints JSON lines. From Python, import it rather than re-implementing it:
+
+```python
+import sys; sys.path.insert(0, 'tooling/scripts')
+from arxiv_fetch import query, rss, oai
+
+rows = query("cat:cs.CY AND ti:education", max_results=20)   # costs 3s per call
+# A multi-category scan is therefore 3s PER CATEGORY, by design. Dedupe by
+# arxiv_id across categories, since one paper can be listed under several.
+```
+
+## Any other transport must claim the window first
+
+The browser tool, a shell `curl`, or a script that fetches arXiv its own way cannot
+use the lock implicitly, so it must claim it explicitly and hold it for the length of
+its request:
+
+```bash
+python3 tooling/scripts/arxiv_fetch.py --reserve --hold 10   # then fetch; 10s covers it
+```
+
+Never run two arXiv fetches concurrently, and never hand a subagent its own arXiv work
+while another is running: serialize them.
+
+## Prove the pacing
+
+```bash
+python3 tooling/scripts/arxiv_fetch.py --selftest-rate   # 3 real requests, prints the gaps
+```
+
+It exits non-zero if any gap is under the interval, so a regression is visible rather
+than assumed. The pacing can also be checked offline without touching arXiv: start
+several `--reserve` calls at once and confirm their claim gaps are at least 3 seconds.
+Measured on this host: five concurrent callers claim 3.0s apart (15s wall clock), and
+a `--reserve --hold 4` blocks the next claim until 3s after it releases.
+
+## Notes that still bite
+
+- **Query syntax**: `urlencode` preserves `+` as the arXiv AND/space separator — do
+  NOT use `quote(query, safe='')` (it encodes `+` as `%2B` and returns nothing).
+- **Keyword false positives**: cs.CL / cs.AI hits are often pure-ML titles that
+  merely contain "learning" (e.g. "Learning Gradient Flows"). Read the abstract and
+  confirm the paper is education-applied before ingesting it.
+- **Weekend windows**: a `submittedDate` filter over Sat–Mon can return 0 because
+  arXiv does not process weekend submissions. Fall back to the **RSS feed** for the
+  category (`--rss`), not to scraping listing pages.
+- **Some hosts cannot reach arXiv from a shell at all**: an egress filter can answer
+  with an immediate HTTP 406 (in about 0.25s, with no `Server` header) which is not an
+  arXiv response — a raw TLS connection to `export.arxiv.org:443` returns 200 Atom
+  XML from the same host, so the block is in the tool layer, not the network. The
+  browser tool is the working transport there. `--reserve` still applies, because it
+  makes no network call.
