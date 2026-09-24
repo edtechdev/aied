@@ -109,7 +109,7 @@ In the `## Citation` section, **only the article title is hyperlinked** to the s
 The maintainer asked why some article summaries are "so very long", naming the faculty-development case study (1,520 words with a 363-word Key Findings block) as an example, and said much of the detail was not necessary even though the paper mattered. Measured across 1,315 articles: **median body ~556 words, 75th percentile ~929, 90th ~1,525**. Long pages are therefore outliers produced by the template, not the house style. Nothing in any brief, skill or cron prompt had ever stated a length, so writers defaulted to comprehensive and restated every statistic the source offered.
 
 **Budget for `content/en/articles/<slug>.md` — body = frontmatter end to `## Connected Concepts`:**
-- Whole body: **~600-900 words** (a very rich study may reach ~1,100; anything past ~1,500 is a defect to trim).
+- Whole body: **750-1,000 words** (revised 2026-09-19 from the earlier ~600-900). This is the number in `AGENTS.md`, in the scan job prompt, and in `tooling/scripts/audit-article-sections.py`; quote it, not an older figure. Because the corpus median is ~556 words (most pages predate the budget), the auditor REPORTS over-budget pages instead of failing the build — a green gate exit is therefore not a pass on length.
 - `> **Synthesis:**` 150-220 words — unchanged.
 - `## Key Findings`: **5-7 items, each ~25-35 words** — one claim plus the one or two numbers that decide it, not every statistic, method detail or participant quote. A 50-70-word item is a paragraph in disguise; split it into prose or cut it.
 - Prose sections: **3-4 `##` sections of ~120-180 words**, not 5-6 of ~200. Merge related ones (framing + method; themes + framework; barriers + limits).
@@ -215,6 +215,29 @@ Plus the typed fields, which are now the only place a page names the concepts it
 At the foot of every article page the **Metadata table** (`src/components/MetadataTable.astro`) renders those typed fields, one row per field, with each value hyperlinked to its concept page when one exists. Facet values link directly (they ARE slugs); phrase fields resolve through `src/data/metadataLinks.ts`, generated from the registry, so `cs education` reaches `cs-education`. The table states what a page IS; the curated `## Connected Concepts` list is the other job, what the page relates to beyond that. So do not answer a "this page is missing a link to X" report by dropping X into a facet field unless X really is one of the page's topics.
 
 Labels come from one place: the generator emits `FACET_FIELDS` (field + label) and `FACET_DISPLAY_ORDER` into `src/data/facetVocab.ts`, and each facet's label IS its registry section heading. The sidebar, the search filters and the Metadata table all read them, so adding a facet means editing `FACET_SECTIONS` in `tooling/scripts/gen-concept-artifacts.py`, never the .astro files.
+
+
+## Trimming an over-budget page (procedure that works)
+
+A batch of ten pages over 2,600 words was cut to 900-1,000 with zero lost links and zero introduced defects. What made it work:
+
+**Measure first, and say which measure.** Two counts exist and disagree by 1-2%: the documented one (`len(body.split())` on the body region) and the auditor's word regex, which differs mainly in how it treats wikilink and bold markup. The auditor now prints its count as `body_for_budget`; when you report a trim, state the measure you used. Reconcile before/after with the SAME measure or the numbers look impossible.
+
+**A trim is a subtraction, never a rewrite.** Introduce no number, claim, or fact that is not already on the page. Numbers already there stay grounded, so the number-grounding gate stays green without re-checking the source (`raw/papers/<slug>.md` may be read to confirm a fact, never to add one, and is never edited).
+
+**Cut in this order:** exhaustive itemised statistics; restated definitions; the source's own literature review; methodological minutiae (software names, IRB categories, analysis phases, model versions beyond the one that decides something); decorative quotes beyond one per section; any sentence that only restates a Key Finding. `## Key Findings` items collapse from 50-70-word paragraphs to 5-7 items of 25-35 words.
+
+**Write for practitioners first, researchers second.** This is a maintainer directive, not a stylistic preference. Lead each section with what an instructor, then an administrator or institution, then a developer or designer can act on or should watch for; keep study design, sample and setting, measures, effect sizes, and limitations compactly inline inside those same sections. Do not delete the research detail to save words, and do not push it into a separate section.
+
+**Six prose sections cannot fit a 900-1,000-word body** (6 x 120 + synthesis 150 + findings 150 + practice 90 + limitations 90 = 1,200 minimum). Consolidate in place: merge adjacent headings into one, preserving their content and order. Report every section-set change rather than making it silently, and expect three legitimate ones from a trim: consolidating pairs of sections, dropping a legacy heading that duplicates the practice and limitations bullets, and adding `## Key Findings` to a page that never had one.
+
+**Preserve every wikilink target.** Diff the target SET (not the count) before and after with `sorted(set(re.findall(r'\[\[([^\]|]+)', body)))`; a dropped target is a broken cross-link. Re-home links that lived only in cut text into a nearby sentence.
+
+**Re-run the list-formatting gate after trimming — every time.** Trimming and merging numbered Key Findings is exactly where blank-line splits appear, and the build does NOT catch them. One page in the trim batch shipped six split findings (each item renumbered to `1.`) while its auditor run was clean, because the brief named the section auditor and not this gate. Name every gate in a delegated brief; the child runs only what it is told to run.
+
+**Do not use `--slugs-file` with `check_list_formatting.py`.** It silently scans 0 pages and reports a green "Defects: 0" — a false pass. Run it with `--all`.
+
+**Delegate one page per child**, give each child the page's before count, the exact measurement command, the invariants list, and the gates to run; then re-verify centrally. Child summaries are self-reports: in this batch one claimed a clean auditor run on a page carrying six hard-gate list defects.
 
 ## Wikilink routing (site architecture — how `[[slug]]` renders to URLs)
 As of 2026-08-23 the Astro templates render inline `[[wikilink]]`s to **canonical URLs directly** (`/aied/concepts/{slug}` for concept slugs, `/aied/articles/{slug}` for article slugs) — NOT to the legacy `/aied/pages/{slug}` route. The `/pages/` route still exists but only as a 301-redirect stub for backward compat. When diagnosing "broken link" reports: a `/aied/pages/<slug>` link is a working redirect (old-URL compat), not a defect; a canonical link that 404s means the slug genuinely doesn't exist (check `content/en/concepts/` + `content/en/articles/` + `conceptRedirects.ts`). This routing lives in `src/pages/articles/[slug].astro` and `src/pages/concepts/[slug].astro` (`renderInline`), each resolving the slug against the opposite collection set — do not re-add `/pages/` output.
