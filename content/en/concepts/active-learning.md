@@ -1,7 +1,7 @@
 ---
 title: Active Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-24T02:22:12-04:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,6 +9,7 @@ pedagogy: [active-learning, scaffolding]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
+connected_resources: [education-agent-skills]
 reviewed_by: [editor]
 ---
 
