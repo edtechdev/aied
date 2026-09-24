@@ -20,6 +20,10 @@ export default defineConfig({
   trailingSlash: 'ignore',
   redirects: {
     '/use-with-ai': '/aied/ai',
+    // The Cognitive Agent Compilation page was consolidated into one survivor
+    // page for the same paper; keep the old slug resolving for inbound links.
+    '/articles/cognitive-agent-compilation':
+      '/aied/articles/moon-cognitive-agent-compilation-problem-solver-modeling-2026',
   },
   integrations: [pagefind(), sitemap()],
   vite: {
