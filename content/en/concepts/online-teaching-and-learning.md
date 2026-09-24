@@ -1,14 +1,14 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-21T13:00:10-04:00"
+updated: "2026-09-24T02:22:12-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
 technology: [generative-ai]
 level: [higher ed]
 confidence: high
-connected_resources: [liascript]
+connected_resources: [liascript, claw-ed]
 connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
 ---

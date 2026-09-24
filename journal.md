@@ -1,9 +1,24 @@
 # Journal
 
-Last updated: 2026-09-23 | Total entries: 1644
+Last updated: 2026-09-24 | Total entries: 1655
+
+## 2026-09-24
+
+- 📄 [[lee-pedagogy-r1-pedagogical-large-reasoning-model-2025]] — Pedagogy-R1: Pedagogical Large Reasoning Model and Well-balanced Educational Benchmark
+- 📄 [[beyond-static-lms-self-evolving-agentic-elearning-2026]] — Beyond the Static LMS: A Conceptual Framework for Self-Evolving Agentic E-Learning Systems
+- 📄 [[chen-teacharena-language-agents-realistic-teaching-2026]] — TeachArena: Are Language Agents Ready for Realistic Teaching Work?
+- 📄 [[moon-cognitive-agent-compilation-problem-solver-modeling-2026]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
+- 📄 [[yu-academiclaw-student-challenges-ai-agents-2026]] — AcademiClaw: When Students Set Challenges for AI Agents
+- 📄 [[wang-multi-agent-systems-learning-designers-2025]] — Enabling Multi-Agent Systems as Learning Designers: Applying Learning Sciences to AI Instructional Design
+- 📄 [[walkington-teachers-multi-agent-personalized-problem-generation-2026]] — Mathematics Teachers Interactions with a Multi-Agent System for Personalized Problem Generation
+- 📄 [[liu-agenticmath-math-data-generation-2025]] — AgenticMath: Enhancing LLM Reasoning via Agentic-based Math Data Generation
+- 📄 [[lee-openlearnlm-benchmark-educational-llms-2026]] — OpenLearnLM Benchmark: A Unified Framework for Evaluating Knowledge, Skill, and Attitude in Educational Large Language Models
+- 📄 [[ikram-multi-agent-personalized-math-problems-2026]] — A Multi-Agent Approach to Validate and Refine LLM-Generated Personalized Math Problems
 
 ## 2026-09-23
 
+- 🧰 [[claw-ed]] — Claw-ED
+- 🧰 [[education-agent-skills]] — Education Agent Skills
 - 🧰 [[liascript]] — LiaScript
 - 🧰 [[vibes-diy]] — Vibes DIY
 - 🧰 [[onmicro-ai]] — OnMicro.AI
@@ -433,7 +448,7 @@ Last updated: 2026-09-23 | Total entries: 1644
 - 📄 [[ai-web-agents-lesson-design-2025]] — AI Web Agents Can Effectively Guide Lesson Design and Predict Student Outcomes
 
 ## 2026-09-04
-- 📄 [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Agentic AI Ecosystems in Higher Education: A Perspective on Emerging Inclusive Agentic Multi-Agent AI Frameworks for Learning, Teaching and Institutional Intelligence
+- 📄 [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence
 - 📄 [[baradziej-agentic-ai-higher-education-2026]] — A systematic review of the roles of agentic AI in higher education
 - 📄 [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in Education: State of the Art and Future Directions
 - 📄 [[human-capability-test-learning-outcomes-ai-2026]] — A Human Capability Test for Learning Outcomes in the AI Era
@@ -1808,7 +1823,6 @@ Last updated: 2026-09-23 | Total entries: 1644
 ## 2026-05-11
 - 📄 [[academiclaw-student-agent-benchmark]] — AcademiClaw: When Students Set Challenges for AI Agents
 - 📄 [[ai-agents-peer-learning-discourse]] — When AI Agents Teach Each Other: Discourse Patterns Resembling Peer Learning in the Moltbook Community
-- 📄 [[cognitive-agent-compilation]] — Cognitive Agent Compilation for Explicit Problem Solver Modeling
 - 📄 [[conversational-ai-tutors-framework]] — The Path to Conversational AI Tutors: Integrating Tutoring Best Practices and Targeted Technologies to Produce Scalable AI Agents
 - 📄 [[genai-tutor-engagement-patterns]] — Not All Students Engage Alike: Multi-Institution Patterns in GenAI Tutor Use
 - 📄 [[ground-truth-reliability-aied]] — Modernizing Ground Truth: Four Shifts Toward Improving Reliability and Validity in AI in Education

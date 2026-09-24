@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T18:38:50-04:00"
+updated: "2026-09-24T02:22:12-04:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-literacy, designing-ai-into-learning, designing-educational-ai-software, asynchronous-online-courses-ai]
 confidence: high
-connected_resources: [id-toolbox, lesson-md, onmicro-ai, vibes-diy, liascript]
+connected_resources: [id-toolbox, lesson-md, onmicro-ai, vibes-diy, liascript, claw-ed, education-agent-skills]
 contributors: [editor]
 reviewed_by: [editor]
 ai_assist:
