@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-23T14:23:07-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -152,3 +152,5 @@ Proactive [[agentic-ai|agentic AI]] can displace the learner's own metacognitive
 - [[chen-automated-scoring-interpreting-self-regulated-learning-2026]] — Automated scoring reinforced monitoring but not planning, and self-reported reflection stayed unproductive (Chen & Liu 2026)
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — Verification literacy acting only through metacognitive self-regulation (Davor, Larbi & Boateng 2026)
 - [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026]] — From diagnosis to meta-diagnosis: teachers judging AI-generated inferences (Hoppe, Loibl & Leuders 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

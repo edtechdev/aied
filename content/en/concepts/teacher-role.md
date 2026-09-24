@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T12:59:59-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -186,3 +186,7 @@ Teacher role and [[learner-identity]] are reciprocal faces of the same human pro
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
 - [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

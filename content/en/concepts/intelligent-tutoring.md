@@ -1,7 +1,7 @@
 ---
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T09:59:57-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor]
 type: concept
 pedagogy: [scaffolding]
@@ -170,3 +170,4 @@ Effective tutoring requires continual adaptation: [[zhang-tutormoments-2026|Zhan
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
 - [[misconception-acquisition-dynamics-llms-2026]] — tutor models that acquire many student misconceptions without losing correct solving
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — When AI Tutors Speak: Evidence from a Randomized Field Experiment
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains

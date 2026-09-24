@@ -1,7 +1,7 @@
 ---
 title: Edtech Platform
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -51,6 +51,7 @@ A rare census of educator-reported platform choice comes from a 2026 typology bu
 
 - **Proprietary platforms** create barriers to research: researchers who want to replicate or extend [[adaptive-learning]] experiments are often confined to a small number of closed platforms.
 - **Open platforms** lower this barrier. **OATutor** is the first open-source adaptive tutoring system built on ITS principles — an MIT-licensed codebase with a Creative Commons algebra content library, [[knowledge-tracing]] mastery estimation, and built-in A/B testing — letting researchers fork, experiment, and publish the full end-to-end system.([[oatutor-open-source-adaptive-tutor-2023]])
+- **Transparency is front-loaded.** In the same audit of 48 platform policies, data collection and third-party sharing were disclosed comparatively well while AI-specific disclosure and accountability lagged, and 16 of 48 platforms (33%) made no meaningful AI disclosure despite visible AI features ([[edtech-privacy-deferral-2026|Nair & Greenstadt, 2026]]).
 
 ### AI-native platforms are reshaping online education
 
@@ -120,3 +121,5 @@ Platforms can personalize beyond performance data. **Taklif.AI** is an LLM-power
 - [[credentials-carry-evidence-ai-agents-2026]] — Credentials that carry their evidence for AI-agent work
 - [[breideband-community-builder-cobi-2026]]
 - [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

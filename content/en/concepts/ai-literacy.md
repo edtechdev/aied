@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-24T02:22:12-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -219,3 +219,4 @@ AI literacy is **double-edged** for overreliance: [[student-dependency-on-ai-lit
 - [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Five-dimension Marzano-grounded model and 15-item self-report scale for graduate GenAI literacy (Zhi et al. 2026)
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Eleven studies of AI in initial mathematics teacher training, mostly short-term, with ethics addressed in only three (Pinto et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry, with representational translation as the core AI literacy demand (Vega-Baudrit & Rivera Alvarez 2026)
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research

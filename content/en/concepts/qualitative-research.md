@@ -1,7 +1,7 @@
 ---
 title: Qualitative Research
 created: "2026-08-24T02:00:00-04:00"
-updated: "2026-09-14T09:18:31-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 research_method: [interviews, case study]
 confidence: high
@@ -102,3 +102,5 @@ Qualitative and quantitative methods are complements, not rivals — see [[resea
 - [[favero-critical-ai-tutors-empower-enslave-2025]] — Critical AI tutors: empower or enslave
 - [[genai-runaway-object-math-higher-ed]] — GenAI as a runaway object in higher-education mathematics
 - [[khlaif-assistive-genai-visually-impaired-2026]] — Assistive GenAI for visually impaired learners
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

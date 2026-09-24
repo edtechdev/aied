@@ -1,7 +1,7 @@
 ---
 title: Pedagogical Agent
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-09-22T09:59:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -121,3 +121,4 @@ Crucially, pedagogical agents are judged by their [[learning-gains|learning gain
 - [[liao-role-adaptive-ai-companion-book-talk-2026]] — Role-adaptive AI companion for elementary book talk; affective ceiling of fixed-role agents (Liao 2026)
 - [[trikonet-trivalence-co-creativity-2026]] — TriKoNet: pedagogical avatars co-constituted with learners in creative networks
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

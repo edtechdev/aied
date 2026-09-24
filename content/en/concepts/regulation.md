@@ -1,7 +1,7 @@
 ---
 title: AI Regulation in Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -85,3 +85,4 @@ Regulation connects to [[educational-policy-ai]], [[governance]], [[ethics]], [[
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt-injection attacks on AI graders and the case for standardized resilience testing (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — External regulatory pressure as the condition for governance reform (Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 87% of faculty write their own rules against a thin institutional policy layer (Watson & Rainie 2026)
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

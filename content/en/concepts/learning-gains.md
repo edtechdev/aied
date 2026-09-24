@@ -1,7 +1,7 @@
 ---
 title: Learning Gains
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-09-18T14:00:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 assessment: [assessment]
 audience: [learners]
@@ -53,6 +53,9 @@ Across the knowledge base's [[rct|RCTs]], [[meta-analysis-systematic-review|meta
 - **Perceived vs. actual efficacy diverge.** [[ai-literacy-assessment-misalignment|Self-reported performance misaligns with measured performance]], and [[absent-cognitive-baseline-2026|the absent cognitive baseline]] shows AI-native students overestimate their learning — so efficacy claims based on self-report are unreliable without objective outcome measures. [[self-report-measures]] collects the cases where reported and measured outcomes come apart.
 
 **Takeaway:** the weight of evidence supports **modest, conditional, and design-dependent learning gains** from AI — real when AI is structured to coach rather than answer, guardrailed, and paired with unassisted outcome measures, and absent or negative when it substitutes for the learner's own effort. This is why learning gains as an outcome must be measured with valid, AI-resistant instruments and why [[ai-ed-evaluation]] pairs efficacy claims with [[research-methods-aied|methodological]] scrutiny.
+
+
+- **AI tutoring can match expert human tutoring on standardized-test gains.** In a 2,383-participant evaluation, pooled AI tutoring was statistically equivalent to expert human tutoring on GRE learning gains (p = .015), with both above a no-tutoring control; the authors propose cost per percentage point of gain as the unit for comparing tutors ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
 ### A field-level map of AI's effects on learning and achievement
 
@@ -160,3 +163,4 @@ Learning gains connect to [[assessment-validity]] — if [[assessment|assessment
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: audit of flawed AIED meta-analyses
 - [[ai-supported-instruction-stem-meta-analysis-2026]] — A STEM synthesis that controlled dependent effect sizes and tested publication bias, but applied no quality appraisal (Doğan et al. 2026)
 - [[ai-education-effects-second-order-meta-analysis-2026]] — Second-order meta-analysis of 45 AI-in-education meta-analyses, with overlap-corrected effects and a quality appraisal of the synthesis layer (Emslander et al. 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains

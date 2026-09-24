@@ -1,7 +1,7 @@
 ---
 title: Generative AI
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-22T03:05:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
@@ -100,3 +100,6 @@ A 2026 interdisciplinary systematic review (Dabaghi, D'Urso & Sciarrone, PRISMA-
 - [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
 - [[falahat-chatgpt-grading-pharmacy-exams-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions

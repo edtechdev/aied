@@ -1,7 +1,7 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T08:40:49-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -125,3 +125,4 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[olvet-genai-scoring-open-ended-medical-2026]]
 - [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

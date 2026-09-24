@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-09-22T04:20:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -111,6 +111,7 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Explaining ChatGPT adoption in higher education
 - [[li-explainable-trustworthy-llm-teacher-assessment-2025]] — Explainable-by-design LLM framework: dual-lens attention and score-parameterized explanations for automated teacher assessment (Li et al. 2025)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection in AI-mediated grading, where detection was never reported to the user (Humble 2026)
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 
 ## Citation
 

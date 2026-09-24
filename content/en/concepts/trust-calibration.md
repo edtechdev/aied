@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-23T14:21:43-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -124,3 +124,5 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt cuts acceptance of incorrect AI advice (Ren 2026)
 - [[hu-psychological-predictors-continued-chatgpt-use-2026]] — Trust as the pivot from AI literacy to continued use, weakened by AI anxiety (Hu 2026)
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

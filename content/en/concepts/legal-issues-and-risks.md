@@ -1,7 +1,7 @@
 ---
 title: "Legal Issues and Risks"
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -110,3 +110,4 @@ For professional programs the exposure does not end at graduation. Gutowski and 
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Students attacking AI graders by indirect prompt injection, with grades changed undetected (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance indicators and reform program for authenticating assessment (Coates, Croucher & Calderon 2025)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — 1,057 US faculty: individual policies far outrun institutional ones, structural response thin (Watson & Rainie 2026)
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

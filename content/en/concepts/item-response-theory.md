@@ -1,7 +1,7 @@
 ---
 title: Item Response Theory
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-09-21T12:49:59-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
@@ -75,3 +75,5 @@ IRT is a foundation of [[educational-measurement]] and [[assessment-validity]], 
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
 - [[bayesian-consensus-irt-item-banks-2026]] — Bayesian consensus calibration of a continuously evolving IRT item bank (Jewsbury et al. 2026)
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Field audit showing IRT/Rasch rarely used as primary validation evidence in teacher AI literacy instruments
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses

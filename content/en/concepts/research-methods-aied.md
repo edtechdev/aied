@@ -1,7 +1,7 @@
 ---
 title: Research Methods in AIED
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-09-19T05:41:27-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -211,3 +211,4 @@ In practice, AI-in-education research rarely falls cleanly into one tradition. T
 - [[weidlich-chatgpt-effect-search-cause-2025]] — ChatGPT in Education: An Effect in Search of a Cause
 - [[bartos-ai-learning-meta-meta-analysis-2026]] — Meta-meta-analysis of AI effect on learning
 - [[oneill-presumed-effective-meta-analysis-2026]] — Presumed Effective: flawed AIED meta-analysis audit
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

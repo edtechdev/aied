@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -48,6 +48,9 @@ AI-ed evaluation is difficult for several reasons. First, **reliability is not e
 
 The velocity of the systems being evaluated is a further constraint. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] describe the temporal problem directly: by the time a large-scale trial has been designed, delivered, analyzed and published, the technology under study may have changed materially, which pushes practice toward weak observational or usage data at exactly the moment stronger evidence is needed. Their answer is not to accept weaker designs but to shorten the loop — practitioner-led micro-randomized trials that retain the causal contrast and repeat it as the platform evolves.
 
+
+- **Data fidelity is a separate evaluation problem from output quality.** Synthetic educational cohorts that reproduce each variable's summary statistics can still misstate the structure of the data: a weekly proximity graph over learners varied 2.6 to 4.9 times less across a term in the synthetic versions than in the real cohorts, so a fidelity score does not predict which analyses survive on real data ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake, 2026]]).
+
 ### Connections to related concepts
 
 AI-ed evaluation sits at the center of the knowledge base's methods and risks. It operationalizes [[assessment-validity]], [[educational-measurement]], and [[benchmark]] within [[assessment]] and [[automated-assessment]]. Its call for human oversight connects to [[human-in-the-loop-ai]] and [[teacher-role]], while its focus on reliability connects to [[hallucination-risk]], [[automated-assessment|Confidence Aware AI Assessment]], and [[trust-calibration]]. The distinction between evaluating performance and evaluating learning links to [[genai-performance-vs-learning|performance vs. learning]] and to [[student-modeling]]; and evaluation of pedagogical agents connects to [[intelligent-tutoring]], [[pedagogical-llm-training]], and [[pedagogical-safety]].
@@ -63,6 +66,7 @@ A central object of AI-ed evaluation is the **learning gain** — the measurable
 
 Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al. (2026)]] argue that prior tutoring benchmarks (MathTutorBench, MRBench, LearnLM) reward one side of the assistance dilemma or give underspecified guidance. TutorMoments instead replays teacher-identified pedagogical decision points, evaluating whether a tutor's help is appropriate to the specific learning moment — [[scaffolding]] vs. rigor.
 - **The metric you choose can reverse your conclusions.** [[zhang-platform-scores-miss-ai-teaching-agents-2026|Zhang et al. (2026)]], evaluating AI teaching agents in [[medical-education|medical education]], found that an [[edtech-platform|educational platform]]'s undisclosed aggregate scores ranked agents nearly opposite to a transparent, expert-validated 8-dimension teaching-quality rubric (medical knowledge accuracy, pedagogical guidance, knowledge coverage, role-play quality, adaptive difficulty, medical safety, engagement, feedback). Platform scores index student performance; the rubric indexes agent teaching behavior -- choosing the wrong metric determines which agents get adopted or refined. They also found LLM-as-evaluator leniency differs by model (some too lenient to discriminate), so automated scoring needs human calibration and is most trustworthy on cognitive-process dimensions.
+- **Anchor evaluation suites to measured learning, not proxies.** Teaching-capability benchmarks, conversational-pedagogy rubrics and tutor latency should be validated against actual learning gains rather than treated as stand-ins for them, and latency is itself an evaluation axis because it shapes whether students engage at all ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).
 
 ## Connected Concepts
 
@@ -122,3 +126,6 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[proiqa-math-item-quality-assessment-2026]] — ProIQA: Process-Based Math Item Quality Assessment
 - [[durable-skills-measurement-ai-teammates-2026]] — Toward Scalable Measurement of Durable Skills
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
