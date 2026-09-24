@@ -1,6 +1,16 @@
 # arXiv Listing-Page Extraction Strategy
 
-When the arXiv API is unavailable (HTTP block, 429 rate limit, 500 error, or HTTP-only URL blocked by terminal security scanner), use this listing-page extraction pattern.
+**Prefer the rate-limited client and arXiv's own feeds.** For "what is new in this
+category" use `python3 tooling/scripts/arxiv_fetch.py --rss <category>` (or `--oai`
+for a catch-up harvest); the RSS feed is an API under the same terms of use and does
+not touch the listing pages, which the bulk-data guidance reserves for interactive
+readers. This document covers the last-resort path for when neither is reachable.
+
+**Whichever path you use, the limit is the same**: no more than one request every
+three seconds, one connection at a time, counted across all machines you control.
+Browser-tool reads are not exempt — claim the window first with
+`python3 tooling/scripts/arxiv_fetch.py --reserve --hold <seconds>` and never run two
+arXiv reads concurrently, including from separate subagents.
 
 ## 0. Browser Console Extraction (Fastest First Pass)
 

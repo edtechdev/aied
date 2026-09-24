@@ -145,18 +145,22 @@ scan:
                  curriculum, pedagog, grading, feedback, literacy, assessment,
                  metacognit]
       max_results: 20
-      # Listing pages to scrape when the API rate-limits or returns nothing.
-      listing_fallback: ["https://arxiv.org/list/cs.CY/recent",
-                         "https://arxiv.org/list/cs.HC/recent",
-                         "https://arxiv.org/list/cs.CL/recent",
-                         "https://arxiv.org/list/cs.AI/recent"]
+      # Feed for new articles when the dated API query comes back empty (a weekend,
+      # or an outage). These are arXiv's RSS feeds: an API under the same terms of
+      # use, and the documented way to get new articles per category. Do NOT scrape
+      # the listing pages on the main site — those are for interactive readers.
+      # All access goes through tooling/scripts/arxiv_fetch.py (one request per 3s).
+      rss_fallback: ["https://rss.arxiv.org/rss/cs.CY",
+                     "https://rss.arxiv.org/rss/cs.HC",
+                     "https://rss.arxiv.org/rss/cs.CL",
+                     "https://rss.arxiv.org/rss/cs.AI"]
     - name: arXiv physics.ed-ph
       type: arxiv_api
       url: "https://export.arxiv.org/api/query"
       categories: [physics.ed-ph]
       keywords: [AI, LLM, chatbot, generative, machine learning]
       max_results: 10
-      listing_fallback: ["https://arxiv.org/list/physics.ed-ph/recent"]
+      rss_fallback: ["https://rss.arxiv.org/rss/physics.ed-ph"]
     - name: EdArXiv
       type: web_search
       url: "https://osf.io/preprints/edarxiv/discover"

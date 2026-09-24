@@ -53,6 +53,14 @@ Both contain the home introduction, the *Use-With-AI* page, all **concept pages*
 
 Pages are drafted by language models from the source papers and reviewed, corrected and published by a human editor, who is accountable for what appears here. The full account — which models, in what roles, what the scripts verify, what nothing verifies, and why no AI system is listed as an author — is in [AI-USE.md](AI-USE.md). It is also on the Notice page of both offline editions.
 
+### Acknowledgements
+
+Papers are discovered through arXiv's public APIs, OAI-PMH interface and RSS feeds. The knowledge base stores their descriptive metadata and links back to each paper's abstract page rather than hosting the papers themselves.
+
+> Thank you to arXiv for use of its open access interoperability.
+
+arXiv's [terms of use for its APIs](https://info.arxiv.org/help/api/tou.html) allow no more than one request every three seconds, from a single connection at a time, counting every machine under one operator as a whole. Every arXiv request this project makes goes through `tooling/scripts/arxiv_fetch.py`, which enforces both across processes, so a multi-category scan or a fan-out of agents cannot exceed the limit.
+
 ### License
 
 Code in this repository is licensed under the **MIT License**; the knowledge-base content (markdown, HTML) is released to the public domain under **CC0 1.0 Universal**. See [LICENSE](LICENSE).

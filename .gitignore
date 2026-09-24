@@ -40,3 +40,6 @@ feed.xml
 pdf-sources/
 # weasyprint temp files left in the repo root by the PDF build
 toPdfViaTempFile*
+
+# arXiv client pacing state (one request per 3s, shared across processes)
+.arxiv-rate/
