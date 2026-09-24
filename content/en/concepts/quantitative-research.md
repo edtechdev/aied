@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-09-12T11:20:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -83,4 +83,5 @@ Quantitative and [[qualitative-research|qualitative]] methods are complements �
 - [[ai-lms-middle-school-longitudinal]] — A longitudinal AI-integrated LMS study
 - [[genai-over-reliance-learning-2026]] — From enhancement to over-reliance (mixed-method)
 - [[adaptive-pretesting-retention]] — Adaptive pretesting and retention
-
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data

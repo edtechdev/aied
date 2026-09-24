@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:30:30-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -56,3 +56,4 @@ For the fuller treatment of experimental design in AI in education — including
 - [[access-not-enough-ai-tutoring-2026]] — Access is not enough: human support improves engagement with AI tutoring
 - [[burneo-can-edtech-close-learning-gaps-2026]] — World Bank meta-analysis of 14 EdTech RCTs
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Evaluating AI Tutoring at the Speed of Innovation: Practitioner-Led Micro-Randomized Trials of an AI Tutoring Platform in GCSE Science
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains

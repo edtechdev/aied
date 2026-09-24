@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T14:23:26-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -190,3 +190,5 @@ Two controlled studies in the recent batch pin down the two halves of this claim
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — A reflection prompt reduces acceptance of incorrect AI advice and improves awareness calibration (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — GenAI dependence as a boundary condition on critical-thinking disposition and self-perceived employability (Shojaei et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — GenAI and children's creative thinking: over-reliance and prompt dependence in a scoping review (Niu et al. 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

@@ -1,7 +1,7 @@
 ---
 title: Critical Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-23T14:23:16-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -126,3 +126,4 @@ Critical thinking intersects with [[scaffolding]] (designing AI support that mai
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — Reflection prompt cuts acceptance of incorrect AI advice and attribution bias (Ren 2026)
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as structure for critical human-AI interaction (Kenzhebayeva et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Verification-centered GenAI integration in university chemistry education (Vega-Baudrit and Rivera Álvarez 2026)
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

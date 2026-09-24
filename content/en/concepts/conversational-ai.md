@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -105,6 +105,7 @@ Choose conversational agents to support teaching, [[motivation]], and [[metacogn
 - [[vahedian-children-attitudes-ai-chatbot-2026]]
 - [[culturally-aware-student-stress-chatbot-2026]] — An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning
 - [[sophie-clinical-communication-ai-assessment-2026]] — Scalable AI-based clinical communication training and automated assessment
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 
 ## Citation
 

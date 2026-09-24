@@ -1,7 +1,7 @@
 ---
 title: Personalized Learning
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-23T09:35:30-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -146,3 +146,4 @@ A recurring problem is that "personalized learning" is a broad, loosely defined 
 - [[sidorkin-ai-generated-course-readings-2026]] — Dual tailoring of AI-generated course readings along interest and comprehension dimensions (Sidorkin 2026)
 - [[personalization-paradox-adaptive-learning-emotions-2026]] — Personalization paradox: perceived adaptive personalization linked to lower self-regulated learning via academic emotions, buffered by AI literacy (Li, Lin & Qiu 2026)
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: LLM planners reach 90.9% validity but no model exceeds 44.7% adaptivity when personalizing paths to a stated learner goal (Liu et al. 2026)
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

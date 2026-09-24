@@ -1,7 +1,7 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-23T09:34:59-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -130,3 +130,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[weidlich-inference-at-risk-assessment-validity-2026]] — Detection as a conditional signal, and why security responses add construct-irrelevant variance (Weidlich 2026)
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
 - [[detecting-gpt-assisted-writing-stylometric-2026]] — Nine interpretable stylometric features: ROC-AUC 0.870 but four of 18 independently authored documents flagged (Kumar et al. 2026)
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-09-23T09:52:53-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -101,3 +101,6 @@ AI use and disclosure sits at the intersection of [[academic-integrity]] (its pa
 - [[qian-governing-genai-higher-ed-policy-2026]] — Disclosure as the boundary between assistance and misrepresentation across 50 innovative US universities (Qian 2026)
 - [[gutowski-hurley-genai-policy-legal-education-2025]] — No consensus on disclosure and AI citation in law school policy (Gutowski & Hurley 2025)
 - [[ai-written-admissions-essays-penalized-2026]] — AI-written admissions essays are widespread but penalized
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-24 | Total entries: 1658
+Last updated: 2026-09-24 | Total entries: 1670
 
 ## 2026-09-24
 
@@ -22,6 +22,19 @@ Last updated: 2026-09-24 | Total entries: 1658
 - 🧰 [[pedagogical-promptbook]] — The Pedagogical Promptbook
 - 🧰 [[writing-rhetoric-studies-in-the-loop]] — Writing and Rhetoric Studies in the Loop: A GenAI Prompt Library
 - 🧰 [[matt-pocock-skills]] — Skills for Real Engineers
+- 📄 [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- 📄 [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- 📄 [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- 📄 [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- 📄 [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- 📄 [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- 📄 [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015-2026
+- 📄 [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
+- 📄 [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- 📄 [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- 📄 [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- 📄 [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+
 ## 2026-09-23
 
 - 🧰 [[claw-ed]] — Claw-ED

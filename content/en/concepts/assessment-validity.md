@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T09:34:59-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -54,6 +54,9 @@ reviewed_by: [editor]
 
 A conceptual proposal raises a validity boundary that applies to every AI-mediated assessment on this page: [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that speed is not validity, and that AI-generated prompts, examples and transcript-based reports still have to be tested for accuracy, cultural responsiveness, [[accessibility]], interpretability and alignment with course outcomes. They also widen what counts as evidence: where dialogue becomes the assessed artifact, the transcript is a process record in which judgment, empathy, clarification and shared decision-making unfold in context, and the design question becomes whether that evidence supports the inference drawn from it — the same question automated scoring faces, answered by alignment among task, feedback and evidence of learning rather than by technological novelty.
 
+
+- **AI-assigned item metadata is not psychometric evidence.** Across a 10-week [[cs-education|data science]] study of 311 deployed multiple-choice items, LLM difficulty ratings tracked the model's own Bloom labels (rho = 0.90) but not empirical item difficulty (rho = 0.06), so item difficulty has to be established from response data rather than from the generating model's labels ([[student-llm-use-ai-question-difficulty-data-science-2026|An & Wang, 2026]]).
+
 ### Redesign over detection
 
 The knowledge base argues that maintaining assessment validity requires redesigning assessments for AI-capable students, not [[ai-detection|detecting AI use]]. A parallel validity problem runs through research measurement: many AI-in-education claims rest on [[self-report-measures|self-report data]], which cannot support an inference about learning or competence however well the instrument itself is validated. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection approaches]] and [[assessment]] represent validity-forward thinking.
@@ -88,6 +91,7 @@ The same section of the evidence base supplies the case-file counterpart, and it
 
 [[opraise-automated-marking-ai-assessment-2026|The OpRaise comparison of three frontier models against 761 authentic essays across three UK universities]] makes the benchmark part of the validity argument. Human marks were used as ground truth on the explicit ground that academic judgment is the socially accepted standard, while the authors acknowledge that human markers agree only moderately with one another — which caps the AI–human agreement that could reasonably be demanded, and means a correlation cannot be read as ready-or-not without a reference point. Within that frame the failures appeared as systematic structure rather than random error: marks compressed toward the middle of the scale, so the best and worst essays were misjudged most; agreement was weakest at grade boundaries; and AI marks tracked vocabulary range, connectives and sentence complexity while human marks were broadly insensitive to them. The practical lesson is double-edged, because the same study found reliability to be excellent — identical re-marks across time and high agreement between models. A validity case for automated marking therefore cannot rest on stability or on average agreement; it has to show the absence of systematic deviation, which is exactly what this evidence did not find.
 - **Agreement and benchmark error masquerade as learning.** Two 2026 studies show distinct routes by which a score can look valid while establishing something else. An open-ended marketing-writing study found LLM-human absolute agreement of only ICC(2,1) .435 and a hybrid that was significantly worse than the LLM alone, with anchor [[writing-education|composition]] moving agreement from .338 to .902 ([[automated-scoring-marketing-posts-agreement-2026]]). An expert audit of six physics benchmarks attributed 95.20% of audited rejections to defective items or graders rather than model error, moving CritPt mean@5 from 32.29% to 87.50% ([[frontier-models-physics-benchmark-audit-2026]]). In both cases the threat is construct-irrelevant variance outside the model being scored.
+- **Agreement among LLM coders is consistency, not validity.** On an expert-labeled educational dialogue corpus, a cross-model agreement filter retained only 33 of 74 corpus-derived behavioral assertions and 11 of 48 construct-derived ones, and shared model errors survived the filter, so inter-model agreement cannot stand in for construct validity ([[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al., 2026]]).
 
 ## Connected Concepts
 
@@ -143,3 +147,8 @@ The same section of the evidence base supplies the case-file counterpart, and it
 - [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
 - [[gifted-potential-ai-assisted-work-attributional-validity-2026]] — Four targets of inference and three attribution errors when a product is read as evidence of learner capacity (Sak 2026)
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[edubehaviors-auditable-coding-educational-dialogues-2026]] — EduBehaviors: Assertion-based Schemas for Auditable Coding of Educational Dialogues
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

@@ -1,7 +1,7 @@
 ---
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-21T13:20:18-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -110,3 +110,7 @@ Professional-degree programs hold most of the graduate-level evidence, and it is
 - [[dai-chan-responsible-genai-research-ai-literacy-2026]] — Postgraduate researchers' GenAI use in the research workflow and AI-literacy-oriented guidelines (Dai & Chan 2026)
 - [[engagement-intensity-learner-modeling]] — Engagement intensity as a learner-modeling signal for adaptive AI ethics instruction (Oh, Talton & Bui 2026)
 - [[ai-assisted-writing-research-teams]] — AI-assisted writing shifts research teams toward smaller, junior-leaner, highly cited collaborations (Wang et al. 2026)
+- [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? A Corpus-Assisted Discourse Analysis of Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
+- [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026

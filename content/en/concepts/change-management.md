@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-18T10:59:34-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -71,3 +71,4 @@ Change management is the institutional complement to classroom-level integration
 - [[adarkwah-genai-unesco-policy-2026]] — UNESCO framework analysis of institutional GenAI policies
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

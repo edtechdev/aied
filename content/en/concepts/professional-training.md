@@ -1,7 +1,7 @@
 ---
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T14:21:44-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -100,3 +100,4 @@ Professional training differs from academic education in its focus on applied sk
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Review of AI in initial teacher training for primary mathematics: brief tool-focused training is not enough
 - [[cigerci-primary-teachers-perceptions-ai-mathematics-2026]] — Survey linking prior AI training and frequency of use to Turkish primary teachers' positive perceptions
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as the structuring mechanism for AI-supported professional preparation
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

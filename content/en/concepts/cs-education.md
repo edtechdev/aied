@@ -1,7 +1,7 @@
 ---
 title: CS Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-18T09:00:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -177,3 +177,4 @@ CS education connects to [[computational-thinking]], [[stem-education]], [[autom
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection red-team of AI-mediated grading: hidden instructions that move the mark undetected
 - [[algorag-rag-theoretical-cs-education-2026]] — AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory
 - [[llms-unplugged-teaching-resources-2026]] — LLMs Unplugged: Teaching Resources for a ChatGPT World
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education

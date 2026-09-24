@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-22T10:03:01-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -65,6 +65,7 @@ AI feedback quality spans multiple dimensions captured in the knowledge base:
 - **Timeliness:** Is feedback delivered when the learner can act on it? ([[formative-assessment]])
 - **Bias:** Is feedback equitable across student populations? ([[bias-mitigation]], [[equity-in-ai-education]])
 - **Calibration:** Does the system know when it's uncertain? ([[automated-assessment|Confidence Aware AI Assessment]])
+- **Coverage is not alignment.** Six LLMs under three prompting strategies each produced most of the seven feedback focus types, yet their distribution over those types diverged from teachers' (best Jensen-Shannon divergence 0.134, worst 0.270), so breadth of coverage and distributional fit are separate quality signals ([[llm-feedback-focus-adaptivity-student-writing-2026|Almousa et al., 2026]]).
 
 ### Connection to broader concepts
 
@@ -117,3 +118,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[perceptions-teacher-vs-ai-feedback-bias-2026]] — Randomized source labels on identical GPT-4 feedback: teachers discount AI-attributed feedback (Mertens et al. 2026)
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
+- [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing

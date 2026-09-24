@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-23T08:23:35-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -129,3 +129,4 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[hadra-ai-detector-accuracy-efl-2026]] — Detector accuracy and hybrid-writing failure: why detection is weak fallback evidence (Hadra et al. 2026)
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions: transcription is not generation (Wright 2026)
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI

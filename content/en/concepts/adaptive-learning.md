@@ -1,7 +1,7 @@
 ---
 title: Adaptive Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-22T09:52:55-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
@@ -119,3 +119,4 @@ Adaptive learning is frequently conflated with [[personalized-learning|personali
 - [[sidorkin-ai-generated-course-readings-2026]] — Learner-requested adaptation of AI-generated readings, with no student model (Sidorkin 2026)
 - [[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]] — Adaptive problem sequencing beats fixed sequencing: +0.156 SD on an unassisted exam, mediated by engagement rather than difficulty (Chung et al. 2026)
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses

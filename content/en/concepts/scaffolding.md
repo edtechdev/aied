@@ -1,7 +1,7 @@
 ---
 title: Scaffolding
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T14:21:44-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -138,3 +138,5 @@ The rule-guided versus ad-hoc distinction reaches past the tutor and into the as
 - [[zhu-adaptive-teaching-assistance-genai-big-data-2026]] — Closed-loop adaptive scaffolding that tracks the learner's current boundary in music practice, with error detection as triage (Zhu et al. 2026)
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Scaffold form must match children's developmental capacity, not only the task (Niu et al. 2026)
 - [[vega-baudrit-genai-university-chemistry-education-review-2026]] — Scaffolds must require representational translation and verification, since students cannot verify what they do not understand (Vega-Baudrit & Rivera Álvarez 2026)
+- [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement

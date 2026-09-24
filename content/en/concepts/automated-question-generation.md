@@ -1,7 +1,7 @@
 ---
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-09-23T09:34:44-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -109,3 +109,5 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[pivot-generative-video-tutors-stem-2026]] — From Content Generation to Learning Support: Pedagogy-Guided Generative Video Tutors for STEM Learning
 - [[colearn-agentic-tutor-co-learning-loop-2026]] — CoLearn: An Agentic Tutor that Learns its Learner in a Human-AI Co-Learning Loop
 - [[automated-constructive-assessment-hdr-llm-2026]] — Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence
+- [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
+- [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions

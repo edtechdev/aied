@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-09-16T15:58:20-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -65,4 +65,4 @@ The administrator perspective connects to [[educational-policy-ai]] (policy form
 - [[ai-campus-wellbeing-tools]] — AI-driven tools for campus well-being
 - [[genai-policies-higher-ed-computing]] — Institutional GenAI policy in computing
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
-
+- [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech

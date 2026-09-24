@@ -1,7 +1,7 @@
 ---
 title: Network Analysis
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-09-01T12:30:00-04:00"
+updated: "2026-09-24T10:07:27-04:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
@@ -83,3 +83,4 @@ Network methods are used across the knowledge base's evidence base to answer que
 - [[agency-gap-ai-writing]] — The agency gap in AI-supported writing (ENA)
 - [[dai-chatbots-problem-posing-primary-2026]] — GenAI chatbots and problem posing in primary science
 - [[llm-agents-collaborative-problem-solving-simulation-2026]] — Fine-tuned participant-specific LLM agents reproducing collaborative problem solving dialogues (Fang 2026)
+- [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
