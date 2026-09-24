@@ -1,19 +1,23 @@
 ---
 // FAQ index, rendered for any locale from src/i18n/pages/faq.<locale>.ts. The
-// questions come from the `faqs` collection and stay in English until those pages
-// are translated.
+// questions come from the `faqs` collection; each title is shown in the locale
+// being rendered when the page has a translation there, and falls back to English
+// when it does not. The links were always localized — the translated pages exist —
+// so an English title next to a working Spanish link is a bug, not a fallback.
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import PageTypeIcon from '../PageTypeIcon.astro';
 import TranslationNotice from '../TranslationNotice.astro';
 import { strings } from '../../i18n';
 import { localizeHref, localizeHtml } from '../../i18n/config';
+import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 
 const { locale } = Astro.props;
 const s = strings(locale).faq;
 const ui = strings(locale).ui;
 
 const faqs = await getCollection('faqs');
+const titles = await localizedTitles(locale);
 const sorted = faqs.slice().sort((a, b) => {
   const w = (b.data.weight ?? 0) - (a.data.weight ?? 0);
   return w !== 0 ? w : (a.data.created || '').localeCompare(b.data.created || '');
@@ -33,8 +37,9 @@ const sorted = faqs.slice().sort((a, b) => {
 
   <div class="faq-list">
     {sorted.map(f => {
-      const href = localizeHref(`/aied/faqs/${f.id.replace('.md', '')}/`, locale);
-      return <a href={href} class="faq-item">{f.data.title}</a>;
+      const slug = f.id.replace('.md', '');
+      const href = localizeHref(`/aied/faqs/${slug}/`, locale);
+      return <a href={href} class="faq-item">{localizedTitle(titles, 'faqs', slug, f.data.title)}</a>;
     })}
   </div>
 </BaseLayout>
