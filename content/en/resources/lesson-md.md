@@ -16,7 +16,7 @@ last_verified: "2026-09-20"
 level: [higher ed]
 audience: [instructional designers, curriculum designers, software developers, educational technology developers]
 confidence: high
-connected_resources: [id-toolbox]
+connected_resources: [id-toolbox, liascript]
 reviewed_by: [editor]
 ---
 

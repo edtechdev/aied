@@ -1,8 +1,10 @@
 # Journal
 
-Last updated: 2026-09-23 | Total entries: 1643
+Last updated: 2026-09-23 | Total entries: 1644
 
 ## 2026-09-23
+
+- 🧰 [[liascript]] — LiaScript
 - 🧰 [[vibes-diy]] — Vibes DIY
 - 🧰 [[onmicro-ai]] — OnMicro.AI
 - 🧰 [[process-feedback]] — Process Feedback
