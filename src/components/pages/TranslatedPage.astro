@@ -12,6 +12,7 @@ import SourceButtons from '../SourceButtons.astro';
 import { contentRepoPath } from '../../config/content';
 import { renderMarkdown } from '../../lib/markdown';
 import { strings } from '../../i18n';
+import { localizedTitles, localizedTitle } from '../../i18n/localizedTitles';
 
 const { entry, locale, pageType } = Astro.props;
 const s = strings(locale).ui;
@@ -25,12 +26,21 @@ const concepts = await getCollection('concepts');
 const articles = await getCollection('articles');
 const faqs = await getCollection('faqs');
 const resources = await getCollection('resources');
+// Titles for this locale, so a link to a page that IS translated shows that page's
+// own title instead of the English one; untranslated targets keep English, which
+// is correct because the target really is English.
+const localized = await localizedTitles(locale);
 const titles: Record<string, string> = {};
 [...concepts, ...articles, ...faqs].forEach((c) => {
-  titles[c.id.replace(/\.md$/, '')] = c.data.title;
+  const slug = c.id.replace(/\.md$/, '');
+  const collection = c.collection;
+  titles[slug] = localizedTitle(localized, collection, slug, c.data.title);
 });
 const conceptTitles: Record<string, string> = Object.fromEntries(
-  concepts.map((c) => [c.id.replace(/\.md$/, ''), c.data.title]),
+  concepts.map((c) => {
+    const slug = c.id.replace(/\.md$/, '');
+    return [slug, localizedTitle(localized, 'concepts', slug, c.data.title)];
+  }),
 );
 const rendered = renderMarkdown(entry.body || '', {
   pageTitle: data.title,
@@ -91,7 +101,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       heading={chrome.metadataLabels.connected_faqs}
       items={connectedFaqs.map((f: any) => ({
         href: `/aied/faqs/${f.id.replace('.md', '')}/`,
-        title: f.data.title,
+        title: localizedTitle(localized, 'faqs', f.id.replace('.md', ''), f.data.title),
         kind: 'faq' as const,
       }))}
     />
@@ -101,7 +111,7 @@ const updatedDisplay = (data.updated || data.created || '').split('T')[0];
       heading={chrome.metadataLabels.connected_resources}
       items={connectedResources.map((r: any) => ({
         href: `/aied/resources/${r.id.replace('.md', '')}/`,
-        title: r.data.title,
+        title: localizedTitle(localized, 'resources', r.id.replace('.md', ''), r.data.title),
         kind: 'resource' as const,
         summary: r.data.summary,
       }))}
