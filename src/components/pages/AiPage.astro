@@ -15,7 +15,7 @@ const copyLabels = { ok: s.copyOk, fail: s.copyFail };
 
 <BaseLayout title={s.title} description={s.description} locale={locale} toc={s.toc}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
-  <h1>{s.h1}</h1>
+  <h1><svg class="page-type-icon" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M12 3l1.9 5.1L19 10l-5.1 1.9L12 17l-1.9-5.1L5 10l5.1-1.9z"></path><path d="M19 15l.9 2.4L22 18l-2.1.6L19 21l-.9-2.4L16 18l2.1-.6z"></path></svg>{s.h1}</h1>
 
   <p style="line-height:1.7" set:html={L(s.introHtml)} />
   <p style="line-height:1.7" set:html={L(s.intro2Html)} />
