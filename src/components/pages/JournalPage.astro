@@ -67,7 +67,7 @@ const intro = s.introTemplate
 
 <BaseLayout title={s.title} locale={locale}>
   <TranslationNotice locale={locale} html={ui.translationNoticeHtml} />
-  <h1><PageTypeIcon kind="article" size={20} />{s.h1}</h1>
+  <h1><PageTypeIcon kind="article" size={32} />{s.h1}</h1>
   <p class="journal-intro" set:html={intro} />
 
   {dates.map(date => (
