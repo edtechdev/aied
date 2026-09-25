@@ -36,22 +36,20 @@ HUMAN_CONTRIBUTORS = [c for c in CONTRIBUTORS
                       if c.get('kind') == 'human' and c.get('name')]
 CONTRIBUTOR_NAME_LIST = ' and '.join(c['name'] for c in HUMAN_CONTRIBUTORS) or EDITOR_NAME
 AI_DISCLOSURE = SITE.get('aiDisclosure', {})
+# Only the model currently in use is named in the offline editions: the offline
+# notice carries no dates and no model-by-model history (maintainer decision).
 AI_MODEL_IDS = [m['id'] for m in AI_DISCLOSURE.get('models', []) if m.get('id')]
-AI_MODELS_TEXT = ', '.join(AI_MODEL_IDS) if AI_MODEL_IDS else 'a large language model'
-AI_MODEL_HISTORY = '; '.join(f"{m['id']} from {m['since']}"
-                             for m in AI_DISCLOSURE.get('models', [])
-                             if m.get('id') and m.get('since'))
+AI_MODEL_CURRENT = AI_MODEL_IDS[0] if AI_MODEL_IDS else 'a large language model'
 AI_POLICY = AI_DISCLOSURE.get('policy', 'AI-USE.md')
 AI_HOW_MADE = (
-    f'<p><strong>How this text was made:</strong> the pages are drafted by large '
-    f'language models ({AI_MODELS_TEXT}) from the source documents, then reviewed, '
+    f'<p><strong>How this text was made:</strong> the pages are drafted by a large '
+    f'language model ({AI_MODEL_CURRENT}) from the source documents, then reviewed, '
     f'corrected and published by the editor, who is accountable for what appears here. '
     f'Concept and FAQ pages are syntheses written across the article summaries '
     f'published on the site. No AI system is listed as an author or contributor. '
-    f'Citations are checked against the publisher record, figures in the text are '
-    f'checked against the extracted source files, and the models behind the corpus are '
-    f'on record with the date each took over ({AI_MODEL_HISTORY}). The full disclosure, '
-    f'including what is not verified, is in '
+    f'Citations are checked against the publisher record, and figures in the text are '
+    f'checked against the extracted source files. The full disclosure, including what '
+    f'is not verified, is in '
     f'<code>{AI_POLICY}</code> in the source repository.</p>'
 )
 ORIGIN = SITE_URL[: -len(BASE)] if SITE_URL.endswith(BASE) else SITE_URL
@@ -688,7 +686,6 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     <h1>Notice</h1>
     <p><strong>{NAME}</strong></p>
     <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>
-    <p><strong>Publication date:</strong> {date_str}</p>
     <p>This ebook was produced by an <strong>AI agent</strong> working for a human
     editor, and is dedicated to the
     public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
@@ -757,8 +754,6 @@ def build_pdf():
     matching the EPUB, where numbering appears only in the TOC. A Notice page
     (same content as the EPUB's) is injected after the cover."""
     import pathlib, base64
-    today = datetime.date.today()
-    date_str = today.strftime('%B %d, %Y')
 
     # Full-page cover + Notice page as HTML fragments injected before the body.
     cover_src = os.path.join(WIKI, 'public', 'epub-cover.png')
@@ -772,7 +767,6 @@ def build_pdf():
   <h1>Notice</h1>
   <p><strong>{NAME}</strong></p>
   <p>Edited by {CONTRIBUTOR_NAME_LIST}.</p>
-  <p><strong>Publication date:</strong> {date_str}</p>
   <p>This ebook was produced by an <strong>AI agent</strong> working for a human
   editor, and is dedicated to the
   public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
