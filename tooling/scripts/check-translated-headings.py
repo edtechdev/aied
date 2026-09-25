@@ -13,7 +13,12 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
-LOCALES = ['es', 'fr', 'zh', 'de', 'ja', 'ko', 'pt', 'ar', 'he', 'hi']
+sys.path.insert(0, str(ROOT / 'tooling' / 'scripts'))
+import content_paths  # noqa: E402  — the ONE resolver for the content root
+
+# The locale list is config-driven, not hardcoded here: content_paths reads
+# site.config.json, so adding a locale cannot leave this gate behind.
+LOCALES = list(content_paths.TRANSLATED)
 
 # Kept in step with src/i18n/sectionHeadings.ts by CONNECTED_HEADINGS below; the script
 # parses that module so the two can never disagree.
@@ -38,7 +43,15 @@ def main() -> int:
     checked = 0
     for loc in LOCALES:
         cc, ca = pairs[loc]
-        for path in sorted((ROOT / loc).rglob('*.md')):
+        # Walk the CONTENT root's locale folders. Walking <repo>/<locale> looked
+        # right before the content moved under content/ and silently checked
+        # nothing afterwards — "OK ... on 0 translated page(s)" is that bug.
+        pages = []
+        for name in content_paths.COLLECTIONS:
+            folder = content_paths.collection(name, loc)
+            if folder.is_dir():
+                pages.extend(sorted(folder.glob('*.md')))
+        for path in pages:
             text = path.read_text(encoding='utf-8')
             headings = [h.strip() for h in re.findall(r'(?m)^## (.+)$', text)]
             # A page with connected sections ends with them, in this order. Resource
