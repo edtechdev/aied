@@ -1,7 +1,7 @@
 ---
 title: Gobernanza de la IA
 created: "2026-09-25T04:32:03-04:00"
-updated: "2026-09-25T04:32:03-04:00"
+updated: "2026-09-25T07:01:57-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack]
 translation_of: concepts/governance
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-25T07:01:57-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,9 @@ La gobernanza de la IA opera en varios niveles, desde el **nacional y regulatori
 
 **La gobernanza del profesorado y el argumento a favor de una revisión deliberada.** Donde los niveles anteriores se alinean mediante políticas, algunos sectores los alcanzan mediante un gobierno compartido. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski y Hurley (2025)]] describen las [[legal-education|facultades de derecho]] como un caso difícil precisamente por esta razón: los claustros de derecho estadounidenses tienen una autoridad individual inusual sobre los estándares de los cursos, así que la política tiene que construirse con ellos y no anunciárseles, y la mayoría de las facultades que redactaron normas prohibitivas también reservaron discrecionalidad al profesorado y se comprometieron a revisarlas conforme avanzara la tecnología. Sus recomendaciones (flexibilidad por diseño, revisión periódica, formación proactiva y autorregulación mediante el intercambio de información en lugar de esperar a que un acreditador dicte la política) describen la gobernanza como un proceso continuo y no como un documento, el mismo punto que plantea el [[crompton-governing-genai-higher-ed-delphi-2026|consenso Delphi]] al recomendar ciclos de revisión programados y un comité multidisciplinar permanente.
 
-En toda la institución, el **marco AIGEM** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) sitúa la IA responsable como una capacidad organizativa estratégica para la gestión educativa, integrando el liderazgo estratégico en IA, la gobernanza responsable, la inteligencia para la decisión, la inteligencia colaborativa entre personas y IA, el desarrollo de competencias y la creación de valor sostenible, y vincula la implementación responsable con los ODS. Subraya que la gobernanza no es solo una capa de cumplimiento sobre la enseñanza, sino una función ejecutiva de las instituciones educativas.### Conexiones con conceptos relacionados
+En toda la institución, el **marco AIGEM** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) sitúa la IA responsable como una capacidad organizativa estratégica para la gestión educativa, integrando el liderazgo estratégico en IA, la gobernanza responsable, la inteligencia para la decisión, la inteligencia colaborativa entre personas y IA, el desarrollo de competencias y la creación de valor sostenible, y vincula la implementación responsable con los ODS. Subraya que la gobernanza no es solo una capa de cumplimiento sobre la enseñanza, sino una función ejecutiva de las instituciones educativas.
+
+### Conexiones con conceptos relacionados
 
 La gobernanza de la IA se conecta con la [[ethics|ética]] (los principios que operacionaliza), la [[higher-ed|educación superior]] (el contexto institucional), la [[privacy|privacidad]] y la [[bias-mitigation|mitigación de sesgos]] (preocupaciones específicas de gobernanza) y la [[academic-integrity|integridad académica]] (un ámbito primordial de la gobernanza). Es central para el [[change-management|cambio institucional]] y la IA responsable, y se cruza con la [[ai-literacy|alfabetización en IA]] (la gobernanza sostiene el desarrollo de un uso crítico e informado). También conecta con la [[learning-analytics|analítica del aprendizaje]] (gobernanza de datos) y con la [[student-experience|experiencia del estudiantado]] (la gobernanza moldea cómo el estudiantado navega el uso aceptable).
 
