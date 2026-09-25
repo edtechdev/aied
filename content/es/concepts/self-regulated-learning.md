@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje autorregulado
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-09-25T03:07:36-04:00"
+updated: "2026-09-25T03:45:34-04:00"
 type: concept
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
 technology: [generative-ai, llm, personalized-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/self-regulated-learning
-source_updated: "2026-09-24T10:07:27-04:00"
+source_updated: "2026-09-25T03:45:34-04:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -90,8 +90,6 @@ Las herramientas de IA pueden entrar en este bucle en distintos puntos:
 **La interacción misma como objeto de regulación.** [[brunnstrom-ai-interaction-literacy-srl-2026|Brunnström y Palmqvist (2026)]] documentan la misma exigencia de regulación desde la dirección opuesta: en una demostración de ocho rondas con un chatbot para preparar la respuesta a un [[summative-assessment|examen]] para llevar a casa, la salida por defecto de la IA se mantuvo en el extremo *[[quantitative-research|cuantitativo]]* y multiestructural de la taxonomía SOLO, pulida, lista para entregar y pedagógicamente delgada, y solo alcanzó un bucle de aprendizaje utilizable de tres pasos tras repetidas intervenciones de nivel meta («esto es abrumador, ¿puedes condensarlo?»). Su conclusión es que el uso productivo exigía «las mismas habilidades autorreguladoras que la herramienta debía sostener»: quien aprende debe fijar metas incrementales, solicitar ajustes de dificultad y reflexionar sobre lo que todavía no comprende, además del contenido disciplinar mismo. Dan a esta capacidad el nombre de [[ai-literacy|alfabetización en la interacción con IA]] y tratan desvincularse de la herramienta como una decisión regulatoria legítima y no como un fallo de persistencia ([[metacognition]]).
 
 - **La satisfacción no es autorregulación.** [[aigc-affordance-student-self-regulation-2026|Liang et al. (2026)]] encuestaron a 689 estudiantes de grado en programas de integración industria-educación y probaron un modelo de mediación serial en el que las posibilidades percibidas del contenido generado por IA elevan la [[self-efficacy|autoeficacia]] frente al AIGC (beta = 0.583) y, a través de ella, la [[motivation|motivación]] para aprender (beta = 0.565) y el aprendizaje autorregulado (beta = 0.250), con la motivación como el predictor individual más fuerte del AAR (beta = 0.527). Los resultados negativos que sostienen el argumento conviven con esas rutas: la calidad de la retroalimentación de la evaluación con IA predijo fuertemente la satisfacción (beta = 0.712), pero no la autoeficacia (beta = 0.131), y la satisfacción no tuvo un efecto significativo en el aprendizaje autorregulado (beta = 0.032). Un asistente apreciado y que funciona bien no es, por tanto, evidencia de que la regulación haya mejorado: el mecanismo pasa por la confianza y la motivación, no por la experiencia que quien aprende tiene de la herramienta.
-
-## Relación con el diseño específico de tutoría
 
 ### La reflexión consciente de la IA generativa como AAR
 
