@@ -18,7 +18,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 
 
 ### ZDM
-- [Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model](https://doi.org/10.1007/s11858-026-01796-2) - validation study | objective | 2026-05-07 - Empirical validation of multi-agent LLM coding against human coders on real teacher-response data. `accept`
+- [Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model](https://doi.org/10.1007/s11858-026-01796-2) - validation study | objective | 2026-05-07 - Empirical validation of multi-agent LLM coding against human coders on real teacher-response data. `accept` — **INGESTED 2026-09-25** as `llm-automated-coding-teacher-pck-2026`
 - [Responding to AI-generated emotional alerts: teachers’ intervention and students’ engagement in the mathematics classroom](https://doi.org/10.1007/s11858-026-01810-7) - qualitative case study | objective | 2026-06-23 - Case study using real classroom data on how AI emotional alerts shape teacher decisions and student engagement in mathematics. `accept`
 - [How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge](https://doi.org/10.1007/s11858-026-01816-1) - embedded case study | mixed | 2026-08-04 - Eight teachers' AI dialogue logs and mathematical artifacts analysed; empirical evidence of AI-supported professional learning. `accept`
 - [Preservice mathematics teachers’ noticing in AI-based simulations: transitions among attending, interpreting, and shaping](https://doi.org/10.1007/s11858-026-01805-4) - intervention + epistemic network analysis | objective | 2026-06-03 - Three-week intervention with 17 preservice teachers; coded interaction data and network analysis of noticing. `accept` — **INGESTED 2026-09-25** as `preservice-teachers-noticing-ai-simulations-2026`
@@ -36,7 +36,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [CircuTutor: Transforming Static Circuit Problems into Intelligent and Dynamic Tutoring](https://doi.org/10.48550/arxiv.2609.08254) - system development | none | 2026-09-08 - Relevant ITS for circuit learning, but abstract is a preprint system description with no reported evaluation results. `consider`
 
 ### Frontiers in Psychology
-- [From tool to scaffold: structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners](https://doi.org/10.3389/fpsyg.2026.1830103) - quasi-experiment | mixed | 2026-05-26 - Quasi-experimental mixed-methods study with 53 EFL students measuring writing performance and critical thinking. `accept`
+- [From tool to scaffold: structured human–AI collaboration and its effects on academic writing and digital critical thinking among Saudi EFL learners](https://doi.org/10.3389/fpsyg.2026.1830103) - quasi-experiment | mixed | 2026-05-26 - Quasi-experimental mixed-methods study with 53 EFL students measuring writing performance and critical thinking. `accept` — **INGESTED 2026-09-25** as `human-ai-collaboration-academic-writing-2026`
 - [From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing](https://doi.org/10.3389/fpsyg.2026.1905455) - quasi-experiment | mixed | 2026-09-23 - Quasi-experiment with 96 students measuring diagnostic accuracy, feedback actionability and revision outcomes. `accept`
 
 ### Acta Psychologica
@@ -52,10 +52,10 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Research on Semantic Understanding of Student Learning Behavior and Knowledge Mastery Prediction Based on Large Language Models](https://doi.org/10.54254/2755-2721/2026.36561) - model development | objective | 2026-09-08 - LLM built on a public essay dataset for mastery prediction; validation and venue credibility need a human check. `consider`
 
 ### Asian-Pacific Journal of Second and Foreign Language Education
-- [Effectiveness of GenAI in enhancing writing performance: a meta-analysis](https://doi.org/10.1186/s40862-026-00444-2) - meta-analysis | synthesis | 2026-07-01 - Meta-analysis of GenAI writing instruction with pooled Hedges g and publication-bias checks. `accept`
+- [Effectiveness of GenAI in enhancing writing performance: a meta-analysis](https://doi.org/10.1186/s40862-026-00444-2) - meta-analysis | synthesis | 2026-07-01 - Meta-analysis of GenAI writing instruction with pooled Hedges g and publication-bias checks. `accept` — **INGESTED 2026-09-25** as `genai-writing-performance-meta-analysis-2026`
 
 ### BMC Medical Education
-- [From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology](https://doi.org/10.1186/s12909-026-09608-7) - quasi-experiment | objective | 2026-06-01 - Three-year quasi-experiment compares three instruction models with measured academic performance and interaction data. `accept`
+- [From traditional classroom to AI-enhanced flipped classroom: a three-year pedagogical evolution for international students in pharmacology](https://doi.org/10.1186/s12909-026-09608-7) - quasi-experiment | objective | 2026-06-01 - Three-year quasi-experiment compares three instruction models with measured academic performance and interaction data. `accept` — **INGESTED 2026-09-25** as `ai-enhanced-flipped-classroom-three-year-2026`
 
 ### Cogent Education
 - [AI-driven innovations in higher learning institutions: a review of pre-service teachers’ pedagogical competence through technology integration](https://doi.org/10.1080/2331186x.2026.2672780) - literature review | synthesis | 2026-05-20 - Database literature review of AI tools and pre-service teacher competence; synthesis without quantitative effect estimates. `consider`
@@ -124,7 +124,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Yapay zekâ, yapay zekâ söyle bana: Keman eğitiminde yapay zekâ destekli geri bildirimin entonasyona etkisine yönelik bir model çalışması](https://doi.org/10.31811/ojomus.1897062) - mixed-methods experiment | mixed | 2026-05-04 - Four-week mixed-methods experiment with 12 violin students measuring objective intonation performance under AI feedback. `accept`
 
 ### PLoS ONE
-- [Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University](https://doi.org/10.1371/journal.pone.0345976) - quasi-experiment | objective | 2026-06-29 - Eight-week quasi-experiment comparing teacher and AI-assisted peer feedback on 244 measured L2 writing texts. `accept`
+- [Teacher feedback VS AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese University](https://doi.org/10.1371/journal.pone.0345976) - quasi-experiment | objective | 2026-06-29 - Eight-week quasi-experiment comparing teacher and AI-assisted peer feedback on 244 measured L2 writing texts. `accept` — **INGESTED 2026-09-25** as `teacher-vs-ai-peer-feedback-l2-writing-2026`
 
 ### Physics Education
 - [How well do AI systems solve AP physics? A comparative evaluation of large language models on algebra-based free response questions](https://doi.org/10.1088/1361-6552/ae700a) - benchmark evaluation | objective | 2026-06-17 - Expert-scored benchmark of four LLMs on AP Physics items; relevant to assessment but no learner outcome. `consider`
