@@ -65,7 +65,7 @@ API = "https://api.openalex.org"
 SELECT = ",".join([
     "id", "doi", "title", "display_name", "publication_date", "publication_year",
     "type", "cited_by_count", "open_access", "best_oa_location", "primary_location",
-    "locations", "authorships", "biblio", "language",
+    "locations", "authorships", "biblio", "language", "abstract_inverted_index",
 ])
 
 # OpenAlex allows far more than this; the pacing exists because a scheduled scan
@@ -160,6 +160,22 @@ def best_pdf(work: dict) -> str | None:
     return None
 
 
+def abstract_of(work: dict, limit: int = 900) -> str | None:
+    """Rebuild the abstract from OpenAlex's inverted index, truncated for triage."""
+    inv = work.get("abstract_inverted_index")
+    if not inv:
+        return None
+    positions: list[tuple[int, str]] = []
+    for word, idxs in inv.items():
+        for i in idxs:
+            positions.append((i, word))
+    if not positions:
+        return None
+    positions.sort()
+    text = " ".join(w for _, w in positions)
+    return text[:limit] + ("..." if len(text) > limit else "")
+
+
 def shape(work: dict) -> dict:
     """One work as a flat record: the fields this pipeline actually uses."""
     authors = [
@@ -187,6 +203,7 @@ def shape(work: dict) -> dict:
                              or (work.get("primary_location") or {}).get("landing_page_url")),
         "arxiv_id": arxiv_id_of(work),
         "cited_by_count": work.get("cited_by_count"),
+        "abstract": abstract_of(work),
         # Deduplicate on DOI when there is one, else on the OpenAlex id: the
         # knowledge base dedupes by identifier, never by title.
         "dedupe_key": doi or (work.get("id") or "").replace("https://openalex.org/", ""),
