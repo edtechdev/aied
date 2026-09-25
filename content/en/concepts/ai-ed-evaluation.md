@@ -1,7 +1,7 @@
 ---
 title: AI Ed Evaluation
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-25T09:57:33-04:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -36,6 +36,7 @@ AI-ed evaluation spans several distinct objects of assessment. It can evaluate t
 - **Automated grading and scoring:** [[cong-confidence-asag-2026|LLM short-answer grading]], [[cong-confidence-asag-2026|confidence-aware ASAG]], [[cotal-formative-assessment-scoring-2026|CoTAL human-in-the-loop prompt engineering]], and [[llm-cognitive-diagnosis-handwritten-math|cognitive-diagnosis of handwritten math]] show that LLMs can grade and diagnose, but that reliability depends on [[human-in-the-loop-ai|human oversight]], domain-specific grounding, and confidence calibration rather than raw model size.
 
 - **Pedagogical quality and alignment:** [[machines-misread-pedagogical-quality|Why machines misread pedagogical quality]] documents human–machine misalignment in judging what makes instruction good, and [[tutoring-effectiveness-index|the Tutoring Effectiveness Index]] predicts tutor quality from teaching behavior. [[responsible-assessment-ai-era-stanford-2026|Responsible assessment in the AI era]] and [[authentic-products-authenticated-processes-2026|authenticated processes]] argue that evaluation must reach beyond correct answers to whether assessment remains authentic, valid, and defensible when AI can produce the "products" of learning.
+- **Production monitoring and judge calibration:** [[llm-judge-evaluation-educational-ai-2026|Rohlfs et al. (2026)]] report what happens when LLM-as-judge evaluation runs at product scale, drawing on a K-12 suite that serves millions of teacher and student messages each month. As the program matured, false positives came to dominate the evaluators' flags and misdirected analyst attention away from failures that warranted product change. Three changes — unanimous-fail panels of repeated judge runs, per-evaluator judge-model choices, and softened rubrics — cut confirmed false positives by 99% and raised per-flag precision from 0.6% to 49% across 21 deployed evaluators, while an egregious-failure set kept capture at 100%. The lesson for evaluation practice is that an evaluator's operating point, not its headline accuracy, decides whether a flag is actionable.
 
 ### Why evaluation is hard in AI-ed
 
@@ -129,3 +130,4 @@ Context-conditioned benchmarks are needed: [[zhang-tutormoments-2026|Zhang et al
 - [[studentbench-ai-human-tutoring-gre-2026]] — StudentBench: AI and human tutoring yield equivalent GRE learning gains
 - [[synthetic-educational-data-structural-fidelity-2026]] — What Fidelity Metrics Miss: A Structural Check on Synthetic Educational Data
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
+- [[llm-judge-evaluation-educational-ai-2026]] — When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI

@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-25T07:01:57-04:00"
+updated: "2026-09-25T09:57:33-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -69,6 +69,7 @@ Evidence that [[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami (2026
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The knowledge base's research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
+**Identical conduct, different verdicts.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] applied 15 standardized student-use vignettes to the public policy environments of 20 Australian universities, producing 300 classifications: 40.0% clearly prohibited, 32.3% potential policy breaches, 9.0% permitted with conditions, and 18.7% indeterminate — none meeting the threshold for clearly permitted. Binding instruments were silent on generative AI in 100 combinations while guidance resolved 88, and disclosed language rewriting and an AI-drafted paragraph produced the highest cross-university divergence against unanimity for an explicit assessment prohibition. Where the levels described above are assumed to align, this study measures how far they diverge, and it locates the operational boundary in guidance rather than in binding policy.
 
 
 
@@ -146,3 +147,4 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[genai-governance-australian-higher-ed-2026]] — Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education

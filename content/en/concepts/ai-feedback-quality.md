@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-25T09:57:33-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -37,6 +37,7 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Automated grading feedback:** [[automated-assessment|Automated Grading]] and [[formative-assessment]] research examine whether AI-scored [[assessment|assessments]] provide feedback that matches or exceeds human grading quality.
 
 - **Essay scoring feedback:** [[cong-confidence-asag-2026|Confidence-aware ASAG]] and [[choi-anchor-aes-prompting-2025|anchor-based AES]] explore how confidence calibration and [[prompt-engineering|prompting]] design affect feedback quality for writing assessment.
+- **Evidence-constrained, risk-adaptive feedback:** [[risk-adaptive-genai-feedback-programming-2026|Wang (2026)]] separates three functions that feedback research usually evaluates together — predicting which failed state will persist, deciding when limited support capacity should be spent, and generating feedback whose claims stay inside recorded evidence. Across 2993 failed-submission states from 215 students, a calibrated risk model selected 17.8% of eligible test states and captured 25.2% of observed persistent failures, and after one standardized repair pass 519 of 544 generated messages carried all required components. Timing and grounding therefore join linguistic quality and retrievability as dimensions a feedback system has to be judged on.
 
 - **Discretionary feedback provision:** [[ai-assistance-discretionary-feedback|Research on AI-assisted feedback in higher education]] examines whether AI increases the quantity and quality of feedback instructors provide.
 
@@ -119,3 +120,4 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
 - [[ai-assisted-physics-lab-report-assessment-2026]] — AI-Assisted Assessment of Experimental Physics Laboratory Reports: Potential, Limitations, and Support for Teaching Practice
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
+- [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
