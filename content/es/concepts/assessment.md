@@ -1,0 +1,138 @@
+---
+title: Evaluación
+created: "2026-09-25T03:53:48-04:00"
+updated: "2026-09-25T03:53:48-04:00"
+connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
+type: concept
+foundations: [academic-integrity]
+technology: [generative-ai, learning-analytics]
+assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment]
+level: [higher ed]
+page_kind: [evaluation]
+confidence: high
+methods: [ai-ed-evaluation]
+translation_of: concepts/assessment
+source_updated: "2026-09-24T10:07:27-04:00"
+translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash
+    role: translation
+    date: "2026-09-25"
+    agent: hermes-agent
+---
+
+*Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
+
+> **La evaluación**: el proceso de reunir e interpretar evidencia sobre lo que el estudiantado sabe y puede hacer, y los métodos que se emplean para valorar el aprendizaje. La [[ai-education]] ha transformado la evaluación de raíz: impulsa la [[automated-assessment|corrección y la puntuación automatizadas]], genera y adapta ítems de evaluación y plantea preguntas de fondo sobre qué miden de verdad las evaluaciones cuando el estudiantado puede usar IA. La evaluación es el concepto paraguas que organiza la cobertura que hace la base de conocimiento de la [[formative-assessment]], la [[automated-assessment|corrección automatizada]], la [[assessment-validity|validez]] y la [[educational-measurement]].
+
+## Preguntas para reflexionar
+
+- La evaluación se define aquí como la reunión y la interpretación de evidencia sobre lo que el estudiantado sabe y puede hacer. Antes de leer, ¿cómo completaría usted la frase «una evaluación es válida si…», y qué cambiaría en esa respuesta si todo el estudiantado pudiera usar IA en secreto para producir su trabajo?
+- La página afirma que *cómo* usa el estudiantado la IA generativa (integración evaluativa frente a una adopción acrítica como atajo) predijo el rendimiento, mientras que *con qué frecuencia* la usó no predijo nada. ¿Qué sugiere esto sobre el instinto habitual de regular la IA limitando su uso?
+- Quien aprende puede entregar un trabajo de nivel profesional que no podría reproducir sin la herramienta, lo que rompe la inferencia entre el rendimiento y la capacidad subyacente. ¿Se ha encontrado con una «competencia» otorgada por un trabajo que el estudiante en realidad no podía hacer sin ayuda? ¿Qué reveló eso?
+- La pregunta constructiva que ofrece la página no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos un uso reflexivo en contextos que se parecen a su trabajo futuro?». ¿Cómo sería la evaluación en su campo si ese fuera el objetivo?
+- El marco DRIVE propone evaluar la calidad de la [[student-engagement|implicación]] del estudiantado con la IA generativa, y no solo el artefacto, fijándose en si dirigen las indicaciones de forma estratégica e integran sus propias ideas. ¿Qué miraría usted para distinguir una [[student-ai-interaction|interacción con la IA]] profunda y reflexiva del consumo superficial?
+- La evaluación mediada por IA se está diversificando hacia [[oral-assessment|exámenes orales]], portafolios y formatos conversacionales que reducen la ansiedad y resultan profesionalmente pertinentes. ¿Qué formato de evaluación de su propia experiencia le parece más «resistente a la IA», y es la resistencia lo mismo que el valor educativo?
+
+## Introducción
+
+La evaluación es central para la IA en la educación por dos razones. Primero, la propia IA se usa para evaluar al estudiantado: califica ensayos, código, respuestas breves y exámenes a escala. Segundo, la IA en el aula cambia lo que las evaluaciones pueden medir válidamente, ya que el estudiantado puede usar [[generative-ai]] para producir su trabajo. El campo abarca, por tanto, tanto las *herramientas* que automatizan la evaluación como las cuestiones de *validez e integridad* que plantea la IA.
+
+## Cómo se usa la IA en la evaluación
+
+- **Evaluación automatizada:** [[automated-assessment|la evaluación basada en IA]] abarca múltiples modalidades (opción múltiple, respuesta breve, ensayo, código y evaluación basada en el desempeño) mediante [[automated-assessment|corrección automatizada]], [[automated-essay-scoring]] y [[automated-question-generation]].
+- **Evaluación formativa:** [[formative-assessment|los sistemas de IA]] generan, validan y adaptan ítems de evaluación formativa a escala, e informan la instrucción continua en lugar de limitarse a la evaluación [[summative-assessment|sumativa]].
+- **Analítica del aprendizaje y medición:** [[learning-analytics]] y [[educational-measurement]] conectan los datos de evaluación con los procesos de aprendizaje, y usan la [[item-response-theory]], el [[knowledge-tracing]] y el [[student-modeling]] para interpretar el rendimiento. [[razavi-powers-item-difficulty-llm-2026|Razavi y Powers (2026)]] demuestran la estimación de la dificultad de los ítems con LLM como insumo de medición: en 5,170 ítems de matemáticas y lectura de K-5 calibrados con el modelo IRT de Rasch, las valoraciones de GPT-4o en zero-shot correlacionaron de moderada a fuertemente con las dificultades verdaderas (r = 0.83 en matemáticas, r = 0.81 en lectura), pero variaron según el curso, mientras que un enfoque basado en características (características extraídas por LLM introducidas en modelos de árboles) alcanzó correlaciones de hasta r = 0.87. El estudio ofrece un flujo de trabajo práctico de siete pasos para los profesionales de la medición y advierte, al mismo tiempo, de que la generalizabilidad más allá de las matemáticas y la lectura de K-5 no está clara.
+- **Bucles de retroalimentación:** la evaluación con IA alimenta cada vez más los [[feedback|bucles de retroalimentación]] que cierran el ciclo de la evaluación al aprendizaje.
+- **Evaluación por portafolio electrónico:** los [[eportfolio|portafolios electrónicos]] reúnen el trabajo y las reflexiones del estudiantado a lo largo del tiempo como una forma de evaluación basada en procesos y robusta frente a la IA. La IA generativa puede ayudar en el *proceso* del portafolio (generar retroalimentación, [[scaffolding|andamiar]] la reflexión y, con un diseño de rúbrica adecuado, apoyar la evaluación), mientras que el énfasis del portafolio en los rastros de razonamiento y los borradores resiste la fabricación con IA. [[ni-lam-multiliteracies-ai-portfolio-2026|La evaluación por portafolio asistida por IA]] y [[sutama-chatgpt-eportfolio-speaking-2026|ChatGPT + portafolio electrónico para la expresión oral en EFL]] muestran que la IA puede mejorar tanto la experiencia del portafolio como la [[feedback-literacy|alfabetización en retroalimentación]] de quien aprende.
+- **La fiabilidad de la corrección abierta depende del modelo:** [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko y Drlik (2025)]] compararon once modelos de IA generativa y de incrustaciones de frases con dos evaluadores expertos en 1,885 respuestas abiertas de ingeniería de software: solo GPTo1 alcanzó un acuerdo casi perfecto (kappa de Fleiss 0.82), mientras que los modelos basados en referencias penalizaron respuestas correctas pero formuladas de otro modo. Como GPTo1 fue el único modelo considerado desplegable sin supervisión, pero con costes de API propietaria, los autores recomiendan estrategias híbridas que combinen modelos avanzados con opciones asequibles o con [[human-in-the-loop-ai|supervisión humana]] en entornos con recursos limitados. Una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (de 2023 a 2025) corrobora esta imagen de fiabilidad condicional en todo el campo de la corrección: los LLM igualan a los evaluadores humanos en tareas cerradas y de respuesta breve, pero no pueden sustituir del todo el juicio humano en trabajos complejos, abiertos o subjetivos, y no emergió un sesgo de corrección uniforme, ya que los modelos fueron a veces más indulgentes y a veces más estrictos, y a menudo evitaron las puntuaciones extremas ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). El refinamiento iterativo de las rúbricas puede acercar la puntuación abierta de los LLM a una fiabilidad casi humana en contextos [[medical-education|médicos]] de alta exigencia: [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] encontraron que, una vez que el profesorado revisó repetidamente rúbricas analíticas y holísticas sobre el análisis de patrones de error, GPT-4 alcanzó un acuerdo de sustancial a casi perfecto con los evaluadores docentes en tres de las cuatro preguntas del periodo preclínico (kappa ponderada de hasta 0.94), mientras que el ítem restante con rúbrica holística se quedó en un acuerdo solo moderado (κw = 0.54), lo que muestra tanto el rendimiento de la ingeniería de rúbricas con intervención humana como sus límites en tareas sintéticas y holísticas.
+- **Evaluación oral y de desempeño asistida por IA.** Un estudio de diseño de [[vocational-education|formación profesional y vocacional (TVET)]] desplaza la evaluación de los formatos centrados en el texto hacia una [[oral-assessment|evaluación oral]] interactiva apoyada en un LLM: en cuatro cohortes, 21 de 33 estudiantes valoraron la tarea de voz como realista y ninguno estuvo en desacuerdo con que hablar en tiempo real reflejaba mejor la competencia que un portafolio escrito, mientras que el número de palabras para preguntas idénticas varió entre cinco y ocho veces entre cohortes, y nueve estudiantes respondieron en dos a trece palabras y acertaron todas. El sistema funcionó sin conexión en un solo portátil que atendía hasta 12 estudiantes simultáneos con Mistral 7B y faster-whisper, eliminó las grabaciones a los 90 días y dejó los juicios de puntuación en manos de quienes evalúan, un caso de diseño de evaluación con [[human-in-the-loop-ai]] para cualificaciones orientadas al mundo laboral. ([[ai-supported-oral-assessment-tvet-2026]])
+
+## Retos de validez y de medición
+
+La IA plantea preguntas fundamentales de [[assessment-validity|validez]]: ¿las evaluaciones corregidas por IA miden el aprendizaje del estudiantado o la [[prompt-engineering|habilidad para hacer indicaciones a la IA]]? ¿Invalida el uso de la IA por parte del estudiantado las evaluaciones tradicionales? Entre los retos clave están:
+
+- **Validez de constructo:** [[competency-based-education-genai-production-2026|La investigación sobre la educación basada en competencias]] muestra que la IA generativa ha roto la inferencia entre el rendimiento y la capacidad subyacente: quien aprende puede entregar un trabajo de nivel profesional que no puede reproducir sin la herramienta. Esto motiva reconceptualizar qué competencias se evalúan.
+- **Coautoría e integridad:** [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene|La integridad de la coautoría]] propone una nueva fuente de evidencia de validez que se vulnera cuando el estudiantado entrega contenido generado por IA que no comprende, y explora los «vivas de IA» conversacionales como respuesta.
+- **Calidad psicométrica:** [[psychometrically-aware-ai]] y la [[automated-assessment|evaluación consciente de la confianza]] trabajan para mantener la puntuación con IA fiable, sin sesgos e interpretable.
+- **Evaluación de los evaluadores de IA:** [[ai-ed-evaluation]] aporta los métodos y los [[benchmark|puntos de referencia]] para determinar si los evaluadores automatizados funcionan de verdad (en fiabilidad, [[pedagogy|pedagogía]] y [[equity-in-ai-education|equidad]]), y no solo por su precisión de titular.
+- **Fiabilidad dependiente de la calidad en la corrección con IA y entre pares (2026):** al comparar la corrección con ChatGPT, entre pares y del [[teacher-role|profesorado]] de los mismos [[group-work|trabajos en grupo]] de [[higher-ed|grado]], [[usher-faraon-who-grades-best-2026|Usher y Faraon (2026)]] mostraron que la coincidencia de la corrección con el profesorado es *condicional a la calidad del trabajo del estudiantado*: ChatGPT infló más las entregas de baja calidad y coincidió mejor con el profesorado en los trabajos de alta calidad, mientras que los pares coincidieron mejor en los trabajos más flojos y puntuaron a la baja los proyectos sólidos. El hallazgo cuestiona el marco binario de «fiable o no fiable» y apunta a modelos de fiabilidad condicional en los que los evaluadores alternativos se ajustan a la tarea y al nivel de desempeño.
+- **La corrección humana también está cargada de valores (2026):** [[luo-dawson-value-judgments-grading-2026|Luo y Dawson (2026)]] muestran que incluso la corrección humana de trabajos asistidos por IA generativa no es un acto neutral basado en criterios. Entrevistas basadas en escenarios con 33 docentes universitarios revelaron decisiones de calificación guiadas por valores orientados a la persona (honestidad, diligencia), a la capacidad (independencia, habilidad con la IA generativa, dominio disciplinar), a la relación (confianza) y a la justicia (equidad, beneficencia), que se extienden más allá de la tarea hacia las conjeturas del profesorado sobre el estudiante. El estudio reformula la pregunta de la evaluación desde «¿usar IA generativa es hacer trampa?» hacia «¿cómo moldean las calificaciones los juicios de valor del profesorado, y son esos valores pertinentes para los resultados que se evalúan?», y pone en primer plano la [[assessment-validity|validez]] y una «[[explainable-ai|transparencia]] bidireccional» sobre cómo afectará el uso de IA generativa a las calificaciones.
+
+## La integridad y el debate sobre la detección
+
+La IA en la evaluación ha intensificado la conversación sobre la [[academic-integrity|integridad]]. Una línea se centra en la [[ai-detection|detección de texto generado por IA]], mientras que un cuerpo creciente de [[research-methods-aied|investigación]] sostiene que la detección es una herramienta limitada y situacional, no una estrategia de primera elección. [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] y [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] sostienen que la autenticidad no se puede imponer a base de vigilancia: hay que rediseñarla, situando la IA como colaboradora declarada y priorizando la [[authentic-assessment|evaluación auténtica y basada en procesos]] por encima de la vigilancia. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** anclan esto en evidencia sobre **cómo juzga realmente el estudiantado** su camino por la evaluación con IA generativa: entrevistas con retroceso de pantalla (scroll-back) con 26 estudiantes revelaron un espectro de seis eventos de juicio, desde evaluar críticamente el conocimiento de la IA y aprender a través de sus limitaciones hasta adoptar ideas sin crítica y juzgar mal las aportaciones de la IA como propias. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** añaden una contraparte [[quantitative-research|cuantitativa]]: en 157 estudiantes, *cómo* se usa la IA generativa (integración evaluativa para apoyar la comprensión frente a una adopción como atajo con poca verificación) predijo el rendimiento, mientras que la simple **frecuencia** de uso **no predijo ni** el rendimiento ni la [[self-efficacy|autoeficacia]] académica. Juntos, estos estudios reformulan la pregunta de la evaluación desde *si* el estudiantado usa IA hacia *cómo juzga y pauta* ese uso.
+
+## El rediseño de la evaluación en la era de la IA
+
+La pregunta constructiva en la literatura sobre evaluación de esta base de conocimiento no es «¿cómo impedimos que el estudiantado use IA?», sino «¿cómo habilitamos que la use con criterio en contextos que se parecen a su trabajo futuro?». Esto replantea la evaluación en torno a:
+
+- **Tareas auténticas y basadas en procesos** que hagan visible y evaluable el uso de la IA. La [[authentic-assessment|evaluación auténtica]], es decir, examinar el desempeño del estudiantado en tareas valiosas y realistas, es la respuesta principal al reto de la IA: cualquier tarea que un [[llm]] pueda simular de forma creíble pierde validez, así que la autenticidad debe rediseñarse en torno a la [[collaborative-learning|colaboración]] en tiempo real, la contribución digital y social y la construcción individual de significado. Esto conecta con [[zhan-boud-du-authentic-assessment-scoping-review-2025|los marcos de diseño para la evaluación auténtica]], [[authentic-products-authenticated-processes-2026|productos auténticos y procesos autenticados]] y [[tool-invariant-framework-agentic-ai|la evaluación del proceso invariante a la herramienta]].
+- **Diseño responsable de la evaluación** anclado en evidencia de validez ([[responsible-assessment-ai-era-stanford-2026]])
+- **Permisos de IA a nivel de tarea derivados de lo que se evalúa:** [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] muestra el trabajo de diseño de evaluación que precede a una [[educational-policy-ai|política sobre IA]]: inventariar cada tarea de un proyecto, especificar qué se evalúa y contra qué objetivo, y permitir o prohibir la IA tarea por tarea sobre esa base (se permiten la lluvia de ideas y la selección de imágenes; no, redactar los objetivos de aprendizaje ni diseñar las diapositivas). El mismo ejercicio de alineación sirve además como control de la inferencia que sostiene la evaluación, porque obliga a quien enseña a nombrar el desempeño que una calificación pretende avalar ([[assessment-validity]]).
+- **Coautoría y declaración** como parte del contrato de evaluación
+- **La producción como competencia:** evaluar la capacidad de quien aprende para dirigir herramientas y producir trabajo de nivel profesional ([[competency-based-education-genai-production-2026]])
+- **Evaluar el proceso de interacción, y no solo el artefacto:** el [[assessing-student-drive-framework-2025|marco DRIVE]] (Directive Reasoning Interaction + Visible Expertise) trata la calidad de la *implicación del estudiantado con la IA generativa* como el constructo evaluado. Distingue el consumo superficial de la interacción profunda y reflexiva fijándose en si el estudiantado dirige las indicaciones de forma estratégica (DRI) e integra y desarrolla sus propias ideas disciplinares a través del intercambio (VE), y ancla los criterios centrados en el proceso en teorías del [[self-directed-learning|aprendizaje autodirigido]] y de la implicación cognitiva en la línea de la jerarquía [[icap-framework|ICAP]]. Esto convierte DRIVE en un ejemplo de *evaluación auténtica mediada por IA*: una rúbrica para valorar cómo se asocia quien aprende con la IA generativa, y no una herramienta de detección.
+
+Una propuesta de esta literatura va más allá del rediseño dentro del marco actual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que una reforma organizada en torno a prevenir la conducta indebida o detectar el uso de IA reduce la imaginación educativa al control y el cumplimiento, y proponen en su lugar la **evaluación gozosa**: una evaluación segura, emocionalmente receptiva, empoderadora y favorable a la [[agency|agencia del estudiantado]], con la seguridad como condición que lo sostiene todo, porque sin ella la sintonía emocional se vuelve actuación, el empoderamiento se vuelve presión y la agencia se vuelve riesgo. Su marco invierte la agenda de la detección (la integridad pasa a ser una consecuencia de diseñar evaluaciones en las que el estudiantado quiera participar, y no su punto de partida) y sitúa los [[agentic-ai|agentes de IA]] construidos por el profesorado (GPT personalizados, Gems, agentes de Copilot Studio) como un espacio de ensayo de bajo riesgo donde el estudiantado practica antes del juicio, con la afirmación de que la IA organiza la evidencia mientras quien enseña la interpreta.
+
+## Implicaciones para la IA en la educación
+
+- **La evaluación y el aprendizaje son inseparables:** una buena evaluación con IA debería apoyar el aprendizaje ([[feedback|retroalimentación formativa]]) tanto como valorarlo.
+- **Hay que reconceptualizar la validez:** cuando la IA puede producir el trabajo del estudiantado, las evaluaciones deben medir procesos, juicio y producción auténtica, y no solo productos.
+- **La automatización debe evaluarse con rigor:** los evaluadores automatizados necesitan evaluación psicométrica y de [[bias-mitigation|equidad]], y no solo afirmaciones de precisión.
+- **La integridad pasa de la detección al diseño:** la respuesta más robusta a la IA en la evaluación es diseñar tareas en las que el uso de IA sea esperado, declarado y escrutado.
+- **Las prácticas innovadoras pueden abordar varios problemas a la vez.** [[mesny-innovative-assessment-grading-management-2026|Mesny, Roberge-Maltais y Galy (2026)]] sostienen que un conjunto de cinco prácticas que se refuerzan entre sí (la [[authentic-assessment|evaluación auténtica]], la autoevaluación y la [[peer-assessment|evaluación entre pares]], la reevaluación, la [[mastery-learning|calificación basada en estándares]] y el ungrading, es decir, la evaluación sin calificaciones) alineadas con el paradigma de la «evaluación para el aprendizaje» pueden contrarrestar los daños de la calificación tradicional, con mucho peso sumativo y referida a normas (aprendizaje superficial, [[motivation|motivación intrínseca]] erosionada, estrés y ansiedad, inequidad e [[academic-integrity|integridad]] comprometida) en la era de la IA generativa. Encuentran que la adopción es desigual entre campos (dominan la autoevaluación y la evaluación entre pares, mientras que las innovaciones centradas en la calificación siguen siendo marginales) e instan al profesorado a implicarse de forma más activa y recíproca con la innovación en evaluación y calificación, respaldado por la experimentación incremental y el apoyo [[governance|institucional]].
+
+- **La evaluación mediada por IA se está diversificando.** [[aivaluate-anxiety-assessment-2026|AIvaluate]] muestra que un [[conversational-ai|agente conversacional]] aumentado con LLM redujo la ansiedad del estudiantado durante evaluaciones basadas en el desempeño; [[asynchronous-oral-assessment-2026|Pentland (2026)]] encuentra que las evaluaciones orales asíncronas ofrecieron una mayor implicación y se percibieron como profesionalmente pertinentes; [[graph-its-adaptive-algorithms-2026|los ITS basados en grafos]] usan un seguimiento adaptativo del estado de conocimiento para informar la evaluación.
+## Conceptos conectados
+- [[learners]] — El estudiantado: el paraguas de los conceptos del lado de quien aprende
+- [[pedagogical-partnerships]] — Alianzas pedagógicas
+- [[formative-assessment]] — Evaluación formativa: ítems generados por IA, validados y adaptativos a escala
+- [[automated-assessment]] — Corrección y puntuación automatizadas en todas las modalidades de evaluación
+- [[authentic-assessment]] — Tareas auténticas basadas en procesos y robustas frente a la IA
+- [[assessment-validity]] — Validez de las evaluaciones con IA generativa
+- [[educational-measurement]] — La teoría de la medición que sostiene la evaluación con IA
+- [[automated-essay-scoring]] — Corrección automática de ensayos
+- [[automated-question-generation]] — Generación automática de preguntas
+- [[oral-assessment]] — Evaluación oral: formatos en vivo y grabados que resisten la sustitución por IA
+- [[summative-assessment]] — Evaluación sumativa: formatos resistentes a la IA (orales, supervisados, con libros cerrados)
+- [[item-response-theory]] — TRI para interpretar las respuestas de evaluación en la era de la IA
+- [[psychometrically-aware-ai]] — Puntuación con IA consciente de la psicometría
+- [[learning-analytics]] — Analítica que conecta los datos de evaluación con el aprendizaje
+- [[feedback]] — Bucles de retroalimentación que cierran el ciclo de la evaluación al aprendizaje
+- [[feedback-literacy]] — Alfabetización en retroalimentación de quien aprende
+- [[academic-integrity]] — Integridad y el debate sobre la detección de IA
+- [[ai-detection]] — Detección de texto generado por IA
+- [[ai-ed-evaluation]] — Métodos y puntos de referencia para evaluar a los evaluadores automatizados
+- [[eportfolio]] — Evaluación por portafolio electrónico basada en procesos
+- [[speech-and-voice-technologies]]
+- [[peer-assessment]]
+## Artículos conectados
+- [[ai-agents-joyful-assessment-third-space-2026]] — Agentes de IA, evaluación gozosa y tercer espacio
+- [[mccorkle-aligned-genai-course-policy-2025]] — Permisos de IA a nivel de tarea derivados de lo que se evalúa (McCorkle 2025)
+- [[usher-faraon-who-grades-best-2026]] — Comparar la corrección con ChatGPT, entre pares y del profesorado según el nivel de calidad del proyecto (Usher y Faraon 2026)
+- [[responsible-assessment-ai-era-stanford-2026]] — La evaluación responsable en la era de la IA
+- [[beyond-detection-authentic-assessment-ai-2025]] — Más allá de la detección: la evaluación auténtica
+- [[coauthorship-integrity-reconceptualizing-assessment-validity-for-the-age-of-gene]] — La integridad de la coautoría y la validez de la evaluación
+- [[competency-based-education-genai-production-2026]] — La educación basada en competencias después de la IA generativa
+- [[genai-assessment-governance]] — Gobernanza de la IA generativa en la evaluación centrada en la evidencia
+- [[cong-confidence-asag-2026]] — Corrección automática de respuestas breves
+- [[ssaho-ai-academic-integrity-review-2025]] — Revisión sobre integridad y IA: la detección debe ir acompañada de un rediseño de la evaluación
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Repensar los exámenes orales como evaluación auténtica y resistente a la IA
+- [[bassett-ai-detectors-education-2026]] — Cara gana, cruz pierdes: los detectores de IA en la educación (Bassett et al. 2026)
+- [[aivaluate-anxiety-assessment-2026]] — AIvaluate: evaluación de la ansiedad del estudiantado aumentada con LLM (2026)
+- [[graph-its-adaptive-algorithms-2026]] — Tutoría inteligente basada en grafos para dominios dinámicos (2026)
+- [[asynchronous-oral-assessment-2026]] — Evaluaciones orales asíncronas en la era de la IA (Pentland 2026)
+- [[assessing-student-drive-framework-2025]] — DRIVE: evaluar el aprendizaje a través de la interacción con IA generativa (DRI + Visible Expertise)
+- [[xiong-ai-educational-measurement-review-2026]] — La IA que reconfigura la práctica de la evaluación
+- [[walton-bearman-assessment-judgment-2025]] — El juicio del estudiantado al trabajar con IA generativa en tareas de evaluación (26 estudiantes, scroll-back)
+- [[stamatoulis-genai-use-patterns-2026]] — Patrones de uso de la IA generativa (integración evaluativa frente a adopción con poca verificación) y resultados
+- [[luo-dawson-value-judgments-grading-2026]] — Juicios de valor al calificar trabajos asistidos por IA generativa: honestidad, confianza, validez y transparencia bidireccional (Luo y Dawson 2026)
+- [[razavi-powers-item-difficulty-llm-2026]] — Estimar la dificultad de los ítems con LLM y aprendizaje automático basado en árboles
+- [[pecuchova-automated-grading-open-ended-genai-2026]]
+- [[mesny-innovative-assessment-grading-management-2026]]
+- [[olvet-genai-scoring-open-ended-medical-2026]]
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
