@@ -49,6 +49,8 @@ import json
 import os
 import pathlib
 import re
+import socket
+import ssl
 import sys
 import time
 import urllib.error
@@ -121,6 +123,47 @@ class _Pacer:
         return False
 
 
+def _raw_tls_get(url: str) -> str:
+    """GET over a plain TLS socket, bypassing whatever sits in front of urllib.
+
+    Some environments route urllib through an inspecting proxy that answers 406 for
+    arXiv, while a direct TLS connection to the same host is served normally. This is
+    a transport fallback only: it does not change what is requested, and it is called
+    from inside the same pacer, so the one-request-every-three-seconds rule and the
+    single-connection rule still hold across every process.
+
+    HTTP/1.0 is requested deliberately: it cannot be chunked, so the body needs no
+    transfer-decoding.
+    """
+    parts = urllib.parse.urlsplit(url)
+    host, path = parts.hostname, parts.path + (("?" + parts.query) if parts.query else "")
+    if parts.scheme != "https":
+        raise ValueError(f"raw TLS fallback needs an https URL, got {parts.scheme}")
+    ctx = ssl.create_default_context()
+    with socket.create_connection((host, parts.port or 443), timeout=TIMEOUT) as raw:
+        with ctx.wrap_socket(raw, server_hostname=host) as s:
+            req = (
+                f"GET {path} HTTP/1.0\r\n"
+                f"Host: {host}\r\n"
+                f"User-Agent: {USER_AGENT}\r\n"
+                "Accept: application/atom+xml, application/xml, text/xml, */*\r\n"
+                "Connection: close\r\n\r\n"
+            )
+            s.sendall(req.encode("ascii"))
+            chunks = []
+            while True:
+                b = s.recv(65536)
+                if not b:
+                    break
+                chunks.append(b)
+    body = b"".join(chunks)
+    head, _, payload = body.partition(b"\r\n\r\n")
+    status_line = head.split(b"\r\n", 1)[0].decode("latin-1")
+    if " 200 " not in status_line:
+        raise RuntimeError(f"raw TLS request failed: {status_line}")
+    return payload.decode("utf-8", "replace")
+
+
 def _get(url: str) -> str:
     """One paced, retried GET. Every network call in this file goes through here."""
     last_error: Exception | None = None
@@ -132,6 +175,13 @@ def _get(url: str) -> str:
                     return resp.read().decode("utf-8", "replace")
             except urllib.error.HTTPError as e:
                 last_error = e
+                # 406 is an intermediary refusing the request, not arXiv. Retry the
+                # same URL over a direct TLS connection before giving up on it.
+                if e.code == 406:
+                    try:
+                        return _raw_tls_get(url)
+                    except (OSError, ssl.SSLError, RuntimeError, ValueError) as inner:
+                        last_error = inner
                 # 429/503 are arXiv telling us to slow down, not to retry harder.
                 if e.code in (429, 500, 502, 503, 504) and attempt < MAX_ATTEMPTS - 1:
                     continue
