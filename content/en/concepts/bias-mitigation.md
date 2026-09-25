@@ -1,7 +1,7 @@
 ---
 title: Bias Mitigation
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-25T09:57:33-04:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -119,3 +119,5 @@ Bias mitigation is the technical mechanism through which [[equity-in-ai-educatio
 - [[agarwal-ethical-values-norms-aied-2026]] — Ethical values and norms for AI in education
 - [[llm-grade-bands-calibration-bias-2026]] — Can large language models reproduce higher education grade bands? Cross-model study of calibration and grading bias in authentic student writing
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
+
+- [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education
