@@ -1,8 +1,19 @@
 # Journal
 
-Last updated: 2026-09-25 | Total entries: 1681
+Last updated: 2026-09-25 | Total entries: 1691
 
 ## 2026-09-25
+
+- 📄 [[ai-enhanced-flipped-classroom-three-year-2026]] — From Traditional Classroom to AI-Enhanced Flipped Classroom: A Three-Year Pedagogical Evolution for International Students in Pharmacology
+- 📄 [[customizing-ai-writing-pedagogy-systematic-review-2026]] — Customizing AI for writing pedagogy: a systematic review of pedagogical goals, theoretical principles, and technical design
+- 📄 [[genai-cognitive-scaffold-geometric-reasoning-2026]] — Generative AI-supported instruction as a cognitive scaffold: effects on senior high school students' geometric reasoning and proof construction
+- 📄 [[genai-writing-performance-meta-analysis-2026]] — Effectiveness of GenAI in Enhancing Writing Performance: A Meta-Analysis
+- 📄 [[human-ai-collaboration-academic-writing-2026]] — From tool to scaffold: Structured human–AI collaboration and its effects on academic writing and digital critical thinking
+- 📄 [[llm-automated-coding-teacher-pck-2026]] — Automated Coding of Content and Pedagogical Content Knowledge of Mathematics Using a Multi-Agent Large Language Model
+- 📄 [[llm-simulating-student-scientific-thinking-2026]] — Exploring the Capacity of Large Language Models to Simulate Students' Scientific Thinking: Insights for Responsive Teaching
+- 📄 [[preservice-teachers-noticing-ai-simulations-2026]] — Preservice mathematics teachers’ noticing in AI-based simulations: transitions among attending, interpreting, and shaping
+- 📄 [[real-time-ai-feedback-technical-skills-2026]] — Impact of real-time AI feedback on the technical skill acquisition of STEM students in Colleges of Education in Kwara State
+- 📄 [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: A quasi-experimental study in a Chinese university
 
 - 📄 [[llm-judge-evaluation-educational-ai-2026]] — When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI
 - 📄 [[genai-social-bias-software-engineering-education-2026]] — Generative AI May Reinforce Social Biases in Software Engineering Education

@@ -125,6 +125,10 @@ PATTERNS = [
 # title from prose in a blurb, and the italic-span protection is capped at 60 chars).
 QUOTED_TITLES = (
     "Evidence from personalised dialogue interventions in education",  # Corbett & Tangen 2025, CHB
+    # Published titles carried in Connected Articles blurbs, whose own spelling is
+    # British and must be reproduced exactly:
+    "Empirical Evidence from AI-Supported Mathematical Modelling",
+    "A Review of Architecture, Mechanisms, and Role Modelling in Education",
 )
 
 PROTECTED = re.compile(r'("[^"\n]*"|\[\*[^\]\n]*\*\]\([^)\n]*\)|\*[A-Z][^*\n]{3,60}\*)')
