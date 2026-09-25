@@ -1,7 +1,7 @@
 ---
 title: Language Learning
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-25T09:57:33-04:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -103,3 +103,5 @@ Language learning has emerged as a significant AI in education domain because la
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
 - [[asr-english-speaking-feedback-metacognition-2026]] — ASR technology in college English speaking: feedback internalization and metacognitive strategies
 - [[genai-writing-program-primary-l2-motivation-engagement]] — A GenAI-supported writing program for primary L2 learners (Lu et al. 2026)
+
+- [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
