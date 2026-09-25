@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-25T07:01:57-04:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -74,7 +74,9 @@ AI governance operates at multiple levels — from **national/regulatory** (gove
 
 **Faculty governance and the case for deliberate review.** Where the levels above are aligned through policy, some sectors reach them through shared governance instead. [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] describe [[legal-education|law schools]] as a hard case for exactly this reason: US law faculties hold unusual individual authority over course standards, so policy has to be built with them rather than announced to them, and most schools writing prohibitive rules also reserved discretion to individual instructors and committed to revision as the technology moved. Their recommendations — flexibility by design, periodic review, proactive training, and self-regulation through information sharing rather than waiting for an accreditor to dictate policy — describe governance as a continuing process rather than a document, the same point the [[crompton-governing-genai-higher-ed-delphi-2026|Delphi consensus]] makes in recommending scheduled review cycles and a standing multidisciplinary committee.
 
-Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.### Connections to related concepts
+Institution-wide, the **AIGEM framework** ([[tan-aigem-ai-educational-management-2026|Tan et al. 2026]]) positions responsible AI as a strategic organizational capability for educational management, integrating AI strategic leadership, responsible governance, decision intelligence, human-AI collaborative intelligence, competency development, and sustainable value creation -- and links responsible implementation to the SDGs. It underscores that governance is not only a compliance layer over teaching but an executive function of educational institutions.
+
+### Connections to related concepts
 
 AI governance connects to [[ethics]] (the principles it operationalizes), [[higher-ed]] (the institutional context), [[privacy]] and [[bias-mitigation]] (specific governance concerns), and [[academic-integrity]] (a primary governance arena). It is central to [[change-management|institutional change]] and responsible AI, and intersects with [[ai-literacy]] (governance supports the development of critical, informed use). It also connects to [[learning-analytics]] (data governance) and [[student-experience]] (governance shapes how students navigate acceptable use).
 
