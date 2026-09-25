@@ -55,11 +55,9 @@ Pages are drafted by language models from the source papers and reviewed, correc
 
 ### Acknowledgements
 
-Papers are discovered through arXiv's public APIs, OAI-PMH interface and RSS feeds. The knowledge base stores their descriptive metadata and links back to each paper's abstract page rather than hosting the papers themselves.
-
-> Thank you to arXiv for use of its open access interoperability.
-
-arXiv's [terms of use for its APIs](https://info.arxiv.org/help/api/tou.html) allow no more than one request every three seconds, from a single connection at a time, counting every machine under one operator as a whole. Every arXiv request this project makes goes through `tooling/scripts/arxiv_fetch.py`, which enforces both across processes, so a multi-category scan or a fan-out of agents cannot exceed the limit.
+- **[arXiv](https://info.arxiv.org/help/api/index.html)** — papers are discovered through arXiv's public APIs, OAI-PMH interface, and RSS feeds. The knowledge base stores their descriptive metadata and links back to each paper's abstract page rather than hosting the papers themselves. Thank you to arXiv for use of its open access interoperability.
+- **[Hermes Agent](https://hermes-agent.nousresearch.com/docs)** — the agent framework this knowledge base is built and maintained with.
+- **[Blume](https://useblume.dev/)** — the documentation site framework whose design and layout conventions this front end follows.
 
 ### License
 
