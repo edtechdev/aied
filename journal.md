@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-25 | Total entries: 1691
+Last updated: 2026-09-25 | Total entries: 1692
 
 ## 2026-09-25
 
@@ -26,6 +26,7 @@ Last updated: 2026-09-25 | Total entries: 1691
 - 📄 [[llmersion-local-first-language-learning-2026]] — LLMersion: A Local-First AI Agent Framework for Low-Cost Home Language Learning toward Educational Equity
 - 📄 [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
 - 📄 [[judgment-centred-software-engineering-education-2026]] — Judgment-Centred Software Engineering Education: A Post-Hype Review and Framework for AI-Augmented Learning
+- 🧰 [[fpds-apps-and-resources]] — FPDS Apps and Resources
 
 ## 2026-09-24
 
