@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-25
 
-Articles: 1450 | Concepts: 216 | Resources: 25 | FAQs: 32
+Articles: 1450 | Concepts: 216 | Resources: 26 | FAQs: 32
 
 ## Concepts
 - [[5p-reflection-model-genai-2026]] — The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era
@@ -1680,6 +1680,7 @@ Articles: 1450 | Concepts: 216 | Resources: 25 | FAQs: 32
 - [[drawsplat]] — DrawSplat
 - [[education-agent-skills]] — Education Agent Skills
 - [[edugems]] — EduGems
+- [[fpds-apps-and-resources]] — FPDS Apps and Resources
 - [[gemini-notebook]] — Gemini Notebook
 - [[id-toolbox]] — The ID Toolbox
 - [[idstack]] — idstack
