@@ -1,6 +1,6 @@
 # Daily AIED Scan Pipeline
 
-Reference for setting up an automated daily scan that searches arXiv + Semantic Scholar
+Reference for setting up an automated daily scan that searches arXiv + OpenAlex + Semantic Scholar
 for new AI-in-education papers, ingests them into the wiki, and sends a summary.
 
 Built on top of the `research-wiki-ingestion` skill workflow.
@@ -15,8 +15,8 @@ Cron job (9 AM daily)
   ├─► Step 2: Multi-source search
   │     ├── arXiv cs.CY (primary, max_results=20)
   │     ├── arXiv cs.HC (secondary, max_results=10)
+  │     ├── OpenAlex — open-access journals + repositories (primary for non-preprints, max_results=25)
   │     ├── Semantic Scholar bulk search (max_results=20)
-  │     ├── OpenAlex (tertiary, max_results=10)
   │     └── arXiv cs.CL + cs.AI (fallback, only when A+B < 5 new, max_results=10)
   │
   ├─► Step 3: Deduplicate (merge by arXiv ID, skip raw/papers/ hits)
@@ -43,11 +43,27 @@ Same keywords, `cat:cs.HC`, max_results=10.
 ### arXiv — cs.CL + cs.AI (fallback, only when primary yields <5)
 Same keywords, `cat:cs.CL+OR+cat:cs.AI`, max_results=10. Higher false-positive rate; tighter relevance filtering needed.
 
-### OpenAlex
+### OpenAlex (open-access journals and repositories)
+
+arXiv and the OSF archives carry preprints. A large share of AI-in-education research is
+published gold or diamond open access in a journal and never appears there, so OpenAlex is a
+primary source rather than a fallback — and it reports where the free full text lives.
+
+```bash
+cd <repo>
+python3 tooling/scripts/openalex_fetch.py --search "generative artificial intelligence in education" \
+    --edu-only --oa-only --since <WINDOW_START> --with-pdf-only --max 25
 ```
-https://api.openalex.org/works?search=artificial+intelligence+education+OR+intelligent+tutoring+OR+AI+tutoring+OR+LLM+education&filter=publication_year:2026&sort=publication_date:desc&per_page=10&select=id,doi,title,publication_date,primary_location,authorships,locations
-```
-Extract arXiv ID from `locations[].landing_page_url` where the URL contains `arxiv.org/abs/`. Use DOI for deduplication against non-arXiv entries. OpenAlex results often lack arXiv IDs — these become `raw/articles/` entries if ingested. Many OpenAlex works are preprints with future publication dates; filter by actual availability.
+
+Extract arXiv IDs from `arxiv_id` when the work is also on arXiv; dedupe on `dedupe_key` (the DOI)
+against `raw/papers/`, and compare titles as well, because Zenodo and repository records repeat one
+paper under several DOIs. Works whose `publication_date` is in the future are preprints with
+projected dates and no text — the client excludes them by default.
+
+An API key is optional: without one the client falls back to the anonymous API (smaller daily
+budget, shared) and says so on stderr. Relevance sorting is the default; do not date-sort a
+free-text search, since newest-first then returns whatever newest work matched any single term.
+Full details, key setup for forks, and the traps: `references/openalex.md`.
 
 ### Web Search / Listing-Page Extraction (primary fallback when API is unavailable — rate-limited or server-down)
 
@@ -243,3 +259,10 @@ Save the summary as `content/en/concepts/daily-digest-YYYY-MM-DD.md` for archiva
 - **read_file corruption in wiki files**: The standalone `read_file` tool returns content with line-number prefixes (`     1|content`). If this annotated output is written back to disk, the prefixes become part of the file. Run `scripts/detect-readfile-corruption.py --concepts-dir <WIKI_PATH>/concepts --fix` to detect and repair. This corruption causes files to fail YAML frontmatter parsing, silently excluding them from index regeneration. Verify by checking that `os.listdir(concepts_dir)` count matches `len(yaml_parseable_files)`. After fixing, the index count may increase as previously-hidden pages reappear.
 - **Security scanner blocks `curl | python3` pipes**: The terminal security scanner rejects pipes from curl to an interpreter (`curl -sL ... | python3 -c "..."`) with a HIGH-severity alert. **Fix**: save to a temp file first (`curl -sL ... -o /tmp/data.json`), then process separately. Chain with `&&` for simple cases: `curl -o /tmp/data.json ... && python3 -c "import json; d=json.load(open('/tmp/data.json')); ..."`. For complex processing, use `write_file` to write a script to `/tmp` then `python3 /tmp/script.py`.
 - **Semantic Scholar query sparsity**: The S2 bulk search with the given query and fieldsOfStudy filter may return only 1 result. This is a query-sparsity issue, not a connection failure. Do not rely on S2 for comprehensive coverage; treat as a tertiary source. When it returns few results, report `✓ N results (sparse query)` in the source status.
+
+## If the gates report nothing
+
+`validate-facets.py` and the other gates import PyYAML. When it is missing they fail to load and can
+look like a clean pass, so a gate that suddenly reports "0 pages" or no output at all usually means a
+dependency is gone rather than that the corpus is fine. Reinstall it for the interpreter that runs the
+tooling (`python3 -m pip install pyyaml`) and re-run before trusting a green result.

@@ -1,6 +1,10 @@
 {
-  "tooling/cron/weekly-rss-scan-prompt.md": {
-    "installed": "1784c89c733077bd",
-    "repo": "a045029da228b746"
+  "tooling/SKILL.md": {
+    "installed": "a43b0451d2d74e5e",
+    "repo": "e304b67d018034e4"
+  },
+  "tooling/scripts/check-translated-headings.py": {
+    "installed": "1aed95cf6f26f818",
+    "repo": "6e42a3009f688660"
   }
 }
