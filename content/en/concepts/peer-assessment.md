@@ -1,7 +1,7 @@
 ---
 title: Peer Assessment
 created: "2026-08-13T17:54:24-04:00"
-updated: "2026-09-22T07:47:22-04:00"
+updated: "2026-09-25T13:24:06-04:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -19,7 +19,7 @@ reviewed_by: [editor]
 - Think back to a time your work was assessed by a peer—or you assessed theirs. What did you learn more from: giving feedback or receiving it, and why?
 - Why might a student's feedback be more context-aware and emotionally supportive than AI feedback, even while AI feedback is more consistent and rubric-driven? How could the two complement each other?
 - Peers tend to under-grade strong work and AI tends to inflate weak work. If neither is reliably accurate across the whole quality range, what should a grade from either source be used for?
-- Peer assessment depends heavily on [[scaffolding]] and clear criteria, and friendship bias and social anxiety can make untrained peer review worse than none. What does adequate training actually look like in your context?
+- Peer assessment depends heavily on [[scaffolding]] and clear criteria, and friendship bias and social [[anxiety-and-stress|anxiety]] can make untrained peer review worse than none. What does adequate training actually look like in your context?
 - If AI can draft comments on organization and structure, does that make peer assessment redundant—or does it free peers to give the specific, audience-aware feedback only they can give?
 - GenAI-supported peer feedback outperformed plain peer feedback in one study, but only with prompt scaffolding added. What is being scaffolded there—the AI, the student, or the assessment?
 - Critically assessing AI-generated feedback is described as building AI literacy and writerly agency. What does it mean to have agency over your own work when machines increasingly comment on it?
@@ -57,6 +57,8 @@ The pattern generalizes to professional writing. [[gift-ai-pairr-business-writin
 ## GenAI as a scaffold inside peer feedback and group assessment
 
 The most rigorous test of how much design matters is a multisite cluster-randomized experiment. [[genai-feedback-design-multisite-experiment|Ateş (2026)]] randomized 48 sections across 4 universities — 1,176 first-year undergraduates in [[biology-education|biology]], [[chemistry-education|chemistry]], and [[physics-education|physics]] — to four conditions for scientific argumentation: peer feedback only, direct GenAI feedback, reflective GenAI feedback (self-evaluation then AI critique), and a hybrid of self-evaluation → peer feedback → GenAI critique. Direct GenAI beat peer feedback on immediate argument quality but showed weaker [[transfer-of-learning|transfer]]; reflective and hybrid designs produced stronger feedback uptake and self-regulated learning; the hybrid showed the clearest advantage on conceptual learning; both outperformed direct GenAI on delayed AI-free transfer. GenAI's value, the authors conclude, depends less on access than on whether the environment preserves student agency and ownership during revision.
+
+That pattern — an early advantage that does not hold — recurs when the comparison is teacher feedback against AI-assisted peer feedback rather than GenAI alone. [[teacher-vs-ai-peer-feedback-l2-writing-2026|Tang, Li, and Luo (2026)]] ran an eight-week quasi-experiment with 61 Chinese L2 writers (244 graded texts) working from one five-dimension checklist, with one class receiving teacher written feedback and the other AI-assisted peer feedback. Teacher feedback produced far more comments — 316 items against 185 in the first task, concentrated on vocabulary and technical details — and the slightly larger immediate gain, but its improvement fell sharply by the second task while the AI-assisted peer class held steady and finished with the higher revision score. The AI-assisted peer comments were fewer but stayed anchored in content and structure, and their early lexical-diversity edge did not persist; neither mode moved syntactic complexity. The authors read the two as complementary [[scaffolding|scaffolds]] and propose an AI–Peer–Teacher hybrid, in which AI marks surface errors during drafting, peers negotiate content in revision, and the teacher targets what neither reached.
 
 Adding GenAI can also raise the quality of the peer feedback itself, but apparently only with prompt support. [[chang-genai-peer-feedback-collaborative-argumentation-2026|Chang et al. (2026)]] compared three conditions among 45 student teachers in 12 groups over four rounds of collaborative argumentation: plain peer feedback, peer feedback with GenAI, and peer feedback with GenAI under prompt scaffolding. The GenAI-supported groups outperformed plain peer feedback on argumentation performance, and the prompt-scaffolded group performed best on advanced elements such as "rebuttal data and warrant" and "addressing the opposing view". GenAI-supported groups produced more explanations, suggestions, and neutral or negative feedback, and the scaffolded group paired negative emotions with higher-order feedback content — [[critical-thinking|critical evaluation]] rather than passive acceptance. It is a small single experiment, but it isolates prompt scaffolding as the active ingredient.
 
@@ -114,4 +116,5 @@ The open questions are about the strength of the evidence, not only about design
 - [[llm-critical-thinking-teamwork-review]] — Systematic review of LLMs for critical thinking, teamwork, and problem solving (Martínez-Peláez et al. 2025)
 - [[ai-agents-peer-learning-discourse]] — Peer-learning-like discourse among 2.4 million AI agents (Chen et al. 2026)
 - [[oneill-presumed-effective-meta-analysis-2026]] — Audit of 14 AIED meta-analyses and 59 primary studies (O'Neill 2026)
+- [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher feedback vs. AI-assisted peer feedback in L2 writing: quantity, focus, and improvement trajectories over two tasks (Tang, Li & Luo 2026)
 - [[peer-group-vs-ai-feedback-2026]] — Comparative analysis of peer group and AI-generated feedback in peer assessment: Insights into feedback quality and student perceptions in higher education
