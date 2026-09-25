@@ -11,6 +11,12 @@
 
 Relevant, evidence-bearing AI-in-education research found through OpenAlex and not yet ingested: 25 accepted, 25 borderline. Full text not yet fetched; listed here for the maintainer to pick from.
 
+**Ingestion attempt 2026-09-25:** full text was fetched and ingested for ten of the strongest entries (quasi-experiments, meta-analyses, a systematic review and validation studies). Two could not be retrieved and need the PDF:
+
+- [Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception](https://doi.org/10.1016/j.lindif.2026.102969) — full text blocked: ScienceDirect returns 403 to a scripted client; needs the PDF supplied (harvest slug `automated-feedback-argumentative-writing-2026`)
+- [Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis](https://doi.org/10.1016/j.actpsy.2026.107734) — full text blocked: ScienceDirect returns 403 to a scripted client; needs the PDF supplied (harvest slug `genai-pbl-pjbl-three-level-meta-analysis-2026`)
+
+
 ### ZDM
 - [Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model](https://doi.org/10.1007/s11858-026-01796-2) - validation study | objective | 2026-05-07 - Empirical validation of multi-agent LLM coding against human coders on real teacher-response data. `accept`
 - [Responding to AI-generated emotional alerts: teachers’ intervention and students’ engagement in the mathematics classroom](https://doi.org/10.1007/s11858-026-01810-7) - qualitative case study | objective | 2026-06-23 - Case study using real classroom data on how AI emotional alerts shape teacher decisions and student engagement in mathematics. `accept`
