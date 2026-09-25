@@ -58,6 +58,7 @@ Pages are drafted by language models from the source papers and reviewed, correc
 - **[arXiv](https://info.arxiv.org/help/api/index.html)** — papers are discovered through arXiv's public APIs, OAI-PMH interface, and RSS feeds. The knowledge base stores their descriptive metadata and links back to each paper's abstract page rather than hosting the papers themselves. Thank you to arXiv for use of its open access interoperability.
 - **[Hermes Agent](https://hermes-agent.nousresearch.com/docs)** — the agent framework this knowledge base is built and maintained with.
 - **[Blume](https://useblume.dev/)** — the documentation site framework whose design and layout conventions this front end follows.
+- **[OpenAlex](https://openalex.org/)** — open-access articles published outside the preprint servers are discovered through the OpenAlex API, which indexes works, venues and open-access locations across publishers and repositories. Please cite OpenAlex as: Priem, J., Piwowar, H., & Orr, R. (2022). *OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts*. arXiv:2205.01833.
 
 ### License
 

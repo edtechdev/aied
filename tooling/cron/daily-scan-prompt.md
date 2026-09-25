@@ -66,6 +66,10 @@ cat:cs.CY AND (ti:education OR ti:learning OR ...) AND submittedDate:[START TO E
 ### Other sources
 Query every other source in the config by its `type`:
 
+- `openalex` (OpenAlex) — open-access journals and repositories, i.e. the research that never
+  reaches a preprint server. One entry point: `tooling/scripts/openalex_fetch.py`. The key is
+  optional and the client falls back to the anonymous API without one; relevance is its default
+  sort, so never add a date sort to a free-text search. Details: `references/openalex.md`.
 - `web_search` (EdArXiv) — search its `url` with the source's `query`.
 - `trove_search` (PsyArXiv by subject) — the OSF REST API cannot combine
   `filter[subjects]` with any other filter, and PsyArXiv publishes no RSS feed,

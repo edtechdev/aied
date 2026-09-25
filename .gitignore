@@ -43,3 +43,13 @@ toPdfViaTempFile*
 
 # arXiv client pacing state (one request per 3s, shared across processes)
 .arxiv-rate/
+
+# OpenAlex API key. Optional: the client falls back to the anonymous API without one.
+# Never commit a key. See tooling/references/openalex.md for the ways to supply one.
+.openalex.key
+*openalex*.key
+.env
+.env.local
+
+# OpenAlex client pacing/state (if ever added)
+.openalex-state/

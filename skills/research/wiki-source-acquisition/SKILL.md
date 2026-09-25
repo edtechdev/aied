@@ -21,8 +21,11 @@ findings into concept narratives, and page-format rules live in their own skills
 
 1. **Scripted fetch of the canonical PDF** — arXiv, or any publisher that still serves PDFs to a
    plain `curl` with a normal user-agent.
-2. **OpenAlex OA lookup** for a DOI-backed source: `https://api.openalex.org/works/doi:<doi>`, then
-   try each `best_oa_location` `pdf_url`. Recovers the subset that serves scripted clients.
+2. **OpenAlex OA lookup** for a DOI-backed source:
+   `python3 tooling/scripts/openalex_fetch.py --doi <doi>`, then try its `pdf_url`. The client picks up
+   an API key when one is configured (`OPENALEX_API_KEY`, `OPENALEX_API_KEY_FILE`,
+   `<AGENT>/openalex.key`, or `<clone>/.openalex.key`) and otherwise uses the anonymous API, so this
+   works on a fresh clone with no setup. Recovers the subset that serves scripted clients.
 3. **Real-browser extraction** from the rendered article page when the publisher answers scripted
    fetches with 403 or a robot/consent page. Recipe, container selectors and stale-DOM guards:
    `references/publisher-blocked-source-recovery.md`.
@@ -99,9 +102,9 @@ audits to a separate untracked file and never overwrite the backlog wholesale.
   reports full text as absent — it held 26 eligible pages out of a section-writing batch once, and the
   "missing full text" census it produced was wrong by an order of magnitude.
 - When a page genuinely has no saved text, attempt retrieval before backlogging: match the page title against
-  OpenAlex (`api.openalex.org/works?search=`), accept a match only above ~0.85 title similarity, then fetch
-  `best_oa_location.pdf_url`, and fall back to constructing a Frontiers PDF URL from a `10.3389/` DOI or
-  querying Unpaywall. Publisher PDFs for Springer, ACM, Elsevier and SSRN commonly return a download that is
+  OpenAlex with `python3 tooling/scripts/openalex_fetch.py --title "<page title>" --max 5`, which returns
+  candidates with a `title_similarity` score; accept a match only above ~0.85, then fetch its `pdf_url`.
+  Fall back to constructing a Frontiers PDF URL from a `10.3389/` DOI or querying Unpaywall. Publisher PDFs for Springer, ACM, Elsevier and SSRN commonly return a download that is
   not a PDF — treat anything without a `%PDF` magic header as a failure and backlog it with the DOI, rather
   than saving an error page as source text.
 - Recompute `sha256` from the written file and compare with the stored value.
@@ -110,6 +113,9 @@ audits to a separate untracked file and never overwrite the backlog wholesale.
   never reach the repository.
 
 ## Support files
+
+- `tooling/references/openalex.md` — OpenAlex client: key setup (optional), keyless
+  fallback, budget, and the traps (date-sorting a search, future-dated records, `pdf_url` that is not a PDF).
 
 - `references/publisher-blocked-source-recovery.md` — real-browser extraction recipe, container
   selectors, stale-DOM de-duplication guards, trailing-widget trimming, write-back thresholds.
