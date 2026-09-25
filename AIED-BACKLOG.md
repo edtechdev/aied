@@ -5,11 +5,11 @@
 > **Policy (2026-08-23):** an article is only added to this backlog (never ingested as an abstract-only wiki page) when its **full text cannot be retrieved** — e.g. the publisher blocks scraping with CAPTCHA, or the fetch times out. The maintainer downloads the PDF and sends it for full-text ingestion.
 
 **Last updated:** 2026-09-25
-**Total backlog:** 50 OpenAlex harvest candidates (31 accepted, 19 borderline) · 7 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 50 OpenAlex harvest candidates (25 accepted, 25 borderline) · 7 new articles · 54 truncated source texts awaiting PDFs · 15 pages awaiting a full text before their practice and limitations sections can be written
 
 ## OpenAlex harvest (2026-09-25)
 
-Relevant, evidence-bearing AI-in-education research found through OpenAlex and not yet ingested: 31 accepted, 19 borderline. Full text not yet fetched; listed here for the maintainer to pick from.
+Relevant, evidence-bearing AI-in-education research found through OpenAlex and not yet ingested: 25 accepted, 25 borderline. Full text not yet fetched; listed here for the maintainer to pick from.
 
 ### ZDM
 - [Automated coding of content and pedagogical content knowledge of mathematics using a multi-agent large language model](https://doi.org/10.1007/s11858-026-01796-2) - validation study | objective | 2026-05-07 - Empirical validation of multi-agent LLM coding against human coders on real teacher-response data. `accept`
@@ -73,7 +73,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [AI-supported hybrid learning in exploratory geometry: For higher education](https://doi.org/10.30935/scimath/18798) - mixed-methods pre/post | mixed | 2026-06-23 - Small single-group pre/post (n=22) study measuring geometry performance but lacking a control group. `consider`
 
 ### Frontiers in Artificial Intelligence
-- [PaSTO-GNN: prompt-aware spatio-temporal graph neural networks for automatic essay scoring](https://doi.org/10.3389/frai.2026.1842542) - model development and evaluation | objective | 2026-07-08 - Empirical AES architecture evaluated on scored student essay corpora with reported performance against baselines. `accept`
+- [PaSTO-GNN: prompt-aware spatio-temporal graph neural networks for automatic essay scoring](https://doi.org/10.3389/frai.2026.1842542) - model development and evaluation | objective | 2026-07-08 - Empirical AES architecture evaluated on scored student essay corpora with reported performance against baselines. [venue/scope review: borderline] `consider`
 
 ### IJGIE (International Journal of Graduate of Islamic Education)
 - [AI-Assisted Web-Based Corrective Feedback To Improve Senior High School Students’ Listening Comprehension](https://doi.org/10.37567/ijgie.v7i2.5482) - design-based research | mixed | 2026-08-10 - R&D design claims effectiveness testing of an AI feedback website; extent of measured learning gains unclear. `consider`
@@ -88,7 +88,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays](https://doi.org/10.22266/ijies2026.0831.09) - model development and evaluation | objective | 2026-07-28 - Develops and evaluates hybrid AES model scoring real high school physics essays for critical-thinking dimensions. `accept`
 
 ### JURNAL HURRIAH Jurnal Evaluasi Pendidikan dan Penelitian
-- [Development and Evaluation of an AI-Integrated Project-Based Learning Model for Technical and Vocational Education](https://doi.org/10.56806/jh.v7i2.452) - educational design research | mixed | 2026-07-02 - Design research with 120 TVET students measuring competency gains from an AI-integrated project-based learning model. `accept`
+- [Development and Evaluation of an AI-Integrated Project-Based Learning Model for Technical and Vocational Education](https://doi.org/10.56806/jh.v7i2.452) - educational design research | mixed | 2026-07-02 - Design research with 120 TVET students measuring competency gains from an AI-integrated project-based learning model. [venue/scope review: borderline] `consider`
 
 ### Journal of Science Education and Technology
 - [Exploring the Capacity of Large Language Models to Simulate Students’ Scientific Thinking: Insights for Responsive Teaching](https://doi.org/10.1007/s10956-026-10333-5) - comparative evaluation | objective | 2026-05-21 - Empirically compares multiple LLMs against 8820 real students' ideas across science domains. `accept`
@@ -100,7 +100,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Scaling Case-Based Learning With AI Tutors](https://aisel.aisnet.org/context/treos_ecis2026/article/1120/viewcontent/1217_doc.pdf) - design study with interaction data | mixed | 2026-06-15 - AI tutor CBL short paper drawing on interaction data, but abstract reports design dimensions rather than measured outcomes. `consider`
 
 ### Jurnal Pendidikan Ekonomi (JUPE)
-- [The effectiveness of using ChatGPT on the critical thinking skills of Vocational High School accounting students](https://doi.org/10.26740/jupe.v14n3.p297-308) - quasi-experiment | objective | 2026-09-06 - Quasi-experiment with control class and N-Gain analysis of measured critical-thinking test scores. `accept`
+- [The effectiveness of using ChatGPT on the critical thinking skills of Vocational High School accounting students](https://doi.org/10.26740/jupe.v14n3.p297-308) - quasi-experiment | objective | 2026-09-06 - Quasi-experiment with control class and N-Gain analysis of measured critical-thinking test scores. [venue/scope review: borderline] `consider`
 
 ### Leadership and Policy in Schools
 - [The Impact of AI on School Leadership Practices and Policy Enactment: A Scoping Literature Review](https://doi.org/10.1080/15700763.2026.2679510) - scoping review | synthesis | 2026-06-01 - Scoping review of AI in K-12 school leadership and policy; synthesises literature without quantitative effects. `consider`
@@ -112,7 +112,7 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Generative artificial intelligence-supported self-regulated learning (GenAI-SRL) in L2 writing: scale development, validation, and short-form construction](https://doi.org/10.1007/s11409-026-09481-1) - scale development/validation | self-report | 2026-07-06 - Rigorous psychometric scale validation in strong venue, but underlying data are self-report SRL items. `consider`
 
 ### Natural language processing.
-- [Unleashing the potential of pre-trained language model in multi-dimensional writing assessment: towards more robust and explainable scoring](https://doi.org/10.1017/nlp.2026.10037) - model development and evaluation | objective | 2026-09-22 - Empirical multi-task BERT model for multi-dimensional essay scoring, tested for robustness against input perturbations. `accept`
+- [Unleashing the potential of pre-trained language model in multi-dimensional writing assessment: towards more robust and explainable scoring](https://doi.org/10.1017/nlp.2026.10037) - model development and evaluation | objective | 2026-09-22 - Empirical multi-task BERT model for multi-dimensional essay scoring, tested for robustness against input perturbations. [venue/scope review: borderline] `consider`
 
 ### Online Journal of Music Sciences
 - [Yapay zekâ, yapay zekâ söyle bana: Keman eğitiminde yapay zekâ destekli geri bildirimin entonasyona etkisine yönelik bir model çalışması](https://doi.org/10.31811/ojomus.1897062) - mixed-methods experiment | mixed | 2026-05-04 - Four-week mixed-methods experiment with 12 violin students measuring objective intonation performance under AI feedback. `accept`
@@ -127,10 +127,10 @@ Relevant, evidence-bearing AI-in-education research found through OpenAlex and n
 - [Which Feedback Is More Effective? A Comparative Study on Teachers' Evaluation of Feedback Models in Essay Writing](https://doi.org/10.5753/rbie.2026.7395) - expert rating study | mixed | 2026-07-10 - Systematic comparison of 450 LLM feedback texts, but outcome is teacher ratings with no learner performance measure. `consider`
 
 ### SOSMANIORA Jurnal Ilmu Sosial dan Humaniora
-- [Systematic Literature Review : Peran Guru dalam Pemanfaatan Artificial Intelligence untuk Meningkatkan Kualitas Pembelajaran di Era Digital](https://doi.org/10.55123/sosmaniora.v5i2.7938) - systematic review | synthesis | 2026-06-15 - PRISMA systematic review thematically synthesizing 26 studies on teachers' AI use in learning. `accept`
+- [Systematic Literature Review : Peran Guru dalam Pemanfaatan Artificial Intelligence untuk Meningkatkan Kualitas Pembelajaran di Era Digital](https://doi.org/10.55123/sosmaniora.v5i2.7938) - systematic review | synthesis | 2026-06-15 - PRISMA systematic review thematically synthesizing 26 studies on teachers' AI use in learning. [venue/scope review: borderline] `consider`
 
 ### Sainsmat Jurnal Ilmiah Ilmu Pengetahuan Alam
-- [THE EFFECT OF MAGICSCHOOL. AI (AI RESOURCE BOT) AS A LEARNING MEDIA IN THE DISCOVERY LEARNING MODEL ON STUDENTS’ MOTIVATION AND LEARNING OUTCOMES IN GRADE XI OF SMAN 5 GOWA (A Study on Acid–Base Topics)](https://doi.org/10.35580/wt1x6v26) - quasi-experiment | mixed | 2026-05-22 - Quasi-experiment with control group measuring learning outcomes alongside motivation for an AI tool. `accept`
+- [THE EFFECT OF MAGICSCHOOL. AI (AI RESOURCE BOT) AS A LEARNING MEDIA IN THE DISCOVERY LEARNING MODEL ON STUDENTS’ MOTIVATION AND LEARNING OUTCOMES IN GRADE XI OF SMAN 5 GOWA (A Study on Acid–Base Topics)](https://doi.org/10.35580/wt1x6v26) - quasi-experiment | mixed | 2026-05-22 - Quasi-experiment with control group measuring learning outcomes alongside motivation for an AI tool. [venue/scope review: borderline] `consider`
 
 ### Social Sciences & Humanities Open
 - [Rethinking assessment in the age of generative AI: A systematic literature review of African higher education](https://doi.org/10.1016/j.ssaho.2026.103332) - systematic review | synthesis | 2026-07-30 - PRISMA systematic review synthesizing empirical studies on GenAI assessment adaptation in African higher education. `accept`
