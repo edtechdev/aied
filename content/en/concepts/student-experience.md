@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-09-23T09:53:16-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -60,7 +60,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Academic-integrity and fairness impacts
 
 - **Negative:** AI enables new forms of [[academic-integrity|academic dishonesty]] (AI-generated essays, unauthorized completion), driving debates about [[reduce-ai-cheating|detection and reduction]]. This interacts with [[equity-in-ai-education|equity]]: unequal access to, and understanding of, AI tools can widen gaps between students.
-- **Positive/constructive:** AI can support [[authentic-assessment|authentic, process-oriented assessment]] and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
+- **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
 
 Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement, a minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly, which some described as killing their sense of diligence and left one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "[[generative-ai|generative AI]]" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment|judgment]] — annotated decision trails, verification, oral defense, version history — rather than compliance secured through surveillance.
 

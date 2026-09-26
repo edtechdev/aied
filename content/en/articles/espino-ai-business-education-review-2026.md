@@ -1,7 +1,7 @@
 ---
 title: "Mapping the Integration of AI into Business Education: Insights from a Decade of Research"
 created: "2026-08-20T08:10:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -25,7 +25,7 @@ methods: [meta-analysis-systematic-review]
 
 - **Persistent gaps recur across all clusters.** Three interlocking challenges dominate: **[[curriculum-design|curriculum]] coherence** (AI tools adopted in isolation rather than aligned with outcomes and [[assessment]] frameworks), **educator readiness** (disparities in pedagogical competence, [[ethics|ethical]] judgment, and [[assessment]] literacy), and **[[assessment]] validity / instructional authenticity** (harder to evidence genuine learning and maintain [[academic-integrity|academic integrity]] in AI-mediated environments).
 
-- **Generative AI demands authentic, process-oriented assessment.** The co-occurrence of generative-AI themes with [[assessment]] and integrity terminology signals an emerging tension: instead of misconduct prevention, the literature increasingly stresses [[authentic-assessment|authentic, process-visible assessment]] aligned with intended [[learning-gains|learning outcomes]] — tasks requiring interpretation, contextual application, and iterative refinement that resist automation.
+- **Generative AI demands authentic, process-oriented assessment.** The co-occurrence of generative-AI themes with [[assessment]] and integrity terminology signals an emerging tension: instead of misconduct prevention, the literature increasingly stresses [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-visible]] assessment aligned with intended [[learning-gains|learning outcomes]] — tasks requiring interpretation, contextual application, and iterative refinement that resist automation.
 
 - **Bibliometric synthesis complements narrative reviews.** Because the dataset is large (213 articles), longitudinal (2015–2024), and methodologically replicable, the review offers a system-level map that narrative literature reviews miss, providing an empirical foundation for future research agendas and strategic educational reform.
 
@@ -41,7 +41,7 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[authentic-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
+- **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[process-oriented-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
 - **Administrators.** Fund sustained [[educational-development|educator development]] in pedagogical competence, ethical judgment, and assessment literacy ahead of tool procurement, because educator readiness recurs as an unresolved gap in every cluster rather than a one-off training need.
 - **Researchers.** Build next studies on the four bibliographic-coupling clusters and three co-word trends, targeting the curriculum-coherence, educator-readiness, and assessment-validity gaps instead of adding another single-tool case.
 

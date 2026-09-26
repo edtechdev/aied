@@ -1,12 +1,12 @@
 ---
 title: "Distinguishing performance gains from learning when using generative AI"
 created: "2026-05-14T04:33:04-04:00"
-updated: "2026-09-20T08:50:39-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [cognitive-offloading, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning, scaffolding, motivation, self-efficacy, transfer-of-learning]
 technology: [generative-ai, llm]
-assessment: [learning-gains, assessment]
+assessment: [assessment, learning-gains, process-oriented-assessment]
 research_method: [position paper]
 level: [higher ed, k 12]
 sources: ['raw/papers/2605.13731.md']
@@ -14,7 +14,7 @@ confidence: high
 audience: [researchers, instructors, instructional designers]
 ---
 
-> **Synthesis:** Yan, Greiff, Lodge and Gašević argue that the field is measuring the wrong thing. [[generative-ai|Generative AI]] reliably raises *performance* — the observable output of a task carried out with the tool's support — while the evidence that it produces *learning*, an enduring change evidenced by independent retention and transfer, is largely missing. Their worked example is the literature's own headline number: a meta-analysis of 69 experimental studies reported that ChatGPT and similar tools improve student "[[learning-gains|academic performance]]" with a large effect of *g* = 0.7, yet the outcomes pooled were immediate task success rather than delayed, unassisted measures of what [[learners]] retained. They then walk through the three psychological processes that durable learning depends on — cognitive load, [[metacognition]], and [[self-efficacy]] — and show that generative AI can reduce the first, displace the second, and inflate the third while leaving learning untouched. The piece is a two-page comment in *Nature Reviews Psychology*, so it contributes framing rather than new data: a vocabulary for the conflation, and a research agenda built on process-oriented assessment.
+> **Synthesis:** Yan, Greiff, Lodge and Gašević argue that the field is measuring the wrong thing. [[generative-ai|Generative AI]] reliably raises *performance* — the observable output of a task carried out with the tool's support — while the evidence that it produces *learning*, an enduring change evidenced by independent retention and transfer, is largely missing. Their worked example is the literature's own headline number: a meta-analysis of 69 experimental studies reported that ChatGPT and similar tools improve student "[[learning-gains|academic performance]]" with a large effect of *g* = 0.7, yet the outcomes pooled were immediate task success rather than delayed, unassisted measures of what [[learners]] retained. They then walk through the three psychological processes that durable learning depends on — cognitive load, [[metacognition]], and [[self-efficacy]] — and show that generative AI can reduce the first, displace the second, and inflate the third while leaving learning untouched. The piece is a two-page comment in *Nature Reviews Psychology*, so it contributes framing rather than new data: a vocabulary for the conflation, and a research agenda built on [[process-oriented-assessment|process-oriented assessment]].
 
 ## Core Argument
 

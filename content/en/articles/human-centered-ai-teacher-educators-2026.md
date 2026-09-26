@@ -1,7 +1,7 @@
 ---
 title: "Human-centered AI for teacher educators: Designing professional learning for critical AI literacy"
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-09-19T09:38:08-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [ai-literacy, teacher-role]
 methods: [design-based-research]

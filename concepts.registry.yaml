@@ -1458,6 +1458,15 @@ concepts:
     - creative problem solving
     - problem solving
     - problem-solving
+  process-oriented-assessment:
+    title: Process-Oriented Assessment
+    aliases:
+    - assessment of process
+    - process based assessment
+    - process orientated assessment
+    - process oriented assessment
+    - process-based assessment
+    - process-oriented assessment
   productive-failure:
     title: Productive Failure
     aliases:
@@ -2251,6 +2260,7 @@ sections:
     - formative-assessment
     - summative-assessment
     - authentic-assessment
+    - process-oriented-assessment
     - group-work
     - eportfolio
     - peer-assessment

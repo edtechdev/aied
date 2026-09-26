@@ -1,7 +1,7 @@
 ---
 title: Online Teaching and Learning
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-09-24T02:22:12-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -58,7 +58,7 @@ The online medium and generative AI combine to intensify a specific cluster of c
 
 ### Academic integrity and cheating
 
-Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The knowledge base's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring]]), and the knowledge base's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
+Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The knowledge base's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring]]), and the knowledge base's stance favors [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] assessment over detection arms races.
 
 ### AI misuse and cognitive offloading
 

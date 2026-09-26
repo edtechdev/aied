@@ -1,13 +1,13 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-26T06:39:43-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
-assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment]
+assessment: [assessment, assessment-validity, authentic-assessment, formative-assessment, process-oriented-assessment]
 level: [higher ed]
 confidence: high
 reviewed_by: [editor]
@@ -43,7 +43,7 @@ Authentic assessment sits at the heart of how [[assessment]] is being rethought 
 
 The knowledge base's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
 
-- [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, process-based assessment over surveillance.
+- [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, [[process-oriented-assessment|process-based assessment]] over surveillance.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich [[higher-ed|higher education]] can assess both genuine outputs and the processes that produced them.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.

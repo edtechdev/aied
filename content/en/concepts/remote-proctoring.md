@@ -1,11 +1,11 @@
 ---
 title: Remote Proctoring
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-09-18T06:30:00-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
-assessment: [remote-proctoring, summative-assessment]
+assessment: [process-oriented-assessment, remote-proctoring, summative-assessment]
 ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
@@ -21,7 +21,7 @@ reviewed_by: [editor]
 - The page warns that monitoring can be counterproductive: being watched raises [[anxiety-and-stress|test anxiety]], and stressed students may be *more* likely to cheat. Can you think of a time pressure or surveillance affected your own performance? Does that experience undermine the case for proctoring?
 - Automated proctoring captures students' living space, face, and voice, often with little genuine choice but to consent. Where is the line between reasonable exam supervision and surveillance that presumes students guilty until proven honest — and who should draw it?
 - Research shows proctoring can flag benign behavior as suspicious, producing false accusations, and that model accuracy varies across demographics and environments. If you're an [[administrator]], how do you weigh the integrity it recovers against the equity and trust it can erode?
-- The page frames proctoring as one tool, not a solution — alternatives like oral and process-based assessment exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
+- The page frames proctoring as one tool, not a solution — alternatives like oral and [[process-oriented-assessment|process-based assessment]] exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
 
 ## Introduction
 
