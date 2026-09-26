@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-09-23T09:52:53-04:00"
+updated: "2026-09-26T08:41:16-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -81,6 +81,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[affective-text-wearable-student-health|Affective text + wearable sensing]] (a year-long study of 458 students with Oura rings) shows ultra-brief naturalistic text can complement wearable physiological sensing for longitudinal student health monitoring — a concrete AI-enabled stress-detection pathway.
 - This links to [[affective-computing]] and [[affective-tutoring]], where AI reads and responds to emotional state.
 - **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a [[global-south|non-Western context]]. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
+- **Instructor-side real-time intervention.** [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]] adds a human counterpart to these AI tools: *emotional micro-interventions* — brief, deliberate verbal or gestural acts that validate a student's emergent emotion, reframe the appraisal behind it, and reconnect the struggle to professional identity (Validate, Reframe, Connect). Grounded in cognitive appraisal theory, the approach targets the primary appraisal ("is this a threat?") and the secondary appraisal ("can I cope?") at the moment distress would end engagement, pairing bottlenecks such as frustration, isolation and imposter syndrome with target states. Its author states plainly that the framework does not require AI; [[generative-ai|generative AI]] serves only as an optional way to draft candidate phrases for the instructor to curate.
 
 ## Why this is distinct from well-being
 
@@ -137,3 +138,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
+- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory

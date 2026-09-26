@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-09-19T06:50:00-04:00"
+updated: "2026-09-26T08:45:25-04:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -44,7 +44,7 @@ Ask these before you spend time, money, or a semester on something.
 
 **1. What was it compared against, and was that comparison fair?** "Students who used the AI did better than students who didn't" only tells you something if the other students were doing something real. If the comparison was business as usual — or nothing — then the finding bundles the tool together with extra time, extra attention and novelty. What to look for: a **control group** that got a credible alternative, and random assignment to the two conditions.
 
-**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation|motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
+**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
 
 **3. Who was studied, how many, and for how long?** Thirty students in one course is a signal, not a result. A four-week intervention cannot tell you about a year. And a study of students unlike yours is still useful — it is a hypothesis about your setting, not a prediction. What to look for: sample size, how participants were recruited, single site, duration, and whether any subgroup was large enough to analyze.
 
@@ -59,6 +59,7 @@ If you remember one thing from this page, remember that the headline number is u
 - **Performance with the tool is routinely mistaken for learning.** In one [[k-12|K-12]] math study, students practicing with a general-purpose [[conversational-ai|chatbot]] earned better practice grades and then scored **about 17% worse** than peers with no AI access on the closed-book final ([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]).
 - **The field's own reviews do not survive audit.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for the claims it advanced, and among 46 randomly selected primary studies, **61%** presented validity concerns. The problem is not one bad paper; it is a reporting culture.
 - **Self-reports flatter everyone.** People rate their own [[ai-literacy|AI skills]] about **40%** higher than performance measures show, which is why satisfaction and confidence surveys are the weakest evidence you can act on ([[self-report-measures|Self-Report Measures]], [[educational-measurement|Educational Measurement]]).
+- **Most products already in classrooms have no independent evidence at all.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]] profiled 20 student-facing AI products and found that, of the 16 with complete profiles, only seven had an independent review examining student achievement across student groups in the US; two were studied only abroad, four had studies underway and three relied on internal data alone. The authors argue that independent causal studies covering priority groups should be the expectation for all student-facing products — not yet the norm for tools schools are already using.
 
 ## Turning a finding into a decision
 
@@ -169,3 +170,4 @@ The checks above are not folk wisdom; they come from documented failures in this
 - [[chick-faculty-development-ethical-ai-2026]] — Enabling conditions: policy signals, personal subscriptions, no time
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Vendor metrics with their calibration and experiment count disclosed
 - [[ai-assisted-assessment-instruction-higher-ed-2026]] — Findings tied to model versions, and the field's churn
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — Independent-evidence counts for 16 student-facing AI products already in use

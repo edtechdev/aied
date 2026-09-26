@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-26
 
-Articles: 1467 | Concepts: 217 | Resources: 26 | FAQs: 32
+Articles: 1471 | Concepts: 217 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -843,6 +843,7 @@ Articles: 1467 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[institutional-ai-policy-health-informatics-2026]] — Institutional approaches to artificial intelligence policy and guidance in health informatics and information management education: emerging trends and inconsistencies
 - [[institutional-change-framework-ai]] — A Framework for Institutional Change in the Age of AI
 - [[institutional-governance-ai-universities]] — Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — AI in Action Learning Tour
 - [[instructional-agents-multi-agent-course-gen]] — Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design
 - [[instructional-design-proficiency-masters-math-2026]] — Improving Instructional Design Proficiency of Master's Students in Mathematics Education Through Intelligent Educational Technologies
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
@@ -1137,6 +1138,8 @@ Articles: 1467 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[naim-bypass-offload-scaffold-llm-learning-2026]] — Bypass, Offload, or Scaffold: A Conceptual Model of How Large Language Models Shape Learning
 - [[nasa-tlx-workload-gamified-ai-2026]] — Perceived Workload Across Traditional, Gamified and Artificial Intelligence-Supported Learning Conditions: A NASA-TLX Study in Higher Education
 - [[nash-preservice-teachers-classroom-ai-policies-2026]] — Writing the Rules for Generative Machines: Tensions and Entanglements in Preservice Teachers' Classroom AI Policies
+- [[nazaretsky-feedback-source-bias-2025]] — Who Gives Feedback Matters: Student Biases Towards Human and AI-Generated Formative Feedback
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions
 - [[nesnin-cognitive-offloading-ai-students-2026]] — Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?
 - [[network-analysis]] — Network Analysis
 - [[neural-symbolic-knowledge-tracing]] — Neural-Symbolic Knowledge Tracing: Injecting Educational Knowledge into Deep Learning for Responsible Learner Modelling
@@ -1177,6 +1180,7 @@ Articles: 1467 | Concepts: 217 | Resources: 26 | FAQs: 32
 - [[panciroli-ai-literacy-episodes-situated-learning]] — Towards AI literacy: A proposal of a framework based on the Episodes of Situated Learning
 - [[paratutor-parent-child-tutoring]] — ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time
 - [[parents-and-families]] — Parents and Families
+- [[parlant-emotional-micro-interventions-2026]] — Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers
 - [[paternalistic-filter-llm-history-education]] — The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students
 - [[pattern-kc-programming-recommendation]] — Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components
 - [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading

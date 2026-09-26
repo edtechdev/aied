@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-09-25T09:57:33-04:00"
+updated: "2026-09-26T08:44:09-04:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -31,6 +31,7 @@ The single most cited empirical demonstration is the [[generative-ai-guardrails-
 - **Unguarded AI can actively harm learning, not just fail to help.** Without guardrails, students use the tool as a crutch — copying answers, offloading [[cognitive-offloading|productive cognitive work]], and underperforming once the tool is removed. Guardrails preserve the [[scaffolding|scaffolded]] effort that drives durable [[learning-gains|learning]].
 - **Harm is often "quiet."** The most damaging tutoring failures are not toxic outputs but tutors that answer correctly yet erode learning, or refuse evenly yet entrench inequality. Guardrails must therefore be evaluated educationally, not just for toxicity.
 - **Guardrails are especially critical for [[k-12]].** Younger learners are least equipped to detect unsafe, biased, or manipulative AI behavior and are most vulnerable to [[ai-sycophancy|sycophancy]] and [[cognitive-offloading|over-reliance]].
+- **Risk varies by product category, not only by design.** Classroom fieldwork on 20 student-facing AI products already in use across at least 1,000 school systems found that the three general-purpose chatbots posed the clearest threat to student thinking, because they make it easy to bypass the reasoning and [[productive-failure|productive struggle]] learning requires, while purpose-built instructional tools produced the most consistent experiences. [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' AI in Action Learning Tour (2026)]] reports this from observation rather than measured effects, but it locates part of the guardrail question at the level of *what kind of product* is adopted: the same layered controls are needed differently, and less predictably, in a general-purpose [[conversational-ai|chatbot]] than in a [[teacher-role|teacher]]-facing instructional tool.
 
 ## Layers of Guardrail Design
 
@@ -120,3 +121,4 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms
