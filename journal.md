@@ -1,11 +1,15 @@
 # Journal
 
-Last updated: 2026-09-26 | Total entries: 1710
+Last updated: 2026-09-26 | Total entries: 1714
 
 ## 2026-09-26
 
-- 📄 [[thapa-lewis-process-oriented-assessment-2026]] — Preserving epistemic authenticity: process-oriented assessment in the age of generative AI
+- 📄 [[instruction-partners-ai-in-action-learning-tour-2026]] — AI in Action Learning Tour
+- 📄 [[nazaretsky-feedback-source-bias-2025]] — Who Gives Feedback Matters: Student Biases Towards Human and AI-Generated Formative Feedback
+- 📄 [[nazaretsky-trust-instrument-ai-edtech-2025]] — The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions
+- 📄 [[parlant-emotional-micro-interventions-2026]] — Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers
 - 📘 [[process-oriented-assessment]] — Process-Oriented Assessment
+- 📄 [[thapa-lewis-process-oriented-assessment-2026]] — Preserving epistemic authenticity: process-oriented assessment in the age of generative AI
 
 ## 2026-09-25
 
