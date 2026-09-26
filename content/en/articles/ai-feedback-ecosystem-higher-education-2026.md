@@ -1,7 +1,7 @@
 ---
 title: "How artificial intelligence transforms the feedback ecosystem in higher education"
 created: "2026-09-21T08:04:08-04:00"
-updated: "2026-09-21T08:04:08-04:00"
+updated: "2026-09-26T03:02:03-04:00"
 type: article
 sources: ['raw/papers/ai-feedback-ecosystem-higher-education-2026.md']
 confidence: medium
@@ -12,14 +12,14 @@ discipline: [learning sciences]
 level: [higher ed, undergraduate]
 audience: [assessment designers, assessment professionals, instructors, researchers]
 foundations: [ai-literacy, human-ai-collaboration, teacher-role]
-technology: [generative-ai, llm]
+technology: [generative-ai, human-in-the-loop-ai, llm]
 assessment: [feedback, feedback-literacy, formative-assessment]
 ethics: [equity-in-ai-education]
 pedagogy: [self-regulated-learning]
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from human-[[human-ai-collaboration|in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
+> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from [[human-in-the-loop-ai|human-in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ Temporality runs through the analysis. AI output is privileged because it arrive
 
 ## Human-as-the-loop, not human-in-the-loop
 
-The automated feedback literature proposes a human-[[human-ai-collaboration|in-the-loop]] who oversees and amends machine-generated comments, and that framing now runs through AI assessment work. The authors argue it is insufficient because current systems address outputs rather than learning trajectories: an AI provides instant information about a task, while an educator relates, challenges and evaluates a learner against a trajectory over time. Their alternative puts people in the business of helping other people build stronger feedback relationships, whether educator, a longitudinal cohort of peers, or students managing their own network of sources as a form of [[feedback-literacy]]. The paradox they draw out is that concentrating on the whole ecosystem brings the teacher back into relief rather than displacing them: educators introduce students to feedback relations, use assessment design to create immediately useful ones, and can point to relationships beyond the course. Peer or family relations can serve the same function, which matters because professionals rely on a feedback community long after university.
+The automated feedback literature proposes a [[human-in-the-loop-ai|human-in-the-loop]] who oversees and amends machine-generated comments, and that framing now runs through AI assessment work. The authors argue it is insufficient because current systems address outputs rather than learning trajectories: an AI provides instant information about a task, while an educator relates, challenges and evaluates a learner against a trajectory over time. Their alternative puts people in the business of helping other people build stronger feedback relationships, whether educator, a longitudinal cohort of peers, or students managing their own network of sources as a form of [[feedback-literacy]]. The paradox they draw out is that concentrating on the whole ecosystem brings the teacher back into relief rather than displacing them: educators introduce students to feedback relations, use assessment design to create immediately useful ones, and can point to relationships beyond the course. Peer or family relations can serve the same function, which matters because professionals rely on a feedback community long after university.
 
 ## What this means for practice
 
@@ -57,6 +57,7 @@ The automated feedback literature proposes a human-[[human-ai-collaboration|in-t
 - [[feedback-literacy]]
 - [[formative-assessment]]
 - [[human-ai-collaboration]]
+- [[human-in-the-loop-ai]]
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
