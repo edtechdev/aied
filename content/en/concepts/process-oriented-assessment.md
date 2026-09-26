@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-09-26T06:54:53-04:00"
+updated: "2026-09-26T10:12:17-04:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,6 +10,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
+connected_resources: [process-feedback]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
