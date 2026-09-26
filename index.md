@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-26
 
-Articles: 1466 | Concepts: 216 | Resources: 26 | FAQs: 32
+Articles: 1467 | Concepts: 216 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -1536,6 +1536,7 @@ Articles: 1466 | Concepts: 216 | Resources: 26 | FAQs: 32
 - [[tep-aied-model-reporting-2026]] — Presenting Your AI in Education Research with Rigor: The TEP-AIED Model
 - [[test-driven-ai-assisted-learning]] — Test-Driven, AI-Assisted Learning: Replacing Lectures with Weekly Closed-Book Tests
 - [[text-simplification-its]] — MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator
+- [[thapa-lewis-process-oriented-assessment-2026]] — Preserving epistemic authenticity: process-oriented assessment in the age of generative AI
 - [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
 - [[theories-and-frameworks]] — Theories and Frameworks
 - [[theory-development-aied]] — Theory Development in AI in Education
