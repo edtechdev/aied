@@ -1,7 +1,7 @@
 ---
 title: "Preserving epistemic authenticity: process-oriented assessment in the age of generative AI"
 created: "2026-09-26T06:31:29-04:00"
-updated: "2026-09-26T06:31:29-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 sources: ['raw/papers/thapa-lewis-process-oriented-assessment-2026.md']
 confidence: high
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [instructors, assessment designers, assessment professionals, administrators, researchers]
 foundations: [academic-integrity, critical-thinking]
 technology: [generative-ai]
-assessment: [ai-detection, assessment-validity, authentic-assessment, formative-assessment]
+assessment: [ai-detection, assessment-validity, authentic-assessment, formative-assessment, process-oriented-assessment]
 pedagogy: [self-regulated-learning]
 ethics: [equity-in-ai-education]
 contributors: [editor]
@@ -25,7 +25,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** [[generative-ai|Generative AI]] has made fluent academic prose cheap, and with it the assumption that an unsupervised written submission is evidence of the student's own reasoning. Thapa and Lewis argue that the answer is not better detection but better design. Drawing on [[authentic-assessment]] and [[formative-assessment]], they set out process-oriented assessment: tasks that make interpretation, justification, and knowledge construction visible over time rather than only at the endpoint. Their organizing idea is epistemic authenticity — the extent to which assessment captures a learner's genuine engagement with reasoning and [[evaluative-judgment]] — and they propose four design commitments: reflective justification, staged task design, dialogic engagement, and evaluative transparency. They are candid that such designs intensify educator labor and can widen [[equity-in-ai-education|equity]] gaps unless deliberately scaffolded.
+> **Synthesis:** [[generative-ai|Generative AI]] has made fluent academic prose cheap, and with it the assumption that an unsupervised written submission is evidence of the student's own reasoning. Thapa and Lewis argue that the answer is not better detection but better design. Drawing on [[authentic-assessment]] and [[formative-assessment]], they set out [[process-oriented-assessment|process-oriented assessment]]: tasks that make interpretation, justification, and knowledge construction visible over time rather than only at the endpoint. Their organizing idea is epistemic authenticity — the extent to which assessment captures a learner's genuine engagement with reasoning and [[evaluative-judgment]] — and they propose four design commitments: reflective justification, staged task design, dialogic engagement, and evaluative transparency. They are candid that such designs intensify educator labor and can widen [[equity-in-ai-education|equity]] gaps unless deliberately scaffolded.
 
 ## Key Findings
 1. **Detection cannot carry the assessment burden.** Tools risk false positives and inconsistent outcomes across writing styles and contexts, raise procedural fairness problems in high-stakes decisions, and trail increasingly capable models.

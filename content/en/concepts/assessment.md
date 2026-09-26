@@ -1,12 +1,12 @@
 ---
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai, learning-analytics]
-assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment]
+assessment: [assessment, assessment-validity, automated-assessment, educational-measurement, formative-assessment, process-oriented-assessment]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: high
@@ -52,7 +52,7 @@ AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded a
 
 ## Integrity and the debate over detection
 
-AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[ai-detection|detecting AI-generated text]], while a growing body of [[research-methods-aied|research]] argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgment events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a [[quantitative-research|quantitative]] counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic [[self-efficacy]]. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
+AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[ai-detection|detecting AI-generated text]], while a growing body of [[research-methods-aied|research]] argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic]], [[process-oriented-assessment|process-based]] assessment over surveillance. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgment events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a [[quantitative-research|quantitative]] counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic [[self-efficacy]]. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
 
 ## Assessment redesign in the AI era
 

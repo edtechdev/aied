@@ -1,11 +1,11 @@
 ---
 title: E-Portfolio
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-09-17T02:26:00-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
-assessment: [assessment, authentic-assessment, automated-assessment, feedback, formative-assessment]
+assessment: [assessment, authentic-assessment, automated-assessment, feedback, formative-assessment, process-oriented-assessment]
 discipline: [language learning]
 level: [higher ed]
 confidence: high
@@ -38,7 +38,7 @@ The knowledge base's research shows e-portfolios are increasingly central to pro
 
 ## Why e-portfolios matter for AI integration
 
-Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective self-assessment — while AI itself can assist in generating feedback, scaffolding reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and process-based assessment in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
+Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective self-assessment — while AI itself can assist in generating feedback, scaffolding reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and [[process-oriented-assessment|process-based assessment]] in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Connected Concepts
 

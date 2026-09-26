@@ -1,10 +1,10 @@
 ---
 title: "A Proposal for Open Learning Practices in Response to Generative Artificial Intelligence"
 created: "2026-09-18T13:40:00-04:00"
-updated: "2026-09-19T06:05:00-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [academic-integrity]
-assessment: [assessment, authentic-assessment, formative-assessment]
+assessment: [assessment, authentic-assessment, formative-assessment, process-oriented-assessment]
 pedagogy: [pedagogical-partnerships, self-regulated-learning, active-learning]
 institutions: [educational-policy-ai, change-management]
 ethics: [ai-use-disclosure]

@@ -1,11 +1,11 @@
 ---
 title: "Pioneering Teacher Educators Navigating AI Integration in Pre-Service Teacher Preparation: Strategies and Challenges"
 created: "2026-09-16T08:12:19-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
-assessment: [authentic-assessment]
+assessment: [authentic-assessment, process-oriented-assessment]
 ethics: [digital-divide]
 sources: ['raw/papers/teacher-educators-ai-integration-preservice-2026.md']
 confidence: high
@@ -28,7 +28,7 @@ institutions: [educational-policy-ai]
 5. A crisis of trust emerged when students submitted raw AI-generated outputs, sometimes without reading or editing them. Riham described losing trust in students displaying skills they did not expect, and Iris called the discovery that thinking tasks had not been attempted "really frustrating."
 6. Orna recounted a case study submitted in the name of a pupil from an entirely different cultural background, with the AI tool's address in the first line, which she called one of the hardest confrontations she has had with students.
 7. Participants named an "authenticity crisis": take-home written work could no longer reliably evidence learning, [[prompt-engineering|prompting]] the question of how to assess students authentically in the age of AI.
-8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and process-based assessment such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
+8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and [[process-oriented-assessment|process-based assessment]] such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
 9. Some returned to non-digital evidence (reflective "journey journals" in physical notebooks, handwritten reflective paragraphs) and, as a last resort, to supervised examinations and anticipated oral thesis defenses; Orna described returning to exams as personally painful but unavoidable.
 10. In field experience, pre-service teachers used AI for differentiated lesson planning: five interviewees directed students to build teaching units with AI and two guided adaptation to specific pupil profiles including [[special-education|special needs]], and students produced digital games, podcasts, visual aids, theorist "bots" they had to train, and [[early-childhood-elementary-ai-education|kindergarten]] learning-corner [[simulation|simulations]].
 11. [[student-experience|Student experiences]] ranged from heightened [[self-efficacy]] to frustration when tools failed complex pedagogic demands; Sarit reported students concluding "I am the teacher, and AI helps me," and Rivka noted AI's value in easing the isolation of student teachers alone in the field.

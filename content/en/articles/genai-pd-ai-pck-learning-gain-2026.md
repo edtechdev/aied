@@ -1,7 +1,7 @@
 ---
 title: "Efficacy of an Intensive Generative AI Professional Development Program on Pedagogical Content Knowledge (AI-PCK) and the Comparative Analysis of Learning Gain between Experienced and Pre-service Teachers"
 created: "2026-08-11T13:10:53-04:00"
-updated: "2026-09-19T10:43:18-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [educational-development, teacher-ai-competency]
 technology: [generative-ai]
@@ -52,7 +52,7 @@ Three themes emerged from inductive content analysis:
 3. **Different needs for professional development.** Pre-service teachers found 8 hours sufficient for starting their careers, while experienced teachers reported the course was too short to change deep-seated habits and requested long-term, mentor-based support.
 
 ## Discussion
-The authors interpret the large effects through the lens of focus on immediate, operational classroom needs (such as AI-cheating) and the program's success in converting conceptual into procedural knowledge. The rubric component functions as a "defensive mechanism" against AI challenges, confirming the priority of [[authentic-assessment|process-oriented assessment]] in the AI era. The experience-based difference aligns with Rogers' (2003) [[technology-acceptance-model|Diffusion of Innovations]] theory: pre-service teachers act as early adopters with high cognitive flexibility who add a new skill, whereas experienced teachers must unlearn and replace established PCK — an inherently slower change in [[adult-learning]] contexts.
+The authors interpret the large effects through the lens of focus on immediate, operational classroom needs (such as AI-cheating) and the program's success in converting conceptual into procedural knowledge. The rubric component functions as a "defensive mechanism" against AI challenges, confirming the priority of [[process-oriented-assessment|process-oriented assessment]] in the AI era. The experience-based difference aligns with Rogers' (2003) [[technology-acceptance-model|Diffusion of Innovations]] theory: pre-service teachers act as early adopters with high cognitive flexibility who add a new skill, whereas experienced teachers must unlearn and replace established PCK — an inherently slower change in [[adult-learning]] contexts.
 
 ## What this means for practice
 

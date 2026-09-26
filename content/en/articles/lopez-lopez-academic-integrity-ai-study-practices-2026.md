@@ -1,7 +1,7 @@
 ---
 title: "Academic Integrity in the Age of AI: University Students' Study Practices and Ethical Judgments"
 created: "2026-08-28T14:30:00-04:00"
-updated: "2026-09-19T08:33:23-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [creativity]
@@ -32,7 +32,7 @@ confidence: high
 - **Instructors.** Teach non-substitutive, self-regulated use directly, because more frequent AI use (OR = 0.669) and stronger perceived learning support (OR = 0.581) each lowered the odds of students labeling AI use as fraud, while perceived dependence rather than frequency tracked reported academic failure.
 - **Learners.** Treat unresolved disagreement as a reason to ask rather than to guess: 135 of 357 respondents were undecided about the fraud framing while most of them used AI almost always.
 - **Administrators.** Publish assignment-level boundaries, fund [[ai-literacy|AI literacy]] work around authorship and dependence, and address inequitable access to academic support; read the creativity concern behind stricter judgments (OR = 1.498, p < 0.001) as a teaching topic rather than grounds for a ban.
-- **Researchers.** Test whether disclosure templates, oral defenses, or process-based assessment reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
+- **Researchers.** Test whether disclosure templates, oral defenses, or [[process-oriented-assessment|process-based assessment]] reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
 
 ## Limitations
 

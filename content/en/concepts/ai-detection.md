@@ -1,11 +1,11 @@
 ---
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
-assessment: [ai-detection, assessment, assessment-validity]
+assessment: [ai-detection, assessment, assessment-validity, process-oriented-assessment]
 ethics: [equity-in-ai-education]
 audience: [learners]
 level: [higher ed]
@@ -84,7 +84,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
-- **Assessment design matters more than policing:** investing in [[authentic-assessment|authentic]] and process-based assessment, where AI use is expected and declared, addresses integrity more effectively than detection alone.
+- **Assessment design matters more than policing:** investing in [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-based assessment]], where AI use is expected and declared, addresses integrity more effectively than detection alone.
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
 - **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 

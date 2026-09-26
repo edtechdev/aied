@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-09-17T07:39:56-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -51,7 +51,7 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
+- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] assessment and away from detection-based responses.
 - Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Connected Concepts
