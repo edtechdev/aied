@@ -1,8 +1,4 @@
 {
-  "tooling/SKILL.md": {
-    "installed": "a43b0451d2d74e5e",
-    "repo": "e304b67d018034e4"
-  },
   "tooling/scripts/check-translated-headings.py": {
     "installed": "1aed95cf6f26f818",
     "repo": "6e42a3009f688660"

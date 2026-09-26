@@ -23,8 +23,20 @@ installed skill with a literal `<WIKI>` and silently breaks it.
 The write modes select by **group label, not file path**. `--check` reports drift at
 file level (`tooling/scripts/<file>.py`), but `--to-installed` matches the group it
 belongs to — `--to-installed tooling/scripts`, not the filename — so a filename
-argument writes nothing and reports `0 file(s) written`. Inspect one file with
+argument writes nothing and reports `0 file(s) written`. The labels are
+`tooling/SKILL.md`, `tooling/scripts`, `tooling/cron`, `tooling/references` and
+`skills/research/<name>`; the wiki-management skill's installed name is **not** a
+label for the `tooling/` mirror, so `--to-repo research-wiki` refreshes nothing there
+and `--to-repo "tooling/SKILL.md"` is the form that works. Inspect one file with
 `--diff <name>` before writing, and re-run `--check` after.
+
+Which side wins depends on the file, so compare before copying rather than assuming.
+The repo's `tooling/scripts/` are the working copies the pipeline actually runs, so a
+fix made there (a pacer, a normalizer, a protected title) has to travel **out** to the
+installed mirror with `--to-installed <group>`; a skill's `SKILL.md` travels the other
+way, since the installed copy is authoritative for behaviour. A group can hold drift in
+both directions at once: reconcile the scripts first, then sync the mirror, so the
+group-wide copy cannot drag a stale script over a newer one.
 
 ## Hard rule: no personally identifiable information
 
