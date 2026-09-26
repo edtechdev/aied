@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-26T08:45:25-04:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -32,6 +32,8 @@ ai_assist:
 ## Introduction
 
 A [[llm|language model]]'s fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of [[ai-ed-evaluation|evaluating AI]] output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation. Because trust is usually measured by asking, calibration claims inherit the limits of [[self-report-measures]] — reported trust and observed verification behavior can diverge, as [[fouad-bentley-trust-utility-gap-physics-2026|a physics study]] found.
+
+Instrument development is beginning to address that measurement gap directly: [[nazaretsky-trust-instrument-ai-edtech-2025|Nazaretsky et al. (2025)]] validated a four-factor instrument (Perceived Usefulness, Obstacles, Readiness and Trust across 21 items and 665 students) whose distinguishing move is to separate the perceived trustworthiness of a tool from the disposition of the student who trusts it, so usefulness and obstacles can be scored apart from readiness to trust. Their structural model places trust upstream of perceived usefulness rather than downstream as the [[technology-acceptance-model]] usually reads adoption, and the two means diverge in the direction calibration cares about — trust (3.31) sat below usefulness (3.62).
 
 ### Why trust needs calibrating
 
@@ -70,7 +72,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Trust controls placed inside the inference path (2025):** [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]] treat calibration as architecture rather than reporting: Monte Carlo dropout calibration is combined with adversarial [[bias-mitigation|debiasing]] and a reject-and-refer gate that withholds a score when dropout variance exceeds a learned threshold, reaching an expected calibration error of 0.032, a 1.8% fairness gap and a 41% reduction in [[human-in-the-loop-ai|human review]] workload on TeacherEval-2023. Their own limitation section is the calibration caution that applies to any such metric: trust is hard to quantify from performance metrics alone, teacher adoption depends on perceived reliability, fairness and [[pedagogy|pedagogical]] relevance, and longitudinal adoption trials and perception surveys are the missing evidence.
 
-- **Fragmented trust constructs, measured mostly by self-report (2026):** A systematic review screened 1,565 articles and included 33 empirical studies of trust in AI-enabled systems, finding that 21 (63.64%) reported a definition drawn from nine different sources and 24 (72.73%) measured trust through self-report alone, with only two relying on behavioral measures alone. Explainability was the most studied design factor (20 studies) yet its effects were mixed, since stacking several explanation types raised cognitive load and sometimes left trust unchanged. The review's recommendation is to design for [[trust-calibration|calibrated trust]] rather than maximum trust, judged by whether a design helps users separate reliable outputs from unreliable ones, which is the same standard this page applies to individual verification behavior ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
+- **Fragmented trust constructs, measured mostly by self-report (2026):** A systematic review screened 1,565 articles and included 33 empirical studies of trust in AI-enabled systems, finding that 21 (63.64%) reported a definition drawn from nine different sources and 24 (72.73%) measured trust through self-report alone, with only two relying on behavioral measures alone. Explainability was the most studied design factor (20 studies) yet its effects were mixed, since stacking several explanation types raised cognitive load and sometimes left trust unchanged. The review's recommendation is to design for calibrated trust rather than maximum trust, judged by whether a design helps users separate reliable outputs from unreliable ones, which is the same standard this page applies to individual verification behavior ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
 
 - **Calibrating AI-generated inferences rather than raw data (2026):** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that AI-supported assessment changes the object of teacher calibration: a dashboard inference is the result of algorithmic interpretation rather than a cue a teacher observed, so it must be judged for plausibility and then deliberately accepted, rejected, or modified, a cognitive process they call meta-diagnosis. Because current systems rest mainly on performance data such as correctness and completion time, engagement and motivational cues still have to come from the teacher's own observation, and the authors frame the training target as calibrated rather than uncritical trust built alongside data and AI literacy. This is a conceptual analysis, so the claim is argued rather than tested.
 
@@ -126,3 +128,4 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
