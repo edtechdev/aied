@@ -1,11 +1,6 @@
 # Journal
 
-Last updated: 2026-09-26 | Total entries: 1710
-
-## 2026-09-26
-
-- 📄 [[masters-dissertation-marking-framework-2026]] — Fair Marking in the Generative AI Era: Introducing the Master’s Dissertation Marking Framework
-- 📄 [[personalized-learning-path-ctml-2026]] — A Personalized Learning Path Problem Based on the Cognitive Theory of Multimedia Learning
+Last updated: 2026-09-26 | Total entries: 1708
 
 ## 2026-09-25
 
