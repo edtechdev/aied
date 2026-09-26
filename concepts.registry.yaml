@@ -298,7 +298,9 @@ concepts:
     title: Behaviorism
     aliases:
     - behavioral learning theory
+    - behavioural learning theory
     - behaviorism
+    - behaviourism
   benchmark:
     title: Benchmark
     aliases:
@@ -357,6 +359,7 @@ concepts:
     - institutional change
     - leading change
     - organizational change
+    - organisational change
   chemistry-education:
     title: Chemistry Education
     aliases:
@@ -372,6 +375,7 @@ concepts:
     - cognitive diagnostic
     - cognitive diagnostic assessment
     - cognitive modeling
+    - cognitive modelling
     - diagnostic inference
     - misconception diagnosis
   cognitive-surrender:
@@ -381,6 +385,7 @@ concepts:
     - cognitive surrender
     - surrender
     - surrender of judgment
+    - surrender of judgement
     - surrender to ai
 
   cognitive-offloading:
@@ -597,6 +602,7 @@ concepts:
     - measurement practice
     - measurement theory
     - psychometric modeling
+    - psychometric modelling
     - psychometrics
     - test theory
   educational-nlp:
@@ -829,6 +835,7 @@ concepts:
     - help avoidance
     - help seeking
     - help seeking behavior
+    - help seeking behaviour
     - help-seeking
     - hint seeking
   higher-ed:
@@ -868,6 +875,7 @@ concepts:
     - HITL
     - human in the loop
     - human judgment
+    - human judgement
     - human moderation
     - human oversight
     - human review
@@ -953,8 +961,10 @@ concepts:
     aliases:
     - bayesian knowledge tracing
     - knowledge modeling
+    - knowledge modelling
     - knowledge tracing
     - student knowledge modeling
+    - student knowledge modelling
   language-learning:
     title: Language Learning
     aliases:
@@ -979,7 +989,9 @@ concepts:
     - latent profile analysis
     - lpa
     - mixture modeling
+    - mixture modelling
     - person-centered analysis
+    - person-centred analysis
   learners:
     title: Learners
     aliases:
@@ -1084,6 +1096,7 @@ concepts:
     - neural network
     - neural networks
     - predictive modeling
+    - predictive modelling
     - supervised learning
   mastery-learning:
     title: Mastery Learning
@@ -1806,6 +1819,7 @@ concepts:
     title: Student Engagement
     aliases:
     - behavioral engagement
+    - behavioural engagement
     - engagement
     - engagement indicators
     - engagement measurement
@@ -1825,9 +1839,12 @@ concepts:
     aliases:
     - learner model
     - learner modeling
+    - learner modelling
     - learner modeling and adaptive instruction
+    - learner modelling and adaptive instruction
     - student model
     - student modeling
+    - student modelling
   summative-assessment:
     title: Summative Assessment
     aliases:
@@ -1892,6 +1909,7 @@ concepts:
     - technology organisation environment
     - technology organization environment
     - theory of planned behavior
+    - theory of planned behaviour
     - utaut
   theories-and-frameworks:
     title: Theories and Frameworks
@@ -2002,11 +2020,13 @@ concepts:
     aliases:
     - dashboards
     - data visualization
+    - data visualisation
     - visual analytics
     - visual representations
     - visualisation
     - visualization
     - visualizations
+    - visualisations
   well-being:
     title: Well-Being
     aliases:
