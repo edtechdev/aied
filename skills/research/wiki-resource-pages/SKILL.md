@@ -101,6 +101,17 @@ outcome rather than assuming it.
   not whether a frontmatter connection rendered. After building, confirm the real hrefs in
   `dist/resources/<slug>/index.html`, the Connected Resources link on the connected article or
   concept page, and that the slug appears in `dist/resources/index.html` and in the EPUB nav.
+- **Every descriptive claim is checked against the linked page in the session you write it, never
+  from memory or from copy you wrote earlier.** A sentence composed for one destination (a card on a
+  landing page, another resource page) carries its errors into the new page with fresh confidence.
+  Three claims in a single resource page each failed this check and had to be cut: that a worksheet
+  "saves drafts in the browser" (it has print and download, no local saving), that a checklist is
+  "built from three questions" (its headings are "What are you working with?" and "Check. Fix. Verify
+  with a person."), and that a linked guide is "openly licensed" (it is CC BY-NC, so say
+  "non-commercial Creative Commons"). Read the target's own HTML for each claim.
+- **Reuse the heading set the other resource pages use**, so the section list stays predictable:
+  "## What you can do with it", "## Who it is for", "## Notes and caveats", "## Connected Concepts".
+  The one-line description is the lede — do not give it its own "## What it is" heading.
 - **Overwriting a page's caveats with enthusiasm.** The value of a resource page is the honest note —
   that access is gated, that the comparison is the vendor's, that the free tier needs a workshop.
 - **Long resource pages drift.** A platform with many capability areas tempts a 500-word page; fold

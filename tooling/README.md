@@ -172,6 +172,13 @@ python3 tooling/scripts/generate-llms-files.py
 # Validate the concept registry against content/en/concepts/ and the generated views
 python3 tooling/scripts/check_concepts.py
 
+# Run every hard gate declared in wiki.config.yaml. Prefer --changed: it scopes what can be
+# scoped to the pages touched since HEAD (the inline-link and list-formatting scans take those
+# slugs, the article-section / disclosure / number-grounding gates take --changed) and names the
+# registry-level gates it skipped. A gate result cannot differ for an unchanged page, and the
+# corpus-wide inline-link scan is the entire cost of the full pass.
+python3 tooling/scripts/run-gates.py --changed
+
 # Validate the typed facet fields (pedagogy, technology, ...). Each field holds concept
 # slugs filed under one section of concepts.registry.yaml, so a value of the wrong kind is
 # an error. This is a gate: `npm run verify` fails if any page disagrees with the registry.

@@ -148,6 +148,11 @@ npm run dev
 # AI-use disclosure)
 npm run verify
 
+# Or scope the same gates to the pages you touched, which is the normal case. A gate result
+# cannot differ for a page that did not change, and the corpus-wide inline-link scan is what
+# makes the full pass slow: one edited page runs in about a second.
+python3 tooling/scripts/run-gates.py --changed
+
 # Commit through the gate route: it runs the gates, scans the staged diff for personal
 # details, and stamps the AI-use trailers (AI_MODEL / AI_ROLE / AI_REVIEWED_BY override)
 bash tooling/scripts/commit-if-green.sh message.txt content/en/articles/example.md
@@ -212,7 +217,7 @@ Want to set up an automated research knowledge base for a different domain? Ever
 - **`tooling/scripts/wiki_config.py`** — config loader/validator (`--check`, `--get`, `--cap`)
 - **`tooling/scripts/check_concepts.py`** — validates the concept registry against `content/en/concepts/` and the generated views
 - **`tooling/scripts/gen-concept-artifacts.py`** — regenerates the concept views from the registry
-- **`tooling/scripts/run-gates.py`** — runs every HARD GATE declared in `wiki.config.yaml` (also `npm run verify`)
+- **`tooling/scripts/run-gates.py`** — runs every HARD GATE declared in `wiki.config.yaml` (also `npm run verify`); `--changed` narrows it to the pages touched since HEAD and names the registry-level gates it skipped
 - **`tooling/scripts/sync-skills.py`** — reports/refreshes drift between the repo's `skills/` mirrors and the agent's installed copies
 - **`tooling/cron/`** — Cron job prompt templates (daily scan, weekly RSS scan). Each enforces the **inline-link HARD GATE** (run the `wiki-inline-links` pass + verification before build/deploy), the **list-formatting HARD GATE** (`check_list_formatting.py`), the facet/metadata gate, the US-English house-style gate, and the tool-generation screen that reports a study's model version and collection window before it is ingested. The full gate list lives in `wiki.config.yaml` and runs as `npm run verify`.
 - **`tooling/example/`** — Starter knowledge-base files to get going quickly
