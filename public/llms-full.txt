@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 216 concepts, 1466 articles, and 32 FAQs.
+> Complete text of 217 concepts, 1471 articles, and 32 FAQs.
 
 # Concepts
 
@@ -497,7 +497,7 @@ The same autonomy that enables these benefits also creates significant risks:
 Agentic AI poses distinctive integrity threats that go beyond the single-turn GenAI cases the field already struggles with. Because agents act autonomously over long horizons — and because "ghost students" (LLM "minds" coupled with agentic browser "bodies") can navigate [[online-teaching-and-learning|Learning Management Systems]], engage content, and complete assessments with human-like mimicry — they make the learner's genuine presence optional and create a **verification gap** that [[ai-detection|proctoring and detection]] cannot close. Several integrity implications follow:
 
 - **The artifact no longer certifies the learner.** When an agent can generate, plan, and execute an entire submission, the product's quality reflects the agent's capability, not the learner's. This is the [[tool-invariant-framework-agentic-ai|tool-invariant]] certification problem at its extreme — traditional "submit the work" assessment loses its evidential value.
-- **Verification, not detection, is the only viable response.** Detection-based policing is structurally unable to keep up with autonomous agents. The integrity question shifts from "can we catch AI agents?" to "can we verify what the learner can actually do?" — favoring [[authentic-assessment|process-based]], interactive, and [[human-in-the-loop-ai]] verification.
+- **Verification, not detection, is the only viable response.** Detection-based policing is structurally unable to keep up with autonomous agents. The integrity question shifts from "can we catch AI agents?" to "can we verify what the learner can actually do?" — favoring [[process-oriented-assessment|process-based]], interactive, and [[human-in-the-loop-ai]] verification.
 - **Agentic completion of assessed coursework is now demonstrated, and it is a validity failure, not just an integrity one.** [[ai-agents-complete-lms-assessment-validity-2026|Hadjisolomou & El-Haddad (2026)]] documented agents (Claude for Chrome, Perplexity Comet, Claude Opus) logging into a live undergraduate LMS course and completing real assessed work from a single instruction — a 10-question quiz scored 10/10 in under 5 minutes, and a discussion-board post in which the agent fabricated a credible personal life story after mining peers' posts. Applying Kane's argument-based validity framework, they place a "human-production assumption" at the base of the scoring inference: agent completion removes its backing, so every unproctored asynchronous score — including honestly earned ones — loses interpretive support because authorship is unverifiable. Framing the problem as validity rather than integrity matters because an institution can punish misconduct and still lack grounds for the scores it reports, and because the same artifacts feed program-review and accreditation evidence chains. Their remedy, aligned with this page's "verification over detection," is assessment redesign for verified human presence (presence over product, integration over isolation, authenticity over genericity, low-stakes practice / high-stakes presence) with an equity-preserving menu of verified-moment options.
 - **Accountability is diffused.** In multi-agent systems, when an autonomous agent produces problematic output, it is unclear who is accountable — the learner, the system, or the institution. This blurs the attribution that academic-integrity processes assume.
 - **Cognitive debt accumulates silently.** Ghost students let learners bypass the effortful processes that build understanding, accruing [[cognitive-offloading|cognitive debt]] that surfaces only when independent performance is required. Integrity is thus tied to genuine learning, not just rule-compliance.
@@ -518,7 +518,7 @@ For teachers, faculty, and [[learning-design|instructional designers]], agentic 
 
 - **Reallocate effort to higher-value work.** Agents can take over lesson planning, question generation and validation, feedback triage, and resource retrieval. Instructors should treat these as automatable scaffolds that free time for what agents cannot do: relational teaching, contextual judgment, and the design of learning experiences. Teacher-facing [[ai-tpack-teacher-multi-agent-workflow|multi-agent workflows]] are a promising model.
 - **Keep the learner's cognitive work front and center.** The central design question is not "what can the agent do?" but "what must the *learner* do?" Instructional designers should configure agentic systems so they scaffold rather than replace learner planning, monitoring, and effort — using dynamic [[scaffolding]] and [[desirable-difficulties|intentional friction]] to protect [[agency]] and avoid [[cognitive-offloading|over-reliance]].
-- **Design for verification and process, not just output.** When agents can generate work on demand, the artifact no longer certifies learning. Instructors should pair agentic tools with [[authentic-assessment|process-based assessment]] (oral defense, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, verification checks) so that understanding — not just production — is measured.
+- **Design for verification and process, not just output.** When agents can generate work on demand, the artifact no longer certifies learning. Instructors should pair agentic tools with [[process-oriented-assessment|process-based assessment]] (oral defense, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, verification checks) so that understanding — not just production — is measured.
 - **Curate and ground agents in pedagogy.** Benchmark evidence shows theory-grounded agents outperform raw prompting. Designers should ground agent behavior in established instructional frameworks (e.g., gradual release, Socratic questioning, [[learning-theories|learning theory]]) rather than defaulting to generic tool-chaining.
 - **Retain human oversight and judgment.** Multi-agent and autonomous systems make [[human-in-the-loop-ai]] design essential: decide where a human intervenes, who is accountable, and how failures are caught. Adversarial testing helps surface failure modes before deployment.
 - **Build instructor [[ai-literacy]].** Teachers and designers need accurate mental models of agentic AI to configure, monitor, and critique these systems — and to model responsible use for learners. This links to [[teacher-ai-competency]] and [[educational-development|faculty development]].
@@ -529,7 +529,7 @@ For teachers, faculty, and [[learning-design|instructional designers]], agentic 
 
 Because autonomous agents make detection futile, instructors should focus on techniques that **verify learning** and **make honest work visible**, rather than on policing:
 
-- **Prefer verification over detection.** Replace or supplement "submit the work" with interactions that require the learner to demonstrate understanding they cannot outsource: oral defenses, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, live [[problem-solving]], and [[authentic-assessment|process-based]] assessment. The goal is to establish what the learner can do independently, not to catch an agent.
+- **Prefer verification over detection.** Replace or supplement "submit the work" with interactions that require the learner to demonstrate understanding they cannot outsource: oral defenses, [[tool-invariant-framework-agentic-ai|tool-invariant]] tasks, live [[problem-solving]], and [[process-oriented-assessment|process-based]] assessment. The goal is to establish what the learner can do independently, not to catch an agent.
 - **Use interactive and staged assessment.** Require staged submissions (drafts, revisions, reflections) and follow-up [[conversational-ai|conversational]] checks that probe whether students understand their submitted work — the "AI Viva" and cognitive-stewardship approaches. Ghost students cannot sustain a live interrogation they did not perform.
 - **Set clear, purpose-driven expectations.** Ground integrity expectations in the course's purpose — what AI use is allowed, when, and why — rather than abstract rules. [[educational-policy-ai|Policy]] clarity that is aligned with pedagogy reduces the ambiguity students exploit and the misjudgments documented in integrity research.
 - **Make AI use visible and declared.** Structured, task-specific AI-use declarations (mapping use to cognitive stages) force reflection and normalize honest disclosure, shifting the culture from concealment to transparency.
@@ -2008,7 +2008,7 @@ Ask these before you spend time, money, or a semester on something.
 
 **1. What was it compared against, and was that comparison fair?** "Students who used the AI did better than students who didn't" only tells you something if the other students were doing something real. If the comparison was business as usual — or nothing — then the finding bundles the tool together with extra time, extra attention and novelty. What to look for: a **control group** that got a credible alternative, and random assignment to the two conditions.
 
-**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation|motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
+**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
 
 **3. Who was studied, how many, and for how long?** Thirty students in one course is a signal, not a result. A four-week intervention cannot tell you about a year. And a study of students unlike yours is still useful — it is a hypothesis about your setting, not a prediction. What to look for: sample size, how participants were recruited, single site, duration, and whether any subgroup was large enough to analyze.
 
@@ -2023,6 +2023,7 @@ If you remember one thing from this page, remember that the headline number is u
 - **Performance with the tool is routinely mistaken for learning.** In one [[k-12|K-12]] math study, students practicing with a general-purpose [[conversational-ai|chatbot]] earned better practice grades and then scored **about 17% worse** than peers with no AI access on the closed-book final ([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]).
 - **The field's own reviews do not survive audit.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for the claims it advanced, and among 46 randomly selected primary studies, **61%** presented validity concerns. The problem is not one bad paper; it is a reporting culture.
 - **Self-reports flatter everyone.** People rate their own [[ai-literacy|AI skills]] about **40%** higher than performance measures show, which is why satisfaction and confidence surveys are the weakest evidence you can act on ([[self-report-measures|Self-Report Measures]], [[educational-measurement|Educational Measurement]]).
+- **Most products already in classrooms have no independent evidence at all.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]] profiled 20 student-facing AI products and found that, of the 16 with complete profiles, only seven had an independent review examining student achievement across student groups in the US; two were studied only abroad, four had studies underway and three relied on internal data alone. The authors argue that independent causal studies covering priority groups should be the expectation for all student-facing products — not yet the norm for tools schools are already using.
 
 ## Turning a finding into a decision
 
@@ -2133,6 +2134,7 @@ The checks above are not folk wisdom; they come from documented failures in this
 - [[chick-faculty-development-ethical-ai-2026]] — Enabling conditions: policy signals, personal subscriptions, no time
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Vendor metrics with their calibration and experiment count disclosed
 - [[ai-assisted-assessment-instruction-higher-ed-2026]] — Findings tied to model versions, and the field's churn
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — Independent-evidence counts for 16 student-facing AI products already in use
 
 ---
 
@@ -3513,7 +3515,7 @@ The knowledge base documents a rich set of individual teaching strategies and pe
 
 The knowledge base's [[research-methods-aied|research]] examines pedagogy at the intersection of AI and teaching in several ways:
 
-- **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent process-oriented assessment, and institutional [[governance]].
+- **AI as a pedagogical agent.** AI tools embody pedagogies — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic questioning]] prompts learners to reason, while an answer-generating chatbot may default to direct provision (see [[reducing-ai-misuse]] on why the pedagogical stance matters). The [[agentic-ai|agentic AI]] literature shows that grounding agents in instructional-design theory outperforms raw [[prompt-engineering|prompting]]. [[genai-didactic-pedagogical-mediator-2026|Moganadas et al. (2026)]] reframe this role formally: rather than a dyadic instructor–[[student-modeling|student model]] with GenAI as an external supplement or threat, they propose a nested **instructor–student–GenAI triadic model** in which GenAI operates as a bounded *didactic-pedagogical mediator* within a shared didactic mediation space governed by institutions and stakeholders — yielding five researchable propositions on learning mediation, instructor-role transformation, AI literacy and learner agency, AI-transparent [[process-oriented-assessment|process-oriented assessment]], and institutional [[governance]].
 - **Pedagogy determines AI's effect.** A recurring finding is that *how* AI is used matters as much as *whether* it is used. [[instructional-guidance-genai-learning|Instructional-guidance research]] and [[generative-ai-guardrails-harm-learning|guardrailed-tutor RCTs]] show the same AI can harm or help depending on the pedagogical wrapper (hints vs. answers, structured vs. open use).
 - **Teaching strategies for AI literacy.** Teaching students *to use AI well* is itself a pedagogical task — [[ai-literacy]] and [[reducing-ai-misuse]] research develops strategies (think-first/AI-second/reflect, AI-declaration, calibration training) that belong to this umbrella.
 - **Pedagogy in teacher practice.** [[teacher-role]] and [[teacher-ai-competency]] examine how teachers adopt AI within their existing pedagogical repertoire, and [[pedagogical-llm-training]] / [[pedagogical-agent]] study AI tools trained to follow pedagogical principles.
@@ -3903,7 +3905,7 @@ The knowledge base's [[research-methods-aied|research]] shows that PBL has becom
 
 - **PBL's structural conditions make AI integration productive.** [[pbl-structural-conditions-ai-2026|Rowe (2026)]] argues that PBL's core features — problem-driven inquiry, collaborative construction, facilitation, metacognitive reflection — are exactly the conditions under which AI functions as a partner in [[educational-development|professional development]] rather than a shortcut around it. The alignment is structural, not retrospective: PBL was designed around these conditions before AI existed, rooted in the recognition that professional competence requires adaptive judgment rather than routine execution.
 - **AI raises the ceiling on problem complexity.** The same argument holds that AI expands what category of problem PBL can engage, making "wicked problems" and complex real-world cases accessible to students who previously could not reach them.
-- **The artifact-as-proxy problem.** AI severs the link between a submitted artifact and the [[student-engagement|engagement]] that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and process-based assessment and to the knowledge base's [[cognitive-offloading|over-reliance]] literature.
+- **The artifact-as-proxy problem.** AI severs the link between a submitted artifact and the [[student-engagement|engagement]] that produced it — a problem PBL is well positioned to address because it assesses the *process* and demonstrated understanding, not just the product. This connects PBL to [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-based assessment]] and to the knowledge base's [[cognitive-offloading|over-reliance]] literature.
 - **ChatGPT as [[scaffolding|adaptive scaffolding]].** [[ai-enhanced-pbl-chatgpt-scaffolding-2026|La Sunra et al. (2026)]] show ChatGPT integrated as adaptive scaffolding within an AI-enhanced PBL framework to improve [[critical-thinking|critical thinking]] and [[personalized-learning|personalized learning]] in K-12 (120 eighth graders). This treats AI as a within-PBL support rather than an answer machine.
 - **Quasi-experimental evidence from pre-service teacher preparation.** [[chen-osman-preservice-physics-tpack-ctd-pbl-2026|Chen and Osman (2026)]] compared an eight-week AI-supported CTD-PBL module with conventional instruction for 130 third-year pre-service [[physics-education|physics]] teachers (65 per condition), with DeepSeek used through task-specific prompt templates as a bounded scaffold — lesson-idea generation, resource organization, explanation comparison, peer-feedback prompts and revision planning — and every AI output required to pass verification against content accuracy, pedagogical appropriateness, feasibility and [[ethics]] before entering an instructional artifact. The module group reported higher post-test [[tpack|TPACK]] (M = 4.04 vs. 3.40, d = 1.02) and higher perceived [[problem-solving|collaborative problem solving]] (M = 3.62 vs. 3.05, d = 0.88), and the largest interaction effects fell on shared knowledge building and social regulation — precisely the collaborative process dimensions the structural argument above predicts AI should strengthen rather than shortcut. The authors are explicit that AI was not isolated as an independent variable: the differential change attaches to the whole condition of problem-based tasks, structured collaboration, [[teacher-role|instructor]] scaffolding, [[peer-assessment|peer feedback]] and reflective revision, and both outcomes were [[self-report-measures|self-reported]] perceptions rather than observed practice.
 - **Responsible-use frameworks.** [[learn-framework-responsible-genai-pbl-2026|Uden & Hwang (2026)]] advance the neuroscience-informed **LEARN** framework ([[lifelong-learning|Lifelong Learning]], Engagement, Active Processing, Reflection, Neuro-based Design) for ethically grounding generative AI use within PBL, countering [[cognitive-offloading|cognitive offloading]] and integrity erosion.
@@ -4924,7 +4926,7 @@ The online medium and generative AI combine to intensify a specific cluster of c
 
 ### Academic integrity and cheating
 
-Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The knowledge base's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring]]), and the knowledge base's stance favors [[authentic-assessment|authentic, process-revealing assessment]] over detection arms races.
+Online courses already present invigilation challenges — in-person proctoring is often unfeasible for distributed, asynchronous learners. Generative AI compounds this by making AI-generated work indistinguishable from student work and by enabling contract-cheating style shortcuts at scale. The knowledge base's evidence on [[academic-integrity]] and [[ai-misuse-learning-harm]] shows that misuse is driven less by AI errors than by students copying answers instead of learning. Because online assessment frequently cannot distinguish assisted from independent work, misuse can inflate immediate grades while eroding durable knowledge — a perceived-vs-actual gap that is especially dangerous at a distance where instructors have less visibility into student process. Detection tools are a partial, contested response ([[ai-detection|AI plagiarism detection]], [[remote-proctoring]]), and the knowledge base's stance favors [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] assessment over detection arms races.
 
 ### AI misuse and cognitive offloading
 
@@ -5847,7 +5849,7 @@ Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenA
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
-- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic, process-revealing assessment]] and away from detection-based responses.
+- [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the knowledge base's broader move toward [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] assessment and away from detection-based responses.
 - Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Connected Concepts
@@ -7589,6 +7591,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **[[affective-tutoring|Emotion-aware]] and affect-sensitive design.** [[affective-computing|Affect-aware systems]] can detect and respond to emotional states (anxiety, frustration, confusion), but evidence shows benefits are **not universal** — moderating by learner proficiency and profile — so emotional design must be tailored, not assumed.
 - **Address the emotional side of AI use.** Design against shame/guilt spirals and AI anxiety by normalizing discussion of AI use, fostering transparency, and reducing surveillance-based responses that erode trust and agency.
 - **Support persistence and productive struggle.** [[scaffolding|Scaffold]] rather than substitute (per [[substitution-to-scaffolding-ai-harm-cycle-2026|Favero et al.]]), so AI deepens rather than bypasses effortful learning — aligning with [[metacognition]] and [[desirable-difficulties|productive difficulty]].
+- **Train the in-the-moment verbal move.** SEL support tends to be framed as design or as AI detection of affect, but instructors also need what to *say* when a student's emotional state threatens to end engagement — treating that state as something to work with in real time rather than a precondition for learning. [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]] calls these emotional micro-interventions: brief verbal acts that validate the feeling, reframe the appraisal behind it, and reconnect the struggle to professional identity, prepared through a pre-class scouting ritual and a reusable phrasebook that [[generative-ai]] can help draft for the instructor to personalize.
 - **Prepare teachers' SEL competency.** Educators need both technological skill and emotional intelligence ([[teacher-ai-competency]]); teacher [[educational-development|professional development]] should build capacity to support students' SEL in AI-mediated settings.
 
 ## Connections to learning gains and other measures
@@ -7596,7 +7599,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favorability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
-- **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional well-being, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
+- **The harm side of the ledger.** The Brookings premortem cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional well-being, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
 
 ### Connections to related concepts
 
@@ -7636,6 +7639,7 @@ SEL connects to [[ai-literacy]] (as a complement that makes AI literacy relation
 - [[ai-campus-wellbeing-tools]] — AI-Driven Campus Well-being Tools
 - [[policy-deficit-ai-sel-2026]] — The Policy Deficit in AI × SEL Research
 - [[human-ai-complementarity-social-emotional-learning-2026]] — Human–AI complementarity in early social-emotional learning (Raave et al. 2026)
+- [[parlant-emotional-micro-interventions-2026]] — Real-time emotional micro-interventions and a phrasebook for instructors
 
 ---
 
@@ -8094,6 +8098,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[affective-text-wearable-student-health|Affective text + wearable sensing]] (a year-long study of 458 students with Oura rings) shows ultra-brief naturalistic text can complement wearable physiological sensing for longitudinal student health monitoring — a concrete AI-enabled stress-detection pathway.
 - This links to [[affective-computing]] and [[affective-tutoring]], where AI reads and responds to emotional state.
 - **Which stressors the model weighs — and why context matters.** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] offer a [[machine-learning]] window on which stressors actually drive student distress in a [[global-south|non-Western context]]. Feature-importance analysis on 1,100 survey responses put blood pressure first (15.6%) and **teacher-student relationship second (10.0%)** — ahead of sleep quality (9.3%), depression (8.3%) and social support (7.6%) — while anxiety level ranked ninth at 4.8%, which the authors read as evidence that student stress is multi-dimensional rather than driven by a single psychological indicator. They attribute the salience of the teacher-student relationship to the comparatively hierarchical educational environment in Pakistan and present it as a hypothesis for locally collected data, underlining that stress models and their feature weights are context-dependent and cannot be assumed to transfer across student populations.
+- **Instructor-side real-time intervention.** [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]] adds a human counterpart to these AI tools: *emotional micro-interventions* — brief, deliberate verbal or gestural acts that validate a student's emergent emotion, reframe the appraisal behind it, and reconnect the struggle to professional identity (Validate, Reframe, Connect). Grounded in cognitive appraisal theory, the approach targets the primary appraisal ("is this a threat?") and the secondary appraisal ("can I cope?") at the moment distress would end engagement, pairing bottlenecks such as frustration, isolation and imposter syndrome with target states. Its author states plainly that the framework does not require AI; [[generative-ai|generative AI]] serves only as an optional way to draft candidate phrases for the instructor to curate.
 
 ## Why this is distinct from well-being
 
@@ -8150,6 +8155,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: forecasts of over-reliance, integrity concern and a diminished faculty role (Watson & Rainie 2026)
 - [[chick-faculty-development-ethical-ai-2026]] — From fear to curiosity: a six-week faculty institute moving instructors through identity threat (Chick, Morello & Staffey 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers' impostor feelings and ethical discomfort as affective labor in AI-mediated work
+- [[parlant-emotional-micro-interventions-2026]] — Instructor-side real-time emotional micro-interventions grounded in cognitive appraisal theory
 
 ---
 
@@ -8202,7 +8208,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 ### Academic-integrity and fairness impacts
 
 - **Negative:** AI enables new forms of [[academic-integrity|academic dishonesty]] (AI-generated essays, unauthorized completion), driving debates about [[reduce-ai-cheating|detection and reduction]]. This interacts with [[equity-in-ai-education|equity]]: unequal access to, and understanding of, AI tools can widen gaps between students.
-- **Positive/constructive:** AI can support [[authentic-assessment|authentic, process-oriented assessment]] and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
+- **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and reflective practice (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
 
 Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement, a minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly, which some described as killing their sense of diligence and left one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "[[generative-ai|generative AI]]" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment|judgment]] — annotated decision trails, verification, oral defense, version history — rather than compliance secured through surveillance.
 
@@ -14877,7 +14883,7 @@ AI raises fundamental [[assessment-validity|validity]] questions: do AI-graded a
 
 ## Integrity and the debate over detection
 
-AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[ai-detection|detecting AI-generated text]], while a growing body of [[research-methods-aied|research]] argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic, process-based assessment]] over surveillance. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgment events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a [[quantitative-research|quantitative]] counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic [[self-efficacy]]. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
+AI in assessment has intensified the [[academic-integrity|integrity]] conversation. One strand focuses on [[ai-detection|detecting AI-generated text]], while a growing body of [[research-methods-aied|research]] argues that detection is a limited, situational tool — not a strategy of first resort. [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] and [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] argue that authenticity cannot be policed into existence; it must be redesigned, positioning AI as a declared collaborator and prioritizing [[authentic-assessment|authentic]], [[process-oriented-assessment|process-based]] assessment over surveillance. **[[walton-bearman-assessment-judgment-2025|Walton et al. (2025)]]** ground this in evidence of **how students actually judge** their way through assessment with GenAI: scroll-back interviews with 26 students revealed a spectrum of six judgment events — from critically evaluating AI knowledge and learning through AI's limitations, to adopting ideas uncritically and misjudging AI contributions as their own. **[[stamatoulis-genai-use-patterns-2026|Stamatoulis et al. (2026)]]** add a [[quantitative-research|quantitative]] counterpart: across 157 students, *how* GenAI is used (evaluative integration to support understanding vs. low-verification shortcut uptake) predicted performance, while simple usage **frequency predicted neither** performance nor academic [[self-efficacy]]. Together these studies reframe the assessment question from *whether* students use AI to *how they judge and pattern that use*.
 
 ## Assessment redesign in the AI era
 
@@ -15088,6 +15094,7 @@ The clearest risk is displacement, and it is evidenced in the feedback literatur
 This is the umbrella concept for the knowledge base's feedback-related ideas. Feedback sits at the intersection of assessment and learning: without feedback, assessment measures performance but does not improve it; with effective feedback, assessment becomes a learning event. The knowledge base treats feedback as a **system** with multiple facets — the quality of the feedback itself ([[ai-feedback-quality]]), the loop through which it closes the learning gap, the learner's capacity to use it ([[feedback-literacy]]), and the assessment contexts in which it operates ([[formative-assessment]], [[peer-assessment]], [[automated-assessment]]).
 
 - **[[yilmaz-genai-feedback-srl-online-higher-ed-2026|Yilmaz et al.]]** show that students' perception of the feedback *source* (AI vs human) shapes self-regulated learning from [[generative-ai|GenAI]] feedback — a crucial qualifier for feedback effectiveness claims.
+- **[[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]]** isolate the source from the content: 472 EPFL students rated content-comparable human and GPT-4.0 feedback on their own work, first blind and then again after the source was disclosed, and most could not reliably tell the two apart (287 of 472 guessed correctly). Once the label was revealed, ratings of the AI variant fell and of the human variant rose — significantly for Genuineness (p < .01) — and provider credibility separated cleanly (human μ = 3.28 vs. AI μ = 2.25, Cohen's d = 0.57). The bias attaches to the provider rather than the text, since the two variants were comparable on correctness and cognitive quality.
 
 ## The feedback system
 
@@ -15122,7 +15129,6 @@ AI changes feedback in three consequential directions, each raising the stakes o
 - **Evaluation demands on the learner.** Because AI feedback can be inaccurate or hallucinated, students must judge whether to [[trust]] and act on it. This is where [[feedback-literacy]] and [[trust-calibration]] become decisive: [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show that only feedback-literate students convert AI feedback into [[self-regulated-learning]] gains, while [[llm-fallacy-misattribution|the LLM fallacy]] captures how students may over-credit AI feedback to their own competence.
 - **Task-level suitability: sorting feedback by epistemic status.** [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] argues that the frameworks the field relies on — Hattie and Timperley's levels, Boud and Molloy's design principles — explain *where* feedback operates in learning but not whether a given feedback task involves rule-checking, factual verification, or interpretive judgment, and that it is the second distinction that decides whether automation is defensible. The proposed tripartite split is low-level structural and presentational feedback (formatting, referencing, grammar, sentence-level clarity — rule-based against explicit standards and safely automatable), intermediate-level factual and procedural verification (whether a calculation used a specified method correctly, whether a stated fact matches authoritative references — comparison against established knowledge, not judgment of reasoning), and high-level [[critical-thinking|critical evaluation]] and synthesis, where judgment is interpretive and must stay human. The levels are dimensions rather than a ladder: one calculation can be correctly presented, arithmetically wrong, and methodologically inappropriate at the same time, and can attract verification, process feedback and self-regulation feedback together. The framework's sharpest boundary case is clarity: sentence-level clarity is surface-level, but *argumentative* unclarity often signals incomplete conceptual grasp, so flagged instances should escalate to human review rather than being corrected as prose — fixing the writing would leave the actual problem untouched.
 - **Role-aware feedback.** [[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al. (2026)]] showed that [[prompt-engineering|prompting]] the same LLM to evaluate the same student artifact under different roles — instructor, peer reviewer, grant reviewer — produced qualitatively distinct feedback: instructors were encouraging and process-oriented, peers supportive and conversational, grant reviewers formal and outcomes-oriented. These differences were epistemic, not merely stylistic, foregrounding different aspects of design practice — evidence that role-aware prompting can generate role-sensitive evaluative feedback rather than a single generic response.
-- **Feedback literacy as a training goal.**single generic response.
 - **Feedback utility vs. evaluative authority.** [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] shows students can simultaneously accept AI-generated feedback as useful and reject AI as the appropriate grader — separating *feedback utility* (the informational value of surface-level feedback) from *evaluative authority* (who may decide the grade). In a transparent post-[[assessment|assessment design]], Saudi computing students treated these as analytically distinct judgments, valuing ChatGPT's clarity for revision while reserving grading authority for the human instructor and articulating the dialogical, institutionally-weighted reasons why. The finding extends [[feedback-literacy]] beyond judging feedback quality to reasoning about evaluative authority itself, and suggests [[explainable-ai|transparency]] about AI involvement can make feedback an object of critical reflection rather than passive acceptance.
 - **Feedback literacy as a training goal.** Rather than only providing feedback, AI tools are increasingly designed to *teach* students to use feedback — [[tubino-adachi-ai-automated-feedback-literacy|reframing automated feedback tools as literacy-building instruments]], [[zhan-boud-dawson-genai-feedback-engagement|framing GenAI as an enabler of feedback engagement]], and [[richmond-nicholls-genai-psych-feedback-ai-literacies|using GenAI critique tasks to build psychological, feedback, and AI literacies together]].
 
@@ -15232,6 +15238,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - [[llm-feedback-focus-adaptivity-student-writing-2026]] — Evaluating Feedback Focus and Pedagogical Adaptivity in LLM-Generated Feedback on Student Writing
 - [[nlp-student-evaluation-teaching-scoping-review-2026]] — From Sentiment Classification to Actionable and Responsible Feedback: A Scoping Review and Evidence Map of NLP in Student Evaluation of Teaching, 2015–2026
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
+- [[nazaretsky-feedback-source-bias-2025]] — Who gives feedback matters: source labels shift ratings when the text is held comparable (Nazaretsky et al. 2025)
 
 ---
 
@@ -15341,7 +15348,7 @@ Feedback literacy connects to [[ai-feedback-quality]] and [[feedback|Feedback Lo
 ## Questions to Consider
 
 - What makes feedback 'good' — accuracy alone, or also being timely, specific, actionable, and calibrated to what you already know? Which of these would you notice missing first?
-- [[research-methods-aied|Research]] finds students experience AI-generated feedback as comparable to a teacher's — but acceptability does not guarantee [[learning-gains|learning effectiveness]]. Why might feedback that feels fine still fail to help you improve?
+- Research finds students experience AI-generated feedback as comparable to a teacher's — but acceptability does not guarantee [[learning-gains|learning effectiveness]]. Why might feedback that feels fine still fail to help you improve?
 - Even high-quality AI feedback is inert without a 'feedback-literate' recipient — studies show low feedback literacy can make AI feedback minimally useful or even negative. Whose responsibility is it to build that literacy?
 - Feedback quality and revision depth are linked: scaffolding how students engage with AI feedback shifts them toward argument-level improvement rather than surface edits. How does the way you receive feedback change what you do with it?
 - Sycophantic feedback conflates support with agreement — an AI that validates your answer rather than challenging it undermines feedback's corrective function. When does feedback need to challenge you rather than comfort you?
@@ -15369,6 +15376,8 @@ AI feedback quality is not simply about correctness. Effective feedback must be 
 - **Reliable provision, not inherent superiority, drives AI's edge:** [[gpt4-feedback-student-activation-2026|Geschwind et al. (2026)]]'s semester-long field experiment found GPT-4 feedback beat [[peer-assessment|peer feedback]] because it was *consistently* delivered — nearly all AIF respondents (369/398) received textual plus numeric feedback while under two-thirds of peer-feedback students received none, and much peer feedback was non-targeted praise. When high-quality textual peer feedback *was* received, peer outcomes matched AI's — indicating the AI advantage is reliability, not quality at the margin. Students also rated peer feedback slightly higher on perceived validity and emotion (mild [[trust|algorithm aversion]]) yet still activated and learned more from AI, showing perceived quality and behavioral outcomes can diverge.
 
 - **Source label versus feedback quality:** [[perceptions-teacher-vs-ai-feedback-bias-2026|Mertens et al. (2026)]] separate the *source* of feedback from its quality by holding content constant — 401 teachers rated feedback messages that were all generated with GPT-4-turbo but randomly labeled as teacher- or [[generative-ai|ChatGPT]]-generated, and the label alone shifted credibility (b = 0.21), usefulness (b = 0.47) and fairness (b = 0.48, all p < .001), with 73% preferring the teacher-labeled message, t(400) = 15.55, d = 0.78. Provider-directed items moved furthest — perceived effort (b = 1.34) and willingness to rely (b = 1.45) — and a written explanation of how ChatGPT works changed nothing (interaction ps ≥ .399), pointing to [[trust]], [[teacher-role|professional identity]] and [[bias-mitigation|ingroup bias]] in the rater rather than any deficiency in the feedback itself. Perceived quality can therefore be discounted by provenance even when the content is identical, which means a genuinely good tool can still stall at the point of use.
+
+- **Source label versus feedback quality, on the student side:** [[nazaretsky-feedback-source-bias-2025|Nazaretsky et al. (2025)]] ran the student-side counterpart, in which 472 EPFL students across six courses rated feedback on their own assignments blind to its source and again after disclosure, and most could not tell the two variants apart (287 of 472 guessed correctly). Ratings then moved in opposite directions — significantly so for Genuineness (p < .01) — with human providers rated more credible (μ = 3.28, σ = 0.77) than AI (μ = 2.25, σ = 0.85, Cohen's d = 0.57). The misattribution ran mostly one way: of 219 instances of low-rated human feedback, 205 were read as AI, so perceived quality and perceived identity reshape each other in both directions rather than the label merely discounting identical text.
 
 - **Feedback literacy as the uptake-side boundary:** [[liu-deris-ai-feedback-literacy-uptake|Liu & Deris (2025)]] validate an **AI Feedback Literacy (AIFL) scale** (16 items, Attitudes/Practices factors) that predicts students' actual uptake of AI feedback, and [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza et al. (2026)]] show [[feedback-literacy|feedback literacy]] moderates whether AI feedback improves [[self-regulated-learning]] — high literacy yields benefit, low literacy yields minimal or even negative effects. Feedback quality and feedback literacy are two sides of one system: even high-quality AI feedback is inert without a literate recipient.
 
@@ -15449,6 +15458,7 @@ AI feedback quality connects fundamentally to [[formative-assessment]] and [[fee
 - [[risk-adaptive-genai-feedback-programming-2026]] — A Risk-Adaptive and Evidence-Constrained Framework for Generative AI Feedback in Programming Education
 - [[real-time-ai-feedback-technical-skills-2026]] — Own-language "Clarify" explanation and scaffolded nudges in a real-time tutor: what makes synchronous feedback usable (Muritala, Ahmed & Olumorin 2026)
 - [[teacher-vs-ai-peer-feedback-l2-writing-2026]] — Teacher vs AI-assisted peer feedback: authoritative error correction decays, steady focus holds, and what students do with each (Tang, Li & Luo 2026)
+- [[nazaretsky-feedback-source-bias-2025]] — Blind-then-disclosed source labels on identical feedback: students rate AI-labeled feedback lower and read low-rated human feedback as AI
 
 ---
 
@@ -15723,7 +15733,7 @@ Authentic assessment sits at the heart of how [[assessment]] is being rethought 
 
 The knowledge base's assessment-redesign literature argues that authenticity must be **redesigned, not policed**:
 
-- [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, process-based assessment over surveillance.
+- [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, [[process-oriented-assessment|process-based assessment]] over surveillance.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich [[higher-ed|higher education]] can assess both genuine outputs and the processes that produced them.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.
@@ -15732,6 +15742,8 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 - **Authenticity criteria can themselves restrain AI use.** [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found that a rubric requiring students to ground a group presentation in their own first-hand teaching experience, and to reflect on shared classroom observations, led seven of fifteen student groups to *deliberately reduce* their GenAI use. Students argued the tool could not meet the epistemic demand — "AI only knows that moment when you type" — because it lacked the longitudinal, situated knowledge their classmates and [[teacher-role|teacher]] had. Both layers mattered: the authenticity of the task and the relational authenticity of contributing one's own thinking to a group, which reframed heavy AI use as free-riding on peers. The design implication is that authentic, experience-grounded criteria do evaluative work even without enforcement — they supply a reason for restraint that policy statements cannot.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] argues that integrity-oriented design and authentic design are not the same thing, and that the difference is epistemic rather than stylistic. Authenticity asks whether a task mirrors worthwhile real-world practice; integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which makes integrity an explicit, assessable criterion embedded in the task architecture rather than an incidental by-product of realism. The practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense and dialogic accountability, draft differences with version history — are recognisably authentic-assessment forms, but they are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism, which is a useful corrective for tasks that look authentic and remain counterfeitable in substance. His caution belongs on this page too: requiring documented reasoning privileges learners more fluent in reflective discourse, and judgment as evidence "remains relational and situated rather than mechanically verifiable", so the design carries its own interpretive-reliability load.
+
+The same question is reframed by [[thapa-lewis-process-oriented-assessment-2026|Thapa and Lewis (2026)]], who name what a task should *authenticate* rather than whether it looks real: epistemic authenticity, the extent to which assessment captures genuine engagement with interpretation, evaluative judgment, reasoning and knowledge construction. Their argument is that authenticity alone does not survive generative AI, because an authentic task whose evidence is one unsupervised product is exposed to the same substitution problem as the essay it replaced. Making reasoning visible instead requires staged submissions, reflective justification, dialogic engagement and evaluative transparency. They carry the caution above into design: reflective and dialogic tasks can privilege students confident in academic self-articulation unless they are inclusively designed and scaffolded, and the relational work intensifies educator emotional labor in large or resource-constrained settings.
 
 ## When practitioners retreat to the policed formats
 
@@ -15771,6 +15783,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
@@ -15810,6 +15823,90 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[wright-transcription-not-generation-2026]] — Over-inclusive AI prohibitions: transcription is not generation (Wright 2026)
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+
+---
+
+## [Process-Oriented Assessment](https://edtechdev.github.io/aied/concepts/process-oriented-assessment/)
+
+> **Process-oriented assessment** — the design of [[assessment]] around how a learner reaches a conclusion rather than only around the artifact they hand in: staged submissions, reflective justification, dialogic and oral exchange, draft and version history, and criteria students can apply to themselves. It is not a synonym for [[authentic-assessment|task realism]] and not a claim about who marks the work: a realistic task whose only evidence is one unsupervised product is exposed to the same substitution problem as the essay it replaced. [[generative-ai|Generative AI]] is what makes the distinction urgent, because fluent output can now be produced on demand and a finished file no longer carries information about whose reasoning produced it.
+
+## Questions to Consider
+
+- If a student submits a polished essay, what does that artifact actually let you claim about their thinking — and which claims does it only appear to support?
+- Process evidence asks for drafts, justification, and dialogue. Who in your setting is fluent in that kind of academic self-articulation, and who might be judged on their comfort with it rather than on their understanding?
+- Detection is unreliable and redesign around process is expensive. Where would you spend a limited institutional budget, and what evidence would change your answer?
+
+## Introduction
+
+Assessment in [[higher-ed|higher education]] has long inferred the thinking from the product. A submitted essay, report, or examination answer stood in for the [[critical-thinking|reasoning]] behind it, and grading treated a well-argued artifact as evidence of a well-argued process. Thapa and Lewis (2026) name the assumption that generative AI breaks: a polished response "may no longer represent anyone's thinking process," so the inference from artifact to understanding stops being safe. Their answer is not a better detector but a different evidence base. Process-oriented assessment collects evidence of interpretation, justification, and knowledge construction as they develop, so that reasoning stays visible when output can be produced on demand.
+
+It helps to say what the concept is not. It is not [[authentic-assessment|authentic assessment]], which asks whether a task mirrors worthwhile real-world practice; Thapa and Lewis keep the axes separate and insist that an authentic task with a single unsupervised product is still exposed. It is not [[ai-detection|AI detection]], which asks whether the tool was used rather than how a decision was made. And it is not [[automated-assessment|automated assessment]], which concerns who or what does the marking: a machine-graded staged [[eportfolio|portfolio]] can be process-oriented, and a human-graded final essay need not be. The concept concerns which evidence is collected, over what period, and under what conditions it is produced.
+
+The idea has moved from a proposition to a recurring recommendation across the knowledge base. It appears as a named priority in [[ai-education|AIED]]'s agenda for learner [[agency|agency]] and [[motivation]], as the organizing research agenda for the [[transfer-of-learning|retention and transfer]] problem in [[genai-performance-vs-learning|performance-versus-learning]] research, as "Black Box Assessment" in Brunnström and Palmqvist's account of [[self-regulated-learning|self-regulated learning]] with AI, and as a request from practicing teacher educators who found their take-home written work could no longer evidence learning at all.
+
+## What process evidence looks like in practice
+
+The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
+
+Practitioner and framework accounts fill in the artifacts. Uden and Hwang's (2026) LEARN framework, aimed at [[problem-based-learning|problem-based learning]] [[assessment]], asks for process-focused rubrics, oral justifications, staged submissions, and reasoning traces with [[ai-use-disclosure|AI-use disclosure]], and treats reflection through learning journals and think-aloud protocols as the [[metacognition|metacognitive]] engine of the sequence. Moganadas and colleagues (2026) make AI-transparent, process-oriented assessment one of five researchable propositions, requiring documentation, verification, and reflective justification rather than prohibition or detector use. Padhy (2026) recommends capturing revision history, interaction patterns, and time-on-task, paired with transparent disclosure. Goldstein, Marae-Haj and Zidan (2026) report the same artifacts emerging from practice after a [[trust]] crisis: prompting records, document version history, monitored group contributions, and reflective "journey journals" kept in physical notebooks — alongside the plain finding that take-home written work could no longer evidence learning.
+
+## A different axis from authenticity, and from marking
+
+Holding the axes apart matters, because conflating them is how a redesign looks done while the exposure remains. Sharma (2026) makes the complementary distinction between authenticity and integrity-oriented design: authenticity asks whether a task mirrors worthwhile practice, while integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which is why the practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense, draft differences with version history — are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism. Espino and Espino's (2026) ten-year review of [[business-education|business education]] reaches the same design conclusion from the literature side, finding the field converging on authentic, process-visible tasks that require interpretation, contextual application, and iterative refinement, and treating isolated tool adoption inside unchanged assessment structures as its most persistent failure.
+
+The construct is also distinguishable from the question of how evidence is scored. [[assessment-validity|Validity]] reasoning is where the two meet: Brunnström and Palmqvist (2026) argue that when a [[conversational-ai|chatbot]] can produce a plausible examination answer, the submitted product becomes a weaker indicator of what the student learned — an assessment-validity problem rather than only an [[academic-integrity|integrity]] problem. That is the same inference at risk in Yan, Greiff, Lodge and Gašević's [[genai-performance-vs-learning|performance-versus-learning]] argument, where [[learning-gains|performance gains]] that shrink once assistance is withdrawn show a gain living in the tool rather than in the learner, and where the proposed remedy is process measures such as [[transfer-of-learning|retention and transfer tests]] rather than immediate task success.
+
+## Why detection cannot carry this load
+
+Process-oriented assessment is usually proposed as the alternative to detection, and the evidence about detection explains why. The [[ai-detection|detection]] literature finds error rates, task-dependence, and patterned [[bias-mitigation|bias]] against non-native and disabled writers, and the most recent work lands on a procedural conclusion: a detector score can prompt closer review but is not a finding. Munoz and colleagues (2026) show what that costs in practice. Coding 1,162 generative-AI misconduct allegations, they found the strongest evidence types are generated by the investigation or by supervision, that process evidence such as drafts, supervision meetings, and presentations appears only where those practices already exist — so in an unredesigned assessment it is simply absent — and that detector output drew the lowest probative ratings of any category. The design consequence is ordering: process evidence has to exist before a case needs it, and Weidlich's (2026) reasoning about which inference is at risk makes the same point from the validity side, since attempts to restore assessment security through detection introduce construct-irrelevant variance rather than evidence about the learner.
+
+## The design and workload costs
+
+The sources are unusually candid that this is expensive. Thapa and Lewis state the equity caution directly: reflective and dialogic tasks can privilege students who are more confident in academic self-articulation unless they are inclusively designed and [[scaffolding|scaffolded]], and the relational, [[feedback|feedback-intensive]] work intensifies the emotional and professional labor of [[teacher-role|educators]] in large or resource-constrained settings — a contradiction with institutional expectations for scalability, standardization, and measurable performance. Sharma adds the interpretive version: requiring documented reasoning privileges [[learners]] more fluent in reflective discourse, and judgment as evidence "remains relational and situated rather than mechanically verifiable."
+
+The operational costs are itemized elsewhere. Boysen lists new technology, revised assignments and syllabi, teaching students unfamiliar skills, and extra material to collect and grade, warns that low-stakes credit for process can inflate grades, and concedes the model suits large skill-development projects far better than day-to-day knowledge-acquisition work; he also notes that process tracking is what some critics call AI surveillance. Goldstein, Marae-Haj and Zidan's participants reported that establishing process documentation took real work, that nine of thirteen funded advanced tools from their own pockets in a way that could deepen the [[digital-divide|digital divide]], and that several fell back on [[summative-assessment|supervised examinations]] and anticipated oral thesis defenses. The [[equity-in-ai-education|equity]] worry has an AI-specific edge in Brunnström and Palmqvist's finding that unguided tool use demands an interaction-management skill that is unevenly distributed, so AI "may be most beneficial to already advantaged students" — the same distributional risk that attends asking students to manage a documented process. Lopez-López, Bru-Cordero and Correa-Álvarez (2026) found that students who invested more independent study time judged AI use more strictly, and recommend testing whether disclosure templates, oral defenses, and process-based assessment reduce [[ethics|ethical]] uncertainty — a study the field still needs.
+
+## What remains unresolved
+
+Thapa and Lewis's account is conceptual: no participants, no data collection, and no implementation trial, so the four principles are argued rather than tested, and the paper itself calls for empirical work on [[student-experience|student experience]], educator workload, and long-term viability. Feasibility is left undifferentiated across settings — transfer to large lectures, laboratories, studios, or clinical placements is not addressed. Lane's (2026) position paper notes the institutional ceiling: process-based assessment is blunted by grading and transcript structures that reward polished final artifacts, so classroom redesign alone does not change the incentive. [[educational-measurement|Measurement]] is thin as well: Jin and colleagues' (2026) review of [[ai-literacy|AI-literacy]] instruments calls for performance-based and process-oriented assessment and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, but reports that the existing instruments lean on [[self-report-measures|self-report]]. No source here reports a [[rct|controlled trial]] of a process-oriented redesign against a product-oriented one, which leaves the central claim — that process evidence is both harder to counterfeit and fairer to judge — argued from principle, practitioner report, and case-file evidence rather than demonstrated at scale.
+
+## Connected Concepts
+- [[assessment]]
+- [[authentic-assessment]]
+- [[ai-detection]]
+- [[assessment-validity]]
+- [[evaluative-judgment]]
+- [[formative-assessment]]
+- [[summative-assessment]]
+- [[feedback]]
+- [[self-assessment]]
+- [[oral-assessment]]
+- [[eportfolio]]
+- [[ai-use-disclosure]]
+- [[self-regulated-learning]]
+- [[academic-integrity]]
+- [[equity-in-ai-education]]
+## Connected Articles
+- [[thapa-lewis-process-oriented-assessment-2026]] — epistemic authenticity and the four design commitments behind process-oriented assessment (Thapa & Lewis 2026)
+- [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)
+- [[aied-unfinished-mission-bypass]] — amplifying process-based assessment as one of five AIED priorities (Lane 2026)
+- [[brunnstrom-ai-interaction-literacy-srl-2026]] — Black Box Assessment and the learning trajectory in take-home examinations (Brunnström & Palmqvist 2026)
+- [[wang-safety-gap-productive-struggle-2026]] — the safety gap and prioritizing process-based assessment in medical education (Wang & Shan 2026)
+- [[human-centered-ai-teacher-educators-2026]] — teacher educators asking for AI-resistant, process-based tasks built on justification and reflection (Baran et al. 2026)
+- [[teacher-educators-ai-integration-preservice-2026]] — prompts, version history, monitored contributions, and journey journals after a trust crisis (Goldstein et al. 2026)
+- [[lopez-lopez-academic-integrity-ai-study-practices-2026]] — study practices, ethical judgments, and the case for testing oral defenses and process evidence
+- [[learn-framework-responsible-genai-pbl-2026]] — the LEARN framework: process-focused rubrics, oral justifications, staged submissions (Uden & Hwang 2026)
+- [[genai-didactic-pedagogical-mediator-2026]] — AI-transparent process-oriented assessment as a researchable proposition (Moganadas et al. 2026)
+- [[ai-tools-academic-work-cheating-2026]] — revision history, interaction patterns, and time-on-task with disclosure (Padhy 2026)
+- [[espino-ai-business-education-review-2026]] — a decade of business-education research converging on process-visible tasks
+- [[ai-literacy-instrument-development-systematic-review-2026]] — the measurement agenda: performance-based and process-oriented assessment (Jin et al. 2026)
+- [[open-learning-practices-genai-response-2026]] — documented drafts and version histories as the auditable process record (Boysen 2026)
+- [[sharma-judgment-visible-genai-assessment-2026]] — annotated decision trails, oral defense, and draft differences selected for visible judgment
+- [[munoz-misconduct-allegation-evidence-2026]] — what misconduct case files contain, and the process evidence they lack
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — which inference is at risk when assessment evidence is substituted
+- [[beyond-detection-authentic-assessment-ai-2025]] — authenticity must be redesigned, not policed
+- [[authentic-products-authenticated-processes-2026]] — authentic products and the processes that produced them
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — the oral exam as an AI-resistant format that makes reasoning live
 
 ---
 
@@ -15964,7 +16061,7 @@ The knowledge base's research shows e-portfolios are increasingly central to pro
 
 ## Why e-portfolios matter for AI integration
 
-Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective self-assessment — while AI itself can assist in generating feedback, scaffolding reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and process-based assessment in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
+Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective self-assessment — while AI itself can assist in generating feedback, scaffolding reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and [[process-oriented-assessment|process-based assessment]] in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Connected Concepts
 
@@ -17322,7 +17419,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 ## Implications for AI in education
 
 - **Detection is situational:** institutions should use detection tools sparingly and with awareness of their error rates, fairness limits, and task-dependence — not as an automatic, standalone gate.
-- **Assessment design matters more than policing:** investing in [[authentic-assessment|authentic]] and process-based assessment, where AI use is expected and declared, addresses integrity more effectively than detection alone.
+- **Assessment design matters more than policing:** investing in [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-based assessment]], where AI use is expected and declared, addresses integrity more effectively than detection alone.
 - **Fairness and equity:** detection tools that penalize non-native writers or produce false positives risk amplifying existing inequities.
 - **AI literacy is complementary:** helping students understand appropriate versus [[ai-misuse-learning-harm|harmful AI use]] is more productive than relying on surveillance.
 
@@ -17383,7 +17480,7 @@ The constructive question shifts from "how do we prevent students from using AI?
 - The page warns that monitoring can be counterproductive: being watched raises [[anxiety-and-stress|test anxiety]], and stressed students may be *more* likely to cheat. Can you think of a time pressure or surveillance affected your own performance? Does that experience undermine the case for proctoring?
 - Automated proctoring captures students' living space, face, and voice, often with little genuine choice but to consent. Where is the line between reasonable exam supervision and surveillance that presumes students guilty until proven honest — and who should draw it?
 - Research shows proctoring can flag benign behavior as suspicious, producing false accusations, and that model accuracy varies across demographics and environments. If you're an [[administrator]], how do you weigh the integrity it recovers against the equity and trust it can erode?
-- The page frames proctoring as one tool, not a solution — alternatives like oral and process-based assessment exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
+- The page frames proctoring as one tool, not a solution — alternatives like oral and [[process-oriented-assessment|process-based assessment]] exist. Before reading, which approach would you defend for high-stakes assessment in a remote context, and what evidence would change your mind?
 
 ## Introduction
 
@@ -19567,6 +19664,8 @@ Scholarship converges on several change-management levers. **Governance framewor
 
 **Institutional transformation case studies** show how these levers play out in practice. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] analyzes Lingnan University's strategic change across four dimensions — instructional upgrade through AI, prioritization of irreplaceable human competencies, curriculum renewal, and retention of ethical/cultural values — illustrating how a long-established institution can manage [[generative-ai|GenAI]]-driven change without relinquishing its identity. It frames the transformation as intellectual rather than technocentric, giving institutional leaders a staged model for mandating AI literacy while preserving humanistic mission.
 
+**School-system implementation evidence** shifts the question from which product to adopt to how it is used. Fieldwork by [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners]] — 32 classrooms in 16 school systems across seven states — found the same product landing well or badly according to how the teacher framed the purpose, watched the dashboard, and acted on what it reported, with ten-minute activities stretching across a class where routines and a clear place in the scope and sequence were missing. Products that specified teacher actions during use were used closer to their intended approach, and teachers needed sustained coaching rather than a single rollout; where leaders knew a product well, teachers took the desired actions more often.
+
 **Assessment reform** is a central change-management battleground. The [[ai-assessment-scale-reform|AI Assessment Scale study]] shows framework implementation hampered by departmental inconsistencies, workload pressures, and uncertainty, with staff describing the process as "a bit of chaos and madness." The [[ethical-ai-higher-ed-game-theory|coordination game model]] offers a formal account of why policy statements alone fail: student AI use is a collective norm-formation process, and small, well-calibrated changes to reflective assessment incentives can trigger rapid cohort-wide shifts toward responsible use, whereas weak or misaligned incentives allow opportunistic practices to persist. This supports pedagogy-led governance over surveillance. The [[ai-adaptation-gap-higher-education-2026|AI adaptation gap survey]] adds a [[stakeholders|stakeholder]] dimension: students report higher AI-use intensity and perceived usefulness than faculty and administrative staff, while the latter report stronger [[academic-integrity]] concerns — and perceived usefulness drives [[trust]] (β = 0.402) more strongly than institutional policy clarity (β = 0.223).
 
 ## Implications
@@ -19603,6 +19702,8 @@ Change management is the institutional complement to classroom-level integration
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Digital transformation of a liberal arts university toward a research-intensive model in the GenAI era (Qin 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
+- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
 
 ---
 
@@ -21250,6 +21351,7 @@ The single most cited empirical demonstration is the [[generative-ai-guardrails-
 - **Unguarded AI can actively harm learning, not just fail to help.** Without guardrails, students use the tool as a crutch — copying answers, offloading [[cognitive-offloading|productive cognitive work]], and underperforming once the tool is removed. Guardrails preserve the [[scaffolding|scaffolded]] effort that drives durable [[learning-gains|learning]].
 - **Harm is often "quiet."** The most damaging tutoring failures are not toxic outputs but tutors that answer correctly yet erode learning, or refuse evenly yet entrench inequality. Guardrails must therefore be evaluated educationally, not just for toxicity.
 - **Guardrails are especially critical for [[k-12]].** Younger learners are least equipped to detect unsafe, biased, or manipulative AI behavior and are most vulnerable to [[ai-sycophancy|sycophancy]] and [[cognitive-offloading|over-reliance]].
+- **Risk varies by product category, not only by design.** Classroom fieldwork on 20 student-facing AI products already in use across at least 1,000 school systems found that the three general-purpose chatbots posed the clearest threat to student thinking, because they make it easy to bypass the reasoning and [[productive-failure|productive struggle]] learning requires, while purpose-built instructional tools produced the most consistent experiences. [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' AI in Action Learning Tour (2026)]] reports this from observation rather than measured effects, but it locates part of the guardrail question at the level of *what kind of product* is adopted: the same layered controls are needed differently, and less predictably, in a general-purpose [[conversational-ai|chatbot]] than in a [[teacher-role|teacher]]-facing instructional tool.
 
 ## Layers of Guardrail Design
 
@@ -21339,6 +21441,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 - [[rule-integrated-llm-tutoring-primary-math-2026]] — Rule-guided vs ad-hoc scaffolding in an LLM tutoring system for primary mathematics (Looi et al. 2026)
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
 - [[guardrails-ai-teaching-assistants-programming-2026]] — Guardrails or Roadblocks? Effects of Pedagogical Style and Context Awareness in AI Teaching Assistants for Programming
+- [[instruction-partners-ai-in-action-learning-tour-2026]] — how risk to student thinking varied by product category across 20 AI tools observed in real classrooms
 
 ---
 
@@ -21688,6 +21791,8 @@ Calibration is also tested by the incentives of the trusted system itself. When 
 
 A [[llm|language model]]'s fluent, confident prose reads as trustworthy whether or not it is. Trust calibration is the counterweight to that illusion — the practice of [[ai-ed-evaluation|evaluating AI]] output against its verifiability and the stakes of the task, rather than accepting it on the strength of its presentation. Because trust is usually measured by asking, calibration claims inherit the limits of [[self-report-measures]] — reported trust and observed verification behavior can diverge, as [[fouad-bentley-trust-utility-gap-physics-2026|a physics study]] found.
 
+Instrument development is beginning to address that measurement gap directly: [[nazaretsky-trust-instrument-ai-edtech-2025|Nazaretsky et al. (2025)]] validated a four-factor instrument (Perceived Usefulness, Obstacles, Readiness and Trust across 21 items and 665 students) whose distinguishing move is to separate the perceived trustworthiness of a tool from the disposition of the student who trusts it, so usefulness and obstacles can be scored apart from readiness to trust. Their structural model places trust upstream of perceived usefulness rather than downstream as the [[technology-acceptance-model]] usually reads adoption, and the two means diverge in the direction calibration cares about — trust (3.31) sat below usefulness (3.62).
+
 ### Why trust needs calibrating
 
 Uncalibrated trust takes two forms. **Over-trust** (accepting AI output without verification) produces the uncritical acceptance documented in [[cognitive-offloading|Over-Reliance]] and [[cognitive-offloading]] research, and compounds the [[hallucination-risk]] of confident errors. **Under-trust** (avoiding AI entirely) forgoes legitimate benefits. Both [[stem-education|stem]] from the same root: trust based on appearance rather than evidence. Research on [[misconceptions]] shows students often default to over-trust because they assume an AI that "sounds right" is right.
@@ -21725,7 +21830,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 
 - **Trust controls placed inside the inference path (2025):** [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang and Fang (2025)]] treat calibration as architecture rather than reporting: Monte Carlo dropout calibration is combined with adversarial [[bias-mitigation|debiasing]] and a reject-and-refer gate that withholds a score when dropout variance exceeds a learned threshold, reaching an expected calibration error of 0.032, a 1.8% fairness gap and a 41% reduction in [[human-in-the-loop-ai|human review]] workload on TeacherEval-2023. Their own limitation section is the calibration caution that applies to any such metric: trust is hard to quantify from performance metrics alone, teacher adoption depends on perceived reliability, fairness and [[pedagogy|pedagogical]] relevance, and longitudinal adoption trials and perception surveys are the missing evidence.
 
-- **Fragmented trust constructs, measured mostly by self-report (2026):** A systematic review screened 1,565 articles and included 33 empirical studies of trust in AI-enabled systems, finding that 21 (63.64%) reported a definition drawn from nine different sources and 24 (72.73%) measured trust through self-report alone, with only two relying on behavioral measures alone. Explainability was the most studied design factor (20 studies) yet its effects were mixed, since stacking several explanation types raised cognitive load and sometimes left trust unchanged. The review's recommendation is to design for [[trust-calibration|calibrated trust]] rather than maximum trust, judged by whether a design helps users separate reliable outputs from unreliable ones, which is the same standard this page applies to individual verification behavior ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
+- **Fragmented trust constructs, measured mostly by self-report (2026):** A systematic review screened 1,565 articles and included 33 empirical studies of trust in AI-enabled systems, finding that 21 (63.64%) reported a definition drawn from nine different sources and 24 (72.73%) measured trust through self-report alone, with only two relying on behavioral measures alone. Explainability was the most studied design factor (20 studies) yet its effects were mixed, since stacking several explanation types raised cognitive load and sometimes left trust unchanged. The review's recommendation is to design for calibrated trust rather than maximum trust, judged by whether a design helps users separate reliable outputs from unreliable ones, which is the same standard this page applies to individual verification behavior ([[abramson-trust-interaction-design-ai-enabled-systems-review-2026|Abramson et al. (2026)]]).
 
 - **Calibrating AI-generated inferences rather than raw data (2026):** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl and Leuders (2026)]] argue that AI-supported assessment changes the object of teacher calibration: a dashboard inference is the result of algorithmic interpretation rather than a cue a teacher observed, so it must be judged for plausibility and then deliberately accepted, rejected, or modified, a cognitive process they call meta-diagnosis. Because current systems rest mainly on performance data such as correctness and completion time, engagement and motivational cues still have to come from the teacher's own observation, and the authors frame the training target as calibrated rather than uncritical trust built alongside data and AI literacy. This is a conceptual analysis, so the claim is argued rather than tested.
 
@@ -21781,6 +21886,7 @@ Trust calibration is central to [[ai-literacy]] and sits alongside [[reducing-ai
 - [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026]] — Role rotation as a structure for critically handling AI recommendations (Kenzhebayeva et al. 2026)
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — Student Use of LLMs and the Limits of AI-Generated Question Difficulty in Data Science Courses
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Open Questions Towards Skill-Sustaining Reliance in Reflective AI Engagement
+- [[nazaretsky-trust-instrument-ai-edtech-2025]] — Student-facing instrument validating trust in AI-EdTech as four factors, with trust upstream of perceived usefulness (Nazaretsky et al. 2025)
 
 ---
 
@@ -32149,7 +32255,7 @@ Zhu, Q., Zhai, X., Zou, Y., & Gao, C. (2026). [*Using AI-Generated Feedback to I
 
 ## [How artificial intelligence transforms the feedback ecosystem in higher education](https://edtechdev.github.io/aied/articles/ai-feedback-ecosystem-higher-education-2026/)
 
-> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from human-[[human-ai-collaboration|in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
+> **Synthesis:** Bearman and colleagues argue that AI does not slot into [[feedback]] as another source of comments; it reworks the web of relations among students, educators, materials and peers, and they borrow Barnett's ecological framing to call that web a feedback ecosystem. Their evidence comes from three two-hour online workshops with 12 students and 18 educators, run so that both groups could hear each other's firsthand accounts. The findings are asymmetric in an instructive way. Students treated AI as an additional but flawed information source, weighed it against rubrics, lecture notes, discussion boards and educator comments, and mostly privileged educators they trusted, while still using AI as a holding pattern when staff feedback was slow. Educators were far less engaged, mostly piloting AI in single activities rather than integrating it. The paper's constructive proposal is a shift from [[human-in-the-loop-ai|human-in-the-loop]] oversight of AI output to humans-as-the-loop: people helping people build stronger feedback relationships over time.
 
 ## Key Findings
 
@@ -32167,7 +32273,7 @@ Temporality runs through the analysis. AI output is privileged because it arrive
 
 ## Human-as-the-loop, not human-in-the-loop
 
-The automated feedback literature proposes a human-[[human-ai-collaboration|in-the-loop]] who oversees and amends machine-generated comments, and that framing now runs through AI assessment work. The authors argue it is insufficient because current systems address outputs rather than learning trajectories: an AI provides instant information about a task, while an educator relates, challenges and evaluates a learner against a trajectory over time. Their alternative puts people in the business of helping other people build stronger feedback relationships, whether educator, a longitudinal cohort of peers, or students managing their own network of sources as a form of [[feedback-literacy]]. The paradox they draw out is that concentrating on the whole ecosystem brings the teacher back into relief rather than displacing them: educators introduce students to feedback relations, use assessment design to create immediately useful ones, and can point to relationships beyond the course. Peer or family relations can serve the same function, which matters because professionals rely on a feedback community long after university.
+The automated feedback literature proposes a [[human-in-the-loop-ai|human-in-the-loop]] who oversees and amends machine-generated comments, and that framing now runs through AI assessment work. The authors argue it is insufficient because current systems address outputs rather than learning trajectories: an AI provides instant information about a task, while an educator relates, challenges and evaluates a learner against a trajectory over time. Their alternative puts people in the business of helping other people build stronger feedback relationships, whether educator, a longitudinal cohort of peers, or students managing their own network of sources as a form of [[feedback-literacy]]. The paradox they draw out is that concentrating on the whole ecosystem brings the teacher back into relief rather than displacing them: educators introduce students to feedback relations, use assessment design to create immediately useful ones, and can point to relationships beyond the course. Peer or family relations can serve the same function, which matters because professionals rely on a feedback community long after university.
 
 ## What this means for practice
 
@@ -32187,6 +32293,7 @@ The automated feedback literature proposes a human-[[human-ai-collaboration|in-t
 - [[feedback-literacy]]
 - [[formative-assessment]]
 - [[human-ai-collaboration]]
+- [[human-in-the-loop-ai]]
 - [[teacher-role]]
 - [[ai-literacy]]
 - [[equity-in-ai-education]]
@@ -34227,7 +34334,7 @@ Hackl, V., Müller, A. E., & Sailer, M. (2026). [*The AI literacy heptagon: A st
 
 ## Key Findings
 
-1. **The corpus was screened down from 8,057 records to 58 studies.** Seven databases (Web of Science, Scopus, IEEE Xplore, ACM Digital Library, ERIC, PubMed, PsycINFO) yielded 8,056 studies plus one backward-snowballed record; 2,998 duplicates were removed and 5,059 records were screened by title and abstract, excluding 4,781. Of 278 full texts, 220 were excluded (132 not primarily focused on developing or validating an AI literacy instrument, 79 lacking development or validation detail, 5 non-empirical or unavailable, 4 non-English). The 58 included studies cover 47 unique instruments and 11 validation, adaptation or revalidation studies, with Cohen's κ of 0.77 at screening and 0.87 at final selection.
+1. **The corpus was screened down from 8,056 records (plus one snowballed record) to 58 studies.** Seven databases (Web of Science, Scopus, IEEE Xplore, ACM Digital Library, ERIC, PubMed, PsycINFO) yielded 8,056 studies plus one backward-snowballed record; 2,998 duplicates were removed and 5,059 records were screened by title and abstract, excluding 4,781. Of 278 full texts, 220 were excluded (132 not primarily focused on developing or validating an AI literacy instrument, 79 lacking development or validation detail, 5 non-empirical or unavailable, 4 non-English). The 58 included studies cover 47 unique instruments and 11 validation, adaptation or revalidation studies, with Cohen's κ of 0.77 at screening and 0.87 at final selection.
 2. **Instrument development exploded after ChatGPT.** Only two original instruments predate 2023 (one in 2021, one in 2022); seven appeared in 2023, ten in 2024, and 28 in 2025 — more than half the entire corpus in a single year.
 3. **Self-report dominates the field.** Of 47 original instruments, 37 are self-report questionnaires, 8 are performance-based, and 2 use mixed formats. Five-point Likert scales are most common (25 instruments), then seven-point (11), a single eleven-point scale in the MAILS family, and two six-point scales built to suppress neutral responding.
 4. **Structures vary widely but a typical shape persists.** Instruments run from 6 to 63 items (median 24; IQR 19–32) and from 1 to 11 constructs (median 4; IQR 3–5). Self-report scales average a median of 23 items and four constructs; performance-based measures are leaner in dimensionality (median two constructs over 25 items).
@@ -34236,7 +34343,7 @@ Hackl, V., Müller, A. E., & Sailer, M. (2026). [*The AI literacy heptagon: A st
 7. **Factor analysis is routine; modern test theory and invariance testing are not.** Validation approaches were CFA (40 instruments), EFA (32) and IRT (8), with multigroup CFA appearing once.
 8. **Content validity evidence is the weakest link.** Surveying 58 studies, only 18 (31%) earned a sufficient (+) rating for relevance and five (9%) for comprehensiveness; comprehensibility was sufficient in five (9%), inconsistent in 28 (48%) and insufficient in 25 (43%). Comprehensiveness drew 53 insufficient ratings (91%) against no inconsistent ones. Just 2 of 58 studies (3%) achieved a sufficient overall content-validity rating; the remaining 56 (97%) were inconsistent.
 9. **Psychometric strengths and absences are property-specific.** Structural validity was sufficient in 32 of 58 studies (55%) and insufficient in 22 (38%); internal consistency was sufficient in 32 (55%) with no insufficient ratings; construct validity was reported by only 15 studies and sufficient in 12 (21%); criterion validity was sufficient in one study (2%) with 54 studies (93%) reporting none; cross-cultural validity or invariance was examined in five studies, all rated sufficient. No instrument showed uniformly sufficient, high-certainty evidence across all properties.
-10. **The forward agenda is consolidation, not proliferation.** The authors call for performance-based and process-oriented assessment, [[learning-analytics|learning analytics]] and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, longitudinal designs tracking how AI literacy develops, criterion-referenced [[benchmark|benchmarks]], and systematic measurement-invariance testing across populations and languages.
+10. **The forward agenda is consolidation, not proliferation.** The authors call for performance-based and [[process-oriented-assessment|process-oriented assessment]], [[learning-analytics|learning analytics]] and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, longitudinal designs tracking how AI literacy develops, criterion-referenced [[benchmark|benchmarks]], and systematic measurement-invariance testing across populations and languages.
 
 ## How the review was conducted
 
@@ -37592,7 +37699,7 @@ Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). [*AI as Teammate: Rethin
 - **Student–faculty perception gap:** Students tend to perceive AI as acceptable help (idea generation, language improvement), while faculty weight originality and independent thinking and are more likely to treat certain uses as [[academic-integrity]] misconduct. Perceptions also vary by discipline: [[stem-education|STEM]] students show stronger agreement that AI improves performance (+42% net agreement), whereas [[humanities-education|humanities]] students show the highest net agreement that AI usage constitutes cheating (+44%) and raises ethical concerns (+58%).
 - **Correlation structure:** A pairwise analysis (N = 320) found AI usage negatively correlated with perceived cheating (r ≈ −0.51) and positively correlated with [[learning-gains|academic performance]] (r ≈ +0.44), while ethical concern tracked closely with perceived cheating.
 - **Cognitive offloading risk:** Evidence indicates over-dependence on AI and [[adaptive-learning|adaptive systems]] can drive [[cognitive-offloading]], decreased independent reasoning, and altered academic behavior, threatening [[critical-thinking]]—though guided, transparent AI use can support higher-order thinking.
-- **Detection limits and AI literacy:** Conventional [[ai-detection]] struggles with generative text (false positives/negatives), pushing institutions toward process-based assessment. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
+- **Detection limits and AI literacy:** Conventional [[ai-detection]] struggles with generative text (false positives/negatives), pushing institutions toward [[process-oriented-assessment|process-based assessment]]. Students with higher [[ai-literacy]] use AI more responsibly and show lower tendency to commit academic misconduct, suggesting education rather than prohibition is the more effective lever.
 
 ## Study Design & Method
 
@@ -39227,7 +39334,7 @@ Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGin
 
 ## [AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass](https://edtechdev.github.io/aied/articles/aied-unfinished-mission-bypass/)
 
-> **Synthesis:** The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge [[ai-education|AIED]] has long engaged with but must now confront directly: ensuring learners choose effortful [[student-engagement|engagement]] when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established [[motivation|motivational]] and [[learning-theories|learning theories]], I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying process-based assessment, and empowering teachers. I then share four envisioned [[ai-technologies|technologies]] that embody key features of this future and conclude by outlining how AIED must now evolve.
+> **Synthesis:** The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge [[ai-education|AIED]] has long engaged with but must now confront directly: ensuring learners choose effortful [[student-engagement|engagement]] when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established [[motivation|motivational]] and [[learning-theories|learning theories]], I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying [[process-oriented-assessment|process-based assessment]], and empowering teachers. I then share four envisioned [[ai-technologies|technologies]] that embody key features of this future and conclude by outlining how AIED must now evolve.
 
 Position paper (AIED 2026) reframes the effortless bypass dilemma: AIED must keep building better tools but foreground [[agency|learner agency]] and motivation so students choose authentic effort. Five directions: autonomy/agency, metacognitive resilience, interest/relevance, process-based assessment, and teacher empowerment.
 
@@ -45028,7 +45135,7 @@ Castillo Ventura, E., Solis Lastra, J. U., & Alves Franco Brandão, A. (2026). [
 
 ## Overview
 
-Take-home examinations are common in the [[humanities-education|humanities]] and social sciences and are argued to support more complex reasoning than time-constrained formats. If a chatbot can produce a plausible response, however, the submitted product becomes a weaker indicator of what the student has learned — an [[assessment-validity|assessment validity]] problem rather than only an integrity problem. The authors situate their work within calls to move past rules about permitted and prohibited use: GenAI and assessment has been described as a **wicked problem** with no single stable solution, and proposals such as **Black Box Assessment** argue for process-oriented assessment that attends to the learning trajectory, not just the polished artifact.
+Take-home examinations are common in the [[humanities-education|humanities]] and social sciences and are argued to support more complex reasoning than time-constrained formats. If a chatbot can produce a plausible response, however, the submitted product becomes a weaker indicator of what the student has learned — an [[assessment-validity|assessment validity]] problem rather than only an integrity problem. The authors situate their work within calls to move past rules about permitted and prohibited use: GenAI and assessment has been described as a **wicked problem** with no single stable solution, and proposals such as **Black Box Assessment** argue for [[process-oriented-assessment|process-oriented assessment]] that attends to the learning trajectory, not just the polished artifact.
 
 The paper's frame is that GenAI may support each phase of [[self-regulated-learning|self-regulated learning]] — goal setting, strategy selection, monitoring, and adjustment — but that the value of an AI response depends on the student's capacity to interpret, evaluate, and use it. Because GenAI feedback arrives interactively and without a teacher's immediate framing, it also raises the bar for [[feedback-literacy|feedback literacy]].
 
@@ -59831,7 +59938,7 @@ Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic 
 
 - **Persistent gaps recur across all clusters.** Three interlocking challenges dominate: **[[curriculum-design|curriculum]] coherence** (AI tools adopted in isolation rather than aligned with outcomes and [[assessment]] frameworks), **educator readiness** (disparities in pedagogical competence, [[ethics|ethical]] judgment, and [[assessment]] literacy), and **[[assessment]] validity / instructional authenticity** (harder to evidence genuine learning and maintain [[academic-integrity|academic integrity]] in AI-mediated environments).
 
-- **Generative AI demands authentic, process-oriented assessment.** The co-occurrence of generative-AI themes with [[assessment]] and integrity terminology signals an emerging tension: instead of misconduct prevention, the literature increasingly stresses [[authentic-assessment|authentic, process-visible assessment]] aligned with intended [[learning-gains|learning outcomes]] — tasks requiring interpretation, contextual application, and iterative refinement that resist automation.
+- **Generative AI demands authentic, process-oriented assessment.** The co-occurrence of generative-AI themes with [[assessment]] and integrity terminology signals an emerging tension: instead of misconduct prevention, the literature increasingly stresses [[authentic-assessment|authentic]] and [[process-oriented-assessment|process-visible]] assessment aligned with intended [[learning-gains|learning outcomes]] — tasks requiring interpretation, contextual application, and iterative refinement that resist automation.
 
 - **Bibliometric synthesis complements narrative reviews.** Because the dataset is large (213 articles), longitudinal (2015–2024), and methodologically replicable, the review offers a system-level map that narrative literature reviews miss, providing an empirical foundation for future research agendas and strategic educational reform.
 
@@ -59847,7 +59954,7 @@ Abdelghani, R., Kaiser, P., & Murayama, K. (2026). [From Prompting to Epistemic 
 
 ## What this means for practice
 
-- **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[authentic-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
+- **Curriculum designers.** Align each AI tool with published program outcomes and [[assessment]] criteria before adoption, and prefer [[process-oriented-assessment|process-visible tasks]] over artifact-based ones, since the review's most persistent failure is isolated tool use inside otherwise unchanged [[curriculum-design|curriculum]] and assessment structures.
 - **Administrators.** Fund sustained [[educational-development|educator development]] in pedagogical competence, ethical judgment, and assessment literacy ahead of tool procurement, because educator readiness recurs as an unresolved gap in every cluster rather than a one-off training need.
 - **Researchers.** Build next studies on the four bibliographic-coupling clusters and three co-word trends, targeting the curriculum-coherence, educator-readiness, and assessment-validity gaps instead of adding another single-tool case.
 
@@ -63856,7 +63963,7 @@ Micallef, N., & Petrovska, O. (2026). [Structuring Transparency: Developing Doma
 
 This is a conceptual hypothesis-and-theory paper rather than an empirical study. Its model is derived through a focused integrative interdisciplinary synthesis of literature from higher education, educational technology, learning sciences, [[learning-design|instructional design]], cognitive psychology, policy, ethics, and institutional governance, analyzed inductively and deductively rather than as an exhaustive [[meta-analysis-systematic-review|systematic review]]. The result is a nested, multi-level model with three interdependent layers. The student, instructor, and GenAI are arranged around a central *shared didactic mediation space* — the arena where task design, prompting, GenAI outputs, feedback, verification, revision, reflection, and assessment are enacted — in which interaction, negotiation, co-regulation, and production operate as interconnected processes, and knowledge construction emerges from students' active meaning-making across human participants, AI outputs, disciplinary criteria, and institutional expectations. Higher education institutions form a governance layer that enables, constrains, legitimizes, and regulates the triad through curriculum and assessment structures, policies, infrastructure, professional development, procurement, data protection, and accountability; they are expected to act adaptively toward emergent risks while staying anchored in institutional aims, especially because student GenAI use often happens beyond managed platforms. Around them, an outer ecosystem of accreditation bodies, employers, policymakers, regulators, technology providers, and platform companies shapes institutional governance indirectly through professional expectations, [[regulation|regulatory]] frameworks, labor-market demands, and procurement dependencies.
 
-The model integrates four theoretical perspectives: sociotechnical and ecosystem (sociotechnical theory, [[activity-theory-aied|activity theory]]), instructor-design ([[tpack]]), learning-mediation ([[sociocultural-learning|sociocultural theory]], [[distributed-cognition|distributed cognition]], [[scaffolding]], cognitive load theory, [[icap-framework|ICAP]]), and inclusive-relational ([[universal-design-for-learning|UDL]], [[community-of-inquiry|Community of Inquiry]]). Five researchable propositions operationalize it: (1) structured, instructor-designed tasks that require verification and reflection strengthen GenAI-mediated learning and transfer; (2) instructor role transformation depends on AI literacy, TPACK, professional agency, and institutional support; (3) students become AI-literate co-constructors of knowledge when they are progressively supported across a program of study; (4) AI-transparent, process-oriented assessment design aligned with learning outcomes improves learning quality, learner agency, and academic integrity; and (5) institutional governance and infrastructure enable responsible triadic pedagogy when they provide clear policy, equitable access, data protection, professional development, [[human-in-the-loop-ai|human oversight]], and accountability. The model is discipline-sensitive, illustrated across [[medical-education|medicine]], law, creative arts, business and management, engineering, and [[teacher-education|teacher education]].
+The model integrates four theoretical perspectives: sociotechnical and ecosystem (sociotechnical theory, [[activity-theory-aied|activity theory]]), instructor-design ([[tpack]]), learning-mediation ([[sociocultural-learning|sociocultural theory]], [[distributed-cognition|distributed cognition]], [[scaffolding]], cognitive load theory, [[icap-framework|ICAP]]), and inclusive-relational ([[universal-design-for-learning|UDL]], [[community-of-inquiry|Community of Inquiry]]). Five researchable propositions operationalize it: (1) structured, instructor-designed tasks that require verification and reflection strengthen GenAI-mediated learning and transfer; (2) instructor role transformation depends on AI literacy, TPACK, professional agency, and institutional support; (3) students become AI-literate co-constructors of knowledge when they are progressively supported across a program of study; (4) AI-transparent, [[process-oriented-assessment|process-oriented assessment]] design aligned with learning outcomes improves learning quality, learner agency, and academic integrity; and (5) institutional governance and infrastructure enable responsible triadic pedagogy when they provide clear policy, equitable access, data protection, professional development, [[human-in-the-loop-ai|human oversight]], and accountability. The model is discipline-sensitive, illustrated across [[medical-education|medicine]], law, creative arts, business and management, engineering, and [[teacher-education|teacher education]].
 
 ## What this means for practice
 
@@ -65330,7 +65437,7 @@ Three themes emerged from inductive content analysis:
 3. **Different needs for professional development.** Pre-service teachers found 8 hours sufficient for starting their careers, while experienced teachers reported the course was too short to change deep-seated habits and requested long-term, mentor-based support.
 
 ## Discussion
-The authors interpret the large effects through the lens of focus on immediate, operational classroom needs (such as AI-cheating) and the program's success in converting conceptual into procedural knowledge. The rubric component functions as a "defensive mechanism" against AI challenges, confirming the priority of [[authentic-assessment|process-oriented assessment]] in the AI era. The experience-based difference aligns with Rogers' (2003) [[technology-acceptance-model|Diffusion of Innovations]] theory: pre-service teachers act as early adopters with high cognitive flexibility who add a new skill, whereas experienced teachers must unlearn and replace established PCK — an inherently slower change in [[adult-learning]] contexts.
+The authors interpret the large effects through the lens of focus on immediate, operational classroom needs (such as AI-cheating) and the program's success in converting conceptual into procedural knowledge. The rubric component functions as a "defensive mechanism" against AI challenges, confirming the priority of [[process-oriented-assessment|process-oriented assessment]] in the AI era. The experience-based difference aligns with Rogers' (2003) [[technology-acceptance-model|Diffusion of Innovations]] theory: pre-service teachers act as early adopters with high cognitive flexibility who add a new skill, whereas experienced teachers must unlearn and replace established PCK — an inherently slower change in [[adult-learning]] contexts.
 
 ## What this means for practice
 
@@ -65370,7 +65477,7 @@ Talebzadeh, H. (2026). [*Efficacy of an Intensive Generative AI Professional Dev
 
 ## [Distinguishing performance gains from learning when using generative AI](https://edtechdev.github.io/aied/articles/genai-performance-vs-learning/)
 
-> **Synthesis:** Yan, Greiff, Lodge and Gašević argue that the field is measuring the wrong thing. [[generative-ai|Generative AI]] reliably raises *performance* — the observable output of a task carried out with the tool's support — while the evidence that it produces *learning*, an enduring change evidenced by independent retention and transfer, is largely missing. Their worked example is the literature's own headline number: a meta-analysis of 69 experimental studies reported that ChatGPT and similar tools improve student "[[learning-gains|academic performance]]" with a large effect of *g* = 0.7, yet the outcomes pooled were immediate task success rather than delayed, unassisted measures of what [[learners]] retained. They then walk through the three psychological processes that durable learning depends on — cognitive load, [[metacognition]], and [[self-efficacy]] — and show that generative AI can reduce the first, displace the second, and inflate the third while leaving learning untouched. The piece is a two-page comment in *Nature Reviews Psychology*, so it contributes framing rather than new data: a vocabulary for the conflation, and a research agenda built on process-oriented assessment.
+> **Synthesis:** Yan, Greiff, Lodge and Gašević argue that the field is measuring the wrong thing. [[generative-ai|Generative AI]] reliably raises *performance* — the observable output of a task carried out with the tool's support — while the evidence that it produces *learning*, an enduring change evidenced by independent retention and transfer, is largely missing. Their worked example is the literature's own headline number: a meta-analysis of 69 experimental studies reported that ChatGPT and similar tools improve student "[[learning-gains|academic performance]]" with a large effect of *g* = 0.7, yet the outcomes pooled were immediate task success rather than delayed, unassisted measures of what [[learners]] retained. They then walk through the three psychological processes that durable learning depends on — cognitive load, [[metacognition]], and [[self-efficacy]] — and show that generative AI can reduce the first, displace the second, and inflate the third while leaving learning untouched. The piece is a two-page comment in *Nature Reviews Psychology*, so it contributes framing rather than new data: a vocabulary for the conflation, and a research agenda built on [[process-oriented-assessment|process-oriented assessment]].
 
 ## Core Argument
 
@@ -72711,6 +72818,77 @@ Manikonda, L., & Outlaw, D. (2026). [*Policy Fragmentation or Institutional Alig
 
 ---
 
+## [AI in Action Learning Tour](https://edtechdev.github.io/aied/articles/instruction-partners-ai-in-action-learning-tour-2026/)
+
+> **Synthesis:** Instruction Partners spent the 2025–26 school year studying 20 student-facing [[ai-education|AI-powered instructional products]] already in use across at least 1,000 school systems, observing 32 classrooms in 16 school systems across seven states and interviewing 50+ teachers, 25+ school and system leaders and 100+ students. This is a report, not a peer-reviewed study: its judgments come from fieldwork rather than measured effect sizes. Three product categories emerged: three general-purpose chatbots, five education-focused multipurpose platforms and 13 targeted instructional tools. The report's sharpest claim is that the chatbots pose the clearest threat to student thinking, because they make it easy to bypass the reasoning and [[productive-failure|productive struggle]] learning requires while appearing to complete the work. Its procurement number is sobering: seven products have independent reviews that examine student achievement across student groups in the US. Teachers stayed central, implementation mattered as much as design, and the recommended actions are the authors' proposals rather than findings.
+
+## Key Findings
+
+1. **Products in use, not in demonstration.** The team observed 32 classrooms in 16 school systems across seven states, with 50+ teacher, 25+ school and system leader and 100+ student interviews.
+2. **Three categories of product.** Three of the 20 are general-purpose chatbots, five are multipurpose platforms and 13 are targeted instructional tools; the chatbots pose the clearest threat to student thinking.
+3. **Independent evidence is thin.** Of the 16 profiled products, seven have independent reviews checking achievement across student groups in the US; two studied abroad, four have studies underway and three rely on internal data.
+4. **Teacher-role design tracked with use.** Nine of the 16 profiled products specify teacher actions during use and were used closer to their intended approach; all 13 targeted tools have a teacher dashboard.
+5. **The same product can land well or badly.** Activities diverged by classroom according to how the teacher framed the purpose, whether they watched the dashboard, and how fast they acted on it.
+6. **Users valued feedback they could act on.** Fast, specific, individualized feedback that pushed students back into thinking drew the most praise; teachers objected to loopholes that faked mastery and feedback that misread correct work.
+
+## Three product categories, one clear source of risk
+
+The general-purpose chatbots, ChatGPT, Claude and Gemini, are [[generative-ai|generative AI]] tools with different access rules: ChatGPT limits access below the age of 13 and requires parental consent for 13–17 year-olds, Anthropic restricts Claude to account holders who are 18+, and Google allows some [[k-12|K–12]] students to use Gemini. Five of the 20 are education-focused [[edtech-platform|multipurpose platforms]], so what students see depends on what a teacher or system assembles. Thirteen are targeted instructional tools: five for multiple subjects, four for literacy and four for math. The report found those targeted tools produced the strongest and most consistent experiences, and that products with a clearer point of view about the [[teacher-role|teacher's role]] were used more consistently.
+
+## Implementation decides whether a product helps
+
+The report is emphatic that implementation matters as much as design. The same product produced different experiences depending on how the assignment was introduced, what the teacher did while students worked, and how the teacher used what the tool reported. The strongest implementations shared conditions: a clear point in the scope and sequence, scheduled time, predictable routines, logistics settled in advance, and a clear vision for teacher actions during use. Where those were missing, ten-minute activities dragged out all class, parts meant to be informal and social were graded as assignments, and teachers inserted moves that kept students from attempting the work independently. Teachers needed sustained [[teacher-ai-competency|coaching]], not one rollout session, and where leaders knew a product well, teachers took the desired actions more often. That is [[change-management|change management]] work, and the loopholes teachers complained about are [[ai-misuse-learning-harm|misuse that harms learning]].
+
+## What the evidence base does and does not support
+
+Of the 16 products with complete profiles, seven have independent reviews that examine student achievement across student groups in the US, two have conducted studies outside the US, four have external studies underway and three look only at internal data. The authors argue that independently evaluated causal studies, covering priority groups, should be the expectation for all student-facing products, which puts [[interpreting-and-applying-aied-research|interpreting the evidence]] in adoption decisions. In literacy, benefits included more writing practice with faster feedback and precise diagnosis of letter sound combinations, while risks included practice disconnected from any text and easy text releveling that lowers cognitive demand. In math, products that captured reasoning rather than only final answers let teachers see thinking, but misdiagnosed misconceptions sent students back to relearn material they already knew.
+
+## What this means for practice
+
+- **School and system leaders.** Set [[guardrails]] through policy: state where AI has a role in instruction and where it does not, and lock down chatbot access during assignments and assessments.
+- **Before adopting anything, inventory the program.** Start from gaps in your instructional program rather than shopping, pilot at one grade, and decide upfront what conditions a product must meet to scale.
+- **Teachers.** Frame tool use as learning rather than completion, monitor the dashboard during the lesson, and keep the AI an assistant to a goal you set and assess.
+- **Product developers and funders.** Treat implementation as a design problem by specifying what teachers should do during use, and fund independent studies before treating impact claims as established.
+
+## Limitations
+
+- This is a report, not peer-reviewed research: it is qualitative and reports no control conditions, effect sizes or standardized outcome measures.
+- The sample was not selected scientifically: products came from what partner systems were already using plus a market scan built to vary grade levels, subjects and designs.
+- Several counts describe the 16 products with complete profiles rather than all 20, and the authors plan to revise the analysis as the tour continues.
+- The report states that it did not analyze data privacy, technical integration, pricing, how products promote [[ai-literacy]], or environmental impact.
+
+## Connected Concepts
+
+- [[ai-education]]
+- [[generative-ai]]
+- [[teacher-role]]
+- [[student-ai-interaction]]
+- [[student-experience]]
+- [[productive-failure]]
+- [[pedagogical-safety]]
+- [[guardrails]]
+- [[ai-misuse-learning-harm]]
+- [[teacher-ai-competency]]
+- [[change-management]]
+- [[edtech-platform]]
+- [[critical-thinking]]
+- [[multilingual-learning]]
+- [[interpreting-and-applying-aied-research]]
+
+## Connected Articles
+
+- [[wang-safety-gap-productive-struggle-2026]] — the safety gap between AI-supported performance and the productive struggle learning requires
+- [[one-click-away-khanmigo-two-year-school-experiment-2026]] — a two-year school experiment with one of the targeted tools named in this report
+- [[thapa-lewis-process-oriented-assessment-2026]] — designing tasks so that reasoning, not polished output, is what gets assessed
+- [[ai-tools-academic-work-cheating-2026]] — what students themselves count as cheating when AI tools are involved
+- [[human-centered-ai-teacher-educators-2026]] — professional learning that keeps the teacher in the lead when AI enters the classroom
+
+## Citation
+
+Instruction Partners. (2026). [AI in Action Learning Tour](https://ailearningtour.instructionpartners.org/). Report, not peer reviewed. Written chiefly by Emily Freitag and Doe Kim.
+
+---
+
 ## [Instructional Agents: Reducing Teaching Faculty Workload through Multi-Agent Instructional Design](https://edtechdev.github.io/aied/articles/instructional-agents-multi-agent-course-gen/)
 
 > **Synthesis:** Instructional Agents is a multi-agent [[llm|LLM]] framework that automates end-to-end course material generation by simulating role-based collaboration among [[teacher-role|Teaching]] Faculty, Instructional Designer, Teaching Assistant, Course Coordinator, and Program Chair agents, all structured around the ADDIE [[learning-design|instructional design]] framework. Evaluated across 5 university courses, the system supports four modes (Autonomous, Catalog-Guided, Feedback-Guided, Full Co-Pilot) balancing automation and [[human-in-the-loop-ai|human oversight]].
@@ -76528,7 +76706,7 @@ Sahana Varadaraju, & Bharathwaj Vijayakumar (2026). [Beyond Compliance: A Propos
 - **Instructional designers.** Require students to interrogate, verify, and extend GAI output — comparing AI summaries with their own readings, naming missing arguments and biases — so GAI operates as a cognitive [[scaffolding|scaffold]] rather than a cognitive substitute.
 - **Educators.** Involve students in co-designing curricula, assessments, and rubrics and in decisions about GAI use, using the framework's Engagement dimension to convert instruction into authentic experience.
 - **Educators.** Build reflection into the task sequence through learning journals, think-aloud protocols, and reflective essays, treating reflection as the metacognitive engine for consolidating knowledge and ethical self-regulation.
-- **Administrators.** Revise academic-integrity policy to recognize documented, transparent AI use as an emerging literacy rather than presumptive misconduct, and shift institutional effort from [[ai-detection|detection]] toward process-oriented assessment.
+- **Administrators.** Revise academic-integrity policy to recognize documented, transparent AI use as an emerging literacy rather than presumptive misconduct, and shift institutional effort from [[ai-detection|detection]] toward [[process-oriented-assessment|process-oriented assessment]].
 
 ## Limitations
 
@@ -83341,7 +83519,7 @@ Parker, L., Loper, A. J., Carter, C. W., Hayes, J., & Karakas, A. (2026). [Longi
 - **Instructors.** Teach non-substitutive, self-regulated use directly, because more frequent AI use (OR = 0.669) and stronger perceived learning support (OR = 0.581) each lowered the odds of students labeling AI use as fraud, while perceived dependence rather than frequency tracked reported academic failure.
 - **Learners.** Treat unresolved disagreement as a reason to ask rather than to guess: 135 of 357 respondents were undecided about the fraud framing while most of them used AI almost always.
 - **Administrators.** Publish assignment-level boundaries, fund [[ai-literacy|AI literacy]] work around authorship and dependence, and address inequitable access to academic support; read the creativity concern behind stricter judgments (OR = 1.498, p < 0.001) as a teaching topic rather than grounds for a ban.
-- **Researchers.** Test whether disclosure templates, oral defenses, or process-based assessment reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
+- **Researchers.** Test whether disclosure templates, oral defenses, or [[process-oriented-assessment|process-based assessment]] reduce ethical uncertainty among undecided students, using mixed-method or longitudinal designs instead of another single-campus survey.
 
 ## Limitations
 
@@ -88917,6 +89095,141 @@ Nash, B. L., & Burriss, S. K. (2026). [*Writing the rules for generative machine
 
 ---
 
+## [Who Gives Feedback Matters: Student Biases Towards Human and AI-Generated Formative Feedback](https://edtechdev.github.io/aied/articles/nazaretsky-feedback-source-bias-2025/)
+
+> **Synthesis:** Nazaretsky, Mejia-Domenzain, Swamy, Frej and Käser ask a narrow question with a practical consequence: does telling students who wrote their [[feedback]] change how they rate it? At EPFL, 472 students across six courses rated two variants of feedback on their own coursework, one from the teaching team and one generated with GPT-4.0, first without knowing the source and then again after it was revealed. Most could not reliably tell them apart: 287 out of 472 guessed correctly. In blind conditions the two variants scored almost the same. Once the label was disclosed, students lowered their ratings of the [[ai-feedback-quality|AI feedback]] and raised their ratings of the human feedback, with the fall statistically significant for Genuineness (authentic, sincere) but not for Objectivity or Usefulness. On credibility, human providers were rated 3.28 (σ = 0.77) against 2.25 (σ = 0.85) for AI, a medium effect (Cohen's d = 0.57). The bias the study documents attaches to the source, not to the text, which the authors kept deliberately comparable.
+
+## Key Findings
+
+1. **A within-subject experiment in real courses.** Four-hundred and seventy two EPFL students in six courses rated feedback on their own assignments in fall 2023, once blind to the source and once after disclosure.
+2. **Students could barely identify the source.** In total, 287 out of 472 guessed the feedback provider correctly. Only ICC1 (79% correct, n = 65) and ASE (80% correct, n = 70) beat chance after Bonferroni correction; AICC reached 54% and ADA 43%.
+3. **Blind ratings of the two variants were close.** Across Objectivity, Usefulness and Genuineness, students rated AI and human feedback similarly while blind, and the paper's companion quality analysis found the two variants comparable.
+4. **Disclosure moved ratings in opposite directions.** After the source was revealed, students increased scores for human feedback and decreased them for AI feedback. The decline was statistically significant for Genuineness (p < .01), the dimension measured by "authentic" and "sincere".
+5. **Credibility showed the clearest source effect.** Human providers were rated more credible (μ = 3.28, σ = 0.77) than AI (μ = 2.25, σ = 0.85), a medium effect (Cohen's d = 0.57), with human identity correlating positively with credibility (p < .001).
+6. **Low-rated human feedback was read as AI.** Of 219 instances of human feedback seen as low quality, 205 were misperceived as AI and only 14 were correctly identified as human; of 325 AI feedback instances only 40 were misattributed to humans.
+
+## How the experiment held content constant
+
+The comparison was built inside courses rather than a lab. Six EPFL courses supplied pre-existing assignments and genuine student answers. Human feedback came from the original teaching teams. The AI variant was generated with the GPT-4.0 Interface using a standardized ROLE-CONTEXT-INSTRUCTION-FORMAT prompt that cast the model as "an excellent instructor", then adjusted per course for length and language and stripped of any greeting or sign-off. Students saw both variants blind, guessed the source in a one-attempt Turing Test, then re-rated the content after the truth was revealed. Instrument 1 scored Objectivity, Usefulness and Genuineness, and Instrument 2 scored provider Credibility, all on a 0-4 Likert scale. Reliability was good to excellent: Cronbach's α was 0.82 for Objectivity, 0.87 for Usefulness, 0.91 for Genuineness and 0.85 for Credibility.
+
+## The cues students used to read the source
+
+Of 447 usable responses to the open-ended question, 355 (79.4%) referenced pedagogical features and 250 (56%) referenced surface ones. Objectivity dominated: 177 students discussed it, and among the 95 who commented on precision only 18 attributed imprecise feedback to humans. Accuracy was another tell, with 61 of 64 students who judged feedback inaccurate attributing it to AI. Genuineness was the most lopsided, where 94 of 99 students attributed a warm communication style to humans and all 45 who found feedback overly praising attributed it to AI. Grammatically flawless feedback (n = 91) was attributed to AI with no exceptions, while typos and poor formatting (n = 34) were always assigned to humans.
+
+## The bias is about the provider, not the text
+
+The paper's companion quality analysis is what makes the pattern interpretable: the AI and human variants were comparable on correctness and cognitive quality, and the AI version actually offered more [[metacognition|metacognitive]] suggestions and delivered praise more often. Students nevertheless attached superior feedback to human providers and the absence of it to AI, so a source that produced equivalent text was judged on an assumption rather than on what it wrote. Students who failed the Turing Test, by rating AI feedback higher than human feedback while blind, reduced their AI scores and raised their human scores once the source was known. The authors describe a bidirectional influence in which perceived quality shapes perceived identity, and perceived identity then reshapes perceived quality.
+
+## What this means for practice
+
+- **Instructors.** Do not assume acceptance follows quality. Feedback held comparable to the human version was rated lower once labeled AI, so resistance to an AI draft is not evidence that the draft is bad.
+- **Course teams.** Disclose that [[generative-ai|generative AI]] was used and what a human checked. The authors call concealing the source unethical and argue that transparency teaches students to recognize and handle AI errors.
+- **Designers.** Build student [[ai-literacy|AI literacy]] and [[feedback-literacy|feedback literacy]], since only six students mentioned the metacognitive value of feedback that the AI variant supplied more of.
+- **Administrators.** Plan [[human-in-the-loop-ai|human-in-the-loop]] review rather than automatic delivery: the barrier documented here is perceptual, so pair AI drafts with human validation.
+
+## Limitations
+
+- The sample is 472 students at one institution, EPFL, and may not capture the diversity of educational contexts and demographics, particularly underrepresented groups such as non-binary students.
+- Prior experience with generative AI, knowledge levels and task complexity were not accounted for.
+- Perceptions were captured at a single time point and the study did not measure feedback uptake, so it cannot show whether students act differently on feedback they know came from AI.
+
+## Connected Concepts
+
+- [[ai-feedback-quality]]
+- [[feedback]]
+- [[trust]]
+- [[bias-mitigation]]
+- [[human-ai-collaboration]]
+- [[formative-assessment]]
+- [[generative-ai]]
+- [[student-ai-interaction]]
+- [[llm]]
+- [[ai-literacy]]
+- [[feedback-literacy]]
+- [[evaluative-judgment]]
+- [[technology-acceptance-model]]
+
+## Connected Articles
+
+- [[perceptions-teacher-vs-ai-feedback-bias-2026]] — The teacher-side counterpart, with the same identical-feedback, randomized-label design
+- [[genai-teacher-feedback-comparison]] — Student perceptions of generative AI versus teacher feedback, the comparison this experiment isolates
+- [[ai-vs-human-assessment-efl-tpck-2026]] — AI-generated versus human-developed assessment tasks through the TPCK frame
+- [[liu-deris-ai-feedback-literacy-uptake]] — Whether students act on AI feedback, the behavior this study did not measure
+
+## Citation
+
+Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). [Who Gives Feedback Matters: Student Biases Towards Human and AI-Generated Formative Feedback](https://doi.org/10.1111/jcal.70153). Journal of Computer Assisted Learning.
+
+---
+
+## [The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions](https://edtechdev.github.io/aied/articles/nazaretsky-trust-instrument-ai-edtech-2025/)
+
+> **Synthesis:** Trust is routinely named as the barrier to AI adoption in education, yet most studies measure it with a single item or a one-dimensional scale, which makes results hard to compare or replicate. Nazaretsky and colleagues at EPFL answer that gap with an instrument development and validation study. Drawing on multidimensional [[trust]] frameworks, they built 27 five-level Likert items, then ran exploratory factor analysis on 373 English-language responses and confirmatory factor analysis on 292 French-language responses. Four factors emerged: Perceived Usefulness, Perceived Obstacles, Perceived Readiness, and Perceived Trust, retaining 21 items. Structural equation modeling on 270 responses showed that trust lifts perceived usefulness both directly and through readiness, while perceived obstacles did not significantly reduce either. Across 665 students, trust sat near the neutral point (3.31 of 5) even as usefulness scored higher (3.62), an actionable gap: trust, not utility, is the constraint for course and program design to address.
+
+## Key Findings
+
+1. **The instrument measures trust as four factors, not one.** EFA and CFA on 665 student responses produced 21 reliable items across Perceived Usefulness (6 items), Perceived Obstacles (7), Perceived Readiness (2), and Perceived Trust (6).
+2. **Trust raised perceived usefulness directly and through readiness.** SEM on the confirmatory sample (N = 270) accepted H-TU (standardized estimate 0.45, p = .0006), H-TR (0.58, p < .0001), and H-RU (0.44, p < .0001).
+3. **Perceived obstacles did not reduce trust or readiness.** The hypothesized negative paths were not significant (H-OT standardized -0.09, p = .43; H-OR -0.13, p = .14), so the authors rejected both hypotheses.
+4. **Students trusted AI-EdTech only slightly above neutral.** Across all 665 students, Perceived Trust averaged 3.31 (σ = 0.66) on a 5-point scale, below Perceived Usefulness at 3.62 (σ = 0.68) and Perceived Readiness at 3.74 (σ = 0.86).
+5. **Demographics explained little of the variation.** Regression R² values were 8% for Perceived Usefulness, 5% for Obstacles, 2% for Readiness, and 1% for Trust, though male students reported lower obstacles (p < .001).
+6. **Students preferred teacher judgment over AI recommendations.** On item PT6, which asks whether they rely on an AI tool as much as on their teacher, the mean was 2.60 (σ = 1.13) on a 5-point scale.
+
+## What the four factors measure
+
+The instrument separates the perceived trustworthiness of the tool from the characteristics of the student who trusts it. Perceived Usefulness (items PB1 to PB6) is the performance side: personalized [[feedback]], adapted tasks, help preparing for exams. Perceived Obstacles (PO4 to PO10) is the moral side: transparency of AI reasoning, data collection, [[privacy]], and ethical risk. Perceived Readiness (PR1, PR2) captures confidence and willingness to use AI for [[personalized-learning|personalized learning]], drawing on [[self-efficacy]], and Perceived Trust (PT1 to PT6) captures intent to trust across situations. The first two come from established multidimensional trust frameworks, the last two from the truster's [[ai-literacy]] and readiness. That split is what lets a reader score usefulness and obstacles separately from the student's own disposition.
+
+## How the instrument was developed and validated
+
+Items were written top-down from existing trust models, prior AI-EdTech adoption research, the earlier teacher-facing instrument (Nazaretsky et al., 2022b), and practitioner discussions, then piloted with four educational experts and ten university students. The EFA used 373 English-language responses; after removing 28 multivariate outliers it ran on 345, with Kaiser-Meyer-Olkin = 0.76 and Bartlett's test χ² = 2076.94 (p < .0001). Horn's parallel analysis suggested five factors, which reliability checks reduced to four. The CFA used 292 French-language responses, and after removing 22 outliers, 270. The initial four-factor model fit poorly (RMSEA = 0.083, CFI = 0.915); after index modification it fit well (RMSEA = 0.050, SRMR = 0.068, TLI = 0.966, CFI = 0.972), which supports the [[assessment-validity]] of the retained 21 items.
+
+## What the model shows and where students land
+
+Using 10-fold cross-validation on the 270 confirmatory responses, the SEM kept the direct trust-to-usefulness path (standardized 0.45), the trust-to-readiness path (0.58), and the readiness-to-usefulness path (0.44); the two obstacle hypotheses failed. The authors place trust upstream of usefulness, the reverse of how the [[technology-acceptance-model]] usually reads adoption: rather than usefulness driving intention, trust is the precondition that shapes how useful the tool looks. On the full sample, Perceived Trust averaged 3.31 (σ = 0.66), below Usefulness at 3.62 (σ = 0.68), Readiness at 3.74 (σ = 0.86), and Obstacles at 3.79 (σ = 0.60). The highest single item was PO3, that AI does not know a student's learning history outside the system (4.00, σ = 0.91). Open responses from 175 students added AI-supported [[creativity]] as a benefit (N = 22) and over-reliance as a risk (N = 20), both of which the next version will cover.
+
+## What this means for practice
+
+- **Instructors.** Run the four subscales before introducing a tool: a cohort can rate usefulness high and trust low, and the low-trust subscale shows which concern to address first.
+- **Educational technology developers.** Treat transparency and data practice as adoption features, since the transparency and privacy items (PO4 to PO10) form the obstacle factor students report most strongly.
+- **Administrators and AI-literacy programs.** Pair rollout with AI literacy teaching: 74% of students agreed that personalizing their learning with AI would require new skills such as recognizing AI mistakes and biases.
+- **Researchers.** Adopt the published item set and factor structure so trust findings accumulate across institutions instead of remaining one-off scales.
+
+## Limitations
+
+- Trust here is [[self-report-measures|self-reported]] perception, not behavior: the instrument records what students say about trusting AI-EdTech, not how they verify or rely on it in practice.
+- Validation is single-institution and STEM-only (665 EPFL students across eight courses), and the authors state that their next step targets a broader student demographic.
+- Perceived Readiness rests on two items only (PR1, PR2), a weakness the authors intend to extend in the next version of the instrument.
+
+## Connected Concepts
+
+- [[trust]]
+- [[trust-calibration]]
+- [[technology-acceptance-model]]
+- [[ai-literacy]]
+- [[self-efficacy]]
+- [[ai-technologies]]
+- [[assessment-validity]]
+- [[educational-measurement]]
+- [[self-report-measures]]
+- [[student-experience]]
+- [[higher-ed]]
+
+## Connected Articles
+
+- [[trust-reliance-ai-education-2026]] — trust and reliance on AI in education, with AI literacy and need for cognition as moderators
+- [[trust-calibration-chatbots-design-problem-2026]] — trust calibration framed as a design problem rather than a user deficit
+- [[calibrating-trustworthiness-llm-education-2026]] — co-designed metrics and visualizations for judging when a language model can be trusted
+- [[task-context-trust-educational-hri-2026]] — what a system does matters more than how it looks for trust in educational robotics
+- [[trust-in-ai-psychological-profiles-ml-2026]] — clustering university students by the psychological profiles associated with AI trust
+- [[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai]] — teacher and student views of control and agency diverge around classroom AI
+- [[fouad-bentley-trust-utility-gap-physics-2026]] — students adopt AI while remaining skeptical, a domain-specific trust-utility gap
+
+## Citation
+
+Nazaretsky, T., Mejia-Domenzain, P., Swamy, V., Frej, J., & Käser, T. (2025). [The critical role of trust in adopting AI-powered educational technology for learning: An instrument for measuring student perceptions](https://doi.org/10.1016/j.caeai.2025.100368). *Computers and Education: Artificial Intelligence*, 8, 100368.
+
+---
+
 ## [Cognitive Offloading in the Age of AI: Are Students Thinking Less or Learning Differently?](https://edtechdev.github.io/aied/articles/nesnin-cognitive-offloading-ai-students-2026/)
 
 > **Synthesis:** **AI is not necessarily making students think less — it is transforming the way they learn.** Nesnin et al.'s (2026) analytical review of recent [[research-methods-aied|research]] weighs the two dominant perspectives on AI-assisted learning and [[cognitive-offloading]]: AI as a supportive [[pedagogical-agent|learning companion]] that enhances personalization, [[accessibility]], and efficiency versus AI as a driver of excessive dependence that weakens deep learning, independent reasoning, and long-term memory retention. The conclusion is conditional: AI's educational impact depends on *how* it is used — whether it supports cognitive [[student-engagement|engagement]] or replaces independent thinking.
@@ -91040,6 +91353,79 @@ The work began with a [[formative-assessment|formative]] study in the Chinese ho
 ## Citation
 
 Lan Luo, Anqi Wang, Muzhi Zhou, Junhua Zhu, Jie Cai, Ao Yu, Hui Pan (2026). [ParaTutor: LLM Mediated Parent Child Tutoring through Role Separated Scaffolding Interface in Real Time](https://arxiv.org/abs/2606.18030). arXiv cs.HC.
+
+---
+
+## [Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers](https://edtechdev.github.io/aied/articles/parlant-emotional-micro-interventions-2026/)
+
+> **Synthesis:** Higher education instructors are told that emotion shapes learning, but not what to say in the next 30 seconds when a student's [[anxiety-and-stress|anxiety]] threatens to end their engagement. Parlant, a single author writing from a business school, offers a practitioner guide to emotional micro-interventions: brief, deliberate verbal or gestural acts that validate a student's feeling, reframe the appraisal behind it, and reconnect the struggle to professional identity. The framework rests on cognitive appraisal theory and [[situated-learning]], and on the metaphor of the instructor as expedition guide, at once content expert, group dynamist and logistical scout. Its centerpieces are a terrain map pairing bottlenecks with target states, a phrasebook of sample responses, and a pre-class scouting ritual of 10 to 15 minutes. One section describes adapting the phrases with [[generative-ai]]. The guide states plainly that the framework does not require AI, and that its evidence is the author's reflective practice rather than measurement.
+
+## Key Findings
+
+1. **The gap is the verbal move, not the theory.** Research establishes that emotions shape learning, yet offers few prescriptions for what an instructor should say in real time when a student is overwhelmed.
+2. **A micro-intervention performs three simultaneous functions.** A brief response validates the student's emergent emotional state, reframes their appraisal of the situation, and connects the struggle to a larger learning narrative.
+3. **Cognitive appraisal theory explains the mechanism.** It targets the primary appraisal ("is this a threat?") and the secondary appraisal ("can I cope?"), acting as an external prosthesis for a student whose attention is consumed by distress.
+4. **The terrain map pairs bottlenecks with target states.** Frustration with resilience and [[self-efficacy]], isolation with belonging, anxiety with manageability, boredom with relevance, and imposter syndrome with legitimate participation.
+5. **The framework is offered as learnable, not innate.** A pre-class scouting ritual of 10 to 15 minutes asks instructors to name two or three bottlenecks per session and prepare a response for each.
+6. **The phrasebook is generative, not a script.** A "Minimum Viable Pep Talk" set is grouped by situation, and the paper states its lines work when they are ultra-specific, action-oriented, time-boxed, permission-giving and metaphor-rich.
+7. **Generative AI is offered as one optional co-creation route.** A short prompt sequence drafts student monologues and responses, which the instructor curates and personalizes; the paper calls this brainstorming rather than outsourcing.
+
+## What an emotional micro-intervention does
+
+The guide opens with a scene rather than a definition. A student named Alex stares at a command-line error in a required information systems course, weighing whether to close the laptop and disengage. A purely technical response fixes the code and leaves the identity crisis untouched; a dismissively motivational one invalidates the real distress. Parlant defines a micro-intervention as a brief, deliberate instructor response, often verbal and sometimes gestural, that does three things at once: it validates the emotion, reframes the appraisal (the computer is not saying you are wrong, it is speaking poorly), and connects the moment to a larger narrative of learning or of [[professional-training|professional practice]]. The paper's shorthand is Validate, Reframe, Connect.
+
+## The terrain map, the phrasebook, and the guide
+
+The practical core is a diagnostic map. The emotional terrain map pairs negative states with a target positive state: frustration with resilience and [[self-efficacy]]; isolation with belonging; [[anxiety-and-stress|anxiety]] with manageability; boredom with relevance and purpose; and imposter syndrome with legitimate participation. A "Minimum Viable Pep Talk" set is grouped by situation, from defeating a blank screen to persisting through frustration, and a companion list of emotionally powerful verbs replaces dry technical vocabulary with images ("sculpt" the data, "outsmart" the error). The paper grounds this in expertise: teaching in complex domains needs a group dynamist who reads morale and a logistical scout who anticipates mundane failures, alongside the content expert. That role extends Shulman's pedagogical content knowledge into Affective Pedagogical Content Knowledge, the page's clearest link to [[teacher-role|the teacher's role]].
+
+## Co-creating the phrasebook with generative AI
+
+The AI element is a development aid, and its scope is narrow. To widen a repertoire, an instructor can work with generative AI tools such as DeepSeek, Claude or ChatGPT through a short prompt sequence: seed the context with subject, audience, feeling and triggering situation, and ask for the student's likely internal monologue; request a brief, compassionate reframing response for each; then rewrite the best two using metaphors from a related discipline. The instructor curates, adapts and personalizes the output so it matches their own voice. The paper frames this as collaborative brainstorming rather than outsourcing. Nothing in the framework's classroom use depends on AI: the guide metaphor, the terrain map and the Validate, Reframe, Connect pattern stand on their own.
+
+## What this means for practice
+
+- **Instructors.** Name the emotional bottleneck before writing the lesson, then note one or two prepared responses in your lesson plan rather than improvising in the moment.
+- **Faculty developers.** Treat affective navigation as trainable pedagogical expertise, and use the pre-class scouting ritual (roughly 10 to 15 minutes) as a concrete practice to rehearse.
+- **Program and course designers.** Anticipate the mundane failures that drain emotional energy, such as one working download link and a one-page troubleshooting FAQ, because a broken setup defeats any reframing.
+- **Anyone adopting the AI protocol.** Keep the instructor's judgment and voice in the loop: the AI drafts candidates and the instructor decides what rings true for a specific cohort.
+
+## Limitations
+
+- The evidence is preliminary and qualitative: examples are drawn from reflective practice, and the paper calls for empirical study of effects on persistence, self-efficacy and course climate.
+- Authenticity cannot be supplied by the framework. A forced tone can backfire and breed cynicism, so the same phrases will not work for every instructor.
+- Micro-interventions are not a substitute for structural support: they cannot compensate for poor curricula, inadequate resources or systemic inequities, and the direct reframing style may need cultural adaptation.
+
+## Connected Concepts
+
+- [[anxiety-and-stress]]
+- [[social-emotional-learning]]
+- [[self-efficacy]]
+- [[situated-learning]]
+- [[cognitive-psychology]]
+- [[scaffolding]]
+- [[teacher-role]]
+- [[learner-identity]]
+- [[motivation]]
+- [[well-being]]
+- [[higher-ed]]
+- [[professional-training]]
+- [[generative-ai]]
+- [[prompt-engineering]]
+- [[tpack]]
+- [[community-of-inquiry]]
+
+## Connected Articles
+
+- [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — AI anxiety and academic motivation among university students, with emotion regulation as a mediator
+- [[ai-emotional-intelligence-teacher-development-2026]] — emotional intelligence as a force in teachers' professional development
+- [[human-ai-complementarity-social-emotional-learning-2026]] — human and AI roles in early social-emotional learning
+- [[emotion-aware-classroom-iot-monitoring-2026]] — sensing student emotion in the classroom through IoT monitoring
+- [[epistemic-emotions-collaborative-problem-solving]] — epistemic emotions during collaborative problem solving
+- [[personalization-paradox-adaptive-learning-emotions-2026]] — how adaptive learning environments relate to students' emotions
+
+## Citation
+
+Parlant, F. (2026). [Can You Feel It? A Practical Guide to Emotional Micro-Interventions for Higher Education Teachers (and Others)](https://doi.org/10.35542/osf.io/bmh7k_v1). OSF Preprints.
 
 ---
 
@@ -108271,7 +108657,7 @@ Chiu, T. K. F., Bali, S., Tondeur, J., Howard, S., & Chan, K. K. H. (2026). [*Te
 5. A crisis of trust emerged when students submitted raw AI-generated outputs, sometimes without reading or editing them. Riham described losing trust in students displaying skills they did not expect, and Iris called the discovery that thinking tasks had not been attempted "really frustrating."
 6. Orna recounted a case study submitted in the name of a pupil from an entirely different cultural background, with the AI tool's address in the first line, which she called one of the hardest confrontations she has had with students.
 7. Participants named an "authenticity crisis": take-home written work could no longer reliably evidence learning, [[prompt-engineering|prompting]] the question of how to assess students authentically in the age of AI.
-8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and process-based assessment such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
+8. Strategies included moving work into class (flipped classroom, presentations, [[learning-by-teaching|peer teaching]], elevator pitches, in-class visual models) and [[process-oriented-assessment|process-based assessment]] such as examining prompts, Google Docs version history, and DocWiz monitoring of group contributions.
 9. Some returned to non-digital evidence (reflective "journey journals" in physical notebooks, handwritten reflective paragraphs) and, as a last resort, to supervised examinations and anticipated oral thesis defenses; Orna described returning to exams as personally painful but unavoidable.
 10. In field experience, pre-service teachers used AI for differentiated lesson planning: five interviewees directed students to build teaching units with AI and two guided adaptation to specific pupil profiles including [[special-education|special needs]], and students produced digital games, podcasts, visual aids, theorist "bots" they had to train, and [[early-childhood-elementary-ai-education|kindergarten]] learning-corner [[simulation|simulations]].
 11. [[student-experience|Student experiences]] ranged from heightened [[self-efficacy]] to frustration when tools failed complex pedagogic demands; Sarit reported students concluding "I am the teacher, and AI helps me," and Rivka noted AI's value in easing the isolation of student teachers alone in the field.
@@ -109940,6 +110326,88 @@ MuTSE addresses these by letting evaluators toggle prompts and models on the fly
 ## Citation
 
 Roscan, R.-A., Petre, G., Dumitran, A.-M., & Dumitran, A.-L. (2026). [*MuTSE: A Human-in-the-Loop Multi-use Text Simplification Evaluator*](https://arxiv.org/abs/2604.08947).
+
+---
+
+## [Preserving epistemic authenticity: process-oriented assessment in the age of generative AI](https://edtechdev.github.io/aied/articles/thapa-lewis-process-oriented-assessment-2026/)
+
+> **Synthesis:** [[generative-ai|Generative AI]] has made fluent academic prose cheap, and with it the assumption that an unsupervised written submission is evidence of the student's own reasoning. Thapa and Lewis argue that the answer is not better detection but better design. Drawing on [[authentic-assessment]] and [[formative-assessment]], they set out [[process-oriented-assessment|process-oriented assessment]]: tasks that make interpretation, justification, and knowledge construction visible over time rather than only at the endpoint. Their organizing idea is epistemic authenticity — the extent to which assessment captures a learner's genuine engagement with reasoning and [[evaluative-judgment]] — and they propose four design commitments: reflective justification, staged task design, dialogic engagement, and evaluative transparency. They are candid that such designs intensify educator labor and can widen [[equity-in-ai-education|equity]] gaps unless deliberately scaffolded.
+
+## Key Findings
+1. **Detection cannot carry the assessment burden.** Tools risk false positives and inconsistent outcomes across writing styles and contexts, raise procedural fairness problems in high-stakes decisions, and trail increasingly capable models.
+2. **Reactive monitoring crowds out learning.** Detection identifies misuse only after it occurs, and relying on it pulls institutional culture toward verification and policing rather than intellectual and ethical engagement with knowledge.
+3. **The pivotal question is evidential, not technological.** The central issue is no longer whether AI-generated work can be caught, but whether assessment can still yield meaningful evidence of reasoning, judgment, and disciplinary engagement.
+4. **Epistemic authenticity is the paper's central conceptual contribution.** It names the extent to which assessment captures genuine engagement with interpretation, [[evaluative-judgment|evaluative judgment]], reasoning, and knowledge construction — a property polished output no longer reliably signals.
+5. **Process-oriented assessment repositions assessment as part of learning.** Built on constructive alignment and assessment for learning, it makes reasoning visible through staged development, reflection, dialogue, and iterative feedback rather than one final product.
+6. **Four design principles follow.** Reflective justification, staged task design, dialogic engagement, and evaluative transparency require learners to explain decisions, articulate interpretations, and show how conclusions emerged.
+7. **The redesign carries equity and workload costs.** Reflective and dialogic tasks can privilege students confident in academic self-articulation, and the relational work they demand intensifies educator emotional labor.
+
+## Why detection is not a sustainable response
+
+Universities have largely answered generative AI with detection software, revised integrity policies, and guidelines regulating AI use, and the paper assembles the case against leaning on these. Detection tools risk false positives and inconsistent outcomes across writing styles and contexts, and the decisions they inform are consequential; the rapid evolution of [[llm|language models]] also leaves the technology a step behind. Detection is additionally reactive: it identifies misuse only after it has occurred, without engaging [[assessment]] design or learning. Sustained reliance reframes [[academic-integrity]] as policing rather than intellectual and ethical engagement with knowledge, straining the trust and partnership student-centered [[higher-ed|higher education]] depends on. The stakes run broader than misconduct — authorship, originality, and knowledge production are all in question — which is why [[ai-detection]] is a weak lever for a substantially epistemological problem.
+
+## From product to process
+
+Process-oriented assessment shifts attention to how learners develop ideas, interpret information, and construct understanding over time. It draws on constructive alignment, on assessment for learning rather than assessment of learning, and on [[authentic-assessment]], which requires applying knowledge in meaningful, situated tasks rather than reproducing it. The paper is careful here: authenticity alone is not enough. An authentic task that remains a single unsupervised written product is exposed to the same substitution problem as the essay it replaced. What matters is making interpretation visible — staged development, reflection, dialogue, and iterative engagement with [[feedback]] — so the task also supports [[self-regulated-learning]]. Generative AI is comparatively weak at exactly these things: contextual judgment, reflective interpretation, and reasoning that evolves in response to feedback.
+
+## Epistemic authenticity as the organizing idea
+
+The paper's most distinctive move is to name epistemic authenticity as what assessment should protect under AI-mediated conditions: whether an assessment captures genuine engagement with interpretation, [[evaluative-judgment|evaluative judgment]], reasoning, and knowledge construction. Under product-oriented assessment that authenticity was inferred from the writing itself; generative AI breaks the inference, because a polished response may no longer represent anyone's thinking process. The authors do not conclude that AI must be excluded from learning environments. Assessment must instead evaluate how students critically engage with information, justify interpretations, and demonstrate reflective understanding — capacities that bear on the [[assessment-validity|validity]] of claims about learning. The challenge is epistemological as much as technological, and it demands more direct evidence of conceptual and evaluative engagement than a final submission provides.
+
+## What the design principles require in practice
+
+Four principles carry the argument into design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, learners explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy]] and [[self-assessment]]. The authors are explicit about the costs. Reflective and dialogic tasks can privilege students more confident in academic self-articulation unless they are inclusively designed and [[scaffolding|scaffolded]], and uneven access to AI tools compounds the existing [[equity-in-ai-education|equity]] problem. The relational, feedback-intensive work also generates substantial emotional and professional labor in large or resource-constrained contexts — a contradiction with institutional expectations for scalability, standardization, and measurable performance.
+
+## What this means for practice
+
+- **Instructors.** Convert one high-stakes unsupervised written task into a staged sequence with reflective justification at each checkpoint, so students explain decisions instead of submitting only a finished product.
+- **Assessment designers.** Write the four principles into the task brief: checkpoints with reasoning artifacts, a dialogic or oral exchange, and criteria students can apply to their own drafts.
+- **Administrators.** Resource the redesign before mandating it — dialogic, feedback-intensive assessment needs staffing, time, and workload recognition, and detection spending does not remove that obligation.
+- **Faculty developers.** Provide scaffolding so reflective and dialogic tasks do not reward verbal confidence learners were never taught, and treat the shift as curriculum change rather than a task swap.
+
+## Limitations
+
+- The paper is conceptual: it reports no participants, no data collection, and no implementation trial, so the four design principles are argued rather than tested.
+- Its claims about equity, emotional labor, and sustainability rest on the authors' synthesis of existing scholarship, not measurement; the paper itself calls for empirical work on [[student-experience]], educator workload, and long-term viability.
+- The argument is normative about what assessment ought to do, with no account of how institutions under efficiency and standardization pressure would resource dialogic assessment at scale.
+- Feasibility is left undifferentiated across settings — transfer to large lectures, laboratories, studios, or clinical placements is not addressed.
+
+## Connected Concepts
+
+- [[generative-ai]]
+- [[ai-detection]]
+- [[assessment-validity]]
+- [[authentic-assessment]]
+- [[academic-integrity]]
+- [[formative-assessment]]
+- [[evaluative-judgment]]
+- [[self-regulated-learning]]
+- [[critical-thinking]]
+- [[feedback]]
+- [[feedback-literacy]]
+- [[equity-in-ai-education]]
+- [[self-assessment]]
+- [[oral-assessment]]
+- [[scaffolding]]
+
+## Connected Articles
+
+- [[authentic-products-authenticated-processes-2026]] — From authentic products to authenticated processes: a systematic conceptual review of authentic assessment in AI-rich environments
+- [[beyond-detection-authentic-assessment-ai-2025]] — Beyond Detection: Redesigning Authentic Assessment in an AI-Mediated World
+- [[kofinas-generative-ai-authentic-assessment-integrity-2025]] — The Impact of Generative AI on Academic Integrity of Authentic Assessments Within a Higher Education Context
+- [[zhan-boud-du-authentic-assessment-scoping-review-2025]] — Designing for Authentic Assessment: A Scoping Review
+- [[weidlich-inference-at-risk-assessment-validity-2026]] — Which inference is at risk? Assessment validity reasoning and generative AI
+- [[van-vlasselaer-ai-detector-reliability-2026]] — Who wrote this? Evaluating the reliability of AI detection tools in higher education
+- [[bassett-ai-detectors-education-2026]] — Heads We Win, Tails You Lose: AI Detectors in Education
+- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Efficiency at what cost? Salvaging constructive alignment from the GenAI hype
+- [[sharma-judgment-visible-genai-assessment-2026]] — Educational integrity in GenAI-augmented assessment: making judgment visible
+- [[dollinger-equitable-assessment-ai-2026]] — Reimagining Success and Failure: Equitable Assessment Practices in an Age of Artificial Intelligence
+- [[fenton-oral-exams-ai-authentic-assessment-2025]] — Reconsidering the Use of Oral Exams and Assessments: An Old Way to Move Into a New Future
+- [[genai-performance-vs-learning]] — Distinguishing performance gains from learning when using generative AI
+
+## Citation
+
+Thapa, G. C., & Lewis, S. (2026). [Preserving epistemic authenticity: process-oriented assessment in the age of generative AI](https://doi.org/10.1080/02602938.2026.2736679). *Assessment & Evaluation in Higher Education*, 1-15.
 
 ---
 
@@ -114174,7 +114642,7 @@ Wang, S., & Zhao, J. (2026). [*Reflective AI use and student engagement in AI-su
 
 ## [The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI](https://edtechdev.github.io/aied/articles/wang-safety-gap-productive-struggle-2026/)
 
-> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize process-based assessment, proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
+> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize [[process-oriented-assessment|process-based assessment]], proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
 
 ## The paradox of the helpful machine
 
