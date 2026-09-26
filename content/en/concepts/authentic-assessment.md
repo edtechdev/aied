@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-26T06:39:43-04:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -53,6 +53,8 @@ The knowledge base's assessment-redesign literature argues that authenticity mus
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] argues that integrity-oriented design and authentic design are not the same thing, and that the difference is epistemic rather than stylistic. Authenticity asks whether a task mirrors worthwhile real-world practice; integrity-oriented design asks whether learners can justify their decisions and assume responsibility in relation to disciplinary standards, which makes integrity an explicit, assessable criterion embedded in the task architecture rather than an incidental by-product of realism. The practices he offers — annotated decision trails, verification of GenAI-contributed claims, oral defense and dialogic accountability, draft differences with version history — are recognisably authentic-assessment forms, but they are selected for the [[evaluative-judgment|judgment]] they make visible rather than for their realism, which is a useful corrective for tasks that look authentic and remain counterfeitable in substance. His caution belongs on this page too: requiring documented reasoning privileges learners more fluent in reflective discourse, and judgment as evidence "remains relational and situated rather than mechanically verifiable", so the design carries its own interpretive-reliability load.
 
+The same question is reframed by [[thapa-lewis-process-oriented-assessment-2026|Thapa and Lewis (2026)]], who name what a task should *authenticate* rather than whether it looks real: epistemic authenticity, the extent to which assessment captures genuine engagement with interpretation, evaluative judgment, reasoning and knowledge construction. Their argument is that authenticity alone does not survive generative AI, because an authentic task whose evidence is one unsupervised product is exposed to the same substitution problem as the essay it replaced. Making reasoning visible instead requires staged submissions, reflective justification, dialogic engagement and evaluative transparency. They carry the caution above into design: reflective and dialogic tasks can privilege students confident in academic self-articulation unless they are inclusively designed and scaffolded, and the relational work intensifies educator emotional labor in large or resource-constrained settings.
+
 ## When practitioners retreat to the policed formats
 
 The knowledge base argues that authenticity must be designed rather than policed, and [[teacher-educators-ai-integration-preservice-2026|Goldstein, Marae-Haj and Zidan (2026)]] supply the counter-evidence from practice: after a trust crisis in which pre-service teachers submitted raw AI-generated work as their own, teacher educators in seven Israeli colleges redesigned assessment around process evidence (prompts, document version history, monitored group contributions) and in-class performance — but several also described falling back, as a last resort, on supervised examinations and anticipated oral defenses on theses, one participant calling the return to exams personally painful yet unavoidable. Read against the design-first position, the finding marks a failure mode rather than a solution: where authenticity is not redesigned in advance, the practical response to unassessable submitted work is reinstated control — surveillance by another name — which reintroduces the very formats the authentic-assessment literature tries to move beyond. It also shows the felt cost of the alternative: participants reported their take-home written assessments could no longer evidence learning at all, and that process documentation took real work to establish.
@@ -91,6 +93,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
 - [[arts-design-and-media-education]]
 ## Connected Articles
+- [[thapa-lewis-process-oriented-assessment-2026]] — process-oriented assessment and epistemic authenticity as what a task should authenticate
 - [[evaluation-age-ai-output-evidence-2026]] — Evaluation in the Age of AI
 - [[ivory-psychology-assessment-integrity-2026]] — What AI could not pass: presence, visual artifacts, and the student's own data (Ivory et al. 2026)
 - [[paternalistic-filter-llm-history-education]] — Paternalistic AI use and student identity in history education
