@@ -1,8 +1,8 @@
 # Index
 
-Last updated: 2026-09-25
+Last updated: 2026-09-26
 
-Articles: 1466 | Concepts: 216 | Resources: 26 | FAQs: 32
+Articles: 1468 | Concepts: 216 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -1057,6 +1057,7 @@ Articles: 1466 | Concepts: 216 | Resources: 26 | FAQs: 32
 - [[making-ai-annoying-constrained-writing-2026]] — Making AI Annoying on Purpose: When Helpful Tools Don't Always Help
 - [[making-ai-tutoring-productive-mastery-math-2026]] — Making AI Tutoring Productive: Evidence from a Mastery-Based Math Practice Experiment
 - [[marked-pedagogies-linguistic-bias-writing-feedback]] — Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback
+- [[masters-dissertation-marking-framework-2026]] — Fair Marking in the Generative AI Era: Introducing the Master’s Dissertation Marking Framework
 - [[mastery-learning]] — Mastery Learning
 - [[math-education]] — Math Education
 - [[mathematics-teachers-chatbot-motivation-2026]] — Talking mathematics with AI: Understanding teachers' motivation for utilizing chatbots
@@ -1207,6 +1208,7 @@ Articles: 1466 | Concepts: 216 | Resources: 26 | FAQs: 32
 - [[personalized-ai-generated-videos-preference-2026]] — Students Prefer Personalized, AI-Generated Educational Videos over Non-Personalized, Human-Recorded Videos
 - [[personalized-educational-video-generation-2026]] — Dynamic Learning Solutions: A System for Personalized Educational Video Generation
 - [[personalized-learning]] — Personalized Learning
+- [[personalized-learning-path-ctml-2026]] — A Personalized Learning Path Problem Based on the Cognitive Theory of Multimedia Learning
 - [[personalized-neural-cognitive-architecture-search-2026]] — Personalized neural cognitive architecture search
 - [[personapath-personalized-learning-paths-2026]] — PersonaPath: Towards Knowledge-Centric Personalized Learning Path Planning
 - [[petricini-zipf-ai-use-ethics-matrix-2026]] — Designing for Virtuous AI Use: The AI-Use Ethics Matrix in AI-Mediated Classrooms

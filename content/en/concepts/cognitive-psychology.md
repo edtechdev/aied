@@ -1,7 +1,7 @@
 ---
 title: Cognitive Psychology
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-09-18T12:02:23-04:00"
+updated: "2026-09-26T00:48:21-04:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
@@ -41,6 +41,8 @@ Cognitivism is arguably the theory most responsible for AI in education existing
 ### Cognitive load and the design of instruction
 
 Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in [[learning-design|instructional design]]: it distinguishes intrinsic load (task complexity), extraneous load (presentation friction), and germane load (schema-building effort). Well-designed AI should reduce extraneous load while preserving germane processing; poorly integrated AI reduces all three, leaving completed tasks with empty learning. CLT's working-memory framing is also central to debates about [[cognitive-offloading]] — whether AI reduces harmful extraneous load or short-circuits the germane processing that produces learning.
+
+Mayer's Cognitive Theory of Multimedia Learning (CTML) applies the same working-memory assumptions to the materials themselves, and its prescriptions are unusually concrete: learners do better from words and pictures together than from words alone, when extraneous material is excluded, when a lesson is segmented and user-paced rather than presented as one continuous unit, when corresponding words and pictures appear near and at the same time, and when narration is conversational and in a friendly human voice rather than formal or machine-generated. The distinguishing recent move is to make those principles machine-checkable. [[personalized-learning-path-ctml-2026|Mochocki and colleagues (2026)]] rate 365 learning materials against twelve CTML principles on a four-point compliance scale and fold the ratings into a formal problem that selects and then sequences the materials making up a [[personalized-learning|personalized learning path]]. Their motivation exposes a fault line the cognitivist framing already implies: earlier path research personalized to learning styles, which the authors note lack empirical support, rather than to CTML, which is experimentally validated. Two consequences follow for [[learning-design|designers]] and platform builders. A material corpus can be ranked against a validated theory rather than a learner's supposed style, which turns material quality into a reviewable design property instead of a preference match. And path construction is intractable in general, not just fiddly: selection is NP-complete even when only the time interval objective is considered, and many-to-many interleaving and prerequisite sequencing are NP-complete as well, so exact optimal paths of this kind cannot be computed at scale and the authors fall back on metaheuristics (NSGA-II for selection, simulated annealing and a Random Hill Climber for sequencing). Across 12 graduate student profiles those returned paths scored 3.19 to 3.54 on the four-point rubric, but with no student learning measured, rubric compliance stays a proxy for internalization rather than evidence of it.
 
 ### Cognitivism vs. behaviorism and constructivism
 
@@ -89,4 +91,5 @@ Cognitive Load Theory (CLT) is the most widely applied cognitivist framework in 
 - [[nie-personavlm-long-term-personalization-2026]] — LLM student modeling and memory
 - [[ai-cognitive-partner-co-regulation-learning]] — AI as a cognitive partner in co-regulated learning
 - [[ensemble-cognition-philosophy-ai-education]] — Ensemble Cognition: thinking as human–AI interaction
+- [[personalized-learning-path-ctml-2026]] — Turns CTML principles into machine-checkable material and path rubrics
 
