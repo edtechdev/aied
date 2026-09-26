@@ -1,6 +1,10 @@
 # Journal
 
-Last updated: 2026-09-26 | Total entries: 1708
+Last updated: 2026-09-26 | Total entries: 1709
+
+## 2026-09-26
+
+- 📄 [[thapa-lewis-process-oriented-assessment-2026]] — Preserving epistemic authenticity: process-oriented assessment in the age of generative AI
 
 ## 2026-09-25
 
