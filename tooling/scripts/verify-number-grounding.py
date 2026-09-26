@@ -66,10 +66,18 @@ def normalize(text):
     # PDF extraction frequently splits numbers ("100, 000", "US$ 94.8") and sometimes
     # inserts a space where a thousands separator was; collapse those before comparing
     # so a correctly grounded figure is not reported as missing.
+    #
+    # Soft hyphens (U+00AD) and hyphen+space breaks are the other common extraction
+    # artifact: a source that prints "Thirty-\xad three AI-\xad literacy items" hides both
+    # the spelled-out numeral and the word it modifies, so joined forms must be
+    # reconstructed before matching.  Only rejoin when a hyphen is already present —
+    # collapsing arbitrary digit-space-digit pairs merged separate table columns
+    # ("Total 175 0.53 ..." became "Total1750.53"), which hid the value being checked.
+    text = text.replace('\u00ad', '')
+    text = re.sub(r'-\s+', '-', text)
     text = re.sub(r'(?<=\d)\s+(?=\d\d\d\b)', '', text)
-    text = re.sub(r'(?<=\d)\s+(?=\d)', '', text)
     return (text.replace(',', '').replace('\u2013', '-').replace('\u2212', '-')
-                .replace('%', '').replace('$', ''))
+                    .replace('%', '').replace('$', ''))
 
 
 def numeric_tokens(text):
