@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-09-26T01:52:44-04:00"
+updated: "2026-09-26T10:04:20-04:00"
 type: resource
 summary: "The public resource page of Faculty Professional Development Services at Hillsborough College, collecting its AI, teaching and accessibility resources in one place."
 url: https://fpdshc.github.io/apps/
@@ -30,7 +30,7 @@ reviewed_by: [editor]
 
 ## What you can do with it
 
-The AI section points to an interactive [[academic-integrity]] worksheet for redesigning assignments in the AI era, a self-paced tour of AI tools and teaching tasks, the *AI in Education Knowledge Base*, and a custom Gemini Gem for designing online modules. The accessibility section collects a Canvas checklist that begins with what you are working with and ends with a human check, a guide to [[universal-design-for-learning]] published under a non-commercial Creative Commons license, and a second Gemini Gem that writes alt text for images. The teaching section collects two Canvas courses the office maintains, a starter kit to copy into your own course and a course of evidence-based teaching strategies with adaptable Canvas items, plus an online teaching checklist held in a document. Each entry is a working page rather than an announcement, and the sections link onward to material the office does not host.
+The AI section points to the *AI-Era Assignment Design Coach*, a Gemini Gem that walks instructors through redesigning assignments in an AI-capable world; the same coach is also available as a Playlab project, and a non-AI [[academic-integrity]] worksheet covers the task with fewer features. The section also lists a self-paced tour of AI tools and teaching tasks, the *AI in Education Knowledge Base*, and a second Gemini Gem for designing online modules. The accessibility section collects a Canvas checklist that begins with what you are working with and ends with a human check, a guide to [[universal-design-for-learning]] published under a non-commercial Creative Commons license, and a second Gemini Gem that writes alt text for images. The teaching section collects two Canvas courses the office maintains, a starter kit to copy into your own course and a course of evidence-based teaching strategies with adaptable Canvas items, plus an online teaching checklist held in a document. Each entry is a working page rather than an announcement, and the sections link onward to material the office does not host.
 
 ## Who it is for
 
