@@ -1,10 +1,10 @@
 ---
 title: "Measuring Artificial Intelligence Literacy: A Systematic Review of Instrument Development, Conceptual Foundations, and Psychometric Quality"
 created: "2026-09-18T14:20:00-04:00"
-updated: "2026-09-19T10:23:54-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [ai-literacy]
-assessment: [educational-measurement, self-report-measures, assessment]
+assessment: [assessment, educational-measurement, process-oriented-assessment, self-report-measures]
 methods: [meta-analysis-systematic-review]
 research_method: [instrument development, secondary analysis]
 level: [higher ed, k 12]
@@ -18,7 +18,7 @@ confidence: high
 
 ## Key Findings
 
-1. **The corpus was screened down from 8,057 records to 58 studies.** Seven databases (Web of Science, Scopus, IEEE Xplore, ACM Digital Library, ERIC, PubMed, PsycINFO) yielded 8,056 studies plus one backward-snowballed record; 2,998 duplicates were removed and 5,059 records were screened by title and abstract, excluding 4,781. Of 278 full texts, 220 were excluded (132 not primarily focused on developing or validating an AI literacy instrument, 79 lacking development or validation detail, 5 non-empirical or unavailable, 4 non-English). The 58 included studies cover 47 unique instruments and 11 validation, adaptation or revalidation studies, with Cohen's κ of 0.77 at screening and 0.87 at final selection.
+1. **The corpus was screened down from 8,056 records (plus one snowballed record) to 58 studies.** Seven databases (Web of Science, Scopus, IEEE Xplore, ACM Digital Library, ERIC, PubMed, PsycINFO) yielded 8,056 studies plus one backward-snowballed record; 2,998 duplicates were removed and 5,059 records were screened by title and abstract, excluding 4,781. Of 278 full texts, 220 were excluded (132 not primarily focused on developing or validating an AI literacy instrument, 79 lacking development or validation detail, 5 non-empirical or unavailable, 4 non-English). The 58 included studies cover 47 unique instruments and 11 validation, adaptation or revalidation studies, with Cohen's κ of 0.77 at screening and 0.87 at final selection.
 2. **Instrument development exploded after ChatGPT.** Only two original instruments predate 2023 (one in 2021, one in 2022); seven appeared in 2023, ten in 2024, and 28 in 2025 — more than half the entire corpus in a single year.
 3. **Self-report dominates the field.** Of 47 original instruments, 37 are self-report questionnaires, 8 are performance-based, and 2 use mixed formats. Five-point Likert scales are most common (25 instruments), then seven-point (11), a single eleven-point scale in the MAILS family, and two six-point scales built to suppress neutral responding.
 4. **Structures vary widely but a typical shape persists.** Instruments run from 6 to 63 items (median 24; IQR 19–32) and from 1 to 11 constructs (median 4; IQR 3–5). Self-report scales average a median of 23 items and four constructs; performance-based measures are leaner in dimensionality (median two constructs over 25 items).
@@ -27,7 +27,7 @@ confidence: high
 7. **Factor analysis is routine; modern test theory and invariance testing are not.** Validation approaches were CFA (40 instruments), EFA (32) and IRT (8), with multigroup CFA appearing once.
 8. **Content validity evidence is the weakest link.** Surveying 58 studies, only 18 (31%) earned a sufficient (+) rating for relevance and five (9%) for comprehensiveness; comprehensibility was sufficient in five (9%), inconsistent in 28 (48%) and insufficient in 25 (43%). Comprehensiveness drew 53 insufficient ratings (91%) against no inconsistent ones. Just 2 of 58 studies (3%) achieved a sufficient overall content-validity rating; the remaining 56 (97%) were inconsistent.
 9. **Psychometric strengths and absences are property-specific.** Structural validity was sufficient in 32 of 58 studies (55%) and insufficient in 22 (38%); internal consistency was sufficient in 32 (55%) with no insufficient ratings; construct validity was reported by only 15 studies and sufficient in 12 (21%); criterion validity was sufficient in one study (2%) with 54 studies (93%) reporting none; cross-cultural validity or invariance was examined in five studies, all rated sufficient. No instrument showed uniformly sufficient, high-certainty evidence across all properties.
-10. **The forward agenda is consolidation, not proliferation.** The authors call for performance-based and process-oriented assessment, [[learning-analytics|learning analytics]] and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, longitudinal designs tracking how AI literacy develops, criterion-referenced [[benchmark|benchmarks]], and systematic measurement-invariance testing across populations and languages.
+10. **The forward agenda is consolidation, not proliferation.** The authors call for performance-based and [[process-oriented-assessment|process-oriented assessment]], [[learning-analytics|learning analytics]] and behavioral-trace measurement of [[prompt-engineering|prompting]] and verification, longitudinal designs tracking how AI literacy develops, criterion-referenced [[benchmark|benchmarks]], and systematic measurement-invariance testing across populations and languages.
 
 ## How the review was conducted
 

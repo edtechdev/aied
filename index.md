@@ -2,7 +2,7 @@
 
 Last updated: 2026-09-26
 
-Articles: 1467 | Concepts: 216 | Resources: 26 | FAQs: 32
+Articles: 1467 | Concepts: 217 | Resources: 26 | FAQs: 32
 
 ## Concepts
 
@@ -1252,6 +1252,7 @@ Articles: 1467 | Concepts: 216 | Resources: 26 | FAQs: 32
 - [[problem-based-learning]] — Problem-Based Learning
 - [[problem-solving]] — Problem Solving
 - [[process-grounded-language-cognitive-diagnosis-2026]] — Beyond ID Embeddings: Process-Grounded Language Modeling for Cognitive Diagnosis
+- [[process-oriented-assessment]] — Process-Oriented Assessment
 - [[productive-failure]] — Productive Failure
 - [[professional-training]] — Workplace Learning
 - [[programming-its]] — Programming Intelligent Tutoring Systems

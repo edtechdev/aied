@@ -139,7 +139,7 @@ export const FACET_VOCAB = {
     'virtual-and-augmented-reality',
     'visualization',
   ],
-  // Assessment and measurement (24 concepts) — registry section: Assessment and measurement
+  // Assessment and measurement (25 concepts) — registry section: Assessment and measurement
   assessment: [
     'ai-detection',
     'ai-feedback-quality',
@@ -160,6 +160,7 @@ export const FACET_VOCAB = {
     'learning-gains',
     'oral-assessment',
     'peer-assessment',
+    'process-oriented-assessment',
     'psychometrically-aware-ai',
     'remote-proctoring',
     'self-assessment',

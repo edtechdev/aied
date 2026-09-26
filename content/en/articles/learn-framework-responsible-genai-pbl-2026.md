@@ -1,7 +1,7 @@
 ---
 title: 'The LEARN Framework for Responsible Use of Generative AI in Education: A Neuroscience-Informed Model for Problem-Based Learning'
 created: "2026-08-20T06:50:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [academic-integrity, cognitive-offloading]
 pedagogy: [cognitive-psychology, problem-based-learning]
@@ -33,7 +33,7 @@ page_kind: [framework]
 - **Instructional designers.** Require students to interrogate, verify, and extend GAI output — comparing AI summaries with their own readings, naming missing arguments and biases — so GAI operates as a cognitive [[scaffolding|scaffold]] rather than a cognitive substitute.
 - **Educators.** Involve students in co-designing curricula, assessments, and rubrics and in decisions about GAI use, using the framework's Engagement dimension to convert instruction into authentic experience.
 - **Educators.** Build reflection into the task sequence through learning journals, think-aloud protocols, and reflective essays, treating reflection as the metacognitive engine for consolidating knowledge and ethical self-regulation.
-- **Administrators.** Revise academic-integrity policy to recognize documented, transparent AI use as an emerging literacy rather than presumptive misconduct, and shift institutional effort from [[ai-detection|detection]] toward process-oriented assessment.
+- **Administrators.** Revise academic-integrity policy to recognize documented, transparent AI use as an emerging literacy rather than presumptive misconduct, and shift institutional effort from [[ai-detection|detection]] toward [[process-oriented-assessment|process-oriented assessment]].
 
 ## Limitations
 

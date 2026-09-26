@@ -1,19 +1,19 @@
 ---
 title: "AIED's Unfinished Mission: Centering Agency and Motivation in the Age of Effortless Bypass"
 created: "2026-07-09T04:33:04-04:00"
-updated: "2026-09-19T07:37:16-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [cognitive-offloading, teacher-role]
 pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
-assessment: [formative-assessment]
+assessment: [formative-assessment, process-oriented-assessment]
 research_method: [theoretical analysis]
 audience: [learners, instructors]
 sources: ['raw/papers/2607.05557.md']
 confidence: high
 ---
 
-> **Synthesis:** The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge [[ai-education|AIED]] has long engaged with but must now confront directly: ensuring learners choose effortful [[student-engagement|engagement]] when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established [[motivation|motivational]] and [[learning-theories|learning theories]], I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying process-based assessment, and empowering teachers. I then share four envisioned [[ai-technologies|technologies]] that embody key features of this future and conclude by outlining how AIED must now evolve.
+> **Synthesis:** The widespread availability of general-purpose AI that can perform complex cognitive tasks threatens to undermine education at scale. This effortless bypass dilemma sharpens a challenge [[ai-education|AIED]] has long engaged with but must now confront directly: ensuring learners choose effortful [[student-engagement|engagement]] when easier alternatives are available to complete learning tasks. In this paper, I argue that AIED's longstanding agenda of building more effective intelligent educational tools should continue, but with a renewed emphasis on the urgency of ensuring learners choose to engage authentically. Drawing on established [[motivation|motivational]] and [[learning-theories|learning theories]], I outline five directions in which AIED can build on its existing strengths: supporting autonomy and agency, building learner resilience to metacognitive threats, designing for interest and relevance, amplifying [[process-oriented-assessment|process-based assessment]], and empowering teachers. I then share four envisioned [[ai-technologies|technologies]] that embody key features of this future and conclude by outlining how AIED must now evolve.
 
 Position paper (AIED 2026) reframes the effortless bypass dilemma: AIED must keep building better tools but foreground [[agency|learner agency]] and motivation so students choose authentic effort. Five directions: autonomy/agency, metacognitive resilience, interest/relevance, process-based assessment, and teacher empowerment.
 

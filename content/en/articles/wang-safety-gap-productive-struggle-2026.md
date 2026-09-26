@@ -1,7 +1,7 @@
 ---
 title: "The Safety Gap: Restoring Productive Struggle Through Pedagogically Aligned Generative AI"
 created: "2026-08-23T08:15:00-04:00"
-updated: "2026-09-19T09:24:40-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [cognitive-offloading]
 pedagogy: [productive-failure, scaffolding, socratic-method]
@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize process-based assessment, proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
+> **Synthesis:** Wang and Shan (2026) introduce the **"Safety Gap"** — the divergence between a student's AI-assisted performance and their internal, unassisted capability to verify that output — as a warning that overly "helpful" [[generative-ai|generative AI]] can erode the cognitive processes essential for deep learning. Writing from a medical-education perspective, they argue that educational AI should withhold direct solutions, introduce constructive cognitive friction, and prioritize [[process-oriented-assessment|process-based assessment]], proposing **Socratic and Adversarial AI architectures** that preserve [[productive-failure|productive struggle]].
 
 ## The paradox of the helpful machine
 

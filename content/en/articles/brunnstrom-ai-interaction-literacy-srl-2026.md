@@ -1,12 +1,12 @@
 ---
 title: "AI-interaction literacy: reflections on how generative AI might be used to support self-regulated learning in higher education"
 created: "2026-09-11T06:10:00-04:00"
-updated: "2026-09-19T07:32:15-04:00"
+updated: "2026-09-26T07:13:32-04:00"
 type: article
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, student-ai-interaction]
 technology: [generative-ai, prompt-engineering]
-assessment: [assessment, assessment-validity, feedback-literacy]
+assessment: [assessment, assessment-validity, feedback-literacy, process-oriented-assessment]
 methods: [qualitative-research]
 ethics: [equity-in-ai-education]
 research_method: [theoretical analysis]
@@ -21,7 +21,7 @@ discipline: [humanities education]
 
 ## Overview
 
-Take-home examinations are common in the [[humanities-education|humanities]] and social sciences and are argued to support more complex reasoning than time-constrained formats. If a chatbot can produce a plausible response, however, the submitted product becomes a weaker indicator of what the student has learned — an [[assessment-validity|assessment validity]] problem rather than only an integrity problem. The authors situate their work within calls to move past rules about permitted and prohibited use: GenAI and assessment has been described as a **wicked problem** with no single stable solution, and proposals such as **Black Box Assessment** argue for process-oriented assessment that attends to the learning trajectory, not just the polished artifact.
+Take-home examinations are common in the [[humanities-education|humanities]] and social sciences and are argued to support more complex reasoning than time-constrained formats. If a chatbot can produce a plausible response, however, the submitted product becomes a weaker indicator of what the student has learned — an [[assessment-validity|assessment validity]] problem rather than only an integrity problem. The authors situate their work within calls to move past rules about permitted and prohibited use: GenAI and assessment has been described as a **wicked problem** with no single stable solution, and proposals such as **Black Box Assessment** argue for [[process-oriented-assessment|process-oriented assessment]] that attends to the learning trajectory, not just the polished artifact.
 
 The paper's frame is that GenAI may support each phase of [[self-regulated-learning|self-regulated learning]] — goal setting, strategy selection, monitoring, and adjustment — but that the value of an AI response depends on the student's capacity to interpret, evaluate, and use it. Because GenAI feedback arrives interactively and without a teacher's immediate framing, it also raises the bar for [[feedback-literacy|feedback literacy]].
 
