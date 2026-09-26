@@ -1,7 +1,7 @@
 ---
 title: Social-Emotional Learning
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-09-26T08:40:58-04:00"
+updated: "2026-09-26T09:01:07-04:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -78,7 +78,7 @@ SEL overlaps with the effortful dimension of learning. [[framing-5-percent-probl
 - **Self-efficacy moderates gains.** [[self-efficacy-tutoring-learning|Cen et al.]] found lower-baseline-self-efficacy students achieved the *largest* learning gains, and that tutor-favorability predicted gains in tutor-based practice — showing motivational profiles shape who benefits from which format.
 - **Well-being and engagement as intermediate outcomes.** SEL-related outcomes (motivation, [[well-being]], belonging, engagement, self-efficacy) often function as mediators of downstream achievement, and AI research increasingly measures them alongside — or in some cases instead of — raw test scores.
 - **Effects are conditional, not universal.** Research cautions that SEL-oriented interventions may help some learners (by profile/proficiency) and not others, so claims about SEL-based learning gains should be examined for moderator effects.
-- **The harm side of the ledger.** The  cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional well-being, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
+- **The harm side of the ledger.** The Brookings premortem cautions that AI-driven [[cognitive-offloading|overreliance]] threatens social-emotional well-being, relationships, and belonging — outcomes that, if eroded, can undermine the very foundations of long-term learning and achievement.
 
 ### Connections to related concepts
 
