@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-09-26T08:41:01-04:00"
+updated: "2026-09-26T09:01:07-04:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 type: concept
 foundations: [ai-literacy]
@@ -16,7 +16,7 @@ reviewed_by: [editor]
 ## Questions to Consider
 
 - What makes feedback 'good' — accuracy alone, or also being timely, specific, actionable, and calibrated to what you already know? Which of these would you notice missing first?
-- [[research-methods-aied|Research]] finds students experience AI-generated feedback as comparable to a teacher's — but acceptability does not guarantee [[learning-gains|learning effectiveness]]. Why might feedback that feels fine still fail to help you improve?
+- Research finds students experience AI-generated feedback as comparable to a teacher's — but acceptability does not guarantee [[learning-gains|learning effectiveness]]. Why might feedback that feels fine still fail to help you improve?
 - Even high-quality AI feedback is inert without a 'feedback-literate' recipient — studies show low feedback literacy can make AI feedback minimally useful or even negative. Whose responsibility is it to build that literacy?
 - Feedback quality and revision depth are linked: scaffolding how students engage with AI feedback shifts them toward argument-level improvement rather than surface edits. How does the way you receive feedback change what you do with it?
 - Sycophantic feedback conflates support with agreement — an AI that validates your answer rather than challenging it undermines feedback's corrective function. When does feedback need to challenge you rather than comfort you?

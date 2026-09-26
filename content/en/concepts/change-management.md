@@ -1,7 +1,7 @@
 ---
 title: Change Management
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-09-26T08:40:55-04:00"
+updated: "2026-09-26T09:01:07-04:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -75,3 +75,4 @@ Change management is the institutional complement to classroom-level integration
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Digital mediators translating institutional AI strategy into grounded practice under infrastructural scarcity
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — cross-system fieldwork on how implementation and teacher actions decide whether an AI product helps
+- [[dot-framework-survey-2026]] — survey evidence that professional development must cover a full design cycle rather than tool use alone
