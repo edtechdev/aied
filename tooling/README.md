@@ -174,7 +174,8 @@ python3 tooling/scripts/check_concepts.py
 
 # Run every hard gate declared in wiki.config.yaml. Prefer --changed: it scopes what can be
 # scoped to the pages touched since HEAD (the inline-link and list-formatting scans take those
-# slugs, the article-section / disclosure / number-grounding gates take --changed) and names the
+# slugs, the article-section / disclosure / number-grounding gates take --changed, and the
+# house-style gate takes the changed markdown files, pages and notes alike) and names the
 # registry-level gates it skipped. A gate result cannot differ for an unchanged page, and the
 # corpus-wide inline-link scan is the entire cost of the full pass.
 python3 tooling/scripts/run-gates.py --changed
@@ -186,7 +187,9 @@ python3 tooling/scripts/validate-facets.py
 
 # House style: US English. Scans prose only — page slugs, wikilink targets and inline code are
 # identifiers and are deliberately ignored, so the gate stays useful while a slug is pending rename.
+# Naming slugs or repo-relative paths limits it to those files, which is what --changed passes.
 python3 tooling/scripts/check-us-english.py --include-docs
+python3 tooling/scripts/check-us-english.py my-page-slug tooling/README.md
 
 # Fix what the checker reports. Rewrites body prose only: frontmatter and everything from
 # `## Citation` onward are left byte-identical, because a citation reproduces the title as the
