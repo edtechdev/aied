@@ -37,7 +37,8 @@ HUMAN_CONTRIBUTORS = [c for c in CONTRIBUTORS
 CONTRIBUTOR_NAME_LIST = ' and '.join(c['name'] for c in HUMAN_CONTRIBUTORS) or EDITOR_NAME
 AI_DISCLOSURE = SITE.get('aiDisclosure', {})
 # Only the model currently in use is named in the offline editions: the offline
-# notice carries no dates and no model-by-model history (maintainer decision).
+# notice carries the generation date and no model-by-model history (maintainer
+# decision -- the date was asked for again after a rebuild dropped it).
 AI_MODEL_IDS = [m['id'] for m in AI_DISCLOSURE.get('models', []) if m.get('id')]
 AI_MODEL_CURRENT = AI_MODEL_IDS[0] if AI_MODEL_IDS else 'a large language model'
 AI_POLICY = AI_DISCLOSURE.get('policy', 'AI-USE.md')
@@ -202,6 +203,10 @@ parts = []
 # Home intro (the front matter / title + copyright info now live in the
 # dedicated Copyright page handled in build_epub() post-processing)
 today = datetime.date.today().strftime('%B %d, %Y')
+# The generation date shown on the notice page. Kept in its own constant because
+# build_epub() binds a local `today` as a date object and a local `date_str` for the
+# pandoc metadata, so reusing those names here would silently change the format.
+GENERATED_DATE = datetime.date.today().strftime('%B %d, %Y')
 # --- assemble markdown ---
 parts = []
 
@@ -696,6 +701,7 @@ nav#toc > ol > li > ol > li > a { font-weight: 600; }
     editor, and is dedicated to the
     public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
     content for any purpose without asking permission.</p>
+    <p><strong>Generated:</strong> {GENERATED_DATE}</p>
     <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
     <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
     inaccuracies or errors.</p>
@@ -777,6 +783,7 @@ def build_pdf():
   editor, and is dedicated to the
   public domain under a <strong>{LICENSE['name']}</strong> license - no rights reserved. You may copy, modify, distribute, and use the
   content for any purpose without asking permission.</p>
+  <p><strong>Generated:</strong> {GENERATED_DATE}</p>
   <p class="cc0"><img src="data:image/png;base64,{cc0_b64}" alt="" aria-hidden="true" width="88" height="31" /></p>
   <p><strong>&#9888;&#65039; Disclaimer:</strong> AI-generated output may contain
   inaccuracies or errors.</p>
