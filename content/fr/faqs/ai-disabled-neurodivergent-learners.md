@@ -9,6 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
+source_updated: "2026-09-19T06:28:59-04:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

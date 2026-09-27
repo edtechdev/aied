@@ -7,6 +7,7 @@ pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
+source_updated: "2026-08-31T06:34:37-04:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

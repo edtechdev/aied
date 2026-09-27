@@ -10,6 +10,7 @@ research_method: [survey, case study]
 audience: [faculty developers, administrators]
 level: [higher ed, teacher education, k 12]
 institutions: [change-management]
+source_updated: "2026-09-18T09:10:00-04:00"
 translation_of: faqs/faculty-development-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

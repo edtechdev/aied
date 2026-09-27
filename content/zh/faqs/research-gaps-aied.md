@@ -12,6 +12,7 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
+source_updated: "2026-09-19T06:28:59-04:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

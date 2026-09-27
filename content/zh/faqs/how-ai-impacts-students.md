@@ -7,6 +7,7 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
+source_updated: "2026-09-17T02:43:50-04:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

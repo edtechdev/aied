@@ -11,6 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
+source_updated: "2026-09-19T06:28:59-04:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

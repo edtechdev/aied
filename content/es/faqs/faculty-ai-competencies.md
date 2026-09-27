@@ -6,6 +6,7 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
+source_updated: "2026-09-17T02:27:38-04:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

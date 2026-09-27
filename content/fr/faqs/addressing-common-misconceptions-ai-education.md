@@ -9,6 +9,7 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

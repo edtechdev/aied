@@ -6,6 +6,7 @@ weight: 64
 foundations: [learning-design]
 ethics: [accessibility, equity-in-ai-education, pedagogical-safety]
 technology: [edtech-platform]
+source_updated: "2026-09-18T09:10:00-04:00"
 translation_of: faqs/designing-educational-ai-software
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

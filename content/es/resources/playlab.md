@@ -17,6 +17,7 @@ level: [k 12, higher ed]
 audience: [instructors, instructional designers, educational technology developers]
 confidence: high
 connected_resources: [teacherserver, edugems]
+source_updated: "2026-09-20T16:45:00-04:00"
 translation_of: resources/playlab
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]

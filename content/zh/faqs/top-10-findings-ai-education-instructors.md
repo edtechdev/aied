@@ -7,6 +7,7 @@ foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
 audience: [instructors]
+source_updated: "2026-09-19T14:21:37-04:00"
 translation_of: faqs/top-10-findings-ai-education-instructors
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

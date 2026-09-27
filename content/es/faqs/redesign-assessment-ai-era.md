@@ -5,6 +5,7 @@ updated: "2026-09-22T18:29:05-04:00"
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
+source_updated: "2026-09-17T02:26:00-04:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
