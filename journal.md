@@ -1,6 +1,12 @@
 # Journal
 
-Last updated: 2026-09-26 | Total entries: 1714
+Last updated: 2026-09-27 | Total entries: 1717
+
+## 2026-09-27
+
+- 📄 [[bicer-genai-pd-math-creativity-2026]] — How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge
+- 📄 [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis
+- 📄 [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception
 
 ## 2026-09-26
 

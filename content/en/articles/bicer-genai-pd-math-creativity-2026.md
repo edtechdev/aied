@@ -63,27 +63,6 @@ Adaptive prompting kept teachers from "slipping into teacher autopilot"; Teacher
 - Teachers reported design constraints including repetition, notation or formatting glitches, hallucination risk, limited visualization tools, and lack of peer learning.
 - The evidence base is qualitative logs, artifacts and interviews from a purposeful sample; the authors call for larger and comparative samples to test transfer.
 
-## Connected Concepts
-
-- [[ai-education]]
-- [[generative-ai]]
-- [[professional-training]]
-- [[creativity]]
-- [[problem-solving]]
-- [[math-education]]
-- [[pedagogical-agent]]
-- [[human-ai-collaboration]]
-- [[teacher-ai-competency]]
-- [[teacher-role]]
-- [[scaffolding]]
-- [[simulating-students]]
-- [[metacognition]]
-- [[equity-in-ai-education]]
-
-## Connected Articles
-
-- [[mujib-ai-ibl-creative-math-2026]] — experiments with AI-supported inquiry-based creative mathematics for students, the learner-side counterpart to this teacher-side professional development study
-
 ## Citation
 
 Bicer, A., Aldemir, T., Lee, U., Moon, J., Rambo Hernandez, K., & Sanders, M. (2026). [*How generative AI guided-professional development supports teachers’ engagement with mathematical creativity, content knowledge, and pedagogical content knowledge*](https://doi.org/10.1007/s11858-026-01816-1). *ZDM - Mathematics Education*, 58, 1027–1039.

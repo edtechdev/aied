@@ -65,19 +65,6 @@ Table 1 in the paper reviews prior studies of automated feedback for argumentati
 - The mediation rests on self-report measures, so shared method variance could inflate the indirect effects.
 - Evidence is task-level and correlational; the suggestion that receptivity effects accumulate over time is explicitly tentative.
 
-## Connected Concepts
-
-- [[feedback]]
-- [[automated-assessment]]
-- [[motivation]]
-- [[feedback-literacy]]
-- [[writing-education]]
-- [[quantitative-research]]
-
-## Connected Articles
-
-- [[llm-formative-feedback-systematic-review-2026]] — reviews LLM-generated formative feedback studies that mostly report average revision-quality gains, the aggregate picture this paper unpacks by student.
-
 ## Citation
 
 Jansen, T., Bahr, J. L., Schaller, N.-J., Höft, L., & Meyer, J. (2026). [Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception](https://doi.org/10.1016/j.lindif.2026.102969). *Learning and Individual Differences*, 130, 102969.
