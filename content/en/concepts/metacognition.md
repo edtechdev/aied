@@ -1,7 +1,7 @@
 ---
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-09-25T21:56:00-04:00"
+updated: "2026-09-27T07:10:53-04:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -45,6 +45,8 @@ Key findings:
 - **Kosmyna et al. (2025):** Students who used AI essay assistance were **83% unable to recall quotes** from their own essays, vs. 11% for non-AI users — indicating they did not engage with the content during production.
 - **Stadler et al. (2024):** General-purpose AI reduced cognitive load but produced **lower-quality reasoning** vs. traditional search, suggesting metacognitive engagement was displaced.
 - **Lehmann et al. (2025):** General AI for [[cs-education|programming]] harmed understanding for low-[[prior-knowledge]] students — the students most in need of metacognitive scaffolding received answers instead.
+
+Fluency is why the loss goes unnoticed. Learners judge their learning partly from how easily material is processed, and Bjork et al. (2013) show that fluency cues lead people to overestimate their understanding when content feels easy; fluent AI-generated text supplies that feeling whether or not comprehension followed, creating the conditions for a manufactured illusion of competence. [[generativism-learning-theory|Generativism]] treats this as the reason adaptive metacognition cannot be assumed: the learner has to ask whether ease of reading reflects understanding rather than reading the ease as the answer.
 
 ### The Augmentation Opportunity (Scheu et al., 2026)
 
