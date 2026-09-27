@@ -79,6 +79,10 @@ build:
     # Frontmatter date fields must stay quoted strings: an unquoted ISO timestamp is a
     # YAML date, which the schema normalises to UTC and can shift to the next calendar day.
     - python3 tooling/scripts/check-frontmatter-dates.py
+    # Source preservation: every source PDF must live in `paths.pdf_sources`. The rule
+    # was written down in AGENTS.md and still got broken (a second store appeared under
+    # `raw/pdfs/`), so this checks the filesystem rather than trusting the prose.
+    - python3 tooling/scripts/check-pdf-store.py
   site: npm run build             # Astro + Pagefind + PWA service worker
   llms: python3 tooling/scripts/generate-llms-files.py
   # Offline books are LOCAL committed artefacts, rebuilt ONLY on explicit
