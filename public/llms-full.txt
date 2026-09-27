@@ -1,5 +1,5 @@
 # AI in Education Knowledge Base — Full Content
-> Complete text of 217 concepts, 1491 articles, and 32 FAQs.
+> Complete text of 217 concepts, 1489 articles, and 32 FAQs.
 
 # Concepts
 
@@ -51251,54 +51251,6 @@ Conrad Borchers (2026). [Framing the 5% Problem: Teachers' Perspectives on Persi
 
 ---
 
-## [The friction paradox: generative AI and the educational value of difficulty in education abroad](https://edtechdev.github.io/aied/articles/friction-paradox-generative-ai-difficulty-education-2026/)
-
-> **Synthesis:** Gupta advances a conceptual framework for how [[generative-ai|generative AI]] alters the educational value of difficulty during education abroad, arguing that the technology can widen access to mobility while weakening a principal learning mechanism. Intercultural friction is divided along two dimensions: harmful and productive friction by educational function, and synthetic friction by technological origin, whose status turns on whether the student detects and contests it. AI use is organized along a mediation gradient of five levels, access, preparation, co-interpretation, delegation and substitution, keyed to the degree of [[agency|interpretive agency]] transferred rather than volume of use, while a two-by-two immersion heuristic crossing AI support with human engagement names supported immersion as the target. Because emerging evidence reports largely positive associations between AI use and international-student adaptation, five falsifiable propositions are offered rather than settled claims.
-
-## Key Findings
-
-1. **Difficulty is classified by function and by origin, not by intensity.** Harmful friction blocks safety, access or participation, productive friction can spur engagement and perspective revision, and synthetic friction is AI-generated and may act as either.
-2. **Interpretive agency, not volume of use, is the decisive variable.** The gradient is diagnosed by who frames the question, who evaluates meanings, who chooses the response, whether a human encounter follows and whether the student reflects.
-3. **Timing changes what the same output does.** An explanation before an encounter can act as preparation, in real time as delegation, and afterwards as co-interpretation.
-4. **Satisfaction and adaptation can diverge from intercultural learning.** Proposition 5 predicts adaptation may rise while frame revision falls, so the outcomes should be measured separately.
-5. **The paper treats its own evidence base as the chief challenge.** Ma et al. (2025) and Zhu and Yang (2026) report AI use associated with improved adaptation, and Qu and Chen (2026) found voice-based AI interlocutors improved intercultural communicative competence while reducing speaking anxiety.
-6. **Benefit is expected to be strongest where barriers are greatest.** Proposition 3 conditions that benefit on tool access, AI literacy and human escalation.
-
-## Friction, and the two dimensions it is classified along
-
-The argument extends the [[desirable-difficulties|desirable difficulties]] and productive failure literatures, built around structured academic tasks, to difficulty arising inside a relational encounter. Education abroad supplies the conditions for transformation rather than producing it, and the productive difficulty here is an ambiguous social norm or a misunderstanding repaired through interaction. Three features distinguish this case: the difficulty is relational, it is interpretively open, and avoidance is socially invisible because declining a difficult conversation carries no penalty.
-
-Intercultural friction is a discrepancy between a student's expectations, capabilities or interpretive frames and the demands of an unfamiliar context. Harmful and productive friction classify educational function; synthetic friction classifies origin, such as an incorrect translation, a fabricated local rule or a stereotyped cultural explanation. The dimensions intersect: an AI misreading accepted uncritically is harmful, while the same misreading raised with a host participant may be productive. The taxonomy rejects friction romanticism and friction elimination alike, and the friction-conversion principle follows: reduce harmful friction, convert manageable difficulty into supported participation, preserve the student's interpretive role, and make synthetic friction visible and contestable.
-
-## The mediation gradient as the design variable
-
-The gradient is why the author treats debates about whether AI is permitted as unproductive. Access preserves full interpretive responsibility; preparation leaves agency with the student and the encounter still occurs; co-interpretation shares agency and works only if the student adjudicates; delegation has AI perform the interpretive work with formal approval; substitution displaces the human encounter or the reflection. Task type is a poor proxy, because a long AI-drafted message the student interrogates may transfer less [[cognitive-offloading|offloading]] than a brief cultural explanation accepted unexamined. The immersion heuristic crosses AI support with human engagement into unmanaged struggle, traditional immersion, frictionless enclosure, where a student is physically abroad behind a layer that answers before the environment can, and supported immersion, the target. [[experiential-learning|Experiential learning]] and [[metacognition|reflection]] sit inside it.
-
-## The empirical record the argument must survive
-
-The paper states that the growing literature on generative AI and international students reports largely positive associations, and treats Qu and Chen (2026) on simulated interlocutors as its principal empirical challenge, conceding that simulated interaction is not automatically substitutive. Three considerations keep the question open. Adaptation and intercultural competence are distinct outcomes, and the studies largely measure the former. Use is measured by frequency or perceived helpfulness, while Zhu et al. (2026) show frequency cannot separate autonomous from dependent offloading, so aggregating preparatory and substitutive use would attenuate both. The designs are largely cross-sectional and self-reported, and self-reported adaptation likely correlates with reduced experienced difficulty, the mechanism under examination. The research agenda calls for instrumentation separating use frequency from function, agency level, timing and verification, and for longitudinal designs.
-
-## What this means for practice
-
-- **Instructors and faculty developers.** Teach mediation literacy rather than generic AI literacy, asking students to classify realistic scenarios by friction type and mediation level. Educator trust in these systems is uneven and shaped by institutional support (Lelescu et al. 2025), so this is staff development too.
-- **Curriculum designers.** Sequence AI use as prepare, participate, reflect, then compare expectations with the encounter. A brief mediation log suits this if it stays metacognitive rather than surveillance.
-- **Assessment designers.** Examine the interpretive process: initial versus revised interpretations, analysis of an AI-generated cultural explanation, evidence from direct interaction, unresolved ambiguity and oral discussion, with disclosure of how mediation occurred.
-- **Institutions.** Publish human escalation routes and treat AI as non-authoritative for visa compliance, medical emergencies, safety, discrimination reporting, legal matters, discipline and acute distress.
-- **Evaluation teams.** Record whether AI use changed host-community interaction, willingness to communicate under uncertainty, tolerance for ambiguity, belonging and dependence, and keep satisfaction as one measure among several.
-
-## Limitations
-
-- The publication is a Research Square preprint and is not peer reviewed (generative AI was used inside it for citation verification); it reports no study, and the author concedes the framework is conceptual, untested and not a systematic or exhaustive review. and the propositions may not survive examination, and states that it is not a systematic or exhaustive review. Scope excludes admissions, recruitment, intermediary services and study-destination guidance.
-- The existing literature already reports positive associations between AI use and international-student adaptation, and in one case with intercultural communicative competence, so the divergence predicted here is falsifiable but untested. No effect sizes, sample sizes or outcome statistics appear in the text.
-- The source studies are predominantly cross-sectional and self-reported, which the paper names as a limit on adjudicating between its account and theirs. No participants or datasets are involved, and ethical approval and informed consent are declared not applicable.
-- The author writes from pre-departure advising rather than an in-country standpoint and declares a competing interest as proprietor of Karan Gupta Consulting, Mumbai, and Managing Director, India and South Asia, at IE University.
-
-## Citation
-
-Gupta, K. (2026). [The friction paradox: generative AI and the educational value of difficulty in education abroad](https://doi.org/10.21203/rs.3.rs-10609387/v1). *Research Square* preprint.
-
----
-
 ## [From Answer Generators to Reasoning Facilitators: Designing AI Tutors for Mathematical Reasoning in High-Stakes Environments](https://edtechdev.github.io/aied/articles/from-answer-generators-to-reasoning-facilitators-ai-tutors/)
 
 > **Synthesis:** The rapid integration of [[llm]]s into [[intelligent-tutoring]] threatens to reduce mathematical learning to mere answer generation. This paper presents a design framework for AI tutors that act as reasoning facilitators rather than answer generators, specifically targeting high-stakes exam preparation environments. Through a [[mixed-methods-research|mixed-methods]] study of junior-high students preparing for the Zhongkao exam, the authors find that students actively resist traditional [[socratic-method|Socratic dialogue]] under time pressure and repurpose "answer-first" shortcuts as diagnostic checkpoints, and that features such as layered worked examples, step-linked visual grounding, and [[metacognition|metacognitive]] scaffolding lower the interaction cost of reasoning repair. The framework provides concrete guidelines for designing [[student-experience]] patterns that prioritize deep understanding over superficial completion in [[k-12]] [[math-education|mathematics]].
@@ -74700,54 +74652,6 @@ Cheng, X., Wang, J., He, C., Dong, R., & Guan, Q. (2026). [*ProPRL: Property-Awa
 
 ---
 
-## [Protecting the Learner in the Age of Artificial Intelligence: An Educational Psychology Policy Agenda for Student Well-Being, Agency and Resilience in Sub-Saharan Africa](https://edtechdev.github.io/aied/articles/protecting-the-learner-ai-educational-psychology-2026/)
-
-> **Synthesis:** This F1000Research policy brief (version 1, awaiting peer review) argues that [[ai-education|AI in education]] in Sub-Saharan Africa should be judged by its effect on student [[well-being]], [[agency|learner agency]] and resilience rather than by adoption rates or efficiency. Written from an educational psychology perspective by five authors based at Kampala International University and the University of South Africa, it proposes a learner-protection agenda covering age-appropriate safeguards, teacher capacity, [[ai-literacy|AI literacy]] in curricula, learner data protection, equitable access, culturally relevant AI systems and student participation in AI governance. It is an advocacy document rather than an empirical study: the paper reports no sample, no data collection and no effect sizes, and states that there is no data associated with the study. Its regional scope is stated throughout, and it names digital inequality, weak regulatory capacity, thin data-protection systems, language and cultural under-representation, and uneven institutional preparation as conditions that intensify the risks in the region. Its central recommendation is a shift from an adoption agenda to a learner-protection and learner-development goal.
-
-## Key Findings
-
-1. **The brief reports no original data; its content is an argued policy agenda, not measured outcomes.** The paper cites no sample, instrument, intervention or effect size, and states that "There is no data associated with this study."
-2. **Well-being, agency and resilience are proposed as the constructs for evaluating educational AI.** Well-being is defined through psychological safety, belonging, emotional health and supportive learning relationships; agency through autonomy, critical judgment, voice, informed decision-making and [[self-regulated-learning|self-regulated learning]]; resilience through learners' capacity to adapt to technological disruption, misinformation, academic pressures and shifting employment environments.
-3. **Student well-being should become a standard criterion for evaluating AI systems in education.** Ministries, institutions and providers should examine AI's influence on anxiety, academic pressure, motivation, self-esteem, attention, social interaction and school belonging, and include psychosocial indicators in routine assessment of effectiveness.
-4. **AI literacy is framed as ethical, psychological and social, not merely technical.** Learners should understand how AI systems generate information and where their limits lie, misinformation and algorithmic bias, attribution of AI-assisted work, privacy and responsible use.
-5. **High-stakes academic and developmental decisions must keep meaningful human judgment.** The brief calls for human oversight, transparency and appeal processes for admissions, progression, discipline and psychological profiling, and warns against replacing independent reasoning with AI-generated replies.
-6. **Equity and cultural representation are treated as preconditions, not add-ons.** Public investment should prioritize rural and low-income populations, refugees, learners with impairments and girls; equity impact assessments should precede large-scale adoption; and procurement should weigh language inclusivity, cultural relevance and evidence of algorithmic fairness.
-
-## From technology adoption to learner protection
-
-The brief is organized as an introduction, policy implications, recommendations and conclusions. Its stated question is not whether African schools, colleges and learners use AI at all, but whether they use it in ways that foster human development. The authors are explicit that they are not calling for rejecting AI or limiting useful innovation; they argue for educational contexts in which AI assists human teaching, amplifies rather than replaces autonomous reasoning, protects psychological and informational safety, and extends learner agency.
-
-The agenda is anchored in existing continental policy: the African Union Continental Artificial Intelligence Strategy, adopted in 2024, and the Continental Education Strategy for Africa 2026 to 2035. It also cites UNICEF guidance that AI systems affecting children must protect privacy and safety, ensure fairness and inclusion, promote development and well-being, be transparent and accountable, and act in the child's best interests. It notes that many AI tools used by African learners are built outside the continent and trained mostly on data, languages and cultural contexts that may not represent African societies, raising questions about algorithmic bias, linguistic exclusion, data ownership and whose knowledge is valued.
-
-## Age-differentiated safeguards and the teacher relationship
-
-Two design commitments run through the policy implications. The first is differentiation by developmental stage: children and teenagers differ from adults in cognitive maturity, emotional regulation and vulnerability to digital influence, so education authorities should develop separate recommendations for primary, secondary and postsecondary education covering AI-assisted learning, [[assessment|assessment]], [[automated-assessment|automated feedback]], data gathering and [[conversational-ai|conversational systems]]. Particular care is urged where AI provides emotional companionship, counselling-type help or authoritative guidance. The second is that teacher and student relationships stay central: automated teaching, feedback and assessment should supplement rather than replace human engagement, and AI should mainly reduce administrative workload, support differentiated instruction and strengthen feedback while teachers retain professional judgment. Teacher education should combine AI literacy, digital pedagogy and educational psychology.
-
-## Equity, data protection and assessment reform
-
-Equity is handled as a governance requirement rather than a distribution problem. Access to energy, internet connectivity, digital devices, AI platforms and digitally equipped teachers is unequal, which the brief says could worsen existing inequities; it calls for publicly subsidized or institutionally licensed AI platforms so that quality AI-assisted learning does not depend on household income. On data, regulations should specify what learner data can be collected, for how long, by whom, and whether it can be used commercially. On assessment, the brief urges realistic, oral, practical, reflective and [[process-oriented-assessment|process-based forms]] that reveal real student knowledge, with learners able to question significant AI-supported decisions. Resilience is proposed as an explicit educational goal built on self-regulation, adaptability, critical thinking, digital citizenship, problem-solving and help-seeking.
-
-## What this means for practice
-
-- **Policymakers.** Define appropriate AI use separately for primary, secondary and postsecondary education in national guidelines, and reserve admissions, progression, discipline and profiling decisions for human judgment with an appeal route.
-- **Administrators.** Adopt explicit institutional policies naming permissible, limited and prohibited uses of [[generative-ai|generative AI]] and stating when disclosure of AI assistance is required.
-- **Instructors.** Design assessments toward oral, practical, reflective and process-based evidence, and pair AI feedback with your own so that it supplements rather than substitutes for teaching contact.
-- **Administrators.** Add motivation, anxiety, academic stress, social interaction and technology dependence to routine monitoring of any AI deployment, with counselling and psychosocial support funded alongside it.
-- **Policymakers and institutions.** Require equity impact assessments before large-scale adoption and build learner consultation into governance, since the brief argues legitimacy depends on responsiveness to learners' lived experience.
-
-## Limitations
-
-- The paper is a policy brief with no primary data, no pilot, no implementation study and no reported effect sizes: every recommendation is an argued position rather than a tested intervention. The brief concedes that children in the Global South are under-represented in both research and decision-making about AI systems.
-- It is published as version 1 with the status awaiting peer review, and the DOI resolves to that version of record, so no reviewer reports or post-review revisions exist yet.
-- The scope is explicitly Sub-Saharan Africa and the brief does not claim transferability elsewhere; nor does it report whether the continental strategies and UNICEF guidance it cites have been implemented.
-- The recommendations name psychosocial constructs to monitor but give no measurement instruments, indicators, thresholds, cost estimates or timelines.
-
-## Citation
-
-Bashaija, A., Aja, L., Otitoju, A. M., Bwema, K., & Aja, P. M. (2026). [Protecting the Learner in the Age of Artificial Intelligence: An Educational Psychology Policy Agenda for Student Well-Being, Agency and Resilience in Sub-Saharan Africa](https://doi.org/10.12688/f1000research.190304.1). *F1000Research*.
-
----
-
 ## [The psychological mechanisms and behavioral determinants of academic integrity in the age of artificial intelligence](https://edtechdev.github.io/aied/articles/psychological-mechanisms-academic-integrity-ai-2026/)
 
 > **Synthesis:** Yilmaz (2026) tested an integrated moderated-mediation model with 1,045 Turkish undergraduates to explain AI-assisted academic dishonesty. The study found that academic [[motivation|procrastination]] and learned helplessness positively predicted a cheating tendency, while [[self-efficacy|academic self-efficacy]] negatively predicted it; cheating tendency in turn predicted AI-assisted dishonesty, with the link **amplified at higher levels of AI use**. Social and contextual factors (e.g., social norms, peer behavior, insufficient sanctions, high expectations) predicted dishonesty, whereas ethical and moral education emerged as a protective negative predictor.
@@ -88232,7 +88136,7 @@ Wright, B. (2026). [Potential for Enhanced Learning in Machine Learning Classes 
 
 ---
 
-## [Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings](https://edtechdev.github.io/aied/articles/will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-/)
+## [Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings](https://edtechdev.github.io/aied/articles/will-skill-not-tool-chinese-university-students-generative-ai-academic-writing/)
 
 > **Synthesis:** Yang & Huang (2026) adopt the **Will, Skill, Tool (WST)** model to explore how English-medium-instruction (EMI) students' intentions to use [[generative-ai|GenAI]] for [[writing-education|academic writing]] are shaped by AI-specific variables. Survey data from 512 university students at an EMI university in China, modeled with SEM, explained **56% of the variance** in behavioral intentions. **Will-related factors** (attitudes, perceived risks, perceived importance of policy) and the **skill factor** ([[ai-literacy|AI literacy]]) were significant antecedents, whereas the **tool component** (facilitating conditions) was **not** significant. Attitudes and perceived risks served as significant indirect pathways linking perceived-importance-of-policy and AI literacy to behavioral intentions.
 
