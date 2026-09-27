@@ -104,7 +104,7 @@ const fr: UiStrings = {
   notTranslatedHint:
     'Cette page n\'est pas encore traduite, le lien ouvre donc la page d\'accueil de cette langue.',
   translationNoticeHtml:
-    'Cette page est traduite en français, mais la base de connaissances elle-même, y compris ses pages d\'articles, de concepts et de FAQ, est rédigée en anglais.',
+    'Cette page est traduite en français. Les pages d\'articles sont encore rédigées en anglais.',
   originalPageLabel: 'Lire cette page en anglais',
   chrome: {
     siteName: 'Base de connaissances sur l\'IA en éducation',

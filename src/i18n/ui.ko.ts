@@ -103,7 +103,7 @@ const ko: UiStrings = {
   notTranslated: '영어만 제공',
   notTranslatedHint:
     '이 페이지는 아직 번역되지 않았으므로, 해당 링크는 그 언어의 홈 페이지를 엽니다.',
-  translationNoticeHtml: '이 페이지는 한국어로 번역되었지만, 지식베이스 자체(문서 페이지, 개념 페이지, FAQ 페이지 포함)는 영어로 작성되었습니다.',
+  translationNoticeHtml: '이 페이지는 한국어로 번역되었습니다. 문서 페이지는 여전히 영어로 작성되어 있습니다.',
   originalPageLabel: '이 페이지를 영어로 읽기',
   chrome: {
     siteName: '교육에서의 인공지능 지식베이스',
