@@ -9,6 +9,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+    date: "2026-09-24"
+    agent: hermes-agent
 reviewed_by: [editor]
 foundations: [ai-education, agentic-ai, teacher-role, human-ai-collaboration, limitations-in-aied-research]
 pedagogy: [scaffolding, misconceptions, situated-learning, transfer-of-learning, productive-failure]

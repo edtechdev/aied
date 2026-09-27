@@ -20,6 +20,7 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-26"
+    agent: hermes-agent
 reviewed_by: [editor]
 ---
 

@@ -9,6 +9,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+    date: "2026-09-24"
+    agent: hermes-agent
 reviewed_by: [editor]
 foundations: [theories-and-frameworks, limitations-in-aied-research]
 pedagogy: [problem-solving, cognitive-psychology, misconceptions, prior-knowledge]

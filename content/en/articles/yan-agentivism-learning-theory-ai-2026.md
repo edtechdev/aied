@@ -9,6 +9,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+    date: "2026-09-23"
+    agent: hermes-agent
 reviewed_by: [editor]
 foundations: [agentic-ai, agency, theories-and-frameworks, theory-development-aied, human-ai-collaboration, cognitive-offloading]
 pedagogy: [learning-theories, cognitive-psychology, metacognition, transfer-of-learning, self-regulated-learning, constructivist]
