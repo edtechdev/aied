@@ -9,6 +9,8 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
+    date: "2026-09-24"
+    agent: hermes-agent
 reviewed_by: [editor]
 foundations: [ai-education, curriculum-design, theories-and-frameworks, teacher-role, human-ai-collaboration]
 pedagogy: [pedagogy, scaffolding, social-emotional-learning, student-ai-interaction]
