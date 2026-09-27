@@ -1,7 +1,7 @@
 ---
 title: Behaviorism
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-08-31T06:34:37-04:00"
+updated: "2026-09-27T07:10:53-04:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -37,6 +37,12 @@ Behaviorism holds that learning is the strengthening or weakening of stimulus–
 ### Behaviorist designs dominate practice
 
 Empirical work repeatedly finds that actual AI implementations are predominantly **behaviorist or cognitively oriented** — emphasizing drill-and-practice, immediate [[feedback]], and adaptive pacing — even where discourse espouses richer theories. A [[meta-analysis-systematic-review|systematic review]] of AI in vocational education and training (VET) concluded that constructivist theories are espoused in VET discourse while **behaviorist AI implementations dominate in practice**, and warned of an educational "Turing Trap" — using AI to replicate rather than augment human instruction.([[ai-vocational-education-training-review]])
+
+### Output equivalence: when behavior no longer certifies learning
+
+Behaviorism defines learning as a change in observable behavior, which makes it the theory most directly embarrassed by generative AI: a learner can now produce an essay, an analysis, or working code indistinguishable from the work of someone who holds the competence the artifact is supposed to certify. The observable behavior is identical while the learning may not have occurred, a failure mode [[generativism-learning-theory|Generativism]] calls the behavioral equivalence problem.
+
+The gap between performance and learning is not new, but AI widens it. In a field experiment with nearly a thousand high school mathematics students, unrestricted access to a standard assistant raised practice performance by 48 percent while the same students later scored 17 percent below peers who had practiced without AI on an unassisted exam; a guardrailed tutor version largely removed that deficit ([[genai-performance-vs-learning]]). Read behaviorally, the lesson is about measurement rather than pedagogy: a system that optimizes for the output can satisfy the theory's own criterion of learning while failing its purpose.
 
 ### The tension with constructivism and agency
 

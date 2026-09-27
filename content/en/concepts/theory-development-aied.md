@@ -1,7 +1,7 @@
 ---
 title: Theory Development in AI in Education
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-09-24T10:07:27-04:00"
+updated: "2026-09-27T07:10:53-04:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -31,7 +31,7 @@ Theory development in AIEd sits at the boundary between the applied [[learning-t
 
 A growing cluster of articles explicitly creates new theory for the AI era rather than applying existing frames:
 
-- **Generativism.** [[generativism-learning-theory|Generativism]] is proposed as a new learning theory, arguing that behaviorism, cognitivism, [[constructivist|constructivism]], and connectivism show significant conceptual limitations as [[generative-ai|generative AI]] proliferates — a direct bid to name a distinct theoretical paradigm for AI-mediated learning.
+- **Generativism.** [[generativism-learning-theory|Generativism]] is proposed as a new learning theory, arguing that behaviorism, cognitivism, [[constructivist|constructivism]], and connectivism each rest on one assumption that generative AI breaks: that observable output certifies learning (behaviorism), that cognitive operations happen inside the learner (cognitivism), that meaning is constructed rather than supplied (constructivism), and that the hard part is navigating to existing knowledge rather than generating it (connectivism). It names four constructs — epistemic partnership, distributed agency, generative literacy, and adaptive metacognition — and derives an assessment indicator for each, a direct bid to name a distinct theoretical paradigm for AI-mediated learning. What it does not do is state propositions that could fail: it is a position paper synthesizing existing evidence, so unlike Agentivism below it offers a vocabulary and a measurement agenda rather than a falsifiable theory.
 - **Agentivism.** [[yan-agentivism-learning-theory-ai-2026|Yan and Gašević (2026)]] propose Agentivism as a mid-range learning theory for human-AI interaction, defining learning as durable growth in human capability rather than successful task completion with AI, and specifying four mechanisms: delegated agency, epistemic monitoring and verification, reconstructive internalization, and transfer under reduced support. What separates it from the other bids on this page is falsifiability: it states six propositions, including that learning is stronger when AI preserves learner responsibility for problem framing, criteria setting and justification than when it supplies answers, and that requiring verification should improve delayed performance while repeated low-friction delegation without reconstruction should weaken learners' calibration of their own competence.
 
 - **Epistemic co-agency.** [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|Learning with Machines]] builds "toward a theory of epistemic co-agency," a theory-informed model of how learners and GenAI systems jointly produce knowledge and understanding.
