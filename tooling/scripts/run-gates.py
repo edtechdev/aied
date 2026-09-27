@@ -94,13 +94,28 @@ def changed_paths(wiki):
     for cmd in cmds:
         out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
         paths.update(p for p in out.splitlines() if p.strip())
+    # Mirror the checker's own scope exactly: the default-locale page collections, plus
+    # the note files it scans with --include-docs. index.md, journal.md and
+    # AIED-BACKLOG.md are deliberately outside both, because they reproduce published
+    # titles verbatim and a British spelling in a paper's title is correct, not a defect.
+    page_dirs = ('content/en/articles/', 'content/en/concepts/', 'content/en/faqs/')
+    # AGENTS.md and README.md are the notes the checker already scans by default. The rest
+    # of tooling/ and skills/ stay out of the scoped pass on purpose: several of those files
+    # document this very rule (the sweep brief lists "gray not grey; modeled not modelled",
+    # the article-quality skill discusses respelling and names British slugs), so scanning
+    # them reports the rule's own examples as defects. Reading that output is a human
+    # judgement, which is what the explicit --include-docs pass is for.
+    note_files = ('AGENTS.md', 'README.md')
     keep = []
     for p in sorted(paths):
         if not p.endswith('.md'):
             continue
         if p.startswith('content/') and not p.startswith('content/en/'):
             continue  # translated prose is not English; its own workflow checks it
-        keep.append(p)
+        if not os.path.exists(os.path.join(wiki, p)):
+            continue  # deleted in this change set: nothing left to scan
+        if p.startswith(page_dirs) or p in note_files:
+            keep.append(p)
     return keep
 
 

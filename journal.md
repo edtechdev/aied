@@ -1,12 +1,10 @@
 # Journal
 
-Last updated: 2026-09-27 | Total entries: 1734
+Last updated: 2026-09-27 | Total entries: 1732
 
 ## 2026-09-27
 
-- 📄 [[friction-paradox-generative-ai-difficulty-education-2026]] — The friction paradox: generative AI and the educational value of difficulty in education abroad
 - 📄 [[automated-scoring-learning-diagnosis-mechanism-2026]] — From automated scoring to learning diagnosis: a mechanism study of AI-supported formative assessment in English writing
-- 📄 [[protecting-the-learner-ai-educational-psychology-2026]] — Protecting the Learner in the Age of Artificial Intelligence: An Educational Psychology Policy Agenda for Student Well-Being, Agency and Resilience in Sub-Saharan Africa
 
 - 📄 [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
 - 📄 [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
