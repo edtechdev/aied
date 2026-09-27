@@ -14,6 +14,10 @@ for a file that has not changed is the same as the last time the gate ran. It
 scopes every gate that can be scoped to the pages touched since HEAD and names the
 gates it had to skip, instead of silently scanning all ~1,800 pages.
 
+The house-style gate is scoped by file rather than by page slug, and covers notes as
+well as pages: a British spelling in AGENTS.md or a reference doc is the same defect
+as one in an article, and scoping it to pages alone would let those through.
+
 A full-site run is a deliberate act (the user rule is explicit opt-in), because the
 inline-link gate walks the whole corpus and dominates the wall time.
 
@@ -22,6 +26,7 @@ pre-commit hook. A green `npm run build` is NOT a substitute for these checks.
 """
 import os
 import re
+import shlex
 import subprocess
 import sys
 
@@ -31,6 +36,8 @@ from wiki_config import load_config, path  # noqa: E402
 # Gates that can be narrowed to a page set, and how. Keyed by the script name in
 # the gate command so a reworded command does not silently lose its scoping.
 #   'slugs'   -> pass the changed slugs as arguments (script takes slugs)
+#   'paths'   -> pass the changed files as arguments (script takes slugs OR paths);
+#                used by the house-style check, which must also see a changed note
 #   'changed' -> pass --changed (script works out the touched pages itself)
 SCOPABLE = {
     'inline_link_scan.py': 'slugs',
@@ -38,6 +45,7 @@ SCOPABLE = {
     'audit-article-sections.py': 'changed',
     'check-ai-disclosure.py': 'changed',
     'verify-number-grounding.py': 'changed',
+    'check-us-english.py': 'paths',
 }
 
 # Registry- and corpus-level gates: they validate a fixed artifact (the concept
@@ -45,7 +53,7 @@ SCOPABLE = {
 # edited, so there is nothing to narrow them to.
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
-    'check-us-english.py', 'check-frontmatter-dates.py',
+    'check-frontmatter-dates.py',
 )
 
 
@@ -70,6 +78,32 @@ def changed_slugs(wiki):
     return sorted(slugs)
 
 
+def changed_paths(wiki):
+    """Repo-relative markdown files created or edited since HEAD, pages and notes.
+
+    The house-style gate is the one gate whose subject is prose anywhere, so it is
+    scoped by file rather than by page slug: a British spelling introduced in
+    AGENTS.md, a reference doc or a skill file is the same defect as one in an
+    article. Pages are covered too, so nothing is checked twice or left out.
+    """
+    cmds = [
+        ['git', 'diff', '--name-only', 'HEAD'],
+        ['git', 'ls-files', '--others', '--exclude-standard'],
+    ]
+    paths = set()
+    for cmd in cmds:
+        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
+        paths.update(p for p in out.splitlines() if p.strip())
+    keep = []
+    for p in sorted(paths):
+        if not p.endswith('.md'):
+            continue
+        if p.startswith('content/') and not p.startswith('content/en/'):
+            continue  # translated prose is not English; its own workflow checks it
+        keep.append(p)
+    return keep
+
+
 def scope_of(gate):
     for script, kind in SCOPABLE.items():
         if script in gate:
@@ -91,16 +125,23 @@ def main():
     changed_mode = '--changed' in argv
 
     slugs = changed_slugs(wiki) if changed_mode else []
-    skipped = []
+    paths = changed_paths(wiki) if changed_mode else []
+    skipped, skipped_nopage = [], []
     if changed_mode:
-        if not slugs:
+        if not slugs and not paths:
             print("Nothing changed versus HEAD — no page-scoped gate has anything to check.")
             print("(Use a bare run for the full-site pass.)")
             return 0
-        print(f"Changed page(s) vs HEAD: {len(slugs)}")
-        for s in slugs:
-            print(f"  - {s}")
+        if slugs:
+            print(f"Changed page(s) vs HEAD: {len(slugs)}")
+            for s in slugs:
+                print(f"  - {s}")
+        else:
+            # Only notes or scripts changed (a reference doc, a README, a gate script):
+            # the page-scoped gates have nothing to check, but the house-style gate does.
+            print("No changed page slugs vs HEAD — only notes or scripts.")
 
+    skipped_nopage = []
     failures = []
     ran = 0
     for i, gate in enumerate(gates, 1):
@@ -110,6 +151,13 @@ def main():
         if changed_mode and kind is None:
             skipped.append((i, gate))
             continue
+        if changed_mode and kind in ('slugs', 'changed') and not slugs:
+            # never run a page-scoped gate with an empty page set: the inline-link and
+            # list-formatting commands strip their own --all, so an empty argument list
+            # would silently turn them into a full-corpus scan, which is the cost this
+            # mode exists to avoid.
+            skipped_nopage.append((i, gate))
+            continue
         cmd = gate
         if changed_mode and kind == 'changed':
             cmd = gate if '--changed' in gate else f"{gate} --changed"
@@ -117,12 +165,23 @@ def main():
             # the configured command carries `--all`; drop it, or the script scans
             # the whole corpus and ignores the slugs we just computed
             cmd = re.sub(r'\s+--all\b', '', gate) + ' ' + ' '.join(slugs)
+        elif changed_mode and kind == 'paths':
+            if not paths:
+                skipped.append((i, gate))
+                continue
+            cmd = re.sub(r'\s+--all\b', '', gate) + ' ' + ' '.join(shlex.quote(x) for x in paths)
         ran += 1
         print(f"\n=== gate {i}/{len(gates)}: {cmd}")
         result = subprocess.run(cmd, shell=True, cwd=wiki)
         if result.returncode != 0:
             failures.append((i, gate, result.returncode))
     print()
+    if skipped_nopage:
+        print(f"Not run ({len(skipped_nopage)} page-scoped gate(s); no page changed, and running "
+              f"them with an empty page set would scan the whole corpus):")
+        for i, gate in skipped_nopage:
+            print(f"  gate {i}: {gate}")
+        print()
     if skipped:
         print(f"Not run ({len(skipped)} registry/corpus gate(s); they validate fixed artifacts, "
               f"not the pages you edited):")

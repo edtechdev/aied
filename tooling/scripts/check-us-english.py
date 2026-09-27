@@ -22,13 +22,24 @@ Scope and exclusions
   and the cron prompts, which carry the same house style and are read by the
   agent that writes the pages.
 
+Scoped mode
+-----------
+Naming page slugs (or repo-relative .md paths) on the command line scans only those
+files. That is what `run-gates.py --changed` passes, so a local run checks the pages
+and notes you just touched instead of the whole corpus. An explicitly named file
+outside articles/concepts/faqs is scanned even without `--include-docs`, because
+naming it is the request.
+
 Usage
     python3 tooling/scripts/check-us-english.py            # report, exit 1 if hits
     python3 tooling/scripts/check-us-english.py --quiet    # counts only
+    python3 tooling/scripts/check-us-english.py my-page-slug
+    python3 tooling/scripts/check-us-english.py tooling/README.md
 """
 from __future__ import annotations
 
 import argparse
+import os
 import re
 import sys
 from pathlib import Path
@@ -195,7 +206,27 @@ def scan_file(path: Path) -> dict:
     return hits
 
 
-def targets(include_docs: bool):
+def targets(include_docs: bool, named=()):
+    """Yield the files to scan. `named` holds page slugs or repo-relative paths;
+    when it is non-empty, only those files are considered."""
+    if named:
+        wanted = set(named)
+        seen, stems = set(), set()
+        for sub in ("articles", "concepts", "faqs"):
+            d = content_paths.collection(sub)
+            if d.is_dir():
+                for f in sorted(d.glob("*.md")):
+                    if f.stem in wanted:
+                        seen.add(f); stems.add(f.stem)
+                        yield f
+        for name in named:
+            if name in stems:
+                continue
+            candidate = Path(name) if os.path.isabs(name) else REPO / name
+            if candidate.exists() and candidate.suffix == ".md" and candidate not in seen:
+                seen.add(candidate)
+                yield candidate
+        return
     for sub in ("articles", "concepts", "faqs"):
         d = content_paths.collection(sub)
         if d.is_dir():
@@ -215,11 +246,17 @@ def main() -> int:
     ap.add_argument("--include-docs", action="store_true",
                     help="also scan AGENTS.md, tooling/**.md and skills/**/*.md")
     ap.add_argument("--quiet", action="store_true", help="counts only, no per-file lines")
+    ap.add_argument("named", nargs="*", metavar="SLUG_OR_PATH",
+                    help="scan only these page slugs or repo-relative .md paths")
     args = ap.parse_args()
 
     _load_slugs()
+    files = list(targets(args.include_docs, args.named))
+    if args.named and not files:
+        print(f"None of the {len(args.named)} named page(s) resolved to a file; nothing to check.")
+        return 0
     total_files, total_hits = 0, 0
-    for path in targets(args.include_docs):
+    for path in files:
         hits = scan_file(path)
         if not hits:
             continue
@@ -234,7 +271,7 @@ def main() -> int:
         print(f"\nFAIL - {total_hits} British spelling(s) across {total_files} file(s). "
               f"House style is US English; respell the body prose (never the Citation).")
         return 1
-    print(f"OK - no British spellings in {len(list(targets(args.include_docs)))} file(s) scanned.")
+    print(f"OK - no British spellings in {len(files)} file(s) scanned.")
     return 0
 
 
