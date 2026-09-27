@@ -149,3 +149,21 @@ comparison page whose summary table states another study's figure (attributed by
 way, and flags every figure in the table. Verify each one in the CITED page's raw source instead;
 when they all check out, treat the gate result as a structural false positive rather than rewriting
 the table.
+
+## Probes bypass the pacer
+
+A bulk open-access probe that loops over candidate PDFs with `curl` will fetch arxiv.org URLs
+too, silently skipping `arxiv_fetch.py --reserve`. arXiv allows one request per 3 seconds on a
+single connection and treats that as a rule, not a politeness. Before any loop over candidate
+URLs, either filter arxiv.org out of the batch or route each arXiv URL through
+`arxiv_fetch.py --reserve --hold 3`. If a probe already fetched an arXiv URL directly, the
+pacer state is stale: reserve a fresh window before the next scripted fetch instead of
+trusting the state file.
+
+## Triaging a backlog for self-acquisition
+
+When asked what can be ingested without the user supplying documents, do not stop at OpenAlex's
+`is_oa` flag. Fetch each candidate and require a `%PDF` magic header: Springer hybrid and
+ScienceDirect links are the two that most reliably return an HTML bot page or a 403 while still
+looking open. Report the verified-PDF set separately from the blocked set, and name a route for
+each blocked one (browser, institutional access, or a copy from the user).
