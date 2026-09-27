@@ -29,7 +29,7 @@ Check prior coverage before writing, not after. Grep the page's current text for
 3. **If the findings are NOT in the narrative**, add them: a sentence or two synthesizing the finding into the concept's existing story — usually as a new themed bullet or an extension of an existing paragraph (e.g. a "Key research themes" bullet, or a new paragraph under the relevant subsection). Integrate the *contribution* (what the finding adds to the concept), not just a mention.
 4. **Bump the concept's `updated:` timestamp** to a full ISO `-04:00` value in the same edit (concept-page edits that leave `updated:` stale hide the page from "Recently Updated" / RSS).
 5. **Re-run the check for ALL articles added that day**, not just the most recent one. The user explicitly wants the whole day's batch rechecked (articles ingested earlier the same day may have been back-linked but never narrative-integrated).
-6. **Run the HARD GATE** on every touched page before build: `inline_link_scan.py <WIKI> <slugs> --apply` and `check_list_formatting.py <WIKI> <slugs>` (verify concept slugs exist first), then `generate-llms-files.py`, `npm run build`, commit+push, and verify deploy with `gh run list` + curl HTTP 200.
+6. **Run the HARD GATE** on every touched page before build: `inline_link_scan.py <WIKI> <slugs> --apply` and `check_list_formatting.py <WIKI> <slugs>` (verify concept slugs exist first; do NOT regenerate the llms dumps, they are explicit-request-only), then `npm run build`, commit+push, and verify deploy with `gh run list` + curl HTTP 200.
 
 ## Pitfalls
 

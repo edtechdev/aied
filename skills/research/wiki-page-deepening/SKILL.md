@@ -92,20 +92,9 @@ The scanner's denylist suggestions are report-only, not defects. Apply only high
 
 ## Step 5 — Ship and verify
 
-1. Regenerate the llms files if page content changed. After ANY corpus-wide body change
-   (a mass section removal, a bulk edit), regenerate them too and verify by counting a removed
-   marker: they are easy to forget and they are what AI crawlers read.: `python3 tooling/scripts/generate-llms-files.py`.
-2. `npm run build` (workdir the wiki repo root) — confirm `0 errors` / `Complete`.
-3. Spot-check rendered HTML for the key new content.
-4. Privacy-scrub the diff: `git diff | grep -iE '/home/|<AGENT>|@gmail|mastodon'` → empty (except intended path-placeholder lines).
-5. Commit + push; watch CI (Build + Deploy) to green; `curl -s -o /dev/null -w "%{http_code}"` each touched live URL → 200.
-
-## Pitfalls
-
-- **Don't pad.** A longer page that adds nothing is a regression. If the source has little beyond what's there, say so and make only targeted improvements.
-- **Don't fabricate specificity.** Vague-but-true beats precise-but-invented.
-- **Don't forget bidirectional links.** One-way links are flagged in review.
-- **Don't edit the `## Citation` section** while deepening (except the deliberate, in-scope citation fix).
-- **Terminal cwd can drop** (exit 126) — always pass `workdir` explicitly.
-- **Skill files may be pruned** — reload with `skill_view` before depending on their content.
-- **The wiki runs a concurrent ingester cron** — big unexpected diffs are often that cron, not your command. Check `git status`/`git log` before mass-reverting.
+1. **Do NOT regenerate the llms dumps as part of a content edit.** `AGENTS.md` makes
+   `public/llms.txt`, `llms-concepts.txt` and `llms-full.txt` explicit-request-only
+   artifacts, exactly like the EPUB and PDF: never automatically after a content change,
+   never by CI, never by a subagent. They are ~20 MB of regenerated output, so an
+   automatic rebuild on every edit burns review bandwidth for no gain. Rebuild them with
+   `python3 tooling/scripts/generate-llms-files.py` only when the maintainer asks.

@@ -6,6 +6,11 @@ category: research
 
 # Wiki Astro Frontend
 
+> **The llms dumps are explicit-request-only artifacts (`AGENTS.md` §llms.txt).** Every step
+> below that mentions regenerating `public/llms.txt`, `llms-concepts.txt` or `llms-full.txt`
+> applies ONLY when the maintainer has asked for a rebuild. Never regenerate them as a side
+> effect of a taxonomy change, a rename, an ingest or any other content edit.
+
 > **Concept vocabulary: one source (2026-09-13).** Every concept slug, title and
 > synonym phrase now lives in **`concepts.registry.yaml`** at the repo root, together
 > with the sidebar `sections`, the `redirects` merge map and the `never_link` list.
