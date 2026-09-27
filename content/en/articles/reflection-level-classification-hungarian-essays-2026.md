@@ -1,7 +1,7 @@
 ---
 title: "Automatic Reflection Level Classification in Hungarian Student Essays"
 created: "2026-09-27T07:21:21-04:00"
-updated: "2026-09-27T07:21:21-04:00"
+updated: "2026-09-27T08:45:00-04:00"
 type: article
 sources: ['raw/papers/reflection-level-classification-hungarian-essays-2026.md']
 confidence: high
@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Reflective writing is a core competency in [[teacher-education|teacher training]], but scoring it by hand does not scale. This paper reports the first comprehensive study of automatic reflection level classification for Hungarian student essays, using 1,954 expert-annotated essays written over four consecutive years by students in an Early Childhood Education programme. The authors compare classical [[machine-learning|machine learning]] on TF-IDF features and Qwen3 semantic embeddings against two fine-tuned Hungarian transformers, hubert-base-cc and PULI-BERT-Large. The corpus is severely skewed, with 68% of essays at level 3 and 1.8% at level 0, so much of the paper is an ablation study of imbalance handling. Shallow models reached up to 71% overall score averaged over accuracy, F1 and ROC AUC, while transformers reached 68% but handled minority classes better. The authors frame the payoff practically for [[teacher-role|teachers]]: preliminary [[feedback]] and workload relief, with final [[assessment]] kept by educators. The lesson is that more imbalance machinery is not automatically better: model choice should follow the metric you care about.
+> **Synthesis:** Reflective writing is a core competency in [[teacher-education|teacher training]], but scoring it by hand does not scale. This paper reports the first comprehensive study of automatic reflection level classification for Hungarian student essays, using 1,954 expert-annotated essays written over four consecutive years by students in an Early Childhood Education program. The authors compare classical [[machine-learning|machine learning]] on TF-IDF features and Qwen3 semantic embeddings against two fine-tuned Hungarian transformers, hubert-base-cc and PULI-BERT-Large. The corpus is severely skewed, with 68% of essays at level 3 and 1.8% at level 0, so much of the paper is an ablation study of imbalance handling. Shallow models reached up to 71% overall score averaged over accuracy, F1 and ROC AUC, while transformers reached 68% but handled minority classes better. The authors frame the payoff practically for [[teacher-role|teachers]]: preliminary [[feedback]] and workload relief, with final [[assessment]] kept by educators. The lesson is that more imbalance machinery is not automatically better: model choice should follow the metric you care about.
 
 ## Key Findings
 
@@ -42,7 +42,7 @@ Reflective thinking is named as a core competency in international frameworks su
 
 ## How the 1,954-essay corpus was built
 
-Education experts at a large public university in Central Europe collected essays from students who completed their studies over 4 consecutive years. The students were in the Early Childhood Education programme, whose six semesters include pedagogical practice placements in nurseries; at the end of each semester they wrote a reflective essay answering guiding questions about their placements. The dataset contains almost 1,954 annotated essays from roughly 450 students. Raters scored several dimensions, but only reflection level is used here, from 0 (no reflection) to 3 (high reflection). Essays arrived as docx, pdf and txt files, so text was extracted with python-docx and PdfPlumber, and personal information was stripped with huspacy named entity recognition, regular expressions and a manual check. The dataset is not publicly available because of [[privacy]] and ethical considerations.
+Education experts at a large public university in Central Europe collected essays from students who completed their studies over 4 consecutive years. The students were in the Early Childhood Education program, whose six semesters include pedagogical practice placements in nurseries; at the end of each semester they wrote a reflective essay answering guiding questions about their placements. The dataset contains almost 1,954 annotated essays from roughly 450 students. Raters scored several dimensions, but only reflection level is used here, from 0 (no reflection) to 3 (high reflection). Essays arrived as docx, pdf and txt files, so text was extracted with python-docx and PdfPlumber, and personal information was stripped with huspacy named entity recognition, regular expressions and a manual check. The dataset is not publicly available because of [[privacy]] and ethical considerations.
 
 ## What the models did, and where they failed
 
@@ -63,7 +63,7 @@ Where they failed is instructive: confusion matrices show shallow models learned
 - The corpus is not publicly available because of privacy and ethical considerations, so others cannot reproduce these results on the same 1,954 essays.
 - Class skew remains a bottleneck: even with oversampling, most models struggled on minority classes and could reach high accuracy by favoring majority-class predictions.
 - Both transformers capped at a 512-token context window, so long essays had to be chunked and averaged, which can weaken document-level coherence signals.
-- Results come from one Hungarian corpus in a single Early Childhood Education programme, so performance depends on that class distribution and may not transfer to other writing tasks or languages.
+- Results come from one Hungarian corpus in a single Early Childhood Education program, so performance depends on that class distribution and may not transfer to other writing tasks or languages.
 
 ## Citation
 

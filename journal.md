@@ -1,9 +1,12 @@
 # Journal
 
-Last updated: 2026-09-27 | Total entries: 1717
+Last updated: 2026-09-27 | Total entries: 1720
 
 ## 2026-09-27
 
+- 📄 [[genai-reliance-human-agency-collaborative-learning-2026]] — A helping hand or a dominant partner? Individual perceptions of GenAI reliance and human agency in collaborative learning
+- 📄 [[gai-advocacy-practice-art-education-2026]] — When universities advocate GAI but practice falls short: student appraisals and creative process engagement in art education
+- 📄 [[trust-calibration-genai-collaborative-regulation-2026]] — Trust calibration and perceived developmental gains in university students' collaboration with generative AI: an exploratory sequential mixed methods study
 - 📄 [[genai-social-annotation-epistemic-network-analysis-2026]] — Unpacking student interactions in GenAI-assisted social annotation: An epistemic network analysis of cognitive and social presence
 - 📄 [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
 - 📄 [[educational-organizations-ai-era-leadership-review-2026]] — Educational Organizations in the AI Era: Digital Management and Leadership, Digital Skills, and Innovation
