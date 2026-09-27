@@ -76,22 +76,25 @@ Deepen the answer with concrete specifics from the underlying sources, and link 
 4. **Cross-linking is bidirectional and precise.** Link the **most precise** matching concept (not the umbrella). Link SPECIFIC concepts, not umbrella pages. Both directions (article↔concept/article) must agree. Prefer `[[wikilinks]]` in Connected lists; inline links in body prose are fine when they add navigational value.
 5. **Concept pages REQUIRED sections**: `## Questions to Consider` (single contiguous bulleted list, 2-7 open pre-reading questions) then `## Introduction`. If enriching a concept, refresh Questions if content changed substantially.
 6. **Bump `updated`** (full ISO timestamp) in frontmatter on any significant edit — the maintainer flags stale `updated` dates.
-7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<AGENT>`, or third-party site branding in tracked files or commit messages. Use neutral "the maintainer". (The `git-personal-info-scrub` skill has the full list.)
+7. **Public-repo privacy**: the repo is public. No personal names, `/home/` paths, `<AGENT>`, or third-party site branding in tracked files or commit messages. Use neutral "the maintainer". (See `public-repo-pii-hygiene` for the full list.)
 
 ## Step 4 — HARD GATE before build
 
-Run BOTH on the whole corpus (they also verify nothing else regressed):
+Run BOTH, **scoped to the pages you touched** — the standing rule is that gate runs only
+check pages created or edited since the last run, and a full-corpus sweep is explicit opt-in:
 
 ```bash
-python3 <AGENT>/research/wiki-inline-links/scripts/inline_link_scan.py . --all      # 0 broken/self/heading links, balanced brackets
-python3 <AGENT>/research/wiki-inline-links/scripts/check_list_formatting.py . --all # 0 defects; ordered lists ONE block; no body source links
+python3 <AGENT>/research/wiki-inline-links/scripts/inline_link_scan.py . <slug>       # 0 broken/self/heading links, balanced brackets
+python3 <AGENT>/research/wiki-inline-links/scripts/check_list_formatting.py . <slug> # 0 defects; ordered lists ONE block; no body source links
 ```
 
 The scanner's denylist suggestions are report-only, not defects. Apply only high-confidence links (use `--apply` per-page, then re-scan to confirm). After `--apply`, re-run list-formatting (it edits bodies).
 
 ## Step 5 — Ship and verify
 
-1. Regenerate the llms files if page content changed: `python3 tooling/scripts/generate-llms-files.py`.
+1. Regenerate the llms files if page content changed. After ANY corpus-wide body change
+   (a mass section removal, a bulk edit), regenerate them too and verify by counting a removed
+   marker: they are easy to forget and they are what AI crawlers read.: `python3 tooling/scripts/generate-llms-files.py`.
 2. `npm run build` (workdir the wiki repo root) — confirm `0 errors` / `Complete`.
 3. Spot-check rendered HTML for the key new content.
 4. Privacy-scrub the diff: `git diff | grep -iE '/home/|<AGENT>|@gmail|mastodon'` → empty (except intended path-placeholder lines).
