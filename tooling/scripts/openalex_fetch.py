@@ -216,11 +216,26 @@ LOCAL_RE = re.compile(
     r"a single (university|college|school|classroom|institution|course|district)|"
     r"single-?(site|institution|classroom|centre|center|course)|"
     r"one (teacher|instructor|lecturer|professor)'?s? (class|classroom|course)|"
-    r"a (private|public|state|federal|selected) (university|college|school|institute))", re.I)
+    r"a (private|public|state|federal|selected|local)\s+(?:[a-z-]+\s+){0,2}"
+    r"(university|college|school|institute|academy)|"
+    r"\b(a|one|two) (secondary|primary|elementary|middle|high|rural|urban) schools?\b|"
+    r"\ba single (language|teacher|school) )", re.I)
 SMALL_N_RE = re.compile(
-    r"\b(\d{1,3})\s+(students|participants|learners|teachers|respondents|pupils|"
-    r"undergraduates|educators|trainees|pre-?service teachers)\b", re.I)
+    r"\b(\d{1,3})\s+(?:[a-z-]+\s+){0,2}(students|participants|learners|teachers|respondents|"
+    r"pupils|undergraduates|educators|trainees|pre-?service teachers)\b", re.I)
 SMALL_N_LIMIT = 100
+# Scope, not significance: a paper whose population is the researcher's own work (their
+# manuscript, their publishing pipeline) is a different knowledge base's subject. Learners or
+# teachers anywhere in the text rescue a record; doctoral and graduate writers count as learners.
+RESEARCHER_POP_RE = re.compile(
+    r"(research writing|scientific writing|scholarly writing|academic publishing|"
+    r"manuscript (writing|preparation|drafting|revision)|grant writing|"
+    r"researchers\' (writing|productivity|workflow)|faculty (writing|productivity)|"
+    r"peer-?review process|writing a (paper|manuscript))", re.I)
+LEARNER_POP_RE = re.compile(
+    r"(students?|pupils?|learners?|undergraduates?|postgraduates?|doctoral|K-?12|"
+    r"teachers?|instructors?|lecturers?|faculty members|classrooms?|curricul|"
+    r"courses?|schools?|universit|college|MOOC|practicum|trainees?)", re.I)
 
 
 def screen_scope(title: str, abstract: str) -> tuple:
@@ -236,11 +251,13 @@ def screen_scope(title: str, abstract: str) -> tuple:
     local = [m.group(0) for m in LOCAL_RE.finditer(text)]
     small = [int(m.group(1)) for m in SMALL_N_RE.finditer(text) if int(m.group(1)) < SMALL_N_LIMIT]
     reasons = []
+    if RESEARCHER_POP_RE.search(text) and not LEARNER_POP_RE.search(text):
+        return "low_impact", ["population is researchers or professionals, not learners"]
     if TITLE_PERCEPTION_RE.search(title or "") and not strengths:
         reasons.append("perception/attitude study (self-report by construction)")
     elif selfrep and not outcomes and not strengths:
         reasons.append("self-report only, no measured outcome")
-    if small and not outcomes and not strengths:
+    if small and not strengths:
         reasons.append(f"small sample ({min(small)} stated)")
     if local and not strengths:
         reasons.append("localized to a single site or institution")
