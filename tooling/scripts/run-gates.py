@@ -55,7 +55,7 @@ SCOPABLE = {
 # edited, so there is nothing to narrow them to.
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
-    'gen-index-journal.py', 'check-frontmatter-dates.py',
+    'gen-index-journal.py', 'check-slugs.py', 'check-frontmatter-dates.py',
 )
 
 

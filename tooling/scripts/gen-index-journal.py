@@ -27,9 +27,10 @@ pure function of the pages. Page order in index.md is by slug.
 
 Scope is the default locale only. Translated pages are not listed or counted.
 
-FAQs are counted but have never been listed in index.md or given journal entries.
-That gap is preserved rather than silently changed; pass --include-faqs to add
-them (and expect the counts to stay the same, since they were always counted).
+FAQs are listed in journal.md, because the site's journal page (built from the Astro
+collections rather than from this file) has always listed them, and the two should
+agree. index.md keeps them in the count line only, matching the site, where FAQs have
+their own index page instead of appearing in the all-pages list.
 """
 import os
 import re
@@ -47,8 +48,10 @@ from wiki_config import load_config, path  # noqa: E402
 
 # Collection -> the emoji a journal entry carries, in the order entries are
 # written inside a date group. Articles first, then concepts, then resources.
-JOURNAL_EMOJI = {'articles': '\U0001f4c4', 'concepts': '\U0001f4d8', 'resources': '\U0001f6f0'}
-FAQ_EMOJI = '\u2753'
+JOURNAL_EMOJI = {'articles': '\U0001f4c4', 'concepts': '\U0001f4d8', 'resources': '\U0001f6f0',
+                 'faqs': '\u2753'}
+# Journal column order inside a date group, newest-first within the group.
+JOURNAL_ORDER = tuple(JOURNAL_EMOJI)
 INDEX_SECTIONS = ('articles', 'concepts')
 
 FRONTMATTER = re.compile(r'\A---\s*\n(.*?)\n---\s*\n', re.S)
@@ -103,14 +106,12 @@ def stamp(pages):
     return max(dates) if dates else datetime.now().strftime('%Y-%m-%d')
 
 
-def render_index(pages, updated, include_faqs=False):
+def render_index(pages, updated):
     lines = ['# Index', '', f'Last updated: {updated}', '']
     counts = ['{}: {}'.format(name.capitalize().replace('Faqs', 'FAQs'), len(pages.get(name, [])))
               for name in ('articles', 'concepts', 'resources', 'faqs')]
     lines += [' | '.join(counts), '', '## Concepts', '']
     listing = pages.get('articles', []) + pages.get('concepts', [])
-    if include_faqs:
-        listing = listing + pages.get('faqs', [])
     for page in sorted(listing, key=lambda p: p['slug']):
         lines.append(f"- [[{page['slug']}]] — {page['title']}")
     lines += ['', '## Resources', '']
@@ -119,12 +120,9 @@ def render_index(pages, updated, include_faqs=False):
     return '\n'.join(lines) + '\n'
 
 
-def render_journal(pages, updated, include_faqs=False):
-    journaled = {k: v for k, v in pages.items() if k in JOURNAL_EMOJI}
-    emoji = dict(JOURNAL_EMOJI)
-    if include_faqs:
-        journaled['faqs'] = pages.get('faqs', [])
-        emoji['faqs'] = FAQ_EMOJI
+def render_journal(pages, updated):
+    journaled = pages
+    emoji = JOURNAL_EMOJI
     total = sum(len(v) for v in journaled.values())
     lines = ['# Journal', '', f'Last updated: {updated} | Total entries: {total}', '']
     # Group by the date part of `created`; a page with no created date cannot be
@@ -151,10 +149,8 @@ def main():
     cfg = load_config()
     root = path(cfg, 'root')
     pages = load_pages()
-    include_faqs = '--include-faqs' in argv
     updated = stamp(pages)
-    outputs = {'index.md': render_index(pages, updated, include_faqs),
-               'journal.md': render_journal(pages, updated, include_faqs)}
+    outputs = {'index.md': render_index(pages, updated), 'journal.md': render_journal(pages, updated)}
 
     if check:
         stale = []

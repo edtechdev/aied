@@ -1,6 +1,6 @@
 # Journal
 
-Last updated: 2026-09-27 | Total entries: 1732
+Last updated: 2026-09-27 | Total entries: 1764
 
 ## 2026-09-27
 
@@ -353,11 +353,25 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[assistive-tech-neurodivergent-higher-ed-review-2026]] — Generative AI, virtual reality, and beyond: A scoping review of digital assistive technologies for neurodivergent students in higher education
 - 📄 [[arc-hubs-k12-ai-robotics-rural-2026]] — Teaching AI, Robotics, & Community: A Hubs-Based K-12 Education Framework for Reaching Rural Schools
 - 📄 [[ai-rated-classroom-observation-scores-2026]] — I code or AI code: A comparative evaluation of AI-rated scores in classroom observations
+- ❓ [[should-we-use-ai-detectors]] — Should We Use AI Detectors?
 - 📄 [[lund-socially-accountable-data-science-xai-2026]] — Toward Socially Accountable Data Science Education: A Conceptual Framework for Integrating Explainable AI and Accountability Principles
+- ❓ [[asynchronous-online-courses-ai]] — How Should We Design and Facilitate Asynchronous Online Courses When AI Can Do the Work?
 - 📄 [[clerc-ai-literacy-workshop-llm-regulation-2026]] — Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task
 
 ## 2026-09-16
 
+- ❓ [[verify-ai-output]] — How Do I Teach Students to Verify AI Output?
+- ❓ [[study-with-ai]] — How Should I Use AI to Study and Learn Effectively?
+- ❓ [[reducing-over-reliance]] — How Do I Keep Students from Over-Relying on AI?
+- ❓ [[institutional-ai-policy]] — How Do We Write and Implement an Institutional AI Policy?
+- ❓ [[group-work-ai]] — How Should I Handle AI in Group and Collaborative Assignments?
+- ❓ [[faculty-development-ai]] — How Do I Design Faculty Development for AI That Actually Changes Practice?
+- ❓ [[course-ai-policy]] — How Do I Write a Course AI Policy and Communicate It to Students?
+- ❓ [[ai-feedback-at-scale]] — How Can AI Help Me Give Better Feedback at Scale?
+- ❓ [[ai-disabled-neurodivergent-learners]] — How Can AI Support Disabled and Neurodivergent Learners in My Course?
+- ❓ [[ai-anxiety-wellbeing]] — How Does AI Affect Student Anxiety and Well-Being, and What Can We Do?
+- ❓ [[ai-guidance-children-under-13]] — How Should Parents and Teachers Approach AI with Children Under 13?
+- ❓ [[reporting-interpreting-aied-research]] — What Are Best Practices for Reporting and Interpreting AI in Education Research?
 - 📘 [[speech-and-voice-technologies]] — Speech and Voice Technologies
 - 📘 [[recommender-systems-and-learning-paths]] — Recommender Systems and Learning Paths
 - 📘 [[parents-and-families]] — Parents and Families
@@ -462,6 +476,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review of processes, strategies, and effects
 - 📘 [[self-report-measures]] — Self-Report Measures
 - 📄 [[genai-writing-program-primary-l2-motivation-engagement]] — Exploring the impact of a GenAI-supported writing program on primary students' writing motivation, engagement
+- ❓ [[writing-instruction-ai-best-practices]] — What Are Best Practices for Writing Instruction in the Context of AI?
 - 📄 [[student-genai-use-views-writing]] — Student Use of and Views on GenAI for Writing
 - 📄 [[ai-integrated-teaching-identity-tensions]] — ‘Resistance is futile?’: identity tensions and principled selectivity in AI-integrated teaching
 
@@ -564,6 +579,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[aarc-ai-research-competency-2026]] — AI-Assisted Research Competency in Secondary Education: A Framework for Epistemic Agency, Authorship and Responsible Knowledge Production
 - 📄 [[decreasing-digital-distraction-college-online-learning-2026]] — Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised
 - 📄 [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026]] — Privacy-Preserving Heterogeneous Multi-LLM Federated Inference for Cognitive Diagnosis
+- ❓ [[addressing-common-misconceptions-ai-education]] — How Can We Address Common Misconceptions About AI in Education?
 
 ## 2026-09-03
 
@@ -709,6 +725,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 
 ## 2026-08-29
 
+- ❓ [[developing-ai-tutor]] — What Are Best Practices for Developing an Effective AI Tutor?
 - 📘 [[visualization]] — Visualization
 - 📘 [[science-education]] — Science Education
 - 📘 [[problem-solving]] — Problem Solving
@@ -755,6 +772,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[seung-basham-cognitive-offloading-swld-2026]] — Cognitive Offloading in the Age of Generative AI: What Does It Mean for Students With Learning Disabilities?
 - 📄 [[turano-ai-tutoring-not-a-monolith-2026]] — AI Tutoring is Not a Monolith: What We Actually Know
 - 📘 [[learner-identity]] — Learner Identity
+- ❓ [[how-ai-impacts-students]] — How Is AI Impacting Students?
 - 📄 [[jin-emergent-learner-agency-implicit-hai-2026]] — Emergent Learner Agency in Implicit Human-AI Collaboration: How Supportive and Contrarian AI Personas Reshape Interaction
 - 📄 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026]] — Efficiency vs. Effectiveness: Self-Regulated Learning with LLM-Mediated Help-Seeking
 - 📄 [[song-genai-learning-partner-srl-over-time-2026]] — GenAI as a Learning Partner: Supporting Self-Regulated Learning Over Time Without Replacing Effort
@@ -807,6 +825,16 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[qu-wang-disclose-or-not-genai-2026]] — To disclose or not to disclose: Peer influence and psychological factors in students' use of generative artificial intelligence
 - 📄 [[ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025]] — Chat or cheat? Academic dishonesty, risk perceptions, and ChatGPT usage in higher education students
 - 📘 [[anxiety-and-stress]] — Anxiety and Stress
+- ❓ [[reduce-ai-cheating]] — How Can I Reduce AI Cheating in My Course?
+- ❓ [[redesign-assessment-ai-era]] — How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?
+- ❓ [[faculty-ai-competencies]] — What Competencies Do Faculty Need in Regard to AI?
+- ❓ [[evaluating-ai-interventions-methods]] — What Measures and Research Methods Can an Instructor Use to Evaluate AI-Related Interventions?
+- ❓ [[equity-ethics-pedagogical-safety-research]] — How Should AI in Education Research Incorporate Equity, Accessibility, Privacy, Ethics, and Pedagogical Safety?
+- ❓ [[does-ai-help-students-learn]] — Does Using AI Actually Help My Students Learn?
+- ❓ [[designing-educational-ai-software]] — What Are Best Practices and Tips for Designing Effective Educational AI Software?
+- ❓ [[designing-ai-into-learning]] — How Should AI Be Designed Into the Learning Experience?
+- ❓ [[ai-save-instructor-time]] — How Can AI Save Me Time as an Instructor?
+- ❓ [[ai-agents-support-students-instructors]] — How Can AI Agents Support Students and Instructors?
 - 📘 [[guardrails]] — Guardrails
 - 📄 [[stenalt-good-education-teacher-ai-conceptions-2026]] — Understanding what good education is: a phenomenographic investigation of university teachers' understandings of AI
 - 📄 [[your-brain-on-chatgpt-cognitive-debt-essay-writing]] — Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
@@ -824,6 +852,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[mejeh-fromm-srl-adaptive-learning-feedback-2026]] — Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback
 - 📄 [[learning-context-framework-context-aware-ai-education-2026]] — Learning Context: A Unified Framework and Roadmap for Context-Aware AI in Education
 - 📄 [[banihashem-ai-srl-systematic-mapping-review-2025]] — A systematic mapping review at the intersection of artificial intelligence and self-regulated learning
+- ❓ [[research-gaps-aied]] — What Are Notable Gaps in the Research Literature on AI in Education?
 - 📄 [[liu-emerging-tech-tefl-review-2026]] — A Systematic Review of Emerging Technology Applications for Teaching English as a Foreign Language Across Different Educational Levels
 - 📄 [[isaza-chatgpt-engineering-prompting-2026]] — An Empirical Study of ChatGPT Use in Engineering Education: Prompting and Performance
 - 📄 [[liu-ai-literacy-interventions-meta-analysis-2026]] — AI Literacy Interventions in Education: A Meta-Analysis of Effects and Moderators
@@ -832,6 +861,9 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[tsingidou-ct-robotics-kindergarten-2026]] — Fostering Computational Thinking Through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment
 - 📄 [[astor-computational-thinking-meta-review-2026]] — Computational Thinking: A Meta-Review of Systematic Reviews and Meta-Analyses
 - 📄 [[burneo-can-edtech-close-learning-gaps-2026]] — Can EdTech Close Learning Gaps? Global Evidence from Digital Interventions
+- ❓ [[ai-literacy-evidence]] — What Is the Evidence on AI Literacy Interventions in Higher Education?
+- ❓ [[incorporating-ai-literacy]] — How Should I Incorporate AI Literacy into My Course?
+- ❓ [[top-10-findings-ai-education-instructors]] — What Are the Top 10 Findings from AI in Education Research That Instructors Should Know About?
 - 📄 [[tts-dialogue-lessons-learner-characteristics-2026]] — Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons
 - 📄 [[reflective-triangle-model-teacher-ai-2026]] — The Reflective Triangle Model: AI as a Cognitive Mediator in Teachers' Professional Learning and Learning-Community Development
 - 📄 [[mechanical-compliance-human-flourishing-ai-literacy-2026]] — From Mechanical Compliance to Human Flourishing: A Socialist Humanist Approach to Asynchronous AI Literacy and Fair Use in Higher Education
@@ -1321,7 +1353,7 @@ Last updated: 2026-09-27 | Total entries: 1732
 - 📄 [[hcap-human-centric-ai-pedagogy-framework-2026]] — Human-Centric Artificial Intelligence Pedagogy (HCAP) framework developed from TPACK through integration of artificial intelligence literacy and competency
 - 📄 [[genai-literacy-training-teacher-education-dbr-2026]] — Development and evaluation of artificial intelligence literacy training for teacher education students
 - 📄 [[ai-literacy-career-adaptability-business-2026]] — AI literacy alone is not enough: Student AI readiness and career adaptability in business and management education
-- 📄 [[will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
+- 📄 [[will-skill-not-tool-chinese-university-students-generative-ai-academic-writing]] — Will, Skill, Not Tool: Chinese university students' acceptance of generative AI for academic writing in informal English medium instruction settings
 - 📄 [[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl]] — The Scaffolded AI literacy (SAIL) framework: Results of a Delphi study for equitable AI literacy framework design in education
 - 📄 [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination]] — Students' engagement with generative AI in academic learning: A self-determination theory and epistemic network analysis study
 - 📄 [[reimagining-feedback-through-generative-ai-in-engineering-education]] — Reimagining feedback through generative AI in engineering education

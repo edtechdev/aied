@@ -11,6 +11,8 @@
 
 export const ARTICLE_REDIRECTS: Record<string, string> = {
   // Slugs respelled to US English (same pages, renamed for house style).
+  // Slug truncated mid-phrase (and left a trailing hyphen, so the URL ended in /for-/).
+  'will-skill-not-tool-chinese-university-students-acceptance-of-generative-ai-for-': 'will-skill-not-tool-chinese-university-students-generative-ai-academic-writing',
   'ai-modelling-problem-generation-platform-2026': 'ai-modeling-problem-generation-platform-2026',
   'ai-tutors-vs-tenacious-myths-personalised-dialogue-2026': 'ai-tutors-vs-tenacious-myths-personalized-dialogue-2026',
   'causal-modelling-competency-assessment-2026': 'causal-modeling-competency-assessment-2026',
